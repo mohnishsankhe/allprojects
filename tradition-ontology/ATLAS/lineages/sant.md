@@ -51,9 +51,9 @@ The Sants are the poet-saints of North India, from Kabīr, Ravidās and Dādū o
 [The order of the aṅgas in the Rajasthani Sant anthologies](../paths/sant-anga-sequence.md)
 
 ## Debates
-[Was Kabīr a Hindu or a Muslim?](../debates/kabir-identity-hindu-or-muslim.md), [Is the Rām of the Sants the avatāra, Rāma son of Daśaratha?](../debates/kabir-ram-and-the-avatara.md), [What place, if any, has yogic discipline (haṭha, aṣṭāṅga, kuṇḍalinī) on the Sant path of the Name?](../debates/yoga-in-the-sant-path.md)
+[Was Kabīr a Hindu or a Muslim?](../debates/kabir-identity-hindu-or-muslim.md), [Is the Rām of the Sants the avatāra, Rāma son of Daśaratha?](../debates/kabir-ram-and-the-avatara.md), [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md), [What place, if any, has yogic discipline (haṭha, aṣṭāṅga, kuṇḍalinī) on the Sant path of the Name?](../debates/yoga-in-the-sant-path.md)
 
 _Notes: Family 'vedic' is used here for the Hindu side of the ontology, as for other bhakti lineages; the Sants themselves reject the authority of both Veda and Kitāb (Qur'ān). The Sikh Gurus are counted among the Sants by many scholars and the Ādi Granth (1604) preserves Kabīr, Ravidās, Nāmdev and other bhagats; Sikh scripture is outside this ontology's scope and is noted as context only. Exchanges with Sufis are recorded as context only (Sufism is outside scope). The Maharashtrian Vārkarī saints are the 'southern Sants' (owned by U26)._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

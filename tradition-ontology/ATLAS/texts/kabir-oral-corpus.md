@@ -55,7 +55,7 @@ The son of Daśaratha is praised in the three worlds, but the secret of the name
 
 _level: ultimate · standpoint: polemical · path: sound, knowledge · stage: all · types: ultimate, dispute_
 
-terms: [Rām (Rāma)](../terms/rama.md), [nirguṇa](../terms/nirguna.md), [nāma](../terms/nama.md) · concepts: [Devotion to the attributeless (nirguṇa bhakti)](../concepts/nirguna-bhakti.md), [The power of the divine name](../concepts/power-of-the-name.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: [Is the Rām of the Sants the avatāra, Rāma son of Daśaratha?](../debates/kabir-ram-and-the-avatara.md), `dsp:saguna-nirguna`
+terms: [Rām (Rāma)](../terms/rama.md), [nirguṇa](../terms/nirguna.md), [nāma](../terms/nama.md) · concepts: [Devotion to the attributeless (nirguṇa bhakti)](../concepts/nirguna-bhakti.md), [The power of the divine name](../concepts/power-of-the-name.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: [Is the Rām of the Sants the avatāra, Rāma son of Daśaratha?](../debates/kabir-ram-and-the-avatara.md), [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### dohā 'din ko rozā rahat hai, rāt hanat hai gāy …' <a id="tea-kabir-oral-corpus-din-ko-roza-rahat-hai"></a>
 `skeleton` · confidence high
@@ -140,7 +140,7 @@ Do not ask a sādhu's caste; ask about his knowledge. Bargain for the sword, and
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics, dispute_
 
-terms: [jāti](../terms/jati.md) · concepts: [Rejection of caste](../concepts/rejection-of-caste.md) · obstacles: [Caste pride (cāti)](../obstacles/caste-pride.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: `dsp:women-caste-liberation`
+terms: [jāti](../terms/jati.md) · concepts: [Rejection of caste](../concepts/rejection-of-caste.md) · obstacles: [Caste pride (cāti)](../obstacles/caste-pride.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### dohā 'kabirā man nirmal bhayā, jaise gaṅgā nīr …' <a id="tea-kabir-oral-corpus-kabira-man-nirmal-bhaya"></a>
 `skeleton` · confidence high
@@ -258,7 +258,7 @@ At the mere shadow of a woman even the snake goes blind; what then becomes of th
 
 _level: conventional · standpoint: seeker · path: general · stage: beginner · types: ethics, dispute_
 
-concepts: [Women in the Sant and Bāul traditions](../concepts/women-sant-baul.md) · obstacles: [Gold and woman (kanak-kāminī)](../obstacles/kanak-kamini.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Women in the Sant and Bāul traditions](../concepts/women-sant-baul.md) · obstacles: [Gold and woman (kanak-kāminī)](../obstacles/kanak-kamini.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### dohā 'pothī paṛhi paṛhi jag muā …' <a id="tea-kabir-oral-corpus-pothi-parhi-parhi-jag-mua"></a>
 `skeleton` · confidence high
@@ -289,7 +289,7 @@ If worshipping a stone brought Hari, I would worship a mountain; better is the h
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute_
 
-concepts: [Critique of outward religion](../concepts/critique-of-outward-religion-sant.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: `dsp:saguna-nirguna`
+concepts: [Critique of outward religion](../concepts/critique-of-outward-religion-sant.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### dohā 'rām nām kī lūṭ hai, lūṭ sake to lūṭ …' <a id="tea-kabir-oral-corpus-ram-nam-ki-lut-hai"></a>
 `skeleton` · confidence high
@@ -361,7 +361,7 @@ Do not say the Vedas and the Books (the Qur'ān and other Semitic scriptures) ar
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, ethics_
 
-concepts: [Neither Hindu nor Turk](../concepts/hindu-and-turk.md), [Sant conduct](../concepts/sant-ethics.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [Neither Hindu nor Turk](../concepts/hindu-and-turk.md), [Sant conduct](../concepts/sant-ethics.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### pad 'ham na mare, mari hai saṃsārā …' <a id="tea-kabir-oral-corpus-ham-na-mare-mari-hai-sansara"></a>
 `skeleton` · confidence moderate
@@ -397,7 +397,7 @@ If you are a brahmin born of a brahmin mother, why did you not come by some othe
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, ethics_
 
-concepts: [Rejection of caste](../concepts/rejection-of-caste.md), [Neither Hindu nor Turk](../concepts/hindu-and-turk.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Rejection of caste](../concepts/rejection-of-caste.md), [Neither Hindu nor Turk](../concepts/hindu-and-turk.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### pad 'kyā kāsī kyā ūsar magahar, rām hṛday basa morā …' <a id="tea-kabir-oral-corpus-kya-kasi-kya-usar-magahar"></a>
 `skeleton` · confidence high
@@ -415,7 +415,7 @@ I speak of what I have seen with my eyes; you speak of what is written on paper;
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-concepts: [Discernment (pārakh)](../concepts/parakh.md), [The present and the inferred (bartamān and anumān)](../concepts/bartaman-anuman.md) · obstacles: [Book-learning without love](../obstacles/pothi-learning.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [Discernment (pārakh)](../concepts/parakh.md), [The present and the inferred (bartamān and anumān)](../concepts/bartaman-anuman.md) · obstacles: [Book-learning without love](../obstacles/pothi-learning.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### pad 'man na raṅgāye, raṅgāye jogī kapṛā …' <a id="tea-kabir-oral-corpus-man-na-rangaye-jogi-kapra"></a>
 `skeleton` · confidence high
@@ -457,4 +457,4 @@ terms: [ulaṭbāṃsī](../terms/ulatbamsi.md) · concepts: [Reversed speech (u
 _Notes: Created by this unit as the honest home for teachings whose attribution is popular rather than critical; each teaching notes whether the verse is also found in the Bījak or Granthāvalī when recalled._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

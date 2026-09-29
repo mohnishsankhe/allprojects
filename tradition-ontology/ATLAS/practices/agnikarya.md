@@ -13,4 +13,4 @@ Offerings into a consecrated fire in a prescribed fire-pit as part of daily, ini
   - [Somaśambhupaddhati](../texts/somasambhupaddhati.md) — ref: nitya; rests_on: ["tea:somasambhupaddhati:nitya"]
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

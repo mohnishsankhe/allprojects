@@ -10,7 +10,7 @@ The Gheraṇḍa Saṃhitā's whole course: cleansing acts, postures, mudrās, w
 **Stage:** all
 **Sources:** 
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 1.9-11; rests_on: ["tea:gheranda-samhita:1.9-11", "tea:gheranda-samhita:1.8"]
-**Sequences:** `pth:gheranda-seven-limbs`
+**Sequences:** [The seven means of the 'yoga of the pot' (ghaṭastha-yoga) in the Gheraṇḍa Saṃhitā](../paths/gheranda-seven-limbs.md)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._

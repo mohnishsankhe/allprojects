@@ -14,4 +14,4 @@
 Kannada Vīraśaiva poet, nephew and disciple of Harihara, author of the Hariścandra Kāvya, the Siddharāma Cāritra and the Sōmanātha Cāritra.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

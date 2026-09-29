@@ -1,6 +1,6 @@
 # Prādhānika Rahasya
 
-`src:pradhanika-rahasya` · `skeleton` · confidence moderate
+`src:pradhanika-rahasya` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -28,4 +28,8 @@ concepts: [Mahākālī, Mahālakṣmī, Mahāsarasvatī](../concepts/three-forms
 _Notes: Recited as a limb (aṅga) of the Durgā Saptaśatī (Devī Māhātmya, U07); U23 records the Śākta liturgy._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — catalog:raw_etexts:source (durgA-saptashatI), local:sources_raw/raw_etexts/purANam/durgA-saptashatI/goraxapura-pAThaH/raw/source.html (Gita Press Durgā Saptaśatī), https://www.hindupedia.com/en/Rahasya_Thrayam_I-_Pradhanika_Rahasyam — Located in the local Gita Press Durgā Saptaśatī: 'prādhānikaṃ rahasyam', one of the three rahasyas (with vaikṛtika and mūrti), v. 4 'sarvasyādyā mahālakṣmīs triguṇā parameśvarī' - matching the summary.
+
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

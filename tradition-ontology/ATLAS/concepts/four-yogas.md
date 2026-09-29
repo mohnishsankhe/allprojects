@@ -14,11 +14,11 @@
 
 ## Relations (interpretation layer)
 - leads-to → [Rājayoga as the goal and its synonyms](rajayoga-goal.md) — rests on [145-147](../texts/dattatreyayogasastra.md#tea-dattatreyayogasastra-145-147)
-- corresponds-to-in-map → `pth:dattatreya-four-yogas`: the same four yogas are the frame of the Dattātreyayogaśāstra — rests on [whole](../texts/amaraugha-prabodha.md#tea-amaraugha-prabodha-whole)
+- corresponds-to-in-map → [The four yogas of the Dattātreyayogaśāstra (mantra, laya, haṭha, rāja)](../paths/dattatreya-four-yogas.md): the same four yogas are the frame of the Dattātreyayogaśāstra — rests on [whole](../texts/amaraugha-prabodha.md#tea-amaraugha-prabodha-whole)
 
 ---
 **Verification checks**
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 7 teachings it rests on exist and were located in the e-text.
 
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._

@@ -11,4 +11,4 @@ Doubt that the Lord will protect undermines surrender; great faith (mahāviśvā
   - [Rahasyatrayasāra](../texts/rahasyatrayasara.md) — ref: Parikaravibhāga; rests_on: ["tea:rahasyatrayasara:parikara-vibhaga"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

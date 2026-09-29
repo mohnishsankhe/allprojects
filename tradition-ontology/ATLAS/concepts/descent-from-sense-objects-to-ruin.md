@@ -17,4 +17,4 @@
 _Notes: The skeleton records the same sequence as the obstacle obs:chain-from-dwelling-on-objects._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:02 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:11 IST._

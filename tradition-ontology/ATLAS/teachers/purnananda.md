@@ -18,4 +18,4 @@ Bengali Śākta tantric author (Giri order) of the Śrītattvacintāmaṇi (1577
 _Notes: Place of origin low confidence._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._

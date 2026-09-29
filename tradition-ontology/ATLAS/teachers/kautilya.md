@@ -16,4 +16,4 @@ Author by tradition of the Arthaśāstra.
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Arthashastra — Confirmed: tradition names Kauṭilya (Cāṇakya/Viṣṇugupta), minister of Candragupta; scholars (Olivelle, McClish) see a text redacted in the early centuries CE (Wikipedia). The two accounts are kept apart, as in the entry.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

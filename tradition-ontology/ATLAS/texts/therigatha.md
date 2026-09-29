@@ -55,7 +55,7 @@ Somā: what does womanhood matter when the mind is well concentrated and knowled
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: realized · types: dispute, karma-liberation_
 
-concepts: [Women and awakening](../concepts/women-and-awakening.md) · teachers: [Somā](../teachers/soma-theri.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Women and awakening](../concepts/women-and-awakening.md) · teachers: [Somā](../teachers/soma-theri.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 5.9 <a id="tea-therigatha-5-9"></a>
 `skeleton` · confidence moderate
@@ -131,4 +131,4 @@ teachers: [Upaka the Ājīvaka](../teachers/upaka-ajivaka.md)
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

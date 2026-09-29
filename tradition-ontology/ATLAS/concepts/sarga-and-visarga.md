@@ -1,6 +1,6 @@
 # Primary and secondary creation
 
-`cpt:sarga-and-visarga` · `skeleton` · confidence high
+`cpt:sarga-and-visarga` · `sourced` · confidence high
 
 **Category:** cosmology-time
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:1.3.1-5, tea:bhagavata-purana:2.10.1-2, tea:visnu-purana:1.2, tea:visnu-purana:1.5.19-25 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # The auspicious support of the mind (śubhāśraya)
 
-`cpt:subhasraya` · `skeleton` · confidence high
+`cpt:subhasraya` · `sourced` · confidence high
 
 **Category:** stages-maps
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:visnu-purana:6.7.36-45, tea:visnu-purana:6.7.47-55, tea:visnu-purana:6.7.75-90 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

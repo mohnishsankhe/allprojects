@@ -16,11 +16,11 @@ Not injuring any being in any way at any time (YBh 2.30), kept as a great vow (2
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 7.13; rests_on: ["tea:tattvartha-sutra:7.13"]
   - [Puruṣārthasiddhyupāya](../texts/purusarthasiddhyupaya.md) — ref: 44; rests_on: ["tea:purusarthasiddhyupaya:44"]
   - [Chāndogya Upaniṣad](../texts/chandogya-upanisad.md) — ref: 3.17.4; 8.15.1; rests_on: ["tea:chandogya-upanisad:3.17.4", "tea:chandogya-upanisad:8.15.1"]
-**Sequences:** `pth:yoga-sutra-eight-limbs`
+**Sequences:** [Patañjali's eight limbs of yoga (aṣṭāṅga-yoga)](../paths/yoga-sutra-eight-limbs.md)
 
 ---
 **Verification checks**
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 3.17.4; ChU 8.15.1). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U35-jain-philosophy, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U35-jain-philosophy, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

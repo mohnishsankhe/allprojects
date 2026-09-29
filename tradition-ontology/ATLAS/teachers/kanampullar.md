@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A poor man who sold kaṇampul grass to bu
 **Realization — the tradition's account:** A poor man who sold kaṇampul grass to buy oil for temple lamps; when he could not sell it he burned the grass itself, and when that ran out he set fire to his own hair.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

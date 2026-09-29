@@ -8,4 +8,4 @@
 The Buddha's father, a Sakyan chief of Kapilavatthu, at whose request the rule on parental consent for going forth was made (Vin Mv 1.54).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

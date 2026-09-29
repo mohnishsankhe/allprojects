@@ -12,4 +12,4 @@ Reciting the names of the thirty-five buddhas with prostrations, confessing wron
   - [Vinayaviniścaya-Upāliparipṛcchā](../texts/upalipariprccha.md) — 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

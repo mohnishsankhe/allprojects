@@ -27,4 +27,4 @@
 **Related:** [śūnyatā](sunyata.md), [bayalu](bayalu.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul, skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul, skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

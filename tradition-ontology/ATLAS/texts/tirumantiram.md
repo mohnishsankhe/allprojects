@@ -163,7 +163,7 @@ Mankind is one family and God is one; think only good; there is no death (Yama) 
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics, ultimate_
 
-disputes: `dsp:women-caste-liberation`
+disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 2397 <a id="tea-tirumantiram-2397"></a>
 `skeleton` · confidence low
@@ -172,7 +172,7 @@ The Veda and the Āgama are both true, both the Lord's scripture; one is general
 
 _level: conventional · standpoint: divine · path: general · stage: all · types: teacher-transmission, sound-language_
 
-disputes: [Are the Āgamas and tantras authoritative — equal to, above, or outside the Veda?](../debates/agama-veda-authority.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+disputes: [Are the Āgamas and tantras authoritative — equal to, above, or outside the Veda?](../debates/agama-veda-authority.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### tantra.1 <a id="tea-tirumantiram-tantra-1"></a>
 `skeleton` · confidence moderate
@@ -230,4 +230,4 @@ concepts: [The dance of Naṭarāja and the Chidambaram tradition](../concepts/d
 
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

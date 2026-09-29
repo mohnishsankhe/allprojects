@@ -1,6 +1,6 @@
 # Garuḍa Purāṇa, Pretakalpa
 
-`src:garuda-purana-pretakalpa` · `skeleton` · confidence high
+`src:garuda-purana-pretakalpa` · `sourced` · confidence high
 
 **Alternate titles:** Pretakhaṇḍa, Dharmakāṇḍa, Uttarakhaṇḍa (dvitīyāṃśa)
 **Language:** Sanskrit
@@ -18,4 +18,8 @@ The classical Purāṇic manual of dying and the afterlife: the signs and pains 
 _Notes: Chapter topics (from the colophons of the local e-text): 1 questions; 2 after-death rites and karmic results; 3 hells; 4 cremation, deaths in pañcaka; 5 annual rites and the road to Yama; 6 vṛṣotsarga; 7 five pretas; 8 self-śrāddha; 11 the openings of departure; 12 only dharma follows the dead; 14 gifts; 15 Yama's world; 16 the preta's journey; 19 entry into Yama's hall and new bodies; 20-23 the abode, harassment, dreams and signs of pretas and their release; 24-25 untimely deaths and children; 26 sapiṇḍana; 27 Babhruvāhana and the preta; 32 embryology; 36 death by fasting; 38 higher worlds and liberation; 39 impurity periods; 44 bad deaths; 45 annual śrāddha; 46-48 destinies and karma; 49 means of liberation. verse number checked in the GRETIL/Sansknet e-text of the Garuḍa Purāṇa (Venkateshwara ed.; Pretakalpa cited as 2.chapter.verse)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_garuDapurANa.txt (Venkateshwara ed.) 2.1-2.49 — Confirmed in the local Venkateshwara text: Uttarakhaṇḍa second aṃśa (dharmakāṇḍa, pretakalpa) with 49 chapters; chapter titles in the entry's notes spot-checked (8 ātmaśrāddha, 11 openings, 12 dharma alone follows, 21 dreams, 22 pretas with Bhīṣma, 36 death by fasting). The '35 chapters in other editions' was not verified.
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

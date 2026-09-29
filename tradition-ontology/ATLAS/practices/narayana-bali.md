@@ -1,6 +1,6 @@
 # Nārāyaṇa-bali
 
-`prc:narayana-bali` · `skeleton` · confidence moderate
+`prc:narayana-bali` · `sourced` · confidence moderate
 
 **Category:** ritual
 **Convergence:** 1 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -11,4 +11,8 @@ An offering to Nārāyaṇa for one who died a bad or untimely death, allowing t
   - [Garuḍa Purāṇa](../texts/garuda-purana.md) — ref: 2.5.39-40; rests_on: ["tea:garuda-purana:2.5.39-40"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:garuda-purana:2.5.39-40 — GP 2.5.39 ('yadi nārāyaṇo baliḥ') located. All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

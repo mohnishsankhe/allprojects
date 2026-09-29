@@ -17,4 +17,4 @@
 _Notes: Distinct from, though related to, the Purāṇic usage for the twelve self-manifest liṅga shrines._
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

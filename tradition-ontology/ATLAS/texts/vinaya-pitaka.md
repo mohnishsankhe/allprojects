@@ -47,4 +47,4 @@ teachers: [Sañjaya Belaṭṭhiputta](../teachers/sanjaya-belatthiputta.md), [S
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

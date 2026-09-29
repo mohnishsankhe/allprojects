@@ -1,6 +1,6 @@
 # Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?
 
-`dsp:world-real-or-appearance` · `skeleton` · confidence high
+`dsp:world-real-or-appearance` · `skeleton` · confidence moderate
 
 **Coverage:** G3
 
@@ -83,8 +83,8 @@ All dharmas, the fruits of the path and buddhahood itself are like an illusion, 
 **Status:** not yet reconciled (queued)
 **Explanation:** Not yet reconciled: Advaita's own levels of reality make the world real empirically and false ultimately, but Viśiṣṭādvaita, Dvaita, Śaiva Siddhānta and Kashmir Śaivism reject the very distinction as applied to the world, each for its own reasons.
 Advaita offers P1 in its own terms (the world is vyāvahārika-sat; BSBh 2.2.28 upholds external objects against the Buddhist idealist). The theistic Vedāntas deny that anything can be empirically real and ultimately false (Śrībhāṣya 1.1.1; Nyāyāmṛta 1). Kashmir Śaivism agrees that the world depends on one consciousness but calls it that consciousness's real self-display and māyā its power, not avidyā — a difference both sides keep.
-**The traditions' own objections:** Rāmānuja's seven untenabilities of avidyā (Śrībhāṣya 1.1.1); Vyāsatīrtha's refutation of the five definitions of falsity (Nyāyāmṛta); Madhva's rejection of vivarta (Anuvyākhyāna 1.4.95-98); the Kashmir Śaiva view of māyā as Śakti (Paramārthasāra 15); Advaita in turn holds that any real second to Brahman contradicts the non-dual texts (MK 1.17; Advaitasiddhi).
+**The traditions' own objections:** Rāmānuja's seven untenabilities of avidyā (Śrībhāṣya 1.1.1); Vyāsatīrtha's refutation of the five definitions of falsity (Nyāyāmṛta); Madhva's rejection of vivarta (Anuvyākhyāna 1.4.95-98); the Kashmir Śaiva view of māyā as Śakti (Paramārthasāra 15); Advaita in turn holds that any real second to Brahman conflicts with the non-dual texts (MK 1.17; Advaitasiddhi).
 **Queue:** RQ-U50-03
 
 ---
-_Contributed by: skeleton:U50-debates. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U50-debates. Generated 2026-09-29 18:11 IST._

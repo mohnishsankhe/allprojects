@@ -16,4 +16,4 @@ A family of Siddhānta scriptures transmitted in recensions of different lengths
 _Notes: Recension names follow the Muktabodha catalogue description of E00011. sources_raw/raw_etexts/mixed/mukta/muktabodha_metadata.json (Muktabodha catalogue descriptions)_
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._

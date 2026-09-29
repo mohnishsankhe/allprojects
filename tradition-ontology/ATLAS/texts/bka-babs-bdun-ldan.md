@@ -14,4 +14,4 @@
 Tāranātha's account of the seven lineages of instruction (mahāmudrā, caṇḍālī, karmamudrā, clear light, the Guhyasamāja, the Hevajra-Saṃvara, etc.) and their Indian siddhas, based on the oral accounts of Buddhaguptanātha.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._

@@ -31,10 +31,10 @@ If they see breasts and long hair coming they call it woman; if beard and whiske
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, ethics_
 
-concepts: [Women's spiritual equality](../concepts/virasaiva-women-equality.md) · teachers: [Dēvara Dāsimayya](../teachers/devara-dasimayya.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Women's spiritual equality](../concepts/virasaiva-women-equality.md) · teachers: [Dēvara Dāsimayya](../teachers/devara-dasimayya.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 _Notes: aṅkita (signature): Rāmanātha. Cited by incipit; edition numbering to be fixed in Phase D._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

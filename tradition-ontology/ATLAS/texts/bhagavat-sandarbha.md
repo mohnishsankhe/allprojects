@@ -20,8 +20,8 @@ The non-dual reality appears as Brahman when realised without its distinctions a
 
 _level: ultimate · standpoint: analytic · path: knowledge, devotion · stage: all · types: ultimate_
 
-concepts: [Brahman, Paramātman and Bhagavān](../concepts/brahman-paramatman-bhagavan.md) · teachers: [Jīva Gosvāmī](../teachers/jiva-gosvami.md) · disputes: `dsp:saguna-nirguna`
+concepts: [Brahman, Paramātman and Bhagavān](../concepts/brahman-paramatman-bhagavan.md) · teachers: [Jīva Gosvāmī](../teachers/jiva-gosvami.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

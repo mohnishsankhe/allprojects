@@ -14,4 +14,4 @@
 - contrasts-with → [Meditation as mere absence of thought (as criticized)](mere-non-thought.md): Tsongkhapa rejects the claim that all analysis obstructs meditation — rests on [intro.analytical-and-placement](../texts/lamrim-chenmo.md#tea-lamrim-chenmo-intro-analytical-and-placement), [3](../texts/bhavanakrama.md#tea-bhavanakrama-3)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._

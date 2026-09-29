@@ -1,6 +1,6 @@
 # Gaṇeśa Purāṇa
 
-`src:ganesa-purana` · `skeleton` · confidence moderate
+`src:ganesa-purana` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -16,4 +16,9 @@ The principal Purāṇa of Gaṇeśa worship, containing the Gaṇeśa Gītā in
 _Notes: Minimal parent entry created by U06._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Ganesha_Purana — Two khaṇḍas: Upāsanā (92 chapters) and Krīḍā (155; called Uttara in its colophons). Preston dates it to 1100-1400; Thapan puts the core in the 12th-13th c.
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Ganesha_Purana, catalog:eBharati:gaNeshagItA — Web: Gāṇapatya Upapurāṇa; Preston's date 1100-1400 and Thapan's 12th-13th c. core - matching the entry. The Gaṇeśa Gītā is local (eBhārati gaṇeśagītā); no local full text.
+
+_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # Ekādaśī fast
 
-`prc:ekadasi-vrata` · `skeleton` · confidence high
+`prc:ekadasi-vrata` · `sourced` · confidence high
 
 **Category:** devotion-service
 **Convergence:** 6 independent lineage(s): [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md), [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Rāmānandī sampradāya](../lineages/ramanandi.md), [Vārkarī sampradāya](../lineages/varkari.md), [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md)
@@ -19,4 +19,9 @@ Fasting on the eleventh lunar day of both fortnights as the 'vow of Nārāyaṇa
 _Notes: The texts' own exemptions (for the sick, aged, etc.) were not checked; no warnings recorded._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U06-other-gitas, skeleton:U16-bhedabheda, skeleton:U07-puranas, skeleton:U26-regional-bhakti, skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — AR 3.4.48 'madbhaktasaṅgo matsevā madbhaktānāṃ nirantaram / ekādaśyupavāsādi mama parvānumodanam'.
+- 2026-09-29 text-locate: confirmed — rests_on: tea:narada-purana:2.1-5 — NP Uttarabhāga 2.1-5 located. All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U15-dvaita, skeleton:U06-other-gitas, skeleton:U16-bhedabheda, skeleton:U07-puranas, skeleton:U26-regional-bhakti, skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

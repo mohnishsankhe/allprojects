@@ -15,4 +15,4 @@ Shardza Tashi Gyaltsen's Dzogchen instruction manual (low confidence on title an
 _Notes: Optional (Bön). Not local; from general knowledge._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

@@ -255,7 +255,7 @@ Seeing a cow led for sacrifice, Kapila exclaims 'the Vedas!'; Syūmaraśmi, ente
 
 _level: conventional · standpoint: polemical · path: knowledge, ritual · stage: all · types: dispute_
 
-teachers: [Kapila](../teachers/kapila.md), [Syūmaraśmi](../teachers/syumarasmi.md) · disputes: [Is the killing of animals in Vedic sacrifice dharma?](../debates/animal-sacrifice-epic.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+teachers: [Kapila](../teachers/kapila.md), [Syūmaraśmi](../teachers/syumarasmi.md) · disputes: [Is the killing of animals in Vedic sacrifice dharma?](../debates/animal-sacrifice-epic.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 12.264 <a id="tea-moksadharma-12-264"></a>
 `sourced` · confidence moderate
@@ -318,7 +318,7 @@ Asked the difference between Sāṃkhya and Yoga, Bhīṣma says each praises it
 
 _level: bridging · standpoint: polemical · path: meditation, knowledge · stage: all · types: dispute, practice_
 
-terms: [sāṃkhya](../terms/samkhya.md), [yoga](../terms/yoga.md), [īśvara](../terms/isvara.md) · teachers: [Bhīṣma (Devavrata, Gāṅgeya)](../teachers/bhisma.md) · disputes: [Sāṃkhya or Yoga — which is superior? (MBh 12.289)](../debates/samkhya-or-yoga-epic.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [sāṃkhya](../terms/samkhya.md), [yoga](../terms/yoga.md), [īśvara](../terms/isvara.md) · teachers: [Bhīṣma (Devavrata, Gāṅgeya)](../teachers/bhisma.md) · disputes: [Sāṃkhya or Yoga — which is superior? (MBh 12.289)](../debates/samkhya-or-yoga-epic.md), [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 12.289.7 <a id="tea-moksadharma-12-289-7"></a>
 `sourced` · confidence high
@@ -392,7 +392,7 @@ Having obtained knowledge from a brāhmaṇa, a kṣatriya, a vaiśya, or even f
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: teacher-transmission, dispute_
 
-terms: [śraddhā](../terms/sraddha.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md) · disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md), `dsp:women-caste-liberation`
+terms: [śraddhā](../terms/sraddha.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md) · disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 12.308 <a id="tea-moksadharma-12-308"></a>
 `sourced` · confidence high
@@ -401,7 +401,7 @@ The mendicant Sulabhā, doubting whether king Dharmadhvaja Janaka is liberated a
 
 _level: conventional · standpoint: polemical · path: knowledge, meditation · stage: advanced · types: dispute, powers-experiences, karma-liberation_
 
-concepts: [Liberation while living](../concepts/liberation-while-living.md), [Yogic powers in the epic](../concepts/yogic-powers-epic.md) · teachers: [Sulabhā](../teachers/sulabha.md), [Dharmadhvaja Janaka](../teachers/dharmadhvaja-janaka.md) · disputes: [Can a king be liberated while ruling — and may a woman renunciant test him? (MBh 12.308)](../debates/sulabha-janaka.md), `dsp:women-caste-liberation`
+concepts: [Liberation while living](../concepts/liberation-while-living.md), [Yogic powers in the epic](../concepts/yogic-powers-epic.md) · teachers: [Sulabhā](../teachers/sulabha.md), [Dharmadhvaja Janaka](../teachers/dharmadhvaja-janaka.md) · disputes: [Can a king be liberated while ruling — and may a woman renunciant test him? (MBh 12.308)](../debates/sulabha-janaka.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 12.312-313 <a id="tea-moksadharma-12-312-313"></a>
 `sourced` · confidence moderate
@@ -447,4 +447,4 @@ _Notes: Vulgate range given from memory (moderate)._
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.168.8 (Senajit), 12.353.9 (last verse of the book), https://link.springer.com/article/10.1007/s10781-016-9293-z — CE 12.168–353 confirmed as the closing section of the Śāntiparvan (186 chapters). The vulgate range 12.174–365 was not verified (the local vulgate file follows a different, 375-chapter Śāntiparvan numbering).
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._

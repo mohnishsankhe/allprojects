@@ -1,6 +1,6 @@
 # Vyāsa Gītā
 
-`src:vyasa-gita` · `skeleton` · confidence low
+`src:vyasa-gita` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -16,10 +16,10 @@
 
 Vyāsa sets out the karma-yoga of brāhmaṇas: the student's conduct, study, the householder's daily rites, food rules, ancestral offerings, impurity, gifts, the forest-dweller and the renunciant, and expiations (chapter openings verified in the local e-text; the end point of the 'Gītā' is not).
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 2.12 <a id="tea-vyasa-gita-2-12"></a>
-`skeleton` · confidence moderate · [AI-translated]
+`sourced` · confidence moderate · [AI-translated]
 
 Vyāsa begins the karma-yoga of brāhmaṇas, which yields the final fruit: the student's conduct with staff and girdle, purity and service of the teacher, followed in later chapters by the householder's duties, food, ancestral rites, impurity, gifts, the forest-dweller, the renunciant and expiations.
 
@@ -29,4 +29,8 @@ teachers: [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md)
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: partially-confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md — KP 2.12 opens Vyāsa's teaching on the dharma of the twice-born (the student, 2.12; householder, food, śrāddha, impurity, gifts, forest-dweller, renunciant, expiations 2.13-2.33). The tīrtha section begins at 2.34, so the range fits. But the local colophons do not carry the name 'Vyāsa Gītā', and the name was not checked elsewhere.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

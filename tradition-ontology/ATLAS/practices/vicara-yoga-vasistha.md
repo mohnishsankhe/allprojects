@@ -1,6 +1,6 @@
 # Inquiry (vicāra) as the Yoga Vāsiṣṭha teaches
 
-`prc:vicara-yoga-vasistha` · `skeleton` · confidence moderate
+`prc:vicara-yoga-vasistha` · `sourced` · confidence moderate
 
 **Category:** inquiry
 **Convergence:** 1 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md)
@@ -15,4 +15,8 @@ Reflecting, with scripture and the wise, on 'who am I? what is this world?', dis
 - partial: `prc:self-inquiry` — related to the later practice of self-inquiry (recent teachers); not asserted identical
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Rests on tea:moksopaya:2.14, tea:moksopaya:6.82-83, tea:moksopaya:1.2.5-7; each was located in the local text and matches this entry's statement.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

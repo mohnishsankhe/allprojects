@@ -15,7 +15,7 @@ The Buddha's last journey and passing: conditions of non-decline, the mirror of 
   - kind: original; name: Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka edition, based on the Sixth Council text), as published by SuttaCentral in bilara-data (root/pli/ms); local copy in sources_raw/bilara-data; licence: CC0 / public domain as published by SuttaCentral; url: https://suttacentral.net/dn16/pli/ms
   - kind: translation; name: Bhikkhu Sujato (English), SuttaCentral; licence: CC0; url: https://suttacentral.net/dn16/en/sujato
 
-## Teachings (15: skeleton 15)
+## Teachings (17: skeleton 17)
 
 ### 1.4-1.5 <a id="tea-mahaparinibbana-sutta-1-4-1-5"></a>
 `skeleton` · confidence high
@@ -34,6 +34,28 @@ Seven conditions of non-decline for the monks: frequent meetings in concord, kee
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics, teacher-transmission_
 
 concepts: [Conditions of non-decline](../concepts/aparihaniya-dhamma.md)
+
+### 1.12 <a id="tea-mahaparinibbana-sutta-1-12"></a>
+`skeleton` · confidence high
+
+At Vulture's Peak the Buddha often gave this talk to the monks: such is virtue, such is concentration, such is wisdom. Concentration imbued with virtue is of great fruit and benefit; wisdom imbued with concentration is of great fruit and benefit; the mind imbued with wisdom is rightly freed from the effluents of sensuality, of becoming and of ignorance. (The same talk recurs at later stops on the last journey.)
+
+> “iti sīlaṁ, iti samādhi, iti paññā. Sīlaparibhāvito samādhi mahapphalo hoti mahānisaṁso. Samādhiparibhāvitā paññā mahapphalā hoti mahānisaṁsā. Paññāparibhāvitaṁ cittaṁ sammadeva āsavehi vimuccati, seyyathidaṁ— kāmāsavā, bhavāsavā, avijjāsavā”ti.
+
+_level: conventional · standpoint: seeker · path: general · stage: all · types: practice, karma-liberation_
+
+concepts: [The three trainings (tisso sikkhā)](../concepts/three-trainings.md)
+
+### 2.6-2.7 <a id="tea-mahaparinibbana-sutta-2-6-2-7"></a>
+`skeleton` · confidence high
+
+Asked about the destiny of monks, nuns and lay followers who had died at Nātika, the Buddha answers by the stages of awakening: Sāḷha, by the destruction of the effluents, had realized freedom of mind and by wisdom here and now; Nandā, by the destruction of the five lower fetters, was spontaneously reborn and will attain final nibbāna there, not returning from that world; Sudatta, by the destruction of three fetters and the weakening of lust, hate and delusion, is a once-returner who will return to this world once and make an end of suffering; Sujātā, by the destruction of three fetters, is a stream-enterer, not subject to the lower realms, fixed in destiny, bound for awakening. Many other lay followers are likewise non-returners, once-returners and stream-enterers.
+
+> “Sāḷho, ānanda, bhikkhu āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi. Nandā, ānanda, bhikkhunī pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātikā tattha parinibbāyinī anāvattidhammā tasmā lokā. Sudatto, ānanda, upāsako tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ tanuttā sakadāgāmī sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karissati. Sujātā, ānanda, upāsikā tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyaṇā.
+
+_level: conventional · standpoint: causal · path: general · stage: all · types: karma-liberation, death-dying_
+
+concepts: [The four stages of awakening and the eight noble persons](../concepts/four-stages-of-awakening.md)
 
 ### 2.8-2.9 <a id="tea-mahaparinibbana-sutta-2-8-2-9"></a>
 `skeleton` · confidence high
@@ -160,4 +182,4 @@ terms: [parinibbāna](../terms/parinibbana.md), [jhāna](../terms/jhana.md) · c
 _Notes: SuttaCentral uid dn16; Mahāsaṅgīti title 'Mahāparinibbānasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._

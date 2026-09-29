@@ -15,4 +15,4 @@ Instead of an external liṅga, the practitioner worships the liṅga within the
   - [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md) — ref: 23.11-16; rests_on: ["tea:kaulajnananirnaya:23.11-16"]
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._

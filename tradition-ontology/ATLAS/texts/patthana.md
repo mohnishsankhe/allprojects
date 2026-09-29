@@ -134,4 +134,4 @@ concepts: [The analytical methods of the Abhidhamma books](../concepts/abhidhamm
 _Notes: The list of 24 conditions read in the local text (patthana1.1:2.1)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._

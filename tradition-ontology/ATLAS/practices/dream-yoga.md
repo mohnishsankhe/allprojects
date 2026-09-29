@@ -28,4 +28,4 @@ Setting the intention before sleep and watching with mindfulness, the practition
 _Notes: U46 owns this id; U45 contributes the Nyingma/Bön forms._
 
 ---
-_Contributed by: skeleton:U46-kagyu, skeleton:U44-indian-vajrayana, skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U46-kagyu, skeleton:U44-indian-vajrayana, skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

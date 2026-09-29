@@ -23,7 +23,7 @@ Works, whether alone or combined with knowledge, cannot bring liberation, which 
 
 _level: conventional · standpoint: polemical · path: knowledge, action · stage: all · types: karma-liberation, dispute_
 
-concepts: [Action (karma) in Advaita](../concepts/karma-in-advaita.md) · teachers: [Sureśvara](../teachers/suresvara.md) · disputes: [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md), `dsp:works-knowledge-grace`
+concepts: [Action (karma) in Advaita](../concepts/karma-in-advaita.md) · teachers: [Sureśvara](../teachers/suresvara.md) · disputes: [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 2 <a id="tea-naiskarmyasiddhi-2"></a>
 `skeleton` · confidence low
@@ -67,4 +67,4 @@ concepts: [Marks of the jīvanmukta](../concepts/jivanmukta-marks.md) · teacher
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

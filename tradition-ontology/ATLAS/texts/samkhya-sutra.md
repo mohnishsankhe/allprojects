@@ -41,7 +41,7 @@ It is not achieved by seen means, since suffering recurs after being removed; se
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: beginner · types: karma-liberation_
 
-concepts: [The three kinds of suffering (duḥkhatraya)](../concepts/three-kinds-of-suffering.md) · disputes: `dsp:works-knowledge-grace`
+concepts: [The three kinds of suffering (duḥkhatraya)](../concepts/three-kinds-of-suffering.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 1.7-19 <a id="tea-samkhya-sutra-1-7-19"></a>
 `skeleton` · confidence moderate
@@ -126,7 +126,7 @@ terms: [pramāṇa](../terms/pramana.md) · concepts: [Means of valid knowledge 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md)
+terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md)
 
 ### 1.93-99 <a id="tea-samkhya-sutra-1-93-99"></a>
 `skeleton` · confidence moderate
@@ -135,7 +135,7 @@ terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../conc
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [īśvara](../terms/isvara.md), [adhiṣṭhāna](../terms/adhisthana.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md), [Can an unconscious pradhāna, without a conscious director, bring forth and order the world?](../debates/can-unconscious-pradhana-create.md)
+terms: [īśvara](../terms/isvara.md), [adhiṣṭhāna](../terms/adhisthana.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md), [Can an unconscious pradhāna, without a conscious director, bring forth and order the world?](../debates/can-unconscious-pradhana-create.md)
 
 ### 1.103-104 <a id="tea-samkhya-sutra-1-103-104"></a>
 `skeleton` · confidence moderate
@@ -265,7 +265,7 @@ Liberation comes from knowledge, bondage from error; since (knowledge) is the fi
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-concepts: [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md), [Isolation (kaivalya)](../concepts/kaivalya.md) · disputes: `dsp:works-knowledge-grace`
+concepts: [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md), [Isolation (kaivalya)](../concepts/kaivalya.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3.30-31 <a id="tea-samkhya-sutra-3-30-31"></a>
 `skeleton` · confidence moderate
@@ -472,7 +472,7 @@ The fruit of action is not governed by Īśvara, since it is accomplished by kar
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md), [Can an unconscious pradhāna, without a conscious director, bring forth and order the world?](../debates/can-unconscious-pradhana-create.md), [Does scripture (śruti) teach the Sāṃkhya's unconscious pradhāna as the cause of the world?](../debates/is-pradhana-taught-in-sruti.md)
+concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md), [Can an unconscious pradhāna, without a conscious director, bring forth and order the world?](../debates/can-unconscious-pradhana-create.md), [Does scripture (śruti) teach the Sāṃkhya's unconscious pradhāna as the cause of the world?](../debates/is-pradhana-taught-in-sruti.md)
 
 ### 5.12 <a id="tea-samkhya-sutra-5-12"></a>
 `skeleton` · confidence moderate
@@ -490,7 +490,7 @@ The Vedas are not eternal, since scripture speaks of their being produced; nor a
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: sound-language, dispute_
 
-concepts: [Sound, word and Veda in Sāṃkhya](../concepts/samkhya-on-sound-and-veda.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [Sound, word and Veda in Sāṃkhya](../concepts/samkhya-on-sound-and-veda.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 5.52-56 <a id="tea-samkhya-sutra-5-52-56"></a>
 `skeleton` · confidence moderate
@@ -690,7 +690,7 @@ The accomplishment of effects depends on ahaṃkāra as agent, not on Īśvara, 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md)
+concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md)
 
 ### 6.67-69 <a id="tea-samkhya-sutra-6-67-69"></a>
 `skeleton` · confidence moderate
@@ -703,4 +703,4 @@ teachers: [Pañcaśikha](../teachers/pancasikha.md), [Sanandana](../teachers/san
 
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._

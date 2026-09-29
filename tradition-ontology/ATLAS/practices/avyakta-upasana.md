@@ -27,4 +27,4 @@ _Notes: New practice for 12.3–5, combining extractor A's prc:avyakta-upasana a
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.1, tea:bhagavad-gita:12.3, tea:bhagavad-gita:12.3-4, tea:bhagavad-gita:12.4, tea:bhagavad-gita:12.5 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 18:02 IST._
+_Contributed by: extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 18:11 IST._

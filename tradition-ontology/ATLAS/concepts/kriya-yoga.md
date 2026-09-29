@@ -14,4 +14,4 @@
 - obstructs → [The five afflictions (kleśa)](five-klesas.md) — rests on [2.2](../texts/yoga-sutra.md#tea-yoga-sutra-2-2)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:11 IST._

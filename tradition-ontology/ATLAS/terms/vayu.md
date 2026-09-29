@@ -20,4 +20,4 @@
 **Related:** [Mukhyaprāṇa](mukhyaprana.md), [jīvottama (Vāyu-jīvottama)](jivottama.md), [prāṇa](prana.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U28-hatha-texts, skeleton:U11-nyaya-vaisesika, skeleton:U01-vedic-samhitas, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U28-hatha-texts, skeleton:U11-nyaya-vaisesika, skeleton:U01-vedic-samhitas, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._

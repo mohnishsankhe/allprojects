@@ -28,7 +28,7 @@ Homage to the great Vajradhara. By the difference of persons' minds there are th
 
 _level: bridging · standpoint: seeker · path: general · stage: all (rim gyis pa / cig car ba) · types: teacher-transmission, dispute_
 
-concepts: [Gradual and simultaneous persons](../concepts/gradual-and-simultaneous-persons.md) · disputes: `dsp:sudden-or-gradual`, [Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?](../debates/sutra-mahamudra.md)
+concepts: [Gradual and simultaneous persons](../concepts/gradual-and-simultaneous-persons.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md), [Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?](../debates/sutra-mahamudra.md)
 
 ### 271a.5 <a id="tea-ajnasamyakpramana-271a-5"></a>
 `skeleton` · confidence high
@@ -109,4 +109,4 @@ terms: [antarābhava](../terms/antarabhava.md), [abhiṣeka](../terms/abhiseka.m
 _Notes: Tōh 2331. The ascription to Tilopa is from memory of the catalogue and is not stated in the text read._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

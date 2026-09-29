@@ -1,6 +1,6 @@
 # Gītāsāra (Agni Purāṇa)
 
-`src:gita-sara-agni-purana` · `skeleton` · confidence moderate
+`src:gita-sara-agni-purana` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -14,4 +14,8 @@
 A condensed restatement of the Bhagavad Gītā's teaching placed just before the Agni Purāṇa's Yama Gītā.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_agnipurANa.txt — Agni Purāṇa 380.1 'gītāsāraṃ pravakṣyāmi ...' and the colophon 'gītāsāro nāmāśītyadhikatriśatatamo 'dhyāyaḥ' verified.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

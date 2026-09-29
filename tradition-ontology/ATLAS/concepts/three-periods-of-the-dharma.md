@@ -18,4 +18,4 @@
 - same-as-under-standpoint → [The two aspects of the true Dharma and its decline](decline-of-the-dharma.md) (cosmic): partial: Indian accounts of the Dharma's decline (Sarvāstivāda) vs the East Asian three-age scheme; the counting differs — rests on [4b03-22](../texts/anle-ji.md#tea-anle-ji-4b03-22)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

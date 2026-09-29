@@ -25,4 +25,4 @@ Dōgen: whole being is buddha-nature; impermanence is buddha-nature.
 **The traditions' own objections:** Scholastic readers of the Nirvāṇa-sūtra keep the distinction between sentient buddha-nature and insentient things; Tiantai (Zhanran) argued the insentient have buddha-nature on other grounds (U54).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

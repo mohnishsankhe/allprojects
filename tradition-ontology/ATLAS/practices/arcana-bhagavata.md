@@ -1,6 +1,6 @@
 # Image worship (kriyā-yoga, Uddhava Gītā)
 
-`prc:arcana-bhagavata` · `skeleton` · confidence high
+`prc:arcana-bhagavata` · `sourced` · confidence high
 
 **Category:** ritual
 **Convergence:** 1 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -16,4 +16,8 @@ Worship of the Lord in Vedic, tantric or mixed mode, in an image (of stone, wood
 - Worship in images while despising the Lord present in all beings is 'offering into ashes'. — [Kapila Gītā](../texts/kapila-gita.md) 3.29.21-25
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — BhP 11.27.7-15 verified, including the eightfold image list (11.27.12).
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

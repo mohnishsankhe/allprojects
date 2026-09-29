@@ -11,4 +11,4 @@
 Author of the Vṛddhayavanajātaka, a large versified horā in the Yavana tradition.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

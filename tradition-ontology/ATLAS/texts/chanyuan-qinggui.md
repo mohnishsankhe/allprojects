@@ -18,4 +18,4 @@ The oldest extant Chan monastic code (1103), by Changlu Zongze: offices, daily r
 _Notes: Not held locally (Xuzangjing X63)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

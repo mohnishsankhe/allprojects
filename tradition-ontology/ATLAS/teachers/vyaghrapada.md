@@ -11,4 +11,4 @@
 The 'tiger-footed' sage who with Patañjali worshipped the Dance at Chidambaram (Puliyūr); named in TM 67 among Nandi's eight disciples.
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._

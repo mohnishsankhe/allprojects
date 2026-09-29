@@ -29,4 +29,4 @@ Meat that is pure in three respects (not seen, heard or suspected to have been k
 **The traditions' own objections:** Theravāda holds the three-fold-pure rule to be the Buddha's final rule and the Laṅkāvatāra's chapter (absent from its earliest Chinese version) not the Buddha's word; Tibetan traditions have varied in practice.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

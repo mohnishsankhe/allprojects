@@ -99,7 +99,7 @@ Even if they give me the two celestial treasures with earth and heaven, I will n
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics_
 
-teachers: [Appar (Tirunāvukkaracar)](../teachers/appar.md) · disputes: `dsp:women-caste-liberation`
+teachers: [Appar (Tirunāvukkaracar)](../teachers/appar.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 6.98.1 <a id="tea-tevaram-6-98-1"></a>
 `skeleton` · confidence high
@@ -130,4 +130,4 @@ concepts: [The sixty-three Nāyaṉmārs and the nine groups of devotees](../con
 
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

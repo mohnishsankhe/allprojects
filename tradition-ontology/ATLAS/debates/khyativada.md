@@ -28,4 +28,4 @@ Appearance-as-other (anyathākhyāti): a real thing elsewhere appears as somethi
 **Candidate readings:** P2-standpoint: each theory describes error from a different ontological standpoint (realist, indeterminist, relocation).
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._

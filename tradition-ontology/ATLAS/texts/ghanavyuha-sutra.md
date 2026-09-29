@@ -13,4 +13,4 @@
 The 'Dense Array' sūtra, on the pure land Ghanavyūha and the ālayavijñāna, which it likens to the moon among the stars and to gold within ore; cited by Yogācāra and tathāgatagarbha authors.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

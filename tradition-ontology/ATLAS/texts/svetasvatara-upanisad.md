@@ -38,7 +38,7 @@ Time, inherent nature, fixed order (niyati), chance, the elements, the womb, the
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: intermediate · types: world-fate, dispute_
 
-terms: [kāla](../terms/kala.md), [svabhāva](../terms/svabhava.md), [niyati](../terms/niyati.md), [yadṛcchā](../terms/yadrccha.md) · concepts: [The candidate causes of the Śvetāśvatara](../concepts/candidate-causes-svetasvatara.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [kāla](../terms/kala.md), [svabhāva](../terms/svabhava.md), [niyati](../terms/niyati.md), [yadṛcchā](../terms/yadrccha.md) · concepts: [The candidate causes of the Śvetāśvatara](../concepts/candidate-causes-svetasvatara.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 1.3 <a id="tea-svetasvatara-upanisad-1-3"></a>
 `sourced` · confidence high
@@ -337,7 +337,7 @@ In the imperishable of the verse, in the highest heaven, where all the gods sit 
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: intermediate · types: ultimate, sound-language_
 
-terms: [akṣara](../terms/aksara.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [akṣara](../terms/aksara.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 4.9-10 <a id="tea-svetasvatara-upanisad-4-9-10"></a>
 `sourced` · confidence high
@@ -447,7 +447,7 @@ Some sages say inherent nature (svabhāva) is the cause, others time — they ar
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: intermediate · types: ultimate, dispute_
 
-terms: [svabhāva](../terms/svabhava.md), [kāla](../terms/kala.md), [brahmacakra](../terms/brahmacakra.md) · concepts: [The candidate causes of the Śvetāśvatara](../concepts/candidate-causes-svetasvatara.md), [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [svabhāva](../terms/svabhava.md), [kāla](../terms/kala.md), [brahmacakra](../terms/brahmacakra.md) · concepts: [The candidate causes of the Śvetāśvatara](../concepts/candidate-causes-svetasvatara.md), [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 6.7-9 <a id="tea-svetasvatara-upanisad-6-7-9"></a>
 `sourced` · confidence high
@@ -458,7 +458,7 @@ We have found him, the supreme great Lord of lords, the supreme deity of deities
 
 _level: ultimate · standpoint: divine · path: devotion, knowledge · stage: advanced · types: ultimate_
 
-terms: [īśvara](../terms/isvara.md), [śakti](../terms/sakti.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), `dsp:saguna-nirguna`
+terms: [īśvara](../terms/isvara.md), [śakti](../terms/sakti.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 6.10 <a id="tea-svetasvatara-upanisad-6-10"></a>
 `sourced` · confidence moderate
@@ -478,7 +478,7 @@ One God hidden in all beings, all-pervading, the inner self of all beings, overs
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [sākṣin](../terms/saksin.md), [nirguṇa](../terms/nirguna.md), [kevala](../terms/kevala.md) · concepts: [The witness (sākṣin)](../concepts/saksin.md), [Īśvara (the Lord)](../concepts/isvara.md) · disputes: `dsp:saguna-nirguna`
+terms: [sākṣin](../terms/saksin.md), [nirguṇa](../terms/nirguna.md), [kevala](../terms/kevala.md) · concepts: [The witness (sākṣin)](../concepts/saksin.md), [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 6.12-13 <a id="tea-svetasvatara-upanisad-6-12-13"></a>
 `sourced` · confidence high
@@ -525,7 +525,7 @@ To the God who first created Brahmā and who delivered the Vedas to him, to the 
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: karma-liberation, practice_
 
-terms: [prapatti](../terms/prapatti.md), [mokṣa](../terms/moksa.md) · concepts: [Divine grace (prasāda)](../concepts/grace.md), [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · disputes: `dsp:works-knowledge-grace`
+terms: [prapatti](../terms/prapatti.md), [mokṣa](../terms/moksa.md) · concepts: [Divine grace (prasāda)](../concepts/grace.md), [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 6.19-20 <a id="tea-svetasvatara-upanisad-6-19-20"></a>
 `sourced` · confidence high
@@ -575,4 +575,4 @@ _Notes: A commentary on it is attributed to Śaṅkara (attribution doubted). Ve
 
 - 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:GRETIL-dev:svetasvatara-upanisad, text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md), text:sources_raw/dcs/dcs/data/conllu/files/Vājasaneyisaṃhitā (Mādhyandina)/ (VSM 11.1-5 'yuñjānaḥ prathamam manaḥ …'), https://en.wikipedia.org/wiki/Shvetashvatara_U — Confirmed: 6 adhyāyas and 113 verses (16, 17, 21, 22, 14, 23) in the prepared text. The seer's name is at 6.21, and the commentary attributed to Śaṅkara is in the Advaita-Śāradā files. Wikipedia gives c. 4th–1st c. BCE and notes the doubted Śaṅkara attribution. ŚU 2.1-5 = VSM 11.1-5 is confirmed in the DCS Vājasaneyi Saṃhitā.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

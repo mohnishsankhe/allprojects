@@ -121,7 +121,7 @@ Some say Īśvara is the cause ('this unknowing creature, not master of its own 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, world-fate, ultimate_
 
-terms: [īśvara](../terms/isvara.md), [prakṛti](../terms/prakrti.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md), [Can an unconscious pradhāna, without a conscious director, bring forth and order the world?](../debates/can-unconscious-pradhana-create.md)
+terms: [īśvara](../terms/isvara.md), [prakṛti](../terms/prakrti.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md), [Can an unconscious pradhāna, without a conscious director, bring forth and order the world?](../debates/can-unconscious-pradhana-create.md)
 
 ### 66 <a id="tea-samkhya-karika-bhasya-gaudapada-66"></a>
 `skeleton` · confidence high
@@ -152,4 +152,4 @@ concepts: [The Sāṃkhya line of teachers](../concepts/samkhya-parampara.md) ·
 
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._

@@ -14,4 +14,4 @@
 A polemical work ascribed to Vijayīndra Tīrtha against Appayya Dīkṣita (its title means 'a slap on Appayya's cheek').
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._

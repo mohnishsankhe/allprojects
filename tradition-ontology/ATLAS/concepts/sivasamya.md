@@ -13,4 +13,4 @@
 - contrasts-with → [The Siddhānta's 'advaita' of inseparability](siddhanta-advaita.md): the Tamil school stresses inseparability and enjoyment rather than equal powers — rests on [cupakkam.11](../texts/sivananasiddhiyar.md#tea-sivananasiddhiyar-cupakkam-11)
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

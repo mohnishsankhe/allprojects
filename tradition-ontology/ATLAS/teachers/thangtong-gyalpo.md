@@ -12,4 +12,4 @@
 Yogin, engineer and holder of the Shangpa (and of a Niguma lineage received by vision), famous for building iron-chain bridges, for founding Tibetan opera by tradition, and for the Avalokiteśvara practice 'Benefit of Beings Pervading Space'.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

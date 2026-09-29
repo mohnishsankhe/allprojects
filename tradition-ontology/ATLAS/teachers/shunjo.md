@@ -12,4 +12,4 @@
 Chion-in abbot to whom the compilation of the 48-scroll illustrated biography of Hōnen is traditionally ascribed.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

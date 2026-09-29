@@ -43,4 +43,4 @@ _level: bridging · standpoint: seeker · path: meditation · stage: advanced ·
 _Notes: Chapter count and chapter-level topics from memory (low confidence)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._

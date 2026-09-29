@@ -15,4 +15,4 @@
 - contrasts-with → [The three kinds of suffering (duḥkhatraya)](three-kinds-of-suffering.md): Sāṃkhya's threefold suffering (internal, external, divine) is a different classification
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._

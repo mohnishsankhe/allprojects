@@ -1,6 +1,6 @@
 # Ātmaprakāśa
 
-`src:atmaprakasa` · `skeleton` · confidence moderate
+`src:atmaprakasa` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -17,4 +17,8 @@
 _Notes: Named in the heading of the local e-text ('viṣṇucittyātmaprakāśākhyaśrīdharīya vyākhyādvayopetam')._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) heading, https://www.wisdomlib.org/history/book/studies-in-indian-literary-history/d/doc1474985.html — Named in the heading of the local VP e-text ('viṣṇucittyātmaprakāśākhyaśrīdharīya vyākhyādvayopetam'); web confirms Śrīdhara's commentary on the Viṣṇu Purāṇa.
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

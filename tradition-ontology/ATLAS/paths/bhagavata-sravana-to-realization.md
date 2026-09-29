@@ -1,6 +1,6 @@
 # The Bhāgavata's sequence from hearing to seeing the Lord (BhP 1.2.16-21)
 
-`pth:bhagavata-sravana-to-realization` · `skeleton` · confidence high
+`pth:bhagavata-sravana-to-realization` · `sourced` · confidence high
 
 **Lineage:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
 **Sources:** 
@@ -19,4 +19,8 @@
 
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:1.2.16-21 — Stage refs BhP 1.2.16-21 located verse by verse. All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

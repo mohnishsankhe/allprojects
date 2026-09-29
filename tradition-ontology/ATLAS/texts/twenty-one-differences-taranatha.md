@@ -22,8 +22,8 @@ Self-emptiness and other-emptiness Madhyamaka agree that every conventional phen
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: dispute, ultimate_
 
-concepts: [Other-emptiness (gzhan stong)](../concepts/zhentong.md), [Self-emptiness (rang stong)](../concepts/rangtong.md) · teachers: [Tāranātha (Jetsün Kunga Nyingpo, rje btsun kun dga' snying po)](../teachers/taranatha.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
+concepts: [Other-emptiness (gzhan stong)](../concepts/zhentong.md), [Self-emptiness (rang stong)](../concepts/rangtong.md) · teachers: [Tāranātha (Jetsün Kunga Nyingpo, rje btsun kun dga' snying po)](../teachers/taranatha.md) · disputes: [Is the ultimate empty of its own nature like all phenomena (rang stong, self-emptiness), or empty only of what is other than it — the adventitious stains — while not empty of its own nature and qualities (gzhan stong, other-emptiness)?](../debates/rangtong-shentong.md)
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

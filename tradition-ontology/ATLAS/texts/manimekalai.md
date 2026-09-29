@@ -38,8 +38,8 @@ The Bhūtavādin says: as intoxication arises when dhātakī flowers, jaggery an
 
 _level: unmarked · standpoint: causal · path: general · stage: unmarked · types: consciousness-mind, death-dying, dispute_
 
-terms: [bhūta-caitanya](../terms/bhuta-caitanya.md), [lokāyata](../terms/lokayata.md) · concepts: [Consciousness from the elements (bhūta-caitanya)](../concepts/bhuta-caitanya.md), [The simile of intoxicating power](../concepts/madasakti-simile.md), [Perception the only means of knowledge](../concepts/pratyaksa-only.md) · disputes: [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md), [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [bhūta-caitanya](../terms/bhuta-caitanya.md), [lokāyata](../terms/lokayata.md) · concepts: [Consciousness from the elements (bhūta-caitanya)](../concepts/bhuta-caitanya.md), [The simile of intoxicating power](../concepts/madasakti-simile.md), [Perception the only means of knowledge](../concepts/pratyaksa-only.md) · disputes: [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md), [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._

@@ -42,7 +42,7 @@ An extinct Jain order of the Deccan and Karnataka that combined Digambara-style 
 _none recorded_
 
 ## Debates
-[Did the original Jain scripture survive?](../debates/canon-survival-jain.md), [Does the omniscient (kevalin) take food?](../debates/kevalin-eats.md), [Is complete nudity required of the renunciant (and for liberation)?](../debates/monastic-nudity.md)
+[Did the original Jain scripture survive?](../debates/canon-survival-jain.md), [Does the omniscient (kevalin) take food?](../debates/kevalin-eats.md), [Is complete nudity required of the renunciant (and for liberation)?](../debates/monastic-nudity.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

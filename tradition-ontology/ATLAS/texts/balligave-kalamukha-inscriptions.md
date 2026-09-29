@@ -27,4 +27,4 @@ concepts: [Kālāmukha monasteries, assemblies and royal preceptors](../concepts
 _Notes: Grouped as one source here; individual inscription numbers were not checked in this run._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._

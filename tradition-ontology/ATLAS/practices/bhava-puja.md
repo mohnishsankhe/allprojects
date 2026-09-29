@@ -10,10 +10,10 @@ Worship of the inner liṅga of consciousness in the heart-shrine with inner off
 **Stage:** prāṇaliṅgi
 **Sources:** 
   - [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) — ref: 12.13–20; 15.37–44; rests_on: ["tea:siddhantasikhamani:12.13-20", "tea:siddhantasikhamani:15.37-44"]
-**Sequences:** `pth:virasaiva-satsthala`
+**Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ## Equivalents (interpretation layer)
 - partial: [Mental temple-building and worship](manasa-puja.md) — inner worship with mental offerings; here directed to the prāṇaliṅga and ranked above ritual worship
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

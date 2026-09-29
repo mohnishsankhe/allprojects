@@ -14,4 +14,4 @@
 Two commentaries on the Kena, word-by-word and sentence-by-sentence, on Brahman as the unknown knower behind the senses and mind.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

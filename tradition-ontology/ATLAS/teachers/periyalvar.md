@@ -18,4 +18,4 @@ Brāhmaṇa priest-gardener of Śrīvilliputtūr, foster-father of Āṇṭāḷ
 _Notes: Aṃśa of Garuḍa in the tradition's list (moderate)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._

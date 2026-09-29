@@ -33,4 +33,4 @@ Breath-control can steady the body and reveal omens, but pursued for powers it b
 **Queue:** RQ-U35-pranayama
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

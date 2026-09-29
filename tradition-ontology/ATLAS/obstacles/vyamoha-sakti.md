@@ -13,4 +13,4 @@ Not knowing that one performs the five acts, one is deluded by one's own powers 
   - [Spandakārikā](../texts/spanda-karika.md) — ref: 3.14-16; rests_on: ["tea:spanda-karika:3.14-16"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._

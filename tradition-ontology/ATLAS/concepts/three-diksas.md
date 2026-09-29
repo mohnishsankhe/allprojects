@@ -14,4 +14,4 @@
 - part-of → [Kinds of initiation](kinds-of-diksa.md) — rests on [1.31-33](../texts/parasurama-kalpasutra.md#tea-parasurama-kalpasutra-1-31-33)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._

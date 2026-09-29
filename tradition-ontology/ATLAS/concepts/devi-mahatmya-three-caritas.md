@@ -1,6 +1,6 @@
 # The three episodes of the Devī Māhātmya
 
-`cpt:devi-mahatmya-three-caritas` · `skeleton` · confidence high
+`cpt:devi-mahatmya-three-caritas` · `sourced` · confidence high
 
 **Category:** ultimate
 **Members:** prathama carita (ch. 1), madhyama carita (chs. 2-4), uttama carita (chs. 5-13)
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:devi-mahatmya:1/3, tea:devi-mahatmya:2-4, tea:devi-mahatmya:6-10 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

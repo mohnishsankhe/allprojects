@@ -47,4 +47,4 @@ _none recorded_
 _Notes: The 19-deity count and the Mukhāgama's reception from Mañjuśrī are recalled, not checked in a text._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._

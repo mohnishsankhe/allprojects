@@ -1,6 +1,6 @@
 # Śrāddha at Gayā
 
-`prc:gaya-sraddha` · `skeleton` · confidence moderate
+`prc:gaya-sraddha` · `sourced` · confidence moderate
 
 **Category:** ritual
 **Convergence:** 2 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -11,4 +11,8 @@ Offering piṇḍas at Gayā's sacred spots in sequence for the release of the a
   - [Agni Purāṇa](../texts/agni-purana.md) — ref: 114-116; rests_on: ["tea:agni-purana:114-116"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:agni-purana:114-116 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

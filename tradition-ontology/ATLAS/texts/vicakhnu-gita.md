@@ -20,21 +20,22 @@ Vicakhnu praises non-violence toward all beings and condemns animal slaughter in
   - kind: original; name: The Mahābhārata, Critical Edition, ed. V. S. Sukthankar et al., Bhandarkar Oriental Research Institute, Pune (1933–1966); licence: print edition (text public domain; apparatus under BORI copyright)
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 12.257 <a id="tea-vicakhnu-gita-12-257"></a>
-`skeleton` · confidence moderate · [AI-translated]
+`sourced` · confidence moderate · [AI-translated]
 
 King Vicakhnu, seeing a slaughtered bull at a sacrifice, proclaims non-violence toward all creatures and declares that the killing of animals in sacrifice was introduced by the greedy, not by Manu.
 
 _level: conventional · standpoint: ethical-social · path: ritual, general · stage: all · types: ethics, dispute_
 
-disputes: `dsp:works-knowledge-grace`
+disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 
 ---
 **Verification checks**
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.257.1 gītaṃ rājñā vicakhnunā — Section located at CE 12.257 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+- 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition), local:sources_raw/raw_etexts/purANam/vaiShNavam/mahAbhAratam/gp/epub_no_img/ (Gita Press vulgate, chapter colophons) — CE 12.257 (13 verses) confirmed; vulgate colophon 'vicakhnugītāyām' (12.265).
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._

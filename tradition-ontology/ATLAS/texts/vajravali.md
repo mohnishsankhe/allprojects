@@ -13,4 +13,4 @@
 Abhayākaragupta's manual of maṇḍala rituals and consecrations, the standard for Newar and Tibetan practice.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._

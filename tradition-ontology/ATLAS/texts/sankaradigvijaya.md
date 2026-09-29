@@ -35,7 +35,7 @@ The tradition's account: at Māhiṣmatī Śaṅkara debated Maṇḍana Miśra,
 
 _level: conventional · standpoint: polemical · path: knowledge, action · stage: all · types: teacher-transmission, dispute_
 
-teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md), [Maṇḍana Miśra](../teachers/mandana-misra.md), [Ubhaya Bhāratī](../teachers/ubhaya-bharati.md) · disputes: `dsp:works-knowledge-grace`, [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md)
+teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md), [Maṇḍana Miśra](../teachers/mandana-misra.md), [Ubhaya Bhāratī](../teachers/ubhaya-bharati.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md), [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md)
 
 ### 11 <a id="tea-sankaradigvijaya-11"></a>
 `skeleton` · confidence low
@@ -59,4 +59,4 @@ teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · dispu
 _Notes: Other hagiographies (not separately entered): Anantānandagiri's Śaṅkaravijaya, Cidvilāsa's Śaṅkaravijayavilāsa, Vyāsācala's Śaṅkaravijaya, Rājacūḍāmaṇi Dīkṣita's Śaṅkarābhyudaya; the Kāñcī tradition also cites a Bṛhat-Śaṅkaravijaya. Accounts differ on Śaṅkara's place of passing (Kedāra; Kāñcī)._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._

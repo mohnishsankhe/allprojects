@@ -44,4 +44,4 @@ practices: [Five-tone recitation (wuhui nianfo) of Fazhao](../practices/wuhui-ni
 _Notes: Read locally (T47n1983)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

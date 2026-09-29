@@ -12,4 +12,4 @@
 The first of Lakulīśa's four disciples (Liṅga P. 1.24.131; Kūrma P. 1.51.26). Kauṇḍinya tells that Kuśika, prompted by Rudra, approached the Lord at Ujjayinī, declared his birth, lineage, learning and freedom from debts, and asked whether there is a final and absolute removal of all suffering - the question the Pāśupata Sūtra answers. The Mathurā inscription of 380 CE counts its donor as tenth in succession from Kuśika.
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._

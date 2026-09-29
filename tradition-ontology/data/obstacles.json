@@ -51,7 +51,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -119,7 +119,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -225,7 +225,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -278,7 +278,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -334,7 +334,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -383,7 +383,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -467,7 +467,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -519,7 +519,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -580,7 +580,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -638,7 +638,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -707,7 +707,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -800,7 +800,7 @@
    "prc:sattvika-tyaga"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
    "checks": [
@@ -814,6 +814,23 @@
      ],
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:ahankara"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/prepared/astavakra-gita/segments.jsonl (GRETIL e-text)",
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press)"
+     ],
+     "result": "confirmed",
+     "note": "MU 1.14 colophon 'ahaṅkārajugupsā', MU 4.15 'ahaṅkāravicāra', AG 1.8 and AR 7.5.38 ('ahaṅkāra eṣa prathamaḥ prakalpitaḥ adhyāsaḥ') verified.",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -863,7 +880,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -925,7 +942,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -984,7 +1001,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1047,7 +1064,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1099,7 +1116,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1233,7 +1250,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1288,7 +1305,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1348,7 +1365,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1404,7 +1421,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1464,7 +1481,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1539,7 +1556,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1589,7 +1606,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1645,7 +1662,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1703,7 +1720,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1754,7 +1771,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1815,7 +1832,7 @@
     "old": "Fear, anger, sloth, too much sleep and waking, too much food and fasting (Amṛtanāda 27).",
     "new": "Fear, anger, sloth, too much sleep and waking, too much food and fasting (Amṛtanāda 28).",
     "reason": "The verse listing these faults (bhayaṃ krodham athālasyam atisvapnātijāgaram | atyāhāram anāhāraṃ …) is Amṛtanāda 28 in the e-text; v. 27 names the doors. The ref in the description is corrected. All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:amrtanada-upanisad:27 (corrected).",
-    "date": "2026-09-29 18:02 IST",
+    "date": "2026-09-29 18:11 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -1838,7 +1855,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1892,7 +1909,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1938,7 +1955,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1994,7 +2011,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2072,7 +2089,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2132,7 +2149,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2182,7 +2199,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2245,7 +2262,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2300,7 +2317,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2350,7 +2367,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2490,7 +2507,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2541,7 +2558,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2590,7 +2607,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2687,7 +2704,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2746,7 +2763,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2788,7 +2805,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2841,7 +2858,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2896,7 +2913,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2980,7 +2997,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3029,7 +3046,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3083,7 +3100,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3176,7 +3193,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3246,7 +3263,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3300,7 +3317,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3359,7 +3376,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3433,7 +3450,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3487,7 +3504,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3538,7 +3555,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3590,7 +3607,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3639,10 +3656,27 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:asa"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/mahAbhAratam/gp/epub_no_img/ (Gita Press vulgate, chapter colophons)",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition)"
+     ],
+     "result": "confirmed",
+     "note": "BhP 11.8.44 and MBh CE 12.168.52 verified. The Ṛṣabha Gītā's 'hope is thinner than Tanu' is at CE 12.125.8-12.126.52; the cited 12.125-128 is the vulgate range.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3",
@@ -3675,7 +3709,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3728,7 +3762,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3784,7 +3818,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3835,7 +3869,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3896,7 +3930,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3938,7 +3972,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3981,7 +4015,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4030,7 +4064,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4116,7 +4150,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4175,7 +4209,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4282,7 +4316,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4371,7 +4405,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4425,7 +4459,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4520,7 +4554,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4574,7 +4608,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4634,7 +4668,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4709,7 +4743,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4822,7 +4856,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4887,7 +4921,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4918,10 +4952,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:atisneha"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.7.52-74; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -4942,7 +4991,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4995,7 +5044,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5150,7 +5199,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5199,7 +5248,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5259,7 +5308,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5310,7 +5359,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5363,7 +5412,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5451,7 +5500,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5513,7 +5562,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5580,7 +5629,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5657,7 +5706,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5716,7 +5765,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5768,7 +5817,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5817,7 +5866,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5870,7 +5919,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6007,6 +6056,22 @@
      "result": "confirmed",
      "note": "All 5 Upaniṣad refs cited in the entry are located in the prepared segments (KU 1.2.5; MuU 1.2.8; MuU 2.1.10; PrU 6.8; KU 1.2.4-6). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:avidya"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press)",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:rama-gita:7.5.8-10, tea:devi-gita:7.34.1-8; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -6052,7 +6117,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6096,7 +6161,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6155,7 +6220,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6217,7 +6282,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6277,7 +6342,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6341,7 +6406,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6403,7 +6468,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6458,7 +6523,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6524,7 +6589,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6579,7 +6644,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6632,7 +6697,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6681,7 +6746,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6743,7 +6808,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6798,7 +6863,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6849,7 +6914,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6919,7 +6984,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6973,7 +7038,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7025,7 +7090,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7241,7 +7306,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7314,7 +7379,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7370,7 +7435,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7430,7 +7495,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7511,7 +7576,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7602,7 +7667,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7683,7 +7748,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7743,7 +7808,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7817,7 +7882,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7887,7 +7952,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7943,7 +8008,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8042,7 +8107,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8104,7 +8169,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8164,7 +8229,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8234,7 +8299,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8291,7 +8356,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8355,7 +8420,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8410,7 +8475,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8441,10 +8506,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:daiva-paratva"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:moksopaya:2.4.8-18, tea:moksopaya:2.6.1-6; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8465,7 +8545,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8552,7 +8632,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8671,7 +8751,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8717,7 +8797,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8776,7 +8856,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8837,7 +8917,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8900,7 +8980,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8928,10 +9008,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:dehabhimana"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/prepared/astavakra-gita/segments.jsonl (GRETIL e-text)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:astavakra-gita:1.14-15; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8952,7 +9048,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9001,7 +9097,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9050,7 +9146,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9119,7 +9215,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9193,7 +9289,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9245,7 +9341,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9316,7 +9412,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9380,7 +9476,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9429,7 +9525,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9490,7 +9586,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9550,7 +9646,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9612,7 +9708,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9668,7 +9764,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9738,7 +9834,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9794,7 +9890,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9862,7 +9958,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9928,7 +10024,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10018,7 +10114,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10069,7 +10165,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10127,7 +10223,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10179,7 +10275,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10244,7 +10340,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10295,7 +10391,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10361,7 +10457,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10406,10 +10502,27 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:dussanga"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.26.26-34, tea:kapila-gita:3.31.22-33, tea:moksopaya:2.11.56-61; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -10432,7 +10545,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10481,7 +10594,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10624,7 +10737,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10788,7 +10901,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10840,7 +10953,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10915,7 +11028,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10972,7 +11085,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11020,7 +11133,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11070,7 +11183,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11148,7 +11261,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11214,7 +11327,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11290,7 +11403,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11396,7 +11509,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11466,7 +11579,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11537,7 +11650,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11609,7 +11722,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11689,7 +11802,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11752,7 +11865,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11825,7 +11938,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11879,7 +11992,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11945,7 +12058,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12000,7 +12113,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12045,7 +12158,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12112,7 +12225,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12186,7 +12299,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12242,7 +12355,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12284,10 +12397,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:fifteen-evils-of-wealth"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.23.18-19; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -12308,7 +12436,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12365,7 +12493,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12472,7 +12600,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12528,7 +12656,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12586,7 +12714,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12663,7 +12791,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12719,7 +12847,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12775,7 +12903,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12848,7 +12976,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12976,7 +13104,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13034,7 +13162,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13134,7 +13262,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13193,7 +13321,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13245,7 +13373,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13333,7 +13461,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13395,7 +13523,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13466,7 +13594,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13548,7 +13676,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13610,7 +13738,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13668,7 +13796,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13700,10 +13828,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:visnu-purana:1.5.5"
+     ],
+     "result": "confirmed",
+     "note": "VP 1.5.5 located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -13724,7 +13867,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13779,7 +13922,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13831,7 +13974,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13941,7 +14084,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13996,7 +14139,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14059,7 +14202,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14116,7 +14259,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14172,7 +14315,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14257,7 +14400,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14335,7 +14478,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14411,7 +14554,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14467,7 +14610,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14532,7 +14675,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14603,7 +14746,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14679,7 +14822,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14726,7 +14869,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14797,7 +14940,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14844,7 +14987,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14923,7 +15066,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14990,7 +15133,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15087,7 +15230,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15134,7 +15277,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15201,7 +15344,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15253,7 +15396,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15329,7 +15472,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15384,7 +15527,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15429,7 +15572,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15486,7 +15629,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15546,7 +15689,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15598,7 +15741,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15643,7 +15786,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15713,7 +15856,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15759,7 +15902,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15808,7 +15951,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15902,7 +16045,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15930,10 +16073,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:guna-dosa-drsti"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.19.36-45; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -15954,7 +16112,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16011,7 +16169,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16063,7 +16221,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16109,7 +16267,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16167,7 +16325,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16233,7 +16391,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16283,7 +16441,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16340,7 +16498,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16423,7 +16581,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16472,7 +16630,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16520,7 +16678,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16613,7 +16771,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16674,7 +16832,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16744,7 +16902,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16811,7 +16969,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16911,7 +17069,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16964,7 +17122,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17027,7 +17185,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17095,7 +17253,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17151,7 +17309,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17241,7 +17399,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17291,7 +17449,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17340,7 +17498,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17472,7 +17630,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17522,7 +17680,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17571,7 +17729,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17620,7 +17778,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17669,7 +17827,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17733,7 +17891,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17793,7 +17951,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17835,7 +17993,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17867,10 +18025,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:1.17.38-39"
+     ],
+     "result": "confirmed",
+     "note": "BhP 1.17.38-40 located (the fifth place, gold, at 1.17.39). All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -17891,7 +18064,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17947,7 +18120,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18003,7 +18176,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18137,7 +18310,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18193,7 +18366,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18249,7 +18422,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18518,7 +18691,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18546,10 +18719,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:10.33.40"
+     ],
+     "result": "confirmed",
+     "note": "BhP 10.33.40 (wiki numbering; 10.33.39 elsewhere) located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -18570,7 +18758,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18629,7 +18817,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18685,7 +18873,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18741,7 +18929,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18805,7 +18993,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18857,7 +19045,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18915,7 +19103,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18972,7 +19160,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19030,7 +19218,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19092,7 +19280,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19146,7 +19334,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19199,7 +19387,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19263,7 +19451,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19327,7 +19515,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19391,7 +19579,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19443,7 +19631,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19495,7 +19683,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19573,7 +19761,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19619,7 +19807,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19685,7 +19873,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19741,7 +19929,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19805,7 +19993,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19861,7 +20049,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19972,7 +20160,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20040,7 +20228,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20096,7 +20284,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20154,7 +20342,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20202,7 +20390,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20251,7 +20439,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20295,7 +20483,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20355,7 +20543,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20406,7 +20594,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20477,7 +20665,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20527,7 +20715,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20635,7 +20823,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20740,7 +20928,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20790,7 +20978,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20862,7 +21050,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20955,7 +21143,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21036,7 +21224,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21113,7 +21301,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21154,7 +21342,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21212,6 +21400,20 @@
      "result": "confirmed",
      "note": "MDh 11.54 (Kullūka; 52 in Medhātithi) has 'brahmahatyā surāpānaṃ steyaṃ gurvaṅganāgamaḥ | mahānti pātakāny āhuḥ saṃsargaś cāpi taiḥ saha'. The five members, including association (tatsaṃsarga), match. This rests on the confirmed teaching check tea:manusmrti:11.54.",
      "by": "sourcing:U02-brahmana-vedanga"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:6.2.9-10"
+     ],
+     "result": "confirmed",
+     "note": "BhP 6.2.9-10 located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -21244,7 +21446,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21295,7 +21497,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21351,7 +21553,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21406,7 +21608,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21452,7 +21654,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21512,7 +21714,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21563,7 +21765,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21594,10 +21796,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:malina-vasana"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:moksopaya:4.39.18-20, tea:moksopaya:5.92.28-36; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -21618,7 +21835,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21661,10 +21878,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:markandeya-purana:25.10-18, tea:markandeya-purana:38.6-16, tea:visnu-purana:6.7.11-12"
+     ],
+     "result": "confirmed",
+     "note": "VP 6.7.11-12, 6.7.25; MkP 38.6-16 (38.12 axe of knowledge sharpened on good company) located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -21685,7 +21917,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21773,7 +22005,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21845,7 +22077,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21912,7 +22144,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21968,7 +22200,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -22004,10 +22236,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:manas-cancalya"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.20.17-21, tea:moksopaya:2.11.56-61; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -22030,7 +22278,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -22088,7 +22336,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -22171,7 +22419,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -22243,7 +22491,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -22346,7 +22594,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -22437,7 +22685,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -22491,7 +22739,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -22548,7 +22796,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -22600,7 +22848,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -22660,7 +22908,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -22731,7 +22979,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -22791,7 +23039,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -22839,7 +23087,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -22892,7 +23140,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -22954,7 +23202,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -23009,7 +23257,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -23090,7 +23338,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -23176,7 +23424,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -23245,7 +23493,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -23548,7 +23796,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -23600,7 +23848,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -23642,7 +23890,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -23697,7 +23945,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -23766,7 +24014,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -23829,10 +24077,26 @@
    "no love despite hearing its glory"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/peterFreund/purANam/padma_purana_II.md Brahmakhaṇḍa 25.15-18",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_nAradapurANa.txt (Sansknet) 1.82.22-24"
+     ],
+     "result": "confirmed",
+     "note": "Now located in the Padma Brahmakhaṇḍa 25.15-18 (local peterFreund e-text) and in a parallel list at Nārada Purāṇa 1.82.22-24 (guror avajñā, sādhūnāṃ nindā, bheda between Hara and Hari, vedanindā, sinning on the strength of the name, arthavāda, teaching the faithless, forgetting and disregarding the name). The Padma edition reads 'śubhasya śrīviṣṇoḥ' where the Gauḍīya citation (followed here) has 'śivasya' for the second offence. The teachings it rests on were located; tea:padma-purana:nama-aparadha has a partial or corrected result (see its check).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "alt_description": [
    "Reviling devotees, separating Śiva's names from Viṣṇu's, disregarding the teacher, deriding scripture, calling the name's glory exaggeration, interpreting it away, sinning on its strength, equating it with other pious acts, teaching it to the faithless, and indifference despite hearing its glory (as cited from the Padma).",
@@ -23863,7 +24127,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -23913,7 +24177,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -23970,7 +24234,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -24026,7 +24290,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -24075,7 +24339,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -24159,7 +24423,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -24232,7 +24496,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -24292,7 +24556,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -24377,7 +24641,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -24462,7 +24726,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -24513,7 +24777,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -24563,7 +24827,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -24623,7 +24887,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -24691,7 +24955,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -24748,7 +25012,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -24800,7 +25064,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -24867,7 +25131,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -24934,7 +25198,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -24997,7 +25261,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -25040,7 +25304,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -25096,7 +25360,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -25152,7 +25416,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -25215,7 +25479,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -25294,7 +25558,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -25356,7 +25620,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -25415,7 +25679,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -25482,10 +25746,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:parigraha"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.9.1-2, tea:uddhava-gita:11.8.9-12, tea:uddhava-gita:11.8.15-16, tea:samyaka-gita:12.170; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "alt_description": [
    "Holding possessions, living or lifeless — the bond the Sūtrakṛtāṅga names first; defined in both traditions as attachment (mūrcchā), though the Digambaras hold any clothing to show it and the Śvetāmbaras do not."
@@ -25519,7 +25799,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -25583,7 +25863,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -25653,7 +25933,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -25716,7 +25996,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -25792,7 +26072,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -25844,7 +26124,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -25909,7 +26189,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -25963,7 +26243,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -26012,7 +26292,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -26072,7 +26352,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -26117,7 +26397,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -26179,7 +26459,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -26237,7 +26517,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -26309,7 +26589,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -26364,7 +26644,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -26414,7 +26694,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -26476,7 +26756,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -26542,7 +26822,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -26603,7 +26883,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -26671,7 +26951,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -26739,7 +27019,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -26923,7 +27203,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -26987,7 +27267,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27026,7 +27306,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27065,7 +27345,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27124,7 +27404,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27203,7 +27483,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27251,7 +27531,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27308,7 +27588,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27357,7 +27637,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27414,7 +27694,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27480,7 +27760,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27530,7 +27810,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27592,7 +27872,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27660,7 +27940,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27716,7 +27996,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27774,7 +28054,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27834,7 +28114,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27882,10 +28162,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:linga-purana:1.9.1-13, tea:siva-purana:7.2.38.1-8"
+     ],
+     "result": "confirmed",
+     "note": "LiP 1.9.1-2, 1.9.13 ('atyantotsāhayuktasya') and ŚiP 7.2.38.1-2 located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -27906,7 +28201,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -27960,7 +28255,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -28030,7 +28325,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -28173,7 +28468,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -28236,7 +28531,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -28287,7 +28582,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -28347,7 +28642,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -28375,10 +28670,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:rasa-lolupata"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.8.19-21; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -28399,7 +28709,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -28472,7 +28782,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -28546,7 +28856,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -28595,7 +28905,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -28666,7 +28976,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -28750,7 +29060,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -28813,7 +29123,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -28885,7 +29195,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -28991,7 +29301,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -29053,7 +29363,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -29109,7 +29419,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -29165,7 +29475,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -29217,7 +29527,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -29259,7 +29569,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -29296,10 +29606,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:sad-ripu"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40)"
+     ],
+     "result": "confirmed",
+     "note": "DBhP 7.35.3 'kāmakrodhau lobhamohau madamātsaryasaṃjñakau' verified.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -29320,7 +29646,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -29402,7 +29728,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -29456,7 +29782,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -29513,7 +29839,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -29579,7 +29905,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -29645,7 +29971,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -29693,7 +30019,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -29745,7 +30071,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -29810,7 +30136,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -29923,7 +30249,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -29987,7 +30313,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -30045,7 +30371,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -30245,7 +30571,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -30313,7 +30639,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -30369,7 +30695,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -30523,7 +30849,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -30566,10 +30892,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:5.8.26-27, tea:bhagavata-purana:9.6.50-51, tea:visnu-purana:2.13"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -30590,7 +30931,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -30650,7 +30991,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -30705,7 +31046,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -30755,7 +31096,7 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
    "checks": [
@@ -30772,6 +31113,20 @@
      ],
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:sankalpa"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:moksopaya:4.30-37; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -30810,7 +31165,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -30865,7 +31220,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -30927,7 +31282,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -30979,7 +31334,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -31037,7 +31392,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -31089,7 +31444,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -31137,7 +31492,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -31204,7 +31559,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -31259,7 +31614,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -31323,7 +31678,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -31411,7 +31766,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -31463,7 +31818,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -31523,7 +31878,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -31619,7 +31974,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -31659,7 +32014,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -31764,7 +32119,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -31836,7 +32191,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -31899,7 +32254,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -31954,7 +32309,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -32006,7 +32361,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -32079,7 +32434,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -32209,7 +32564,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -32254,7 +32609,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -32380,6 +32735,35 @@
      "result": "confirmed",
      "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.",
      "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:siddhis-as-obstacles"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.15.33-34, tea:moksopaya:6.84-86; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:11.14.14, tea:bhagavata-purana:11.15.33-34, tea:linga-purana:1.9.52-56"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -32422,7 +32806,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -32481,7 +32865,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -32540,7 +32924,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -32598,7 +32982,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -32660,7 +33044,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -32746,7 +33130,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -32803,7 +33187,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -32876,7 +33260,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -32933,7 +33317,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -32990,7 +33374,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -33050,7 +33434,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -33107,7 +33491,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -33180,7 +33564,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -33232,7 +33616,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -33382,7 +33766,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -33438,7 +33822,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -33495,7 +33879,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -33550,7 +33934,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -33610,7 +33994,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -33673,7 +34057,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -33765,7 +34149,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -33822,7 +34206,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -33887,7 +34271,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -33984,7 +34368,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -34043,7 +34427,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -34094,7 +34478,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -34150,7 +34534,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -34218,7 +34602,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -34269,7 +34653,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -34337,7 +34721,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -34382,7 +34766,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -34419,10 +34803,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:linga-purana:1.9.1-13, tea:visnu-purana:6.5.1-6"
+     ],
+     "result": "confirmed",
+     "note": "VP 6.5.1-6 and LiP 1.9.8-9 located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -34443,7 +34842,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -34519,7 +34918,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -34562,7 +34961,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -34636,7 +35035,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -34688,7 +35087,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -34759,7 +35158,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -34883,7 +35282,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -34959,7 +35358,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -35007,7 +35406,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -35080,7 +35479,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -35147,7 +35546,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -35225,7 +35624,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -35302,7 +35701,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -35359,7 +35758,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -35460,7 +35859,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -35514,7 +35913,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -35568,7 +35967,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -35638,7 +36037,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -35725,7 +36124,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -35783,7 +36182,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -35837,7 +36236,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -35891,7 +36290,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -36028,7 +36427,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -36082,7 +36481,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -36142,7 +36541,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -36186,7 +36585,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -36323,7 +36722,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -36380,7 +36779,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -36434,7 +36833,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -36502,7 +36901,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -36589,7 +36988,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -36652,7 +37051,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -36710,7 +37109,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -36795,7 +37194,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -36850,7 +37249,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -36903,7 +37302,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -36946,10 +37345,27 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:trsna"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)",
+      "local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition)",
+      "local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh14.json (BORI critical edition)"
+     ],
+     "result": "confirmed",
+     "note": "MU 1.16 colophon 'tṛṣṇāgarhā' verified; MBh CE 12.171.25 and 14.13.11 ff. verified.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3",
@@ -36983,7 +37399,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -37070,7 +37486,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -37139,7 +37555,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -37197,7 +37613,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -37268,7 +37684,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -37327,7 +37743,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -37470,7 +37886,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -37528,7 +37944,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -37587,7 +38003,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -37639,7 +38055,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -37709,7 +38125,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -37766,7 +38182,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -37820,7 +38236,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -37866,7 +38282,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -37945,7 +38361,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -37994,7 +38410,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -38054,7 +38470,7 @@
      }
     ],
     "reason": "The upapātaka list is at MDh 11.59–66 in Kullūka numbering (Medhātithi 57–64). It begins 'govadho 'yājyasaṃyājyaṃ pāradāryātmavikrayaḥ | gurumātṛpitṛtyāgaḥ svādhyāyāgnyoḥ sutasya ca' (11.59) and ends '… strīśūdraviṭkṣatravadho nāstikyaṃ copapātakam' (11.66). 11.67 is the separate jātibhraṃśakara category. The description's first examples (cow-killing, neglect of Veda and fires, selling oneself, deserting parents or teacher, adultery) are all in 11.59, outside the cited 11.60–67. Correction: ref 11.59–66 in sources and in the description's parenthesis; no other wording changed.",
-    "date": "2026-09-29 18:02 IST",
+    "date": "2026-09-29 18:11 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    },
    {
@@ -38062,7 +38478,7 @@
     "old": "A long list of lesser offences — killing a cow, neglecting the fires or the Veda, selling oneself, usury, deserting parents or teacher, adultery, killing women, śūdras, vaiśyas or kṣatriyas, unbelief (nāstikya) and others (MDh 11.60–67).",
     "new": "A long list of lesser offences — killing a cow, neglecting the fires or the Veda, selling oneself, usury, deserting parents or teacher, adultery, killing women, śūdras, vaiśyas or kṣatriyas, unbelief (nāstikya) and others (MDh 11.59–66).",
     "reason": "The upapātaka list is at MDh 11.59–66 in Kullūka numbering (Medhātithi 57–64). It begins 'govadho 'yājyasaṃyājyaṃ pāradāryātmavikrayaḥ | gurumātṛpitṛtyāgaḥ svādhyāyāgnyoḥ sutasya ca' (11.59) and ends '… strīśūdraviṭkṣatravadho nāstikyaṃ copapātakam' (11.66). 11.67 is the separate jātibhraṃśakara category. The description's first examples (cow-killing, neglect of Veda and fires, selling oneself, deserting parents or teacher, adultery) are all in 11.59, outside the cited 11.60–67. Correction: ref 11.59–66 in sources and in the description's parenthesis; no other wording changed.",
-    "date": "2026-09-29 18:02 IST",
+    "date": "2026-09-29 18:11 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],
@@ -38085,7 +38501,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -38136,10 +38552,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:linga-purana:1.9.14-20, tea:linga-purana:1.9.52-56, tea:siva-purana:7.2.38.9-17"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -38160,7 +38591,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -38196,10 +38627,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:markandeya-purana:40.1-13"
+     ],
+     "result": "confirmed",
+     "note": "MkP 40.1-13 and 40.14-15 (the white blanket of mind) located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -38220,7 +38666,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -38280,7 +38726,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -38332,7 +38778,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -38395,7 +38841,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -38464,7 +38910,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -38519,7 +38965,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -38582,7 +39028,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -38642,7 +39088,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -38693,7 +39139,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -38749,7 +39195,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -38807,7 +39253,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -38856,7 +39302,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -38919,7 +39365,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -38967,7 +39413,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -39033,7 +39479,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -39139,7 +39585,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -39205,7 +39651,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -39253,7 +39699,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -39355,7 +39801,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -39408,7 +39854,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -39457,7 +39903,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -39540,7 +39986,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -39594,7 +40040,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -39667,7 +40113,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -39737,7 +40183,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -39797,7 +40243,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -39859,7 +40305,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -39919,7 +40365,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -40020,7 +40466,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -40086,7 +40532,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -40144,7 +40590,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -40195,7 +40641,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -40265,7 +40711,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -40329,7 +40775,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -40382,7 +40828,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -40438,7 +40884,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -40493,7 +40939,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -40533,10 +40979,25 @@
    "A10"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:markandeya-purana:39.47-61"
+     ],
+     "result": "confirmed",
+     "note": "MkP 39.47-61 located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "alt_description": [
    "Beginning yoga in a distant land (no trust), forest (no food), capital or crowd (exposure), or in winter, summer or the rains brings failure or disease (GS 5.3–9)."
@@ -40563,7 +41024,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -40650,7 +41111,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -40737,7 +41198,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -40809,7 +41270,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -40858,10 +41319,27 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by obs:yosit-sanga"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/prepared/avadhuta-gita/segments.jsonl"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.8.7-8, tea:uddhava-gita:11.8.13-14, tea:uddhava-gita:11.26.4-24, tea:kapila-gita:3.31.34-42, tea:avadhuta-gita:8.10-26; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -40884,7 +41362,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -40937,7 +41415,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  }
 ]

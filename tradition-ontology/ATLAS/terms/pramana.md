@@ -38,4 +38,4 @@
 **Related:** [pratyakṣa](pratyaksa.md), [anumāna](anumana.md), [avisaṃvādin](avisamvadin.md), [pramāṇa-phala](pramanaphala.md), [āgama](agama.md), [kevala-pramāṇa](kevala-pramana.md), [anupramāṇa](anupramana.md), [dṛṣṭa (pratyakṣa)](drsta.md), [āptavacana](aptavacana.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U17-pasupata-kapalika, skeleton:U12-mimamsa, skeleton:U14-visistadvaita, skeleton:U47-sakya-kadam-gelug, skeleton:U13-advaita, skeleton:U33-sramana, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U17-pasupata-kapalika, skeleton:U12-mimamsa, skeleton:U14-visistadvaita, skeleton:U47-sakya-kadam-gelug, skeleton:U13-advaita, skeleton:U33-sramana, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._

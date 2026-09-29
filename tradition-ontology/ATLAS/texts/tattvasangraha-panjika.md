@@ -40,7 +40,7 @@ Purandara says: 'The Cārvākas too accept inference as it is known in the world
 
 _level: unmarked · standpoint: polemical · path: general · stage: unmarked · types: dispute_
 
-terms: [anumāna](../terms/anumana.md), [loka-prasiddha anumāna](../terms/loka-prasiddha-anumana.md) · concepts: [The critique of inference](../concepts/critique-of-inference.md), [Purandara: inference within the world](../concepts/purandara-worldly-inference.md) · teachers: [Purandara (Cārvāka)](../teachers/purandara-carvaka.md), [Kamalaśīla](../teachers/kamalasila.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [anumāna](../terms/anumana.md), [loka-prasiddha anumāna](../terms/loka-prasiddha-anumana.md) · concepts: [The critique of inference](../concepts/critique-of-inference.md), [Purandara: inference within the world](../concepts/purandara-worldly-inference.md) · teachers: [Purandara (Cārvāka)](../teachers/purandara-carvaka.md), [Kamalaśīla](../teachers/kamalasila.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 1860 <a id="tea-tattvasangraha-panjika-1860"></a>
 `skeleton` · confidence high
@@ -62,4 +62,4 @@ terms: [bhūta-caitanya](../terms/bhuta-caitanya.md) · concepts: [Consciousness
 
 
 ---
-_Contributed by: skeleton:U33-sramana, skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U33-sramana, skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

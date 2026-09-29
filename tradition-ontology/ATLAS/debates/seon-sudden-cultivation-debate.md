@@ -23,4 +23,4 @@ Seongcheol: true Chan awakening is realization in which cultivation is complete 
 **The traditions' own objections:** Seongcheol explicitly rejects understanding-awakening as heterodox for Chan, so he would not accept the reconciliation.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

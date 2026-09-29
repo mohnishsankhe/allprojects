@@ -16,4 +16,4 @@
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The Garbha content is located. The e-text section numbers differ from the skeleton's: the embryo's growth is §3; see the teaching checks. All 5 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:garbha-upanisad:2 (corrected); tea:garbha-upanisad:3 (corrected).
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:11 IST._

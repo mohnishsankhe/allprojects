@@ -1,6 +1,6 @@
 # Brahma Gītā (Sūta Saṃhitā)
 
-`src:brahma-gita-suta-samhita` · `skeleton` · confidence moderate
+`src:brahma-gita-suta-samhita` · `sourced` · confidence moderate
 
 **Original title:** ब्रह्मगीता
 **Language:** Sanskrit
@@ -17,17 +17,17 @@ A Śaiva Advaita commentary-in-verse on the principal Upaniṣads (Kena, Bṛhad
 **Editions / translations:** 
   - kind: original; name: Gītāsaṅgraha (Poona 1915); licence: digitization terms unknown
 
-## Teachings (2: skeleton 2)
+## Teachings (2: sourced 2)
 
 ### 4 <a id="tea-brahma-gita-suta-samhita-4"></a>
-`skeleton` · confidence low · [AI-translated]
+`sourced` · confidence low · [AI-translated]
 
 The Brahma Gītā expounds the Kena (Talavakāra) Upaniṣad: Śiva is the witness by whose light mind, speech and senses function yet who is not their object.
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
 ### 12 <a id="tea-brahma-gita-suta-samhita-12"></a>
-`skeleton` · confidence low · [AI-translated]
+`sourced` · confidence low · [AI-translated]
 
 Śiva is the ground of the notion 'I' (ahaṃ-pratyaya): the Self indicated by 'I' in all beings is Śiva himself.
 
@@ -35,4 +35,8 @@ _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced �
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), https://en.krishnakosh.org/krishna/Gita_Rahasya_-Tilak_4 — 12 chapters in the Gītāsaṅgraha, colophon as stated. Chapter titles include 4 'talavakāropaniṣad-vyākhyā' and 12 'śivasya ahampratyayāśrayatva'.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

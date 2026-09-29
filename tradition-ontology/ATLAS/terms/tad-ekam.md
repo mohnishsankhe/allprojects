@@ -15,4 +15,4 @@
 - same-under-standpoint: [brahman](brahman.md) (Vedānta commentarial reading) — Vedānta reads That One as Brahman; the hymn itself does not name it, and the ritual (Mīmāṃsā) reading posits no such single referent.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._

@@ -25,7 +25,7 @@ This twelve-limbed basket of the gaṇin never was not, never is not, never will
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: sound-language, teacher-transmission_
 
-terms: [āgama (Jain canon)](../terms/agama-jain.md), [aṅga (limb of the Jain canon)](../terms/anga-jain.md) · concepts: [The twelve Aṅgas (eleven surviving)](../concepts/eleven-angas.md), [The Śvetāmbara canon of forty-five Āgamas](../concepts/svetambara-canon-45.md) · disputes: [Did the original Jain scripture survive?](../debates/canon-survival-jain.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [āgama (Jain canon)](../terms/agama-jain.md), [aṅga (limb of the Jain canon)](../terms/anga-jain.md) · concepts: [The twelve Aṅgas (eleven surviving)](../concepts/eleven-angas.md), [The Śvetāmbara canon of forty-five Āgamas](../concepts/svetambara-canon-45.md) · disputes: [Did the original Jain scripture survive?](../debates/canon-survival-jain.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### jnana <a id="tea-nandi-sutra-jnana"></a>
 `skeleton` · confidence high
@@ -43,8 +43,8 @@ The Mahābhārata, the Rāmāyaṇa, the Vedas, Kauṭilya's treatise, the Buddh
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: sound-language, dispute_
 
-terms: [samyag-darśana](../terms/samyag-darsana.md), [śruta-jñāna](../terms/sruta-jnana.md) · concepts: [Many-sidedness (anekāntavāda)](../concepts/anekantavada.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [samyag-darśana](../terms/samyag-darsana.md), [śruta-jñāna](../terms/sruta-jnana.md) · concepts: [Many-sidedness (anekāntavāda)](../concepts/anekantavada.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

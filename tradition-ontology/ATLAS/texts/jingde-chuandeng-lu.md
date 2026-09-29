@@ -160,7 +160,7 @@ Guanxi Zhixian came to test the nun Moshan Liaoran; asked 'what is the master of
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, teacher-transmission, ethics_
 
-teachers: [Moshan Liaoran 末山了然](../teachers/moshan-liaoran.md), [Guanxi Zhixian 灌溪志閑](../teachers/guanxi-zhixian.md) · disputes: `dsp:women-caste-liberation`
+teachers: [Moshan Liaoran 末山了然](../teachers/moshan-liaoran.md), [Guanxi Zhixian 灌溪志閑](../teachers/guanxi-zhixian.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 309b13 <a id="tea-jingde-chuandeng-lu-309b13"></a>
 `skeleton` · confidence high
@@ -230,4 +230,4 @@ terms: [pingchang xin (ordinary mind)](../terms/pingchang-xin.md) · concepts: [
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

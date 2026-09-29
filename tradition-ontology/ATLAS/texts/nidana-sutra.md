@@ -17,4 +17,4 @@ _Notes: Sometimes ascribed to a Patañjali; ascription not asserted here._
 
 - 2026-09-28 websearch: confirmed — catalog:GRETIL-dev:Chandovichiti, https://www.wisdomlib.org/hinduism/book/panchavimsha-brahmana-english-translation/d/doc1473684.html, https://hindupedia.com/en/S%C4%81maveda — Low-confidence entry confirmed: the Nidānasūtra deals with the metres of the Sāmaveda mantras and the structure of the chants and rites, and is ascribed to a Patañjali (Hindupedia; Kauthuma text survey), a view the entry leaves unasserted.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

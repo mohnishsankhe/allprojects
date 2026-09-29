@@ -18,4 +18,4 @@
 _Notes: Merger: probably the same as the skeleton's broader cpt:the-self (BhG 2.11–30 etc.); both extractors used this id, so it is kept; flagged for the de-duplication pass. The text of 2.11–30 names it dehin or śarīrin, or refers to it by pronoun (ayam, enam); it does not use the word ātman there, so 'ātman' is not listed among its names (the commentators' identification is recorded as a partial equivalence on trm:dehin)._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:02 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:11 IST._

@@ -16,4 +16,4 @@ Sönam Tsemo's classic Sakya survey of the four classes of tantra and their dist
   - kind: original; name: Tibetan: collected works (gsung 'bum), several xylograph and modern editions
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._

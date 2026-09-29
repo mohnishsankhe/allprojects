@@ -56,8 +56,8 @@ The third part, on conduct: the renunciant takes the sign 'like the newborn' —
 
 _level: conventional · standpoint: seeker · path: action · stage: advanced (śramaṇa) · types: ethics, practice, dispute_
 
-concepts: [The twenty-eight root qualities of the Digambara monk](../concepts/twenty-eight-mulagunas.md), [Monastic nudity and clothing](../concepts/monastic-nudity.md), [Liberation of women (strī-mukti)](../concepts/strimukti.md) · disputes: [Is complete nudity required of the renunciant (and for liberation)?](../debates/monastic-nudity.md), `dsp:women-caste-liberation`
+concepts: [The twenty-eight root qualities of the Digambara monk](../concepts/twenty-eight-mulagunas.md), [Monastic nudity and clothing](../concepts/monastic-nudity.md), [Liberation of women (strī-mukti)](../concepts/strimukti.md) · disputes: [Is complete nudity required of the renunciant (and for liberation)?](../debates/monastic-nudity.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # Devotion in separation
 
-`cpt:viraha-bhakti` · `skeleton` · confidence high
+`cpt:viraha-bhakti` · `sourced` · confidence high
 
 **Category:** consciousness-states
 
@@ -22,4 +22,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U25-alvar-bhakti-theory, skeleton:U07-puranas, skeleton:U26-regional-bhakti, skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:10.29-33, tea:bhagavata-purana:10.47.34-36, tea:bhagavata-purana:10.47.61 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U25-alvar-bhakti-theory, skeleton:U07-puranas, skeleton:U26-regional-bhakti, skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

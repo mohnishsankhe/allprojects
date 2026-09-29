@@ -13,4 +13,4 @@ The first impurity; removed by the living with the teacher and learning (vāsa).
   - [Ratnaṭīkā](../texts/ratnatika.md) — ref: on GK 7; rests_on: ["tea:ratnatika:7"]
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._

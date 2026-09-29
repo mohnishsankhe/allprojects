@@ -145,7 +145,7 @@ Pratardana Daivodāsi came to Indra's dear abode by fighting and valour; Indra o
 
 _level: bridging · standpoint: divine · path: knowledge · stage: advanced · types: karma-liberation, ethics_
 
-teachers: [Indra (as student and teacher)](../teachers/indra.md), [Pratardana Daivodāsi](../teachers/pratardana-daivodasi.md) · disputes: `dsp:works-knowledge-grace`
+teachers: [Indra (as student and teacher)](../teachers/indra.md), [Pratardana Daivodāsi](../teachers/pratardana-daivodasi.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3.2 <a id="tea-kausitaki-upanisad-3-2"></a>
 `sourced` · confidence high
@@ -174,7 +174,7 @@ This breath, the intelligent self, is bliss, unaging, immortal; it does not beco
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: advanced · types: ultimate, karma-liberation_
 
-concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Karma](../concepts/karma.md) · teachers: [Indra (as student and teacher)](../teachers/indra.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), `dsp:works-knowledge-grace`
+concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Karma](../concepts/karma.md) · teachers: [Indra (as student and teacher)](../teachers/indra.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 4.1-18 <a id="tea-kausitaki-upanisad-4-1-18"></a>
 `sourced` · confidence moderate
@@ -202,4 +202,4 @@ _Notes: Variant readings are many (e.g., the river Vijara/Viraja, the tree Ilya/
 
 - 2026-09-29 catalog+websearch: partially-confirmed — catalog:DCS:Kauṣītakyupaniṣad, catalog:eBharati:kaushItakibrAhmaNopaniShat, catalog:raw_etexts:kaushitaki_brahmana_upanishad, text:sources_raw/prepared/kausitaki-upanisad-sharada/segments.jsonl (Advaita-Śāradā mūla kst.md, Advaita-Śāradā section numbering), https://en.wikipedia.org/wiki/Kaushitaki_U — Confirmed: part of the Kauṣītaki Āraṇyaka ch. 3–6 (Wikipedia, which notes other manuscript orders); 4 adhyāyas with 7, 15, 9, 20 sections in the Advaita-Śāradā text. The variant readings (Virajā/Vijarā, Tilya/Ilya, Gārgyāyaṇi/Gāṅgyāyani) are confirmed between the Śāradā text and the web translation. Wikipedia's 'before the middle of the 1st millennium BCE' fits -600/-400. Not checked: that Cowell's edition has the same section numbering, and whether the commentary in the Advaita-Śāradā kst.md (headed as Śaṅkara's) is his.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

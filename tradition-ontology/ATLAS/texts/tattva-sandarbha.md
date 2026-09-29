@@ -29,8 +29,8 @@ Perception and inference are fallible in the matter of the transcendent; revelat
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: sound-language, teacher-transmission_
 
-concepts: [Revelation as the decisive means of knowledge, the Bhāgavata as supreme (Jīva)](../concepts/sabda-pramana-bhagavata.md) · teachers: [Jīva Gosvāmī](../teachers/jiva-gosvami.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [Revelation as the decisive means of knowledge, the Bhāgavata as supreme (Jīva)](../concepts/sabda-pramana-bhagavata.md) · teachers: [Jīva Gosvāmī](../teachers/jiva-gosvami.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

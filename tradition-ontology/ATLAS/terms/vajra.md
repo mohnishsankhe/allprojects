@@ -15,4 +15,4 @@
 **Related:** [ghaṇṭā](ghanta.md)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._

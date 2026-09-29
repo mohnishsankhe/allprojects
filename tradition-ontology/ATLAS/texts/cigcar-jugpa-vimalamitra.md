@@ -26,10 +26,10 @@ Closing verse: by the explanation of this simultaneous entry into non-conceptual
 
 _level: ultimate · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-teachers: [Vimalamitra](../teachers/vimalamitra.md) · disputes: `dsp:sudden-or-gradual`, [Is the Great Perfection the 'sudden' Chan of Moheyan, rejected at Samye, in another guise?](../debates/dzogchen-and-chan.md)
+teachers: [Vimalamitra](../teachers/vimalamitra.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md), [Is the Great Perfection the 'sudden' Chan of Moheyan, rejected at Samye, in another guise?](../debates/dzogchen-and-chan.md)
 
 
 _Notes: Local: catalog:Derge-Tengyur:D3910; colophon read._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

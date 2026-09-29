@@ -16,4 +16,4 @@ Co-founder of the Rimé movement. A monk of the Sakya (Ngor) tradition based at 
 **Realization — the tradition's account:** Regarded as the mind-emanation of Jigme Lingpa and as an emanation of Mañjuśrī; holder of the seven transmissions (bka' babs bdun).
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime, skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime, skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

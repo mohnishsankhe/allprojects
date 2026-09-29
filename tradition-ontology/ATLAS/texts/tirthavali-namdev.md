@@ -27,4 +27,4 @@ concepts: [The vārī and its inner meaning](../concepts/vari-inner-meaning.md) 
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

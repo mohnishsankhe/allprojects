@@ -22,7 +22,7 @@ A steady and comfortable seat (2.46), achieved by relaxing effort and by coalesc
   - [Sāṃkhya Sūtra](../texts/samkhya-sutra.md) — ref: 6.24; rests_on: ["tea:samkhya-sutra:6.22-25"]
   - [Yogaśāstra (Hemacandra)](../texts/yogasastra-hemacandra.md) — ref: 4.124-134; rests_on: ["tea:yogasastra-hemacandra:4.124-134"]
   - [Yogadṛṣṭisamuccaya](../texts/yogadrstisamuccaya.md) — ref: bala; rests_on: ["tea:yogadrstisamuccaya:bala"]
-**Sequences:** `pth:yoga-sutra-eight-limbs`, [The Sāṃkhya Sūtra's path of meditation and discrimination](../paths/samkhya-sutra-path.md)
+**Sequences:** [Patañjali's eight limbs of yoga (aṣṭāṅga-yoga)](../paths/yoga-sutra-eight-limbs.md), [The Sāṃkhya Sūtra's path of meditation and discrimination](../paths/samkhya-sutra-path.md)
 
 _Notes: Vīrāsana appears in some editions' list of YBh 2.46._
 
@@ -31,4 +31,4 @@ _Notes: Vīrāsana appears in some editions' list of YBh 2.46._
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.11, tea:bhagavad-gita:6.12, tea:bhagavad-gita:6.13 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06, skeleton:U09-samkhya, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06, skeleton:U09-samkhya, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

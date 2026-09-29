@@ -19,4 +19,4 @@ A Siddhānta scripture of the upāgama class, known for its jñāna teaching, co
 _Notes: Its affiliation to a particular mūlāgama is not recorded here._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._

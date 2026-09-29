@@ -24,7 +24,7 @@ The eighth schism, the Boṭika: at Rathavīrapura, 609 years after the nirvā�
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, narrative, teacher-transmission_
 
-concepts: [The schismatics (nihnava)](../concepts/nihnavas.md), [The two modes of mendicant life](../concepts/jinakalpa-sthavirakalpa.md) · teachers: [Śivabhūti (Sahasramalla)](../teachers/sivabhuti.md) · disputes: [How did the Śvetāmbara–Digambara division arise?](../debates/svetambara-digambara-origin.md), [Is complete nudity required of the renunciant (and for liberation)?](../debates/monastic-nudity.md), `dsp:women-caste-liberation`
+concepts: [The schismatics (nihnava)](../concepts/nihnavas.md), [The two modes of mendicant life](../concepts/jinakalpa-sthavirakalpa.md) · teachers: [Śivabhūti (Sahasramalla)](../teachers/sivabhuti.md) · disputes: [How did the Śvetāmbara–Digambara division arise?](../debates/svetambara-digambara-origin.md), [Is complete nudity required of the renunciant (and for liberation)?](../debates/monastic-nudity.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### ganadharavada <a id="tea-visesavasyaka-bhasya-ganadharavada"></a>
 `skeleton` · confidence low
@@ -42,7 +42,7 @@ The debates of the gaṇadharas: eleven learned brāhmaṇas came to defeat Mah�
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, teacher-transmission, consciousness-mind_
 
-concepts: [The debates of the eleven gaṇadharas](../concepts/ganadharavada.md) · teachers: [Indrabhūti Gautama](../teachers/indrabhuti-gautama.md), [Agnibhūti](../teachers/agnibhuti.md), [Vāyubhūti](../teachers/vayubhuti.md), [Vyakta](../teachers/vyakta.md), [Sudharman](../teachers/sudharman.md), [Maṇḍika (Maṇḍita)](../teachers/mandika.md), [Mauryaputra](../teachers/mauryaputra.md), [Akampita](../teachers/akampita.md), [Acalabhrātṛ](../teachers/acalabhrata.md), [Metārya](../teachers/metarya.md), [Prabhāsa](../teachers/prabhasa-ganadhara.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [The debates of the eleven gaṇadharas](../concepts/ganadharavada.md) · teachers: [Indrabhūti Gautama](../teachers/indrabhuti-gautama.md), [Agnibhūti](../teachers/agnibhuti.md), [Vāyubhūti](../teachers/vayubhuti.md), [Vyakta](../teachers/vyakta.md), [Sudharman](../teachers/sudharman.md), [Maṇḍika (Maṇḍita)](../teachers/mandika.md), [Mauryaputra](../teachers/mauryaputra.md), [Akampita](../teachers/akampita.md), [Acalabhrātṛ](../teachers/acalabhrata.md), [Metārya](../teachers/metarya.md), [Prabhāsa](../teachers/prabhasa-ganadhara.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### kevala-krama <a id="tea-visesavasyaka-bhasya-kevala-krama"></a>
 `skeleton` · confidence low
@@ -55,4 +55,4 @@ concepts: [Omniscience (kevala-jñāna)](../concepts/kevala-jnana.md) · teacher
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

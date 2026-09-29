@@ -9,4 +9,4 @@
 Treasure revealer who, in the tradition's account, recovered the Four Tantras in 1038 from a pillar of the main temple at Samye.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

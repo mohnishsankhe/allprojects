@@ -12,4 +12,4 @@ One of the thirteen ascetic practices: the tree-root dweller's practice, underta
   - [Visuddhimagga](../texts/visuddhimagga.md) — ref: II; rests_on: ["tea:visuddhimagga:2"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._

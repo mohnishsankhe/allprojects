@@ -66,7 +66,7 @@ Liberation is to be won only by his (Viṣṇu's) pleasure, through him and no o
 
 _level: conventional · standpoint: divine · path: devotion, knowledge · stage: all · types: karma-liberation_
 
-terms: [prasāda](../terms/prasada.md), [mokṣa](../terms/moksa.md) · concepts: [Divine grace (prasāda)](../concepts/grace.md) · disputes: `dsp:works-knowledge-grace`
+terms: [prasāda](../terms/prasada.md), [mokṣa](../terms/moksa.md) · concepts: [Divine grace (prasāda)](../concepts/grace.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 1.78-80 <a id="tea-mahabharata-tatparya-nirnaya-1-78-80"></a>
 `skeleton` · confidence high
@@ -75,7 +75,7 @@ terms: [prasāda](../terms/prasada.md), [mokṣa](../terms/moksa.md) · concepts
 
 _level: conventional · standpoint: divine · path: devotion, knowledge · stage: all · types: karma-liberation, teacher-transmission_
 
-terms: [Vāyu](../terms/vayu.md), [prasāda](../terms/prasada.md), [tāratamya](../terms/taratamya.md), [Hari-sarvottama (sarvottamatva)](../terms/hari-sarvottama.md) · concepts: [Grace through the hierarchy of souls](../concepts/grace-through-hierarchy.md), [Hari's supremacy (Hari-sarvottamatva)](../concepts/hari-sarvottamatva.md), [Vāyu as the highest soul (Vāyu-jīvottamatva)](../concepts/vayu-jivottamatva.md) · disputes: `dsp:works-knowledge-grace`
+terms: [Vāyu](../terms/vayu.md), [prasāda](../terms/prasada.md), [tāratamya](../terms/taratamya.md), [Hari-sarvottama (sarvottamatva)](../terms/hari-sarvottama.md) · concepts: [Grace through the hierarchy of souls](../concepts/grace-through-hierarchy.md), [Hari's supremacy (Hari-sarvottamatva)](../concepts/hari-sarvottamatva.md), [Vāyu as the highest soul (Vāyu-jīvottamatva)](../concepts/vayu-jivottamatva.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 1.81-84 <a id="tea-mahabharata-tatparya-nirnaya-1-81-84"></a>
 `skeleton` · confidence high
@@ -95,7 +95,7 @@ Love (sneha) that is preceded by knowledge of his greatness, very firm and great
 
 _level: conventional · standpoint: devotional · path: devotion, knowledge · stage: all · types: practice, karma-liberation_
 
-terms: [bhakti](../terms/bhakti.md), [māhātmya-jñāna](../terms/mahatmya-jnana.md), [sneha](../terms/sneha.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md) · disputes: `dsp:works-knowledge-grace`
+terms: [bhakti](../terms/bhakti.md), [māhātmya-jñāna](../terms/mahatmya-jnana.md), [sneha](../terms/sneha.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 1.86-90 <a id="tea-mahabharata-tatparya-nirnaya-1-86-90"></a>
 `skeleton` · confidence high
@@ -199,4 +199,4 @@ _Notes: Chapter structure and the verses cited checked against the Devanāgarī 
 
 - 2026-09-29 catalog: confirmed — catalog:GRETIL:mAdhva-mahAbhAratatAtparyanirNaya, catalog:GRETIL-dev:madhva_mahabharatatatparyanirnaya — Extant and digitized; Madhva's work as entered.
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._

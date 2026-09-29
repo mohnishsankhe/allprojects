@@ -17,4 +17,4 @@
 Kashmiri(?) logician whose commentaries on the Nyāyabindu and Pramāṇaviniścaya shaped later Indian and early Tibetan epistemology; he stressed that a means of knowledge makes one attain (prāpaka) its object.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

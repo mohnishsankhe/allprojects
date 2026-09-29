@@ -15,4 +15,4 @@ Begin with 'buddho' and a few long breaths; observe and adjust the breath until 
 - partial: [Mindfulness of breathing (ānāpānasati)](anapanasati.md) — a development of mindfulness of breathing working with breath energy in the body
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._

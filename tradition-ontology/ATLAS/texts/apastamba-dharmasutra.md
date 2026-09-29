@@ -36,7 +36,7 @@ There are four classes — brāhmaṇa, kṣatriya, vaiśya and śūdra; of thes
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
 
-terms: [varṇa](../terms/varna.md) · concepts: [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md) · disputes: `dsp:women-caste-liberation`
+terms: [varṇa](../terms/varna.md) · concepts: [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 1.1.1.9-17 <a id="tea-apastamba-dharmasutra-1-1-1-9-17"></a>
 `sourced` · confidence high
@@ -117,7 +117,7 @@ Of the wandering ascetic: abandoning truth and falsehood, pleasure and pain, the
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, karma-liberation_
 
-practices: [Renunciation (saṃnyāsa) in the Dharmaśāstra](../practices/samnyasa.md) · disputes: [Are the four orders of life a free choice, a fixed sequence, or is only the householder's order valid?](../debates/asrama-vikalpa-samuccaya-badha.md), `dsp:works-knowledge-grace`
+practices: [Renunciation (saṃnyāsa) in the Dharmaśāstra](../practices/samnyasa.md) · disputes: [Are the four orders of life a free choice, a fixed sequence, or is only the householder's order valid?](../debates/asrama-vikalpa-samuccaya-badha.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 2.9.23.3-5 <a id="tea-apastamba-dharmasutra-2-9-23-3-5"></a>
 `sourced` · confidence high
@@ -145,4 +145,4 @@ _Notes: Commentary: Haradatta's Ujjvalā._
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Āpastambadharmasūtra, catalog:GRETIL-dev:apastamba-dharmasutra, https://en.wikipedia.org/wiki/Apastamba_Dharmasutra, https://en.wikipedia.org/wiki/Gautama_Dharmasutra — Extant; praśnas 28–29. Thirteen passages are text-located. Dating: Olivelle treats it as the oldest extant Dharmasūtra (early 3rd c. BCE); Kane gave 450–350 BCE. This matches both halves of the entry.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

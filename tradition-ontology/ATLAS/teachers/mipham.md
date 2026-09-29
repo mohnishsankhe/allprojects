@@ -17,4 +17,4 @@
 The great Nyingma scholar of the Rimé era, disciple of Jamyang Khyentse Wangpo and Patrul; he wrote commentaries giving the Nyingma its own scholastic curriculum (Madhyamakālaṃkāra, Bodhicaryāvatāra 9, Guhyagarbha, the Beacon of Certainty, the Gateway to Knowledge), argued with Gelug scholars on Madhyamaka, and taught buddha-nature as the union of luminosity and emptiness.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

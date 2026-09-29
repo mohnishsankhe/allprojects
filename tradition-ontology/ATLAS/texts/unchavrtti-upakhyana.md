@@ -24,4 +24,4 @@ The closing story of the Śāntiparvan: a brāhmaṇa seeking the highest dharma
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.343.4 and 12.349.5 Padmanābha (nāga); 12.351.1 uñchavṛtti sage gone to heaven; 12.353.1, local:sources_raw/raw_etexts/mixed/sarit-markdown/mahabharata-devanagari.md (vulgate) uñchavṛtti sage — Section located at CE 12.340-353 as entered; speakers and topic confirmed by keyword search. (Listed as least sure in the unit REPORT.) Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # Recitation of the Devī Māhātmya (Caṇḍīpāṭha)
 
-`prc:candi-patha` · `skeleton` · confidence high
+`prc:candi-patha` · `sourced` · confidence high
 
 **Category:** mantra-sound
 **Convergence:** 2 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Śākta traditions](../lineages/sakta.md)
@@ -13,4 +13,8 @@ Reciting the thirteen chapters of the Devī Māhātmya (with ancillary hymns in 
   - [Devī Māhātmya](../texts/devi-mahatmya.md) — ref: 11; rests_on: ["tea:devi-mahatmya:11"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:devi-mahatmya:11, tea:devi-mahatmya:12, tea:devi-mahatmya:5 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

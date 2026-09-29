@@ -11,4 +11,4 @@ Handing to everyone met a slip printed 'Namu Amida Butsu — birth assured — s
   - [Illustrated Biography of the Holy Man Ippen (Ippen Hijiri-e)](../texts/ippen-hijiri-e.md) — ref: scroll 3; rests_on: ["tea:ippen-hijiri-e:3.kumano"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

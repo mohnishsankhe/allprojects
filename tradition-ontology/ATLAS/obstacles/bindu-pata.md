@@ -14,4 +14,4 @@ Loss of the vital drop brings death; semen moved by udāna is 'the poison-line o
   - [Dattātreyayogaśāstra](../texts/dattatreyayogasastra.md) — ref: 77-80; rests_on: ["tea:dattatreyayogasastra:77-80"]
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._

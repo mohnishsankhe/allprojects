@@ -17,4 +17,4 @@
 **Realization — the tradition's account:** After studying the guṇasthānas with Rūpcand he says his understanding became balanced and he held niścaya and vyavahāra together (Ardhakathānaka).
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

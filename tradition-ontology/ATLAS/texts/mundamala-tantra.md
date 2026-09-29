@@ -13,4 +13,4 @@ An eastern tantra that names the ten Mahāvidyās — Kālī, Tārā, Ṣoḍaś
   - kind: original; name: Muktabodha Digital Library e-text M00537-M00538
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._

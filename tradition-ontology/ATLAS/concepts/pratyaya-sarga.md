@@ -16,4 +16,4 @@
 - part-of → [The sixty topics of the Ṣaṣṭitantra](sastitantra-sixty-topics.md) — rests on [72](../texts/samkhya-karika.md#tea-samkhya-karika-72), [72](../texts/mathara-vrtti.md#tea-mathara-vrtti-72)
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._

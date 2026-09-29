@@ -1,6 +1,6 @@
 # Śruti Gītā
 
-`src:sruti-gita` · `skeleton` · confidence moderate
+`src:sruti-gita` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -16,17 +16,21 @@
 
 The Vedas' hymn on the Lord who is beyond all description; the chapter frames the question how scripture, which speaks through qualities, can describe the attributeless Brahman, and has been commented upon by Advaita and Vaiṣṇava schools alike.
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 10.87 <a id="tea-sruti-gita-10-87"></a>
-`skeleton` · confidence moderate · [AI-translated]
+`sourced` · confidence moderate · [AI-translated]
 
 The personified Vedas praise the Lord as the one reality from which the world arises and in which it rests, who cannot be directly described by words that work through qualities; scripture reaches him by negating what is other; devotees crossing by his feet reach him.
 
 _level: ultimate · standpoint: apophatic · path: knowledge, devotion · stage: advanced · types: ultimate, sound-language_
 
-disputes: `dsp:saguna-nirguna`
+disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — BhP 10.87 (50 verses): Parīkṣit's question how the śrutis describe the attributeless (10.87.1) and the Vedas' hymn from 10.87.14; confirmed.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

@@ -14,4 +14,4 @@
 Daulatrām's Hindi primer in six 'ḍhāl' songs (1834) on the suffering of the four destinies, wrong and right view, the vows, the twelve reflections and the path to liberation; widely memorised.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

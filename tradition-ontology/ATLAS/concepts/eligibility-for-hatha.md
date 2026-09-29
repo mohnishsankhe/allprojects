@@ -13,4 +13,4 @@
 - contrasts-with → [The four grades of aspirant](four-grades-of-aspirant.md): universal eligibility by practice vs graded fitness; see the interpretation log (P4-stage) — rests on [5.10-14](../texts/siva-samhita.md#tea-siva-samhita-5-10-14), [37-38](../texts/dattatreyayogasastra.md#tea-dattatreyayogasastra-37-38)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._

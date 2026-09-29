@@ -1,6 +1,6 @@
 # The preta state
 
-`cpt:preta-state` · `skeleton` · confidence high
+`cpt:preta-state` · `sourced` · confidence high
 
 **Category:** death-dying
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-mahatmya:1-6, tea:garuda-purana:2.22, tea:garuda-purana:2.5.39-40 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

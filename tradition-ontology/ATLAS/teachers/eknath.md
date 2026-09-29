@@ -1,6 +1,6 @@
 # Eknāth
 
-`tch:eknath` · `skeleton` · confidence high
+`tch:eknath` · `sourced` · confidence high
 
 **Alternate names:** Ekā Janārdanī, Eknāth Mahārāj
 **Lineages:** [Vārkarī sampradāya](../lineages/varkari.md)
@@ -21,4 +21,8 @@ Brahmin saint of Paiṭhaṇ (1533–1599), disciple of Janārdana Svāmī: corr
 **Realization — the tradition's account:** Received Datta's vision through Janārdana's grace; Kṛṣṇa served him as a household servant for twelve years.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti, skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Eknathi_Bhagwat, https://en.wikipedia.org/wiki/Varkari — Author of the Eknāthī Bhāgavata (completed Vārāṇasī 1573).
+
+_Contributed by: skeleton:U26-regional-bhakti, skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

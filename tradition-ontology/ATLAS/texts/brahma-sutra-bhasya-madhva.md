@@ -46,7 +46,7 @@ terms: [adhikāra](../terms/adhikara.md) · concepts: [Three grades of eligibili
 
 _level: conventional · standpoint: ethical-social · path: knowledge, devotion · stage: all · types: ethics, sound-language_
 
-terms: [adhikāra](../terms/adhikara.md) · concepts: [Three grades of eligibility (adhikāra)](../concepts/adhikara-three-grades.md) · disputes: `dsp:women-caste-liberation`
+terms: [adhikāra](../terms/adhikara.md) · concepts: [Three grades of eligibility (adhikāra)](../concepts/adhikara-three-grades.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 1.1.1 <a id="tea-brahma-sutra-bhasya-madhva-1-1-1-4"></a>
 `skeleton` · confidence high
@@ -57,7 +57,7 @@ Since without Nārāyaṇa's grace there is no liberation, and without knowledge
 
 _level: conventional · standpoint: seeker · path: knowledge, devotion · stage: all · types: karma-liberation, practice_
 
-terms: [prasāda](../terms/prasada.md), [mokṣa](../terms/moksa.md), [jñāna](../terms/jnana.md) · concepts: [Divine grace (prasāda)](../concepts/grace.md), [Direct knowledge of God (aparokṣa-jñāna)](../concepts/aparoksa-jnana.md) · disputes: `dsp:works-knowledge-grace`
+terms: [prasāda](../terms/prasada.md), [mokṣa](../terms/moksa.md), [jñāna](../terms/jnana.md) · concepts: [Divine grace (prasāda)](../concepts/grace.md), [Direct knowledge of God (aparokṣa-jñāna)](../concepts/aparoksa-jnana.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 1.1.1 <a id="tea-brahma-sutra-bhasya-madhva-1-1-1-5"></a>
 `skeleton` · confidence high
@@ -66,7 +66,7 @@ terms: [prasāda](../terms/prasada.md), [mokṣa](../terms/moksa.md), [jñāna](
 
 _level: conventional · standpoint: seeker · path: knowledge, devotion, action · stage: all · types: practice, karma-liberation_
 
-terms: [prasāda](../terms/prasada.md), [śravaṇa](../terms/sravana.md), [manana](../terms/manana.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [bhakti](../terms/bhakti.md) · concepts: [Three grades of grace](../concepts/three-grades-of-prasada.md), [Hearing, reflection and meditation](../concepts/sravana-manana-nididhyasana.md), [Divine grace (prasāda)](../concepts/grace.md) · practices: [Hearing the scriptures (śravaṇa)](../practices/sravana.md), [Reflection (manana)](../practices/manana.md), [Meditation (nididhyāsana / dhyāna)](../practices/nididhyasana.md) · disputes: `dsp:works-knowledge-grace`
+terms: [prasāda](../terms/prasada.md), [śravaṇa](../terms/sravana.md), [manana](../terms/manana.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [bhakti](../terms/bhakti.md) · concepts: [Three grades of grace](../concepts/three-grades-of-prasada.md), [Hearing, reflection and meditation](../concepts/sravana-manana-nididhyasana.md), [Divine grace (prasāda)](../concepts/grace.md) · practices: [Hearing the scriptures (śravaṇa)](../practices/sravana.md), [Reflection (manana)](../practices/manana.md), [Meditation (nididhyāsana / dhyāna)](../practices/nididhyasana.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 1.1.1 <a id="tea-brahma-sutra-bhasya-madhva-1-1-1-6"></a>
 `skeleton` · confidence high
@@ -93,7 +93,7 @@ Brahman is that from which come the creation, maintenance, dissolution, control,
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [aṣṭa-kartṛtva](../terms/asta-kartrtva.md), [brahman](../terms/brahman.md), [Hari](../terms/hari.md) · concepts: [God's eightfold agency (aṣṭa-kartṛtva)](../concepts/asta-kartrtva.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
+terms: [aṣṭa-kartṛtva](../terms/asta-kartrtva.md), [brahman](../terms/brahman.md), [Hari](../terms/hari.md) · concepts: [God's eightfold agency (aṣṭa-kartṛtva)](../concepts/asta-kartrtva.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 3.1.8 <a id="tea-brahma-sutra-bhasya-madhva-3-1-8"></a>
 `skeleton` · confidence high
@@ -102,7 +102,7 @@ One returns from the other world with a remainder of karma; and (quoting a smṛ
 
 _level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
 
-terms: [karma](../terms/karma.md), [mokṣa](../terms/moksa.md) · concepts: [Karma and its limits (Dvaita)](../concepts/karma-dvaita.md), [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · disputes: `dsp:works-knowledge-grace`
+terms: [karma](../terms/karma.md), [mokṣa](../terms/moksa.md) · concepts: [Karma and its limits (Dvaita)](../concepts/karma-dvaita.md), [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 4.2.16 <a id="tea-brahma-sutra-bhasya-madhva-4-2-16"></a>
 `skeleton` · confidence high
@@ -153,4 +153,4 @@ terms: [sālokya](../terms/salokya.md), [sārūpya](../terms/sarupya.md), [sām�
 _Notes: Opening verse and 1.1.1–1.1.2, 3.1.8, 4.2.16–17, 4.3.10–15, 4.4.19 checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._

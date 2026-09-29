@@ -12,4 +12,4 @@ Rites with the concord hymns to make family and assembly of one heart and mind.
   - [Ṛgveda Saṃhitā](../texts/rgveda.md) — ref: 10.191; rests_on: ["tea:rgveda:10.191.2-4"]
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._

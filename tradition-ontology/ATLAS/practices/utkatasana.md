@@ -13,4 +13,4 @@ The ground supported by the toes, the heels raised, the anus set upon the heels 
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 2.26-28; rests_on: ["tea:hatha-yoga-pradipika:2.26-28"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:11 IST._

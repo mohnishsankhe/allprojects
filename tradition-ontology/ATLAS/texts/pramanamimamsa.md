@@ -27,4 +27,4 @@ terms: [pramāṇa](../terms/pramana.md) · concepts: [Valid knowledge in Jain e
 
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

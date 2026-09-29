@@ -11,4 +11,4 @@
 Terdak Lingpa's brother, great scholar of Mindroling, commentator on the Guhyagarbha and on the three vows; killed in the Dzungar persecution of 1717-18.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

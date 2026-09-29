@@ -13,4 +13,4 @@ Killing, stealing, sexual misconduct; false, divisive, harsh speech and idle cha
   - [The Jewel Ornament of Liberation](../texts/jewel-ornament-of-liberation.md) — ref: ch.6; rests_on: ["tea:jewel-ornament-of-liberation:ch.6"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

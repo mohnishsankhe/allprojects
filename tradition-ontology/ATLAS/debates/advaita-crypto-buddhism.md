@@ -32,7 +32,7 @@ Vijñānabhikṣu: the māyā doctrine of the 'modern' Vedāntins is not the Bra
 **Texts:** 
   - [Sāṃkhyapravacanabhāṣya](../texts/samkhya-pravacana-bhasya.md) — ref: introduction (low confidence)
 ### [Advaita Vedānta](../lineages/advaita-vedanta.md)
-Advaita is not Buddhism: Śaṅkara refutes all three Buddhist doctrines — the realist, the idealist and the void — and dismisses the void as contradicted by every means of knowledge; against the idealist he upholds external objects and the undeniable, self-established witness; memory proves one enduring knower. The non-dual reality free of knower, known and knowing 'was not spoken by the Buddha': the Buddhist denial of external objects is only near to non-duality, which is to be known from the Upaniṣads alone. Brahman is being (sat) and consciousness, the self that no one can deny — not a void and not a momentary cognition.
+Advaita is not Buddhism: Śaṅkara refutes all three Buddhist doctrines — the realist, the idealist and the void — and dismisses the void as opposed by every means of knowledge; against the idealist he upholds external objects and the undeniable, self-established witness; memory proves one enduring knower. The non-dual reality free of knower, known and knowing 'was not spoken by the Buddha': the Buddhist denial of external objects is only near to non-duality, which is to be known from the Upaniṣads alone. Brahman is being (sat) and consciousness, the self that no one can deny — not a void and not a momentary cognition.
 **Texts:** 
   - [Brahmasūtrabhāṣya of Śaṅkara (Śārīrakamīmāṃsābhāṣya)](../texts/brahma-sutra-bhasya-sankara.md) — ref: 2.2.18-32
   - [Māṇḍūkya Kārikā (Gauḍapāda Kārikā, Āgamaśāstra)](../texts/mandukya-karika.md) — ref: 4.99
@@ -51,4 +51,4 @@ Both parties agree on some facts — Advaita and Madhyamaka each use two levels 
 _Notes: Correction to the unit brief: Bhāskara, Madhva/Jayatīrtha, the Padma Purāṇa (as quoted by Jīva), Jīva Gosvāmī and Vedānta Deśika are recorded with texts; the attribution of the explicit 'crypto-Buddhist' label to Yāmuna or Rāmānuja could not be verified and is not asserted; Vijñānabhikṣu is recorded at low confidence._
 
 ---
-_Contributed by: skeleton:U50-debates. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U50-debates. Generated 2026-09-29 18:11 IST._

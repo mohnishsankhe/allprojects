@@ -65,7 +65,7 @@ Earth, sprouts and similar effects have a maker, because they are effects, like 
 
 _level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md), [Udayana's proofs of Īśvara (NK 5.1)](../concepts/udayana-proofs-of-isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md), [Udayana's proofs of Īśvara (NK 5.1)](../concepts/udayana-proofs-of-isvara.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### Pratyakṣa-khaṇḍa (on error) <a id="tea-tattvacintamani-pratyaksa-anyathakhyati"></a>
 `skeleton` · confidence moderate
@@ -94,7 +94,7 @@ Therefore the validity of the Veda, ascertained from its acceptance by the great
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: sound-language, dispute_
 
-terms: [īśvara](../terms/isvara.md), [āmnāya](../terms/amnaya.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [īśvara](../terms/isvara.md), [āmnāya](../terms/amnaya.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### Śabda-khaṇḍa (opening) <a id="tea-tattvacintamani-sabda-definition"></a>
 `skeleton` · confidence high
@@ -120,4 +120,4 @@ terms: [ākāṅkṣā](../terms/akanksa.md), [yogyatā](../terms/yogyata.md), [
 _Notes: The whole text survives in print; only the Śabdakhaṇḍa (partial) and the Vyāptipañcaka section were found digitized locally. Commentaries: Pakṣadhara's Āloka, Raghunātha's Dīdhiti, Mathurānātha's Rahasya, and many others._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._

@@ -14,4 +14,4 @@
 The fourteen treatises of Tāraṇa Svāmī (e.g. Mālārohaṇa, Paṇḍitapūjā, Kamalabattīsī, Jñānasamuccayasāra), on the soul's inner nature and true worship, venerated in the Tāraṇapantha shrines (titles low confidence).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # The cycle of rites for the dead
 
-`cpt:sraddha-cycle` · `skeleton` · confidence high
+`cpt:sraddha-cycle` · `sourced` · confidence high
 
 **Category:** death-dying
 **Members:** cremation, daśāha piṇḍas, ekādaśāha (vṛṣotsarga), sapiṇḍīkaraṇa, monthly śrāddhas, ūnābdika/ābdika, annual śrāddha
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:garuda-purana:2.5.30-37, tea:garuda-purana:2.5.39-40, tea:garuda-purana:2.5.49-55, tea:garuda-purana:2.5.85-154 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

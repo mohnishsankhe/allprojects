@@ -10,4 +10,4 @@ Study of dependent origination with a chart, then contemplation of the arising a
 **Stage:** all
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._

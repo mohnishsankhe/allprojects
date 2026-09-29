@@ -163,7 +163,7 @@ The Svātantrikas accept that things have an own-character (inherent nature) con
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-terms: [svatantra-anumāna](../terms/svatantra-anumana.md), [prasaṅga](../terms/prasanga.md) · concepts: [Autonomous inference in Madhyamaka](../concepts/svatantra-anumana.md), [The method of consequences](../concepts/prasanga-method.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: [Prāsaṅgika against Svātantrika](../debates/prasangika-svatantrika.md)
+terms: [svatantra-anumāna](../terms/svatantra-anumana.md), [prasaṅga](../terms/prasanga.md) · concepts: [Autonomous inference in Madhyamaka](../concepts/svatantra-anumana.md), [The method of consequences](../concepts/prasanga-method.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: [Should a Mādhyamika establish emptiness by autonomous inferences (svatantra-anumāna) or only by consequences (prasaṅga) that draw out untenable consequences of the opponent's own thesis — and does this difference of method reflect a difference of view?](../debates/prasangika-svatantrika.md)
 
 ### insight.reliance <a id="tea-lamrim-chenmo-insight-reliance"></a>
 `skeleton` · confidence high
@@ -172,7 +172,7 @@ To find the view one must rely on the definitive scriptures and on Nāgārjuna's
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: advanced · types: teacher-transmission_
 
-concepts: [Provisional and definitive meaning in Madhyamaka](../concepts/neyartha-nitartha-madhyamaka.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md), [Buddhapālita](../teachers/buddhapalita.md), [Candrakīrti](../teachers/candrakirti.md) · disputes: [Prāsaṅgika against Svātantrika](../debates/prasangika-svatantrika.md)
+concepts: [Provisional and definitive meaning in Madhyamaka](../concepts/neyartha-nitartha-madhyamaka.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md), [Buddhapālita](../teachers/buddhapalita.md), [Candrakīrti](../teachers/candrakirti.md) · disputes: [Should a Mādhyamika establish emptiness by autonomous inferences (svatantra-anumāna) or only by consequences (prasaṅga) that draw out untenable consequences of the opponent's own thesis — and does this difference of method reflect a difference of view?](../debates/prasangika-svatantrika.md)
 
 ### insight.selflessness-of-person <a id="tea-lamrim-chenmo-insight-selflessness-of-person"></a>
 `skeleton` · confidence high
@@ -331,4 +331,4 @@ concepts: [The three refuges](../concepts/three-refuges.md) · practices: [Going
 _Notes: Not local. Refs in this unit are section names (scope/topic), not page or folio numbers._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._

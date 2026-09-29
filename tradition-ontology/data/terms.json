@@ -11344,10 +11344,8 @@
    },
    {
     "lineage": "lin:kalikula",
-    "definition": "In the Hindu Tārā cult, Akṣobhya (sometimes a serpent) sits on Tārā's head; the Tārā texts name him as her consort.",
-    "rests_on": [
-     "tea:tara-tantra:1.2-4"
-    ]
+    "definition": "In the Hindu Tārā cult, Akṣobhya (sometimes a serpent) sits on Tārā's head and is counted as her consort (recalled).",
+    "rests_on": []
    }
   ],
   "related": [
@@ -127646,10 +127644,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "नामापराध in local Padma e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/peterFreund/purANam/padma_purana_II.md Brahmakhaṇḍa 25.13-19",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_nAradapurANa.txt (Sansknet) 1.82.22-24"
+     ],
+     "result": "confirmed",
+     "note": "The term and the list of ten are attested in the Padma Brahmakhaṇḍa 25.13-19 ('nāmāparādha', 'nāmno 'parādhān daśa'; local peterFreund e-text) and Nārada Purāṇa 1.82.22-24.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "native": "नामापराध",
   "literal": "offence against the name",
@@ -174745,7 +174759,7 @@
    },
    {
     "lineage": "lin:mantramarga",
-    "definition": "The Śaiva six-limbed yoga, which includes reasoning (tarka) as a limb (Mṛgendra's yoga section; Mālinīvijayottara).",
+    "definition": "The Śaiva six-limbed yoga, which includes reasoning (tarka) as a limb (Mālinīvijayottara, recalled); the Mṛgendra's yoga section has the scrutiny ūha in the corresponding place.",
     "rests_on": [
      "tea:mrgendra-tantra:yogapada.4-9"
     ]
@@ -240349,10 +240363,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by trm:viraja-diksa"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)"
+     ],
+     "result": "confirmed",
+     "note": "Śiva Gītā 3.15-29 (Gītāsaṅgraha) verified: 'virajāmārga', 'virajāṃ dīkṣām', the Virajā mantras (3.26), ash (3.27-29) and the pāśupata vrata (3.23-24).",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "native": "विरजादीक्षा",
   "literal": "initiation into stainlessness",

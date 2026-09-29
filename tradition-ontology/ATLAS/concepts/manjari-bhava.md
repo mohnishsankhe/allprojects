@@ -14,4 +14,4 @@
 _Notes: Recorded at summary level; the lineages treat detailed identity instruction (siddha-praṇālī) as confidential._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

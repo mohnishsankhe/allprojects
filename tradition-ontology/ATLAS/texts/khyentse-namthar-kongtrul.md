@@ -31,4 +31,4 @@ concepts: [The seven transmissions (bka' babs bdun) of Jamyang Khyentse Wangpo](
 
 - 2026-09-29 catalog: confirmed — catalog:OpenPecha:P000091 (author field: 'jam mgon kong sprul blo gros mtha' yas) — catalogue hit proves a digitized edition exists, not author or date
 
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

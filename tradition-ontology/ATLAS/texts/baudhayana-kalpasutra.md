@@ -17,4 +17,4 @@ The complete ritual corpus of the Baudhāyana branch of the Taittirīya school �
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Baudhayana_sutras — Confirmed: Śrauta-, Karmānta-, Dvaidha-, Gṛhya-, Dharma- and Śulbasūtra (Wikipedia 'Baudhayana sutras'). Baudhāyana is regarded as older than Āpastamba.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

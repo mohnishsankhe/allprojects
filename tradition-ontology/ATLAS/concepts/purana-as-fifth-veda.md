@@ -1,6 +1,6 @@
 # The Purāṇa as the fifth Veda
 
-`cpt:purana-as-fifth-veda` · `skeleton` · confidence high
+`cpt:purana-as-fifth-veda` · `sourced` · confidence high
 
 **Category:** teacher-transmission
 
@@ -13,4 +13,8 @@
 - contrasts-with → [The transmission of the Purāṇa](puranic-transmission.md): the Purāṇa's eternal origin vs its human line of reciters — rests on [53.3-11](../texts/matsya-purana.md#tea-matsya-purana-53-3-11), [3.6.15-19](../texts/visnu-purana.md#tea-visnu-purana-3-6-15-19)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:1.1.3, tea:bhagavata-purana:1.4.20, tea:bhagavata-purana:1.4.25, tea:matsya-purana:53.3-11, tea:visnu-purana:3.6.15-19 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

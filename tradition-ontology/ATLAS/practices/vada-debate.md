@@ -13,4 +13,4 @@ Examining a question with a partner by thesis and counter-thesis, proving and re
   - [Nyāya Sūtra](../texts/nyaya-sutra.md) — ref: 1.2.1; 4.2.48; rests_on: ["tea:nyaya-sutra:1.2.1", "tea:nyaya-sutra:4.2.48"]
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._

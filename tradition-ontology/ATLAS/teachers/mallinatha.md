@@ -14,4 +14,4 @@ The nineteenth Tīrthaṅkara, emblem the water-jar (kalaśa), born at Mithilā 
 _Notes: gender set to 'unknown' because the traditions disagree: female (Śvetāmbara, Yāpanīya-compatible), male (Digambara)._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

@@ -12,4 +12,4 @@ Kapha increases by day-sleep, lack of exercise, idleness, sweet, sour, salt, col
   - [Suśruta Saṃhitā](../texts/susruta-samhita.md) — ref: Sū 15, 21; rests_on: ["tea:susruta-samhita:su.21.18-36", "tea:susruta-samhita:su.15.3-4"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._

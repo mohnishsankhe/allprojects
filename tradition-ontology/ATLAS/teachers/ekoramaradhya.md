@@ -13,4 +13,4 @@ One of the five ācāryas of the Pañcācārya tradition, founder in its account
 _Notes: Emergence from the Rāmanātha liṅga at Drākṣārāma and seat name Vairāgya-siṃhāsana: low confidence._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

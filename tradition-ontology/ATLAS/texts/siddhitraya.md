@@ -42,8 +42,8 @@ Yāmuna argues for the existence of a Lord who is the maker of the world; whethe
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-teachers: [Yāmunācārya](../teachers/yamuna.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+teachers: [Yāmunācārya](../teachers/yamuna.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

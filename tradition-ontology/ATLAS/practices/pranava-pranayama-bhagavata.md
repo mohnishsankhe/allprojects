@@ -1,6 +1,6 @@
 # Breath purification with Oṃ (Uddhava Gītā)
 
-`prc:pranava-pranayama-bhagavata` · `skeleton` · confidence high
+`prc:pranava-pranayama-bhagavata` · `sourced` · confidence high
 
 **Category:** breath
 **Convergence:** 1 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -12,4 +12,8 @@ Purifying the breath's path by inhalation, retention and exhalation and their re
   - [Uddhava Gītā](../texts/uddhava-gita.md) — ref: 11.14.33-35; rests_on: ["tea:uddhava-gita:11.14.32-46"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — BhP 11.14.33-35 verified, including 'daśakṛtvas triṣavaṇaṃ māsād arvāg jitānilaḥ' (11.14.35); no extreme retention is prescribed.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

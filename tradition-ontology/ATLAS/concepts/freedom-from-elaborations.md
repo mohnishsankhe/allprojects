@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [Elaboration and its pacification](prapanca-and-its-pacification.md) (Sakya reading of Nāgārjuna): as the MMK's pacification of elaborations — rests on [freedom-from-extremes](../texts/taway-shenje.md#tea-taway-shenje-freedom-from-extremes), [18.9](../texts/mulamadhyamakakarika.md#tea-mulamadhyamakakarika-18-9)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._

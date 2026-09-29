@@ -139,8 +139,8 @@ The pāṇar bard would not set foot on Śrīraṅgam and sang from across the r
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: ethics, dispute, powers-experiences_
 
-concepts: [The Lord's devotees as one's masters; service to devotees](../concepts/service-to-devotees.md) · teachers: [Tiruppāṇ Āḻvār](../teachers/tiruppan-alvar.md), [Lokasāraṅga Muni](../teachers/lokasaranga-muni.md) · disputes: [Does birth (caste) determine a devotee's worth, eligibility and place — in the temple, in scripture, and among devotees?](../debates/devotee-birth-and-caste.md), `dsp:women-caste-liberation`
+concepts: [The Lord's devotees as one's masters; service to devotees](../concepts/service-to-devotees.md) · teachers: [Tiruppāṇ Āḻvār](../teachers/tiruppan-alvar.md), [Lokasāraṅga Muni](../teachers/lokasaranga-muni.md) · disputes: [Does birth (caste) determine a devotee's worth, eligibility and place — in the temple, in scripture, and among devotees?](../debates/devotee-birth-and-caste.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

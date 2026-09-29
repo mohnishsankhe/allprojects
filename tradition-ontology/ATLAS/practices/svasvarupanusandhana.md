@@ -11,4 +11,4 @@ Devotion understood as continuous attention to one's own true nature (VC 31), th
   - [Vivekacūḍāmaṇi](../texts/vivekacudamani.md) — ref: 31; rests_on: ["tea:vivekacudamani:31"]
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

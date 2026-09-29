@@ -1,6 +1,6 @@
 # The five liberations and their refusal
 
-`cpt:five-liberations` · `skeleton` · confidence high
+`cpt:five-liberations` · `sourced` · confidence high
 
 **Category:** karma-rebirth
 **Members:** sālokya, sārṣṭi, sāmīpya, sārūpya, sāyujya (ekatva)
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:11.14.14, tea:bhagavata-purana:3.29.13 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

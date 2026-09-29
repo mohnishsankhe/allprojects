@@ -14,4 +14,4 @@
 Dāmodara Paṇḍita's poem on Brahmā's theft of the calves and cowherd boys (Bhāgavata 10.13), one of the seven classic Mahānubhāva poems.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

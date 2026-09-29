@@ -69,7 +69,7 @@ If a śūdra intentionally listens to the Veda, his ears are to be filled with m
 
 _level: conventional · standpoint: ethical-social · path: general · stage: unmarked · types: ethics_
 
-concepts: [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 19.11-12 <a id="tea-gautama-dharmasutra-19-11-12"></a>
 `sourced` · confidence high
@@ -88,4 +88,4 @@ _Notes: Commentaries: Maskarin; Haradatta's Mitākṣarā._
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Gautamadharmasūtra, catalog:GRETIL-dev:gautama-dharmasutra, https://en.wikipedia.org/wiki/Gautama_Dharmasutra — Extant; 28 adhyāyas (Stenzler numbering, GRETIL). Dating: Olivelle places it after the mid-3rd c. BCE (the Yavana argument), Kane at 600–400 BCE, and Lingat regards it as possibly the oldest. The entry's split account (c. 2nd c. BCE recent; 600–400 older) reflects this.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

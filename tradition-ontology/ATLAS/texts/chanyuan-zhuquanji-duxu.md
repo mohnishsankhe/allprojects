@@ -49,21 +49,21 @@ The ninth of Zongmi's reasons for harmonising Chan and the teachings: awakening 
 
 _level: conventional · standpoint: analytic · path: meditation, knowledge · stage: all · types: practice, dispute_
 
-teachers: [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md) · disputes: `dsp:sudden-or-gradual`
+teachers: [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### T48n2015 p.408a02-a15 <a id="tea-chanyuan-zhuquanji-duxu-408a02"></a>
 `skeleton` · confidence high
 
-If one cultivates on the basis of awakening, it is understanding-awakening; if one awakens on the basis of cultivation, it is realization-awakening. Considered over past lives there is only the gradual and no sudden: what is seen suddenly now has been brought forth by many lives of gradual perfuming. 'The Dharma has no sudden or gradual; sudden and gradual lie in the faculties' — this is true. Of the combinations, only 'first sudden awakening, then gradual cultivation' seems contradictory; to remove the doubt: the sun appears at once but frost and dew melt gradually; a child is born at once but its will and strength are established gradually.
+If one cultivates on the basis of awakening, it is understanding-awakening; if one awakens on the basis of cultivation, it is realization-awakening. Considered over past lives there is only the gradual and no sudden: what is seen suddenly now has been brought forth by many lives of gradual perfuming. 'The Dharma has no sudden or gradual; sudden and gradual lie in the faculties' — this is true. Of the combinations, only 'first sudden awakening, then gradual cultivation' seems contrary; to remove the doubt: the sun appears at once but frost and dew melt gradually; a child is born at once but its will and strength are established gradually.
 
 > 若因悟而修。即是解悟。若因修而悟。即是證悟。 … 於中唯云先頓悟後漸修。似違反也。欲絕疑者。豈不見日光頓出霜露漸消。
 
 _level: conventional · standpoint: analytic · path: meditation, knowledge · stage: all (解悟 understanding-awakening / 證悟 realization-awakening) · types: practice, dispute_
 
-teachers: [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md) · disputes: `dsp:sudden-or-gradual`, [Sudden awakening followed by gradual cultivation (Jinul) or sudden awakening with sudden cultivation (Seongcheol)?](../debates/seon-sudden-cultivation-debate.md)
+teachers: [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md), [Sudden awakening followed by gradual cultivation (Jinul) or sudden awakening with sudden cultivation (Seongcheol)?](../debates/seon-sudden-cultivation-debate.md)
 
 
 _Notes: Zongmi is owned by U54 (Huayan); this entry contributes the Chan side. One of the four texts of the Korean curriculum (Doseo)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

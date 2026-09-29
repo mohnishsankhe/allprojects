@@ -13,4 +13,4 @@ The conventional obscurations covering buddha-nature, which are other than it an
   - [Ratnagotravibhāga (Mahāyānottaratantraśāstra)](../texts/ratnagotravibhaga.md) — ref: 1.154-155; rests_on: ["tea:ratnagotravibhaga:1.154-155"]
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

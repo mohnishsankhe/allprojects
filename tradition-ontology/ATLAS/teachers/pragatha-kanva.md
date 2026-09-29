@@ -16,4 +16,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_8.json (Anukramaṇī seer/deity/metre headers) — Headers: 8.1.1–2 'pragātho (ghauraḥ) kāṇvaḥ'; 8.48 'pragātho ghauraḥ kāṇvaḥ'.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._

@@ -9,4 +9,4 @@
 Kashmiri paṇḍita in Tibet (late 8th-9th c.) who co-translated many sūtras and the Mahāvyutpatti terminology.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

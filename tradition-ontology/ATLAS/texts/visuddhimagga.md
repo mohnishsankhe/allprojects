@@ -647,7 +647,7 @@ Because formations and the rest occur through ignorance and the other causes, th
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: karma-liberation, dispute_
 
-terms: [anattā](../terms/anatta.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [anattā](../terms/anatta.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 17 <a id="tea-visuddhimagga-17-4"></a>
 `skeleton` · confidence high
@@ -702,7 +702,7 @@ There is no god, no Brahmā, who makes this round of rebirths; only bare dhammas
 
 _level: ultimate · standpoint: causal · path: knowledge · stage: advanced · types: karma-liberation, dispute_
 
-terms: [saṃsāra](../terms/samsara.md), [paccaya](../terms/paccaya.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [saṃsāra](../terms/samsara.md), [paccaya](../terms/paccaya.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 19 <a id="tea-visuddhimagga-19-3"></a>
 `skeleton` · confidence high
@@ -898,4 +898,4 @@ terms: [vibhajjavāda](../terms/vibhajjavada.md) · teachers: [Buddhaghosa](../t
 _Notes: Chapter titles and PTS page ranges checked in the local e-text (running heads)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._

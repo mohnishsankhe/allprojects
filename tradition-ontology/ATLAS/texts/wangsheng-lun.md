@@ -54,7 +54,7 @@ It is a realm of Mahāyāna good roots, all equal, without even the name of anyt
 
 _level: conventional · standpoint: cosmic · path: devotion · stage: all · types: world-fate_
 
-concepts: [The twenty-nine adornments of Sukhāvatī](../concepts/twenty-nine-adornments.md) · disputes: `dsp:women-caste-liberation`
+concepts: [The twenty-nine adornments of Sukhāvatī](../concepts/twenty-nine-adornments.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 231a24-25 <a id="tea-wangsheng-lun-231a24-25"></a>
 `skeleton` · confidence high
@@ -126,4 +126,4 @@ terms: [gensō ekō](../terms/genso-eko.md), [wu nianmen](../terms/wu-nianmen.md
 _Notes: Whole text read locally (T26n1524, 230c13–233a26)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

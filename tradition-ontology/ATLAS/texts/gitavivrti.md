@@ -17,4 +17,4 @@ Rāghavendra Tīrtha's gloss on the Bhagavad Gītā, summarizing the meanings gi
 _Notes: Author checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._

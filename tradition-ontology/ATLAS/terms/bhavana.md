@@ -31,4 +31,4 @@
 _Notes: Shared slug with the Sanskrit term; this is the early-Buddhist contribution._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U23-sakta-srividya, skeleton:U36-pali-suttas, skeleton:U07-puranas, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy, skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U23-sakta-srividya, skeleton:U36-pali-suttas, skeleton:U07-puranas, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy, skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

@@ -32,4 +32,4 @@ Vyāsa: the bodiless (videha) are gods who experience a quasi-kaivalya with a mi
 **Candidate readings:** P4-stage: read the accounts as finer or coarser maps of the same ascent.; P2-standpoint: objective (grāhya–grahaṇa–grahītṛ) vs experiential (joy, 'I am') descriptions.; Leave distinct: Vijñānabhikṣu explicitly refutes the senses-as-object view.
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:11 IST._

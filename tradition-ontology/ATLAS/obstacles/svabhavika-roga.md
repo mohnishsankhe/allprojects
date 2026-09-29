@@ -13,4 +13,4 @@ The natural diseases — hunger, thirst, old age, death and sleep (Su Sū 1.25);
   - [Caraka Saṃhitā](../texts/caraka-samhita.md) — ref: Śā 1.115; rests_on: ["tea:caraka-samhita:sa.1.115-117"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._

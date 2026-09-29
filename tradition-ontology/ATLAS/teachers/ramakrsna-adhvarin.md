@@ -11,4 +11,4 @@
 Son of Dharmarāja, author of the Śikhāmaṇi on the Vedāntaparibhāṣā.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

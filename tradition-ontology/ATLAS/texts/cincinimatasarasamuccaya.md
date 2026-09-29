@@ -13,4 +13,4 @@ A Kubjikā compendium from Nepal summarising the Paścimāmnāya's teachings on 
 _Notes: Recalled from secondary literature (Dyczkowski); verify._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._

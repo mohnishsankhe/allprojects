@@ -20,4 +20,4 @@
 _Notes: Distinct from prc:mahamudra (the haṭha seal) and the U28/U21 senses of trm:mahamudra._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

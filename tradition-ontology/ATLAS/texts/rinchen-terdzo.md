@@ -15,4 +15,4 @@
 Jamgön Kongtrul's collection of the principal treasure cycles of all revealers, with empowerment rites and the biographies of the hundred tertöns; enlarged after him.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

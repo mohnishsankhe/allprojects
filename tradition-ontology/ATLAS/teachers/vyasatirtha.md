@@ -20,4 +20,4 @@ The foremost dialectician of Dvaita and rājaguru of the Vijayanagara court (und
 **Realization — the tradition's account:** The tradition regards Vyāsatīrtha as a rebirth of Prahlāda (after Bāhlīka of the Mahābhārata), later reborn as Rāghavendra; it tells that he sat on the Vijayanagara throne to avert an inauspicious conjunction (kuhu-yoga) that threatened the king, and that he installed 732 images of Hanumān.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._

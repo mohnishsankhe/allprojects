@@ -11,4 +11,4 @@ Contemplating all conditioned dharmas as stars, a fault of vision, a lamp, an il
   - [Vajracchedikā Prajñāpāramitā](../texts/vajracchedika.md) — ref: §32; rests_on: ["tea:vajracchedika:32", "tea:vajracchedika:32/2"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

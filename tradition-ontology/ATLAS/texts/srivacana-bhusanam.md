@@ -59,7 +59,7 @@ The conduct of the surrendered: to avoid offence against the Lord, against his d
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics_
 
-terms: [bhāgavata-apacāra](../terms/bhagavata-apacara.md) · obstacles: [Offence against devotees (bhāgavata-apacāra)](../obstacles/bhagavata-apacara.md), [Offence against the Lord (bhagavad-apacāra)](../obstacles/bhagavad-apacara.md), [The unbearable offence (asahya-apacāra)](../obstacles/asahya-apacara.md) · teachers: [Piḷḷai Lokācārya](../teachers/pillai-lokacarya.md) · disputes: [Must the surrendered keep the scriptural duties, and are deliberate offences after surrender to be expiated?](../debates/duties-after-prapatti.md), `dsp:women-caste-liberation`
+terms: [bhāgavata-apacāra](../terms/bhagavata-apacara.md) · obstacles: [Offence against devotees (bhāgavata-apacāra)](../obstacles/bhagavata-apacara.md), [Offence against the Lord (bhagavad-apacāra)](../obstacles/bhagavad-apacara.md), [The unbearable offence (asahya-apacāra)](../obstacles/asahya-apacara.md) · teachers: [Piḷḷai Lokācārya](../teachers/pillai-lokacarya.md) · disputes: [Must the surrendered keep the scriptural duties, and are deliberate offences after surrender to be expiated?](../debates/duties-after-prapatti.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 6 <a id="tea-srivacana-bhusanam-6"></a>
 `skeleton` · confidence moderate
@@ -72,4 +72,4 @@ terms: [ācārya-abhimāna](../terms/acarya-abhimana.md) · concepts: [The savin
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

@@ -34,4 +34,4 @@ The liberated soul rises to the summit of the world (Tattvārtha Sūtra 10.5, re
 **Candidate readings:** P1-level / P2-standpoint: descriptions by negation (Sāṃkhya, Nyāya: cessation of suffering) vs by affirmation (Advaita: bliss) of a state all agree is beyond saṃsāra.; P7-arthavāda: Sāṃkhya itself reads 'bliss' as figurative praise (SS 5.67–68).
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._

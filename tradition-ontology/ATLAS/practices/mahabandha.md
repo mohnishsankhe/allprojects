@@ -22,4 +22,4 @@ With the left heel at the perineum and the right foot on the left thigh, the bre
 - Mahāmudrā and mahābandha are fruitless without mahāvedha. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 3.25
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:11 IST._

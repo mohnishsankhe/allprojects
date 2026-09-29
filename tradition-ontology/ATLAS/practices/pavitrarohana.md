@@ -11,4 +11,4 @@ In Śrāvaṇa (or Nabhasya) the worshipper offers a consecrated thread-garland 
   - [Mṛgendratantra](../texts/mrgendra-tantra.md) — ref: caryapada.128-130; rests_on: ["tea:mrgendra-tantra:caryapada.128-130"]
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._

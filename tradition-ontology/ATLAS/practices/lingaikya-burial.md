@@ -10,9 +10,9 @@ The dead devotee, having become one with the liṅga, is buried seated with the 
 **Stage:** all
 **Sources:** 
   - [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) — ref: 7.64 (rudrākṣa at death); rests_on: ["tea:siddhantasikhamani:7.64"]
-**Sequences:** `pth:virasaiva-satsthala`
+**Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 _Notes: Community practice from general knowledge; verify the details (posture, rites) in Phase C._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

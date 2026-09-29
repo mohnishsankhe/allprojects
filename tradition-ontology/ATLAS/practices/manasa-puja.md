@@ -17,4 +17,4 @@ Building and consecrating a temple entirely in the mind and worshipping Śiva th
 - partial: [Inner worship (antaryāga)](antaryaga.md) — inner worship as a sustained practice rather than a ritual segment
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha, skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha, skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._

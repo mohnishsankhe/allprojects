@@ -13,4 +13,4 @@
 A text on praśna and muhūrta ascribed to Varāhamihira; the attribution is doubtful.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

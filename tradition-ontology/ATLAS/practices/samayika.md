@@ -21,4 +21,4 @@ For a fixed period (a muhūrta, 48 minutes) the practitioner renounces all harmf
 - Careless practice — wandering mind, improper posture, forgetting the time — is a transgression of the vow. — [Tattvārthasūtra](../texts/tattvartha-sutra.md) 7.33
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

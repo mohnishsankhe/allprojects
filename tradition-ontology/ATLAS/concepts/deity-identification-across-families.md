@@ -8,7 +8,7 @@
 
 ## Definitions
 - [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md): One who is not Śiva should not worship Śiva: the worshipper first makes himself Śiva by nyāsa and meditation ('śivo bhūtvā śivaṃ yajet').
-- [Pāñcarātra](../lineages/pancaratra.md): The worshipper identifies with Viṣṇu before worshipping him (the same maxim with Viṣṇu's name appears in Vaiṣṇava ritual manuals).
+- [Pāñcarātra](../lineages/pancaratra.md): The Pāñcarātra worshipper, purified by bhūtaśuddhi and nyāsa, contemplates himself as one with the Lord before worship (recalled; low confidence on the wording of the maxim in Vaiṣṇava manuals).
 - [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md): In deity yoga the practitioner generates himself as the deity with its form, maṇḍala and 'divine pride', knowing the form to be empty.
 - [Śrīvidyā](../lineages/srividya.md): The worshipper realizes identity with the Goddess in the Śrīcakra and in the body (the body as Śrīcakra).
 
@@ -20,4 +20,4 @@
 _Notes: The maxims 'nādevo devam arcayet' / 'śivo bhūtvā śivaṃ yajet' are recalled from ritual manuals, not anchored to a verse here (no rests_on)._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:11 IST._

@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The five primary devotional rasas](five-devotional-rasas.md): Rūpa Gosvāmī's five primary and seven secondary devotional rasas re-arrange the nine — rests on [3](../texts/bhaktirasamrtasindhu.md#tea-bhaktirasamrtasindhu-3), [4](../texts/bhaktirasamrtasindhu.md#tea-bhaktirasamrtasindhu-4)
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._

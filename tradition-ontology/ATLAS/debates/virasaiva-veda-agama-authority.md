@@ -34,4 +34,4 @@ Candidate for the inter-strand question: P7-arthavada (the vacana's 'touchstone'
 **The traditions' own objections:** Basava-centred readers hold the vacana's rejection of Vedic authority to be meant literally; the Ārādhya and Pañcācārya positions hold Vedic authority non-negotiable.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

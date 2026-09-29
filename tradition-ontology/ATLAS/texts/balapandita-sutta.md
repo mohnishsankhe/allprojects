@@ -30,4 +30,4 @@ concepts: [The rarity of human birth](../concepts/rarity-of-human-birth.md)
 _Notes: SuttaCentral uid mn129; Mahāsaṅgīti title 'Bālapaṇḍitasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

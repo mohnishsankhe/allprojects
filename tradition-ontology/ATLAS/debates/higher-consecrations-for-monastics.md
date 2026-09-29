@@ -23,4 +23,4 @@ The Kālacakra tradition ranks the fully ordained monk as the best vajra master 
 **Queue:** RQ-U44-higher-consecrations-monastics
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._

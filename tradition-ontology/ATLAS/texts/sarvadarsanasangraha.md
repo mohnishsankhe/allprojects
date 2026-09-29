@@ -56,7 +56,7 @@ Heaven is only the pleasure that comes from embracing women and the like; hell i
 
 _level: unmarked · standpoint: ethical-social · path: general · stage: unmarked · types: karma-liberation, world-fate, ethics_
 
-terms: [maraṇam evāpavargaḥ](../terms/maranam-apavarga.md) · concepts: [Heaven, hell, lord and release in this world](../concepts/carvaka-heaven-hell-liberation.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [maraṇam evāpavargaḥ](../terms/maranam-apavarga.md) · concepts: [Heaven, hell, lord and release in this world](../concepts/carvaka-heaven-hell-liberation.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 1/5 <a id="tea-sarvadarsanasangraha-1-5"></a>
 `skeleton` · confidence moderate
@@ -65,7 +65,7 @@ The agnihotra and the rest are only a means of livelihood; the Veda is tainted b
 
 _level: unmarked · standpoint: polemical · path: general · stage: unmarked · types: dispute, sound-language_
 
-terms: [nāstika](../terms/nastika.md) · concepts: [The critique of sacrifice and funeral offerings](../concepts/critique-of-sacrifice.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [nāstika](../terms/nastika.md) · concepts: [The critique of sacrifice and funeral offerings](../concepts/critique-of-sacrifice.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 1/6 <a id="tea-sarvadarsanasangraha-1-6"></a>
 `skeleton` · confidence moderate
@@ -74,7 +74,7 @@ Perception is the only means of knowledge. Inference cannot be valid, because th
 
 _level: unmarked · standpoint: analytic · path: general · stage: unmarked · types: dispute_
 
-terms: [pratyakṣa (eka-pramāṇa)](../terms/pratyaksa-carvaka.md), [anumāna](../terms/anumana.md), [vyāpti](../terms/vyapti.md), [upādhi](../terms/upadhi.md) · concepts: [Perception the only means of knowledge](../concepts/pratyaksa-only.md), [The critique of inference](../concepts/critique-of-inference.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [pratyakṣa (eka-pramāṇa)](../terms/pratyaksa-carvaka.md), [anumāna](../terms/anumana.md), [vyāpti](../terms/vyapti.md), [upādhi](../terms/upadhi.md) · concepts: [Perception the only means of knowledge](../concepts/pratyaksa-only.md), [The critique of inference](../concepts/critique-of-inference.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 1/7 <a id="tea-sarvadarsanasangraha-1-7"></a>
 `skeleton` · confidence moderate
@@ -83,7 +83,7 @@ There is no unseen cause (adṛṣṭa): the variety of the world arises from ow
 
 _level: unmarked · standpoint: causal · path: general · stage: unmarked · types: world-fate, karma-liberation_
 
-terms: [svabhāva](../terms/svabhava.md), [adṛṣṭa](../terms/adrsta.md) · concepts: [Own-nature as cause (svabhāvavāda)](../concepts/svabhavavada.md) · disputes: [Do good and bad deeds bear fruit (kiriyavāda) or not (akiriyavāda)?](../debates/is-there-fruit-of-action.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [svabhāva](../terms/svabhava.md), [adṛṣṭa](../terms/adrsta.md) · concepts: [Own-nature as cause (svabhāvavāda)](../concepts/svabhavavada.md) · disputes: [Do good and bad deeds bear fruit (kiriyavāda) or not (akiriyavāda)?](../debates/is-there-fruit-of-action.md), [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 1/8 <a id="tea-sarvadarsanasangraha-1-8"></a>
 `skeleton` · confidence moderate
@@ -94,7 +94,7 @@ Verses ascribed to Bṛhaspati: there is no heaven, no liberation, no self in an
 
 _level: unmarked · standpoint: polemical · path: general · stage: unmarked · types: dispute, death-dying, ethics_
 
-terms: [śrāddha (Lokāyata critique)](../terms/sraddha-critique.md) · concepts: [The critique of sacrifice and funeral offerings](../concepts/critique-of-sacrifice.md) · teachers: [Bṛhaspati](../teachers/brhaspati.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [śrāddha (Lokāyata critique)](../terms/sraddha-critique.md) · concepts: [The critique of sacrifice and funeral offerings](../concepts/critique-of-sacrifice.md) · teachers: [Bṛhaspati](../teachers/brhaspati.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 1/9 <a id="tea-sarvadarsanasangraha-1-9"></a>
 `skeleton` · confidence moderate
@@ -105,7 +105,7 @@ More verses: 'while life lasts let one live happily; let him drink ghee even on 
 
 _level: unmarked · standpoint: polemical · path: general · stage: unmarked · types: dispute, death-dying, ethics_
 
-terms: [kāma (as the sole puruṣārtha)](../terms/kama-purusartha.md) · concepts: [Pleasure as the aim of life](../concepts/carvaka-hedonism.md), [The critique of sacrifice and funeral offerings](../concepts/critique-of-sacrifice.md), [No other world (paraloka-abhāva)](../concepts/paraloka-denial.md) · teachers: [Bṛhaspati](../teachers/brhaspati.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md), [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md)
+terms: [kāma (as the sole puruṣārtha)](../terms/kama-purusartha.md) · concepts: [Pleasure as the aim of life](../concepts/carvaka-hedonism.md), [The critique of sacrifice and funeral offerings](../concepts/critique-of-sacrifice.md), [No other world (paraloka-abhāva)](../concepts/paraloka-denial.md) · teachers: [Bṛhaspati](../teachers/brhaspati.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md), [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md)
 
 ### 6 <a id="tea-sarvadarsanasangraha-6"></a>
 `skeleton` · confidence high
@@ -250,4 +250,4 @@ concepts: [The Raseśvara-darśana](../concepts/rasesvara-darsana.md)
 _Notes: U30 contribution only: the Raseśvara chapter (ch. 9). Authorship and dating as given by the owning units._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U30-ayurveda-rasa, skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U33-sramana, skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U30-ayurveda-rasa, skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U33-sramana, skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._

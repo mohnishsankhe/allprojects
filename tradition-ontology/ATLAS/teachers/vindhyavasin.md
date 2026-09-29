@@ -12,4 +12,4 @@ Sāṃkhya teacher whose distinctive views the Yuktidīpikā records: from mahat
 _Notes: Kumārila's report (Ślokavārttika, Ātmavāda section) and the Chinese biography details are recalled, not checked._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._

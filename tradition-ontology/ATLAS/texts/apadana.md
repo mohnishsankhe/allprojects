@@ -14,4 +14,4 @@
 Legends of the past lives of monk and nun arahants (Thera- and Therī-apadāna) and of the Buddha, showing the meritorious deeds under former Buddhas that bore fruit in their liberation.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

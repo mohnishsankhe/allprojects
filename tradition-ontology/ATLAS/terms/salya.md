@@ -17,4 +17,4 @@
 **Related:** [aṣṭāṅga (āyurveda)](astanga-ayurveda.md)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

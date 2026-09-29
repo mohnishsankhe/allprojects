@@ -38,4 +38,4 @@ _Notes: Chapter range reconstructed from name occurrences in the local critical 
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_13.json (BORI Critical Edition text) 13.127.1 Nārada relates Śaṃkara–Umā saṃvāda; 13.128.1 speaker Maheśvara; 13.129.1 Umā; 13.134 strīdharma — Section located at CE 13.126-134 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._

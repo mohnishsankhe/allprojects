@@ -43,7 +43,7 @@ Against the Vivaraṇa view that reflection and meditation are subsidiaries of h
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: practice, dispute_
 
-concepts: [Hearing, reflection and meditation](../concepts/sravana-manana-nididhyasana.md), [Direct knowledge of God (aparokṣa-jñāna)](../concepts/aparoksa-jnana.md) · teachers: [Vyāsatīrtha](../teachers/vyasatirtha.md) · disputes: `dsp:works-knowledge-grace`, [Is the world false (mithyā), and can the Advaita definitions of falsity withstand Vyāsatīrtha's critique? (The Nyāyāmṛta–Advaitasiddhi controversy)](../debates/nyayamrta-advaitasiddhi.md)
+concepts: [Hearing, reflection and meditation](../concepts/sravana-manana-nididhyasana.md), [Direct knowledge of God (aparokṣa-jñāna)](../concepts/aparoksa-jnana.md) · teachers: [Vyāsatīrtha](../teachers/vyasatirtha.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md), [Is the world false (mithyā), and can the Advaita definitions of falsity withstand Vyāsatīrtha's critique? (The Nyāyāmṛta–Advaitasiddhi controversy)](../debates/nyayamrta-advaitasiddhi.md)
 
 ### 4 <a id="tea-nyayamrta-4"></a>
 `skeleton` · confidence high
@@ -58,4 +58,4 @@ concepts: [Liberation (mokṣa) in Dvaita](../concepts/moksa.md), [Graded bliss 
 _Notes: Four paricchedas, their opening sections and concluding sentences checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._

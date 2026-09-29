@@ -1,6 +1,6 @@
 # The four ages (yuga)
 
-`cpt:four-yugas` · `skeleton` · confidence moderate
+`cpt:four-yugas` · `sourced` · confidence moderate
 
 **Category:** cosmology-time
 **Members:** Kṛta (Satya), Tretā, Dvāpara, Kali
@@ -14,4 +14,8 @@
 - part-of → [Kalpa, the day of Brahmā and his lifetime](kalpa-and-brahma-lifetime.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:12.3.51-52, tea:bhagavata-purana:3.11, tea:visnu-purana:1.3.8 — BhP 3.11.18-19 located (4,3,2,1 thousand divine years with junctions; 12,000). All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

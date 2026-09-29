@@ -10,7 +10,7 @@ Purification of view: discerning the jhāna factors and their associates (calm v
 **Stage:** advanced
 **Sources:** 
   - [Visuddhimagga](../texts/visuddhimagga.md) — ref: XVIII; rests_on: ["tea:visuddhimagga:18", "tea:visuddhimagga:18/2"]
-**Sequences:** `pth:seven-purifications`, `pth:sixteen-insight-knowledges`
+**Sequences:** [The seven purifications (satta visuddhi)](../paths/seven-purifications.md), [The sixteen insight knowledges (soḷasa ñāṇa)](../paths/sixteen-insight-knowledges.md)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._

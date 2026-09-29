@@ -1,6 +1,6 @@
 # Meditation in the heart-lotus (Uddhava's instruction)
 
-`prc:hrt-padma-dhyana` · `skeleton` · confidence high
+`prc:hrt-padma-dhyana` · `sourced` · confidence high
 
 **Category:** meditation
 **Convergence:** 1 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -15,4 +15,8 @@ Seated evenly, gaze at the nose-tip, purify the breath-channels, raise Oṃ in t
 - Keep far from the company of the attached; meditate in a secluded, safe place. — [Bhāgavata Purāṇa](../texts/bhagavata-purana.md) 11.14.29-30
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:11.14.32-46 — BhP 11.14.32-46 located. Note: the warning paraphrases 11.14.29-30, which names 'the company of women and of those attached to women' (strīṇāṃ strīsaṅgināṃ saṅgam); 'the attached' softens the text. All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

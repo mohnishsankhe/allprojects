@@ -51,7 +51,7 @@ Two knowledges are to be known, say the knowers of brahman — the higher and th
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate, teacher-transmission, sound-language_
 
-terms: [parā vidyā](../terms/para-vidya.md), [aparā vidyā](../terms/apara-vidya.md), [akṣara](../terms/aksara.md), [vedāṅga](../terms/vedanga.md), [vidyā](../terms/vidya.md) · concepts: [Higher and lower knowledge](../concepts/para-apara-jnana.md), [Lower and higher knowledge](../concepts/apara-para-vidya.md), [The six limbs of the Veda](../concepts/six-vedangas.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md), [Śaunaka Mahāśāla](../teachers/saunaka-mahasala.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [parā vidyā](../terms/para-vidya.md), [aparā vidyā](../terms/apara-vidya.md), [akṣara](../terms/aksara.md), [vedāṅga](../terms/vedanga.md), [vidyā](../terms/vidya.md) · concepts: [Higher and lower knowledge](../concepts/para-apara-jnana.md), [Lower and higher knowledge](../concepts/apara-para-vidya.md), [The six limbs of the Veda](../concepts/six-vedangas.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md), [Śaunaka Mahāśāla](../teachers/saunaka-mahasala.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 1.1.6 <a id="tea-mundaka-upanisad-1-1-6"></a>
 `sourced` · confidence high
@@ -87,7 +87,7 @@ Unsafe boats are these sacrifices, in which the lower rite is performed with eig
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: intermediate · types: karma-liberation_
 
-terms: [iṣṭāpūrta](../terms/istapurta.md), [avidyā](../terms/avidya.md) · concepts: [Knowledge and ignorance (vidyā and avidyā)](../concepts/vidya-avidya.md) · obstacles: [Ignorance (avidyā)](../obstacles/avidya.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md) · disputes: `dsp:works-knowledge-grace`
+terms: [iṣṭāpūrta](../terms/istapurta.md), [avidyā](../terms/avidya.md) · concepts: [Knowledge and ignorance (vidyā and avidyā)](../concepts/vidya-avidya.md) · obstacles: [Ignorance (avidyā)](../obstacles/avidya.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 1.2.11 <a id="tea-mundaka-upanisad-1-2-11"></a>
 `sourced` · confidence high
@@ -304,7 +304,7 @@ This self is not attained by instruction, nor by intellect, nor by much learning
 
 _level: bridging · standpoint: seeker · path: knowledge, devotion · stage: advanced · types: karma-liberation_
 
-concepts: [Divine grace (prasāda)](../concepts/grace.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md) · disputes: `dsp:works-knowledge-grace`
+concepts: [Divine grace (prasāda)](../concepts/grace.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3.2.4 <a id="tea-mundaka-upanisad-3-2-4"></a>
 `sourced` · confidence high
@@ -359,4 +359,4 @@ _Notes: Veda affiliation: Atharvaveda (traditionally the Śaunaka śākhā)_
 
 - 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:raw_etexts:Mundaka, text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering), text:sources_raw/raw_etexts/mixed/ebhAratI-sampat/upaniShadaH/dashopaniShadaH/svAmIsharvAnandaH/muNDakopaniShat.md (Śarvānanda edition; 'bhidyate hṛdayagranthiḥ' — Structure confirmed: 9+13 / 10+12 / 10+11 = 65 verses in Śaṅkara's text, and 64 where 2.2.7 is one verse (Śarvānanda edition, eBhāratī). The teacher-line Brahmā → Atharvan → Aṅgir → Satyavāha → Aṅgiras → Śaunaka is at 1.1.1-3. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

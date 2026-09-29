@@ -1,6 +1,6 @@
 # Dissolving the syllables of Oṃ into the Self (Rāma Gītā)
 
-`prc:pranava-laya-rama-gita` · `skeleton` · confidence high
+`prc:pranava-laya-rama-gita` · `sourced` · confidence high
 
 **Category:** mantra-sound
 **Convergence:** 2 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [Rāmānandī sampradāya](../lineages/ramanandi.md)
@@ -12,4 +12,8 @@ Before samādhi, contemplating the world as Oṃ; dissolving A (the waking viśv
   - [Rāma Gītā](../texts/rama-gita.md) — ref: 7.5.48-52; rests_on: ["tea:rama-gita:7.5.48-52"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — Rests on tea:rama-gita:7.5.48-52; each was located in the local text and matches this entry's statement.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

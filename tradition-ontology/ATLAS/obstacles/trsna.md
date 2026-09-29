@@ -1,6 +1,6 @@
 # Craving (tṛṣṇā)
 
-`obs:trsna` · `skeleton` · confidence moderate
+`obs:trsna` · `sourced` · confidence moderate
 
 **Category:** passion
 **Convergence:** 2 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
@@ -14,4 +14,8 @@ Thirst, from which with attachment rajas arises and binds by attachment to actio
   - [Kāma Gītā](../texts/kama-gita.md) — ref: 14.13; rests_on: ["tea:kama-gita:14.13"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text), local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition), local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh14.json (BORI critical edition) — MU 1.16 colophon 'tṛṣṇāgarhā' verified; MBh CE 12.171.25 and 14.13.11 ff. verified.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

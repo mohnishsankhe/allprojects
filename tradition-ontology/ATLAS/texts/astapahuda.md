@@ -54,8 +54,8 @@ In women, in the private parts, between the breasts, at the navel and in the arm
 
 _level: conventional · standpoint: polemical · path: action · stage: all · types: dispute, body-layers_
 
-concepts: [Liberation of women (strī-mukti)](../concepts/strimukti.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Liberation of women (strī-mukti)](../concepts/strimukti.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

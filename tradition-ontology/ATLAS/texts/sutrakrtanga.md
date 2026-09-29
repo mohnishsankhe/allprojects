@@ -152,7 +152,7 @@ Some say the world was made by the gods, others by Brahmā, by Īśvara, by the 
 
 _level: unmarked · standpoint: cosmic · path: general · stage: unmarked · types: world-fate, dispute_
 
-concepts: [The Sūtrakṛtāṅga's review of rival doctrines](../concepts/jain-report-rival-views.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+concepts: [The Sūtrakṛtāṅga's review of rival doctrines](../concepts/jain-report-rival-views.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 1.1.3.11-12 <a id="tea-sutrakrtanga-1-1-3-11-12"></a>
 `skeleton` · confidence high
@@ -280,7 +280,7 @@ The parable of the lotus (Puṇḍarīka): a great white lotus stands in the mid
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, karma-liberation_
 
-disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 2.6 <a id="tea-sutrakrtanga-2-6"></a>
 `skeleton` · confidence moderate
@@ -331,4 +331,4 @@ terms: [aṇuvrata](../terms/anuvrata.md) · concepts: [Pārśva's fourfold rest
 _Notes: Book 1 checked against the local GRETIL text (verse numbers per that e-text); Book 2 not available locally, refs chapter-level from memory._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._

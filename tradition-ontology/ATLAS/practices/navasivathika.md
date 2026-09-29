@@ -11,9 +11,9 @@ Comparing one's body with a corpse in its stages of decay — bloated, devoured,
 **Sources:** 
   - [Kāyagatāsati Sutta](../texts/kayagatasati-sutta.md) — ref: 4-17; rests_on: ["tea:kayagatasati-sutta:4-17"]
   - [Satipaṭṭhāna Sutta](../texts/satipatthana-sutta.md) — ref: 14-31; rests_on: ["tea:satipatthana-sutta:14-31"]
-**Sequences:** `pth:three-trainings`
+**Sequences:** [The three trainings (tisso sikkhā / triśikṣā): virtue, concentration, wisdom](../paths/three-trainings.md)
 
 _Notes: A contemplation (imagined or seen); the texts do not prescribe any bodily act. Charnel-ground dwelling appears among the ascetic practices (see prc:dhutanga)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

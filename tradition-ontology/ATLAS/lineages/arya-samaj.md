@@ -41,4 +41,4 @@ _Notes: Not in the registry; created by U01 because its founder's commentary is 
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Arya_Samaj, https://www.britannica.com/biography/Dayananda-Sarasvati — Confirmed: founded by Dayānanda Sarasvatī, Bombay, 10 April 1875; strongest in Panjab/North India and the diaspora. (Inclusion outside the registry is a policy question for the orchestrator, not a factual one.)
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._

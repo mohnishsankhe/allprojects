@@ -16,4 +16,4 @@ The breath held with the mind in the space-principle, like pure ocean water, wit
 _Notes: One of the five dhāraṇās counted among the Gheraṇḍa's twenty-five mudrās; see prc:element-dharanas._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:11 IST._

@@ -17,10 +17,10 @@ Abiding contemplating the body in the body, feelings in feelings, mind in mind a
   - [Cakkavatti-sīhanāda Sutta](../texts/cakkavattisihanada-sutta.md) — ref: 1; rests_on: ["tea:cakkavattisihanada-sutta:1"]
   - [Ānāpānasati Sutta](../texts/anapanasati-sutta.md) — ref: 23-28; rests_on: ["tea:anapanasati-sutta:23-28"]
   - [Satipaṭṭhāna Sutta](../texts/satipatthana-sutta.md) — ref: 2.1; 3.1-3.5; rests_on: ["tea:satipatthana-sutta:2.1", "tea:satipatthana-sutta:3.1-3.5"]
-**Sequences:** `pth:three-trainings`, [The gradual training (anupubbasikkhā) of the Sāmaññaphala and related suttas](../paths/gradual-training.md)
+**Sequences:** [The three trainings (tisso sikkhā / triśikṣā): virtue, concentration, wisdom](../paths/three-trainings.md), [The gradual training (anupubbasikkhā) of the Sāmaññaphala and related suttas](../paths/gradual-training.md)
 
 ## Equivalents (interpretation layer)
 - partial: [The four applications of mindfulness (Kośa method)](smrtyupasthana-abhidharmakosa.md) — the same four contemplations as systematised in the Sarvāstivāda Abhidharmakośa (U38)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

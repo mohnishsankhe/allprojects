@@ -20,4 +20,4 @@
 _Notes: Shared term with Nāth and Kashmir Śaiva usage; not asserted equivalent here._
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U23-sakta-srividya, skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U23-sakta-srividya, skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._

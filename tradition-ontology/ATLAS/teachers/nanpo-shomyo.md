@@ -11,4 +11,4 @@
 Heir of Xutang Zhiyu; first of the Ōtōkan line (Ō-Tō-Kan: Daiō, Daitō, Kanzan) from which all present Rinzai lines descend.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

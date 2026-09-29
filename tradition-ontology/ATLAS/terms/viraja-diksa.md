@@ -1,6 +1,6 @@
 # virajādīkṣā
 
-`trm:viraja-diksa` · `skeleton` · confidence low
+`trm:viraja-diksa` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Native script:** विरजादीक्षा
@@ -14,4 +14,8 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — Śiva Gītā 3.15-29 (Gītāsaṅgraha) verified: 'virajāmārga', 'virajāṃ dīkṣām', the Virajā mantras (3.26), ash (3.27-29) and the pāśupata vrata (3.23-24).
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

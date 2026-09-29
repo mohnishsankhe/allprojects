@@ -15,4 +15,4 @@
 _Notes: Tradition's account: Bodhidharma's teaching. Scholarly account: the phrases occur separately in Tang–Song texts; the full set is first attested in the Zuting shiyuan (1108)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

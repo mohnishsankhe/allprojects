@@ -16,4 +16,4 @@ A one-verse treatise ascribed to Nāgārjuna, with commentary, on the emptiness 
   - kind: translation; name: Taishō T1573 — catalog:CBETA:T30n1573
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._

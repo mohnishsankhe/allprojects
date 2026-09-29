@@ -14,4 +14,4 @@
 Vādībhasiṃha's verse (Kṣatracūḍāmaṇi) and prose (Gadyacintāmaṇi) versions of the life of Prince Jīvandhara, who regains his kingdom, marries, and renounces to become a monk; a source of the Tamil Cīvakacintāmaṇi.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

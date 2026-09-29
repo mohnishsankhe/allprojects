@@ -32,4 +32,4 @@ terms: [acinteyya](../terms/acinteyya.md) · concepts: [The four unthinkables](.
 _Notes: SuttaCentral uid an4.77; Mahāsaṅgīti title 'Acinteyyasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

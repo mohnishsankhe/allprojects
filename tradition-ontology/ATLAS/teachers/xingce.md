@@ -10,4 +10,4 @@
 Early-Qing monk who organised seven-day recitation retreats (foqi); tenth patriarch in the later list.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

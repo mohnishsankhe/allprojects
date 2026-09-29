@@ -1227,7 +1227,7 @@ The undiscerning, delighting in the words of the Veda and saying there is nothin
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, practice_
 
-terms: [samādhi](../terms/samadhi.md), [vyavasāyātmikā buddhi](../terms/vyavasayatmika-buddhi.md) · obstacles: [Attachment to the rewards of ritual (vedavāda)](../obstacles/attachment-to-ritual-rewards.md) · disputes: `dsp:works-knowledge-grace`
+terms: [samādhi](../terms/samadhi.md), [vyavasāyātmikā buddhi](../terms/vyavasayatmika-buddhi.md) · obstacles: [Attachment to the rewards of ritual (vedavāda)](../obstacles/attachment-to-ritual-rewards.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 _Superseded by [2.42](bhagavad-gita.md#tea-bhagavad-gita-2-42)_
 
@@ -1265,7 +1265,7 @@ nirdvandvo nityasattvastho niryogakṣema ātmavān
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: all · types: practice, dispute, karma-liberation_
 
-terms: [guṇa](../terms/guna.md), [traiguṇya](../terms/traigunya.md), [nistraiguṇya](../terms/nistraigunya.md), [nirdvandva](../terms/nirdvandva.md), [yogakṣema](../terms/yogaksema.md), [sattva](../terms/sattva.md), [veda](../terms/veda.md), [ātman](../terms/atman.md), [dvandva](../terms/dvandva.md) · concepts: [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Are the Vedic rites that hold out heaven, enjoyment and power all there is to seek ('there is nothing else')?](../debates/bhagavad-gita-vedavada.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [guṇa](../terms/guna.md), [traiguṇya](../terms/traigunya.md), [nistraiguṇya](../terms/nistraigunya.md), [nirdvandva](../terms/nirdvandva.md), [yogakṣema](../terms/yogaksema.md), [sattva](../terms/sattva.md), [veda](../terms/veda.md), [ātman](../terms/atman.md), [dvandva](../terms/dvandva.md) · concepts: [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Are the Vedic rites that hold out heaven, enjoyment and power all there is to seek ('there is nothing else')?](../debates/bhagavad-gita-vedavada.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 2.46 <a id="tea-bhagavad-gita-2-46"></a>
 `text-verified` · confidence low
@@ -1277,7 +1277,7 @@ tāvānsarveṣu vedeṣu brāhmaṇasya vijānataḥ
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: realized · types: dispute, karma-liberation_
 
-terms: [veda](../terms/veda.md), [brāhmaṇa](../terms/brahmana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Are the Vedic rites that hold out heaven, enjoyment and power all there is to seek ('there is nothing else')?](../debates/bhagavad-gita-vedavada.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [veda](../terms/veda.md), [brāhmaṇa](../terms/brahmana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Are the Vedic rites that hold out heaven, enjoyment and power all there is to seek ('there is nothing else')?](../debates/bhagavad-gita-vedavada.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 2.47 <a id="tea-bhagavad-gita-2-47"></a>
 `text-verified` · confidence high
@@ -1683,7 +1683,7 @@ tatkiṃ karmaṇi ghore māṃ niyojayasi keśava
 
 _level: conventional · standpoint: seeker · path: knowledge, action · stage: unmarked · types: dispute, practice_
 
-terms: [buddhi](../terms/buddhi.md), [karma](../terms/karma.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), `dsp:works-knowledge-grace`
+terms: [buddhi](../terms/buddhi.md), [karma](../terms/karma.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3.1-2 <a id="tea-bhagavad-gita-3-1-2"></a>
 `sourced` · confidence high
@@ -1706,7 +1706,7 @@ tadekaṃ vada niśicatya yena śreyo'hamāpnuyām
 
 _level: conventional · standpoint: seeker · path: knowledge, action · stage: beginner · types: dispute, teacher-transmission_
 
-terms: [śreyas](../terms/sreyas.md), [buddhi](../terms/buddhi.md), [moha](../terms/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), `dsp:works-knowledge-grace`
+terms: [śreyas](../terms/sreyas.md), [buddhi](../terms/buddhi.md), [moha](../terms/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3.3 <a id="tea-bhagavad-gita-3-3"></a>
 `text-verified` · confidence high
@@ -1719,7 +1719,7 @@ jñānayogena sāṃkhyānāṃ karmayogena yoginām
 
 _level: conventional · standpoint: seeker · path: knowledge, action · stage: all · types: practice, teacher-transmission_
 
-terms: [niṣṭhā](../terms/nistha.md), [jñānayoga](../terms/jnana-yoga.md), [karmayoga](../terms/karma-yoga.md), [sāṃkhya](../terms/samkhya.md), [yogin](../terms/yogin.md), [yoga](../terms/yoga.md) · concepts: [The twofold commitment (dvividhā niṣṭhā): jñāna-yoga and karma-yoga](../concepts/twofold-nistha.md), [The paths of the Gītā: action, knowledge, meditation and devotion](../concepts/four-yogas-of-the-gita.md) · practices: [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), `dsp:works-knowledge-grace`, [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
+terms: [niṣṭhā](../terms/nistha.md), [jñānayoga](../terms/jnana-yoga.md), [karmayoga](../terms/karma-yoga.md), [sāṃkhya](../terms/samkhya.md), [yogin](../terms/yogin.md), [yoga](../terms/yoga.md) · concepts: [The twofold commitment (dvividhā niṣṭhā): jñāna-yoga and karma-yoga](../concepts/twofold-nistha.md), [The paths of the Gītā: action, knowledge, meditation and devotion](../concepts/four-yogas-of-the-gita.md) · practices: [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
 
 ### 3.4 <a id="tea-bhagavad-gita-3-4"></a>
 `text-verified` · confidence moderate
@@ -1731,7 +1731,7 @@ na ca saṃnyasanādeva siddhiṃ samadhigacchati
 
 _level: conventional · standpoint: seeker · path: action, knowledge · stage: all · types: practice, karma-liberation, dispute_
 
-terms: [naiṣkarmya](../terms/naiskarmya.md), [saṃnyāsa](../terms/samnyasa.md), [siddhi](../terms/siddhi.md), [karma](../terms/karma.md) · concepts: [Actionlessness (naiṣkarmya)](../concepts/naiskarmya.md), [The twofold commitment (dvividhā niṣṭhā): jñāna-yoga and karma-yoga](../concepts/twofold-nistha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), `dsp:works-knowledge-grace`
+terms: [naiṣkarmya](../terms/naiskarmya.md), [saṃnyāsa](../terms/samnyasa.md), [siddhi](../terms/siddhi.md), [karma](../terms/karma.md) · concepts: [Actionlessness (naiṣkarmya)](../concepts/naiskarmya.md), [The twofold commitment (dvividhā niṣṭhā): jñāna-yoga and karma-yoga](../concepts/twofold-nistha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3.5 <a id="tea-bhagavad-gita-3-5"></a>
 `text-verified` · confidence high
@@ -1743,7 +1743,7 @@ kāryate hyavaśaḥ karma sarvaḥ prakṛtijairguṇaiḥ
 
 _level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, consciousness-mind, practice_
 
-terms: [guṇa](../terms/guna.md), [prakṛti](../terms/prakrti.md), [karma](../terms/karma.md) · concepts: [No embodied being can remain without action](../concepts/inevitability-of-action.md), [The three guṇas](../concepts/three-gunas.md), [The guṇas as the doers of action](../concepts/gunas-as-agents.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), `dsp:works-knowledge-grace`
+terms: [guṇa](../terms/guna.md), [prakṛti](../terms/prakrti.md), [karma](../terms/karma.md) · concepts: [No embodied being can remain without action](../concepts/inevitability-of-action.md), [The three guṇas](../concepts/three-gunas.md), [The guṇas as the doers of action](../concepts/gunas-as-agents.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3.6 <a id="tea-bhagavad-gita-3-6"></a>
 `text-verified` · confidence high
@@ -1790,7 +1790,7 @@ Kṛṣṇa: perform your allotted action (niyataṃ karma), for action is bette
 
 _level: conventional · standpoint: seeker · path: action · stage: all · types: practice, ethics_
 
-terms: [niyata karman](../terms/niyata-karma.md), [akarman](../terms/akarma.md), [karma](../terms/karma.md) · concepts: [Action without attachment to its fruit](../concepts/niskama-karma.md), [No embodied being can remain without action](../concepts/inevitability-of-action.md) · practices: [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md), [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), `dsp:works-knowledge-grace`
+terms: [niyata karman](../terms/niyata-karma.md), [akarman](../terms/akarma.md), [karma](../terms/karma.md) · concepts: [Action without attachment to its fruit](../concepts/niskama-karma.md), [No embodied being can remain without action](../concepts/inevitability-of-action.md) · practices: [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md), [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3.9 <a id="tea-bhagavad-gita-3-9"></a>
 `text-verified` · confidence moderate
@@ -1909,7 +1909,7 @@ Kṛṣṇa: but the person who delights in the self alone (ātma-rati), is sati
 
 _level: unmarked · standpoint: experiential · path: knowledge · stage: realized · types: karma-liberation, ethics_
 
-terms: [ātman](../terms/atman.md), [ātmarati](../terms/atmarati.md), [karma](../terms/karma.md) · concepts: [Delight in the self (ātmarati): the one for whom nothing remains to be done](../concepts/atmarati.md), [The person of steady wisdom (sthitaprajña)](../concepts/sthitaprajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), `dsp:works-knowledge-grace`
+terms: [ātman](../terms/atman.md), [ātmarati](../terms/atmarati.md), [karma](../terms/karma.md) · concepts: [Delight in the self (ātmarati): the one for whom nothing remains to be done](../concepts/atmarati.md), [The person of steady wisdom (sthitaprajña)](../concepts/sthitaprajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3.17-18 <a id="tea-bhagavad-gita-3-17-18"></a>
 `sourced` · confidence high
@@ -1932,7 +1932,7 @@ na cāsya sarvabhūteṣu kaśicadarthavyapāśrayaḥ
 
 _level: unmarked · standpoint: experiential · path: knowledge · stage: realized · types: karma-liberation, ethics_
 
-terms: [ātmarati](../terms/atmarati.md), [karma](../terms/karma.md) · concepts: [Delight in the self (ātmarati): the one for whom nothing remains to be done](../concepts/atmarati.md), [The person of steady wisdom (sthitaprajña)](../concepts/sthitaprajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), `dsp:works-knowledge-grace`
+terms: [ātmarati](../terms/atmarati.md), [karma](../terms/karma.md) · concepts: [Delight in the self (ātmarati): the one for whom nothing remains to be done](../concepts/atmarati.md), [The person of steady wisdom (sthitaprajña)](../concepts/sthitaprajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3.19 <a id="tea-bhagavad-gita-3-19"></a>
 `text-verified` · confidence moderate
@@ -1944,7 +1944,7 @@ asakto hyācarankarma paramāpnoti pūruṣaḥ
 
 _level: conventional · standpoint: seeker · path: action · stage: all · types: practice, karma-liberation_
 
-terms: [asakta](../terms/asakta.md), [karma](../terms/karma.md), [saṅga](../terms/sanga.md) · concepts: [Action without attachment to its fruit](../concepts/niskama-karma.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · practices: [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), `dsp:works-knowledge-grace`
+terms: [asakta](../terms/asakta.md), [karma](../terms/karma.md), [saṅga](../terms/sanga.md) · concepts: [Action without attachment to its fruit](../concepts/niskama-karma.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · practices: [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3.20 <a id="tea-bhagavad-gita-3-20"></a>
 `text-verified` · confidence moderate
@@ -1956,7 +1956,7 @@ lokasaṃgrahamevāpi saṃpaśyankartumarhasi
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: practice, ethics, karma-liberation_
 
-terms: [lokasaṃgraha](../terms/lokasangraha.md), [saṃsiddhi](../terms/samsiddhi.md), [karma](../terms/karma.md), [siddhi](../terms/siddhi.md) · concepts: [Holding the world together (loka-saṃgraha)](../concepts/lokasangraha.md), [Action without attachment to its fruit](../concepts/niskama-karma.md) · practices: [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Janaka of Videha](../teachers/janaka.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), `dsp:works-knowledge-grace`
+terms: [lokasaṃgraha](../terms/lokasangraha.md), [saṃsiddhi](../terms/samsiddhi.md), [karma](../terms/karma.md), [siddhi](../terms/siddhi.md) · concepts: [Holding the world together (loka-saṃgraha)](../concepts/lokasangraha.md), [Action without attachment to its fruit](../concepts/niskama-karma.md) · practices: [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Janaka of Videha](../teachers/janaka.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3.20-21 <a id="tea-bhagavad-gita-3-20-21"></a>
 `sourced` · confidence high
@@ -2809,7 +2809,7 @@ sarvaṃ karmākhilaṃ pārtha jñāne parisamāpyate
 
 _level: conventional · standpoint: seeker · path: knowledge, ritual · stage: all · types: karma-liberation, practice_
 
-terms: [jñāna-yajña](../terms/jnana-yajna.md), [jñāna](../terms/jnana.md), [karma](../terms/karma.md), [dravyayajña](../terms/dravya-yajna.md) · concepts: [Sacrifice reinterpreted (yajña)](../concepts/yajna-reinterpreted.md) · practices: [The sacrifice of knowledge (jñāna-yajña)](../practices/jnana-yajna.md), [Sacrifice with material things (dravya-yajña)](../practices/dravya-yajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md) · disputes: [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md), `dsp:works-knowledge-grace`, [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
+terms: [jñāna-yajña](../terms/jnana-yajna.md), [jñāna](../terms/jnana.md), [karma](../terms/karma.md), [dravyayajña](../terms/dravya-yajna.md) · concepts: [Sacrifice reinterpreted (yajña)](../concepts/yajna-reinterpreted.md) · practices: [The sacrifice of knowledge (jñāna-yajña)](../practices/jnana-yajna.md), [Sacrifice with material things (dravya-yajña)](../practices/dravya-yajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md) · disputes: [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
 
 ### 4.34 <a id="tea-bhagavad-gita-4-34"></a>
 `text-verified` · confidence high
@@ -2854,7 +2854,7 @@ Even if you are the most sinful of all sinners, you will cross over all wickedne
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation_
 
-disputes: `dsp:works-knowledge-grace`
+disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 _Superseded by [4.36](bhagavad-gita.md#tea-bhagavad-gita-4-36)_
 
@@ -2975,7 +2975,7 @@ tayostu karmasaṃnyāsātkarmayogo viśiṣyate
 
 _level: conventional · standpoint: seeker · path: action, knowledge · stage: all · types: practice, karma-liberation, dispute_
 
-terms: [saṃnyāsa](../terms/samnyasa.md), [karmayoga](../terms/karma-yoga.md), [niḥśreyasa](../terms/nihsreyasa.md) · concepts: [Renunciation (saṃnyāsa) in the principal Upaniṣads](../concepts/sannyasa.md) · practices: [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md), [Renunciation (saṃnyāsa) in the Dharmaśāstra](../practices/samnyasa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), `dsp:works-knowledge-grace`
+terms: [saṃnyāsa](../terms/samnyasa.md), [karmayoga](../terms/karma-yoga.md), [niḥśreyasa](../terms/nihsreyasa.md) · concepts: [Renunciation (saṃnyāsa) in the principal Upaniṣads](../concepts/sannyasa.md) · practices: [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md), [Renunciation (saṃnyāsa) in the Dharmaśāstra](../practices/samnyasa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 5.3 <a id="tea-bhagavad-gita-5-3"></a>
 `text-verified` · confidence high
@@ -3236,7 +3236,7 @@ Kṛṣṇa: the learned (paṇḍita) see the same (sama-darśin) in a brāhma�
 
 _level: bridging · standpoint: absolute · path: knowledge · stage: realized · types: ethics, ultimate_
 
-terms: [samadarśin](../terms/samadarsin.md), [paṇḍita](../terms/pandita.md) · concepts: [Evenness of mind (samatva)](../concepts/equanimity.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md) · disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md), `dsp:women-caste-liberation`
+terms: [samadarśin](../terms/samadarsin.md), [paṇḍita](../terms/pandita.md) · concepts: [Evenness of mind (samatva)](../concepts/equanimity.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md) · disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 5.19 <a id="tea-bhagavad-gita-5-19"></a>
 `text-verified` · confidence high
@@ -4142,7 +4142,7 @@ karmibhyaścādhiko yogī tasmādyogī bhavārjuna
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: [yoga](../terms/yoga.md), [tapas](../terms/tapas.md), [jñāna](../terms/jnana.md), [karma](../terms/karma.md), [jñānin](../terms/jnanin.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: `dsp:works-knowledge-grace`
+terms: [yoga](../terms/yoga.md), [tapas](../terms/tapas.md), [jñāna](../terms/jnana.md), [karma](../terms/karma.md), [jñānin](../terms/jnanin.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 6.46-47 <a id="tea-bhagavad-gita-6-46-47"></a>
 `sourced` · confidence high
@@ -5417,7 +5417,7 @@ Knowers of the three Vedas, drinkers of soma, purified of sin, worship me with s
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: karma-liberation, dispute_
 
-obstacles: [Attachment to the rewards of ritual (vedavāda)](../obstacles/attachment-to-ritual-rewards.md) · disputes: `dsp:works-knowledge-grace`
+obstacles: [Attachment to the rewards of ritual (vedavāda)](../obstacles/attachment-to-ritual-rewards.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 _Superseded by [9.20](bhagavad-gita.md#tea-bhagavad-gita-9-20)_
 
@@ -5607,7 +5607,7 @@ Those who take refuge in me, even though they be of sinful birth — women, vai�
 
 _level: bridging · standpoint: divine · path: devotion · stage: all · types: karma-liberation, ethics_
 
-concepts: [Devotion (bhakti)](../concepts/bhakti.md), [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md) · disputes: `dsp:women-caste-liberation`, [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md)
+concepts: [Devotion (bhakti)](../concepts/bhakti.md), [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md), [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md)
 
 _Superseded by [9.32](bhagavad-gita.md#tea-bhagavad-gita-9-32)_
 
@@ -5786,7 +5786,7 @@ To those who are ever yoked and worship me with love I give the yoga of understa
 
 _level: bridging · standpoint: divine · path: devotion, knowledge · stage: intermediate · types: karma-liberation_
 
-terms: [buddhiyoga](../terms/buddhi-yoga.md), [prasāda](../terms/prasada.md) · concepts: [The Lord's grace (prasāda)](../concepts/divine-grace.md), [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md) · disputes: `dsp:works-knowledge-grace`
+terms: [buddhiyoga](../terms/buddhi-yoga.md), [prasāda](../terms/prasada.md) · concepts: [The Lord's grace (prasāda)](../concepts/divine-grace.md), [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 _Superseded by [10.10](bhagavad-gita.md#tea-bhagavad-gita-10-10)_
 
@@ -6925,7 +6925,7 @@ Out of grace I have shown you, by my own yoga, this supreme form, made of splend
 
 _level: bridging · standpoint: divine · path: devotion · stage: advanced · types: powers-experiences_
 
-terms: [prasāda](../terms/prasada.md) · concepts: [The universal form (viśvarūpa)](../concepts/visvarupa.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md) · disputes: `dsp:works-knowledge-grace`
+terms: [prasāda](../terms/prasada.md) · concepts: [The universal form (viśvarūpa)](../concepts/visvarupa.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 _Superseded by [11.47](bhagavad-gita.md#tea-bhagavad-gita-11-47)_
 
@@ -7014,7 +7014,7 @@ This form of mine that you have seen is very hard to see; even the gods ever lon
 
 _level: bridging · standpoint: divine · path: devotion · stage: all · types: karma-liberation, powers-experiences_
 
-terms: [ananya-bhakti](../terms/ananya-bhakti.md), [bhakti](../terms/bhakti.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md) · disputes: `dsp:works-knowledge-grace`, [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
+terms: [ananya-bhakti](../terms/ananya-bhakti.md), [bhakti](../terms/bhakti.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
 
 _Superseded by [11.52](bhagavad-gita.md#tea-bhagavad-gita-11-52)_
 
@@ -7063,7 +7063,7 @@ Arjuna: those devotees who, ever yoked in this way (evaṃ satata-yuktāḥ), wo
 
 _level: unmarked · standpoint: seeker · path: devotion, knowledge · stage: unmarked · types: practice, ultimate, dispute_
 
-terms: [akṣara](../terms/aksara.md), [avyakta](../terms/avyakta.md), [upāsanā](../terms/upasana.md), [yukta](../terms/yukta.md), [bhakta](../terms/bhakta.md) · concepts: [The imperishable (akṣara)](../concepts/aksara.md), [Devotion (bhakti)](../concepts/bhakti.md), [Worship of the Lord and worship of the imperishable unmanifest (BhG 12.1–7)](../concepts/worship-of-the-lord-and-of-the-unmanifest.md) · disputes: [Which worshippers know yoga best — the devotees who, ever yoked, worship the Lord, or those who worship 'the imperishable, the unmanifest' (BhG 12.1)? And what is 'the imperishable, the unmanifest' that the second group worships?](../debates/bhagavad-gita-lord-or-unmanifest.md), [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md), `dsp:saguna-nirguna`
+terms: [akṣara](../terms/aksara.md), [avyakta](../terms/avyakta.md), [upāsanā](../terms/upasana.md), [yukta](../terms/yukta.md), [bhakta](../terms/bhakta.md) · concepts: [The imperishable (akṣara)](../concepts/aksara.md), [Devotion (bhakti)](../concepts/bhakti.md), [Worship of the Lord and worship of the imperishable unmanifest (BhG 12.1–7)](../concepts/worship-of-the-lord-and-of-the-unmanifest.md) · disputes: [Which worshippers know yoga best — the devotees who, ever yoked, worship the Lord, or those who worship 'the imperishable, the unmanifest' (BhG 12.1)? And what is 'the imperishable, the unmanifest' that the second group worships?](../debates/bhagavad-gita-lord-or-unmanifest.md), [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md), [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 12.2 <a id="tea-bhagavad-gita-12-2"></a>
 `text-verified` · confidence high
@@ -7074,7 +7074,7 @@ Kṛṣṇa: those who, fixing the mind (manas) on me, worship me, ever yoked (n
 
 _level: conventional · standpoint: devotional · path: devotion · stage: advanced (yuktatama (the most yoked)) · types: practice_
 
-terms: [manas](../terms/manas.md), [śraddhā](../terms/sraddha.md), [upāsanā](../terms/upasana.md), [yukta](../terms/yukta.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md), [Worship of the Lord and worship of the imperishable unmanifest (BhG 12.1–7)](../concepts/worship-of-the-lord-and-of-the-unmanifest.md) · practices: [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md), [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md) · disputes: [Which worshippers know yoga best — the devotees who, ever yoked, worship the Lord, or those who worship 'the imperishable, the unmanifest' (BhG 12.1)? And what is 'the imperishable, the unmanifest' that the second group worships?](../debates/bhagavad-gita-lord-or-unmanifest.md), [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md), `dsp:saguna-nirguna`
+terms: [manas](../terms/manas.md), [śraddhā](../terms/sraddha.md), [upāsanā](../terms/upasana.md), [yukta](../terms/yukta.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md), [Worship of the Lord and worship of the imperishable unmanifest (BhG 12.1–7)](../concepts/worship-of-the-lord-and-of-the-unmanifest.md) · practices: [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md), [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md) · disputes: [Which worshippers know yoga best — the devotees who, ever yoked, worship the Lord, or those who worship 'the imperishable, the unmanifest' (BhG 12.1)? And what is 'the imperishable, the unmanifest' that the second group worships?](../debates/bhagavad-gita-lord-or-unmanifest.md), [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md), [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 12.3 <a id="tea-bhagavad-gita-12-3"></a>
 `text-verified` · confidence high
@@ -7097,7 +7097,7 @@ saṃniyamyendriyagrāmaṃ sarvatra samabuddhayaḥ|te prāpnuvanti māmeva sar
 
 _level: conventional · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: ultimate, practice, ethics, karma-liberation_
 
-terms: [akṣara](../terms/aksara.md), [avyakta](../terms/avyakta.md), [acintya](../terms/acintya.md), [kūṭastha](../terms/kutastha.md), [upāsanā](../terms/upasana.md), [anirdeśya](../terms/anirdesya.md), [sarvatraga](../terms/sarvatraga.md), [indriya](../terms/indriya.md), [buddhi](../terms/buddhi.md), [samatva](../terms/samatva.md) · concepts: [The imperishable (akṣara)](../concepts/aksara.md), [Worship of the Lord and worship of the imperishable unmanifest (BhG 12.1–7)](../concepts/worship-of-the-lord-and-of-the-unmanifest.md), [Evenness of mind (samatva)](../concepts/equanimity.md) · practices: [Worship of the imperishable unmanifest (akṣara / avyakta upāsanā)](../practices/avyakta-upasana.md), [Restraint and withdrawal of the senses (indriya-saṃyama)](../practices/indriya-samyama.md), [Cultivating sameness (samatva)](../practices/samatva.md) · disputes: [Which worshippers know yoga best — the devotees who, ever yoked, worship the Lord, or those who worship 'the imperishable, the unmanifest' (BhG 12.1)? And what is 'the imperishable, the unmanifest' that the second group worships?](../debates/bhagavad-gita-lord-or-unmanifest.md), `dsp:saguna-nirguna`
+terms: [akṣara](../terms/aksara.md), [avyakta](../terms/avyakta.md), [acintya](../terms/acintya.md), [kūṭastha](../terms/kutastha.md), [upāsanā](../terms/upasana.md), [anirdeśya](../terms/anirdesya.md), [sarvatraga](../terms/sarvatraga.md), [indriya](../terms/indriya.md), [buddhi](../terms/buddhi.md), [samatva](../terms/samatva.md) · concepts: [The imperishable (akṣara)](../concepts/aksara.md), [Worship of the Lord and worship of the imperishable unmanifest (BhG 12.1–7)](../concepts/worship-of-the-lord-and-of-the-unmanifest.md), [Evenness of mind (samatva)](../concepts/equanimity.md) · practices: [Worship of the imperishable unmanifest (akṣara / avyakta upāsanā)](../practices/avyakta-upasana.md), [Restraint and withdrawal of the senses (indriya-saṃyama)](../practices/indriya-samyama.md), [Cultivating sameness (samatva)](../practices/samatva.md) · disputes: [Which worshippers know yoga best — the devotees who, ever yoked, worship the Lord, or those who worship 'the imperishable, the unmanifest' (BhG 12.1)? And what is 'the imperishable, the unmanifest' that the second group worships?](../debates/bhagavad-gita-lord-or-unmanifest.md), [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 12.4 <a id="tea-bhagavad-gita-12-4"></a>
 `text-verified` · confidence moderate
@@ -7120,7 +7120,7 @@ avyaktā hi gatirduḥkhaṃ dehavadbhiravāpyate
 
 _level: conventional · standpoint: seeker · path: knowledge, meditation, devotion · stage: unmarked · types: practice_
 
-terms: [kleśa](../terms/klesa.md), [cetas](../terms/cetas.md), [avyakta](../terms/avyakta.md) · concepts: [Worship of the Lord and worship of the imperishable unmanifest (BhG 12.1–7)](../concepts/worship-of-the-lord-and-of-the-unmanifest.md) · practices: [Worship of the imperishable unmanifest (akṣara / avyakta upāsanā)](../practices/avyakta-upasana.md) · disputes: [Which worshippers know yoga best — the devotees who, ever yoked, worship the Lord, or those who worship 'the imperishable, the unmanifest' (BhG 12.1)? And what is 'the imperishable, the unmanifest' that the second group worships?](../debates/bhagavad-gita-lord-or-unmanifest.md), `dsp:saguna-nirguna`
+terms: [kleśa](../terms/klesa.md), [cetas](../terms/cetas.md), [avyakta](../terms/avyakta.md) · concepts: [Worship of the Lord and worship of the imperishable unmanifest (BhG 12.1–7)](../concepts/worship-of-the-lord-and-of-the-unmanifest.md) · practices: [Worship of the imperishable unmanifest (akṣara / avyakta upāsanā)](../practices/avyakta-upasana.md) · disputes: [Which worshippers know yoga best — the devotees who, ever yoked, worship the Lord, or those who worship 'the imperishable, the unmanifest' (BhG 12.1)? And what is 'the imperishable, the unmanifest' that the second group worships?](../debates/bhagavad-gita-lord-or-unmanifest.md), [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 12.6 <a id="tea-bhagavad-gita-12-6"></a>
 `text-verified` · confidence high
@@ -7645,7 +7645,7 @@ For I am the foundation of Brahman, of the immortal and imperishable, of eternal
 
 _level: ultimate · standpoint: divine · path: devotion, knowledge · stage: all · types: ultimate_
 
-terms: [brahman](../terms/brahman.md) · disputes: `dsp:saguna-nirguna`
+terms: [brahman](../terms/brahman.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 15.1-2 <a id="tea-bhagavad-gita-15-1-2"></a>
 `sourced` · confidence high
@@ -7734,7 +7734,7 @@ I am seated in the hearts of all; from me come memory, knowledge and their loss;
 
 _level: ultimate · standpoint: divine · path: knowledge, devotion · stage: all · types: ultimate, consciousness-mind_
 
-concepts: [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 15.16-18 <a id="tea-bhagavad-gita-15-16-18"></a>
 `sourced` · confidence high
@@ -7745,7 +7745,7 @@ There are two persons in the world, the perishable and the imperishable: the per
 
 _level: ultimate · standpoint: divine · path: knowledge, devotion · stage: all · types: ultimate_
 
-terms: [kṣara](../terms/ksara.md), [akṣara](../terms/aksara.md), [kūṭastha](../terms/kutastha.md), [Puruṣottama](../terms/purusottama.md), [paramātman](../terms/paramatman.md) · concepts: [The perishable, the imperishable and the highest person](../concepts/three-purusas.md) · disputes: `dsp:saguna-nirguna`
+terms: [kṣara](../terms/ksara.md), [akṣara](../terms/aksara.md), [kūṭastha](../terms/kutastha.md), [Puruṣottama](../terms/purusottama.md), [paramātman](../terms/paramatman.md) · concepts: [The perishable, the imperishable and the highest person](../concepts/three-purusas.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 15.19-20 <a id="tea-bhagavad-gita-15-19-20"></a>
 `sourced` · confidence high
@@ -7799,7 +7799,7 @@ The Gītā reports the view of the demonic: they say the world is without truth,
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, world-fate_
 
-obstacles: [The demonic endowment](../obstacles/asuri-sampad.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+obstacles: [The demonic endowment](../obstacles/asuri-sampad.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 16.9-18 <a id="tea-bhagavad-gita-16-9-18"></a>
 `sourced` · confidence high
@@ -7839,7 +7839,7 @@ One who casts aside the injunctions of scripture and acts on the impulse of desi
 
 _level: conventional · standpoint: seeker · path: action, ritual · stage: all · types: ethics_
 
-disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 17.1 <a id="tea-bhagavad-gita-17-1"></a>
 `sourced` · confidence high
@@ -8208,7 +8208,7 @@ Even while always performing all actions, taking refuge in me, by my grace he at
 
 _level: bridging · standpoint: divine · path: action, devotion · stage: all · types: karma-liberation_
 
-terms: [prasāda](../terms/prasada.md) · concepts: [The Lord's grace (prasāda)](../concepts/divine-grace.md) · disputes: `dsp:works-knowledge-grace`
+terms: [prasāda](../terms/prasada.md) · concepts: [The Lord's grace (prasāda)](../concepts/divine-grace.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 18.57-58 <a id="tea-bhagavad-gita-18-57-58"></a>
 `sourced` · confidence high
@@ -8286,7 +8286,7 @@ Abandoning all dharmas, take refuge in me alone; I will free you from all sins �
 
 _level: bridging · standpoint: divine · path: devotion · stage: all · types: karma-liberation, practice_
 
-terms: [śaraṇāgati](../terms/saranagati.md), [prapatti](../terms/prapatti.md), [dharma](../terms/dharma.md) · concepts: [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md) · practices: [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), `dsp:works-knowledge-grace`
+terms: [śaraṇāgati](../terms/saranagati.md), [prapatti](../terms/prapatti.md), [dharma](../terms/dharma.md) · concepts: [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md) · practices: [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 18.67-68 <a id="tea-bhagavad-gita-18-67-68"></a>
 `sourced` · confidence high
@@ -8389,7 +8389,7 @@ Chapter 3 answers the question of understanding versus action. 3.1–2: Arjuna a
 
 _level: conventional · standpoint: seeker · path: action, knowledge, ritual · stage: all · types: practice, karma-liberation, ethics, world-fate, dispute, consciousness-mind_
 
-terms: [karmayoga](../terms/karma-yoga.md), [jñānayoga](../terms/jnana-yoga.md), [niṣṭhā](../terms/nistha.md), [naiṣkarmya](../terms/naiskarmya.md), [yajña](../terms/yajna.md), [lokasaṃgraha](../terms/lokasangraha.md), [guṇa](../terms/guna.md), [kāma](../terms/kama.md), [ahaṅkāra](../terms/ahankara.md), [svadharma](../terms/svadharma.md) · concepts: [The twofold commitment (dvividhā niṣṭhā): jñāna-yoga and karma-yoga](../concepts/twofold-nistha.md), [Action without attachment to its fruit](../concepts/niskama-karma.md), [The wheel of sacrifice (yajña-cakra)](../concepts/yajna-cakra.md), [Holding the world together (loka-saṃgraha)](../concepts/lokasangraha.md), [Desire (and anger) as the enemy (BhG 3.36–43)](../concepts/kama-as-the-enemy.md), [The guṇas as the doers of action](../concepts/gunas-as-agents.md), [The hierarchy of senses, mind, understanding and what is beyond them](../concepts/senses-mind-intellect-hierarchy.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Prajāpati (as teacher)](../teachers/prajapati.md), [Janaka of Videha](../teachers/janaka.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), `dsp:works-knowledge-grace`
+terms: [karmayoga](../terms/karma-yoga.md), [jñānayoga](../terms/jnana-yoga.md), [niṣṭhā](../terms/nistha.md), [naiṣkarmya](../terms/naiskarmya.md), [yajña](../terms/yajna.md), [lokasaṃgraha](../terms/lokasangraha.md), [guṇa](../terms/guna.md), [kāma](../terms/kama.md), [ahaṅkāra](../terms/ahankara.md), [svadharma](../terms/svadharma.md) · concepts: [The twofold commitment (dvividhā niṣṭhā): jñāna-yoga and karma-yoga](../concepts/twofold-nistha.md), [Action without attachment to its fruit](../concepts/niskama-karma.md), [The wheel of sacrifice (yajña-cakra)](../concepts/yajna-cakra.md), [Holding the world together (loka-saṃgraha)](../concepts/lokasangraha.md), [Desire (and anger) as the enemy (BhG 3.36–43)](../concepts/kama-as-the-enemy.md), [The guṇas as the doers of action](../concepts/gunas-as-agents.md), [The hierarchy of senses, mind, understanding and what is beyond them](../concepts/senses-mind-intellect-hierarchy.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Prajāpati (as teacher)](../teachers/prajapati.md), [Janaka of Videha](../teachers/janaka.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### ch4 <a id="tea-bhagavad-gita-ch4"></a>
 `text-verified` · confidence high
@@ -8453,4 +8453,4 @@ _Notes: Chapter titles are the traditional colophon titles (they vary slightly b
 
 - 2026-09-29 text-locate: confirmed — catalog:GRETIL-dev:bhagavadgita, local:sources_raw/DharmicData/Mahabharata/mahabharata_book_6.json (BORI Critical Edition text) 6.23.1 dharmakṣetre ... ; 6.40.78 yatra yogeśvaraḥ ...; 6.22/6.41 are battle narrative, local:sources_raw/gita/data/verse.json (701 entries incl. extra 13.0 verse), https:/ — CE Bhīṣmaparvan 23–40 holds exactly 700 verses, starting at dharmakṣetre and ending at yatra yogeśvaraḥ; the local vulgate corpus has 701 with the extra verse heading ch. 13, as the entry says. Dating accounts kept as entered (scholarly range is within published estimates).
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._

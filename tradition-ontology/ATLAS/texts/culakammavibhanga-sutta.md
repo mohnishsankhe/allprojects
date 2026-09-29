@@ -41,4 +41,4 @@ terms: [kamma](../terms/kamma.md), [vipāka](../terms/vipaka.md), [kammassaka](.
 _Notes: SuttaCentral uid mn135; Mahāsaṅgīti title 'Cūḷakammavibhaṅgasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

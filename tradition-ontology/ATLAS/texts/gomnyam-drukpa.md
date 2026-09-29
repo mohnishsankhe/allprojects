@@ -16,4 +16,4 @@ Mañjuśrīmitra's last testament to Śrī Siṃha (title from memory; contents 
 _Notes: Part of the 'last testaments' ('das rjes) collected in the Vima Nyingthig (from memory)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

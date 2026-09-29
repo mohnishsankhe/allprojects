@@ -24,10 +24,10 @@ It is impossible that one accomplished in view should treat any formation as per
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, dispute_
 
-concepts: [The possible and the impossible](../concepts/possible-and-impossible.md) · disputes: `dsp:women-caste-liberation`
+concepts: [The possible and the impossible](../concepts/possible-and-impossible.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 _Notes: SuttaCentral uid mn115; Mahāsaṅgīti title 'Bahudhātukasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

@@ -13,4 +13,4 @@ Disciple of the Buddha, foremost of those who dwell in peace (araṇāvihārin);
 _Notes: AN 1 Etadaggavagga (the 'foremost' lists)_
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

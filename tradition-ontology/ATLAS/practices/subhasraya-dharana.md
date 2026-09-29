@@ -1,6 +1,6 @@
 # Holding the mind on the auspicious support (VP 6.7)
 
-`prc:subhasraya-dharana` · `skeleton` · confidence high
+`prc:subhasraya-dharana` · `sourced` · confidence high
 
 **Category:** sense-withdrawal-concentration
 **Convergence:** 1 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -12,4 +12,8 @@ With breath and senses mastered, fix the mind on Viṣṇu's form as the ground 
 **Sequences:** [Keśidhvaja's yoga (VP 6.7)](../paths/visnu-purana-yoga.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:visnu-purana:6.7.75-90, tea:visnu-purana:6.7.91-92 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

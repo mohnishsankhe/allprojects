@@ -44,4 +44,4 @@ _none recorded_
 _Notes: Low confidence throughout: the tradition is known through a few published manuscripts and recent scholarship; its practices are recorded here in summary only. 'Tantric Theravāda' is a contested scholars' label, not the tradition's own._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._

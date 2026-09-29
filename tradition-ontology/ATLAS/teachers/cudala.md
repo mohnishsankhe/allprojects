@@ -1,6 +1,6 @@
 # Cūḍālā
 
-`tch:cudala` · `skeleton` · confidence high
+`tch:cudala` · `sourced` · confidence high
 
 **Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Historicity:** legendary
@@ -10,4 +10,8 @@ Queen of Mālava who attained self-knowledge by her own inquiry and powers throu
 **Realization — the tradition's account:** Through daily inquiry into what the self is she found the Self and 'shone' so that her husband remarked on her changed radiance (MU 6.82-83 'cūḍālā-prabodha', 'cūḍālātmalābha').
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — MU 6.81.12 'mālavānāṃ pure śrīmāñ śikhidhvaja' (queen of Mālava), cūḍālāprabodha 6.82, kumbha 6.90, madanikā 6.110.36.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

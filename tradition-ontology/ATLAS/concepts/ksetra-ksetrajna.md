@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [The twenty-fifth and the twenty-sixth](twenty-fifth-and-twenty-sixth.md) (analytic (Sāṃkhya enumeration)): the knower of the field corresponds to the Mokṣadharma's twenty-fifth ('the knower is the twenty-fifth', 12.294.38) — rests on [13.2-3](../texts/bhagavad-gita.md#tea-bhagavad-gita-13-2-3), [12.294](../texts/moksadharma.md#tea-moksadharma-12-294)
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

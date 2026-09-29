@@ -19,4 +19,4 @@ Wearing, usually set in a ring or amulet touching the skin, the gem of a planet 
 _Notes: The planet–gem assignment is from later texts; Varāhamihira's gem chapters judge gems by their own qualities._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

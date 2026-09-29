@@ -53,7 +53,7 @@ One-practice samādhi is practising a straight mind at all times; the deluded wh
 
 _level: bridging · standpoint: polemical · path: meditation · stage: all · types: practice, dispute_
 
-practices: [One-practice samādhi (yixing sanmei)](../practices/yixing-sanmei.md) · obstacles: [Attachment to stillness (viewing mind, viewing purity, sitting motionless)](../obstacles/attachment-to-stillness.md) · disputes: `dsp:sudden-or-gradual`
+practices: [One-practice samādhi (yixing sanmei)](../practices/yixing-sanmei.md) · obstacles: [Attachment to stillness (viewing mind, viewing purity, sitting motionless)](../obstacles/attachment-to-stillness.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### 17.1 <a id="tea-platform-sutra-dunhuang-17-1"></a>
 `skeleton` · confidence high
@@ -136,4 +136,4 @@ concepts: [Buddha-nature in Chan, Seon and Zen](../concepts/buddha-nature-chan.m
 _Notes: Same work as src:platform-sutra in an earlier recension; kept as a separate id because the prepared segments and the wording differ (e.g. Huineng's verse 'buddha-nature is always pure' instead of 'originally there is not one thing')._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

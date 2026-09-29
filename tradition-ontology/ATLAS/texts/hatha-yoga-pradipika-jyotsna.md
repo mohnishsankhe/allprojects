@@ -38,8 +38,8 @@ On who may receive haṭha: it is to be given to one who has conquered the sense
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: teacher-transmission, ethics_
 
-terms: [adhikāra](../terms/adhikara.md) · concepts: [Who may practise haṭha (adhikāra)](../concepts/eligibility-for-hatha.md), [Secrecy and the testing of the disciple](../concepts/secrecy-and-testing.md) · teachers: [Brahmānanda (author of the Jyotsnā)](../teachers/brahmananda-jyotsna.md), [Yājñavalkya](../teachers/yajnavalkya.md), [Sureśvara](../teachers/suresvara.md) · disputes: `dsp:women-caste-liberation`
+terms: [adhikāra](../terms/adhikara.md) · concepts: [Who may practise haṭha (adhikāra)](../concepts/eligibility-for-hatha.md), [Secrecy and the testing of the disciple](../concepts/secrecy-and-testing.md) · teachers: [Brahmānanda (author of the Jyotsnā)](../teachers/brahmananda-jyotsna.md), [Yājñavalkya](../teachers/yajnavalkya.md), [Sureśvara](../teachers/suresvara.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._

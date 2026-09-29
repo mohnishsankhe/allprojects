@@ -46,8 +46,8 @@ The unconscious māyā and karma cannot organize themselves to give each soul it
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: intermediate · types: ultimate, dispute_
 
-terms: [pati](../terms/pati.md), [nimitta-kāraṇa](../terms/nimitta-karana.md) · teachers: [Sadyojyoti](../teachers/sadyojyoti.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [pati](../terms/pati.md), [nimitta-kāraṇa](../terms/nimitta-karana.md) · teachers: [Sadyojyoti](../teachers/sadyojyoti.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

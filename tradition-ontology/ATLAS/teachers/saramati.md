@@ -13,4 +13,4 @@ Indian master to whom the Chinese tradition (Fazang and others) attributes the R
 _Notes: The Tibetan tradition attributes the RGV to Maitreya and Asaṅga; both attributions recorded on the source._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

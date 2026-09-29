@@ -17,4 +17,4 @@
 _Notes: The Kiraṇa passage teaches the practice without using the word._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._

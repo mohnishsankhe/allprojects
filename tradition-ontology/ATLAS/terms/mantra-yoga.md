@@ -16,4 +16,4 @@
 **Related:** [haṭha](hatha.md), [layayoga](laya-yoga.md), [rājayoga](raja-yoga.md)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:11 IST._

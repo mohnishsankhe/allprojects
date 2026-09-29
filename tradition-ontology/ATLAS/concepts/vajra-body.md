@@ -15,4 +15,4 @@
 - part-of → [The centres (cakra, ādhāra)](cakras.md): four wheels in this system
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

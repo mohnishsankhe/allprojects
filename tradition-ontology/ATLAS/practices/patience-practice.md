@@ -12,4 +12,4 @@ Bearing harm without anger by not holding the notions of self, being, soul or pe
   - [Saddharmapuṇḍarīka-sūtra](../texts/saddharmapundarika.md) — ref: ch. 20; rests_on: ["tea:saddharmapundarika:20"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

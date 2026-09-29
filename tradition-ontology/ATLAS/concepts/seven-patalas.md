@@ -1,6 +1,6 @@
 # The seven netherworlds
 
-`cpt:seven-patalas` · `skeleton` · confidence high
+`cpt:seven-patalas` · `sourced` · confidence high
 
 **Category:** cosmology-time
 
@@ -13,4 +13,8 @@
 - part-of → [The fourteen worlds (caturdaśa bhuvana)](fourteen-worlds.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:5.24.7, tea:visnu-purana:2.5.2 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

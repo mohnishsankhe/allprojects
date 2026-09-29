@@ -11,4 +11,4 @@ The sixth schismatic in Śvetāmbara lists, who in debate asserted three categor
 _Notes: The identification with Vaiśeṣika is the Jain tradition's account (reported_by_opponent from the Vaiśeṣika point of view)._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

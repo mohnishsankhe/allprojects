@@ -12,4 +12,4 @@ Deceit, longing for future reward and wrong view, which disqualify a vow-holder 
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 7.18; rests_on: ["tea:tattvartha-sutra:7.18"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

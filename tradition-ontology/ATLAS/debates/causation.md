@@ -1,6 +1,6 @@
 # Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?
 
-`dsp:causation` · `skeleton` · confidence high
+`dsp:causation` · `skeleton` · confidence moderate
 
 **Coverage:** G2
 
@@ -101,4 +101,4 @@ P1: Śaṅkara uses the language of transformation for the empirical world and n
 _Notes: Scholarly observation (metadata only): the term vivarta is used by Bhartṛhari before its Advaita use._
 
 ---
-_Contributed by: skeleton:U50-debates. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U50-debates. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # The heart-lotus meditation taught to Uddhava (BhP 11.14.32-46)
 
-`pth:bhagavata-hrt-padma-dhyana` · `skeleton` · confidence high
+`pth:bhagavata-hrt-padma-dhyana` · `sourced` · confidence high
 
 **Lineage:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
 **Sources:** 
@@ -20,4 +20,8 @@
 
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:11.14.32-46 — Stage refs located: BhP 11.14.32-33, 34-35, 36, 42, 43, 44, 45, 46. All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

@@ -38,4 +38,4 @@ concepts: [Combination of knowledge and works (jñāna-karma-samuccaya)](../conc
 _Notes: All knowledge of this work comes from opponents (reported_by_opponent). A commentary on the Kaṭha Upaniṣad is also reported (low confidence)._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

@@ -405,7 +405,7 @@ Mind and mental factors arise through four conditions, the two attainments throu
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: karma-liberation, dispute, world-fate_
 
-terms: [pratyaya](../terms/pratyaya.md) · concepts: [Six causes, four conditions, five results](../concepts/six-causes-four-conditions-five-results.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [pratyaya](../terms/pratyaya.md) · concepts: [Six causes, four conditions, five results](../concepts/six-causes-four-conditions-five-results.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 3.1-3 <a id="tea-abhidharmakosa-3-1-3"></a>
 `skeleton` · confidence high
@@ -906,7 +906,7 @@ Belief that Īśvara and the like are the cause of the world arises from the err
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-terms: [dṛṣṭi](../terms/drsti.md) · obstacles: [The five (wrong) views](../obstacles/five-views.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [dṛṣṭi](../terms/drsti.md) · obstacles: [The five (wrong) views](../obstacles/five-views.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 5.9 <a id="tea-abhidharmakosa-5-9"></a>
 `skeleton` · confidence moderate
@@ -1496,4 +1496,4 @@ terms: [saddharma](../terms/saddharma.md) · concepts: [The two aspects of the t
 
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._

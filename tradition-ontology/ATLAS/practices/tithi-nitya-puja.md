@@ -12,4 +12,4 @@ Worship of the Nityā presiding over the current lunar day, the Nityās being th
   - [Tantrarāja Tantra](../texts/tantraraja-tantra.md) — ref: nityas-and-time; rests_on: ["tea:tantraraja-tantra:nityas-and-time"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._

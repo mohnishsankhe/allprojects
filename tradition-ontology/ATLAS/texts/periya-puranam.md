@@ -92,7 +92,7 @@ Nantaṉār, an outcaste, was admitted to Śiva's presence at Chidambaram after 
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics, karma-liberation_
 
-teachers: [Nantaṉār (Tirunāḷaippōvār)](../teachers/nantanar.md) · disputes: `dsp:women-caste-liberation`
+teachers: [Nantaṉār (Tirunāḷaippōvār)](../teachers/nantanar.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### tirunanacampantar-puranam <a id="tea-periya-puranam-tirunanacampantar-puranam"></a>
 `skeleton` · confidence high
@@ -114,4 +114,4 @@ practices: [Caryā (Śaiva temple service)](../practices/saiva-carya.md) · teac
 
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

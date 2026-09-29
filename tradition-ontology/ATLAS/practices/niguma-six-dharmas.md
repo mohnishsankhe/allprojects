@@ -12,4 +12,4 @@ The Shangpa counterpart of the six yogas (inner heat, illusory body, dream, clea
 **Sequences:** [The five golden dharmas of the Shangpa (the tree)](../paths/shangpa-five-golden-dharmas.md)
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

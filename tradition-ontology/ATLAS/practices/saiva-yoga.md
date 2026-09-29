@@ -12,10 +12,10 @@ Inner worship and meditation on Śiva: the Āgamas' six-limbed yoga (breath cont
 **Sources:** 
   - [Civañāṉa Cittiyār](../texts/sivananasiddhiyar.md) — ref: cupakkam.8; rests_on: ["tea:sivananasiddhiyar:cupakkam.8/3"]
   - [Tirumantiram](../texts/tirumantiram.md) — ref: tantra 3; rests_on: ["tea:tirumantiram:tantra.3"]
-**Sequences:** `pth:saiva-siddhanta-four-padas`
+**Sequences:** [The four pādas of Śaiva Siddhānta (caryā, kriyā, yoga, jñāna) and their fruits](../paths/saiva-siddhanta-four-padas.md)
 
 ## The texts' own warnings
 - The powers that arise from yoga are not the goal; only knowledge by grace gives final release. — [Civañāṉa Cittiyār](../texts/sivananasiddhiyar.md) cupakkam.8
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

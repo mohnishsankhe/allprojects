@@ -44,7 +44,7 @@ How many means of knowledge are there? 'Fivefold is the means of knowledge': per
 
 _level: unmarked · standpoint: analytic · path: general · stage: all · types: consciousness-mind_
 
-terms: [pratyakṣa](../terms/pratyaksa.md), [arthāpatti](../terms/arthapatti.md) · concepts: [Means of valid knowledge (pramāṇa)](../concepts/means-of-knowledge.md) · teachers: [Prabhākara Miśra](../teachers/prabhakara.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [pratyakṣa](../terms/pratyaksa.md), [arthāpatti](../terms/arthapatti.md) · concepts: [Means of valid knowledge (pramāṇa)](../concepts/means-of-knowledge.md) · teachers: [Prabhākara Miśra](../teachers/prabhakara.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 6/2 <a id="tea-prakaranapancika-6-2"></a>
 `skeleton` · confidence high
@@ -64,7 +64,7 @@ The relation of word and meaning is not made by a person; it is known from the b
 
 _level: unmarked · standpoint: analytic · path: sound · stage: all · types: sound-language, teacher-transmission_
 
-terms: [vṛddha-vyavahāra](../terms/vrddha-vyavahara.md), [autpattika-sambandha](../terms/autpattika-sambandha.md) · concepts: [The original relation of word and meaning](../concepts/autpattika-sambandha.md), [Anvitābhidhāna (expression of the connected)](../concepts/anvitabhidhana.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [vṛddha-vyavahāra](../terms/vrddha-vyavahara.md), [autpattika-sambandha](../terms/autpattika-sambandha.md) · concepts: [The original relation of word and meaning](../concepts/autpattika-sambandha.md), [Anvitābhidhāna (expression of the connected)](../concepts/anvitabhidhana.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 7/2 <a id="tea-prakaranapancika-7-2"></a>
 `skeleton` · confidence high
@@ -73,7 +73,7 @@ There is no proof that everything arises or perishes at one time; things arise a
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate, dispute_
 
-concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Creation and dissolution of the world](../concepts/creation-and-dissolution.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Was the world created, and does it undergo total dissolution?](../debates/creation-and-dissolution.md)
+concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Creation and dissolution of the world](../concepts/creation-and-dissolution.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Was the world created, and does it undergo total dissolution?](../debates/creation-and-dissolution.md)
 
 ### 8 <a id="tea-prakaranapancika-8"></a>
 `skeleton` · confidence high
@@ -102,7 +102,7 @@ One who, troubled by the sorrows of saṃsāra and without longing even for the 
 
 _level: conventional · standpoint: seeker · path: action, knowledge · stage: advanced (mumukṣu) · types: karma-liberation, practice_
 
-concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [Obligatory, occasional, desire-prompted and prohibited acts](../concepts/classification-of-acts.md) · practices: [Self-knowledge supported by calm, restraint and celibacy (Prābhākara)](../practices/atmajnana-sama-dama.md) · obstacles: [Adharma / sin (pāpa)](../obstacles/adharma.md), [Bondage through desire-prompted acts](../obstacles/kamya-karma-bondage.md) · disputes: `dsp:works-knowledge-grace`
+concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [Obligatory, occasional, desire-prompted and prohibited acts](../concepts/classification-of-acts.md) · practices: [Self-knowledge supported by calm, restraint and celibacy (Prābhākara)](../practices/atmajnana-sama-dama.md) · obstacles: [Adharma / sin (pāpa)](../obstacles/adharma.md), [Bondage through desire-prompted acts](../obstacles/kamya-karma-bondage.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 8/4 <a id="tea-prakaranapancika-8-4"></a>
 `skeleton` · confidence high
@@ -115,4 +115,4 @@ concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md
 
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._

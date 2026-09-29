@@ -14,4 +14,4 @@
 - contrasts-with → `cpt:vivartavada`: Advaita's apparent transformation (the Advaita account) — rests on [16](../texts/samkhya-karika.md#tea-samkhya-karika-16), [6.52](../texts/samkhya-sutra.md#tea-samkhya-sutra-6-52)
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._

@@ -367,7 +367,7 @@
    },
    {
     "lineage": "lin:advaita-vedanta",
-    "position": "Advaita is not Buddhism: Śaṅkara refutes all three Buddhist doctrines — the realist, the idealist and the void — and dismisses the void as contradicted by every means of knowledge; against the idealist he upholds external objects and the undeniable, self-established witness; memory proves one enduring knower. The non-dual reality free of knower, known and knowing 'was not spoken by the Buddha': the Buddhist denial of external objects is only near to non-duality, which is to be known from the Upaniṣads alone. Brahman is being (sat) and consciousness, the self that no one can deny — not a void and not a momentary cognition.",
+    "position": "Advaita is not Buddhism: Śaṅkara refutes all three Buddhist doctrines — the realist, the idealist and the void — and dismisses the void as opposed by every means of knowledge; against the idealist he upholds external objects and the undeniable, self-established witness; memory proves one enduring knower. The non-dual reality free of knower, known and knowing 'was not spoken by the Buddha': the Buddhist denial of external objects is only near to non-duality, which is to be known from the Upaniṣads alone. Brahman is being (sat) and consciousness, the self that no one can deny — not a void and not a momentary cognition.",
     "texts": [
      {
       "source": "src:brahma-sutra-bhasya-sankara",
@@ -3628,10 +3628,27 @@
    "G"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "cited refs located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 1.4.20; 1.4.25",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.3",
+      "local:sources_raw/dcs/corpus/GRETIL (Mīmāṃsāsūtra 1.3.1)"
+     ],
+     "result": "confirmed",
+     "note": "Purāṇic sides located (BhP 1.4.20, 1.4.25, 12.13.15; Matsya 53.3); the Mīmāṃsā side's smṛti-adhikaraṇa located at MS 1.3.1 'dharmasya śabdamūlatvād aśabdam anapekṣaṃ syāt' (GRETIL, with Śabara).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -4677,10 +4694,25 @@
    "G"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "cited refs located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text)"
+     ],
+     "result": "confirmed",
+     "note": "All cited verses located (BhP 1.2.6, 1.2.11, 1.3.28, 1.3.30-33, 2.9.32-35, 3.29.13, 11.2.42, 11.14.14, 11.14.20, 12.5.11, 12.13.12). The school positions are summarized at the level of each school's known stance, not checked against the commentaries.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -4794,10 +4826,28 @@
    "G"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by dsp:bhakti-jnana-precedence"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/prepared/astavakra-gita/segments.jsonl (GRETIL e-text)",
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press)"
+     ],
+     "result": "confirmed",
+     "note": "All cited verses verified: BhP 11.14.20-21, 3.25.33 (vulgate), 3.29.13, 11.19.3 ('jñānī priyatamo 'to me'); AG 1.4, 1.15; AR 7.5.9, 3.4.45-47 (the lamp), 1.1.51; DBhP 7.37.26-27.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -5961,10 +6011,27 @@
    "G"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "cited refs located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 1.3.24",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 3.17-18",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_agnipurANa.txt (R. Mitra, Bibl. Indica) 16.1-4"
+     ],
+     "result": "confirmed",
+     "note": "Purāṇic side located (BhP 1.3.24; VP 3.17.41-3.18.24; AgP 16.1-4). The Jayadeva and Buddhist sides are other units' and were not re-checked here.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -7626,7 +7693,7 @@
   "notes": "Scholarly observation (metadata only): the term vivarta is used by Bhartṛhari before its Advaita use.",
   "verification": {
    "level": "skeleton",
-   "confidence": "high",
+   "confidence": "moderate",
    "unverified": false,
    "checks": []
   },
@@ -8791,10 +8858,27 @@
    "G"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by dsp:daiva-or-paurusa"
+     ],
+     "evidence": [
+      "local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh13.json (BORI critical edition)",
+      "catalog:SC:dn2 \"Sāmaññaphalasutta\"",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Mokṣopāya side verified (2.4.8-18, 2.6.1-6, 2.8.1-5; beings became Viṣṇu and others by effort, 2.4.14, 2.7.31). The low-confidence epic side is confirmed at MBh CE 13.6.7-8, the seed-and-field analogy of the Vasiṣṭha-Brahmā dialogue. The Ājīvika report is at DN 2 (dn2:20.6, 'niyatisaṅgatibhāvapariṇatā').",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "notes": "The epic side's reference is recalled with low confidence; the Ājīvika side is owned by U33.",
   "provenance": {
@@ -10638,10 +10722,27 @@
    "G"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "cited refs located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 10.75-76",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_garuDapurANa.txt (Venkateshwara ed.) 2.5.84-147",
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 3.30.24"
+     ],
+     "result": "confirmed",
+     "note": "All three positions located: MkP 10.75-76 (twelve days, then the iron city); GP 2.5.84-86 and 2.5.141-147 (a year, sixteen cities, 247 yojanas a day over 86,000); BhP 3.30.24 (99,000 yojanas in two or three muhūrtas).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -14226,10 +14327,27 @@
    "G"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "cited refs located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/peterFreund/purANam/padma_purana_III.md 236.18-21",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.68-69",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_garuDapurANa.txt (Venkateshwara ed.) 3.1.50-56"
+     ],
+     "result": "confirmed",
+     "note": "All sides located, including the Padma, which the unit could only cite second-hand: Padma Uttarakhaṇḍa 236.18-21 (local peterFreund e-text) gives exactly the six-per-guṇa scheme; Matsya 53.68-69; GP 3.1.50-56; KūP 1.11.279.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -18560,7 +18678,7 @@
   "notes": "Owned by U50. Cārvāka, Ajñāna and Pakudha sides (as reported by opponents) were contributed by U33 and are included verbatim. The Pudgalavāda middle position is treated fully in dsp:pudgala (U38).",
   "verification": {
    "level": "skeleton",
-   "confidence": "high",
+   "confidence": "moderate",
    "unverified": false,
    "checks": []
   },
@@ -18944,8 +19062,314 @@
  },
  {
   "id": "dsp:isvara",
-  "question": "Is Īśvara real, needed, or a special puruṣa?",
+  "question": "Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?",
+  "coverage_ref": "G10",
+  "coverage": [
+   "G",
+   "B1"
+  ],
   "sides": [
+   {
+    "lineage": "lin:nyaya",
+    "position": "There is an all-knowing, imperishable maker (Īśvara): the world is an effect, like a pot, so it has an intelligent maker; the combination of atoms, the support of the world, the arts and the Veda's authority require him; he brings about the fruit of human effort according to karma (Udayana answers five objections in five clusters).",
+    "texts": [
+     {
+      "source": "src:nyaya-kusumanjali",
+      "ref": "stabaka 1; 5.1"
+     },
+     {
+      "source": "src:nyaya-sutra",
+      "ref": "4.1.19-21"
+     },
+     {
+      "source": "src:nyaya-bhasya",
+      "ref": "4.1.21"
+     },
+     {
+      "source": "src:tattvacintamani",
+      "ref": "īśvarānumāna"
+     }
+    ],
+    "rests_on": [
+     "tea:nyaya-kusumanjali:5.1",
+     "tea:nyaya-kusumanjali:1.five-vipratipatti",
+     "tea:nyaya-kusumanjali:1.alaukika-hetu",
+     "tea:nyaya-sutra:4.1.19-21",
+     "tea:nyaya-bhasya:4.1.21",
+     "tea:tattvacintamani:anumana.isvaranumana",
+     "tea:nyayasiddhantamuktavali:isvara"
+    ]
+   },
+   {
+    "lineage": "lin:vaisesika",
+    "position": "At the end of Brahmā's life Maheśvara, wishing to give rest to beings wearied by transmigration, dissolves the world, and at his will creation begins again from the atoms according to the unseen merit of souls.",
+    "texts": [
+     {
+      "source": "src:padarthadharmasangraha",
+      "ref": "sṛṣṭi-saṃhāra"
+     }
+    ],
+    "rests_on": [
+     "tea:padarthadharmasangraha:srsti-samhara"
+    ]
+   },
+   {
+    "lineage": "lin:patanjala-yoga",
+    "position": "Īśvara is a special puruṣa untouched by afflictions, actions, their fruition and residues, in whom the seed of omniscience is unsurpassed; devotion to him (praṇidhāna) brings samādhi near, since won over by it he favours the yogin — a model and a support, not the world's maker.",
+    "texts": [
+     {
+      "source": "src:yoga-sutra",
+      "ref": "1.23-26"
+     },
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "1.23-25"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-sutra:1.23",
+     "tea:yoga-sutra:1.24",
+     "tea:yoga-sutra:1.25",
+     "tea:yoga-bhasya:1.23",
+     "tea:yoga-bhasya:1.24",
+     "tea:yoga-bhasya:1.25"
+    ],
+    "disputes": [
+     "dsp:yoga-samkhya-isvara"
+    ]
+   },
+   {
+    "lineage": "lin:samkhya",
+    "position": "Īśvara is not established: whether free or bound he could not create; unconscious prakṛti acts for puruṣa's release as unconscious milk flows for the calf; the fruit of action comes from karma without a governor.",
+    "texts": [
+     {
+      "source": "src:samkhya-sutra",
+      "ref": "1.92-99; 5.2-12"
+     },
+     {
+      "source": "src:samkhya-karika",
+      "ref": "57"
+     },
+     {
+      "source": "src:samkhya-karika-bhasya-gaudapada",
+      "ref": "61"
+     }
+    ],
+    "rests_on": [
+     "tea:samkhya-sutra:1.92",
+     "tea:samkhya-sutra:1.93-99",
+     "tea:samkhya-sutra:5.2-12",
+     "tea:samkhya-sutra:6.64",
+     "tea:samkhya-karika:57",
+     "tea:samkhya-karika-bhasya-gaudapada:61"
+    ],
+    "disputes": [
+     "dsp:isvara-within-samkhya",
+     "dsp:can-unconscious-pradhana-create"
+    ]
+   },
+   {
+    "lineage": "lin:mimamsa",
+    "position": "There is no creator: no time without action is known; with no beings yet there would be none to pity, and a compassionate creator would make only happy beings; the Veda needs no author; in the rite the sacrifice, not the deity, is principal, and dharma itself yields the fruit.",
+    "texts": [
+     {
+      "source": "src:slokavarttika",
+      "ref": "sambandhākṣepaparihāra 42-55"
+     },
+     {
+      "source": "src:mimamsa-sutra",
+      "ref": "9.1.6-9"
+     },
+     {
+      "source": "src:prakaranapancika",
+      "ref": "ch. 7"
+     }
+    ],
+    "rests_on": [
+     "tea:slokavarttika:sambandhaksepaparihara.42-47",
+     "tea:slokavarttika:sambandhaksepaparihara.52-55",
+     "tea:mimamsa-sutra:9.1.9",
+     "tea:sabara-bhasya:9.1.9",
+     "tea:prakaranapancika:7/2",
+     "tea:brahma-sutra:3.2.40"
+    ],
+    "disputes": [
+     "dsp:creation-and-dissolution"
+    ]
+   },
+   {
+    "lineage": "lin:advaita-vedanta",
+    "position": "Brahman as Lord is the cause of the world's origin, maintenance and dissolution, known from scripture alone — the Veda is breathed out by him; he is not partial or cruel, since like rain he gives according to the seeds of beings' karma; the fruit of works comes from him. (Īśvara belongs to Brahman as related to adjuncts.)",
+    "texts": [
+     {
+      "source": "src:brahma-sutra",
+      "ref": "1.1.2-3; 2.1.34; 3.2.38-41"
+     },
+     {
+      "source": "src:brahma-sutra-bhasya-sankara",
+      "ref": "1.1.3; 2.1.34"
+     }
+    ],
+    "rests_on": [
+     "tea:brahma-sutra:1.1.2",
+     "tea:brahma-sutra:1.1.3",
+     "tea:brahma-sutra-bhasya-sankara:1.1.3",
+     "tea:brahma-sutra:2.1.34",
+     "tea:brahma-sutra-bhasya-sankara:2.1.34",
+     "tea:brahma-sutra:3.2.38",
+     "tea:brahma-sutra-bhasya-sankara:1.1.12"
+    ]
+   },
+   {
+    "lineage": "lin:visistadvaita",
+    "position": "Inference cannot prove a single omniscient maker of the world; Brahman, the Lord with infinite auspicious qualities, qualified by souls and matter, is known only from scripture (śāstrayonitvāt).",
+    "texts": [
+     {
+      "source": "src:sribhasya",
+      "ref": "1.1.3"
+     },
+     {
+      "source": "src:siddhitraya",
+      "ref": "Īśvarasiddhi"
+     },
+     {
+      "source": "src:tattvamuktakalapa",
+      "ref": "Nāyaka section"
+     }
+    ],
+    "rests_on": [
+     "tea:sribhasya:1.1.3",
+     "tea:siddhitraya:isvarasiddhi",
+     "tea:tattvamuktakalapa:3"
+    ]
+   },
+   {
+    "lineage": "lin:dvaita",
+    "position": "Viṣṇu alone is the independent reality from whom come creation, maintenance, dissolution, control, knowledge, ignorance, bondage and release.",
+    "texts": [
+     {
+      "source": "src:brahma-sutra-bhasya-madhva",
+      "ref": "1.1.2"
+     },
+     {
+      "source": "src:tattvasankhyana",
+      "ref": "10-11"
+     }
+    ],
+    "rests_on": [
+     "tea:brahma-sutra-bhasya-madhva:1.1.2",
+     "tea:tattvasankhyana:10-11"
+    ]
+   },
+   {
+    "lineage": "lin:saiva-siddhanta",
+    "position": "The world undergoes origination, maintenance and dissolution and so has an agent; unconscious māyā and karma cannot organize themselves to give each soul its due, so an omniscient Lord is required.",
+    "texts": [
+     {
+      "source": "src:sivananabodham",
+      "ref": "sūtra 1"
+     },
+     {
+      "source": "src:naresvarapariksa",
+      "ref": "ch. 3"
+     }
+    ],
+    "rests_on": [
+     "tea:sivananabodham:1",
+     "tea:naresvarapariksa:3"
+    ]
+   },
+   {
+    "lineage": "lin:pramana-buddhist",
+    "position": "There is no permanent means of knowledge or permanent cause: what is permanent cannot produce effects successively; 'being an effect' does not prove a single intelligent maker of mountains and sprouts; the Blessed One is a means of knowledge by having become so, not as an eternal lord (Dharmakīrti, Śāntarakṣita, Ratnakīrti). Belief in Īśvara as cause arises from the error of a permanent self (Vasubandhu).",
+    "texts": [
+     {
+      "source": "src:pramanavarttika",
+      "ref": "1.9-10 (numbering as recorded)"
+     },
+     {
+      "source": "src:tattvasangraha",
+      "ref": "Īśvaraparīkṣā"
+     },
+     {
+      "source": "src:isvarasadhanadusana",
+      "ref": "whole"
+     },
+     {
+      "source": "src:abhidharmakosa",
+      "ref": "2.64"
+     },
+     {
+      "source": "src:bodhicaryavatara",
+      "ref": "9.119-126"
+     }
+    ],
+    "rests_on": [
+     "tea:pramanavarttika:1.9",
+     "tea:pramanavarttika:1.10",
+     "tea:tattvasangraha:isvarapariksa",
+     "tea:isvarasadhanadusana:1",
+     "tea:abhidharmakosa:2.64",
+     "tea:abhidharmakosa:5.8",
+     "tea:bodhicaryavatara:9.119-126"
+    ]
+   },
+   {
+    "lineage": "lin:theravada",
+    "position": "There is no god, no Brahmā, who makes this round of rebirths; only bare dhammas occur through the conjunction of conditions; the wheel of becoming is without a maker.",
+    "texts": [
+     {
+      "source": "src:visuddhimagga",
+      "ref": "chs. 17, 19"
+     }
+    ],
+    "rests_on": [
+     "tea:visuddhimagga:19/2",
+     "tea:visuddhimagga:17/3"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
+    "position": "The maker-god of the Nyāya-Vaiśeṣika cannot be: an unembodied maker cannot act, an embodied one would be limited; if he made the world, where was he before and what was his material? — obstinate fancies. Haribhadra: the doctrine that Īśvara is the maker can be accepted in a true sense — the soul that attains the highest perfection is 'Īśvara', and every soul is the 'maker' of its own condition through its karma; a world-creating Lord is refuted.",
+    "texts": [
+     {
+      "source": "src:aptapariksa",
+      "ref": "Īśvara-parīkṣā"
+     },
+     {
+      "source": "src:anyayogavyavacchedika",
+      "ref": "6"
+     },
+     {
+      "source": "src:adipurana-jinasena",
+      "ref": "ch. 4"
+     },
+     {
+      "source": "src:sastravartasamuccaya",
+      "ref": "stabaka 3"
+     }
+    ],
+    "rests_on": [
+     "tea:aptapariksa:isvara-pariksa",
+     "tea:anyayogavyavacchedika:6",
+     "tea:adipurana-jinasena:ch.4",
+     "tea:sastravartasamuccaya:stabaka-3"
+    ]
+   },
+   {
+    "lineage": "lin:upanisadic",
+    "position": "Some sages say inherent nature is the cause, others time — they are deluded; it is the greatness of God in the world; 'we have found him, the supreme great Lord of lords'.",
+    "texts": [
+     {
+      "source": "src:svetasvatara-upanisad",
+      "ref": "6.1-9"
+     }
+    ],
+    "rests_on": [
+     "tea:svetasvatara-upanisad:6.1-2",
+     "tea:svetasvatara-upanisad:6.7-9"
+    ]
+   },
    {
     "lineage": "lin:carvaka",
     "position": "(As reported) The only lord is the king known to the world; variety comes from own-nature.",
@@ -18962,7 +19386,8 @@
      "tea:sarvadarsanasangraha:1/4",
      "tea:sarvadarsanasangraha:1/7"
     ],
-    "party": "reported_by_opponent"
+    "party": "reported_by_opponent",
+    "contributed_by": "U33-sramana"
    },
    {
     "lineage": "lin:jainism",
@@ -18978,7 +19403,8 @@
     ],
     "rests_on": [
      "tea:sutrakrtanga:1.1.3.5-10"
-    ]
+    ],
+    "contributed_by": "U33-sramana"
    },
    {
     "lineage": "lin:early-buddhism",
@@ -18999,22 +19425,71 @@
     "rests_on": [
      "tea:bhuridatta-jataka:158-160",
      "tea:titthayatana-sutta:1-3"
-    ]
+    ],
+    "contributed_by": "U33-sramana"
    }
   ],
-  "notes": "U33 contribution; U50 owns the dispute.",
-  "coverage": [
-   "B1",
-   "G"
+  "historical_debates": [
+   {
+    "name": "The Nyāya–Buddhist exchange on proofs of the Lord (textual)",
+    "date": "c. 6th–11th c. CE (scholarly, approximate)",
+    "participants": [
+     "tch:uddyotakara",
+     "tch:dharmakirti",
+     "tch:santaraksita",
+     "tch:udayana",
+     "tch:ratnakirti"
+    ],
+    "accounts": "Nyāyavārttika on NS 4.1.19-21; Pramāṇavārttika (Pramāṇasiddhi); Tattvasaṅgraha (Īśvaraparīkṣā); Udayana's Nyāyakusumāñjali; Ratnakīrti's Īśvarasādhanadūṣaṇa.",
+    "outcome_by_tradition": "Each tradition holds its own arguments stand.",
+    "notes": "Written replies across generations; direct reply between particular works is not asserted."
+   }
   ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled: Nyāya-Vaiśeṣika, Vedānta and Śaiva Siddhānta affirm a Lord (by inference or by scripture), Yoga admits a special puruṣa for devotion but not as maker, and Sāṃkhya, Mīmāṃsā, the Buddhists and the Jains reject a creator.",
+   "detail": "A partial agreement cutting across the sides: Mīmāṃsā, Vedānta (BS 1.1.3; Śrībhāṣya 1.1.3) and the Buddhists concur that inference cannot establish a world-maker — for opposite ends. Haribhadra offers a Jain reinterpretation (the perfected soul as 'Īśvara').",
+   "tradition_objections": "Nyāya holds the inference sound (Kusumāñjali 5.1); the Buddhists, Jains, Mīmāṃsakas and Sāṃkhyas each give explicit refutations; Yoga's Īśvara is rejected by the non-theistic Sāṃkhya (see dsp:yoga-samkhya-isvara); Advaita places the Lord at the level of Brahman with adjuncts, which the theistic schools reject.",
+   "rests_on": [
+    "tea:nyaya-kusumanjali:5.1",
+    "tea:sribhasya:1.1.3",
+    "tea:brahma-sutra:1.1.3",
+    "tea:slokavarttika:sambandhaksepaparihara.42-47",
+    "tea:tattvasangraha:isvarapariksa",
+    "tea:samkhya-sutra:1.93-99",
+    "tea:yoga-sutra:1.24",
+    "tea:sastravartasamuccaya:stabaka-3"
+   ]
+  },
+  "candidate_readings": [
+   "P2-standpoint (Haribhadra's own): 'Īśvara is the maker' true in the sense that the perfected soul is Īśvara and each soul makes its own condition by karma — rejected by Nyāya, whose Lord is eternally free and the maker of the world, and it concedes no world-creator.",
+   "P3-path (Yoga): devotion to Īśvara as one of the means ('or', YS 1.23) for those of devotional temperament, without deciding creation — the non-theistic Sāṃkhya and the Buddhists do not accept an Īśvara even as an object of devotion.",
+   "P1-level (Advaita): the Lord is real at the empirical level (Brahman with adjuncts), transcended in the ultimate — rejected by the theistic Vedāntas and the Śaivas, for whom the Lord is ultimately real."
+  ],
+  "queue_ref": "RQ-U50-10",
+  "disputes": [
+   "dsp:isvara-within-samkhya",
+   "dsp:yoga-samkhya-isvara",
+   "dsp:creation-and-dissolution",
+   "dsp:omniscience",
+   "dsp:can-unconscious-pradhana-create",
+   "dsp:pasupata-isvara-karma",
+   "dsp:lord-only-efficient-cause"
+  ],
+  "notes": "Cārvāka, Jain (Sūtrakṛtāṅga) and early Buddhist (Bhūridatta Jātaka) sides contributed by U33 are included verbatim.",
   "verification": {
    "level": "skeleton",
    "confidence": "moderate",
    "unverified": false,
    "checks": []
   },
+  "alt_notes": [
+   "U33 contribution; U50 owns the dispute."
+  ],
   "provenance": {
    "units": [
+    "skeleton:U50-debates",
     "skeleton:U33-sramana"
    ],
    "phases": [
@@ -20066,10 +20541,25 @@
    "A6"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by dsp:jnana-karma-samuccaya"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press)"
+     ],
+     "result": "confirmed",
+     "note": "Both sides verified in the Rāma Gītā (objection 7.5.11-13, reply 7.5.14-23, the Taittirīya and Bṛhadāraṇyaka quotations at 7.5.21). Bhāskara's samuccaya position is standard, but it was not checked in his text (owned by U13).",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "notes": "A sub-debate of dsp:works-knowledge-grace (owned by U50); both sides are stated within the Rāma Gītā itself.",
   "coverage_ref": "A6",
@@ -21762,6 +22252,238 @@
   "provenance": {
    "units": [
     "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:kundalini-effort-grace",
+  "question": "Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?",
+  "coverage_ref": "G14",
+  "coverage": [
+   "G"
+  ],
+  "sides": [
+   {
+    "lineage": "lin:hatha-yoga",
+    "position": "Kuṇḍalinī sleeps at the mouth of the door of Brahman; to awaken her the yogin should practise the mudrās 'with every effort'; success comes only to one who practises — not from reading or wearing the garb. Yet the same text says the sleeping kuṇḍalī awakens 'by the grace of the guru', and the Gheraṇḍa has samādhi come through the guru's grace and one's own devotion. (Methods are restricted; summary only.)",
+    "texts": [
+     {
+      "source": "src:hatha-yoga-pradipika",
+      "ref": "1.65-66; 3.2-5; 4.10-12"
+     },
+     {
+      "source": "src:siva-samhita",
+      "ref": "4.14"
+     },
+     {
+      "source": "src:gheranda-samhita",
+      "ref": "7.1"
+     }
+    ],
+    "rests_on": [
+     "tea:hatha-yoga-pradipika:3.5",
+     "tea:hatha-yoga-pradipika:3.2-3",
+     "tea:hatha-yoga-pradipika:1.65-66",
+     "tea:hatha-yoga-pradipika:4.10-12",
+     "tea:siva-samhita:4.14",
+     "tea:gheranda-samhita:7.1"
+    ]
+   },
+   {
+    "lineage": "lin:natha",
+    "position": "Kuṇḍalinī, coiled above the bulb and closing the door of Brahman, is to be awakened with the fire of yoga by mind and breath (Gorakṣaśataka); but the Amaraughaśāsana, also ascribed to Gorakṣa, says liberation marked by the raising of kuṇḍalinī from the root is not liberation — it lies in innate (sahaja) absorption.",
+    "texts": [
+     {
+      "source": "src:goraksasataka",
+      "ref": "30-31"
+     },
+     {
+      "source": "src:amaraughasasana",
+      "ref": "46-54"
+     }
+    ],
+    "rests_on": [
+     "tea:goraksasataka:30-31",
+     "tea:amaraughasasana:46-53",
+     "tea:amaraughasasana:54"
+    ],
+    "disputes": [
+     "dsp:natha-effort-or-sahaja"
+    ]
+   },
+   {
+    "lineage": "lin:hatha-yoga",
+    "position": "The Amanaska: breath-control, mudrās, bandhas, mantra and meditation on objects are laborious and do not bring the mindless state; that arises without effort through the guru's grace and a gaze resting on nothing.",
+    "texts": [
+     {
+      "source": "src:amanaska",
+      "ref": "ch. 2"
+     }
+    ],
+    "rests_on": [
+     "tea:amanaska:2.topic.effortless",
+     "tea:amanaska:2.topic.critique"
+    ],
+    "disputes": [
+     "dsp:amanaska-critique-of-hatha",
+     "dsp:hatha-vs-raja"
+    ]
+   },
+   {
+    "lineage": "lin:kashmir-saivism",
+    "position": "Grace (śaktipāta) depends on the Lord's freedom alone — not on a balance of karma or the ripening of impurity — and is intense, middling or mild; for the highest grace a single hearing of the teacher's word suffices (anupāya); the śāmbhava, śākta and āṇava means correspond to lessening grace, the āṇava working through breath, bodily seals and places; grace may come by degrees or suddenly. 'The upsurge (udyama) is Bhairava'; 'the teacher is the means'. The signs of immersion are bliss, leaping up, trembling, sleep and whirling.",
+    "texts": [
+     {
+      "source": "src:tantraloka",
+      "ref": "1.168-170; ch. 2; 5.101-111; ch. 13"
+     },
+     {
+      "source": "src:siva-sutra",
+      "ref": "1.5; 2.6"
+     },
+     {
+      "source": "src:malinivijayottara-tantra",
+      "ref": "2.13-17; 11.35"
+     },
+     {
+      "source": "src:pratyabhijnahrdayam",
+      "ref": "18"
+     }
+    ],
+    "rests_on": [
+     "tea:tantraloka:13",
+     "tea:tantraloka:13.300-301",
+     "tea:tantraloka:2",
+     "tea:tantraloka:1.168-170",
+     "tea:siva-sutra:1.5",
+     "tea:siva-sutra:2.6",
+     "tea:tantraloka:5.101-111",
+     "tea:malinivijayottara-tantra:2.13-17",
+     "tea:malinivijayottara-tantra:11.35",
+     "tea:pratyabhijnahrdayam:18"
+    ],
+    "disputes": [
+     "dsp:cause-of-saktipata"
+    ]
+   },
+   {
+    "lineage": "lin:kaula",
+    "position": "In the Kaula path there are two: the made (kṛtaka) kuṇḍalī, impelled by seals and mantras, and the innate (sahaja), abiding in sameness; the guru's initiations by touch, sight and — rarest — by piercing (vedha) awaken the disciple; the yogin rouses kuṇḍalinī 'by the method learned from the guru'.",
+    "texts": [
+     {
+      "source": "src:akulavira-tantra",
+      "ref": "B 43-45"
+     },
+     {
+      "source": "src:kularnava-tantra",
+      "ref": "14.53-66"
+     },
+     {
+      "source": "src:sat-cakra-nirupana",
+      "ref": "50-54"
+     }
+    ],
+    "rests_on": [
+     "tea:akulavira-tantra:b.43-45",
+     "tea:kularnava-tantra:14.53-66",
+     "tea:sat-cakra-nirupana:50-54"
+    ]
+   },
+   {
+    "lineage": "lin:saiva-siddhanta",
+    "position": "Grace descends when the soul's two deeds come into balance and its mala has ripened; the Lord, not the mala, is the cause, and he acts through the guru in initiation.",
+    "texts": [
+     {
+      "source": "src:kirana-tantra",
+      "ref": "5.1-20"
+     },
+     {
+      "source": "src:matangavrtti",
+      "ref": "vidyāpāda"
+     },
+     {
+      "source": "src:sivananasiddhiyar",
+      "ref": "cupakkam 8"
+     }
+    ],
+    "rests_on": [
+     "tea:kirana-tantra:5.9-13",
+     "tea:matangavrtti:vidyapada",
+     "tea:sivananasiddhiyar:cupakkam.8"
+    ],
+    "disputes": [
+     "dsp:cause-of-saktipata"
+    ]
+   },
+   {
+    "lineage": "lin:patanjala-yoga",
+    "position": "The mind's activities are stilled by practice and dispassion; practice is effort toward stability, firm when long, uninterrupted and devoted; for those of intense ardour samādhi is near — or through devotion to Īśvara, who favours the yogin.",
+    "texts": [
+     {
+      "source": "src:yoga-sutra",
+      "ref": "1.12-23"
+     },
+     {
+      "source": "src:yoga-bhasya",
+      "ref": "1.23"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-sutra:1.12",
+     "tea:yoga-sutra:1.13",
+     "tea:yoga-sutra:1.14",
+     "tea:yoga-sutra:1.21",
+     "tea:yoga-sutra:1.23",
+     "tea:yoga-bhasya:1.23"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P4-stage",
+    "P3-path"
+   ],
+   "explanation": "The texts themselves pair effort and grace — the Haṭhapradīpikā has kuṇḍalinī wake 'by the guru's grace' and prescribes the mudrās 'with every effort' — and Abhinavagupta orders the means by the intensity of grace, from the means-less for the highest to bodily practice for the lesser (P4-stage; P3-path); whether effortful arousal is itself the way to liberation or is surpassed by the innate, effortless state remains not yet reconciled.",
+   "detail": "P4: Tantrāloka 1.168-170, ch. 2 and 13.300-301; Kulārṇava's graded initiations; the Akulavīra's made and innate kuṇḍalī. P3: the Yoga Sūtra's practice-and-dispassion and its alternative of devotion to Īśvara. Not reconciled: the Amaraughaśāsana's and the Amanaska's denial that kuṇḍalinī-raising is liberation against the haṭha texts' claim; the Trika's grace independent of karma against the Siddhānta's grace upon ripened mala (dsp:cause-of-saktipata).",
+   "tradition_objections": "The Amaraughaśāsana: liberation marked by kuṇḍalinī's movement is not liberation; the Amanaska: haṭha methods do not bring the mindless state; the Trika: grace is not caused by effort or by karma; the Haṭhapradīpikā: without practice there is no success.",
+   "rests_on": [
+    "tea:hatha-yoga-pradipika:3.2-3",
+    "tea:hatha-yoga-pradipika:3.5",
+    "tea:tantraloka:13.300-301",
+    "tea:tantraloka:1.168-170",
+    "tea:akulavira-tantra:b.43-45",
+    "tea:amaraughasasana:46-53",
+    "tea:amanaska:2.topic.critique",
+    "tea:hatha-yoga-pradipika:1.65-66"
+   ]
+  },
+  "candidate_readings": [
+   "P1-level: effort belongs to the practitioner's (conventional) side, grace to the Lord's side of one event — Śiva Sūtra 1.5 ('the upsurge is Bhairava') points this way; the haṭha texts do not frame it so, and the Siddhānta keeps the soul's ripening as the occasion.",
+   "P6-upaya: effortful methods as means for those who need them, discarded when the innate state dawns (Akulavīra, Amanaska) — rejected by the haṭha texts that make practice the cause of success."
+  ],
+  "queue_ref": "RQ-U50-14",
+  "disputes": [
+   "dsp:natha-effort-or-sahaja",
+   "dsp:amanaska-critique-of-hatha",
+   "dsp:hatha-vs-raja",
+   "dsp:cause-of-saktipata",
+   "dsp:does-diksa-liberate",
+   "dsp:mind-restraint-or-release"
+  ],
+  "notes": "Restricted practices (kuṇḍalinī-arousal methods, khecarī, śakticālana, vajrolī) are referenced by summary only. The recent Siddha Yoga claim of śaktipāta initiation (Muktananda) belongs to U52 and is not recorded here.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U50-debates"
    ],
    "phases": [
     "skeleton"
@@ -27800,8 +28522,280 @@
  },
  {
   "id": "dsp:number-of-pramanas",
-  "question": "How many means of knowledge are valid?",
+  "question": "How many means of valid knowledge (pramāṇa) are there?",
+  "coverage_ref": "G15",
+  "coverage": [
+   "G",
+   "B1"
+  ],
   "sides": [
+   {
+    "lineage": "lin:pramana-buddhist",
+    "position": "Two: perception and inference, because the object is twofold — the particular, capable of causal efficacy, grasped by perception, and the universal, grasped by inference; testimony and the rest are inference or not means of knowledge.",
+    "texts": [
+     {
+      "source": "src:pramanasamuccaya",
+      "ref": "1.2"
+     },
+     {
+      "source": "src:pramanavarttika",
+      "ref": "2.1-3 (numbering as recorded)"
+     },
+     {
+      "source": "src:nyayabindu",
+      "ref": "1.2-3"
+     }
+    ],
+    "rests_on": [
+     "tea:pramanasamuccaya:1.2",
+     "tea:pramanavarttika:2.1-3",
+     "tea:nyayabindu:1.2-3"
+    ]
+   },
+   {
+    "lineage": "lin:vaisesika",
+    "position": "Two: perception and inference; verbal testimony, comparison, presumption and the other proposed means are included in inference, since they work in the same way.",
+    "texts": [
+     {
+      "source": "src:padarthadharmasangraha",
+      "ref": "anumāna section"
+     },
+     {
+      "source": "src:vaisesika-sutra",
+      "ref": "9.18-19"
+     }
+    ],
+    "rests_on": [
+     "tea:padarthadharmasangraha:anumana-antarbhava",
+     "tea:vaisesika-sutra:9.18-19"
+    ]
+   },
+   {
+    "lineage": "lin:samkhya",
+    "position": "Three: perception, inference and reliable testimony, since all other means are included in these (presumption and inclusion in inference, absence in perception; tradition is testimony only if its speaker is reliable).",
+    "texts": [
+     {
+      "source": "src:samkhya-karika",
+      "ref": "4"
+     },
+     {
+      "source": "src:tattvakaumudi",
+      "ref": "on 5"
+     }
+    ],
+    "rests_on": [
+     "tea:samkhya-karika:4",
+     "tea:tattvakaumudi:5/2"
+    ]
+   },
+   {
+    "lineage": "lin:patanjala-yoga",
+    "position": "Three: perception, inference and testimony are the means of valid cognition.",
+    "texts": [
+     {
+      "source": "src:yoga-sutra",
+      "ref": "1.7"
+     }
+    ],
+    "rests_on": [
+     "tea:yoga-sutra:1.7",
+     "tea:yoga-bhasya:1.7"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
+    "position": "Valid cognition is knowledge that illumines itself and its object; it is of two kinds, direct (pratyakṣa) and indirect (parokṣa): of the five kinds of knowledge, sensory and scriptural knowledge are indirect, clairvoyance, mind-reading and omniscience direct; memory, recognition, reasoning and inference are forms of sensory knowledge.",
+    "texts": [
+     {
+      "source": "src:tattvartha-sutra",
+      "ref": "1.9-13"
+     },
+     {
+      "source": "src:nyayavatara",
+      "ref": "1"
+     }
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:1.9",
+     "tea:tattvartha-sutra:1.10",
+     "tea:tattvartha-sutra:1.11",
+     "tea:tattvartha-sutra:1.12",
+     "tea:tattvartha-sutra:1.13",
+     "tea:nyayavatara:1"
+    ]
+   },
+   {
+    "lineage": "lin:nyaya",
+    "position": "Four: perception, inference, comparison and verbal testimony; tradition (aitihya) is not different from testimony, and presumption, inclusion (sambhava) and absence are not different from inference. (Bhāsarvajña's Nyāyasāra, within Nyāya, counts three, comparison not being separate.)",
+    "texts": [
+     {
+      "source": "src:nyaya-sutra",
+      "ref": "1.1.3; 2.2.1-2"
+     },
+     {
+      "source": "src:nyayasara",
+      "ref": "pramāṇa section"
+     }
+    ],
+    "rests_on": [
+     "tea:nyaya-sutra:1.1.3",
+     "tea:nyaya-sutra:2.2.1-2",
+     "tea:nyayasara:three-pramanas"
+    ]
+   },
+   {
+    "lineage": "lin:prabhakara-mimamsa",
+    "position": "Five: perception, inference, verbal testimony, comparison and presumption — neither fewer nor more; absence is not a separate means.",
+    "texts": [
+     {
+      "source": "src:prakaranapancika",
+      "ref": "ch. 6"
+     }
+    ],
+    "rests_on": [
+     "tea:prakaranapancika:6"
+    ]
+   },
+   {
+    "lineage": "lin:bhatta-mimamsa",
+    "position": "Six: the five, and non-apprehension (abhāva/anupalabdhi), which knows the non-existence of a thing where the five positive means do not arise; the Vṛttikāra's list in Śabara already names six.",
+    "texts": [
+     {
+      "source": "src:slokavarttika",
+      "ref": "abhāva 1-4"
+     },
+     {
+      "source": "src:sabara-bhasya",
+      "ref": "1.1.5 (Vṛttikāra)"
+     }
+    ],
+    "rests_on": [
+     "tea:slokavarttika:abhava.1-4",
+     "tea:sabara-bhasya:1.1.5"
+    ]
+   },
+   {
+    "lineage": "lin:advaita-vedanta",
+    "position": "Six, following the Bhāṭṭas in empirical matters: perception, inference, comparison, verbal testimony, presumption and non-cognition; valid cognition is of an object not already known and not contradicted. Śrīharṣa: the Advaitin may debate on the practices both parties accept without committing to the reality of the means of knowledge.",
+    "texts": [
+     {
+      "source": "src:vedantaparibhasa",
+      "ref": "ch. 1"
+     },
+     {
+      "source": "src:khandanakhandakhadya",
+      "ref": "opening"
+     }
+    ],
+    "rests_on": [
+     "tea:vedantaparibhasa:ch.1",
+     "tea:khandanakhandakhadya:1"
+    ]
+   },
+   {
+    "lineage": "lin:visistadvaita",
+    "position": "Three: perception, inference and scripture; comparison and the rest are included in these.",
+    "texts": [
+     {
+      "source": "src:yatindramatadipika",
+      "ref": "1-3"
+     }
+    ],
+    "rests_on": [
+     "tea:yatindramatadipika:1-3"
+    ]
+   },
+   {
+    "lineage": "lin:dvaita",
+    "position": "Valid knowledge accords with its object: knowledge itself (kevala) and its means (anupramāṇa); the means are three — perception (sevenfold, with the witness), inference and authoritative word; presumption and comparison are kinds of inference.",
+    "texts": [
+     {
+      "source": "src:pramanalaksana-madhva",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:pramanalaksana-madhva:kevala-anupramana",
+     "tea:pramanalaksana-madhva:pratyaksa"
+    ]
+   },
+   {
+    "lineage": "lin:pasupata",
+    "position": "Three: perception (of the senses and of the self), inference, and scripture (āgama) handed down from Maheśvara.",
+    "texts": [
+     {
+      "source": "src:pancarthabhasya",
+      "ref": "on 1.1"
+     }
+    ],
+    "rests_on": [
+     "tea:pancarthabhasya:1.1/4"
+    ]
+   },
+   {
+    "lineage": "lin:ayurveda",
+    "position": "Examination is fourfold: authoritative testimony, perception, inference and yukti (reasoning that sees effects produced by many combined causes).",
+    "texts": [
+     {
+      "source": "src:caraka-samhita",
+      "ref": "Sūtrasthāna 11.17-26"
+     }
+    ],
+    "rests_on": [
+     "tea:caraka-samhita:su.11.17-26"
+    ]
+   },
+   {
+    "lineage": "lin:puranic",
+    "position": "Eight (as the Naiyāyika doxography reports): the Paurāṇikas add inclusion (sambhava) and tradition (aitihya) to the six.",
+    "texts": [
+     {
+      "source": "src:dinakari",
+      "ref": "on Kārikāvalī 51-52"
+     },
+     {
+      "source": "src:nyaya-sutra",
+      "ref": "2.2.1 (the candidates named)"
+     }
+    ],
+    "rests_on": [
+     "tea:dinakari:pramana-sankhya",
+     "tea:nyaya-sutra:2.2.1-2"
+    ],
+    "reported_by_opponent": true,
+    "reporting_source": "Dinakarī (Navya-Nyāya commentary on the Muktāvalī)"
+   },
+   {
+    "lineage": "lin:gaudiya-vaisnava",
+    "position": "In the matter of the transcendent, perception and inference are fallible; revelation (śabda) alone is decisive, and the Purāṇas complete the Veda.",
+    "texts": [
+     {
+      "source": "src:tattva-sandarbha",
+      "ref": "pramāṇa section"
+     }
+    ],
+    "rests_on": [
+     "tea:tattva-sandarbha:pramana-section"
+    ]
+   },
+   {
+    "lineage": "lin:madhyamaka",
+    "position": "If the means of knowledge establish their objects, what establishes the means? Neither by other means (regress) nor by themselves (fire does not illumine itself) nor by their objects; 'if I apprehended anything by perception and the rest I would affirm or deny' — the Mādhyamika fixes no count.",
+    "texts": [
+     {
+      "source": "src:vigrahavyavartani",
+      "ref": "30-51"
+     }
+    ],
+    "rests_on": [
+     "tea:vigrahavyavartani:30",
+     "tea:vigrahavyavartani:31-33",
+     "tea:vigrahavyavartani:46-51"
+    ],
+    "disputes": [
+     "dsp:establishment-of-pramanas"
+    ]
+   },
    {
     "lineage": "lin:carvaka",
     "position": "(As reported) Perception alone — inference fails because pervasion cannot be known.",
@@ -27818,7 +28812,8 @@
      "tea:sarvadarsanasangraha:1/6",
      "tea:nyayamanjari:1.pramana-sankhya"
     ],
-    "party": "reported_by_opponent (the uneducated Cārvākas, per Jayanta)"
+    "party": "reported_by_opponent (the uneducated Cārvākas, per Jayanta)",
+    "contributed_by": "U33-sramana"
    },
    {
     "lineage": "lin:carvaka",
@@ -27835,7 +28830,8 @@
     "rests_on": [
      "tea:tattvasangraha-panjika:1481-1482"
     ],
-    "party": "reported_by_opponent (quoted by Kamalaśīla)"
+    "party": "reported_by_opponent (quoted by Kamalaśīla)",
+    "contributed_by": "U33-sramana"
    },
    {
     "lineage": "lin:carvaka",
@@ -27858,7 +28854,8 @@
      "tea:nyayamanjari:1.carvaka-dhurta",
      "tea:tattvopaplavasimha:0.3",
      "tea:tattvopaplavasimha:1"
-    ]
+    ],
+    "contributed_by": "U33-sramana"
    },
    {
     "lineage": "lin:pramana-buddhist",
@@ -27875,22 +28872,68 @@
     "rests_on": [
      "tea:tattvasangraha:1456",
      "tea:tattvasangraha-panjika:1481-1482"
-    ]
+    ],
+    "contributed_by": "U33-sramana"
    }
   ],
-  "notes": "U33 contribution (Lokāyata sides). U50 owns this dispute and its reconciliation; none is proposed here.",
-  "coverage": [
-   "B1",
-   "G"
+  "count_summary": {
+   "carvaka": "1 (perception); some Cārvākas accept worldly inference; Jayarāśi: no count can be fixed",
+   "buddhist_pramana": "2 (perception, inference)",
+   "vaisesika": "2 (perception, inference)",
+   "jain": "2 kinds (direct, indirect), comprising the five knowledges — correction to the brief's '3'",
+   "samkhya_yoga": "3 (perception, inference, testimony)",
+   "visistadvaita_dvaita_pasupata": "3 (perception, inference, scripture/word)",
+   "nyaya": "4 (+ comparison); Bhāsarvajña 3",
+   "ayurveda_caraka": "4 (testimony, perception, inference, yukti)",
+   "prabhakara": "5 (+ presumption)",
+   "bhatta_advaita": "6 (+ non-apprehension)",
+   "pauranika": "8 (+ inclusion, tradition) — attribution verified in the Dinakarī doxography"
+  },
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P2-standpoint"
+   ],
+   "explanation": "Largely reconciled by the schools' own device of inclusion (antarbhāva): the Nyāya Sūtra folds tradition into testimony and presumption, inclusion and absence into inference; Vaiśeṣika, Sāṃkhya, Madhva and the Viśiṣṭādvaitins fold the extra means into fewer — differences of classification from different analytic standpoints (P2); the Cārvāka denial of inference, the status of testimony for the supersensible, and Madhyamaka's refusal to fix any means remain not yet reconciled.",
+   "detail": "What the schools agree is known (a fire from smoke, an absence of a pot, a word's meaning) they classify under different heads; the disagreement that matters doctrinally is over whether verbal testimony (the Veda, the Āgama, the Buddha's word) is an independent source for the supersensible (Mīmāṃsā, Vedānta, Nyāya, Jain, Gauḍīya) or reducible to inference (Buddhist, Vaiśeṣika).",
+   "tradition_objections": "Each school defends the irreducibility of its own count: the Bhāṭṭas and Advaitins insist non-apprehension is not perception; the Prābhākaras reject it; Nyāya insists comparison is irreducible; the Buddhists deny testimony independent standing; the Cārvākas (as reported) deny inference; Jayarāśi and Nāgārjuna refuse any fixed set.",
+   "rests_on": [
+    "tea:nyaya-sutra:2.2.1-2",
+    "tea:tattvakaumudi:5/2",
+    "tea:padarthadharmasangraha:anumana-antarbhava",
+    "tea:pramanalaksana-madhva:kevala-anupramana",
+    "tea:yatindramatadipika:1-3",
+    "tea:dinakari:pramana-sankhya",
+    "tea:slokavarttika:abhava.1-4",
+    "tea:prakaranapancika:6"
+   ]
+  },
+  "candidate_readings": [
+   "P2-standpoint for the Cārvāka: some Cārvākas (Purandara) accept inference 'as known in the world' and reject only inference to the transcendent — a narrower dispute about the supersensible (see U33's sides); Nyāya and the Buddhists reject the restriction.",
+   "P1-level for Madhyamaka and Śrīharṣa: the means of knowledge are accepted conventionally, as the world uses them, and not established ultimately — the realist schools reject the ultimate/conventional split for pramāṇas."
   ],
+  "queue_ref": "RQ-U50-15",
+  "disputes": [
+   "dsp:validity-of-inference",
+   "dsp:establishment-of-pramanas",
+   "dsp:pramana-samplava",
+   "dsp:svatah-paratah-pramanya",
+   "dsp:khandana-definability",
+   "dsp:is-perception-non-conceptual"
+  ],
+  "notes": "Corrections to the brief's list: the Jains are two (pratyakṣa, parokṣa), not three; Viśiṣṭādvaita, Dvaita and the Pāśupatas also count three; Caraka four (with yukti); the Paurāṇika eight is confirmed from the Dinakarī doxography, which also groups the Bhāṭṭas and Vedāntins at six. Cārvāka sides contributed by U33 are included verbatim.",
   "verification": {
    "level": "skeleton",
    "confidence": "moderate",
    "unverified": false,
    "checks": []
   },
+  "alt_notes": [
+   "U33 contribution (Lokāyata sides). U50 owns this dispute and its reconciliation; none is proposed here."
+  ],
   "provenance": {
    "units": [
+    "skeleton:U50-debates",
     "skeleton:U33-sramana"
    ],
    "phases": [
@@ -28036,10 +29079,26 @@
    "G"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by dsp:number-of-tattvas"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)"
+     ],
+     "result": "confirmed",
+     "note": "BhP 11.22.1-9 (counts; 11.22.5-6 dispute from the Lord's powers; 11.22.7-8 mutual inclusion) and 3.26.10-15 verified. The Sāṃkhyakārikā 3 (25) and Tantrāloka ch. 9 (tattvas) references are standard and owned by other units.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "notes": "Sāṃkhya and Kashmir Śaiva sides are owned by U09 and U19; U06 records the Bhāgavata's text-internal reconciliation.",
   "provenance": {
@@ -30864,8 +31923,149 @@
  },
  {
   "id": "dsp:prasangika-svatantrika",
-  "question": "Prāsaṅgika against Svātantrika",
+  "question": "Should a Mādhyamika establish emptiness by autonomous inferences (svatantra-anumāna) or only by consequences (prasaṅga) that draw out untenable consequences of the opponent's own thesis — and does this difference of method reflect a difference of view?",
+  "coverage_ref": "G8",
+  "coverage": [
+   "G"
+  ],
   "sides": [
+   {
+    "lineage": "lin:madhyamaka",
+    "position": "Buddhapālita: things do not arise from themselves, because their arising would be pointless (what already exists need not arise again) and would never end — the argument proceeds by drawing out consequences (prasaṅga) of the opponent's thesis.",
+    "texts": [
+     {
+      "source": "src:buddhapalita-vrtti",
+      "ref": "1.1"
+     },
+     {
+      "source": "src:mulamadhyamakakarika",
+      "ref": "1.1"
+     }
+    ],
+    "rests_on": [
+     "tea:buddhapalita-vrtti:1.1",
+     "tea:mulamadhyamakakarika:1.1"
+    ],
+    "teacher": "tch:buddhapalita",
+    "tibetan_classification": "Prāsaṅgika (thal 'gyur ba) — a later Tibetan doxographic label"
+   },
+   {
+    "lineage": "lin:madhyamaka",
+    "position": "Bhāviveka: Buddhapālita's argument is inadequate — it states no reason and example, does not answer the faults the opponent would raise, and being a consequence it implies by reversal that things arise from another, against the Mādhyamika's own tenet. The Mādhyamika should state an independent inference: 'ultimately the inner sense-bases do not arise from themselves, because they exist, like consciousness'.",
+    "texts": [
+     {
+      "source": "src:prajnapradipa",
+      "ref": "1.1"
+     }
+    ],
+    "rests_on": [
+     "tea:prajnapradipa:1.1",
+     "tea:prajnapradipa:1.1/2"
+    ],
+    "teacher": "tch:bhaviveka",
+    "tibetan_classification": "Svātantrika (rang rgyud pa) — a later Tibetan doxographic label"
+   },
+   {
+    "lineage": "lin:madhyamaka",
+    "position": "Candrakīrti: for one who is a Mādhyamika it is not right to state an autonomous inference, since he accepts no other position; as Āryadeva said, one who has no position — existent, non-existent or both — cannot be refuted; Nāgārjuna: 'if I had a thesis the fault would be mine; I have none'. Consequences suffice to show the opponent the untenable consequences of his own thesis; Buddhapālita was right.",
+    "texts": [
+     {
+      "source": "src:prasannapada",
+      "ref": "ch. 1"
+     },
+     {
+      "source": "src:catuhsataka",
+      "ref": "16.25"
+     },
+     {
+      "source": "src:vigrahavyavartani",
+      "ref": "29"
+     }
+    ],
+    "rests_on": [
+     "tea:prasannapada:1.1",
+     "tea:catuhsataka:16.25",
+     "tea:vigrahavyavartani:29"
+    ],
+    "teacher": "tch:candrakirti",
+    "tibetan_classification": "Prāsaṅgika — a later Tibetan doxographic label"
+   },
+   {
+    "lineage": "lin:yogacara-madhyamaka",
+    "position": "Śāntarakṣita: entities lack own-nature because they are neither one nor many, like a reflection; the conventional is what is agreeable only when unexamined; relying on mind-only one sees there are no external things, relying on the Middle Way that even mind lacks self — riding both vehicles one reaches the Mahāyāna.",
+    "texts": [
+     {
+      "source": "src:madhyamakalamkara",
+      "ref": "1; 64; 92-93"
+     }
+    ],
+    "rests_on": [
+     "tea:madhyamakalamkara:1",
+     "tea:madhyamakalamkara:64",
+     "tea:madhyamakalamkara:92-93"
+    ],
+    "teacher": "tch:santaraksita",
+    "tibetan_classification": "Yogācāra-Svātantrika — a later Tibetan doxographic label"
+   },
+   {
+    "lineage": "lin:gelug",
+    "position": "Tsongkhapa: the difference is one of view, not only of method — the Svātantrikas accept that things have their own character conventionally and therefore use inferences whose subject appears alike to both parties; the Prāsaṅgikas accept no inherent nature even conventionally, so no such common subject exists and they lead the opponent by consequences and inferences 'renowned to the other'; Prāsaṅgika is the higher view, and the object of negation must be identified exactly.",
+    "texts": [
+     {
+      "source": "src:lamrim-chenmo",
+      "ref": "insight section"
+     },
+     {
+      "source": "src:legs-bshad-snying-po",
+      "ref": "Madhyamaka section"
+     }
+    ],
+    "rests_on": [
+     "tea:lamrim-chenmo:insight.prasangika-svatantrika",
+     "tea:legs-bshad-snying-po:madhyamaka",
+     "tea:lamrim-chenmo:insight.object-of-negation",
+     "tea:lamrim-chenmo:insight.reliance"
+    ],
+    "teacher": "tch:tsongkhapa"
+   },
+   {
+    "lineage": "lin:sakya",
+    "position": "Gorampa: Tsongkhapa's adding of the qualifier 'inherently/truly' to what is negated is not in Nāgārjuna and Candrakīrti, who negate arising and existence without qualification; the Madhyamaka ultimate is freedom from all four extremes, and the negation of true existence alone is only a step.",
+    "texts": [
+     {
+      "source": "src:taway-shenje",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:taway-shenje:critique-qualifier",
+     "tea:taway-shenje:freedom-from-extremes"
+    ],
+    "teacher": "tch:gorampa"
+   },
+   {
+    "lineage": "lin:nyingma",
+    "position": "Mipham: for the provisional, enumerated ultimate, emptiness as the negation of true existence is taught (the Svātantrika emphasis); the actual, non-enumerated ultimate is freedom from all elaboration (the Prāsaṅgika emphasis); from the standpoint of that ultimate there is no thesis to hold, while conventionally the Mādhyamika asserts; the two are to be approached in sequence.",
+    "texts": [
+     {
+      "source": "src:ngeshe-dronme",
+      "ref": "questions 1, 7"
+     },
+     {
+      "source": "src:ketaka-mipham",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:ngeshe-dronme:q1",
+     "tea:ngeshe-dronme:q7",
+     "tea:ketaka-mipham:1"
+    ],
+    "teacher": "tch:mipham",
+    "disputes": [
+     "dsp:mipham-gelug-madhyamaka"
+    ]
+   },
    {
     "lineage": "lin:gelug",
     "position": "The difference is in the view, not only in method: Svātantrikas accept that phenomena exist by their own character conventionally and therefore use autonomous inferences; Prāsaṅgikas deny this even conventionally and so use consequences and 'other-acknowledged' inferences. Hence Prāsaṅgika's object of negation is subtler.",
@@ -30904,16 +32104,103 @@
     ]
    }
   ],
-  "coverage_ref": "G8",
-  "notes": "Sides contributed by U47; U50 owns the dispute and its reconciliation.",
+  "historical_debates": [
+   {
+    "name": "The Buddhapālita–Bhāviveka–Candrakīrti exchange on MMK 1.1",
+    "date": "c. 5th–7th c. CE (scholarly, approximate)",
+    "participants": [
+     "tch:buddhapalita",
+     "tch:bhaviveka",
+     "tch:candrakirti"
+    ],
+    "accounts": "Buddhapālita-vṛtti 1.1; Bhāviveka's Prajñāpradīpa 1.1 criticises it; Candrakīrti's Prasannapadā 1.1 defends Buddhapālita and criticises Bhāviveka's use of autonomous inference.",
+    "outcome_by_tradition": "Indian: Candrakīrti had few Indian followers until Jayānanda and others (scholarly account, labelled); in Tibet his defence became the defining text of Prāsaṅgika.",
+    "rests_on": [
+     "tea:buddhapalita-vrtti:1.1",
+     "tea:prajnapradipa:1.1",
+     "tea:prasannapada:1.1"
+    ]
+   },
+   {
+    "name": "The Tibetan construction of the categories Prāsaṅgika and Svātantrika (metadata)",
+    "date": "c. 11th–12th c. CE onward",
+    "participants": [
+     "tch:tsongkhapa",
+     "tch:gorampa",
+     "tch:mipham"
+    ],
+    "accounts": "The labels thal 'gyur ba (Prāsaṅgika) and rang rgyud pa (Svātantrika) are Tibetan doxographic categories, commonly associated with the translation of Candrakīrti's works in the 11th–12th c. (Pa tshab Nyi ma grags); the Indian authors did not use them as names of schools. Recorded here as metadata only: this entry does not treat the categories as Indian self-designations.",
+    "outcome_by_tradition": "Gelug: Prāsaṅgika the highest view and different in view; Sakya (Gorampa) and Nyingma (Mipham): the difference concerns method and the approach to the ultimate, stated in varying ways.",
+    "metadata": true
+   },
+   {
+    "name": "Gelug monastic debate on the Madhyamaka (tradition's account)",
+    "date": "from the 15th c. CE",
+    "participants": [
+     "tch:tsongkhapa"
+    ],
+    "accounts": "In the Gelug monastic colleges the Madhyamaka is studied through Candrakīrti's Madhyamakāvatāra with Tsongkhapa's commentaries and the colleges' own textbooks, and the Prāsaṅgika–Svātantrika distinction is argued in formal courtyard debate (tradition's account; details moderate confidence).",
+    "outcome_by_tradition": "Gelug: the curriculum upholds Tsongkhapa's account."
+   },
+   {
+    "name": "Mipham's exchanges with Gelug scholars",
+    "date": "late 19th c. CE",
+    "participants": [
+     "tch:mipham"
+    ],
+    "accounts": "Replies and counter-replies over Mipham's commentary on Bodhicaryāvatāra ch. 9 (Norbu Ketaka) and the Beacon of Certainty (see dsp:mipham-gelug-madhyamaka, U45).",
+    "outcome_by_tradition": "Nyingma: Mipham's reading stands; Gelug respondents defended Tsongkhapa.",
+    "rests_on": [
+     "tea:ketaka-mipham:1",
+     "tea:ngeshe-dronme:q1"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P4-stage",
+    "P6-upaya"
+   ],
+   "explanation": "Partly reconciled in the Nyingma and Sakya traditions' own terms: the Svātantrika approach addresses the enumerated ultimate as a step and the Prāsaṅgika the non-enumerated freedom from extremes (P4-stage), and whether one argues by autonomous inference or by consequence is a matter of how the opponent is led (P6-upaya); the Gelug position that the two differ in view — acceptance of own-character conventionally — is not reconciled.",
+   "detail": "All the Indian parties agree that nothing arises from self, other, both or neither (MMK 1.1); the Indian exchange concerns method. The Tibetan schools disagree whether the method difference entails a difference in view. The categories themselves are Tibetan (recorded as metadata above).",
+   "tradition_objections": "Candrakīrti: a Mādhyamika should not use autonomous inference at all (Prasannapadā 1.1); Bhāviveka: consequences alone are faulty (Prajñāpradīpa 1.1); Tsongkhapa: Svātantrikas leave a subtle object of negation unrefuted — a difference of view that a stage or skilful-means reading erases; Gorampa rejects Tsongkhapa's qualifier.",
+   "rests_on": [
+    "tea:ngeshe-dronme:q1",
+    "tea:ketaka-mipham:1",
+    "tea:prasannapada:1.1",
+    "tea:prajnapradipa:1.1",
+    "tea:lamrim-chenmo:insight.prasangika-svatantrika",
+    "tea:taway-shenje:critique-qualifier"
+   ]
+  },
+  "candidate_readings": [
+   "P2-standpoint: Svātantrika speaks from the standpoint of conventional valid cognition shared with the opponent, Prāsaṅgika from the standpoint of the ultimate with no thesis — rejected by Tsongkhapa as blurring a real difference of view.",
+   "P5-neyartha: the Svātantrika presentation as provisional, the Prāsaṅgika as definitive — the Gelug ranking, which Svātantrika authors themselves would not accept."
+  ],
+  "queue_ref": "RQ-U50-08",
+  "disputes": [
+   "dsp:mipham-gelug-madhyamaka",
+   "dsp:can-emptiness-be-asserted",
+   "dsp:debate-without-thesis",
+   "dsp:madhyamaka-yogacara",
+   "dsp:object-of-negation-madhyamaka",
+   "dsp:sravaka-realization-of-emptiness",
+   "dsp:rangtong-shentong"
+  ],
+  "notes": "Per the brief, the Tibetan construction of the categories Prāsaṅgika/Svātantrika is recorded as metadata (see the historical_debates entry marked metadata and each side's 'tibetan_classification'); Indian authors are placed under lin:madhyamaka / lin:yogacara-madhyamaka rather than under the Tibetan category lineages.",
   "verification": {
    "level": "skeleton",
    "confidence": "moderate",
    "unverified": false,
    "checks": []
   },
+  "alt_notes": [
+   "Sides contributed by U47; U50 owns the dispute and its reconciliation."
+  ],
   "provenance": {
    "units": [
+    "skeleton:U50-debates",
     "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
@@ -31877,8 +33164,168 @@
  },
  {
   "id": "dsp:rangtong-shentong",
-  "question": "Empty of self, or empty of other?",
+  "question": "Is the ultimate empty of its own nature like all phenomena (rang stong, self-emptiness), or empty only of what is other than it — the adventitious stains — while not empty of its own nature and qualities (gzhan stong, other-emptiness)?",
+  "coverage_ref": "G7",
+  "coverage": [
+   "G"
+  ],
   "sides": [
+   {
+    "lineage": "lin:jonang",
+    "position": "Dolpopa: buddha-nature — the dharmakāya, the dharmadhātu — is the ultimate truth; it is empty of all conventional phenomena, which are adventitious and other than it, but not empty of its own nature (other-emptiness). Conventional phenomena are empty of their own nature, like a rabbit's horns. An emptiness that is nothing whatsoever is annihilatory emptiness and not the ultimate. The final-wheel sūtras, the Maitreya treatises and the Kālacakra teach the definitive meaning; the dharmakāya is the supreme self.",
+    "texts": [
+     {
+      "source": "src:mountain-doctrine",
+      "ref": "whole"
+     },
+     {
+      "source": "src:fourth-council-dolpopa",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:mountain-doctrine:ground",
+     "tea:mountain-doctrine:two-truths",
+     "tea:mountain-doctrine:annihilatory-emptiness",
+     "tea:mountain-doctrine:definitive",
+     "tea:mountain-doctrine:self",
+     "tea:fourth-council-dolpopa:definitive"
+    ],
+    "teacher": "tch:dolpopa"
+   },
+   {
+    "lineage": "lin:jonang",
+    "position": "Tāranātha: the thoroughly established nature is self-aware, self-illuminating primordial wisdom free of subject and object, unchanging, realized in meditative equipoise and not empty of itself; self- and other-emptiness agree that all conventional phenomena are empty of own-nature and differ over the ultimate — with twenty-one further differences following.",
+    "texts": [
+     {
+      "source": "src:zhentong-nyingpo-taranatha",
+      "ref": "whole"
+     },
+     {
+      "source": "src:twenty-one-differences-taranatha",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:zhentong-nyingpo-taranatha:ultimate",
+     "tea:twenty-one-differences-taranatha:whole"
+    ],
+    "teacher": "tch:taranatha"
+   },
+   {
+    "lineage": "lin:gelug",
+    "position": "Tsongkhapa and Khedrup Je: nothing whatsoever, the ultimate included, is established by its own nature; the ultimate truth is the mere absence of inherent existence, a non-affirming negation, and emptiness itself is empty. An ultimate that is truly established, permanent and empty only of other would be an object of grasping at true existence — the extreme of permanence, like the self of the non-Buddhists; the Saṃdhinirmocana's three natures do not teach such an ultimate.",
+    "texts": [
+     {
+      "source": "src:legs-bshad-snying-po",
+      "ref": "Madhyamaka and Cittamātra sections"
+     },
+     {
+      "source": "src:tongthun-chenmo",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:legs-bshad-snying-po:madhyamaka-ultimate",
+     "tea:legs-bshad-snying-po:cittamatra-other-emptiness",
+     "tea:tongthun-chenmo:other-emptiness-refuted"
+    ],
+    "teacher": "tch:tsongkhapa"
+   },
+   {
+    "lineage": "lin:sakya",
+    "position": "Gorampa: three views are held in Tibet to be Madhyamaka — the eternalist extreme (Dolpopa: the ultimate empty of other but not of itself), the nihilist extreme (Tsongkhapa: the ultimate as mere negation of true existence) — and the Madhyamaka free from all extremes, which is Nāgārjuna's; clinging to emptiness as mere negation is itself an extreme.",
+    "texts": [
+     {
+      "source": "src:taway-shenje",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:taway-shenje:three-views",
+     "tea:taway-shenje:freedom-from-extremes"
+    ],
+    "teacher": "tch:gorampa"
+   },
+   {
+    "lineage": "lin:karma-kagyu",
+    "position": "Rangjung Dorje: the beginningless element, basis of all phenomena and of nirvāṇa, is mind's nature, luminous and empty, obscured by adventitious stains.",
+    "texts": [
+     {
+      "source": "src:treatise-on-buddha-nature-rangjung-dorje",
+      "ref": "opening"
+     }
+    ],
+    "rests_on": [
+     "tea:treatise-on-buddha-nature-rangjung-dorje:1"
+    ],
+    "teacher": "tch:rangjung-dorje"
+   },
+   {
+    "lineage": "lin:nyingma",
+    "position": "Mipham: buddha-nature is the union of luminosity and emptiness — its emptiness keeps it from being an existent self, its luminosity means the qualities are primordially present; 'other-emptiness' as the Nyingma accept it — the ultimate wisdom empty of adventitious conditioned phenomena — does not conflict with self-emptiness, since that ultimate too is not established by its own nature.",
+    "texts": [
+     {
+      "source": "src:sugatagarbha-lions-roar-mipham",
+      "ref": "whole"
+     },
+     {
+      "source": "src:zhentong-khelen-sengei-ngaro",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:sugatagarbha-lions-roar-mipham:1",
+     "tea:zhentong-khelen-sengei-ngaro:whole"
+    ],
+    "teacher": "tch:mipham"
+   },
+   {
+    "lineage": "lin:rime",
+    "position": "Jamgön Kongtrul: the self-emptiness Madhyamaka of Nāgārjuna's reasonings and the other-emptiness Great Madhyamaka of the Maitreya treatises are each valid in their own sphere — the self-empty approach cuts through elaboration in study and reflection, the other-empty view suits meditative experience; the element is empty of separable stains and not empty of inseparable qualities.",
+    "texts": [
+     {
+      "source": "src:sheja-kunkhyab",
+      "ref": "tenets section"
+     },
+     {
+      "source": "src:uttaratantra-commentary-kongtrul",
+      "ref": "view"
+     }
+    ],
+    "rests_on": [
+     "tea:sheja-kunkhyab:tenets",
+     "tea:uttaratantra-commentary-kongtrul:view"
+    ],
+    "teacher": "tch:jamgon-kongtrul"
+   },
+   {
+    "lineage": "lin:tathagatagarbha",
+    "position": "The Indian scriptural ground cited by both sides: the tathāgatagarbha is empty of the separable defilements and not empty of the inseparable buddha-qualities (Śrīmālādevī); nothing is to be removed from it and nothing added (Ratnagotravibhāga 1.154-155); yet the Laṅkāvatāra says the tathāgatagarbha is taught meaning emptiness, not the tīrthika self.",
+    "texts": [
+     {
+      "source": "src:srimaladevi-sutra",
+      "ref": "ch. 9"
+     },
+     {
+      "source": "src:ratnagotravibhaga",
+      "ref": "1.154-155"
+     },
+     {
+      "source": "src:lankavatara-sutra",
+      "ref": "ch. 2"
+     }
+    ],
+    "rests_on": [
+     "tea:srimaladevi-sutra:9",
+     "tea:ratnagotravibhaga:1.154-155",
+     "tea:lankavatara-sutra:2.p33"
+    ],
+    "disputes": [
+     "dsp:buddha-nature-self-or-emptiness",
+     "dsp:which-turning-is-definitive"
+    ]
+   },
    {
     "lineage": "lin:gelug",
     "position": "Only 'self-emptiness' is correct: every phenomenon, the ultimate included, is empty of its own inherent existence; an ultimate empty only of other (adventitious) things but not of itself would be truly existent and a form of eternalism.",
@@ -31914,16 +33361,68 @@
     ]
    }
   ],
-  "coverage_ref": "G7",
-  "notes": "Sides contributed by U47 (Gelug; Sakya incl. Shākya Chokden); U50 owns, U48 gives the Jonang side.",
+  "historical_debates": [
+   {
+    "name": "Dolpopa's other-emptiness and its Tibetan reception",
+    "date": "14th–17th c. CE",
+    "participants": [
+     "tch:dolpopa",
+     "tch:tsongkhapa",
+     "tch:gorampa",
+     "tch:taranatha"
+    ],
+    "accounts": "Mountain Doctrine and Fourth Council (Dolpopa); Legs bshad snying po and the Tong thun chen mo (Gelug critiques); lta ba'i shan 'byed (Gorampa); Tāranātha's twenty-one differences. In the 17th century Jonang monasteries in central Tibet were converted to the Gelug under the Ganden Phodrang government and Jonang works restricted (historical and tradition accounts; details moderate confidence); other-emptiness was later re-transmitted through the Rimé movement.",
+    "outcome_by_tradition": "Jonang: other-emptiness is the definitive Great Madhyamaka; Gelug: other-emptiness is not Madhyamaka; Sakya (Gorampa): both Dolpopa and Tsongkhapa fall to extremes; Rimé: each valid in its sphere.",
+    "rests_on": [
+     "tea:mountain-doctrine:ground",
+     "tea:tongthun-chenmo:other-emptiness-refuted",
+     "tea:taway-shenje:three-views",
+     "tea:twenty-one-differences-taranatha:whole",
+     "tea:sheja-kunkhyab:tenets"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P4-stage",
+    "P3-path"
+   ],
+   "explanation": "Partly reconciled in the Rimé and Nyingma traditions' own terms — self-emptiness for cutting elaboration in study and reflection, other-emptiness for meditative experience (Kongtrul), and other-emptiness understood as not self-established compatible with self-emptiness (Mipham); the Jonang–Gelug disagreement over whether the ultimate is truly established remains not yet reconciled.",
+   "detail": "P4-stage: Kongtrul assigns the two views to the phases of study/reflection and meditation. P3-path: the analytic temperament and the contemplative (practice-lineage) temperament. Tāranātha himself states the common ground (all conventional phenomena self-empty; elaboration ceases in equipoise) before the differences.",
+   "tradition_objections": "Gelug (Tsongkhapa; Khedrup Je): a truly established ultimate is eternalism like the tīrthika self — no reconciliation. Jonang (Dolpopa): self-emptiness applied to the ultimate is annihilatory emptiness. Sakya (Gorampa): both are extremes. Tāranātha lists twenty-one differences, so the Jonang do not accept that the two views differ only in phase of practice.",
+   "rests_on": [
+    "tea:sheja-kunkhyab:tenets",
+    "tea:zhentong-khelen-sengei-ngaro:whole",
+    "tea:twenty-one-differences-taranatha:whole",
+    "tea:mountain-doctrine:annihilatory-emptiness",
+    "tea:tongthun-chenmo:other-emptiness-refuted",
+    "tea:taway-shenje:three-views"
+   ]
+  },
+  "candidate_readings": [
+   "P5-neyartha: which wheel is definitive — the second (emptiness) or the third (buddha-nature) — decides the matter (dsp:which-turning-is-definitive); the parties apply the provisional/definitive distinction in opposite directions.",
+   "P1-level (Dolpopa's own assignment): conventional phenomena self-empty, the ultimate other-empty — rejected by Gelug, for whom the ultimate too is empty of own-nature.",
+   "P4-stage (Kongtrul): self-emptiness in study, other-emptiness in meditation — accepted in Rimé and much Kagyu and Nyingma teaching, rejected by Gelug and by strict Jonang."
+  ],
+  "queue_ref": "RQ-U50-07",
+  "disputes": [
+   "dsp:which-turning-is-definitive",
+   "dsp:buddha-nature-self-or-emptiness",
+   "dsp:object-of-negation-madhyamaka",
+   "dsp:mipham-gelug-madhyamaka",
+   "dsp:prasangika-svatantrika"
+  ],
   "verification": {
    "level": "skeleton",
    "confidence": "moderate",
    "unverified": false,
    "checks": []
   },
+  "notes": "Sides contributed by U47 (Gelug; Sakya incl. Shākya Chokden); U50 owns, U48 gives the Jonang side.",
   "provenance": {
    "units": [
+    "skeleton:U50-debates",
     "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
@@ -33695,6 +35194,313 @@
   "provenance": {
    "units": [
     "skeleton:U12-mimamsa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:saguna-nirguna",
+  "question": "Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?",
+  "coverage_ref": "G13",
+  "coverage": [
+   "G"
+  ],
+  "sides": [
+   {
+    "lineage": "lin:advaita-vedanta",
+    "position": "Brahman is without attributes (nirguṇa): not even by place (adjunct) can it have a twofold character, for everywhere it is taught as attributeless; it is formless, that being the principal purport; texts about form are not purposeless, like light taking shapes. Brahman is known in two forms — qualified by adjuncts, as the object of worship in the state of ignorance, and free of them, as the object of knowledge; of 'is, shines, is dear, name and form', the first three are Brahman. (Madhusūdana Sarasvatī nonetheless closes: 'I know no reality higher than Kṛṣṇa'.)",
+    "texts": [
+     {
+      "source": "src:brahma-sutra",
+      "ref": "3.2.11-21"
+     },
+     {
+      "source": "src:brahma-sutra-bhasya-sankara",
+      "ref": "1.1.12 intro"
+     },
+     {
+      "source": "src:drg-drsya-viveka",
+      "ref": "20"
+     },
+     {
+      "source": "src:gudharthadipika",
+      "ref": "closing verse"
+     }
+    ],
+    "rests_on": [
+     "tea:brahma-sutra:3.2.11",
+     "tea:brahma-sutra:3.2.12",
+     "tea:brahma-sutra:3.2.14",
+     "tea:brahma-sutra:3.2.15",
+     "tea:brahma-sutra-bhasya-sankara:1.1.12",
+     "tea:drg-drsya-viveka:20",
+     "tea:gudharthadipika:15"
+    ]
+   },
+   {
+    "lineage": "lin:visistadvaita",
+    "position": "No means of knowledge establishes an undifferentiated object — even the first, non-conceptual perception grasps a qualified thing; Brahman is ever qualified, free of all defects and full of auspicious qualities (twofold mark, ubhaya-liṅga); 'not so, not so' denies only that Brahman is limited to what was just described. The texts calling Brahman nirguṇa deny bad qualities.",
+    "texts": [
+     {
+      "source": "src:sribhasya",
+      "ref": "1.1.1; 3.2.11-22"
+     }
+    ],
+    "rests_on": [
+     "tea:sribhasya:1.1.1/5",
+     "tea:sribhasya:3.2",
+     "tea:sribhasya:3.2/2"
+    ]
+   },
+   {
+    "lineage": "lin:dvaita",
+    "position": "All Viṣṇu's qualities are real; he is full of infinite qualities and free of defects; even the names of other gods in the Veda are his names; his descents are not births among beings.",
+    "texts": [
+     {
+      "source": "src:mahabharata-tatparya-nirnaya",
+      "ref": "1.68-71"
+     },
+     {
+      "source": "src:visnutattvavinirnaya",
+      "ref": "ch. 3"
+     },
+     {
+      "source": "src:karmanirnaya",
+      "ref": "1"
+     }
+    ],
+    "rests_on": [
+     "tea:mahabharata-tatparya-nirnaya:1.68-71",
+     "tea:visnutattvavinirnaya:3",
+     "tea:karmanirnaya:1"
+    ]
+   },
+   {
+    "lineage": "lin:gaudiya-vaisnava",
+    "position": "The knowers of reality call the one non-dual knowledge by three names — Brahman, Paramātman and Bhagavān: realised without its distinctions and powers it appears as Brahman, the effulgence of Bhagavān's body; Bhagavān, Kṛṣṇa, is its fullest disclosure. Caitanya reads the sūtras and Upaniṣads as speaking directly of the personal Lord.",
+    "texts": [
+     {
+      "source": "src:bhagavata-purana",
+      "ref": "1.2.11"
+     },
+     {
+      "source": "src:bhagavat-sandarbha",
+      "ref": "Brahman section"
+     },
+     {
+      "source": "src:brahma-samhita",
+      "ref": "5.40"
+     },
+     {
+      "source": "src:caitanya-caritamrta",
+      "ref": "Madhya 6"
+     }
+    ],
+    "rests_on": [
+     "tea:bhagavata-purana:1.2.11",
+     "tea:bhagavat-sandarbha:brahman-section",
+     "tea:brahma-samhita:5.40",
+     "tea:caitanya-caritamrta:2.6"
+    ],
+    "disputes": [
+     "dsp:gaudiya-critique-of-advaita"
+    ]
+   },
+   {
+    "lineage": "lin:pustimarga",
+    "position": "Brahman is the locus of contradictory attributes (viruddha-dharmāśraya): scripture's statements that it is attributeless and full of qualities, formless and with form, are all true of it.",
+    "texts": [
+     {
+      "source": "src:anubhasya",
+      "ref": "3.2"
+     }
+    ],
+    "rests_on": [
+     "tea:anubhasya:3.2"
+    ]
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "position": "The Gītā ch. 12: those who worship the Lord with form, ever yoked with supreme faith, are held the most yoked; those who worship the imperishable, indefinable, unmanifest also reach him, but greater is the difficulty of those set on the unmanifest, for that goal is hard for the embodied. 'I am the foundation of Brahman'; the supreme person is beyond the perishable and the imperishable.",
+    "texts": [
+     {
+      "source": "src:bhagavad-gita",
+      "ref": "12.1-5; 14.27; 15.16-18"
+     }
+    ],
+    "rests_on": [
+     "tea:bhagavad-gita:12.1",
+     "tea:bhagavad-gita:12.2",
+     "tea:bhagavad-gita:12.3-4",
+     "tea:bhagavad-gita:12.5",
+     "tea:bhagavad-gita:14.27",
+     "tea:bhagavad-gita:15.16-18"
+    ],
+    "disputes": [
+     "dsp:bhagavad-gita-lord-or-unmanifest"
+    ]
+   },
+   {
+    "lineage": "lin:sant",
+    "position": "Kabīr: repeat the name of the attributeless (nirguṇa) Rām; fix the mind where there is no form or sign; the son of Daśaratha is praised in the three worlds, but the secret of Rām's name is other; if worshipping a stone brought Hari I would worship a mountain.",
+    "texts": [
+     {
+      "source": "src:kabir-granthavali",
+      "ref": "as recorded"
+     },
+     {
+      "source": "src:kabir-oral-corpus",
+      "ref": "as recorded"
+     }
+    ],
+    "rests_on": [
+     "tea:kabir-granthavali:pad-nirgun-ram-japahu-re-bhai",
+     "tea:kabir-oral-corpus:dasrath-sut-tihun-lok-bakhana",
+     "tea:kabir-oral-corpus:pahan-pujai-hari-milai"
+    ],
+    "disputes": [
+     "dsp:kabir-ram-and-the-avatara",
+     "dsp:rama-of-the-name"
+    ]
+   },
+   {
+    "lineage": "lin:ramanandi",
+    "position": "Tulsīdās: there is no difference at all between the embodied (saguṇa) and the formless (aguṇa), sing the sages; Bhuśuṇḍi, taught the formless by Lomaśa, kept asking for the Rāma with form and was cursed and then blessed for his devotion.",
+    "texts": [
+     {
+      "source": "src:ramcaritmanas",
+      "ref": "1.116; 7.110-113"
+     },
+     {
+      "source": "src:adhyatma-ramayana",
+      "ref": "1.1"
+     }
+    ],
+    "rests_on": [
+     "tea:ramcaritmanas:1.116",
+     "tea:ramcaritmanas:7.110-113",
+     "tea:adhyatma-ramayana:1.1.13-24"
+    ]
+   },
+   {
+    "lineage": "lin:kashmir-saivism",
+    "position": "In truth Bhairava is not the ninefold, not the mass of sounds, not the three-headed god, not made of nāda and bindu — these are told to the unawakened, like a mother's sweets, to make them take up practice; the Tāntrikas hold the self transcends the universe, the Kula schools that it is the universe, the Trika that it is both.",
+    "texts": [
+     {
+      "source": "src:vijnana-bhairava-tantra",
+      "ref": "7-13"
+     },
+     {
+      "source": "src:pratyabhijnahrdayam",
+      "ref": "8 with commentary"
+     }
+    ],
+    "rests_on": [
+     "tea:vijnana-bhairava-tantra:11-13",
+     "tea:vijnana-bhairava-tantra:7-10",
+     "tea:pratyabhijnahrdayam:8/2"
+    ]
+   },
+   {
+    "lineage": "lin:srividya",
+    "position": "The Goddess is without support, stainless, eternal, formless, without qualities — and she is the manifest and the unmanifest; meditation on her is of two kinds, with form and formless.",
+    "texts": [
+     {
+      "source": "src:lalita-sahasranama",
+      "ref": "43-45; 86-87"
+     },
+     {
+      "source": "src:mahanirvana-tantra",
+      "ref": "5.137-140"
+     }
+    ],
+    "rests_on": [
+     "tea:lalita-sahasranama:43-45",
+     "tea:lalita-sahasranama:86-87",
+     "tea:mahanirvana-tantra:5.137-140"
+    ]
+   },
+   {
+    "lineage": "lin:upanisadic",
+    "position": "One God hidden in all beings, all-pervading, the inner self of all, overseer of actions, the witness, pure consciousness, alone and without qualities (Śvetāśvatara) — the Upaniṣad names the personal God with the attributeless predicates.",
+    "texts": [
+     {
+      "source": "src:svetasvatara-upanisad",
+      "ref": "6.7-11"
+     }
+    ],
+    "rests_on": [
+     "tea:svetasvatara-upanisad:6.11",
+     "tea:svetasvatara-upanisad:6.7-9"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "Caitanya with Sārvabhauma (Purī) and Prakāśānanda (Kāśī)",
+    "date": "tradition: early 16th c. CE",
+    "participants": [
+     "tch:caitanya",
+     "tch:sarvabhauma-bhattacarya",
+     "tch:prakasananda-sarasvati"
+    ],
+    "accounts": "Caitanya-caritāmṛta Madhya 6 and Ādi 7 (the Gauḍīya tradition's account)",
+    "outcome_by_tradition": "Gauḍīya: both Advaita teachers accepted the personal reading and devotion.",
+    "rests_on": [
+     "tea:caitanya-caritamrta:2.6",
+     "tea:caitanya-caritamrta:1.7"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P3-path",
+    "P1-level",
+    "P2-standpoint"
+   ],
+   "explanation": "Reconciled in part in the traditions' own terms: the Gītā has both the worshipper of the Lord with form and the worshipper of the unmanifest reach him, the latter with greater difficulty (P3-path); Advaita places the qualified Brahman as the object of worship and the unqualified as the object of knowledge (P1-level); the Bhāgavata names one non-dual reality Brahman, Paramātman and Bhagavān by approach, Tulsīdās and the Trika hold both true (P2-standpoint); which is higher remains not yet reconciled.",
+   "detail": "Each reconciler ranks: Advaita puts nirguṇa above saguṇa (the latter vyāvahārika); the Gauḍīyas put Bhagavān above Brahman; Rāmānuja and Madhva deny an attributeless Brahman altogether; Kabīr and the Sants deny that the avatāra is the true Rām. The disputed point is therefore the ranking and the reality-status of the qualities, not whether both idioms occur in scripture.",
+   "tradition_objections": "Rāmānuja: no means of knowledge establishes an undifferentiated reality (Śrībhāṣya 1.1.1); Madhva: all Viṣṇu's qualities are real; Advaita: qualities belong to Brahman only through adjuncts (BS 3.2.11; BSBh 1.1.12); Gauḍīyas: the impersonal Brahman is the effulgence of Bhagavān, a partial realization; Kabīr: the Rām of the Name is not Daśaratha's son.",
+   "rests_on": [
+    "tea:bhagavad-gita:12.2",
+    "tea:bhagavad-gita:12.3-4",
+    "tea:bhagavad-gita:12.5",
+    "tea:brahma-sutra-bhasya-sankara:1.1.12",
+    "tea:bhagavata-purana:1.2.11",
+    "tea:ramcaritmanas:1.116",
+    "tea:pratyabhijnahrdayam:8/2",
+    "tea:sribhasya:1.1.1/5",
+    "tea:kabir-oral-corpus:dasrath-sut-tihun-lok-bakhana"
+   ]
+  },
+  "candidate_readings": [
+   "P4-stage: saguṇa worship as preparation for nirguṇa knowledge (Advaita, Rāma Gītā 7.5.58-62) or nirguṇa realization as a partial stage below loving service of Bhagavān (Gauḍīya) — the two rankings run in opposite directions.",
+   "P2-standpoint (Vallabha): Brahman as locus of all contradictory attributes, so both descriptions are literally true — rejected by Advaita (qualities through adjuncts only) and by Madhva (no attributelessness)."
+  ],
+  "queue_ref": "RQ-U50-13",
+  "disputes": [
+   "dsp:bhagavad-gita-lord-or-unmanifest",
+   "dsp:gaudiya-critique-of-advaita",
+   "dsp:kabir-ram-and-the-avatara",
+   "dsp:rama-of-the-name",
+   "dsp:bhakti-jnana-precedence",
+   "dsp:which-deity-is-supreme",
+   "dsp:siva-or-visnu-epic",
+   "dsp:object-of-bhakti-sbs",
+   "dsp:status-of-radha"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U50-debates"
    ],
    "phases": [
     "skeleton"
@@ -36084,10 +37890,30 @@
    "G"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "cited refs located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 3.6.21",
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 12.7.23; 12.13.4",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.18",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_nAradapurANa.txt (Sansknet) 1.95",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md 1.1.13-15",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/purANAni/upapurANAni/devIbhAgavatapurANam.md (1927 ed., Rāmateja Śarmā) 1.3"
+     ],
+     "result": "confirmed",
+     "note": "All cited refs located: VP 3.6.21 and BhP 12.7.23 ('śaiva'), BhP 12.13.4 (Śaiva 24,000), Matsya 53.18 (Vāyavīya with Rudra's glory, 24,000), Nārada 1.95 (the Vāyu anukramaṇī, fourth), KūP 1.1.13-15. The Devī Bhāgavata list (1.3.3-12, local) also counts the Vāyu (24,600).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -36701,7 +38527,7 @@
   ],
   "verification": {
    "level": "skeleton",
-   "confidence": "high",
+   "confidence": "moderate",
    "unverified": false,
    "checks": []
   },
@@ -37703,8 +39529,276 @@
  },
  {
   "id": "dsp:status-of-veda",
-  "question": "The status of the Veda: authorless, God-authored, or rejected?",
+  "question": "What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?",
+  "coverage_ref": "G11",
+  "coverage": [
+   "G",
+   "B1"
+  ],
   "sides": [
+   {
+    "lineage": "lin:mimamsa",
+    "position": "The Veda is authorless (apauruṣeya) and eternal: the relation of word and meaning is original, not made by any person; names in the Veda are of expounders, not authors, or mere similarity of sound; since faults in testimony arise from dependence on a speaker, a speakerless Veda is free of them and its cognitions are never overturned; every study of the Veda is preceded by the teacher's study; no omniscient author can be established.",
+    "texts": [
+     {
+      "source": "src:mimamsa-sutra",
+      "ref": "1.1.5; 1.1.27-31"
+     },
+     {
+      "source": "src:sabara-bhasya",
+      "ref": "1.1.2; 1.1.5"
+     },
+     {
+      "source": "src:slokavarttika",
+      "ref": "codanā; sambandhākṣepaparihāra; vākya"
+     },
+     {
+      "source": "src:prakaranapancika",
+      "ref": "ch. 7"
+     }
+    ],
+    "rests_on": [
+     "tea:mimamsa-sutra:1.1.5",
+     "tea:mimamsa-sutra:1.1.27-28",
+     "tea:mimamsa-sutra:1.1.30",
+     "tea:mimamsa-sutra:1.1.31",
+     "tea:sabara-bhasya:1.1.2/3",
+     "tea:slokavarttika:codana.62",
+     "tea:slokavarttika:codana.117-118",
+     "tea:slokavarttika:sambandhaksepaparihara.66-68",
+     "tea:slokavarttika:vakya.366",
+     "tea:prakaranapancika:7"
+    ]
+   },
+   {
+    "lineage": "lin:advaita-vedanta",
+    "position": "The Veda is eternal — no independent author of it is remembered, and the world with its fixed forms arises from the Vedic word; yet Brahman is its source, from which it is breathed out effortlessly, and it is the only means of knowing Brahman. For the knower, in the highest state, 'the Vedas are no Vedas'; the Veda is the lower knowledge, the knowledge of the imperishable the higher.",
+    "texts": [
+     {
+      "source": "src:brahma-sutra-bhasya-sankara",
+      "ref": "1.1.3; 1.3.28-29"
+     },
+     {
+      "source": "src:brhadaranyaka-upanisad",
+      "ref": "4.3.22"
+     },
+     {
+      "source": "src:mundaka-upanisad",
+      "ref": "1.1.4-5"
+     }
+    ],
+    "rests_on": [
+     "tea:brahma-sutra:1.3.29",
+     "tea:brahma-sutra-bhasya-sankara:1.3.29",
+     "tea:brahma-sutra-bhasya-sankara:1.3.28",
+     "tea:brahma-sutra:1.1.3",
+     "tea:brahma-sutra-bhasya-sankara:1.1.3",
+     "tea:brhadaranyaka-upanisad:4.3.22",
+     "tea:mundaka-upanisad:1.1.4-5"
+    ]
+   },
+   {
+    "lineage": "lin:dvaita",
+    "position": "The Veda is authorless; no author of it is known, and to assume one would be needless; the Ṛg and other Vedas, the Bhārata and the Pañcarātra are the scriptures that teach Viṣṇu.",
+    "texts": [
+     {
+      "source": "src:visnutattvavinirnaya",
+      "ref": "ch. 1"
+     }
+    ],
+    "rests_on": [
+     "tea:visnutattvavinirnaya:1/3",
+     "tea:visnutattvavinirnaya:1/2"
+    ]
+   },
+   {
+    "lineage": "lin:nyaya",
+    "position": "The Veda is valid because it is the word of a reliable, omniscient speaker (the Lord) — like mantras and Āyurveda, whose validity is seen; the charges of falsehood, self-inconsistency and repetition fail. Nyāya is foremost among sciences because it protects the Veda's authority.",
+    "texts": [
+     {
+      "source": "src:nyaya-sutra",
+      "ref": "2.1.57-69"
+     },
+     {
+      "source": "src:tattvacintamani",
+      "ref": "śabda-khaṇḍa"
+     },
+     {
+      "source": "src:nyayamanjari",
+      "ref": "āhnika 1"
+     }
+    ],
+    "rests_on": [
+     "tea:nyaya-sutra:2.1.69",
+     "tea:nyaya-bhasya:2.1.69",
+     "tea:tattvacintamani:sabda.veda-pramanya",
+     "tea:nyayamanjari:1.veda-raksa",
+     "tea:nyaya-kusumanjali:5.1"
+    ]
+   },
+   {
+    "lineage": "lin:vaisesika",
+    "position": "The authority of the sacred tradition follows from its being the statement of 'that' (the Lord / the seer); the composition of sentences in the Veda is preceded by understanding.",
+    "texts": [
+     {
+      "source": "src:vaisesika-sutra",
+      "ref": "1.1.3; 6.1.1-2"
+     }
+    ],
+    "rests_on": [
+     "tea:vaisesika-sutra:1.1.3",
+     "tea:vaisesika-sutra:6.1.1-2"
+    ]
+   },
+   {
+    "lineage": "lin:samkhya",
+    "position": "The Vedas are not eternal, since scripture speaks of their being produced; nor are they of personal authorship, since there is no author; their validity is intrinsic.",
+    "texts": [
+     {
+      "source": "src:samkhya-sutra",
+      "ref": "5.45-51"
+     }
+    ],
+    "rests_on": [
+     "tea:samkhya-sutra:5.45-51"
+    ]
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "position": "The Gītā: the Vedas have the three guṇas as their domain — be free of the three; for the knowing brāhmaṇa there is as much use in all the Vedas as in a well when there is flood all around; yet the one who casts aside scripture's injunctions attains neither perfection nor happiness; 'I alone am to be known by all the Vedas'.",
+    "texts": [
+     {
+      "source": "src:bhagavad-gita",
+      "ref": "2.42-46; 15.15; 16.23-24"
+     }
+    ],
+    "rests_on": [
+     "tea:bhagavad-gita:2.42-44",
+     "tea:bhagavad-gita:2.45",
+     "tea:bhagavad-gita:2.46",
+     "tea:bhagavad-gita:16.23-24",
+     "tea:bhagavad-gita:15.15"
+    ]
+   },
+   {
+    "lineage": "lin:pramana-buddhist",
+    "position": "An authorless Veda cannot be shown true in meaning: truth of speech depends on the qualities of a speaker, and without a speaker there is no guarantee; the Mīmāṃsā denial of any being who sees supersensible things is refuted; the Veda's claims about the supersensible have no means of knowledge behind them.",
+    "texts": [
+     {
+      "source": "src:pramanavarttika",
+      "ref": "3.225-227 (numbering as recorded)"
+     },
+     {
+      "source": "src:tattvasangraha",
+      "ref": "Atīndriyārthadarśiparīkṣā"
+     },
+     {
+      "source": "src:madhyamakahrdaya",
+      "ref": "ch. 9"
+     }
+    ],
+    "rests_on": [
+     "tea:pramanavarttika:3.225-227",
+     "tea:tattvasangraha:atindriyarthadarsipariksa",
+     "tea:madhyamakahrdaya:9"
+    ],
+    "disputes": [
+     "dsp:omniscience"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
+    "position": "The brāhmaṇas versed in the three Vedas teach a path to union with Brahmā though neither they nor their teachers to the seventh generation have seen Brahmā — like a line of blind men.",
+    "texts": [
+     {
+      "source": "src:tevijja-sutta",
+      "ref": "DN 13 §15"
+     }
+    ],
+    "rests_on": [
+     "tea:tevijja-sutta:15"
+    ],
+    "disputes": [
+     "dsp:tevijja-union-with-brahma"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
+    "position": "The Vedas, the epics and other non-Jain scriptures are 'false scripture' (mithyāśruta) for one of wrong view, though they can serve right knowledge for one of right view; the Jain twelve-limbed canon 'never was not, never is not, never will not be'. Not by the syllable Oṃ is one a brāhmaṇa, but by conduct.",
+    "texts": [
+     {
+      "source": "src:nandi-sutra",
+      "ref": "on mithyāśruta; dvādaśāṅga"
+     },
+     {
+      "source": "src:uttaradhyayana-sutra",
+      "ref": "ch. 25"
+     }
+    ],
+    "rests_on": [
+     "tea:nandi-sutra:mithyasruta",
+     "tea:nandi-sutra:dvadasanga",
+     "tea:uttaradhyayana-sutra:25"
+    ]
+   },
+   {
+    "lineage": "lin:mantramarga",
+    "position": "The Veda and the Āgama are both true, both the Lord's scripture — one general, the other special (Tirumantiram); Śrīkaṇṭha sees no difference between the Veda and the Śivāgama; the Kaula texts make the Vedic auxiliaries the limbs of the Kula (see dsp:agama-veda-authority).",
+    "texts": [
+     {
+      "source": "src:tirumantiram",
+      "ref": "2397"
+     },
+     {
+      "source": "src:srikantha-bhasya",
+      "ref": "2.2.38"
+     },
+     {
+      "source": "src:kularnava-tantra",
+      "ref": "2.85"
+     }
+    ],
+    "rests_on": [
+     "tea:tirumantiram:2397",
+     "tea:srikantha-bhasya:2.2.38",
+     "tea:kularnava-tantra:2.85",
+     "tea:mahanirvana-tantra:2.7-15"
+    ],
+    "disputes": [
+     "dsp:agama-veda-authority",
+     "dsp:authority-of-the-agamas"
+    ]
+   },
+   {
+    "lineage": "lin:sant",
+    "position": "Do not say the Vedas and the Books are false; false is the one who does not reflect (Kabīr); I speak of what I have seen, you of what is written on paper; the Bāuls follow the present (bartamān), not the inferred; Basava will put the Veda to the touchstone; Tukārām: we alone know the Veda's meaning, others carry its burden.",
+    "texts": [
+     {
+      "source": "src:kabir-oral-corpus",
+      "ref": "as recorded"
+     },
+     {
+      "source": "src:baul-gan",
+      "ref": "as recorded"
+     },
+     {
+      "source": "src:basavanna-vacanas",
+      "ref": "as recorded"
+     },
+     {
+      "source": "src:tukaram-gatha",
+      "ref": "as recorded"
+     }
+    ],
+    "rests_on": [
+     "tea:kabir-oral-corpus:bed-kateb-kahahu-mat-jhuthe",
+     "tea:kabir-oral-corpus:main-kahta-ankhin-dekhi",
+     "tea:baul-gan:bartaman-and-anuman",
+     "tea:basavanna-vacanas:vedakke-oregalla-kattuve",
+     "tea:tukaram-gatha:vedanca-artha"
+    ],
+    "notes": "Several poets, grouped here as the critique from lived experience; Basava is Vīraśaiva, the Bāuls and Tukārām belong to other lineages — the lineage field is a grouping, see each teaching's own lineage."
+   },
    {
     "lineage": "lin:carvaka",
     "position": "(As reported) Rejected: the Veda is tainted by falsehood, inconsistency and repetition; its makers were buffoons, knaves and demons; its rites are a livelihood of priests; the Bārhaspatyas call it a mere cover.",
@@ -37728,7 +39822,8 @@
      "tea:sarvadarsanasangraha:1/9",
      "tea:arthasastra:1.2.4-5"
     ],
-    "party": "reported_by_opponent"
+    "party": "reported_by_opponent",
+    "contributed_by": "U33-sramana"
    },
    {
     "lineage": "lin:sramana",
@@ -37745,7 +39840,8 @@
     "rests_on": [
      "tea:samannaphala-sutta:23"
     ],
-    "party": "reported_by_opponent"
+    "party": "reported_by_opponent",
+    "contributed_by": "U33-sramana"
    },
    {
     "lineage": "lin:early-buddhism",
@@ -37761,7 +39857,8 @@
     ],
     "rests_on": [
      "tea:bhuridatta-jataka:161-173"
-    ]
+    ],
+    "contributed_by": "U33-sramana"
    },
    {
     "lineage": "lin:nyaya",
@@ -37777,14 +39874,438 @@
     ],
     "rests_on": [
      "tea:nyaya-sutra:2.1.58-59"
+    ],
+    "contributed_by": "U33-sramana"
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "The Mīmāṃsā–Buddhist exchange on scripture and omniscience (textual)",
+    "date": "c. 6th–8th c. CE (scholarly, approximate)",
+    "participants": [
+     "tch:kumarila",
+     "tch:dharmakirti",
+     "tch:santaraksita"
+    ],
+    "accounts": "Ślokavārttika (codanā, sambandhākṣepaparihāra); Pramāṇavārttika; Tattvasaṅgraha (Śrutiparīkṣā, Atīndriyārthadarśiparīkṣā)",
+    "outcome_by_tradition": "Each holds its own case established.",
+    "notes": "Written replies, not a single meeting."
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled: the Vedic schools agree the Veda is valid but disagree whether it has an author (Mīmāṃsā, Vedānta vs Nyāya), and the śramaṇa, Cārvāka and some bhakti and Sant voices deny or relativize its authority.",
+   "detail": "Within the Vedic schools Vedānta takes a middle course — breathed out by Brahman yet not freely composed, re-manifest in each cycle with the same names and forms (BSBh 1.1.3; 1.3.28-30) — which accommodates the Nyāya concern (a source in the omniscient) and the Mīmāṃsā concern (no human author) but is accepted by neither. The Upaniṣads and the Gītā themselves relativize the Veda for the knower (MuU 1.1.4-5; BĀU 4.3.22; BhG 2.46).",
+   "tradition_objections": "Mīmāṃsā rejects any author, the Lord included (ŚV sambandhākṣepaparihāra 66-68); Nyāya holds that validity requires a reliable speaker (NS 2.1.69); the Buddhists and Jains deny the Veda's claim over the supersensible; the Cārvākas deny it outright.",
+   "rests_on": [
+    "tea:mimamsa-sutra:1.1.5",
+    "tea:slokavarttika:sambandhaksepaparihara.66-68",
+    "tea:nyaya-sutra:2.1.69",
+    "tea:brahma-sutra-bhasya-sankara:1.1.3",
+    "tea:brahma-sutra-bhasya-sankara:1.3.29",
+    "tea:pramanavarttika:3.225-227",
+    "tea:mundaka-upanisad:1.1.4-5",
+    "tea:bhagavad-gita:2.46"
+   ]
+  },
+  "candidate_readings": [
+   "P2-standpoint (Vedānta's middle): from the standpoint of its source the Veda issues from the omniscient; from the standpoint of its form and sequence it is never freely composed — rejected by Mīmāṃsā (no Lord) and by Nyāya (the Lord composes it anew).",
+   "P1-level / P4-stage (the Upaniṣads' and Gītā's own relativization): the Veda is the lower knowledge, of use until the flood of knowledge — for the knower 'the Vedas are no Vedas'; Mīmāṃsā does not accept a stage beyond the injunctions.",
+   "P7-arthavada: the Sants' and Tantras' disparagements of Veda-reciters read as censure of misuse, not of the Veda (Kabīr: 'do not say the Vedas are false') — the śramaṇa critics reject the Veda itself, not only its misuse."
+  ],
+  "queue_ref": "RQ-U50-11",
+  "disputes": [
+   "dsp:seen-or-made-hymns",
+   "dsp:authority-of-the-puranas",
+   "dsp:agama-veda-authority",
+   "dsp:authority-of-the-agamas",
+   "dsp:siddhar-veda-and-scripture",
+   "dsp:tamil-prabandham-as-veda",
+   "dsp:tamil-veda-status",
+   "dsp:omniscience",
+   "dsp:eternality-of-sound",
+   "dsp:svatah-paratah-pramanya",
+   "dsp:tevijja-union-with-brahma",
+   "dsp:jabali-rama",
+   "dsp:vedic-status-of-tantra",
+   "dsp:virasaiva-veda-agama-authority"
+  ],
+  "notes": "Cārvāka, Ajita and Bhūridatta sides and the Nyāya reply (NS 2.1.58-59) contributed by U33 are included verbatim.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "alt_notes": [
+   "U33 contribution; U50 owns the dispute and its reconciliation."
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U50-debates",
+    "skeleton:U33-sramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:sudden-or-gradual",
+  "question": "Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?",
+  "coverage_ref": "G6",
+  "coverage": [
+   "G"
+  ],
+  "sides": [
+   {
+    "lineage": "lin:heze",
+    "position": "Shenhui (Southern school): Bodhidharma's robe and the direct transmission passed to Huineng; Shenxiu's line is collateral, and its teaching — 'freezing the mind to enter samādhi, fixing the mind to view purity, activating the mind to illumine outside, concentrating the mind to realise within' — is gradual; the true teaching is sudden awakening.",
+    "texts": [
+     {
+      "source": "src:nanzong-ding-shifei-lun",
+      "ref": "Huatai assembly"
+     },
+     {
+      "source": "src:platform-sutra",
+      "ref": "4.11"
+     }
+    ],
+    "rests_on": [
+     "tea:nanzong-ding-shifei-lun:huatai",
+     "tea:platform-sutra:4.11",
+     "tea:platform-sutra-dunhuang:14.1"
+    ],
+    "disputes": [
+     "dsp:huatai-true-lineage"
+    ]
+   },
+   {
+    "lineage": "lin:chan",
+    "position": "The Platform Sūtra: the Dharma has no sudden or gradual; people's natures are sharp or dull — the deluded cultivate gradually, the awakened accord suddenly. Its gate takes no-thought as its tenet, no-form as its substance, non-abiding as its root; for one awakened to self-nature there is 'sudden awakening, sudden cultivation, without gradual steps', while Shenxiu's three trainings suit smaller faculties. Guishan: a beginner who suddenly awakens to principle in one thought still has beginningless habit energies to clear — that is cultivation.",
+    "texts": [
+     {
+      "source": "src:platform-sutra",
+      "ref": "5.6; 7.2-3; 11.7"
+     },
+     {
+      "source": "src:guishan-yulu",
+      "ref": "577c"
+     }
+    ],
+    "rests_on": [
+     "tea:platform-sutra:7.3",
+     "tea:platform-sutra:5.6",
+     "tea:platform-sutra:11.7",
+     "tea:platform-sutra:7.2",
+     "tea:guishan-yulu:577c04"
+    ]
+   },
+   {
+    "lineage": "lin:northern-chan",
+    "position": "The Northern school in its own words: the buddhas have a great expedient for entering the Way — with one thought of the pure mind one suddenly transcends to the buddha-ground; viewing the mind, if it is pure, is called the ground of the pure mind; awakening is the mind's substance free of thought, equal to space. (The Southern texts report Shenxiu's verse — the body the bodhi tree, the mind a bright mirror to be wiped — and his 'fix the mind, view stillness'.)",
+    "texts": [
+     {
+      "source": "src:dasheng-wusheng-fangbian-men",
+      "ref": "T85n2834 p.1273c"
+     },
+     {
+      "source": "src:platform-sutra",
+      "ref": "4.6; 11.1 (as reported)"
+     }
+    ],
+    "rests_on": [
+     "tea:dasheng-wusheng-fangbian-men:1273c01",
+     "tea:platform-sutra:4.6",
+     "tea:platform-sutra:11.1"
+    ]
+   },
+   {
+    "lineage": "lin:chan",
+    "position": "Moheyan (Chinese party at the Tibetan court): all beings are bound by deluded, discriminating thought; when thoughts arise, do not follow them — 'not thinking, not examining' — and the originally pure mind appears; the six perfections are included in this non-examining; entry into non-conceptuality is simultaneous, not by steps.",
+    "texts": [
+     {
+      "source": "src:dunwu-dasheng-zhengli-jue",
+      "ref": "Moheyan's replies"
+     },
+     {
+      "source": "src:samten-migdron",
+      "ref": "simultaneous approach"
+     }
+    ],
+    "rests_on": [
+     "tea:dunwu-dasheng-zhengli-jue:no-examining",
+     "tea:samten-migdron:simultaneous"
+    ],
+    "teacher": "tch:moheyan"
+   },
+   {
+    "lineage": "lin:yogacara-madhyamaka",
+    "position": "Kamalaśīla: there is no way other than correct analysis (bhūta-pratyavekṣā) to reach non-recollection and non-attention; mere absence of thought cannot cause non-conceptual wisdom, or one who has fainted would have it. Seeing by analysis that no dharma has arisen in the three times, the yogin enters non-conceptual wisdom; the path is gradual — calm abiding and insight, the perfections and the grounds.",
+    "texts": [
+     {
+      "source": "src:bhavanakrama",
+      "ref": "third Bhāvanākrama"
+     },
+     {
+      "source": "src:samten-migdron",
+      "ref": "gradual approach"
+     }
+    ],
+    "rests_on": [
+     "tea:bhavanakrama:3",
+     "tea:samten-migdron:gradual"
+    ],
+    "teacher": "tch:kamalasila"
+   },
+   {
+    "lineage": "lin:theravada",
+    "position": "The Kathāvatthu rejects the thesis that the truths are penetrated gradually (anupubbābhisamaya): each path penetrates the four truths at once.",
+    "texts": [
+     {
+      "source": "src:kathavatthu",
+      "ref": "2.9"
+     }
+    ],
+    "rests_on": [
+     "tea:kathavatthu:2.9"
+    ],
+    "disputes": [
+     "dsp:kv-gradual-penetration"
+    ]
+   },
+   {
+    "lineage": "lin:sarvastivada",
+    "position": "The truths are realized in sixteen successive moments of acceptance and knowledge on the path of seeing — a graded, momentary sequence.",
+    "texts": [
+     {
+      "source": "src:abhidharmakosa",
+      "ref": "6.25-28"
+     }
+    ],
+    "rests_on": [
+     "tea:abhidharmakosa:6.25-28"
+    ],
+    "disputes": [
+     "dsp:gradual-or-single-realization"
+    ]
+   },
+   {
+    "lineage": "lin:mahayana",
+    "position": "The Laṅkāvatāra: the stream of what is seen as one's own mind is purified gradually — as mangoes ripen — and also all at once — as a mirror shows all forms at once. The Avataṃsaka: at the first arousal of the mind one attains unsurpassed awakening. The Śūraṅgama: in principle awakening is sudden, in phenomena removal is gradual.",
+    "texts": [
+     {
+      "source": "src:lankavatara-sutra",
+      "ref": "ch. 2"
+     },
+     {
+      "source": "src:avatamsaka-sutra",
+      "ref": "ch. 16"
+     },
+     {
+      "source": "src:surangama-sutra",
+      "ref": "ch. 10"
+     }
+    ],
+    "rests_on": [
+     "tea:lankavatara-sutra:2.p25",
+     "tea:avatamsaka-sutra:16",
+     "tea:surangama-sutra:10"
+    ]
+   },
+   {
+    "lineage": "lin:heze",
+    "position": "Zongmi: sudden and gradual, awakening and cultivation, seem opposed but accord and support one another; if one cultivates on the basis of awakening it is understanding-awakening, if one awakens through cultivation it is realization-awakening; 'first sudden awakening, then gradual cultivation' is like the sun rising at once while frost melts gradually. Over past lives there is only the gradual.",
+    "texts": [
+     {
+      "source": "src:chanyuan-zhuquanji-duxu",
+      "ref": "T48n2015 402a; 408a"
+     }
+    ],
+    "rests_on": [
+     "tea:chanyuan-zhuquanji-duxu:402a10",
+     "tea:chanyuan-zhuquanji-duxu:408a02"
+    ],
+    "teacher": "tch:zongmi"
+   },
+   {
+    "lineage": "lin:seon",
+    "position": "Jinul: though there are many gates, in essence they are two — sudden awakening and gradual cultivation; even the 'sudden awakening, sudden cultivation' of the highest faculties rests on gradual cultivation in past lives; the principle is awakened suddenly, habit energies are removed step by step.",
+    "texts": [
+     {
+      "source": "src:susim-kyol",
+      "ref": "T48n2020"
+     }
+    ],
+    "rests_on": [
+     "tea:susim-kyol:1006b15",
+     "tea:susim-kyol:1006c11"
+    ],
+    "teacher": "tch:jinul",
+    "disputes": [
+     "dsp:seon-sudden-cultivation-debate"
+    ]
+   },
+   {
+    "lineage": "lin:seon",
+    "position": "(Recent) Seongcheol: the patriarchs' awakening is realization-awakening in which cultivation is also complete — sudden awakening, sudden cultivation; Jinul's formula describes only understanding-awakening.",
+    "texts": [
+     {
+      "source": "src:seonmun-jeongno",
+      "ref": "whole"
+     }
+    ],
+    "rests_on": [
+     "tea:seonmun-jeongno:donodonsu"
+    ],
+    "recent": true,
+    "teacher": "tch:seongcheol"
+   },
+   {
+    "lineage": "lin:sakya",
+    "position": "Sakya Paṇḍita: the Mahāmudrā of his day and the 'Chinese Great Perfection' are essentially the same as the Hashang's teaching rejected in Tibet; true Mahāmudrā is the wisdom born of empowerment and the two stages.",
+    "texts": [
+     {
+      "source": "src:domsum-rabye",
+      "ref": "ch. 3"
+     }
+    ],
+    "rests_on": [
+     "tea:discrimination-of-the-three-vows:ch.3",
+     "tea:domsum-rabye:ch.3.chinese"
+    ],
+    "teacher": "tch:sakya-pandita",
+    "disputes": [
+     "dsp:dzogchen-and-chan"
+    ]
+   },
+   {
+    "lineage": "lin:vajrayana",
+    "position": "The Ājñāsamyakpramāṇa: by the difference of persons' minds there are the gradual and the simultaneous; the medicine of one is the poison of the other — teach the simultaneous to one with the residue of former training, the gradual to beginners.",
+    "texts": [
+     {
+      "source": "src:ajnasamyakpramana",
+      "ref": "Derge Tengyur 271a"
+     }
+    ],
+    "rests_on": [
+     "tea:ajnasamyakpramana:271a.3"
+    ]
+   },
+   {
+    "lineage": "lin:advaita-vedanta",
+    "position": "(An analogue in the Upaniṣadic yoga texts) The Varāha Upaniṣad distinguishes Śuka's path of the bird — immediate liberation through inquiry into the great sayings — from Vāmadeva's path of the ant — gradual liberation over births through yoga — and says both reach Brahman.",
+    "texts": [
+     {
+      "source": "src:varaha-upanisad",
+      "ref": "4.34-42"
+     }
+    ],
+    "rests_on": [
+     "tea:varaha-upanisad:4.34-42"
     ]
    }
   ],
-  "notes": "U33 contribution; U50 owns the dispute and its reconciliation.",
-  "coverage": [
-   "B1",
-   "G"
+  "historical_debates": [
+   {
+    "name": "The Samye debate (bSam yas)",
+    "date": "tradition: c. 792–794 CE under Khri srong lde btsan",
+    "participants": [
+     "tch:kamalasila",
+     "tch:moheyan",
+     "tch:trisong-detsen"
+    ],
+    "accounts": "Tibetan accounts (the Testament of Ba / sBa bzhed; later Bu ston and others) report a debate before the king in which the Indian party of Kamalaśīla, teaching the gradual path of the perfections, prevailed over the party of the Chinese master Moheyan, teaching sudden non-conceptuality, and the king ruled that Tibetans should follow Nāgārjuna's view and the gradual path. The Chinese Dunhuang document Dunwu dasheng zhengli jue (compiled by Wangxi) records Moheyan's answers to the Indian objections and presents his teaching as upheld. Kamalaśīla's third Bhāvanākrama argues against non-thinking as the way to non-conceptuality.",
+    "outcome_by_tradition": "Tibetan tradition: Kamalaśīla prevailed and Moheyan left Tibet. Dunhuang Chinese account: Moheyan's teaching was vindicated. Nupchen's Samten Migdrön ranks the simultaneous above the gradual but below Mahāyoga and Atiyoga.",
+    "scholarly": "Whether a single formal debate took place, or a series of written and oral exchanges, is disputed (scholarly account, labelled).",
+    "rests_on": [
+     "tea:bashe:samye-debate",
+     "tea:dunwu-dasheng-zhengli-jue:no-examining",
+     "tea:bhavanakrama:3",
+     "tea:samten-migdron:simultaneous",
+     "tea:samten-migdron:gradual"
+    ]
+   },
+   {
+    "name": "Shenhui's Huatai assembly",
+    "date": "732 CE (Kaiyuan 20), Dayun monastery at Huatai (tradition's account)",
+    "participants": [
+     "tch:shenhui"
+    ],
+    "accounts": "Putidamo nanzong ding shifei lun (record of Shenhui's challenge to the Northern school's claim to be the true line and to its 'gradual' teaching; the opponent named there is the Dharma master Chongyuan)",
+    "outcome_by_tradition": "Heze tradition: Huineng established as the Sixth Patriarch and the Southern teaching as sudden and orthodox; the Northern school's own texts (e.g. Dasheng wusheng fangbian men) present their teaching otherwise.",
+    "rests_on": [
+     "tea:nanzong-ding-shifei-lun:huatai",
+     "tea:dasheng-wusheng-fangbian-men:1273c01"
+    ]
+   },
+   {
+    "name": "Kathāvatthu 2.9 (Anupubbābhisamayakathā)",
+    "date": "tradition: the Third Council under Aśoka",
+    "participants": [
+     "tch:moggaliputta-tissa"
+    ],
+    "accounts": "Kathāvatthu 2.9 and commentary",
+    "outcome_by_tradition": "Theravāda: gradual penetration of the truths rejected; each path penetrates all four truths at once.",
+    "rests_on": [
+     "tea:kathavatthu:2.9"
+    ]
+   },
+   {
+    "name": "Seongcheol's critique of Jinul (recent)",
+    "date": "1981 CE (publication of the Seonmun jeongno)",
+    "participants": [
+     "tch:seongcheol",
+     "tch:jinul"
+    ],
+    "accounts": "Seonmun jeongno",
+    "outcome_by_tradition": "Contested within Korean Seon to the present.",
+    "recent": true,
+    "rests_on": [
+     "tea:seonmun-jeongno:donodonsu",
+     "tea:susim-kyol:1006b15"
+    ]
+   }
   ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P4-stage",
+    "P1-level"
+   ],
+   "explanation": "Reconciled within Chan, Seon and the tantric Tengyur by their own principle that sudden and gradual lie in the practitioner's faculties, not in the Dharma (P4-stage), and by the reading 'principle is awakened suddenly, phenomena are removed gradually' (P1-level); the Samye question — whether non-conceptuality is reached by non-examining or only through analysis — remains not yet reconciled.",
+   "detail": "Platform Sūtra 7.3 ('the Dharma has no sudden or gradual; people are sharp or dull'), Zongmi's ninth harmonisation and his sun-and-frost simile, Jinul's sudden awakening and gradual cultivation, the Ājñāsamyakpramāṇa's medicine-and-poison verse, and the Varāha Upaniṣad's bird and ant paths all assign the two to different kinds of practitioner or to different aspects (li and shi) of one path. The Śūraṅgama's 理則頓悟…事非頓除 is the P1 form.",
+   "tradition_objections": "Kamalaśīla and the Tibetan tradition after Samye reject non-examining as a path (Bhāvanākrama 3; Sakya Paṇḍita, Domsum Rabye 3); Shenhui rejects the Northern teaching as gradual and collateral; Seongcheol (recent) rejects gradual cultivation after awakening as mere understanding-awakening; the Kathāvatthu rejects gradual penetration of the truths that the Sarvāstivāda teaches.",
+   "rests_on": [
+    "tea:platform-sutra:7.3",
+    "tea:chanyuan-zhuquanji-duxu:402a10",
+    "tea:chanyuan-zhuquanji-duxu:408a02",
+    "tea:susim-kyol:1006b15",
+    "tea:surangama-sutra:10",
+    "tea:ajnasamyakpramana:271a.3",
+    "tea:varaha-upanisad:4.34-42",
+    "tea:bhavanakrama:3",
+    "tea:dunwu-dasheng-zhengli-jue:no-examining"
+   ]
+  },
+  "candidate_readings": [
+   "P4-stage for Samye: the simultaneous approach for those of sharp faculties or with former training, the gradual for beginners (Ājñāsamyakpramāṇa; Samten Migdrön's ranking) — rejected by Kamalaśīla ('no way other than correct analysis').",
+   "P6-upaya: 'not thinking, not examining' as a pointer to the ever-present mind rather than a technique — not accepted by the Tibetan critics, who read it as a method that leads to dullness.",
+   "Kathāvatthu vs Sarvāstivāda: 'at once' of the path-moment vs sixteen moments of the path of seeing — a question of how moments are counted within one path; neither school states this reconciliation."
+  ],
+  "queue_ref": "RQ-U50-06",
+  "disputes": [
+   "dsp:huatai-true-lineage",
+   "dsp:seon-sudden-cultivation-debate",
+   "dsp:dzogchen-and-chan",
+   "dsp:kv-gradual-penetration",
+   "dsp:gradual-or-single-realization",
+   "dsp:koan-or-silent-illumination",
+   "dsp:hongzhou-all-activity-buddha-nature",
+   "dsp:mantra-and-paramita-ways"
+  ],
+  "notes": "The Tibetan and Dunhuang accounts of Samye differ and are both recorded; neither is adopted.",
   "verification": {
    "level": "skeleton",
    "confidence": "moderate",
@@ -37793,7 +40314,7 @@
   },
   "provenance": {
    "units": [
-    "skeleton:U33-sramana"
+    "skeleton:U50-debates"
    ],
    "phases": [
     "skeleton"
@@ -37985,10 +40506,31 @@
    "G"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "cited refs located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text)",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa)",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_zivapurANabooks-1-and-7.txt (Venkateshwara ed.)",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/linga-purANam.md",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet)",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/purANAni/upapurANAni/devIbhAgavatapurANam.md (1927 ed., Rāmateja Śarmā)"
+     ],
+     "result": "confirmed",
+     "note": "All cited refs located (BhP 1.3.28, 8.3.30, 12.13.16; VP 1.2.66; ŚiP 1.5.10-28; LiP 1.17.33-34; DM MkP 81.65, 84.7; DBhP 3.3; KūP Uparibhāga 1-11 = Īśvara Gītā).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -42079,9 +44621,9 @@
   "historical_debates": [
    {
     "name": "pamphlet controversy over the Bhāgavata's status",
-    "date": "c. 18th-19th c. (not checked)",
+    "date": "c. 17th-18th c. CE",
     "participants": [],
-    "accounts": "Polemical tracts on both sides (titles such as 'Durjanamukhacapeṭikā' are reported; authorship and dates not verified in this sweep).",
+    "accounts": "Rāmāśrama (Bhānuji Dīkṣita, son of Bhaṭṭoji Dīkṣita) wrote the Durjanamukhacapeṭikā upholding the Viṣṇu-Bhāgavata as the Mahāpurāṇa; Kāśīnātha Bhaṭṭa, a Śākta paṇḍita of Vārāṇasī, replied with the Durjanamukhamahācapeṭikā for the Devī-Bhāgavata; Mitra Miśra's Vīramitrodaya (17th c.) also supported the Viṣṇu-Bhāgavata.",
     "outcome_by_tradition": "each side claims victory"
    }
   ],
@@ -42090,11 +44632,54 @@
    "G"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "catalog+websearch",
+     "queries": [
+      "cited refs located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/purANAni/upapurANAni/devIbhAgavatapurANam.md (1927 ed., Rāmateja Śarmā) 1.3.16",
+      "https://www.wisdomlib.org/hinduism/compilation/purana-bulletin/d/doc1456799.html",
+      "https://colenda.library.upenn.edu/catalog/81431-p3tb0xz0m"
+     ],
+     "result": "corrected",
+     "note": "Sides confirmed (Matsya 53.20-22, BhP 12.13.9-15, DBhP 1.3 located; DBhP 1.3.16 lists 'bhāgavatam' among the Upapurāṇas). The historical debate's date '(c. 18th-19th c., not checked)' is corrected: the Durjanamukhacapeṭikā was written by Rāmāśrama (Bhānuji Dīkṣita, son of Bhaṭṭoji Dīkṣita) in defence of the Viṣṇu-Bhāgavata, answered by the Śākta Durjanamukhamahācapeṭikā of Kāśīnātha Bhaṭṭa of Vārāṇasī; Mitra Miśra's Vīramitrodaya (17th c.) also backed the Viṣṇu-Bhāgavata - a 17th-18th c. controversy (later printings exist).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
+  "correction_log": [
+   {
+    "field": "historical_debates",
+    "old": [
+     {
+      "name": "pamphlet controversy over the Bhāgavata's status",
+      "date": "c. 18th-19th c. (not checked)",
+      "participants": [],
+      "accounts": "Polemical tracts on both sides (titles such as 'Durjanamukhacapeṭikā' are reported; authorship and dates not verified in this sweep).",
+      "outcome_by_tradition": "each side claims victory"
+     }
+    ],
+    "new": [
+     {
+      "name": "pamphlet controversy over the Bhāgavata's status",
+      "date": "c. 17th-18th c. CE",
+      "participants": [],
+      "accounts": "Rāmāśrama (Bhānuji Dīkṣita, son of Bhaṭṭoji Dīkṣita) wrote the Durjanamukhacapeṭikā upholding the Viṣṇu-Bhāgavata as the Mahāpurāṇa; Kāśīnātha Bhaṭṭa, a Śākta paṇḍita of Vārāṇasī, replied with the Durjanamukhamahācapeṭikā for the Devī-Bhāgavata; Mitra Miśra's Vīramitrodaya (17th c.) also supported the Viṣṇu-Bhāgavata.",
+      "outcome_by_tradition": "each side claims victory"
+     }
+    ],
+    "reason": "Sides confirmed (Matsya 53.20-22, BhP 12.13.9-15, DBhP 1.3 located; DBhP 1.3.16 lists 'bhāgavatam' among the Upapurāṇas). The historical debate's date '(c. 18th-19th c., not checked)' is corrected: the Durjanamukhacapeṭikā was written by Rāmāśrama (Bhānuji Dīkṣita, son of Bhaṭṭoji Dīkṣita) in defence of the Viṣṇu-Bhāgavata, answered by the Śākta Durjanamukhamahācapeṭikā of Kāśīnātha Bhaṭṭa of Vārāṇasī; Mitra Miśra's Vīramitrodaya (17th c.) also backed the Viṣṇu-Bhāgavata - a 17th-18th c. controversy (later printings exist).",
+    "date": "2026-09-29 18:11 IST",
+    "by": "sourcing:U07-puranas"
+   }
+  ],
   "provenance": {
    "units": [
     "skeleton:U07-puranas"
@@ -43058,6 +45643,567 @@
   }
  },
  {
+  "id": "dsp:women-caste-liberation",
+  "question": "Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?",
+  "coverage_ref": "G12",
+  "coverage": [
+   "G"
+  ],
+  "sides": [
+   {
+    "lineage": "lin:dharmasastra",
+    "position": "The orthodox order: four classes with distinct duties; the śūdra is not twice-born and may not hear, study or perform the Veda — severe penalties are laid down for one who listens to it; a woman is guarded by father, husband and sons and is not independent; eligibility for the Vedic rite belongs to the twice-born, husband and wife performing jointly. The Veda is not within hearing of women and śūdras — hence the Bhārata was composed for them.",
+    "texts": [
+     {
+      "source": "src:apastamba-dharmasutra",
+      "ref": "1.1.1.4-8"
+     },
+     {
+      "source": "src:gautama-dharmasutra",
+      "ref": "12.4-6"
+     },
+     {
+      "source": "src:manusmrti",
+      "ref": "5.147-148; 9.3; 10.4"
+     },
+     {
+      "source": "src:mimamsa-sutra",
+      "ref": "6.1"
+     },
+     {
+      "source": "src:bhagavata-purana",
+      "ref": "1.4.25"
+     }
+    ],
+    "rests_on": [
+     "tea:apastamba-dharmasutra:1.1.1.4-8",
+     "tea:gautama-dharmasutra:12.4-6",
+     "tea:manusmrti:10.4",
+     "tea:manusmrti:9.3",
+     "tea:manusmrti:5.147-148",
+     "tea:mimamsa-sutra:6.1.25-38",
+     "tea:mimamsa-sutra:6.1.6-8",
+     "tea:mimamsa-sutra:6.1.17",
+     "tea:bhagavata-purana:1.4.25"
+    ]
+   },
+   {
+    "lineage": "lin:advaita-vedanta",
+    "position": "Śūdras are not eligible for the knowledge that comes through Vedic study (BS 1.3.34-38); but Śaṅkara grants that those like Vidura and Dharmavyādha attained knowledge through the impressions of former lives, that the fruit of knowledge once attained cannot be withheld, and that all four classes may hear the Itihāsa and Purāṇa. In the Manīṣāpañcaka, whoever has realized the one consciousness is the teacher, be he caṇḍāla or brāhmaṇa.",
+    "texts": [
+     {
+      "source": "src:brahma-sutra-bhasya-sankara",
+      "ref": "1.3.34-38"
+     },
+     {
+      "source": "src:manisa-pancaka",
+      "ref": "1"
+     }
+    ],
+    "rests_on": [
+     "tea:brahma-sutra:1.3.34",
+     "tea:brahma-sutra:1.3.38",
+     "tea:brahma-sutra-bhasya-sankara:1.3.38",
+     "tea:manisa-pancaka:1"
+    ]
+   },
+   {
+    "lineage": "lin:upanisadic",
+    "position": "Maitreyī was a discusser of Brahman; Satyakāma, who did not know his father, was accepted as a brāhmaṇa for his truthfulness; Jānaśruti, addressed as 'śūdra', was taught by Raikva.",
+    "texts": [
+     {
+      "source": "src:brhadaranyaka-upanisad",
+      "ref": "4.5.1"
+     },
+     {
+      "source": "src:chandogya-upanisad",
+      "ref": "4.1-4.4"
+     }
+    ],
+    "rests_on": [
+     "tea:brhadaranyaka-upanisad:4.5.1",
+     "tea:chandogya-upanisad:4.4.1-5",
+     "tea:chandogya-upanisad:4.1.1-4.2.5"
+    ]
+   },
+   {
+    "lineage": "lin:digambara",
+    "position": "Women cannot attain liberation in a female body: they cannot give up clothing and so cannot be without possessions; they lack the strongest bodily constitution needed for the highest pure meditation; as they cannot fall to the lowest hell they cannot rise to the highest state; the scripture's 'female siddhas' means psychological, not physical, sex (Prabhācandra); subtle living beings arise in their bodies (Aṣṭapāhuḍa). The monk's sign is 'like the newborn' — naked.",
+    "texts": [
+     {
+      "source": "src:prameyakamalamartanda",
+      "ref": "strīmukti section"
+     },
+     {
+      "source": "src:astapahuda",
+      "ref": "Sutta-pāhuḍa 24"
+     },
+     {
+      "source": "src:pravacanasara",
+      "ref": "part 3"
+     },
+     {
+      "source": "src:satkhandagama",
+      "ref": "1.1.93"
+     },
+     {
+      "source": "src:sarvarthasiddhi",
+      "ref": "10.9"
+     }
+    ],
+    "rests_on": [
+     "tea:prameyakamalamartanda:strimukti",
+     "tea:astapahuda:sutta.24",
+     "tea:pravacanasara:3",
+     "tea:satkhandagama:1.1.93",
+     "tea:sarvarthasiddhi:10.9"
+    ],
+    "disputes": [
+     "dsp:samjada-controversy",
+     "dsp:kevali-bhukti",
+     "dsp:monastic-nudity"
+    ]
+   },
+   {
+    "lineage": "lin:svetambara",
+    "position": "Women can attain liberation: the nineteenth Tīrthaṅkara, Mallī, was a woman; the liberated include those liberated in a female form (Prajñāpanā's fifteen kinds); nuns keep their robes by monastic law.",
+    "texts": [
+     {
+      "source": "src:jnatadharmakatha",
+      "ref": "1.8"
+     },
+     {
+      "source": "src:prajnapana",
+      "ref": "1"
+     },
+     {
+      "source": "src:tattvartha-sutra",
+      "ref": "10.9"
+     },
+     {
+      "source": "src:brhatkalpa-sutra",
+      "ref": "5"
+     }
+    ],
+    "rests_on": [
+     "tea:jnatadharmakatha:1.8",
+     "tea:prajnapana:1",
+     "tea:tattvartha-sutra:10.9",
+     "tea:brhatkalpa-sutra:5"
+    ],
+    "disputes": [
+     "dsp:mallinatha-gender"
+    ]
+   },
+   {
+    "lineage": "lin:yapaniya",
+    "position": "Śākaṭāyana: there is liberation for women as for men, since its cause — the three jewels — is present in them; a woman is not a non-soul, not incapable of liberation, not opposed to right faith, not non-human.",
+    "texts": [
+     {
+      "source": "src:strinirvana-prakarana",
+      "ref": "1-2"
+     },
+     {
+      "source": "src:yapaniya-tantra",
+      "ref": "as quoted"
+     }
+    ],
+    "rests_on": [
+     "tea:strinirvana-prakarana:1-2",
+     "tea:yapaniya-tantra:lalitavistara-quote"
+    ]
+   },
+   {
+    "lineage": "lin:early-buddhism",
+    "position": "Women who go forth are capable of the fruits up to arahantship (the Buddha to Ānanda), though it is impossible that a woman be a fully awakened Buddha; Mahāpajāpatī's ordination came with eight principles of respect. Somā: what does womanhood matter when the mind is concentrated? Class is not by birth: among humans there is no difference of species; one is a brāhmaṇa by deeds.",
+    "texts": [
+     {
+      "source": "src:vinaya-pitaka",
+      "ref": "Cullavagga 10"
+     },
+     {
+      "source": "src:anguttara-nikaya",
+      "ref": "1.279"
+     },
+     {
+      "source": "src:therigatha",
+      "ref": "3.8"
+     },
+     {
+      "source": "src:vasettha-sutta",
+      "ref": "MN 98 / Sn 3.9"
+     },
+     {
+      "source": "src:assalayana-sutta",
+      "ref": "MN 93"
+     }
+    ],
+    "rests_on": [
+     "tea:cullavagga:10.1.3",
+     "tea:anguttara-nikaya:1.279",
+     "tea:gotami-sutta:11-30",
+     "tea:therigatha:3.8",
+     "tea:bhikkhuni-samyutta:5.2",
+     "tea:vasettha-sutta:7-13",
+     "tea:assalayana-sutta:5-18"
+    ],
+    "disputes": [
+     "dsp:caste-and-purity",
+     "dsp:bhikkhuni-order"
+    ]
+   },
+   {
+    "lineage": "lin:mahayana",
+    "position": "The nāga king's eight-year-old daughter attains buddhahood (the Lotus Sūtra, in which she turns into a man); the goddess in Vimalakīrti's house shows Śāriputra that 'woman' has no fixed mark; Amitābha's thirty-fifth vow; in Zen Dōgen urges bowing to anyone who has attained the Way, man or woman.",
+    "texts": [
+     {
+      "source": "src:saddharmapundarika",
+      "ref": "ch. 12"
+     },
+     {
+      "source": "src:vimalakirtinirdesa",
+      "ref": "ch. 6"
+     },
+     {
+      "source": "src:sukhavativyuha-larger",
+      "ref": "vow 35"
+     },
+     {
+      "source": "src:shobogenzo",
+      "ref": "Raihai tokuzui"
+     }
+    ],
+    "rests_on": [
+     "tea:saddharmapundarika:12/2",
+     "tea:vimalakirtinirdesa:6.14",
+     "tea:sukhavativyuha-larger:vow35",
+     "tea:raihai-tokuzui:women",
+     "tea:jingde-chuandeng-lu:289a07"
+    ],
+    "disputes": [
+     "dsp:womens-bodies-and-buddhahood"
+    ]
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "position": "The Gītā: those who take refuge in me, even of sinful birth — women, vaiśyas and śūdras — reach the highest goal; the learned see the same in a brāhmaṇa, a cow, an elephant, a dog and a dog-eater.",
+    "texts": [
+     {
+      "source": "src:bhagavad-gita",
+      "ref": "5.18; 9.32-33"
+     },
+     {
+      "source": "src:gita-bhasya-ramanuja",
+      "ref": "9.32"
+     },
+     {
+      "source": "src:jnanesvari",
+      "ref": "on 9.32"
+     }
+    ],
+    "rests_on": [
+     "tea:bhagavad-gita:9.32-33",
+     "tea:bhagavad-gita:5.18",
+     "tea:gita-bhasya-ramanuja:9.32",
+     "tea:jnanesvari:9.caste"
+    ]
+   },
+   {
+    "lineage": "lin:puranic",
+    "position": "Devotion knows no distinction of caste, learning, beauty, family or wealth; those of every birth down to the lowest are qualified for it; a dog-cooker who has offered all to the Lord is better than a learned brāhmaṇa without devotion; Rāma tells Śabarī that neither sex, caste, name nor stage of life is the cause of worship.",
+    "texts": [
+     {
+      "source": "src:narada-bhakti-sutra",
+      "ref": "72-73"
+     },
+     {
+      "source": "src:sandilya-bhakti-sutra",
+      "ref": "78"
+     },
+     {
+      "source": "src:bhagavata-purana",
+      "ref": "7.9.10"
+     },
+     {
+      "source": "src:adhyatma-ramayana",
+      "ref": "3.10"
+     }
+    ],
+    "rests_on": [
+     "tea:narada-bhakti-sutra:72-73",
+     "tea:sandilya-bhakti-sutra:78",
+     "tea:bhagavata-purana:7.9.10",
+     "tea:adhyatma-ramayana:3.10.20-21",
+     "tea:kapila-gita:3.33.6-7"
+    ]
+   },
+   {
+    "lineage": "lin:alvar",
+    "position": "The Lord's devotees, even the lowest of the low below the four castes, are to be honoured as he is; the pāṇar Tiruppāṇ Āḻvār was carried into Śrīraṅgam (the tradition's account).",
+    "texts": [
+     {
+      "source": "src:tiruvaymoli",
+      "ref": "3.7.9"
+     },
+     {
+      "source": "src:tirumalai",
+      "ref": "42-43"
+     },
+     {
+      "source": "src:guruparampara-prabhavam-arayirappati",
+      "ref": "Tiruppāṇ"
+     }
+    ],
+    "rests_on": [
+     "tea:tiruvaymoli:3.7.9",
+     "tea:tirumalai:42-43",
+     "tea:guruparampara-prabhavam-arayirappati:tiruppan"
+    ],
+    "disputes": [
+     "dsp:devotee-birth-and-caste"
+    ]
+   },
+   {
+    "lineage": "lin:virasaiva",
+    "position": "Wherever devotion to Śiva is strong, low or high, that one is a devotee; among those joined in the one contemplation of Śiva there is no brāhmaṇa or outcaste. Dāsimayya: they call it woman if they see breasts and long hair, man if beard and whiskers — but the self in between is neither.",
+    "texts": [
+     {
+      "source": "src:siddhantasikhamani",
+      "ref": "9.4-5; 14.19-20"
+     },
+     {
+      "source": "src:devara-dasimayya-vacanas",
+      "ref": "as recorded"
+     },
+     {
+      "source": "src:sunyasampadane",
+      "ref": "Akka Mahādēvi"
+     }
+    ],
+    "rests_on": [
+     "tea:siddhantasikhamani:9.4-5",
+     "tea:siddhantasikhamani:14.19-20",
+     "tea:devara-dasimayya-vacanas:v-breasts-and-long-hair",
+     "tea:sunyasampadane:akka-mahadevi"
+    ],
+    "disputes": [
+     "dsp:virasaiva-caste-and-pollution"
+    ]
+   },
+   {
+    "lineage": "lin:sant",
+    "position": "No one is low by birth; the mud of low deeds makes one low (Ravidās); do not ask a sādhu's caste — ask his knowledge (Kabīr). (The same Kabīr corpus also contains sayings warning against women as a snare — recorded, not harmonised.)",
+    "texts": [
+     {
+      "source": "src:ravidas-bani",
+      "ref": "as recorded"
+     },
+     {
+      "source": "src:kabir-oral-corpus",
+      "ref": "as recorded"
+     },
+     {
+      "source": "src:cokhamela-abhangas",
+      "ref": "as recorded"
+     }
+    ],
+    "rests_on": [
+     "tea:ravidas-bani:ravidas-janm-ke-karane",
+     "tea:kabir-oral-corpus:jati-na-pucho-sadhu-ki",
+     "tea:kabir-oral-corpus:jo-tu-bamhan-bamhani-jaya",
+     "tea:cokhamela-abhangas:us-donga",
+     "tea:kabir-oral-corpus:nari-ki-jhanyi-parat"
+    ],
+    "disputes": [
+     "dsp:caste-and-the-varkari-saints"
+    ]
+   },
+   {
+    "lineage": "lin:tamil-siddha",
+    "position": "What makes a woman a Paṟaicci or a brāhmaṇī — is there any difference in flesh, skin or bone? (Civavākkiyar); learning, caste distinctions and ritual observances are to be burnt away (Pāmpāṭṭi); mankind is one family and God is one (Tirumantiram).",
+    "texts": [
+     {
+      "source": "src:sivavakkiyam",
+      "ref": "as recorded"
+     },
+     {
+      "source": "src:pambatti-padalgal",
+      "ref": "as recorded"
+     },
+     {
+      "source": "src:tirumantiram",
+      "ref": "2104"
+     }
+    ],
+    "rests_on": [
+     "tea:sivavakkiyam:paraicci-avatetata",
+     "tea:pambatti-padalgal:learning-and-caste",
+     "tea:tirumantiram:2104"
+    ]
+   },
+   {
+    "lineage": "lin:kaula",
+    "position": "When the Bhairavī circle has begun, all castes are twice-born; when it is over they are separate again; no caste distinction is to be made in the consecrated food of the supreme Self.",
+    "texts": [
+     {
+      "source": "src:kularnava-tantra",
+      "ref": "8.96-97"
+     },
+     {
+      "source": "src:mahanirvana-tantra",
+      "ref": "3.92"
+     }
+    ],
+    "rests_on": [
+     "tea:kularnava-tantra:8.96-97",
+     "tea:mahanirvana-tantra:3.92"
+    ]
+   },
+   {
+    "lineage": "lin:saiva-siddhanta",
+    "position": "The Kiraṇa, asked whether initiation should follow the ranking of the classes: for women and others incapable of the observances, the guru purifies the observances away and their liberation is through the yoga of devotion in the Śaiva scripture; for the capable the observances remain and knowledge is revealed to them.",
+    "texts": [
+     {
+      "source": "src:kirana-tantra",
+      "ref": "6.1-13"
+     }
+    ],
+    "rests_on": [
+     "tea:kirana-tantra:6.1-4",
+     "tea:kirana-tantra:6.10-13"
+    ],
+    "disputes": [
+     "dsp:atimarga-initiation-eligibility"
+    ]
+   },
+   {
+    "lineage": "lin:hatha-yoga",
+    "position": "Young, old or very old, sick or weak — whoever is diligent attains success in yoga through practice; women and śūdras too may practise breath-control, with a non-Vedic mantra (Yoga-Yājñavalkya).",
+    "texts": [
+     {
+      "source": "src:hatha-yoga-pradipika",
+      "ref": "1.64"
+     },
+     {
+      "source": "src:yoga-yajnavalkya",
+      "ref": "as recorded"
+     }
+    ],
+    "rests_on": [
+     "tea:hatha-yoga-pradipika:1.64",
+     "tea:yoga-yajnavalkya:topic.women-sudras"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "The Digambara–Śvetāmbara division",
+    "date": "tradition: Śvetāmbara date 609 years after Mahāvīra's nirvāṇa (the Boṭika schism)",
+    "participants": [
+     "tch:mahavira"
+    ],
+    "accounts": "Viśeṣāvaśyakabhāṣya on the Boṭika schism (Śvetāmbara account); Digambara accounts differ (see dsp:svetambara-digambara-origin)",
+    "outcome_by_tradition": "Each tradition holds the other departed from the original practice; the women's-liberation question remains a defining difference.",
+    "rests_on": [
+     "tea:visesavasyaka-bhasya:botika"
+    ]
+   },
+   {
+    "name": "The going forth of Mahāpajāpatī Gotamī",
+    "date": "tradition: the Buddha's lifetime",
+    "participants": [
+     "tch:gotama-buddha",
+     "tch:ananda"
+    ],
+    "accounts": "Cullavagga 10 and the Gotamī Sutta",
+    "outcome_by_tradition": "Theravāda: women admitted with the eight principles of respect; the bhikkhunī lineage later lapsed in Theravāda lands (see dsp:bhikkhuni-order).",
+    "rests_on": [
+     "tea:cullavagga:10.1.3",
+     "tea:gotami-sutta:1-10"
+    ]
+   },
+   {
+    "name": "Śaṅkara and the caṇḍāla at Kāśī",
+    "date": "tradition: Śaṅkara's lifetime",
+    "participants": [
+     "tch:sankara"
+    ],
+    "accounts": "The frame story of the Manīṣāpañcaka (the tradition's account)",
+    "outcome_by_tradition": "Advaita tradition: Śaṅkara bows to the caṇḍāla as the one who has realized the self."
+   },
+   {
+    "name": "Nantaṉār at Chidambaram",
+    "date": "tradition: the Nāyaṉmār period",
+    "participants": [],
+    "accounts": "Periya Purāṇam (the tradition's account)",
+    "outcome_by_tradition": "Tamil Śaiva: the outcaste devotee entered Śiva's presence after passing through fire.",
+    "rests_on": [
+     "tea:periya-puranam:tirunalaippovar-puranam"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "queued",
+   "principles": [],
+   "explanation": "Not yet reconciled: the orthodox Vedic order restricts eligibility for Vedic study and rite by birth and sex, the Digambaras deny liberation in a female body, while the Śvetāmbaras and Yāpanīyas, the Buddhists, the bhakti, Vīraśaiva, Sant and Siddha voices and the Kaula tantras open liberation (and in varying degrees initiation) to all.",
+   "detail": "A distinction used within the orthodox tradition itself narrows the dispute: eligibility (adhikāra) for Vedic study is one thing, liberation another — Śaṅkara (BSBh 1.3.38) grants liberation through smṛti, Purāṇa and former-life impressions, and the Manīṣāpañcaka makes realization, not birth, the mark of the teacher. The critics reject birth-based adhikāra itself. Early Buddhism affirms women's arahantship but denies a female sammāsambuddha.",
+   "tradition_objections": "The Digambaras insist on nudity as a condition of liberation and deny it to women (Prameyakamalamārtaṇḍa); the Śvetāmbaras and Yāpanīyas reject that argument (Strīnirvāṇaprakaraṇa); Dharmaśāstra and Mīmāṃsā hold the varṇa restrictions to be Vedic; the Sants, Vīraśaivas and Siddhas deny that birth confers any spiritual rank.",
+   "rests_on": [
+    "tea:brahma-sutra-bhasya-sankara:1.3.38",
+    "tea:gautama-dharmasutra:12.4-6",
+    "tea:prameyakamalamartanda:strimukti",
+    "tea:strinirvana-prakarana:1-2",
+    "tea:cullavagga:10.1.3",
+    "tea:anguttara-nikaya:1.279",
+    "tea:narada-bhakti-sutra:72-73",
+    "tea:ravidas-bani:ravidas-janm-ke-karane",
+    "tea:manisa-pancaka:1"
+   ]
+  },
+  "candidate_readings": [
+   "P4-stage (adhikāra): eligibility for particular disciplines (Vedic study, the naked vow) differs by birth or body while liberation itself does not — the orthodox and Digambara form; rejected by the bhakti, Sant, Vīraśaiva and Siddha critics as a restatement of birth-rank, and by the Digambaras as to liberation itself.",
+   "P2-standpoint: from the standpoint of the self (neither male nor female — Dāsimayya; the Advaita witness) no distinction; from the standpoint of the body and social order, distinctions — each side accepts only its own half.",
+   "P3-path: devotion open to all (NBS 72; BhG 9.32) as a distinct path from Vedic knowledge — accepted by many Vedāntins (Rāmānuja on 9.32) while retaining Vedic restrictions; rejected by the Sants as insufficient."
+  ],
+  "queue_ref": "RQ-U50-12",
+  "disputes": [
+   "dsp:varna-origin-purusa-sukta",
+   "dsp:who-may-learn-the-veda",
+   "dsp:who-is-a-brahmana",
+   "dsp:who-may-renounce",
+   "dsp:varna-by-birth-or-conduct-epic",
+   "dsp:sulabha-janaka",
+   "dsp:mallinatha-gender",
+   "dsp:kevali-bhukti",
+   "dsp:samjada-controversy",
+   "dsp:monastic-nudity",
+   "dsp:caste-and-purity",
+   "dsp:bhikkhuni-order",
+   "dsp:bhiksuni-ordination-revival",
+   "dsp:womens-bodies-and-buddhahood",
+   "dsp:devotee-birth-and-caste",
+   "dsp:caste-and-the-varkari-saints",
+   "dsp:virasaiva-caste-and-pollution",
+   "dsp:natha-varna-and-ritual",
+   "dsp:atimarga-initiation-eligibility",
+   "dsp:siddha-pranali-eligibility"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U50-debates"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "dsp:womens-bodies-and-buddhahood",
   "question": "Can a woman, in a woman's body, attain buddhahood?",
   "sides": [
@@ -43153,6 +46299,499 @@
   "provenance": {
    "units": [
     "skeleton:U39-mahayana-sutras"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "dsp:works-knowledge-grace",
+  "question": "Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?",
+  "coverage_ref": "G9",
+  "coverage": [
+   "G"
+  ],
+  "sides": [
+   {
+    "lineage": "lin:mimamsa",
+    "position": "Dharma, known only from the Veda, yields its fruit; liberation is not enjoined as a fruit of ritual knowledge. For one who knows the self, when earlier actions are exhausted by experience and no new ones arise — by avoiding desire-prompted and forbidden acts and performing the obligatory ones — there is no further embodiment (Kumārila). The self is subsidiary to the rite as its agent (the prior view in BS 3.4.2).",
+    "texts": [
+     {
+      "source": "src:slokavarttika",
+      "ref": "sambandhākṣepaparihāra 102-111"
+     },
+     {
+      "source": "src:sastradipika",
+      "ref": "1.1.5"
+     },
+     {
+      "source": "src:arthasangraha",
+      "ref": "conclusion"
+     },
+     {
+      "source": "src:brahma-sutra",
+      "ref": "3.4.2; 3.4.18 (Jaimini's views as reported)"
+     }
+    ],
+    "rests_on": [
+     "tea:slokavarttika:sambandhaksepaparihara.108-111",
+     "tea:slokavarttika:sambandhaksepaparihara.102-104",
+     "tea:sastradipika:1.1.5/7",
+     "tea:arthasangraha:upasamhara",
+     "tea:brahma-sutra:3.4.2",
+     "tea:brahma-sutra:3.4.18"
+    ],
+    "disputes": [
+     "dsp:siddha-or-sadhya",
+     "dsp:nitya-karma-result"
+    ]
+   },
+   {
+    "lineage": "lin:prabhakara-mimamsa",
+    "position": "One troubled by the sorrows of transmigration, not longing even for the pleasures mixed with them, turns from prohibited and desire-prompted acts, exhausts the merit and demerit already produced by experiencing them, and by self-knowledge supported by calm, restraint and the like destroys the store of karma and is released.",
+    "texts": [
+     {
+      "source": "src:prakaranapancika",
+      "ref": "ch. 8"
+     }
+    ],
+    "rests_on": [
+     "tea:prakaranapancika:8/3"
+    ]
+   },
+   {
+    "lineage": "lin:advaita-vedanta",
+    "position": "Knowledge alone liberates: liberation is not something produced, reached, modified or purified by action but the eternal nature of the self; knowledge of an existing thing depends on the thing, not on the person's will; action is not opposed to ignorance and cannot remove it. Works done without desire purify the mind and produce the desire to know (sacrifice, gifts and austerity, BĀU 4.4.22) and are then renounced; knowledge cannot be combined with works, since works require the notions of agent, act and fruit that knowledge removes.",
+    "texts": [
+     {
+      "source": "src:brahma-sutra-bhasya-sankara",
+      "ref": "1.1.2-4; 3.4.1-26"
+     },
+     {
+      "source": "src:gita-bhasya-sankara",
+      "ref": "introduction to 2.11"
+     },
+     {
+      "source": "src:naiskarmyasiddhi",
+      "ref": "ch. 1"
+     },
+     {
+      "source": "src:upadesa-sahasri",
+      "ref": "padya 1"
+     },
+     {
+      "source": "src:bhamati",
+      "ref": "on BS 3.4.26"
+     }
+    ],
+    "rests_on": [
+     "tea:brahma-sutra-bhasya-sankara:1.1.4",
+     "tea:brahma-sutra-bhasya-sankara:1.1.2",
+     "tea:gita-bhasya-sankara:2.11",
+     "tea:naiskarmyasiddhi:1",
+     "tea:upadesa-sahasri:padya.1",
+     "tea:atma-bodha:3",
+     "tea:brahma-sutra-bhasya-sankara:3.4.26",
+     "tea:bhamati:vividisa",
+     "tea:brahma-sutra:3.4.1",
+     "tea:brahma-sutra:3.4.8"
+    ],
+    "disputes": [
+     "dsp:jnana-karma-samuccaya",
+     "dsp:sravana-alone-liberates",
+     "dsp:prasankhyana"
+    ]
+   },
+   {
+    "lineage": "lin:bhedabheda",
+    "position": "Bhāskara (and before him Bhartṛprapañca): knowledge must be combined with the lifelong performance of prescribed works (jñāna-karma-samuccaya); 'then' in 'then the inquiry into Brahman' means after the inquiry into ritual; release does not come while the body lasts.",
+    "texts": [
+     {
+      "source": "src:brahma-sutra-bhasya-bhaskara",
+      "ref": "1.1.1; 4.1"
+     },
+     {
+      "source": "src:brhadaranyaka-bhasya-varttika",
+      "ref": "Bhartṛprapañca (as reported)"
+     }
+    ],
+    "rests_on": [
+     "tea:brahma-sutra-bhasya-bhaskara:1.1.1",
+     "tea:brahma-sutra-bhasya-bhaskara:4.1",
+     "tea:brhadaranyaka-bhasya-varttika:bhartrprapanca",
+     "tea:brhadaranyaka-upanisad-bhasya-sankara:5.1.1"
+    ]
+   },
+   {
+    "lineage": "lin:visistadvaita",
+    "position": "Liberating knowledge is not the understanding of a sentence but meditation — continuous, loving remembrance (bhakti) — to which works and knowledge are ancillary; the inquiry into Brahman follows the inquiry into ritual. Or, for those unable, the Lord's own words 'abandoning all dharmas, take refuge in me alone' teach surrender (prapatti).",
+    "texts": [
+     {
+      "source": "src:sribhasya",
+      "ref": "1.1.1"
+     },
+     {
+      "source": "src:vedarthasangraha",
+      "ref": "on bhakti"
+     },
+     {
+      "source": "src:gita-bhasya-ramanuja",
+      "ref": "18.66"
+     }
+    ],
+    "rests_on": [
+     "tea:sribhasya:1.1.1",
+     "tea:sribhasya:1.1.1/2",
+     "tea:vedarthasangraha:bhakti",
+     "tea:gita-bhasya-ramanuja:18.66"
+    ],
+    "disputes": [
+     "dsp:is-liberating-knowledge-meditation",
+     "dsp:is-prapatti-an-upaya"
+    ]
+   },
+   {
+    "lineage": "lin:vadakalai",
+    "position": "Vedānta Deśika: surrender (prapatti) is an independent means the soul performs once, with its limbs, and is the occasion of the Lord's grace — as the young monkey clings to its mother (the 'monkey' analogy, markaṭa-nyāya).",
+    "texts": [
+     {
+      "source": "src:rahasyatrayasara",
+      "ref": "upāya-vibhāga; carama-śloka"
+     }
+    ],
+    "rests_on": [
+     "tea:rahasyatrayasara:upaya-vibhaga",
+     "tea:rahasyatrayasara:caramasloka"
+    ],
+    "teacher": "tch:vedanta-desika",
+    "disputes": [
+     "dsp:vadakalai-tenkalai",
+     "dsp:nirhetuka-or-sahetuka-krpa"
+    ]
+   },
+   {
+    "lineage": "lin:tenkalai",
+    "position": "Piḷḷai Lokācārya: the Lord alone is the means; surrender is not a means but the acceptance befitting the soul's dependence; his grace is without cause — as the mother cat carries the kitten (the 'cat' analogy, mārjāra-nyāya).",
+    "texts": [
+     {
+      "source": "src:srivacana-bhusanam",
+      "ref": "2"
+     },
+     {
+      "source": "src:mumuksuppadi",
+      "ref": "carama-śloka section"
+     }
+    ],
+    "rests_on": [
+     "tea:srivacana-bhusanam:2",
+     "tea:srivacana-bhusanam:2/3",
+     "tea:mumuksuppadi:3"
+    ],
+    "teacher": "tch:pillai-lokacarya",
+    "disputes": [
+     "dsp:vadakalai-tenkalai",
+     "dsp:nirhetuka-or-sahetuka-krpa"
+    ],
+    "notes": "The cat/monkey labels are the traditions' own mnemonic summaries of the difference; the texts argue it in terms of upāya."
+   },
+   {
+    "lineage": "lin:dvaita",
+    "position": "Without Nārāyaṇa's grace there is no liberation, and without knowledge no abundant grace: grace won by ritual action is the lowest, by hearing and reflection middling, by direct vision the highest; liberation is won by his pleasure alone, with love preceded by knowledge of his greatness.",
+    "texts": [
+     {
+      "source": "src:brahma-sutra-bhasya-madhva",
+      "ref": "1.1.1"
+     },
+     {
+      "source": "src:mahabharata-tatparya-nirnaya",
+      "ref": "1.76-85"
+     }
+    ],
+    "rests_on": [
+     "tea:brahma-sutra-bhasya-madhva:1.1.1/4",
+     "tea:brahma-sutra-bhasya-madhva:1.1.1/5",
+     "tea:mahabharata-tatparya-nirnaya:1.76-77",
+     "tea:mahabharata-tatparya-nirnaya:1.85"
+    ]
+   },
+   {
+    "lineage": "lin:puranic",
+    "position": "Devotion is greater than action, knowledge and yoga, being of the nature of the fruit; neither yoga, Sāṃkhya, dharma, study, austerity nor renunciation wins the Lord as strong devotion does; devotion is not an act, since like knowledge it does not depend on effort.",
+    "texts": [
+     {
+      "source": "src:narada-bhakti-sutra",
+      "ref": "25-26"
+     },
+     {
+      "source": "src:bhagavata-purana",
+      "ref": "11.14.20-21"
+     },
+     {
+      "source": "src:sandilya-bhakti-sutra",
+      "ref": "7"
+     }
+    ],
+    "rests_on": [
+     "tea:narada-bhakti-sutra:25-26",
+     "tea:uddhava-gita:11.14.20-22",
+     "tea:bhagavata-purana:11.14.20-21",
+     "tea:sandilya-bhakti-sutra:7"
+    ],
+    "disputes": [
+     "dsp:bhakti-jnana-precedence",
+     "dsp:prema-beyond-moksa",
+     "dsp:is-knowledge-the-means-of-bhakti"
+    ]
+   },
+   {
+    "lineage": "lin:epic-teaching",
+    "position": "The Gītā: a twofold commitment was declared of old — the yoga of knowledge for the Sāṃkhyas, the yoga of action for the yogins; renunciation and the yoga of action both bring the highest good; Janaka reached perfection by action; the sacrifice of knowledge is better than material sacrifice; not by the Vedas, austerity, gifts or sacrifice but by exclusive devotion can the Lord be seen; performing all actions, taking refuge in him, one attains by his grace; 'abandoning all dharmas, take refuge in me alone'.",
+    "texts": [
+     {
+      "source": "src:bhagavad-gita",
+      "ref": "3.3-20; 4.33; 5.2; 11.52-54; 18.56-66"
+     }
+    ],
+    "rests_on": [
+     "tea:bhagavad-gita:3.3",
+     "tea:bhagavad-gita:5.2",
+     "tea:bhagavad-gita:3.20",
+     "tea:bhagavad-gita:4.33",
+     "tea:bhagavad-gita:11.52-54",
+     "tea:bhagavad-gita:18.56",
+     "tea:bhagavad-gita:18.66"
+    ],
+    "disputes": [
+     "dsp:gita-primary-teaching",
+     "dsp:renunciation-or-action-gita"
+    ]
+   },
+   {
+    "lineage": "lin:upanisadic",
+    "position": "The Upaniṣads cited by every side: the self is not attained by instruction, intellect or much learning but by the one whom it chooses; sacrifices are unsafe boats; those who worship ignorance (ritual) enter darkness, and greater darkness those delighting in knowledge alone — by both one crosses death; brāhmaṇas seek to know the self by Veda-study, sacrifice, gifts and austerity.",
+    "texts": [
+     {
+      "source": "src:katha-upanisad",
+      "ref": "1.2.23"
+     },
+     {
+      "source": "src:mundaka-upanisad",
+      "ref": "1.2.7-10; 3.2.3"
+     },
+     {
+      "source": "src:isa-upanisad",
+      "ref": "9-11"
+     },
+     {
+      "source": "src:brhadaranyaka-upanisad",
+      "ref": "4.4.22"
+     }
+    ],
+    "rests_on": [
+     "tea:katha-upanisad:1.2.23",
+     "tea:mundaka-upanisad:3.2.3",
+     "tea:mundaka-upanisad:1.2.7-10",
+     "tea:isa-upanisad:9-11",
+     "tea:brhadaranyaka-upanisad:4.4.22",
+     "tea:satapatha-brahmana:10.5.4.16"
+    ]
+   },
+   {
+    "lineage": "lin:kashmir-saivism",
+    "position": "Ignorance — not mere absence of knowledge but incomplete manifestation — is the cause of transmigration and knowledge the sole cause of liberation; the descent of power (śaktipāta) depends on the Lord's freedom alone, not on a balance of karma, and is intense, middling or mild; initiation leading to nirvāṇa happens for the one who knows this, without oblation.",
+    "texts": [
+     {
+      "source": "src:tantraloka",
+      "ref": "1.22-26; ch. 13"
+     },
+     {
+      "source": "src:paratrisika",
+      "ref": "25"
+     }
+    ],
+    "rests_on": [
+     "tea:tantraloka:1.22-23",
+     "tea:tantraloka:1.25-26",
+     "tea:tantraloka:13",
+     "tea:paratrisika:25"
+    ],
+    "disputes": [
+     "dsp:mala-substance-or-ignorance"
+    ]
+   },
+   {
+    "lineage": "lin:saiva-siddhanta",
+    "position": "Bondage by āṇava-mala is a real substance that knowledge alone cannot remove; when the two deeds are balanced and mala has ripened, grace descends and the guru, as Śiva, removes the bonds in initiation — the rite liberates by Śiva's power.",
+    "texts": [
+     {
+      "source": "src:kiranavrtti",
+      "ref": "1-6"
+     },
+     {
+      "source": "src:kriyakramadyotika",
+      "ref": "dīkṣā"
+     },
+     {
+      "source": "src:sivananasiddhiyar",
+      "ref": "cupakkam 8"
+     }
+    ],
+    "rests_on": [
+     "tea:kiranavrtti:1-6",
+     "tea:kriyakramadyotika:diksa",
+     "tea:sivananasiddhiyar:cupakkam.8",
+     "tea:kirana-tantra:6.5-8"
+    ],
+    "disputes": [
+     "dsp:does-diksa-liberate",
+     "dsp:cause-of-saktipata"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
+    "position": "Right view, right knowledge and right conduct together are the path to liberation; knowledge without action is lost and the action of the ignorant is lost. No creator's grace is admitted: the soul frees itself.",
+    "texts": [
+     {
+      "source": "src:tattvartha-sutra",
+      "ref": "1.1"
+     },
+     {
+      "source": "src:tattvartha-rajavarttika",
+      "ref": "1.1"
+     }
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:1.1",
+     "tea:tattvartha-rajavarttika:1.1"
+    ]
+   },
+   {
+    "lineage": "lin:pure-land",
+    "position": "In an age without a buddha one cannot reach non-retrogression by self-power; birth in the Pure Land is by the power of Amitābha's vow (other-power); Shinran: even the good are born there, how much more the evil — shinjin and the nembutsu are themselves given.",
+    "texts": [
+     {
+      "source": "src:sukhavativyuha-larger",
+      "ref": "vow 18"
+     },
+     {
+      "source": "src:wangsheng-lun-zhu",
+      "ref": "vol. 2"
+     },
+     {
+      "source": "src:tannisho",
+      "ref": "3"
+     }
+    ],
+    "rests_on": [
+     "tea:sukhavativyuha-larger:vow18",
+     "tea:wangsheng-lun-zhu:2.other-power",
+     "tea:tannisho:3"
+    ],
+    "disputes": [
+     "dsp:self-power-or-other-power"
+    ]
+   }
+  ],
+  "historical_debates": [
+   {
+    "name": "Śaṅkara and Maṇḍana Miśra at Māhiṣmatī",
+    "date": "tradition: Śaṅkara's lifetime",
+    "participants": [
+     "tch:sankara",
+     "tch:mandana-misra",
+     "tch:ubhaya-bharati"
+    ],
+    "accounts": "Śaṅkaradigvijaya 8–10 (the tradition's account): the debate on knowledge versus Vedic ritual, judged by Maṇḍana's wife Ubhaya Bhāratī, who placed a garland on each; Maṇḍana's garland withered first.",
+    "outcome_by_tradition": "Advaita tradition: Maṇḍana accepted that knowledge alone liberates, took renunciation, and became Sureśvara.",
+    "scholarly": "The identity of Maṇḍana Miśra with Sureśvara is disputed (scholarly account, labelled); Maṇḍana's own Brahmasiddhi holds works helpful to knowledge (see dsp:jnana-karma-samuccaya).",
+    "rests_on": [
+     "tea:sankaradigvijaya:8-10",
+     "tea:brahmasiddhi:4"
+    ]
+   },
+   {
+    "name": "The division of the Vaṭakalai and Teṅkalai",
+    "date": "c. 14th–15th c. CE onward",
+    "participants": [
+     "tch:vedanta-desika",
+     "tch:pillai-lokacarya",
+     "tch:manavala-mamuni"
+    ],
+    "accounts": "Vedānta Deśika's Rahasyatrayasāra; Piḷḷai Lokācārya's Śrīvacana Bhūṣaṇam and Mumukṣuppaḍi with Maṇavāḷa Māmuni's commentaries; the traditions list eighteen differences (see dsp:vadakalai-tenkalai).",
+    "outcome_by_tradition": "Both traditions continue; each holds its account of prapatti and grace to be Rāmānuja's.",
+    "rests_on": [
+     "tea:rahasyatrayasara:upaya-vibhaga",
+     "tea:srivacana-bhusanam:2"
+    ]
+   },
+   {
+    "name": "Hōnen at Ōhara",
+    "date": "1186 CE (tradition's account)",
+    "participants": [
+     "tch:honen"
+    ],
+    "accounts": "Hōnen Shōnin Gyōjō Ezu: before Tendai and Nara scholars Hōnen explained birth by the nembutsu of the vow for ordinary beings of this age.",
+    "outcome_by_tradition": "Jōdo tradition: the scholars were persuaded.",
+    "rests_on": [
+     "tea:honen-shonin-gyojo-ezu:ohara"
+    ]
+   }
+  ],
+  "reconciliation": {
+   "status": "partially-reconciled",
+   "principles": [
+    "P3-path",
+    "P4-stage"
+   ],
+   "explanation": "Reconciled in part by the texts' own ordering: works purify the mind and produce the desire to know (P4-stage — Advaita, Bhāmatī), the Gītā's two commitments for two kinds of people and the Uddhava Gītā's three yogas for different temperaments (P3-path); whether knowledge alone or knowledge with works finally liberates, whether devotion is a means or the goal beyond liberation, and whether grace takes the soul's surrender as its condition remain not yet reconciled.",
+   "detail": "P4: BSBh 3.4.26 and the Bhāmatī make works a preliminary to knowledge; Rāmānuja makes karma- and jñāna-yoga ancillary to bhakti; Madhva grades grace by the means that wins it. P3: BhG 3.3 ('a twofold commitment'), Uddhava Gītā 11.20.6-8 ('knowledge, action and devotion — there is no other'). What is not reconciled: samuccaya (Bhāskara) vs knowledge alone (Śaṅkara); Mīmāṃsā's liberation by exhausting karma vs Vedānta's knowledge; prapatti as a means (Vaṭakalai) vs no means (Teṅkalai); self-power vs other-power; grace by the Lord's freedom (Trika) vs grace occasioned by ripened mala (Siddhānta).",
+   "tradition_objections": "Śaṅkara rejects samuccaya (Gītā-bhāṣya intro to 2.11; BĀU-bhāṣya 5.1.1); Bhāskara rejects knowledge alone; the bhakti schools deny that devotion is merely preparatory (NBS 25-26); the Teṅkalai deny that surrender is a means, the Vaṭakalai affirm it; Jōdo Shinshū denies any self-power; the Jains admit no grace.",
+   "rests_on": [
+    "tea:brahma-sutra-bhasya-sankara:3.4.26",
+    "tea:bhamati:vividisa",
+    "tea:bhagavad-gita:3.3",
+    "tea:uddhava-gita:11.20.6-8",
+    "tea:gita-bhasya-sankara:2.11",
+    "tea:brahma-sutra-bhasya-bhaskara:1.1.1",
+    "tea:narada-bhakti-sutra:25-26",
+    "tea:rahasyatrayasara:upaya-vibhaga",
+    "tea:srivacana-bhusanam:2"
+   ]
+  },
+  "candidate_readings": [
+   "P8-six-marks: the Gītā's purport by opening and close — knowledge (Śaṅkara, from 2.11 and 18.66 as renunciation), devotion (Rāmānuja, Madhusūdana's closing verse), action (recent readings) — see dsp:gita-primary-teaching.",
+   "P7-arthavada: praise of works, of knowledge or of devotion as 'greater than all others' read as praise rather than exclusive doctrine — each school reads the others' texts so and rejects that reading of its own.",
+   "P1-level: works valid at the empirical level, knowledge alone at the ultimate — Advaita's own form, rejected by Bhāskara and by the bhakti schools.",
+   "cat and monkey (P2-standpoint): from the Lord's side grace is causeless, from the soul's side surrender is its fitting response — offered within Śrīvaiṣṇavism but not accepted as dissolving the eighteen differences."
+  ],
+  "queue_ref": "RQ-U50-09",
+  "disputes": [
+   "dsp:jnana-karma-samuccaya",
+   "dsp:gita-primary-teaching",
+   "dsp:renunciation-or-action-gita",
+   "dsp:bhakti-jnana-precedence",
+   "dsp:vadakalai-tenkalai",
+   "dsp:nirhetuka-or-sahetuka-krpa",
+   "dsp:is-prapatti-an-upaya",
+   "dsp:self-power-or-other-power",
+   "dsp:does-diksa-liberate",
+   "dsp:cause-of-saktipata",
+   "dsp:siddha-or-sadhya",
+   "dsp:prema-beyond-moksa",
+   "dsp:yoga-or-knowledge-for-liberation",
+   "dsp:is-knowledge-the-means-of-bhakti",
+   "dsp:mala-substance-or-ignorance"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U50-debates"
    ],
    "phases": [
     "skeleton"
@@ -43558,7 +47197,7 @@
    "principles": [],
    "explanation": "Not yet reconciled: Advaita's own levels of reality make the world real empirically and false ultimately, but Viśiṣṭādvaita, Dvaita, Śaiva Siddhānta and Kashmir Śaivism reject the very distinction as applied to the world, each for its own reasons.",
    "detail": "Advaita offers P1 in its own terms (the world is vyāvahārika-sat; BSBh 2.2.28 upholds external objects against the Buddhist idealist). The theistic Vedāntas deny that anything can be empirically real and ultimately false (Śrībhāṣya 1.1.1; Nyāyāmṛta 1). Kashmir Śaivism agrees that the world depends on one consciousness but calls it that consciousness's real self-display and māyā its power, not avidyā — a difference both sides keep.",
-   "tradition_objections": "Rāmānuja's seven untenabilities of avidyā (Śrībhāṣya 1.1.1); Vyāsatīrtha's refutation of the five definitions of falsity (Nyāyāmṛta); Madhva's rejection of vivarta (Anuvyākhyāna 1.4.95-98); the Kashmir Śaiva view of māyā as Śakti (Paramārthasāra 15); Advaita in turn holds that any real second to Brahman contradicts the non-dual texts (MK 1.17; Advaitasiddhi).",
+   "tradition_objections": "Rāmānuja's seven untenabilities of avidyā (Śrībhāṣya 1.1.1); Vyāsatīrtha's refutation of the five definitions of falsity (Nyāyāmṛta); Madhva's rejection of vivarta (Anuvyākhyāna 1.4.95-98); the Kashmir Śaiva view of māyā as Śakti (Paramārthasāra 15); Advaita in turn holds that any real second to Brahman conflicts with the non-dual texts (MK 1.17; Advaitasiddhi).",
    "rests_on": [
     "tea:mandukya-karika:1.17",
     "tea:brahma-sutra-bhasya-sankara:2.2.28",
@@ -43594,7 +47233,7 @@
   ],
   "verification": {
    "level": "skeleton",
-   "confidence": "high",
+   "confidence": "moderate",
    "unverified": false,
    "checks": []
   },

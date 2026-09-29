@@ -25,7 +25,7 @@ The sugarcane is crooked, but its juice is not; why be deceived by the outward c
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics, dispute_
 
-concepts: [Devotion and caste](../concepts/bhakti-and-caste.md) · teachers: [Cokhāmeḷā](../teachers/cokhamela.md) · disputes: [May people of low birth know and expound the meaning of scripture and approach God on equal terms?](../debates/caste-and-the-varkari-saints.md), `dsp:women-caste-liberation`
+concepts: [Devotion and caste](../concepts/bhakti-and-caste.md) · teachers: [Cokhāmeḷā](../teachers/cokhamela.md) · disputes: [May people of low birth know and expound the meaning of scripture and approach God on equal terms?](../debates/caste-and-the-varkari-saints.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### abhaṅgas of complaint <a id="tea-cokhamela-abhangas-temple-door"></a>
 `skeleton` · confidence low
@@ -38,4 +38,4 @@ concepts: [Devotion and caste](../concepts/bhakti-and-caste.md) · teachers: [Co
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

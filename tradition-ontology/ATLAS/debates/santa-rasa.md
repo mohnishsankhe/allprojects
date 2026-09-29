@@ -36,4 +36,4 @@ Abhinavagupta rejects the restriction and argues for śānta in drama too; the r
 **The traditions' own objections:** Abhinavagupta insists śānta is a rasa in drama; Dhanika denies calm can be a stable emotion at all.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._

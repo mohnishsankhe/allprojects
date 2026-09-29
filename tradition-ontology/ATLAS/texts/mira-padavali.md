@@ -77,4 +77,4 @@ concepts: [The guru in the minor Upaniṣads](../concepts/guru.md) · teachers: 
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

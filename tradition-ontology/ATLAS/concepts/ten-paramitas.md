@@ -17,4 +17,4 @@
 _Notes: Shared id (U39/U40)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._

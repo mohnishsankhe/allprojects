@@ -9,4 +9,4 @@
 Disciple of Kabīr to whom the Kabīr Chaurā line of Varanasi traces its succession of mahants.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

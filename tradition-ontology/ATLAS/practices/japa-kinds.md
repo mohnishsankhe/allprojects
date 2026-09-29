@@ -16,4 +16,4 @@ Loud, whispered (upāṃśu) and mental recitation, each far superior to the pre
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Śāṇḍilya 1.2 (vācika, upāṃśu, mānasa) and Darśana 2 are located. All 2 teachings it rests on exist and were located in the e-text.
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:11 IST._

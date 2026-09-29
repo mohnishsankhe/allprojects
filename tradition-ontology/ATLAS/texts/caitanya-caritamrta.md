@@ -124,7 +124,7 @@ At Purī, the Advaita teacher Sārvabhauma expounds Śaṅkara's reading of the 
 
 _level: unmarked · standpoint: polemical · path: knowledge, devotion · stage: all · types: dispute_
 
-teachers: [Kṛṣṇadāsa Kavirāja](../teachers/krsnadasa-kaviraja.md), [Śrī Kṛṣṇa Caitanya (Viśvambhara Miśra, Nimāi, Gaurāṅga, Mahāprabhu)](../teachers/caitanya.md), [Vāsudeva Sārvabhauma Bhaṭṭācārya](../teachers/sarvabhauma-bhattacarya.md) · disputes: [Is the ultimate an attributeless Brahman to be realised by 'that thou art', or the personal Bhagavān reached by devotion? (Caitanya against the Advaita renouncers)](../debates/gaudiya-critique-of-advaita.md), `dsp:saguna-nirguna`, [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
+teachers: [Kṛṣṇadāsa Kavirāja](../teachers/krsnadasa-kaviraja.md), [Śrī Kṛṣṇa Caitanya (Viśvambhara Miśra, Nimāi, Gaurāṅga, Mahāprabhu)](../teachers/caitanya.md), [Vāsudeva Sārvabhauma Bhaṭṭācārya](../teachers/sarvabhauma-bhattacarya.md) · disputes: [Is the ultimate an attributeless Brahman to be realised by 'that thou art', or the personal Bhagavān reached by devotion? (Caitanya against the Advaita renouncers)](../debates/gaudiya-critique-of-advaita.md), [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md), [Is Advaita Vedānta — the doctrine of māyā — 'Buddhism in disguise' (pracchanna-bauddha)?](../debates/advaita-crypto-buddhism.md)
 
 ### 2.8 <a id="tea-caitanya-caritamrta-2-8"></a>
 `skeleton` · confidence high
@@ -142,7 +142,7 @@ Whether a brāhmaṇa, a renunciant or a śūdra — whoever knows the truth abo
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: teacher-transmission, ethics_
 
-concepts: [The guru in Gauḍīya teaching](../concepts/guru-in-gaudiya.md) · teachers: [Kṛṣṇadāsa Kavirāja](../teachers/krsnadasa-kaviraja.md), [Śrī Kṛṣṇa Caitanya (Viśvambhara Miśra, Nimāi, Gaurāṅga, Mahāprabhu)](../teachers/caitanya.md) · disputes: `dsp:women-caste-liberation`
+concepts: [The guru in Gauḍīya teaching](../concepts/guru-in-gaudiya.md) · teachers: [Kṛṣṇadāsa Kavirāja](../teachers/krsnadasa-kaviraja.md), [Śrī Kṛṣṇa Caitanya (Viśvambhara Miśra, Nimāi, Gaurāṅga, Mahāprabhu)](../teachers/caitanya.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 2.19.149 <a id="tea-caitanya-caritamrta-2-19-149"></a>
 `skeleton` · confidence moderate
@@ -231,4 +231,4 @@ terms: [divyonmāda](../terms/divyonmada.md) · concepts: [Caitanya's three stat
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

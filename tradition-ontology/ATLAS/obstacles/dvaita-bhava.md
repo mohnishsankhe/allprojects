@@ -11,4 +11,4 @@ One who makes duality is carried off by the yoginīs; abandoning duality one liv
   - [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md) — ref: 11.3-4; rests_on: ["tea:kaulajnananirnaya:11.3-4"]
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._

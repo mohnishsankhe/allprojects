@@ -10,7 +10,7 @@ Practising calm, self-control, withdrawal, forbearance, faith and concentration 
 **Sources:** 
   - [Brahma Sūtra](../texts/brahma-sutra.md) — ref: 3.4.27; rests_on: ["tea:brahma-sutra:3.4.27"]
   - [Vivekacūḍāmaṇi](../texts/vivekacudamani.md) — ref: 22–27; rests_on: ["tea:vivekacudamani:22-27"]
-**Sequences:** `pth:advaita-sadhana`
+**Sequences:** [The Advaita course of practice: purification → fourfold means → hearing, reflection, contemplation → liberation while living → bodiless liberation](../paths/advaita-sadhana.md)
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

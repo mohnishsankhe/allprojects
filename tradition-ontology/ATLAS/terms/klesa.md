@@ -31,4 +31,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.5 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U43-pure-land, skeleton:U41-yogacara-pramana, skeleton:U38-early-schools, extraction:bhagavad-gita/ch10-12, skeleton:U40-madhyamaka, skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U43-pure-land, skeleton:U41-yogacara-pramana, skeleton:U38-early-schools, extraction:bhagavad-gita/ch10-12, skeleton:U40-madhyamaka, skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

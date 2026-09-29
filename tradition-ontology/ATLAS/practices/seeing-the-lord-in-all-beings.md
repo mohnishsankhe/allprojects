@@ -1,6 +1,6 @@
 # Seeing the Lord in all beings and bowing to all
 
-`prc:seeing-the-lord-in-all-beings` · `skeleton` · confidence high
+`prc:seeing-the-lord-in-all-beings` · `sourced` · confidence high
 
 **Category:** devotion-service
 **Convergence:** 1 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -13,4 +13,8 @@ Regarding every being as the Lord, with equal vision toward brāhmaṇa and outc
   - [Kapila Gītā](../texts/kapila-gita.md) — ref: 3.29.21-25; rests_on: ["tea:kapila-gita:3.29.21-25"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — Rests on tea:uddhava-gita:11.29.12-19, tea:kapila-gita:3.29.21-25; each was located in the local text and matches this entry's statement.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

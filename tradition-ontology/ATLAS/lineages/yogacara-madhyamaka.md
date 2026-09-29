@@ -50,9 +50,9 @@ The 8th-century synthesis in which Śāntarakṣita and Kamalaśīla combined Ma
 [The stages of meditation (Kamalaśīla)](../paths/bhavanakrama-stages.md), [The ladder of views (Madhyamakālaṃkāra 92–93)](../paths/madhyamakalamkara-ladder.md)
 
 ## Debates
-[Are there objects external to cognition?](../debates/external-objects.md), [Is consciousness ultimately real while external objects are not (mind-only), or is mind too empty?](../debates/madhyamaka-yogacara.md), [Can any person be omniscient, in particular directly know dharma?](../debates/omniscience.md), [Is consciousness reflexively aware of itself (svasaṃvedana)?](../debates/svasamvedana.md), [Is cognition (the dependent nature) real, or is it empty of own-being like everything else? — Yogācāra and Madhyamaka](../debates/yogacara-madhyamaka.md)
+[Are there objects external to cognition?](../debates/external-objects.md), [Is consciousness ultimately real while external objects are not (mind-only), or is mind too empty?](../debates/madhyamaka-yogacara.md), [Can any person be omniscient, in particular directly know dharma?](../debates/omniscience.md), [Should a Mādhyamika establish emptiness by autonomous inferences (svatantra-anumāna) or only by consequences (prasaṅga) that draw out untenable consequences of the opponent's own thesis — and does this difference of method reflect a difference of view?](../debates/prasangika-svatantrika.md), [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md), [Is consciousness reflexively aware of itself (svasaṃvedana)?](../debates/svasamvedana.md), [Is cognition (the dependent nature) real, or is it empty of own-being like everything else? — Yogācāra and Madhyamaka](../debates/yogacara-madhyamaka.md)
 
 _Notes: Parent set to lin:svatantrika following the Tibetan doxographical classification that the registry names follow; the Indian authors did not call themselves Svātantrika._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._

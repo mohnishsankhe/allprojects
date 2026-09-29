@@ -63,4 +63,4 @@ terms: [dīkṣā](../terms/diksa.md) · concepts: [The five signs of immersion]
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._

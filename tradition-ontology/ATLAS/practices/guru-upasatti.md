@@ -10,7 +10,7 @@ Approaching, 'fuel in hand', a teacher learned in scripture and established in B
 **Sources:** 
   - [Muṇḍakopaniṣadbhāṣya of Śaṅkara](../texts/mundaka-upanisad-bhasya-sankara.md) — ref: 1.2.12; rests_on: ["tea:mundaka-upanisad-bhasya-sankara:1.2.12"]
   - [Upadeśasāhasrī](../texts/upadesa-sahasri.md) — ref: gadya.1.2; rests_on: ["tea:upadesa-sahasri:gadya.1.2"]
-**Sequences:** `pth:advaita-sadhana`
+**Sequences:** [The Advaita course of practice: purification → fourfold means → hearing, reflection, contemplation → liberation while living → bodiless liberation](../paths/advaita-sadhana.md)
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

@@ -226,7 +226,7 @@ Whatever the conduct, know it all and teach it; the many castes that are called 
 
 _level: ultimate · standpoint: ethical-social · path: knowledge · stage: all · types: ethics, dispute_
 
-terms: [cāti](../terms/cati.md) · concepts: [The Siddhar critique of caste](../concepts/siddhar-critique-of-caste.md) · teachers: [Kaṭuveḷic cittar](../teachers/kaduveli.md) · disputes: `dsp:women-caste-liberation`
+terms: [cāti](../terms/cati.md) · concepts: [The Siddhar critique of caste](../concepts/siddhar-critique-of-caste.md) · teachers: [Kaṭuveḷic cittar](../teachers/kaduveli.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 33 <a id="tea-kaduveli-ananda-kalippu-33"></a>
 `skeleton` · confidence high
@@ -265,4 +265,4 @@ terms: [yama](../terms/yama.md) · concepts: [Siddhar ethics](../concepts/siddha
 _Notes: Checked in the local e-text._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._

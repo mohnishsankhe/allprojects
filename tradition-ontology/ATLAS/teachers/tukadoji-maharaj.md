@@ -9,4 +9,4 @@
 Vidarbha kīrtankār and bhajan poet (1909–1968), author of the Grāmgītā on village uplift through devotion.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

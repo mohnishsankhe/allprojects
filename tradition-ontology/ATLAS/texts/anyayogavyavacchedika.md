@@ -24,7 +24,7 @@ Hemacandra's 32-verse hymn to Mahāvīra that refutes the doctrines of other sch
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-concepts: [The Jain denial of a creator](../concepts/no-creator-jain.md) · teachers: [Hemacandra](../teachers/hemacandra.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+concepts: [The Jain denial of a creator](../concepts/no-creator-jain.md) · teachers: [Hemacandra](../teachers/hemacandra.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 30 <a id="tea-anyayogavyavacchedika-30"></a>
 `skeleton` · confidence moderate
@@ -39,4 +39,4 @@ concepts: [Many-sidedness (anekāntavāda)](../concepts/anekantavada.md), [Jain 
 
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

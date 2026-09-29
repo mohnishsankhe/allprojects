@@ -1,6 +1,6 @@
 # Aila Gītā
 
-`src:aila-gita` · `skeleton` · confidence high
+`src:aila-gita` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -17,4 +17,8 @@
 Purūravas' lament of disenchantment after long infatuation with the celestial Urvaśī: desire is never sated, the body is a mere compound, association with the sensual must be abandoned; the chapter closes with the praise of holy company (saints cut the mind's attachment and are like a firm boat).
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — Purūravas's song BhP 11.26.4-24 confirmed (11.26.25 closes it).
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

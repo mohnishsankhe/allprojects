@@ -12,4 +12,4 @@
 Indian monk to whom the Chinese Śūraṅgama Sūtra (T945) is attributed as translator, at Guangzhou in 705; known only from the tradition's account.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

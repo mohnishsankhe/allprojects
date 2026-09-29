@@ -22,8 +22,8 @@ In the sense in which the Nyingma accept it, 'other-emptiness' means that the ul
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-concepts: [Other-emptiness (gzhan stong)](../concepts/zhentong.md), [Enumerated and non-enumerated ultimate (Mipham)](../concepts/two-ultimates-mipham.md), [The Nyingma view of buddha-nature (Mipham)](../concepts/sugatagarbha-nyingma.md) · teachers: [Mipham Jamyang Namgyal Gyatso ('ju mi pham)](../teachers/mipham.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
+concepts: [Other-emptiness (gzhan stong)](../concepts/zhentong.md), [Enumerated and non-enumerated ultimate (Mipham)](../concepts/two-ultimates-mipham.md), [The Nyingma view of buddha-nature (Mipham)](../concepts/sugatagarbha-nyingma.md) · teachers: [Mipham Jamyang Namgyal Gyatso ('ju mi pham)](../teachers/mipham.md) · disputes: [Is the ultimate empty of its own nature like all phenomena (rang stong, self-emptiness), or empty only of what is other than it — the adventitious stains — while not empty of its own nature and qualities (gzhan stong, other-emptiness)?](../debates/rangtong-shentong.md)
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

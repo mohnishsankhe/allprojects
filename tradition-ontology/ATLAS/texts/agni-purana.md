@@ -1,6 +1,6 @@
 # Agni Purāṇa
 
-`src:agni-purana` · `skeleton` · confidence moderate
+`src:agni-purana` · `sourced` · confidence moderate
 
 **Alternate titles:** Āgneya Purāṇa
 **Original title:** अग्निपुराण
@@ -19,10 +19,10 @@ An encyclopedia of Purāṇic knowledge: the avatāras, temple building and imag
 **Editions / translations:** 
   - kind: original; name: Agnipurāṇa, ed. Rajendralal Mitra, Bibliotheca Indica 1870-79 (GRETIL e-text); licence: public domain text
 
-## Teachings (8: skeleton 8)
+## Teachings (8: sourced 7, skeleton 1)
 
 ### 16.1-4 <a id="tea-agni-purana-16-1-4"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The Buddha avatāra: when the gods were defeated by the daityas, Hari became the son of Śuddhodana as the form of Māyāmoha and deluded the daityas into abandoning Vedic dharma; they became Bauddhas, and later, becoming Ārhata, he made others Ārhatas; thus heretics without Vedic dharma arose.
 
@@ -31,7 +31,7 @@ _level: conventional · standpoint: polemical · path: general · stage: unmarke
 concepts: [Māyāmoha: the Purāṇic account of Buddhist and Jain teaching](../concepts/mayamoha.md), [The lists of avatāras](../concepts/avatara-lists.md) · disputes: [Why did Viṣṇu appear as the Buddha (and how are the Buddhist and Jain teachings to be regarded)?](../debates/buddha-avatara-purpose.md)
 
 ### 16.8-13 <a id="tea-agni-purana-16-8-13"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 At the end of Kali, Kalki, son of Viṣṇuyaśas with Yājñavalkya as his priest, will destroy the barbarians and re-establish the order of varṇas and āśramas, then leave that form, and the Kṛta age returns; the avatāras in all kalpas and manvantaras are countless; whoever reads or hears of Viṣṇu's ten avatāras attains his desires and heaven with his family.
 
@@ -40,7 +40,7 @@ _level: conventional · standpoint: divine · path: devotion · stage: all · ty
 concepts: [The lists of avatāras](../concepts/avatara-lists.md), [The four ages (yuga)](../concepts/four-yugas.md) · practices: [Hearing the Purāṇa (kathā-śravaṇa)](../practices/purana-sravana.md)
 
 ### 114-116 <a id="tea-agni-purana-114-116"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 The glory of Gayā: śrāddha and piṇḍa offered at Gayā's sacred spots (such as the Viṣṇu-pada) free the ancestors; the pilgrim performs the rites at the river and at the named stones and pools in sequence.
 
@@ -58,7 +58,7 @@ _level: conventional · standpoint: ritual · path: ritual, sound · stage: all 
 concepts: [Kubjikā, the Bent Goddess](../concepts/kubjika-goddess.md)
 
 ### 370 <a id="tea-agni-purana-370"></a>
-`skeleton` · confidence low
+`sourced` · confidence low
 
 The hells: the Agni Purāṇa's chapter on the hells describes the torments allotted to sinners after death.
 
@@ -67,7 +67,7 @@ _level: conventional · standpoint: causal · path: general · stage: all · typ
 concepts: [The hells (naraka)](../concepts/narakas.md)
 
 ### 371-375 <a id="tea-agni-purana-371-375"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 The limbs of yoga in successive chapters: yama and niyama (371); posture, breath-control and withdrawal (372); meditation (373); holding (dhāraṇā, 374); and absorption (samādhi, 375).
 
@@ -76,14 +76,14 @@ _level: conventional · standpoint: seeker · path: meditation, body-breath · s
 terms: [yama](../terms/yama.md), [niyama](../terms/niyama.md), [āsana](../terms/asana.md), [prāṇāyāma](../terms/pranayama.md), [pratyāhāra](../terms/pratyahara.md), [dhyāna (nididhyāsana)](../terms/dhyana.md), [dhāraṇā](../terms/dharana.md), [samādhi](../terms/samadhi.md) · concepts: [Purāṇic eightfold yoga](../concepts/puranic-astanga-yoga.md)
 
 ### 376-379 <a id="tea-agni-purana-376-379"></a>
-`skeleton` · confidence low
+`sourced` · confidence low
 
 Chapters on knowledge of Brahman (brahmajñāna) and non-dual knowledge of Brahman (advaita-brahma-vijñāna) follow the yoga chapters, teaching that the self is Brahman and the world is superimposed.
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
 ### 381 <a id="tea-agni-purana-381"></a>
-`skeleton` · confidence low
+`sourced` · confidence low
 
 The Yamagītā: Yama's teaching (on the transience of things and on what leads beyond death).
 
@@ -93,4 +93,8 @@ _level: conventional · standpoint: seeker · path: knowledge · stage: all · t
 _Notes: Chs. 2-16: the ten avatāras (16: the Buddha as Māyāmoha, then Kalki); 49: images of the ten avatāras; 114-116: Gayā; 370: hells; 371-375: the eight limbs of yoga; 376-379: knowledge of Brahman and non-dual knowledge; 380: Gītāsāra; 381: Yamagītā. chapter checked in the GRETIL e-text of the Agni Purāṇa (R. Mitra, Bibliotheca Indica numbering; other editions differ)_
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL:agnipurANa, catalog:DCS:Agnipurāṇa, local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.28, https://en.wikipedia.org/wiki/Agni_Purana — Extant and digitized (GRETIL, R. Mitra's Bibliotheca Indica ed. 1870-79, 382 chapters; eBhārati; DCS). Matsya 53.28 (Agni to Vasiṣṭha, Īśāna-kalpa) confirmed. Web: 382 or 383 chapters; composed after the 7th and before the 11th c. (Al-Biruni) - the entry's 9th-11th c. is within.
+
+_Contributed by: skeleton:U07-puranas, skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._

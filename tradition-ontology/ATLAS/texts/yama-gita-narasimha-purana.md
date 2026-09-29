@@ -1,6 +1,6 @@
 # Yama Gītā (Narasiṃha Purāṇa)
 
-`src:yama-gita-narasimha-purana` · `skeleton` · confidence moderate
+`src:yama-gita-narasimha-purana` · `sourced` · confidence moderate
 
 **Original title:** यमगीता
 **Language:** Sanskrit
@@ -16,10 +16,10 @@ Yama instructs his messengers about whom to spare and whom to bring: the devotee
 **Editions / translations:** 
   - kind: original; name: Gītāsaṅgraha (Poona 1915) prints all three Yama Gītās; licence: digitization terms unknown
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 8 <a id="tea-yama-gita-narasimha-purana-8"></a>
-`skeleton` · confidence low · [AI-translated]
+`sourced` · confidence low · [AI-translated]
 
 Yama instructs his messengers to avoid the devotees of Viṣṇu and describes their marks; those who take refuge in Viṣṇu are beyond his punishment.
 
@@ -29,4 +29,8 @@ teachers: [Yama (Mṛtyu)](../teachers/yama.md)
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_narasiMhapurANa.txt, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), catalog:GRETIL:narasiMhapurANa — Colophon 'iti śrīnarasiṃhapurāṇe yamagītā nāmāṣṭamo 'dhyāyaḥ' verified in GRETIL; also printed in the Gītāsaṅgraha.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

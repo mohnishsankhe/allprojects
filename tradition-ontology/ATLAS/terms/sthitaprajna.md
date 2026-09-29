@@ -19,4 +19,4 @@
 **Related:** [guṇātīta](gunatita.md), [brāhmī sthiti](brahmi-sthiti.md), [muni](muni.md), [sthitadhī](sthitadhi.md), [Prājña](prajna.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

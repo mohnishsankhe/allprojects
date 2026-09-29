@@ -17,7 +17,7 @@
 ## Relations (interpretation layer)
 - contrasts-with → [Classifications of the tantras](tantra-classes.md): the Buddhist fourfold/fivefold classification of tantras is one family's own ordering
 - contrasts-with → [The hierarchy of revelations](scriptural-hierarchy.md): the Trika's ranking of revelations orders the same features within Śaivism
-- part-of → [Kinds of initiation](kinds-of-diksa.md): initiation as the entry point of every tantric family
+- corresponds-to-in-map → [Kinds of initiation](kinds-of-diksa.md): initiation, one of the shared features, is the entry point of every tantric family
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:11 IST._

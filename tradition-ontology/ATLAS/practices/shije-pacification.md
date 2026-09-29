@@ -14,4 +14,4 @@ Instructions of Padampa Sangye for pacifying suffering: renunciation and devotio
 **Sequences:** [The five paths of Pacification (Tsele Natsok Rangdrol's arrangement)](../paths/shije-five-paths.md)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

@@ -54,7 +54,7 @@ The authority of the sacred tradition (āmnāya) (follows) from its being the st
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: sound-language, dispute_
 
-terms: [āmnāya](../terms/amnaya.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [āmnāya](../terms/amnaya.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 1.1.4 <a id="tea-vaisesika-sutra-1-1-4"></a>
 `skeleton` · confidence high
@@ -404,7 +404,7 @@ The composition of sentences in the Veda is preceded by understanding; and (the 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: sound-language, dispute_
 
-terms: [āmnāya](../terms/amnaya.md), [apauruṣeya](../terms/apauruseya.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [āmnāya](../terms/amnaya.md), [apauruṣeya](../terms/apauruseya.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 6.1.4-6 <a id="tea-vaisesika-sutra-6-1-4-6"></a>
 `skeleton` · confidence low
@@ -536,7 +536,7 @@ terms: [yogi-pratyakṣa](../terms/yogipratyaksa.md), [ātman](../terms/atman.md
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [anumāna](../terms/anumana.md), [liṅga](../terms/linga.md), [śabda](../terms/sabda.md) · concepts: [The two means of knowledge (Vaiśeṣika)](../concepts/two-pramanas-vaisesika.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [anumāna](../terms/anumana.md), [liṅga](../terms/linga.md), [śabda](../terms/sabda.md) · concepts: [The two means of knowledge (Vaiśeṣika)](../concepts/two-pramanas-vaisesika.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 9.22-23 <a id="tea-vaisesika-sutra-9-22-23"></a>
 `skeleton` · confidence high
@@ -578,4 +578,4 @@ terms: [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md)
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._

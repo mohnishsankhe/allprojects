@@ -123,7 +123,7 @@ This dharma, performed with the aim for which it is enjoined, is the cause of th
 
 _level: conventional · standpoint: devotional · path: action, devotion · stage: all · types: karma-liberation_
 
-terms: [īśvarārpaṇa](../terms/isvararpana.md), [niḥśreyasa](../terms/nihsreyasa.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · practices: [Performing dharma as an offering to the Lord (īśvarārpaṇa)](../practices/isvararpana-karma.md) · disputes: `dsp:works-knowledge-grace`
+terms: [īśvarārpaṇa](../terms/isvararpana.md), [niḥśreyasa](../terms/nihsreyasa.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · practices: [Performing dharma as an offering to the Lord (īśvarārpaṇa)](../practices/isvararpana-karma.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### veda <a id="tea-arthasangraha-veda"></a>
 `skeleton` · confidence high
@@ -158,4 +158,4 @@ terms: [sannipatyopakāraka](../terms/sannipatyopakaraka.md), [ārādupakāraka]
 
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._

@@ -567,7 +567,7 @@
   "to": null,
   "text": "composed by Vyāsa and recited by Śuka to Parīkṣit at the opening of the Kali age (traditional reckoning from 3102 BCE)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:kapila-gita",
@@ -577,7 +577,7 @@
   "to": null,
   "text": "composed by Vyāsa and recited by Śuka to Parīkṣit at the opening of the Kali age (traditional reckoning from 3102 BCE)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:hamsa-gita-bhagavata",
@@ -587,7 +587,7 @@
   "to": null,
   "text": "composed by Vyāsa and recited by Śuka to Parīkṣit at the opening of the Kali age (traditional reckoning from 3102 BCE)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:bhiksu-gita",
@@ -597,7 +597,7 @@
   "to": null,
   "text": "composed by Vyāsa and recited by Śuka to Parīkṣit at the opening of the Kali age (traditional reckoning from 3102 BCE)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:aila-gita",
@@ -607,7 +607,7 @@
   "to": null,
   "text": "composed by Vyāsa and recited by Śuka to Parīkṣit at the opening of the Kali age (traditional reckoning from 3102 BCE)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:rudra-gita",
@@ -617,7 +617,7 @@
   "to": null,
   "text": "composed by Vyāsa and recited by Śuka to Parīkṣit at the opening of the Kali age (traditional reckoning from 3102 BCE)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:gopi-gita",
@@ -627,7 +627,7 @@
   "to": null,
   "text": "composed by Vyāsa and recited by Śuka to Parīkṣit at the opening of the Kali age (traditional reckoning from 3102 BCE)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:venu-gita",
@@ -637,7 +637,7 @@
   "to": null,
   "text": "composed by Vyāsa and recited by Śuka to Parīkṣit at the opening of the Kali age (traditional reckoning from 3102 BCE)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:yugala-gita",
@@ -647,7 +647,7 @@
   "to": null,
   "text": "composed by Vyāsa and recited by Śuka to Parīkṣit at the opening of the Kali age (traditional reckoning from 3102 BCE)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:bhramara-gita",
@@ -657,7 +657,7 @@
   "to": null,
   "text": "composed by Vyāsa and recited by Śuka to Parīkṣit at the opening of the Kali age (traditional reckoning from 3102 BCE)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:sruti-gita",
@@ -667,7 +667,7 @@
   "to": null,
   "text": "composed by Vyāsa and recited by Śuka to Parīkṣit at the opening of the Kali age (traditional reckoning from 3102 BCE)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:bhu-gita-bhagavata",
@@ -677,7 +677,7 @@
   "to": null,
   "text": "composed by Vyāsa and recited by Śuka to Parīkṣit at the opening of the Kali age (traditional reckoning from 3102 BCE)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:brahma-purana",
@@ -687,7 +687,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:padma-purana",
@@ -697,7 +697,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:visnu-purana",
@@ -707,7 +707,7 @@
   "to": null,
   "text": "Parāśara's teaching; Vyāsa's compilation at the end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:vayu-purana",
@@ -717,7 +717,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:bhagavata-purana",
@@ -727,7 +727,7 @@
   "to": null,
   "text": "Vyāsa's composition at the beginning of the Kali age; recited by Śuka to Parīkṣit",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:narada-purana",
@@ -737,7 +737,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:markandeya-purana",
@@ -747,7 +747,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:agni-purana",
@@ -757,7 +757,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:bhavisya-purana",
@@ -767,7 +767,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:brahmavaivarta-purana",
@@ -777,7 +777,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:linga-purana",
@@ -787,7 +787,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:varaha-purana",
@@ -797,7 +797,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:skanda-purana",
@@ -807,7 +807,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:vamana-purana",
@@ -817,7 +817,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:kurma-purana",
@@ -827,7 +827,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:matsya-purana",
@@ -837,7 +837,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:garuda-purana",
@@ -847,7 +847,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:brahmanda-purana",
@@ -857,7 +857,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:siva-purana",
@@ -867,7 +867,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:devi-bhagavata-purana",
@@ -877,7 +877,7 @@
   "to": null,
   "text": "Vyāsa, end of Dvāpara",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:devi-mahatmya",
@@ -887,7 +887,7 @@
   "to": null,
   "text": "part of Vyāsa's Mārkaṇḍeya",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:tiruvaymoli",
@@ -1087,7 +1087,7 @@
   "to": null,
   "text": "The Purāṇa is remembered by Brahmā before the Vedas (Matsya 53.3); in every Dvāpara age Vyāsa condenses it to four lakh verses in eighteen Purāṇas (Matsya 53.8-11); the present Vyāsa, Kṛṣṇa Dvaipāyana, taught it to Romaharṣaṇa at the junction of Dvāpara and Kali (Kali reckoned from 3102 BCE)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:rgveda",
@@ -2307,7 +2307,7 @@
   "to": 400,
   "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE; the Śāntiparvan's Mokṣadharma belongs to the later layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:samyaka-gita",
@@ -2317,7 +2317,7 @@
   "to": 400,
   "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE; the Śāntiparvan's Mokṣadharma belongs to the later layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:ajagara-carita",
@@ -2327,7 +2327,7 @@
   "to": 400,
   "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE; the Śāntiparvan's Mokṣadharma belongs to the later layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:harita-gita",
@@ -2337,7 +2337,7 @@
   "to": 400,
   "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE; the Śāntiparvan's Mokṣadharma belongs to the later layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:hamsa-gita-mahabharata",
@@ -2347,7 +2347,7 @@
   "to": 400,
   "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE; the Śāntiparvan's Mokṣadharma belongs to the later layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:sadja-gita",
@@ -2355,9 +2355,9 @@
   "account": "scholarly",
   "from": -400,
   "to": 400,
-  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE; the Śāntiparvan's Mokṣadharma belongs to the later layers",
+  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE (Śāntiparvan, Āpaddharma section)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:utathya-gita",
@@ -2365,9 +2365,9 @@
   "account": "scholarly",
   "from": -400,
   "to": 400,
-  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE; the Śāntiparvan's Mokṣadharma belongs to the later layers",
+  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE (Śāntiparvan, Rājadharma section)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:vamadeva-gita",
@@ -2375,9 +2375,9 @@
   "account": "scholarly",
   "from": -400,
   "to": 400,
-  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE; the Śāntiparvan's Mokṣadharma belongs to the later layers",
+  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE (Śāntiparvan, Rājadharma section)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:rsabha-gita",
@@ -2385,9 +2385,9 @@
   "account": "scholarly",
   "from": -400,
   "to": 400,
-  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE; the Śāntiparvan's Mokṣadharma belongs to the later layers",
+  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE (Śāntiparvan, Rājadharma section)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:kama-gita",
@@ -2395,9 +2395,9 @@
   "account": "scholarly",
   "from": -400,
   "to": 400,
-  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE; the Śāntiparvan's Mokṣadharma belongs to the later layers",
+  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE (Āśvamedhikaparvan)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:sarasvati-gita",
@@ -2405,9 +2405,9 @@
   "account": "scholarly",
   "from": -400,
   "to": 400,
-  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE; the Śāntiparvan's Mokṣadharma belongs to the later layers",
+  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE (Āraṇyakaparvan)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:kasyapa-gita",
@@ -2415,9 +2415,9 @@
   "account": "scholarly",
   "from": -400,
   "to": 400,
-  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE; the Śāntiparvan's Mokṣadharma belongs to the later layers",
+  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE (Āraṇyakaparvan)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:saunaka-gita",
@@ -2425,9 +2425,9 @@
   "account": "scholarly",
   "from": -400,
   "to": 400,
-  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE; the Śāntiparvan's Mokṣadharma belongs to the later layers",
+  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE (Āraṇyakaparvan)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:astavakriya-mahabharata",
@@ -2435,9 +2435,9 @@
   "account": "scholarly",
   "from": -400,
   "to": 400,
-  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE; the Śāntiparvan's Mokṣadharma belongs to the later layers",
+  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE (Āraṇyakaparvan)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:brahmana-gita",
@@ -2445,9 +2445,9 @@
   "account": "scholarly",
   "from": -400,
   "to": 400,
-  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE; the Śāntiparvan's Mokṣadharma belongs to the later layers",
+  "text": "within the Mahābhārata's growth c. 4th c. BCE - 4th c. CE (Āśvamedhikaparvan, within the Anugītā)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:svetambara-agamas",
@@ -4097,7 +4097,7 @@
   "to": 600,
   "text": "commonly placed in the first half of the 1st millennium CE (estimates vary widely)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:sabara-bhasya",
@@ -4267,7 +4267,7 @@
   "to": 600,
   "text": "core c. 3rd-6th c. CE; Devī Māhātmya c. 5th-6th c. CE",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:matsya-purana",
@@ -4277,7 +4277,7 @@
   "to": 1000,
   "text": "core c. 3rd-6th c. CE with later additions",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:turfan-manuscripts",
@@ -4327,7 +4327,7 @@
   "to": 1800,
   "text": "Purāṇa is named as a class of lore from the Atharvaveda and Brāhmaṇas on; the extant Purāṇas were composed and continually redacted from about the 3rd-4th c. CE to the second millennium CE",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "lin:yogacara",
@@ -4370,6 +4370,16 @@
   "level": "sourced"
  },
  {
+  "entity": "src:padma-purana",
+  "label": "Padma Purāṇa",
+  "account": "scholarly",
+  "from": 300,
+  "to": 1500,
+  "text": "layered compilation; estimates range from c. 4th to 15th c. CE, some parts c. 750-1000 CE",
+  "confidence": "low",
+  "level": "sourced"
+ },
+ {
   "entity": "src:vayu-purana",
   "label": "Vāyu Purāṇa",
   "account": "scholarly",
@@ -4377,7 +4387,7 @@
   "to": 500,
   "text": "core c. 4th-5th c. CE (estimates vary)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:brahmanda-purana",
@@ -4387,7 +4397,7 @@
   "to": 600,
   "text": "core c. 4th-6th c. CE; Lalitopākhyāna much later",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:pancarthabhasya",
@@ -4937,7 +4947,7 @@
   "to": 600,
   "text": "c. 5th-6th c. CE",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:visnudharmottara-purana",
@@ -4947,7 +4957,7 @@
   "to": 800,
   "text": "c. 5th-8th c. CE (estimates vary)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:nyaya-bhasya",
@@ -6017,7 +6027,7 @@
   "to": 900,
   "text": "c. 6th-9th c. CE (Pāśupata redaction of the Kūrma Purāṇa)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:vyasa-gita",
@@ -6027,7 +6037,7 @@
   "to": 900,
   "text": "with the Kūrma Purāṇa (c. 6th-9th c. CE)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:bhavisya-purana",
@@ -6037,7 +6047,7 @@
   "to": 1850,
   "text": "layers from the mid 1st millennium CE to the 19th c. CE",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:linga-purana",
@@ -6047,7 +6057,7 @@
   "to": 1000,
   "text": "c. 6th-10th c. CE (estimates vary)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:nilamata-purana",
@@ -6057,7 +6067,7 @@
   "to": 800,
   "text": "c. 6th-8th c. CE",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:nisvasamukha",
@@ -6227,7 +6237,7 @@
   "to": 650,
   "text": "c. 6th c. CE",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "tch:prasastapada",
@@ -6617,7 +6627,7 @@
   "to": 800,
   "text": "c. 6th-8th c. CE (Pāśupata redaction)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:skandapurana-early",
@@ -6627,7 +6637,7 @@
   "to": 700,
   "text": "c. 6th-7th c. CE (manuscript of 810 CE)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:sivadharma",
@@ -6637,7 +6647,7 @@
   "to": 700,
   "text": "c. 6th-7th c. CE",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:nyaya-varttika",
@@ -8220,16 +8230,6 @@
   "level": "sourced"
  },
  {
-  "entity": "src:padma-purana",
-  "label": "Padma Purāṇa",
-  "account": "scholarly",
-  "from": 700,
-  "to": 1500,
-  "text": "layered compilation, c. 8th-15th c. CE",
-  "confidence": "low",
-  "level": "skeleton"
- },
- {
   "entity": "src:skanda-purana",
   "label": "Skanda Purāṇa",
   "account": "scholarly",
@@ -8237,7 +8237,7 @@
   "to": 1800,
   "text": "components from c. 8th to 18th c. CE",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:brahma-sutra-bhasya-sankara",
@@ -9987,7 +9987,7 @@
   "to": 1000,
   "text": "c. 9th-10th c. CE (South India); some scholars allow earlier layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:kapila-gita",
@@ -9997,7 +9997,7 @@
   "to": 1000,
   "text": "c. 9th-10th c. CE (South India); some scholars allow earlier layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:hamsa-gita-bhagavata",
@@ -10007,7 +10007,7 @@
   "to": 1000,
   "text": "c. 9th-10th c. CE (South India); some scholars allow earlier layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:bhiksu-gita",
@@ -10017,7 +10017,7 @@
   "to": 1000,
   "text": "c. 9th-10th c. CE (South India); some scholars allow earlier layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:aila-gita",
@@ -10027,7 +10027,7 @@
   "to": 1000,
   "text": "c. 9th-10th c. CE (South India); some scholars allow earlier layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:rudra-gita",
@@ -10037,7 +10037,7 @@
   "to": 1000,
   "text": "c. 9th-10th c. CE (South India); some scholars allow earlier layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:gopi-gita",
@@ -10047,7 +10047,7 @@
   "to": 1000,
   "text": "c. 9th-10th c. CE (South India); some scholars allow earlier layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:venu-gita",
@@ -10057,7 +10057,7 @@
   "to": 1000,
   "text": "c. 9th-10th c. CE (South India); some scholars allow earlier layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:yugala-gita",
@@ -10067,7 +10067,7 @@
   "to": 1000,
   "text": "c. 9th-10th c. CE (South India); some scholars allow earlier layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:bhramara-gita",
@@ -10077,7 +10077,7 @@
   "to": 1000,
   "text": "c. 9th-10th c. CE (South India); some scholars allow earlier layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:sruti-gita",
@@ -10087,7 +10087,7 @@
   "to": 1000,
   "text": "c. 9th-10th c. CE (South India); some scholars allow earlier layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:bhu-gita-bhagavata",
@@ -10097,7 +10097,7 @@
   "to": 1000,
   "text": "c. 9th-10th c. CE (South India); some scholars allow earlier layers",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:bhagavata-purana",
@@ -10107,7 +10107,7 @@
   "to": 1000,
   "text": "c. 9th-10th c. CE (some scholars earlier, 6th-8th c.)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:agni-purana",
@@ -10117,7 +10117,7 @@
   "to": 1100,
   "text": "compiled c. 9th-11th c. CE (estimates vary)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:garuda-purana",
@@ -10127,7 +10127,7 @@
   "to": 1500,
   "text": "core c. 9th-10th c. CE; Pretakalpa and Brahmakāṇḍa later",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:tiruvacakam",
@@ -11387,7 +11387,7 @@
   "to": 1000,
   "text": "c. 10th c. CE (Kashmir)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:brahma-purana",
@@ -11397,7 +11397,7 @@
   "to": 1300,
   "text": "compiled c. 10th-13th c. CE with older borrowed material",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:narada-purana",
@@ -11407,7 +11407,7 @@
   "to": 1600,
   "text": "late compilation (roughly late 1st to mid 2nd millennium CE)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:siva-purana",
@@ -11417,7 +11417,7 @@
   "to": 1400,
   "text": "compiled c. 10th-14th c. CE (Vāyavīya possibly earlier)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:kalika-purana",
@@ -11427,7 +11427,7 @@
   "to": 1100,
   "text": "c. 10th-11th c. CE",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:mrgendravrtti",
@@ -12307,7 +12307,7 @@
   "to": 1400,
   "text": "the Kashmiri Mokṣopāya c. 10th c. CE (Slaje, c. 950); the Vedānta-oriented Yoga Vāsiṣṭha vulgate is a later revision (c. 11th-14th c.); older proposals ranged from the 6th to the 13th c.",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:laghu-yoga-vasistha",
@@ -12317,7 +12317,7 @@
   "to": 1100,
   "text": "c. 10th-11th c. CE (Kashmir)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:siddha-gita",
@@ -12327,7 +12327,7 @@
   "to": 1400,
   "text": "the Kashmiri Mokṣopāya c. 10th c. CE (Slaje, c. 950); the Vedānta-oriented Yoga Vāsiṣṭha vulgate is a later revision (c. 11th-14th c.); older proposals ranged from the 6th to the 13th c.",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:kiranavrtti",
@@ -13440,16 +13440,6 @@
   "level": "sourced"
  },
  {
-  "entity": "src:devi-gita",
-  "label": "Devī Gītā",
-  "account": "scholarly",
-  "from": 1000,
-  "to": 1300,
-  "text": "c. 11th-13th c. CE (with or somewhat after the Devī Bhāgavata)",
-  "confidence": "low",
-  "level": "skeleton"
- },
- {
   "entity": "src:devi-bhagavata-purana",
   "label": "Devī Bhāgavata Purāṇa",
   "account": "scholarly",
@@ -13457,7 +13447,7 @@
   "to": 1400,
   "text": "c. 11th-14th c. CE (estimates vary)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:siddhantasarapaddhati",
@@ -15577,7 +15567,7 @@
   "to": 1400,
   "text": "with the Gaṇeśa Purāṇa, c. 12th-14th c. CE (Maharashtra)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:ganesa-purana",
@@ -15587,7 +15577,7 @@
   "to": 1400,
   "text": "c. 12th-14th c. CE",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:mrgendravrttidipika",
@@ -15957,6 +15947,16 @@
   "to": 1200,
   "text": "12th c. CE",
   "confidence": "low",
+  "level": "sourced"
+ },
+ {
+  "entity": "tch:visnucitta",
+  "label": "Viṣṇucitta (Engaḷāḻvāṉ)",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1200,
+  "text": "c. 12th c. CE; pupil of Piḷḷāṉ, a direct disciple of Rāmānuja",
+  "confidence": "moderate",
   "level": "sourced"
  },
  {
@@ -18590,6 +18590,16 @@
   "level": "sourced"
  },
  {
+  "entity": "src:devi-gita",
+  "label": "Devī Gītā",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1600,
+  "text": "not earlier than the 13th c. CE and possibly as late as the 16th (C. Mackenzie Brown); often given as c. 15th c.",
+  "confidence": "low",
+  "level": "sourced"
+ },
+ {
   "entity": "src:brhaddharma-purana",
   "label": "Bṛhaddharma Purāṇa",
   "account": "scholarly",
@@ -18597,7 +18607,7 @@
   "to": 1400,
   "text": "c. 13th–14th c., Bengal (scholarly estimate)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:tattvapradipika-citsukha",
@@ -20707,7 +20717,7 @@
   "to": 1300,
   "text": "13th c. CE (Yādava court of Devagiri)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "tch:kesava-misra",
@@ -22367,7 +22377,7 @@
   "to": 1500,
   "text": "c. 14th-15th c. CE",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:rama-hrdaya",
@@ -22377,7 +22387,7 @@
   "to": 1500,
   "text": "with the Adhyātma Rāmāyaṇa, c. 14th-15th c. CE",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:rama-gita",
@@ -22387,7 +22397,7 @@
   "to": 1500,
   "text": "with the Adhyātma Rāmāyaṇa, c. 14th-15th c. CE",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:pancaratraraksa",
@@ -23497,7 +23507,7 @@
   "to": 1350,
   "text": "before the 14th c. CE (commented by Mādhava)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:bhavarthadipika",
@@ -23507,7 +23517,7 @@
   "to": 1450,
   "text": "c. 14th c. CE (estimates c. 1350-1450)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:samkhya-sutra",
@@ -24187,7 +24197,7 @@
   "to": 1600,
   "text": "extant form c. 15th-16th c. CE, Bengal (older core lost)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:tantrasamuccaya",
@@ -26267,7 +26277,7 @@
   "to": 1623,
   "text": "born Saṃvat 1554 (1497), died Saṃvat 1680 (1623)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "tch:ngorchen-konchog-lhundrub",
@@ -27267,7 +27277,7 @@
   "to": 1623,
   "text": "c. 1532–1623",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "tch:eknath",
@@ -27277,7 +27287,7 @@
   "to": 1599,
   "text": "1533–1599",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "tch:eknath",
@@ -27287,7 +27297,7 @@
   "to": 1599,
   "text": "1533–1599",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "tch:yunqi-zhuhong",
@@ -28167,7 +28177,7 @@
   "to": 1573,
   "text": "completed 1573 CE",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:eknathi-bhagavata",
@@ -28177,7 +28187,7 @@
   "to": 1573,
   "text": "completed Śaka 1495 (1573 CE)",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "tch:takuan",
@@ -28197,7 +28207,7 @@
   "to": 1580,
   "text": "late 16th c. CE",
   "confidence": "high",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:laksmana-gita",
@@ -28207,7 +28217,7 @@
   "to": null,
   "text": "the Rāmcaritmānas begun in 1574 CE at Ayodhyā",
   "confidence": "high",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:vibhisana-gita",
@@ -28217,7 +28227,7 @@
   "to": 1580,
   "text": "late 16th c. CE",
   "confidence": "high",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:ramcaritmanas",
@@ -30527,7 +30537,7 @@
   "to": 1700,
   "text": "17th c. CE",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:laghucandrika",
@@ -31117,7 +31127,7 @@
   "to": 1800,
   "text": "18th c. CE",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:guptavati",
@@ -31127,7 +31137,7 @@
   "to": 1800,
   "text": "18th c. CE",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:vivekasar-kina-ram",
@@ -31377,7 +31387,7 @@
   "to": 1800,
   "text": "18th c. CE",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "tch:mastnath",
@@ -32968,6 +32978,16 @@
   "text": "1842-1924",
   "confidence": "moderate",
   "level": "skeleton"
+ },
+ {
+  "entity": "src:yoga-vasistha-tatparyaprakasa",
+  "label": "Vāsiṣṭharāmāyaṇa-tātparyaprakāśa",
+  "account": "scholarly",
+  "from": 1844,
+  "to": 1845,
+  "text": "completed Śaka 1766 (c. 1844 CE) according to the commentary's closing verse; 19th c. (Dasgupta)",
+  "confidence": "moderate",
+  "level": "sourced"
  },
  {
   "entity": "tch:bamda-gelek-gyatso",

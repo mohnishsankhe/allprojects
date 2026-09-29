@@ -50,9 +50,9 @@ The school founded by the first Karmapa, Düsum Khyenpa, a principal disciple of
 `pth:mahamudra-four-yogas`, [The stages of Mahāmudrā meditation (Moonbeams; 9th Karmapa)](../paths/moonbeams-mahamudra-stages.md)
 
 ## Debates
-_none recorded_
+[Is the ultimate empty of its own nature like all phenomena (rang stong, self-emptiness), or empty only of what is other than it — the adventitious stains — while not empty of its own nature and qualities (gzhan stong, other-emptiness)?](../debates/rangtong-shentong.md)
 
 _Notes: The recognition of the 17th Karmapa is contested between two candidates (Ogyen Trinley Dorje and Trinley Thaye Dorje); recorded as metadata only (recent)._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

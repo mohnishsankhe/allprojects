@@ -14,4 +14,4 @@
 A work attributed to Yāmuna establishing Nārāyaṇa as the supreme Person; regarded as lost.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

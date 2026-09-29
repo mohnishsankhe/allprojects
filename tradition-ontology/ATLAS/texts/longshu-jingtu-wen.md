@@ -34,4 +34,4 @@ terms: [śraddhā](../terms/sraddha.md) · teachers: [Wang Rixiu](../teachers/wa
 _Notes: Opening read locally (T47n1970 251a)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

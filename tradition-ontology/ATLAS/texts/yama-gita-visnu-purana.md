@@ -1,6 +1,6 @@
 # Yama Gītā (Viṣṇu Purāṇa)
 
-`src:yama-gita-visnu-purana` · `skeleton` · confidence high
+`src:yama-gita-visnu-purana` · `sourced` · confidence high
 
 **Original title:** यमगीता
 **Language:** Sanskrit
@@ -16,10 +16,10 @@ Yama whispers to his noose-bearing servant to pass over those who have taken ref
 **Editions / translations:** 
   - kind: original; name: Gītāsaṅgraha (Poona 1915) prints all three Yama Gītās; licence: digitization terms unknown
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 3.7.14 <a id="tea-yama-gita-visnu-purana-3-7-14"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 Yama, seeing his servant noose in hand, whispers in his ear: pass over those who have taken refuge in Madhusūdana; I am lord over other men, not over the Vaiṣṇavas.
 
@@ -31,4 +31,8 @@ teachers: [Yama (Mṛtyu)](../teachers/yama.md)
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — VP 3.7 (Yama's whisper at 3.7.14, told by the Kaliṅga brāhmaṇa). The Gītāsaṅgraha prints it as 'viṣṇupurāṇāntargatā yamagītā', the first of its three Yama Gītās.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

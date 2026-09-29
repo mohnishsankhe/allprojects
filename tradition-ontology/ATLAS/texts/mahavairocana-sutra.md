@@ -59,4 +59,4 @@ concepts: [The syllable A](../concepts/syllable-a.md) · practices: [Meditation 
 _Notes: Sanskrit lost apart from quotations._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._

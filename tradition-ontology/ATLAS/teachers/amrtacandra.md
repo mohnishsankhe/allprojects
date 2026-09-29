@@ -17,4 +17,4 @@
 The great Digambara commentator on Kundakunda (Ātmakhyāti on the Samayasāra, Tattvapradīpikā on the Pravacanasāra, Samayavyākhyā on the Pañcāstikāya), author of the Samayasāra-kalaśa verses, the lay-conduct Puruṣārthasiddhyupāya and the Tattvārthasāra.
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

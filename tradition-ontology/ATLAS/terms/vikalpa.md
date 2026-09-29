@@ -23,4 +23,4 @@
 **Related:** [kalpanā](kalpana.md), [abhūta-parikalpa](abhutaparikalpa.md), [prapañca](prapanca.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U10-yoga, skeleton:U19-kashmir-saivism, skeleton:U40-madhyamaka, skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U10-yoga, skeleton:U19-kashmir-saivism, skeleton:U40-madhyamaka, skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

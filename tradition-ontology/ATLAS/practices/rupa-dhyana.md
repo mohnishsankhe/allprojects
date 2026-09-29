@@ -1,6 +1,6 @@
 # Meditation on the deity's form
 
-`prc:rupa-dhyana` · `skeleton` · confidence high
+`prc:rupa-dhyana` · `sourced` · confidence high
 
 **Category:** visualization-deity
 **Convergence:** 2 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Vārkarī sampradāya](../lineages/varkari.md)
@@ -18,4 +18,8 @@ Holding the mind on the form of the Lord in the heart or before the mind's eye, 
 **Sequences:** [Kapila's yoga with a support (BhP 3.28)](../paths/kapila-yoga-bhagavata.md), [Keśidhvaja's yoga (VP 6.7)](../paths/visnu-purana-yoga.md)
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:2.2.8-14, tea:bhagavata-purana:3.28.12-33, tea:visnu-purana:6.7.75-90 — BhP 2.2.8-14, 3.28.12-33, VP 6.7.75-90 (6.7.87) located. All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

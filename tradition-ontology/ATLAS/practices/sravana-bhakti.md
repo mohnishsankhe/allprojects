@@ -27,4 +27,4 @@ Listening to the names, qualities, deeds and stories of the Lord — from the Bh
 _Notes: One of the Bhāgavata's nine forms of devotion (prc:navadha-bhakti, U07). Exemplar in the tradition's list: Parīkṣit (cpt:nine-exemplars-of-devotion)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._

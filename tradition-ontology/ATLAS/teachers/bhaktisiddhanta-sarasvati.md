@@ -11,4 +11,4 @@
 Son of Bhaktivinoda; founder of the Gauḍīya Maṭha (1920s), who gave renunciation (sannyāsa) a missionary form and criticised premature esoteric practice and caste-based guru lineages.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

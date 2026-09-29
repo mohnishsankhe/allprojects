@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The vital points (marma)](marma.md): the three great marmas are among the seats — rests on [su.29.3-12](../texts/caraka-samhita.md#tea-caraka-samhita-su-29-3-12)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._

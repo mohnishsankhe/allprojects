@@ -24,4 +24,4 @@ Paramārtha's Chinese translation of the Sāṃkhya Kārikā with a commentary �
 _Notes: Id follows the pinyin rule for Chinese texts; the extant text exists only in Chinese. Not available in the local CBETA subset; Taishō number and fascicle count from memory._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._

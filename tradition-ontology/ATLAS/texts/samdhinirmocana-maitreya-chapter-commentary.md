@@ -15,4 +15,4 @@ A commentary on the Maitreya chapter (ch. 8, on calm and insight) of the Saṃdh
   - kind: original; name: Tibetan: Derge D4033
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

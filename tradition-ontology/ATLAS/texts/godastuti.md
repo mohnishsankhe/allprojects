@@ -14,4 +14,4 @@
 Deśika's hymn to Godā (Āṇṭāḷ).
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

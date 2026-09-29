@@ -21,4 +21,4 @@
 _Notes: Sanskrit equivalents of 'pho ba vary in the sources (low certainty)._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U10-yoga, skeleton:U07-puranas, skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U10-yoga, skeleton:U07-puranas, skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._

@@ -12,4 +12,4 @@
 Monk from Funan who translated the Vimuttimagga and other texts into Chinese at the Liang court in the early 6th century.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._

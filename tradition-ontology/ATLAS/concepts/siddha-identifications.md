@@ -13,7 +13,7 @@
 ## Relations (interpretation layer)
 - part-of → [The two lists of eighty-four siddhas compared](eighty-four-siddhas-two-lists.md)
 
-_Notes: Whether Mīnapa and Matsyendra are one person is itself disputed in the traditions (the Tibetan lives make Mīnapa Matsyendra's father in some tellings) — recorded as an identification, not a fact._
+_Notes: Whether Mīnapa and Matsyendra are one person is itself disputed in the traditions (some Tibetan accounts treat them as two persons, e.g. father and son — recalled, low confidence) — recorded as an identification, not a fact._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:11 IST._

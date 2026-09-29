@@ -26,4 +26,4 @@ _Notes: Start chapter given from memory; the brāhmaṇa-definition verse (3.177
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_3.json (BORI Critical Edition text) 3.175.1, 16 ajagara; 3.176.13 Nahuṣa; 3.177.16; 3.178.45 — Section located at CE 3.173-178 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._

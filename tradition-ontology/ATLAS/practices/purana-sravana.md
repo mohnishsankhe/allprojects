@@ -1,6 +1,6 @@
 # Hearing the Purāṇa (kathā-śravaṇa)
 
-`prc:purana-sravana` · `skeleton` · confidence high
+`prc:purana-sravana` · `sourced` · confidence high
 
 **Category:** devotion-service
 **Convergence:** 1 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -14,4 +14,8 @@ Listening with faith to the recitation and exposition of the Purāṇa by a qual
 **Sequences:** [The Bhāgavata's sequence from hearing to seeing the Lord (BhP 1.2.16-21)](../paths/bhagavata-sravana-to-realization.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:agni-purana:16.8-13, tea:bhagavata-purana:1.2.16-21, tea:bhagavata-purana:10.33.40 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # The Goddess as Mahāmāyā and the supreme
 
-`cpt:devi-as-mahamaya` · `skeleton` · confidence high
+`cpt:devi-as-mahamaya` · `sourced` · confidence high
 
 **Category:** ultimate
 
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:devi-bhagavata-purana:3.3-6, tea:devi-mahatmya:1, tea:devi-mahatmya:1/2, tea:devi-mahatmya:10, tea:devi-mahatmya:11, tea:devi-mahatmya:2-4 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

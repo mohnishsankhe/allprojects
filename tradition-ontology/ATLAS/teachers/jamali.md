@@ -10,4 +10,4 @@
 Nephew and (Śvetāmbara) son-in-law of Mahāvīra, husband of Priyadarśanā; the first schismatic (nihnava). Lying ill, he held that 'what is being done is not yet done' against Mahāvīra's 'what is being done is done' (Bhagavatī 9.33) and led away a group of monks; Priyadarśanā at first followed him and then returned.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

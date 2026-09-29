@@ -17,4 +17,4 @@ Joining the three syllables OṂ ĀḤ HŪṂ with the natural movement of the w
 - This reality is sealed in the Samāja and must be understood through the explanatory tantras and the guru's mouth. — [Pañcakrama](../texts/pancakrama.md) 1.9
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._

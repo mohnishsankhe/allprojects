@@ -10,4 +10,4 @@
 Author named in the colophon of the Mādhva conduct manual Sadācāradīpikā; date and identity not established.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._

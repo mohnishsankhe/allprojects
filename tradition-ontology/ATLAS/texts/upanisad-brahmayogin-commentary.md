@@ -17,4 +17,4 @@ Short Advaita commentaries on all 108 Muktikā Upaniṣads, with a maṅgala ver
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:Muktabodha:vArAhopaniShad__M00298, catalog:Muktabodha:saMnyAsa_upaniShads__M00334, catalog:eBharati:dashopaniShat, https://en.wikipedia.org/wiki/Upanishad_Brahmayogin, https://archive.org/details/108_Upanishads_with_Sanskrit_Commentary_of_Upanishad_Brahma_Yogin — Commentaries on all 108 Muktikā Upaniṣads are confirmed. The Muktikā commentary was completed in 1751 (Wikipedia). They were printed in the Adyar volumes: the Yoga Upaniṣads 1920 and Saṃnyāsa Upaniṣads 1929 (Muktabodha metadata), and the Daśopaniṣads 1935, ed. C. Kunhan Raja (eBhāratī). The author was based at Kāñcīpuram.
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:11 IST._

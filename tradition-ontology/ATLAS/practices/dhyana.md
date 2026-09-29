@@ -16,11 +16,11 @@ The continuous flow of a single cognition on the place of concentration (3.2); i
   - [Śvetāśvatara Upaniṣad](../texts/svetasvatara-upanisad.md) — ref: 1.3; 1.14; rests_on: ["tea:svetasvatara-upanisad:1.3", "tea:svetasvatara-upanisad:1.13-14"]
   - [Muṇḍaka Upaniṣad](../texts/mundaka-upanisad.md) — ref: 3.1.8; rests_on: ["tea:mundaka-upanisad:3.1.8"]
   - [Maitrī Upaniṣad](../texts/maitri-upanisad.md) — ref: 6.18; rests_on: ["tea:maitri-upanisad:6.18"]
-**Sequences:** `pth:yoga-sutra-eight-limbs`
+**Sequences:** [Patañjali's eight limbs of yoga (aṣṭāṅga-yoga)](../paths/yoga-sutra-eight-limbs.md)
 
 ---
 **Verification checks**
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering), text:sources_raw/prepared/mundaka-upanisad/ — All 5 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 7.6; ŚU 1.3; ŚU 1.14; MuU 3.1.8; MaiU 6.18). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

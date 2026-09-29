@@ -16,4 +16,4 @@
 - same-as-under-standpoint → [The maidservant's mood (mañjarī-bhāva)](manjari-bhava.md) (devotional): the Gauḍīya maidservant stance is a close parallel — rests on [dasi](../texts/radha-sudhanidhi.md#tea-radha-sudhanidhi-dasi)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

@@ -45,10 +45,10 @@ The philosophical school founded by Somānanda (Śivadṛṣṭi) and systematiz
 [Attending to the initial and final points (ādyantakoṭinibhālana)](../practices/adyantakoti-nibhalana.md), [Anupāya: realization without means](../practices/anupaya-realization.md), [Unfolding of the centre (madhyavikāsa)](../practices/madhya-vikasa.md), [Ever-arisen samādhi (nityodita-samādhi)](../practices/nityodita-samadhi.md), [Recognition (pratyabhijñā) of one's self as the Lord](../practices/pratyabhijna-recognition.md), [Hymn-devotion to Śiva as one's own self](../practices/saiva-stotra-devotion.md), [Contraction of power (śaktisaṅkoca)](../practices/sakti-sankoca.md), [Expansion of power (śaktivikāsa); the bhairavī seal](../practices/sakti-vikasa.md), [Cutting the flows (vāhaccheda)](../practices/vahaccheda.md), [Dissolution of thought-constructs (vikalpakṣaya)](../practices/vikalpa-ksaya.md)
 
 ## Path maps
-`pth:kashmir-four-upayas`
+[The four means (upāya) of the Trika: āṇava, śākta, śāmbhava, anupāya](../paths/kashmir-four-upayas.md)
 
 ## Debates
 [Is the ultimate of the nature of speech (śabdādvaita), and is all cognition word-permeated?](../debates/is-the-ultimate-speech.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Does the liberated soul become identical with Śiva, or only equal to Śiva (śivasamatva) while remaining distinct?](../debates/liberation-identity-or-equality-with-siva.md), [Is Speech at the level of paśyantī (the grammarians' Word-Brahman) the ultimate reality?](../debates/pasyanti-brahman.md), [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md), [How is another family's revelation to be placed — as a lower stage of one's own, as a deliberate delusion, as a subdued power, or as a partial standpoint?](../debates/ranking-of-other-revelations.md)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._

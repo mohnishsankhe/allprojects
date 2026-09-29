@@ -74,7 +74,7 @@ Garuḍa asks whether, since the classes beginning with the twice-born stand hig
 
 _level: conventional · standpoint: ethical-social · path: ritual · stage: all · types: teacher-transmission, ethics_
 
-terms: [dīkṣā](../terms/diksa.md) · concepts: [Kinds of initiation](../concepts/kinds-of-diksa.md) · disputes: `dsp:women-caste-liberation`
+terms: [dīkṣā](../terms/diksa.md) · concepts: [Kinds of initiation](../concepts/kinds-of-diksa.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 6.5-8 <a id="tea-kirana-tantra-6-5-8"></a>
 `skeleton` · confidence high
@@ -92,7 +92,7 @@ For women and others who are incapable, (the guru) should purify away the observ
 
 _level: conventional · standpoint: ethical-social · path: ritual, devotion · stage: all · types: teacher-transmission, ethics_
 
-terms: [samaya](../terms/samaya.md), [nirbīja-dīkṣā](../terms/nirbija-diksa.md) · concepts: [Kinds of initiation](../concepts/kinds-of-diksa.md) · obstacles: [Breaking the samaya](../obstacles/samaya-bhanga.md) · disputes: `dsp:women-caste-liberation`
+terms: [samaya](../terms/samaya.md), [nirbīja-dīkṣā](../terms/nirbija-diksa.md) · concepts: [Kinds of initiation](../concepts/kinds-of-diksa.md) · obstacles: [Breaking the samaya](../obstacles/samaya-bhanga.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 6.14-16 <a id="tea-kirana-tantra-6-14-16"></a>
 `skeleton` · confidence high
@@ -145,4 +145,4 @@ terms: [upāgama](../terms/upagama.md) · concepts: [The upāgamas (upabhedas) o
 _Notes: Kiraṇa 10.17/10.26: Devapitṛ → the sage Saṃvartaka. Śrīkaṇṭhīya: 'Kiraṇa'. In the Kāmika's image of the scriptures as Sadāśiva's body it is the jewel ornaments (pūrva 1.93–101). Lists checked by the Phase-B author against local e-texts: Kāmika pūrva 1.30–92 (sources_raw/raw_etexts/AgamAH/shaivam/Kamikagama.md (Kāmika Pūrvabhāga, Madras 1909 Grantha ed. as transcribed)), Kiraṇa vidyāpāda 10.3–27 (sources_raw/raw_etexts/AgamAH/shaivam/kiranagama.md (Kiraṇa vidyāpāda, South Indian printed text as transcribed)) and the Śrīkaṇṭhīya list quoted by Jayaratha on TĀ 1.18 (sources_raw/raw_etexts/AgamAH/shaivam/tantrAlokaH_viveka-vyAkhyA-sahitaH-1.md (Tantrāloka with Jayaratha's Viveka, KSTS vol. 1))._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._

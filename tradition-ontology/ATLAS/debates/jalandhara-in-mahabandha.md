@@ -23,4 +23,4 @@ Some teachers hold that the throat lock should be avoided in mahābandha and tha
 **Candidate readings:** Two lines of instruction (sampradāya) are recorded; each practitioner follows the guru who gives the traditional instruction (HYP 3.129).; The tongue-lock at the rājadanta belongs with the tongue-practices (ŚS 3.73; GŚ 64) and may be meant for practitioners of khecarī.; Brahmānanda's Jyotsnā on HYP 3.22 may decide between them (not checked by this unit).
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:11 IST._

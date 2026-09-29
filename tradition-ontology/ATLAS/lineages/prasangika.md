@@ -53,4 +53,4 @@ The line of Madhyamaka exegesis that follows Buddhapālita's commentary on the M
 [Is there a store-consciousness (ālaya-vijñāna) distinct from the six consciousnesses?](../debates/existence-of-alaya.md), [Is consciousness ultimately real while external objects are not (mind-only), or is mind too empty?](../debates/madhyamaka-yogacara.md), [Is a cognition aware of itself?](../debates/self-awareness-of-cognition.md), [Do śrāvakas and pratyekabuddhas realize the emptiness (selflessness) of phenomena?](../debates/sravaka-realization-of-emptiness.md), [Is consciousness reflexively aware of itself (svasaṃvedana)?](../debates/svasamvedana.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._

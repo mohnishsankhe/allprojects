@@ -10,7 +10,7 @@ Mindfulness of breathing, the postures, clear comprehension, the parts of the bo
 **Stage:** all
 **Sources:** 
   - [Satipaṭṭhāna Sutta](../texts/satipatthana-sutta.md) — ref: 3.1-3.5; 4; rests_on: ["tea:satipatthana-sutta:3.1-3.5", "tea:satipatthana-sutta:4"]
-**Sequences:** `pth:three-trainings`
+**Sequences:** [The three trainings (tisso sikkhā / triśikṣā): virtue, concentration, wisdom](../paths/three-trainings.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

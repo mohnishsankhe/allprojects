@@ -13,4 +13,4 @@
 The second 'king' treasure revealer, discoverer of the Kagye Sangwa Yongdzog and the Lama Sangdü, and author of an early account of how treasures are hidden and revealed.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

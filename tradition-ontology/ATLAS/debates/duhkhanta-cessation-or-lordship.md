@@ -25,4 +25,4 @@ Liberation (apavarga) is absolute release from pain; Yāmuna even reports the P�
 **Candidate readings:** P2-standpoint: the impersonal aspect (cessation) is common ground; the personal aspect (lordship) is the Pāśupata's distinctive claim.; No reconciliation: the Pāśupatas deny that the Sāṃkhya-liberated are free.
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._

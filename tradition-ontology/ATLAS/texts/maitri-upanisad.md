@@ -19,7 +19,7 @@ King Bṛhadratha, disgusted with the body and the world, is taught by Śākāya
   - kind: translation; name: R. E. Hume, The Thirteen Principal Upanishads (1921); licence: public domain in some jurisdictions
   - kind: original; name: E. B. Cowell, The Maitrī or Maitrāyaṇīya Upanishad (Bibliotheca Indica, 1870); licence: public domain; url: https://archive.org/details/in.ernet.dli.2015.554005
 
-## Teachings (25: sourced 25)
+## Teachings (26: sourced 25, skeleton 1)
 
 ### 1.2-4 <a id="tea-maitri-upanisad-1-2-4"></a>
 `sourced` · confidence moderate
@@ -230,7 +230,16 @@ Now, O king, the obstacles to knowledge (jñānopasarga), the source of the net 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, ethics_
 
-teachers: [Śākāyanya](../teachers/sakayanya.md), [Bṛhadratha](../teachers/brhadratha.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+teachers: [Śākāyanya](../teachers/sakayanya.md), [Bṛhadratha](../teachers/brhadratha.md) · disputes: [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
+
+### 7.8/2 <a id="tea-maitri-upanisad-7-8-2"></a>
+`skeleton` · confidence high
+
+Among those one should not live with are those who wear ochre robes and earrings in vain, the skull-bearers (kāpālin), and those who seek to stand among the Vedic by vain reasoning, examples and tricks; as the verse says, the world, led astray by the tricksters of the doctrine of no-self (nairātmya-vāda) with false examples and reasons, does not know what differs from Vedic knowledge.
+
+> nairātmyavādakuhakair mithyādṛṣṭāntahetubhiḥ / bhrāmyal loko na jānāti vedavidyāntaraṃ tu yat
+
+_level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, teacher-transmission_
 
 ### 7.9-10 <a id="tea-maitri-upanisad-7-9-10"></a>
 `sourced` · confidence high
@@ -239,7 +248,7 @@ Bṛhaspati, becoming Śukra, created this ignorance for Indra's safety and the 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, teacher-transmission_
 
-concepts: [Knowledge and ignorance (vidyā and avidyā)](../concepts/vidya-avidya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [Knowledge and ignorance (vidyā and avidyā)](../concepts/vidya-avidya.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 7.11 <a id="tea-maitri-upanisad-7-11"></a>
 `sourced` · confidence high
@@ -262,4 +271,4 @@ _Notes: Refs follow the common Cowell/van Buitenen numbering; spot-checked secti
 
 - editions: Confirmed: 7 prapāṭhakas, the Maitrāyaṇīya school of the Black Yajurveda, and its place in the Muktikā canon (no. 24, under the Sāmaveda). Wikipedia gives the late 1st millennium BCE or slightly later, with the chronology contested, which fits -200/300 (moderate). Corrected: the first 'original' edition, 'Sanskrit text with Śaṅkara's bhāṣya (Advaita-Śāradā e-text)', is wrong. There is no Advaita-Śāradā file and no Śaṅkara commentary for the Maitrī; the local text is eBhāratī Ebharati-9566, Cowell's recension with Rāmatīrtha's Dīpikā. Cowell's Bibliotheca Indica edition is on archive.org.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

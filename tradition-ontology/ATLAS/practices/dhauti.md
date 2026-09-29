@@ -14,7 +14,7 @@ The first of the six acts. In the Haṭhapradīpikā dhauti is the swallowing an
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 1.12-44; rests_on: ["tea:gheranda-samhita:1.12", "tea:gheranda-samhita:1.13-14"]
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 5.35-36; rests_on: ["tea:gheranda-samhita:5.35-36"]
   - [Haṭharatnāvalī](../texts/hatharatnavali.md) — ref: ch.1; rests_on: ["tea:hatharatnavali:1.topic.astakarma"]
-**Sequences:** `pth:gheranda-seven-limbs`
+**Sequences:** [The seven means of the 'yoga of the pot' (ghaṭastha-yoga) in the Gheraṇḍa Saṃhitā](../paths/gheranda-seven-limbs.md)
 
 ## The texts' own warnings
 - One with excess fat or phlegm should first practise the six acts; others should not do them, their doṣas being in balance. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 2.21
@@ -23,4 +23,4 @@ The first of the six acts. In the Haṭhapradīpikā dhauti is the swallowing an
 - The Śivasaṃhitā counts washing by dhauti (with sitting in gomukha, stirring the belly and the like) among the obstacles that take the form of knowledge. — [Śiva Saṃhitā](../texts/siva-samhita.md) 5.5
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:11 IST._

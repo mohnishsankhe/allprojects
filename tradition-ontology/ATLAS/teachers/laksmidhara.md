@@ -14,5 +14,6 @@ Author of the Kṛtyakalpataru, the digest that systematised Purāṇic teaching
 **Verification checks**
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Govindachandra_(Gahadavala_dynasty) — Confirmed: courtier of the Gāhaḍavāla Govindacandra (r. c. 1114–1155), matching the entry.
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Govindachandra_(Gahadavala_dynasty) — Web: minister of peace and war of Govindacandra of Kannauj (r. c. 1114-1155), who composed the Kṛtyakalpataru at the king's request.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

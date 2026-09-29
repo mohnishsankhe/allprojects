@@ -1,6 +1,6 @@
 # Absorption through any emotion fixed on the Lord
 
-`cpt:emotion-fixed-on-god` · `skeleton` · confidence high
+`cpt:emotion-fixed-on-god` · `sourced` · confidence high
 
 **Category:** consciousness-states
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:10.29.15, tea:bhagavata-purana:7.1.30 — BhP 7.1.30, 10.29.15 and VP 4.15.2 (Śiśupāla's sāyujya) located. All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

@@ -15,4 +15,4 @@
 _Notes: Regional distribution recalled as Cōḻa 40, Pāṇḍya 18, Malai (Kerala) 13, Naṭu 2, Toṇṭai 22, Vaṭa (north) 11, plus 2 celestial — moderate confidence._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

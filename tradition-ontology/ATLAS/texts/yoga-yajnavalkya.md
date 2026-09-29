@@ -55,10 +55,10 @@ Women and śūdras too may practise breath-control, using a non-Vedic (e.g. Śai
 
 _level: conventional · standpoint: ethical-social · path: body-breath, sound · stage: all · types: ethics, sound-language_
 
-concepts: [Who may practise haṭha (adhikāra)](../concepts/eligibility-for-hatha.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Who may practise haṭha (adhikāra)](../concepts/eligibility-for-hatha.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 _Notes: Not the Yājñavalkya Smṛti nor the Bṛhadyogiyājñavalkya Smṛti. The provision for women and śūdras is recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._

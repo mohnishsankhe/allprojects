@@ -10,7 +10,7 @@ Honouring, feeding and serving the wandering Śivayogins (jaṅgamas), whose sig
 **Stage:** bhakta onward
 **Sources:** 
   - [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) — ref: 11.35–45; rests_on: ["tea:siddhantasikhamani:11.37-43"]
-**Sequences:** `pth:virasaiva-satsthala`
+**Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

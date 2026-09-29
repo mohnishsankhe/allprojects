@@ -1,6 +1,6 @@
 # Bhū Gītā (Bhāgavata)
 
-`src:bhu-gita-bhagavata` · `skeleton` · confidence moderate
+`src:bhu-gita-bhagavata` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -16,10 +16,10 @@
 
 The Earth mocks kings who fight to possess her though they themselves are mortal; the passage teaches the vanity of conquest and possession.
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 12.3.1-13 <a id="tea-bhu-gita-bhagavata-12-3-1-13"></a>
-`skeleton` · confidence moderate · [AI-translated]
+`sourced` · confidence moderate · [AI-translated]
 
 The Earth laughs at kings bent on conquering her: they cannot conquer their own senses, yet fight their kin for her, and all of them perish, leaving only stories.
 
@@ -27,4 +27,8 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — BhP 12.3.1 (the Earth laughs at kings) to 12.3.13 (all became mere stories) confirmed; the 'approx.' can be dropped.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

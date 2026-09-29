@@ -11,7 +11,7 @@ Purification by overcoming doubt: seeking the causes of mentality-materiality (i
 **Sources:** 
   - [Visuddhimagga](../texts/visuddhimagga.md) — ref: XIX; rests_on: ["tea:visuddhimagga:19", "tea:visuddhimagga:19/2"]
   - [Knowing and Seeing](../texts/knowing-and-seeing.md) — ref: dependent-origination; rests_on: ["tea:knowing-and-seeing:dependent-origination"]
-**Sequences:** `pth:seven-purifications`
+**Sequences:** [The seven purifications (satta visuddhi)](../paths/seven-purifications.md)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._

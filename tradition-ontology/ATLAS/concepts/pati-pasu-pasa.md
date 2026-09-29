@@ -1,6 +1,6 @@
 # Pati, paśu, pāśa — the Lord, the bound soul, the bonds
 
-`cpt:pati-pasu-pasa` · `skeleton` · confidence high
+`cpt:pati-pasu-pasa` · `sourced` · confidence high
 
 **Category:** ultimate
 **Members:** pati, paśu, pāśa
@@ -21,4 +21,8 @@
 _Notes: Contribution from U08; U18 owns the Siddhānta concept._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U06-other-gitas, skeleton:U08-agama-catalogue, skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md — KP 2.7.18-19 (paśus, Paśupati, the noose of māyā); the 'he himself is bondage, binder, noose and bound' clause is KP 2.7.32 ('sa eva bandhaḥ sa ca bandhakartā sa eva pāśaḥ paśavaḥ sa eva'), just outside the cited teaching.
+
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U06-other-gitas, skeleton:U08-agama-catalogue, skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

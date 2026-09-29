@@ -1,6 +1,6 @@
 # Devī Māhātmya
 
-`src:devi-mahatmya` · `skeleton` · confidence high
+`src:devi-mahatmya` · `sourced` · confidence high
 
 **Alternate titles:** Durgā Saptaśatī, Saptaśatī, Caṇḍī, Caṇḍīpāṭha
 **Original title:** देवीमाहात्म्य
@@ -21,10 +21,10 @@
 The Goddess, Mahāmāyā, is the eternal source and power of the world who deludes even the wise and grants liberation; she wakes Viṣṇu to slay Madhu and Kaiṭabha, arises from the gods' combined radiance to slay Mahiṣa, and as Ambikā with Kālī/Cāmuṇḍā and the Mothers slays Śumbha, Niśumbha and their generals; hymned as present in all beings ('yā devī sarvabhūteṣu'), she promises to return whenever demons oppress the world.
 **Commentaries on this text:** [Guptavatī](guptavati.md)
 
-## Teachings (10: skeleton 10)
+## Teachings (10: sourced 10)
 
 ### 1 <a id="tea-devi-mahatmya-1"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Medhas explains to Suratha and Samādhi why they remain attached though they know better: the blessed Goddess Mahāmāyā forcibly draws even the minds of the wise into delusion; by her this world is created; when pleased she gives liberation; she is the supreme knowledge, the eternal cause of liberation, and also the cause of bondage.
 
@@ -35,7 +35,7 @@ _level: ultimate · standpoint: divine · path: devotion, knowledge · stage: al
 terms: [mahāmāyā](../terms/mahamaya.md) · concepts: [The Goddess as Mahāmāyā and the supreme](../concepts/devi-as-mahamaya.md) · teachers: [Medhas](../teachers/medhas.md), [Suratha](../teachers/suratha.md), [Samādhi (the merchant)](../teachers/samadhi-vaisya.md)
 
 ### 1 <a id="tea-devi-mahatmya-1-2"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 She is eternal, the world is her form, and all this is pervaded by her; yet she is born in many ways, and when she appears for the gods' purposes she is said to be born.
 
@@ -46,7 +46,7 @@ _level: ultimate · standpoint: divine · path: devotion · stage: all · types:
 concepts: [The Goddess as Mahāmāyā and the supreme](../concepts/devi-as-mahamaya.md)
 
 ### 1 <a id="tea-devi-mahatmya-1-3"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The first episode (carita): at the end of a kalpa, as Viṣṇu slept on Śeṣa, the demons Madhu and Kaiṭabha arose from his ear-wax to kill Brahmā; Brahmā praised Yoganidrā, the Goddess as Viṣṇu's sleep, as the power by which even Viṣṇu, himself and Īśāna are made to take bodies; she left Viṣṇu, who woke and slew the demons.
 
@@ -57,7 +57,7 @@ _level: conventional · standpoint: divine · path: devotion · stage: all · ty
 terms: [yoganidrā](../terms/yoganidra.md) · concepts: [The three episodes of the Devī Māhātmya](../concepts/devi-mahatmya-three-caritas.md), [Mahākālī, Mahālakṣmī, Mahāsarasvatī](../concepts/three-forms-of-the-goddess.md)
 
 ### 2-4 <a id="tea-devi-mahatmya-2-4"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The middle episode: when the buffalo-demon Mahiṣa drove the gods from heaven, a great radiance issued from the angry Brahmā, Viṣṇu, Śiva and the other gods and took the form of a Goddess, who received their weapons, slew Mahiṣa's armies and Mahiṣa; the gods praised her as the cause of all worlds, made of the three guṇas yet untouched by their faults, unknown even to Hari and Hara, the primordial unmanifest Prakṛti.
 
@@ -68,7 +68,7 @@ _level: ultimate · standpoint: divine · path: devotion · stage: all · types:
 terms: [prakṛti](../terms/prakrti.md) · concepts: [The three episodes of the Devī Māhātmya](../concepts/devi-mahatmya-three-caritas.md), [The Goddess as Mahāmāyā and the supreme](../concepts/devi-as-mahamaya.md)
 
 ### 5 <a id="tea-devi-mahatmya-5"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The gods, oppressed by Śumbha and Niśumbha, go to the Himālaya and hymn the Goddess who abides in all beings as Viṣṇu's māyā, consciousness, intelligence, sleep, hunger, shadow, power, thirst, patience, birth, modesty, peace, faith, beauty, fortune, activity, memory, compassion, contentment, mother and error, bowing to her again and again; from Pārvatī's body emerges Ambikā (Kauśikī).
 
@@ -79,7 +79,7 @@ _level: ultimate · standpoint: devotional · path: devotion, sound · stage: al
 concepts: [The Goddess as Mahāmāyā and the supreme](../concepts/devi-as-mahamaya.md) · practices: [Recitation of the Devī Māhātmya (Caṇḍīpāṭha)](../practices/candi-patha.md)
 
 ### 6-10 <a id="tea-devi-mahatmya-6-10"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The last episode: Ambikā slays Dhūmralocana; from her brow springs Kālī, who slays Caṇḍa and Muṇḍa and is named Cāmuṇḍā; the powers (śakti) of Brahmā, Śiva, Skanda, Viṣṇu, Varāha, Narasiṃha and Indra appear as the Mothers; Raktabīja, from each drop of whose blood a new demon springs, is killed as Kālī drinks his blood; Niśumbha and Śumbha are slain.
 
@@ -88,7 +88,7 @@ _level: conventional · standpoint: divine · path: devotion · stage: all · ty
 terms: [cāmuṇḍā](../terms/camunda.md), [sapta-mātṛkā](../terms/saptamatrka.md) · concepts: [The three episodes of the Devī Māhātmya](../concepts/devi-mahatmya-three-caritas.md), [The seven Mothers](../concepts/saptamatrkas.md)
 
 ### 10 <a id="tea-devi-mahatmya-10"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 When Śumbha taunts her for relying on others' strength, the Goddess says: I alone exist here in the world; what second is there besides me? See, wicked one, these, my own powers, entering into me - and the Mothers dissolve into her.
 
@@ -99,7 +99,7 @@ _level: ultimate · standpoint: divine · path: devotion, knowledge · stage: al
 concepts: [The Goddess as Mahāmāyā and the supreme](../concepts/devi-as-mahamaya.md), [The seven Mothers](../concepts/saptamatrkas.md)
 
 ### 11 <a id="tea-devi-mahatmya-11"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The gods' hymn to Nārāyaṇī: all knowledges and all women in the worlds are her forms; she is auspiciousness of all that is auspicious, the refuge, the three-eyed Gaurī, the power of creation, maintenance and destruction, intent on saving the distressed who take refuge; she promises: whenever trouble arises from demons, I will descend and destroy the enemies.
 
@@ -110,7 +110,7 @@ _level: ultimate · standpoint: devotional · path: devotion, sound · stage: al
 terms: [śaraṇāgati](../terms/saranagati.md) · concepts: [The Goddess as Mahāmāyā and the supreme](../concepts/devi-as-mahamaya.md) · practices: [Recitation of the Devī Māhātmya (Caṇḍīpāṭha)](../practices/candi-patha.md)
 
 ### 12 <a id="tea-devi-mahatmya-12"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The Goddess on the fruits of hearing and reciting her deeds - especially on the eighth, fourteenth and ninth lunar days, and at the great annual autumn worship (śarat-kāla mahāpūjā) - freedom from all troubles, wealth, grain and offspring, protection from enemies, fire, water and planets.
 
@@ -119,7 +119,7 @@ _level: conventional · standpoint: ritual · path: ritual, sound, devotion · s
 terms: [navarātra](../terms/navaratra.md) · practices: [Recitation of the Devī Māhātmya (Caṇḍīpāṭha)](../practices/candi-patha.md), [The Navarātri observance](../practices/navaratri-vrata.md)
 
 ### 13 <a id="tea-devi-mahatmya-13"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 After three years' worship of the Goddess in an earthen image, the king received back his kingdom and the boon of being born as Sāvarṇi, the eighth Manu; the merchant, detached, asked for and received the knowledge that cuts the attachment of 'I' and 'mine'.
 
@@ -131,4 +131,8 @@ terms: [manvantara](../terms/manvantara.md), [mamatā](../terms/mamata.md) · co
 _Notes: Recited with ancillary texts (aṅgas): Kavaca, Argalā, Kīlaka before, and the three Rahasyas (Prādhānika, Vaikṛtika, Mūrti) after; the naming of the three caritas' deities as Mahākālī, Mahālakṣmī and Mahāsarasvatī comes from the dhyāna verses and the Rahasyas, not from the 13 chapters themselves. Commentaries include Bhāskararāya's Guptavatī (src:guptavati) and the Śāntanavī. Śākta theology shared with U23. verse number checked in the GRETIL/Sansknet e-text of the MkP (chs. 1-93; Devī Māhātmya = MkP 81-93 in this numbering)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — catalog:DCS:Devīmāhātmya, local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 81-93, local:sources_raw/raw_etexts/purANam/durgA-saptashatI/goraxapura-pAThaH/raw/source.html (Gita Press Durgā Saptaśatī), https://en.wikipedia.org/wiki/Devi_Mahatmya — Extant and digitized (MkP 81-93 in GRETIL/Sansknet; Gita Press Durgā Saptaśatī local; DCS). The 13 chapters contain exactly 588 numbered verses in the Sansknet text, as the entry says; Medhas named at 81.9. Web: DM in MkP chs. 81-93, c. 550 CE (entry 5th-6th c.).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

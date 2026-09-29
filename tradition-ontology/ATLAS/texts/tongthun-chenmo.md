@@ -25,7 +25,7 @@ Khedrup Je refutes the view that the ultimate is truly established, permanent an
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate_
 
-concepts: [Self-emptiness (rang stong)](../concepts/rangtong.md), [Other-emptiness (gzhan stong)](../concepts/zhentong.md) · teachers: [Khedrup Je Gelek Pelzang](../teachers/khedrup-je.md), [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
+concepts: [Self-emptiness (rang stong)](../concepts/rangtong.md), [Other-emptiness (gzhan stong)](../concepts/zhentong.md) · teachers: [Khedrup Je Gelek Pelzang](../teachers/khedrup-je.md), [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md) · disputes: [Is the ultimate empty of its own nature like all phenomena (rang stong, self-emptiness), or empty only of what is other than it — the adventitious stains — while not empty of its own nature and qualities (gzhan stong, other-emptiness)?](../debates/rangtong-shentong.md)
 
 ### view <a id="tea-tongthun-chenmo-view"></a>
 `skeleton` · confidence low
@@ -38,4 +38,4 @@ teachers: [Khedrup Je Gelek Pelzang](../teachers/khedrup-je.md) · disputes: [Wh
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._

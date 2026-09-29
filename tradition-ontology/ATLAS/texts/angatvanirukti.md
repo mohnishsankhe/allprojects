@@ -16,4 +16,4 @@ A short treatise on the definition of subsidiarity (aṅgatva), attributed to Mu
 _Notes: One modern survey assigns it to a later Murāri (17th c.); attribution uncertain._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._

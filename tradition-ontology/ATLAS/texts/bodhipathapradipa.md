@@ -252,7 +252,7 @@ This existence arisen from conceptualization has conceptualization as its nature
 
 _level: ultimate · standpoint: seeker · path: meditation · stage: advanced · types: practice, consciousness-mind, ultimate_
 
-terms: [vikalpa](../terms/vikalpa.md), [nirvikalpa](../terms/nirvikalpa.md) · concepts: [Non-conceptual wisdom reached through analysis](../concepts/nonconceptual-wisdom.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md) · disputes: `dsp:sudden-or-gradual`
+terms: [vikalpa](../terms/vikalpa.md), [nirvikalpa](../terms/nirvikalpa.md) · concepts: [Non-conceptual wisdom reached through analysis](../concepts/nonconceptual-wisdom.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### v6 <a id="tea-bodhipathapradipa-v6"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -335,4 +335,4 @@ teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md), [Lha Lama Jan
 _Notes: Sanskrit original lost; the Tibetan translation (by Atiśa and the translator Gewai Lodrö, colophon) is the basis. Local: catalog:Derge-Tengyur:D3947._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._

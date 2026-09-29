@@ -38,4 +38,4 @@ Pāśupata is one of five systems of knowledge (with Sāṃkhya, Yoga, Pañcarā
 **Candidate readings:** P3-path: the Nārāyaṇīya's own stance - several systems for different temperaments with one foundation.; P4-stage: the Pāśupata presents itself as a state beyond the āśramas for qualified brahmins (atyāśrama).; No reconciliation: the Kūrma Purāṇa and Yāmuna explicitly deny Vedic authority to these scriptures.
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._

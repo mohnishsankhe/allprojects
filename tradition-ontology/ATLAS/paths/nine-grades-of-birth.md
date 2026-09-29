@@ -21,4 +21,4 @@
 Grades read locally in T365. Bands are assigned by the practitioner's conduct in this life (upper: Mahāyāna practice; middle: precepts; lower: evil-doers saved at death); for Shandao all nine are ordinary beings.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

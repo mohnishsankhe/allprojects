@@ -8,4 +8,4 @@
 20th-century head (pīṭhādhīśvar) of Kīnārām Sthal, Krīm Kuṇḍ, Varanasi.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._

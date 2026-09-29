@@ -20,10 +20,10 @@ Maṅki, having lost the young bulls on which his hopes rested, renounces desire
   - kind: original; name: The Mahābhārata, Critical Edition, ed. V. S. Sukthankar et al., Bhandarkar Oriental Research Institute, Pune (1933–1966); licence: print edition (text public domain; apparatus under BORI copyright)
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
-## Teachings (2: skeleton 2)
+## Teachings (2: sourced 2)
 
 ### 12.171.4-54 <a id="tea-manki-gita-12-171-4-54"></a>
-`skeleton` · confidence moderate · [AI-translated]
+`sourced` · confidence moderate · [AI-translated]
 
 Maṅki, whose repeated efforts at wealth ended when his two young bulls were killed, reflects on desire: it grows with fulfilment like fire with fuel; he renounces desire and wins peace ('desire, I know your root: you are born of thought').
 
@@ -32,7 +32,7 @@ _level: conventional · standpoint: seeker · path: knowledge · stage: all · t
 obstacles: [Craving (tṛṣṇā)](../obstacles/trsna.md) · teachers: [Maṅki](../teachers/manki.md)
 
 ### 12.171.56 <a id="tea-manki-gita-12-171-56"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 Janaka's verse: endless indeed is my wealth, for nothing is mine; if Mithilā burns, nothing of mine burns.
 
@@ -47,5 +47,6 @@ teachers: [Janaka of Videha](../teachers/janaka.md)
 **Verification checks**
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.171.4-8 Maṅki and his young bulls (damya); 12.171.25 — Section located at CE 12.171 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+- 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition), local:sources_raw/raw_etexts/purANam/vaiShNavam/mahAbhAratam/gp/epub_no_img/ (Gita Press vulgate, chapter colophons) — CE 12.171.4 ('nirvedān maṅkinā gītam') to 12.171.54, then Janaka's verse 12.171.56. The Gita Press vulgate colophon 'maṅkigītāyāṃ saptasaptatyadhikaśatatamo 'dhyāyaḥ' (vulgate 12.177) confirms the name.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

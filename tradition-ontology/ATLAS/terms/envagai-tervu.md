@@ -15,4 +15,4 @@
 - partial: `trm:astavidha-pariksa` — Āyurveda's later eightfold examination (aṣṭavidha-parīkṣā) overlaps
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._

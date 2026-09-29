@@ -10,7 +10,7 @@ Recognizing oneself as the unchanging witness of the mind's modes, the senses an
 **Sources:** 
   - [Dṛg-Dṛśya Viveka (Vākyasudhā)](../texts/drg-drsya-viveka.md) — ref: 1; rests_on: ["tea:drg-drsya-viveka:1"]
   - [Pañcadaśī](../texts/pancadasi.md) — ref: 10; rests_on: ["tea:pancadasi:10"]
-**Sequences:** `pth:advaita-sadhana`
+**Sequences:** [The Advaita course of practice: purification → fourfold means → hearing, reflection, contemplation → liberation while living → bodiless liberation](../paths/advaita-sadhana.md)
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

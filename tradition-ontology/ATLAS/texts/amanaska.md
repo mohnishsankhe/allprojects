@@ -45,7 +45,7 @@ The mindless state (amanaska) arises without effort through the grace of the gur
 
 _level: ultimate · standpoint: experiential · path: meditation · stage: advanced · types: consciousness-mind, teacher-transmission, karma-liberation_
 
-terms: [amanaska](../terms/amanaska.md) · concepts: [Tāraka and amanaska yoga](../concepts/taraka-amanaska.md), [The guru in the haṭha texts](../concepts/guru-in-hatha.md), [Liberation while living (jīvanmukti)](../concepts/jivanmukti.md), [Unmanī / manonmanī — the state beyond mind](../concepts/unmani.md) · disputes: `dsp:kundalini-effort-grace`
+terms: [amanaska](../terms/amanaska.md) · concepts: [Tāraka and amanaska yoga](../concepts/taraka-amanaska.md), [The guru in the haṭha texts](../concepts/guru-in-hatha.md), [Liberation while living (jīvanmukti)](../concepts/jivanmukti.md), [Unmanī / manonmanī — the state beyond mind](../concepts/unmani.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
 
 ### 2.topic.signs <a id="tea-amanaska-2-topic-signs"></a>
 `skeleton` · confidence low
@@ -58,4 +58,4 @@ concepts: [Tāraka and amanaska yoga](../concepts/taraka-amanaska.md)
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # Śaiva meditation with and without object
 
-`prc:saiva-dhyana` · `skeleton` · confidence high
+`prc:saiva-dhyana` · `sourced` · confidence high
 
 **Category:** meditation
 **Convergence:** 1 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -12,4 +12,8 @@ Meditation on Śiva's form (Śrīkaṇṭha) first, with an object and a seed, a
 **Sequences:** [The Vāyavīya's five yogas and the Śaiva path of meditation (ŚiP 7.2.37-39)](../paths/vayaviya-five-yogas.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:siva-purana:7.2.39.4-9 — ŚiP 7.2.39.4-9 located (the name 'Śrīkaṇṭha' was not found in 7.2.39 by string search; check in Phase D). All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

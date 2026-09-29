@@ -11,4 +11,4 @@
 Raghunātha Dāsa Gosvāmī's hymns and prayers, including the Manaḥśikṣā, the Vilāpakusumāñjali and the Svaniyamadaśaka.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

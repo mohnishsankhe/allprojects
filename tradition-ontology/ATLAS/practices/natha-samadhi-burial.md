@@ -9,4 +9,4 @@
 At death a Nāth yogī is buried seated in a tomb (samādhi) rather than cremated; the tomb becomes a place of worship.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._

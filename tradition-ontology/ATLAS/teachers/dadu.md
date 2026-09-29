@@ -16,4 +16,4 @@ Cotton-carder (dhuniyā) saint of Rajasthan, founder of the Dādū Panth: taught
 **Realization — the tradition's account:** At eleven, an old man (Buḍḍhan, 'the old one'; some say Kabīr or God himself) appeared to him, gave him pān and blessed him; seven years later he appeared again and Dādū's realization was complete; he met the guru 'in the unseen' (gaib).
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

@@ -12,4 +12,4 @@ Grasping at apprehended object and apprehending subject, the root of attachment 
   - [Dṛṣṭisaṃkṣipta (Nāropa's 'View in Brief')](../texts/drstisamksipta.md) — ref: 245a.6; rests_on: ["tea:drstisamksipta:245a.6"]
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

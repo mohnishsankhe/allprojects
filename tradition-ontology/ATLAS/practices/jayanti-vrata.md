@@ -11,4 +11,4 @@ Fasting on Kṛṣṇa's birthday — the dark eighth day conjoined with Rohiṇ
   - [Jayantīnirṇaya](../texts/jayantinirnaya.md) — ref: 1-3; rests_on: ["tea:jayantinirnaya:1-3"]
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._

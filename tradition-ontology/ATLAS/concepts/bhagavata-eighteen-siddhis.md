@@ -1,6 +1,6 @@
 # The Bhāgavata's eighteen powers
 
-`cpt:bhagavata-eighteen-siddhis` · `skeleton` · confidence high
+`cpt:bhagavata-eighteen-siddhis` · `sourced` · confidence high
 
 **Category:** signs-powers
 **Members:** aṇimā, mahimā, laghimā, prāpti, prākāmya, īśitā, vaśitā, kāmāvasāyitā, anūrmimattva, dūra-śravaṇa/darśana, mano-java, kāma-rūpa, para-kāya-praveśa, svacchanda-mṛtyu, devakrīḍānudarśana, yathā-saṅkalpa-siddhi, ājñāpratihata-gati, trikālajñatā, advandva, para-cittādy-abhijñatā, pratiṣṭambha, aparājaya
@@ -14,4 +14,8 @@
 - obstructs → [Devotion as the supreme dharma](bhakti-supreme-dharma.md): the powers waste the time of one seeking the Lord — rests on [11.15.33-34](../texts/bhagavata-purana.md#tea-bhagavata-purana-11-15-33-34)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:11.15.3-8, tea:bhagavata-purana:11.15.33-34 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

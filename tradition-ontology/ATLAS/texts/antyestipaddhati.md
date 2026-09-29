@@ -17,4 +17,4 @@ _Notes: Collective entry for a genre; individual titles not listed (gap)._
 
 - 2026-09-28 catalog: confirmed — catalog:eBharati:antyeShTidIpikA, catalog:eBharati:antyakarmadIpakaH, catalog:Muktabodha:antyeShTividhi__I00049 — The genre is confirmed: several funeral manuals are held locally (Antyeṣṭidīpikā, Antyakarmadīpaka; Śaiva antyeṣṭividhi). This is a collective entry.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

@@ -97,7 +97,7 @@ Dharma and adharma cease thus: those already produced, by being experienced, by 
 
 _level: conventional · standpoint: seeker · path: action, knowledge · stage: advanced · types: karma-liberation, practice_
 
-concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [Obligatory, occasional, desire-prompted and prohibited acts](../concepts/classification-of-acts.md) · practices: [Performing obligatory and occasional rites while abstaining from desire-prompted and prohibited acts](../practices/nitya-naimittika-anusthana.md) · obstacles: [Pratyavāya (demerit of omission)](../obstacles/pratyavaya.md), [Adharma / sin (pāpa)](../obstacles/adharma.md) · disputes: `dsp:works-knowledge-grace`
+concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [Obligatory, occasional, desire-prompted and prohibited acts](../concepts/classification-of-acts.md) · practices: [Performing obligatory and occasional rites while abstaining from desire-prompted and prohibited acts](../practices/nitya-naimittika-anusthana.md) · obstacles: [Pratyavāya (demerit of omission)](../obstacles/pratyavaya.md), [Adharma / sin (pāpa)](../obstacles/adharma.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 1.1.5/8 <a id="tea-sastradipika-1-1-5-8"></a>
 `skeleton` · confidence high
@@ -110,4 +110,4 @@ concepts: [The self (ātman)](../concepts/self.md), [For the rite or for the per
 
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._

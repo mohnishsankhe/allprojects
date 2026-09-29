@@ -1,6 +1,6 @@
 # The rāsa-līlā
 
-`cpt:rasa-lila` · `skeleton` · confidence high
+`cpt:rasa-lila` · `sourced` · confidence high
 
 **Category:** ethics
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:10.29-33, tea:bhagavata-purana:10.32.22, tea:bhagavata-purana:10.33.30-31, tea:bhagavata-purana:10.33.40 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

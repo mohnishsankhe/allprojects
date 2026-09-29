@@ -13,4 +13,4 @@ With the mouth closed, the root of the tongue is moved about and the nectar slow
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 3.62-63; rests_on: ["tea:gheranda-samhita:3.62-63"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:11 IST._

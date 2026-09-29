@@ -10,10 +10,10 @@ Through inner worship, meditation on Śiva as one's self: the supreme self is co
 **Stage:** prāṇaliṅgi
 **Sources:** 
   - [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) — ref: 12.21–27; rests_on: ["tea:siddhantasikhamani:12.21-24", "tea:siddhantasikhamani:12.25-27"]
-**Sequences:** `pth:virasaiva-satsthala`
+**Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ## The texts' own warnings
 - The breath element (meeting of prāṇa and apāna) is done on the teacher's instruction (commentary on 12.6); no method is recorded here. — [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) 12.6
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # Yoga Vāsiṣṭha
 
-`src:yoga-vasistha` · `skeleton` · confidence high
+`src:yoga-vasistha` · `sourced` · confidence high
 
 **Alternate titles:** Vāsiṣṭha Rāmāyaṇa, Mahārāmāyaṇa, Ārṣa Rāmāyaṇa, Jñāna Vāsiṣṭha, Mokṣopāya (its self-designation at 2.17.6)
 **Original title:** योगवासिष्ठ
@@ -21,10 +21,10 @@ Vasiṣṭha teaches the despondent young Rāma that the world is a projection o
   - kind: translation; name: Vihari-Lala Mitra, The Yoga-vasishtha-maharamayana (1891-99); licence: public domain
 **Commentaries on this text:** [Vāsiṣṭharāmāyaṇa-tātparyaprakāśa](yoga-vasistha-tatparyaprakasa.md)
 
-## Teachings (4: skeleton 4)
+## Teachings (4: sourced 4)
 
 ### 2.4-9 <a id="tea-yoga-vasistha-2-4-9"></a>
-`skeleton` · confidence moderate · [AI-translated]
+`sourced` · confidence moderate · [AI-translated]
 
 Human effort (pauruṣa) against fate (daiva): fate is only one's former effort and is overcome by present effort guided by scripture and the wise.
 
@@ -33,7 +33,7 @@ _level: conventional · standpoint: causal · path: action · stage: all · type
 concepts: [Human effort and fate](../concepts/paurusa-and-daiva.md) · disputes: [Is the outcome of life decided by fate (daiva) or by human effort (pauruṣa)?](../debates/daiva-or-paurusa.md)
 
 ### 2.11-16 <a id="tea-yoga-vasistha-2-11-16"></a>
-`skeleton` · confidence moderate · [AI-translated]
+`sourced` · confidence moderate · [AI-translated]
 
 The four gatekeepers of liberation — peace, inquiry, contentment and holy company — each expounded in its own chapter.
 
@@ -42,7 +42,7 @@ _level: conventional · standpoint: seeker · path: general · stage: beginner �
 concepts: [The four gatekeepers of liberation](../concepts/four-gatekeepers-of-liberation.md)
 
 ### 3.118 <a id="tea-yoga-vasistha-3-118"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 The seven stages of knowledge (śubhecchā, vicāraṇā, tanumānasā, sattvāpatti, asaṃsakti, padārthābhāvanī, turyagā), with liberation beyond them; the seventh belongs to those liberated while living.
 
@@ -51,7 +51,7 @@ _level: conventional · standpoint: seeker · path: knowledge · stage: all · t
 concepts: [The seven stages of knowledge (jñāna-bhūmikā)](../concepts/seven-stages-of-knowledge.md)
 
 ### 6 <a id="tea-yoga-vasistha-6"></a>
-`skeleton` · confidence moderate · [AI-translated]
+`sourced` · confidence moderate · [AI-translated]
 
 The Nirvāṇa-prakaraṇa describes the state of the liberated: the world is recognized as the shining of consciousness, like waves on water, and the knower lives on, acting as circumstances require without inner attachment, until the body falls.
 
@@ -63,4 +63,8 @@ concepts: [Liberation while living (jīvanmukti)](../concepts/jivanmukti.md)
 _Notes: Book-level refs 1-5 in U06 teachings are checked against the Mokṣopāya critical edition, whose sarga numbering agrees with the vulgate for the passages used (e.g. the seven stages at 3.118, the gatekeepers at 2.11.59); Book 4 of the vulgate begins c. 18 sargas earlier than the MU's Book 4, and the vulgate splits Book 6 in two halves, so Book 4 and 6 teachings are anchored on src:moksopaya._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — local:sources_raw/raw_etexts/mixed/mukta/vedAnta/valmiki/ and unknown_Anandabodhendra/ (Yogavāsiṣṭha vulgate with Tātparyaprakāśa, Nirṇaya Sāgara ed.; Muktabodha M00335-M00339, M00345), catalog:Muktabodha:yogavAsiShTha_part_1_with_chommentary_tAtparyaprakAsha__M00335, https://en.wikipedia.org/wiki/Y — The vulgate is local, contrary to the unit's report. Its structure is verified exactly: 33 + 20 + 122 + 62 + 93 + Nirvāṇa pūrvārdha 128 + uttarārdha 216 = 674 sargas. The closing colophon names it 'dvātriṃśacchatasāhasryāṃ saṃhitāyām' ('mokṣopāyeṣu'). Slaje dates the Mokṣopāya to c. 950, Kashmir, and the vulgate expansion to the 11th-14th c.; tradition and scholarship are kept separate as entered.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

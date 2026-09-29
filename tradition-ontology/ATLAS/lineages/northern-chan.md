@@ -41,7 +41,7 @@ The metropolitan Chan of Shenxiu (d. 706) and his heirs Puji and Yifu, favoured 
 _none recorded_
 
 ## Debates
-[Who is the true Sixth Patriarch — was the Northern school collateral?](../debates/huatai-true-lineage.md)
+[Who is the true Sixth Patriarch — was the Northern school collateral?](../debates/huatai-true-lineage.md), [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

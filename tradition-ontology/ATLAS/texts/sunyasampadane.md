@@ -39,7 +39,7 @@ Allama questions Akka Mahādēvi: having renounced everything, why does she stil
 
 _level: bridging · standpoint: experiential · path: devotion · stage: advanced · types: teacher-transmission, ethics_
 
-concepts: [Women's spiritual equality](../concepts/virasaiva-women-equality.md), [The guru: how he is found, tested and honoured](../concepts/virasaiva-guru.md) · teachers: [Allama Prabhu](../teachers/allama-prabhu.md), [Akka Mahādēvi](../teachers/akka-mahadevi.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Women's spiritual equality](../concepts/virasaiva-women-equality.md), [The guru: how he is found, tested and honoured](../concepts/virasaiva-guru.md) · teachers: [Allama Prabhu](../teachers/allama-prabhu.md), [Akka Mahādēvi](../teachers/akka-mahadevi.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### sampādane of Allama's arrival at Kalyāṇa <a id="tea-sunyasampadane-allama-at-kalyana"></a>
 `skeleton` · confidence low
@@ -90,4 +90,4 @@ terms: [śūnya](../terms/sunya.md), [bayalu](../terms/bayalu.md) · concepts: [
 _Notes: Some accounts speak of five versions; four named compilers are recorded here._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

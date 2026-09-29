@@ -29,4 +29,4 @@ Cognition is self-aware (svasaṃvedana): every cognition is aware of itself in 
 _Notes: Related to dsp:is-there-a-self (U50)._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:11 IST._

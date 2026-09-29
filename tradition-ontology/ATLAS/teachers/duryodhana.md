@@ -9,4 +9,4 @@ Dhṛtarāṣṭra's son, king of the Kaurava side (rājā, 1.2), who names the 
 _Notes: Linked in BhG ch. 1–3 at 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.10, 1.11, 1.12, 1.23._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:02 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:11 IST._

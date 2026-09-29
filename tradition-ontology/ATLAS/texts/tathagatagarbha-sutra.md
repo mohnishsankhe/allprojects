@@ -46,4 +46,4 @@ terms: [tathāgatagarbha](../terms/tathagatagarbha.md) · concepts: [The permane
 _Notes: Sanskrit lost apart from RGV citations; T666 (vol. 16) not local; Tibetan D258 in the local catalogue._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

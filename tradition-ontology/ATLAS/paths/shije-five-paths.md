@@ -17,4 +17,4 @@
 The stage content under each path in the Shije manual is not recalled; the frame is inferred from the work's title (catalogue P000270).
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

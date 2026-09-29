@@ -15,4 +15,4 @@ A Kaula tantra in 7 paṭalas on the worship of the Kula goddesses and the Kaula
   - kind: original; name: Muktabodha Digital Library e-text M00402
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._

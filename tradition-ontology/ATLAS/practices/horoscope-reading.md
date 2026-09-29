@@ -17,4 +17,4 @@ From the moment and place of birth the astrologer computes the rising sign, the 
 - One who predicts by trickery, feigned possession or eavesdropping is no knower of fate and is not to be consulted. — [Bṛhat Saṃhitā](../texts/brhat-samhita.md) 2.15
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

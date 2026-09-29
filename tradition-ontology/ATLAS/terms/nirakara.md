@@ -15,4 +15,4 @@
 **Related:** [sākāra](sakara.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

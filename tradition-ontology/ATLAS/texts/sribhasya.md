@@ -26,7 +26,7 @@ Rāmānuja's commentary on the Brahma Sūtras following, he says, Bodhāyana's l
 
 _level: conventional · standpoint: seeker · path: knowledge, action · stage: intermediate · types: practice, karma-liberation_
 
-terms: [aikaśāstrya](../terms/aikasastrya.md) · concepts: [The unity of Pūrva and Uttara Mīmāṃsā (aikaśāstrya)](../concepts/aikasastrya.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:works-knowledge-grace`
+terms: [aikaśāstrya](../terms/aikasastrya.md) · concepts: [The unity of Pūrva and Uttara Mīmāṃsā (aikaśāstrya)](../concepts/aikasastrya.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 1.1.1/2 <a id="tea-sribhasya-1-1-1-2"></a>
 `skeleton` · confidence high
@@ -35,7 +35,7 @@ The knowledge that the Upaniṣads enjoin for liberation is not the understandin
 
 _level: conventional · standpoint: seeker · path: devotion, meditation · stage: advanced (bhakti-yoga) · types: practice, karma-liberation_
 
-terms: [upāsanā](../terms/upasana.md), [dhruvānusmṛti](../terms/dhruvanusmrti.md), [darśana-samānākāra](../terms/darsana-samanakara.md), [bhakti](../terms/bhakti.md) · concepts: [Bhakti as meditation (upāsana, dhruvānusmṛti)](../concepts/bhakti-as-upasana.md) · practices: [Bhakti-yoga: loving meditation (upāsana, dhruvānusmṛti)](../practices/bhakti-yoga-upasana.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is the knowledge that liberates a knowledge arising from the scriptural sentence, or a sustained meditation (upāsana) that is bhakti?](../debates/is-liberating-knowledge-meditation.md), `dsp:works-knowledge-grace`
+terms: [upāsanā](../terms/upasana.md), [dhruvānusmṛti](../terms/dhruvanusmrti.md), [darśana-samānākāra](../terms/darsana-samanakara.md), [bhakti](../terms/bhakti.md) · concepts: [Bhakti as meditation (upāsana, dhruvānusmṛti)](../concepts/bhakti-as-upasana.md) · practices: [Bhakti-yoga: loving meditation (upāsana, dhruvānusmṛti)](../practices/bhakti-yoga-upasana.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is the knowledge that liberates a knowledge arising from the scriptural sentence, or a sustained meditation (upāsana) that is bhakti?](../debates/is-liberating-knowledge-meditation.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 1.1.1/3 <a id="tea-sribhasya-1-1-1-3"></a>
 `skeleton` · confidence high
@@ -53,7 +53,7 @@ The great prior view (mahāpūrvapakṣa), stated by Rāmānuja on behalf of the
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), `dsp:saguna-nirguna`, [Is Advaita's avidyā — beginningless, indescribable, located in and concealing Brahman — tenable?](../debates/avidya-saptavidha-anupapatti.md)
+teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md), [Is Advaita's avidyā — beginningless, indescribable, located in and concealing Brahman — tenable?](../debates/avidya-saptavidha-anupapatti.md)
 
 ### 1.1.1/5 <a id="tea-sribhasya-1-1-1-5"></a>
 `skeleton` · confidence high
@@ -62,7 +62,7 @@ No means of knowledge establishes an undifferentiated object: perception, even a
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-terms: [pramāṇa](../terms/pramana.md) · concepts: [Means of valid knowledge (pramāṇa)](../concepts/pramana.md), [Qualified non-dualism (viśiṣṭādvaita)](../concepts/qualified-non-dualism.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:saguna-nirguna`
+terms: [pramāṇa](../terms/pramana.md) · concepts: [Means of valid knowledge (pramāṇa)](../concepts/pramana.md), [Qualified non-dualism (viśiṣṭādvaita)](../concepts/qualified-non-dualism.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 1.1.1/6 <a id="tea-sribhasya-1-1-1-6"></a>
 `skeleton` · confidence high
@@ -98,7 +98,7 @@ Bondage is caused by karma, which is what scripture calls avidyā ('the third po
 
 _level: conventional · standpoint: causal · path: devotion, knowledge · stage: all · types: karma-liberation_
 
-terms: [avidyā](../terms/avidya.md), [dharmabhūta-jñāna](../terms/dharmabhuta-jnana.md) · concepts: [Avidyā (ignorance) in Advaita](../concepts/avidya.md) · obstacles: [Beginningless karma as bondage (avidyā-karma)](../obstacles/karma-bondage.md), [Contraction of knowledge (jñāna-saṅkoca)](../obstacles/jnana-sankoca.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:works-knowledge-grace`
+terms: [avidyā](../terms/avidya.md), [dharmabhūta-jñāna](../terms/dharmabhuta-jnana.md) · concepts: [Avidyā (ignorance) in Advaita](../concepts/avidya.md) · obstacles: [Beginningless karma as bondage (avidyā-karma)](../obstacles/karma-bondage.md), [Contraction of knowledge (jñāna-saṅkoca)](../obstacles/jnana-sankoca.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 1.1.2 <a id="tea-sribhasya-1-1-2"></a>
 `skeleton` · confidence high
@@ -116,7 +116,7 @@ Brahman is known only from scripture (śāstrayonitvāt): inference cannot prove
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-terms: [pramāṇa](../terms/pramana.md) · concepts: [Scripture and its authority in Viśiṣṭādvaita](../concepts/vedic-authority-visistadvaita.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [pramāṇa](../terms/pramana.md) · concepts: [Scripture and its authority in Viśiṣṭādvaita](../concepts/vedic-authority-visistadvaita.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 1.1.4 <a id="tea-sribhasya-1-1-4"></a>
 `skeleton` · confidence moderate
@@ -206,7 +206,7 @@ The self is an agent (kartṛ), else injunctions would be pointless; but its age
 
 _level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: [pāratantrya](../terms/paratantrya.md) · concepts: [The individual living self (jīva)](../concepts/jiva.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:works-knowledge-grace`
+terms: [pāratantrya](../terms/paratantrya.md) · concepts: [The individual living self (jīva)](../concepts/jiva.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 2.3/3 <a id="tea-sribhasya-2-3-3"></a>
 `skeleton` · confidence moderate
@@ -224,7 +224,7 @@ Even though it abides in bodies and places, the supreme Brahman is not touched b
 
 _level: ultimate · standpoint: divine · path: knowledge, devotion · stage: all · types: ultimate_
 
-terms: [ubhaya-liṅga](../terms/ubhaya-linga.md), [akhila-heya-pratyanīka](../terms/heya-pratyanika.md), [kalyāṇa-guṇa](../terms/kalyana-guna.md) · concepts: [Brahman's twofold mark (ubhaya-liṅga): free of all defect, full of auspicious qualities](../concepts/ubhaya-linga.md), [The Lord's infinite auspicious qualities](../concepts/kalyana-gunas.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:saguna-nirguna`
+terms: [ubhaya-liṅga](../terms/ubhaya-linga.md), [akhila-heya-pratyanīka](../terms/heya-pratyanika.md), [kalyāṇa-guṇa](../terms/kalyana-guna.md) · concepts: [Brahman's twofold mark (ubhaya-liṅga): free of all defect, full of auspicious qualities](../concepts/ubhaya-linga.md), [The Lord's infinite auspicious qualities](../concepts/kalyana-gunas.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 3.2/2 <a id="tea-sribhasya-3-2-2"></a>
 `skeleton` · confidence high
@@ -233,7 +233,7 @@ terms: [ubhaya-liṅga](../terms/ubhaya-linga.md), [akhila-heya-pratyanīka](../
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · types: ultimate, dispute_
 
-concepts: [Brahman's twofold mark (ubhaya-liṅga): free of all defect, full of auspicious qualities](../concepts/ubhaya-linga.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:saguna-nirguna`
+concepts: [Brahman's twofold mark (ubhaya-liṅga): free of all defect, full of auspicious qualities](../concepts/ubhaya-linga.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 3.2/3 <a id="tea-sribhasya-3-2-3"></a>
 `skeleton` · confidence low
@@ -338,4 +338,4 @@ terms: [brahman](../terms/brahman.md), [bhakti](../terms/bhakti.md), [Śriyaḥp
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

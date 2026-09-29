@@ -51,8 +51,8 @@ Your devotees, even if born of the lowest, are to be honoured as you are; but br
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics, dispute_
 
-concepts: [The Lord's devotees as one's masters; service to devotees](../concepts/service-to-devotees.md) · obstacles: [Pride of birth; judging devotees by caste (jāti-abhimāna)](../obstacles/jati-abhimana.md), [Offence against devotees (bhāgavata-apacāra)](../obstacles/bhagavata-apacara.md) · teachers: [Toṇṭaraṭippoṭi Āḻvār](../teachers/tontaratippoti-alvar.md) · disputes: [Does birth (caste) determine a devotee's worth, eligibility and place — in the temple, in scripture, and among devotees?](../debates/devotee-birth-and-caste.md), `dsp:women-caste-liberation`
+concepts: [The Lord's devotees as one's masters; service to devotees](../concepts/service-to-devotees.md) · obstacles: [Pride of birth; judging devotees by caste (jāti-abhimāna)](../obstacles/jati-abhimana.md), [Offence against devotees (bhāgavata-apacāra)](../obstacles/bhagavata-apacara.md) · teachers: [Toṇṭaraṭippoṭi Āḻvār](../teachers/tontaratippoti-alvar.md) · disputes: [Does birth (caste) determine a devotee's worth, eligibility and place — in the temple, in scripture, and among devotees?](../debates/devotee-birth-and-caste.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._

@@ -10,4 +10,4 @@
 Qing Chan master who turned to Pure Land ('true mind for birth and death, arouse bodhicitta, deep faith and vow, hold the name'); twelfth patriarch in the later list.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

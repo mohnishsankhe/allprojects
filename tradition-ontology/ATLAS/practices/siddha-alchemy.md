@@ -20,4 +20,4 @@ Summary only: the Siddhar art of 'binding' mercury, purifying and calcining pois
 _Notes: Restricted (metals/mercury)._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._

@@ -39,7 +39,7 @@ In all the scriptures it is proclaimed that ignorance is the cause of saṃsāra
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-terms: [ajñāna](../terms/ajnana.md), [mala](../terms/mala.md) · concepts: [The three malas (āṇava, karma, māyā)](../concepts/three-malas.md) · teachers: [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: [Is the root impurity (āṇava mala) a real substance removable only by ritual initiation, or is it ignorance - a contraction of consciousness - removed by knowledge?](../debates/mala-substance-or-ignorance.md), `dsp:works-knowledge-grace`
+terms: [ajñāna](../terms/ajnana.md), [mala](../terms/mala.md) · concepts: [The three malas (āṇava, karma, māyā)](../concepts/three-malas.md) · teachers: [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: [Is the root impurity (āṇava mala) a real substance removable only by ritual initiation, or is it ignorance - a contraction of consciousness - removed by knowledge?](../debates/mala-substance-or-ignorance.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 1.25-26 <a id="tea-tantraloka-1-25-26"></a>
 `skeleton` · confidence high
@@ -165,7 +165,7 @@ The chapter on the descent of power (śaktipāta): grace depends on the Lord's f
 
 _level: bridging · standpoint: divine · path: general · stage: all · types: karma-liberation, teacher-transmission_
 
-terms: [śaktipāta](../terms/saktipata.md) · concepts: [The grades of the descent of power (śaktipāta)](../concepts/kinds-of-saktipata.md) · teachers: [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: [Is the root impurity (āṇava mala) a real substance removable only by ritual initiation, or is it ignorance - a contraction of consciousness - removed by knowledge?](../debates/mala-substance-or-ignorance.md), `dsp:works-knowledge-grace`, [Does the liberated soul become identical with Śiva, or only equal to Śiva (śivasamatva) while remaining distinct?](../debates/liberation-identity-or-equality-with-siva.md)
+terms: [śaktipāta](../terms/saktipata.md) · concepts: [The grades of the descent of power (śaktipāta)](../concepts/kinds-of-saktipata.md) · teachers: [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: [Is the root impurity (āṇava mala) a real substance removable only by ritual initiation, or is it ignorance - a contraction of consciousness - removed by knowledge?](../debates/mala-substance-or-ignorance.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md), [Does the liberated soul become identical with Śiva, or only equal to Śiva (śivasamatva) while remaining distinct?](../debates/liberation-identity-or-equality-with-siva.md)
 
 ### 13.300-301 <a id="tea-tantraloka-13-300-301"></a>
 `skeleton` · confidence high
@@ -216,4 +216,4 @@ teachers: [Abhinavagupta](../teachers/abhinavagupta.md)
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry. Total verse count from memory (low)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._

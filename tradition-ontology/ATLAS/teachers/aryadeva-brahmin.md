@@ -10,4 +10,4 @@
 An Indian master to whom the Chöd tradition attributes the Grand Poem on the Perfection of Wisdom; treated as an Indian source of Chöd. Distinct from Nāgārjuna's disciple Āryadeva in most accounts (identity uncertain).
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

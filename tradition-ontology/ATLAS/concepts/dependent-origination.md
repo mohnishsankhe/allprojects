@@ -20,4 +20,4 @@
 _Notes: U38 contribution to a shared concept (U36 owns the sutta account)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U38-early-schools, skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U38-early-schools, skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._

@@ -278,7 +278,7 @@ Jānaśruti Pautrāyaṇa, a lavish giver, overhears two geese flying at night s
 
 _level: conventional · standpoint: ethical-social · path: knowledge · stage: all · types: teacher-transmission_
 
-teachers: [Raikva 'with the cart' (sayugvan)](../teachers/raikva.md), [Jānaśruti Pautrāyaṇa](../teachers/janasruti-pautrayana.md) · disputes: `dsp:women-caste-liberation`
+teachers: [Raikva 'with the cart' (sayugvan)](../teachers/raikva.md), [Jānaśruti Pautrāyaṇa](../teachers/janasruti-pautrayana.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 4.3.1-4 <a id="tea-chandogya-upanisad-4-3-1-4"></a>
 `sourced` · confidence high
@@ -307,7 +307,7 @@ Satyakāma asks his mother Jabālā his lineage; she says she does not know — 
 
 _level: conventional · standpoint: ethical-social · path: knowledge · stage: all · types: teacher-transmission, ethics_
 
-terms: [satya](../terms/satya.md), [samitpāṇi](../terms/samitpani.md) · concepts: [Teacher and pupil in the Upaniṣads](../concepts/upanisadic-teacher-student.md) · teachers: [Satyakāma Jābāla](../teachers/satyakama-jabala.md), [Jabālā (mother of Satyakāma)](../teachers/jabala.md), [Hāridrumata Gautama](../teachers/haridrumata-gautama.md) · disputes: `dsp:women-caste-liberation`
+terms: [satya](../terms/satya.md), [samitpāṇi](../terms/samitpani.md) · concepts: [Teacher and pupil in the Upaniṣads](../concepts/upanisadic-teacher-student.md) · teachers: [Satyakāma Jābāla](../teachers/satyakama-jabala.md), [Jabālā (mother of Satyakāma)](../teachers/jabala.md), [Hāridrumata Gautama](../teachers/haridrumata-gautama.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 4.5.1-4.9.3 <a id="tea-chandogya-upanisad-4-5-1-4-9-3"></a>
 `sourced` · confidence high
@@ -424,7 +424,7 @@ Those whose conduct here has been pleasant will quickly enter a pleasant womb �
 
 _level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, ethics_
 
-terms: [karma](../terms/karma.md) · concepts: [Karma](../concepts/karma.md), [Rebirth](../concepts/rebirth.md) · disputes: `dsp:women-caste-liberation`
+terms: [karma](../terms/karma.md) · concepts: [Karma](../concepts/karma.md), [Rebirth](../concepts/rebirth.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 5.10.8 <a id="tea-chandogya-upanisad-5-10-8"></a>
 `sourced` · confidence high
@@ -916,4 +916,4 @@ _Notes: Forms prapathakas 3-10 of the Chāndogya Brāhmaṇa, whose first two pr
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:DCS:Chāndogyopaniṣad, catalog:GRETIL-dev:Chandogya-upanisad_Chandogyopanisad_mula-text, text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), https://en.wikipedia.org/wiki/Chandogya_Upanishad, https://www.wisdomlib.org/hindui — Confirmed: prapāṭhakas 3–10 of the Chāndogya Brāhmaṇa, whose first two are the Mantra Brāhmaṇa (Wikipedia). 8 prapāṭhakas with 154 khaṇḍas (13+24+19+17+24+16+26+15) in the prepared text. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship. Web results name the Tāṇḍya school; the Kauthuma–Rāṇāyanīya detail was not checked separately.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

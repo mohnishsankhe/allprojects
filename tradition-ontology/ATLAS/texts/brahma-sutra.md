@@ -53,7 +53,7 @@ Because (Brahman) has scripture as its source (of knowledge) — or: because (Br
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: ultimate, sound-language_
 
-terms: [śabda](../terms/sabda-pramana.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [śabda](../terms/sabda-pramana.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 1.1.4 <a id="tea-brahma-sutra-1-1-4"></a>
 `skeleton` · confidence high
@@ -64,7 +64,7 @@ But that (Brahman is known from scripture), because (the Upaniṣadic texts) are
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: ultimate, sound-language_
 
-terms: [tātparya-liṅga (ṣaḍ-liṅga)](../terms/tatparya-linga.md) · concepts: [The six marks of purport (ṣaḍ-liṅga)](../concepts/six-marks-of-purport.md) · disputes: `dsp:works-knowledge-grace`
+terms: [tātparya-liṅga (ṣaḍ-liṅga)](../terms/tatparya-linga.md) · concepts: [The six marks of purport (ṣaḍ-liṅga)](../concepts/six-marks-of-purport.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 1.1.5 <a id="tea-brahma-sutra-1-1-5"></a>
 `skeleton` · confidence high
@@ -106,7 +106,7 @@ For this very reason (because the world arises from the Vedic word) the eternity
 
 _level: conventional · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language_
 
-disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 1.3.31 <a id="tea-brahma-sutra-1-3-31"></a>
 `skeleton` · confidence high
@@ -139,7 +139,7 @@ His grief (śuc) is indicated by his hearing of the (swan's) disrespect and his 
 
 _level: conventional · standpoint: ethical-social · path: knowledge · stage: all · types: teacher-transmission, ethics_
 
-disputes: `dsp:women-caste-liberation`
+disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 1.3.38 <a id="tea-brahma-sutra-1-3-38"></a>
 `skeleton` · confidence high
@@ -150,7 +150,7 @@ And because of the prohibition of hearing, studying and (performing) the meaning
 
 _level: conventional · standpoint: ethical-social · path: knowledge · stage: all · types: teacher-transmission, ethics_
 
-disputes: `dsp:women-caste-liberation`
+disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 1.4.1 <a id="tea-brahma-sutra-1-4-1"></a>
 `skeleton` · confidence high
@@ -294,7 +294,7 @@ Partiality and cruelty [do] not [belong to the Lord], because [his creating] dep
 
 _level: unmarked · standpoint: polemical · path: knowledge, action · stage: all · types: dispute, karma-liberation, world-fate_
 
-disputes: [Does the Lord act independently of the karma of souls?](../debates/pasupata-isvara-karma.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+disputes: [Does the Lord act independently of the karma of souls?](../debates/pasupata-isvara-karma.md), [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 2.1.35 <a id="tea-brahma-sutra-2-1-35"></a>
 `skeleton` · confidence high
@@ -433,7 +433,7 @@ _level: conventional · standpoint: polemical · path: knowledge · stage: all �
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-disputes: [Can the Lord be only the efficient cause of the world, as the Māheśvaras teach? (Brahma Sūtra 2.2.37ff, paśupati-adhikaraṇa)](../debates/lord-only-efficient-cause.md), [Does the Lord act independently of the karma of souls?](../debates/pasupata-isvara-karma.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
+disputes: [Can the Lord be only the efficient cause of the world, as the Māheśvaras teach? (Brahma Sūtra 2.2.37ff, paśupati-adhikaraṇa)](../debates/lord-only-efficient-cause.md), [Does the Lord act independently of the karma of souls?](../debates/pasupata-isvara-karma.md), [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 2.2.42 <a id="tea-brahma-sutra-2-2-42"></a>
 `skeleton` · confidence high
@@ -567,7 +567,7 @@ Not even on account of place (limiting adjunct) can the Supreme have a twofold c
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · types: ultimate_
 
-terms: [nirguṇa](../terms/nirguna.md), [upādhi](../terms/upadhi.md) · concepts: [Attributeless and qualified Brahman](../concepts/nirguna-saguna-brahman.md) · disputes: `dsp:saguna-nirguna`
+terms: [nirguṇa](../terms/nirguna.md), [upādhi](../terms/upadhi.md) · concepts: [Attributeless and qualified Brahman](../concepts/nirguna-saguna-brahman.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 3.2.12 <a id="tea-brahma-sutra-3-2-12"></a>
 `skeleton` · confidence moderate
@@ -578,7 +578,7 @@ If it be said that (Brahman has a twofold character) because of the difference (
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · types: ultimate_
 
-disputes: `dsp:saguna-nirguna`
+disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 3.2.13 <a id="tea-brahma-sutra-3-2-13"></a>
 `skeleton` · confidence moderate
@@ -598,7 +598,7 @@ _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · ty
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · types: ultimate_
 
-terms: [nirguṇa](../terms/nirguna.md) · disputes: `dsp:saguna-nirguna`
+terms: [nirguṇa](../terms/nirguna.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 3.2.15 <a id="tea-brahma-sutra-3-2-15"></a>
 `skeleton` · confidence high
@@ -609,7 +609,7 @@ And like light (which takes shapes from what it falls on), (texts about form) ar
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate_
 
-terms: [upādhi](../terms/upadhi.md), [saguṇa](../terms/saguna.md) · disputes: `dsp:saguna-nirguna`
+terms: [upādhi](../terms/upadhi.md), [saguṇa](../terms/saguna.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 3.2.16 <a id="tea-brahma-sutra-3-2-16"></a>
 `skeleton` · confidence high
@@ -715,7 +715,7 @@ The fruit (of works comes) from Him, because that is reasonable.
 
 _level: conventional · standpoint: divine · path: action · stage: all · types: karma-liberation_
 
-terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara in Advaita](../concepts/isvara-advaita.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara in Advaita](../concepts/isvara-advaita.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 3.2.40 <a id="tea-brahma-sutra-3-2-40"></a>
 `skeleton` · confidence moderate
@@ -724,7 +724,7 @@ Jaimini holds that dharma (itself gives the fruit), for the same reasons (script
 
 _level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, dispute_
 
-concepts: [Apūrva (the unseen potency of ritual action)](../concepts/apurva.md), [Īśvara (the Lord)](../concepts/isvara.md) · teachers: [Jaimini](../teachers/jaimini.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+concepts: [Apūrva (the unseen potency of ritual action)](../concepts/apurva.md), [Īśvara (the Lord)](../concepts/isvara.md) · teachers: [Jaimini](../teachers/jaimini.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 3.2.41 <a id="tea-brahma-sutra-3-2-41"></a>
 `skeleton` · confidence high
@@ -795,7 +795,7 @@ The human goal (liberation results) from this (knowledge), because of scripture 
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation_
 
-teachers: [Bādarāyaṇa](../teachers/badarayana.md) · disputes: `dsp:works-knowledge-grace`, [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md)
+teachers: [Bādarāyaṇa](../teachers/badarayana.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md), [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md)
 
 ### 3.4.2 <a id="tea-brahma-sutra-3-4-2"></a>
 `skeleton` · confidence high
@@ -806,7 +806,7 @@ Because (the self) is subsidiary (to ritual as its agent), the statements of the
 
 _level: conventional · standpoint: polemical · path: action, knowledge · stage: all · types: dispute, karma-liberation_
 
-concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [The relation of Pūrva and Uttara Mīmāṃsā](../concepts/purva-uttara-mimamsa.md) · teachers: [Jaimini](../teachers/jaimini.md) · disputes: `dsp:works-knowledge-grace`, [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md), [Can the Veda be a means of knowledge about an already-existing thing (siddha), or only about what is to be done (sādhya / kārya)?](../debates/siddha-or-sadhya.md)
+concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [The relation of Pūrva and Uttara Mīmāṃsā](../concepts/purva-uttara-mimamsa.md) · teachers: [Jaimini](../teachers/jaimini.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md), [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md), [Can the Veda be a means of knowledge about an already-existing thing (siddha), or only about what is to be done (sādhya / kārya)?](../debates/siddha-or-sadhya.md)
 
 ### 3.4.8 <a id="tea-brahma-sutra-3-4-8"></a>
 `skeleton` · confidence moderate
@@ -815,7 +815,7 @@ But because (the Upaniṣads) teach something more (a self beyond the agent), B�
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: all · types: karma-liberation, dispute_
 
-concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · teachers: [Bādarāyaṇa](../teachers/badarayana.md) · disputes: `dsp:works-knowledge-grace`, [Can the Veda be a means of knowledge about an already-existing thing (siddha), or only about what is to be done (sādhya / kārya)?](../debates/siddha-or-sadhya.md)
+concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · teachers: [Bādarāyaṇa](../teachers/badarayana.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md), [Can the Veda be a means of knowledge about an already-existing thing (siddha), or only about what is to be done (sādhya / kārya)?](../debates/siddha-or-sadhya.md)
 
 ### 3.4.18 <a id="tea-brahma-sutra-3-4-18"></a>
 `skeleton` · confidence moderate
@@ -824,7 +824,7 @@ Jaimini holds that (the other stages of life) are merely referred to (not enjoin
 
 _level: conventional · standpoint: polemical · path: action · stage: all · types: ethics, dispute_
 
-teachers: [Jaimini](../teachers/jaimini.md) · disputes: `dsp:works-knowledge-grace`
+teachers: [Jaimini](../teachers/jaimini.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3.4.26 <a id="tea-brahma-sutra-3-4-26"></a>
 `skeleton` · confidence high
@@ -1242,4 +1242,4 @@ terms: [mokṣa](../terms/moksa.md) · concepts: [Liberation (mokṣa) in Advait
 _Notes: Pāda themes (per Śaṅkara): 1.1 texts with clear marks of Brahman; 1.2 unclear marks, Brahman as object of meditation; 1.3 unclear marks, Brahman as object of knowledge; 1.4 doubtful words (avyakta, ajā) claimed by Sāṃkhya; 2.1 objections from smṛti (Sāṃkhya, Yoga) and reason answered; 2.2 critique of Sāṃkhya, Vaiśeṣika, Buddhists, Jains, Pāśupatas and (per Śaṅkara) Pāñcarātra; 2.3 creation of the elements and nature of the jīva; 2.4 the prāṇas; 3.1 transmigration (for dispassion); 3.2 the states of the self and the nature of Brahman; 3.3 combination of meditations; 3.4 auxiliaries of knowledge and the āśramas; 4.1 repetition and the effects of knowledge; 4.2 departure at death; 4.3 the path of the gods; 4.4 the liberated state. All sūtra numbers in this shard follow Śaṅkara's numbering._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

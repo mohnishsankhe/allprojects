@@ -18,4 +18,4 @@ Dārā Shikoh's Persian translation (with pandits, completed 1657) of some fifty
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Sirr-i-Akbar, https://whowaswho-indology.info/280/anquetil-duperron-abraham-hyacinthe/ — Dārā Shikoh's Persian translation of about fifty Upaniṣads, c. 1657, is confirmed.
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:11 IST._

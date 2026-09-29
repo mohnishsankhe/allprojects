@@ -9,4 +9,4 @@
 Rājput king of Amber/Jaipur who built masonry observatories at Delhi, Jaipur, Ujjain, Varanasi and Mathura and sponsored astronomical tables.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

@@ -18,4 +18,4 @@ An anthology of Mahāyāna sūtra passages on the rarity of human birth, faith, 
   - kind: translation; name: Chinese: Dasheng baoyaoyi lun 大乘寶要義論, T1635 — catalog:CBETA:T32n1635
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._

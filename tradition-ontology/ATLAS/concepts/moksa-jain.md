@@ -14,4 +14,4 @@
 - contrasts-with → [Isolation (kaivalya)](kaivalya.md) — rests on [10.2](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-10-2)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

@@ -16,4 +16,4 @@
 - analogous: [jīvanmukti](jivanmukti.md) — Both describe freedom in the living body; the Sant term stresses the death of the self rather than the dawning of knowledge.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

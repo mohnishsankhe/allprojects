@@ -30,7 +30,7 @@ There is no difference at all between the embodied (saguṇa) and the formless (
 
 _level: bridging · standpoint: devotional · path: devotion, knowledge · stage: all · types: ultimate_
 
-terms: [saguṇa](../terms/saguna.md), [nirguṇa](../terms/nirguna.md) · concepts: [Attributeless and qualified Brahman](../concepts/nirguna-saguna-brahman.md), [Rāma as the supreme Brahman](../concepts/rama-as-brahman.md) · teachers: [Tulsīdās](../teachers/tulsidas.md) · disputes: `dsp:saguna-nirguna`, [Is the Rāma whose name saves the embodied son of Daśaratha, or a formless Rām who was never born?](../debates/rama-of-the-name.md)
+terms: [saguṇa](../terms/saguna.md), [nirguṇa](../terms/nirguna.md) · concepts: [Attributeless and qualified Brahman](../concepts/nirguna-saguna-brahman.md), [Rāma as the supreme Brahman](../concepts/rama-as-brahman.md) · teachers: [Tulsīdās](../teachers/tulsidas.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md), [Is the Rāma whose name saves the embodied son of Daśaratha, or a formless Rām who was never born?](../debates/rama-of-the-name.md)
 
 ### 1.119 (kāṇḍa.dohā, Gita Press numbering; caupāī-level position approximate) <a id="tea-ramcaritmanas-1-119"></a>
 `skeleton` · confidence moderate
@@ -176,7 +176,7 @@ From dharma comes dispassion, from yoga knowledge, and knowledge gives liberatio
 
 _level: bridging · standpoint: divine · path: devotion, knowledge · stage: all · types: karma-liberation_
 
-concepts: [The lamp of knowledge and the gem of devotion](../concepts/jnana-dipa-bhakti-mani.md) · teachers: [Tulsīdās](../teachers/tulsidas.md) · disputes: `dsp:works-knowledge-grace`
+concepts: [The lamp of knowledge and the gem of devotion](../concepts/jnana-dipa-bhakti-mani.md) · teachers: [Tulsīdās](../teachers/tulsidas.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3.35–36 (kāṇḍa.dohā, Gita Press numbering; caupāī-level position approximate) <a id="tea-ramcaritmanas-3-35-36"></a>
 `skeleton` · confidence moderate
@@ -218,7 +218,7 @@ Bhuśuṇḍi recounts how, as a brahmin, he went to the sage Lomaśa, who kept 
 
 _level: bridging · standpoint: polemical · path: devotion, knowledge · stage: all · types: dispute, narrative_
 
-concepts: [Attributeless and qualified Brahman](../concepts/nirguna-saguna-brahman.md) · teachers: [Tulsīdās](../teachers/tulsidas.md) · disputes: `dsp:saguna-nirguna`, `dsp:works-knowledge-grace`
+concepts: [Attributeless and qualified Brahman](../concepts/nirguna-saguna-brahman.md) · teachers: [Tulsīdās](../teachers/tulsidas.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 7.115–120 (kāṇḍa.dohā, Gita Press numbering; caupāī-level position approximate) <a id="tea-ramcaritmanas-7-115-120"></a>
 `skeleton` · confidence moderate
@@ -227,7 +227,7 @@ Asked the difference between knowledge and devotion, Bhuśuṇḍi says both end
 
 _level: bridging · standpoint: analytic · path: devotion, knowledge · stage: all · types: karma-liberation, powers-experiences_
 
-concepts: [The lamp of knowledge and the gem of devotion](../concepts/jnana-dipa-bhakti-mani.md) · obstacles: [Pride in powers](../obstacles/siddhi-abhimana.md) · teachers: [Tulsīdās](../teachers/tulsidas.md) · disputes: `dsp:works-knowledge-grace`
+concepts: [The lamp of knowledge and the gem of devotion](../concepts/jnana-dipa-bhakti-mani.md) · obstacles: [Pride in powers](../obstacles/siddhi-abhimana.md) · teachers: [Tulsīdās](../teachers/tulsidas.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 7.117–118 (Gita Press; line positions approximate) <a id="tea-ramcaritmanas-7-117-118"></a>
 `skeleton` · confidence moderate
@@ -335,4 +335,4 @@ concepts: [The vernacular as sacred speech](../concepts/vernacular-as-sacred-spe
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

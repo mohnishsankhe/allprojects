@@ -29,10 +29,10 @@ On the root text's division of cognition into experience and memory, the comment
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: dispute_
 
-disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 
 _Notes: Identification of the starred commentary layer of the 1899 print as the Dinakarī rests on its opening verse (Mahādeva) — moderate confidence._
 
 ---
-_Contributed by: skeleton:U50-debates, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U50-debates, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._

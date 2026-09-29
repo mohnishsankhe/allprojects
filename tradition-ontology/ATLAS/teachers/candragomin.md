@@ -17,4 +17,4 @@ Lay Yogācāra master and grammarian (Cāndra-vyākaraṇa); Tibetan tradition t
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/candragomin — Confirmed: Buddhist grammarian, c. 5th c. CE (Wisdomlib), within the entry's range.
 
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

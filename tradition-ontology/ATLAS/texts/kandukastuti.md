@@ -16,4 +16,4 @@
 A short hymn to Kṛṣṇa in a bouncing metre that the tradition says Madhva composed as a boy while playing ball (kanduka). Not usually counted among the thirty-seven.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._

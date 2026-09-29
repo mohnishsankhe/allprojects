@@ -14,4 +14,4 @@
 - obstructs → [The four stages of awakening and the eight noble persons](four-stages-of-awakening.md) — rests on [5-11](../texts/sabbasava-sutta.md#tea-sabbasava-sutta-5-11), [3-15](../texts/mahamalunkya-sutta.md#tea-mahamalunkya-sutta-3-15)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

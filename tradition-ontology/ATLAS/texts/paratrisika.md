@@ -65,10 +65,10 @@ For one who knows this in truth, initiation leading to nirvāṇa happens withou
 
 _level: bridging · standpoint: divine · path: knowledge · stage: all · types: karma-liberation_
 
-terms: [dīkṣā](../terms/diksa.md) · disputes: `dsp:works-knowledge-grace`
+terms: [dīkṣā](../terms/diksa.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._

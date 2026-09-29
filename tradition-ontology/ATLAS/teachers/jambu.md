@@ -13,4 +13,4 @@ Pupil of Sudharman and the last person of this era to attain omniscience in Bhar
 **Realization — the tradition's account:** The last omniscient (kevalin) of this era in Bharata-kṣetra.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

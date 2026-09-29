@@ -20,4 +20,4 @@ Biographical writings on Chokgyur Lingpa by Jamyang Khyentse Wangpo, Jamgön Kon
 
 - 2026-09-29 catalog: confirmed — catalog:OpenPecha:P000126 "mchog gyur bde chen gling pa'i rnam thar phyogs bsgrigs" — catalogue hit proves a digitized edition exists, not author or date
 
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

@@ -15,4 +15,4 @@
 - contrasts-with → [The sixty-four Bhairava tantras](sixty-four-bhairava-tantras.md): different lists of 'sixty-four', overlapping only partly (e.g. Kāmika, Vātula, Candrajñāna and Sarvajñānottara appear here, Siddhānta titles in the Śaiva lists) — rests on [1.13-22](../texts/vamakesvara-tantra.md#tea-vamakesvara-tantra-1-13-22), [1.18/2](../texts/tantraloka-viveka.md#tea-tantraloka-viveka-1-18-2)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._

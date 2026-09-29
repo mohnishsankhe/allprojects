@@ -28,7 +28,7 @@ Present-day Mahāmudrā and the Chinese Great Perfection are essentially the sam
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
-concepts: [The 'white self-sufficient remedy' (dkar po chig thub)](../concepts/white-panacea.md) · teachers: [Sakya Paṇḍita Kunga Gyaltsen](../teachers/sakya-pandita.md) · disputes: [Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?](../debates/sutra-mahamudra.md), `dsp:sudden-or-gradual`
+concepts: [The 'white self-sufficient remedy' (dkar po chig thub)](../concepts/white-panacea.md) · teachers: [Sakya Paṇḍita Kunga Gyaltsen](../teachers/sakya-pandita.md) · disputes: [Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?](../debates/sutra-mahamudra.md), [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### ch.3/2 <a id="tea-domsum-rabye-ch-3-2"></a>
 `skeleton` · confidence low
@@ -46,7 +46,7 @@ The Mahāmudrā of the present day and the Great Perfection of the Chinese tradi
 
 _level: conventional · standpoint: polemical · path: meditation · stage: advanced · types: dispute_
 
-teachers: [Sakya Paṇḍita Kunga Gyaltsen](../teachers/sakya-pandita.md), [Moheyan 摩訶衍 (Hwashang Mahāyāna)](../teachers/moheyan.md) · disputes: [Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?](../debates/sutra-mahamudra.md), `dsp:sudden-or-gradual`
+teachers: [Sakya Paṇḍita Kunga Gyaltsen](../teachers/sakya-pandita.md), [Moheyan 摩訶衍 (Hwashang Mahāyāna)](../teachers/moheyan.md) · disputes: [Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?](../debates/sutra-mahamudra.md), [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### ch.3.karpo-chigtub <a id="tea-domsum-rabye-ch-3-karpo-chigtub"></a>
 `skeleton` · confidence moderate
@@ -77,4 +77,4 @@ concepts: [The three vows (sdom gsum)](../concepts/three-vows.md) · teachers: [
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._

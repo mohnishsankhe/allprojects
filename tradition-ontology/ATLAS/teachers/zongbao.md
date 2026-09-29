@@ -9,4 +9,4 @@
 Yuan-dynasty monk of Guangzhou who edited the standard edition of the Platform Sūtra (1291).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

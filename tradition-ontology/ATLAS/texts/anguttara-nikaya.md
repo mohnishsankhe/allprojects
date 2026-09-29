@@ -16,7 +16,7 @@ The 'numerical discourses', arranged in eleven books by the number of items trea
   - kind: original; name: Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka edition, based on the Sixth Council text), as published by SuttaCentral in bilara-data (root/pli/ms); local copy in sources_raw/bilara-data; licence: CC0 / public domain as published by SuttaCentral; url: https://suttacentral.net/an
 **Commentaries on this text:** [Manorathapūraṇī](manorathapurani.md)
 
-## Teachings (18: skeleton 18)
+## Teachings (21: skeleton 21)
 
 ### 1.51-52 <a id="tea-anguttara-nikaya-1-51-52"></a>
 `skeleton` · confidence high
@@ -38,7 +38,7 @@ It is impossible that a woman should be an arahant fully awakened Buddha; it is 
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: dispute, karma-liberation_
 
-concepts: [The possible and the impossible](../concepts/possible-and-impossible.md) · disputes: `dsp:women-caste-liberation`
+concepts: [The possible and the impossible](../concepts/possible-and-impossible.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 1.319 <a id="tea-anguttara-nikaya-1-319"></a>
 `skeleton` · confidence high
@@ -154,6 +154,39 @@ _level: conventional · standpoint: ritual · path: ritual, action · stage: beg
 
 concepts: [The eight precepts (uposatha)](../concepts/eight-precepts.md) · practices: [Uposatha observance](../practices/uposatha.md), [The eight precepts](../practices/attha-sila.md)
 
+### 8.59 <a id="tea-anguttara-nikaya-8-59"></a>
+`skeleton` · confidence high
+
+Eight persons are worthy of offerings, an unsurpassed field of merit for the world: the stream-enterer and the one practising to realize the fruit of stream-entry; the once-returner and the one practising for it; the non-returner and the one practising for it; the arahant and the one practising for arahantship. Four practising and four established in the fruit: this is the upright Saṅgha, composed in wisdom and virtue.
+
+> “Aṭṭhime, bhikkhave, puggalā āhuneyyā pāhuneyyā dakkhiṇeyyā añjalikaraṇīyā anuttaraṁ puññakkhettaṁ lokassa? Katame aṭṭha? Sotāpanno, sotāpattiphalasacchikiriyāya paṭipanno, sakadāgāmī, sakadāgāmiphalasacchikiriyāya paṭipanno, anāgāmī, anāgāmiphalasacchikiriyāya paṭipanno, arahā, arahattāya paṭipanno.
+
+_level: conventional · standpoint: analytic · path: general · stage: all (aṭṭha ariyapuggalā) · types: karma-liberation_
+
+concepts: [The eight noble persons](../concepts/eight-noble-persons.md), [The four stages of awakening and the eight noble persons](../concepts/four-stages-of-awakening.md)
+
+### 9.31 <a id="tea-anguttara-nikaya-9-31"></a>
+`skeleton` · confidence high
+
+There are nine successive cessations: in the first jhāna sensual perception ceases; in the second, applied and sustained thought; in the third, rapture; in the fourth, in-and-out breathing; in the sphere of infinite space, perception of form; in the sphere of infinite consciousness, the perception of the sphere of infinite space; in the sphere of nothingness, that of infinite consciousness; in neither-perception-nor-non-perception, that of nothingness; in the cessation of perception and feeling, perception and feeling cease.
+
+> Paṭhamaṁ jhānaṁ samāpannassa kāmasaññā niruddhā hoti; dutiyaṁ jhānaṁ samāpannassa vitakkavicārā niruddhā honti; tatiyaṁ jhānaṁ samāpannassa pīti niruddhā hoti; catutthaṁ jhānaṁ samāpannassa assāsapassāsā niruddhā honti; ākāsānañcāyatanaṁ samāpannassa rūpasaññā niruddhā hoti; viññāṇañcāyatanaṁ samāpannassa ākāsānañcāyatanasaññā niruddhā hoti; ākiñcaññāyatanaṁ samāpannassa viññāṇañcāyatanasaññā niruddhā hoti; nevasaññānāsaññāyatanaṁ samāpannassa ākiñcaññāyatanasaññā niruddhā hoti; saññāvedayitanirodhaṁ samāpannassa saññā ca vedanā ca niruddhā honti.
+
+_level: conventional · standpoint: analytic · path: meditation · stage: advanced (anupubbanirodha) · types: practice, consciousness-mind_
+
+concepts: [The four jhānas](../concepts/four-jhanas.md), [The four formless attainments](../concepts/formless-attainments.md), [The attainment of cessation](../concepts/nirodha-samapatti.md)
+
+### 9.32 <a id="tea-anguttara-nikaya-9-32"></a>
+`skeleton` · confidence high
+
+There are nine successive abidings: the first, second, third and fourth jhāna, the sphere of infinite space, the sphere of infinite consciousness, the sphere of nothingness, the sphere of neither-perception-nor-non-perception, and the cessation of perception and feeling.
+
+> “Navayime, bhikkhave, anupubbavihārā. Katame nava? Paṭhamaṁ jhānaṁ, dutiyaṁ jhānaṁ, tatiyaṁ jhānaṁ, catutthaṁ jhānaṁ, ākāsānañcāyatanaṁ, viññāṇañcāyatanaṁ, ākiñcaññāyatanaṁ, nevasaññānāsaññāyatanaṁ, saññāvedayitanirodho— ime kho, bhikkhave, nava anupubbavihārā”ti.
+
+_level: conventional · standpoint: analytic · path: meditation · stage: advanced (anupubbavihāra) · types: practice, consciousness-mind_
+
+terms: [jhāna](../terms/jhana.md) · concepts: [The four jhānas](../concepts/four-jhanas.md), [The four formless attainments](../concepts/formless-attainments.md), [The attainment of cessation](../concepts/nirodha-samapatti.md)
+
 ### 9.36 <a id="tea-anguttara-nikaya-9-36"></a>
 `skeleton` · confidence high
 
@@ -192,4 +225,4 @@ concepts: [The benefits of loving-kindness](../concepts/benefits-of-metta.md) ·
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

@@ -19,4 +19,4 @@ Singing the Lord's names together, aloud, with drums (khol/mṛdaṅga) and cymb
 - partial: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](kirtana.md) — the Purāṇic kīrtana; Gauḍīya saṅkīrtana is congregational and name-centred
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

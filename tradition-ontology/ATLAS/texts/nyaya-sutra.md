@@ -55,7 +55,7 @@ Perception, inference, comparison and verbal testimony are the means of knowledg
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md), [upamāna](../terms/upamana.md), [śabda](../terms/sabda.md), [pramāṇa](../terms/pramana.md) · concepts: [The four means of knowledge (Nyāya)](../concepts/four-pramanas-nyaya.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md), [upamāna](../terms/upamana.md), [śabda](../terms/sabda.md), [pramāṇa](../terms/pramana.md) · concepts: [The four means of knowledge (Nyāya)](../concepts/four-pramanas-nyaya.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 1.1.4 <a id="tea-nyaya-sutra-1-1-4"></a>
 `skeleton` · confidence high
@@ -497,7 +497,7 @@ terms: [śabda](../terms/sabda.md), [pada](../terms/pada.md) · concepts: [Word,
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, sound-language_
 
-terms: [śabda](../terms/sabda.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [śabda](../terms/sabda.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 2.1.63-66 <a id="tea-nyaya-sutra-2-1-63-66"></a>
 `skeleton` · confidence high
@@ -517,7 +517,7 @@ And its (the Veda's) validity — like the validity of mantras and of Āyurveda 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: sound-language, dispute_
 
-terms: [āpta](../terms/apta.md), [śabda](../terms/sabda.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [āpta](../terms/apta.md), [śabda](../terms/sabda.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 2.2.1-2 <a id="tea-nyaya-sutra-2-2-1-2"></a>
 `skeleton` · confidence high
@@ -526,7 +526,7 @@ terms: [āpta](../terms/apta.md), [śabda](../terms/sabda.md) · concepts: [The 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [aitihya](../terms/aitihya.md), [arthāpatti](../terms/arthapatti.md), [sambhava](../terms/sambhava.md), [anupalabdhi](../terms/anupalabdhi.md), [abhāva](../terms/abhava.md) · concepts: [The four means of knowledge (Nyāya)](../concepts/four-pramanas-nyaya.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [aitihya](../terms/aitihya.md), [arthāpatti](../terms/arthapatti.md), [sambhava](../terms/sambhava.md), [anupalabdhi](../terms/anupalabdhi.md), [abhāva](../terms/abhava.md) · concepts: [The four means of knowledge (Nyāya)](../concepts/four-pramanas-nyaya.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 2.2.13 <a id="tea-nyaya-sutra-2-2-13"></a>
 `skeleton` · confidence high
@@ -803,7 +803,7 @@ concepts: [New beginning (ārambha): the effect does not pre-exist](../concepts/
 
 _level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, karma-liberation, dispute_
 
-terms: [īśvara](../terms/isvara.md), [phala](../terms/phala.md) · concepts: [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [īśvara](../terms/isvara.md), [phala](../terms/phala.md) · concepts: [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 4.1.25-28 <a id="tea-nyaya-sutra-4-1-25-28"></a>
 `skeleton` · confidence moderate
@@ -866,7 +866,7 @@ terms: [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md) · concepts: [
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: karma-liberation, ethics, dispute_
 
-terms: [ṛṇa](../terms/rna.md), [apavarga](../terms/apavarga.md) · concepts: [The debts (ṛṇa) and the possibility of liberation](../concepts/debts-and-liberation.md) · disputes: `dsp:works-knowledge-grace`
+terms: [ṛṇa](../terms/rna.md), [apavarga](../terms/apavarga.md) · concepts: [The debts (ṛṇa) and the possibility of liberation](../concepts/debts-and-liberation.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 4.1.63 <a id="tea-nyaya-sutra-4-1-63"></a>
 `skeleton` · confidence high
@@ -1129,4 +1129,4 @@ terms: [nigrahasthāna](../terms/nigrahasthana.md) · concepts: [The twenty-two 
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._

@@ -13,4 +13,4 @@
 The 'Ten Wheels' sūtra of Kṣitigarbha (in the Mahāsaṃnipāta): Kṣitigarbha's powers and a king's ten wheels of rule; warnings against those who revile monks of the three vehicles; a text of the Chinese Three Stages school.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

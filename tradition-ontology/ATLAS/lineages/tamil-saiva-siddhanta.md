@@ -45,7 +45,7 @@ The Tamil systematization of Śaiva Siddhānta in the fourteen Meykaṇṭa Śā
 [Wearing the sacred ash and rudrākṣa](../practices/bhasma-dharana.md), [Being still (cummā iruttal)](../practices/cumma-iruttal.md), [Initiation (dīkṣā) in the Kaula way](../practices/diksa.md), [Non-killing (kollāmai)](../practices/kollamai.md), [Worship and service of devotees (Māhēśvara-pūjā)](../practices/mahesvara-puja.md), [Repetition of the five-syllable mantra](../practices/pancaksara-japa.md), [Refusing flesh (pulāl maṟuttal)](../practices/pulal-maruttal.md), [Caryā (Śaiva temple service)](../practices/saiva-carya.md), [Jñāna (knowledge of Śiva)](../practices/saiva-jnana.md), [Kriyā (Śaiva ritual worship)](../practices/saiva-kriya.md), [Yoga (Śivayoga)](../practices/saiva-yoga.md), [Austerity (tapas)](../practices/tapas.md), [Hospitality (viruntōmpal)](../practices/viruntompal.md)
 
 ## Path maps
-`pth:saiva-siddhanta-four-padas`, [The ten acts (daśakārya / tacakāriyam) of Tamil Śaiva Siddhānta](../paths/saiva-siddhanta-ten-karyas.md)
+[The four pādas of Śaiva Siddhānta (caryā, kriyā, yoga, jñāna) and their fruits](../paths/saiva-siddhanta-four-padas.md), [The ten acts (daśakārya / tacakāriyam) of Tamil Śaiva Siddhānta](../paths/saiva-siddhanta-ten-karyas.md)
 
 ## Debates
 [To which tradition does the Tirukkuṟaḷ belong — Jain, Śaiva, Vaiṣṇava, Buddhist, or none?](../debates/affiliation-of-tirukkural.md), [What occasions the descent of power (śaktipāta): the equality of karma, the maturing of impurity, or the Lord's free will alone?](../debates/cause-of-saktipata.md), [Does initiation (dīkṣā) itself liberate, or is knowledge the direct cause of liberation?](../debates/does-diksa-liberate.md), [Is Śiva the material cause of the world, or only its efficient cause?](../debates/is-siva-the-material-cause.md), [Does the liberated soul become identical with Śiva, or only equal to Śiva (śivasamatva) while remaining distinct?](../debates/liberation-identity-or-equality-with-siva.md), [Is the root impurity (āṇava mala) a real substance removable only by ritual initiation, or is it ignorance - a contraction of consciousness - removed by knowledge?](../debates/mala-substance-or-ignorance.md), [Are temple, image, Āgamic ritual and initiation the way to Śiva, or are they to be abandoned for the Lord within?](../debates/siddha-vs-agamic-saivism.md)
@@ -53,4 +53,4 @@ The Tamil systematization of Śaiva Siddhānta in the fourteen Meykaṇṭa Śā
 _Notes: Sub-lineage created by U18 (not in the registry) to keep the Tamil school's positions distinct from the Sanskrit exegetes'._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

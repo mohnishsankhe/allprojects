@@ -20,4 +20,4 @@ The scholarly account (recorded as metadata): the Tirumuṟai poet (c. 10th c.) 
 **Queue:** RQ-U22-pattinattar
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._

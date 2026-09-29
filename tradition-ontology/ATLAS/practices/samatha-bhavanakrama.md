@@ -14,4 +14,4 @@ Seated in a suitable place with a suitable posture, the practitioner fixes the m
 **Sequences:** `pth:nine-stages-calm-abiding`, [The stages of meditation (Kamalaśīla)](../paths/bhavanakrama-stages.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._

@@ -134,7 +134,7 @@ The disciple should be of good family, pure-minded, intent on the aims of man, l
 
 _level: conventional · standpoint: ethical-social · path: ritual, sound · stage: all · types: teacher-transmission, ethics_
 
-concepts: [Mantra initiation, testing and secrecy](../concepts/mantra-diksa-and-secrecy.md) · practices: [Mantra initiation (mantra-dīkṣā)](../practices/mantra-diksa.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Mantra initiation, testing and secrecy](../concepts/mantra-diksa-and-secrecy.md) · practices: [Mantra initiation (mantra-dīkṣā)](../practices/mantra-diksa.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 23.106-110 <a id="tea-saradatilaka-23-106-110"></a>
 `skeleton` · confidence high
@@ -167,4 +167,4 @@ practices: [Ritual hand-gestures (hasta-mudrā) in worship](../practices/ritual-
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked). (paṭalas 1–2 checked in the Muktabodha M00077 e-text with the Padārthādarśa)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._

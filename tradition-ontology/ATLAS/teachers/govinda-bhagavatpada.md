@@ -11,4 +11,4 @@
 Śaṅkara's guru, disciple of Gauḍapāda; the Śaṅkaradigvijaya places him in a cave on the Narmadā where he initiated Śaṅkara into sannyāsa, and identifies him with Patañjali/Ādiśeṣa.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

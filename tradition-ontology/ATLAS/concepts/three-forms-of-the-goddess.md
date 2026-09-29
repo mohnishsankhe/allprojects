@@ -1,6 +1,6 @@
 # Mahākālī, Mahālakṣmī, Mahāsarasvatī
 
-`cpt:three-forms-of-the-goddess` · `skeleton` · confidence moderate
+`cpt:three-forms-of-the-goddess` · `sourced` · confidence moderate
 
 **Category:** ultimate
 
@@ -14,4 +14,8 @@
 - corresponds-to-in-map → [The three episodes of the Devī Māhātmya](devi-mahatmya-three-caritas.md): later ancillary texts map the three forms onto the three episodes
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/durgA-saptashatI/goraxapura-pAThaH/raw/source.html (Gita Press Durgā Saptaśatī) — Prādhānika Rahasya located in the local Gita Press Durgā Saptaśatī ('sarvasyādyā mahālakṣmīs triguṇā parameśvarī'). All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas, skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._

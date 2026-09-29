@@ -1,6 +1,6 @@
 # Bṛhaddharma Purāṇa
 
-`src:brhaddharma-purana` · `skeleton` · confidence moderate
+`src:brhaddharma-purana` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -45,4 +45,8 @@ concepts: [The ten Mahāvidyās (daśa-mahāvidyā)](../concepts/ten-mahavidyas.
 
 
 ---
-_Contributed by: skeleton:U24-kali-kaula, skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — catalog:eBharati:bRhaddharmapurANam, https://en.wikipedia.org/wiki/Brihaddharma_Purana — Extant and digitized (eBhārati bṛhaddharmapurāṇam, local). Web: Bengal; second half of the 13th c. (Hazra); caste ordering in the Uttarakhaṇḍa.
+
+_Contributed by: skeleton:U24-kali-kaula, skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

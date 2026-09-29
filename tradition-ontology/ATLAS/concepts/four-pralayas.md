@@ -1,6 +1,6 @@
 # The four kinds of dissolution (pralaya)
 
-`cpt:four-pralayas` · `skeleton` · confidence high
+`cpt:four-pralayas` · `sourced` · confidence high
 
 **Category:** cosmology-time
 **Members:** nitya, naimittika, prākṛtika, ātyantika, prākṛta
@@ -14,4 +14,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:12.4.2-6, tea:bhagavata-purana:12.4.34-38, tea:visnu-purana:1.7.41-42 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas, skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

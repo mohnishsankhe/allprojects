@@ -38,4 +38,4 @@ terms: [leśyā](../terms/lesya.md) · concepts: [The six soul-colourings (leśy
 _Notes: Studied by Banārsīdās with Rūpcand Pāṇḍe (Ardhakathānaka). Title present in the local catalogue (catalog:JainDB:गोम्मटसार-जीवकांड--नेमिचंद्र-आचार्य); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # Vāyu Purāṇa
 
-`src:vayu-purana` · `skeleton` · confidence moderate
+`src:vayu-purana` · `sourced` · confidence moderate
 
 **Alternate titles:** Vāyavīya Purāṇa, Vāyavya
 **Original title:** वायुपुराण
@@ -20,4 +20,8 @@ An early Śaiva-leaning Purāṇa of the classic type: creation, cosmography, ti
 _Notes: Contains Pāśupata-yoga chapters, the Gayā-māhātmya (appendix) and śrāddha-kalpa; exact chapter numbers not checked (no local e-text) - low confidence on locators._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — https://en.wikipedia.org/wiki/Vayu_Purana, https://en.wikipedia.org/wiki/Brahmanda_Purana, local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.18, local:sources_raw/dcs/corpus/GRETIL/sa_nAradapurANa.txt (Sansknet) 1.95 — No local e-text (catalogue: none; only a Revākhaṇḍa ascribed to the Vāyu is local). Web: among the oldest Purāṇas, earliest version c. 300-500 CE; four pādas (prakriyā, anuṣaṅga, upodghāta, upasaṃhāra); overlap with the Brahmāṇḍa. Matsya 53.18 and Nārada 1.95 (Vāyu anukramaṇī) confirmed locally.
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

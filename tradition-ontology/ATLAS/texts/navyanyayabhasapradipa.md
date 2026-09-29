@@ -16,4 +16,4 @@ Maheśacandra Nyāyaratna's brief guide to the technical language of Navya-Nyāy
   - kind: original; name: sanskrit/raw_etexts (github.com/sanskrit/raw_etexts) nyAya-shAstram/navyanyayabhashapradipa.md; licence: see repository; url: https://github.com/sanskrit/raw_etexts
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._

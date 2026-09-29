@@ -44,4 +44,4 @@ _Notes: U05's contribution to a shared practice (moderate confidence on the Jāp
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.25 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U31-sound-arts, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12, skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12, skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._

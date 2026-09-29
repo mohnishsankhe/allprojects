@@ -15,4 +15,4 @@ The Sanskrit recitation text of the Sarvāstivāda monk's rules, reconstructed f
   - kind: original; name: G. von Simson (Göttingen 1986, 2000), GRETIL e-text
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._

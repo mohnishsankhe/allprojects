@@ -219,8 +219,8 @@ Clearing away the chaff of speculation and elaboration, realizing this unsurpass
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation_
 
-concepts: [The tantric grounds (bhūmi)](../concepts/tantric-bhumis.md), [Gradual and simultaneous entry](../concepts/gradual-and-simultaneous-siddha.md) · teachers: [Saraha](../teachers/saraha.md) · disputes: `dsp:sudden-or-gradual`
+concepts: [The tantric grounds (bhūmi)](../concepts/tantric-bhumis.md), [Gradual and simultaneous entry](../concepts/gradual-and-simultaneous-siddha.md) · teachers: [Saraha](../teachers/saraha.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._

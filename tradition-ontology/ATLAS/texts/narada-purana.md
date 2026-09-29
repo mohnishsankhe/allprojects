@@ -1,6 +1,6 @@
 # Nārada Purāṇa
 
-`src:narada-purana` · `skeleton` · confidence moderate
+`src:narada-purana` · `sourced` · confidence moderate
 
 **Alternate titles:** Nāradīya Purāṇa, Bṛhannāradīya Purāṇa (so named in the printed colophons)
 **Original title:** नारदपुराण
@@ -17,10 +17,10 @@
 
 A Vaiṣṇava Purāṇa of dharma and ritual: devotion to Viṣṇu, the Vedāṅgas, mantra-śāstra, the tithi-vratas of the year, the contents of all eighteen Purāṇas, the Ekādaśī vow (with Yama's lament that his realm is emptied by it), and the glories of many tīrthas.
 
-## Teachings (2: skeleton 2)
+## Teachings (2: sourced 2)
 
 ### 1.92-109 <a id="tea-narada-purana-1-92-109"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 Sanandana (in the fourth pāda) gives Nārada a summary index of the contents of each of the eighteen Purāṇas, with their extent and the merit of giving them; the list counts the Vāyu fourth.
 
@@ -29,7 +29,7 @@ _level: conventional · standpoint: analytic · path: general · stage: all · t
 concepts: [The eighteen Mahāpurāṇas](../concepts/eighteen-mahapuranas.md) · disputes: [Is the fourth Mahāpurāṇa the Śiva Purāṇa or the Vāyu Purāṇa?](../debates/siva-or-vayu-mahapurana.md)
 
 ### 2.1-5 <a id="tea-narada-purana-2-1-5"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 The glory of Ekādaśī/Dvādaśī: through King Rukmāṅgada's enforcement of the Ekādaśī fast his subjects all went to Viṣṇu's world, so that Yama's realm stood empty; Yama went to Brahmā and lamented.
 
@@ -41,4 +41,8 @@ terms: [Ekādaśī (Hari-dina, Nārāyaṇa-dina)](../terms/ekadasi.md) · conce
 _Notes: Pūrvabhāga chs. 92-109: a summary-index (anukramaṇī) of all eighteen Purāṇas (the list there counts the Vāyu fourth); following chapters: tithi-vratas for the twelve months; Pūrva 3rd pāda: mantra-śāstra; Uttarabhāga: Ekādaśī/Dvādaśī-māhātmya with Rukmāṅgada and Mohinī, and tīrtha-māhātmyas. chapter checked in the GRETIL/Sansknet e-text of the Nārada Purāṇa_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL:nAradapurANa, catalog:raw_etexts:nAradIya-purANam, local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.23, https://en.wikipedia.org/wiki/Naradiya_Purana — Extant and digitized (GRETIL/Sansknet Pūrvabhāga and Uttarabhāga 1-43; mAdhva-app; peterFreund). Local colophons indeed read 'bṛhannāradīyapurāṇe'. Structure confirmed by web: Pūrvabhāga four pādas, 125 chapters; Uttarabhāga 82 chapters; the 38-chapter Bṛhannāradīya Upapurāṇa is distinct. Matsya 53.23 (Bṛhatkalpa, 25,000) confirmed. Scholarly date range consistent with Hazra (parts before the 11th c., the rest later).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

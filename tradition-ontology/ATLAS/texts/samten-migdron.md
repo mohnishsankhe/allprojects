@@ -32,7 +32,7 @@ Nupchen presents the gradual approach (rim gyis pa) taught by Kamalaśīla — c
 
 _level: conventional · standpoint: analytic · path: meditation · stage: all · types: practice, dispute_
 
-teachers: [Nupchen Sangye Yeshe (gnubs chen sangs rgyas ye shes)](../teachers/nubchen-sangye-yeshe.md), [Kamalaśīla](../teachers/kamalasila.md) · disputes: `dsp:sudden-or-gradual`, [Is the Great Perfection the 'sudden' Chan of Moheyan, rejected at Samye, in another guise?](../debates/dzogchen-and-chan.md)
+teachers: [Nupchen Sangye Yeshe (gnubs chen sangs rgyas ye shes)](../teachers/nubchen-sangye-yeshe.md), [Kamalaśīla](../teachers/kamalasila.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md), [Is the Great Perfection the 'sudden' Chan of Moheyan, rejected at Samye, in another guise?](../debates/dzogchen-and-chan.md)
 
 ### simultaneous <a id="tea-samten-migdron-simultaneous"></a>
 `skeleton` · confidence moderate
@@ -41,10 +41,10 @@ The simultaneous approach (cig car ba) of the Chan master Moheyan — entering n
 
 _level: conventional · standpoint: analytic · path: meditation · stage: all · types: practice, dispute_
 
-teachers: [Nupchen Sangye Yeshe (gnubs chen sangs rgyas ye shes)](../teachers/nubchen-sangye-yeshe.md), [Moheyan 摩訶衍 (Hwashang Mahāyāna)](../teachers/moheyan.md) · disputes: `dsp:sudden-or-gradual`, [Is the Great Perfection the 'sudden' Chan of Moheyan, rejected at Samye, in another guise?](../debates/dzogchen-and-chan.md)
+teachers: [Nupchen Sangye Yeshe (gnubs chen sangs rgyas ye shes)](../teachers/nubchen-sangye-yeshe.md), [Moheyan 摩訶衍 (Hwashang Mahāyāna)](../teachers/moheyan.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md), [Is the Great Perfection the 'sudden' Chan of Moheyan, rejected at Samye, in another guise?](../debates/dzogchen-and-chan.md)
 
 
 _Notes: Chapter structure not recorded; teachings given at section level (REPORT.md)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

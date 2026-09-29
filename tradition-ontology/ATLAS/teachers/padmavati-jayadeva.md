@@ -9,4 +9,4 @@ Temple dancer dedicated to Jagannātha and wife of Jayadeva in the hagiographies
 **Realization — the tradition's account:** Given to Jayadeva by her father at Jagannātha's command; her fidelity was tested when a queen told her falsely that Jayadeva had died, and she fell dead, to be revived by his singing.
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._

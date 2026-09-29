@@ -13,4 +13,4 @@ Overeating, overexertion, too much talk, clinging to rules, the company of peopl
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 1.15-16; rests_on: ["tea:hatha-yoga-pradipika:1.15", "tea:hatha-yoga-pradipika:1.16"]
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._

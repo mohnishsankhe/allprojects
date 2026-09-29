@@ -42,7 +42,7 @@ The Tamil Śaiva devotional movement of the sixty-three saints (Nāyaṉmārs) a
 [Amuri tāraṇai (TM 3rd tantra)](../practices/amuri-taranai.md), [Inner worship (antaryāga)](../practices/antaryaga.md), [Wearing the sacred ash and rudrākṣa](../practices/bhasma-dharana.md), [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md), [Non-killing (kollāmai)](../practices/kollamai.md), [Worship and service of devotees (Māhēśvara-pūjā)](../practices/mahesvara-puja.md), [Mental temple-building and worship](../practices/manasa-puja.md), [Repetition of the five-syllable mantra](../practices/pancaksara-japa.md), [Pariyaṅka yōkam](../practices/pariyanka-yoga.md), [Refusing flesh (pulāl maṟuttal)](../practices/pulal-maruttal.md), [Caryā (Śaiva temple service)](../practices/saiva-carya.md), [Pilgrimage to the Tēvāram shrines](../practices/saiva-pilgrimage.md), [Yoga (Śivayoga)](../practices/saiva-yoga.md), [Tirumūlar's eightfold yoga](../practices/tirumantiram-astanga-yoga.md), [Singing the Tirumuṟai (paṇṇicai)](../practices/tirumurai-singing.md), [The Mārkaḻi dawn vow (Tiruvempāvai nōṉpu)](../practices/tiruvempavai-vow.md)
 
 ## Path maps
-`pth:saiva-siddhanta-four-padas`
+[The four pādas of Śaiva Siddhānta (caryā, kriyā, yoga, jñāna) and their fruits](../paths/saiva-siddhanta-four-padas.md)
 
 ## Debates
 [Is the Siddhar Paṭṭiṉattār the same person as Paṭṭiṉattup Piḷḷaiyār of the eleventh Tirumuṟai?](../debates/pattinattar-identity.md), [Is release won by Śiva's grace and worship, or by the Jina's path of self-discipline? (the Tamil Śaiva–Jain contests)](../debates/tamil-saiva-and-jain-contests.md)
@@ -50,4 +50,4 @@ The Tamil Śaiva devotional movement of the sixty-three saints (Nāyaṉmārs) a
 _Notes: Sub-lineage created by U18. The living tradition counts the Nāyaṉmārs within Śaiva Siddhānta; scholars note that the hymnists predate the Tamil systematization and were absorbed into it retrospectively (the Tēvāram's theology is devotional, not scholastic)._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

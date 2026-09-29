@@ -22,7 +22,7 @@ The ascetic Sumedha lays himself face down in the mud so that the Buddha Dīpa�
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: teacher-transmission, world-fate_
 
-terms: [bodhisatta](../terms/bodhisatta.md), [abhinīhāra](../terms/abhinihara.md) · concepts: [The bodhisatta's path to Buddhahood](../concepts/bodhisatta-path.md), [The ten perfections (Theravāda list)](../concepts/ten-paramis.md) · teachers: [Dīpaṅkara](../teachers/dipankara.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: `dsp:women-caste-liberation`
+terms: [bodhisatta](../terms/bodhisatta.md), [abhinīhāra](../terms/abhinihara.md) · concepts: [The bodhisatta's path to Buddhahood](../concepts/bodhisatta-path.md), [The ten perfections (Theravāda list)](../concepts/ten-paramis.md) · teachers: [Dīpaṅkara](../teachers/dipankara.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 2.59 <a id="tea-buddhavamsa-2-59"></a>
 `skeleton` · confidence high
@@ -46,4 +46,4 @@ terms: [pāramī](../terms/parami.md), [dāna](../terms/dana.md), [sīla](../ter
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

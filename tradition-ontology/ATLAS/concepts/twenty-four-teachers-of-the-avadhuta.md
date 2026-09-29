@@ -1,6 +1,6 @@
 # The avadhūta's twenty-four teachers
 
-`cpt:twenty-four-teachers-of-the-avadhuta` · `skeleton` · confidence high
+`cpt:twenty-four-teachers-of-the-avadhuta` · `sourced` · confidence high
 
 **Category:** teacher-transmission
 **Members:** pṛthivī (earth), vāyu (air), ākāśa (sky), āpas (water), agni (fire), candramas (moon), ravi (sun), kapota (pigeon), ajagara (python), sindhu (ocean), pataṅga (moth), madhukṛt (honeybee), gaja (elephant), madhuhā (honey-gatherer), hariṇa (deer), mīna (fish), Piṅgalā (the courtesan), kurara (osprey), arbhaka (child), kumārī (maiden), śarakṛt / iṣukāra (arrow-maker), sarpa (serpent), ūrṇanābhi (spider), supeśakṛt (wasp)
@@ -17,4 +17,8 @@
 _Notes: List verified in the local Bhāgavata e-text (11.7.33-34). The six teachers of Bodhya are a subset (Piṅgalā, osprey, serpent, bee, arrow-maker, maiden)._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition) — List verified at BhP 11.7.33-34 (24 names); Bodhya's six at MBh CE 12.171.61. All six appear among the 24, with sāraṅga as the bee (madhukṛt).
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

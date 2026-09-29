@@ -33,4 +33,4 @@ Universals are real but in identity-in-difference with their individuals (Kumār
 **Candidate readings:** P2-standpoint: Jain many-sidedness treats universal and particular as two aspects of one real.; P1-level: the Buddhist grants universals conventional usefulness while denying ultimate reality.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._

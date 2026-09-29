@@ -13,4 +13,4 @@ Woman participant in the debate at Janaka's court: she questions Yājñavalkya o
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — Located: BĀU 3.6.1 ('mā te mūrdhā vyapaptat'), 3.8.2 (two questions like two arrows) and 3.8.12 (no one will defeat him in a brahmodya).
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

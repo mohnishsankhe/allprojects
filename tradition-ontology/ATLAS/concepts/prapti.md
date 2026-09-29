@@ -14,4 +14,4 @@
 - contrasts-with → [Seeds and the specific transformation of the series](sautrantika-seed-theory.md): The two explanations of the same function. — rests on [2.36](../texts/abhidharmakosabhasya.md#tea-abhidharmakosabhasya-2-36)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._

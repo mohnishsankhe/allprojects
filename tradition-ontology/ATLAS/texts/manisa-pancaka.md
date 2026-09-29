@@ -24,8 +24,8 @@ Whoever has firmly realized that the one consciousness shines in waking, dream a
 
 _level: ultimate · standpoint: ethical-social · path: knowledge · stage: realized · types: ethics, teacher-transmission_
 
-concepts: [Qualifications of teacher and student](../concepts/teacher-student-qualifications.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Qualifications of teacher and student](../concepts/teacher-student-qualifications.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

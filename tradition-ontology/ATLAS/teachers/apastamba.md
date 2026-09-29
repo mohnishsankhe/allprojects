@@ -19,4 +19,4 @@ Founder (sūtrakāra) of the Āpastamba branch of the Taittirīya Black Yajurved
 
 - 2026-09-28 websearch: confirmed — https://hindupedia.com/en/Apastamba, https://en.wikipedia.org/wiki/Apastamba_Dharmasutra — Confirmed: eponymous sūtrakāra of the Āpastamba branch; the whole Kalpasūtra (30 praśnas) is ascribed to him. The Dharmasūtra date agrees with Olivelle and Kane (see src:apastamba-dharmasutra).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

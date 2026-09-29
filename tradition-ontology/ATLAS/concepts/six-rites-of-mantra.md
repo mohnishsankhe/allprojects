@@ -15,4 +15,4 @@
 _Notes: Summary only; U31 records no procedures. The Śāradātilaka's fire-pit rules mention such rites (paṭala 3, e.g. v. 86); the Mantramahodadhi treats them in a late taraṅga (not fixed)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._

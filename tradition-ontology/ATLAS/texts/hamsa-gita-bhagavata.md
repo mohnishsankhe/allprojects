@@ -1,6 +1,6 @@
 # Haṃsa Gītā (Bhāgavata)
 
-`src:hamsa-gita-bhagavata` · `skeleton` · confidence high
+`src:hamsa-gita-bhagavata` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -17,4 +17,8 @@
 Answers the Kumāras' question how the mind and the guṇas can be separated: the question 'who are you?' has no footing where the self is one; waking, dream and sleep are states of the intellect of which the self is the witness; abiding in the fourth (turya) the knower sees the world as the mind's play, like a whirling firebrand, and the body continues only while its karma lasts.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — BhP 11.13.15 (Uddhava asks in what form the Lord taught Sanaka) to 11.13.42 (Haṃsa returns to his abode) confirmed; the Gītāsaṅgraha prints exactly these 28 verses as the Haṃsa Gītā ('haṃsagatādhyāya').
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

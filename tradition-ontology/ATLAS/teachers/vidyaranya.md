@@ -29,5 +29,6 @@ _Notes: Identity with the minister Mādhava is the tradition's; scholars debate 
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Vidyaranya, https://en.wikipedia.org/wiki/S%C4%81ya%E1%B9%87a — Low-confidence entry confirmed. Tradition identifies Mādhava (the author of the Parāśaramādhavīya and Kāla-mādhavīya, elder brother of Sāyaṇa) with Vidyāraṇya; some scholars contest this (Wikipedia). The entry states it as debated.
 - 2026-09-29 websearch: confirmed — https://www.wisdomlib.org/definition/jivanmuktiviveka, https://www.celextel.org/articles-and-summary/jivanmukti-viveka-summary/ — Confirmed: the Jīvanmuktiviveka treats vividiṣā- and vidvat-saṃnyāsa, and vāsanākṣaya, manonāśa and tattvajñāna, drawing on the Saṃnyāsa Upaniṣads and the Yoga Vāsiṣṭha.
+- 2026-09-29 websearch: confirmed — https://www.advaita-vedanta.org/archives/advaita-l/2007-October/019507.html, https://www.vedantahub.org/jivanmukti-viveka/ — The Jīvanmuktiviveka builds its account of vāsanākṣaya and manonāśa on quotations from the (Laghu) Yoga Vāsiṣṭha.
 
-_Contributed by: skeleton:U13-advaita, skeleton:U12-mimamsa, skeleton:U32-jyotisa, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U12-mimamsa, skeleton:U32-jyotisa, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

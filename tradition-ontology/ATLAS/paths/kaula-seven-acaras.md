@@ -19,4 +19,4 @@
 The Kulārṇava gives a ranking, not a description of inner stages; later tradition reads the seven as successive grades of eligibility. No bands assigned in Phase B (U51 to decide).
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._

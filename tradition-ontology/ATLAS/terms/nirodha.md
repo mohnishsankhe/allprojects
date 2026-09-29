@@ -22,4 +22,4 @@
 _Notes: Same slug as the Yoga term (citta-vṛtti-nirodha); this entry adds the early-Buddhist sense._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U36-pali-suttas, skeleton:U25-alvar-bhakti-theory, skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U36-pali-suttas, skeleton:U25-alvar-bhakti-theory, skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

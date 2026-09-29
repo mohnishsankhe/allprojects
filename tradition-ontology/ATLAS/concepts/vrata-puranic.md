@@ -1,6 +1,6 @@
 # The Purāṇic vow (vrata)
 
-`cpt:vrata-puranic` · `skeleton` · confidence high
+`cpt:vrata-puranic` · `sourced` · confidence high
 
 **Category:** ethics
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:10.22.4, tea:devi-mahatmya:12, tea:narada-purana:2.1-5, tea:siva-purana:4 — The teachings it rests on were located; tea:siva-purana:4 has a partial or corrected result (see its check).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

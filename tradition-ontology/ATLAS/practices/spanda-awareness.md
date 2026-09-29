@@ -17,4 +17,4 @@ Being constantly intent on discerning the spanda principle, one attains one's ow
 - A void, sleep-like absorption is artificial and not the principle (SK 1.12-13). — [Spandakārikā](../texts/spanda-karika.md) 1.12-13
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._

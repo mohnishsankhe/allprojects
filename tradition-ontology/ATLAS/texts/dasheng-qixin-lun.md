@@ -25,7 +25,7 @@ Original awakening (benjue) is the mind's nature free of thought, equal to space
 
 _level: ultimate · standpoint: absolute · path: knowledge, meditation · stage: all · types: ultimate, karma-liberation_
 
-terms: [benjue](../terms/benjue.md) · concepts: [Original awakening (benjue)](../concepts/original-enlightenment.md) · disputes: `dsp:sudden-or-gradual`
+terms: [benjue](../terms/benjue.md) · concepts: [Original awakening (benjue)](../concepts/original-enlightenment.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### one-mind <a id="tea-dasheng-qixin-lun-one-mind"></a>
 `skeleton` · confidence high
@@ -40,4 +40,4 @@ terms: [yixin (the one mind)](../terms/yixin.md), [tathatā](../terms/tathata.md
 _Notes: Its Huayan and Korean commentaries (Fazang, Wonhyo) belong to U54/U55._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

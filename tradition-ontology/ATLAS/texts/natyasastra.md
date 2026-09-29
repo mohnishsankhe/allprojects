@@ -33,7 +33,7 @@ When the world had fallen into vulgar ways, the gods led by Indra asked Brahmā 
 
 _level: conventional · standpoint: divine · path: general · stage: all · types: teacher-transmission, ethics_
 
-concepts: [Drama as the fifth Veda for all classes](../concepts/natya-as-fifth-veda.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Drama as the fifth Veda for all classes](../concepts/natya-as-fifth-veda.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 1.14-16 <a id="tea-natyasastra-1-14-16"></a>
 `skeleton` · confidence high
@@ -229,4 +229,4 @@ terms: [śānta-rasa](../terms/santa-rasa.md), [śama](../terms/sama.md) · conc
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._

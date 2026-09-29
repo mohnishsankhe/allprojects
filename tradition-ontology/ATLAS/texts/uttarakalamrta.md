@@ -13,4 +13,4 @@
 A late horā text ascribed to Kālidāsa, known for house significations and planetary kārakas.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

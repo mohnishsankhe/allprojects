@@ -18,4 +18,4 @@
 - same-as-under-standpoint → [Buddha-nature (tathāgatagarbha, buddhadhātu)](buddha-nature.md) (P2-standpoint): Chan inherits the Nirvāṇa-sūtra and Awakening of Faith teaching; the embryo image is rare in Chan. — rests on [4.18](../texts/platform-sutra.md#tea-platform-sutra-4-18)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

@@ -21,5 +21,6 @@ _Notes: U05's contribution; his role as reciter of the Bhāgavata Purāṇa is c
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Text-located: the name occurs in the e-text of sukarahasya, rudrahrdaya, varaha, bhiksuka, yajnavalkya, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.224.8, 12.312.1, 12.319.10 (Kailāsa), 12.320.1 — Located as described.
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 6.3.20; 12.5.11 — BhP 6.3.20 'vaiyāsakiḥ' among the twelve and the Bhāgavata frame located.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic, skeleton:U04-minor-upanisads, skeleton:U13-advaita, skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic, skeleton:U04-minor-upanisads, skeleton:U13-advaita, skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._

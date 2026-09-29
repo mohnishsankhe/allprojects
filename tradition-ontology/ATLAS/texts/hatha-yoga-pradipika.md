@@ -1068,7 +1068,7 @@ When the sleeping kuṇḍalī awakens by the grace of the guru, all the lotuses
 
 _level: conventional · standpoint: experiential · path: body-breath, meditation · stage: advanced · types: body-layers, powers-experiences, death-dying_
 
-terms: [kuṇḍalinī](../terms/kundalini.md), [granthi](../terms/granthi.md) · concepts: [Kuṇḍalinī](../concepts/kundalini.md), [Cheating time (kāla-vañcana)](../concepts/kala-vancana.md), [The three knots (granthi)](../concepts/three-granthis.md), [The centres (cakra, ādhāra)](../concepts/cakras.md), [The guru in the haṭha texts](../concepts/guru-in-hatha.md) · disputes: `dsp:kundalini-effort-grace`, [Is awakening reached by the effortful arousal of kuṇḍalinī, or does it lie in the innate (sahaja), which such practices do not reach?](../debates/natha-effort-or-sahaja.md)
+terms: [kuṇḍalinī](../terms/kundalini.md), [granthi](../terms/granthi.md) · concepts: [Kuṇḍalinī](../concepts/kundalini.md), [Cheating time (kāla-vañcana)](../concepts/kala-vancana.md), [The three knots (granthi)](../concepts/three-granthis.md), [The centres (cakra, ādhāra)](../concepts/cakras.md), [The guru in the haṭha texts](../concepts/guru-in-hatha.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md), [Is awakening reached by the effortful arousal of kuṇḍalinī, or does it lie in the innate (sahaja), which such practices do not reach?](../debates/natha-effort-or-sahaja.md)
 
 ### 3.4 <a id="tea-hatha-yoga-pradipika-3-4"></a>
 `skeleton` · confidence high
@@ -1099,7 +1099,7 @@ Therefore, to awaken the goddess (īśvarī) asleep at the mouth of the door of 
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice, body-layers_
 
-terms: [mudrā](../terms/mudra.md) · concepts: [Kuṇḍalinī](../concepts/kundalini.md) · disputes: `dsp:kundalini-effort-grace`
+terms: [mudrā](../terms/mudra.md) · concepts: [Kuṇḍalinī](../concepts/kundalini.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
 
 ### 3.6-7 <a id="tea-hatha-yoga-pradipika-3-6-7"></a>
 `skeleton` · confidence high
@@ -1367,7 +1367,7 @@ When apāna turns upward and reaches the region of fire, the flame, struck by th
 
 _level: conventional · standpoint: experiential · path: body-breath, meditation · stage: advanced · types: body-layers, powers-experiences, practice_
 
-terms: [kuṇḍalinī](../terms/kundalini.md), [apāna](../terms/apana.md), [brahmanāḍī](../terms/brahma-nadi.md) · concepts: [Kuṇḍalinī](../concepts/kundalini.md), [Sun, moon and fire in the body](../concepts/sun-moon-fire.md) · practices: [Mūlabandha (the root lock)](../practices/mula-bandha.md) · disputes: `dsp:kundalini-effort-grace`
+terms: [kuṇḍalinī](../terms/kundalini.md), [apāna](../terms/apana.md), [brahmanāḍī](../terms/brahma-nadi.md) · concepts: [Kuṇḍalinī](../concepts/kundalini.md), [Sun, moon and fire in the body](../concepts/sun-moon-fire.md) · practices: [Mūlabandha (the root lock)](../practices/mula-bandha.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
 
 ### 3.70-73 <a id="tea-hatha-yoga-pradipika-3-70-73"></a>
 `skeleton` · confidence high
@@ -1541,7 +1541,7 @@ As one would force open a door with a key, so the yogin should break open the do
 
 _level: conventional · standpoint: causal · path: body-breath · stage: all · types: body-layers, karma-liberation_
 
-terms: [kuṇḍalinī](../terms/kundalini.md), [kanda](../terms/kanda.md) · concepts: [Kuṇḍalinī](../concepts/kundalini.md), [Suṣumnā, the central channel](../concepts/susumna-central-channel.md) · practices: [Śakticālana (moving the power)](../practices/sakticalana.md) · disputes: `dsp:kundalini-effort-grace`
+terms: [kuṇḍalinī](../terms/kundalini.md), [kanda](../terms/kanda.md) · concepts: [Kuṇḍalinī](../concepts/kundalini.md), [Suṣumnā, the central channel](../concepts/susumna-central-channel.md) · practices: [Śakticālana (moving the power)](../practices/sakticalana.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
 
 ### 3.109-110 <a id="tea-hatha-yoga-pradipika-3-109-110"></a>
 `skeleton` · confidence high
@@ -1552,7 +1552,7 @@ Between the Gaṅgā and the Yamunā sits the young widow, the ascetic; she shou
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: body-layers, sound-language_
 
-terms: [iḍā](../terms/ida.md), [piṅgalā](../terms/pingala.md), [bālaraṇḍā](../terms/balaranda.md) · concepts: [Kuṇḍalinī](../concepts/kundalini.md) · disputes: `dsp:kundalini-effort-grace`
+terms: [iḍā](../terms/ida.md), [piṅgalā](../terms/pingala.md), [bālaraṇḍā](../terms/balaranda.md) · concepts: [Kuṇḍalinī](../concepts/kundalini.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
 
 ### 3.109-111 <a id="tea-hatha-yoga-pradipika-3-109-111"></a>
 `skeleton` · confidence high
@@ -1561,7 +1561,7 @@ Between the Gaṅgā and the Yamunā sits the young widow, the ascetic; she shou
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: body-layers, practice_
 
-practices: [Śakticālana (moving the power)](../practices/sakticalana.md) · disputes: `dsp:kundalini-effort-grace`
+practices: [Śakticālana (moving the power)](../practices/sakticalana.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
 
 ### 3.111 <a id="tea-hatha-yoga-pradipika-3-111"></a>
 `skeleton` · confidence high
@@ -1572,7 +1572,7 @@ Grasping the sleeping serpent by the tail one should awaken her; leaving sleep, 
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice, body-layers_
 
-concepts: [Kuṇḍalinī](../concepts/kundalini.md) · practices: [Śakticālana (moving the power)](../practices/sakticalana.md) · disputes: `dsp:kundalini-effort-grace`
+concepts: [Kuṇḍalinī](../concepts/kundalini.md) · practices: [Śakticālana (moving the power)](../practices/sakticalana.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
 
 ### 3.112-118 <a id="tea-hatha-yoga-pradipika-3-112-118"></a>
 `skeleton` · confidence high
@@ -1703,7 +1703,7 @@ Who truly knows the greatness of rājayoga? Knowledge, liberation, stability and
 
 _level: conventional · standpoint: seeker · path: body-breath, general · stage: all · types: teacher-transmission, karma-liberation_
 
-terms: [sahaja](../terms/sahaja.md) · concepts: [The guru in the haṭha texts](../concepts/guru-in-hatha.md), [The innate (sahaja)](../concepts/sahaja.md) · disputes: `dsp:kundalini-effort-grace`
+terms: [sahaja](../terms/sahaja.md) · concepts: [The guru in the haṭha texts](../concepts/guru-in-hatha.md), [The innate (sahaja)](../concepts/sahaja.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
 
 ### 4.10 <a id="tea-hatha-yoga-pradipika-4-10"></a>
 `skeleton` · confidence high
@@ -1719,7 +1719,7 @@ When the great śakti is awakened by the various postures, retentions and wonder
 
 _level: conventional · standpoint: causal · path: body-breath, meditation · stage: advanced · types: karma-liberation, consciousness-mind_
 
-terms: [śūnya](../terms/sunya.md), [sahaja](../terms/sahaja.md) · concepts: [Kuṇḍalinī](../concepts/kundalini.md), [The innate (sahaja)](../concepts/sahaja.md), [The void (śūnya) in Nāth teaching](../concepts/sunya-natha.md), [Suṣumnā, the central channel](../concepts/susumna-central-channel.md) · disputes: `dsp:kundalini-effort-grace`
+terms: [śūnya](../terms/sunya.md), [sahaja](../terms/sahaja.md) · concepts: [Kuṇḍalinī](../concepts/kundalini.md), [The innate (sahaja)](../concepts/sahaja.md), [The void (śūnya) in Nāth teaching](../concepts/sunya-natha.md), [Suṣumnā, the central channel](../concepts/susumna-central-channel.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
 
 ### 4.15 <a id="tea-hatha-yoga-pradipika-4-15"></a>
 `skeleton` · confidence high
@@ -2281,4 +2281,4 @@ concepts: [The innate (sahaja)](../concepts/sahaja.md), [Suṣumnā, the central
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._

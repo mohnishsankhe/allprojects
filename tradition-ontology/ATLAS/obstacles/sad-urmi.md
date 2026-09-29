@@ -19,4 +19,4 @@ _Notes: The name 'six waves' (ṣaḍūrmi) is later Vedānta usage (moderate)._
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — Members located: BĀU 3.5.1 ('aśanāyāpipāse śokaṃ mohaṃ jarāṃ mṛtyum atyeti'); ChU 8.1.5 and 8.7.1 (vijaro vimṛtyur viśoko vijighatso 'pipāsaḥ). The name ṣaḍūrmi is rightly marked as later usage. All 3 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 3.5.1; ChU 8.1.5; ChU 8.7.1). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

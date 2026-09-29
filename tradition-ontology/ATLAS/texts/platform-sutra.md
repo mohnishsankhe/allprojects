@@ -66,7 +66,7 @@ The verse Shenxiu wrote on the south corridor wall: the body is the bodhi tree, 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: beginner · types: practice, consciousness-mind_
 
-concepts: [The verse contest at Huangmei](../concepts/verse-contest.md), [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · teachers: [Shenxiu 神秀 (Datong)](../teachers/shenxiu.md) · disputes: `dsp:sudden-or-gradual`
+concepts: [The verse contest at Huangmei](../concepts/verse-contest.md), [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · teachers: [Shenxiu 神秀 (Datong)](../teachers/shenxiu.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### 4.8 <a id="tea-platform-sutra-4-8"></a>
 `skeleton` · confidence high
@@ -99,7 +99,7 @@ Huineng's verse: bodhi originally has no tree, the bright mirror is also no stan
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-terms: [benlai wu yi wu (originally not a single thing)](../terms/benlai-wuyiwu.md) · concepts: [The verse contest at Huangmei](../concepts/verse-contest.md), [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · disputes: `dsp:sudden-or-gradual`
+terms: [benlai wu yi wu (originally not a single thing)](../terms/benlai-wuyiwu.md) · concepts: [The verse contest at Huangmei](../concepts/verse-contest.md), [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### 4.13 <a id="tea-platform-sutra-4-13"></a>
 `skeleton` · confidence high
@@ -198,7 +198,7 @@ The formless verse: the Dharma has no sudden or gradual — delusion and awakeni
 
 _level: bridging · standpoint: absolute · path: general · stage: all · types: ultimate, practice_
 
-concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · disputes: `dsp:sudden-or-gradual`
+concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### 6.6 <a id="tea-platform-sutra-6-6"></a>
 `skeleton` · confidence high
@@ -275,7 +275,7 @@ The one-practice samādhi is always practising a straight mind in walking, stand
 
 _level: bridging · standpoint: polemical · path: meditation · stage: all · types: practice, dispute_
 
-terms: [yixing sanmei (one-practice samādhi)](../terms/yixing-sanmei.md) · practices: [One-practice samādhi (yixing sanmei)](../practices/yixing-sanmei.md) · obstacles: [Attachment to stillness (viewing mind, viewing purity, sitting motionless)](../obstacles/attachment-to-stillness.md) · disputes: `dsp:sudden-or-gradual`
+terms: [yixing sanmei (one-practice samādhi)](../terms/yixing-sanmei.md) · practices: [One-practice samādhi (yixing sanmei)](../practices/yixing-sanmei.md) · obstacles: [Attachment to stillness (viewing mind, viewing purity, sitting motionless)](../obstacles/attachment-to-stillness.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### 7.3 <a id="tea-platform-sutra-7-3"></a>
 `skeleton` · confidence high
@@ -286,7 +286,7 @@ The true teaching has no sudden or gradual; people's natures are sharp or dull �
 
 _level: ultimate · standpoint: analytic · path: knowledge, meditation · stage: all · types: practice, consciousness-mind, ultimate_
 
-terms: [wunian (no-thought)](../terms/wunian.md), [wuxiang (no-form)](../terms/wuxiang.md), [wuzhu (non-abiding)](../terms/wuzhu.md) · concepts: [No-thought as tenet, no-form as substance, non-abiding as root](../concepts/no-thought-no-form-non-abiding.md), [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · obstacles: [Indeterminate (blank) emptiness](../obstacles/blank-emptiness.md) · disputes: `dsp:sudden-or-gradual`
+terms: [wunian (no-thought)](../terms/wunian.md), [wuxiang (no-form)](../terms/wuxiang.md), [wuzhu (non-abiding)](../terms/wuzhu.md) · concepts: [No-thought as tenet, no-form as substance, non-abiding as root](../concepts/no-thought-no-form-non-abiding.md), [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · obstacles: [Indeterminate (blank) emptiness](../obstacles/blank-emptiness.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### 8.1 <a id="tea-platform-sutra-8-1"></a>
 `skeleton` · confidence high
@@ -469,7 +469,7 @@ Shenxiu's disciple Zhicheng reports that his teacher tells students to 'fix the 
 
 _level: bridging · standpoint: polemical · path: meditation · stage: all · types: practice, dispute_
 
-concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · obstacles: [Attachment to stillness (viewing mind, viewing purity, sitting motionless)](../obstacles/attachment-to-stillness.md) · teachers: [Shenxiu 神秀 (Datong)](../teachers/shenxiu.md) · disputes: `dsp:sudden-or-gradual`
+concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · obstacles: [Attachment to stillness (viewing mind, viewing purity, sitting motionless)](../obstacles/attachment-to-stillness.md) · teachers: [Shenxiu 神秀 (Datong)](../teachers/shenxiu.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### 11.2 <a id="tea-platform-sutra-11-2"></a>
 `skeleton` · confidence high
@@ -489,7 +489,7 @@ Zhicheng reports Shenxiu's teaching of the three trainings: not doing evil is pr
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: beginner · types: ethics, practice, dispute_
 
-terms: [sanxue (three trainings)](../terms/sanxue.md) · teachers: [Shenxiu 神秀 (Datong)](../teachers/shenxiu.md) · disputes: `dsp:sudden-or-gradual`
+terms: [sanxue (three trainings)](../terms/sanxue.md) · teachers: [Shenxiu 神秀 (Datong)](../teachers/shenxiu.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### 11.4 <a id="tea-platform-sutra-11-4"></a>
 `skeleton` · confidence high
@@ -511,7 +511,7 @@ Shenxiu's three trainings are for people of small faculties, Huineng's for peopl
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: practice, dispute, karma-liberation_
 
-terms: [dunwu (sudden awakening)](../terms/dunwu.md), [dunxiu (sudden cultivation)](../terms/dunxiu.md) · concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · disputes: `dsp:sudden-or-gradual`, [Sudden awakening followed by gradual cultivation (Jinul) or sudden awakening with sudden cultivation (Seongcheol)?](../debates/seon-sudden-cultivation-debate.md)
+terms: [dunwu (sudden awakening)](../terms/dunwu.md), [dunxiu (sudden cultivation)](../terms/dunxiu.md) · concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md), [Sudden awakening followed by gradual cultivation (Jinul) or sudden awakening with sudden cultivation (Seongcheol)?](../debates/seon-sudden-cultivation-debate.md)
 
 ### 11.12 <a id="tea-platform-sutra-11-12"></a>
 `skeleton` · confidence high
@@ -616,4 +616,4 @@ concepts: [Death and dying in Chan](../concepts/chan-death-and-dying.md)
 _Notes: Registry id src:platform-sutra = the received Zongbao text (T2008) as prepared in sources_raw/prepared/platform-sutra; the Dunhuang recension is src:platform-sutra-dunhuang. Teaching refs follow the prepared segment numbering (section.segment; section 4 = chapter 1 行由, 5 = ch. 2, … 13 = ch. 10)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

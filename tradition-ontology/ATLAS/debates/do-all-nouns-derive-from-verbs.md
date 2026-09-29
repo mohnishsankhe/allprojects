@@ -30,4 +30,4 @@ Not all (Gārgya and some grammarians): only where accent and formation fit a ro
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (GRETIL, Sarup ed.) — Nirukta 1.12 was found, with Śākaṭāyana and the Nairuktas against Gārgya and some grammarians, and the 'aśva' over-application argument. Nirukta 2.1 gives the rule to derive by form, else by meaning, and never to fail to derive.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

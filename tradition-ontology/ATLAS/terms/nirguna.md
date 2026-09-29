@@ -22,4 +22,4 @@
 **Related:** [saguṇa](saguna.md), [guṇa-pūrṇatva](guna-purnatva.md)
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U03-principal-upanisads, skeleton:U15-dvaita, skeleton:U27-sant-baul, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U03-principal-upanisads, skeleton:U15-dvaita, skeleton:U27-sant-baul, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

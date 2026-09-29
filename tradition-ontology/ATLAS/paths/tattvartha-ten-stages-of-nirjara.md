@@ -22,4 +22,4 @@
 The Tattvārthasūtra's own ten-stage series, older than (and mappable onto) the fourteen guṇasthānas.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

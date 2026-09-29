@@ -43,7 +43,7 @@ The means known from Vedic tradition (ānuśravika) are like the visible means, 
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: beginner · types: karma-liberation, practice_
 
-terms: [ānuśravika](../terms/anusravika.md), [vyakta](../terms/vyakta.md), [avyakta](../terms/avyakta.md), [jña](../terms/jna.md), [viveka](../terms/viveka.md) · concepts: [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md), [Ethics and conduct in Sāṃkhya](../concepts/dharma-in-samkhya.md) · disputes: [Does killing prescribed in Vedic sacrifice incur demerit?](../debates/does-sacrificial-killing-incur-demerit.md), `dsp:works-knowledge-grace`
+terms: [ānuśravika](../terms/anusravika.md), [vyakta](../terms/vyakta.md), [avyakta](../terms/avyakta.md), [jña](../terms/jna.md), [viveka](../terms/viveka.md) · concepts: [Discriminating knowledge (viveka, vivekakhyāti)](../concepts/viveka-khyati.md), [Ethics and conduct in Sāṃkhya](../concepts/dharma-in-samkhya.md) · disputes: [Does killing prescribed in Vedic sacrifice incur demerit?](../debates/does-sacrificial-killing-incur-demerit.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3 <a id="tea-samkhya-karika-3"></a>
 `skeleton` · confidence high
@@ -63,7 +63,7 @@ Three means of valid knowledge are accepted — perception, inference and reliab
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: [pramāṇa](../terms/pramana.md), [dṛṣṭa (pratyakṣa)](../terms/drsta.md), [anumāna](../terms/anumana.md), [āptavacana](../terms/aptavacana.md) · concepts: [Means of valid knowledge (pramāṇa)](../concepts/pramana.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [pramāṇa](../terms/pramana.md), [dṛṣṭa (pratyakṣa)](../terms/drsta.md), [anumāna](../terms/anumana.md), [āptavacana](../terms/aptavacana.md) · concepts: [Means of valid knowledge (pramāṇa)](../concepts/pramana.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 5 <a id="tea-samkhya-karika-5"></a>
 `skeleton` · confidence high
@@ -738,4 +738,4 @@ terms: [ṣaṣṭitantra](../terms/sastitantra.md) · concepts: [The sixty topi
 _Notes: Verse numbers and wording used in this unit's SK teachings were checked against the local GRETIL/DCS e-texts in sources_raw/; entries stay at skeleton level until Phase C/D._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._

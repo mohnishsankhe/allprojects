@@ -22,4 +22,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.30, tea:bhagavad-gita:10.33, tea:bhagavad-gita:11.32 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering), text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (MaiU 6.14-16). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U03-principal-upanisads, skeleton:U32-jyotisa, extraction:bhagavad-gita/ch10-12, skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U03-principal-upanisads, skeleton:U32-jyotisa, extraction:bhagavad-gita/ch10-12, skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

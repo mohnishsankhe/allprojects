@@ -17,4 +17,4 @@ _Notes: Contents not summarized here — gap._
 
 - 2026-09-28 catalog: confirmed — catalog:eBharati:aShTAdashasmRtayaH (… saṃvartasmṛtiḥ samāptā, 232 verses) — Low-confidence entry confirmed as extant; YājñS 1.4 names Saṃvarta.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

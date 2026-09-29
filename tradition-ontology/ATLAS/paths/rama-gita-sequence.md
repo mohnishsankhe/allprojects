@@ -1,6 +1,6 @@
 # The Rāma Gītā's path from duty to merging (Adhyātma Rāmāyaṇa 7.5)
 
-`pth:rama-gita-sequence` · `skeleton` · confidence moderate
+`pth:rama-gita-sequence` · `sourced` · confidence moderate
 
 **Lineage:** [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Sources:** 
@@ -19,4 +19,8 @@
 Assembled by U06 from the order stated in the Rāma Gītā; the text adds that until all is seen as Rāma one should worship him (7.5.58). Bands are interpretation-layer (B8 before B7 reflects the text's order: jīvanmukti, then final merging).
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — Stage refs verified: AR 7.5.7, 7.5.15-17, 7.5.24-27, 7.5.42-52, 7.5.54 ('prārabdham aśnann abhimānavarjitaḥ') and 7.5.56 (water in the ocean, milk in milk, space in space).
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

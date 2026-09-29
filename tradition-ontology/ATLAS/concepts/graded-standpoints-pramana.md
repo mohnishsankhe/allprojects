@@ -14,4 +14,4 @@
 _Notes: Named here with the tradition's own vocabulary (bāhyārtha-naya / vijñapti-naya as used by the commentators); the commentators' labels are recalled._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

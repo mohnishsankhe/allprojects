@@ -28,10 +28,10 @@ Things do not arise from themselves, because their arising would be pointless an
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-terms: [prasaṅga](../terms/prasanga.md) · concepts: [The method of consequences](../concepts/prasanga-method.md), [Non-arising by the four alternatives](../concepts/non-arising-four-alternatives.md) · teachers: [Buddhapālita](../teachers/buddhapalita.md) · disputes: [Prāsaṅgika against Svātantrika](../debates/prasangika-svatantrika.md)
+terms: [prasaṅga](../terms/prasanga.md) · concepts: [The method of consequences](../concepts/prasanga-method.md), [Non-arising by the four alternatives](../concepts/non-arising-four-alternatives.md) · teachers: [Buddhapālita](../teachers/buddhapalita.md) · disputes: [Should a Mādhyamika establish emptiness by autonomous inferences (svatantra-anumāna) or only by consequences (prasaṅga) that draw out untenable consequences of the opponent's own thesis — and does this difference of method reflect a difference of view?](../debates/prasangika-svatantrika.md)
 
 
 _Notes: Sanskrit lost except quotations in the Prasannapadā._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._

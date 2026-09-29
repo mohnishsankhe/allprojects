@@ -163,7 +163,7 @@ The eight-year-old daughter of the nāga king Sāgara, whom Mañjuśrī taught i
 
 _level: bridging · standpoint: polemical · path: devotion · stage: advanced · types: karma-liberation, dispute_
 
-concepts: [Women's bodies and buddhahood in the Mahāyāna sūtras](../concepts/womens-bodies-and-buddhahood.md) · teachers: [The daughter of the nāga king Sāgara](../teachers/naga-princess.md), [Mañjuśrī](../teachers/manjusri.md), [Sāriputta](../teachers/sariputta.md) · disputes: [Can a woman, in a woman's body, attain buddhahood?](../debates/womens-bodies-and-buddhahood.md), `dsp:women-caste-liberation`
+concepts: [Women's bodies and buddhahood in the Mahāyāna sūtras](../concepts/womens-bodies-and-buddhahood.md) · teachers: [The daughter of the nāga king Sāgara](../teachers/naga-princess.md), [Mañjuśrī](../teachers/manjusri.md), [Sāriputta](../teachers/sariputta.md) · disputes: [Can a woman, in a woman's body, attain buddhahood?](../debates/womens-bodies-and-buddhahood.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 14 <a id="tea-saddharmapundarika-14"></a>
 `skeleton` · confidence high
@@ -270,4 +270,4 @@ practices: [Lotus repentance and Samantabhadra visualization](../practices/lotus
 _Notes: Locator convention: chapter numbers of Kumārajīva's 28-chapter version (mapping K→Skt: 1-11 same; K12 = Skt 11 (second half); K13-21 = Skt 12-20; K22 = Skt 27; K23-25 = Skt 22-24; K26 = Skt 21; K27-28 = Skt 25-26). Sanskrit chapter colophons checked locally._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

@@ -19,4 +19,4 @@
 _Notes: The Pali and Jain uses overlap but are not identical: the Jain class is wider (it includes denial of the categories of soul etc.)._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._

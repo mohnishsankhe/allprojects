@@ -1,6 +1,6 @@
 # Vāsiṣṭhacandrikā
 
-`src:vasistha-candrika` · `skeleton` · confidence low
+`src:vasistha-candrika` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -15,4 +15,8 @@
 A Sanskrit commentary on the Laghu Yoga Vāsiṣṭha (recalled with low confidence).
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — catalog:Muktabodha:laghuyogavAsiShTha_with_vAsiShThachandrikA__M00351, local:sources_raw/raw_etexts/mixed/mukta/vedAnta/abhinanda_Atmasukha/laghuyogavAsiShTha_with_vAsiShThachandrikA__M00351.md, https://www.celextel.org/vedanta-books-other/laghu-yoga-vasishta/ — Extant and local. Its colophon reads 'uttamasukhapūjyapādaśiṣyaśrīmadātmasukhaviracitāyāṃ vāsiṣṭhacandrikāyām': by Ātmasukha, pupil of Uttamasukha, on the Laghu Yoga Vāsiṣṭha. Availability should read digitized-original.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

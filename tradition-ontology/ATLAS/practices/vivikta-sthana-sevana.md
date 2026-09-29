@@ -12,4 +12,4 @@ Among the marks of the one who crosses māyā: resorting to a solitary place, up
 **Sequences:** [Who crosses māyā: the Nārada Bhakti Sūtra's sequence (NBS 46–50)](../paths/narada-bhakti-sutra-crossing-maya.md)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._

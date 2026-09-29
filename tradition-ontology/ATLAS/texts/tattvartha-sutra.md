@@ -1228,7 +1228,7 @@ terms: [jīva](../terms/jiva.md), [dravya](../terms/dravya.md) · concepts: [The
 
 _level: ultimate · standpoint: substance · path: knowledge · stage: all · types: world-fate, ultimate_
 
-terms: [dravya](../terms/dravya.md) · concepts: [The six substances (ṣaḍ-dravya)](../concepts/six-dravyas.md) · teachers: [Umāsvāti](../teachers/umasvati.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [dravya](../terms/dravya.md) · concepts: [The six substances (ṣaḍ-dravya)](../concepts/six-dravyas.md) · teachers: [Umāsvāti](../teachers/umasvati.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 5.5 <a id="tea-tattvartha-sutra-5-5"></a>
 `skeleton` · confidence high
@@ -2823,7 +2823,7 @@ The liberated are to be distinguished [only in retrospect] by region, time, dest
 
 _level: conventional · standpoint: analytic · path: general · stage: realized · types: karma-liberation_
 
-terms: [siddha](../terms/siddha.md), [pratyekabuddha](../terms/pratyekabuddha-jain.md) · concepts: [The state of the liberated (siddha)](../concepts/siddha-state.md) · teachers: [Umāsvāti](../teachers/umasvati.md) · disputes: `dsp:women-caste-liberation`
+terms: [siddha](../terms/siddha.md), [pratyekabuddha](../terms/pratyekabuddha-jain.md) · concepts: [The state of the liberated (siddha)](../concepts/siddha-state.md) · teachers: [Umāsvāti](../teachers/umasvati.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### sv-1.34-35 <a id="tea-tattvartha-sutra-sv-1-34-35"></a>
 `skeleton` · confidence moderate
@@ -2849,4 +2849,4 @@ terms: [kāla](../terms/kala.md) · concepts: [The six substances (ṣaḍ-dravy
 _Notes: Śvetāmbara numbering differs from the Digambara (e.g. sallekhanā is Dig 7.22 = Śv 7.17; hiṃsā is Dig 7.13 = Śv 7.8, since the Śv sūtra text lacks Dig 7.4–8; nayas Dig 1.33 = Śv 1.34–35; 'kālaś ca' Dig 5.39 ≈ Śv 5.38 'kālaś cety eke'). Śv numbers given from memory. Title present in the local catalogue (catalog:JainDB:तत्त्वार्थसूत्र--आचार्य-उमास्वामी); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

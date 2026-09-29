@@ -27,4 +27,4 @@ Summary only: sexual yoga with a qualified consort as a method of the higher con
 _Notes: U44 owns the Indian practice entry; this adds the Kagyu sources and warnings._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U46-kagyu, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U46-kagyu, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._

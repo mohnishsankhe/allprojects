@@ -1,6 +1,6 @@
 # The tree of saṃsāra (Uddhava Gītā)
 
-`cpt:tree-of-samsara-bhagavata` · `skeleton` · confidence high
+`cpt:tree-of-samsara-bhagavata` · `sourced` · confidence high
 
 **Category:** karma-rebirth
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — Rests on tea:uddhava-gita:11.12.21-24; each was located in the local text and matches this entry's statement.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

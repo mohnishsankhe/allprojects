@@ -30,4 +30,4 @@ terms: [māyāvāda](../terms/mayavada.md), [avidyā](../terms/avidya.md) · con
 
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._

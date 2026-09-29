@@ -1,6 +1,6 @@
 # Bhramara Gītā
 
-`src:bhramara-gita` · `skeleton` · confidence moderate
+`src:bhramara-gita` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -16,10 +16,10 @@
 
 A gopī's reproachful song to a bee taken as Kṛṣṇa's messenger; Uddhava then praises the gopīs' love as the highest devotion.
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 10.47.12-21 <a id="tea-bhramara-gita-10-47-12-21"></a>
-`skeleton` · confidence moderate · [AI-translated]
+`sourced` · confidence moderate · [AI-translated]
 
 A gopī, addressing a bee as Kṛṣṇa's messenger, reproaches Kṛṣṇa for abandoning them, yet cannot stop speaking of him; Uddhava, witnessing their love, wishes to be a creeper in Vṛndāvana touched by the dust of their feet.
 
@@ -29,4 +29,8 @@ teachers: [Uddhava](../teachers/uddhava.md)
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — BhP 10.47.12-21 is the address to the bee ('madhupa kitavabandho', 10.47.12); confirmed.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

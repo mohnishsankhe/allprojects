@@ -17,4 +17,4 @@
 _Notes: The Hindu texts themselves narrate the Buddhist connection (brw:tara-mahacina-buddhist)._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:11 IST._

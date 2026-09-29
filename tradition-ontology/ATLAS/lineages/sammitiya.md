@@ -31,4 +31,4 @@ _none recorded_
 [Can an arhat fall back from arhatship?](../debates/arhat-retrogression.md), [Is there an intermediate existence (antarābhava) between death and rebirth?](../debates/intermediate-existence.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._

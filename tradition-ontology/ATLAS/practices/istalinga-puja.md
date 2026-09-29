@@ -10,10 +10,10 @@ Daily worship of one's own liṅga held on the left palm (karapīṭha) with wat
 **Stage:** all
 **Sources:** 
   - [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) — ref: 6.54–55; 10.44–47; 10.55–57; rests_on: ["tea:siddhantasikhamani:6.54-55", "tea:siddhantasikhamani:10.44-47", "tea:siddhantasikhamani:10.55-57"]
-**Sequences:** `pth:virasaiva-satsthala`
+**Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ## The texts' own warnings
 - Never abandon liṅga-worship, even at the loss of possessions or life. — [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) 10.22
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

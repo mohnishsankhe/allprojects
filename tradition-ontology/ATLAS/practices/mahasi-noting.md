@@ -11,10 +11,10 @@ Making a light mental note of every object as it arises — 'rising', 'falling',
 **Signs of progress:** ['the insight knowledges in sequence (Progress of Insight)']
 **Sources:** 
   - [Practical Insight Meditation: Basic and Progressive Stages](../texts/practical-insight-meditation.md) — ref: basic; rests_on: ["tea:practical-insight-meditation:basic", "tea:practical-insight-meditation:concentration"]
-**Sequences:** `pth:sixteen-insight-knowledges`
+**Sequences:** [The sixteen insight knowledges (soḷasa ñāṇa)](../paths/sixteen-insight-knowledges.md)
 
 ## The texts' own warnings
 - Lights, rapture and other experiences at the stage of arising and passing are to be noted, not taken for attainment. — [The Progress of Insight (Visuddhiñāṇakathā)](../texts/progress-of-insight.md) 4
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._

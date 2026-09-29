@@ -22,4 +22,4 @@ Abbot of Nālandā who synthesized Madhyamaka, Yogācāra and Dharmakīrti's epi
 _Notes: Contribution of U41 (pramāṇa side)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U45-nyingma-bon, skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U45-nyingma-bon, skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._

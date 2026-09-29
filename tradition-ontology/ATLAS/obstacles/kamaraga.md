@@ -11,4 +11,4 @@ The fourth fetter, abandoned by the non-returner.
   - [Mahāmāluṅkya Sutta](../texts/mahamalunkya-sutta.md) — ref: 3-15; rests_on: ["tea:mahamalunkya-sutta:3-15"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

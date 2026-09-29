@@ -12,4 +12,4 @@ Niguma's Mahāmudrā: after guru yoga, resting the mind uncontrived so that it i
 **Sequences:** [The five golden dharmas of the Shangpa (the tree)](../paths/shangpa-five-golden-dharmas.md)
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

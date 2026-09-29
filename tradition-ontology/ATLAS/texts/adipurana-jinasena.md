@@ -37,7 +37,7 @@ Bharata, wishing to honour the virtuous among the laity, had grass sprouts strew
 
 _level: conventional · standpoint: ritual · path: ritual, action · stage: all · types: ethics, narrative_
 
-concepts: [The Jain brāhmaṇa and householder rites](../concepts/jain-brahmana.md) · teachers: [Bharata (the first world-emperor)](../teachers/bharata-cakravartin.md) · disputes: `dsp:women-caste-liberation`
+concepts: [The Jain brāhmaṇa and householder rites](../concepts/jain-brahmana.md) · teachers: [Bharata (the first world-emperor)](../teachers/bharata-cakravartin.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### ch.4 <a id="tea-adipurana-jinasena-ch-4"></a>
 `skeleton` · confidence low
@@ -46,10 +46,10 @@ Some foolish men say a creator made the world; but if he made it, where was he b
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, world-fate_
 
-concepts: [The Jain denial of a creator](../concepts/no-creator-jain.md), [The universe as cosmic person (loka-puruṣa)](../concepts/loka-purusa.md) · teachers: [Jinasena (author of the Ādipurāṇa)](../teachers/jinasena.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+concepts: [The Jain denial of a creator](../concepts/no-creator-jain.md), [The universe as cosmic person (loka-puruṣa)](../concepts/loka-purusa.md) · teachers: [Jinasena (author of the Ādipurāṇa)](../teachers/jinasena.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 
 _Notes: Narrative text in U34's scope; the id is disambiguated from Pampa's Kannada Ādipurāṇa. Title present in the local catalogue (catalog:JainDB:आदिपुराण--जिनसेनाचार्य); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

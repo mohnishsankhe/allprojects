@@ -11,7 +11,7 @@ Each devotee earns a living by honest work in his or her own occupation, done as
 **Sources:** 
   - [Vacanas of Āydakki Mārayya](../texts/aydakki-marayya-vacanas.md) — ref: vacana 'Kāyakadalli niratanādaḍe…'; rests_on: ["tea:aydakki-marayya-vacanas:kayakadalli-niratanadare"]
   - [Vacanas of Āydakki Lakkamma](../texts/aydakki-lakkamma-vacanas.md) — ref: surplus-rice vacana; rests_on: ["tea:aydakki-lakkamma-vacanas:v-returning-the-surplus"]
-**Sequences:** `pth:virasaiva-satsthala`
+**Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

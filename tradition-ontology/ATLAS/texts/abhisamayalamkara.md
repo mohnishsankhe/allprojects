@@ -78,4 +78,4 @@ teachers: [Maitreyanātha](../teachers/maitreyanatha.md)
 _Notes: One of the 'five Dharmas of Maitreya' in the Tibetan list (Abhisamayālaṃkāra, Mahāyānasūtrālaṃkāra, Madhyāntavibhāga, Dharmadharmatāvibhāga, Ratnagotravibhāga). Chinese tradition instead attributes the Yogācārabhūmi to Maitreya and the Ratnagotravibhāga to Sāramati. Its own affiliation is contested: Haribhadra reads it as Yogācāra-Madhyamaka; Tibetan scholastics as Madhyamaka._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

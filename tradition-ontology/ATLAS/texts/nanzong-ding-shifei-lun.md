@@ -24,10 +24,10 @@ At the Huatai assembly Shenhui charged that Shenxiu's line was collateral, not t
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, teacher-transmission_
 
-teachers: [Heze Shenhui 荷澤神會](../teachers/shenhui.md), [Shenxiu 神秀 (Datong)](../teachers/shenxiu.md), [Puji 普寂](../teachers/puji.md) · disputes: [Who is the true Sixth Patriarch — was the Northern school collateral?](../debates/huatai-true-lineage.md), `dsp:sudden-or-gradual`
+teachers: [Heze Shenhui 荷澤神會](../teachers/shenhui.md), [Shenxiu 神秀 (Datong)](../teachers/shenxiu.md), [Puji 普寂](../teachers/puji.md) · disputes: [Who is the true Sixth Patriarch — was the Northern school collateral?](../debates/huatai-true-lineage.md), [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 
 _Notes: Dunhuang manuscripts (ed. Hu Shi); not held locally. The four-phrase characterisation of Northern practice (凝心入定，住心看淨，起心外照，攝心內證) is quoted from memory — moderate confidence._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

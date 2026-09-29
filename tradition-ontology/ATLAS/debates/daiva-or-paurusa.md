@@ -1,6 +1,6 @@
 # Is the outcome of life decided by fate (daiva) or by human effort (pauruṣa)?
 
-`dsp:daiva-or-paurusa` · `skeleton` · confidence moderate
+`dsp:daiva-or-paurusa` · `sourced` · confidence moderate
 
 
 ## Sides (recorded before any reconciliation)
@@ -34,4 +34,8 @@ Under P2 (causal standpoint) the epic 'both' position and the Yoga Vāsiṣṭha
 _Notes: The epic side's reference is recalled with low confidence; the Ājīvika side is owned by U33._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh13.json (BORI critical edition), catalog:SC:dn2 "Sāmaññaphalasutta", local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Mokṣopāya side verified (2.4.8-18, 2.6.1-6, 2.8.1-5; beings became Viṣṇu and others by effort, 2.4.14, 2.7.31). The low-confidence epic side is confirmed at MBh CE 13.6.7-8, the seed-and-field analogy of the Vasiṣṭha-Brahmā dialogue. The Ājīvika report is at DN 2 (dn2:20.6, 'niyatisaṅgatibhāvapariṇatā').
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

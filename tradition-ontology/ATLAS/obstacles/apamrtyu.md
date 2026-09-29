@@ -12,4 +12,4 @@ The danger of death before one's time shown when a period-lord rules the 2nd or 
   - [Bṛhat Parāśara Horā Śāstra](../texts/brhat-parasara-hora-sastra.md) — ref: 52.1-3; rests_on: ["tea:brhat-parasara-hora-sastra:52.1-3"]
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

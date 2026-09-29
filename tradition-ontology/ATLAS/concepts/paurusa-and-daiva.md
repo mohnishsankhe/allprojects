@@ -1,6 +1,6 @@
 # Human effort and fate
 
-`cpt:paurusa-and-daiva` · `skeleton` · confidence high
+`cpt:paurusa-and-daiva` · `sourced` · confidence high
 
 **Category:** karma-rebirth
 
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Rests on tea:moksopaya:2.4.8-18, tea:moksopaya:2.6.1-6, tea:moksopaya:2.8.1-5; each was located in the local text and matches this entry's statement.
+
+_Contributed by: skeleton:U06-other-gitas, skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

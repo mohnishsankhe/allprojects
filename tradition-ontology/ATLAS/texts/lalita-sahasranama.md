@@ -113,7 +113,7 @@ She is without support, stainless, untainted, pure, eternal, formless, untrouble
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate_
 
-concepts: [Lalitā as Brahman](../concepts/lalita-as-brahman.md) · disputes: `dsp:saguna-nirguna`
+concepts: [Lalitā as Brahman](../concepts/lalita-as-brahman.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 56-57 <a id="tea-lalita-sahasranama-56-57"></a>
 `skeleton` · confidence high
@@ -343,4 +343,4 @@ _level: conventional · standpoint: devotional · path: sound, devotion · stage
 _Notes: Stotra verse numbers used for teachings were checked against the local e-text (peterFreund stotram file)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._

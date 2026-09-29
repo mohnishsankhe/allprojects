@@ -43,4 +43,4 @@ The reconciliation covers the Kiraṇa and Ahirbudhnya only. It does not claim t
 _Notes: The Trika side (TĀ 13) is recorded from memory at chapter level; U19 should add the teaching record._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

@@ -13,4 +13,4 @@
 Formerly the Advaita renouncer Yajñamūrti who, the tradition says, debated Rāmānuja for eighteen days, conceded, and became his disciple; author of the Tamil Jñānasāram and Prameyasāram.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

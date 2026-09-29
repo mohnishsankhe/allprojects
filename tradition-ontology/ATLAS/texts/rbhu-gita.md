@@ -1,6 +1,6 @@
 # Ṛbhu Gītā
 
-`src:rbhu-gita` · `skeleton` · confidence low
+`src:rbhu-gita` · `sourced` · confidence low
 
 **Alternate titles:** Ribhu Gita
 **Original title:** ऋभुगीता
@@ -19,10 +19,10 @@
 
 Relentless statements that all is Brahman and that nothing else exists: the world, the jīva, mind, time, bondage and liberation are declared non-existent in the one consciousness; hearing and contemplating this teaching is itself presented as liberating, alongside Śaiva observances (sacred ash, rudrākṣa, worship of Śiva).
 
-## Teachings (2: skeleton 2)
+## Teachings (2: sourced 2)
 
 ### passim <a id="tea-rbhu-gita-passim"></a>
-`skeleton` · confidence low · [AI-translated]
+`sourced` · confidence low · [AI-translated]
 
 Ṛbhu teaches Nidāgha, in long litanies, that all is Brahman and 'I am Brahman'; the world, the jīva, the mind, time, space, scripture, bondage and liberation do not exist apart from the one consciousness, and hearing this teaching repeatedly is itself the means of liberation.
 
@@ -31,7 +31,7 @@ _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced �
 teachers: [Ṛbhu](../teachers/rbhu.md), [Nidāgha](../teachers/nidagha.md)
 
 ### passim/2 <a id="tea-rbhu-gita-passim-2"></a>
-`skeleton` · confidence low · [AI-translated]
+`sourced` · confidence low · [AI-translated]
 
 Alongside its non-dual refrains the Ṛbhu Gītā commends Śaiva observances — wearing sacred ash and rudrākṣa and worshipping Śiva — as supports for those seeking this knowledge.
 
@@ -41,4 +41,8 @@ _level: conventional · standpoint: ritual · path: ritual, devotion · stage: b
 _Notes: The same teacher-disciple pair (Ṛbhu and Nidāgha) appears in Viṣṇu Purāṇa 2.15-16 (verified in the local e-text). Ramana Maharshi recommended the Ṛbhu Gītā and it was read in his presence (recent reception). Chapter structure and verse counts are not verified here._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 websearch: partially-confirmed — https://en.wikipedia.org/wiki/Shivarahasya_Purana, https://sanskritdocuments.org/doc_giitaa/RGall.itx, https://archive.arunachala.org/docs/ribhu-gita/intro, https://sanskritdocuments.org/sites/ribhugita/itrans/RGChap37.html — Confirmed: the sixth aṃśa of the 12-part Śivarahasya; about 2,000 (some say 2,200) verses; a Ṛbhu-Nidāgha dialogue on Kedāra; the Sanskrit is online in chapters (sanskritdocuments has at least 37, so 'several dozen' holds). Not confirmed: the exact chapter count and the 44-chapter Tamil rendering. The Sanskrit text is digitized (sanskritdocuments), so availability could be 'digitized-original'.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

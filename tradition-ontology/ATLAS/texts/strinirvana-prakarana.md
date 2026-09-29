@@ -25,8 +25,8 @@ There is liberation for women as for men, for the cause of liberation — the th
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, karma-liberation_
 
-terms: [strī-nirvāṇa (strī-mukti)](../terms/strinirvana.md) · concepts: [Liberation of women (strī-mukti)](../concepts/strimukti.md) · teachers: [Śākaṭāyana (Pālyakīrti)](../teachers/sakatayana.md) · disputes: `dsp:women-caste-liberation`
+terms: [strī-nirvāṇa (strī-mukti)](../terms/strinirvana.md) · concepts: [Liberation of women (strī-mukti)](../concepts/strimukti.md) · teachers: [Śākaṭāyana (Pālyakīrti)](../teachers/sakatayana.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

@@ -26,8 +26,8 @@ In the ritual Mahānāmnī verses the 'great names' (Indra and the others) are n
 
 _level: ultimate · standpoint: polemical · path: knowledge, ritual · stage: advanced · types: ultimate, sound-language, dispute_
 
-terms: [guṇa-pūrṇatva](../terms/guna-purnatva.md), [nirguṇa](../terms/nirguna.md), [brahman](../terms/brahman.md) · concepts: [All words denote Viṣṇu (sarva-śabda-vācyatva)](../concepts/sarvasabdavacyatva.md) · disputes: `dsp:saguna-nirguna`
+terms: [guṇa-pūrṇatva](../terms/guna-purnatva.md), [nirguṇa](../terms/nirguna.md), [brahman](../terms/brahman.md) · concepts: [All words denote Viṣṇu (sarva-śabda-vācyatva)](../concepts/sarvasabdavacyatva.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._

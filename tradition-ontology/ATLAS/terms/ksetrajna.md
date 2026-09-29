@@ -21,4 +21,4 @@
 **Related:** [kṣetra](ksetra.md), [puruṣa](purusa.md), [ātman](atman.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U30-ayurveda-rasa, skeleton:U07-puranas, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U30-ayurveda-rasa, skeleton:U07-puranas, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

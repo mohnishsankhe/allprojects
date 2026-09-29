@@ -78,7 +78,7 @@ The yogin, by the method learned from the guru, rouses kuṇḍalinī and leads 
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: advanced · types: practice, body-layers_
 
-concepts: [Kuṇḍalinī](../concepts/kundalini.md), [The centres (cakra, ādhāra)](../concepts/cakras.md), [Dissolution of breath and mind (laya)](../concepts/laya-natha.md), [The guru in the haṭha texts](../concepts/guru-in-hatha.md) · practices: [Piercing the six centres (ṣaṭcakra-bheda) — summary only](../practices/satcakra-bhedana.md) · disputes: `dsp:kundalini-effort-grace`
+concepts: [Kuṇḍalinī](../concepts/kundalini.md), [The centres (cakra, ādhāra)](../concepts/cakras.md), [Dissolution of breath and mind (laya)](../concepts/laya-natha.md), [The guru in the haṭha texts](../concepts/guru-in-hatha.md) · practices: [Piercing the six centres (ṣaṭcakra-bheda) — summary only](../practices/satcakra-bhedana.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
 
 ### 51-53 <a id="tea-sat-cakra-nirupana-51-53"></a>
 `skeleton` · confidence moderate
@@ -100,4 +100,4 @@ concepts: [The guru in the haṭha texts](../concepts/guru-in-hatha.md)
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._

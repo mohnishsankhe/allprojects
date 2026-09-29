@@ -203,7 +203,7 @@ On the Gītā's promise that women, vaiśyas, śūdras and those of low birth re
 
 _level: bridging · standpoint: devotional · path: devotion · stage: all · types: ethics, karma-liberation_
 
-concepts: [Devotion and caste](../concepts/bhakti-and-caste.md) · teachers: [Jñāneśvar](../teachers/jnanesvar.md) · disputes: `dsp:women-caste-liberation`, [May people of low birth know and expound the meaning of scripture and approach God on equal terms?](../debates/caste-and-the-varkari-saints.md)
+concepts: [Devotion and caste](../concepts/bhakti-and-caste.md) · teachers: [Jñāneśvar](../teachers/jnanesvar.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md), [May people of low birth know and expound the meaning of scripture and approach God on equal terms?](../debates/caste-and-the-varkari-saints.md)
 
 
 ---
@@ -211,4 +211,4 @@ concepts: [Devotion and caste](../concepts/bhakti-and-caste.md) · teachers: [J�
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Dnyaneshwar, https://miscellaneousbharat.com/dnyaneshwari-pais-khamb-1290-nevasa-ahmednagar/ — Composed 1290 at Nevāse, dictated to Saccidānanda Bābā, in ovī metre; Nāth lineage through Nivṛttinātha and Gahinīnātha — as entered.
 
-_Contributed by: skeleton:U26-regional-bhakti, skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U26-regional-bhakti, skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._

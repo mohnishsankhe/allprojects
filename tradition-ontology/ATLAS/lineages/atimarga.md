@@ -52,4 +52,4 @@ _none recorded_
 _Notes: The division Atimārga/Mantramārga is the scriptures' own (Niśvāsa corpus; Svacchanda 11.182-190). Grouping the Kāpālikas as a third Atimārga division follows some scholarly reconstructions (Sanderson); other sources link the Kāpālika cult to the Mantramārga's Bhairava tantras. The Kūrma Purāṇa (2.37.146) lists 'Pāśupata, Soma, Lākula' together, with Vāma and Bhairava, as non-Vedic Śaiva teachings._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._

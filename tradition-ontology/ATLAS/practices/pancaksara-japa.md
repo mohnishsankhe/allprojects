@@ -1,6 +1,6 @@
 # Repetition of the five-syllable mantra
 
-`prc:pancaksara-japa` · `skeleton` · confidence high
+`prc:pancaksara-japa` · `sourced` · confidence high
 
 **Category:** mantra-sound
 **Convergence:** 4 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Śaiva Siddhānta](../lineages/saiva-siddhanta.md), [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md), [Vīraśaiva / Liṅgāyata](../lineages/virasaiva.md)
@@ -16,10 +16,14 @@ Repetition of 'namaḥ śivāya' (six-syllabled with Oṃ) received at initiatio
   - [Uṇmai Viḷakkam](../texts/unmai-vilakkam.md) — ref: pañcākṣara section; rests_on: ["tea:unmai-vilakkam:pancaksara-section"]
   - [Tiruttillai (Paṭṭiṉattār's verses on Chidambaram)](../texts/tiruttillai-pattinattar.md) — ref: 17; rests_on: ["tea:tiruttillai-pattinattar:17"]
   - [Śiva Purāṇa](../texts/siva-purana.md) — ref: 7.2.12-13; rests_on: ["tea:siva-purana:7.2.12-13"]
-**Sequences:** `pth:virasaiva-satsthala`
+**Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ## The texts' own warnings
 - Vows of living on water or air and other emaciating austerities do not reach Śiva's world. — [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) 8.36
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha, skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:siva-purana:7.2.12-13 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U20-virasaiva, skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha, skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

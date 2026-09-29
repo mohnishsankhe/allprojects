@@ -12,4 +12,4 @@ Praising Śiva with hymns in which the devotee relishes an identity already reco
   - [Bhairavastava](../texts/bhairavastava.md) — ref: 2; rests_on: ["tea:bhairavastava:2"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._

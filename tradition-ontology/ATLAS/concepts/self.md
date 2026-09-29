@@ -16,4 +16,4 @@
 - contrasts-with → [Liberation (mokṣa) in later Mīmāṃsā](liberation.md): in release the self remains without body, senses and objects — rests on [1.1.5/4](../texts/sastradipika.md#tea-sastradipika-1-1-5-4), [8/2](../texts/prakaranapancika.md#tea-prakaranapancika-8-2)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._

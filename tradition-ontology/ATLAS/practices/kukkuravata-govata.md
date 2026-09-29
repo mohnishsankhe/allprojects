@@ -14,4 +14,4 @@ Ascetics who live in the manner of a dog (eating food thrown on the ground, curl
 - Perfected, the vow leads to rebirth among dogs or cattle; joined with the belief that it leads to godhood, it is wrong view leading to hell or the animal realm. — [Kukkuravatika Sutta](../texts/kukkuravatika-sutta.md) MN 57
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._

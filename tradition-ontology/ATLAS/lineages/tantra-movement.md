@@ -54,7 +54,7 @@ An umbrella entry, owned by U49, for tantra as a movement that runs across famil
 _none recorded_
 
 ## Path maps
-`pth:kashmir-four-upayas`, `pth:saiva-siddhanta-four-padas`, `pth:kalacakra-six-branches`
+[The four means (upāya) of the Trika: āṇava, śākta, śāmbhava, anupāya](../paths/kashmir-four-upayas.md), [The four pādas of Śaiva Siddhānta (caryā, kriyā, yoga, jñāna) and their fruits](../paths/saiva-siddhanta-four-padas.md), `pth:kalacakra-six-branches`
 
 ## Debates
 _none recorded_
@@ -62,4 +62,4 @@ _none recorded_
 _Notes: Classificatory umbrella (merge.py lists it among UMBRELLAS): it is not an independent root for convergence counts. sub_lineages lists the family lineages that belong to the movement; their own 'parent' fields are not changed by this unit._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:11 IST._

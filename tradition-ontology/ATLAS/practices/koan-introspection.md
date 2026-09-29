@@ -19,4 +19,4 @@ Working on an assigned kōan in zazen and daily activity, presenting one's under
 - Bankei held that manufacturing doubt trades the buddha-mind for a doubt. — [Sermons of Bankei (Bankei zenji seppō)](../texts/bankei-zenji-seppo.md) no-koan
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

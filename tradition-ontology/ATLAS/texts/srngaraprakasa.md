@@ -15,4 +15,4 @@
 King Bhoja's vast work on poetics in thirty-six chapters, holding that there is in truth one rasa, śṛṅgāra understood as self-regard (abhimāna, ahaṃkāra), of which the named rasas are developments.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._

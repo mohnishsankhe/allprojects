@@ -9,4 +9,4 @@
 Scribe of Ahmedabad (15th c.) who, copying the Āgamas, found no injunction to image worship or to the lax practices of the monks, and taught a return to the canon; source of the Loṅkā Gaccha and ultimately of the Sthānakavāsīs.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

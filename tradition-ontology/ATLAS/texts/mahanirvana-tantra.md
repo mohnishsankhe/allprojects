@@ -25,7 +25,7 @@ Truly, without the path of the Āgama there is no way in the Kali age; in this a
 
 _level: conventional · standpoint: polemical · path: ritual, sound · stage: all · types: teacher-transmission, dispute, world-fate_
 
-concepts: [Tantra as the scripture of the Kali age](../concepts/tantra-for-kali-yuga.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md), [Is Kaula practice — the Kula worship with the five tattvas, the circle and the cremation ground — a legitimate path to liberation, or a departure from dharma?](../debates/legitimacy-of-kaula-practice.md)
+concepts: [Tantra as the scripture of the Kali age](../concepts/tantra-for-kali-yuga.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md), [Is Kaula practice — the Kula worship with the five tattvas, the circle and the cremation ground — a legitimate path to liberation, or a departure from dharma?](../debates/legitimacy-of-kaula-practice.md)
 
 ### 3.7-8 <a id="tea-mahanirvana-tantra-3-7-8"></a>
 `skeleton` · confidence moderate
@@ -43,7 +43,7 @@ No caste distinction is to be made in the consecrated food (prasāda) of the sup
 
 _level: conventional · standpoint: ethical-social · path: ritual · stage: all · types: ethics_
 
-disputes: `dsp:women-caste-liberation`
+disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 4.31-32 <a id="tea-mahanirvana-tantra-4-31-32"></a>
 `skeleton` · confidence high
@@ -74,7 +74,7 @@ Meditation is of two kinds, with form and formless; the formless meditation on y
 
 _level: bridging · standpoint: seeker · path: meditation, devotion · stage: all · types: ultimate, practice_
 
-concepts: [Meditation with and without form](../concepts/form-and-formless-meditation.md) · disputes: `dsp:saguna-nirguna`
+concepts: [Meditation with and without form](../concepts/form-and-formless-meditation.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 5.143-146 <a id="tea-mahanirvana-tantra-5-143-146"></a>
 `skeleton` · confidence high
@@ -183,4 +183,4 @@ concepts: [The Kaula/Śākta avadhūta](../concepts/kaula-avadhuta.md)
 
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._

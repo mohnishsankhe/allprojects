@@ -1,6 +1,6 @@
 # Rudra Gītā
 
-`src:rudra-gita` · `skeleton` · confidence moderate
+`src:rudra-gita` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -16,10 +16,10 @@
 
 Śiva teaches the Pracetās a hymn to Vāsudeva and the path of devotion, declaring the devotee of Viṣṇu dear to him; the Pracetās recite it during their austerity in the water.
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 4.24 <a id="tea-rudra-gita-4-24"></a>
-`skeleton` · confidence low · [AI-translated]
+`sourced` · confidence low · [AI-translated]
 
 Śiva teaches the Pracetās a hymn to Vāsudeva, declaring that one who takes refuge in Vāsudeva is dear to him, and that the devotee's single-minded worship is the means to the Lord.
 
@@ -29,4 +29,8 @@ teachers: [Śiva](../teachers/siva.md)
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — BhP 4.24: Śiva meets the Pracetās (4.24.23-27), declares the devotee of Vāsudeva dear to him (4.24.28) and recites the hymn 4.24.33-79 ('gītaṃ mayedam', 4.24.79); the stated range is right.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

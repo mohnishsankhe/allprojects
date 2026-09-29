@@ -26,8 +26,8 @@ It is not allowed for a nun to be without clothing (acela); nor for a nun to sta
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, dispute_
 
-terms: [acela / acelaka](../terms/acela.md), [sādhvī](../terms/sadhvi.md) · concepts: [Monastic nudity and clothing](../concepts/monastic-nudity.md), [Liberation of women (strī-mukti)](../concepts/strimukti.md) · disputes: [Is complete nudity required of the renunciant (and for liberation)?](../debates/monastic-nudity.md), `dsp:women-caste-liberation`
+terms: [acela / acelaka](../terms/acela.md), [sādhvī](../terms/sadhvi.md) · concepts: [Monastic nudity and clothing](../concepts/monastic-nudity.md), [Liberation of women (strī-mukti)](../concepts/strimukti.md) · disputes: [Is complete nudity required of the renunciant (and for liberation)?](../debates/monastic-nudity.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

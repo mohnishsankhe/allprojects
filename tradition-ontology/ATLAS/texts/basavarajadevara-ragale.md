@@ -27,4 +27,4 @@ teachers: [Basava](../teachers/basava.md) · disputes: [What authority do the Ve
 
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

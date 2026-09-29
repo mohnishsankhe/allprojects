@@ -77,7 +77,7 @@ I will put the Veda to the touchstone, put the śāstras in fetters, flog the ba
 
 _level: conventional · standpoint: polemical · path: devotion · stage: all · types: dispute_
 
-concepts: [Caste among devotees](../concepts/virasaiva-caste-critique.md) · teachers: [Basava](../teachers/basava.md), [Mādāra Cennayya](../teachers/madara-cennayya.md) · disputes: [What authority do the Veda and the Āgamas have for Vīraśaivas?](../debates/virasaiva-veda-agama-authority.md), [Does liṅga-initiation abolish caste and pollution distinctions among devotees?](../debates/virasaiva-caste-and-pollution.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [Caste among devotees](../concepts/virasaiva-caste-critique.md) · teachers: [Basava](../teachers/basava.md), [Mādāra Cennayya](../teachers/madara-cennayya.md) · disputes: [What authority do the Veda and the Āgamas have for Vīraśaivas?](../debates/virasaiva-veda-agama-authority.md), [Does liṅga-initiation abolish caste and pollution distinctions among devotees?](../debates/virasaiva-caste-and-pollution.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### vacana containing 'sōhaṃ endenisade dāsōhaṃ endenisayya' <a id="tea-basavanna-vacanas-soham-endenisade"></a>
 `skeleton` · confidence moderate
@@ -110,4 +110,4 @@ teachers: [Basava](../teachers/basava.md)
 _Notes: aṅkita (signature): Kūḍalasaṅgamadēva. Cited by incipit; edition numbering to be fixed in Phase D._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

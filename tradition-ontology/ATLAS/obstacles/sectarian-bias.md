@@ -12,4 +12,4 @@ Partiality towards one's own school and contempt for others, which the Rimé mas
   - [A Gem of Many Colors: the autobiography of Jamgön Kongtrul (phyogs med ris med kyi bstan pa la 'dun zhing … nor bu sna tshogs mdog can)](../texts/kongtrul-autobiography.md) — ref: impartial; rests_on: ["tea:kongtrul-autobiography:impartial"]
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

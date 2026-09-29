@@ -11,4 +11,4 @@ Calm abiding with a support (a letter A, an object, the breath), without support
   - [A-tri (a khrid, the Instruction on the Primordial A)](../texts/a-tri.md) — rests_on: ["tea:a-tri:1"]
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

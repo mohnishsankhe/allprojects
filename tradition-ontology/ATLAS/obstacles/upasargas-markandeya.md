@@ -1,6 +1,6 @@
 # The upasargas of the Mārkaṇḍeya
 
-`obs:upasargas-markandeya` · `skeleton` · confidence high
+`obs:upasargas-markandeya` · `sourced` · confidence high
 
 **Category:** meditation-fault
 **Convergence:** 1 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -13,4 +13,8 @@ After the self is seen: longings for ritual rewards, women, heaven, divinity, el
   - [Mārkaṇḍeya Purāṇa](../texts/markandeya-purana.md) — ref: 40.1-13; rests_on: ["tea:markandeya-purana:40.1-13"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:markandeya-purana:40.1-13 — MkP 40.1-13 and 40.14-15 (the white blanket of mind) located. All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

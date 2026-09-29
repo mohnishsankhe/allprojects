@@ -18,4 +18,4 @@ Second core book of the Niśvāsa, supplementing the Mūlasūtra's mantras and r
 _Notes: The Kāmika's list of the Niśvāsa's eight upabhedas includes Niśvāsottara, Niśvāsamukhodaya, Niśvāsanayana and Guhya, which match these books by name._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._

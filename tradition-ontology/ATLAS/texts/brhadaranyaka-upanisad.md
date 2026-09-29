@@ -397,7 +397,7 @@ Whoever in this world offers oblations, sacrifices and performs austerities for 
 
 _level: conventional · standpoint: causal · path: knowledge, ritual · stage: all · types: karma-liberation_
 
-terms: [akṣara](../terms/aksara.md) · disputes: `dsp:works-knowledge-grace`
+terms: [akṣara](../terms/aksara.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3.8.11-12 <a id="tea-brhadaranyaka-upanisad-3-8-11-12"></a>
 `sourced` · confidence high
@@ -507,7 +507,7 @@ There a father is not a father, a mother not a mother, worlds not worlds, gods n
 
 _level: ultimate · standpoint: experiential · path: knowledge · stage: advanced · types: consciousness-mind, ultimate_
 
-concepts: [Deep sleep](../concepts/deep-sleep.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [Deep sleep](../concepts/deep-sleep.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 4.3.23-31 <a id="tea-brhadaranyaka-upanisad-4-3-23-31"></a>
 `sourced` · confidence high
@@ -630,7 +630,7 @@ This great unborn self, the one made of understanding among the vital functions,
 
 _level: bridging · standpoint: seeker · path: knowledge, action · stage: advanced · types: karma-liberation, ethics, ultimate_
 
-terms: [neti neti](../terms/neti-neti.md), [muni](../terms/muni.md), [eṣaṇā](../terms/esana.md), [tapas](../terms/tapas.md), [svādhyāya](../terms/svadhyaya.md) · concepts: [Renunciation (saṃnyāsa) in the principal Upaniṣads](../concepts/sannyasa.md), ['Not so, not so' (neti neti)](../concepts/neti-neti.md), [Īśvara (the Lord)](../concepts/isvara.md) · practices: [Renunciation (saṃnyāsa)](../practices/sannyasa.md), [Negation 'not this, not this'](../practices/neti-neti.md) · obstacles: [The three desires (for sons, wealth and worlds)](../obstacles/esana-traya.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md) · disputes: `dsp:works-knowledge-grace`
+terms: [neti neti](../terms/neti-neti.md), [muni](../terms/muni.md), [eṣaṇā](../terms/esana.md), [tapas](../terms/tapas.md), [svādhyāya](../terms/svadhyaya.md) · concepts: [Renunciation (saṃnyāsa) in the principal Upaniṣads](../concepts/sannyasa.md), ['Not so, not so' (neti neti)](../concepts/neti-neti.md), [Īśvara (the Lord)](../concepts/isvara.md) · practices: [Renunciation (saṃnyāsa)](../practices/sannyasa.md), [Negation 'not this, not this'](../practices/neti-neti.md) · obstacles: [The three desires (for sons, wealth and worlds)](../obstacles/esana-traya.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 4.4.23 <a id="tea-brhadaranyaka-upanisad-4-4-23"></a>
 `sourced` · confidence high
@@ -659,7 +659,7 @@ Yājñavalkya had two wives, Maitreyī and Kātyāyanī; of the two Maitreyī wa
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: teacher-transmission_
 
-teachers: [Yājñavalkya](../teachers/yajnavalkya.md), [Maitreyī](../teachers/maitreyi.md), [Kātyāyanī](../teachers/katyayani.md) · disputes: `dsp:women-caste-liberation`
+teachers: [Yājñavalkya](../teachers/yajnavalkya.md), [Maitreyī](../teachers/maitreyi.md), [Kātyāyanī](../teachers/katyayani.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 4.5.6 <a id="tea-brhadaranyaka-upanisad-4-5-6"></a>
 `sourced` · confidence high
@@ -853,4 +853,4 @@ _Notes: Veda affiliation: White Yajurveda (Kāṇva and Mādhyandina recensions)
 
 - 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:GRETIL-dev:brhadaranyaka-upanisad, text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/dcs/corpus/GRETIL/sa_bRhadAraNyakopaniSadkANva-recension-comm.txt (GRETIL Kāṇva BĀU with Śaṅkara's commentary), t — Confirmed: 6 adhyāyas and 47 brāhmaṇas (6+6+9+6+15+5) in the Kāṇva text. The Mādhyandina location is right: GRETIL ŚB 14.4.2 = BĀU 1.4 ('ātmaivedam agra āsīt puruṣavidhaḥ') and ŚB 14.9.4 ends with the vaṃśa. The horse passages (Kāṇva BĀU 1.1–2) stand elsewhere in the Mādhyandina ŚB. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

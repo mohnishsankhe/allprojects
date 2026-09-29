@@ -1,6 +1,6 @@
 # Intention (saṅkalpa) as bondage
 
-`obs:sankalpa` · `skeleton` · confidence high
+`obs:sankalpa` · `sourced` · confidence high
 
 **Category:** bond
 **Convergence:** 2 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
@@ -19,5 +19,6 @@ Intention is absent from the undertakings of the wise (4.19); no one becomes a y
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.19, tea:bhagavad-gita:6.2, tea:bhagavad-gita:6.4, tea:bhagavad-gita:6.24 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Rests on tea:moksopaya:4.30-37; each was located in the local text and matches this entry's statement.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

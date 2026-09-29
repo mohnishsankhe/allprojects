@@ -13,4 +13,4 @@ Collector of Bengali folk songs (Hārāmaṇi), a principal preserver of Lalon's
 _Notes: A collector and scholar, not a Bāul teacher; recorded because the written transmission of the songs depends on him._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

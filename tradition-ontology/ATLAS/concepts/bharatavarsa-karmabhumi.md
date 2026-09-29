@@ -1,6 +1,6 @@
 # Bhārata as the land of action
 
-`cpt:bharatavarsa-karmabhumi` · `skeleton` · confidence high
+`cpt:bharatavarsa-karmabhumi` · `sourced` · confidence high
 
 **Category:** karma-rebirth
 
@@ -13,4 +13,8 @@
 - part-of → [Bhū-maṇḍala: Meru, seven island-continents and seven oceans](bhu-mandala.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:visnu-purana:2.3.22-25 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

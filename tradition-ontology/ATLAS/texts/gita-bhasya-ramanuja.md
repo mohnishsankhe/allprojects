@@ -64,7 +64,7 @@ Those of low birth, women, vaiśyas and śūdras too reach the highest goal by t
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: karma-liberation, ethics_
 
-teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:women-caste-liberation`
+teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 13.2 <a id="tea-gita-bhasya-ramanuja-13-2"></a>
 `skeleton` · confidence moderate
@@ -100,7 +100,7 @@ Rāmānuja gives two readings of 'abandoning all dharmas, take refuge in me alon
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: practice, karma-liberation_
 
-terms: [carama-śloka](../terms/carama-sloka.md), [prapatti](../terms/prapatti.md) · concepts: [The three secret mantras (rahasya-traya)](../concepts/rahasya-traya.md), [Surrender (prapatti, śaraṇāgati)](../concepts/prapatti.md) · practices: [Surrender (prapatti / śaraṇāgati) in the Śrīvaiṣṇava tradition](../practices/prapatti-srivaisnava.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is surrender (prapatti) a means (upāya) to liberation?](../debates/is-prapatti-an-upaya.md), `dsp:works-knowledge-grace`
+terms: [carama-śloka](../terms/carama-sloka.md), [prapatti](../terms/prapatti.md) · concepts: [The three secret mantras (rahasya-traya)](../concepts/rahasya-traya.md), [Surrender (prapatti, śaraṇāgati)](../concepts/prapatti.md) · practices: [Surrender (prapatti / śaraṇāgati) in the Śrīvaiṣṇava tradition](../practices/prapatti-srivaisnava.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is surrender (prapatti) a means (upāya) to liberation?](../debates/is-prapatti-an-upaya.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### introduction <a id="tea-gita-bhasya-ramanuja-intro"></a>
 `skeleton` · confidence high
@@ -117,4 +117,4 @@ terms: [Śriyaḥpati / Śrīman Nārāyaṇa](../terms/sriyahpati.md), [saulabh
 
 - 2026-09-29 catalog: confirmed — catalog:GRETIL:rAmAnuja-bhagavadgItAbhASya, local:sources_raw/gita/data/commentary.json (Sri Ramanujacharya) — Extant and digitized; attribution accepted. Traditional 1017–1137 and scholarly 11th–12th c. ranges are the usual ones.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

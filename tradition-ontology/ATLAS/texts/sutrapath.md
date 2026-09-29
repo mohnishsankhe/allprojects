@@ -43,7 +43,7 @@ Among those who seek Parameśvara caste does not count; women and people of any 
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics, dispute_
 
-concepts: [Devotion and caste](../concepts/bhakti-and-caste.md) · teachers: [Cakradhar Svāmī](../teachers/cakradhar.md) · disputes: `dsp:women-caste-liberation`, [May the gods (devatās) be worshipped, and must caste and Vedic rites be kept, by one who seeks liberation?](../debates/mahanubhava-and-the-devatas.md)
+concepts: [Devotion and caste](../concepts/bhakti-and-caste.md) · teachers: [Cakradhar Svāmī](../teachers/cakradhar.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md), [May the gods (devatās) be worshipped, and must caste and Vedic rites be kept, by one who seeks liberation?](../debates/mahanubhava-and-the-devatas.md)
 
 ### Ācāra section <a id="tea-sutrapath-acara-renunciant"></a>
 `skeleton` · confidence low
@@ -56,4 +56,4 @@ terms: [aṭana](../terms/atana.md), [bhikṣā](../terms/bhiksa.md), [ahiṃsā
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # Keśidhvaja's yoga (VP 6.7)
 
-`pth:visnu-purana-yoga` · `skeleton` · confidence high
+`pth:visnu-purana-yoga` · `sourced` · confidence high
 
 **Lineage:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
 **Sources:** 
@@ -21,4 +21,8 @@
 VP 6.7.33 also distinguishes the practiser (yuñjāna) from one of perfected samādhi (liberated in this birth).
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:visnu-purana:6.7.36-45, tea:visnu-purana:6.7.75-90, tea:visnu-purana:6.7.91-92, tea:visnu-purana:6.7.93-96 — Stage refs located: VP 6.7.36-38 (yama/niyama), 6.7.39 (bhadrāsana), 6.7.40-42 (sabīja/abīja prāṇāyāma), 6.7.43-44 (pratyāhāra), 6.7.45-90, 6.7.91, 6.7.92, 6.7.93-96. All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

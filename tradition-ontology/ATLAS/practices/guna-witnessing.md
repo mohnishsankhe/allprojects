@@ -20,4 +20,4 @@ _Notes: In 5.8–9 the text says that the senses move among the objects of the s
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.8, tea:bhagavad-gita:5.9 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:11 IST._

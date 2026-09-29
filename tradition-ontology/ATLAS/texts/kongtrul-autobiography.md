@@ -32,4 +32,4 @@ concepts: [The Rimé (non-sectarian) approach](../concepts/rime-approach.md) · 
 
 - 2026-09-29 catalog: confirmed — catalog:OpenPecha:P000238 "phyogs med ris med kyi bstan pa la 'dun zhing dge sbyong gi gzugs brnyan 'chang ba blo gros mtha' yas pa'i sde'i byung ba brjod pa nor bu sna tshogs mdog can" — catalogue hit proves a digitized edition exists, not author or date
 
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

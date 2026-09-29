@@ -1,6 +1,6 @@
 # Garuḍa Purāṇa Sāroddhāra
 
-`src:garuda-purana-saroddhara` · `skeleton` · confidence moderate
+`src:garuda-purana-saroddhara` · `sourced` · confidence moderate
 
 **Alternate titles:** Garuḍapurāṇasāroddhāra, Pretakalpa-sāroddhāra
 **Language:** Sanskrit
@@ -18,4 +18,8 @@ A sixteen-chapter digest of the Garuḍa's teaching on death: the miseries of si
 _Notes: Compiler's name and date not verified - low confidence; kept as the text actually recited in mourning in North India._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 websearch: confirmed — https://archive.org/details/garuapurasroddh00subrgoog, https://wellcomecollection.org/works/e36gjq7f, https://sacred-texts.com/hin/gpu/gpu02.htm — Confirmed: the Sāroddhāra (16 chapters) is the work of Naunidhirāma (Navanidhirāma of Jhunjhunu); English translation by Ernest Wood and S.V. Subrahmanyam, Sacred Books of the Hindus vol. 9 (Allahabad 1911). The low-confidence compiler name is now confirmed.
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

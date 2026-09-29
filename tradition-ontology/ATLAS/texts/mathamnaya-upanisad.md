@@ -27,4 +27,4 @@ concepts: [The four great sayings (mahāvākya)](../concepts/mahavakyas.md)
 
 - 2026-09-29 catalog: partially-confirmed — catalog:eBharati:maThAmnAyopaniShat — A local eBhāratī e-text (Ebharati-9567, Deccan College) exists, with the four seats by direction, the Daśanāmī name-endings (bhāratī, tīrtha, sarasvatī, giri …) and the great sayings. Its scholarly dating ('late; post-Śaṅkara maṭha tradition') is plausible but could not be checked.
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:11 IST._

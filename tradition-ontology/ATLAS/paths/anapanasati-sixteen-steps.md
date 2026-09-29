@@ -30,4 +30,4 @@
 Bands are an interpretation: the text itself does not map the steps onto stages; the fourth tetrad is contemplation leading to relinquishment.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

@@ -14,4 +14,4 @@
 Abhinavagupta's commentary on the Pūrvatantra (the Mālinīvijayottara), referred to in his other works; lost.
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._

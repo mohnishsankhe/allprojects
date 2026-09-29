@@ -28,4 +28,4 @@ _Notes: Contribution of lin:upanisadic; other units record the Purāṇic and as
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā mūla Taitiriya.md, vallī.anuvāka.verse) — Located: TU 3.1.1 ('bhṛgur vai vāruṇiḥ varuṇaṃ pitaram upasasāra') and 3.6.1 ('saiṣā bhārgavī vāruṇī vidyā').
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.180.1 [bhṛgu], 12.181.10 — Located as described.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch10-12, skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch10-12, skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

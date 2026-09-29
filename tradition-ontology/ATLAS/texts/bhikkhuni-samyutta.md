@@ -23,7 +23,7 @@ Māra taunts the nun Somā that the state of the seers cannot be reached by a wo
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: realized · types: dispute, karma-liberation_
 
-concepts: [Women and awakening](../concepts/women-and-awakening.md) · teachers: [Somā](../teachers/soma-theri.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Women and awakening](../concepts/women-and-awakening.md) · teachers: [Somā](../teachers/soma-theri.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 5.10 <a id="tea-bhikkhuni-samyutta-5-10"></a>
 `skeleton` · confidence high
@@ -47,4 +47,4 @@ concepts: [Convention and the ultimate sense](../concepts/conventional-expressio
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

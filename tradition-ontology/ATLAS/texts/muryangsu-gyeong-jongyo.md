@@ -18,4 +18,4 @@ Wonhyo's outline of the Larger Sūtra: the pure land as the fruit, its causes, t
 _Notes: T37 not local; content summary from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

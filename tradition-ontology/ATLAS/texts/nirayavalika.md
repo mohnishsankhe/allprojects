@@ -14,4 +14,4 @@
 The eighth Upāṅga, first of the five 'Nirayāvaliyāo': how King Kūṇika (Ajātaśatru) of Magadha, with his ten half-brothers, fought his grandfather Ceṭaka of Vaiśālī, and how the ten brothers, killed in battle, went to hell.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

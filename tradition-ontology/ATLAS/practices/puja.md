@@ -1,6 +1,6 @@
 # Ritual worship of the deity (pūjā, arcana)
 
-`prc:puja` · `skeleton` · confidence moderate
+`prc:puja` · `sourced` · confidence moderate
 
 **Category:** ritual
 **Convergence:** 8 independent lineage(s): [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md), [Kerala tantra (temple-tantra tradition of Kerala)](../lineages/kerala-tantra.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md), [Pāñcarātra](../lineages/pancaratra.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Puṣṭimārga (Vallabha Sampradāya; Śuddhādvaita Brahmavāda)](../lineages/pustimarga.md), [Śaiva Siddhānta](../lineages/saiva-siddhanta.md), [Vaikhānasa](../lineages/vaikhanasa.md)
@@ -16,4 +16,8 @@ Worship of the deity in an image, liṅga or yantra with offerings; one of the n
   - [Caitanya Caritāmṛta](../texts/caitanya-caritamrta.md) — ref: 2.22.128; rests_on: ["tea:caitanya-caritamrta:2.22.128"]
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U08-agama-catalogue, skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:12.3.51-52, tea:bhagavata-purana:7.5.23-24 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas, skeleton:U08-agama-catalogue, skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

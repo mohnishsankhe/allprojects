@@ -31,4 +31,4 @@ terms: [Jayantī](../terms/jayanti.md) · practices: [Kṛṣṇa-Jayantī fast]
 _Notes: The local copy's colophon names it 'Jayantīkalpa'; opening checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._

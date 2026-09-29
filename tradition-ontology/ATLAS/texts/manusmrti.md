@@ -39,7 +39,7 @@ For the prosperity of the worlds he brought forth the brāhmaṇa, the kṣatriy
 
 _level: conventional · standpoint: cosmic · path: general · stage: unmarked · types: world-fate, ethics_
 
-terms: [varṇa](../terms/varna.md) · concepts: [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md) · disputes: `dsp:women-caste-liberation`
+terms: [varṇa](../terms/varna.md) · concepts: [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 1.61-63 <a id="tea-manusmrti-1-61-63"></a>
 `sourced` · confidence moderate
@@ -84,7 +84,7 @@ For the brāhmaṇas he ordained teaching and study, sacrificing for oneself and
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
 
-terms: [varṇa](../terms/varna.md), [svadharma](../terms/svadharma.md) · concepts: [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md), [One's own dharma (svadharma)](../concepts/svadharma.md) · disputes: `dsp:women-caste-liberation`
+terms: [varṇa](../terms/varna.md), [svadharma](../terms/svadharma.md) · concepts: [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md), [One's own dharma (svadharma)](../concepts/svadharma.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 2.1 <a id="tea-manusmrti-2-1"></a>
 `sourced` · confidence high
@@ -120,7 +120,7 @@ terms: [dharma](../terms/dharma.md), [smṛti](../terms/smrti.md), [ācāra](../
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: ethics, dispute_
 
-terms: [śruti](../terms/sruti.md), [smṛti](../terms/smrti.md), [nāstika](../terms/nastika.md) · concepts: [The sources of dharma](../concepts/sources-of-dharma.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [śruti](../terms/sruti.md), [smṛti](../terms/smrti.md), [nāstika](../terms/nastika.md) · concepts: [The sources of dharma](../concepts/sources-of-dharma.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 2.12-13 <a id="tea-manusmrti-2-12-13"></a>
 `sourced` · confidence high
@@ -451,7 +451,7 @@ A girl, a young woman or an old woman should do nothing independently, even in t
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
 
-concepts: [Women's dharma (strīdharma), as the tradition states it](../concepts/stri-dharma.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Women's dharma (strīdharma), as the tradition states it](../concepts/stri-dharma.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 6.2 <a id="tea-manusmrti-6-2"></a>
 `sourced` · confidence high
@@ -615,7 +615,7 @@ Her father guards her in childhood, her husband in youth, her sons in old age; a
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
 
-concepts: [Women's dharma (strīdharma), as the tradition states it](../concepts/stri-dharma.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Women's dharma (strīdharma), as the tradition states it](../concepts/stri-dharma.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 9.59-68 <a id="tea-manusmrti-9-59-68"></a>
 `sourced` · confidence high
@@ -633,7 +633,7 @@ The brāhmaṇa, kṣatriya and vaiśya are the three twice-born classes; the fo
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
 
-terms: [varṇa](../terms/varna.md), [dvija](../terms/dvija.md) · concepts: [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md) · disputes: `dsp:women-caste-liberation`
+terms: [varṇa](../terms/varna.md), [dvija](../terms/dvija.md) · concepts: [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 10.63 <a id="tea-manusmrti-10-63"></a>
 `sourced` · confidence high
@@ -768,7 +768,7 @@ Vedic action is of two kinds: 'active' (pravṛtta), bringing happiness and pros
 
 _level: bridging · standpoint: causal · path: action, knowledge · stage: all · types: karma-liberation_
 
-terms: [pravṛtti](../terms/pravrtti.md), [nivṛtti](../terms/nivrtti.md) · concepts: [Active and quiescent Vedic action](../concepts/pravrtti-nivrtti.md) · disputes: `dsp:works-knowledge-grace`
+terms: [pravṛtti](../terms/pravrtti.md), [nivṛtti](../terms/nivrtti.md) · concepts: [Active and quiescent Vedic action](../concepts/pravrtti-nivrtti.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 12.91 <a id="tea-manusmrti-12-91"></a>
 `sourced` · confidence high
@@ -786,7 +786,7 @@ Smṛtis outside the Veda and all wrong views bear no fruit after death; they ar
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, ethics_
 
-disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 12.105-106 <a id="tea-manusmrti-12-105-106"></a>
 `sourced` · confidence high
@@ -795,7 +795,7 @@ Perception, inference and the treatise of various traditions must be well unders
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: ethics_
 
-concepts: [The sources of dharma](../concepts/sources-of-dharma.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+concepts: [The sources of dharma](../concepts/sources-of-dharma.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 12.113 <a id="tea-manusmrti-12-113"></a>
 `sourced` · confidence high
@@ -823,4 +823,4 @@ _Notes: Commentaries: Medhātithi, Govindarāja, Kullūka, Nārāyaṇa, Rāghav
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Manusmṛti, catalog:GRETIL-dev:manu-smrti, catalog:eBharati:manusmRtiH, https://en.wikipedia.org/wiki/Manusmriti — Extant; 12 adhyāyas, 2,678 verses in the GRETIL Kullūka text (c. 2,700). 1.58–60 (Manu's teaching recited by Bhṛgu) is text-located. The scholarly dating (2nd c. BCE–2nd c. CE; Olivelle 2nd c. CE) agrees with Wikipedia. The commentators are confirmed (see the commentary entries).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

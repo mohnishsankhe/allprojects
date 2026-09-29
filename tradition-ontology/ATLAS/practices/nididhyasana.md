@@ -17,7 +17,7 @@ Sustained meditation on the Lord. In Dvaita: meditation on Viṣṇu with the qu
   - [Bhāmatī](../texts/bhamati.md) — ref: manas; rests_on: ["tea:bhamati:manas"]
   - [Brahma Sūtra](../texts/brahma-sutra.md) — ref: 4.1.1; rests_on: ["tea:brahma-sutra:4.1.1"]
   - [Bṛhadāraṇyaka Upaniṣad](../texts/brhadaranyaka-upanisad.md) — ref: 2.4.5; 4.5.6; rests_on: ["tea:brhadaranyaka-upanisad:2.4.5", "tea:brhadaranyaka-upanisad:4.5.6"]
-**Sequences:** [The Dvaita sequence of means (sādhana-krama)](../paths/dvaita-sadhana-krama.md), `pth:advaita-sadhana`, [Hearing to nirvikalpa samādhi with eight auxiliaries (Vedāntasāra)](../paths/vedantasara-samadhi-auxiliaries.md)
+**Sequences:** [The Dvaita sequence of means (sādhana-krama)](../paths/dvaita-sadhana-krama.md), [The Advaita course of practice: purification → fourfold means → hearing, reflection, contemplation → liberation while living → bodiless liberation](../paths/advaita-sadhana.md), [Hearing to nirvikalpa samādhi with eight auxiliaries (Vedāntasāra)](../paths/vedantasara-samadhi-auxiliaries.md)
 
 ## The texts' own warnings
 - One who strives for a vision he is unfit for falls even from what he had. — [Brahmasūtrabhāṣya (Madhva)](../texts/brahma-sutra-bhasya-madhva.md) 4.3.15
@@ -27,4 +27,4 @@ Sustained meditation on the Lord. In Dvaita: meditation on Viṣṇu with the qu
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 2.4.5; BĀU 4.5.6). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

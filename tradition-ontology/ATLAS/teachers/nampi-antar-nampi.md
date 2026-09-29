@@ -14,4 +14,4 @@ Priest of Tirunāraiyūr who, by the tradition's account, recovered the Tēvāra
 **Realization — the tradition's account:** As a boy he fed the Gaṇeśa (Poḷḷāppiḷḷaiyār) of Tirunāraiyūr, who ate and taught him; guided by that Gaṇeśa he found the hymns in a sealed chamber at Chidambaram, half eaten by termites — what remained was what the Lord wished preserved.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

@@ -13,4 +13,4 @@
 Son of Gaṅgeśa; wrote Prakāśa commentaries on Udayana's works (Kusumāñjali, Kiraṇāvalī) and on his father's Tattvacintāmaṇi.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._

@@ -53,4 +53,4 @@ _none recorded_
 _Notes: Family 'shared' because the tradition draws on Vaiṣṇava, Nāth and (on a scholarly hypothesis) Buddhist Sahajiyā streams and includes Muslim Fakirs; the Sufi side is recorded as context only. Most Bāul teaching is oral and much of it is deliberately secret; many teachers are post-1800 and flagged recent._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

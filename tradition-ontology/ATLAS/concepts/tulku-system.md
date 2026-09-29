@@ -14,4 +14,4 @@
 _Notes: Scholars often date the first formal recognition to Rangjung Dorje; tradition to Karma Pakshi (both recorded)._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

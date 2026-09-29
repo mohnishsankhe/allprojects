@@ -15,4 +15,4 @@ Two sets of plaintive couplets ('lament for grace'), the first addressed to the 
   - kind: original; name: Cittar pāṭalkaḷ tokuppu II: Paṭṭiṉattār pāṭalkaḷ (Project Madurai 1998–2000; GRETIL Devanāgarī transliteration)
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._

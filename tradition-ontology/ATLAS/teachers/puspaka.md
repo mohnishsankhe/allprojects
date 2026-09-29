@@ -10,4 +10,4 @@ Number 13 of the eighteen avatāras / tīrthakaras of Śiva worshipped by the Ś
 _Notes: Known only from the Jain lists; not to be conflated with the Vedic/Purāṇic sage of the same name._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._

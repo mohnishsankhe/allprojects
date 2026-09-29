@@ -52,9 +52,9 @@ The 19th-century non-sectarian (ris med) movement of eastern Tibet led by Jamyan
 _none recorded_
 
 ## Debates
-_none recorded_
+[Is the ultimate empty of its own nature like all phenomena (rang stong, self-emptiness), or empty only of what is other than it — the adventitious stains — while not empty of its own nature and qualities (gzhan stong, other-emptiness)?](../debates/rangtong-shentong.md)
 
 _Notes: The tradition itself presents Rimé as an attitude and a programme of preservation, not as a new school; lineage membership stays with the teachers' own schools._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

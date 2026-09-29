@@ -1,6 +1,6 @@
 # Kapila's yoga with a support (BhP 3.28)
 
-`pth:kapila-yoga-bhagavata` · `skeleton` · confidence high
+`pth:kapila-yoga-bhagavata` · `sourced` · confidence high
 
 **Lineage:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
 **Sources:** 
@@ -19,4 +19,8 @@
 Within the Kapila Gītā (U06 owns the Gītā as a source); kept here because the coverage item names BhP 3.28.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:3.28.1-11, tea:bhagavata-purana:3.28.12-33, tea:bhagavata-purana:3.28.34-38 — Stage refs BhP 3.28.2-38 located. All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

@@ -24,7 +24,7 @@ The Vedas, śāstras, tantras, purāṇas and other learned books, caste distinc
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
-concepts: [The Siddhar critique of scripture and learning](../concepts/siddhar-critique-of-scripture-and-learning.md), [The Siddhar critique of caste](../concepts/siddhar-critique-of-caste.md) · teachers: [Pāmbāṭṭi (Pāmpāṭṭic cittar)](../teachers/pambatti.md) · disputes: [Do the Siddhars accept the Veda (and scripture generally) or reject it?](../debates/siddhar-veda-and-scripture.md), `dsp:women-caste-liberation`
+concepts: [The Siddhar critique of scripture and learning](../concepts/siddhar-critique-of-scripture-and-learning.md), [The Siddhar critique of caste](../concepts/siddhar-critique-of-caste.md) · teachers: [Pāmbāṭṭi (Pāmpāṭṭic cittar)](../teachers/pambatti.md) · disputes: [Do the Siddhars accept the Veda (and scripture generally) or reject it?](../debates/siddhar-veda-and-scripture.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### refrain <a id="tea-pambatti-padalgal-refrain"></a>
 `skeleton` · confidence low
@@ -39,4 +39,4 @@ concepts: [Kuṇḍalinī](../concepts/kundalini.md) · teachers: [Pāmbāṭṭ
 _Notes: Not in the local e-text set. The snake=kuṇṭali reading is an interpretation, recorded as such._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._

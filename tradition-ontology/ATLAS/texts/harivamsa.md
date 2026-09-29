@@ -28,5 +28,6 @@ _Notes: Chapter count of the critical text given from memory (low confidence)._
 **Verification checks**
 
 - 2026-09-29 catalog: confirmed — catalog:DCS:Harivaṃśa, catalog:GRETIL:harivaMza-app1, local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/2_epic/mbh/ext/harivamsa_chonstituted_text_with_star_passages_plain_text_version.md (ends at Hv 118.51) — Extant and digitized. The locally held critical text ends at Hv 118.51, confirming the 118-chapter count that the entry gave from memory (its note can drop the low-confidence flag). Dates not independently checked beyond the entry's own "estimates vary".
+- 2026-09-29 catalog+websearch: confirmed — catalog:DCS:Harivaṃśa, catalog:GRETIL:harivaMza-app1, https://en.wikipedia.org/wiki/Harivamsa — Extant and digitized (DCS; GRETIL appendix; raw_etexts). Web: khila of the Mahābhārata; c. 1st-3rd c. CE; critical edition (P.L. Vaidya, 1969-71) of 118 chapters - itself also in three parvans (Harivaṃśa 1-45, Viṣṇu 46-113, Bhaviṣya 114-118).
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

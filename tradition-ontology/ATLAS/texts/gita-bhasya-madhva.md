@@ -29,7 +29,7 @@ Entreated by Brahmā, Rudra and others, the Lord descended as Vyāsa; seeing peo
 
 _level: conventional · standpoint: divine · path: knowledge, general · stage: all · types: teacher-transmission, ethics_
 
-concepts: [True scripture (sadāgama) and false scripture](../concepts/sadagama.md), [Three grades of eligibility (adhikāra)](../concepts/adhikara-three-grades.md) · teachers: [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md) · disputes: `dsp:women-caste-liberation`
+concepts: [True scripture (sadāgama) and false scripture](../concepts/sadagama.md), [Three grades of eligibility (adhikāra)](../concepts/adhikara-three-grades.md) · teachers: [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 _Notes: Introduction checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
@@ -39,4 +39,4 @@ _Notes: Introduction checked against the Devanāgarī e-text in sources_raw/raw_
 
 - 2026-09-29 catalog: confirmed — local:sources_raw/raw_etexts/vedAntam/dvaitam/mAdhvam/sarvamulam/gItAprasthAnam/geetabhasyam.md, https://en.wikipedia.org/wiki/List_of_works_by_Madhvacharya — Extant and digitized (Śrīmadbhagavadgītābhāṣya of Ānandatīrtha, local).
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._

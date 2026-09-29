@@ -15,4 +15,4 @@
 Marīci's Vaikhānasa manual of temple building and image worship, the main ritual authority of Vaikhānasa temples.
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._

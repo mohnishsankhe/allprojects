@@ -121,4 +121,4 @@ concepts: [Teacher, student and transmission in Sāṃkhya](../concepts/teacher-
 _Notes: Attribution and Gauḍīya use to confirm._
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

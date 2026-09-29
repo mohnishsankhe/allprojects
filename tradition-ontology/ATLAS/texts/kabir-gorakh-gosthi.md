@@ -14,4 +14,4 @@ A dialogue text of the Kabīr Panth staging a debate between Kabīr and Gorakhn�
 _Notes: A sectarian composition; the meeting is chronologically impossible on scholarly dates. Recorded as the opponent's portrayal of the Nāth side (see dsp:kabir-and-the-yogis)._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

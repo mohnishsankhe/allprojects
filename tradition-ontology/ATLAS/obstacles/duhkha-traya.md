@@ -12,4 +12,4 @@ Suffering of the self (bodily illnesses; mental states such as anger, greed, del
   - [Pañcārthabhāṣya](../texts/pancarthabhasya.md) — ref: on PS 1.1; rests_on: ["tea:pancarthabhasya:1.1/2"]
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._

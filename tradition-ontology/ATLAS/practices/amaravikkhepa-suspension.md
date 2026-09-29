@@ -16,4 +16,4 @@
 - The ignorant cannot even instruct themselves, let alone others. — [Sūtrakṛtāṅga](../texts/sutrakrtanga.md) 1.1.2.17
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._

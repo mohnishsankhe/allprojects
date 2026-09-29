@@ -1,6 +1,6 @@
 # Hārīta Gītā
 
-`src:harita-gita` · `skeleton` · confidence moderate
+`src:harita-gita` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -19,4 +19,8 @@ The conduct by which the renunciant reaches Brahman: leaving home, equal in gain
 _Notes: The ascription to Hārīta is from the vulgate tradition; the critical text's opening was verified, the name was not._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition), local:sources_raw/raw_etexts/purANam/vaiShNavam/mahAbhAratam/gp/epub_no_img/ (Gita Press vulgate, chapter colophons) — CE 12.269 (20 verses on the renunciant's conduct) confirmed. The critical text does not name Hārīta; the name comes from the vulgate colophon 'hārītagītāyām' (vulgate 12.278), as the unit's report said.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

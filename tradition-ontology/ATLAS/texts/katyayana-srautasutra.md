@@ -21,7 +21,7 @@ Now the qualification (for Śrauta rites): rites bearing fruit are for all witho
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: ethics, practice_
 
-concepts: [Qualification (adhikāra) for the solemn rites](../concepts/adhikara-for-ritual.md), [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Qualification (adhikāra) for the solemn rites](../concepts/adhikara-for-ritual.md), [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 ---
@@ -29,4 +29,4 @@ concepts: [Qualification (adhikāra) for the solemn rites](../concepts/adhikara-
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Kātyāyanaśrautasūtra, catalog:eBharati:kAtyAyanashrautasUtram, https://en.wikipedia.org/wiki/%C5%9Arauta — Extant; the opening adhikāra sūtras 1.1.1–8 are text-located. The White Yajurveda affiliation is standard; the 26-adhyāya count was not re-counted (DCS has 21 chapters only).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

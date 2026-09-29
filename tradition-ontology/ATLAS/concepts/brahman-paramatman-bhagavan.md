@@ -1,6 +1,6 @@
 # Brahman, Paramātman and Bhagavān
 
-`cpt:brahman-paramatman-bhagavan` · `skeleton` · confidence high
+`cpt:brahman-paramatman-bhagavan` · `sourced` · confidence high
 
 **Category:** ultimate
 
@@ -14,4 +14,8 @@
 - same-as-under-standpoint → [The three forms (Brahmā, Viṣṇu, Rudra)](trimurti.md) (cosmic): the one Lord seen by function — rests on [1.2.66-67](../texts/visnu-purana.md#tea-visnu-purana-1-2-66-67)
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:1.1.1, tea:bhagavata-purana:1.2.11, tea:bhagavata-purana:1.3.28, tea:visnu-purana:1.2.66-67, tea:visnu-purana:6.5.74-79 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas, skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

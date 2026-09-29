@@ -12,4 +12,4 @@ Tendai monk of Ōhara, master of shōmyō chant, founder of the Yūzū nenbutsu:
 **Realization — the tradition's account:** In 1117, in samādhi, Amida revealed to him the interfusing nenbutsu (Yūzū nenbutsu engi).
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

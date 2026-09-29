@@ -48,4 +48,4 @@ The Japanese form of the Linji house: introduced by Eisai and Chinese émigré m
 [Are precepts and practice needed once one has awakened?](../debates/daruma-shu-precepts.md), [Kōan introspection and kenshō (Rinzai) or just sitting as practice-realization (Sōtō)?](../debates/rinzai-or-soto.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

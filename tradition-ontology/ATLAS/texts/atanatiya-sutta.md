@@ -30,4 +30,4 @@ terms: [paritta](../terms/paritta.md) · concepts: [The Four Great Kings](../con
 _Notes: SuttaCentral uid dn32; Mahāsaṅgīti title 'Āṭānāṭiyasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

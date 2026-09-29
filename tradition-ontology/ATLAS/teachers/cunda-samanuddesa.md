@@ -9,4 +9,4 @@
 Sāriputta's younger brother and attendant who brought his relics to the Buddha (SN 47.13).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

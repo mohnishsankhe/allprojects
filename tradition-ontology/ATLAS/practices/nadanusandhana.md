@@ -26,7 +26,7 @@ Seated in muktāsana (or siddhāsana) with śāmbhavī mudrā, the ears (and the
   - [Yogaśikhā Upaniṣad](../texts/yogasikha-upanisad.md) — ref: 6.71-73; rests_on: ["tea:yogasikha-upanisad:6.71-73"]
   - [Pāśupatabrahma Upaniṣad](../texts/pasupatabrahma-upanisad.md) — ref: 1 (inner sacrifice); rests_on: ["tea:pasupatabrahma-upanisad:1-inner-sacrifice"]
   - [Gorakṣaśataka](../texts/goraksasataka.md) — ref: 60-62; rests_on: ["tea:goraksasataka:60-62"]
-**Sequences:** [Haṭhapradīpikā: the four stages of nāda](../paths/hyp-nada-four-stages.md), `pth:hatha-four-stages`, [Nādabindu: the stages of the inner sound](../paths/nadabindu-nada-stages.md), [Haṃsa: the ten inner sounds](../paths/hamsa-ten-nadas.md)
+**Sequences:** [Haṭhapradīpikā: the four stages of nāda](../paths/hyp-nada-four-stages.md), [The four stages of yoga practice (ārambha, ghaṭa, paricaya, niṣpatti)](../paths/hatha-four-stages.md), [Nādabindu: the stages of the inner sound](../paths/nadabindu-nada-stages.md), [Haṃsa: the ten inner sounds](../paths/hamsa-ten-nadas.md)
 
 ## The texts' own warnings
 - On whatever sound the mind first fastens it should be kept there; the mind, even if delighted or distracted, is not to be let move elsewhere. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 4.87-89
@@ -39,4 +39,4 @@ _Notes: Later haṭha and yoga Upaniṣads elaborate nāda practice (U28/U29)._
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/maitri-upanisad/segments.j — Located: ChU 3.13.8, BĀU 5.9.1 and MaiU 6.22 ('śravaṇāṅguṣṭhayogenāntarhṛdayākāśaśabdam ākarṇayanti saptavidheyaṃ tasyopamā'). All 4 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 3.13.8; BĀU 5.9.1; MaiU 6.22; ChU 3.13.7-8). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 5 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-ten-sounds (corrected).
 
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._

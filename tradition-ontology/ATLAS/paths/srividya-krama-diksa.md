@@ -21,4 +21,4 @@
 Stages follow the order of the Kalpasūtra's ten sections. Later manuals add further consecrations (e.g. the sixteen-syllable vidyā and pūrṇābhiṣeka) — not recorded here as stages because their sequence was not checked. Bands are interpretive.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._

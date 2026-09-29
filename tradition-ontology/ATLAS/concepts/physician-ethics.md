@@ -13,4 +13,4 @@
 - corresponds-to-in-map → `cpt:four-immeasurables`: maitrī, karuṇā, prīti/harṣa and upekṣā as the physician's conduct — rests on [su.9.26](../texts/caraka-samhita.md#tea-caraka-samhita-su-9-26), [su.8.29](../texts/caraka-samhita.md#tea-caraka-samhita-su-8-29)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._

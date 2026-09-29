@@ -91,7 +91,7 @@ There are two kinds of emptiness-knowledge of the tathāgatagarbha: the tathāga
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [śūnyatā](../terms/sunyata.md) · concepts: [The garbha empty and not empty](../concepts/empty-and-not-empty-garbha.md) · teachers: [Śrīmālā](../teachers/srimala.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
+terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [śūnyatā](../terms/sunyata.md) · concepts: [The garbha empty and not empty](../concepts/empty-and-not-empty-garbha.md) · teachers: [Śrīmālā](../teachers/srimala.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Is the ultimate empty of its own nature like all phenomena (rang stong, self-emptiness), or empty only of what is other than it — the adventitious stains — while not empty of its own nature and qualities (gzhan stong, other-emptiness)?](../debates/rangtong-shentong.md)
 
 ### 10 <a id="tea-srimaladevi-sutra-10"></a>
 `skeleton` · confidence high
@@ -128,4 +128,4 @@ terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [prabhāsvara-citta](../
 _Notes: Chapter list and key lines (221c16, 222a23, 222b05, 222b28) read locally in T353._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

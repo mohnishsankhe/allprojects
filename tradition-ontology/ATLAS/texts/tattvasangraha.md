@@ -31,7 +31,7 @@ Some wrong-viewed people say that inference is not a means of knowledge — yet 
 
 _level: unmarked · standpoint: polemical · path: general · stage: unmarked · types: dispute_
 
-terms: [anumāna](../terms/anumana.md) · concepts: [The critique of inference](../concepts/critique-of-inference.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [anumāna](../terms/anumana.md) · concepts: [The critique of inference](../concepts/critique-of-inference.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 1857-1864 <a id="tea-tattvasangraha-1857-1864"></a>
 `skeleton` · confidence high
@@ -69,7 +69,7 @@ In the examination of one who sees supersensible things, the Mīmāṃsā denial
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, powers-experiences_
 
-concepts: [The Buddha's omniscience](../concepts/omniscience-madhyamaka.md), [Madhyamaka's critique of the Mīmāṃsā](../concepts/madhyamaka-critique-of-mimamsa.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md), [Can any person be omniscient, in particular directly know dharma?](../debates/omniscience.md)
+concepts: [The Buddha's omniscience](../concepts/omniscience-madhyamaka.md), [Madhyamaka's critique of the Mīmāṃsā](../concepts/madhyamaka-critique-of-mimamsa.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md), [Can any person be omniscient, in particular directly know dharma?](../debates/omniscience.md)
 
 ### atmapariksa <a id="tea-tattvasangraha-atmapariksa"></a>
 `skeleton` · confidence low
@@ -87,7 +87,7 @@ In the examination of Īśvara, a permanent creator is refuted: an eternal cause
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, world-fate_
 
-concepts: [Madhyamaka's critique of a creator God](../concepts/madhyamaka-critique-of-isvara.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+concepts: [Madhyamaka's critique of a creator God](../concepts/madhyamaka-critique-of-isvara.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### lokayatapariksa <a id="tea-tattvasangraha-lokayatapariksa"></a>
 `skeleton` · confidence moderate
@@ -120,4 +120,4 @@ teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [Is the u
 _Notes: U12, U31 use this id; U09 used src:tattvasangraha-santaraksita for the same text — dedupe. Verse and chapter totals from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U33-sramana, skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U33-sramana, skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._

@@ -63,7 +63,7 @@ There are three means of knowledge: perception (of the senses and of the self), 
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: teacher-transmission, consciousness-mind_
 
-terms: [pramāṇa](../terms/pramana.md), [āgama](../terms/agama.md) · concepts: [The three means of knowledge (Pāśupata)](../concepts/pasupata-three-pramanas.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [pramāṇa](../terms/pramana.md), [āgama](../terms/agama.md) · concepts: [The three means of knowledge (Pāśupata)](../concepts/pasupata-three-pramanas.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 1.1 <a id="tea-pancarthabhasya-1-1-5"></a>
 `skeleton` · confidence high
@@ -228,4 +228,4 @@ concepts: [The end of suffering (duḥkhānta)](../concepts/duhkhanta.md), [The 
 _Notes: Known from a single rediscovered manuscript published in 1940._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._

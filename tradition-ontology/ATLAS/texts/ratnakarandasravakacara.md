@@ -93,4 +93,4 @@ terms: [pratimā](../terms/pratima.md) · concepts: [The eleven stages of the ho
 _Notes: Title present in the local catalogue (catalog:JainDB:रत्नकरण्ड-श्रावकाचार--समन्तभद्राचार्य); catalogue confirms extant digitized text, not author or date. Verse numbers differ between editions (chapter-wise 1–7 or continuous 1–150)._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

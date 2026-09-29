@@ -26,4 +26,4 @@ Summary only (restricted). After refuge, bodhicitta and supplication to Machig a
 - analogous: [Cremation-ground practice (śmaśāna-sādhana)](smasana-sadhana.md) — both practise in charnel grounds to overcome fear and clinging; their views, deities and aims differ
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

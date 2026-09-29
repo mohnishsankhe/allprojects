@@ -12,4 +12,4 @@ Monks and lay people bind themselves by a common vow to recite and to help one a
   - [Precious Mirror of the Lotus School of Lushan](../texts/lushan-lianzong-baojian.md) — ref: 326a19-25; rests_on: ["tea:lushan-lianzong-baojian:326a12"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

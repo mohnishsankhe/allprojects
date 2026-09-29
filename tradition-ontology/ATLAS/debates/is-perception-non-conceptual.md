@@ -36,4 +36,4 @@ There is no cognition in the world that is not accompanied by word; all knowledg
 **Candidate readings:** P2-standpoint: the Buddhists call 'perception' only the first, non-conceptual moment; Nyāya and Mīmāṃsā extend the word to the conceptual judgment that follows — partly a difference of definition.; P1-level: the Buddhist particular is the ultimately real; the schools that accept real universals describe the conventional object.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

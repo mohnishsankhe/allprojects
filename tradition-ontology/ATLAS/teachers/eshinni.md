@@ -12,4 +12,4 @@
 Shinran's wife, whose letters to their daughter Kakushinni (found in 1921) record Shinran's conversion and her dream of Hōnen as Seishi and Shinran as Kannon.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

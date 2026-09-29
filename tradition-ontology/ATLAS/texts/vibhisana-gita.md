@@ -1,6 +1,6 @@
 # Vibhīṣaṇa Gītā
 
-`src:vibhisana-gita` · `skeleton` · confidence high
+`src:vibhisana-gita` · `sourced` · confidence high
 
 **Language:** Awadhi
 **Family:** vedic
@@ -16,10 +16,10 @@
 
 The chariot that wins victory is dharma: courage and fortitude are its wheels, truth and virtue its banners, strength, discrimination, self-control and benevolence its horses yoked by forgiveness, compassion and equanimity, devotion to God its charioteer; one who has it can conquer even the invincible enemy, saṃsāra.
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 6.80 <a id="tea-vibhisana-gita-6-80"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 Rāma to Vibhīṣaṇa: the chariot that brings victory is another — courage and fortitude are its wheels, truth and good conduct its firm banner and flag, strength, discrimination, self-control and benevolence its horses, yoked with the reins of forgiveness, compassion and equanimity; devotion to God is its wise charioteer, dispassion the shield, contentment the sword, charity the axe, intellect the lance, supreme knowledge the bow, a pure steady mind the quiver, calm and the yamas and niyamas the arrows, worship of brāhmaṇas and the guru the impenetrable armour; one who has this chariot of dharma can conquer even the invincible enemy saṃsāra.
 
@@ -29,4 +29,8 @@ teachers: [Rāma (Dāśarathi)](../teachers/rama.md), [Vibhīṣaṇa](../teache
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/rAmacharitamAnasa/06_lankAkANDa.md — Caupāīs 1-6 before dohā 80 ('rāvanu rathī biratha raghubīrā'), then dohās 80 ka-kha (and ga); confirmed.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

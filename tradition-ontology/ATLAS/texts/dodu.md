@@ -13,4 +13,4 @@ The shortest of the three biographies of Tönpa Shenrab.
 _Notes: Optional (Bön). Not local; from general knowledge._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

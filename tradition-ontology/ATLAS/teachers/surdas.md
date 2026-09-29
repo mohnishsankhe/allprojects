@@ -15,4 +15,4 @@ Blind Braj Bhāṣā poet-singer of Kṛṣṇa's childhood and the gopīs' love
 _Notes: Registry id; primary owner U26/U27. Scholarly account: the sectarian link rests on Vallabhan sources only._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

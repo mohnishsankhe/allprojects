@@ -1,6 +1,6 @@
 # Guptavatī
 
-`src:guptavati` · `skeleton` · confidence moderate
+`src:guptavati` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -16,4 +16,8 @@
 A Śrīvidyā commentary on the Devī Māhātmya, with its mantra-structure and recitation.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Bhaskararaya, https://sreenivasaraos.com/2018/02/26/the-guptavati-and-navarna-mantra-part-one/ — Web: Bhāskararāya Makhin (1690-1785) wrote the Guptavatī on the Devī Māhātmya, completed c. 1740-41 at Cidambaram; Śrīvidyā reading (derives the Navārṇa mantra). Matches the entry's 18th c.
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

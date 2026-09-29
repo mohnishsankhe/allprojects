@@ -119,7 +119,7 @@ Brothers, repeat the name of the attributeless Rām: fix your mind where there i
 
 _level: ultimate · standpoint: seeker · path: sound, devotion · stage: all · types: practice, ultimate_
 
-terms: [nirguṇa](../terms/nirguna.md), [nāma](../terms/nama.md), [Rām (Rāma)](../terms/rama.md) · concepts: [Devotion to the attributeless (nirguṇa bhakti)](../concepts/nirguna-bhakti.md), [The power of the divine name](../concepts/power-of-the-name.md) · practices: [Remembrance of the Name (nām-sumiran)](../practices/nam-simran.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: `dsp:saguna-nirguna`
+terms: [nirguṇa](../terms/nirguna.md), [nāma](../terms/nama.md), [Rām (Rāma)](../terms/rama.md) · concepts: [Devotion to the attributeless (nirguṇa bhakti)](../concepts/nirguna-bhakti.md), [The power of the divine name](../concepts/power-of-the-name.md) · practices: [Remembrance of the Name (nām-sumiran)](../practices/nam-simran.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### Pad ('sādho, sahaj samādhi bhalī …') <a id="tea-kabir-granthavali-sahaj-sadho-sahaj-samadhi-bhali"></a>
 `skeleton` · confidence moderate
@@ -161,4 +161,4 @@ concepts: [Dead while living (jīvan-mṛtak)](../concepts/jivan-mrtak.md) · te
 _Notes: Number of aṅgas (59) and padas (c. 400) from memory; aṅga names given where recalled (moderate-to-low confidence on each)._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

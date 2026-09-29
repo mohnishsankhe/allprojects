@@ -29,4 +29,4 @@ _Notes: No fixed list of ten appears in the critical text of the Nārāyaṇīya
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.5, tea:bhagavad-gita:4.6, tea:bhagavad-gita:4.7, tea:bhagavad-gita:4.8, tea:bhagavad-gita:4.9, tea:bhagavad-gita:4.4 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:9.11, tea:bhagavad-gita:7.24, tea:bhagavad-gita:7.25 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita, extraction:bhagavad-gita/ch04-06, skeleton:U14-visistadvaita, skeleton:U26-regional-bhakti, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita, extraction:bhagavad-gita/ch04-06, skeleton:U14-visistadvaita, skeleton:U26-regional-bhakti, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 18:11 IST._

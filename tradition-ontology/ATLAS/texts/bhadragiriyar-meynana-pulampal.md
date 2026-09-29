@@ -332,7 +332,7 @@ When will I move without distinction of caste, according to the word of the Āga
 
 _level: conventional · standpoint: ethical-social · path: knowledge · stage: all · types: ethics, dispute_
 
-concepts: [The Siddhar critique of caste](../concepts/siddhar-critique-of-caste.md) · teachers: [Pattirakiriyār (Bhadragiri)](../teachers/bhadragiriyar.md) · disputes: `dsp:women-caste-liberation`
+concepts: [The Siddhar critique of caste](../concepts/siddhar-critique-of-caste.md) · teachers: [Pattirakiriyār (Bhadragiri)](../teachers/bhadragiriyar.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 128 <a id="tea-bhadragiriyar-meynana-pulampal-128"></a>
 `skeleton` · confidence high
@@ -479,4 +479,4 @@ concepts: [Liberation (vīṭu, mutti) in the Siddhar songs](../concepts/siddhar
 _Notes: Checked in the local e-text._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._

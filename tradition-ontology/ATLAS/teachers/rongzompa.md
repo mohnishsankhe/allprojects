@@ -13,4 +13,4 @@
 The greatest early Nyingma scholar, translator and commentator on the Guhyagarbha, author of Entering the Way of the Great Vehicle; counted with Longchenpa and Mipham among the 'three omniscient ones' of the Nyingma.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

@@ -14,4 +14,4 @@
 Gaṇeśa Daivajña's handbook computing planetary positions without trigonometric tables; the basis of many almanacs (pañcāṅga) in western and northern India.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

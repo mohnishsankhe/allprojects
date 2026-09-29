@@ -26,4 +26,4 @@ concepts: [The two lists of eighty-four siddhas compared](../concepts/eighty-fou
 _Notes: U49 may treat the siddha-list overlap in detail._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._

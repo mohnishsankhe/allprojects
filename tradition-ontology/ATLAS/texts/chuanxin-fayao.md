@@ -50,7 +50,7 @@ Only be without mind (wuxin) and that is the ultimate; if students of the Way do
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: all · types: practice, karma-liberation_
 
-terms: [wuxin (no-mind)](../terms/wuxin.md) · concepts: [No-mind (wuxin)](../concepts/no-mind.md) · teachers: [Huangbo Xiyun 黃檗希運](../teachers/huangbo.md) · disputes: `dsp:sudden-or-gradual`
+terms: [wuxin (no-mind)](../terms/wuxin.md) · concepts: [No-mind (wuxin)](../concepts/no-mind.md) · teachers: [Huangbo Xiyun 黃檗希運](../teachers/huangbo.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### 381c05 <a id="tea-chuanxin-fayao-381c05"></a>
 `skeleton` · confidence high
@@ -65,4 +65,4 @@ concepts: [Death and dying in Chan](../concepts/chan-death-and-dying.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

@@ -93,7 +93,7 @@ It is not an act (kriyā), since, like knowledge, it does not depend on effort; 
 
 _level: conventional · standpoint: analytic · path: devotion · stage: all · types: karma-liberation, dispute_
 
-concepts: [Devotion as its own fruit (phala-rūpatva)](../concepts/bhakti-as-its-own-fruit.md) · teachers: [Śāṇḍilya](../teachers/sandilya.md) · disputes: `dsp:works-knowledge-grace`
+concepts: [Devotion as its own fruit (phala-rūpatva)](../concepts/bhakti-as-its-own-fruit.md) · teachers: [Śāṇḍilya](../teachers/sandilya.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 29-31 <a id="tea-sandilya-bhakti-sutra-29-31"></a>
 `skeleton` · confidence low
@@ -102,7 +102,7 @@ Kāśyapa holds that devotion is directed to the Lord's majesty, because he is o
 
 _level: bridging · standpoint: polemical · path: devotion, knowledge · stage: all · types: dispute, ultimate_
 
-concepts: [The object of devotion: the Lord as other, the self as one, or both (Śāṇḍilya Sūtra)](../concepts/object-of-bhakti-sbs.md) · teachers: [Śāṇḍilya](../teachers/sandilya.md), [Bādarāyaṇa](../teachers/badarayana.md) · disputes: [Is devotion directed to the Lord as other, to the one self, or to both? (the Śāṇḍilya Sūtra's three teachers)](../debates/object-of-bhakti-sbs.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md), `dsp:saguna-nirguna`
+concepts: [The object of devotion: the Lord as other, the self as one, or both (Śāṇḍilya Sūtra)](../concepts/object-of-bhakti-sbs.md) · teachers: [Śāṇḍilya](../teachers/sandilya.md), [Bādarāyaṇa](../teachers/badarayana.md) · disputes: [Is devotion directed to the Lord as other, to the one self, or to both? (the Śāṇḍilya Sūtra's three teachers)](../debates/object-of-bhakti-sbs.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md), [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 78 <a id="tea-sandilya-bhakti-sutra-78"></a>
 `skeleton` · confidence low
@@ -111,10 +111,10 @@ Those of every birth, down to the lowest, are qualified for devotion, by the tra
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics, dispute_
 
-concepts: [The Lord's devotees as one's masters; service to devotees](../concepts/service-to-devotees.md) · teachers: [Śāṇḍilya](../teachers/sandilya.md) · disputes: [Does birth (caste) determine a devotee's worth, eligibility and place — in the temple, in scripture, and among devotees?](../debates/devotee-birth-and-caste.md), `dsp:women-caste-liberation`
+concepts: [The Lord's devotees as one's masters; service to devotees](../concepts/service-to-devotees.md) · teachers: [Śāṇḍilya](../teachers/sandilya.md) · disputes: [Does birth (caste) determine a devotee's worth, eligibility and place — in the temple, in scripture, and among devotees?](../debates/devotee-birth-and-caste.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 _Notes: Continuous sūtra numbering (100 sūtras in 3 adhyāyas × 2 āhnikas) as recalled; exact numbers not checked — verify against Svapneśvara's edition._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._

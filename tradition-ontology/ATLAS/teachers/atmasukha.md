@@ -1,6 +1,6 @@
 # Ātmasukha
 
-`tch:atmasukha` · `skeleton` · confidence low
+`tch:atmasukha` · `sourced` · confidence low
 
 **Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md)
 **Historicity:** unknown
@@ -10,4 +10,8 @@
 Recalled as author of the Vāsiṣṭhacandrikā on the Laghu Yoga Vāsiṣṭha.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 catalog: confirmed — local:sources_raw/raw_etexts/mixed/mukta/vedAnta/abhinanda_Atmasukha/laghuyogavAsiShTha_with_vAsiShThachandrikA__M00351.md, catalog:Muktabodha:laghuyogavAsiShTha_with_vAsiShThachandrikA__M00351 — Colophon: 'uttamasukhapūjyapādaśiṣyaśrīmadātmasukhaviracitāyāṃ vāsiṣṭhacandrikāyām'. Ātmasukha is the author and the pupil of Uttamasukha; his existence is no longer merely recalled.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

@@ -11,4 +11,4 @@ Initiation by a mahant or ācārya with the giving of the Name and the kaṇṭh
   - [Anurāg Sāgar](../texts/anurag-sagar.md) — ref: on the true Name and the pān-parvānā; rests_on: ["tea:anurag-sagar:hams-and-the-true-name"]
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

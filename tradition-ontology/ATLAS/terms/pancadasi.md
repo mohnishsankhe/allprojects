@@ -15,4 +15,4 @@
 - same-under-standpoint: [gāyatrī](gayatri.md) (Śrīvidyā exegesis) — the Gāyatrī read as Śrīvidyā
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._

@@ -24,7 +24,7 @@ Mahāpajāpatī Gotamī three times asks the Buddha at Kapilavatthu that women m
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: teacher-transmission, dispute_
 
-concepts: [The Bhikkhunī Saṅgha](../concepts/bhikkhuni-sangha.md), [The eight principles of respect](../concepts/garudhamma.md) · teachers: [Mahāpajāpatī Gotamī](../teachers/mahapajapati-gotami.md), [Ānanda](../teachers/ananda.md) · disputes: [On what terms were women ordained, and can the Theravāda bhikkhunī order be restored?](../debates/bhikkhuni-order.md), `dsp:women-caste-liberation`
+concepts: [The Bhikkhunī Saṅgha](../concepts/bhikkhuni-sangha.md), [The eight principles of respect](../concepts/garudhamma.md) · teachers: [Mahāpajāpatī Gotamī](../teachers/mahapajapati-gotami.md), [Ānanda](../teachers/ananda.md) · disputes: [On what terms were women ordained, and can the Theravāda bhikkhunī order be restored?](../debates/bhikkhuni-order.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 11-30 <a id="tea-gotami-sutta-11-30"></a>
 `skeleton` · confidence high
@@ -33,10 +33,10 @@ The eight principles of respect: a nun even a hundred years ordained bows to a m
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: teacher-transmission, dispute_
 
-terms: [garudhamma](../terms/garudhamma.md) · concepts: [The eight principles of respect](../concepts/garudhamma.md) · disputes: [On what terms were women ordained, and can the Theravāda bhikkhunī order be restored?](../debates/bhikkhuni-order.md), `dsp:women-caste-liberation`
+terms: [garudhamma](../terms/garudhamma.md) · concepts: [The eight principles of respect](../concepts/garudhamma.md) · disputes: [On what terms were women ordained, and can the Theravāda bhikkhunī order be restored?](../debates/bhikkhuni-order.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 _Notes: SuttaCentral uid an8.51; Mahāsaṅgīti title 'Gotamīsutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

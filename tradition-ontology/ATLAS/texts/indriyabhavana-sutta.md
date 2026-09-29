@@ -30,4 +30,4 @@ terms: [indriya](../terms/indriya.md), [upekkhā](../terms/upekkha.md) · practi
 _Notes: SuttaCentral uid mn152; Mahāsaṅgīti title 'Indriyabhāvanāsutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

@@ -24,8 +24,8 @@ The doctrine that Īśvara is the maker can be accepted in a true sense: the sou
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-concepts: [The Jain denial of a creator](../concepts/no-creator-jain.md), [Jain views of the other darśanas](../concepts/jain-views-of-other-darsanas.md) · teachers: [Haribhadra Sūri](../teachers/haribhadra.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+concepts: [The Jain denial of a creator](../concepts/no-creator-jain.md), [Jain views of the other darśanas](../concepts/jain-views-of-other-darsanas.md) · teachers: [Haribhadra Sūri](../teachers/haribhadra.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

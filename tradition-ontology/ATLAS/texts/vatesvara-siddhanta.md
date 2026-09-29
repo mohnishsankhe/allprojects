@@ -14,4 +14,4 @@
 Vaṭeśvara's large siddhānta, defending the Āryabhaṭa school against Brahmagupta.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

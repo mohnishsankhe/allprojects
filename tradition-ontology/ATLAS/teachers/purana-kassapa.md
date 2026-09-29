@@ -13,4 +13,4 @@ One of the six famous teachers of the Pali canon, leader of an order. DN 2 repor
 _Notes: All doctrine reported_by_opponent. The commentary's story that he was a slave named 'Full' (pūraṇa) because his birth completed a hundred slaves (Sumaṅgalavilāsinī) is recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._

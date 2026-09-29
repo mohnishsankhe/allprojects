@@ -1,6 +1,6 @@
 # Why did Viṣṇu appear as the Buddha (and how are the Buddhist and Jain teachings to be regarded)?
 
-`dsp:buddha-avatara-purpose` · `skeleton` · confidence moderate
+`dsp:buddha-avatara-purpose` · `sourced` · confidence moderate
 
 
 ## Sides (recorded before any reconciliation)
@@ -30,4 +30,8 @@ The Buddha is the fully awakened teacher of the true dharma, not an avatāra of 
 _Notes: The Jayadeva side is cited under lin:alvar only as the nearest registry Vaiṣṇava-poet lineage; U25 owns Jayadeva._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 1.3.24, local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 3.17-18, local:sources_raw/dcs/corpus/GRETIL/sa_agnipurANa.txt (R. Mitra, Bibl. Indica) 16.1- — Purāṇic side located (BhP 1.3.24; VP 3.17.41-3.18.24; AgP 16.1-4). The Jayadeva and Buddhist sides are other units' and were not re-checked here.
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

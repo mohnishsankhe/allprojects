@@ -118,7 +118,7 @@ Many siddhāntas are renowned, differing in conduct and meaning according to tas
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
-disputes: [What authority do the Veda and the Āgamas have for Vīraśaivas?](../debates/virasaiva-veda-agama-authority.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+disputes: [What authority do the Veda and the Āgamas have for Vīraśaivas?](../debates/virasaiva-veda-agama-authority.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 5.10-13 <a id="tea-siddhantasikhamani-5-10-13"></a>
 `skeleton` · confidence high
@@ -514,7 +514,7 @@ Wherever, in the low or the high, Śaṅkara's devotion is strong, that one is s
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics_
 
-concepts: [Caste among devotees](../concepts/virasaiva-caste-critique.md) · disputes: [Does liṅga-initiation abolish caste and pollution distinctions among devotees?](../debates/virasaiva-caste-and-pollution.md), `dsp:women-caste-liberation`
+concepts: [Caste among devotees](../concepts/virasaiva-caste-critique.md) · disputes: [Does liṅga-initiation abolish caste and pollution distinctions among devotees?](../debates/virasaiva-caste-and-pollution.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 9.6-9 <a id="tea-siddhantasikhamani-9-6-9"></a>
 `skeleton` · confidence high
@@ -534,7 +534,7 @@ That devotion comes from grace, and grace arises from devotion, as the seed from
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: karma-liberation_
 
-concepts: [Devotion (bhakti) in the Vīraśaiva path](../concepts/bhakti-virasaiva.md), [Grace and sanctified food (prasāda)](../concepts/prasada-virasaiva.md) · disputes: `dsp:works-knowledge-grace`
+concepts: [Devotion (bhakti) in the Vīraśaiva path](../concepts/bhakti-virasaiva.md), [Grace and sanctified food (prasāda)](../concepts/prasada-virasaiva.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 9.21-24 <a id="tea-siddhantasikhamani-9-21-24"></a>
 `skeleton` · confidence high
@@ -638,7 +638,7 @@ What need has the one steadfast in the liṅga of karma that leads to heaven, wh
 
 _level: conventional · standpoint: polemical · path: devotion · stage: intermediate (liṅganiṣṭhā-sthala (māheśvara)) · types: karma-liberation, dispute_
 
-disputes: [What authority do the Veda and the Āgamas have for Vīraśaivas?](../debates/virasaiva-veda-agama-authority.md), `dsp:works-knowledge-grace`
+disputes: [What authority do the Veda and the Āgamas have for Vīraśaivas?](../debates/virasaiva-veda-agama-authority.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 10.30-31 <a id="tea-siddhantasikhamani-10-30-31"></a>
 `skeleton` · confidence high
@@ -1067,7 +1067,7 @@ Meritorious or sinful, brāhmaṇa or outcaste — among those joined in the one
 
 _level: bridging · standpoint: ethical-social · path: knowledge · stage: realized (aikya-sthala) · types: ethics_
 
-concepts: [Caste among devotees](../concepts/virasaiva-caste-critique.md) · disputes: [Does liṅga-initiation abolish caste and pollution distinctions among devotees?](../debates/virasaiva-caste-and-pollution.md), `dsp:women-caste-liberation`
+concepts: [Caste among devotees](../concepts/virasaiva-caste-critique.md) · disputes: [Does liṅga-initiation abolish caste and pollution distinctions among devotees?](../debates/virasaiva-caste-and-pollution.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 14.21-27 <a id="tea-siddhantasikhamani-14-21-27"></a>
 `skeleton` · confidence high
@@ -1234,4 +1234,4 @@ teachers: [Reṇukācārya (Revaṇasiddha)](../teachers/renukacarya.md)
 _Notes: Chapter structure, sthala lists and all SSM refs used by this unit were checked against the local e-text (sources_raw/raw_etexts/mixed/mukta/vIrashaiva/…/siddhAntashikhAmaNi__M00207.md). family 'vedic' follows the coverage-map grouping (A7, Vedic family); it does not settle the tradition's internal debate on Vedic authority (see dsp:virasaiva-veda-agama-authority)._
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

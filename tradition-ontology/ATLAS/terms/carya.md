@@ -23,4 +23,4 @@
 **Related:** [vratacaryā](vratacarya.md)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U44-indian-vajrayana, skeleton:U46-kagyu, skeleton:U18-saiva-siddhanta, skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U44-indian-vajrayana, skeleton:U46-kagyu, skeleton:U18-saiva-siddhanta, skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._

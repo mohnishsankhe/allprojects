@@ -72,7 +72,7 @@ Ninth doubt: the West is ten trillion lands away, and the Rebirth Treatise says 
 
 _level: conventional · standpoint: polemical · path: devotion · stage: all · types: dispute_
 
-teachers: `tch:zhiyi` · disputes: `dsp:women-caste-liberation`
+teachers: `tch:zhiyi` · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 80b30 <a id="tea-jingtu-shiyi-lun-80b30"></a>
 `skeleton` · confidence high
@@ -89,4 +89,4 @@ concepts: [Loathing this defiled world, joyfully seeking the Pure Land](../conce
 _Notes: Read locally (T47n1961)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

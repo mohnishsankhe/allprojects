@@ -1,6 +1,6 @@
 # The qualities of the sādhu
 
-`cpt:qualities-of-the-sadhu-bhagavata` · `skeleton` · confidence high
+`cpt:qualities-of-the-sadhu-bhagavata` · `sourced` · confidence high
 
 **Category:** ethics
 
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/prepared/avadhuta-gita/segments.jsonl — BhP 11.11.29-31 lists exactly 28 qualities (7 + 11 + 10); the Avadhūta Gītā repeats them at 8.2-4 in rearranged order (8.2 = 11.11.30, 8.3 = 11.11.31, 8.4 = 11.11.29).
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

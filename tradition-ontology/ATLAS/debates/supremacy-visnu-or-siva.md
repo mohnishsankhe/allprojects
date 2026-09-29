@@ -1,6 +1,6 @@
 # Is Viṣṇu or Śiva (or the Goddess) the supreme deity?
 
-`dsp:supremacy-visnu-or-siva` · `skeleton` · confidence moderate
+`dsp:supremacy-visnu-or-siva` · `sourced` · confidence moderate
 
 
 ## Sides (recorded before any reconciliation)
@@ -40,4 +40,8 @@ The reconciliation claims only that the texts contain their own unity-passages; 
 **The traditions' own objections:** Śrīvaiṣṇava, Mādhva and Gauḍīya authors hold Viṣṇu alone supreme and Śiva a jīva/devotee; Śaiva Siddhānta and Vīraśaiva authors hold Śiva alone supreme; Śāktas the Goddess.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text), local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa), local:sources_raw/dcs/corpus/GRETIL/sa_zivapurANabooks-1-and-7.txt (Venkateshwara ed.), local:sourc — All cited refs located (BhP 1.3.28, 8.3.30, 12.13.16; VP 1.2.66; ŚiP 1.5.10-28; LiP 1.17.33-34; DM MkP 81.65, 84.7; DBhP 3.3; KūP Uparibhāga 1-11 = Īśvara Gītā).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

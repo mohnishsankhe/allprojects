@@ -33,4 +33,4 @@ concepts: [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Recitation o
 _Notes: Twelve colophons and first verse checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._

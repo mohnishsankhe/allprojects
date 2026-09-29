@@ -12,4 +12,4 @@
 Ming Tiantai master of Youxi (Tiantai shan) who explained birth in the Pure Land as the birth of non-birth in ten Tiantai gates.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

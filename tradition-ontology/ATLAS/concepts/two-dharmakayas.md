@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The bodies of the Buddha (sūtra layer)](three-bodies-sutra.md) (absolute): a two-body analysis of the buddha as reality and as saving form, beside the three-body scheme — rests on [2.dharmakaya](../texts/wangsheng-lun-zhu.md#tea-wangsheng-lun-zhu-2-dharmakaya)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

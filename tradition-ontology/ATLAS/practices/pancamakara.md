@@ -18,4 +18,4 @@ In the Kaula mode, wine, meat, fish, grain or gesture, and union are used in sec
 - Rejected by the Samaya school as outside the Vedic path. — [Lakṣmīdharā (commentary on the Saundaryalaharī)](../texts/laksmidhara.md) 31, 41
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._

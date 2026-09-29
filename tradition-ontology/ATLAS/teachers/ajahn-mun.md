@@ -16,4 +16,4 @@ Thai forest master (1870–1949) who revived the dhutaṅga wandering life in th
 **Realization — the tradition's account:** His disciples' biographies say he attained arahantship in a cave in Chiang Mai province, after years of solitary practice and visions.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._

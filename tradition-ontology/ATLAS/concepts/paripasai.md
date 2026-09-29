@@ -13,4 +13,4 @@
 - same-as-under-standpoint → `cpt:sandhya-bhasa` (hermeneutics of veiled speech): the 'intentional/twilight language' of the Buddhist siddhas: comparable device
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._

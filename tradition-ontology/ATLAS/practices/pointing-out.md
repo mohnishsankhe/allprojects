@@ -13,4 +13,4 @@ The guru introduces the disciple directly to the nature of mind — in the manua
   - [Pointing Out the Dharmakāya](../texts/pointing-out-the-dharmakaya.md) — ref: pointing-out; rests_on: ["tea:pointing-out-the-dharmakaya:pointing-out"]
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

@@ -15,7 +15,7 @@ In the Rāma Gītā: negating the whole world by 'not this', tasting the conscio
   - [Nirvāṇaṣaṭkam (Ātmaṣaṭkam)](../texts/nirvana-satkam.md) — ref: 1; rests_on: ["tea:nirvana-satkam:1"]
   - [Daśaślokī (Siddhāntaratna; Vedāntakāmadhenu)](../texts/dasasloki.md) — ref: 1; rests_on: ["tea:dasasloki:1"]
   - [Sāṃkhya Sūtra](../texts/samkhya-sutra.md) — ref: 3.76; rests_on: ["tea:samkhya-sutra:3.76"]
-**Sequences:** `pth:advaita-sadhana`, [The Sāṃkhya Sūtra's path of meditation and discrimination](../paths/samkhya-sutra-path.md)
+**Sequences:** [The Advaita course of practice: purification → fourfold means → hearing, reflection, contemplation → liberation while living → bodiless liberation](../paths/advaita-sadhana.md), [The Sāṃkhya Sūtra's path of meditation and discrimination](../paths/samkhya-sutra-path.md)
 
 _Notes: U06 contribution to a shared practice id (principal source: Bṛhadāraṇyaka Upaniṣad)._
 
@@ -23,5 +23,6 @@ _Notes: U06 contribution to a shared practice id (principal source: Bṛhadāra�
 **Verification checks**
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — All 5 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 2.3.6; BĀU 3.9.26; BĀU 4.2.4; BĀU 4.4.22; BĀU 4.5.15). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — Rests on tea:rama-gita:7.5.17-23, tea:rama-gita:7.5.34-41; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # Sūta Gītā
 
-`src:suta-gita` · `skeleton` · confidence low
+`src:suta-gita` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -15,4 +15,8 @@
 A Śaiva Advaita Gītā in which Sūta expounds the non-dual Self identified with Śiva and the means to its knowledge.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 websearch: confirmed — https://en.krishnakosh.org/krishna/Gita_Rahasya_-Tilak_4 — Tilak's survey of Gītās: the Sūta Gītā is the 8 chapters that follow the Brahma Gītā's 12 in the upper part of the Yajñavaibhavakhaṇḍa. This confirms the recalled 8-chapter count and the location.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

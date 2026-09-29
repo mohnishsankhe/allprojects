@@ -12,4 +12,4 @@
 Heian literatus, organiser of the Kangaku-e (society joining students and Hiei monks in Lotus lecture and nenbutsu), compiler of the Nihon ōjō gokuraku ki; later took the tonsure as Jakushin.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

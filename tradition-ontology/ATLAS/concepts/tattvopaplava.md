@@ -13,4 +13,4 @@
 - contrasts-with → [Perception the only means of knowledge](pratyaksa-only.md): Jayarāśi overturns even perception — rests on [1](../texts/tattvopaplavasimha.md#tea-tattvopaplavasimha-1)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._

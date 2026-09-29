@@ -72,10 +72,10 @@ Chapter on the Mīmāṃsā: the Mīmāṃsakas' view that the Veda is authorles
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, sound-language_
 
-concepts: [Madhyamaka's critique of the Mīmāṃsā](../concepts/madhyamaka-critique-of-mimamsa.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [Madhyamaka's critique of the Mīmāṃsā](../concepts/madhyamaka-critique-of-mimamsa.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 
 _Notes: Chapter titles and verse total from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._

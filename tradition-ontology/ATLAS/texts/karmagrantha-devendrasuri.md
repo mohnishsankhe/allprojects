@@ -14,4 +14,4 @@
 Devendrasūri's Prakrit manuals of karma theory (karma-vipāka, bandha-svāmitva by guṇasthāna, etc.), the standard Śvetāmbara school texts on the kinds, durations and fruition of karma.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

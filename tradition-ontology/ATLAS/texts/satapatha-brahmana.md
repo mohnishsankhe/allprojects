@@ -262,7 +262,7 @@ terms: [manas](../terms/manas.md) · concepts: [The internalized sacrifice](../c
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: advanced · types: karma-liberation_
 
-terms: [vidyā](../terms/vidya.md) · disputes: `dsp:works-knowledge-grace`
+terms: [vidyā](../terms/vidya.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 10.6.1.1-11 <a id="tea-satapatha-brahmana-10-6-1-1-11"></a>
 `sourced` · confidence high
@@ -477,4 +477,4 @@ _Notes: Commentaries: Harisvāmin (partial), Sāyaṇa. See also the Kāṇva re
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Śatapathabrāhmaṇa, catalog:GRETIL-dev:satapatha-brahmana, https://en.wikipedia.org/wiki/Shatapatha_Brahmana — Wikipedia confirms the Mādhyandina recension (14 kāṇḍas, 100 adhyāyas), its place in the late Brāhmaṇa period (8th–6th c. BCE, matching the entry), and the Yājñavalkya/Śāṇḍilya authorities. The summary's internal references were text-located, including BĀU as ŚB 14.4–9 and the vaṃśa ending in Yājñavalkya at 14.9.4.33.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # Ṛṣabha (Ṛṣabhanātha, Ādinātha)
 
-`tch:rsabha` · `skeleton` · confidence high
+`tch:rsabha` · `sourced` · confidence high
 
 **Alternate names:** Ṛṣabhadeva, Ādinātha ('first lord'), Usaha (Prakrit), Vṛṣabha
 **Lineages:** [Jainism (Jaina dharma)](../lineages/jainism.md), [Śvetāmbara](../lineages/svetambara.md), [Digambara](../lineages/digambara.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -15,4 +15,8 @@ The first Tīrthaṅkara of this era, emblem the bull, son of the last patriarch
 _Notes: The Śvetāmbara account makes Marudevī the first liberated soul of this era; Digambara accounts differ on her._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 1.3.13; 5.5.1; 5.6.9 — BhP 1.3.13 (eighth avatāra, son of Nābhi and Merudevī), 5.5.1, 5.6.9 located.
+
+_Contributed by: skeleton:U34-jain-canon, skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

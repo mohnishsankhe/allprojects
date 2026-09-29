@@ -15,4 +15,4 @@ Vāmadeva's treatise on birth and death from the standpoint of non-dual Śaivism
   - kind: original; name: Kashmir Series of Texts and Studies (KSTS), Srinagar 19 (1918)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._

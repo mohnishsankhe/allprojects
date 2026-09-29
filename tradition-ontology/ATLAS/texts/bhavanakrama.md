@@ -104,8 +104,8 @@ There is no way other than correct analysis (bhūtapratyavekṣā) by which to a
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: advanced · types: practice, consciousness-mind_
 
-concepts: [Correct analysis precedes non-conceptuality](../concepts/bhutapratyaveksa.md), [Non-conceptual wisdom reached through analysis](../concepts/nonconceptual-wisdom.md) · practices: [Analytical meditation on emptiness](../practices/analytical-meditation-on-emptiness.md) · obstacles: [Mere non-thought mistaken for wisdom](../obstacles/mere-non-thought.md) · teachers: [Kamalaśīla](../teachers/kamalasila.md) · disputes: `dsp:sudden-or-gradual`
+concepts: [Correct analysis precedes non-conceptuality](../concepts/bhutapratyaveksa.md), [Non-conceptual wisdom reached through analysis](../concepts/nonconceptual-wisdom.md) · practices: [Analytical meditation on emptiness](../practices/analytical-meditation-on-emptiness.md) · obstacles: [Mere non-thought mistaken for wisdom](../obstacles/mere-non-thought.md) · teachers: [Kamalaśīla](../teachers/kamalasila.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._

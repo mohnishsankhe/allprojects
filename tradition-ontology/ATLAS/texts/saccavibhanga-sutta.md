@@ -30,4 +30,4 @@ concepts: [The four noble truths](../concepts/four-noble-truths.md) · teachers:
 _Notes: SuttaCentral uid mn141; Mahāsaṅgīti title 'Saccavibhaṅgasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

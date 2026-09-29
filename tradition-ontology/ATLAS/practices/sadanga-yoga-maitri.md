@@ -10,11 +10,11 @@ Breath-control, withdrawal of the senses, meditation, concentration, contemplati
 **Signs of progress:** seeing the golden-coloured maker; faults do not approach the knower, as animals avoid a burning mountain (6.18); becoming selfless (nirātman), the mark of liberation (6.20)
 **Sources:** 
   - [Maitrī Upaniṣad](../texts/maitri-upanisad.md) — ref: 6.18-6.21; rests_on: ["tea:maitri-upanisad:6.18", "tea:maitri-upanisad:6.19", "tea:maitri-upanisad:6.20", "tea:maitri-upanisad:6.21"]
-**Sequences:** `pth:maitri-six-limbs`
+**Sequences:** [The six-limbed yoga of the Maitrī Upaniṣad (ṣaḍaṅga-yoga)](../paths/maitri-six-limbs.md)
 
 ## Equivalents (interpretation layer)
 - partial: [The six-branch yoga (ṣaḍaṅgayoga)](sadanga-yoga.md) — five limb-names shared; tarka (Maitrī) versus anusmṛti (Buddhist); order and goal differ
-- partial: `pth:yoga-sutra-eight-limbs` — shares prāṇāyāma, pratyāhāra, dhyāna, dhāraṇā and samādhi with Patañjali's limbs but has tarka and a different order
+- partial: [Patañjali's eight limbs of yoga (aṣṭāṅga-yoga)](../paths/yoga-sutra-eight-limbs.md) — shares prāṇāyāma, pratyāhāra, dhyāna, dhāraṇā and samādhi with Patañjali's limbs but has tarka and a different order
 
 _Notes: U49 contribution: cross-family equivalents only (other fields copied unchanged)._
 
@@ -23,4 +23,4 @@ _Notes: U49 contribution: cross-family equivalents only (other fields copied unc
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering) — Located: MaiU 6.18 ('prāṇāyāmaḥ pratyāhāro dhyānaṃ dhāraṇā tarkaḥ samādhiḥ ṣaḍaṅga ity ucyate yogaḥ'), 6.19 (breath in the turya), 6.20 (tongue at the palate; 'brahma tarkeṇa paśyati') and 6.21 (suṣumṇā). The palate practice is recorded only in the text's words. All 1 Upaniṣad refs cited in the entry are located in the prepared segments (MaiU 6.18-6.21). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U49-cross-family, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U49-cross-family, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

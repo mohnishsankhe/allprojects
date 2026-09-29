@@ -11,4 +11,4 @@ Teaching the sūtra seated on the Tathāgata's seat (emptiness), wearing his rob
   - [Saddharmapuṇḍarīka-sūtra](../texts/saddharmapundarika.md) — ref: ch. 10, 14; rests_on: ["tea:saddharmapundarika:10", "tea:saddharmapundarika:14"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

@@ -60,4 +60,4 @@ _none recorded_
 _Notes: Restricted content: the body-offering is recorded here only as summary with the tradition's own warnings (see prc:chod)._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # Pilgrimage to tīrthas
 
-`prc:tirthayatra` · `skeleton` · confidence high
+`prc:tirthayatra` · `sourced` · confidence high
 
 **Category:** devotion-service
 **Convergence:** 3 independent lineage(s): [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Vārkarī sampradāya](../lineages/varkari.md)
@@ -21,4 +21,8 @@ Journeying to holy places, bathing, worship, gifts and śrāddha there; seven ci
 _Notes: U05's contribution; the Āraṇyaka's tīrtha lists are not itemized here._
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:1.13.10, tea:garuda-purana:2.38.5, tea:skanda-purana:4.1.6.28-45 — SkP 4.1.6.28-45 (4.1.6.34 the greedy remain impure), GP 2.38.5-6, BhP 1.13.10 located. All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

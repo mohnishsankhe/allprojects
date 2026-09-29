@@ -383,7 +383,7 @@ terms: [ahaṃkāra](../terms/ahamkara.md), [nairātmya](../terms/nairatmya.md) 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, world-fate_
 
-terms: [īśvara](../terms/isvara.md) · concepts: [Madhyamaka's critique of a creator God](../concepts/madhyamaka-critique-of-isvara.md) · teachers: [Śāntideva](../teachers/santideva.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [īśvara](../terms/isvara.md) · concepts: [Madhyamaka's critique of a creator God](../concepts/madhyamaka-critique-of-isvara.md) · teachers: [Śāntideva](../teachers/santideva.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 9.150-151 <a id="tea-bodhicaryavatara-9-150-151"></a>
 `skeleton` · confidence high
@@ -409,4 +409,4 @@ concepts: [The awakening mind (bodhicitta) in the Madhyamaka manuals](../concept
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._

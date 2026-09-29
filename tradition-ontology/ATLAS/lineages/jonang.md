@@ -58,9 +58,9 @@ A Tibetan school centred on the Kālacakra tantra and on the view of 'other-empt
 `pth:kalacakra-six-branches`
 
 ## Debates
-[Is the Kālacakra an authentic Buddhist tantra — and, for the Jonang, the definitive one?](../debates/kalacakra-authenticity.md), [Which turning of the dharma-wheel is of definitive meaning (nītārtha): the teaching of emptiness (second) or the 'well-distinguished' teaching of the three natures and of buddha-nature (third)?](../debates/which-turning-is-definitive.md)
+[Is the Kālacakra an authentic Buddhist tantra — and, for the Jonang, the definitive one?](../debates/kalacakra-authenticity.md), [Is the ultimate empty of its own nature like all phenomena (rang stong, self-emptiness), or empty only of what is other than it — the adventitious stains — while not empty of its own nature and qualities (gzhan stong, other-emptiness)?](../debates/rangtong-shentong.md), [Which turning of the dharma-wheel is of definitive meaning (nītārtha): the teaching of emptiness (second) or the 'well-distinguished' teaching of the three natures and of buddha-nature (third)?](../debates/which-turning-is-definitive.md)
 
 _Notes: Historical metadata (scholarly account): the conversion of Takten Phuntsok Ling (renamed Ganden Phuntsok Ling) and the sealing of Jonang printing blocks are usually dated c. 1650–1658, after Tāranātha's death; the reasons given in the sources are both doctrinal and political (Tāranātha's patrons were the Tsang rulers defeated in 1642). Exact years: moderate confidence. Forms of other-emptiness were also held outside the Jonang — by the Sakya scholar Shākya Chokden (tch:shakya-chokden, who accepted both self- and other-emptiness Madhyamaka as valid), the 8th Situ (tch:situ-panchen) and Jamgön Kongtrul (tch:jamgon-kongtrul); these are referenced, not merged into the Jonang view._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

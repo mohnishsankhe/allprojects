@@ -17,4 +17,4 @@ Successive visualizations of the setting sun, water and ice, the jewelled ground
 - Beings' hindrances are heavy, the object subtle and the mind coarse; contemplation is hard to achieve, hence the Buddha urged calling the name. — [Hymns of Worship for Birth (Wangsheng lizan ji)](../texts/wangsheng-lizan.md) 439a27-b01
 
 ---
-_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

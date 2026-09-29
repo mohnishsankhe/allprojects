@@ -12,4 +12,4 @@ Uttering the mantra without its meaning bears no fruit, like oblation on ash; it
   - [Varivasyārahasya](../texts/varivasya-rahasya.md) — ref: 54-56; rests_on: ["tea:varivasya-rahasya:54-56"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._

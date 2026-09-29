@@ -1,6 +1,6 @@
 # The three contemplations (bhāvanā)
 
-`cpt:three-bhavanas` · `skeleton` · confidence high
+`cpt:three-bhavanas` · `sourced` · confidence high
 
 **Category:** consciousness-states
 **Members:** brahma-bhāvanā, karma-bhāvanā, ubhaya-bhāvanā
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:visnu-purana:6.7.47-55 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

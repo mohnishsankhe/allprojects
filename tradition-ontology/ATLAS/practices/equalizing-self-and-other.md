@@ -17,4 +17,4 @@ Reflecting that oneself and all others equally want happiness and do not want su
 _Notes: Contribution of U47 (Sakya/Kadam/Gelug presentation)._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._

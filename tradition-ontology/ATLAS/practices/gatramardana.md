@@ -19,4 +19,4 @@ When sweat arises in the first grade of breath-control it is to be rubbed into t
 - If the sweat is not rubbed in, the element of the body is lost. — [Śiva Saṃhitā](../texts/siva-samhita.md) 3.40
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:11 IST._

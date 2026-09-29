@@ -33,4 +33,4 @@ _Notes: Shared slug with the Sanskrit term._
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.13 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch10-12, skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U44-indian-vajrayana, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch10-12, skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U44-indian-vajrayana, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._

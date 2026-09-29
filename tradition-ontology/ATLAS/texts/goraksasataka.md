@@ -127,7 +127,7 @@ Above the bulb the power kuṇḍalinī lies coiled eightfold, ever closing with
 
 _level: conventional · standpoint: analytic · path: body-breath · stage: intermediate · types: body-layers, practice_
 
-terms: [kuṇḍalinī](../terms/kundalini.md), [suṣumnā](../terms/susumna.md) · concepts: [Kuṇḍalinī](../concepts/kundalini.md) · disputes: [Is awakening reached by the effortful arousal of kuṇḍalinī, or does it lie in the innate (sahaja), which such practices do not reach?](../debates/natha-effort-or-sahaja.md), `dsp:kundalini-effort-grace`
+terms: [kuṇḍalinī](../terms/kundalini.md), [suṣumnā](../terms/susumna.md) · concepts: [Kuṇḍalinī](../concepts/kundalini.md) · disputes: [Is awakening reached by the effortful arousal of kuṇḍalinī, or does it lie in the innate (sahaja), which such practices do not reach?](../debates/natha-effort-or-sahaja.md), [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
 
 ### 32 <a id="tea-goraksasataka-32"></a>
 `skeleton` · confidence high
@@ -439,4 +439,4 @@ terms: [pada](../terms/pada.md) · concepts: [Equal taste (samarasa)](../concept
 _Notes: Refs in this shard follow the Kuvalayananda–Shukla (GRETIL) numbering. U28 may add the haṭha analysis._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._

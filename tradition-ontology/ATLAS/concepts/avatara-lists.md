@@ -1,6 +1,6 @@
 # The lists of avatāras
 
-`cpt:avatara-lists` · `skeleton` · confidence moderate
+`cpt:avatara-lists` · `sourced` · confidence moderate
 
 **Category:** ultimate
 **Members:** ten: Matsya, Kūrma, Varāha, Narasiṃha, Vāmana, Paraśurāma, Rāma, Kṛṣṇa/Balarāma, Buddha, Kalki, twenty-two (BhP 1.3): Kumāras, Varāha, Nārada, Nara-Nārāyaṇa, Kapila, Dattātreya, Yajña, Ṛṣabha, Pṛthu, Matsya, Kūrma, Dhanvantari, Mohinī, Narasiṃha, Vāmana, Paraśurāma, Vyāsa, Rāma, Balarāma, Kṛṣṇa, Buddha, Kalki
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: partially-confirmed — rests_on: tea:agni-purana:16.8-13, tea:bhagavata-purana:1.3.6-25, tea:garuda-purana:1.142 — BhP 1.3.6-25, BhP 2.7 (2.7.11 Hayaśīrṣa) and Agni 2-16 (anukramaṇī) and 49 ('matsyādipratimālakṣaṇa') located. But the Garuḍa 1.142 claim is not supported: that chapter names Matsya, Kūrma, Dhanvantari, Mohinī, Varāha, Narasiṃha, Paraśurāma and Rāma with his brothers (no Vāmana, Kṛṣṇa, Buddha or Kalki). The definition should not cite GP 1.142 for the standard ten (Phase D). The teachings it rests on were located; tea:garuda-purana:1.142 has a partial or corrected result (see its check).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

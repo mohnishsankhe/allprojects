@@ -45,7 +45,7 @@ A seventeenth-century lay mystical movement of north-Indian Jains centred on Ban
 [Bheda-vijñāna (discriminating self from non-self)](../practices/bhedavijnana.md)
 
 ## Path maps
-`pth:jain-fourteen-gunasthanas`, [Outer self, inner self, supreme self](../paths/three-atmans.md)
+[The fourteen stages of quality (guṇasthāna)](../paths/jain-fourteen-gunasthanas.md), [Outer self, inner self, supreme self](../paths/three-atmans.md)
 
 ## Debates
 [Is knowledge of the pure self by the ultimate standpoint the whole path, so that outward rites, worship and monastic authority are not needed?](../debates/adhyatma-niscaya-and-ritual.md)
@@ -53,4 +53,4 @@ A seventeenth-century lay mystical movement of north-Indian Jains centred on Ban
 _Notes: Owned by U35. Membership of Dyānatrāy, Bhūdhardās and Daulatrām in the movement is by affinity of their Hindi Adhyātma writing (moderate/low confidence); Ṭoḍarmal is normally counted in the Digambara Terāpantha._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

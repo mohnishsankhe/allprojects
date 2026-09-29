@@ -18,4 +18,4 @@ Calm is the path of gathering the names of the teachings into one; lifting the s
 - partial: [Calm abiding (Kamalaśīla)](samatha-bhavanakrama.md) — Kamalaśīla's presentation draws on the Yogācāra nine stages and five faults
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

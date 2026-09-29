@@ -98,7 +98,7 @@ Perception, inference and testimony are the means of valid cognition.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: [pramāṇa](../terms/pramana.md), [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md), [āgama](../terms/agama.md) · concepts: [The five activities of the mind (pañca vṛttayaḥ)](../concepts/five-vrttis.md), [Means of valid knowledge (pramāṇa)](../concepts/pramana.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [pramāṇa](../terms/pramana.md), [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md), [āgama](../terms/agama.md) · concepts: [The five activities of the mind (pañca vṛttayaḥ)](../concepts/five-vrttis.md), [Means of valid knowledge (pramāṇa)](../concepts/pramana.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 1.8 <a id="tea-yoga-sutra-1-8"></a>
 `skeleton` · confidence high
@@ -274,7 +274,7 @@ Or [samādhi is near] through devotion to Īśvara (īśvara-praṇidhāna).
 
 _level: conventional · standpoint: devotional · path: devotion, meditation · stage: all · types: practice_
 
-terms: [īśvara-praṇidhāna](../terms/isvara-pranidhana.md), [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · practices: [Devotion to Īśvara (īśvara-praṇidhāna)](../practices/isvara-pranidhana.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md)
+terms: [īśvara-praṇidhāna](../terms/isvara-pranidhana.md), [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · practices: [Devotion to Īśvara (īśvara-praṇidhāna)](../practices/isvara-pranidhana.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md)
 
 ### 1.24 <a id="tea-yoga-sutra-1-24"></a>
 `skeleton` · confidence high
@@ -285,7 +285,7 @@ terms: [īśvara-praṇidhāna](../terms/isvara-pranidhana.md), [īśvara](../te
 
 _level: ultimate · standpoint: divine · path: devotion, knowledge · stage: all · types: ultimate_
 
-terms: [īśvara](../terms/isvara.md), [puruṣa-viśeṣa](../terms/purusa-visesa.md), [kleśa](../terms/klesa.md), [karmāśaya](../terms/karmasaya.md), [vipāka](../terms/vipaka.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md)
+terms: [īśvara](../terms/isvara.md), [puruṣa-viśeṣa](../terms/purusa-visesa.md), [kleśa](../terms/klesa.md), [karmāśaya](../terms/karmasaya.md), [vipāka](../terms/vipaka.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md)
 
 ### 1.25 <a id="tea-yoga-sutra-1-25"></a>
 `skeleton` · confidence high
@@ -296,7 +296,7 @@ In him the seed of omniscience is unsurpassed.
 
 _level: ultimate · standpoint: divine · path: devotion, knowledge · stage: all · types: ultimate_
 
-terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Omniscience in Yoga](../concepts/omniscience-in-yoga.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md)
+terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Omniscience in Yoga](../concepts/omniscience-in-yoga.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md)
 
 ### 1.26 <a id="tea-yoga-sutra-1-26"></a>
 `skeleton` · confidence high
@@ -2172,4 +2172,4 @@ terms: [kaivalya](../terms/kaivalya.md), [pratiprasava](../terms/pratiprasava.md
 _Notes: Correction to the task list: the vulgate count is 195 (51/55/55/34), not 196; see structure._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:11 IST._

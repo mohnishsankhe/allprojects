@@ -16,4 +16,4 @@
 **Related:** [indriya](indriya.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:11 IST._

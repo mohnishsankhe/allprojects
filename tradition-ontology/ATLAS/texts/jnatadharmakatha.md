@@ -57,7 +57,7 @@ Mallī, daughter of King Kumbha of Mithilā, was the nineteenth Tīrthaṅkara. 
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: advanced · types: narrative, karma-liberation, ethics_
 
-concepts: [Liberation of women (strī-mukti)](../concepts/strimukti.md), [The ten wonders (accheraga) of this era](../concepts/ten-accheras.md) · teachers: [Mallinātha (Mallī)](../teachers/mallinatha.md) · disputes: [Was the nineteenth Tīrthaṅkara, Malli, a woman?](../debates/mallinatha-gender.md), `dsp:women-caste-liberation`
+concepts: [Liberation of women (strī-mukti)](../concepts/strimukti.md), [The ten wonders (accheraga) of this era](../concepts/ten-accheras.md) · teachers: [Mallinātha (Mallī)](../teachers/mallinatha.md) · disputes: [Was the nineteenth Tīrthaṅkara, Malli, a woman?](../debates/mallinatha-gender.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 1.16 <a id="tea-jnatadharmakatha-1-16"></a>
 `skeleton` · confidence moderate
@@ -72,4 +72,4 @@ concepts: [Worship of Jina images](../concepts/jina-image-worship.md) · practic
 _Notes: The title's first word is read either as 'examples' (jñāta) or as the Jñāta (Nāya) clan of Mahāvīra._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

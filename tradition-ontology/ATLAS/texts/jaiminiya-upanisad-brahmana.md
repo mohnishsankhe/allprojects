@@ -20,4 +20,4 @@ _Notes: Correction to the task list: it is a Brāhmaṇa (an 'Upaniṣad Brāhma
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Jaiminīya-Upaniṣad-Brāhmaṇa, https://en.wikipedia.org/wiki/Jaiminiya_Upanishad_Brahmana — Extant (DCS: 4 adhyāyas). Wikipedia: JUB 4.18–21 became the Kena Upaniṣad, and it dates from the Brāhmaṇa period, probably before the 6th c. BCE; the entry's 7th–6th c. BCE estimate is consistent. The '4.10 in Oertel's numbering' note was not checked.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

@@ -29,7 +29,7 @@ Where the five (positive) means of knowledge do not arise with respect to a thin
 
 _level: unmarked · standpoint: analytic · path: general · stage: all · types: consciousness-mind_
 
-terms: [abhāva-pramāṇa](../terms/abhava-pramana.md), [anupalabdhi](../terms/anupalabdhi.md) · concepts: [Non-apprehension as a means of knowledge](../concepts/anupalabdhi.md), [The four kinds of absence](../concepts/kinds-of-absence.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [abhāva-pramāṇa](../terms/abhava-pramana.md), [anupalabdhi](../terms/anupalabdhi.md) · concepts: [Non-apprehension as a means of knowledge](../concepts/anupalabdhi.md), [The four kinds of absence](../concepts/kinds-of-absence.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### apohavada <a id="tea-slokavarttika-apohavada"></a>
 `skeleton` · confidence moderate
@@ -78,7 +78,7 @@ It is settled that defects in verbal testimony arise from dependence on the spea
 
 _level: unmarked · standpoint: analytic · path: sound · stage: all · types: sound-language_
 
-concepts: [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md), [Intrinsic validity (svataḥ-prāmāṇya)](../concepts/intrinsic-validity.md) · obstacles: [Defects of a (human) speaker](../obstacles/purusa-dosa.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md), [Intrinsic validity (svataḥ-prāmāṇya)](../concepts/intrinsic-validity.md) · obstacles: [Defects of a (human) speaker](../obstacles/purusa-dosa.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### codana.110-112 <a id="tea-slokavarttika-codana-110-112"></a>
 `skeleton` · confidence high
@@ -100,7 +100,7 @@ An omniscient being is not seen by us now; and the supposition that one existed 
 
 _level: unmarked · standpoint: polemical · path: general · stage: all · types: powers-experiences, dispute_
 
-concepts: [Omniscience (sarvajñatva)](../concepts/omniscience.md) · disputes: [Can any person be omniscient, in particular directly know dharma?](../debates/omniscience.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [Omniscience (sarvajñatva)](../concepts/omniscience.md) · disputes: [Can any person be omniscient, in particular directly know dharma?](../debates/omniscience.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### codana.130 <a id="tea-slokavarttika-codana-130"></a>
 `skeleton` · confidence high
@@ -164,7 +164,7 @@ At the beginning of creation there could be no action, and such a time is not ac
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate, dispute_
 
-concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Creation and dissolution of the world](../concepts/creation-and-dissolution.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Was the world created, and does it undergo total dissolution?](../debates/creation-and-dissolution.md)
+concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Creation and dissolution of the world](../concepts/creation-and-dissolution.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Was the world created, and does it undergo total dissolution?](../debates/creation-and-dissolution.md)
 
 ### sambandhaksepaparihara.52-55 <a id="tea-slokavarttika-sambandhaksepaparihara-52-55"></a>
 `skeleton` · confidence high
@@ -175,7 +175,7 @@ With no beings yet to pity, he could feel no compassion; were he moved by compas
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate, dispute_
 
-concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### sambandhaksepaparihara.66-68 <a id="tea-slokavarttika-sambandhaksepaparihara-66-68"></a>
 `skeleton` · confidence high
@@ -186,7 +186,7 @@ If the Veda began (with a creator), its being unmade could not be held, and its 
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate, dispute_
 
-concepts: [Creation and dissolution of the world](../concepts/creation-and-dissolution.md), [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md) · disputes: [Was the world created, and does it undergo total dissolution?](../debates/creation-and-dissolution.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [Creation and dissolution of the world](../concepts/creation-and-dissolution.md), [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md) · disputes: [Was the world created, and does it undergo total dissolution?](../debates/creation-and-dissolution.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### sambandhaksepaparihara.102-104 <a id="tea-slokavarttika-sambandhaksepaparihara-102-104"></a>
 `skeleton` · confidence high
@@ -197,7 +197,7 @@ Knowledge as the cause of release is not known by the senses, and the Veda does 
 
 _level: conventional · standpoint: polemical · path: knowledge, action · stage: all · types: karma-liberation, dispute_
 
-concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [The self (ātman)](../concepts/self.md) · disputes: `dsp:works-knowledge-grace`
+concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [The self (ātman)](../concepts/self.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### sambandhaksepaparihara.105-107 <a id="tea-slokavarttika-sambandhaksepaparihara-105-107"></a>
 `skeleton` · confidence high
@@ -219,7 +219,7 @@ For those who know the reality of the self, when earlier actions are exhausted b
 
 _level: conventional · standpoint: seeker · path: action, knowledge · stage: advanced (mokṣārthin) · types: karma-liberation, practice_
 
-terms: [nitya-karma](../terms/nitya-karma.md), [naimittika-karma](../terms/naimittika-karma.md), [kāmya-karma](../terms/kamya-karma.md), [niṣiddha-karma](../terms/nisiddha-karma.md), [pratyavāya](../terms/pratyavaya.md) · concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [Obligatory, occasional, desire-prompted and prohibited acts](../concepts/classification-of-acts.md) · practices: [Performing obligatory and occasional rites while abstaining from desire-prompted and prohibited acts](../practices/nitya-naimittika-anusthana.md) · obstacles: [Pratyavāya (demerit of omission)](../obstacles/pratyavaya.md), [Bondage through desire-prompted acts](../obstacles/kamya-karma-bondage.md) · disputes: `dsp:works-knowledge-grace`, [Do obligatory (nitya) rites have a result, and why are they performed?](../debates/nitya-karma-result.md)
+terms: [nitya-karma](../terms/nitya-karma.md), [naimittika-karma](../terms/naimittika-karma.md), [kāmya-karma](../terms/kamya-karma.md), [niṣiddha-karma](../terms/nisiddha-karma.md), [pratyavāya](../terms/pratyavaya.md) · concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [Obligatory, occasional, desire-prompted and prohibited acts](../concepts/classification-of-acts.md) · practices: [Performing obligatory and occasional rites while abstaining from desire-prompted and prohibited acts](../practices/nitya-naimittika-anusthana.md) · obstacles: [Pratyavāya (demerit of omission)](../obstacles/pratyavaya.md), [Bondage through desire-prompted acts](../obstacles/kamya-karma-bondage.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md), [Do obligatory (nitya) rites have a result, and why are they performed?](../debates/nitya-karma-result.md)
 
 ### sambandhaksepaparihara.113 <a id="tea-slokavarttika-sambandhaksepaparihara-113"></a>
 `skeleton` · confidence high
@@ -261,8 +261,8 @@ All study of the Veda is preceded by the teacher's study of it, because it is 's
 
 _level: unmarked · standpoint: analytic · path: sound · stage: all · types: teacher-transmission, sound-language_
 
-concepts: [The injunction of Vedic study and the transmission of the Veda](../concepts/adhyayana-vidhi.md), [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md) · practices: [Vedic study (vedādhyayana / svādhyāya)](../practices/vedadhyayana.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [The injunction of Vedic study and the transmission of the Veda](../concepts/adhyayana-vidhi.md), [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md) · practices: [Vedic study (vedādhyayana / svādhyāya)](../practices/vedadhyayana.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._

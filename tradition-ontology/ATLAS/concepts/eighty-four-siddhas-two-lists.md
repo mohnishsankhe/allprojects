@@ -10,7 +10,7 @@
 ## Definitions
 - [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md): The Tibetan-transmitted list (Abhayadatta's Lives, Tōh 2292 songs) of eighty-four Buddhist siddhas — among them Lūipa, Virūpa, Saraha, Mīnapa, Gorakṣa, Cauraṅgī, Kāṇha, Jālandhara, Tilopa, Nāropa, and four women.
 - [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md): The Nāth tradition speaks of eighty-four siddhas and nine Nāths; its lists (e.g. the Haṭhapradīpikā's mahāsiddhas) mix Nāth names with names also found in the Buddhist list (Mīna, Cauraṅgī, Virūpākṣa, Carpaṭi, Kānerī).
-- [Unaffiliated regional bhakti poets (classificatory grouping)](../lineages/regional-bhakti-poets.md): A Maithili list of eighty-four (Varṇaratnākara, early 14th c.) mixes Nāth and Buddhist names.
+- [Tantra as a movement across the traditions (Tantraśāstra; the Mantramārga / Mantranaya current)](../lineages/tantra-movement.md): A Maithili prose work's list of eighty-four (Varṇaratnākara, early 14th c.) mixes Nāth and Buddhist names.
 
 ## Relations (interpretation layer)
 - corresponds-to-in-map → [The eighty-four siddhas](eighty-four-siddhas.md): the Buddhist list
@@ -22,4 +22,4 @@
 _Notes: The number 84 is shared; the membership differs. The overlap is recorded as brw:natha-mahasiddha (U21) with U49 evidence._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:11 IST._

@@ -70,7 +70,7 @@ The lowest of the low grade: a person who has done the five grave offences and t
 
 _level: conventional · standpoint: seeker · path: sound, devotion · stage: all · types: death-dying, karma-liberation_
 
-concepts: [The nine grades of birth in Sukhāvatī](../concepts/nine-grades-of-rebirth.md) · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · disputes: `dsp:works-knowledge-grace`
+concepts: [The nine grades of birth in Sukhāvatī](../concepts/nine-grades-of-rebirth.md) · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### closing <a id="tea-amitayurdhyana-sutra-closing"></a>
 `skeleton` · confidence high
@@ -142,4 +142,4 @@ terms: [fanfu](../terms/fanfu.md) · concepts: [The ordinary foolish being (fanf
 _Notes: Lower-lower grade read locally in T365 (346a12-26)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

@@ -27,7 +27,7 @@ No one is low because of birth; what makes a man low is the mud of low deeds.
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics, dispute_
 
-concepts: [Rejection of caste](../concepts/rejection-of-caste.md), [Sant conduct](../concepts/sant-ethics.md) · teachers: [Ravidās (Raidās)](../teachers/ravidas.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Rejection of caste](../concepts/rejection-of-caste.md), [Sant conduct](../concepts/sant-ethics.md) · teachers: [Ravidās (Raidās)](../teachers/ravidas.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### pad 'aisī lāl tujh binu kaunu karai …' (Ādi Granth, rāg Mārū) <a id="tea-ravidas-bani-aisi-lal-tujh-binu-kaunu-karai"></a>
 `skeleton` · confidence moderate
@@ -36,7 +36,7 @@ Who but you, my Beloved, could do such a thing? Lord of the poor, you have set t
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: ethics, teacher-transmission_
 
-concepts: [Rejection of caste](../concepts/rejection-of-caste.md), [Divine grace (prasāda)](../concepts/grace.md) · teachers: [Ravidās (Raidās)](../teachers/ravidas.md), [Nāmdev](../teachers/namdev.md), [Kabīr](../teachers/kabir.md), [Sadhnā the butcher](../teachers/sadhna.md), [Sain (Sen) the barber](../teachers/sain.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Rejection of caste](../concepts/rejection-of-caste.md), [Divine grace (prasāda)](../concepts/grace.md) · teachers: [Ravidās (Raidās)](../teachers/ravidas.md), [Nāmdev](../teachers/namdev.md), [Kabīr](../teachers/kabir.md), [Sadhnā the butcher](../teachers/sadhna.md), [Sain (Sen) the barber](../teachers/sain.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### pad 'begam purā sahar ko nāu …' (Ādi Granth, rāg Gauṛī) <a id="tea-ravidas-bani-begam-pura-sahar-ko-nau"></a>
 `skeleton` · confidence moderate
@@ -45,7 +45,7 @@ The city's name is Begampura (the city without sorrow): there is no pain or anxi
 
 _level: unmarked · standpoint: ethical-social · path: devotion · stage: realized · types: karma-liberation, ethics, ultimate_
 
-terms: [Begampurā](../terms/begampura.md) · concepts: [Begampura, the city without sorrow](../concepts/begampura.md), [Rejection of caste](../concepts/rejection-of-caste.md), [Liberation in the Sant traditions](../concepts/liberation-sant.md) · teachers: [Ravidās (Raidās)](../teachers/ravidas.md) · disputes: `dsp:women-caste-liberation`
+terms: [Begampurā](../terms/begampura.md) · concepts: [Begampura, the city without sorrow](../concepts/begampura.md), [Rejection of caste](../concepts/rejection-of-caste.md), [Liberation in the Sant traditions](../concepts/liberation-sant.md) · teachers: [Ravidās (Raidās)](../teachers/ravidas.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### pad 'dūdh ta bachrai thanahu biṭāriu …' (Ādi Granth, rāg Gūjrī) <a id="tea-ravidas-bani-dudh-ta-bachrai-thanahu-bitariu"></a>
 `skeleton` · confidence moderate
@@ -63,7 +63,7 @@ My caste are the cutters and binders of leather who carry dead cattle around Ban
 
 _level: conventional · standpoint: ethical-social · path: devotion, sound · stage: all · types: ethics, dispute_
 
-terms: [jāti](../terms/jati.md), [nāma](../terms/nama.md) · concepts: [Rejection of caste](../concepts/rejection-of-caste.md), [The power of the divine name](../concepts/power-of-the-name.md) · teachers: [Ravidās (Raidās)](../teachers/ravidas.md) · disputes: `dsp:women-caste-liberation`
+terms: [jāti](../terms/jati.md), [nāma](../terms/nama.md) · concepts: [Rejection of caste](../concepts/rejection-of-caste.md), [The power of the divine name](../concepts/power-of-the-name.md) · teachers: [Ravidās (Raidās)](../teachers/ravidas.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### pad 'nāgar janāṃ merī jāti bikhiāt chamāraṃ …' (Ādi Granth, rāg Malār) <a id="tea-ravidas-bani-nagar-jana-meri-jati-bikhiat-chamaran"></a>
 `skeleton` · confidence low
@@ -72,7 +72,7 @@ Townsfolk, my caste is known to be Camār; yet in my heart I keep the Lord's vir
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics, dispute_
 
-concepts: [Rejection of caste](../concepts/rejection-of-caste.md) · teachers: [Ravidās (Raidās)](../teachers/ravidas.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Rejection of caste](../concepts/rejection-of-caste.md) · teachers: [Ravidās (Raidās)](../teachers/ravidas.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### pad 'prabhu jī tum candan ham pānī …' (Ādi Granth, rāg Sorath) <a id="tea-ravidas-bani-prabhu-ji-tum-candan-ham-pani"></a>
 `skeleton` · confidence moderate
@@ -103,4 +103,4 @@ terms: [tīrtha](../terms/tirtha.md) · concepts: [Critique of outward religion]
 
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

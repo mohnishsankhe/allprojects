@@ -214,4 +214,4 @@ terms: [tathāgata](../terms/tathagata.md) · disputes: [Do Buddhas stand in all
 _Notes: 219 kathās counted in the local bilara-data text (kv1.1–kv23.5); the group labels are taken from the first kathā of each vagga in those files (the other files repeat 'Mahāpaṇṇāsaka')._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._

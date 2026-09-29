@@ -14,4 +14,4 @@
 - part-of → [The thirty-seven qualities conducive to awakening (bodhipakkhiyā dhammā)](thirty-seven-wings.md) — rests on [15.2-15.4](../texts/anapanasati-sutta.md#tea-anapanasati-sutta-15-2-15-4), [23-28](../texts/anapanasati-sutta.md#tea-anapanasati-sutta-23-28)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

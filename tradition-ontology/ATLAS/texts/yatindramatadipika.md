@@ -53,4 +53,4 @@ terms: [para (Para-Vāsudeva)](../terms/para-vasudeva.md), [vyūha](../terms/vyu
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

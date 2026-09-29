@@ -98,7 +98,7 @@ The seers had direct perception of dharma (sākṣātkṛtadharmāṇaḥ); they
 
 _level: conventional · standpoint: cosmic · path: knowledge, sound, general · stage: all · types: teacher-transmission, sound-language_
 
-terms: [ṛṣi](../terms/rsi.md), [vedāṅga](../terms/vedanga.md) · concepts: [The ṛṣi as seer of the mantras](../concepts/rsi-as-seer.md), [Transmission of the Veda: teacher, śākhā and oral recitation](../concepts/vedic-transmission-sakha.md), [The six limbs of the Veda](../concepts/six-vedangas.md) · teachers: [Yāska](../teachers/yaska.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [ṛṣi](../terms/rsi.md), [vedāṅga](../terms/vedanga.md) · concepts: [The ṛṣi as seer of the mantras](../concepts/rsi-as-seer.md), [Transmission of the Veda: teacher, śākhā and oral recitation](../concepts/vedic-transmission-sakha.md), [The six limbs of the Veda](../concepts/six-vedangas.md) · teachers: [Yāska](../teachers/yaska.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 1.20 <a id="tea-nirukta-1-20-2"></a>
 `sourced` · confidence high
@@ -216,4 +216,4 @@ terms: [vāc](../terms/vac.md), [Turīya](../terms/turiya.md), [oṃ](../terms/o
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Nirukta, catalog:GRETIL-dev:yaska_nirukta, https://en.wikipedia.org/wiki/Nirukta, https://en.wikipedia.org/wiki/Y%C4%81ska — Extant; 12 + 2 pariśiṣṭa adhyāyas locally (GRETIL keys run to 14). Wikipedia: modern scholars place Yāska between the 7th and 5th c. BCE, before Pāṇini, which agrees with the entry's 600–400 BCE.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

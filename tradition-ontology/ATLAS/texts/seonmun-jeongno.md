@@ -23,8 +23,8 @@ Seongcheol argues that the awakening of the Chan patriarchs is 'realization-awak
 
 _level: conventional · standpoint: polemical · path: knowledge, meditation · stage: all · types: dispute, practice_
 
-terms: [dunwu (sudden awakening)](../terms/dunwu.md), [dunxiu (sudden cultivation)](../terms/dunxiu.md), [zhijie (intellectual understanding)](../terms/zhijie.md) · teachers: [Toeong Seongcheol 退翁性徹](../teachers/seongcheol.md), [Jinul 知訥 (Bojo)](../teachers/jinul.md) · disputes: [Sudden awakening followed by gradual cultivation (Jinul) or sudden awakening with sudden cultivation (Seongcheol)?](../debates/seon-sudden-cultivation-debate.md), `dsp:sudden-or-gradual`
+terms: [dunwu (sudden awakening)](../terms/dunwu.md), [dunxiu (sudden cultivation)](../terms/dunxiu.md), [zhijie (intellectual understanding)](../terms/zhijie.md) · teachers: [Toeong Seongcheol 退翁性徹](../teachers/seongcheol.md), [Jinul 知訥 (Bojo)](../teachers/jinul.md) · disputes: [Sudden awakening followed by gradual cultivation (Jinul) or sudden awakening with sudden cultivation (Seongcheol)?](../debates/seon-sudden-cultivation-debate.md), [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

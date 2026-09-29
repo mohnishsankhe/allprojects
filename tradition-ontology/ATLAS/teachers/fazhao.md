@@ -15,4 +15,4 @@ Creator of the five-tone (wuhui) chanting of the name, taught at court in Chang'
 **Realization — the tradition's account:** Tradition tells of visions of Mañjuśrī and Samantabhadra on Wutai who told him that recollecting the Buddha is the supreme practice (as recalled from later biographies).
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

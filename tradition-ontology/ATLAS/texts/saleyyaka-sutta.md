@@ -30,4 +30,4 @@ terms: [kammapatha](../terms/kammapatha.md) · concepts: [The ten courses of act
 _Notes: SuttaCentral uid mn41; Mahāsaṅgīti title 'Sāleyyakasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

@@ -23,8 +23,8 @@ The Naiyāyika proof that the world, being an effect, has an intelligent maker f
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, world-fate_
 
-teachers: [Ratnakīrti](../teachers/ratnakirti.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+teachers: [Ratnakīrti](../teachers/ratnakirti.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

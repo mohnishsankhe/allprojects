@@ -61,4 +61,4 @@ Each school applies the six marks of purport — above all opening and close (up
 _Notes: U05 records the Gītā-specific form; the general debate is dsp:works-knowledge-grace (U50)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._

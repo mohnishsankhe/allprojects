@@ -1,6 +1,6 @@
 # Śamyāka Gītā
 
-`src:samyaka-gita` · `skeleton` · confidence high
+`src:samyaka-gita` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -16,10 +16,10 @@
 
 Śamyāka teaches that renunciation brings a happiness that the rich never know; possessions bring fear and sorrow.
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 12.170 <a id="tea-samyaka-gita-12-170"></a>
-`skeleton` · confidence moderate · [AI-translated]
+`sourced` · confidence moderate · [AI-translated]
 
 Śamyāka, a brāhmaṇa freed by renunciation, teaches that the man who owns nothing sleeps and wakes happily; wealth brings fear from kings, thieves and kin, and the possessionless is truly rich.
 
@@ -29,4 +29,8 @@ obstacles: [Possessiveness (parigraha)](../obstacles/parigraha.md)
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition), local:sources_raw/raw_etexts/purANam/vaiShNavam/mahAbhAratam/gp/epub_no_img/ (Gita Press vulgate, chapter colophons) — CE 12.170 (23 verses) confirmed; CE reads 'śamyākena' (12.170.23), the vulgate colophon 'śampākagītāyām' (12.176): Śampāka is the vulgate form of the name.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

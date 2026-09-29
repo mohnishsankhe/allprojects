@@ -13,4 +13,4 @@ The dependent is entered first as the absence of duality, then as mere imaginati
 **Sequences:** [The Yogācāra entry through mind-only to the grounds (Mahāyānasūtrālaṃkāra 14)](../paths/yogacara-entry-into-mind-only.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

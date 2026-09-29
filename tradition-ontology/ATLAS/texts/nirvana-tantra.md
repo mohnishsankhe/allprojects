@@ -49,8 +49,8 @@ On the avadhūta: the vīra follows the renunciant's outer form, shaven or with 
 
 _level: conventional · standpoint: ethical-social · path: knowledge, ritual · stage: advanced · types: ethics, karma-liberation_
 
-concepts: [The Kaula/Śākta avadhūta](../concepts/kaula-avadhuta.md), [The three dispositions: paśu, vīra, divya](../concepts/three-bhavas.md) · disputes: `dsp:women-caste-liberation`
+concepts: [The Kaula/Śākta avadhūta](../concepts/kaula-avadhuta.md), [The three dispositions: paśu, vīra, divya](../concepts/three-bhavas.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._

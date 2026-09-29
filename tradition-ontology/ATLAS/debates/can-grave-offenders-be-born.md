@@ -33,4 +33,4 @@ Tanluan's earlier solution (distinguishing slander) is retained as a reading of 
 **The traditions' own objections:** Tanluan's position that slanderers cannot be born is not the same as Shandao's; the two readings are recorded side by side.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

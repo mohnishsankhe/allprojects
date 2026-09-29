@@ -7827,10 +7827,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:garuda-purana:2.10.75-82, tea:garuda-purana:2.15.60-71, tea:garuda-purana:2.5.30-37"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8623,6 +8638,22 @@
      "result": "confirmed",
      "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 6 teachings it rests on exist and were located in the e-text.",
      "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:avadhuta"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/prepared/avadhuta-gita/segments.jsonl"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.7.24-30, tea:uddhava-gita:11.9.3-4, tea:avadhuta-gita:8.5-9; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -8849,10 +8880,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:1.3.1-5, tea:bhagavata-purana:1.3.26, tea:bhagavata-purana:1.3.28, tea:devi-mahatmya:11"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "coverage": [
    "A6",
@@ -8888,10 +8934,25 @@
    "twenty-two (BhP 1.3): Kumāras, Varāha, Nārada, Nara-Nārāyaṇa, Kapila, Dattātreya, Yajña, Ṛṣabha, Pṛthu, Matsya, Kūrma, Dhanvantari, Mohinī, Narasiṃha, Vāmana, Paraśurāma, Vyāsa, Rāma, Balarāma, Kṛṣṇa, Buddha, Kalki"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:agni-purana:16.8-13, tea:bhagavata-purana:1.3.6-25, tea:garuda-purana:1.142"
+     ],
+     "result": "partially-confirmed",
+     "note": "BhP 1.3.6-25, BhP 2.7 (2.7.11 Hayaśīrṣa) and Agni 2-16 (anukramaṇī) and 49 ('matsyādipratimālakṣaṇa') located. But the Garuḍa 1.142 claim is not supported: that chapter names Matsya, Kūrma, Dhanvantari, Mohinī, Varāha, Narasiṃha, Paraśurāma and Rāma with his brothers (no Vāmana, Kṛṣṇa, Buddha or Kalki). The definition should not cite GP 1.142 for the standard ten (Phase D). The teachings it rests on were located; tea:garuda-purana:1.142 has a partial or corrected result (see its check).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -10215,10 +10276,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:11.15.3-8, tea:bhagavata-purana:11.15.33-34"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -10259,10 +10335,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:12.7.9-10, tea:bhagavata-purana:2.10.1-2"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -10880,10 +10971,25 @@
    "nirguṇa"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:3.29.7-12"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "coverage": [
    "D"
@@ -10933,10 +11039,27 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:bhakti-by-the-gunas"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:kapila-gita:3.29.7-10, tea:kapila-gita:3.29.11-14, tea:devi-gita:7.37.1-8, tea:devi-gita:7.37; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -11033,10 +11156,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:1.2.6, tea:bhagavata-purana:11.14.20-21, tea:bhagavata-purana:6.3.19-22"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -11203,10 +11341,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:visnu-purana:2.3.22-25"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -11893,10 +12046,26 @@
   ],
   "notes": "Order of the oceans from memory (VP 2.2-4; BhP 5.16-20); Phase D to check.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 2.4.33-93",
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 5.20"
+     ],
+     "result": "confirmed",
+     "note": "Least-sure order of the oceans resolved: it matches VP 2.4 exactly (Plakṣa/sugar-cane juice ... Krauñca/curd 2.4.57, Śāka/milk, Puṣkara/sweet water 2.4.86, golden land 2.4.93). The Bhāgavata swaps two: Krauñca/milk (5.20.18) and Śāka/curd (5.20.24). All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -14194,10 +14363,28 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:bondage-and-freedom-as-notions"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/prepared/astavakra-gita/segments.jsonl (GRETIL e-text)",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:astavakra-gita:1.11, tea:uddhava-gita:11.11.1-3, tea:moksopaya:4.39.18-20; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -14915,10 +15102,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:1.1.1, tea:bhagavata-purana:1.2.11, tea:bhagavata-purana:1.3.28, tea:visnu-purana:1.2.66-67, tea:visnu-purana:6.5.74-79"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "coverage": [
    "A6",
@@ -16220,7 +16422,7 @@
      }
     ],
     "reason": "Maṇḍalabrāhmaṇa 4.1 in the e-text reads 'navacakraṃ ṣaḍādhāraṃ trilakṣyaṃ vyomapañcakam', that is nine cakras and SIX ādhāras. The 'sixteen ādhāras' belong to Yogacūḍāmaṇi 3 ('ṣaṭcakraṃ ṣoḍaśādhāraṃ trilakṣyaṃ vyomapañcakam'). The definition is corrected accordingly. The Yogaśikhā's four pīṭhas are confirmed at 1.172-175. All 8 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:3-ascent-through-the-centres (corrected).",
-    "date": "2026-09-29 18:02 IST",
+    "date": "2026-09-29 18:11 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -20354,10 +20556,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:garuda-purana:2.5.123-126, tea:markandeya-purana:10.46-78, tea:matsya-purana:274-289"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -22241,7 +22458,7 @@
    },
    {
     "lineage": "lin:pancaratra",
-    "definition": "The worshipper identifies with Viṣṇu before worshipping him (the same maxim with Viṣṇu's name appears in Vaiṣṇava ritual manuals).",
+    "definition": "The Pāñcarātra worshipper, purified by bhūtaśuddhi and nyāsa, contemplates himself as one with the Lord before worship (recalled; low confidence on the wording of the maxim in Vaiṣṇava manuals).",
     "rests_on": []
    },
    {
@@ -23005,10 +23222,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:devi-bhagavata-purana:3.3-6, tea:devi-mahatmya:1, tea:devi-mahatmya:1/2, tea:devi-mahatmya:10, tea:devi-mahatmya:11, tea:devi-mahatmya:2-4"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -23041,10 +23273,25 @@
    "uttama carita (chs. 5-13)"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:devi-mahatmya:1/3, tea:devi-mahatmya:2-4, tea:devi-mahatmya:6-10"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -26137,6 +26384,20 @@
      "result": "confirmed",
      "note": "All 6 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 4.4.1-2; ChU 6.8.6; ChU 6.15; BĀU 4.3.35-38; BĀU 5.9; BĀU 3.2.11-12). It rests on 7 teaching(s) text-located in this sweep, and its wording matches those passages.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:3.30.19-24, tea:garuda-purana:2.11, tea:garuda-purana:2.2.40-51, tea:markandeya-purana:10.46-78"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -28076,10 +28337,25 @@
    "Brahmāṇḍa"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:12.13.4-9, tea:bhagavata-purana:12.7.22-24, tea:kurma-purana:1.1.13-20, tea:matsya-purana:53.18, tea:narada-purana:1.92-109, tea:visnu-purana:3.6.21-24"
+     ],
+     "result": "confirmed",
+     "note": "All lists located (VP 3.6.21-23; BhP 12.7.23-24; Matsya 53.12-56; NP 1.92-109; KūP 1.1.13-15; also DBhP 1.3.2-12). The teachings it rests on were located; tea:narada-purana:1.92-109 has a partial or corrected result (see its check).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -28450,10 +28726,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:eighteen-siddhis-bhagavata"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.15.1-8, tea:uddhava-gita:11.15.33-34; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -28685,8 +28976,8 @@
     ]
    },
    {
-    "lineage": "lin:regional-bhakti-poets",
-    "definition": "A Maithili list of eighty-four (Varṇaratnākara, early 14th c.) mixes Nāth and Buddhist names.",
+    "lineage": "lin:tantra-movement",
+    "definition": "A Maithili prose work's list of eighty-four (Varṇaratnākara, early 14th c.) mixes Nāth and Buddhist names.",
     "rests_on": [
      "tea:varnaratnakara:siddha-list"
     ]
@@ -29548,10 +29839,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:embryo-remembrance-and-prayer"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:kapila-gita:3.31.1-11, tea:kapila-gita:3.31.12-21, tea:kapila-gita:3.31.44-48; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -29673,10 +29980,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:10.29.15, tea:bhagavata-purana:7.1.30"
+     ],
+     "result": "confirmed",
+     "note": "BhP 7.1.30, 10.29.15 and VP 4.15.2 (Śiśupāla's sāyujya) located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -33976,10 +34298,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:five-kinds-of-liberation"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:kapila-gita:3.29.11-14, tea:kapila-gita:3.25.34-38; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -34207,10 +34545,25 @@
    "sāyujya (ekatva)"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:11.14.14, tea:bhagavata-purana:3.29.13"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -38437,10 +38790,25 @@
    "kāla"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:visnu-purana:1.2"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -38481,10 +38849,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:four-gatekeepers-of-liberation"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:moksopaya:2.11.56-61, tea:moksopaya:2.13.48-53, tea:moksopaya:2.14, tea:moksopaya:2.15, tea:moksopaya:2.16; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -41074,10 +41457,25 @@
    "prākṛta"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:12.4.2-6, tea:bhagavata-purana:12.4.34-38, tea:visnu-purana:1.7.41-42"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -43359,10 +43757,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:12.3.51-52, tea:bhagavata-purana:3.11, tea:visnu-purana:1.3.8"
+     ],
+     "result": "confirmed",
+     "note": "BhP 3.11.18-19 located (4,3,2,1 thousand divine years with junctions; 12,000). All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -43797,10 +44210,25 @@
    "seven pātālas"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:2.2.22-31, tea:bhagavata-purana:5.24.7, tea:visnu-purana:2.5.2"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -46486,10 +46914,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/peterFreund/purANam/padma_purana_III.md 236.18-21"
+     ],
+     "result": "confirmed",
+     "note": "Matsya 53.68-69, GP 3.1.50-56 and the Padma list (Uttarakhaṇḍa 236.18-21, local) located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -47473,10 +47916,26 @@
    "A9"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:guru-principle"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/kAvyam/padyam/peterFreund/stotram/guru_gita.md (Ganeshpuri recension)",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:guru-gita:9-13, tea:guru-gita:27-28, tea:guru-gita:70-80, tea:guru-gita:182-185, tea:uddhava-gita:11.7.20, tea:uddhava-gita:11.9.31; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -47874,10 +48333,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:12.13.16, tea:bhagavata-purana:8.3.30, tea:kurma-purana:2.1-11, tea:linga-purana:1.17, tea:visnu-purana:1.2.66-67"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "coverage": [
    "A9",
@@ -53002,6 +53476,23 @@
      "result": "confirmed",
      "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text.",
      "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:jivanmukti"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/prepared/astavakra-gita/segments.jsonl (GRETIL e-text)",
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:moksopaya:3.118.16-26, tea:moksopaya:5.77, tea:moksopaya:5.91.12-15, tea:astavakra-gita:18.96-100, tea:rama-gita:7.5.53-57, tea:uddhava-gita:11.13.36-37 …; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -53100,10 +53591,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:3.28.34-38, tea:visnu-purana:6.7.103-106"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -54626,10 +55132,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:1.17.38-39, tea:bhagavata-purana:12.3.51-52, tea:visnu-purana:6.2.8-34"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "coverage": [
    "A6",
@@ -54675,7 +55196,7 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
    "checks": [
@@ -54691,6 +55212,20 @@
      ],
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:12.4.2-6, tea:bhagavata-purana:3.11"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -55382,10 +55917,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:kapila-gita-death-and-hells"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:kapila-gita:3.30; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -55429,10 +55980,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:kapila-gita-principles"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:kapila-gita:3.26.10-15, tea:kapila-gita:3.26.16-18, tea:uddhava-gita:11.22.1-9; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -59292,10 +59859,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:lalitopakhyana:3.11-12, tea:lalitopakhyana:3.14-30"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -59755,6 +60337,20 @@
      "result": "confirmed",
      "note": "Yogaśikhā 1.31 is located: dehāvasānasamaye citte yad yad vibhāvayet | tat tad eva bhavej jīvaḥ. All 1 teachings it rests on exist and were located in the e-text.",
      "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:12.3.50, tea:bhagavata-purana:2.1.6, tea:bhagavata-purana:5.8.26-27, tea:bhagavata-purana:6.1-2, tea:bhagavata-purana:7.1.30, tea:markandeya-purana:42.1-17 ..."
+     ],
+     "result": "confirmed",
+     "note": "Refs located incl. MkP 42.17; the Kāśī tāraka instruction is now located at SkP 4.1.25.72-73. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -60903,10 +61499,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:linga-purana:1.3.1, tea:siva-purana:1.5.10-13, tea:siva-purana:1.5.20-28"
+     ],
+     "result": "confirmed",
+     "note": "The teachings it rests on were located; tea:siva-purana:1.5.10-13 has a partial or corrected result (see its check).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -61100,10 +61711,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:linga-purana:1.17, tea:siva-purana:1.5.20-28"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -64325,10 +64951,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/purANAni/upapurANAni/devIbhAgavatapurANam.md (1927 ed., Rāmateja Śarmā) 12.10-12"
+     ],
+     "result": "confirmed",
+     "note": "DBhP 12.10-12 (local eBhārati) and Lalitopākhyāna 3.31-37 located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -64776,10 +65417,25 @@
   ],
   "notes": "MkP 50-100 (chapter colophons checked) narrates the manvantaras.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:devi-mahatmya:13"
+     ],
+     "result": "confirmed",
+     "note": "DM 13 (MkP 93.17) located; MkP manvantara chapters confirmed by colophons (e.g. 53 'manvantarakathana'); the local e-text ends at ch. 93, so 'MkP 50-100' is only partly checkable. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -65443,10 +66099,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:agni-purana:16.1-4, tea:bhagavata-purana:1.3.6-25, tea:bhagavata-purana:5.6.9, tea:visnu-purana:3.17-18"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -66446,10 +67117,27 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:mind-as-cause-of-samsara"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.23.42-45, tea:uddhava-gita:11.23.50-57, tea:kapila-gita:3.25.15-18, tea:moksopaya:1.2.5-7; each was located in the local text and matches this entry's statement. Caveats on tea:uddhava-gita:11.23.42-45 (see their checks) do not affect this entry.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -69139,10 +69827,25 @@
    "Sūcīmukha"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:agni-purana:370, tea:bhagavata-purana:5.26.5-7, tea:markandeya-purana:13-15, tea:visnu-purana:2.6.39-45, tea:visnu-purana:2.6.46-47"
+     ],
+     "result": "confirmed",
+     "note": "BhP 5.26.5-7, VP 2.6, MkP 12 (colophon 'mahārauravādinarakākhyāna'), MkP 13-15, Agni 370 located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -69779,10 +70482,25 @@
    "ātma-nivedana"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:7.5.23-24, tea:siva-purana:1.3-4"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "coverage": [
    "A9",
@@ -69840,10 +70558,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:navadha-bhakti-adhyatma-ramayana"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:adhyatma-ramayana:3.10.22-27, tea:adhyatma-ramayana:3.10.28-31; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -71164,10 +71897,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:visnu-purana:1.5.19-25"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -75054,10 +75802,27 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:one-ultimate-many-names"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.9.31, tea:uddhava-gita:11.14.1-3, tea:moksopaya:3.5.3-7, tea:moksopaya:3.66.10-14, tea:moksopaya:6.195.1-4, tea:ganesa-gita:1.21-24; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "notes": "Text-layer statements that bear directly on ult:the-one (ṚV 1.164.46). Traditions that deny such equivalence (e.g. Buddhist schools on 'śūnya' as a name of a substantial ultimate) are not represented in these verses.",
   "provenance": {
@@ -76374,10 +77139,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:12.7.9-10, tea:kurma-purana:1.1.12, tea:matsya-purana:53.65-69, tea:visnu-purana:3.6.21-24"
+     ],
+     "result": "confirmed",
+     "note": "VP 3.6.24, KūP 1.1.12, Matsya 53.65, BhP 12.7.10 located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -77564,7 +78344,7 @@
      }
     ],
     "reason": "Every example in the definition was text-located. ŚB 14.6.11.2 has 'indho vai nāmaiṣa … taṃ vā etam indhaṃ santam indra ity ācakṣate paro'kṣeṇaiva paro'kṣapriyā iva hi devāḥ pratyakṣadviṣaḥ'. AB 3.43 has 'tam agnistomaṃ santam agniṣṭoma ity ācakṣate parokṣeṇa parokṣapriyā iva hi devāḥ', and also 3.33 and 7.30. The svāpyaya → svapna pun, however, is ŚB 10.5.2.19, not 10.5.2.20, as the correction of tea:satapatha-brahmana:10.5.2.20 records. Correction: that locator becomes 10.5.2.19 in the definition; the wording is otherwise unchanged.",
-    "date": "2026-09-29 18:02 IST",
+    "date": "2026-09-29 18:11 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],
@@ -78855,10 +79635,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:paths-of-smoke-and-light-kapila"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)"
+     ],
+     "result": "confirmed",
+     "note": "BhP 3.32.3 (to the lunar world and back) and 3.32.7 ('sūryadvāreṇa ... puruṣam'); devotion to Vāsudeva quickly brings dispassion and knowledge (3.32.23).",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "notes": "Parallels the Upaniṣadic pitṛyāna and devayāna (owned by U03).",
   "provenance": {
@@ -78981,10 +79777,25 @@
    "dsp:souls-one-or-distinct"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:pati-pasu-pasa"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "KP 2.7.18-19 (paśus, Paśupati, the noose of māyā); the 'he himself is bondage, binder, noose and bound' clause is KP 2.7.32 ('sa eva bandhaḥ sa ca bandhakartā sa eva pāśaḥ paśavaḥ sa eva'), just outside the cited teaching.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "names": [],
   "coverage": [
@@ -79072,10 +79883,25 @@
    "A13"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:paurusa-and-daiva"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:moksopaya:2.4.8-18, tea:moksopaya:2.6.1-6, tea:moksopaya:2.8.1-5; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -79718,10 +80544,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:agni-purana:114-116, tea:garuda-purana:2.5.49-55"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -80307,10 +81148,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:12.3.51-52, tea:bhagavata-purana:2.1.11, tea:bhagavata-purana:6.2.14, tea:bhagavata-purana:6.2.9-10, tea:padma-purana:nama-aparadha, tea:visnu-purana:6.2.17"
+     ],
+     "result": "confirmed",
+     "note": "The teachings it rests on were located; tea:padma-purana:nama-aparadha has a partial or corrected result (see its check).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "coverage": [
    "A9",
@@ -82824,10 +83680,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-mahatmya:1-6, tea:garuda-purana:2.22, tea:garuda-purana:2.5.39-40"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -83399,10 +84270,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:1.1.3, tea:bhagavata-purana:1.4.20, tea:bhagavata-purana:1.4.25, tea:matsya-purana:53.3-11, tea:visnu-purana:3.6.15-19"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -83488,10 +84374,25 @@
    "samādhi"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:agni-purana:371-375, tea:bhagavata-purana:3.28.1-11, tea:linga-purana:1.8.1-9, tea:markandeya-purana:39.1-35, tea:siva-purana:7.2.37.12-20, tea:visnu-purana:6.7.31 ..."
+     ],
+     "result": "confirmed",
+     "note": "MkP 41.16-17, ŚiP 7.2.37.18-19, LiP 1.8.5, VP 6.7.31 located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -83519,10 +84420,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:matsya-purana:274-289, tea:narada-purana:2.1-5, tea:skanda-purana:4.1.6.28-45, tea:visnu-purana:3.8.9"
+     ],
+     "result": "confirmed",
+     "note": "The teachings it rests on were located; tea:visnu-purana:3.8.9 has a partial or corrected result (see its check).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -83558,10 +84474,25 @@
    "Ugraśravas"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:12.7.5-7, tea:kurma-purana:1.11.279-280, tea:matsya-purana:53.3-11, tea:visnu-purana:3.6.15-19"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -84727,10 +85658,27 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:qualities-of-the-sadhu-bhagavata"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/prepared/avadhuta-gita/segments.jsonl"
+     ],
+     "result": "confirmed",
+     "note": "BhP 11.11.29-31 lists exactly 28 qualities (7 + 11 + 10); the Avadhūta Gītā repeats them at 8.2-4 in rearranged order (8.2 = 11.11.30, 8.3 = 11.11.31, 8.4 = 11.11.29).",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -85752,10 +86700,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:10.29-33, tea:bhagavata-purana:10.32.22, tea:bhagavata-purana:10.33.30-31, tea:bhagavata-purana:10.33.40"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -86634,10 +87597,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:redefined-virtues-bhagavata"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.19.36-45; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -93107,10 +94085,25 @@
    "Aindrī"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:devi-mahatmya:10, tea:devi-mahatmya:6-10"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -93177,10 +94170,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:8.3.2-29, tea:devi-mahatmya:11"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -93208,10 +94216,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:1.3.1-5, tea:bhagavata-purana:2.10.1-2, tea:visnu-purana:1.2, tea:visnu-purana:1.5.19-25"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -97320,10 +98343,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:5.24.7, tea:visnu-purana:2.5.2"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -97567,10 +98605,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:seven-stages-of-ignorance"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:moksopaya:3.117.11-24; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -97624,10 +98677,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:seven-stages-of-knowledge"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "MU 3.118.5-6 (names) verified, and the vulgate 3.118 (jñānabhūmikopadeśa). The later account (MU 6.140-156) calls the third stage 'asaṃsaṅga'.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "notes": "The path map itself is pth:yoga-vasistha-seven-bhumikas (owned by U51).",
   "provenance": {
@@ -98629,7 +99697,7 @@
     "rests_on": []
    }
   ],
-  "notes": "Whether Mīnapa and Matsyendra are one person is itself disputed in the traditions (the Tibetan lives make Mīnapa Matsyendra's father in some tellings) — recorded as an identification, not a fact.",
+  "notes": "Whether Mīnapa and Matsyendra are one person is itself disputed in the traditions (some Tibetan accounts treat them as two persons, e.g. father and son — recalled, low confidence) — recorded as an identification, not a fact.",
   "coverage": [
    "C",
    "D"
@@ -100055,10 +101123,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:linga-purana:1.91.1-2, tea:markandeya-purana:43.1-2"
+     ],
+     "result": "confirmed",
+     "note": "MkP 43.1-3, 43.10 and LiP 1.91.1-2 located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -100498,6 +101581,20 @@
      "result": "confirmed",
      "note": "All 1 Upaniṣad refs cited in the entry are located in the prepared segments (ŚU 2.11). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:markandeya-purana:39.62-65"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -102390,7 +103487,7 @@
    },
    {
     "lineage": "lin:mantramarga",
-    "definition": "The Śaiva Mantramārga teaches a six-limbed yoga with reasoning (tarka) as a limb (Mṛgendra's yoga section: breath-control, withdrawal, concentration, meditation, reasoning, absorption).",
+    "definition": "The Śaiva Mantramārga teaches a six-limbed yoga with reasoning (tarka) as a limb, called the highest limb (Mālinīvijayottara, as quoted in the Tantrāloka — recalled); the Mṛgendra's yoga section gives breath-control, withdrawal, concentration, meditation and absorption with recitation (japa) and examination (ūha) of what is to be rejected and accepted.",
     "rests_on": [
      "tea:mrgendra-tantra:yogapada.4-9"
     ]
@@ -104892,10 +105989,25 @@
    "annual śrāddha"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:garuda-purana:2.5.30-37, tea:garuda-purana:2.5.39-40, tea:garuda-purana:2.5.49-55, tea:garuda-purana:2.5.85-154"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -106750,10 +107862,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:visnu-purana:6.7.36-45, tea:visnu-purana:6.7.47-55, tea:visnu-purana:6.7.75-90"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -109708,6 +110835,14 @@
     ]
    },
    {
+    "lineage": "lin:upanisadic",
+    "definition": "The Maitrī tells that Bṛhaspati, in the form of Śukra, created a false knowledge for the asuras' destruction, and warns against the no-self doctrine's tricksters.",
+    "rests_on": [
+     "tea:maitri-upanisad:7.9-10",
+     "tea:maitri-upanisad:7.8/2"
+    ]
+   },
+   {
     "lineage": "lin:kalikula",
     "definition": "The Buddha appears as a Kula-Bhairava perfected by Tārā's mantra, the teacher of Vasiṣṭha.",
     "rests_on": [
@@ -109979,10 +111114,10 @@
     "rests_on": []
    },
    {
-    "rel": "part-of",
+    "rel": "corresponds-to-in-map",
     "target": "cpt:kinds-of-diksa",
     "standpoint": "",
-    "note": "initiation as the entry point of every tantric family",
+    "note": "initiation, one of the shared features, is the entry point of every tantric family",
     "rests_on": []
    }
   ],
@@ -110550,7 +111685,7 @@
    },
    {
     "lineage": "lin:mantramarga",
-    "definition": "The Śaiva ṣaḍaṅga counts tarka — the discernment of what is to be taken up and left — as the highest limb (Mālinīvijayottara, recalled; Mṛgendra's yoga section).",
+    "definition": "The Śaiva ṣaḍaṅga counts tarka — the discernment of what is to be taken up and left — as the highest limb ('tarko yogāṅgam uttamam', Mālinīvijayottara as quoted by Abhinavagupta — recalled); the Mṛgendra calls the corresponding scrutiny ūha.",
     "rests_on": [
      "tea:mrgendra-tantra:yogapada.4-9"
     ]
@@ -110917,10 +112052,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:tattva-counts-reconciled-bhagavata"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.22.1-9; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "notes": "U16 contribution recalled with low confidence; locate in the Tattvārthadīpanibandha.",
   "provenance": {
@@ -113271,10 +114421,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:ten-yamas-ten-niyamas-devi-gita"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:devi-gita:7.35.1-8; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -115190,10 +116356,25 @@
    "ubhaya-bhāvanā"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:visnu-purana:6.7.47-55"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -116479,10 +117660,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/durgA-saptashatI/goraxapura-pAThaH/raw/source.html (Gita Press Durgā Saptaśatī)"
+     ],
+     "result": "confirmed",
+     "note": "Prādhānika Rahasya located in the local Gita Press Durgā Saptaśatī ('sarvasyādyā mahālakṣmīs triguṇā parameśvarī'). All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "coverage": [
    "A8",
@@ -116735,10 +117931,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:three-great-vows-of-bhrngisa"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:moksopaya:6.119.9-20; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -119139,10 +120350,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:three-paths-devi-gita"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40)"
+     ],
+     "result": "confirmed",
+     "note": "DBhP 7.37.2-3: 'mārgās trayo me vikhyātā ... karmayogo jñānayogo bhaktiyogaś ca'; devotion is 'sulabhatvān mānasatvāt kāyacittādyapīḍanāt'.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -119850,10 +121077,25 @@
    "avidyā-karma"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:visnu-purana:1.22.56-57, tea:visnu-purana:6.7.61-63"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "coverage": [
    "A6",
@@ -120274,10 +121516,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:three-spaces-yoga-vasistha"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:moksopaya:3.97.14-19; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -121291,10 +122548,27 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:three-yogas-by-disposition-bhagavata"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.20.6-8, tea:uddhava-gita:11.20.9-11, tea:devi-gita:7.37.1-8; each was located in the local text and matches this entry's statement. Caveats on tea:uddhava-gita:11.20.6-8, tea:uddhava-gita:11.20.9-11 (see their checks) do not affect this entry.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -121446,10 +122720,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:threefold-consciousness-rama-hrdaya"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:adhyatma-ramayana:1.1.44-52, tea:rama-hrdaya:1.1.44-52; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "notes": "Combines the Advaita 'limitation' and 'reflection' accounts in one image.",
   "provenance": {
@@ -121942,10 +123231,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:1.13.10, tea:garuda-purana:2.38.5, tea:skanda-purana:4.1.6.28-45"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -122192,10 +123496,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:tree-of-samsara-bhagavata"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:uddhava-gita:11.12.21-24; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -122286,6 +123605,20 @@
      "result": "confirmed",
      "note": "Located: MaiU 5.2 (Rudra the tāmasa part, Brahmā the rājasa, Viṣṇu the sāttvika) and MaiU 5.1 (Kautsāyana's hymn: 'tvaṃ brahmā tvaṃ ca vai viṣṇus tvaṃ rudraḥ'). All 2 Upaniṣad refs cited in the entry are located in the prepared segments (MaiU 5.2; MaiU 5.1). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:devi-bhagavata-purana:3.3-6, tea:devi-mahatmya:1/3, tea:visnu-purana:1.2.66-67"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -123955,10 +125288,28 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:twelve-yamas-twelve-niyamas-bhagavata"
+     ],
+     "evidence": [
+      "https://vedabase.io/en/library/sb/11/19/33-35/",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40)"
+     ],
+     "result": "confirmed",
+     "note": "BhP 11.19.33-35 verified. The niyama verse names 11 items; a count of twelve comes from taking śauca as outer and inner, as the BBT (vedabase) rendering of 11.19.33-35 does. Śrīdhara's own gloss was not retrieved.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -124933,10 +126284,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:twenty-four-teachers-of-the-avadhuta"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition)"
+     ],
+     "result": "confirmed",
+     "note": "List verified at BhP 11.7.33-34 (24 names); Bodhya's six at MBh CE 12.171.61. All six appear among the 24, with sāraṅga as the bee (madhukṛt).",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "notes": "List verified in the local Bhāgavata e-text (11.7.33-34). The six teachers of Bodhya are a subset (Piṅgalā, osprey, serpent, bee, arrow-maker, maiden).",
   "provenance": {
@@ -126599,10 +127966,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:two-powers-of-maya"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press)"
+     ],
+     "result": "confirmed",
+     "note": "AR 3.4.22-24: 'rūpe dve niścite pūrvaṃ māyāyāḥ ... vikṣepāvaraṇe'; vikṣepa projects the world from the subtle body to Brahmā (3.4.23), āvaraṇa veils knowledge (3.4.24).",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -126765,10 +128147,25 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:two-seeds-of-the-mind"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:moksopaya:5.92.6-27, tea:moksopaya:5.92.28-36; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -128623,10 +130020,25 @@
    "Bhārgava"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:kurma-purana:1.1.13-20, tea:kurma-purana:1.11.279-280, tea:matsya-purana:53.60-64"
+     ],
+     "result": "confirmed",
+     "note": "KūP 1.1.16-20, 1.11.280; Matsya 53.60-64 located; VP 3.6.24 (first line) mentions the Upapurāṇas in this edition. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -132959,10 +134371,25 @@
    "A9"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:10.29-33, tea:bhagavata-purana:10.47.34-36, tea:bhagavata-purana:10.47.61"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -133956,10 +135383,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:10.22.4, tea:devi-mahatmya:12, tea:narada-purana:2.1-5, tea:siva-purana:4"
+     ],
+     "result": "confirmed",
+     "note": "The teachings it rests on were located; tea:siva-purana:4 has a partial or corrected result (see its check).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -135138,10 +136580,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by cpt:world-as-projection-of-mind"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:moksopaya:1.2.5-7, tea:moksopaya:3.15-60, tea:moksopaya:3.104-109, tea:moksopaya:3.127-138, tea:moksopaya:6.221-252, tea:uddhava-gita:11.7.6-9 …; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -135567,10 +137025,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:5.26.5-7, tea:bhagavata-purana:6.3.26-27, tea:garuda-purana:2.5.85-154, tea:narada-purana:2.1-5, tea:visnu-purana:3.7.14-15"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -135616,10 +137089,25 @@
    "Bahubhīti"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:3.30.19-24, tea:garuda-purana:2.5.123-126, tea:garuda-purana:2.5.85-154, tea:markandeya-purana:10.46-78"
+     ],
+     "result": "confirmed",
+     "note": "The sixteen city names are listed at GP 2.5.95 and treated one by one (2.5.99-143); MkP 10.75-76; BhP 3.30.24 located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -136474,6 +137962,20 @@
      "result": "confirmed",
      "note": "All 6 Upaniṣad refs cited in the entry are located in the prepared segments (KU 2.3.16; ChU 8.6.6; TU 1.6; AU 1.3.12; MaiU 6.21; BĀU 6.2.15). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:2.2.15-21, tea:bhagavata-purana:2.2.22-31, tea:siva-purana:7.2.37.21-30"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -137074,6 +138576,20 @@
      "result": "confirmed",
      "note": "The definition's cited passages were all checked in this sweep and support it: tea:manusmrti:1.81-86 (confirmed); tea:parasarasmrti:1.24 (confirmed); tea:naradasmrti:m1.1-2 (confirmed).",
      "by": "sourcing:U02-brahmana-vedanga"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:12.3.51-52, tea:visnu-purana:6.2.17"
+     ],
+     "result": "confirmed",
+     "note": "All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },

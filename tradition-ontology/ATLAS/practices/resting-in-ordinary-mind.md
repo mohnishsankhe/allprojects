@@ -19,4 +19,4 @@ Leaving the mind as it is, without recalling, anticipating, thinking, examining 
 - Resting without recognition becomes dull blankness; the manuals warn against mistaking a thought-free state for Mahāmudrā. — [Moonbeams of Mahāmudrā](../texts/moonbeams-of-mahamudra.md) pt.2
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

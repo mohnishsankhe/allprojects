@@ -204,7 +204,7 @@ What is the validity of Āyurveda? That what it teaches — 'doing this one obta
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: sound-language, dispute_
 
-terms: [āpta](../terms/apta.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [āpta](../terms/apta.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 3.2.1 <a id="tea-nyaya-bhasya-3-2-1"></a>
 `skeleton` · confidence high
@@ -224,7 +224,7 @@ terms: [buddhi](../terms/buddhi.md)
 
 _level: unmarked · standpoint: divine · path: knowledge, devotion · stage: unmarked · types: ultimate, powers-experiences, dispute_
 
-terms: [īśvara](../terms/isvara.md), [adṛṣṭa](../terms/adrsta.md), [āpta](../terms/apta.md) · concepts: [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [īśvara](../terms/isvara.md), [adṛṣṭa](../terms/adrsta.md), [āpta](../terms/apta.md) · concepts: [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 4.2.2 <a id="tea-nyaya-bhasya-4-2-2"></a>
 `skeleton` · confidence high
@@ -268,4 +268,4 @@ practices: [Repeated study of the science of the self](../practices/jnanagrahana
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._

@@ -73,7 +73,7 @@ Seeking the root of it all, Amitābha is the dominant condition: birth there, th
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: karma-liberation_
 
-terms: [tariki](../terms/tariki.md), [jiriki](../terms/jiriki.md), [benyuan li](../terms/benyuan-li.md) · concepts: [Other-power (tali / tariki)](../concepts/other-power.md), [Self-power (zili / jiriki)](../concepts/self-power.md) · teachers: [Tanluan](../teachers/tanluan.md) · disputes: [Is awakening reached by one's own practice (self-power) or by the power of Amitābha's vow (other-power)?](../debates/self-power-or-other-power.md), `dsp:works-knowledge-grace`
+terms: [tariki](../terms/tariki.md), [jiriki](../terms/jiriki.md), [benyuan li](../terms/benyuan-li.md) · concepts: [Other-power (tali / tariki)](../concepts/other-power.md), [Self-power (zili / jiriki)](../concepts/self-power.md) · teachers: [Tanluan](../teachers/tanluan.md) · disputes: [Is awakening reached by one's own practice (self-power) or by the power of Amitābha's vow (other-power)?](../debates/self-power-or-other-power.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 2.praise-gate <a id="tea-wangsheng-lun-zhu-2-praise-gate"></a>
 `skeleton` · confidence high
@@ -97,4 +97,4 @@ terms: [ōsō ekō](../terms/oso-eko.md), [gensō ekō](../terms/genso-eko.md), 
 _Notes: T40 is not in the local corpus; all teachings from this text are recalled (no original quoted)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

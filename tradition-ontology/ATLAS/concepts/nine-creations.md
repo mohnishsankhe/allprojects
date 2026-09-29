@@ -1,6 +1,6 @@
 # The nine creations of the Viṣṇu Purāṇa
 
-`cpt:nine-creations` · `skeleton` · confidence moderate
+`cpt:nine-creations` · `sourced` · confidence moderate
 
 **Category:** cosmology-time
 
@@ -13,4 +13,8 @@
 - part-of → [Primary and secondary creation](sarga-and-visarga.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:visnu-purana:1.5.19-25 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

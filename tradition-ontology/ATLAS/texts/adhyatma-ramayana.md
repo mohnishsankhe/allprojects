@@ -1,6 +1,6 @@
 # Adhyātma Rāmāyaṇa
 
-`src:adhyatma-ramayana` · `skeleton` · confidence high
+`src:adhyatma-ramayana` · `sourced` · confidence high
 
 **Original title:** अध्यात्मरामायणम्
 **Language:** Sanskrit
@@ -20,19 +20,19 @@ Retells Rāma's story so that every episode teaches that Rāma is the supreme Br
 **Editions / translations:** 
   - kind: original; name: Adhyātma Rāmāyaṇa with Hindi, Gita Press Gorakhpur (local digitization in sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam); licence: digitization terms unknown
 
-## Teachings (10: skeleton 10)
+## Teachings (10: sourced 10)
 
 ### 1.1.13-24 <a id="tea-adhyatma-ramayana-1-1-13-24"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 Pārvatī's doubt: some say Rāma is the supreme, others that, veiled by ignorance, he did not know himself — if he knew, why did he lament for Sītā; if not, why worship him? Mahādeva: Rāma is the supreme Self beyond prakṛti; having created all by his māyā he sees it from within; the deluded superimpose their own ignorance on him; as there is no darkness in the sun, there can be no ignorance in Rāma, pure consciousness, the witness of ignorance.
 
 _level: ultimate · standpoint: polemical · path: knowledge, devotion · stage: all · types: ultimate, dispute_
 
-teachers: [Pārvatī](../teachers/parvati.md), [Śiva](../teachers/siva.md) · disputes: `dsp:saguna-nirguna`
+teachers: [Pārvatī](../teachers/parvati.md), [Śiva](../teachers/siva.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 1.1.32-43 <a id="tea-adhyatma-ramayana-1-1-32-43"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 Sītā to Hanumān: know Rāma as the supreme Brahman, existence-consciousness-bliss, non-dual, free of all adjuncts, pure being beyond the senses; know me as primal nature (mūlaprakṛti), the cause of creation, preservation and dissolution, creating by his mere presence; the ignorant superimpose on him the birth, the exile, the war and all the deeds that are mine; Rāma neither goes nor stays, grieves nor desires, gives up nor does anything — he only appears so, following the guṇas of māyā.
 
@@ -43,7 +43,7 @@ _level: ultimate · standpoint: divine · path: knowledge, devotion · stage: ad
 terms: [mūlaprakṛti](../terms/mula-prakrti.md) · concepts: [The threefold consciousness (Rāma-hṛdaya)](../concepts/threefold-consciousness-rama-hrdaya.md) · teachers: [Sītā](../teachers/sita.md), [Hanumān](../teachers/hanuman.md)
 
 ### 1.1.44-52 <a id="tea-adhyatma-ramayana-1-1-44-52"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 The Rāma-hṛdaya: as space is threefold — the great space, the space delimited by a pond, and the sky reflected in its water — so consciousness is threefold: the whole, that delimited by the intellect, and its reflection (ābhāsa). The ignorant superimpose agency and jīvahood on the undivided witness; the reflection is unreal, a product of ignorance; sayings like 'that thou art' teach the identity of the delimited with the whole; when that knowledge arises, ignorance with its effects is destroyed. My devotee who knows this attains my state; for those averse to devotion there is neither knowledge nor liberation in a hundred births. Do not give this to one without devotion.
 
@@ -52,7 +52,7 @@ _level: ultimate · standpoint: analytic · path: knowledge, devotion · stage: 
 terms: [ābhāsa](../terms/abhasa.md), [avaccheda](../terms/avaccheda.md), [mahāvākya](../terms/mahavakya.md) · concepts: [The threefold consciousness (Rāma-hṛdaya)](../concepts/threefold-consciousness-rama-hrdaya.md) · teachers: [Rāma (Dāśarathi)](../teachers/rama.md), [Hanumān](../teachers/hanuman.md) · disputes: [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md)
 
 ### 3.4.17-30 <a id="tea-adhyatma-ramayana-3-4-17-30"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 Rāma to Lakṣmaṇa: māyā is the notion of self in the body and other non-self; by it saṃsāra is imagined; it has two powers, projection (vikṣepa), which creates the gross and subtle world from the subtle body to Brahmā, and veiling (āvaraṇa), which covers knowledge; the world imagined in the Self is like a snake in a rope, nothing on inquiry; the body is the firm root of the tree of saṃsāra; the field consists of the elements, subtle elements, ego, intellect, senses, reflected consciousness, mind and primal nature, and the jīva, the supreme Self, is distinct from these.
 
@@ -61,7 +61,7 @@ _level: ultimate · standpoint: analytic · path: knowledge · stage: intermedia
 terms: [vikṣepaśakti](../terms/viksepa-sakti.md), [āvaraṇaśakti](../terms/avarana-sakti.md), [māyā](../terms/maya.md), [adhyāsa](../terms/adhyasa.md) · concepts: [The two powers of māyā](../concepts/two-powers-of-maya.md) · teachers: [Rāma (Dāśarathi)](../teachers/rama.md), [Lakṣmaṇa](../teachers/laksmana.md)
 
 ### 3.4.31-44 <a id="tea-adhyatma-ramayana-3-4-31-44"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 The means to knowledge: jīva and supreme Self are synonyms, not different; absence of pride, renouncing hypocrisy and violence, bearing others' abuse, straightforwardness, serving a true guru with body, speech and mind, inner and outer purity, steadiness, self-restraint, freedom from ego, reflection on birth and old age, non-attachment to sons, wife and wealth, equanimity, single-minded devotion to me, solitude, constant effort at self-knowledge and study of Vedānta. Knowledge is the certainty 'I am consciousness, distinct from intellect, breath, mind, body and ego'; when the knowledge of the identity of jīva and supreme arises from teacher and scripture, root ignorance dissolves with its effects — that is called liberation, only figuratively of the Self.
 
@@ -70,7 +70,7 @@ _level: ultimate · standpoint: seeker · path: knowledge · stage: intermediate
 practices: [Service of the teacher](../practices/guru-seva.md) · teachers: [Rāma (Dāśarathi)](../teachers/rama.md), [Lakṣmaṇa](../teachers/laksmana.md)
 
 ### 3.4.45-53 <a id="tea-adhyatma-ramayana-3-4-45-53"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 Yet this knowledge with realization and dispassion is hard to gain for those averse to devotion to me: as even those with eyes see nothing at night but see clearly with a lamp, the Self shines clearly for those endowed with devotion. Its causes: company of my devotees, service to them, fasting on Ekādaśī, celebrating my festivals, delight in hearing, reading and expounding my stories, worship and chanting my name; to such, unswerving devotion arises, and from it knowledge, realization, dispassion and liberation quickly follow. Do not give this to one averse to devotion.
 
@@ -79,16 +79,16 @@ _level: bridging · standpoint: devotional · path: devotion, knowledge · stage
 practices: [Holy company (satsaṅga)](../practices/satsanga.md), [Ekādaśī fast](../practices/ekadasi-vrata.md) · teachers: [Rāma (Dāśarathi)](../teachers/rama.md), [Lakṣmaṇa](../teachers/laksmana.md) · disputes: [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md)
 
 ### 3.10.20-21 <a id="tea-adhyatma-ramayana-3-10-20-21"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 Rāma to Śabarī: whether male or female, caste, name or stage of life is not the cause of worshipping me — devotion alone is; by sacrifice, gifts, austerity, Vedic study or rites I cannot be seen by those averse to devotion.
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: karma-liberation, ethics_
 
-teachers: [Rāma (Dāśarathi)](../teachers/rama.md), [Śabarī](../teachers/sabari.md) · disputes: `dsp:women-caste-liberation`
+teachers: [Rāma (Dāśarathi)](../teachers/rama.md), [Śabarī](../teachers/sabari.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 3.10.22-27 <a id="tea-adhyatma-ramayana-3-10-22-27"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 The nine means of devotion taught to Śabarī: first, company of the holy; second, conversation about my stories; third, singing my qualities; fourth, expounding my words; fifth, serving the teacher without guile as myself; sixth, virtuous character with yama and niyama and steady devotion to my worship; seventh, worship through my mantra with its limbs; eighth, honouring my devotees more than me, seeing me in all beings, and dispassion toward outer things with calm; ninth, inquiry into my true nature.
 
@@ -97,23 +97,27 @@ _level: conventional · standpoint: devotional · path: devotion, knowledge · s
 terms: [navadhā bhakti](../terms/navadha-bhakti.md) · concepts: [The nine means of devotion (Adhyātma Rāmāyaṇa)](../concepts/navadha-bhakti-adhyatma-ramayana.md) · practices: [The nine means of devotion (Adhyātma Rāmāyaṇa)](../practices/navadha-bhakti-adhyatma-ramayana.md), [Holy company (satsaṅga)](../practices/satsanga.md), [Service of the teacher](../practices/guru-seva.md) · teachers: [Rāma (Dāśarathi)](../teachers/rama.md), [Śabarī](../teachers/sabari.md)
 
 ### 3.10.28-31 <a id="tea-adhyatma-ramayana-3-10-28-31"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 By these, devotion marked by love arises in a woman, a man or even an animal; devotion is certainly the cause of liberation; for one who has the first means, the rest follow in order, then devotion, then liberation.
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: karma-liberation_
 
-teachers: [Rāma (Dāśarathi)](../teachers/rama.md), [Śabarī](../teachers/sabari.md) · disputes: `dsp:women-caste-liberation`
+teachers: [Rāma (Dāśarathi)](../teachers/rama.md), [Śabarī](../teachers/sabari.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 3.10.39-43 <a id="tea-adhyatma-ramayana-3-10-39-43"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 Having told Rāma where Sītā was, Śabarī entered the fire before him and, shaking off all bonds made by ignorance, attained liberation by his grace: what is hard to gain when Rāma is pleased, if even Śabarī, born low, gained liberation?
 
 _level: conventional · standpoint: devotional · path: devotion · stage: realized · types: karma-liberation, death-dying_
 
-teachers: [Śabarī](../teachers/sabari.md) · disputes: `dsp:women-caste-liberation`
+teachers: [Śabarī](../teachers/sabari.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press), catalog:eBharati:adhyAtmarAmAyaNam, https://en.wikipedia.org/wiki/Adhyatma_Ramayana — Structure verified exactly: 7 kāṇḍas of 7+9+10+9+5+16+9 = 65 sargas. The Māhātmya colophon reads 'iti śrībrahmāṇḍapurāṇe uttarakhaṇḍe 'dhyātmarāmāyaṇamāhātmyaṃ sampūrṇam'. Wikipedia dates the text to the 13th-15th c. (some say 14th-15th), and tradition also ascribes it to Rāmānanda. The entry's 14th-15th c. is within this.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

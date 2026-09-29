@@ -45,10 +45,10 @@ The earliest systematic current of Kashmirian non-dual Śaivism, founded on the 
 [Unfolding of the centre (madhyavikāsa)](../practices/madhya-vikasa.md), [Spanda awareness](../practices/spanda-awareness.md)
 
 ## Path maps
-`pth:kashmir-four-upayas`
+[The four means (upāya) of the Trika: āṇava, śākta, śāmbhava, anupāya](../paths/kashmir-four-upayas.md)
 
 ## Debates
 [Who composed the Spandakārikā - Vasugupta or his disciple Kallaṭa?](../debates/spanda-karika-authorship.md)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._

@@ -13,4 +13,4 @@ When harmed or in bad circumstances, blaming self-cherishing rather than others,
   - [Jewel Garland of the Bodhisattva (Bodhisattvamaṇyāvalī; byang chub sems dpa'i nor bu'i phreng ba)](../texts/bodhisattvamanyavali.md) — ref: v15–18; rests_on: ["tea:bodhisattvamanyavali:v15-18"]
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._

@@ -12,4 +12,4 @@ The thumbs interlocked and the fingers extended, shown to 'make supreme' (param�
   - [Śāradātilaka](../texts/saradatilaka.md) — ref: 23.111-114; rests_on: ["tea:saradatilaka:23.111-114"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:11 IST._

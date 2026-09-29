@@ -15,5 +15,6 @@ Seventeenth-century Mahārāṣṭrian scholar in Vārāṇasī, famous for his 
 **Verification checks**
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Neelakantha_Chaturdhara — Confirmed (Deshastha; late 17th c.).
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Neelakantha_Chaturdhara — c. 1650-1700, Vārāṇasī; commentary on the Mahābhārata and on the Gaṇeśa Gītā (1693).
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._

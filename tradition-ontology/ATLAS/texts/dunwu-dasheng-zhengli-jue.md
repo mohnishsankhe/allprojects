@@ -24,10 +24,10 @@ Moheyan's replies: all beings are bound by deluded discriminating thought; when 
 
 _level: ultimate · standpoint: seeker · path: meditation · stage: all · types: practice, dispute_
 
-teachers: [Moheyan 摩訶衍 (Hwashang Mahāyāna)](../teachers/moheyan.md) · disputes: `dsp:sudden-or-gradual`
+teachers: [Moheyan 摩訶衍 (Hwashang Mahāyāna)](../teachers/moheyan.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 
 _Notes: Dunhuang (P. 4646, S. 2672); not held locally. The Chinese side of the Samye debate (dsp:sudden-or-gradual, U50)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

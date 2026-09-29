@@ -19,4 +19,4 @@ Kullūka Bhaṭṭa's concise commentary on Manu, the basis of the vulgate text 
 
 - 2026-09-28 catalog+websearch: partially-confirmed — catalog:eBharati:manusmRtiH (kullUkabhaTTaH), https://www.wisdomlib.org/concept/kulluka-bhatta, https://en.wikipedia.org/wiki/Manusmriti — Extant (eBhāratī edition with Kullūka); the GRETIL text is based on it. The date is disputed: Wisdomlib says 12th c., while other literature places Kullūka in the 13th–15th c. (the entry's range). Kept as partial.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

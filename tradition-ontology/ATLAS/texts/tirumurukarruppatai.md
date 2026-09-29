@@ -14,4 +14,4 @@
 Nakkīrar's guide-poem directing a seeker to Murukaṉ at his six abodes; first of the Sangam Pattuppāṭṭu and included in the eleventh Tirumuṟai.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

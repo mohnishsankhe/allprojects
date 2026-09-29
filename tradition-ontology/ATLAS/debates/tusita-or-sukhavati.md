@@ -26,4 +26,4 @@ Tuṣita is in the desire realm, a place of retrogression and sensual attachment
 _Notes: Xuanzang and Kuiji personally aspired to Tuṣita (recalled); the Xifang yaojue attributed to Kuiji nonetheless favours the West._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

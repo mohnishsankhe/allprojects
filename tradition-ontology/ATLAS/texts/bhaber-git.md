@@ -26,7 +26,7 @@ In the Kartā's fellowship there is one caste: brahmin and low-caste, Hindu and 
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics, dispute_
 
-concepts: [Rejection of caste](../concepts/rejection-of-caste.md) · teachers: [Rāmdulāl Pāl (Dulālcānd)](../teachers/ramdulal-pal.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Rejection of caste](../concepts/rejection-of-caste.md) · teachers: [Rāmdulāl Pāl (Dulālcānd)](../teachers/ramdulal-pal.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### Bhāber Gīt, on the Master hidden in man <a id="tea-bhaber-git-hidden-master"></a>
 `skeleton` · confidence low · _recent (post-1800)_
@@ -48,4 +48,4 @@ concepts: [The bazaar of the soul (Kartābhajā imagery)](../concepts/bazaar-of-
 
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

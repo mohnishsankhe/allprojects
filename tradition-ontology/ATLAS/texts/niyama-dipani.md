@@ -21,8 +21,8 @@ The universe is governed by five orders — of heat, seeds, kamma, mind and Dham
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: world-fate_
 
-concepts: [The five orders of nature (niyāma)](../concepts/five-niyamas.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+concepts: [The five orders of nature (niyāma)](../concepts/five-niyamas.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._

@@ -13,4 +13,4 @@ Eight (or ten) secondary defilements: shamelessness, lack of dread of blame, env
   - [Abhidharmakośabhāṣya](../texts/abhidharmakosabhasya.md) — ref: 5.2; rests_on: ["tea:abhidharmakosabhasya:5.2"]
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._

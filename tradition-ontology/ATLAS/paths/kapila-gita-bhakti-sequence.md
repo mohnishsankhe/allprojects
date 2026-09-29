@@ -1,6 +1,6 @@
 # Kapila's sequence of devotion (Bhāgavata 3.25-29)
 
-`pth:kapila-gita-bhakti-sequence` · `skeleton` · confidence moderate
+`pth:kapila-gita-bhakti-sequence` · `sourced` · confidence moderate
 
 **Lineage:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
 **Sources:** 
@@ -18,4 +18,8 @@
 Assembled by U06 from the Kapila Gītā's own ordering words (anukramiṣyati, 3.25.25); bands are interpretation-layer.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — Stage refs verified in vulgate numbering: 3.25.20-25 (anukramiṣyati, 3.25.25), 3.25.26-27 (bhaktyā pumān jātavirāgaḥ ...), 3.28, 3.29.11-14, 3.28.34-38.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

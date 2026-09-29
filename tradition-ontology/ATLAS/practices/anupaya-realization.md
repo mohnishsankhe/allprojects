@@ -11,9 +11,9 @@ For one of the most intense grace, a single hearing of the teacher's word, or th
 **Sources:** 
   - [Tantrāloka](../texts/tantraloka.md) — ref: 2; rests_on: ["tea:tantraloka:2"]
   - [Śivadṛṣṭi](../texts/sivadrsti.md) — ref: 7.5-6; rests_on: ["tea:sivadrsti:7.5-6"]
-**Sequences:** `pth:kashmir-four-upayas`
+**Sequences:** [The four means (upāya) of the Trika: āṇava, śākta, śāmbhava, anupāya](../paths/kashmir-four-upayas.md)
 
 _Notes: Abhinavagupta also calls it ānandopāya (low confidence on the alternative name)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._

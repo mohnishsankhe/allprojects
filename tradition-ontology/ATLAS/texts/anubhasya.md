@@ -33,10 +33,10 @@ Brahman is the locus of contradictory attributes (viruddha-dharmāśraya): scrip
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · types: ultimate_
 
-terms: [viruddha-dharmāśraya](../terms/viruddha-dharmasraya.md) · concepts: [Brahman as the locus of contradictory attributes](../concepts/viruddha-dharmasraya.md) · teachers: [Vallabhācārya (Śrī Vallabha, Mahāprabhujī)](../teachers/vallabha.md) · disputes: `dsp:saguna-nirguna`
+terms: [viruddha-dharmāśraya](../terms/viruddha-dharmasraya.md) · concepts: [Brahman as the locus of contradictory attributes](../concepts/viruddha-dharmasraya.md) · teachers: [Vallabhācārya (Śrī Vallabha, Mahāprabhujī)](../teachers/vallabha.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 
 _Notes: The point at which Vallabha's portion ends (c. BS 3.2.33) is commonly stated; verify._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

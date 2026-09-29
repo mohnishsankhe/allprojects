@@ -13,4 +13,4 @@
 Dudjom Lingpa's Dzogchen instruction on revealing one's own face of the natural Great Perfection 'without meditation'.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

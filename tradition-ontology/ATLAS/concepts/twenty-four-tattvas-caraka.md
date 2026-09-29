@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The twenty-five principles (pañcaviṃśati-tattva)](twenty-five-tattvas.md): Sāṃkhya's scheme; Caraka merges puruṣa with the unmanifest (24 not 25) — rests on [sa.1.59-65](../texts/caraka-samhita.md#tea-caraka-samhita-sa-1-59-65), [sa.1.3-9](../texts/susruta-samhita.md#tea-susruta-samhita-sa-1-3-9)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._

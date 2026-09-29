@@ -16,4 +16,4 @@ Afflictions such as the loss of offspring that the chart shows to arise from sin
 _Notes: Member list recalled from BPHS 83 (from memory beyond the chapter opening)._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

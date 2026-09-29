@@ -118,7 +118,7 @@ concepts: [The hierarchy of revelations](../concepts/scriptural-hierarchy.md) ·
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-concepts: [Placing the other schools as lower stages of one's own](../concepts/doxographic-ranking-of-schools.md), [The hierarchy of revelations](../concepts/scriptural-hierarchy.md) · teachers: [Kṣemarāja](../teachers/ksemaraja.md) · disputes: [How is another family's revelation to be placed — as a lower stage of one's own, as a deliberate delusion, as a subdued power, or as a partial standpoint?](../debates/ranking-of-other-revelations.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), `dsp:saguna-nirguna`
+concepts: [Placing the other schools as lower stages of one's own](../concepts/doxographic-ranking-of-schools.md), [The hierarchy of revelations](../concepts/scriptural-hierarchy.md) · teachers: [Kṣemarāja](../teachers/ksemaraja.md) · disputes: [How is another family's revelation to be placed — as a lower stage of one's own, as a deliberate delusion, as a subdued power, or as a partial standpoint?](../debates/ranking-of-other-revelations.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 8/3 <a id="tea-pratyabhijnahrdayam-8-3"></a>
 `skeleton` · confidence high
@@ -267,4 +267,4 @@ terms: [pūrṇāhantā](../terms/purnahanta.md), [mantravīrya](../terms/mantra
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._

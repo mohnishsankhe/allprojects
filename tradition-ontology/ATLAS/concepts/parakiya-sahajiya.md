@@ -13,4 +13,4 @@
 - contrasts-with → [Paramour and wedded love (parakīyā / svakīyā)](parakiya-svakiya.md): For the Gauḍīyas parakīyā belongs to Kṛṣṇa's līlā only and is never a human practice.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

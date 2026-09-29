@@ -95,7 +95,7 @@ In the Kaula path there are two, the made (kṛtakā) and the innate (sahajā): 
 
 _level: bridging · standpoint: analytic · path: knowledge, body-breath · stage: advanced · types: practice, consciousness-mind, dispute_
 
-terms: [sahaja](../terms/sahaja.md), [kuṇḍalinī](../terms/kundalini.md) · concepts: [The made and the innate paths (kṛtaka and sahaja)](../concepts/krtaka-sahaja.md), [Kuṇḍalinī](../concepts/kundalini.md), [The innate (sahaja)](../concepts/sahaja.md) · disputes: [Is awakening reached by the effortful arousal of kuṇḍalinī, or does it lie in the innate (sahaja), which such practices do not reach?](../debates/natha-effort-or-sahaja.md), `dsp:kundalini-effort-grace`
+terms: [sahaja](../terms/sahaja.md), [kuṇḍalinī](../terms/kundalini.md) · concepts: [The made and the innate paths (kṛtaka and sahaja)](../concepts/krtaka-sahaja.md), [Kuṇḍalinī](../concepts/kundalini.md), [The innate (sahaja)](../concepts/sahaja.md) · disputes: [Is awakening reached by the effortful arousal of kuṇḍalinī, or does it lie in the innate (sahaja), which such practices do not reach?](../debates/natha-effort-or-sahaja.md), [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
 
 ### b.52-54 <a id="tea-akulavira-tantra-b-52-54"></a>
 `skeleton` · confidence moderate
@@ -165,4 +165,4 @@ concepts: [The Nāth critique of ritual and caste](../concepts/natha-critique-of
 _Notes: Refs in this shard use 'A.n' for the first recension and 'B.n' for the text after the lacuna in the e-text; the assignment of the post-lacuna verses to recension B follows the e-text's layout and should be checked against the printed edition._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._

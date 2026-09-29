@@ -38,8 +38,8 @@ teachers: [Śaṅkaradeva](../teachers/sankaradeva.md), [Naranārāyaṇa](../te
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics, teacher-transmission_
 
-concepts: [Devotion and caste](../concepts/bhakti-and-caste.md) · practices: [Taking refuge (śaraṇ)](../practices/sarana-initiation.md) · teachers: [Śaṅkaradeva](../teachers/sankaradeva.md), [Cāndsāi](../teachers/candsai.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Devotion and caste](../concepts/bhakti-and-caste.md) · practices: [Taking refuge (śaraṇ)](../practices/sarana-initiation.md) · teachers: [Śaṅkaradeva](../teachers/sankaradeva.md), [Cāndsāi](../teachers/candsai.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

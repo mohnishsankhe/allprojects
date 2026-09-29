@@ -16,4 +16,4 @@
 - same-as-under-standpoint → [Liberation while living](liberation-while-living.md): The Sant jīvan-mṛtak and sahaj correspond to liberation while living; the Kabīr Panth and Sant Mat add a post-mortem return to Satlok/Sach Khand. — rests on [jivan-mrtak-ang](../texts/kabir-granthavali.md#tea-kabir-granthavali-jivan-mrtak-ang)
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

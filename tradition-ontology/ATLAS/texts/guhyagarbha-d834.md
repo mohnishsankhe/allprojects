@@ -16,4 +16,4 @@ A longer recension of the Guhyagarbha kept in the Derge Old Tantra section; trad
 _Notes: Existence local (catalog:Derge-Kangyur:D834). Which traditional recension (46 or 82 chapters) it is was not established: the unit's colophon count was incomplete._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

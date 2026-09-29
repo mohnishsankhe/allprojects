@@ -113,7 +113,7 @@ These same six auxiliaries of the Veda are also the six limbs of the Kula; there
 
 _level: conventional · standpoint: polemical · path: ritual · stage: all · types: dispute, teacher-transmission_
 
-disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md), [Is Kaula practice — the Kula worship with the five tattvas, the circle and the cremation ground — a legitimate path to liberation, or a departure from dharma?](../debates/legitimacy-of-kaula-practice.md)
+disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md), [Is Kaula practice — the Kula worship with the five tattvas, the circle and the cremation ground — a legitimate path to liberation, or a departure from dharma?](../debates/legitimacy-of-kaula-practice.md)
 
 ### 2.109 <a id="tea-kularnava-tantra-2-109"></a>
 `skeleton` · confidence moderate
@@ -260,7 +260,7 @@ When the Bhairavī circle has begun, all castes are twice-born; when it is over,
 
 _level: conventional · standpoint: ethical-social · path: ritual · stage: all · types: ethics, dispute_
 
-concepts: [The Bhairavī circle](../concepts/bhairavi-cakra.md) · disputes: `dsp:women-caste-liberation`
+concepts: [The Bhairavī circle](../concepts/bhairavi-cakra.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 9.40-43 <a id="tea-kularnava-tantra-9-40-43"></a>
 `skeleton` · confidence high
@@ -451,4 +451,4 @@ terms: [kula](../terms/kula.md), [akula](../terms/akula.md), [kaulika](../terms/
 
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._

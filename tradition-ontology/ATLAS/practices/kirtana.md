@@ -1,6 +1,6 @@
 # Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)
 
-`prc:kirtana` · `skeleton` · confidence high
+`prc:kirtana` · `sourced` · confidence high
 
 **Category:** devotion-service
 **Convergence:** 18 independent lineage(s): [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](../lineages/alvar.md), [Bāul](../lineages/baul.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Dādū Panth](../lineages/dadu-panth.md), [Ekaśaraṇa Dharma](../lineages/ekasarana.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md), `lin:haridasa-karnataka`, [Kabīr Panth](../lineages/kabir-panth.md), [Kartābhajā](../lineages/kartabhaja.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Puṣṭimārga (Vallabha Sampradāya; Śuddhādvaita Brahmavāda)](../lineages/pustimarga.md), [Rāmānandī sampradāya](../lineages/ramanandi.md), [Ravidāsī (Ravidassia) tradition](../lineages/ravidasi.md), [Śaiva Siddhānta](../lineages/saiva-siddhanta.md), [Saṅgītaśāstra (the science of music: song, instrument and dance)](../lineages/sangita.md), [Sant tradition (nirguṇa bhakti of North India)](../lineages/sant.md), [Vārkarī sampradāya](../lineages/varkari.md)
@@ -44,5 +44,6 @@ _Notes: U05's contribution to a shared practice._
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:9.14 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.9, tea:bhagavad-gita:10.10, tea:bhagavad-gita:11.36 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:12.3.51-52, tea:bhagavata-purana:2.1.11, tea:visnu-purana:6.2.17 — BhP 2.1.11, 12.3.51-52, VP 6.2.17 located; the Padma nāma-aparādha warning now has a locator (Brahmakhaṇḍa 25). All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U31-sound-arts, skeleton:U07-puranas, skeleton:U05-gita-epic, skeleton:U25-alvar-bhakti-theory, extraction:bhagavad-gita/ch07-09, skeleton:U26-regional-bhakti, extraction:bhagavad-gita/ch10-12, skeleton:U16-bhedabheda, skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U07-puranas, skeleton:U05-gita-epic, skeleton:U25-alvar-bhakti-theory, extraction:bhagavad-gita/ch07-09, skeleton:U26-regional-bhakti, extraction:bhagavad-gita/ch10-12, skeleton:U16-bhedabheda, skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

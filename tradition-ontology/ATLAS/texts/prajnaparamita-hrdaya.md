@@ -111,4 +111,4 @@ terms: [mantra](../terms/mantra.md), [vidyā](../terms/vidya.md) · concepts: [D
 _Notes: Locator: s1-s10 = sentences of the local shorter-recension e-text (sources_raw/prepared/prajnaparamita-hrdaya-sanskrit-short); long.N = the longer recension._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

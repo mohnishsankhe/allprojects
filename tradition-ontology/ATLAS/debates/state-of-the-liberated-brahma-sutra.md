@@ -21,4 +21,4 @@ Auḍulomi: as consciousness only, that being its nature.
 **The traditions' own objections:** Viśiṣṭādvaita reads 4.4.7 as affirming both as real simultaneously, not as two levels.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

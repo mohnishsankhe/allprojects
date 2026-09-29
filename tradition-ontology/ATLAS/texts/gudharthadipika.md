@@ -28,7 +28,7 @@ Madhusūdana Sarasvatī's commentary on the Bhagavad Gītā, reading its three h
 
 _level: unmarked · standpoint: devotional · path: devotion · stage: all · types: ultimate_
 
-concepts: [Devotion (bhakti) in Advaita](../concepts/bhakti-in-advaita.md) · teachers: [Madhusūdana Sarasvatī](../teachers/madhusudana-sarasvati.md) · disputes: `dsp:saguna-nirguna`
+concepts: [Devotion (bhakti) in Advaita](../concepts/bhakti-in-advaita.md) · teachers: [Madhusūdana Sarasvatī](../teachers/madhusudana-sarasvati.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### intro <a id="tea-gudharthadipika-intro"></a>
 `sourced` · confidence moderate
@@ -45,4 +45,4 @@ concepts: [The paths of the Gītā: action, knowledge, meditation and devotion](
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:DCS:Gūḍhārthadīpikā, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/bhagavadgItA/vedavyAsaH/bhagavadgItA-vyAkhyAchatuShTayopetA.md (intro verses 2-11), https://en.wikipedia.org/wiki/Madhus%C5%ABdana_Sarasvat%C4%AB — Extant and digitized. Scholarly estimates for Madhusūdana range c. 1490–1632 (Wikipedia gives c. 1490–1580); the entry's 16th–17th c. (1540–1650) overlaps these; the upper bound may be slightly late.
 
-_Contributed by: skeleton:U13-advaita, skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._

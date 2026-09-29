@@ -13,4 +13,4 @@ Rising before dawn, contemplating the guru's feet in the crown with nectar flood
   - [Nityotsava](../texts/nityotsava.md) — ref: daily worship
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._

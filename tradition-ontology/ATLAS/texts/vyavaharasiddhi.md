@@ -15,4 +15,4 @@ A short lost work ascribed to Nāgārjuna on the establishment of conventional u
 _Notes: Existence and scope to be checked in Phase C._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._

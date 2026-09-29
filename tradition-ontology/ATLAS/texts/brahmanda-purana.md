@@ -1,6 +1,6 @@
 # Brahmāṇḍa Purāṇa
 
-`src:brahmanda-purana` · `skeleton` · confidence moderate
+`src:brahmanda-purana` · `sourced` · confidence moderate
 
 **Alternate titles:** Brahmāṇḍa, Vāyu-prokta Brahmāṇḍa
 **Original title:** ब्रह्माण्डपुराण
@@ -20,4 +20,8 @@ A classic Purāṇa of creation, cosmography, time, manvantaras and dynasties (w
 _Notes: chapter checked in the GRETIL e-text of the Brahmāṇḍa Purāṇa (Venkateshwara ed.)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL:brahmANDapurANa, catalog:eBharati:brahmANDamahApurANam, local:sources_raw/dcs/corpus/GRETIL/sa_brahmANDapurANa.txt (Venkateshwara ed.) 3.5.1, https://en.wikipedia.org/wiki/Brahmanda_Purana — Extant and digitized (GRETIL/Sansknet Venkateshwara text: three bhāgas of 38, 74 and 44 chapters; eBhārati; mAdhva-app; peterFreund). Colophon of 3.4 confirms 'vāyuprokte dvādaśasāhasryāṃ saṃhitāyāṃ ... upasaṃhārapāde' ending at Uttarabhāga ch. 4, and the Lalitopākhyāna occupies 3.5-3.44. Web: core 4th-6th c.
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

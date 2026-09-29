@@ -16,4 +16,4 @@ Offerings into the fire for the four activities (pacifying, increasing, subjugat
 - Pointless fire offerings only hurt the eyes with smoke. — [Dohākoṣa of Saraha (the 'People Dohā')](../texts/dohakosa-saraha.md) v3
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._

@@ -33,10 +33,10 @@ Prabhācandra argues that women cannot be liberated: they cannot give up clothin
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, karma-liberation_
 
-concepts: [Liberation of women (strī-mukti)](../concepts/strimukti.md), [Physical and psychological sex (dravya-veda, bhāva-veda)](../concepts/dravya-bhava-veda.md) · teachers: [Prabhācandra](../teachers/prabhacandra.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Liberation of women (strī-mukti)](../concepts/strimukti.md), [Physical and psychological sex (dravya-veda, bhāva-veda)](../concepts/dravya-bhava-veda.md) · teachers: [Prabhācandra](../teachers/prabhacandra.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 _Notes: Id already used by another unit (U31); U35 adds its Jain-doctrinal contents._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon, skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon, skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._

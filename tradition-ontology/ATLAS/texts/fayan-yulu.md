@@ -16,4 +16,4 @@ Sayings of Fayan Wenyi.
   - kind: original; name: CBETA XML P5, Taishō T47n1991 (Fayan yulu 金陵清涼院文益禪師語錄); local copy sources_raw/cbeta/T/T47/T47n1991.xml; licence: CBETA (CC BY-NC-SA 3.0 TW) — quotation with attribution
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

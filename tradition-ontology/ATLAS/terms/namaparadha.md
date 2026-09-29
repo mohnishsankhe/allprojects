@@ -1,6 +1,6 @@
 # nāmāparādha
 
-`trm:namaparadha` · `skeleton` · confidence moderate
+`trm:namaparadha` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Native script:** नामापराध
@@ -15,4 +15,8 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/peterFreund/purANam/padma_purana_II.md Brahmakhaṇḍa 25.13-19, local:sources_raw/dcs/corpus/GRETIL/sa_nAradapurANa.txt (Sansknet) 1.82.22-24 — The term and the list of ten are attested in the Padma Brahmakhaṇḍa 25.13-19 ('nāmāparādha', 'nāmno 'parādhān daśa'; local peterFreund e-text) and Nārada Purāṇa 1.82.22-24.
+
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

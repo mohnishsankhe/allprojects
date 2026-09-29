@@ -33,7 +33,7 @@ Three sectarian tenets, if pursued, end in inaction: 'whatever a person experien
 
 _level: conventional · standpoint: polemical · path: action · stage: all · types: dispute, karma-liberation_
 
-terms: [issaranimmāna](../terms/issaranimmana.md) · concepts: [The three sectarian tenets (titthāyatana)](../concepts/three-sectarian-tenets.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Do deeds have fruit, and does effort matter — or are experiences fated, caused by God, uncaused, or ended at death?](../debates/kiriyavada-akiriyavada.md), [Is suffering ended by burning off past kamma through austerity, and which action is most blameworthy?](../debates/austerity-and-past-kamma.md)
+terms: [issaranimmāna](../terms/issaranimmana.md) · concepts: [The three sectarian tenets (titthāyatana)](../concepts/three-sectarian-tenets.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Do deeds have fruit, and does effort matter — or are experiences fated, caused by God, uncaused, or ended at death?](../debates/kiriyavada-akiriyavada.md), [Is suffering ended by burning off past kamma through austerity, and which action is most blameworthy?](../debates/austerity-and-past-kamma.md)
 
 ### 9-13 <a id="tea-titthayatana-sutta-9-13"></a>
 `skeleton` · confidence moderate
@@ -48,4 +48,4 @@ concepts: [The six elements](../concepts/six-dhatus.md), [The four noble truths]
 _Notes: SuttaCentral uid an3.61; Mahāsaṅgīti title 'Titthāyatanasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._

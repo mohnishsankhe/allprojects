@@ -11,7 +11,7 @@ Immersion (samāveśa) that arises for one who thinks of nothing, awakened by th
 **Sources:** 
   - [Mālinīvijayottaratantra](../texts/malinivijayottara-tantra.md) — ref: 2.21-23; rests_on: ["tea:malinivijayottara-tantra:2.21-23"]
   - [Tantrāloka](../texts/tantraloka.md) — ref: 3; rests_on: ["tea:tantraloka:3"]
-**Sequences:** `pth:kashmir-four-upayas`
+**Sequences:** [The four means (upāya) of the Trika: āṇava, śākta, śāmbhava, anupāya](../paths/kashmir-four-upayas.md)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._

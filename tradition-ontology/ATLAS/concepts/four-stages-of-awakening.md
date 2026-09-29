@@ -12,8 +12,8 @@
 - [Mahāyāna](../lineages/mahayana.md): Stream-enterer to arhat do not think 'I have attained', for nothing is attained (Vajracchedikā 9).
 
 ## Relations (interpretation layer)
-- corresponds-to-in-map → `pth:four-stages-of-awakening` — rests on [5.27](../texts/mahaparinibbana-sutta.md#tea-mahaparinibbana-sutta-5-27)
+- corresponds-to-in-map → [The four stages of awakening and the eight noble persons](../paths/four-stages-of-awakening.md) — rests on [5.27](../texts/mahaparinibbana-sutta.md#tea-mahaparinibbana-sutta-5-27)
 - same-as-under-standpoint → [The four paths and four fruits](four-paths-and-fruits.md) (analytic): the Abhidhamma presentation of path and fruit (U37) — rests on [5.27](../texts/mahaparinibbana-sutta.md#tea-mahaparinibbana-sutta-5-27)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

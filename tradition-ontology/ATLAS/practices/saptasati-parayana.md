@@ -14,4 +14,4 @@ Recitation of the seven hundred verses of the Devī Māhātmya, preceded by its 
   - [Devī Kavaca](../texts/devi-kavaca.md) — ref: 3-5; rests_on: ["tea:devi-kavaca:3-5"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._

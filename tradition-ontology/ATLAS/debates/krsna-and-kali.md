@@ -23,4 +23,4 @@ Jīva Gosvāmin's commentary on the Brahmasaṃhitā itself cites 'yaḥ kṛṣ
 **The traditions' own objections:** The Gauḍīya tradition rejects any subordination of Kṛṣṇa to the Goddess; the Śākta texts reject the Goddess's subordination to Kṛṣṇa. Both reject the claim that the two views are simply the same.
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # The six upasargas (Liṅga/Śiva Purāṇa)
 
-`obs:upasargas-linga-siva` · `skeleton` · confidence high
+`obs:upasargas-linga-siva` · `sourced` · confidence high
 
 **Category:** meditation-fault
 **Convergence:** 1 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -15,4 +15,8 @@ Pratibhā, śravaṇa, vārtā, darśana, āsvāda and vedanā - powers of knowi
   - [Śiva Purāṇa](../texts/siva-purana.md) — ref: 7.2.38.9-17; rests_on: ["tea:siva-purana:7.2.38.9-17"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:linga-purana:1.9.14-20, tea:linga-purana:1.9.52-56, tea:siva-purana:7.2.38.9-17 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

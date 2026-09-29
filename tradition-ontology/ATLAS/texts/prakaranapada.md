@@ -18,4 +18,4 @@ One of the six 'feet'; systematizes the dharmas into five groups (rūpa, citta, 
 _Notes: Yaśomitra's list (Sphuṭārthā on AK 1.3, checked locally): Jñānaprasthāna – Kātyāyanīputra; Prakaraṇapāda – Vasumitra; Vijñānakāya – Devaśarman; Dharmaskandha – Śāriputra; Prajñaptiśāstra – Maudgalyāyana; Dhātukāya – Pūrṇa; Saṅgītiparyāya – Mahākauṣṭhila. Chinese attributions differ._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._

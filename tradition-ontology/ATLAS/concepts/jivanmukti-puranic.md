@@ -1,6 +1,6 @@
 # Liberation while living (Purāṇic descriptions)
 
-`cpt:jivanmukti-puranic` · `skeleton` · confidence high
+`cpt:jivanmukti-puranic` · `sourced` · confidence high
 
 **Category:** karma-rebirth
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:3.28.34-38, tea:visnu-purana:6.7.103-106 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

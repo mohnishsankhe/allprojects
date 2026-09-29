@@ -13,4 +13,4 @@ The guru, after his own worship, purifies the blindfolded disciple with the spec
 **Sequences:** [The Śrīvidyā sequence of initiation and worship (Paraśurāma Kalpasūtra)](../paths/srividya-krama-diksa.md)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._

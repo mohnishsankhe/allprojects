@@ -15,4 +15,4 @@
 - corresponds-to-in-map → [The three natures (sūtra layer)](three-natures.md): one naturelessness for each nature — rests on [7](../texts/samdhinirmocana-sutra.md#tea-samdhinirmocana-sutra-7)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

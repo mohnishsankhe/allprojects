@@ -11,7 +11,7 @@ Contemplating the hindrances, the aggregates, the sense bases and their fetters,
 **Sources:** 
   - [Mahāsatipaṭṭhāna Sutta](../texts/mahasatipatthana-sutta.md) — ref: 18-21; rests_on: ["tea:mahasatipatthana-sutta:18-21"]
   - [Satipaṭṭhāna Sutta](../texts/satipatthana-sutta.md) — ref: 3.1-3.5; 36-37; 38-39; 40-41; 42-43; rests_on: ["tea:satipatthana-sutta:3.1-3.5", "tea:satipatthana-sutta:36-37", "tea:satipatthana-sutta:38-39", "tea:satipatthana-sutta:40-41", "tea:satipatthana-sutta:42-43"]
-**Sequences:** `pth:three-trainings`
+**Sequences:** [The three trainings (tisso sikkhā / triśikṣā): virtue, concentration, wisdom](../paths/three-trainings.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

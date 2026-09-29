@@ -27,4 +27,4 @@ Error apprehends the object as possessing a character it lacks (anyathākhyāti)
 _Notes: Other khyāti theories (Advaita, Yogācāra, Madhyamaka) belong to other units' disputes._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._

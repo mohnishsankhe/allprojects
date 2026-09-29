@@ -1,6 +1,6 @@
 # Bathing in the inner tīrtha
 
-`prc:manasa-tirtha-snana` · `skeleton` · confidence high
+`prc:manasa-tirtha-snana` · `sourced` · confidence high
 
 **Category:** ethics
 **Convergence:** 1 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -11,4 +11,8 @@ Cultivating truth, forbearance, sense-control, compassion, straightforwardness, 
   - [Skanda Purāṇa](../texts/skanda-purana.md) — ref: 4.1.6.28-45; rests_on: ["tea:skanda-purana:4.1.6.28-45"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:skanda-purana:4.1.6.28-45 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

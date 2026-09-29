@@ -10,4 +10,4 @@
 Tang nun, heir of Gao'an Dayu, the first woman recorded as a Chan master in the Jingde chuandeng lu; asked by Guanxi Zhixian what the master of Moshan is, she answered 'not a male or female form', and he served her three years as gardener.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

@@ -11,4 +11,4 @@ Accepting scripture, heaven and the gods of the books without verification in th
   - [Bāul gān (the corpus of Bāul songs of other masters)](../texts/baul-gan.md) — ref: bartamān and anumān; rests_on: ["tea:baul-gan:bartaman-and-anuman"]
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

@@ -38,7 +38,7 @@ There are only two means of valid cognition, perception and inference, because t
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [pramāṇa](../terms/pramana.md), [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md), [svalakṣaṇa](../terms/svalaksana.md), [sāmānyalakṣaṇa](../terms/samanyalaksana.md) · concepts: [Only two means of valid cognition](../concepts/two-pramanas.md), [Particular and universal (svalakṣaṇa / sāmānyalakṣaṇa)](../concepts/svalaksana-samanyalaksana.md) · teachers: [Dignāga](../teachers/dignaga.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md), [Can one object be known by more than one means of knowledge?](../debates/pramana-samplava.md)
+terms: [pramāṇa](../terms/pramana.md), [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md), [svalakṣaṇa](../terms/svalaksana.md), [sāmānyalakṣaṇa](../terms/samanyalaksana.md) · concepts: [Only two means of valid cognition](../concepts/two-pramanas.md), [Particular and universal (svalakṣaṇa / sāmānyalakṣaṇa)](../concepts/svalaksana-samanyalaksana.md) · teachers: [Dignāga](../teachers/dignaga.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md), [Can one object be known by more than one means of knowledge?](../debates/pramana-samplava.md)
 
 ### 1.3 <a id="tea-pramanasamuccaya-1-3"></a>
 `skeleton` · confidence high
@@ -74,7 +74,7 @@ Inference for oneself is seeing the object through a reason having three charact
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: sound-language, dispute_
 
-terms: [svārthānumāna](../terms/svarthanumana.md), [trairūpya](../terms/trairupya.md), [āptavāda](../terms/aptavada.md) · concepts: [The three characteristics of a valid reason (trairūpya)](../concepts/trairupya.md) · teachers: [Dignāga](../teachers/dignaga.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [svārthānumāna](../terms/svarthanumana.md), [trairūpya](../terms/trairupya.md), [āptavāda](../terms/aptavada.md) · concepts: [The three characteristics of a valid reason (trairūpya)](../concepts/trairupya.md) · teachers: [Dignāga](../teachers/dignaga.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 3 <a id="tea-pramanasamuccaya-3"></a>
 `skeleton` · confidence moderate
@@ -98,4 +98,4 @@ terms: [apoha](../terms/apoha.md), [anyāpoha](../terms/anyapoha.md), [śabda](.
 _Notes: The Sanskrit original is lost except fragments; chapter 1 has been reconstructed with the help of Jinendrabuddhi's commentary._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

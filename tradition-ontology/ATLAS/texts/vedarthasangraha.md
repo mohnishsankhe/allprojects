@@ -69,7 +69,7 @@ The means to reach the Lord is bhakti — knowledge that has taken the form of l
 
 _level: conventional · standpoint: seeker · path: devotion · stage: intermediate · types: practice, karma-liberation_
 
-concepts: [Bhakti as meditation (upāsana, dhruvānusmṛti)](../concepts/bhakti-as-upasana.md), [Karma-yoga, jñāna-yoga and bhakti-yoga in sequence](../concepts/yoga-sequence-gita.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:works-knowledge-grace`
+concepts: [Bhakti as meditation (upāsana, dhruvānusmṛti)](../concepts/bhakti-as-upasana.md), [Karma-yoga, jñāna-yoga and bhakti-yoga in sequence](../concepts/yoga-sequence-gita.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### section on kapyāsa (Chāndogya 1.6.7) <a id="tea-vedarthasangraha-kapyasa"></a>
 `skeleton` · confidence low
@@ -91,4 +91,4 @@ terms: [ghaṭaka-śruti](../terms/ghataka-sruti.md), [śarīra](../terms/sarira
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

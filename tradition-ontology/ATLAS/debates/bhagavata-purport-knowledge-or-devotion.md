@@ -1,6 +1,6 @@
 # Is the Bhāgavata's final purport non-dual knowledge or devotion?
 
-`dsp:bhagavata-purport-knowledge-or-devotion` · `skeleton` · confidence moderate
+`dsp:bhagavata-purport-knowledge-or-devotion` · `sourced` · confidence moderate
 
 
 ## Sides (recorded before any reconciliation)
@@ -29,4 +29,8 @@ Devotion: bhakti is the supreme dharma (1.2.6); devotees refuse the five liberat
 **Candidate readings:** P1-level: the devotional passages speak at the conventional level, the non-dual ones at the ultimate (the Advaita reading; rejected by Vaiṣṇavas).; P4-stage: knowledge is a stage within devotion, or devotion within knowledge (each school's own subordination).; The text's own synthesis: BhP 1.2.11 names one non-dual reality as Brahman, Paramātman and Bhagavān, and 11.2.42 has devotion, experience and detachment arise together.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) — All cited verses located (BhP 1.2.6, 1.2.11, 1.3.28, 1.3.30-33, 2.9.32-35, 3.29.13, 11.2.42, 11.14.14, 11.14.20, 12.5.11, 12.13.12). The school positions are summarized at the level of each school's known stance, not checked against the commentaries.
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

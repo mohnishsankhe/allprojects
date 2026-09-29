@@ -10,4 +10,4 @@
 A king (Kashmir in the tradition's account) who renounced his kingdom and lived in Kalyāṇa by selling bundles of firewood (mōḷige).
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

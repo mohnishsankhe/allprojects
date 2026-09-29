@@ -21,7 +21,7 @@ Vasiṣṭha, son of Brahmā, practised yoga and austerity for ages in a lonely 
 
 _level: conventional · standpoint: divine · path: ritual, devotion · stage: all · types: teacher-transmission, dispute_
 
-terms: [cīnācāra](../terms/cinacara.md) · concepts: [The Cīnācāra and the Vasiṣṭha–Buddha story](../concepts/cinacara.md) · teachers: [Vasiṣṭha](../teachers/vasistha.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [cīnācāra](../terms/cinacara.md) · concepts: [The Cīnācāra and the Vasiṣṭha–Buddha story](../concepts/cinacara.md) · teachers: [Vasiṣṭha](../teachers/vasistha.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 17.125-140 <a id="tea-rudrayamala-17-125-140"></a>
 `skeleton` · confidence high
@@ -34,4 +34,4 @@ concepts: [The Cīnācāra and the Vasiṣṭha–Buddha story](../concepts/cina
 
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._

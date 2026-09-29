@@ -25,7 +25,7 @@ The haṭha texts teach withdrawal in several ways: bringing the wandering mind 
   - [Śvetāśvatara Upaniṣad](../texts/svetasvatara-upanisad.md) — ref: 2.8; rests_on: ["tea:svetasvatara-upanisad:2.8"]
   - [Katha Upaniṣad](../texts/katha-upanisad.md) — ref: 2.1.1; rests_on: ["tea:katha-upanisad:2.1.1"]
   - [Chāndogya Upaniṣad](../texts/chandogya-upanisad.md) — ref: 8.15.1; rests_on: ["tea:chandogya-upanisad:8.15.1"]
-**Sequences:** `pth:gheranda-seven-limbs`, [The four stages of practice in the Dattātreyayogaśāstra and Śivasaṃhitā](../paths/siva-samhita-four-avasthas.md), `pth:yoga-sutra-eight-limbs`
+**Sequences:** [The seven means of the 'yoga of the pot' (ghaṭastha-yoga) in the Gheraṇḍa Saṃhitā](../paths/gheranda-seven-limbs.md), [The four stages of practice in the Dattātreyayogaśāstra and Śivasaṃhitā](../paths/siva-samhita-four-avasthas.md), [Patañjali's eight limbs of yoga (aṣṭāṅga-yoga)](../paths/yoga-sutra-eight-limbs.md)
 
 ## The texts' own warnings
 - The powers that arise from withdrawal are obstacles to the great success; the wise do not delight in them nor display them. — [Dattātreyayogaśāstra](../texts/dattatreyayogasastra.md) 91-95
@@ -35,4 +35,4 @@ The haṭha texts teach withdrawal in several ways: bringing the wandering mind 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī E — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (MaiU 6.18; ŚU 2.8; KU 2.1.1; ChU 8.15.1). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

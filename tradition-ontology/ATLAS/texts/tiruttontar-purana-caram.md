@@ -12,4 +12,4 @@
 Umāpati Civācāriyār's summary in verse of the Periya Purāṇam.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

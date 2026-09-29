@@ -1,6 +1,6 @@
 # Holy company (satsaṅga)
 
-`prc:satsanga` · `skeleton` · confidence high
+`prc:satsanga` · `sourced` · confidence high
 
 **Category:** devotion-service
 **Convergence:** 15 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](../lineages/alvar.md), [Bāul](../lineages/baul.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Dādū Panth](../lineages/dadu-panth.md), [Kabīr Panth](../lineages/kabir-panth.md), [Kartābhajā](../lineages/kartabhaja.md), [Mīrābāī's devotion (the Mīrā song-tradition)](../lineages/mirabai.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Rāmānandī sampradāya](../lineages/ramanandi.md), [Ravidāsī (Ravidassia) tradition](../lineages/ravidasi.md), [Unaffiliated regional bhakti poets (classificatory grouping)](../lineages/regional-bhakti-poets.md), [Sant tradition (nirguṇa bhakti of North India)](../lineages/sant.md), [Sant Mat (Radhasoami and its successor lines)](../lineages/sant-mat.md), [Vārkarī sampradāya](../lineages/varkari.md)
@@ -25,4 +25,8 @@ Seeking out and serving the holy, hearing the talks that arise in their company;
 - Bad company (kusaṅg) undoes practice; know the sādhu by conduct, not dress. — [Kabīr Granthāvalī](../texts/kabir-granthavali.md) Kusaṅgati / Sādh kau aṅg
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti, skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text), local:sources_raw/raw_etexts/purANam/va — Rests on tea:uddhava-gita:11.12.1-2, tea:uddhava-gita:11.26.26-34, tea:kapila-gita:3.25.19-20, tea:kapila-gita:3.25.21-25, tea:moksopaya:2.11.56-61, tea:moksopaya:2.16 …; each was located in the local text and matches this entry's statement.
+
+_Contributed by: skeleton:U06-other-gitas, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti, skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

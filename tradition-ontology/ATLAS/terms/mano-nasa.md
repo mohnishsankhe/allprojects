@@ -15,4 +15,4 @@
 **Related:** [vāsanākṣaya](vasana-ksaya.md), [jīvanmukti](jivanmukti.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

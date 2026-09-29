@@ -18,4 +18,4 @@
 - contrasts-with → [Puruṣa (the conscious self)](purusa.md): Sāṃkhya's puruṣa is pure consciousness; the Nyāya self has consciousness only as an adventitious quality. — rests on [1.1.22](../texts/nyaya-bhasya.md#tea-nyaya-bhasya-1-1-22)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._

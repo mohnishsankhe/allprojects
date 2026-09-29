@@ -28,4 +28,4 @@ Buddhist historians (e.g. Thuken's Crystal Mirror of Tenets, early 19th c.) desc
 _Notes: Optional (Bön)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

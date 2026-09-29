@@ -1,6 +1,6 @@
 # The doctrine of avatāra
 
-`cpt:avatara-doctrine` · `skeleton` · confidence high
+`cpt:avatara-doctrine` · `sourced` · confidence high
 
 **Category:** ultimate
 
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:1.3.1-5, tea:bhagavata-purana:1.3.26, tea:bhagavata-purana:1.3.28, tea:devi-mahatmya:11 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas, skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # Vāmana Purāṇa
 
-`src:vamana-purana` · `skeleton` · confidence moderate
+`src:vamana-purana` · `sourced` · confidence moderate
 
 **Alternate titles:** Vāmana
 **Original title:** वामनपुराण
@@ -17,4 +17,8 @@
 The dwarf avatāra and Bali; the glory of Kurukṣetra and the Sarasvatī; Śiva and Pārvatī narratives; vows.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL:vAmanapurANa1-69, catalog:raw_etexts:vamana_purana, https://en.wikipedia.org/wiki/Vamana_Purana, https://www.wisdomlib.org/hinduism/journal/purana-bulletin/d/doc1456830.html — Extant and digitized (GRETIL chs. 1-69 from A.S. Gupta's critical edition, Kashiraj Trust 1967; mAdhva-app; peterFreund; GRETIL-dev Saromāhātmya). Web: Kurukṣetra/Saro-māhātmya confirmed. 10,000 verses (BhP 12.13.7) confirmed.
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

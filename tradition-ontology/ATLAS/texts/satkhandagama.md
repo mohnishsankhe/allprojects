@@ -49,8 +49,8 @@ Of human females who have completed their development, the sūtra states in whic
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, dispute_
 
-concepts: [Liberation of women (strī-mukti)](../concepts/strimukti.md), [The fourteen stages of quality (guṇasthāna)](../concepts/fourteen-gunasthanas.md), [Physical and psychological sex (dravya-veda, bhāva-veda)](../concepts/dravya-bhava-veda.md) · disputes: `dsp:women-caste-liberation`, [Does Ṣaṭkhaṇḍāgama 1.1.93 allow human females the stages of full restraint?](../debates/samjada-controversy.md)
+concepts: [Liberation of women (strī-mukti)](../concepts/strimukti.md), [The fourteen stages of quality (guṇasthāna)](../concepts/fourteen-gunasthanas.md), [Physical and psychological sex (dravya-veda, bhāva-veda)](../concepts/dravya-bhava-veda.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md), [Does Ṣaṭkhaṇḍāgama 1.1.93 allow human females the stages of full restraint?](../debates/samjada-controversy.md)
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

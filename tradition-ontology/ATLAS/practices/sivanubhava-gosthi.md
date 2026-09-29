@@ -10,7 +10,7 @@ Devotees gather to speak from and test their experience of Śiva in dialogue, as
 **Stage:** all
 **Sources:** 
   - [Śūnyasampādane](../texts/sunyasampadane.md) — ref: frame; rests_on: ["tea:sunyasampadane:allama-at-kalyana"]
-**Sequences:** `pth:virasaiva-satsthala`
+**Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

@@ -11,4 +11,4 @@
 Benchō's successor, third patriarch of Jōdo-shū, who spread the Chinzei line in Kamakura and wrote commentaries on Shandao and the Senchakushū.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

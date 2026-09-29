@@ -8,7 +8,7 @@
 
 Holding the liṅga on the palm at eye level and gazing on it steadily, then turning the gaze inward to the liṅga within; taught in modern Śivayoga training and associated in legend with the 'unblinking' (animiṣa) yogi.
 **Stage:** bhakta to prāṇaliṅgi
-**Sequences:** `pth:virasaiva-satsthala`
+**Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ## Equivalents (interpretation layer)
 - analogous: [Trāṭaka (the fixed gaze)](trataka.md) — fixed gazing on an object; here the object is the worn liṅga and the practice is devotional
@@ -16,4 +16,4 @@ Holding the liṅga on the palm at eye level and gazing on it steadily, then tur
 _Notes: Recorded from general knowledge of the Śivayoga revival (Hānagal Kumāra Svāmi); textual source to be found._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

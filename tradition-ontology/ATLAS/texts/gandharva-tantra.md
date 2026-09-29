@@ -15,4 +15,4 @@ A tantra devoted to the worship of Tripurasundarī, with teachings on the qualif
 _Notes: From memory (published in a Tantrasaṅgraha volume); check._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._

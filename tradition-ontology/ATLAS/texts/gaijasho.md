@@ -13,4 +13,4 @@
 Kakunyo's list of deviations in Shinshū communities (such as naming lineage registers and conduct of rival groups) to be corrected.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

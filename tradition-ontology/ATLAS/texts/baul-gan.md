@@ -48,7 +48,7 @@ Bāuls call themselves followers of the present (bartamān): they accept what ca
 
 _level: conventional · standpoint: analytic · path: knowledge, body-breath · stage: all · types: dispute, consciousness-mind_
 
-terms: [bartamān (vartamāna)](../terms/bartaman.md), [anumāna](../terms/anumana.md) · concepts: [The present and the inferred (bartamān and anumān)](../concepts/bartaman-anuman.md) · obstacles: [Dependence on inference and hearsay (anumān)](../obstacles/anuman.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [bartamān (vartamāna)](../terms/bartaman.md), [anumāna](../terms/anumana.md) · concepts: [The present and the inferred (bartamān and anumān)](../concepts/bartaman-anuman.md) · obstacles: [Dependence on inference and hearsay (anumān)](../obstacles/anuman.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### song of Gagan Harkarā 'āmi kothāy pāba tāre, āmār maner mānuṣ ye re …' <a id="tea-baul-gan-gagan-ami-kothay-pab-tare"></a>
 `skeleton` · confidence high · _recent (post-1800)_
@@ -74,4 +74,4 @@ concepts: [Critique of outward religion](../concepts/critique-of-outward-religio
 
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

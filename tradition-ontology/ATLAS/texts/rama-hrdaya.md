@@ -1,6 +1,6 @@
 # Rāma-hṛdaya
 
-`src:rama-hrdaya` · `skeleton` · confidence high
+`src:rama-hrdaya` · `sourced` · confidence high
 
 **Original title:** श्रीरामहृदयम्
 **Language:** Sanskrit
@@ -15,10 +15,10 @@
 
 Sītā tells Hanumān that Rāma is the non-dual Brahman and she the primal nature who does all the deeds attributed to him; Rāma then teaches the threefold consciousness (the whole, the consciousness delimited by the intellect, and its reflection) by the example of the threefold sky, and that the great sayings reveal the identity whose knowledge destroys ignorance, provided one has devotion.
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 1.1.44-52 <a id="tea-rama-hrdaya-1-1-44-52"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 Rāma's own summary of the knowledge of self, non-self and supreme Self: the threefold space and the threefold consciousness (whole, delimited, reflected); the identity taught by the great sayings; devotion as its precondition.
 
@@ -28,4 +28,8 @@ concepts: [The threefold consciousness (Rāma-hṛdaya)](../concepts/threefold-c
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — Colophon 'bālakāṇḍe śrīrāmahṛdayaṃ nāma prathamaḥ sargaḥ' and 1.1.53 'etat te 'bhihitaṃ devi śrīrāmahṛdayaṃ' verified; Sītā speaks 1.1.32-43 and Rāma 1.1.44-52.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

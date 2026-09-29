@@ -13,4 +13,4 @@ Rajas and tamas corrupt the mind as the three doṣas corrupt the body; they bin
   - [Caraka Saṃhitā](../texts/caraka-samhita.md) — ref: Sū 1.57-58; Śā 4.34; rests_on: ["tea:caraka-samhita:su.1.57-58", "tea:caraka-samhita:sa.4.34-40", "tea:caraka-samhita:sa.1.35-38"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._

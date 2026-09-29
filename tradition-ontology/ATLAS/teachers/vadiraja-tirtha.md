@@ -18,4 +18,4 @@ Pontiff of the Sode maṭha (Uḍupi), worshipper of Hayagrīva, poet and polemi
 _Notes: The 1522 start of the two-year paryāya and the 'bhāvi-samīra' belief are recalled at moderate/low confidence._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._

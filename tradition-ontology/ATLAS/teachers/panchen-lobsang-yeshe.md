@@ -11,4 +11,4 @@
 Second (or Fifth) Panchen Lama, author of the Swift Path lamrim.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._

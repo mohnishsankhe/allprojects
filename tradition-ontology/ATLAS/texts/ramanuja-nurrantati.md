@@ -16,4 +16,4 @@
 Tiruvaraṅgattu Amudaṉār's 108 Tamil verses in antāti form praising Rāmānuja as the refuge of the surrendered; included in the Nālāyira Divya Prabandham and called the 'Prapanna Gāyatrī'.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

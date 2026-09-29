@@ -58,7 +58,7 @@ The undifferentiated, infinite, complete Brahman, differentiated into the glorie
 
 _level: ultimate · standpoint: devotional · path: devotion, knowledge · stage: all · types: ultimate_
 
-concepts: [Brahman, Paramātman and Bhagavān](../concepts/brahman-paramatman-bhagavan.md) · disputes: `dsp:saguna-nirguna`
+concepts: [Brahman, Paramātman and Bhagavān](../concepts/brahman-paramatman-bhagavan.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 5.44 <a id="tea-brahma-samhita-5-44"></a>
 `skeleton` · confidence high
@@ -82,4 +82,4 @@ concepts: [The three puruṣa-avatāras](../concepts/three-purusa-avataras.md)
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

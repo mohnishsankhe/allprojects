@@ -1,6 +1,6 @@
 # The sense of 'I' (ahaṃkāra)
 
-`obs:ahankara` · `skeleton` · confidence high
+`obs:ahankara` · `sourced` · confidence high
 
 **Category:** affliction
 **Convergence:** 5 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [Dādū Panth](../lineages/dadu-panth.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Sant tradition (nirguṇa bhakti of North India)](../lineages/sant.md), [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md)
@@ -22,5 +22,6 @@ Bhagavad Gītā 1–3: One whose self is deluded by the sense of 'I' thinks 'I a
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.13 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text), local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/prepared/astavakra-gita/segments.jsonl (GRETIL e-text), local:sources_raw/raw_etexts/purANa — MU 1.14 colophon 'ahaṅkārajugupsā', MU 4.15 'ahaṅkāravicāra', AG 1.8 and AR 7.5.38 ('ahaṅkāra eṣa prathamaḥ prakalpitaḥ adhyāsaḥ') verified.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch10-12, skeleton:U14-visistadvaita, skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch10-12, skeleton:U14-visistadvaita, skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

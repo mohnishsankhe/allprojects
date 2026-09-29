@@ -19,4 +19,4 @@ At the second initiation the cartilage of both ears is split by a specialist gur
 _Notes: Body-cutting rite: summary only per project rules._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._

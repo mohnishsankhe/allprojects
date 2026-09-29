@@ -21,4 +21,4 @@
 Chapter refs recalled with low confidence. The text's samādhi is described as union of individual and supreme self and leads to liberation; banded B4 with that caveat.
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._

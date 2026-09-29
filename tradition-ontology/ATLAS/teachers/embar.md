@@ -11,4 +11,4 @@
 Rāmānuja's cousin Govinda, once a Śaiva at Kāḷahasti, brought back by Periya Tirumalai Nambi; Rāmānuja's successor at Śrīraṅgam and teacher of Parāśara Bhaṭṭar, in the line the Teṅkalai follow.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

@@ -15,4 +15,4 @@ Compiler of the Siddhāntaśikhāmaṇi, son of the Vīraśaiva ācārya Siddhan
 _Notes: The Tattvapradīpikā places him in the lineage of Siddharāma; the SSM colophon also styles the composition Reṇukācārya's._
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # Are some Purāṇas sāttvika and authoritative, others rājasa or tāmasa and to be avoided?
 
-`dsp:guna-ranking-of-puranas` · `skeleton` · confidence moderate
+`dsp:guna-ranking-of-puranas` · `sourced` · confidence moderate
 
 
 ## Sides (recorded before any reconciliation)
@@ -28,4 +28,8 @@ This does not settle which deity is supreme; see dsp:supremacy-visnu-or-siva.
 **The traditions' own objections:** Mādhva and Gauḍīya authors take the guṇa-ranking literally (sāttvika Purāṇas alone decide doctrine); Śaiva authors reject the Vaiṣṇava ranking.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/peterFreund/purANam/padma_purana_III.md 236.18-21, local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.68-69, local:sources_raw/dcs/corpus/GRETIL/sa_garuDapurANa.txt (Venkateshwara ed.) 3.1.50-56 — All sides located, including the Padma, which the unit could only cite second-hand: Padma Uttarakhaṇḍa 236.18-21 (local peterFreund e-text) gives exactly the six-per-guṇa scheme; Matsya 53.68-69; GP 3.1.50-56; KūP 1.11.279.
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

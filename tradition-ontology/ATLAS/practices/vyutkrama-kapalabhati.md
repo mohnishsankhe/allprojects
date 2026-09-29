@@ -13,4 +13,4 @@ Water is drawn in through the nostrils and expelled through the mouth, again and
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 1.58; rests_on: ["tea:gheranda-samhita:1.58"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:11 IST._

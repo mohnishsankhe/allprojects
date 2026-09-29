@@ -1,6 +1,6 @@
 # Śrāddha
 
-`prc:sraddha` · `skeleton` · confidence high
+`prc:sraddha` · `sourced` · confidence high
 
 **Category:** ritual
 **Convergence:** 2 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -13,4 +13,8 @@ Rites of faith for the dead and the ancestors - ekoddiṣṭa for the preta, the
   - [Mārkaṇḍeya Purāṇa](../texts/markandeya-purana.md) — ref: 30-33
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:garuda-purana:2.5.49-55, tea:garuda-purana:2.5.85-154 — GP 2.5.49-55, 2.5.85-154 located; MkP 30-33 confirmed by colophons (30 naimittikādi-śrāddhakalpa, 31 pārvaṇa-śrāddhakalpa, 32 śrāddhakalpa, 33 kāmya-śrāddha). All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

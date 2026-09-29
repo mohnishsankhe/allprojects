@@ -1022,7 +1022,7 @@ The wise should give up the notion of denial and doubt, for what is perceptible 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: karma-liberation, dispute_
 
-concepts: [Caraka's arguments for rebirth](../concepts/rebirth-arguments-caraka.md), [Eight causes of non-perception](../concepts/eight-causes-of-non-perception.md) · disputes: [Is there rebirth (and another world)?](../debates/is-there-rebirth-caraka.md), [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+concepts: [Caraka's arguments for rebirth](../concepts/rebirth-arguments-caraka.md), [Eight causes of non-perception](../concepts/eight-causes-of-non-perception.md) · disputes: [Is there rebirth (and another world)?](../debates/is-there-rebirth-caraka.md), [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### su.11.9-16 <a id="tea-caraka-samhita-su-11-9-16"></a>
 `skeleton` · confidence high
@@ -1042,7 +1042,7 @@ All is twofold, existent and non-existent; its examination is fourfold: authorit
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, sound-language_
 
-terms: [yukti](../terms/yukti.md), [āptopadeśa](../terms/aptopadesa.md) · concepts: [Caraka's four means of knowledge](../concepts/four-pramanas-caraka.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md), [Is there rebirth (and another world)?](../debates/is-there-rebirth-caraka.md)
+terms: [yukti](../terms/yukti.md), [āptopadeśa](../terms/aptopadesa.md) · concepts: [Caraka's four means of knowledge](../concepts/four-pramanas-caraka.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md), [Is there rebirth (and another world)?](../debates/is-there-rebirth-caraka.md)
 
 ### su.11.27-29 <a id="tea-caraka-samhita-su-11-27-29"></a>
 `skeleton` · confidence high
@@ -1534,4 +1534,4 @@ terms: [sattva](../terms/sattva.md) · concepts: [Strength of mind (three grades
 _Notes: Refs in this unit: sthāna abbreviation + chapter.verse (su = Sūtra, ni = Nidāna, vi = Vimāna, sa = Śārīra, in = Indriya, ci = Cikitsā, ka = Kalpa, si = Siddhi); Ci 1 has four pādas (ci.1.4.30 = Cikitsā 1, pāda 4, verse 30)._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._

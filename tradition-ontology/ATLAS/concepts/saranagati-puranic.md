@@ -1,6 +1,6 @@
 # Taking refuge (Purāṇic examples)
 
-`cpt:saranagati-puranic` · `skeleton` · confidence moderate
+`cpt:saranagati-puranic` · `sourced` · confidence moderate
 
 **Category:** ethics
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:8.3.2-29, tea:devi-mahatmya:11 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

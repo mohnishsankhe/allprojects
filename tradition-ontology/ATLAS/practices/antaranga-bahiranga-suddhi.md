@@ -10,7 +10,7 @@ Not stealing, not killing, not lying, not raging, not despising others, not prai
 **Stage:** all
 **Sources:** 
   - [Vacanas of Basavaṇṇa (Basavaṇṇanavara vacanagaḷu)](../texts/basavanna-vacanas.md) — ref: vacana 'Kaḷabēḍa, kolabēḍa…'; rests_on: ["tea:basavanna-vacanas:kalabeda-kolabeda"]
-**Sequences:** `pth:virasaiva-satsthala`
+**Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

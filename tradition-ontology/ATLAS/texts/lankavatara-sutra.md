@@ -47,7 +47,7 @@ Is the stream of what is seen as one's own mind purified gradually or all at onc
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: all · types: practice, karma-liberation_
 
-terms: [svacittadṛśya](../terms/svacittadrsya.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: `dsp:sudden-or-gradual`
+terms: [svacittadṛśya](../terms/svacittadrsya.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### 2.p27 <a id="tea-lankavatara-sutra-2-p27"></a>
 `skeleton` · confidence high
@@ -78,7 +78,7 @@ Mahāmati asks whether the tathāgatagarbha — described as luminous, pure, wit
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute, consciousness-mind_
 
-terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [ātman](../terms/atman.md), [nairātmya](../terms/nairatmya.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md), [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md), [Buddha-nature and the Upaniṣadic self: the question of likeness](../concepts/tathagatagarbha-and-atman.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Empty of self, or empty of other?](../debates/rangtong-shentong.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
+terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [ātman](../terms/atman.md), [nairātmya](../terms/nairatmya.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md), [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md), [Buddha-nature and the Upaniṣadic self: the question of likeness](../concepts/tathagatagarbha-and-atman.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Is the ultimate empty of its own nature like all phenomena (rang stong, self-emptiness), or empty only of what is other than it — the adventitious stains — while not empty of its own nature and qualities (gzhan stong, other-emptiness)?](../debates/rangtong-shentong.md), [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md)
 
 ### 2.p33/2 <a id="tea-lankavatara-sutra-2-p33-2"></a>
 `skeleton` · confidence high
@@ -168,4 +168,4 @@ concepts: [The four yogic stages (Laṅkāvatāra)](../concepts/four-yogic-stage
 _Notes: Locator: chapter.pPAGE (Vaidya's page). Chapter colophons and cited passages read in the local e-text._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

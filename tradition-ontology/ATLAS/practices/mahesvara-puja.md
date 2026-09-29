@@ -13,4 +13,4 @@ Feeding, serving and honouring Śiva's devotees as Śiva himself; the freed soul
   - [Paraparakkaṇṇi (Tāyumāṉavar)](../texts/paraparakkanni.md) — ref: aṉpar paṇi; rests_on: ["tea:paraparakkanni:anpar-pani"]
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._

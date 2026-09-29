@@ -1,6 +1,6 @@
 # The Bhāgavata's ten marks (daśalakṣaṇa)
 
-`cpt:bhagavata-ten-marks` · `skeleton` · confidence high
+`cpt:bhagavata-ten-marks` · `sourced` · confidence high
 
 **Category:** teacher-transmission
 **Members:** list 2.10.1: sarga, visarga, sthāna, poṣaṇa, ūti, manvantara, īśānukathā, nirodha, mukti, āśraya, list 12.7.9: sarga, visarga, vṛtti, rakṣā, antara, vaṃśa, vaṃśānucarita, saṃsthā, hetu, apāśraya
@@ -14,4 +14,8 @@
 - contrasts-with → [The five marks of a Purāṇa (pañcalakṣaṇa)](pancalaksana.md): ten marks of the 'great' vs five of the 'small' Purāṇas (BhP 12.7.10) — rests on [12.7.9-10](../texts/bhagavata-purana.md#tea-bhagavata-purana-12-7-9-10)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:12.7.9-10, tea:bhagavata-purana:2.10.1-2 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

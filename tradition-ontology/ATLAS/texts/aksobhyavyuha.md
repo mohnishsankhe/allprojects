@@ -13,4 +13,4 @@
 The array of the buddha Akṣobhya and his eastern land Abhirati, the vows he made as a monk never to feel anger; birth in his land is an early pure-land aspiration; Vimalakīrti's home land.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

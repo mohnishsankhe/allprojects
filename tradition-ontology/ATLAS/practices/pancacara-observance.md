@@ -11,7 +11,7 @@ Living by liṅgācāra, sadācāra, śivācāra, bhṛtyācāra and gaṇācār
 **Sources:** 
   - [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) — ref: 9.30–36; rests_on: ["tea:siddhantasikhamani:9.30-32", "tea:siddhantasikhamani:9.33-35"]
   - [Vacanas of Basavaṇṇa (Basavaṇṇanavara vacanagaḷu)](../texts/basavanna-vacanas.md) — ref: several; rests_on: ["tea:basavanna-vacanas:ivanaruva-ivanaruva"]
-**Sequences:** `pth:virasaiva-satsthala`
+**Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

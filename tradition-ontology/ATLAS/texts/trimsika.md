@@ -231,4 +231,4 @@ terms: [āśraya-parāvṛtti](../terms/asraya-paravrtti.md), [dauṣṭhulya](.
 _Notes: Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

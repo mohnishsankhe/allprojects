@@ -41,7 +41,7 @@ Right cognition is of two kinds: perception and inference.
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: dispute_
 
-concepts: [Only two means of valid cognition](../concepts/two-pramanas.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+concepts: [Only two means of valid cognition](../concepts/two-pramanas.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 1.4-6 <a id="tea-nyayabindu-1-4-6"></a>
 `skeleton` · confidence high
@@ -129,4 +129,4 @@ teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [How many memb
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

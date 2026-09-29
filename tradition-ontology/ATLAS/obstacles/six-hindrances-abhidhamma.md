@@ -16,4 +16,4 @@ Sensual desire, ill will, sloth-and-torpor, restlessness-and-remorse, doubt and 
 - partial: [The five hindrances (nīvaraṇa)](five-hindrances.md) — the sutta five plus ignorance
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._

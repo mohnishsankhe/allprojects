@@ -28,8 +28,8 @@ The liberated are of fifteen kinds: liberated as Tīrthaṅkaras or not; in the 
 
 _level: conventional · standpoint: analytic · path: general · stage: realized · types: karma-liberation_
 
-terms: [siddha](../terms/siddha.md) · concepts: [The fifteen kinds of liberated beings](../concepts/fifteen-kinds-of-siddhas.md), [Liberation of women (strī-mukti)](../concepts/strimukti.md) · disputes: `dsp:women-caste-liberation`, [Is complete nudity required of the renunciant (and for liberation)?](../debates/monastic-nudity.md)
+terms: [siddha](../terms/siddha.md) · concepts: [The fifteen kinds of liberated beings](../concepts/fifteen-kinds-of-siddhas.md), [Liberation of women (strī-mukti)](../concepts/strimukti.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md), [Is complete nudity required of the renunciant (and for liberation)?](../debates/monastic-nudity.md)
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

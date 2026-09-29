@@ -1,6 +1,6 @@
 # Lineages (323)
 
-skeleton: 293 · sourced: 30
+skeleton: 292 · sourced: 31
 
 - [Abhayagiri fraternity (Abhayagiri-vāsins)](abhayagiri.md) — `skeleton`
 - [Adhyātma movement (Adhyātma-mata)](adhyatma-jain.md) — `skeleton`
@@ -250,7 +250,7 @@ skeleton: 293 · sourced: 30
 - [The Kerala tradition of jyotiṣa](kerala-jyotisa.md) — `skeleton`
 - [The Mahāsiddhas (the eighty-four great adepts)](mahasiddha.md) — `skeleton`
 - [The Nāyaṉmārs and the Tirumuṟai (Tamil Śaiva bhakti)](nayanmar.md) — `skeleton`
-- [The Purāṇic tradition (paurāṇika)](puranic.md) — `skeleton`
+- [The Purāṇic tradition (paurāṇika)](puranic.md) — `sourced`
 - [The school of Dhanvantari (Dhānvantara-sampradāya, the surgeons' line)](dhanvantari-sampradaya.md) — `skeleton`
 - [The school of Ātreya (Ātreya-sampradāya, the physicians' line)](atreya-sampradaya.md) — `skeleton`
 - [The Tamil Siddhars (cittar)](tamil-siddha.md) — `skeleton`

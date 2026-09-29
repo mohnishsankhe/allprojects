@@ -105,7 +105,7 @@ Jābāli urges Rāma to return and rule: no one is anyone's kin; one is born alo
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, karma-liberation_
 
-teachers: [Jābāli](../teachers/jabali.md) · disputes: [Is there another world, and is dharma to be followed for its sake? (Rāmāyaṇa 2.108–110)](../debates/jabali-rama.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+teachers: [Jābāli](../teachers/jabali.md) · disputes: [Is there another world, and is dharma to be followed for its sake? (Rāmāyaṇa 2.108–110)](../debates/jabali-rama.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 2.109.13 <a id="tea-ramayana-2-109-13"></a>
 `sourced` · confidence high
@@ -154,7 +154,7 @@ The aged ascetic woman (śramaṇī) Śabarī, who had served the sages of Mata�
 
 _level: conventional · standpoint: devotional · path: devotion, general · stage: advanced · types: karma-liberation, ethics_
 
-teachers: [Śabarī](../teachers/sabari.md), [Rāma (Dāśarathi)](../teachers/rama.md) · disputes: `dsp:women-caste-liberation`
+teachers: [Śabarī](../teachers/sabari.md), [Rāma (Dāśarathi)](../teachers/rama.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 6.18.33 <a id="tea-ramayana-6-18-33"></a>
 `sourced` · confidence moderate
@@ -181,7 +181,7 @@ Nārada explains to Rāma the untimely death of a brāhmaṇa's child: in the K�
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics, dispute_
 
-terms: [tapas](../terms/tapas.md), [varṇa](../terms/varna.md) · teachers: [Rāma (Dāśarathi)](../teachers/rama.md), [Nārada](../teachers/narada.md) · disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md), `dsp:women-caste-liberation`
+terms: [tapas](../terms/tapas.md), [varṇa](../terms/varna.md) · teachers: [Rāma (Dāśarathi)](../teachers/rama.md), [Nārada](../teachers/narada.md) · disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 _Notes: Teachings in this unit are cited by southern vulgate numbering (the numbering of the local text), not the critical edition's. The Adhyātma Rāmāyaṇa and the Yoga Vāsiṣṭha (src:adhyatma-ramayana, src:yoga-vasistha) are covered by U06._
@@ -191,4 +191,4 @@ _Notes: Teachings in this unit are cited by southern vulgate numbering (the numb
 
 - 2026-09-29 catalog: confirmed — catalog:DCS:Rāmāyaṇa, catalog:raw_etexts:baroda_alt, local:sources_raw/DharmicData/ValmikiRamayana (southern vulgate) sarga counts 77/119/75/67/68/128/111; 1.4.2 — Extant and digitized (southern vulgate, Gita Press and Baroda critical texts all local). The sarga counts stated for the local vulgate match exactly; 1.4.2 (24,000 ślokas, 500 sargas, six books and the Uttara) located. Dates left as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._

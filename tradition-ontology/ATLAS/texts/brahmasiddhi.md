@@ -44,7 +44,7 @@ The Upaniṣads do not have injunction (niyoga) as their purport, against the Pr
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, sound-language_
 
-teachers: [Maṇḍana Miśra](../teachers/mandana-misra.md) · disputes: `dsp:works-knowledge-grace`
+teachers: [Maṇḍana Miśra](../teachers/mandana-misra.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 4 <a id="tea-brahmasiddhi-4"></a>
 `skeleton` · confidence moderate
@@ -68,4 +68,4 @@ teachers: [Maṇḍana Miśra](../teachers/mandana-misra.md) · disputes: [Is li
 _Notes: Commentaries: Vācaspati's Tattvasamīkṣā (lost), Citsukha's Abhiprāyaprakāśikā, Ānandapūrṇa's Bhāvaśuddhi, Śaṅkhapāṇi's vyākhyā (last three low confidence)._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

@@ -11,4 +11,4 @@ Living, eating with or accepting goods from those averse to Śiva-devotion.
   - [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) — ref: 9.27–30; rests_on: ["tea:siddhantasikhamani:9.27-28", "tea:siddhantasikhamani:9.30-32"]
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

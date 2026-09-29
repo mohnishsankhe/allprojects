@@ -1,6 +1,6 @@
 # Joining the ancestors
 
-`cpt:pitr-and-sapindikarana` · `skeleton` · confidence high
+`cpt:pitr-and-sapindikarana` · `sourced` · confidence high
 
 **Category:** death-dying
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:agni-purana:114-116, tea:garuda-purana:2.5.49-55 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

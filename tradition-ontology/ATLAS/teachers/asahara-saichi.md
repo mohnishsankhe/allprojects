@@ -10,4 +10,4 @@
 Clog-maker of Iwami counted among the myōkōnin, who wrote thousands of verses of the joy and wretchedness of the self embraced by Amida ('Namu Amida Butsu').
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

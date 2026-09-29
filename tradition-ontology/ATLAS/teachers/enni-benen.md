@@ -10,4 +10,4 @@
 Heir of Wuzhun Shifan who founded Tōfukuji (Kyoto) and combined Zen with Tendai and esoteric teaching.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

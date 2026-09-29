@@ -1,6 +1,6 @@
 # The seven Mothers
 
-`cpt:saptamatrkas` · `skeleton` · confidence high
+`cpt:saptamatrkas` · `sourced` · confidence high
 
 **Category:** ultimate
 **Members:** Brāhmī, Māheśvarī, Kaumārī, Vaiṣṇavī, Vārāhī, Nārasiṃhī, Aindrī
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:devi-mahatmya:10, tea:devi-mahatmya:6-10 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

@@ -23,7 +23,7 @@ The Advaitin may take part in debate on the basis of the practices accepted by b
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, sound-language_
 
-teachers: [Śrīharṣa](../teachers/sriharsa.md) · disputes: [Can valid cognition, the means of knowledge and the categories be coherently defined (and so difference established)?](../debates/khandana-definability.md), [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+teachers: [Śrīharṣa](../teachers/sriharsa.md) · disputes: [Can valid cognition, the means of knowledge and the categories be coherently defined (and so difference established)?](../debates/khandana-definability.md), [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 1/2 <a id="tea-khandanakhandakhadya-1-2"></a>
 `skeleton` · confidence moderate
@@ -36,4 +36,4 @@ concepts: [Levels of truth across the families (two truths, three levels, niśca
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

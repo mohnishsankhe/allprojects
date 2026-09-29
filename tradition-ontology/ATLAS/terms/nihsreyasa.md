@@ -23,4 +23,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.2 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._

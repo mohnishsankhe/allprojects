@@ -39,7 +39,7 @@ Though there are many gates into the Way, in essence they are two: sudden awaken
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: all · types: practice, dispute_
 
-terms: [dunwu (sudden awakening)](../terms/dunwu.md), [jianxiu (gradual cultivation)](../terms/jianxiu.md) · concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · teachers: [Jinul 知訥 (Bojo)](../teachers/jinul.md), [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md) · disputes: `dsp:sudden-or-gradual`, [Sudden awakening followed by gradual cultivation (Jinul) or sudden awakening with sudden cultivation (Seongcheol)?](../debates/seon-sudden-cultivation-debate.md)
+terms: [dunwu (sudden awakening)](../terms/dunwu.md), [jianxiu (gradual cultivation)](../terms/jianxiu.md) · concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · teachers: [Jinul 知訥 (Bojo)](../teachers/jinul.md), [Guifeng Zongmi 圭峰宗密](../teachers/zongmi.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md), [Sudden awakening followed by gradual cultivation (Jinul) or sudden awakening with sudden cultivation (Seongcheol)?](../debates/seon-sudden-cultivation-debate.md)
 
 ### 1006b28 <a id="tea-susim-kyol-1006b28"></a>
 `skeleton` · confidence high
@@ -61,7 +61,7 @@ Sudden awakening: while deluded, ordinary people take the four elements as body 
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: all · types: practice, consciousness-mind_
 
-terms: [dunwu (sudden awakening)](../terms/dunwu.md), [jianxiu (gradual cultivation)](../terms/jianxiu.md), [kongji lingzhi (empty and calm, numinous awareness)](../terms/kongji-lingzhi.md), [xiqi (habit energies)](../terms/xiqi.md) · concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · disputes: `dsp:sudden-or-gradual`
+terms: [dunwu (sudden awakening)](../terms/dunwu.md), [jianxiu (gradual cultivation)](../terms/jianxiu.md), [kongji lingzhi (empty and calm, numinous awareness)](../terms/kongji-lingzhi.md), [xiqi (habit energies)](../terms/xiqi.md) · concepts: [Sudden and gradual (dun / jian)](../concepts/sudden-and-gradual.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### 1007a01 <a id="tea-susim-kyol-1007a01"></a>
 `skeleton` · confidence high
@@ -131,4 +131,4 @@ terms: [xingxing jiji (alert and calm)](../terms/xingxing-jiji.md) · concepts: 
 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

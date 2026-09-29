@@ -22,4 +22,4 @@
 _Notes: Samye debate date c. 792–794 in scholarly reconstructions; the Chinese Dunhuang sources give Moheyan's side as victorious._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

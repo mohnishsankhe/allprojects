@@ -19,4 +19,4 @@ A manual on the cleansing acts (ṣaṭkarma) and their many variants, together 
 _Notes: Author and date are low-confidence recollections (Lonavla edition by Gharote, 1990s)._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._

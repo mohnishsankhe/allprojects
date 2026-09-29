@@ -19,4 +19,4 @@
 **Related:** [saṃskṛta](samskrta.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._

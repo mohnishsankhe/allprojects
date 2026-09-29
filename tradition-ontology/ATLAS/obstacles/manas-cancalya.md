@@ -1,6 +1,6 @@
 # Restlessness of mind
 
-`obs:manas-cancalya` · `skeleton` · confidence high
+`obs:manas-cancalya` · `sourced` · confidence high
 
 **Category:** meditation-fault
 **Convergence:** 2 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -12,4 +12,8 @@ The wandering mind, the monkey of saṃsāra's forest, to be brought back patien
   - [Mokṣopāya](../texts/moksopaya.md) — ref: 2.11.56; rests_on: ["tea:moksopaya:2.11.56-61"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Rests on tea:uddhava-gita:11.20.17-21, tea:moksopaya:2.11.56-61; each was located in the local text and matches this entry's statement.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

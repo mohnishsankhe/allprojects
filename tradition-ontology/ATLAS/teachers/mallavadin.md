@@ -11,4 +11,4 @@
 Śvetāmbara dialectician, author of the Dvādaśāranayacakra; the tradition says he defeated the Buddhists in debate at Valabhī.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

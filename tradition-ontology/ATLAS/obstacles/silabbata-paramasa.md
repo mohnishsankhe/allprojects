@@ -12,4 +12,4 @@ Taking rules and vows as themselves purifying (MN 2; Snp 4.9); the third fetter.
   - [Sutta Nipāta](../texts/sutta-nipata.md) — ref: 4.9; rests_on: ["tea:sutta-nipata:4.9"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

@@ -18,4 +18,4 @@ The Kālīvilāsa holds that in the Kali age (true) puraścaraṇa is not possib
 _Notes: U31 owns mantra practice; no counts recorded here._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula, skeleton:U31-sound-arts, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U24-kali-kaula, skeleton:U31-sound-arts, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._

@@ -16,4 +16,4 @@ Summary only: some Siddhar worship-manuals (Rāmatēvar's Pūjāviti 5–7) incl
 _Notes: Restricted (harmful rite)._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._

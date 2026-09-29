@@ -14,4 +14,4 @@ The Sanskrit account of the Buddha's last journey and parinirvāṇa, parallel t
   - kind: original; name: E. Waldschmidt (Berlin 1950–51), GRETIL e-text
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._

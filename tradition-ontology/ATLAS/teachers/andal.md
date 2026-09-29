@@ -18,4 +18,4 @@ The woman among the Āḻvārs: author of the Tiruppāvai, the thirty verses of 
 _Notes: Held to be Bhūdevī (the Earth) descended; hence some lists omit her from the Āḻvārs as not a human soul. Some modern scholars have suggested Periyāḻvār composed in her name; the tradition rejects this._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._

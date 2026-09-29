@@ -17,4 +17,4 @@
 **Related:** [dharma](dharma.md), [paradharma](paradharma.md), [kṣatriya](ksatriya.md), [varṇa](varna.md), [svabhāva](svabhava.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

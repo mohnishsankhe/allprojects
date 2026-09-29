@@ -51,7 +51,7 @@ The establishing of objects of knowledge depends on the means of knowledge, and 
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: advanced · types: dispute_
 
-terms: [pramāṇa](../terms/pramana.md) · concepts: [The upsetting of all principles (tattvopaplava)](../concepts/tattvopaplava.md) · teachers: [Jayarāśi Bhaṭṭa](../teachers/jayarasi-bhatta.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [pramāṇa](../terms/pramana.md) · concepts: [The upsetting of all principles (tattvopaplava)](../concepts/tattvopaplava.md) · teachers: [Jayarāśi Bhaṭṭa](../teachers/jayarasi-bhatta.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 1 <a id="tea-tattvopaplavasimha-1"></a>
 `skeleton` · confidence high
@@ -60,7 +60,7 @@ The Nyāya definition of perception — cognition arising from contact of sense 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: advanced · types: dispute_
 
-terms: [pramāṇa](../terms/pramana.md), [pratyakṣa (eka-pramāṇa)](../terms/pratyaksa-carvaka.md) · concepts: [The upsetting of all principles (tattvopaplava)](../concepts/tattvopaplava.md) · teachers: [Jayarāśi Bhaṭṭa](../teachers/jayarasi-bhatta.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [pramāṇa](../terms/pramana.md), [pratyakṣa (eka-pramāṇa)](../terms/pratyaksa-carvaka.md) · concepts: [The upsetting of all principles (tattvopaplava)](../concepts/tattvopaplava.md) · teachers: [Jayarāśi Bhaṭṭa](../teachers/jayarasi-bhatta.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 2-4 <a id="tea-tattvopaplavasimha-2-4"></a>
 `skeleton` · confidence moderate
@@ -69,7 +69,7 @@ The same examination overturns the Mīmāṃsā definition of a means of knowled
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: advanced · types: dispute_
 
-concepts: [The upsetting of all principles (tattvopaplava)](../concepts/tattvopaplava.md) · teachers: [Jayarāśi Bhaṭṭa](../teachers/jayarasi-bhatta.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+concepts: [The upsetting of all principles (tattvopaplava)](../concepts/tattvopaplava.md) · teachers: [Jayarāśi Bhaṭṭa](../teachers/jayarasi-bhatta.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 4.25a <a id="tea-tattvopaplavasimha-4-25a"></a>
 `skeleton` · confidence high
@@ -89,7 +89,7 @@ Inference too cannot be established: the connection (between mark and inferred) 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: advanced · types: dispute_
 
-terms: [anumāna](../terms/anumana.md), [vyāpti](../terms/vyapti.md) · concepts: [The critique of inference](../concepts/critique-of-inference.md) · teachers: [Jayarāśi Bhaṭṭa](../teachers/jayarasi-bhatta.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [anumāna](../terms/anumana.md), [vyāpti](../terms/vyapti.md) · concepts: [The critique of inference](../concepts/critique-of-inference.md) · teachers: [Jayarāśi Bhaṭṭa](../teachers/jayarasi-bhatta.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### end <a id="tea-tattvopaplavasimha-end"></a>
 `skeleton` · confidence moderate
@@ -102,4 +102,4 @@ terms: [avicārita-ramaṇīya](../terms/avicaritaramaniya.md) · concepts: [The
 
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._

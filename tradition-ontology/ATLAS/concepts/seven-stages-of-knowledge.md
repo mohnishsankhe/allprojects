@@ -1,6 +1,6 @@
 # The seven stages of knowledge (jñāna-bhūmikā)
 
-`cpt:seven-stages-of-knowledge` · `skeleton` · confidence high
+`cpt:seven-stages-of-knowledge` · `sourced` · confidence high
 
 **Category:** stages-maps
 **Members:** śubhecchā, vicāraṇā, tanumānasā, sattvāpatti, asaṃsakti, padārthābhāvanī, turyagā
@@ -16,4 +16,8 @@
 _Notes: The path map itself is pth:yoga-vasistha-seven-bhumikas (owned by U51)._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — MU 3.118.5-6 (names) verified, and the vulgate 3.118 (jñānabhūmikopadeśa). The later account (MU 6.140-156) calls the third stage 'asaṃsaṅga'.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

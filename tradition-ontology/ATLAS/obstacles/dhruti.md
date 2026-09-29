@@ -15,4 +15,4 @@ Vasiṣṭha's list of what leads one astray against one's own will: surā, many
 _Notes: rests_on: tea:rgveda:7.86.6, tea:rgveda:7.89.5, tea:rgveda:10.34.13_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._

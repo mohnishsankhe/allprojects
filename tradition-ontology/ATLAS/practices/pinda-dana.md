@@ -1,6 +1,6 @@
 # Offering piṇḍas for the dead
 
-`prc:pinda-dana` · `skeleton` · confidence high
+`prc:pinda-dana` · `sourced` · confidence high
 
 **Category:** ritual
 **Convergence:** 1 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -12,4 +12,8 @@ Offering rice-balls with sesame and water to the dead for the first ten days (wh
   - [Mārkaṇḍeya Purāṇa](../texts/markandeya-purana.md) — ref: 10.72-75; rests_on: ["tea:markandeya-purana:10.46-78"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:garuda-purana:2.5.30-37, tea:markandeya-purana:10.46-78 — GP 2.5.30-37 and MkP 10.72-75 located. All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

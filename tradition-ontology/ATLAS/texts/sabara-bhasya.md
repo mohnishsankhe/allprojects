@@ -64,7 +64,7 @@ A cognition produced by the Veda is never overturned at another time, for anothe
 
 _level: unmarked · standpoint: polemical · path: general · stage: all · types: sound-language, dispute_
 
-concepts: [Intrinsic validity (svataḥ-prāmāṇya)](../concepts/intrinsic-validity.md), [The authority of smṛti, custom and other scriptures](../concepts/authority-of-smrti.md), [Omniscience (sarvajñatva)](../concepts/omniscience.md) · obstacles: [Defects of a (human) speaker](../obstacles/purusa-dosa.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md), [Can any person be omniscient, in particular directly know dharma?](../debates/omniscience.md)
+concepts: [Intrinsic validity (svataḥ-prāmāṇya)](../concepts/intrinsic-validity.md), [The authority of smṛti, custom and other scriptures](../concepts/authority-of-smrti.md), [Omniscience (sarvajñatva)](../concepts/omniscience.md) · obstacles: [Defects of a (human) speaker](../obstacles/purusa-dosa.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md), [Can any person be omniscient, in particular directly know dharma?](../debates/omniscience.md)
 
 ### 1.1.5 <a id="tea-sabara-bhasya-1-1-5"></a>
 `skeleton` · confidence high
@@ -75,7 +75,7 @@ concepts: [Intrinsic validity (svataḥ-prāmāṇya)](../concepts/intrinsic-val
 
 _level: unmarked · standpoint: analytic · path: general · stage: all · types: consciousness-mind_
 
-terms: [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md), [śabda](../terms/sabda-pramana.md), [upamāna](../terms/upamana.md), [arthāpatti](../terms/arthapatti.md), [abhāva-pramāṇa](../terms/abhava-pramana.md) · concepts: [Means of valid knowledge (pramāṇa)](../concepts/means-of-knowledge.md), [Postulation (arthāpatti)](../concepts/arthapatti.md), [Non-apprehension as a means of knowledge](../concepts/anupalabdhi.md), [Comparison (upamāna)](../concepts/upamana.md) · teachers: [the Vṛttikāra (cited by Śabara)](../teachers/vrttikara-mimamsa.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md), [śabda](../terms/sabda-pramana.md), [upamāna](../terms/upamana.md), [arthāpatti](../terms/arthapatti.md), [abhāva-pramāṇa](../terms/abhava-pramana.md) · concepts: [Means of valid knowledge (pramāṇa)](../concepts/means-of-knowledge.md), [Postulation (arthāpatti)](../concepts/arthapatti.md), [Non-apprehension as a means of knowledge](../concepts/anupalabdhi.md), [Comparison (upamāna)](../concepts/upamana.md) · teachers: [the Vṛttikāra (cited by Śabara)](../teachers/vrttikara-mimamsa.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 1.1.5/2 <a id="tea-sabara-bhasya-1-1-5-2"></a>
 `skeleton` · confidence high
@@ -175,8 +175,8 @@ The sacrifice, not the deity, is what prompts the rite: that the act gives fruit
 
 _level: conventional · standpoint: polemical · path: ritual · stage: all · types: ultimate, dispute_
 
-terms: [devatā](../terms/devata.md), [vigraha](../terms/vigraha.md) · concepts: [The deity (devatā) in Mīmāṃsā](../concepts/deity.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [devatā](../terms/devata.md), [vigraha](../terms/vigraha.md) · concepts: [The deity (devatā) in Mīmāṃsā](../concepts/deity.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._

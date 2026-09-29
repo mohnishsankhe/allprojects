@@ -19,4 +19,4 @@ RESTRICTED — existence and scope only: Raghuvīra's Kumbhakapaddhati is a manu
 _Notes: Group entry; the individual retentions are a Phase-D target (names only, methods restricted)._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:11 IST._

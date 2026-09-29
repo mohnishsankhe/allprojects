@@ -1,6 +1,6 @@
 # Mokṣopāyaṭīkā of Bhāskarakaṇṭha
 
-`src:moksopaya-tika-bhaskarakantha` · `skeleton` · confidence moderate
+`src:moksopaya-tika-bhaskarakantha` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -18,4 +18,8 @@ A Sanskrit commentary on the Mokṣopāya by a Kashmiri Śaiva scholar, explaini
   - kind: original; name: GRETIL e-text (local: sa_bhAskarakaNTha-mokSopAyaTIkA.txt); licence: GRETIL terms
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL:bhAskarakaNTha-mokSopAyaTIkA, catalog:eBharati:moxopAyaTIkA-bhAskarakaNThIyaTIkA, https://www.wisdomlib.org/definition/bhaskarakantha, http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/advaita/motik_pu.htm — Extant and digitized (GRETIL; eBhārati). Rājanaka Bhāskarakaṇṭha is an 18th-c. Kashmiri, also author of the Bhāskarī on the Īśvarapratyabhijñāvimarśinī; Hanneder has published a partial edition.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

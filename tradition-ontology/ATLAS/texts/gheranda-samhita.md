@@ -1166,7 +1166,7 @@ Samādhi is the supreme reality, obtained through great good fortune, through th
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission, karma-liberation_
 
-concepts: [The guru in the haṭha texts](../concepts/guru-in-hatha.md) · disputes: `dsp:kundalini-effort-grace`
+concepts: [The guru in the haṭha texts](../concepts/guru-in-hatha.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
 
 ### 7.2 <a id="tea-gheranda-samhita-7-2"></a>
 `skeleton` · confidence high
@@ -1272,4 +1272,4 @@ concepts: [Dissolution of breath and mind (laya)](../concepts/laya-natha.md) · 
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._

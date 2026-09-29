@@ -50,7 +50,7 @@ At the time of the first arousal of the mind (of awakening) one attains unsurpas
 
 _level: bridging · standpoint: absolute · path: knowledge · stage: all · types: karma-liberation, ultimate_
 
-terms: [bodhicitta](../terms/bodhicitta.md) · concepts: [The thought of awakening (bodhicitta) in the sūtras](../concepts/bodhicitta-sutra.md) · disputes: `dsp:sudden-or-gradual`
+terms: [bodhicitta](../terms/bodhicitta.md) · concepts: [The thought of awakening (bodhicitta) in the sūtras](../concepts/bodhicitta-sutra.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md)
 
 ### 20 <a id="tea-avatamsaka-sutra-20"></a>
 `skeleton` · confidence moderate
@@ -74,4 +74,4 @@ terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [buddhajñāna](../terms
 _Notes: T278/T279 (vols. 9-10) are not in the local CBETA subset; Sanskrit survives only for the Daśabhūmika and Gaṇḍavyūha._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

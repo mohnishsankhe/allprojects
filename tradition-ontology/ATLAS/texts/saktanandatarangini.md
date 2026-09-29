@@ -16,4 +16,4 @@ Brahmānanda Giri's digest on Śākta worship: the guru and initiation, the disp
   - kind: original; name: Muktabodha Digital Library e-text M00134 (ed. Pañcānana Śāstrī)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._

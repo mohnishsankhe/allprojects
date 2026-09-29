@@ -13,4 +13,4 @@
 Son of Jiṣṇu, astronomer of Bhillamāla; author of the Brāhmasphuṭasiddhānta (628, at age 30) and the Khaṇḍakhādyaka (665). He upheld the smṛti's yuga proportions and the stationary earth against Āryabhaṭa; founder figure of the Brāhma school.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

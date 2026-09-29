@@ -1,6 +1,6 @@
 # The conveyance-body and the piṇḍa-body
 
-`cpt:ativahika-and-pinda-body` · `skeleton` · confidence high
+`cpt:ativahika-and-pinda-body` · `sourced` · confidence high
 
 **Category:** death-dying
 
@@ -13,4 +13,8 @@
 - part-of → [The cycle of rites for the dead](sraddha-cycle.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:garuda-purana:2.10.75-82, tea:garuda-purana:2.15.60-71, tea:garuda-purana:2.5.30-37 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

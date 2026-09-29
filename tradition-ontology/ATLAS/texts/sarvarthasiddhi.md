@@ -70,7 +70,7 @@ On the 'sign' (liṅga) of the liberated: with respect to physical sex (dravya-v
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: realized · types: dispute, karma-liberation_
 
-concepts: [Liberation of women (strī-mukti)](../concepts/strimukti.md), [Physical and psychological sex (dravya-veda, bhāva-veda)](../concepts/dravya-bhava-veda.md) · teachers: [Pūjyapāda Devanandin](../teachers/pujyapada.md) · disputes: `dsp:women-caste-liberation`, [Is complete nudity required of the renunciant (and for liberation)?](../debates/monastic-nudity.md)
+concepts: [Liberation of women (strī-mukti)](../concepts/strimukti.md), [Physical and psychological sex (dravya-veda, bhāva-veda)](../concepts/dravya-bhava-veda.md) · teachers: [Pūjyapāda Devanandin](../teachers/pujyapada.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md), [Is complete nudity required of the renunciant (and for liberation)?](../debates/monastic-nudity.md)
 
 ### mangala <a id="tea-sarvarthasiddhi-mangala"></a>
 `skeleton` · confidence high
@@ -87,4 +87,4 @@ terms: [mokṣa-mārga](../terms/moksa-marga.md), [arhat](../terms/arhat.md) · 
 _Notes: Registry id. The maṅgala verse 'mokṣamārgasya netāraṃ…' is printed at its head (some Digambaras treat it as the sūtra's own invocation)._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._

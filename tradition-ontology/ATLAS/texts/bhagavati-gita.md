@@ -1,6 +1,6 @@
 # Bhagavatī Gītā
 
-`src:bhagavati-gita` · `skeleton` · confidence low
+`src:bhagavati-gita` · `sourced` · confidence low
 
 **Alternate titles:** Pārvatī Gītā
 **Language:** Sanskrit
@@ -18,4 +18,8 @@ A Śākta Gītā in which the Goddess instructs Himālaya in knowledge, yoga and
 _Notes: Existence recalled with low confidence; contents not verified._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Mahabhagavata_Purana, https://www.wisdomlib.org/hinduism/book/studies-in-the-upapuranas/d/doc1471590.html, https://en.banglapedia.org/index.php?title=Purana — Mahābhāgavata Purāṇa chs. 15-19, called Bhagavatīgītopaniṣad: a dialogue of Pārvatī and her father Himavat on yoga, knowledge and bhakti. The recalled chapter numbers are right.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

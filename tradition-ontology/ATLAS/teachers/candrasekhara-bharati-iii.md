@@ -9,4 +9,4 @@
 Pontiff of Śṛṅgeri (1892–1954), revered in the tradition as a jīvanmukta given to long absorption.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

@@ -1,28 +1,19 @@
 {
- "total_distinct": 223,
+ "total_distinct": 201,
  "by_prefix": {
   "lin": 35,
   "tch": 9,
   "src": 9,
-  "pth": 29,
-  "tea": 84,
+  "tea": 85,
+  "pth": 10,
   "brw": 1,
-  "dsp": 5,
   "prc": 11,
   "trm": 11,
   "cpt": 24,
-  "obs": 5
+  "obs": 5,
+  "dsp": 1
  },
  "top": [
-  {
-   "id": "dsp:women-caste-liberation",
-   "refs": 131,
-   "e.g.": [
-    "tch:nantanar",
-    "tch:prabhacandra",
-    "tch:sakatayana"
-   ]
-  },
   {
    "id": "lin:tiantai",
    "refs": 118,
@@ -30,24 +21,6 @@
     "src:mahaprajnaparamita-sutra",
     "src:prajnaparamita-hrdaya",
     "src:renwang-jing"
-   ]
-  },
-  {
-   "id": "pth:kashmir-four-upayas",
-   "refs": 109,
-   "e.g.": [
-    "lin:kashmir-saivism",
-    "lin:pratyabhijna",
-    "lin:spanda"
-   ]
-  },
-  {
-   "id": "dsp:works-knowledge-grace",
-   "refs": 99,
-   "e.g.": [
-    "tea:apastamba-dharmasutra:2.9.21.13-16",
-    "tea:manusmrti:12.88-90",
-    "tea:satapatha-brahmana:10.5.4.16"
    ]
   },
   {
@@ -66,24 +39,6 @@
     "src:avatamsaka-sutra",
     "src:dasabhumika-sutra",
     "src:gandavyuha"
-   ]
-  },
-  {
-   "id": "dsp:saguna-nirguna",
-   "refs": 44,
-   "e.g.": [
-    "tea:bhagavad-gita:12.1",
-    "tea:svetasvatara-upanisad:6.11",
-    "tea:svetasvatara-upanisad:6.7-9"
-   ]
-  },
-  {
-   "id": "dsp:sudden-or-gradual",
-   "refs": 36,
-   "e.g.": [
-    "tea:astavakra-gita:1.14-15",
-    "tea:avatamsaka-sutra:16",
-    "tea:varaha-upanisad:4.34-42"
    ]
   },
   {
@@ -111,24 +66,6 @@
     "src:astasahasrika-prajnaparamita",
     "src:gandavyuha",
     "src:saddharmapundarika"
-   ]
-  },
-  {
-   "id": "pth:virasaiva-satsthala",
-   "refs": 32,
-   "e.g.": [
-    "lin:virasaiva",
-    "tea:siddhantasikhamani:5.22-23",
-    "tea:siddhantasikhamani:5.26"
-   ]
-  },
-  {
-   "id": "pth:yoga-sutra-eight-limbs",
-   "refs": 30,
-   "e.g.": [
-    "lin:patanjala-yoga",
-    "tea:yoga-sutra:2.28",
-    "tea:yoga-sutra:2.29"
    ]
   },
   {
@@ -168,48 +105,12 @@
    ]
   },
   {
-   "id": "pth:advaita-sadhana",
-   "refs": 19,
-   "e.g.": [
-    "lin:advaita-vedanta",
-    "tea:brahma-sutra:1.1.1",
-    "tea:brahma-sutra:3.4.27"
-   ]
-  },
-  {
    "id": "pth:five-paths",
-   "refs": 19,
+   "refs": 20,
    "e.g.": [
     "lin:madhyamaka",
     "lin:mahayana",
     "lin:yogacara"
-   ]
-  },
-  {
-   "id": "dsp:kundalini-effort-grace",
-   "refs": 16,
-   "e.g.": [
-    "tea:akulavira-tantra:b.43-45",
-    "tea:goraksasataka:30-31",
-    "tea:hatha-yoga-pradipika:3.2-3"
-   ]
-  },
-  {
-   "id": "pth:saiva-siddhanta-four-padas",
-   "refs": 15,
-   "e.g.": [
-    "lin:mantramarga",
-    "lin:saiva-siddhanta",
-    "lin:tamil-saiva-siddhanta"
-   ]
-  },
-  {
-   "id": "pth:three-trainings",
-   "refs": 15,
-   "e.g.": [
-    "lin:early-buddhism",
-    "lin:theravada",
-    "tea:samannaphala-sutta:43-63"
    ]
   },
   {
@@ -267,39 +168,12 @@
    ]
   },
   {
-   "id": "pth:hatha-four-stages",
+   "id": "pth:kalacakra-six-branches",
    "refs": 12,
    "e.g.": [
-    "lin:hatha-yoga",
-    "lin:natha",
-    "tea:hatha-yoga-pradipika:4.69"
-   ]
-  },
-  {
-   "id": "pth:haribhadra-eight-drstis",
-   "refs": 12,
-   "e.g.": [
-    "lin:jainism",
-    "tea:yogadrstisamuccaya:13",
-    "tea:yogadrstisamuccaya:15"
-   ]
-  },
-  {
-   "id": "pth:seven-purifications",
-   "refs": 12,
-   "e.g.": [
-    "lin:early-buddhism",
-    "lin:theravada",
-    "tea:rathavinita-sutta:9-15"
-   ]
-  },
-  {
-   "id": "pth:jain-fourteen-gunasthanas",
-   "refs": 11,
-   "e.g.": [
-    "lin:adhyatma-jain",
-    "lin:jainism",
-    "tea:satkhandagama:1.1.4"
+    "lin:jonang",
+    "lin:kalacakra",
+    "lin:vajrayana"
    ]
   },
   {
@@ -312,39 +186,12 @@
    ]
   },
   {
-   "id": "pth:kalacakra-six-branches",
-   "refs": 11,
-   "e.g.": [
-    "lin:jonang",
-    "lin:kalacakra",
-    "lin:vajrayana"
-   ]
-  },
-  {
-   "id": "pth:yoga-sutra-samadhi-ladder",
-   "refs": 10,
-   "e.g.": [
-    "lin:patanjala-yoga",
-    "tea:yoga-sutra:1.17",
-    "tea:yoga-sutra:1.18"
-   ]
-  },
-  {
    "id": "lin:ganapatya",
    "refs": 9,
    "e.g.": [
     "src:ganapati-upanisad",
     "src:ganesa-gita",
     "src:ganesatapani-upanisad"
-   ]
-  },
-  {
-   "id": "pth:four-stages-of-awakening",
-   "refs": 9,
-   "e.g.": [
-    "lin:early-buddhism",
-    "lin:theravada",
-    "tea:samannaphala-sutta:97-98"
    ]
   },
   {
@@ -384,33 +231,6 @@
    ]
   },
   {
-   "id": "pth:yoga-vasistha-seven-bhumikas",
-   "refs": 7,
-   "e.g.": [
-    "lin:advaita-vedanta",
-    "tea:moksopaya:3.118.1-7",
-    "tea:moksopaya:3.118.8-15"
-   ]
-  },
-  {
-   "id": "pth:jhana-formless-cessation",
-   "refs": 7,
-   "e.g.": [
-    "lin:early-buddhism",
-    "lin:theravada",
-    "tea:samannaphala-sutta:75-82"
-   ]
-  },
-  {
-   "id": "pth:sixteen-insight-knowledges",
-   "refs": 7,
-   "e.g.": [
-    "lin:theravada",
-    "tea:visuddhimagga:21",
-    "tea:visuddhimagga:21/3"
-   ]
-  },
-  {
    "id": "lin:hwaeom",
    "refs": 6,
    "e.g.": [
@@ -420,21 +240,21 @@
    ]
   },
   {
-   "id": "pth:gheranda-seven-limbs",
-   "refs": 6,
-   "e.g.": [
-    "lin:hatha-yoga",
-    "prc:pranayama",
-    "tea:gheranda-samhita:1.9-11"
-   ]
-  },
-  {
    "id": "lin:zhenyan",
    "refs": 6,
    "e.g.": [
     "lin:tantra-movement",
     "lin:vajrayana",
     "tch:amoghavajra"
+   ]
+  },
+  {
+   "id": "pth:dzogchen-four-visions",
+   "refs": 6,
+   "e.g.": [
+    "lin:dzogchen",
+    "lin:nyingma",
+    "tea:tegchok-dzod:trekcho-togal"
    ]
   },
   {
@@ -465,21 +285,21 @@
    ]
   },
   {
+   "id": "pth:jinul-sudden-gradual",
+   "refs": 5,
+   "e.g.": [
+    "lin:seon",
+    "tea:guishan-yulu:577c04",
+    "tea:susim-kyol:1006b15"
+   ]
+  },
+  {
    "id": "pth:dogen-practice-realization",
    "refs": 5,
    "e.g.": [
     "lin:soto",
     "lin:zen",
     "tea:fukanzazengi:complete"
-   ]
-  },
-  {
-   "id": "pth:dzogchen-four-visions",
-   "refs": 5,
-   "e.g.": [
-    "lin:dzogchen",
-    "lin:nyingma",
-    "tea:tegchok-dzod:trekcho-togal"
    ]
   },
   {
@@ -510,24 +330,6 @@
    ]
   },
   {
-   "id": "pth:dattatreya-four-yogas",
-   "refs": 4,
-   "e.g.": [
-    "lin:hatha-yoga",
-    "tea:dattatreyayogasastra:9-10",
-    "tea:siva-samhita:5.9"
-   ]
-  },
-  {
-   "id": "pth:jinul-sudden-gradual",
-   "refs": 4,
-   "e.g.": [
-    "lin:seon",
-    "tea:guishan-yulu:577c04",
-    "tea:susim-kyol:1006b15"
-   ]
-  },
-  {
    "id": "tea:svetasvatara-upanisad:3.8",
    "refs": 4,
    "e.g.": [
@@ -543,15 +345,6 @@
     "lin:kalikula",
     "lin:sakta",
     "src:candimangala"
-   ]
-  },
-  {
-   "id": "pth:maitri-six-limbs",
-   "refs": 3,
-   "e.g.": [
-    "lin:upanisadic",
-    "prc:sadanga-yoga-maitri",
-    "tea:maitri-upanisad:6.18"
    ]
   },
   {
@@ -639,14 +432,6 @@
    "e.g.": [
     "lin:advaita-vedanta",
     "tch:ramana-maharshi"
-   ]
-  },
-  {
-   "id": "pth:rupa-gosvami-bhakti-stages",
-   "refs": 2,
-   "e.g.": [
-    "lin:gaudiya-vaisnava",
-    "tea:bhaktirasamrtasindhu:1.4.15-16"
    ]
   },
   {
@@ -853,6 +638,13 @@
    "e.g.": [
     "cpt:mulavijnana",
     "cpt:sautrantika-seed-theory"
+   ]
+  },
+  {
+   "id": "dsp:kevali-bhukti",
+   "refs": 2,
+   "e.g.": [
+    "dsp:women-caste-liberation"
    ]
   },
   {
@@ -1721,6 +1513,13 @@
    "refs": 1,
    "e.g.": [
     "dsp:exclusive-nenbutsu-controversy"
+   ]
+  },
+  {
+   "id": "tea:discrimination-of-the-three-vows:ch.3",
+   "refs": 1,
+   "e.g.": [
+    "dsp:sudden-or-gradual"
    ]
   },
   {

@@ -143,4 +143,4 @@ _Notes: Śaṅkara wrote two commentaries on it (pada-bhasya and vakya-bhasya). 
 
 - 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:eBharati:kenopaniShat, catalog:raw_etexts:Kena_pada, text:sources_raw/dcs/dcs/data/conllu/files/Jaiminīya-Upaniṣad-Brāhmaṇa/ (DCS; JUB 4.18 opens 'kena iṣitam patati', 4.21 'brahmeti hovāca'), text:sources_raw/raw_etexts/vedaH/sAma/jaiminIyam/brAhmaNam/jaiminiya-upaniShad-brAhmaNam/04/10.md  — Location confirmed locally: DCS JUB 4.18 opens 'kena iṣitam patati preṣitam manaḥ' and 4.21 has Umā's 'brahmeti hovāca'. In the raw_etexts JUB the Kena is book 04, anuvāka 10. Structure (9+5 verses, 12+9 prose sections) matches the prepared text, and the two Śaṅkara commentaries (pada, vākya) are both in the Advaita-Śāradā files. Dating: Olivelle places the Kena as the oldest verse Upaniṣad, in the last few centuries BCE, and other accounts date it earlier. The entry's -500/-300 (low) is not clearly contradicted.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

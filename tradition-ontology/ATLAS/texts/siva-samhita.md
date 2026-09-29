@@ -292,7 +292,7 @@ Therefore, to awaken the goddess (īśvarī) sleeping at the mouth of the brahma
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice_
 
-concepts: [Kuṇḍalinī](../concepts/kundalini.md) · disputes: `dsp:kundalini-effort-grace`
+concepts: [Kuṇḍalinī](../concepts/kundalini.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
 
 ### 4.15 <a id="tea-siva-samhita-4-15"></a>
 `skeleton` · confidence high
@@ -499,4 +499,4 @@ concepts: [Who may practise haṭha (adhikāra)](../concepts/eligibility-for-hat
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._

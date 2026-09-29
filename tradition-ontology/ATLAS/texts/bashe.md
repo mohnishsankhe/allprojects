@@ -20,10 +20,10 @@ The Testament of Ba reports that under Trisong Detsen the followers of the Chine
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute_
 
-teachers: [Kamalaśīla](../teachers/kamalasila.md), [Moheyan 摩訶衍 (Hwashang Mahāyāna)](../teachers/moheyan.md), [Trisong Detsen (khri srong lde btsan)](../teachers/trisong-detsen.md) · disputes: `dsp:sudden-or-gradual`, [Is the Great Perfection the 'sudden' Chan of Moheyan, rejected at Samye, in another guise?](../debates/dzogchen-and-chan.md)
+teachers: [Kamalaśīla](../teachers/kamalasila.md), [Moheyan 摩訶衍 (Hwashang Mahāyāna)](../teachers/moheyan.md), [Trisong Detsen (khri srong lde btsan)](../teachers/trisong-detsen.md) · disputes: [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](../debates/sudden-or-gradual.md), [Is the Great Perfection the 'sudden' Chan of Moheyan, rejected at Samye, in another guise?](../debates/dzogchen-and-chan.md)
 
 
 _Notes: Also referenced by the Samye debate (dsp:sudden-or-gradual, owned by U50)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

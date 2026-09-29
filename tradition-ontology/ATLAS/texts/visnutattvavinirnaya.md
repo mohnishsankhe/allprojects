@@ -37,7 +37,7 @@ terms: [Nārāyaṇa](../terms/narayana.md), [sadāgama](../terms/sadagama.md), 
 
 _level: conventional · standpoint: analytic · path: knowledge, devotion · stage: all · types: sound-language, ultimate_
 
-terms: [sadāgama](../terms/sadagama.md), [durāgama](../terms/duragama.md), [āgama](../terms/agama.md) · concepts: [True scripture (sadāgama) and false scripture](../concepts/sadagama.md) · obstacles: [Reliance on bare reasoning](../obstacles/kevala-tarka.md), [False scriptures](../obstacles/duragama.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [sadāgama](../terms/sadagama.md), [durāgama](../terms/duragama.md), [āgama](../terms/agama.md) · concepts: [True scripture (sadāgama) and false scripture](../concepts/sadagama.md) · obstacles: [Reliance on bare reasoning](../obstacles/kevala-tarka.md), [False scriptures](../obstacles/duragama.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md), [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 1 <a id="tea-visnutattvavinirnaya-1-3"></a>
 `skeleton` · confidence high
@@ -46,7 +46,7 @@ The Veda is authorless (apauruṣeya); no author of it is known, and to assume o
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: intermediate · types: sound-language_
 
-terms: [apauruṣeya](../terms/apauruseya.md), [svataḥ-prāmāṇya](../terms/svatah-pramanya.md) · concepts: [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md), [Intrinsic validity of knowledge (svataḥ-prāmāṇya)](../concepts/svatah-pramanya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [apauruṣeya](../terms/apauruseya.md), [svataḥ-prāmāṇya](../terms/svatah-pramanya.md) · concepts: [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md), [Intrinsic validity of knowledge (svataḥ-prāmāṇya)](../concepts/svatah-pramanya.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 1 <a id="tea-visnutattvavinirnaya-1-4"></a>
 `skeleton` · confidence high
@@ -82,10 +82,10 @@ terms: [kṣara](../terms/ksara.md), [akṣara](../terms/aksara.md), [Puruṣott
 
 _level: ultimate · standpoint: divine · path: knowledge, devotion · stage: all · types: ultimate_
 
-terms: [avatāra](../terms/avatara.md), [nirdoṣa](../terms/nirdosa.md), [svagata-bheda](../terms/svagata-bheda.md), [viśeṣa](../terms/visesa.md) · concepts: [The Lord's descent (avatāra / prādurbhāva)](../concepts/avatara.md), [Viśeṣa — the 'substitute for difference' (Madhva)](../concepts/visesa-dvaita.md) · disputes: `dsp:saguna-nirguna`
+terms: [avatāra](../terms/avatara.md), [nirdoṣa](../terms/nirdosa.md), [svagata-bheda](../terms/svagata-bheda.md), [viśeṣa](../terms/visesa.md) · concepts: [The Lord's descent (avatāra / prādurbhāva)](../concepts/avatara.md), [Viśeṣa — the 'substitute for difference' (Madhva)](../concepts/visesa-dvaita.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 
 _Notes: Three paricchedas checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._

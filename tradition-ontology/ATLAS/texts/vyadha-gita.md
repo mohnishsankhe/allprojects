@@ -22,7 +22,7 @@ Within Mārkaṇḍeya's discourses: the brāhmaṇa Kauśika, humbled by a devo
   - kind: original; name: The Mahābhārata, Critical Edition, ed. V. S. Sukthankar et al., Bhandarkar Oriental Research Institute, Pune (1933–1966); licence: print edition (text public domain; apparatus under BORI copyright)
   - kind: original; name: DharmicData JSON (critical text of the Mahābhārata, digitized; used locally for ref checks); licence: ODbL; url: https://github.com/bhavykhatri/DharmicData
 
-## Teachings (7: sourced 6, skeleton 1)
+## Teachings (7: sourced 7)
 
 ### 3.196-197 <a id="tea-vyadha-gita-3-197"></a>
 `sourced` · confidence high
@@ -43,13 +43,13 @@ _level: conventional · standpoint: ethical-social · path: action · stage: all
 terms: [svadharma](../terms/svadharma.md) · concepts: [One's own dharma (svadharma)](../concepts/svadharma.md) · teachers: [The righteous meat-seller of Mithilā (dharmavyādha)](../teachers/dharmavyadha.md) · disputes: [May one kill in battle as one's own dharma — and what of non-violence as the highest dharma?](../debates/violence-and-svadharma.md)
 
 ### 3.198-206 <a id="tea-vyadha-gita-3-198-206"></a>
-`skeleton` · confidence moderate · [AI-translated]
+`sourced` · confidence moderate · [AI-translated]
 
 The meat-seller of Mithilā teaches the brāhmaṇa Kauśika that he does his inherited work without cruelty, serves his parents as gods, and that dharma is subtle; he expounds the guṇas, the senses and the self and sends Kauśika home to serve his own parents.
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, dispute_
 
-teachers: [The righteous meat-seller of Mithilā (dharmavyādha)](../teachers/dharmavyadha.md) · disputes: `dsp:women-caste-liberation`
+teachers: [The righteous meat-seller of Mithilā (dharmavyādha)](../teachers/dharmavyadha.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 3.199.19-29 <a id="tea-vyadha-gita-3-199-19-29"></a>
 `sourced` · confidence high
@@ -92,5 +92,10 @@ practices: [Serving one's parents as dharma](../practices/serving-parents.md) ·
 **Verification checks**
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_3.json (BORI Critical Edition text) 3.197.1 Kauśika; 3.197.41 dharmavyādha of Mithilā; 3.205-206 parents and curse — Section located at CE 3.196-206 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+- 2026-09-29 text-locate: corrected — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh03.json (BORI critical edition) — CE 3.198-206 confirmed (Kauśika goes to Mithilā, 198.2-4; 206.34 closes). The dating was copied from the Mokṣadharma entries and names the Mokṣadharma, which does not apply to an Āraṇyakaparvan passage; replaced.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Corrections**
+
+- dating: CE 3.198-206 confirmed (Kauśika goes to Mithilā, 198.2-4; 206.34 closes). The dating was copied from the Mokṣadharma entries and names the Mokṣadharma, which does not apply to an Āraṇyakaparvan passage; replaced.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

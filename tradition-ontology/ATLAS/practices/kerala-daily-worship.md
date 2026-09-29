@@ -13,4 +13,4 @@ From the opening of the sanctum at dawn, a fixed series of pūjās through the d
 _Notes: Names often given: uṣaḥpūjā, etiruttu pūjā, pantīraṭi pūjā, ucca pūjā, attāḻa pūjā (from memory; unverified)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._

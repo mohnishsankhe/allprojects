@@ -1,6 +1,6 @@
 # Yugala Gītā
 
-`src:yugala-gita` · `skeleton` · confidence moderate
+`src:yugala-gita` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -17,4 +17,8 @@
 The gopīs' paired verses remembering Kṛṣṇa's pastimes during the day's separation.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — BhP 10.35 (26 verses): the gopīs sing of Kṛṣṇa in the forest (10.35.1-2 'vāmabāhukṛtavāmakapolo ... veṇum'); confirmed.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

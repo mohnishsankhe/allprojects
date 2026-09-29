@@ -14,4 +14,4 @@
 Heir of Qingyuan in Hunan, author of the Cantongqi; with Mazu one of the 'two great masters' of the later 8th c. — 'Jiangxi is ruled by Daji, Hunan by Shitou'.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

@@ -53,7 +53,7 @@ practices: [The thirteen ascetic practices (dhutaṅga)](../practices/dhutanga.m
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: karma-liberation, dispute_
 
-concepts: [Women and awakening](../concepts/women-and-awakening.md) · teachers: [Ānanda](../teachers/ananda.md), [Mahāpajāpatī Gotamī](../teachers/mahapajapati-gotami.md) · disputes: `dsp:women-caste-liberation`, [On what terms were women ordained, and can the Theravāda bhikkhunī order be restored?](../debates/bhikkhuni-order.md)
+concepts: [Women and awakening](../concepts/women-and-awakening.md) · teachers: [Ānanda](../teachers/ananda.md), [Mahāpajāpatī Gotamī](../teachers/mahapajapati-gotami.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md), [On what terms were women ordained, and can the Theravāda bhikkhunī order be restored?](../debates/bhikkhuni-order.md)
 
 ### 10.1.4 <a id="tea-cullavagga-10-1-4"></a>
 `skeleton` · confidence high
@@ -73,7 +73,7 @@ If women had not obtained the going forth in this Dhamma and discipline, the hol
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate, dispute_
 
-concepts: [The duration and decline of the true Dhamma](../concepts/decline-of-the-sasana.md) · disputes: [On what terms were women ordained, and can the Theravāda bhikkhunī order be restored?](../debates/bhikkhuni-order.md), `dsp:women-caste-liberation`
+concepts: [The duration and decline of the true Dhamma](../concepts/decline-of-the-sasana.md) · disputes: [On what terms were women ordained, and can the Theravāda bhikkhunī order be restored?](../debates/bhikkhuni-order.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 11.1.1 <a id="tea-cullavagga-11-1-1"></a>
 `skeleton` · confidence moderate
@@ -131,4 +131,4 @@ concepts: [The Second Council](../concepts/second-council.md) · teachers: [Yasa
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

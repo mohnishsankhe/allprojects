@@ -12,4 +12,4 @@
 Disciple of Maṇavāḷa Māmuni, one of his eight chief disciples, to whom the Veṅkaṭeśa Suprabhātam is attributed.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

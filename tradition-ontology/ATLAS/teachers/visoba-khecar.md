@@ -10,4 +10,4 @@
 Nāmdev's guru: found resting his feet on a Śiva-liṅga (at Auṇḍhā Nāgnāth), he told Nāmdev to set them where God was not — and wherever Nāmdev moved them a liṅga appeared, teaching that God fills everything.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

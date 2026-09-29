@@ -1,6 +1,6 @@
 # Bodhya Gītā
 
-`src:bodhya-gita` · `skeleton` · confidence high
+`src:bodhya-gita` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -16,10 +16,10 @@
 
 Bodhya, asked how he became tranquil, names his six teachers: Piṅgalā, the osprey, the snake, the bee seeking in the forest, the arrow-maker and the maiden.
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 12.171.58-61 <a id="tea-bodhya-gita-12-171-58-61"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 Asked by Nahuṣa how he became tranquil, Bodhya says he teaches no one but lives by instruction received: 'Piṅgalā, the osprey, the snake, the bee searching in the forest, the arrow-maker and the maiden — these six are my teachers.'
 
@@ -33,4 +33,8 @@ concepts: [The avadhūta's twenty-four teachers](../concepts/twenty-four-teacher
 _Notes: The six are a subset of the avadhūta's twenty-four teachers in Bhāgavata Purāṇa 11.7-9._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition), local:sources_raw/raw_etexts/purANam/vaiShNavam/mahAbhAratam/gp/epub_no_img/ (Gita Press vulgate, chapter colophons) — CE 12.171.58-61 confirmed; vulgate colophon 'bodhyagītāyām' (12.178).
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

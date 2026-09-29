@@ -30,7 +30,7 @@ The world, spoken of as 'he, she and it', undergoes origination, maintenance and
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [pati](../terms/pati.md), [mala](../terms/mala.md) · concepts: [Pati, paśu, pāśa — the Lord, the bound soul, the bonds](../concepts/pati-pasu-pasa.md), [Śiva's five acts (pañcakṛtya)](../concepts/five-acts-of-siva.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
+terms: [pati](../terms/pati.md), [mala](../terms/mala.md) · concepts: [Pati, paśu, pāśa — the Lord, the bound soul, the bonds](../concepts/pati-pasu-pasa.md), [Śiva's five acts (pañcakṛtya)](../concepts/five-acts-of-siva.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md)
 
 ### 2 <a id="tea-sivananabodham-2"></a>
 `skeleton` · confidence high
@@ -133,4 +133,4 @@ terms: [aṭiyār](../terms/atiyar.md) · concepts: [Liberation while living (j�
 
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

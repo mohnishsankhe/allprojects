@@ -12,4 +12,4 @@
 Rāmānandī hagiographer (disciple in the line of Kṛṣṇadās Payahārī) who wrote the Paracaīs of Kabīr, Raidās, Pīpā, Nāmdev and others.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

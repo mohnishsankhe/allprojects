@@ -10,9 +10,9 @@
 **Stage:** āṇavopāya
 **Sources:** 
   - [Mālinīvijayottaratantra](../texts/malinivijayottara-tantra.md) — ref: 2.21; rests_on: ["tea:malinivijayottara-tantra:2.21-23"]
-**Sequences:** `pth:kashmir-four-upayas`
+**Sequences:** [The four means (upāya) of the Trika: āṇava, śākta, śāmbhava, anupāya](../paths/kashmir-four-upayas.md)
 
 _Notes: Summary only; details of the karaṇas not recorded._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._

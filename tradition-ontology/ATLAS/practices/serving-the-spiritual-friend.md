@@ -15,4 +15,4 @@ Seeking out good friends without weariness and honoring them — Sudhana's pilgr
 - New bodhisattvas in the hands of bad friends become frightened of the profound teaching. — [Aṣṭasāhasrikā Prajñāpāramitā](../texts/astasahasrika-prajnaparamita.md) ch. 1 (Vaidya p. 9)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

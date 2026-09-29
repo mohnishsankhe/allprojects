@@ -13,4 +13,4 @@ At the honey stage the gods invite the yogin with pleasures, elixirs, sky-cars a
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 3.51; rests_on: ["tea:yoga-bhasya:3.51"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:11 IST._

@@ -8,4 +8,4 @@
 One of the sixteen brahmin students of Bāvarī who questioned the Buddha in the Pārāyanavagga (Snp 5.16).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

@@ -25,4 +25,4 @@
 _Notes: Homonym of the Buddhist technical term āyatana (sense-base)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U17-pasupata-kapalika, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U41-yogacara-pramana, skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U17-pasupata-kapalika, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U41-yogacara-pramana, skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._

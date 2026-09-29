@@ -15,4 +15,4 @@
 **Related:** [thogs bcas kyi bdud](thogche-du.md), [thogs med kyi bdud](thogme-du.md), [dga' brod kyi bdud](gadro-du.md), [snyems byed kyi bdud](nyemje-du.md)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

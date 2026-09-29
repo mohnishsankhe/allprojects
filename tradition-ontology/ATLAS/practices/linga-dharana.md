@@ -10,7 +10,7 @@ The iṣṭaliṅga, kept in a small casket (karaḍige) on a cord, is worn on t
 **Stage:** bhakta onward
 **Sources:** 
   - [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) — ref: 6.26; 6.30–33; 6.48; 6.52–53; rests_on: ["tea:siddhantasikhamani:6.26", "tea:siddhantasikhamani:6.30-33", "tea:siddhantasikhamani:6.48", "tea:siddhantasikhamani:6.52-53"]
-**Sequences:** `pth:virasaiva-satsthala`
+**Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ## The texts' own warnings
 - Never separate the liṅga from the body at any time or place. — [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) 6.26
@@ -18,4 +18,4 @@ The iṣṭaliṅga, kept in a small casket (karaḍige) on a cord, is worn on t
 - The text treats the liṅga's accidental fall with the utmost gravity (recorded as restricted). — [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) 6.27
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

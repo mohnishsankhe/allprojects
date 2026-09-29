@@ -116,7 +116,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -279,7 +279,260 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:advaita-sadhana",
+  "name": "The Advaita course of practice: purification → fourfold means → hearing, reflection, contemplation → liberation while living → bodiless liberation",
+  "lineage": "lin:advaita-vedanta",
+  "lineages": [
+   "lin:advaita-vedanta",
+   "lin:vedanta"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "citta-śuddhi through karma and upāsanā",
+    "gloss": "purifying the mind by rites and meditations",
+    "description": "Obligatory daily and occasional rites, expiations and meditations, with desire-prompted and forbidden acts avoided, purify the mind; action purifies but does not reach the Real.",
+    "ref": "Vedāntasāra (adhikārin); VC 11; Sādhana-pañcaka 1",
+    "band": "B1",
+    "rests_on": [
+     "tea:vedantasara:adhikarin",
+     "tea:vivekacudamani:11",
+     "tea:sadhana-pancaka:1"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "sādhana-catuṣṭaya",
+    "gloss": "the fourfold means",
+    "description": "Discrimination of the eternal and non-eternal; dispassion toward enjoyments here and hereafter; the six treasures (calm, self-control, withdrawal, forbearance, faith, concentration); longing for liberation — after which the inquiry into Brahman begins ('atha').",
+    "ref": "BSBh 1.1.1; VC 20-27; BS 3.4.27",
+    "band": "B0",
+    "rests_on": [
+     "tea:brahma-sutra:1.1.1",
+     "tea:brahma-sutra-bhasya-sankara:1.1.1",
+     "tea:vivekacudamani:20",
+     "tea:vivekacudamani:22-27",
+     "tea:brahma-sutra:3.4.27"
+    ],
+    "band_note": "B0 because the tradition presents these as the qualification (adhikāra) for inquiry; the six treasures are disciplines (B1-B3 in kind)."
+   },
+   {
+    "order": 3,
+    "name": "guru-upasatti",
+    "gloss": "approaching the teacher",
+    "description": "To know the unmade, the disenchanted seeker goes, fuel in hand, to a teacher learned in scripture and established in Brahman.",
+    "ref": "MuU 1.2.12-13",
+    "band": "B0",
+    "rests_on": [
+     "tea:mundaka-upanisad:1.2.12-13"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "śravaṇa",
+    "gloss": "hearing",
+    "description": "Determining, by the six marks of purport, that the Upaniṣads teach the non-dual Brahman; for the best qualified a single hearing of 'that you are' suffices.",
+    "ref": "Vedāntasāra (śravaṇa); BĀU 2.4.5; BSBh 4.1.2",
+    "band": "B2",
+    "rests_on": [
+     "tea:vedantasara:sravana",
+     "tea:brhadaranyaka-upanisad:2.4.5",
+     "tea:brahma-sutra-bhasya-sankara:4.1.2"
+    ],
+    "band_note": "B2 as study of scripture; for the uttama-adhikārin hearing itself yields knowledge (B5)."
+   },
+   {
+    "order": 5,
+    "name": "manana",
+    "gloss": "reflection",
+    "description": "Continual consideration of what was heard by reasoning in accord with it, removing doubt.",
+    "ref": "Vedāntasāra; BĀU 2.4.5",
+    "band": "B2",
+    "rests_on": [
+     "tea:vedantasara:sravana",
+     "tea:brhadaranyaka-upanisad:2.4.5"
+    ]
+   },
+   {
+    "order": 6,
+    "name": "nididhyāsana",
+    "gloss": "deep contemplation",
+    "description": "The flow of like cognitions excluding unlike ones; its auxiliaries are the savikalpa and nirvikalpa samādhis of the Vedāntasāra.",
+    "ref": "Vedāntasāra; BĀU 2.4.5, 4.5.6",
+    "band": "B4",
+    "rests_on": [
+     "tea:vedantasara:sravana",
+     "tea:brhadaranyaka-upanisad:2.4.5",
+     "tea:brhadaranyaka-upanisad:4.5.6"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "aparokṣa-jñāna",
+    "gloss": "immediate knowledge 'I am Brahman'",
+    "description": "The knowledge arising from the great sentence (mahāvākya) that removes ignorance; the knower's past sins are destroyed and future ones do not touch him.",
+    "ref": "VC 427; BSBh 4.1.13; MuU 3.2.9",
+    "band": "B5",
+    "rests_on": [
+     "tea:vivekacudamani:427",
+     "tea:brahma-sutra-bhasya-sankara:4.1.13",
+     "tea:mundaka-upanisad:3.2.9"
+    ]
+   },
+   {
+    "order": 8,
+    "name": "jīvanmukti",
+    "gloss": "liberation while living",
+    "description": "The body continues until the karma that has begun to bear fruit (prārabdha) is exhausted, like a potter's wheel still turning; 'he waits only so long'; he attains Brahman here.",
+    "ref": "BSBh 4.1.15; ChU 6.14.2; BĀU 4.4.7; VC 451-453",
+    "band": "B7",
+    "rests_on": [
+     "tea:brahma-sutra-bhasya-sankara:4.1.15",
+     "tea:chandogya-upanisad:6.14.1-3",
+     "tea:brhadaranyaka-upanisad:4.4.7",
+     "tea:vivekacudamani:451-453"
+    ]
+   },
+   {
+    "order": 9,
+    "name": "the liberated one's life for the world",
+    "gloss": "activity of the jīvanmukta",
+    "description": "The peaceful great ones who have crossed the ocean live like the spring, doing good to the world and helping others across; the purposes of jīvanmukti include protecting knowledge and manifesting bliss.",
+    "ref": "VC 37; JMV 4",
+    "band": "B8",
+    "rests_on": [
+     "tea:vivekacudamani:37",
+     "tea:jivanmuktiviveka:4"
+    ]
+   },
+   {
+    "order": 10,
+    "name": "videhamukti",
+    "gloss": "bodiless liberation",
+    "description": "At the fall of the body the prāṇas of the knower of the attributeless Brahman do not depart; being Brahman he merges in Brahman. (Worshippers of the qualified Brahman go by the path of light and are liberated gradually.)",
+    "ref": "BSBh 4.2.13, 4.3.14; BĀU 4.4.6",
+    "band": "B7",
+    "rests_on": [
+     "tea:brahma-sutra-bhasya-sankara:4.2.13",
+     "tea:brhadaranyaka-upanisad:4.4.6",
+     "tea:brahma-sutra-bhasya-sankara:4.3.14"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:brahma-sutra-bhasya-sankara",
+    "ref": "1.1.1; 4.1.2; 4.1.13-15; 4.2.13",
+    "rests_on": [
+     "tea:brahma-sutra-bhasya-sankara:1.1.1",
+     "tea:brahma-sutra-bhasya-sankara:4.1.15"
+    ]
+   },
+   {
+    "source": "src:vedantasara",
+    "ref": "adhikārin; śravaṇa",
+    "rests_on": [
+     "tea:vedantasara:adhikarin",
+     "tea:vedantasara:sravana"
+    ]
+   },
+   {
+    "source": "src:vivekacudamani",
+    "ref": "11; 20-27; 37; 427; 451-453",
+    "rests_on": [
+     "tea:vivekacudamani:20",
+     "tea:vivekacudamani:22-27"
+    ]
+   },
+   {
+    "source": "src:vedantaparibhasa",
+    "ref": "ch.8",
+    "rests_on": [
+     "tea:vedantaparibhasa:ch.8"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:sadhana-catustaya",
+   "cpt:sravana-manana-nididhyasana",
+   "cpt:jivanmukti",
+   "cpt:videhamukti",
+   "cpt:samadhi-advaita"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:vedantasara-samadhi-auxiliaries",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Expands stage 6 (the auxiliaries of nididhyāsana: savikalpa and nirvikalpa samādhi).",
+    "rests_on": [
+     "tea:vedantasara:sravana"
+    ]
+   },
+   {
+    "target": "pth:aparoksanubhuti-fifteen-limbs",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Śaṅkara-attributed fifteen limbs of 'rāja-yoga' re-described as knowledge; a parallel Advaita path.",
+    "rests_on": [],
+    "principle": "P3-path"
+   },
+   {
+    "target": "pth:yoga-vasistha-seven-bhumikas",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Vidyāraṇya's Jīvanmuktiviveka uses the seven bhūmikās to grade Advaita knowers (stages 4-7 ~ this map's 7-9).",
+    "rests_on": [
+     "tea:jivanmuktiviveka:3"
+    ],
+    "principle": "P4-stage"
+   },
+   {
+    "target": "pth:dvaita-sadhana-krama",
+    "grade": "contested",
+    "standpoint": "",
+    "note": "Dvaita also teaches śravaṇa-manana-nididhyāsana leading to aparokṣa-jñāna, but of the Lord as other than the self; Dvaita rejects the identity this map's stage 7 names.",
+    "rests_on": [],
+    "principle": "P2-standpoint"
+   }
+  ],
+  "tradition_objection": "Advaita holds that liberation is not produced by any stage: Brahman is ever-attained and knowledge only removes ignorance. The stages are for removing obstacles according to the student's fitness (adhikāra); for the best student a single hearing of the great sentence is enough (BSBh 4.1.2). The Vivaraṇa school makes hearing the principal means and reflection and contemplation its auxiliaries; the Bhāmatī school gives contemplation (prasaṅkhyāna) a larger role.",
+  "notes": "Uses existing U03/U13 teachings. Stage 9 (the liberated one's life) is placed before videhamukti because it belongs to the living knower.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:advaita-vedanta",
+    "lin:vedanta"
+   ],
+   "schools": [
+    "lin:advaita-vedanta",
+    "lin:vedanta"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -407,7 +660,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -521,7 +774,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -642,7 +895,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -725,7 +978,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -837,7 +1090,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1034,7 +1287,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1209,7 +1462,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1312,7 +1565,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1399,10 +1652,25 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:11.14.32-46"
+     ],
+     "result": "confirmed",
+     "note": "Stage refs located: BhP 11.14.32-33, 34-35, 36, 42, 43, 44, 45, 46. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -1423,7 +1691,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1503,10 +1771,25 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:2.2.22-31"
+     ],
+     "result": "confirmed",
+     "note": "Stage refs located: BhP 2.2.24 (suṣumṇā, Vaiśvānara), 2.2.24-25 (Śiśumāra), 2.2.26-27 (Ananta's fire; the Satyaloka of two parārdhas), 2.2.31. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -1527,7 +1810,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1606,10 +1889,25 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:1.2.16-21"
+     ],
+     "result": "confirmed",
+     "note": "Stage refs BhP 1.2.16-21 located verse by verse. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -1630,7 +1928,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1756,7 +2054,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -1873,7 +2171,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2137,7 +2435,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2271,7 +2569,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2423,7 +2721,172 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:bojjhanga-sequence",
+  "name": "The seven factors of awakening arising in sequence (MN 118)",
+  "lineage": "lin:early-buddhism",
+  "lineages": [
+   "lin:early-buddhism",
+   "lin:theravada"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "sati-sambojjhaṅga",
+    "gloss": "mindfulness",
+    "description": "When the four establishments of mindfulness are practised, unremitting mindfulness is established — the first factor.",
+    "ref": "MN 118",
+    "band": "B3",
+    "rests_on": [
+     "tea:anapanasati-sutta:29-43"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "dhammavicaya-sambojjhaṅga",
+    "gloss": "investigation of dhammas",
+    "description": "Arises from the preceding factor when the four establishments of mindfulness are developed; supported by seclusion, dispassion and cessation, ripening in relinquishment.",
+    "ref": "MN 118",
+    "band": "B4",
+    "rests_on": [
+     "tea:anapanasati-sutta:29-43"
+    ]
+   },
+   {
+    "order": 3,
+    "name": "vīriya-sambojjhaṅga",
+    "gloss": "energy",
+    "description": "Arises from the preceding factor when the four establishments of mindfulness are developed; supported by seclusion, dispassion and cessation, ripening in relinquishment.",
+    "ref": "MN 118",
+    "band": "B4",
+    "rests_on": [
+     "tea:anapanasati-sutta:29-43"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "pīti-sambojjhaṅga",
+    "gloss": "rapture",
+    "description": "Arises from the preceding factor when the four establishments of mindfulness are developed; supported by seclusion, dispassion and cessation, ripening in relinquishment.",
+    "ref": "MN 118",
+    "band": "B4",
+    "rests_on": [
+     "tea:anapanasati-sutta:29-43"
+    ]
+   },
+   {
+    "order": 5,
+    "name": "passaddhi-sambojjhaṅga",
+    "gloss": "tranquillity",
+    "description": "Arises from the preceding factor when the four establishments of mindfulness are developed; supported by seclusion, dispassion and cessation, ripening in relinquishment.",
+    "ref": "MN 118",
+    "band": "B4",
+    "rests_on": [
+     "tea:anapanasati-sutta:29-43"
+    ]
+   },
+   {
+    "order": 6,
+    "name": "samādhi-sambojjhaṅga",
+    "gloss": "concentration",
+    "description": "Arises from the preceding factor when the four establishments of mindfulness are developed; supported by seclusion, dispassion and cessation, ripening in relinquishment.",
+    "ref": "MN 118",
+    "band": "B4",
+    "rests_on": [
+     "tea:anapanasati-sutta:29-43"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "upekkhā-sambojjhaṅga",
+    "gloss": "equanimity",
+    "description": "Arises from the preceding factor when the four establishments of mindfulness are developed; supported by seclusion, dispassion and cessation, ripening in relinquishment.",
+    "ref": "MN 118",
+    "band": "B4",
+    "rests_on": [
+     "tea:anapanasati-sutta:29-43"
+    ]
+   },
+   {
+    "order": 8,
+    "name": "vijjā-vimutti",
+    "gloss": "true knowledge and liberation",
+    "description": "The seven factors, developed and cultivated, fulfil true knowledge and liberation.",
+    "ref": "MN 118",
+    "band": "B7",
+    "rests_on": [
+     "tea:anapanasati-sutta:15.2-15.4",
+     "tea:anapanasati-sutta:29-43"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:anapanasati-sutta",
+    "ref": "MN 118 §29-43",
+    "rests_on": [
+     "tea:anapanasati-sutta:29-43",
+     "tea:anapanasati-sutta:15.2-15.4"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:seven-bojjhangas",
+   "cpt:four-satipatthanas"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:anapanasati-sixteen-steps",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "MN 118's sixteen steps fulfil the establishments of mindfulness, which fulfil these factors.",
+    "rests_on": [
+     "tea:anapanasati-sutta:15.2-15.4"
+    ]
+   },
+   {
+    "target": "pth:transcendental-dependent-origination",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Another canonical sequence leading through rapture, tranquillity and concentration to knowledge and liberation.",
+    "rests_on": []
+   }
+  ],
+  "notes": "A sequence stated by the sutta itself ('each arises from the preceding'); the factors are also developed together.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:early-buddhism",
+    "lin:theravada"
+   ],
+   "schools": [
+    "lin:early-buddhism",
+    "lin:theravada"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2527,7 +2990,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2655,7 +3118,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2729,7 +3192,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2824,7 +3287,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -2952,7 +3415,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3035,7 +3498,147 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:dattatreya-four-yogas",
+  "name": "The four yogas of the Dattātreyayogaśāstra (mantra, laya, haṭha, rāja)",
+  "lineage": "lin:hatha-yoga",
+  "lineages": [
+   "lin:hatha-yoga",
+   "lin:natha"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "mantrayoga",
+    "gloss": "yoga of mantra",
+    "description": "Placing the mātṛkā letters on the limbs and repeating a mantra; for the mild (mṛdu) practitioner, called the lowest of yogas; in twelve years knowledge and powers.",
+    "ref": "DYŚ 11-13",
+    "band": "B2",
+    "rests_on": [
+     "tea:dattatreyayogasastra:9-10",
+     "tea:dattatreyayogasastra:11-13"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "layayoga",
+    "gloss": "yoga of dissolution",
+    "description": "Dissolution of mind through 'indications' (saṅketa), of which Ādinātha taught eight crore — e.g. meditating on the void, gazing at the nose-tip or between the brows, lying like a corpse.",
+    "ref": "DYŚ 14-24",
+    "band": "B3",
+    "rests_on": [
+     "tea:dattatreyayogasastra:14-24"
+    ]
+   },
+   {
+    "order": 3,
+    "name": "haṭhayoga",
+    "gloss": "yoga of force",
+    "description": "Twofold: the eight limbs known to Yājñavalkya, and the mudrās of Kapila (mahāmudrā, mahābandha, mahāvedha, khecarī, the bandhas, viparītakaraṇī, vajrolī …); its course runs through the four stages ārambha → niṣpatti.",
+    "ref": "DYŚ 25-29 ff.",
+    "band": "B2",
+    "rests_on": [
+     "tea:dattatreyayogasastra:25-29",
+     "tea:dattatreyayogasastra:120-124"
+    ],
+    "band_note": "B2 as the discipline itself; its course spans B2-B7 on pth:hatha-four-stages. Vajrolī and related practices are restricted (summary only)."
+   },
+   {
+    "order": 4,
+    "name": "rājayoga",
+    "gloss": "royal yoga",
+    "description": "'The fourth, the best of yogas'; it arises in due time from practising all the above; attaining it the yogin may act or not act as he pleases — the stage of consummation giving enjoyment and liberation.",
+    "ref": "DYŚ 9-10, 145-147",
+    "band": "B7",
+    "rests_on": [
+     "tea:dattatreyayogasastra:9-10",
+     "tea:dattatreyayogasastra:145-147",
+     "tea:dattatreyayogasastra:111-114"
+    ],
+    "band_note": "B7: the text's goal-state (samādhi, liberation while living, DYŚ 111-114); the yogin's free activity after it would be B8."
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:dattatreyayogasastra",
+    "ref": "9-29, 145-147",
+    "rests_on": [
+     "tea:dattatreyayogasastra:9-10",
+     "tea:dattatreyayogasastra:11-13",
+     "tea:dattatreyayogasastra:14-24",
+     "tea:dattatreyayogasastra:25-29",
+     "tea:dattatreyayogasastra:145-147"
+    ]
+   },
+   {
+    "source": "src:siva-samhita",
+    "ref": "5.9-14, 5.181",
+    "rests_on": [
+     "tea:siva-samhita:5.9",
+     "tea:siva-samhita:5.10-14",
+     "tea:siva-samhita:5.181"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:four-yogas",
+   "cpt:four-grades-of-aspirant",
+   "cpt:hatha-raja-interdependence"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:yogatattva-four-yogas",
+    "grade": "exact",
+    "standpoint": "",
+    "note": "The Yogatattva Upaniṣad repeats the same four yogas (it draws on the Dattātreyayogaśāstra).",
+    "rests_on": [],
+    "principle": "P3-path"
+   },
+   {
+    "target": "pth:amaraughaprabodha-four-yogas",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Gorakṣa's Amaraughaprabodha names the same four yogas and grades them by practitioner.",
+    "rests_on": [],
+    "principle": "P3-path"
+   }
+  ],
+  "notes": "The four are graded by the practitioner's capacity (adhikāra) — the Śiva Saṃhitā (5.10-14) assigns mantra to the mild, laya to the middling, haṭha to the strong and all to the strongest aspirant — so they are not a strict sequence; but DYŚ 145-147 says rājayoga arises from haṭha practice and ŚS 5.181 that haṭha and rāja need each other. Hence the non-monotonic bands (B2, B3, B2, B7).",
+  "restricted": true,
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:hatha-yoga",
+    "lin:natha"
+   ],
+   "schools": [
+    "lin:hatha-yoga",
+    "lin:natha"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3144,7 +3747,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3223,7 +3826,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3335,7 +3938,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3471,7 +4074,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3590,7 +4193,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3683,7 +4286,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3790,7 +4393,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -3943,7 +4546,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4027,7 +4630,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4108,7 +4711,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4215,7 +4818,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4304,7 +4907,227 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:four-stages-of-awakening",
+  "name": "The four stages of awakening and the eight noble persons",
+  "lineage": "lin:early-buddhism",
+  "lineages": [
+   "lin:early-buddhism",
+   "lin:theravada",
+   "lin:sarvastivada"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "sotāpattiyaṅga",
+    "gloss": "the factors for stream-entry",
+    "description": "Association with good persons, hearing the true Dhamma, wise attention, practice in accordance with the Dhamma.",
+    "ref": "SN 55.5",
+    "band": "B0",
+    "rests_on": [
+     "tea:sotapatti-samyutta:55.5"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "sotāpatti-magga (saddhānusārī / dhammānusārī)",
+    "gloss": "one practising for stream-entry (faith-follower, Dhamma-follower)",
+    "description": "The path moment: the Dhamma-eye arises — 'whatever is subject to arising is subject to cessation'.",
+    "ref": "AN 8.59; SN 56.11; MN 70",
+    "band": "B5",
+    "rests_on": [
+     "tea:anguttara-nikaya:8.59",
+     "tea:dhammacakkappavattana-sutta:11.1-11.2",
+     "tea:kitagiri-sutta:14-21",
+     "tea:visuddhimagga:22"
+    ]
+   },
+   {
+    "order": 3,
+    "name": "sotāpanna",
+    "gloss": "stream-enterer",
+    "description": "By the destruction of three fetters (personality view, doubt, clinging to rules and observances): not subject to the lower realms, fixed in destiny, bound for awakening; confirmed confidence in the three jewels and the virtues dear to the noble ones ('the mirror of the Dhamma').",
+    "ref": "DN 16 2.7-2.9; AN 8.59",
+    "band": "B5",
+    "rests_on": [
+     "tea:mahaparinibbana-sutta:2.6-2.7",
+     "tea:mahaparinibbana-sutta:2.8-2.9",
+     "tea:anguttara-nikaya:8.59"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "sakadāgāmi-magga",
+    "gloss": "one practising for once-return",
+    "description": "The second path.",
+    "ref": "AN 8.59",
+    "band": "B6",
+    "rests_on": [
+     "tea:anguttara-nikaya:8.59"
+    ]
+   },
+   {
+    "order": 5,
+    "name": "sakadāgāmī",
+    "gloss": "once-returner",
+    "description": "Three fetters destroyed and lust, hate and delusion weakened: returns to this world once and makes an end of suffering.",
+    "ref": "DN 16 2.7; AN 8.59",
+    "band": "B6",
+    "rests_on": [
+     "tea:mahaparinibbana-sutta:2.6-2.7",
+     "tea:anguttara-nikaya:8.59"
+    ]
+   },
+   {
+    "order": 6,
+    "name": "anāgāmi-magga",
+    "gloss": "one practising for non-return",
+    "description": "The third path, abandoning the five lower fetters (with sensual desire and ill will), for instance by seeing the aggregates in a jhāna as impermanent and turning to the deathless.",
+    "ref": "AN 8.59; MN 64",
+    "band": "B6",
+    "rests_on": [
+     "tea:anguttara-nikaya:8.59",
+     "tea:mahamalunkya-sutta:3-15"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "anāgāmī",
+    "gloss": "non-returner",
+    "description": "The five lower fetters destroyed: spontaneously reborn (in the Pure Abodes), attaining final nibbāna there without returning from that world.",
+    "ref": "DN 16 2.7; AN 8.59",
+    "band": "B6",
+    "rests_on": [
+     "tea:mahaparinibbana-sutta:2.6-2.7",
+     "tea:anguttara-nikaya:8.59"
+    ]
+   },
+   {
+    "order": 8,
+    "name": "arahatta-magga",
+    "gloss": "one practising for arahantship",
+    "description": "The fourth path, abandoning the five higher fetters (lust for form and the formless, conceit, restlessness, ignorance).",
+    "ref": "AN 8.59; Vism 22",
+    "band": "B6",
+    "rests_on": [
+     "tea:anguttara-nikaya:8.59",
+     "tea:visuddhimagga:22"
+    ]
+   },
+   {
+    "order": 9,
+    "name": "arahant",
+    "gloss": "the worthy one",
+    "description": "By the destruction of the effluents, having realized for himself here and now the effluent-free freedom of mind and freedom by wisdom: 'birth is ended, the holy life fulfilled, done is what was to be done'.",
+    "ref": "DN 2 §97-98; DN 16 2.7; AN 8.59",
+    "band": "B7",
+    "rests_on": [
+     "tea:samannaphala-sutta:97-98",
+     "tea:mahaparinibbana-sutta:2.6-2.7",
+     "tea:anguttara-nikaya:8.59"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:anguttara-nikaya",
+    "ref": "8.59",
+    "rests_on": [
+     "tea:anguttara-nikaya:8.59"
+    ]
+   },
+   {
+    "source": "src:mahaparinibbana-sutta",
+    "ref": "2.6-2.9",
+    "rests_on": [
+     "tea:mahaparinibbana-sutta:2.6-2.7",
+     "tea:mahaparinibbana-sutta:2.8-2.9"
+    ]
+   },
+   {
+    "source": "src:visuddhimagga",
+    "ref": "ch.22",
+    "rests_on": [
+     "tea:visuddhimagga:22"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:four-stages-of-awakening",
+   "cpt:eight-noble-persons",
+   "cpt:four-paths-and-fruits",
+   "cpt:seven-noble-persons",
+   "cpt:sotapattiyanga",
+   "cpt:noble-persons-abhidharma"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:abhidharmakosa-four-fruits",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Sarvāstivāda has the same four fruits and eight persons, with a different account of the path of seeing (fifteen/sixteen moments).",
+    "rests_on": []
+   },
+   {
+    "target": "pth:five-paths",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Stream-entry corresponds to the path of seeing, the higher paths to the path of cultivation, arahantship to no-more-learning, in the Abhidharma and Mahāyāna presentations.",
+    "rests_on": [
+     "tea:abhidharmasamuccaya:2.1.five-paths",
+     "tea:visuddhimagga:22"
+    ],
+    "principle": "P4-stage"
+   },
+   {
+    "target": "pth:jain-fourteen-gunasthanas",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Stream-entry and Jain right view are both the first irreversible seeing that bounds the remaining births; the not-self teaching and the Jain soul-doctrine are not reconciled by this.",
+    "rests_on": [
+     "tea:mahaparinibbana-sutta:2.6-2.7",
+     "tea:tattvartha-sutra:1.2"
+    ],
+    "principle": "P2-standpoint"
+   }
+  ],
+  "notes": "Stage 1 (factors for stream-entry) is added as the entry named in SN 55.5. The canonical eight persons are AN 8.59 (Pali root checked locally); DN 16 2.7 gives the defining formulas (checked locally). Lay followers attain all three lower fruits in DN 16.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 3,
+   "lineages": [
+    "lin:early-buddhism",
+    "lin:sarvastivada",
+    "lin:theravada"
+   ],
+   "schools": [
+    "lin:early-buddhism",
+    "lin:sarvastivada",
+    "lin:theravada"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4379,7 +5202,173 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:gheranda-seven-limbs",
+  "name": "The seven means of the 'yoga of the pot' (ghaṭastha-yoga) in the Gheraṇḍa Saṃhitā",
+  "lineage": "lin:hatha-yoga",
+  "lineages": [
+   "lin:hatha-yoga"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "śodhana through ṣaṭkarma",
+    "gloss": "purification through the six acts",
+    "description": "Dhauti, vasti, neti, laulikī, trāṭaka and kapālabhāti cleanse the body (the unbaked pot to be fired in the fire of yoga).",
+    "ref": "GhS 1.10-12; ch.1",
+    "band": "B1",
+    "rests_on": [
+     "tea:gheranda-samhita:1.9-11",
+     "tea:gheranda-samhita:1.8",
+     "tea:gheranda-samhita:1.12"
+    ],
+    "band_note": "B1 by the text's own word śodhana (purification) — bodily, not ethical, purification; some acts of this chapter are restricted (summary only)."
+   },
+   {
+    "order": 2,
+    "name": "dṛḍhatā through āsana",
+    "gloss": "firmness through posture",
+    "description": "Of the eighty-four lakh postures taught by Śiva, thirty-two are described.",
+    "ref": "GhS 1.11; ch.2",
+    "band": "B2",
+    "rests_on": [
+     "tea:gheranda-samhita:1.9-11",
+     "tea:gheranda-samhita:2.1-2"
+    ]
+   },
+   {
+    "order": 3,
+    "name": "sthiratā through mudrā",
+    "gloss": "steadiness through the seals",
+    "description": "Twenty-five mudrās (mahāmudrā, bandhas, khecarī, viparītakaraṇī, śakticālana and others).",
+    "ref": "GhS 1.11; ch.3",
+    "band": "B2",
+    "rests_on": [
+     "tea:gheranda-samhita:1.9-11",
+     "tea:gheranda-samhita:3.1-3"
+    ],
+    "band_note": "Several of these seals are restricted practices (khecarī, vajroṇī): summary only."
+   },
+   {
+    "order": 4,
+    "name": "dhairya through pratyāhāra",
+    "gloss": "calm/fortitude through withdrawal",
+    "description": "Wherever the fickle mind wanders, it is drawn back and brought under the control of the self.",
+    "ref": "GhS 1.11; ch.4",
+    "band": "B3",
+    "rests_on": [
+     "tea:gheranda-samhita:1.9-11",
+     "tea:gheranda-samhita:4.1-2"
+    ]
+   },
+   {
+    "order": 5,
+    "name": "lāghava through prāṇāyāma",
+    "gloss": "lightness through breath-control",
+    "description": "After place, time, moderate diet and purification of the channels, eight kinds of retention (kumbhaka) are taught.",
+    "ref": "GhS 1.11; ch.5",
+    "band": "B2",
+    "rests_on": [
+     "tea:gheranda-samhita:1.9-11",
+     "tea:gheranda-samhita:5.1-2"
+    ],
+    "band_note": "Banded B2 by kind (breath discipline) although the text places it after withdrawal; the order is the Gheraṇḍa's own and is kept."
+   },
+   {
+    "order": 6,
+    "name": "pratyakṣa through dhyāna",
+    "gloss": "direct perception (of the self) through meditation",
+    "description": "Meditation is threefold — gross (on a form), of light, and subtle (on bindu/kuṇḍalinī) — and yields 'direct perception in the self'.",
+    "ref": "GhS 1.11; ch.6",
+    "band": "B5",
+    "rests_on": [
+     "tea:gheranda-samhita:1.9-11",
+     "tea:gheranda-samhita:6.1"
+    ],
+    "band_note": "Banded by the fruit the text names (pratyakṣam ātmani, direct perception of the self, B5); the practice itself — visualized form, light, bindu — is absorption with support (B4)."
+   },
+   {
+    "order": 7,
+    "name": "nirliptatva through samādhi",
+    "gloss": "untaintedness through absorption — liberation",
+    "description": "Samādhi, obtained by the guru's grace, is separating the mind from the body and uniting it with the supreme self: 'I am Brahman'; 'through samādhi, untaintedness, and liberation without doubt'.",
+    "ref": "GhS 1.11; ch.7",
+    "band": "B7",
+    "rests_on": [
+     "tea:gheranda-samhita:1.9-11",
+     "tea:gheranda-samhita:7.1",
+     "tea:gheranda-samhita:7.3-4"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:gheranda-samhita",
+    "ref": "1.9-11",
+    "rests_on": [
+     "tea:gheranda-samhita:1.9-11"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:ghatastha-seven-sadhanas"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:gheranda-six-samadhis",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Stage 7 is expanded into six kinds of samādhi in GhS 7.",
+    "rests_on": [
+     "tea:gheranda-samhita:7.1"
+    ]
+   },
+   {
+    "target": "pth:yoga-sutra-eight-limbs",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Four limb-names shared (āsana, pratyāhāra, prāṇāyāma, dhyāna, samādhi); yama/niyama replaced by bodily cleansing; mudrā added; order of prāṇāyāma and pratyāhāra reversed.",
+    "rests_on": [
+     "tea:gheranda-samhita:1.9-11",
+     "tea:yoga-sutra:2.29"
+    ],
+    "principle": "P3-path"
+   }
+  ],
+  "notes": "Verified locally against the DCS text of the Gheraṇḍasaṃhitā (1.10-11: śodhanaṃ dṛḍhatā caiva sthairyaṃ dhairyaṃ ca lāghavam / pratyakṣaṃ ca nirliptaṃ ca …; ṣaṭkarmaṇā śodhanaṃ … samādhinā nirliptaṃ ca muktir eva na saṃśayaḥ). The chapter order of the text follows the seven means.",
+  "restricted": true,
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:hatha-yoga"
+   ],
+   "schools": [
+    "lin:hatha-yoga"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4491,7 +5480,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4663,7 +5652,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4790,7 +5779,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4894,7 +5883,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -4992,7 +5981,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5198,7 +6187,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5291,7 +6280,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5429,7 +6418,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5572,7 +6561,212 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:haribhadra-eight-drstis",
+  "name": "Haribhadra's eight views of yoga (yoga-dṛṣṭi)",
+  "lineage": "lin:svetambara",
+  "lineages": [
+   "lin:svetambara",
+   "lin:jainism"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "mitrā dṛṣṭi",
+    "gloss": "friendly — like straw-fire spark; limb: yama; fault removed: fatigue (kheda); quality: non-aversion (adveṣa)",
+    "description": "The dim first view: restraints present as wish, no weariness in worship, no aversion; the 'seeds of yoga' (devotion to the Jina, service of teachers, disgust with existence) are sown.",
+    "ref": "YDS 13-16; YDS on mitrā",
+    "band": "B0",
+    "rests_on": [
+     "tea:yogadrstisamuccaya:13",
+     "tea:yogadrstisamuccaya:15",
+     "tea:yogadrstisamuccaya:16",
+     "tea:yogadrstisamuccaya:mitra"
+    ],
+    "band_note": "B0 as the sowing of the seeds of yoga; Haribhadra pairs it with yama (B1)."
+   },
+   {
+    "order": 2,
+    "name": "tārā dṛṣṭi",
+    "gloss": "star-like — like cow-dung fire; limb: niyama; fault removed: anxiety (udvega); quality: desire to know (jijñāsā)",
+    "description": "Observances appear; no anxiety in doing good; desire to know the truth.",
+    "ref": "YDS 13-16; YDS on tārā",
+    "band": "B1",
+    "rests_on": [
+     "tea:yogadrstisamuccaya:13",
+     "tea:yogadrstisamuccaya:15",
+     "tea:yogadrstisamuccaya:16",
+     "tea:yogadrstisamuccaya:tara"
+    ]
+   },
+   {
+    "order": 3,
+    "name": "balā dṛṣṭi",
+    "gloss": "strong — like wood fire; limb: āsana; fault removed: distraction (kṣepa); quality: desire to hear (śuśrūṣā)",
+    "description": "Posture steady, restlessness gone, longing to hear the truth.",
+    "ref": "YDS 13-16; YDS on balā",
+    "band": "B2",
+    "rests_on": [
+     "tea:yogadrstisamuccaya:13",
+     "tea:yogadrstisamuccaya:15",
+     "tea:yogadrstisamuccaya:16",
+     "tea:yogadrstisamuccaya:bala"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "dīprā dṛṣṭi",
+    "gloss": "shining — like lamp; limb: prāṇāyāma; fault removed: interruption (utthāna); quality: hearing (śravaṇa)",
+    "description": "Breath-control in an inner sense (expelling outer states, taking in inner ones); the truth is heard, but the subtle knot is not yet broken.",
+    "ref": "YDS 13-16; YDS on dīprā",
+    "band": "B2",
+    "rests_on": [
+     "tea:yogadrstisamuccaya:13",
+     "tea:yogadrstisamuccaya:15",
+     "tea:yogadrstisamuccaya:16",
+     "tea:yogadrstisamuccaya:dipra"
+    ]
+   },
+   {
+    "order": 5,
+    "name": "sthirā dṛṣṭi",
+    "gloss": "steady — like gem; limb: pratyāhāra; fault removed: error (bhrānti); quality: understanding (bodha)",
+    "description": "The knot is broken and right view arises; worldly doings look like children's houses of dust.",
+    "ref": "YDS 13-16; YDS on sthirā",
+    "band": "B5",
+    "rests_on": [
+     "tea:yogadrstisamuccaya:13",
+     "tea:yogadrstisamuccaya:15",
+     "tea:yogadrstisamuccaya:16",
+     "tea:yogadrstisamuccaya:sthira"
+    ],
+    "band_note": "B5 by the Jain criterion (right view, knot broken); Haribhadra's paired limb, pratyāhāra, would be B3 on the Pātañjala map — both recorded."
+   },
+   {
+    "order": 6,
+    "name": "kāntā dṛṣṭi",
+    "gloss": "lovely — like star; limb: dhāraṇā; fault removed: delight in other things (anyamud); quality: reflection (mīmāṃsā)",
+    "description": "Concentration firm; acting in the world with the mind fixed on dharma.",
+    "ref": "YDS 13-16; YDS on kāntā",
+    "band": "B6",
+    "rests_on": [
+     "tea:yogadrstisamuccaya:13",
+     "tea:yogadrstisamuccaya:15",
+     "tea:yogadrstisamuccaya:16",
+     "tea:yogadrstisamuccaya:kanta"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "prabhā dṛṣṭi",
+    "gloss": "radiant — like sun; limb: dhyāna; fault removed: affliction/disease (ruj); quality: practice (pratipatti)",
+    "description": "Meditation prevails with its happiness; activity free of attachment — what others call the peaceful flow and the way of Śiva.",
+    "ref": "YDS 13-16; YDS on prabhā",
+    "band": "B6",
+    "rests_on": [
+     "tea:yogadrstisamuccaya:13",
+     "tea:yogadrstisamuccaya:15",
+     "tea:yogadrstisamuccaya:16",
+     "tea:yogadrstisamuccaya:prabha"
+    ]
+   },
+   {
+    "order": 8,
+    "name": "parā dṛṣṭi",
+    "gloss": "supreme — like moon; limb: samādhi; fault removed: attachment (āsaṅga); quality: right engagement (pravṛtti)",
+    "description": "Absorption free of attachment; beyond practices; omniscience; renouncing even yoga (yoga-saṃnyāsa), liberation.",
+    "ref": "YDS 13-16; YDS on parā",
+    "band": "B7",
+    "rests_on": [
+     "tea:yogadrstisamuccaya:13",
+     "tea:yogadrstisamuccaya:15",
+     "tea:yogadrstisamuccaya:16",
+     "tea:yogadrstisamuccaya:para"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:yogadrstisamuccaya",
+    "ref": "13-16 and the sections on each view",
+    "rests_on": [
+     "tea:yogadrstisamuccaya:13",
+     "tea:yogadrstisamuccaya:15",
+     "tea:yogadrstisamuccaya:16"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:haribhadra-eight-drstis",
+   "cpt:apunarbandhaka-caramavarta",
+   "cpt:three-karanas-granthibheda"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:yoga-sutra-eight-limbs",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Haribhadra pairs the views with Patañjali's limbs (YDS 16), reinterpreted inwardly; stated by the text itself.",
+    "rests_on": [
+     "tea:yogadrstisamuccaya:16",
+     "tea:yoga-sutra:2.29"
+    ],
+    "principle": "P2-standpoint"
+   },
+   {
+    "target": "pth:jain-fourteen-gunasthanas",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "The first four views lie within guṇasthāna 1 (ogha-dṛṣṭi); sthirā begins right view (4+); parā is kevala (13-14).",
+    "rests_on": [
+     "tea:yogadrstisamuccaya:sthira"
+    ]
+   },
+   {
+    "target": "pth:haribhadra-four-yogins",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Haribhadra's four kinds of yogin grade the same practitioners by family and progress.",
+    "rests_on": [
+     "tea:yogadrstisamuccaya:yogin-types"
+    ]
+   }
+  ],
+  "notes": "The eight faults and eight qualities are given from memory of YDS 16 and its auto-commentary (moderate confidence on the exact pairing). Haribhadra addresses yogins of other schools too (YDS 129-134: the omniscient teachers of different schools are not really different), so the views are meant to be applicable across traditions. The first four views are unstable (they can fall back); the last four are stable.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:jainism",
+    "lin:svetambara"
+   ],
+   "schools": [
+    "lin:jainism",
+    "lin:svetambara"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5654,7 +6848,315 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:hatha-four-stages",
+  "name": "The four stages of yoga practice (ārambha, ghaṭa, paricaya, niṣpatti)",
+  "lineage": "lin:hatha-yoga",
+  "lineages": [
+   "lin:hatha-yoga",
+   "lin:natha",
+   "lin:upanisadic"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "ārambha",
+    "gloss": "beginning",
+    "description": "With the channels purified, signs appear (lightness, radiance, sweat, trembling, hopping); in the Haṭhayogapradīpikā the knot of Brahmā is pierced and the tinkling unstruck sound is heard with bliss from the void.",
+    "ref": "Amṛtasiddhi; DYŚ 62-76; ŚS 3.29-46; HYP 4.70-71",
+    "band": "B2",
+    "rests_on": [
+     "tea:amrtasiddhi:topic.avasthas",
+     "tea:dattatreyayogasastra:62-63",
+     "tea:dattatreyayogasastra:69-76",
+     "tea:siva-samhita:3.29-31",
+     "tea:siva-samhita:3.40-46",
+     "tea:hatha-yoga-pradipika:4.70-71"
+    ],
+    "band_note": "B2 in the DYŚ/ŚS account (signs of breath-discipline); the HYP's nāda version already begins at B3 (so U28's pth:hyp-nada-four-stages)."
+   },
+   {
+    "order": 2,
+    "name": "ghaṭa",
+    "gloss": "the pot / conjunction",
+    "description": "Prāṇa and apāna, nāda and bindu, the individual and the supreme self 'meet'; sense-withdrawal while established in retention; in the HYP the breath, made one, enters the middle and the knot of Viṣṇu is pierced (kettledrum sound).",
+    "ref": "DYŚ 81-90; ŚS 3.55-58; HYP 4.72-73",
+    "band": "B3",
+    "rests_on": [
+     "tea:dattatreyayogasastra:81-83",
+     "tea:dattatreyayogasastra:84-90",
+     "tea:siva-samhita:3.55-58",
+     "tea:hatha-yoga-pradipika:4.72-73"
+    ]
+   },
+   {
+    "order": 3,
+    "name": "paricaya",
+    "gloss": "familiarity",
+    "description": "The breath enters suṣumnā unobstructed with the awakened kuṇḍalinī; the fivefold element-concentrations; in the HYP the breath reaches the great void, sound of a drum, natural bliss.",
+    "ref": "DYŚ 97-110; ŚS 3.60-65; HYP 4.74-75",
+    "band": "B4",
+    "rests_on": [
+     "tea:dattatreyayogasastra:97-99",
+     "tea:dattatreyayogasastra:100-110",
+     "tea:siva-samhita:3.60-61",
+     "tea:siva-samhita:3.63-65",
+     "tea:hatha-yoga-pradipika:4.74-75"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "niṣpatti",
+    "gloss": "consummation",
+    "description": "Rājayoga: the seeds of karma are crossed and samādhi arises for the one liberated while living (ŚS); the knot of Rudra is pierced, flute and vīṇā sounds, the mind becomes one (HYP); the stage gives both enjoyment and liberation (DYŚ).",
+    "ref": "DYŚ 145-147; ŚS 3.66-67; HYP 4.76-78",
+    "band": "B7",
+    "rests_on": [
+     "tea:dattatreyayogasastra:145-147",
+     "tea:siva-samhita:3.66-67",
+     "tea:hatha-yoga-pradipika:4.76-77",
+     "tea:hatha-yoga-pradipika:4.78"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:amrtasiddhi",
+    "ref": "topic.avasthas",
+    "rests_on": [
+     "tea:amrtasiddhi:topic.avasthas"
+    ]
+   },
+   {
+    "source": "src:dattatreyayogasastra",
+    "ref": "9-10, 62-147",
+    "rests_on": [
+     "tea:dattatreyayogasastra:9-10",
+     "tea:dattatreyayogasastra:81-83",
+     "tea:dattatreyayogasastra:97-99",
+     "tea:dattatreyayogasastra:145-147"
+    ]
+   },
+   {
+    "source": "src:siva-samhita",
+    "ref": "3.29-67",
+    "rests_on": [
+     "tea:siva-samhita:3.29-31",
+     "tea:siva-samhita:3.60-61",
+     "tea:siva-samhita:3.66-67"
+    ]
+   },
+   {
+    "source": "src:hatha-yoga-pradipika",
+    "ref": "4.69-78",
+    "rests_on": [
+     "tea:hatha-yoga-pradipika:4.69"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:four-avasthas-of-yoga"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:hyp-nada-four-stages",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "The Haṭhayogapradīpikā's account of the same four stages through inner sound and the three knots.",
+    "rests_on": [
+     "tea:hatha-yoga-pradipika:4.69"
+    ]
+   },
+   {
+    "target": "pth:siva-samhita-four-avasthas",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "The Śiva Saṃhitā's account of the same four stages.",
+    "rests_on": [
+     "tea:siva-samhita:3.29-31"
+    ]
+   },
+   {
+    "target": "pth:yogatattva-four-avasthas",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "The Yogatattva Upaniṣad's account of the same four stages.",
+    "rests_on": []
+   },
+   {
+    "target": "pth:satcakra-ascent",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Both describe the breath/kuṇḍalinī passing the knots or centres up the central channel.",
+    "rests_on": [],
+    "principle": "P3-path"
+   }
+  ],
+  "notes": "Umbrella map for the four avasthās 'in all yogas' (HYP 4.69; ŚS 3.31; DYŚ 9-10), first taught in the Amṛtasiddhi. The texts describe the stages chiefly through breath-retention and its signs; retention counts and durations are deliberately omitted (restricted). The existing text-specific maps (U28, U29, U04) are the detailed versions; this map aligns them.",
+  "restricted": true,
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 3,
+   "lineages": [
+    "lin:hatha-yoga",
+    "lin:natha",
+    "lin:upanisadic"
+   ],
+   "schools": [
+    "lin:hatha-yoga",
+    "lin:natha",
+    "lin:vedic-srauta"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:hemacandra-four-minds",
+  "name": "Hemacandra's four kinds of mind and the no-mind state (Yogaśāstra 12)",
+  "lineage": "lin:svetambara",
+  "lineages": [
+   "lin:svetambara",
+   "lin:jainism"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "vikṣipta",
+    "gloss": "scattered",
+    "description": "Restless.",
+    "ref": "YŚ 12.2-4",
+    "band": null,
+    "rests_on": [
+     "tea:yogasastra-hemacandra:12.2-4"
+    ],
+    "band_note": "Starting condition, unbanded."
+   },
+   {
+    "order": 2,
+    "name": "yātāyāta",
+    "gloss": "coming and going",
+    "description": "Goes out and returns; has some bliss.",
+    "ref": "YŚ 12.2-4",
+    "band": "B3",
+    "rests_on": [
+     "tea:yogasastra-hemacandra:12.2-4"
+    ]
+   },
+   {
+    "order": 3,
+    "name": "śliṣṭa",
+    "gloss": "clinging / joined",
+    "description": "Steady and blissful.",
+    "ref": "YŚ 12.2-4",
+    "band": "B4",
+    "rests_on": [
+     "tea:yogasastra-hemacandra:12.2-4"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "sulīna",
+    "gloss": "dissolved",
+    "description": "Very steady, with the highest bliss.",
+    "ref": "YŚ 12.2-4",
+    "band": "B4",
+    "rests_on": [
+     "tea:yogasastra-hemacandra:12.2-4"
+    ]
+   },
+   {
+    "order": 5,
+    "name": "unmanībhāva",
+    "gloss": "the no-mind state",
+    "description": "When the mind is left alone in indifference it becomes still of itself; in the no-mind state the self is realised and the yogin, like one freed of a load, experiences bliss.",
+    "ref": "YŚ 12 (ch.-level)",
+    "band": "B5",
+    "rests_on": [
+     "tea:yogasastra-hemacandra:ch.12",
+     "tea:yogasastra-hemacandra:12.1"
+    ],
+    "band_note": "B5 by the text's claim that the self is realised here; low confidence on verse numbers."
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:yogasastra-hemacandra",
+    "ref": "12.1-4 and ch.12",
+    "rests_on": [
+     "tea:yogasastra-hemacandra:12.2-4",
+     "tea:yogasastra-hemacandra:ch.12"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:citta-bhumis"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:vyasa-four-yogins",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Graded minds/practitioners in the Yoga tradition; Vyāsa's five levels of mind (kṣipta … niruddha, YBh 1.1) are a closer analogue.",
+    "rests_on": [
+     "tea:yoga-bhasya:1.1"
+    ],
+    "principle": "P3-path"
+   }
+  ],
+  "notes": "Hemacandra introduces chapter 12 as the reality established by his own experience (12.1), after eleven chapters drawn from scripture. The four minds are also named in the Amanaska tradition of 'no-mind'; no borrowing claim is made here.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:jainism",
+    "lin:svetambara"
+   ],
+   "schools": [
+    "lin:jainism",
+    "lin:svetambara"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5772,7 +7274,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -5898,7 +7400,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6002,7 +7504,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6140,7 +7642,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6285,7 +7787,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6373,7 +7875,327 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:jain-fourteen-gunasthanas",
+  "name": "The fourteen stages of quality (guṇasthāna)",
+  "lineage": "lin:jainism",
+  "lineages": [
+   "lin:jainism",
+   "lin:digambara",
+   "lin:svetambara",
+   "lin:adhyatma-jain"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "mithyādṛṣṭi",
+    "gloss": "wrong view",
+    "description": "The soul under the rise of view-deluding karma; the approach to right view (the three processes, apunarbandhaka state) happens at its end.",
+    "ref": "GJK 9-10",
+    "band": null,
+    "rests_on": [
+     "tea:gommatasara-jivakanda:9-10",
+     "tea:sarvarthasiddhi:1.8"
+    ],
+    "band_note": "Starting condition, unbanded; the approach at its end (yathāpravṛtta-, apūrva-, anivṛtti-karaṇa) is B0 on other maps."
+   },
+   {
+    "order": 2,
+    "name": "sāsādana (sāsvādana)",
+    "gloss": "the 'tasting' — falling from right view",
+    "description": "A momentary stage passed only while falling from subsidential right view toward wrong view, with a lingering taste of right view.",
+    "ref": "GJK 9-10",
+    "band": null,
+    "rests_on": [
+     "tea:gommatasara-jivakanda:9-10"
+    ],
+    "band_note": "A stage of descent only; unbanded."
+   },
+   {
+    "order": 3,
+    "name": "samyag-mithyādṛṣṭi (miśra)",
+    "gloss": "mixed view",
+    "description": "A mixed state of right and wrong view, like curd mixed with sugar.",
+    "ref": "GJK 9-10",
+    "band": "B0",
+    "rests_on": [
+     "tea:gommatasara-jivakanda:9-10"
+    ],
+    "band_note": "B0: wavering at the threshold of right view."
+   },
+   {
+    "order": 4,
+    "name": "avirata-samyagdṛṣṭi",
+    "gloss": "right view without restraint",
+    "description": "Right view (samyaktva) attained — conviction in the realities as they are, with the 'knot' broken — but without vows.",
+    "ref": "GJK 9-10; TS 9.45",
+    "band": "B5",
+    "rests_on": [
+     "tea:gommatasara-jivakanda:9-10",
+     "tea:tattvartha-sutra:1.2",
+     "tea:tattvartha-sutra:1.3",
+     "tea:tattvartha-sutra:9.45"
+    ],
+    "band_note": "B5 by the tradition's own claim that right view is the root and first real seeing of the path (the knot broken; in the Digambara adhyātma account, experience of the self); TS 1.2 defines it as conviction (śraddhāna), which on other maps would sit at B0 — contested."
+   },
+   {
+    "order": 5,
+    "name": "deśavirata (saṃyatāsaṃyata)",
+    "gloss": "partial restraint",
+    "description": "The layman's partial vows (aṇuvrata).",
+    "ref": "GJK 9-10; TS 9.45",
+    "band": "B1",
+    "rests_on": [
+     "tea:gommatasara-jivakanda:9-10",
+     "tea:tattvartha-sutra:9.45"
+    ],
+    "band_note": "B1 by kind (vows), after B5 — Jainism puts right view before conduct."
+   },
+   {
+    "order": 6,
+    "name": "pramatta-saṃyata",
+    "gloss": "restraint with carelessness",
+    "description": "Full vows of the mendicant, with carelessness (pramāda) still arising.",
+    "ref": "GJK 9-10; TS 9.45",
+    "band": "B1",
+    "rests_on": [
+     "tea:gommatasara-jivakanda:9-10",
+     "tea:tattvartha-sutra:9.45"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "apramatta-saṃyata",
+    "gloss": "careful restraint",
+    "description": "Restraint without carelessness; virtuous meditation (dharma-dhyāna) prevails.",
+    "ref": "GJK 9-10",
+    "band": "B3",
+    "rests_on": [
+     "tea:gommatasara-jivakanda:9-10",
+     "tea:tattvartha-sutra:9.36"
+    ]
+   },
+   {
+    "order": 8,
+    "name": "apūrvakaraṇa",
+    "gloss": "the unprecedented process",
+    "description": "Beginning of the ascent on one of the two ladders (subsidence or destruction); pure meditation (śukla-dhyāna) begins.",
+    "ref": "GJK 9-10",
+    "band": "B4",
+    "rests_on": [
+     "tea:gommatasara-jivakanda:9-10",
+     "tea:tattvartha-sutra:9.39",
+     "tea:tattvartha-sutra:9.41-42"
+    ],
+    "band_note": "B4: first pure meditation 'with multiplicity and reasoning' still works with scriptural thought (TS 9.41-43)."
+   },
+   {
+    "order": 9,
+    "name": "anivṛtti-bādara-sāmparāya",
+    "gloss": "the non-returning process with gross passion",
+    "description": "Gross passions are subsided or destroyed.",
+    "ref": "GJK 9-10",
+    "band": "B6",
+    "rests_on": [
+     "tea:gommatasara-jivakanda:9-10",
+     "tea:tattvartha-sutra:9.12"
+    ]
+   },
+   {
+    "order": 10,
+    "name": "sūkṣma-sāmparāya",
+    "gloss": "subtle passion",
+    "description": "Only subtle greed remains.",
+    "ref": "GJK 9-10",
+    "band": "B6",
+    "rests_on": [
+     "tea:gommatasara-jivakanda:9-10",
+     "tea:tattvartha-sutra:9.10"
+    ]
+   },
+   {
+    "order": 11,
+    "name": "upaśānta-moha",
+    "gloss": "delusion subsided",
+    "description": "Delusion wholly subsided but not destroyed; the soul falls back from here.",
+    "ref": "GJK 9-10; TS 9.45",
+    "band": "B6",
+    "rests_on": [
+     "tea:gommatasara-jivakanda:9-10",
+     "tea:tattvartha-sutra:9.45"
+    ],
+    "band_note": "B6, but a dead end: from subsidence the soul necessarily falls back."
+   },
+   {
+    "order": 12,
+    "name": "kṣīṇa-moha",
+    "gloss": "delusion destroyed",
+    "description": "All deluding karma destroyed; the second pure meditation (unity, without shifting); then the other destructive karmas are destroyed.",
+    "ref": "GJK 9-10; TS 9.45",
+    "band": "B6",
+    "rests_on": [
+     "tea:gommatasara-jivakanda:9-10",
+     "tea:tattvartha-sutra:10.1",
+     "tea:tattvartha-sutra:9.41-42",
+     "tea:tattvartha-sutra:9.45"
+    ]
+   },
+   {
+    "order": 13,
+    "name": "sayoga-kevalin",
+    "gloss": "the omniscient with activity",
+    "description": "Omniscience (kevala-jñāna); the Jina lives and teaches while body, speech and mind still act.",
+    "ref": "GJK 9-10",
+    "band": "B7",
+    "rests_on": [
+     "tea:gommatasara-jivakanda:9-10",
+     "tea:tattvartha-sutra:10.1",
+     "tea:tattvartha-sutra:9.11"
+    ],
+    "band_note": "B7: kevala-jñāna is the tradition's liberation-knowledge; the teaching activity of the embodied Jina is a B8 facet."
+   },
+   {
+    "order": 14,
+    "name": "ayoga-kevalin",
+    "gloss": "the omniscient without activity",
+    "description": "All activity stopped for the time of uttering five short syllables; the last pure meditation; then liberation (the siddha, beyond the guṇasthānas).",
+    "ref": "GJK 9-10",
+    "band": "B7",
+    "rests_on": [
+     "tea:gommatasara-jivakanda:9-10",
+     "tea:tattvartha-sutra:10.2",
+     "tea:tattvartha-sutra:9.40"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:gommatasara-jivakanda",
+    "ref": "9-10",
+    "rests_on": [
+     "tea:gommatasara-jivakanda:9-10"
+    ]
+   },
+   {
+    "source": "src:satkhandagama",
+    "ref": "1.1.9-22 (guṇasthāna sūtras; chapter-level ref)",
+    "rests_on": [
+     "tea:satkhandagama:1.1.4"
+    ]
+   },
+   {
+    "source": "src:sarvarthasiddhi",
+    "ref": "1.8",
+    "rests_on": [
+     "tea:sarvarthasiddhi:1.8"
+    ]
+   },
+   {
+    "source": "src:tattvartha-sutra",
+    "ref": "9.45; 10.1-2",
+    "rests_on": [
+     "tea:tattvartha-sutra:9.45",
+     "tea:tattvartha-sutra:10.1"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:fourteen-gunasthanas",
+   "cpt:three-karanas-granthibheda",
+   "cpt:kevala-jnana"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:tattvartha-ten-stages-of-nirjara",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Umāsvāti's ten grades of karma-shedding (TS 9.45) run parallel to guṇasthānas 4-13.",
+    "rests_on": [
+     "tea:tattvartha-sutra:9.45"
+    ]
+   },
+   {
+    "target": "pth:haribhadra-eight-drstis",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Haribhadra's first four views fall within guṇasthāna 1; sthirā onward correspond to right view (4) and above; parā to kevala.",
+    "rests_on": [
+     "tea:yogadrstisamuccaya:sthira",
+     "tea:yogadrstisamuccaya:para"
+    ]
+   },
+   {
+    "target": "pth:three-atmans",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "External self ~ guṇasthānas 1-3; internal self ~ 4-12; supreme self ~ 13-14 (Pūjyapāda's Samādhitantra).",
+    "rests_on": [
+     "tea:samadhitantra:4",
+     "tea:samadhitantra:5"
+    ],
+    "principle": "P4-stage"
+   },
+   {
+    "target": "pth:jain-dhyana-ascent",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "The four pure meditations are distributed over guṇasthānas 8-14.",
+    "rests_on": [
+     "tea:tattvartha-sutra:9.39",
+     "tea:tattvartha-sutra:9.40"
+    ]
+   },
+   {
+    "target": "pth:four-stages-of-awakening",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Right view (4) and stream-entry are both the first irreversible seeing that bounds the remaining rebirths; the Jain soul-doctrine and the Buddhist not-self teaching are not reconciled by this correspondence.",
+    "rests_on": [
+     "tea:tattvartha-sutra:1.2",
+     "tea:mahaparinibbana-sutta:2.6-2.7"
+    ],
+    "principle": "P2-standpoint"
+   }
+  ],
+  "notes": "Stage names follow the Gommaṭasāra Jīvakāṇḍa 9-10 (and the Ṣaṭkhaṇḍāgama); the Śvetāmbara lists agree in substance. The guṇasthānas are classes of soul-state by the operation of mohanīya karma and activity, not only a practice ladder: a soul may fall from 11 (and from 4 via 2). Beyond 14 the liberated soul (siddha) is outside the guṇasthānas.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 4,
+   "lineages": [
+    "lin:adhyatma-jain",
+    "lin:digambara",
+    "lin:jainism",
+    "lin:svetambara"
+   ],
+   "schools": [
+    "lin:adhyatma-jain",
+    "lin:digambara",
+    "lin:jainism",
+    "lin:svetambara"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6512,7 +8334,257 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:jhana-formless-cessation",
+  "name": "The nine successive abidings (anupubbavihāra): four jhānas, four formless attainments, cessation",
+  "lineage": "lin:early-buddhism",
+  "lineages": [
+   "lin:early-buddhism",
+   "lin:theravada",
+   "lin:sarvastivada"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "upacāra-samādhi (commentarial)",
+    "gloss": "access concentration",
+    "description": "Unification reached just before absorption, when the hindrances are suppressed and the counterpart sign arises; not part of the canonical nine.",
+    "ref": "Vism 3-4",
+    "band": "B3",
+    "rests_on": [
+     "tea:visuddhimagga:3/2",
+     "tea:visuddhimagga:4"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "paṭhama jhāna",
+    "gloss": "first jhāna",
+    "description": "Secluded from sense pleasures and unwholesome states, with applied and sustained thought, rapture and bliss born of seclusion; sensual perception ceases in it.",
+    "ref": "AN 9.31-32; DN 2 §75-76",
+    "band": "B4",
+    "rests_on": [
+     "tea:anguttara-nikaya:9.32",
+     "tea:anguttara-nikaya:9.31",
+     "tea:samannaphala-sutta:75-82"
+    ]
+   },
+   {
+    "order": 3,
+    "name": "dutiya jhāna",
+    "gloss": "second jhāna",
+    "description": "With applied and sustained thought stilled: inner confidence, unification, rapture and bliss born of concentration.",
+    "ref": "AN 9.31-32; DN 2",
+    "band": "B4",
+    "rests_on": [
+     "tea:anguttara-nikaya:9.32",
+     "tea:anguttara-nikaya:9.31",
+     "tea:samannaphala-sutta:75-82"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "tatiya jhāna",
+    "gloss": "third jhāna",
+    "description": "With the fading of rapture, equanimous, mindful and clearly aware, he feels bliss.",
+    "ref": "AN 9.31-32; DN 2",
+    "band": "B4",
+    "rests_on": [
+     "tea:anguttara-nikaya:9.32",
+     "tea:anguttara-nikaya:9.31",
+     "tea:samannaphala-sutta:75-82"
+    ]
+   },
+   {
+    "order": 5,
+    "name": "catuttha jhāna",
+    "gloss": "fourth jhāna",
+    "description": "Pleasure and pain abandoned: neither-painful-nor-pleasant, purity of mindfulness through equanimity; in-and-out breathing ceases in it.",
+    "ref": "AN 9.31-32; DN 2",
+    "band": "B4",
+    "rests_on": [
+     "tea:anguttara-nikaya:9.32",
+     "tea:anguttara-nikaya:9.31",
+     "tea:samannaphala-sutta:75-82"
+    ]
+   },
+   {
+    "order": 6,
+    "name": "ākāsānañcāyatana",
+    "gloss": "sphere of infinite space",
+    "description": "Perception of form ceases; reached by removing the kasiṇa and attending to the space left.",
+    "ref": "AN 9.31-32; Vism 10",
+    "band": "B4",
+    "rests_on": [
+     "tea:anguttara-nikaya:9.32",
+     "tea:anguttara-nikaya:9.31",
+     "tea:visuddhimagga:10",
+     "tea:visuddhimagga:10/2"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "viññāṇañcāyatana",
+    "gloss": "sphere of infinite consciousness",
+    "description": "The perception of infinite space ceases.",
+    "ref": "AN 9.31-32; Vism 10",
+    "band": "B4",
+    "rests_on": [
+     "tea:anguttara-nikaya:9.32",
+     "tea:anguttara-nikaya:9.31",
+     "tea:visuddhimagga:10"
+    ]
+   },
+   {
+    "order": 8,
+    "name": "ākiñcaññāyatana",
+    "gloss": "sphere of nothingness",
+    "description": "The perception of infinite consciousness ceases; the attainment the bodhisatta learned from Āḷāra Kālāma.",
+    "ref": "AN 9.31-32; MN 26",
+    "band": "B4",
+    "rests_on": [
+     "tea:anguttara-nikaya:9.32",
+     "tea:anguttara-nikaya:9.31",
+     "tea:ariyapariyesana-sutta:15-17"
+    ]
+   },
+   {
+    "order": 9,
+    "name": "nevasaññānāsaññāyatana",
+    "gloss": "sphere of neither-perception-nor-non-perception",
+    "description": "The perception of nothingness ceases; the attainment learned from Uddaka Rāmaputta, which the bodhisatta left because it did not lead to awakening.",
+    "ref": "AN 9.31-32; MN 26",
+    "band": "B4",
+    "rests_on": [
+     "tea:anguttara-nikaya:9.32",
+     "tea:anguttara-nikaya:9.31",
+     "tea:ariyapariyesana-sutta:15-17"
+    ]
+   },
+   {
+    "order": 10,
+    "name": "saññāvedayitanirodha (nirodha-samāpatti)",
+    "gloss": "cessation of perception and feeling",
+    "description": "Perception and feeling cease; the non-occurrence of consciousness and its concomitants by progressive cessation, attained only by non-returners and arahants who have the eight attainments.",
+    "ref": "AN 9.31-32; DN 9; Vism 23",
+    "band": "B6",
+    "rests_on": [
+     "tea:anguttara-nikaya:9.32",
+     "tea:anguttara-nikaya:9.31",
+     "tea:potthapada-sutta:7-20",
+     "tea:visuddhimagga:23"
+    ],
+    "band_note": "B6 because the commentarial tradition restricts it to noble persons who have already seen (non-returners and arahants); it is an abiding, not itself the final liberation."
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:anguttara-nikaya",
+    "ref": "9.31-32",
+    "rests_on": [
+     "tea:anguttara-nikaya:9.32",
+     "tea:anguttara-nikaya:9.31"
+    ]
+   },
+   {
+    "source": "src:samannaphala-sutta",
+    "ref": "§75-82",
+    "rests_on": [
+     "tea:samannaphala-sutta:75-82"
+    ]
+   },
+   {
+    "source": "src:mahaparinibbana-sutta",
+    "ref": "6.8-6.9",
+    "rests_on": [
+     "tea:mahaparinibbana-sutta:6.8-6.9"
+    ]
+   },
+   {
+    "source": "src:visuddhimagga",
+    "ref": "chs.4, 10, 23",
+    "rests_on": [
+     "tea:visuddhimagga:4",
+     "tea:visuddhimagga:10",
+     "tea:visuddhimagga:23"
+    ]
+   },
+   {
+    "source": "src:abhidharmakosa",
+    "ref": "8.2-4",
+    "rests_on": [
+     "tea:abhidharmakosa:8.2-4"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:four-jhanas",
+   "cpt:first-jhana",
+   "cpt:second-jhana",
+   "cpt:third-jhana",
+   "cpt:fourth-jhana",
+   "cpt:formless-attainments",
+   "cpt:nirodha-samapatti",
+   "cpt:five-jhanas-abhidhamma"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:yoga-sutra-samadhi-ladder",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Graded absorptions dropping coarser factors; not claimed identical.",
+    "rests_on": [
+     "tea:anguttara-nikaya:9.31",
+     "tea:yoga-sutra:1.42"
+    ],
+    "principle": "P2-standpoint"
+   },
+   {
+    "target": "pth:lankavatara-four-dhyanas",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "The Laṅkāvatāra's four dhyānas grade meditation by its object rather than by factors.",
+    "rests_on": [],
+    "principle": "P3-path"
+   }
+  ],
+  "notes": "The canonical list is AN 9.32 (Pali root checked locally); each attainment can also be a basis for insight (AN 9.36). The Buddha passed through all nine, up and down, at his final nibbāna (DN 16 6.8-6.9). The Abhidhamma's fivefold jhāna scheme splits the second jhāna (cpt:five-jhanas-abhidhamma).",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 3,
+   "lineages": [
+    "lin:early-buddhism",
+    "lin:sarvastivada",
+    "lin:theravada"
+   ],
+   "schools": [
+    "lin:early-buddhism",
+    "lin:sarvastivada",
+    "lin:theravada"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6612,7 +8684,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6693,10 +8765,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by pth:kapila-gita-bhakti-sequence"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)"
+     ],
+     "result": "confirmed",
+     "note": "Stage refs verified in vulgate numbering: 3.25.20-25 (anukramiṣyati, 3.25.25), 3.25.26-27 (bhaktyā pumān jātavirāgaḥ ...), 3.28, 3.29.11-14, 3.28.34-38.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "notes": "Assembled by U06 from the Kapila Gītā's own ordering words (anukramiṣyati, 3.25.25); bands are interpretation-layer.",
   "provenance": {
@@ -6718,7 +8806,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6800,10 +8888,25 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:bhagavata-purana:3.28.1-11, tea:bhagavata-purana:3.28.12-33, tea:bhagavata-purana:3.28.34-38"
+     ],
+     "result": "confirmed",
+     "note": "Stage refs BhP 3.28.2-38 located. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -6824,7 +8927,171 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:kashmir-four-upayas",
+  "name": "The four means (upāya) of the Trika: āṇava, śākta, śāmbhava, anupāya",
+  "lineage": "lin:trika",
+  "lineages": [
+   "lin:trika",
+   "lin:kashmir-saivism",
+   "lin:pratyabhijna",
+   "lin:spanda"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "āṇavopāya (kriyopāya)",
+    "gloss": "the individual's means",
+    "description": "Immersion (samāveśa) through meditation on the breath (uccāra), bodily seals (karaṇa), visualization (dhyāna), letters (varṇa) and the positing of places (sthāna-kalpanā); its signs are bliss, leaping, trembling, sleep and whirling.",
+    "ref": "MVT 2.21; TĀ ch.5; Śiva Sūtra section 3",
+    "band": "B2",
+    "rests_on": [
+     "tea:malinivijayottara-tantra:2.21-23",
+     "tea:tantraloka:1.168-170",
+     "tea:tantraloka:5.43-52",
+     "tea:tantraloka:5.101-111",
+     "tea:siva-sutra:3.1"
+    ],
+    "band_note": "B2 in kind (supported practices of breath, body, visualization and place), reaching B3-B4 in its own immersion."
+   },
+   {
+    "order": 2,
+    "name": "śāktopāya (jñānopāya)",
+    "gloss": "the means of power",
+    "description": "Immersion by contemplating with the mind alone a reality free of utterance; purification of thought-constructs (vikalpa-saṃskāra) by pure reasoning (sattarka), the teacher's instruction and scripture; the wheel of consciousness and the Kālīs.",
+    "ref": "MVT 2.22; TĀ ch.4; Śiva Sūtra section 2",
+    "band": "B4",
+    "rests_on": [
+     "tea:malinivijayottara-tantra:2.21-23",
+     "tea:tantraloka:4",
+     "tea:siva-sutra:2.1"
+    ]
+   },
+   {
+    "order": 3,
+    "name": "śāmbhavopāya (icchopāya)",
+    "gloss": "Śiva's means",
+    "description": "Immersion that arises for one who thinks of nothing, through the awakening given by the teacher; the universe appears in consciousness like a reflection in a mirror.",
+    "ref": "MVT 2.23; TĀ ch.3; Śiva Sūtra section 1",
+    "band": "B5",
+    "rests_on": [
+     "tea:malinivijayottara-tantra:2.21-23",
+     "tea:tantraloka:3",
+     "tea:siva-sutra:1.1"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "anupāya (later also ānandopāya)",
+    "gloss": "the means-less",
+    "description": "For one of the highest grace a single hearing of the teacher's word suffices; nothing is to be done, since what is attained is one's own ever-present nature; once Śivahood is known with conviction, nothing further is to be done by any instrument.",
+    "ref": "TĀ ch.2; Śivadṛṣṭi 7.5-6",
+    "band": "B7",
+    "rests_on": [
+     "tea:tantraloka:2",
+     "tea:sivadrsti:7.5-6"
+    ],
+    "band_note": "B7 by what it names (no further means; Śivahood known); the tradition does not treat it as a stage one climbs to."
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:malinivijayottara-tantra",
+    "ref": "2.21-23",
+    "rests_on": [
+     "tea:malinivijayottara-tantra:2.21-23"
+    ]
+   },
+   {
+    "source": "src:tantraloka",
+    "ref": "1.168-170; chs.2-5; ch.13",
+    "rests_on": [
+     "tea:tantraloka:1.168-170",
+     "tea:tantraloka:2",
+     "tea:tantraloka:3",
+     "tea:tantraloka:4",
+     "tea:tantraloka:13"
+    ]
+   },
+   {
+    "source": "src:siva-sutra",
+    "ref": "sections 1-3",
+    "rests_on": [
+     "tea:siva-sutra:1.1",
+     "tea:siva-sutra:2.1",
+     "tea:siva-sutra:3.1"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:four-upayas",
+   "cpt:anupaya",
+   "cpt:saktipata",
+   "cpt:kinds-of-saktipata",
+   "cpt:sattarka",
+   "cpt:seven-pramatrs"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:jinul-sudden-gradual",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Both hold that recognition of one's own nature can be immediate for some while others proceed by graded means; not claimed to be the same recognition.",
+    "rests_on": [
+     "tea:tantraloka:2",
+     "tea:susim-kyol:1006b15"
+    ],
+    "principle": "P4-stage"
+   },
+   {
+    "target": "pth:dzogchen-four-visions",
+    "grade": "contested",
+    "standpoint": "",
+    "note": "Dzogchen and the Trika both speak of a means-less recognition; each tradition's account of what is recognized differs and neither endorses the equation.",
+    "rests_on": [],
+    "principle": "P2-standpoint"
+   }
+  ],
+  "tradition_objection": "The four are means (upāya) matched to the intensity of the descent of grace (TĀ 13), not rungs everyone must climb: the one of highest grace needs no means, and one may enter directly at śāmbhava. Abhinavagupta does teach that the lower means culminate in the higher and that difference of means does not make liberation different (TĀ 1.165-166); the Tantrāloka expounds them from the highest downward (chs. 2-5).",
+  "notes": "Correction to the brief: 'anupāya' is Abhinavagupta's term (TĀ 2); the name ānandopāya for it is later. Kṣemarāja reads the three sections of the Śiva Sūtra as śāmbhava, śākta and āṇava means. The stages are listed here in ascending order for the correspondence table; the tradition's own order of exposition is descending.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 4,
+   "lineages": [
+    "lin:kashmir-saivism",
+    "lin:pratyabhijna",
+    "lin:spanda",
+    "lin:trika"
+   ],
+   "schools": [
+    "lin:kashmir-saivism",
+    "lin:pratyabhijna",
+    "lin:spanda",
+    "lin:trika"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -6924,7 +9191,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7026,7 +9293,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7127,7 +9394,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7237,7 +9504,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7333,7 +9600,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7514,7 +9781,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7643,7 +9910,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7722,7 +9989,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7837,7 +10104,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -7922,7 +10189,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8028,7 +10295,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8133,10 +10400,25 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:linga-purana:1.8.1-9, tea:linga-purana:1.9.1-13, tea:linga-purana:1.9.52-56"
+     ],
+     "result": "confirmed",
+     "note": "Stage refs located: LiP 1.8.8-11 (1.8.10 'ahiṃsā prathamo hetur yamasya'), 1.9.1-56. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8157,7 +10439,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8282,7 +10564,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8357,7 +10639,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8505,7 +10787,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8679,7 +10961,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8775,7 +11057,185 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:mahasi-progress-of-insight",
+  "name": "Mahāsi Sayadaw's progress of insight through noting",
+  "lineage": "lin:mahasi",
+  "lineages": [
+   "lin:mahasi",
+   "lin:theravada"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "sīla-visuddhi",
+    "gloss": "purification of conduct",
+    "description": "The meditator first purifies conduct (precepts) before the retreat.",
+    "ref": "Progress of Insight, intro",
+    "band": "B1",
+    "rests_on": [
+     "tea:rathavinita-sutta:9-15"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "citta-visuddhi by khaṇika-samādhi",
+    "gloss": "purification of mind by momentary concentration",
+    "description": "Continuous, precise noting of whatever arises (beginning with the rising and falling of the abdomen) builds momentary concentration strong enough for insight, in place of jhāna.",
+    "ref": "Practical Insight Meditation; Progress of Insight",
+    "band": "B3",
+    "rests_on": [
+     "tea:practical-insight-meditation:concentration",
+     "tea:paramatthamanjusa:18"
+    ],
+    "band_note": "B3; the tradition holds that momentary concentration does the work of access concentration for the pure-insight practitioner."
+   },
+   {
+    "order": 3,
+    "name": "knowledges 1-3",
+    "gloss": "mind and matter; conditionality; comprehension",
+    "description": "The noted object and the noting mind are distinguished, their conditionality seen, and they are comprehended as impermanent, painful, not-self; unpleasant sensations are often prominent.",
+    "ref": "Progress of Insight 1-3",
+    "band": "B4",
+    "rests_on": [
+     "tea:progress-of-insight:1-3"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "knowledge 4",
+    "gloss": "arising and passing away",
+    "description": "Bright lights, rapture, tranquillity, happiness, strong faith and quick noting may appear; attachment to them is the corruption of insight to be noted and passed.",
+    "ref": "Progress of Insight 4",
+    "band": "B4",
+    "rests_on": [
+     "tea:progress-of-insight:4",
+     "tea:visuddhimagga:20/2"
+    ]
+   },
+   {
+    "order": 5,
+    "name": "knowledges 5-10",
+    "gloss": "dissolution, fearfulness, misery, disgust, desire for deliverance, re-observation",
+    "description": "Only vanishing is seen; formations appear fearful, full of danger and wearisome; a desire for deliverance arises; re-observation.",
+    "ref": "Progress of Insight 5-10",
+    "band": "B4",
+    "rests_on": [
+     "tea:progress-of-insight:5-10"
+    ]
+   },
+   {
+    "order": 6,
+    "name": "knowledge 11",
+    "gloss": "equanimity about formations",
+    "description": "Noting proceeds by itself, smoothly and without effort, neither delighting nor fearing, and can last long.",
+    "ref": "Progress of Insight 11",
+    "band": "B4",
+    "rests_on": [
+     "tea:progress-of-insight:11"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "knowledges 12-13",
+    "gloss": "adaptation and maturity (change-of-lineage)",
+    "description": "Insight leading to emergence culminates in conformity and then in change-of-lineage.",
+    "ref": "Progress of Insight 12-13",
+    "band": "B5",
+    "rests_on": [
+     "tea:visuddhimagga:21/6",
+     "tea:visuddhimagga:22"
+    ],
+    "band_note": "Conformity is B4 and change-of-lineage B5 on pth:sixteen-insight-knowledges; grouped here as the threshold."
+   },
+   {
+    "order": 8,
+    "name": "knowledges 14-15",
+    "gloss": "path and fruition",
+    "description": "The noted objects and the noting mind cease: the cessation of formations (nibbāna) is experienced.",
+    "ref": "Progress of Insight 14-15",
+    "band": "B5",
+    "rests_on": [
+     "tea:progress-of-insight:14-16"
+    ]
+   },
+   {
+    "order": 9,
+    "name": "knowledge 16 and after",
+    "gloss": "reviewing; fruition attainment; the higher paths",
+    "description": "Reviewing knowledge follows; the meditator may practise entering fruition and continue insight for the higher paths.",
+    "ref": "Progress of Insight 16",
+    "band": "B6",
+    "rests_on": [
+     "tea:progress-of-insight:14-16",
+     "tea:visuddhimagga:22/2"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:progress-of-insight",
+    "ref": "whole",
+    "rests_on": [
+     "tea:progress-of-insight:1-3",
+     "tea:progress-of-insight:4",
+     "tea:progress-of-insight:5-10",
+     "tea:progress-of-insight:11",
+     "tea:progress-of-insight:14-16"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:insight-knowledges",
+   "cpt:khanika-samadhi",
+   "cpt:two-vehicles"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:sixteen-insight-knowledges",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Same sixteen knowledges presented through the practice of noting.",
+    "rests_on": [
+     "tea:progress-of-insight:1-3"
+    ]
+   }
+  ],
+  "notes": "Post-1800 teacher (recent). Kept separate from pth:sixteen-insight-knowledges because Mahāsi's account describes the stages as they appear in noting practice (momentary concentration instead of jhāna, typical experiences at each stage). Grouping of knowledges follows the chapter's own grouping as recalled; moderate confidence on the grouping.",
+  "recent": true,
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:mahasi",
+    "lin:theravada"
+   ],
+   "schools": [
+    "lin:theravada"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8850,7 +11310,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -8935,7 +11395,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9064,7 +11524,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9139,7 +11599,206 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:maitri-six-limbs",
+  "name": "The six-limbed yoga of the Maitrī Upaniṣad (ṣaḍaṅga-yoga)",
+  "lineage": "lin:upanisadic",
+  "lineages": [
+   "lin:upanisadic"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "prāṇāyāma",
+    "gloss": "breath-control",
+    "description": "First limb of the method (prayoga-kalpa) for union with the self.",
+    "ref": "MU 6.18",
+    "band": "B2",
+    "rests_on": [
+     "tea:maitri-upanisad:6.18"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "pratyāhāra",
+    "gloss": "withdrawal of the senses",
+    "description": "The mind withdrawn from outer things and the objects placed within (6.19).",
+    "ref": "MU 6.18-19",
+    "band": "B3",
+    "rests_on": [
+     "tea:maitri-upanisad:6.18",
+     "tea:maitri-upanisad:6.19"
+    ]
+   },
+   {
+    "order": 3,
+    "name": "dhyāna",
+    "gloss": "meditation",
+    "description": "Named before dhāraṇā in this list.",
+    "ref": "MU 6.18",
+    "band": "B3",
+    "rests_on": [
+     "tea:maitri-upanisad:6.18"
+    ],
+    "band_note": "The Maitrī's order puts dhyāna before dhāraṇā; both banded B3."
+   },
+   {
+    "order": 4,
+    "name": "dhāraṇā",
+    "gloss": "concentration / fixation",
+    "description": "The 'further concentration' of 6.20: pressing the tongue-tip to the palate, restraining speech, mind and breath.",
+    "ref": "MU 6.18, 6.20",
+    "band": "B3",
+    "rests_on": [
+     "tea:maitri-upanisad:6.18",
+     "tea:maitri-upanisad:6.20"
+    ]
+   },
+   {
+    "order": 5,
+    "name": "tarka",
+    "gloss": "contemplative reasoning",
+    "description": "A limb peculiar to this list; in 6.20 'by tarka one sees brahman'.",
+    "ref": "MU 6.18, 6.20",
+    "band": "B4",
+    "rests_on": [
+     "tea:maitri-upanisad:6.18",
+     "tea:maitri-upanisad:6.20"
+    ],
+    "band_note": "B4 as discernment still working with an object; the seeing it leads to is stage 7."
+   },
+   {
+    "order": 6,
+    "name": "samādhi",
+    "gloss": "absorption",
+    "description": "Last limb; the mind placed in what is not mind, the inconceivable, without support (6.19).",
+    "ref": "MU 6.18-19",
+    "band": "B4",
+    "rests_on": [
+     "tea:maitri-upanisad:6.18",
+     "tea:maitri-upanisad:6.19"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "seeing the golden-hued maker",
+    "gloss": "vision of the source",
+    "description": "By this yoga the seer sees the golden-coloured maker, the lord, the person, the source of brahman (brahmayoni); through the dissolution of mind one sees the self, subtler than the subtle, shining (6.20).",
+    "ref": "MU 6.18, 6.20",
+    "band": "B5",
+    "rests_on": [
+     "tea:maitri-upanisad:6.18",
+     "tea:maitri-upanisad:6.20"
+    ]
+   },
+   {
+    "order": 8,
+    "name": "making all one in the imperishable",
+    "gloss": "union in the supreme",
+    "description": "The knower, leaving merit and evil, makes all one in the highest imperishable; faults do not approach him, as deer and birds avoid a burning mountain; selflessness is 'the mark of liberation' (6.20).",
+    "ref": "MU 6.18, 6.20",
+    "band": "B7",
+    "rests_on": [
+     "tea:maitri-upanisad:6.18",
+     "tea:maitri-upanisad:6.20"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:maitri-upanisad",
+    "ref": "6.18-20",
+    "rests_on": [
+     "tea:maitri-upanisad:6.18",
+     "tea:maitri-upanisad:6.19",
+     "tea:maitri-upanisad:6.20"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:limbs-of-yoga-in-upanisads"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:guhyasamaja-sadanga-yoga",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Same count of six and three shared limb-names (pratyāhāra, dhyāna, prāṇāyāma, dhāraṇā, samādhi) in a different order, with anusmṛti for tarka; no historical claim is made here.",
+    "rests_on": [
+     "tea:maitri-upanisad:6.18",
+     "tea:guhyasamaja-tantra:18.138"
+    ],
+    "principle": "P3-path"
+   },
+   {
+    "target": "pth:kalacakra-six-branches",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "As above: six limbs with five shared names; Kālacakra has anusmṛti where the Maitrī has tarka.",
+    "rests_on": [
+     "tea:maitri-upanisad:6.18",
+     "tea:thongwa-donden-taranatha:six-branches"
+    ],
+    "principle": "P3-path"
+   },
+   {
+    "target": "pth:goraksasataka-six-limbs",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Nātha six-limbed yoga (āsana instead of tarka).",
+    "rests_on": [],
+    "principle": "P3-path"
+   },
+   {
+    "target": "pth:dhyanabindu-six-limbs",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Six-limbed yoga of the Yoga Upaniṣads.",
+    "rests_on": [],
+    "principle": "P3-path"
+   },
+   {
+    "target": "pth:amrtanada-six-limbs",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "The Amṛtanāda Upaniṣad's six limbs (pratyāhāra, dhyāna, prāṇāyāma, dhāraṇā, tarka, samādhi) keep tarka as in the Maitrī.",
+    "rests_on": [],
+    "principle": "P3-path"
+   }
+  ],
+  "notes": "Stage names and order verified against the local e-text (Cowell recension, ebharati): prāṇāyāmaḥ pratyāhāro dhyānaṃ dhāraṇā tarkaḥ samādhiḥ ṣaḍaṅga ity ucyate yogaḥ (6.18). Stages 7-8 are the fruit stated in the same section; they are added so that the map reaches its own goal.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:upanisadic"
+   ],
+   "schools": [
+    "lin:vedic-srauta"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9229,7 +11888,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9344,7 +12003,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9497,7 +12156,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9589,10 +12248,25 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:markandeya-purana:38.6-16, tea:markandeya-purana:39.1-35, tea:markandeya-purana:40.1-13, tea:markandeya-purana:40.14-28, tea:markandeya-purana:40.29-41, tea:markandeya-purana:42.1-17"
+     ],
+     "result": "confirmed",
+     "note": "Stage refs located (MkP 38.6-16, 41.2-26, 39, 40.1-41, 42.15-16); for 39.1-26 see the peterFreund e-text (the Sansknet file has a lacuna). All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -9613,7 +12287,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9719,7 +12393,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9848,7 +12522,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -9964,7 +12638,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10093,7 +12767,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10198,7 +12872,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10305,7 +12979,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10405,7 +13079,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10495,7 +13169,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10628,7 +13302,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10791,7 +13465,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -10912,7 +13586,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11028,7 +13702,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11132,7 +13806,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11233,7 +13907,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11341,7 +14015,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11466,7 +14140,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11545,7 +14219,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11686,7 +14360,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11774,7 +14448,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11907,7 +14581,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -11987,7 +14661,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12103,7 +14777,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12195,10 +14869,25 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by pth:rama-gita-sequence"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press)"
+     ],
+     "result": "confirmed",
+     "note": "Stage refs verified: AR 7.5.7, 7.5.15-17, 7.5.24-27, 7.5.42-52, 7.5.54 ('prārabdham aśnann abhimānavarjitaḥ') and 7.5.56 (water in the ocean, milk in milk, space in space).",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "notes": "Assembled by U06 from the order stated in the Rāma Gītā; the text adds that until all is seen as Rāma one should worship him (7.5.58). Bands are interpretation-layer (B8 before B7 reflects the text's order: jīvanmukti, then final merging).",
   "provenance": {
@@ -12222,7 +14911,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12369,7 +15058,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12496,7 +15185,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12580,7 +15269,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12693,7 +15382,200 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:rupa-gosvami-bhakti-stages",
+  "name": "Rūpa Gosvāmī's sequence of the arising of love (premṇaḥ prādurbhāve kramaḥ)",
+  "lineage": "lin:gaudiya-vaisnava",
+  "lineages": [
+   "lin:gaudiya-vaisnava"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "śraddhā",
+    "gloss": "faith",
+    "description": "First, faith.",
+    "ref": "BRS 1.4.15",
+    "band": "B0",
+    "rests_on": [
+     "tea:bhaktirasamrtasindhu:1.4.15-16"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "sādhu-saṅga",
+    "gloss": "association with saints",
+    "description": "Then the company of holy devotees.",
+    "ref": "BRS 1.4.15",
+    "band": "B0",
+    "rests_on": [
+     "tea:bhaktirasamrtasindhu:1.4.15-16"
+    ]
+   },
+   {
+    "order": 3,
+    "name": "bhajana-kriyā",
+    "gloss": "devotional practice",
+    "description": "Then the practice of devotion (the limbs of sādhana-bhakti: hearing, chanting, remembering, service …).",
+    "ref": "BRS 1.4.15; 1.2",
+    "band": "B2",
+    "rests_on": [
+     "tea:bhaktirasamrtasindhu:1.4.15-16",
+     "tea:bhaktirasamrtasindhu:1.2.1-2",
+     "tea:bhaktirasamrtasindhu:1.2/2"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "anartha-nivṛtti",
+    "gloss": "removal of unwanted things",
+    "description": "Then what is unwanted falls away.",
+    "ref": "BRS 1.4.15",
+    "band": "B1",
+    "rests_on": [
+     "tea:bhaktirasamrtasindhu:1.4.15-16"
+    ],
+    "band_note": "B1 by kind (purification), kept in the text's order after practice."
+   },
+   {
+    "order": 5,
+    "name": "niṣṭhā",
+    "gloss": "steadiness",
+    "description": "Then steadiness.",
+    "ref": "BRS 1.4.15",
+    "band": "B3",
+    "rests_on": [
+     "tea:bhaktirasamrtasindhu:1.4.15-16"
+    ]
+   },
+   {
+    "order": 6,
+    "name": "ruci",
+    "gloss": "taste",
+    "description": "Then taste (relish) for devotion.",
+    "ref": "BRS 1.4.15",
+    "band": "B4",
+    "rests_on": [
+     "tea:bhaktirasamrtasindhu:1.4.15-16"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "āsakti",
+    "gloss": "attachment",
+    "description": "Then attachment.",
+    "ref": "BRS 1.4.16",
+    "band": "B4",
+    "rests_on": [
+     "tea:bhaktirasamrtasindhu:1.4.15-16"
+    ]
+   },
+   {
+    "order": 8,
+    "name": "bhāva (rati)",
+    "gloss": "emotion",
+    "description": "Then bhāva: of the nature of special pure sattva, like a ray of the sun of prema, softening the heart; its signs are forbearance, not wasting time, detachment, freedom from pride, hope, longing, taste for the name …",
+    "ref": "BRS 1.4.16; 1.3.1, 1.3.25-26",
+    "band": "B5",
+    "rests_on": [
+     "tea:bhaktirasamrtasindhu:1.4.15-16",
+     "tea:bhaktirasamrtasindhu:1.3.1",
+     "tea:bhaktirasamrtasindhu:1.3.25-26"
+    ]
+   },
+   {
+    "order": 9,
+    "name": "prema",
+    "gloss": "love",
+    "description": "Then love rises: bhāva become dense, thoroughly softening the heart, marked by an excess of possessiveness toward the Lord.",
+    "ref": "BRS 1.4.16; 1.4.1",
+    "band": "B7",
+    "rests_on": [
+     "tea:bhaktirasamrtasindhu:1.4.15-16",
+     "tea:bhaktirasamrtasindhu:1.4.1"
+    ],
+    "band_note": "B7 as the tradition's final goal (prayojana); the Gauḍīyas deny that prema is the same as mokṣa — they hold it makes liberation trivial (BRS 1.1.17)."
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:bhaktirasamrtasindhu",
+    "ref": "1.4.15-16",
+    "rests_on": [
+     "tea:bhaktirasamrtasindhu:1.4.15-16"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:three-levels-of-bhakti",
+   "cpt:vaidhi-bhakti",
+   "cpt:raganuga-bhakti",
+   "cpt:uttama-bhakti",
+   "cpt:stages-of-prema",
+   "cpt:prema-as-fifth-goal"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:madhurya-kadambini-stages",
+    "grade": "exact",
+    "standpoint": "",
+    "note": "Viśvanātha Cakravartin's Mādhurya-kādambinī expounds the same nine stages (subdividing practice and the anarthas); bands identical.",
+    "rests_on": [
+     "tea:bhaktirasamrtasindhu:1.4.15-16"
+    ]
+   },
+   {
+    "target": "pth:ujjvalanilamani-prema-ladder",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Continues stage 9: prema → sneha → māna → praṇaya → rāga → anurāga → mahābhāva.",
+    "rests_on": [
+     "tea:bhaktirasamrtasindhu:1.4.1"
+    ]
+   },
+   {
+    "target": "pth:narada-bhakti-sutra-crossing-maya",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Nārada's aphorisms also lead from renunciation and company of the great to love.",
+    "rests_on": [],
+    "principle": "P3-path"
+   }
+  ],
+  "tradition_objection": "Prema is the 'fifth goal of life' beyond liberation; Rūpa's tradition rejects any reading of it as merging (sāyujya) and treats desire for liberation as an obstacle ('the witch of desire for enjoyment and liberation', BRS 1.2.22).",
+  "notes": "Verse verified locally (GRETIL Haribhaktirasāmṛtasindhu 1.4.15-16: ādau śraddhā tataḥ sādhusaṅgo 'tha bhajanakriyā / tato 'narthanivṛttiḥ syāt tato niṣṭhā rucis tataḥ // athāsaktis tato bhāvas tataḥ premābhyudañcati / sādhakānām ayaṃ premṇaḥ prādurbhāve bhavet kramaḥ). Rūpa says this is 'the sequence for practitioners' (sādhakānām); those graced otherwise may skip it.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:gaudiya-vaisnava"
+   ],
+   "schools": [
+    "lin:gaudiya-vaisnava"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12770,7 +15652,201 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:saiva-siddhanta-four-padas",
+  "name": "The four pādas of Śaiva Siddhānta (caryā, kriyā, yoga, jñāna) and their fruits",
+  "lineage": "lin:saiva-siddhanta",
+  "lineages": [
+   "lin:saiva-siddhanta",
+   "lin:tamil-saiva-siddhanta",
+   "lin:mantramarga",
+   "lin:tamil-siddha"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "iruvinaiyoppu, malaparipāka, śaktinipāta",
+    "gloss": "balance of the two deeds, ripening of mala, descent of grace",
+    "description": "When good and bad karma balance and the soul's mala ripens, Śiva's power descends in four grades (very mild … very intense), fitting the soul for caryā, kriyā, yoga or jñāna; Śiva comes as the guru.",
+    "ref": "Civañāṉa Cittiyār, cupakkam 8",
+    "band": "B0",
+    "rests_on": [
+     "tea:sivananasiddhiyar:cupakkam.8",
+     "tea:sivananasiddhiyar:cupakkam.8/2"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "caryā (dāsa-mārga)",
+    "gloss": "service — the servant's path",
+    "description": "Outer service of the Lord (in the Tamil tradition: temple service); its fruit is sālokya, dwelling in Śiva's world.",
+    "ref": "SS cupakkam 8; Tirumantiram tantra 5",
+    "band": "B2",
+    "rests_on": [
+     "tea:sivananasiddhiyar:cupakkam.8/3",
+     "tea:tirumantiram:tantra.5"
+    ],
+    "band_note": "B2 as devotional-ritual practice; the Siddhānta counts it as a real path with its own (lower) liberation."
+   },
+   {
+    "order": 3,
+    "name": "kriyā (satputra-mārga)",
+    "gloss": "ritual worship — the good son's path",
+    "description": "Worship (pūjā) of Śiva, outer and inner; fruit sāmīpya, nearness.",
+    "ref": "SS cupakkam 8; Tirumantiram tantra 5",
+    "band": "B2",
+    "rests_on": [
+     "tea:sivananasiddhiyar:cupakkam.8/3",
+     "tea:tirumantiram:tantra.5"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "yoga (saha-mārga)",
+    "gloss": "yoga — the companion's path",
+    "description": "Inner yoga of the eight limbs directed to Śiva; fruit sārūpya, likeness of form.",
+    "ref": "SS cupakkam 8; Tirumantiram tantra 5",
+    "band": "B4",
+    "rests_on": [
+     "tea:sivananasiddhiyar:cupakkam.8/3",
+     "tea:tirumantiram:tantra.5"
+    ]
+   },
+   {
+    "order": 5,
+    "name": "jñāna (san-mārga)",
+    "gloss": "knowledge — the true path",
+    "description": "Given by the guru's grace; proceeds by hearing, reflection, clarity and abiding (kēṭṭal, cintittal, teḷital, niṭṭai); the soul sees Śiva in itself with the eye of grace and knows the senses' world as a mirage.",
+    "ref": "SS cupakkam 8; ŚJB 8-9",
+    "band": "B5",
+    "rests_on": [
+     "tea:sivananasiddhiyar:cupakkam.8/3",
+     "tea:sivananabodham:8",
+     "tea:sivananabodham:9"
+    ],
+    "band_note": "Begins at B5 (recognition through the guru); its 'abiding' (niṭṭai) is B6."
+   },
+   {
+    "order": 6,
+    "name": "sāyujya / aṇaintu nirral",
+    "gloss": "union",
+    "description": "The soul, one with the Lord as his servant, is no longer touched by mala, māyā and the two deeds; by unforgetting love it reaches his feet — inseparable, not identical.",
+    "ref": "ŚJB 10-11; SS cupakkam 11",
+    "band": "B7",
+    "rests_on": [
+     "tea:sivananabodham:10",
+     "tea:sivananabodham:11",
+     "tea:sivananasiddhiyar:cupakkam.11"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "worship of the devotees and the temple",
+    "gloss": "the freed soul's conduct",
+    "description": "Having washed away the three malas, the freed soul joins the true devotees and worships their holy garb and the temple as the Lord.",
+    "ref": "ŚJB 12",
+    "band": "B8",
+    "rests_on": [
+     "tea:sivananabodham:12"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:sivananasiddhiyar",
+    "ref": "cupakkam 8, 11",
+    "rests_on": [
+     "tea:sivananasiddhiyar:cupakkam.8",
+     "tea:sivananasiddhiyar:cupakkam.8/3"
+    ]
+   },
+   {
+    "source": "src:sivananabodham",
+    "ref": "sūtras 8-12",
+    "rests_on": [
+     "tea:sivananabodham:8",
+     "tea:sivananabodham:12"
+    ]
+   },
+   {
+    "source": "src:tirumantiram",
+    "ref": "tantra 5",
+    "rests_on": [
+     "tea:tirumantiram:tantra.5"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:four-padas",
+   "cpt:four-padas-of-agama",
+   "cpt:four-margas"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:saiva-siddhanta-ten-karyas",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "The Tamil ten acts (tacakāriyam) articulate the jñāna-pāda's culmination.",
+    "rests_on": []
+   },
+   {
+    "target": "pth:rupa-gosvami-bhakti-stages",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Both lead through devotional practice to a relational culmination (union as servant; prema) rather than identity.",
+    "rests_on": [],
+    "principle": "P3-path"
+   },
+   {
+    "target": "pth:advaita-sadhana",
+    "grade": "contested",
+    "standpoint": "",
+    "note": "Both end in liberation through knowledge given by grace/teaching; the Siddhānta rejects Advaita's identity of soul and Śiva (sāyujya is inseparability, not identity).",
+    "rests_on": [
+     "tea:sivananasiddhiyar:cupakkam.11"
+    ],
+    "principle": "P2-standpoint"
+   }
+  ],
+  "tradition_objection": "The Siddhānta insists that in liberation the soul neither becomes Śiva nor perishes but abides inseparable from him (Cittiyār cupakkam 11); an equivalence of stage 6 with Advaita's jīvanmukti/videhamukti holds only as 'same band', not same state.",
+  "notes": "In the Āgamas the four pādas are also the four sections of an Āgama (vidyā/jñāna, kriyā, yoga, caryā). Tirumūlar teaches that each pāda contains the others in miniature (caryā-in-caryā … jñāna-in-jñāna), so the four are not strictly exclusive stages. The first three yield the lower liberations (sālokya, sāmīpya, sārūpya) and ripen the soul; only jñāna gives sāyujya.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 3,
+   "lineages": [
+    "lin:mantramarga",
+    "lin:saiva-siddhanta",
+    "lin:tamil-saiva-siddhanta",
+    "lin:tamil-siddha"
+   ],
+   "schools": [
+    "lin:mantramarga",
+    "lin:saiva-siddhanta",
+    "lin:tamil-siddha"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -12897,7 +15973,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13032,7 +16108,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13157,7 +16233,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13331,7 +16407,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13458,7 +16534,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13595,7 +16671,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13709,7 +16785,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -13838,7 +16914,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14006,7 +17082,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14124,7 +17200,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14214,7 +17290,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14305,7 +17381,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14400,7 +17476,218 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:seven-purifications",
+  "name": "The seven purifications (satta visuddhi)",
+  "lineage": "lin:theravada",
+  "lineages": [
+   "lin:theravada",
+   "lin:early-buddhism"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "sīla-visuddhi",
+    "gloss": "purification of virtue",
+    "description": "Fourfold purity: Pātimokkha restraint, restraint of the senses, purity of livelihood, proper use of requisites.",
+    "ref": "MN 24; Vism 1-2",
+    "band": "B1",
+    "rests_on": [
+     "tea:rathavinita-sutta:9-15",
+     "tea:visuddhimagga:1/4"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "citta-visuddhi",
+    "gloss": "purification of mind",
+    "description": "The eight attainments with their access; for the pure-insight practitioner, momentary concentration.",
+    "ref": "MN 24; Vism 3-13",
+    "band": "B4",
+    "rests_on": [
+     "tea:rathavinita-sutta:9-15",
+     "tea:visuddhimagga:3/2",
+     "tea:paramatthamanjusa:18"
+    ],
+    "band_note": "B4 as access and absorption (the pure-insight vehicle's momentary concentration is B3-B4)."
+   },
+   {
+    "order": 3,
+    "name": "diṭṭhi-visuddhi",
+    "gloss": "purification of view",
+    "description": "Defining mentality-materiality by characteristic, function, manifestation and proximate cause; no being or person found apart from them, as 'chariot' is a mere term.",
+    "ref": "MN 24; Vism 18",
+    "band": "B4",
+    "rests_on": [
+     "tea:rathavinita-sutta:9-15",
+     "tea:visuddhimagga:18",
+     "tea:visuddhimagga:18/2"
+    ],
+    "band_note": "Mundane insight with conditioned objects: B4 under this unit's rule (B5 reserved for the first supramundane seeing)."
+   },
+   {
+    "order": 4,
+    "name": "kaṅkhāvitaraṇa-visuddhi",
+    "gloss": "purification by overcoming doubt",
+    "description": "Discerning the conditions of mentality-materiality in the three times; one possessed of it has found a footing in the dispensation (a 'lesser stream-enterer').",
+    "ref": "MN 24; Vism 19",
+    "band": "B4",
+    "rests_on": [
+     "tea:rathavinita-sutta:9-15",
+     "tea:visuddhimagga:19",
+     "tea:visuddhimagga:19/3"
+    ]
+   },
+   {
+    "order": 5,
+    "name": "maggāmagga-ñāṇadassana-visuddhi",
+    "gloss": "purification by knowledge and vision of what is and is not the path",
+    "description": "Comprehension of formations as impermanent, painful, not-self; at the tender knowledge of rise and fall ten imperfections (illumination, knowledge, rapture …) arise and are recognized as not the path.",
+    "ref": "MN 24; Vism 20",
+    "band": "B4",
+    "rests_on": [
+     "tea:rathavinita-sutta:9-15",
+     "tea:visuddhimagga:20",
+     "tea:visuddhimagga:20/2",
+     "tea:visuddhimagga:20/3",
+     "tea:visuddhimagga:20/4"
+    ]
+   },
+   {
+    "order": 6,
+    "name": "paṭipadā-ñāṇadassana-visuddhi",
+    "gloss": "purification by knowledge and vision of the way",
+    "description": "Insight reaching its culmination in eight knowledges (rise and fall, dissolution, terror, danger, dispassion, desire for deliverance, reflection, equanimity about formations) with conformity as ninth.",
+    "ref": "MN 24; Vism 21",
+    "band": "B4",
+    "rests_on": [
+     "tea:rathavinita-sutta:9-15",
+     "tea:visuddhimagga:21",
+     "tea:visuddhimagga:21/2",
+     "tea:visuddhimagga:21/4",
+     "tea:visuddhimagga:21/6"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "ñāṇadassana-visuddhi",
+    "gloss": "purification by knowledge and vision",
+    "description": "The knowledge of the four supramundane paths; change-of-lineage, which takes nibbāna as object, stands between the sixth and seventh.",
+    "ref": "MN 24; Vism 22",
+    "band": "B5",
+    "rests_on": [
+     "tea:rathavinita-sutta:9-15",
+     "tea:visuddhimagga:22"
+    ],
+    "band_note": "B5 for the first path (stream-entry); the same purification comprises the higher paths (B6) and the path of arahantship ending in B7."
+   },
+   {
+    "order": 8,
+    "name": "anupādā parinibbāna",
+    "gloss": "final nibbāna without clinging",
+    "description": "The goal for which the holy life is lived; each purification serves the next like King Pasenadi's relay of seven chariots.",
+    "ref": "MN 24",
+    "band": "B7",
+    "rests_on": [
+     "tea:rathavinita-sutta:9-15",
+     "tea:visuddhimagga:1/2"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:majjhima-nikaya",
+    "ref": "MN 24 (Rathavinīta Sutta)",
+    "rests_on": [
+     "tea:rathavinita-sutta:9-15"
+    ]
+   },
+   {
+    "source": "src:visuddhimagga",
+    "ref": "chs.1-22",
+    "rests_on": [
+     "tea:visuddhimagga:1",
+     "tea:visuddhimagga:18",
+     "tea:visuddhimagga:22"
+    ]
+   },
+   {
+    "source": "src:abhidhammatthasangaha",
+    "ref": "ch.9",
+    "rests_on": [
+     "tea:abhidhammatthasangaha:9/2"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:seven-purifications-concept",
+   "cpt:seven-visuddhi",
+   "cpt:insight-knowledges",
+   "cpt:three-full-understandings"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:sixteen-insight-knowledges",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "The insight knowledges are distributed over purifications 3-7.",
+    "rests_on": [
+     "tea:abhidhammatthasangaha:9/2"
+    ]
+   },
+   {
+    "target": "pth:pa-auk-path",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Pa-Auk's teaching follows the Visuddhimagga order (U37 bands its mundane insight B5-B6; see cpt:path-map-correspondence).",
+    "rests_on": [],
+    "principle": "P4-stage"
+   },
+   {
+    "target": "pth:three-trainings",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Purification 1 = virtue, 2 = concentration, 3-7 = understanding.",
+    "rests_on": [
+     "tea:visuddhimagga:1"
+    ]
+   }
+  ],
+  "notes": "MN 24 names the seven and the chariot simile; the Visuddhimagga builds its entire structure on them. The last stage (anupādā parinibbāna) is the goal MN 24 names and is added to close the map.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:early-buddhism",
+    "lin:theravada"
+   ],
+   "schools": [
+    "lin:early-buddhism",
+    "lin:theravada"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14488,7 +17775,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14589,7 +17876,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14680,7 +17967,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -14751,7 +18038,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15620,7 +18907,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15741,7 +19028,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -15878,7 +19165,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16035,7 +19322,315 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:sixteen-insight-knowledges",
+  "name": "The sixteen insight knowledges (soḷasa ñāṇa)",
+  "lineage": "lin:theravada",
+  "lineages": [
+   "lin:theravada",
+   "lin:mahasi",
+   "lin:ledi",
+   "lin:pa-auk"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "nāmarūpa-pariccheda-ñāṇa",
+    "gloss": "knowledge defining mentality-materiality",
+    "description": "Distinguishing the noted object from the noting mind; mentality and materiality defined, no self apart from them.",
+    "ref": "Vism 18",
+    "band": "B4",
+    "rests_on": [
+     "tea:visuddhimagga:18",
+     "tea:progress-of-insight:1-3"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "paccaya-pariggaha-ñāṇa",
+    "gloss": "knowledge discerning conditions",
+    "description": "Seeing their conditionality through the three times; doubt overcome.",
+    "ref": "Vism 19",
+    "band": "B4",
+    "rests_on": [
+     "tea:visuddhimagga:19",
+     "tea:progress-of-insight:1-3"
+    ]
+   },
+   {
+    "order": 3,
+    "name": "sammasana-ñāṇa",
+    "gloss": "knowledge of comprehension",
+    "description": "Comprehending formations as impermanent, painful, not-self (unpleasant sensations are often prominent — Mahāsi).",
+    "ref": "Vism 20",
+    "band": "B4",
+    "rests_on": [
+     "tea:visuddhimagga:20",
+     "tea:progress-of-insight:1-3"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "udayabbaya-ñāṇa",
+    "gloss": "knowledge of rise and fall (tender, then mature; the ten imperfections arise at its tender stage)",
+    "description": "Seeing arising and passing; lights, rapture, tranquillity, strong faith may appear and must not be taken for the path.",
+    "ref": "Vism 20-21",
+    "band": "B4",
+    "rests_on": [
+     "tea:visuddhimagga:20/2",
+     "tea:visuddhimagga:21",
+     "tea:progress-of-insight:4"
+    ],
+    "band_note": "Mundane insight: B4 under this unit's rule; U37's pth:pa-auk-path puts mundane insight at B5-B6."
+   },
+   {
+    "order": 5,
+    "name": "bhaṅga-ñāṇa",
+    "gloss": "knowledge of dissolution",
+    "description": "Only the vanishing of formations is seen.",
+    "ref": "Vism 21",
+    "band": "B4",
+    "rests_on": [
+     "tea:visuddhimagga:21/2",
+     "tea:progress-of-insight:5-10"
+    ]
+   },
+   {
+    "order": 6,
+    "name": "bhaya-ñāṇa",
+    "gloss": "knowledge of appearance as terror",
+    "description": "Formations appear fearful, like a burning house.",
+    "ref": "Vism 21",
+    "band": "B4",
+    "rests_on": [
+     "tea:visuddhimagga:21",
+     "tea:visuddhimagga:21/3",
+     "tea:progress-of-insight:5-10"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "ādīnava-ñāṇa",
+    "gloss": "knowledge of danger",
+    "description": "Formations seen as full of danger.",
+    "ref": "Vism 21",
+    "band": "B4",
+    "rests_on": [
+     "tea:visuddhimagga:21",
+     "tea:progress-of-insight:5-10"
+    ]
+   },
+   {
+    "order": 8,
+    "name": "nibbidā-ñāṇa",
+    "gloss": "knowledge of dispassion/disenchantment",
+    "description": "Disenchantment with all formations.",
+    "ref": "Vism 21",
+    "band": "B4",
+    "rests_on": [
+     "tea:visuddhimagga:21",
+     "tea:progress-of-insight:5-10"
+    ]
+   },
+   {
+    "order": 9,
+    "name": "muñcitukamyatā-ñāṇa",
+    "gloss": "knowledge of desire for deliverance",
+    "description": "Wish to escape formations, as a man in a burning house seeks the way out.",
+    "ref": "Vism 21",
+    "band": "B4",
+    "rests_on": [
+     "tea:visuddhimagga:21",
+     "tea:visuddhimagga:21/3",
+     "tea:progress-of-insight:5-10"
+    ]
+   },
+   {
+    "order": 10,
+    "name": "paṭisaṅkhā-ñāṇa",
+    "gloss": "knowledge of reflection (re-observation)",
+    "description": "Re-observing formations by the three characteristics in order to be freed.",
+    "ref": "Vism 21",
+    "band": "B4",
+    "rests_on": [
+     "tea:visuddhimagga:21",
+     "tea:progress-of-insight:5-10"
+    ]
+   },
+   {
+    "order": 11,
+    "name": "saṅkhārupekkhā-ñāṇa",
+    "gloss": "knowledge of equanimity about formations",
+    "description": "Neutral, effortless noting of formations; the three doors of liberation; insight leading to emergence.",
+    "ref": "Vism 21",
+    "band": "B4",
+    "rests_on": [
+     "tea:visuddhimagga:21",
+     "tea:visuddhimagga:21/4",
+     "tea:visuddhimagga:21/5",
+     "tea:progress-of-insight:11"
+    ]
+   },
+   {
+    "order": 12,
+    "name": "anuloma-ñāṇa",
+    "gloss": "conformity knowledge",
+    "description": "Conforms to the preceding knowledges and to the requisites of awakening.",
+    "ref": "Vism 21",
+    "band": "B4",
+    "rests_on": [
+     "tea:visuddhimagga:21/6",
+     "tea:visuddhimagga:21/3"
+    ]
+   },
+   {
+    "order": 13,
+    "name": "gotrabhū-ñāṇa",
+    "gloss": "change-of-lineage knowledge",
+    "description": "Passes from the worldling lineage to the noble lineage, taking nibbāna as object.",
+    "ref": "Vism 22",
+    "band": "B5",
+    "rests_on": [
+     "tea:visuddhimagga:22",
+     "tea:visuddhimagga:21/3"
+    ],
+    "band_note": "Threshold: takes nibbāna as object but is not yet path; banded with the path (B5)."
+   },
+   {
+    "order": 14,
+    "name": "magga-ñāṇa",
+    "gloss": "path knowledge",
+    "description": "The supramundane path abandoning fetters (first path: personality view, doubt, clinging to rules).",
+    "ref": "Vism 22",
+    "band": "B5",
+    "rests_on": [
+     "tea:visuddhimagga:22",
+     "tea:progress-of-insight:14-16"
+    ]
+   },
+   {
+    "order": 15,
+    "name": "phala-ñāṇa",
+    "gloss": "fruition knowledge",
+    "description": "The fruit immediately following the path.",
+    "ref": "Vism 22",
+    "band": "B5",
+    "rests_on": [
+     "tea:visuddhimagga:22",
+     "tea:progress-of-insight:14-16"
+    ]
+   },
+   {
+    "order": 16,
+    "name": "paccavekkhaṇa-ñāṇa",
+    "gloss": "reviewing knowledge",
+    "description": "Reviewing path, fruit, nibbāna, defilements abandoned and remaining.",
+    "ref": "Vism 22",
+    "band": "B5",
+    "rests_on": [
+     "tea:visuddhimagga:22/2",
+     "tea:progress-of-insight:14-16"
+    ],
+    "band_note": "B5 after the first path; for each higher path the series recurs and belongs to B6, ending with arahantship (B7)."
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:visuddhimagga",
+    "ref": "chs.18-22",
+    "rests_on": [
+     "tea:visuddhimagga:18",
+     "tea:visuddhimagga:21",
+     "tea:visuddhimagga:22"
+    ]
+   },
+   {
+    "source": "src:abhidhammatthasangaha",
+    "ref": "ch.9",
+    "rests_on": [
+     "tea:abhidhammatthasangaha:9/2"
+    ]
+   },
+   {
+    "source": "src:progress-of-insight",
+    "ref": "1-16",
+    "rests_on": [
+     "tea:progress-of-insight:1-3",
+     "tea:progress-of-insight:14-16"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:insight-knowledges",
+   "cpt:reviewing-knowledge",
+   "cpt:three-doors-of-liberation"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:seven-purifications",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Knowledges 1-2 fall in purifications 3-4, 3-4 in 5, 4-12 in 6, 13-16 around and in 7.",
+    "rests_on": [
+     "tea:abhidhammatthasangaha:9/2"
+    ]
+   },
+   {
+    "target": "pth:mahasi-progress-of-insight",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Mahāsi Sayadaw's practical account of the same knowledges through noting.",
+    "rests_on": [
+     "tea:progress-of-insight:1-3"
+    ]
+   },
+   {
+    "target": "pth:abhidharmakosa-path",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Sarvāstivāda: heat, peak, patience and supreme mundane quality precede the path of seeing, as mundane insight precedes the path here.",
+    "rests_on": [
+     "tea:visuddhimagga:22"
+    ],
+    "principle": "P4-stage"
+   }
+  ],
+  "notes": "Correction to the unit brief: the count of sixteen is post-canonical — the Visuddhimagga distributes these knowledges over purifications 3-7 and the Abhidhammatthasaṅgaha counts ten insight knowledges (comprehension → conformity); the list of sixteen is the later manual count taught in Burma (e.g. by Mahāsi Sayadaw). The Paṭisambhidāmagga's list of seventy-three knowledges is a different scheme.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:ledi",
+    "lin:mahasi",
+    "lin:pa-auk",
+    "lin:theravada"
+   ],
+   "schools": [
+    "lin:theravada"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16154,7 +19749,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16258,7 +19853,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16399,7 +19994,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16536,7 +20131,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16674,7 +20269,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16788,7 +20383,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -16919,7 +20514,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17102,7 +20697,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17183,7 +20778,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17268,7 +20863,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17343,7 +20938,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17498,7 +21093,183 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:three-trainings",
+  "name": "The three trainings (tisso sikkhā / triśikṣā): virtue, concentration, wisdom",
+  "lineage": "lin:early-buddhism",
+  "lineages": [
+   "lin:early-buddhism",
+   "lin:theravada",
+   "lin:sarvastivada",
+   "lin:mahayana",
+   "lin:kadam",
+   "lin:gelug"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "adhisīla-sikkhā",
+    "gloss": "training in higher virtue",
+    "description": "Restraint by the Pātimokkha, the monk's virtue (abstaining from killing, stealing, unchastity, false speech …) that brings blameless happiness; right speech, action and livelihood belong here.",
+    "ref": "AN 3.89; DN 2 §43-63; MN 44",
+    "band": "B1",
+    "rests_on": [
+     "tea:anguttara-nikaya:3.89",
+     "tea:samannaphala-sutta:43-63",
+     "tea:culavedalla-sutta:11-12",
+     "tea:visuddhimagga:1/4"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "adhicitta-sikkhā",
+    "gloss": "training in higher mind",
+    "description": "The four jhānas; right effort, mindfulness and concentration belong here; unification of mind is concentration, the four establishments of mindfulness its signs.",
+    "ref": "AN 3.89; MN 44",
+    "band": "B4",
+    "rests_on": [
+     "tea:anguttara-nikaya:3.89",
+     "tea:culavedalla-sutta:11-12"
+    ],
+    "band_note": "B4 as the jhānas; its preparatory mindfulness and effort are B3."
+   },
+   {
+    "order": 3,
+    "name": "adhipaññā-sikkhā",
+    "gloss": "training in higher wisdom",
+    "description": "Knowing the four noble truths as they really are; right view and intention belong here.",
+    "ref": "AN 3.89; MN 44",
+    "band": "B5",
+    "rests_on": [
+     "tea:anguttara-nikaya:3.89",
+     "tea:culavedalla-sutta:11-12"
+    ],
+    "band_note": "B5 as knowing the truths as they are (the path's seeing); its maturing through the higher paths is B6."
+   },
+   {
+    "order": 4,
+    "name": "vimutti",
+    "gloss": "liberation",
+    "description": "The mind imbued with wisdom is rightly freed from the effluents of sensuality, becoming and ignorance.",
+    "ref": "DN 16 1.12",
+    "band": "B7",
+    "rests_on": [
+     "tea:mahaparinibbana-sutta:1.12",
+     "tea:samannaphala-sutta:97-98"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:anguttara-nikaya",
+    "ref": "3.89",
+    "rests_on": [
+     "tea:anguttara-nikaya:3.89"
+    ]
+   },
+   {
+    "source": "src:mahaparinibbana-sutta",
+    "ref": "1.12",
+    "rests_on": [
+     "tea:mahaparinibbana-sutta:1.12"
+    ]
+   },
+   {
+    "source": "src:visuddhimagga",
+    "ref": "ch.1 (frame of the whole work)",
+    "rests_on": [
+     "tea:visuddhimagga:1"
+    ]
+   },
+   {
+    "source": "src:lamrim-chenmo",
+    "ref": "middle scope",
+    "rests_on": [
+     "tea:lamrim-chenmo:middle.three-trainings"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:three-trainings",
+   "cpt:three-trainings-vism",
+   "cpt:noble-eightfold-path"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:seven-purifications",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "The Visuddhimagga expounds its seven purifications within the frame of virtue, concentration and understanding.",
+    "rests_on": [
+     "tea:visuddhimagga:1",
+     "tea:rathavinita-sutta:9-15"
+    ]
+   },
+   {
+    "target": "pth:gradual-training",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "The gradual training of DN 2 / MN 27 unfolds the three trainings step by step.",
+    "rests_on": [
+     "tea:samannaphala-sutta:43-63",
+     "tea:culahatthipadopama-sutta:11-26"
+    ]
+   },
+   {
+    "target": "pth:yoga-sutra-eight-limbs",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Ethical restraints → concentration → discernment in both; the Yoga Sūtra's goal (isolation of puruṣa) is not the Buddhist liberation.",
+    "rests_on": [
+     "tea:anguttara-nikaya:3.89",
+     "tea:yoga-sutra:2.28"
+    ],
+    "principle": "P3-path"
+   }
+  ],
+  "notes": "Pan-Buddhist frame (Pali, Sarvāstivāda, Mahāyāna and Tibetan lamrim all use it). Stage 4 (vimutti) is the fruit named in the recurrent DN 16 talk; the local Pali root text was checked for that quotation.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 6,
+   "lineages": [
+    "lin:early-buddhism",
+    "lin:gelug",
+    "lin:kadam",
+    "lin:mahayana",
+    "lin:sarvastivada",
+    "lin:theravada"
+   ],
+   "schools": [
+    "lin:early-buddhism",
+    "lin:gelug",
+    "lin:kadam",
+    "lin:mahayana",
+    "lin:sarvastivada",
+    "lin:theravada"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17623,7 +21394,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17764,7 +21535,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -17922,7 +21693,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18049,7 +21820,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18112,10 +21883,25 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by pth:uddhava-gita-three-yogas"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Stage refs verified: BhP 11.20.7-9, 11.20.11 and 11.20.17. Stage 3's 'the human body is the boat' is 11.20.17, as cited.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "notes": "Branching map: stage 2 has two alternatives by disposition.",
   "provenance": {
@@ -18137,7 +21923,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18244,7 +22030,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18383,7 +22169,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18468,7 +22254,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18599,7 +22385,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18713,7 +22499,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18804,7 +22590,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -18931,7 +22717,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19051,7 +22837,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19196,7 +22982,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19270,10 +23056,25 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:siva-purana:7.2.37.12-20, tea:siva-purana:7.2.37.6-11, tea:siva-purana:7.2.39.4-9"
+     ],
+     "result": "confirmed",
+     "note": "Stage refs located: ŚiP 7.2.37.8 (mantra-yoga), 37.9 (sparśa, bhāva), 37.10 (abhāva), 37.11 (mahā-yoga), 37.12-13 (eligibility). All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -19294,7 +23095,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19409,7 +23210,175 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:virasaiva-satsthala",
+  "name": "The six stages (ṣaṭsthala) of the Vīraśaiva path",
+  "lineage": "lin:virasaiva",
+  "lineages": [
+   "lin:virasaiva",
+   "lin:pancacarya",
+   "lin:sarana-vacana"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "bhakta",
+    "gloss": "devotee — with faith (śraddhā)",
+    "description": "One in whom devotion to Śiva has arisen; the dharmas he practises are the bhakta-sthala (initiation, wearing the liṅga, worship of guru, liṅga and jaṅgama); its bhakti is faith; its liṅga the ācāra-liṅga.",
+    "ref": "SŚ 5.26; 10.21-22",
+    "band": "B0",
+    "rests_on": [
+     "tea:siddhantasikhamani:5.22-23",
+     "tea:siddhantasikhamani:5.26",
+     "tea:siddhantasikhamani:10.21-22"
+    ],
+    "band_note": "B0 by its bhakti (faith) and entry through liṅga-dīkṣā; its daily worship is B2 in kind."
+   },
+   {
+    "order": 2,
+    "name": "māheśvara",
+    "gloss": "the steadfast — with steadiness (niṣṭhā)",
+    "description": "Devotion risen to excellence through dispassion; turned away from the stations of Brahmā and the other gods; steadfast in vows and in the liṅga; guru-liṅga.",
+    "ref": "SŚ 10.2-3; 10.21-22",
+    "band": "B1",
+    "rests_on": [
+     "tea:siddhantasikhamani:10.2-3",
+     "tea:siddhantasikhamani:10.21-22",
+     "tea:siddhantasikhamani:10.30-31"
+    ]
+   },
+   {
+    "order": 3,
+    "name": "prasādī",
+    "gloss": "the recipient of grace — with attentiveness (avadhāna)",
+    "description": "His bonds destroyed through steadfastness, he attains serenity of mind (manaḥ-prasāda); offering everything to the liṅga, he receives it as grace; śiva-liṅga.",
+    "ref": "SŚ 11.2, 11.6-11",
+    "band": "B3",
+    "rests_on": [
+     "tea:siddhantasikhamani:11.2",
+     "tea:siddhantasikhamani:11.6-11"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "prāṇaliṅgī",
+    "gloss": "one whose liṅga is the breath — with experience (anubhava)",
+    "description": "Beginning of the knowledge-predominant sthalas: the liṅga is known as brahman of the nature of consciousness, its power the breath; worship of the inner liṅga of consciousness; cara/jaṅgama-liṅga.",
+    "ref": "SŚ 12.2-3, 12.13-20",
+    "band": "B5",
+    "rests_on": [
+     "tea:siddhantasikhamani:12.2-3",
+     "tea:siddhantasikhamani:12.13-20",
+     "tea:siddhantasikhamani:12.46"
+    ],
+    "band_note": "B5: first of the three knowledge-predominant sthalas; recognition of the liṅga as consciousness (its inner worship has B4 aspects)."
+   },
+   {
+    "order": 5,
+    "name": "śaraṇa",
+    "gloss": "the surrendered — with bliss (ānanda)",
+    "description": "The aṅga-liṅgī whose form is knowledge is the wife (satī) and Śiva the husband (pati); the bliss of their union; prasāda-liṅga.",
+    "ref": "SŚ 13.2",
+    "band": "B6",
+    "rests_on": [
+     "tea:siddhantasikhamani:13.2"
+    ]
+   },
+   {
+    "order": 6,
+    "name": "aikya",
+    "gloss": "union — with equal flavour (samarasa)",
+    "description": "Through contemplation of oneness with Śiva, immersion in the great ocean of Śiva's bliss; the self dissolved in the sky of consciousness by equal flavour; mahā-liṅga.",
+    "ref": "SŚ 14.2, 14.4, 14.42-44",
+    "band": "B7",
+    "rests_on": [
+     "tea:siddhantasikhamani:14.2",
+     "tea:siddhantasikhamani:14.4",
+     "tea:siddhantasikhamani:14.42-44"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:siddhantasikhamani",
+    "ref": "5.22-26; chs.10-14",
+    "rests_on": [
+     "tea:siddhantasikhamani:5.22-23",
+     "tea:siddhantasikhamani:12.2-3",
+     "tea:siddhantasikhamani:14.42-44"
+    ]
+   },
+   {
+    "source": "src:sunyasampadane",
+    "ref": "passim",
+    "rests_on": []
+   }
+  ],
+  "concepts": [
+   "cpt:satsthala",
+   "cpt:sadvidha-bhakti",
+   "cpt:sadvidha-linga",
+   "cpt:linganga-samarasya",
+   "cpt:sati-pati-bhava",
+   "cpt:ekottarasata-sthala"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:siddhantasikhamani-101-sthalas",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "The 101 sub-sthalas of the Siddhāntaśikhāmaṇi subdivide these six.",
+    "rests_on": [
+     "tea:siddhantasikhamani:5.22-23"
+    ]
+   },
+   {
+    "target": "pth:rupa-gosvami-bhakti-stages",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Both ascend by kinds of devotion (faith → steadiness → … → union / prema).",
+    "rests_on": [
+     "tea:siddhantasikhamani:10.21-22",
+     "tea:bhaktirasamrtasindhu:1.4.15-16"
+    ],
+    "principle": "P3-path"
+   }
+  ],
+  "notes": "Each sthala is paired with one of six liṅgas (ācāra, guru, śiva, cara/jaṅgama, prasāda, mahā) and six forms of devotion (śraddhā, niṣṭhā, avadhāna, anubhava, ānanda, samarasa; cf. cpt:sadvidha-bhakti). The first three are 'action-predominant', the last three 'knowledge-predominant' (SŚ 12.2-3). The vacanakāras (Basava, Allama, Cennabasava) use the same six stages in Kannada.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:pancacarya",
+    "lin:sarana-vacana",
+    "lin:virasaiva"
+   ],
+   "schools": [
+    "lin:virasaiva"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19550,7 +23519,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19649,10 +23618,25 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "rests_on teachings and cited refs located"
+     ],
+     "evidence": [
+      "rests_on: tea:visnu-purana:6.7.36-45, tea:visnu-purana:6.7.75-90, tea:visnu-purana:6.7.91-92, tea:visnu-purana:6.7.93-96"
+     ],
+     "result": "confirmed",
+     "note": "Stage refs located: VP 6.7.36-38 (yama/niyama), 6.7.39 (bhadrāsana), 6.7.40-42 (sabīja/abīja prāṇāyāma), 6.7.43-44 (pratyāhāra), 6.7.45-90, 6.7.91, 6.7.92, 6.7.93-96. All teachings it rests on were located in the local e-texts (see their checks).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -19673,7 +23657,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19769,7 +23753,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19854,7 +23838,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -19961,7 +23945,226 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:yoga-sutra-eight-limbs",
+  "name": "Patañjali's eight limbs of yoga (aṣṭāṅga-yoga)",
+  "lineage": "lin:patanjala-yoga",
+  "lineages": [
+   "lin:patanjala-yoga",
+   "lin:samkhya"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "yama",
+    "gloss": "restraints",
+    "description": "Non-harming, truthfulness, non-stealing, celibacy and non-possessiveness; when unlimited by birth, place, time or circumstance they are the 'great vow' (YS 2.31).",
+    "ref": "YS 2.30-31",
+    "band": "B1",
+    "rests_on": [
+     "tea:yoga-sutra:2.30",
+     "tea:yoga-sutra:2.31"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "niyama",
+    "gloss": "observances",
+    "description": "Purity, contentment, austerity, self-study and devotion to Īśvara.",
+    "ref": "YS 2.32",
+    "band": "B1",
+    "rests_on": [
+     "tea:yoga-sutra:2.32"
+    ],
+    "band_note": "B1 as ethical-purificatory foundation; the last three observances are also the kriyā-yoga of YS 2.1 (B2 in kind)."
+   },
+   {
+    "order": 3,
+    "name": "āsana",
+    "gloss": "posture",
+    "description": "Posture is steady and comfortable; mastered by relaxing effort and coalescing with the endless; from it, no assault by the pairs of opposites.",
+    "ref": "YS 2.46-48",
+    "band": "B2",
+    "rests_on": [
+     "tea:yoga-sutra:2.46",
+     "tea:yoga-sutra:2.47",
+     "tea:yoga-sutra:2.48"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "prāṇāyāma",
+    "gloss": "breath-regulation",
+    "description": "When posture is accomplished, the cutting off of the movement of in- and out-breath; from it the covering of the light dwindles and the mind becomes fit for concentration.",
+    "ref": "YS 2.49-53",
+    "band": "B2",
+    "rests_on": [
+     "tea:yoga-sutra:2.49"
+    ]
+   },
+   {
+    "order": 5,
+    "name": "pratyāhāra",
+    "gloss": "sense-withdrawal",
+    "description": "The senses, disjoined from their objects, as it were imitate the mind's own form; from it, supreme mastery of the senses.",
+    "ref": "YS 2.54-55",
+    "band": "B3",
+    "rests_on": [
+     "tea:yoga-sutra:2.54",
+     "tea:yoga-sutra:2.55"
+    ]
+   },
+   {
+    "order": 6,
+    "name": "dhāraṇā",
+    "gloss": "concentration",
+    "description": "Binding the mind to a place.",
+    "ref": "YS 3.1",
+    "band": "B3",
+    "rests_on": [
+     "tea:yoga-sutra:3.1"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "dhyāna",
+    "gloss": "meditation",
+    "description": "There, the continuous flow of a single cognition.",
+    "ref": "YS 3.2",
+    "band": "B3",
+    "rests_on": [
+     "tea:yoga-sutra:3.2"
+    ],
+    "band_note": "B3 (upper edge): an unbroken flow on one object, not yet the object-only shining of samādhi."
+   },
+   {
+    "order": 8,
+    "name": "samādhi",
+    "gloss": "absorption",
+    "description": "That same meditation when the object alone shines forth, as if empty of its own form. The last three limbs on one object are saṃyama (3.4); they are 'inner' relative to the first five (3.7) but 'outer' to seedless samādhi (3.8).",
+    "ref": "YS 3.3-8",
+    "band": "B4",
+    "rests_on": [
+     "tea:yoga-sutra:3.3",
+     "tea:yoga-sutra:3.4",
+     "tea:yoga-sutra:3.7",
+     "tea:yoga-sutra:3.8"
+    ],
+    "band_note": "B4: samādhi as a limb is absorption with an object (samprajñāta); the seedless state beyond it is B6 on pth:yoga-sutra-samadhi-ladder."
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:yoga-sutra",
+    "ref": "2.28-3.8",
+    "rests_on": [
+     "tea:yoga-sutra:2.28",
+     "tea:yoga-sutra:2.29"
+    ]
+   },
+   {
+    "source": "src:yoga-bhasya",
+    "ref": "2.28",
+    "rests_on": [
+     "tea:yoga-bhasya:2.28"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:astanga-yoga",
+   "cpt:antaranga-bahiranga"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:yoga-yajnavalkya-eight-limbs",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Same eight limb-names re-described in the Yoga Yājñavalkya (ten yamas and ten niyamas; prāṇāyāma with nāḍī-purification).",
+    "rests_on": [],
+    "principle": "P3-path"
+   },
+   {
+    "target": "pth:tirumantiram-eight-limbs",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Tirumūlar's eightfold (aṭṭāṅka) yoga in Tamil uses the same eight limbs inside a Śaiva frame.",
+    "rests_on": [],
+    "principle": "P3-path"
+   },
+   {
+    "target": "pth:linga-purana-astanga",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "The Purāṇic eight limbs follow the Pātañjala order.",
+    "rests_on": [],
+    "principle": "P3-path"
+   },
+   {
+    "target": "pth:haribhadra-eight-drstis",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Haribhadra himself pairs his eight views with the eight limbs (YDS 16), reinterpreting the limbs inwardly.",
+    "rests_on": [
+     "tea:yogadrstisamuccaya:16"
+    ],
+    "principle": "P2-standpoint"
+   },
+   {
+    "target": "pth:maitri-six-limbs",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Five limb-names shared (without yama, niyama, āsana; with tarka); older six-limbed scheme.",
+    "rests_on": [
+     "tea:maitri-upanisad:6.18"
+    ],
+    "principle": "P3-path"
+   },
+   {
+    "target": "pth:gheranda-seven-limbs",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "The Gheraṇḍa replaces yama/niyama with the six cleansing acts and adds mudrā; four limb-names shared.",
+    "rests_on": [
+     "tea:gheranda-samhita:1.9-11"
+    ],
+    "principle": "P3-path"
+   }
+  ],
+  "notes": "YS 2.28: by practising the limbs impurity dwindles and the light of knowledge grows up to discriminative discernment (viveka-khyāti); the limbs therefore lead into pth:yoga-sutra-samadhi-ladder. The limbs are not all strictly sequential in the bhāṣya (yama and niyama are kept throughout); the order of the list is the sūtra's.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:patanjala-yoga",
+    "lin:samkhya"
+   ],
+   "schools": [
+    "lin:patanjala-yoga",
+    "lin:samkhya"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20061,7 +24264,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20175,7 +24378,246 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:yoga-sutra-samadhi-ladder",
+  "name": "The ladder of samādhi in the Yoga Sūtra (samāpatti → viveka-khyāti → nirbīja → dharmamegha → kaivalya)",
+  "lineage": "lin:patanjala-yoga",
+  "lineages": [
+   "lin:patanjala-yoga"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "savitarkā samāpatti",
+    "gloss": "coalescence with reasoning",
+    "description": "Coalescence on a gross object mixed with the conceptual constructions of word, object and knowledge.",
+    "ref": "YS 1.42",
+    "band": "B4",
+    "rests_on": [
+     "tea:yoga-sutra:1.41",
+     "tea:yoga-sutra:1.42"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "nirvitarkā samāpatti",
+    "gloss": "coalescence beyond reasoning",
+    "description": "When memory is purified, the object alone shines forth as if empty of its own form.",
+    "ref": "YS 1.43",
+    "band": "B4",
+    "rests_on": [
+     "tea:yoga-sutra:1.43"
+    ]
+   },
+   {
+    "order": 3,
+    "name": "savicārā samāpatti",
+    "gloss": "coalescence with reflection",
+    "description": "The same, on subtle objects (delimited by place, time and cause, per the bhāṣya).",
+    "ref": "YS 1.44",
+    "band": "B4",
+    "rests_on": [
+     "tea:yoga-sutra:1.44"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "nirvicārā samāpatti",
+    "gloss": "coalescence beyond reflection",
+    "description": "On subtle objects without such delimitation; subtlety ends in the unmarked (aliṅga, 1.45). These four are 'with seed' (sabīja, 1.46).",
+    "ref": "YS 1.44-46",
+    "band": "B4",
+    "rests_on": [
+     "tea:yoga-sutra:1.44",
+     "tea:yoga-sutra:1.45",
+     "tea:yoga-sutra:1.46"
+    ]
+   },
+   {
+    "order": 5,
+    "name": "sānanda",
+    "gloss": "with bliss",
+    "description": "The third form of samprajñāta samādhi named in YS 1.17: joy; the bhāṣya explains it as a samādhi accompanied by bliss after reasoning and reflection have dropped.",
+    "ref": "YS 1.17; YBh 1.17",
+    "band": "B4",
+    "rests_on": [
+     "tea:yoga-sutra:1.17",
+     "tea:yoga-bhasya:1.17"
+    ],
+    "band_note": "The sūtra lists vitarka, vicāra, ānanda, asmitā (1.17) and separately the four samāpattis (1.42-44); ordering them into one ladder is the commentators' (bhāṣya and sub-commentaries)."
+   },
+   {
+    "order": 6,
+    "name": "sāsmitā",
+    "gloss": "with I-am-ness",
+    "description": "The fourth form of samprajñāta: awareness of a single self (ekātmikā saṃvit) per the bhāṣya.",
+    "ref": "YS 1.17; YBh 1.17",
+    "band": "B4",
+    "rests_on": [
+     "tea:yoga-sutra:1.17",
+     "tea:yoga-bhasya:1.17"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "adhyātma-prasāda, ṛtambharā prajñā, viveka-khyāti",
+    "gloss": "inner clarity, truth-bearing insight, discriminative discernment",
+    "description": "In the lucidity of nirvicāra there is inner clarity (1.47); there insight is truth-bearing (1.48), having the particular as object (1.49); unwavering discriminative discernment of sattva and puruṣa is the means of avoidance (2.26) and grounds the sevenfold final insight (2.27).",
+    "ref": "YS 1.47-50; 2.26-27",
+    "band": "B5",
+    "rests_on": [
+     "tea:yoga-sutra:1.47",
+     "tea:yoga-sutra:1.48",
+     "tea:yoga-sutra:1.49",
+     "tea:yoga-bhasya:1.47",
+     "tea:yoga-sutra:2.26",
+     "tea:yoga-sutra:2.27"
+    ]
+   },
+   {
+    "order": 8,
+    "name": "asamprajñāta / nirbīja samādhi",
+    "gloss": "samādhi beyond object-awareness; seedless",
+    "description": "Preceded by practice of the cognition of cessation, with only residual impressions (1.18); when even the impression born of truth-bearing insight is stilled, everything is stilled — seedless samādhi (1.50-51). Its means is higher dispassion (1.16; YBh 1.18).",
+    "ref": "YS 1.18, 1.50-51",
+    "band": "B6",
+    "rests_on": [
+     "tea:yoga-sutra:1.18",
+     "tea:yoga-bhasya:1.18",
+     "tea:yoga-sutra:1.50",
+     "tea:yoga-sutra:1.51",
+     "tea:yoga-bhasya:1.51",
+     "tea:yoga-sutra:1.16"
+    ],
+    "band_note": "Asamprajñāta (1.18) and nirbīja (1.51) are identified by the commentators; banded B6 as the deepening after discernment."
+   },
+   {
+    "order": 9,
+    "name": "dharmamegha samādhi",
+    "gloss": "the cloud of dharma",
+    "description": "For one who takes no interest even in the highest reflection, from complete discriminative discernment comes the samādhi called cloud of dharma (4.29); from it afflictions and karma cease (4.30), and the bhāṣya says the knower is then liberated while living.",
+    "ref": "YS 4.29-30",
+    "band": "B6",
+    "rests_on": [
+     "tea:yoga-sutra:4.29",
+     "tea:yoga-bhasya:4.29",
+     "tea:yoga-sutra:4.30",
+     "tea:yoga-bhasya:4.30"
+    ],
+    "band_note": "The band scheme mentions 'dharmamegha as culmination' under B8; in the Yoga Sūtra dharmamegha is the last samādhi before kaivalya and is not activity in the world, so it is banded B6 (as on pth:yoga-sutra-kaivalya-sequence); its fruit, cessation of afflictions and karma (4.30), is B7."
+   },
+   {
+    "order": 10,
+    "name": "kaivalya",
+    "gloss": "isolation",
+    "description": "When sattva and puruṣa are equal in purity (3.55); the return of the guṇas, empty of purpose for the puruṣa, to their source — or the power of consciousness established in its own form (4.34).",
+    "ref": "YS 3.50, 3.55, 4.34",
+    "band": "B7",
+    "rests_on": [
+     "tea:yoga-sutra:3.50",
+     "tea:yoga-sutra:3.55",
+     "tea:yoga-sutra:4.34",
+     "tea:yoga-bhasya:3.55",
+     "tea:yoga-bhasya:4.34"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:yoga-sutra",
+    "ref": "1.17-18, 1.41-51, 2.26-27, 3.50, 3.55, 4.29-34",
+    "rests_on": [
+     "tea:yoga-sutra:1.17",
+     "tea:yoga-sutra:1.18",
+     "tea:yoga-sutra:1.51",
+     "tea:yoga-sutra:4.29",
+     "tea:yoga-sutra:4.34"
+    ]
+   },
+   {
+    "source": "src:yoga-bhasya",
+    "ref": "1.17-18, 1.47, 1.51, 4.29-30, 4.34",
+    "rests_on": [
+     "tea:yoga-bhasya:1.17",
+     "tea:yoga-bhasya:1.18",
+     "tea:yoga-bhasya:4.30"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:samprajnata-samadhi",
+   "cpt:asamprajnata-samadhi",
+   "cpt:samapatti",
+   "cpt:dharmamegha-samadhi",
+   "cpt:kaivalya",
+   "cpt:yoga-as-nirodha"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:rajamartanda-samadhi-ladder",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Bhoja's version of the same ladder (RM 1.17-18) with viveka-khyāti as a seventh samprajñāta rung.",
+    "rests_on": [
+     "tea:rajamartanda:1.17",
+     "tea:rajamartanda:1.18"
+    ]
+   },
+   {
+    "target": "pth:yoga-sutra-kaivalya-sequence",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "Continuation of the top of this ladder in YS 4.25-34 (same dharmamegha → kaivalya segment).",
+    "rests_on": [
+     "tea:yoga-sutra:4.29",
+     "tea:yoga-sutra:4.34"
+    ]
+   },
+   {
+    "target": "pth:jhana-formless-cessation",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Both are graded absorptions refining away coarser factors (vitarka/vicāra in both vocabularies); the Yoga Sūtra's goal (puruṣa's isolation) and the Buddhist cessation are not claimed to be the same.",
+    "rests_on": [
+     "tea:yoga-sutra:1.42",
+     "tea:anguttara-nikaya:9.31"
+    ],
+    "principle": "P2-standpoint"
+   }
+  ],
+  "notes": "Correction to the unit brief: the sūtra itself gives two lists (1.17: vitarka, vicāra, ānanda, asmitā; 1.42-44: four samāpattis) — the single ladder savitarka→…→asmitā is the commentators' synthesis; 'sa-/nir-' pairs for ānanda and asmitā are later (sub-commentaries). The sūtra does not itself equate asamprajñāta (1.18) with nirbīja (1.51); the commentators do.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:patanjala-yoga"
+   ],
+   "schools": [
+    "lin:patanjala-yoga"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20283,7 +24725,211 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
+  }
+ },
+ {
+  "id": "pth:yoga-vasistha-seven-bhumikas",
+  "name": "The seven stages of knowledge (jñāna-bhūmikā) of the Yoga Vāsiṣṭha",
+  "lineage": "lin:advaita-vedanta",
+  "lineages": [
+   "lin:advaita-vedanta",
+   "lin:upanisadic"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "śubhecchā",
+    "gloss": "good desire",
+    "description": "Preceded by dispassion, the wish: 'why do I remain a fool? I shall look to scripture and the good.'",
+    "ref": "YV (Mokṣopāya) 3.118.8",
+    "band": "B0",
+    "rests_on": [
+     "tea:moksopaya:3.118.8-15",
+     "tea:yoga-vasistha:3.118"
+    ]
+   },
+   {
+    "order": 2,
+    "name": "vicāraṇā",
+    "gloss": "inquiry",
+    "description": "The turn to right conduct through contact with scripture and the good, with dispassion and practice.",
+    "ref": "3.118.9",
+    "band": "B2",
+    "rests_on": [
+     "tea:moksopaya:3.118.8-15"
+    ],
+    "band_note": "B2 as scripture-based inquiry and practice; it includes the turn to right conduct (B1 in kind)."
+   },
+   {
+    "order": 3,
+    "name": "tanumānasā",
+    "gloss": "thinning of mind",
+    "description": "From the first two, non-attachment to sense-objects; desire is thinned.",
+    "ref": "3.118.10",
+    "band": "B3",
+    "rests_on": [
+     "tea:moksopaya:3.118.8-15"
+    ]
+   },
+   {
+    "order": 4,
+    "name": "sattvāpatti",
+    "gloss": "attainment of (pure) sattva",
+    "description": "From practice of these three, the mind rests in pure sattva, the self; Vidyāraṇya calls one here a 'knower of Brahman' (brahmavid).",
+    "ref": "3.118.11; JMV 3",
+    "band": "B5",
+    "rests_on": [
+     "tea:moksopaya:3.118.8-15",
+     "tea:jivanmuktiviveka:3"
+    ]
+   },
+   {
+    "order": 5,
+    "name": "asaṃsakti",
+    "gloss": "non-attachment",
+    "description": "Detachment from all things through the maturing of the fourth; the knower rises from absorption by himself (brahmavid-vara).",
+    "ref": "3.118.12; JMV 3",
+    "band": "B6",
+    "rests_on": [
+     "tea:moksopaya:3.118.8-15",
+     "tea:jivanmuktiviveka:3"
+    ]
+   },
+   {
+    "order": 6,
+    "name": "padārthābhāvanī",
+    "gloss": "non-perception of objects",
+    "description": "Things outside and inside cease to present themselves; he rises from absorption only when roused by others (varīyān).",
+    "ref": "3.118.13; JMV 3",
+    "band": "B6",
+    "rests_on": [
+     "tea:moksopaya:3.118.8-15",
+     "tea:jivanmuktiviveka:3"
+    ]
+   },
+   {
+    "order": 7,
+    "name": "turyagā",
+    "gloss": "reaching the fourth",
+    "description": "Abiding in the self alone; this belongs to those liberated while living, who, when prompted, follow customary conduct 'like one half-asleep' (variṣṭha).",
+    "ref": "3.118.14-18; JMV 3",
+    "band": "B7",
+    "rests_on": [
+     "tea:moksopaya:3.118.16-26",
+     "tea:jivanmuktiviveka:3"
+    ],
+    "band_note": "B7 as the attainment of liberation while living; the liberated one's unaffected customary conduct is a B8 facet of the same stage."
+   },
+   {
+    "order": 8,
+    "name": "turyātīta",
+    "gloss": "beyond the fourth",
+    "description": "The domain of the bodiless liberated (videhamukta), beyond the seven stages; 'liberation lies beyond the seven'.",
+    "ref": "3.118.16-17",
+    "band": "B7",
+    "rests_on": [
+     "tea:moksopaya:3.118.16-26",
+     "tea:moksopaya:3.118.1-7"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:yoga-vasistha",
+    "ref": "3.118 (Utpatti-prakaraṇa)",
+    "rests_on": [
+     "tea:yoga-vasistha:3.118"
+    ]
+   },
+   {
+    "source": "src:moksopaya",
+    "ref": "3.118; 6.140-156",
+    "rests_on": [
+     "tea:moksopaya:3.118.1-7",
+     "tea:moksopaya:3.118.8-15",
+     "tea:moksopaya:3.118.16-26",
+     "tea:moksopaya:6.140-156"
+    ]
+   },
+   {
+    "source": "src:jivanmuktiviveka",
+    "ref": "ch.3",
+    "rests_on": [
+     "tea:jivanmuktiviveka:3"
+    ]
+   }
+  ],
+  "concepts": [
+   "cpt:seven-bhumikas",
+   "cpt:seven-stages-of-knowledge",
+   "cpt:jivanmukti",
+   "cpt:videhamukti"
+  ],
+  "equivalents": [
+   {
+    "target": "pth:varaha-seven-bhumikas",
+    "grade": "exact",
+    "standpoint": "",
+    "note": "The Varāha Upaniṣad gives the same seven stages (tanumānasī, padārthabhāvanā as variant spellings).",
+    "rests_on": []
+   },
+   {
+    "target": "pth:maha-fourteen-bhumikas",
+    "grade": "partial",
+    "standpoint": "",
+    "note": "The Mahā Upaniṣad pairs these seven stages of knowledge with seven stages of ignorance.",
+    "rests_on": []
+   },
+   {
+    "target": "pth:pancadasi-seven-states",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Vidyāraṇya's Pañcadaśī 7 gives a different sevenfold series of the jīva's states (ignorance → satisfaction).",
+    "rests_on": [],
+    "principle": "P4-stage"
+   },
+   {
+    "target": "pth:vyasa-four-yogins",
+    "grade": "analogous",
+    "standpoint": "",
+    "note": "Graded knowers in the Yoga tradition (the bhāṣya's four kinds of yogin).",
+    "rests_on": [],
+    "principle": "P3-path"
+   }
+  ],
+  "notes": "Vasiṣṭha himself says the first three stages are 'waking-like' states of the seeker, the fourth dream-like, the fifth deep-sleep-like, the sixth and seventh turya and beyond (Mokṣopāya 6.140-156); Vidyāraṇya's Jīvanmuktiviveka grades the knower as brahmavid (4), brahmavid-vara (5), varīyān (6), variṣṭha (7). Stage 8 (turyātīta) is stated in the same passage and added to reach the text's own end.",
+  "coverage": [
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U51-path-maps"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:advaita-vedanta",
+    "lin:upanisadic"
+   ],
+   "schools": [
+    "lin:advaita-vedanta",
+    "lin:vedic-srauta"
+   ],
+   "families": [
+    "vedic"
+   ],
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20401,7 +25047,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20491,7 +25137,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20622,7 +25268,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20724,7 +25370,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20829,7 +25475,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -20926,7 +25572,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21021,7 +25667,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21112,7 +25758,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  },
  {
@@ -21201,7 +25847,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 18:02 IST"
+   "computed": "2026-09-29 18:11 IST"
   }
  }
 ]

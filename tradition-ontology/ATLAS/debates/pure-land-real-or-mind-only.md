@@ -37,4 +37,4 @@ Tanluan's birth of non-birth, the Jingtu shiyi lun's appeal to the two truths, Y
 **The traditions' own objections:** Jōdo-shū and Shinshū reject dissolving the Western land into mind; Chan radicals reject the need for any land.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._

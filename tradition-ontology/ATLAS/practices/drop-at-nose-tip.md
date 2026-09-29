@@ -14,4 +14,4 @@ Visualizing a tiny drop or mustard seed (a five-coloured jewel) at the tip of th
   - [Pañcakrama](../texts/pancakrama.md) — ref: 1.10-11; rests_on: ["tea:pancakrama:1.10-11"]
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._

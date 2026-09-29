@@ -9,4 +9,4 @@ Named by Duryodhana among the heroes of the Pāṇḍava army (1.5).
 _Notes: Linked in BhG ch. 1–3 at 1.5._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:02 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:11 IST._

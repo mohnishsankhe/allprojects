@@ -21,4 +21,4 @@ The fortnightly offerings of cakes and other substances at new and full moon, th
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14) — ŚB 1.1.1 (the vow of truth on entering the rite) and 1.6.3.35–36 were found. This rests on confirmed teaching checks: tea:satapatha-brahmana:1.1.1.4-5, tea:satapatha-brahmana:1.6.3.35-36.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._

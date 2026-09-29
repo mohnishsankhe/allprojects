@@ -11,4 +11,4 @@ Covetousness, ill will, anger, hostility, contempt, domineering, envy, avarice, 
   - [Vattha Sutta](../texts/vattha-sutta.md) — ref: 2-8; rests_on: ["tea:vattha-sutta:2-8"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

@@ -13,4 +13,4 @@ The monk to whom Vasumitra and the Mahāvibhāṣā attribute the five points on
 _Notes: Reported mainly by the Sarvāstivāda (an opponent)._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._

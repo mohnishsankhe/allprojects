@@ -22,4 +22,4 @@ Bṛhaspati's hymn on sacred speech and knowledge: the first speech arose when t
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_10.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_10.json (Anukramaṇī seer/deity/metre headers) — Hymn located in the local Śākala text. 11 verses; seer Bṛhaspati Āṅgirasa, deity jñāna.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._

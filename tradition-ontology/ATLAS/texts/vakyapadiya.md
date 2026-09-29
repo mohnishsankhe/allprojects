@@ -197,7 +197,7 @@ A matter inferred with effort by skilful reasoners is explained quite otherwise 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, sound-language_
 
-terms: [tarka](../terms/tarka.md), [anumāna](../terms/anumana.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [tarka](../terms/tarka.md), [anumāna](../terms/anumana.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 1.37 <a id="tea-vakyapadiya-1-37"></a>
 `skeleton` · confidence low
@@ -340,4 +340,4 @@ teachers: [Vyāḍi](../teachers/vyadi.md), [Patañjali (the grammarian)](../tea
 _Notes: Vākyapadīya numbering follows K. A. Subramania Iyer's edition; W. Rau's edition numbers kāṇḍa 1 differently after about v. 30, so the locator may need conversion. Not present in the local sources_raw mirror at Phase B._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._

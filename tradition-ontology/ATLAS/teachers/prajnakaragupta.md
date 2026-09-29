@@ -12,4 +12,4 @@
 Author of the Pramāṇavārttikālaṅkāra, a reading of Dharmakīrti that stresses the Buddha's authority, the ultimate non-duality of cognition and the path; Tibetan scholastics treat him as the head of a distinct line of commentators (classification recalled).
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

@@ -14,4 +14,4 @@
 - is-a → [The critique of sacrifice and funeral offerings](critique-of-sacrifice.md): rejects the animal sacrifice in favour of austerity — rests on [12](../texts/uttaradhyayana-sutra.md#tea-uttaradhyayana-sutra-12)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._

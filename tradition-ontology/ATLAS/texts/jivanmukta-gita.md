@@ -1,6 +1,6 @@
 # Jīvanmukta Gītā
 
-`src:jivanmukta-gita` · `skeleton` · confidence low
+`src:jivanmukta-gita` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -16,4 +16,8 @@ A short poem describing the marks of one liberated while living (jīvanmukta), a
 _Notes: Existence recalled, contents not verified; listed so that the hallucination sweep can confirm or mark it._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 websearch: confirmed — https://www.dlshq.org/books/es71.htm, https://vedanta-yoga.de/yoga-texte/jivanmukta-gita-dattatreya/ — Exists: a short poem (about 24 verses) on the marks of the jīvanmukta, attributed to Dattātreya. Sivananda's DLS published it with translation.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

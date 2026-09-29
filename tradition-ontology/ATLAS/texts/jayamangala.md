@@ -41,4 +41,4 @@ concepts: [The sixty topics of the Ṣaṣṭitantra](../concepts/sastitantra-si
 
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._

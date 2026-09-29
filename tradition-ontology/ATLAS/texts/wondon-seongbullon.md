@@ -17,4 +17,4 @@ Jinul's treatise (posthumous 1215) harmonising Seon with Li Tongxuan's Huayan: o
 _Notes: Not held locally._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

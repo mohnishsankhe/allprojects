@@ -164,4 +164,4 @@ terms: [cōti](../terms/coti.md) · concepts: [The ultimate in the Tamil Siddha 
 _Notes: Checked in the local e-text. The e-text spells the name Aḻukaṇi (aḻukaṇic cittar); the task list's 'Azhukkaṇṇi' is corrected to Aḻukaṇṇi/Aḻukaṇi._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._

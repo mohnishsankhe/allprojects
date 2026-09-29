@@ -33,4 +33,4 @@
 _Notes: The word kuṇḍalinī itself is not in VBT 28-29 (the text says 'śakti'); the identification is the commentators'._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U21-natha-aghora, skeleton:U24-kali-kaula, skeleton:U31-sound-arts, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U21-natha-aghora, skeleton:U24-kali-kaula, skeleton:U31-sound-arts, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

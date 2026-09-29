@@ -15,4 +15,4 @@
 _Notes: Chan texts have no system of channels and centres comparable to haṭha or tantra; Hakuin's tanden draws on Chinese medical and Daoist language._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

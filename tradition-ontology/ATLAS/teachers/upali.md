@@ -11,4 +11,4 @@ The Sakyan princes' barber who went forth with them and was ordained before them
 _Notes: AN 1 Etadaggavagga (the 'foremost' lists)_
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

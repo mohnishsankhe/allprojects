@@ -117,7 +117,7 @@ The outcaste (Śvapāka) monk Harikeśa, mocked at a brāhmaṇa sacrifice, is d
 
 _level: conventional · standpoint: ritual · path: action, ritual · stage: all · types: ethics, practice, dispute_
 
-terms: [tapas](../terms/tapas.md) · concepts: [The inner sacrifice of austerity](../concepts/inner-sacrifice-jain.md), [The true brāhmaṇa (by conduct, not birth)](../concepts/true-brahmana-jain.md) · disputes: `dsp:women-caste-liberation`, [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [tapas](../terms/tapas.md) · concepts: [The inner sacrifice of austerity](../concepts/inner-sacrifice-jain.md), [The true brāhmaṇa (by conduct, not birth)](../concepts/true-brahmana-jain.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 15.7 <a id="tea-uttaradhyayana-sutra-15-7"></a>
 `skeleton` · confidence high
@@ -184,7 +184,7 @@ The true brāhmaṇa: not by shaving is one a śramaṇa, nor by the syllable O�
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: ethics, dispute_
 
-terms: [śramaṇa](../terms/sramana.md) · concepts: [The true brāhmaṇa (by conduct, not birth)](../concepts/true-brahmana-jain.md) · disputes: `dsp:women-caste-liberation`, [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [śramaṇa](../terms/sramana.md) · concepts: [The true brāhmaṇa (by conduct, not birth)](../concepts/true-brahmana-jain.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 25.31-33 <a id="tea-uttaradhyayana-sutra-25-31-33"></a>
 `skeleton` · confidence high
@@ -276,8 +276,8 @@ The analysis of the living and the non-living ends with the liberated: they stop
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: realized · types: karma-liberation, world-fate_
 
-terms: [siddha](../terms/siddha.md), [siddhaśilā](../terms/siddhasila.md) · concepts: [The state of the liberated (siddha)](../concepts/siddha-state.md), [The fifteen kinds of liberated beings](../concepts/fifteen-kinds-of-siddhas.md), [Liberation of women (strī-mukti)](../concepts/strimukti.md) · teachers: [Mahāvīra (Vardhamāna)](../teachers/mahavira.md) · disputes: `dsp:women-caste-liberation`
+terms: [siddha](../terms/siddha.md), [siddhaśilā](../terms/siddhasila.md) · concepts: [The state of the liberated (siddha)](../concepts/siddha-state.md), [The fifteen kinds of liberated beings](../concepts/fifteen-kinds-of-siddhas.md), [Liberation of women (strī-mukti)](../concepts/strimukti.md) · teachers: [Mahāvīra (Vardhamāna)](../teachers/mahavira.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._

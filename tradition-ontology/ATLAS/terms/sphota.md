@@ -16,4 +16,4 @@
 - same-under-standpoint: [madhyamā](madhyama.md) (Nāgeśa's placement of the levels of speech in the body) — Nāgeśa identifies the meaning-conveying sphoṭa with speech at the madhyamā level
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U31-sound-arts. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._

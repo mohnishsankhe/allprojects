@@ -146,7 +146,7 @@ Devotion is greater than action, knowledge and yoga, because it is of the nature
 
 _level: conventional · standpoint: devotional · path: devotion, action, knowledge, meditation · stage: all · types: karma-liberation, dispute_
 
-terms: [phala-rūpatva](../terms/phala-rupata.md) · concepts: [Devotion as its own fruit (phala-rūpatva)](../concepts/bhakti-as-its-own-fruit.md) · teachers: [Nārada](../teachers/narada.md) · disputes: [Is knowledge the means of devotion, is devotion a means to knowledge, or is devotion its own fruit?](../debates/is-knowledge-the-means-of-bhakti.md), `dsp:works-knowledge-grace`, [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md)
+terms: [phala-rūpatva](../terms/phala-rupata.md) · concepts: [Devotion as its own fruit (phala-rūpatva)](../concepts/bhakti-as-its-own-fruit.md) · teachers: [Nārada](../teachers/narada.md) · disputes: [Is knowledge the means of devotion, is devotion a means to knowledge, or is devotion its own fruit?](../debates/is-knowledge-the-means-of-bhakti.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md), [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md)
 
 ### 27 <a id="tea-narada-bhakti-sutra-27"></a>
 `skeleton` · confidence high
@@ -303,7 +303,7 @@ Among them there is no distinction of caste, learning, beauty, family, wealth, o
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics, dispute_
 
-terms: [tadīya](../terms/tadiya.md) · concepts: [The Lord's devotees as one's masters; service to devotees](../concepts/service-to-devotees.md), [The qualities of the devotee](../concepts/qualities-of-the-devotee.md) · obstacles: [Pride of birth; judging devotees by caste (jāti-abhimāna)](../obstacles/jati-abhimana.md) · teachers: [Nārada](../teachers/narada.md) · disputes: [Does birth (caste) determine a devotee's worth, eligibility and place — in the temple, in scripture, and among devotees?](../debates/devotee-birth-and-caste.md), `dsp:women-caste-liberation`
+terms: [tadīya](../terms/tadiya.md) · concepts: [The Lord's devotees as one's masters; service to devotees](../concepts/service-to-devotees.md), [The qualities of the devotee](../concepts/qualities-of-the-devotee.md) · obstacles: [Pride of birth; judging devotees by caste (jāti-abhimāna)](../obstacles/jati-abhimana.md) · teachers: [Nārada](../teachers/narada.md) · disputes: [Does birth (caste) determine a devotee's worth, eligibility and place — in the temple, in scripture, and among devotees?](../debates/devotee-birth-and-caste.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 74-75 <a id="tea-narada-bhakti-sutra-74-75"></a>
 `skeleton` · confidence high
@@ -399,4 +399,4 @@ teachers: [Nārada](../teachers/narada.md)
 _Notes: Sūtra numbering follows the common 84-sūtra text; some editions divide or join sūtras differently, so numbers may shift by one or two. No pre-modern Sanskrit commentary recalled with confidence; modern commentaries are many (e.g. in the Ramakrishna and ISKCON movements) and are not recorded here._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._

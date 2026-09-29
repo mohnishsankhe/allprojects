@@ -91,7 +91,7 @@ Even if they are the lowest of the low, below all four castes, caṇḍālas of 
 
 _level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics, dispute_
 
-terms: [aṭiyār](../terms/atiyar.md), [tadīya](../terms/tadiya.md) · concepts: [The Lord's devotees as one's masters; service to devotees](../concepts/service-to-devotees.md) · obstacles: [Pride of birth; judging devotees by caste (jāti-abhimāna)](../obstacles/jati-abhimana.md) · teachers: [Nammāḻvār](../teachers/nammalvar.md) · disputes: [Does birth (caste) determine a devotee's worth, eligibility and place — in the temple, in scripture, and among devotees?](../debates/devotee-birth-and-caste.md), `dsp:women-caste-liberation`
+terms: [aṭiyār](../terms/atiyar.md), [tadīya](../terms/tadiya.md) · concepts: [The Lord's devotees as one's masters; service to devotees](../concepts/service-to-devotees.md) · obstacles: [Pride of birth; judging devotees by caste (jāti-abhimāna)](../obstacles/jati-abhimana.md) · teachers: [Nammāḻvār](../teachers/nammalvar.md) · disputes: [Does birth (caste) determine a devotee's worth, eligibility and place — in the temple, in scripture, and among devotees?](../debates/devotee-birth-and-caste.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 4.10.1 <a id="tea-tiruvaymoli-4-10-1"></a>
 `skeleton` · confidence moderate
@@ -178,4 +178,4 @@ practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkī
 _Notes: Structure: 10 centums (pattu) × 10 decads (tiruvāymoḻi), mostly 11 verses each (10 + a phalaśruti). Commentaries (U14 entries): Ārāyirappaṭi (Tirukkurukaippirāṉ Piḷḷāṉ), Oṉpatiṉāyirappaṭi (Nañjīyar), Irupattunālāyirappaṭi (Periyavāccāṉ Piḷḷai), Īṭu Muppattāṟāyirappaṭi (Vaṭakku Tiruvīti Piḷḷai, from Nampiḷḷai's lectures), Paṉṉīrāyirappaṭi (Vādikesari Aḻagiya Maṇavāḷa Jīyar); Sanskrit: Deśika's Dramiḍopaniṣat-tātparya-ratnāvalī and Dramiḍopaniṣat-sāra; Maṇavāḷa Māmuni's Tiruvāymoḻi Nūṟṟantāti. Tiruvāymoḻi refs are centum.decad.verse (patt.tiruvāymoḻi.pācuram)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._

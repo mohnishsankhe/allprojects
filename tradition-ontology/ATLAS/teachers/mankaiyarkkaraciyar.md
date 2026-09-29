@@ -11,4 +11,4 @@ One of the sixty-three Nāyaṉmārs. The Cōḻa princess who became queen of N
 **Realization — the tradition's account:** The Cōḻa princess who became queen of Neṭumāṟaṉ and, with the minister Kulacciṟaiyār, brought Campantar to Madurai to restore Śaivism.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

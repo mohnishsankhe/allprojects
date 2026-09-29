@@ -23,4 +23,4 @@ Concentration, meditation and samādhi together on one object (3.4), applied sta
 - Without mastering the lower stage one does not gain saṃyama on higher stages by skipping. — [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) 3.6
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:11 IST._

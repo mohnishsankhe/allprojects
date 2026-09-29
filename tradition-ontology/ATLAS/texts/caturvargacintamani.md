@@ -18,5 +18,6 @@ An encyclopedic digest of vows, gifts, times and rites, drawn largely from the P
 **Verification checks**
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:eBharati:chaturvargachintAmaNiH_prathamaH_bhAgaH, https://en.wikipedia.org/wiki/Hemadpant — Extant. Hemādri was chief minister of the Seuna/Yādava kings 1259–1274 (Wikipedia 'Hemadpant'), matching the entry's 1260–1280.
+- 2026-09-29 catalog+websearch: confirmed — catalog:eBharati:chaturvargachintAmaNiH_prathamaH_bhAgaH, https://esamskriti.com/e/History/Great-Indian-Leaders/Hemadri-Pandit,-forgotten-scholar-of-the-13th-century-1.aspx — Extant and digitized (eBhārati caturvargacintāmaṇi, local). Web: Hemādri, prime minister of the Yādava kings of Devagiri (c. 1259-1274), 13th c.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

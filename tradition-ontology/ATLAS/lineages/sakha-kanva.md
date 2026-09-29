@@ -35,4 +35,4 @@ _none recorded_
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Kanva_Shakha, https://vedicheritage.gov.in/samhitas/yajurveda/vajasaneyi-kanva-samhita/ — Confirmed: followed in Maharashtra, Karnataka, Andhra, Odisha (also Tamil Nadu, Gujarat, MP).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._

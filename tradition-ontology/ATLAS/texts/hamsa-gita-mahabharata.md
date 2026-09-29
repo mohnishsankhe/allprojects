@@ -1,6 +1,6 @@
 # Haṃsa Gītā (Mahābhārata)
 
-`src:hamsa-gita-mahabharata` · `skeleton` · confidence high
+`src:hamsa-gita-mahabharata` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -16,10 +16,10 @@
 
 The swan teaches forbearance, truthfulness, self-control and not returning insult for insult as the way to the highest.
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 12.288 <a id="tea-hamsa-gita-mahabharata-12-288"></a>
-`skeleton` · confidence moderate · [AI-translated]
+`sourced` · confidence moderate · [AI-translated]
 
 The golden swan (Prajāpati) teaches the Sādhyas: forbearance, truth, self-restraint and not answering abuse with abuse are the way to the highest; one struck by harsh words should not strike back.
 
@@ -27,4 +27,8 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition), local:sources_raw/raw_etexts/purANam/vaiShNavam/mahAbhAratam/gp/epub_no_img/ (Gita Press vulgate, chapter colophons) — CE 12.288 (45 verses): the golden swan Prajāpati and the Sādhyas (288.2-4). Vulgate colophon 'haṃsagītā' (12.299).
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

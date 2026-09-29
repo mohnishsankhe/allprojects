@@ -14,4 +14,4 @@
 Late Vikramaśīla master (c. 1100), author of the Munimatālaṃkāra, a summa of Madhyamaka doctrine, as well as tantric works.
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._

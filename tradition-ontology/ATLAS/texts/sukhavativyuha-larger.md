@@ -178,7 +178,7 @@ The eighteenth vow: 'If, when I attain buddhahood, beings of the ten directions 
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: karma-liberation, practice_
 
-terms: [nianfo](../terms/nianfo.md), [praṇidhāna](../terms/pranidhana.md) · concepts: [The eighteenth (primal) vow](../concepts/eighteenth-vow.md) · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Amitābha / Amitāyus](../teachers/amitabha.md) · disputes: `dsp:works-knowledge-grace`
+terms: [nianfo](../terms/nianfo.md), [praṇidhāna](../terms/pranidhana.md) · concepts: [The eighteenth (primal) vow](../concepts/eighteenth-vow.md) · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Amitābha / Amitāyus](../teachers/amitabha.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### vow19 <a id="tea-sukhavativyuha-larger-vow19"></a>
 `skeleton` · confidence high
@@ -222,7 +222,7 @@ The thirty-fifth vow: if women in the immeasurable worlds of the ten directions 
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: karma-liberation_
 
-concepts: [Dharmākara's forty-eight vows](../concepts/forty-eight-vows.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Dharmākara's forty-eight vows](../concepts/forty-eight-vows.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### vows <a id="tea-sukhavativyuha-larger-vows"></a>
 `skeleton` · confidence high
@@ -248,4 +248,4 @@ terms: [taisheng](../terms/taisheng.md), [huasheng](../terms/huasheng.md) · con
 _Notes: Doctrine and lineages of Pure Land belong to U43; this unit owns the sūtra entry. 18th vow read locally in T360 (268a26-27)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

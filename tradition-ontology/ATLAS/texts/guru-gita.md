@@ -1,6 +1,6 @@
 # Guru Gītā
 
-`src:guru-gita` · `skeleton` · confidence moderate
+`src:guru-gita` · `sourced` · confidence moderate
 
 **Original title:** गुरुगीता
 **Language:** Sanskrit
@@ -19,10 +19,10 @@
   - kind: original; name: Śrī Guru Gītā, Shree Gurudev Ashram, Ganeshpuri (sanskrit/raw_etexts digitization); licence: digitization terms unknown
   - kind: original; name: Gurugītā with Hindi, Bhārata Dharma Mahāmaṇḍala, Kashi 1920 (eBhāratī Sampat Ebharati-6674); licence: digitization terms unknown
 
-## Teachings (6: skeleton 6)
+## Teachings (6: sourced 6)
 
 ### 9-13 <a id="tea-guru-gita-9-13"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 Śiva to Pārvatī: without the guru there is no Brahman — truly, truly; Vedas, śāstras, Purāṇas, histories, mantras, yantras, Śaiva and Śākta Āgamas become sources of error for deluded beings, and sacrifice, vows, austerity, gifts, recitation and pilgrimage are done in vain by those who do not know the guru-principle; the guru is not other than the Self — strive to attain him.
 
@@ -31,7 +31,7 @@ _level: bridging · standpoint: divine · path: devotion, knowledge · stage: al
 terms: [gurutattva](../terms/guru-tattva.md), [guru](../terms/guru.md) · concepts: [The guru-principle](../concepts/guru-principle.md) · teachers: [Śiva](../teachers/siva.md), [Pārvatī](../teachers/parvati.md)
 
 ### 27-28 <a id="tea-guru-gita-27-28"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 The syllable 'gu' is darkness and 'ru' is light (the remover); the guru is Brahman that devours ignorance; 'gu', the first letter, reveals the guṇas such as māyā, 'ru', the second, is Brahman that destroys the delusion of māyā.
 
@@ -42,7 +42,7 @@ _level: bridging · standpoint: analytic · path: devotion, knowledge · stage: 
 terms: [guru](../terms/guru.md) · concepts: [The guru-principle](../concepts/guru-principle.md) · teachers: [Śiva](../teachers/siva.md)
 
 ### 36-38 <a id="tea-guru-gita-36-38"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 The guru is Brahmā, Viṣṇu and the god Maheśvara; the guru indeed is the supreme Brahman — salutation to him; salutation to the guru who opened the eye of one blinded by the darkness of ignorance with the salve-stick of knowledge.
 
@@ -53,7 +53,7 @@ _level: bridging · standpoint: devotional · path: devotion · stage: all · ty
 concepts: [The guru-principle](../concepts/guru-principle.md) · practices: [Service of the teacher](../practices/guru-seva.md) · teachers: [Śiva](../teachers/siva.md)
 
 ### 70-80 <a id="tea-guru-gita-70-80"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 Salutation to the guru who showed the state that pervades, in the form of the undivided circle, all that moves and does not move; there is no principle higher than the guru, no austerity higher; the root of meditation is the guru's form, the root of worship the guru's feet, the root of mantra the guru's word, the root of liberation the guru's grace.
 
@@ -64,7 +64,7 @@ _level: bridging · standpoint: devotional · path: devotion, meditation · stag
 concepts: [The guru-principle](../concepts/guru-principle.md) · practices: [Meditation on the guru's form](../practices/guru-dhyana.md), [Service of the teacher](../practices/guru-seva.md) · teachers: [Śiva](../teachers/siva.md)
 
 ### 173-181 <a id="tea-guru-gita-173-181"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 Blessed are the mother, father, family and land where devotion to the guru is found; all the japa, vows and austerities of countless births bear fruit through the guru's satisfaction alone; the guru is the supreme pilgrimage; recited on a journey, in battle or at death, the Guru Gītā gives victory and, at death, liberation.
 
@@ -73,7 +73,7 @@ _level: conventional · standpoint: devotional · path: devotion, sound · stage
 practices: [Recitation of the Guru Gītā](../practices/guru-gita-recitation.md) · teachers: [Śiva](../teachers/siva.md)
 
 ### 182-185 <a id="tea-guru-gita-182-185"></a>
-`skeleton` · confidence high · [AI-translated]
+`sourced` · confidence high · [AI-translated]
 
 This secret is not to be told — not even to Skanda, Gaṇeśa or Viṣṇu — but only to one of ripened mind with faith and devotion; never to the non-devotee, the deceiver, the rogue, the hypocrite or the unbeliever.
 
@@ -85,4 +85,8 @@ concepts: [The guru-principle](../concepts/guru-principle.md) · teachers: [Śiv
 _Notes: Chanted daily in the Siddha Yoga tradition of Muktananda (recent) and widely in guru-centred circles._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — local:sources_raw/raw_etexts/kAvyam/padyam/peterFreund/stotram/guru_gita.md (Ganeshpuri recension), catalog:eBharati:gurugItA, https://en.wikipedia.org/wiki/Guru_Gita, https://groups.google.com/g/bvparishat/c/JtoUtT-i61c — A Śiva-Pārvatī dialogue claimed for the Skanda Purāṇa's Uttarakhaṇḍa; researchers report they cannot find it in printed Skanda editions. Recensions run from about 100 to over 400 verses; Muktananda chose 182 for chanting (the local Ganeshpuri text numbers to 186 including preliminaries). Consistent with the entry.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

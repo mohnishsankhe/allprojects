@@ -20,4 +20,4 @@ A short Sanskrit medical compendium of prescriptions attributed to Nāgārjuna, 
 
 - 2026-09-29 catalog: confirmed — catalog:Derge-Tengyur:D4306 "yo ga sha ta ka | sbyor ba brgya pa", catalog:GRETIL:yogazataka — catalogue hit proves a digitized edition exists, not author or date
 
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

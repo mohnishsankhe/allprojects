@@ -14,4 +14,4 @@ Daily sessions in which, after the six preparatory practices, one takes one lamr
 **Sequences:** `pth:lamrim-three-scopes`
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._

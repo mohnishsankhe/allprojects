@@ -13,4 +13,4 @@
 A hymn by Abhinavagupta to the circle of deities residing in the body.
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._

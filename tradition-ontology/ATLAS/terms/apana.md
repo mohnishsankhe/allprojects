@@ -26,4 +26,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.29, tea:bhagavad-gita:5.27 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U09-samkhya, skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U09-samkhya, skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:11 IST._

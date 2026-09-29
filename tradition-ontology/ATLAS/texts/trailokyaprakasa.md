@@ -14,4 +14,4 @@
 Hemaprabha's Jain Sanskrit text of Tājika and horā.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

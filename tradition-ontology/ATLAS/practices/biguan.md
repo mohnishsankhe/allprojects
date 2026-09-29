@@ -13,4 +13,4 @@ Bodhidharma's 'abiding firmly in wall-gazing' in which self and other, ordinary 
   - [Continued Biographies of Eminent Monks (Xu gaoseng zhuan)](../texts/xu-gaoseng-zhuan.md) — ref: 551b27; rests_on: ["tea:xu-gaoseng-zhuan:551b27"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

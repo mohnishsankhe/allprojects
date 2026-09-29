@@ -1,6 +1,6 @@
 # Bhuśuṇḍa's contemplation of the breath
 
-`prc:prana-cinta-bhusunda` · `skeleton` · confidence moderate
+`prc:prana-cinta-bhusunda` · `sourced` · confidence moderate
 
 **Category:** breath
 **Convergence:** 1 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md)
@@ -14,4 +14,8 @@ Continuous contemplation of the natural movement of prāṇa and apāna from and
 _Notes: Summary only; no counts or durations are recorded. The YV presents it as akin to contemplation of the Self, not as forced retention._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — MU 6.25-26 (prāṇavicāra, prāṇasamādhi) verified; prāṇa and apāna, 6.26.3-7.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

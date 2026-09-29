@@ -1,6 +1,6 @@
 # Practice of Brahman (brahmābhyāsa)
 
-`prc:brahmabhyasa` · `skeleton` · confidence high
+`prc:brahmabhyasa` · `sourced` · confidence high
 
 **Category:** inquiry
 **Convergence:** 1 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md)
@@ -14,4 +14,8 @@ Thinking of Brahman, speaking of it, awakening one another to it and being wholl
   - [Brahma Sūtra](../texts/brahma-sutra.md) — ref: 4.1.1; rests_on: ["tea:brahma-sutra:4.1.1"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Rests on tea:moksopaya:3.22.23-26; each was located in the local text and matches this entry's statement.
+
+_Contributed by: skeleton:U06-other-gitas, skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

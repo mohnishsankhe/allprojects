@@ -1,6 +1,6 @@
 # How many principles (tattvas) are there?
 
-`dsp:number-of-tattvas` · `skeleton` · confidence moderate
+`dsp:number-of-tattvas` · `sourced` · confidence moderate
 
 
 ## Sides (recorded before any reconciliation)
@@ -32,4 +32,8 @@ Applied beyond the Bhāgavata's own list (to Sāṃkhya's 25 and Śaiva 36) this
 _Notes: Sāṃkhya and Kashmir Śaiva sides are owned by U09 and U19; U06 records the Bhāgavata's text-internal reconciliation._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — BhP 11.22.1-9 (counts; 11.22.5-6 dispute from the Lord's powers; 11.22.7-8 mutual inclusion) and 3.26.10-15 verified. The Sāṃkhyakārikā 3 (25) and Tantrāloka ch. 9 (tattvas) references are standard and owned by other units.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

@@ -10,7 +10,7 @@ Giving what one earns by kāyaka to the jaṅgamas and the community in the spir
 **Stage:** all
 **Sources:** 
   - [Vacanas of Basavaṇṇa (Basavaṇṇanavara vacanagaḷu)](../texts/basavanna-vacanas.md) — ref: vacana 'sōhaṃ endenisade…'; rests_on: ["tea:basavanna-vacanas:soham-endenisade"]
-**Sequences:** `pth:virasaiva-satsthala`
+**Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

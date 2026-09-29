@@ -26,7 +26,7 @@ The rogue Cārvāka (cārvāka-dhūrta), having promised 'now we shall explain t
 
 _level: unmarked · standpoint: polemical · path: general · stage: unmarked · types: dispute_
 
-terms: [tattvopaplava](../terms/tattvopaplava.md) · concepts: [The upsetting of all principles (tattvopaplava)](../concepts/tattvopaplava.md), [The well-educated Cārvākas](../concepts/susiksita-carvaka.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [tattvopaplava](../terms/tattvopaplava.md) · concepts: [The upsetting of all principles (tattvopaplava)](../concepts/tattvopaplava.md), [The well-educated Cārvākas](../concepts/susiksita-carvaka.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 1.pramana-sankhya <a id="tea-nyayamanjari-1-pramana-sankhya"></a>
 `skeleton` · confidence high
@@ -37,7 +37,7 @@ Among the views on the number of means of knowledge: 'perception alone', say the
 
 _level: unmarked · standpoint: analytic · path: general · stage: unmarked · types: dispute_
 
-terms: [suśikṣita-cārvāka](../terms/susiksita-carvaka.md), [pratyakṣa (eka-pramāṇa)](../terms/pratyaksa-carvaka.md) · concepts: [The well-educated Cārvākas](../concepts/susiksita-carvaka.md), [Perception the only means of knowledge](../concepts/pratyaksa-only.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [suśikṣita-cārvāka](../terms/susiksita-carvaka.md), [pratyakṣa (eka-pramāṇa)](../terms/pratyaksa-carvaka.md) · concepts: [The well-educated Cārvākas](../concepts/susiksita-carvaka.md), [Perception the only means of knowledge](../concepts/pratyaksa-only.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 7.susiksita-carvaka <a id="tea-nyayamanjari-7-susiksita-carvaka"></a>
 `skeleton` · confidence high
@@ -57,7 +57,7 @@ Among the sciences, Nyāya is foremost because it protects the authority of the 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: sound-language, teacher-transmission_
 
-disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### āhnika 1 (opening verses) <a id="tea-nyayamanjari-1-opening"></a>
 `skeleton` · confidence moderate
@@ -73,8 +73,8 @@ Jayanta examines the scriptures of the Śaivas, Pāñcarātras and others, accep
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: sound-language, dispute_
 
-disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._

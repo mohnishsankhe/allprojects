@@ -15,4 +15,4 @@
 _Notes: Song counts are recalled from the standard edition; the presence of Lūipa, Kukkuripa, Virūpa, Bhusuku, Kāṇha, Ḍombi, Śānti, Saraha, Śabari, Bhadra, Tāḍaka, Dārika and Kaṅkaṇa was confirmed by name searches in the local Tibetan of Munidatta's commentary (Tōh 2293). Identification of Caryāgīti poets with the siddhas of the lives (e.g. Śānti = Ratnākaraśānti, Kambalāmbara = Kambala, Dhāma = Dhamupa) is traditional and uncertain._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._

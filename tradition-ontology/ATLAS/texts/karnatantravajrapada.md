@@ -214,4 +214,4 @@ concepts: [The seal of secrecy (bka' rgya)](../concepts/seal-of-secrecy.md), [Th
 _Notes: Tōh 2338. Read in full locally. Passages on the consort practice and the yantra exercises are summarized only (restricted)._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

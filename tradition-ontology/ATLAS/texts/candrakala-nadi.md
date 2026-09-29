@@ -11,4 +11,4 @@
 A Sanskrit nāḍī text on the divisions of the signs and their results, printed in the 20th century.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

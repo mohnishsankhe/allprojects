@@ -21,4 +21,4 @@ The Vṛttikāra (as reported by Śaṅkara), Rāmānuja and Madhva: the ānanda
 **Candidate readings:** P2-standpoint: bliss as Brahman's nature (all agree) vs the 'bliss-sheath' as its adjunct-conditioned appearance.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

@@ -35,7 +35,7 @@ Rāmānanda, like Raghunātha, built a second bridge by which the world crosses 
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: teacher-transmission_
 
-concepts: [Devotion and caste](../concepts/bhakti-and-caste.md) · teachers: [Nābhādās](../teachers/nabhadas.md), [Rāmānanda](../teachers/ramananda.md), [Kabīr](../teachers/kabir.md), [Ravidās (Raidās)](../teachers/ravidas.md), [Pīpā](../teachers/pipa.md), [Sena (Sena Nhāvī)](../teachers/sena.md), [Dhannā](../teachers/dhanna.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Devotion and caste](../concepts/bhakti-and-caste.md) · teachers: [Nābhādās](../teachers/nabhadas.md), [Rāmānanda](../teachers/ramananda.md), [Kabīr](../teachers/kabir.md), [Ravidās (Raidās)](../teachers/ravidas.md), [Pīpā](../teachers/pipa.md), [Sena (Sena Nhāvī)](../teachers/sena.md), [Dhannā](../teachers/dhanna.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### chappay on Tulsīdās <a id="tea-bhaktamal-tulsi"></a>
 `skeleton` · confidence moderate
@@ -59,4 +59,4 @@ concepts: [Devotee, devotion, Lord and guru are one](../concepts/four-in-one-bha
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

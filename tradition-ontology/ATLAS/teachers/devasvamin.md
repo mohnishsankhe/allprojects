@@ -12,4 +12,4 @@ Horā author named by Varāhamihira among those who taught longevity (BJ 7.7).
 _Notes: Known only from citations in Varāhamihira and his commentators._
 
 ---
-_Contributed by: skeleton:U32-jyotisa, skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa, skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._

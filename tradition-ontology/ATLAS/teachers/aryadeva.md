@@ -21,4 +21,4 @@ Nāgārjuna's principal disciple, author of the Four Hundred Verses (Catuḥśat
 _Notes: The tantric works under this name (e.g. Caryāmelāpakapradīpa) are by a later Āryadeva (scholarly account)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U42-chan-zen. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._

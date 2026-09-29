@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The rarity of human birth](rarity-of-human-birth.md) (Kagyu): the Mahāyāna elaboration of the rarity of human birth — rests on [ch.2](../texts/jewel-ornament-of-liberation.md#tea-jewel-ornament-of-liberation-ch-2)
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

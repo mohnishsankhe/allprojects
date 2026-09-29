@@ -14,4 +14,4 @@ Author by tradition of the Kātantra grammar, composed for a Sātavāhana king.
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/sharvavarma — Low-confidence entry confirmed: the traditional author of the Kātantra, composed for a Sātavāhana king (Wisdomlib).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._

@@ -16,4 +16,4 @@ One of the earliest Sanskrit Tājika treatises.
 _Notes: Exact title uncertain (sometimes cited as Karmaprakāśa)._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

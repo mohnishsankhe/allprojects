@@ -14,4 +14,4 @@
 Fragments ascribed to Pañcaśikha: that discrimination (khyāti) is the one 'seeing'; that the first knower, assuming a created mind, taught the doctrine to Āsuri out of compassion; that one should know the self as atomic ('I am'); and that the merit of sacrifice carries a slight, removable admixture of demerit.
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._

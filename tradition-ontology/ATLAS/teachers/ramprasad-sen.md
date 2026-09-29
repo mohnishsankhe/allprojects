@@ -18,4 +18,4 @@ Bengali Śākta poet-saint of Kumārhaṭṭa (Halisahar), whose songs to Kālī
 _Notes: Biographical legends are from 19th-century Bengali tradition; dates vary by source._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._

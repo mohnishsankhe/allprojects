@@ -9,4 +9,4 @@
 The old man who appeared to the boy Dādū and blessed him, counted as Dādū's guru; identified by some in the panth with Kabīr or with God.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

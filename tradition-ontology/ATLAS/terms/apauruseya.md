@@ -20,4 +20,4 @@
 _Notes: The term is Mīmāṃsā's (U12); the Saṃhitā lineage's self-understanding is recorded here with the counter-evidence of 'fashioned' hymns (dsp:seen-or-made-hymns)._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U41-yogacara-pramana, skeleton:U01-vedic-samhitas, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U41-yogacara-pramana, skeleton:U01-vedic-samhitas, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._

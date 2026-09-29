@@ -32,4 +32,4 @@ terms: [apoha](../terms/apoha.md) · concepts: [Particular and universal (svalak
 _Notes: Shared id with U41 (their Wylie-based slug kept to avoid a duplicate)._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

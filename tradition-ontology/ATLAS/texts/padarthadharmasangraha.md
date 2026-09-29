@@ -25,7 +25,7 @@ At the end of a Brahmā's lifespan, Maheśvara, wishing to give rest to beings w
 
 _level: unmarked · standpoint: cosmic · path: general · stage: unmarked · types: world-fate_
 
-terms: [māheśvara](../terms/mahesvara.md), [sṛṣṭi](../terms/srsti.md), [pralaya](../terms/pralaya.md), [paramāṇu](../terms/paramanu.md), [dvyaṇuka](../terms/dvyanuka.md), [adṛṣṭa](../terms/adrsta.md) · concepts: [Cosmic creation and dissolution by Maheśvara's will](../concepts/creation-dissolution-vaisesika.md), [Atomism (paramāṇuvāda)](../concepts/atomism-vaisesika.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+terms: [māheśvara](../terms/mahesvara.md), [sṛṣṭi](../terms/srsti.md), [pralaya](../terms/pralaya.md), [paramāṇu](../terms/paramanu.md), [dvyaṇuka](../terms/dvyanuka.md), [adṛṣṭa](../terms/adrsta.md) · concepts: [Cosmic creation and dissolution by Maheśvara's will](../concepts/creation-dissolution-vaisesika.md), [Atomism (paramāṇuvāda)](../concepts/atomism-vaisesika.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### dravya section (self) <a id="tea-padarthadharmasangraha-atman"></a>
 `skeleton` · confidence low
@@ -79,7 +79,7 @@ Verbal testimony, comparison, presumption and the other proposed means of knowle
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [anumāna](../terms/anumana.md), [śabda](../terms/sabda.md), [upamāna](../terms/upamana.md), [arthāpatti](../terms/arthapatti.md) · concepts: [The two means of knowledge (Vaiśeṣika)](../concepts/two-pramanas-vaisesika.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [anumāna](../terms/anumana.md), [śabda](../terms/sabda.md), [upamāna](../terms/upamana.md), [arthāpatti](../terms/arthapatti.md) · concepts: [The two means of knowledge (Vaiśeṣika)](../concepts/two-pramanas-vaisesika.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### guṇa section (perception of yogins) <a id="tea-padarthadharmasangraha-yogipratyaksa"></a>
 `skeleton` · confidence moderate
@@ -112,4 +112,4 @@ terms: [padārtha](../terms/padartha.md), [īśvara](../terms/isvara.md), [niḥ
 _Notes: Commentaries: Vyomaśiva's Vyomavatī, Śrīdhara's Nyāyakandalī, Udayana's Kiraṇāvalī, and later ones._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._

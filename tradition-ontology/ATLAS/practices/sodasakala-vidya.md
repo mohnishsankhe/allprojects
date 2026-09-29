@@ -17,4 +17,4 @@ _Notes: Names of the quarters from memory (moderate). Upaniṣadic 'vidyā' (med
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — The four quarter names (marked 'from memory') are confirmed: prakāśavān ChU 4.5.2, anantavān 4.6.3, jyotiṣmān 4.7.3 and āyatanavān 4.8.3. The members of each quarter are as the entry says. All 1 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 4.5-4.9). It rests on 1 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

@@ -19,4 +19,4 @@ A prose book on the Vrātya: a wandering, vow-bound figure who stirs Prajāpati 
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/atharvaveda-samhita_saunaka_rechension_unachchented_teXt.md (GRETIL, Roth–Whitney numbering), text:sources_raw/DharmicData/AtharvaVeda/atharvaveda_kaanda_15.json (sūkta headers: seer/deity) — Book 15 has 18 paryāyas in the GRETIL text; the summary's episodes (Prajāpati stirred, Mahādeva, Īśāna, Indra's bow 15.1; standing a year and the seat 15.3; the guest 15.10–13; seven prāṇas etc. 15.15–17) all located.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._

@@ -12,4 +12,4 @@
 Yogācāra commentator, one of the ten masters of the Cheng weishi lun; credited in Tibet with the Abhidharmasamuccayabhāṣya.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

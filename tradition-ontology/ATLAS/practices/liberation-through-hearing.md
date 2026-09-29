@@ -11,4 +11,4 @@ Reading the Bardo Thödol aloud to the dying and dead, from the moment of death 
   - [Bardo Thödol Chenmo (bar do thos grol chen mo, the Great Liberation through Hearing in the Intermediate States)](../texts/bardo-thodol.md) — rests_on: ["tea:bardo-thodol:chikhai", "tea:bardo-thodol:colophon"]
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

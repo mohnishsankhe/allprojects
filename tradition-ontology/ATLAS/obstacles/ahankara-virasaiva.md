@@ -13,4 +13,4 @@ The constant making of 'I' (SSM 13.19); in Basava's vacana the claim 'I am He' s
   - [Vacanas of Basavaṇṇa (Basavaṇṇanavara vacanagaḷu)](../texts/basavanna-vacanas.md) — ref: vacana 'sōhaṃ endenisade…'; rests_on: ["tea:basavanna-vacanas:soham-endenisade"]
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

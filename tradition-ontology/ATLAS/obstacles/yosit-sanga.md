@@ -1,6 +1,6 @@
 # Sexual association, as the renunciant texts frame it (strī-saṅga)
 
-`obs:yosit-sanga` · `skeleton` · confidence high
+`obs:yosit-sanga` · `sourced` · confidence high
 
 **Category:** bond
 **Convergence:** 2 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -14,4 +14,8 @@ Texts addressed to male renunciants warn that attachment to women and to men att
   - [Avadhūta Gītā](../texts/avadhuta-gita.md) — ref: 8.10-26; rests_on: ["tea:avadhuta-gita:8.10-26"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/prepared/avadhuta-gita/segments.jsonl — Rests on tea:uddhava-gita:11.8.7-8, tea:uddhava-gita:11.8.13-14, tea:uddhava-gita:11.26.4-24, tea:kapila-gita:3.31.34-42, tea:avadhuta-gita:8.10-26; each was located in the local text and matches this entry's statement.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

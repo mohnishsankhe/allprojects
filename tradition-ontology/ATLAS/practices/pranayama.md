@@ -34,7 +34,7 @@ In the haṭha texts breath-control is exhalation, inhalation and retention (kum
   - [Yogaśāstra (Hemacandra)](../texts/yogasastra-hemacandra.md) — ref: 6.4-5; rests_on: ["tea:yogasastra-hemacandra:6.4-5"]
   - [Yogaśāstra (Hemacandra)](../texts/yogasastra-hemacandra.md) — ref: ch.5; rests_on: ["tea:yogasastra-hemacandra:ch.5"]
   - [Jñānārṇava](../texts/jnanarnava.md) — ref: pranayama; rests_on: ["tea:jnanarnava:pranayama"]
-**Sequences:** [Haṭhapradīpikā: the order of practice](../paths/hyp-practice-sequence.md), `pth:gheranda-seven-limbs`, `pth:yoga-sutra-eight-limbs`
+**Sequences:** [Haṭhapradīpikā: the order of practice](../paths/hyp-practice-sequence.md), [The seven means of the 'yoga of the pot' (ghaṭastha-yoga) in the Gheraṇḍa Saṃhitā](../paths/gheranda-seven-limbs.md), [Patañjali's eight limbs of yoga (aṣṭāṅga-yoga)](../paths/yoga-sutra-eight-limbs.md)
 
 ## The texts' own warnings
 - As a lion, an elephant or a tiger is tamed only slowly, so the breath must be brought under control gradually; otherwise it kills the practitioner. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 2.15
@@ -55,4 +55,4 @@ _Notes: YBh 2.52 quotes: 'There is no austerity higher than prāṇāyāma.' Ha�
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.29, tea:bhagavad-gita:5.27 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering), text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (ŚU 2.9; MaiU 6.18). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch04-06, skeleton:U09-samkhya, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch04-06, skeleton:U09-samkhya, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

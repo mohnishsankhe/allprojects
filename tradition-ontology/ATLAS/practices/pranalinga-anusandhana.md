@@ -11,7 +11,7 @@ Continuous contemplation of the jyotirliṅga at the base, in the heart or betwe
 **Signs of progress:** ['loss of taste for the outer (SSM 6.44)', 'the liṅga shines within like a lamp (SSM 12.8)']
 **Sources:** 
   - [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) — ref: 6.39–41; 9.6–9; rests_on: ["tea:siddhantasikhamani:6.39-41", "tea:siddhantasikhamani:9.6-9", "tea:siddhantasikhamani:6.35"]
-**Sequences:** `pth:virasaiva-satsthala`
+**Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

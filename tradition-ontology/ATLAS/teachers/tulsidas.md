@@ -1,6 +1,6 @@
 # Tulsīdās
 
-`tch:tulsidas` · `skeleton` · confidence high
+`tch:tulsidas` · `sourced` · confidence high
 
 **Alternate names:** Gosvāmī Tulsīdās, Tulasīdāsa
 **Lineages:** [Rāmānandī sampradāya](../lineages/ramanandi.md)
@@ -30,4 +30,8 @@ Poet-saint of Rāma (c. 1532–1623; tradition 1497–1623), a brahmin abandoned
 **Realization — the tradition's account:** Hanumān, met through a ghost's guidance, showed him Rāma at Citrakūṭ; Śiva approved the Mānas at Vārāṇasī.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti, skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/rAmacharitamAnasa/ — Author of the Rāmcaritmānas passages (local Gita Press text).
+
+_Contributed by: skeleton:U26-regional-bhakti, skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

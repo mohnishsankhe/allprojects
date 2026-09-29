@@ -181,10 +181,26 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by brw:adhyatma-ramayana-to-ramcaritmanas"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press)",
+      "local:sources_raw/raw_etexts/purANam/rAmacharitamAnasa/"
+     ],
+     "result": "confirmed",
+     "note": "Parallels verified: AR 2.6.1-15 (Guha and Lakṣmaṇa at Śṛṅgaverapura) with RCM Ayodhyā 92-93; AR 3.10.22-27 with RCM Araṇya ('navadhā bhagati kahauṁ tohi pāhīṁ').",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -1626,10 +1642,27 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by brw:bhagavad-gita-model-for-later-gitas"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40)",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:devi-gita:7.33, tea:siva-gita:7, tea:ganesa-gita:8, tea:isvara-gita:2.5.1-6; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -1767,10 +1800,27 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by brw:bhagavata-sadhu-qualities-in-avadhuta-gita"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/prepared/avadhuta-gita/segments.jsonl"
+     ],
+     "result": "confirmed",
+     "note": "Verified. Avadhūta Gītā 8.2-4 = BhP 11.11.30, 11.11.31 and 11.11.29 (reordered; small variants 'kalpo' for 'kalyo', 'mitabhuk śāntaḥ').",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -2058,10 +2108,26 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by brw:bodhya-teachers-to-bhagavata-gurus"
+     ],
+     "evidence": [
+      "local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition)",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Parallels verified: MBh CE 12.171.61 and 12.168.46-52 against BhP 11.7.33-34, 11.8.22-44 and 11.9.1-15.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -2822,6 +2888,11 @@
    {
     "type": "tradition-account",
     "detail": "The Rasaratnākara is ascribed to Nāgārjuna; Tibetan and Chinese accounts credit Nāgārjuna with an elixir of long life; later tradition identifies the alchemist with the Madhyamaka master, which historians reject.",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "The Jain narrative literature (e.g. the Prabhāvakacarita) makes the alchemist Nāgārjuna a pupil of the Jain teacher Pādalipta — a third tradition's claim to the same figure (recalled).",
     "refs": []
    },
    {
@@ -4938,6 +5009,11 @@
     "refs": []
    },
    {
+    "type": "shared-vocabulary",
+    "detail": "The same figures reach East Asian esoteric Buddhism: Daikokuten (Mahākāla), Benzaiten (Sarasvatī), Kangiten (the paired Vināyaka/Gaṇeśa) in Shingon and Tendai.",
+    "refs": []
+   },
+   {
     "type": "scholarly-hypothesis",
     "detail": "Historians describe this as the Buddhist appropriation of the Brahmanical pantheon; the Buddhist tradition describes it as conversion.",
     "refs": []
@@ -5329,10 +5405,25 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "parallels located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 1.3.13; 5.5.1; 5.6.9"
+     ],
+     "result": "confirmed",
+     "note": "BhP 1.3.13, 5.5.1 and 5.6.9 located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -7286,10 +7377,25 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "parallels located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_brahmapurANa-1-246.txt (Schreiner & Söhnen) 241; 243.20; 245"
+     ],
+     "result": "confirmed",
+     "note": "Brahma Purāṇa 243.20 (= BhG 5.5 in sense) and Karāla-Janaka named in Brahma 241 and 245 located in the GRETIL text; VP book 5 / Harivaṃśa parallel not re-checked here (U05 owns the Harivaṃśa).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8125,10 +8231,27 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "parallels located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_garuDapurANa.txt (Venkateshwara ed.) 2.2.46-49; 2.5.147-148",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 10.48; 10.77-78",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_agnipurANa.txt (R. Mitra, Bibl. Indica) 370.1"
+     ],
+     "result": "confirmed",
+     "note": "Verbatim sharing located: GP 2.2.46-49 = MkP 10.48ff. ('ūṣmā prakupitaḥ kāye ...'); GP 2.5.147-148 = MkP 10.77-78 (Yama's form). The same opening verse also begins Agni 370 (narakanirūpaṇa) - a third witness to this block.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8555,10 +8678,26 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by brw:moksopaya-kashmir-saiva-vocabulary"
+     ],
+     "evidence": [
+      "https://www.wisdomlib.org/definition/bhaskarakantha",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "The shared terms are verified in the MU (prāṇaparispanda 5.92.14; cittākāśa, cidākāśa, bhūtākāśa 3.97.14). Bhāskarakaṇṭha is a Kashmiri Śaiva, author of the Bhāskarī. The direction stays 'disputed', as entered.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8736,6 +8875,48 @@
   "provenance": {
    "units": [
     "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:nairatmyavada-known-to-maitri",
+  "from": "lin:early-buddhism",
+  "to": "lin:upanisadic",
+  "what": "Knowledge of a 'doctrine of no-self' (nairātmya-vāda) and of ochre-robed and skull-bearing ascetics in the Maitrī Upaniṣad, which warns against them, and its story of a deluding false knowledge created by Bṛhaspati for the asuras.",
+  "direction": "from→to",
+  "era": "c. last centuries BCE – early centuries CE (scholarly date of the Maitrī)",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Maitrī 7.8 names the 'tricksters of the doctrine of no-self' and the kāpālins; 7.9 tells how Bṛhaspati, as Śukra, created a false knowledge to destroy the asuras (read locally).",
+    "refs": [
+     "tea:maitri-upanisad:7.8/2",
+     "tea:maitri-upanisad:7.8",
+     "tea:maitri-upanisad:7.9-10"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Most historians take the nairātmya-vādins to be Buddhists and the passage as evidence of the Maitrī's post-Buddhist date; the Upaniṣadic tradition treats the text as śruti and does not date it.",
+    "refs": []
+   }
+  ],
+  "notes": "New in U49: an engagement (polemical reference), not an adoption. The deluding-doctrine motif recurs in the Purāṇic Māyāmoha story (cpt:taming-of-rival-deities).",
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U49-cross-family"
    ],
    "phases": [
     "skeleton"
@@ -10316,10 +10497,25 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "parallels located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 1.3.8"
+     ],
+     "result": "confirmed",
+     "note": "BhP 1.3.8 'tantraṃ sātvatam ācaṣṭa' located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -10414,6 +10610,49 @@
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:paninian-grammar-to-sramana-grammars",
+  "from": "lin:vyakarana",
+  "to": "lin:jainism",
+  "what": "Pāṇini's system recast by Jain and Buddhist grammarians without the Vedic rules: the Jainendra (Devanandin/Pūjyapāda), Śākaṭāyana and Hemacandra's Siddhahemaśabdānuśāsana; the Buddhist Cāndra grammar.",
+  "direction": "from→to",
+  "era": "c. 5th–12th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "These grammars follow Pāṇini's rule-technique and ordering while omitting or rewriting the rules for Vedic forms and accent (recalled).",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "The Jain tradition treats its grammars as independent works for the Jain community; the Pāṇinian tradition regards grammar as a limb of the Veda.",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Historians describe them as 'non-Vedic Pāṇinian' grammars.",
+    "refs": []
+   }
+  ],
+  "notes": "New in U49 (sources: src:jainendra-vyakarana, src:sakatayana-sabdanusasana, src:siddhahemasabdanusasana, src:candra-vyakarana). The Buddhist Cāndra grammar is the same kind of borrowing to lin:mahayana.",
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U49-cross-family"
    ],
    "phases": [
     "skeleton"
@@ -10541,10 +10780,26 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "parallels located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/linga-purANam.md 1.7.54; 1.88.30; 2.55.26",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_zivapurANabooks-1-and-7.txt (Venkateshwara ed.) 7.1.33"
+     ],
+     "result": "confirmed",
+     "note": "Explicit citations located: LiP 1.7.54 'prāpya pāśupataṃ yogam', 1.88.30 'evaṃ pāśupataṃ yogaṃ jñātavyam', 2.55.26; ŚiP 7.1.33 (Paśupati/pāśupata vow).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -10619,10 +10874,27 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "parallels located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_pataJjali-yogasUtra-with-bhASya.txt 1.2; 1.30; 3.37",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/linga-purANam.md 1.8.7; 1.9.1-2; 1.9.52",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_zivapurANabooks-1-and-7.txt (Venkateshwara ed.) 7.2.38.1-2"
+     ],
+     "result": "confirmed",
+     "note": "Parallels verified against the local GRETIL Yogasūtra: YS 1.2 'yogaś cittavṛttinirodhaḥ' ~ LiP 1.8.7 'yogo nirodho vṛtteṣu cittasya'; YS 1.30 (vyādhi, styāna, saṃśaya, pramāda, ālasya ... anavasthitatva) ~ LiP 1.9.1-2, ŚiP 7.2.38.1-2; YS 3.37 'te samādhāv upasargā vyutthāne siddhayaḥ' ~ LiP 1.9.52; VP 6.7.36-37 yamas/niyamas.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -10672,7 +10944,7 @@
  },
  {
   "id": "brw:pinda-pada-rupa-rupatita-shared",
-  "from": "lin:kaula",
+  "from": "lin:mantramarga",
   "to": "lin:jainism",
   "what": "The fourfold scheme of meditation objects — the embodied (piṇḍastha), the word (padastha), the form (rūpastha) and the formless (rūpātīta) — found in Jain yoga manuals and in Śaiva/Kaula and Nāth sources.",
   "direction": "disputed",
@@ -10680,7 +10952,7 @@
   "evidence": [
    {
     "type": "shared-vocabulary",
-    "detail": "Hemacandra's Yogaśāstra 7.8 and Śubhacandra's Jñānārṇava name the four; the same four terms occur in Kaula and Nāth texts on the knowledge of the body (recalled).",
+    "detail": "Hemacandra's Yogaśāstra 7.8 and Śubhacandra's Jñānārṇava name the four; the same four terms occur in Śaiva tantric (Kaula, Kubjikā) and Nāth texts on meditation (recalled; sources not located here).",
     "refs": [
      "tea:yogasastra-hemacandra:7.8",
      "tea:jnanarnava:pindastha",
@@ -11204,6 +11476,49 @@
   }
  },
  {
+  "id": "brw:purana-genre-to-jain",
+  "from": "lin:puranic",
+  "to": "lin:digambara",
+  "what": "The Purāṇa genre — universal history, cosmology, genealogies and the lives of great beings — taken up by Jain authors as the lives of the sixty-three illustrious persons (Jinasena's Ādipurāṇa; Vimalasūri's Paumacariya), presented as the true account against the Brahmanical Purāṇas and epics.",
+  "direction": "from→to",
+  "era": "c. 3rd–9th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Jain Purāṇas and caritas follow the Purāṇic frame of creation, lineages and heroic lives with Jain content.",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Vimalasūri's Paumacariya opens by rejecting the 'false' Rāma stories of the Brahmanical poets (monkeys as warriors, Rāvaṇa as a demon) and offers the Jina's true account; the Jain tradition does not regard its Purāṇas as borrowed.",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Historians read the Jain Purāṇas as a Jain response to the Brahmanical genre.",
+    "refs": []
+   }
+  ],
+  "notes": "New in U49; content-level retellings are brw:jain-rama-narrative and brw:jain-krsna-narrative.",
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U49-cross-family"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:puranic-to-bengal-sati-pitha",
   "from": "lin:puranic",
   "to": "lin:bengal-assam-sakta",
@@ -11296,10 +11611,25 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "parallels located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text)"
+     ],
+     "result": "confirmed",
+     "note": "The Bhāgavata verses cited are located (1.3.28, 7.5.23-24, 10.29-33, 11.14); the Gauḍīya use is general knowledge not re-checked in Gauḍīya texts here (U15/U16).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -11332,10 +11662,26 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "parallels located in local e-texts"
+     ],
+     "evidence": [
+      "catalog:Muktabodha:lalitaasahasranaama__M00057",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_brahmANDapurANa.txt (Venkateshwara ed.) 3.5-3.44"
+     ],
+     "result": "confirmed",
+     "note": "The Lalitā Sahasranāma's colophon 'iti śrībrahmāṇḍapurāṇe lalitopākhyāne hayagrīvāgastyasaṃvāde' located (Muktabodha M00057); the Lalitopākhyāna chapters located (Brahmāṇḍa 3.5-3.44).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -11986,7 +12332,7 @@
   "evidence": [
    {
     "type": "textual-parallel",
-    "detail": "Both lists include tarka, absent from Patañjali's eight limbs and replaced by anusmṛti in the Buddhist six; the Mṛgendra's yoga section and the Mālinīvijayottara teach the Śaiva six.",
+    "detail": "Both lists include tarka, absent from Patañjali's eight limbs and replaced by anusmṛti in the Buddhist six; the Mālinīvijayottara's six limbs include tarka (recalled) and the Mṛgendra adds recitation and examination (ūha) to the usual limbs.",
     "refs": [
      "tea:maitri-upanisad:6.18",
      "tea:mrgendra-tantra:yogapada.4-9",
@@ -12242,7 +12588,7 @@
    },
    {
     "type": "shared-vocabulary",
-    "detail": "dīkṣā, nyāsa, bhūtaśuddhi, homa, pratiṣṭhā, utsava, maṇḍala; the ranking of initiates (samayin, putraka, sādhaka, ācārya in the Śaiva system; comparable grades in the Jayākhya).",
+    "detail": "dīkṣā, nyāsa, bhūtaśuddhi, homa, pratiṣṭhā, utsava, maṇḍala.",
     "refs": []
    },
    {
@@ -13075,10 +13421,26 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "parallels located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 1.2; 1.5.19-20",
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 2.10.3"
+     ],
+     "result": "confirmed",
+     "note": "VP 1.2.15-24 (pradhāna, puruṣa, vyakta, kāla), 1.5.19-20 (mahat, tanmātra, vaikārika creations) and BhP 2.10.3 (bhūta-mātrendriya-dhiyāṃ janma sarga udāhṛtaḥ) located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -15186,6 +15548,53 @@
   }
  },
  {
+  "id": "brw:two-standpoints-kundakunda",
+  "from": "lin:madhyamaka",
+  "to": "lin:digambara",
+  "what": "Kundakunda's teaching of the pure (niścaya) and conventional (vyavahāra) standpoints, with the conventional as the indispensable means of teaching the ultimate, compared with the Madhyamaka two truths.",
+  "direction": "disputed",
+  "era": "c. 2nd–8th c. CE (Kundakunda's date is itself disputed)",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Samayasāra 8: as a non-Aryan cannot be taught except in a non-Aryan tongue, the ultimate cannot be taught without the conventional; MMK 24.10 (recalled): without relying on convention the ultimate is not taught. The foreign-language simile also occurs in Candrakīrti (recalled, low confidence).",
+    "refs": [
+     "tea:samayasara:8",
+     "tea:samayasara:12",
+     "tea:mulamadhyamakakarika:24.8"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "The Jain tradition derives niścaya and vyavahāra from the canonical doctrine of standpoints (naya) and denies Buddhist or Vedāntic dependence.",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Some historians see Madhyamaka or Vedāntic influence on Kundakunda; others hold the two-standpoint doctrine to be an internal Jain development.",
+    "refs": []
+   }
+  ],
+  "notes": "New in U49; see cpt:levels-of-truth-across-families.",
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U49-cross-family"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:two-truths-to-advaita-levels",
   "from": "lin:madhyamaka",
   "to": "lin:advaita-vedanta",
@@ -15252,10 +15661,26 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "local texts at the refs cited by brw:uddhava-gita-to-varkari"
+     ],
+     "evidence": [
+      "https://en.wikipedia.org/wiki/Eknathi_Bhagwat",
+      "https://en.wikipedia.org/wiki/Varkari"
+     ],
+     "result": "confirmed",
+     "note": "The Eknāthī Bhāgavata (1573) is one of the Vārkarī sampradāya's foundational texts (with the Jñāneśvarī and Amṛtānubhava).",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -15429,10 +15854,27 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "parallels located in local e-texts"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 39.63; 42.7",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_garuDapurANa.txt (Venkateshwara ed.) 2.10.75",
+      "local:sources_raw/dcs/corpus/GRETIL (BĀU 4.4.3; MuU 2.2.4, 2.2.8)"
+     ],
+     "result": "confirmed",
+     "note": "Parallels located: MkP 42.7 'prāṇo dhanuḥ' vs MuU 2.2.4 'praṇavo dhanuḥ' (GRETIL); BhP 1.2.21 vs MuU 2.2.8 'bhidyate hṛdayagranthiḥ'; GP 2.10.75 leech vs BĀU 4.4.3 'tṛṇajalāyukā' (GRETIL); VP 6.7.28 as stated. ŚvetU 2.13 was not re-read locally (U03 owns it); MkP 39.63 matches its content.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -16443,9 +16885,7 @@
    {
     "type": "shared-vocabulary",
     "detail": "homa, kuṇḍa, āhuti, svāhā, dīkṣā, abhiṣeka recur in Śaiva, Pāñcarātra, Buddhist (homa rites; the crown and vajra consecrations) and Jain consecration manuals.",
-    "refs": [
-     "tea:hevajra-tantra:1.10"
-    ]
+    "refs": []
    },
    {
     "type": "scholarly-hypothesis",
@@ -17317,8 +17757,8 @@
   "era": "c. 4th–5th c. CE",
   "evidence": [
    {
-    "type": "explicit-citation",
-    "detail": "The bhāṣya on 4.14 sets out the idealist argument (no object without cognition, as in dreams) and rejects it; YS 4.15–16 argue that one thing is shared by many minds and does not depend on a single mind.",
+    "type": "textual-parallel",
+    "detail": "The bhāṣya on 4.14 sets out the idealist argument (no object without cognition, as in dreams) as an opponent's view, without naming the opponent, and rejects it; YS 4.15–16 argue that one thing is shared by many minds and does not depend on a single mind.",
     "refs": [
      "tea:yoga-bhasya:4.14",
      "tea:yoga-bhasya:4.15",
@@ -17614,10 +18054,27 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by brw:yoga-vasistha-bhumikas-in-minor-upanisads"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md",
+      "local:sources_raw/raw_etexts/mixed/mukta/smArta/upaniShadbrahmendra/vArAhopaniShad__M00298.md",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Verified locally in the 108-Upaniṣad e-text. The Mahā Upaniṣad ch. 5 has the ajñāna- and jñāna-bhūmis ('śubhecchākhyā prathamā ... tṛtīyā tanumānasī'). The Varāha Upaniṣad ch. 4 has 'saptabhūmiṣu ... śubhecchā prathamā bhūmikā' and the verses. The Akṣi Upaniṣad reproduces MU 6.140-141 almost word for word ('evaṃ vicāravān yaḥ syāt ... śeṣas tv ārya iti smṛtaḥ'; 'tṛtīyāṃ bhūmikāṃ prāpya buddho 'nubhavati svayam'), not MU 3.118.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -17652,10 +18109,25 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local texts at the refs cited by brw:yoga-vasistha-buddhist-idealism"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Rests on tea:moksopaya:3.5.3-7, tea:moksopaya:3.66.10-14, tea:moksopaya:6.195.1-4; each was located in the local text and matches this entry's statement.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "provenance": {
    "units": [

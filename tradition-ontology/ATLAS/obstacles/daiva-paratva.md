@@ -1,6 +1,6 @@
 # Reliance on fate
 
-`obs:daiva-paratva` · `skeleton` · confidence high
+`obs:daiva-paratva` · `sourced` · confidence high
 
 **Category:** obstacle
 **Convergence:** 1 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md)
@@ -12,4 +12,8 @@ Relying on fate instead of effort, which the Yoga Vāsiṣṭha calls the delusi
   - [Mokṣopāya](../texts/moksopaya.md) — ref: 2.4-8; rests_on: ["tea:moksopaya:2.4.8-18", "tea:moksopaya:2.6.1-6"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Rests on tea:moksopaya:2.4.8-18, tea:moksopaya:2.6.1-6; each was located in the local text and matches this entry's statement.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

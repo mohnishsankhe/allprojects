@@ -13,4 +13,4 @@ An Āgama of the Vātula group — the last of the twenty-eight Āgamas 'from K�
   - kind: original; name: Muktabodha digital library e-text M00219 ('Vātulottaratantra')
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

@@ -16,4 +16,4 @@ The devotee, as a sakhī, contemplates and inwardly serves the eternal pair at p
 - analogous: [Worship of the divine couple (yugala-upāsanā)](yugala-upasana.md) — Nimbārkī worship of the divine couple; the Haridāsī/Rādhāvallabha forms stress the grove and the sakhī stance
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

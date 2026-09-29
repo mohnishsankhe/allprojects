@@ -1,6 +1,6 @@
 # Hope, expectation (āśā)
 
-`obs:asa` · `skeleton` · confidence high
+`obs:asa` · `sourced` · confidence high
 
 **Category:** passion
 **Convergence:** 2 independent lineage(s): [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -15,4 +15,8 @@ Hope is the great sorrow and freedom from hope the highest happiness, as Piṅga
   - [Ṛṣabha Gītā](../texts/rsabha-gita.md) — ref: 12.125-128; rests_on: ["tea:rsabha-gita:12.125-128"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/mahAbhAratam/gp/epub_no_img/ (Gita Press vulgate, chapter colophons), local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition) — BhP 11.8.44 and MBh CE 12.168.52 verified. The Ṛṣabha Gītā's 'hope is thinner than Tanu' is at CE 12.125.8-12.126.52; the cited 12.125-128 is the vulgate range.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

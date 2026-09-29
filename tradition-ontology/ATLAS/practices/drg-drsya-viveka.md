@@ -12,4 +12,4 @@ Tracing the chain of seer and seen — object seen by eye, eye by mind, mind by 
   - [Pañcadaśī](../texts/pancadasi.md) — ref: 1.3; rests_on: ["tea:pancadasi:1.3"]
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # The three śaktis of Viṣṇu
 
-`cpt:three-saktis-of-visnu` · `skeleton` · confidence high
+`cpt:three-saktis-of-visnu` · `sourced` · confidence high
 
 **Category:** ultimate
 **Members:** parā, kṣetrajña (aparā), avidyā-karma
@@ -14,4 +14,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U16-bhedabheda. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:visnu-purana:1.22.56-57, tea:visnu-purana:6.7.61-63 — All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas, skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._

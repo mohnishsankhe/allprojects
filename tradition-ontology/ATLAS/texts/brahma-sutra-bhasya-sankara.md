@@ -44,7 +44,7 @@ Knowledge of an existing thing depends on the thing itself (vastu-tantra), not o
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: sound-language, karma-liberation_
 
-terms: [pramāṇa](../terms/pramana.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:works-knowledge-grace`, [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md)
+terms: [pramāṇa](../terms/pramana.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md), [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md)
 
 ### 1.1.3 <a id="tea-brahma-sutra-bhasya-sankara-1-1-3"></a>
 `skeleton` · confidence high
@@ -55,7 +55,7 @@ The great scripture beginning with the Ṛgveda — enlarged by many branches of
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: sound-language, ultimate_
 
-teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md), [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 1.1.4 <a id="tea-brahma-sutra-bhasya-sankara-1-1-4"></a>
 `skeleton` · confidence high
@@ -64,7 +64,7 @@ Liberation is not something to be produced, reached, modified or purified by act
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: karma-liberation, sound-language, dispute, ultimate_
 
-terms: [mokṣa](../terms/moksa.md) · concepts: [Liberation (mokṣa) in Advaita](../concepts/liberation-advaita.md), [The relation of Pūrva and Uttara Mīmāṃsā](../concepts/purva-uttara-mimamsa.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:works-knowledge-grace`, [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md), [Can the Veda be a means of knowledge about an already-existing thing (siddha), or only about what is to be done (sādhya / kārya)?](../debates/siddha-or-sadhya.md)
+terms: [mokṣa](../terms/moksa.md) · concepts: [Liberation (mokṣa) in Advaita](../concepts/liberation-advaita.md), [The relation of Pūrva and Uttara Mīmāṃsā](../concepts/purva-uttara-mimamsa.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md), [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md), [Can the Veda be a means of knowledge about an already-existing thing (siddha), or only about what is to be done (sādhya / kārya)?](../debates/siddha-or-sadhya.md)
 
 ### 1.1.4 <a id="tea-brahma-sutra-bhasya-sankara-1-1-4-2"></a>
 `skeleton` · confidence low
@@ -93,7 +93,7 @@ Brahman is known in two forms: as qualified by limiting adjuncts — the distinc
 
 _level: bridging · standpoint: analytic · path: knowledge, devotion, meditation · stage: all · types: ultimate, practice_
 
-teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:saguna-nirguna`
+teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 1.3.28 <a id="tea-brahma-sutra-bhasya-sankara-1-3-28"></a>
 `skeleton` · confidence high
@@ -113,7 +113,7 @@ The eternity of the Veda has already been established from the fact that no inde
 
 _level: conventional · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language, teacher-transmission_
 
-teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 1.3.38 <a id="tea-brahma-sutra-bhasya-sankara-1-3-38"></a>
 `skeleton` · confidence moderate
@@ -122,7 +122,7 @@ teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · dispu
 
 _level: conventional · standpoint: ethical-social · path: knowledge · stage: all · types: ethics, teacher-transmission_
 
-teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:women-caste-liberation`
+teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 1.4.22 <a id="tea-brahma-sutra-bhasya-sankara-1-4-22"></a>
 `skeleton` · confidence moderate
@@ -149,7 +149,7 @@ The effect (the world) is non-different from its cause (Brahman), a mere name de
 
 _level: bridging · standpoint: causal · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [vācārambhaṇa](../terms/vacarambhana.md), [vyāvahārika](../terms/vyavaharika.md), [upādhi](../terms/upadhi.md), [īśvara](../terms/isvara.md) · concepts: [Apparent transformation (vivarta-vāda)](../concepts/vivarta-vada.md), [The three levels of reality](../concepts/three-levels-of-reality.md), [Īśvara in Advaita](../concepts/isvara-advaita.md), [Dream](../concepts/dream-analogy.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), `dsp:saguna-nirguna`
+terms: [vācārambhaṇa](../terms/vacarambhana.md), [vyāvahārika](../terms/vyavaharika.md), [upādhi](../terms/upadhi.md), [īśvara](../terms/isvara.md) · concepts: [Apparent transformation (vivarta-vāda)](../concepts/vivarta-vada.md), [The three levels of reality](../concepts/three-levels-of-reality.md), [Īśvara in Advaita](../concepts/isvara-advaita.md), [Dream](../concepts/dream-analogy.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Does the effect pre-exist in its cause (satkārya), is it newly produced (asatkārya/ārambha), is it an apparent transformation of an unchanging cause (vivarta), a real manifestation of consciousness (ābhāsa), a transformation of God that leaves him unchanged (avikṛta-pariṇāma), or dependently arisen and ultimately unarisen?](../debates/causation.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md), [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ### 2.1.33 <a id="tea-brahma-sutra-bhasya-sankara-2-1-33"></a>
 `skeleton` · confidence moderate
@@ -167,7 +167,7 @@ The Lord is like rain (parjanya), the common cause of all plants, whose varietie
 
 _level: conventional · standpoint: divine · path: action · stage: all · types: karma-liberation, world-fate_
 
-teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 2.2.25 <a id="tea-brahma-sutra-bhasya-sankara-2-2-25"></a>
 `skeleton` · confidence high
@@ -194,7 +194,7 @@ teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · dispu
 ### 2.2.31 <a id="tea-brahma-sutra-bhasya-sankara-2-2-31"></a>
 `skeleton` · confidence high
 
-The store-consciousness (ālayavijñāna) posited as the seat of latent impressions cannot be their locus, since it too is admitted to be momentary: without one enduring, connected knower, or an unchanging seer of all objects, the deposit of impressions, memory and recognition are impossible. Having refuted both Buddhist positions — that of external objects and that of consciousness only — Śaṅkara says that no effort is made to refute the doctrine of the void (śūnyavāda), since it is contradicted by every means of knowledge: worldly usage, established by all the means of knowledge, cannot be denied without knowing another reality.
+The store-consciousness (ālayavijñāna) posited as the seat of latent impressions cannot be their locus, since it too is admitted to be momentary: without one enduring, connected knower, or an unchanging seer of all objects, the deposit of impressions, memory and recognition are impossible. Having refuted both Buddhist positions — that of external objects and that of consciousness only — Śaṅkara says that no effort is made to refute the doctrine of the void (śūnyavāda), since it is opposed by every means of knowledge: worldly usage, established by all the means of knowledge, cannot be denied without knowing another reality.
 
 > śūnyavādipakṣastu sarvapramāṇavipratiṣiddha iti tannirākaraṇāya nādaraḥ kriyate /
 
@@ -407,4 +407,4 @@ concepts: [The identity of the self and brahman](../concepts/atman-brahman-ident
 _Notes: Sub-commentaries: Padmapāda's Pañcapādikā (→ Prakāśātman's Vivaraṇa), Vācaspati's Bhāmatī (→ Amalānanda's Kalpataru → Appayya's Parimala), Ānandagiri's Nyāyanirṇaya, Govindānanda's Ratnaprabhā._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._

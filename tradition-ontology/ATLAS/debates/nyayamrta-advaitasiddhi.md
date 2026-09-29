@@ -38,4 +38,4 @@ The world is mithyā: not ultimately real, since it is sublated by the knowledge
 _Notes: Supplies the Dvaita side of dsp:world-real-or-appearance (U50) as well. The Advaita arguments are summarized from general knowledge of the Advaitasiddhi; U13 should supply text-layer teachings._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._

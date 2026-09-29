@@ -56,7 +56,7 @@ They cry 'caste is lost, caste is lost' — what a strange business! No one is p
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: ethics, dispute_
 
-concepts: [Rejection of caste](../concepts/rejection-of-caste.md) · teachers: [Lalon Fakir (Lālan Sāṃi)](../teachers/lalon-fakir.md) · disputes: `dsp:women-caste-liberation`
+concepts: [Rejection of caste](../concepts/rejection-of-caste.md) · teachers: [Lalon Fakir (Lālan Sāṃi)](../teachers/lalon-fakir.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### song 'ke kathā kay re dekhā dey nā …' <a id="tea-lalon-giti-ke-katha-kay-re-dekha-dey-na"></a>
 `skeleton` · confidence high
@@ -109,7 +109,7 @@ Everyone asks what caste Lalon is in this world; Lalon says, I have never seen t
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: ethics, dispute_
 
-terms: [jāti](../terms/jati.md) · concepts: [Rejection of caste](../concepts/rejection-of-caste.md) · teachers: [Lalon Fakir (Lālan Sāṃi)](../teachers/lalon-fakir.md) · disputes: `dsp:women-caste-liberation`
+terms: [jāti](../terms/jati.md) · concepts: [Rejection of caste](../concepts/rejection-of-caste.md) · teachers: [Lalon Fakir (Lālan Sāṃi)](../teachers/lalon-fakir.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### song 'satya bal supathe cal, ore āmār man …' <a id="tea-lalon-giti-satya-bal-supathe-cal"></a>
 `skeleton` · confidence moderate
@@ -169,4 +169,4 @@ concepts: [The guru in the Bāul path](../concepts/baul-guru.md) · teachers: [L
 
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._

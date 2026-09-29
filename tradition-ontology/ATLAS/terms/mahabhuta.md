@@ -22,4 +22,4 @@
 **Related:** [tanmātra](tanmatra.md), [viśeṣa](visesa.md), [pathavīdhātu](pathavi-dhatu.md), [dhātu](dhatu.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._

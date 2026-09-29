@@ -19,7 +19,7 @@ If Brahmā is lord of the whole world, master of beings, why did he order the wo
 
 _level: conventional · standpoint: polemical · path: general · stage: unmarked · types: dispute, world-fate_
 
-concepts: [Śramaṇa and brāhmaṇa](../concepts/sramana-brahmana-contrast.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+concepts: [Śramaṇa and brāhmaṇa](../concepts/sramana-brahmana-contrast.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 161-173 <a id="tea-bhuridatta-jataka-161-173"></a>
 `skeleton` · confidence high
@@ -28,10 +28,10 @@ Bhūridatta rejects the brāhmaṇas' claims: if the one who kills in sacrifice 
 
 _level: conventional · standpoint: polemical · path: ritual · stage: unmarked · types: dispute, ethics_
 
-concepts: [Śramaṇa and brāhmaṇa](../concepts/sramana-brahmana-contrast.md), [The critique of sacrifice and funeral offerings](../concepts/critique-of-sacrifice.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [Śramaṇa and brāhmaṇa](../concepts/sramana-brahmana-contrast.md), [The critique of sacrifice and funeral offerings](../concepts/critique-of-sacrifice.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 
 _Notes: Section numbers follow SuttaCentral (bilara) segmentation; checked against the local e-text. Verse segment numbers are SuttaCentral's._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._

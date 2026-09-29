@@ -13,4 +13,4 @@ Yogic exercises of the channels and winds (visualization of the channels, breath
 - Forcing the breath or visualization causes wind disorders (srog rlung): practise only as taught and gently.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # The fivefold ignorance
 
-`obs:fivefold-avidya` · `skeleton` · confidence high
+`obs:fivefold-avidya` · `sourced` · confidence high
 
 **Category:** affliction
 **Convergence:** 1 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -12,4 +12,8 @@ Tamas, moha, mahāmoha, tāmisra and andhatāmisra - ignorance in five divisions
   - [Viṣṇu Purāṇa](../texts/visnu-purana.md) — ref: 1.5.5; rests_on: ["tea:visnu-purana:1.5.5"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:visnu-purana:1.5.5 — VP 1.5.5 located. All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

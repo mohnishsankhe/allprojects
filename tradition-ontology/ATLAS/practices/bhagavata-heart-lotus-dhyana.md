@@ -1,6 +1,6 @@
 # Meditation on the Lord in the heart-lotus (Uddhava Gītā)
 
-`prc:bhagavata-heart-lotus-dhyana` · `skeleton` · confidence high
+`prc:bhagavata-heart-lotus-dhyana` · `sourced` · confidence high
 
 **Category:** visualization-deity
 **Convergence:** 1 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -13,4 +13,8 @@ Seated evenly with gaze at the nose-tip, after breath purification with Oṃ, vi
   - [Uddhava Gītā](../texts/uddhava-gita.md) — ref: 11.14.32-46; rests_on: ["tea:uddhava-gita:11.14.32-46"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — Rests on tea:uddhava-gita:11.14.32-46; each was located in the local text and matches this entry's statement.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

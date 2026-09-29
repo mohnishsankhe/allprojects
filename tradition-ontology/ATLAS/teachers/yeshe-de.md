@@ -10,4 +10,4 @@
 Tibetan translator (late 8th-early 9th c.) who, with Indian scholars such as Jinamitra, Surendrabodhi and Dānaśīla, translated a large part of the Mahāyāna sūtras into Tibetan.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

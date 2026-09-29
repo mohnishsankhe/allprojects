@@ -14,4 +14,4 @@ Siddhar of the popular list whom the tradition identifies with Matsyendranātha:
 _Notes: Identification with tch:matsyendranatha is the tradition's (see brw:natha-tamil-siddha). Counted in the popular list of the eighteen Siddhars (see cpt:eighteen-siddhars); the samādhi place given follows that list and is recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._

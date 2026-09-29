@@ -182,7 +182,7 @@ This self is not to be attained by instruction, nor by intellect, nor by much le
 
 _level: bridging · standpoint: seeker · path: knowledge, devotion · stage: advanced · types: karma-liberation, ultimate_
 
-concepts: [Divine grace (prasāda)](../concepts/grace.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md) · disputes: `dsp:works-knowledge-grace`
+concepts: [Divine grace (prasāda)](../concepts/grace.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 1.2.24 <a id="tea-katha-upanisad-1-2-24"></a>
 `sourced` · confidence high
@@ -519,4 +519,4 @@ _Notes: The Naciketas story has an older ritual form in Taittirīya Brāhmaṇa 
 
 - 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:GRETIL-dev:katha-upanisad, catalog:eBharati:kAThakopaniShat, text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/kAThakam/2.md (TB 3.11; section 8.1 'uśan ha vai vājaśravasaḥ … — Structure confirmed: 29, 25, 17 / 15, 15, 19 = 120 verses in the prepared Śaṅkara text. The older Naciketas story is confirmed at TB 3.11.8: the raw_etexts Kāṭhaka file 2 (= TB 3.11), section 8.1, opens 'uśan ha vai vājaśravasaḥ sarvavedasaṃ dadau | tasya ha naciketā nāma putra āsa'. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

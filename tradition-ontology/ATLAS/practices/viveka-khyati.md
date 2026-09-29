@@ -21,4 +21,4 @@ Cultivating the cognition of the difference between sattva and puruṣa until it
 - In its gaps other cognitions ('I am', 'mine') arise from impressions; they are removed like the afflictions. — [Yoga Sūtra of Patañjali](../texts/yoga-sutra.md) 4.27
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:11 IST._

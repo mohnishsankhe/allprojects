@@ -16,4 +16,4 @@
 **Related:** [buddhīndriya](buddhindriya.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U12-mimamsa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._

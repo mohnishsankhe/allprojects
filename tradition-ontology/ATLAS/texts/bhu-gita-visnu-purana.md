@@ -1,6 +1,6 @@
 # Bhū Gītā (Viṣṇu Purāṇa)
 
-`src:bhu-gita-visnu-purana` · `skeleton` · confidence moderate
+`src:bhu-gita-visnu-purana` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -14,4 +14,8 @@
 The Earth laughs at kings who, themselves mortal, strive to conquer and own her.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md — VP 4.24.126-137: 'maitreya pṛthivīgītāñ ślokāṃś cātra nibodha me' (4.24.127) to 'ity ete dharaṇīgītāḥ ślokāḥ' (4.24.137), after the royal genealogies; confirmed.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

@@ -1,6 +1,6 @@
 # Veṇu Gītā
 
-`src:venu-gita` · `skeleton` · confidence moderate
+`src:venu-gita` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -17,4 +17,8 @@
 The gopīs' song on the sound of Kṛṣṇa's flute and its effect on all beings of Vṛndāvana.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — BhP 10.21 (20 verses): the gopīs' songs on Kṛṣṇa's flute (e.g. 10.21.7); confirmed.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

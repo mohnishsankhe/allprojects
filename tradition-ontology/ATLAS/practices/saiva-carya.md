@@ -12,7 +12,7 @@ Service of Śiva in the temple with the body: sweeping and smearing the floor, g
 **Sources:** 
   - [Civañāṉa Cittiyār](../texts/sivananasiddhiyar.md) — ref: cupakkam.8; rests_on: ["tea:sivananasiddhiyar:cupakkam.8/3"]
   - [Periya Purāṇam](../texts/periya-puranam.md) — ref: tirunavukkaracu-nayanar-puranam; rests_on: ["tea:periya-puranam:tirunavukkaracu-nayanar-puranam"]
-**Sequences:** `pth:saiva-siddhanta-four-padas`
+**Sequences:** [The four pādas of Śaiva Siddhānta (caryā, kriyā, yoga, jñāna) and their fruits](../paths/saiva-siddhanta-four-padas.md)
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

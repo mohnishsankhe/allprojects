@@ -15,4 +15,4 @@
 - corresponds-to-in-map → [The three scopes (persons of small, middling and great capacity)](three-scopes.md): impure vision covers the small and middling scope topics, experiential vision the bodhicitta of the great scope — rests on [structure](../texts/three-visions-ngorchen.md#tea-three-visions-ngorchen-structure)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._

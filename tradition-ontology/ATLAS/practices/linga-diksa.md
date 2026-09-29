@@ -12,10 +12,10 @@ The guru, with assistants, bathes the disciple with water from pots consecrated 
 **Sources:** 
   - [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) — ref: 6.16–28; rests_on: ["tea:siddhantasikhamani:6.19-21", "tea:siddhantasikhamani:6.22-25", "tea:siddhantasikhamani:6.26"]
   - [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) — ref: 15.7; rests_on: ["tea:siddhantasikhamani:15.7"]
-**Sequences:** `pth:virasaiva-satsthala`
+**Sequences:** [The six stages (ṣaṭsthala) of the Vīraśaiva path](../paths/virasaiva-satsthala.md)
 
 ## The texts' own warnings
 - The mantra is given secretly (nigūḍham). — [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) 6.21
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._

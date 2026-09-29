@@ -115,4 +115,4 @@ concepts: [Teacher, pupil and the handing down of jyotiṣa](../concepts/jyotisa
 _Notes: Local e-text with Bhāskara I's commentary (GRETIL). Correction to the unit brief: the text states the author's age at 3600 Kali (= 499 CE), not an explicit composition date._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

@@ -20,4 +20,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.34, tea:bhagavad-gita:6.35 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:02 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:11 IST._

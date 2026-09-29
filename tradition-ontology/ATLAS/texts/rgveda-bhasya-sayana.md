@@ -29,7 +29,7 @@ The Veda is that text which makes known the supernatural means (alaukika upāya)
 
 _level: conventional · standpoint: analytic · path: ritual · stage: all · types: teacher-transmission, dispute_
 
-terms: [apauruṣeya](../terms/apauruseya.md), [śruti](../terms/sruti.md) · teachers: [Sāyaṇa](../teachers/sayana.md) · disputes: [Were the hymns 'seen' by the seers or 'fashioned' by poets?](../debates/seen-or-made-hymns.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [apauruṣeya](../terms/apauruseya.md), [śruti](../terms/sruti.md) · teachers: [Sāyaṇa](../teachers/sayana.md) · disputes: [Were the hymns 'seen' by the seers or 'fashioned' by poets?](../debates/seen-or-made-hymns.md), [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 
 _Notes: Sāyaṇa also commented on the Taittirīya, Sāma and Atharva Saṃhitās and on Brāhmaṇas and Āraṇyakas._
@@ -39,4 +39,4 @@ _Notes: Sāyaṇa also commented on the Taittirīya, Sāma and Atharva Saṃhit�
 
 - 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/vedaH/Rg/shakala/saMhitA/sAyaNabhAShyam/ (verse-wise commentary, all 10 maṇḍalas), https://en.wikipedia.org/wiki/S%C4%81ya%E1%B9%87a — Extant (local verse-by-verse text). Sāyaṇa d. 1387, Vijayanagara under Bukka I and Harihara II; commentaries on nearly all parts of the Veda — confirmed. The upodghāta content is treated under tea:rgveda-bhasya-sayana:upodghata.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._

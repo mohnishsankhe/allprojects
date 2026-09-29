@@ -11,4 +11,4 @@
 Abbot of Jonang before Dolpopa and Dolpopa's principal teacher of the Kālacakra six-branch yoga.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

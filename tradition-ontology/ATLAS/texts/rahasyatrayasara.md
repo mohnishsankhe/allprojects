@@ -22,7 +22,7 @@ Prapatti is for those who, lacking the knowledge, ability or patience for bhakti
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: practice, karma-liberation_
 
-terms: [ākiñcanya](../terms/akincanya.md), [ananyagatitva](../terms/ananyagatitva.md), [adhikārin](../terms/adhikarin.md) · concepts: [Surrender (prapatti, śaraṇāgati)](../concepts/prapatti.md) · teachers: [Vedānta Deśika](../teachers/vedanta-desika.md) · disputes: `dsp:women-caste-liberation`
+terms: [ākiñcanya](../terms/akincanya.md), [ananyagatitva](../terms/ananyagatitva.md), [adhikārin](../terms/adhikarin.md) · concepts: [Surrender (prapatti, śaraṇāgati)](../concepts/prapatti.md) · teachers: [Vedānta Deśika](../teachers/vedanta-desika.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### Aparādhaparihārādhikāra <a id="tea-rahasyatrayasara-aparadha-parihara"></a>
 `skeleton` · confidence low
@@ -143,4 +143,4 @@ concepts: [The true teacher and the disciple](../concepts/sadacarya-and-sisya.md
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

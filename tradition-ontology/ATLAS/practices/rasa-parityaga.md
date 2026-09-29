@@ -12,4 +12,4 @@ Abstaining from one or more of the rich foods (ghee, milk, curd, oil, sweets, sa
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 9.19; rests_on: ["tea:tattvartha-sutra:9.19"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._

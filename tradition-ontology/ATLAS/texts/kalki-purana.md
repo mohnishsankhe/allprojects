@@ -1,6 +1,6 @@
 # Kalki Purāṇa
 
-`src:kalki-purana` · `skeleton` · confidence moderate
+`src:kalki-purana` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -12,4 +12,8 @@
 The birth and deeds of Kalki at the end of the Kali age, the destruction of the wicked and the return of the Kṛta age.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — catalog:eBharati:kalkipurANam, https://en.wikipedia.org/wiki/Kalki_Purana — Extant and digitized (eBhārati kalkipurāṇam, three local files). Web: an Upapurāṇa of Bengal; floruit 18th c. (manuscript of 1726; Doniger 1500-1700) - consistent with 'a late Upapurāṇa'.
+
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

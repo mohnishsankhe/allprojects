@@ -11,4 +11,4 @@
 Author of the Iṣṭasiddhi, defending indescribable ignorance and the self as pure experience.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

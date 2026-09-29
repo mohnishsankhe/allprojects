@@ -19,4 +19,4 @@ A commentary on a Chöd root text; the local catalogue gives 'bram ze Āryadeva'
 
 - 2026-09-29 catalog: confirmed — catalog:OpenPecha:P000138 "shes rab kyi pha rol tu phyin pa'i man ngag gcod kyi gzhung 'grel zag med sbrang rtsi" (author field: bram ze Ar+Ya de ba) — catalogue hit; the author field may name the root text's author, not the commentator
 
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

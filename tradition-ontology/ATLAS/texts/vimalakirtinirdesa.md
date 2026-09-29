@@ -135,7 +135,7 @@ The goddess in Vimalakīrti's house, asked by Śāriputra why she does not chang
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-concepts: [Women's bodies and buddhahood in the Mahāyāna sūtras](../concepts/womens-bodies-and-buddhahood.md) · teachers: [Sāriputta](../teachers/sariputta.md) · disputes: [Can a woman, in a woman's body, attain buddhahood?](../debates/womens-bodies-and-buddhahood.md), `dsp:women-caste-liberation`
+concepts: [Women's bodies and buddhahood in the Mahāyāna sūtras](../concepts/womens-bodies-and-buddhahood.md) · teachers: [Sāriputta](../teachers/sariputta.md) · disputes: [Can a woman, in a woman's body, attain buddhahood?](../debates/womens-bodies-and-buddhahood.md), [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 ### 7.2 <a id="tea-vimalakirtinirdesa-7-2"></a>
 `skeleton` · confidence high
@@ -210,4 +210,4 @@ concepts: [Pure lands and buddha-fields](../concepts/pure-lands.md) · teachers:
 _Notes: Locator: Sanskrit chapter.paragraph (vkn c|p), Kumārajīva's chapter in teaching sections. The brief's 'ch. 9' for the silence is Kumārajīva's numbering (= Skt ch. 8)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._

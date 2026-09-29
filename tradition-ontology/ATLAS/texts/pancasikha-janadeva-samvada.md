@@ -24,4 +24,4 @@ Pañcaśikha, disciple of Āsuri in Kapila's line, instructs king Janadeva Janak
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.211.3 Janadeva; 12.211.6-18 Pañcaśikha, Āsuri, Kapilā; 12.212.1 — Section located at CE 12.211-212 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._

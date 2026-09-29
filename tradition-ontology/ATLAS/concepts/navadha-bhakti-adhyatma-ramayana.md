@@ -1,6 +1,6 @@
 # The nine means of devotion (Adhyātma Rāmāyaṇa)
 
-`cpt:navadha-bhakti-adhyatma-ramayana` · `skeleton` · confidence high
+`cpt:navadha-bhakti-adhyatma-ramayana` · `sourced` · confidence high
 
 **Category:** stages-maps
 **Members:** satsaṅga, kathālāpa, guṇa-kīrtana, vacana-vyākhyā, ācārya-upāsana, puṇya-śīlatva with pūjā-niṣṭhā, mantra-upāsana, bhakta-pūjā / sarvabhūta-bhāvanā / virāga, tattva-vicāra
@@ -14,4 +14,8 @@
 - contrasts-with → [The nine forms of devotion](navadha-bhakti.md): differs from the Bhāgavata's nine forms (hearing, singing, remembering, serving the feet, worship, bowing, servitude, friendship, self-offering) — rests on [3.10.22-27](../texts/adhyatma-ramayana.md#tea-adhyatma-ramayana-3-10-22-27)
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — Rests on tea:adhyatma-ramayana:3.10.22-27, tea:adhyatma-ramayana:3.10.28-31; each was located in the local text and matches this entry's statement.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

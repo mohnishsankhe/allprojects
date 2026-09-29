@@ -1,6 +1,6 @@
 # Bad company (duḥsaṅga)
 
-`obs:dussanga` · `skeleton` · confidence high
+`obs:dussanga` · `sourced` · confidence high
 
 **Category:** bond
 **Convergence:** 2 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -14,4 +14,8 @@ Association with the sensual and unrighteous, which destroys truth, purity and c
   - [Mokṣopāya](../texts/moksopaya.md) — ref: 2.11.56-61; rests_on: ["tea:moksopaya:2.11.56-61"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Rests on tea:uddhava-gita:11.26.26-34, tea:kapila-gita:3.31.22-33, tea:moksopaya:2.11.56-61; each was located in the local text and matches this entry's statement.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

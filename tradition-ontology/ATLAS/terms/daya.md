@@ -16,4 +16,4 @@
 **Related:** [anukampā (Jain)](anukampa.md), [ahiṃsā](ahimsa.md)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U34-jain-canon, skeleton:U14-visistadvaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U34-jain-canon, skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._

@@ -45,7 +45,7 @@ Doing works here, one should wish to live a hundred years; thus, and not otherwi
 
 _level: conventional · standpoint: seeker · path: action · stage: all · types: ethics, karma-liberation_
 
-terms: [karma](../terms/karma.md) · disputes: `dsp:works-knowledge-grace`
+terms: [karma](../terms/karma.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 3 <a id="tea-isa-upanisad-3"></a>
 `sourced` · confidence high
@@ -90,7 +90,7 @@ Into blind darkness enter those who worship ignorance (avidyā); into greater da
 
 _level: bridging · standpoint: seeker · path: knowledge, action · stage: intermediate · types: karma-liberation_
 
-terms: [vidyā](../terms/vidya.md), [avidyā](../terms/avidya.md), [amṛtatva](../terms/amrtatva.md) · concepts: [Knowledge and ignorance (vidyā and avidyā)](../concepts/vidya-avidya.md) · disputes: `dsp:works-knowledge-grace`
+terms: [vidyā](../terms/vidya.md), [avidyā](../terms/avidya.md), [amṛtatva](../terms/amrtatva.md) · concepts: [Knowledge and ignorance (vidyā and avidyā)](../concepts/vidya-avidya.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
 
 ### 12-14 <a id="tea-isa-upanisad-12-14"></a>
 `sourced` · confidence moderate
@@ -129,4 +129,4 @@ _Notes: Veda affiliation: White Yajurveda (Vājasaneyi Saṃhitā, ch. 40; Kā�
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL-dev:isa-upanisad_isopanisad_or_isavasyopanisad, text:sources_raw/prepared/isa-upanisad/segments.jsonl (Advaita-Śāradā mūla Isha.md, Śaṅkara numbering), https://en.wikipedia.org/wiki/Isha_Upanishad, https://www.wisdomlib.org/hinduism/essay/brihadaranyaka-upanishad-study/d/doc1888684.ht — Title, placement (VS 40) and structure are confirmed: 18 verses in the prepared Kāṇva text, and Wikipedia gives 18 (Kāṇva) against 17 (Mādhyandina) with a different verse order. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship. The entry's -500/-200 falls within 'last few centuries BCE'.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

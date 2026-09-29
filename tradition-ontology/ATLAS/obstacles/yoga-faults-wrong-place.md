@@ -1,6 +1,6 @@
 # Faults from practising yoga at the wrong time or place
 
-`obs:yoga-faults-wrong-place` · `skeleton` · confidence high
+`obs:yoga-faults-wrong-place` · `sourced` · confidence high
 
 **Category:** meditation-fault
 **Convergence:** 2 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
@@ -13,4 +13,8 @@ Practising overfed, hungry, tired or agitated, in extreme cold, heat or wind, or
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 5.3-9; rests_on: ["tea:gheranda-samhita:5.3-4", "tea:gheranda-samhita:5.8-9"]
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U28-hatha-texts. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — rests_on: tea:markandeya-purana:39.47-61 — MkP 39.47-61 located. All teachings it rests on were located in the local e-texts (see their checks).
+
+_Contributed by: skeleton:U07-puranas, skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._

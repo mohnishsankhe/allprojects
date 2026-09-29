@@ -15,4 +15,4 @@
 _Notes: List recalled from memory; its source verse and exact membership vary by text. Check before use._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._

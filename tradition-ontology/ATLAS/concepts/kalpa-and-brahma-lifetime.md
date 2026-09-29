@@ -1,6 +1,6 @@
 # Kalpa, the day of Brahmā and his lifetime
 
-`cpt:kalpa-and-brahma-lifetime` · `skeleton` · confidence high
+`cpt:kalpa-and-brahma-lifetime` · `sourced` · confidence high
 
 **Category:** cosmology-time
 **Members:** mahāyuga = 12,000 divine years, manvantara ≈ 71 mahāyugas, kalpa = 1,000 mahāyugas = 14 manvantaras, night of Brahmā = 1 kalpa, two parārdhas = Brahmā's life
@@ -17,5 +17,6 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.17, tea:bhagavad-gita:9.7, tea:bhagavad-gita:9.8 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:12.4.2-6, tea:bhagavata-purana:3.11 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U07-puranas. Generated 2026-09-29 18:02 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._

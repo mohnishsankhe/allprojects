@@ -23,4 +23,4 @@ The mind is withdrawn from outer objects and bound to the object; settled firmly
 _Notes: Contribution of U47 (Sakya/Kadam/Gelug presentation)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._

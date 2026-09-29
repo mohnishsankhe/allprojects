@@ -96,7 +96,7 @@ Prajāpati desired to multiply and measured out the trivṛt praise from his mou
 
 _level: conventional · standpoint: cosmic · path: ritual · stage: unmarked · types: world-fate, ethics_
 
-terms: [varṇa](../terms/varna.md), [chandas](../terms/chandas.md) · concepts: [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md), [Bandhu — the correspondences between rite, cosmos and person](../concepts/bandhu-correspondences.md), [The Vedic metres](../concepts/vedic-meters.md) · disputes: `dsp:women-caste-liberation`
+terms: [varṇa](../terms/varna.md), [chandas](../terms/chandas.md) · concepts: [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md), [Bandhu — the correspondences between rite, cosmos and person](../concepts/bandhu-correspondences.md), [The Vedic metres](../concepts/vedic-meters.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 ---
@@ -104,4 +104,4 @@ terms: [varṇa](../terms/varna.md), [chandas](../terms/chandas.md) · concepts:
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Taittirīyasaṃhitā, text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/saMhitA/4/5.md, https://hindupedia.com/en/Taittiriya_Samhit%C4%81, https://en.wikipedia.org/wiki/Taittiriya_Shakha, https://en.wikipedia.org/wiki/Yajurveda — Extant; 7 kāṇḍas, 44 prapāṭhakas, 651 anuvākas confirmed; Śatarudrīya at 4.5 and Camaka at 4.7 located. Scholarly date (c. 1000–800 BCE prose) within Witzel's 1200–800 BCE for the Yajurveda. Vaiśampāyana → Taittirīyas is the Purāṇic account (Viṣṇu Purāṇa 3.5, located).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._

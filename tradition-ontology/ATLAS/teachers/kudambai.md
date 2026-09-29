@@ -15,4 +15,4 @@ Siddhar named from the refrain of his thirty-two couplets, addressed to a girl w
 _Notes: Counted in the popular list of the eighteen Siddhars (see cpt:eighteen-siddhars); the samādhi place given follows that list and is recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._

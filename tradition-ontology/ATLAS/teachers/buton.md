@@ -16,4 +16,4 @@ Scholar of Zhalu (a tradition often grouped with the Sakya), editor of the Tengy
 _Notes: Affiliation: Zhalu; grouped here with the Sakya for convenience._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._

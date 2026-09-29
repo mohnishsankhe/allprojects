@@ -12,4 +12,4 @@ No. 83 of the eighty-four siddhas (Tōh 2292 order). A pearl-diver; low certaint
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. Whether the second image is praise or warning is unclear._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._

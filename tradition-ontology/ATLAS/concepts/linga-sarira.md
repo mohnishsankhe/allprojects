@@ -16,4 +16,4 @@
 - same-as-under-standpoint → [The three bodies (śarīra-traya)](three-bodies.md) (analytic): corresponds to the subtle body of Vedānta's three bodies, though composed differently (interpretive) — rests on [40](../texts/samkhya-karika.md#tea-samkhya-karika-40)
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._

@@ -13,4 +13,4 @@
 Ānandabodha's dialectical treatise defending the self-luminosity of the self, indescribable ignorance and the falsity of difference; Citsukha commented on it.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._

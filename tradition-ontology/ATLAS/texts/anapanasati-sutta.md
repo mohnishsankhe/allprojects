@@ -71,4 +71,4 @@ terms: [bojjhaṅga](../terms/bojjhanga.md) · concepts: [The seven factors of a
 _Notes: SuttaCentral uid mn118; Mahāsaṅgīti title 'Ānāpānassatisutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

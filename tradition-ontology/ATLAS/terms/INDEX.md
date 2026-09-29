@@ -1,6 +1,6 @@
 # Terms (4769)
 
-skeleton: 4761 · sourced: 8
+skeleton: 4759 · sourced: 10
 
 - ['byor byed (bad kan)](jorje-beken.md) — `skeleton`
 - ['byung ba lnga](jungwa-nga.md) — `skeleton`
@@ -2413,7 +2413,7 @@ skeleton: 4761 · sourced: 8
 - [nāmarūpa](namarupa.md) — `skeleton`
 - [nāmghar](namghar.md) — `skeleton`
 - [nāmābhāsa](namabhasa.md) — `skeleton`
-- [nāmāparādha](namaparadha.md) — `skeleton`
+- [nāmāparādha](namaparadha.md) — `sourced`
 - [Nārāyaṇa](narayana.md) — `skeleton`
 - [nārāyaṇa-bali](narayana-bali.md) — `skeleton`
 - [nāstika](nastika.md) — `skeleton`
@@ -4094,7 +4094,7 @@ skeleton: 4761 · sourced: 8
 - [viraha](viraha.md) — `skeleton`
 - [Virajā](viraja.md) — `skeleton`
 - [virajā-homa](viraja-homa.md) — `skeleton`
-- [virajādīkṣā](viraja-diksa.md) — `skeleton`
+- [virajādīkṣā](viraja-diksa.md) — `sourced`
 - [virakta](virakta.md) — `skeleton`
 - [virecana](virecana.md) — `skeleton`
 - [viriya](viriya.md) — `skeleton`

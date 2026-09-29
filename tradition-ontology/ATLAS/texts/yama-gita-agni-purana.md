@@ -1,6 +1,6 @@
 # Yama Gītā (Agni Purāṇa)
 
-`src:yama-gita-agni-purana` · `skeleton` · confidence moderate
+`src:yama-gita-agni-purana` · `sourced` · confidence moderate
 
 **Original title:** यमगीता
 **Language:** Sanskrit
@@ -16,10 +16,10 @@ The Yama Gītā 'spoken to Naciketas' as retold by Agni to Vasiṣṭha: the Ka�
 **Editions / translations:** 
   - kind: original; name: Gītāsaṅgraha (Poona 1915) prints all three Yama Gītās; licence: digitization terms unknown
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 381.1-37 <a id="tea-yama-gita-agni-purana-381-1-37"></a>
-`skeleton` · confidence moderate · [AI-translated]
+`sourced` · confidence moderate · [AI-translated]
 
 Agni to Vasiṣṭha: I shall tell the Yama Gītā spoken to Naciketas — the Self is not born and does not die; the body is a chariot, the intellect the charioteer, the senses horses; the goal is Viṣṇu's supreme abode; the final dissolution (ātyantika laya) consists in the Vedāntic knowledge of Brahman.
 
@@ -29,4 +29,8 @@ teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciket
 
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_agnipurANa.txt, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — Agni Purāṇa 381.1 ('yamagītāṃ pravakṣyāmi uktā yā nāciketase') and the colophon 'yamagītā nāmaikāśītyadhikatriśatatamo 'dhyāyaḥ' verified; also printed in the Gītāsaṅgraha.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

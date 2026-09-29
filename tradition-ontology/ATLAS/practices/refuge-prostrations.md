@@ -15,4 +15,4 @@ Visualizing the refuge tree of the lineage, the practitioner recites the refuge 
 - Physical prostrations should be adapted to the body's capacity (general teacher advice, not a text quotation).
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._

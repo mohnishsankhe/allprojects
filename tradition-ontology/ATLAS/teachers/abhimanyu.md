@@ -10,4 +10,4 @@ Named in the Gītā only as Saubhadra, the strong-armed son of Subhadrā, a grea
 _Notes: Saubhadra = Abhimanyu is the epic identification. Linked in BhG ch. 1–3 at 1.6, 1.18._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:02 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:11 IST._

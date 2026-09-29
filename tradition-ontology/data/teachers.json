@@ -167,10 +167,28 @@
   ],
   "summary": "Kashmiri author to whom the Laghu Yoga Vāsiṣṭha is ascribed.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "catalog+websearch",
+     "queries": [
+      "Laghu YV final colophon",
+      "Laghu Yoga Vasistha Gauda Abhinanda date"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/mukta/vedAnta/abhinanda_Atmasukha/laghuyogavAsiShTha_with_vAsiShThachandrikA__M00351.md",
+      "https://en.wikipedia.org/wiki/Yoga_Vasishtha",
+      "https://www.celextel.org/vedanta-books-other/laghu-yoga-vasishta/"
+     ],
+     "result": "partially-confirmed",
+     "note": "The Laghu Yoga Vāsiṣṭha's final colophon names 'gauḍamaṇḍalālaṅkāra śrīmad-abhinanda'. Wikipedia identifies him with Abhinanda of Kashmir, son of Jayanta Bhaṭṭa (9th-10th c.). Slaje argues that the Kashmiri Abhinanda and the Gauḍa Abhinanda of the colophon are distinct and a 10th-c. date is untenable, so the dating stays unsettled.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -1218,6 +1236,22 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Agastya (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_brahmANDapurANa.txt (Venkateshwara ed.) 3.5",
+      "local:sources_raw/raw_etexts/purANam/skanda-purANam/4_kAshI-khaNDaH/006.md",
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 8.4.10"
+     ],
+     "result": "confirmed",
+     "note": "Lalitopākhyāna frame (Brahmāṇḍa 3.5), Kāśī Khaṇḍa 4.1.6.28-45, BhP 8.4.10 (the curse on Indradyumna) located.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -2930,10 +2964,26 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Akṛtavraṇa (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 3.6.17-18",
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 12.7.5-7"
+     ],
+     "result": "confirmed",
+     "note": "VP 3.6.17-18 and BhP 12.7.5, 12.7.7 ('rāmaśiṣyo 'kṛtavraṇaḥ') located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -3214,6 +3264,20 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Alarka (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 25; 38-43"
+     ],
+     "result": "confirmed",
+     "note": "MkP 25 (Madālasā's sons) and 38-43 located.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -4200,10 +4264,27 @@
   ],
   "summary": "Author of the Tātparyaprakāśa commentary on the Yoga Vāsiṣṭha.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "catalog+websearch",
+     "queries": [
+      "Tātparyaprakāśa colophon",
+      "Anandabodhendra Sarasvati date"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/mukta/vedAnta/valmiki/ and unknown_Anandabodhendra/ (Yogavāsiṣṭha vulgate with Tātparyaprakāśa, Nirṇaya Sāgara ed.; Muktabodha M00335-M00339, M00345)",
+      "https://www.wisdomlib.org/hinduism/book/a-history-of-indian-philosophy-volume-2/d/doc209891.html"
+     ],
+     "result": "confirmed",
+     "note": "The Tātparyaprakāśa's final colophon names Ānandabodhendra Sarasvatī and dates completion to Śaka 1766 (c. 1844 CE); Dasgupta puts him in the 19th c. The entry gives no dating; one could be added: 19th c., c. 1844.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -7389,10 +7470,26 @@
   ],
   "summary": "A sage born bent in eight places by his father Kahoḍa's curse; as a boy he defeated Bandin at Janaka's court (Mahābhārata 3.132-134). The Aṣṭāvakra Gītā presents him as Janaka's teacher of non-dual knowledge.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "MBh CE 3.132"
+     ],
+     "evidence": [
+      "local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh03.json (BORI critical edition)",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)"
+     ],
+     "result": "confirmed",
+     "note": "MBh CE 3.132.9-10 (Kahoḍa's curse, 'vakro bhavitāsy aṣṭakṛtvaḥ') and 3.132.20-134 (Bandin at Janaka's court) verified; teacher in the Aṣṭāvakra Gītā.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -8240,10 +8337,26 @@
   ],
   "summary": "Recalled as author of the Vāsiṣṭhacandrikā on the Laghu Yoga Vāsiṣṭha.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "catalog",
+     "queries": [
+      "Vāsiṣṭhacandrikā colophon"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/mukta/vedAnta/abhinanda_Atmasukha/laghuyogavAsiShTha_with_vAsiShThachandrikA__M00351.md",
+      "catalog:Muktabodha:laghuyogavAsiShTha_with_vAsiShThachandrikA__M00351"
+     ],
+     "result": "confirmed",
+     "note": "Colophon: 'uttamasukhapūjyapādaśiṣyaśrīmadātmasukhaviracitāyāṃ vāsiṣṭhacandrikāyām'. Ātmasukha is the author and the pupil of Uttamasukha; his existence is no longer merely recalled.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -9958,6 +10071,20 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "MU 5.22-29"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "MU 5.22.17 'virocanasuto baḍiḥ'; Virocana's teaching 5.22.43; Śukra 5.25-26.",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -13054,10 +13181,26 @@
   ],
   "summary": "Kashmiri Paṇḍit, author of the Mokṣopāyaṭīkā and (outside U06) of the Bhāskarī commentary on Abhinavagupta's Īśvarapratyabhijñāvimarśinī.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Bhaskarakantha 18th century Kashmir"
+     ],
+     "evidence": [
+      "https://www.wisdomlib.org/definition/bhaskarakantha",
+      "http://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/advaita/motik_pu.htm"
+     ],
+     "result": "confirmed",
+     "note": "18th-c. Kashmiri (Rājanaka) Bhāskarakaṇṭha, author of the Mokṣopāyaṭīkā and the Bhāskarī on the Īśvarapratyabhijñāvimarśinī.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -13203,6 +13346,21 @@
      "result": "confirmed",
      "note": "Confirmed: Bhāskararāya commented on the Kaula, Tripurā and Bhāvanā Upaniṣads (Wikipedia). The Kaula commentary is printed in Tantrik Texts XI (1922), which has a local eBhāratī copy.",
      "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Bhāskararāya (local e-texts / web)"
+     ],
+     "evidence": [
+      "https://en.wikipedia.org/wiki/Bhaskararaya",
+      "https://sreenivasaraos.com/2018/02/26/the-guptavati-and-navarna-mantra-part-one/"
+     ],
+     "result": "confirmed",
+     "note": "Web: Bhāskararāya Makhin (1690-1785), author of the Guptavatī.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -15100,6 +15258,20 @@
      "result": "confirmed",
      "note": "Text-located: the name occurs in the e-text of brhajjabala, bhasmajabala, rudraksajabala, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
      "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "MU 6.14-28"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "MU 6.14.6 wish-tree (kalpataru) on Meru; prāṇa contemplation 6.25-26; story closes 6.28 ('bhusuṇḍopākhyānaṃ samāptam').",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -15623,10 +15795,25 @@
   ],
   "summary": "A tranquil sage who, questioned by King Nahuṣa, names six teachers: Piṅgalā, the osprey, the snake, the bee, the arrow-maker and the maiden (Mahābhārata 12.171.57-61).",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition)"
+     ],
+     "result": "confirmed",
+     "note": "MBh CE 12.171.58-61 (questioned by Nahuṣa).",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -21293,10 +21480,25 @@
   ],
   "summary": "Queen of Mālava who attained self-knowledge by her own inquiry and powers through breath-discipline; unable to teach her husband Śikhidhvaja as herself, she came to him in the forest disguised as the young brāhmaṇa Kumbha and led him to realization (Mokṣopāya 6.81-114; Yoga Vāsiṣṭha Nirvāṇa, pūrvārdha).",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "MU 6.81-114"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "MU 6.81.12 'mālavānāṃ pure śrīmāñ śikhidhvaja' (queen of Mālava), cūḍālāprabodha 6.82, kumbha 6.90, madanikā 6.110.36.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -23339,6 +23541,36 @@
      "result": "confirmed",
      "note": "Text-located: the name occurs in the e-text of darsana, avadhuta, jabala, bhiksuka, naradaparivrajaka, sandilya, dattatreya, in the roles the summary gives. Śāṇḍilya 3 (the e-text's ch. 3) gives the etymology: datta, and the son of Atri born of Anasūyā. A mythic or textual figure, so there is no historical dating to check.",
      "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "BhP 1.3.11"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)"
+     ],
+     "result": "confirmed",
+     "note": "BhP 1.3.11 'ṣaṣṭham atrer apatyatvaṃ ... ānvīkṣikīm alarkāya prahlādādibhya ūcivān' verified. The Avadhūta Gītā 8.28 names 'dattātreyāvadhūta' as its maker. The identification with the avadhūta of BhP 11.7 is the tradition's, as the entry says.",
+     "by": "sourcing:U06-other-gitas"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Dattātreya (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 1.3.11",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 38-43"
+     ],
+     "result": "confirmed",
+     "note": "BhP 1.3.11 (sixth; ānvīkṣikī to Alarka, Prahlāda and others) and MkP 38-43 (teaching to Alarka) located.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -24154,10 +24386,39 @@
   ],
   "summary": "Daughter of Svāyambhuva Manu, wife of the sage Kardama and mother of Kapila; the questioner of the Kapila Gītā, who asks for a devotion suited to her and attains liberation.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Questioner of the Kapila Gītā (3.25.7 ff.; her praise 3.33.1-8); standard Bhāgavata genealogy (daughter of Svāyambhuva Manu, wife of Kardama).",
+     "by": "sourcing:U06-other-gitas"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Devahūti (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 3.28.1"
+     ],
+     "result": "confirmed",
+     "note": "BhP 3.28-29 addressed to Devahūti located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "coverage": [
    "A3",
@@ -24780,10 +25041,26 @@
   ],
   "summary": "The supreme Goddess, appearing as Bhuvaneśvarī, who teaches Himālaya and the gods in the Devī Gītā (Devī Bhāgavata 7.31-40): she is consciousness, supreme Brahman, whose power is māyā.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40)",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)"
+     ],
+     "result": "confirmed",
+     "note": "Speaker of the Devī Gītā; Bhuvaneśvarī named at DBhP 7.31.50.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -26244,6 +26521,20 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh03.json (BORI critical edition)"
+     ],
+     "result": "confirmed",
+     "note": "MBh CE 3.198-206 (Mithilā, 198.2-4).",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -26754,10 +27045,26 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Dhruva (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 4.8.54",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 1.11.43-44"
+     ],
+     "result": "confirmed",
+     "note": "BhP 4.8.54 (Nārada's mantra) and VP 1.11.43-44 (Marīci, Atri and the sages instruct him) located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -29608,10 +29915,26 @@
    "A3"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Eknathi Bhagavata 1573"
+     ],
+     "evidence": [
+      "https://en.wikipedia.org/wiki/Eknathi_Bhagwat",
+      "https://en.wikipedia.org/wiki/Varkari"
+     ],
+     "result": "confirmed",
+     "note": "Author of the Eknāthī Bhāgavata (completed Vārāṇasī 1573).",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "alt_summary": [
    "In U06's texts: author of the Eknāthī Bhāgavata, the Marathi commentary on the Uddhava Gītā (Bhāgavata Book 11)."
@@ -30878,10 +31201,25 @@
   ],
   "summary": "The elephant-faced lord who, in the Gaṇeśa Purāṇa, teaches King Vareṇya the Gaṇeśa Gītā.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)"
+     ],
+     "result": "confirmed",
+     "note": "Gajānana, speaker of the Gaṇeśa Gītā ('śrīgajānana uvāca').",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -31686,7 +32024,7 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
    "checks": [
@@ -31700,6 +32038,20 @@
      ],
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Garuḍa (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_garuDapurANa.txt (Venkateshwara ed.) 2.22.1; 2.49.2"
+     ],
+     "result": "confirmed",
+     "note": "Garuḍa's questions frame the Pretakalpa (e.g. 2.22.1, 2.49.2) in the local text.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -31884,10 +32236,26 @@
   "notes": "Also credited (traditional) with Śākta works (Subhagodaya, Śrīvidyāratnasūtras) and an Uttaragītā commentary. Whether he is the same person as the author of the commentary on the Sāṃkhya Kārikā (src:samkhya-karika-bhasya-gaudapada) is doubted by most scholars.",
   "summary": "Author of the Māṇḍūkya Kārikā; teacher of Govinda, Śaṅkara's teacher, and in the paramparā disciple of Śuka; first systematic exponent of non-origination (ajātivāda) and asparśa-yoga.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Uttara Gita Gaudapada commentary"
+     ],
+     "evidence": [
+      "https://archive.org/details/UttaraGitaWithCommentary",
+      "https://www.wisdomlib.org/definition/uttaragita"
+     ],
+     "result": "confirmed",
+     "note": "Of eight commentary manuscripts on the Uttara Gītā, five are ascribed to Gauḍapāda; identity with the Kārikā author is doubtful, as the entry says.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "alt_summary": [
    "U09 contribution: a Gauḍapāda is named in the closing verse of the bhāṣya on SK 1–69. Whether he is the Advaita teacher Gauḍapāda (author of the Māṇḍūkya-kārikā, Śaṅkara's paramaguru) is disputed; many scholars regard them as different persons.",
@@ -36011,10 +36379,25 @@
   ],
   "summary": "The form of a swan in which the Lord appeared before Brahmā and the Kumāras to answer their question (Bhāgavata 11.13.19-42).",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "The swan form of BhP 11.13.19-42.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -36157,6 +36540,20 @@
      "result": "partially-confirmed",
      "note": "Episode (3.147–150) located and role confirmed. One wording error in U05's summary: it says \"the four sciences\" but lists three, and the text says three (trayī vārtā daṇḍanītis tisro vidyāḥ, 3.149.31; see the unit's own tea:mahabharata:3.149.31-33). Not auto-corrected because tch:hanuman is also emitted by U04 and U06, and a whole-summary replacement would overwrite their contributions; U05's wording should read \"the three sciences\".",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press)"
+     ],
+     "result": "confirmed",
+     "note": "AR 1.1.29-53 (Rāma-hṛdaya taught to Hanumān). Scope: U06's own statements only; U05's 'four sciences' issue is not repeated here.",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -37354,10 +37751,26 @@
   "historicity": "mythic",
   "gender": "male",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Hayagrīva (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 2.7.11",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_brahmANDapurANa.txt (Venkateshwara ed.) 3.5"
+     ],
+     "result": "confirmed",
+     "note": "BhP 2.7.11 ('bhagavān hayaśīrṣa') and Lalitopākhyāna (Brahmāṇḍa 3.5 colophons, Hayagrīva-Agastya dialogue) located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "alt_summary": [
    "The horse-headed form of Viṣṇu (BhP 2.7.11), who in the Lalitopākhyāna is sent as a portion of Viṣṇu to teach Agastya the story and worship of Lalitā."
@@ -37625,6 +38038,20 @@
      "result": "confirmed",
      "note": "Confirmed: chief minister of the Yādava kings 1259–1274 (Wikipedia 'Hemadpant').",
      "by": "sourcing:U02-brahmana-vedanga"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Hemādri (local e-texts / web)"
+     ],
+     "evidence": [
+      "https://esamskriti.com/e/History/Great-Indian-Leaders/Hemadri-Pandit,-forgotten-scholar-of-the-13th-century-1.aspx"
+     ],
+     "result": "confirmed",
+     "note": "Web: minister (prime minister c. 1259-1274) of the Yādava kings of Devagiri, author of the Caturvargacintāmaṇi.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -37740,10 +38167,25 @@
   ],
   "summary": "King of the mountains and father of Pārvatī, who asks the Goddess for the yoga, devotion and knowledge that lead to her (Devī Gītā).",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)"
+     ],
+     "result": "confirmed",
+     "note": "Asks for yoga with devotion and knowledge ('himālaya uvāca', Devī Gītā 7.32 opening).",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -40427,10 +40869,26 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Jaḍa Bharata (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 5.8.26-27; 5.10.1",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 2.13"
+     ],
+     "result": "confirmed",
+     "note": "BhP 5.8.26-27 and 5.10.1 (Rahūgaṇa), VP 2.13 located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -41024,6 +41482,21 @@
      "result": "confirmed",
      "note": "Confirmed as the eponym of the Jaiminīya Sāmaveda school, whose Brāhmaṇa is extant. The other identifications are labelled as tradition.",
      "by": "sourcing:U02-brahmana-vedanga"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Jaimini (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 3.4.9",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 1.1"
+     ],
+     "result": "confirmed",
+     "note": "VP 3.4.9 (Jaimini for the Sāmaveda) and MkP 1.1 located.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -42003,6 +42476,21 @@
      "result": "confirmed",
      "note": "Text-located: the name occurs in the e-text of jabala, yajnavalkya, maha, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
      "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "Aṣṭāvakra Gītā ch. 2 ('janaka uvāca'); MU 5.8-10 (Siddha Gītā, Janaka's reflections).",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -48649,6 +49137,35 @@
      "result": "confirmed",
      "note": "All cited references located.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)"
+     ],
+     "result": "confirmed",
+     "note": "Teacher of the Kapila Gītā (BhP 3.25-33) to his mother Devahūti.",
+     "by": "sourcing:U06-other-gitas"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Kapila (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 1.3.10; 3.28; 6.3.20"
+     ],
+     "result": "confirmed",
+     "note": "BhP 1.3.10 (fifth; Sāṃkhya to Āsuri), 3.28-29, 6.3.20 located.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -50993,10 +51510,25 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Keśidhvaja (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 6.6-6.7"
+     ],
+     "result": "confirmed",
+     "note": "VP 6.6.10 (rivalry with Khāṇḍikya), 6.7 (teaching), 6.7.105-106 (final perfection) located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -51233,10 +51765,25 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Khāṇḍikya Janaka (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 6.6-6.7"
+     ],
+     "result": "confirmed",
+     "note": "VP 6.6.10 (expelled by Keśidhvaja), 6.6.20-45 (the expiation episode), 6.7.103-104 located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -52891,6 +53438,20 @@
      "result": "confirmed",
      "note": "Role as teacher of the Gītā and Anugītā (14.16.11), his manifestation at Mathurā (12.326.82) and the Upamanyu episode (13.14–17) located. Tradition-only dating as entered.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Speaker of the Uddhava Gītā (BhP 11.7.1 ff.); legendary. The Uttara Gītā ascription is traditional (see src:uttara-gita).",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -55720,10 +56281,26 @@
   ],
   "summary": "Rāma's brother: recipient of Rāma's teaching on māyā, knowledge and devotion (Adhyātma Rāmāyaṇa 3.4) and of the Rāma Gītā (7.5); in the Rāmcaritmānas he himself teaches Guha (the Lakṣmaṇa Gītā).",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press)",
+      "local:sources_raw/raw_etexts/purANam/rAmacharitamAnasa/02_ayodhyAkANDa.md"
+     ],
+     "result": "confirmed",
+     "note": "AR 3.4 (Rāma to Lakṣmaṇa), AR 7.5 (Rāma Gītā), RCM Ayodhyā 92-93 (to Guha).",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -55875,6 +56452,20 @@
      "result": "confirmed",
      "note": "Confirmed: courtier of the Gāhaḍavāla Govindacandra (r. c. 1114–1155), matching the entry.",
      "by": "sourcing:U02-brahmana-vedanga"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Lakṣmīdhara (local e-texts / web)"
+     ],
+     "evidence": [
+      "https://en.wikipedia.org/wiki/Govindachandra_(Gahadavala_dynasty)"
+     ],
+     "result": "confirmed",
+     "note": "Web: minister of peace and war of Govindacandra of Kannauj (r. c. 1114-1155), who composed the Kṛtyakalpataru at the king's request.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -56833,10 +57424,25 @@
   ],
   "summary": "Queen who, grieving for her husband Padma, is taught by the goddess Sarasvatī (Jñapti) and shown in consciousness-body the worlds of her husband's past and future lives (Yoga Vāsiṣṭha 3.15-60).",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "MU 3.15-60"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "MU 3.15.19 King Padma; the goddess Jñapti Sarasvatī 3.16.30, 3.17.7.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -57607,6 +58213,20 @@
      "result": "confirmed",
      "note": "Header: 1–2 Lopāmudrā. Named among Bṛhaddevatā's brahmavādinīs (2.82–84, confirmed). As seer of the hādi form of the Śrīvidyā (Lopāmudrā-vidyā) — confirmed by web sources.",
      "by": "sourcing:U01-vedic-samhitas"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Lopāmudrā (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/skanda-purANam/4_kAshI-khaNDaH/006.md 28"
+     ],
+     "result": "confirmed",
+     "note": "Kāśī Khaṇḍa 4.1.6.28 (her question on the mānasa tīrthas) located; her Śrīvidyā role is U23's.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -58110,10 +58730,25 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Madālasā (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 25.10-18"
+     ],
+     "result": "confirmed",
+     "note": "MkP 25.10-18 located; the popular 'śuddho 'si buddho 'si' verse is absent from this edition, as stated.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -60793,10 +61428,26 @@
    "A13"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Maitreya (sage) (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 1.1.1",
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 3.11.1"
+     ],
+     "result": "confirmed",
+     "note": "VP 1.1.1-11 (Maitreya questions Parāśara) located; Maitreya instructing Vidura in BhP 3 (e.g. 3.11.1 'maitreya uvāca') located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "alt_summary": [
    "In the Bṛhat Parāśara Horā Śāstra, the sage who approaches Parāśara with folded hands and asks for the horā, best of the three branches of jyotiṣa (BPHS 1.1–3)."
@@ -62592,6 +63243,21 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition)",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "MBh CE 12.171.4-54; a Maṅki is also taught by Vasiṣṭha in MU 6.180-183 (colophons maṅkivasiṣṭhasamāgama ... maṅkinirvāṇa).",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -63418,6 +64084,21 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Mārkaṇḍeya (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 1.1; 81.1",
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 12.9"
+     ],
+     "result": "confirmed",
+     "note": "MkP 1.1 (Jaimini questions Mārkaṇḍeya), 81.1 (narrates the eighth Manu's story), BhP 12.9 located.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -64366,10 +65047,25 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Medhas (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 81.9"
+     ],
+     "result": "confirmed",
+     "note": "MkP 81.9 'dvijavaryasya medhasaḥ' located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -66815,10 +67511,25 @@
   ],
   "summary": "In U06's context (recent reception): made the Guru Gītā the daily morning chant of his ashrams (Ganeshpuri recension).",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Guru Gita Muktananda 182 verses"
+     ],
+     "evidence": [
+      "https://en.wikipedia.org/wiki/Guru_Gita"
+     ],
+     "result": "confirmed",
+     "note": "Muktananda chose 182 verses of the Guru Gītā as a chant with its own melody.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -67779,6 +68490,20 @@
      "result": "confirmed",
      "note": "Located: KU 1.1.1 to 2.3.18 ('mṛtyuproktāṃ naciketo 'tha labdhvā vidyām etāṃ yogavidhiṃ ca kṛtsnam … brahma prāpto virajo 'bhūd vimṛtyuḥ'). The older ritual form of the story is in TB 3.11.8 (confirmed locally).",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Agni 381.1"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_agnipurANa.txt"
+     ],
+     "result": "confirmed",
+     "note": "Agni 381.1 'yamagītāṃ ... uktā yā nāciketase'.",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -70196,6 +70921,21 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Nārada (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 4.8.54; 6.3.20",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_nAradapurANa.txt (Sansknet) 1.92"
+     ],
+     "result": "confirmed",
+     "note": "BhP 6.3.20 (mahājana), 4.8.54 (the twelve-syllable mantra given to Dhruva) located; NP pupil of the Kumāras (1.92) located.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -72253,6 +72993,34 @@
      "result": "confirmed",
      "note": "Text-located: the name occurs in the e-text of varaha, tejobindu, maha, annapurna, rudraksajabala, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
      "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "VP 2.15.4-6"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "VP 2.15.4 'tasya śiṣyo nidāgho 'bhūt pulastyatanayaḥ' and 2.15.6 'devikāyās taṭe vīranagaraṃ nāma vai puram' verified.",
+     "by": "sourcing:U06-other-gitas"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Nidāgha (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 2.15.4"
+     ],
+     "result": "confirmed",
+     "note": "VP 2.15.4 'tasya śiṣyo nidāgho 'bhūt pulastyatanayaḥ' located.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -72473,6 +73241,20 @@
      "result": "confirmed",
      "note": "Confirmed (Deshastha; late 17th c.).",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Nilakantha Chaturdhara Ganesha Gita commentary"
+     ],
+     "evidence": [
+      "https://en.wikipedia.org/wiki/Neelakantha_Chaturdhara"
+     ],
+     "result": "confirmed",
+     "note": "c. 1650-1700, Vārāṇasī; commentary on the Mahābhārata and on the Gaṇeśa Gītā (1693).",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -76297,6 +77079,34 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition)"
+     ],
+     "result": "confirmed",
+     "note": "MBh CE 12.279-287 (to Janaka, 287.1, 287.45).",
+     "by": "sourcing:U06-other-gitas"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Parāśara (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 1.1.12-25"
+     ],
+     "result": "confirmed",
+     "note": "VP 1.1.12-26 located: Vasiṣṭha stops Parāśara's rite to burn the rākṣasas (1.1.15-20) and grants a boon (1.1.25).",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -76625,10 +77435,25 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Parīkṣit (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 1.17.38-40; 1.19.7"
+     ],
+     "result": "confirmed",
+     "note": "BhP 1.19.7 (prāyopaveśa on the Gaṅgā) and 1.17.38-40 (Kali's five places) located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -76990,10 +77815,26 @@
   ],
   "summary": "Śiva's consort, the questioner in the Adhyātma Rāmāyaṇa (her doubt why the supreme Rāma grieved for Sītā, 1.1.13-15) and in the Guru Gītā; in Śākta texts identified with the Goddess who herself teaches (Devī Gītā, Bhagavatī Gītā).",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press)",
+      "local:sources_raw/raw_etexts/kAvyam/padyam/peterFreund/stotram/guru_gita.md (Ganeshpuri recension)"
+     ],
+     "result": "confirmed",
+     "note": "Questioner in AR 1.1.13-15 and in the Guru Gītā.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3",
@@ -78576,6 +79417,21 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition)"
+     ],
+     "result": "confirmed",
+     "note": "BhP 11.8.22-44 and MBh CE 12.168.46-52.",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -79563,6 +80419,35 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "MU 5.30-43"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "MU 5.30-43; Viṣṇu wakes him with the Pāñcajanya, 5.39.7.",
+     "by": "sourcing:U06-other-gitas"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Prahlāda (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 7.5-7.10",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 1.20.19"
+     ],
+     "result": "confirmed",
+     "note": "BhP 7.5.23-24, 7.6.1, 7.9.43-44, 6.3.20; VP 1.20.19 located.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -81638,10 +82523,25 @@
   ],
   "summary": "King, son of Iḍā, infatuated with the apsaras Urvaśī; his song of disenchantment is the Aila Gītā (Bhāgavata 11.26).",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Singer of the Aila Gītā, BhP 11.26.4-24 ('ailaḥ samrāṭ').",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -82761,10 +83661,26 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Rahūgaṇa (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 5.10.1",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 2.13.48"
+     ],
+     "result": "confirmed",
+     "note": "BhP 5.10.1 'sindhusauvīrapateḥ rahūgaṇasya'; VP 2.13.48ff. the Sauvīra king (unnamed) located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -83499,6 +84415,21 @@
      "result": "confirmed",
      "note": "All cited references located (6.18.33 in the local Gita Press text).",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "MU 1.4.1; 1.7.2"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)",
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press)"
+     ],
+     "result": "confirmed",
+     "note": "Student of Vasiṣṭha (MU), teacher in the Rāma-hṛdaya (AR 1.1.44-52) and the Rāma Gītā (AR 7.5). One precision: the MU says Rāma was 'ūnaṣoḍaśa', not yet sixteen (in his sixteenth year), at the time of his dispassion (1.4.1, 1.7.2).",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -84053,10 +84984,26 @@
   ],
   "summary": "In U06's context (recent reception): recommended the Ṛbhu Gītā, which was read aloud in his presence, and quoted the Yoga Vāsiṣṭha and the Aṣṭāvakra Gītā.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Ramana Maharshi Ribhu Gita"
+     ],
+     "evidence": [
+      "https://archive.arunachala.org/docs/ribhu-gita/intro",
+      "https://en.wikipedia.org/wiki/Shivarahasya_Purana"
+     ],
+     "result": "confirmed",
+     "note": "Ramana often mentioned the Ribhu Gītā and had it read (Sri Ramanasramam editions). His quoting the Yoga Vāsiṣṭha and the Aṣṭāvakra Gītā is noted on the Aṣṭāvakra Gītā page.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -85752,6 +86699,38 @@
      "result": "confirmed",
      "note": "Text-located: the name occurs in the e-text of varaha, tejobindu, maha, annapurna, jabala, naradaparivrajaka, in the roles the summary gives. Varāha teaches Ṛbhu in chs. 1-3 and Ṛbhu teaches Nidāgha in ch. 4, as the skeleton report says. The e-text has 5 chapters, of which ch. 5 is yoga. A mythic or textual figure, so there is no historical dating to check.",
      "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "VP 2.15-16; Ribhu Gita Sivarahasya"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md",
+      "https://en.wikipedia.org/wiki/Shivarahasya_Purana",
+      "https://sanskritdocuments.org/doc_giitaa/RGall.itx",
+      "https://archive.arunachala.org/docs/ribhu-gita/intro"
+     ],
+     "result": "confirmed",
+     "note": "VP 2.15.3 'ṛbhur nāmābhavat putro brahmaṇaḥ parameṣṭhinaḥ' and the Nidāgha episode verified; the Śivarahasya's Ṛbhu Gītā confirmed by web sources.",
+     "by": "sourcing:U06-other-gitas"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Ṛbhu (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 2.15.3",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md 1.10.13"
+     ],
+     "result": "confirmed",
+     "note": "VP 2.15.3 (Ṛbhu, son of Brahmā) and KūP 1.10.13 located.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -86433,10 +87412,26 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Romaharṣaṇa (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 3.6.16-18",
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 12.7.6"
+     ],
+     "result": "confirmed",
+     "note": "VP 3.6.16-18 (Vyāsa's sūta disciple; his saṃhitā the root of three) and BhP 12.7.6 ('my father') located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -86711,10 +87706,25 @@
   },
   "notes": "The Śvetāmbara account makes Marudevī the first liberated soul of this era; Digambara accounts differ on her.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Ṛṣabha (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 1.3.13; 5.5.1; 5.6.9"
+     ],
+     "result": "confirmed",
+     "note": "BhP 1.3.13 (eighth avatāra, son of Nābhi and Merudevī), 5.5.1, 5.6.9 located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "alt_summary": [
    "In the Bhāgavata an avatāra of Viṣṇu and avadhūta-teacher; the same figure the Jains honour as the first Tīrthaṅkara. BhP 5.6.9 adds that a king named Arhat of Koṅka, Veṅka and Kuṭaka, imitating him, will spread a heterodox path in Kali (a polemical report)."
@@ -87525,6 +88535,20 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press)"
+     ],
+     "result": "confirmed",
+     "note": "AR 3.10.20-43. Her guru, the sage Mataṅga, is named in the Gita Press gloss on 3.10.13 (the verse itself says 'guru').",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -89363,10 +90387,25 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Samādhi (the merchant) (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 81; 93"
+     ],
+     "result": "confirmed",
+     "note": "MkP 81 (the merchant) and 93 (his boon of knowledge) located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -89962,10 +91001,26 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Śāṃśapāyana (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 3.6.17-18",
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 12.7.5"
+     ],
+     "result": "confirmed",
+     "note": "VP 3.6.17-18 located; absent from BhP 12.7.5 as stated.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -90160,10 +91215,25 @@
   ],
   "summary": "Eldest of the four mind-born sons of Brahmā (Sanaka, Sanandana, Sanātana, Sanatkumāra), whose question on separating mind from the guṇas occasions the Haṃsa Gītā (Bhāgavata 11.13).",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "BhP 11.13.16 'putrā hiraṇyagarbhasya mānasāḥ sanakādayaḥ'.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3",
@@ -90437,6 +91507,22 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Sanatkumāra (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 3.12.4",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 1.7.9",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md 1.10.13"
+     ],
+     "result": "partially-confirmed",
+     "note": "Existence and roles confirmed (KūP 1.10.13-14; 1.1.17; NP 1.92.5; BhP 6.3.20). But 'eldest of the four Kumāras' is not supported: BhP 3.12.4 lists Sanaka, Sananda, Sanātana, Sanatkumāra (Sanatkumāra last), VP 1.7.9 speaks of 'Sanandana and the others', and KūP 1.10.13 lists Sananda first. The claim should be dropped or sourced (Phase D).",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -94106,10 +95192,25 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Śaunaka (of Naimiṣa) (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 1.1.4; 1.4.1"
+     ],
+     "result": "confirmed",
+     "note": "BhP 1.1.4 (the thousand-year sattra at Naimiṣa) and 1.4.1 ('vṛddhaḥ kulapatiḥ ... śaunakaḥ') located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -94238,10 +95339,26 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Sāvarṇi (paurāṇika) (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 3.6.17-18",
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 12.7.5-7"
+     ],
+     "result": "confirmed",
+     "note": "VP 3.6.17-18 and BhP 12.7.5-7 located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -96984,10 +98101,25 @@
   ],
   "summary": "King of Mālava who renounced his kingdom for forest austerities but found no peace until his wife Cūḍālā, disguised as Kumbha, taught him that renunciation of everything includes renunciation of the mind that renounces.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "MU 6.81-114"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "See Cūḍālā; śikhidhvajapravrajyā 6.88, sarvatyāga 6.96.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -97558,6 +98690,20 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press)"
+     ],
+     "result": "confirmed",
+     "note": "AR 1.1.32-43 ('rāmaṃ viddhi paraṃ brahma ...').",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -97762,6 +98908,23 @@
      "result": "confirmed",
      "note": "All cited references located.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)",
+      "local:sources_raw/raw_etexts/kAvyam/padyam/peterFreund/stotram/guru_gita.md (Ganeshpuri recension)",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Speaker of the Īśvara Gītā (KP 2.1-11), Śiva Gītā, Guru Gītā and Rudra Gītā (BhP 4.24.33-79); verified in each local text.",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -99996,6 +101159,21 @@
      "result": "confirmed",
      "note": "Confirmed, including the c. 1350–1450 date.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Śrīdhara Svāmin (local e-texts / web)"
+     ],
+     "evidence": [
+      "https://www.researchgate.net/publication/343846329_Why_Sridhara_Svami_The_Makings_of_a_Successful_Sanskrit_Commentary",
+      "https://www.wisdomlib.org/history/book/studies-in-indian-literary-history/d/doc1474985.html"
+     ],
+     "result": "confirmed",
+     "note": "Web: Bhāvārthadīpikā composed mid-14th to mid-15th c.; commentaries on the Viṣṇu Purāṇa and Gītā; the entry's c. 1350-1450 is right.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -101920,6 +103098,20 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Śuka (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 6.3.20; 12.5.11"
+     ],
+     "result": "confirmed",
+     "note": "BhP 6.3.20 'vaiyāsakiḥ' among the twelve and the Bhāgavata frame located.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -102243,10 +103435,25 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Sumati ('Jaḍa') (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 10.8-9"
+     ],
+     "result": "confirmed",
+     "note": "MkP 10.8-9 'sumatir nāma ... brāhmaṇo bhārgavaḥ kaścit sutam āha ... jaḍarūpiṇam' located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -102910,10 +104117,25 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Suratha (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 81.3; 93.17"
+     ],
+     "result": "confirmed",
+     "note": "MkP 81.3 ('caitravaṃśasamudbhavaḥ suratho nāma') and 93.17 (to be Sāvarṇi Manu) located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -108426,10 +109648,25 @@
    "A3"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/rAmacharitamAnasa/"
+     ],
+     "result": "confirmed",
+     "note": "Author of the Rāmcaritmānas passages (local Gita Press text).",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "alt_summary": [
    "In U06's texts: author of the Rāmcaritmānas passages known as the Lakṣmaṇa Gītā and the Vibhīṣaṇa Gītā; he drew on the Adhyātma Rāmāyaṇa (Śiva-Pārvatī frame, Śabarī's nine devotions)."
@@ -109127,10 +110364,39 @@
   ],
   "summary": "Kṛṣṇa's cousin, counsellor and devotee; recipient of the Uddhava Gītā. Earlier Kṛṣṇa sent him to Vraja, where he learned from the gopīs' love (Bhāgavata 10.46-47). At the end of the teaching he departs for Badarikāśrama (11.29).",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Recipient of the Uddhava Gītā (BhP 11.6.40-11.29); sent to Vraja in BhP 10.47, where he wishes to be a creeper touched by the gopīs' feet (10.47.61).",
+     "by": "sourcing:U06-other-gitas"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Uddhava (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 10.47; 11.14"
+     ],
+     "result": "confirmed",
+     "note": "BhP 10.47.34-36, 10.47.61 and the Uddhava Gītā (11.14-15) located.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "coverage": [
    "A3",
@@ -109414,6 +110680,20 @@
      "result": "confirmed",
      "note": "Located as entered.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Ugraśravas (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 1.2.1; 1.4.1; 12.7.6"
+     ],
+     "result": "confirmed",
+     "note": "BhP 12.7.6 (the Sūta learned all the saṃhitās), 1.2.1 ('raumaharṣaṇiḥ'), 1.4.1 (Śaunaka questions the Sūta) located.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -110146,6 +111426,22 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "catalog+websearch",
+     "queries": [
+      "Upamanyu (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_zivapurANabooks-1-and-7.txt (Venkateshwara ed.) 7.2.12; 7.2.37",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/linga-purANam.md 1.107.2",
+      "https://www.wisdomlib.org/hinduism/book/the-linga-purana/d/doc1196087.html"
+     ],
+     "result": "confirmed",
+     "note": "ŚiP 7.2.12.2 and 7.2.37.5 (Upamanyu teaches Kṛṣṇa) located; LiP 1.107 Upamanyu story located locally (1.107.2) and confirmed on the web (the milk story).",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -112658,6 +113954,20 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "MU 1.1.5-18"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "MU 1.1: Brahmā grants Bharadvāja a boon and sends him to his teacher Vālmīki (1.1.7-11), who tells the Mokṣopāya (1.1.5 'bharadvājāya'). The entry's summary fits.",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -113553,10 +114863,27 @@
   ],
   "summary": "The king to whom Gajānana teaches the Gaṇeśa Gītā; in the Gaṇeśa Purāṇa Gaṇeśa had been born in his house.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Gajanana born to King Varenya Pushpika Ganesha Purana"
+     ],
+     "evidence": [
+      "https://en.wikipedia.org/wiki/Ganesha_Purana",
+      "https://www.hindujagruti.org/hinduism/ganesh-avatars",
+      "local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915)"
+     ],
+     "result": "confirmed",
+     "note": "In the Gaṇeśa Purāṇa the Gajānana avatāra is born as the son of Vareṇya and Puṣpikā and raised by Parāśara; the Gaṇeśa Gītā is his teaching to Vareṇya.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -113908,6 +115235,21 @@
      "result": "confirmed",
      "note": "Epic role located; Rāmāyaṇa preceptor role consistent with the text.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)",
+      "local:sources_raw/raw_etexts/mixed/mukta/vedAnta/valmiki/ and unknown_Anandabodhendra/ (Yogavāsiṣṭha vulgate with Tātparyaprakāśa, Nirṇaya Sāgara ed.; Muktabodha M00335-M00339, M00345)"
+     ],
+     "result": "confirmed",
+     "note": "Teacher of Rāma throughout the Mokṣopāya / Yoga Vāsiṣṭha.",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -115630,6 +116972,20 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/rAmacharitamAnasa/06_lankAkANDa.md"
+     ],
+     "result": "confirmed",
+     "note": "RCM Laṅkā, before dohā 80.",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -116200,6 +117556,21 @@
      "result": "confirmed",
      "note": "Confirmed: the Jīvanmuktiviveka treats vividiṣā- and vidvat-saṃnyāsa, and vāsanākṣaya, manonāśa and tattvajñāna, drawing on the Saṃnyāsa Upaniṣads and the Yoga Vāsiṣṭha.",
      "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Vidyaranya Jivanmuktiviveka Yoga Vasistha vasanakshaya manonasha"
+     ],
+     "evidence": [
+      "https://www.advaita-vedanta.org/archives/advaita-l/2007-October/019507.html",
+      "https://www.vedantahub.org/jivanmukti-viveka/"
+     ],
+     "result": "confirmed",
+     "note": "The Jīvanmuktiviveka builds its account of vāsanākṣaya and manonāśa on quotations from the (Laghu) Yoga Vāsiṣṭha.",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -117825,14 +119196,54 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Viṣṇucitta (local e-texts / web)"
+     ],
+     "evidence": [
+      "https://engagedscholarship.csuohio.edu/clphil_facpub/69/"
+     ],
+     "result": "confirmed",
+     "note": "Web: Viṣṇucitta, author of the Viṣṇucittīya on the Viṣṇu Purāṇa, c. 12th c., pupil of Piḷḷāṉ (a direct disciple of Rāmānuja). The entry had no date ('dating not checked'); a dating is supplied.",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "alt_summary": [
    "Śrīvaiṣṇava author of the Viṣṇucittīya commentary on the Viṣṇu Purāṇa (dating not checked in this sweep)."
   ],
+  "correction_log": [
+   {
+    "field": "dating",
+    "old": null,
+    "new": {
+     "scholarly": {
+      "text": "c. 12th c. CE; pupil of Piḷḷāṉ, a direct disciple of Rāmānuja",
+      "from": 1100,
+      "to": 1200
+     },
+     "confidence": "moderate"
+    },
+    "reason": "Web: Viṣṇucitta, author of the Viṣṇucittīya on the Viṣṇu Purāṇa, c. 12th c., pupil of Piḷḷāṉ (a direct disciple of Rāmānuja). The entry had no date ('dating not checked'); a dating is supplied.",
+    "date": "2026-09-29 18:11 IST",
+    "by": "sourcing:U07-puranas"
+   }
+  ],
+  "dating": {
+   "scholarly": {
+    "text": "c. 12th c. CE; pupil of Piḷḷāṉ, a direct disciple of Rāmānuja",
+    "from": 1100,
+    "to": 1200
+   },
+   "confidence": "moderate"
+  },
   "provenance": {
    "units": [
     "skeleton:U14-visistadvaita",
@@ -118085,6 +119496,20 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "MU 1.5-8 colophons"
+     ],
+     "evidence": [
+      "local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text)"
+     ],
+     "result": "confirmed",
+     "note": "MU colophons viśvāmitrābhyāgamana (1.5) and viśvāmitravākya (1.6; 2.2).",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },
@@ -118896,10 +120321,27 @@
   ],
   "summary": "In U06's context (recent reception): he often quoted the Avadhūta Gītā and the Aṣṭāvakra Gītā; Ramakrishna is remembered as having had him read the Aṣṭāvakra Saṃhitā.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Vivekananda Ashtavakra Samhita Ramakrishna",
+      "Avadhuta Gita Vivekananda"
+     ],
+     "evidence": [
+      "https://en.wikipedia.org/wiki/Ashtavakra_Gita",
+      "https://en.wikipedia.org/wiki/Avadhuta_Gita"
+     ],
+     "result": "confirmed",
+     "note": "Ramakrishna had Narendra read the Aṣṭāvakra Saṃhitā to him; Vivekananda often quoted the Avadhūta Gītā.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -118969,10 +120411,25 @@
    "A9"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Vopadeva (local e-texts / web)"
+     ],
+     "evidence": [
+      "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1113123.html"
+     ],
+     "result": "confirmed",
+     "note": "Web: grammarian, protégé of Hemādri at the Yādava court of Devagiri (latter 13th c.), author of the Muktāphala and Harilīlāmṛta; the claim that he wrote the Bhāgavata was made by its opponents and is rejected (e.g. Madhva used the text earlier).",
+     "by": "sourcing:U07-puranas"
+    }
+   ]
   },
   "alt_summary": [
    "U25 contribution: compiler of the Muktāphala, an arrangement of Bhāgavata verses under the themes of devotion, commented on by Hemādri."
@@ -119589,6 +121046,37 @@
      "result": "confirmed",
      "note": "Roles located; the Apāntaratamas identification is at 12.337.54. Semi-legendary historicity and tradition dating as entered.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md",
+      "local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40)"
+     ],
+     "result": "confirmed",
+     "note": "Traditional author of the Bhāgavata, Kūrma and Devī Bhāgavata Purāṇas as the entry states. Vyāsa speaks the Kūrma's Vyāsa Gītā (2.12 ff.) and narrates the Devī Gītā.",
+     "by": "sourcing:U06-other-gitas"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "Vyāsa (local e-texts / web)"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 3.6.15-16; 3.4.8-9",
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md 1.11.279-280"
+     ],
+     "result": "confirmed",
+     "note": "Tradition's account located: VP 3.6.15-16 (Purāṇa-saṃhitā to Romaharṣaṇa), KūP 1.11.279-280 (eighteen by Vyāsa, Upapurāṇas by his disciples), VP 3.4.8-9 (Paila, Vaiśampāyana, Jaimini, Sumantu), BhP 12.7.5-7.",
+     "by": "sourcing:U07-puranas"
     }
    ]
   },
@@ -121105,10 +122593,25 @@
   ],
   "summary": "Ancestor-king of the Yādavas who questions a carefree young avadhūta brāhmaṇa about the source of his peace and hears of his twenty-four teachers (Bhāgavata 11.7.25-11.9.33).",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md"
+     ],
+     "result": "confirmed",
+     "note": "Questions the avadhūta, BhP 11.7.25-30.",
+     "by": "sourcing:U06-other-gitas"
+    }
+   ]
   },
   "coverage": [
    "A3"
@@ -121495,6 +122998,22 @@
      "result": "confirmed",
      "note": "Located as described.",
      "by": "sourcing:U05-gita-epic"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "role located in the local text"
+     ],
+     "evidence": [
+      "local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_narasiMhapurANa.txt",
+      "local:sources_raw/dcs/corpus/GRETIL/sa_agnipurANa.txt"
+     ],
+     "result": "confirmed",
+     "note": "VP 3.7.14; NrP 8; Agni 381.",
+     "by": "sourcing:U06-other-gitas"
     }
    ]
   },

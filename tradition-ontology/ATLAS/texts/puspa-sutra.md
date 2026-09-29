@@ -19,4 +19,4 @@ _Notes: Authorship reports recalled from memory; to be checked._
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/pushpasutra, https://ignca.gov.in/the-puspasutra-a-pratisakhya-of-the-samaveda/ — Confirmed: a Sāmaveda prātiśākhya-type sūtra on the transformation of ṛcs into sāmans (stobha, vikāra); 'ascribed to Gobhila or to Vararuci' — the northern recension names Gobhila, the southern Vararuci (IGNCA edition, 10 prapāṭhakas). Not in the local catalogue.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._

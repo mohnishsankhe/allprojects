@@ -15,11 +15,11 @@ Reasoned reflection on what has been heard, removing doubts and contrary views �
   - [Yogadīpikā (Nārāyaṇa Paṇḍitācārya)](../texts/yogadipika-narayana-pandita.md) — ref: 1.12; rests_on: ["tea:yogadipika-narayana-pandita:1.6-14"]
   - [Vedāntasāra](../texts/vedantasara.md) — ref: manana; rests_on: ["tea:vedantasara:sravana"]
   - [Bṛhadāraṇyaka Upaniṣad](../texts/brhadaranyaka-upanisad.md) — ref: 2.4.5; 4.5.6; rests_on: ["tea:brhadaranyaka-upanisad:2.4.5", "tea:brhadaranyaka-upanisad:4.5.6"]
-**Sequences:** [The Dvaita sequence of means (sādhana-krama)](../paths/dvaita-sadhana-krama.md), `pth:advaita-sadhana`
+**Sequences:** [The Dvaita sequence of means (sādhana-krama)](../paths/dvaita-sadhana-krama.md), [The Advaita course of practice: purification → fourfold means → hearing, reflection, contemplation → liberation while living → bodiless liberation](../paths/advaita-sadhana.md)
 
 ---
 **Verification checks**
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 2.4.5; BĀU 4.5.6). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._

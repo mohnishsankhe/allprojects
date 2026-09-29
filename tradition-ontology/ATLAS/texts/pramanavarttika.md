@@ -52,7 +52,7 @@ The Blessed One is likewise a means of valid cognition; the word 'become' (bhūt
 
 _level: conventional · standpoint: devotional · path: knowledge, devotion · stage: all · types: teacher-transmission, dispute_
 
-terms: [pramāṇa-bhūta](../terms/pramanabhuta.md) · concepts: [The Buddha as a person of valid cognition](../concepts/buddha-as-pramana.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Can any person be omniscient, in particular directly know dharma?](../debates/omniscience.md)
+terms: [pramāṇa-bhūta](../terms/pramanabhuta.md) · concepts: [The Buddha as a person of valid cognition](../concepts/buddha-as-pramana.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md), [Can any person be omniscient, in particular directly know dharma?](../debates/omniscience.md)
 
 ### 1.10 <a id="tea-pramanavarttika-1-10"></a>
 `skeleton` · confidence high
@@ -63,7 +63,7 @@ There is no permanent means of knowledge, since validity is the apprehension of 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
 
 ### 1.34-35 <a id="tea-pramanavarttika-1-34-35"></a>
 `skeleton` · confidence high
@@ -158,7 +158,7 @@ The means of knowledge is twofold because the object is twofold — capable or i
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [paramārthasat](../terms/paramarthasat.md), [saṃvṛtisat](../terms/samvrtisat.md), [arthakriyā](../terms/arthakriya.md), [svalakṣaṇa](../terms/svalaksana.md), [sāmānyalakṣaṇa](../terms/samanyalaksana.md) · concepts: [Only two means of valid cognition](../concepts/two-pramanas.md), [Particular and universal (svalakṣaṇa / sāmānyalakṣaṇa)](../concepts/svalaksana-samanyalaksana.md), [The two truths in the pramāṇa school](../concepts/two-truths-pramana.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+terms: [paramārthasat](../terms/paramarthasat.md), [saṃvṛtisat](../terms/samvrtisat.md), [arthakriyā](../terms/arthakriya.md), [svalakṣaṇa](../terms/svalaksana.md), [sāmānyalakṣaṇa](../terms/samanyalaksana.md) · concepts: [Only two means of valid cognition](../concepts/two-pramanas.md), [Particular and universal (svalakṣaṇa / sāmānyalakṣaṇa)](../concepts/svalaksana-samanyalaksana.md), [The two truths in the pramāṇa school](../concepts/two-truths-pramana.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [How many means of valid knowledge (pramāṇa) are there?](../debates/number-of-pramanas.md)
 
 ### 2.123-124 <a id="tea-pramanavarttika-2-123-124"></a>
 `skeleton` · confidence high
@@ -244,7 +244,7 @@ Some say the authorless (Veda) is true in meaning, because the faults causing fa
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, sound-language_
 
-terms: [apauruṣeya](../terms/apauruseya.md), [saṃketa](../terms/samketa.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [apauruṣeya](../terms/apauruseya.md), [saṃketa](../terms/samketa.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 ### 3.273-276 <a id="tea-pramanavarttika-3-273-276"></a>
 `skeleton` · confidence moderate
@@ -262,8 +262,8 @@ Against those who say a thesis may be something the proponent himself has not se
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
-terms: [āgama](../terms/agama.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+terms: [āgama](../terms/agama.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._

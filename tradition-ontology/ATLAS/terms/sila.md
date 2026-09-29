@@ -21,4 +21,4 @@
 **Related:** [sikkhā](sikkha.md), [pātimokkha](patimokkha.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U20-virasaiva, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U40-madhyamaka. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U20-virasaiva, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._

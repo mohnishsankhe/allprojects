@@ -15,4 +15,4 @@ Having cast an unmoving gaze on some gross object and quickly making the mind su
 _Notes: Verses 80 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._

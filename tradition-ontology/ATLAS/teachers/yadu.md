@@ -1,6 +1,6 @@
 # Yadu
 
-`tch:yadu` · `skeleton` · confidence high
+`tch:yadu` · `sourced` · confidence high
 
 **Lineages:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
 **Historicity:** legendary
@@ -10,4 +10,8 @@ Ancestor-king of the Yādavas who questions a carefree young avadhūta brāhma�
 **Realization — the tradition's account:** Hearing the avadhūta, Yadu became free of all attachment and even-minded (Bhāgavata 11.9.33).
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — Questions the avadhūta, BhP 11.7.25-30.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

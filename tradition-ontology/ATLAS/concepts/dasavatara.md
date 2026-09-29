@@ -14,4 +14,4 @@
 - is-a → [The Lord's descent (avatāra / prādurbhāva)](avatara.md) — rests on [1.astapadi-1](../texts/gita-govinda.md#tea-gita-govinda-1-astapadi-1)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._

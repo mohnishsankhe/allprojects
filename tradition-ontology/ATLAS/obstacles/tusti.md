@@ -14,4 +14,4 @@ Nine false contentments (SK 50): resting content with knowing prakṛti; with ou
   - [Sāṃkhyakārikābhāṣya of Gauḍapāda](../texts/samkhya-karika-bhasya-gaudapada.md) — ref: 50; rests_on: ["tea:samkhya-karika-bhasya-gaudapada:50"]
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._

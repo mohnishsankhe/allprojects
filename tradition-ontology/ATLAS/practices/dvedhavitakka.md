@@ -12,4 +12,4 @@ Noting whether a thought is of sensuality, ill will or cruelty (to be abandoned)
   - [Dvedhāvitakka Sutta](../texts/dvedhavitakka-sutta.md) — ref: 2-11; rests_on: ["tea:dvedhavitakka-sutta:2-11"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._

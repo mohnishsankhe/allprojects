@@ -69,10 +69,10 @@ What makes a woman a Paṟaicci, what makes her a Brahmin woman (paṉatti)? Is 
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: ethics, dispute_
 
-terms: [cāti](../terms/cati.md) · concepts: [The Siddhar critique of caste](../concepts/siddhar-critique-of-caste.md) · teachers: [Sivavākkiyar (Civavākkiyar)](../teachers/sivavakkiyar.md) · disputes: `dsp:women-caste-liberation`
+terms: [cāti](../terms/cati.md) · concepts: [The Siddhar critique of caste](../concepts/siddhar-critique-of-caste.md) · teachers: [Sivavākkiyar (Civavākkiyar)](../teachers/sivavakkiyar.md) · disputes: [Can women, and people of every birth (varṇa, jāti), attain liberation — and are they eligible for the scriptures, initiation and renunciation that lead to it?](../debates/women-caste-liberation.md)
 
 
 _Notes: Not in the local e-text set; verse numbers are not used for teachings (cited by incipit)._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._

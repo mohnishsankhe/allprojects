@@ -20,4 +20,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U30-ayurveda-rasa, skeleton:U19-kashmir-saivism, skeleton:U17-pasupata-kapalika, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U30-ayurveda-rasa, skeleton:U19-kashmir-saivism, skeleton:U17-pasupata-kapalika, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

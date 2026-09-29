@@ -14,4 +14,4 @@
 Aṅkīyā nāṭ on Rāma's winning of Sītā, composed late in Śaṅkaradeva's life at the Koch court. Performed as bhāonā with a sūtradhāra who sings, dances and explains.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._

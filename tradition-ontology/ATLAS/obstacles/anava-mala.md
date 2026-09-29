@@ -14,4 +14,4 @@ The soul's innate darkness, one substance with many powers, which hides even its
   - [Śivasūtra](../texts/siva-sutra.md) — ref: 1.2; rests_on: ["tea:siva-sutra:1.2"]
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._

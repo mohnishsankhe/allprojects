@@ -27,4 +27,4 @@ Gelug scholars (e.g. Pari Rabsel, Drakar Lobzang Palden) defended Tsongkhapa: th
 **The traditions' own objections:** Gelug scholars reject the claim that their view is only the 'enumerated' ultimate.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._

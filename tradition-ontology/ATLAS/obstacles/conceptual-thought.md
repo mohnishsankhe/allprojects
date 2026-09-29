@@ -13,4 +13,4 @@ Conceptual thought (rnam rtog) is the enemy destroyed by the siddhas' realizatio
   - [Mahāmudropadeśa of Tilopa (the Gaṅgā Mahāmudrā)](../texts/ganga-mahamudra.md) — ref: v10; rests_on: ["tea:ganga-mahamudra:v10"]
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._

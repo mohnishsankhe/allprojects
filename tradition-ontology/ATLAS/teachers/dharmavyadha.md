@@ -15,5 +15,6 @@ A meat-seller who, living by his inherited work, serving his parents and speakin
 **Verification checks**
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 3.197.41, 3.198.19, 3.205.1 — Located as described.
+- 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh03.json (BORI critical edition) — MBh CE 3.198-206 (Mithilā, 198.2-4).
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._

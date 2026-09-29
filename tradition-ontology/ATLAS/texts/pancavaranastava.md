@@ -15,4 +15,4 @@ Aghoraśiva's hymn describing, for visualization, Sadāśiva and the five enclos
   - kind: original; name: ed. D. Goodall et al., The Pañcāvaraṇastava of Aghoraśivācārya (IFP/EFEO, 2005)
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:02 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._

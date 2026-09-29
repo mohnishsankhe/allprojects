@@ -1,6 +1,6 @@
 # Bhikṣu Gītā
 
-`src:bhiksu-gita` · `skeleton` · confidence high
+`src:bhiksu-gita` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -17,4 +17,8 @@
 The mendicant's song: neither people, gods, the body, planets, karma nor time cause one's joy and sorrow; the mind alone turns the wheel of saṃsāra; all disciplines culminate in mastery of the mind, and the supreme yoga is its samādhi. It also lists fifteen evils rooted in wealth.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:02 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — BhP 11.23: story 11.23.6 (the Avantī brāhmaṇa) to 11.23.41 (he sang this song), song 11.23.42-57; confirmed.
+
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._
