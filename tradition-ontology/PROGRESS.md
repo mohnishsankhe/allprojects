@@ -57,7 +57,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U42-chan-zen | done | 143 src · 228 tch · 244 tea (189 with verified CBETA original) · 11 dsp | REPORT.md; Japanese texts not local |
 | U43-pure-land | running | | |
 | U44-indian-vajrayana | running | | |
-| U45-nyingma-bon | running | | |
+| U45-nyingma-bon | done | 125 src · 82 tch · 101 tea (23 read in Derge) · 43 prc (8 restricted) · 5 dsp | REPORT.md; Seventeen Tantras, Longchenpa, Bön not local |
 | U46-kagyu | running | | |
 | U47-sakya-kadam-gelug | running | | |
 | U48-jonang-chod-medicine-rime | running | | |
@@ -82,6 +82,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U02-brahmana-vedanga | done — 723 checked: 689 confirmed · 17 partial · 17 corrected · 0 not-found (157 terms not in scope) |
 | U03-principal-upanisads | done — 736 checked: 729 confirmed · 2 partial · 5 corrected (fabricated default edition strings) · 0 not-found |
 | U04-minor-upanisads | running |
+| U06-other-gitas | running |
 ### Sweep follow-ups (for Phase D / S5 / later sweeps)
 - C-U05: tea:moksadharma:12.289 — the arrow-maker simile is at 12.171.61, not 12.289 (12.289.31 has an archer); fix in extraction. tch:hanuman summary says "four sciences" but MBh 3.149.31 says three (tisro vidyāḥ) — shared by U04/U06/U05, fix in S5. U13 sweep: check tch:sankara's dating framing (788–820 CE is the older scholarly convention, not "most maṭha traditions"; Kāñcī gives 509–477 BCE). tea:vyadha-gita:3.197 has ref "3.196-197".
 

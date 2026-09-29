@@ -132,3 +132,16 @@ Conservative choices made without asking, with reasons. Newest last.
 - **Errata for the post-ch18 correction pass:**
   - misspellings: 10.1 and 10.18 śrṛ-; 10.14 vyakitaṃ; 10.29 stray nukta; 10.41 tejoṃ'śa-; 11.6 and 11.22 aśivanau; 11.51 tavasaumyaṃ; 11.54 dṛṣṭuṃ; 12.17 and 12.19 bhakitamān;
   - layout: 12.1 and 12.2 headings fused to the verse; ch12 segments lack line breaks; lines broken inside sandhi at 11.15, 11.17, 11.19, 11.29, 11.30, 11.38, 11.46 and 11.48.
+
+## 2026-09-29 17:27 IST — U45 (Nyingma, Dzogchen, Bön) decisions (reported by the unit; recorded by the orchestrator)
+- **Bön family.** lin:bon, lin:zhang-zhung-nyengyu and lin:bon-sar take family "shared" and are marked optional. Bön is neither Vedic nor an Indian śramaṇa tradition; it is kept because the brief allows it as optional.
+- **Homonym ids.**
+  - trm:mahayoga-nyingma and trm:anuyoga-nyingma stay separate from the haṭha trm:mahayoga and the Jain trm:anuyoga.
+  - tch:samantabhadra-adibuddha (the primordial buddha) stays separate from tch:samantabhadra (the bodhisattva).
+- **Recent flags.** Getse Paṇḍita and Jigme Gyalwai Nyugu are flagged recent. Jigme Trinle Özer (1745–1821) and Jigme Lingpa (1730–1798) are not.
+- **No bands for doxographies.** pth:nyingma-nine-vehicles and pth:bon-nine-ways get no B0–B8 bands. They rank vehicles; they are not stages of one person's path.
+- **Reconcile queue.** The queued disputes dsp:authenticity-of-nyingma-tantras, dsp:authenticity-of-terma and dsp:bon-and-buddhism reach RECONCILE_QUEUE.md through the merge, which regenerates it. The unit's labels RQ-U45-1, -2 and -3 are not used.
+- **Corrections found in the local Derge texts.**
+  - Kunjed Gyalpo has 84 chapters, and its ch. 31 is the Cuckoo of Awareness.
+  - The Dupa Do has 75 chapters.
+  - The Guhyagarbha has 22 chapters, and its "e ma'o" stanza is in ch. 2.
