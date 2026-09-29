@@ -83,10 +83,20 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U03-principal-upanisads | done — 736 checked: 729 confirmed · 2 partial · 5 corrected (fabricated default edition strings) · 0 not-found |
 | U04-minor-upanisads | done — 915 checked: 772 confirmed · 20 partial · 123 corrected (95 default Adyar edition strings; overlong verse ranges) · 0 not-found |
 | U06-other-gitas | running |
-| U07-puranas | running |
+| U07-puranas | done — 470 checked: 453 confirmed · 11 partial · 6 corrected · 0 not-found |
 | U08-agama-catalogue | running |
 | U09-samkhya | running |
+| U10-yoga | running |
 ### Sweep follow-ups (for Phase D / S5 / later sweeps)
+- C-U07:
+  - tea:garuda-purana:1.142 and cpt:avatara-lists: GP 1.142 is titled daśāvatāra, but its list lacks Vāmana, Kṛṣṇa, Buddha and Kalki. Do not cite it for the standard ten.
+  - tea:narada-purana:1.92-109: the paraphrase still names Sanandana; the speaker is Sanātana.
+  - tea:padma-purana:nama-aparadha: the edition reads 'śubhasya śrīviṣṇoḥ', where the Gauḍīya citation has 'śivasya'.
+  - tch:sanatkumara: 'eldest of the Kumāras' is unsupported.
+  - tea:garuda-purana:2.49: 'devotion to Viṣṇu' is not in the chapter.
+  - tea:agni-purana:376-379: 'the world is superimposed' was not located.
+  - LiP 1.8.2 and the prc:hrt-padma-dhyana warning soften the text; 'Śrīkaṇṭha' is not in ŚiP 7.2.39.
+  - Local texts the unit missed: Padma (peterFreund, eBhāratī), Devī Bhāgavata (eBhāratī), full Matsya and Mārkaṇḍeya (peterFreund), early Skanda (sarit), and upapurāṇas on Muktabodha.
 - C-U04:
   - tea:yogatattva-upanisad:12-13 and obs:yogatattva-twenty-dosas: the text says the freed jīva is "kevala"; only Yogaśikhā 1.11 has "śiva ucyate".
   - tea:amrtanada-upanisad:2-3: the seeker is "devoted to Rudra", not going to Rudra's world.

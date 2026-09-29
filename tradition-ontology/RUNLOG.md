@@ -22,3 +22,4 @@
 - 2026-09-29 17:45 IST  U46, U47 skeletons and C-U04 sweep done (REPORTs saved; decisions logged). Convergence: Chan/Zen, Pure Land and Kagyu branches now count once (Shangpa own root). U46→U47 id remaps. Launched ch16-18 B, U51, C-U08. Merge + atlas.
 - 2026-09-29 17:51 IST  U48 skeleton done (REPORT saved; decisions logged). U52 launched.
 - 2026-09-29 18:02 IST  Gītā ch13-15 M done (88 tea); ch. 13 vulgate→edition shift added to merge.py for skeleton shards (DECISIONS). ch16-18 A done (137). Launched ch13-15 F and C-U09. Merge + atlas.
+- 2026-09-29 18:05 IST  C-U07 sweep done (470: 453 conf · 11 partial · 6 corr · 0 nf). C-U10 launched.
