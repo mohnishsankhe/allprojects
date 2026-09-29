@@ -1,0 +1,86 @@
+{
+  "_note": "Deterministic safety layer. Runs BEFORE any mapping and before any model call. Matching is case-insensitive on the whole input (intake answers + free text). The model safety screen (config/model_routing.json: safety_screen) may ADD flags; it can never remove a flag set here. Precedence: minor > crisis categories > disordered_eating > medical_condition. When in doubt, stop the reading and show resources.",
+  "version": "1.0",
+  "categories": {
+    "crisis_suicide": {"route": "stop_crisis", "patterns": [
+      "\\b(kill|killing|end|ending|take|taking)\\s+(myself|my own life|my life)\\b",
+      "\\bsuicid(e|al)\\b",
+      "\\b(want|wanted|wish|wishing)\\s+(to\\s+)?(die|be dead|not be alive|not exist|not wake up|disappear forever)\\b",
+      "\\bno (reason|point) (to|in) (live|living|go on|going on|being alive)\\b",
+      "\\b(don'?t|do not|can'?t|cannot) (want to )?(go on|keep going|live) (anymore|any more|like this anymore)\\b",
+      "\\bbetter off (dead|without me)\\b",
+      "\\bend it all\\b",
+      "\\b(plan|planning|plans) to (die|end it)\\b",
+      "\\b(overdose|hang myself|jump off (a|the) (bridge|building|roof))\\b",
+      "\\beveryone would be better off\\b",
+      "\\bthoughts of (dying|death|ending)\\b"
+    ]},
+    "self_harm": {"route": "stop_crisis", "patterns": [
+      "\\b(cut|cutting|burn|burning|hurt|hurting|harm|harming|hit|hitting)\\s+(myself|my (arms?|wrists?|legs?|thighs?|skin|body))\\b",
+      "\\bself[- ]?harm(ing)?\\b",
+      "\\b(razor|blade)s? (on|to) (my|me)\\b"
+    ]},
+    "abuse": {"route": "stop_crisis", "patterns": [
+      "\\b(he|she|they|my (husband|wife|partner|boyfriend|girlfriend|father|mother|dad|mum|mom|stepfather|stepmother|stepdad|stepmom|boss|uncle|aunt|brother|sister|in-laws?|father-in-law|mother-in-law))\\s+(hits|hit|beats|beat|hurts|chokes|choked|slaps|slapped|kicks|kicked|rapes|raped|abuses|abused|molests|molested|threatens|threatened|locks|locked)\\s+(me|us|my children|my kids)\\b",
+      "\\b(being|been|was|am|get|got)\\s+(abused|beaten|assaulted|raped|molested|trafficked|hit|choked)\\b",
+      "\\b(sexual|physical|domestic|emotional) (abuse|violence|assault)\\b",
+      "\\bafraid (he|she|they)('ll| will)? (hurt|kill) me\\b",
+      "\\bnot safe at home\\b",
+      "\\b(forces|forced|forcing) me to have sex\\b"
+    ]},
+    "psychosis": {"route": "stop_crisis", "patterns": [
+      "\\bhearing voices\\b",
+      "\\bvoices? (tell|tells|telling|told|command|commands) me\\b",
+      "\\b(hear|hearing) (voices|people talking) (that )?(no one|nobody) else\\b",
+      "\\b(see|seeing|saw) (things|people) (that )?(aren'?t|are not|weren'?t|nobody else|no one else)\\b",
+      "\\b(they|people|someone|the neighbou?rs|the government) (are|is) (watching|following|controlling|poisoning|spying on|reading) (me|my (mind|thoughts))\\b",
+      "\\b(tv|television|radio|phone|government|aliens?) (is|are) (sending|talking to|controlling|reading) (me|my)\\b",
+      "\\bthoughts (are )?(being )?(inserted|put into my head|broadcast|stolen)\\b",
+      "\\b(i am|i'm) (being )?(chosen|sent) (by god|by the gods|by the universe) to\\b"
+    ]},
+    "medical_emergency": {"route": "stop_crisis", "patterns": [
+      "\\bchest (pain|pains|tightness)\\b",
+      "\\b(can'?t|cannot|can not|struggling to) breathe\\b",
+      "\\b(having|had|think i'?m having) a (heart attack|stroke|seizure|fit)\\b",
+      "\\b(fainted|fainting|passed out|passing out|lost consciousness|unconscious)\\b",
+      "\\bbleeding (heavily|a lot|won'?t stop|that won'?t stop)\\b",
+      "\\btook (too many|an overdose of|a lot of|a bottle of|all my) (pills|tablets|medicine|medication)\\b",
+      "\\b(face|arm|one side) (is )?(drooping|numb|went numb)\\b",
+      "\\bcoughing (up )?blood\\b"
+    ]},
+    "disordered_eating": {"route": "continue_no_diet", "patterns": [
+      "\\b(starv(e|ing|ed)) (myself)\\b",
+      "\\bnot eat(en|ing) (for|in) (days|a week|weeks)\\b",
+      "\\b(make|made|making) myself (sick|throw up|vomit)\\b",
+      "\\bthrow(ing)? up after (eating|meals|food)\\b",
+      "\\bpurg(e|es|ing)\\b",
+      "\\b(binge|binges|binging|bingeing)\\b",
+      "\\blaxatives?\\b",
+      "\\bcount(ing)? every calorie\\b",
+      "\\b(afraid|scared|terrified) of (gaining weight|food|eating)\\b",
+      "\\b(anorexi|bulimi)\\w*\\b",
+      "\\beating disorder\\b",
+      "\\bskip(ping)? meals to (lose|stay thin)\\b",
+      "\\bpunish myself (with|by) (food|not eating|exercise)\\b"
+    ]},
+    "minor": {"route": "decline_minor", "patterns": [
+      "\\bi('m| am)\\s+(1[0-7]|[5-9])\\b(?!\\s*(%|percent|minutes|hours|days|weeks|months|kg|kilos|pounds|lbs|times|people|years? (of|in|at|since|ago|into)))",
+      "\\b(1[0-7]|[5-9])\\s*(years old|year old|yrs old|y/o|yo)\\b",
+      "\\bi('m| am) (a )?(minor|teenager|teen)\\b",
+      "\\bi('m| am) (in|still in) (high school|middle school|secondary school|junior high|grade ([1-9]|1[0-2])|class ([1-9]|1[0-2]))\\b",
+      "\\bunder 18\\b",
+      "\\bmy (school|class) teacher (said|says|gave)\\b"
+    ]},
+    "medical_condition": {"route": "continue_medical_note", "patterns": [
+      "\\b(diagnosed|diagnosis|medication|medications|meds|prescribed|prescription|antidepressants?|psychiatrist|therapist|in therapy|doctor|surgery|chemo(therapy)?|cancer|diabetes|diabetic|hypertension|blood pressure|thyroid|asthma|epilepsy|pregnan\\w*|migraines?|depression|depressed|anxiety disorder|panic attacks?|bipolar|ptsd|adhd|ocd|insomnia|sleep apnea|heart (condition|disease|problem)|arthritis|chronic pain|fibromyalgia|ibs|autoimmune|long covid)\\b"
+    ]}
+  },
+  "injection_patterns": [
+    "\\bignore (all |any |the |your )?(previous|prior|above|earlier) (instructions|rules|prompts?)\\b",
+    "\\b(system prompt|developer message|you are now|act as|pretend (to be|you are)|jailbreak|dan mode)\\b",
+    "\\b(diagnose|diagnosis of) me\\b",
+    "\\b(tell|predict|forecast) (me )?(my )?(future|fate|destiny)\\b",
+    "\\bwhat will happen (to me|in my life|next year)\\b",
+    "\\b(kundali|horoscope|birth chart|zodiac|nakshatra)\\b"
+  ]
+}

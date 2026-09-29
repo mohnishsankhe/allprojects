@@ -1,0 +1,43 @@
+{
+  "_note": "Automated scan for forbidden claims in ANY output (reports, pathways, posts). A hit blocks the text: the rules engine drops the sentence; the model engine rejects the output and falls back. Quoted teaching originals are exempt only inside the 'original' field. Patterns are case-insensitive.",
+  "version": "1.0",
+  "categories": {
+    "health_cure": [
+      "\\b(cure|cures|cured|curing|heal|heals|healed|healing) (your |the |my |their )?(anxiety|depression|insomnia|illness|disease|disorder|pain|trauma|condition|cancer|diabetes|blood pressure|migraines?|addiction|burnout|ptsd|adhd|ocd)\\b",
+      "\\b(treat|treats|treating|treatment for|therapy for|remedy for|remedies for|prescription for)\\b",
+      "\\b(clinically|scientifically|medically) (proven|shown|tested)\\b",
+      "\\b(reduces?|lowers?|boosts?|improves?|regulates?|balances?) (your )?(blood pressure|cortisol|heart rate|immunity|immune system|hormones?|serotonin|dopamine|blood sugar|metabolism|brain chemistry)\\b",
+      "\\bdetox(ify|es|ing)?\\b",
+      "\\b(anti-?anxiety|anti-?depressant|sleep aid)\\b",
+      "\\b(instead of|replace|stop taking|no need for) (your )?(medication|medicine|therapy|doctor|treatment)\\b",
+      "\\bhealth benefits?\\b"
+    ],
+    "diagnosis": [
+      "\\byou (have|suffer from|are suffering from|show signs of|display symptoms of|are showing symptoms of) (clinical |an? )?(depression|anxiety disorder|anxiety|ptsd|adhd|ocd|bipolar|insomnia|burnout syndrome|personality disorder|trauma)\\b",
+      "\\b(your|this|a) diagnosis\\b",
+      "\\byou are (depressed|bipolar|anxious by nature|mentally ill)\\b",
+      "\\b(symptoms?|disorder|syndrome|pathology|clinical)\\b"
+    ],
+    "prediction": [
+      "\\byou will (meet|find|become|get|win|lose|succeed|fail|marry|be (rich|successful|happy|healed|free|cured|calm))\\b",
+      "\\byou will (feel|be) (better|calmer|happier|healed|lighter|at peace)\\b",
+      "\\b(in|within) the (coming|next) (days|weeks|months|year|years)\\b.{0,40}\\b(will|going to)\\b",
+      "\\byour (future|fate|destiny) (is|will|holds)\\b",
+      "\\b(guarantee|guaranteed|guarantees|promise you)\\b",
+      "\\b(destined|fated) to\\b",
+      "\\bthis (week|month|year) will\\b",
+      "\\b(kundali|horoscope|zodiac|nakshatra|dasha|mahadasha|birth chart|saturn return|mercury retrograde|planetary (position|influence|transit))\\b"
+    ]
+  },
+  "allow_phrases": [
+    "this is not medical advice",
+    "not a diagnosis",
+    "not medical advice",
+    "does not diagnose",
+    "not a treatment",
+    "cannot predict",
+    "does not predict",
+    "does not interpret any health condition",
+    "continue your treatment"
+  ]
+}

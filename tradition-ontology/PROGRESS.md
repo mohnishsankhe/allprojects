@@ -5,13 +5,14 @@ Budget: 12 working hours. Phase budgets: P0 0:00–0:30 · P1 0:30–3:30 · P2 
 ## Work blocks (TZ=Asia/Kolkata)
 | block | start | end | phases | elapsed at end |
 |---|---|---|---|---|
-| 1 | 2026-09-29 18:28 IST | | P0– | |
+| 1 | 2026-09-29 18:27 IST | 2026-09-29 18:40 IST (session usage limit: all 9 running agents failed with HTTP 429) | P0 done; P1 started | 0:13 |
+| 2 | 2026-09-29 21:30 IST | | P1– | |
 
 ## Phase status
 | phase | status | notes |
 |---|---|---|
-| P0 Audit | running | |
-| P1 Ontology sufficiency | queued | |
+| P0 Audit | done (2026-09-29 18:39 IST) | AUDIT.md: ascetic lens has no user-facing entries yet; person-layer kleśa/hindrance/fetter/kaṣāya/vṛtti ids all skeleton; 20 spot-checks: 17 faithful, 3 partly; restricted-flag gaps listed |
+| P1 Ontology sufficiency | running (since 18:36 IST, early start in parallel with P0) | |
 | P2 Engine design | queued | |
 | P3 Build | queued | |
 | P4 Content engine | queued | |
