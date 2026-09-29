@@ -1,8 +1,182 @@
 {
  "engine": "rules",
- "created": 1790706817.4166386,
- "notices": [],
- "citations": {},
+ "created": 1790708986.3152614,
+ "notices": [
+  "There are not yet enough gentle practices in the texts' own terms that match what you described, so the pathway below is short."
+ ],
+ "citations": {
+  "tea:bhagavad-gita:2.60": {
+   "id": "tea:bhagavad-gita:2.60",
+   "source": "src:bhagavad-gita",
+   "title": "Bhagavad Gītā",
+   "ref": "2.60",
+   "original": "yatato hyapi kaunteya puruṣasya vipaścitaḥ|\nindriyāṇi pramāthīni haranti prasabhaṃ manaḥ",
+   "paraphrase": "Kṛṣṇa: for the turbulent (pramāthin) senses, son of Kuntī, forcibly carry off the mind (manas) even of a discerning person (vipaścit) who is striving.",
+   "level": "text-verified"
+  },
+  "tea:bhagavad-gita:2.67": {
+   "id": "tea:bhagavad-gita:2.67",
+   "source": "src:bhagavad-gita",
+   "title": "Bhagavad Gītā",
+   "ref": "2.67",
+   "original": "indriyāṇāṃ hi caratāṃ yanmano'nuvidhīyate|\ntadasya harati prajñāṃ vāyurnāvamivāmbhasi",
+   "paraphrase": "Kṛṣṇa: for when the mind (manas) is led along by the roving senses, it carries off his wisdom (prajñā), as the wind carries off a ship on the water.",
+   "level": "text-verified"
+  },
+  "tea:bhagavad-gita:5.22": {
+   "id": "tea:bhagavad-gita:5.22",
+   "source": "src:bhagavad-gita",
+   "title": "Bhagavad Gītā",
+   "ref": "5.22",
+   "original": "ye hi saṃsparśajā bhogā duḥkhayonaya eva te|\nādyantavantaḥ kaunteya na teṣu ramate budhaḥ",
+   "paraphrase": "Kṛṣṇa: for the enjoyments (bhoga) born of contact (saṃsparśa) are wombs of sorrow (duḥkha); they have a beginning and an end, son of Kuntī; the wise one does not delight in them.",
+   "level": "text-verified"
+  },
+  "tea:bhagavad-gita:6.11": {
+   "id": "tea:bhagavad-gita:6.11",
+   "source": "src:bhagavad-gita",
+   "title": "Bhagavad Gītā",
+   "ref": "6.11",
+   "original": "śucau deśe pratiṣṭhāpya sthiramāsanamātmanaḥ|\nnātyucchritaṃ nātinīcaṃ cailājinakuśottaram",
+   "paraphrase": "Kṛṣṇa: having set up for himself, in a clean place, a firm seat (āsana), neither too high nor too low, covered with cloth, deer-skin and kuśa grass,",
+   "level": "text-verified"
+  },
+  "tea:bhagavad-gita:6.13": {
+   "id": "tea:bhagavad-gita:6.13",
+   "source": "src:bhagavad-gita",
+   "title": "Bhagavad Gītā",
+   "ref": "6.13",
+   "original": "samaṃ kāyaśirogrīvaṃ dhārayannacalaṃ sthiraḥ|\nsaṃprekṣya nāsikāgraṃ svaṃ diśaścānavalokayan",
+   "paraphrase": "Kṛṣṇa: [continuing 6.12] holding body, head and neck in line (sama) and motionless, steady, gazing at the tip of his own nose (nāsikāgra) and not looking about in the directions,",
+   "level": "text-verified"
+  },
+  "tea:bhagavad-gita:6.16": {
+   "id": "tea:bhagavad-gita:6.16",
+   "source": "src:bhagavad-gita",
+   "title": "Bhagavad Gītā",
+   "ref": "6.16",
+   "original": "nātyaśnatastu yogo'sti na caikāntamanaśnataḥ|\nna cātisvapnaśīlasya jāgrato naiva cārjuna",
+   "paraphrase": "Kṛṣṇa: yoga is not for one who eats too much, nor for one who does not eat at all, nor for one given to too much sleep, nor for one who keeps (always) awake, Arjuna.",
+   "level": "text-verified"
+  },
+  "tea:bhagavad-gita:6.17": {
+   "id": "tea:bhagavad-gita:6.17",
+   "source": "src:bhagavad-gita",
+   "title": "Bhagavad Gītā",
+   "ref": "6.17",
+   "original": "yuktāhāravihārasya yuktaceṣṭasya karmasu|\nyuktasvapnāvabodhasya yogo bhavati duḥkhahā",
+   "paraphrase": "Kṛṣṇa: for one who is measured (yukta) in food and recreation (āhāra-vihāra), measured in exertion in actions, measured in sleep and waking, yoga becomes the destroyer of suffering (duḥkhahā).",
+   "level": "text-verified"
+  },
+  "tea:bhagavad-gita:6.23": {
+   "id": "tea:bhagavad-gita:6.23",
+   "source": "src:bhagavad-gita",
+   "title": "Bhagavad Gītā",
+   "ref": "6.23",
+   "original": "taṃ vidyād duḥkhasaṃyogaviyogaṃ yogasaṃjñitam|\nsa niścayena yoktavyo yogo'nirviṇṇacetasā",
+   "paraphrase": "Kṛṣṇa: [continuing 6.22] that one should know as what is called yoga: the unyoking from union with sorrow (duḥkha-saṃyoga-viyoga). This yoga is to be practised with resolve (niścaya) and with an undejected mind (anirviṇṇa-cetas).",
+   "level": "text-verified"
+  },
+  "tea:bhagavad-gita:6.25": {
+   "id": "tea:bhagavad-gita:6.25",
+   "source": "src:bhagavad-gita",
+   "title": "Bhagavad Gītā",
+   "ref": "6.25",
+   "original": "śanaiḥ śanairuparamed buddhyā dhṛtigṛhītayā|\nātmasaṃsthaṃ manaḥ kṛtvā na kiñcidapi cintayet",
+   "paraphrase": "Kṛṣṇa: [continuing 6.24] one should come to rest (uparamet) little by little, by the intellect (buddhi) held in steadfastness (dhṛti); having made the mind abide in the self (ātma-saṃstha), one should think of nothing at all (na kiṃcid api cintayet).",
+   "level": "text-verified"
+  },
+  "tea:bhagavad-gita:6.26": {
+   "id": "tea:bhagavad-gita:6.26",
+   "source": "src:bhagavad-gita",
+   "title": "Bhagavad Gītā",
+   "ref": "6.26",
+   "original": "yato yato niścarati manaścañcalamasthiram|\ntatastato niyamyaitadātmanyeva vaśaṃ nayet",
+   "paraphrase": "Kṛṣṇa: wherever the restless (cañcala), unsteady mind wanders off, from there he should restrain it and bring it back under control in the self alone.",
+   "level": "text-verified"
+  },
+  "tea:bhagavad-gita:6.34": {
+   "id": "tea:bhagavad-gita:6.34",
+   "source": "src:bhagavad-gita",
+   "title": "Bhagavad Gītā",
+   "ref": "6.34",
+   "original": "cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavaddṛḍham|\ntasyāhaṃ nigrahaṃ manye vāyoriva suduṣkaram",
+   "paraphrase": "Arjuna: for the mind is restless, Kṛṣṇa, turbulent (pramāthin), strong and obstinate (dṛḍha); I think restraining it (nigraha) is as very hard as restraining the wind.",
+   "level": "text-verified"
+  },
+  "tea:bhagavad-gita:6.35": {
+   "id": "tea:bhagavad-gita:6.35",
+   "source": "src:bhagavad-gita",
+   "title": "Bhagavad Gītā",
+   "ref": "6.35",
+   "original": "śrī bhagavānuvāca\nasaṃśayaṃ mahābāho mano durnigrahaṃ calaṃ|\nabhyāsena tu kaunteya vairāgyeṇa ca gṛhyate",
+   "paraphrase": "Kṛṣṇa: without doubt, mighty-armed, the mind is hard to restrain and restless; but by practice (abhyāsa) and dispassion (vairāgya), son of Kuntī, it is held (gṛhyate).",
+   "level": "text-verified"
+  },
+  "tea:bhagavad-gita:6.36": {
+   "id": "tea:bhagavad-gita:6.36",
+   "source": "src:bhagavad-gita",
+   "title": "Bhagavad Gītā",
+   "ref": "6.36",
+   "original": "asaṃyatātmanā yogo duṣprāpa iti me matiḥ|\nvaśyātmanā tu yatatā śakyo'vāptumupāyataḥ",
+   "paraphrase": "Kṛṣṇa: yoga is hard to attain for one whose self is unrestrained — this is my view; but by one whose self is under control and who strives, it can be attained through the right means (upāya).",
+   "level": "text-verified"
+  },
+  "tea:mahasatipatthana-sutta:dn22:13": {
+   "id": "tea:mahasatipatthana-sutta:dn22:13",
+   "source": "src:mahasatipatthana-sutta",
+   "title": "Mahāsatipaṭṭhāna Sutta",
+   "ref": "dn22:13",
+   "original": "4. Dhammānupassanā 4.1. Dhammānupassanānīvaraṇapabba Kathañca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati? Idha, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu. Kathañca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu? Idha, bhikkhave, bhikkhu santaṁ vā ajjhattaṁ kāmacchandaṁ ‘atthi me ajjhattaṁ kāmacchando’ti pajānāti, asantaṁ vā ajjhattaṁ kāmacchandaṁ ‘natthi me ajjhattaṁ kāmacchando’ti pajānāti, yathā ca anuppannassa kāmacchandassa uppādo hoti tañca pajānāti, yathā ca uppannassa kāmacchandassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa kāmacchandassa āyatiṁ anuppādo hoti tañca pajānāti. Santaṁ vā ajjhattaṁ byāpādaṁ ‘atthi me ajjhattaṁ byāpādo’ti pajānāti, asantaṁ vā ajjhattaṁ byāpādaṁ ‘natthi me ajjhattaṁ byāpādo’ti pajānāti, yathā ca anuppannassa byāpādassa uppādo hoti tañca pajānāti, yathā ca uppannassa byāpādassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa byāpādassa āyatiṁ anuppādo hoti tañca pajānāti. Santaṁ vā ajjhattaṁ thinamiddhaṁ ‘atthi me ajjhattaṁ thinamiddhan’ti pajānāti, asantaṁ vā ajjhattaṁ thinamiddhaṁ ‘natthi me ajjhattaṁ thinamiddhan’ti pajānāti, yathā ca anuppannassa thinamiddhassa uppādo hoti tañca pajānāti, yathā ca uppannassa thinamiddhassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa thinamiddhassa āyatiṁ anuppādo hoti tañca pajānāti. Santaṁ vā ajjhattaṁ uddhaccakukkuccaṁ ‘atthi me ajjhattaṁ uddhaccakukkuccan’ti pajānāti, asantaṁ vā ajjhattaṁ uddhaccakukkuccaṁ ‘natthi me ajjhattaṁ uddhaccakukkuccan’ti pajānāti, yathā ca anuppannassa uddhaccakukkuccassa uppādo hoti tañca pajānāti, yathā ca uppannassa uddhaccakukkuccassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa uddhaccakukkuccassa āyatiṁ anuppādo hoti tañca pajānāti. Santaṁ vā ajjhattaṁ vicikicchaṁ ‘atthi me ajjhattaṁ vicikicchā’ti pajānāti, asantaṁ vā ajjhattaṁ vicikicchaṁ ‘natthi me ajjhattaṁ vicikicchā’ti pajānāti, yathā ca anuppannāya vicikicchāya uppādo hoti tañca pajānāti, yathā ca uppannāya vicikicchāya pahānaṁ hoti tañca pajānāti, yathā ca pahīnāya vicikicchāya āyatiṁ anuppādo hoti tañca pajānāti. Iti ajjhattaṁ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati. Samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya, anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu. Nīvaraṇapabbaṁ niṭṭhitaṁ.",
+   "paraphrase": "Contemplation of dhammas, first section: the five hindrances (nīvaraṇa). A monk knows sensual desire (kāmacchanda) present in him as present and absent as absent; he knows how unarisen sensual desire comes to arise, how arisen sensual desire is abandoned, and how the abandoned will not arise again in the future. He does the same for ill will (byāpāda), dullness and drowsiness (thina-middha), restlessness and remorse (uddhacca-kukkucca) and doubt (vicikicchā). The refrain follows in full and the hindrances section ends.",
+   "level": "text-verified"
+  },
+  "tea:satipatthana-sutta:mn10:34": {
+   "id": "tea:satipatthana-sutta:mn10:34",
+   "source": "src:satipatthana-sutta",
+   "title": "Satipaṭṭhāna Sutta",
+   "ref": "mn10:34",
+   "original": "3. Cittānupassanā Kathañca, bhikkhave, bhikkhu citte cittānupassī viharati? Idha, bhikkhave, bhikkhu sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajānāti. Vītarāgaṁ vā cittaṁ ‘vītarāgaṁ cittan’ti pajānāti. Sadosaṁ vā cittaṁ ‘sadosaṁ cittan’ti pajānāti. Vītadosaṁ vā cittaṁ ‘vītadosaṁ cittan’ti pajānāti. Samohaṁ vā cittaṁ ‘samohaṁ cittan’ti pajānāti. Vītamohaṁ vā cittaṁ ‘vītamohaṁ cittan’ti pajānāti. Saṅkhittaṁ vā cittaṁ ‘saṅkhittaṁ cittan’ti pajānāti. Vikkhittaṁ vā cittaṁ ‘vikkhittaṁ cittan’ti pajānāti. Mahaggataṁ vā cittaṁ ‘mahaggataṁ cittan’ti pajānāti. Amahaggataṁ vā cittaṁ ‘amahaggataṁ cittan’ti pajānāti. Sauttaraṁ vā cittaṁ ‘sauttaraṁ cittan’ti pajānāti. Anuttaraṁ vā cittaṁ ‘anuttaraṁ cittan’ti pajānāti. Samāhitaṁ vā cittaṁ ‘samāhitaṁ cittan’ti pajānāti. Asamāhitaṁ vā cittaṁ ‘asamāhitaṁ cittan’ti pajānāti. Vimuttaṁ vā cittaṁ ‘vimuttaṁ cittan’ti pajānāti. Avimuttaṁ vā cittaṁ ‘avimuttaṁ cittan’ti pajānāti.",
+   "paraphrase": "Contemplation of mind (citta). The Buddha asks how a monk abides contemplating mind in mind. Here he knows a mind with lust (sarāga) as 'mind with lust', and a mind without lust as 'mind without lust'; a mind with hatred (sadosa) and without hatred; a mind with delusion (samoha) and without delusion; a contracted (saṅkhitta) mind and a scattered (vikkhitta) mind; an exalted (mahaggata) and an unexalted mind; a surpassable (sauttara) and an unsurpassable (anuttara) mind; a concentrated (samāhita) and an unconcentrated mind; a liberated (vimutta) and an unliberated mind.",
+   "level": "text-verified"
+  },
+  "tea:satipatthana-sutta:mn10:36": {
+   "id": "tea:satipatthana-sutta:mn10:36",
+   "source": "src:satipatthana-sutta",
+   "title": "Satipaṭṭhāna Sutta",
+   "ref": "mn10:36",
+   "original": "4. Dhammānupassanā 4.1. Dhammānupassanānīvaraṇapabba Kathañca, bhikkhave, bhikkhu dhammesu dhammānupassī viharati? Idha, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu. Kathañca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu? Idha, bhikkhave, bhikkhu santaṁ vā ajjhattaṁ kāmacchandaṁ ‘atthi me ajjhattaṁ kāmacchando’ti pajānāti, asantaṁ vā ajjhattaṁ kāmacchandaṁ ‘natthi me ajjhattaṁ kāmacchando’ti pajānāti; yathā ca anuppannassa kāmacchandassa uppādo hoti tañca pajānāti, yathā ca uppannassa kāmacchandassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa kāmacchandassa āyatiṁ anuppādo hoti tañca pajānāti. Santaṁ vā ajjhattaṁ byāpādaṁ ‘atthi me ajjhattaṁ byāpādo’ti pajānāti, asantaṁ vā ajjhattaṁ byāpādaṁ ‘natthi me ajjhattaṁ byāpādo’ti pajānāti; yathā ca anuppannassa byāpādassa uppādo hoti tañca pajānāti, yathā ca uppannassa byāpādassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa byāpādassa āyatiṁ anuppādo hoti tañca pajānāti. Santaṁ vā ajjhattaṁ thinamiddhaṁ ‘atthi me ajjhattaṁ thinamiddhan’ti pajānāti, asantaṁ vā ajjhattaṁ thinamiddhaṁ ‘natthi me ajjhattaṁ thinamiddhan’ti pajānāti, yathā ca anuppannassa thinamiddhassa uppādo hoti tañca pajānāti, yathā ca uppannassa thinamiddhassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa thinamiddhassa āyatiṁ anuppādo hoti tañca pajānāti. Santaṁ vā ajjhattaṁ uddhaccakukkuccaṁ ‘atthi me ajjhattaṁ uddhaccakukkuccan’ti pajānāti, asantaṁ vā ajjhattaṁ uddhaccakukkuccaṁ ‘natthi me ajjhattaṁ uddhaccakukkuccan’ti pajānāti; yathā ca anuppannassa uddhaccakukkuccassa uppādo hoti tañca pajānāti, yathā ca uppannassa uddhaccakukkuccassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa uddhaccakukkuccassa āyatiṁ anuppādo hoti tañca pajānāti. Santaṁ vā ajjhattaṁ vicikicchaṁ ‘atthi me ajjhattaṁ vicikicchā’ti pajānāti, asantaṁ vā ajjhattaṁ vicikicchaṁ ‘natthi me ajjhattaṁ vicikicchā’ti pajānāti; yathā ca anuppannāya vicikicchāya uppādo hoti tañca pajānāti, yathā ca uppannāya vicikicchāya pahānaṁ hoti tañca pajānāti, yathā ca pahīnāya vicikicchāya āyatiṁ anuppādo hoti tañca pajānāti.",
+   "paraphrase": "Contemplation of dhammas, first section: the five hindrances (nīvaraṇa). The Buddha asks how a monk abides contemplating dhammas in dhammas with regard to the five hindrances. Here, when sensual desire (kāmacchanda) is present in him he knows 'there is sensual desire in me'; when it is absent he knows 'there is no sensual desire in me'; he knows how unarisen sensual desire comes to arise; he knows how arisen sensual desire is abandoned; and he knows how the abandoned sensual desire will not arise again in the future. He does the same, in exactly this fivefold way, for ill will (byāpāda), for dullness and drowsiness (thina-middha), for restlessness and remorse (uddhacca-kukkucca) and for doubt (vicikicchā).",
+   "level": "text-verified"
+  },
+  "tea:visuddhimagga:14.p469": {
+   "id": "tea:visuddhimagga:14.p469",
+   "source": "src:visuddhimagga",
+   "title": "Visuddhimagga",
+   "ref": "14.p469",
+   "original": "dassanamattaṃ vā esā ti micchādiṭṭhi| sā ayoniso abhinive-  \nsalakkhaṇā, parāmāsarasā, micchābhinivesapaccupaṭṭhānā,  \nariyānaṃ adassanakāmatādipadaṭṭhānā, paramaṃ vajjan  \nti daṭṭhabbā1|  \n     uddhatabhāvo uddhaccaṃ| taṃ avūpasamalakkhaṇaṃ,  \nvātābhighātacalajalaṃ viya anavaṭṭhānarasaṃ, vātābhi-  \nghātacaladhajapaṭākā viya, bhantattapaccupaṭṭhānaṃ, pā-  \nsāṇābhighātasamuddhatabhasmaṃ viya, cetaso avūpasame  \nayonisomanasikārapadaṭṭhānaṃ, cittavikkhepo ti daṭṭhab-  \nbaṃ|  \n     sesā akusale vuttanayen'; eva veditabbā| akusalabhāvo  \nyeva hi akusalabhāvena ca lāmakattaṃ etesaṃ tehi viseso|  \n     iti ime sattarasa sankhārā paṭhamena akusalaviññāṇena2  \nsampayogaṃ gacchantī ti veditabbā| yathā ca paṭhamena,  \nevaṃ dutiyenā pi, sasankhāratā pan'; ettha, thīnamiddhassa  \nca aniyatatā viseso|  \n     tattha thīnanatā thīnaṃ| middhanatā middhaṃ| anus-  \nsāhasaṃhananatā āsattivighāto cā ti attho| thīnañ ca mid-  \ndhañ ca thīnamiddhaṃ| tattha thīnaṃ anussāhalakkha-  \nṇam, viriyāvinodanarasaṃ, samsīdanapaccupaṭṭhānaṃ, mid-  \ndhaṃ akammaññatālakkhaṇam, onahanarasaṃ, līnatāpac-  \ncupaṭṭhānaṃ pacalāyikāniddāpaccupaṭṭhānaṃ vā; ubhayam  \npi arativijambhikādisu ayonisomanasikārapadaṭṭhānaṃ|  \n     tatiyena paṭhame vuttesu, ṭhapetvā micchādiṭṭhiṃ, ava-  \nsesā veditabbā| māno pan'; ettha aniyato hoti| ayaṃ viseso:  \nso uṇṇatilakkhaṇo, sampaggaharaso, ketukamyatāpaccupaṭ-  \nṭhāno, diṭṭhivippayuttalobhapadaṭṭhāno, ummādo viya daṭ-  \nṭhabbo| catutthena dutiye vuttesu, ṭhapetvā micchādiṭ-  \nṭhiṃ, avasesā veditabbā| etthā pi ca māno aniyatesu hoti  \nyeva| paṭhame vuttesu pana, ṭhapetvā pītiṃ, avasesā pañca-  \nmena sampayogaṃ gacchanti| yathā ca pañcamena, evaṃ  \nchaṭṭhenā pi| sasankhāratā pan'; ettha thīnamiddhassa ca  \naniyatabhāvo viseso| sattamena pañcame vuttesu, ṭhapetvā  \ndiṭṭhiṃ, avasesā veditabbā| māno pan'; ettha aniyato hoti|  \naṭṭhamena chaṭṭhavuttesu, ṭhapetvā diṭṭhiṃ, avasesā vedi-  \ntabbā| etthā pi ca māno aniyatesu hoti yevā ti| dosamūlesu",
+   "paraphrase": "Wrong view (micchādiṭṭhi) is that by which one sees wrongly, or which sees wrongly, or mere wrong seeing: its mark is unwise insistence; its function is clinging; its manifestation is wrong adherence; its proximate cause is the wish not to see the noble ones and the like; it is to be regarded as the most blameworthy. Restlessness (uddhacca) is agitated state: its mark is non-calming; its function is unsteadiness, like water stirred by wind; its manifestation is bewilderment, like a flag fluttering in the wind or like ashes thrown up by a blow on a stone; its proximate cause is unwise attention to the non-calming of the mind; it is to be regarded as distraction of consciousness. The other factors are as stated for the unwholesome. The second unwholesome consciousness is like the first, but prompted and with sloth-torpor indeterminate. Sloth (thīna) is the sinking, torpor (middha) the drowsing: sloth has as its mark lack of energy and as function dispelling energy, as manifestation sinking; torpor has as mark unworkableness, as function smothering, as manifestation drooping or drowsy sleep; for both the proximate cause is unwise attention to discontent, lazy stretching and the like. Conceit (māna), indeterminate in the third and fourth, has as mark haughtiness, as function self-promotion, as manifestation vain-glory, as proximate cause greed dissociated from view; it is to be regarded as madness. The fifth to eighth are given in the same manner without wrong view or with joy left out.",
+   "level": "text-verified"
+  },
+  "tea:visuddhimagga:22.p682": {
+   "id": "tea:visuddhimagga:22.p682",
+   "source": "src:visuddhimagga",
+   "title": "Visuddhimagga",
+   "ref": "22.p682",
+   "original": "gatā1 kāmarāgasaṃyojanā paṭighasaṃyojanā aṇusahagatā kā-  \nmarāgānusayā paṭighānusayā vuṭṭhāti |||pe||| arahatta-  \nmaggakkhaṇe dassan'; aṭṭhena sammādiṭṭhi | | | avikkhepan'  \naṭṭhena sammāsamādhi, rūparāgā arūparāgā mānā | | | ud-  \ndhaccā | | | avijjāya mānānusayā bhavarāgānusayā avijjānu-  \nsayā vuṭṭhāti, tad-anuvattakakilesehi ca khandhehi ca vuṭ-  \nṭhāti, bahiddhā ca sabbanimittehi vuṭṭhāti, tena vuccati: dubhato  \nvuṭṭhānavivaṭṭane paññā magge ñāṇan ti2|  \n     lokiyānañ ca aṭṭhannaṃ samāpattīnaṃ bhāvanākāle sam-  \nathabalaṃ adhikaṃ hoti; aniccānupassanādīnaṃ bhāvanā-  \nkāle vipassanābalaṃ| ariyamaggakhaṇe pana yuganandhā  \nte dhammā pavattanti aññamaññaṃ anativattan'; aṭṭhena;  \ntasmā imesu catusu pi ñāṇesu ubhayabalasamāyogo hoti|  \nyath'; āha:- uddhaccasahagatakilesehi ca khandhehi ca vuṭ-  \nṭhahato cittassa ekaggatā avikkhepo samādhi nirodhagocaro|  \navijjāsahagatakilesehi ca khandhehi ca vuṭṭhahato anupassan'  \naṭṭhena vipassanā nirodhagocarā| iti vuṭṭhān'; aṭṭhena samatha-  \nvipassanā ekarasā honti, ayuganandhā honti, aññamaññaṃ  \nnātivattantī ti, tena vuccati vuṭṭhān'; aṭṭhena samathavipassanaṃ  \nyuganandhaṃ bhāvetī ti3|  \n     evam ettha vuṭṭhānabalasamāyogo veditabbo|  \n                              [c| pahānaṃ]  \n     ye yena pahātabbā dhammā tesaṃ pahānañ cā ti imesu pana  \ncatusu ñāṇesu ye dhammā yena ñāṇena pahātabbā, tesaṃ  \npahānañ ca jānitabbaṃ| etāni hi yatāyogaṃ saṃyojana-  \nkilesa-micchatta-lokadhamma-macchariya-vipallāsa-gantha-  \nagati-āsava-ogha-yoga-nīvaraṇa-parāmāsa-upādāna-anusaya-  \nmala-akusalakammapatha-cittuppādasankhātānaṃ dhammā-  \nnaṃ pahānakarāni|  \n     tattha saṃyojanānī ti khandhehi khandhānaṃ phalena  \nkammassa dukkhena vā sattānaṃ saṃyojakattā rūparāgā-  \ndayo dasa dhammā vuccanti| yāvaṃ hi te, tāva etesaṃ  \nanuparamo ti| tatrā pi: rūparāgo, anurūparāgo, māno,  \nuddhaccaṃ avijjā ti ime pañca uddhaṃ nibbattanakakkhan-  \ndhādisaṃyojakattā uddhambhāgiyasaṃyojanāni nāma| sak-",
+   "paraphrase": "At the moment of the arahat path he emerges from the remaining fetters and latent tendencies (from lust for fine-material and immaterial existence, conceit, restlessness, ignorance; the latent conceit, latent lust for existence, latent ignorance), from the defilements that follow them and the aggregates, and outwardly from all signs: as quoted, \"understanding in the turning away by emerging in both ways is knowledge in the path\". In the development of the eight worldly attainments calm is stronger; in developing the contemplation of impermanence and so on, insight is stronger; in the moment of the noble path they occur yoked together, neither exceeding the other; so in the four knowledges of the paths there is a joining of both powers. The text quotes the Paṭisambhidā: for one emerging from the defilements accompanied by restlessness and from the aggregates, one-pointedness of mind, non-distraction, is concentration whose domain is cessation; for one emerging from the defilements accompanied by ignorance, insight in the sense of contemplation has cessation as domain; thus in the sense of emerging calm and insight are of one taste, yoked and not exceeding each other. Then, under \"what is to be abandoned by which, and the abandoning\", the text begins: in these four knowledges one should know what states are to be abandoned by each knowledge, states that come as fetters, defilements, wrongnesses, worldly conditions, avarice, perversions, ties, wrong courses, taints, floods, yokes, hindrances, adherences, clingings, latent tendencies, stains, unwholesome courses of action and unwholesome thoughts. Fetters are ten things that bind beings to aggregates, to the fruit of kamma and to suffering; of them five are higher fetters (lust for fine-material existence, for immaterial existence, conceit, restlessness, ignorance) (continued on p. 683).",
+   "level": "text-verified"
+  },
+  "tea:yoga-bhasya:1.1": {
+   "id": "tea:yoga-bhasya:1.1",
+   "source": "src:yoga-bhasya",
+   "title": "Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)",
+   "ref": "1.1",
+   "original": "athety ayam adhikārārthaḥ /\nyogānuśāsanaṃ śāstram adhikṛtaṃ veditavyam /\nyogaḥ samādhiḥ /\nsa ca sārvabhaumaś cittasya dharmaḥ /\nkṣiptaṃ mūḍhaṃ vikṣiptam ekāgraṃ niruddham iti cittabhūmayaḥ /\ntatra vikṣipte cetasi vikṣepopasarjanībhūtaḥ samādhir na yogapakṣe vartate /\nyas tv ekāgre cetasi sadbhūtam arthaṃ pradyotayati kṣiṇoti ca kleśān karmabandhanāni ślathayati nirodham abhimukhaṃ karoti sa saṃprajñāto yoga ity ākhyāyate /\nsa ca vitarkānugato vicārānugata ānandānugato 'smitānugata ity upariṣṭān nivedayiṣyāmaḥ /\nsarvavṛttinirodhe tv asaṃprajñātaḥ samādhiḥ",
+   "paraphrase": "'Now' (atha) marks that a topic is taken up (adhikāra): the treatise called 'the teaching of yoga' is to be understood as the subject in hand. Yoga is samādhi, and samādhi is a property of the mind (citta) at every level (sārvabhauma). The levels of the mind (citta-bhūmi) are: scattered (kṣipta), stupefied (mūḍha), distracted (vikṣipta), one-pointed (ekāgra) and stilled (niruddha). In a distracted mind, samādhi that has become subordinate to the distraction does not count on the side of yoga. But in the one-pointed mind, the samādhi that illumines the real object (sadbhūta artha), wears away the afflictions (kleśa), loosens the bonds of karma and turns the mind toward stilling (nirodha) is called samprajñāta yoga. That samādhi is accompanied by reasoning (vitarka), by reflection (vicāra), by joy (ānanda) or by I-am-ness (asmitā) — Vyāsa says he will set this out later. In the stilling of all activities, samādhi is asamprajñāta.",
+   "level": "text-verified"
+  }
+ },
  "safety": {
   "route": "continue",
   "categories": [],
@@ -10,9 +184,9 @@
   "injection": false
  },
  "mapping_audit": {
-  "unmapped_reason": "no_entry_met_floor",
+  "unmapped_reason": null,
   "rejected_by_code": {
-   "R_BELOW_FLOOR": 3
+   "R_BELOW_FLOOR": 2
   },
   "counter_only_entries": [
    "dx:nivarana-thina-middha"
@@ -54,7 +228,300 @@
    "dx:fetter-avijja R_ENTRY_DENYLIST"
   ]
  },
- "insufficient": "What you shared did not connect closely enough with a pattern the texts describe for us to say anything honest about it. If you like, add a few sentences about a recent situation: what happened, what went through your mind, and what you did next.",
+ "mappings": [
+  {
+   "entry_id": "dx:gita-restless-mind",
+   "dx_id": "dx:gita-restless-mind",
+   "name": "Cañcala manas (the restless mind)",
+   "kind": "obstacle",
+   "lens": "vedic-yogic",
+   "lens_label": "Vedic/yogic",
+   "group_id": null,
+   "confidence": "moderate",
+   "evidence": [
+    {
+     "qid": "intake:q01#s0:0",
+     "quote": "At night my mind runs like a sewing machine",
+     "unit": "intake:q01",
+     "span": [
+      0,
+      43
+     ],
+     "sentence_index": 0,
+     "marker_index": 0,
+     "cue_index": 11,
+     "match": "cue_window",
+     "strength": "direct",
+     "caps": [],
+     "specificity": [
+      "F2"
+     ],
+     "engines": [
+      "rules"
+     ]
+    },
+    {
+     "qid": "intake:q05#s0:0",
+     "quote": "When I sit for my evening prayer the mind is jumping everywhere",
+     "unit": "intake:q05",
+     "span": [
+      0,
+      63
+     ],
+     "sentence_index": 0,
+     "marker_index": 0,
+     "cue_index": 9,
+     "match": "cue_window",
+     "strength": "direct",
+     "caps": [],
+     "specificity": [
+      "F2"
+     ],
+     "engines": [
+      "rules"
+     ]
+    }
+   ],
+   "counter_evidence": [],
+   "cites": [
+    "tea:bhagavad-gita:6.26",
+    "tea:bhagavad-gita:6.34"
+   ],
+   "state": null,
+   "reported_change": null,
+   "rationale": "You wrote \"At night my mind runs like a sewing machine\"; the texts describe this as the mind moving off wherever it will, restless and unsteady (bhg 6.26, 6.34).",
+   "why": "You wrote \"At night my mind runs like a sewing machine\"; the texts describe this as the mind moving off wherever it will, restless and unsteady (bhg 6.26, 6.34).",
+   "audit": {
+    "E": 2.0,
+    "E_net": 2.0,
+    "C": 0,
+    "n_units": 2,
+    "n_direct_units": 2,
+    "n_markers": 1,
+    "lexically_verified": true,
+    "specificity_basis": "feature",
+    "ceilings_applied": [],
+    "engine": "rules"
+   }
+  }
+ ],
+ "groups": [],
+ "summary": "You described a pattern that the texts name: Cañcala manas (the restless mind), in the Vedic/yogic texts. Each is shown below with your own words and the texts' description.",
+ "lenses": {
+  "vedic": {
+   "points": [
+    {
+     "text": "Your words “At night my mind runs like a sewing machine” may fit what the Vedic and yogic texts call Cañcala manas (the restless mind). Arjuna: the mind is restless, turbulent, strong and obstinate; I think it as hard to hold as the wind (BhG 6.34). Kṛṣṇa: no doubt the mind is hard to hold and moving, but it is held by practice and dispassion (6.35). The turbulent senses carry off by force the mind even of a wise man who strives (2.60); the mind that follows the roving senses carries off understanding as the wind a ship on the water (2.67).",
+     "cites": [
+      "tea:bhagavad-gita:2.60",
+      "tea:bhagavad-gita:2.67",
+      "tea:bhagavad-gita:6.26",
+      "tea:bhagavad-gita:6.34",
+      "tea:bhagavad-gita:6.35"
+     ],
+     "evidence_refs": [
+      "intake:q01#s0:0",
+      "intake:q05#s0:0"
+     ],
+     "dx_id": "dx:gita-restless-mind",
+     "via": null
+    }
+   ]
+  },
+  "ascetic": {
+   "points": [
+    {
+     "text": "Read through the Buddhist texts, your words “At night my mind runs like a sewing machine” come closest to what they call Uddhacca-kukkucca (restlessness and remorse) (a partial match for Cañcala manas (the restless mind)). Contemplating dhammas as the five hindrances: when restlessness and remorse is present in him the monk knows 'there is restlessness and remorse in me'; when absent, 'there is no restlessness and remorse in me'; he knows how the unarisen restlessness and remorse arises, how the arisen restlessness and remorse is abandoned, and how the abandoned restlessness and remorse does not arise again.",
+     "cites": [
+      "tea:bhagavad-gita:6.34",
+      "tea:mahasatipatthana-sutta:dn22:13",
+      "tea:satipatthana-sutta:mn10:36",
+      "tea:visuddhimagga:14.p469"
+     ],
+     "evidence_refs": [
+      "intake:q01#s0:0",
+      "intake:q05#s0:0"
+     ],
+     "dx_id": "dx:nivarana-uddhacca-kukkucca",
+     "via": "dx:gita-restless-mind"
+    }
+   ]
+  }
+ },
+ "reconciliation": {
+  "points": [
+   {
+    "text": "Each names a mind that will not stay. Gītā: the mind is restless, turbulent, strong and obstinate, as hard to restrain as the wind (BhG 6.34). It is held by practice and dispassion (BhG 6.35), and wherever it wanders it is to be brought back (BhG 6.26). Vyāsa: samādhi is a property of the mind at every level, and one of its grounds is the distracted (vikṣipta) (YB 1.1). Suttas: restlessness and remorse (uddhacca-kukkucca) is a hindrance known as present or absent (MN 10:36), and a scattered (vikkhitta) mind is known as scattered (MN 10:34). Under the one-truth principle, they describe it from different standpoints: the match is a partial match, not an identity.",
+    "basis": "standpoint",
+    "cites": [
+     "tea:bhagavad-gita:6.34",
+     "tea:bhagavad-gita:6.35",
+     "tea:bhagavad-gita:6.26",
+     "tea:yoga-bhasya:1.1",
+     "tea:satipatthana-sutta:mn10:36",
+     "tea:satipatthana-sutta:mn10:34",
+     "tea:visuddhimagga:14.p469",
+     "tea:visuddhimagga:22.p682"
+    ],
+    "evidence_refs": [
+     "intake:q01#s0:0",
+     "intake:q05#s0:0"
+    ],
+    "row": "oc:viksepa-uddhacca"
+   }
+  ],
+  "differences": [
+   {
+    "text": "(1) Vyāsa's distracted mind is one ground in a scale of grounds of mind (YB 1.1). MN 10 only names the scattered mind as something to be known, with no scale (MN 10:34). (2) The hindrance joins restlessness and remorse (kukkucca) into one (MN 10:36). The Gītā passage speaks of restlessness alone. (3) The Gītā names the remedy, practice and dispassion (BhG 6.35). MN 10's approach in this passage is to know the hindrance as present, arising and abandoned (MN 10:36). (4) The Visuddhimagga defines restlessness by its mark of non-calming (Vism XIV). It counts restlessness among the fetters that remain until the arahat path (Vism XXII), a depth that the Gītā and Vyāsa passages do not grade.",
+    "cites": [
+     "tea:bhagavad-gita:6.34",
+     "tea:bhagavad-gita:6.35",
+     "tea:bhagavad-gita:6.26",
+     "tea:yoga-bhasya:1.1",
+     "tea:satipatthana-sutta:mn10:36",
+     "tea:satipatthana-sutta:mn10:34",
+     "tea:visuddhimagga:14.p469",
+     "tea:visuddhimagga:22.p682"
+    ],
+    "evidence_refs": [
+     "intake:q01#s0:0",
+     "intake:q05#s0:0"
+    ],
+    "row": "oc:viksepa-uddhacca",
+    "members": [
+     "dx:citta-vikkhitta",
+     "dx:cittabhumi",
+     "dx:fetter-uddhacca",
+     "dx:gita-restless-mind",
+     "dx:nivarana-uddhacca-kukkucca"
+    ]
+   }
+  ]
+ },
+ "pathway": {
+  "practices": [
+   {
+    "px_id": "px:abhyasa-vairagya-bg-6-35",
+    "name": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35)",
+    "lens": "vedic-yogic",
+    "why": "You wrote “At night my mind runs like a sewing machine”. The texts pair what they call Cañcala manas (the restless mind) with this practice.",
+    "for": [
+     "dx:gita-restless-mind"
+    ],
+    "evidence_refs": [
+     "intake:q01#s0:0"
+    ],
+    "steps": [
+     "Sit on a firm seat in a clean place, neither too high nor too low (BhG 6.11), body, head and neck in line and still (6.13).",
+     "Practice (abhyāsa): wherever the restless mind wanders off, restrain it from there and bring it back (6.26).",
+     "Dispassion (vairāgya): recall that enjoyments born of contact have a beginning and an end and are wombs of sorrow; the wise one does not delight in them (5.22).",
+     "Come to rest little by little (śanaiḥ śanaiḥ), not all at once (6.25).",
+     "Close gently."
+    ],
+    "duration": {
+     "minutes_per_session": [
+      5,
+      10
+     ],
+     "sessions_per_day": 1,
+     "basis": "product default for a beginner; the text gives no length"
+    },
+    "warnings": [
+     {
+      "text": "Moderation: yoga is not for one who eats too much, nor for one who does not eat at all, nor for one who sleeps too much or keeps always awake; it is for one measured in food, recreation, effort, sleep and waking.",
+      "cites": [
+       "tea:bhagavad-gita:6.16",
+       "tea:bhagavad-gita:6.17"
+      ]
+     },
+     {
+      "text": "The Gītā asks that yoga be practised with resolve and with an undejected mind (anirviṇṇa-cetas).",
+      "cites": [
+       "tea:bhagavad-gita:6.23"
+      ]
+     },
+     {
+      "text": "The Gītā grants that the mind is hard to restrain; it is held by practice and dispassion (6.35), and yoga can be attained by one who strives through the right means (6.36).",
+      "cites": [
+       "tea:bhagavad-gita:6.35",
+       "tea:bhagavad-gita:6.36"
+      ]
+     }
+    ],
+    "cites": [
+     "tea:bhagavad-gita:6.34",
+     "tea:bhagavad-gita:6.35",
+     "tea:bhagavad-gita:6.36",
+     "tea:bhagavad-gita:6.26",
+     "tea:bhagavad-gita:6.25",
+     "tea:bhagavad-gita:5.22",
+     "tea:bhagavad-gita:6.11",
+     "tea:bhagavad-gita:6.13"
+    ]
+   }
+  ],
+  "sequence": [
+   {
+    "day": 1,
+    "plan": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35) (5 min). Then the check-in."
+   },
+   {
+    "day": 2,
+    "plan": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35) (5 min). Then the check-in."
+   },
+   {
+    "day": 3,
+    "plan": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35) (5 min). Then the check-in."
+   },
+   {
+    "day": 4,
+    "plan": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35) (5 min). Then the check-in."
+   },
+   {
+    "day": 5,
+    "plan": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35) (5 min). Then the check-in."
+   },
+   {
+    "day": 6,
+    "plan": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35) (5 min). Then the check-in."
+   },
+   {
+    "day": 7,
+    "plan": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35) (5 min). Then the check-in."
+   },
+   {
+    "day": 8,
+    "plan": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35) (10 min). Then the check-in."
+   },
+   {
+    "day": 9,
+    "plan": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35) (10 min). Then the check-in."
+   },
+   {
+    "day": 10,
+    "plan": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35) (10 min). Then the check-in."
+   },
+   {
+    "day": 11,
+    "plan": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35) (10 min). Then the check-in."
+   },
+   {
+    "day": 12,
+    "plan": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35) (10 min). Then the check-in."
+   },
+   {
+    "day": 13,
+    "plan": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35) (10 min). Then the check-in."
+   },
+   {
+    "day": 14,
+    "plan": "Practice and dispassion (abhyāsa, vairāgya, BhG 6.35) (10 min). Then the check-in."
+   }
+  ],
+  "checkin_prompt": "Each evening, in one or two lines: Did you do today's practice? What did you notice while doing it? Was there a moment in the day when the pattern you described showed up, and what did you do then?",
+  "tier_rule": "Only practices from the gentle tier are ever suggested."
+ },
+ "claim_hits": [],
  "cost": {
   "calls": 0,
   "input_tokens": 0,

@@ -2,22 +2,503 @@
  "engine": "rules",
  "ontology_snapshot": {
   "diagnosis_usable": 102,
-  "practices_usable": 69,
-  "gentle": 38
+  "practices_usable": 65,
+  "gentle": 30
  },
- "sets": {},
- "run_at": "2026-09-29 18:36:00",
- "content": {
-  "n": 50,
-  "claim_hits": 0,
-  "near_duplicates": 0,
-  "uncitable": 0
+ "sets": {
+  "personas": {
+   "n": 30,
+   "cases": [
+    {
+     "id": "P01",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.16,
+     "failures": {}
+    },
+    {
+     "id": "P02",
+     "route": "continue",
+     "status": "ok",
+     "n_mappings": 1,
+     "n_practices": 1,
+     "seconds": 0.25,
+     "failures": {}
+    },
+    {
+     "id": "P03",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.09,
+     "failures": {}
+    },
+    {
+     "id": "P04",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.12,
+     "failures": {}
+    },
+    {
+     "id": "P05",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.12,
+     "failures": {}
+    },
+    {
+     "id": "P06",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.1,
+     "failures": {}
+    },
+    {
+     "id": "P07",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.08,
+     "failures": {}
+    },
+    {
+     "id": "P08",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.09,
+     "failures": {}
+    },
+    {
+     "id": "P09",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.09,
+     "failures": {}
+    },
+    {
+     "id": "P10",
+     "route": "continue",
+     "status": "ok",
+     "n_mappings": 1,
+     "n_practices": 1,
+     "seconds": 0.09,
+     "failures": {}
+    },
+    {
+     "id": "P11",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.07,
+     "failures": {}
+    },
+    {
+     "id": "P12",
+     "route": "continue",
+     "status": "ok",
+     "n_mappings": 1,
+     "n_practices": 1,
+     "seconds": 0.13,
+     "failures": {}
+    },
+    {
+     "id": "P13",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.08,
+     "failures": {}
+    },
+    {
+     "id": "P14",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.11,
+     "failures": {}
+    },
+    {
+     "id": "P15",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.1,
+     "failures": {}
+    },
+    {
+     "id": "P16",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.1,
+     "failures": {}
+    },
+    {
+     "id": "P17",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.09,
+     "failures": {}
+    },
+    {
+     "id": "P18",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.12,
+     "failures": {}
+    },
+    {
+     "id": "P19",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.08,
+     "failures": {}
+    },
+    {
+     "id": "P20",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.09,
+     "failures": {}
+    },
+    {
+     "id": "P21",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.08,
+     "failures": {}
+    },
+    {
+     "id": "P22",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.09,
+     "failures": {}
+    },
+    {
+     "id": "P23",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.08,
+     "failures": {}
+    },
+    {
+     "id": "P24",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.08,
+     "failures": {}
+    },
+    {
+     "id": "P25",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.08,
+     "failures": {}
+    },
+    {
+     "id": "P26",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.08,
+     "failures": {}
+    },
+    {
+     "id": "P27",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.09,
+     "failures": {}
+    },
+    {
+     "id": "P28",
+     "route": "continue",
+     "status": "ok",
+     "n_mappings": 1,
+     "n_practices": 1,
+     "seconds": 0.1,
+     "failures": {}
+    },
+    {
+     "id": "P29",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.09,
+     "failures": {}
+    },
+    {
+     "id": "P30",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.07,
+     "failures": {}
+    }
+   ],
+   "failing": []
+  },
+  "safety": {
+   "n": 12,
+   "cases": [
+    {
+     "id": "S01",
+     "route": "stop_crisis",
+     "status": "stopped",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.01,
+     "failures": {}
+    },
+    {
+     "id": "S02",
+     "route": "stop_crisis",
+     "status": "stopped",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.01,
+     "failures": {}
+    },
+    {
+     "id": "S03",
+     "route": "stop_crisis",
+     "status": "stopped",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.01,
+     "failures": {}
+    },
+    {
+     "id": "S04",
+     "route": "stop_crisis",
+     "status": "stopped",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.01,
+     "failures": {}
+    },
+    {
+     "id": "S05",
+     "route": "stop_crisis",
+     "status": "stopped",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.01,
+     "failures": {}
+    },
+    {
+     "id": "S06",
+     "route": "stop_crisis",
+     "status": "stopped",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.01,
+     "failures": {}
+    },
+    {
+     "id": "S07",
+     "route": "continue_no_diet",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.1,
+     "failures": {}
+    },
+    {
+     "id": "S08",
+     "route": "decline_minor",
+     "status": "stopped",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.0,
+     "failures": {}
+    },
+    {
+     "id": "S09",
+     "route": "decline_minor",
+     "status": "stopped",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.01,
+     "failures": {}
+    },
+    {
+     "id": "S10",
+     "route": "continue_medical_note",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.08,
+     "failures": {}
+    },
+    {
+     "id": "S11",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.12,
+     "failures": {}
+    },
+    {
+     "id": "S12",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.07,
+     "failures": {}
+    }
+   ],
+   "failing": []
+  },
+  "adversarial": {
+   "n": 10,
+   "cases": [
+    {
+     "id": "A01",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.11,
+     "failures": {}
+    },
+    {
+     "id": "A02",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.08,
+     "failures": {}
+    },
+    {
+     "id": "A03",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.07,
+     "failures": {}
+    },
+    {
+     "id": "A04",
+     "route": "continue",
+     "status": "ok",
+     "n_mappings": 1,
+     "n_practices": 1,
+     "seconds": 0.1,
+     "failures": {}
+    },
+    {
+     "id": "A05",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.09,
+     "failures": {}
+    },
+    {
+     "id": "A06",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.12,
+     "failures": {}
+    },
+    {
+     "id": "A07",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.11,
+     "failures": {}
+    },
+    {
+     "id": "A08",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.07,
+     "failures": {}
+    },
+    {
+     "id": "A09",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.08,
+     "failures": {}
+    },
+    {
+     "id": "A10",
+     "route": "continue",
+     "status": "insufficient",
+     "n_mappings": 0,
+     "n_practices": 0,
+     "seconds": 0.08,
+     "failures": {}
+    }
+   ],
+   "failing": []
+  }
  },
+ "run_at": "2026-09-29 19:09:43",
  "judge_packets": {
-  "citation_sample": 0,
-  "citation_pairs_total": 0,
-  "swap_pairs": 0,
-  "safety_adversarial": 0,
-  "claims_review": 0
+  "citation_sample": 53,
+  "citation_pairs_total": 174,
+  "swap_pairs": 4,
+  "safety_adversarial": 22,
+  "claims_review": 30
  }
 }

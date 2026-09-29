@@ -1,6 +1,6 @@
 {
  "engine": "rules",
- "created": 1790706817.59199,
+ "created": 1790708986.5060196,
  "notices": [],
  "citations": {},
  "safety": {
@@ -12,11 +12,12 @@
  "mapping_audit": {
   "unmapped_reason": "no_entry_met_floor",
   "rejected_by_code": {
-   "R_BELOW_FLOOR": 3
+   "R_BELOW_FLOOR": 4
   },
   "counter_only_entries": [
    "dx:carita-dosa",
-   "dx:klesa-raga"
+   "dx:klesa-raga",
+   "dx:nivarana-byapada"
   ],
   "excluded_entries": [
    "dx:klesa-avidya R_ENTRY_DENYLIST",

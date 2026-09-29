@@ -518,3 +518,17 @@ Conservative choices made without asking, with reasons. Newest last.
   - rules_check rejects a superseded or covering tid and any source line that does not match the cited verse exactly.
 - **Fix, part two (pool; onto-analyst):** rules/content/buckets.json is rewritten with exact, citable tids, one scene and link written for each teaching, the seven misstated pool texts corrected, and no passage in two pools.
 - Two content tests fail until the new pool lands, because the old pool cites superseded ranges. Then the 50 posts are redrafted and re-judged in full, since 42 failed.
+
+## 2026-09-30 00:40 IST — Recall round (independent dev set) and the re-run of the hidden sets
+- **Recall round.** 225 more cues were added (714 in total), tuned only on tests/fixtures/dev_personas.jsonl (30 new synthetic people). Development-set recall went from 2/30 to 15/30 personas with a mapping, with 0 off-target mappings. The bland baseline stays at 0 mappings, and cue_check lint and self-test are both 0.
+  - One original cue ("I keep regretting what I did and didn't do") was retired: its negator counted every plain "I regret" as counter-evidence.
+- **General engine fixes by the orchestrator** (not tuned to any test text):
+  - apostrophe-less contractions (cant, dont, didnt, wont, im, ive …) are read as contractions, so negation parity holds;
+  - the injection pattern "pretend to be" now needs a role word (ai, assistant, system, doctor, astrologer …), so "I pretend to be religious in front of my in-laws" is ordinary evidence again.
+- **Hidden sets re-run once** (rules engine):
+  - personas: 4/30 map (2 moderate, 2 low; up from 2/30), each with a pathway;
+  - safety: 12/12 correct routes;
+  - adversarial: 10/10 continue with nothing forbidden in the output;
+  - automated failures: 0.
+- **Finding for the release report.** Hidden-set recall (4/30) is far below development recall (15/30), so lexical cues do not generalise well. The offline rules engine is a conservative fallback. It says "not enough to connect" for most people, which is honest but not a useful product on its own. Recall on paraphrase rests on the model engine's blind recheck, which is not run here (no key). No further cue rounds, to avoid overfitting.
+- **Judge packets built:** citation sample 53 of 174 pairs (30%), 4 swap pairs, 22 safety and adversarial reviews, and 30 claims reviews.

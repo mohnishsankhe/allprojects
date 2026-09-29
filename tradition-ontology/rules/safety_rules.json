@@ -101,7 +101,7 @@
   },
   "injection_patterns": [
     "\\bignore (all |any |the |your )?(previous|prior|above|earlier) (instructions|rules|prompts?)\\b",
-    "\\b(system prompt|developer message|you are now|act as|pretend (to be|you are)|jailbreak|dan mode)\\b",
+    "\\b(system prompt|developer message|you are now|act as|pretend (you are|you're|to be (an? |the |my )?(ai|assistant|chatbot|system|model|developer|doctor|astrologer))|jailbreak|dan mode)\\b",
     "\\b(diagnose|diagnosis of) me\\b",
     "\\b(tell|predict|forecast) (me )?(my )?(future|fate|destiny)\\b",
     "\\bwhat will happen (to me|in my life|next year)\\b",

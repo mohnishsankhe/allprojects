@@ -329,7 +329,8 @@
      "I keep looking at the photos",
      "I relive those memories",
      "I replay the good memories",
-     "I crave the excitement again"
+     "I crave the excitement again",
+     "I try to recreate those days"
     ],
     "cues_added": [
      "I keep replaying it and wanting it again",
@@ -344,7 +345,8 @@
      "I keep looking at the photos",
      "I relive those memories",
      "I replay the good memories",
-     "I crave the excitement again"
+     "I crave the excitement again",
+     "I try to recreate those days"
     ],
     "cites": [
      "tea:yoga-sutra:2.7",
@@ -543,10 +545,9 @@
      "I resent anything that brings back that humiliation",
      "I'm still angry about what they did",
      "I still resent them",
-     "I still can't forgive them",
      "I can't forgive and forget",
-     "I'm not able to forgive them",
-     "I avoid them because of how they hurt me"
+     "I avoid them because of how they hurt me",
+     "I still resent how I was treated"
     ],
     "cues_added": [
      "I recoil from anything that reminds me of it",
@@ -557,10 +558,9 @@
      "I resent anything that brings back that humiliation",
      "I'm still angry about what they did",
      "I still resent them",
-     "I still can't forgive them",
      "I can't forgive and forget",
-     "I'm not able to forgive them",
-     "I avoid them because of how they hurt me"
+     "I avoid them because of how they hurt me",
+     "I still resent how I was treated"
     ],
     "cites": [
      "tea:yoga-sutra:2.8",
@@ -1379,7 +1379,8 @@
      "I doubt the practice",
      "I keep wondering whether this practice is right",
      "the doubt creeps into my practice",
-     "I question whether my prayers work"
+     "I question whether my prayers work",
+     "I'm never sure whether prayer helps"
     ],
     "cues_added": [
      "I doubt this spiritual path",
@@ -1392,7 +1393,8 @@
      "I doubt the practice",
      "I keep wondering whether this practice is right",
      "the doubt creeps into my practice",
-     "I question whether my prayers work"
+     "I question whether my prayers work",
+     "I'm never sure whether prayer helps"
     ],
     "cites": [
      "tea:yoga-bhasya:1.30"
@@ -2920,7 +2922,11 @@
      "I keep delaying what matters",
      "I do something easier first",
      "I avoid the task until the deadline",
-     "I put off starting until tomorrow"
+     "I put off starting until tomorrow",
+     "I do everything the night before it is due",
+     "I keep postponing calls and emails",
+     "I procrastinate on important things",
+     "I do the easy things first"
     ],
     "cues_added": [
      "I procrastinate for weeks",
@@ -2939,7 +2945,11 @@
      "I keep delaying what matters",
      "I do something easier first",
      "I avoid the task until the deadline",
-     "I put off starting until tomorrow"
+     "I put off starting until tomorrow",
+     "I do everything the night before it is due",
+     "I keep postponing calls and emails",
+     "I procrastinate on important things",
+     "I do the easy things first"
     ],
     "cites": [
      "tea:bhagavad-gita:18.28"
@@ -3444,7 +3454,8 @@
      "I'm harsh and conceited with those under me",
      "I act religious in public",
      "I act humble to look good",
-     "I act religious in front of my family"
+     "I act religious in front of my family",
+     "I'm far ahead of the others"
     ],
     "cues_added": [
      "I act pious in public and behave differently at home",
@@ -3454,7 +3465,8 @@
      "I'm harsh and conceited with those under me",
      "I act religious in public",
      "I act humble to look good",
-     "I act religious in front of my family"
+     "I act religious in front of my family",
+     "I'm far ahead of the others"
     ],
     "cites": [
      "tea:bhagavad-gita:16.4"
@@ -3659,7 +3671,13 @@
      "I keep pulling my mind back",
      "I have a monkey mind",
      "my attention jumps from one thing to another",
-     "my mind goes somewhere else"
+     "my mind goes somewhere else",
+     "I jump from task to task",
+     "my thoughts keep wandering",
+     "I find it hard to concentrate",
+     "I find it hard to focus",
+     "my attention keeps drifting",
+     "I keep switching between tasks"
     ],
     "cues_added": [
      "my mind wanders off",
@@ -3681,7 +3699,13 @@
      "I keep pulling my mind back",
      "I have a monkey mind",
      "my attention jumps from one thing to another",
-     "my mind goes somewhere else"
+     "my mind goes somewhere else",
+     "I jump from task to task",
+     "my thoughts keep wandering",
+     "I find it hard to concentrate",
+     "I find it hard to focus",
+     "my attention keeps drifting",
+     "I keep switching between tasks"
     ],
     "cites": [
      "tea:bhagavad-gita:6.26",
@@ -3698,7 +3722,8 @@
      "my senses drag me after every distraction",
      "I keep checking my phone",
      "my phone keeps pulling me away",
-     "every notification pulls me away"
+     "every notification pulls me away",
+     "notifications keep distracting me"
     ],
     "cues_added": [
      "whatever catches my eye drags my mind after it",
@@ -3707,7 +3732,8 @@
      "my senses drag me after every distraction",
      "I keep checking my phone",
      "my phone keeps pulling me away",
-     "every notification pulls me away"
+     "every notification pulls me away",
+     "notifications keep distracting me"
     ],
     "cites": [
      "tea:bhagavad-gita:2.60",
@@ -5702,13 +5728,16 @@
      "I relive the argument in my head for weeks",
      "I cling to the grievance",
      "I hold grudges for years",
-     "I keep thinking about how they treated me",
+     "I brood over how I was treated",
      "I keep arguing with them in my head",
      "I replay the fight over and over",
-     "I keep thinking about how they cheated me",
+     "I brood over how I was cheated",
      "I never forget a wrong done to me",
      "I'm still angry at them years later",
-     "I dwell on how they disrespected me"
+     "I dwell on how they disrespected me",
+     "I stew over it for days",
+     "I hold on to my anger",
+     "I keep replaying the argument"
     ],
     "cues_added": [
      "I dwell on the insult",
@@ -5718,13 +5747,16 @@
      "I relive the argument in my head for weeks",
      "I cling to the grievance",
      "I hold grudges for years",
-     "I keep thinking about how they treated me",
+     "I brood over how I was treated",
      "I keep arguing with them in my head",
      "I replay the fight over and over",
-     "I keep thinking about how they cheated me",
+     "I brood over how I was cheated",
      "I never forget a wrong done to me",
      "I'm still angry at them years later",
-     "I dwell on how they disrespected me"
+     "I dwell on how they disrespected me",
+     "I stew over it for days",
+     "I hold on to my anger",
+     "I keep replaying the argument"
     ],
     "cites": [
      "tea:dhammapada:3",
@@ -5857,7 +5889,8 @@
      "my mind is slow and dull",
      "my mind goes blank when I study",
      "my mind is in a fog",
-     "I feel foggy and slow"
+     "I feel foggy and slow",
+     "my mind is slow when I read scripture"
     ],
     "cues_added": [
      "my mind is stiff and dull in meditation",
@@ -5869,7 +5902,8 @@
      "my mind is slow and dull",
      "my mind goes blank when I study",
      "my mind is in a fog",
-     "I feel foggy and slow"
+     "I feel foggy and slow",
+     "my mind is slow when I read scripture"
     ],
     "cites": [
      "tea:visuddhimagga:4.p146"
@@ -6065,19 +6099,23 @@
      "I keep thinking about my mistakes",
      "I replay my mistakes over and over",
      "I dwell on the past",
-     "I keep thinking about the past",
-     "my mind keeps going back to the past",
      "I regret the choices I made",
      "the guilt never leaves me",
      "I carry the guilt every day",
-     "I blame myself for what happened",
+     "I keep blaming myself for my mistakes",
      "I beat myself up over my mistakes",
      "my mistakes haunt me",
      "the past haunts me",
      "I'm full of regrets",
      "I regret the years I wasted",
      "I feel guilty about my mistakes",
-     "I keep asking myself whether I chose wrong"
+     "I keep asking myself whether I chose wrong",
+     "my mind replays my worst moments",
+     "I feel guilty about the past",
+     "I regret the way I spoke to them",
+     "I feel guilty about wasted years",
+     "I cringe at what I said",
+     "I go over what I said and what I didn't say"
     ],
     "cues_added": [
      "I keep going over my old mistakes",
@@ -6090,19 +6128,23 @@
      "I keep thinking about my mistakes",
      "I replay my mistakes over and over",
      "I dwell on the past",
-     "I keep thinking about the past",
-     "my mind keeps going back to the past",
      "I regret the choices I made",
      "the guilt never leaves me",
      "I carry the guilt every day",
-     "I blame myself for what happened",
+     "I keep blaming myself for my mistakes",
      "I beat myself up over my mistakes",
      "my mistakes haunt me",
      "the past haunts me",
      "I'm full of regrets",
      "I regret the years I wasted",
      "I feel guilty about my mistakes",
-     "I keep asking myself whether I chose wrong"
+     "I keep asking myself whether I chose wrong",
+     "my mind replays my worst moments",
+     "I feel guilty about the past",
+     "I regret the way I spoke to them",
+     "I feel guilty about wasted years",
+     "I cringe at what I said",
+     "I go over what I said and what I didn't say"
     ],
     "cites": [
      "tea:visuddhimagga:14.p470"
@@ -6262,13 +6304,13 @@
      "I'm torn between two spiritual paths and keep changing sides",
      "I trust the spiritual path and then doubt it",
      "I keep wavering over practices",
-     "I don't know what to believe",
      "I waver about what I believe",
      "I keep switching practices",
      "I jump from one practice to another",
      "I keep moving between traditions",
      "I doubt my teacher",
-     "I'm torn about my faith"
+     "I'm torn about my faith",
+     "I keep switching meditation methods"
     ],
     "cues_added": [
      "I keep switching spiritual teachers",
@@ -6277,13 +6319,13 @@
      "I'm torn between two spiritual paths and keep changing sides",
      "I trust the spiritual path and then doubt it",
      "I keep wavering over practices",
-     "I don't know what to believe",
      "I waver about what I believe",
      "I keep switching practices",
      "I jump from one practice to another",
      "I keep moving between traditions",
      "I doubt my teacher",
-     "I'm torn about my faith"
+     "I'm torn about my faith",
+     "I keep switching meditation methods"
     ],
     "cites": [
      "tea:visuddhimagga:14.p471"
@@ -6492,7 +6534,6 @@
      "I keep switching sides about the spiritual path I follow",
      "I trust the teaching and then doubt it",
      "my faith in the practice swings from side to side",
-     "I don't know what to believe",
      "I waver about what I believe",
      "I keep switching practices"
     ],
@@ -6502,7 +6543,6 @@
      "I keep switching sides about the spiritual path I follow",
      "I trust the teaching and then doubt it",
      "my faith in the practice swings from side to side",
-     "I don't know what to believe",
      "I waver about what I believe",
      "I keep switching practices"
     ],
@@ -7308,7 +7348,8 @@
      "I can't bear to lose it",
      "I can't accept losing it",
      "I can't let go of the people I love",
-     "I can't throw anything away"
+     "I can't throw anything away",
+     "I cling to my routine"
     ],
     "cues_added": [
      "I grip tightly to what I own and can't part with it",
@@ -7323,7 +7364,8 @@
      "I can't bear to lose it",
      "I can't accept losing it",
      "I can't let go of the people I love",
-     "I can't throw anything away"
+     "I can't throw anything away",
+     "I cling to my routine"
     ],
     "cites": [
      "tea:visuddhimagga:14.p468"
@@ -9381,7 +9423,15 @@
      "I get furious over small things",
      "I stay angry for hours",
      "small things irritate me",
-     "I shout at my family"
+     "I shout at my family",
+     "I'm quick to anger",
+     "I yell at my kids",
+     "I raise my voice at home",
+     "I bottle up my anger",
+     "I lose my cool",
+     "my temper flares up",
+     "I snap at people every day",
+     "I stay angry with people"
     ],
     "cues_added": [
      "I'm angry for days",
@@ -9403,7 +9453,15 @@
      "I get furious over small things",
      "I stay angry for hours",
      "small things irritate me",
-     "I shout at my family"
+     "I shout at my family",
+     "I'm quick to anger",
+     "I yell at my kids",
+     "I raise my voice at home",
+     "I bottle up my anger",
+     "I lose my cool",
+     "my temper flares up",
+     "I snap at people every day",
+     "I stay angry with people"
     ],
     "cites": [
      "tea:tattvartha-sutra:8.9",
@@ -9557,7 +9615,8 @@
      "I'm too proud to ask",
      "it hurts my ego",
      "my ego gets hurt easily",
-     "I know I'm better than them"
+     "I know I'm better than them",
+     "I'm far ahead of the others"
     ],
     "cues_added": [
      "I'm too proud to apologise",
@@ -9577,7 +9636,8 @@
      "I'm too proud to ask",
      "it hurts my ego",
      "my ego gets hurt easily",
-     "I know I'm better than them"
+     "I know I'm better than them",
+     "I'm far ahead of the others"
     ],
     "cites": [
      "tea:tattvartha-sutra:8.9"
@@ -9735,7 +9795,9 @@
      "I talk behind their backs",
      "I hide it from my parents",
      "I lie to my parents",
-     "I agree to their face and then complain"
+     "I agree to their face and then complain",
+     "I smile at them and then criticise them",
+     "I hide things and lie about it"
     ],
     "cues_added": [
      "I hide my real intentions from people",
@@ -9760,7 +9822,9 @@
      "I talk behind their backs",
      "I hide it from my parents",
      "I lie to my parents",
-     "I agree to their face and then complain"
+     "I agree to their face and then complain",
+     "I smile at them and then criticise them",
+     "I hide things and lie about it"
     ],
     "cites": [
      "tea:tattvartha-sutra:8.9"
@@ -9905,7 +9969,9 @@
      "I can't bear spending",
      "I hate spending on anything",
      "I'm stingy with money",
-     "I keep buying things I do not need"
+     "I keep buying things I do not need",
+     "I'm never satisfied with my salary",
+     "I hate sharing my things"
     ],
     "cues_added": [
      "I hoard money and can't bear to part with it",
@@ -9919,7 +9985,9 @@
      "I can't bear spending",
      "I hate spending on anything",
      "I'm stingy with money",
-     "I keep buying things I do not need"
+     "I keep buying things I do not need",
+     "I'm never satisfied with my salary",
+     "I hate sharing my things"
     ],
     "cites": [
      "tea:tattvartha-sutra:8.9",
@@ -10355,7 +10423,6 @@
      "I dwell on regaining the good times I've lost",
      "I keep plotting to recover the pleasure I lost",
      "I pine for my old comforts and scheme to regain them",
-     "I keep missing what is gone",
      "I keep wanting them back",
      "I pine for the one who is gone"
     ],
@@ -10364,7 +10431,6 @@
      "I dwell on regaining the good times I've lost",
      "I keep plotting to recover the pleasure I lost",
      "I pine for my old comforts and scheme to regain them",
-     "I keep missing what is gone",
      "I keep wanting them back",
      "I pine for the one who is gone"
     ],

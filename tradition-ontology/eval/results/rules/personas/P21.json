@@ -1,62 +1,60 @@
 {
  "engine": "rules",
- "created": 1790706816.847569,
+ "created": 1790708985.7337162,
  "notices": [],
  "citations": {},
  "safety": {
-  "route": "stop_crisis",
-  "categories": [
-   "abuse"
-  ],
+  "route": "continue",
+  "categories": [],
   "model_checked": false,
   "injection": false
  },
- "stopped": {
-  "title": "Let's pause here",
-  "body": "Thank you for telling us this. What you've shared matters more than any reading, so we're stopping the reading here. You deserve support from a person who can help right now. If you are in danger or might act on thoughts of harming yourself, please contact emergency services or one of the free services below. Reaching out is a strong thing to do.",
-  "resources": [
-   {
-    "region": "India",
-    "name": "Tele-MANAS (free, 24x7)",
-    "contact": "14416 or 1-800-891-4416"
-   },
-   {
-    "region": "India",
-    "name": "Emergency",
-    "contact": "112"
-   },
-   {
-    "region": "United States",
-    "name": "988 Suicide & Crisis Lifeline",
-    "contact": "call or text 988"
-   },
-   {
-    "region": "United States",
-    "name": "Emergency",
-    "contact": "911"
-   },
-   {
-    "region": "United Kingdom",
-    "name": "Samaritans",
-    "contact": "116 123"
-   },
-   {
-    "region": "United Kingdom",
-    "name": "Emergency",
-    "contact": "999"
-   },
-   {
-    "region": "Elsewhere",
-    "name": "Find a Helpline",
-    "contact": "findahelpline.com"
-   }
+ "mapping_audit": {
+  "unmapped_reason": "no_entry_met_floor",
+  "rejected_by_code": {
+   "R_BELOW_FLOOR": 2
+  },
+  "counter_only_entries": [
+   "dx:nivarana-uddhacca-kukkucca"
   ],
-  "medical_emergency_line": "If this is a medical emergency, call your local emergency number now (112 in India and the EU, 911 in the US, 999 in the UK).",
-  "abuse_line": "If someone is hurting you or you are not safe, please contact local emergency services or a domestic violence helpline (in India, the Women Helpline 181; findahelpline.com lists others).",
-  "extra": [
-   "If someone is hurting you or you are not safe, please contact local emergency services or a domestic violence helpline (in India, the Women Helpline 181; findahelpline.com lists others)."
+  "excluded_entries": [
+   "dx:klesa-avidya R_ENTRY_DENYLIST",
+   "dx:vrtti-pramana R_ENTRY_DENYLIST",
+   "dx:vrtti-viparyaya R_ENTRY_DENYLIST",
+   "dx:vrtti-vikalpa R_ENTRY_DENYLIST",
+   "dx:vrtti-nidra R_ENTRY_DENYLIST",
+   "dx:vrtti-smrti R_ENTRY_DENYLIST",
+   "dx:antaraya-vyadhi R_ENTRY_DENYLIST",
+   "dx:companion-duhkha R_ENTRY_DENYLIST",
+   "dx:companion-angamejayatva R_ENTRY_DENYLIST",
+   "dx:companion-svasa-prasvasa R_ENTRY_DENYLIST",
+   "dx:cittabhumi R_ENTRY_DENYLIST",
+   "dx:siddhi-upasarga R_ENTRY_DENYLIST",
+   "dx:gunatita R_ENTRY_DENYLIST",
+   "dx:gita-sthitaprajna R_ENTRY_DENYLIST",
+   "dx:sheath-annamaya R_KIND_NOT_MAPPABLE",
+   "dx:sheath-pranamaya R_KIND_NOT_MAPPABLE",
+   "dx:sheath-manomaya R_KIND_NOT_MAPPABLE",
+   "dx:sheath-vijnanamaya R_KIND_NOT_MAPPABLE",
+   "dx:sheath-anandamaya R_KIND_NOT_MAPPABLE",
+   "dx:vital-prana R_KIND_NOT_MAPPABLE",
+   "dx:vital-apana R_KIND_NOT_MAPPABLE",
+   "dx:vital-samana R_KIND_NOT_MAPPABLE",
+   "dx:vital-udana R_KIND_NOT_MAPPABLE",
+   "dx:vital-vyana R_KIND_NOT_MAPPABLE",
+   "dx:state-jagrat R_KIND_NOT_MAPPABLE",
+   "dx:state-svapna R_KIND_NOT_MAPPABLE",
+   "dx:state-susupta R_KIND_NOT_MAPPABLE",
+   "dx:state-turiya R_KIND_NOT_MAPPABLE",
+   "dx:gk-amanibhava R_ENTRY_DENYLIST",
+   "dx:katha-yoga-state R_ENTRY_DENYLIST",
+   "dx:fetter-sakkaya-ditthi R_ENTRY_DENYLIST",
+   "dx:fetter-ruparaga R_ENTRY_DENYLIST",
+   "dx:fetter-aruparaga R_ENTRY_DENYLIST",
+   "dx:fetter-avijja R_ENTRY_DENYLIST"
   ]
  },
+ "insufficient": "What you shared did not connect closely enough with a pattern the texts describe for us to say anything honest about it. If you like, add a few sentences about a recent situation: what happened, what went through your mind, and what you did next.",
  "cost": {
   "calls": 0,
   "input_tokens": 0,

@@ -1,6 +1,6 @@
 {
  "engine": "rules",
- "created": 1790706816.7744923,
+ "created": 1790708985.640098,
  "notices": [],
  "citations": {},
  "safety": {
@@ -12,9 +12,13 @@
  "mapping_audit": {
   "unmapped_reason": "no_entry_met_floor",
   "rejected_by_code": {
-   "R_BELOW_FLOOR": 3
+   "R_HYPOTHETICAL": 1,
+   "R_BELOW_FLOOR": 5
   },
-  "counter_only_entries": [],
+  "counter_only_entries": [
+   "dx:guna-rajas",
+   "dx:tanha"
+  ],
   "excluded_entries": [
    "dx:klesa-avidya R_ENTRY_DENYLIST",
    "dx:vrtti-pramana R_ENTRY_DENYLIST",

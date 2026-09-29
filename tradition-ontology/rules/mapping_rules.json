@@ -156,7 +156,8 @@
       "other 's": "dropped (possessive)"
     },
     "stemmer": "Snowball (Porter2) English, plus the derivation table in relevance.derivations",
-    "content_token": "alphabetic, length >= 3, not in relevance.stopwords, not in specificity.generic_lexicon"
+    "content_token": "alphabetic, length >= 3, not in relevance.stopwords, not in specificity.generic_lexicon",
+    "contractions_no_apostrophe": "cant dont doesnt didnt isnt wasnt arent werent havent hasnt hadnt couldnt wouldnt shouldnt wont im ive -> expanded as their contractions (orchestrator P6); ill/id/its/wed/well/hell/shed are real words and are not expanded"
   },
   "segmentation": {
     "paragraph": "split on one or more blank lines",

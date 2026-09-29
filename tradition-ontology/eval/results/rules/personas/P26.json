@@ -1,6 +1,6 @@
 {
  "engine": "rules",
- "created": 1790706817.2437942,
+ "created": 1790708986.1380851,
  "notices": [],
  "citations": {},
  "safety": {
@@ -13,9 +13,12 @@
   "unmapped_reason": "no_entry_met_floor",
   "rejected_by_code": {
    "R_HYPOTHETICAL": 1,
-   "R_OTHER_PERSON": 1
+   "R_OTHER_PERSON": 1,
+   "R_BELOW_FLOOR": 1
   },
-  "counter_only_entries": [],
+  "counter_only_entries": [
+   "dx:kasaya-maya"
+  ],
   "excluded_entries": [
    "dx:klesa-avidya R_ENTRY_DENYLIST",
    "dx:vrtti-pramana R_ENTRY_DENYLIST",

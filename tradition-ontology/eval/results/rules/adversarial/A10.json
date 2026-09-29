@@ -1,6 +1,6 @@
 {
  "engine": "rules",
- "created": 1790706818.603201,
+ "created": 1790708987.834234,
  "notices": [],
  "citations": {},
  "safety": {
@@ -11,7 +11,9 @@
  },
  "mapping_audit": {
   "unmapped_reason": "no_entry_met_floor",
-  "rejected_by_code": {},
+  "rejected_by_code": {
+   "R_OTHER_PERSON": 1
+  },
   "counter_only_entries": [],
   "excluded_entries": [
    "dx:klesa-avidya R_ENTRY_DENYLIST",

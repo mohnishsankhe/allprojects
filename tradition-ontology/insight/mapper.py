@@ -234,6 +234,13 @@ _WORD = re.compile(r"\w+(?:['\-]\w+)*|[^\w\s]")
 _CONTR = {"can't": ["can", "not"], "cannot": ["can", "not"], "won't": ["will", "not"], "shan't": ["shall", "not"],
           "i'm": ["i", "am"], "it's": ["it", "is"], "that's": ["that", "is"], "there's": ["there", "is"],
           "he's": ["he", "is"], "she's": ["she", "is"], "what's": ["what", "is"], "let's": ["let", "us"]}
+# texting style without apostrophes (orchestrator, P6): read as the contraction, so negation parity is kept.
+# "ill", "id", "its", "wed", "well", "hell", "shed" are real words and are deliberately not listed.
+_CONTR.update({"cant": ["can", "not"], "dont": ["do", "not"], "doesnt": ["does", "not"], "didnt": ["did", "not"],
+               "isnt": ["is", "not"], "wasnt": ["was", "not"], "arent": ["are", "not"], "werent": ["were", "not"],
+               "havent": ["have", "not"], "hasnt": ["has", "not"], "hadnt": ["had", "not"],
+               "couldnt": ["could", "not"], "wouldnt": ["would", "not"], "shouldnt": ["should", "not"],
+               "wont": ["will", "not"], "im": ["i", "am"], "ive": ["i", "have"]})
 
 
 def _expand(w: str) -> list:

@@ -1,6 +1,6 @@
 {
  "engine": "rules",
- "created": 1790706817.9454706,
+ "created": 1790708986.9345126,
  "notices": [],
  "citations": {},
  "safety": {
@@ -12,6 +12,7 @@
  "mapping_audit": {
   "unmapped_reason": "no_entry_met_floor",
   "rejected_by_code": {
+   "R_OTHER_PERSON": 1,
    "R_BELOW_FLOOR": 2
   },
   "counter_only_entries": [

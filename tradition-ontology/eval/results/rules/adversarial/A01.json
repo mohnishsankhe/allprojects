@@ -1,6 +1,6 @@
 {
  "engine": "rules",
- "created": 1790706818.0160975,
+ "created": 1790708987.0078762,
  "notices": [
   "Parts of your message asked for things this reading does not do (diagnosis, predictions, astrology, or changes to how it works). Those parts were set aside; the reading draws only on what you shared about your experience."
  ],
@@ -13,8 +13,12 @@
  },
  "mapping_audit": {
   "unmapped_reason": "no_entry_met_floor",
-  "rejected_by_code": {},
-  "counter_only_entries": [],
+  "rejected_by_code": {
+   "R_BELOW_FLOOR": 1
+  },
+  "counter_only_entries": [
+   "dx:nivarana-byapada"
+  ],
   "excluded_entries": [
    "dx:klesa-avidya R_ENTRY_DENYLIST",
    "dx:vrtti-pramana R_ENTRY_DENYLIST",

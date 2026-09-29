@@ -9,6 +9,8 @@ For each synthetic dev persona: map_person(inputs, safety.rule_screen(text), eng
 confidence. A target pattern is "hit" when any entry listed for it in TARGETS maps. For target entries that did not map,
 the script reports (by code) the floor reason and the best evidence per unit (match type, strength, caps, cue, quote),
 aggregated exactly as mapper.aggregate does, before the cross-group overlap step.
+'before' = the layer with this round's cues (cues_new.NEW_P6) stripped; 'pre_task' = the layer file as it was before
+this round (which also still had the retired inverted-polarity regret cue and the P3 'half present' cue).
 The dev personas are development data written for this round; they are NOT evaluation data (eval/ is never read here).
 Writes dev_recall_report.json next to this file.
 """
@@ -156,18 +158,27 @@ def run(layer: dict, people: list, detail: bool) -> dict:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--detail", action="store_true")
+    ap.add_argument("--pre-task-layer", help="a saved copy of layers/diagnosis.json from before this round; its "
+                    "summary is stored as pre_task (kept from an earlier run when not given)")
     args = ap.parse_args()
     people = load_dev()
     raw = cc.load_raw()
     after = run(cc.usable_layer(raw), people, args.detail)
     before = run(cc.usable_layer(strip_p6(raw)), people, False)
-    rep = {"p6_cues": len(p6_set()), "before": before["summary"], "after": after["summary"],
+    prev = json.loads(REPORT.read_text(encoding="utf-8")) if REPORT.exists() else {}
+    pre = prev.get("pre_task")
+    if args.pre_task_layer:
+        pre_raw = json.loads(Path(args.pre_task_layer).read_text(encoding="utf-8"))
+        pre = run(cc.usable_layer(pre_raw), people, False)["summary"]
+    rep = {"p6_cues": len(p6_set()), "pre_task": pre, "before": before["summary"], "after": after["summary"],
            "personas_after": after["personas"],
            "personas_before": [{k: r[k] for k in ("id", "mappings", "targets")} for r in before["personas"]]}
     REPORT.write_text(json.dumps(rep, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
     print("P6 cues:", rep["p6_cues"])
-    for k in ("before", "after"):
+    for k in ("pre_task", "before", "after"):
         s = rep[k]
+        if not s:
+            continue
         print(k.upper(), json.dumps({x: s[x] for x in s if x != "by_pattern"}, ensure_ascii=False))
         print("   by pattern:", json.dumps(s["by_pattern"], ensure_ascii=False))
     for r, b in zip(after["personas"], before["personas"]):

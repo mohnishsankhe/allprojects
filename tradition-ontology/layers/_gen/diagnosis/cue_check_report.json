@@ -3,44 +3,91 @@
  "generic_threshold": "> 10% of 24 (>= 3 people)",
  "lint_failures": {},
  "partial_risk_warnings": [
+  "dx:klesa-raga | I keep looking at the photos | ['look', 'photo']",
+  "dx:klesa-dvesa | I still resent how I was treated | ['still', 'resent', 'treat']",
+  "dx:antaraya-styana | my mind shuts down when I study | ['mind', 'shut', 'studi']",
+  "dx:antaraya-samsaya | I'm never sure whether prayer helps | ['sure', 'whether', 'prai', 'help']",
   "dx:antaraya-pramada | I've been meaning to start a practice | ['mean', 'start', 'practic']",
+  "dx:antaraya-pramada | I keep putting off my practice | ['put', 'practic']",
+  "dx:antaraya-pramada | I keep putting off my meditation | ['put', 'medit']",
+  "dx:antaraya-pramada | I keep putting off my prayers | ['put', 'prai']",
+  "dx:antaraya-pramada | I've been meaning to meditate for months | ['mean', 'medit', 'month']",
+  "dx:guna-rajas | I keep chasing the next big thing | ['chase', 'next', 'big']",
+  "dx:guna-tamas | I stay on the sofa all day | ['stai', 'sofa', 'dai']",
   "dx:guna-tamas | I've been meaning to start for months | ['mean', 'start', 'month']",
+  "dx:guna-tamas | I put things off until the last minute | ['put', 'last', 'minut']",
+  "dx:guna-tamas | I leave everything to the last minute | ['leav', 'last', 'minut']",
+  "dx:guna-tamas | I can't bring myself to start | ['bring', 'start']",
+  "dx:guna-tamas | I put off starting until tomorrow | ['put', 'start', 'tomorrow']",
+  "dx:guna-tamas | I keep postponing calls and emails | ['postpon', 'call', 'email']",
   "dx:gita-anger-chain | the more I dwell on it, the more I want it | ['dwell', 'want']",
   "dx:gita-anger-chain | I dwell on the thing I saw until I have to have it | ['dwell', 'saw']",
   "dx:gita-anger-chain | in my anger I forget everything I have learned | ['anger', 'forget', 'learn']",
   "dx:gita-visada | I long for someone wise to guide me | ['long', 'wise', 'guid']",
   "dx:gita-restless-mind | my thoughts run off | ['thought', 'run']",
+  "dx:gita-restless-mind | my mind jumps around | ['mind', 'jump', 'around']",
+  "dx:gita-restless-mind | my mind runs here and there | ['mind', 'run']",
+  "dx:gita-restless-mind | my thoughts jump around | ['thought', 'jump', 'around']",
+  "dx:gita-restless-mind | I lose focus within minutes | ['lose', 'focu', 'within', 'minut']",
+  "dx:gita-restless-mind | I keep pulling my mind back | ['pull', 'mind', 'back']",
+  "dx:gita-restless-mind | I keep checking my phone | ['check', 'phone']",
+  "dx:gita-restless-mind | my phone keeps pulling me away | ['phone', 'pull', 'awai']",
+  "dx:gk-laya | a fog comes over me when I meditate | ['fog', 'come', 'medit']",
   "dx:gk-kasaya | my meditative calm is coloured by a hidden residue | ['medit', 'calm', 'colour', 'hidden', 'residu']",
   "dx:katha-outward-senses | I never look within | ['look', 'within']",
   "dx:katha-outward-senses | my attention is always outside me, never inward | ['attent', 'outsid', 'inward']",
+  "dx:nivarana-byapada | I hold grudges for years | ['hold', 'grudg', 'year']",
+  "dx:nivarana-byapada | I never forget a wrong done to me | ['forget', 'wrong', 'done']",
+  "dx:nivarana-thina-middha | my mind goes blank when I study | ['mind', 'blank', 'studi']",
+  "dx:nivarana-thina-middha | studying bores me quickly | ['studi', 'bore', 'quickli']",
+  "dx:nivarana-uddhacca-kukkucca | my mind never stops | ['mind', 'stop']",
+  "dx:nivarana-uddhacca-kukkucca | I keep asking myself whether I chose wrong | ['ask', 'whether', 'chose', 'wrong']",
+  "dx:nivarana-uddhacca-kukkucca | I go over what I said and what I didn't say | ['said', 'sai']",
   "dx:nivarana-vicikiccha | my doubts about the teaching keep me from practising | ['doubt', 'teach', 'practic']",
   "dx:nivarana-vicikiccha | doubt keeps me from committing to any practice | ['doubt', 'commit', 'practic']",
+  "dx:nivarana-vicikiccha | I keep moving between traditions | ['move', 'tradit']",
   "dx:fetter-vicikiccha | I trust the teaching and then doubt it | ['trust', 'teach', 'doubt']",
   "dx:fetter-kamaraga | my desire sticks to it and won't let go | ['desir', 'stick', 'let']",
   "dx:fetter-mana | I'm better than the others | ['better', 'other']",
   "dx:root-lobha | I can't let go of my house | ['let', 'hous']",
+  "dx:root-lobha | I can't let go of the people I love | ['let', 'love']",
+  "dx:root-dosa | I seethe inside for days | ['seeth', 'insid', 'dai']",
+  "dx:pamada | I waste hours on my phone | ['wast', 'hour', 'phone']",
+  "dx:pamada | my days slip away | ['dai', 'slip', 'awai']",
   "dx:citta-sankhitta | my mind feels contracted and withdrawn | ['mind', 'contract', 'withdrawn']",
+  "dx:citta-vikkhitta | my mind is all over the place | ['mind', 'place']",
+  "dx:citta-vikkhitta | my thoughts are all over the place | ['thought', 'place']",
   "dx:carita-moha | I echo the opinions of people around me | ['echo', 'opinion', 'around']",
   "dx:carita-moha | I hold on to my opinions tenaciously | ['hold', 'opinion', 'tenaci']",
   "dx:carita-saddha | I dwell on people's small virtues | ['dwell', 'small', 'virtu']",
+  "dx:kasaya-krodha | little things set me off | ['littl', 'set']",
+  "dx:kasaya-krodha | I stay angry for hours | ['stai', 'anger', 'hour']",
+  "dx:kasaya-mana | I know I'm better than them | ['know', 'better']",
   "dx:kasaya-maya | I smile and agree in meetings and then say the opposite | ['smile', 'agre', 'meet', 'sai', 'opposit']",
+  "dx:kasaya-maya | I put on a fake smile | ['put', 'fake', 'smile']",
+  "dx:kasaya-maya | I tell people what they want to hear | ['tell', 'want', 'hear']",
+  "dx:kasaya-maya | I talk behind their backs | ['talk', 'behind', 'back']",
+  "dx:kasaya-lobha | I keep buying things I do not need | ['bui', 'need']",
+  "dx:jain-arta-dhyana | I keep wanting them back | ['want', 'back']",
+  "dx:jain-arta-dhyana | I'm already planning the next trip | ['alreadi', 'plan', 'next', 'trip']",
+  "dx:jain-arta-dhyana | I daydream about my next holiday | ['daydream', 'next', 'holidai']",
   "dx:jain-raudra-dhyana | I dwell with relish on getting back at them | ['dwell', 'relish', 'back']"
  ],
- "cues_added_total": 489,
+ "cues_added_total": 714,
  "cues_added_by_kind": {
-  "affliction": 64,
-  "fetter": 29,
-  "guna": 41,
-  "hindrance": 52,
-  "obstacle": 173,
-  "passion": 32,
-  "state": 37,
-  "temperament": 61
+  "affliction": 89,
+  "fetter": 39,
+  "guna": 61,
+  "hindrance": 103,
+  "obstacle": 220,
+  "passion": 91,
+  "state": 45,
+  "temperament": 66
  },
  "markers_with_added_cues": 102,
  "added_per_marker_min_max": [
   4,
-  8
+  28
  ],
  "user_facing_mappable_markers_without_added_cues": [
   "dx:carita-raga | Posture: walks gracefully, putting the foot down and lifting it slowly",
@@ -56,6 +103,12 @@
   "dx:guna-tamas | I keep putting it off": [
    "bland-04",
    "bland-05"
+  ],
+  "dx:pamada | I waste hours on my phone": [
+   "bland-05"
+  ],
+  "dx:guna-tamas | I leave everything to the last minute": [
+   "bland-09"
   ],
   "dx:antaraya-anavasthitatva | I can't stay where I got to": [
    "bland-13"
@@ -126,9 +179,14 @@
   {
    "id": "dev-04",
    "pattern": "going back over the past with regret",
-   "target_hit_after": false,
+   "target_hit_after": true,
    "target_hit_before": false,
-   "after": [],
+   "after": [
+    [
+     "dx:nivarana-uddhacca-kukkucca",
+     "low"
+    ]
+   ],
    "before": []
   },
   {
@@ -139,6 +197,10 @@
    "after": [
     [
      "dx:nivarana-vicikiccha",
+     "moderate"
+    ],
+    [
+     "dx:antaraya-samsaya",
      "low"
     ]
    ],
@@ -209,13 +271,13 @@
    "before": []
   }
  ],
- "dev_recall_after": "8/10",
+ "dev_recall_after": "9/10",
  "dev_recall_before": "0/10",
  "dev_confidence_after": {
-  "moderate": 2,
+  "moderate": 3,
   "low": 6,
-  "none": 2
+  "none": 1
  },
  "removed_this_run_list": [],
- "removed_total": 6
+ "removed_total": 7
 }

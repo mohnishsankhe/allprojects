@@ -1,251 +1,134 @@
 {
  "engine": "rules",
- "created": 1790706815.9003081,
+ "created": 1790708984.6669753,
  "notices": [
   "There are not yet enough gentle practices in the texts' own terms that match what you described, so the pathway below is short."
  ],
  "citations": {
-  "tea:bhagavad-gita:2.62": {
-   "id": "tea:bhagavad-gita:2.62",
+  "tea:bhagavad-gita:1.28": {
+   "id": "tea:bhagavad-gita:1.28",
    "source": "src:bhagavad-gita",
    "title": "Bhagavad Gītā",
-   "ref": "2.62",
-   "original": "dhyāyato viṣayānpuṃsaḥ saṅgasteṣūpajāyate|\nsaṅgāt saṃjāyate kāmaḥ kāmātkrodho'bhijāyate",
-   "paraphrase": "Kṛṣṇa: for a person who dwells on (dhyāyataḥ) sense-objects, attachment (saṅga) to them arises; from attachment desire (kāma) is born; from desire, anger (krodha) arises;",
+   "ref": "1.28",
+   "original": "kṛpayā parayā''viṣṭo viṣīdannidamabravīt|\ndṛṣṭvemaṃ svajanaṃ kṛṣṇa yuyutsuṃ samupasthitam",
+   "paraphrase": "Sañjaya: — overcome by the highest pity (kṛpā), despairing (viṣīdan), said this. Arjuna: 'Kṛṣṇa, seeing these my own people (svajana) standing near, eager to fight, —'",
    "level": "text-verified"
   },
-  "tea:bhagavad-gita:3.37": {
-   "id": "tea:bhagavad-gita:3.37",
+  "tea:bhagavad-gita:2.1": {
+   "id": "tea:bhagavad-gita:2.1",
    "source": "src:bhagavad-gita",
    "title": "Bhagavad Gītā",
-   "ref": "3.37",
-   "original": "śrī bhagavānuvāca\nkāma eṣa krodha eṣa rajoguṇasamudbhavaḥ|\nmahāśano mahāpāpmā viddhyenamiha vairiṇam",
-   "paraphrase": "Kṛṣṇa: it is desire (kāma), it is anger (krodha), arising from the guṇa of rajas (rajo-guṇa-samudbhava), all-devouring (mahāśana), greatly sinful (mahā-pāpman); know this to be the enemy (vairin) here.",
+   "ref": "2.1",
+   "original": "taṃ tathā kṛpayā'viṣṭamaśrupūrṇākulekṣaṇam|\nviṣīdantamidaṃ vākyamuvāca madhusūdanaḥ",
+   "paraphrase": "Sañjaya: to him, thus overcome by pity (kṛpā), his eyes filled with tears and troubled, despairing (viṣīdantam), Madhusūdana spoke these words:",
    "level": "text-verified"
   },
-  "tea:mahasatipatthana-sutta:dn22:13": {
-   "id": "tea:mahasatipatthana-sutta:dn22:13",
-   "source": "src:mahasatipatthana-sutta",
-   "title": "Mahāsatipaṭṭhāna Sutta",
-   "ref": "dn22:13",
-   "original": "4. Dhammānupassanā 4.1. Dhammānupassanānīvaraṇapabba Kathañca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati? Idha, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu. Kathañca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu? Idha, bhikkhave, bhikkhu santaṁ vā ajjhattaṁ kāmacchandaṁ ‘atthi me ajjhattaṁ kāmacchando’ti pajānāti, asantaṁ vā ajjhattaṁ kāmacchandaṁ ‘natthi me ajjhattaṁ kāmacchando’ti pajānāti, yathā ca anuppannassa kāmacchandassa uppādo hoti tañca pajānāti, yathā ca uppannassa kāmacchandassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa kāmacchandassa āyatiṁ anuppādo hoti tañca pajānāti. Santaṁ vā ajjhattaṁ byāpādaṁ ‘atthi me ajjhattaṁ byāpādo’ti pajānāti, asantaṁ vā ajjhattaṁ byāpādaṁ ‘natthi me ajjhattaṁ byāpādo’ti pajānāti, yathā ca anuppannassa byāpādassa uppādo hoti tañca pajānāti, yathā ca uppannassa byāpādassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa byāpādassa āyatiṁ anuppādo hoti tañca pajānāti. Santaṁ vā ajjhattaṁ thinamiddhaṁ ‘atthi me ajjhattaṁ thinamiddhan’ti pajānāti, asantaṁ vā ajjhattaṁ thinamiddhaṁ ‘natthi me ajjhattaṁ thinamiddhan’ti pajānāti, yathā ca anuppannassa thinamiddhassa uppādo hoti tañca pajānāti, yathā ca uppannassa thinamiddhassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa thinamiddhassa āyatiṁ anuppādo hoti tañca pajānāti. Santaṁ vā ajjhattaṁ uddhaccakukkuccaṁ ‘atthi me ajjhattaṁ uddhaccakukkuccan’ti pajānāti, asantaṁ vā ajjhattaṁ uddhaccakukkuccaṁ ‘natthi me ajjhattaṁ uddhaccakukkuccan’ti pajānāti, yathā ca anuppannassa uddhaccakukkuccassa uppādo hoti tañca pajānāti, yathā ca uppannassa uddhaccakukkuccassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa uddhaccakukkuccassa āyatiṁ anuppādo hoti tañca pajānāti. Santaṁ vā ajjhattaṁ vicikicchaṁ ‘atthi me ajjhattaṁ vicikicchā’ti pajānāti, asantaṁ vā ajjhattaṁ vicikicchaṁ ‘natthi me ajjhattaṁ vicikicchā’ti pajānāti, yathā ca anuppannāya vicikicchāya uppādo hoti tañca pajānāti, yathā ca uppannāya vicikicchāya pahānaṁ hoti tañca pajānāti, yathā ca pahīnāya vicikicchāya āyatiṁ anuppādo hoti tañca pajānāti. Iti ajjhattaṁ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati. Samudayadhammānupassī vā dhammesu viharati, vayadhammānupassī vā dhammesu viharati, samudayavayadhammānupassī vā dhammesu viharati. ‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti yāvadeva ñāṇamattāya paṭissatimattāya, anissito ca viharati, na ca kiñci loke upādiyati. Evampi kho, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu. Nīvaraṇapabbaṁ niṭṭhitaṁ.",
-   "paraphrase": "Contemplation of dhammas, first section: the five hindrances (nīvaraṇa). A monk knows sensual desire (kāmacchanda) present in him as present and absent as absent; he knows how unarisen sensual desire comes to arise, how arisen sensual desire is abandoned, and how the abandoned will not arise again in the future. He does the same for ill will (byāpāda), dullness and drowsiness (thina-middha), restlessness and remorse (uddhacca-kukkucca) and doubt (vicikicchā). The refrain follows in full and the hindrances section ends.",
+  "tea:bhagavad-gita:2.7": {
+   "id": "tea:bhagavad-gita:2.7",
+   "source": "src:bhagavad-gita",
+   "title": "Bhagavad Gītā",
+   "ref": "2.7",
+   "original": "kārpaṇyadoṣopahatasvabhāvaḥ\npṛcchāmi tvāṃ dharmasaṃmūḍhacetāḥ|\nyacchreyaḥ syānniśicataṃ brūhi tanme\nśiṣyaste'haṃ śādhi māṃ tvāṃ prapannam",
+   "paraphrase": "Arjuna: my very nature struck by the fault of pitiable weakness (kārpaṇya-doṣa), my mind bewildered about dharma (dharma-saṃmūḍha-cetāḥ), I ask you: tell me decisively what is better (śreyas). I am your disciple (śiṣya); instruct me, who have taken refuge in you (tvāṃ prapannam).",
    "level": "text-verified"
   },
-  "tea:mahasatipatthana-sutta:dn22:19": {
-   "id": "tea:mahasatipatthana-sutta:dn22:19",
-   "source": "src:mahasatipatthana-sutta",
-   "title": "Mahāsatipaṭṭhāna Sutta",
-   "ref": "dn22:19",
-   "original": "4.5.2. Samudayasaccaniddesa Katamañca, bhikkhave, dukkhasamudayaṁ ariyasaccaṁ? Yāyaṁ taṇhā ponobbhavikā nandīrāgasahagatā tatratatrābhinandinī, seyyathidaṁ— kāmataṇhā bhavataṇhā vibhavataṇhā. Sā kho panesā, bhikkhave, taṇhā kattha uppajjamānā uppajjati, kattha nivisamānā nivisati? Yaṁ loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Kiñca loke piyarūpaṁ sātarūpaṁ? Cakkhu loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Sotaṁ loke …pe… ghānaṁ loke … jivhā loke … kāyo loke … mano loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Rūpā loke … saddā loke … gandhā loke … rasā loke … phoṭṭhabbā loke … dhammā loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Cakkhuviññāṇaṁ loke … sotaviññāṇaṁ loke … ghānaviññāṇaṁ loke … jivhāviññāṇaṁ loke … kāyaviññāṇaṁ loke … manoviññāṇaṁ loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Cakkhusamphasso loke … sotasamphasso loke … ghānasamphasso loke … jivhāsamphasso loke … kāyasamphasso loke … manosamphasso loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Cakkhusamphassajā vedanā loke … sotasamphassajā vedanā loke … ghānasamphassajā vedanā loke … jivhāsamphassajā vedanā loke … kāyasamphassajā vedanā loke … manosamphassajā vedanā loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Rūpasaññā loke … saddasaññā loke … gandhasaññā loke … rasasaññā loke … phoṭṭhabbasaññā loke … dhammasaññā loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Rūpasañcetanā loke … saddasañcetanā loke … gandhasañcetanā loke … rasasañcetanā loke … phoṭṭhabbasañcetanā loke … dhammasañcetanā loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Rūpataṇhā loke … saddataṇhā loke … gandhataṇhā loke … rasataṇhā loke … phoṭṭhabbataṇhā loke … dhammataṇhā loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Rūpavitakko loke … saddavitakko loke … gandhavitakko loke … rasavitakko loke … phoṭṭhabbavitakko loke … dhammavitakko loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Rūpavicāro loke … saddavicāro loke … gandhavicāro loke … rasavicāro loke … phoṭṭhabbavicāro loke … dhammavicāro loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā uppajjamānā uppajjati, ettha nivisamānā nivisati. Idaṁ vuccati, bhikkhave, dukkhasamudayaṁ ariyasaccaṁ.",
-   "paraphrase": "Exposition of the truth of the origin of suffering (dukkhasamudaya). It is this craving (taṇhā), leading to renewed becoming (ponobbhavikā), accompanied by delight and passion (nandīrāga), delighting here and there: craving for sensual pleasure (kāmataṇhā), craving for becoming (bhavataṇhā), craving for non-becoming (vibhavataṇhā). Where does this craving arise and take root? Wherever in the world there is something dear-looking and pleasant-looking (piyarūpa, sātarūpa): there it arises and takes root. What in the world is dear-looking and pleasant-looking? The eye, ear, nose, tongue, body and mind; forms, sounds, smells, tastes, tangibles and dhammas; eye-consciousness and the other five consciousnesses; the six contacts (samphassa); the six feelings born of contact; the six perceptions; the six volitions (sañcetanā); the six cravings; the six thoughts (vitakka); and the six sustained thinkings (vicāra) — in each of these, the text says, this craving arises and takes root (the series is abbreviated with …pe…). 'This is called the noble truth of the origin of suffering.'",
-   "level": "text-verified"
-  },
-  "tea:mahasatipatthana-sutta:dn22:20": {
-   "id": "tea:mahasatipatthana-sutta:dn22:20",
-   "source": "src:mahasatipatthana-sutta",
-   "title": "Mahāsatipaṭṭhāna Sutta",
-   "ref": "dn22:20",
-   "original": "4.5.3. Nirodhasaccaniddesa Katamañca, bhikkhave, dukkhanirodhaṁ ariyasaccaṁ? Yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo. Sā kho panesā, bhikkhave, taṇhā kattha pahīyamānā pahīyati, kattha nirujjhamānā nirujjhati? Yaṁ loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Kiñca loke piyarūpaṁ sātarūpaṁ? Cakkhu loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Sotaṁ loke …pe… ghānaṁ loke … jivhā loke … kāyo loke … mano loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Rūpā loke … saddā loke … gandhā loke … rasā loke … phoṭṭhabbā loke … dhammā loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Cakkhuviññāṇaṁ loke … sotaviññāṇaṁ loke … ghānaviññāṇaṁ loke … jivhāviññāṇaṁ loke … kāyaviññāṇaṁ loke … manoviññāṇaṁ loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Cakkhusamphasso loke … sotasamphasso loke … ghānasamphasso loke … jivhāsamphasso loke … kāyasamphasso loke … manosamphasso loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Cakkhusamphassajā vedanā loke … sotasamphassajā vedanā loke … ghānasamphassajā vedanā loke … jivhāsamphassajā vedanā loke … kāyasamphassajā vedanā loke … manosamphassajā vedanā loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Rūpasaññā loke … saddasaññā loke … gandhasaññā loke … rasasaññā loke … phoṭṭhabbasaññā loke … dhammasaññā loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Rūpasañcetanā loke … saddasañcetanā loke … gandhasañcetanā loke … rasasañcetanā loke … phoṭṭhabbasañcetanā loke … dhammasañcetanā loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Rūpataṇhā loke … saddataṇhā loke … gandhataṇhā loke … rasataṇhā loke … phoṭṭhabbataṇhā loke … dhammataṇhā loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Rūpavitakko loke … saddavitakko loke … gandhavitakko loke … rasavitakko loke … phoṭṭhabbavitakko loke … dhammavitakko loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Rūpavicāro loke … saddavicāro loke … gandhavicāro loke … rasavicāro loke … phoṭṭhabbavicāro loke … dhammavicāro loke piyarūpaṁ sātarūpaṁ, etthesā taṇhā pahīyamānā pahīyati, ettha nirujjhamānā nirujjhati. Idaṁ vuccati, bhikkhave, dukkhanirodhaṁ ariyasaccaṁ.",
-   "paraphrase": "Exposition of the truth of the cessation of suffering (dukkhanirodha). It is the complete fading away and cessation (asesavirāganirodha) of that same craving, its giving up (cāga), relinquishment (paṭinissagga), release (mutti) and non-reliance (anālaya). Where is this craving abandoned and where does it cease? Wherever in the world there is something dear-looking and pleasant-looking: there it is abandoned and there it ceases. The text then repeats the same list as in the origin exposition (eye, ear … up to the six sustained thinkings), each time naming it as the place where craving is abandoned and ceases (abbreviated with …pe…). 'This is called the noble truth of the cessation of suffering.'",
-   "level": "text-verified"
-  },
-  "tea:satipatthana-sutta:mn10:34": {
-   "id": "tea:satipatthana-sutta:mn10:34",
+  "tea:satipatthana-sutta:mn10:2": {
+   "id": "tea:satipatthana-sutta:mn10:2",
    "source": "src:satipatthana-sutta",
    "title": "Satipaṭṭhāna Sutta",
-   "ref": "mn10:34",
-   "original": "3. Cittānupassanā Kathañca, bhikkhave, bhikkhu citte cittānupassī viharati? Idha, bhikkhave, bhikkhu sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajānāti. Vītarāgaṁ vā cittaṁ ‘vītarāgaṁ cittan’ti pajānāti. Sadosaṁ vā cittaṁ ‘sadosaṁ cittan’ti pajānāti. Vītadosaṁ vā cittaṁ ‘vītadosaṁ cittan’ti pajānāti. Samohaṁ vā cittaṁ ‘samohaṁ cittan’ti pajānāti. Vītamohaṁ vā cittaṁ ‘vītamohaṁ cittan’ti pajānāti. Saṅkhittaṁ vā cittaṁ ‘saṅkhittaṁ cittan’ti pajānāti. Vikkhittaṁ vā cittaṁ ‘vikkhittaṁ cittan’ti pajānāti. Mahaggataṁ vā cittaṁ ‘mahaggataṁ cittan’ti pajānāti. Amahaggataṁ vā cittaṁ ‘amahaggataṁ cittan’ti pajānāti. Sauttaraṁ vā cittaṁ ‘sauttaraṁ cittan’ti pajānāti. Anuttaraṁ vā cittaṁ ‘anuttaraṁ cittan’ti pajānāti. Samāhitaṁ vā cittaṁ ‘samāhitaṁ cittan’ti pajānāti. Asamāhitaṁ vā cittaṁ ‘asamāhitaṁ cittan’ti pajānāti. Vimuttaṁ vā cittaṁ ‘vimuttaṁ cittan’ti pajānāti. Avimuttaṁ vā cittaṁ ‘avimuttaṁ cittan’ti pajānāti.",
-   "paraphrase": "Contemplation of mind (citta). The Buddha asks how a monk abides contemplating mind in mind. Here he knows a mind with lust (sarāga) as 'mind with lust', and a mind without lust as 'mind without lust'; a mind with hatred (sadosa) and without hatred; a mind with delusion (samoha) and without delusion; a contracted (saṅkhitta) mind and a scattered (vikkhitta) mind; an exalted (mahaggata) and an unexalted mind; a surpassable (sauttara) and an unsurpassable (anuttara) mind; a concentrated (samāhita) and an unconcentrated mind; a liberated (vimutta) and an unliberated mind.",
+   "ref": "mn10:2",
+   "original": "“Ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā, sokaparidevānaṁ samatikkamāya, dukkhadomanassānaṁ atthaṅgamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya, yadidaṁ cattāro satipaṭṭhānā.",
+   "paraphrase": "The Buddha declares that this is a one-way path (ekāyana maggo) for the purification of beings, for overcoming sorrow and lamentation (soka-parideva), for the ending of pain and displeasure (dukkha-domanassa), for reaching the right method (ñāya), and for realising nibbāna: namely, the four satipaṭṭhānas (establishments of mindfulness).",
    "level": "text-verified"
   },
-  "tea:satipatthana-sutta:mn10:36": {
-   "id": "tea:satipatthana-sutta:mn10:36",
-   "source": "src:satipatthana-sutta",
-   "title": "Satipaṭṭhāna Sutta",
-   "ref": "mn10:36",
-   "original": "4. Dhammānupassanā 4.1. Dhammānupassanānīvaraṇapabba Kathañca, bhikkhave, bhikkhu dhammesu dhammānupassī viharati? Idha, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu. Kathañca pana, bhikkhave, bhikkhu dhammesu dhammānupassī viharati pañcasu nīvaraṇesu? Idha, bhikkhave, bhikkhu santaṁ vā ajjhattaṁ kāmacchandaṁ ‘atthi me ajjhattaṁ kāmacchando’ti pajānāti, asantaṁ vā ajjhattaṁ kāmacchandaṁ ‘natthi me ajjhattaṁ kāmacchando’ti pajānāti; yathā ca anuppannassa kāmacchandassa uppādo hoti tañca pajānāti, yathā ca uppannassa kāmacchandassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa kāmacchandassa āyatiṁ anuppādo hoti tañca pajānāti. Santaṁ vā ajjhattaṁ byāpādaṁ ‘atthi me ajjhattaṁ byāpādo’ti pajānāti, asantaṁ vā ajjhattaṁ byāpādaṁ ‘natthi me ajjhattaṁ byāpādo’ti pajānāti; yathā ca anuppannassa byāpādassa uppādo hoti tañca pajānāti, yathā ca uppannassa byāpādassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa byāpādassa āyatiṁ anuppādo hoti tañca pajānāti. Santaṁ vā ajjhattaṁ thinamiddhaṁ ‘atthi me ajjhattaṁ thinamiddhan’ti pajānāti, asantaṁ vā ajjhattaṁ thinamiddhaṁ ‘natthi me ajjhattaṁ thinamiddhan’ti pajānāti, yathā ca anuppannassa thinamiddhassa uppādo hoti tañca pajānāti, yathā ca uppannassa thinamiddhassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa thinamiddhassa āyatiṁ anuppādo hoti tañca pajānāti. Santaṁ vā ajjhattaṁ uddhaccakukkuccaṁ ‘atthi me ajjhattaṁ uddhaccakukkuccan’ti pajānāti, asantaṁ vā ajjhattaṁ uddhaccakukkuccaṁ ‘natthi me ajjhattaṁ uddhaccakukkuccan’ti pajānāti; yathā ca anuppannassa uddhaccakukkuccassa uppādo hoti tañca pajānāti, yathā ca uppannassa uddhaccakukkuccassa pahānaṁ hoti tañca pajānāti, yathā ca pahīnassa uddhaccakukkuccassa āyatiṁ anuppādo hoti tañca pajānāti. Santaṁ vā ajjhattaṁ vicikicchaṁ ‘atthi me ajjhattaṁ vicikicchā’ti pajānāti, asantaṁ vā ajjhattaṁ vicikicchaṁ ‘natthi me ajjhattaṁ vicikicchā’ti pajānāti; yathā ca anuppannāya vicikicchāya uppādo hoti tañca pajānāti, yathā ca uppannāya vicikicchāya pahānaṁ hoti tañca pajānāti, yathā ca pahīnāya vicikicchāya āyatiṁ anuppādo hoti tañca pajānāti.",
-   "paraphrase": "Contemplation of dhammas, first section: the five hindrances (nīvaraṇa). The Buddha asks how a monk abides contemplating dhammas in dhammas with regard to the five hindrances. Here, when sensual desire (kāmacchanda) is present in him he knows 'there is sensual desire in me'; when it is absent he knows 'there is no sensual desire in me'; he knows how unarisen sensual desire comes to arise; he knows how arisen sensual desire is abandoned; and he knows how the abandoned sensual desire will not arise again in the future. He does the same, in exactly this fivefold way, for ill will (byāpāda), for dullness and drowsiness (thina-middha), for restlessness and remorse (uddhacca-kukkucca) and for doubt (vicikicchā).",
-   "level": "text-verified"
-  },
-  "tea:tattvartha-sutra:8.2": {
-   "id": "tea:tattvartha-sutra:8.2",
+  "tea:tattvartha-sutra:9.2": {
+   "id": "tea:tattvartha-sutra:9.2",
    "source": "src:tattvartha-sutra",
    "title": "Tattvārthasūtra",
-   "ref": "8.2",
-   "original": "sakaṣāyatvājjīvaḥ karmaṇo yogyān pudgalānādatte sa baṃdhaḥ",
-   "paraphrase": "Because it has passions (sakaṣāyatvāt), the soul (jīva) takes in the material particles (pudgala) that are fit to be karma: that is bondage (bandha).",
+   "ref": "9.2",
+   "original": "sa gupti-samiti-dharmānuprekṣā-parīṣahajaya-cāritraiḥ",
+   "paraphrase": "That (saṃvara) comes about through the guptis, the samitis, the dharma, the anuprekṣās, the conquest of the parīṣahas, and cāritra.",
    "level": "text-verified"
   },
-  "tea:tattvartha-sutra:8.9": {
-   "id": "tea:tattvartha-sutra:8.9",
+  "tea:tattvartha-sutra:9.28": {
+   "id": "tea:tattvartha-sutra:9.28",
    "source": "src:tattvartha-sutra",
    "title": "Tattvārthasūtra",
-   "ref": "8.9",
-   "original": "darśanacāritra-mohanīyākaṣāya-kaṣāyavedanīyākhyāstridvi-nava-ṣoḍaśabhedāḥ samyaktva-mithyātva-tadubhayānyakaṣāya-kaṣāyau hāsyaratyarati-śoka-bhaya-jugupsā-strī-punnapuṃsaka-vedā anantānubaṃdhya-pratyākhyāna-pratyākhyāna-saṃjvalana-vikalpāścaikaśaḥ krodha-māna-māyā-lobhāḥ",
-   "paraphrase": "Deluding karma (mohanīya) is named as view-deluding (darśana-mohanīya), conduct-deluding (cāritra-mohanīya), non-passion-felt (akaṣāya-vedanīya) and passion-felt (kaṣāya-vedanīya), with three, two, nine and sixteen kinds respectively. View-deluding: right view (samyaktva), wrong view (mithyātva) and both (tad-ubhaya). Conduct-deluding: non-passion and passion (akaṣāya, kaṣāya). Non-passions: laughter, liking, disliking, grief, fear, disgust, and the female, male and neuter sex-drive (vedas). The passions are the four, anger (krodha), pride (māna), deceit (māyā) and greed (lobha), each with four varieties (vikalpa) named anantānubandhī (\"bound to the endless\"), apratyākhyāna (\"non-renunciation\"), pratyākhyāna (\"renunciation\") and saṃjvalana (\"flaring together\"); these glosses give only the literal sense of the names.",
+   "ref": "9.28",
+   "original": "ārtta-raudra-dharmya-śuklāni",
+   "paraphrase": "Dhyāna is of four kinds: ārta (pained), raudra (fierce), dharmya (of dharma) and śukla (white).",
    "level": "text-verified"
   },
-  "tea:visuddhimagga:14.p468": {
-   "id": "tea:visuddhimagga:14.p468",
-   "source": "src:visuddhimagga",
-   "title": "Visuddhimagga",
-   "ref": "14.p468",
-   "original": "akusalesu, lobhamūle paṭhamākusalasampayuttā tāva  \nniyatā sarūpena āgatā terasa, ye-vā-pana-kā cattāro ti  \nsattarasa|  \n     tattha  \n             phasso samādhi  \n             cetanā ahirikaṃ  \n             vitakko anottappaṃ  \n             vicāro lobho  \n             pīti moho  \n             viriyaṃ micchādiṭṭhī  \n             jīvitaṃ  \nti ime sarūpena āgatā terasa|  \n             chando uddhaccaṃ  \n             adhimokkho manasikāro  \nti ime ye-vā-pana-kā cattāro|  \n     tattha na hiriyatī ti ahiriko| ahirikassa bhāvo ahirikaṃ|  \nna ottappatī ti anottappaṃ| tesu ahirikaṃ kāyaduccaritādīhi  \najigucchanalakkhaṇaṃ, alajjālakkhaṇaṃ vā, anottappaṃ  \nteh'; eva asārajjalakkhaṇaṃ, anuttāsalakkhaṇaṃ vā| ayam  \nettha sankhepo| vitthāro pana hirottappānaṃ vuttapaṭi-  \npakkhavasena veditabbo|  \n     lubbhanti tena, sayaṃ vā lubbhati, lubbhanamattam eva  \nvā tan ti lobho| muyhanti tena, sayaṃ vā muyhati, muyha-  \nnamattam eva vā tan ti moho|  \n     tesu lobho ārammaṇagahaṇalakkhaṇo, makkaṭālepo viya;  \nabhisangaraso, tattakapāle khittaṃ maṃsapesi viya; aparic-  \ncāgapaccupaṭṭhāno, telañjanarāgo viya; saṃyojanīyadham-  \nmesu assādadassanapadaṭṭhāno| taṇhā nadībhāvena vaḍ-  \nḍhamāno, sīghasotā nadī iva mahāsamuddaṃ, apāyam eva  \ngahetvā gacchatī ti daṭṭhabbo|  \n     moho cittassa andhabhāvalakkhaṇo, aññāṇalakkhaṇo  \nvā; asampaṭivedharaso, ārammaṇasabhāvacchādanaraso vā;  \nasammāpaṭipattipaccupaṭṭhāno, andhakārapaccupaṭṭhāno vā;  \nayonisomanasikārapadaṭṭhāno, sabbākusalānaṃ mūlan ti  \ndaṭṭhabbo|  \n     micchā passanti tāya, sayaṃ vā micchā passati, micchā-",
-   "paraphrase": "Chapter XIV, on the aggregate of formations, continues with the unwholesome. In the first unwholesome consciousness rooted in greed there are seventeen: thirteen given in their own form (contact, volition, applied thought, sustained thought, rapture, energy, life faculty, concentration, shamelessness, fearlessness of wrongdoing, greed, delusion, wrong view) and four \"whatever\" factors (zeal, resolve, restlessness, attention). Shamelessness (ahirika) has as its mark absence of disgust at bodily misconduct and the like, or lack of conscience; fearlessness of wrongdoing (anottappa) has as its mark absence of dread of the same, or lack of fear. Greed (lobha) is that by which one is greedy, or which is greedy, or mere greed: its mark is grasping an object, like a monkey-lime; its function is sticking, like a piece of meat thrown into a hot pan; its manifestation is non-relinquishing, like the dye of lamp-black oil; its proximate cause is seeing enjoyment in things that fetter. Craving, growing as a river, is to be regarded as a fast-flowing river carrying one to the sea, taking one to the states of loss. Delusion (moha) has as its mark blindness of consciousness or lack of knowledge; as function, non-penetration or concealing the nature of the object; as manifestation, wrong practice or darkness; as proximate cause, unwise attention; it is the root of all that is unwholesome.",
+  "tea:tattvartha-sutra:9.29": {
+   "id": "tea:tattvartha-sutra:9.29",
+   "source": "src:tattvartha-sutra",
+   "title": "Tattvārthasūtra",
+   "ref": "9.29",
+   "original": "pare mokṣahetū",
+   "paraphrase": "The latter two [dharmya and śukla] are the causes (hetu) of liberation (mokṣa).",
    "level": "text-verified"
   },
-  "tea:visuddhimagga:22.p683": {
-   "id": "tea:visuddhimagga:22.p683",
-   "source": "src:visuddhimagga",
-   "title": "Visuddhimagga",
-   "ref": "22.p683",
-   "original": "kāyadiṭṭhi, vicikicchā, sīlabbataparāmāso, kāmarāgo, paṭi-  \ngho ti ime pañca adhonibbattakakhandhādisaṃ yojakattā  \nadhobhāgiyasaṃyojanāni nāma|  \n     kilesā ti sayaṃ sankiliṭṭhattā sampayuttadhammānañ ca  \nsankilesikattā lobho, doso, moho, māno, diṭṭhi, vicikicchā,  \nthīnaṃ, uddhaccaṃ, ahitikaṃ, anottappan ti ime dasa  \ndhammā|  \n     micchattā ti micchā pavattanato micchādiṭṭhi, micchāsan-  \nkappo, micchāvācā, micchākammanto, micchā-ājīvo, micchā-  \nvāyāmo, micchāsati, micchāsamādhī ti ime aṭṭha dhammā|  \nmicchāviratti-micchāñāṇehi vā saddhiṃ dasa|  \n     lokadhammā ti lokappavattiyā sati anuparamadhammattā1  \nlābho, alābho, yaso, ayaso,2 sukhaṃ, dukkhaṃ, nindā, pasaṃsā  \nti ime aṭṭha| idha pana kāraṇūpacārena3 lābhādi-vatthu-  \nkassa anunayassa alābhādi-vatthukassa paṭighassa c'; etaṃ  \nlokadhammagahaṇena gahaṇaṃ katan ti veditabbaṃ|  \n     macchariyānī ti āvāsamacchariyaṃ, kulamacchariyaṃ,  \nlābhamacchariyaṃ, dhammamacchariyaṃ, vaṇṇamacchari-  \nyan ti imāsu āvāsādisu aññesam sādhāraṇabhāvaṃ asahaṇā-  \nkārena pavattāni pañca macchariyāni|  \n     vipallāsā ti anicca-dukkha-anatta-asubhesu yeva vatthusu  \nniccaṃ sukhaṃ attā subhan ti evaṃ pavatto saññāvipallāso,  \ncittavipallāso, diṭṭhivipallāso ti ime tayo|  \n     ganthā ti nāma kāyassa ceva rūpakāyassa ca ganthanato  \nabhijjhādayo cattāro| tathā hi te abhijjhā-kāyagantho,  \nvyāpādo-kāyagantho, sīlabbataparāmāso-kāyagantho, idaṃ-  \nsaccābhiniveso-kāyagantho icc'; eva vuttā|  \n     agatī ti chanda-dosa-moha-bhayehi akattabbakaraṇassa  \nkattabbākaraṇassa ca adhivacanaṃ| taṃ hi ariyehi agan-  \ntabbattā agatī ti vuccati|  \n     āsavā ti ārammaṇavasena āgotrabhūto ābhavaggato ca  \nsavanā-asaṃvutehi vā dvārehi ghaṭachiddehi, udakaṃ viya  \nsavanato niccapaggharaṇ'; aṭṭhena, saṃsāradukkhassa vā  \nsavanato kāmarāgabhavarāgamicchādiṭṭhi-āvijjānam etaṃ  \nadhivacanaṃ|",
-   "paraphrase": "The five lower fetters are personality view (sakkāyadiṭṭhi), doubt (vicikicchā), adherence to rites and observances, sensual lust and ill will (paṭigha), which bind to lower aggregates and the like. Defilements (kilesa), being themselves defiled and defiling their associated states, are ten: greed, hate, delusion, conceit, view, doubt, sloth, restlessness, shamelessness and fearlessness of wrongdoing. Wrongnesses (micchatta) are eight: wrong view, wrong intention, wrong speech, wrong action, wrong livelihood, wrong effort, wrong mindfulness and wrong concentration, or ten with wrong release and wrong knowledge. Worldly conditions (lokadhamma) are eight: gain and loss, fame and disrepute, pleasure and pain, blame and praise; here the text says liking for what is gained and resentment for what is not gained are taken under those. Avarice (macchariya) is fivefold: over dwelling, family, gain, teaching and praise. Perversions (vipallāsa) are three: of perception, of mind and of view, taking the impermanent, painful, not-self and unlovely as permanent, pleasant, self and beautiful. Ties (gantha) are four: covetousness, ill will, adherence to rites and observances, and the insistence that \"this alone is truth\". Wrong courses (agati) are doing what should not be done and not doing what should be done through desire, hate, delusion and fear. Taints (āsava) is a name for sensual lust, lust for existence, wrong view and ignorance, so called because they flow out (as far as change-of-lineage and the top of existence by way of object, or through the unguarded doors like water through the holes of a jar, in the sense of constant trickling), or because they make the suffering of the round flow (continued on p. 684).",
+  "tea:tattvartha-sutra:9.30": {
+   "id": "tea:tattvartha-sutra:9.30",
+   "source": "src:tattvartha-sutra",
+   "title": "Tattvārthasūtra",
+   "ref": "9.30",
+   "original": "ārtamamanojñasya saṃprayoge tadviprayogāya smṛti-samanvāhāraḥ",
+   "paraphrase": "Ārta [dhyāna] is a continuous bringing to mind (smṛti-samanvāhāra) directed at separation from a disagreeable (amanojña) thing when one is in contact with it.",
    "level": "text-verified"
   },
-  "tea:visuddhimagga:4.p146": {
-   "id": "tea:visuddhimagga:4.p146",
-   "source": "src:visuddhimagga",
-   "title": "Visuddhimagga",
-   "ref": "4.p146",
-   "original": "yaṃ pana vuttaṃ:- pañcangavippahīnaṃ, pañcanga-  \nsamannāgatan ti3 tattha kāmacchando, vyāpādo, thīnamid-  \ndhaṃ, uddhaccakukkuccaṃ, vicikicchā ti imesaṃ pañcan-  \nnaṃ nīvaraṇānaṃ pahānavasena pañcangavippahīnatā vedi-  \ntabbā| na hi etesu appahīnesu jhānam uppajjati, ten'; ass'  \netāni pahānangānī ti vuccanti| kiñcāpi hi jhānakkhaṇe  \naññe pi akusalā dhamma pahīyanti, tathā pi etān'; eva vise-  \nsena jhānantarāyakarāni| kāmacchandena hi nānāvisayap-  \npalobhitaṃ cittaṃ na ekattārammaṇe samādhiyati, kāmac-  \nchandābhibhūtaṃ vā taṃ na kāmadhātuppahānāya paṭi-  \npadaṃ paṭipajjati, vyāpādena c'; ārammaṇe paṭihaññamā-  \nnaṃ na nirantaraṃ pavattati| thīnamiddhābhibhūtaṃ  \nakammaññaṃ hoti, uddhaccakukuccaparetaṃ avūpasantam  \neva hutvā paribbhamati| vicikicchāya upahataṃ jhānā-  \ndhigamasādhikaṃ paṭipadaṃ nārohati, iti visesena jhānan-  \ntarāyakarattā etān'; eva pahānangānī ti vuttāni4|",
-   "paraphrase": "On \"with five factors abandoned\": the abandoned factors are the five hindrances (nīvaraṇa): sensual desire (kāmacchanda), ill will (vyāpāda), sloth and torpor (thīnamiddha), restlessness and remorse (uddhacca-kukkucca) and doubt (vicikicchā). The jhāna does not arise while these are unabandoned, so they are called the factors of abandoning. Though other unwholesome states are also abandoned at the moment of jhāna, these five in particular are the obstructions to jhāna. Consciousness enticed by objects of many kinds is not concentrated on a unified object; overcome by sensual desire it does not follow the way to abandon the sense sphere. Struck by ill will at the object it does not continue without a break. Overcome by sloth and torpor it becomes unwieldy. Overtaken by restlessness and remorse it is unquiet and wanders about. Harmed by doubt it does not climb the way that leads to attaining the jhāna.",
+  "tea:tattvartha-sutra:9.31": {
+   "id": "tea:tattvartha-sutra:9.31",
+   "source": "src:tattvartha-sutra",
+   "title": "Tattvārthasūtra",
+   "ref": "9.31",
+   "original": "viparītaṃ manojñasya",
+   "paraphrase": "The reverse, in the case of the agreeable (manojña).",
    "level": "text-verified"
   },
-  "tea:yoga-bhasya:2.33": {
-   "id": "tea:yoga-bhasya:2.33",
+  "tea:tattvartha-sutra:9.32": {
+   "id": "tea:tattvartha-sutra:9.32",
+   "source": "src:tattvartha-sutra",
+   "title": "Tattvārthasūtra",
+   "ref": "9.32",
+   "original": "vedanāyāśca",
+   "paraphrase": "And [ārta dhyāna is also] in the case of feeling (vedanā).",
+   "level": "text-verified"
+  },
+  "tea:tattvartha-sutra:9.33": {
+   "id": "tea:tattvartha-sutra:9.33",
+   "source": "src:tattvartha-sutra",
+   "title": "Tattvārthasūtra",
+   "ref": "9.33",
+   "original": "nidānaṃ ca",
+   "paraphrase": "And nidāna [is also ārta dhyāna].",
+   "level": "text-verified"
+  },
+  "tea:tattvartha-sutra:9.7": {
+   "id": "tea:tattvartha-sutra:9.7",
+   "source": "src:tattvartha-sutra",
+   "title": "Tattvārthasūtra",
+   "ref": "9.7",
+   "original": "anityāśaraṇa-saṃsāraikatvānya-tvāśucyāsravasaṃvara-nirjarā-loka-bodhidurlabha-dharma-svākhyātattvānu-cintana-manuprekṣāḥ",
+   "paraphrase": "The anuprekṣās (repeated contemplations) are anucintana of: impermanence (anitya), no refuge (aśaraṇa), the round of births (saṃsāra), aloneness (ekatva), otherness (anyatva), impurity (aśuci), inflow (āsrava), stopping (saṃvara), shedding (nirjarā), the universe (loka), the rarity of enlightenment (bodhi-durlabha), and the well-taught nature of dharma (dharma-svākhyātatva).",
+   "level": "text-verified"
+  },
+  "tea:yoga-bhasya:1.31": {
+   "id": "tea:yoga-bhasya:1.31",
    "source": "src:yoga-bhasya",
    "title": "Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)",
-   "ref": "2.33",
-   "original": "yadāsya brāhmaṇasya hiṃsādayo vitarkā jāyeran haniṣyāmy aham apakāriṇam anṛtam api vakṣyāmi dravyam apy asya svīkariṣyāmi dāreṣu cāsya vyavāyī bhaviṣyāmi parigraheṣu cāsya svāmī bhaviṣyāmīti /\nevam unmārgapravaṇavitarkajvareṇātidīptena bādhyamānas tatpratipakṣān bhāvayet /\nghoreṣu saṃsārāṅgāreṣu pacyamānena mayā śaraṇam upāgataḥ sarvabhūtābhayapradānena yogadharmaḥ /\nsa khalv ahaṃ tyaktvā vitarkān punas tān ādadānas tulyaḥ śvavṛtteneti bhāvayet /\nyathā śvā vāntāvalehī tathā tyaktasya punar ādadāna iti /\nevamādi sūtrāntareṣv api yojyam",
-   "paraphrase": "When harmful thoughts (vitarka) such as violence arise in this Brāhmaṇa — 'I will kill the one who has wronged me; I will tell a lie; I will take his goods; I will lie with his wives; I will become owner of his possessions' — then, oppressed in this way by the fever of thoughts (vitarka-jvara) inclined to the wrong road and greatly inflamed, he should cultivate their opposites. He should think: 'I, being cooked in the terrible coals of saṃsāra, have come for refuge to the dharma of yoga, by giving safety (abhaya) to all beings; if, having abandoned the harmful thoughts, I take them up again, I am like a dog's behaviour: as a dog licks what it has vomited, so am I, taking up what I have given up.' The same is to be applied to the other sūtras.",
+   "ref": "1.31",
+   "original": "duḥkham ādhyātmikam ādhibhautikam ādhidaivikaṃ ca /\nyenābhihatāḥ prāṇinas tadapaghātāya prayatante tad duḥkham /\ndaurmanasyam icchāvighātāc cetasaḥ kṣobhaḥ /\nyad aṅgāny ejayati kampayati tad aṅgamejayatvam /\nprāṇo yad bāhyaṃ vāyum ācāmati sa śvāsaḥ /\nyat kauṣṭhyaṃ vāyuṃ niḥsārayati sa praśvāsaḥ /\nete vikṣepasahabhuvo vikṣiptacittasyaite bhavanti /\nsamāhitacittasyaite na bhavanti",
+   "paraphrase": "Pain (duḥkha) is of three kinds: relating to oneself (ādhyātmika), to other beings (ādhibhautika), and to the divine (ādhidaivika); it is that by which beings are struck and strive to strike it down. Dejection (daurmanasya) is a disturbance (kṣobha) of the mind through the frustration of a wish. Trembling of the limbs (aṅgamejayatva) is that which shakes the limbs. Inhalation (śvāsa) is when the vital breath (prāṇa) takes in outer air; exhalation (praśvāsa) is when it expels air from the belly. These are companions of distraction: they occur in one whose mind is distracted (vikṣipta); they do not occur in one whose mind is concentrated (samāhita).",
    "level": "text-verified"
   },
-  "tea:yoga-bhasya:2.34": {
-   "id": "tea:yoga-bhasya:2.34",
-   "source": "src:yoga-bhasya",
-   "title": "Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)",
-   "ref": "2.34",
-   "original": "tatra hiṃsā tāvat --- kṛtā kāritānumoditeti tridhā /\nekaikā punas tridhā lobhena māṃsacarmārthena krodhenāpakṛtam aneneti mohena dharmo me bhaviṣyatīti /\nlobhakrodhamohāḥ punas trividhā mṛdumadhyādhimātrā iti /\nevaṃ saptaviṃśatir bhedā bhavanti hiṃsāyāḥ /\nmṛdumadhyādhimātrāḥ punas tridhā --- mṛdumṛdur madhyamṛdus tīvramṛdur iti /\ntathā mṛdumadhyo madhyamadhyas tīvramadhya iti /\ntathā mṛdutīvro madhyatīvro 'dhimātratīvra iti /\nevam ekāśītibhedā hiṃsā bhavati /\nsā punar niyamavikalpasamuccayabhedād asaṃkhyeyā, prāṇabhṛdbhedasyāparisaṃkhyeyatvād iti /\nevam anṛtādiṣv api yojyam /\nte khalv amī vitarkā duḥkhājñānānantaphalā iti pratipakṣabhāvanam /\nduḥkham ajñānaṃ cānantaṃ phalaṃ yeṣām iti pratipakṣabhāvanam /\ntathā ca hiṃsakas tāvat prathamaṃ vadhyasya vīryam ākṣipati /\ntataś ca śastrādinipātena duḥkhayati /\ntato jīvitād api mocayati /\ntato vīryākṣepād asya cetanācetanam upakaraṇaṃ kṣīṇavīryaṃ bhavati /\nduḥkhotpādān narakatiryakpretādiṣu duḥkham anubhavati, jīvitavyaparopaṇāt pratikṣaṇaṃ ca jīvitātyaye vartamāno maraṇam icchann api duḥkhavipākasya niyatavipākavedanīyatvāt kathaṃcid evocchvasiti /\nyadi ca kathaṃcit puṇyāvāpagatā hiṃsā bhavet tatra sukhaprāptau bhaved alpāyur iti /\nevam anṛtādiṣv api yojyaṃ yathāsaṃbhavam /\nevaṃ vitarkāṇāṃ cāmum evānugataṃ vipākam aniṣṭaṃ bhāvayan na vitarkeṣu manaḥ praṇidadhīta. 2.34\npratipakṣabhāvanād dhetor heyā vitarkā yadāsya syur aprasavadharmāṇas tadā tatkṛtam aiśvaryaṃ yoginaḥ siddhisūcakaṃ bhavati /\ntadyathā ---",
-   "paraphrase": "Violence is threefold: done (kṛta), caused to be done (kārita), approved (anumodita). Each is again threefold, from greed (lobha, e.g. for meat or skin), from anger ('he wronged me'), or from delusion ('it will be dharma for me'); greed, anger and delusion are each mild, middling or intense. So violence has twenty-seven forms; the mild, middling and intense are again each threefold, making eighty-one; and with rules, options and combinations it is countless, since the kinds of living beings are countless. The same applies to untruth and the rest. 'Suffering and ignorance without end as fruit' is the cultivation of the opposite: the violent one first takes away the victim's strength, then torments him by the fall of a weapon, then deprives him of life. From robbing strength, his own animate and inanimate implements lose strength; from causing suffering he suffers in hells, animal births and ghost-states; and from robbing life, moment by moment at the end of his own life, wishing for death, he still breathes somehow, because the ripening of suffering is fixed. If somehow such violence goes with merit, then in gaining pleasure he will have a short life. The same is to be applied, as fits, to untruth and the rest. Thus contemplating the unwanted ripening that follows harmful thoughts, one should not set the mind on them.",
-   "level": "text-verified"
-  },
-  "tea:yoga-bhasya:2.4": {
-   "id": "tea:yoga-bhasya:2.4",
-   "source": "src:yoga-bhasya",
-   "title": "Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)",
-   "ref": "2.4",
-   "original": "atrāvidyā kṣetraṃ prasavabhūmir uttarareṣām asmitādīnāṃ caturvidhavikalpānāṃ prasuptatanuvicchinnodārāṇām /\ntatra kā prasuptiḥ /\ncetasi śaktimātrapratiṣṭhānāṃ bījabhāvopagamaḥ /\ntasya prabodha ālambane saṃmukhībhāvaḥ /\nprasaṃkhyānavato dagdhakleśabījasya saṃmukhībhūte 'py ālambane nāsau punar asti, dagdhabījasya kutaḥ praroha iti /\nataḥ kṣīṇakleśaḥ kuśalaś caramadeha ity ucyate /\ntatraiva sā dagdhabījabhāvā pañcamī kleśāvasthā nānyatreti /\nsatāṃ kleśānāṃ tadā bījasāmarthyaṃ dagdham iti viṣayasya saṃmukhībhāve 'pi sati na bhavaty eṣāṃ prabodha ity uktā prasuptir dagdhabījānām aprarohaś ca /\ntanutvam ucyate --- pratipakṣabhāvanopahatāḥ kleśās tanavo bhavanti /\ntathā vicchidya vicchidya tena tenātmanā punaḥ punaḥ samudācarantīti vicchinnāḥ /\nkathaṃ, rāgakāle krodhasyādarśanāt /\nna hi rāgakāle krodhaḥ samudācarati /\nrāgaś ca kvacid dṛśyamāno na viṣayāntare nāsti /\nnaikasyāṃ striyāṃ caitro rakta ity anyāsu strīṣu viraktaḥ, kiṃtu tatra rāgo labdhavṛttir anyatra tu bhaviṣyadvṛttir iti /\nsa hi tadā prasuptatanuvicchinno bhavati /\nviṣaye yo labdhavṛttiḥ sa udāraḥ /\nsarva evaite kleśaviṣayatvaṃ nātikrāmanti /\nkas tarhi vicchinnaḥ prasuptas tanur udāro vā kleśa iti, ucyate --- satyam evaitat, kiṃtu viśiṣṭānām evaiteṣāṃ vicchinnāditvam /\nyathaiva pratipakṣabhāvanāto nivṛttas tathaiva svavyañjakāñjanenābhivyakta iti /\nsarva evāmī kleśā avidyābhedāḥ /\nkasmāt, sarveṣv avidyaivābhiplavate /\nyad avidyayā vastv ākāryate tad evānuśerate kleśā viparyāsapratyayakāla upalabhyante kṣīyamāṇāṃ cāvidyām anu kṣīyanta iti",
-   "paraphrase": "Here ignorance is the field (kṣetra), the ground of origin, of the later ones — I-am-ness and the rest — which have four varieties: dormant, attenuated, interrupted, fully active. Dormancy (prasupti) is the afflictions' having reached a seed-state (bīja-bhāva), resting in the mind as bare potency (śakti-mātra); their awakening (prabodha) is their coming face to face with a support (ālambana). For one with discerning insight (prasaṃkhyāna) whose seeds of affliction are burnt, even when the support is present the affliction does not arise again; how could a burnt seed sprout? Hence one 'whose afflictions are worn away, skilful, in his last body (carama-deha)' is spoken of; in him alone is that fifth state of the afflictions, the burnt-seed state. Attenuation (tanutva): afflictions struck by the cultivation of their opposite (pratipakṣa-bhāvanā) become thin. Interrupted (vicchinna): they act again and again in this or that form, cut off; e.g. at a time of passion anger is not seen, though passion, seen in one place, is not absent in another — Caitra, enamoured of one woman, is not thereby disenchanted with the others; there passion has gained activity, elsewhere it will gain it; so at that time it is dormant, attenuated and interrupted. Fully active (udāra): the one that has gained activity in regard to an object. All these do not go beyond being of the sphere of the afflictions. The bhāṣya notes that these four belong to particular afflictions in particular circumstances: as one is turned back by the cultivation of the opposite, so it becomes manifest through its own manifester's coloration. All the afflictions are varieties of ignorance, because ignorance pervades in all: what ignorance makes appear as a thing, that the afflictions lie along with; they are found at the time of a cognition of error, and are worn away as ignorance is worn away.",
-   "level": "text-verified"
-  },
-  "tea:yoga-bhasya:2.47": {
-   "id": "tea:yoga-bhasya:2.47",
-   "source": "src:yoga-bhasya",
-   "title": "Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)",
-   "ref": "2.47",
-   "original": "bhavatīti vākyaśeṣaḥ prayatnoparamāt sidhyaty āsanaṃ yena nāṅgamejayo bhavati /\nanante vā samāpannaṃ cittam āsanaṃ nirvartayatīti",
-   "paraphrase": "'It is accomplished' completes the sentence. Posture is accomplished by the cessation of effort (prayatna), so that there is no shaking of the limbs; or the mind, having coalesced with the endless, brings posture about.",
-   "level": "text-verified"
-  },
-  "tea:yoga-bhasya:2.7": {
-   "id": "tea:yoga-bhasya:2.7",
-   "source": "src:yoga-bhasya",
-   "title": "Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)",
-   "ref": "2.7",
-   "original": "sukhābhijñasya sukhānusmṛtipūrvaḥ sukhe tatsādhane vā yo gardhas tṛṣṇā lobhaḥ sa rāga iti",
-   "paraphrase": "For one who has known pleasure, attachment (rāga) is the greed (gardha), thirst (tṛṣṇā) and covetousness (lobha), preceded by the memory of pleasure, toward the pleasure or its means.",
-   "level": "text-verified"
-  },
-  "tea:yoga-sutra:1.14": {
-   "id": "tea:yoga-sutra:1.14",
+  "tea:yoga-sutra:1.31": {
+   "id": "tea:yoga-sutra:1.31",
    "source": "src:yoga-sutra",
    "title": "Yoga Sūtra of Patañjali",
-   "ref": "1.14",
-   "original": "sa tu dīrghakālanairantaryasatkārāsevito dṛḍhabhūmiḥ",
-   "paraphrase": "But it (practice) becomes firmly grounded (dṛḍha-bhūmi) when cultivated for a long time, without interruption and with earnestness/reverence (satkāra).",
-   "level": "text-verified"
-  },
-  "tea:yoga-sutra:2.25": {
-   "id": "tea:yoga-sutra:2.25",
-   "source": "src:yoga-sutra",
-   "title": "Yoga Sūtra of Patañjali",
-   "ref": "2.25",
-   "original": "tadabhāvāt saṃyogābhāvo hānaṃ taddṛśeḥ kaivalyam",
-   "paraphrase": "From the absence of that (ignorance), the conjunction is absent; this is the abandonment (hāna), the seer's isolation (kaivalya).",
-   "level": "text-verified"
-  },
-  "tea:yoga-sutra:2.30": {
-   "id": "tea:yoga-sutra:2.30",
-   "source": "src:yoga-sutra",
-   "title": "Yoga Sūtra of Patañjali",
-   "ref": "2.30",
-   "original": "ahiṃsāsatyāsteyabrahmacaryāparigrahā yamāḥ",
-   "paraphrase": "Non-harming (ahiṃsā), truthfulness (satya), non-stealing (asteya), continence (brahmacarya) and non-possessiveness (aparigraha) are the restraints (yama).",
-   "level": "text-verified"
-  },
-  "tea:yoga-sutra:2.33": {
-   "id": "tea:yoga-sutra:2.33",
-   "source": "src:yoga-sutra",
-   "title": "Yoga Sūtra of Patañjali",
-   "ref": "2.33",
-   "original": "vitarkabādhane pratipakṣabhāvanam",
-   "paraphrase": "When [one is] oppressed by harmful thoughts (vitarka), [one should] cultivate their opposite (pratipakṣa-bhāvana).",
-   "level": "text-verified"
-  },
-  "tea:yoga-sutra:2.34": {
-   "id": "tea:yoga-sutra:2.34",
-   "source": "src:yoga-sutra",
-   "title": "Yoga Sūtra of Patañjali",
-   "ref": "2.34",
-   "original": "vitarkā hiṃsādayaḥ kṛtakāritānumoditā lobhakrodhamohapūrvakā mṛdumadhyādhimātrā duḥkhājñānānantaphalā iti pratipakṣabhāvanam",
-   "paraphrase": "Harmful thoughts (vitarka), violence and the rest — done, caused to be done or approved, preceded by greed, anger or delusion, mild, middling or intense — have unending suffering and ignorance as their fruit: thus the cultivation of the opposite.",
-   "level": "text-verified"
-  },
-  "tea:yoga-sutra:2.4": {
-   "id": "tea:yoga-sutra:2.4",
-   "source": "src:yoga-sutra",
-   "title": "Yoga Sūtra of Patañjali",
-   "ref": "2.4",
-   "original": "avidyā kṣetram uttareṣāṃ prasuptatanuvicchinnodārāṇām",
-   "paraphrase": "Ignorance is the field (kṣetra) of the others that follow, whether they are dormant (prasupta), attenuated (tanu), interrupted (vicchinna) or fully active (udāra).",
-   "level": "text-verified"
-  },
-  "tea:yoga-sutra:2.46": {
-   "id": "tea:yoga-sutra:2.46",
-   "source": "src:yoga-sutra",
-   "title": "Yoga Sūtra of Patañjali",
-   "ref": "2.46",
-   "original": "sthirasukham āsanam",
-   "paraphrase": "Posture (āsana) is steady and comfortable (sthira-sukha).",
-   "level": "text-verified"
-  },
-  "tea:yoga-sutra:2.47": {
-   "id": "tea:yoga-sutra:2.47",
-   "source": "src:yoga-sutra",
-   "title": "Yoga Sūtra of Patañjali",
-   "ref": "2.47",
-   "original": "prayatnaśaithilyānantasamāpattibhyām",
-   "paraphrase": "[It is accomplished] by relaxing effort (prayatna-śaithilya) and by coalescence (samāpatti) with the endless (ananta).",
-   "level": "text-verified"
-  },
-  "tea:yoga-sutra:2.7": {
-   "id": "tea:yoga-sutra:2.7",
-   "source": "src:yoga-sutra",
-   "title": "Yoga Sūtra of Patañjali",
-   "ref": "2.7",
-   "original": "sukhānuśayī rāgaḥ",
-   "paraphrase": "Attachment (rāga) rests on (anuśayin) pleasure (sukha).",
-   "level": "text-verified"
-  },
-  "tea:yoga-sutra:2.9": {
-   "id": "tea:yoga-sutra:2.9",
-   "source": "src:yoga-sutra",
-   "title": "Yoga Sūtra of Patañjali",
-   "ref": "2.9",
-   "original": "svarasavāhī viduṣo 'pi tathā rūḍho 'bhiniveśaḥ",
-   "paraphrase": "Clinging to life (abhiniveśa), flowing by its own momentum (svarasa-vāhin), is rooted thus even in the learned.",
+   "ref": "1.31",
+   "original": "duḥkhadaurmanasyāṅgamejayatvaśvāsapraśvāsā vikṣepasahabhuvaḥ",
+   "paraphrase": "Pain (duḥkha), dejection (daurmanasya), trembling of the limbs (aṅgamejayatva), and inhalation and exhalation (śvāsa, praśvāsa) accompany the distractions.",
    "level": "text-verified"
   }
  },
@@ -258,7 +141,7 @@
  "mapping_audit": {
   "unmapped_reason": null,
   "rejected_by_code": {
-   "R_BELOW_FLOOR": 4
+   "R_BELOW_FLOOR": 5
   },
   "counter_only_entries": [
    "dx:antaraya-anavasthitatva"
@@ -302,12 +185,12 @@
  },
  "mappings": [
   {
-   "entry_id": "dx:klesa-raga",
-   "dx_id": "dx:klesa-raga",
-   "name": "Rāga (attachment)",
-   "kind": "affliction",
-   "lens": "vedic-yogic",
-   "lens_label": "Vedic/yogic",
+   "entry_id": "dx:jain-arta-dhyana",
+   "dx_id": "dx:jain-arta-dhyana",
+   "name": "Ārta-dhyāna (sorrowful dwelling)",
+   "kind": "state",
+   "lens": "ascetic-jain",
+   "lens_label": "Jain",
    "group_id": null,
    "confidence": "low",
    "evidence": [
@@ -320,8 +203,8 @@
       32
      ],
      "sentence_index": 0,
-     "marker_index": 0,
-     "cue_index": 0,
+     "marker_index": 1,
+     "cue_index": 5,
      "match": "cue_window",
      "strength": "direct",
      "caps": [],
@@ -335,13 +218,12 @@
    ],
    "counter_evidence": [],
    "cites": [
-    "tea:yoga-sutra:2.7",
-    "tea:yoga-bhasya:2.7"
+    "tea:tattvartha-sutra:9.31"
    ],
    "state": null,
    "reported_change": null,
-   "rationale": "You wrote \"i want to go straight back to it\"; the texts describe this as wanting a pleasure again, or the means to it, because it is remembered.",
-   "why": "You wrote \"i want to go straight back to it\"; the texts describe this as wanting a pleasure again, or the means to it, because it is remembered.",
+   "rationale": "You wrote \"i want to go straight back to it\"; the texts describe this as the mind fixed on getting back what is pleasant and lost (ts 9.31).",
+   "why": "You wrote \"i want to go straight back to it\"; the texts describe this as the mind fixed on getting back what is pleasant and lost (ts 9.31).",
    "audit": {
     "E": 1.0,
     "E_net": 1.0,
@@ -357,52 +239,39 @@
   }
  ],
  "groups": [],
- "summary": "You described a pattern that the texts name: Rāga (attachment), in the Vedic/yogic texts. Each is shown below with your own words and the texts' description.",
+ "summary": "You described a pattern that the texts name: Ārta-dhyāna (sorrowful dwelling), in the Jain texts. Each is shown below with your own words and the texts' description.",
  "lenses": {
   "vedic": {
    "points": [
     {
-     "text": "Your words “i want to go straight back to it” fit only loosely what the Vedic and yogic texts call Rāga (attachment). Rāga is what follows upon pleasure (YS 2.7). Vyāsa: in one who has known pleasure, preceded by the memory of pleasure, the greed, thirst and craving (gardha, tṛṣṇā, lobha) for pleasure or for its means — that is rāga.",
+     "text": "Read through the Vedic and yogic texts, your words “i want to go straight back to it” come closest to what they call Daurmanasya (dejection) (a partial match for Ārta-dhyāna (sorrowful dwelling)). Dejection is agitation of the mind from the thwarting of a wish (icchā-vighāta).",
      "cites": [
-      "tea:yoga-bhasya:2.7",
-      "tea:yoga-sutra:2.7"
+      "tea:tattvartha-sutra:9.31",
+      "tea:yoga-bhasya:1.31",
+      "tea:yoga-sutra:1.31"
      ],
      "evidence_refs": [
       "intake:q03#s0:0"
      ],
-     "dx_id": "dx:klesa-raga",
-     "via": null
+     "dx_id": "dx:companion-daurmanasya",
+     "via": "dx:jain-arta-dhyana"
     }
    ]
   },
   "ascetic": {
    "points": [
     {
-     "text": "Read through the Jain texts, your words “i want to go straight back to it” come closest to what they call Lobha (greed) (a partial match for Rāga (attachment)). Conduct-deluding karma includes the sixteen passions: anger, pride, deceit and greed, each in four grades named endless-binding (anantānubandhī), non-renunciation (apratyākhyāna), renunciation (pratyākhyāna) and smouldering (saṃjvalana) (TS 8.9, Digambara recension).",
+     "text": "Your words “i want to go straight back to it” fit only loosely what the Jain texts call Ārta-dhyāna (sorrowful dwelling). Meditation (dhyāna) is of four kinds: sorrowful (ārta), cruel (raudra), virtuous (dharmya) and pure (śukla) (TS 9.28); the last two are causes of liberation (TS 9.29).",
      "cites": [
-      "tea:tattvartha-sutra:8.2",
-      "tea:tattvartha-sutra:8.9",
-      "tea:yoga-sutra:2.7"
+      "tea:tattvartha-sutra:9.28",
+      "tea:tattvartha-sutra:9.29",
+      "tea:tattvartha-sutra:9.31"
      ],
      "evidence_refs": [
       "intake:q03#s0:0"
      ],
-     "dx_id": "dx:kasaya-lobha",
-     "via": "dx:klesa-raga"
-    },
-    {
-     "text": "Read through the Buddhist texts, your words “i want to go straight back to it” come closest to what they call Kāmacchanda (sensual desire) (a partial match for Rāga (attachment)). Contemplating dhammas as the five hindrances: when sensual desire is present in him the monk knows 'there is sensual desire in me'; when absent, 'there is no sensual desire in me'; he knows how the unarisen sensual desire arises, how the arisen sensual desire is abandoned, and how the abandoned sensual desire does not arise again.",
-     "cites": [
-      "tea:mahasatipatthana-sutta:dn22:13",
-      "tea:satipatthana-sutta:mn10:36",
-      "tea:visuddhimagga:4.p146",
-      "tea:yoga-sutra:2.7"
-     ],
-     "evidence_refs": [
-      "intake:q03#s0:0"
-     ],
-     "dx_id": "dx:nivarana-kamacchanda",
-     "via": "dx:klesa-raga"
+     "dx_id": "dx:jain-arta-dhyana",
+     "via": null
     }
    ]
   }
@@ -410,67 +279,51 @@
  "reconciliation": {
   "points": [
    {
-    "text": "YS: attachment rests on pleasure (YS 2.7); Vyāsa glosses it as greed, thirst and covetousness (gardha, tṛṣṇā, lobha) for the pleasure or its means, preceded by the memory of pleasure (YB 2.7). Gītā: from dwelling on objects comes attachment, from attachment desire (BhG 2.62); desire-anger is 'the enemy here' (BhG 3.37). Suttas: sensual desire (kāmacchanda) is known as present or absent, as arising and as abandoned (MN 10:36; DN 22:13); craving (taṇhā) that delights here and there is the origin of suffering, and its fading away is cessation (DN 22:19–20). TS: greed (lobha) is one of the four passions (TS 8.9), because of which the soul takes in karmic matter (TS 8.2). Under the one-truth principle, they describe it from different standpoints: the match is a partial match, not an identity.",
+    "text": "Each names a sinking, sorrowful turn of mind. Vyāsa: dejection (daurmanasya) is a disturbance of the mind through the frustration of a wish, and it accompanies distraction (YS 1.31; YB 1.31). Gītā: Arjuna is overcome by pity and despairing (viṣīdan), his mind bewildered about dharma (BhG 1.28, 2.1, 2.7). TS: sorrowful dwelling (ārta-dhyāna) dwells on removing the disagreeable, on keeping the agreeable, on pain, and on longing for future enjoyment (TS 9.30–33). MN 10 declares the four establishments of mindfulness a path to the ending of pain and displeasure (dukkha-domanassa) (MN 10:2). Under the one-truth principle, they describe it from different standpoints: the match is a partial match, not an identity.",
     "basis": "standpoint",
     "cites": [
-     "tea:yoga-sutra:2.7",
-     "tea:yoga-bhasya:2.7",
-     "tea:yoga-sutra:2.4",
-     "tea:bhagavad-gita:3.37",
-     "tea:bhagavad-gita:2.62",
-     "tea:satipatthana-sutta:mn10:36",
-     "tea:mahasatipatthana-sutta:dn22:13",
-     "tea:satipatthana-sutta:mn10:34",
-     "tea:visuddhimagga:22.p683",
-     "tea:mahasatipatthana-sutta:dn22:19",
-     "tea:mahasatipatthana-sutta:dn22:20",
-     "tea:tattvartha-sutra:8.9",
-     "tea:tattvartha-sutra:8.2",
-     "tea:yoga-sutra:2.9",
-     "tea:yoga-sutra:2.25",
-     "tea:visuddhimagga:4.p146",
-     "tea:visuddhimagga:14.p468"
+     "tea:yoga-sutra:1.31",
+     "tea:yoga-bhasya:1.31",
+     "tea:bhagavad-gita:1.28",
+     "tea:bhagavad-gita:2.1",
+     "tea:bhagavad-gita:2.7",
+     "tea:tattvartha-sutra:9.28",
+     "tea:tattvartha-sutra:9.30",
+     "tea:tattvartha-sutra:9.31",
+     "tea:tattvartha-sutra:9.32",
+     "tea:tattvartha-sutra:9.33",
+     "tea:satipatthana-sutta:mn10:2"
     ],
     "evidence_refs": [
      "intake:q03#s0:0"
     ],
-    "row": "oc:raga-kamacchanda-lobha"
+    "row": "oc:daurmanasya-visada-arta"
    }
   ],
   "differences": [
    {
-    "text": "Rāga is not kāmacchanda, and neither is lobha. (1) Framework: YS rāga is one of five kleśas growing in the field of avidyā (YS 2.4). The Gītā's kāma is born of the guṇa rajas and is one enemy with anger (BhG 3.37). Kāmacchanda is a hindrance: a state to be noticed and abandoned in meditation (MN 10:36). Taṇhā is the origin of suffering (DN 22:19). Jain lobha is a passion-felt deluding karma (kaṣāya-vedanīya, TS 8.9) and a literal cause of karmic matter binding the soul (TS 8.2). (2) Scope: YS rāga covers any remembered pleasure and its means (YB 2.7). Kāmacchanda is sensual desire. Taṇhā in DN 22 also includes craving for being and for non-being (DN 22:19); the Yoga puts the wish to go on being under a different kleśa (abhiniveśa, YS 2.9). Jain lobha comes in four intensities, anantānubandhī to saṃjvalana (TS 8.9), a grading no other lens uses. The Theravāda lists grade it differently, by depth: a hindrance that keeps jhāna from arising (Vism IV), greed as a root of unwholesome consciousness (Vism XIV), and sensual lust as one of the five lower fetters (Vism XXII). (3) What is freed: the Yoga ends in the seer's aloneness (YS 2.25), the suttas in the cessation of craving (DN 22:20), the Jain path in the soul's release from karmic matter (TS 8.2). The self-question behind these three ends is not yet reconciled (row ot:provisional-self-question in one_truth.json).",
+    "text": "(1) Daurmanasya in YS is a companion of distraction: it occurs in a distracted mind and is absent in a concentrated one (YB 1.31). (2) Arjuna's viṣāda is a crisis about dharma, and it becomes the occasion of the whole teaching (BhG 2.7). (3) Jain ārta-dhyāna is a kind of meditation (dhyāna), the inauspicious sorrowful one of four (TS 9.28): a sustained fixing of the mind, not a passing mood. This row describes states the texts name. It is not a finding about any person, and it makes no health claim.",
     "cites": [
-     "tea:yoga-sutra:2.7",
-     "tea:yoga-bhasya:2.7",
-     "tea:yoga-sutra:2.4",
-     "tea:bhagavad-gita:3.37",
-     "tea:bhagavad-gita:2.62",
-     "tea:satipatthana-sutta:mn10:36",
-     "tea:mahasatipatthana-sutta:dn22:13",
-     "tea:satipatthana-sutta:mn10:34",
-     "tea:visuddhimagga:22.p683",
-     "tea:mahasatipatthana-sutta:dn22:19",
-     "tea:mahasatipatthana-sutta:dn22:20",
-     "tea:tattvartha-sutra:8.9",
-     "tea:tattvartha-sutra:8.2",
-     "tea:yoga-sutra:2.9",
-     "tea:yoga-sutra:2.25",
-     "tea:visuddhimagga:4.p146",
-     "tea:visuddhimagga:14.p468"
+     "tea:yoga-sutra:1.31",
+     "tea:yoga-bhasya:1.31",
+     "tea:bhagavad-gita:1.28",
+     "tea:bhagavad-gita:2.1",
+     "tea:bhagavad-gita:2.7",
+     "tea:tattvartha-sutra:9.28",
+     "tea:tattvartha-sutra:9.30",
+     "tea:tattvartha-sutra:9.31",
+     "tea:tattvartha-sutra:9.32",
+     "tea:tattvartha-sutra:9.33",
+     "tea:satipatthana-sutta:mn10:2"
     ],
     "evidence_refs": [
      "intake:q03#s0:0"
     ],
-    "row": "oc:raga-kamacchanda-lobha",
+    "row": "oc:daurmanasya-visada-arta",
     "members": [
-     "dx:fetter-kamaraga",
-     "dx:gita-kama-krodha",
-     "dx:kasaya-lobha",
-     "dx:klesa-raga",
-     "dx:nivarana-kamacchanda",
-     "dx:root-lobha",
-     "dx:tanha"
+     "dx:companion-daurmanasya",
+     "dx:gita-visada",
+     "dx:jain-arta-dhyana"
     ]
    }
   ]
@@ -478,22 +331,22 @@
  "pathway": {
   "practices": [
    {
-    "px_id": "px:pratipaksa-bhavana-ys-2-33",
-    "name": "Cultivating the opposite (pratipakṣa-bhāvanā, YS 2.33–34)",
-    "lens": "vedic-yogic",
-    "why": "You wrote “i want to go straight back to it”. The texts pair what they call Rāga (attachment) with this practice.",
+    "px_id": "px:anupreksa-ts-9-7",
+    "name": "The reflections (anuprekṣā, TS 9.7)",
+    "lens": "ascetic-jain",
+    "why": "You wrote “i want to go straight back to it”. The texts pair what they call Ārta-dhyāna (sorrowful dwelling) with this practice.",
     "for": [
-     "dx:klesa-raga"
+     "dx:jain-arta-dhyana"
     ],
     "evidence_refs": [
      "intake:q03#s0:0"
     ],
     "steps": [
-     "Sit in a posture that is steady and comfortable (YS 2.46).",
-     "When a harmful thought arises, to harm, to lie, to take what is not given, name it as a harmful thought (vitarka) (YS 2.33 with Vyāsa).",
-     "See how it stands: done, caused to be done, or approved; rooted in greed, anger or delusion; mild, middling or intense (YS 2.34).",
-     "Reflect that such thoughts bear endless suffering and ignorance as their fruit (YS 2.34).",
-     "Turn the mind toward the restraint the thought opposes, such as non-harming or truthfulness (YS 2.33; 2.30).",
+     "Sit comfortably.",
+     "Reflect repeatedly on impermanence (anitya), as the sūtra names it (TS 9.7).",
+     "Reflect on aloneness (ekatva) and on otherness (anyatva), as the sūtra names them (TS 9.7).",
+     "Reflect on the rarity of enlightenment (bodhi-durlabha) (TS 9.7).",
+     "Reflect on the well-taught nature of dharma (dharma-svākhyātatva) (TS 9.7).",
      "Close gently."
     ],
     "duration": {
@@ -506,92 +359,77 @@
     },
     "warnings": [
      {
-      "text": "Practice becomes firm only when cultivated for a long time, without interruption and with earnestness (satkāra); the sūtra does not present it as quick (YS 1.14).",
+      "text": "Nearest general caution in the Tattvārtha (the sūtra gives none for this practice): reflection must not turn into sorrowful brooding (ārta-dhyāna), which the sūtra defines as dwelling on removing the disagreeable, keeping the agreeable, on pain, and hankering for future enjoyment (nidāna).",
       "cites": [
-       "tea:yoga-sutra:1.14"
-      ]
-     },
-     {
-      "text": "Vyāsa's illustrations of the fruit of violence include births in hells (YB 2.34); the steps keep only the sūtra's own reflection.",
-      "cites": [
-       "tea:yoga-bhasya:2.34"
-      ]
-     },
-     {
-      "text": "The posture is to be steady and comfortable (sthira-sukha); it is accomplished by relaxing effort, so that the limbs do not tremble.",
-      "cites": [
-       "tea:yoga-sutra:2.46",
-       "tea:yoga-sutra:2.47",
-       "tea:yoga-bhasya:2.47"
+       "tea:tattvartha-sutra:9.30",
+       "tea:tattvartha-sutra:9.31",
+       "tea:tattvartha-sutra:9.32",
+       "tea:tattvartha-sutra:9.33"
       ]
      }
     ],
     "cites": [
-     "tea:yoga-sutra:2.33",
-     "tea:yoga-bhasya:2.33",
-     "tea:yoga-sutra:2.34",
-     "tea:yoga-bhasya:2.34",
-     "tea:yoga-sutra:2.30",
-     "tea:yoga-bhasya:2.4"
+     "tea:tattvartha-sutra:9.7",
+     "tea:tattvartha-sutra:9.2"
     ]
    }
   ],
   "sequence": [
    {
     "day": 1,
-    "plan": "Cultivating the opposite (pratipakṣa-bhāvanā, YS 2.33–34) (5 min). Then the check-in."
+    "plan": "The reflections (anuprekṣā, TS 9.7) (5 min). Then the check-in."
    },
    {
     "day": 2,
-    "plan": "Cultivating the opposite (pratipakṣa-bhāvanā, YS 2.33–34) (5 min). Then the check-in."
+    "plan": "The reflections (anuprekṣā, TS 9.7) (5 min). Then the check-in."
    },
    {
     "day": 3,
-    "plan": "Cultivating the opposite (pratipakṣa-bhāvanā, YS 2.33–34) (5 min). Then the check-in."
+    "plan": "The reflections (anuprekṣā, TS 9.7) (5 min). Then the check-in."
    },
    {
     "day": 4,
-    "plan": "Cultivating the opposite (pratipakṣa-bhāvanā, YS 2.33–34) (5 min). Then the check-in."
+    "plan": "The reflections (anuprekṣā, TS 9.7) (5 min). Then the check-in."
    },
    {
     "day": 5,
-    "plan": "Cultivating the opposite (pratipakṣa-bhāvanā, YS 2.33–34) (5 min). Then the check-in."
+    "plan": "The reflections (anuprekṣā, TS 9.7) (5 min). Then the check-in."
    },
    {
     "day": 6,
-    "plan": "Cultivating the opposite (pratipakṣa-bhāvanā, YS 2.33–34) (5 min). Then the check-in."
+    "plan": "The reflections (anuprekṣā, TS 9.7) (5 min). Then the check-in."
    },
    {
     "day": 7,
-    "plan": "Cultivating the opposite (pratipakṣa-bhāvanā, YS 2.33–34) (5 min). Then the check-in."
+    "plan": "The reflections (anuprekṣā, TS 9.7) (5 min). Then the check-in."
    },
    {
     "day": 8,
-    "plan": "Cultivating the opposite (pratipakṣa-bhāvanā, YS 2.33–34) (10 min). Then the check-in."
+    "plan": "The reflections (anuprekṣā, TS 9.7) (10 min). Then the check-in."
    },
    {
     "day": 9,
-    "plan": "Cultivating the opposite (pratipakṣa-bhāvanā, YS 2.33–34) (10 min). Then the check-in."
+    "plan": "The reflections (anuprekṣā, TS 9.7) (10 min). Then the check-in."
    },
    {
     "day": 10,
-    "plan": "Cultivating the opposite (pratipakṣa-bhāvanā, YS 2.33–34) (10 min). Then the check-in."
+    "plan": "The reflections (anuprekṣā, TS 9.7) (10 min). Then the check-in."
    },
    {
     "day": 11,
-    "plan": "Cultivating the opposite (pratipakṣa-bhāvanā, YS 2.33–34) (10 min). Then the check-in."
+    "plan": "The reflections (anuprekṣā, TS 9.7) (10 min). Then the check-in."
    },
    {
     "day": 12,
-    "plan": "Cultivating the opposite (pratipakṣa-bhāvanā, YS 2.33–34) (10 min). Then the check-in."
+    "plan": "The reflections (anuprekṣā, TS 9.7) (10 min). Then the check-in."
    },
    {
     "day": 13,
-    "plan": "Cultivating the opposite (pratipakṣa-bhāvanā, YS 2.33–34) (10 min). Then the check-in."
+    "plan": "The reflections (anuprekṣā, TS 9.7) (10 min). Then the check-in."
    },
    {
     "day": 14,
-    "plan": "Cultivating the opposite (pratipakṣa-bhāvanā, YS 2.33–34) (10 min). Then the check-in."
+    "plan": "The reflections (anuprekṣā, TS 9.7) (10 min). Then the check-in."
    }
   ],
   "checkin_prompt": "Each evening, in one or two lines: Did you do today's practice? What did you notice while doing it? Was there a moment in the day when the pattern you described showed up, and what did you do then?",

@@ -1,6 +1,6 @@
 {
  "engine": "rules",
- "created": 1790706816.1598701,
+ "created": 1790708984.8268006,
  "notices": [
   "There are not yet enough gentle practices in the texts' own terms that match what you described, so the pathway below is short."
  ],
@@ -321,7 +321,7 @@
  "mapping_audit": {
   "unmapped_reason": null,
   "rejected_by_code": {
-   "R_BELOW_FLOOR": 2
+   "R_BELOW_FLOOR": 3
   },
   "counter_only_entries": [
    "dx:nivarana-vicikiccha"
