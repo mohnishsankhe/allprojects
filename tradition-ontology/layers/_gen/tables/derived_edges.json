@@ -1,0 +1,2701 @@
+{
+ "edges": [
+  {
+   "a": "dx:antaraya-alasya",
+   "b": "dx:guna-tamas",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:1.30",
+    "tea:bhagavad-gita:14.8",
+    "tea:bhagavad-gita:18.28"
+   ],
+   "notes": [
+    {
+     "from": "dx:antaraya-alasya",
+     "note": "The Gītā names laziness (ālasya) among the bonds of tamas (BhG 14.8) and among the marks of the tāmasa doer (BhG 18.28)."
+    },
+    {
+     "from": "dx:guna-tamas",
+     "note": "Laziness is a bond of tamas (BhG 14.8) and a Yoga obstacle defined by heaviness (YB 1.30)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:yoga-bhasya:1.30": true,
+    "tea:bhagavad-gita:14.8": true,
+    "tea:bhagavad-gita:18.28": true
+   }
+  },
+  {
+   "a": "dx:antaraya-alasya",
+   "b": "dx:nivarana-thina-middha",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:1.30",
+    "tea:visuddhimagga:14.p469"
+   ],
+   "notes": [
+    {
+     "from": "dx:antaraya-alasya",
+     "note": "Stiffness and torpor (Vism XIV) are lack of drive and unwieldiness; Vyāsa's sloth is not starting because of heaviness."
+    },
+    {
+     "from": "dx:nivarana-thina-middha",
+     "note": "Stiffness and torpor (Vism XIV) are lack of drive and unwieldiness; Vyāsa's sloth is not starting because of heaviness."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-bhasya:1.30": true,
+    "tea:visuddhimagga:14.p469": false
+   }
+  },
+  {
+   "a": "dx:antaraya-avirati",
+   "b": "dx:jain-avirati",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:1.30",
+    "tea:tattvartha-sutra:7.1",
+    "tea:tattvartha-sutra:8.1"
+   ],
+   "notes": [
+    {
+     "from": "dx:antaraya-avirati",
+     "note": "Same word, different sense: for Vyāsa, greed for contact with objects; in TS, non-abstention from harming, falsehood, theft, unchastity and possessiveness."
+    },
+    {
+     "from": "dx:jain-avirati",
+     "note": "Same word, different sense: non-abstention from the five in TS; the mind's greed for objects in the Yoga (YB 1.30)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-jain"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-bhasya:1.30": true,
+    "tea:tattvartha-sutra:7.1": true,
+    "tea:tattvartha-sutra:8.1": true
+   }
+  },
+  {
+   "a": "dx:antaraya-bhranti-darsana",
+   "b": "dx:vrtti-viparyaya",
+   "grade": "same-under-standpoint",
+   "cites": [
+    "tea:yoga-bhasya:1.30",
+    "tea:yoga-sutra:1.8"
+   ],
+   "notes": [
+    {
+     "from": "dx:vrtti-viparyaya",
+     "note": "Vyāsa glosses the obstacle 'wrong seeing' as erroneous cognition (viparyaya-jñāna): the same cognition, as a modification (YS 1.8) and as an obstacle to samādhi (YS 1.30)."
+    },
+    {
+     "from": "dx:antaraya-bhranti-darsana",
+     "note": "Vyāsa glosses wrong seeing as erroneous cognition (viparyaya-jñāna): the same cognition, as an obstacle (YS 1.30) and as a modification (YS 1.8)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:yoga-bhasya:1.30": true,
+    "tea:yoga-sutra:1.8": true
+   }
+  },
+  {
+   "a": "dx:antaraya-pramada",
+   "b": "dx:guna-tamas",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:1.30",
+    "tea:bhagavad-gita:14.8"
+   ],
+   "notes": [
+    {
+     "from": "dx:antaraya-pramada",
+     "note": "The Gītā says tamas binds by heedlessness, laziness and sleep (BhG 14.8); Vyāsa defines heedlessness as not cultivating the means of samādhi."
+    },
+    {
+     "from": "dx:guna-tamas",
+     "note": "Heedlessness is a bond of tamas (BhG 14.8); Vyāsa defines it as not cultivating the means of samādhi."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:yoga-bhasya:1.30": true,
+    "tea:bhagavad-gita:14.8": true
+   }
+  },
+  {
+   "a": "dx:antaraya-pramada",
+   "b": "dx:jain-pramada",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:1.30",
+    "tea:tattvartha-sutra:7.13",
+    "tea:tattvartha-sutra:8.1"
+   ],
+   "notes": [
+    {
+     "from": "dx:antaraya-pramada",
+     "note": "In TS, heedless (pramatta) activity is what makes taking life into harming (TS 7.13) and heedlessness is a cause of bondage (TS 8.1); YB's pramāda is about neglecting the means of samādhi."
+    },
+    {
+     "from": "dx:jain-pramada",
+     "note": "Vyāsa's pramāda is not cultivating the means of samādhi (YB 1.30); the Jain pramāda is the carelessness that makes harm (TS 7.13)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-jain"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-bhasya:1.30": true,
+    "tea:tattvartha-sutra:7.13": false,
+    "tea:tattvartha-sutra:8.1": true
+   }
+  },
+  {
+   "a": "dx:antaraya-pramada",
+   "b": "dx:pamada",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:1.30",
+    "tea:dhammapada:21"
+   ],
+   "notes": [
+    {
+     "from": "dx:antaraya-pramada",
+     "note": "The Dhammapada calls heedlessness the path to death (Dhp 21); Vyāsa defines it as not cultivating the means of samādhi."
+    },
+    {
+     "from": "dx:pamada",
+     "note": "Vyāsa defines heedlessness as not cultivating the means of samādhi (YB 1.30); the Dhammapada makes it the path to death."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-bhasya:1.30": true,
+    "tea:dhammapada:21": false
+   }
+  },
+  {
+   "a": "dx:antaraya-samsaya",
+   "b": "dx:nivarana-vicikiccha",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:1.30",
+    "tea:visuddhimagga:14.p471",
+    "tea:samannaphala-sutta:67-74"
+   ],
+   "notes": [
+    {
+     "from": "dx:antaraya-samsaya",
+     "note": "The Vism defines doubt (vicikicchā) by wavering and indecision, an obstacle to practice (Vism XIV), and in the suttas it concerns wholesome states (DN 2); Vyāsa's saṃśaya is any knowledge touching both sides."
+    },
+    {
+     "from": "dx:nivarana-vicikiccha",
+     "note": "Vyāsa's saṃśaya is knowledge touching both sides (YB 1.30); the Vism's doubt is wavering that obstructs practice."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-bhasya:1.30": true,
+    "tea:visuddhimagga:14.p471": false,
+    "tea:samannaphala-sutta:67-74": false
+   }
+  },
+  {
+   "a": "dx:antaraya-styana",
+   "b": "dx:nivarana-thina-middha",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:1.30",
+    "tea:visuddhimagga:14.p469"
+   ],
+   "notes": [
+    {
+     "from": "dx:antaraya-styana",
+     "note": "Vyāsa defines styāna as unfitness for work (akarmaṇyatā); the Vism defines torpor (middha) as unwieldiness (akammaññatā) and stiffness (thīna, the Pali form of the word styāna) as lack of drive. The words and the definitions cross over."
+    },
+    {
+     "from": "dx:nivarana-thina-middha",
+     "note": "Vyāsa's styāna is the mind's unfitness for work (YB 1.30); Vism XIV's torpor is unwieldiness and its stiffness (thīna) lack of drive."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-bhasya:1.30": true,
+    "tea:visuddhimagga:14.p469": false
+   }
+  },
+  {
+   "a": "dx:carita-buddhi",
+   "b": "dx:carita-dosa",
+   "grade": "partial",
+   "cites": [
+    "tea:visuddhimagga:3.p102"
+   ],
+   "notes": [
+    {
+     "from": "dx:carita-dosa",
+     "note": "Vism III: the intelligent temperament is akin to the hating: as hate shuns beings, understanding shuns formations; alike in behaviour, opposite in quality."
+    },
+    {
+     "from": "dx:carita-buddhi",
+     "note": "Akin in behaviour, opposite in moral quality (Vism III)."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:visuddhimagga:3.p102": false
+   }
+  },
+  {
+   "a": "dx:carita-dosa",
+   "b": "dx:root-dosa",
+   "grade": "partial",
+   "cites": [
+    "tea:visuddhimagga:3.p101",
+    "tea:visuddhimagga:14.p470"
+   ],
+   "notes": [
+    {
+     "from": "dx:root-dosa",
+     "note": "The hating temperament is one in whom hate predominates (Vism III)."
+    },
+    {
+     "from": "dx:carita-dosa",
+     "note": "The temperament is a predominance of hate; hate itself is defined in Vism XIV."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:visuddhimagga:3.p101": false,
+    "tea:visuddhimagga:14.p470": false
+   }
+  },
+  {
+   "a": "dx:carita-moha",
+   "b": "dx:carita-vitakka",
+   "grade": "partial",
+   "cites": [
+    "tea:visuddhimagga:3.p102"
+   ],
+   "notes": [
+    {
+     "from": "dx:carita-moha",
+     "note": "Vism III: the speculative temperament is akin to the deluded: as delusion is restless through not penetrating, thought is restless through quick imagining."
+    },
+    {
+     "from": "dx:carita-vitakka",
+     "note": "Akin in behaviour (Vism III)."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:visuddhimagga:3.p102": false
+   }
+  },
+  {
+   "a": "dx:carita-moha",
+   "b": "dx:guna-tamas",
+   "grade": "partial",
+   "cites": [
+    "tea:bhagavad-gita:14.8",
+    "tea:visuddhimagga:3.p107"
+   ],
+   "notes": [
+    {
+     "from": "dx:guna-tamas",
+     "note": "The Gītā's tamas is a strand of nature marked by delusion, heedlessness, laziness and sleep (BhG 14.8, 14.13); the Vism's deluded temperament is a predominance of delusion in a person, with stiffness, torpor and doubt among its frequent states (Vism III). Different frameworks."
+    },
+    {
+     "from": "dx:carita-moha",
+     "note": "Different frameworks: a strand of nature (BhG 14.8, 14.13), a predominance in a person (Vism III); both marked by delusion and dullness."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "vedic-yogic"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:bhagavad-gita:14.8": true,
+    "tea:visuddhimagga:3.p107": false
+   }
+  },
+  {
+   "a": "dx:carita-moha",
+   "b": "dx:root-moha",
+   "grade": "partial",
+   "cites": [
+    "tea:visuddhimagga:3.p101",
+    "tea:visuddhimagga:14.p468"
+   ],
+   "notes": [
+    {
+     "from": "dx:root-moha",
+     "note": "The deluded temperament is one in whom delusion predominates (Vism III)."
+    },
+    {
+     "from": "dx:carita-moha",
+     "note": "The temperament is a predominance of delusion; delusion itself is defined in Vism XIV."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:visuddhimagga:3.p101": false,
+    "tea:visuddhimagga:14.p468": false
+   }
+  },
+  {
+   "a": "dx:carita-raga",
+   "b": "dx:carita-saddha",
+   "grade": "partial",
+   "cites": [
+    "tea:visuddhimagga:3.p102"
+   ],
+   "notes": [
+    {
+     "from": "dx:carita-raga",
+     "note": "Vism III: the faithful temperament is akin (sabhāga) to the greedy: as greed seeks sense objects, faith seeks virtue; in behaviour alike, in moral quality opposite."
+    },
+    {
+     "from": "dx:carita-saddha",
+     "note": "Akin in behaviour, opposite in moral quality (Vism III)."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:visuddhimagga:3.p102": false
+   }
+  },
+  {
+   "a": "dx:carita-raga",
+   "b": "dx:guna-rajas",
+   "grade": "partial",
+   "cites": [
+    "tea:bhagavad-gita:14.12",
+    "tea:visuddhimagga:3.p101",
+    "tea:visuddhimagga:3.p104"
+   ],
+   "notes": [
+    {
+     "from": "dx:guna-rajas",
+     "note": "The Gītā's rajas is a strand of nature in all beings, marked by greed and passion (BhG 14.7, 14.12); the Vism's greedy temperament is a predominance of greed in a person's make-up, marked by posture, work, eating and seeing (Vism III). Different frameworks; both marked by greed."
+    },
+    {
+     "from": "dx:carita-raga",
+     "note": "Different frameworks: a strand of nature in the Gītā (BhG 14.7, 14.12), a predominance in a person in the Vism; both marked by greed."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "vedic-yogic"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:bhagavad-gita:14.12": true,
+    "tea:visuddhimagga:3.p101": false,
+    "tea:visuddhimagga:3.p104": false
+   }
+  },
+  {
+   "a": "dx:carita-raga",
+   "b": "dx:kasaya-maya",
+   "grade": "partial",
+   "cites": [
+    "tea:visuddhimagga:3.p106",
+    "tea:tattvartha-sutra:8.9"
+   ],
+   "notes": [
+    {
+     "from": "dx:carita-raga",
+     "note": "The Vism lists deceit (māyā) and fraud among the states frequent in the greedy temperament (Vism III)."
+    },
+    {
+     "from": "dx:kasaya-maya",
+     "note": "The Vism lists deceit (māyā) and fraud among the states frequent in the greedy temperament (Vism III)."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-jain"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:visuddhimagga:3.p106": false,
+    "tea:tattvartha-sutra:8.9": true
+   }
+  },
+  {
+   "a": "dx:carita-raga",
+   "b": "dx:root-lobha",
+   "grade": "partial",
+   "cites": [
+    "tea:visuddhimagga:3.p101",
+    "tea:visuddhimagga:14.p468"
+   ],
+   "notes": [
+    {
+     "from": "dx:root-lobha",
+     "note": "The greedy temperament is one in whom greed predominates (Vism III)."
+    },
+    {
+     "from": "dx:carita-raga",
+     "note": "The temperament is a predominance of greed; greed itself is defined in Vism XIV."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:visuddhimagga:3.p101": false,
+    "tea:visuddhimagga:14.p468": false
+   }
+  },
+  {
+   "a": "dx:citta-vikkhitta",
+   "b": "dx:cittabhumi",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:1.1",
+    "tea:satipatthana-sutta:mn10:34"
+   ],
+   "notes": [
+    {
+     "from": "dx:cittabhumi",
+     "note": "MN 10 names the scattered mind (vikkhitta citta) to be known as such, without describing it; Vyāsa's distracted ground is where samādhi is subordinate to distraction."
+    },
+    {
+     "from": "dx:citta-vikkhitta",
+     "note": "Vyāsa's distracted ground (vikṣipta) is where samādhi is subordinate to distraction (YB 1.1); MN 10 names the scattered mind without description."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "vedic-yogic"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-bhasya:1.1": true,
+    "tea:satipatthana-sutta:mn10:34": true
+   }
+  },
+  {
+   "a": "dx:citta-vikkhitta",
+   "b": "dx:nivarana-uddhacca-kukkucca",
+   "grade": "partial",
+   "cites": [
+    "tea:satipatthana-sutta:mn10:34",
+    "tea:visuddhimagga:14.p469"
+   ],
+   "notes": [
+    {
+     "from": "dx:nivarana-uddhacca-kukkucca",
+     "note": "MN 10 names the scattered mind without describing it; Vism XIV calls restlessness 'distraction of mind' (citta-vikkhepa)."
+    },
+    {
+     "from": "dx:citta-vikkhitta",
+     "note": "MN 10 names the scattered mind without describing it; Vism XIV calls restlessness 'distraction of mind' (citta-vikkhepa)."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:satipatthana-sutta:mn10:34": true,
+    "tea:visuddhimagga:14.p469": false
+   }
+  },
+  {
+   "a": "dx:cittabhumi",
+   "b": "dx:gk-viksepa",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:1.1",
+    "tea:mandukya-karika:3.42",
+    "tea:mandukya-karika:3.44"
+   ],
+   "notes": [
+    {
+     "from": "dx:cittabhumi",
+     "note": "Gauḍapāda's distraction (vikṣepa) is the mind scattered among desires and enjoyments, to be calmed (GK 3.42, 3.44); Vyāsa's distracted ground is a level of the mind in the Yoga's scheme."
+    },
+    {
+     "from": "dx:gk-viksepa",
+     "note": "Gauḍapāda's distraction (vikṣepa) is the mind scattered among desires and enjoyments, to be calmed (GK 3.42, 3.44); Vyāsa's distracted ground is a level of the mind in the Yoga's scheme."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:yoga-bhasya:1.1": true,
+    "tea:mandukya-karika:3.42": false,
+    "tea:mandukya-karika:3.44": false
+   }
+  },
+  {
+   "a": "dx:companion-daurmanasya",
+   "b": "dx:gita-visada",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:1.31",
+    "tea:bhagavad-gita:2.7"
+   ],
+   "notes": [
+    {
+     "from": "dx:companion-daurmanasya",
+     "note": "Vyāsa's dejection is the mind's agitation when a wish is thwarted (YB 1.31); Arjuna's viṣāda is a collapse before a duty, confused about dharma (BhG 2.7)."
+    },
+    {
+     "from": "dx:gita-visada",
+     "note": "Vyāsa's dejection is the mind's agitation when a wish is thwarted (YB 1.31); Arjuna's viṣāda is a collapse before a duty, confused about dharma (BhG 2.7)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:yoga-bhasya:1.31": true,
+    "tea:bhagavad-gita:2.7": true
+   }
+  },
+  {
+   "a": "dx:companion-daurmanasya",
+   "b": "dx:jain-arta-dhyana",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:1.31",
+    "tea:tattvartha-sutra:9.31"
+   ],
+   "notes": [
+    {
+     "from": "dx:companion-daurmanasya",
+     "note": "Vyāsa's dejection is the mind's agitation when a wish is thwarted (YB 1.31); TS's sorrowful dwelling fixes the mind on removing the unpleasant or regaining the pleasant."
+    },
+    {
+     "from": "dx:jain-arta-dhyana",
+     "note": "Vyāsa's dejection is the mind's agitation when a wish is thwarted (YB 1.31); TS's sorrowful dwelling fixes the mind on removing the unpleasant or regaining the pleasant."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-jain"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-bhasya:1.31": true,
+    "tea:tattvartha-sutra:9.31": false
+   }
+  },
+  {
+   "a": "dx:fetter-avijja",
+   "b": "dx:klesa-avidya",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-sutra:2.5",
+    "tea:visuddhimagga:14.p468"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-avidya",
+     "note": "Both name not-seeing as the root of bondage. YS avidyā is the fourfold mis-taking of YS 2.5 and ends in the seer's aloneness; the Theravāda avijjā/moha is blindness of mind and the root of all unwholesome states (Vism XIV), with no self to be uncovered. Theravāda denies the self the Yoga affirms."
+    },
+    {
+     "from": "dx:fetter-avijja",
+     "note": "Both name not-seeing as the root of bondage; the Yoga's avidyā ends in the seer's aloneness (YS 2.25), the Theravāda avijjā is cut by the fourth path with no self uncovered."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "vedic-yogic"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-sutra:2.5": true,
+    "tea:visuddhimagga:14.p468": false
+   }
+  },
+  {
+   "a": "dx:fetter-avijja",
+   "b": "dx:root-moha",
+   "grade": "partial",
+   "cites": [
+    "tea:visuddhimagga:22.p682",
+    "tea:visuddhimagga:14.p468"
+   ],
+   "notes": [
+    {
+     "from": "dx:fetter-avijja",
+     "note": "The fetter list names avijjā; Vism XIV defines moha. The Abhidhamma treats these as one factor, but that equation is not cited here."
+    },
+    {
+     "from": "dx:root-moha",
+     "note": "The fetter list names avijjā; Vism XIV defines moha. The Abhidhamma treats these as one factor, but that equation is not cited here."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:visuddhimagga:22.p682": false,
+    "tea:visuddhimagga:14.p468": false
+   }
+  },
+  {
+   "a": "dx:fetter-kamaraga",
+   "b": "dx:nivarana-kamacchanda",
+   "grade": "partial",
+   "cites": [
+    "tea:visuddhimagga:4.p146",
+    "tea:visuddhimagga:22.p684"
+   ],
+   "notes": [
+    {
+     "from": "dx:nivarana-kamacchanda",
+     "note": "The same kind of lust named in two lists: as a hindrance it blocks jhāna (Vism IV); as a fetter it binds to the sense sphere and is abandoned only by the third path (Vism XXII)."
+    },
+    {
+     "from": "dx:fetter-kamaraga",
+     "note": "The same kind of lust in two lists: hindrance to jhāna (Vism IV), fetter to the sense sphere (Vism XXII)."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:visuddhimagga:4.p146": false,
+    "tea:visuddhimagga:22.p684": false
+   }
+  },
+  {
+   "a": "dx:fetter-kamaraga",
+   "b": "dx:root-lobha",
+   "grade": "partial",
+   "cites": [
+    "tea:visuddhimagga:14.p468",
+    "tea:visuddhimagga:22.p683"
+   ],
+   "notes": [
+    {
+     "from": "dx:fetter-kamaraga",
+     "note": "Vism XIV defines greed; sensual lust is its sense-sphere form as a fetter."
+    },
+    {
+     "from": "dx:root-lobha",
+     "note": "Vism XIV defines greed; sensual lust is its sense-sphere form as a fetter."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:visuddhimagga:14.p468": false,
+    "tea:visuddhimagga:22.p683": false
+   }
+  },
+  {
+   "a": "dx:fetter-mana",
+   "b": "dx:gita-asuri-sampad",
+   "grade": "partial",
+   "cites": [
+    "tea:bhagavad-gita:16.4",
+    "tea:visuddhimagga:14.p469"
+   ],
+   "notes": [
+    {
+     "from": "dx:gita-asuri-sampad",
+     "note": "Theravāda conceit is haughtiness and self-exaltation (Vism XIV)."
+    },
+    {
+     "from": "dx:fetter-mana",
+     "note": "The Gītā lists arrogance and conceit (darpa, abhimāna) among demonic qualities (BhG 16.4)."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "vedic-yogic"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:bhagavad-gita:16.4": true,
+    "tea:visuddhimagga:14.p469": false
+   }
+  },
+  {
+   "a": "dx:fetter-mana",
+   "b": "dx:kasaya-mana",
+   "grade": "partial",
+   "cites": [
+    "tea:tattvartha-sutra:8.9",
+    "tea:visuddhimagga:14.p469"
+   ],
+   "notes": [
+    {
+     "from": "dx:fetter-mana",
+     "note": "Jain pride is one of four passions graded by intensity (TS 8.9); Theravāda conceit is haughtiness remaining until the fourth path (Vism XIV, XXII)."
+    },
+    {
+     "from": "dx:kasaya-mana",
+     "note": "Theravāda conceit is haughtiness and self-exaltation, remaining until the fourth path (Vism XIV, XXII); Jain pride is a passion graded in four intensities."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-jain"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:tattvartha-sutra:8.9": true,
+    "tea:visuddhimagga:14.p469": false
+   }
+  },
+  {
+   "a": "dx:fetter-mana",
+   "b": "dx:klesa-asmita",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-sutra:2.6",
+    "tea:visuddhimagga:14.p469"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-asmita",
+     "note": "Conceit (māna) is haughtiness and self-exaltation (Vism XIV); asmitā is the seeming oneness of seer and seeing. Related in the 'I am' they share, different in definition."
+    },
+    {
+     "from": "dx:fetter-mana",
+     "note": "Asmitā is the seeming oneness of seer and seeing (YS 2.6); conceit is haughtiness and self-exaltation (Vism XIV)."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "vedic-yogic"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-sutra:2.6": true,
+    "tea:visuddhimagga:14.p469": false
+   }
+  },
+  {
+   "a": "dx:fetter-patigha",
+   "b": "dx:klesa-dvesa",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:2.8",
+    "tea:visuddhimagga:22.p684",
+    "tea:visuddhimagga:22.p683"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-dvesa",
+     "note": "Resentment (paṭigha) as a fetter binds to the sense sphere until the third path (Vism XXII); Vyāsa uses pratigha in defining dveṣa."
+    },
+    {
+     "from": "dx:fetter-patigha",
+     "note": "Vyāsa uses the word pratigha in defining dveṣa (YB 2.8)."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "vedic-yogic"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-bhasya:2.8": true,
+    "tea:visuddhimagga:22.p684": false,
+    "tea:visuddhimagga:22.p683": false
+   }
+  },
+  {
+   "a": "dx:fetter-patigha",
+   "b": "dx:nivarana-byapada",
+   "grade": "partial",
+   "cites": [
+    "tea:visuddhimagga:4.p146",
+    "tea:visuddhimagga:22.p684"
+   ],
+   "notes": [
+    {
+     "from": "dx:nivarana-byapada",
+     "note": "Ill will as a hindrance blocks jhāna; resentment (paṭigha) as a fetter binds to the sense sphere until the third path (Vism XXII)."
+    },
+    {
+     "from": "dx:fetter-patigha",
+     "note": "Ill will in the hindrance list, resentment in the fetter list (Vism IV, XXII)."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:visuddhimagga:4.p146": false,
+    "tea:visuddhimagga:22.p684": false
+   }
+  },
+  {
+   "a": "dx:fetter-patigha",
+   "b": "dx:root-dosa",
+   "grade": "partial",
+   "cites": [
+    "tea:visuddhimagga:14.p470",
+    "tea:visuddhimagga:22.p683"
+   ],
+   "notes": [
+    {
+     "from": "dx:fetter-patigha",
+     "note": "Vism XIV defines hate; resentment is its form as a fetter."
+    },
+    {
+     "from": "dx:root-dosa",
+     "note": "Vism XIV defines hate; resentment is its form as a fetter."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:visuddhimagga:14.p470": false,
+    "tea:visuddhimagga:22.p683": false
+   }
+  },
+  {
+   "a": "dx:fetter-sakkaya-ditthi",
+   "b": "dx:klesa-asmita",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-sutra:2.6",
+    "tea:visuddhimagga:17.p570"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-asmita",
+     "note": "Both name a false taking of something as self. YS 2.6 confuses the instrument (buddhi) with a real seer that the Yoga affirms; personality view regards any of the five aggregates as self (Vism XVII), and Theravāda affirms no self at all. That denial stands."
+    },
+    {
+     "from": "dx:fetter-sakkaya-ditthi",
+     "note": "Both name a false taking of something as self; the Yoga affirms a real seer beyond buddhi (YS 2.6), Theravāda denies any self (Vism XVII). The denial stands."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "vedic-yogic"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-sutra:2.6": true,
+    "tea:visuddhimagga:17.p570": false
+   }
+  },
+  {
+   "a": "dx:fetter-uddhacca",
+   "b": "dx:nivarana-uddhacca-kukkucca",
+   "grade": "partial",
+   "cites": [
+    "tea:visuddhimagga:14.p469",
+    "tea:visuddhimagga:22.p684"
+   ],
+   "notes": [
+    {
+     "from": "dx:nivarana-uddhacca-kukkucca",
+     "note": "In the hindrance restlessness is paired with remorse and blocks jhāna; as a fetter, restlessness alone remains until the fourth path (Vism XXII)."
+    },
+    {
+     "from": "dx:fetter-uddhacca",
+     "note": "Paired with remorse as a hindrance to jhāna; alone as a higher fetter until the fourth path."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:visuddhimagga:14.p469": false,
+    "tea:visuddhimagga:22.p684": false
+   }
+  },
+  {
+   "a": "dx:fetter-vicikiccha",
+   "b": "dx:nivarana-vicikiccha",
+   "grade": "exact",
+   "cites": [
+    "tea:visuddhimagga:14.p471",
+    "tea:visuddhimagga:4.p146",
+    "tea:visuddhimagga:22.p684"
+   ],
+   "notes": [
+    {
+     "from": "dx:nivarana-vicikiccha",
+     "note": "The same mental factor (Vism XIV) named in two lists: as a hindrance it blocks jhāna (Vism IV); as a fetter it binds to rebirth and is cut by the first path (Vism XXII)."
+    },
+    {
+     "from": "dx:fetter-vicikiccha",
+     "note": "The same mental factor named in the list of hindrances and the list of fetters; the roles differ (blocks jhāna / binds to rebirth)."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:visuddhimagga:14.p471": false,
+    "tea:visuddhimagga:4.p146": false,
+    "tea:visuddhimagga:22.p684": false
+   }
+  },
+  {
+   "a": "dx:gita-anger-chain",
+   "b": "dx:gita-kama-krodha",
+   "grade": "exact",
+   "cites": [
+    "tea:bhagavad-gita:2.62",
+    "tea:bhagavad-gita:3.37"
+   ],
+   "notes": [
+    {
+     "from": "dx:gita-anger-chain",
+     "note": "The same desire and anger of the Gītā, here shown as links in a chain (BhG 2.62–63) and there named as the one enemy (3.37)."
+    },
+    {
+     "from": "dx:gita-kama-krodha",
+     "note": "The same desire and anger of the Gītā, here shown as links in a chain (BhG 2.62–63) and there named as the one enemy (3.37)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:bhagavad-gita:2.62": true,
+    "tea:bhagavad-gita:3.37": true
+   }
+  },
+  {
+   "a": "dx:gita-anger-chain",
+   "b": "dx:klesa-raga",
+   "grade": "partial",
+   "cites": [
+    "tea:bhagavad-gita:2.62",
+    "tea:yoga-sutra:2.7"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-raga",
+     "note": "YS rāga follows remembered pleasure (YS 2.7); the Gītā's attachment and desire grow from dwelling on objects (BhG 2.62)."
+    },
+    {
+     "from": "dx:gita-anger-chain",
+     "note": "YS rāga follows remembered pleasure (YS 2.7); the Gītā's attachment and desire grow from dwelling on objects (BhG 2.62)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:bhagavad-gita:2.62": true,
+    "tea:yoga-sutra:2.7": true
+   }
+  },
+  {
+   "a": "dx:gita-asuri-sampad",
+   "b": "dx:kasaya-mana",
+   "grade": "partial",
+   "cites": [
+    "tea:bhagavad-gita:16.4",
+    "tea:tattvartha-sutra:8.9"
+   ],
+   "notes": [
+    {
+     "from": "dx:gita-asuri-sampad",
+     "note": "Jain pride (māna) is one of four passions (TS 8.9); the Gītā lists arrogance and conceit (darpa, abhimāna) among demonic qualities."
+    },
+    {
+     "from": "dx:kasaya-mana",
+     "note": "The Gītā lists arrogance and conceit among demonic qualities (BhG 16.4)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-jain"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:bhagavad-gita:16.4": true,
+    "tea:tattvartha-sutra:8.9": true
+   }
+  },
+  {
+   "a": "dx:gita-asuri-sampad",
+   "b": "dx:kasaya-maya",
+   "grade": "partial",
+   "cites": [
+    "tea:bhagavad-gita:16.4",
+    "tea:tattvartha-sutra:8.9"
+   ],
+   "notes": [
+    {
+     "from": "dx:gita-asuri-sampad",
+     "note": "Jain deceit (māyā) and the Gītā's hypocrisy (dambha) overlap in showing what one is not."
+    },
+    {
+     "from": "dx:kasaya-maya",
+     "note": "The Gītā lists hypocrisy (dambha) among demonic qualities (BhG 16.4)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-jain"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:bhagavad-gita:16.4": true,
+    "tea:tattvartha-sutra:8.9": true
+   }
+  },
+  {
+   "a": "dx:gita-kama-krodha",
+   "b": "dx:guna-rajas",
+   "grade": "partial",
+   "cites": [
+    "tea:bhagavad-gita:3.37"
+   ],
+   "notes": [
+    {
+     "from": "dx:guna-rajas",
+     "note": "Desire and anger are born of rajas (BhG 3.37)."
+    },
+    {
+     "from": "dx:gita-kama-krodha",
+     "note": "Born of rajas (BhG 3.37)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:bhagavad-gita:3.37": true
+   }
+  },
+  {
+   "a": "dx:gita-kama-krodha",
+   "b": "dx:kasaya-krodha",
+   "grade": "partial",
+   "cites": [
+    "tea:bhagavad-gita:3.37",
+    "tea:tattvartha-sutra:8.9"
+   ],
+   "notes": [
+    {
+     "from": "dx:gita-kama-krodha",
+     "note": "Jain anger is a passion that makes the soul take in karmic matter (TS 8.2, 8.9); the Gītā's anger is born of rajas and covers knowledge."
+    },
+    {
+     "from": "dx:kasaya-krodha",
+     "note": "The Gītā's anger is born of desire and of rajas (BhG 2.62, 3.37)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-jain"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:bhagavad-gita:3.37": true,
+    "tea:tattvartha-sutra:8.9": true
+   }
+  },
+  {
+   "a": "dx:gita-kama-krodha",
+   "b": "dx:klesa-dvesa",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:2.8",
+    "tea:bhagavad-gita:2.62"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-dvesa",
+     "note": "Vyāsa counts anger within dveṣa, following remembered pain (YB 2.8); the Gītā derives anger from desire (BhG 2.62)."
+    },
+    {
+     "from": "dx:gita-kama-krodha",
+     "note": "Vyāsa counts anger within dveṣa, following remembered pain (YB 2.8); the Gītā derives anger from desire (BhG 2.62)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:yoga-bhasya:2.8": true,
+    "tea:bhagavad-gita:2.62": true
+   }
+  },
+  {
+   "a": "dx:gita-kama-krodha",
+   "b": "dx:klesa-raga",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-sutra:2.7",
+    "tea:bhagavad-gita:2.62",
+    "tea:bhagavad-gita:3.37"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-raga",
+     "note": "The Gītā's desire (kāma) is born of rajas and grows from attachment to objects dwelt on (BhG 2.62, 3.37); YS rāga follows remembered pleasure. Both place desire before anger."
+    },
+    {
+     "from": "dx:gita-kama-krodha",
+     "note": "The Gītā's desire (kāma) is born of rajas and grows from attachment to objects dwelt on (BhG 2.62, 3.37); YS rāga follows remembered pleasure. Both place desire before anger."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:yoga-sutra:2.7": true,
+    "tea:bhagavad-gita:2.62": true,
+    "tea:bhagavad-gita:3.37": true
+   }
+  },
+  {
+   "a": "dx:gita-kama-krodha",
+   "b": "dx:root-dosa",
+   "grade": "partial",
+   "cites": [
+    "tea:bhagavad-gita:3.37",
+    "tea:visuddhimagga:14.p470"
+   ],
+   "notes": [
+    {
+     "from": "dx:gita-kama-krodha",
+     "note": "Theravāda dosa is ferocity, a root of the unwholesome (Vism XIV); the Gītā's anger is born of desire and of rajas."
+    },
+    {
+     "from": "dx:root-dosa",
+     "note": "Theravāda dosa is ferocity, a root of the unwholesome (Vism XIV); the Gītā's anger is born of desire and of rajas."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:bhagavad-gita:3.37": true,
+    "tea:visuddhimagga:14.p470": false
+   }
+  },
+  {
+   "a": "dx:gita-restless-mind",
+   "b": "dx:gk-viksepa",
+   "grade": "partial",
+   "cites": [
+    "tea:bhagavad-gita:6.34",
+    "tea:mandukya-karika:3.44"
+   ],
+   "notes": [
+    {
+     "from": "dx:gita-restless-mind",
+     "note": "Gauḍapāda's distraction is the mind scattered among desires and enjoyments, to be calmed (GK 3.42, 3.44)."
+    },
+    {
+     "from": "dx:gk-viksepa",
+     "note": "Gauḍapāda's distraction is the mind scattered among desires and enjoyments, to be calmed (GK 3.42, 3.44)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:bhagavad-gita:6.34": true,
+    "tea:mandukya-karika:3.44": false
+   }
+  },
+  {
+   "a": "dx:gita-restless-mind",
+   "b": "dx:katha-unrestrained-senses",
+   "grade": "partial",
+   "cites": [
+    "tea:bhagavad-gita:2.60",
+    "tea:katha-upanisad:1.3.5"
+   ],
+   "notes": [
+    {
+     "from": "dx:gita-restless-mind",
+     "note": "The Kaṭha's senses run like vicious horses when the mind is unyoked (KU 1.3.5); the Gītā's turbulent senses carry off the mind (BhG 2.60)."
+    },
+    {
+     "from": "dx:katha-unrestrained-senses",
+     "note": "The Gītā's turbulent senses carry off the mind (BhG 2.60, 2.67); the Kaṭha's senses run like vicious horses when the mind is unyoked (KU 1.3.5)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:bhagavad-gita:2.60": true,
+    "tea:katha-upanisad:1.3.5": true
+   }
+  },
+  {
+   "a": "dx:gita-restless-mind",
+   "b": "dx:nivarana-uddhacca-kukkucca",
+   "grade": "partial",
+   "cites": [
+    "tea:bhagavad-gita:6.34",
+    "tea:visuddhimagga:14.p469"
+   ],
+   "notes": [
+    {
+     "from": "dx:gita-restless-mind",
+     "note": "Theravāda restlessness is disquiet, like water whipped by wind (Vism XIV); the Gītā's mind is as hard to hold as the wind (BhG 6.34). Similar image, different frameworks."
+    },
+    {
+     "from": "dx:nivarana-uddhacca-kukkucca",
+     "note": "The Gītā's restless mind is as hard to hold as the wind (BhG 6.34); Vism XIV's restlessness is like water whipped by wind."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:bhagavad-gita:6.34": true,
+    "tea:visuddhimagga:14.p469": false
+   }
+  },
+  {
+   "a": "dx:gk-amanibhava",
+   "b": "dx:state-turiya",
+   "grade": "partial",
+   "cites": [
+    "tea:mandukya-upanisad:7",
+    "tea:mandukya-karika:3.46"
+   ],
+   "notes": [
+    {
+     "from": "dx:state-turiya",
+     "note": "Gauḍapāda's no-mind state is brahman when the mind neither dissolves nor scatters (GK 3.46); the fourth is described by negation (MāU 7). Both in the Advaita reading of the Māṇḍūkya."
+    },
+    {
+     "from": "dx:gk-amanibhava",
+     "note": "Gauḍapāda's no-mind state is brahman when the mind neither dissolves nor scatters (GK 3.46); the fourth is described by negation (MāU 7). Both in the Advaita reading of the Māṇḍūkya."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:mandukya-upanisad:7": true,
+    "tea:mandukya-karika:3.46": false
+   }
+  },
+  {
+   "a": "dx:gk-kasaya",
+   "b": "dx:klesa-raga",
+   "grade": "partial",
+   "cites": [
+    "tea:mandukya-karika:3.44",
+    "tea:yoga-sutra:2.4"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-raga",
+     "note": "YS describes kleśas that remain dormant or thinned (YS 2.4); GK 3.44 asks that the still-coloured mind be recognised. Related idea of a latent residue, in different systems."
+    },
+    {
+     "from": "dx:gk-kasaya",
+     "note": "YS describes kleśas that remain dormant or thinned (YS 2.4); GK 3.44 asks that the still-coloured mind be recognised. Related idea of a latent residue, in different systems."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:mandukya-karika:3.44": false,
+    "tea:yoga-sutra:2.4": true
+   }
+  },
+  {
+   "a": "dx:gk-laya",
+   "b": "dx:guna-tamas",
+   "grade": "partial",
+   "cites": [
+    "tea:bhagavad-gita:14.8",
+    "tea:mandukya-karika:3.44"
+   ],
+   "notes": [
+    {
+     "from": "dx:guna-tamas",
+     "note": "Gauḍapāda's laya is the mind dissolving as in sleep during stilling (GK 3.35, 3.44); tamas binds by sleep (BhG 14.8)."
+    },
+    {
+     "from": "dx:gk-laya",
+     "note": "Gauḍapāda's laya is the mind dissolving as in sleep during stilling (GK 3.35, 3.44); tamas binds by sleep (BhG 14.8)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:bhagavad-gita:14.8": true,
+    "tea:mandukya-karika:3.44": false
+   }
+  },
+  {
+   "a": "dx:gk-laya",
+   "b": "dx:nivarana-thina-middha",
+   "grade": "partial",
+   "cites": [
+    "tea:mandukya-karika:3.44",
+    "tea:visuddhimagga:14.p469"
+   ],
+   "notes": [
+    {
+     "from": "dx:gk-laya",
+     "note": "Torpor in the Vism can show as nodding and sleep (Vism XIV); GK's laya is the mind dissolving as in sleep. Both are to be roused; the frameworks differ."
+    },
+    {
+     "from": "dx:nivarana-thina-middha",
+     "note": "Gauḍapāda's laya is the mind dissolving as in sleep (GK 3.35, 3.44); torpor can show as nodding and sleep (Vism XIV)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:mandukya-karika:3.44": false,
+    "tea:visuddhimagga:14.p469": false
+   }
+  },
+  {
+   "a": "dx:gk-laya",
+   "b": "dx:state-susupta",
+   "grade": "partial",
+   "cites": [
+    "tea:mandukya-karika:3.35",
+    "tea:mandukya-karika:3.44"
+   ],
+   "notes": [
+    {
+     "from": "dx:state-susupta",
+     "note": "Gauḍapāda's laya is the mind dissolving as it does in deep sleep (GK 3.35, 3.44)."
+    },
+    {
+     "from": "dx:gk-laya",
+     "note": "Gauḍapāda's laya is the mind dissolving as it does in deep sleep (GK 3.35, 3.44)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:mandukya-karika:3.35": false,
+    "tea:mandukya-karika:3.44": false
+   }
+  },
+  {
+   "a": "dx:gk-rasasvada",
+   "b": "dx:siddhi-upasarga",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-sutra:3.37",
+    "tea:mandukya-karika:3.45"
+   ],
+   "notes": [
+    {
+     "from": "dx:siddhi-upasarga",
+     "note": "Gauḍapāda warns against savouring the happiness of stillness (GK 3.45); YS warns against taking powers as accomplishments. Both are attachments to fruits along the way."
+    },
+    {
+     "from": "dx:gk-rasasvada",
+     "note": "Gauḍapāda warns against savouring the happiness of stillness (GK 3.45); YS warns against taking powers as accomplishments. Both are attachments to fruits along the way."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:yoga-sutra:3.37": true,
+    "tea:mandukya-karika:3.45": false
+   }
+  },
+  {
+   "a": "dx:gk-rasasvada",
+   "b": "dx:vism-vipassanupakkilesa",
+   "grade": "partial",
+   "cites": [
+    "tea:mandukya-karika:3.45",
+    "tea:visuddhimagga:20.p637"
+   ],
+   "notes": [
+    {
+     "from": "dx:gk-rasasvada",
+     "note": "The Vism's attachment (nikanti) to light, rapture and bliss is the one imperfection that is also unwholesome (Vism XX); GK 3.45 warns against savouring the happiness of stillness."
+    },
+    {
+     "from": "dx:vism-vipassanupakkilesa",
+     "note": "Gauḍapāda: do not savour the happiness of stillness (GK 3.45); Vism: attachment to these states is the imperfection that is also unwholesome (Vism XX)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:mandukya-karika:3.45": false,
+    "tea:visuddhimagga:20.p637": false
+   }
+  },
+  {
+   "a": "dx:gk-viksepa",
+   "b": "dx:nivarana-uddhacca-kukkucca",
+   "grade": "partial",
+   "cites": [
+    "tea:mandukya-karika:3.42",
+    "tea:visuddhimagga:14.p469"
+   ],
+   "notes": [
+    {
+     "from": "dx:gk-viksepa",
+     "note": "Restlessness in the Vism is disquiet, 'distraction of mind' (Vism XIV); GK's vikṣepa is scattering among desires. Different frameworks."
+    },
+    {
+     "from": "dx:nivarana-uddhacca-kukkucca",
+     "note": "Restlessness in the Vism is disquiet, 'distraction of mind' (Vism XIV); GK's vikṣepa is scattering among desires. Different frameworks."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:mandukya-karika:3.42": false,
+    "tea:visuddhimagga:14.p469": false
+   }
+  },
+  {
+   "a": "dx:guna-rajas",
+   "b": "dx:guna-sattva",
+   "grade": "partial",
+   "cites": [
+    "tea:bhagavad-gita:14.10"
+   ],
+   "notes": [
+    {
+     "from": "dx:guna-sattva",
+     "note": "The guṇas are not separate things in a person but three strands that overpower one another in turn (BhG 14.10)."
+    },
+    {
+     "from": "dx:guna-rajas",
+     "note": "The guṇas are not separate things in a person but three strands that overpower one another in turn (BhG 14.10)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:bhagavad-gita:14.10": true
+   }
+  },
+  {
+   "a": "dx:guna-rajas",
+   "b": "dx:tanha",
+   "grade": "partial",
+   "cites": [
+    "tea:bhagavad-gita:14.7",
+    "tea:mahasatipatthana-sutta:dn22:19"
+   ],
+   "notes": [
+    {
+     "from": "dx:guna-rajas",
+     "note": "The Gītā says rajas springs from craving and attachment (BhG 14.7)."
+    },
+    {
+     "from": "dx:tanha",
+     "note": "The Gītā says rajas springs from craving and attachment (BhG 14.7)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:bhagavad-gita:14.7": true,
+    "tea:mahasatipatthana-sutta:dn22:19": true
+   }
+  },
+  {
+   "a": "dx:guna-tamas",
+   "b": "dx:root-moha",
+   "grade": "partial",
+   "cites": [
+    "tea:bhagavad-gita:14.8",
+    "tea:visuddhimagga:14.p468"
+   ],
+   "notes": [
+    {
+     "from": "dx:guna-tamas",
+     "note": "The Gītā's tamas is born of ignorance and deludes (BhG 14.8); Vism's moha is blindness of mind."
+    },
+    {
+     "from": "dx:root-moha",
+     "note": "The Gītā's tamas is born of ignorance and deludes (BhG 14.8); Vism's moha is blindness of mind."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:bhagavad-gita:14.8": true,
+    "tea:visuddhimagga:14.p468": false
+   }
+  },
+  {
+   "a": "dx:jain-mithyadarsana",
+   "b": "dx:klesa-avidya",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-sutra:2.4",
+    "tea:tattvartha-sutra:8.1",
+    "tea:tattvartha-sutra:1.2"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-avidya",
+     "note": "Both stand first among the roots of bondage in their systems (YS 2.3–4; TS 8.1). Jain wrong view is the absence of faith in the reals as the Jain teaching sets them out (TS 1.2); the reals differ."
+    },
+    {
+     "from": "dx:jain-mithyadarsana",
+     "note": "Both stand first among the roots of bondage in their systems (TS 8.1; YS 2.4); the reals they concern differ."
+    }
+   ],
+   "lenses": [
+    "ascetic-jain",
+    "vedic-yogic"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-sutra:2.4": true,
+    "tea:tattvartha-sutra:8.1": true,
+    "tea:tattvartha-sutra:1.2": false
+   }
+  },
+  {
+   "a": "dx:jain-pramada",
+   "b": "dx:pamada",
+   "grade": "partial",
+   "cites": [
+    "tea:tattvartha-sutra:8.1",
+    "tea:dhammapada:21"
+   ],
+   "notes": [
+    {
+     "from": "dx:pamada",
+     "note": "In TS heedlessness is a cause of bondage (TS 8.1)."
+    },
+    {
+     "from": "dx:jain-pramada",
+     "note": "The Dhammapada's heedlessness is the path to death (Dhp 21)."
+    }
+   ],
+   "lenses": [
+    "ascetic-jain",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:tattvartha-sutra:8.1": true,
+    "tea:dhammapada:21": false
+   }
+  },
+  {
+   "a": "dx:jain-raudra-dhyana",
+   "b": "dx:vitarka-himsadi",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-sutra:2.34",
+    "tea:tattvartha-sutra:9.35"
+   ],
+   "notes": [
+    {
+     "from": "dx:vitarka-himsadi",
+     "note": "The Jain 'cruel meditation' is dwelling that arises from harming, falsehood, theft and guarding one's possessions (TS 9.35); YS vitarkas are thoughts of violating the restraints, met by cultivating the opposite."
+    },
+    {
+     "from": "dx:jain-raudra-dhyana",
+     "note": "YS 2.34's vitarkas are thoughts of harming and the rest, met by cultivating the opposite; TS 9.35's cruel dwelling arises from harming, falsehood, theft and guarding possessions."
+    }
+   ],
+   "lenses": [
+    "ascetic-jain",
+    "vedic-yogic"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-sutra:2.34": true,
+    "tea:tattvartha-sutra:9.35": false
+   }
+  },
+  {
+   "a": "dx:kasaya-krodha",
+   "b": "dx:klesa-dvesa",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:2.8",
+    "tea:tattvartha-sutra:8.9"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-dvesa",
+     "note": "Vyāsa lists krodha within dveṣa; the Jain krodha is one of the four passions with four intensities (TS 8.9). Same word, different system."
+    },
+    {
+     "from": "dx:kasaya-krodha",
+     "note": "Vyāsa lists anger within dveṣa (YB 2.8); the Jain krodha is a passion graded in four intensities that binds karmic matter (TS 8.2, 8.9)."
+    }
+   ],
+   "lenses": [
+    "ascetic-jain",
+    "vedic-yogic"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-bhasya:2.8": true,
+    "tea:tattvartha-sutra:8.9": true
+   }
+  },
+  {
+   "a": "dx:kasaya-krodha",
+   "b": "dx:root-dosa",
+   "grade": "partial",
+   "cites": [
+    "tea:tattvartha-sutra:8.9",
+    "tea:visuddhimagga:14.p470",
+    "tea:tattvartha-sutra:8.2"
+   ],
+   "notes": [
+    {
+     "from": "dx:root-dosa",
+     "note": "Jain anger is a passion graded in four intensities (TS 8.9)."
+    },
+    {
+     "from": "dx:kasaya-krodha",
+     "note": "Theravāda hate is a momentary mental factor, a root of the unwholesome (Vism XIV); Jain anger is a passion by which the soul takes in karmic matter."
+    }
+   ],
+   "lenses": [
+    "ascetic-jain",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:tattvartha-sutra:8.9": true,
+    "tea:visuddhimagga:14.p470": false,
+    "tea:tattvartha-sutra:8.2": true
+   }
+  },
+  {
+   "a": "dx:kasaya-lobha",
+   "b": "dx:klesa-raga",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-sutra:2.7",
+    "tea:tattvartha-sutra:8.2",
+    "tea:tattvartha-sutra:8.9",
+    "tea:yoga-bhasya:2.7"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-raga",
+     "note": "Jain greed is one of four passions that make the soul take in karmic matter (TS 8.2, 8.9); YS rāga is a kleśa rooted in avidyā. Similar pull, different account of bondage."
+    },
+    {
+     "from": "dx:kasaya-lobha",
+     "note": "Vyāsa glosses rāga with the word lobha (YB 2.7)."
+    }
+   ],
+   "lenses": [
+    "ascetic-jain",
+    "vedic-yogic"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-sutra:2.7": true,
+    "tea:tattvartha-sutra:8.2": true,
+    "tea:tattvartha-sutra:8.9": true,
+    "tea:yoga-bhasya:2.7": true
+   }
+  },
+  {
+   "a": "dx:kasaya-lobha",
+   "b": "dx:root-lobha",
+   "grade": "partial",
+   "cites": [
+    "tea:tattvartha-sutra:8.9",
+    "tea:visuddhimagga:14.p468",
+    "tea:tattvartha-sutra:8.2"
+   ],
+   "notes": [
+    {
+     "from": "dx:root-lobha",
+     "note": "Jain greed is a passion that makes the soul take in karmic matter (TS 8.2, 8.9)."
+    },
+    {
+     "from": "dx:kasaya-lobha",
+     "note": "Theravāda greed is a mental factor that grasps like monkey-lime (Vism XIV); Jain greed is a passion that binds karmic matter (TS 8.2)."
+    }
+   ],
+   "lenses": [
+    "ascetic-jain",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:tattvartha-sutra:8.9": true,
+    "tea:visuddhimagga:14.p468": false,
+    "tea:tattvartha-sutra:8.2": true
+   }
+  },
+  {
+   "a": "dx:kasaya-mana",
+   "b": "dx:klesa-asmita",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-sutra:2.6",
+    "tea:tattvartha-sutra:8.9"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-asmita",
+     "note": "Asmitā is the seeming oneness of seer and seeing (YS 2.6), not pride as such; related only through the 'I'."
+    },
+    {
+     "from": "dx:kasaya-mana",
+     "note": "Asmitā is the seeming oneness of seer and seeing (YS 2.6), not pride as such; related only through the 'I'."
+    }
+   ],
+   "lenses": [
+    "ascetic-jain",
+    "vedic-yogic"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-sutra:2.6": true,
+    "tea:tattvartha-sutra:8.9": true
+   }
+  },
+  {
+   "a": "dx:katha-preyas",
+   "b": "dx:klesa-avidya",
+   "grade": "partial",
+   "cites": [
+    "tea:katha-upanisad:1.2.5",
+    "tea:yoga-sutra:2.5"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-avidya",
+     "note": "The Kaṭha sets the pleasant within ignorance (avidyā) and the good with knowledge (KU 1.2.4–5); YS avidyā is the mis-taking of YS 2.5."
+    },
+    {
+     "from": "dx:katha-preyas",
+     "note": "The Kaṭha sets the pleasant within ignorance (avidyā) and the good with knowledge (KU 1.2.4–5); YS avidyā is the mis-taking of YS 2.5."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:katha-upanisad:1.2.5": true,
+    "tea:yoga-sutra:2.5": true
+   }
+  },
+  {
+   "a": "dx:katha-unrestrained-senses",
+   "b": "dx:sheath-annamaya",
+   "grade": "partial",
+   "cites": [
+    "tea:katha-upanisad:1.3.3",
+    "tea:taittiriya-upanisad:2.1.1"
+   ],
+   "notes": [
+    {
+     "from": "dx:sheath-annamaya",
+     "note": "The Kaṭha calls the body the chariot of the self (KU 1.3.3); the Taittirīya calls it the self made of food (TU 2.1.1)."
+    },
+    {
+     "from": "dx:katha-unrestrained-senses",
+     "note": "The Kaṭha calls the body the chariot of the self (KU 1.3.3); the Taittirīya calls it the self made of food (TU 2.1.1)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:katha-upanisad:1.3.3": true,
+    "tea:taittiriya-upanisad:2.1.1": true
+   }
+  },
+  {
+   "a": "dx:katha-unrestrained-senses",
+   "b": "dx:sheath-manomaya",
+   "grade": "partial",
+   "cites": [
+    "tea:katha-upanisad:1.3.3",
+    "tea:taittiriya-upanisad:2.3.1"
+   ],
+   "notes": [
+    {
+     "from": "dx:sheath-manomaya",
+     "note": "In the Kaṭha the mind is the reins (KU 1.3.3); in the Taittirīya the self made of mind is the third 'self'."
+    },
+    {
+     "from": "dx:katha-unrestrained-senses",
+     "note": "In the Kaṭha the mind is the reins (KU 1.3.3); in the Taittirīya the self made of mind is the third 'self'."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:katha-upanisad:1.3.3": true,
+    "tea:taittiriya-upanisad:2.3.1": true
+   }
+  },
+  {
+   "a": "dx:katha-unrestrained-senses",
+   "b": "dx:sheath-vijnanamaya",
+   "grade": "partial",
+   "cites": [
+    "tea:katha-upanisad:1.3.3",
+    "tea:taittiriya-upanisad:2.4.1"
+   ],
+   "notes": [
+    {
+     "from": "dx:sheath-vijnanamaya",
+     "note": "In the Kaṭha understanding (buddhi) is the charioteer (KU 1.3.3); in the Taittirīya the self made of understanding is the fourth 'self'."
+    },
+    {
+     "from": "dx:katha-unrestrained-senses",
+     "note": "In the Kaṭha understanding (buddhi) is the charioteer (KU 1.3.3); in the Taittirīya the self made of understanding is the fourth 'self'."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:katha-upanisad:1.3.3": true,
+    "tea:taittiriya-upanisad:2.4.1": true
+   }
+  },
+  {
+   "a": "dx:klesa-abhinivesa",
+   "b": "dx:tanha",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:2.9",
+    "tea:mahasatipatthana-sutta:dn22:19"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-abhinivesa",
+     "note": "Vyāsa's 'may I be' is close to the craving for being (bhava-taṇhā) named in DN 22; YS treats it as a kleśa grounded in avidyā about a real self, DN 22 as craving that makes for renewed being, with no self."
+    },
+    {
+     "from": "dx:tanha",
+     "note": "Vyāsa's 'may I be' (YB 2.9) is close to the craving for being (DN 22)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-bhasya:2.9": true,
+    "tea:mahasatipatthana-sutta:dn22:19": true
+   }
+  },
+  {
+   "a": "dx:klesa-avidya",
+   "b": "dx:root-moha",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-sutra:2.5",
+    "tea:visuddhimagga:14.p468"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-avidya",
+     "note": "Vism XIV defines moha as blindness of mind that hides the nature of the object; YS avidyā as mis-taking the impermanent, impure, painful and non-self. Similar function, different metaphysics."
+    },
+    {
+     "from": "dx:root-moha",
+     "note": "Both are the root not-seeing of their systems; the metaphysics differ (YS 2.5; Vism XIV)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-sutra:2.5": true,
+    "tea:visuddhimagga:14.p468": false
+   }
+  },
+  {
+   "a": "dx:klesa-avidya",
+   "b": "dx:vrtti-viparyaya",
+   "grade": "same-under-standpoint",
+   "cites": [
+    "tea:yoga-bhasya:1.8"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-avidya",
+     "note": "Vyāsa (on YS 1.8) calls erroneous cognition 'avidyā of five parts': the same error seen as a modification of mind (vṛtti) and as an affliction (kleśa)."
+    },
+    {
+     "from": "dx:vrtti-viparyaya",
+     "note": "Vyāsa calls erroneous cognition avidyā of five parts: the same error, as a modification of mind (vṛtti) and as an affliction (kleśa)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:yoga-bhasya:1.8": true
+   }
+  },
+  {
+   "a": "dx:klesa-dvesa",
+   "b": "dx:nivarana-byapada",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-sutra:2.8",
+    "tea:visuddhimagga:4.p146"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-dvesa",
+     "note": "Ill will as a hindrance is named for blocking the mind's continuous flow on its object (Vism IV); YS dveṣa is a kleśa following remembered pain."
+    },
+    {
+     "from": "dx:nivarana-byapada",
+     "note": "Ill will as a hindrance is named for blocking the mind's continuous flow on its object (Vism IV); YS dveṣa is a kleśa following remembered pain."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-sutra:2.8": true,
+    "tea:visuddhimagga:4.p146": false
+   }
+  },
+  {
+   "a": "dx:klesa-dvesa",
+   "b": "dx:root-dosa",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:2.8",
+    "tea:visuddhimagga:14.p470"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-dvesa",
+     "note": "Theravāda dosa is ferocity, like a struck snake (Vism XIV); Vyāsa's dveṣa includes resentment, the wish to strike and anger toward remembered pain. Similar, in different maps."
+    },
+    {
+     "from": "dx:root-dosa",
+     "note": "Vyāsa's dveṣa includes resentment, the wish to strike and anger toward remembered pain (YB 2.8)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-bhasya:2.8": true,
+    "tea:visuddhimagga:14.p470": false
+   }
+  },
+  {
+   "a": "dx:klesa-raga",
+   "b": "dx:nivarana-kamacchanda",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-sutra:2.7",
+    "tea:visuddhimagga:4.p146"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-raga",
+     "note": "Sensual desire as a hindrance is named for what it blocks: the mind's settling on one object (Vism IV). YS rāga covers any remembered pleasure and its means."
+    },
+    {
+     "from": "dx:nivarana-kamacchanda",
+     "note": "YS rāga follows remembered pleasure (YS 2.7); the hindrance is sensual desire that blocks concentration (Vism IV)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-sutra:2.7": true,
+    "tea:visuddhimagga:4.p146": false
+   }
+  },
+  {
+   "a": "dx:klesa-raga",
+   "b": "dx:root-lobha",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:2.7",
+    "tea:visuddhimagga:14.p468"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-raga",
+     "note": "Vyāsa himself glosses rāga with the word lobha (YB 2.7). The Theravāda lobha is a mental factor that grasps its object like bird-lime (Vism XIV), one of three roots, with no self behind it; YS rāga is a kleśa growing in the field of avidyā."
+    },
+    {
+     "from": "dx:root-lobha",
+     "note": "Vyāsa glosses rāga with the word lobha (YB 2.7); the Theravāda lobha is a momentary mental factor with no self behind it (Vism XIV)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-bhasya:2.7": true,
+    "tea:visuddhimagga:14.p468": false
+   }
+  },
+  {
+   "a": "dx:klesa-raga",
+   "b": "dx:tanha",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:2.7",
+    "tea:mahasatipatthana-sutta:dn22:19"
+   ],
+   "notes": [
+    {
+     "from": "dx:klesa-raga",
+     "note": "Craving (taṇhā) arises where there is what is dear and agreeable (DN 22); Vyāsa uses the word tṛṣṇā in defining rāga. Different frameworks (kleśa vs origin of suffering)."
+    },
+    {
+     "from": "dx:tanha",
+     "note": "Vyāsa defines rāga with the word tṛṣṇā (YB 2.7); craving in DN 22 is the origin of suffering, with no self."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-bhasya:2.7": true,
+    "tea:mahasatipatthana-sutta:dn22:19": true
+   }
+  },
+  {
+   "a": "dx:mutthassati",
+   "b": "dx:pamada",
+   "grade": "partial",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:26",
+    "tea:dhammapada:21"
+   ],
+   "notes": [
+    {
+     "from": "dx:pamada",
+     "note": "Muddled mindfulness (MN 118) and heedlessness (Dhp 21) are named in different texts; both are the opposite of the attending the suttas ask for."
+    },
+    {
+     "from": "dx:mutthassati",
+     "note": "Muddled mindfulness (MN 118) and heedlessness (Dhp 21) are named in different texts; both are the opposite of the attending the suttas ask for."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:anapanasati-sutta:mn118:26": true,
+    "tea:dhammapada:21": false
+   }
+  },
+  {
+   "a": "dx:nivarana-byapada",
+   "b": "dx:root-dosa",
+   "grade": "partial",
+   "cites": [
+    "tea:visuddhimagga:14.p470",
+    "tea:visuddhimagga:4.p146"
+   ],
+   "notes": [
+    {
+     "from": "dx:nivarana-byapada",
+     "note": "Vism XIV defines hate; the hindrance is ill will as it blocks the mind's flow."
+    },
+    {
+     "from": "dx:root-dosa",
+     "note": "Vism XIV defines hate; the hindrance is ill will as it blocks the mind's flow."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:visuddhimagga:14.p470": false,
+    "tea:visuddhimagga:4.p146": false
+   }
+  },
+  {
+   "a": "dx:nivarana-kamacchanda",
+   "b": "dx:root-lobha",
+   "grade": "partial",
+   "cites": [
+    "tea:visuddhimagga:14.p468",
+    "tea:visuddhimagga:4.p146"
+   ],
+   "notes": [
+    {
+     "from": "dx:nivarana-kamacchanda",
+     "note": "Vism XIV defines greed; sensual desire as a hindrance is named for what it blocks."
+    },
+    {
+     "from": "dx:root-lobha",
+     "note": "Vism XIV defines greed; sensual desire as a hindrance is named for what it blocks."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:visuddhimagga:14.p468": false,
+    "tea:visuddhimagga:4.p146": false
+   }
+  },
+  {
+   "a": "dx:nivarana-thina-middha",
+   "b": "dx:vrtti-nidra",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-sutra:1.10",
+    "tea:visuddhimagga:14.p469"
+   ],
+   "notes": [
+    {
+     "from": "dx:vrtti-nidra",
+     "note": "The Vism says torpor (middha) can show as nodding and sleep; YS sleep is itself a modification of mind. Related, not the same."
+    },
+    {
+     "from": "dx:nivarana-thina-middha",
+     "note": "The Vism says torpor (middha) can show as nodding and sleep; YS sleep is itself a modification of mind. Related, not the same."
+    }
+   ],
+   "lenses": [
+    "ascetic-buddhist",
+    "vedic-yogic"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-sutra:1.10": true,
+    "tea:visuddhimagga:14.p469": false
+   }
+  },
+  {
+   "a": "dx:sheath-anandamaya",
+   "b": "dx:state-susupta",
+   "grade": "partial",
+   "cites": [
+    "tea:mandukya-upanisad:5",
+    "tea:taittiriya-upanisad:2.5.1"
+   ],
+   "notes": [
+    {
+     "from": "dx:sheath-anandamaya",
+     "note": "The Māṇḍūkya calls the deep-sleep self (prājña) 'made of bliss, enjoyer of bliss' (MāU 5); the Taittirīya's self made of bliss is the innermost of the five, with brahman as its support."
+    },
+    {
+     "from": "dx:state-susupta",
+     "note": "Prājña is 'made of bliss' (MāU 5), as the innermost self of the Taittirīya is (TU 2.5.1)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:mandukya-upanisad:5": true,
+    "tea:taittiriya-upanisad:2.5.1": true
+   }
+  },
+  {
+   "a": "dx:sheath-pranamaya",
+   "b": "dx:vital-apana",
+   "grade": "partial",
+   "cites": [
+    "tea:taittiriya-upanisad:2.2.1"
+   ],
+   "notes": [
+    {
+     "from": "dx:sheath-pranamaya",
+     "note": "Apāna is the left side of the self made of breath (TU 2.2.1)."
+    },
+    {
+     "from": "dx:vital-apana",
+     "note": "Apāna is the left side of the self made of breath (TU 2.2.1)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:taittiriya-upanisad:2.2.1": true
+   }
+  },
+  {
+   "a": "dx:sheath-pranamaya",
+   "b": "dx:vital-prana",
+   "grade": "partial",
+   "cites": [
+    "tea:taittiriya-upanisad:2.2.1",
+    "tea:yoga-bhasya:3.39"
+   ],
+   "notes": [
+    {
+     "from": "dx:sheath-pranamaya",
+     "note": "In TU 2.2.1 prāṇa is the head of the self made of breath; Vyāsa locates prāṇa in mouth and nose up to the heart (YB 3.39)."
+    },
+    {
+     "from": "dx:vital-prana",
+     "note": "Prāṇa is the head of the self made of breath (TU 2.2.1)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:taittiriya-upanisad:2.2.1": true,
+    "tea:yoga-bhasya:3.39": true
+   }
+  },
+  {
+   "a": "dx:sheath-pranamaya",
+   "b": "dx:vital-vyana",
+   "grade": "partial",
+   "cites": [
+    "tea:taittiriya-upanisad:2.2.1"
+   ],
+   "notes": [
+    {
+     "from": "dx:sheath-pranamaya",
+     "note": "Vyāna is the right side of the self made of breath (TU 2.2.1)."
+    },
+    {
+     "from": "dx:vital-vyana",
+     "note": "Vyāna is the right side of the self made of breath (TU 2.2.1)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:taittiriya-upanisad:2.2.1": true
+   }
+  },
+  {
+   "a": "dx:siddhi-upasarga",
+   "b": "dx:vism-vipassanupakkilesa",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-sutra:3.37",
+    "tea:visuddhimagga:20.p637"
+   ],
+   "notes": [
+    {
+     "from": "dx:siddhi-upasarga",
+     "note": "The Vism's imperfections of insight (light, rapture, bliss and the rest) become imperfections when taken for the path (Vism XX); YS 3.37 calls powers obstacles in samādhi. Similar warning, different paths."
+    },
+    {
+     "from": "dx:vism-vipassanupakkilesa",
+     "note": "YS 3.37 calls powers obstacles in samādhi; the Vism calls lights and bliss imperfections when taken for the path."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "cross_lens": true,
+   "cites_citable": {
+    "tea:yoga-sutra:3.37": true,
+    "tea:visuddhimagga:20.p637": false
+   }
+  },
+  {
+   "a": "dx:state-susupta",
+   "b": "dx:vrtti-nidra",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-sutra:1.10",
+    "tea:mandukya-upanisad:5",
+    "tea:mandukya-karika:1.15"
+   ],
+   "notes": [
+    {
+     "from": "dx:vrtti-nidra",
+     "note": "YS counts sleep as a modification whose content is absence; the Māṇḍūkya calls deep sleep the third quarter, a mass of knowing, made of bliss (MāU 5), and Gauḍapāda calls it not knowing the real (GK 1.15). Same state, different accounts."
+    },
+    {
+     "from": "dx:state-susupta",
+     "note": "YS counts sleep as a modification of mind to be stilled (YS 1.10); the Māṇḍūkya makes deep sleep a quarter of the self (MāU 5)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:yoga-sutra:1.10": true,
+    "tea:mandukya-upanisad:5": true,
+    "tea:mandukya-karika:1.15": false
+   }
+  },
+  {
+   "a": "dx:state-svapna",
+   "b": "dx:vrtti-smrti",
+   "grade": "partial",
+   "cites": [
+    "tea:yoga-bhasya:1.11",
+    "tea:mandukya-upanisad:4"
+   ],
+   "notes": [
+    {
+     "from": "dx:vrtti-smrti",
+     "note": "Vyāsa says memory in dream has an imagined object; the Māṇḍūkya's dream state is inward-knowing, enjoying the subtle (MāU 4)."
+    },
+    {
+     "from": "dx:state-svapna",
+     "note": "Vyāsa says memory in dream has an imagined object; the Māṇḍūkya's dream state is inward-knowing, enjoying the subtle (MāU 4)."
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "vedic-yogic"
+   ],
+   "cross_lens": false,
+   "cites_citable": {
+    "tea:yoga-bhasya:1.11": true,
+    "tea:mandukya-upanisad:4": true
+   }
+  }
+ ],
+ "asymmetric": [],
+ "cross_lens_components": [
+  [
+   "dx:antaraya-alasya",
+   "dx:antaraya-styana",
+   "dx:gk-laya",
+   "dx:nivarana-thina-middha",
+   "dx:vrtti-nidra"
+  ],
+  [
+   "dx:antaraya-avirati",
+   "dx:jain-avirati"
+  ],
+  [
+   "dx:antaraya-pramada",
+   "dx:jain-pramada",
+   "dx:pamada"
+  ],
+  [
+   "dx:antaraya-samsaya",
+   "dx:nivarana-vicikiccha"
+  ],
+  [
+   "dx:carita-moha",
+   "dx:fetter-avijja",
+   "dx:guna-tamas",
+   "dx:jain-mithyadarsana",
+   "dx:klesa-avidya",
+   "dx:root-moha"
+  ],
+  [
+   "dx:carita-raga",
+   "dx:fetter-mana",
+   "dx:fetter-sakkaya-ditthi",
+   "dx:gita-asuri-sampad",
+   "dx:guna-rajas",
+   "dx:kasaya-lobha",
+   "dx:kasaya-mana",
+   "dx:kasaya-maya",
+   "dx:klesa-abhinivesa",
+   "dx:klesa-asmita",
+   "dx:klesa-raga",
+   "dx:nivarana-kamacchanda",
+   "dx:root-lobha",
+   "dx:tanha"
+  ],
+  [
+   "dx:citta-vikkhitta",
+   "dx:cittabhumi"
+  ],
+  [
+   "dx:companion-daurmanasya",
+   "dx:jain-arta-dhyana"
+  ],
+  [
+   "dx:fetter-patigha",
+   "dx:gita-kama-krodha",
+   "dx:kasaya-krodha",
+   "dx:klesa-dvesa",
+   "dx:nivarana-byapada",
+   "dx:root-dosa"
+  ],
+  [
+   "dx:gita-restless-mind",
+   "dx:gk-viksepa",
+   "dx:nivarana-uddhacca-kukkucca"
+  ],
+  [
+   "dx:gk-rasasvada",
+   "dx:siddhi-upasarga",
+   "dx:vism-vipassanupakkilesa"
+  ],
+  [
+   "dx:jain-raudra-dhyana",
+   "dx:vitarka-himsadi"
+  ]
+ ],
+ "dx_user_facing_now": [
+  "dx:antaraya-alabdha-bhumikatva",
+  "dx:antaraya-alasya",
+  "dx:antaraya-anavasthitatva",
+  "dx:antaraya-avirati",
+  "dx:antaraya-bhranti-darsana",
+  "dx:antaraya-pramada",
+  "dx:antaraya-samsaya",
+  "dx:antaraya-styana",
+  "dx:antaraya-vyadhi",
+  "dx:citta-sankhitta",
+  "dx:citta-vikkhitta",
+  "dx:cittabhumi",
+  "dx:companion-angamejayatva",
+  "dx:companion-daurmanasya",
+  "dx:companion-duhkha",
+  "dx:companion-svasa-prasvasa",
+  "dx:fetter-aruparaga",
+  "dx:fetter-avijja",
+  "dx:fetter-kamaraga",
+  "dx:fetter-mana",
+  "dx:fetter-patigha",
+  "dx:fetter-ruparaga",
+  "dx:fetter-sakkaya-ditthi",
+  "dx:fetter-silabbata-paramasa",
+  "dx:fetter-uddhacca",
+  "dx:fetter-vicikiccha",
+  "dx:gita-anger-chain",
+  "dx:gita-asuri-sampad",
+  "dx:gita-kama-krodha",
+  "dx:gita-restless-mind",
+  "dx:gita-sthitaprajna",
+  "dx:gita-visada",
+  "dx:guna-rajas",
+  "dx:guna-sattva",
+  "dx:guna-tamas",
+  "dx:gunatita",
+  "dx:jain-avirati",
+  "dx:jain-mithyadarsana",
+  "dx:jain-nokasaya",
+  "dx:jain-pramada",
+  "dx:kasaya-krodha",
+  "dx:kasaya-lobha",
+  "dx:kasaya-mana",
+  "dx:kasaya-maya",
+  "dx:katha-outward-senses",
+  "dx:katha-preyas",
+  "dx:katha-unrestrained-senses",
+  "dx:katha-yoga-state",
+  "dx:klesa-abhinivesa",
+  "dx:klesa-asmita",
+  "dx:klesa-avidya",
+  "dx:klesa-dvesa",
+  "dx:klesa-raga",
+  "dx:mutthassati",
+  "dx:nivarana-byapada",
+  "dx:nivarana-kamacchanda",
+  "dx:nivarana-thina-middha",
+  "dx:nivarana-uddhacca-kukkucca",
+  "dx:nivarana-vicikiccha",
+  "dx:root-dosa",
+  "dx:root-lobha",
+  "dx:root-moha",
+  "dx:sheath-anandamaya",
+  "dx:sheath-annamaya",
+  "dx:sheath-manomaya",
+  "dx:sheath-pranamaya",
+  "dx:sheath-vijnanamaya",
+  "dx:siddhi-upasarga",
+  "dx:state-jagrat",
+  "dx:state-susupta",
+  "dx:state-svapna",
+  "dx:state-turiya",
+  "dx:tanha",
+  "dx:vital-apana",
+  "dx:vital-prana",
+  "dx:vital-samana",
+  "dx:vital-udana",
+  "dx:vital-vyana",
+  "dx:vitarka-himsadi",
+  "dx:vrtti-nidra",
+  "dx:vrtti-pramana",
+  "dx:vrtti-smrti",
+  "dx:vrtti-vikalpa",
+  "dx:vrtti-viparyaya"
+ ]
+}

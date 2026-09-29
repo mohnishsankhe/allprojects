@@ -12,8 +12,8 @@ Budget: 12 working hours. Phase budgets: P0 0:00–0:30 · P1 0:30–3:30 · P2 
 | phase | status | notes |
 |---|---|---|
 | P0 Audit | done (2026-09-29 18:39 IST) | AUDIT.md: ascetic lens has no user-facing entries yet; person-layer kleśa/hindrance/fetter/kaṣāya/vṛtti ids all skeleton; 20 spot-checks: 17 faithful, 3 partly; restricted-flag gaps listed |
-| P1 Ontology sufficiency | running (since 18:36 IST, early start in parallel with P0) | |
-| P2 Engine design | queued | |
+| P1 Ontology sufficiency | running (since 18:36 IST, early start in parallel with P0) | text-verified and merged: 3 Pāli suttas; TS karma/passions; TaittU sheaths; KU chariot; Heart Sūtra ×2; YS + Vyāsa (404, all checked). Judges running: Māṇḍūkya + Kārikā, Visuddhimagga, Dhammapada. Gītā ch16–18 merge running. VBT extraction running. HYP queued. Layers: diagnosis 84/102 usable; practices 25 usable, 13 gentle. Tables running. |
+| P2 Engine design | started early, in parallel (22:45 IST) | ENGINE_SPEC.md drafted; mapping rules done (onto-deep); intake, tone, content design, synthesis rules to come |
 | P3 Build | queued | |
 | P4 Content engine | queued | |
 | P5 Evaluation | queued | |

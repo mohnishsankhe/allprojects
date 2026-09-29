@@ -20,7 +20,9 @@ def _eligible(p: dict, route: str) -> bool:
     if p.get("safety_tier") != "gentle" or not p.get("steps") or not p.get("warnings"):
         return False
     if route == "continue_no_diet":
-        blob = " ".join([p.get("name", ""), p.get("summary", "")] + list(p.get("steps") or []))
+        # the warnings count too: a caution about eating is still guidance on diet (SAFETY.md, disordered eating)
+        blob = " ".join([p.get("name", ""), p.get("summary", "")] + list(p.get("steps") or [])
+                        + [w.get("text", "") for w in p.get("warnings") or []])
         if EXCLUDE_IF_NO_DIET.search(blob):
             return False
     return True
