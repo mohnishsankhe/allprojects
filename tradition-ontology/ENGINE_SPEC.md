@@ -78,7 +78,8 @@ consent + age gate ─► intake (build own-words units) ─► SAFETY SCREEN �
 ## 5. Safety screen (runs first, always)
 - **Files:** `rules/safety_rules.json` (regex screen, precedence) and `rules/safety_messages.json` (wording and resources).
   Code: `insight/safety.py`.
-- **Rules first.** An under-18 signal declines before any model call. The model screen (model engine only) can **add** flags,
+- **Rules first, one field at a time** (`safety.rule_screen_fields`): each answer, the free text, the dialogue and the
+  age line are screened separately, and the minor category reads only the person's own words. An under-18 signal declines before any model call. The model screen (model engine only) can **add** flags,
   never remove them. A refusal from the screen counts as a crisis flag.
 - **Routes, in precedence:**
   - `decline_minor`;

@@ -40,7 +40,12 @@ RELEASE_REPORT.md has the gate status.
   - English only in v1 (Hindi and Hinglish crisis phrases are partly covered);
   - write a proper multilingual screen before any non-English launch;
   - check the crisis numbers before each release (RUNBOOK).
-- **Red-team low findings:** see eval/redteam/RED_TEAM.md.
+- **Red-team residuals:** see eval/redteam/RED_TEAM.md (first run, re-run, Re-run 2 and the replay).
+  - The model screen reads all speakers' lines together; its prompt does not yet say that another speaker's age is not
+    the person's. Test this with a key (the rules screen already reads the minor category on the person's own words).
+  - No Devanagari crisis pattern exists; only injection patterns cover Devanagari.
+  - Kept on the cautious side: a Ramzan "dry fasting for weeks" goes to the no-diet route; the bare word "doctor" adds
+    the medical note.
 - **Deployment:**
   - TLS reverse proxy;
   - a secret store for ONTO_DATA_KEY and ONTO_ADMIN_TOKEN;

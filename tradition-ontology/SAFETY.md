@@ -12,11 +12,16 @@ patterns and wording are in `rules/safety_rules.json` and `rules/safety_messages
   - A refusal counts as a crisis flag.
   - If the model screen fails, the reading stops with `stop_unavailable`. It fails closed; it never falls back to a
     reading.
+- **Each field on its own.** The rules read every answer, the free text, the pasted dialogue and the age line
+  separately, so a phrase is never built across two answers. Crisis, abuse, psychosis, emergency and eating signals are
+  read in every line of every speaker. The under-18 check reads only the person's own words (another speaker's "I'm 15"
+  is not the person's age), unless the dialogue speaker is unresolved; then the whole dialogue counts.
 - Daily check-ins go through the same screen.
 - **No silent rule-only readings.** With `ONTO_ENGINE=auto` and no API key, person readings and check-ins are
   refused (503) unless an operator sets `ONTO_ALLOW_RULES_ONLY=1` for development or evaluation. A request can never
   step down from the model engine to rules, and the public page offers no engine choice. Every rule-only reading says
-  it was made offline and that the model check did not run.
+  it was made offline and that the model check did not run. While readings are refused, the rules screen still runs:
+  a crisis gets the crisis message and helplines, a minor is declined, and anyone else is told where help is.
 
 ## 2. Routes (highest precedence first)
 | Route | When | What the person sees |
