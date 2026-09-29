@@ -1,8 +1,8 @@
 {
- "engine": "rules",
- "created": 1790711815.723592,
- "notices": [],
- "citations": {},
+ "stopped": {
+  "title": "This reading is for adults",
+  "body": "Thank you for your interest. This service is only for people aged 18 and over, so we can't offer a reading. If something is weighing on you, a trusted adult, a school counsellor or a helpline can help: findahelpline.com lists free services for young people in many countries (in India, Tele-MANAS 14416; in the US, 988; in the UK, Childline 0800 1111)."
+ },
  "safety": {
   "route": "decline_minor",
   "categories": [
@@ -10,18 +10,5 @@
   ],
   "model_checked": false,
   "injection": false
- },
- "stopped": {
-  "title": "This reading is for adults",
-  "body": "Thank you for your interest. This service is only for people aged 18 and over, so we can't offer a reading. If something is weighing on you, a trusted adult, a school counsellor or a helpline can help: findahelpline.com lists free services for young people in many countries (in India, Tele-MANAS 14416; in the US, 988; in the UK, Childline 0800 1111)."
- },
- "cost": {
-  "calls": 0,
-  "input_tokens": 0,
-  "output_tokens": 0,
-  "cache_read_tokens": 0,
-  "cache_write_tokens": 0,
-  "cost_usd": 0.0,
-  "by_step": {}
  }
 }

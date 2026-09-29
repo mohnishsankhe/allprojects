@@ -277,8 +277,11 @@ def test_admin_draft_review_calendar_purge(client, admin):
     assert len(client.get("/api/admin/posts", params={"status": "approved"}, headers=h).json()) == 1
     other = posts[1]
     edit = client.post(f"/api/admin/posts/{other['id']}/review", headers=h,
-                       json={"action": "edit", "body": dict(other["body"], parts=["A calmer line. " + other["body"]["parts"][0]])})
-    assert edit.status_code == 200
+                       json={"action": "edit", "body": dict(other["body"], parts=[" " + p.strip() + " " for p in other["body"]["parts"]])})
+    assert edit.status_code == 200, edit.json()   # an edit must pass the same checks as a draft (limits, source, claims)
+    too_long = client.post(f"/api/admin/posts/{other['id']}/review", headers=h,
+                           json={"action": "edit", "body": dict(other["body"], parts=["x " * 200 + other["body"]["parts"][0]])})
+    assert too_long.status_code == 400 and too_long.json()["error"] in ("edit_fails_checks", "claims_in_edit")
     claim = client.post(f"/api/admin/posts/{other['id']}/review", headers=h,
                         json={"action": "edit", "body": dict(other["body"], parts=["This will cure your anxiety."])})
     assert claim.status_code == 400 and claim.json()["error"] == "claims_in_edit"

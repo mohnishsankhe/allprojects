@@ -233,7 +233,7 @@ def post_text(body: dict) -> str:
     return "\n".join(body.get("parts") or []) + ("\n" + body["caption"] if body.get("caption") else "")
 
 
-def rules_check(store, body: dict) -> dict:
+def rules_check(store, body: dict, exclude_id: Optional[str] = None) -> dict:
     fmt, lim, text = body["format"], _limits(body["format"]), post_text(body)
     problems = []
     lo, hi = lim.get("parts", [1, 99])
@@ -265,7 +265,7 @@ def rules_check(store, body: dict) -> dict:
     sh = shingles(text)
     worst = 0.0
     for p in store.list_posts():
-        if p["status"] == "rejected":
+        if p["status"] == "rejected" or p["id"] == exclude_id:
             continue
         worst = max(worst, jaccard(sh, shingles(post_text(p["body"]))))
     if worst >= 0.5:

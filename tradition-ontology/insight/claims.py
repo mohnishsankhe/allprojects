@@ -22,12 +22,14 @@ def scan(text: str) -> list[dict]:
     cats, allow = _rules()
     hits = []
     for sent in re.split(r"(?<=[.!?])\s+|\n+", text or ""):
-        low = sent.lower()
-        if any(a in low for a in allow):
-            continue
+        # a disclaimer exempts only its own words, never the rest of the sentence
+        # ("Not medical advice: this verse cures anxiety" is still caught)
+        probe = sent
+        for a in allow:
+            probe = re.sub(re.escape(a), " ", probe, flags=re.I)
         for c, pats in cats.items():
             for p in pats:
-                m = p.search(sent)
+                m = p.search(probe)
                 if m:
                     hits.append({"category": c, "match": m.group(0), "sentence": sent.strip()[:300]})
     return hits

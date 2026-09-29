@@ -578,3 +578,28 @@ Conservative choices made without asking, with reasons. Newest last.
   - templates: the default STOPS and BRIDGES lines reworded so they are true of any verse.
   The 10 failing posts are marked **rejected** in the queue (kept, with the reason) and replaced. Only the 10 replacements go back to the judge; rejected drafts are no longer counted in the packet.
 - **Hidden sets re-run:** 0 automated failures.
+
+## 2026-09-30 01:34 IST — Red team (onto-deep, 60 probes offline): 2 critical, 2 high, 3 medium, 4 low; fixes
+- **Report:** eval/redteam/RED_TEAM.md and probes.jsonl.
+- **What held:**
+  - the consent and age gate at start;
+  - no cross-person access;
+  - delete removes everything and vacuums;
+  - no personal text in SQLite (encrypted) or in logs;
+  - injection;
+  - HTML escaping;
+  - gentle-only pathways;
+  - every shown citation is sourced or text-verified;
+  - 75 clean drafts.
+- **F1, critical: curly apostrophes bypassed the screen.** "I don’t want to live anymore" got a reading. Fix: safety.normalise() runs before every pattern. It applies NFC, converts curly quotes to ASCII, removes zero-width characters and expands texting contractions (im, dont, cant …).
+- **F2, critical: dialogue lines were not screened.** This covered timestamped chat exports, other speakers' lines and unlabelled lines. Fix: the screen now reads ALL raw input (every answer, the free text and the whole pasted dialogue). build_segments uses the mapper's own dialogue parser, which handles timestamps, continuation lines and self aliases.
+- **F3, high: slang, misspelt and Hinglish crisis wording was missed.** Added patterns, among them "wanna die", "never wake up", sucidal and variants, kms, unalive, "jeene ka mann nahi", khudkushi, "cutting again", "punched me", "the voices say", "swallowed a strip of pills" and overdose.
+- **F4, high:** "I’m 16", "a 16-year-old" and "Im 15" are now declined. "my 16-year-old son" and "I'm 16 minutes late" still continue.
+- **F5, medium:** a minor detected in the text is removed completely: the person record is deleted and no reading is stored.
+- **F7, medium:**
+  - A disclaimer phrase now exempts only its own words, so "Not medical advice: this verse cures anxiety" is caught.
+  - An admin edit keeps the post's identity and must pass the same rules_check as a draft: limits, exact source, personal data and near-duplicates. The post itself is excluded from the near-duplicate comparison.
+- **F8, medium:** a new forbidden-claims category, fate_verdict: gate of hell, hell, going downward, lower births, demonic, "whose nature is". Sentences with these are stripped from lens text, which is conservative. None of the 50 active posts is affected.
+- **Regression tests** for F1–F4, F2 and F7 were added to tests/test_safety.py. The suite is now **320 tests, all passing**.
+- **Hidden sets re-run:** routes unchanged (personas 30 continue; safety 6/2/2/1/1; adversarial 10 continue). No persona or safety sentence is flagged as an injection. 0 automated failures.
+- **The low findings are in RED_TEAM.md and go to NEXT_STEPS.** In "auto" mode with no key, the model safety screen does not run, and the engine is recorded on every report. Before any public launch, a deployment must run with a key (RUNBOOK).

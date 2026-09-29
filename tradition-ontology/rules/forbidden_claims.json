@@ -1,6 +1,6 @@
 {
   "_note": "Automated scan for forbidden claims in ANY output (reports, pathways, posts). A hit blocks the text: the rules engine drops the sentence; the model engine rejects the output and falls back. Quoted teaching originals are exempt only inside the 'original' field. Patterns are case-insensitive.",
-  "version": "1.2",
+  "version": "1.3",
   "categories": {
     "health_cure": [
       "\\b(cure|cures|cured|curing|heal|heals|healed|healing) (your |the |my |their )?(anxiety|depression|insomnia|illness|disease|disorder|pain|trauma|condition|cancer|diabetes|blood pressure|migraines?|addiction|burnout|ptsd|adhd|ocd)\\b",
@@ -34,6 +34,15 @@
       "\\b(kundali|horoscope|zodiac|nakshatra|dasha|mahadasha|birth chart|saturn return|mercury retrograde|planetary (position|influence|transit))\\b",
       "\\byou('ll| will) (feel|be|become|sleep|find|notice|see|get|experience|start to|begin to) (calm|calmer|better|happier|lighter|free|freer|relaxed|rested|peace|peaceful|less|more at|at ease|clarity|healed|different|improve)",
       "\\b(soon|quickly|in no time) you('ll| will)\\b"
+    ],
+    "fate_verdict": [
+      "\\b(?:gates?|doors?) (?:of|to) hell\\b",
+      "\\bhells?\\b",
+      "\\b(?:go|goes|going|fall|falls|falling|sink|sinks|sinking) (?:downward|down to hell|to hell|into hell|lower)\\b",
+      "\\blower (?:births?|wombs?|worlds?|realms?|states? of existence)\\b",
+      "\\bdemonic\\b",
+      "\\b(?:whose|their|your|one's|his|her) (?:very )?nature is\\b",
+      "\\byou are (?:a |an )?(?:\\w+ )?(?:type|temperament|person by nature)\\b"
     ]
   },
   "allow_phrases": [

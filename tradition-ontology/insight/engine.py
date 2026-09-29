@@ -52,15 +52,14 @@ def build_segments(inputs: dict) -> list[dict]:
     if (inputs.get("free_text") or "").strip():
         segs.append({"id": "free", "source": "free_text", "text": inputs["free_text"].strip()})
     dlg = inputs.get("dialogue") or ""
-    me = (inputs.get("dialogue_speaker") or "").strip().lower()
     if dlg.strip():
+        # same parser as the mapper: timestamps and [date, time] prefixes, continuation lines, self-speaker aliases
+        from . import mapper
+        turns = mapper._parse_dialogue(dlg)
+        me = mapper._resolve_self(turns, inputs.get("dialogue_speaker") or "")
         n = 0
-        for line in dlg.splitlines():
-            m = re.match(r"\s*([^:]{1,40}):\s*(.+)", line)
-            if not m:
-                continue
-            spk, txt = m.group(1).strip().lower(), m.group(2).strip()
-            if me and spk == me and txt:
+        for lab, txt in turns:
+            if me and lab.lower() == me and txt:
                 n += 1
                 segs.append({"id": f"d:{n}", "source": "dialogue", "text": txt})
     return segs
@@ -90,7 +89,10 @@ def run_reading(inputs: dict, engine: str = "rules", client: Optional[ModelClien
 
     # 1. safety screen — always first
     use_model = engine == "model"
-    scr = safety.screen(text + (f"\nAge: {inputs.get('age')}" if inputs.get("age") else ""), age=_age(inputs),
+    raw = "\n".join([*(str(v) for v in (inputs.get("answers") or {}).values() if isinstance(v, (str, int))),
+                      inputs.get("free_text") or "", inputs.get("dialogue") or ""])
+    # the screen reads everything the person pasted (all speakers, unparsed lines): a crisis signal anywhere stops it
+    scr = safety.screen(raw + (f"\nAge: {inputs.get('age')}" if inputs.get("age") else ""), age=_age(inputs),
                         client=client if use_model else None, ledger=ledger, require_model=use_model)
     report["safety"] = {"route": scr.route, "categories": sorted(scr.flags), "model_checked": scr.model_checked,
                         "injection": scr.injection}

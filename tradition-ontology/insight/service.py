@@ -89,6 +89,12 @@ class Service:
                     "markdown": report_mod.to_markdown({"stopped": safety.messages()["decline_minor"]})}
         e, client = self._engine(engine)
         rep = run_reading(inputs, engine=e, client=client, premium=premium)
+        if (rep.get("safety") or {}).get("route") == "decline_minor":
+            # a minor found in the text: nothing is kept, and the person record itself is removed
+            self.store.delete_person(pid)
+            log.info("minor detected in text: person removed id=%s", pid[:8])
+            return {"reading_id": None, "report": {"stopped": rep.get("stopped"), "safety": rep.get("safety")},
+                    "markdown": report_mod.to_markdown(rep)}
         status = "stopped" if rep.get("stopped") else ("insufficient" if rep.get("insufficient") else "ok")
         route = (rep.get("safety") or {}).get("route", "")
         # minimisation: after a stop, keep only the route, not the words that triggered it
@@ -156,10 +162,19 @@ class Service:
         if action == "edit" and not new_body:
             raise ServiceError("edit_needs_body", "An edit needs the new text.")
         if new_body:
-            from . import claims
+            from . import claims, content
             hits = claims.scan_fields(new_body)
             if hits:
                 raise ServiceError("claims_in_edit", f"The edited text contains a forbidden claim: {hits[0]['match']!r}.")
+            cur = next((p for p in self.store.list_posts() if p["id"] == post_id), None)
+            if cur is None:
+                raise ServiceError("not_found", "Post not found.", 404)
+            # an edit keeps the post's identity (bucket, format, teaching, source) and passes the same checks as a draft
+            body = {**cur["body"], **{k: v for k, v in new_body.items() if k in ("parts", "caption")}}
+            chk = content.rules_check(self.store, body, exclude_id=post_id)
+            if not chk["passed"]:
+                raise ServiceError("edit_fails_checks", "The edited post fails the checks: " + "; ".join(chk["problems"]))
+            new_body = body
         ok = self.store.review_post(post_id, action, note, new_body)
         if not ok:
             raise ServiceError("not_found", "Post not found.", 404)
