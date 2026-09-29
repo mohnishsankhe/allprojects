@@ -1,0 +1,1908 @@
+{
+ "table": "path_map_correspondence",
+ "about": "Stages of the main path maps the product can name, each placed in an interpretive band (B0–B8, config/data_model.md). A shared band means only 'comparable place in a course of practice', never 'the same attainment'. Each map carries its own tradition's objection to being aligned. A stage row is user-facing only if every citation is sourced or text-verified and not restricted.",
+ "bands": {
+  "B0": "entry, turning, qualification, faith, refuge, preliminaries",
+  "B1": "ethical foundation and purification",
+  "B2": "preparatory discipline (posture, breath, study, devotional or ritual practice)",
+  "B3": "withdrawal and one-pointed concentration",
+  "B4": "absorption with support (jhāna, samprajñāta samādhi, stable calm)",
+  "B5": "first direct seeing / insight / recognition",
+  "B6": "cultivation and deepening after seeing",
+  "B7": "final liberation",
+  "B8": "activity after liberation"
+ },
+ "band_notes": {
+  "B0": "Only the guṇasthāna map places a stage here (the mixed view, 3rd stage), and the Jain order puts it before right view. The other maps begin at B1 or later. The setting of MN 118:17 (seclusion, posture, mindfulness established) precedes the steps but is not a numbered stage.",
+  "B8": "No stage of these maps is placed at B8. The marks of the devotee dear to the Lord (BhG 12.13–20) and of the one gone beyond the guṇas (BhG 14.22–26) describe the realised, but they are not stages in these maps."
+ },
+ "maps": [
+  {
+   "id": "map:ys-eight-limbs",
+   "path_id": "pth:yoga-sutra-eight-limbs",
+   "lineage": "lin:patanjala-yoga",
+   "name": "Patañjali's eight limbs (YS 2.29–3.8), continued in the YS's own terms to kaivalya",
+   "objection_to_alignment": {
+    "text": "The Yoga calls these limbs (aṅga), not rungs. Concentration, meditation and samādhi on one object together are saṃyama (YS 3.4). The three are 'inner' in relation to the first five (YS 3.7), and even they are outer to the seedless samādhi (YS 3.8). Through the practice of the limbs, as impurity is destroyed, the light of knowledge rises up to discriminative discernment (YS 2.28): the limbs purify, and they do not match another tradition's attainments stage for stage. Aligning samādhi (B4) with jhāna, or kaivalya (B7) with nibbāna or mokṣa, is the band scheme's claim, not the Yoga's. Kaivalya is the seer's aloneness (YS 4.34), a state the Theravāda and Jain rows of one_truth.json do not accept.",
+    "cites": [
+     "tea:yoga-sutra:3.4",
+     "tea:yoga-sutra:3.7",
+     "tea:yoga-sutra:3.8",
+     "tea:yoga-sutra:2.28",
+     "tea:yoga-sutra:4.34"
+    ],
+    "user_facing": true,
+    "blocked_by": []
+   },
+   "principle": {
+    "id": "P4-stage",
+    "name": "Stage of the student",
+    "reason": "The bands are stages of the student (adhikāra). They are used only to place each limb beside other maps' stages, never to equate what is attained."
+   },
+   "stages": [
+    "pm:ys-eight-limbs:1",
+    "pm:ys-eight-limbs:2",
+    "pm:ys-eight-limbs:3",
+    "pm:ys-eight-limbs:4",
+    "pm:ys-eight-limbs:5",
+    "pm:ys-eight-limbs:6",
+    "pm:ys-eight-limbs:7",
+    "pm:ys-eight-limbs:8",
+    "pm:ys-eight-limbs:9",
+    "pm:ys-eight-limbs:10",
+    "pm:ys-eight-limbs:11",
+    "pm:ys-eight-limbs:12"
+   ],
+   "user_facing_stages": 12,
+   "user_facing": true
+  },
+  {
+   "id": "map:mn118-sixteen-steps",
+   "path_id": "pth:anapanasati-sixteen-steps",
+   "lineage": "lin:early-buddhism",
+   "name": "The sixteen steps of mindfulness of breathing (MN 118:18–21)",
+   "objection_to_alignment": {
+    "text": "In MN 118 the sixteen steps are four tetrads, and each tetrad fulfils one establishment of mindfulness (MN 118:23–28). The establishments fulfil the seven awakening factors, and these fulfil knowledge and liberation (MN 118:29, 118:43). The steps are contemplations trained in together, not attainments passed one by one. Step 12, 'liberating the mind', belongs to the contemplation of mind (MN 118:20, 118:26), not to the noble persons whom the sutta names by the fetters they have ended (MN 118:9–12). The B5–B7 bands that data/paths.json gives to steps 12–16 are interpretive placements, not yet reconciled with this reading. MN 10 gives the fruit as final knowledge or non-return within seven years, or even seven days (MN 10:46): the text fixes no timetable of stages.",
+    "cites": [
+     "tea:anapanasati-sutta:mn118:23",
+     "tea:anapanasati-sutta:mn118:28",
+     "tea:anapanasati-sutta:mn118:29",
+     "tea:anapanasati-sutta:mn118:43",
+     "tea:anapanasati-sutta:mn118:20",
+     "tea:anapanasati-sutta:mn118:26",
+     "tea:anapanasati-sutta:mn118:9",
+     "tea:anapanasati-sutta:mn118:12",
+     "tea:satipatthana-sutta:mn10:46"
+    ],
+    "user_facing": true,
+    "blocked_by": []
+   },
+   "principle": {
+    "id": "P4-stage",
+    "name": "Stage of the student",
+    "reason": "The steps are placed by the kind of practice they name (body and calming at B3, rapture and pleasure at B4, and so on). They are not placed as ranks of attainment."
+   },
+   "stages": [
+    "pm:mn118-sixteen-steps:1",
+    "pm:mn118-sixteen-steps:2",
+    "pm:mn118-sixteen-steps:3",
+    "pm:mn118-sixteen-steps:4",
+    "pm:mn118-sixteen-steps:5",
+    "pm:mn118-sixteen-steps:6",
+    "pm:mn118-sixteen-steps:7",
+    "pm:mn118-sixteen-steps:8",
+    "pm:mn118-sixteen-steps:9",
+    "pm:mn118-sixteen-steps:10",
+    "pm:mn118-sixteen-steps:11",
+    "pm:mn118-sixteen-steps:12",
+    "pm:mn118-sixteen-steps:13",
+    "pm:mn118-sixteen-steps:14",
+    "pm:mn118-sixteen-steps:15",
+    "pm:mn118-sixteen-steps:16"
+   ],
+   "user_facing_stages": 16,
+   "user_facing": true
+  },
+  {
+   "id": "map:mn118-bojjhanga",
+   "path_id": "pth:bojjhanga-sequence",
+   "lineage": "lin:early-buddhism",
+   "name": "The seven awakening factors arising in sequence (MN 118:30–36), fulfilling knowledge and liberation (MN 118:43)",
+   "objection_to_alignment": {
+    "text": "The factors are developed together, each supported by seclusion, dispassion and cessation and ripening in relinquishment (MN 118:42). Their order is the order in which they arise in one sitting's practice, not a ladder of years. Placing them at B3–B4 records only that they belong to cultivation before the fruit named at MN 118:43.",
+    "cites": [
+     "tea:anapanasati-sutta:mn118:42",
+     "tea:anapanasati-sutta:mn118:43"
+    ],
+    "user_facing": true,
+    "blocked_by": []
+   },
+   "principle": {
+    "id": "P4-stage",
+    "name": "Stage of the student",
+    "reason": "Placed by what the text says each factor does in practice. No equivalence with the Yoga's limbs or the Gītā's means is implied."
+   },
+   "stages": [
+    "pm:mn118-bojjhanga:1",
+    "pm:mn118-bojjhanga:2",
+    "pm:mn118-bojjhanga:3",
+    "pm:mn118-bojjhanga:4",
+    "pm:mn118-bojjhanga:5",
+    "pm:mn118-bojjhanga:6",
+    "pm:mn118-bojjhanga:7",
+    "pm:mn118-bojjhanga:8"
+   ],
+   "user_facing_stages": 8,
+   "user_facing": true
+  },
+  {
+   "id": "map:mn118-mn10-noble-persons",
+   "path_id": null,
+   "lineage": "lin:early-buddhism",
+   "name": "The noble persons named in MN 118:9–12 and the two fruits of MN 10:46",
+   "objection_to_alignment": {
+    "text": "The noble persons are defined by the fetters they have ended (MN 118:10–12), not by a meditative state or by a self seen. Placing stream-entry at B5, 'first direct seeing', beside the Yoga's discriminative discernment or an Upaniṣadic seeing of the self would be rejected by the Theravāda, which denies that anything seen is a self (see ot:theravada in one_truth.json). The sutta also lists the persons from the highest down (MN 118:9–12). The order here is only the band order.",
+    "cites": [
+     "tea:anapanasati-sutta:mn118:9",
+     "tea:anapanasati-sutta:mn118:10",
+     "tea:anapanasati-sutta:mn118:11",
+     "tea:anapanasati-sutta:mn118:12"
+    ],
+    "user_facing": true,
+    "blocked_by": []
+   },
+   "principle": {
+    "id": "P4-stage",
+    "name": "Stage of the student",
+    "reason": "Stages of the noble disciple are placed as stages of the student. What is realised at each stage is described in the Theravāda's own terms only."
+   },
+   "stages": [
+    "pm:mn118-mn10-noble-persons:1",
+    "pm:mn118-mn10-noble-persons:2",
+    "pm:mn118-mn10-noble-persons:3",
+    "pm:mn118-mn10-noble-persons:4"
+   ],
+   "user_facing_stages": 4,
+   "user_facing": true
+  },
+  {
+   "id": "map:gita-12-8-12",
+   "path_id": "pth:gita-devotion-ladder",
+   "lineage": "lin:bhagavata-early",
+   "name": "The graded means of BhG 12.8–12",
+   "objection_to_alignment": {
+    "text": "The Gītā gives these as alternatives by capacity, not as stages one passes through: 'if you cannot … then …' (BhG 12.9–11). It also ranks them against the order of ease. Knowledge is better than practice, meditation better than knowledge, and relinquishing the fruit of actions better than meditation, for peace follows relinquishment at once (BhG 12.12). Placing relinquishing the fruit at B1 (data/paths.json) follows the order of ease and inverts the Gītā's own valuation. The alignment is kept only as an ordering by capacity (adhikāra).",
+    "cites": [
+     "tea:bhagavad-gita:12.8",
+     "tea:bhagavad-gita:12.9",
+     "tea:bhagavad-gita:12.10",
+     "tea:bhagavad-gita:12.11",
+     "tea:bhagavad-gita:12.12"
+    ],
+    "user_facing": true,
+    "blocked_by": []
+   },
+   "principle": {
+    "id": "P4-stage",
+    "name": "Stage of the student",
+    "reason": "The text itself grades the means by what the student can do (BhG 12.9–11). That is adhikāra, not a sequence of attainments."
+   },
+   "stages": [
+    "pm:gita-12-8-12:1",
+    "pm:gita-12-8-12:2",
+    "pm:gita-12-8-12:3",
+    "pm:gita-12-8-12:4",
+    "pm:gita-12-8-12:5"
+   ],
+   "user_facing_stages": 5,
+   "user_facing": true
+  },
+  {
+   "id": "map:vism-seven-purifications",
+   "path_id": "pth:seven-purifications",
+   "lineage": "lin:theravada",
+   "name": "The seven purifications (MN 24; Visuddhimagga)",
+   "objection_to_alignment": {
+    "text": "In MN 24 each purification serves only the next, like a relay of chariots, and the holy life is lived for none of them but for final nibbāna without clinging (MN 24). The Visuddhimagga calls purification itself nibbāna (Vism I). The stages are means, so aligning them one for one with other maps' attainments misreads them. In data/paths.json five of the seven are placed at B4 and only the last at B5, so the band scheme compresses the Visuddhimagga's whole insight sequence.",
+    "cites": [
+     "tea:rathavinita-sutta:9-15",
+     "tea:visuddhimagga:1/2"
+    ],
+    "user_facing": false,
+    "blocked_by": [
+     {
+      "cite": "tea:rathavinita-sutta:9-15",
+      "why": "skeleton"
+     },
+     {
+      "cite": "tea:visuddhimagga:1/2",
+      "why": "skeleton"
+     }
+    ]
+   },
+   "principle": {
+    "id": "P4-stage",
+    "name": "Stage of the student",
+    "reason": "Placed as stages of the student's purification. Their content is not equated with the other maps' stages."
+   },
+   "stages": [
+    "pm:vism-seven-purifications:1",
+    "pm:vism-seven-purifications:2",
+    "pm:vism-seven-purifications:3",
+    "pm:vism-seven-purifications:4",
+    "pm:vism-seven-purifications:5",
+    "pm:vism-seven-purifications:6",
+    "pm:vism-seven-purifications:7",
+    "pm:vism-seven-purifications:8"
+   ],
+   "user_facing_stages": 0,
+   "user_facing": false
+  },
+  {
+   "id": "map:jain-gunasthanas",
+   "path_id": "pth:jain-fourteen-gunasthanas",
+   "lineage": "lin:jainism",
+   "name": "The fourteen stages of quality (guṇasthāna), with TS 9.45",
+   "objection_to_alignment": {
+    "text": "The ladder is defined by the subsidence and destruction of deluding karma: TS 9.45 names 'the subsider', 'the one whose delusion is subsided', 'the destroyer' and 'the one whose delusion is destroyed'. Its order does not follow the bands. Right view without restraint (the 4th stage) comes before partial and careless restraint (the 5th and 6th), so a stage placed at B5 precedes stages placed at B1. The first two stages have no band at all in data/paths.json. The fourteen names come from the Gommaṭasāra (GJK 9–10), not from TS, which gives the ten stages of 9.45.",
+    "cites": [
+     "tea:tattvartha-sutra:9.45",
+     "tea:gommatasara-jivakanda:9-10"
+    ],
+    "user_facing": false,
+    "blocked_by": [
+     {
+      "cite": "tea:tattvartha-sutra:9.45",
+      "why": "skeleton"
+     },
+     {
+      "cite": "tea:gommatasara-jivakanda:9-10",
+      "why": "skeleton"
+     }
+    ]
+   },
+   "principle": {
+    "id": "P4-stage",
+    "name": "Stage of the student",
+    "reason": "The guṇasthānas are the Jain tradition's own stages of the soul. They are placed by band only for comparison, and the Jain order is kept."
+   },
+   "stages": [
+    "pm:jain-gunasthanas:1",
+    "pm:jain-gunasthanas:2",
+    "pm:jain-gunasthanas:3",
+    "pm:jain-gunasthanas:4",
+    "pm:jain-gunasthanas:5",
+    "pm:jain-gunasthanas:6",
+    "pm:jain-gunasthanas:7",
+    "pm:jain-gunasthanas:8",
+    "pm:jain-gunasthanas:9",
+    "pm:jain-gunasthanas:10",
+    "pm:jain-gunasthanas:11",
+    "pm:jain-gunasthanas:12",
+    "pm:jain-gunasthanas:13",
+    "pm:jain-gunasthanas:14"
+   ],
+   "user_facing_stages": 0,
+   "user_facing": false
+  },
+  {
+   "id": "map:ts-9-45-nirjara",
+   "path_id": "pth:tattvartha-ten-stages-of-nirjara",
+   "lineage": "lin:jainism",
+   "name": "The ten stages of increasing shedding of karma (TS 9.45)",
+   "objection_to_alignment": {
+    "text": "TS 9.45 ranks these stages by how much karma is shed, each innumerable times more than the one before. The measure is the shedding of karmic matter, which no other map uses. Right view comes first, and the layman (śrāvaka) and the renouncer (virata) come after it. In data/paths.json the layman and every later stage sit at B6, and the ethical restraint that other maps put at B1 sits after seeing.",
+    "cites": [
+     "tea:tattvartha-sutra:9.45"
+    ],
+    "user_facing": false,
+    "blocked_by": [
+     {
+      "cite": "tea:tattvartha-sutra:9.45",
+      "why": "skeleton"
+     }
+    ]
+   },
+   "principle": {
+    "id": "P4-stage",
+    "name": "Stage of the student",
+    "reason": "Stages of the soul's shedding, placed by band for comparison only."
+   },
+   "stages": [
+    "pm:ts-9-45-nirjara:1",
+    "pm:ts-9-45-nirjara:2",
+    "pm:ts-9-45-nirjara:3",
+    "pm:ts-9-45-nirjara:4",
+    "pm:ts-9-45-nirjara:5",
+    "pm:ts-9-45-nirjara:6",
+    "pm:ts-9-45-nirjara:7",
+    "pm:ts-9-45-nirjara:8",
+    "pm:ts-9-45-nirjara:9",
+    "pm:ts-9-45-nirjara:10"
+   ],
+   "user_facing_stages": 0,
+   "user_facing": false
+  }
+ ],
+ "rows": [
+  {
+   "id": "pm:ys-eight-limbs:1",
+   "map": "map:ys-eight-limbs",
+   "stage_order": 1,
+   "stage": "yama",
+   "gloss": "restraints",
+   "ref": "YS 2.30",
+   "band": "B1",
+   "band_source": "data/paths.json",
+   "cites": [],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:ys-eight-limbs:2",
+   "map": "map:ys-eight-limbs",
+   "stage_order": 2,
+   "stage": "niyama",
+   "gloss": "observances",
+   "ref": "YS 2.32",
+   "band": "B1",
+   "band_source": "data/paths.json",
+   "cites": [],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:ys-eight-limbs:3",
+   "map": "map:ys-eight-limbs",
+   "stage_order": 3,
+   "stage": "āsana",
+   "gloss": "posture",
+   "ref": "YS 2.46",
+   "band": "B2",
+   "band_source": "data/paths.json",
+   "cites": [],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:ys-eight-limbs:4",
+   "map": "map:ys-eight-limbs",
+   "stage_order": 4,
+   "stage": "prāṇāyāma",
+   "gloss": "breath-regulation",
+   "ref": "YS 2.49",
+   "band": "B2",
+   "band_source": "data/paths.json",
+   "cites": [],
+   "user_facing": true,
+   "blocked_by": [],
+   "safety_note": "Breath-regulation in YS includes suspension (stambha-vṛtti, YS 2.50). It stays summary-only and is never recommended. Its teachings are restricted in data/, so this stage is not user-facing."
+  },
+  {
+   "id": "pm:ys-eight-limbs:5",
+   "map": "map:ys-eight-limbs",
+   "stage_order": 5,
+   "stage": "pratyāhāra",
+   "gloss": "sense-withdrawal",
+   "ref": "YS 2.54",
+   "band": "B3",
+   "band_source": "data/paths.json",
+   "cites": [],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:ys-eight-limbs:6",
+   "map": "map:ys-eight-limbs",
+   "stage_order": 6,
+   "stage": "dhāraṇā",
+   "gloss": "concentration",
+   "ref": "YS 2.29",
+   "band": "B3",
+   "band_source": "data/paths.json",
+   "cites": [],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:ys-eight-limbs:7",
+   "map": "map:ys-eight-limbs",
+   "stage_order": 7,
+   "stage": "dhyāna",
+   "gloss": "meditation",
+   "ref": "YS 2.29",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:ys-eight-limbs:8",
+   "map": "map:ys-eight-limbs",
+   "stage_order": 8,
+   "stage": "samādhi",
+   "gloss": "samādhi",
+   "ref": "YS 2.29",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:ys-eight-limbs:9",
+   "map": "map:ys-eight-limbs",
+   "stage_order": 9,
+   "stage": "viveka-khyāti",
+   "gloss": "discriminative discernment, to which the light of knowledge rises through the limbs",
+   "ref": "YS 2.26, 2.28",
+   "band": "B5",
+   "band_source": "this table",
+   "cites": [
+    "tea:yoga-sutra:2.26",
+    "tea:yoga-sutra:2.28"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:ys-eight-limbs:10",
+   "map": "map:ys-eight-limbs",
+   "stage_order": 10,
+   "stage": "prānta-bhūmi prajñā",
+   "gloss": "insight at the final stage, sevenfold",
+   "ref": "YS 2.27",
+   "band": "B6",
+   "band_source": "this table",
+   "cites": [
+    "tea:yoga-sutra:2.27"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:ys-eight-limbs:11",
+   "map": "map:ys-eight-limbs",
+   "stage_order": 11,
+   "stage": "dharma-megha samādhi",
+   "gloss": "the samādhi called 'cloud of dharma', for one without desire even in the highest discernment",
+   "ref": "YS 4.29",
+   "band": "B6",
+   "band_source": "this table",
+   "cites": [
+    "tea:yoga-sutra:4.29"
+   ],
+   "user_facing": true,
+   "blocked_by": [],
+   "band_note": "Placed at B6 because YS puts dharmamegha before kaivalya (YS 4.29, 4.34). config/data_model.md names 'dharmamegha as culmination' under B8; that placement does not match the YS order, so it is flagged for review."
+  },
+  {
+   "id": "pm:ys-eight-limbs:12",
+   "map": "map:ys-eight-limbs",
+   "stage_order": 12,
+   "stage": "kaivalya",
+   "gloss": "aloneness: the seer established in its own form",
+   "ref": "YS 2.25, 4.34",
+   "band": "B7",
+   "band_source": "this table",
+   "cites": [
+    "tea:yoga-sutra:2.25",
+    "tea:yoga-sutra:4.34"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-sixteen-steps:1",
+   "map": "map:mn118-sixteen-steps",
+   "stage_order": 1,
+   "stage": "step 1",
+   "gloss": "long breath (dīghaṁ assasāmī)",
+   "ref": "MN 118:18",
+   "band": "B3",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:18"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-sixteen-steps:2",
+   "map": "map:mn118-sixteen-steps",
+   "stage_order": 2,
+   "stage": "step 2",
+   "gloss": "short breath (rassaṁ assasāmī)",
+   "ref": "MN 118:18",
+   "band": "B3",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:18"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-sixteen-steps:3",
+   "map": "map:mn118-sixteen-steps",
+   "stage_order": 3,
+   "stage": "step 3",
+   "gloss": "experiencing the whole body (sabbakāyapaṭisaṁvedī)",
+   "ref": "MN 118:18",
+   "band": "B3",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:18"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-sixteen-steps:4",
+   "map": "map:mn118-sixteen-steps",
+   "stage_order": 4,
+   "stage": "step 4",
+   "gloss": "calming the bodily formation (passambhayaṁ kāyasaṅkhāraṁ)",
+   "ref": "MN 118:18",
+   "band": "B3",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:18"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-sixteen-steps:5",
+   "map": "map:mn118-sixteen-steps",
+   "stage_order": 5,
+   "stage": "step 5",
+   "gloss": "experiencing rapture (pītipaṭisaṁvedī)",
+   "ref": "MN 118:19",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:19"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-sixteen-steps:6",
+   "map": "map:mn118-sixteen-steps",
+   "stage_order": 6,
+   "stage": "step 6",
+   "gloss": "experiencing pleasure (sukhapaṭisaṁvedī)",
+   "ref": "MN 118:19",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:19"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-sixteen-steps:7",
+   "map": "map:mn118-sixteen-steps",
+   "stage_order": 7,
+   "stage": "step 7",
+   "gloss": "experiencing the mental formation (cittasaṅkhārapaṭisaṁvedī)",
+   "ref": "MN 118:19",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:19"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-sixteen-steps:8",
+   "map": "map:mn118-sixteen-steps",
+   "stage_order": 8,
+   "stage": "step 8",
+   "gloss": "calming the mental formation (passambhayaṁ cittasaṅkhāraṁ)",
+   "ref": "MN 118:19",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:19"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-sixteen-steps:9",
+   "map": "map:mn118-sixteen-steps",
+   "stage_order": 9,
+   "stage": "step 9",
+   "gloss": "experiencing the mind (cittapaṭisaṁvedī)",
+   "ref": "MN 118:20",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:20"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-sixteen-steps:10",
+   "map": "map:mn118-sixteen-steps",
+   "stage_order": 10,
+   "stage": "step 10",
+   "gloss": "gladdening the mind (abhippamodayaṁ cittaṁ)",
+   "ref": "MN 118:20",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:20"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-sixteen-steps:11",
+   "map": "map:mn118-sixteen-steps",
+   "stage_order": 11,
+   "stage": "step 11",
+   "gloss": "concentrating the mind (samādahaṁ cittaṁ)",
+   "ref": "MN 118:20",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:20"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-sixteen-steps:12",
+   "map": "map:mn118-sixteen-steps",
+   "stage_order": 12,
+   "stage": "step 12",
+   "gloss": "liberating the mind (vimocayaṁ cittaṁ)",
+   "ref": "MN 118:20",
+   "band": "B5",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:20"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-sixteen-steps:13",
+   "map": "map:mn118-sixteen-steps",
+   "stage_order": 13,
+   "stage": "step 13",
+   "gloss": "contemplating impermanence (aniccānupassī)",
+   "ref": "MN 118:21",
+   "band": "B5",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:21"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-sixteen-steps:14",
+   "map": "map:mn118-sixteen-steps",
+   "stage_order": 14,
+   "stage": "step 14",
+   "gloss": "contemplating fading away (virāgānupassī)",
+   "ref": "MN 118:21",
+   "band": "B6",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:21"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-sixteen-steps:15",
+   "map": "map:mn118-sixteen-steps",
+   "stage_order": 15,
+   "stage": "step 15",
+   "gloss": "contemplating cessation (nirodhānupassī)",
+   "ref": "MN 118:21",
+   "band": "B6",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:21"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-sixteen-steps:16",
+   "map": "map:mn118-sixteen-steps",
+   "stage_order": 16,
+   "stage": "step 16",
+   "gloss": "contemplating relinquishment (paṭinissaggānupassī)",
+   "ref": "MN 118:21",
+   "band": "B7",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:21"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-bojjhanga:1",
+   "map": "map:mn118-bojjhanga",
+   "stage_order": 1,
+   "stage": "sati-sambojjhaṅga",
+   "gloss": "mindfulness",
+   "ref": "MN 118:30",
+   "band": "B3",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:30"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-bojjhanga:2",
+   "map": "map:mn118-bojjhanga",
+   "stage_order": 2,
+   "stage": "dhammavicaya-sambojjhaṅga",
+   "gloss": "investigation of dhammas",
+   "ref": "MN 118:31",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:31"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-bojjhanga:3",
+   "map": "map:mn118-bojjhanga",
+   "stage_order": 3,
+   "stage": "vīriya-sambojjhaṅga",
+   "gloss": "energy",
+   "ref": "MN 118:32",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:32"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-bojjhanga:4",
+   "map": "map:mn118-bojjhanga",
+   "stage_order": 4,
+   "stage": "pīti-sambojjhaṅga",
+   "gloss": "rapture",
+   "ref": "MN 118:33",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:33"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-bojjhanga:5",
+   "map": "map:mn118-bojjhanga",
+   "stage_order": 5,
+   "stage": "passaddhi-sambojjhaṅga",
+   "gloss": "tranquillity",
+   "ref": "MN 118:34",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:34"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-bojjhanga:6",
+   "map": "map:mn118-bojjhanga",
+   "stage_order": 6,
+   "stage": "samādhi-sambojjhaṅga",
+   "gloss": "concentration",
+   "ref": "MN 118:35",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:35"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-bojjhanga:7",
+   "map": "map:mn118-bojjhanga",
+   "stage_order": 7,
+   "stage": "upekkha-sambojjhaṅga",
+   "gloss": "equanimity",
+   "ref": "MN 118:36",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:36"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-bojjhanga:8",
+   "map": "map:mn118-bojjhanga",
+   "stage_order": 8,
+   "stage": "vijjā-vimutti",
+   "gloss": "knowledge and liberation, fulfilled by the seven factors",
+   "ref": "MN 118:43",
+   "band": "B7",
+   "band_source": "this table",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:43"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-mn10-noble-persons:1",
+   "map": "map:mn118-mn10-noble-persons",
+   "stage_order": 1,
+   "stage": "sotāpanna (stream-enterer)",
+   "gloss": "with the ending of three fetters; not liable to fall, fixed in destiny, heading for awakening",
+   "ref": "MN 118:12",
+   "band": "B5",
+   "band_source": "this table",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:12"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-mn10-noble-persons:2",
+   "map": "map:mn118-mn10-noble-persons",
+   "stage_order": 2,
+   "stage": "sakadāgāmī (once-returner)",
+   "gloss": "with three fetters ended and lust, hatred and delusion weakened",
+   "ref": "MN 118:11",
+   "band": "B6",
+   "band_source": "this table",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:11"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-mn10-noble-persons:3",
+   "map": "map:mn118-mn10-noble-persons",
+   "stage_order": 3,
+   "stage": "anāgāmī / anāgāmitā (non-return)",
+   "gloss": "with the five lower fetters ended; one of the two fruits of MN 10",
+   "ref": "MN 118:10; MN 10:46",
+   "band": "B6",
+   "band_source": "this table",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:10",
+    "tea:satipatthana-sutta:mn10:46"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:mn118-mn10-noble-persons:4",
+   "map": "map:mn118-mn10-noble-persons",
+   "stage_order": 4,
+   "stage": "arahant; aññā (final knowledge)",
+   "gloss": "taints destroyed, the burden laid down, liberated by final knowledge; the other fruit of MN 10",
+   "ref": "MN 118:9; MN 10:46",
+   "band": "B7",
+   "band_source": "this table",
+   "cites": [
+    "tea:anapanasati-sutta:mn118:9",
+    "tea:satipatthana-sutta:mn10:46"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:gita-12-8-12:1",
+   "map": "map:gita-12-8-12",
+   "stage_order": 1,
+   "stage": "karmaphala-tyāga",
+   "gloss": "relinquishing the fruit of all actions",
+   "ref": "BhG 12.11",
+   "band": "B1",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:bhagavad-gita:12.11"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:gita-12-8-12:2",
+   "map": "map:gita-12-8-12",
+   "stage_order": 2,
+   "stage": "mat-karma-parama",
+   "gloss": "being intent on the Lord's work",
+   "ref": "BhG 12.10",
+   "band": "B2",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:bhagavad-gita:12.10"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:gita-12-8-12:3",
+   "map": "map:gita-12-8-12",
+   "stage_order": 3,
+   "stage": "abhyāsa-yoga",
+   "gloss": "the yoga of practice",
+   "ref": "BhG 12.9",
+   "band": "B3",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:bhagavad-gita:12.9"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:gita-12-8-12:4",
+   "map": "map:gita-12-8-12",
+   "stage_order": 4,
+   "stage": "fixing mind and intellect on the Lord",
+   "gloss": "steady absorption",
+   "ref": "BhG 12.8",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:bhagavad-gita:12.8"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:gita-12-8-12:5",
+   "map": "map:gita-12-8-12",
+   "stage_order": 5,
+   "stage": "dwelling in the Lord",
+   "gloss": "the goal",
+   "ref": "BhG 12.8",
+   "band": "B7",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:bhagavad-gita:12.8"
+   ],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "pm:vism-seven-purifications:1",
+   "map": "map:vism-seven-purifications",
+   "stage_order": 1,
+   "stage": "sīla-visuddhi",
+   "gloss": "purification of virtue",
+   "ref": "MN 24; Vism 1-2",
+   "band": "B1",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:rathavinita-sutta:9-15",
+    "tea:visuddhimagga:1/4"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:rathavinita-sutta:9-15",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:visuddhimagga:1/4",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:vism-seven-purifications:2",
+   "map": "map:vism-seven-purifications",
+   "stage_order": 2,
+   "stage": "citta-visuddhi",
+   "gloss": "purification of mind",
+   "ref": "MN 24; Vism 3-13",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:rathavinita-sutta:9-15",
+    "tea:visuddhimagga:3/2",
+    "tea:paramatthamanjusa:18"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:rathavinita-sutta:9-15",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:paramatthamanjusa:18",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:vism-seven-purifications:3",
+   "map": "map:vism-seven-purifications",
+   "stage_order": 3,
+   "stage": "diṭṭhi-visuddhi",
+   "gloss": "purification of view",
+   "ref": "MN 24; Vism 18",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:rathavinita-sutta:9-15",
+    "tea:visuddhimagga:18",
+    "tea:visuddhimagga:18/2"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:rathavinita-sutta:9-15",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:visuddhimagga:18",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:visuddhimagga:18/2",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:vism-seven-purifications:4",
+   "map": "map:vism-seven-purifications",
+   "stage_order": 4,
+   "stage": "kaṅkhāvitaraṇa-visuddhi",
+   "gloss": "purification by overcoming doubt",
+   "ref": "MN 24; Vism 19",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:rathavinita-sutta:9-15",
+    "tea:visuddhimagga:19",
+    "tea:visuddhimagga:19/3"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:rathavinita-sutta:9-15",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:visuddhimagga:19",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:visuddhimagga:19/3",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:vism-seven-purifications:5",
+   "map": "map:vism-seven-purifications",
+   "stage_order": 5,
+   "stage": "maggāmagga-ñāṇadassana-visuddhi",
+   "gloss": "purification by knowledge and vision of what is and is not the path",
+   "ref": "MN 24; Vism 20",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:rathavinita-sutta:9-15",
+    "tea:visuddhimagga:20",
+    "tea:visuddhimagga:20/2",
+    "tea:visuddhimagga:20/3",
+    "tea:visuddhimagga:20/4"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:rathavinita-sutta:9-15",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:visuddhimagga:20",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:vism-seven-purifications:6",
+   "map": "map:vism-seven-purifications",
+   "stage_order": 6,
+   "stage": "paṭipadā-ñāṇadassana-visuddhi",
+   "gloss": "purification by knowledge and vision of the way",
+   "ref": "MN 24; Vism 21",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:rathavinita-sutta:9-15",
+    "tea:visuddhimagga:21",
+    "tea:visuddhimagga:21/2",
+    "tea:visuddhimagga:21/4",
+    "tea:visuddhimagga:21/6"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:rathavinita-sutta:9-15",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:visuddhimagga:21",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:visuddhimagga:21/2",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:visuddhimagga:21/4",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:visuddhimagga:21/6",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:vism-seven-purifications:7",
+   "map": "map:vism-seven-purifications",
+   "stage_order": 7,
+   "stage": "ñāṇadassana-visuddhi",
+   "gloss": "purification by knowledge and vision",
+   "ref": "MN 24; Vism 22",
+   "band": "B5",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:rathavinita-sutta:9-15",
+    "tea:visuddhimagga:22"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:rathavinita-sutta:9-15",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:visuddhimagga:22",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:vism-seven-purifications:8",
+   "map": "map:vism-seven-purifications",
+   "stage_order": 8,
+   "stage": "anupādā parinibbāna",
+   "gloss": "final nibbāna without clinging",
+   "ref": "MN 24",
+   "band": "B7",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:rathavinita-sutta:9-15",
+    "tea:visuddhimagga:1/2"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:rathavinita-sutta:9-15",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:visuddhimagga:1/2",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:jain-gunasthanas:1",
+   "map": "map:jain-gunasthanas",
+   "stage_order": 1,
+   "stage": "mithyādṛṣṭi",
+   "gloss": "wrong view",
+   "ref": "GJK 9-10",
+   "band": null,
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:gommatasara-jivakanda:9-10",
+    "tea:sarvarthasiddhi:1.8"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:gommatasara-jivakanda:9-10",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:sarvarthasiddhi:1.8",
+     "why": "skeleton"
+    }
+   ],
+   "band_note": "data/paths.json gives this stage no band; left unaligned"
+  },
+  {
+   "id": "pm:jain-gunasthanas:2",
+   "map": "map:jain-gunasthanas",
+   "stage_order": 2,
+   "stage": "sāsādana (sāsvādana)",
+   "gloss": "the 'tasting' — falling from right view",
+   "ref": "GJK 9-10",
+   "band": null,
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:gommatasara-jivakanda:9-10"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:gommatasara-jivakanda:9-10",
+     "why": "skeleton"
+    }
+   ],
+   "band_note": "data/paths.json gives this stage no band; left unaligned"
+  },
+  {
+   "id": "pm:jain-gunasthanas:3",
+   "map": "map:jain-gunasthanas",
+   "stage_order": 3,
+   "stage": "samyag-mithyādṛṣṭi (miśra)",
+   "gloss": "mixed view",
+   "ref": "GJK 9-10",
+   "band": "B0",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:gommatasara-jivakanda:9-10"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:gommatasara-jivakanda:9-10",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:jain-gunasthanas:4",
+   "map": "map:jain-gunasthanas",
+   "stage_order": 4,
+   "stage": "avirata-samyagdṛṣṭi",
+   "gloss": "right view without restraint",
+   "ref": "GJK 9-10; TS 9.45",
+   "band": "B5",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:gommatasara-jivakanda:9-10",
+    "tea:tattvartha-sutra:1.2",
+    "tea:tattvartha-sutra:1.3",
+    "tea:tattvartha-sutra:9.45"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:gommatasara-jivakanda:9-10",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:1.2",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:1.3",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:9.45",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:jain-gunasthanas:5",
+   "map": "map:jain-gunasthanas",
+   "stage_order": 5,
+   "stage": "deśavirata (saṃyatāsaṃyata)",
+   "gloss": "partial restraint",
+   "ref": "GJK 9-10; TS 9.45",
+   "band": "B1",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:gommatasara-jivakanda:9-10",
+    "tea:tattvartha-sutra:9.45"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:gommatasara-jivakanda:9-10",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:9.45",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:jain-gunasthanas:6",
+   "map": "map:jain-gunasthanas",
+   "stage_order": 6,
+   "stage": "pramatta-saṃyata",
+   "gloss": "restraint with carelessness",
+   "ref": "GJK 9-10; TS 9.45",
+   "band": "B1",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:gommatasara-jivakanda:9-10",
+    "tea:tattvartha-sutra:9.45"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:gommatasara-jivakanda:9-10",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:9.45",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:jain-gunasthanas:7",
+   "map": "map:jain-gunasthanas",
+   "stage_order": 7,
+   "stage": "apramatta-saṃyata",
+   "gloss": "careful restraint",
+   "ref": "GJK 9-10",
+   "band": "B3",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:gommatasara-jivakanda:9-10",
+    "tea:tattvartha-sutra:9.36"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:gommatasara-jivakanda:9-10",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:9.36",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:jain-gunasthanas:8",
+   "map": "map:jain-gunasthanas",
+   "stage_order": 8,
+   "stage": "apūrvakaraṇa",
+   "gloss": "the unprecedented process",
+   "ref": "GJK 9-10",
+   "band": "B4",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:gommatasara-jivakanda:9-10",
+    "tea:tattvartha-sutra:9.39",
+    "tea:tattvartha-sutra:9.41-42"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:gommatasara-jivakanda:9-10",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:9.39",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:9.41-42",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:jain-gunasthanas:9",
+   "map": "map:jain-gunasthanas",
+   "stage_order": 9,
+   "stage": "anivṛtti-bādara-sāmparāya",
+   "gloss": "the non-returning process with gross passion",
+   "ref": "GJK 9-10",
+   "band": "B6",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:gommatasara-jivakanda:9-10",
+    "tea:tattvartha-sutra:9.12"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:gommatasara-jivakanda:9-10",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:9.12",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:jain-gunasthanas:10",
+   "map": "map:jain-gunasthanas",
+   "stage_order": 10,
+   "stage": "sūkṣma-sāmparāya",
+   "gloss": "subtle passion",
+   "ref": "GJK 9-10",
+   "band": "B6",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:gommatasara-jivakanda:9-10",
+    "tea:tattvartha-sutra:9.10"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:gommatasara-jivakanda:9-10",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:9.10",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:jain-gunasthanas:11",
+   "map": "map:jain-gunasthanas",
+   "stage_order": 11,
+   "stage": "upaśānta-moha",
+   "gloss": "delusion subsided",
+   "ref": "GJK 9-10; TS 9.45",
+   "band": "B6",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:gommatasara-jivakanda:9-10",
+    "tea:tattvartha-sutra:9.45"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:gommatasara-jivakanda:9-10",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:9.45",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:jain-gunasthanas:12",
+   "map": "map:jain-gunasthanas",
+   "stage_order": 12,
+   "stage": "kṣīṇa-moha",
+   "gloss": "delusion destroyed",
+   "ref": "GJK 9-10; TS 9.45",
+   "band": "B6",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:gommatasara-jivakanda:9-10",
+    "tea:tattvartha-sutra:10.1",
+    "tea:tattvartha-sutra:9.41-42",
+    "tea:tattvartha-sutra:9.45"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:gommatasara-jivakanda:9-10",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:10.1",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:9.41-42",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:9.45",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:jain-gunasthanas:13",
+   "map": "map:jain-gunasthanas",
+   "stage_order": 13,
+   "stage": "sayoga-kevalin",
+   "gloss": "the omniscient with activity",
+   "ref": "GJK 9-10",
+   "band": "B7",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:gommatasara-jivakanda:9-10",
+    "tea:tattvartha-sutra:10.1",
+    "tea:tattvartha-sutra:9.11"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:gommatasara-jivakanda:9-10",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:10.1",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:9.11",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:jain-gunasthanas:14",
+   "map": "map:jain-gunasthanas",
+   "stage_order": 14,
+   "stage": "ayoga-kevalin",
+   "gloss": "the omniscient without activity",
+   "ref": "GJK 9-10",
+   "band": "B7",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:gommatasara-jivakanda:9-10",
+    "tea:tattvartha-sutra:10.2",
+    "tea:tattvartha-sutra:9.40"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:gommatasara-jivakanda:9-10",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:10.2",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:9.40",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:ts-9-45-nirjara:1",
+   "map": "map:ts-9-45-nirjara",
+   "stage_order": 1,
+   "stage": "samyagdṛṣṭi",
+   "gloss": "the one with right view",
+   "ref": "TS 9.45",
+   "band": "B5",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:tattvartha-sutra:9.45"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:tattvartha-sutra:9.45",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:ts-9-45-nirjara:2",
+   "map": "map:ts-9-45-nirjara",
+   "stage_order": 2,
+   "stage": "śrāvaka",
+   "gloss": "the layman",
+   "ref": "TS 9.45",
+   "band": "B6",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:tattvartha-sutra:9.45"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:tattvartha-sutra:9.45",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:ts-9-45-nirjara:3",
+   "map": "map:ts-9-45-nirjara",
+   "stage_order": 3,
+   "stage": "virata",
+   "gloss": "the renouncer",
+   "ref": "TS 9.45",
+   "band": "B6",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:tattvartha-sutra:9.45"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:tattvartha-sutra:9.45",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:ts-9-45-nirjara:4",
+   "map": "map:ts-9-45-nirjara",
+   "stage_order": 4,
+   "stage": "anantaviyojaka",
+   "gloss": "separator of the endless-binding passions",
+   "ref": "TS 9.45",
+   "band": "B6",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:tattvartha-sutra:9.45"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:tattvartha-sutra:9.45",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:ts-9-45-nirjara:5",
+   "map": "map:ts-9-45-nirjara",
+   "stage_order": 5,
+   "stage": "darśanamoha-kṣapaka",
+   "gloss": "destroyer of view-delusion",
+   "ref": "TS 9.45",
+   "band": "B6",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:tattvartha-sutra:9.45"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:tattvartha-sutra:9.45",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:ts-9-45-nirjara:6",
+   "map": "map:ts-9-45-nirjara",
+   "stage_order": 6,
+   "stage": "upaśamaka",
+   "gloss": "the subsider",
+   "ref": "TS 9.45",
+   "band": "B6",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:tattvartha-sutra:9.45"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:tattvartha-sutra:9.45",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:ts-9-45-nirjara:7",
+   "map": "map:ts-9-45-nirjara",
+   "stage_order": 7,
+   "stage": "upaśāntamoha",
+   "gloss": "one whose delusion is subsided",
+   "ref": "TS 9.45",
+   "band": "B6",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:tattvartha-sutra:9.45"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:tattvartha-sutra:9.45",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:ts-9-45-nirjara:8",
+   "map": "map:ts-9-45-nirjara",
+   "stage_order": 8,
+   "stage": "kṣapaka",
+   "gloss": "the destroyer",
+   "ref": "TS 9.45",
+   "band": "B6",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:tattvartha-sutra:9.45"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:tattvartha-sutra:9.45",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:ts-9-45-nirjara:9",
+   "map": "map:ts-9-45-nirjara",
+   "stage_order": 9,
+   "stage": "kṣīṇamoha",
+   "gloss": "one whose delusion is destroyed",
+   "ref": "TS 9.45",
+   "band": "B6",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:tattvartha-sutra:9.45"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:tattvartha-sutra:9.45",
+     "why": "skeleton"
+    }
+   ]
+  },
+  {
+   "id": "pm:ts-9-45-nirjara:10",
+   "map": "map:ts-9-45-nirjara",
+   "stage_order": 10,
+   "stage": "jina",
+   "gloss": "the Jina",
+   "ref": "TS 9.45; 10.1–2",
+   "band": "B7",
+   "band_source": "data/paths.json",
+   "cites": [
+    "tea:tattvartha-sutra:9.45",
+    "tea:tattvartha-sutra:10.1",
+    "tea:tattvartha-sutra:10.2"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:tattvartha-sutra:9.45",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:10.1",
+     "why": "skeleton"
+    },
+    {
+     "cite": "tea:tattvartha-sutra:10.2",
+     "why": "skeleton"
+    }
+   ]
+  }
+ ],
+ "by_band": {
+  "B0": [
+   "pm:jain-gunasthanas:3"
+  ],
+  "B1": [
+   "pm:ys-eight-limbs:1",
+   "pm:ys-eight-limbs:2",
+   "pm:gita-12-8-12:1",
+   "pm:vism-seven-purifications:1",
+   "pm:jain-gunasthanas:5",
+   "pm:jain-gunasthanas:6"
+  ],
+  "B2": [
+   "pm:ys-eight-limbs:3",
+   "pm:ys-eight-limbs:4",
+   "pm:gita-12-8-12:2"
+  ],
+  "B3": [
+   "pm:ys-eight-limbs:5",
+   "pm:ys-eight-limbs:6",
+   "pm:mn118-sixteen-steps:1",
+   "pm:mn118-sixteen-steps:2",
+   "pm:mn118-sixteen-steps:3",
+   "pm:mn118-sixteen-steps:4",
+   "pm:mn118-bojjhanga:1",
+   "pm:gita-12-8-12:3",
+   "pm:jain-gunasthanas:7"
+  ],
+  "B4": [
+   "pm:ys-eight-limbs:7",
+   "pm:ys-eight-limbs:8",
+   "pm:mn118-sixteen-steps:5",
+   "pm:mn118-sixteen-steps:6",
+   "pm:mn118-sixteen-steps:7",
+   "pm:mn118-sixteen-steps:8",
+   "pm:mn118-sixteen-steps:9",
+   "pm:mn118-sixteen-steps:10",
+   "pm:mn118-sixteen-steps:11",
+   "pm:mn118-bojjhanga:2",
+   "pm:mn118-bojjhanga:3",
+   "pm:mn118-bojjhanga:4",
+   "pm:mn118-bojjhanga:5",
+   "pm:mn118-bojjhanga:6",
+   "pm:mn118-bojjhanga:7",
+   "pm:gita-12-8-12:4",
+   "pm:vism-seven-purifications:2",
+   "pm:vism-seven-purifications:3",
+   "pm:vism-seven-purifications:4",
+   "pm:vism-seven-purifications:5",
+   "pm:vism-seven-purifications:6",
+   "pm:jain-gunasthanas:8"
+  ],
+  "B5": [
+   "pm:ys-eight-limbs:9",
+   "pm:mn118-sixteen-steps:12",
+   "pm:mn118-sixteen-steps:13",
+   "pm:mn118-mn10-noble-persons:1",
+   "pm:vism-seven-purifications:7",
+   "pm:jain-gunasthanas:4",
+   "pm:ts-9-45-nirjara:1"
+  ],
+  "B6": [
+   "pm:ys-eight-limbs:10",
+   "pm:ys-eight-limbs:11",
+   "pm:mn118-sixteen-steps:14",
+   "pm:mn118-sixteen-steps:15",
+   "pm:mn118-mn10-noble-persons:2",
+   "pm:mn118-mn10-noble-persons:3",
+   "pm:jain-gunasthanas:9",
+   "pm:jain-gunasthanas:10",
+   "pm:jain-gunasthanas:11",
+   "pm:jain-gunasthanas:12",
+   "pm:ts-9-45-nirjara:2",
+   "pm:ts-9-45-nirjara:3",
+   "pm:ts-9-45-nirjara:4",
+   "pm:ts-9-45-nirjara:5",
+   "pm:ts-9-45-nirjara:6",
+   "pm:ts-9-45-nirjara:7",
+   "pm:ts-9-45-nirjara:8",
+   "pm:ts-9-45-nirjara:9"
+  ],
+  "B7": [
+   "pm:ys-eight-limbs:12",
+   "pm:mn118-sixteen-steps:16",
+   "pm:mn118-bojjhanga:8",
+   "pm:mn118-mn10-noble-persons:4",
+   "pm:gita-12-8-12:5",
+   "pm:vism-seven-purifications:8",
+   "pm:jain-gunasthanas:13",
+   "pm:jain-gunasthanas:14",
+   "pm:ts-9-45-nirjara:10"
+  ],
+  "B8": [],
+  "unaligned": [
+   "pm:jain-gunasthanas:1",
+   "pm:jain-gunasthanas:2"
+  ]
+ }
+}
