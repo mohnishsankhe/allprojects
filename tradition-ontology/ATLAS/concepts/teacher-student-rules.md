@@ -1,6 +1,6 @@
 # The teacher–student bond
 
-`cpt:teacher-student-rules` · `skeleton` · confidence high
+`cpt:teacher-student-rules` · `sourced` · confidence high
 
 **Category:** teacher-transmission
 
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering) — The definition's cited passages were all checked in this sweep and support it: tea:satapatha-brahmana:11.3.3.1-2 (confirmed); tea:manusmrti:2.145-146 (confirmed); tea:manusmrti:2.154 (confirmed); tea:manusmrti:2.218 (confirmed); tea:manusmrti:2.238-239 (confirmed); tea:apastamba-dharmasutra:1.1.1.9-17 (confirmed).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

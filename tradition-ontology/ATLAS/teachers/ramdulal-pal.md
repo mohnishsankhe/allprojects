@@ -13,4 +13,4 @@
 Son of Rāmśaraṇ and Satī Mā, Kartā of the sect and composer of the Bhāber Gīt; under him the sect expanded into Calcutta.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

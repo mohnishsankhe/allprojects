@@ -11,4 +11,4 @@
 Rājput king and musicologist who wrote the Rasikapriyā commentary on the Gīta Govinda.
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

@@ -15,4 +15,4 @@ Remember the Lord at all times so that at death one departs remembering him (8.5
 - Whatever state one remembers at the end, to that one goes — so practise remembrance at all times. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 8.6–7
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

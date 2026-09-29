@@ -25,8 +25,8 @@ Style (rīti) is the soul of poetry; style is a special arrangement of words, it
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: sound-language_
 
-terms: [rīti](../terms/riti.md) · concepts: `cpt:schools-of-poetics`
+terms: [rīti](../terms/riti.md) · concepts: [The schools of poetics: what is the 'soul' of poetry?](../concepts/schools-of-poetics.md)
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

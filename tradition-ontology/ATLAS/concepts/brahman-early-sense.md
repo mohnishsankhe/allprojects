@@ -1,6 +1,6 @@
 # Brahman in its early sense
 
-`cpt:brahman-early-sense` · `skeleton` · confidence high
+`cpt:brahman-early-sense` · `sourced` · confidence high
 
 **Category:** ultimate
 
@@ -15,4 +15,8 @@
 - leads-to → [Skambha, the frame of the world](skambha-support.md): The Skambha hymn identifies the frame of the world with the highest Brahman. — rests on [10.7.17](../texts/atharvaveda-saunaka.md#tea-atharvaveda-saunaka-10-7-17)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/gopatha-brahmana.md (GRETIL) — The definition's cited passages were all checked in this sweep and support it: tea:satapatha-brahmana:11.2.3.1-5 (confirmed); tea:satapatha-brahmana:10.6.5.9 (confirmed); tea:satapatha-brahmana:13.7.1.1 (confirmed); tea:gopatha-brahmana:1.1.1 (confirmed).
+
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

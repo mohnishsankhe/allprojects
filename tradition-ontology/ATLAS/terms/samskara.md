@@ -22,4 +22,4 @@
 _Notes: Homonym: latent impression (Yoga, Buddhism) is defined by other units._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

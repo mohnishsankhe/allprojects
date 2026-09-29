@@ -16,4 +16,4 @@
 Stages 2-3 are provisional teachings, not practices; no band assigned. Advaita reads the sequence as superimposition and retraction (U13).
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

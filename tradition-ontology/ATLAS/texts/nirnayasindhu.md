@@ -1,6 +1,6 @@
 # Nirṇayasindhu of Kamalākara Bhaṭṭa
 
-`src:nirnayasindhu` · `skeleton` · confidence moderate
+`src:nirnayasindhu` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -16,4 +16,8 @@ Kamalākara Bhaṭṭa's digest deciding the correct times and procedures of rit
 _Notes: Local copies: raw_etexts/kalpaH/nirNaya-sindhuH (OCR)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:raw_etexts:nirNaya-sindhuH_ocr, catalog:eBharati:nirNayasindhuH, https://www.wisdomlib.org/definition/nirnayasindhu — Extant; composed by Kamalākara in 1612 (Wisdomlib), matching the entry.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

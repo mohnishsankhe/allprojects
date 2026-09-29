@@ -59,7 +59,7 @@ Since the effect follows the cause, all these particulars are made of sattva, ra
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: world-fate, dispute_
 
-concepts: [The candidate 'sources' in medicine (Suśruta)](../concepts/six-candidate-causes-in-medicine.md) · disputes: `dsp:origin-of-person-and-disease`
+concepts: [The candidate 'sources' in medicine (Suśruta)](../concepts/six-candidate-causes-in-medicine.md) · disputes: [Are the person and his diseases born of the same source — and what is it?](../debates/origin-of-person-and-disease.md)
 
 ### sa.1.16-18 <a id="tea-susruta-samhita-sa-1-16-18"></a>
 `skeleton` · confidence high
@@ -68,7 +68,7 @@ In the Āyurveda treatises the knowers of the field are not taught as all-pervad
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-terms: [kṣetrajña](../terms/ksetrajna.md) · concepts: [The knowers of the field in Suśruta](../concepts/self-in-susruta.md), [The three guṇas](../concepts/three-gunas.md) · disputes: `dsp:is-the-self-all-pervading`
+terms: [kṣetrajña](../terms/ksetrajna.md) · concepts: [The knowers of the field in Suśruta](../concepts/self-in-susruta.md), [The three guṇas](../concepts/three-gunas.md) · disputes: [Is the self (knower of the field) all-pervading?](../debates/is-the-self-all-pervading.md)
 
 ### sa.1.20-21 <a id="tea-susruta-samhita-sa-1-20-21"></a>
 `skeleton` · confidence high
@@ -211,7 +211,7 @@ Vāta, pitta and śleṣman alone are the causes of the body's origin; unimpaire
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: body-layers_
 
-concepts: [The three doṣas (vāta, pitta, kapha)](../concepts/three-dosas.md) · disputes: `dsp:is-blood-a-fourth-dosa`
+concepts: [The three doṣas (vāta, pitta, kapha)](../concepts/three-dosas.md) · disputes: [Is blood (rakta) a doṣa alongside vāta, pitta and kapha?](../debates/is-blood-a-fourth-dosa.md)
 
 ### su.21.8-10 <a id="tea-susruta-samhita-su-21-8-10"></a>
 `skeleton` · confidence high
@@ -233,7 +233,7 @@ The doṣas accumulate in their seats (first time for treatment), are provoked (
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: body-layers_
 
-concepts: [The six stages of disease (kriyākāla)](../concepts/six-kriyakalas.md) · disputes: `dsp:is-blood-a-fourth-dosa`
+concepts: [The six stages of disease (kriyākāla)](../concepts/six-kriyakalas.md) · disputes: [Is blood (rakta) a doṣa alongside vāta, pitta and kapha?](../debates/is-blood-a-fourth-dosa.md)
 
 ### utt.60.3-7 <a id="tea-susruta-samhita-utt-60-3-7"></a>
 `skeleton` · confidence high
@@ -255,4 +255,4 @@ terms: [tantrayukti](../terms/tantrayukti.md) · concepts: [The devices of expos
 
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

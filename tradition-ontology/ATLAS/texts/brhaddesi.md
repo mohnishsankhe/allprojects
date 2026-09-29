@@ -22,7 +22,7 @@ What is sung with love at will by women, children, cowherds and kings in their o
 
 _level: conventional · standpoint: ethical-social · path: sound · stage: all · types: sound-language_
 
-terms: [mārga / deśī](../terms/marga-desi.md) · concepts: `cpt:marga-and-desi`
+terms: [mārga / deśī](../terms/marga-desi.md) · concepts: [Mārga and deśī music](../concepts/marga-and-desi.md)
 
 ### 16-19 <a id="tea-brhaddesi-16-19"></a>
 `skeleton` · confidence high
@@ -33,7 +33,7 @@ Now the supreme mark of nāda: without nāda there is no song, without nāda no 
 
 _level: ultimate · standpoint: analytic · path: sound · stage: all · types: sound-language, ultimate_
 
-terms: [nāda](../terms/nada.md), [nādabrahman](../terms/nada-brahman.md) · concepts: `cpt:nada-brahman`, [Nāda — the inner sound](../concepts/nada.md)
+terms: [nāda](../terms/nada.md), [nādabrahman](../terms/nada-brahman.md) · concepts: [Nāda-brahman (Brahman as sound)](../concepts/nada-brahman.md), [Nāda — the inner sound](../concepts/nada.md)
 
 ### 20-21 <a id="tea-brhaddesi-20-21"></a>
 `skeleton` · confidence high
@@ -62,10 +62,10 @@ That by which one is coloured (rajyate), through a particular arrangement of not
 
 _level: conventional · standpoint: analytic · path: sound · stage: all · types: sound-language, consciousness-mind_
 
-terms: [rāga (in music)](../terms/raga-sangita.md) · concepts: `cpt:raga`
+terms: [rāga (in music)](../terms/raga-sangita.md) · concepts: [Rāga](../concepts/raga.md)
 
 
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked). Verse numbers follow the eBhāratī e-text._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

@@ -24,8 +24,8 @@ Some speak of śama (calm) as a stable emotion too; but it cannot be developed i
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, consciousness-mind_
 
-terms: [śama](../terms/sama.md), [śānta-rasa](../terms/santa-rasa.md) · teachers: [Dhanañjaya](../teachers/dhananjaya.md) · disputes: `dsp:santa-rasa`
+terms: [śama](../terms/sama.md), [śānta-rasa](../terms/santa-rasa.md) · teachers: [Dhanañjaya](../teachers/dhananjaya.md) · disputes: [Is śānta (peace) a rasa, and what is its stable emotion?](../debates/santa-rasa.md)
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

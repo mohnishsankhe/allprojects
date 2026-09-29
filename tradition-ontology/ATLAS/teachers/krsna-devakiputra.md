@@ -11,4 +11,4 @@
 _Notes: Later tradition, and some scholars, identify him with Kṛṣṇa Vāsudeva of the Gītā (tch:krsna); the Upaniṣad says only 'Kṛṣṇa, son of Devakī'. Kept as a separate id; identification not asserted._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

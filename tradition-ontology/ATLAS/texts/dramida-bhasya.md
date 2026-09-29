@@ -14,4 +14,4 @@
 A lost commentary by Dramiḍa (Draviḍācārya) on Brahmanandin's Vākya, cited by Rāmānuja in the Vedārthasaṅgraha as an authority for a theistic reading of the Upaniṣads.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

@@ -39,7 +39,7 @@ The Haridāsī or Sakhī sampradāya of Vṛndāvana, founded by the singer-sain
 [Āśudhīra](../teachers/asudhira.md), [Bihārinidev](../teachers/biharinidev.md), [Svāmī Haridās](../teachers/svami-haridas.md), [Tānsen](../teachers/tansen.md), [Viṭṭhal Vipul](../teachers/vitthal-vipul.md)
 
 ## Practices
-[Worship through music (nādopāsana)](../practices/nadopasana.md), [Repetition of the divine name on beads (nāma-japa)](../practices/nama-japa.md), [Worship in the grove (nikuñja-upāsanā)](../practices/nikunja-upasana.md), [Collective temple singing (samāj-gāyan)](../practices/samaj-gayan.md), [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md), [Worship of the divine couple (yugala-upāsanā)](../practices/yugala-upasana.md)
+[Worship through nāda (music as spiritual practice)](../practices/nadopasana.md), [Repetition of the divine name on beads (nāma-japa)](../practices/nama-japa.md), [Worship in the grove (nikuñja-upāsanā)](../practices/nikunja-upasana.md), [Collective temple singing (samāj-gāyan)](../practices/samaj-gayan.md), [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md), [Worship of the divine couple (yugala-upāsanā)](../practices/yugala-upasana.md)
 
 ## Path maps
 _none recorded_
@@ -48,4 +48,4 @@ _none recorded_
 [Is the Haridāsī (Sakhī) sampradāya a branch of the Nimbārka sampradāya or an independent tradition?](../debates/haridasi-nimbarka-affiliation.md)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

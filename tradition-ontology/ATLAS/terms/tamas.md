@@ -22,4 +22,4 @@
 _Notes: Homonym: distinct from the Sāṃkhya guṇa tamas._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U30-ayurveda-rasa, skeleton:U02-brahmana-vedanga, skeleton:U11-nyaya-vaisesika, skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U30-ayurveda-rasa, skeleton:U02-brahmana-vedanga, skeleton:U11-nyaya-vaisesika, skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._

@@ -1,6 +1,6 @@
 # Saṃhitopaniṣad Brāhmaṇa
 
-`src:samhitopanisad-brahmana` · `skeleton` · confidence low
+`src:samhitopanisad-brahmana` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 A short Sāmaveda text on the secret meaning of the continuous recitation (saṃhitā) of the chants and on the conditions for their proper transmission.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://vedicheritage.gov.in/samhitopanishad-brahmana/ — The Vedic Heritage Portal confirms it: a Sāmaveda Brāhmaṇa of one prapāṭhaka in five khaṇḍas. The content summary is not contradicted. No local copy.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

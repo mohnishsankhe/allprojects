@@ -53,7 +53,7 @@ Because (Brahman) has scripture as its source (of knowledge) — or: because (Br
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: ultimate, sound-language_
 
-terms: [śabda](../terms/sabda-pramana.md) · disputes: `dsp:status-of-veda`
+terms: [śabda](../terms/sabda-pramana.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 1.1.4 <a id="tea-brahma-sutra-1-1-4"></a>
 `skeleton` · confidence high
@@ -283,7 +283,7 @@ Partiality and cruelty [do] not [belong to the Lord], because [his creating] dep
 
 _level: unmarked · standpoint: polemical · path: knowledge, action · stage: all · types: dispute, karma-liberation, world-fate_
 
-disputes: [Does the Lord act independently of the karma of souls?](../debates/pasupata-isvara-karma.md), `dsp:isvara`
+disputes: [Does the Lord act independently of the karma of souls?](../debates/pasupata-isvara-karma.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### 2.1.35 <a id="tea-brahma-sutra-2-1-35"></a>
 `skeleton` · confidence high
@@ -369,7 +369,7 @@ Even if the aggregate is (assumed) to have two causes, it cannot be established.
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
-disputes: `dsp:is-there-a-self`, `dsp:advaita-crypto-buddhism`
+disputes: [Is there a self?](../debates/is-there-a-self.md), `dsp:advaita-crypto-buddhism`
 
 ### 2.2.28 <a id="tea-brahma-sutra-2-2-28"></a>
 `skeleton` · confidence high
@@ -411,7 +411,7 @@ _level: conventional · standpoint: polemical · path: knowledge · stage: all �
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-disputes: [Can the Lord be only the efficient cause of the world, as the Māheśvaras teach? (Brahma Sūtra 2.2.37ff, paśupati-adhikaraṇa)](../debates/lord-only-efficient-cause.md), [Does the Lord act independently of the karma of souls?](../debates/pasupata-isvara-karma.md), `dsp:isvara`, `dsp:causation`
+disputes: [Can the Lord be only the efficient cause of the world, as the Māheśvaras teach? (Brahma Sūtra 2.2.37ff, paśupati-adhikaraṇa)](../debates/lord-only-efficient-cause.md), [Does the Lord act independently of the karma of souls?](../debates/pasupata-isvara-karma.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), `dsp:causation`
 
 ### 2.2.42 <a id="tea-brahma-sutra-2-2-42"></a>
 `skeleton` · confidence high
@@ -693,7 +693,7 @@ The fruit (of works comes) from Him, because that is reasonable.
 
 _level: conventional · standpoint: divine · path: action · stage: all · types: karma-liberation_
 
-terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara in Advaita](../concepts/isvara-advaita.md) · disputes: `dsp:isvara`
+terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara in Advaita](../concepts/isvara-advaita.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### 3.2.40 <a id="tea-brahma-sutra-3-2-40"></a>
 `skeleton` · confidence moderate
@@ -702,7 +702,7 @@ Jaimini holds that dharma (itself gives the fruit), for the same reasons (script
 
 _level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, dispute_
 
-concepts: [Apūrva (the unseen potency of ritual action)](../concepts/apurva.md), [Īśvara (the Lord)](../concepts/isvara.md) · teachers: [Jaimini](../teachers/jaimini.md) · disputes: `dsp:isvara`
+concepts: [Apūrva (the unseen potency of ritual action)](../concepts/apurva.md), [Īśvara (the Lord)](../concepts/isvara.md) · teachers: [Jaimini](../teachers/jaimini.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### 3.2.41 <a id="tea-brahma-sutra-3-2-41"></a>
 `skeleton` · confidence high
@@ -751,7 +751,7 @@ Some (hold that the self does not exist apart from the body), because (the self)
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-disputes: `dsp:is-there-a-self`
+disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 3.3.54 <a id="tea-brahma-sutra-3-3-54"></a>
 `skeleton` · confidence high
@@ -762,7 +762,7 @@ But not so; (the self is) distinct (from the body), since (consciousness) does n
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-disputes: `dsp:is-there-a-self`
+disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 3.4.1 <a id="tea-brahma-sutra-3-4-1"></a>
 `skeleton` · confidence high
@@ -1220,4 +1220,4 @@ terms: [mokṣa](../terms/moksa.md) · concepts: [Liberation (mokṣa) in Advait
 _Notes: Pāda themes (per Śaṅkara): 1.1 texts with clear marks of Brahman; 1.2 unclear marks, Brahman as object of meditation; 1.3 unclear marks, Brahman as object of knowledge; 1.4 doubtful words (avyakta, ajā) claimed by Sāṃkhya; 2.1 objections from smṛti (Sāṃkhya, Yoga) and reason answered; 2.2 critique of Sāṃkhya, Vaiśeṣika, Buddhists, Jains, Pāśupatas and (per Śaṅkara) Pāñcarātra; 2.3 creation of the elements and nature of the jīva; 2.4 the prāṇas; 3.1 transmigration (for dispassion); 3.2 the states of the self and the nature of Brahman; 3.3 combination of meditations; 3.4 auxiliaries of knowledge and the āśramas; 4.1 repetition and the effects of knowledge; 4.2 departure at death; 4.3 the path of the gods; 4.4 the liberated state. All sūtra numbers in this shard follow Śaṅkara's numbering._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

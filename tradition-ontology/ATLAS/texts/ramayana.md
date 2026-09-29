@@ -105,7 +105,7 @@ Jābāli urges Rāma to return and rule: no one is anyone's kin; one is born alo
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, karma-liberation_
 
-teachers: [Jābāli](../teachers/jabali.md) · disputes: [Is there another world, and is dharma to be followed for its sake? (Rāmāyaṇa 2.108–110)](../debates/jabali-rama.md), `dsp:status-of-veda`
+teachers: [Jābāli](../teachers/jabali.md) · disputes: [Is there another world, and is dharma to be followed for its sake? (Rāmāyaṇa 2.108–110)](../debates/jabali-rama.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 2.109.13 <a id="tea-ramayana-2-109-13"></a>
 `sourced` · confidence high
@@ -189,6 +189,6 @@ _Notes: Teachings in this unit are cited by southern vulgate numbering (the numb
 ---
 **Verification checks**
 
-- 2026-09-28 catalog: confirmed — catalog:DCS:Rāmāyaṇa, catalog:raw_etexts:baroda_alt, local:sources_raw/DharmicData/ValmikiRamayana (southern vulgate) sarga counts 77/119/75/67/68/128/111; 1.4.2 — Extant and digitized (southern vulgate, Gita Press and Baroda critical texts all local). The sarga counts stated for the local vulgate match exactly; 1.4.2 (24,000 ślokas, 500 sargas, six books and the Uttara) located. Dates left as entered.
+- 2026-09-29 catalog: confirmed — catalog:DCS:Rāmāyaṇa, catalog:raw_etexts:baroda_alt, local:sources_raw/DharmicData/ValmikiRamayana (southern vulgate) sarga counts 77/119/75/67/68/128/111; 1.4.2 — Extant and digitized (southern vulgate, Gita Press and Baroda critical texts all local). The sarga counts stated for the local vulgate match exactly; 1.4.2 (24,000 ślokas, 500 sargas, six books and the Uttara) located. Dates left as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

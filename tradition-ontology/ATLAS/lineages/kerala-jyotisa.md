@@ -25,7 +25,7 @@ The Kerala stream of jyotiṣa: astronomers of the Āryabhaṭa school (Haridatt
 [Acyuta Piṣāraṭi](../teachers/acyuta-pisarati.md), [Govinda Bhaṭṭatiri](../teachers/govinda-bhattatiri.md), [Haridatta](../teachers/haridatta.md), [Jyeṣṭhadeva](../teachers/jyesthadeva.md), [Mādhava of Saṅgamagrāma](../teachers/madhava-sangamagrama.md), [Nīlakaṇṭha Somayājī](../teachers/nilakantha-somayaji.md), [Parameśvara (of Vaṭaśśeri)](../teachers/paramesvara-vatasseri.md), [Rudra (Kerala commentator)](../teachers/rudra-kerala.md)
 
 ## Practices
-_none recorded_
+[The Kerala eight-auspicious-objects query (aṣṭamaṅgala-praśna)](../practices/astamangala-prasna.md), [Casting and reading the horoscope](../practices/horoscope-reading.md), [Remedies for affliction from the ancestors](../practices/pitr-dosa-parihara.md), [Remedies for the serpents' displeasure](../practices/sarpa-dosa-parihara.md)
 
 ## Path maps
 _none recorded_
@@ -34,4 +34,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

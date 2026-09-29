@@ -23,8 +23,8 @@ Rasa has the nature of both pleasure and pain (sukha-duḥkhātmaka): the erotic
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: consciousness-mind, dispute_
 
-teachers: [Rāmacandra (Sūri)](../teachers/ramacandra-suri.md), [Guṇacandra](../teachers/gunacandra.md) · disputes: `dsp:is-rasa-bliss`
+teachers: [Rāmacandra (Sūri)](../teachers/ramacandra-suri.md), [Guṇacandra](../teachers/gunacandra.md) · disputes: [Is every rasa blissful, even compassion and terror?](../debates/is-rasa-bliss.md)
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

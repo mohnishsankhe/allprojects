@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The qualities of the sādhu](qualities-of-the-sadhu-bhagavata.md) (ethical-social): the Bhāgavata's list of the sādhu's qualities and the Gītā's 'devotee dear to me' cover the same ground — rests on [78](../texts/narada-bhakti-sutra.md#tea-narada-bhakti-sutra-78), [12.13-20](../texts/bhagavad-gita.md#tea-bhagavad-gita-12-13-20)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

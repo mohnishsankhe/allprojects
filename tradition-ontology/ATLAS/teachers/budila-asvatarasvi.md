@@ -9,4 +9,4 @@
 One of the five great householders and great Vedic scholars who asked 'what is our self, what is brahman?' and, with Uddālaka Āruṇi, went to Aśvapati Kaikeya; each had venerated only one part of the vaiśvānara self (ChU 5.11-17).
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

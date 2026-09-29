@@ -13,4 +13,4 @@ Excess or deficiency of vaḷi, aḻal and aiyam causes disease (Kuṟaḷ 941);
   - [Tirumantiram](../texts/tirumantiram.md) — ref: 727; rests_on: ["tea:tirumantiram:727"]
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

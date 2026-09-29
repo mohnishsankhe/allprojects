@@ -14,4 +14,4 @@ The first-stage practitioner lives in a temple built by another, under his teach
 **Sequences:** [The five stages of the Pāśupata path (avasthā-pañcaka)](../paths/pasupata-five-stages.md)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 16:38 IST._

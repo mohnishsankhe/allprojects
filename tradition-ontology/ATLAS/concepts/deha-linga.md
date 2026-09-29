@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Śiva as niṣkala and sakala; the liṅga](linga-niskala-sakala.md) (the liṅga as the site of dissolution): Śaiva traditions distinguish the partless and embodied liṅga; the Kaula rejects the external liṅga altogether — rests on [3.14-18](../texts/kaulajnananirnaya.md#tea-kaulajnananirnaya-3-14-18)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

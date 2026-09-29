@@ -10,4 +10,4 @@ Speaker: seven tastes, counting alkali (Ca Sū 26.8); in later tradition the aut
 _Notes: Speaker ref checked; the lost tantra is recalled only._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

@@ -12,4 +12,4 @@ Commentator on the Karpūrādistotra (Hymn to Kālī) whose commentary Avalon tr
 _Notes: Date not recalled (probably 19th c.)._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._

@@ -17,4 +17,4 @@
 - corresponds-to-in-map → `pth:dattatreya-four-yogas`: the same four yogas are the frame of the Dattātreyayogaśāstra — rests on [whole](../texts/amaraugha-prabodha.md#tea-amaraugha-prabodha-whole)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

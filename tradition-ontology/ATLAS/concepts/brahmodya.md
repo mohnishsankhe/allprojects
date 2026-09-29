@@ -1,6 +1,6 @@
 # Brahmodya — the theological contest
 
-`cpt:brahmodya` · `skeleton` · confidence moderate
+`cpt:brahmodya` · `sourced` · confidence moderate
 
 **Category:** teacher-transmission
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — ŚB 11.6.3 is Janaka's brahmodya at which Yājñavalkya answers Śākalya. Rests on teaching checks confirmed in this sweep: tea:satapatha-brahmana:11.6.3.1-11.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

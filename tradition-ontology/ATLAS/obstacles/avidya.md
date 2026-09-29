@@ -25,4 +25,4 @@ Lineage contribution (Upaniṣadic): fools living in ignorance and thinking them
 _Notes: U06 contribution to a shared obstacle id._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, skeleton:U10-yoga, skeleton:U13-advaita, skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, skeleton:U10-yoga, skeleton:U13-advaita, skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._

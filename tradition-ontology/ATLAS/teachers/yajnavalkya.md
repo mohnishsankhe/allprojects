@@ -30,6 +30,7 @@ _Notes: Teacher of the mantha rite lineage: Uddālaka Āruṇi taught it to his 
 **Verification checks**
 
 - 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md, https://www.wisdomlib.org/definition/yajnavalkya — Located in Viṣṇu Purāṇa 3.5.7–29 (expiation offer, disgorged Yajus, breath-control, the Sun as horse, ayātayāma Yajus, Vājins). Son of Brahmarāta (Viṣṇu Purāṇa; Devarāta elsewhere) — confirmed by web.
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.298.4, 12.306.2-21 (yajūṃṣi, āditya), 12.306.27, 12.306.85 — Located as described.
+- 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/yajnavalkya-smrti_plain_text.md (GRETIL), https://en.wikipedia.org/wiki/Shatapatha_Bra — U02's claims are all text-located: the beef remark (ŚB 3.1.2.21), the Agnihotra with Janaka (11.3.1, 11.6.2), the defeat of Vidagdha Śākalya (11.6.3), and the White Yajus from the Sun (14.9.4.33, 'ādityānīmāni śuklāni yajūṃṣi vājasaneyena yājñavalkyenākhyāyante'). The ŚB 1–5, 11–14 vs 6–10 division is given in Wikipedia. The Smṛti is set in Mithilā (YājñS 1.1–2).
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.298.4, 12.306.2-21 (yajūṃṣi, āditya), 12.306.27, 12.306.85 — Located as described.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._

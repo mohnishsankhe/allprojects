@@ -40,7 +40,7 @@ That (bindu), consisting of the supreme Śakti, divides again threefold: bindu, 
 
 _level: bridging · standpoint: cosmic · path: sound, knowledge · stage: all · types: ultimate, sound-language_
 
-terms: [bindu](../terms/bindu.md), [nāda](../terms/nada.md), [bīja](../terms/bija.md) · concepts: `cpt:nada-bindu-kala`
+terms: [bindu](../terms/bindu.md), [nāda](../terms/nada.md), [bīja](../terms/bija.md) · concepts: [Śakti, nāda, bindu: the emanation of sound](../concepts/nada-bindu-kala.md)
 
 ### 1.10-11 <a id="tea-saradatilaka-1-10-11"></a>
 `skeleton` · confidence high
@@ -49,7 +49,7 @@ From bindu arose Raudrī, from nāda Jyeṣṭhā, from bīja Vāmā; from them 
 
 _level: conventional · standpoint: cosmic · path: sound · stage: all · types: world-fate, sound-language_
 
-concepts: `cpt:nada-bindu-kala`
+concepts: [Śakti, nāda, bindu: the emanation of sound](../concepts/nada-bindu-kala.md)
 
 ### 1.12-13 <a id="tea-saradatilaka-1-12-13"></a>
 `skeleton` · confidence high
@@ -60,7 +60,7 @@ Those learned in all the Āgamas call it śabda-brahman. Some say śabda-brahman
 
 _level: ultimate · standpoint: polemical · path: knowledge, sound · stage: all · types: ultimate, sound-language, dispute_
 
-terms: [śabdabrahman](../terms/sabda-brahman.md) · concepts: [Word-brahman (śabdabrahman)](../concepts/sabda-brahman.md) · disputes: `dsp:is-the-ultimate-speech`
+terms: [śabdabrahman](../terms/sabda-brahman.md) · concepts: [Word-brahman (śabdabrahman)](../concepts/sabda-brahman.md) · disputes: [Is the ultimate of the nature of speech (śabdādvaita), and is all cognition word-permeated?](../debates/is-the-ultimate-speech.md)
 
 ### 1.14 <a id="tea-saradatilaka-1-14"></a>
 `skeleton` · confidence high
@@ -87,7 +87,7 @@ Mantras are of three kinds by the division of mantra and vidyā: mantras have ma
 
 _level: conventional · standpoint: analytic · path: sound, ritual · stage: all · types: sound-language_
 
-terms: [mantra](../terms/mantra.md), [vidyā (female mantra)](../terms/vidya-mantra.md) · concepts: `cpt:classes-of-mantras`
+terms: [mantra](../terms/mantra.md), [vidyā (female mantra)](../terms/vidya-mantra.md) · concepts: [The classes of mantras](../concepts/classes-of-mantras.md)
 
 ### 2.60-63 <a id="tea-saradatilaka-2-60-63"></a>
 `skeleton` · confidence high
@@ -96,7 +96,7 @@ Mantras are of the nature of fire and moon, for fierce and gentle rites: those a
 
 _level: conventional · standpoint: analytic · path: sound, body-breath, ritual · stage: intermediate · types: sound-language, practice, body-layers_
 
-concepts: `cpt:classes-of-mantras`
+concepts: [The classes of mantras](../concepts/classes-of-mantras.md)
 
 ### 2.64-70 <a id="tea-saradatilaka-2-64-70"></a>
 `skeleton` · confidence high
@@ -105,7 +105,7 @@ Mantras defiled by defects such as being 'cut' do not protect the practitioner. 
 
 _level: conventional · standpoint: analytic · path: sound, ritual · stage: intermediate · types: sound-language, practice_
 
-terms: [mantra-doṣa](../terms/mantra-dosa.md) · obstacles: `obs:mantra-dosas`
+terms: [mantra-doṣa](../terms/mantra-dosa.md) · obstacles: [The defects of mantras (mantra-doṣa)](../obstacles/mantra-dosas.md)
 
 ### 2.112-123 <a id="tea-saradatilaka-2-112-123"></a>
 `skeleton` · confidence high
@@ -116,7 +116,7 @@ Ten purifications (saṃskāra) of mantras, giving success, are taught: generati
 
 _level: conventional · standpoint: ritual · path: sound, ritual · stage: intermediate · types: practice, sound-language, teacher-transmission_
 
-terms: [mantra-saṃskāra](../terms/mantra-samskara.md), [gopana (gupti)](../terms/gopana.md) · practices: `prc:mantra-samskara`
+terms: [mantra-saṃskāra](../terms/mantra-samskara.md), [gopana (gupti)](../terms/gopana.md) · practices: [The ten purifications of a mantra (mantra-saṃskāra)](../practices/mantra-samskara.md)
 
 ### 2.141-144 <a id="tea-saradatilaka-2-141-144"></a>
 `skeleton` · confidence high
@@ -125,7 +125,7 @@ To attain the aims of man a good disciple should resort to a guru who is pure on
 
 _level: conventional · standpoint: ethical-social · path: ritual, sound · stage: all · types: teacher-transmission_
 
-concepts: `cpt:mantra-diksa-and-secrecy`
+concepts: [Mantra initiation, testing and secrecy](../concepts/mantra-diksa-and-secrecy.md)
 
 ### 2.145-153 <a id="tea-saradatilaka-2-145-153"></a>
 `skeleton` · confidence high
@@ -134,7 +134,7 @@ The disciple should be of good family, pure-minded, intent on the aims of man, l
 
 _level: conventional · standpoint: ethical-social · path: ritual, sound · stage: all · types: teacher-transmission, ethics_
 
-concepts: `cpt:mantra-diksa-and-secrecy` · practices: `prc:mantra-diksa` · disputes: `dsp:women-caste-liberation`
+concepts: [Mantra initiation, testing and secrecy](../concepts/mantra-diksa-and-secrecy.md) · practices: [Mantra initiation (mantra-dīkṣā)](../practices/mantra-diksa.md) · disputes: `dsp:women-caste-liberation`
 
 ### 23.106-110 <a id="tea-saradatilaka-23-106-110"></a>
 `skeleton` · confidence high
@@ -167,4 +167,4 @@ practices: [Ritual hand-gestures (hasta-mudrā) in worship](../practices/ritual-
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked). (paṭalas 1–2 checked in the Muktabodha M00077 e-text with the Padārthādarśa)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U08-agama-catalogue. Generated 2026-09-29 16:38 IST._

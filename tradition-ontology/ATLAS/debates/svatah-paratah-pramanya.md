@@ -23,7 +23,7 @@ Both validity and invalidity are intrinsic — as reported in later doxography.
 - Reported, not argued here; e.g. in Mādhava's Sarvadarśanasaṅgraha (Jaimini chapter).
 **Texts:** 
   - [Sarvadarśanasaṃgraha](../texts/sarvadarsanasangraha.md) — ref: Jaimini chapter
-### `lin:pramana-buddhist`
+### [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
 Invalidity is intrinsic and validity extrinsic — as reported in the same doxographic scheme (Buddhist sources themselves are more differentiated).
 - Reported; to be checked against Śāntarakṣita's Tattvasaṅgraha.
 **Texts:** 
@@ -39,4 +39,4 @@ Invalidity is intrinsic and validity extrinsic — as reported in the same doxog
 _Notes: The four-way doxographic schema (Sāṃkhya: both intrinsic; Nyāya: both extrinsic; Buddhists: invalidity intrinsic; Mīmāṃsā: validity intrinsic) is recalled from later doxography._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

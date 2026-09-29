@@ -14,4 +14,4 @@ Founder of the Mahānubhāva panth (13th c.), held by his followers to be Parame
 **Realization — the tradition's account:** Parameśvara himself, one of the five Kṛṣṇas; entered the dead body of Haripāla; survived the executioner and left for the north.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

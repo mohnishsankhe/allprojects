@@ -28,6 +28,16 @@ A Śaiva tantric science, presented as revealed by Bhairava to the Goddess, that
   - [The Tamil Siddhars (cittar)](tamil-siddha.md) — what: mercurial and mineral alchemy (see brw:rasa-sastra-tamil-siddha)
   - [Haṭha Yoga (the haṭha and rājayoga textual tradition)](hatha-yoga.md) — what: the parallel of mercury and breath/mind (Rasārṇava 1.18-19; HYP 4.26-27)
 
+## The ultimate in this lineage
+`skeleton` · confidence high · _restricted: summary only_
+
+**Names:** Parameśvara / Śiva (Bhairava), the conscious light (cinmaya jyotis), supreme bliss, brahman; rasa ('raso vai saḥ')
+**Descriptions:** Liberation in life is knowledge of identity with Śiva in an ageless, deathless body (Rasārṇava 1.8).; The conscious light between the brows: supreme bliss, of the nature of light, free of conception, peaceful, self-known; seeing the whole world as consciousness one attains brahmanhood here (Rasahṛdaya 1.21-23; SDS 46-48).; Mercury is Śiva's own seed and is praised as equal to the supreme brahman (Rasārṇava 1.36; SDS 49-51).
+**Negations:** Free of conception (avikalpa), free of all afflictions (Rasahṛdaya 1.22).
+**Relation to self:** The Raseśvaras are Māheśvaras who hold identity (tādātmya) with the Supreme Lord; the self realizes it only in a stable body.
+**Relation to world:** The world is to be seen as consciousness; mercury and mica, seeds of Śiva and the Goddess, make the divine body.
+**Caveat:** The tradition would reject any one-truth reading that allows liberation without the stable, undecaying body ('liberation after the body falls is meaningless'). Its practices are restricted and are recorded here only in summary.
+
 ## Texts
 [Ānandakanda](../texts/anandakanda.md), [Āyurvedaprakāśa](../texts/ayurveda-prakasa.md), [Kākacaṇḍīśvarīmata](../texts/kakacandisvarimata.md), [Rasādhyāya](../texts/rasadhyaya.md), [Rasahṛdayatantra](../texts/rasahrdayatantra.md), [Rasakāmadhenu](../texts/rasakamadhenu.md), [Rasamañjarī](../texts/rasamanjari.md), [Rasaprakāśasudhākara](../texts/rasaprakasasudhakara.md), [Rasaratnākara](../texts/rasaratnakara.md), [Rasaratnasamuccaya](../texts/rasaratnasamuccaya.md), [Rasārṇava](../texts/rasarnava.md), [Rasasaṃketakalikā](../texts/rasasanketakalika.md), [Rasataraṅgiṇī](../texts/rasatarangini.md), [Rasendracintāmaṇi](../texts/rasendracintamani.md), [Rasendracūḍāmaṇi](../texts/rasendracudamani.md), [Rasendramaṅgala](../texts/rasendramangala.md), [Rasendrasārasaṅgraha](../texts/rasendrasarasangraha.md), [Raseśvarasiddhānta](../texts/rasesvarasiddhanta.md), [Rasopaniṣad](../texts/rasopanisad.md), [Śārṅgadhara Saṃhitā](../texts/sarngadhara-samhita.md), [Sarvadarśanasaṃgraha](../texts/sarvadarsanasangraha.md), [Yogaratnākara](../texts/yogaratnakara.md)
 
@@ -38,12 +48,12 @@ A Śaiva tantric science, presented as revealed by Bhairava to the Goddess, that
 [Rejuvenation with metallic and mineral preparations](../practices/bhasma-rasayana.md), [Transformation of the body (dehavedha)](../practices/dehavedha.md), [Metal transmutation (lohavedha / dhātuvāda)](../practices/lohavedha.md), [Breath-holding as the second 'discipline of action' (Rasārṇava)](../practices/pavana-dharana-rasa.md), [Initiation into rasa-knowledge](../practices/rasa-diksa.md), [The processing of mercury (rasa-saṃskāra)](../practices/rasa-samskara.md), [Worship of the mercurial liṅga](../practices/rasalinga-puja.md)
 
 ## Path maps
-`pth:rasesvara-path`
+[The path of the Raseśvara-darśana (body, yoga, liberation in life)](../paths/rasesvara-path.md)
 
 ## Debates
-_none recorded_
+[Is a stable, undecaying body required for liberation in life?](../debates/is-bodily-immortality-required-for-liberation.md)
 
 _Notes: family 'shared': predominantly Śaiva (the Raseśvara is counted among the Māheśvara systems in the Sarvadarśanasaṃgraha), but alchemical works are ascribed to the Buddhist Nāgārjuna and a Jain (Merutuṅga) commented on the Rasādhyāya. No processes, quantities or recipes are recorded anywhere in this unit._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

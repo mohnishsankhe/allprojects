@@ -16,4 +16,4 @@ Bhagavad Gītā 1–3: Arjuna's grief overwhelms him (1.47) and dries up his sen
   - [Muṇḍaka Upaniṣad](../texts/mundaka-upanisad.md) — ref: 3.1.2; 3.2.9; rests_on: ["tea:mundaka-upanisad:3.1.1-2", "tea:mundaka-upanisad:3.2.9"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

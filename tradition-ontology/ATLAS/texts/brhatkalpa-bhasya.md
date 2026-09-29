@@ -8,11 +8,11 @@
 **Genre:** bhāṣya
 **Commentary on:** [Bṛhatkalpa Sūtra](brhatkalpa-sutra.md)
 **Authors:** 
-  - `tch:sanghadasa-gani` — role: author; attribution: accepted
+  - [Saṅghadāsagaṇi](../teachers/sanghadasa-gani.md) — role: author; attribution: accepted
 **Dates:** Scholarly account: c. 6th c. CE; (confidence low)
 **Availability:** digitized-original
 
 Saṅghadāsagaṇi's large verse commentary on the Bṛhatkalpa, an encyclopedia of monastic casuistry and of social life, completed in Sanskrit by Malayagiri and Kṣemakīrti.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

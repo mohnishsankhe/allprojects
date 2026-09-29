@@ -1,6 +1,6 @@
 # Nirukta
 
-`src:nirukta` · `skeleton` · confidence high
+`src:nirukta` · `sourced` · confidence high
 
 **Original title:** निरुक्तम्
 **Language:** Sanskrit
@@ -18,10 +18,10 @@ Yāska's explanation of the Nighaṇṭu and of Vedic words. Book 1 sets out the
   - kind: original; name: GRETIL e-text (local Devanāgarī mirror)
 **Commentaries on this text:** [Nirukta-bhāṣya-ṭīkā of Skandasvāmin and Maheśvara](nirukta-bhasya-skandasvamin.md), [Durgavṛtti on the Nirukta](nirukta-durgavrtti.md)
 
-## Teachings (20: skeleton 10, sourced 10)
+## Teachings (20: sourced 19, skeleton 1)
 
 ### 1.1 <a id="tea-nirukta-1-1"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 There are four classes of words: nouns, verbs, preverbs and particles. The verb has becoming (bhāva) as its chief meaning, nouns have being (sattva) as theirs; where both are present, the verb expresses a becoming whose parts are earlier and later ('goes', 'cooks'), while the noun presents a becoming solidified from beginning to end ('going', 'cooking').
 
@@ -39,7 +39,7 @@ _level: conventional · standpoint: analytic · path: knowledge · stage: all ·
 teachers: [Audumbarāyaṇa](../teachers/audumbarayana.md)
 
 ### 1.2 <a id="tea-nirukta-1-2"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 There are six modifications of being, says Vārṣyāyaṇi: it is born, it exists, it changes, it grows, it declines, it perishes.
 
@@ -48,13 +48,13 @@ _level: conventional · standpoint: analytic · path: knowledge · stage: all ·
 concepts: [The six modifications of being (ṣaḍ bhāvavikārāḥ)](../concepts/six-modifications-of-being.md) · teachers: [Vārṣyāyaṇi](../teachers/varsyayani.md)
 
 ### 1.12 <a id="tea-nirukta-1-12"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Nouns are derived from verbs — so says Śākaṭāyana, and this is the convention of the etymologists; not all, says Gārgya and some of the grammarians: where accent and formation fit a root and the derivative is regular, derive; words like 'cow', 'horse', 'man', 'elephant' are conventional. Yāska then answers the objections.
 
 _level: conventional · standpoint: polemical · path: sound, knowledge · stage: all · types: sound-language, dispute_
 
-concepts: [All nouns from verbal roots](../concepts/nouns-from-verbs.md) · teachers: [Śākaṭāyana (the ancient grammarian)](../teachers/sakatayana.md), [Gārgya](../teachers/gargya.md), [Yāska](../teachers/yaska.md) · disputes: [Are all nouns derived from verbal roots?](../debates/do-all-nouns-derive-from-verbs.md)
+concepts: [All nouns from verbal roots](../concepts/nouns-from-verbs.md) · teachers: [Śākaṭāyana (Pālyakīrti)](../teachers/sakatayana.md), [Gārgya](../teachers/gargya.md), [Yāska](../teachers/yaska.md) · disputes: [Are all nouns derived from verbal roots?](../debates/do-all-nouns-derive-from-verbs.md)
 
 ### 1.15 <a id="tea-nirukta-1-15"></a>
 `sourced` · confidence high
@@ -98,10 +98,10 @@ The seers had direct perception of dharma (sākṣātkṛtadharmāṇaḥ); they
 
 _level: conventional · standpoint: cosmic · path: knowledge, sound, general · stage: all · types: teacher-transmission, sound-language_
 
-terms: [ṛṣi](../terms/rsi.md), [vedāṅga](../terms/vedanga.md) · concepts: [The ṛṣi as seer of the mantras](../concepts/rsi-as-seer.md), [Transmission of the Veda: teacher, śākhā and oral recitation](../concepts/vedic-transmission-sakha.md), [The six limbs of the Veda](../concepts/six-vedangas.md) · teachers: [Yāska](../teachers/yaska.md) · disputes: `dsp:status-of-veda`
+terms: [ṛṣi](../terms/rsi.md), [vedāṅga](../terms/vedanga.md) · concepts: [The ṛṣi as seer of the mantras](../concepts/rsi-as-seer.md), [Transmission of the Veda: teacher, śākhā and oral recitation](../concepts/vedic-transmission-sakha.md), [The six limbs of the Veda](../concepts/six-vedangas.md) · teachers: [Yāska](../teachers/yaska.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 1.20 <a id="tea-nirukta-1-20-2"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Speech whose flower and fruit are not understood is barren; its flower and fruit are the sacrifice and the deity — or the deity and the self.
 
@@ -110,7 +110,7 @@ _level: conventional · standpoint: analytic · path: knowledge, sound · stage:
 concepts: [Schools of Vedic interpretation in the Nirukta](../concepts/schools-of-vedic-interpretation.md), [The three planes: divine, bodily, sacrificial](../concepts/adhidaiva-adhyatma-adhiyajna.md) · disputes: [How are the Vedic deities and stories to be interpreted — as natural powers, as persons of old narratives, or through the rite?](../debates/nirukta-schools-of-interpretation.md)
 
 ### 2.1 <a id="tea-nirukta-2-1"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Where accent and formation fit, derive a word accordingly; where they do not, examine it always attending to the meaning, by some similarity of function; where there is none, derive it even from a similarity of syllable or letter — but never fail to give a derivation.
 
@@ -119,7 +119,7 @@ _level: conventional · standpoint: analytic · path: sound · stage: all · typ
 terms: [nirvacana](../terms/nirvacana.md) · concepts: [All nouns from verbal roots](../concepts/nouns-from-verbs.md)
 
 ### 2.3-4 <a id="tea-nirukta-2-3-4"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 One should not teach etymology to one who does not know grammar, who has not come as a pupil, or who cannot understand; teach it to the pupil who is capable, intelligent and austere. 'Knowledge came to the brāhmaṇa: guard me, I am your treasure; do not tell me to the envious, the crooked or the unrestrained; so shall I be potent.'
 
@@ -148,7 +148,7 @@ _level: conventional · standpoint: experiential · path: sound, knowledge · st
 terms: [ṛṣi](../terms/rsi.md), [tapas](../terms/tapas.md) · concepts: [The ṛṣi as seer of the mantras](../concepts/rsi-as-seer.md) · teachers: [Aupamanyava](../teachers/aupamanyava.md), [Yāska](../teachers/yaska.md) · disputes: [Were the hymns 'seen' by the seers or 'fashioned' by poets?](../debates/seen-or-made-hymns.md)
 
 ### 2.16 <a id="tea-nirukta-2-16"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 Who is Vṛtra? 'The cloud', say the etymologists; 'an asura, son of Tvaṣṭṛ', say the legend-tellers.
 
@@ -157,7 +157,7 @@ _level: conventional · standpoint: polemical · path: knowledge · stage: all �
 concepts: [Schools of Vedic interpretation in the Nirukta](../concepts/schools-of-vedic-interpretation.md) · disputes: [How are the Vedic deities and stories to be interpreted — as natural powers, as persons of old narratives, or through the rite?](../debates/nirukta-schools-of-interpretation.md)
 
 ### 7.1 <a id="tea-nirukta-7-1"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The verses are of three kinds: those addressed indirectly (in the third person), those addressed directly (in the second person), and those spoken of oneself (ādhyātmika, in the first person).
 
@@ -193,7 +193,7 @@ _level: conventional · standpoint: polemical · path: knowledge, devotion · st
 terms: [devatā](../terms/devata.md) · concepts: [Three deities, one self](../concepts/three-deities-one-self.md) · teachers: [Yāska](../teachers/yaska.md) · disputes: [Are the gods person-like in form (puruṣavidha) or not?](../debates/form-of-the-gods.md), [Are the Vedic gods embodied persons, or are they what the mantras name?](../debates/nature-of-vedic-deities.md)
 
 ### 12.1 <a id="tea-nirukta-12-1"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Who are the Aśvins? Heaven and earth, say some; day and night, say some; sun and moon, say some; two kings who did pious deeds, say the legend-tellers.
 
@@ -212,4 +212,8 @@ terms: [vāc](../terms/vac.md), [Turīya](../terms/turiya.md), [oṃ](../terms/o
 
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Nirukta, catalog:GRETIL-dev:yaska_nirukta, https://en.wikipedia.org/wiki/Nirukta, https://en.wikipedia.org/wiki/Y%C4%81ska — Extant; 12 + 2 pariśiṣṭa adhyāyas locally (GRETIL keys run to 14). Wikipedia: modern scholars place Yāska between the 7th and 5th c. BCE, before Pāṇini, which agrees with the entry's 600–400 BCE.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

@@ -1,6 +1,6 @@
 # Nandikeśvara-kāśikā
 
-`src:nandikesvara-kasika` · `skeleton` · confidence moderate
+`src:nandikesvara-kasika` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -12,10 +12,10 @@
 
 U31 contribution: the verse commentary reading the fourteen Māheśvara sūtras (the phoneme list sounded by Śiva's drum) as teachings on the supreme and its manifestation — the letter a as the supreme Lord and the sounds as the unfolding of Śiva and Śakti; a bridge between grammar and mantra theory.
 
-## Teachings (2: skeleton 2)
+## Teachings (2: sourced 1, skeleton 1)
 
 ### 1 <a id="tea-nandikesvara-kasika-1"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 At the end of his dance the king of dancers (Śiva) sounded his drum fourteen times, wishing to uplift Sanaka and the other perfected ones; this is the net of the Śiva-sūtras.
 
@@ -36,4 +36,8 @@ _level: bridging · standpoint: divine · path: knowledge, sound · stage: all �
 _Notes: Date and verse numbers not verified; the opening story is widely quoted._
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/mixed/ebhAratI-sampat/sAhityam/sAhityetihAsaH/em__kRShNamAchAryaH_em__shrInivAsAchAryaH/hisTarI-oph-klAsikal-saMskRt-liTarechar.md, https://www.indica.today/long-reads/glory-shri-kameshwara-nandikesvara-maheshvara-sutras/ — Low-confidence entry confirmed. The text is reproduced in Krishnamachariar's History (v. 1 'nṛttāvasāne naṭarājarājo …'), where it is also noted to be printed with Upamanyu's commentary in the Nirṇayasāgara Mahābhāṣya. It reads the sūtras metaphysically ('akāro brahmarūpaḥ …'), as the entry says. The date remains unverified.
+
+_Contributed by: skeleton:U31-sound-arts, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

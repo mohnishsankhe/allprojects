@@ -19,4 +19,4 @@ Sundaradeva's second haṭha compendium, known from manuscripts; it collects pos
 _Notes: Existence recalled from J. Birch's work on Sundaradeva; contents not recalled._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._

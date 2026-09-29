@@ -15,4 +15,4 @@
 - analogous: [vyūha](vyuha.md) — both are sets of divine forms for worship; the Vaikhānasas do not present theirs as vyūhas
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 16:38 IST._

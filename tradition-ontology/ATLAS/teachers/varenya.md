@@ -9,4 +9,4 @@
 The king to whom Gajānana teaches the Gaṇeśa Gītā; in the Gaṇeśa Purāṇa Gaṇeśa had been born in his house.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

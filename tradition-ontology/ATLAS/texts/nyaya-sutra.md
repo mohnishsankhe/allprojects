@@ -55,7 +55,7 @@ Perception, inference, comparison and verbal testimony are the means of knowledg
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md), [upamāna](../terms/upamana.md), [śabda](../terms/sabda.md), [pramāṇa](../terms/pramana.md) · concepts: [The four means of knowledge (Nyāya)](../concepts/four-pramanas-nyaya.md) · disputes: `dsp:number-of-pramanas`
+terms: [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md), [upamāna](../terms/upamana.md), [śabda](../terms/sabda.md), [pramāṇa](../terms/pramana.md) · concepts: [The four means of knowledge (Nyāya)](../concepts/four-pramanas-nyaya.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
 
 ### 1.1.4 <a id="tea-nyaya-sutra-1-1-4"></a>
 `skeleton` · confidence high
@@ -132,7 +132,7 @@ Desire, aversion, effort, pleasure, pain and cognition are the marks (liṅga) o
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: [ātman](../terms/atman.md), [icchā](../terms/iccha.md), [dveṣa](../terms/dvesa.md), [prayatna](../terms/prayatna.md), [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md), [jñāna](../terms/jnana.md), [liṅga](../terms/linga.md) · concepts: [The marks (liṅga) of the self](../concepts/marks-of-the-self.md), [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: `dsp:is-there-a-self`
+terms: [ātman](../terms/atman.md), [icchā](../terms/iccha.md), [dveṣa](../terms/dvesa.md), [prayatna](../terms/prayatna.md), [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md), [jñāna](../terms/jnana.md), [liṅga](../terms/linga.md) · concepts: [The marks (liṅga) of the self](../concepts/marks-of-the-self.md), [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 1.1.11 <a id="tea-nyaya-sutra-1-1-11"></a>
 `skeleton` · confidence high
@@ -497,7 +497,7 @@ terms: [śabda](../terms/sabda.md), [pada](../terms/pada.md) · concepts: [Word,
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, sound-language_
 
-terms: [śabda](../terms/sabda.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: `dsp:status-of-veda`
+terms: [śabda](../terms/sabda.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 2.1.63-66 <a id="tea-nyaya-sutra-2-1-63-66"></a>
 `skeleton` · confidence high
@@ -517,7 +517,7 @@ And its (the Veda's) validity — like the validity of mantras and of Āyurveda 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: sound-language, dispute_
 
-terms: [āpta](../terms/apta.md), [śabda](../terms/sabda.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: `dsp:status-of-veda`
+terms: [āpta](../terms/apta.md), [śabda](../terms/sabda.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 2.2.1-2 <a id="tea-nyaya-sutra-2-2-1-2"></a>
 `skeleton` · confidence high
@@ -526,7 +526,7 @@ terms: [āpta](../terms/apta.md), [śabda](../terms/sabda.md) · concepts: [The 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [aitihya](../terms/aitihya.md), [arthāpatti](../terms/arthapatti.md), [sambhava](../terms/sambhava.md), [anupalabdhi](../terms/anupalabdhi.md), [abhāva](../terms/abhava.md) · concepts: [The four means of knowledge (Nyāya)](../concepts/four-pramanas-nyaya.md) · disputes: `dsp:number-of-pramanas`
+terms: [aitihya](../terms/aitihya.md), [arthāpatti](../terms/arthapatti.md), [sambhava](../terms/sambhava.md), [anupalabdhi](../terms/anupalabdhi.md), [abhāva](../terms/abhava.md) · concepts: [The four means of knowledge (Nyāya)](../concepts/four-pramanas-nyaya.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
 
 ### 2.2.13 <a id="tea-nyaya-sutra-2-2-13"></a>
 `skeleton` · confidence high
@@ -568,7 +568,7 @@ terms: [vyakti](../terms/vyakti.md), [ākṛti](../terms/akrti.md), [jāti](../t
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [ātman](../terms/atman.md), [indriya](../terms/indriya.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: `dsp:is-there-a-self`
+terms: [ātman](../terms/atman.md), [indriya](../terms/indriya.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 3.1.4 <a id="tea-nyaya-sutra-3-1-4"></a>
 `skeleton` · confidence high
@@ -579,7 +579,7 @@ terms: [ātman](../terms/atman.md), [indriya](../terms/indriya.md) · concepts: 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: ethics, dispute_
 
-terms: [ātman](../terms/atman.md), [śarīra](../terms/sarira.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: `dsp:is-there-a-self`
+terms: [ātman](../terms/atman.md), [śarīra](../terms/sarira.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 3.1.7 <a id="tea-nyaya-sutra-3-1-7"></a>
 `skeleton` · confidence high
@@ -590,7 +590,7 @@ terms: [ātman](../terms/atman.md), [śarīra](../terms/sarira.md) · concepts: 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [ātman](../terms/atman.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: `dsp:is-there-a-self`
+terms: [ātman](../terms/atman.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 3.1.13-14 <a id="tea-nyaya-sutra-3-1-13-14"></a>
 `skeleton` · confidence high
@@ -599,7 +599,7 @@ terms: [ātman](../terms/atman.md) · concepts: [The self as a substance with qu
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [smṛti](../terms/smrti.md), [ātman](../terms/atman.md) · disputes: `dsp:is-there-a-self`
+terms: [smṛti](../terms/smrti.md), [ātman](../terms/atman.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 3.1.18 <a id="tea-nyaya-sutra-3-1-18"></a>
 `skeleton` · confidence high
@@ -610,7 +610,7 @@ terms: [smṛti](../terms/smrti.md), [ātman](../terms/atman.md) · disputes: `d
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: karma-liberation, death-dying_
 
-terms: [ātman](../terms/atman.md), [pretyabhāva](../terms/pretyabhava.md), [smṛti](../terms/smrti.md) · concepts: [Nyāya arguments for previous and future births](../concepts/rebirth-proofs-nyaya.md) · disputes: `dsp:is-there-a-self`
+terms: [ātman](../terms/atman.md), [pretyabhāva](../terms/pretyabhava.md), [smṛti](../terms/smrti.md) · concepts: [Nyāya arguments for previous and future births](../concepts/rebirth-proofs-nyaya.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 3.1.21 <a id="tea-nyaya-sutra-3-1-21"></a>
 `skeleton` · confidence high
@@ -803,7 +803,7 @@ concepts: [New beginning (ārambha): the effect does not pre-exist](../concepts/
 
 _level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, karma-liberation, dispute_
 
-terms: [īśvara](../terms/isvara.md), [phala](../terms/phala.md) · concepts: [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: `dsp:isvara`
+terms: [īśvara](../terms/isvara.md), [phala](../terms/phala.md) · concepts: [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### 4.1.25-28 <a id="tea-nyaya-sutra-4-1-25-28"></a>
 `skeleton` · confidence moderate
@@ -1129,4 +1129,4 @@ terms: [nigrahasthāna](../terms/nigrahasthana.md) · concepts: [The twenty-two 
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

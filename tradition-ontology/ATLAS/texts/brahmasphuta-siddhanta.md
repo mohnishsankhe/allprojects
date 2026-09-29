@@ -26,7 +26,7 @@ Four million three hundred twenty thousand solar years make a caturyuga, with th
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: world-fate, dispute_
 
-concepts: `cpt:yuga-system-jyotisa` · teachers: [Brahmagupta](../teachers/brahmagupta.md), [Āryabhaṭa](../teachers/aryabhata.md) · disputes: `dsp:yuga-quarters`
+concepts: [The yugas and kalpa in the siddhāntas](../concepts/yuga-system-jyotisa.md) · teachers: [Brahmagupta](../teachers/brahmagupta.md), [Āryabhaṭa](../teachers/aryabhata.md) · disputes: [Are the four quarters of the yuga equal, or in the proportion 4:3:2:1?](../debates/yuga-quarters.md)
 
 ### 11.17 <a id="tea-brahmasphuta-siddhanta-11-17"></a>
 `skeleton` · confidence moderate
@@ -35,8 +35,8 @@ If the earth moved a minute of arc in a prāṇa, from where and along what path
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: world-fate, dispute_
 
-teachers: [Brahmagupta](../teachers/brahmagupta.md) · disputes: `dsp:earth-rotation`
+teachers: [Brahmagupta](../teachers/brahmagupta.md) · disputes: [Does the earth rotate, or do the stars revolve around a fixed earth?](../debates/earth-rotation.md)
 
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

@@ -20,10 +20,10 @@
 - Tibetan: thig le  — partial — the drops of the Vajrayāna subtle body
 
 ## Equivalents (interpretation layer)
-- analogous: `trm:bodhicitta` — the white bodhicitta/drop of Buddhist tantra in the Amṛtasiddhi's milieu; functional analogy, not an identity asserted by either tradition
+- analogous: [bodhicitta](bodhicitta.md) — the white bodhicitta/drop of Buddhist tantra in the Amṛtasiddhi's milieu; functional analogy, not an identity asserted by either tradition
 **Related:** [rajas (in haṭha)](rajas-hatha.md), [nāda](nada.md), [vajrolī](vajroli.md)
 
 _Notes: Contribution from U08; U31/U28 own bindu._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U21-natha-aghora, skeleton:U31-sound-arts, skeleton:U04-minor-upanisads, skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U21-natha-aghora, skeleton:U31-sound-arts, skeleton:U04-minor-upanisads, skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

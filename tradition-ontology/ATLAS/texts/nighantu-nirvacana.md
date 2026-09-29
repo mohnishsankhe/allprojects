@@ -1,6 +1,6 @@
 # Nighaṇṭu-nirvacana of Devarāja Yajvan
 
-`src:nighantu-nirvacana` · `skeleton` · confidence low
+`src:nighantu-nirvacana` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -14,4 +14,8 @@
 Devarāja Yajvan's commentary on the Nighaṇṭu.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:eBharati:niruktam_prathamobhAgaH (devarAjayagvaH), https://www.wisdomlib.org/definition/devaraja-yajvan — Low-confidence entry confirmed: Devarāja Yajvan's word-by-word commentary on the Nighaṇṭu (Wisdomlib: 12th c., or before the 14th c.).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

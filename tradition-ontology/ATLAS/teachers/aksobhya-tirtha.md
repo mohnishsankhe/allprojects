@@ -14,4 +14,4 @@ Disciple of Madhva, pontiff after Mādhava Tīrtha, and teacher of Jayatīrtha. 
 _Notes: See dsp:tat-tvam-asi (historical_debates)._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

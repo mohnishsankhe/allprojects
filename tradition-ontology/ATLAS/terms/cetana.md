@@ -9,11 +9,19 @@
 ## Definitions by tradition
 - [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md): Sentient dependent beings: Lakṣmī (eternally untouched by sorrow) and all souls, divided by their relation to sorrow and their fitness.
 - [Sāṃkhya](../lineages/samkhya.md): Puruṣa is conscious; the manifest and unmanifest are unconscious (acetana) (SK 11); the unconscious liṅga appears conscious through conjunction (SK 20).
+- [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): 'It is intention that I call kamma' (AN 6.63); one of the four nutriments (mental volition) and a component of name (SN 12.2).
+- [Theravāda](../lineages/theravada.md): Volition: the factor that organizes its associates in acting on the object; it is kamma (the Buddha: 'volition is kamma').
+- [Sarvāstivāda](../lineages/sarvastivada.md): Volition, a universal mental factor; mental karma itself, from which bodily and vocal karma arise.
+- [Dārṣṭāntika](../lineages/darstantika.md): Mental karma includes covetousness, malice and wrong view themselves.
+- [Adhyātma movement (Adhyātma-mata)](../lineages/adhyatma-jain.md): The soul as consciousness; in the Samayasāra Nāṭaka the hero of the drama of self and non-self.
 
 ## Forms in other languages
+- Sanskrit: cetanā  — exact
+- Pali: cetanā  — exact
+- Chinese: si 思 — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [acetana](acetana.md), [jīva](jiva.md), [puruṣa](purusa.md), [citiśakti](citisakti.md)
+**Related:** [acetana](acetana.md), [jīva](jiva.md), [puruṣa](purusa.md), [citiśakti](citisakti.md), [kamma](kamma.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._

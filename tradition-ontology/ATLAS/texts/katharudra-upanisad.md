@@ -68,4 +68,4 @@ concepts: [The rite of renunciation](../concepts/sannyasa-rite.md) · teachers: 
 _Notes: Not the same text as the northern Kaṭhaśruti (src:kathasruti-upanisad). Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

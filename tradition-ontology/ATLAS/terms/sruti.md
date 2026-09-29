@@ -19,4 +19,4 @@
 **Related:** [veda](veda.md), [nirveda](nirveda.md), [smṛti](smrti.md), [śruti](sruti-mimamsa.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts, extraction:bhagavad-gita/ch01-03, skeleton:U01-vedic-samhitas, skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts, extraction:bhagavad-gita/ch01-03, skeleton:U01-vedic-samhitas, skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

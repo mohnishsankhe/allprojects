@@ -10,4 +10,4 @@
 Warrior-saint of Rajasthan and Punjab, revered by Hindus and Muslims as a snake-protector; in the legend a disciple of Gorakhnāth, born through Gorakh's blessing to his mother Bāchal.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

@@ -18,4 +18,4 @@
 _Notes: Correction to the task list: TU 2.1-5 is right; the word kośa is absent from TU 2 (checked locally)._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

@@ -21,7 +21,7 @@ Citra Gāṅgyāyani teaches Aruni and Śvetaketu the path to the world of brahm
   - kind: translation; name: R. E. Hume, The Thirteen Principal Upanishads (1921); licence: public domain in some jurisdictions
   - kind: translation; name: F. Max Muller, The Upanishads, SBE 1 and 15 (1879, 1884); licence: public domain
 
-## Teachings (19: skeleton 19)
+## Teachings (19: skeleton 18, sourced 1)
 
 ### 1.1 <a id="tea-kausitaki-upanisad-1-1"></a>
 `skeleton` · confidence high
@@ -85,7 +85,7 @@ Rites to obtain a single treasure (ekadhana) and to become dear to someone: offe
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: practice_
 
 ### 2.5 <a id="tea-kausitaki-upanisad-2-5"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Now the self-restraint of Pratardana, which they call the inner fire-offering (āntaram agnihotram): as long as a person speaks he cannot breathe; then he offers breath into speech; as long as he breathes he cannot speak; then he offers speech into breath. These two endless, immortal offerings he makes continually, waking or asleep; all other offerings have an end, for they consist of works. Knowing this, the ancients did not offer the agnihotra.
 
@@ -174,7 +174,7 @@ This breath, the intelligent self, is bliss, unaging, immortal; it does not beco
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: advanced · types: ultimate, karma-liberation_
 
-concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Karma](../concepts/karma.md) · teachers: [Indra (as student and teacher)](../teachers/indra.md) · disputes: `dsp:isvara`, `dsp:works-knowledge-grace`
+concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Karma](../concepts/karma.md) · teachers: [Indra (as student and teacher)](../teachers/indra.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), `dsp:works-knowledge-grace`
 
 ### 4.1-18 <a id="tea-kausitaki-upanisad-4-1-18"></a>
 `skeleton` · confidence moderate
@@ -198,4 +198,4 @@ terms: [hitā (nāḍī)](../terms/hita.md), [suṣupti / suṣupta](../terms/su
 _Notes: Variant readings are many (e.g., the river Vijara/Viraja, the tree Ilya/Tilya, Citra Gāṅgyāyani/Gārgyāyaṇi). Veda affiliation: Ṛgveda, Kauṣītaki/Śāṅkhāyana śākhā_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

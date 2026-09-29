@@ -15,4 +15,4 @@
 - partial: [saṃnyāsin](samnyasin.md) — Parivrājaka stresses wandering, saṃnyāsin the act of renunciation; the texts use both for the fourth āśrama.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

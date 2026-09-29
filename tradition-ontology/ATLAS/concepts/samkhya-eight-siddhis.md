@@ -15,4 +15,4 @@
 - contrasts-with → [Power (aiśvarya) and the eight powers](aisvarya-eight-powers.md): Sāṃkhya's 'siddhi' is not power — rests on [23](../texts/samkhya-karika.md#tea-samkhya-karika-23), [51](../texts/samkhya-karika.md#tea-samkhya-karika-51)
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._

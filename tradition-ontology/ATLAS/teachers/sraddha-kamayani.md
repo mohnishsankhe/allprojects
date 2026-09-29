@@ -17,4 +17,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_10.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/raw_etexts/vedaH/Rg/shakala/saMhitA/sAyaNabhAShyam/010/151/001.json (Sāyaṇa bhāṣya; ṛṣi/devatā attributes) — Sāyaṇa's attributes and introduction: 'kāmagotrajā śraddhā nāmarṣikā … śraddhā kāmāyanī' (DharmicData header garbled for this hymn).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._

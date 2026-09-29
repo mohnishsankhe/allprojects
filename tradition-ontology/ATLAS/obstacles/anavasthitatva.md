@@ -13,4 +13,4 @@ The mind's not being established in a level it has gained. One of the nine obsta
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 1.30; rests_on: ["tea:yoga-bhasya:1.30"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 16:38 IST._

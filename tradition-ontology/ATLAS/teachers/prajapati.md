@@ -12,4 +12,4 @@ Lord of creatures, teacher of gods, humans and asuras: teaches 'da' (BAU 5.2); t
 _Notes: Linked in BhG ch. 1–3 at 3.10, 3.11, 3.12._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch01-03, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch01-03, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

@@ -54,7 +54,7 @@ The authority of the sacred tradition (āmnāya) (follows) from its being the st
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: sound-language, dispute_
 
-terms: [āmnāya](../terms/amnaya.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: `dsp:status-of-veda`
+terms: [āmnāya](../terms/amnaya.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 1.1.4 <a id="tea-vaisesika-sutra-1-1-4"></a>
 `skeleton` · confidence high
@@ -171,7 +171,7 @@ Being (bhāva) is only a universal.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: world-fate_
 
-terms: [sattā](../terms/satta.md), [sāmānya](../terms/samanya.md)
+terms: [satta](../terms/satta.md), [sāmānya](../terms/samanya.md)
 
 ### 1.2.7-8 <a id="tea-vaisesika-sutra-1-2-7-8"></a>
 `skeleton` · confidence high
@@ -180,7 +180,7 @@ That from which (the notion) 'existent' (arises) with regard to substances, qual
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: world-fate_
 
-terms: [sattā](../terms/satta.md)
+terms: [satta](../terms/satta.md)
 
 ### 2.1.1-5 <a id="tea-vaisesika-sutra-2-1-1-5"></a>
 `skeleton` · confidence high
@@ -238,7 +238,7 @@ The sense-objects are well known; the well-known (cognition of) sense-objects is
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [ātman](../terms/atman.md), [indriya](../terms/indriya.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: `dsp:is-there-a-self`
+terms: [ātman](../terms/atman.md), [indriya](../terms/indriya.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 3.2.1 <a id="tea-vaisesika-sutra-3-2-1"></a>
 `skeleton` · confidence high
@@ -271,7 +271,7 @@ Inhalation and exhalation, closing and opening of the eyes, life, the movement o
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, body-layers_
 
-terms: [ātman](../terms/atman.md), [prāṇa](../terms/prana.md), [icchā](../terms/iccha.md), [dveṣa](../terms/dvesa.md), [prayatna](../terms/prayatna.md), [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md) · concepts: [The marks (liṅga) of the self](../concepts/marks-of-the-self.md) · disputes: `dsp:is-there-a-self`
+terms: [ātman](../terms/atman.md), [prāṇa](../terms/prana.md), [icchā](../terms/iccha.md), [dveṣa](../terms/dvesa.md), [prayatna](../terms/prayatna.md), [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md) · concepts: [The marks (liṅga) of the self](../concepts/marks-of-the-self.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 3.2.9-13 <a id="tea-vaisesika-sutra-3-2-9-13"></a>
 `skeleton` · confidence moderate
@@ -280,7 +280,7 @@ terms: [ātman](../terms/atman.md), [prāṇa](../terms/prana.md), [icchā](../t
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [ātman](../terms/atman.md), [ahaṅkāra](../terms/ahankara.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: `dsp:is-there-a-self`
+terms: [ātman](../terms/atman.md), [ahaṅkāra](../terms/ahankara.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 3.2.15-17 <a id="tea-vaisesika-sutra-3-2-15-17"></a>
 `skeleton` · confidence high
@@ -289,7 +289,7 @@ terms: [ātman](../terms/atman.md), [ahaṅkāra](../terms/ahankara.md) · conce
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [ātman](../terms/atman.md), [jīvātman](../terms/jivatman.md) · concepts: [The plurality of selves](../concepts/plurality-of-selves.md) · disputes: `dsp:souls-one-or-distinct`, `dsp:is-there-a-self`
+terms: [ātman](../terms/atman.md), [jīvātman](../terms/jivatman.md) · concepts: [The plurality of selves](../concepts/plurality-of-selves.md) · disputes: `dsp:souls-one-or-distinct`, [Is there a self?](../debates/is-there-a-self.md)
 
 ### 4.1.1 <a id="tea-vaisesika-sutra-4-1-1"></a>
 `skeleton` · confidence high
@@ -404,7 +404,7 @@ The composition of sentences in the Veda is preceded by understanding; and (the 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: sound-language, dispute_
 
-terms: [āmnāya](../terms/amnaya.md), [apauruṣeya](../terms/apauruseya.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: `dsp:status-of-veda`
+terms: [āmnāya](../terms/amnaya.md), [apauruṣeya](../terms/apauruseya.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 6.1.4-6 <a id="tea-vaisesika-sutra-6-1-4-6"></a>
 `skeleton` · confidence low
@@ -536,7 +536,7 @@ terms: [yogipratyakṣa](../terms/yogipratyaksa.md), [ātman](../terms/atman.md)
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [anumāna](../terms/anumana.md), [liṅga](../terms/linga.md), [śabda](../terms/sabda.md) · concepts: [The two means of knowledge (Vaiśeṣika)](../concepts/two-pramanas-vaisesika.md) · disputes: `dsp:number-of-pramanas`
+terms: [anumāna](../terms/anumana.md), [liṅga](../terms/linga.md), [śabda](../terms/sabda.md) · concepts: [The two means of knowledge (Vaiśeṣika)](../concepts/two-pramanas-vaisesika.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
 
 ### 9.22-23 <a id="tea-vaisesika-sutra-9-22-23"></a>
 `skeleton` · confidence high
@@ -578,4 +578,4 @@ terms: [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md)
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

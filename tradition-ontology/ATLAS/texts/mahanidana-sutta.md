@@ -26,7 +26,7 @@ The Buddha rebukes Ānanda for thinking dependent origination plain: the chain o
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-terms: `trm:paticcasamuppada` · concepts: `cpt:dependent-origination`
+terms: [paṭiccasamuppāda](../terms/paticcasamuppada.md) · concepts: [Dependent origination](../concepts/dependent-origination.md)
 
 ### 2-22 <a id="tea-mahanidana-sutta-2-22"></a>
 `skeleton` · confidence high
@@ -35,7 +35,7 @@ Ageing-and-death has birth as its condition, birth becoming, becoming clinging, 
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: `trm:vinnana`, [nāmarūpa](../terms/namarupa.md), `trm:tanha` · concepts: `cpt:dependent-origination`, `cpt:twelve-links`
+terms: [viññāṇa](../terms/vinnana.md), [nāmarūpa](../terms/namarupa.md), [taṇhā](../terms/tanha.md) · concepts: [Dependent origination](../concepts/dependent-origination.md), [The twelve links (nidāna)](../concepts/twelve-links.md)
 
 ### 23-32 <a id="tea-mahanidana-sutta-23-32"></a>
 `skeleton` · confidence high
@@ -44,7 +44,7 @@ Ways of describing a self: as having form or formless, limited or infinite; and 
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-terms: `trm:atta`, `trm:vedana` · concepts: `cpt:anatta`, `cpt:tathagata-after-death` · disputes: `dsp:is-there-a-self`, `dsp:avyakata`
+terms: [attā](../terms/atta.md), [vedanā](../terms/vedana.md) · concepts: [Not-self (anattā)](../concepts/anatta.md), [The Tathāgata after death](../concepts/tathagata-after-death.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](../debates/avyakata.md)
 
 ### 33-36 <a id="tea-mahanidana-sutta-33-36"></a>
 `skeleton` · confidence high
@@ -53,10 +53,10 @@ Seven stations of consciousness and two spheres (the non-percipient beings and n
 
 _level: unmarked · standpoint: analytic · path: meditation, knowledge · stage: advanced · types: consciousness-mind, world-fate, karma-liberation_
 
-terms: `trm:ubhatobhagavimutta`, `trm:pannavimutta` · concepts: `cpt:seven-stations-of-consciousness`, `cpt:eight-vimokkhas`
+terms: [ubhatobhāgavimutta](../terms/ubhatobhagavimutta.md), [paññāvimutta](../terms/pannavimutta.md) · concepts: [Seven stations of consciousness and two spheres](../concepts/seven-stations-of-consciousness.md), [The eight liberations](../concepts/eight-vimokkhas.md)
 
 
 _Notes: SuttaCentral uid dn15; Mahāsaṅgīti title 'Mahānidānasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

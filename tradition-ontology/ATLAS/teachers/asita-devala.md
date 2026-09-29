@@ -13,6 +13,6 @@ Sage named in the Gītā among those who proclaim Kṛṣṇa supreme (10.13); h
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:gita/gita BhG 10.13, local:DharmicData MBh CE 12.267.4 [asita], 12.222.3-4, 9.49.1-60 — Located as described.
+- 2026-09-29 text-locate: confirmed — local:gita/gita BhG 10.13, local:DharmicData MBh CE 12.267.4 [asita], 12.222.3-4, 9.49.1-60 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

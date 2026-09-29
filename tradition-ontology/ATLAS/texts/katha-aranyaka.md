@@ -1,6 +1,6 @@
 # Kaṭha Āraṇyaka
 
-`src:katha-aranyaka` · `skeleton` · confidence low
+`src:katha-aranyaka` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,4 +13,8 @@ The Āraṇyaka of the Kaṭha school of the Black Yajurveda, chiefly on the Pra
 _Notes: Local copy: vedaH/yajur/kaTha/kaTha_araNyaka.md._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+text-locate: confirmed — catalog:raw_etexts:kaTha_araNyaka, catalog:DCS:Kaṭhāraṇyaka, catalog:eBharati:kaThAraNyakam — Low-confidence entry confirmed: the local text is chiefly on the Pravargya ('digbhyaḥ pravargyaḥ sambhriyate …'; 'pravargy-' 39×).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

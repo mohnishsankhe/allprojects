@@ -1,6 +1,6 @@
 # Devarāja Yajvan
 
-`tch:devaraja-yajvan` · `skeleton` · confidence low
+`tch:devaraja-yajvan` · `sourced` · confidence low
 
 **Lineages:** [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
 **Historicity:** historical
@@ -10,4 +10,8 @@
 Commentator on the Nighaṇṭu.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/devaraja-yajvan — Low-confidence entry confirmed: author of the Nighaṇṭu-nirvacana (12th c., or before the 14th c.).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

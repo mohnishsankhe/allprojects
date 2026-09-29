@@ -38,7 +38,7 @@ The community and religious tradition of the followers of Guru Ravidās (Raidās
 [Jhālī Rānī of Chittor](../teachers/jhali-rani.md), [Mangu Ram Mugowalia](../teachers/mangu-ram.md), [Sant Niranjan Dass](../teachers/niranjan-dass.md), [Ravidās (Raidās)](../teachers/ravidas.md), [Sant Sarwan Dass](../teachers/sarwan-dass.md)
 
 ## Practices
-[Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md), [Remembrance of the Name (nām-sumiran)](../practices/nam-simran.md), [Honest household livelihood](../practices/sant-householder-livelihood.md), [Holy company (satsaṅga)](../practices/satsanga.md), [Recitation and veneration of the Vāṇī](../practices/vani-path.md)
+[Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md), [Remembrance of the Name (nām-sumiran)](../practices/nam-simran.md), [Honest household livelihood](../practices/sant-householder-livelihood.md), [Holy company (satsaṅga)](../practices/satsanga.md), [Recitation and veneration of the Vāṇī](../practices/vani-path.md)
 
 ## Path maps
 _none recorded_
@@ -49,4 +49,4 @@ _none recorded_
 _Notes: The modern organized forms (deras, Ād Dharm 1925, Ravidassia Dharam 2010) are post-1800 and flagged recent; Ravidās himself is pre-modern._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

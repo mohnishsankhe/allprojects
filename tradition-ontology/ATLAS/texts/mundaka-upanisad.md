@@ -22,7 +22,7 @@ Aṅgiras teaches Śaunaka the higher knowledge by which the imperishable is gra
   - kind: translation; name: F. Max Muller, The Upanishads, SBE 1 and 15 (1879, 1884); licence: public domain
 **Commentaries on this text:** [Ātharvaṇopaniṣad-bhāṣya (Madhva)](mundaka-upanisad-bhasya-madhva.md), [Muṇḍakopaniṣadbhāṣya of Śaṅkara](mundaka-upanisad-bhasya-sankara.md)
 
-## Teachings (35: skeleton 35)
+## Teachings (35: skeleton 34, sourced 1)
 
 ### 1.1.1-2 <a id="tea-mundaka-upanisad-1-1-1-2"></a>
 `skeleton` · confidence high
@@ -43,7 +43,7 @@ _level: conventional · standpoint: seeker · path: knowledge · stage: intermed
 concepts: [Teacher and pupil in the Upaniṣads](../concepts/upanisadic-teacher-student.md) · teachers: [Śaunaka Mahāśāla](../teachers/saunaka-mahasala.md), [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md)
 
 ### 1.1.4-5 <a id="tea-mundaka-upanisad-1-1-4-5"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Two knowledges are to be known, say the knowers of brahman — the higher and the lower. The lower is the Ṛgveda, the Yajurveda, the Sāmaveda, the Atharvaveda, phonetics, ritual, grammar, etymology, metre and astronomy; the higher is that by which the imperishable is grasped.
 
@@ -51,7 +51,7 @@ Two knowledges are to be known, say the knowers of brahman — the higher and th
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate, teacher-transmission, sound-language_
 
-terms: [parā vidyā](../terms/para-vidya.md), [aparā vidyā](../terms/apara-vidya.md), [akṣara](../terms/aksara.md), [vedāṅga](../terms/vedanga.md), [vidyā](../terms/vidya.md) · concepts: [Higher and lower knowledge](../concepts/para-apara-jnana.md), [Lower and higher knowledge](../concepts/apara-para-vidya.md), [The six limbs of the Veda](../concepts/six-vedangas.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md), [Śaunaka Mahāśāla](../teachers/saunaka-mahasala.md) · disputes: `dsp:status-of-veda`
+terms: [parā vidyā](../terms/para-vidya.md), [aparā vidyā](../terms/apara-vidya.md), [akṣara](../terms/aksara.md), [vedāṅga](../terms/vedanga.md), [vidyā](../terms/vidya.md) · concepts: [Higher and lower knowledge](../concepts/para-apara-jnana.md), [Lower and higher knowledge](../concepts/apara-para-vidya.md), [The six limbs of the Veda](../concepts/six-vedangas.md) · teachers: [Aṅgiras (teacher of Śaunaka)](../teachers/angiras.md), [Śaunaka Mahāśāla](../teachers/saunaka-mahasala.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 1.1.6 <a id="tea-mundaka-upanisad-1-1-6"></a>
 `skeleton` · confidence high
@@ -355,4 +355,4 @@ terms: [śirovrata](../terms/sirovrata.md) · concepts: [Secrecy and restriction
 _Notes: Veda affiliation: Atharvaveda (traditionally the Śaunaka śākhā)_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

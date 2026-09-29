@@ -19,4 +19,4 @@
 **Related:** [abhimāna](abhimana.md), [vaikṛta (vaikārika)](vaikrta.md), [Taijasa](taijasa.md), [bhūtādi](bhutadi.md), [buddhi](buddhi.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

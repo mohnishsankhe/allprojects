@@ -1,6 +1,6 @@
 # Women's dharma (strīdharma), as the tradition states it
 
-`cpt:stri-dharma` · `skeleton` · confidence moderate
+`cpt:stri-dharma` · `sourced` · confidence moderate
 
 **Category:** ethics
 
@@ -14,4 +14,8 @@
 _Notes: Recorded as stated in the texts; the Hārīta quotation is known only through later digests._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/visnu-smrti_plain_text.md (GRETIL), text:s — The six cited passages were confirmed in teaching checks (MDh 3.56, 5.147–148, 9.3, ViSmṛ 25.14, KŚS 1.1.7, ĀpDh 2.11.29.15). The Hārīta quotation, which the entry notes, is also confirmed. Per Wisdomlib's Medhātithi on MDh 2.66 (notes) and Wikipedia's Brahmavādinī article, Hārīta distinguishes two kinds of women, brahmavādinī and sadyovadhū: the former receive upanayana, fire-keeping, Vedic study at home and alms. The verse is quoted in the Smṛticandrikā's saṃskāra section.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

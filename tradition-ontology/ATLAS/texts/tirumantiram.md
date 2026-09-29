@@ -116,7 +116,7 @@ If you can bind unfailingly the horse that rose with twelve feet and nourish it 
 
 _level: conventional · standpoint: experiential · path: body-breath · stage: advanced · types: practice, powers-experiences_
 
-terms: [vāci](../terms/vasi.md) · concepts: [The breath as horse (vāci)](../concepts/vasi.md), [Perfection of the body and immortality (kāya-siddhi, amaratva)](../concepts/kaya-siddhi.md) · practices: [Vāci yoga (the Siddhar breath-yoga)](../practices/vasi-yoga.md) · teachers: [Tirumūlar](../teachers/tirumular.md)
+terms: [vasī](../terms/vasi.md) · concepts: [The breath as horse (vāci)](../concepts/vasi.md), [Perfection of the body and immortality (kāya-siddhi, amaratva)](../concepts/kaya-siddhi.md) · practices: [Vāci yoga (the Siddhar breath-yoga)](../practices/vasi-yoga.md) · teachers: [Tirumūlar](../teachers/tirumular.md)
 
 ### 724 <a id="tea-tirumantiram-724"></a>
 `skeleton` · confidence moderate
@@ -172,7 +172,7 @@ The Veda and the Āgama are both true, both the Lord's scripture; one is general
 
 _level: conventional · standpoint: divine · path: general · stage: all · types: teacher-transmission, sound-language_
 
-disputes: [Are the Āgamas and tantras authoritative — equal to, above, or outside the Veda?](../debates/agama-veda-authority.md), `dsp:status-of-veda`
+disputes: [Are the Āgamas and tantras authoritative — equal to, above, or outside the Veda?](../debates/agama-veda-authority.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### tantra.1 <a id="tea-tirumantiram-tantra-1"></a>
 `skeleton` · confidence moderate
@@ -230,4 +230,4 @@ concepts: [The dance of Naṭarāja and the Chidambaram tradition](../concepts/d
 
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

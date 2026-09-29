@@ -19,7 +19,7 @@ The standard treatise of Indian music in seven chapters (svara, rāga, miscellan
   - kind: translation; name: R. K. Shringy and Prem Lata Sharma, English translation
 **Commentaries on this text:** [Kalānidhi of Kallinātha on the Saṅgītaratnākara](sangita-ratnakara-kalanidhi.md), [Saṅgītasudhākara of Siṃhabhūpāla on the Saṅgītaratnākara](sangita-sudhakara.md)
 
-## Teachings (17: skeleton 17)
+## Teachings (18: skeleton 18)
 
 ### 1.1.1 <a id="tea-sangita-ratnakara-1-1-1"></a>
 `skeleton` · confidence moderate
@@ -48,7 +48,7 @@ Song, instrumental music and dance — these three are called saṅgīta. It is 
 
 _level: conventional · standpoint: analytic · path: sound, ritual · stage: all · types: sound-language, practice_
 
-terms: [saṅgīta](../terms/sangita.md), [mārga / deśī](../terms/marga-desi.md) · concepts: `cpt:marga-and-desi`
+terms: [saṅgīta](../terms/sangita.md), [mārga / deśī](../terms/marga-desi.md) · concepts: [Mārga and deśī music](../concepts/marga-and-desi.md)
 
 ### 1.2.1-3 <a id="tea-sangita-ratnakara-1-2-1-3"></a>
 `skeleton` · confidence high
@@ -59,7 +59,7 @@ Song is made of nāda; instrumental music is praised as the manifestation of nā
 
 _level: bridging · standpoint: analytic · path: sound · stage: all · types: sound-language, body-layers_
 
-terms: [nāda](../terms/nada.md), [āhata nāda](../terms/ahata-nada.md), [anāhata nāda](../terms/anahata-nada.md), [piṇḍa](../terms/pinda.md) · concepts: [Nāda — the inner sound](../concepts/nada.md), `cpt:ahata-anahata`
+terms: [nāda](../terms/nada.md), [āhata nāda](../terms/ahata-nada.md), [anāhata nāda](../terms/anahata-nada.md), [piṇḍa](../terms/pinda.md) · concepts: [Nāda — the inner sound](../concepts/nada.md), [Struck and unstruck sound (āhata and anāhata nāda)](../concepts/ahata-anahata.md)
 
 ### 1.2.4-7 <a id="tea-sangita-ratnakara-1-2-4-7"></a>
 `skeleton` · confidence high
@@ -102,7 +102,7 @@ The centres of the body: the four-petalled ādhāra between anus and genitals, s
 
 _level: conventional · standpoint: analytic · path: sound, body-breath, meditation · stage: all · types: body-layers_
 
-terms: [cakra](../terms/cakra.md), [kuṇḍalinī](../terms/kundalini.md), [brahmarandhra](../terms/brahmarandhra.md) · concepts: `cpt:sangita-ratnakara-centres`
+terms: [cakra](../terms/cakra.md), [kuṇḍalinī](../terms/kundalini.md), [brahmarandhra](../terms/brahmarandhra.md) · concepts: [The body's centres in the Saṅgītaratnākara](../concepts/sangita-ratnakara-centres.md)
 
 ### 1.2.140-144 <a id="tea-sangita-ratnakara-1-2-140-144"></a>
 `skeleton` · confidence high
@@ -111,7 +111,7 @@ When the jīva dwells on the first, eighth, eleventh and twelfth petals of the h
 
 _level: conventional · standpoint: experiential · path: sound, meditation · stage: all · types: body-layers, powers-experiences_
 
-concepts: `cpt:sangita-ratnakara-centres`
+concepts: [The body's centres in the Saṅgītaratnākara](../concepts/sangita-ratnakara-centres.md)
 
 ### 1.2.163-167 <a id="tea-sangita-ratnakara-1-2-163-167"></a>
 `skeleton` · confidence high
@@ -122,7 +122,7 @@ In this body, covered with the accumulation of impurities, the wise attain enjoy
 
 _level: bridging · standpoint: seeker · path: sound, meditation, devotion · stage: all · types: practice, karma-liberation, sound-language_
 
-terms: [anāhata nāda](../terms/anahata-nada.md), [āhata nāda](../terms/ahata-nada.md), [rakti](../terms/rakti.md), [bhukti-mukti](../terms/bhukti-mukti.md) · concepts: `cpt:ahata-anahata`, `cpt:music-as-path` · practices: [Worship through music (nādopāsana)](../practices/nadopasana.md), [Attention to the inner sound (nādānusandhāna) in the haṭha texts](../practices/nadanusandhana.md)
+terms: [anāhata nāda](../terms/anahata-nada.md), [āhata nāda](../terms/ahata-nada.md), [rakti](../terms/rakti.md), [bhukti-mukti](../terms/bhukti-mukti.md) · concepts: [Struck and unstruck sound (āhata and anāhata nāda)](../concepts/ahata-anahata.md), [Music as a path to liberation](../concepts/music-as-path.md) · practices: [Worship through nāda (music as spiritual practice)](../practices/nadopasana.md), [Attention to the inner sound (nādānusandhāna) in the haṭha texts](../practices/nadanusandhana.md)
 
 ### 1.3.1-2 <a id="tea-sangita-ratnakara-1-3-1-2"></a>
 `skeleton` · confidence high
@@ -133,7 +133,7 @@ We worship nāda-brahman, the consciousness of all beings unfolded as the world,
 
 _level: ultimate · standpoint: devotional · path: sound, devotion · stage: all · types: ultimate, sound-language, practice_
 
-terms: [nādabrahman](../terms/nada-brahman.md), [nādopāsanā](../terms/nadopasana.md) · concepts: `cpt:nada-brahman` · practices: [Worship through music (nādopāsana)](../practices/nadopasana.md)
+terms: [nādabrahman](../terms/nada-brahman.md), [nādopāsanā](../terms/nadopasana.md) · concepts: [Nāda-brahman (Brahman as sound)](../concepts/nada-brahman.md) · practices: [Worship through nāda (music as spiritual practice)](../practices/nadopasana.md)
 
 ### 1.3.3-5 <a id="tea-sangita-ratnakara-1-3-3-5"></a>
 `skeleton` · confidence high
@@ -162,7 +162,7 @@ In practice nāda is threefold: low (mandra) in the heart, middle in the throat,
 
 _level: conventional · standpoint: analytic · path: sound, body-breath · stage: all · types: sound-language, body-layers_
 
-terms: [śruti](../terms/sruti.md), [nāḍī](../terms/nadi.md) · concepts: `cpt:sruti-svara-grama`
+terms: [śruti](../terms/sruti.md), [nāḍī](../terms/nadi.md) · concepts: [Śruti, svara and grāma](../concepts/sruti-svara-grama.md)
 
 ### 1.3.11-22 <a id="tea-sangita-ratnakara-1-3-11-22"></a>
 `skeleton` · confidence high
@@ -171,7 +171,7 @@ The twenty-two śrutis are demonstrated on two identical vīṇās of twenty-two
 
 _level: conventional · standpoint: analytic · path: sound · stage: all · types: sound-language_
 
-concepts: `cpt:sruti-svara-grama`
+concepts: [Śruti, svara and grāma](../concepts/sruti-svara-grama.md)
 
 ### 1.3.23-25 <a id="tea-sangita-ratnakara-1-3-23-25"></a>
 `skeleton` · confidence high
@@ -180,10 +180,19 @@ From the śrutis arise the seven notes (svara) — ṣaḍja, ṛṣabha, gāndh
 
 _level: conventional · standpoint: analytic · path: sound · stage: all · types: sound-language_
 
-terms: [svara](../terms/svara.md) · concepts: `cpt:sruti-svara-grama`
+terms: [svara](../terms/svara.md) · concepts: [Śruti, svara and grāma](../concepts/sruti-svara-grama.md)
+
+### 3.24-26 <a id="tea-sangita-ratnakara-3-24-26"></a>
+`skeleton` · confidence moderate
+
+Singers are censured for twenty-five faults: biting the teeth (sandaṣṭa), shouting, hissing, fear, hesitation, trembling, gaping, weakness, a crow-like voice, losing the tāla, a camel-like neck, goat-like bleating, swelling veins, gourd-like cheeks, a crooked neck, sprawling limbs, closing the eyes, tastelessness, off-pitch notes, indistinctness, missing the register, disorder, mixing styles, inattention and nasality.
+
+_level: conventional · standpoint: analytic · path: sound · stage: all · types: practice, sound-language_
+
+obstacles: [The twenty-five faults of singers](../obstacles/gayaka-dosas.md)
 
 
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

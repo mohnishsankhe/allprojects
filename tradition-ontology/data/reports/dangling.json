@@ -1,19 +1,28 @@
 {
- "total_distinct": 857,
+ "total_distinct": 504,
  "by_prefix": {
-  "lin": 43,
-  "tch": 150,
-  "src": 86,
-  "dsp": 48,
-  "tea": 171,
-  "pth": 26,
-  "ult": 10,
+  "lin": 49,
+  "tch": 10,
+  "tea": 93,
+  "src": 9,
+  "pth": 32,
+  "ult": 2,
+  "dsp": 28,
   "prc": 39,
-  "cpt": 148,
-  "obs": 16,
-  "trm": 120
+  "trm": 105,
+  "cpt": 112,
+  "obs": 25
  },
  "top": [
+  {
+   "id": "dsp:women-caste-liberation",
+   "refs": 125,
+   "e.g.": [
+    "tch:nantanar",
+    "tch:prabhacandra",
+    "tch:sakatayana"
+   ]
+  },
   {
    "id": "pth:kashmir-four-upayas",
    "refs": 108,
@@ -25,7 +34,7 @@
   },
   {
    "id": "dsp:works-knowledge-grace",
-   "refs": 93,
+   "refs": 98,
    "e.g.": [
     "tea:apastamba-dharmasutra:2.9.21.13-16",
     "tea:manusmrti:12.88-90",
@@ -33,26 +42,35 @@
    ]
   },
   {
-   "id": "dsp:women-caste-liberation",
-   "refs": 91,
+   "id": "lin:chan",
+   "refs": 92,
    "e.g.": [
-    "tch:nantanar",
-    "tea:bhagavata-purana:1.4.25",
-    "tea:taittiriya-samhita:7.1.1.4-6"
+    "src:prajnaparamita-hrdaya",
+    "src:saptasatika-prajnaparamita",
+    "src:vajracchedika"
    ]
   },
   {
-   "id": "dsp:status-of-veda",
-   "refs": 62,
+   "id": "lin:tiantai",
+   "refs": 92,
    "e.g.": [
-    "tea:mundaka-upanisad:1.1.4-5",
-    "tea:nirukta:1.20",
-    "tea:rgveda-bhasya-sayana:upodghata"
+    "src:mahaprajnaparamita-sutra",
+    "src:prajnaparamita-hrdaya",
+    "src:renwang-jing"
+   ]
+  },
+  {
+   "id": "lin:vajrayana",
+   "refs": 64,
+   "e.g.": [
+    "src:amrtasiddhi",
+    "src:amrtasiddhimula",
+    "src:astasahasrika-prajnaparamita"
    ]
   },
   {
    "id": "dsp:world-real-or-appearance",
-   "refs": 61,
+   "refs": 64,
    "e.g.": [
     "tea:bhagavad-gita:2.16",
     "tea:chandogya-upanisad:6.1.4-6",
@@ -60,17 +78,8 @@
    ]
   },
   {
-   "id": "dsp:souls-one-or-distinct",
-   "refs": 52,
-   "e.g.": [
-    "tea:brhadaranyaka-upanisad:1.4.10",
-    "tea:chandogya-upanisad:6.8.7",
-    "tea:mundaka-upanisad:3.1.1-2"
-   ]
-  },
-  {
    "id": "dsp:causation",
-   "refs": 51,
+   "refs": 57,
    "e.g.": [
     "tea:chandogya-upanisad:6.1.4-6",
     "tea:svetasvatara-upanisad:1.2",
@@ -78,21 +87,21 @@
    ]
   },
   {
-   "id": "dsp:isvara",
-   "refs": 49,
+   "id": "lin:pure-land",
+   "refs": 56,
    "e.g.": [
-    "src:naresvarapariksa",
-    "tea:svetasvatara-upanisad:1.2",
-    "tea:svetasvatara-upanisad:6.1-2"
+    "src:dasabhumika-vibhasa",
+    "src:prajnaparamita-hrdaya",
+    "src:surangama-sutra"
    ]
   },
   {
-   "id": "dsp:is-there-a-self",
-   "refs": 47,
+   "id": "dsp:souls-one-or-distinct",
+   "refs": 53,
    "e.g.": [
-    "src:naresvarapariksa",
-    "tea:katha-upanisad:1.1.20",
-    "tea:maitri-upanisad:7.8"
+    "tea:brhadaranyaka-upanisad:1.4.10",
+    "tea:chandogya-upanisad:6.8.7",
+    "tea:mundaka-upanisad:3.1.1-2"
    ]
   },
   {
@@ -102,6 +111,24 @@
     "tea:bhagavad-gita:12.1",
     "tea:svetasvatara-upanisad:6.11",
     "tea:svetasvatara-upanisad:6.7-9"
+   ]
+  },
+  {
+   "id": "lin:huayan",
+   "refs": 37,
+   "e.g.": [
+    "src:avatamsaka-sutra",
+    "src:dasabhumika-sutra",
+    "src:gandavyuha"
+   ]
+  },
+  {
+   "id": "lin:gelug",
+   "refs": 35,
+   "e.g.": [
+    "src:bhadracaripranidhana",
+    "src:samdhinirmocana-sutra",
+    "src:vinayasutra-gunaprabha"
    ]
   },
   {
@@ -124,11 +151,29 @@
   },
   {
    "id": "pth:yoga-sutra-eight-limbs",
-   "refs": 29,
+   "refs": 30,
    "e.g.": [
     "lin:patanjala-yoga",
     "tea:yoga-sutra:2.28",
     "tea:yoga-sutra:2.29"
+   ]
+  },
+  {
+   "id": "lin:newar-vajrayana",
+   "refs": 25,
+   "e.g.": [
+    "src:astasahasrika-prajnaparamita",
+    "src:gandavyuha",
+    "src:saddharmapundarika"
+   ]
+  },
+  {
+   "id": "lin:tendai",
+   "refs": 24,
+   "e.g.": [
+    "src:renwang-jing",
+    "src:saddharmapundarika",
+    "src:wuliangyi-jing"
    ]
   },
   {
@@ -141,21 +186,48 @@
    ]
   },
   {
-   "id": "dsp:number-of-pramanas",
-   "refs": 22,
+   "id": "lin:zen",
+   "refs": 23,
    "e.g.": [
-    "tea:manusmrti:12.105-106",
-    "tea:samkhya-karika:4",
-    "tea:tattvakaumudi:5/2"
+    "src:prajnaparamita-hrdaya",
+    "src:saddharmapundarika",
+    "src:vajracchedika"
    ]
   },
   {
-   "id": "lin:pramana-buddhist",
+   "id": "lin:nichiren",
    "refs": 21,
    "e.g.": [
-    "lin:kashmir-saivism",
-    "lin:nyaya",
-    "src:tattvasangraha"
+    "src:guan-puxian-jing",
+    "src:saddharmapundarika",
+    "src:wuliangyi-jing"
+   ]
+  },
+  {
+   "id": "lin:nyingma",
+   "refs": 21,
+   "e.g.": [
+    "src:bhadracaripranidhana",
+    "src:karandavyuha",
+    "src:triskandhaka-sutra"
+   ]
+  },
+  {
+   "id": "lin:kagyu",
+   "refs": 20,
+   "e.g.": [
+    "src:bhadracaripranidhana",
+    "src:karandavyuha",
+    "src:samadhiraja-sutra"
+   ]
+  },
+  {
+   "id": "lin:faxiang",
+   "refs": 19,
+   "e.g.": [
+    "src:mahaprajnaparamita-sutra",
+    "src:samdhinirmocana-sutra",
+    "src:xiyu-ji"
    ]
   },
   {
@@ -165,6 +237,33 @@
     "lin:advaita-vedanta",
     "tea:brahma-sutra:1.1.1",
     "tea:brahma-sutra:3.4.27"
+   ]
+  },
+  {
+   "id": "lin:shingon",
+   "refs": 18,
+   "e.g.": [
+    "src:adhyardhasatika-prajnaparamita",
+    "src:prajnaparamita-hrdaya",
+    "src:renwang-jing"
+   ]
+  },
+  {
+   "id": "lin:seon",
+   "refs": 16,
+   "e.g.": [
+    "src:prajnaparamita-hrdaya",
+    "src:vajracchedika",
+    "src:vimalakirtinirdesa"
+   ]
+  },
+  {
+   "id": "pth:ten-bhumis",
+   "refs": 16,
+   "e.g.": [
+    "lin:madhyamaka",
+    "lin:mahayana",
+    "lin:yogacara"
    ]
   },
   {
@@ -186,6 +285,33 @@
    ]
   },
   {
+   "id": "lin:mahasiddha",
+   "refs": 15,
+   "e.g.": [
+    "src:amrtasiddhi",
+    "src:tattvaratnavali",
+    "src:varnaratnakara"
+   ]
+  },
+  {
+   "id": "lin:haridasa-karnataka",
+   "refs": 14,
+   "e.g.": [
+    "lin:dvaita",
+    "lin:sangita",
+    "src:harikathamrtasara"
+   ]
+  },
+  {
+   "id": "lin:kadam",
+   "refs": 14,
+   "e.g.": [
+    "src:akasagarbha-sutra",
+    "src:satyadvayavatara",
+    "src:triskandhaka-sutra"
+   ]
+  },
+  {
    "id": "pth:saiva-siddhanta-four-padas",
    "refs": 14,
    "e.g.": [
@@ -195,30 +321,39 @@
    ]
   },
   {
-   "id": "trm:nibbana",
+   "id": "pth:three-trainings",
    "refs": 14,
    "e.g.": [
-    "ult:early-buddhism",
-    "ult:mahavihara",
-    "ult:theravada"
+    "lin:early-buddhism",
+    "lin:theravada",
+    "tea:samannaphala-sutta:43-63"
    ]
   },
   {
-   "id": "lin:mahasiddha",
+   "id": "pth:five-paths",
    "refs": 13,
    "e.g.": [
-    "lin:natha",
-    "src:amrtasiddhi",
-    "src:varnaratnakara"
+    "lin:madhyamaka",
+    "lin:mahayana",
+    "lin:yogacara"
    ]
   },
   {
-   "id": "tch:sudharman",
+   "id": "dsp:madhyamaka-nihilism-charge",
    "refs": 13,
    "e.g.": [
-    "src:acaranga-sutra",
-    "src:sthananga",
-    "src:sutrakrtanga"
+    "tea:mulamadhyamakakarika:17.20",
+    "tea:mulamadhyamakakarika:24.1-6",
+    "tea:mulamadhyamakakarika:24.7"
+   ]
+  },
+  {
+   "id": "src:kathavatthu / src:pancappakarana-atthakatha",
+   "refs": 13,
+   "e.g.": [
+    "dsp:kv-arahant-falling-away",
+    "dsp:kv-puggala",
+    "dsp:kv-sabbam-atthi"
    ]
   },
   {
@@ -231,6 +366,15 @@
    ]
   },
   {
+   "id": "lin:jonang",
+   "refs": 12,
+   "e.g.": [
+    "src:gyagar-chojung-taranatha",
+    "src:samdhinirmocana-sutra",
+    "src:tathagatagarbha-sutra"
+   ]
+  },
+  {
    "id": "pth:hatha-four-stages",
    "refs": 12,
    "e.g.": [
@@ -240,21 +384,48 @@
    ]
   },
   {
-   "id": "lin:vajrayana",
-   "refs": 10,
+   "id": "pth:haribhadra-eight-drstis",
+   "refs": 12,
    "e.g.": [
-    "lin:kapalika",
-    "src:amrtasiddhi",
-    "src:amrtasiddhimula"
+    "lin:jainism",
+    "tea:yogadrstisamuccaya:13",
+    "tea:yogadrstisamuccaya:15"
    ]
   },
   {
-   "id": "tch:bhadrabahu",
+   "id": "pth:seven-purifications",
+   "refs": 12,
+   "e.g.": [
+    "lin:early-buddhism",
+    "lin:theravada",
+    "tea:rathavinita-sutta:9-15"
+   ]
+  },
+  {
+   "id": "dsp:buddha-nature-self-or-emptiness",
+   "refs": 12,
+   "e.g.": [
+    "tea:aksayamatinirdesa:nitartha",
+    "tea:lankavatara-sutra:2.p33",
+    "tea:surangama-sutra:2"
+   ]
+  },
+  {
+   "id": "pth:jain-fourteen-gunasthanas",
+   "refs": 11,
+   "e.g.": [
+    "lin:adhyatma-jain",
+    "lin:jainism",
+    "tea:satkhandagama:1.1.4"
+   ]
+  },
+  {
+   "id": "lin:sakya",
    "refs": 10,
    "e.g.": [
-    "src:brhatkalpa-sutra",
-    "src:dasasrutaskandha",
-    "src:vyavahara-sutra"
+    "lin:madhyamaka",
+    "src:ratnagotravibhaga",
+    "src:tshad-ma-rigs-gter"
    ]
   },
   {
@@ -267,6 +438,24 @@
    ]
   },
   {
+   "id": "pth:yogacara-entry-into-mind-only",
+   "refs": 10,
+   "e.g.": [
+    "lin:yogacara",
+    "tea:trimsika:26-27",
+    "tea:trimsika:28"
+   ]
+  },
+  {
+   "id": "dsp:can-all-beings-attain-buddhahood",
+   "refs": 10,
+   "e.g.": [
+    "tea:lankavatara-sutra:2.p27",
+    "tea:lankavatara-sutra:2.p28",
+    "tea:saddharmapundarika:2/2"
+   ]
+  },
+  {
    "id": "lin:ganapatya",
    "refs": 9,
    "e.g.": [
@@ -276,66 +465,66 @@
    ]
   },
   {
-   "id": "pth:gradual-training",
+   "id": "pth:four-stages-of-awakening",
    "refs": 9,
    "e.g.": [
     "lin:early-buddhism",
-    "tea:samannaphala-sutta:40-42",
-    "tea:samannaphala-sutta:43-63"
+    "lin:theravada",
+    "tea:samannaphala-sutta:97-98"
    ]
   },
   {
-   "id": "dsp:astrology-for-renunciants",
+   "id": "trm:paramartha-satya",
    "refs": 9,
    "e.g.": [
-    "tea:brhat-parasara-hora-sastra:2.11-13",
-    "tea:brhat-samhita:2.6-8",
-    "tea:manusmrti:6.50"
+    "tea:mulamadhyamakakarika:24.10",
+    "tea:mulamadhyamakakarika:24.8",
+    "tea:prajnapradipa:1.1/2"
    ]
   },
   {
-   "id": "src:pramanavarttika",
-   "refs": 9,
-   "e.g.": [
-    "dsp:are-things-momentary",
-    "dsp:is-mind-self-luminous",
-    "dsp:object-independent-of-mind"
-   ]
-  },
-  {
-   "id": "dsp:santa-rasa",
+   "id": "lin:smarta",
    "refs": 8,
    "e.g.": [
-    "tea:abhinavabharati:6.santa",
-    "tea:natyasastra:6.15-16",
-    "tea:natyasastra:6.82-santa"
+    "lin:sakta",
+    "src:vidyapati-padavali",
+    "tch:vidyapati"
    ]
   },
   {
-   "id": "cpt:rasa-sutra",
+   "id": "lin:sanlun",
    "refs": 8,
    "e.g.": [
-    "tea:abhinavabharati:6.rasasutra.lollata",
-    "tea:natyasastra:6.31-prose",
-    "tea:natyasastra:6.32-33"
+    "src:shiermen-lun",
+    "src:vimalakirtinirdesa",
+    "src:zhong-lun"
    ]
   },
   {
-   "id": "lin:haridasa-karnataka",
-   "refs": 7,
+   "id": "trm:alaya-vijnana",
+   "refs": 8,
    "e.g.": [
-    "lin:dvaita",
-    "lin:sangita",
-    "src:harikathamrtasara"
+    "tea:samdhinirmocana-sutra:5",
+    "tea:trimsika:2",
+    "tea:trimsika:3-4"
    ]
   },
   {
-   "id": "lin:mahayana",
-   "refs": 7,
+   "id": "cpt:sunyata",
+   "refs": 8,
    "e.g.": [
-    "lin:early-buddhism",
-    "prc:abhaya-varada-mudras",
-    "src:da-tang-xiyu-ji"
+    "tea:mulamadhyamakakarika:13.1-2",
+    "tea:mulamadhyamakakarika:18.9",
+    "tea:mulamadhyamakakarika:7.16"
+   ]
+  },
+  {
+   "id": "prc:entry-into-cognition-only",
+   "refs": 8,
+   "e.g.": [
+    "tea:trimsika:26-27",
+    "tea:trimsika:28",
+    "tea:trisvabhavanirdesa:36-38"
    ]
   },
   {
@@ -345,6 +534,24 @@
     "lin:natha",
     "src:gopicand-bharthari-gatha",
     "tch:bhartrhari-natha"
+   ]
+  },
+  {
+   "id": "lin:jodo-shu",
+   "refs": 7,
+   "e.g.": [
+    "src:amitayurdhyana-sutra",
+    "src:sukhavativyuha-larger",
+    "src:sukhavativyuha-smaller"
+   ]
+  },
+  {
+   "id": "lin:jodo-shinshu",
+   "refs": 7,
+   "e.g.": [
+    "src:amitayurdhyana-sutra",
+    "src:sukhavativyuha-larger",
+    "src:sukhavativyuha-smaller"
    ]
   },
   {
@@ -366,39 +573,66 @@
    ]
   },
   {
-   "id": "tch:gotama-buddha",
+   "id": "pth:jhana-formless-cessation",
    "refs": 7,
    "e.g.": [
     "lin:early-buddhism",
     "lin:theravada",
-    "tea:brahmajala-sutta:1.21-27"
+    "tea:samannaphala-sutta:75-82"
    ]
   },
   {
-   "id": "lin:yogacara",
+   "id": "pth:sixteen-insight-knowledges",
    "refs": 7,
    "e.g.": [
-    "dsp:external-objects",
-    "dsp:object-independent-of-mind",
-    "tch:paramartha"
+    "lin:theravada",
+    "tea:visuddhimagga:21",
+    "tea:visuddhimagga:21/3"
    ]
   },
   {
-   "id": "cpt:jyotisa-ultimate",
+   "id": "dsp:sudden-or-gradual",
    "refs": 7,
    "e.g.": [
-    "tea:aryabhatiya:1.1",
-    "tea:surya-siddhanta:1.1",
-    "tea:surya-siddhanta:12.12-21"
+    "tea:astavakra-gita:1.14-15",
+    "tea:avatamsaka-sutra:16",
+    "tea:varaha-upanisad:4.34-42"
    ]
   },
   {
-   "id": "cpt:jyotisa-transmission",
+   "id": "cpt:alaya-vijnana",
    "refs": 7,
    "e.g.": [
-    "tea:aryabhatiya:4.50",
-    "tea:brhat-jataka:28.9-10",
-    "tea:surya-siddhanta:12.1-11"
+    "tea:samdhinirmocana-sutra:5",
+    "tea:trimsika:2",
+    "tea:trimsika:3-4"
+   ]
+  },
+  {
+   "id": "cpt:catuskoti",
+   "refs": 7,
+   "e.g.": [
+    "tea:mulamadhyamakakarika:1.1",
+    "tea:mulamadhyamakakarika:18.8",
+    "tea:mulamadhyamakakarika:5.7"
+   ]
+  },
+  {
+   "id": "cpt:language-and-emptiness",
+   "refs": 7,
+   "e.g.": [
+    "tea:mulamadhyamakakarika:18.7",
+    "tea:mulamadhyamakakarika:22.11",
+    "tea:mulamadhyamakakarika:24.10"
+   ]
+  },
+  {
+   "id": "cpt:asraya-paravrtti",
+   "refs": 7,
+   "e.g.": [
+    "tea:mahayanasutralamkara:14.29-30",
+    "tea:mahayanasutralamkara:9.67-76",
+    "tea:trimsika:29-30"
    ]
   },
   {
@@ -411,15 +645,6 @@
    ]
   },
   {
-   "id": "pth:caraka-moksa-path",
-   "refs": 6,
-   "e.g.": [
-    "lin:ayurveda",
-    "tea:caraka-samhita:sa.1.143-147",
-    "tea:caraka-samhita:sa.1.150-151"
-   ]
-  },
-  {
    "id": "prc:viparitakarani",
    "refs": 6,
    "e.g.": [
@@ -429,57 +654,66 @@
    ]
   },
   {
-   "id": "cpt:bhava-theory",
+   "id": "trm:nihsvabhavata",
    "refs": 6,
    "e.g.": [
-    "tea:natyasastra:6.17",
-    "tea:natyasastra:6.18-21",
-    "tea:natyasastra:6.22"
+    "tea:mulamadhyamakakarika:1.10",
+    "tea:mulamadhyamakakarika:17.21",
+    "tea:samdhinirmocana-sutra:7"
    ]
   },
   {
-   "id": "dsp:how-rasa-arises",
+   "id": "dsp:prasangika-svatantrika",
    "refs": 6,
    "e.g.": [
-    "tea:abhinavabharati:6.rasasutra.lollata",
-    "tea:abhinavabharati:6.rasasutra.sankuka",
-    "tea:natyasastra:6.31-prose"
+    "tea:buddhapalita-vrtti:1.1",
+    "tea:catuhsataka:16.25",
+    "tea:mulamadhyamakakarika:1.1"
    ]
   },
   {
-   "id": "dsp:eclipse-cause",
+   "id": "cpt:no-thesis",
    "refs": 6,
    "e.g.": [
-    "tea:aryabhatiya:4.37",
-    "tea:mahabharata:1.17",
-    "tea:rgveda:5.40.5-9"
+    "tea:mulamadhyamakakarika:4.8-9",
+    "tea:vigrahavyavartani:29",
+    "tea:vigrahavyavartani:30"
    ]
   },
   {
-   "id": "cpt:eclipse-doctrine",
+   "id": "cpt:karma-without-svabhava",
    "refs": 6,
    "e.g.": [
-    "tea:aryabhatiya:4.37",
-    "tea:mahabharata:1.17",
-    "tea:rgveda:5.40.5-9"
+    "tea:mulamadhyamakakarika:17.2-3",
+    "tea:mulamadhyamakakarika:17.21",
+    "tea:mulamadhyamakakarika:8.12"
    ]
   },
   {
-   "id": "dsp:grahas-cause-or-sign",
+   "id": "cpt:self-as-dependent-designation",
    "refs": 6,
    "e.g.": [
-    "tea:brhat-jataka:1.3",
-    "tea:brhat-parasara-hora-sastra:2.3",
-    "tea:laghu-jataka:1.3"
+    "tea:mulamadhyamakakarika:10.15-16",
+    "tea:mulamadhyamakakarika:18.1",
+    "tea:mulamadhyamakakarika:9.3-5"
    ]
   },
   {
-   "id": "dsp:caste-and-purity",
+   "id": "cpt:samsara-nirvana-nondifference",
    "refs": 6,
    "e.g.": [
-    "tea:agganna-sutta:3-9",
-    "tea:ambattha-sutta:2.1-2.2",
-    "tea:sonadanda-sutta:21-23"
+    "tea:mulamadhyamakakarika:16.10",
+    "tea:mulamadhyamakakarika:22.16",
+    "tea:mulamadhyamakakarika:25.9"
+   ]
+  },
+  {
+   "id": "cpt:nirvana-in-madhyamaka",
+   "refs": 6,
+   "e.g.": [
+    "tea:mulamadhyamakakarika:25.3",
+    "tea:mulamadhyamakakarika:25.4-8",
+    "tea:mulamadhyamakakarika:25.9"
    ]
   },
   {
@@ -492,138 +726,75 @@
    ]
   },
   {
-   "id": "lin:smarta",
+   "id": "dsp:one-vehicle-or-three",
    "refs": 5,
    "e.g.": [
-    "lin:sakta",
-    "src:vidyapati-padavali",
-    "tch:vidyapati"
+    "tea:saddharmapundarika:2/2",
+    "tea:saddharmapundarika:3",
+    "tea:saddharmapundarika:7"
    ]
   },
   {
-   "id": "tch:haribhadra",
+   "id": "prc:samatha-yogacara",
    "refs": 5,
    "e.g.": [
-    "lin:jainism",
-    "src:avasyaka-vrtti-haribhadra",
-    "src:lalitavistara-haribhadra"
+    "tea:madhyantavibhaga:4.3-5",
+    "tea:mahayanasutralamkara:14.8-14",
+    "tea:samdhinirmocana-sutra:8"
    ]
   },
   {
-   "id": "lin:sramana",
+   "id": "cpt:vijnaptimatrata",
    "refs": 5,
    "e.g.": [
-    "lin:early-buddhism",
-    "lin:jainism",
-    "src:samannaphala-sutta"
+    "tea:samdhinirmocana-sutra:8",
+    "tea:trimsika:17",
+    "tea:trimsika:25"
    ]
   },
   {
-   "id": "lin:madhyamaka",
+   "id": "cpt:illusion-similes",
    "refs": 5,
    "e.g.": [
-    "dsp:establishment-of-pramanas",
-    "dsp:own-nature-of-things",
-    "lin:advaita-vedanta"
+    "tea:mulamadhyamakakarika:17.31-33",
+    "tea:mulamadhyamakakarika:23.8",
+    "tea:mulamadhyamakakarika:7.34"
    ]
   },
   {
-   "id": "lin:newar-vajrayana",
+   "id": "cpt:emptiness-of-emptiness",
    "refs": 5,
    "e.g.": [
-    "lin:kubjika",
-    "lin:natha",
-    "tch:matsyendranatha"
+    "tea:mulamadhyamakakarika:13.7",
+    "tea:mulamadhyamakakarika:13.8",
+    "tea:mulamadhyamakakarika:22.11"
    ]
   },
   {
-   "id": "pth:vyakarana-sabdapurva-yoga",
+   "id": "trm:samvrti-satya",
    "refs": 5,
    "e.g.": [
-    "lin:vyakarana",
-    "tea:vakyapadiya:1.14",
-    "tea:vakyapadiya:1.16"
+    "tea:madhyamakavatara:6.23",
+    "tea:mulamadhyamakakarika:24.8",
+    "tea:prasannapada:24.8"
    ]
   },
   {
-   "id": "pth:jhana-formless-cessation",
+   "id": "cpt:three-bodies-yogacara",
    "refs": 5,
    "e.g.": [
-    "lin:early-buddhism",
-    "lin:theravada",
-    "tea:samannaphala-sutta:75-82"
+    "tea:mahayanasutralamkara:9.59-61",
+    "tea:trimsika:29-30",
+    "tea:trisvabhavanirdesa:36-38"
    ]
   },
   {
-   "id": "dsp:is-bodily-immortality-required-for-liberation",
+   "id": "cpt:gotra-theory",
    "refs": 5,
    "e.g.": [
-    "tea:rasahrdayatantra:1.15-19",
-    "tea:rasarnava:1.9-13",
-    "tea:sarvadarsanasangraha:rasesvara.1-5"
-   ]
-  },
-  {
-   "id": "cpt:nine-rasas",
-   "refs": 5,
-   "e.g.": [
-    "tea:natyasastra:6.15-16",
-    "tea:natyasastra:6.39-41",
-    "tea:natyasastra:6.82-santa"
-   ]
-  },
-  {
-   "id": "cpt:santa-rasa",
-   "refs": 5,
-   "e.g.": [
-    "tea:abhinavabharati:6.santa",
-    "tea:dhvanyaloka:3.26-vrtti",
-    "tea:natyasastra:6.82-santa"
-   ]
-  },
-  {
-   "id": "cpt:schools-of-poetics",
-   "refs": 5,
-   "e.g.": [
-    "tea:kavyalankara-bhamaha:1.16",
-    "tea:kavyalankara-sutra:1.2.6-7",
-    "tea:vakroktijivita:1.7"
-   ]
-  },
-  {
-   "id": "cpt:yuga-system-jyotisa",
-   "refs": 5,
-   "e.g.": [
-    "tea:aryabhatiya:1.5",
-    "tea:surya-siddhanta:1.15-21",
-    "tea:surya-siddhanta:1.22-24"
-   ]
-  },
-  {
-   "id": "cpt:remedial-measures",
-   "refs": 5,
-   "e.g.": [
-    "tea:brhat-parasara-hora-sastra:83.1-6",
-    "tea:brhat-parasara-hora-sastra:84.1-3",
-    "tea:yogayatra:1.5-6"
-   ]
-  },
-  {
-   "id": "cpt:daivajna-qualifications",
-   "refs": 5,
-   "e.g.": [
-    "tea:brhat-samhita:2.11-13",
-    "tea:brhat-samhita:2.4",
-    "tea:brhat-samhita:2.6-8"
-   ]
-  },
-  {
-   "id": "src:pramanasamuccaya",
-   "refs": 5,
-   "e.g.": [
-    "dsp:is-mind-self-luminous",
-    "dsp:members-of-inference",
-    "dsp:reality-of-universals"
+    "tea:mahayanasutralamkara:3.1-11",
+    "tea:mahayanasutralamkara:9.37",
+    "tea:sravakabhumi:1.gotra"
    ]
   },
   {
@@ -636,15 +807,6 @@
    ]
   },
   {
-   "id": "tch:silanka",
-   "refs": 4,
-   "e.g.": [
-    "src:acaranga-tika-silanka",
-    "src:cauppannamahapurisacariya",
-    "src:sutrakrtanga-tika-silanka"
-   ]
-  },
-  {
    "id": "pth:dattatreya-four-yogas",
    "refs": 4,
    "e.g.": [
@@ -654,201 +816,111 @@
    ]
   },
   {
-   "id": "tch:mahavira",
+   "id": "pth:bhavanakrama-stages",
    "refs": 4,
    "e.g.": [
-    "lin:jainism",
-    "tea:samannaphala-sutta:16-32",
-    "tea:uttaradhyayana-sutra:15.7"
+    "lin:madhyamaka",
+    "lin:svatantrika",
+    "lin:yogacara-madhyamaka"
    ]
   },
   {
-   "id": "src:tattvartha-sutra",
+   "id": "pth:nine-stages-calm-abiding",
    "refs": 4,
    "e.g.": [
-    "dsp:nature-of-liberation",
-    "lin:jainism",
-    "tea:tattvartha-sutra:4.12-15"
+    "lin:yogacara",
+    "tea:madhyantavibhaga:4.3-5",
+    "tea:mahayanasutralamkara:14.8-14"
    ]
   },
   {
-   "id": "lin:sarvastivada",
+   "id": "dsp:mahayana-buddhavacana",
    "refs": 4,
    "e.g.": [
-    "brw:sarvastivada-yoga-time-and-transformation",
-    "lin:early-buddhism",
-    "tch:buddhamitra"
+    "tea:astasahasrika-prajnaparamita:7",
+    "tea:lankavatara-sutra:2.p28",
+    "tea:mahayanasutralamkara:1.7"
    ]
   },
   {
-   "id": "pth:four-stages-of-awakening",
+   "id": "dsp:permanence-of-the-tathagata",
    "refs": 4,
    "e.g.": [
-    "lin:early-buddhism",
-    "lin:theravada",
-    "tea:samannaphala-sutta:97-98"
+    "tea:saddharmapundarika:16",
+    "tea:suvarnaprabhasa:2",
+    "tea:vimalakirtinirdesa:3.44"
    ]
   },
   {
-   "id": "dsp:is-there-rebirth-caraka",
+   "id": "dsp:yogacara-madhyamaka",
    "refs": 4,
    "e.g.": [
-    "tea:caraka-samhita:su.11.6",
-    "tea:caraka-samhita:su.11.7-8",
-    "tea:caraka-samhita:su.11.9-16"
+    "tea:madhyantavibhaga:1.2",
+    "tea:samdhinirmocana-sutra:7",
+    "tea:trimsika:23-24"
    ]
   },
   {
-   "id": "dsp:is-the-ultimate-speech",
+   "id": "cpt:madhyamaka-critique-of-abhidharma",
    "refs": 4,
    "e.g.": [
-    "tea:tattvasangraha:sabdabrahmapariksa",
-    "tea:vakyapadiya:1.1",
-    "tea:vakyapadiya:1.123"
+    "tea:mulamadhyamakakarika:1.10",
+    "tea:mulamadhyamakakarika:1.2",
+    "tea:mulamadhyamakakarika:2.1"
    ]
   },
   {
-   "id": "cpt:sruti-svara-grama",
+   "id": "cpt:graded-teaching",
    "refs": 4,
    "e.g.": [
-    "tea:natyasastra:28",
-    "tea:sangita-ratnakara:1.3.11-22",
-    "tea:sangita-ratnakara:1.3.7-10"
+    "tea:mulamadhyamakakarika:18.6",
+    "tea:mulamadhyamakakarika:18.8",
+    "tea:ratnavali:4.94-96"
    ]
   },
   {
-   "id": "cpt:rasa-as-relish-of-consciousness",
+   "id": "cpt:upadaya-prajnapti",
    "refs": 4,
    "e.g.": [
-    "tea:abhinavabharati:6.rasasutra.abhinavagupta",
-    "tea:dhvanyaloka-locana:1.5",
-    "tea:sahityadarpana:3.2-3"
+    "tea:mulamadhyamakakarika:22.8",
+    "tea:mulamadhyamakakarika:24.18",
+    "tea:prasannapada:24.18"
    ]
   },
   {
-   "id": "cpt:dhvani-theory",
+   "id": "cpt:twelve-links-in-madhyamaka",
    "refs": 4,
    "e.g.": [
-    "tea:dhvanyaloka:1.1",
-    "tea:dhvanyaloka:1.4",
-    "tea:dhvanyaloka:1.5"
+    "tea:mulamadhyamakakarika:26.1-9",
+    "tea:mulamadhyamakakarika:26.10",
+    "tea:mulamadhyamakakarika:26.11-12"
    ]
   },
   {
-   "id": "dsp:dhvani-vyanjana",
+   "id": "dsp:can-emptiness-be-asserted",
    "refs": 4,
    "e.g.": [
-    "tea:dhvanyaloka:1.1",
-    "tea:dhvanyaloka:1.13",
-    "tea:dhvanyaloka:1.4"
+    "tea:vigrahavyavartani:1",
+    "tea:vigrahavyavartani:22",
+    "tea:vigrahavyavartani:23"
    ]
   },
   {
-   "id": "dsp:one-rasa-or-many",
+   "id": "dsp:madhyamaka-yogacara",
    "refs": 4,
    "e.g.": [
-    "tea:sahityadarpana:3.3-vrtti",
-    "tea:sarasvatikanthabharana-alankara:5.1",
-    "tea:uttararamacarita:3.47"
+    "tea:bodhicaryavatara:9.15-17",
+    "tea:madhyamakahrdaya:5",
+    "tea:madhyamakavatara:6.45-97"
    ]
   },
   {
-   "id": "cpt:twenty-seven-naksatras",
+   "id": "cpt:bodhicitta",
    "refs": 4,
    "e.g.": [
-    "tea:brhat-samhita:97.4-9",
-    "tea:surya-siddhanta:12.22-28",
-    "tea:vedanga-jyotisa:r.25-28"
-   ]
-  },
-  {
-   "id": "cpt:siddhantic-cosmography",
-   "refs": 4,
-   "e.g.": [
-    "tea:siddhanta-siromani:gola.bhuvanakosa.2",
-    "tea:siddhanta-siromani:gola.bhuvanakosa.6",
-    "tea:surya-siddhanta:12.29-36"
-   ]
-  },
-  {
-   "id": "cpt:horoscope-reveals-karma",
-   "refs": 4,
-   "e.g.": [
-    "tea:brhat-jataka:1.3",
-    "tea:brhat-parasara-hora-sastra:2.3",
-    "tea:laghu-jataka:1.3"
-   ]
-  },
-  {
-   "id": "cpt:graha-avatara",
-   "refs": 4,
-   "e.g.": [
-    "tea:brhat-parasara-hora-sastra:2.1-2",
-    "tea:brhat-parasara-hora-sastra:2.3",
-    "tea:brhat-parasara-hora-sastra:2.4-7"
-   ]
-  },
-  {
-   "id": "cpt:daiva-and-purusakara-jyotisa",
-   "refs": 4,
-   "e.g.": [
-    "tea:brhat-samhita:103.59-60",
-    "tea:yogayatra:1.3-4",
-    "tea:yogayatra:1.5-6"
-   ]
-  },
-  {
-   "id": "dsp:jyotisa-fate-and-effort",
-   "refs": 4,
-   "e.g.": [
-    "tea:yajnavalkyasmrti:1.349-351",
-    "tea:yogayatra:1.3-4",
-    "tea:yogayatra:1.5-6"
-   ]
-  },
-  {
-   "id": "cpt:dependent-origination",
-   "refs": 4,
-   "e.g.": [
-    "tea:brahmajala-sutta:3.44-3.71",
-    "tea:mahanidana-sutta:1.4-1.8",
-    "tea:mahapadana-sutta:2.18-2.22"
-   ]
-  },
-  {
-   "id": "prc:satipatthana",
-   "refs": 4,
-   "e.g.": [
-    "tea:cakkavattisihanada-sutta:1",
-    "tea:mahaparinibbana-sutta:2.25-2.26",
-    "tea:mahasatipatthana-sutta:22"
-   ]
-  },
-  {
-   "id": "trm:asankhata",
-   "refs": 4,
-   "e.g.": [
-    "ult:early-buddhism",
-    "ult:mahavihara",
-    "ult:theravada"
-   ]
-  },
-  {
-   "id": "lin:carvaka",
-   "refs": 4,
-   "e.g.": [
-    "dsp:consciousness-from-elements",
-    "dsp:jabali-rama",
-    "dsp:which-purusartha-is-foremost"
-   ]
-  },
-  {
-   "id": "src:vimsatika",
-   "refs": 4,
-   "e.g.": [
-    "dsp:atomism",
-    "dsp:external-objects",
-    "dsp:object-independent-of-mind"
+    "tea:bodhicaryavatara:1.10",
+    "tea:bodhicaryavatara:10.55-56",
+    "tea:madhyamakavatara:1.1"
    ]
   },
   {
@@ -861,38 +933,21 @@
    ]
   },
   {
-   "id": "tch:santaraksita",
+   "id": "lin:hwaeom",
    "refs": 3,
    "e.g.": [
-    "dsp:omniscience",
-    "src:tattvasangraha",
-    "tea:tattvasangraha:sabdabrahmapariksa"
+    "src:avatamsaka-sutra",
+    "src:gandavyuha",
+    "src:vajrasamadhi-sutra"
    ]
   },
   {
-   "id": "tch:jinabhadra",
+   "id": "lin:rime",
    "refs": 3,
    "e.g.": [
-    "lin:svetambara",
-    "src:jitakalpa-sutra",
-    "src:visesavasyaka-bhasya"
-   ]
-  },
-  {
-   "id": "tch:abhayadeva",
-   "refs": 3,
-   "e.g.": [
-    "lin:kharatara-gaccha",
-    "lin:svetambara",
-    "src:navangi-vrtti-abhayadeva"
-   ]
-  },
-  {
-   "id": "tch:acarya-bhiksu",
-   "refs": 3,
-   "e.g.": [
-    "lin:terapanthi",
-    "src:bhiksu-granth-ratnakar"
+    "src:ratnagotravibhaga",
+    "src:sugatagarbha-lions-roar-mipham",
+    "src:uttaratantra-commentary-kongtrul"
    ]
   },
   {
@@ -923,339 +978,353 @@
    ]
   },
   {
-   "id": "lin:adhyatma-jain",
+   "id": "pth:ratnavali-two-goods",
    "refs": 3,
    "e.g.": [
-    "lin:digambara",
-    "lin:jainism"
+    "lin:madhyamaka",
+    "tea:ratnavali:1.3-4",
+    "tea:ratnavali:1.5"
    ]
   },
   {
-   "id": "tch:kundakunda",
+   "id": "dsp:rangtong-shentong",
    "refs": 3,
    "e.g.": [
-    "lin:digambara",
-    "lin:jainism",
-    "lin:tamil-jain"
+    "tea:lankavatara-sutra:2.p33",
+    "tea:ratnagotravibhaga:1.154-155",
+    "tea:srimaladevi-sutra:9"
    ]
   },
   {
-   "id": "tch:yasovijaya",
+   "id": "dsp:is-meat-eating-permitted",
    "refs": 3,
    "e.g.": [
-    "lin:murtipujaka",
-    "lin:svetambara",
-    "lin:tapa-gaccha"
+    "tea:fanwang-jing:major-precepts",
+    "tea:lankavatara-sutra:8",
+    "tea:mahaparinirvana-sutra-mahayana:4"
    ]
   },
   {
-   "id": "tch:jinesvara-suri",
+   "id": "dsp:which-turning-is-definitive",
    "refs": 3,
    "e.g.": [
-    "lin:kharatara-gaccha",
-    "lin:murtipujaka"
+    "tea:aksayamatinirdesa:nitartha",
+    "tea:ratnagotravibhaga:1.156-157",
+    "tea:samdhinirmocana-sutra:7/2"
    ]
   },
   {
-   "id": "tch:jagaccandra-suri",
+   "id": "prc:vipasyana-yogacara",
    "refs": 3,
    "e.g.": [
-    "lin:murtipujaka",
-    "lin:tapa-gaccha"
+    "tea:mahayanasutralamkara:14.8-14",
+    "tea:samdhinirmocana-sutra:8",
+    "tea:sravakabhumi:3.four-vipasyana"
    ]
   },
   {
-   "id": "tch:lonka-sah",
+   "id": "trm:catuskoti",
    "refs": 3,
    "e.g.": [
-    "lin:lonka-gaccha",
-    "lin:sthanakavasi"
+    "tea:mulamadhyamakakarika:1.1",
+    "tea:mulamadhyamakakarika:22.11",
+    "tea:mulamadhyamakakarika:25.17-18"
    ]
   },
   {
-   "id": "lin:mahasanghika",
+   "id": "cpt:non-arising-four-alternatives",
    "refs": 3,
    "e.g.": [
-    "lin:andhaka",
-    "lin:early-buddhism"
+    "tea:buddhapalita-vrtti:1.1",
+    "tea:madhyamakavatara:6.8",
+    "tea:mulamadhyamakakarika:1.1"
    ]
   },
   {
-   "id": "pth:three-trainings",
+   "id": "cpt:identity-difference-analysis",
    "refs": 3,
    "e.g.": [
-    "lin:early-buddhism",
-    "lin:theravada",
-    "tea:samannaphala-sutta:43-63"
+    "tea:mulamadhyamakakarika:10.1",
+    "tea:mulamadhyamakakarika:18.1",
+    "tea:mulamadhyamakakarika:2.18-21"
    ]
   },
   {
-   "id": "dsp:origin-of-person-and-disease",
+   "id": "obs:eternalism-annihilationism",
    "refs": 3,
    "e.g.": [
-    "tea:caraka-samhita:su.25.26-29",
-    "tea:caraka-samhita:su.25.5-25",
-    "tea:susruta-samhita:sa.1.10-11"
+    "tea:mulamadhyamakakarika:15.10",
+    "tea:mulamadhyamakakarika:21.14",
+    "tea:mulamadhyamakakarika:5.8"
    ]
   },
   {
-   "id": "dsp:is-lifespan-fixed",
+   "id": "trm:prajnapti",
    "refs": 3,
    "e.g.": [
-    "tea:caraka-samhita:sa.6.28",
-    "tea:caraka-samhita:vi.3.29-36",
-    "tea:caraka-samhita:vi.3.38"
+    "tea:mulamadhyamakakarika:22.11",
+    "tea:mulamadhyamakakarika:22.8",
+    "tea:mulamadhyamakakarika:9.3-5"
    ]
   },
   {
-   "id": "cpt:sentence-as-unit",
+   "id": "cpt:emptiness-not-a-view",
    "refs": 3,
    "e.g.": [
-    "tea:vaiyakarana-bhusana-sara:sphotanirnaya",
-    "tea:vakyapadiya:1.73",
-    "tea:vakyapadiya:2.1-2"
+    "tea:mulamadhyamakakarika:13.8",
+    "tea:mulamadhyamakakarika:27.30",
+    "tea:prasannapada:13.8"
    ]
   },
   {
-   "id": "cpt:word-permeated-cognition",
+   "id": "obs:sunyata-drsti",
    "refs": 3,
    "e.g.": [
-    "tea:vakyapadiya:1.123",
-    "tea:vakyapadiya:1.124",
-    "tea:vakyapadiya:1/4"
+    "tea:mulamadhyamakakarika:13.8",
+    "tea:mulamadhyamakakarika:24.11",
+    "tea:prasannapada:13.8"
    ]
   },
   {
-   "id": "cpt:jati-dravya",
+   "id": "trm:sasvatavada",
    "refs": 3,
    "e.g.": [
-    "tea:mahabhasya:1.2.64",
-    "tea:vakyapadiya:3.1",
-    "tea:vakyapadiya:3.2"
+    "tea:mulamadhyamakakarika:15.10",
+    "tea:mulamadhyamakakarika:15.11",
+    "tea:mulamadhyamakakarika:21.14"
    ]
   },
   {
-   "id": "dsp:jati-or-vyakti",
+   "id": "cpt:fivefold-analysis",
    "refs": 3,
    "e.g.": [
-    "tea:mahabhasya:1.2.64",
-    "tea:vakyapadiya:3.1",
-    "tea:vakyapadiya:3.2"
+    "tea:mulamadhyamakakarika:16.2",
+    "tea:mulamadhyamakakarika:22.1",
+    "tea:mulamadhyamakakarika:22.8"
    ]
   },
   {
-   "id": "cpt:natya-as-fifth-veda",
+   "id": "cpt:avipranasa",
    "refs": 3,
    "e.g.": [
-    "tea:natyasastra:1.11-12",
-    "tea:natyasastra:1.14-16",
-    "tea:natyasastra:1.17"
+    "tea:mulamadhyamakakarika:17.14-15",
+    "tea:mulamadhyamakakarika:17.20",
+    "tea:mulamadhyamakakarika:17.6"
    ]
   },
   {
-   "id": "cpt:sadharanikarana",
+   "id": "trm:mamakara",
    "refs": 3,
    "e.g.": [
-    "tea:abhinavabharati:6.rasasutra.abhinavagupta",
-    "tea:abhinavabharati:6.rasasutra.bhatta-nayaka",
-    "tea:abhinavabharati:6.rasasutra.vighnas"
+    "tea:mulamadhyamakakarika:18.2",
+    "tea:mulamadhyamakakarika:18.4",
+    "tea:ratnavali:1.28"
    ]
   },
   {
-   "id": "cpt:jyotisa-as-eye-of-veda",
+   "id": "obs:ahamkara-mamakara",
    "refs": 3,
    "e.g.": [
-    "tea:brhat-parasara-hora-sastra:1.6",
-    "tea:brhat-parasara-hora-sastra:2.11-13",
-    "tea:vedanga-jyotisa:r.29-30"
+    "tea:bodhicaryavatara:9.78",
+    "tea:mulamadhyamakakarika:18.2",
+    "tea:ratnavali:1.35"
    ]
   },
   {
-   "id": "cpt:jyotisa-revelation",
+   "id": "trm:prasanga",
    "refs": 3,
    "e.g.": [
-    "tea:aryabhatiya:4.49",
-    "tea:brhat-parasara-hora-sastra:1.6",
-    "tea:surya-siddhanta:1.2-9"
+    "tea:buddhapalita-vrtti:1.1",
+    "tea:prajnapradipa:1.1",
+    "tea:prasannapada:1.1"
    ]
   },
   {
-   "id": "trm:rahu",
+   "id": "trm:svatantra-anumana",
    "refs": 3,
    "e.g.": [
-    "tea:brhat-samhita:5.1-7",
-    "tea:mahabharata:1.17",
-    "tea:surya-siddhanta:2.6-8"
+    "tea:prajnapradipa:1.1",
+    "tea:prajnapradipa:1.1/2",
+    "tea:prasannapada:1.1"
    ]
   },
   {
-   "id": "cpt:sun-as-self-of-time",
+   "id": "cpt:conventional-truth-divisions",
    "refs": 3,
    "e.g.": [
-    "tea:brhat-jataka:1.1",
-    "tea:surya-siddhanta:12.12-21",
-    "tea:yogayatra:1.1"
+    "tea:madhyamakahrdaya:3.12",
+    "tea:madhyamakalamkara:64",
+    "tea:satyadvayavibhanga:8-12"
    ]
   },
   {
-   "id": "cpt:twelve-rasis",
+   "id": "trm:paryaya-paramartha",
    "refs": 3,
    "e.g.": [
-    "tea:brhat-jataka:1.4",
-    "tea:brhat-jataka:1.8",
-    "tea:surya-siddhanta:12.22-28"
+    "tea:tarkajvala:3.26",
+    "ult:svatantrika"
    ]
   },
   {
-   "id": "cpt:pravrajya-yogas",
+   "id": "cpt:madhyamaka-critique-of-vedanta",
    "refs": 3,
    "e.g.": [
-    "tea:brhat-jataka:15.1",
-    "tea:brhat-jataka:15.2-4",
-    "tea:brhat-parasara-hora-sastra:79.1-5"
+    "tea:madhyamakahrdaya:8",
+    "tea:madhyamakahrdaya:8/2",
+    "tea:tattvasangraha:atmapariksa"
    ]
   },
   {
-   "id": "cpt:moksa-in-the-chart",
+   "id": "cpt:mahakaruna",
    "refs": 3,
    "e.g.": [
-    "tea:brhat-jataka:25.15",
-    "tea:jaimini-upadesa-sutra:1.2.13",
-    "tea:jaimini-upadesa-sutra:1.2.68-69"
+    "tea:bhavanakrama:1/2",
+    "tea:madhyamakavatara:1.1",
+    "tea:madhyamakavatara:1.2"
    ]
   },
   {
-   "id": "cpt:jyotisa-three-skandhas",
+   "id": "dsp:svasamvedana",
    "refs": 3,
    "e.g.": [
-    "tea:brhat-jataka:28.6-7",
-    "tea:brhat-parasara-hora-sastra:1.1-3",
-    "tea:brhat-samhita:1.9"
+    "tea:bodhicaryavatara:9.15-17",
+    "tea:madhyamakalamkara:16-17",
+    "tea:madhyamakavatara:6.45-97"
    ]
   },
   {
-   "id": "prc:graha-santi",
+   "id": "prc:cultivating-patience",
    "refs": 3,
    "e.g.": [
-    "tea:brhat-parasara-hora-sastra:84.1-3",
-    "tea:yajnavalkyasmrti:1.295-306",
-    "tea:yajnavalkyasmrti:1.307-308"
+    "tea:bodhicaryavatara:6.1-2",
+    "tea:bodhicaryavatara:6.10",
+    "tea:bodhicaryavatara:6.21"
    ]
   },
   {
-   "id": "cpt:navagraha-correspondences",
+   "id": "cpt:equalizing-self-and-other",
    "refs": 3,
    "e.g.": [
-    "tea:brhat-parasara-hora-sastra:84.4-13",
-    "tea:brhat-samhita:79.1",
-    "tea:yajnavalkyasmrti:1.295-306"
+    "tea:bodhicaryavatara:8.90-91",
+    "tea:bodhicaryavatara:8.95-96",
+    "tea:siksasamuccaya:k1"
    ]
   },
   {
-   "id": "cpt:utpata-portents",
+   "id": "prc:analytical-meditation-on-emptiness",
    "refs": 3,
    "e.g.": [
-    "tea:brhat-samhita:45.1-3",
-    "tea:brhat-samhita:45.4-7",
-    "tea:brhat-samhita:45.8"
+    "tea:bhavanakrama:3",
+    "tea:bodhicaryavatara:9.33-35",
+    "tea:bodhicaryavatara:9.58-60"
    ]
   },
   {
-   "id": "prc:muhurta-selection",
+   "id": "trm:vijnana-parinama",
    "refs": 3,
    "e.g.": [
-    "tea:brhat-samhita:97.4-9",
-    "tea:muhurta-cintamani:1.3-4",
-    "tea:muhurta-cintamani:2.2-8"
+    "tea:trimsika:1",
+    "tea:trimsika:17",
+    "tea:trimsika:18"
    ]
   },
   {
-   "id": "trm:tanha",
+   "id": "cpt:fifty-one-mental-factors",
    "refs": 3,
    "e.g.": [
-    "tea:brahmajala-sutta:3.44-3.71",
-    "tea:mahanidana-sutta:2-22",
-    "tea:mahasatipatthana-sutta:18-21"
+    "tea:trimsika:10-14",
+    "tea:trimsika:3-4",
+    "tea:trimsika:8-9"
    ]
   },
   {
-   "id": "cpt:four-noble-truths",
+   "id": "trm:klista-manas",
    "refs": 3,
    "e.g.": [
-    "cpt:four-arthapadas",
-    "tea:mahasatipatthana-sutta:18-21",
-    "tea:samannaphala-sutta:97-98"
+    "tea:abhidharmasamuccaya:1.1.alaya",
+    "tea:trimsika:5",
+    "tea:trimsika:6-7"
    ]
   },
   {
-   "id": "cpt:noble-eightfold-path",
+   "id": "cpt:klista-manas",
    "refs": 3,
    "e.g.": [
-    "tea:kassapasihanada-sutta:13-20",
-    "tea:mahaparinibbana-sutta:5.27",
-    "tea:mahasatipatthana-sutta:18-21"
+    "tea:abhidharmasamuccaya:1.1.alaya",
+    "tea:trimsika:5",
+    "tea:trimsika:6-7"
    ]
   },
   {
-   "id": "trm:atta",
+   "id": "trm:caitasika",
    "refs": 3,
    "e.g.": [
-    "tea:mahanidana-sutta:23-32",
-    "tea:potthapada-sutta:21-31",
-    "tea:potthapada-sutta:39-53"
+    "tea:madhyantavibhaga:1.9",
+    "tea:trimsika:10-14",
+    "tea:trimsika:8-9"
    ]
   },
   {
-   "id": "trm:amata",
+   "id": "cpt:bija-vasana",
    "refs": 3,
    "e.g.": [
-    "tea:mahapadana-sutta:3.1-3.7",
-    "ult:early-buddhism",
-    "ult:mahavihara"
+    "tea:cheng-weishi-lun:2",
+    "tea:trimsika:18",
+    "tea:trimsika:19"
    ]
   },
   {
-   "id": "cpt:anatta",
+   "id": "trm:vijnaptimatrata",
    "refs": 3,
    "e.g.": [
-    "cpt:self-in-caraka",
-    "cpt:self-nyaya-vaisesika",
-    "tea:mahanidana-sutta:23-32"
+    "tea:trimsika:25",
+    "tea:trimsika:26-27",
+    "tea:vimsatika:22"
    ]
   },
   {
-   "id": "cpt:attadipa",
+   "id": "trm:abhutaparikalpa",
    "refs": 3,
    "e.g.": [
-    "tea:cakkavattisihanada-sutta:1",
-    "tea:mahaparinibbana-sutta:2.25-2.26",
-    "tea:mahaparinibbana-sutta:2.26.1"
+    "tea:madhyantavibhaga:1.2",
+    "tea:madhyantavibhaga:1.4-5",
+    "tea:trisvabhavanirdesa:6-9"
    ]
   },
   {
-   "id": "cpt:lay-ethics",
+   "id": "obs:two-obscurations",
    "refs": 3,
    "e.g.": [
-    "tea:sigalovada-sutta:27-34",
-    "tea:sigalovada-sutta:3-6",
-    "tea:sigalovada-sutta:7-14"
+    "tea:madhyantavibhaga:2.1-3",
+    "tea:madhyantavibhaga:2.17",
+    "tea:trimsikabhasya:intro"
    ]
   },
   {
-   "id": "obs:three-poisons",
+   "id": "dsp:universal-buddhahood-gotra",
    "refs": 3,
    "e.g.": [
-    "obs:kamam-vekuli-mayakkam",
-    "obs:lobha-krodha-moha",
-    "obs:three-dosas-nyaya"
+    "tea:lankavatara-sutra:2.132",
+    "tea:mahayanasutralamkara:3.1-11",
+    "tea:mahayanasutralamkara:9.37"
    ]
   },
   {
-   "id": "lin:mulasarvastivada",
-   "refs": 2,
+   "id": "trm:nirvikalpa-jnana",
+   "refs": 3,
    "e.g.": [
-    "lin:early-buddhism",
-    "src:sardulakarnavadana"
+    "tea:mahayanasamgraha:8",
+    "tea:mahayanasutralamkara:14.23-28",
+    "ult:yogacara-madhyamaka"
+   ]
+  },
+  {
+   "id": "cpt:four-immeasurables",
+   "refs": 3,
+   "e.g.": [
+    "cpt:four-attitudes",
+    "cpt:four-bhavanas-maitri",
+    "cpt:physician-ethics"
    ]
   },
   {
@@ -1267,43 +1336,35 @@
    ]
   },
   {
-   "id": "tch:aryaraksita",
+   "id": "tea:prasannapada:1.1-svatantra",
    "refs": 2,
    "e.g.": [
-    "lin:svetambara",
-    "src:anuyogadvara-sutra"
+    "src:prasannapada",
+    "ult:prasangika"
    ]
   },
   {
-   "id": "tch:sanghadasa-gani",
+   "id": "tch:jamgon-kongtrul",
    "refs": 2,
    "e.g.": [
-    "src:brhatkalpa-bhasya",
-    "src:vasudevahindi"
+    "lin:tathagatagarbha",
+    "src:uttaratantra-commentary-kongtrul"
    ]
   },
   {
-   "id": "tch:jinadasa-gani",
+   "id": "tch:mipham",
    "refs": 2,
    "e.g.": [
-    "src:avasyaka-curni",
-    "src:nisitha-curni"
+    "lin:tathagatagarbha",
+    "src:sugatagarbha-lions-roar-mipham"
    ]
   },
   {
-   "id": "tch:malayagiri",
+   "id": "tea:bhavanakrama:3-bhutapratyaveksa",
    "refs": 2,
    "e.g.": [
-    "lin:svetambara",
-    "src:prajnapana-vrtti-malayagiri"
-   ]
-  },
-  {
-   "id": "tch:vinayavijaya",
-   "refs": 2,
-   "e.g.": [
-    "lin:tapa-gaccha",
-    "src:kalpa-sutra-subodhika"
+    "src:bhavanakrama",
+    "ult:yogacara-madhyamaka"
    ]
   },
   {
@@ -1345,269 +1406,75 @@
    ]
   },
   {
-   "id": "pth:rasesvara-path",
+   "id": "lin:sowa-rigpa",
    "refs": 2,
    "e.g.": [
-    "lin:rasa-sastra",
-    "tea:sarvadarsanasangraha:rasesvara.45-48"
+    "brw:ayurveda-to-sowa-rigpa",
+    "lin:ayurveda"
    ]
   },
   {
-   "id": "tch:jambu",
+   "id": "lin:vastu-silpa",
    "refs": 2,
    "e.g.": [
-    "lin:jainism",
-    "lin:svetambara"
+    "brw:jyotisa-to-vastu",
+    "lin:jyotisa"
    ]
   },
   {
-   "id": "tch:sthulabhadra",
+   "id": "lin:kanji-swami",
    "refs": 2,
    "e.g.": [
-    "lin:jainism",
-    "lin:svetambara"
+    "lin:adhyatma-jain",
+    "lin:digambara"
    ]
   },
   {
-   "id": "tch:devarddhigani",
+   "id": "pth:madhyamakavatara-ten-grounds",
    "refs": 2,
    "e.g.": [
-    "lin:jainism",
-    "lin:svetambara"
+    "lin:madhyamaka",
+    "lin:prasangika"
    ]
   },
   {
-   "id": "src:satkhandagama",
+   "id": "pth:bodhicaryavatara-sequence",
    "refs": 2,
    "e.g.": [
-    "lin:digambara",
-    "lin:jainism"
+    "lin:madhyamaka",
+    "lin:prasangika"
    ]
   },
   {
-   "id": "src:kasayapahuda",
+   "id": "pth:catuhsataka-three-turnings",
    "refs": 2,
    "e.g.": [
-    "lin:digambara",
-    "lin:jainism"
+    "lin:madhyamaka",
+    "tea:catuhsataka:8.15"
    ]
   },
   {
-   "id": "src:samayasara",
+   "id": "pth:madhyamakalamkara-ladder",
    "refs": 2,
    "e.g.": [
-    "lin:digambara",
-    "lin:jainism"
+    "lin:yogacara-madhyamaka",
+    "tea:madhyamakalamkara:92-93"
    ]
   },
   {
-   "id": "tch:jinadatta-suri",
+   "id": "pth:cheng-weishi-lun-five-stages",
    "refs": 2,
    "e.g.": [
-    "lin:kharatara-gaccha",
-    "lin:murtipujaka"
+    "lin:yogacara",
+    "tea:cheng-weishi-lun:9"
    ]
   },
   {
-   "id": "tch:atmaram-vijayanandasuri",
+   "id": "pth:sravakabhumi-seven-attentions",
    "refs": 2,
    "e.g.": [
-    "lin:murtipujaka",
-    "lin:tapa-gaccha"
-   ]
-  },
-  {
-   "id": "tch:lavji-rsi",
-   "refs": 2,
-   "e.g.": [
-    "lin:sthanakavasi"
-   ]
-  },
-  {
-   "id": "tch:dharmasimha",
-   "refs": 2,
-   "e.g.": [
-    "lin:sthanakavasi"
-   ]
-  },
-  {
-   "id": "tch:dharmadasa-sthanakavasi",
-   "refs": 2,
-   "e.g.": [
-    "lin:sthanakavasi"
-   ]
-  },
-  {
-   "id": "tch:atmaram-sthanakavasi",
-   "refs": 2,
-   "e.g.": [
-    "lin:sramana-sangha",
-    "lin:sthanakavasi"
-   ]
-  },
-  {
-   "id": "src:bhagavati-aradhana",
-   "refs": 2,
-   "e.g.": [
-    "lin:digambara",
-    "lin:yapaniya"
-   ]
-  },
-  {
-   "id": "tch:sariputta",
-   "refs": 2,
-   "e.g.": [
-    "lin:early-buddhism",
-    "tea:sangiti-sutta:1.6-1.7.7"
-   ]
-  },
-  {
-   "id": "tch:ananda",
-   "refs": 2,
-   "e.g.": [
-    "lin:early-buddhism",
-    "lin:theravada"
-   ]
-  },
-  {
-   "id": "tch:mahakassapa",
-   "refs": 2,
-   "e.g.": [
-    "lin:early-buddhism",
-    "lin:theravada"
-   ]
-  },
-  {
-   "id": "tch:upali",
-   "refs": 2,
-   "e.g.": [
-    "lin:early-buddhism",
-    "lin:theravada"
-   ]
-  },
-  {
-   "id": "pth:seven-purifications",
-   "refs": 2,
-   "e.g.": [
-    "lin:early-buddhism",
-    "lin:theravada"
-   ]
-  },
-  {
-   "id": "tch:mahinda",
-   "refs": 2,
-   "e.g.": [
-    "lin:mahavihara",
-    "lin:theravada"
-   ]
-  },
-  {
-   "id": "tch:buddhaghosa",
-   "refs": 2,
-   "e.g.": [
-    "lin:mahavihara",
-    "lin:theravada"
-   ]
-  },
-  {
-   "id": "tch:dhammapala",
-   "refs": 2,
-   "e.g.": [
-    "lin:mahavihara",
-    "lin:theravada"
-   ]
-  },
-  {
-   "id": "src:visuddhimagga",
-   "refs": 2,
-   "e.g.": [
-    "lin:mahavihara",
-    "lin:theravada"
-   ]
-  },
-  {
-   "id": "tch:ledi-sayadaw",
-   "refs": 2,
-   "e.g.": [
-    "lin:ledi"
-   ]
-  },
-  {
-   "id": "tch:saya-thetgyi",
-   "refs": 2,
-   "e.g.": [
-    "lin:ledi",
-    "lin:u-ba-khin-goenka"
-   ]
-  },
-  {
-   "id": "tch:u-ba-khin",
-   "refs": 2,
-   "e.g.": [
-    "lin:u-ba-khin-goenka"
-   ]
-  },
-  {
-   "id": "tch:goenka",
-   "refs": 2,
-   "e.g.": [
-    "lin:u-ba-khin-goenka"
-   ]
-  },
-  {
-   "id": "tch:mahasi-sayadaw",
-   "refs": 2,
-   "e.g.": [
-    "lin:mahasi"
-   ]
-  },
-  {
-   "id": "tch:sunlun-sayadaw",
-   "refs": 2,
-   "e.g.": [
-    "lin:sunlun"
-   ]
-  },
-  {
-   "id": "tch:pa-auk-sayadaw",
-   "refs": 2,
-   "e.g.": [
-    "lin:pa-auk"
-   ]
-  },
-  {
-   "id": "tch:ajahn-sao",
-   "refs": 2,
-   "e.g.": [
-    "lin:thai-forest"
-   ]
-  },
-  {
-   "id": "tch:ajahn-mun",
-   "refs": 2,
-   "e.g.": [
-    "lin:thai-forest"
-   ]
-  },
-  {
-   "id": "tch:buddhadasa",
-   "refs": 2,
-   "e.g.": [
-    "lin:suan-mokkh"
-   ]
-  },
-  {
-   "id": "tch:luang-pu-sodh",
-   "refs": 2,
-   "e.g.": [
-    "lin:dhammakaya"
-   ]
-  },
-  {
-   "id": "tch:mogok-sayadaw",
-   "refs": 2,
-   "e.g.": [
-    "lin:mogok"
+    "lin:yogacara",
+    "tea:sravakabhumi:3.seven-attentions"
    ]
   },
   {
@@ -1659,11 +1526,19 @@
    ]
   },
   {
-   "id": "dsp:sudden-or-gradual",
+   "id": "tea:mundaka-upanisad:1.2.12",
    "refs": 2,
    "e.g.": [
-    "tea:astavakra-gita:1.14-15",
-    "tea:varaha-upanisad:4.34-42"
+    "tea:bhagavad-gita:4.34",
+    "tea:mundaka-upanisad-bhasya-sankara:1.2.12"
+   ]
+  },
+  {
+   "id": "tea:isa-upanisad:6",
+   "refs": 2,
+   "e.g.": [
+    "tea:bhagavad-gita:4.35",
+    "tea:bhagavad-gita:6.29"
    ]
   },
   {
@@ -1691,539 +1566,483 @@
    ]
   },
   {
-   "id": "dsp:is-medicine-efficacious",
+   "id": "dsp:womens-bodies-and-buddhahood",
    "refs": 2,
    "e.g.": [
-    "tea:astanga-hrdaya:utt.40.60-74",
-    "tea:caraka-samhita:su.10.3-6"
+    "tea:saddharmapundarika:12/2",
+    "tea:vimalakirtinirdesa:6.14"
    ]
   },
   {
-   "id": "dsp:nature-of-vayu",
+   "id": "dsp:provisional-definitive-yogacara",
    "refs": 2,
    "e.g.": [
-    "tea:caraka-samhita:su.12.13",
-    "tea:caraka-samhita:su.12.8"
+    "tea:samdhinirmocana-sutra:7",
+    "tea:vimsatika:8-10"
    ]
   },
   {
-   "id": "dsp:is-the-self-all-pervading",
+   "id": "cpt:four-kinds-of-meditation-object",
    "refs": 2,
    "e.g.": [
-    "tea:caraka-samhita:sa.1.75-81",
-    "tea:susruta-samhita:sa.1.16-18"
+    "tea:samdhinirmocana-sutra:8",
+    "tea:sravakabhumi:2.alambana"
    ]
   },
   {
-   "id": "dsp:origin-of-embryo",
+   "id": "cpt:eight-negations",
    "refs": 2,
    "e.g.": [
-    "tea:caraka-samhita:sa.3.3",
-    "tea:caraka-samhita:sa.3.4"
+    "tea:mulamadhyamakakarika:0.1-2",
+    "tea:mulamadhyamakakarika:18.10-11"
    ]
   },
   {
-   "id": "dsp:is-blood-a-fourth-dosa",
+   "id": "trm:parabhava",
    "refs": 2,
    "e.g.": [
-    "tea:susruta-samhita:su.21.18-36",
-    "tea:susruta-samhita:su.21.3-4"
+    "tea:mulamadhyamakakarika:1.3",
+    "tea:mulamadhyamakakarika:15.6"
    ]
   },
   {
-   "id": "dsp:authority-of-the-samhitas",
+   "id": "cpt:svabhava-and-nihsvabhavata",
    "refs": 2,
    "e.g.": [
-    "tea:astanga-hrdaya:utt.40.84",
-    "tea:astanga-hrdaya:utt.40.86-88"
+    "tea:mulamadhyamakakarika:1.3",
+    "tea:mulamadhyamakakarika:15.1-2"
    ]
   },
   {
-   "id": "cpt:kala-sakti",
+   "id": "trm:gandharvanagara",
    "refs": 2,
    "e.g.": [
-    "tea:vakyapadiya:1.3",
-    "tea:vakyapadiya:3.9"
+    "tea:mulamadhyamakakarika:17.31-33",
+    "tea:mulamadhyamakakarika:7.34"
    ]
   },
   {
-   "id": "cpt:pratibha-vyakarana",
+   "id": "trm:avipranasa",
    "refs": 2,
    "e.g.": [
-    "tea:vakyapadiya:2.143-145",
-    "tea:vakyapadiya:2.146-152"
+    "tea:mulamadhyamakakarika:17.14-15",
+    "tea:mulamadhyamakakarika:17.20"
    ]
   },
   {
-   "id": "cpt:pratibha-poetic",
+   "id": "trm:nirmita",
    "refs": 2,
    "e.g.": [
-    "tea:kavyamimamsa:4",
-    "tea:kavyaprakasa:1.3"
+    "tea:mulamadhyamakakarika:17.31-33",
+    "tea:vigrahavyavartani:23"
    ]
   },
   {
-   "id": "dsp:is-rasa-bliss",
+   "id": "cpt:prapanca-and-its-pacification",
    "refs": 2,
    "e.g.": [
-    "tea:natyadarpana:3",
-    "tea:sahityadarpana:3.4-5"
+    "tea:mulamadhyamakakarika:18.5",
+    "tea:mulamadhyamakakarika:25.24"
    ]
   },
   {
-   "id": "cpt:marga-and-desi",
+   "id": "obs:prapanca",
    "refs": 2,
    "e.g.": [
-    "tea:brhaddesi:13",
-    "tea:sangita-ratnakara:1.1.21-23"
+    "tea:mulamadhyamakakarika:18.5",
+    "tea:mulamadhyamakakarika:22.15"
    ]
   },
   {
-   "id": "cpt:ahata-anahata",
+   "id": "cpt:time-in-madhyamaka",
    "refs": 2,
    "e.g.": [
-    "tea:sangita-ratnakara:1.2.1-3",
-    "tea:sangita-ratnakara:1.2.163-167"
+    "tea:mulamadhyamakakarika:19.3",
+    "tea:mulamadhyamakakarika:19.6"
    ]
   },
   {
-   "id": "cpt:sangita-ratnakara-centres",
+   "id": "cpt:four-viparyasas",
    "refs": 2,
    "e.g.": [
-    "tea:sangita-ratnakara:1.2.120-139",
-    "tea:sangita-ratnakara:1.2.140-144"
+    "tea:catuhsataka:1",
+    "tea:mulamadhyamakakarika:23.1-2"
    ]
   },
   {
-   "id": "cpt:music-as-path",
+   "id": "trm:aryasatya",
    "refs": 2,
    "e.g.": [
-    "tea:sangita-ratnakara:1.2.163-167",
-    "tea:yajnavalkyasmrti:3.116"
+    "tea:mulamadhyamakakarika:24.20",
+    "tea:mulamadhyamakakarika:24.40"
    ]
   },
   {
-   "id": "cpt:nada-brahman",
+   "id": "obs:svabhava-graha",
    "refs": 2,
    "e.g.": [
-    "tea:brhaddesi:16-19",
-    "tea:sangita-ratnakara:1.3.1-2"
+    "tea:sunyatasaptati:64-65",
+    "tea:yuktisastika:46-48"
    ]
   },
   {
-   "id": "cpt:nada-bindu-kala",
+   "id": "cpt:fear-of-emptiness",
    "refs": 2,
    "e.g.": [
-    "tea:saradatilaka:1.10-11",
-    "tea:saradatilaka:1.8-9"
+    "tea:bodhicaryavatara:9.56-57",
+    "tea:ratnavali:1.26"
    ]
   },
   {
-   "id": "cpt:classes-of-mantras",
+   "id": "obs:satkayadrsti",
    "refs": 2,
    "e.g.": [
-    "tea:saradatilaka:2.57-59",
-    "tea:saradatilaka:2.60-63"
+    "tea:madhyamakavatara:6.120",
+    "tea:ratnavali:1.35"
    ]
   },
   {
-   "id": "cpt:mantra-diksa-and-secrecy",
+   "id": "cpt:madhyamaka-critique-of-samkhya",
    "refs": 2,
    "e.g.": [
-    "tea:saradatilaka:2.141-144",
-    "tea:saradatilaka:2.145-153"
+    "tea:madhyamakahrdaya:6",
+    "tea:ratnavali:1.61-62"
    ]
   },
   {
-   "id": "cpt:two-kinds-of-time",
+   "id": "dsp:mahayana-as-buddhavacana",
    "refs": 2,
    "e.g.": [
-    "tea:aryabhatiya:3.11",
-    "tea:surya-siddhanta:1.10-11"
+    "tea:bodhicaryavatara:9.41-44",
+    "tea:ratnavali:4.86"
    ]
   },
   {
-   "id": "trm:tithi",
+   "id": "cpt:qualified-student",
    "refs": 2,
    "e.g.": [
-    "tea:muhurta-cintamani:1.3-4",
-    "tea:surya-siddhanta:1.12-14"
+    "tea:catuhsataka:12.1",
+    "tea:madhyamakavatara:6.4-5"
    ]
   },
   {
-   "id": "cpt:measures-of-time",
+   "id": "cpt:prasanga-method",
    "refs": 2,
    "e.g.": [
-    "tea:surya-siddhanta:1.12-14",
-    "tea:surya-siddhanta:14"
+    "tea:buddhapalita-vrtti:1.1",
+    "tea:prasannapada:1.1"
    ]
   },
   {
-   "id": "cpt:causes-of-planetary-motion",
+   "id": "cpt:svatantra-anumana",
    "refs": 2,
    "e.g.": [
-    "tea:surya-siddhanta:2.1-5",
-    "tea:surya-siddhanta:2.6-8"
+    "tea:prajnapradipa:1.1",
+    "tea:prajnapradipa:1.1/2"
    ]
   },
   {
-   "id": "cpt:planets-and-elements",
+   "id": "cpt:madhyamaka-critique-of-yogacara",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-jataka:2.6-7",
-    "tea:surya-siddhanta:12.22-28"
+    "tea:madhyamakahrdaya:5",
+    "tea:madhyamakavatara:6.45-97"
    ]
   },
   {
-   "id": "cpt:kali-epoch",
+   "id": "cpt:madhyamaka-critique-of-mimamsa",
    "refs": 2,
    "e.g.": [
-    "tea:aryabhatiya:1.5",
-    "tea:aryabhatiya:3.10"
+    "tea:madhyamakahrdaya:9",
+    "tea:tattvasangraha:atindriyarthadarsipariksa"
    ]
   },
   {
-   "id": "dsp:earth-rotation",
+   "id": "cpt:svasamvedana-critique",
    "refs": 2,
    "e.g.": [
-    "tea:aryabhatiya:4.9",
-    "tea:brahmasphuta-siddhanta:11.17"
+    "tea:bodhicaryavatara:9.15-17",
+    "tea:madhyamakavatara:6.45-97"
    ]
   },
   {
-   "id": "cpt:kalapurusa",
+   "id": "prc:sevenfold-reasoning",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-jataka:1.4",
-    "tea:brhat-samhita:2.4"
+    "tea:madhyamakavatara:6.120",
+    "tea:madhyamakavatara:6.151-160"
    ]
   },
   {
-   "id": "cpt:navagraha",
+   "id": "prc:guarding-the-mind",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-jataka:2.2-3",
-    "tea:brhat-parasara-hora-sastra:2.4-7"
+    "tea:bodhicaryavatara:5.1-3",
+    "tea:bodhicaryavatara:5.108"
    ]
   },
   {
-   "id": "cpt:gunas-of-planets",
+   "id": "prc:equalizing-self-and-other",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-jataka:2.6-7",
-    "tea:brhat-samhita:68.1-9"
+    "tea:bodhicaryavatara:8.90-91",
+    "tea:bodhicaryavatara:8.95-96"
    ]
   },
   {
-   "id": "cpt:ayurdaya",
+   "id": "cpt:exchanging-self-and-other",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-jataka:7.1",
-    "tea:brhat-jataka:7.9-13"
+    "tea:bodhicaryavatara:8.120",
+    "tea:bodhicaryavatara:8.129-131"
    ]
   },
   {
-   "id": "cpt:dasa-systems",
+   "id": "prc:exchanging-self-and-other",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-jataka:8.1",
-    "tea:brhat-parasara-hora-sastra:46.3-11"
+    "tea:bodhicaryavatara:8.120",
+    "tea:bodhicaryavatara:8.134-136"
    ]
   },
   {
-   "id": "cpt:niryana-and-next-world",
+   "id": "obs:self-cherishing",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-jataka:25.14",
-    "tea:brhat-jataka:25.15"
+    "tea:bodhicaryavatara:8.129-131",
+    "tea:bodhicaryavatara:8.134-136"
    ]
   },
   {
-   "id": "cpt:jivamsa-paramatmamsa",
+   "id": "cpt:nonconceptual-wisdom",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-parasara-hora-sastra:1.21-24",
-    "tea:brhat-parasara-hora-sastra:2.8-10"
+    "tea:bhavanakrama:3",
+    "tea:bodhicaryavatara:9.33-35"
    ]
   },
   {
-   "id": "trm:atmakaraka",
+   "id": "cpt:madhyamaka-critique-of-isvara",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-parasara-hora-sastra:32.1-4",
-    "tea:jaimini-upadesa-sutra:1.1.11"
+    "tea:bodhicaryavatara:9.119-126",
+    "tea:tattvasangraha:isvarapariksa"
    ]
   },
   {
-   "id": "cpt:cara-karakas",
+   "id": "cpt:apratisthita-nirvana",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-parasara-hora-sastra:32.1-4",
-    "tea:jaimini-upadesa-sutra:1.1.11"
+    "tea:bhavanakrama:1/2",
+    "tea:mahayanasamgraha:9"
    ]
   },
   {
-   "id": "trm:dasa",
+   "id": "trm:ekanekaviyoga",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-parasara-hora-sastra:46.12-15",
-    "tea:brhat-parasara-hora-sastra:46.3-11"
+    "tea:madhyamakalamkara:1",
+    "ult:yogacara-madhyamaka"
    ]
   },
   {
-   "id": "cpt:pancamahapurusa-yogas",
+   "id": "trm:svasamvedana",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-parasara-hora-sastra:75.1-2",
-    "tea:brhat-samhita:68.1-9"
+    "tea:cheng-weishi-lun:2",
+    "tea:madhyamakalamkara:16-17"
    ]
   },
   {
-   "id": "obs:purvajanma-sapa",
+   "id": "trm:arthakriya",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-parasara-hora-sastra:83.1-6",
-    "tea:prasna-marga:15"
+    "tea:madhyamakalamkara:64",
+    "tea:satyadvayavibhanga:8-12"
    ]
   },
   {
-   "id": "prc:janma-santi",
+   "id": "trm:grahadvaya",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-parasara-hora-sastra:91.1-4",
-    "tea:brhat-parasara-hora-sastra:94.1-2"
+    "tea:trimsika:19",
+    "tea:trimsika:26-27"
    ]
   },
   {
-   "id": "trm:karakamsa",
+   "id": "trm:parikalpita-svabhava",
    "refs": 2,
    "e.g.": [
-    "tea:jaimini-upadesa-sutra:1.2.13",
-    "tea:jaimini-upadesa-sutra:1.2.68-69"
+    "tea:trimsika:20",
+    "tea:trisvabhavanirdesa:1-3"
    ]
   },
   {
-   "id": "dsp:astrologer-at-sraddha",
+   "id": "trm:paratantra-svabhava",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-samhita:2.11-13",
-    "tea:manusmrti:3.162"
+    "tea:trimsika:21",
+    "tea:trisvabhavanirdesa:1-3"
    ]
   },
   {
-   "id": "cpt:samvatsara-cycle",
+   "id": "trm:parinispanna-svabhava",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-samhita:8.1-2",
-    "tea:brhat-samhita:8.23-29"
+    "tea:trimsika:21",
+    "tea:trisvabhavanirdesa:1-3"
    ]
   },
   {
-   "id": "prc:utpata-santi",
+   "id": "trm:dausthulya",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-samhita:45.1-3",
-    "tea:brhat-samhita:45.4-7"
+    "tea:sravakabhumi:3.prasrabdhi",
+    "tea:trimsika:29-30"
    ]
   },
   {
-   "id": "cpt:naksatra-classes",
+   "id": "cpt:abhutaparikalpa",
    "refs": 2,
    "e.g.": [
-    "tea:brhat-samhita:97.4-9",
-    "tea:muhurta-cintamani:2.2-8"
+    "tea:madhyantavibhaga:1.2",
+    "tea:trisvabhavanirdesa:6-9"
    ]
   },
   {
-   "id": "cpt:sila",
+   "id": "prc:three-nature-contemplation",
    "refs": 2,
    "e.g.": [
-    "tea:brahmajala-sutta:1.7-1.27",
-    "tea:samannaphala-sutta:43-63"
+    "tea:trisvabhavanirdesa:22-25",
+    "tea:trisvabhavanirdesa:31-34"
    ]
   },
   {
-   "id": "cpt:sixty-two-views",
+   "id": "cpt:yogacara-middle-way",
    "refs": 2,
    "e.g.": [
-    "tea:brahmajala-sutta:1.30-3.29",
-    "tea:brahmajala-sutta:3.44-3.71"
+    "tea:madhyantavibhaga:1.2",
+    "tea:madhyantavibhaga:1.3"
    ]
   },
   {
-   "id": "trm:vedana",
+   "id": "cpt:emptiness-yogacara",
    "refs": 2,
    "e.g.": [
-    "tea:brahmajala-sutta:3.44-3.71",
-    "tea:mahanidana-sutta:23-32"
+    "tea:madhyantavibhaga:1.13-16",
+    "tea:mahayanasutralamkara:6.1"
    ]
   },
   {
-   "id": "cpt:tathagata-after-death",
+   "id": "cpt:luminous-mind-yogacara",
    "refs": 2,
    "e.g.": [
-    "tea:brahmajala-sutta:3.72-3.73",
-    "tea:mahanidana-sutta:23-32"
+    "tea:madhyantavibhaga:1.21-23",
+    "tea:mahayanasutralamkara:13.19"
    ]
   },
   {
-   "id": "trm:pabbajja",
+   "id": "trm:klesavarana",
    "refs": 2,
    "e.g.": [
-    "tea:samannaphala-sutta:35-36",
-    "tea:samannaphala-sutta:40-42"
+    "tea:madhyantavibhaga:2.17",
+    "tea:trimsikabhasya:intro"
    ]
   },
   {
-   "id": "trm:jhana",
+   "id": "trm:jneyavarana",
    "refs": 2,
    "e.g.": [
-    "tea:mahaparinibbana-sutta:6.8-6.9",
-    "tea:samannaphala-sutta:75-82"
+    "tea:madhyantavibhaga:2.17",
+    "tea:trimsikabhasya:intro"
    ]
   },
   {
-   "id": "trm:upekkha",
+   "id": "trm:agotra",
    "refs": 2,
    "e.g.": [
-    "tea:samannaphala-sutta:75-82",
-    "tea:tevijja-sutta:76-81"
+    "tea:lankavatara-sutra:2.132",
+    "tea:mahayanasutralamkara:3.1-11"
    ]
   },
   {
-   "id": "trm:vinnana",
+   "id": "cpt:four-wisdoms",
    "refs": 2,
    "e.g.": [
-    "tea:mahanidana-sutta:2-22",
-    "tea:samannaphala-sutta:83-84"
+    "tea:cheng-weishi-lun:10",
+    "tea:mahayanasutralamkara:9.67-76"
    ]
   },
   {
-   "id": "trm:iddhi",
+   "id": "prc:nine-mental-abidings",
    "refs": 2,
    "e.g.": [
-    "tea:kevaddha-sutta:4-7",
-    "tea:samannaphala-sutta:85-96"
+    "tea:mahayanasutralamkara:14.8-14",
+    "tea:sravakabhumi:3.nine-stages"
    ]
   },
   {
-   "id": "dsp:animal-sacrifice",
+   "id": "trm:prasrabdhi",
    "refs": 2,
    "e.g.": [
-    "tea:kutadanta-sutta:22-27",
-    "tea:kutadanta-sutta:8-21"
+    "tea:mahayanasutralamkara:14.15-16",
+    "tea:sravakabhumi:3.prasrabdhi"
    ]
   },
   {
-   "id": "dsp:avyakata",
+   "id": "trm:cittotpada",
    "refs": 2,
    "e.g.": [
-    "tea:mahanidana-sutta:23-32",
-    "tea:potthapada-sutta:21-31"
+    "tea:abhisamayalamkara:1.19",
+    "tea:bodhisattvabhumi:1.2"
    ]
   },
   {
-   "id": "cpt:conventional-expression",
+   "id": "cpt:dharma-dharmata",
    "refs": 2,
    "e.g.": [
-    "tea:potthapada-sutta:39-53",
-    "tea:potthapada-sutta:53.5"
+    "tea:dharmadharmatavibhaga:1",
+    "tea:dharmadharmatavibhaga:2"
    ]
   },
   {
-   "id": "trm:sammuti",
+   "id": "prc:carita-visodhana",
    "refs": 2,
    "e.g.": [
-    "tea:potthapada-sutta:39-53",
-    "tea:potthapada-sutta:53.5"
+    "tea:sravakabhumi:2.alambana",
+    "tea:sravakabhumi:2.carita"
    ]
   },
   {
-   "id": "trm:vinnana-anidassana",
+   "id": "prc:bodhisattva-vow-yogacara",
    "refs": 2,
    "e.g.": [
-    "tea:kevaddha-sutta:67.3-85.9",
-    "tea:kevaddha-sutta:85.10-85.27"
+    "tea:bodhisattvabhumi:1.10",
+    "tea:bodhisattvasamvaravimsaka:1-20"
    ]
   },
   {
-   "id": "cpt:nibbana",
+   "id": "dsp:existence-of-alaya",
    "refs": 2,
    "e.g.": [
-    "tea:kevaddha-sutta:67.3-85.9",
-    "tea:kevaddha-sutta:85.10-85.27"
+    "tea:karmasiddhiprakarana:ch.maturation-consciousness",
+    "tea:viniscayasamgrahani:1.alaya-proofs"
    ]
   },
   {
-   "id": "dsp:tevijja-union-with-brahma",
+   "id": "cpt:four-yogic-stages",
    "refs": 2,
    "e.g.": [
-    "tea:tevijja-sutta:15",
-    "tea:tevijja-sutta:76-81"
+    "tea:bhavanakrama:1.cittamatra",
+    "tea:lankavatara-sutra:10.256-258"
    ]
   },
   {
-   "id": "prc:brahmavihara-bhavana",
+   "id": "prc:four-yogic-stages-lankavatara",
    "refs": 2,
    "e.g.": [
-    "prc:four-attitudes",
-    "tea:tevijja-sutta:76-81"
-   ]
-  },
-  {
-   "id": "tch:vipassi",
-   "refs": 2,
-   "e.g.": [
-    "tea:mahapadana-sutta:1.4-1.16",
-    "tea:mahapadana-sutta:2.1-2.15"
-   ]
-  },
-  {
-   "id": "trm:paticcasamuppada",
-   "refs": 2,
-   "e.g.": [
-    "tea:mahanidana-sutta:1.4-1.8",
-    "tea:mahapadana-sutta:2.18-2.22"
-   ]
-  },
-  {
-   "id": "cpt:aparihaniya-dhamma",
-   "refs": 2,
-   "e.g.": [
-    "tea:mahaparinibbana-sutta:1.4-1.5",
-    "tea:mahaparinibbana-sutta:1.6-1.11"
-   ]
-  },
-  {
-   "id": "trm:dipa",
-   "refs": 2,
-   "e.g.": [
-    "tea:mahaparinibbana-sutta:2.25-2.26",
-    "tea:mahaparinibbana-sutta:2.26.1"
-   ]
-  },
-  {
-   "id": "cpt:thirty-seven-wings",
-   "refs": 2,
-   "e.g.": [
-    "tea:agganna-sutta:27-31",
-    "tea:mahaparinibbana-sutta:3.50-3.51"
-   ]
-  },
-  {
-   "id": "trm:appamada",
-   "refs": 2,
-   "e.g.": [
-    "tea:mahaparinibbana-sutta:3.50-3.51",
-    "tea:mahaparinibbana-sutta:6.7.1-6.7.3"
-   ]
-  },
-  {
-   "id": "cpt:four-immeasurables",
-   "refs": 2,
-   "e.g.": [
-    "cpt:four-attitudes",
-    "cpt:physician-ethics"
+    "tea:bhavanakrama:1.cittamatra",
+    "tea:lankavatara-sutra:10.256-258"
    ]
   },
   {
@@ -2235,51 +2054,19 @@
    ]
   },
   {
-   "id": "tea:udana:8.3",
+   "id": "cpt:bardo",
    "refs": 2,
    "e.g.": [
-    "ult:early-buddhism",
-    "ult:theravada"
+    "cpt:antarabhava",
+    "cpt:vigraha-gati"
    ]
   },
   {
-   "id": "tea:asankhata-samyutta:43.12",
+   "id": "cpt:storehouse-consciousness",
    "refs": 2,
    "e.g.": [
-    "ult:early-buddhism",
-    "ult:theravada"
-   ]
-  },
-  {
-   "id": "tea:dhammapada:277-279",
-   "refs": 2,
-   "e.g.": [
-    "ult:early-buddhism",
-    "ult:theravada"
-   ]
-  },
-  {
-   "id": "trm:paramattha",
-   "refs": 2,
-   "e.g.": [
-    "ult:ledi",
-    "ult:theravada"
-   ]
-  },
-  {
-   "id": "lin:ajivika",
-   "refs": 2,
-   "e.g.": [
-    "brw:vrtra-colours-and-sramana-colour-doctrines",
-    "dsp:daiva-or-paurusa"
-   ]
-  },
-  {
-   "id": "src:vigrahavyavartani",
-   "refs": 2,
-   "e.g.": [
-    "dsp:debate-without-thesis",
-    "dsp:establishment-of-pramanas"
+    "cpt:mulavijnana",
+    "cpt:sautrantika-seed-theory"
    ]
   },
   {
@@ -2290,13 +2077,6 @@
    ]
   },
   {
-   "id": "tch:xuanzang",
-   "refs": 1,
-   "e.g.": [
-    "src:dasapadarthasastra"
-   ]
-  },
-  {
    "id": "tch:jagannatha-dasa",
    "refs": 1,
    "e.g.": [
@@ -2304,703 +2084,234 @@
    ]
   },
   {
-   "id": "src:saddarsanasamuccaya-haribhadra",
+   "id": "src:dirgha-agama",
    "refs": 1,
    "e.g.": [
-    "src:tarkarahasyadipika"
+    "src:shamenguo-jing"
    ]
   },
   {
-   "id": "tea:caraka-samhita:su.1.41-42",
+   "id": "tea:bodhicaryavatara:6.2",
    "refs": 1,
    "e.g.": [
-    "src:caraka-samhita"
+    "src:bodhicaryavatara"
    ]
   },
   {
-   "id": "tea:caraka-samhita:su.11.3",
+   "id": "tea:bodhicaryavatara:10.55",
    "refs": 1,
    "e.g.": [
-    "src:caraka-samhita"
+    "src:bodhicaryavatara"
    ]
   },
   {
-   "id": "tea:caraka-samhita:sa.1.137-142",
+   "id": "tea:bhavanakrama:1-three-points",
    "refs": 1,
    "e.g.": [
-    "src:caraka-samhita"
+    "src:bhavanakrama"
    ]
   },
   {
-   "id": "tea:susruta-samhita:sa.1.16",
+   "id": "tea:mahayanasutralamkara:9.67",
    "refs": 1,
    "e.g.": [
-    "src:susruta-samhita"
+    "src:mahayanasutralamkara"
    ]
   },
   {
-   "id": "tea:astanga-hrdaya:utt.40.88",
+   "id": "tea:madhyantavibhaga:4.4",
    "refs": 1,
    "e.g.": [
-    "src:astanga-hrdaya"
+    "src:madhyantavibhaga"
    ]
   },
   {
-   "id": "tea:sarngadhara-samhita:purva.3",
+   "id": "tea:trimsika:20-22",
    "refs": 1,
    "e.g.": [
-    "src:sarngadhara-samhita"
+    "src:trimsika"
    ]
   },
   {
-   "id": "tea:rasarnava:1.8-13",
+   "id": "tea:trimsika:28-30",
    "refs": 1,
    "e.g.": [
-    "src:rasarnava"
+    "src:trimsika"
    ]
   },
   {
-   "id": "tea:rasarnava:1.18-20",
+   "id": "tea:pramanasamuccaya:1.1",
    "refs": 1,
    "e.g.": [
-    "src:rasarnava"
+    "src:pramanasamuccaya"
    ]
   },
   {
-   "id": "tea:rasahrdayatantra:1.10",
+   "id": "tea:pramanasamuccaya:1.2",
    "refs": 1,
    "e.g.": [
-    "src:rasahrdayatantra"
+    "src:pramanasamuccaya"
    ]
   },
   {
-   "id": "tea:rasahrdayatantra:1.17-23",
+   "id": "tea:pramanasamuccaya:1.3",
    "refs": 1,
    "e.g.": [
-    "src:rasahrdayatantra"
+    "src:pramanasamuccaya"
    ]
   },
   {
-   "id": "tea:rasaratnasamuccaya:1.2-5",
+   "id": "tea:pramanasamuccaya:5",
    "refs": 1,
    "e.g.": [
-    "src:rasaratnasamuccaya"
+    "src:pramanasamuccaya"
    ]
   },
   {
-   "id": "tea:rasaratnasamuccaya:11.20-25",
+   "id": "tea:alambanapariksa:1-2",
    "refs": 1,
    "e.g.": [
-    "src:rasaratnasamuccaya"
+    "src:alambanapariksa"
    ]
   },
   {
-   "id": "lin:yogacara-madhyamaka",
+   "id": "tea:alambanapariksa:6",
    "refs": 1,
    "e.g.": [
-    "src:tattvasangraha"
+    "src:alambanapariksa"
    ]
   },
   {
-   "id": "tea:acaranga-sutra:1.1.1",
+   "id": "tea:pramanavarttika:1.3",
    "refs": 1,
    "e.g.": [
-    "src:acaranga-sutra"
+    "src:pramanavarttika"
    ]
   },
   {
-   "id": "tea:acaranga-sutra:1.2.3",
+   "id": "tea:pramanavarttika:1.34-35",
    "refs": 1,
    "e.g.": [
-    "src:acaranga-sutra"
+    "src:pramanavarttika"
    ]
   },
   {
-   "id": "tea:acaranga-sutra:1.3.4",
+   "id": "tea:pramanavarttika:1.36-53",
    "refs": 1,
    "e.g.": [
-    "src:acaranga-sutra"
+    "src:pramanavarttika"
    ]
   },
   {
-   "id": "tea:acaranga-sutra:1.4.1",
+   "id": "tea:pramanavarttika:1.221",
    "refs": 1,
    "e.g.": [
-    "src:acaranga-sutra"
+    "src:pramanavarttika"
    ]
   },
   {
-   "id": "tea:acaranga-sutra:1.5.5",
+   "id": "tea:pramanavarttika:2.3",
    "refs": 1,
    "e.g.": [
-    "src:acaranga-sutra"
+    "src:pramanavarttika"
    ]
   },
   {
-   "id": "tea:acaranga-sutra:1.5.6",
+   "id": "tea:pramanavarttika:2.354",
    "refs": 1,
    "e.g.": [
-    "src:acaranga-sutra"
+    "src:pramanavarttika"
    ]
   },
   {
-   "id": "tea:acaranga-sutra:1.9",
+   "id": "tea:pramanavarttika:3.31",
    "refs": 1,
    "e.g.": [
-    "src:acaranga-sutra"
+    "src:pramanavarttika"
    ]
   },
   {
-   "id": "tea:sutrakrtanga:1.1.1",
+   "id": "tea:pramanaviniscaya:1.54",
    "refs": 1,
    "e.g.": [
-    "src:sutrakrtanga"
+    "src:pramanaviniscaya"
    ]
   },
   {
-   "id": "tea:sutrakrtanga:1.12",
+   "id": "tea:nyayabindu:1.1",
    "refs": 1,
    "e.g.": [
-    "src:sutrakrtanga"
+    "src:nyayabindu"
    ]
   },
   {
-   "id": "tea:sutrakrtanga:2.1",
+   "id": "tea:nyayabindu:1.4",
    "refs": 1,
    "e.g.": [
-    "src:sutrakrtanga"
+    "src:nyayabindu"
    ]
   },
   {
-   "id": "tea:sutrakrtanga:2.6",
+   "id": "tea:nyayabindu:1.7-11",
    "refs": 1,
    "e.g.": [
-    "src:sutrakrtanga"
+    "src:nyayabindu"
    ]
   },
   {
-   "id": "tea:sutrakrtanga:2.7",
+   "id": "tea:nyayabindu:1.12-15",
    "refs": 1,
    "e.g.": [
-    "src:sutrakrtanga"
+    "src:nyayabindu"
    ]
   },
   {
-   "id": "tea:sthananga:10",
+   "id": "tea:nyayabindu:2.5",
    "refs": 1,
    "e.g.": [
-    "src:sthananga"
+    "src:nyayabindu"
    ]
   },
   {
-   "id": "tea:sthananga:7",
+   "id": "tea:nyayabindu:2.11",
    "refs": 1,
    "e.g.": [
-    "src:sthananga"
+    "src:nyayabindu"
    ]
   },
   {
-   "id": "tea:samavayanga:34",
+   "id": "tea:ksanabhangasiddhi-ratnakirti:1",
    "refs": 1,
    "e.g.": [
-    "src:samavayanga"
+    "src:ksanabhangasiddhi-ratnakirti"
    ]
   },
   {
-   "id": "tea:samavayanga:dvadasanga",
+   "id": "tea:apohasiddhi:1",
    "refs": 1,
    "e.g.": [
-    "src:samavayanga"
+    "src:apohasiddhi"
    ]
   },
   {
-   "id": "tea:bhagavati-sutra:mangala",
+   "id": "tea:isvarasadhanadusana:1",
    "refs": 1,
    "e.g.": [
-    "src:bhagavati-sutra"
+    "src:isvarasadhanadusana"
    ]
   },
   {
-   "id": "tea:bhagavati-sutra:2.1",
+   "id": "tea:santanantaradusana:1",
    "refs": 1,
    "e.g.": [
-    "src:bhagavati-sutra"
+    "src:santanantaradusana"
    ]
   },
   {
-   "id": "tea:bhagavati-sutra:9.33",
+   "id": "tea:tarkabhasa-moksakaragupta:1.1",
    "refs": 1,
    "e.g.": [
-    "src:bhagavati-sutra"
-   ]
-  },
-  {
-   "id": "tea:bhagavati-sutra:12.2",
-   "refs": 1,
-   "e.g.": [
-    "src:bhagavati-sutra"
-   ]
-  },
-  {
-   "id": "tea:bhagavati-sutra:15",
-   "refs": 1,
-   "e.g.": [
-    "src:bhagavati-sutra"
-   ]
-  },
-  {
-   "id": "tea:jnatadharmakatha:1.1",
-   "refs": 1,
-   "e.g.": [
-    "src:jnatadharmakatha"
-   ]
-  },
-  {
-   "id": "tea:jnatadharmakatha:1.7",
-   "refs": 1,
-   "e.g.": [
-    "src:jnatadharmakatha"
-   ]
-  },
-  {
-   "id": "tea:jnatadharmakatha:1.8",
-   "refs": 1,
-   "e.g.": [
-    "src:jnatadharmakatha"
-   ]
-  },
-  {
-   "id": "tea:jnatadharmakatha:1.16",
-   "refs": 1,
-   "e.g.": [
-    "src:jnatadharmakatha"
-   ]
-  },
-  {
-   "id": "tea:upasakadasa:1",
-   "refs": 1,
-   "e.g.": [
-    "src:upasakadasa"
-   ]
-  },
-  {
-   "id": "tea:upasakadasa:7",
-   "refs": 1,
-   "e.g.": [
-    "src:upasakadasa"
-   ]
-  },
-  {
-   "id": "tea:antakrddasa:3.8",
-   "refs": 1,
-   "e.g.": [
-    "src:antakrddasa"
-   ]
-  },
-  {
-   "id": "tea:antakrddasa:6.3",
-   "refs": 1,
-   "e.g.": [
-    "src:antakrddasa"
-   ]
-  },
-  {
-   "id": "tea:anuttaraupapatikadasa:3.1",
-   "refs": 1,
-   "e.g.": [
-    "src:anuttaraupapatikadasa"
-   ]
-  },
-  {
-   "id": "tea:prasnavyakarana:samvara.1",
-   "refs": 1,
-   "e.g.": [
-    "src:prasnavyakarana"
-   ]
-  },
-  {
-   "id": "tea:vipakasruta:1.1",
-   "refs": 1,
-   "e.g.": [
-    "src:vipakasruta"
-   ]
-  },
-  {
-   "id": "tea:aupapatika:siddha",
-   "refs": 1,
-   "e.g.": [
-    "src:aupapatika"
-   ]
-  },
-  {
-   "id": "tea:rajaprasniya:paesi",
-   "refs": 1,
-   "e.g.": [
-    "src:rajaprasniya"
-   ]
-  },
-  {
-   "id": "tea:rajaprasniya:suryabha",
-   "refs": 1,
-   "e.g.": [
-    "src:rajaprasniya"
-   ]
-  },
-  {
-   "id": "tch:syamarya",
-   "refs": 1,
-   "e.g.": [
-    "src:prajnapana"
-   ]
-  },
-  {
-   "id": "tea:prajnapana:1",
-   "refs": 1,
-   "e.g.": [
-    "src:prajnapana"
-   ]
-  },
-  {
-   "id": "tea:jambudvipaprajnapti:2",
-   "refs": 1,
-   "e.g.": [
-    "src:jambudvipaprajnapti"
-   ]
-  },
-  {
-   "id": "tea:vyavahara-sutra:10",
-   "refs": 1,
-   "e.g.": [
-    "src:vyavahara-sutra"
-   ]
-  },
-  {
-   "id": "tea:brhatkalpa-sutra:5",
-   "refs": 1,
-   "e.g.": [
-    "src:brhatkalpa-sutra"
-   ]
-  },
-  {
-   "id": "tea:dasasrutaskandha:6",
-   "refs": 1,
-   "e.g.": [
-    "src:dasasrutaskandha"
-   ]
-  },
-  {
-   "id": "tea:dasasrutaskandha:10",
-   "refs": 1,
-   "e.g.": [
-    "src:dasasrutaskandha"
-   ]
-  },
-  {
-   "id": "tea:uttaradhyayana-sutra:3.1",
-   "refs": 1,
-   "e.g.": [
-    "src:uttaradhyayana-sutra"
-   ]
-  },
-  {
-   "id": "tea:uttaradhyayana-sutra:9.34",
-   "refs": 1,
-   "e.g.": [
-    "src:uttaradhyayana-sutra"
-   ]
-  },
-  {
-   "id": "tea:uttaradhyayana-sutra:10.1",
-   "refs": 1,
-   "e.g.": [
-    "src:uttaradhyayana-sutra"
-   ]
-  },
-  {
-   "id": "tea:uttaradhyayana-sutra:23",
-   "refs": 1,
-   "e.g.": [
-    "src:uttaradhyayana-sutra"
-   ]
-  },
-  {
-   "id": "tea:uttaradhyayana-sutra:28",
-   "refs": 1,
-   "e.g.": [
-    "src:uttaradhyayana-sutra"
-   ]
-  },
-  {
-   "id": "tea:uttaradhyayana-sutra:32.7",
-   "refs": 1,
-   "e.g.": [
-    "src:uttaradhyayana-sutra"
-   ]
-  },
-  {
-   "id": "tea:uttaradhyayana-sutra:36",
-   "refs": 1,
-   "e.g.": [
-    "src:uttaradhyayana-sutra"
-   ]
-  },
-  {
-   "id": "tch:sayyambhava",
-   "refs": 1,
-   "e.g.": [
-    "src:dasavaikalika-sutra"
-   ]
-  },
-  {
-   "id": "tea:dasavaikalika-sutra:1.1",
-   "refs": 1,
-   "e.g.": [
-    "src:dasavaikalika-sutra"
-   ]
-  },
-  {
-   "id": "tea:dasavaikalika-sutra:4.10",
-   "refs": 1,
-   "e.g.": [
-    "src:dasavaikalika-sutra"
-   ]
-  },
-  {
-   "id": "tea:dasavaikalika-sutra:6.20-21",
-   "refs": 1,
-   "e.g.": [
-    "src:dasavaikalika-sutra"
-   ]
-  },
-  {
-   "id": "tea:dasavaikalika-sutra:8.36-38",
-   "refs": 1,
-   "e.g.": [
-    "src:dasavaikalika-sutra"
-   ]
-  },
-  {
-   "id": "tea:avasyaka-sutra:1",
-   "refs": 1,
-   "e.g.": [
-    "src:avasyaka-sutra"
-   ]
-  },
-  {
-   "id": "tea:avasyaka-sutra:2",
-   "refs": 1,
-   "e.g.": [
-    "src:avasyaka-sutra"
-   ]
-  },
-  {
-   "id": "tea:avasyaka-sutra:4",
-   "refs": 1,
-   "e.g.": [
-    "src:avasyaka-sutra"
-   ]
-  },
-  {
-   "id": "tch:devavacaka",
-   "refs": 1,
-   "e.g.": [
-    "src:nandi-sutra"
-   ]
-  },
-  {
-   "id": "tea:nandi-sutra:dvadasanga",
-   "refs": 1,
-   "e.g.": [
-    "src:nandi-sutra"
-   ]
-  },
-  {
-   "id": "tea:nandi-sutra:mithyasruta",
-   "refs": 1,
-   "e.g.": [
-    "src:nandi-sutra"
-   ]
-  },
-  {
-   "id": "tea:nandi-sutra:jnana",
-   "refs": 1,
-   "e.g.": [
-    "src:nandi-sutra"
-   ]
-  },
-  {
-   "id": "tea:anuyogadvara-sutra:niksepa",
-   "refs": 1,
-   "e.g.": [
-    "src:anuyogadvara-sutra"
-   ]
-  },
-  {
-   "id": "tea:kalpa-sutra-jain:jinacaritra.mahavira",
-   "refs": 1,
-   "e.g.": [
-    "src:kalpa-sutra-jain"
-   ]
-  },
-  {
-   "id": "tea:kalpa-sutra-jain:jinacaritra.mahavira/2",
-   "refs": 1,
-   "e.g.": [
-    "src:kalpa-sutra-jain"
-   ]
-  },
-  {
-   "id": "tea:kalpa-sutra-jain:jinacaritra.mahavira/3",
-   "refs": 1,
-   "e.g.": [
-    "src:kalpa-sutra-jain"
-   ]
-  },
-  {
-   "id": "tea:kalpa-sutra-jain:jinacaritra.parsva",
-   "refs": 1,
-   "e.g.": [
-    "src:kalpa-sutra-jain"
-   ]
-  },
-  {
-   "id": "tea:kalpa-sutra-jain:sthaviravali",
-   "refs": 1,
-   "e.g.": [
-    "src:kalpa-sutra-jain"
-   ]
-  },
-  {
-   "id": "tea:kalpa-sutra-jain:samacari",
-   "refs": 1,
-   "e.g.": [
-    "src:kalpa-sutra-jain"
-   ]
-  },
-  {
-   "id": "tea:tandulavaicarika:whole",
-   "refs": 1,
-   "e.g.": [
-    "src:tandulavaicarika"
-   ]
-  },
-  {
-   "id": "tea:rsibhasitani:whole",
-   "refs": 1,
-   "e.g.": [
-    "src:rsibhasitani"
-   ]
-  },
-  {
-   "id": "tch:bhadrabahu-ii",
-   "refs": 1,
-   "e.g.": [
-    "src:avasyaka-niryukti"
-   ]
-  },
-  {
-   "id": "tea:avasyaka-niryukti:92",
-   "refs": 1,
-   "e.g.": [
-    "src:avasyaka-niryukti"
-   ]
-  },
-  {
-   "id": "tea:visesavasyaka-bhasya:ganadharavada",
-   "refs": 1,
-   "e.g.": [
-    "src:visesavasyaka-bhasya"
-   ]
-  },
-  {
-   "id": "tea:visesavasyaka-bhasya:botika",
-   "refs": 1,
-   "e.g.": [
-    "src:visesavasyaka-bhasya"
-   ]
-  },
-  {
-   "id": "tch:santisuri",
-   "refs": 1,
-   "e.g.": [
-    "src:uttaradhyayana-sisyahita"
-   ]
-  },
-  {
-   "id": "tch:devendragani",
-   "refs": 1,
-   "e.g.": [
-    "src:uttaradhyayana-sukhabodha"
-   ]
-  },
-  {
-   "id": "tea:yapaniya-tantra:lalitavistara-quote",
-   "refs": 1,
-   "e.g.": [
-    "src:lalitavistara-haribhadra"
-   ]
-  },
-  {
-   "id": "tea:trisastisalakapurusacaritra:1",
-   "refs": 1,
-   "e.g.": [
-    "src:trisastisalakapurusacaritra"
-   ]
-  },
-  {
-   "id": "tea:trisastisalakapurusacaritra:10",
-   "refs": 1,
-   "e.g.": [
-    "src:trisastisalakapurusacaritra"
-   ]
-  },
-  {
-   "id": "tea:parisistaparvan:9",
-   "refs": 1,
-   "e.g.": [
-    "src:parisistaparvan"
-   ]
-  },
-  {
-   "id": "tea:parisistaparvan:8",
-   "refs": 1,
-   "e.g.": [
-    "src:parisistaparvan"
-   ]
-  },
-  {
-   "id": "tch:vimalasuri",
-   "refs": 1,
-   "e.g.": [
-    "src:paumacariya"
-   ]
-  },
-  {
-   "id": "tea:paumacariya:2",
-   "refs": 1,
-   "e.g.": [
-    "src:paumacariya"
-   ]
-  },
-  {
-   "id": "tch:prabhacandra-suri",
-   "refs": 1,
-   "e.g.": [
-    "src:prabhavakacarita"
-   ]
-  },
-  {
-   "id": "tch:jinaprabha-suri",
-   "refs": 1,
-   "e.g.": [
-    "src:vividhatirthakalpa"
-   ]
-  },
-  {
-   "id": "tch:nagasena",
-   "refs": 1,
-   "e.g.": [
-    "src:milindapanha"
+    "src:tarkabhasa-moksakaragupta"
    ]
   },
   {
@@ -3025,27 +2336,6 @@
    ]
   },
   {
-   "id": "lin:sowa-rigpa",
-   "refs": 1,
-   "e.g.": [
-    "lin:ayurveda"
-   ]
-  },
-  {
-   "id": "ult:ayurveda",
-   "refs": 1,
-   "e.g.": [
-    "lin:ayurveda"
-   ]
-  },
-  {
-   "id": "ult:rasa-sastra",
-   "refs": 1,
-   "e.g.": [
-    "lin:rasa-sastra"
-   ]
-  },
-  {
    "id": "tea:sangita-ratnakara:1.3.1; tea:saradatilaka:1.12-13",
    "refs": 1,
    "e.g.": [
@@ -3053,150 +2343,857 @@
    ]
   },
   {
-   "id": "lin:vastu-silpa",
+   "id": "tch:banarsidas",
    "refs": 1,
    "e.g.": [
-    "lin:jyotisa"
+    "lin:terapantha-digambara"
    ]
   },
   {
-   "id": "ult:jyotisa",
+   "id": "tch:dolpopa",
    "refs": 1,
    "e.g.": [
-    "lin:jyotisa"
+    "lin:tathagatagarbha"
    ]
   },
   {
-   "id": "tch:neminatha",
+   "id": "ult:yogacara",
    "refs": 1,
    "e.g.": [
-    "lin:jainism"
+    "lin:yogacara"
    ]
   },
   {
-   "id": "tch:parsva",
+   "id": "ult:pramana-buddhist",
    "refs": 1,
    "e.g.": [
-    "lin:jainism"
+    "lin:pramana-buddhist"
    ]
   },
   {
-   "id": "tch:indrabhuti-gautama",
+   "id": "tch:induraja",
    "refs": 1,
    "e.g.": [
-    "lin:jainism"
+    "tch:abhinavagupta"
    ]
   },
   {
-   "id": "tch:umasvati",
+   "id": "src:spandapradipika",
    "refs": 1,
    "e.g.": [
-    "lin:jainism"
+    "tch:utpala-vaisnava"
    ]
   },
   {
-   "id": "ult:jainism",
+   "id": "tch:sivananda",
    "refs": 1,
    "e.g.": [
-    "lin:jainism"
+    "tch:chinmayananda"
    ]
   },
   {
-   "id": "pth:jain-fourteen-gunasthanas",
+   "id": "tch:kanaka-dasa",
    "refs": 1,
    "e.g.": [
-    "lin:jainism"
+    "tch:vyasatirtha"
    ]
   },
   {
-   "id": "pth:haribhadra-eight-drstis",
+   "id": "tea:svetasvatara-upanisad:2.4",
    "refs": 1,
    "e.g.": [
-    "lin:jainism"
+    "tea:rgveda:5.81.1"
    ]
   },
   {
-   "id": "pth:upasaka-pratimas-svetambara",
+   "id": "tea:brhadaranyaka-upanisad:2.5.19",
    "refs": 1,
    "e.g.": [
-    "lin:jainism"
+    "tea:rgveda:6.47.18"
    ]
   },
   {
-   "id": "pth:digambara-pratimas-to-muni",
+   "id": "tea:svetasvatara-upanisad:4.3",
    "refs": 1,
    "e.g.": [
-    "lin:jainism"
+    "tea:atharvaveda-saunaka:10.8.27-28"
    ]
   },
   {
-   "id": "tch:suhastin",
+   "id": "tea:rgveda:10.90.6",
    "refs": 1,
    "e.g.": [
-    "lin:svetambara"
+    "tea:satapatha-brahmana:1.3.2.1"
    ]
   },
   {
-   "id": "tch:skandila",
+   "id": "tea:chandogya-upanisad:6.8.1",
    "refs": 1,
    "e.g.": [
-    "lin:svetambara"
+    "tea:satapatha-brahmana:10.5.2.20"
    ]
   },
   {
-   "id": "src:tattvartha-bhasya",
+   "id": "tea:chandogya-upanisad:5.11-18",
    "refs": 1,
    "e.g.": [
-    "lin:svetambara"
+    "tea:satapatha-brahmana:10.6.1.1-11"
    ]
   },
   {
-   "id": "ult:svetambara",
+   "id": "tea:chandogya-upanisad:5.4-9",
    "refs": 1,
    "e.g.": [
-    "lin:svetambara"
+    "tea:satapatha-brahmana:11.6.2.6-10"
    ]
   },
   {
-   "id": "ult:murtipujaka",
+   "id": "tea:brhadaranyaka-upanisad:3.9.1-26",
    "refs": 1,
    "e.g.": [
-    "lin:murtipujaka"
+    "tea:satapatha-brahmana:11.6.3.1-11"
    ]
   },
   {
-   "id": "ult:sthanakavasi",
+   "id": "tea:brhadaranyaka-upanisad:6.5.3",
    "refs": 1,
    "e.g.": [
-    "lin:sthanakavasi"
+    "tea:satapatha-brahmana:14.9.4.33"
    ]
   },
   {
-   "id": "tch:jayacarya",
+   "id": "tea:taittiriya-upanisad:3.10.6",
    "refs": 1,
    "e.g.": [
-    "lin:terapanthi"
+    "tea:taittiriya-brahmana:2.8.8.1"
    ]
   },
   {
-   "id": "tch:tulsi-acarya",
+   "id": "tea:katha-upanisad:1.1.1-29",
    "refs": 1,
    "e.g.": [
-    "lin:terapanthi"
+    "tea:taittiriya-brahmana:3.11.8.1-6"
    ]
   },
   {
-   "id": "tch:mahaprajna",
+   "id": "tea:rgveda:10.125.1-8",
    "refs": 1,
    "e.g.": [
-    "lin:terapanthi"
+    "tea:pancavimsa-brahmana:20.14.2"
    ]
   },
   {
-   "id": "tch:mahasraman",
+   "id": "tea:atharvaveda-saunaka:15.1",
    "refs": 1,
    "e.g.": [
-    "lin:terapanthi"
+    "tea:pancavimsa-brahmana:17.1"
+   ]
+  },
+  {
+   "id": "tea:rgveda:10.14.7-8",
+   "refs": 1,
+   "e.g.": [
+    "tea:taittiriya-aranyaka:6"
+   ]
+  },
+  {
+   "id": "tea:rgveda:10.190.1-3",
+   "refs": 1,
+   "e.g.": [
+    "tea:manusmrti:11.261"
+   ]
+  },
+  {
+   "id": "tea:chandogya-upanisad:5.10.1-3",
+   "refs": 1,
+   "e.g.": [
+    "tea:apastamba-dharmasutra:2.9.23.3-5"
+   ]
+  },
+  {
+   "id": "tea:chandogya-upanisad:6.2.2",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:2.16"
+   ]
+  },
+  {
+   "id": "tea:katha-upanisad:1.2.19",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:2.19"
+   ]
+  },
+  {
+   "id": "tea:katha-upanisad:1.2.18",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:2.20"
+   ]
+  },
+  {
+   "id": "tea:katha-upanisad:1.2.7",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:2.29"
+   ]
+  },
+  {
+   "id": "tea:bhagavad-gita:18.57",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:3.30"
+   ]
+  },
+  {
+   "id": "tea:bhagavad-gita:18.47",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:3.35"
+   ]
+  },
+  {
+   "id": "tea:bhagavad-gita:18.41",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:4.13"
+   ]
+  },
+  {
+   "id": "tea:svetasvatara-upanisad:3.18",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavad-gita:5.13"
+   ]
+  },
+  {
+   "id": "tea:chandogya-upanisad:7.1.2",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavata-purana:1.4.20"
+   ]
+  },
+  {
+   "id": "tea:bhagavad-gita:8.5-6",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavata-purana:2.1.6"
+   ]
+  },
+  {
+   "id": "tea:brahmabindu-upanisad:2",
+   "refs": 1,
+   "e.g.": [
+    "tea:visnu-purana:6.7.28"
+   ]
+  },
+  {
+   "id": "tea:manusmrti:6.46",
+   "refs": 1,
+   "e.g.": [
+    "tea:markandeya-purana:41.2-26"
+   ]
+  },
+  {
+   "id": "tea:brhadaranyaka-upanisad:4.4.3",
+   "refs": 1,
+   "e.g.": [
+    "tea:garuda-purana:2.10.75-82"
+   ]
+  },
+  {
+   "id": "tea:chandogya-upanisad:6.1.4",
+   "refs": 1,
+   "e.g.": [
+    "tea:brahma-sutra:2.1.14"
+   ]
+  },
+  {
+   "id": "tea:chandogya-upanisad:6.14.2",
+   "refs": 1,
+   "e.g.": [
+    "tea:brahma-sutra:4.1.15"
+   ]
+  },
+  {
+   "id": "tea:chandogya-upanisad:8.12.3",
+   "refs": 1,
+   "e.g.": [
+    "tea:brahma-sutra:4.4.1"
+   ]
+  },
+  {
+   "id": "tea:bhagavad-gita:7.17",
+   "refs": 1,
+   "e.g.": [
+    "tea:gita-bhasya-sankara:7.17"
+   ]
+  },
+  {
+   "id": "tea:bhagavad-gita:13.2",
+   "refs": 1,
+   "e.g.": [
+    "tea:gita-bhasya-sankara:13.2"
+   ]
+  },
+  {
+   "id": "tea:rgveda:1.141.1-3",
+   "refs": 1,
+   "e.g.": [
+    "tea:mahabharata-tatparya-nirnaya:32.162-166"
+   ]
+  },
+  {
+   "id": "tea:mandukya-upanisad:3-7",
+   "refs": 1,
+   "e.g.": [
+    "tea:mandukya-upanisad-bhasya-madhva:3-7"
+   ]
+  },
+  {
+   "id": "tea:bhagavata-purana:10.87.14",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhagavata-tatparya-nirnaya:10.87.14"
+   ]
+  },
+  {
+   "id": "tea:bhagavata-purana:11.7-9",
+   "refs": 1,
+   "e.g.": [
+    "tea:eknathi-bhagavata:7-9.avadhuta"
+   ]
+  },
+  {
+   "id": "tea:bhagavata-purana:10.23",
+   "refs": 1,
+   "e.g.": [
+    "tea:patni-prasada:whole"
+   ]
+  },
+  {
+   "id": "tea:bhagavata-purana:4.31.14",
+   "refs": 1,
+   "e.g.": [
+    "tea:katha-gurucarit:madhavadeva-conversion"
+   ]
+  },
+  {
+   "id": "trm:akrtrima",
+   "refs": 1,
+   "e.g.": [
+    "tea:mulamadhyamakakarika:15.1-2"
+   ]
+  },
+  {
+   "id": "obs:grasping-at-nirvana",
+   "refs": 1,
+   "e.g.": [
+    "tea:mulamadhyamakakarika:16.9"
+   ]
+  },
+  {
+   "id": "trm:pratyekabuddha",
+   "refs": 1,
+   "e.g.": [
+    "tea:mulamadhyamakakarika:18.12"
+   ]
+  },
+  {
+   "id": "trm:satyadvaya",
+   "refs": 1,
+   "e.g.": [
+    "tea:mulamadhyamakakarika:24.8"
+   ]
+  },
+  {
+   "id": "obs:nihilistic-misreading-of-emptiness",
+   "refs": 1,
+   "e.g.": [
+    "tea:mulamadhyamakakarika:24.11"
+   ]
+  },
+  {
+   "id": "trm:madhyama-pratipad",
+   "refs": 1,
+   "e.g.": [
+    "tea:mulamadhyamakakarika:24.18"
+   ]
+  },
+  {
+   "id": "cpt:madhyamaka-critique-of-nyaya",
+   "refs": 1,
+   "e.g.": [
+    "tea:vigrahavyavartani:31-33"
+   ]
+  },
+  {
+   "id": "cpt:abhyudaya-naihsreyasa",
+   "refs": 1,
+   "e.g.": [
+    "tea:ratnavali:1.3-4"
+   ]
+  },
+  {
+   "id": "cpt:ten-virtuous-paths",
+   "refs": 1,
+   "e.g.": [
+    "tea:ratnavali:1.8-10"
+   ]
+  },
+  {
+   "id": "trm:alatacakra",
+   "refs": 1,
+   "e.g.": [
+    "tea:ratnavali:1.36"
+   ]
+  },
+  {
+   "id": "cpt:two-accumulations",
+   "refs": 1,
+   "e.g.": [
+    "tea:ratnavali:3.12-13"
+   ]
+  },
+  {
+   "id": "obs:eight-worldly-concerns",
+   "refs": 1,
+   "e.g.": [
+    "tea:suhrllekha:29"
+   ]
+  },
+  {
+   "id": "cpt:paryaya-paramartha",
+   "refs": 1,
+   "e.g.": [
+    "tea:tarkajvala:3.26"
+   ]
+  },
+  {
+   "id": "cpt:three-kinds-of-compassion",
+   "refs": 1,
+   "e.g.": [
+    "tea:madhyamakavatara:1.3-4"
+   ]
+  },
+  {
+   "id": "cpt:sevenfold-chariot-analysis",
+   "refs": 1,
+   "e.g.": [
+    "tea:madhyamakavatara:6.151-160"
+   ]
+  },
+  {
+   "id": "cpt:sixteen-emptinesses",
+   "refs": 1,
+   "e.g.": [
+    "tea:madhyamakavatara:6.179-223"
+   ]
+  },
+  {
+   "id": "trm:bodhipranidhicitta",
+   "refs": 1,
+   "e.g.": [
+    "tea:bodhicaryavatara:1.15-16"
+   ]
+  },
+  {
+   "id": "trm:bodhiprasthanacitta",
+   "refs": 1,
+   "e.g.": [
+    "tea:bodhicaryavatara:1.15-16"
+   ]
+  },
+  {
+   "id": "cpt:aspiring-and-engaging-bodhicitta",
+   "refs": 1,
+   "e.g.": [
+    "tea:bodhicaryavatara:1.15-16"
+   ]
+  },
+  {
+   "id": "prc:confession-of-faults",
+   "refs": 1,
+   "e.g.": [
+    "tea:bodhicaryavatara:2.28"
+   ]
+  },
+  {
+   "id": "prc:generating-bodhicitta",
+   "refs": 1,
+   "e.g.": [
+    "tea:bodhicaryavatara:3.22-23"
+   ]
+  },
+  {
+   "id": "trm:samprajanya",
+   "refs": 1,
+   "e.g.": [
+    "tea:bodhicaryavatara:5.108"
+   ]
+  },
+  {
+   "id": "obs:anger",
+   "refs": 1,
+   "e.g.": [
+    "tea:bodhicaryavatara:6.1-2"
+   ]
+  },
+  {
+   "id": "obs:laziness-threefold",
+   "refs": 1,
+   "e.g.": [
+    "tea:bodhicaryavatara:7.2"
+   ]
+  },
+  {
+   "id": "prc:samatha-bhavanakrama",
+   "refs": 1,
+   "e.g.": [
+    "tea:bodhicaryavatara:8.1-4"
+   ]
+  },
+  {
+   "id": "prc:solitude-and-body-contemplation",
+   "refs": 1,
+   "e.g.": [
+    "tea:bodhicaryavatara:8.1-4"
+   ]
+  },
+  {
+   "id": "trm:paratmasamata",
+   "refs": 1,
+   "e.g.": [
+    "tea:bodhicaryavatara:8.90-91"
+   ]
+  },
+  {
+   "id": "trm:paratmaparivartana",
+   "refs": 1,
+   "e.g.": [
+    "tea:bodhicaryavatara:8.120"
+   ]
+  },
+  {
+   "id": "prc:giving-body-enjoyments-merit",
+   "refs": 1,
+   "e.g.": [
+    "tea:siksasamuccaya:k4"
+   ]
+  },
+  {
+   "id": "prc:compassion-meditation-bhavanakrama",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhavanakrama:1/2"
+   ]
+  },
+  {
+   "id": "cpt:union-of-method-and-wisdom",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhavanakrama:2"
+   ]
+  },
+  {
+   "id": "cpt:bhutapratyaveksa",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhavanakrama:3"
+   ]
+  },
+  {
+   "id": "obs:mere-non-thought",
+   "refs": 1,
+   "e.g.": [
+    "tea:bhavanakrama:3"
+   ]
+  },
+  {
+   "id": "cpt:neither-one-nor-many",
+   "refs": 1,
+   "e.g.": [
+    "tea:madhyamakalamkara:1"
+   ]
+  },
+  {
+   "id": "prc:neither-one-nor-many-reasoning",
+   "refs": 1,
+   "e.g.": [
+    "tea:madhyamakalamkara:1"
+   ]
+  },
+  {
+   "id": "cpt:yogacara-madhyamaka-synthesis",
+   "refs": 1,
+   "e.g.": [
+    "tea:madhyamakalamkara:92-93"
+   ]
+  },
+  {
+   "id": "cpt:refutation-of-materialism",
+   "refs": 1,
+   "e.g.": [
+    "tea:tattvasangraha:lokayatapariksa"
+   ]
+  },
+  {
+   "id": "cpt:omniscience-madhyamaka",
+   "refs": 1,
+   "e.g.": [
+    "tea:tattvasangraha:atindriyarthadarsipariksa"
+   ]
+  },
+  {
+   "id": "trm:tathya-samvrti",
+   "refs": 1,
+   "e.g.": [
+    "tea:satyadvayavibhanga:8-12"
+   ]
+  },
+  {
+   "id": "cpt:three-transformations-of-consciousness",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:1"
+   ]
+  },
+  {
+   "id": "trm:sarvatraga-caitasika",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:3-4"
+   ]
+  },
+  {
+   "id": "trm:anivrtavyakrta",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:3-4"
+   ]
+  },
+  {
+   "id": "trm:atma-drsti",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:6-7"
+   ]
+  },
+  {
+   "id": "trm:atma-moha",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:6-7"
+   ]
+  },
+  {
+   "id": "trm:atma-mana",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:6-7"
+   ]
+  },
+  {
+   "id": "trm:atma-sneha",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:6-7"
+   ]
+  },
+  {
+   "id": "obs:four-afflictions-of-manas",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:6-7"
+   ]
+  },
+  {
+   "id": "obs:six-root-afflictions-yogacara",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:10-14"
+   ]
+  },
+  {
+   "id": "obs:twenty-secondary-afflictions",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:10-14"
+   ]
+  },
+  {
+   "id": "trm:mula-vijnana",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:15-16"
+   ]
+  },
+  {
+   "id": "cpt:states-without-mind-consciousness",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:15-16"
+   ]
+  },
+  {
+   "id": "cpt:yogacara-rebirth",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:19"
+   ]
+  },
+  {
+   "id": "trm:laksana-nihsvabhavata",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:23-24"
+   ]
+  },
+  {
+   "id": "trm:utpatti-nihsvabhavata",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:23-24"
+   ]
+  },
+  {
+   "id": "trm:paramartha-nihsvabhavata",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:23-24"
+   ]
+  },
+  {
+   "id": "trm:lokottara-jnana",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:29-30"
+   ]
+  },
+  {
+   "id": "trm:anasrava-dhatu",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:29-30"
+   ]
+  },
+  {
+   "id": "trm:vimuktikaya",
+   "refs": 1,
+   "e.g.": [
+    "tea:trimsika:29-30"
+   ]
+  },
+  {
+   "id": "trm:taimirika",
+   "refs": 1,
+   "e.g.": [
+    "tea:vimsatika:1"
+   ]
+  },
+  {
+   "id": "trm:pudgala-nairatmya",
+   "refs": 1,
+   "e.g.": [
+    "tea:vimsatika:8-10"
+   ]
+  },
+  {
+   "id": "trm:dharma-nairatmya",
+   "refs": 1,
+   "e.g.": [
+    "tea:vimsatika:8-10"
+   ]
+  },
+  {
+   "id": "trm:abhipraya",
+   "refs": 1,
+   "e.g.": [
+    "tea:vimsatika:8-10"
+   ]
+  },
+  {
+   "id": "trm:adhipati-pratyaya",
+   "refs": 1,
+   "e.g.": [
+    "tea:vimsatika:18"
+   ]
+  },
+  {
+   "id": "trm:manodanda",
+   "refs": 1,
+   "e.g.": [
+    "tea:vimsatika:19-20"
+   ]
+  },
+  {
+   "id": "cpt:mental-karma-primacy",
+   "refs": 1,
+   "e.g.": [
+    "tea:vimsatika:19-20"
+   ]
+  },
+  {
+   "id": "trm:paracittajnana",
+   "refs": 1,
+   "e.g.": [
+    "tea:vimsatika:21"
+   ]
+  },
+  {
+   "id": "cpt:abhijna-yogacara",
+   "refs": 1,
+   "e.g.": [
+    "tea:vimsatika:21"
+   ]
+  },
+  {
+   "id": "trm:buddhagocara",
+   "refs": 1,
+   "e.g.": [
+    "tea:vimsatika:22"
+   ]
+  },
+  {
+   "id": "trm:dvaya",
+   "refs": 1,
+   "e.g.": [
+    "tea:madhyantavibhaga:1.2"
+   ]
+  },
+  {
+   "id": "trm:pratibhasa",
+   "refs": 1,
+   "e.g.": [
+    "tea:madhyantavibhaga:1.4-5"
+   ]
+  },
+  {
+   "id": "obs:nine-fetters-yogacara",
+   "refs": 1,
+   "e.g.": [
+    "tea:madhyantavibhaga:2.1-3"
+   ]
+  },
+  {
+   "id": "prc:eight-antidotal-formations",
+   "refs": 1,
+   "e.g.": [
+    "tea:madhyantavibhaga:4.3-5"
+   ]
+  },
+  {
+   "id": "obs:five-faults-of-samatha",
+   "refs": 1,
+   "e.g.": [
+    "tea:madhyantavibhaga:4.3-5"
+   ]
+  },
+  {
+   "id": "prc:smrtyupasthana-yogacara",
+   "refs": 1,
+   "e.g.": [
+    "tea:madhyantavibhaga:4.1"
    ]
   }
  ]

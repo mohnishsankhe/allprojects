@@ -1,6 +1,6 @@
 # Śāṅkhāyana Śrautasūtra
 
-`src:sankhayana-srautasutra` · `skeleton` · confidence moderate
+`src:sankhayana-srautasutra` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 The Śrauta manual of the Kauṣītaki/Śāṅkhāyana Ṛgveda, in 18 adhyāyas, including the Mahāvrata and long sessions.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:DCS:Śāṅkhāyanaśrautasūtra, catalog:GRETIL-dev:sankhayana-srautasutra, https://en.wikipedia.org/wiki/%C5%9Arauta — Extant (GRETIL, DCS); the Śāṅkhāyana/Kauṣītaki Ṛgveda Śrautasūtra. The 18-adhyāya count was not re-counted.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

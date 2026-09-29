@@ -13,4 +13,4 @@
 Pṛthuyaśas's fifty-six verses on interrogation (praśna): answering questions from the chart of the moment of asking.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

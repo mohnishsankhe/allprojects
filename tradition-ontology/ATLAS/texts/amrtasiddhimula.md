@@ -16,4 +16,4 @@ A brief companion ('root') text of the Amṛtasiddhi on the same bindu-centred y
 _Notes: Existence recalled from the title of the 2021 edition; contents to be supplied in Phase C/D._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._

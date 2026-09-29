@@ -15,6 +15,6 @@ Advaita sub-commentator on many of Śaṅkara's works, including the Gītābhā�
 ---
 **Verification checks**
 
-- 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/hinduism/essay/tarkasangraha-by-anandagiri-critical-study/d/doc1598893.html — Confirmed (13th c.; = Ānandajñāna).
+- 2026-09-29 websearch: confirmed — https://www.wisdomlib.org/hinduism/essay/tarkasangraha-by-anandagiri-critical-study/d/doc1598893.html — Confirmed (13th c.; = Ānandajñāna).
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

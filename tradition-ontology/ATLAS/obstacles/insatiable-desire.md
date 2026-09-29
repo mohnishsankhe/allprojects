@@ -1,6 +1,6 @@
 # Insatiable desire
 
-`obs:insatiable-desire` · `skeleton` · confidence high
+`obs:insatiable-desire` · `sourced` · confidence high
 
 **Category:** passion
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -12,4 +12,8 @@ Desire is never quenched by enjoyment but grows like fire fed with ghee (MDh 2.9
   - [Manusmṛti (Mānava Dharmaśāstra)](../texts/manusmrti.md) — ref: 2.94; rests_on: ["tea:manusmrti:2.94"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering) — MDh 2.94 has 'na jātu kāmaḥ kāmānām upabhogena śāmyati | haviṣā kṛṣṇavartmeva bhūya evābhivardhate'. MDh 2.88 (reining in the senses like a charioteer his horses) was found. This rests on tea:manusmrti:2.94.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

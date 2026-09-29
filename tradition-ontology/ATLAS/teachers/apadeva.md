@@ -11,4 +11,4 @@
 Son of Anantadeva; author of the Mīmāṃsānyāyaprakāśa ('Āpadevī'), a standard introduction to Bhāṭṭa Mīmāṃsā that dedicates dharma to Govinda.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

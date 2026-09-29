@@ -15,4 +15,4 @@ Wrongly practised breath-control produces hiccup, asthma, cough and pains of hea
   - [Gorakṣaśataka](../texts/goraksasataka.md) — ref: 51; rests_on: ["tea:goraksasataka:51"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._

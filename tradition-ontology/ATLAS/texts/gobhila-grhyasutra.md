@@ -1,6 +1,6 @@
 # Gobhila Gṛhyasūtra
 
-`src:gobhila-grhyasutra` · `skeleton` · confidence moderate
+`src:gobhila-grhyasutra` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,4 +13,8 @@
 The domestic-rite manual of the Kauthuma Sāmavedins, used with the Mantra Brāhmaṇa.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:DCS:Gobhilagṛhyasūtra, catalog:raw_etexts:gobhila_grihya_sutra — Extant; the Kauthuma Gṛhyasūtra used with the Mantra Brāhmaṇa (standard).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

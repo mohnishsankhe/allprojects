@@ -1,6 +1,6 @@
 # Qualification (adhikāra) for the solemn rites
 
-`cpt:adhikara-for-ritual` · `skeleton` · confidence high
+`cpt:adhikara-for-ritual` · `sourced` · confidence high
 
 **Category:** ethics
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/dcs/dcs/data/conllu/files/Kātyāyanaśrautasūtra (DCS) — The definition's cited passages were all checked in this sweep and support it: tea:katyayana-srautasutra:1.1.1-8 (confirmed).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

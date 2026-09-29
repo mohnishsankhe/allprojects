@@ -57,7 +57,7 @@ Secondary devotion — singing, remembering, worship and the other practices —
 
 _level: conventional · standpoint: seeker · path: devotion · stage: beginner · types: practice_
 
-terms: [gauṇī bhakti](../terms/gauni-bhakti.md), [parā bhakti](../terms/para-bhakti.md) · concepts: [Secondary and supreme devotion (gauṇī and parā/mukhyā bhakti)](../concepts/gauni-and-para-bhakti.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md), [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md), [Worship of the Lord (arcana, pūjā)](../practices/arcana.md) · teachers: [Śāṇḍilya](../teachers/sandilya.md)
+terms: [gauṇī bhakti](../terms/gauni-bhakti.md), [parā bhakti](../terms/para-bhakti.md) · concepts: [Secondary and supreme devotion (gauṇī and parā/mukhyā bhakti)](../concepts/gauni-and-para-bhakti.md) · practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md), [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md), [Worship of the Lord (arcana, pūjā)](../practices/arcana.md) · teachers: [Śāṇḍilya](../teachers/sandilya.md)
 
 ### 3 <a id="tea-sandilya-bhakti-sutra-3"></a>
 `skeleton` · confidence moderate
@@ -117,4 +117,4 @@ concepts: [The Lord's devotees as one's masters; service to devotees](../concept
 _Notes: Continuous sūtra numbering (100 sūtras in 3 adhyāyas × 2 āhnikas) as recalled; exact numbers not checked — verify against Svapneśvara's edition._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

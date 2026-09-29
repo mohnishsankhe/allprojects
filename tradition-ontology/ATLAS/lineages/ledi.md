@@ -6,8 +6,8 @@
 **Alternate names:** Ledi lineage, Ledi vipassanā
 **Parent:** [Theravāda](theravada.md)
 **Sub-lineages:** [U Ba Khin – S. N. Goenka tradition (Sayagyi U Ba Khin lineage)](u-ba-khin-goenka.md)
-**Founders:** `tch:ledi-sayadaw`
-**Key teachers:** `tch:ledi-sayadaw`, `tch:saya-thetgyi`
+**Founders:** [Ledi Sayadaw](../teachers/ledi-sayadaw.md)
+**Key teachers:** [Ledi Sayadaw](../teachers/ledi-sayadaw.md), [Saya Thetgyi](../teachers/saya-thetgyi.md)
 **Regions:** Upper Burma (Monywa, Ledi forest monastery), Burma
 **Dates:** Tradition's account: Ledi Sayadaw began teaching insight to monks and laypeople at the Ledi forest monastery near Monywa from the 1880s; Scholarly account: late 19th – early 20th c. onward; (confidence moderate)
 **Status:** living
@@ -35,19 +35,19 @@ Lineage stemming from the Burmese scholar-monk Ledi Sayadaw (1846–1923), who w
 **Caveat:** Ledi's writings keep to the commentarial Abhidhamma: nibbāna is not a ground of being or a self.
 
 ## Texts
-`src:anapana-dipani`, `src:bodhipakkhiya-dipani`, `src:magganga-dipani`, `src:niyama-dipani`, `src:paramatthadipani-ledi`, `src:uttamapurisa-dipani`, `src:vipassana-dipani`
+[Ānāpāna Dīpanī (Manual of Respiration)](../texts/anapana-dipani.md), [Bodhipakkhiya Dīpanī (Manual of the Requisites of Enlightenment)](../texts/bodhipakkhiya-dipani.md), [Maggaṅga Dīpanī (Manual of the Path Factors)](../texts/magganga-dipani.md), [Niyāma Dīpanī (Manual of Cosmic Order)](../texts/niyama-dipani.md), [Paramatthadīpanī (Ledi Sayadaw)](../texts/paramatthadipani-ledi.md), [Uttamapurisa Dīpanī (Manual of the Excellent Man)](../texts/uttamapurisa-dipani.md), [Vipassanā Dīpanī (Manual of Insight, Ledi Sayadaw)](../texts/vipassana-dipani.md)
 
 ## Teachers
-`tch:ledi-sayadaw`, `tch:saya-thetgyi`
+[Ledi Sayadaw](../teachers/ledi-sayadaw.md), [Saya Thetgyi](../teachers/saya-thetgyi.md)
 
 ## Practices
-_none recorded_
+[Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md), [Ledi Sayadaw's lay insight method](../practices/ledi-vipassana.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Is the Abhidhammatthavibhāvinī-ṭīkā a reliable guide to the Abhidhamma?](../debates/ledi-vibhavini.md)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._

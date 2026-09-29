@@ -30,4 +30,4 @@ Disciple of Matsyendra and the great organiser of the Nāth order, to whom the N
 **Realization — the tradition's account:** Born by the power of Matsyendra's ash (vibhūti) — in the common north Indian and Marathi telling, the ash given to a childless woman was thrown on a dung-heap, and Matsyendra later called forth the boy from it; the Gorakṣaguṭikā gives a different origin. Perfected in body, deathless, master of all siddhis.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._

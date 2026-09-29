@@ -19,4 +19,4 @@
 Within the Kapila Gītā (U06 owns the Gītā as a source); kept here because the coverage item names BhP 3.28.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._

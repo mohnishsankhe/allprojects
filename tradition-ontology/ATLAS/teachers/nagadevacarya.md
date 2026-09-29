@@ -11,4 +11,4 @@
 Cakradhar's chosen successor (d. c. 1312), who held the community together after Cakradhar's departure and approved the compilation of the Līḷācaritra.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

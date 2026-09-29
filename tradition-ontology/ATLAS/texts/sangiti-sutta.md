@@ -24,10 +24,10 @@ After the Nigaṇṭha Nātaputta's death his disciples split and quarrelled; S�
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: teacher-transmission_
 
-concepts: `cpt:communal-recitation` · teachers: `tch:sariputta`, `tch:mahavira`
+concepts: [Communal recitation](../concepts/communal-recitation.md) · teachers: [Sāriputta](../teachers/sariputta.md), [Mahāvīra (Vardhamāna)](../teachers/mahavira.md)
 
 
 _Notes: SuttaCentral uid dn33; Mahāsaṅgīti title 'Saṅgītisutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

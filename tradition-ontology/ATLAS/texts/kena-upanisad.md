@@ -139,4 +139,4 @@ terms: [upaniṣad](../terms/upanisad.md), [tapas](../terms/tapas.md), [dama](..
 _Notes: Śaṅkara wrote two commentaries on it (pada-bhasya and vakya-bhasya). Veda affiliation: Sāmaveda, Jaiminīya (Talavakāra) śākhā_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

@@ -5,7 +5,7 @@
 **Original title:** 大唐西域記
 **Language:** Chinese
 **Family:** ascetic
-**Lineages:** `lin:mahayana`, [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md), [Kāpālika (Somasiddhānta)](../lineages/kapalika.md)
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md), [Kāpālika (Somasiddhānta)](../lineages/kapalika.md)
 **Genre:** travel record
 **Attribution:** tradition: Xuanzang (dictated), compiled by Bianji; scholarly: 646 CE; confidence: high
 **Dates:** Scholarly account: 646 CE; (confidence high)
@@ -26,4 +26,4 @@ _level: unmarked · standpoint: ethical-social · path: general · stage: unmark
 _Notes: Juan numbers from memory (low confidence)._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 16:38 IST._

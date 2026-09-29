@@ -4,7 +4,7 @@
 
 **Family:** ascetic
 **Parent:** [Śvetāmbara Mūrtipūjaka](murtipujaka.md)
-**Founders:** `tch:rajendra-suri`
+**Founders:** [Rājendrasūri](../teachers/rajendra-suri.md)
 **Dates:** Scholarly account: revived in the 19th c. by Rājendrasūri (1827–1906); (confidence moderate)
 **Status:** living
 
@@ -18,7 +18,7 @@ A Mūrtipūjaka gaccha revived by Rājendrasūri, compiler of the Prakrit encycl
 _none recorded_
 
 ## Teachers
-_none recorded_
+[Rājendrasūri](../teachers/rajendra-suri.md)
 
 ## Practices
 _none recorded_
@@ -30,4 +30,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

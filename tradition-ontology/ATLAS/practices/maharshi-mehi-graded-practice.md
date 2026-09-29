@@ -12,4 +12,4 @@ Mental repetition (mānas jap), mental contemplation of form (mānas dhyān), fi
 **Sequences:** [Maharshi Mehi's graded practice](../paths/maharshi-mehi-four-practices.md)
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

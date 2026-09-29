@@ -14,6 +14,6 @@ _Notes: Not identified here with the Saiddhāntika Rāmakaṇṭha (tch:ramakant
 ---
 **Verification checks**
 
-- 2026-09-28 catalog+websearch: confirmed — catalog:Muktabodha:bhagavadgItA_and_sarvatobhadravivaraNa__M00167, https://www.wisdomlib.org/hinduism/essay/gitartha-samgraha-critical-study/d/doc1239310.html — Least-sure item: a Kashmiri author (disciple of Utpaladeva, 10th c.) of the Sarvatobhadra on the Kashmirian Gītā. The entry is right to keep him distinct from the Saiddhāntika Rāmakaṇṭha, though some web sources conflate the two.
+- 2026-09-29 catalog+websearch: confirmed — catalog:Muktabodha:bhagavadgItA_and_sarvatobhadravivaraNa__M00167, https://www.wisdomlib.org/hinduism/essay/gitartha-samgraha-critical-study/d/doc1239310.html — Least-sure item: a Kashmiri author (disciple of Utpaladeva, 10th c.) of the Sarvatobhadra on the Kashmirian Gītā. The entry is right to keep him distinct from the Saiddhāntika Rāmakaṇṭha, though some web sources conflate the two.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

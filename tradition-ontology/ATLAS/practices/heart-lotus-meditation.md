@@ -11,4 +11,4 @@ Seated in solitude, body straight, meditating on the Lord (with Umā; or as the 
   - [Kaivalya Upaniṣad](../texts/kaivalya-upanisad.md) — ref: 1.5-7; rests_on: ["tea:kaivalya-upanisad:1.5-7"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

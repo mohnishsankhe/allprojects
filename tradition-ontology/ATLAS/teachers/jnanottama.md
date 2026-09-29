@@ -9,4 +9,4 @@
 Advaitin, teacher of Citsukha, author of a commentary (Candrikā) on the Naiṣkarmyasiddhi.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

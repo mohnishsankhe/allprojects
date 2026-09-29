@@ -14,12 +14,14 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Holding the mind in concentration: 'established in yogic concentration' at death (BhG 8.12); the concentrations of the Mokṣadharma's yoga (12.289).
 - [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md): Holding the mind in the heart.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Holding, concentration: yoga is the firm holding (dhāraṇā) of the senses (KU 2.3.11); fourth limb in MaiU 6.18.
+- [Jainism (Jaina dharma)](../lineages/jainism.md): (1) In Jain epistemology the fourth stage of sensory knowledge: retention enabling memory (TS 1.15). (2) In Jain yoga, concentration — Haribhadra's kāntā view; Hemacandra's five visualised concentrations of embodied meditation (YŚ 7).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Concentration; the five element-concentrations; holding mind in the Self.
 - [Trika ('the Triad')](../lineages/trika.md): Each of the 112 'teachings of the waveless state' of the Vijñāna Bhairava (v. 139); in the Mālinīvijayottara, concentrations on elements, subtle elements and senses (chs. 12-17).
 
 ## Forms in other languages
+- Prakrit: dhāraṇā  — exact
 
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U28-hatha-texts, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U28-hatha-texts, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

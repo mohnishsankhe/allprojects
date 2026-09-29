@@ -29,4 +29,4 @@ terms: [līlā](../terms/lila.md), [śaraṇāgati](../terms/saranagati.md) · t
 _Notes: Kampaṉ is not an Āḻvār; placed with lin:alvar as Tamil Vaiṣṇava devotional literature of the Āḻvār milieu (tradition links him to Nammāḻvār through the Caṭakōpar Antāti). U05 covers Vālmīki's Rāmāyaṇa._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

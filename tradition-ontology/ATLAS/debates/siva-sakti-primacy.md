@@ -39,4 +39,4 @@ Even the Śākta verse that exalts Śakti (SL 1) presupposes Śiva as the one wh
 **The traditions' own objections:** The Samaya school explicitly rejects the uttara-Kaula view that Śiva is absorbed in Śakti; Śaiva lineages outside this unit hold Śakti to be Śiva's power and not his superior. These denials are recorded, not erased.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._

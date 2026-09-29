@@ -15,4 +15,4 @@ The self within all is beyond hunger and thirst, sorrow and delusion, old age an
 _Notes: The name 'six waves' (ṣaḍūrmi) is later Vedānta usage (moderate)._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

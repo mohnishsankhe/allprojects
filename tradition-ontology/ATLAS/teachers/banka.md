@@ -8,4 +8,4 @@
 Cokhāmeḷā's brother-in-law, a Mahār devotee-poet of the same circle.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

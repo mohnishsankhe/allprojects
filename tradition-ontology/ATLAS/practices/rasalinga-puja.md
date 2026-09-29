@@ -17,4 +17,4 @@ Seeing, touching, remembering, worshipping and giving mercury, and worship of a 
 - Mercury with its impurities, though nectar itself, is poison; a physician skilled in practice but ignorant of the science is death in human form. — [Rasaratnākara](../texts/rasaratnakara.md) Rasakhaṇḍa 1.26-30
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

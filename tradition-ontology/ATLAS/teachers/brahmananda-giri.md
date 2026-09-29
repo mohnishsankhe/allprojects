@@ -14,4 +14,4 @@
 Sixteenth-century Bengali Śākta teacher and author of the Śāktānandataraṅgiṇī and (traditionally) the Tārārahasya; remembered as the guru of Pūrṇānanda.
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._

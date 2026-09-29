@@ -14,4 +14,4 @@
 - contrasts-with → [The three guṇas](three-gunas.md): Vaiśeṣika guṇa = quality residing in substance; Sāṃkhya guṇa = constituent of prakṛti. Same word, different concept. — rests on [1.1.15](../texts/vaisesika-sutra.md#tea-vaisesika-sutra-1-1-15)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

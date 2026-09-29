@@ -1,6 +1,6 @@
 # The fire-altar (Agnicayana)
 
-`cpt:agnicayana-fire-altar` · `skeleton` · confidence high
+`cpt:agnicayana-fire-altar` · `sourced` · confidence high
 
 **Category:** stages-maps
 
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14) — The definition's cited passages were all checked in this sweep and support it: tea:satapatha-brahmana:10.2.3.18 (confirmed); tea:satapatha-brahmana:10.4.3.1-10 (confirmed); tea:satapatha-brahmana:10.5.3.1-12 (confirmed).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

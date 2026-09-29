@@ -25,7 +25,7 @@ The Kuṟaḷ belongs to the Vedic-Vaiṣṇava world: it alludes to the one who
 **Texts:** 
   - [Tirukkuṟaḷ](../texts/tirukkural.md) — ref: 610; 1103
   - [Parimēlaḻakar's commentary on the Tirukkuṟaḷ](../texts/parimelalakar-urai.md) — ref: passim
-### `lin:mahayana`
+### [Mahāyāna](../lineages/mahayana.md)
 A Buddhist reading (notably by the Tamil Buddhist revivalist Iyothee Thass, recent) takes the Lord of the first chapter as the Buddha, walker on lotuses and turner of the dharma-wheel, and the ethics as Buddhist.
 - The lineage id is approximate: the claim is modern and not tied to a specific Buddhist school.
 **Texts:** 
@@ -46,4 +46,4 @@ Under P2 each tradition reads the unnamed Lord of chapter 1 from its own standpo
 _Notes: Needs an RQ id in RECONCILE_QUEUE.md (U18 cannot write outside its shard)._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

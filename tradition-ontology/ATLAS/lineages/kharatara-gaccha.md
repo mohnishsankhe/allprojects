@@ -4,8 +4,8 @@
 
 **Family:** ascetic
 **Parent:** [Śvetāmbara Mūrtipūjaka](murtipujaka.md)
-**Founders:** `tch:jinesvara-suri`
-**Key teachers:** `tch:jinesvara-suri`, `tch:abhayadeva`, `tch:jinavallabha-suri`, `tch:jinadatta-suri`, `tch:jinakusala-suri`
+**Founders:** [Jineśvarasūri](../teachers/jinesvara-suri.md)
+**Key teachers:** [Jineśvarasūri](../teachers/jinesvara-suri.md), [Abhayadevasūri](../teachers/abhayadeva.md), [Jinavallabhasūri](../teachers/jinavallabha-suri.md), [Jinadattasūri](../teachers/jinadatta-suri.md), [Jinakuśalasūri](../teachers/jinakusala-suri.md)
 **Dates:** Tradition's account: the epithet 'kharatara' ('sharper, keener') given to Jineśvarasūri after his victory over the temple-dwelling monks at Aṇahilapāṭaka in 1024 CE; Scholarly account: 11th–12th c. CE; (confidence moderate)
 **Status:** living
 
@@ -20,7 +20,7 @@ A Mūrtipūjaka gaccha tracing itself to Jineśvarasūri's 1024 debate against t
 [Navāṅgī-vṛtti of Abhayadeva](../texts/navangi-vrtti-abhayadeva.md), [Vividhatīrthakalpa](../texts/vividhatirthakalpa.md)
 
 ## Teachers
-`tch:abhayadeva`, `tch:jinadatta-suri`, `tch:jinakusala-suri`, `tch:jinavallabha-suri`, `tch:jinesvara-suri`
+[Abhayadevasūri](../teachers/abhayadeva.md), [Devacandra (Kharatara Gaccha)](../teachers/devacandra-kharatara.md), [Jinadattasūri](../teachers/jinadatta-suri.md), [Jinakuśalasūri](../teachers/jinakusala-suri.md), [Jinaprabha Sūri](../teachers/jinaprabha-suri.md), [Jinavallabhasūri](../teachers/jinavallabha-suri.md), [Jineśvarasūri](../teachers/jinesvara-suri.md)
 
 ## Practices
 _none recorded_
@@ -29,7 +29,7 @@ _none recorded_
 _none recorded_
 
 ## Debates
-_none recorded_
+[May monks reside permanently in temples and manage their property?](../debates/caityavasa.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

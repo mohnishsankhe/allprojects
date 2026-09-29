@@ -34,10 +34,10 @@ The self is established by refuting four positions that would exclude it: that e
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: consciousness-mind, dispute_
 
-terms: [ātman](../terms/atman.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: `dsp:is-there-a-self`, [Is everything that exists momentary?](../debates/momentariness.md), [Are there objects external to cognition?](../debates/external-objects.md)
+terms: [ātman](../terms/atman.md) · concepts: [The self as a substance with qualities](../concepts/self-nyaya-vaisesika.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Is everything that exists momentary?](../debates/momentariness.md), [Are there objects external to cognition?](../debates/external-objects.md)
 
 
 _Notes: Commented on by Raghunātha Śiromaṇi (Dīdhiti) and Mathurānātha. The alternative title is recalled, not checked._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

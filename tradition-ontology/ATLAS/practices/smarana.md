@@ -16,4 +16,4 @@ Remember the Lord at all times, with mind and intellect fixed on him, even while
   - [Gīta Govinda](../texts/gita-govinda.md) — ref: 1.3; rests_on: ["tea:gita-govinda:1.3"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

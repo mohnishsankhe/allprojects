@@ -1,6 +1,6 @@
 # Saṃvartasmṛti
 
-`src:samvartasmrti` · `skeleton` · confidence low
+`src:samvartasmrti` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,4 +13,8 @@ A short smṛti ascribed to Saṃvarta, one of the twenty lawgivers of Yājñava
 _Notes: Contents not summarized here — gap._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:eBharati:aShTAdashasmRtayaH (… saṃvartasmṛtiḥ samāptā, 232 verses) — Low-confidence entry confirmed as extant; YājñS 1.4 names Saṃvarta.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

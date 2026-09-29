@@ -48,4 +48,4 @@ _none recorded_
 _Notes: Name used by the tradition itself (samaya-mata, samayinaḥ). Whether a continuous Samaya teaching lineage existed before Lakṣmīdhara is not established here._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._

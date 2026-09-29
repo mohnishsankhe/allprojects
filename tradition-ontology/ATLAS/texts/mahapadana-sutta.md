@@ -24,7 +24,7 @@ Seven Buddhas have arisen within ninety-one aeons — Vipassī, Sikhī, Vessabh�
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate, teacher-transmission_
 
-concepts: `cpt:past-buddhas` · teachers: `tch:vipassi`, `tch:kassapa-buddha`, `tch:gotama-buddha`
+concepts: [The Buddhas of the past](../concepts/past-buddhas.md) · teachers: [Vipassī](../teachers/vipassi.md), [Kassapa (Buddha)](../teachers/kassapa-buddha.md), [Gotama Buddha](../teachers/gotama-buddha.md)
 
 ### 1.17-1.30 <a id="tea-mahapadana-sutta-1-17-1-30"></a>
 `skeleton` · confidence high
@@ -33,7 +33,7 @@ It is the norm (dhammatā) for a bodhisatta that he descends from Tusita mindful
 
 _level: conventional · standpoint: cosmic · path: devotion · stage: all · types: world-fate, powers-experiences_
 
-terms: `trm:bodhisatta`, `trm:dhammata` · concepts: `cpt:dhammata-bodhisatta`
+terms: [bodhisatta](../terms/bodhisatta.md), [dhammatā](../terms/dhammata.md) · concepts: [The norms of a bodhisatta](../concepts/dhammata-bodhisatta.md)
 
 ### 2.1-2.15 <a id="tea-mahapadana-sutta-2-1-2-15"></a>
 `skeleton` · confidence high
@@ -42,7 +42,7 @@ Prince Vipassī sees an old man, a sick man, a dead man and a renunciant, is sti
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: karma-liberation, death-dying_
 
-concepts: `cpt:four-sights` · teachers: `tch:vipassi`
+concepts: [The four sights](../concepts/four-sights.md) · teachers: [Vipassī](../teachers/vipassi.md)
 
 ### 2.18-2.22 <a id="tea-mahapadana-sutta-2-18-2-22"></a>
 `skeleton` · confidence high
@@ -51,7 +51,7 @@ In seclusion Vipassī reflects: this world has fallen into trouble — it is bor
 
 _level: unmarked · standpoint: causal · path: knowledge · stage: advanced · types: karma-liberation, consciousness-mind_
 
-terms: `trm:paticcasamuppada`, `trm:yoniso-manasikara` · concepts: `cpt:dependent-origination`
+terms: [paṭiccasamuppāda](../terms/paticcasamuppada.md), [yoniso manasikāra](../terms/yoniso-manasikara.md) · concepts: [Dependent origination](../concepts/dependent-origination.md)
 
 ### 3.1-3.7 <a id="tea-mahapadana-sutta-3-1-3-7"></a>
 `skeleton` · confidence high
@@ -60,10 +60,10 @@ After his awakening Vipassī is inclined not to teach because the Dhamma is deep
 
 _level: conventional · standpoint: divine · path: general · stage: all · types: teacher-transmission_
 
-terms: `trm:amata` · concepts: `cpt:brahma-yacana`
+terms: [amata](../terms/amata.md) · concepts: [Brahmā's request](../concepts/brahma-yacana.md)
 
 
 _Notes: SuttaCentral uid dn14; Mahāsaṅgīti title 'Mahāpadānasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

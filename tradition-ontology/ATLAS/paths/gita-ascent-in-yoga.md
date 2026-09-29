@@ -5,6 +5,10 @@
 **Lineage:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
 **Sources:** 
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: BhG 6.3, BhG 6.2–4, BhG 6.10–26, BhG 6.27–29, BhG 6.30–32, BhG 6.15, 6.47; rests_on: ["tea:bhagavad-gita:6.3-4", "tea:bhagavad-gita:6.10-32", "tea:bhagavad-gita:6.27-28", "tea:bhagavad-gita:6.29", "tea:bhagavad-gita:6.30-31", "tea:bhagavad-gita:6.15", "tea:bhagavad-gita:6.46-47"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.3-4; rests_on: ["tea:bhagavad-gita:6.3", "tea:bhagavad-gita:6.4"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.10-32; rests_on: ["tea:bhagavad-gita:6.10", "tea:bhagavad-gita:6.18", "tea:bhagavad-gita:6.20", "tea:bhagavad-gita:6.23", "tea:bhagavad-gita:6.27", "tea:bhagavad-gita:6.28", "tea:bhagavad-gita:6.29"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.15; rests_on: ["tea:bhagavad-gita:6.15"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.45; rests_on: ["tea:bhagavad-gita:6.45"]
 
 | # | stage | gloss | ref | band |
 |---|---|---|---|---|
@@ -18,4 +22,8 @@
 If the yogin falls short, the effort is carried into a later birth (6.40–45).
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: corrected — tea:bhagavad-gita:6.3, tea:bhagavad-gita:6.4, tea:bhagavad-gita:6.10, tea:bhagavad-gita:6.18, tea:bhagavad-gita:6.20, tea:bhagavad-gita:6.23, tea:bhagavad-gita:6.27, tea:bhagavad-gita:6.28, tea:bhagavad-gita:6.29, tea:bhagavad-gita:6.15, tea:bhagavad-gita:6.45, tea:bhagavad-gita:6.1, tea:bhagavad-gi — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
+
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._

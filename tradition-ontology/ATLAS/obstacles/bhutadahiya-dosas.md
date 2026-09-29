@@ -1,6 +1,6 @@
 # The faults that burn beings (bhūtadāhīya doṣa)
 
-`obs:bhutadahiya-dosas` · `skeleton` · confidence high
+`obs:bhutadahiya-dosas` · `sourced` · confidence high
 
 **Category:** affliction
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -16,4 +16,8 @@ Anger, exultation, wrath, greed, delusion, hypocrisy, malice, lying, gluttony, s
 - analogous: `obs:klesas` — a list of mental faults removed by yoga, as the afflictions in the Yoga Sūtra
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/apastamba-dharmasutra.md (GRETIL) — ĀpDh 1.8.23.5 lists 'krodho harṣo roṣo lobho moho dambho droho mṛṣodyam atyāśaparīvādāv asūyā kāmamanyū anātmyam ayogaḥ', fifteen faults matching the fifteen members. ĀpDh 1.8.23.3 has 'doṣāṇāṃ tu vinirghāto yogamūla iha jīvite'. This rests on tea:apastamba-dharmasutra:1.8.23.3-6.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

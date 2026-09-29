@@ -33,4 +33,4 @@ Mīmāṃsā's derivative status and the Purāṇic claim of priority (Matsya 53
 _Notes: Relates to dsp:status-of-veda (U50). The Mīmāṃsā side is summarised from memory; U12 owns its texts._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._

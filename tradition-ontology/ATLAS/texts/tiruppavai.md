@@ -42,7 +42,7 @@ The wondrous one, the son of northern Mathurā, the lamp of the cowherd clan —
 
 _level: conventional · standpoint: devotional · path: devotion, sound · stage: all (pāvai nōṉpu (the Mārkaḻi vow)) · types: practice, karma-liberation_
 
-terms: [nāma](../terms/nama.md) · concepts: [The divine name](../concepts/divine-name.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md), [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md), [Worship of the Lord (arcana, pūjā)](../practices/arcana.md) · teachers: [Āṇṭāḷ](../teachers/andal.md)
+terms: [nāma](../terms/nama.md) · concepts: [The divine name](../concepts/divine-name.md) · practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md), [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md), [Worship of the Lord (arcana, pūjā)](../practices/arcana.md) · teachers: [Āṇṭāḷ](../teachers/andal.md)
 
 ### 6-15 <a id="tea-tiruppavai-6-15"></a>
 `skeleton` · confidence high
@@ -93,4 +93,4 @@ terms: [aruḷ](../terms/arul.md) · practices: [Recitation of the Divya Praband
 _Notes: Scholarly dating uses verse 13 ('Venus has risen, Jupiter has set') for astronomical estimates (8th–9th c.); tradition places Āṇṭāḷ in the early Kali age. Sung throughout South India in the month of Mārkaḻi._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

@@ -12,4 +12,4 @@ Constantly seeing the faults of birth, death, old age, disease and sorrow, one o
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 13.8; rests_on: ["tea:bhagavad-gita:13.7-11"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

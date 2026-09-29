@@ -19,4 +19,4 @@ In the Pratyabhijñā: the āṇava impurity (loss of freedom by awareness, or a
 - contested: `obs:three-bonds` — Śaiva Siddhānta's three bonds share names but the Siddhānta holds āṇava to be a real substance removable only by ritual action
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U18-saiva-siddhanta, skeleton:U20-virasaiva, skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U18-saiva-siddhanta, skeleton:U20-virasaiva, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

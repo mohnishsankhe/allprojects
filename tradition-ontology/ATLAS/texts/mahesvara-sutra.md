@@ -1,6 +1,6 @@
 # Māheśvara Sūtras (Śivasūtras of the grammarians)
 
-`src:mahesvara-sutra` · `skeleton` · confidence high
+`src:mahesvara-sutra` · `sourced` · confidence high
 
 **Alternate titles:** Pratyāhāra-sūtras, Akṣarasamāmnāya
 **Language:** Sanskrit
@@ -17,4 +17,8 @@ The fourteen short lists of phonemes (a i u ṇ, ṛ ḷ k, … ha l) prefixed t
 _Notes: Not to be confused with Vasugupta's Śiva Sūtra (src:siva-sutra, Kashmir Śaivism)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.themathesontrust.org/library/shiva-sutras, https://www.indica.today/long-reads/glory-shri-kameshwara-nandikesvara-maheshvara-sutras/ — Confirmed: fourteen phoneme sūtras, traditionally the beats of Śiva's drum, commented on in the Nandikeśvara-kāśikā. Their use for pratyāhāras is standard.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

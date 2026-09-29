@@ -343,4 +343,4 @@ _level: conventional · standpoint: devotional · path: sound, devotion · stage
 _Notes: Stotra verse numbers used for teachings were checked against the local e-text (peterFreund stotram file)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._

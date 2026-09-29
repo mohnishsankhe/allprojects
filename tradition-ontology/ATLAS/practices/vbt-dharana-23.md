@@ -15,4 +15,4 @@ O doe-eyed one, one should contemplate all the substance within the body as perv
 _Notes: Verses 47 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

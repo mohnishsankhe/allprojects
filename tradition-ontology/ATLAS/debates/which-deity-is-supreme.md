@@ -37,4 +37,4 @@ Skanda 8–9, Rudrahṛdaya 1–5 and Kaivalya 8–10 identify the gods; the cho
 **The traditions' own objections:** Sectarian theologians deny that their supremacy claims are mere praise; the Śarabha's subjugation of Nṛsiṃha is rejected by Vaiṣṇavas, and Śaiva authors reject the Mahā's account of Śiva's birth from Nārāyaṇa.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

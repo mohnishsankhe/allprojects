@@ -24,7 +24,7 @@ I withered, withered and suffered in my mind; I was caught in the great sorrow o
 
 _level: conventional · standpoint: experiential · path: sound, devotion · stage: beginner · types: practice, sound-language_
 
-terms: [nāma](../terms/nama.md), [tirumantra (aṣṭākṣara, mūla-mantra)](../terms/tirumantra.md), [Nārāyaṇa](../terms/narayana.md) · concepts: [The divine name](../concepts/divine-name.md) · practices: [Recitation and contemplation of the tirumantra](../practices/tirumantra-japa.md), [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md) · teachers: [Tirumaṅkai Āḻvār](../teachers/tirumankai-alvar.md)
+terms: [nāma](../terms/nama.md), [tirumantra (aṣṭākṣara, mūla-mantra)](../terms/tirumantra.md), [Nārāyaṇa](../terms/narayana.md) · concepts: [The divine name](../concepts/divine-name.md) · practices: [Recitation and contemplation of the tirumantra](../practices/tirumantra-japa.md), [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md) · teachers: [Tirumaṅkai Āḻvār](../teachers/tirumankai-alvar.md)
 
 ### 1.1.9 <a id="tea-periya-tirumoli-1-1-9"></a>
 `skeleton` · confidence moderate
@@ -37,4 +37,4 @@ terms: [nāma](../terms/nama.md) · concepts: [The divine name](../concepts/divi
 
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

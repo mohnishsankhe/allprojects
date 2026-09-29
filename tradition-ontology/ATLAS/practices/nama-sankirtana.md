@@ -16,7 +16,7 @@ Singing the Lord's names together, aloud, with drums (khol/mṛdaṅga) and cymb
   - [Haripāṭh (of Jñāneśvar)](../texts/haripath-jnanesvar.md) — ref: 1; rests_on: ["tea:haripath-jnanesvar:1"]
 
 ## Equivalents (interpretation layer)
-- partial: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](kirtana.md) — the Purāṇic kīrtana; Gauḍīya saṅkīrtana is congregational and name-centred
+- partial: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](kirtana.md) — the Purāṇic kīrtana; Gauḍīya saṅkīrtana is congregational and name-centred
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

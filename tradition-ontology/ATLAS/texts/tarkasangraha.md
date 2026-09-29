@@ -208,7 +208,7 @@ The universal is eternal, one and present in many — highest being (sattā), lo
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: world-fate_
 
-terms: [sāmānya](../terms/samanya.md), [viśeṣa](../terms/visesa.md), [samavāya](../terms/samavaya.md), [sattā](../terms/satta.md) · concepts: [Inherence (samavāya)](../concepts/samavaya.md), [Ultimate particularity (viśeṣa)](../concepts/visesa.md) · disputes: [Are universals (jāti, sāmānya) real?](../debates/reality-of-universals.md)
+terms: [sāmānya](../terms/samanya.md), [viśeṣa](../terms/visesa.md), [samavāya](../terms/samavaya.md), [satta](../terms/satta.md) · concepts: [Inherence (samavāya)](../concepts/samavaya.md), [Ultimate particularity (viśeṣa)](../concepts/visesa.md) · disputes: [Are universals (jāti, sāmānya) real?](../debates/reality-of-universals.md)
 
 ### verbal testimony <a id="tea-tarkasangraha-sabda"></a>
 `skeleton` · confidence high
@@ -219,7 +219,7 @@ Verbal testimony is the statement of a reliable person — one who speaks of thi
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: sound-language_
 
-terms: [śabda](../terms/sabda.md), [āpta](../terms/apta.md), [śakti](../terms/sakti.md), [ākāṅkṣā](../terms/akanksa.md), [yogyatā](../terms/yogyata.md), [āsatti / sannidhi](../terms/asatti.md), [vākya](../terms/vakya.md), [pada](../terms/pada.md), [īśvara](../terms/isvara.md) · concepts: [Word, meaning and convention](../concepts/word-meaning-nyaya.md), [Verbal cognition and its conditions](../concepts/sabdabodha.md), [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: `dsp:status-of-veda`
+terms: [śabda](../terms/sabda.md), [āpta](../terms/apta.md), [śakti](../terms/sakti.md), [ākāṅkṣā](../terms/akanksa.md), [yogyatā](../terms/yogyata.md), [āsatti / sannidhi](../terms/asatti.md), [vākya](../terms/vakya.md), [pada](../terms/pada.md), [īśvara](../terms/isvara.md) · concepts: [Word, meaning and convention](../concepts/word-meaning-nyaya.md), [Verbal cognition and its conditions](../concepts/sabdabodha.md), [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### ākāśa, time, space <a id="tea-tarkasangraha-akasa-kala-dik"></a>
 `skeleton` · confidence high
@@ -234,4 +234,4 @@ terms: [ākāśa](../terms/akasa.md), [kāla](../terms/kala.md), [dik](../terms/
 _Notes: Teaching refs for this prose manual are topic names, not section numbers (editions number sections differently)._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

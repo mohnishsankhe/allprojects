@@ -24,10 +24,10 @@ The Buddha repeats a verse of Brahmā Sanaṅkumāra: the khattiya is best among
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, ethics_
 
-terms: `trm:vijjacarana` · disputes: `dsp:caste-and-purity`
+terms: [vijjācaraṇa](../terms/vijjacarana.md) · disputes: [Is purity and worth determined by birth into a class (varṇa), or by conduct?](../debates/caste-and-purity.md)
 
 
 _Notes: SuttaCentral uid dn3; Mahāsaṅgīti title 'Ambaṭṭhasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

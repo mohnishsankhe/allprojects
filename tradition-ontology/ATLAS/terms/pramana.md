@@ -18,13 +18,16 @@
 - [Prābhākara Mīmāṃsā](../lineages/prabhakara-mimamsa.md): Every experience (anubhūti), as distinct from memory; five in number (Prakaraṇapañcikā).
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): Three are accepted — perception, inference and scripture; all of them apprehend qualified objects, none an undifferentiated reality.
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): Means of valid knowledge: six in Advaita (perception, inference, comparison, testimony, presumption, non-cognition), all valid empirically and all within the sphere of ignorance; scripture alone reveals Brahman.
+- [Cārvāka / Lokāyata](../lineages/carvaka.md): (Lokāyata, reported variously) One (perception); or not fixable in number (suśikṣita); or none establishable (Jayarāśi).
+- [Jainism (Jaina dharma)](../lineages/jainism.md): In Jain epistemology valid knowledge itself — the five knowledges (TS 1.10); knowledge illuminating itself and its object, free from contradiction (Nyāyāvatāra 1); the right ascertainment of an object (Pramāṇamīmāṃsā 1.1.2).
 
 ## Forms in other languages
 - Tibetan: tshad ma  — exact
 - Chinese: liang (量)  — exact
+- Prakrit: pamāṇa  — exact
 
 ## Equivalents (interpretation layer)
 **Related:** [pratyakṣa](pratyaksa.md), [anumāna](anumana.md), [āgama](agama.md), [kevala-pramāṇa](kevala-pramana.md), [anupramāṇa](anupramana.md), [dṛṣṭa (pratyakṣa)](drsta.md), [āptavacana](aptavacana.md)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U17-pasupata-kapalika, skeleton:U12-mimamsa, skeleton:U14-visistadvaita, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U17-pasupata-kapalika, skeleton:U12-mimamsa, skeleton:U14-visistadvaita, skeleton:U13-advaita, skeleton:U33-sramana, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._

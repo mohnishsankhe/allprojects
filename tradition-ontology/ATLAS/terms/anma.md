@@ -17,4 +17,4 @@
 - exact: [ātman](atman.md) — Tamil form of ātman
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

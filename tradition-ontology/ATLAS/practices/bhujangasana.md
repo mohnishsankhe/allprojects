@@ -13,4 +13,4 @@ From the toes to the navel the body rests on the ground; supporting the ground w
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 2.42-43; rests_on: ["tea:gheranda-samhita:2.42-43"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._

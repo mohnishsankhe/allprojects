@@ -12,4 +12,4 @@ Use of the medhya herbs — maṇḍūkaparṇī, liquorice, guḍūcī and abov
   - [Caraka Saṃhitā](../texts/caraka-samhita.md) — ref: Ci 1.3.30-31; rests_on: ["tea:caraka-samhita:ci.1.3.30-31"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

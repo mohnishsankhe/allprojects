@@ -16,4 +16,4 @@
 - part-of → [The five activities of the mind (pañca vṛttayaḥ)](five-vrttis.md) — rests on [1.6](../texts/yoga-sutra.md#tea-yoga-sutra-1-6), [1.10](../texts/yoga-sutra.md#tea-yoga-sutra-1-10)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._

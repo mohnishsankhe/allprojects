@@ -24,7 +24,7 @@ King Mahāvijita's great sacrifice, performed on his brahmin chaplain's advice: 
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: dispute, ethics_
 
-terms: `trm:yanna` · disputes: `dsp:animal-sacrifice`
+terms: [yañña](../terms/yanna.md) · disputes: [Is the sacrifice of animals meritorious?](../debates/animal-sacrifice.md)
 
 ### 22-27 <a id="tea-kutadanta-sutta-22-27"></a>
 `skeleton` · confidence high
@@ -33,10 +33,10 @@ Sacrifices of greater fruit than that: regular giving to virtuous renunciants, a
 
 _level: conventional · standpoint: ritual · path: ritual, action, meditation · stage: all · types: practice, ethics, dispute_
 
-practices: [Giving (dāna)](../practices/dana.md), `prc:saranagamana`, `prc:panca-sila` · disputes: `dsp:animal-sacrifice`
+practices: [Giving (dāna)](../practices/dana.md), [Going for refuge (Sarvāstivāda definition)](../practices/saranagamana.md), [The five precepts](../practices/panca-sila.md) · disputes: [Is the sacrifice of animals meritorious?](../debates/animal-sacrifice.md)
 
 
 _Notes: SuttaCentral uid dn5; Mahāsaṅgīti title 'Kūṭadantasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

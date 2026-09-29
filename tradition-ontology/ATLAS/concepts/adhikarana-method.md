@@ -15,4 +15,4 @@
 _Notes: Some later manuals give 'nirṇaya' or 'prayojana' in place of saṅgati; the Nyāyamālā's own list is followed._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

@@ -1,6 +1,6 @@
 # Hemādri
 
-`tch:hemadri` · `skeleton` · confidence high
+`tch:hemadri` · `sourced` · confidence high
 
 **Alternate names:** Hemāḍpant
 **Lineages:** [Āyurveda](../lineages/ayurveda.md), [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Bhakti-śāstra: the sūtra tradition of devotional theory (Nārada, Śāṇḍilya)](../lineages/bhakti-sastra.md)
@@ -16,4 +16,8 @@ Lineage contribution (Āyurveda): author of the Āyurvedarasāyana commentary on
 _Notes: Identified by scholars with the Yādava minister and author of the Caturvargacintāmaṇi._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U26-regional-bhakti, skeleton:U07-puranas, skeleton:U25-alvar-bhakti-theory, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Hemadpant — Confirmed: chief minister of the Yādava kings 1259–1274 (Wikipedia 'Hemadpant').
+
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U26-regional-bhakti, skeleton:U07-puranas, skeleton:U25-alvar-bhakti-theory, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

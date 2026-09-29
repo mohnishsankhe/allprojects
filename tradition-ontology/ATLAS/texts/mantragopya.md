@@ -15,4 +15,4 @@ A short work on the secret of mantra and the liṅga, variously ascribed in mode
 _Notes: Attribution uncertain — the task brief listed it under Cennabasava; common lists give it to Akka Mahādēvi. Verify._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._

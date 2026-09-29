@@ -16,4 +16,4 @@
 _Notes: Standard in Siddhānta paddhatis (e.g. Somaśambhu); no verse-level teaching recorded in this pass._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

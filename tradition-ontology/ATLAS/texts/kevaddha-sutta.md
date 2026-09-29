@@ -25,7 +25,7 @@ Of the three wonders the Buddha sees danger in the wonder of psychic power (and 
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: powers-experiences_
 
-terms: `trm:iddhi`, `trm:patihariya` · concepts: `cpt:three-patihariya`
+terms: [iddhi](../terms/iddhi.md), [pāṭihāriya](../terms/patihariya.md) · concepts: [The three wonders](../concepts/three-patihariya.md)
 
 ### 67.3-85.9 <a id="tea-kevaddha-sutta-67-3-85-9"></a>
 `skeleton` · confidence high
@@ -34,7 +34,7 @@ A monk asked the gods in turn, up to Great Brahmā, where earth, water, fire and
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-terms: `trm:vinnana-anidassana`, [nāmarūpa](../terms/namarupa.md) · concepts: `cpt:nibbana`
+terms: [viññāṇaṃ anidassanaṃ](../terms/vinnana-anidassana.md), [nāmarūpa](../terms/namarupa.md) · concepts: [Nibbāna](../concepts/nibbana.md)
 
 ### 85.10-85.27 <a id="tea-kevaddha-sutta-85-10-85-27"></a>
 `skeleton` · confidence high
@@ -45,10 +45,10 @@ The verse question and answer: where do the four elements, long and short, fine 
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: realized · types: ultimate, consciousness-mind_
 
-terms: `trm:vinnana-anidassana` · concepts: `cpt:nibbana`
+terms: [viññāṇaṃ anidassanaṃ](../terms/vinnana-anidassana.md) · concepts: [Nibbāna](../concepts/nibbana.md)
 
 
 _Notes: SuttaCentral uid dn11; Mahāsaṅgīti title 'Kevaṭṭasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

@@ -1,6 +1,6 @@
 # Baudhāyana Śulbasūtra
 
-`src:baudhayana-sulbasutra` · `skeleton` · confidence moderate
+`src:baudhayana-sulbasutra` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -16,4 +16,8 @@ The oldest 'cord-rules': how to lay out with cord and pegs the sacrificial groun
 _Notes: Described only as what the text teaches for ritual construction; no modern mathematical interpretation is added here._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:raw_etexts:Baudhayana_Shulba_Sutra, catalog:eBharati:baudhAyanashulbasUtram, https://en.wikipedia.org/wiki/Shulba_Sutras, https://en.wikipedia.org/wiki/Baudhayana_sutras — Extant; the oldest Śulbasūtra (Wikipedia).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

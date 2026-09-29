@@ -9,4 +9,4 @@
 The questioner of the Gheraṇḍa Saṃhitā, who goes to Gheraṇḍa's hut and asks about the yoga of the pot (ghaṭastha-yoga), the cause of knowledge of reality (GS 1.1–2). The name suggests a Kāpālika.
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._

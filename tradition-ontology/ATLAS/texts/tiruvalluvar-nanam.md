@@ -81,7 +81,7 @@ When the dross of salt changes by steeping, before it becomes muppu-calx — by 
 
 _level: conventional · standpoint: experiential · path: body-breath · stage: advanced · types: practice, body-layers_
 
-terms: [muppu](../terms/muppu.md), [vāci](../terms/vasi.md) · concepts: [Muppu, the secret salt of the alchemists](../concepts/muppu.md), [The breath as horse (vāci)](../concepts/vasi.md), [Rejuvenation of the body (kāya kaṟpam)](../concepts/kaya-kalpa.md) · practices: [Siddhar alchemy (iracavātam: mercury, pāṣāṇam, muppu)](../practices/siddha-alchemy.md) · teachers: [Tiruvaḷḷuvar](../teachers/tiruvalluvar.md)
+terms: [muppu](../terms/muppu.md), [vasī](../terms/vasi.md) · concepts: [Muppu, the secret salt of the alchemists](../concepts/muppu.md), [The breath as horse (vāci)](../concepts/vasi.md), [Rejuvenation of the body (kāya kaṟpam)](../concepts/kaya-kalpa.md) · practices: [Siddhar alchemy (iracavātam: mercury, pāṣāṇam, muppu)](../practices/siddha-alchemy.md) · teachers: [Tiruvaḷḷuvar](../teachers/tiruvalluvar.md)
 
 ### kappu <a id="tea-tiruvalluvar-nanam-kappu"></a>
 `skeleton` · confidence moderate
@@ -96,4 +96,4 @@ concepts: [Macrocosm and microcosm (aṇṭam–piṇṭam)](../concepts/anda-pi
 _Notes: Checked in the local e-text. The tradition counts Tiruvaḷḷuvar among the Siddhars; scholars do not ascribe this work to the author of the Tirukkuṟaḷ (see dsp:affiliation-of-tirukkural)._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

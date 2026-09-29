@@ -12,6 +12,6 @@ The child-devotee who taught his demon schoolfellows the nine forms of devotion 
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.215.15, 12.172.2-12 (prahrāda) — Located as described.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.215.15, 12.172.2-12 (prahrāda) — Located as described.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

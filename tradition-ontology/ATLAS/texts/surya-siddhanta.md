@@ -27,7 +27,7 @@ Homage to Brahman, whose form is unthinkable and unmanifest, who is without qual
 
 _level: ultimate · standpoint: absolute · path: knowledge, devotion · stage: all · types: ultimate, world-fate_
 
-concepts: `cpt:jyotisa-ultimate`
+concepts: [The ultimate as named in jyotiṣa texts](../concepts/jyotisa-ultimate.md)
 
 ### 1.2-9 <a id="tea-surya-siddhanta-1-2-9"></a>
 `skeleton` · confidence high
@@ -36,7 +36,7 @@ When little of the Kṛta age remained, the great asura Maya, wishing to know th
 
 _level: conventional · standpoint: divine · path: knowledge · stage: all · types: world-fate, teacher-transmission_
 
-concepts: `cpt:jyotisa-revelation` · teachers: [Sūrya (as revealer of jyotiṣa)](../teachers/surya.md), [Maya (the asura)](../teachers/maya-asura.md)
+concepts: [The revealed origin of jyotiṣa](../concepts/jyotisa-revelation.md) · teachers: [Sūrya (as revealer of jyotiṣa)](../teachers/surya.md), [Maya (the asura)](../teachers/maya-asura.md)
 
 ### 1.10-11 <a id="tea-surya-siddhanta-1-10-11"></a>
 `skeleton` · confidence high
@@ -47,7 +47,7 @@ Time is of two kinds: the time that makes an end of the worlds, and another time
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
-terms: [kāla](../terms/kala.md), `trm:ghatika` · concepts: `cpt:two-kinds-of-time`
+terms: [kāla](../terms/kala.md), [ghaṭikā (nāḍikā)](../terms/ghatika.md) · concepts: [The two kinds of time](../concepts/two-kinds-of-time.md)
 
 ### 1.12-14 <a id="tea-surya-siddhanta-1-12-14"></a>
 `skeleton` · confidence high
@@ -56,7 +56,7 @@ Sixty nāḍīs make a sidereal day-and-night; thirty civil days (by sunrises) m
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
-terms: `trm:tithi`, `trm:samkranti` · concepts: `cpt:measures-of-time`
+terms: [tithi](../terms/tithi.md), [saṃkrānti](../terms/samkranti.md) · concepts: [The measures of time](../concepts/measures-of-time.md)
 
 ### 1.15-21 <a id="tea-surya-siddhanta-1-15-21"></a>
 `skeleton` · confidence high
@@ -65,7 +65,7 @@ Twelve thousand divine years make a caturyuga, that is 4,320,000 solar years, in
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
-terms: [yuga](../terms/yuga.md), [mahāyuga](../terms/mahayuga.md), [manvantara](../terms/manvantara.md), [kalpa](../terms/kalpa.md) · concepts: `cpt:yuga-system-jyotisa`
+terms: [yuga](../terms/yuga.md), [mahāyuga (caturyuga)](../terms/mahayuga.md), [manvantara](../terms/manvantara.md), [kalpa](../terms/kalpa.md) · concepts: [The yugas and kalpa in the siddhāntas](../concepts/yuga-system-jyotisa.md)
 
 ### 1.22-24 <a id="tea-surya-siddhanta-1-22-24"></a>
 `skeleton` · confidence moderate
@@ -74,7 +74,7 @@ Of this kalpa six Manus with their junctions have passed, and of the seventh (Va
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
-concepts: `cpt:yuga-system-jyotisa`
+concepts: [The yugas and kalpa in the siddhāntas](../concepts/yuga-system-jyotisa.md)
 
 ### 2.1-5 <a id="tea-surya-siddhanta-2-1-5"></a>
 `skeleton` · confidence high
@@ -83,7 +83,7 @@ Forms of time with invisible bodies, stationed in the zodiac and called the swif
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
-concepts: `cpt:causes-of-planetary-motion`
+concepts: [What moves the planets](../concepts/causes-of-planetary-motion.md)
 
 ### 2.6-8 <a id="tea-surya-siddhanta-2-6-8"></a>
 `skeleton` · confidence moderate
@@ -92,7 +92,7 @@ In the same way the node, Rāhu, by its own speed throws the moon and the other 
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
-terms: `trm:rahu` · concepts: `cpt:causes-of-planetary-motion`
+terms: [rāhu](../terms/rahu.md) · concepts: [What moves the planets](../concepts/causes-of-planetary-motion.md)
 
 ### 12.1-11 <a id="tea-surya-siddhanta-12-1-11"></a>
 `skeleton` · confidence high
@@ -101,7 +101,7 @@ Maya, bowing to the one born of the Sun's portion and worshipping him with devot
 
 _level: conventional · standpoint: devotional · path: knowledge, devotion · stage: all · types: world-fate, teacher-transmission_
 
-concepts: `cpt:jyotisa-transmission` · teachers: [Maya (the asura)](../teachers/maya-asura.md)
+concepts: [Teacher, pupil and the handing down of jyotiṣa](../concepts/jyotisa-transmission.md) · teachers: [Maya (the asura)](../teachers/maya-asura.md)
 
 ### 12.12-21 <a id="tea-surya-siddhanta-12-12-21"></a>
 `skeleton` · confidence high
@@ -110,7 +110,7 @@ Vāsudeva is the supreme Brahman; his embodiment is the supreme Person, unmanife
 
 _level: conventional · standpoint: cosmic · path: knowledge, devotion · stage: all · types: ultimate, world-fate_
 
-terms: [sūrya](../terms/surya.md) · concepts: `cpt:jyotisa-ultimate`, `cpt:sun-as-self-of-time`
+terms: [sūrya](../terms/surya.md) · concepts: [The ultimate as named in jyotiṣa texts](../concepts/jyotisa-ultimate.md), [The Sun as the self of time and of beings](../concepts/sun-as-self-of-time.md)
 
 ### 12.22-28 <a id="tea-surya-siddhanta-12-22-28"></a>
 `skeleton` · confidence high
@@ -119,7 +119,7 @@ Brahmā, bearing the form of the ego-principle, set his mind on creation: from h
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate, body-layers_
 
-concepts: `cpt:planets-and-elements`, `cpt:twelve-rasis`, `cpt:twenty-seven-naksatras`
+concepts: [The planets and the five elements](../concepts/planets-and-elements.md), [The twelve signs](../concepts/twelve-rasis.md), [The twenty-seven (twenty-eight) lunar mansions and their deities](../concepts/twenty-seven-naksatras.md)
 
 ### 12.29-36 <a id="tea-surya-siddhanta-12-29-36"></a>
 `skeleton` · confidence high
@@ -130,7 +130,7 @@ The egg of Brahmā is hollow, and within it the worlds bhūr, bhuvaḥ and the r
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
-concepts: `cpt:siddhantic-cosmography`
+concepts: [The cosmography of the siddhāntas](../concepts/siddhantic-cosmography.md)
 
 ### 14 <a id="tea-surya-siddhanta-14"></a>
 `skeleton` · confidence low
@@ -139,10 +139,10 @@ The final chapter names the measures of time — those of Brahmā, the gods, the
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate_
 
-concepts: `cpt:measures-of-time`
+concepts: [The measures of time](../concepts/measures-of-time.md)
 
 
 _Notes: Commentaries: Raṅganātha's Gūḍhārthaprakāśa (1603), Parameśvara, Kamalākara. Local e-text: GRETIL suryasiddhanta._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

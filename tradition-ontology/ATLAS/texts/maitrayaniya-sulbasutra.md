@@ -1,6 +1,6 @@
 # Maitrāyaṇīya Śulbasūtra
 
-`src:maitrayaniya-sulbasutra` · `skeleton` · confidence low
+`src:maitrayaniya-sulbasutra` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 A Maitrāyaṇīya altar-construction text transmitted separately from the Mānava.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:raw_etexts:Maitrayaniya_Shulba_Sutra — Low-confidence entry confirmed as extant, as a separate text in raw_etexts.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

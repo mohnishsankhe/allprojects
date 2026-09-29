@@ -17,4 +17,4 @@ Reflecting on the faults in acquiring, guarding and losing objects, in attachmen
 - Abstaining from objects for these faults is only a contentment, not liberation, without knowledge of the principles. — [Sāṃkhyakārikābhāṣya of Gauḍapāda](../texts/samkhya-karika-bhasya-gaudapada.md) 50
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._

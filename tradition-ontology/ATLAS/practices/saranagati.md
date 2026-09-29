@@ -27,4 +27,4 @@ Abandoning all dharmas, take refuge in the Lord alone, who frees from all sins (
 _Notes: Interpreted variously by the schools (see dsp:gita-primary-teaching); U05's contribution to a practice systematized by U14._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

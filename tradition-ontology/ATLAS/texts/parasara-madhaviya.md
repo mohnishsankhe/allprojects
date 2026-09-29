@@ -1,6 +1,6 @@
 # Parāśaramādhavīya
 
-`src:parasara-madhaviya` · `skeleton` · confidence moderate
+`src:parasara-madhaviya` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -16,4 +16,8 @@
 Mādhava's large commentary-digest on the Parāśarasmṛti, the standard South Indian authority on conduct and expiation for the Kali age.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Parāśarasmṛtiṭīkā, https://en.wikipedia.org/wiki/Vidyaranya, https://en.wikipedia.org/wiki/S%C4%81ya%E1%B9%87a — Extant. Mādhava's gloss on the Parāśarasmṛti, 14th c. Vijayanagara (Wikipedia 'Vidyaranya'). The identification of Mādhava with Vidyāraṇya is traditional and contested, as the entry says.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

@@ -17,6 +17,6 @@ _Notes: U05's contribution only; his lineage is owned by U52._
 **Verification checks**
 
 - 2026-09-28 websearch: confirmed — https://motherandsriaurobindo.in/Sri-Aurobindo/books/the-secret-of-the-veda/ — Confirmed: author of The Secret of the Veda (Arya, 1914–1920); dates 1872–1950 are standard.
-- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Arya:_A_Philosophical_Review — Confirmed.
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Arya:_A_Philosophical_Review — Confirmed.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

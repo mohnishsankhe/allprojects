@@ -17,4 +17,4 @@ Realize the hidden god in the cave by the yoga of the inner self (KU 1.2.12); tu
 - One who has not ceased from bad conduct, is not calm or collected cannot attain it (KU 1.2.24). — [Katha Upaniṣad](../texts/katha-upanisad.md) 1.2.24
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

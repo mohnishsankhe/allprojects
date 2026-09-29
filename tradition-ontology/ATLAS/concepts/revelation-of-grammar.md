@@ -1,6 +1,6 @@
 # The divine origin of grammar
 
-`cpt:revelation-of-grammar` · `skeleton` · confidence moderate
+`cpt:revelation-of-grammar` · `sourced` · confidence moderate
 
 **Category:** teacher-transmission
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — All three accounts were text-located. Rests on teaching checks confirmed in this sweep: tea:paniniya-siksa:56-57, tea:nandikesvara-kasika:1, tea:mahabhasya:paspasa/5.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

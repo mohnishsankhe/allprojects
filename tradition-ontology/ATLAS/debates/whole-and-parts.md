@@ -11,13 +11,13 @@ Yes: the whole is a new substance inhering in its parts, perceived as one; other
 - Objections that a whole can reside in its parts neither wholly nor partly are answered (NS 4.2.4–17).
 **Texts:** 
   - [Nyāya Sūtra](../texts/nyaya-sutra.md) — ref: 2.1.31–37; 4.2.4–17
-### `lin:pramana-buddhist`
+### [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
 No: only the parts (ultimately momentary particulars) are real; the 'whole' is a conceptual construction over an aggregate.
 - A whole can occur in its parts neither wholly nor partially (cf. the pūrvapakṣa of NS 4.2.7–10).
 - What is analysed away by the intellect is not ultimately real (cf. NS 4.2.26).
 **Texts:** 
   - [Nyāya Sūtra](../texts/nyaya-sutra.md) — ref: 4.2.7–10, 4.2.26 (as pūrvapakṣa)
-  - `src:pramanavarttika` — ref: (section not specified)
+  - [Pramāṇavārttika](../texts/pramanavarttika.md) — ref: (section not specified)
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -27,4 +27,4 @@ No: only the parts (ultimately momentary particulars) are real; the 'whole' is a
 **Candidate readings:** P2-standpoint: the Jain distinction of a standpoint of the enduring whole (dravyārthika) from one of parts and modes (paryāyārthika) would treat the two as partial views.; P1-level: Buddhist two-truth doctrine allows wholes conventional (not ultimate) reality.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

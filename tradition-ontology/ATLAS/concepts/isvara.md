@@ -16,10 +16,15 @@
 - [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md): Kumārila rejects a creator Prajāpati: no means of knowledge reaches him, a bodiless being cannot will creation, compassion would create only happiness, and purposeless action is unintelligible; later Bhāṭṭas dedicate dharma to Īśvara/Govinda.
 - [Prābhākara Mīmāṃsā](../lineages/prabhakara-mimamsa.md): No Īśvara directs dharma and adharma or moves atoms; fruits arise from dharma and adharma with their circumstances.
 - [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md): The Brahma Sūtra reports Jaimini's view that dharma itself gives the fruit.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: Kṛṣṇa is unborn, of imperishable self and lord of beings, coming into being by his own māyā (4.6); he responds to people as they resort to him (4.11); he made the fourfold class-order yet is the imperishable non-doer (4.13); actions do not stain him and he has no longing for their fruit (4.14); he is the enjoyer of sacrifices and austerities, great lord of all worlds and friend of all beings (5.29); he is seen everywhere and everything in him (6.30). Whether the 'lord' (prabhu, vibhu) of 5.14–15, who creates no agency and takes on no one's merit or sin, is the supreme Lord or the embodied self is disputed by commentators.
 
 ## Relations (interpretation layer)
 - contrasts-with → [Theistic Sāṃkhya (seśvara)](theistic-samkhya.md) — rests on [1.92](../texts/samkhya-sutra.md#tea-samkhya-sutra-1-92), [1.1.1](../texts/samkhyasara.md#tea-samkhyasara-1-1-1)
 - contrasts-with → [Puruṣa (the conscious self)](purusa.md): differs from liberated puruṣas in never having been bound — rests on [1.24](../texts/yoga-sutra.md#tea-yoga-sutra-1-24), [1.24](../texts/yoga-bhasya.md#tea-yoga-bhasya-1-24)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:4.6, tea:bhagavad-gita:4.11, tea:bhagavad-gita:4.13, tea:bhagavad-gita:4.14, tea:bhagavad-gita:5.29, tea:bhagavad-gita:6.30, tea:bhagavad-gita:5.14, tea:bhagavad-gita:5.15, tea:bhagavad-gita:6.14, tea:bhagavad-gita:6.15, tea:bhagavad-gita:6.31 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U12-mimamsa, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._

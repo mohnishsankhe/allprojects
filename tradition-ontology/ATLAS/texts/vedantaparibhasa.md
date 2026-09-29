@@ -26,7 +26,7 @@ Valid cognition (pramā) is cognition of an object not already known and not con
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: sound-language, consciousness-mind_
 
-terms: [pramā](../terms/prama.md), [pramāṇa](../terms/pramana.md), [arthāpatti](../terms/arthapatti.md), [anupalabdhi](../terms/anupalabdhi.md), [upamāna](../terms/upamana.md) · concepts: [Means of valid knowledge (pramāṇa)](../concepts/pramana.md) · teachers: [Dharmarāja Adhvarīndra](../teachers/dharmaraja-adhvarindra.md) · disputes: `dsp:number-of-pramanas`
+terms: [pramā](../terms/prama.md), [pramāṇa](../terms/pramana.md), [arthāpatti](../terms/arthapatti.md), [anupalabdhi](../terms/anupalabdhi.md), [upamāna](../terms/upamana.md) · concepts: [Means of valid knowledge (pramāṇa)](../concepts/pramana.md) · teachers: [Dharmarāja Adhvarīndra](../teachers/dharmaraja-adhvarindra.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
 
 ### ch.1 <a id="tea-vedantaparibhasa-ch-1-2"></a>
 `skeleton` · confidence high
@@ -44,7 +44,7 @@ Verbal testimony gives knowledge through expectancy, compatibility, proximity an
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: sound-language_
 
-terms: [śabda](../terms/sabda-pramana.md) · teachers: [Dharmarāja Adhvarīndra](../teachers/dharmaraja-adhvarindra.md) · disputes: `dsp:status-of-veda`
+terms: [śabda](../terms/sabda-pramana.md) · teachers: [Dharmarāja Adhvarīndra](../teachers/dharmaraja-adhvarindra.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### ch.7 <a id="tea-vedantaparibhasa-ch-7"></a>
 `skeleton` · confidence high
@@ -75,4 +75,4 @@ concepts: [Liberation (mokṣa) in Advaita](../concepts/liberation-advaita.md), 
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

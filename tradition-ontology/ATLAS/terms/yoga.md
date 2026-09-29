@@ -17,17 +17,24 @@
 - `lin:ganapatya`: Not union with wealth, kin, powers, heavens or divine ranks, but the undivided understanding regarding Śiva, Viṣṇu, Śakti, the Sun and Gaṇeśa (Gaṇeśa Gītā).
 - [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md): One-pointedness of mind on the Lord by stopping other modifications, with eight means (Īśvara Gītā).
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): VP 6.7.31: the joining with Brahman of the special, effort-dependent movement of the mind; LiP 1.8: restraint of citta's activities, and the word means nirvāṇa, Maheśa's state; ŚiP 7.2.37.6: the mind's steady activity fixed on Śiva.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: the imperishable yoga taught to Vivasvat and handed down to the royal sages (4.1–3); the yoga of action set beside renunciation and Sāṃkhya, which the wise see as one (5.1–6); what is called renunciation is yoga (6.2); the meditative yoking of the self in solitude (6.10–15); the state in which the restrained mind (citta) rests and the self is seen by the self (6.20–22), defined as 'the unyoking from union with sorrow' (6.23); called 'sāmya' (sameness) by Arjuna (6.33); the yogin is greater than ascetics, knowers and ritualists (6.46).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Yoga: 'the firm holding of the senses' (KU 2.3.11); the method taught by Death (KU 2.3.18); the trunk of the self made of understanding (TU 2.4); the chapter on posture, breath and signs (ŚU 2); the six-limbed yoga (MaiU 6.18).
+- [Jainism (Jaina dharma)](../lineages/jainism.md): (1) In Jain karma theory the vibration or activity of body, speech and mind which is the channel of inflow (TS 6.1–2); (2) in Jain yoga texts, whatever joins the soul to liberation — the three jewels (YŚ 1.15; Yogaviṃśikā 1).
 - [Vaiśeṣika](../lineages/vaisesika.md): The state in which, the mind abiding in the self, the embodied one has no pleasure or pain (VS 5.2.17 C).
 - [Nyāya](../lineages/nyaya.md): A means to liberation, practised in forests, caves and sandbanks, with the method of the inner self learned from the Yoga śāstra (NS 4.2.42, 4.2.46; NBh).
 - [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md): Tamil yōkam: the Siddhars teach the eight-limbed yoga of the Tirumantiram and vāci yoga, yet Kuṭampai asks what need of yoga the realized has.
 
 ## Forms in other languages
 - Pali: yoga  — partial
+- Prakrit: joga  — exact
 - Tamil: yōkam யோகம் — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [nirodha](nirodha.md), [samādhi](samadhi.md), [samatva](samatva.md), [kauśala](kausala.md), [buddhiyoga](buddhi-yoga.md), [karmayoga](karma-yoga.md), [sāṃkhya](samkhya.md), [dhyāna-yoga](dhyana-yoga.md), [sāyujya ('yoga')](sayujya.md)
+**Related:** [nirodha](nirodha.md), [samādhi](samadhi.md), [samatva](samatva.md), [kauśala](kausala.md), [buddhiyoga](buddhi-yoga.md), [karmayoga](karma-yoga.md), [sāṃkhya](samkhya.md), [dhyāna-yoga](dhyana-yoga.md), [sāyujya ('yoga')](sayujya.md), [yukta](yukta.md), [saṃnyāsa](samnyasa.md)
 
 ---
-_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, skeleton:U30-ayurveda-rasa, skeleton:U02-brahmana-vedanga, skeleton:U06-other-gitas, skeleton:U07-puranas, skeleton:U03-principal-upanisads, skeleton:U11-nyaya-vaisesika, skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: corrected — tea:bhagavad-gita:4.1, tea:bhagavad-gita:4.2, tea:bhagavad-gita:4.3, tea:bhagavad-gita:5.4, tea:bhagavad-gita:5.5, tea:bhagavad-gita:6.2, tea:bhagavad-gita:6.10, tea:bhagavad-gita:6.20, tea:bhagavad-gita:6.23, tea:bhagavad-gita:6.33, tea:bhagavad-gita:6.46 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
+
+_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, skeleton:U30-ayurveda-rasa, skeleton:U02-brahmana-vedanga, skeleton:U06-other-gitas, skeleton:U07-puranas, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U11-nyaya-vaisesika, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

@@ -20,4 +20,4 @@
 _Notes: The word 'vyūha' for the fourfold form is the later Pāñcarātra term; the Nārāyaṇīya speaks of the Lord's four forms (mūrti)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U08-agama-catalogue, skeleton:U14-visistadvaita, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U08-agama-catalogue, skeleton:U14-visistadvaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

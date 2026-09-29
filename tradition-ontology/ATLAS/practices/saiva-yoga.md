@@ -18,4 +18,4 @@ Inner worship and meditation on Śiva: the Āgamas' six-limbed yoga (breath cont
 - The powers that arise from yoga are not the goal; only knowledge by grace gives final release. — [Civañāṉa Cittiyār](../texts/sivananasiddhiyar.md) cupakkam.8
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

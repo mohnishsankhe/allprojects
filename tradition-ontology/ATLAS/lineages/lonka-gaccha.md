@@ -4,7 +4,7 @@
 
 **Family:** ascetic
 **Parent:** [Sthānakavāsī](sthanakavasi.md)
-**Founders:** `tch:lonka-sah`
+**Founders:** [Loṅkā Śāh](../teachers/lonka-sah.md)
 **Dates:** Scholarly account: from c. 1470s CE; (confidence moderate)
 **Status:** absorbed
 
@@ -18,7 +18,7 @@ The aniconic Śvetāmbara movement that arose from the teaching of Loṅkā Śā
 _none recorded_
 
 ## Teachers
-_none recorded_
+[Loṅkā Śāh](../teachers/lonka-sah.md)
 
 ## Practices
 _none recorded_
@@ -30,4 +30,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

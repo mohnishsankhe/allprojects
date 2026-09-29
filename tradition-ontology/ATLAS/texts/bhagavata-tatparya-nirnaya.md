@@ -30,4 +30,4 @@ terms: [avidyā](../terms/avidya.md), [prakṛti](../terms/prakrti.md), [Lakṣm
 
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

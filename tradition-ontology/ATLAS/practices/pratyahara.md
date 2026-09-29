@@ -31,4 +31,4 @@ The haṭha texts teach withdrawal in several ways: bringing the wandering mind 
 - The powers that arise from withdrawal are obstacles to the great success; the wise do not delight in them nor display them. — [Dattātreyayogaśāstra](../texts/dattatreyayogasastra.md) 91-95
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

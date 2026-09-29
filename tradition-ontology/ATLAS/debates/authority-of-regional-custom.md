@@ -1,6 +1,6 @@
 # Are regional practices that the cultured disapprove of authoritative in their own regions?
 
-`dsp:authority-of-regional-custom` · `skeleton` · confidence high
+`dsp:authority-of-regional-custom` · `sourced` · confidence high
 
 
 ## Sides (recorded before any reconciliation)
@@ -23,4 +23,8 @@ No: 'that is false', says Gautama; neither set is to be respected, since they co
 **Candidate readings:** the rule of GDh 11.20 (custom valid unless contrary to the Veda) as the tradition's own resolution; regional validity as a matter of standpoint (P2); strict rejection in favour of the śiṣṭa tradition
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/baudhayana-dharmasutra.md (GRETIL), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/2_grhya/asvalayana-grhyasutra.md (GRETIL), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sansk — BDh 1.1.2.1–8 was found: the five southern and five northern practices, 'tatra tatra deśaprāmāṇyam eva syāt', and 'mithyaitad iti gautamaḥ'. ĀśGS 1.7.1 was found ('atha khalu uccāvacā janapadadharmā grāmadharmāś ca tān vivāhe pratīyāt'). GDh 11.20 was found (deśajātikuladharmāḥ … āmnāyair aviruddhāḥ pramāṇam).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

@@ -14,6 +14,7 @@
 The 'connected discourses', grouped by topic into 56 saṃyuttas: verse dialogues with gods, Māra and brahmins (Sagāthāvagga), dependent origination (Nidānavagga), the aggregates (Khandhavagga), the six senses (Saḷāyatanavagga), and the path factors, awakening factors, satipaṭṭhāna, faculties, jhāna, ānāpānasati, stream-entry and the truths (Mahāvagga).
 **Editions / translations:** 
   - kind: original; name: Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka edition, based on the Sixth Council text), as published by SuttaCentral in bilara-data (root/pli/ms); local copy in sources_raw/bilara-data; licence: CC0 / public domain as published by SuttaCentral; url: https://suttacentral.net/sn
+**Commentaries on this text:** [Sāratthappakāsinī](saratthappakasini.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

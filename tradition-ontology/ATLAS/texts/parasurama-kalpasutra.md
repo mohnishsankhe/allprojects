@@ -50,7 +50,7 @@ concepts: [The thirty-six principles (ṣaṭtriṃśat-tattva)](../concepts/thi
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-terms: [kañcuka](../terms/kancuka.md), [jīva](../terms/jiva.md) · concepts: [The five sheaths of limitation (kañcuka)](../concepts/five-kancukas.md) · disputes: `dsp:is-there-a-self`
+terms: [kañcuka](../terms/kancuka.md), [jīva](../terms/jiva.md) · concepts: [The five sheaths of limitation (kañcuka)](../concepts/five-kancukas.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 1.6 <a id="tea-parasurama-kalpasutra-1-6"></a>
 `skeleton` · confidence high
@@ -234,4 +234,4 @@ disputes: [Are the Śākta tantras Vedic and authoritative?](../debates/vedic-st
 _Notes: Sūtra numbers checked against the GRETIL e-text._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._

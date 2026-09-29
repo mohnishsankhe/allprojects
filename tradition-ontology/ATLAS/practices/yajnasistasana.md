@@ -10,9 +10,14 @@ The good eat what remains of the sacrifice and are freed from all faults, wherea
 **Stage:** all
 **Sources:** 
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 3.13; rests_on: ["tea:bhagavad-gita:3.13"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 4.31; rests_on: ["tea:bhagavad-gita:4.31"]
 
 ## The texts' own warnings
 - Those who cook only for their own sake eat sin (3.13). — [Bhagavad Gītā](../texts/bhagavad-gita.md) 3.13
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:4.31 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._

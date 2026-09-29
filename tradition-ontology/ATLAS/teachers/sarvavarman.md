@@ -1,6 +1,6 @@
 # Śarvavarman
 
-`tch:sarvavarman` · `skeleton` · confidence low
+`tch:sarvavarman` · `sourced` · confidence low
 
 **Lineages:** [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
 **Historicity:** semi-legendary
@@ -10,4 +10,8 @@
 Author by tradition of the Kātantra grammar, composed for a Sātavāhana king.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/sharvavarma — Low-confidence entry confirmed: the traditional author of the Kātantra, composed for a Sātavāhana king (Wisdomlib).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

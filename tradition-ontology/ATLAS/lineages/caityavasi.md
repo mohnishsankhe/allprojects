@@ -26,7 +26,7 @@ _none recorded_
 _none recorded_
 
 ## Debates
-_none recorded_
+[May monks reside permanently in temples and manage their property?](../debates/caityavasa.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

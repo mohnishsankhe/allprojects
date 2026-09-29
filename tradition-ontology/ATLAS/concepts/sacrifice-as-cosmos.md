@@ -1,6 +1,6 @@
 # The sacrifice as the cosmic Person and the world
 
-`cpt:sacrifice-as-cosmos` · `skeleton` · confidence high
+`cpt:sacrifice-as-cosmos` · `sourced` · confidence high
 
 **Category:** ultimate
 
@@ -14,4 +14,8 @@
 - leads-to → [The internalized sacrifice](internalized-sacrifice.md): the identity of rite, cosmos and person makes an inner rite possible — rests on [11.2.6.13-14](../texts/satapatha-brahmana.md#tea-satapatha-brahmana-11-2-6-13-14)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14), text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/kAThakam/ (TB 3.10–12 Kāṭhaka sections, anuvāka.kaṇḍikā headings) — The definition's cited passages were all checked in this sweep and support it: tea:satapatha-brahmana:1.3.2.1 (confirmed); tea:satapatha-brahmana:13.7.1.1 (confirmed); tea:taittiriya-brahmana:3.12.9.3-7 (confirmed); tea:satapatha-brahmana:5.1.1.1-2 (confirmed).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

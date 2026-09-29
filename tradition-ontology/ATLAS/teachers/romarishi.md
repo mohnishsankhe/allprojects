@@ -11,4 +11,4 @@ Sage counted among the Siddhars in some Tamil lists; works on medicine and wisdo
 _Notes: Recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

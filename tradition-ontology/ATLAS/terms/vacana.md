@@ -8,6 +8,7 @@
 
 ## Definitions by tradition
 - [Śaraṇa–vacana tradition](../lineages/sarana-vacana.md): A short rhythmic Kannada prose-poem spoken from experience, usually closing with the author's signature name for the Lord; the scripture of the śaraṇa strand.
+- [Śvetāmbara](../lineages/svetambara.md): A 'recitation' — an assembly of monks to collect and fix the scripture: at Pāṭaliputra after the famine, at Mathurā under Skandila (and at Valabhī under Nāgārjuna), and at Valabhī under Devarddhigaṇi, where the canon was written down.
 
 ## Forms in other languages
 
@@ -15,4 +16,4 @@
 **Related:** [aṅkita](ankita.md), [vacanakāra](vacanakara.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

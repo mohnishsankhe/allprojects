@@ -50,13 +50,13 @@ The science of drama and poetry from Bharata's Nāṭyaśāstra to Jagannātha. 
 [Abhinavagupta](../teachers/abhinavagupta.md), [Ānandavardhana](../teachers/anandavardhana.md), [Bhāmaha](../teachers/bhamaha.md), [Bharata (Bharata Muni)](../teachers/bharata-muni.md), [Bhaṭṭa Lollaṭa](../teachers/bhatta-lollata.md), [Bhaṭṭa Nāyaka](../teachers/bhatta-nayaka.md), [Bhaṭṭa Tauta](../teachers/bhatta-tauta.md), [Bhavabhūti](../teachers/bhavabhuti.md), [Bhoja](../teachers/bhoja.md), [Daṇḍin](../teachers/dandin.md), [Dhanañjaya](../teachers/dhananjaya.md), [Dhanika](../teachers/dhanika.md), [Guṇacandra](../teachers/gunacandra.md), [Hemacandra](../teachers/hemacandra.md), [Jagannātha Paṇḍitarāja](../teachers/jagannatha-panditaraja.md), [Kohala](../teachers/kohala.md), [Kṣemendra](../teachers/ksemendra.md), [Kuntaka](../teachers/kuntaka.md), [Mahimabhaṭṭa](../teachers/mahimabhatta.md), [Mammaṭa](../teachers/mammata.md), [Nandikeśvara](../teachers/nandikesvara.md), [Rājaśekhara](../teachers/rajasekhara.md), [Rāmacandra (Sūri)](../teachers/ramacandra-suri.md), [Rudraṭa](../teachers/rudrata.md), [Ruyyaka](../teachers/ruyyaka.md), [Śāradātanaya](../teachers/saradatanaya.md), [Śrī Śaṅkuka](../teachers/sri-sankuka.md), [Udbhaṭa](../teachers/udbhata.md), [Vāmana (the poetician)](../teachers/vamana-alankarika.md), [Viśvanātha Kavirāja](../teachers/visvanatha-kaviraja.md)
 
 ## Practices
-_none recorded_
+[The preliminaries of performance (pūrvaraṅga)](../practices/purvaranga.md), [Worship of the deities of the stage (raṅga-daivata-pūjana)](../practices/ranga-puja.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-[Can devotion to God be a full aesthetic rasa, or only a bhāva?](../debates/is-bhakti-a-rasa.md)
+[Is suggestion (dhvani, vyañjanā) a distinct power of words, and is it the soul of poetry?](../debates/dhvani-vyanjana.md), [How does rasa arise from the union of determinants, consequents and transient states, and where is it?](../debates/how-rasa-arises.md), [Can devotion to God be a full aesthetic rasa, or only a bhāva?](../debates/is-bhakti-a-rasa.md), [Is every rasa blissful, even compassion and terror?](../debates/is-rasa-bliss.md), [Is there one rasa underlying all, and if so which?](../debates/one-rasa-or-many.md), [Is śānta (peace) a rasa, and what is its stable emotion?](../debates/santa-rasa.md)
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

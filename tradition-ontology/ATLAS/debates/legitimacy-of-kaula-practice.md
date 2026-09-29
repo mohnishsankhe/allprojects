@@ -34,4 +34,4 @@ Kulārṇava 9.55-58 ('no injunction, no prohibition') is spoken of the Kaula wh
 _Notes: Related: dsp:authority-of-sixty-four-tantras (U08), dsp:purity-impurity-kaula (U19), dsp:daksina-vs-vama._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._

@@ -17,4 +17,4 @@ The Mokṣadharma's yoga teaches fixing the mind in concentrations (dhāraṇā)
 _Notes: Low confidence on the specific objects and similes; to be extracted in Phase D._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

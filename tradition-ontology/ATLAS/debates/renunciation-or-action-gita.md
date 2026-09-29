@@ -6,6 +6,34 @@
 
 ## Sides (recorded before any reconciliation)
 ### [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
+Renunciation of actions, which Arjuna hears praised alongside yoga (5.1), brings the highest good (5.2); the place reached by the Sāṃkhyas is reached by the Yogins too (5.5); renouncing all actions with the mind, the embodied one dwells at ease in the city of nine gates (5.13).
+- Kṛṣṇa himself praises the renunciation of actions as well as yoga, so Arjuna asks for the one that is better (5.1).
+- It brings the highest good (niḥśreyasa) (5.2).
+- The Sāṃkhyas reach the same place as the Yogins (5.5).
+**Texts:** 
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.1
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.2
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.5
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.13
+### None
+Renunciation of actions is a path distinct from the yoga of action; Sāṃkhya and Yoga are separate; the renouncer is known by the outward marks of formal renunciation — giving up the ritual fires and rites.
+- Stated only as the positions the Gītā denies (5.4, 6.1); no argument for them is given in the text.
+**Texts:** 
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.4
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.1
+### [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
+Both renunciation and the yoga of action bring the highest good, but the yoga of action is superior (5.2); true renunciation is inner — neither hating nor desiring, giving up the fruit and intention — and renunciation and yoga are one in result.
+- Both lead to the highest good, but karma-yoga is superior to the renunciation of action (5.2).
+- The constant renouncer is simply the one who neither hates nor desires (5.3).
+- One established in either obtains the fruit of both; the same place is reached by both (5.4–5).
+- Renunciation is hard to attain without yoga, while the sage yoked in yoga soon reaches Brahman (5.6).
+- The renouncer and yogin is the one who does the required action without depending on its fruit, not the one without fire or rites (6.1).
+- What is called renunciation is yoga, for no one becomes a yogin without renouncing intention (6.2).
+- Action is the means for the one wishing to ascend to yoga, calm for the one who has ascended (6.3).
+**Texts:** 
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.2-6
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.1-4
+### [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
 If understanding (buddhi) is held superior to action (cf. 2.49), there is no reason to engage in terrible action; Kṛṣṇa's words seem mixed, and Arjuna asks for the one thing by which he may reach the good.
 - Kṛṣṇa himself ranked action far below the yoga of understanding (2.49), yet urges Arjuna to fight (3.1).
 - The teaching seems mixed and confuses the understanding (3.2).
@@ -41,11 +69,15 @@ Action: no one can remain without acting (3.5); mere renunciation does not bring
 ## Reconciliation (interpretation layer)
 **Status:** partially-reconciled
 **Principles:** P4-stage, P3-path
-**Explanation:** The Gītā reconciles the two itself: action is the means for one ascending and quiescence for one ascended (6.3), true renunciation is acting without depending on the fruit (6.1), saṃnyāsa and tyāga are redefined (18.2), and Sāṃkhya and Yoga are one in result (5.4–5).
+**Explanation:** The text itself says both reach the same goal (5.2, 5.4–5) and ties the means to the student's stage — action for one ascending, calm for one ascended (6.3); commentators still divide on whether the superiority of karma-yoga in 5.2 is relative to stage or absolute.
 Śaṅkara applies the stage reading: the preference for karma-yoga (5.2) holds for those without self-knowledge, renunciation for the knower. Tilak (recent) holds that even the knower should act.
-**The traditions' own objections:** The renunciant reading (Advaita) holds formal renunciation to be the knower's proper state; the activist reading denies this; neither accepts that the text leaves the knower's case open.
+**The traditions' own objections:** The commentarial traditions do not accept a simple equivalence: e.g. Śaṅkara takes renunciation grounded in knowledge as final and karma-yoga as preparatory for one who lacks knowledge, while Rāmānuja takes karma-yoga as superior because easier and inclusive of knowledge of the self.
 
-_Notes: Contribution of Bhagavad Gītā chapters 1–3 to the skeleton dispute of this id (the question recurs at 5.1–6, 6.1–4 and 18.1–12, outside this chunk). How the two niṣṭhās relate (alternatives for different persons, or stages for one person; whether knowledge alone liberates) is one of the main points on which the Gītā's commentators divide; it bears on the general debate dsp:works-knowledge-grace. No reconciliation is attempted at extraction. Merged from A (dsp:knowledge-or-action-bhagavad-gita) and B (dsp:bhagavad-gita-action-or-renunciation)._
+_Notes: Chs. 4–6 contribution to the dispute of this id (ch01-03 records 3.1–9; 18.1–12 lies outside this chunk). Merged from extractor A (same id) and extractor B (dsp:samnyasa-or-karma-yoga): B's two sides as the text presents them, with A's side for the views the Gītā reports only to deny (the opposing view is known here only through the Gītā's own words); B's reconciliation block (text-internal, P4/P3) is kept in the interpretation layer._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:5.1, tea:bhagavad-gita:5.2, tea:bhagavad-gita:5.5, tea:bhagavad-gita:5.13, tea:bhagavad-gita:5.4, tea:bhagavad-gita:6.1, tea:bhagavad-gita:5.3, tea:bhagavad-gita:5.6, tea:bhagavad-gita:6.2, tea:bhagavad-gita:6.3, tea:bhagavad-gita:6.4 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

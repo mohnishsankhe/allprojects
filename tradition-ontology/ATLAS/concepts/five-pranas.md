@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The five vital airs in Yoga](prana-vayus-yoga.md): the later yoga lists of vital currents include these five — rests on [3.4-7](../texts/prasna-upanisad.md#tea-prasna-upanisad-3-4-7)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

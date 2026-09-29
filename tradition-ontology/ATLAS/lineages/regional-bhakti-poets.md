@@ -31,7 +31,7 @@ A classificatory grouping (not a tradition) for regional devotional poets in U26
 [Annamācārya (Tāḷḷapāka Annamayya)](../teachers/annamacarya.md), [Baḍu Caṇḍīdās](../teachers/baru-candidas.md), [Bhadrācala Rāmadās (Kañcarla Gopanna)](../teachers/bhadracala-ramadas.md), [Narsinh Mehta](../teachers/narsinh-mehta.md), [Tyāgarāja](../teachers/tyagaraja.md), [Vidyāpati](../teachers/vidyapati.md)
 
 ## Practices
-[Worship through music (nādopāsana)](../practices/nadopasana.md), [Holy company (satsaṅga)](../practices/satsanga.md)
+[Worship through nāda (music as spiritual practice)](../practices/nadopasana.md), [Holy company (satsaṅga)](../practices/satsanga.md)
 
 ## Path maps
 _none recorded_
@@ -42,4 +42,4 @@ _none recorded_
 _Notes: Created by U26 so that teachers without a sampradāya of their own can be recorded; convergence counts should not treat it as an independent lineage root. See REPORT.md._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

@@ -21,7 +21,7 @@ May the Sun make our speech good — he who is the eye of the world, the thousan
 
 _level: bridging · standpoint: devotional · path: devotion, knowledge · stage: all · types: ultimate, world-fate, karma-liberation_
 
-concepts: `cpt:sun-as-self-of-time`, `cpt:jyotisa-ultimate` · teachers: [Varāhamihira](../teachers/varahamihira.md), [Sūrya (as revealer of jyotiṣa)](../teachers/surya.md)
+concepts: [The Sun as the self of time and of beings](../concepts/sun-as-self-of-time.md), [The ultimate as named in jyotiṣa texts](../concepts/jyotisa-ultimate.md) · teachers: [Varāhamihira](../teachers/varahamihira.md), [Sūrya (as revealer of jyotiṣa)](../teachers/surya.md)
 
 ### 1.3-4 <a id="tea-yogayatra-1-3-4"></a>
 `skeleton` · confidence high
@@ -30,7 +30,7 @@ Karma, good and bad, produced in another birth is fate (daiva); by itself it giv
 
 _level: conventional · standpoint: causal · path: action · stage: all · types: world-fate, karma-liberation, dispute_
 
-terms: [daiva](../terms/daiva.md), [puruṣakāra](../terms/purusakara.md) · concepts: `cpt:daiva-and-purusakara-jyotisa` · teachers: [Varāhamihira](../teachers/varahamihira.md) · disputes: `dsp:jyotisa-fate-and-effort`
+terms: [daiva](../terms/daiva.md), [puruṣakāra](../terms/purusakara.md) · concepts: [Fate and effort in jyotiṣa](../concepts/daiva-and-purusakara-jyotisa.md) · teachers: [Varāhamihira](../teachers/varahamihira.md) · disputes: [If the chart shows fate, what room is left for human effort and for remedial rites?](../debates/jyotisa-fate-and-effort.md)
 
 ### 1.5-6 <a id="tea-yogayatra-1-5-6"></a>
 `skeleton` · confidence high
@@ -41,10 +41,10 @@ If mere favourableness of planets, asterisms, lunar days, rising sign, horā, de
 
 _level: conventional · standpoint: polemical · path: action, ritual · stage: all · types: world-fate, dispute_
 
-concepts: `cpt:daiva-and-purusakara-jyotisa`, `cpt:remedial-measures` · obstacles: [Reliance on fate](../obstacles/daiva-paratva.md) · teachers: [Varāhamihira](../teachers/varahamihira.md) · disputes: `dsp:jyotisa-fate-and-effort`
+concepts: [Fate and effort in jyotiṣa](../concepts/daiva-and-purusakara-jyotisa.md), [Remedial measures (śānti, parihāra, upāya)](../concepts/remedial-measures.md) · obstacles: [Reliance on fate](../obstacles/daiva-paratva.md) · teachers: [Varāhamihira](../teachers/varahamihira.md) · disputes: [If the chart shows fate, what room is left for human effort and for remedial rites?](../debates/jyotisa-fate-and-effort.md)
 
 
 _Notes: Local e-texts: GRETIL and Pingree's edition._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

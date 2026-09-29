@@ -11,6 +11,6 @@ A king devoted to Nārāyaṇa who performed a horse sacrifice without slaughter
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.323.3-14 (rājoparicaro vasuḥ; aśvamedha without paśughāta), 12.324.3-12 (aja dispute) — Located as described.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.323.3-14 (rājoparicaro vasuḥ; aśvamedha without paśughāta), 12.324.3-12 (aja dispute) — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

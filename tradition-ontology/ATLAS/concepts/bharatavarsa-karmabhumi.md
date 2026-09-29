@@ -13,4 +13,4 @@
 - part-of → [Bhū-maṇḍala: Meru, seven island-continents and seven oceans](bhu-mandala.md)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._

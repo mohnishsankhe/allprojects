@@ -3,8 +3,8 @@
 `obs:dambha` · `skeleton` · confidence high
 
 **Category:** obstacle
-**Convergence:** 5 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Rādhāvallabha sampradāya](../lineages/radhavallabha.md), [Unaffiliated regional bhakti poets (classificatory grouping)](../lineages/regional-bhakti-poets.md), [Vārkarī sampradāya](../lineages/varkari.md)
-**Taught in:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Rādhāvallabha sampradāya](../lineages/radhavallabha.md), [Unaffiliated regional bhakti poets (classificatory grouping)](../lineages/regional-bhakti-poets.md), [Vārkarī sampradāya](../lineages/varkari.md)
+**Convergence:** 6 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Rādhāvallabha sampradāya](../lineages/radhavallabha.md), [Unaffiliated regional bhakti poets (classificatory grouping)](../lineages/regional-bhakti-poets.md), [Śvetāmbara](../lineages/svetambara.md), [Vārkarī sampradāya](../lineages/varkari.md)
+**Taught in:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Rādhāvallabha sampradāya](../lineages/radhavallabha.md), [Unaffiliated regional bhakti poets (classificatory grouping)](../lineages/regional-bhakti-poets.md), [Śvetāmbara](../lineages/svetambara.md), [Vārkarī sampradāya](../lineages/varkari.md)
 
 Wearing an ascetic's garb or talking of yoga without practice (HYP 1.65–66; DYŚ 39–46, 'for the sake of penis and belly'); speaking of knowledge before the breath enters the middle path is 'deceitful prattle' (HYP 4.114).
 **Antidotes:** practice (kriyā) itself (HYP 1.66), inner purity, knowledge of the Self, the saints' company
@@ -17,4 +17,4 @@ Wearing an ascetic's garb or talking of yoga without practice (HYP 1.65–66; DY
   - [Narsinh Mehta's padas](../texts/narsinh-mehta-padas.md) — ref: jyam-lagi-atma; rests_on: ["tea:narsinh-mehta-padas:jyam-lagi-atma"]
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U26-regional-bhakti, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._

@@ -19,4 +19,4 @@ Hold the understanding 'according to yoga' in acting (2.39): a single, resolute 
 - Wretched are those whose motive is the fruit. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 2.49
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-28 09:07 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 16:38 IST._

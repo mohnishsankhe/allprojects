@@ -11,4 +11,4 @@ Worship (upāsti) of the Lord, declared by the wise to be the path to heaven and
   - [Nyāyakusumāñjali](../texts/nyaya-kusumanjali.md) — ref: 1.2–1.3; rests_on: ["tea:nyaya-kusumanjali:1.2", "tea:nyaya-kusumanjali:1.3"]
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

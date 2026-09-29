@@ -1,6 +1,6 @@
 # Durga (Durgācārya)
 
-`tch:durgacarya` · `skeleton` · confidence low
+`tch:durgacarya` · `sourced` · confidence low
 
 **Lineages:** [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
 **Historicity:** historical
@@ -10,4 +10,8 @@
 Commentator on the Nirukta; date uncertain.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/durgacarya — Low-confidence entry confirmed: the commentator on the Nirukta; the commentary is dated before 1200 CE (Wisdomlib).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

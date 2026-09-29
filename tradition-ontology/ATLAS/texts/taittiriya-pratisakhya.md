@@ -1,6 +1,6 @@
 # Taittirīya Prātiśākhya
 
-`src:taittiriya-pratisakhya` · `skeleton` · confidence moderate
+`src:taittiriya-pratisakhya` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -14,4 +14,8 @@ The Prātiśākhya of the Taittirīya Saṃhitā (Black Yajurveda): production a
 _Notes: Commentaries: Tribhāṣyaratna (Somayārya), Vaidikābharaṇa._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:eBharati:kRShNayajurvedIyaprAtishAkhyam, https://en.wikipedia.org/wiki/Pratishakhyas — Extant locally with 24 adhyāyas ('iti caturviṃśo 'dhyāyaḥ … kṛṣṇayajurvedaprātiśākhyaṃ samāptam'). Whitney's edition and translation exist (Wikipedia). The commentaries named in the note were not re-checked.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

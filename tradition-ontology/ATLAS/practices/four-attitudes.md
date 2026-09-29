@@ -19,7 +19,7 @@ Cultivating friendliness toward the happy, compassion toward the suffering, glad
 - Equanimity toward the wicked is not a cultivation; no samādhi and no strength come from it. — [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) 3.23
 
 ## Equivalents (interpretation layer)
-- partial: `prc:brahmavihara-bhavana` — Same four attitudes and 'vihāra' vocabulary (YBh 4.10) as the Buddhist brahmavihāras; objects and aim differ (YS 1.33 assigns each to a class of object)
+- partial: [Development of the four divine abidings](brahmavihara-bhavana.md) — Same four attitudes and 'vihāra' vocabulary (YBh 4.10) as the Buddhist brahmavihāras; objects and aim differ (YS 1.33 assigns each to a class of object)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 16:38 IST._

@@ -1,5 +1,79 @@
 [
  {
+  "id": "brw:abhidharma-matrka-dharmaskandha-vibhanga",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "Shared Abhidharma matrix: the Dharmaskandha and the Pali Vibhaṅga analyse largely the same topics in similar order",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Both schools' Abhidharma grew from common mātṛkā lists.",
+    "refs": [
+     "src:dharmaskandha",
+     "src:vibhanga"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:abhijati-and-lesya",
+  "from": "lin:ajivika",
+  "to": "lin:jainism",
+  "what": "a doctrine of six colour-named classes of beings (abhijāti / leśyā)",
+  "direction": "disputed",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "the Ājīvika six classes (AN 6.57) and the Jain six leśyās are both six and colour-named; see also brw:vrtra-colours-and-sramana-colour-doctrines (U05)",
+    "refs": [
+     "tea:chalabhijati-sutta:1-9"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "relationship and direction disputed (metadata only)",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "B1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U33-sramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:adhyatma-ramayana-to-manas",
   "from": "lin:puranic",
   "to": "lin:ramanandi",
@@ -65,6 +139,43 @@
   "provenance": {
    "units": [
     "skeleton:U06-other-gitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:adittapariyaya-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:mulasarvastivada",
+  "what": "The fire sermon: SN 35.28 (Pali) ↔ SĀ 197",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:adittapariyaya-sutta",
+     "SN 35.28",
+     "src:samyuktagama",
+     "SĀ 197"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
    ],
    "phases": [
     "skeleton"
@@ -145,6 +256,120 @@
   }
  },
  {
+  "id": "brw:aggivacchagotta-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:mulasarvastivada",
+  "what": "Vacchagotta and the fire simile: MN 72 (Pali) ↔ SĀ 962; also SĀ² 196",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:aggivacchagotta-sutta",
+     "MN 72",
+     "src:samyuktagama",
+     "SĀ 962; also SĀ² 196"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:ajita-to-lokayata",
+  "from": "lin:sramana",
+  "to": "lin:carvaka",
+  "what": "the natthika/uccheda view of the person made of four elements",
+  "direction": "disputed",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "DN 2's 'cātumahābhūtiko ayaṃ puriso' and the Bṛhaspati fragments' four elements and 'no other world'",
+    "refs": [
+     "tea:samannaphala-sutta:23",
+     "tea:brhaspati-sutra:fr-tattvani",
+     "tea:brhaspati-sutra:fr-paraloka"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Ajita as forerunner of the Lokāyata (metadata only); no lineage link in the texts",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "B1"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U33-sramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:alagaddupama-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "The simile of the snake and the raft: MN 22 (Pali) ↔ MĀ 200 (Alizha jing 阿梨吒經)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:alagaddupama-sutta",
+     "MN 22",
+     "src:madhyamagama",
+     "MĀ 200 (Alizha jing 阿梨吒經)"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:alankara-rasa-advaita-bhakti",
   "from": "lin:alankara",
   "to": "lin:advaita-vedanta",
@@ -210,6 +435,37 @@
   "provenance": {
    "units": [
     "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:alankara-to-jain-poetics",
+  "from": "lin:alankara",
+  "to": "lin:svetambara",
+  "what": "The rasa theory adopted and modified by Jain authors (Hemacandra's Kāvyānuśāsana; the Nāṭyadarpaṇa's rasa as pleasure and pain).",
+  "direction": "from→to",
+  "era": "12th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Hemacandra and his disciples discuss Abhinavagupta's views",
+    "refs": [
+     "tea:natyadarpana:3"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U31-sound-arts"
    ],
    "phases": [
     "skeleton"
@@ -396,6 +652,150 @@
   }
  },
  {
+  "id": "brw:anapanasati-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:mulasarvastivada",
+  "what": "Mindfulness of breathing in sixteen steps: MN 118 (Pali) ↔ SĀ 810 (number to be verified)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:anapanasati-sutta",
+     "MN 118",
+     "src:samyuktagama",
+     "SĀ 810 (number to be verified)"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:anatman-sermon-mahavastu",
+  "from": "lin:early-buddhism",
+  "to": "lin:lokottaravada",
+  "what": "The not-self discourse: SN 22.59 ↔ Mahāvastu iii.335",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:anattalakkhana-sutta",
+     "tea:mahavastu:3.335"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:anattalakkhana-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:mulasarvastivada",
+  "what": "The discourse on the characteristic of not-self: SN 22.59 (Pali) ↔ SĀ 34",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:anattalakkhana-sutta",
+     "SN 22.59",
+     "src:samyuktagama",
+     "SĀ 34"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:antarabhava-bardo",
+  "from": "lin:sarvastivada",
+  "to": "lin:nyingma",
+  "what": "The intermediate existence of the Abhidharma as the doctrinal base of the Tibetan teachings on the bar do",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "antarābhava = bar do (Tibetan translation of the Kośa); the bar do literature expands it.",
+    "refs": [
+     "tea:abhidharmakosa:3.10",
+     "src:bardo-thodol"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:aparoksanubhuti-tejobindu",
   "from": "lin:advaita-vedanta",
   "to": "lin:upanisadic",
@@ -425,6 +825,43 @@
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:ariyapariyesana-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "The noble search: MN 26 (Pali) ↔ MĀ 204 (Luomo jing 羅摩經)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:ariyapariyesana-sutta",
+     "MN 26",
+     "src:madhyamagama",
+     "MĀ 204 (Luomo jing 羅摩經)"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
    ],
    "phases": [
     "skeleton"
@@ -616,6 +1053,73 @@
   }
  },
  {
+  "id": "brw:atthakavagga-arthapada",
+  "from": "lin:early-buddhism",
+  "to": "lin:early-buddhism",
+  "what": "The Aṭṭhakavagga (Sutta Nipāta 4) ↔ the Chinese Arthapada-sūtra (T198)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Same sixteen poems with added frame stories; school of the Chinese version unknown.",
+    "refs": [
+     "src:atthakavagga",
+     "src:arthapada-sutra"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:ayurveda-jain-kalyanakaraka",
+  "from": "lin:ayurveda",
+  "to": "lin:digambara",
+  "what": "Āyurveda recast for Jain ethics in Ugrāditya's Kalyāṇakāraka (no meat, alcohol or honey).",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Kalyāṇakāraka",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "era": "c. 9th c.",
+  "provenance": {
+   "units": [
+    "skeleton:U30-ayurveda-rasa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:ayurveda-nyaya-vada",
   "from": "lin:ayurveda",
   "to": "lin:nyaya",
@@ -652,10 +1156,19 @@
   "id": "brw:ayurveda-siddha-medicine",
   "from": "lin:ayurveda",
   "to": "lin:siddha-medicine",
-  "what": "The humoral triad, seven body-constituents, six tastes and rejuvenation (rasāyana/kaṟpam)",
+  "what": "The three humours (vātam, pittam, kapam), the seven tissues and much Sanskrit medical vocabulary shared by Āyurveda and Siddha medicine.",
   "direction": "disputed",
-  "era": "undetermined",
   "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "tōṣam/doṣa; tātu/dhātu; vātam, pittam, kapam",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "the Siddha tradition derives its medicine from Śiva through Agastya (see U22)",
+    "refs": []
+   },
    {
     "type": "shared-vocabulary",
     "detail": "vātam, pittam, kapam; tātu; aṟucuvai",
@@ -670,9 +1183,124 @@
    }
   ],
   "coverage": [
+   "C",
    "A7",
-   "A11",
+   "A11"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "era": "undetermined",
+  "provenance": {
+   "units": [
+    "skeleton:U30-ayurveda-rasa",
+    "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:ayurveda-to-hatha-yoga",
+  "from": "lin:ayurveda",
+  "to": "lin:hatha-yoga",
+  "what": "Doṣa vocabulary and the aim of balancing the doṣas used to frame the haṭha cleansing acts and breath practices (HYP 2.21).",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "medas, śleṣman, doṣa, vāta-pitta-kapha in the Haṭhapradīpikā",
+    "refs": []
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "HYP 2.21",
+    "refs": []
+   }
+  ],
+  "coverage": [
    "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "era": "c. 13th–15th c.",
+  "provenance": {
+   "units": [
+    "skeleton:U30-ayurveda-rasa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:ayurveda-to-sowa-rigpa",
+  "from": "lin:ayurveda",
+  "to": "lin:sowa-rigpa",
+  "what": "The Aṣṭāṅgahṛdaya and its three-doṣa medicine, translated into Tibetan (in the Tengyur); scholars trace much of the Four Tantras (rGyud bzhi) to it.",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Tibetan translation of the Aṣṭāṅgahṛdaya in the Tengyur (recalled)",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "The Tibetan tradition's own account has the Four Tantras taught by the Medicine Buddha; kept apart from the scholarly account",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "era": "c. 8th–12th c.",
+  "provenance": {
+   "units": [
+    "skeleton:U30-ayurveda-rasa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:barhaspatya-arthasastra-and-lokayata",
+  "from": "lin:carvaka",
+  "to": "lin:arthasastra",
+  "what": "the name Bārhaspatya and a this-worldly view of the sciences",
+  "direction": "disputed",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "the Arthaśāstra's Bārhaspatyas (only economics and government; the Veda a cover) and the Lokāyata's 'Bṛhaspati'",
+    "refs": [
+     "tea:arthasastra:1.2.4-5",
+     "tea:sarvadarsanasangraha:1/8"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "both are ascribed to Bṛhaspati",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "B1"
   ],
   "verification": {
    "level": "skeleton",
@@ -682,7 +1310,7 @@
   },
   "provenance": {
    "units": [
-    "skeleton:U22-tamil-siddha"
+    "skeleton:U33-sramana"
    ],
    "phases": [
     "skeleton"
@@ -1158,6 +1786,72 @@
   }
  },
  {
+  "id": "brw:boran-to-dhammakaya",
+  "from": "lin:boran-kammatthana",
+  "to": "lin:dhammakaya",
+  "what": "Placing the mind at bodily centres and using recited Pali syllables and luminous spheres.",
+  "direction": "disputed",
+  "era": "19th–20th c.",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "recent scholarship sees the Dhammakāya method as a descendant of borān kammaṭṭhāna; the tradition's account speaks of rediscovery in 1917",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U37-abhidhamma-visuddhimagga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:brahmajala-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:dharmaguptaka",
+  "what": "The net of views: DN 1 (Pali) ↔ DĀ 21 (Fandong jing 梵動經); also T21",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:brahmajala-sutta",
+     "DN 1",
+     "src:dirghagama",
+     "DĀ 21 (Fandong jing 梵動經); also T21"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:brahmana-to-pancaratra",
   "from": "lin:vedic-srauta",
   "to": "lin:pancaratra",
@@ -1179,14 +1873,73 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local ŚB 13.6.1.1",
+      "Pancharatra first occurs Shatapatha Brahmana Purusha Narayana"
+     ],
+     "evidence": [
+      "text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14)",
+      "https://en.wikipedia.org/wiki/Pancharatra"
+     ],
+     "result": "confirmed",
+     "note": "ŚB 13.6.1.1 was found: 'puruṣo ha nārāyaṇo 'kāmayata atitiṣṭheyaṃ sarvāṇi bhūtāny aham evedaṃ sarvaṃ syām iti sa etam puruṣamedham pañcarātraṃ yajñakratum apaśyat'. Wikipedia's Pāñcarātra article says the term first occurs in ŚB 13, with Puruṣa Nārāyaṇa's five-night Puruṣamedha, and that the tradition's name may derive from it. That supports the entry's framing: a proposed, not established link with direction 'disputed'.",
+     "by": "sourcing:U02-brahmana-vedanga"
+    }
+   ]
   },
   "provenance": {
    "units": [
     "skeleton:U02-brahmana-vedanga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:brahmanical-vocabulary-redefined",
+  "from": "lin:vedic-srauta",
+  "to": "lin:early-buddhism",
+  "what": "Brahmanical terms re-used with a new sense: brāhmaṇa (by conduct), tevijjā (the three true knowledges), brahmavihāra and brahmacariya, yañña (sacrifice as giving and virtue), nahātaka (the 'bathed' one purified within).",
+  "direction": "from→to",
+  "era": "the Buddha's lifetime onward",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "The suttas address brahmins and redefine their terms explicitly (DN 5, DN 13, MN 7, MN 98, Dhp 26).",
+    "refs": [
+     "tea:tevijja-sutta:76-81",
+     "tea:kutadanta-sutta:22-27",
+     "tea:vasettha-sutta:7-13",
+     "tea:vattha-sutta:18-20"
+    ]
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "brahma-, veda-, yañña-, nhātaka- compounds.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U36-pali-suttas"
    ],
    "phases": [
     "skeleton"
@@ -1537,6 +2290,43 @@
   }
  },
  {
+  "id": "brw:buddhist-ethics-to-ayurveda",
+  "from": "lin:mahayana",
+  "to": "lin:ayurveda",
+  "what": "The ten sinful acts of body, speech and mind (AHS Sū 2.21-22) and the homage to the 'unprecedented physician' who destroyed the diseases of passion (AHS Sū 1.1).",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "AHS Sū 2.21-22 = the ten akuśala karmapathas",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Vāgbhaṭa's Buddhist affiliation",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "era": "c. 7th c.",
+  "provenance": {
+   "units": [
+    "skeleton:U30-ayurveda-rasa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:buddhist-vajrasuci",
   "from": "lin:early-buddhism",
   "to": "lin:upanisadic",
@@ -1600,6 +2390,154 @@
   "provenance": {
    "units": [
     "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:culakammavibhanga-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "The lesser analysis of karma: MN 135 (Pali) ↔ MĀ 170 (Yingwu jing 鸚鵡經)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:culakammavibhanga-sutta",
+     "MN 135",
+     "src:madhyamagama",
+     "MĀ 170 (Yingwu jing 鸚鵡經)"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:culamalunkya-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "The poisoned arrow: MN 63 (Pali) ↔ MĀ 221 (Jianyu jing 箭喻經)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:culamalunkya-sutta",
+     "MN 63",
+     "src:madhyamagama",
+     "MĀ 221 (Jianyu jing 箭喻經)"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:culasunnata-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "The lesser discourse on emptiness: MN 121 (Pali) ↔ MĀ 190 (Xiao kong jing 小空經)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:culasunnata-sutta",
+     "MN 121",
+     "src:madhyamagama",
+     "MĀ 190 (Xiao kong jing 小空經)"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:culavedalla-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "The nun dhammadinnā's catechism: MN 44 (Pali) ↔ MĀ 210 (Fale biqiuni jing 法樂比丘尼經)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:culavedalla-sutta",
+     "MN 44",
+     "src:madhyamagama",
+     "MĀ 210 (Fale biqiuni jing 法樂比丘尼經)"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
    ],
    "phases": [
     "skeleton"
@@ -1706,6 +2644,182 @@
   }
  },
  {
+  "id": "brw:dhammacakkappavattana-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:mulasarvastivada",
+  "what": "The first sermon: SN 56.11 (Pali) ↔ SĀ 379 (Zhuan falun jing 轉法輪經)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:dhammacakkappavattana-sutta",
+     "SN 56.11",
+     "src:samyuktagama",
+     "SĀ 379 (Zhuan falun jing 轉法輪經)"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:dharmaguptaka-vinaya-china",
+  "from": "lin:dharmaguptaka",
+  "to": "lin:lu-zong",
+  "what": "The Four-Part Vinaya as the monastic code of China, through Daoxuan's Nanshan school",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Daoxuan's commentaries (T1804 etc.) and imperial ordination platforms.",
+    "refs": [
+     "src:sifen-lu-xingshi-chao"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:dharmapada-gandhari",
+  "from": "lin:early-buddhism",
+  "to": "lin:dharmaguptaka",
+  "what": "Dharmapada verses: Pali Dhammapada ↔ Gāndhārī Dharmapada (Khotan)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Chapter structure and many verses shared; school affiliation of the Gāndhārī version is a scholarly hypothesis.",
+    "refs": [
+     "src:dhammapada",
+     "src:gandhari-dharmapada"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:dharmapada-patna",
+  "from": "lin:early-buddhism",
+  "to": "lin:sammitiya",
+  "what": "Dharmapada verses: Pali Dhammapada ↔ Patna Dharmapada",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Parallel verses; the Saṃmitīya affiliation of the Patna text is a scholarly hypothesis.",
+    "refs": [
+     "src:dhammapada",
+     "src:patna-dharmapada"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:dharmapada-udanavarga",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "Dharmapada verses: Pali Dhammapada ↔ Udānavarga (33 chapters)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Many verses shared; the Udānavarga adds chapters and verses parallel to other Pali collections.",
+    "refs": [
+     "src:dhammapada",
+     "src:udanavarga"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:dharmasastra-penance-to-kapalika",
   "from": "lin:dharmasastra",
   "to": "lin:kapalika",
@@ -1756,14 +2870,67 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Jinasena Adipurana kriyas sacred thread Jain householder samskaras Brahmanical"
+     ],
+     "evidence": [
+      "https://en.wikipedia.org/wiki/Sa%E1%B9%83sk%C4%81ra",
+      "https://en.wikipedia.org/wiki/Jinasena"
+     ],
+     "result": "confirmed",
+     "note": "Wikipedia's Saṃskāra article says that in the Digambara school Jinasena's Ādipurāṇa incorporated all sixteen Hindu saṃskāras into 53 kriyās for the Jain householder. The Jinasena search results agree that the Ādipurāṇa reinterprets Brahmanical social institutions and life-cycle rites for Jains. Jinasena is dated to the 9th c. The 'from→to' direction is the scholarly reading. The Ādipurāṇa text itself (parvans 38–40) was not read.",
+     "by": "sourcing:U02-brahmana-vedanga"
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U02-brahmana-vedanga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:digambara-to-adhyatma",
+  "from": "lin:digambara",
+  "to": "lin:adhyatma-jain",
+  "what": "Kundakunda's Samayasāra read through Amṛtacandra's Ātmakhyāti and kalaśas and Rājamalla's Hindi commentary; later the Gommaṭasāra's guṇasthāna teaching.",
+  "direction": "from→to",
+  "era": "c. 1620s–1640s",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Banārsīdās names the Samayasāra, Rājamalla's commentary and Rūpcand's teaching of the Gommaṭasāra.",
+    "refs": [
+     "tea:ardhakathanaka:adhyatma-crisis",
+     "tea:ardhakathanaka:rupcand-episode",
+     "tea:samayasara-nataka:utthanika"
+    ]
+   }
+  ],
+  "coverage": [
+   "B2",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
    "unverified": false,
    "checks": []
   },
   "provenance": {
    "units": [
-    "skeleton:U02-brahmana-vedanga"
+    "skeleton:U35-jain-philosophy"
    ],
    "phases": [
     "skeleton"
@@ -2192,6 +3359,80 @@
   }
  },
  {
+  "id": "brw:first-sermon-mahavastu",
+  "from": "lin:early-buddhism",
+  "to": "lin:lokottaravada",
+  "what": "The first sermon: SN 56.11 ↔ Mahāvastu iii.331–333",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:dhammacakkappavattana-sutta",
+     "tea:mahavastu:3.331-333"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:formless-attainments-from-teachers",
+  "from": "lin:sramana",
+  "to": "lin:early-buddhism",
+  "what": "The attainments of the sphere of nothingness and of neither-perception-nor-non-perception, learned by the bodhisatta from Āḷāra Kālāma and Uddaka Rāmaputta and then judged insufficient.",
+  "direction": "from→to",
+  "era": "before the awakening (tradition)",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "MN 26 and MN 36 narrate the training under the two teachers.",
+    "refs": [
+     "tea:ariyapariyesana-sutta:15-17"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Some scholars see the formless attainments as absorbed from contemporary (possibly Brahmanical or śramaṇa) meditation traditions.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U36-pali-suttas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:gaudiya-to-baul",
   "from": "lin:gaudiya-vaisnava",
   "to": "lin:baul",
@@ -2554,6 +3795,37 @@
   }
  },
  {
+  "id": "brw:hatha-tantra-to-sangita",
+  "from": "lin:hatha-yoga",
+  "to": "lin:sangita",
+  "what": "The body's channels, knots and centres, kuṇḍalinī and the brahmarandhra as the anatomy of nāda.",
+  "direction": "from→to",
+  "era": "13th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "ŚR 1.2.120–139 describes the centres and kuṇḍalinī",
+    "refs": [
+     "tea:sangita-ratnakara:1.2.120-139"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U31-sound-arts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:hatha-to-virasaiva",
   "from": "lin:hatha-yoga",
   "to": "lin:virasaiva",
@@ -2644,6 +3916,140 @@
   }
  },
  {
+  "id": "brw:isibhasiyaim-seers",
+  "from": "lin:upanisadic",
+  "to": "lin:jainism",
+  "what": "Sayings attributed to seers of other traditions (Yājñavalkya, Nārada, Asita Devala; also the Buddhist Śāriputra and Mahākāśyapa, and Gośāla) received into a Jain collection as the words of 'arhat-ṛṣis'",
+  "direction": "from→to",
+  "era": "early canonical period",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "The Isibhāsiyāiṃ names the seers and gives each a teaching",
+    "refs": [
+     "tea:isibhasiyaim:whole"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U34-jain-canon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:jain-buddhist-shared-vocabulary",
+  "from": "lin:jainism",
+  "to": "lin:early-buddhism",
+  "what": "Shared śramaṇa vocabulary: āsava/āsrava (effluent/influx), saṃvara (restraint), jina, arahant, tathāgata, the analysis of three 'rods' / three kinds of action.",
+  "direction": "mutual",
+  "era": "5th–3rd c. BCE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Both use āsava/āsrava and saṃvara, with different doctrines (MN 101; MN 56).",
+    "refs": [
+     "tea:devadaha-sutta:2-22",
+     "tea:upali-sutta:3-12"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "The shared terms are generally taken as common śramaṇa property rather than a one-way borrowing.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U36-pali-suttas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:jain-krsna-narrative",
+  "from": "lin:epic-teaching",
+  "to": "lin:jainism",
+  "what": "Kṛṣṇa, Balarāma, the Pāṇḍavas and Dvārakā woven into the life of the Tīrthaṅkara Nemi as his cousins; Kṛṣṇa a vāsudeva who goes to hell and will be a future Tīrthaṅkara",
+  "direction": "from→to",
+  "era": "canonical and purāṇic period",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Antakṛddaśā (Gajasukumāla), Vṛṣṇidaśā, Uttarādhyayana 22, Jinasena's Harivaṃśapurāṇa",
+    "refs": [
+     "tea:uttaradhyayana-sutra:22",
+     "tea:antakrddasa:3.8"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U34-jain-canon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:jain-rama-narrative",
+  "from": "lin:epic-teaching",
+  "to": "lin:jainism",
+  "what": "The Rāma story, retold and corrected: Rāma non-violent and liberated, Lakṣmaṇa the slayer of Rāvaṇa, Rāvaṇa a learned vidyādhara, the 'monkeys' and 'demons' human clans",
+  "direction": "from→to",
+  "era": "c. 1st–9th c. CE (Paumacariya, Padmapurāṇa, Paumacariu)",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "The Paumacariya frames its telling as a correction of the popular Rāmāyaṇa, which it calls false",
+    "refs": [
+     "tea:paumacariya:2"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U34-jain-canon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:jain-rsabha-in-bhagavata",
   "from": "lin:jainism",
   "to": "lin:puranic",
@@ -2680,6 +4086,219 @@
   }
  },
  {
+  "id": "brw:jivandhara-to-tamil",
+  "from": "lin:digambara",
+  "to": "lin:tamil-jain",
+  "what": "The Jīvandhara (Cīvakaṉ) story, from Guṇabhadra's Uttarapurāṇa and Vādībhasiṃha's works, recast as the Tamil epic Cīvakacintāmaṇi",
+  "direction": "from→to",
+  "era": "9th–10th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Same plot and names; the Tamil epic expands the romance",
+    "refs": [
+     "tea:civakacintamani:13"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U34-jain-canon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:jyotisa-dharmasastra-timing",
+  "from": "lin:jyotisa",
+  "to": "lin:dharmasastra",
+  "what": "The planetary sacrifice, muhūrta for sacraments and the decision of tithis for vows, festivals and śrāddha.",
+  "direction": "mutual",
+  "era": "first millennium CE onward",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Yājñavalkya's planetary sacrifice (1.295–308) parallels BPHS 84; the digests (Kālamādhava, Nirṇayasindhu) combine astronomical tithi-reckoning with smṛti rules.",
+    "refs": [
+     "tea:yajnavalkyasmrti:1.295-306",
+     "tea:brhat-parasara-hora-sastra:84.1-3"
+    ]
+   }
+  ],
+  "coverage": [
+   "A13",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U32-jyotisa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:jyotisa-jain-astronomy",
+  "from": "lin:jyotisa",
+  "to": "lin:jainism",
+  "what": "Exchange between Jain canonical astronomy (two suns and moons, five-year yuga) and mainstream jyotiṣa; later Jain authors of horā, Tājika and mathematics.",
+  "direction": "mutual",
+  "era": "first millennium BCE – second millennium CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "The Sūryaprajñapti's five-year yuga resembles the Vedāṅga Jyotiṣa's; Āryabhaṭa uses the Jain-sounding terms utsarpiṇī and avasarpiṇī for the halves of the yuga.",
+    "refs": [
+     "tea:aryabhatiya:3.9"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Jain authors: Mahāvīrācārya (Gaṇitasārasaṅgraha), Hemaprabha (Trailokyaprakāśa).",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A13",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U32-jyotisa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:jyotisa-to-kalacakra",
+  "from": "lin:jyotisa",
+  "to": "lin:vajrayana",
+  "what": "Calendrical astronomy — lunar days, asterisms, yogas, karaṇas and the nodes — taken into the Kālacakra system and Tibetan calendrics.",
+  "direction": "from→to",
+  "era": "c. 11th c. CE (scholarly account)",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "tithi, nakṣatra, yoga, karaṇa and Rāhu in the Kālacakra's first chapter and the Tibetan almanac.",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "The Kālacakra's computations adapt Indian siddhānta/karaṇa methods.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A13",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U32-jyotisa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:jyotisa-to-theravada-lanka",
+  "from": "lin:jyotisa",
+  "to": "lin:theravada",
+  "what": "Muhūrta and horā cultivated by Sri Lankan Buddhist monks in Sanskrit (Daivajñakāmadhenu).",
+  "direction": "from→to",
+  "era": "c. 14th–15th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "The Daivajñakāmadhenu ascribed to Anavamadarśī.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A13",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U32-jyotisa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:jyotisa-to-vastu",
+  "from": "lin:jyotisa",
+  "to": "lin:vastu-silpa",
+  "what": "Rules of sites, houses, temples and images and the times for building within the saṃhitā branch.",
+  "direction": "from→to",
+  "era": "6th c. CE onward",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "BS 52–59 (vāstu, water-finding, temples, images, consecration) and the vāstu section of the Muhūrtacintāmaṇi.",
+    "refs": [
+     "tea:brhat-samhita:52.1-3"
+    ]
+   }
+  ],
+  "coverage": [
+   "A13",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U32-jyotisa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:kabir-panth-to-sant-mat",
   "from": "lin:kabir-panth",
   "to": "lin:sant-mat",
@@ -2709,6 +4328,80 @@
   "provenance": {
    "units": [
     "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kaccanagotta-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:mulasarvastivada",
+  "what": "Right view beyond existence and non-existence: SN 12.15 (Pali) ↔ SĀ 301",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:kaccanagotta-sutta",
+     "SN 12.15",
+     "src:samyuktagama",
+     "SĀ 301"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kalama-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "The discourse to the kālāmas: AN 3.65 (Pali) ↔ MĀ 16 (Qielan jing 伽藍經)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:kalama-sutta",
+     "AN 3.65",
+     "src:madhyamagama",
+     "MĀ 16 (Qielan jing 伽藍經)"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
    ],
    "phases": [
     "skeleton"
@@ -3113,6 +4806,38 @@
   }
  },
  {
+  "id": "brw:kaula-to-rasa-sastra",
+  "from": "lin:kaula",
+  "to": "lin:rasa-sastra",
+  "what": "The Kaula frame of the Rasārṇava — the Goddess addresses Bhairava as destroyer of the Kula, Kaula and Siddha-kaula; rasa does not succeed for those without the Kula teaching.",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Rasārṇava 1.4, 1.25",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "era": "c. 12th c.",
+  "provenance": {
+   "units": [
+    "skeleton:U30-ayurveda-rasa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:kaula-to-srividya",
   "from": "lin:kaula",
   "to": "lin:srividya",
@@ -3224,6 +4949,43 @@
   }
  },
  {
+  "id": "brw:kayagatasati-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "Mindfulness of the body: MN 119 (Pali) ↔ MĀ 81 (Nianshen jing 念身經)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:kayagatasati-sutta",
+     "MN 119",
+     "src:madhyamagama",
+     "MĀ 81 (Nianshen jing 念身經)"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:kesin-muni-and-sramana",
   "from": "lin:sramana",
   "to": "lin:vedic-srauta",
@@ -3276,6 +5038,75 @@
   }
  },
  {
+  "id": "brw:kosa-china-japan",
+  "from": "lin:sarvastivada",
+  "to": "lin:jushe-zong",
+  "what": "The Abhidharmakośa studied in China (Paramārtha, Xuanzang) and Japan (Kusha-shū)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Translations T1558, T1559; Chinese commentaries.",
+    "refs": [
+     "src:abhidharmakosa"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kosa-tibetan-curriculum",
+  "from": "lin:sarvastivada",
+  "to": "lin:gelug",
+  "what": "The Abhidharmakośa (with Guṇaprabha's Vinayasūtra) as one of the five great texts of the Tibetan monastic curriculum",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "The debate curriculum studies Prajñāpāramitā, Madhyamaka, Pramāṇa, Abhidharma (Kośa) and Vinaya (Vinayasūtra).",
+    "refs": [
+     "src:abhidharmakosa",
+     "src:vinayasutra-gunaprabha"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:krama-to-trika",
   "from": "lin:krama",
   "to": "lin:trika",
@@ -3301,6 +5132,43 @@
   "provenance": {
    "units": [
     "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:madhupindika-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "The honey-ball discourse on proliferation: MN 18 (Pali) ↔ MĀ 115 (Mi wan yu jing 蜜丸喻經); also EĀ 40.10",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:madhupindika-sutta",
+     "MN 18",
+     "src:madhyamagama",
+     "MĀ 115 (Mi wan yu jing 蜜丸喻經); also EĀ 40.10"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
    ],
    "phases": [
     "skeleton"
@@ -3383,6 +5251,224 @@
   }
  },
  {
+  "id": "brw:mahanidana-da-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:dharmaguptaka",
+  "what": "The great discourse on causation: DN 15 (Pali) ↔ DĀ 13 (Da yuan fangbian jing 大緣方便經)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:mahanidana-sutta",
+     "DN 15",
+     "src:dirghagama",
+     "DĀ 13 (Da yuan fangbian jing 大緣方便經)"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mahanidana-ma-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "The great discourse on causation: DN 15 (Pali) ↔ MĀ 97 (Da yin jing 大因經)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:mahanidana-sutta",
+     "DN 15",
+     "src:madhyamagama",
+     "MĀ 97 (Da yin jing 大因經)"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mahanimitta-from-purvas",
+  "from": "lin:jainism",
+  "to": "lin:ajivika",
+  "what": "the eightfold Mahānimitta, drawn by the six disācaras from the Pūrvas",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Bhagavatī 15 (Jain account — reported by an opponent)",
+    "refs": [
+     "tea:bhagavati-sutra:15/3"
+    ]
+   }
+  ],
+  "coverage": [
+   "B1"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U33-sramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mahapadana-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:dharmaguptaka",
+  "what": "The past buddhas: DN 14 (Pali) ↔ DĀ 1 (Daben jing 大本經); Sanskrit Mahāvadānasūtra",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:mahapadana-sutta",
+     "DN 14",
+     "src:dirghagama",
+     "DĀ 1 (Daben jing 大本經); Sanskrit Mahāvadānasūtra"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mahaparinibbana-da-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:dharmaguptaka",
+  "what": "The buddha's last journey: DN 16 (Pali) ↔ DĀ 2 (Youxing jing 遊行經); also T5–7",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:mahaparinibbana-sutta",
+     "DN 16",
+     "src:dirghagama",
+     "DĀ 2 (Youxing jing 遊行經); also T5–7"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mahaparinibbana-skt-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "The buddha's last journey: DN 16 (Pali) ↔ Sanskrit Mahāparinirvāṇasūtra (Turfan)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:mahaparinibbana-sutta",
+     "DN 16",
+     "src:mahaparinirvanasutra-sanskrit",
+     "Sanskrit Mahāparinirvāṇasūtra (Turfan)"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:mahasiddha-tamil-siddha",
   "from": "lin:mahasiddha",
   "to": "lin:tamil-siddha",
@@ -3454,6 +5540,41 @@
   "provenance": {
    "units": [
     "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mahavastu-bhumis-dasabhumika",
+  "from": "lin:lokottaravada",
+  "to": "lin:mahayana",
+  "what": "Ten grounds of the bodhisattva (Mahāvastu) and the ten grounds of the Daśabhūmika-sūtra",
+  "direction": "disputed",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Same number and function, different names; a historical relation is a scholarly hypothesis.",
+    "refs": [
+     "tea:mahavastu:1.76",
+     "src:dasabhumika-sutra"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
    ],
    "phases": [
     "skeleton"
@@ -3592,6 +5713,38 @@
   "provenance": {
    "units": [
     "skeleton:U08-agama-catalogue"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mantrasastra-to-sangita",
+  "from": "lin:mantrasastra",
+  "to": "lin:sangita",
+  "what": "The definition of the ultimate as 'the consciousness of all beings' (caitanyaṃ sarvabhūtānām) and the nāda–bindu cosmogony.",
+  "direction": "from→to",
+  "era": "13th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "ŚR 1.3.1 'caitanyaṃ sarvabhūtānāṃ … nādabrahma' echoes ŚT 1.13 'caitanyaṃ sarvabhūtānāṃ śabdabrahmeti'",
+    "refs": [
+     "tea:sangita-ratnakara:1.3.1-2",
+     "tea:saradatilaka:1.12-13"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U31-sound-arts"
    ],
    "phases": [
     "skeleton"
@@ -3745,6 +5898,37 @@
   }
  },
  {
+  "id": "brw:mimamsa-to-alankara",
+  "from": "lin:mimamsa",
+  "to": "lin:alankara",
+  "what": "Bhaṭṭa Nāyaka's 'bhāvakatva' modelled on the Mīmāṃsā doctrine of bhāvanā (the word's power of bringing about).",
+  "direction": "from→to",
+  "era": "c. 900 CE",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "inferred from the reported terminology",
+    "refs": [
+     "tea:abhinavabharati:6.rasasutra.bhatta-nayaka"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U31-sound-arts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:mimamsa-to-dharmasastra-hermeneutics",
   "from": "lin:mimamsa",
   "to": "lin:dharmasastra",
@@ -3759,10 +5943,28 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local Dāyabhāga nyāyāt",
+      "local Mitākṣarā arthavāda"
+     ],
+     "evidence": [
+      "text:sources_raw/raw_etexts/mixed/ebhAratI-sampat/dharmashAstram/smRtiH/jImUtavAhanaH/jIvAnandavidyAsAgaraH/dAyabhAgaH.md (eBhāratī Dāyabhāga, Jīvānanda ed. with commentary)",
+      "text:sources_raw/dcs/corpus/GRETIL/sa_vijJAnezvara-mitAkSarA.txt (GRETIL Mitākṣarā, Acharya 1949)",
+      "https://en.wikipedia.org/wiki/Medh%C4%81tithi"
+     ],
+     "result": "confirmed",
+     "note": "Mīmāṃsā maxims cited by name were found in the local Dāyabhāga (with its commentary), for example 'jaiminyuktanyāyena', 'daṇḍāpūpanyāyāt', 'govṛṣanyāyāt' and 'sakṛd uccaritaḥ śabdaḥ sakṛd evārthaṃ gamayati iti nyāyāt'. It also discusses the vrīhi/yava option with its eight faults. The Mitākṣarā argues in Mīmāṃsā terms, for example 'nityānuvāda' and 'arthavāda-paryālocanayā'. Medhātithi was not separately checked; his Mīmāṃsā method is standard in the literature (Wikipedia Medhātithi).",
+     "by": "sourcing:U02-brahmana-vedanga"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -3928,6 +6130,212 @@
   }
  },
  {
+  "id": "brw:mon-ordination-to-dhammayut",
+  "from": "lin:theravada",
+  "to": "lin:dhammayut",
+  "what": "Mongkut's reformed order adopted the Mon ordination lineage as more faithful to the Vinaya.",
+  "direction": "from→to",
+  "era": "1830s",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Thai histories of the Dhammayut reform",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U37-abhidhamma-visuddhimagga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:msv-tibetan-ordination",
+  "from": "lin:mulasarvastivada",
+  "to": "lin:nyingma",
+  "what": "The Mūlasarvāstivāda ordination lineage, conferred on the first Tibetan monks at Samye by Śāntarakṣita",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "The 'lower Vinaya' lineage, continued by Lachen Gongpa Rabsal; later lines from western Tibet and Śākyaśrībhadra.",
+    "refs": [
+     "tch:santaraksita",
+     "tch:lachen-gongpa-rabsal",
+     "tch:sakyasribhadra"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mulapariyaya-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "The root of all things: MN 1 (Pali) ↔ MĀ 106 (Xiang jing 想經); also EĀ 44.6",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:mulapariyaya-sutta",
+     "MN 1",
+     "src:madhyamagama",
+     "MĀ 106 (Xiang jing 想經); also EĀ 44.6"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mulavijnana-alaya",
+  "from": "lin:mahasanghika",
+  "to": "lin:yogacara",
+  "what": "The Mahāsāṃghika 'root consciousness' cited as a name of the storehouse consciousness",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Asaṅga, Mahāyānasaṃgraha ch. 1, cites the Mahāsāṃghika mūlavijñāna (and the Mahīśāsaka's 'aggregate lasting until saṃsāra ends') as scriptural hints of the ālayavijñāna (low confidence on the exact wording).",
+    "refs": [
+     "src:mahayanasamgraha"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:nagara-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:mulasarvastivada",
+  "what": "The ancient city (dependent origination): SN 12.65 (Pali) ↔ SĀ 287; Sanskrit Nagaropamasūtra",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:nagara-sutta",
+     "SN 12.65",
+     "src:samyuktagama",
+     "SĀ 287; Sanskrit Nagaropamasūtra"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:naksatra-lore-to-mulasarvastivada",
+  "from": "lin:vedanga",
+  "to": "lin:mulasarvastivada",
+  "what": "Asterism lore with deities and birth-fortunes, placed in the mouth of the outcaste king Triśaṅku in the Śārdūlakarṇāvadāna.",
+  "direction": "from→to",
+  "era": "early centuries CE (scholarly account)",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "The avadāna's list of asterisms and deities parallels the Vedic/Vedāṅga lists.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "A13",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U32-jyotisa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:natha-datta",
   "from": "lin:datta-sampradaya",
   "to": "lin:natha",
@@ -4041,10 +6449,19 @@
   "id": "brw:natha-rasa-sastra",
   "from": "lin:natha",
   "to": "lin:rasa-sastra",
-  "what": "The goal of the perfected, deathless body and siddhas who are also alchemists (Nityanātha, Carpaṭi, Nāgārjuna in some lists)",
+  "what": "Nāth siddhas counted as rasa-siddhas and rasa authors (Carpaṭi, Nityanātha); the ideal of an immortal, perfected body shared.",
   "direction": "mutual",
-  "era": "c. 11th–15th c.",
   "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Rasaratnākara Rasakhaṇḍa 1.17; SDS Raseśvara 12",
+    "refs": []
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "siddha, kāyasiddhi, khecara",
+    "refs": []
+   },
    {
     "type": "shared-vocabulary",
     "detail": "kāya-siddhi, rasāyana; the Akulavīra warns against grasping rasāyana.",
@@ -4053,19 +6470,21 @@
     ]
    }
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "low",
-   "unverified": false,
-   "checks": []
-  },
   "coverage": [
    "C",
    "A7"
   ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "era": "c. 11th–15th c.",
   "notes": "Metal/mercury practices are restricted; not detailed.",
   "provenance": {
    "units": [
+    "skeleton:U30-ayurveda-rasa",
     "skeleton:U21-natha-aghora"
    ],
    "phases": [
@@ -4479,6 +6898,46 @@
   }
  },
  {
+  "id": "brw:navya-nyaya-to-yasovijaya",
+  "from": "lin:navya-nyaya",
+  "to": "lin:svetambara",
+  "what": "The technical language and methods of Navya-Nyāya, learned by Yaśovijaya at Vārāṇasī, used to restate Jain epistemology and many-sidedness.",
+  "direction": "from→to",
+  "era": "17th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Yaśovijaya's biographies say he studied Navya-Nyāya at Vārāṇasī and earned the title Nyāyaviśārada.",
+    "refs": []
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "Jaina Tarkabhāṣā and Nayopadeśa are written in Navya-Nyāya idiom.",
+    "refs": [
+     "tea:jain-tarkabhasa:structure"
+    ]
+   }
+  ],
+  "coverage": [
+   "B2",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U35-jain-philosophy"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:navya-nyaya-vyakarana",
   "from": "lin:navya-nyaya",
   "to": "lin:vyakarana",
@@ -4577,6 +7036,42 @@
   }
  },
  {
+  "id": "brw:nirvedhabhagiya-five-paths",
+  "from": "lin:sarvastivada",
+  "to": "lin:mahayana",
+  "what": "The four roots of penetration and the paths of seeing, cultivation and the non-learner, taken into the Mahāyāna scheme of five paths (preparation = the four roots)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Same terms (ūṣmagata, mūrdhan, kṣānti, laukikāgradharma; darśana-, bhāvanā-mārga) in the Abhisamayālaṃkāra and Abhidharmasamuccaya.",
+    "refs": [
+     "tea:abhidharmakosa:6.17-19",
+     "src:abhisamayalamkara",
+     "src:abhidharmasamuccaya"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:nyaya-buddhist-logic",
   "from": "lin:nyaya",
   "to": "lin:pramana-buddhist",
@@ -4642,6 +7137,38 @@
   "provenance": {
    "units": [
     "skeleton:U13-advaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:nyaya-to-alankara",
+  "from": "lin:nyaya",
+  "to": "lin:alankara",
+  "what": "Inference as the means by which rasa (Śaṅkuka) or all suggestion (Mahimabhaṭṭa) is known.",
+  "direction": "from→to",
+  "era": "9th–11th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Śaṅkuka as reported; Vyaktiviveka",
+    "refs": [
+     "tea:abhinavabharati:6.rasasutra.sankuka",
+     "tea:vyaktiviveka:1"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U31-sound-arts"
    ],
    "phases": [
     "skeleton"
@@ -4761,6 +7288,73 @@
   "provenance": {
    "units": [
     "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:paesi-payasi-parallel",
+  "from": "lin:jainism",
+  "to": "lin:early-buddhism",
+  "what": "The dialogue with a materialist king who tests for the soul by experiments on criminals: Keśin and Paesi (Rājapraśnīya) / Kumāra Kassapa and Pāyāsi (DN 23)",
+  "direction": "disputed",
+  "era": "canonical period",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Same king-name (Paesi / Pāyāsi), same experiments, similar similes; direction unknown or a shared older story",
+    "refs": [
+     "tea:rajaprasniya:paesi"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U34-jain-canon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pakudha-bodies-in-ajivika",
+  "from": "lin:sramana",
+  "to": "lin:ajivika",
+  "what": "Pakudha's seven unmade bodies, joined to Ājīvika destiny and the 84 great aeons",
+  "direction": "disputed",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "MN 76's fourth negation, SN 24.8's 'great view' and Ja 545's Guṇa combine them; the Tamil Ājīvaka teaches life plus four kinds of eternal atoms.",
+    "refs": [
+     "tea:sandaka-sutta:7-19",
+     "tea:ditthi-samyutta:24.8",
+     "tea:mahanaradakassapa-jataka:34-45",
+     "tea:manimekalai:27.108-165"
+    ]
+   }
+  ],
+  "coverage": [
+   "B1"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U33-sramana"
    ],
    "phases": [
     "skeleton"
@@ -5262,6 +7856,83 @@
   }
  },
  {
+  "id": "brw:phenapindupama-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:mulasarvastivada",
+  "what": "The aggregates like foam: SN 22.95 (Pali) ↔ SĀ 265",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:phenapindupama-sutta",
+     "SN 22.95",
+     "src:samyuktagama",
+     "SĀ 265"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pramana-buddhist-to-jain-logic",
+  "from": "lin:pramana-buddhist",
+  "to": "lin:jainism",
+  "what": "The framework of Buddhist logic — inference for oneself and for others, fallacies of thesis and reason — adopted and argued against in Jain logic (Nyāyāvatāra; Akalaṅka's replies to Dharmakīrti).",
+  "direction": "from→to",
+  "era": "c. 6th–8th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Nyāyāvatāra's structure parallels Dignāga's.",
+    "refs": [
+     "tea:nyayavatara:1"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Akalaṅka's Nyāyaviniścaya and Siddhiviniścaya argue against Dharmakīrti by name (recalled).",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "B2",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U35-jain-philosophy"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:pramana-buddhist-to-pratyabhijna",
   "from": "lin:pramana-buddhist",
   "to": "lin:pratyabhijna",
@@ -5331,6 +8002,46 @@
   "provenance": {
    "units": [
     "skeleton:U20-virasaiva"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:purana-and-the-ajivikas",
+  "from": "lin:sramana",
+  "to": "lin:ajivika",
+  "what": "Pūraṇa Kassapa and his teaching of six classes, placed within or beside the Ājīvika order",
+  "direction": "disputed",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "AN 6.57 gives Pūraṇa the six classes in which the Ājīvika leaders are supremely white; the Tamil Maṇimēkalai and Nīlakēci make Pūraṇa the Ājīvika teacher.",
+    "refs": [
+     "tea:chalabhijati-sutta:1-9",
+     "tea:manimekalai:27.108-165"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "that Pūraṇa's following merged with the Ājīvikas (metadata only)",
+    "refs": []
+   }
+  ],
+  "era": "5th c. BCE onward",
+  "coverage": [
+   "B1"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U33-sramana"
    ],
    "phases": [
     "skeleton"
@@ -5683,6 +8394,43 @@
   }
  },
  {
+  "id": "brw:rasa-sastra-hatha-yoga",
+  "from": "lin:rasa-sastra",
+  "to": "lin:hatha-yoga",
+  "what": "The verse on mercury and breath ('swooned it removes disease, dead it revives, bound it gives sky-going') and the parallel of binding mercury and mind.",
+  "direction": "disputed",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Rasārṇava 1.19 ≈ Haṭhapradīpikā 4.26-27",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "the Rasārṇava is generally dated earlier than the Haṭhapradīpikā",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "era": "c. 12th–15th c.",
+  "provenance": {
+   "units": [
+    "skeleton:U30-ayurveda-rasa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:rasa-sastra-tamil-siddha",
   "from": "lin:rasa-sastra",
   "to": "lin:tamil-siddha",
@@ -5714,6 +8462,43 @@
   "provenance": {
    "units": [
     "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:rasa-sastra-to-ayurveda",
+  "from": "lin:rasa-sastra",
+  "to": "lin:ayurveda",
+  "what": "Mercurial and metallic medicines absorbed into the later Āyurvedic compendia (Śārṅgadhara, Bhāvaprakāśa, Yogaratnākara) and into Āyurvedic pharmacy.",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Śārṅgadhara Saṃhitā's rasa chapters",
+    "refs": []
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "bhasma, śodhana, māraṇa",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "era": "13th c. onward",
+  "provenance": {
+   "units": [
+    "skeleton:U30-ayurveda-rasa"
    ],
    "phases": [
     "skeleton"
@@ -5755,6 +8540,72 @@
   "provenance": {
    "units": [
     "skeleton:U03-principal-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:rhinoceros-sutra-gandhari",
+  "from": "lin:early-buddhism",
+  "to": "lin:dharmaguptaka",
+  "what": "The Rhinoceros Sūtra: Sutta Nipāta 1.3 (Khaggavisāṇa) ↔ Gāndhārī Rhinoceros Sūtra (British Library)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:sutta-nipata",
+     "src:gandhari-rhinoceros-sutra"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:rohagupta-vaisesika-claim",
+  "from": "lin:svetambara",
+  "to": "lin:vaisesika",
+  "what": "The Jain tradition's claim that the schismatic Rohagupta (Ṣaḍulūka) founded the Vaiśeṣika system with its six categories",
+  "direction": "disputed",
+  "era": "claimed for the 1st c. CE (Jain chronology)",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Āvaśyaka commentaries and the Viśeṣāvaśyaka Bhāṣya; not accepted by Vaiśeṣika sources, which ascribe their system to Kaṇāda",
+    "refs": [
+     "tea:sthananga-sutra:7"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U34-jain-canon"
    ],
    "phases": [
     "skeleton"
@@ -5864,6 +8715,47 @@
   "provenance": {
    "units": [
     "skeleton:U20-virasaiva"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:saiva-bhutasuddhi-to-jain-dharanas",
+  "from": "lin:mantramarga",
+  "to": "lin:jainism",
+  "what": "The five concentrations of embodied meditation (earth, fire, wind, water; burning the body and karmas with fire from a seed-syllable) resemble the tantric purification of the elements (bhūtaśuddhi).",
+  "direction": "disputed",
+  "era": "c. 10th–12th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Jñānārṇava and Yogaśāstra 7 vs tantric bhūtaśuddhi descriptions.",
+    "refs": [
+     "tea:yogasastra-hemacandra:7.9-28",
+     "tea:jnanarnava:pindastha"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Direction and route of the parallel are not established.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "B2",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U35-jain-philosophy"
    ],
    "phases": [
     "skeleton"
@@ -6020,6 +8912,80 @@
   }
  },
  {
+  "id": "brw:sallatha-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:mulasarvastivada",
+  "what": "The two arrows: SN 36.6 (Pali) ↔ SĀ 470",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:sallatha-sutta",
+     "SN 36.6",
+     "src:samyuktagama",
+     "SĀ 470"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samannaphala-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:dharmaguptaka",
+  "what": "The fruits of the ascetic life: DN 2 (Pali) ↔ DĀ 27 (Shamenguo jing 沙門果經); also EĀ 43.7, T22",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:samannaphala-sutta",
+     "DN 2",
+     "src:dirghagama",
+     "DĀ 27 (Shamenguo jing 沙門果經); also EĀ 43.7, T22"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:samaveda-to-sangita",
   "from": "lin:vedic-srauta",
   "to": "lin:sangita",
@@ -6097,6 +9063,37 @@
   "provenance": {
    "units": [
     "skeleton:U09-samkhya"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samkhya-ayurveda-non-perception",
+  "from": "lin:samkhya",
+  "to": "lin:ayurveda",
+  "what": "The eight causes of the non-perception of existing things (Ca Sū 11.8 ≈ Sāṃkhyakārikā 7).",
+  "direction": "disputed",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Ca Sū 11.8; SK 7",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U30-ayurveda-rasa"
    ],
    "phases": [
     "skeleton"
@@ -6548,6 +9545,140 @@
   }
  },
  {
+  "id": "brw:sangita-to-devotional-song",
+  "from": "lin:sangita",
+  "to": "lin:haridasa-karnataka",
+  "what": "The rāga–tāla grammar of classical music used for devotional composition; Purandara Dāsa's lessons as the foundation of Karṇāṭaka pedagogy.",
+  "direction": "from→to",
+  "era": "15th–16th c. CE",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Purandara Dāsa remembered as 'grandfather' of Karṇāṭaka music",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U31-sound-arts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:sangiti-sutra-sangitiparyaya",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "The Saṅgītiparyāya is a commentary on the Saṅgīti-sūtra (parallel to DN 33)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Commentary follows the numerical lists of the sūtra.",
+    "refs": [
+     "src:sangitiparyaya",
+     "src:digha-nikaya",
+     "DN 33"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:sanjaya-disciples-to-buddhism",
+  "from": "lin:ajnana",
+  "to": "lin:early-buddhism",
+  "what": "Sāriputta, Moggallāna and some 250 of Sañjaya's wanderers",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Vinaya Mahāvagga 1.23–24",
+    "refs": [
+     "tea:vinaya-pitaka:mv.1.23-24"
+    ]
+   }
+  ],
+  "era": "the Buddha's lifetime",
+  "coverage": [
+   "B1",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U33-sramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:sanjaya-formula-and-syadvada",
+  "from": "lin:ajnana",
+  "to": "lin:jainism",
+  "what": "the refusal of four alternatives and the Jain modes of predication",
+  "direction": "disputed",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "some scholars see Sañjaya's formula as a forerunner of the Jain sevenfold predication; the Jain tradition rejects any kinship, classing ajñāna as wrong faith (metadata only).",
+    "refs": [
+     "tea:samannaphala-sutta:32",
+     "tea:sarvarthasiddhi:8.1"
+    ]
+   }
+  ],
+  "coverage": [
+   "B1"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U33-sramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:sannyasa-to-srivaisnava-tridandi",
   "from": "lin:sannyasa",
   "to": "lin:visistadvaita",
@@ -6612,6 +9743,47 @@
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:sant-idiom-and-anandaghana",
+  "from": "lin:sant",
+  "to": "lin:svetambara",
+  "what": "The idiom of the avadhūta, the soul-bride longing for her lord, and the dismissal of sectarian names in favour of inner experience, shared by Ānandaghana's padas and the nirguṇa Sant poets.",
+  "direction": "mutual",
+  "era": "17th c.",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Bahottarī padas addressed to the avadhū; the 'Rām or Rahīm' pada ascribed to Ānandaghana.",
+    "refs": [
+     "tea:anandaghana-bahottari:rama-kaho",
+     "tea:anandaghana-covisi:1"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Participation in a common north-Indian devotional-mystical idiom rather than direct borrowing.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "B2",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U35-jain-philosophy"
    ],
    "phases": [
     "skeleton"
@@ -6740,6 +9912,148 @@
   }
  },
  {
+  "id": "brw:satipatthana-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "The discourse on the applications of mindfulness: MN 10 (Pali) ↔ MĀ 98 (Nianchu jing 念處經); also EĀ 12.1",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:satipatthana-sutta",
+     "MN 10",
+     "src:madhyamagama",
+     "MĀ 98 (Nianchu jing 念處經); also EĀ 12.1"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:satyasiddhi-chengshi",
+  "from": "lin:sautrantika",
+  "to": "lin:chengshi-zong",
+  "what": "Harivarman's Satyasiddhiśāstra as the basis of the Chengshi school",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Kumārajīva's translation (411–412) and the southern Chinese exegetes.",
+    "refs": [
+     "src:satyasiddhisastra"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:sautrantika-pramana",
+  "from": "lin:sautrantika",
+  "to": "lin:pramana-buddhist",
+  "what": "Momentariness, causeless destruction and the representational account of perception used by the Buddhist logicians",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Tibetan doxography classes Dignāga and Dharmakīrti's epistemology partly under 'Sautrāntika following reasoning'.",
+    "refs": [
+     "tea:abhidharmakosabhasya:4.2-3",
+     "src:pramanavarttika"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:sautrantika-seeds-yogacara",
+  "from": "lin:sautrantika",
+  "to": "lin:yogacara",
+  "what": "The theory of seeds and the transformation of the series, reworked as seeds stored in the storehouse consciousness",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "bīja, santati-pariṇāma-viśeṣa and vāsanā in AKBh and in Yogācāra works (Vasubandhu's own trajectory, Karmasiddhiprakaraṇa).",
+    "refs": [
+     "tea:abhidharmakosabhasya:2.36",
+     "src:karmasiddhiprakarana",
+     "src:trimsika"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:siddha-medicine-to-varma-kalai",
   "from": "lin:siddha-medicine",
   "to": "lin:varma-kalai",
@@ -6767,6 +10081,43 @@
   "provenance": {
    "units": [
     "skeleton:U22-tamil-siddha"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:singalaka-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:dharmaguptaka",
+  "what": "The layperson's duties: DN 31 (Pali) ↔ DĀ 16 (Shansheng jing 善生經); also MĀ 135",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:singalaka-sutta",
+     "DN 31",
+     "src:dirghagama",
+     "DĀ 16 (Shansheng jing 善生經); also MĀ 135"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
    ],
    "phases": [
     "skeleton"
@@ -6863,10 +10214,27 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local BDh 2.6.11.27-28",
+      "local TA 2.7.1"
+     ],
+     "evidence": [
+      "text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/baudhayana-dharmasutra.md (GRETIL)",
+      "text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/AraNyakam_Andhrakam.md (Āndhra TA)"
+     ],
+     "result": "confirmed",
+     "note": "Both cited passages were found. BDh 2.6.11.28 has 'prāhlādir ha vai kapilo nāmāsura āsa | sa etān bhedāṃś cakāra devaiḥ saha spardhamānaḥ'. TA 2.7.1 has 'vātaraśanā ha vā ṛṣayaḥ śramaṇā ūrdhvamanthino babhūvuḥ'. The unnamed scholarly hypothesis is correctly left without a direction ('disputed'). No secondary source was checked for it.",
+     "by": "sourcing:U02-brahmana-vedanga"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -7062,6 +10430,42 @@
   }
  },
  {
+  "id": "brw:supramundane-buddha-mahayana",
+  "from": "lin:mahasanghika",
+  "to": "lin:mahayana",
+  "what": "The supramundane Buddha who only conforms to the world, and a bodhisattva career in ten grounds",
+  "direction": "disputed",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Similarities between the Mahāvastu/Lokānuvartana-sūtra and Mahāyāna buddhology (e.g. the Lotus Sūtra's eternal Buddha) are much discussed; direction and extent are debated.",
+    "refs": [
+     "tea:mahavastu:1.168-169",
+     "src:lokanuvartana-sutra",
+     "src:saddharmapundarika"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:svetasvatara-to-saiva",
   "from": "lin:upanisadic",
   "to": "lin:saiva-siddhanta",
@@ -7147,6 +10551,51 @@
   }
  },
  {
+  "id": "brw:tantra-to-jain-mantrasastra",
+  "from": "lin:tantra-movement",
+  "to": "lin:jainism",
+  "what": "Mantra-kalpa ritual — seed syllables such as hrīṃ, yantras, body protection, the six rites for worldly ends, and the worship of goddesses such as Padmāvatī and Jvālāmālinī — within Jain practice.",
+  "direction": "disputed",
+  "era": "c. 9th–13th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "The Jain tradition derives its vidyās and mantras from the lost Vidyānupravāda Pūrva, not from outside.",
+    "refs": []
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "The Bhairava-Padmāvatī-kalpa and Jvālāmālinī-kalpa share ritual categories with Śaiva and Śākta tantra.",
+    "refs": [
+     "tea:bhairava-padmavati-kalpa:1"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Scholars see Jain mantraśāstra as participating in the wider tantric movement.",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "B2",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U35-jain-philosophy"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:tara-mahacina-buddhist",
   "from": "lin:vajrayana",
   "to": "lin:kalikula",
@@ -7177,6 +10626,43 @@
   "provenance": {
    "units": [
     "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:theravada-sarvastivada-abhidharma",
+  "from": "lin:theravada",
+  "to": "lin:sarvastivada",
+  "what": "Shared methods and vocabulary of Abhidharma: matrices of dyads and triads, lists of mental factors, conditions and defilement clusters; seven-book canons in both schools.",
+  "direction": "mutual",
+  "era": "3rd c. BCE – 5th c. CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "parallel categories (e.g. the clusters of taints, ties, floods; four conditions of the Sarvāstivāda among the Paṭṭhāna's twenty-four)",
+    "refs": [
+     "tea:dhammasangani:1.1/2",
+     "tea:patthana:1.1.1"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "a common early Abhidharma layer before the schools diverged",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U37-abhidhamma-visuddhimagga"
    ],
    "phases": [
     "skeleton"
@@ -7271,6 +10757,14 @@
     "type": "tradition-account",
     "detail": "Abhinavabhāratī; Locana (U31)",
     "refs": []
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Abhinavabhāratī and Locana use Trika vocabulary",
+    "refs": [
+     "tea:abhinavabharati:6.rasasutra.abhinavagupta",
+     "tea:abhinavabharati:6.santa"
+    ]
    }
   ],
   "verification": {
@@ -7281,7 +10775,8 @@
   },
   "provenance": {
    "units": [
-    "skeleton:U19-kashmir-saivism"
+    "skeleton:U19-kashmir-saivism",
+    "skeleton:U31-sound-arts"
    ],
    "phases": [
     "skeleton"
@@ -7357,6 +10852,81 @@
   "provenance": {
    "units": [
     "skeleton:U03-principal-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:upanisadic-self-views-examined",
+  "from": "lin:upanisadic",
+  "to": "lin:early-buddhism",
+  "what": "Views of self examined and rejected in the suttas, e.g. 'that which is the world is the self; after death I shall be permanent' (MN 22), close to Upaniṣadic formulations.",
+  "direction": "disputed",
+  "era": "the Buddha's lifetime (tradition)",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "MN 22's sixth ground for views ('so loko so attā') resembles Upaniṣadic identifications of self and world.",
+    "refs": [
+     "tea:alagaddupama-sutta:15-17"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Whether the suttas target specific Upaniṣads (e.g. the Bṛhadāraṇyaka, Chāndogya) is debated.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U36-pali-suttas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:upanisadic-to-bhaktamara",
+  "from": "lin:upanisadic",
+  "to": "lin:jainism",
+  "what": "The Bhaktāmara praises the Jina as the 'supreme person, sun-coloured, beyond darkness', by knowing whom one conquers death — 'no other path' — in wording close to Śvetāśvatara Upaniṣad 3.8.",
+  "direction": "from→to",
+  "era": "c. 6th–7th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Bhaktāmara 23 and Śvetāśvatara 3.8 share 'ādityavarṇaṃ … tamasaḥ' and the 'conquer death, no other path' motif.",
+    "refs": [
+     "tea:bhaktamara-stotra:23",
+     "tea:svetasvatara-upanisad:3.7-8"
+    ]
+   }
+  ],
+  "coverage": [
+   "B2",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U35-jain-philosophy"
    ],
    "phases": [
     "skeleton"
@@ -7689,6 +11259,39 @@
   }
  },
  {
+  "id": "brw:uttaradhyayana-pali-parallels",
+  "from": "lin:jainism",
+  "to": "lin:early-buddhism",
+  "what": "Shared ascetic stories and verses: Nami's renunciation (Utt 9; Mahājanaka and Nimi jātakas), Harikeśa (Utt 12; Mātaṅga jātaka), Citta and Sambhūta (Utt 13; Cittasambhūta jātaka), Iṣukāra (Utt 14; Hatthipāla jātaka), the true brāhmaṇa (Utt 25; Dhammapada 26)",
+  "direction": "disputed",
+  "era": "canonical period",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Parallel narratives and near-identical verses; usually explained as a common stock of śramaṇa poetry",
+    "refs": [
+     "tea:uttaradhyayana-sutra:9.14",
+     "tea:uttaradhyayana-sutra:12",
+     "tea:uttaradhyayana-sutra:25"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U34-jain-canon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:vaisesika-nyaya-syncretism",
   "from": "lin:vaisesika",
   "to": "lin:nyaya",
@@ -7996,6 +11599,43 @@
   }
  },
  {
+  "id": "brw:vedanga-to-jyotisa",
+  "from": "lin:vedanga",
+  "to": "lin:jyotisa",
+  "what": "The asterisms with their deities, the five-year yuga and its year-names, and the purpose of time-reckoning for rites.",
+  "direction": "from→to",
+  "era": "late first millennium BCE onward",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "The Vedāṅga Jyotiṣa's asterism-deities (VJ r.25–27) recur in BS 97.4–5 and MC 2.1; its five year-names recur in the sixty-year cycle (BS 8.24).",
+    "refs": [
+     "tea:vedanga-jyotisa:r.25-28",
+     "tea:brhat-samhita:97.4-9",
+     "tea:brhat-samhita:8.23-29"
+    ]
+   }
+  ],
+  "coverage": [
+   "A13",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U32-jyotisa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:vedanta-paramarthasara-to-trika",
   "from": "lin:vedanta",
   "to": "lin:trika",
@@ -8093,6 +11733,38 @@
   "provenance": {
    "units": [
     "skeleton:U25-alvar-bhakti-theory"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vedanta-to-sangita",
+  "from": "lin:advaita-vedanta",
+  "to": "lin:sangita",
+  "what": "Brahman as consciousness-bliss, jīvas as sparks conditioned by avidyā, and the rope-snake view of creation reported beside the gold-earring view.",
+  "direction": "from→to",
+  "era": "13th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "ŚR 1.2.4–12",
+    "refs": [
+     "tea:sangita-ratnakara:1.2.4-7",
+     "tea:sangita-ratnakara:1.2.11-12"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U31-sound-arts"
    ],
    "phases": [
     "skeleton"
@@ -8329,6 +12001,45 @@
   }
  },
  {
+  "id": "brw:vimuttimagga-to-visuddhimagga",
+  "from": "lin:abhayagiri",
+  "to": "lin:mahavihara",
+  "what": "The plan and much content of the Vimuttimagga (ascetic practices, temperaments, meditation subjects, the higher knowledges) underlie the Visuddhimagga, which cites some of its views anonymously.",
+  "direction": "from→to",
+  "era": "1st–5th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "close structural parallels between the two manuals (scholarly observation)",
+    "refs": [
+     "tea:vimuttimagga:3",
+     "tea:visuddhimagga:2"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Dhammapāla's sub-commentary identifies views cited as 'some' in the Visuddhimagga as Upatissa's (recalled)",
+    "refs": [
+     "tea:paramatthamanjusa:3"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U37-abhidhamma-visuddhimagga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:visistadvaita-to-gaudiya-vaisnava",
   "from": "lin:visistadvaita",
   "to": "lin:gaudiya-vaisnava",
@@ -8461,6 +12172,43 @@
   "provenance": {
    "units": [
     "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vitakkasanthana-agama-parallel",
+  "from": "lin:early-buddhism",
+  "to": "lin:sarvastivada",
+  "what": "The removal of distracting thoughts: MN 20 (Pali) ↔ MĀ 101 (Zengshang xin jing 增上心經)",
+  "direction": "from→to",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Common inheritance: parallel recensions of the same discourse transmitted in two schools' canons; neither borrowed from the other.",
+    "refs": [
+     "src:vitakkasanthana-sutta",
+     "MN 20",
+     "src:madhyamagama",
+     "MĀ 101 (Zengshang xin jing 增上心經)"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "I1",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U38-early-schools"
    ],
    "phases": [
     "skeleton"
@@ -8620,6 +12368,104 @@
   }
  },
  {
+  "id": "brw:vyakarana-to-alankara-dhvani",
+  "from": "lin:vyakarana",
+  "to": "lin:alankara",
+  "what": "The term and model of dhvani: the sounds that manifest the sphoṭa become the 'suggestion' that manifests implied meaning and rasa.",
+  "direction": "from→to",
+  "era": "9th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Dhvanyāloka 1.13 vṛtti: 'the first learned men are the grammarians' (reference from memory)",
+    "refs": [
+     "tea:dhvanyaloka:1.13"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U31-sound-arts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vyakarana-to-mantrasastra",
+  "from": "lin:vyakarana",
+  "to": "lin:mantrasastra",
+  "what": "The name śabda-brahman, the levels of speech and their placement in the body.",
+  "direction": "from→to",
+  "era": "c. 10th–12th c. CE",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "ŚT 1.12–13 discusses and corrects the grammarians' śabda-brahman; Rāghavabhaṭṭa names the sentence-sphoṭa view",
+    "refs": [
+     "tea:saradatilaka:1.12-13"
+    ]
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "paśyantī, madhyamā, vaikharī",
+    "refs": [
+     "tea:vakyapadiya:1.142"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U31-sound-arts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vyakarana-to-pramana-buddhist",
+  "from": "lin:vyakarana",
+  "to": "lin:pramana-buddhist",
+  "what": "Bhartṛhari's analyses of word-meaning and time used (and contested) by Dignāga, whose Traikālyaparīkṣā adapts verses of the Vākyapadīya's third book.",
+  "direction": "from→to",
+  "era": "5th–6th c. CE",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "textual comparison by modern scholars (recorded as metadata only)",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U31-sound-arts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:vyakarana-to-pratyabhijna",
   "from": "lin:vyakarana",
   "to": "lin:pratyabhijna",
@@ -8651,6 +12497,101 @@
   "provenance": {
    "units": [
     "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yavana-jataka-to-jyotisa",
+  "from": "lin:yavana-jataka",
+  "to": "lin:jyotisa",
+  "what": "Horoscopy by signs, houses, decans and planetary rulers, with its technical vocabulary.",
+  "direction": "from→to",
+  "era": "2nd–6th c. CE (scholarly account)",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Varāhamihira honours the Yavanas as seers (BS 2.14) and cites their views on longevity, royal yogas and nābhasa yogas.",
+    "refs": [
+     "tea:brhat-samhita:2.14",
+     "tea:brhat-jataka:7.1",
+     "tea:brhat-jataka:11.1",
+     "tea:brhat-jataka:12.1-2"
+    ]
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "Greek-derived terms: horā, kendra, paṇaphara, āpoklima, drekkāṇa, hibuka, jāmitra, meṣūraṇa, liptā, sunaphā/anaphā/durudharā/kemadruma; sign-names kriya, tāvuri, jituma …; planet-names Heli, Hemna, Āra, Koṇa, Āsphujit.",
+    "refs": [
+     "tea:brhat-jataka:1.8",
+     "tea:brhat-jataka:1.15-18",
+     "tea:brhat-jataka:2.2-3"
+    ]
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Pingree: Hellenistic horoscopy entered India through Yavaneśvara's translation (149/150 CE) and Sphujidhvaja's Yavanajātaka (269/270 CE); the dating and the degree of dependence are debated.",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "The tradition holds horā to be the seers' science (Parāśara, Garga) revealed by Brahmā; the Yavanas are honoured as masters of it, not as its origin.",
+    "refs": [
+     "tea:brhat-parasara-hora-sastra:1.6"
+    ]
+   }
+  ],
+  "coverage": [
+   "A13",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U32-jyotisa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yoga-ayurveda-caraka",
+  "from": "lin:patanjala-yoga",
+  "to": "lin:ayurveda",
+  "what": "Yoga as the cessation (here of feeling), the powers of yogins and the path of the recollection of truth shared by Caraka Śā 1 with Yoga and Sāṃkhya ('the yogins … the liberated Sāṃkhyas', Śā 1.151).",
+  "direction": "mutual",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Ca Śā 1.151 names the yogins and the Sāṃkhyas",
+    "refs": []
+   },
+   {
+    "type": "textual-parallel",
+    "detail": "Ca Śā 1.137-141",
+    "refs": []
+   }
+  ],
+  "coverage": [
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U30-ayurveda-rasa"
    ],
    "phases": [
     "skeleton"
@@ -8955,10 +12896,27 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "local Manu 6.70-74",
+      "local YS 3.202-203"
+     ],
+     "evidence": [
+      "text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering)",
+      "text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/yajnavalkya-smrti_plain_text.md (GRETIL)"
+     ],
+     "result": "confirmed",
+     "note": "MDh 6.70–74 was found: prāṇāyāma burns faults, then dhāraṇā, pratyāhāra and dhyāna. YS 3.202–203 was found (antardhāna, smṛti, kānti … the signs of yogic success). Leaving the direction undecided is appropriate, since the dates of Manu and the Yoga Sūtra are uncertain.",
+     "by": "sourcing:U02-brahmana-vedanga"
+    }
+   ]
   },
   "provenance": {
    "units": [

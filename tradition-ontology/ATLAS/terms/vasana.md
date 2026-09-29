@@ -20,4 +20,4 @@
 **Related:** [vāsanākṣaya](vasana-ksaya.md), [dṛḍhabhāvanā](drdha-bhavana.md), [saṃskāra](samskara.md), [karmāśaya](karmasaya.md), [Taijasa](taijasa.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U10-yoga, skeleton:U28-hatha-texts, skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U10-yoga, skeleton:U28-hatha-texts, skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

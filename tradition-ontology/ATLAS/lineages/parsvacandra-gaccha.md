@@ -4,7 +4,7 @@
 
 **Family:** ascetic
 **Parent:** [Śvetāmbara Mūrtipūjaka](murtipujaka.md)
-**Founders:** `tch:parsvacandra-suri`
+**Founders:** [Pārśvacandrasūri](../teachers/parsvacandra-suri.md)
 **Dates:** Scholarly account: 16th c. CE; (confidence low)
 **Status:** living
 
@@ -18,7 +18,7 @@ A small Mūrtipūjaka gaccha named after Pārśvacandrasūri (16th c.), a Gujara
 _none recorded_
 
 ## Teachers
-_none recorded_
+[Pārśvacandrasūri](../teachers/parsvacandra-suri.md)
 
 ## Practices
 _none recorded_
@@ -30,4 +30,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

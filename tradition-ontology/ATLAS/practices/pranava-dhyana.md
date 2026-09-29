@@ -19,4 +19,4 @@ Contemplation and repetition of Oṃ through its measures to the half-measure an
   - [Sannyāsa Upaniṣad](../texts/sannyasa-upanisad.md) — ref: 2.103-104; rests_on: ["tea:sannyasa-upanisad:2.103-104"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

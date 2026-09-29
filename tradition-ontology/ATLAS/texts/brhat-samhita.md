@@ -24,7 +24,7 @@ This was darkness; in it were the waters; in the golden egg, in the halves of he
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate, dispute_
 
-concepts: `cpt:jyotisa-ultimate` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [The ultimate as named in jyotiṣa texts](../concepts/jyotisa-ultimate.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 1.9 <a id="tea-brhat-samhita-1-9"></a>
 `skeleton` · confidence moderate
@@ -33,7 +33,7 @@ The science of the lights, with its many divisions and subjects, rests on three 
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate_
 
-concepts: `cpt:jyotisa-three-skandhas` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [The three branches of jyotiṣa (skandha-traya)](../concepts/jyotisa-three-skandhas.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 2.4 <a id="tea-brhat-samhita-2-4"></a>
 `skeleton` · confidence high
@@ -42,7 +42,7 @@ A man crossing the ocean might at some time reach the far shore by the force of 
 
 _level: conventional · standpoint: experiential · path: knowledge · stage: all · types: world-fate, powers-experiences_
 
-concepts: `cpt:kalapurusa`, `cpt:daivajna-qualifications` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [Kālapuruṣa, the Person of Time](../concepts/kalapurusa.md), [The astrologer's qualifications and conduct](../concepts/daivajna-qualifications.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 2.6-8 <a id="tea-brhat-samhita-2-6-8"></a>
 `skeleton` · confidence high
@@ -51,7 +51,7 @@ The king who does not honour one skilled in all the limbs and sub-limbs, grounde
 
 _level: conventional · standpoint: ethical-social · path: ritual · stage: all · types: world-fate, teacher-transmission_
 
-concepts: `cpt:daivajna-qualifications` · teachers: [Varāhamihira](../teachers/varahamihira.md) · disputes: `dsp:astrology-for-renunciants`
+concepts: [The astrologer's qualifications and conduct](../concepts/daivajna-qualifications.md) · teachers: [Varāhamihira](../teachers/varahamihira.md) · disputes: [May monks and renunciants practise astrology or live by it?](../debates/astrology-for-renunciants.md)
 
 ### 2.11-13 <a id="tea-brhat-samhita-2-11-13"></a>
 `skeleton` · confidence high
@@ -60,7 +60,7 @@ One who wishes prosperity should not live in a land without an astrologer; where
 
 _level: conventional · standpoint: ethical-social · path: knowledge, ritual · stage: all · types: world-fate, karma-liberation_
 
-concepts: `cpt:daivajna-qualifications` · teachers: [Varāhamihira](../teachers/varahamihira.md) · disputes: `dsp:astrologer-at-sraddha`
+concepts: [The astrologer's qualifications and conduct](../concepts/daivajna-qualifications.md) · teachers: [Varāhamihira](../teachers/varahamihira.md) · disputes: [Is the astrologer to be honoured or excluded at a śrāddha?](../debates/astrologer-at-sraddha.md)
 
 ### 2.14 <a id="tea-brhat-samhita-2-14"></a>
 `skeleton` · confidence high
@@ -71,7 +71,7 @@ The Yavanas are mlecchas, yet this science is well established among them, and t
 
 _level: conventional · standpoint: ethical-social · path: knowledge · stage: all · types: world-fate, teacher-transmission_
 
-concepts: `cpt:jyotisa-transmission` · teachers: [Varāhamihira](../teachers/varahamihira.md), [Yavanācārya ('the Yavana teacher')](../teachers/yavanacarya.md)
+concepts: [Teacher, pupil and the handing down of jyotiṣa](../concepts/jyotisa-transmission.md) · teachers: [Varāhamihira](../teachers/varahamihira.md), [Yavanācārya ('the Yavana teacher')](../teachers/yavanacarya.md)
 
 ### 2.15 <a id="tea-brhat-samhita-2-15"></a>
 `skeleton` · confidence moderate
@@ -80,7 +80,7 @@ One who makes predictions by trickery, by (feigned) possession, by concealment, 
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: world-fate, ethics_
 
-concepts: `cpt:daivajna-qualifications` · obstacles: `obs:kuhaka-daivajna` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [The astrologer's qualifications and conduct](../concepts/daivajna-qualifications.md) · obstacles: [The fraudulent astrologer](../obstacles/kuhaka-daivajna.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 5.1-7 <a id="tea-brhat-samhita-5-1-7"></a>
 `skeleton` · confidence high
@@ -89,7 +89,7 @@ Some say that the asura's head, though cut off, was not abandoned by its life-br
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: world-fate, dispute_
 
-terms: `trm:rahu` · concepts: `cpt:eclipse-doctrine` · teachers: [Varāhamihira](../teachers/varahamihira.md) · disputes: `dsp:eclipse-cause`
+terms: [rāhu](../terms/rahu.md) · concepts: [The doctrine of eclipses](../concepts/eclipse-doctrine.md) · teachers: [Varāhamihira](../teachers/varahamihira.md) · disputes: [Is an eclipse caused by Rāhu or by shadow?](../debates/eclipse-cause.md)
 
 ### 5.8-13 <a id="tea-brhat-samhita-5-8-13"></a>
 `skeleton` · confidence high
@@ -100,7 +100,7 @@ In a lunar eclipse the moon enters the earth's shadow; in a solar eclipse the mo
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate, dispute_
 
-concepts: `cpt:eclipse-doctrine` · teachers: [Varāhamihira](../teachers/varahamihira.md) · disputes: `dsp:eclipse-cause`
+concepts: [The doctrine of eclipses](../concepts/eclipse-doctrine.md) · teachers: [Varāhamihira](../teachers/varahamihira.md) · disputes: [Is an eclipse caused by Rāhu or by shadow?](../debates/eclipse-cause.md)
 
 ### 5.14-15 <a id="tea-brhat-samhita-5-14-15"></a>
 `skeleton` · confidence high
@@ -109,7 +109,7 @@ To that asura Rāhu this boon was granted by Brahmā: 'At the eclipse you will b
 
 _level: bridging · standpoint: ritual · path: ritual, knowledge · stage: all · types: world-fate, practice_
 
-concepts: `cpt:eclipse-doctrine`, `cpt:eclipse-observances` · practices: `prc:grahana-observance` · teachers: [Varāhamihira](../teachers/varahamihira.md), [Brahmā (as first teacher)](../teachers/brahma.md) · disputes: `dsp:eclipse-cause`
+concepts: [The doctrine of eclipses](../concepts/eclipse-doctrine.md), [Observances at eclipses](../concepts/eclipse-observances.md) · practices: [Observances at an eclipse](../practices/grahana-observance.md) · teachers: [Varāhamihira](../teachers/varahamihira.md), [Brahmā (as first teacher)](../teachers/brahma.md) · disputes: [Is an eclipse caused by Rāhu or by shadow?](../debates/eclipse-cause.md)
 
 ### 8.1-2 <a id="tea-brhat-samhita-8-1-2"></a>
 `skeleton` · confidence high
@@ -118,7 +118,7 @@ The year of Jupiter (the gods' minister) is named after the asterism with which 
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
-terms: [saṃvatsara](../terms/samvatsara.md) · concepts: `cpt:samvatsara-cycle` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+terms: [saṃvatsara](../terms/samvatsara.md) · concepts: [The Jupiter years and the sixty-year cycle](../concepts/samvatsara-cycle.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 8.23-29 <a id="tea-brhat-samhita-8-23-29"></a>
 `skeleton` · confidence high
@@ -127,7 +127,7 @@ The sixty-year cycle has twelve yugas of five years, ruled by Viṣṇu, Jupiter
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
-terms: [saṃvatsara](../terms/samvatsara.md) · concepts: `cpt:samvatsara-cycle` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+terms: [saṃvatsara](../terms/samvatsara.md) · concepts: [The Jupiter years and the sixty-year cycle](../concepts/samvatsara-cycle.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 14.1 <a id="tea-brhat-samhita-14-1"></a>
 `skeleton` · confidence high
@@ -136,7 +136,7 @@ By groups of three asterisms beginning with Kṛttikā, the lands of Bhāratavar
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
-concepts: `cpt:kurma-vibhaga` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [The tortoise-division of the land](../concepts/kurma-vibhaga.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 45.1-3 <a id="tea-brhat-samhita-45-1-3"></a>
 `skeleton` · confidence high
@@ -145,7 +145,7 @@ I will tell the portents that Garga declared to Atri. In brief: a portent (utpā
 
 _level: conventional · standpoint: causal · path: ritual · stage: all · types: world-fate, karma-liberation_
 
-terms: `trm:utpata`, [śānti](../terms/santi.md) · concepts: `cpt:utpata-portents` · practices: `prc:utpata-santi` · teachers: [Varāhamihira](../teachers/varahamihira.md), [Garga (as teacher of saṃhitā)](../teachers/garga.md) · disputes: `dsp:grahas-cause-or-sign`
+terms: [utpāta](../terms/utpata.md), [śānti](../terms/santi.md) · concepts: [Portents (utpāta) and their pacification](../concepts/utpata-portents.md) · practices: [Pacification of portents (utpāta-śānti)](../practices/utpata-santi.md) · teachers: [Varāhamihira](../teachers/varahamihira.md), [Garga (as teacher of saṃhitā)](../teachers/garga.md) · disputes: [Do the planets cause a person's fortune, or only reveal the karma that causes it?](../debates/grahas-cause-or-sign.md)
 
 ### 45.4-7 <a id="tea-brhat-samhita-45-4-7"></a>
 `skeleton` · confidence high
@@ -154,7 +154,7 @@ Heavenly portents are anomalies of planets and asterisms; atmospheric ones are m
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: world-fate, practice_
 
-concepts: `cpt:utpata-portents` · practices: `prc:utpata-santi` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [Portents (utpāta) and their pacification](../concepts/utpata-portents.md) · practices: [Pacification of portents (utpāta-śānti)](../practices/utpata-santi.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 45.8 <a id="tea-brhat-samhita-45-8"></a>
 `skeleton` · confidence high
@@ -163,7 +163,7 @@ Unprovoked breaking, moving, sweating, weeping, falling or speaking of liṅgas,
 
 _level: conventional · standpoint: experiential · path: general · stage: all · types: world-fate, powers-experiences_
 
-concepts: `cpt:utpata-portents` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [Portents (utpāta) and their pacification](../concepts/utpata-portents.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 52.1-3 <a id="tea-brhat-samhita-52-1-3"></a>
 `skeleton` · confidence high
@@ -172,7 +172,7 @@ Now the knowledge of sites (vāstu), come down from the lotus-born through the l
 
 _level: conventional · standpoint: cosmic · path: ritual · stage: all · types: world-fate, body-layers_
 
-concepts: `cpt:vastu-purusa` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [The Vāstu-man](../concepts/vastu-purusa.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 68.1-9 <a id="tea-brhat-samhita-68-1-9"></a>
 `skeleton` · confidence high
@@ -181,7 +181,7 @@ When the star-planets are strong, in their own or exaltation signs and in the an
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: world-fate, consciousness-mind, ethics_
 
-concepts: `cpt:pancamahapurusa-yogas`, `cpt:gunas-of-planets` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [The five great men (pañcamahāpuruṣa)](../concepts/pancamahapurusa-yogas.md), [The guṇas of the planets](../concepts/gunas-of-planets.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 79.1 <a id="tea-brhat-samhita-79-1"></a>
 `skeleton` · confidence high
@@ -190,7 +190,7 @@ By an auspicious gem there is good for kings, and harm by an inauspicious one; t
 
 _level: conventional · standpoint: causal · path: ritual · stage: all · types: world-fate, practice_
 
-terms: `trm:ratna`, [daiva](../terms/daiva.md) · concepts: `cpt:navagraha-correspondences` · practices: `prc:ratna-dharana` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+terms: [ratna](../terms/ratna.md), [daiva](../terms/daiva.md) · concepts: [Correspondences of the nine planets](../concepts/navagraha-correspondences.md) · practices: [Wearing the planets' gems (ratna-dhāraṇa)](../practices/ratna-dharana.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 97.4-9 <a id="tea-brhat-samhita-97-4-9"></a>
 `skeleton` · confidence high
@@ -199,7 +199,7 @@ The lords of the asterisms are the Aśvins, Yama, Agni, the lotus-born, the Moon
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: world-fate, practice_
 
-concepts: `cpt:twenty-seven-naksatras`, `cpt:naksatra-classes` · practices: `prc:muhurta-selection` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [The twenty-seven (twenty-eight) lunar mansions and their deities](../concepts/twenty-seven-naksatras.md), [Classes of asterisms for action](../concepts/naksatra-classes.md) · practices: [Choosing the auspicious moment (muhūrta)](../practices/muhurta-selection.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 103.2-4 <a id="tea-brhat-samhita-103-2-4"></a>
 `skeleton` · confidence high
@@ -208,7 +208,7 @@ Transits (gocara) are what is generally used in practice, so their results are g
 
 _level: conventional · standpoint: analytic · path: ritual · stage: all · types: world-fate_
 
-terms: `trm:gocara-jyotisa` · concepts: `cpt:gocara` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+terms: [gocara (transit)](../terms/gocara-jyotisa.md) · concepts: [Transits (gocara)](../concepts/gocara.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 103.59-60 <a id="tea-brhat-samhita-103-59-60"></a>
 `skeleton` · confidence high
@@ -217,7 +217,7 @@ An action begun for one's own increase while the planets are badly placed destro
 
 _level: conventional · standpoint: causal · path: ritual, action · stage: all · types: world-fate_
 
-terms: [puruṣakāra](../terms/purusakara.md) · concepts: `cpt:muhurta-science`, `cpt:daiva-and-purusakara-jyotisa` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+terms: [puruṣakāra](../terms/purusakara.md) · concepts: [The science of auspicious timing (muhūrta)](../concepts/muhurta-science.md), [Fate and effort in jyotiṣa](../concepts/daiva-and-purusakara-jyotisa.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 105.1-2 <a id="tea-brhat-samhita-105-1-2"></a>
 `skeleton` · confidence high
@@ -226,10 +226,10 @@ Having churned the ocean of jyotiṣa with the Mandara mountain of my intellect,
 
 _level: conventional · standpoint: experiential · path: knowledge · stage: all · types: world-fate, teacher-transmission_
 
-concepts: `cpt:jyotisa-transmission` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [Teacher, pupil and the handing down of jyotiṣa](../concepts/jyotisa-transmission.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 
 _Notes: Commentary: Bhaṭṭotpala (Saṃhitāvivṛti). Local e-text: GRETIL._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

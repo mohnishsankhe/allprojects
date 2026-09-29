@@ -25,6 +25,7 @@ _Notes: U05's contribution; the Nārada Bhakti Sūtra is covered by U25._
 **Verification checks**
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_8.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_9.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/raw_etexts/shixA/sAma-vedaH/naradiya_shiksha.md — Headers: 8.13 'nāradaḥ kāṇvaḥ'; 9.104–105 'parvatanāradau kāṇvau'. Nāradīya Śikṣā ascription is the text's tradition (local text).
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.321.7-14, 12.267.2, 12.250.1 [nārada], local:DharmicData Rāmāyaṇa (vulgate) 1.1.1-2, local:gita/gita BhG 10.26 — Located as described.
+- 2026-09-28 catalog: confirmed — catalog:GRETIL-dev:narada-smrti, catalog:raw_etexts:naradiya_shiksha — Confirmed as the traditional author of the Nāradasmṛti and the Nāradīya Śikṣā (both held locally).
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.321.7-14, 12.267.2, 12.250.1 [nārada], local:DharmicData Rāmāyaṇa (vulgate) 1.1.1-2, local:gita/gita BhG 10.26 — Located as described.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U25-alvar-bhakti-theory, skeleton:U16-bhedabheda, skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads, skeleton:U08-agama-catalogue, skeleton:U31-sound-arts, skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U25-alvar-bhakti-theory, skeleton:U16-bhedabheda, skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads, skeleton:U08-agama-catalogue, skeleton:U31-sound-arts, skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

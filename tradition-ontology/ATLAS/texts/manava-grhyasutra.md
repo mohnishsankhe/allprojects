@@ -1,6 +1,6 @@
 # Mānava Gṛhyasūtra
 
-`src:manava-grhyasutra` · `skeleton` · confidence low
+`src:manava-grhyasutra` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 The domestic-rite manual of the Mānava Maitrāyaṇīyas.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:DCS:Mānavagṛhyasūtra, catalog:GRETIL-dev:manava-grhyasutra — Low-confidence entry confirmed as extant.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

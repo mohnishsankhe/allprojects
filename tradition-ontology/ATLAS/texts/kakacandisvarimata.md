@@ -13,4 +13,4 @@
 An early Śaiva alchemical tantra; Kākacaṇḍīśvara is named among the rasa authorities in the Rasaratnasamuccaya (1.6). RESTRICTED: summary only.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

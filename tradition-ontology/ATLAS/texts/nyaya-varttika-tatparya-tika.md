@@ -52,8 +52,8 @@ Vācaspati salutes Śiva — all-pervading, all-powerful, bearer of the bow Pin�
 
 _level: unmarked · standpoint: devotional · path: knowledge, devotion · stage: all · types: teacher-transmission_
 
-teachers: [Uddyotakara](../teachers/uddyotakara.md), [Vātsyāyana](../teachers/vatsyayana.md), `tch:dignaga`
+teachers: [Uddyotakara](../teachers/uddyotakara.md), [Vātsyāyana](../teachers/vatsyayana.md), [Dignāga](../teachers/dignaga.md)
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

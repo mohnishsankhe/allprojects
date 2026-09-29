@@ -11,6 +11,6 @@ A merchant of Vārāṇasī who teaches the ascetic Jājali that the eternal dha
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.253.1, 12.253.8-11 and 43-45 (Vārāṇasī) — Located as described.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.253.1, 12.253.8-11 and 43-45 (Vārāṇasī) — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

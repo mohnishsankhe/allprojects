@@ -15,4 +15,4 @@
 A brāhmaṇa teaches his wife the inner sacrifice of the senses and breaths and the knowledge of the Self beyond them; part of the Anugītā (owned by unit U05).
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

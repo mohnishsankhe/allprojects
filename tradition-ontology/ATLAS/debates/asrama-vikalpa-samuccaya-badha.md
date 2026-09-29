@@ -1,6 +1,6 @@
 # Are the four orders of life a free choice, a fixed sequence, or is only the householder's order valid?
 
-`dsp:asrama-vikalpa-samuccaya-badha` · `skeleton` · confidence high
+`dsp:asrama-vikalpa-samuccaya-badha` · `sourced` · confidence high
 
 **Coverage:** D (life stages)
 
@@ -47,4 +47,8 @@ Manu's sequence with debts first and the Jābāla option 'on the day one becomes
 **The traditions' own objections:** The aikāśramya teachers (GDh 3.36; BDh 2.6.11.27–28) deny any Vedic basis to the celibate orders and so reject grading them; Manu insists the debts be paid first (6.35–37); Āpastamba denies that knowledge alone brings safety in this life (2.9.21.14–16).
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/vasistadharmasutra.md (GRETIL), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/gautama-dharmasutra.md (GRETIL, Stenzler numbering), text:sources_raw/raw_etexts/mixed/gretil_deva — Every text cited for the sides was found: VDh 7.1–3, GDh 3.1–3, ĀpDh 2.9.21.1–2 (with the safety of all four orders), MDh 6.33–37, and MDh 6.87–90. Jābāla Up. 4 has 'yad ahar eva virajet tad ahar eva pravrajet'. For the bādha (only householder) side, GDh 3.36 and BDh 2.6.11.27–28 were checked in the teaching checks.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

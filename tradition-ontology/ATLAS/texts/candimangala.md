@@ -14,4 +14,4 @@
 The best-known Bengali 'auspicious poem' of the Goddess Caṇḍī, telling of her grace to the hunter Kālaketu and the merchant Dhanapati and his son Śrīmanta; a narrative source for popular Śākta devotion in Bengal.
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._

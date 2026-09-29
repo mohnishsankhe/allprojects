@@ -39,7 +39,7 @@ The signs aspect the sign facing them, and the signs at its sides too — so tha
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate_
 
-terms: `trm:rasi-drsti` · concepts: `cpt:rasi-drsti` · teachers: [Jaimini](../teachers/jaimini.md)
+terms: [rāśi-dṛṣṭi](../terms/rasi-drsti.md) · concepts: [Sign-aspects (Jaimini)](../concepts/rasi-drsti.md) · teachers: [Jaimini](../teachers/jaimini.md)
 
 ### 1.1.11 <a id="tea-jaimini-upadesa-sutra-1-1-11"></a>
 `skeleton` · confidence high
@@ -50,7 +50,7 @@ The planet with the most degrees (then minutes and so on), among seven or eight,
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate, consciousness-mind_
 
-terms: `trm:atmakaraka` · concepts: `cpt:cara-karakas` · teachers: [Jaimini](../teachers/jaimini.md)
+terms: [ātmakāraka](../terms/atmakaraka.md) · concepts: [The variable significators (cara-kāraka)](../concepts/cara-karakas.md) · teachers: [Jaimini](../teachers/jaimini.md)
 
 ### 1.2.13 <a id="tea-jaimini-upadesa-sutra-1-2-13"></a>
 `skeleton` · confidence moderate
@@ -61,7 +61,7 @@ terms: `trm:atmakaraka` · concepts: `cpt:cara-karakas` · teachers: [Jaimini](.
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: world-fate, karma-liberation_
 
-terms: `trm:karakamsa`, [kaivalya](../terms/kaivalya.md) · concepts: `cpt:moksa-in-the-chart` · teachers: [Jaimini](../teachers/jaimini.md)
+terms: [kārakāṃśa](../terms/karakamsa.md), [kaivalya](../terms/kaivalya.md) · concepts: [Signs of liberation in the chart](../concepts/moksa-in-the-chart.md) · teachers: [Jaimini](../teachers/jaimini.md)
 
 ### 1.2.68-69 <a id="tea-jaimini-upadesa-sutra-1-2-68-69"></a>
 `skeleton` · confidence high
@@ -72,8 +72,8 @@ terms: `trm:karakamsa`, [kaivalya](../terms/kaivalya.md) · concepts: `cpt:moksa
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: world-fate, karma-liberation, death-dying_
 
-terms: `trm:ketu`, [kaivalya](../terms/kaivalya.md), `trm:karakamsa` · concepts: `cpt:moksa-in-the-chart` · teachers: [Jaimini](../teachers/jaimini.md)
+terms: [ketu](../terms/ketu.md), [kaivalya](../terms/kaivalya.md), [kārakāṃśa](../terms/karakamsa.md) · concepts: [Signs of liberation in the chart](../concepts/moksa-in-the-chart.md) · teachers: [Jaimini](../teachers/jaimini.md)
 
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

@@ -19,4 +19,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula, skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula, skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

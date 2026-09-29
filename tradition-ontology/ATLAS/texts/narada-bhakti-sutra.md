@@ -182,7 +182,7 @@ The teachers sing of its means: it comes by giving up sense-objects and attachme
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: beginner · types: practice_
 
-concepts: [Relinquishment, single-mindedness and indifference (nirodha, ananyatā, udāsīnatā)](../concepts/nirodha-in-bhakti.md) · practices: [Hearing the Lord's names, qualities and deeds (śravaṇa)](../practices/sravana-bhakti.md), [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md), [Resorting to solitude (vivikta-sthāna-sevana)](../practices/vivikta-sthana-sevana.md) · teachers: [Nārada](../teachers/narada.md)
+concepts: [Relinquishment, single-mindedness and indifference (nirodha, ananyatā, udāsīnatā)](../concepts/nirodha-in-bhakti.md) · practices: [Hearing the Lord's names, qualities and deeds (śravaṇa)](../practices/sravana-bhakti.md), [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md), [Resorting to solitude (vivikta-sthāna-sevana)](../practices/vivikta-sthana-sevana.md) · teachers: [Nārada](../teachers/narada.md)
 
 ### 38-40 <a id="tea-narada-bhakti-sutra-38-40"></a>
 `skeleton` · confidence high
@@ -357,7 +357,7 @@ Being sung of, he quickly manifests himself and makes his devotees experience hi
 
 _level: conventional · standpoint: divine · path: devotion, sound · stage: all · types: practice, powers-experiences_
 
-concepts: [The divine name](../concepts/divine-name.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md) · teachers: [Nārada](../teachers/narada.md)
+concepts: [The divine name](../concepts/divine-name.md) · practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md) · teachers: [Nārada](../teachers/narada.md)
 
 ### 81 <a id="tea-narada-bhakti-sutra-81"></a>
 `skeleton` · confidence moderate
@@ -399,4 +399,4 @@ teachers: [Nārada](../teachers/narada.md)
 _Notes: Sūtra numbering follows the common 84-sūtra text; some editions divide or join sūtras differently, so numbers may shift by one or two. No pre-modern Sanskrit commentary recalled with confidence; modern commentaries are many (e.g. in the Ramakrishna and ISKCON movements) and are not recorded here._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

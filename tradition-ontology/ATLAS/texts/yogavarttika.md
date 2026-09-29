@@ -54,7 +54,7 @@ Closing the first pāda: in the Sāṃkhya, liberation is taught from knowledge 
 
 _level: conventional · standpoint: polemical · path: knowledge, devotion, meditation · stage: all · types: karma-liberation, dispute_
 
-concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Samādhi beyond object-awareness (asamprajñāta)](../concepts/asamprajnata-samadhi.md) · disputes: [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md), `dsp:isvara`
+concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Samādhi beyond object-awareness (asamprajñāta)](../concepts/asamprajnata-samadhi.md) · disputes: [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### intro.3-4 <a id="tea-yogavarttika-intro-3-4"></a>
 `skeleton` · confidence high
@@ -67,4 +67,4 @@ concepts: [Īśvara, Hiraṇyagarbha and the transmission of Yoga](../concepts/i
 
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 16:38 IST._

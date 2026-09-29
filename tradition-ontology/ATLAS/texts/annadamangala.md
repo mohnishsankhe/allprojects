@@ -14,4 +14,4 @@
 Bhāratcandra's Bengali poem in praise of Annapūrṇā/Annadā, composed at the court of Rājā Kṛṣṇacandra of Nadia; it includes the Vidyāsundara episode and the story of Satī and the pīṭhas.
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._

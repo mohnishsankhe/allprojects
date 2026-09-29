@@ -1,6 +1,6 @@
 # Vṛttaratnākara
 
-`src:vrttaratnakara` · `skeleton` · confidence moderate
+`src:vrttaratnakara` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -14,4 +14,8 @@ Kedārabhaṭṭa's widely studied manual of classical Sanskrit metres, continui
 _Notes: Local copy: gretil 5_poetry/1_chandas._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:GRETIL:kedArabhaTTa-vRttaratnAkara, catalog:GRETIL-dev:kedarabhatta_vrttaratnakara_with_sulhana-s_sukavihrdayanandini, https://www.wisdomlib.org/definition/kedarabhatta — Extant (GRETIL). The date is uncertain: sources give 950–1050, the 11th c. or the 14th c. CE, which the entry's low-confidence 'c. 11th–15th c. (uncertain)' covers.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

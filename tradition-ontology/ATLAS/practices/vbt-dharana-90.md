@@ -15,4 +15,4 @@ Wherever the mind goes, outside or within, there is the state of Śiva; since it
 _Notes: Verses 116 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

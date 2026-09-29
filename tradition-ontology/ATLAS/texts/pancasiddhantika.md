@@ -24,8 +24,8 @@ Of the five siddhāntas the Pauliśa is accurate, the Romaka close to it, the S�
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate_
 
-concepts: `cpt:siddhanta-paksas` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [The astronomical schools (pakṣa)](../concepts/siddhanta-paksas.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

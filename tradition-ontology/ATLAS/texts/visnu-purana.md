@@ -255,7 +255,7 @@ What one gains by meditation in the Kṛta age, by sacrifices in Tretā and by w
 
 _level: conventional · standpoint: seeker · path: sound, devotion · stage: all · types: practice, world-fate_
 
-terms: [kīrtana](../terms/kirtana.md), [kali-yuga](../terms/kali-yuga.md) · concepts: [The means proper to each age](../concepts/yuga-dharma.md), [The dharma of the Kali age](../concepts/kali-yuga-dharma.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md)
+terms: [kīrtana](../terms/kirtana.md), [kali-yuga](../terms/kali-yuga.md) · concepts: [The means proper to each age](../concepts/yuga-dharma.md), [The dharma of the Kali age](../concepts/kali-yuga-dharma.md) · practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md)
 
 ### 6.5.1-6 <a id="tea-visnu-purana-6-5-1-6"></a>
 `skeleton` · confidence high
@@ -410,4 +410,4 @@ teachers: [Keśidhvaja](../teachers/kesidhvaja.md), [Khāṇḍikya Janaka](../t
 _Notes: Book 6 ch. 6-7: Keśidhvaja teaches Khāṇḍikya yoga; Book 2 ch. 13-16: Bharata and Ṛbhu-Nidāgha. verse number checked in the local e-text of the VP with the Viṣṇucittīya and Ātmaprakāśa commentaries (raw_etexts mAdhva-app)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._

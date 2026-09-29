@@ -14,4 +14,4 @@
 Vedānta Deśika's commentary on Tiruppāṇ Āḻvār's Amalaṉātipirāṉ (the Āḻvār 'carried by the sage', munivāhana), reading its ten verses as containing the essence of Vedānta.
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

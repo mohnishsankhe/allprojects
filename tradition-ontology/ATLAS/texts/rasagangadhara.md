@@ -23,7 +23,7 @@ Rasa is consciousness itself, with its covering removed (bhagnāvaraṇā cit), 
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, ultimate_
 
-concepts: `cpt:rasa-as-relish-of-consciousness` · teachers: [Jagannātha Paṇḍitarāja](../teachers/jagannatha-panditaraja.md)
+concepts: [Aesthetic relish as consciousness at rest (brahmāsvāda-sahodara)](../concepts/rasa-as-relish-of-consciousness.md) · teachers: [Jagannātha Paṇḍitarāja](../teachers/jagannatha-panditaraja.md)
 
 ### 1 (opening definition) <a id="tea-rasagangadhara-1"></a>
 `skeleton` · confidence high
@@ -36,4 +36,4 @@ _level: conventional · standpoint: analytic · path: general · stage: all · t
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

@@ -5,8 +5,8 @@
 **Family:** ascetic
 **Alternate names:** Phra Kammathan, Thai Forest Tradition, Ajahn Mun lineage, Kammatthana tradition
 **Parent:** [Theravāda](theravada.md)
-**Founders:** `tch:ajahn-sao`, `tch:ajahn-mun`
-**Key teachers:** `tch:ajahn-sao`, `tch:ajahn-mun`, `tch:ajahn-lee`, `tch:ajahn-maha-boowa`, `tch:ajahn-chah`, `tch:ajahn-thate`, `tch:luang-pu-dune`, `tch:mae-chee-kaew`, `tch:ajahn-fuang`, `tch:ajahn-sumedho`, `tch:thanissaro-bhikkhu`
+**Founders:** [Ajahn Sao Kantasīlo](../teachers/ajahn-sao.md), [Ajahn Mun Bhūridatto](../teachers/ajahn-mun.md)
+**Key teachers:** [Ajahn Sao Kantasīlo](../teachers/ajahn-sao.md), [Ajahn Mun Bhūridatto](../teachers/ajahn-mun.md), [Ajahn Lee Dhammadharo](../teachers/ajahn-lee.md), [Ajahn Maha Boowa Ñāṇasampanno](../teachers/ajahn-maha-boowa.md), [Ajahn Chah Subhaddo](../teachers/ajahn-chah.md), [Ajahn Thate Desaransi](../teachers/ajahn-thate.md), [Luang Pu Dune Atulo](../teachers/luang-pu-dune.md), [Mae Chee Kaew Sianglam](../teachers/mae-chee-kaew.md), [Ajahn Fuang Jotiko](../teachers/ajahn-fuang.md), [Ajahn Sumedho](../teachers/ajahn-sumedho.md), [Ṭhānissaro Bhikkhu](../teachers/thanissaro-bhikkhu.md)
 **Regions:** Northeast Thailand (Isan), Thailand, Laos, the West (Wat Pah Nanachat, Amaravati, Metta Forest Monastery, etc.)
 **Dates:** Tradition's account: Ajahn Sao and Ajahn Mun took up the ascetic wandering life (dhutaṅga) in the forests of Isan from the late 19th/early 20th century; the tradition regards it as a return to the practice of the Buddha's time; Scholarly account: c. 1900 onward, within the Dhammayut order and later also the Mahānikāya; (confidence moderate)
 **Status:** living
@@ -33,19 +33,19 @@ The Thai forest meditation lineage descending from Ajahn Sao Kantasīlo (1861–
 **Caveat:** The forest teachers would reject a reading of the released citta as an ātman or a cosmic self; they speak from their practice, not as metaphysics.
 
 ## Texts
-`src:a-still-forest-pool`, `src:ajahn-mun-biography`, `src:arahattamagga-arahattaphala`, `src:food-for-the-heart`, `src:keeping-the-breath-in-mind`, `src:muttodaya`
+[A Still Forest Pool](../texts/a-still-forest-pool.md), [Venerable Ācariya Mun Bhūridatta Thera: A Spiritual Biography](../texts/ajahn-mun-biography.md), [Arahattamagga, Arahattaphala: The Path to Arahantship](../texts/arahattamagga-arahattaphala.md), [Food for the Heart](../texts/food-for-the-heart.md), [Keeping the Breath in Mind (Method 2)](../texts/keeping-the-breath-in-mind.md), [Muttodaya (A Heart Released)](../texts/muttodaya.md)
 
 ## Teachers
-`tch:ajahn-chah`, `tch:ajahn-fuang`, `tch:ajahn-lee`, `tch:ajahn-maha-boowa`, `tch:ajahn-mun`, `tch:ajahn-sao`, `tch:ajahn-sumedho`, `tch:ajahn-thate`, `tch:luang-pu-dune`, `tch:mae-chee-kaew`, `tch:thanissaro-bhikkhu`
+[Ajahn Chah Subhaddo](../teachers/ajahn-chah.md), [Ajahn Fuang Jotiko](../teachers/ajahn-fuang.md), [Ajahn Lee Dhammadharo](../teachers/ajahn-lee.md), [Ajahn Maha Boowa Ñāṇasampanno](../teachers/ajahn-maha-boowa.md), [Ajahn Mun Bhūridatto](../teachers/ajahn-mun.md), [Ajahn Sao Kantasīlo](../teachers/ajahn-sao.md), [Ajahn Sumedho](../teachers/ajahn-sumedho.md), [Ajahn Thate Desaransi](../teachers/ajahn-thate.md), [Luang Pu Dune Atulo](../teachers/luang-pu-dune.md), [Mae Chee Kaew Sianglam](../teachers/mae-chee-kaew.md), [Ṭhānissaro Bhikkhu](../teachers/thanissaro-bhikkhu.md)
 
 ## Practices
-_none recorded_
+[The open-air dweller's practice (abbhokasikaṅga)](../practices/abbhokasikanga.md), [Ajahn Lee's breath meditation (Method 2)](../practices/ajahn-lee-breath-method.md), [Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md), [The forest-dweller's practice (arannikaṅga)](../practices/arannikanga.md), [Recitation of 'buddho'](../practices/buddho-recitation.md), [The thirteen ascetic practices (dhutaṅga)](../practices/dhutanga.md), [The one-sessioner's practice (ekasanikaṅga)](../practices/ekasanikanga.md), [The later-food refuser's practice (khalupacchabhattikaṅga)](../practices/khalupacchabhattikanga.md), [The sitter's practice (not lying down) (nesajjikaṅga)](../practices/nesajjikanga.md), [The refuse-rag wearer's practice (pamsukulikaṅga)](../practices/pamsukulikanga.md), [The bowl-food eater's practice (pattapindikaṅga)](../practices/pattapindikanga.md), [The alms-food eater's practice (pindapatikaṅga)](../practices/pindapatikanga.md), [The tree-root dweller's practice (rukkhamulikaṅga)](../practices/rukkhamulikanga.md), [The house-to-house seeker's practice (sapadanacarikaṅga)](../practices/sapadanacarikanga.md), [The charnel-ground dweller's practice (sosanikaṅga)](../practices/sosanikanga.md), [The triple-robe wearer's practice (tecivarikaṅga)](../practices/tecivarikanga.md), [Dhutaṅga wandering (tudong)](../practices/tudong.md), [The any-bed user's practice (yathasanthatikaṅga)](../practices/yathasanthatikanga.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Must jhāna precede insight, or can insight proceed on momentary concentration (dry insight)?](../debates/dry-insight-or-jhana-first.md), [What is the 'luminous mind' — the life-continuum, or the knowing heart known in meditation?](../debates/luminous-citta-reading.md)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._

@@ -1,6 +1,6 @@
 # Śāṇḍilya-vidyā
 
-`cpt:sandilya-vidya` · `skeleton` · confidence high
+`cpt:sandilya-vidya` · `sourced` · confidence high
 
 **Category:** self
 
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14), text:sources_raw/prepared/chandogya-upanisad — The definition's cited passages were all checked in this sweep and support it: tea:satapatha-brahmana:10.6.3.1-2 (confirmed). ChU 3.14.1–4, the Chāndogya version, was also found: 'sarvaṃ khalv idaṃ brahma … kratumayaḥ puruṣaḥ … manomayaḥ prāṇaśarīro bhārūpaḥ … aṇīyān vrīher vā yavād vā … jyāyān pṛthivyāḥ … etad brahma'.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

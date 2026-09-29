@@ -41,7 +41,7 @@ The Kabīr Panth is the organized following of Kabīr, with monastic and househo
 [Bhāgodās (Bhagvān Dās)](../teachers/bhagodas.md), [Cūṛāmaṇi Nām (Muktāmaṇi Nām)](../teachers/curamani-nam.md), [Dharamdās](../teachers/dharamdas.md), [Garībdās of Chhuḍānī](../teachers/garibdas.md), [Kabīr](../teachers/kabir.md), [Kamāl](../teachers/kamal.md), [Pūran Sāhib](../teachers/puran-sahib.md), [Surat Gopāl](../teachers/surat-gopal.md), [Viśvanāth Siṃh of Rewā](../teachers/visvanatha-simha-rewa.md)
 
 ## Practices
-[Initiation into the Kabīr Panth](../practices/kabir-panth-diksa.md), [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md), [Remembrance of the Name (nām-sumiran)](../practices/nam-simran.md), [The natural discipline (sahaj): every act as worship](../practices/sahaj-sadhana-sant.md), [Honest household livelihood](../practices/sant-householder-livelihood.md), [Holy company (satsaṅga)](../practices/satsanga.md)
+[Initiation into the Kabīr Panth](../practices/kabir-panth-diksa.md), [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md), [Remembrance of the Name (nām-sumiran)](../practices/nam-simran.md), [The natural discipline (sahaj): every act as worship](../practices/sahaj-sadhana-sant.md), [Honest household livelihood](../practices/sant-householder-livelihood.md), [Holy company (satsaṅga)](../practices/satsanga.md)
 
 ## Path maps
 _none recorded_
@@ -52,4 +52,4 @@ _none recorded_
 _Notes: Scholarly studies (e.g. D. N. Lorenzen, F. E. Keay) are used only for dating labels._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

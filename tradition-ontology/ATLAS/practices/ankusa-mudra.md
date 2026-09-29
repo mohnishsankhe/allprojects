@@ -12,4 +12,4 @@ The middle finger of the left fist, held in the right fist, extended and the ind
   - [Śāradātilaka](../texts/saradatilaka.md) — ref: ch.4 (commentary)
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._

@@ -1,6 +1,6 @@
 # Maskarin
 
-`tch:maskarin` · `skeleton` · confidence low
+`tch:maskarin` · `sourced` · confidence low
 
 **Lineages:** [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md)
 **Dates:** Scholarly account: uncertain; (confidence low)
@@ -11,4 +11,8 @@
 Commentator on the Gautama Dharmasūtra.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:GRETIL-dev:gautama_dharmasutra_adhyayas_1-3_with_maskari-s_chomm — Low-confidence entry confirmed as the author of the extant Maskaribhāṣya on Gautama. The date is uncertain, as the entry says.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

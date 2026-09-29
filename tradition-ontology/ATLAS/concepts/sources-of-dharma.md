@@ -1,6 +1,6 @@
 # The sources of dharma
 
-`cpt:sources-of-dharma` · `skeleton` · confidence high
+`cpt:sources-of-dharma` · `sourced` · confidence high
 
 **Category:** ethics
 **Members:** śruti, smṛti, sadācāra, ātmatuṣṭi, samyaksaṅkalpaja kāma
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/yajnavalkya-smrti_plain_text.md (GRETIL),  — MDh 2.6 and 2.12 (vedaḥ smṛtiḥ sadācāraḥ svasya ca priyam ātmanaḥ) were found. YS 1.7 adds 'samyaksaṃkalpajaḥ kāmaḥ'. ĀpDh 1.1.1.2 has 'dharmajñasamayaḥ pramāṇam'. Rests on teaching checks confirmed in this sweep: tea:manusmrti:2.6, tea:manusmrti:2.12-13, tea:yajnavalkyasmrti:1.7-8.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

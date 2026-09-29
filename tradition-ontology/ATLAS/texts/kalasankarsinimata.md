@@ -13,4 +13,4 @@ A Kālīkula tantra related to the Jayadrathayāmala, said in its colophons to e
 _Notes: From the Muktabodha catalogue description of a Nepalese fragment (NGMCP 5-817) - data, not verified._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

@@ -23,8 +23,8 @@ Mahimabhaṭṭa's thesis: the word has only one power, denotation; all that Ān
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: sound-language, dispute_
 
-terms: [anumāna](../terms/anumana.md), [vyañjanā](../terms/vyanjana.md) · teachers: [Mahimabhaṭṭa](../teachers/mahimabhatta.md) · disputes: `dsp:dhvani-vyanjana`
+terms: [anumāna](../terms/anumana.md), [vyañjanā](../terms/vyanjana.md) · teachers: [Mahimabhaṭṭa](../teachers/mahimabhatta.md) · disputes: [Is suggestion (dhvani, vyañjanā) a distinct power of words, and is it the soul of poetry?](../debates/dhvani-vyanjana.md)
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

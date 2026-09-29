@@ -17,6 +17,6 @@ Orissan scholar trained in Madhva's school who joined the Gauḍīyas; wrote the
 ---
 **Verification checks**
 
-- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Baladeva_Vidyabhushana — Confirmed (d. 1768).
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Baladeva_Vidyabhushana — Confirmed (d. 1768).
 
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

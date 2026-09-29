@@ -13,4 +13,4 @@
 Vāsudevāśrama's digest of the renouncer's rules (eligibility, rite, kinds of ascetic, daily conduct, rains-retreat, death rites), edited and translated by Olivelle (1976–77).
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

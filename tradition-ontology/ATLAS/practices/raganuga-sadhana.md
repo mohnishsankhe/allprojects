@@ -18,4 +18,4 @@ Driven by eager longing for a Vraja resident's love, the practitioner continues 
 - Semblances of emotion (ratyābhāsa) in those whose hearts are impure are not bhāva; outward signs alone do not prove love. — [Bhaktirasāmṛtasindhu](../texts/bhaktirasamrtasindhu.md) 1.3
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._

@@ -10,6 +10,6 @@ A king who, pitying the animals at a sacrifice, proclaims non-violence as the hi
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.257.1-6 — Located as described.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.257.1-6 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

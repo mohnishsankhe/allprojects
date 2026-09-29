@@ -1,6 +1,6 @@
 # Nīlakaṇṭha Bhaṭṭa
 
-`tch:nilakantha-bhatta` · `skeleton` · confidence moderate
+`tch:nilakantha-bhatta` · `sourced` · confidence moderate
 
 **Lineages:** [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md)
 **Dates:** Scholarly account: 17th c. CE; (confidence low)
@@ -11,4 +11,8 @@
 Author of the Bhagavantabhāskara (the Mayūkhas).
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://archive.org/details/in.ernet.dli.2015.282933, https://www.exoticindiaart.com/book/details/vyavaharamayukhah-of-nilakantha-translated-into-english-with-explanatory-notes-and-references-to-decided-cases-nah211/ — Confirmed: Kane places him c. 1610–1645; author of the Bhagavantabhāskara (Mayūkhas).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

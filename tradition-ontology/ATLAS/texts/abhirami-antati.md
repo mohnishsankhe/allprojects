@@ -15,4 +15,4 @@
 A Tamil hymn of a hundred verses in antāti form (each verse begins with the last word of the previous) to Abhirāmi, the Goddess of Tirukkaṭavūr, by Abhirāmi Paṭṭar, full of Śrīvidyā imagery.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._

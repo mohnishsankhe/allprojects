@@ -1,6 +1,6 @@
 # Prajāpati's falling apart and his restoration
 
-`cpt:prajapati-dismemberment-restoration` · `skeleton` · confidence high
+`cpt:prajapati-dismemberment-restoration` · `sourced` · confidence high
 
 **Category:** cosmology-time
 
@@ -16,4 +16,8 @@
 _Notes: Correction to the task wording: the Brāhmaṇas speak of Prajāpati 'coming apart' through the exhaustion of creating, not of a dismemberment by others (contrast the Puruṣa Sūkta, RV 10.90)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14), text:sources_raw/raw_etexts/vedaH/Rg/shakala/AraNyakam/3/2.md (AA 3.2, one khaṇḍa per line) — The definition's cited passages were all checked in this sweep and support it: tea:satapatha-brahmana:1.6.3.35-36 (confirmed); tea:satapatha-brahmana:10.1.1.2-3 (confirmed); tea:aitareya-aranyaka:3.2.6 (confirmed).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

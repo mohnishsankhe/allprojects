@@ -25,7 +25,7 @@ Liberation is absolute release from pain (Nyāya Sūtra 1.1.22), with the cessat
 The liberated soul rises to the summit of the world (Tattvārtha Sūtra 10.5, recalled).
 - Rejected by SS 5.76: the inactive does not go anywhere.
 **Texts:** 
-  - `src:tattvartha-sutra` — ref: 10.5
+  - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 10.5
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -34,4 +34,4 @@ The liberated soul rises to the summit of the world (Tattvārtha Sūtra 10.5, re
 **Candidate readings:** P1-level / P2-standpoint: descriptions by negation (Sāṃkhya, Nyāya: cessation of suffering) vs by affirmation (Advaita: bliss) of a state all agree is beyond saṃsāra.; P7-arthavāda: Sāṃkhya itself reads 'bliss' as figurative praise (SS 5.67–68).
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._

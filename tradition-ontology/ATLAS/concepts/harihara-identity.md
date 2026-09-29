@@ -14,4 +14,4 @@
 - contrasts-with → [The appearance of the liṅga of fire](lingodbhava.md): unity vs Śiva's superiority to Brahmā and Viṣṇu — rests on [1.17](../texts/linga-purana.md#tea-linga-purana-1-17)
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

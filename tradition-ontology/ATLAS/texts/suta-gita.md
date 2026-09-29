@@ -15,4 +15,4 @@
 A Śaiva Advaita Gītā in which Sūta expounds the non-dual Self identified with Śiva and the means to its knowledge.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

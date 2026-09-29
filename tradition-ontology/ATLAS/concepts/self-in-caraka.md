@@ -11,7 +11,7 @@
 
 ## Relations (interpretation layer)
 - contrasts-with → [The knowers of the field in Suśruta](self-in-susruta.md): Suśruta: selves are eternal but not all-pervading — rests on [sa.1.75-81](../texts/caraka-samhita.md#tea-caraka-samhita-sa-1-75-81), [sa.1.16-18](../texts/susruta-samhita.md#tea-susruta-samhita-sa-1-16-18)
-- opposes → `cpt:anatta`: Caraka rejects the no-self aggregate view — rests on [sa.1.46-51](../texts/caraka-samhita.md#tea-caraka-samhita-sa-1-46-51)
+- opposes → [Not-self (anattā)](anatta.md): Caraka rejects the no-self aggregate view — rests on [sa.1.46-51](../texts/caraka-samhita.md#tea-caraka-samhita-sa-1-46-51)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

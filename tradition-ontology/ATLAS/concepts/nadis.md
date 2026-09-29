@@ -22,4 +22,4 @@
 _Notes: Names as in the eBhāratī text of the Bhāvanā Upaniṣad (variant: Payasvinī for Aśvinī)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U03-principal-upanisads, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U03-principal-upanisads, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

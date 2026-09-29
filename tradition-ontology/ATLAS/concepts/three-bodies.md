@@ -16,4 +16,4 @@
 - corresponds-to-in-map → [The five sheaths (pañca-kośa)](five-sheaths.md): gross = food sheath; subtle = vital, mental, intellectual sheaths; causal = bliss sheath — rests on [sarira-traya](../texts/tattvabodha.md#tea-tattvabodha-sarira-traya)
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U27-sant-baul, skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U27-sant-baul, skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._

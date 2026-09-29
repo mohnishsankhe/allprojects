@@ -15,4 +15,4 @@ A rite for one who desires greatness, performed after an observance, in which of
 - It should not be taught to anyone but a son or a pupil (BAU 6.3.12). — [Bṛhadāraṇyaka Upaniṣad](../texts/brhadaranyaka-upanisad.md) 6.3.12
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

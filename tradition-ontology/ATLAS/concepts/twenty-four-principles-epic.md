@@ -15,4 +15,4 @@
 _Notes: The epic's lists vary between dialogues (e.g. 'eight prakṛtis and sixteen modifications'); the member list here follows BhG 13.5._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

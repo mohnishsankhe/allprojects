@@ -1,6 +1,6 @@
 # Ṣaḍviṃśa Brāhmaṇa
 
-`src:sadvimsa-brahmana` · `skeleton` · confidence moderate
+`src:sadvimsa-brahmana` · `sourced` · confidence moderate
 
 **Alternate titles:** Ṣaḍviṃśabrāhmaṇa
 **Language:** Sanskrit
@@ -16,4 +16,8 @@ The 'twenty-sixth' chapter-book appended to the Pañcaviṃśa: rites of the Sā
 _Notes: Commentary: Sāyaṇa. Content of the Adbhuta section given from memory, chapter level._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Ṣaḍviṃśabrāhmaṇa, https://vedicheritage.gov.in/brahmanas/ — Extant. DCS has 6 prapāṭhakas; the last (6.x) is the Adbhuta section on portents, e.g. 'parvatāḥ sphuṭanti … bhūmiḥ kampate … adbhutāni prāyaścittāni'. This matches '5 (or 6) prapāṭhakas; the last is the Adbhuta Brāhmaṇa'.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

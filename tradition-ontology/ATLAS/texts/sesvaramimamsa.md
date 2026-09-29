@@ -22,8 +22,8 @@ The Mīmāṃsā of ritual and the Mīmāṃsā of Brahman are one science with 
 
 _level: conventional · standpoint: analytic · path: action, knowledge · stage: all · types: sound-language, dispute_
 
-concepts: [The unity of Pūrva and Uttara Mīmāṃsā (aikaśāstrya)](../concepts/aikasastrya.md) · teachers: [Vedānta Deśika](../teachers/vedanta-desika.md) · disputes: `dsp:isvara`
+concepts: [The unity of Pūrva and Uttara Mīmāṃsā (aikaśāstrya)](../concepts/aikasastrya.md) · teachers: [Vedānta Deśika](../teachers/vedanta-desika.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._

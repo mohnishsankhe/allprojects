@@ -14,4 +14,4 @@
 - leads-to → [Servanthood and sharing (dāsōha)](dasoha.md): the fruit of kāyaka is shared as dāsōha — rests on [v-returning-the-surplus](../texts/aydakki-lakkamma-vacanas.md#tea-aydakki-lakkamma-vacanas-v-returning-the-surplus)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._

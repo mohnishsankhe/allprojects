@@ -11,4 +11,4 @@ Letting thought-constructs subside by fixing awareness at the heart and not thin
   - [Pratyabhijñāhṛdaya](../texts/pratyabhijnahrdayam.md) — ref: 18; rests_on: ["tea:pratyabhijnahrdayam:18"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

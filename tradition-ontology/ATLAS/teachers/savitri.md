@@ -10,6 +10,6 @@ Princess who chooses the doomed Satyavat, follows Yama when he takes Satyavat's 
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 3.281.12-36 (Yama, boons) — Located as described.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 3.281.12-36 (Yama, boons) — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

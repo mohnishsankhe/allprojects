@@ -23,4 +23,4 @@
 _Notes: Whether this is the Sāṃkhya pradhāna is debated (Brahma Sūtra 1.4.1)._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U09-samkhya, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U09-samkhya, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

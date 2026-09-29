@@ -59,4 +59,4 @@ concepts: [The vernacular as sacred speech](../concepts/vernacular-as-sacred-spe
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti, skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti, skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

@@ -13,4 +13,4 @@ With the mouth slightly opened and the neck stretched, air is drunk in through t
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 3.92-93; rests_on: ["tea:gheranda-samhita:3.92-93"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._

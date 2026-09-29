@@ -21,4 +21,4 @@
 - same-as-under-standpoint → [The three states and the fourth (avasthā-traya, turīya)](three-states-and-turiya.md): the witness of the three states is the fourth — rests on [1.10](../texts/mandukya-karika.md#tea-mandukya-karika-1-10), [1.3](../texts/pancadasi.md#tea-pancadasi-1-3)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U03-principal-upanisads, skeleton:U09-samkhya, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U03-principal-upanisads, skeleton:U09-samkhya, skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

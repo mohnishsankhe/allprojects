@@ -117,4 +117,4 @@ terms: [Vāyu](../terms/vayu.md), [Mukhyaprāṇa](../terms/mukhyaprana.md) · c
 _Notes: Verses cited here checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions; the raw_etexts copy is incomplete in 2.4 and 3.1._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

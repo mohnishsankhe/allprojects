@@ -20,6 +20,6 @@ _Notes: Title and date recalled, not checked (low)._
 ---
 **Verification checks**
 
-- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Keshav_Kashmiri, https://archive.org/details/tattva-prakasika-kesava-kasmiri — Least-sure item: Keśava Kāśmīrī (Nimbārka school) wrote the Tattvaprakāśikā on the Gītā; sources place him in the 16th c. (within the entry's range). A printed edition is scanned on archive.org.
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Keshav_Kashmiri, https://archive.org/details/tattva-prakasika-kesava-kasmiri — Least-sure item: Keśava Kāśmīrī (Nimbārka school) wrote the Tattvaprakāśikā on the Gītā; sources place him in the 16th c. (within the entry's range). A printed edition is scanned on archive.org.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

@@ -10,4 +10,4 @@
 The fourth of Lakulīśa's four disciples (Liṅga P. 1.24.131; Jain lists 'Kauruṣa').
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 16:38 IST._

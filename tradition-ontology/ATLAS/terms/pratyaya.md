@@ -8,10 +8,13 @@
 
 ## Definitions by tradition
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): A cognition or presented content of the mind (1.10, 3.2, 3.19, 4.27); also 'cause' in upāya-/bhava-pratyaya (1.19–20).
+- [Sarvāstivāda](../lineages/sarvastivada.md): Condition; four kinds: causal, immediately preceding, object and dominant conditions.
 
 ## Forms in other languages
+- Pali: paccaya  — exact
+- Chinese: yuan 緣 — exact
 
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._

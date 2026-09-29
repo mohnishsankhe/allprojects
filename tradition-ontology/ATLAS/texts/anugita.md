@@ -86,6 +86,6 @@ concepts: [The inverted aśvattha tree of saṃsāra](../concepts/asvattha-tree.
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_14.json (BORI Critical Edition text) 14.16.1 Janamejaya's question; 14.16.11; 14.50 last verse; 14.51.1 Kṛṣṇa leaves (Dāruka), catalog:eBharati:anugItA — Section located at CE 14.16-50 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+- 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_14.json (BORI Critical Edition text) 14.16.1 Janamejaya's question; 14.16.11; 14.50 last verse; 14.51.1 Kṛṣṇa leaves (Dāruka), catalog:eBharati:anugItA — Section located at CE 14.16-50 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

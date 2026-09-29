@@ -17,4 +17,4 @@
 **Related:** [mokṣadvārapāla](moksa-dvarapala.md)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

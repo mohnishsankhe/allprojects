@@ -11,6 +11,8 @@
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): Limiting adjunct: something that makes a thing appear with characteristics not its own without changing it (the red flower near the crystal; the pot delimiting space; body and mind for the self).
 - [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md): The Advaita notion that the soul is Brahman limited by adjuncts, refuted in the Upādhikhaṇḍana: ignorance cannot belong to the all-knower, and adjuncts cannot account for it.
 - [Bhedābheda Vedānta (Bhāskara's school and the early difference-and-non-difference Vedāntins)](../lineages/bhedabheda.md): A limiting adjunct — body, senses, intellect — that really delimits Brahman as the individual soul; real, not imagined, and removed only at liberation after death.
+- [Cārvāka / Lokāyata](../lineages/carvaka.md): (As reported) A hidden extra condition that can never be ruled out, so no concomitance is certain.
+- [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): The acquisitions (aggregates, sensual objects, defilements) on which suffering depends (Ud 3.10); their relinquishing is nibbāna.
 
 ## Forms in other languages
 
@@ -20,4 +22,4 @@
 _Notes: Advaita also uses upādhi but holds the adjuncts to be products of avidyā (not ultimately real); Bhāskara insists they are real — same word, different status._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U16-bhedabheda, skeleton:U33-sramana, skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

@@ -1,6 +1,6 @@
 # Vidyāraṇya
 
-`tch:vidyaranya` · `skeleton` · confidence high
+`tch:vidyaranya` · `sourced` · confidence high
 
 **Alternate names:** Mādhava (tradition), Mādhavācārya
 **Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Vivaraṇa school (Vivaraṇa-prasthāna)](../lineages/vivarana.md), [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md), [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md), [Jyotiṣa (the science of the lights)](../lineages/jyotisa.md), [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md)
@@ -25,4 +25,8 @@ Pontiff of Śṛṅgeri (d. 1386), author of the Pañcadaśī, the Jīvanmuktivi
 _Notes: Identity with the minister Mādhava is the tradition's; scholars debate it._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U12-mimamsa, skeleton:U32-jyotisa, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Vidyaranya, https://en.wikipedia.org/wiki/S%C4%81ya%E1%B9%87a — Low-confidence entry confirmed. Tradition identifies Mādhava (the author of the Parāśaramādhavīya and Kāla-mādhavīya, elder brother of Sāyaṇa) with Vidyāraṇya; some scholars contest this (Wikipedia). The entry states it as debated.
+
+_Contributed by: skeleton:U13-advaita, skeleton:U12-mimamsa, skeleton:U32-jyotisa, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

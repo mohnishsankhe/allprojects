@@ -12,4 +12,4 @@ A fixed seat, loss of bowl, hoarding, gathering disciples for gain, sleep and id
   - [Sannyāsa Upaniṣad](../texts/sannyasa-upanisad.md) — ref: 2.79-85; rests_on: ["tea:sannyasa-upanisad:2.79-85"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

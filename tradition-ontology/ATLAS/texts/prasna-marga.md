@@ -22,7 +22,7 @@ The first chapter sets out who may be an astrologer and how he should live: lear
 
 _level: conventional · standpoint: ethical-social · path: knowledge, ritual · stage: all · types: world-fate, teacher-transmission, ethics_
 
-concepts: `cpt:daivajna-qualifications`
+concepts: [The astrologer's qualifications and conduct](../concepts/daivajna-qualifications.md)
 
 ### 15 <a id="tea-prasna-marga-15"></a>
 `skeleton` · confidence low
@@ -31,8 +31,8 @@ Afflictions found through the query are traced to curses and displeasure — of 
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: world-fate, karma-liberation, practice_
 
-practices: `prc:astamangala-prasna`, `prc:sarpa-dosa-parihara` · obstacles: `obs:purvajanma-sapa`, `obs:sarpa-dosa`
+practices: [The Kerala eight-auspicious-objects query (aṣṭamaṅgala-praśna)](../practices/astamangala-prasna.md), [Remedies for the serpents' displeasure](../practices/sarpa-dosa-parihara.md) · obstacles: [Curses from a former birth](../obstacles/purvajanma-sapa.md), [Affliction from the serpents (sarpa-doṣa)](../obstacles/sarpa-dosa.md)
 
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

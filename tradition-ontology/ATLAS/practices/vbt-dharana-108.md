@@ -15,4 +15,4 @@ For the unchanging self, where is knowledge, where is action? External things de
 _Notes: Verses 134 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

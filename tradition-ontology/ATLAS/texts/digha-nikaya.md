@@ -14,6 +14,7 @@
 The 'long discourses': 34 suttas, including the Brahmajāla (62 views), Sāmaññaphala (the fruits of the contemplative life and the gradual training), Mahānidāna (dependent origination), Mahāparinibbāna (the last days), Mahāsatipaṭṭhāna, Aggañña (origins of society and caste) and Siṅgāla (lay ethics).
 **Editions / translations:** 
   - kind: original; name: Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka edition, based on the Sixth Council text), as published by SuttaCentral in bilara-data (root/pli/ms); local copy in sources_raw/bilara-data; licence: CC0 / public domain as published by SuttaCentral; url: https://suttacentral.net/dn
+**Commentaries on this text:** [Sumaṅgalavilāsinī](sumangalavilasini.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

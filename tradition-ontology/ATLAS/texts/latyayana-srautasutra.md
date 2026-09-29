@@ -1,6 +1,6 @@
 # Lāṭyāyana Śrautasūtra
 
-`src:latyayana-srautasutra` · `skeleton` · confidence moderate
+`src:latyayana-srautasutra` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,4 +13,8 @@
 The Śrauta manual of the Kauthuma Sāmaveda singers (udgātṛ).
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:DCS:Lāṭyāyanaśrautasūtra, catalog:eBharati:shrautasUtram (lATyAyana, agnisvAmI), https://en.wikipedia.org/wiki/%C5%9Arauta — Extant (DCS; eBhāratī with Agnisvāmin's commentary); the Kauthuma Sāmaveda Śrautasūtra.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

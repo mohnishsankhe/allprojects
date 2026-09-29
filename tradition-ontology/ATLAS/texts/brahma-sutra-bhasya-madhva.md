@@ -93,7 +93,7 @@ Brahman is that from which come the creation, maintenance, dissolution, control,
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [aṣṭa-kartṛtva](../terms/asta-kartrtva.md), [brahman](../terms/brahman.md), [Hari](../terms/hari.md) · concepts: [God's eightfold agency (aṣṭa-kartṛtva)](../concepts/asta-kartrtva.md) · disputes: `dsp:isvara`, `dsp:causation`
+terms: [aṣṭa-kartṛtva](../terms/asta-kartrtva.md), [brahman](../terms/brahman.md), [Hari](../terms/hari.md) · concepts: [God's eightfold agency (aṣṭa-kartṛtva)](../concepts/asta-kartrtva.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), `dsp:causation`
 
 ### 3.1.8 <a id="tea-brahma-sutra-bhasya-madhva-3-1-8"></a>
 `skeleton` · confidence high
@@ -153,4 +153,4 @@ terms: [sālokya](../terms/salokya.md), [sārūpya](../terms/sarupya.md), [sām�
 _Notes: Opening verse and 1.1.1–1.1.2, 3.1.8, 4.2.16–17, 4.3.10–15, 4.4.19 checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

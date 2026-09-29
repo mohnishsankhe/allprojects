@@ -14,4 +14,4 @@
 A Prakīrṇaka of confession, renunciation and reflection for the end of life (restricted theme: summary only).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

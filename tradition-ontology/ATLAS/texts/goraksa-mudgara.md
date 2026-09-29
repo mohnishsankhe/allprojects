@@ -15,4 +15,4 @@ An ornate poem ascribed to Gorakṣa, of which the first chapter ('destruction o
   - kind: original; name: Muktabodha e-text M00289 (first pariccheda only)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

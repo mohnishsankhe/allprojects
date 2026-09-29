@@ -55,6 +55,6 @@ _Notes: Scholarly consensus (Hacker, Mayeda, Ingalls) accepts the BSBh, the prin
 ---
 **Verification checks**
 
-- 2026-09-28 catalog+websearch: confirmed — catalog:eBharati:bhagavadgItAbhAShyam_prathamo_bhAgaH, https://link.springer.com/article/10.1007/s11407-025-09405-9 — Works and characterization confirmed; the two minor commentaries are traditionally credited to him and their authorship is disputed.
+- 2026-09-29 catalog+websearch: confirmed — catalog:eBharati:bhagavadgItAbhAShyam_prathamo_bhAgaH, https://link.springer.com/article/10.1007/s11407-025-09405-9 — Works and characterization confirmed; the two minor commentaries are traditionally credited to him and their authorship is disputed.
 
-_Contributed by: skeleton:U13-advaita, skeleton:U05-gita-epic, skeleton:U23-sakta-srividya, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U10-yoga, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U05-gita-epic, skeleton:U23-sakta-srividya, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U10-yoga, skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

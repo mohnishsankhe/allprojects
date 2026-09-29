@@ -113,7 +113,7 @@ These same six auxiliaries of the Veda are also the six limbs of the Kula; there
 
 _level: conventional · standpoint: polemical · path: ritual · stage: all · types: dispute, teacher-transmission_
 
-disputes: `dsp:status-of-veda`, [Is Kaula practice — the Kula worship with the five tattvas, the circle and the cremation ground — a legitimate path to liberation, or a departure from dharma?](../debates/legitimacy-of-kaula-practice.md)
+disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md), [Is Kaula practice — the Kula worship with the five tattvas, the circle and the cremation ground — a legitimate path to liberation, or a departure from dharma?](../debates/legitimacy-of-kaula-practice.md)
 
 ### 2.109 <a id="tea-kularnava-tantra-2-109"></a>
 `skeleton` · confidence moderate
@@ -451,4 +451,4 @@ terms: [kula](../terms/kula.md), [akula](../terms/akula.md), [kaulika](../terms/
 
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._

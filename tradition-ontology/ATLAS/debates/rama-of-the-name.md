@@ -28,4 +28,4 @@ Rām is formless and unborn; the Rām of the name is not the son of Daśaratha w
 _Notes: A regional instance of the fixed dispute dsp:saguna-nirguna (U50)._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. Angered that Cuntarar made the Lord his me
 **Realization — the tradition's account:** Angered that Cuntarar made the Lord his messenger to Paravai, he was struck by colic that only Cuntarar could cure; rather than be cured by him he tore out his own bowels; Cuntarar, arriving, was about to die with him, when Śiva revived Kalikkāmar and the two became friends.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

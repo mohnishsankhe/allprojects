@@ -1,6 +1,6 @@
 # Dharmasindhu of Kāśīnātha Upādhyāya
 
-`src:dharmasindhu` · `skeleton` · confidence moderate
+`src:dharmasindhu` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -14,4 +14,8 @@ A late comprehensive manual of the times and rules of rites, vows, sacraments, �
 _Notes: Local copy: ebhAratI dharmasUtrANi/dharmasindhuH.md. Author entered only in attribution text._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+text-locate+websearch: confirmed — catalog:eBharati:dharmasindhuH (kAshInAthopAdhyAyaH), https://www.goodreads.com/book/show/4992026-the-dharmasindhu — Extant (Nirṇayasāgara 1888 edition held locally). The author, Kāśīnātha Upādhyāya of Paṇḍharpur, is named in the edition's upoddhāta. The text itself reckons ayanāṃśa for 'idānīm' Śālivāhana-śaka 1712 (= 1790 CE), which supports the entry's c. 1790.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

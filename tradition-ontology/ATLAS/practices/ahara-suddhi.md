@@ -12,4 +12,4 @@ When food (what is taken in) is pure, the mind is pure; when the mind is pure, m
   - [Chāndogya Upaniṣad](../texts/chandogya-upanisad.md) — ref: 7.26.2; rests_on: ["tea:chandogya-upanisad:7.26.1-2"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

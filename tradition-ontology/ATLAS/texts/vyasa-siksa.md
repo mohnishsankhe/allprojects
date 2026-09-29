@@ -1,6 +1,6 @@
 # Vyāsa Śikṣā
 
-`src:vyasa-siksa` · `skeleton` · confidence low
+`src:vyasa-siksa` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 A phonetic manual of the Taittirīya Black Yajurveda, closely related to the Taittirīya Prātiśākhya.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:raw_etexts:vyasa_shiksha — Extant locally among the Taittirīya (Black Yajurveda) Śikṣās, as the entry says.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

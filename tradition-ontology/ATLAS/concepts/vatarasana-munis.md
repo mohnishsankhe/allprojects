@@ -1,6 +1,6 @@
 # The wind-girdled seers (vātaraśana ṛṣayaḥ)
 
-`cpt:vatarasana-munis` · `skeleton` · confidence moderate
+`cpt:vatarasana-munis` · `sourced` · confidence moderate
 
 **Category:** teacher-transmission
 
@@ -14,4 +14,8 @@
 _Notes: Related to the long-haired sage of RV 10.136 (U01)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — TA 2.7.1 has 'vātaraśanā ha vā ṛṣayaḥ śramaṇā ūrdhvamanthino babhūvuḥ'. Rests on teaching checks confirmed in this sweep: tea:taittiriya-aranyaka:2.7.1.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

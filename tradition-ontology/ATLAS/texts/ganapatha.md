@@ -1,6 +1,6 @@
 # Gaṇapāṭha
 
-`src:ganapatha` · `skeleton` · confidence moderate
+`src:ganapatha` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 The lists of words (gaṇa) referred to in the Aṣṭādhyāyī by their first member ('sarva and the rest' and so on).
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/ganapatha — Confirmed: the lists of nominal stems to which Aṣṭādhyāyī rules refer by their first member.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

@@ -1,6 +1,6 @@
 # The four orders of life in sequence (Manu)
 
-`pth:four-asramas` · `skeleton` · confidence high
+`pth:four-asramas` · `sourced` · confidence high
 
 **Lineage:** [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md)
 **Sources:** 
@@ -18,4 +18,8 @@
 Bands are interpretation-layer claims (logged). Other texts allow the orders as options or recognize only the householder (dsp:asrama-vikalpa-samuccaya-badha).
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering) — The stages and refs were found. Upanayana: MDh 2.36 and 2.169–171. Studentship: MDh 2.88–249, ending 'evaṃ carati yo vipro brahmacaryam aviplutaḥ'. Householder: MDh 3.68–78. Forest life: MDh 6.1–2 ('gṛhasthas tu yathā paśyed valīpalitam ātmanaḥ … tadāraṇyaṃ samāśrayet'). Renunciation: MDh 6.33–85, from 'caturtham āyuṣo bhāgaṃ tyaktvā saṅgān parivrajet' to 'paraṃ brahmādhigacchati'. Abiding in Brahman: MDh 6.74 ('samyagdarśanasampannaḥ karmabhir na nibadhyate') and 6.81 ('sarvadvandvavinirmukto brahmaṇy evāvatiṣṭhate'). The sequence at MDh 6.87–90 was also found. The bands are interpretation-layer claims and were not checked.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

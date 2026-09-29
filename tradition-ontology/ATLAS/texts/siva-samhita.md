@@ -499,4 +499,4 @@ concepts: [Who may practise haṭha (adhikāra)](../concepts/eligibility-for-hat
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._

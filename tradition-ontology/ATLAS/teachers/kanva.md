@@ -17,4 +17,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_1.json (Anukramaṇī seer/deity/metre headers) — Headers: 'kaṇvo ghauraḥ' for 1.36–43 (1.43 to Rudra with jalāṣabheṣaja); Kāṇva family in book 8 (e.g. 8.1, 8.13, 8.48, 8.58 by Kāṇvas).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._

@@ -14,4 +14,4 @@
 Leading Bhāṭṭa author: the Śāstradīpikā (independent commentary on the Mīmāṃsā Sūtra), Nyāyaratnākara (on the Ślokavārttika), Nyāyaratnamālā and Tantraratna. He defined a means of knowledge as a cognition apprehending what was not apprehended, free from defects of cause and from contradicting cognition, and held release to be the end of the threefold bond, without bliss.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

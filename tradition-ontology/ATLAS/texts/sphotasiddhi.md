@@ -25,10 +25,10 @@ Maṇḍana argues that the letters cannot convey meaning, neither singly (for t
 
 _level: conventional · standpoint: polemical · path: knowledge, sound · stage: all · types: sound-language, dispute_
 
-terms: [sphoṭa](../terms/sphota.md), [varṇa](../terms/varna.md) · concepts: [Sphoṭa (the unitary meaning-bearer)](../concepts/sphota.md) · teachers: [Maṇḍana Miśra](../teachers/mandana-misra.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
+terms: [sphoṭa](../terms/sphota.md), [varṇa](../terms/varna.md) · concepts: [The sphoṭa (the meaning-bearing word)](../concepts/sphota.md) · teachers: [Maṇḍana Miśra](../teachers/mandana-misra.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
 
 
 _Notes: Kārikā count to verify._
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

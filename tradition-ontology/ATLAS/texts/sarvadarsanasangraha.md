@@ -6,7 +6,7 @@
 **Original title:** सर्वदर्शनसंग्रह
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md), [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](../lineages/rasa-sastra.md), [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md), [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md), [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](../lineages/rasa-sastra.md), [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md), [Cārvāka / Lokāyata](../lineages/carvaka.md), [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
 **Genre:** doxography
 **Location in parent:** ch. 6: Nakulīśa-pāśupata-darśana
 **Authors:** 
@@ -20,7 +20,92 @@ Its sixth chapter presents the Pāśupata system in its own terms: the five cate
 **Editions / translations:** 
   - kind: original; name: ch. 6 reprinted as appendix II to Dalal, GOS 15 (1920); Muktabodha M00508; licence: Muktabodha terms of use
 
-## Teachings (15: skeleton 15)
+## Teachings (24: skeleton 24)
+
+### 1 <a id="tea-sarvadarsanasangraha-1"></a>
+`skeleton` · confidence moderate
+
+Most people follow the teaching 'while life lasts let one live happily; none escapes death; once the body is burnt to ashes, how can it return?'; the doctrine is well named Lokāyata ('the world-extended'), taught by Bṛhaspati and spread by Cārvāka, crest-jewel of the nāstikas.
+
+_level: unmarked · standpoint: ethical-social · path: general · stage: unmarked · types: ethics, teacher-transmission_
+
+terms: [lokāyata](../terms/lokayata.md), [cārvāka](../terms/carvaka-name.md), [nāstika](../terms/nastika.md) · concepts: [Pleasure as the aim of life](../concepts/carvaka-hedonism.md) · teachers: [Bṛhaspati](../teachers/brhaspati.md), [Cārvāka (the eponymous teacher)](../teachers/carvaka.md)
+
+### 1/2 <a id="tea-sarvadarsanasangraha-1-2"></a>
+`skeleton` · confidence moderate
+
+The four elements are the principles; when they are transformed into a body, consciousness is produced as intoxicating power arises from kiṇva and other ingredients, and it perishes with them — the text cites 'arising from these elements it perishes after them; there is no consciousness after death' (BĀU 2.4.12). The self is the body qualified by consciousness, as shown by 'I am fat', 'I am thin', 'I am dark'; 'my body' is a figure of speech, like 'the head of Rāhu'.
+
+_level: unmarked · standpoint: analytic · path: general · stage: unmarked · types: consciousness-mind, body-layers, dispute_
+
+terms: [bhūta-caitanya](../terms/bhuta-caitanya.md), [madaśakti](../terms/madasakti.md), [dehātma-vāda](../terms/dehatmavada.md) · concepts: [Consciousness from the elements (bhūta-caitanya)](../concepts/bhuta-caitanya.md), [The simile of intoxicating power](../concepts/madasakti-simile.md), [The body as the self (dehātmavāda)](../concepts/dehatmavada.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md)
+
+### 1/3 <a id="tea-sarvadarsanasangraha-1-3"></a>
+`skeleton` · confidence moderate
+
+Pleasure is the aim of life; if it is objected that pleasure is mixed with pain, the answer is that one takes the fish with its scales and bones, and the rice with its husk: 'who, seeking his good, would throw away rice rich in fine white grains because it is covered with husk?' — one does not stop sowing rice because there are deer, nor stop cooking because there are beggars.
+
+_level: unmarked · standpoint: ethical-social · path: general · stage: unmarked · types: ethics_
+
+terms: [kāma (as the sole puruṣārtha)](../terms/kama-purusartha.md) · concepts: [Pleasure as the aim of life](../concepts/carvaka-hedonism.md)
+
+### 1/4 <a id="tea-sarvadarsanasangraha-1-4"></a>
+`skeleton` · confidence moderate
+
+Heaven is only the pleasure that comes from embracing women and the like; hell is the pain that comes from thorns and the like; the supreme lord is the king known to the world; liberation is the destruction of the body.
+
+_level: unmarked · standpoint: ethical-social · path: general · stage: unmarked · types: karma-liberation, world-fate, ethics_
+
+terms: [maraṇam evāpavargaḥ](../terms/maranam-apavarga.md) · concepts: [Heaven, hell, lord and release in this world](../concepts/carvaka-heaven-hell-liberation.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+
+### 1/5 <a id="tea-sarvadarsanasangraha-1-5"></a>
+`skeleton` · confidence moderate
+
+The agnihotra and the rest are only a means of livelihood; the Veda is tainted by falsehood, self-contradiction and repetition, and those who claim its authority refute one another, the followers of the works-section rejecting the knowledge-section and the reverse.
+
+_level: unmarked · standpoint: polemical · path: general · stage: unmarked · types: dispute, sound-language_
+
+terms: [nāstika](../terms/nastika.md) · concepts: [The critique of sacrifice and funeral offerings](../concepts/critique-of-sacrifice.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+
+### 1/6 <a id="tea-sarvadarsanasangraha-1-6"></a>
+`skeleton` · confidence moderate
+
+Perception is the only means of knowledge. Inference cannot be valid, because the invariable concomitance (vyāpti) on which it rests cannot be known: not by perception, which cannot reach all past and future instances, nor by inference, which would regress, nor by testimony or comparison; nor can one be sure that no adventitious condition (upādhi) is present. Success after an inference is accidental, like the success of gems, spells and drugs.
+
+_level: unmarked · standpoint: analytic · path: general · stage: unmarked · types: dispute_
+
+terms: [pratyakṣa (eka-pramāṇa)](../terms/pratyaksa-carvaka.md), [anumāna](../terms/anumana.md), [vyāpti](../terms/vyapti.md), [upādhi](../terms/upadhi.md) · concepts: [Perception the only means of knowledge](../concepts/pratyaksa-only.md), [The critique of inference](../concepts/critique-of-inference.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
+
+### 1/7 <a id="tea-sarvadarsanasangraha-1-7"></a>
+`skeleton` · confidence moderate
+
+There is no unseen cause (adṛṣṭa): the variety of the world arises from own-nature (svabhāva) — 'fire is hot, water cold, the wind cool to the touch: by whom was this variety made? so it is fixed by their own nature'.
+
+_level: unmarked · standpoint: causal · path: general · stage: unmarked · types: world-fate, karma-liberation_
+
+terms: [svabhāva](../terms/svabhava.md), [adṛṣṭa](../terms/adrsta.md) · concepts: [Own-nature as cause (svabhāvavāda)](../concepts/svabhavavada.md) · disputes: [Do good and bad deeds bear fruit (kiriyavāda) or not (akiriyavāda)?](../debates/is-there-fruit-of-action.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+
+### 1/8 <a id="tea-sarvadarsanasangraha-1-8"></a>
+`skeleton` · confidence moderate
+
+Verses ascribed to Bṛhaspati: there is no heaven, no liberation, no self in another world, and the rites of the classes and stages bear no fruit; the agnihotra, the three Vedas, the triple staff and smearing with ashes are a livelihood for those lacking intelligence and manliness; if a beast slain in the jyotiṣṭoma goes to heaven, why does the sacrificer not slay his own father? If the śrāddha satisfies the dead, then oil poured on an extinguished lamp would make its flame grow, and travellers need take no provisions; if offerings here satisfy those in heaven, why not feed those on the roof from below?
+
+> agnihotraṃ trayo vedās tridaṇḍaṃ bhasmaguṇṭhanam / buddhipauruṣahīnānāṃ jīviketi bṛhaspatiḥ // paśuś cen nihataḥ svargaṃ jyotiṣṭome gamiṣyati / svapitā yajamānena tatra kasmān na hanyate
+
+_level: unmarked · standpoint: polemical · path: general · stage: unmarked · types: dispute, death-dying, ethics_
+
+terms: [śrāddha (Lokāyata critique)](../terms/sraddha-critique.md) · concepts: [The critique of sacrifice and funeral offerings](../concepts/critique-of-sacrifice.md) · teachers: [Bṛhaspati](../teachers/brhaspati.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+
+### 1/9 <a id="tea-sarvadarsanasangraha-1-9"></a>
+`skeleton` · confidence moderate
+
+More verses: 'while life lasts let one live happily; let him drink ghee even on debt; once the body is burnt to ashes, how can it return?'; if the one who leaves the body went to another world, why does he not come back, drawn by love of his kin? The rites for the dead were devised by brāhmaṇas as a livelihood; the three makers of the Veda were buffoons, knaves and night-prowlers, and 'jarpharī turpharī' is the pandits' talk; the obscene rite of the aśvamedha and the eating of flesh were likewise laid down by them.
+
+> yāvaj jīvet sukhaṃ jīved ṛṇaṃ kṛtvā ghṛtaṃ pibet / bhasmībhūtasya dehasya punarāgamanaṃ kutaḥ
+
+_level: unmarked · standpoint: polemical · path: general · stage: unmarked · types: dispute, death-dying, ethics_
+
+terms: [kāma (as the sole puruṣārtha)](../terms/kama-purusartha.md) · concepts: [Pleasure as the aim of life](../concepts/carvaka-hedonism.md), [The critique of sacrifice and funeral offerings](../concepts/critique-of-sacrifice.md), [No other world (paraloka-abhāva)](../concepts/paraloka-denial.md) · teachers: [Bṛhaspati](../teachers/brhaspati.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md), [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md)
 
 ### 6 <a id="tea-sarvadarsanasangraha-6"></a>
 `skeleton` · confidence high
@@ -78,7 +163,7 @@ Other Māheśvaras, though holding identity with the Supreme Lord, maintain that
 
 _level: conventional · standpoint: analytic · path: body-breath, knowledge · stage: advanced · types: karma-liberation, dispute_
 
-terms: [pārada](../terms/parada.md) · concepts: [The Raseśvara-darśana](../concepts/rasesvara-darsana.md), [Liberation in life in a stable body (Rasa)](../concepts/jivanmukti-rasa.md), [Stability of the body (piṇḍa-sthairya)](../concepts/pinda-sthairya.md) · disputes: `dsp:is-bodily-immortality-required-for-liberation`
+terms: [pārada](../terms/parada.md) · concepts: [The Raseśvara-darśana](../concepts/rasesvara-darsana.md), [Liberation in life in a stable body (Rasa)](../concepts/jivanmukti-rasa.md), [Stability of the body (piṇḍa-sthairya)](../concepts/pinda-sthairya.md) · disputes: [Is a stable, undecaying body required for liberation in life?](../debates/is-bodily-immortality-required-for-liberation.md)
 
 ### rasesvara.6-10 <a id="tea-sarvadarsanasangraha-rasesvara-6-10"></a>
 `skeleton` · confidence high · _restricted: summary only_
@@ -123,7 +208,7 @@ Objection: liberation is accomplished by the manifestation of the supreme realit
 
 _level: bridging · standpoint: polemical · path: knowledge, body-breath · stage: advanced · types: dispute, karma-liberation_
 
-disputes: `dsp:is-bodily-immortality-required-for-liberation`
+disputes: [Is a stable, undecaying body required for liberation in life?](../debates/is-bodily-immortality-required-for-liberation.md)
 
 ### rasesvara.30-37 <a id="tea-sarvadarsanasangraha-rasesvara-30-37"></a>
 `skeleton` · confidence high · _restricted: summary only_
@@ -132,7 +217,7 @@ Objection: living (jīvatva) means being in saṃsāra and liberation its opposi
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate_
 
-concepts: [Liberation in life in a stable body (Rasa)](../concepts/jivanmukti-rasa.md) · disputes: `dsp:is-bodily-immortality-required-for-liberation`
+concepts: [Liberation in life in a stable body (Rasa)](../concepts/jivanmukti-rasa.md) · disputes: [Is a stable, undecaying body required for liberation in life?](../debates/is-bodily-immortality-required-for-liberation.md)
 
 ### rasesvara.38-44 <a id="tea-sarvadarsanasangraha-rasesvara-38-44"></a>
 `skeleton` · confidence high · _restricted: summary only_
@@ -165,4 +250,4 @@ concepts: [The Raseśvara-darśana](../concepts/rasesvara-darsana.md)
 _Notes: U30 contribution only: the Raseśvara chapter (ch. 9). Authorship and dating as given by the owning units._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U30-ayurveda-rasa, skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U30-ayurveda-rasa, skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U33-sramana, skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

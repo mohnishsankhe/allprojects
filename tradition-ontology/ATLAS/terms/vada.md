@@ -19,4 +19,4 @@
 _Notes: Homonym in Rasa Śāstra: 'vāda' = alchemy (dhātuvāda)._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U11-nyaya-vaisesika, skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U11-nyaya-vaisesika, skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

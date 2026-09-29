@@ -17,4 +17,4 @@
 _Notes: Ref correction: AU 3.1.3 is also cited as AU 3.3 (two-level numbering); both refer to the same passage._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

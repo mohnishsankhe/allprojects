@@ -29,4 +29,4 @@
 **Related:** [gurutattva](guru-tattva.md), [śiṣya](sisya.md), [dīkṣā](diksa.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U10-yoga, skeleton:U20-virasaiva, extraction:bhagavad-gita/ch01-03, skeleton:U19-kashmir-saivism, skeleton:U13-advaita, skeleton:U17-pasupata-kapalika, skeleton:U24-kali-kaula, skeleton:U03-principal-upanisads, skeleton:U15-dvaita, skeleton:U22-tamil-siddha, skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U10-yoga, skeleton:U20-virasaiva, extraction:bhagavad-gita/ch01-03, skeleton:U19-kashmir-saivism, skeleton:U13-advaita, skeleton:U17-pasupata-kapalika, skeleton:U24-kali-kaula, skeleton:U03-principal-upanisads, skeleton:U15-dvaita, skeleton:U22-tamil-siddha, skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

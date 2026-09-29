@@ -1,6 +1,6 @@
 # Bālakrīḍā of Viśvarūpa
 
-`src:balakrida` · `skeleton` · confidence moderate
+`src:balakrida` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -15,4 +15,8 @@
 The oldest surviving commentary on the Yājñavalkyasmṛti.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.hindupedia.com/en/Vi%C5%9Bvarupa, https://www.wisdomlib.org/hinduism/essay/yajnavalkya-smriti-vyavaharadhyaya-study/d/doc628169.html — Confirmed as the oldest surviving commentary on the Yājñavalkyasmṛti (Bālakrīḍā, published; Olivelle's Vacanamālā sub-commentary). Viśvarūpa is identified by some with Sureśvara (fl. 788–820), which fits c. 9th c.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

@@ -11,4 +11,4 @@
 Anquetil-Duperron's Latin rendering (1801–1802) of the Persian Sirr-i Akbar; the first Upaniṣad collection widely read in Europe.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

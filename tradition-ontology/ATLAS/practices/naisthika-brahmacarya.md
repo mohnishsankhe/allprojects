@@ -1,6 +1,6 @@
 # Vedic studentship (brahmacarya), temporary or lifelong
 
-`prc:naisthika-brahmacarya` · `skeleton` · confidence high
+`prc:naisthika-brahmacarya` · `sourced` · confidence high
 
 **Category:** ethics
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -13,4 +13,8 @@ Living in the teacher's house after initiation: begging, bringing fuel, tending 
   - [Manusmṛti (Mānava Dharmaśāstra)](../texts/manusmrti.md) — ref: 2.218; rests_on: ["tea:manusmrti:2.218"]
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering) — ŚB 11.3.3 (the student's duties and begging) and MDh 2.218 were found. This rests on confirmed teaching checks: tea:satapatha-brahmana:11.3.3.1-2, tea:manusmrti:2.218.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

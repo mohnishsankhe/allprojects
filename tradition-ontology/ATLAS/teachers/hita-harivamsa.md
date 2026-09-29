@@ -17,4 +17,4 @@ Founder of the Rādhāvallabha sampradāya (tradition 1502–1552), born at Bād
 **Realization — the tradition's account:** Rādhā gave him the mantra in a dream (or vision); he is Kṛṣṇa's flute (vaṃśī) incarnate.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

@@ -17,4 +17,4 @@ The mouth is shaped like a crow's beak and air is drunk in slowly (GS 3.86-87). 
 - Kākī is secret in all the tantras. — [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) 3.87
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._

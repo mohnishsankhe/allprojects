@@ -11,4 +11,4 @@
 Orissan poet-theorist, author of the Sāhityadarpaṇa, who defined poetry as a sentence whose soul is rasa and called rasa the twin of tasting Brahman.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

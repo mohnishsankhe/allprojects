@@ -18,4 +18,4 @@ Reasoned reflection on what has been heard, removing doubts and contrary views â
 **Sequences:** [The Dvaita sequence of means (sÄdhana-krama)](../paths/dvaita-sadhana-krama.md), `pth:advaita-sadhana`
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

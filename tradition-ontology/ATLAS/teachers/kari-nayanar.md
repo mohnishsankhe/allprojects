@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A poet who used the rewards for his verses
 **Realization — the tradition's account:** A poet who used the rewards for his verses to build and serve temples.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

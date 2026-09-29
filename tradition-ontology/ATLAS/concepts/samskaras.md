@@ -1,6 +1,6 @@
 # The sacraments (saṃskāra)
 
-`cpt:samskaras` · `skeleton` · confidence high
+`cpt:samskaras` · `sourced` · confidence high
 
 **Category:** stages-maps
 **Members:** garbhādhāna, puṃsavana, sīmantonnayana, jātakarma, nāmakaraṇa, niṣkramaṇa, annaprāśana, cūḍākaraṇa, karṇavedha, vidyārambha, upanayana, vedārambha, keśānta (godāna), samāvartana, vivāha, antyeṣṭi
@@ -15,4 +15,8 @@
 _Notes: The sixteen-fold list is the common later one (it varies between texts); Gautama's forty are given in cpt:forty-samskaras-eight-virtues._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/gautama-dharmasutra.md (GRETIL, Stenzler n — MDh 2.26–28 and GDh 8.14–25 were text-located. The sixteen members are exactly the common later list in Wikipedia's Saṃskāra article (garbhādhāna … vidyārambha … antyeṣṭi). The entry's note that the list varies is borne out: Vyāsa's sixteen, quoted in the Nirṇayasindhu, run 'garbhādhānaṃ puṃsavanaṃ sīmanto jātakarma ca | nāmakriyā niṣkramo 'nnaprāśanaṃ vapanakriyā || karṇavedho vratādeśo vedārambhakriyāvidhiḥ | keśāntaḥ snānam udvāho vivāhāgniparigrahaḥ || tretāgnisaṅgrahaś caiva'. That list has no vidyārambha or antyeṣṭi, and adds the taking of the domestic and the three śrauta fires.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

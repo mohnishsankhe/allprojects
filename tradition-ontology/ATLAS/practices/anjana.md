@@ -12,4 +12,4 @@ Daily application of collyrium to the eyes, which are of the nature of fire and 
   - [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) — ref: Sū 2.5-6
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

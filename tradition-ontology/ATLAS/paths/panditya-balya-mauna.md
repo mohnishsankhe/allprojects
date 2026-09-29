@@ -17,4 +17,4 @@
 The meaning of bālya (childlike state; Śaṅkara relates it to the strength of knowledge) is not settled; no band.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

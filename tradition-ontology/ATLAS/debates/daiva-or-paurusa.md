@@ -13,7 +13,7 @@ Effort is everything; fate is nothing but one's own former effort and is overcom
 **Texts:** 
   - [Mokṣopāya](../texts/moksopaya.md) — ref: 2.4-2.9
   - [Yoga Vāsiṣṭha](../texts/yoga-vasistha.md) — ref: 2.4-9
-### `lin:ajivika`
+### [Ājīvika](../lineages/ajivika.md)
 Everything is fixed by destiny (niyati); human effort has no power (as reported by Buddhist and Jain opponents).
 - beings are purified or defiled without cause or effort, ripened by destiny (reported)
 **Texts:** 
@@ -34,4 +34,4 @@ Under P2 (causal standpoint) the epic 'both' position and the Yoga Vāsiṣṭha
 _Notes: The epic side's reference is recalled with low confidence; the Ājīvika side is owned by U33._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

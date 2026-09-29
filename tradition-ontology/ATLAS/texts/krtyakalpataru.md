@@ -1,6 +1,6 @@
 # Kṛtyakalpataru
 
-`src:krtyakalpataru` · `skeleton` · confidence moderate
+`src:krtyakalpataru` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -15,4 +15,8 @@
 A digest of dharma in fourteen books, preserving Purāṇic teaching on vows, gifts, pilgrimage, śrāddha and liberation.
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:eBharati:kRtyakalpataru-gRhasthakANDam, catalog:eBharati:kRtyakalpataru-moxakANDam_chaturdasho_bhAgaH, https://en.wikipedia.org/wiki/Govindachandra_(Gahadavala_dynasty) — Extant; several kāṇḍas are held locally (gṛhastha, śuddhi, tīrtha, dāna, niyatakāla, rājadharma, mokṣa — the 14th). Composed by Lakṣmīdhara at the request of the Gāhaḍavāla Govindacandra (r. c. 1114–1155), matching the entry.
+
+_Contributed by: skeleton:U07-puranas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

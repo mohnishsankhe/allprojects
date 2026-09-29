@@ -25,4 +25,4 @@ Prajāpati's final teaching as received by Indra: the body is mortal, the base o
 **The traditions' own objections:** ChU 8.8.4 says those who hold this doctrine will perish; the P4 reading claims only that it is a provisional stage, never a valid final view.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

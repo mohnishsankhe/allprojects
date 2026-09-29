@@ -40,7 +40,7 @@ The panth founded by Dādū Dayāl (1544–1603) in Rajasthan, with its chief se
 [Bakhnā](../teachers/bakhna.md), [Buḍḍhan (Vṛddhānanda)](../teachers/buddhan.md), [Dādū Dayāl](../teachers/dadu.md), [Garībdās (son of Dādū)](../teachers/garibdas-dadupanthi.md), [Gopāldās (Dādūpanthī)](../teachers/gopaldas-dadupanthi.md), [Jangopāl](../teachers/jangopal.md), [Kabīr](../teachers/kabir.md), [Miskīndās](../teachers/miskindas.md), [Rajjab](../teachers/rajjab.md), [Ravidās (Raidās)](../teachers/ravidas.md), [Sundardās (the younger)](../teachers/sundardas.md)
 
 ## Practices
-[Ajapā-japa (the haṃsa / so'ham breath-mantra)](../practices/ajapa-japa.md), [Devotion to the teacher (guru-bhakti)](../practices/guru-bhakti.md), [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md), [Remembrance of the Name (nām-sumiran)](../practices/nam-simran.md), [The natural discipline (sahaj): every act as worship](../practices/sahaj-sadhana-sant.md), [Honest household livelihood](../practices/sant-householder-livelihood.md), [Holy company (satsaṅga)](../practices/satsanga.md), [Recitation and veneration of the Vāṇī](../practices/vani-path.md)
+[Ajapā-japa (the haṃsa / so'ham breath-mantra)](../practices/ajapa-japa.md), [Devotion to the teacher (guru-bhakti)](../practices/guru-bhakti.md), [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md), [Remembrance of the Name (nām-sumiran)](../practices/nam-simran.md), [The natural discipline (sahaj): every act as worship](../practices/sahaj-sadhana-sant.md), [Honest household livelihood](../practices/sant-householder-livelihood.md), [Holy company (satsaṅga)](../practices/satsanga.md), [Recitation and veneration of the Vāṇī](../practices/vani-path.md)
 
 ## Path maps
 _none recorded_
@@ -51,4 +51,4 @@ _none recorded_
 _Notes: Division names and the 'fifty-two disciples' are from the panth's tradition as commonly reported; moderate confidence._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

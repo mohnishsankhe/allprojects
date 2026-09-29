@@ -9,10 +9,15 @@
 ## Definitions by tradition
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The cosmic period at whose end beings enter the Lord's prakṛti and at whose beginning he sends them forth (BhG 9.7).
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): A day of Brahmā of a thousand cycles of four yugas with fourteen Manus; his night of equal length is the occasional dissolution; each kalpa bears a name (e.g. the present Śveta-Vārāha).
+- [Jyotiṣa (the science of the lights)](../lineages/jyotisa.md): In the siddhāntas, a day of Brahmā of 1,000 caturyugas with fourteen Manus and their junctions (SS 1.19–20); Āryabhaṭa counts 14 × 72 yugas (Āryabhaṭīya 1.5).
+- [Sarvāstivāda](../lineages/sarvastivada.md): Aeon: of destruction, formation, intermediate (from immeasurable lifespan to ten years and back), and great (eighty intermediate aeons).
 
 ## Forms in other languages
+- Pali: kappa  — exact
+- Chinese: jie 劫 — exact
 
 ## Equivalents (interpretation layer)
+- exact: [kappa](kappa.md) — Sanskrit and Pali forms of the same canonical term; school definitions differ (see the per-lineage definitions).
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U32-jyotisa, skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._

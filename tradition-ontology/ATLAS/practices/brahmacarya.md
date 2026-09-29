@@ -3,8 +3,8 @@
 `prc:brahmacarya` · `skeleton` · confidence high
 
 **Category:** ethics
-**Convergence:** 3 independent lineage(s): [Āyurveda](../lineages/ayurveda.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
-**Taught in:** [Āyurveda](../lineages/ayurveda.md), [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Śaunaka śākhā (Atharvaveda)](../lineages/sakha-saunaka.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Convergence:** 4 independent lineage(s): [Āyurveda](../lineages/ayurveda.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Taught in:** [Āyurveda](../lineages/ayurveda.md), [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Śaunaka śākhā (Atharvaveda)](../lineages/sakha-saunaka.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
 
 Living with the teacher after initiation, tending his fire with fuel, wearing the girdle and antelope skin, begging, studying the Veda, in chastity and toil (AVŚ 11.5).
 **Stage:** beginner
@@ -18,9 +18,14 @@ Living with the teacher after initiation, tending his fire with fuel, wearing th
   - [Caraka Saṃhitā](../texts/caraka-samhita.md) — ref: Sū 11.35; 30.15; Vi 8.13; Ci 1.4.30; rests_on: ["tea:caraka-samhita:su.11.35", "tea:caraka-samhita:su.30.15", "tea:caraka-samhita:vi.8.9-14", "tea:caraka-samhita:ci.1.4.30-35"]
   - [Chāndogya Upaniṣad](../texts/chandogya-upanisad.md) — ref: 8.4-8.5; 2.23.1; 8.15.1; rests_on: ["tea:chandogya-upanisad:8.4.1-3", "tea:chandogya-upanisad:8.5.1-4", "tea:chandogya-upanisad:2.23.1", "tea:chandogya-upanisad:8.15.1"]
   - [Praśna Upaniṣad](../texts/prasna-upanisad.md) — ref: 1.2; rests_on: ["tea:prasna-upanisad:1.1-2"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.14; rests_on: ["tea:bhagavad-gita:6.14"]
 **Sequences:** [The Vedic ritual career: from initiation to the soma rites and the world of the fathers](../paths/srauta-sequence.md), `pth:yoga-sutra-eight-limbs`
 
 _Notes: U01 contribution: the Atharvavedic studentship. Other units contribute brahmacarya as celibacy (yama)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: corrected — tea:bhagavad-gita:6.14 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
+
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._

@@ -25,8 +25,8 @@ Word and meaning together (sahitau) are poetry.
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: sound-language_
 
-concepts: `cpt:schools-of-poetics`
+concepts: [The schools of poetics: what is the 'soul' of poetry?](../concepts/schools-of-poetics.md)
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

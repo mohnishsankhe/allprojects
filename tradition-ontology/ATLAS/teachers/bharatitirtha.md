@@ -13,4 +13,4 @@
 Śṛṅgeri pontiff of the 14th century, associate of Vidyāraṇya; credited with part of the Pañcadaśī, the Vaiyāsikanyāyamālā and (by some) the Dṛg-Dṛśya Viveka.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

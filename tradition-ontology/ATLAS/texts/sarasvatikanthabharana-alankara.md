@@ -23,8 +23,8 @@ Rasa is self-regard (abhimāna), the sense of I (ahaṃkāra), which is called �
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind, dispute_
 
-terms: [abhimāna](../terms/abhimana.md), [ahaṅkāra](../terms/ahankara.md) · teachers: [Bhoja](../teachers/bhoja.md) · disputes: `dsp:one-rasa-or-many`
+terms: [abhimāna](../terms/abhimana.md), [ahaṅkāra](../terms/ahankara.md) · teachers: [Bhoja](../teachers/bhoja.md) · disputes: [Is there one rasa underlying all, and if so which?](../debates/one-rasa-or-many.md)
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

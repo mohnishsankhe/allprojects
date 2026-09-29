@@ -17,6 +17,7 @@
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Breath, life-breath: the eldest and best of the vital powers (BAU 6.1; ChU 5.1); the one god (BAU 3.9.9); the gatherer in the body (ChU 4.3.3); born from the self like a shadow (PrU 3.3); brahman (KauU 2.1) and 'the intelligent self' (KauU 3.2); also the collective name of the five breaths (BAU 1.5.3).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The (in-)breath, offered into apāna in breath-sacrifice (BhG 4.29), fixed between the brows (8.10) or in the head (8.12) at death; the Lord as vaiśvānara joined with prāṇa and apāna digests food (15.14).
 - [Vaiśeṣika](../lineages/vaisesika.md): The air moving within the body; one, named prāṇa, apāna and the rest by differences of adjunct (Tarkasaṅgraha); inhalation and exhalation are marks of the self (VS 3.2.4 C).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4.27–30, 5.27: the activities of prāṇa are offered into the fire of self-restraint (4.27); prāṇa is offered into apāna and apāna into prāṇa, and their movements restrained (4.29); those regulating food offer prāṇas into prāṇas (4.30); prāṇa and apāna moving within the nostrils are made equal (5.27).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The vital breath; the self in the Brahma Upaniṣad; chief of the ten vāyus; its vibration is a seed of mind.
 - [Trika ('the Triad')](../lineages/trika.md): The breath-power (marudrūpā śakti) whose arising, turning and suspension are contemplated (VBT 24-27, 64); in the āṇava means its five forms carry the seven blisses (TĀ 5).
 - [Pratyabhijñā (the philosophy of recognition)](../lineages/pratyabhijna.md): Prāṇa and apāna prevail in waking and dream, samāna in deep sleep, udāna in the fourth, vyāna beyond (ĪPK 3.2.19-20).
@@ -25,7 +26,11 @@
 - Pali: pāṇa  — partial
 
 ## Equivalents (interpretation layer)
-**Related:** [apāna](apana.md), [vyāna](vyana.md), [udāna](udana.md), [samāna](samana.md), [Vāyu](vayu.md), [antaḥkaraṇa](antahkarana.md), [vāta](vata.md)
+**Related:** [apāna](apana.md), [vyāna](vyana.md), [udāna](udana.md), [samāna](samana.md), [Vāyu](vayu.md), [antaḥkaraṇa](antahkarana.md), [vāta](vata.md), [prāṇāyāma](pranayama.md)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U28-hatha-texts, skeleton:U02-brahmana-vedanga, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U11-nyaya-vaisesika, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:4.27, tea:bhagavad-gita:4.29, tea:bhagavad-gita:4.30, tea:bhagavad-gita:5.27 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U28-hatha-texts, skeleton:U02-brahmana-vedanga, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch04-06, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

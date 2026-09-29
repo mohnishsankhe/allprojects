@@ -8,4 +8,4 @@
 One of the teachers whose view Janaka reports to Yājñavalkya: brahman is hearing (BAU 4.1.5); Yājñavalkya says he taught only its abode, not its support.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

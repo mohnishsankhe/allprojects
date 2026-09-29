@@ -54,7 +54,7 @@ With a stable body, by practice, one gains knowledge with its eight qualities an
 
 _level: bridging · standpoint: seeker · path: meditation, body-breath, knowledge · stage: advanced · types: karma-liberation, ultimate_
 
-concepts: [Liberation in life in a stable body (Rasa)](../concepts/jivanmukti-rasa.md) · disputes: `dsp:is-bodily-immortality-required-for-liberation`
+concepts: [Liberation in life in a stable body (Rasa)](../concepts/jivanmukti-rasa.md) · disputes: [Is a stable, undecaying body required for liberation in life?](../debates/is-bodily-immortality-required-for-liberation.md)
 
 ### 1.20-23 <a id="tea-rasahrdayatantra-1-20-23"></a>
 `skeleton` · confidence high · _restricted: summary only_
@@ -76,4 +76,4 @@ concepts: [The divine body (divya-deha)](../concepts/divya-deha.md), [Liberation
 
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

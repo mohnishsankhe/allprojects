@@ -25,7 +25,7 @@ The noble disciple gives up the four defilements of action (killing, stealing, s
 
 _level: conventional · standpoint: ethical-social · path: action · stage: beginner · types: ethics_
 
-terms: `trm:agati` · concepts: `cpt:lay-ethics` · obstacles: `obs:four-agati`
+terms: [agati](../terms/agati.md) · concepts: [Lay ethics](../concepts/lay-ethics.md) · obstacles: [The four biases (agati)](../obstacles/four-agati.md)
 
 ### 7-14 <a id="tea-sigalovada-sutta-7-14"></a>
 `skeleton` · confidence high
@@ -34,7 +34,7 @@ The six drains on wealth — drink, roaming the streets at night, festivals, gam
 
 _level: conventional · standpoint: ethical-social · path: action · stage: beginner · types: ethics_
 
-concepts: `cpt:lay-ethics`
+concepts: [Lay ethics](../concepts/lay-ethics.md)
 
 ### 15-26 <a id="tea-sigalovada-sutta-15-26"></a>
 `skeleton` · confidence high
@@ -43,7 +43,7 @@ False friends (the taker, the talker, the flatterer, the companion in waste) and
 
 _level: conventional · standpoint: ethical-social · path: action · stage: beginner · types: ethics_
 
-concepts: `cpt:kalyanamittata`
+concepts: [Good friendship](../concepts/kalyanamittata.md)
 
 ### 27-34 <a id="tea-sigalovada-sutta-27-34"></a>
 `skeleton` · confidence high
@@ -52,10 +52,10 @@ The six directions are to be honoured as parents (east), teachers (south), wife 
 
 _level: conventional · standpoint: ethical-social · path: action · stage: beginner · types: ethics_
 
-concepts: `cpt:lay-ethics` · teachers: `tch:sigala`
+concepts: [Lay ethics](../concepts/lay-ethics.md) · teachers: [Sigāla](../teachers/sigala.md)
 
 
 _Notes: SuttaCentral uid dn31; Mahāsaṅgīti title 'Siṅgālasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

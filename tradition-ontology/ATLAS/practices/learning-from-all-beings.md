@@ -12,4 +12,4 @@ Observing the ways of the elements, animals and people and drawing from each a l
   - [Uddhava Gītā](../texts/uddhava-gita.md) — ref: 11.7.32-11.9.31; rests_on: ["tea:uddhava-gita:11.7.32-35", "tea:uddhava-gita:11.9.25-30", "tea:uddhava-gita:11.9.31"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

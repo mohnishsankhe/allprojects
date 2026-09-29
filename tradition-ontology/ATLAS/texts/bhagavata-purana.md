@@ -90,7 +90,7 @@ The avatāras enumerated by ordinal: (1) the Kumāras, (2) the Boar, (3) Nārada
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: world-fate_
 
-terms: [avatāra](../terms/avatara.md) · concepts: [The lists of avatāras](../concepts/avatara-lists.md), [The doctrine of avatāra](../concepts/avatara-doctrine.md) · teachers: [Nārada](../teachers/narada.md), [Kapila](../teachers/kapila.md), [Dattātreya](../teachers/dattatreya.md), [Ṛṣabha](../teachers/rsabha.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md) · disputes: [Why did Viṣṇu appear as the Buddha (and how are the Buddhist and Jain teachings to be regarded)?](../debates/buddha-avatara-purpose.md)
+terms: [avatāra](../terms/avatara.md) · concepts: [The lists of avatāras](../concepts/avatara-lists.md), [The doctrine of avatāra](../concepts/avatara-doctrine.md) · teachers: [Nārada](../teachers/narada.md), [Kapila](../teachers/kapila.md), [Dattātreya](../teachers/dattatreya.md), [Ṛṣabha (Ṛṣabhanātha, Ādinātha)](../teachers/rsabha.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md) · disputes: [Why did Viṣṇu appear as the Buddha (and how are the Buddhist and Jain teachings to be regarded)?](../debates/buddha-avatara-purpose.md)
 
 ### 1.3.26 <a id="tea-bhagavata-purana-1-3-26"></a>
 `skeleton` · confidence high
@@ -208,7 +208,7 @@ For those who have become dispassionate, for those who desire (the goods of this
 
 _level: conventional · standpoint: seeker · path: sound, devotion · stage: all · types: practice, sound-language_
 
-terms: [nāma](../terms/nama.md), [kīrtana](../terms/kirtana.md) · concepts: [The power of the divine name](../concepts/power-of-the-name.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md)
+terms: [nāma](../terms/nama.md), [kīrtana](../terms/kirtana.md) · concepts: [The power of the divine name](../concepts/power-of-the-name.md) · practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md)
 
 ### 2.2.8-14 <a id="tea-bhagavata-purana-2-2-8-14"></a>
 `skeleton` · confidence high
@@ -244,7 +244,7 @@ There is no auspicious path for those wandering in saṃsāra other than that fr
 
 _level: conventional · standpoint: seeker · path: devotion, sound · stage: all · types: practice_
 
-terms: [śravaṇa](../terms/sravana.md), [kīrtana](../terms/kirtana.md), [smaraṇa](../terms/smarana.md) · practices: [The nine forms of devotion (navadhā bhakti)](../practices/navadha-bhakti.md), [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md)
+terms: [śravaṇa](../terms/sravana.md), [kīrtana](../terms/kirtana.md), [smaraṇa](../terms/smarana.md) · practices: [The nine forms of devotion (navadhā bhakti)](../practices/navadha-bhakti.md), [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md)
 
 ### 2.9.32-35 <a id="tea-bhagavata-purana-2-9-32-35"></a>
 `skeleton` · confidence high
@@ -284,7 +284,7 @@ Maitreya measures time from the atom (paramāṇu) upward through the day and ni
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate_
 
-terms: [yuga](../terms/yuga.md), [mahāyuga](../terms/mahayuga.md), [kalpa](../terms/kalpa.md), [parārdha](../terms/parardha.md), [manvantara](../terms/manvantara.md), [divya-varṣa](../terms/divya-varsa.md) · concepts: [The four ages (yuga)](../concepts/four-yugas.md), [Kalpa, the day of Brahmā and his lifetime](../concepts/kalpa-and-brahma-lifetime.md)
+terms: [yuga](../terms/yuga.md), [mahāyuga (caturyuga)](../terms/mahayuga.md), [kalpa](../terms/kalpa.md), [parārdha](../terms/parardha.md), [manvantara](../terms/manvantara.md), [divya-varṣa](../terms/divya-varsa.md) · concepts: [The four ages (yuga)](../concepts/four-yugas.md), [Kalpa, the day of Brahmā and his lifetime](../concepts/kalpa-and-brahma-lifetime.md)
 
 ### 3.28.1-11 <a id="tea-bhagavata-purana-3-28-1-11"></a>
 `skeleton` · confidence high
@@ -349,7 +349,7 @@ terms: [yamadūta](../terms/yamaduta.md), [yātanā-deha](../terms/yatana-deha.m
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: ethics, karma-liberation_
 
-terms: [tapas](../terms/tapas.md) · teachers: [Ṛṣabha](../teachers/rsabha.md)
+terms: [tapas](../terms/tapas.md) · teachers: [Ṛṣabha (Ṛṣabhanātha, Ādinātha)](../teachers/rsabha.md)
 
 ### 5.6.9 <a id="tea-bhagavata-purana-5-6-9"></a>
 `skeleton` · confidence high
@@ -358,7 +358,7 @@ Hearing of Ṛṣabha's (naked, avadhūta) conduct, a king named Arhat of Koṅk
 
 _level: conventional · standpoint: polemical · path: general · stage: unmarked · types: dispute, world-fate_
 
-concepts: [Māyāmoha: the Purāṇic account of Buddhist and Jain teaching](../concepts/mayamoha.md) · teachers: [Ṛṣabha](../teachers/rsabha.md)
+concepts: [Māyāmoha: the Purāṇic account of Buddhist and Jain teaching](../concepts/mayamoha.md) · teachers: [Ṛṣabha (Ṛṣabhanātha, Ādinātha)](../teachers/rsabha.md)
 
 ### 5.8.26-27 <a id="tea-bhagavata-purana-5-8-26-27"></a>
 `skeleton` · confidence high
@@ -394,7 +394,7 @@ Ajāmila, a brahmin fallen into vice, at death called out for his youngest son, 
 
 _level: conventional · standpoint: devotional · path: sound, devotion · stage: all · types: death-dying, sound-language, karma-liberation_
 
-terms: [nāma](../terms/nama.md), [yamadūta](../terms/yamaduta.md), [viṣṇudūta](../terms/visnuduta.md), [prāyaścitta](../terms/prayascitta.md) · concepts: [The power of the divine name](../concepts/power-of-the-name.md), [The last thought and resolve at death](../concepts/last-thought.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md), [Remembering the Lord at death](../practices/anta-smarana.md)
+terms: [nāma](../terms/nama.md), [yamadūta](../terms/yamaduta.md), [viṣṇudūta](../terms/visnuduta.md), [prāyaścitta](../terms/prayascitta.md) · concepts: [The power of the divine name](../concepts/power-of-the-name.md), [The last thought and resolve at death](../concepts/last-thought.md) · practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md), [Remembering the Lord at death](../practices/anta-smarana.md)
 
 ### 6.2.9-10 <a id="tea-bhagavata-purana-6-2-9-10"></a>
 `skeleton` · confidence high
@@ -640,7 +640,7 @@ One who keeps this vow, singing the names of the beloved, with love born and hea
 
 _level: conventional · standpoint: experiential · path: devotion, sound · stage: advanced · types: powers-experiences, practice_
 
-terms: [kīrtana](../terms/kirtana.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md)
+terms: [kīrtana](../terms/kirtana.md) · practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md)
 
 ### 11.2.42 <a id="tea-bhagavata-purana-11-2-42"></a>
 `skeleton` · confidence high
@@ -763,7 +763,7 @@ O king, the Kali age, an ocean of faults, has one great virtue: by singing of K�
 
 _level: conventional · standpoint: seeker · path: sound, devotion · stage: all · types: practice, world-fate, sound-language_
 
-terms: [kali-yuga](../terms/kali-yuga.md), [kīrtana](../terms/kirtana.md) · concepts: [The dharma of the Kali age](../concepts/kali-yuga-dharma.md), [The means proper to each age](../concepts/yuga-dharma.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md)
+terms: [kali-yuga](../terms/kali-yuga.md), [kīrtana](../terms/kirtana.md) · concepts: [The dharma of the Kali age](../concepts/kali-yuga-dharma.md), [The means proper to each age](../concepts/yuga-dharma.md) · practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md)
 
 ### 12.4.2-6 <a id="tea-bhagavata-purana-12-4-2-6"></a>
 `skeleton` · confidence high
@@ -876,4 +876,4 @@ _level: conventional · standpoint: devotional · path: sound, devotion · stage
 _Notes: Commentaries: Śrīdhara Svāmin's Bhāvārthadīpikā (src:bhavarthadipika), Madhva's Bhāgavata-tātparya-nirṇaya, Vīrarāghava, Vijayadhvaja, Vallabha's Subodhinī, Sanātana's Bṛhad-vaiṣṇava-toṣaṇī, Jīva's Krama-sandarbha, Viśvanātha's Sārārthadarśinī (owned by U13-U16 where they create them). Contains the Kapila Gītā (3.25-33) and Uddhava Gītā (11.7-29), which U06 owns. verse number checked in the local e-text (sanskrit/raw_etexts, bhAgavata-purANam/wiki; Gita Press-type numbering)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._

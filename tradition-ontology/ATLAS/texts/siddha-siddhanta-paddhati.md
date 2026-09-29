@@ -80,4 +80,4 @@ terms: [avadhūta](../terms/avadhuta.md) · concepts: [The avadhūta](../concept
 _Notes: Not available locally; teachings in this shard are given at upadeśa level with low/moderate confidence. The Nityanātha attribution is recalled, not checked._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

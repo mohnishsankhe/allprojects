@@ -1,0 +1,22 @@
+# vyākaraṇa (prediction)
+
+`trm:vyakarana-prediction` · `skeleton` · confidence high
+
+**Language:** Sanskrit
+**Literal:** prediction (of future buddhahood)
+
+## Definitions by tradition
+- [Mahāyāna](../lineages/mahayana.md): A buddha's declaration that a being will become a buddha of a given name, land and aeon — Śāriputra as Padmaprabha, Śrīmālā as Samantaprabha, the Ganges goddess as Suvarṇapuṣpa.
+
+## Forms in other languages
+- Pali: veyyākaraṇa  — partial
+- Tibetan: lung bstan pa  — exact
+- Chinese: shouji 授記  — exact
+- Japanese: juki  — exact
+
+## Equivalents (interpretation layer)
+
+_Notes: Separate from trm:vyakarana (grammar); if the merge keeps a single trm:vyakarana, this sense is the Buddhist one._
+
+---
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._

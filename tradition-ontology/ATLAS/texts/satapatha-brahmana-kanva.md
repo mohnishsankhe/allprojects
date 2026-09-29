@@ -1,6 +1,6 @@
 # Śatapatha Brāhmaṇa (Kāṇva recension)
 
-`src:satapatha-brahmana-kanva` · `skeleton` · confidence moderate
+`src:satapatha-brahmana-kanva` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -17,4 +17,8 @@ The second recension of the Śatapatha Brāhmaṇa, transmitted by the Kāṇva 
 _Notes: Only partly edited in print for a long time; the Kāṇva BĀU is widely available._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Shatapatha_Brahmana, https://en.wikipedia.org/wiki/Brahmana — Wikipedia confirms the Kāṇva recension of 17 books and 104 adhyāyas (6,806 kaṇḍikās), as the entry says. Śaṅkara's BĀU commentary follows the Kāṇva text (standard, not re-checked here).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

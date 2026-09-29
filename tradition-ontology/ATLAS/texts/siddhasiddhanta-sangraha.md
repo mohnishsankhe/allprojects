@@ -14,4 +14,4 @@ A verse summary of the Siddhasiddhāntapaddhati ascribed to Balabhadra.
   - kind: original; name: ed. Gopinath Kaviraj (Benares, 1925) — to be checked
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

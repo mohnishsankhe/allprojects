@@ -15,4 +15,4 @@
 A commentary on the Brahma Sūtras (with related commentaries on the Gītā and Upaniṣads) attributed to Rāmānanda by the Rāmānandīs who assert the sect's independence from the Śrīvaiṣṇavas; it reads the Sūtras as teaching a qualified non-dualism centred on Rāma.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

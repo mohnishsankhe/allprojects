@@ -11,6 +11,6 @@ Youngest son of Madālasā and King Ṛtadhvaja (Kuvalayāśva); raised as a kin
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 14.30.2-29 — Located as described.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 14.30.2-29 — Located as described.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

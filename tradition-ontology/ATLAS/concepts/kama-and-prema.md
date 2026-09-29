@@ -13,4 +13,4 @@
 - contrasts-with → [Paramour and wedded love (parakīyā / svakīyā)](parakiya-svakiya.md): Orthodox Gauḍīyas accept the same definitions but deny that prema can be reached by refining human kāma. — rests on [kama-into-prema](../texts/vivartavilasa.md#tea-vivartavilasa-kama-into-prema)
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

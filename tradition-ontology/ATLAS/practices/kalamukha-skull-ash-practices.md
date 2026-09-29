@@ -15,4 +15,4 @@ Summary only: opponents report that the Kālāmukhas eat from a skull, bathe in 
 - Yāmuna declares these acts forbidden by every scripture. — [Āgamaprāmāṇya](../texts/agamapramanya.md) Māheśvara section
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 16:38 IST._

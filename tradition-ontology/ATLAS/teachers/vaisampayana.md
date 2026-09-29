@@ -14,6 +14,7 @@ Vyāsa's disciple who recites the Mahābhārata to king Janamejaya during the sn
 **Verification checks**
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md, https://en.wikipedia.org/wiki/Vaisampayana — Located: 27 branches (Viṣṇu Purāṇa 3.5.1), teacher of Yājñavalkya, Taittirīyas as partridges (3.5.13). Narrator of the Mahābhārata to Janamejaya — standard (Vaiśampāyana article).
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.336.8, 12.338.2 [vaiśampāyana] — Narrator of the Nārāyaṇīya passages to Janamejaya, as entered.
+- 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/1_gram/panini_astadhyayi.md (GRETIL) — Confirmed: A 4.3.104 lists Vaiśampāyana's pupils (U01). The Purāṇic quarrel with Yājñavalkya is the tradition's account.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.336.8, 12.338.2 [vaiśampāyana] — Narrator of the Nārāyaṇīya passages to Janamejaya, as entered.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

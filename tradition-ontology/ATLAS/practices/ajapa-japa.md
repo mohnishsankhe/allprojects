@@ -25,4 +25,4 @@ Awareness of the breath's natural sound — 'ha' out, 'sa' in, 21,600 times a da
 _Notes: U04 files this under category 'mantra-sound'; it is both a breath and a sound practice. The number 21,600 is the texts' doctrinal count of daily breaths, not a practice count._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora, skeleton:U29-hatha-practices, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora, skeleton:U29-hatha-practices, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

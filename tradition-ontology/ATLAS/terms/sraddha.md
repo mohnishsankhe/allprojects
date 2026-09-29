@@ -14,6 +14,8 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: Those who constantly follow Kṛṣṇa's teaching with faith and without carping are freed from actions (3.31).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Faith, threefold by the guṇas and according to one's inner being — 'a person is made of faith' (BhG 17.2–3); the one with faith gains knowledge (4.39); what is done without faith is 'asat' (17.28); the Lord makes each devotee's faith steady (7.21).
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): The rite of offering food and water to the dead and the ancestors (ekoddiṣṭa for one preta, pārvaṇa for the three ancestors), with feeding of brahmins.
+- [Mahāyāna](../lineages/mahayana.md): Without faith the roots are weak (Gaṇḍavyūha 55); faith in the buddha-element surpasses all other merit (RGV 5); faith in the vow brings birth in Sukhāvatī.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: The one with faith, intent on it, with senses restrained, gains knowledge (4.39); the faithless perishes (4.40); Arjuna asks the fate of one endowed with faith who falls from yoga (6.37); the one who worships the Lord with faith is the most yoked (6.47).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Faith: offered by the gods into the fire of yonder world (ChU 5.4; BAU 6.2.9); 'have faith' (ChU 6.12.2); head of the self made of understanding (TU 2.4); 'give with faith' (TU 1.11).
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): Faith: firm trust in the words of scripture and teacher, by which the truth is grasped.
 - [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md): Faith — firm trust that by devotion to Kṛṣṇa all is accomplished; the first stage.
@@ -21,11 +23,17 @@
 
 ## Forms in other languages
 - Pali: saddhā  — partial
+- Tibetan: dad pa  — exact
+- Chinese: xin 信  — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [asūyā](asuya.md), [mata](mata.md)
+**Related:** [asūyā](asuya.md), [mata](mata.md), [saṃśaya](samsaya.md)
 
 _Notes: Not to be confused with śrāddha, the ancestral rite (trm:sraddha-ancestral-rite)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U16-bhedabheda, skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:4.39, tea:bhagavad-gita:4.40, tea:bhagavad-gita:6.37, tea:bhagavad-gita:6.47 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U39-mahayana-sutras, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U16-bhedabheda, skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._

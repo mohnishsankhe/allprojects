@@ -124,7 +124,7 @@ He wanders like Śvetaketu, Ṛbhu, Nidāgha, Ṛṣabha, Durvāsas, Saṃvartak
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: teacher-transmission_
 
-teachers: [Śvetaketu Āruṇeya](../teachers/svetaketu.md), [Ṛbhu](../teachers/rbhu.md), [Nidāgha](../teachers/nidagha.md), [Ṛṣabha](../teachers/rsabha.md), [Durvāsas](../teachers/durvasas.md), [Saṃvartaka](../teachers/samvartaka.md), [Dattātreya](../teachers/dattatreya.md), [Raivataka](../teachers/raivataka.md)
+teachers: [Śvetaketu Āruṇeya](../teachers/svetaketu.md), [Ṛbhu](../teachers/rbhu.md), [Nidāgha](../teachers/nidagha.md), [Ṛṣabha (Ṛṣabhanātha, Ādinātha)](../teachers/rsabha.md), [Durvāsas](../teachers/durvasas.md), [Saṃvartaka](../teachers/samvartaka.md), [Dattātreya](../teachers/dattatreya.md), [Raivataka](../teachers/raivataka.md)
 
 ### 4.1-37 (conduct) <a id="tea-naradaparivrajaka-upanisad-4-1-37-conduct"></a>
 `skeleton` · confidence moderate
@@ -277,4 +277,4 @@ concepts: [The kinds of renouncer](../concepts/six-kinds-of-renunciant.md), [The
 _Notes: Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

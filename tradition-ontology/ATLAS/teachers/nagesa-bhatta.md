@@ -1,6 +1,6 @@
 # Nāgeśa Bhaṭṭa
 
-`tch:nagesa-bhatta` · `skeleton` · confidence high
+`tch:nagesa-bhatta` · `sourced` · confidence high
 
 **Alternate names:** Nāgojī Bhaṭṭa, Nāgeśa
 **Lineages:** [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md), [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md)
@@ -20,4 +20,8 @@
 Last great Pāṇinian of the classical period; his philosophical works belong to lin:vyakarana (U31).
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U10-yoga, skeleton:U31-sound-arts, skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://content.www.wellcomecollection.org/concepts/q9rxa6fe — Confirmed: active 1670–1750 (Wellcome authority record).
+
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U10-yoga, skeleton:U31-sound-arts, skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._

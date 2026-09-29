@@ -1,6 +1,6 @@
 # Vīramitrodaya of Mitra Miśra
 
-`src:viramitrodaya` · `skeleton` · confidence moderate
+`src:viramitrodaya` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -14,4 +14,8 @@
 Mitra Miśra's encyclopaedic digest in many 'illuminations' (prakāśa) — on sacraments, conduct, time, pilgrimage, śrāddha, law, expiation and liberation.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:GRETIL-dev:mitramisra_viramitrodaya_samayaprakasa, catalog:raw_etexts:viramitrodaya_theerthaprakasha, https://en.wikipedia.org/wiki/V%C4%ABramitrodaya — Extant (prakāśas held locally). Written by Mitra Miśra of Gopācala for Vīrasiṃhadeva of Orchha (r. 1605–1626/27), c. 1610–1640 (Wikipedia), matching the entry.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

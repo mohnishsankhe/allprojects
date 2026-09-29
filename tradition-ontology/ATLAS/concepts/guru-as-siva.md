@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The guru-principle](guru-principle.md): shared idea of the guru as the divine
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

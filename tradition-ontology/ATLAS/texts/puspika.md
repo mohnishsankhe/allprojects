@@ -14,4 +14,4 @@
 The tenth Upāṅga: stories of gods (the Moon, the Sun, Śukra, the goddess Bahuputrikā and others) who came to honour Mahāvīra, and of their previous lives.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

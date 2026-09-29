@@ -14,4 +14,4 @@ Daily and occasional worship of Viṣṇu (and his forms, especially Kṛṣṇa
   - [Kṛṣṇāmṛtamahārṇava](../texts/krsnamrtamaharnava.md) — ref: 1-3; rests_on: ["tea:krsnamrtamaharnava:1-3"]
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

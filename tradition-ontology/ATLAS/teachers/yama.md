@@ -14,6 +14,6 @@ _Notes: U05's contribution; Yama as Naciketas's teacher in the Kaṭha Upaniṣa
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 3.281.12, 12.192.1, 12.193.3 — Located as described.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 3.281.12, 12.192.1, 12.193.3 — Located as described.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

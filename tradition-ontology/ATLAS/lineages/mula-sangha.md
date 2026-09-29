@@ -17,7 +17,7 @@ The principal historical Digambara monastic lineage, subdivided into gaṇas and
 _none recorded_
 
 ## Teachers
-_none recorded_
+[Kundakunda](../teachers/kundakunda.md), [Sakalakīrti (Bhaṭṭāraka)](../teachers/sakalakirti.md), [Ācārya Śāntisāgara](../teachers/santisagara.md), [Vīrasena](../teachers/virasena.md)
 
 ## Practices
 _none recorded_
@@ -29,4 +29,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

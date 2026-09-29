@@ -15,4 +15,4 @@
 Kalyāṇavarman's large compendium of horā drawing on Varāhamihira and the Yavanas; a principal source for later jātaka authors.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

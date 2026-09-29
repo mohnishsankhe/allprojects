@@ -1,6 +1,6 @@
 # Sandhyā (twilight worship)
 
-`prc:sandhyavandana` · `skeleton` · confidence high
+`prc:sandhyavandana` · `sourced` · confidence high
 
 **Category:** ritual
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -17,4 +17,8 @@ At dawn and dusk: sipping and bathing, sprinkling with the water-verses, breath-
 _Notes: U01 contribution: its Saṃhitā mantras. The rite's structure is set out in gṛhya/dharma texts (U02)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/AraNyakam_Andhrakam.md (Āndhra TA), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/yajnavalkya-smrti_plain_text.md (GRETIL) — TA 2.2 (the Sandhyā arghya against the rakṣases) and YS 1.22–25 were found. This rests on confirmed teaching checks: tea:taittiriya-aranyaka:2.2, tea:yajnavalkyasmrti:1.22-25.
+
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._

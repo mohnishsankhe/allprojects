@@ -1,6 +1,6 @@
 # Maśaka Kalpasūtra (Ārṣeya Kalpa)
 
-`src:masaka-kalpasutra` · `skeleton` · confidence low
+`src:masaka-kalpasutra` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 A Sāmaveda sūtra listing the chants used in each Soma rite.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:eBharati:mashakakalpasUtram, catalog:raw_etexts:mashaka_shrauta_sutra — Low-confidence entry confirmed as extant (eBhāratī 'Maśakakalpasūtra'; raw_etexts). It is the Sāmaveda Ārṣeya Kalpa listing the chants of each Soma rite.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

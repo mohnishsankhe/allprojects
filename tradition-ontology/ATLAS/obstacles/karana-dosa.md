@@ -12,4 +12,4 @@ A defect in the conditions producing a cognition (e.g. in the sense organ), know
   - [Śāstradīpikā](../texts/sastradipika.md) — ref: 1.1.5; rests_on: ["tea:sastradipika:1.1.5"]
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

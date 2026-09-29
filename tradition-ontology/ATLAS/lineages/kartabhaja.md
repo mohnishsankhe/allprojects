@@ -41,7 +41,7 @@ The Kartābhajā is a Bengali sect founded in the late 18th c. around Āulcānd,
 [Āulcānd](../teachers/aulcand.md), [Manulāl Miśra](../teachers/manulal-misra.md), [Rāmdulāl Pāl (Dulālcānd)](../teachers/ramdulal-pal.md), [Rāmśaraṇ Pāl](../teachers/ramsaran-pal.md), [Satī Mā (Sarasvatī)](../teachers/sati-ma.md)
 
 ## Practices
-[The Dol festival at Ghoshpara](../practices/ghoshpara-dol-mela.md), [Devotion to the teacher (guru-bhakti)](../practices/guru-bhakti.md), [Kartābhajā initiation](../practices/kartabhaja-diksa.md), [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md), [Worship of the human (mānuṣ bhajan)](../practices/manus-bhajana.md), [Melās and sādhu-sevā](../practices/sadhu-seva-mela.md), [Holy company (satsaṅga)](../practices/satsanga.md)
+[The Dol festival at Ghoshpara](../practices/ghoshpara-dol-mela.md), [Devotion to the teacher (guru-bhakti)](../practices/guru-bhakti.md), [Kartābhajā initiation](../practices/kartabhaja-diksa.md), [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md), [Worship of the human (mānuṣ bhajan)](../practices/manus-bhajana.md), [Melās and sādhu-sevā](../practices/sadhu-seva-mela.md), [Holy company (satsaṅga)](../practices/satsanga.md)
 
 ## Path maps
 _none recorded_
@@ -52,4 +52,4 @@ _none recorded_
 _Notes: Much of its organized history is post-1800 (flagged recent). Scholarly study: H. B. Urban (used only for dating labels)._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

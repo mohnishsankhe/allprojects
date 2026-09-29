@@ -1,6 +1,6 @@
 # Medhātithi
 
-`tch:medhatithi` · `skeleton` · confidence moderate
+`tch:medhatithi` · `sourced` · confidence moderate
 
 **Lineages:** [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md)
 **Dates:** Scholarly account: c. 9th–10th c. CE; (confidence low)
@@ -11,4 +11,8 @@
 Author of the oldest surviving commentary on Manu, reasoning in the manner of Mīmāṃsā.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Medh%C4%81tithi, https://sites.utexas.edu/sanskrit/resources/dharmasastra/medhatithi/ — Confirmed: 9th or early 10th c. (Lingat), probably Kashmir; reasons in the Mīmāṃsā manner (Wikipedia; UT Austin).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

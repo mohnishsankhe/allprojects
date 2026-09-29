@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The authorless Veda (apauruṣeyatva)](apauruseyatva.md): parallel to the Mīmāṃsā claim of the Veda's authorless eternity; Caraka grounds it on the nature of things rather than on authorlessness — rests on [su.30.27](../texts/caraka-samhita.md#tea-caraka-samhita-su-30-27)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

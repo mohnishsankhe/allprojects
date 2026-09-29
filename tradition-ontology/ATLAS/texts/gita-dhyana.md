@@ -19,6 +19,6 @@ _Notes: The ascription to Madhusūdana is a popular report, recorded as doubtful
 ---
 **Verification checks**
 
-- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Gita_Dhyanam — Nine-verse preface; origins given differently, ascription to Madhusūdana a popular report — matches the entry's "doubtful".
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Gita_Dhyanam — Nine-verse preface; origins given differently, ascription to Madhusūdana a popular report — matches the entry's "doubtful".
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

@@ -11,6 +11,6 @@ The defeated asura whose equanimity is praised and who is taught by Sanatkumāra
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.270.13-24, 12.271.56-64 — Located as described.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.270.13-24, 12.271.56-64 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

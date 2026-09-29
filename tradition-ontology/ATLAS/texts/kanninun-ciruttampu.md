@@ -33,7 +33,7 @@ I know no other god; singing the sweet melody of the verses of the Nampi of Kuru
 
 _level: conventional · standpoint: devotional · path: devotion, sound · stage: all · types: teacher-transmission_
 
-concepts: [Devotion to the teacher as sufficient (ācārya-niṣṭhā)](../concepts/acarya-nistha.md) · practices: [Devotion to the teacher (guru-bhakti)](../practices/guru-bhakti.md), [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md) · teachers: [Madhurakavi Āḻvār](../teachers/madhurakavi-alvar.md), [Nammāḻvār](../teachers/nammalvar.md)
+concepts: [Devotion to the teacher as sufficient (ācārya-niṣṭhā)](../concepts/acarya-nistha.md) · practices: [Devotion to the teacher (guru-bhakti)](../practices/guru-bhakti.md), [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md) · teachers: [Madhurakavi Āḻvār](../teachers/madhurakavi-alvar.md), [Nammāḻvār](../teachers/nammalvar.md)
 
 ### 4 <a id="tea-kanninun-ciruttampu-4"></a>
 `skeleton` · confidence low
@@ -46,4 +46,4 @@ concepts: [Devotion to the teacher as sufficient (ācārya-niṣṭhā)](../conc
 
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

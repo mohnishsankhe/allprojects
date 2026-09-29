@@ -15,11 +15,13 @@
 - [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md): Cognition arising in a person when the senses are in contact with an existing object; it grasps only what is present and so cannot know dharma (MS 1.1.4).
 - [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md): First an indeterminate bare awareness, then determinate cognition by universal and other features; both are perception (ŚV pratyakṣa 112).
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): Perception: the identity of the consciousnesses delimited by the knower, the mental mode and the object; affirmative, not grasping difference (Maṇḍana).
+- [Jainism (Jaina dharma)](../lineages/jainism.md): In Jain epistemology knowledge by the soul without senses — clairvoyance, mind-reading, omniscience (TS 1.12); later also sense-perception as 'conventionally direct' (Akalaṅka).
 
 ## Forms in other languages
+- Prakrit: paccakkha  — exact
 
 ## Equivalents (interpretation layer)
 **Related:** [sākṣin](saksin.md), [manas](manas.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U11-nyaya-vaisesika, skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U11-nyaya-vaisesika, skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U13-advaita, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._

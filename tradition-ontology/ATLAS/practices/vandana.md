@@ -3,10 +3,11 @@
 `prc:vandana` · `skeleton` · confidence moderate
 
 **Category:** devotion-service
-**Convergence:** 3 independent lineage(s): [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](../lineages/alvar.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
-**Taught in:** [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](../lineages/alvar.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
+**Convergence:** 6 independent lineage(s): [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](../lineages/alvar.md), [Digambara](../lineages/digambara.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Jainism (Jaina dharma)](../lineages/jainism.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Śvetāmbara](../lineages/svetambara.md)
+**Taught in:** [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](../lineages/alvar.md), [Digambara](../lineages/digambara.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Jainism (Jaina dharma)](../lineages/jainism.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Śvetāmbara](../lineages/svetambara.md)
 
 Bowing, prostrating and adoring the Lord with joined palms. Sixth of the Bhāgavata's nine forms. Tamil toḻutal: 'O my mind, worship his radiant feet and rise' (TVM 1.1.1); the Gītā's 'bow to me' (BhG 9.34).
+**Stage:** all
 **Sources:** 
   - [Bhāgavata Purāṇa](../texts/bhagavata-purana.md) — ref: 7.5.23-24; rests_on: ["tea:bhagavata-purana:7.5.23-24"]
   - [Tiruvāymoḻi](../texts/tiruvaymoli.md) — ref: 1.1.1; rests_on: ["tea:tiruvaymoli:1.1.1"]
@@ -18,4 +19,4 @@ Bowing, prostrating and adoring the Lord with joined palms. Sixth of the Bhāgav
 _Notes: One of the Bhāgavata's nine forms of devotion (prc:navadha-bhakti, U07). Exemplar: Akrūra._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._

@@ -1,6 +1,6 @@
 # Prāṇāgnihotra (offering food into the breaths)
 
-`prc:pranagnihotra` · `skeleton` · confidence high
+`prc:pranagnihotra` · `sourced` · confidence high
 
 **Category:** ritual
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -23,4 +23,8 @@ At each meal the eater sips water ('immortal under-layer'), offers the first fiv
 - Offered without knowing its meaning, the Agnihotra is 'like pouring the offering on ashes' (ChU 5.24.1). — [Chāndogya Upaniṣad](../texts/chandogya-upanisad.md) 5.24.1
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad, text:sources_raw/prepared/maitri-upanisad, text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/baudhayana-dharmasutra.md (GRETIL), text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md (no. 97, Prāṇāg — ChU 5.19–24, TA 10.69–70 (Mahānārāyaṇa), the Prāṇāgnihotra Upaniṣad 1–4 and Maitri 6.9 were found. BDh 2.7.12.3 also has the five prāṇāhutis ('prāṇe niviṣṭo 'mṛtaṃ juhomi … prāṇāya svāhā'). This rests on confirmed teaching checks: tea:chandogya-upanisad:5.19-23, tea:chandogya-upanisad:5.24.1-3, tea:mahanarayana-upanisad:69-70, tea:pranagnihotra-upanisad:1-4, tea:maitri-upanisad:6.9.
+
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

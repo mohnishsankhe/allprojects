@@ -22,6 +22,6 @@ The book of the women: the lament of the widows; Vidura's consolation of Dhṛta
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_11.json (BORI Critical Edition text) book 11: 27 chapters — Book 11 has exactly 27 chapters in the local Critical Edition text, as entered.
+- 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_11.json (BORI Critical Edition text) book 11: 27 chapters — Book 11 has exactly 27 chapters in the local Critical Edition text, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

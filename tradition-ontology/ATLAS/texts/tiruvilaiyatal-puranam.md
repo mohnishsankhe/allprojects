@@ -15,4 +15,4 @@ Parañcōti Muṉivar's purāṇam of the sixty-four 'sacred sports' of Śiva at
 _Notes: An earlier Tiruvālavāyuṭaiyār Tiruviḷaiyāṭal Purāṇam (Perumpaṟṟappuliyūr Nampi, c. 13th c.) is noted at low confidence._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

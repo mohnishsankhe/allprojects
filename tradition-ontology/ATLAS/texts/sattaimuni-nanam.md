@@ -37,7 +37,7 @@ After the five initiations, place the prāṇa in the yoga called vāci; for one
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice, body-layers_
 
-terms: [vāci](../terms/vasi.md), [kāya citti](../terms/kaya-citti.md) · concepts: [The breath as horse (vāci)](../concepts/vasi.md), [Perfection of the body and immortality (kāya-siddhi, amaratva)](../concepts/kaya-siddhi.md) · practices: [Vāci yoga (the Siddhar breath-yoga)](../practices/vasi-yoga.md), [Kāya kaṟpam (rejuvenation of the body)](../practices/kaya-kalpa.md) · teachers: [Caṭṭaimuṉi (Sattaimuni)](../teachers/sattaimuni.md)
+terms: [vasī](../terms/vasi.md), [kāya citti](../terms/kaya-citti.md) · concepts: [The breath as horse (vāci)](../concepts/vasi.md), [Perfection of the body and immortality (kāya-siddhi, amaratva)](../concepts/kaya-siddhi.md) · practices: [Vāci yoga (the Siddhar breath-yoga)](../practices/vasi-yoga.md), [Kāya kaṟpam (rejuvenation of the body)](../practices/kaya-kalpa.md) · teachers: [Caṭṭaimuṉi (Sattaimuni)](../teachers/sattaimuni.md)
 
 ### 5 <a id="tea-sattaimuni-nanam-5"></a>
 `skeleton` · confidence low
@@ -54,4 +54,4 @@ concepts: [Karma and rebirth in the Siddhar songs](../concepts/siddhar-karma-reb
 _Notes: Checked in the local e-text._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

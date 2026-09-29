@@ -1,6 +1,6 @@
 # One's own dharma (svadharma)
 
-`cpt:svadharma` · `skeleton` · confidence high
+`cpt:svadharma` · `sourced` · confidence high
 
 **Category:** ethics
 
@@ -18,4 +18,8 @@
 - contrasts-with → [Family dharma (kula-dharma)](kuladharma.md): Kṛṣṇa's argument from svadharma answers Arjuna's argument from family dharma. — rests on [2.31](../texts/bhagavad-gita.md#tea-bhagavad-gita-2-31), [1.40](../texts/bhagavad-gita.md#tea-bhagavad-gita-1-40)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/5_artha/kautilya_arthasastra.md (GRETIL, Kangle numbering — The definition's cited passages were all checked in this sweep and support it: tea:manusmrti:10.97 (confirmed); tea:manusmrti:11.234-235 (confirmed); tea:arthasastra:1.3.13-14 (confirmed); tea:apastamba-dharmasutra:2.1.2.2-3 (confirmed).
+
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

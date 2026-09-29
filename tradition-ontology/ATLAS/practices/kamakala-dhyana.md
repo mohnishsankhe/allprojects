@@ -17,4 +17,4 @@ Meditation on the Goddess's kāmakalā form — the point as face, the two point
 - The sixty-four tantras aimed at particular powers beguile the world; the Goddess's own tantra aims at all the ends of life. — [Saundaryalaharī](../texts/saundarya-lahari.md) 31
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._

@@ -9,4 +9,4 @@
 Odia astronomer who, with naked-eye instruments of his own making, corrected planetary constants within the siddhānta framework in the Siddhāntadarpaṇa.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

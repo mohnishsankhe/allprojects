@@ -34,4 +34,4 @@ _level: bridging · standpoint: analytic · path: knowledge, meditation · stage
 _Notes: Chapters c. 234-245 contain Sāṃkhya-yoga dialogues (e.g. 240.96; 243.20 'ekaṃ sāṃkhyaṃ ca yogaṃ ca yaḥ paśyati sa buddhimān'); chapter checked in the GRETIL e-text of the Brahma Purāṇa (Schreiner & Söhnen-Thieme)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._

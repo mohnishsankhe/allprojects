@@ -14,4 +14,4 @@
 An encyclopaedic Sanskrit work by the Vīraśaiva ruler of Keḷadi covering Śaiva doctrine, ritual, the arts, statecraft and cosmology.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._

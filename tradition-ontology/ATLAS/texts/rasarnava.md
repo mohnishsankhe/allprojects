@@ -37,7 +37,7 @@ Liberation at the falling of the body is meaningless: when the body falls even a
 
 _level: conventional · standpoint: polemical · path: body-breath · stage: advanced · types: karma-liberation, dispute_
 
-concepts: [Liberation in life in a stable body (Rasa)](../concepts/jivanmukti-rasa.md), [Stability of the body (piṇḍa-sthairya)](../concepts/pinda-sthairya.md) · disputes: `dsp:is-bodily-immortality-required-for-liberation`
+concepts: [Liberation in life in a stable body (Rasa)](../concepts/jivanmukti-rasa.md), [Stability of the body (piṇḍa-sthairya)](../concepts/pinda-sthairya.md) · disputes: [Is a stable, undecaying body required for liberation in life?](../debates/is-bodily-immortality-required-for-liberation.md)
 
 ### 1.14-16 <a id="tea-rasarnava-1-14-16"></a>
 `skeleton` · confidence high · _restricted: summary only_
@@ -108,4 +108,4 @@ concepts: [Guru, disciple and secrecy in Rasa Śāstra](../concepts/rasa-guru-an
 
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

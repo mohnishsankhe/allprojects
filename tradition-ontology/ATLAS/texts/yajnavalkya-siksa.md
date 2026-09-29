@@ -1,6 +1,6 @@
 # Yājñavalkya Śikṣā
 
-`src:yajnavalkya-siksa` · `skeleton` · confidence low
+`src:yajnavalkya-siksa` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,4 +13,8 @@
 A phonetic manual of the White Yajurveda (Vājasaneyi) tradition, chiefly on the accents and their marking in recitation.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:raw_etexts:yagyavalkya_shiksha — Extant locally under the White Yajurveda (shuklaH) Śikṣās, which fits the entry's Vājasaneyi attribution. The ascription to Yājñavalkya is traditional, as the entry marks it ('doubtful').
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

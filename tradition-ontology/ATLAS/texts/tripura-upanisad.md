@@ -81,4 +81,4 @@ _level: conventional · standpoint: ritual · path: ritual · stage: all · type
 _Notes: Owned by U04; U23 adds Śrīvidyā key teachings. Text checked in sources_raw (vedaH/misc/upaniShat/shAktA; eBhāratī bhāvanopaniṣat)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

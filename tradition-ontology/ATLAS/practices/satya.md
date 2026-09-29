@@ -22,4 +22,4 @@ Speech and mind according to fact, spoken for the good of all beings after exami
 - Truth spoken to harm beings is not truth but sin, a semblance of merit leading to painful darkness. — [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) 2.30
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

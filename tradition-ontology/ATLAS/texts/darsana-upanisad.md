@@ -95,7 +95,7 @@ The sacred places are in the body — Śrīparvata in the head, Kedāra on the f
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: practice, dispute_
 
-concepts: [Inner tīrthas](../concepts/inner-tirthas.md), [Images and forms for worshippers](../concepts/images-for-the-ignorant.md) · disputes: [Is worship of images and outer forms valid for one seeking liberation?](../debates/image-worship-and-inner-worship.md)
+concepts: [Inner tīrthas](../concepts/inner-tirthas.md), [Images and forms for worshippers](../concepts/images-for-the-ignorant.md) · disputes: [Should consecrated images of the Jinas be worshipped?](../debates/image-worship-and-inner-worship.md)
 
 ### 5.1-14 <a id="tea-darsana-upanisad-5-1-14"></a>
 `skeleton` · confidence moderate
@@ -162,4 +162,4 @@ _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced �
 _Notes: Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

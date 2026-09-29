@@ -22,4 +22,4 @@ Renouncer-poet: a rich merchant of Kāvirippūmpaṭṭiṉam who renounced afte
 _Notes: The story is recalled at moderate confidence from the popular hagiography; details vary between tellings._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

@@ -1,6 +1,6 @@
 # The great departure (mahāprasthāna)
 
-`prc:mahaprasthana` · `skeleton` · confidence high · _restricted: summary only_
+`prc:mahaprasthana` · `sourced` · confidence high · _restricted: summary only_
 
 **Category:** sleep-dream-death
 **Convergence:** 2 independent lineage(s): [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -18,4 +18,8 @@ Summary only: at the end of life the Pāṇḍavas renounce the kingdom and walk
 _Notes: Recorded as restricted (a practice culminating in death); summary and the text's own framing only._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering) — MDh 6.31 (setting out to the north-east, living on water and air until the body falls) was found. Recorded in summary only. This rests on confirmed teaching checks: tea:manusmrti:6.31.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

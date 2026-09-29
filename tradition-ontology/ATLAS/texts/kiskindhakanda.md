@@ -22,6 +22,6 @@ The book of Kiṣkindhā: the alliance with Sugrīva, the killing of Vālin and 
 ---
 **Verification checks**
 
-- 2026-09-28 catalog: confirmed — catalog:GRETIL-dev:valmiki_ramayana_4, local:sources_raw/DharmicData/ValmikiRamayana (southern vulgate) book 4 — Book 4 of the Vālmīki Rāmāyaṇa, digitized in several local editions.
+- 2026-09-29 catalog: confirmed — catalog:GRETIL-dev:valmiki_ramayana_4, local:sources_raw/DharmicData/ValmikiRamayana (southern vulgate) book 4 — Book 4 of the Vālmīki Rāmāyaṇa, digitized in several local editions.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

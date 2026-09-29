@@ -9,4 +9,4 @@
 Teacher who taught Kṛṣṇa, son of Devakī, the doctrine of the person as sacrifice and the three sayings to be taken as refuge at death (ChU 3.17.6).
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

@@ -1,6 +1,6 @@
 # Kālanirṇaya of Mādhava
 
-`src:kalanirnaya-madhava` · `skeleton` · confidence low
+`src:kalanirnaya-madhava` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,4 +13,8 @@
 Mādhava's treatise on the proper times of rites, fasts and festivals.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:eBharati:kAlanirNayaH (mAdhavAchAryaH), https://en.wikipedia.org/wiki/Vidyaranya — Low-confidence entry confirmed as extant (eBhāratī, Mādhavācārya's Kālanirṇaya / Kālamādhava).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

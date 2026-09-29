@@ -31,7 +31,7 @@ The word (sphoṭa) is ascertained in the intellect when the sounds have planted
 
 _level: conventional · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language, consciousness-mind_
 
-terms: [sphoṭa](../terms/sphota.md), [nāda](../terms/nada.md), [dhvani](../terms/dhvani.md) · concepts: [Sphoṭa (the unitary meaning-bearer)](../concepts/sphota.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
+terms: [sphoṭa](../terms/sphota.md), [nāda](../terms/nada.md), [dhvani](../terms/dhvani.md) · concepts: [The sphoṭa (the meaning-bearing word)](../concepts/sphota.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
 
 ### 1 <a id="tea-vakyapadiya-1-3"></a>
 `skeleton` · confidence low
@@ -40,7 +40,7 @@ As a reflection situated elsewhere seems to follow the movement of the water, so
 
 _level: conventional · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language_
 
-terms: [sphoṭa](../terms/sphota.md), [dhvani](../terms/dhvani.md) · concepts: [Sphoṭa (the unitary meaning-bearer)](../concepts/sphota.md)
+terms: [sphoṭa](../terms/sphota.md), [dhvani](../terms/dhvani.md) · concepts: [The sphoṭa (the meaning-bearing word)](../concepts/sphota.md)
 
 ### 1 <a id="tea-vakyapadiya-1-4"></a>
 `skeleton` · confidence low
@@ -49,7 +49,7 @@ This speech is the consciousness (saṃjñā) of beings in saṃsāra, within an
 
 _level: conventional · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language, consciousness-mind_
 
-terms: [vāc](../terms/vac.md) · concepts: `cpt:word-permeated-cognition`
+terms: [vāc](../terms/vac.md) · concepts: [All cognition is permeated by the word (śabdānuviddha jñāna)](../concepts/word-permeated-cognition.md)
 
 ### 1 <a id="tea-vakyapadiya-1-5"></a>
 `skeleton` · confidence low
@@ -78,7 +78,7 @@ Brahman, without beginning or end, whose essence is the Word (śabda-tattva), th
 
 _level: bridging · standpoint: cosmic · path: knowledge, sound · stage: all · types: ultimate, sound-language_
 
-terms: [śabdabrahman](../terms/sabda-brahman.md), [śabdatattva](../terms/sabdatattva.md), [akṣara](../terms/aksara.md), [vivarta](../terms/vivarta.md) · concepts: [Word-brahman (śabdabrahman)](../concepts/sabda-brahman.md) · disputes: [Is Speech at the level of paśyantī (the grammarians' Word-Brahman) the ultimate reality?](../debates/pasyanti-brahman.md), `dsp:is-the-ultimate-speech`
+terms: [śabdabrahman](../terms/sabda-brahman.md), [śabdatattva](../terms/sabdatattva.md), [akṣara](../terms/aksara.md), [vivarta](../terms/vivarta.md) · concepts: [Word-brahman (śabdabrahman)](../concepts/sabda-brahman.md) · disputes: [Is Speech at the level of paśyantī (the grammarians' Word-Brahman) the ultimate reality?](../debates/pasyanti-brahman.md), [Is the ultimate of the nature of speech (śabdādvaita), and is all cognition word-permeated?](../debates/is-the-ultimate-speech.md)
 
 ### 1.2 <a id="tea-vakyapadiya-1-2"></a>
 `skeleton` · confidence high
@@ -98,7 +98,7 @@ Depending on its time-power (kāla-śakti), onto which divisions are superimpose
 
 _level: conventional · standpoint: cosmic · path: knowledge, sound · stage: all · types: ultimate, world-fate_
 
-terms: [kāla-śakti](../terms/kala-sakti.md) · concepts: `cpt:kala-sakti`
+terms: [kāla-śakti](../terms/kala-sakti.md) · concepts: [Time as the power of the Word-Brahman](../concepts/kala-sakti.md)
 
 ### 1.4 <a id="tea-vakyapadiya-1-4"></a>
 `skeleton` · confidence moderate
@@ -197,7 +197,7 @@ A matter inferred with effort by skilful reasoners is explained quite otherwise 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, sound-language_
 
-terms: [tarka](../terms/tarka.md), [anumāna](../terms/anumana.md) · disputes: `dsp:number-of-pramanas`
+terms: [tarka](../terms/tarka.md), [anumāna](../terms/anumana.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
 
 ### 1.37 <a id="tea-vakyapadiya-1-37"></a>
 `skeleton` · confidence low
@@ -215,7 +215,7 @@ Those who know words recognize two 'words' in utterances: one is the cause (the 
 
 _level: conventional · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language_
 
-terms: [sphoṭa](../terms/sphota.md), [dhvani](../terms/dhvani.md) · concepts: [Sphoṭa (the unitary meaning-bearer)](../concepts/sphota.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
+terms: [sphoṭa](../terms/sphota.md), [dhvani](../terms/dhvani.md) · concepts: [The sphoṭa (the meaning-bearing word)](../concepts/sphota.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
 
 ### 1.46 <a id="tea-vakyapadiya-1-46"></a>
 `skeleton` · confidence low
@@ -224,7 +224,7 @@ As light residing in the fire-sticks is the cause of other lights, so the word r
 
 _level: conventional · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language, consciousness-mind_
 
-terms: [sphoṭa](../terms/sphota.md), [buddhi](../terms/buddhi.md) · concepts: [Sphoṭa (the unitary meaning-bearer)](../concepts/sphota.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
+terms: [sphoṭa](../terms/sphota.md), [buddhi](../terms/buddhi.md) · concepts: [The sphoṭa (the meaning-bearing word)](../concepts/sphota.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
 
 ### 1.73 <a id="tea-vakyapadiya-1-73"></a>
 `skeleton` · confidence moderate
@@ -233,7 +233,7 @@ There are no letters in the word and no parts in the letters; there is no real s
 
 _level: ultimate · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language_
 
-terms: [apoddhāra](../terms/apoddhara.md), [vākya](../terms/vakya.md) · concepts: `cpt:sentence-as-unit`, [Sphoṭa (the unitary meaning-bearer)](../concepts/sphota.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md), [How does a sentence convey its meaning: by the connection of word-meanings already expressed (abhihitānvaya) or by words that express meanings already connected (anvitābhidhāna)?](../debates/sentence-meaning.md)
+terms: [apoddhāra](../terms/apoddhara.md), [vākya](../terms/vakya.md) · concepts: [The sentence as the indivisible unit of meaning (akhaṇḍa-vākya)](../concepts/sentence-as-unit.md), [The sphoṭa (the meaning-bearing word)](../concepts/sphota.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md), [How does a sentence convey its meaning: by the connection of word-meanings already expressed (abhihitānvaya) or by words that express meanings already connected (anvitābhidhāna)?](../debates/sentence-meaning.md)
 
 ### 1.123 <a id="tea-vakyapadiya-1-123"></a>
 `skeleton` · confidence high
@@ -244,7 +244,7 @@ There is no cognition in the world in which the word does not figure; all knowle
 
 _level: ultimate · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language, consciousness-mind_
 
-terms: [śabda](../terms/sabda.md), [pratyaya](../terms/pratyaya.md) · concepts: `cpt:word-permeated-cognition` · disputes: `dsp:is-the-ultimate-speech`
+terms: [śabda](../terms/sabda.md), [pratyaya](../terms/pratyaya.md) · concepts: [All cognition is permeated by the word (śabdānuviddha jñāna)](../concepts/word-permeated-cognition.md) · disputes: [Is the ultimate of the nature of speech (śabdādvaita), and is all cognition word-permeated?](../debates/is-the-ultimate-speech.md)
 
 ### 1.124 <a id="tea-vakyapadiya-1-124"></a>
 `skeleton` · confidence moderate
@@ -253,7 +253,7 @@ If the eternal word-nature (vāg-rūpatā) of awareness were to depart, light wo
 
 _level: ultimate · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language, consciousness-mind_
 
-terms: [vāgrūpatā](../terms/vagrupata.md), [pratyavamarśa](../terms/pratyavamarsa.md) · concepts: `cpt:word-permeated-cognition`
+terms: [vāgrūpatā](../terms/vagrupata.md), [pratyavamarśa](../terms/pratyavamarsa.md) · concepts: [All cognition is permeated by the word (śabdānuviddha jñāna)](../concepts/word-permeated-cognition.md)
 
 ### 1.142 <a id="tea-vakyapadiya-1-142"></a>
 `skeleton` · confidence moderate
@@ -271,7 +271,7 @@ The logicians hold many different views of the sentence: the verb; the collectio
 
 _level: conventional · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language, dispute_
 
-terms: [vākya](../terms/vakya.md) · concepts: `cpt:sentence-as-unit` · disputes: [How does a sentence convey its meaning: by the connection of word-meanings already expressed (abhihitānvaya) or by words that express meanings already connected (anvitābhidhāna)?](../debates/sentence-meaning.md)
+terms: [vākya](../terms/vakya.md) · concepts: [The sentence as the indivisible unit of meaning (akhaṇḍa-vākya)](../concepts/sentence-as-unit.md) · disputes: [How does a sentence convey its meaning: by the connection of word-meanings already expressed (abhihitānvaya) or by words that express meanings already connected (anvitābhidhāna)?](../debates/sentence-meaning.md)
 
 ### 2.143-145 <a id="tea-vakyapadiya-2-143-145"></a>
 `skeleton` · confidence moderate
@@ -280,7 +280,7 @@ When the meanings of the separate words are grasped, a flash of understanding (p
 
 _level: conventional · standpoint: experiential · path: knowledge, sound · stage: all · types: sound-language, consciousness-mind_
 
-terms: [prātibha](../terms/pratibha.md), [vākyārtha](../terms/vakyartha.md) · concepts: `cpt:pratibha-vyakarana` · disputes: [How does a sentence convey its meaning: by the connection of word-meanings already expressed (abhihitānvaya) or by words that express meanings already connected (anvitābhidhāna)?](../debates/sentence-meaning.md)
+terms: [prātibha](../terms/pratibha.md), [vākyārtha](../terms/vakyartha.md) · concepts: [Pratibhā: the flash of sentence meaning and instinct](../concepts/pratibha-vyakarana.md) · disputes: [How does a sentence convey its meaning: by the connection of word-meanings already expressed (abhihitānvaya) or by words that express meanings already connected (anvitābhidhāna)?](../debates/sentence-meaning.md)
 
 ### 2.146-152 <a id="tea-vakyapadiya-2-146-152"></a>
 `skeleton` · confidence moderate
@@ -289,7 +289,7 @@ No one goes beyond pratibhā in knowing what is to be done; all the world takes 
 
 _level: conventional · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language, consciousness-mind, powers-experiences_
 
-terms: [prātibha](../terms/pratibha.md) · concepts: `cpt:pratibha-vyakarana`
+terms: [prātibha](../terms/pratibha.md) · concepts: [Pratibhā: the flash of sentence meaning and instinct](../concepts/pratibha-vyakarana.md)
 
 ### 3.1 <a id="tea-vakyapadiya-3-1"></a>
 `skeleton` · confidence moderate
@@ -298,7 +298,7 @@ terms: [prātibha](../terms/pratibha.md) · concepts: `cpt:pratibha-vyakarana`
 
 _level: ultimate · standpoint: analytic · path: knowledge, sound · stage: all · types: ultimate, sound-language_
 
-terms: [jāti](../terms/jati.md), [sattā](../terms/satta.md) · concepts: `cpt:jati-dravya` · disputes: `dsp:jati-or-vyakti`
+terms: [jāti](../terms/jati.md), [satta](../terms/satta.md) · concepts: [What words denote: universal or substance](../concepts/jati-dravya.md) · disputes: [Does a word denote the universal (jāti, ākṛti) or the individual (vyakti, dravya)?](../debates/jati-or-vyakti.md)
 
 ### 3.2 <a id="tea-vakyapadiya-3-2"></a>
 `skeleton` · confidence moderate
@@ -307,7 +307,7 @@ terms: [jāti](../terms/jati.md), [sattā](../terms/satta.md) · concepts: `cpt:
 
 _level: ultimate · standpoint: analytic · path: knowledge, sound · stage: all · types: ultimate, sound-language_
 
-terms: [dravya](../terms/dravya.md), [sattā](../terms/satta.md) · concepts: `cpt:jati-dravya`, [Word-brahman (śabdabrahman)](../concepts/sabda-brahman.md) · disputes: `dsp:jati-or-vyakti`
+terms: [dravya](../terms/dravya.md), [satta](../terms/satta.md) · concepts: [What words denote: universal or substance](../concepts/jati-dravya.md), [Word-brahman (śabdabrahman)](../concepts/sabda-brahman.md) · disputes: [Does a word denote the universal (jāti, ākṛti) or the individual (vyakti, dravya)?](../debates/jati-or-vyakti.md)
 
 ### 3.3 <a id="tea-vakyapadiya-3-3"></a>
 `skeleton` · confidence low
@@ -325,7 +325,7 @@ terms: [śabdārtha-sambandha](../terms/sabdartha-sambandha.md), [yogyatā](../t
 
 _level: conventional · standpoint: cosmic · path: knowledge, sound · stage: all · types: world-fate, ultimate_
 
-terms: [kāla-śakti](../terms/kala-sakti.md) · concepts: `cpt:kala-sakti`
+terms: [kāla-śakti](../terms/kala-sakti.md) · concepts: [Time as the power of the Word-Brahman](../concepts/kala-sakti.md)
 
 ### 2 (closing verses) <a id="tea-vakyapadiya-2-2"></a>
 `skeleton` · confidence low
@@ -340,4 +340,4 @@ teachers: [Vyāḍi](../teachers/vyadi.md), [Patañjali (the grammarian)](../tea
 _Notes: Vākyapadīya numbering follows K. A. Subramania Iyer's edition; W. Rau's edition numbers kāṇḍa 1 differently after about v. 30, so the locator may need conversion. Not present in the local sources_raw mirror at Phase B._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

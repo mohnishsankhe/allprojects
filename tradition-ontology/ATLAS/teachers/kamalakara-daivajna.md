@@ -10,4 +10,4 @@
 Astronomer of Kāśī, author of the Siddhāntatattvaviveka (1658) in defence of the Saura school; distinct from Kamalākara Bhaṭṭa of the Nirṇayasindhu.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

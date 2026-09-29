@@ -1,6 +1,6 @@
 # Āpastamba Kalpasūtra
 
-`src:apastamba-kalpasutra` · `skeleton` · confidence moderate
+`src:apastamba-kalpasutra` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -16,4 +16,8 @@ The complete ritual corpus of the Āpastamba branch of the Taittirīya Black Yaj
 _Notes: Praśna division from memory; the grouping into four sūtras is certain._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://hindupedia.com/en/Apastamba — The praśna division, which the entry gives 'from memory', is confirmed: 1–24 Śrauta, 25–26 Mantrapāṭha, 27 Gṛhya, 28–29 Dharma, 30 Śulba (Hindupedia 'Apastamba').
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

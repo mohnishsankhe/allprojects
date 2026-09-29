@@ -29,7 +29,7 @@ Bowing to Ka (Brahmā) — one and many, the true deity, the supreme Brahman —
 
 _level: ultimate · standpoint: devotional · path: knowledge · stage: all · types: ultimate, world-fate_
 
-concepts: `cpt:jyotisa-ultimate` · teachers: [Āryabhaṭa](../teachers/aryabhata.md), [Brahmā (as first teacher)](../teachers/brahma.md)
+concepts: [The ultimate as named in jyotiṣa texts](../concepts/jyotisa-ultimate.md) · teachers: [Āryabhaṭa](../teachers/aryabhata.md), [Brahmā (as first teacher)](../teachers/brahma.md)
 
 ### 1.5 <a id="tea-aryabhatiya-1-5"></a>
 `skeleton` · confidence moderate
@@ -38,7 +38,7 @@ A day of Brahmā contains fourteen Manus, and a Manu seventy-two yugas; from the
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
-concepts: `cpt:yuga-system-jyotisa`, `cpt:kali-epoch` · teachers: [Āryabhaṭa](../teachers/aryabhata.md)
+concepts: [The yugas and kalpa in the siddhāntas](../concepts/yuga-system-jyotisa.md), [The epoch of the Kali age](../concepts/kali-epoch.md) · teachers: [Āryabhaṭa](../teachers/aryabhata.md)
 
 ### 3.9 <a id="tea-aryabhatiya-3-9"></a>
 `skeleton` · confidence moderate
@@ -47,7 +47,7 @@ The first half of the yuga is utsarpiṇī (ascending) and the latter half apasa
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
-concepts: `cpt:yuga-system-jyotisa` · teachers: [Āryabhaṭa](../teachers/aryabhata.md)
+concepts: [The yugas and kalpa in the siddhāntas](../concepts/yuga-system-jyotisa.md) · teachers: [Āryabhaṭa](../teachers/aryabhata.md)
 
 ### 3.10 <a id="tea-aryabhatiya-3-10"></a>
 `skeleton` · confidence high
@@ -56,7 +56,7 @@ When sixty times sixty years and three quarters of the yuga had elapsed, twenty-
 
 _level: conventional · standpoint: experiential · path: knowledge · stage: all · types: world-fate, teacher-transmission_
 
-concepts: `cpt:kali-epoch` · teachers: [Āryabhaṭa](../teachers/aryabhata.md)
+concepts: [The epoch of the Kali age](../concepts/kali-epoch.md) · teachers: [Āryabhaṭa](../teachers/aryabhata.md)
 
 ### 3.11 <a id="tea-aryabhatiya-3-11"></a>
 `skeleton` · confidence high
@@ -67,7 +67,7 @@ The yuga, year, month and day all began together at the beginning of the bright 
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
-terms: [kāla](../terms/kala.md) · concepts: `cpt:two-kinds-of-time` · teachers: [Āryabhaṭa](../teachers/aryabhata.md)
+terms: [kāla](../terms/kala.md) · concepts: [The two kinds of time](../concepts/two-kinds-of-time.md) · teachers: [Āryabhaṭa](../teachers/aryabhata.md)
 
 ### 4.9 <a id="tea-aryabhatiya-4-9"></a>
 `skeleton` · confidence high
@@ -78,7 +78,7 @@ As a man in a boat moving forward sees stationary objects moving backward, so at
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate, dispute_
 
-teachers: [Āryabhaṭa](../teachers/aryabhata.md) · disputes: `dsp:earth-rotation`
+teachers: [Āryabhaṭa](../teachers/aryabhata.md) · disputes: [Does the earth rotate, or do the stars revolve around a fixed earth?](../debates/earth-rotation.md)
 
 ### 4.37 <a id="tea-aryabhatiya-4-37"></a>
 `skeleton` · confidence high
@@ -89,7 +89,7 @@ The moon covers the sun, and the great shadow of the earth covers the moon.
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
-concepts: `cpt:eclipse-doctrine` · teachers: [Āryabhaṭa](../teachers/aryabhata.md) · disputes: `dsp:eclipse-cause`
+concepts: [The doctrine of eclipses](../concepts/eclipse-doctrine.md) · teachers: [Āryabhaṭa](../teachers/aryabhata.md) · disputes: [Is an eclipse caused by Rāhu or by shadow?](../debates/eclipse-cause.md)
 
 ### 4.49 <a id="tea-aryabhatiya-4-49"></a>
 `skeleton` · confidence high
@@ -100,7 +100,7 @@ From the ocean of true and false knowledge, by the grace of Brahmā, the excelle
 
 _level: conventional · standpoint: divine · path: knowledge · stage: all · types: world-fate, teacher-transmission_
 
-concepts: `cpt:jyotisa-revelation` · teachers: [Āryabhaṭa](../teachers/aryabhata.md), [Brahmā (as first teacher)](../teachers/brahma.md)
+concepts: [The revealed origin of jyotiṣa](../concepts/jyotisa-revelation.md) · teachers: [Āryabhaṭa](../teachers/aryabhata.md), [Brahmā (as first teacher)](../teachers/brahma.md)
 
 ### 4.50 <a id="tea-aryabhatiya-4-50"></a>
 `skeleton` · confidence moderate
@@ -109,10 +109,10 @@ Whoever makes a counterfeit of this work (the Āryabhaṭīya) loses his good de
 
 _level: conventional · standpoint: ethical-social · path: knowledge · stage: all · types: world-fate, teacher-transmission, ethics_
 
-concepts: `cpt:jyotisa-transmission` · teachers: [Āryabhaṭa](../teachers/aryabhata.md)
+concepts: [Teacher, pupil and the handing down of jyotiṣa](../concepts/jyotisa-transmission.md) · teachers: [Āryabhaṭa](../teachers/aryabhata.md)
 
 
 _Notes: Local e-text with Bhāskara I's commentary (GRETIL). Correction to the unit brief: the text states the author's age at 3600 Kali (= 499 CE), not an explicit composition date._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

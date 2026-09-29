@@ -23,8 +23,8 @@ The Advaitin may take part in debate on the basis of the practices accepted by b
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, sound-language_
 
-teachers: [Śrīharṣa](../teachers/sriharsa.md) · disputes: [Can valid cognition, the means of knowledge and the categories be coherently defined (and so difference established)?](../debates/khandana-definability.md), `dsp:number-of-pramanas`
+teachers: [Śrīharṣa](../teachers/sriharsa.md) · disputes: [Can valid cognition, the means of knowledge and the categories be coherently defined (and so difference established)?](../debates/khandana-definability.md), [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

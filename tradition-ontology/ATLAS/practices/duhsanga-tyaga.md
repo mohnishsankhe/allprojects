@@ -12,4 +12,4 @@ Avoiding in every way the company that breeds desire, anger, delusion, loss of m
   - [Nārada Bhakti Sūtra](../texts/narada-bhakti-sutra.md) — ref: 43-45; 63; rests_on: ["tea:narada-bhakti-sutra:43-45", "tea:narada-bhakti-sutra:63-65"]
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

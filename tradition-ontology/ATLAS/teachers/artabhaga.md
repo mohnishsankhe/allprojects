@@ -9,4 +9,4 @@
 Questions Yājñavalkya on the eight graspers and over-graspers and on what remains of a person at death; they go aside and speak of karma (BAU 3.2).
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

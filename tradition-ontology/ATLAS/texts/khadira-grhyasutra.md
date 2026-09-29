@@ -1,6 +1,6 @@
 # Khādira Gṛhyasūtra
 
-`src:khadira-grhyasutra` · `skeleton` · confidence low
+`src:khadira-grhyasutra` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 The domestic-rite manual of the Rāṇāyanīya (Drāhyāyaṇa) Sāmavedins, an abridgement close to Gobhila.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:DCS:Khādiragṛhyasūtra, catalog:eBharati:khAdiragRhyasUtram — Low-confidence entry confirmed as extant (DCS, eBhāratī).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

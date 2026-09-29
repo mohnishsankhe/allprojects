@@ -15,4 +15,4 @@ True renunciation is the giving up of the mind itself, the root of all; outer re
   - [Pattirakiriyār: Meyññāṉap pulampal (lament for true knowledge)](../texts/bhadragiriyar-meynana-pulampal.md) — ref: 8, 13; rests_on: ["tea:bhadragiriyar-meynana-pulampal:8", "tea:bhadragiriyar-meynana-pulampal:13"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

@@ -10,11 +10,11 @@ Yes (saṃplava): fire is known from testimony, inferred from smoke and perceive
 - NBh 1.1.3.
 **Texts:** 
   - [Nyāyabhāṣya](../texts/nyaya-bhasya.md) — ref: 1.1.3
-### `lin:pramana-buddhist`
+### [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
 No (vyavasthā): perception grasps only unique particulars and inference only universals; the two means have distinct objects.
 - Dignāga (as usually reported).
 **Texts:** 
-  - `src:pramanasamuccaya` — ref: ch. 1 (from memory)
+  - [Pramāṇasamuccaya](../texts/pramanasamuccaya.md) — ref: ch. 1 (from memory)
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -24,4 +24,4 @@ No (vyavasthā): perception grasps only unique particulars and inference only un
 **Candidate readings:** P2-standpoint: the disagreement follows from different ontologies of the object (enduring thing with universals vs. momentary particular).
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

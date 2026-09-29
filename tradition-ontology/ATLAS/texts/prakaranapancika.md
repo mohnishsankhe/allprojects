@@ -44,7 +44,7 @@ How many means of knowledge are there? 'Fivefold is the means of knowledge': per
 
 _level: unmarked · standpoint: analytic · path: general · stage: all · types: consciousness-mind_
 
-terms: [pratyakṣa](../terms/pratyaksa.md), [arthāpatti](../terms/arthapatti.md) · concepts: [Means of valid knowledge (pramāṇa)](../concepts/means-of-knowledge.md) · teachers: [Prabhākara Miśra](../teachers/prabhakara.md) · disputes: `dsp:number-of-pramanas`
+terms: [pratyakṣa](../terms/pratyaksa.md), [arthāpatti](../terms/arthapatti.md) · concepts: [Means of valid knowledge (pramāṇa)](../concepts/means-of-knowledge.md) · teachers: [Prabhākara Miśra](../teachers/prabhakara.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
 
 ### 6/2 <a id="tea-prakaranapancika-6-2"></a>
 `skeleton` · confidence high
@@ -64,7 +64,7 @@ The relation of word and meaning is not made by a person; it is known from the b
 
 _level: unmarked · standpoint: analytic · path: sound · stage: all · types: sound-language, teacher-transmission_
 
-terms: [vṛddha-vyavahāra](../terms/vrddha-vyavahara.md), [autpattika-sambandha](../terms/autpattika-sambandha.md) · concepts: [The original relation of word and meaning](../concepts/autpattika-sambandha.md), [Anvitābhidhāna (expression of the connected)](../concepts/anvitabhidhana.md) · disputes: `dsp:status-of-veda`
+terms: [vṛddha-vyavahāra](../terms/vrddha-vyavahara.md), [autpattika-sambandha](../terms/autpattika-sambandha.md) · concepts: [The original relation of word and meaning](../concepts/autpattika-sambandha.md), [Anvitābhidhāna (expression of the connected)](../concepts/anvitabhidhana.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 7/2 <a id="tea-prakaranapancika-7-2"></a>
 `skeleton` · confidence high
@@ -73,7 +73,7 @@ There is no proof that everything arises or perishes at one time; things arise a
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate, dispute_
 
-concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Creation and dissolution of the world](../concepts/creation-and-dissolution.md) · disputes: `dsp:isvara`, [Was the world created, and does it undergo total dissolution?](../debates/creation-and-dissolution.md)
+concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Creation and dissolution of the world](../concepts/creation-and-dissolution.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Was the world created, and does it undergo total dissolution?](../debates/creation-and-dissolution.md)
 
 ### 8 <a id="tea-prakaranapancika-8"></a>
 `skeleton` · confidence high
@@ -82,7 +82,7 @@ The self is distinct from cognition, senses and body; all-pervading, permanent, 
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: [ātman](../terms/atman.md) · concepts: [The self (ātman)](../concepts/self.md), [Triple manifestation (tripuṭī-pratyakṣa)](../concepts/triputi-pratyaksa.md) · disputes: `dsp:is-there-a-self`, [Is the self known as an object (of the 'I'-cognition), or only as the subject of every cognition?](../debates/self-known-as-object.md)
+terms: [ātman](../terms/atman.md) · concepts: [The self (ātman)](../concepts/self.md), [Triple manifestation (tripuṭī-pratyakṣa)](../concepts/triputi-pratyaksa.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Is the self known as an object (of the 'I'-cognition), or only as the subject of every cognition?](../debates/self-known-as-object.md)
 
 ### 8/2 <a id="tea-prakaranapancika-8-2"></a>
 `skeleton` · confidence high
@@ -115,4 +115,4 @@ concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md
 
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

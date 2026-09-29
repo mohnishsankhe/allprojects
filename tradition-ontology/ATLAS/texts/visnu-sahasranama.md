@@ -33,7 +33,7 @@ Asked by Yudhiṣṭhira which is the one deity, the highest refuge, and by what
 
 _level: bridging · standpoint: devotional · path: sound, devotion · stage: all · types: sound-language, karma-liberation, practice_
 
-practices: [Recitation of the thousand names of Viṣṇu](../practices/visnu-sahasranama-recitation.md), [Recitation (japa)](../practices/japa.md) · teachers: [Bhīṣma (Devavrata, Gāṅgeya)](../teachers/bhisma.md), [Yudhiṣṭhira (Dharmarāja)](../teachers/yudhisthira.md)
+practices: [Recitation of the thousand names of Viṣṇu](../practices/visnu-sahasranama-recitation.md), [Mantra repetition (japa)](../practices/japa.md) · teachers: [Bhīṣma (Devavrata, Gāṅgeya)](../teachers/bhisma.md), [Yudhiṣṭhira (Dharmarāja)](../teachers/yudhisthira.md)
 
 ### 13.135.14 <a id="tea-visnu-sahasranama-13-135-14"></a>
 `sourced` · confidence high
@@ -52,6 +52,6 @@ _Notes: Commentaries attributed to Śaṅkara (src:visnu-sahasranama-bhasya-sank
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_13.json (BORI Critical Edition text) 13.135.14 viśvaṃ viṣṇur vaṣaṭkāro; 142 verses, catalog:raw_etexts:vishnu_sahasranama — Section located at CE 13.135 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+- 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_13.json (BORI Critical Edition text) 13.135.14 viśvaṃ viṣṇur vaṣaṭkāro; 142 verses, catalog:raw_etexts:vishnu_sahasranama — Section located at CE 13.135 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

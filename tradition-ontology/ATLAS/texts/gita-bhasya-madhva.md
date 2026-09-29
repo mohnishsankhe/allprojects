@@ -37,6 +37,6 @@ _Notes: Introduction checked against the Devanāgarī e-text in sources_raw/raw_
 ---
 **Verification checks**
 
-- 2026-09-28 catalog: confirmed — local:sources_raw/raw_etexts/vedAntam/dvaitam/mAdhvam/sarvamulam/gItAprasthAnam/geetabhasyam.md, https://en.wikipedia.org/wiki/List_of_works_by_Madhvacharya — Extant and digitized (Śrīmadbhagavadgītābhāṣya of Ānandatīrtha, local).
+- 2026-09-29 catalog: confirmed — local:sources_raw/raw_etexts/vedAntam/dvaitam/mAdhvam/sarvamulam/gItAprasthAnam/geetabhasyam.md, https://en.wikipedia.org/wiki/List_of_works_by_Madhvacharya — Extant and digitized (Śrīmadbhagavadgītābhāṣya of Ānandatīrtha, local).
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

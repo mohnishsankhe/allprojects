@@ -19,4 +19,4 @@
 A reconstruction of the sequence implied by the texts, not a map the tradition itself numbers. Heaven receives no band because it is not liberation; the bands are interpretive (interpretation layer).
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

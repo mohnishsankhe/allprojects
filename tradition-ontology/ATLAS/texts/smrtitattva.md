@@ -1,6 +1,6 @@
 # Smṛtitattva of Raghunandana
 
-`src:smrtitattva` · `skeleton` · confidence moderate
+`src:smrtitattva` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -14,4 +14,8 @@
 Raghunandana's series of twenty-eight 'essences' (tattva) on ritual, time, impurity, śrāddha, inheritance and expiation, the authority for Bengal.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.banglapedia.org/index.php/Raghunandan_Bhattacharya, https://www.wisdomlib.org/definition/smrititattva — Confirmed: Raghunandana (c. 1510–1580) of Bengal; the Smṛtitattva was composed c. 1550 (Wisdomlib; Banglapedia). This matches the entry's 1520–1580. The count of 28 tattvas was not checked.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

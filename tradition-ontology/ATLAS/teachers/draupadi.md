@@ -14,6 +14,6 @@ _Notes: Linked in BhG ch. 1–3 at 1.6, 1.18._
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 3.29.1 and 3.31.1 [draupadī], 3.31.22, 12.14.2 — Located as described.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 3.29.1 and 3.31.1 [draupadī], 3.31.22, 12.14.2 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 16:38 IST._

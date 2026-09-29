@@ -11,5 +11,6 @@ The teacher whose view that 'the mantras are meaningless' (anarthakā hi mantrā
 **Verification checks**
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (Sarup ed., GRETIL) — Located: 'iti kautso 'narthakā hi mantrāḥ' (Nirukta 1.15), refuted in 1.16.
+- 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (GRETIL, Sarup ed.) — Text-located: Nir 1.15 'anarthakā hi mantrā iti kautsaḥ'; refuted in 1.16.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

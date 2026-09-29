@@ -19,7 +19,7 @@ King Bṛhadratha, disgusted with the body and the world, is taught by Śākāya
   - kind: translation; name: R. E. Hume, The Thirteen Principal Upanishads (1921); licence: public domain in some jurisdictions
   - kind: original; name: E. B. Cowell, The Maitrī or Maitrāyaṇīya Upanishad (Bibliotheca Indica); licence: public domain
 
-## Teachings (25: skeleton 25)
+## Teachings (25: skeleton 24, sourced 1)
 
 ### 1.2-4 <a id="tea-maitri-upanisad-1-2-4"></a>
 `skeleton` · confidence moderate
@@ -121,7 +121,7 @@ _level: bridging · standpoint: analytic · path: knowledge, sound · stage: int
 terms: [oṃ](../terms/om.md) · concepts: [The two forms of brahman](../concepts/two-forms-of-brahman.md)
 
 ### 6.9 <a id="tea-maitri-upanisad-6-9"></a>
-`skeleton` · confidence low
+`sourced` · confidence low
 
 The knower offers food into the breaths — to prāṇa, apāna, vyāna, samāna and udāna with svāhā — and so the food he eats becomes an offering in the self; thus he worships the self through food.
 
@@ -230,7 +230,7 @@ Now, O king, the obstacles to knowledge (jñānopasarga), the source of the net 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, ethics_
 
-teachers: [Śākāyanya](../teachers/sakayanya.md), [Bṛhadratha](../teachers/brhadratha.md) · disputes: `dsp:is-there-a-self`, `dsp:status-of-veda`
+teachers: [Śākāyanya](../teachers/sakayanya.md), [Bṛhadratha](../teachers/brhadratha.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 7.9-10 <a id="tea-maitri-upanisad-7-9-10"></a>
 `skeleton` · confidence high
@@ -239,7 +239,7 @@ Bṛhaspati, becoming Śukra, created this ignorance for Indra's safety and the 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, teacher-transmission_
 
-concepts: [Knowledge and ignorance (vidyā and avidyā)](../concepts/vidya-avidya.md) · disputes: `dsp:status-of-veda`
+concepts: [Knowledge and ignorance (vidyā and avidyā)](../concepts/vidya-avidya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 7.11 <a id="tea-maitri-upanisad-7-11"></a>
 `skeleton` · confidence high
@@ -254,4 +254,4 @@ terms: [Turīya](../terms/turiya.md) · concepts: [Waking, dream, deep sleep and
 _Notes: Refs follow the common Cowell/van Buitenen numbering; spot-checked sections 5.2, 6.18-6.24, 6.34 and 7.8-7.11 against the e-text in sources_raw. Veda affiliation: Black Yajurveda, Maitrāyaṇīya śākhā (the Muktikā list places it under the Sāmaveda)_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

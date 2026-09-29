@@ -44,4 +44,4 @@ RESTRICTED — summary only: the tongue, turned back, enters the cavity above th
 _Notes: U22 contribution to the shared entry; section title checked in the local TM e-text._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

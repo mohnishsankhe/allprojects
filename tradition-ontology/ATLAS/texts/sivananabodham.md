@@ -30,7 +30,7 @@ The world, spoken of as 'he, she and it', undergoes origination, maintenance and
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: ultimate, world-fate_
 
-terms: [pati](../terms/pati.md), [mala](../terms/mala.md) · concepts: [Pati, paśu, pāśa — the Lord, the bound soul, the bonds](../concepts/pati-pasu-pasa.md), [Śiva's five acts (pañcakṛtya)](../concepts/five-acts-of-siva.md) · disputes: `dsp:isvara`, `dsp:causation`
+terms: [pati](../terms/pati.md), [mala](../terms/mala.md) · concepts: [Pati, paśu, pāśa — the Lord, the bound soul, the bonds](../concepts/pati-pasu-pasa.md), [Śiva's five acts (pañcakṛtya)](../concepts/five-acts-of-siva.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), `dsp:causation`
 
 ### 2 <a id="tea-sivananabodham-2"></a>
 `skeleton` · confidence high
@@ -48,7 +48,7 @@ There is a soul within the body distinct from it: it denies that it is this or t
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: [paśu](../terms/pasu.md) · concepts: [The soul as sadasat](../concepts/soul-as-sadasat.md) · disputes: `dsp:is-there-a-self`
+terms: [paśu](../terms/pasu.md) · concepts: [The soul as sadasat](../concepts/soul-as-sadasat.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 4 <a id="tea-sivananabodham-4"></a>
 `skeleton` · confidence high
@@ -133,4 +133,4 @@ terms: [aṭiyār](../terms/atiyar.md) · concepts: [Liberation while living (j�
 
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

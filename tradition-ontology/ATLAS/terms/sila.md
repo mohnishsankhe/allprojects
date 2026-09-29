@@ -1,17 +1,21 @@
-# śīla
+# sīla
 
 `trm:sila` · `skeleton` · confidence high
 
-**Language:** Sanskrit
+**Language:** Pali
 **Native script:** शील
-**Literal:** virtuous disposition
+**Literal:** virtue, ethical conduct
 
 ## Definitions by tradition
+- [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): Abstention from killing, stealing, unchastity or sexual misconduct, false and harsh speech and the rest (DN 2); the first training, which purifies wisdom as wisdom purifies it (DN 4); its purpose is non-remorse (AN 11.1).
 - [Pañcācārya (Pañcapīṭha) tradition](../lineages/pancacarya.md): Inquiry into Śiva's principle; steady feeling in Śiva; single steadfastness in Śiva-knowledge, like a faithful wife's conduct (SSM 13.30–36).
+- [Theravāda](../lineages/theravada.md): Virtue: volition, concomitants, restraint and non-transgression; fourfold purity for monks.
 
 ## Forms in other languages
+- Sanskrit: śīla  — exact
 
 ## Equivalents (interpretation layer)
+**Related:** [sikkhā](sikkha.md), [pātimokkha](patimokkha.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U20-virasaiva, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._

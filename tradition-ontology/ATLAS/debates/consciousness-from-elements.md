@@ -11,7 +11,7 @@ No: consciousness is not found in the elements separately, nor in combination; p
 **Texts:** 
   - [Sāṃkhya Sūtra](../texts/samkhya-sutra.md) — ref: 3.20-22; 5.129; 6.1-3
   - [Sāṃkhya Kārikā](../texts/samkhya-karika.md) — ref: 17
-### `lin:carvaka`
+### [Cārvāka / Lokāyata](../lineages/carvaka.md)
 Yes: consciousness arises from the combination of elements, as intoxicating power from ingredients.
 - Stated as the opponent's view in SS 3.22; Cārvāka's own sūtras survive only in quotations.
 **Texts:** 
@@ -24,4 +24,4 @@ Yes: consciousness arises from the combination of elements, as intoxicating powe
 **Candidate readings:** P1-level: the materialist account as a description of embodied consciousness only (rejected by both).
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._

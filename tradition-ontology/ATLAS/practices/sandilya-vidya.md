@@ -13,4 +13,4 @@ In tranquillity, venerate all this as brahman — that from which it arises, int
 _Notes: Upaniṣadic 'vidyā' (meditation-knowledge); the Brahma Sūtra (3.3) discusses which vidyās are to be combined._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

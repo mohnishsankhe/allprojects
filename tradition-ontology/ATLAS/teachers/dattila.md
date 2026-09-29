@@ -10,4 +10,4 @@
 Author of the Dattilam on gāndharva; named among Bharata's sons in the Nāṭyaśāstra and among music's authorities (ŚR 1.1.16).
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

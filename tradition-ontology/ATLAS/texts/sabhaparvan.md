@@ -22,6 +22,6 @@ The book of the assembly hall: Yudhiṣṭhira's royal consecration, the dice ga
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_2.json (BORI Critical Edition text) book 2: 72 chapters — Book 2 has exactly 72 chapters in the local Critical Edition text, as entered.
+- 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_2.json (BORI Critical Edition text) book 2: 72 chapters — Book 2 has exactly 72 chapters in the local Critical Edition text, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

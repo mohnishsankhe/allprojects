@@ -25,4 +25,4 @@ terms: [puṣṭi](../terms/pusti.md), [maryādā](../terms/maryada.md), [pravā
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._

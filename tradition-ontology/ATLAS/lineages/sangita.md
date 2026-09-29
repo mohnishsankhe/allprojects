@@ -49,7 +49,7 @@ The classical science of music as recorded from the Nāradīya Śikṣā, Dattil
 [Abhinavagupta](../teachers/abhinavagupta.md), [Ahobala](../teachers/ahobala.md), [Annamācārya (Tāḷḷapāka Annamayya)](../teachers/annamacarya.md), [Bharata (Bharata Muni)](../teachers/bharata-muni.md), [Dāmodara (author of the Saṅgītadarpaṇa)](../teachers/damodara-sangitadarpana.md), [Dattila](../teachers/dattila.md), [Govinda Dīkṣita](../teachers/govinda-diksita.md), [Kallinātha](../teachers/kallinatha.md), [Kohala](../teachers/kohala.md), [Kṣetrayya](../teachers/ksetrayya.md), [Kumbhakarṇa (Rāṇā Kumbhā)](../teachers/kumbhakarna.md), [Kumbhakarṇa (Mahārāṇā Kumbhā of Mewar)](../teachers/kumbhakarna-mewar.md), [Mataṅga](../teachers/matanga.md), [Muttusvāmi Dīkṣitar](../teachers/muttusvami-diksitar.md), [Nandikeśvara](../teachers/nandikesvara.md), [Nānyadeva](../teachers/nanyadeva.md), [Nārada](../teachers/narada.md), [Pārśvadeva](../teachers/parsvadeva.md), [Puṇḍarīka Viṭṭhala](../teachers/pundarika-vitthala.md), [Purandara Dāsa](../teachers/purandara-dasa.md), [Rāmāmātya](../teachers/ramamatya.md), [Śārṅgadeva](../teachers/sarngadeva.md), [Siṃhabhūpāla](../teachers/simhabhupala.md), [Somanātha (author of the Rāgavibodha)](../teachers/somanatha-ragavibodha.md), [Someśvara III](../teachers/somesvara-iii.md), [Svāmī Haridās](../teachers/svami-haridas.md), [Svāti Tirunāḷ](../teachers/svati-tirunal.md), [Śyāmā Śāstrī](../teachers/syama-sastri.md), [Tānsen](../teachers/tansen.md), [Tumburu](../teachers/tumburu.md), [Tyāgarāja](../teachers/tyagaraja.md), [Veṅkaṭamakhin](../teachers/venkatamakhin.md)
 
 ## Practices
-_none recorded_
+[Devotional singing (bhajana, bhajan)](../practices/bhajana.md), [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md), [Worship through nāda (music as spiritual practice)](../practices/nadopasana.md), [The preliminaries of performance (pūrvaraṅga)](../practices/purvaranga.md)
 
 ## Path maps
 _none recorded_
@@ -58,4 +58,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

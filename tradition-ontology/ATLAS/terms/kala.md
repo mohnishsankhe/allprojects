@@ -15,14 +15,17 @@
 - [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md): The insentient part of the effect, dependent on the sentient: ten 'effects' (five elements, five qualities) and thirteen 'instruments' (ten senses, buddhi, ahaṃkāra, manas); they are the bonds.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Time: 'I am Time, the destroyer of worlds' (BhG 11.32); 'Time takes all and gives all' (Bali, MBh 12.217.25); time is the sixth with the five eternal elements (12.267); in the Gautamī story, Time points to karma (13.1).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Time: a candidate cause (ŚU 1.2) rejected as the cause (6.1); God is the maker of time (6.2, 6.16); two forms of brahman, time and the timeless (MaiU 6.15-16).
+- [Jyotiṣa (the science of the lights)](../lineages/jyotisa.md): In jyotiṣa, time is twofold: the time that ends the worlds, and reckonable time, gross (from the prāṇa) and subtle (from the truṭi) (SS 1.10–11); without beginning or end, it is inferred from the planets and stars (Āryabhaṭīya 3.11).
+- [Jainism (Jaina dharma)](../lineages/jainism.md): The substance that makes possible continuity, change, activity and priority (TS 5.22); for the Digambaras a real substance consisting of innumerable time-atoms, one in each space-point; for some Śvetāmbaras only a mode of other substances ('according to some', Śv 5.38). Conventional time is measured by the luminaries.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): A subtle stage of the praṇava after nāda and bindu; a light seen in the west.
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): Time, a form of Viṣṇu that joins and separates pradhāna and puruṣa (VP 1.2); the Lord's form that carries off all beings (BhP 12.4.36-38).
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): An eternal insentient substance without the guṇas, the Lord's body and instrument; in the eternal realm time exists but does not govern.
 
 ## Forms in other languages
+- Prakrit: kāla  — exact
 
 ## Equivalents (interpretation layer)
 **Related:** [sākṣin](saksin.md), [pāśa](pasa.md), [kārya](karya.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U01-vedic-samhitas, skeleton:U06-other-gitas, skeleton:U11-nyaya-vaisesika, skeleton:U17-pasupata-kapalika, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U07-puranas, skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U01-vedic-samhitas, skeleton:U06-other-gitas, skeleton:U11-nyaya-vaisesika, skeleton:U17-pasupata-kapalika, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U32-jyotisa, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U07-puranas, skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._

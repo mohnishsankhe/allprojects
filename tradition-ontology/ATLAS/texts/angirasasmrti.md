@@ -1,6 +1,6 @@
 # Āṅgirasasmṛti
 
-`src:angirasasmrti` · `skeleton` · confidence low
+`src:angirasasmrti` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,4 +13,8 @@ A short smṛti ascribed to Aṅgiras, chiefly on expiation.
 _Notes: Local copy: gretil 4_dharma/smrti/angirasasmrti._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:GRETIL:AGgirasasmRti, catalog:GRETIL-dev:angirasasmrti_plain_text_version, catalog:raw_etexts:AngIrasa-smRtiH — Low-confidence entry confirmed as extant (GRETIL).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

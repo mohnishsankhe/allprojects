@@ -111,7 +111,7 @@ False knowledge about the objects of knowledge takes many forms: of the self, 'i
 
 _level: unmarked · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation, dispute_
 
-terms: [mithyājñāna](../terms/mithyajnana.md), [tattvajñāna](../terms/tattvajnana.md), [apavarga](../terms/apavarga.md), [sukha](../terms/sukha.md) · concepts: [The chain from false knowledge to liberation (NS 1.1.2)](../concepts/nyaya-chain-of-liberation.md), [Liberation (apavarga) as the end of pain](../concepts/apavarga-nyaya.md) · obstacles: [False knowledge (mithyājñāna)](../obstacles/mithyajnana-nyaya.md) · disputes: [Does liberation contain bliss (and consciousness)?](../debates/bliss-in-liberation.md), `dsp:is-there-a-self`
+terms: [mithyājñāna](../terms/mithyajnana.md), [tattvajñāna](../terms/tattvajnana.md), [apavarga](../terms/apavarga.md), [sukha](../terms/sukha.md) · concepts: [The chain from false knowledge to liberation (NS 1.1.2)](../concepts/nyaya-chain-of-liberation.md), [Liberation (apavarga) as the end of pain](../concepts/apavarga-nyaya.md) · obstacles: [False knowledge (mithyājñāna)](../obstacles/mithyajnana-nyaya.md) · disputes: [Does liberation contain bliss (and consciousness)?](../debates/bliss-in-liberation.md), [Is there a self?](../debates/is-there-a-self.md)
 
 ### 1.1.2 <a id="tea-nyaya-bhasya-1-1-2-2"></a>
 `skeleton` · confidence high
@@ -204,7 +204,7 @@ What is the validity of Āyurveda? That what it teaches — 'doing this one obta
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: sound-language, dispute_
 
-terms: [āpta](../terms/apta.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: `dsp:status-of-veda`
+terms: [āpta](../terms/apta.md) · concepts: [The Veda as authored by a reliable speaker](../concepts/veda-authorship-nyaya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 3.2.1 <a id="tea-nyaya-bhasya-3-2-1"></a>
 `skeleton` · confidence high
@@ -224,7 +224,7 @@ terms: [buddhi](../terms/buddhi.md)
 
 _level: unmarked · standpoint: divine · path: knowledge, devotion · stage: unmarked · types: ultimate, powers-experiences, dispute_
 
-terms: [īśvara](../terms/isvara.md), [adṛṣṭa](../terms/adrsta.md), [āpta](../terms/apta.md) · concepts: [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: `dsp:isvara`
+terms: [īśvara](../terms/isvara.md), [adṛṣṭa](../terms/adrsta.md), [āpta](../terms/apta.md) · concepts: [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### 4.2.2 <a id="tea-nyaya-bhasya-4-2-2"></a>
 `skeleton` · confidence high
@@ -268,4 +268,4 @@ practices: [Repeated study of the science of the self](../practices/jnanagrahana
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

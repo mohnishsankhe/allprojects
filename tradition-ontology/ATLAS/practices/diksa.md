@@ -1,6 +1,6 @@
 # Initiation (dīkṣā) in the Kaula way
 
-`prc:diksa` · `skeleton` · confidence high
+`prc:diksa` · `sourced` · confidence high
 
 **Category:** ritual
 **Convergence:** 6 independent lineage(s): [Kaula (the Kula tradition)](../lineages/kaula.md), [Kerala tantra (temple-tantra tradition of Kerala)](../lineages/kerala-tantra.md), [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md), [Pāñcarātra](../lineages/pancaratra.md), [Śaiva Siddhānta](../lineages/saiva-siddhanta.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -22,4 +22,8 @@ After mutual testing, the guru initiates by touch, sight or piercing; Śākta in
 - For the capable the observances remain binding; knowingly breaking them is a great fault. — [Kiraṇatantra](../texts/kirana-tantra.md) 6.10-13
 
 ---
-_Contributed by: skeleton:U24-kali-kaula, skeleton:U02-brahmana-vedanga, skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/dcs/dcs/data/conllu/files/Aitareyabrāhmaṇa (DCS, pañcikā.khaṇḍa) — AB 1.3 (the consecrated sacrificer made an embryo) was found. This rests on confirmed teaching checks: tea:aitareya-brahmana:1.3.
+
+_Contributed by: skeleton:U24-kali-kaula, skeleton:U02-brahmana-vedanga, skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

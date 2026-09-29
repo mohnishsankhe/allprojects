@@ -3,8 +3,8 @@
 `prc:vairagya` · `skeleton` · confidence high
 
 **Category:** mind-training
-**Convergence:** 3 independent lineage(s): [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Sāṃkhya](../lineages/samkhya.md), [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
-**Taught in:** [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Sāṃkhya](../lineages/samkhya.md), [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
+**Convergence:** 4 independent lineage(s): [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Sāṃkhya](../lineages/samkhya.md), [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
+**Taught in:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Sāṃkhya](../lineages/samkhya.md), [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
 
 Turning away from objects by seeing the faults of acquiring, guarding, losing, attachment and harm (external dispassion), and seeing even pradhāna as like a dream or magic show (internal dispassion); with practice, a support of meditation.
 **Stage:** all
@@ -21,6 +21,7 @@ Turning away from objects by seeing the faults of acquiring, guarding, losing, a
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 1.16; rests_on: ["tea:yoga-bhasya:1.16"]
   - [Kaṭuveḷic cittar: Āṉantak kaḷippu (the Joy-song)](../texts/kaduveli-ananda-kalippu.md) — ref: 3; rests_on: ["tea:kaduveli-ananda-kalippu:3"]
   - [Pattirakiriyār: Meyññāṉap pulampal (lament for true knowledge)](../texts/bhadragiriyar-meynana-pulampal.md) — ref: 54; rests_on: ["tea:bhadragiriyar-meynana-pulampal:54"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.35; rests_on: ["tea:bhagavad-gita:6.35"]
 **Sequences:** [The Sāṃkhya Sūtra's path of meditation and discrimination](../paths/samkhya-sutra-path.md), [Vācaspati's four stages of (lower) dispassion (TV 1.15)](../paths/vacaspati-four-stages-of-vairagya.md)
 
 ## The texts' own warnings
@@ -28,4 +29,8 @@ Turning away from objects by seeing the faults of acquiring, guarding, losing, a
 - External contentment from abstaining from objects, without knowledge of the principles, does not liberate. — [Sāṃkhyakārikābhāṣya of Gauḍapāda](../texts/samkhya-karika-bhasya-gaudapada.md) 50
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:6.35 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U22-tamil-siddha, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._

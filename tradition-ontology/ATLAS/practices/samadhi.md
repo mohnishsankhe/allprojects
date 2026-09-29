@@ -16,4 +16,4 @@ Meditation shining only as its object, as if empty of its own form (3.3, YBh 3.3
 **Sequences:** `pth:yoga-sutra-eight-limbs`, `pth:yoga-sutra-samadhi-ladder`
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

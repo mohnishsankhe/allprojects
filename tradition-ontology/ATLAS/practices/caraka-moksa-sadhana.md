@@ -11,10 +11,10 @@ Serving the good and avoiding the wicked; vows, fasts and restraints; study of t
 **Signs of progress:** ['purified mind shining like a polished mirror or a lamp in a windless place (Śā 5.13-15)', 'the eight powers of yogins (Śā 1.140-141)']
 **Sources:** 
   - [Caraka Saṃhitā](../texts/caraka-samhita.md) — ref: Śā 1.143-155; 5.12-19; rests_on: ["tea:caraka-samhita:sa.1.143-147", "tea:caraka-samhita:sa.1.150-151", "tea:caraka-samhita:sa.1.152-155", "tea:caraka-samhita:sa.5.12", "tea:caraka-samhita:sa.5.13-19"]
-**Sequences:** `pth:caraka-moksa-path`
+**Sequences:** [Caraka's path to release (Śārīrasthāna 1 and 5)](../paths/caraka-moksa-path.md)
 
 ## Equivalents (interpretation layer)
-- analogous: `prc:satipatthana` — mindfulness in all postures and activities and contemplation of the body's parts
+- analogous: [The four establishments of mindfulness (satipaṭṭhāna)](satipatthana.md) — mindfulness in all postures and activities and contemplation of the body's parts
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

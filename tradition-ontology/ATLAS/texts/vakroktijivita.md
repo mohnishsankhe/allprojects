@@ -23,8 +23,8 @@ Word and meaning together, set in a composition rich in the poet's oblique (vakr
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: sound-language_
 
-terms: [vakrokti](../terms/vakrokti.md) · concepts: `cpt:schools-of-poetics`
+terms: [vakrokti](../terms/vakrokti.md) · concepts: [The schools of poetics: what is the 'soul' of poetry?](../concepts/schools-of-poetics.md)
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

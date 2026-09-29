@@ -23,10 +23,10 @@ Rāghavabhaṭṭa quotes the Vāyavīya Saṃhitā: japa is the repetition of s
 
 _level: conventional · standpoint: seeker · path: sound, meditation · stage: all · types: practice_
 
-terms: [japa](../terms/japa.md), [vācika japa](../terms/vacika-japa.md), [upāṃśu japa](../terms/upamsu-japa.md), [mānasa japa](../terms/manasa-japa.md) · practices: [Recitation (japa)](../practices/japa.md), `prc:vacika-japa`, `prc:upamsu-japa`, `prc:manasa-japa`
+terms: [japa](../terms/japa.md), [vācika japa](../terms/vacika-japa.md), [upāṃśu japa](../terms/upamsu-japa.md), [mānasa japa](../terms/manasa-japa.md) · practices: [Mantra repetition (japa)](../practices/japa.md), [Spoken (audible) repetition — vācika japa](../practices/vacika-japa.md), [Whispered repetition — upāṃśu japa](../practices/upamsu-japa.md), [Mental repetition — mānasa japa](../practices/manasa-japa.md)
 
 
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U08-agama-catalogue. Generated 2026-09-29 16:38 IST._

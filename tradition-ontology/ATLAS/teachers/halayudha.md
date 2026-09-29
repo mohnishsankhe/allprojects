@@ -1,6 +1,6 @@
 # Halāyudha
 
-`tch:halayudha` · `skeleton` · confidence moderate
+`tch:halayudha` · `sourced` · confidence moderate
 
 **Lineages:** [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md)
 **Dates:** Scholarly account: 10th c. CE; (confidence low)
@@ -9,4 +9,8 @@
 Author of the Mṛtasañjīvanī commentary on Piṅgala's Chandaḥśāstra.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Halayudha — Confirmed: 10th c., author of the Mṛtasañjīvanī on Piṅgala (Wikipedia).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

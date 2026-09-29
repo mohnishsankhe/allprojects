@@ -126,7 +126,7 @@ terms: [pramāṇa](../terms/pramana.md) · concepts: [Means of valid knowledge 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: `dsp:isvara`, [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md)
+terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md)
 
 ### 1.93-99 <a id="tea-samkhya-sutra-1-93-99"></a>
 `skeleton` · confidence moderate
@@ -135,7 +135,7 @@ terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../conc
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [īśvara](../terms/isvara.md), [adhiṣṭhāna](../terms/adhisthana.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: `dsp:isvara`, [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md), [Can an unconscious pradhāna, without a conscious director, bring forth and order the world?](../debates/can-unconscious-pradhana-create.md)
+terms: [īśvara](../terms/isvara.md), [adhiṣṭhāna](../terms/adhisthana.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md), [Can an unconscious pradhāna, without a conscious director, bring forth and order the world?](../debates/can-unconscious-pradhana-create.md)
 
 ### 1.103-104 <a id="tea-samkhya-sutra-1-103-104"></a>
 `skeleton` · confidence moderate
@@ -162,7 +162,7 @@ Puruṣa is other than the body and the rest, because aggregates are for another
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-concepts: [Puruṣa (the conscious self)](../concepts/purusa.md) · disputes: `dsp:is-there-a-self`
+concepts: [Puruṣa (the conscious self)](../concepts/purusa.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 1.149 <a id="tea-samkhya-sutra-1-149"></a>
 `skeleton` · confidence moderate
@@ -472,7 +472,7 @@ The fruit of action is not governed by Īśvara, since it is accomplished by kar
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: `dsp:isvara`, [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md), [Can an unconscious pradhāna, without a conscious director, bring forth and order the world?](../debates/can-unconscious-pradhana-create.md), [Does scripture (śruti) teach the Sāṃkhya's unconscious pradhāna as the cause of the world?](../debates/is-pradhana-taught-in-sruti.md)
+concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md), [Can an unconscious pradhāna, without a conscious director, bring forth and order the world?](../debates/can-unconscious-pradhana-create.md), [Does scripture (śruti) teach the Sāṃkhya's unconscious pradhāna as the cause of the world?](../debates/is-pradhana-taught-in-sruti.md)
 
 ### 5.12 <a id="tea-samkhya-sutra-5-12"></a>
 `skeleton` · confidence moderate
@@ -490,7 +490,7 @@ The Vedas are not eternal, since scripture speaks of their being produced; nor a
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: sound-language, dispute_
 
-concepts: [Sound, word and Veda in Sāṃkhya](../concepts/samkhya-on-sound-and-veda.md) · disputes: `dsp:status-of-veda`
+concepts: [Sound, word and Veda in Sāṃkhya](../concepts/samkhya-on-sound-and-veda.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 5.52-56 <a id="tea-samkhya-sutra-5-52-56"></a>
 `skeleton` · confidence moderate
@@ -589,7 +589,7 @@ The self exists, since there is no proof of its non-existence; it is other than 
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate_
 
-concepts: [Puruṣa (the conscious self)](../concepts/purusa.md) · disputes: `dsp:is-there-a-self`
+concepts: [Puruṣa (the conscious self)](../concepts/purusa.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 6.6-8 <a id="tea-samkhya-sutra-6-6-8"></a>
 `skeleton` · confidence moderate
@@ -690,7 +690,7 @@ The accomplishment of effects depends on ahaṃkāra as agent, not on Īśvara, 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: `dsp:isvara`, [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md)
+concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Does Sāṃkhya deny Īśvara, or only deny that an eternal creator is proved?](../debates/isvara-within-samkhya.md)
 
 ### 6.67-69 <a id="tea-samkhya-sutra-6-67-69"></a>
 `skeleton` · confidence moderate
@@ -703,4 +703,4 @@ teachers: [Pañcaśikha](../teachers/pancasikha.md), [Sanandana](../teachers/san
 
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._

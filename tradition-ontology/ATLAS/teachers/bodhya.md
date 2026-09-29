@@ -8,4 +8,4 @@
 A tranquil sage who, questioned by King Nahuṣa, names six teachers: Piṅgalā, the osprey, the snake, the bee, the arrow-maker and the maiden (Mahābhārata 12.171.57-61).
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

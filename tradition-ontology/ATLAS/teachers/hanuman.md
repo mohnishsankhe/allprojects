@@ -13,6 +13,6 @@ Son of the Wind, Rāma's devoted servant in the Rāmāyaṇa; in the Mahābhāra
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: partially-confirmed — local:DharmicData MBh CE 3.148.10-37, 3.149.31 (trayī vārtā daṇḍanītis tisro vidyāḥ) — Episode (3.147–150) located and role confirmed. One wording error in U05's summary: it says "the four sciences" but lists three, and the text says three (trayī vārtā daṇḍanītis tisro vidyāḥ, 3.149.31; see the unit's own tea:mahabharata:3.149.31-33). Not auto-corrected because tch:hanuman is also emitted by U04 and U06, and a whole-summary replacement would overwrite their contributions; U05's wording should read "the three sciences".
+- 2026-09-29 text-locate: partially-confirmed — local:DharmicData MBh CE 3.148.10-37, 3.149.31 (trayī vārtā daṇḍanītis tisro vidyāḥ) — Episode (3.147–150) located and role confirmed. One wording error in U05's summary: it says "the four sciences" but lists three, and the text says three (trayī vārtā daṇḍanītis tisro vidyāḥ, 3.149.31; see the unit's own tea:mahabharata:3.149.31-33). Not auto-corrected because tch:hanuman is also emitted by U04 and U06, and a whole-summary replacement would overwrite their contributions; U05's wording should read "the three sciences".
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

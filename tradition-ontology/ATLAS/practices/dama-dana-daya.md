@@ -11,4 +11,4 @@ Practise the three that the thunder repeats — da, da, da: be restrained (dāmy
   - [Bṛhadāraṇyaka Upaniṣad](../texts/brhadaranyaka-upanisad.md) — ref: 5.2.1-3; rests_on: ["tea:brhadaranyaka-upanisad:5.2.1-3"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

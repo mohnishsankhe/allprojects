@@ -8,11 +8,11 @@
 **Genre:** ṭīkā
 **Commentary on:** [Āvaśyaka Sūtra](avasyaka-sutra.md)
 **Authors:** 
-  - `tch:haribhadra` — role: author; attribution: accepted
+  - [Haribhadra Sūri](../teachers/haribhadra.md) — role: author; attribution: accepted
 **Dates:** Scholarly account: 8th c. CE; (confidence moderate)
 **Availability:** digitized-original
 
 Haribhadra's commentary (Śiṣyahitā) on the Āvaśyaka and its niryukti, among the earliest Sanskrit commentaries on the canon; Haribhadra also commented on the Daśavaikālika, Nandī and Anuyogadvāra.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

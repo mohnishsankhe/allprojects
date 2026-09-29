@@ -1,6 +1,6 @@
 # Mahidāsa Aitareya
 
-`tch:mahidasa-aitareya` · `skeleton` · confidence moderate
+`tch:mahidasa-aitareya` · `sourced` · confidence moderate
 
 **Lineages:** [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 **Historicity:** semi-legendary
@@ -12,4 +12,8 @@ The seer to whom the Aitareya Brāhmaṇa and Āraṇyaka are ascribed.
 **Realization — the tradition's account:** Son of Itarā, slighted by his father, he was favoured by the Earth goddess and received the Brāhmaṇa (Sāyaṇa's introduction); the Chāndogya says he lived 116 years by his knowledge (ChU 3.16.7).
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/prepared/chandogya-upanisad, https://hindupedia.com/en/Aitareya_Ara%E1%B9%87yaka — Text-located: ChU 3.16.7 'mahidāsa aitareyaḥ … sa ha ṣoḍaśaṃ varṣaśatam ajīvat' (116 years). Books 1–3 of the AA are ascribed to him (Hindupedia). The Itarā story (from Sāyaṇa's introduction) was not checked locally.
+
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

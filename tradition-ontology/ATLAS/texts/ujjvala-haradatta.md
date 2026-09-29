@@ -1,6 +1,6 @@
 # Ujjvalā of Haradatta
 
-`src:ujjvala-haradatta` · `skeleton` · confidence moderate
+`src:ujjvala-haradatta` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -14,4 +14,8 @@
 Haradatta's commentary on the Āpastamba Dharmasūtra.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Padama%C3%B1jari, https://www.worldcat.org/title/kasika-vivarana-panjika-the-nyasa-a-commentary-on-vamana-jayadityas-kasika/oclc/45661285 — Confirmed: Haradatta's commentaries on the Āpastamba and Gautama Dharmasūtras are noted in Wikipedia ('Padamañjarī'), and editions of the Āpastamba DhS with Haradatta are held locally in eBhāratī.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

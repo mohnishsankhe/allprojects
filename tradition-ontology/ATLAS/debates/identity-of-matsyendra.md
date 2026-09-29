@@ -28,4 +28,4 @@ The shared elements (fish, Kāmarūpa, siddha of the Kali age) are recorded in e
 **The traditions' own objections:** Each tradition claims him as its own and would reject being read as a form of the other's deity or saint.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

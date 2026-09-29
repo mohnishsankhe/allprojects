@@ -20,6 +20,6 @@ _Notes: Title, date and extent recalled, not checked (low)._
 ---
 **Verification checks**
 
-- 2026-09-28 websearch: confirmed — https://www.degruyterbrill.com/document/doi/10.1515/asia-2015-0064/html, https://archive.org/details/in.ernet.dli.2015.279878 — Least-sure item: Devabodha's Jñānadīpikā is the earliest extant Mahābhārata commentary; he is tentatively placed in the 11th c. (quoted by Vimalabodha, 12th–13th c.), consistent with "before 1150"; the date is uncertain, as the entry says. His Ādiparvan commentary was edited by R. N. Dandekar.
+- 2026-09-29 websearch: confirmed — https://www.degruyterbrill.com/document/doi/10.1515/asia-2015-0064/html, https://archive.org/details/in.ernet.dli.2015.279878 — Least-sure item: Devabodha's Jñānadīpikā is the earliest extant Mahābhārata commentary; he is tentatively placed in the 11th c. (quoted by Vimalabodha, 12th–13th c.), consistent with "before 1150"; the date is uncertain, as the entry says. His Ādiparvan commentary was edited by R. N. Dandekar.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

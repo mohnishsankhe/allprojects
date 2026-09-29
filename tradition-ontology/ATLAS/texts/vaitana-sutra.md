@@ -1,6 +1,6 @@
 # Vaitāna Sūtra
 
-`src:vaitana-sutra` · `skeleton` · confidence moderate
+`src:vaitana-sutra` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 The Śrauta manual of the Atharvaveda, chiefly for the brahman priest's part in the solemn rites.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:DCS:Vaitānasūtra, catalog:GRETIL-dev:vaitana-srautasutra_vaitanasutra — Extant (GRETIL, DCS); the Atharvaveda Śrautasūtra.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

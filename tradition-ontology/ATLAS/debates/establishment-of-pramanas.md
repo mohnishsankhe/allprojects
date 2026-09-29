@@ -5,11 +5,11 @@
 **Coverage:** A5
 
 ## Sides (recorded before any reconciliation)
-### `lin:madhyamaka`
+### [Madhyamaka](../lineages/madhyamaka.md)
 If means of knowledge establish objects, what establishes the means? Other means lead to a regress; self-establishment would equally establish objects without means; the lamp does not illuminate itself (Nāgārjuna, Vigrahavyāvartanī).
 - Vigrahavyāvartanī vv. 31–51 (range from memory).
 **Texts:** 
-  - `src:vigrahavyavartani` — ref: vv. 31–51 (from memory)
+  - [Vigrahavyāvartanī](../texts/vigrahavyavartani.md) — ref: vv. 31–51 (from memory)
 ### [Nyāya](../lineages/nyaya.md)
 The 'three times' objection defeats itself; denying all means of knowledge undermines the denial; a means of knowledge can also be an object of knowledge, like a balance; means are established like the lamp's light.
 - NS 2.1.8–19.
@@ -26,4 +26,4 @@ The 'three times' objection defeats itself; denying all means of knowledge under
 _Notes: The identification of NS 2.1.8–19's opponent with Nāgārjuna is a scholarly hypothesis; the Nyāya commentators do not name him._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

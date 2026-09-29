@@ -1,6 +1,6 @@
 # Aitihāsikas (the legend-school of Vedic interpretation)
 
-`lin:aitihasika` · `skeleton` · confidence moderate
+`lin:aitihasika` · `sourced` · confidence moderate
 
 **Family:** vedic
 **Alternate names:** aitihāsikāḥ
@@ -31,4 +31,8 @@ _none recorded_
 _Notes: Known only through the Nirukta, which reports their views alongside the Nairuktas' own._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (GRETIL, Sarup ed.) — All three reports were found in the Nirukta. At 2.16: 'tvāṣṭro 'sura ity aitihāsikāḥ'. At 12.1: 'rājānau puṇyakṛtāv ity aitihāsikāḥ'. At 12.10: 'yamaṃ ca yamī ca ity aitihāsikāḥ … tvāṣṭrī saraṇyūr vivasvata ādityād yamau mithunau janayāṃcakāra'. The school is known only through Yāska, as the entry says.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

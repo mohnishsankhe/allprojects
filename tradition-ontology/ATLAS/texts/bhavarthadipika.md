@@ -30,4 +30,4 @@ concepts: [Devotion (bhakti) in Advaita](../concepts/bhakti-in-advaita.md) · te
 
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._

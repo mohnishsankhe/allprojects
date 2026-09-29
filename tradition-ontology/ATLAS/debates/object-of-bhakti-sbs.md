@@ -32,4 +32,4 @@ This is the text's own reconciliation, recorded as such; it is not extended here
 _Notes: Sūtra numbers (29–31) and wording recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

@@ -14,4 +14,4 @@
 A digest of rules for renouncers compiled by Yādavaprakāśa, citing Dharmaśāstra and Upaniṣadic sources; edited and translated by Olivelle as 'Rules and Regulations of Brahmanical Asceticism' (1995).
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._

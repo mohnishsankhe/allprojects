@@ -1,6 +1,6 @@
 # Atharvaveda Prātiśākhya (Śaunakīyā Caturādhyāyikā)
 
-`src:atharvaveda-pratisakhya` · `skeleton` · confidence moderate
+`src:atharvaveda-pratisakhya` · `sourced` · confidence moderate
 
 **Alternate titles:** Caturādhyāyikā, Śaunakīyā Caturādhyāyikā
 **Language:** Sanskrit
@@ -17,4 +17,8 @@ The phonetic treatise of the Śaunaka Atharvaveda in four chapters, on sounds, s
 _Notes: Local copies: ebhAratI vedAngAni/shixA/atharvavedaprAtishAkhyam(-mUlam).md._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:raw_etexts:atharva_veda_pratishakhya_chaturadhyayi, catalog:eBharati:atharvavedaprAtishAkhyam — Extant locally (Śaunakīyā Caturādhyāyikā, in 4 adhyāyas), as the entry says.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

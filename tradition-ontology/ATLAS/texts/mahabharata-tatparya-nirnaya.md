@@ -197,6 +197,6 @@ _Notes: Chapter structure and the verses cited checked against the Devanāgarī 
 ---
 **Verification checks**
 
-- 2026-09-28 catalog: confirmed — catalog:GRETIL:mAdhva-mahAbhAratatAtparyanirNaya, catalog:GRETIL-dev:madhva_mahabharatatatparyanirnaya — Extant and digitized; Madhva's work as entered.
+- 2026-09-29 catalog: confirmed — catalog:GRETIL:mAdhva-mahAbhAratatAtparyanirNaya, catalog:GRETIL-dev:madhva_mahabharatatatparyanirnaya — Extant and digitized; Madhva's work as entered.
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

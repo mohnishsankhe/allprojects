@@ -90,7 +90,7 @@ A graded series of mistaken views of the self: the most ignorant take the son as
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-practices: [Discrimination of the five sheaths (pañca-kośa-viveka)](../practices/panca-kosa-viveka.md) · teachers: [Sadānanda (Yogīndra)](../teachers/sadananda.md) · disputes: `dsp:is-there-a-self`
+practices: [Discrimination of the five sheaths (pañca-kośa-viveka)](../practices/panca-kosa-viveka.md) · teachers: [Sadānanda (Yogīndra)](../teachers/sadananda.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### samadhi <a id="tea-vedantasara-samadhi"></a>
 `skeleton` · confidence high
@@ -123,4 +123,4 @@ terms: [tat tvam asi](../terms/tat-tvam-asi.md), [jahad-ajahal-lakṣaṇā (bh�
 _Notes: Commentaries: Nṛsiṃha Sarasvatī's Subodhinī (1588), Rāmatīrtha's Vidvanmanorañjanī._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

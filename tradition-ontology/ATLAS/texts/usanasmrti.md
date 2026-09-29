@@ -1,6 +1,6 @@
 # Uśanasmṛti
 
-`src:usanasmrti` · `skeleton` · confidence low
+`src:usanasmrti` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,4 +13,8 @@ A short smṛti ascribed to Uśanas, one of the twenty lawgivers of Yājñavalky
 _Notes: Contents not summarized here — gap._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:eBharati:dharmashAstraH_prathamo_bhAgaH (M. N. Dutt 1908: Auśanasa-smṛti), catalog:eBharati:aShTAdashasmRtayaH (auśanasī smṛtiḥ) — Low-confidence entry confirmed as extant; YājñS 1.4 names Uśanas.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

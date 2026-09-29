@@ -11,4 +11,4 @@
 Appayya Dīkṣita's defence of Śiva's supremacy on scriptural grounds.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._

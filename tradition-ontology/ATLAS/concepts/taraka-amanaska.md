@@ -15,4 +15,4 @@
 - leads-to → [Unmanī / manonmanī — the state beyond mind](unmani.md): Tāraka culminates in the mind-less (amanaska/unmanī) state. — rests on [1.3](../texts/mandalabrahmana-upanisad.md#tea-mandalabrahmana-upanisad-1-3), [3.1-2](../texts/mandalabrahmana-upanisad.md#tea-mandalabrahmana-upanisad-3-1-2)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._

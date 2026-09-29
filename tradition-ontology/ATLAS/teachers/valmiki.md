@@ -20,6 +20,6 @@ _Notes: U22 contribution; whether the list intends the epic poet or a Tamil name
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData Rāmāyaṇa (vulgate) 1.1.2, 1.2.15, 1.2.18 — Located as described.
+- 2026-09-29 text-locate: confirmed — local:DharmicData Rāmāyaṇa (vulgate) 1.1.2, 1.2.15, 1.2.18 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

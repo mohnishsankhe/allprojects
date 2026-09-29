@@ -1,6 +1,6 @@
 # Āśvalāyana Śrautasūtra
 
-`src:asvalayana-srautasutra` · `skeleton` · confidence moderate
+`src:asvalayana-srautasutra` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,4 +13,8 @@
 The Śrauta manual of the Ṛgvedic hotṛ priest (Śākala/Āśvalāyana school), 12 adhyāyas, setting out the recitations for the new- and full-moon, seasonal and Soma rites.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Āśvālāyanaśrautasūtra, catalog:GRETIL-dev:asvalayana-srautasutra, https://sacred-texts.com/hin/sbe01/sbe01019.htm — Extant; 12 adhyāyas (SBE introduction: Āśvalāyana composed the Śrautasūtra in twelve adhyāyas, the Gṛhya in four, and the fourth Āraṇyaka).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

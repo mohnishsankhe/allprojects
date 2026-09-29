@@ -1,6 +1,6 @@
 # Aṣṭādhyāyī
 
-`src:astadhyayi` · `skeleton` · confidence high
+`src:astadhyayi` · `sourced` · confidence high
 
 **Original title:** अष्टाध्यायी
 **Language:** Sanskrit
@@ -19,17 +19,17 @@ Pāṇini's grammar of Sanskrit in 'eight chapters': nearly four thousand ordere
   - kind: original; name: GRETIL e-text (local Devanāgarī mirror)
 **Commentaries on this text:** [Kāśikāvṛtti](kasikavrtti.md), [Vyākaraṇa-Mahābhāṣya](mahabhasya.md), [Vārttikas of Kātyāyana](varttika-katyayana.md)
 
-## Teachings (8: skeleton 8)
+## Teachings (8: sourced 8)
 
 ### 1.1.1 <a id="tea-astadhyayi-1-1-1"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The vowels ā, ai and au are called vṛddhi — the first rule of the grammar, which by tradition opens with an auspicious word.
 
 _level: conventional · standpoint: analytic · path: sound · stage: all · types: sound-language_
 
 ### 1.2.27 <a id="tea-astadhyayi-1-2-27"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 A vowel whose duration is that of u, ū or u3 is called short, long or prolated (hrasva, dīrgha, pluta).
 
@@ -38,7 +38,7 @@ _level: conventional · standpoint: analytic · path: sound · stage: all · typ
 terms: [mātrā](../terms/matra.md)
 
 ### 1.2.29-31 <a id="tea-astadhyayi-1-2-29-31"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 A vowel pronounced high is udātta, one pronounced low is anudātta, and one combining both is svarita.
 
@@ -47,7 +47,7 @@ _level: conventional · standpoint: analytic · path: sound · stage: all · typ
 terms: [svara](../terms/svara.md) · concepts: [The power of accent](../concepts/power-of-accent.md)
 
 ### 1.2.45 <a id="tea-astadhyayi-1-2-45"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 A meaningful form that is not a verbal root, not an affix and not ending in an affix is a nominal stem (prātipadika).
 
@@ -56,7 +56,7 @@ _level: conventional · standpoint: analytic · path: sound · stage: all · typ
 terms: [pada](../terms/pada.md)
 
 ### 1.3.1 <a id="tea-astadhyayi-1-3-1"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The items beginning with bhū are verbal roots (dhātu).
 
@@ -65,7 +65,7 @@ _level: conventional · standpoint: analytic · path: sound · stage: all · typ
 terms: [dhātu](../terms/dhatu.md)
 
 ### 1.4.14 <a id="tea-astadhyayi-1-4-14"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 What ends in a nominal ending (sup) or a verbal ending (tiṅ) is a word (pada).
 
@@ -74,7 +74,7 @@ _level: conventional · standpoint: analytic · path: sound · stage: all · typ
 terms: [pada](../terms/pada.md) · concepts: [The four classes of words](../concepts/four-classes-of-words.md)
 
 ### 1.4.54 <a id="tea-astadhyayi-1-4-54"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The independent one (svatantra) is the agent (kartṛ).
 
@@ -83,7 +83,7 @@ _level: conventional · standpoint: analytic · path: sound, knowledge · stage:
 terms: [kāraka](../terms/karaka.md)
 
 ### 6.1.123 <a id="tea-astadhyayi-6-1-123"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 (Before a vowel) go may take the substitute ava in the opinion of Sphoṭāyana — one of the ten earlier grammarians Pāṇini names.
 
@@ -93,4 +93,8 @@ _level: conventional · standpoint: analytic · path: sound · stage: all · typ
 _Notes: Its philosophy-of-language reception (Bhartṛhari, sphoṭa) belongs to U31 / lin:vyakarana._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Aṣṭādhyāyī, catalog:GRETIL-dev:panini_astadhyayi — Extant; 8 adhyāyas × 4 pādas; the local GRETIL text has 3,951 sūtras ('nearly 4,000'). The dating 5th–4th c. BCE is the standard range (see tch:panini).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

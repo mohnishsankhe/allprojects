@@ -4,7 +4,7 @@
 
 **Family:** ascetic
 **Parent:** [Digambara](digambara.md)
-**Key teachers:** `tch:todarmal`, `tch:banarsidas`
+**Key teachers:** [Ṭoḍarmal](../teachers/todarmal.md), `tch:banarsidas`
 **Dates:** Scholarly account: 17th c. CE (Agra, Sanganer and Jaipur region), growing out of Banārsīdās's Adhyātma circle; (confidence moderate)
 **Status:** living
 
@@ -16,20 +16,30 @@ A lay-led Digambara reform movement of the 17th–18th c. (not connected with th
 - rejects the worship of attendant deities (śāsanadevatās) as wrong faith
 
 
+## The ultimate in this lineage
+`skeleton` · confidence low
+
+**Names:** śuddhātman, the Jina (in the image, worshipped with non-living offerings)
+**Descriptions:** the pure self known through both standpoints held in their places (Ṭoḍarmal)
+**Negations:** not the attendant deities
+**Relation to self:** As in Kundakunda.
+**Relation to world:** Real; worship must not harm beings.
+**Caveat:** The Jain tradition denies a single all-encompassing reality and a creator: liberated souls are infinitely many and remain distinct, and the universe of six substances is uncreated. It can accept 'one truth, many names' only in its own way — as many-sidedness (anekānta) about a plural reality — not as the identity of all souls in one substance.
+
 ## Texts
-_none recorded_
+[Mokṣamārga Prakāśaka](../texts/moksamarga-prakasaka.md)
 
 ## Teachers
-`tch:banarsidas`, `tch:todarmal`
+`tch:banarsidas`, [Ṭoḍarmal](../teachers/todarmal.md)
 
 ## Practices
-_none recorded_
+[Worship of the Jina image (jina-pūjā)](../practices/jina-puja.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[How should Digambara image worship be performed, and are the bhaṭṭārakas authorities?](../debates/bisapantha-terapantha.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

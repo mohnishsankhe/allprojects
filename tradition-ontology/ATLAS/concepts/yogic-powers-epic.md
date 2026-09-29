@@ -14,4 +14,4 @@
 _Notes: The epic's warnings: the path of yoga is hard and dangerous (12.289, low confidence on the exact images); the Gītā warns against self-tormenting austerities (17.5–6)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

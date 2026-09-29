@@ -14,4 +14,4 @@
 Śaṅkara's commentary on the Aitareya, with an introduction arguing that knowledge of the self is for the renunciate and on 'prajñānaṃ brahma'.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

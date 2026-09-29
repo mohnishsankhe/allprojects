@@ -214,7 +214,7 @@ If the person did not exist there would be no light and darkness, truth and fals
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-concepts: [The self (ātman) in Caraka](../concepts/self-in-caraka.md) · disputes: `dsp:is-there-a-self`
+concepts: [The self (ātman) in Caraka](../concepts/self-in-caraka.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### sa.1.46-51 <a id="tea-caraka-samhita-sa-1-46-51"></a>
 `skeleton` · confidence high
@@ -223,7 +223,7 @@ Some hold that the aggregate of momentary things, without a lord, called sattva,
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-concepts: [The self (ātman) in Caraka](../concepts/self-in-caraka.md) · disputes: `dsp:is-there-a-self`
+concepts: [The self (ātman) in Caraka](../concepts/self-in-caraka.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### sa.1.52-55 <a id="tea-caraka-samhita-sa-1-52-55"></a>
 `skeleton` · confidence high
@@ -268,7 +268,7 @@ The mind is unconscious though active; the self, the conscious one, is called th
 
 _level: ultimate · standpoint: analytic · path: knowledge, meditation · stage: all · types: ultimate, consciousness-mind_
 
-concepts: [The self (ātman) in Caraka](../concepts/self-in-caraka.md) · disputes: `dsp:is-the-self-all-pervading`
+concepts: [The self (ātman) in Caraka](../concepts/self-in-caraka.md) · disputes: [Is the self (knower of the field) all-pervading?](../debates/is-the-self-all-pervading.md)
 
 ### sa.1.82-85 <a id="tea-caraka-samhita-sa-1-82-85"></a>
 `skeleton` · confidence high
@@ -413,7 +413,7 @@ When a man of unimpaired semen and a woman of unimpaired womb unite at the prope
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: body-layers, karma-liberation_
 
-concepts: [The six factors of the embryo](../concepts/six-factors-of-embryo.md) · disputes: `dsp:origin-of-embryo`
+concepts: [The six factors of the embryo](../concepts/six-factors-of-embryo.md) · disputes: [Is the embryo born of mother, father, self, suitability, nourishment and a mind coming from another world?](../debates/origin-of-embryo.md)
 
 ### sa.3.4 <a id="tea-caraka-samhita-sa-3-4"></a>
 `skeleton` · confidence high
@@ -422,7 +422,7 @@ Bharadvāja: no. Mother, father, self, suitability and food do not produce the e
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, karma-liberation_
 
-teachers: [Bharadvāja](../teachers/bharadvaja.md) · disputes: `dsp:origin-of-embryo`
+teachers: [Bharadvāja](../teachers/bharadvaja.md) · disputes: [Is the embryo born of mother, father, self, suitability, nourishment and a mind coming from another world?](../debates/origin-of-embryo.md)
 
 ### sa.3.8-9 <a id="tea-caraka-samhita-sa-3-8-9"></a>
 `skeleton` · confidence high
@@ -525,7 +525,7 @@ On which part of the embryo forms first there are many opposed views among the s
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: dispute, body-layers_
 
-teachers: [Kumāraśiras Bharadvāja](../teachers/kumarasiras-bharadvaja.md), [Kāṅkāyana, the physician of Bāhlīka](../teachers/kankayana.md), [Bhadrakāpya](../teachers/bhadrakapya.md), [Bhadraśaunaka](../teachers/bhadrasaunaka.md), [Baḍiśa Dhāmārgava](../teachers/badisa-dhamargava.md), [Mārīca Kaśyapa](../teachers/marica-kasyapa.md), [Dhanvantari (Divodāsa, king of Kāśī)](../teachers/dhanvantari.md) · disputes: `dsp:which-limb-forms-first`
+teachers: [Kumāraśiras Bharadvāja](../teachers/kumarasiras-bharadvaja.md), [Kāṅkāyana, the physician of Bāhlīka](../teachers/kankayana.md), [Bhadrakāpya](../teachers/bhadrakapya.md), [Bhadraśaunaka](../teachers/bhadrasaunaka.md), [Baḍiśa Dhāmārgava](../teachers/badisa-dhamargava.md), [Mārīca Kaśyapa](../teachers/marica-kasyapa.md), [Dhanvantari (Divodāsa, king of Kāśī)](../teachers/dhanvantari.md) · disputes: [Which part of the embryo forms first?](../debates/which-limb-forms-first.md)
 
 ### sa.6.28 <a id="tea-caraka-samhita-sa-6-28"></a>
 `skeleton` · confidence high
@@ -534,7 +534,7 @@ On timely and untimely death: some say whoever dies dies at his time, for time h
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: death-dying, dispute_
 
-concepts: [Timely and untimely death](../concepts/kala-akala-mrtyu.md) · disputes: `dsp:is-lifespan-fixed`
+concepts: [Timely and untimely death](../concepts/kala-akala-mrtyu.md) · disputes: [Is every life-span fixed, or is there untimely death?](../debates/is-lifespan-fixed.md)
 
 ### sa.6.29-30 <a id="tea-caraka-samhita-sa-6-29-30"></a>
 `skeleton` · confidence high
@@ -993,7 +993,7 @@ concepts: [The conduct and ethics of the physician](../concepts/physician-ethics
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, practice_
 
-teachers: [Maitreya (in Caraka's assembly)](../teachers/maitreya-caraka.md) · disputes: `dsp:is-medicine-efficacious`
+teachers: [Maitreya (in Caraka's assembly)](../teachers/maitreya-caraka.md) · disputes: [Is medicine effective, given that some treated patients die and some untreated recover?](../debates/is-medicine-efficacious.md)
 
 ### su.11.3-5 <a id="tea-caraka-samhita-su-11-3-5"></a>
 `skeleton` · confidence high
@@ -1013,7 +1013,7 @@ Third is the desire for the other world. Here there is doubt whether we shall ex
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: karma-liberation, dispute_
 
-concepts: [Caraka's arguments for rebirth](../concepts/rebirth-arguments-caraka.md) · disputes: `dsp:is-there-rebirth-caraka`
+concepts: [Caraka's arguments for rebirth](../concepts/rebirth-arguments-caraka.md) · disputes: [Is there rebirth (and another world)?](../debates/is-there-rebirth-caraka.md)
 
 ### su.11.7-8 <a id="tea-caraka-samhita-su-11-7-8"></a>
 `skeleton` · confidence high
@@ -1022,7 +1022,7 @@ The wise should give up the notion of denial and doubt, for what is perceptible 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: karma-liberation, dispute_
 
-concepts: [Caraka's arguments for rebirth](../concepts/rebirth-arguments-caraka.md), [Eight causes of non-perception](../concepts/eight-causes-of-non-perception.md) · disputes: `dsp:is-there-rebirth-caraka`, `dsp:number-of-pramanas`
+concepts: [Caraka's arguments for rebirth](../concepts/rebirth-arguments-caraka.md), [Eight causes of non-perception](../concepts/eight-causes-of-non-perception.md) · disputes: [Is there rebirth (and another world)?](../debates/is-there-rebirth-caraka.md), [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
 
 ### su.11.9-16 <a id="tea-caraka-samhita-su-11-9-16"></a>
 `skeleton` · confidence high
@@ -1031,7 +1031,7 @@ Those scriptures (that make the parents the cause) are not valid, being against 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: karma-liberation, dispute_
 
-concepts: [Caraka's arguments for rebirth](../concepts/rebirth-arguments-caraka.md) · disputes: `dsp:is-there-rebirth-caraka`
+concepts: [Caraka's arguments for rebirth](../concepts/rebirth-arguments-caraka.md) · disputes: [Is there rebirth (and another world)?](../debates/is-there-rebirth-caraka.md)
 
 ### su.11.17-26 <a id="tea-caraka-samhita-su-11-17-26"></a>
 `skeleton` · confidence high
@@ -1042,7 +1042,7 @@ All is twofold, existent and non-existent; its examination is fourfold: authorit
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, sound-language_
 
-terms: [yukti](../terms/yukti.md), [āptopadeśa](../terms/aptopadesa.md) · concepts: [Caraka's four means of knowledge](../concepts/four-pramanas-caraka.md) · disputes: `dsp:number-of-pramanas`, `dsp:is-there-rebirth-caraka`
+terms: [yukti](../terms/yukti.md), [āptopadeśa](../terms/aptopadesa.md) · concepts: [Caraka's four means of knowledge](../concepts/four-pramanas-caraka.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md), [Is there rebirth (and another world)?](../debates/is-there-rebirth-caraka.md)
 
 ### su.11.27-29 <a id="tea-caraka-samhita-su-11-27-29"></a>
 `skeleton` · confidence high
@@ -1143,7 +1143,7 @@ Vāyorvida: vāyu, unprovoked, is the upholder of the body's structure and machi
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: body-layers, world-fate_
 
-terms: [vāta](../terms/vata.md), [prāṇa](../terms/prana.md), [udāna](../terms/udana.md), [samāna](../terms/samana.md), [vyāna](../terms/vyana.md), [apāna](../terms/apana.md) · concepts: [The five vital winds (vāyu)](../concepts/five-vayus.md), [The three doṣas (vāta, pitta, kapha)](../concepts/three-dosas.md) · disputes: `dsp:nature-of-vayu`
+terms: [vāta](../terms/vata.md), [prāṇa](../terms/prana.md), [udāna](../terms/udana.md), [samāna](../terms/samana.md), [vyāna](../terms/vyana.md), [apāna](../terms/apana.md) · concepts: [The five vital winds (vāyu)](../concepts/five-vayus.md), [The three doṣas (vāta, pitta, kapha)](../concepts/three-dosas.md) · disputes: [What are the qualities and actions of vāyu (and of fire and soma in the body)?](../debates/nature-of-vayu.md)
 
 ### su.12.13 <a id="tea-caraka-samhita-su-12-13"></a>
 `skeleton` · confidence high
@@ -1152,7 +1152,7 @@ terms: [vāta](../terms/vata.md), [prāṇa](../terms/prana.md), [udāna](../ter
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: body-layers, dispute_
 
-concepts: [The three doṣas (vāta, pitta, kapha)](../concepts/three-dosas.md) · disputes: `dsp:nature-of-vayu`
+concepts: [The three doṣas (vāta, pitta, kapha)](../concepts/three-dosas.md) · disputes: [What are the qualities and actions of vāyu (and of fire and soma in the body)?](../debates/nature-of-vayu.md)
 
 ### su.17.73-75 <a id="tea-caraka-samhita-su-17-73-75"></a>
 `skeleton` · confidence high
@@ -1192,7 +1192,7 @@ In an assembly of sages King Vāmaka of Kāśī asked: are the person and his di
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, karma-liberation_
 
-teachers: [Vāmaka, king of Kāśī](../teachers/kasipati-vamaka.md), [Pārīkṣi Maudgalya](../teachers/pariksi-maudgalya.md), [Śaraloman](../teachers/saraloman.md), [Vāyorvida (the royal sage)](../teachers/vayorvida.md), [Hiraṇyākṣa Kauśika](../teachers/hiranyaksa-kausika.md), [Bhadrakāpya](../teachers/bhadrakapya.md), [Kāṅkāyana, the physician of Bāhlīka](../teachers/kankayana.md), [Bhikṣu Ātreya](../teachers/bhiksu-atreya.md) · disputes: `dsp:origin-of-person-and-disease`
+teachers: [Vāmaka, king of Kāśī](../teachers/kasipati-vamaka.md), [Pārīkṣi Maudgalya](../teachers/pariksi-maudgalya.md), [Śaraloman](../teachers/saraloman.md), [Vāyorvida (the royal sage)](../teachers/vayorvida.md), [Hiraṇyākṣa Kauśika](../teachers/hiranyaksa-kausika.md), [Bhadrakāpya](../teachers/bhadrakapya.md), [Kāṅkāyana, the physician of Bāhlīka](../teachers/kankayana.md), [Bhikṣu Ātreya](../teachers/bhiksu-atreya.md) · disputes: [Are the person and his diseases born of the same source — and what is it?](../debates/origin-of-person-and-disease.md)
 
 ### su.25.26-29 <a id="tea-caraka-samhita-su-25-26-29"></a>
 `skeleton` · confidence high
@@ -1203,7 +1203,7 @@ As the sages disputed, Punarvasu said: do not speak thus; truth is hard to reach
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: dispute, karma-liberation_
 
-disputes: `dsp:origin-of-person-and-disease`
+disputes: [Are the person and his diseases born of the same source — and what is it?](../debates/origin-of-person-and-disease.md)
 
 ### su.25.30-33 <a id="tea-caraka-samhita-su-25-30-33"></a>
 `skeleton` · confidence high
@@ -1221,7 +1221,7 @@ In the Caitraratha forest the sages discussed taste and diet. Bhadrakāpya: ther
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: dispute, body-layers_
 
-concepts: [The six tastes (rasa)](../concepts/six-tastes.md) · teachers: [Bhadrakāpya](../teachers/bhadrakapya.md), [Śākunteya](../teachers/sakunteya.md), [Pūrṇākṣa Maudgalya](../teachers/purnaksa-maudgalya.md), [Hiraṇyākṣa Kauśika](../teachers/hiranyaksa-kausika.md), [Kumāraśiras Bharadvāja](../teachers/kumarasiras-bharadvaja.md), [Vāyorvida (the royal sage)](../teachers/vayorvida.md), [Nimi, king of Videha](../teachers/nimi-videha.md), [Baḍiśa Dhāmārgava](../teachers/badisa-dhamargava.md), [Kāṅkāyana, the physician of Bāhlīka](../teachers/kankayana.md) · disputes: `dsp:number-of-tastes`
+concepts: [The six tastes (rasa)](../concepts/six-tastes.md) · teachers: [Bhadrakāpya](../teachers/bhadrakapya.md), [Śākunteya](../teachers/sakunteya.md), [Pūrṇākṣa Maudgalya](../teachers/purnaksa-maudgalya.md), [Hiraṇyākṣa Kauśika](../teachers/hiranyaksa-kausika.md), [Kumāraśiras Bharadvāja](../teachers/kumarasiras-bharadvaja.md), [Vāyorvida (the royal sage)](../teachers/vayorvida.md), [Nimi, king of Videha](../teachers/nimi-videha.md), [Baḍiśa Dhāmārgava](../teachers/badisa-dhamargava.md), [Kāṅkāyana, the physician of Bāhlīka](../teachers/kankayana.md) · disputes: [How many tastes (rasa) are there?](../debates/number-of-tastes.md)
 
 ### su.26.10-12 <a id="tea-caraka-samhita-su-26-10-12"></a>
 `skeleton` · confidence high
@@ -1248,7 +1248,7 @@ Bhadrakāpya: all fish may be eaten with milk except the cilicima, which causes 
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, practice_
 
-obstacles: [Incompatible food (viruddha āhāra)](../obstacles/viruddha-ahara.md) · teachers: [Bhadrakāpya](../teachers/bhadrakapya.md), [Punarvasu Ātreya](../teachers/atreya-punarvasu.md) · disputes: `dsp:fish-with-milk`
+obstacles: [Incompatible food (viruddha āhāra)](../obstacles/viruddha-ahara.md) · teachers: [Bhadrakāpya](../teachers/bhadrakapya.md), [Punarvasu Ātreya](../teachers/atreya-punarvasu.md) · disputes: [May fish be eaten with milk?](../debates/fish-with-milk.md)
 
 ### su.29.3-12 <a id="tea-caraka-samhita-su-29-3-12"></a>
 `skeleton` · confidence high
@@ -1317,7 +1317,7 @@ This Āyurveda is declared eternal, because it is beginningless, because its cha
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, sound-language_
 
-concepts: [The eternality of Āyurveda](../concepts/eternality-of-ayurveda.md) · disputes: `dsp:is-ayurveda-eternal`
+concepts: [The eternality of Āyurveda](../concepts/eternality-of-ayurveda.md) · disputes: [Is Āyurveda eternal or does it have an origin?](../debates/is-ayurveda-eternal.md)
 
 ### su.30.28-29 <a id="tea-caraka-samhita-su-30-28-29"></a>
 `skeleton` · confidence high
@@ -1387,7 +1387,7 @@ Asked whether all life-spans are fixed, Ātreya said: life depends on yukti; its
 
 _level: bridging · standpoint: causal · path: action, general · stage: all · types: karma-liberation, dispute_
 
-terms: [daiva](../terms/daiva.md), [puruṣakāra](../terms/purusakara.md) · concepts: [Fate (daiva) and human effort (puruṣakāra)](../concepts/daiva-purusakara.md) · disputes: `dsp:is-lifespan-fixed`
+terms: [daiva](../terms/daiva.md), [puruṣakāra](../terms/purusakara.md) · concepts: [Fate (daiva) and human effort (puruṣakāra)](../concepts/daiva-purusakara.md) · disputes: [Is every life-span fixed, or is there untimely death?](../debates/is-lifespan-fixed.md)
 
 ### vi.3.38 <a id="tea-caraka-samhita-vi-3-38"></a>
 `skeleton` · confidence high
@@ -1396,7 +1396,7 @@ As an axle with all good qualities, carefully driven, comes to its end in time b
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: death-dying_
 
-concepts: [Timely and untimely death](../concepts/kala-akala-mrtyu.md) · obstacles: [Untimely death](../obstacles/akala-mrtyu.md) · disputes: `dsp:is-lifespan-fixed`
+concepts: [Timely and untimely death](../concepts/kala-akala-mrtyu.md) · obstacles: [Untimely death](../obstacles/akala-mrtyu.md) · disputes: [Is every life-span fixed, or is there untimely death?](../debates/is-lifespan-fixed.md)
 
 ### vi.4.3-5 <a id="tea-caraka-samhita-vi-4-3-5"></a>
 `skeleton` · confidence high
@@ -1534,4 +1534,4 @@ terms: [sattva](../terms/sattva.md) · concepts: [Strength of mind (three grades
 _Notes: Refs in this unit: sthāna abbreviation + chapter.verse (su = Sūtra, ni = Nidāna, vi = Vimāna, sa = Śārīra, in = Indriya, ci = Cikitsā, ka = Kalpa, si = Siddhi); Ci 1 has four pādas (ci.1.4.30 = Cikitsā 1, pāda 4, verse 30)._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

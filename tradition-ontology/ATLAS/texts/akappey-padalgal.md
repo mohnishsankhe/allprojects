@@ -17,4 +17,4 @@ Couplets addressed to 'akappēy' — the demon that is one's own mind — urging
 _Notes: Existence and refrain recalled at moderate confidence; contents at low; not in the local e-text set._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

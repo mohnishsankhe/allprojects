@@ -5,9 +5,11 @@
 **Original title:** तर्करहस्यदीपिका
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Śvetāmbara](../lineages/svetambara.md), [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md), [Kālāmukha](../lineages/kalamukha.md)
+**Lineages:** [Śvetāmbara](../lineages/svetambara.md), [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md), [Kālāmukha](../lineages/kalamukha.md), [Jainism (Jaina dharma)](../lineages/jainism.md), [Cārvāka / Lokāyata](../lineages/carvaka.md)
 **Genre:** commentary (doxography)
-**Commentary on:** `src:saddarsanasamuccaya-haribhadra`
+**Commentary on:** [Ṣaḍdarśanasamuccaya (Haribhadra)](saddarsanasamuccaya-haribhadra.md)
+**Authors:** 
+  - [Guṇaratna](../teachers/gunaratna.md) — role: commentator; attribution: accepted
 **Attribution:** tradition: Guṇaratna Sūri; scholarly: the Tapāgaccha monk Guṇaratna, c. 1400–1410; confidence: moderate
 **Dates:** Scholarly account: early 15th c.; (confidence moderate)
 **Availability:** digitized-original
@@ -16,7 +18,16 @@ Guṇaratna's commentary on Haribhadra's Ṣaḍdarśanasamuccaya. On the Naiyā
 **Editions / translations:** 
   - kind: original; name: excerpt as appendix II (headed 'from the Ṣaḍdarśanasamuccaya of Haribhadra') to Dalal, GOS 15 (1920); Muktabodha M00508; licence: Muktabodha terms of use
 
-## Teachings (2: skeleton 2)
+## Teachings (3: skeleton 3)
+
+### 80 <a id="tea-tarkarahasyadipika-80"></a>
+`skeleton` · confidence low
+
+Guṇaratna explains the names: Cārvākas 'chew up' (carv) — do not accept — merit, demerit and the unseen; they are Lokāyatas since they act like the common world (loka) without discrimination, and Bārhaspatyas as followers of Bṛhaspati; he tells the parable of the man who faked wolf-tracks to show his wife how the learned mislead.
+
+_level: unmarked · standpoint: polemical · path: general · stage: unmarked · types: teacher-transmission, sound-language_
+
+terms: [cārvāka](../terms/carvaka-name.md), [lokāyata](../terms/lokayata.md), [vṛkapada](../terms/vrkapada.md) · concepts: [The parable of the wolf's footprint](../concepts/vrkapada-parable.md) · teachers: [Guṇaratna](../teachers/gunaratna.md)
 
 ### naiyayika-section <a id="tea-tarkarahasyadipika-naiyayika-section"></a>
 `skeleton` · confidence high
@@ -42,4 +53,4 @@ terms: [mahāvratin / mahāvratadhara](../terms/mahavratin.md), [kālāmukha / k
 _Notes: The appendix heading names Haribhadra; the prose is taken here to be Guṇaratna's commentary (moderate confidence)._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._

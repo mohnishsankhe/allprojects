@@ -5,12 +5,12 @@
 **Coverage:** A5
 
 ## Sides (recorded before any reconciliation)
-### `lin:carvaka`
+### [Cārvāka / Lokāyata](../lineages/carvaka.md)
 No (as reported by opponents): only perception is valid; pervasion cannot be established — perception cannot survey all cases, inference would presuppose inference, and testimony is itself inferential; Jayarāśi's scepticism extends even to perception.
 - Reported by opponents (Nyāya and doxographies); Jayarāśi's Tattvopaplavasiṃha is the extant sceptical text.
 **Texts:** 
   - [Sarvadarśanasaṃgraha](../texts/sarvadarsanasangraha.md) — ref: ch. 1 (Cārvāka)
-  - `src:tattvopaplavasimha` — 
+  - [Tattvopaplavasiṃha](../texts/tattvopaplavasimha.md) — 
 ### [Nyāya](../lineages/nyaya.md)
 Yes: the alleged deviations of marks (river swelling from damming etc.) involve different marks; the nāstika who uses an example has already given up his position, and one who refutes others must use inference.
 - NS 2.1.38–39; NBh 1.1.1.
@@ -28,4 +28,4 @@ Yes: the alleged deviations of marks (river swelling from damming etc.) involve 
 _Notes: Cārvāka positions are opponents' reports (reported_by_opponent)._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

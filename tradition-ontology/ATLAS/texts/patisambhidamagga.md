@@ -12,8 +12,9 @@
 **Availability:** digitized-original
 
 The 'path of discrimination', an Abhidhamma-style treatise in the Sutta Piṭaka ascribed to Sāriputta: 73 kinds of knowledge, ānāpānasati, the faculties, emptiness, the kinds of liberation and the 'path of discrimination'.
+**Commentaries on this text:** [Saddhammappakāsinī](saddhammappakasini.md)
 
 _Notes: Treated in depth by U37 with the Visuddhimagga, which draws on it._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

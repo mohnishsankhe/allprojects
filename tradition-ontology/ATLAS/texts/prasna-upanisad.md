@@ -183,4 +183,4 @@ terms: [avidyā](../terms/avidya.md), [guru](../terms/guru.md) · concepts: [Tea
 _Notes: Veda affiliation: Atharvaveda (traditionally the Paippalāda śākhā)_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

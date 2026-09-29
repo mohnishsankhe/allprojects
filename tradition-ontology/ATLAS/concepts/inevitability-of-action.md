@@ -13,4 +13,4 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-28 09:07 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 16:38 IST._

@@ -1,0 +1,18 @@
+# Calling the name of Amitābha (nianfo / nembutsu)
+
+`prc:nianfo` · `skeleton` · confidence high
+
+**Category:** mantra-sound
+**Convergence:** 6 independent lineage(s): `lin:chan`, `lin:jodo-shinshu`, `lin:jodo-shu`, [Mahāyāna](../lineages/mahayana.md), `lin:pure-land`, `lin:tiantai`
+**Taught in:** `lin:chan`, `lin:jodo-shinshu`, `lin:jodo-shu`, [Mahāyāna](../lineages/mahayana.md), `lin:pure-land`, `lin:tiantai`
+
+Thinking of Amitābha and calling 'namo Amitābha Buddha' — ten times even at death (Contemplation Sūtra), holding the name one to seven days with undistracted mind (Smaller Sūtra), with faith in the eighteenth vow (Larger Sūtra).
+**Sources:** 
+  - [Sukhāvatīvyūha-sūtra (larger)](../texts/sukhavativyuha-larger.md) — ref: 18th vow; rests_on: ["tea:sukhavativyuha-larger:vow18"]
+  - [Sukhāvatīvyūha-sūtra (smaller)](../texts/sukhavativyuha-smaller.md) — rests_on: ["tea:sukhavativyuha-smaller:10"]
+  - [Amitāyurdhyāna-sūtra (Guan wuliangshou jing)](../texts/amitayurdhyana-sutra.md) — ref: 16th contemplation; rests_on: ["tea:amitayurdhyana-sutra:16"]
+
+_Notes: Sūtra layer; the schools' practice (Shandao, Hōnen, Shinran) is U43._
+
+---
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._

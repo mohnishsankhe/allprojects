@@ -14,4 +14,4 @@ Venerate breath as the eldest and best, as brahman (KauU 2.1-2; ChU 4.10.4), as 
   - [Praśna Upaniṣad](../texts/prasna-upanisad.md) — ref: 2; rests_on: ["tea:prasna-upanisad:2.5-13"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

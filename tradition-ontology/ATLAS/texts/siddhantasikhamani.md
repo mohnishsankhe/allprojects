@@ -118,7 +118,7 @@ Many siddhāntas are renowned, differing in conduct and meaning according to tas
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
-disputes: [What authority do the Veda and the Āgamas have for Vīraśaivas?](../debates/virasaiva-veda-agama-authority.md), `dsp:status-of-veda`
+disputes: [What authority do the Veda and the Āgamas have for Vīraśaivas?](../debates/virasaiva-veda-agama-authority.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 5.10-13 <a id="tea-siddhantasikhamani-5-10-13"></a>
 `skeleton` · confidence high
@@ -220,7 +220,7 @@ The Cārvākas call the body the self, others the senses, the Bauddhas the intel
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: beginner (piṇḍajñāna-sthala (bhakta)) · types: consciousness-mind, dispute_
 
-concepts: [The self (jīva, aṅga, ātman) in the Vīraśaiva view](../concepts/anga-jiva-virasaiva.md) · disputes: `dsp:is-there-a-self`
+concepts: [The self (jīva, aṅga, ātman) in the Vīraśaiva view](../concepts/anga-jiva-virasaiva.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 5.61-67 <a id="tea-siddhantasikhamani-5-61-67"></a>
 `skeleton` · confidence high
@@ -1234,4 +1234,4 @@ teachers: [Reṇukācārya (Revaṇasiddha)](../teachers/renukacarya.md)
 _Notes: Chapter structure, sthala lists and all SSM refs used by this unit were checked against the local e-text (sources_raw/raw_etexts/mixed/mukta/vIrashaiva/…/siddhAntashikhAmaNi__M00207.md). family 'vedic' follows the coverage-map grouping (A7, Vedic family); it does not settle the tradition's internal debate on Vedic authority (see dsp:virasaiva-veda-agama-authority)._
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._

@@ -75,4 +75,4 @@ teachers: [Gaṇeśa (Gajānana)](../teachers/ganesa.md)
 _Notes: Verse total 414 recalled (low confidence). lin:ganapatya is referenced by the slug rule; no unit in the registry owns the Gāṇapatya lineage (see REPORT gaps)._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

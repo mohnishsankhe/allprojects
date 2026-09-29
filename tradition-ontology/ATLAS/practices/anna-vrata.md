@@ -11,4 +11,4 @@ Do not despise food; do not reject food; make much food; turn no one away from y
   - [Taittirīya Upaniṣad](../texts/taittiriya-upanisad.md) — ref: 3.7-3.10; rests_on: ["tea:taittiriya-upanisad:3.7.1-3.10.4"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

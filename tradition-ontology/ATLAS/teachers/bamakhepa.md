@@ -13,4 +13,4 @@
 **Realization — the tradition's account:** Taught by the ascetic Kailāspati Bābā at Tārāpīṭh, he had the vision of Tārā in the cremation ground and thereafter treated her as his mother.
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._

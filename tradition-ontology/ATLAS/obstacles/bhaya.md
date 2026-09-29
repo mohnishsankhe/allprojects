@@ -12,6 +12,13 @@ Bhagavad Gītā 1–3: Gone, with passion and anger, from the sage of steady min
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 2.40, 2.56; rests_on: ["tea:bhagavad-gita:2.40", "tea:bhagavad-gita:2.56"]
   - [Bṛhadāraṇyaka Upaniṣad](../texts/brhadaranyaka-upanisad.md) — ref: 1.4.2; 4.4.25; rests_on: ["tea:brhadaranyaka-upanisad:1.4.2", "tea:brhadaranyaka-upanisad:4.4.25"]
   - [Taittirīya Upaniṣad](../texts/taittiriya-upanisad.md) — ref: 2.4; 2.7; 2.9; rests_on: ["tea:taittiriya-upanisad:2.4.1", "tea:taittiriya-upanisad:2.7.1", "tea:taittiriya-upanisad:2.9.1"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 4.10; rests_on: ["tea:bhagavad-gita:4.10"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.28; rests_on: ["tea:bhagavad-gita:5.28"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.14; rests_on: ["tea:bhagavad-gita:6.14"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:4.10, tea:bhagavad-gita:5.28, tea:bhagavad-gita:6.14 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._

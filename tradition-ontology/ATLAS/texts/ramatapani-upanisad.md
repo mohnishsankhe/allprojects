@@ -34,7 +34,7 @@ For the pure consciousness, one without a second, partless and bodiless, a form 
 
 _level: bridging · standpoint: devotional · path: devotion · stage: all · types: ultimate, dispute_
 
-concepts: [Images and forms for worshippers](../concepts/images-for-the-ignorant.md) · disputes: [Is worship of images and outer forms valid for one seeking liberation?](../debates/image-worship-and-inner-worship.md)
+concepts: [Images and forms for worshippers](../concepts/images-for-the-ignorant.md) · disputes: [Should consecrated images of the Jinas be worshipped?](../debates/image-worship-and-inner-worship.md)
 
 ### pūrva 4-5 (summary) <a id="tea-ramatapani-upanisad-purva-4-5-summary"></a>
 `skeleton` · confidence low
@@ -67,4 +67,4 @@ concepts: [The measures of Oṃ (mātrā)](../concepts/omkara-matras.md)
 _Notes: Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

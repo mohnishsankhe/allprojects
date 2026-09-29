@@ -14,4 +14,4 @@ Lying face down, the feet turned up behind and held with the hands, the mouth an
 _Notes: The Gheraṇḍa's form is prone, unlike the modern kneeling posture of this name._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._

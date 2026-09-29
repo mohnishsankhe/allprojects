@@ -37,4 +37,4 @@ _none recorded_
 
 - 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_1.md (GRETIL, Van Nooten–Holland/Aufrecht), https://en.wikipedia.org/wiki/Shakala_Shakha — Confirmed: the only fully preserved Ṛgveda recension, 1,028 hymns with the 11 Vālakhilya (local count); Padapāṭha ascribed to Śākalya.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._

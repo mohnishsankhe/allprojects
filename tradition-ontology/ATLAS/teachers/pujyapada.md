@@ -1,13 +1,23 @@
 # Pūjyapāda Devanandin
 
-`tch:pujyapada` · `skeleton` · confidence moderate
+`tch:pujyapada` · `sourced` · confidence high
 
-**Lineages:** [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md), [Digambara](../lineages/digambara.md)
+**Alternate names:** Devanandin, Jinendrabuddhi
+**Lineages:** [Digambara](../lineages/digambara.md), [Adhyātma movement (Adhyātma-mata)](../lineages/adhyatma-jain.md), [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
+**Dates:** Scholarly account: c. late 5th–6th c. CE; (confidence low)
 **Historicity:** historical
 **Works:** 
+  - [Sarvārthasiddhi](../texts/sarvarthasiddhi.md) — attribution: accepted
+  - [Samādhitantra](../texts/samadhitantra.md) — attribution: accepted
+  - [Iṣṭopadeśa](../texts/istopadesa.md) — attribution: accepted
+  - [Daśabhakti](../texts/dasabhakti.md) — attribution: traditional
   - [Jainendra-vyākaraṇa](../texts/jainendra-vyakarana.md) — attribution: accepted
 
-Digambara teacher; U02 adds only his grammar, the Jainendra-vyākaraṇa.
+Digambara ācārya, grammarian and philosopher: author of the Sarvārthasiddhi (which fixed the Digambara Tattvārthasūtra), the Samādhitantra and Iṣṭopadeśa on the self, and the Jainendra grammar.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Pujyapada — Confirmed: Digambara monk, author of the Jainendra-vyākaraṇa, c. 510–600 CE (Wikipedia).
+
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

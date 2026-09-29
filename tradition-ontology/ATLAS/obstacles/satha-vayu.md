@@ -13,4 +13,4 @@ In the hagiographies, the wind (śaṭha-vāyu) that touches every newborn and m
 _Notes: Hagiographic teaching, the tradition's account._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

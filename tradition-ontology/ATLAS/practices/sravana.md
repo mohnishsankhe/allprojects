@@ -19,4 +19,4 @@ Study of scripture and its right interpretation under a teacher. In Dvaita: hear
 **Sequences:** [The Dvaita sequence of means (sādhana-krama)](../paths/dvaita-sadhana-krama.md), `pth:advaita-sadhana`
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

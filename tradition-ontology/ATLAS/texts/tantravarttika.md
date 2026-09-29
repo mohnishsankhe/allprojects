@@ -29,7 +29,7 @@ Texts not accepted by those who know the three Vedas — those of the Sāṃkhya
 
 _level: conventional · standpoint: polemical · path: general, ritual · stage: all · types: dispute, ethics_
 
-concepts: [The authority of smṛti, custom and other scriptures](../concepts/authority-of-smrti.md) · disputes: `dsp:status-of-veda`, [Are the Āgamas and tantras authoritative — equal to, above, or outside the Veda?](../debates/agama-veda-authority.md), [Is the Pāñcarātra a valid scripture, and does the Brahma Sūtra refute it?](../debates/validity-of-pancaratra.md)
+concepts: [The authority of smṛti, custom and other scriptures](../concepts/authority-of-smrti.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md), [Are the Āgamas and tantras authoritative — equal to, above, or outside the Veda?](../debates/agama-veda-authority.md), [Is the Pāñcarātra a valid scripture, and does the Brahma Sūtra refute it?](../debates/validity-of-pancaratra.md)
 
 ### 1.3.4/2 <a id="tea-tantravarttika-1-3-4-2"></a>
 `skeleton` · confidence high
@@ -40,7 +40,7 @@ The Buddha's very transgression is praised by his followers as an ornament: he s
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute_
 
-concepts: [The authority of smṛti, custom and other scriptures](../concepts/authority-of-smrti.md) · disputes: `dsp:status-of-veda`
+concepts: [The authority of smṛti, custom and other scriptures](../concepts/authority-of-smrti.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 1.3.6 <a id="tea-tantravarttika-1-3-6"></a>
 `skeleton` · confidence high
@@ -49,7 +49,7 @@ Even teachings of the Buddha and others that do not contradict the Veda — buil
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, ethics_
 
-concepts: [The authority of smṛti, custom and other scriptures](../concepts/authority-of-smrti.md) · disputes: `dsp:status-of-veda`
+concepts: [The authority of smṛti, custom and other scriptures](../concepts/authority-of-smrti.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 1.3.24-29 <a id="tea-tantravarttika-1-3-24-29"></a>
 `skeleton` · confidence high
@@ -64,4 +64,4 @@ terms: [nitya-karma](../terms/nitya-karma.md), [pratyavāya](../terms/pratyavaya
 
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

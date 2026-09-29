@@ -14,4 +14,4 @@ The ill-will and meanness of the one who does not give; 'who eats alone has only
 _Notes: rests_on: tea:rgveda:10.117.1, tea:rgveda:10.117.6, tea:rgveda:8.48.3_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._

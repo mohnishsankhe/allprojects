@@ -1,6 +1,6 @@
 # Pāraskara Gṛhyasūtra
 
-`src:paraskara-grhyasutra` · `skeleton` · confidence moderate
+`src:paraskara-grhyasutra` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,4 +13,8 @@
 The domestic-rite manual of the White Yajurveda (also called Kātīya or Vājasaneyi Gṛhyasūtra), in 3 kāṇḍas, much used in North India for marriage (with the seven steps), initiation and funeral water-offerings.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:DCS:Pāraskaragṛhyasūtra, catalog:raw_etexts:paraskara_grihya_sutra, https://en.wikipedia.org/wiki/Grhyasutra — Extant (DCS, raw_etexts); the White Yajurveda Gṛhyasūtra in 3 kāṇḍas (standard).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

@@ -11,4 +11,4 @@
 Author of the Sāṃkhyasūtravṛttisāra, a commentary on the Sāṃkhya Sūtra largely abridging Aniruddha.
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._

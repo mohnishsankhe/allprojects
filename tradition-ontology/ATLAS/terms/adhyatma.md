@@ -10,6 +10,8 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: In the compound adhyātma-cetas (3.30): the mind directed to the self, with which one resigns all actions to Kṛṣṇa; commentators gloss it variously.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The own nature (svabhāva) of the Imperishable (BhG 8.3); the knowledge of the self is the best of sciences (10.32).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): With respect to the self/body, as opposed to adhidaivata, with respect to the gods: the two registers in which the Upaniṣads state correspondences (ChU 3.18; Kena 4.4-5).
+- [Śvetāmbara](../lineages/svetambara.md): (1) In Haribhadra's Yogabindu the first yoga: study and contemplation of reality with friendliness etc. by one with vows; (2) in Yaśovijaya, pure activity centred on the self by one free of delusion (Adhyātmasāra 1.2); (3) the name of the seventeenth-century movement centred on the Samayasāra.
+- [Adhyātma movement (Adhyātma-mata)](../lineages/adhyatma-jain.md): The study and direct experience of the pure self (śuddhātman) by the ultimate standpoint, as taught in the Samayasāra and its Hindi renderings.
 
 ## Forms in other languages
 
@@ -17,4 +19,4 @@
 **Related:** [ātman](atman.md), [adhibhūta](adhibhuta.md), [adhidaiva](adhidaiva.md), [adhiyajña](adhiyajna.md), [adhidaivata](adhidaivata.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._

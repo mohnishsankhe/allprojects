@@ -14,5 +14,17 @@
 **Editions / translations:** 
   - kind: original; name: Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka edition, based on the Sixth Council text), as published by SuttaCentral in bilara-data (root/pli/ms); local copy in sources_raw/bilara-data; licence: CC0 / public domain as published by SuttaCentral; url: https://suttacentral.net/sn22
 
+## Teachings (1: skeleton 1)
+
+### 22.48 <a id="tea-khandha-samyutta-22-48"></a>
+`skeleton` · confidence high
+
+The five aggregates are whatever form, feeling, perception, formations and consciousness — past, future, present, internal, external, gross, subtle, inferior, superior, far or near; the five aggregates of clinging are those that are affected by the effluents and can be clung to.
+
+_level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
+
+terms: [khandha](../terms/khandha.md), [upādānakkhandha](../terms/upadanakkhandha.md) · concepts: [The five aggregates](../concepts/five-aggregates.md)
+
+
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

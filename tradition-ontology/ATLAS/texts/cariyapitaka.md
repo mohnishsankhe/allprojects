@@ -14,4 +14,4 @@
 35 verse accounts of the Buddha's former lives illustrating the fulfilment of the perfections (pāramī) — giving, virtue, renunciation, determination, truthfulness, loving-kindness and equanimity.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

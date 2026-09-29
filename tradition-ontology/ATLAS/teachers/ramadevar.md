@@ -16,4 +16,4 @@ Siddhar whose Pūjāviti teaches the worship of the goddess Maṉōṉmaṇi/Vā
 _Notes: The Mecca/Yākōpu account is the tradition's, recalled at moderate confidence. Counted in the popular list of the eighteen Siddhars (see cpt:eighteen-siddhars); the samādhi place given follows that list and is recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

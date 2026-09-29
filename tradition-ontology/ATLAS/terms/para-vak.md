@@ -18,4 +18,4 @@
 **Related:** [paśyantī](pasyanti.md)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U04-minor-upanisads, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U04-minor-upanisads, skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

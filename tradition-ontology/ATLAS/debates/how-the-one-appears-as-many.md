@@ -31,4 +31,4 @@ Grounded in Sureśvara's principle that any method leading to knowledge of the i
 **The traditions' own objections:** Each sub-school defends its own theory as the more coherent; the reconciliation is the tradition's own, but individual authors still argue for one.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

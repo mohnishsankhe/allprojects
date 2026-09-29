@@ -19,6 +19,6 @@ Son of Kūreśa, named by Rāmānuja in fulfilment of Yāmuna's wish; successor 
 ---
 **Verification checks**
 
-- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Parasara_Bhattar — Confirmed (12th c.).
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Parasara_Bhattar — Confirmed (12th c.).
 
-_Contributed by: skeleton:U14-visistadvaita, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U14-visistadvaita, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

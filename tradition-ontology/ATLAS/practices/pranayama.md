@@ -3,8 +3,8 @@
 `prc:pranayama` · `skeleton` · confidence high
 
 **Category:** breath
-**Convergence:** 5 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Sāṃkhya](../lineages/samkhya.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
-**Taught in:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Sāṃkhya](../lineages/samkhya.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
+**Convergence:** 9 independent lineage(s): [Digambara](../lineages/digambara.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Jainism (Jaina dharma)](../lineages/jainism.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Sāṃkhya](../lineages/samkhya.md), [Śvetāmbara](../lineages/svetambara.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Taught in:** [Digambara](../lineages/digambara.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Jainism (Jaina dharma)](../lineages/jainism.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Sāṃkhya](../lineages/samkhya.md), [Śvetāmbara](../lineages/svetambara.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 
 In the haṭha texts breath-control is exhalation, inhalation and retention (kumbhaka), retention being either sahita (joined with inhalation and exhalation) or kevala (without them) (HYP 2.71). Because mind moves with breath (HYP 2.2), holding the breath steadies the mind; with the channels purified and the three locks applied the breath enters the suṣumnā and the state of manonmanī arises (HYP 2.41-42, 2.45-47). It follows firm posture and is practised as the guru teaches (HYP 2.1); the Gheraṇḍa makes place, season, moderate diet and purification of the channels its preliminaries (GS 5.2). Grades are known by sweat, trembling and rising from the ground (HYP 2.12; GS 5.56-57; ŚS 3.40-46; GŚ 49).
 **Stage:** intermediate
@@ -28,7 +28,12 @@ In the haṭha texts breath-control is exhalation, inhalation and retention (kum
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 2.52; rests_on: ["tea:yoga-bhasya:2.52"]
   - [Maitrī Upaniṣad](../texts/maitri-upanisad.md) — ref: 6.18; rests_on: ["tea:maitri-upanisad:6.18"]
   - [Śvetāśvatara Upaniṣad](../texts/svetasvatara-upanisad.md) — ref: 2.9; rests_on: ["tea:svetasvatara-upanisad:2.9"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 4.29; rests_on: ["tea:bhagavad-gita:4.29"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.27; rests_on: ["tea:bhagavad-gita:5.27"]
   - [Sāṃkhya Sūtra](../texts/samkhya-sutra.md) — ref: 3.33; rests_on: ["tea:samkhya-sutra:3.32-36"]
+  - [Yogaśāstra (Hemacandra)](../texts/yogasastra-hemacandra.md) — ref: 6.4-5; rests_on: ["tea:yogasastra-hemacandra:6.4-5"]
+  - [Yogaśāstra (Hemacandra)](../texts/yogasastra-hemacandra.md) — ref: ch.5; rests_on: ["tea:yogasastra-hemacandra:ch.5"]
+  - [Jñānārṇava](../texts/jnanarnava.md) — ref: pranayama; rests_on: ["tea:jnanarnava:pranayama"]
 **Sequences:** [Haṭhapradīpikā: the order of practice](../paths/hyp-practice-sequence.md), `pth:gheranda-seven-limbs`, `pth:yoga-sutra-eight-limbs`
 
 ## The texts' own warnings
@@ -39,8 +44,14 @@ In the haṭha texts breath-control is exhalation, inhalation and retention (kum
 - Yoga begun in the cold, hot or rainy seasons, or without moderate diet, brings disease; begin in spring or autumn. — [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) 5.8-9
 - Release, fill and bind the breath each with due care; thus success comes. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 2.18
 - Breath is let out gently, through the nose (ŚU 2.9). — [Śvetāśvatara Upaniṣad](../texts/svetasvatara-upanisad.md) 2.9
+- Restraining the breath causes pain and the pain disturbs the mind; breath-control is not a means to liberation. — [Yogaśāstra (Hemacandra)](../texts/yogasastra-hemacandra.md) 6.4-5
+- Those who pursue breath-control for powers fall into distress. — [Jñānārṇava](../texts/jnanarnava.md) pranayama
 
 _Notes: YBh 2.52 quotes: 'There is no austerity higher than prāṇāyāma.' Haṭha texts add warnings (U28/U29)._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:4.29, tea:bhagavad-gita:5.27 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch04-06, skeleton:U09-samkhya, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._

@@ -28,4 +28,4 @@ terms: [kāyaka](../terms/kayaka.md) · concepts: [Work as worship (kāyaka)](..
 _Notes: aṅkita (signature): Amarēśvaraliṅga. Cited by incipit; edition numbering to be fixed in Phase D._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._

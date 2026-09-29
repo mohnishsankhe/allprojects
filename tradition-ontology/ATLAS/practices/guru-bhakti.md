@@ -23,4 +23,4 @@ Hold the highest devotion to God and to one's teacher as to God (ŚU 6.23); hono
 - Kāl sends false teachers in the true guru's name. — [Anurāg Sāgar](../texts/anurag-sagar.md) prophecy of the forty-two generations
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U24-kali-kaula, skeleton:U27-sant-baul, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U24-kali-kaula, skeleton:U27-sant-baul, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

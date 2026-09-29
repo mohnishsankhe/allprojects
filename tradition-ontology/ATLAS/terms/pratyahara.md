@@ -13,10 +13,11 @@
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): Withdrawal of the senses, which burns away attachments (MDh 6.72).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Withdrawal (of the senses): second limb of the Maitrī's yoga (MaiU 6.18); cf. drawing the senses into the heart (ŚU 2.8) and turning the sight inward (KU 2.1.1).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Withdrawal of the senses; five kinds, including seeing all as the Self.
+- [Śvetāmbara](../lineages/svetambara.md): In Haribhadra's correlation the limb of the sthirā view; in Hemacandra (YŚ 6) withdrawing the senses and mind from objects.
 
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U28-hatha-texts, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U28-hatha-texts, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._

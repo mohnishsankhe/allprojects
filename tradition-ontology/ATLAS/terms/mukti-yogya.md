@@ -12,8 +12,8 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-- analogous: `trm:bhavya` — Jain 'bhavya' (capable of liberation) is analogous to 'mukti-yogya'; Dvaita grounds it in intrinsic nature and grace.
+- analogous: [bhavya](bhavya.md) — Jain 'bhavya' (capable of liberation) is analogous to 'mukti-yogya'; Dvaita grounds it in intrinsic nature and grace.
 **Related:** [nitya-saṃsārin](nitya-samsarin.md), [tamo-yogya](tamo-yogya.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

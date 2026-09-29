@@ -22,6 +22,7 @@ _Notes: A brāhmaṇa Śaunaka also instructs Yudhiṣṭhira at the start of th
 **Verification checks**
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Shaunaka — Confirmed: the tradition ascribes to Śaunaka the Ṛgveda Prātiśākhya, Bṛhaddevatā, Caraṇavyūha, six Anukramaṇīs and the Ṛgvidhāna; the Śaunaka AV recension bears his name. Teacher of Āśvalāyana and the question of several Śaunakas are traditional/scholarly reports not separately checked.
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 1.1.1, 3.2.71 — Kulapati of the Naimiṣa sages (1.1.1) located; the separate Śaunaka of 3.2 noted without identity, as the entry says.
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Shaunaka, https://hindupedia.com/en/Aitareya_Ara%E1%B9%87yaka — Wikipedia: Śaunaka was teacher of Kātyāyana and Āśvalāyana and author of the Ṛgveda-Prātiśākhya, the Bṛhaddevatā, the Caraṇavyūha and six Anukramaṇīs. AA book 5 is ascribed to Śaunaka (Hindupedia). The distinction from the Muṇḍaka and Mahābhārata Śaunakas is noted in the entry.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 1.1.1, 3.2.71 — Kulapati of the Naimiṣa sages (1.1.1) located; the separate Śaunaka of 3.2 noted without identity, as the entry says.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

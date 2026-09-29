@@ -187,7 +187,7 @@ Rāma teaches Śabarī the nine forms of devotion: the company of saints; love f
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: practice, ethics_
 
-concepts: [The nine forms of devotion](../concepts/navadha-bhakti.md) · practices: [The nine forms of devotion (navadhā bhakti)](../practices/navadha-bhakti.md), [Holy company (satsaṅga)](../practices/satsanga.md), [Hearing the Lord's names, qualities and deeds (śravaṇa)](../practices/sravana-bhakti.md), [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md), [Devotion to the teacher (guru-bhakti)](../practices/guru-bhakti.md) · teachers: [Tulsīdās](../teachers/tulsidas.md), [Rāma (Dāśarathi)](../teachers/rama.md), [Śabarī](../teachers/sabari.md)
+concepts: [The nine forms of devotion](../concepts/navadha-bhakti.md) · practices: [The nine forms of devotion (navadhā bhakti)](../practices/navadha-bhakti.md), [Holy company (satsaṅga)](../practices/satsanga.md), [Hearing the Lord's names, qualities and deeds (śravaṇa)](../practices/sravana-bhakti.md), [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md), [Devotion to the teacher (guru-bhakti)](../practices/guru-bhakti.md) · teachers: [Tulsīdās](../teachers/tulsidas.md), [Rāma (Dāśarathi)](../teachers/rama.md), [Śabarī](../teachers/sabari.md)
 
 ### 4.3 (kāṇḍa.dohā, Gita Press numbering; caupāī-level position approximate) <a id="tea-ramcaritmanas-4-3"></a>
 `skeleton` · confidence high
@@ -300,7 +300,7 @@ Bhuśuṇḍi describes the Kali age — dharma swallowed, scriptures neglected,
 
 _level: conventional · standpoint: cosmic · path: sound, devotion · stage: all · types: world-fate, practice_
 
-terms: [kali-yuga](../terms/kali-yuga.md) · concepts: [The dharma of the Kali age](../concepts/kali-yuga-dharma.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md) · teachers: [Tulsīdās](../teachers/tulsidas.md)
+terms: [kali-yuga](../terms/kali-yuga.md) · concepts: [The dharma of the Kali age](../concepts/kali-yuga-dharma.md) · practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md) · teachers: [Tulsīdās](../teachers/tulsidas.md)
 
 ### Araṇya-kāṇḍa (c. 3.38–39; location to verify) <a id="tea-ramcaritmanas-3-39"></a>
 `skeleton` · confidence moderate
@@ -335,4 +335,4 @@ concepts: [The vernacular as sacred speech](../concepts/vernacular-as-sacred-spe
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

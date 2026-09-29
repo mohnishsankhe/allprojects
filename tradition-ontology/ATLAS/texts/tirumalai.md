@@ -24,7 +24,7 @@ We have put the senses under guard, leapt beyond the Kali age, and now, proud of
 
 _level: conventional · standpoint: seeker · path: sound, devotion · stage: all · types: practice, death-dying_
 
-terms: [nāma](../terms/nama.md), [aivar](../terms/aivar.md) · concepts: [The divine name](../concepts/divine-name.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md) · obstacles: [The five senses as thieves (aivar)](../obstacles/aivar.md) · teachers: [Toṇṭaraṭippoṭi Āḻvār](../teachers/tontaratippoti-alvar.md)
+terms: [nāma](../terms/nama.md), [aivar](../terms/aivar.md) · concepts: [The divine name](../concepts/divine-name.md) · practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md) · obstacles: [The five senses as thieves (aivar)](../obstacles/aivar.md) · teachers: [Toṇṭaraṭippoṭi Āḻvār](../teachers/tontaratippoti-alvar.md)
 
 ### 2 <a id="tea-tirumalai-2"></a>
 `skeleton` · confidence high
@@ -33,7 +33,7 @@ O Acyuta, with body like an emerald mountain, coral lips and red lotus eyes, chi
 
 _level: conventional · standpoint: devotional · path: sound, devotion · stage: all · types: practice, karma-liberation_
 
-terms: [nāma](../terms/nama.md) · concepts: [The divine name](../concepts/divine-name.md), [Devotion as its own fruit (phala-rūpatva)](../concepts/bhakti-as-its-own-fruit.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md) · teachers: [Toṇṭaraṭippoṭi Āḻvār](../teachers/tontaratippoti-alvar.md)
+terms: [nāma](../terms/nama.md) · concepts: [The divine name](../concepts/divine-name.md), [Devotion as its own fruit (phala-rūpatva)](../concepts/bhakti-as-its-own-fruit.md) · practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md) · teachers: [Toṇṭaraṭippoṭi Āḻvār](../teachers/tontaratippoti-alvar.md)
 
 ### 25 <a id="tea-tirumalai-25"></a>
 `skeleton` · confidence low
@@ -55,4 +55,4 @@ concepts: [The Lord's devotees as one's masters; service to devotees](../concept
 
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

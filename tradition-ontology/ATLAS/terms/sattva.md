@@ -23,4 +23,4 @@
 _Notes: Taken as the guṇa sattva or as 'being, the real'; the commentators divide._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch01-03. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 16:38 IST._

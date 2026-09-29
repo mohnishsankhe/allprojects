@@ -1,6 +1,6 @@
 # The three planes: divine, bodily, sacrificial
 
-`cpt:adhidaiva-adhyatma-adhiyajna` · `skeleton` · confidence moderate
+`cpt:adhidaiva-adhyatma-adhiyajna` · `sourced` · confidence moderate
 
 **Category:** ultimate
 
@@ -14,4 +14,8 @@
 - part-of → [Bandhu — the correspondences between rite, cosmos and person](bandhu-correspondences.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — The planes are named as such in ŚB 10–11 (adhidevatam / adhyātmam) and in Nirukta 11.4 (adhiyajñam / adhidaivatam). Rests on teaching checks confirmed in this sweep: tea:satapatha-brahmana:10.6.2.1-4, tea:aitareya-aranyaka:3.2.5.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

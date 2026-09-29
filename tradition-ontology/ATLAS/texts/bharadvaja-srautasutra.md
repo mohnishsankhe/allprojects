@@ -1,6 +1,6 @@
 # Bhāradvāja Śrautasūtra
 
-`src:bharadvaja-srautasutra` · `skeleton` · confidence low
+`src:bharadvaja-srautasutra` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 The Śrauta manual of the Bhāradvāja branch of the Taittirīya school.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:DCS:Bhāradvājaśrautasūtra, catalog:eBharati:bhAradvAjashrautasUtram, https://en.wikipedia.org/wiki/%C5%9Arauta — Low-confidence entry confirmed as extant (DCS, eBhāratī); the Bhāradvāja branch of the Taittirīya school.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

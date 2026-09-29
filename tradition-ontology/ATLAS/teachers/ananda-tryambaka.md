@@ -12,4 +12,4 @@ Son of Aruṇāditya and father of Somānanda (Śivadṛṣṭi 7.120).
 _Notes: Id disambiguated from tch:ananda (the Buddha's attendant)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

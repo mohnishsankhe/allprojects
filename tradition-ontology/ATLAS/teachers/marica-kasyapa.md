@@ -12,4 +12,4 @@
 The teacher of children's medicine whose instruction to Vṛddha Jīvaka forms the Kāśyapa Saṃhitā; in Ca Śā 6.21 'Mārīci Kaśyapa' holds that the order of the embryo's limbs cannot be known, being beyond perception.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

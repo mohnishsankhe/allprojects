@@ -10,6 +10,6 @@ An aged brāhmaṇī whose son dies of snakebite; she refuses the vengeance a hu
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 13.1.9-26 (Gautamī), 13.1.28 (Arjunaka), 13.1.42-59 (mṛtyu, kāla) — Located as described.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 13.1.9-26 (Gautamī), 13.1.28 (Arjunaka), 13.1.42-59 (mṛtyu, kāla) — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

@@ -21,4 +21,4 @@
 **Related:** [bandha](bandha.md), [karaṇa](karana.md)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha, skeleton:U24-kali-kaula. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha, skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._

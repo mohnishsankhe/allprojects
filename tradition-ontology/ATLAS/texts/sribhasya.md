@@ -116,7 +116,7 @@ Brahman is known only from scripture (śāstrayonitvāt): inference cannot prove
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-terms: [pramāṇa](../terms/pramana.md) · concepts: [Scripture and its authority in Viśiṣṭādvaita](../concepts/vedic-authority-visistadvaita.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: `dsp:isvara`
+terms: [pramāṇa](../terms/pramana.md) · concepts: [Scripture and its authority in Viśiṣṭādvaita](../concepts/vedic-authority-visistadvaita.md) · teachers: [Rāmānuja](../teachers/ramanuja.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### 1.1.4 <a id="tea-sribhasya-1-1-4"></a>
 `skeleton` · confidence moderate
@@ -338,4 +338,4 @@ terms: [brahman](../terms/brahman.md), [bhakti](../terms/bhakti.md), [Śriyaḥp
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._

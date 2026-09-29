@@ -14,4 +14,4 @@ Taking what is not the self as self and what is not one's own as 'mine' - the se
   - [Mārkaṇḍeya Purāṇa](../texts/markandeya-purana.md) — ref: 25.10-18; rests_on: ["tea:markandeya-purana:25.10-18"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._

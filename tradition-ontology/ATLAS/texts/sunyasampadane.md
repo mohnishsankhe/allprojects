@@ -90,4 +90,4 @@ terms: [śūnya](../terms/sunya.md), [bayalu](../terms/bayalu.md) · concepts: [
 _Notes: Some accounts speak of five versions; four named compilers are recorded here._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._

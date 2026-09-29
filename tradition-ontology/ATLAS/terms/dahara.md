@@ -18,4 +18,4 @@
 **Related:** [hṛdaya](hrdaya.md), [ākāśa](akasa.md)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U23-sakta-srividya, skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U23-sakta-srividya, skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._

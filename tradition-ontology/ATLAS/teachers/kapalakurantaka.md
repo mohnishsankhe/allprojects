@@ -11,4 +11,4 @@
 Name to which the Haṭhābhyāsapaddhati is ascribed in its manuscripts (recalled).
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._

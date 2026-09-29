@@ -27,8 +27,8 @@ Earth, sprouts and the like have a maker, because they are effects, like a pot; 
 
 _level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: `dsp:isvara`
+terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

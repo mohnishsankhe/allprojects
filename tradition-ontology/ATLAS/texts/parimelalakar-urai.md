@@ -14,4 +14,4 @@
 The most influential of the ten medieval Kuṟaḷ commentaries: reads the Kuṟaḷ through dharmaśāstra and Āgamic categories (e.g. glossing 'the one of eight qualities' of Kuṟaḷ 9 with Śiva's eight attributes as listed in the Śaiva Āgamas), within the four aims of life.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

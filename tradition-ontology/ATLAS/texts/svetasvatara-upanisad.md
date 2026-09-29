@@ -38,7 +38,7 @@ Time, inherent nature, fixed order (niyati), chance, the elements, the womb, the
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: intermediate · types: world-fate, dispute_
 
-terms: [kāla](../terms/kala.md), [svabhāva](../terms/svabhava.md), [niyati](../terms/niyati.md), [yadṛcchā](../terms/yadrccha.md) · concepts: [The candidate causes of the Śvetāśvatara](../concepts/candidate-causes-svetasvatara.md) · disputes: `dsp:causation`, `dsp:isvara`
+terms: [kāla](../terms/kala.md), [svabhāva](../terms/svabhava.md), [niyati](../terms/niyati.md), [yadṛcchā](../terms/yadrccha.md) · concepts: [The candidate causes of the Śvetāśvatara](../concepts/candidate-causes-svetasvatara.md) · disputes: `dsp:causation`, [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### 1.3 <a id="tea-svetasvatara-upanisad-1-3"></a>
 `skeleton` · confidence high
@@ -337,7 +337,7 @@ In the imperishable of the verse, in the highest heaven, where all the gods sit 
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: intermediate · types: ultimate, sound-language_
 
-terms: [akṣara](../terms/aksara.md) · disputes: `dsp:status-of-veda`
+terms: [akṣara](../terms/aksara.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 4.9-10 <a id="tea-svetasvatara-upanisad-4-9-10"></a>
 `skeleton` · confidence high
@@ -447,7 +447,7 @@ Some sages say inherent nature (svabhāva) is the cause, others time — they ar
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: intermediate · types: ultimate, dispute_
 
-terms: [svabhāva](../terms/svabhava.md), [kāla](../terms/kala.md), [brahmacakra](../terms/brahmacakra.md) · concepts: [The candidate causes of the Śvetāśvatara](../concepts/candidate-causes-svetasvatara.md), [Īśvara (the Lord)](../concepts/isvara.md) · disputes: `dsp:causation`, `dsp:isvara`
+terms: [svabhāva](../terms/svabhava.md), [kāla](../terms/kala.md), [brahmacakra](../terms/brahmacakra.md) · concepts: [The candidate causes of the Śvetāśvatara](../concepts/candidate-causes-svetasvatara.md), [Īśvara (the Lord)](../concepts/isvara.md) · disputes: `dsp:causation`, [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### 6.7-9 <a id="tea-svetasvatara-upanisad-6-7-9"></a>
 `skeleton` · confidence high
@@ -458,7 +458,7 @@ We have found him, the supreme great Lord of lords, the supreme deity of deities
 
 _level: ultimate · standpoint: divine · path: devotion, knowledge · stage: advanced · types: ultimate_
 
-terms: [īśvara](../terms/isvara.md), [śakti](../terms/sakti.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: `dsp:isvara`, `dsp:saguna-nirguna`
+terms: [īśvara](../terms/isvara.md), [śakti](../terms/sakti.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), `dsp:saguna-nirguna`
 
 ### 6.10 <a id="tea-svetasvatara-upanisad-6-10"></a>
 `skeleton` · confidence moderate
@@ -571,4 +571,4 @@ terms: [bhakti](../terms/bhakti.md), [guru](../terms/guru.md) · concepts: [Devo
 _Notes: A commentary on it is attributed to Śaṅkara (attribution doubted). Veda affiliation: Black Yajurveda (śākhā uncertain; the name may be that of a school or of its seer)_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

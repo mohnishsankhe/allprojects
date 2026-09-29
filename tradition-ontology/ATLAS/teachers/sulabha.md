@@ -11,6 +11,6 @@ A female mendicant (bhikṣukī) practising the dharma of yoga who wanders the e
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.308.7, 12.308.16 — Located as described.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.308.7, 12.308.16 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

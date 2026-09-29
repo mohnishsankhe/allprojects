@@ -28,7 +28,7 @@ Valid knowledge (pramāṇa) is what accords with its object (yathārtha). It is
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, sound-language_
 
-terms: [pramāṇa](../terms/pramana.md), [kevala-pramāṇa](../terms/kevala-pramana.md), [anupramāṇa](../terms/anupramana.md), [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md), [āgama](../terms/agama.md) · concepts: [Knowledge-itself and the means of knowledge (kevala / anupramāṇa)](../concepts/kevala-anupramana.md) · disputes: `dsp:number-of-pramanas`
+terms: [pramāṇa](../terms/pramana.md), [kevala-pramāṇa](../terms/kevala-pramana.md), [anupramāṇa](../terms/anupramana.md), [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md), [āgama](../terms/agama.md) · concepts: [Knowledge-itself and the means of knowledge (kevala / anupramāṇa)](../concepts/kevala-anupramana.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
 
 ### linga <a id="tea-pramanalaksana-madhva-linga"></a>
 `skeleton` · confidence high
@@ -46,10 +46,10 @@ Perception is of seven kinds, by the division of the witness (sākṣin) and the
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: [sākṣin](../terms/saksin.md), [pratyakṣa](../terms/pratyaksa.md), [manas](../terms/manas.md) · concepts: [The witness (sākṣin)](../concepts/saksin.md), [Mind and its parts in Dvaita](../concepts/antahkarana-dvaita.md) · disputes: `dsp:number-of-pramanas`
+terms: [sākṣin](../terms/saksin.md), [pratyakṣa](../terms/pratyaksa.md), [manas](../terms/manas.md) · concepts: [The witness (sākṣin)](../concepts/saksin.md), [Mind and its parts in Dvaita](../concepts/antahkarana-dvaita.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
 
 
 _Notes: Disambiguated with '-madhva' because other works share the title._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

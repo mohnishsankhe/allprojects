@@ -2,10 +2,13 @@
 
 `tch:virabhadra` · `skeleton` · confidence low
 
-**Lineages:** [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md)
+**Lineages:** [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md), [Śvetāmbara](../lineages/svetambara.md)
 **Historicity:** historical
+**Works:** 
+  - [Catuḥśaraṇa Prakīrṇaka](../texts/catuhsarana-prakirnaka.md) — attribution: traditional
+  - [Bhaktaparijñā](../texts/bhaktaparijna.md) — attribution: traditional
 
 Son of Nityānanda and leader of his line at Khaḍadaha.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

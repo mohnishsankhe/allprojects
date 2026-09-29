@@ -19,5 +19,6 @@ _Notes: Local copy: gretil 1_veda/5_vedang/3_pratis/rgvidhana.md._
 **Verification checks**
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Ṛgvidhāna, catalog:GRETIL-dev:rgvidhana, https://en.wikipedia.org/wiki/Shaunaka — Extant and digitized; ascription to Śaunaka confirmed.
+- 2026-09-28 catalog: confirmed — catalog:DCS:Ṛgvidhāna, catalog:GRETIL-dev:rgvidhana, https://en.wikipedia.org/wiki/Shaunaka — Extant (GRETIL, DCS). Ascribed to Śaunaka by tradition (the Śaunaka literature).
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._

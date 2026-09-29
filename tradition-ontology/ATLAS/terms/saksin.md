@@ -25,4 +25,4 @@
 **Related:** [kūṭastha](kutastha.md), [Turīya](turiya.md), [pratyakṣa](pratyaksa.md), [svataḥ-prāmāṇya](svatah-pramanya.md), [draṣṭṛ](drastr.md), [puruṣa](purusa.md), [upadraṣṭṛ](upadrastr.md)
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U23-sakta-srividya, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U23-sakta-srividya, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

@@ -3,8 +3,8 @@
 `prc:dana` · `skeleton` · confidence high
 
 **Category:** ethics
-**Convergence:** 3 independent lineage(s): [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
-**Taught in:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Convergence:** 5 independent lineage(s): [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Theravāda](../lineages/theravada.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Taught in:** [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Theravāda](../lineages/theravada.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
 
 Give because it ought to be given, to one who makes no return, at the right place and time to a worthy person (17.20); the gleaner's gift of his last food to a guest (MBh 14.92–93).
 **Stage:** all
@@ -13,6 +13,8 @@ Give because it ought to be given, to one who makes no return, at the right plac
   - [Mahābhārata](../texts/mahabharata.md) — ref: 14.92–93; rests_on: ["tea:mahabharata:14.92-93"]
   - [Ṛgveda Saṃhitā](../texts/rgveda.md) — ref: 10.117; rests_on: ["tea:rgveda:10.117.1", "tea:rgveda:10.117.6"]
   - [Ṛgveda Saṃhitā](../texts/rgveda.md) — ref: 10.107; rests_on: ["tea:rgveda:10.107.2"]
+  - [Kūṭadanta Sutta](../texts/kutadanta-sutta.md) — ref: 22-27; rests_on: ["tea:kutadanta-sutta:22-27"]
+  - [Mahāparinibbāna Sutta](../texts/mahaparinibbana-sutta.md) — ref: 4.42; rests_on: ["tea:mahaparinibbana-sutta:4.42"]
   - [Bṛhadāraṇyaka Upaniṣad](../texts/brhadaranyaka-upanisad.md) — ref: 5.2.1-3; rests_on: ["tea:brhadaranyaka-upanisad:5.2.1-3"]
   - [Taittirīya Upaniṣad](../texts/taittiriya-upanisad.md) — ref: 1.11.3; rests_on: ["tea:taittiriya-upanisad:1.11.1-4"]
   - [Chāndogya Upaniṣad](../texts/chandogya-upanisad.md) — ref: 3.17.4; rests_on: ["tea:chandogya-upanisad:3.17.4"]
@@ -26,4 +28,4 @@ Give because it ought to be given, to one who makes no return, at the right plac
 _Notes: U05's contribution to a shared practice._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads, skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U36-pali-suttas, skeleton:U03-principal-upanisads, skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._

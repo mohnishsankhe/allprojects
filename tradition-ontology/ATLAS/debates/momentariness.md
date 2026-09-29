@@ -5,7 +5,7 @@
 **Coverage:** A5
 
 ## Sides (recorded before any reconciliation)
-### `lin:pramana-buddhist`
+### [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
 Yes: whatever exists is momentary, since existence is causal efficacy and an enduring thing could produce its effects neither all at once nor successively; recognition is a construction over a series.
 - The argument from causal efficacy (arthakriyā), as reported by Udayana and in NS 3.2.10.
 **Texts:** 
@@ -28,4 +28,4 @@ No: there is no reason for such a universal rule; things should be accepted as t
 **Candidate readings:** P2-standpoint: momentariness as the standpoint of modes, endurance as that of substance (Jain).; P1-level: continuity (santāna) as conventionally valid in Buddhist accounts.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

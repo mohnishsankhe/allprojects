@@ -13,4 +13,4 @@ The guṇas bind the embodied one: sattva by attachment to happiness and knowled
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.5–8; 13.21; rests_on: ["tea:bhagavad-gita:14.5", "tea:bhagavad-gita:14.6-8", "tea:bhagavad-gita:13.21"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

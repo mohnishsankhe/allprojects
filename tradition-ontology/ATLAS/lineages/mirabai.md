@@ -38,7 +38,7 @@ The devotion of Mīrābāī, a 16th-c. Rajput princess of Meṛtā married into 
 [Mīrābāī](../teachers/mirabai.md)
 
 ## Practices
-[Congregational song (bhajan)](../practices/bhajana.md), [Holy company (satsaṅga)](../practices/satsanga.md)
+[Devotional singing (bhajana, bhajan)](../practices/bhajana.md), [Holy company (satsaṅga)](../practices/satsanga.md)
 
 ## Path maps
 _none recorded_
@@ -49,4 +49,4 @@ _none recorded_
 _Notes: Created by U26 because the coverage map lists Mīrābāī among 'other lineages' (A9); it is not a formal sampradāya. See REPORT.md._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

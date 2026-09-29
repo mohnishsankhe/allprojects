@@ -22,4 +22,4 @@ Repetition of 'namaḥ śivāya' (six-syllabled with Oṃ) received at initiatio
 - Vows of living on water or air and other emaciating austerities do not reach Śiva's world. — [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) 8.36
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha, skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha, skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._

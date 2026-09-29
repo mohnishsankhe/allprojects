@@ -24,4 +24,4 @@ The many puruṣas have one source, the universal Puruṣa of the Puruṣa-sūkt
 **The traditions' own objections:** Classical Sāṃkhya insists on the real plurality of puruṣas; Advaita reads the passages as identity; Dvaita as eternal dependence without identity; none accepts the others' reading as the epic's meaning.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

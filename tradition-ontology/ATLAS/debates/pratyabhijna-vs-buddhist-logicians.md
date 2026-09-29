@@ -4,10 +4,10 @@
 
 
 ## Sides (recorded before any reconciliation)
-### `lin:pramana-buddhist`
+### [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
 There is only the cognition that shows the particular and the conceptual cognition joined to words; no permanent seer appears in them; the notion 'I' rests on the body; memory arises from impressions left by earlier cognitions, so no permanent self is required (as presented by Utpaladeva, ĪPK 1.2.1-3, 1.3.1).
 **Texts:** 
-  - `src:pramanavarttika` — ref: work
+  - [Pramāṇavārttika](../texts/pramanavarttika.md) — ref: work
   - [Īśvarapratyabhijñākārikā](../texts/isvarapratyabhijna-karika.md) — ref: 1.2.1-3 (as pūrvapakṣa)
 ### [Pratyabhijñā (the philosophy of recognition)](../lineages/pratyabhijna.md)
 Memory cannot make the past object appear if the remembering cognition is separate from the original experience; the unity of cognitions at different times is the knower (ĪPK 1.4.3); cognition, memory and exclusion require one consciousness containing the universe within (1.3.7); determinate awareness arises by exclusion, which the Pratyabhijñā accepts as a power of the Lord (1.6.5); consciousness is reflexive awareness (1.5.11-13).
@@ -23,4 +23,4 @@ Memory cannot make the past object appear if the remembering cognition is separa
 _Notes: The Buddhist side here is the Pratyabhijñā's presentation of it; see also brw:pramana-buddhist-to-pratyabhijna._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

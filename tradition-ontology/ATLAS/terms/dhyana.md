@@ -14,13 +14,19 @@
 - [Sāṃkhya](../lineages/samkhya.md): Meditation is the removal of passion, accomplished through the cessation of mental modifications (SS 3.30–31); meditation is mind without object (SS 6.25).
 - [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): Meditation: with and without qualities (GŚ 76–77; DYŚ 111–114); gross, of light and subtle (GS 6.1).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Meditation: a rung of the ladder (ChU 7.6); the 'yoga of meditation' by which the sages saw God's power (ŚU 1.3); the friction of meditation (ŚU 1.14); a limb in MaiU 6.18; one sees him 'meditating' (MuU 3.1.8).
+- [Jainism (Jaina dharma)](../lineages/jainism.md): In Jainism the stopping of the mind's wandering by fixing it on one object, for up to a muhūrta (TS 9.27); fourfold — sorrowful, cruel, virtuous, pure (9.28), only the last two leading to liberation; 'a steady mind is dhyāna' (Dhyānaśataka).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Meditation with or without qualities; 'so'ham'; one-pointedness on consciousness.
+- [Sarvāstivāda](../lineages/sarvastivada.md): Meditative absorption, four, both as births (heavens) and as attainments; the attainment is good one-pointedness with its accompaniment; each has its factors.
 
 ## Forms in other languages
 - Pali: jhāna  — partial — Buddhist absorption levels — broader and differently structured
+- Prakrit: jhāṇa  — exact
+- Chinese: jinglü 靜慮 — exact
+- Tibetan: bsam gtan  — exact
 
 ## Equivalents (interpretation layer)
+- exact: [jhāna](jhana.md) — Sanskrit and Pali forms of the same canonical term; school definitions differ (see the per-lineage definitions).
 **Related:** [aparokṣa-jñāna](aparoksa-jnana.md), [upāsanā](upasana.md), [āsana](asana.md), [abhyāsa](abhyasa.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U07-puranas, skeleton:U09-samkhya, skeleton:U28-hatha-texts, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U07-puranas, skeleton:U09-samkhya, skeleton:U28-hatha-texts, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._

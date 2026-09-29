@@ -13,4 +13,4 @@ A Śaiva alchemical text published in the Trivandrum Sanskrit Series. RESTRICTED
 _Notes: Existence recalled; author and date unknown to me._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

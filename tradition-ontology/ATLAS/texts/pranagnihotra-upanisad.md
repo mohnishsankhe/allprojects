@@ -1,6 +1,6 @@
 # Prāṇāgnihotra Upaniṣad
 
-`src:pranagnihotra-upanisad` · `skeleton` · confidence moderate
+`src:pranagnihotra-upanisad` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -15,7 +15,7 @@ The body as sacrifice: eating as offering to the five prāṇas with mantras; th
   - kind: original; name: Īśādiviṃśottaraśatopaniṣadaḥ (Nirṇayasāgara collection of 120 Upaniṣads), South Indian recension carrying Upaniṣad Brahmayogin's opening maṅgala verses; e-text github.com/sanskrit/raw_etexts vedaH/misc/upaniShat/mixedPF/108_Upanishads.md; licence: text public domain; e-text licence unstated; url: https://github.com/sanskrit/raw_etexts
   - kind: original; name: Adyar Library Upaniṣad series (Schrader, Minor Upaniṣads vol. 1: Saṃnyāsa, 1912; A. Mahadeva Sastri: Yoga 1920, Sāmānya Vedānta 1921, Vaiṣṇava 1923, Śaiva 1925, Śākta 1925) with Upaniṣad Brahmayogin's commentary; licence: public domain (pre-1930 editions)
 
-## Teachings (3: skeleton 3)
+## Teachings (3: skeleton 2, sourced 1)
 
 ### 1 <a id="tea-pranagnihotra-upanisad-1"></a>
 `skeleton` · confidence moderate
@@ -27,7 +27,7 @@ _level: bridging · standpoint: ritual · path: ritual, knowledge · stage: all 
 concepts: [The inner sacrifice](../concepts/inner-sacrifice.md) · practices: [Prāṇāgnihotra (offering food into the breaths)](../practices/pranagnihotra.md)
 
 ### 1-4 <a id="tea-pranagnihotra-upanisad-1-4"></a>
-`skeleton` · confidence low
+`sourced` · confidence low
 
 The sacrifice in the body: food is purified with mantras and offered into the breaths as into the sacrificial fires; the body's fires are named, and the self, intellect, mind and senses are identified with the sacrificer, his wife and the priests; the one who performs this bodily sacrifice is freed from saṃsāra.
 
@@ -48,4 +48,8 @@ concepts: [The ten vital winds (vāyu)](../concepts/ten-vayus.md) · practices: 
 _Notes: Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+text-locate: confirmed — catalog:Muktabodha:prANAgnihotra__M00268, catalog:raw_etexts:108_Upanishads — Low-confidence entry confirmed. No. 97 of the Muktikā collection in the local 108-Upaniṣad file, colophon 'ity ātharvaṇīyā prāṇāgnihotropaniṣat'. Its content is the śārīra yajña, with food offered into the breaths, the bodily fires and the correspondences (see tea:pranagnihotra-upanisad:1-4).
+
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

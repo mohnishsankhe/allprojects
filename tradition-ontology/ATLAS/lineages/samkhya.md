@@ -65,4 +65,4 @@ Sāṃkhya ('enumeration', 'discrimination') is the darśana that analyses reali
 _Notes: Status 'absorbed' refers to the classical independent school; the Kāpil Maṭh (recent) is recorded through its teachers rather than as a separate lineage entity._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._

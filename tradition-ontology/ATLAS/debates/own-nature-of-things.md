@@ -10,11 +10,11 @@ Things are established by their own nature; the claim that nothing is so establi
 - NS 4.1.37–40.
 **Texts:** 
   - [Nyāya Sūtra](../texts/nyaya-sutra.md) — ref: 4.1.37–40
-### `lin:madhyamaka`
+### [Madhyamaka](../lineages/madhyamaka.md)
 Things lack own-nature because they arise dependently; emptiness is not nothingness but dependent origination (Nāgārjuna).
 - MMK 15; 24.18 (as usually cited).
 **Texts:** 
-  - `src:mulamadhyamakakarika` — ref: ch. 15; 24.18
+  - [Mūlamadhyamakakārikā](../texts/mulamadhyamakakarika.md) — ref: ch. 15; 24.18
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -26,4 +26,4 @@ Things lack own-nature because they arise dependently; emptiness is not nothingn
 _Notes: The link of NS 4.1.37–40 to Madhyamaka is a scholarly reading; the sūtra names no school._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

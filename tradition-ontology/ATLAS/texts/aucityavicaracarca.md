@@ -22,8 +22,8 @@ Propriety (aucitya) is the lasting life of poetry that is perfected by rasa.
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: sound-language_
 
-terms: [aucitya](../terms/aucitya.md) · concepts: `cpt:schools-of-poetics` · teachers: [Kṣemendra](../teachers/ksemendra.md)
+terms: [aucitya](../terms/aucitya.md) · concepts: [The schools of poetics: what is the 'soul' of poetry?](../concepts/schools-of-poetics.md) · teachers: [Kṣemendra](../teachers/ksemendra.md)
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

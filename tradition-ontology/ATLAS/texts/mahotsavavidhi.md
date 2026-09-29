@@ -15,4 +15,4 @@ Aghoraśiva's prescriptions for the great temple festival (mahotsava) of Śiva: 
   - kind: translation; name: R. H. Davis, A Priest's Guide for the Great Festival: Aghoraśiva's Mahotsavavidhi (OUP, 2010)
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

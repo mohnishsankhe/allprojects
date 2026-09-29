@@ -14,4 +14,4 @@
 - contrasts-with → [Powers as obstacles (the warnings)](siddhis-as-obstacles.md): powers are signs, but are not to be grasped (Akulavīra B.84) — rests on [b.83-84](../texts/akulavira-tantra.md#tea-akulavira-tantra-b-83-84)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

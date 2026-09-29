@@ -15,4 +15,4 @@
 _Notes: Names from the eBhāratī text; variants exist (e.g. pācaka)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._

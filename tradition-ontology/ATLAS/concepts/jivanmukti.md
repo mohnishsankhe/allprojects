@@ -32,4 +32,4 @@
 - leads-to → [Isolation (kaivalya)](kaivalya.md) — rests on [4.34](../texts/yoga-sutra.md#tea-yoga-sutra-4-34)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U23-sakta-srividya, skeleton:U28-hatha-texts, skeleton:U14-visistadvaita, skeleton:U16-bhedabheda, skeleton:U21-natha-aghora, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U23-sakta-srividya, skeleton:U28-hatha-texts, skeleton:U14-visistadvaita, skeleton:U16-bhedabheda, skeleton:U21-natha-aghora, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

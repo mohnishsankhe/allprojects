@@ -165,4 +165,4 @@ concepts: [The Nāth critique of ritual and caste](../concepts/natha-critique-of
 _Notes: Refs in this shard use 'A.n' for the first recension and 'B.n' for the text after the lacuna in the e-text; the assignment of the post-lacuna verses to recension B follows the e-text's layout and should be checked against the printed edition._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

@@ -16,4 +16,4 @@
 **Related:** [vairāgya](vairagya.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga. Generated 2026-09-29 16:38 IST._

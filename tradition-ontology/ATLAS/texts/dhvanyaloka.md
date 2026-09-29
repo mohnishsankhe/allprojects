@@ -29,7 +29,7 @@ The wise have long declared that suggestion (dhvani) is the soul of poetry; some
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: sound-language_
 
-terms: [dhvani (in poetics)](../terms/dhvani-kavya.md), [sahṛdaya](../terms/sahrdaya.md) · concepts: `cpt:dhvani-theory` · disputes: `dsp:dhvani-vyanjana`
+terms: [dhvani (in poetics)](../terms/dhvani-kavya.md), [sahṛdaya](../terms/sahrdaya.md) · concepts: [The theory of suggestion (dhvani)](../concepts/dhvani-theory.md) · disputes: [Is suggestion (dhvani, vyañjanā) a distinct power of words, and is it the soul of poetry?](../debates/dhvani-vyanjana.md)
 
 ### 1.4 <a id="tea-dhvanyaloka-1-4"></a>
 `skeleton` · confidence high
@@ -40,7 +40,7 @@ There is something else, an implied meaning (pratīyamāna), in the speech of gr
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: sound-language_
 
-terms: [dhvani (in poetics)](../terms/dhvani-kavya.md), [vyañjanā](../terms/vyanjana.md) · concepts: `cpt:dhvani-theory` · disputes: `dsp:dhvani-vyanjana`
+terms: [dhvani (in poetics)](../terms/dhvani-kavya.md), [vyañjanā](../terms/vyanjana.md) · concepts: [The theory of suggestion (dhvani)](../concepts/dhvani-theory.md) · disputes: [Is suggestion (dhvani, vyañjanā) a distinct power of words, and is it the soul of poetry?](../debates/dhvani-vyanjana.md)
 
 ### 1.5 <a id="tea-dhvanyaloka-1-5"></a>
 `skeleton` · confidence high
@@ -51,7 +51,7 @@ That meaning is the soul of poetry: so of old, the first poet's grief (śoka), b
 
 _level: conventional · standpoint: experiential · path: general · stage: all · types: sound-language, consciousness-mind_
 
-concepts: `cpt:dhvani-theory`
+concepts: [The theory of suggestion (dhvani)](../concepts/dhvani-theory.md)
 
 ### 1.13 <a id="tea-dhvanyaloka-1-13"></a>
 `skeleton` · confidence moderate
@@ -60,7 +60,7 @@ Where the meaning, or the word, subordinating its own sense, suggests that (impl
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: sound-language_
 
-terms: [dhvani (in poetics)](../terms/dhvani-kavya.md), [dhvani](../terms/dhvani.md), [sphoṭa](../terms/sphota.md) · concepts: `cpt:dhvani-theory` · disputes: `dsp:dhvani-vyanjana`
+terms: [dhvani (in poetics)](../terms/dhvani-kavya.md), [dhvani](../terms/dhvani.md), [sphoṭa](../terms/sphota.md) · concepts: [The theory of suggestion (dhvani)](../concepts/dhvani-theory.md) · disputes: [Is suggestion (dhvani, vyañjanā) a distinct power of words, and is it the soul of poetry?](../debates/dhvani-vyanjana.md)
 
 ### 3.26 vṛtti <a id="tea-dhvanyaloka-3-26-vrtti"></a>
 `skeleton` · confidence low
@@ -69,7 +69,7 @@ terms: [dhvani (in poetics)](../terms/dhvani-kavya.md), [dhvani](../terms/dhvani
 
 _level: bridging · standpoint: experiential · path: knowledge · stage: advanced · types: consciousness-mind, karma-liberation_
 
-terms: [śānta-rasa](../terms/santa-rasa.md) · concepts: `cpt:santa-rasa` · disputes: `dsp:santa-rasa`
+terms: [śānta-rasa](../terms/santa-rasa.md) · concepts: [Śānta rasa: peace as an aesthetic experience akin to liberation](../concepts/santa-rasa.md) · disputes: [Is śānta (peace) a rasa, and what is its stable emotion?](../debates/santa-rasa.md)
 
 ### 4.5 vṛtti <a id="tea-dhvanyaloka-4-5-vrtti"></a>
 `skeleton` · confidence moderate
@@ -78,8 +78,8 @@ In the Mahābhārata, which has the form of a śāstra and of poetry, the princi
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: [śānta-rasa](../terms/santa-rasa.md) · concepts: `cpt:santa-rasa` · disputes: `dsp:santa-rasa`
+terms: [śānta-rasa](../terms/santa-rasa.md) · concepts: [Śānta rasa: peace as an aesthetic experience akin to liberation](../concepts/santa-rasa.md) · disputes: [Is śānta (peace) a rasa, and what is its stable emotion?](../debates/santa-rasa.md)
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

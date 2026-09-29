@@ -5,8 +5,8 @@
 **Family:** ascetic
 **Alternate names:** Mahāsi vipassanā, Thathana Yeiktha method, noting practice
 **Parent:** [Theravāda](theravada.md)
-**Founders:** `tch:mahasi-sayadaw`
-**Key teachers:** `tch:mingun-jetavana-sayadaw`, `tch:mahasi-sayadaw`, `tch:u-pandita`, `tch:nyanaponika`, `tch:anagarika-munindra`, `tch:dipa-ma`
+**Founders:** [Mahāsi Sayadaw](../teachers/mahasi-sayadaw.md)
+**Key teachers:** [Mingun Jetavana Sayadaw](../teachers/mingun-jetavana-sayadaw.md), [Mahāsi Sayadaw](../teachers/mahasi-sayadaw.md), [Sayadaw U Paṇḍita](../teachers/u-pandita.md), [Nyanaponika Thera](../teachers/nyanaponika.md), [Anagārika Munindra](../teachers/anagarika-munindra.md), [Dipa Ma](../teachers/dipa-ma.md)
 **Regions:** Burma (Mahāsi Sāsana Yeiktha, Yangon), Sri Lanka, Thailand, India, the West
 **Dates:** Tradition's account: Mahāsi Sayadaw taught at Mahāsi monastery (Seikkhun) from 1938 and at the Sāsana Yeiktha in Rangoon from 1949; Scholarly account: 1938/1949 onward; (confidence moderate)
 **Status:** living
@@ -31,19 +31,19 @@ The intensive insight method of Mahāsi Sayadaw (1904–1982), based on the Sati
 **Caveat:** The tradition describes nibbāna by the knowledges leading to it, not as a metaphysical ground.
 
 ## Texts
-`src:heart-of-buddhist-meditation`, `src:manual-of-insight`, `src:practical-insight-meditation`, `src:progress-of-insight`
+[The Heart of Buddhist Meditation](../texts/heart-of-buddhist-meditation.md), [Manual of Insight (Vipassanā Shunikyan)](../texts/manual-of-insight.md), [Practical Insight Meditation: Basic and Progressive Stages](../texts/practical-insight-meditation.md), [The Progress of Insight (Visuddhiñāṇakathā)](../texts/progress-of-insight.md)
 
 ## Teachers
-`tch:anagarika-munindra`, `tch:dipa-ma`, `tch:mahasi-sayadaw`, `tch:mingun-jetavana-sayadaw`, `tch:nyanaponika`, `tch:u-pandita`
+[Anagārika Munindra](../teachers/anagarika-munindra.md), [Dipa Ma](../teachers/dipa-ma.md), [Mahāsi Sayadaw](../teachers/mahasi-sayadaw.md), [Mingun Jetavana Sayadaw](../teachers/mingun-jetavana-sayadaw.md), [Nyanaponika Thera](../teachers/nyanaponika.md), [Sayadaw U Paṇḍita](../teachers/u-pandita.md)
 
 ## Practices
-_none recorded_
+[Noting (the Mahāsi method)](../practices/mahasi-noting.md), [Defining mentality-materiality (nāmarūpa-pariccheda)](../practices/namarupa-pariccheda.md), [Noting the rising and falling of the abdomen](../practices/rising-falling.md), [Walking meditation with noting](../practices/walking-meditation-noting.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Must jhāna precede insight, or can insight proceed on momentary concentration (dry insight)?](../debates/dry-insight-or-jhana-first.md)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._

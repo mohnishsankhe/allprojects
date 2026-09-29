@@ -19,7 +19,7 @@ The root text of the Yoga darśana. It defines yoga as the stilling of the activ
 **Editions / translations:** 
   - kind: original; name: Ānandāśrama Sanskrit Series 47 (ed. K. Ś. Āgāśe, Pune 1904); GRETIL e-text; licence: public-domain edition; GRETIL research use
   - kind: original; name: Ph. A. Maas, Samādhipāda: das erste Kapitel des Pātañjalayogaśāstra zum ersten Mal kritisch ediert (Aachen 2006); licence: copyright
-**Commentaries on this text:** [Padacandrikā of Anantadeva](padacandrika-anantadeva.md), [Rājamārtaṇḍa (Bhojavṛtti)](rajamartanda.md), [Sūtrārthabodhinī](sutrarthabodhini.md), [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](yoga-bhasya.md), [Yogamaṇiprabhā](yogamaniprabha.md), [Yogasiddhāntacandrikā](yogasiddhantacandrika.md), [Yogasudhākara](yogasudhakara.md), [Yogasūtradīpikā (Pradīpikā) of Bhāvāgaṇeśa](yogasutradipika-bhavaganesa.md), [Yogasūtravṛtti of Nāgeśa (Nāgojī) Bhaṭṭa](yogasutravrtti-nagesa.md), [Yogavallī](yogavalli.md)
+**Commentaries on this text:** [Padacandrikā of Anantadeva](padacandrika-anantadeva.md), [Rājamārtaṇḍa (Bhojavṛtti)](rajamartanda.md), [Sūtrārthabodhinī](sutrarthabodhini.md), [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](yoga-bhasya.md), [Yogamaṇiprabhā](yogamaniprabha.md), [Yogasiddhāntacandrikā](yogasiddhantacandrika.md), [Yogasudhākara](yogasudhakara.md), [Pātañjalayogasūtravṛtti (Yaśovijaya)](yogasutra-vrtti-yasovijaya.md), [Yogasūtradīpikā (Pradīpikā) of Bhāvāgaṇeśa](yogasutradipika-bhavaganesa.md), [Yogasūtravṛtti of Nāgeśa (Nāgojī) Bhaṭṭa](yogasutravrtti-nagesa.md), [Yogavallī](yogavalli.md)
 
 ## Teachings (195: skeleton 195)
 
@@ -98,7 +98,7 @@ Perception, inference and testimony are the means of valid cognition.
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: [pramāṇa](../terms/pramana.md), [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md), [āgama](../terms/agama.md) · concepts: [The five activities of the mind (pañca vṛttayaḥ)](../concepts/five-vrttis.md), [Means of valid knowledge (pramāṇa)](../concepts/pramana.md) · disputes: `dsp:number-of-pramanas`
+terms: [pramāṇa](../terms/pramana.md), [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md), [āgama](../terms/agama.md) · concepts: [The five activities of the mind (pañca vṛttayaḥ)](../concepts/five-vrttis.md), [Means of valid knowledge (pramāṇa)](../concepts/pramana.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
 
 ### 1.8 <a id="tea-yoga-sutra-1-8"></a>
 `skeleton` · confidence high
@@ -274,7 +274,7 @@ Or [samādhi is near] through devotion to Īśvara (īśvara-praṇidhāna).
 
 _level: conventional · standpoint: devotional · path: devotion, meditation · stage: all · types: practice_
 
-terms: [īśvara-praṇidhāna](../terms/isvara-pranidhana.md), [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · practices: [Devotion to Īśvara (īśvara-praṇidhāna)](../practices/isvara-pranidhana.md) · disputes: `dsp:isvara`, [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md)
+terms: [īśvara-praṇidhāna](../terms/isvara-pranidhana.md), [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · practices: [Devotion to Īśvara (īśvara-praṇidhāna)](../practices/isvara-pranidhana.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md)
 
 ### 1.24 <a id="tea-yoga-sutra-1-24"></a>
 `skeleton` · confidence high
@@ -285,7 +285,7 @@ terms: [īśvara-praṇidhāna](../terms/isvara-pranidhana.md), [īśvara](../te
 
 _level: ultimate · standpoint: divine · path: devotion, knowledge · stage: all · types: ultimate_
 
-terms: [īśvara](../terms/isvara.md), [puruṣa-viśeṣa](../terms/purusa-visesa.md), [kleśa](../terms/klesa.md), [karmāśaya](../terms/karmasaya.md), [vipāka](../terms/vipaka.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: `dsp:isvara`, [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md)
+terms: [īśvara](../terms/isvara.md), [puruṣa-viśeṣa](../terms/purusa-visesa.md), [kleśa](../terms/klesa.md), [karmāśaya](../terms/karmasaya.md), [vipāka](../terms/vipaka.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md)
 
 ### 1.25 <a id="tea-yoga-sutra-1-25"></a>
 `skeleton` · confidence high
@@ -296,7 +296,7 @@ In him the seed of omniscience is unsurpassed.
 
 _level: ultimate · standpoint: divine · path: devotion, knowledge · stage: all · types: ultimate_
 
-terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Omniscience in Yoga](../concepts/omniscience-in-yoga.md) · disputes: `dsp:isvara`, [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md)
+terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Omniscience in Yoga](../concepts/omniscience-in-yoga.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Is Īśvara to be admitted, and is devotion to him a means to liberation? (Yoga against nirīśvara Sāṃkhya)](../debates/yoga-samkhya-isvara.md)
 
 ### 1.26 <a id="tea-yoga-sutra-1-26"></a>
 `skeleton` · confidence high
@@ -329,7 +329,7 @@ Its repetition [and] the contemplation of its meaning [are to be practised].
 
 _level: conventional · standpoint: seeker · path: sound, devotion, meditation · stage: all · types: practice, sound-language_
 
-terms: [japa](../terms/japa.md), [bhāvanā](../terms/bhavana.md), [praṇava](../terms/pranava.md) · concepts: [Oṃ, the designator of Īśvara](../concepts/pranava.md) · practices: [Repetition of Oṃ with contemplation of Īśvara (praṇava-japa)](../practices/pranava-japa.md)
+terms: [japa](../terms/japa.md), [bhāvanā](../terms/bhavana.md), [praṇava](../terms/pranava.md) · concepts: [Oṃ, the designator of Īśvara](../concepts/pranava.md) · practices: [Repetition of and meditation on Oṃ (praṇava-japa, praṇava-upāsanā)](../practices/pranava-japa.md)
 
 ### 1.29 <a id="tea-yoga-sutra-1-29"></a>
 `skeleton` · confidence high
@@ -340,7 +340,7 @@ From that comes realization of the inward consciousness, and the absence of obst
 
 _level: conventional · standpoint: experiential · path: sound, devotion, meditation · stage: intermediate · types: consciousness-mind, practice_
 
-terms: [antarāya](../terms/antaraya.md) · concepts: [Oṃ, the designator of Īśvara](../concepts/pranava.md), [Puruṣa (the conscious self)](../concepts/purusa.md) · practices: [Repetition of Oṃ with contemplation of Īśvara (praṇava-japa)](../practices/pranava-japa.md), [Devotion to Īśvara (īśvara-praṇidhāna)](../practices/isvara-pranidhana.md) · obstacles: [The nine obstacles (antarāya), distractions of mind](../obstacles/nine-antarayas.md)
+terms: [antarāya](../terms/antaraya.md) · concepts: [Oṃ, the designator of Īśvara](../concepts/pranava.md), [Puruṣa (the conscious self)](../concepts/purusa.md) · practices: [Repetition of and meditation on Oṃ (praṇava-japa, praṇava-upāsanā)](../practices/pranava-japa.md), [Devotion to Īśvara (īśvara-praṇidhāna)](../practices/isvara-pranidhana.md) · obstacles: [The nine obstacles (antarāya), distractions of mind](../obstacles/nine-antarayas.md)
 
 ### 1.30 <a id="tea-yoga-sutra-1-30"></a>
 `skeleton` · confidence high
@@ -2172,4 +2172,4 @@ terms: [kaivalya](../terms/kaivalya.md), [pratiprasava](../terms/pratiprasava.md
 _Notes: Correction to the task list: the vulgate count is 195 (51/55/55/34), not 196; see structure._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 16:38 IST._

@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. He cut out the tongues of those who revile
 **Realization — the tradition's account:** He cut out the tongues of those who reviled Śiva's devotees.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

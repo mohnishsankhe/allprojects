@@ -1,6 +1,6 @@
 # Hiraṇyakeśi (Satyāṣāḍha) Śrautasūtra
 
-`src:hiranyakesi-srautasutra` · `skeleton` · confidence low
+`src:hiranyakesi-srautasutra` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,4 +13,8 @@
 The Śrauta manual of the Hiraṇyakeśin branch of the Taittirīya school, part of a complete Kalpasūtra ascribed to Satyāṣāḍha Hiraṇyakeśin.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:DCS:Hiraṇyakeśiśrautasūtra, https://en.wikipedia.org/wiki/%C5%9Arauta, https://hindupedia.com/en/Hira%E1%B9%87yake%C5%9Bi_Dharmasutras — Low-confidence entry confirmed as extant (DCS). It is part of the Satyāṣāḍha–Hiraṇyakeśi Kalpasūtra of the Taittirīya school.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

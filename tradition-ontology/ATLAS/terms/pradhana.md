@@ -20,4 +20,4 @@
 **Related:** [prakṛti](prakrti.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

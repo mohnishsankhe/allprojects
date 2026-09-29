@@ -50,7 +50,7 @@ In Gautama's view, valid cognition is correct determination; being a valid knowe
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate, consciousness-mind_
 
-terms: [pramā](../terms/prama.md), [īśvara](../terms/isvara.md) · concepts: [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: `dsp:isvara`
+terms: [pramā](../terms/prama.md), [īśvara](../terms/isvara.md) · concepts: [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### 5.1 <a id="tea-nyaya-kusumanjali-5-1"></a>
 `skeleton` · confidence high
@@ -61,7 +61,7 @@ The all-knowing, imperishable (maker) is to be proved from: effects (the world b
 
 _level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-terms: [īśvara](../terms/isvara.md), [apekṣābuddhi](../terms/apeksabuddhi.md), [dvyaṇuka](../terms/dvyanuka.md) · concepts: [Udayana's proofs of Īśvara (NK 5.1)](../concepts/udayana-proofs-of-isvara.md), [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: `dsp:isvara`
+terms: [īśvara](../terms/isvara.md), [apekṣābuddhi](../terms/apeksabuddhi.md), [dvyaṇuka](../terms/dvyanuka.md) · concepts: [Udayana's proofs of Īśvara (NK 5.1)](../concepts/udayana-proofs-of-isvara.md), [Īśvara in Nyāya-Vaiśeṣika](../concepts/isvara-nyaya.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### stabaka 1 (statement of the five objections) <a id="tea-nyaya-kusumanjali-1-five-vipratipatti"></a>
 `skeleton` · confidence moderate
@@ -70,7 +70,7 @@ The Lord's existence is questioned for five reasons, answered in the five cluste
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-terms: [īśvara](../terms/isvara.md) · concepts: [Udayana's proofs of Īśvara (NK 5.1)](../concepts/udayana-proofs-of-isvara.md) · disputes: `dsp:isvara`
+terms: [īśvara](../terms/isvara.md) · concepts: [Udayana's proofs of Īśvara (NK 5.1)](../concepts/udayana-proofs-of-isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### stabaka 1 (verse on the supersensible cause) <a id="tea-nyaya-kusumanjali-1-alaukika-hetu"></a>
 `skeleton` · confidence low
@@ -79,7 +79,7 @@ There is a supersensible cause (of experience), since (results) depend (on cause
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: unmarked · types: karma-liberation, dispute_
 
-terms: [adṛṣṭa](../terms/adrsta.md) · concepts: [The unseen (adṛṣṭa)](../concepts/adrsta.md) · disputes: `dsp:isvara`
+terms: [adṛṣṭa](../terms/adrsta.md) · concepts: [The unseen (adṛṣṭa)](../concepts/adrsta.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### stabaka 1, opening prose <a id="tea-nyaya-kusumanjali-1-opening-prose"></a>
 `skeleton` · confidence moderate
@@ -103,4 +103,4 @@ terms: [īśvara](../terms/isvara.md)
 _Notes: Commentaries include Vardhamāna's Prakāśa; verse numbers used in this unit are from memory and marked low._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

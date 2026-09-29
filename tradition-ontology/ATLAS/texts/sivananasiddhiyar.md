@@ -5,7 +5,7 @@
 **Alternate titles:** Śivajñānasiddhiyār
 **Language:** Tamil
 **Family:** vedic
-**Lineages:** [Tamil Śaiva Siddhānta (the Meykaṇṭa school)](../lineages/tamil-saiva-siddhanta.md)
+**Lineages:** [Tamil Śaiva Siddhānta (the Meykaṇṭa school)](../lineages/tamil-saiva-siddhanta.md), [Śaiva Siddhānta](../lineages/saiva-siddhanta.md)
 **Genre:** doctrinal treatise
 **Part of:** [Meykaṇṭa Śāstras (the fourteen)](meykanta-sastras.md)
 **Authors:** 
@@ -15,7 +15,7 @@
 
 Aruṇanti Civācāriyār's great exposition of the Civañāṉa Pōtam in two parts: Parapakkam, stating and refuting fourteen rival schools (Lokāyata, four Buddhist schools, Jains, Ājīvikas, Mīmāṃsakas, Māyāvāda Vedānta, Pāñcarātra and others), and Cupakkam, the Siddhānta's own doctrine arranged under the twelve sūtras (God, soul, bonds, grace, the kinds of initiation, the four paths, liberation).
 
-## Teachings (7: skeleton 7)
+## Teachings (9: skeleton 9)
 
 ### cupakkam.1 <a id="tea-sivananasiddhiyar-cupakkam-1"></a>
 `skeleton` · confidence moderate
@@ -78,10 +78,28 @@ The opponents' section sets out in their own terms and then refutes the Lokāyat
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: intermediate · types: dispute_
 
-concepts: [The Siddhānta doxography of rival schools](../concepts/four-circles-of-schools.md) · disputes: `dsp:world-real-or-appearance`, `dsp:is-there-a-self`
+concepts: [The Siddhānta doxography of rival schools](../concepts/four-circles-of-schools.md) · disputes: `dsp:world-real-or-appearance`, [Is there a self?](../debates/is-there-a-self.md)
+
+### parapakkam.acivaka <a id="tea-sivananasiddhiyar-parapakkam-acivaka"></a>
+`skeleton` · confidence low
+
+The Parapakkam includes the Ācīvakam among the schools it refutes.
+
+_level: unmarked · standpoint: polemical · path: general · stage: unmarked · types: dispute_
+
+concepts: [Destiny (niyativāda)](../concepts/niyativada.md) · teachers: [Aruṇanti Civācāriyār](../teachers/arunanti.md)
+
+### parapakkam.lokayata <a id="tea-sivananasiddhiyar-parapakkam-lokayata"></a>
+`skeleton` · confidence low
+
+The Parapakkam opens with the Lōkāyatam: only perception is valid, the four elements alone exist, consciousness arises from their combination, and there is no other world — and refutes it.
+
+_level: unmarked · standpoint: polemical · path: general · stage: unmarked · types: dispute_
+
+concepts: [Consciousness from the elements (bhūta-caitanya)](../concepts/bhuta-caitanya.md), [Perception the only means of knowledge](../concepts/pratyaksa-only.md) · teachers: [Aruṇanti Civācāriyār](../teachers/arunanti.md)
 
 
 _Notes: Six classical commentaries are traditionally counted (incl. Civañāṉa Muṉivar's and Civākkiraiyōki's) — low confidence._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._

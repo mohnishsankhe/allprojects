@@ -5,7 +5,7 @@
 **Alternate titles:** Śārīraka-bhāṣya, Brahmasūtra-śāṅkarabhāṣya
 **Language:** Sanskrit
 **Family:** vedic
-**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Vedānta (Uttara Mīmāṃsā)](../lineages/vedanta.md)
+**Lineages:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Vedānta (Uttara Mīmāṃsā)](../lineages/vedanta.md), [Cārvāka / Lokāyata](../lineages/carvaka.md)
 **Genre:** bhāṣya
 **Commentary on:** [Brahma Sūtra](brahma-sutra.md)
 **Authors:** 
@@ -17,7 +17,7 @@
 Śaṅkara's commentary on the Brahma Sūtras, opening with the 'adhyāsa-bhāṣya' on superimposition as the root of all empirical dealings; it reads the sūtras as teaching the non-dual Brahman, the unreality of the world apart from Brahman, knowledge alone as the means to liberation, and liberation while living, and it critiques Sāṃkhya, Vaiśeṣika, the Buddhist schools, the Jains, the Pāśupatas and the Pāñcarātra.
 **Commentaries on this text:** [Bhāmatī](bhamati.md), [Nyāyanirṇaya](nyayanirnaya.md), [Pañcapādikā](pancapadika.md), [Ratnaprabhā](ratnaprabha.md)
 
-## Teachings (32: skeleton 32)
+## Teachings (34: skeleton 34)
 
 ### 1.1.1 <a id="tea-brahma-sutra-bhasya-sankara-1-1-1"></a>
 `skeleton` · confidence high
@@ -53,7 +53,7 @@ Liberation is not something to be produced, reached, modified or purified by act
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: karma-liberation, sound-language, dispute, ultimate_
 
-terms: [mokṣa](../terms/moksa.md) · concepts: [Liberation (mokṣa) in Advaita](../concepts/liberation-advaita.md), [The relation of Pūrva and Uttara Mīmāṃsā](../concepts/purva-uttara-mimamsa.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:works-knowledge-grace`, [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md), `dsp:status-of-veda`, [Can the Veda be a means of knowledge about an already-existing thing (siddha), or only about what is to be done (sādhya / kārya)?](../debates/siddha-or-sadhya.md)
+terms: [mokṣa](../terms/moksa.md) · concepts: [Liberation (mokṣa) in Advaita](../concepts/liberation-advaita.md), [The relation of Pūrva and Uttara Mīmāṃsā](../concepts/purva-uttara-mimamsa.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:works-knowledge-grace`, [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md), [Can the Veda be a means of knowledge about an already-existing thing (siddha), or only about what is to be done (sādhya / kārya)?](../debates/siddha-or-sadhya.md)
 
 ### 1.1.4 <a id="tea-brahma-sutra-bhasya-sankara-1-1-4-2"></a>
 `skeleton` · confidence low
@@ -134,7 +134,7 @@ The Lord is like rain (parjanya), the common cause of all plants, whose varietie
 
 _level: conventional · standpoint: divine · path: action · stage: all · types: karma-liberation, world-fate_
 
-teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:isvara`
+teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### 2.2.32 <a id="tea-brahma-sutra-bhasya-sankara-2-2-32"></a>
 `skeleton` · confidence moderate
@@ -143,7 +143,7 @@ Having refuted the realist, idealist and void doctrines, Śaṅkara says the Bud
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
-teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:advaita-crypto-buddhism`, `dsp:is-there-a-self`
+teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: `dsp:advaita-crypto-buddhism`, [Is there a self?](../debates/is-there-a-self.md)
 
 ### 2.2.37 <a id="tea-brahma-sutra-bhasya-sankara-2-2-37"></a>
 `skeleton` · confidence high
@@ -209,6 +209,26 @@ terms: [neti neti](../terms/neti-neti.md) · concepts: ['Not so, not so' (neti n
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: teacher-transmission_
 
 concepts: [The self (ātman)](../concepts/self.md), [The relation of Pūrva and Uttara Mīmāṃsā](../concepts/purva-uttara-mimamsa.md) · teachers: [Upavarṣa](../teachers/upavarsa.md), [Śabarasvāmin](../teachers/sabara.md)
+
+### 3.3.53/2 <a id="tea-brahma-sutra-bhasya-sankara-3-3-53-2"></a>
+`skeleton` · confidence high
+
+Some Lokāyatikas, who see the self in the body alone and deny a self apart from it, hold that although consciousness is not seen in earth and the other external elements, singly or together, it may arise in them when transformed into the shape of a body; they say 'from them, consciousness', 'cognition is like intoxicating power', 'the person is the body qualified by consciousness'; there is no self apart from the body able to go to heaven or to liberation; their reason: (consciousness) exists where the body exists — what exists when something exists and not otherwise is its property, as heat and light are of fire.
+
+> atraike dehamātrātmadarśino lokāyatikā dehavyatiriktasyātmano 'bhāvaṃ manyamānāḥ
+
+_level: unmarked · standpoint: polemical · path: general · stage: unmarked · types: consciousness-mind, dispute_
+
+terms: [bhūta-caitanya](../terms/bhuta-caitanya.md), [madaśakti](../terms/madasakti.md), [dehātma-vāda](../terms/dehatmavada.md) · concepts: [Consciousness from the elements (bhūta-caitanya)](../concepts/bhuta-caitanya.md), [The body as the self (dehātmavāda)](../concepts/dehatmavada.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md)
+
+### 3.3.54 <a id="tea-brahma-sutra-bhasya-sankara-3-3-54"></a>
+`skeleton` · confidence high
+
+Rather the self is distinct from the body, because consciousness does not exist whenever the body exists: breath, movement, consciousness and memory are absent in the dead body though form and colour remain, and the body's qualities are perceived by others while consciousness and memory are not; and the Lokāyatika must be asked what this consciousness is — it is the experiencing of the elements, and what experiences the elements cannot be one of them.
+
+_level: conventional · standpoint: polemical · path: knowledge · stage: intermediate · types: consciousness-mind, dispute_
+
+concepts: [Consciousness from the elements (bhūta-caitanya)](../concepts/bhuta-caitanya.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Does anything survive the body's death — is there another world and rebirth, or is consciousness a product of the body that ends with it?](../debates/materialism-and-the-other-world.md)
 
 ### 3.4.26 <a id="tea-brahma-sutra-bhasya-sankara-3-4-26"></a>
 `skeleton` · confidence moderate
@@ -321,4 +341,4 @@ concepts: [The identity of the self and brahman](../concepts/atman-brahman-ident
 _Notes: Sub-commentaries: Padmapāda's Pañcapādikā (→ Prakāśātman's Vivaraṇa), Vācaspati's Bhāmatī (→ Amalānanda's Kalpataru → Appayya's Parimala), Ānandagiri's Nyāyanirṇaya, Govindānanda's Ratnaprabhā._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._

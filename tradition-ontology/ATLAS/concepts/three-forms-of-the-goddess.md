@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The three episodes of the Devī Māhātmya](devi-mahatmya-three-caritas.md): later ancillary texts map the three forms onto the three episodes
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._

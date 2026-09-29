@@ -11,4 +11,4 @@ Hope in the world and craving, which keep the soul returning; the jīvan-mṛtak
   - [Kabīr Granthāvalī](../texts/kabir-granthavali.md) — ref: Jīvan-mṛtak kau aṅg; rests_on: ["tea:kabir-granthavali:jivan-mrtak-ang"]
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

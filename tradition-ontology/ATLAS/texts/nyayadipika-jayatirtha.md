@@ -23,6 +23,6 @@ _Notes: Disambiguated from the Jain Nyāyadīpikā of Dharmabhūṣaṇa._
 ---
 **Verification checks**
 
-- 2026-09-28 catalog: confirmed — local:sources_raw/raw_etexts/vedAntam/dvaitam/mAdhvam/sarvamulam/gItAprasthAnam/geeta_ nyayadeepika.md ("gītātātparyanirṇayaṭīkā nyāyadīpikā śrījayatīrthayativiracitā") — Extant and digitized; title and author as entered.
+- 2026-09-29 catalog: confirmed — local:sources_raw/raw_etexts/vedAntam/dvaitam/mAdhvam/sarvamulam/gItAprasthAnam/geeta_ nyayadeepika.md ("gītātātparyanirṇayaṭīkā nyāyadīpikā śrījayatīrthayativiracitā") — Extant and digitized; title and author as entered.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

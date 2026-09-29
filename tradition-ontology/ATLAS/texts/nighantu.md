@@ -1,6 +1,6 @@
 # Nighaṇṭu
 
-`src:nighantu` · `skeleton` · confidence high
+`src:nighantu` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -14,4 +14,8 @@ The traditional word-list (samāmnāya) on which the Nirukta comments: three cha
 **Commentaries on this text:** [Nighaṇṭu-nirvacana of Devarāja Yajvan](nighantu-nirvacana.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (GRETIL, Sarup ed.), https://en.wikipedia.org/wiki/Nighantu — Confirmed: the Nirukta comments on the Nighaṇṭu (Nir 1.1 'samāmnāyaḥ samāmnātaḥ … nighaṇṭava ity ācakṣate'). The five-chapter division (naighaṇṭuka, naigama, daivata) is standard (Wikipedia).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

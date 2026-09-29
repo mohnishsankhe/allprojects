@@ -14,4 +14,4 @@
 Author of the Śrīkarabhāṣya on the Brahma Sūtras, the Vīraśaiva Śakti-viśiṣṭādvaita: Śiva and soul, both qualified by Śakti, are non-dual; liberation is liṅgāṅga-sāmarasya.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U20-virasaiva, skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U20-virasaiva, skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

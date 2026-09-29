@@ -21,6 +21,6 @@ Jayatīrtha's sub-commentary on Madhva's Gītābhāṣya.
 ---
 **Verification checks**
 
-- 2026-09-28 websearch: confirmed — https://www.exoticindiaart.com/book/details/gita-bhashyam-with-commentary-of-sri-jayatirtha-and-sri-raghavendratirtha-nzg165/, https://archive.org/details/gItAbhAShya_201801 — Jayatīrtha's Prameyadīpikā on Madhva's Gītābhāṣya confirmed (printed with the bhāṣya). Date (14th c.) consistent with Jayatīrtha; not separately checked.
+- 2026-09-29 websearch: confirmed — https://www.exoticindiaart.com/book/details/gita-bhashyam-with-commentary-of-sri-jayatirtha-and-sri-raghavendratirtha-nzg165/, https://archive.org/details/gItAbhAShya_201801 — Jayatīrtha's Prameyadīpikā on Madhva's Gītābhāṣya confirmed (printed with the bhāṣya). Date (14th c.) consistent with Jayatīrtha; not separately checked.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

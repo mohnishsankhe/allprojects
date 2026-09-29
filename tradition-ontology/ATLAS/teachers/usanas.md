@@ -11,6 +11,6 @@ Preceptor of the asuras, who questions Vṛtra (12.270); 'among poets I am Uśan
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.270.15, 12.270.23, local:gita/gita BhG 10.37 — Located as described.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.270.15, 12.270.23, local:gita/gita BhG 10.37 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

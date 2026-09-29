@@ -2,13 +2,13 @@
 
 `tch:krsna` · `sourced` · confidence high
 
-**Alternate names:** Vāsudeva, Keśava, Govinda, Mādhava, Janārdana, Hṛṣīkeśa, Madhusūdana, Acyuta, Yogeśvara, Pārthasārathi, Śrī Kṛṣṇa, Bhagavān, Bhagavān (speaker label 'śrī bhagavān uvāca'), Vārṣṇeya, Arisūdana, Śrī Bhagavān
+**Alternate names:** Vāsudeva, Keśava, Govinda, Mādhava, Janārdana, Hṛṣīkeśa, Madhusūdana, Acyuta, Yogeśvara, Pārthasārathi, Śrī Kṛṣṇa, Bhagavān, Bhagavān (speaker label 'śrī bhagavān uvāca'), Vārṣṇeya, Arisūdana, Śrī Bhagavān, Śrī Bhagavān (the Blessed Lord)
 **Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
 **Dates:** Tradition's account: end of the Dvāpara yuga; his departure from the world is taken to begin the Kali yuga (traditionally 3102 BCE)
 **Places:** Mathurā, Vraja (Gokula, Vṛndāvana), Dvārakā, Kurukṣetra
 **Historicity:** legendary
 **Teachers:** [Upamanyu](upamanyu.md)
-**Students:** [Arjuna (Pārtha, Dhanaṃjaya)](arjuna.md), [Yudhiṣṭhira (Dharmarāja)](yudhisthira.md), [Uddhava](uddhava.md)
+**Students:** [Arjuna (Pārtha, Dhanaṃjaya)](arjuna.md), [Yudhiṣṭhira (Dharmarāja)](yudhisthira.md), [Uddhava](uddhava.md), [Vivasvat (the Sun)](vivasvat.md)
 **Works:** 
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — attribution: traditional
   - [Anugītā](../texts/anugita.md) — attribution: traditional
@@ -23,6 +23,7 @@ _Notes: Historicity recorded as 'legendary' in the scholarly sense only; the tra
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:gita/gita BhG 4.6-8, 10.8, 11.1-55, local:DharmicData MBh CE 12.326.82 (Mathurā birth), 13.16.1 (Kṛṣṇa speaks), 13.14.45 (Upamanyu) — Role as teacher of the Gītā and Anugītā (14.16.11), his manifestation at Mathurā (12.326.82) and the Upamanyu episode (13.14–17) located. Tradition-only dating as entered.
+- 2026-09-29 text: confirmed — sources_raw/prepared/bhagavad-gita/segments.jsonl (BhG 4–6) — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text-locate: confirmed — local:gita/gita BhG 4.6-8, 10.8, 11.1-55, local:DharmicData MBh CE 12.326.82 (Mathurā birth), 13.16.1 (Kṛṣṇa speaks), 13.14.45 (Upamanyu) — Role as teacher of the Gītā and Anugītā (14.16.11), his manifestation at Mathurā (12.326.82) and the Upamanyu episode (13.14–17) located. Tradition-only dating as entered.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch01-03. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._

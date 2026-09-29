@@ -16,4 +16,4 @@ A short poem describing the marks of one liberated while living (jīvanmukta), a
 _Notes: Existence recalled, contents not verified; listed so that the hallucination sweep can confirm or mark it._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

@@ -13,6 +13,6 @@ _Notes: Distinct from Satyakāma Jābāla (tch:satyakama-jabala)._
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData Rāmāyaṇa (vulgate) 2.108.1-18 — Located as described.
+- 2026-09-29 text-locate: confirmed — local:DharmicData Rāmāyaṇa (vulgate) 2.108.1-18 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

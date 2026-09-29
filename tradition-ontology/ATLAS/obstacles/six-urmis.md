@@ -12,4 +12,4 @@ Hunger, thirst, grief, delusion, old age and death (Varāha 1; Vajrasūci).
   - [Varāha Upaniṣad](../texts/varaha-upanisad.md) — ref: 1.6-15; rests_on: ["tea:varaha-upanisad:1.6-15"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The four kinds of devotees](four-kinds-of-devotees.md) (Jñāneśvar's reading): Jñāneśvar's 'fourth devotion' reads the Gītā's jñānī devotee — rests on [18.fourth-devotion](../texts/jnanesvari.md#tea-jnanesvari-18-fourth-devotion)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

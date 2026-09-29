@@ -22,6 +22,6 @@ Prajāpati in the form of a golden swan teaches the Sādhyas: truth, self-restra
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.288.2-4 haṃsa, Sādhyas — Section located at CE 12.288 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
+- 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.288.2-4 haṃsa, Sādhyas — Section located at CE 12.288 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

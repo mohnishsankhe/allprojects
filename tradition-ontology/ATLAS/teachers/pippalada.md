@@ -17,4 +17,4 @@ _Notes: Tradition connects him with the Paippalāda śākhā of the Atharvaveda 
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Pippalada, https://en.wikipedia.org/wiki/Prashna_Upanishad, https://www.atharvavedapaippalada.uzh.ch/en/stateOfArt.html — Confirmed: eponym of the Paippalāda school of the Atharvaveda and the teacher answering the six questions of the Praśna Upaniṣad (the latter owned by U03).
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

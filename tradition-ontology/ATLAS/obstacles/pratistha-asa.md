@@ -11,4 +11,4 @@ The desire for fame and honour, 'a shameless outcaste woman dancing in the heart
   - [Manaḥśikṣā](../texts/manahsiksa.md) — ref: 7; rests_on: ["tea:manahsiksa:7"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._

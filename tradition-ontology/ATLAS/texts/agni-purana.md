@@ -93,4 +93,4 @@ _level: conventional · standpoint: seeker · path: knowledge · stage: all · t
 _Notes: Chs. 2-16: the ten avatāras (16: the Buddha as Māyāmoha, then Kalki); 49: images of the ten avatāras; 114-116: Gayā; 370: hells; 371-375: the eight limbs of yoga; 376-379: knowledge of Brahman and non-dual knowledge; 380: Gītāsāra; 381: Yamagītā. chapter checked in the GRETIL e-text of the Agni Purāṇa (R. Mitra, Bibliotheca Indica numbering; other editions differ)_
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U24-kali-kaula. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._

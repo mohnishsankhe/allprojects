@@ -61,4 +61,4 @@ concepts: [Who may practise haṭha (adhikāra)](../concepts/eligibility-for-hat
 _Notes: Not the Yājñavalkya Smṛti nor the Bṛhadyogiyājñavalkya Smṛti. The provision for women and śūdras is recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._

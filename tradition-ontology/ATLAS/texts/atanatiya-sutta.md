@@ -24,10 +24,10 @@ The Four Great Kings offer a protective recitation honouring Vipassī and the ot
 
 _level: conventional · standpoint: divine · path: sound, devotion · stage: all · types: sound-language, practice_
 
-terms: `trm:paritta` · concepts: `cpt:four-great-kings` · practices: `prc:paritta`
+terms: [paritta](../terms/paritta.md) · concepts: [The Four Great Kings](../concepts/four-great-kings.md) · practices: [Protective recitation (paritta)](../practices/paritta.md)
 
 
 _Notes: SuttaCentral uid dn32; Mahāsaṅgīti title 'Āṭānāṭiyasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

@@ -266,7 +266,7 @@ Asked why some self-possessed patients with every support waste away while other
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, practice_
 
-disputes: `dsp:is-medicine-efficacious`
+disputes: [Is medicine effective, given that some treated patients die and some untreated recover?](../debates/is-medicine-efficacious.md)
 
 ### utt.40.81 <a id="tea-astanga-hrdaya-utt-40-81"></a>
 `skeleton` · confidence high
@@ -286,7 +286,7 @@ If one studies Caraka, he is surely outside even the names of the diseases told 
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: teacher-transmission_
 
-disputes: `dsp:authority-of-the-samhitas`
+disputes: [Should a medical text be accepted because a sage composed it, and must the followers of Caraka and Suśruta exclude each other?](../debates/authority-of-the-samhitas.md)
 
 ### utt.40.86-88 <a id="tea-astanga-hrdaya-utt-40-86-88"></a>
 `skeleton` · confidence high
@@ -297,8 +297,8 @@ disputes: `dsp:authority-of-the-samhitas`
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, teacher-transmission_
 
-disputes: `dsp:authority-of-the-samhitas`
+disputes: [Should a medical text be accepted because a sage composed it, and must the followers of Caraka and Suśruta exclude each other?](../debates/authority-of-the-samhitas.md)
 
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

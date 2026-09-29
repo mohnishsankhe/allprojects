@@ -13,4 +13,4 @@ Named by Ḍalhaṇa as the redactor of the Suśruta Saṃhitā; counted among t
 _Notes: Tibetan and some Indian traditions identify him with the Madhyamaka philosopher (tch:nagarjuna); scholars usually distinguish one or more later Nāgārjunas. Kept separate here._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

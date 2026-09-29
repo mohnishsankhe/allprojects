@@ -36,6 +36,6 @@ _Notes: The location of his brindāvana (Malkheḍ, per the Uttarādi Maṭha; N
 ---
 **Verification checks**
 
-- 2026-09-28 catalog+websearch: confirmed — local:gItAprasthAnam/geeta_ nyayadeepika.md, https://www.exoticindiaart.com/book/details/gita-bhashyam-with-commentary-of-sri-jayatirtha-and-sri-raghavendratirtha-nzg165/ — Both works confirmed.
+- 2026-09-29 catalog+websearch: confirmed — local:gItAprasthAnam/geeta_ nyayadeepika.md, https://www.exoticindiaart.com/book/details/gita-bhashyam-with-commentary-of-sri-jayatirtha-and-sri-raghavendratirtha-nzg165/ — Both works confirmed.
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

@@ -1,6 +1,6 @@
 # Vārāha Śrautasūtra
 
-`src:varaha-srautasutra` · `skeleton` · confidence low
+`src:varaha-srautasutra` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 The Śrauta manual of the Vārāha branch of the Maitrāyaṇīya Black Yajurveda.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:DCS:Vārāhaśrautasūtra, catalog:raw_etexts:varaha_shrauta_sutra, https://en.wikipedia.org/wiki/%C5%9Arauta — Low-confidence entry confirmed as extant; the Maitrāyaṇīya (Vārāha) Śrautasūtra.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

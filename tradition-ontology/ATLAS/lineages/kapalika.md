@@ -33,7 +33,7 @@ The Kāpālikas, 'skull-men', were Śaiva ascetics who kept the great vow of the
 **Caveat:** Known almost entirely through opponents and satirists; no Kāpālika scripture has been identified with certainty. Somasiddhānta, the name of their doctrine, is attested; its content is not.
 
 ## Texts
-[Āgamaprāmāṇya](../texts/agamapramanya.md), [Da Tang Xiyu Ji (Records of the Western Regions of the Great Tang)](../texts/da-tang-xiyu-ji.md), [Gāthāsaptaśatī](../texts/gathasaptasati.md), [Harṣacarita](../texts/harsacarita.md), [Mālatīmādhava](../texts/malatimadhava.md), [Mattavilāsa-prahasana](../texts/mattavilasa-prahasana.md), [Prabodhacandrodaya](../texts/prabodhacandrodaya.md), [Śaṅkaradigvijaya (Mādhavīya)](../texts/sankaradigvijaya.md), [Śrībhāṣya](../texts/sribhasya.md), [Yaśastilaka](../texts/yasastilaka.md)
+[Āgamaprāmāṇya](../texts/agamapramanya.md), [Da Tang Xiyu Ji (Records of the Western Regions of the Great Tang)](../texts/da-tang-xiyu-ji.md), [Gāthāsaptaśatī](../texts/gathasaptasati.md), [Harṣacarita](../texts/harsacarita.md), [Mālatīmādhava](../texts/malatimadhava.md), [Mattavilāsa-prahasana](../texts/mattavilasa-prahasana.md), [Prabodhacandrodaya](../texts/prabodhacandrodaya.md), [Śaṅkaradigvijaya (Mādhavīya)](../texts/sankaradigvijaya.md), [Śrībhāṣya](../texts/sribhasya.md), [Yaśastilaka of Somadeva](../texts/yasastilaka.md)
 
 ## Teachers
 _none recorded_
@@ -50,4 +50,4 @@ _none recorded_
 _Notes: Almost every statement about Kāpālika doctrine comes from opponents or satirists and is tagged reported_by_opponent. Continuity with later Aghorīs is a hypothesis, not a documented lineage._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 16:38 IST._

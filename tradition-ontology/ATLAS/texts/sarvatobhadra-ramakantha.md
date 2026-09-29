@@ -20,10 +20,10 @@ _Notes: Recalled, not checked; the identity of this Rāmakaṇṭha with the Sai
 ---
 **Verification checks**
 
-- 2026-09-28 catalog+websearch: confirmed — catalog:Muktabodha:bhagavadgItA_and_sarvatobhadravivaraNa__M00167, https://search.worldcat.org/title/The-Bhagavadgita.-With-the-commentary-called-Sarvatobhadra-by-Rajanaka-Ramakantha/oclc/978031819, https://archive.org/details/dli.ernet.495685 — Least-sure item: Rājānaka Rāmakaṇṭha's Sarvatobhadra on the Kashmirian Gītā exists (KSTS edition; Muktabodha e-text held locally). A disciple of Utpaladeva (c. 900–950) is the author, so c. 10th c. holds; one popular source's "c. 850" is not supported. Availability can be raised from "unknown".
+- 2026-09-29 catalog+websearch: confirmed — catalog:Muktabodha:bhagavadgItA_and_sarvatobhadravivaraNa__M00167, https://search.worldcat.org/title/The-Bhagavadgita.-With-the-commentary-called-Sarvatobhadra-by-Rajanaka-Ramakantha/oclc/978031819, https://archive.org/details/dli.ernet.495685 — Least-sure item: Rājānaka Rāmakaṇṭha's Sarvatobhadra on the Kashmirian Gītā exists (KSTS edition; Muktabodha e-text held locally). A disciple of Utpaladeva (c. 900–950) is the author, so c. 10th c. holds; one popular source's "c. 850" is not supported. Availability can be raised from "unknown".
 
 **Corrections**
 
 - availability: Least-sure item: Rājānaka Rāmakaṇṭha's Sarvatobhadra on the Kashmirian Gītā exists (KSTS edition; Muktabodha e-text held locally). A disciple of Utpaladeva (c. 900–950) is the author, so c. 10th c. holds; one popular source's "c. 850" is not supported. Availability can be raised from "unknown".
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

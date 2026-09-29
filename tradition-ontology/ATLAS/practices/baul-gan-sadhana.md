@@ -9,4 +9,4 @@
 Singing with the ektārā and dotārā as devotion, as teaching of the doctrine and as coded transmission of practice; the singer loses himself in the song of the Man.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

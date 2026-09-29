@@ -1,6 +1,6 @@
 # Bhāradvāja Gṛhyasūtra
 
-`src:bharadvaja-grhyasutra` · `skeleton` · confidence low
+`src:bharadvaja-grhyasutra` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 The domestic-rite manual of the Bhāradvāja Taittirīyas.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:DCS:Bhāradvājagṛhyasūtra — Low-confidence entry confirmed as extant (DCS).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

@@ -12,8 +12,8 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-- analogous: `trm:abhavya` — Jain 'abhavya' souls, never able to attain liberation, are analogous to Dvaita's souls unfit for liberation; the grounds (karma-theory vs innate fitness) differ.
+- analogous: [abhavya](abhavya.md) — Jain 'abhavya' souls, never able to attain liberation, are analogous to Dvaita's souls unfit for liberation; the grounds (karma-theory vs innate fitness) differ.
 **Related:** [mukti-yogya](mukti-yogya.md), [tamo-yogya](tamo-yogya.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

@@ -76,7 +76,7 @@ The relation of the word with its meaning is original (autpattika); instruction 
 
 _level: unmarked · standpoint: analytic · path: sound, general · stage: all · types: sound-language_
 
-terms: [autpattika-sambandha](../terms/autpattika-sambandha.md), [upadeśa](../terms/upadesa.md), [svataḥ-prāmāṇya](../terms/svatah-pramanya.md) · concepts: [The original relation of word and meaning](../concepts/autpattika-sambandha.md), [Intrinsic validity (svataḥ-prāmāṇya)](../concepts/intrinsic-validity.md), [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md) · teachers: [Bādarāyaṇa](../teachers/badarayana.md) · disputes: `dsp:status-of-veda`
+terms: [autpattika-sambandha](../terms/autpattika-sambandha.md), [upadeśa](../terms/upadesa.md), [svataḥ-prāmāṇya](../terms/svatah-pramanya.md) · concepts: [The original relation of word and meaning](../concepts/autpattika-sambandha.md), [Intrinsic validity (svataḥ-prāmāṇya)](../concepts/intrinsic-validity.md), [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md) · teachers: [Bādarāyaṇa](../teachers/badarayana.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 1.1.6-11 <a id="tea-mimamsa-sutra-1-1-6-11"></a>
 `skeleton` · confidence high
@@ -132,7 +132,7 @@ Prima facie view: some say the Vedas are recent compositions, since they are nam
 
 _level: unmarked · standpoint: polemical · path: general · stage: all · types: sound-language, dispute_
 
-concepts: [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md) · disputes: `dsp:status-of-veda`
+concepts: [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 1.1.29 <a id="tea-mimamsa-sutra-1-1-29"></a>
 `skeleton` · confidence high
@@ -154,7 +154,7 @@ The name (attached to a Vedic recension) is from its expounding (pravacana), not
 
 _level: unmarked · standpoint: analytic · path: general · stage: all · types: sound-language, teacher-transmission_
 
-terms: [apauruṣeyatva](../terms/apauruseyatva.md), [pravacana](../terms/pravacana.md) · concepts: [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md), [The injunction of Vedic study and the transmission of the Veda](../concepts/adhyayana-vidhi.md) · disputes: `dsp:status-of-veda`
+terms: [apauruṣeyatva](../terms/apauruseyatva.md), [pravacana](../terms/pravacana.md) · concepts: [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md), [The injunction of Vedic study and the transmission of the Veda](../concepts/adhyayana-vidhi.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 1.1.31 <a id="tea-mimamsa-sutra-1-1-31"></a>
 `skeleton` · confidence high
@@ -165,7 +165,7 @@ But (apparent names of persons in the Veda) are mere similarity of sound.
 
 _level: unmarked · standpoint: analytic · path: general · stage: all · types: sound-language_
 
-concepts: [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md) · disputes: `dsp:status-of-veda`
+concepts: [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 1.2.1 <a id="tea-mimamsa-sutra-1-2-1"></a>
 `skeleton` · confidence high
@@ -273,7 +273,7 @@ concepts: [The authority of smṛti, custom and other scriptures](../concepts/au
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: ethics, dispute_
 
-concepts: [The authority of smṛti, custom and other scriptures](../concepts/authority-of-smrti.md) · disputes: `dsp:status-of-veda`
+concepts: [The authority of smṛti, custom and other scriptures](../concepts/authority-of-smrti.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 1.3.7 <a id="tea-mimamsa-sutra-1-3-7"></a>
 `skeleton` · confidence high
@@ -601,7 +601,7 @@ Prima facie view: the deity prompts (the rite), like a guest, since the food is 
 
 _level: conventional · standpoint: polemical · path: ritual, devotion · stage: all · types: ultimate, dispute_
 
-concepts: [The deity (devatā) in Mīmāṃsā](../concepts/deity.md) · disputes: `dsp:isvara`
+concepts: [The deity (devatā) in Mīmāṃsā](../concepts/deity.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### 9.1.9 <a id="tea-mimamsa-sutra-9-1-9"></a>
 `skeleton` · confidence high
@@ -612,7 +612,7 @@ But rather, because (the knowledge of fruit) is based on the word, the sacrifici
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: ultimate, karma-liberation_
 
-terms: [devatā](../terms/devata.md) · concepts: [The deity (devatā) in Mīmāṃsā](../concepts/deity.md) · disputes: `dsp:isvara`
+terms: [devatā](../terms/devata.md) · concepts: [The deity (devatā) in Mīmāṃsā](../concepts/deity.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### 10.1.1-2 <a id="tea-mimamsa-sutra-10-1-1-2"></a>
 `skeleton` · confidence high
@@ -629,4 +629,4 @@ terms: [bādha](../terms/badha-mimamsa.md) · concepts: [Archetype, ectype and t
 _Notes: Sūtra numbers used in this unit were checked against the two local digital editions named in editions; where they differ only in punctuation, the GRETIL wording is quoted._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

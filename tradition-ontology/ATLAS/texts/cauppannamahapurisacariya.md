@@ -7,7 +7,7 @@
 **Lineages:** [Śvetāmbara](../lineages/svetambara.md)
 **Genre:** universal history
 **Authors:** 
-  - `tch:silanka` — role: author; attribution: disputed
+  - [Śīlāṅka](../teachers/silanka.md) — role: author; attribution: disputed
 **Dates:** Scholarly account: 868 CE; (confidence moderate)
 **Availability:** digitized-original
 
@@ -16,4 +16,4 @@
 _Notes: Whether this Śīlāṅka is the Ācārāṅga commentator is debated._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

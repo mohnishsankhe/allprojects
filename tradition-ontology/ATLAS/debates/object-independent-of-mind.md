@@ -13,13 +13,13 @@ The object is common to many minds and stands on its own; it is not constructed 
 **Texts:** 
   - [Yoga Sūtra of Patañjali](../texts/yoga-sutra.md) — ref: 4.14-17
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 4.14-15; 4.23
-### `lin:yogacara`
+### [Yogācāra](../lineages/yogacara.md)
 The three worlds are cognition only (vijñapti-mātra); objects appear without external referents, as in dreams.
 - Dream objects show that determinate place, time and effects do not require external objects (Viṃśatikā).
 - Object and cognition are always apprehended together (sahopalambha), so they are not different (Dharmakīrti).
 **Texts:** 
-  - `src:vimsatika` — ref: 1-7
-  - `src:pramanavarttika` — ref: pratyakṣa chapter
+  - [Viṃśatikā (Viṃśatikāvijñaptimātratāsiddhi)](../texts/vimsatika.md) — ref: 1-7
+  - [Pramāṇavārttika](../texts/pramanavarttika.md) — ref: pratyakṣa chapter
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -28,4 +28,4 @@ The three worlds are cognition only (vijñapti-mātra); objects appear without e
 **Candidate readings:** P1-level: Yogācāra's 'mind-only' as a claim about the ultimate, Yoga's realism about the conventional (Yoga would reject the two-level frame).; P4-stage: Yogācāra texts present mind-only as a stage of meditative insight.; Leave distinct: YBh 4.14–23 is an explicit refutation.
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 16:38 IST._

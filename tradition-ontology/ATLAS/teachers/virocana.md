@@ -9,4 +9,4 @@
 Lord of the asuras who studies with Prajāpati alongside Indra, concludes that the body is the self and teaches the asuras this 'doctrine of the asuras' (ChU 8.8.4-5).
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

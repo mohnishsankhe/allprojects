@@ -23,10 +23,10 @@ Whatever good and bad karma was accumulated in another birth, this śāstra make
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: world-fate, karma-liberation_
 
-terms: [prārabdha](../terms/prarabdha.md) · concepts: `cpt:horoscope-reveals-karma` · teachers: [Varāhamihira](../teachers/varahamihira.md) · disputes: `dsp:grahas-cause-or-sign`
+terms: [prārabdha](../terms/prarabdha.md) · concepts: [The chart reveals the ripening of past karma](../concepts/horoscope-reveals-karma.md) · teachers: [Varāhamihira](../teachers/varahamihira.md) · disputes: [Do the planets cause a person's fortune, or only reveal the karma that causes it?](../debates/grahas-cause-or-sign.md)
 
 
 _Notes: Local e-text with Bhaṭṭotpala's commentary (eBhāratī)._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

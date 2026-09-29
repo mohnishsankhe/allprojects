@@ -1,6 +1,6 @@
 # Mahānārāyaṇa Upaniṣad
 
-`src:mahanarayana-upanisad` · `skeleton` · confidence moderate
+`src:mahanarayana-upanisad` · `sourced` · confidence moderate
 
 **Alternate titles:** Yājñikī Upaniṣad, Nārāyaṇa-valli
 **Language:** Sanskrit
@@ -16,10 +16,10 @@ A collection of mantras, prayers and teachings attached to the Taittirīya Āra�
 **Editions / translations:** 
   - kind: original; name: Īśādiviṃśottaraśatopaniṣadaḥ (Nirṇayasāgara collection of 120 Upaniṣads), South Indian recension carrying Upaniṣad Brahmayogin's opening maṅgala verses; e-text github.com/sanskrit/raw_etexts vedaH/misc/upaniShat/mixedPF/108_Upanishads.md; licence: text public domain; e-text licence unstated; url: https://github.com/sanskrit/raw_etexts
 
-## Teachings (2: skeleton 2)
+## Teachings (2: sourced 1, skeleton 1)
 
 ### 69-70 <a id="tea-mahanarayana-upanisad-69-70"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Before eating, the eater sips water saying 'you are the immortal under-layer'; then offers morsels saying 'In faith, entered into the breath, I offer the immortal; be propitious to me for my not burning; to prāṇa svāhā', and likewise to apāna, vyāna, udāna and samāna; 'may my self be in Brahman for immortality'; after eating, 'you are the immortal covering'; and 'the immortal offered into the breath in faith — O breath, be nourished by food'.
 
@@ -40,4 +40,8 @@ concepts: [Renunciation (saṃnyāsa) in the principal Upaniṣads](../concepts/
 _Notes: Not the Muktikā's 'Mahānārāyaṇa' (that is the Atharvan Tripādvibhūti-Mahānārāyaṇa). Numbered 19 in the Nirṇayasāgara collection._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+text-locate: confirmed — catalog:raw_etexts:mahanarayana_upanishad, catalog:raw_etexts:AraNyakam_Andhrakam — Extant; it is TA prapāṭhaka 10 (Āndhra), and the food-offering into the breaths is at 10.69–70 (text-located).
+
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

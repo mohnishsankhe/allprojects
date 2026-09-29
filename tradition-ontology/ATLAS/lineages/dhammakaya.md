@@ -5,8 +5,8 @@
 **Family:** ascetic
 **Alternate names:** Vijjā Dhammakāya, Wat Paknam method, Dhammakaya movement
 **Parent:** [Theravāda](theravada.md)
-**Founders:** `tch:luang-pu-sodh`
-**Key teachers:** `tch:luang-pu-sodh`, `tch:dhammajayo`
+**Founders:** [Luang Pu Sodh Candasaro](../teachers/luang-pu-sodh.md)
+**Key teachers:** [Luang Pu Sodh Candasaro](../teachers/luang-pu-sodh.md), [Luang Por Dhammajayo](../teachers/dhammajayo.md)
 **Regions:** Bangkok (Wat Paknam Bhasicharoen; Wat Phra Dhammakaya, Pathum Thani), worldwide branches
 **Dates:** Tradition's account: Luang Pu Sodh Candasaro rediscovered the Dhammakāya knowledge in 1917 (the tradition's account: the method had been lost some 500 years after the Buddha); Scholarly account: 1910s onward; Wat Phra Dhammakaya founded 1970; (confidence moderate)
 **Status:** living
@@ -34,16 +34,16 @@ The Thai meditation tradition founded by Luang Pu Sodh Candasaro (1884–1959) o
 _none recorded_
 
 ## Teachers
-`tch:dhammajayo`, `tch:luang-pu-sodh`
+[Luang Por Dhammajayo](../teachers/dhammajayo.md), [Luang Pu Sodh Candasaro](../teachers/luang-pu-sodh.md)
 
 ## Practices
-_none recorded_
+[Dhammakāya meditation (Wat Paknam method)](../practices/dhammakaya-meditation.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Is nibbāna a true self (attā) or not-self?](../debates/nibbana-atta-or-anatta.md)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._

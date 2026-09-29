@@ -23,6 +23,7 @@ _Notes: Contribution of lin:upanisadic; other units record the Purāṇic and as
 **Verification checks**
 
 - 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_1.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/DharmicData/Rigveda/rigveda_mandala_2.json (Anukramaṇī seer/deity/metre headers), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/atharvaveda-samhita_saunaka_ — RV verses on the Bhṛgus establishing Agni among men located (1.58.6, 1.143.4, 2.4.2, 6.15.2); 'Bhṛgvaṅgirasaḥ' as a name of the AV confirmed (web); AVŚ 19.53–54 seer Bhṛgu.
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.180.1 [bhṛgu], 12.181.10 — Located as described.
+- 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14) — Text-located: one of the ten mind-born sons (MDh 1.35); reciter of Manu's teaching (1.59–60); Bhṛgu Vāruṇi in ŚB 11.6.1 and JB 1.42–44. The TU 3 story is standard (not re-checked here).
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.180.1 [bhṛgu], 12.181.10 — Located as described.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

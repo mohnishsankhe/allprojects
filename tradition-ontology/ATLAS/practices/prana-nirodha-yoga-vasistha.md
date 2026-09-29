@@ -15,4 +15,4 @@ Because the vibration of prāṇa is one seed of the mind, yogins calm the mind 
 - The Yoga Vāsiṣṭha holds that breath-stilling alone is insufficient without giving up vāsanās and gaining knowledge (U06 summary of 5.92). — [Mokṣopāya](../texts/moksopaya.md) 5.92
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

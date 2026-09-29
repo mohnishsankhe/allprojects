@@ -77,7 +77,7 @@ Third boon: 'There is this doubt about a person who has departed: some say he is
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: intermediate · types: death-dying, dispute_
 
-obstacles: [Doubt (saṃśaya)](../obstacles/samsaya.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md) · disputes: `dsp:is-there-a-self`
+obstacles: [Doubt (saṃśaya)](../obstacles/samsaya.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciketas.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 1.1.21-29 <a id="tea-katha-upanisad-1-1-21-29"></a>
 `skeleton` · confidence high
@@ -515,4 +515,4 @@ terms: [yoga](../terms/yoga.md) · teachers: [Yama (Mṛtyu)](../teachers/yama.m
 _Notes: The Naciketas story has an older ritual form in Taittirīya Brāhmaṇa 3.11.8 (moderate confidence on the ref). Veda affiliation: Black Yajurveda, Katha śākhā_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

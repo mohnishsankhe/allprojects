@@ -13,4 +13,4 @@ The Gheraṇḍa Saṃhitā's whole course: cleansing acts, postures, mudrās, w
 **Sequences:** `pth:gheranda-seven-limbs`
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._

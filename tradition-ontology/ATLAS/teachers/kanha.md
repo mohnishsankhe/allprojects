@@ -12,4 +12,4 @@ U21 contribution: in Nāth tradition Kānipā/Kānupā is Jālandhara's disciple
 _Notes: Registry id for the Buddhist mahāsiddha Kāṇha (U44). Identification with the Nāth Kānipā is the tradition's (shared siddha lists) and is disputed; HYP 1.7 'Kānerī' may or may not be the same figure._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

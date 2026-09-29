@@ -11,4 +11,4 @@ The great autumn worship of Durgā with her children, including the worship of a
 _Notes: Detailed rites (and offerings in some households) not recorded; the Kālikā Purāṇa's autumn-worship chapters not checked in Phase B._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._

@@ -1,6 +1,6 @@
 # Gradation of the manifest self (plant, animal, man)
 
-`cpt:gradation-of-manifest-self` · `skeleton` · confidence moderate
+`cpt:gradation-of-manifest-self` · `sourced` · confidence moderate
 
 **Category:** consciousness-states
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — AA 2.3.2 has the self increasingly manifest in plants, animals and man. Rests on teaching checks confirmed in this sweep: tea:aitareya-aranyaka:2.3.2.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

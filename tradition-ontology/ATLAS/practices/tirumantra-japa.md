@@ -14,4 +14,4 @@ Lineage contribution (Āḻvārs): Tirumaṅkai, given the eight-syllable mantra
   - [Rahasyatrayasāra](../texts/rahasyatrayasara.md) — ref: Mūlamantra; rests_on: ["tea:rahasyatrayasara:mula-mantra"]
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._

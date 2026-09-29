@@ -73,7 +73,7 @@ terms: [jñāna](../terms/jnana.md), [kriyā](../terms/kriya.md) · concepts: [T
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md), `dsp:is-there-a-self`
+teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md), [Is there a self?](../debates/is-there-a-self.md)
 
 ### 1.3.7 <a id="tea-isvarapratyabhijna-karika-1-3-7"></a>
 `skeleton` · confidence high
@@ -82,7 +82,7 @@ If Maheśvara, containing within himself the infinite forms of the universe, wer
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [apohana](../terms/apohana.md) · teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md), `dsp:is-there-a-self`
+terms: [apohana](../terms/apohana.md) · teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md), [Is there a self?](../debates/is-there-a-self.md)
 
 ### 1.4.3 <a id="tea-isvarapratyabhijna-karika-1-4-3"></a>
 `skeleton` · confidence high
@@ -91,7 +91,7 @@ The appearance of what is remembered is not possible if memory is separate [from
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: consciousness-mind, dispute_
 
-teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md), `dsp:is-there-a-self`
+teachers: [Utpaladeva](../teachers/utpaladeva.md) · disputes: [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md), [Is there a self?](../debates/is-there-a-self.md)
 
 ### 1.5.1 <a id="tea-isvarapratyabhijna-karika-1-5-1"></a>
 `skeleton` · confidence high
@@ -276,4 +276,4 @@ teachers: [Utpaladeva](../teachers/utpaladeva.md)
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

@@ -1,6 +1,6 @@
 # Procreation rites (BAU 6.4)
 
-`prc:garbhadhana` · `skeleton` · confidence moderate · _restricted: summary only_
+`prc:garbhadhana` · `sourced` · confidence moderate · _restricted: summary only_
 
 **Category:** ritual
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -16,4 +16,8 @@ Lineage contribution (Upaniṣadic): BAU 6.4 treats marital union as a sacrifici
 _Notes: Summary only under the restricted-content rule; no procedures, formulas or details reproduced._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/2_grhya/asvalayana-grhyasutra.md (GRETIL) — MDh 2.26 ('niṣekādiḥ … śarīrasaṃskāraḥ') and 2.27 ('gārbhair homaiḥ') lie within the cited 2.26–35. ĀśGS 1.13.1 has 'upaniṣadi garbhalambhanam', referring the conception rite to the Upaniṣad. Both refs are coarse but correct. This rests on confirmed teaching checks: tea:manusmrti:2.26-28.
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

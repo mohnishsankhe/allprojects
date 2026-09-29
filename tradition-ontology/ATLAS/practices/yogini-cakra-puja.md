@@ -15,4 +15,4 @@ Kaula worship of the sixty-four yoginīs and the eight-by-eight circles in a sec
 - One fallen from the pledge (samaya) is a paśu; dualistic attitude in the rite is condemned. — [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md) 11.3-4
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

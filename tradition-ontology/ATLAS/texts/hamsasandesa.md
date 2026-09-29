@@ -14,4 +14,4 @@
 Deśika's messenger poem in which Rāma sends a swan to Sītā in Laṅkā.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._

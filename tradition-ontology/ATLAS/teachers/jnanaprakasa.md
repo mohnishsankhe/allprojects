@@ -12,4 +12,4 @@
 Saiddhāntika author (described as resident of Śālivāṭipura) of a Pauṣkara commentary and of a collection on the greatness and authority of the Śaiva Āgamas.
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 16:38 IST._

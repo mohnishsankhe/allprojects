@@ -21,13 +21,13 @@ _none recorded_
 _none recorded_
 
 ## Practices
-_none recorded_
+[Worship of the Jina image (jina-pūjā)](../practices/jina-puja.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[How should Digambara image worship be performed, and are the bhaṭṭārakas authorities?](../debates/bisapantha-terapantha.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

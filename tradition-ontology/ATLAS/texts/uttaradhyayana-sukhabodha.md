@@ -8,11 +8,11 @@
 **Genre:** ṭīkā (with narratives)
 **Commentary on:** [Uttarādhyayana Sūtra](uttaradhyayana-sutra.md)
 **Authors:** 
-  - `tch:devendragani` — role: author; attribution: accepted
+  - [Devendragaṇi (Nemicandra)](../teachers/devendragani.md) — role: author; attribution: accepted
 **Dates:** Scholarly account: 1073 CE; (confidence moderate)
 **Availability:** digitized-original
 
 Devendragaṇi (Nemicandra)'s commentary on the Uttarādhyayana (1073 CE), prized for its Prakrit stories illustrating each chapter.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

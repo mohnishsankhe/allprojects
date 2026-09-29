@@ -13,12 +13,12 @@ Yes: universals are real, eternal, one and present in many, inhering in individu
   - [Vaiśeṣika Sūtra](../texts/vaisesika-sutra.md) — ref: 1.2.3–8
   - [Nyāya Sūtra](../texts/nyaya-sutra.md) — ref: 2.2.68–71
   - [Tarkasaṅgraha](../texts/tarkasangraha.md) — ref: sāmānya
-### `lin:pramana-buddhist`
+### [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
 No: universals are conceptual constructions; words signify by excluding what is other (apoha); only unique particulars are real.
 - Dignāga's apoha theory; Dharmakīrti; Ratnakīrti's Apohasiddhi (from memory).
 **Texts:** 
-  - `src:pramanasamuccaya` — ref: ch. 5 (from memory)
-  - `src:pramanavarttika` — ref: (section not specified)
+  - [Pramāṇasamuccaya](../texts/pramanasamuccaya.md) — ref: ch. 5 (from memory)
+  - [Pramāṇavārttika](../texts/pramanavarttika.md) — ref: (section not specified)
 ### [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md)
 Universals are real but in identity-in-difference with their individuals (Kumārila, as usually reported).
 - Recalled; U12 to supply details.
@@ -33,4 +33,4 @@ Universals are real but in identity-in-difference with their individuals (Kumār
 **Candidate readings:** P2-standpoint: Jain many-sidedness treats universal and particular as two aspects of one real.; P1-level: the Buddhist grants universals conventional usefulness while denying ultimate reality.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

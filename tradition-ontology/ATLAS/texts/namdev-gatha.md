@@ -35,7 +35,7 @@ We will dance in the joy of kīrtan and light the lamp of knowledge in the world
 
 _level: conventional · standpoint: devotional · path: sound, devotion · stage: all · types: practice_
 
-concepts: [The divine name](../concepts/divine-name.md) · practices: [Vārkarī kīrtan](../practices/varkari-kirtan.md), [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md) · teachers: [Nāmdev](../teachers/namdev.md)
+concepts: [The divine name](../concepts/divine-name.md) · practices: [Vārkarī kīrtan](../practices/varkari-kirtan.md), [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md) · teachers: [Nāmdev](../teachers/namdev.md)
 
 ### āratī 'yugeṃ aṭṭhāvīsa viṭevarī ubhā' <a id="tea-namdev-gatha-yuge-atthavisa"></a>
 `skeleton` · confidence moderate
@@ -50,4 +50,4 @@ concepts: [Viṭṭhala of Paṇḍharpūr](../concepts/vitthala-of-pandharpur.m
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

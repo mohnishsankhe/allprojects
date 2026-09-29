@@ -23,7 +23,7 @@ Poetry is a sentence whose soul is rasa; faults are what diminish it.
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: sound-language_
 
-concepts: `cpt:schools-of-poetics` · teachers: [Viśvanātha Kavirāja](../teachers/visvanatha-kaviraja.md)
+concepts: [The schools of poetics: what is the 'soul' of poetry?](../concepts/schools-of-poetics.md) · teachers: [Viśvanātha Kavirāja](../teachers/visvanatha-kaviraja.md)
 
 ### 3.1 <a id="tea-sahityadarpana-3-1"></a>
 `skeleton` · confidence high
@@ -34,7 +34,7 @@ The stable emotion, love and the rest, of sensitive people, manifested by the de
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind_
 
-concepts: `cpt:rasa-sutra`
+concepts: [The rasa-sūtra and its interpretations](../concepts/rasa-sutra.md)
 
 ### 3.2-3 <a id="tea-sahityadarpana-3-2-3"></a>
 `skeleton` · confidence high
@@ -45,7 +45,7 @@ Arising from the predominance of sattva, undivided, self-luminous, made of bliss
 
 _level: bridging · standpoint: experiential · path: general, knowledge · stage: all · types: consciousness-mind, ultimate_
 
-terms: [brahmāsvāda-sahodara](../terms/brahmasvada-sahodara.md), [camatkāra](../terms/camatkara.md), [rasa](../terms/rasa.md) · concepts: `cpt:rasa-as-relish-of-consciousness`
+terms: [brahmāsvāda-sahodara](../terms/brahmasvada-sahodara.md), [camatkāra](../terms/camatkara.md), [rasa](../terms/rasa.md) · concepts: [Aesthetic relish as consciousness at rest (brahmāsvāda-sahodara)](../concepts/rasa-as-relish-of-consciousness.md)
 
 ### 3.4-5 <a id="tea-sahityadarpana-3-4-5"></a>
 `skeleton` · confidence high
@@ -54,7 +54,7 @@ Even in the compassionate and similar rasas supreme happiness arises; the experi
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: consciousness-mind, dispute_
 
-disputes: `dsp:is-rasa-bliss`
+disputes: [Is every rasa blissful, even compassion and terror?](../debates/is-rasa-bliss.md)
 
 ### 3.245-250 <a id="tea-sahityadarpana-3-245-250"></a>
 `skeleton` · confidence high
@@ -63,7 +63,7 @@ disputes: `dsp:is-rasa-bliss`
 
 _level: bridging · standpoint: analytic · path: knowledge, devotion · stage: all · types: consciousness-mind, karma-liberation_
 
-terms: [śānta-rasa](../terms/santa-rasa.md), [śama](../terms/sama.md) · concepts: `cpt:santa-rasa` · disputes: `dsp:santa-rasa`
+terms: [śānta-rasa](../terms/santa-rasa.md), [śama](../terms/sama.md) · concepts: [Śānta rasa: peace as an aesthetic experience akin to liberation](../concepts/santa-rasa.md) · disputes: [Is śānta (peace) a rasa, and what is its stable emotion?](../debates/santa-rasa.md)
 
 ### 3.251 <a id="tea-sahityadarpana-3-251"></a>
 `skeleton` · confidence high
@@ -72,7 +72,7 @@ Because it is clearly a source of wonder, parental affection (vatsala) is also k
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind, dispute_
 
-disputes: `dsp:one-rasa-or-many`
+disputes: [Is there one rasa underlying all, and if so which?](../debates/one-rasa-or-many.md)
 
 ### 3.3 vṛtti <a id="tea-sahityadarpana-3-3-vrtti"></a>
 `skeleton` · confidence low
@@ -81,10 +81,10 @@ Viśvanātha's commentary: wonder (camatkāra), an expansion of the mind, is the
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind, dispute_
 
-terms: [camatkāra](../terms/camatkara.md) · disputes: `dsp:one-rasa-or-many`
+terms: [camatkāra](../terms/camatkara.md) · disputes: [Is there one rasa underlying all, and if so which?](../debates/one-rasa-or-many.md)
 
 
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked). (GRETIL kārikā text, ed. Satyavrata Simha 1992)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

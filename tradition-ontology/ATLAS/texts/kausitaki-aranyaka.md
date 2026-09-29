@@ -1,6 +1,6 @@
 # Kauṣītaki Āraṇyaka (Śāṅkhāyana Āraṇyaka)
 
-`src:kausitaki-aranyaka` · `skeleton` · confidence moderate
+`src:kausitaki-aranyaka` · `sourced` · confidence moderate
 
 **Alternate titles:** Śāṅkhāyana Āraṇyaka
 **Language:** Sanskrit
@@ -15,4 +15,8 @@ The Āraṇyaka of the Kauṣītaki/Śāṅkhāyana Ṛgveda: after chapters on 
 _Notes: Order of chapters 7–15 given from memory at chapter level (low confidence)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Śāṅkhāyanāraṇyaka, catalog:GRETIL-dev:sankhayana-aranyaka, https://vedicheritage.gov.in/aranyakas/sankhyayana-aranyaka/, https://archive.org/stream/sankhayanaaranya00keitrich/sankhayanaaranya00keitrich_djvu.txt — Extant. 15 adhyāyas: 1–2 Mahāvrata, 3–6 the Kauṣītaki Upaniṣad, 7–8 the Saṃhitopaniṣad, 9–11 miscellaneous upaniṣads (the contest of the breaths, the interior Agnihotra), 12 a hymn, 13–14 a short upaniṣad, 15 the vaṃśa (Keith; Vedic Heritage Portal). This matches the entry's low-confidence chapter outline.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

@@ -363,7 +363,7 @@ When will I bind within the two chains behind the horse of twelve feet, so that 
 
 _level: conventional · standpoint: experiential · path: body-breath · stage: advanced · types: practice_
 
-terms: [vāci](../terms/vasi.md) · concepts: [The breath as horse (vāci)](../concepts/vasi.md) · teachers: [Pattirakiriyār (Bhadragiri)](../teachers/bhadragiriyar.md)
+terms: [vasī](../terms/vasi.md) · concepts: [The breath as horse (vāci)](../concepts/vasi.md) · teachers: [Pattirakiriyār (Bhadragiri)](../teachers/bhadragiriyar.md)
 
 ### 147 <a id="tea-bhadragiriyar-meynana-pulampal-147"></a>
 `skeleton` · confidence high
@@ -479,4 +479,4 @@ concepts: [Liberation (vīṭu, mutti) in the Siddhar songs](../concepts/siddhar
 _Notes: Checked in the local e-text._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

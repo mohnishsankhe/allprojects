@@ -13,4 +13,4 @@
 - partial: [sahaja mānuṣa (sahaj mānuṣ)](sahaja-manusa.md) — The Bāul maner mānuṣ and the Sahajiyā sahaja mānuṣa name the same indwelling divine person in the two idioms.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

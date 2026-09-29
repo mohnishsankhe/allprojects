@@ -13,6 +13,6 @@ Gauḍīya Vaiṣṇava theologian, author of the Sārārthavarṣiṇī on the 
 ---
 **Verification checks**
 
-- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Visvanatha_Chakravarti — Confirmed; the Gītā commentary was finished in Śaka 1626 (c. 1705).
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Visvanatha_Chakravarti — Confirmed; the Gītā commentary was finished in Śaka 1626 (c. 1705).
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

@@ -23,7 +23,7 @@ Is there liberation for those who lack devotion joined with knowledge of the not
 
 _level: bridging · standpoint: devotional · path: sound, devotion, knowledge · stage: all · types: karma-liberation, sound-language_
 
-terms: [nāda](../terms/nada.md), [praṇava](../terms/pranava.md) · practices: [Worship through music (nādopāsana)](../practices/nadopasana.md) · teachers: [Tyāgarāja](../teachers/tyagaraja.md)
+terms: [nāda](../terms/nada.md), [praṇava](../terms/pranava.md) · practices: [Worship through nāda (music as spiritual practice)](../practices/nadopasana.md) · teachers: [Tyāgarāja](../teachers/tyagaraja.md)
 
 ### kṛti 'Nāda tanum aniśam' (rāga Cittarañjani) <a id="tea-tyagaraja-krtis-nada-tanum-anisam"></a>
 `skeleton` · confidence low
@@ -32,7 +32,7 @@ I bow always, with mind and head, to Śaṅkara whose body is nāda, the essence
 
 _level: bridging · standpoint: devotional · path: sound, devotion · stage: all · types: sound-language, practice_
 
-terms: [nāda](../terms/nada.md) · practices: [Worship through music (nādopāsana)](../practices/nadopasana.md) · teachers: [Tyāgarāja](../teachers/tyagaraja.md)
+terms: [nāda](../terms/nada.md) · practices: [Worship through nāda (music as spiritual practice)](../practices/nadopasana.md) · teachers: [Tyāgarāja](../teachers/tyagaraja.md)
 
 ### kṛti 'nidhi cāla sukhamā' (Kalyāṇi) <a id="tea-tyagaraja-krtis-nidhi-cala-sukhama"></a>
 `skeleton` · confidence high
@@ -50,7 +50,7 @@ Tyāgarāja worships Śiva as the embodiment of sound (nāda), from whose five f
 
 _level: ultimate · standpoint: devotional · path: sound · stage: all · types: sound-language, ultimate_
 
-terms: [nāda](../terms/nada.md) · concepts: [Music as spiritual practice](../concepts/music-as-sadhana.md), [Nāda — the inner sound](../concepts/nada.md) · practices: [Worship through music (nādopāsana)](../practices/nadopasana.md) · teachers: [Tyāgarāja](../teachers/tyagaraja.md)
+terms: [nāda](../terms/nada.md) · concepts: [Music as spiritual practice](../concepts/music-as-sadhana.md), [Nāda — the inner sound](../concepts/nada.md) · practices: [Worship through nāda (music as spiritual practice)](../practices/nadopasana.md) · teachers: [Tyāgarāja](../teachers/tyagaraja.md)
 
 ### kṛti 'saṅgīta jñānamu' (Dhanyāsi) <a id="tea-tyagaraja-krtis-sangita-jnanamu"></a>
 `skeleton` · confidence moderate
@@ -74,4 +74,4 @@ practices: [Holy company (satsaṅga)](../practices/satsanga.md) · teachers: [T
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

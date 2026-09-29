@@ -19,7 +19,7 @@ A cognition is not perceived but inferred from the 'knownness' it produces in th
 ### [Advaita Vedānta](../lineages/advaita-vedanta.md)
 Consciousness is self-luminous (svaprakāśa) and never an object.
 - As usually reported.
-### `lin:pramana-buddhist`
+### [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
 Cognition is reflexively aware of itself (svasaṃvedana).
 - As usually reported.
 
@@ -31,4 +31,4 @@ Cognition is reflexively aware of itself (svasaṃvedana).
 **Candidate readings:** P2-standpoint: the schools may be answering different questions — how a cognition is manifest versus how it becomes an object of report.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

@@ -41,4 +41,4 @@ terms: [nāmāparādha](../terms/namaparadha.md) · concepts: [The power of the 
 _Notes: Contains the Bhāgavata-māhātmya (Uttarakhaṇḍa; colophon checked in the local e-text), the Gītā-māhātmya, the Śiva Gītā (U06), the classification of the Purāṇas by the three guṇas (Uttarakhaṇḍa; ch. number edition-dependent, often cited as 236.18-21), and the list of ten offences against the name as cited by Gauḍīya authors._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._

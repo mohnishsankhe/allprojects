@@ -30,4 +30,4 @@ Poet-saint of Rāma (c. 1532–1623; tradition 1497–1623), a brahmin abandoned
 **Realization — the tradition's account:** Hanumān, met through a ghost's guidance, showed him Rāma at Citrakūṭ; Śiva approved the Mānas at Vārāṇasī.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti, skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti, skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

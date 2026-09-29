@@ -70,4 +70,4 @@ terms: [paratantra (asvatantra)](../terms/paratantra.md), [Hari](../terms/hari.m
 _Notes: All thirteen verses checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

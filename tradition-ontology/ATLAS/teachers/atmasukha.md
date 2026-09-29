@@ -10,4 +10,4 @@
 Recalled as author of the Vāsiṣṭhacandrikā on the Laghu Yoga Vāsiṣṭha.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

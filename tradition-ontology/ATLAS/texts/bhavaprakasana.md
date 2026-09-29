@@ -14,4 +14,4 @@
 Śāradātanaya's treatise on bhāva, rasa and drama, gathering many earlier views.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

@@ -11,4 +11,4 @@ One of the sixty-three Nāyaṉmārs. The Pāṇṭiya king, a patron of the Jai
 **Realization — the tradition's account:** The Pāṇṭiya king, a patron of the Jains, whose burning fever Campantar cured with sacred ash; his hunched back was straightened and he turned Śaiva; he won the battle of Nelvēli.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

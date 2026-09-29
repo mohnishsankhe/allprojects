@@ -20,4 +20,4 @@
 _Notes: Not the Sāṃkhya evolute; here a mistaken cognition._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U13-advaita, skeleton:U11-nyaya-vaisesika, skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U13-advaita, skeleton:U11-nyaya-vaisesika, skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._

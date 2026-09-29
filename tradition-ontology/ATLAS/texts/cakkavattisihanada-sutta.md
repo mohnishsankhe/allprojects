@@ -25,7 +25,7 @@ Live as islands to yourselves with the Dhamma as island; roam in your own pastur
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-concepts: `cpt:attadipa` · practices: `prc:satipatthana`
+concepts: [Oneself as island, the Dhamma as island](../concepts/attadipa.md) · practices: [The four establishments of mindfulness (satipaṭṭhāna)](../practices/satipatthana.md)
 
 ### 10-24 <a id="tea-cakkavattisihanada-sutta-10-24"></a>
 `skeleton` · confidence high
@@ -34,7 +34,7 @@ When the king neglects to give wealth to the needy, poverty arises, then theft, 
 
 _level: conventional · standpoint: cosmic · path: action · stage: all · types: world-fate, ethics_
 
-concepts: `cpt:decline-and-renewal`
+concepts: [Decline and renewal of human life](../concepts/decline-and-renewal.md)
 
 ### 25 <a id="tea-cakkavattisihanada-sutta-25"></a>
 `skeleton` · confidence high
@@ -43,7 +43,7 @@ When human life reaches eighty thousand years, the Blessed One Metteyya will ari
 
 _level: conventional · standpoint: cosmic · path: devotion · stage: all · types: world-fate, teacher-transmission_
 
-concepts: `cpt:future-buddha-metteyya` · teachers: `tch:metteyya`
+concepts: [Metteyya, the future Buddha](../concepts/future-buddha-metteyya.md) · teachers: [Metteyya](../teachers/metteyya.md)
 
 ### 28 <a id="tea-cakkavattisihanada-sutta-28"></a>
 `skeleton` · confidence high
@@ -52,10 +52,10 @@ For a monk, long life means the four bases of psychic power; beauty means virtue
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice, powers-experiences_
 
-terms: `trm:iddhipada` · concepts: `cpt:iddhipada`
+terms: [iddhipāda](../terms/iddhipada.md) · concepts: [Basis of power (iddhipāda)](../concepts/iddhipada.md)
 
 
 _Notes: SuttaCentral uid dn26; Mahāsaṅgīti title 'Cakkavattisutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

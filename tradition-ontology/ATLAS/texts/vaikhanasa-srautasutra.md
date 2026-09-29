@@ -1,6 +1,6 @@
 # Vaikhānasa Śrautasūtra
 
-`src:vaikhanasa-srautasutra` · `skeleton` · confidence moderate
+`src:vaikhanasa-srautasutra` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,4 +13,8 @@ The śrauta (solemn-rite) sūtra of the Vaikhānasa school.
   - kind: original; name: ed. W. Caland, Calcutta 1941
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:DCS:Vaikhānasaśrautasūtra — Low-confidence entry confirmed as extant (DCS; Caland's 1941 edition).
+
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

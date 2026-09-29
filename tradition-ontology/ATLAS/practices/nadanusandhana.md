@@ -34,4 +34,4 @@ Seated in muktāsana (or siddhāsana) with śāmbhavī mudrā, the ears (and the
 _Notes: Later haṭha and yoga Upaniṣads elaborate nāda practice (U28/U29)._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

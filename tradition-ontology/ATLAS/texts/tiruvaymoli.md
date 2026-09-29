@@ -109,7 +109,7 @@ Let it flourish, flourish, flourish! The curse on lives is gone, hell is laid wa
 
 _level: conventional · standpoint: cosmic · path: devotion, sound · stage: all · types: world-fate, practice_
 
-concepts: [Devotees of the Kali age in the Tamil land](../concepts/dravida-devotees-in-kali.md), [The Lord's devotees as one's masters; service to devotees](../concepts/service-to-devotees.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md) · teachers: [Nammāḻvār](../teachers/nammalvar.md)
+concepts: [Devotees of the Kali age in the Tamil land](../concepts/dravida-devotees-in-kali.md), [The Lord's devotees as one's masters; service to devotees](../concepts/service-to-devotees.md) · practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md) · teachers: [Nammāḻvār](../teachers/nammalvar.md)
 
 ### 5.8.1 <a id="tea-tiruvaymoli-5-8-1"></a>
 `skeleton` · confidence moderate
@@ -145,7 +145,7 @@ All sorrows perish when one says 'Keśava'; even the servants of death who do cr
 
 _level: conventional · standpoint: seeker · path: sound, devotion · stage: all · types: practice, death-dying, sound-language_
 
-terms: [nāma](../terms/nama.md) · concepts: [The divine name](../concepts/divine-name.md), [The 108 divine sites (divya-deśa)](../concepts/divya-desa.md) · practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md) · teachers: [Nammāḻvār](../teachers/nammalvar.md)
+terms: [nāma](../terms/nama.md) · concepts: [The divine name](../concepts/divine-name.md), [The 108 divine sites (divya-deśa)](../concepts/divya-desa.md) · practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md) · teachers: [Nammāḻvār](../teachers/nammalvar.md)
 
 ### 10.9 <a id="tea-tiruvaymoli-10-9"></a>
 `skeleton` · confidence high
@@ -172,10 +172,10 @@ The eleventh verse of each decad names the composer and declares the fruit for t
 
 _level: conventional · standpoint: seeker · path: sound, devotion · stage: all · types: sound-language, practice_
 
-practices: [Singing the Lord's names (kīrtana, nāma-saṅkīrtana)](../practices/kirtana.md), [Recitation of the Divya Prabandham](../practices/divya-prabandham-recitation.md) · teachers: [Nammāḻvār](../teachers/nammalvar.md)
+practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md), [Recitation of the Divya Prabandham](../practices/divya-prabandham-recitation.md) · teachers: [Nammāḻvār](../teachers/nammalvar.md)
 
 
 _Notes: Structure: 10 centums (pattu) × 10 decads (tiruvāymoḻi), mostly 11 verses each (10 + a phalaśruti). Commentaries (U14 entries): Ārāyirappaṭi (Tirukkurukaippirāṉ Piḷḷāṉ), Oṉpatiṉāyirappaṭi (Nañjīyar), Irupattunālāyirappaṭi (Periyavāccāṉ Piḷḷai), Īṭu Muppattāṟāyirappaṭi (Vaṭakku Tiruvīti Piḷḷai, from Nampiḷḷai's lectures), Paṉṉīrāyirappaṭi (Vādikesari Aḻagiya Maṇavāḷa Jīyar); Sanskrit: Deśika's Dramiḍopaniṣat-tātparya-ratnāvalī and Dramiḍopaniṣat-sāra; Maṇavāḷa Māmuni's Tiruvāymoḻi Nūṟṟantāti. Tiruvāymoḻi refs are centum.decad.verse (patt.tiruvāymoḻi.pācuram)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

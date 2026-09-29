@@ -65,7 +65,7 @@ Postulation (arthāpatti) is a form of inference; absence (abhāva) is perceptio
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: consciousness-mind, dispute_
 
-concepts: [Means of valid knowledge (pramāṇa)](../concepts/pramana.md) · disputes: `dsp:number-of-pramanas`
+concepts: [Means of valid knowledge (pramāṇa)](../concepts/pramana.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
 
 ### 51 <a id="tea-tattvakaumudi-51"></a>
 `skeleton` · confidence low
@@ -89,4 +89,4 @@ concepts: [The sixty topics of the Ṣaṣṭitantra](../concepts/sastitantra-si
 _Notes: Only the part on SK 1–15 was available locally; teachings on later verses are from memory (low confidence)._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._

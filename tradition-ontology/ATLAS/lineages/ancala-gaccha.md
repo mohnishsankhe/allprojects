@@ -4,7 +4,7 @@
 
 **Family:** ascetic
 **Parent:** [Śvetāmbara Mūrtipūjaka](murtipujaka.md)
-**Founders:** `tch:aryaraksita-suri-ancala`
+**Founders:** [Āryarakṣitasūri (founder of the Añcala Gaccha)](../teachers/aryaraksita-suri-ancala.md)
 **Dates:** Scholarly account: 12th c. CE (c. 1156 CE is often given; low confidence); (confidence low)
 **Status:** living
 
@@ -19,7 +19,7 @@ A Mūrtipūjaka gaccha founded in the 12th c. by Āryarakṣitasūri as a ritual
 _none recorded_
 
 ## Teachers
-_none recorded_
+[Āryarakṣitasūri (founder of the Añcala Gaccha)](../teachers/aryaraksita-suri-ancala.md)
 
 ## Practices
 _none recorded_
@@ -31,4 +31,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

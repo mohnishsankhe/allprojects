@@ -129,7 +129,7 @@ The reciter (jāpaka) who, with self-restraint, repeats the Veda/Sāvitrī in me
 
 _level: conventional · standpoint: seeker · path: sound, meditation · stage: intermediate · types: practice, sound-language, karma-liberation_
 
-terms: [japa-yajña](../terms/japa-yajna.md) · concepts: [Oṃ](../concepts/om.md) · practices: [Recitation (japa)](../practices/japa.md)
+terms: [japa-yajña](../terms/japa-yajna.md) · concepts: [Oṃ](../concepts/om.md) · practices: [Mantra repetition (japa)](../practices/japa.md)
 
 ### 12.194-199 <a id="tea-moksadharma-12-194-199"></a>
 `sourced` · confidence low
@@ -147,7 +147,7 @@ Pañcaśikha, Āsuri's disciple, examines for Janadeva Janaka the views of what 
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, death-dying_
 
-concepts: [The self](../concepts/the-self.md) · teachers: [Pañcaśikha](../teachers/pancasikha.md), [Janadeva Janaka](../teachers/janadeva-janaka.md) · disputes: `dsp:is-there-a-self`
+concepts: [The self](../concepts/the-self.md) · teachers: [Pañcaśikha](../teachers/pancasikha.md), [Janadeva Janaka](../teachers/janadeva-janaka.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 12.215.15 <a id="tea-moksadharma-12-215-15"></a>
 `sourced` · confidence high
@@ -255,7 +255,7 @@ Seeing a cow led for sacrifice, Kapila exclaims 'the Vedas!'; Syūmaraśmi, ente
 
 _level: conventional · standpoint: polemical · path: knowledge, ritual · stage: all · types: dispute_
 
-teachers: [Kapila](../teachers/kapila.md), [Syūmaraśmi](../teachers/syumarasmi.md) · disputes: [Is the killing of animals in Vedic sacrifice dharma?](../debates/animal-sacrifice-epic.md), `dsp:status-of-veda`
+teachers: [Kapila](../teachers/kapila.md), [Syūmaraśmi](../teachers/syumarasmi.md) · disputes: [Is the killing of animals in Vedic sacrifice dharma?](../debates/animal-sacrifice-epic.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 12.264 <a id="tea-moksadharma-12-264"></a>
 `sourced` · confidence moderate
@@ -318,7 +318,7 @@ Asked the difference between Sāṃkhya and Yoga, Bhīṣma says each praises it
 
 _level: bridging · standpoint: polemical · path: meditation, knowledge · stage: all · types: dispute, practice_
 
-terms: [sāṃkhya](../terms/samkhya.md), [yoga](../terms/yoga.md), [īśvara](../terms/isvara.md) · teachers: [Bhīṣma (Devavrata, Gāṅgeya)](../teachers/bhisma.md) · disputes: [Sāṃkhya or Yoga — which is superior? (MBh 12.289)](../debates/samkhya-or-yoga-epic.md), `dsp:isvara`
+terms: [sāṃkhya](../terms/samkhya.md), [yoga](../terms/yoga.md), [īśvara](../terms/isvara.md) · teachers: [Bhīṣma (Devavrata, Gāṅgeya)](../teachers/bhisma.md) · disputes: [Sāṃkhya or Yoga — which is superior? (MBh 12.289)](../debates/samkhya-or-yoga-epic.md), [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### 12.289.7 <a id="tea-moksadharma-12-289-7"></a>
 `sourced` · confidence high
@@ -445,6 +445,6 @@ _Notes: Vulgate range given from memory (moderate)._
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.168.8 (Senajit), 12.353.9 (last verse of the book), https://link.springer.com/article/10.1007/s10781-016-9293-z — CE 12.168–353 confirmed as the closing section of the Śāntiparvan (186 chapters). The vulgate range 12.174–365 was not verified (the local vulgate file follows a different, 375-chapter Śāntiparvan numbering).
+- 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.168.8 (Senajit), 12.353.9 (last verse of the book), https://link.springer.com/article/10.1007/s10781-016-9293-z — CE 12.168–353 confirmed as the closing section of the Śāntiparvan (186 chapters). The vulgate range 12.174–365 was not verified (the local vulgate file follows a different, 375-chapter Śāntiparvan numbering).
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

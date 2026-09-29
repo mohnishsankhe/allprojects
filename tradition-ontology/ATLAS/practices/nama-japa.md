@@ -19,7 +19,7 @@ Softly repeating the names of Kṛṣṇa (in Gauḍīya practice, above all the
 - Chanting while committing the ten offences does not yield love; sinning on the strength of the name is itself an offence. — [Padma Purāṇa](../texts/padma-purana.md) nama-aparadha
 
 ## Equivalents (interpretation layer)
-- partial: [Recitation (japa)](japa.md) — general mantra repetition; here the object is the name itself, held non-different from Kṛṣṇa
+- partial: [Mantra repetition (japa)](japa.md) — general mantra repetition; here the object is the name itself, held non-different from Kṛṣṇa
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

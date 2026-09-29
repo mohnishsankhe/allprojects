@@ -17,7 +17,7 @@
 
 A dialogue in which Parāśara teaches Maitreya the horā: creation from Viṣṇu and his three powers, the planets as avatāras of Janārdana who give beings the fruits of karma, planets and signs, the sixteen divisional charts, sign-aspects, the houses, special ascendants, kārakas, yogas, longevity and death-inflicting planets, a great many planetary-period systems (with the Viṃśottarī as chief), aṣṭakavarga, the five great men, renunciation yogas, curses from past births, and a long series of pacificatory rites (śānti) for planets and inauspicious births.
 
-## Teachings (21: skeleton 21)
+## Teachings (22: skeleton 22)
 
 ### 1.1-3 <a id="tea-brhat-parasara-hora-sastra-1-1-3"></a>
 `skeleton` · confidence high
@@ -26,7 +26,7 @@ Maitreya approached Parāśara, the best of sages who knows the three times, bow
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: world-fate, teacher-transmission_
 
-concepts: `cpt:jyotisa-three-skandhas`, `cpt:jyotisa-transmission` · teachers: [Maitreya (sage)](../teachers/maitreya-puranic.md), [Parāśara](../teachers/parasara.md)
+concepts: [The three branches of jyotiṣa (skandha-traya)](../concepts/jyotisa-three-skandhas.md), [Teacher, pupil and the handing down of jyotiṣa](../concepts/jyotisa-transmission.md) · teachers: [Maitreya (sage)](../teachers/maitreya-puranic.md), [Parāśara](../teachers/parasara.md)
 
 ### 1.6 <a id="tea-brhat-parasara-hora-sastra-1-6"></a>
 `skeleton` · confidence high
@@ -35,7 +35,7 @@ Having bowed to Brahman, to its power Bhāratī, and to the Sun, lord of planets
 
 _level: conventional · standpoint: devotional · path: knowledge · stage: all · types: world-fate, teacher-transmission_
 
-concepts: `cpt:jyotisa-as-eye-of-veda`, `cpt:jyotisa-revelation` · teachers: [Parāśara](../teachers/parasara.md), [Brahmā (as first teacher)](../teachers/brahma.md)
+concepts: [Jyotiṣa as the eye of the Veda](../concepts/jyotisa-as-eye-of-veda.md), [The revealed origin of jyotiṣa](../concepts/jyotisa-revelation.md) · teachers: [Parāśara](../teachers/parasara.md), [Brahmā (as first teacher)](../teachers/brahma.md)
 
 ### 1.7-8 <a id="tea-brhat-parasara-hora-sastra-1-7-8"></a>
 `skeleton` · confidence high
@@ -46,7 +46,7 @@ This should be given to one who is calm, devoted to the teacher, always truthful
 
 _level: conventional · standpoint: ethical-social · path: knowledge · stage: all · types: teacher-transmission, world-fate_
 
-concepts: `cpt:jyotisa-transmission` · teachers: [Parāśara](../teachers/parasara.md)
+concepts: [Teacher, pupil and the handing down of jyotiṣa](../concepts/jyotisa-transmission.md) · teachers: [Parāśara](../teachers/parasara.md)
 
 ### 1.9-20 <a id="tea-brhat-parasara-hora-sastra-1-9-20"></a>
 `skeleton` · confidence moderate
@@ -55,7 +55,7 @@ Viṣṇu is one, unmanifest, beginningless, the Lord, pure sattva, without qual
 
 _level: conventional · standpoint: cosmic · path: knowledge, devotion · stage: all · types: ultimate, world-fate_
 
-concepts: `cpt:jyotisa-ultimate` · teachers: [Parāśara](../teachers/parasara.md)
+concepts: [The ultimate as named in jyotiṣa texts](../concepts/jyotisa-ultimate.md) · teachers: [Parāśara](../teachers/parasara.md)
 
 ### 1.21-24 <a id="tea-brhat-parasara-hora-sastra-1-21-24"></a>
 `skeleton` · confidence high
@@ -64,7 +64,7 @@ The supreme Self shines in all beings, and all this rests in the supreme Self. I
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate, world-fate, consciousness-mind_
 
-terms: `trm:jivamsa`, `trm:paramatmamsa` · concepts: `cpt:jivamsa-paramatmamsa` · teachers: [Parāśara](../teachers/parasara.md)
+terms: [jīvāṃśa](../terms/jivamsa.md), [paramātmāṃśa](../terms/paramatmamsa.md) · concepts: [The jīva-portion and the supreme-Self portion](../concepts/jivamsa-paramatmamsa.md) · teachers: [Parāśara](../teachers/parasara.md)
 
 ### 2.1-2 <a id="tea-brhat-parasara-hora-sastra-2-1-2"></a>
 `skeleton` · confidence high
@@ -73,7 +73,7 @@ Maitreya asks whether Rāma, Kṛṣṇa and the other avatāras of Lakṣmī's 
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: world-fate, ultimate_
 
-concepts: `cpt:graha-avatara` · teachers: [Parāśara](../teachers/parasara.md), [Maitreya (sage)](../teachers/maitreya-puranic.md)
+concepts: [The planets as avatāras of Viṣṇu](../concepts/graha-avatara.md) · teachers: [Parāśara](../teachers/parasara.md), [Maitreya (sage)](../teachers/maitreya-puranic.md)
 
 ### 2.3 <a id="tea-brhat-parasara-hora-sastra-2-3"></a>
 `skeleton` · confidence high
@@ -84,7 +84,7 @@ The unborn supreme Self has many avatāras; Janārdana, in the form of the plane
 
 _level: conventional · standpoint: divine · path: devotion, action · stage: all · types: world-fate, karma-liberation_
 
-concepts: `cpt:graha-avatara`, `cpt:horoscope-reveals-karma` · teachers: [Parāśara](../teachers/parasara.md) · disputes: `dsp:grahas-cause-or-sign`
+concepts: [The planets as avatāras of Viṣṇu](../concepts/graha-avatara.md), [The chart reveals the ripening of past karma](../concepts/horoscope-reveals-karma.md) · teachers: [Parāśara](../teachers/parasara.md) · disputes: [Do the planets cause a person's fortune, or only reveal the karma that causes it?](../debates/grahas-cause-or-sign.md)
 
 ### 2.4-7 <a id="tea-brhat-parasara-hora-sastra-2-4-7"></a>
 `skeleton` · confidence high
@@ -93,7 +93,7 @@ To destroy the strength of the daityas, increase the strength of the gods and es
 
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: world-fate_
 
-concepts: `cpt:graha-avatara`, `cpt:navagraha` · teachers: [Parāśara](../teachers/parasara.md)
+concepts: [The planets as avatāras of Viṣṇu](../concepts/graha-avatara.md), [The nine planets (navagraha)](../concepts/navagraha.md) · teachers: [Parāśara](../teachers/parasara.md)
 
 ### 2.8-10 <a id="tea-brhat-parasara-hora-sastra-2-8-10"></a>
 `skeleton` · confidence moderate
@@ -102,7 +102,7 @@ Those in whom the supreme Self's portion is greater are called sky-goers (divine
 
 _level: bridging · standpoint: cosmic · path: knowledge, devotion · stage: all · types: ultimate, world-fate, death-dying_
 
-concepts: `cpt:jivamsa-paramatmamsa`, `cpt:graha-avatara` · teachers: [Parāśara](../teachers/parasara.md)
+concepts: [The jīva-portion and the supreme-Self portion](../concepts/jivamsa-paramatmamsa.md), [The planets as avatāras of Viṣṇu](../concepts/graha-avatara.md) · teachers: [Parāśara](../teachers/parasara.md)
 
 ### 2.11-13 <a id="tea-brhat-parasara-hora-sastra-2-11-13"></a>
 `skeleton` · confidence high
@@ -111,7 +111,7 @@ Thus all has been told in which everything comes to be; those who know it know w
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: world-fate, teacher-transmission_
 
-concepts: `cpt:jyotisa-as-eye-of-veda` · teachers: [Parāśara](../teachers/parasara.md) · disputes: `dsp:astrology-for-renunciants`
+concepts: [Jyotiṣa as the eye of the Veda](../concepts/jyotisa-as-eye-of-veda.md) · teachers: [Parāśara](../teachers/parasara.md) · disputes: [May monks and renunciants practise astrology or live by it?](../debates/astrology-for-renunciants.md)
 
 ### 6.2-4 <a id="tea-brhat-parasara-hora-sastra-6-2-4"></a>
 `skeleton` · confidence high
@@ -120,7 +120,7 @@ The sixteen divisions (varga) spoken by Brahmā are: the sign (kṣetra), horā,
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate_
 
-terms: `trm:varga-jyotisa`, `trm:navamsa` · concepts: `cpt:vargas` · teachers: [Parāśara](../teachers/parasara.md), [Brahmā (as first teacher)](../teachers/brahma.md)
+terms: [varga (divisional chart)](../terms/varga-jyotisa.md), [navāṃśa](../terms/navamsa.md) · concepts: [Divisional charts (varga)](../concepts/vargas.md) · teachers: [Parāśara](../teachers/parasara.md), [Brahmā (as first teacher)](../teachers/brahma.md)
 
 ### 32.1-4 <a id="tea-brhat-parasara-hora-sastra-32-1-4"></a>
 `skeleton` · confidence high
@@ -129,7 +129,7 @@ The significators beginning with the Self (ātmakāraka) are seven, from the Sun
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate, consciousness-mind_
 
-terms: `trm:atmakaraka`, `trm:karaka-jyotisa` · concepts: `cpt:cara-karakas` · teachers: [Parāśara](../teachers/parasara.md)
+terms: [ātmakāraka](../terms/atmakaraka.md), [kāraka (significator)](../terms/karaka-jyotisa.md) · concepts: [The variable significators (cara-kāraka)](../concepts/cara-karakas.md) · teachers: [Parāśara](../teachers/parasara.md)
 
 ### 46.3-11 <a id="tea-brhat-parasara-hora-sastra-46-3-11"></a>
 `skeleton` · confidence high
@@ -138,7 +138,7 @@ There are many kinds of periods (daśā): chief is the Viṃśottarī; some hold
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate_
 
-terms: `trm:dasa` · concepts: `cpt:dasa-systems` · teachers: [Parāśara](../teachers/parasara.md)
+terms: [daśā](../terms/dasa.md) · concepts: [The systems of planetary periods](../concepts/dasa-systems.md) · teachers: [Parāśara](../teachers/parasara.md)
 
 ### 46.12-15 <a id="tea-brhat-parasara-hora-sastra-46-12-15"></a>
 `skeleton` · confidence high
@@ -147,7 +147,16 @@ Counting from Kṛttikā, three times over, the lords of the periods are the Sun
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate_
 
-terms: `trm:dasa` · concepts: `cpt:vimsottari-dasa` · teachers: [Parāśara](../teachers/parasara.md)
+terms: [daśā](../terms/dasa.md) · concepts: [The Viṃśottarī period system](../concepts/vimsottari-dasa.md) · teachers: [Parāśara](../teachers/parasara.md)
+
+### 52.1-3 <a id="tea-brhat-parasara-hora-sastra-52-1-3"></a>
+`skeleton` · confidence high
+
+The Sun in exaltation or its own sign, in the 11th, an angle or a trine, gives wealth and grain in its own period and sub-period; placed in fall or an evil sign it gives the reverse. If the Sun is lord of the 2nd or 7th, fear of untimely death is to be declared; to remove that fault one should perform recitation of the Mṛtyuñjaya mantra and a pacification pleasing to the Sun, to obtain health.
+
+_level: conventional · standpoint: ritual · path: ritual, sound · stage: all · types: world-fate, practice, death-dying_
+
+concepts: [Remedial measures (śānti, parihāra, upāya)](../concepts/remedial-measures.md), [Longevity and the killing planets](../concepts/ayurdaya.md) · practices: [Repetition of the Mahāmṛtyuñjaya (Tryambaka) verse](../practices/mahamrtyunjaya-japa.md), [Pacification of the planets (grahayajña, navagraha-homa)](../practices/graha-santi.md) · teachers: [Parāśara](../teachers/parasara.md)
 
 ### 75.1-2 <a id="tea-brhat-parasara-hora-sastra-75-1-2"></a>
 `skeleton` · confidence high
@@ -156,7 +165,7 @@ When Mars and the others (Mercury, Jupiter, Venus, Saturn), strong, stand in an 
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate_
 
-concepts: `cpt:pancamahapurusa-yogas` · teachers: [Parāśara](../teachers/parasara.md)
+concepts: [The five great men (pañcamahāpuruṣa)](../concepts/pancamahapurusa-yogas.md) · teachers: [Parāśara](../teachers/parasara.md)
 
 ### 79.1-5 <a id="tea-brhat-parasara-hora-sastra-79-1-5"></a>
 `skeleton` · confidence high
@@ -165,7 +174,7 @@ The yoga by which people leave home for another religious order: when four or mo
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: world-fate, karma-liberation_
 
-concepts: `cpt:pravrajya-yogas` · teachers: [Parāśara](../teachers/parasara.md)
+concepts: [Combinations for renunciation (pravrajyā-yoga)](../concepts/pravrajya-yogas.md) · teachers: [Parāśara](../teachers/parasara.md)
 
 ### 83.1-6 <a id="tea-brhat-parasara-hora-sastra-83-1-6"></a>
 `skeleton` · confidence high
@@ -174,7 +183,7 @@ Maitreya asks: the śāstras say there is no good destination for the sonless �
 
 _level: conventional · standpoint: causal · path: ritual, action · stage: all · types: world-fate, karma-liberation_
 
-concepts: `cpt:horoscope-reveals-karma`, `cpt:remedial-measures` · obstacles: `obs:purvajanma-sapa` · teachers: [Parāśara](../teachers/parasara.md)
+concepts: [The chart reveals the ripening of past karma](../concepts/horoscope-reveals-karma.md), [Remedial measures (śānti, parihāra, upāya)](../concepts/remedial-measures.md) · obstacles: [Curses from a former birth](../obstacles/purvajanma-sapa.md) · teachers: [Parāśara](../teachers/parasara.md)
 
 ### 84.1-3 <a id="tea-brhat-parasara-hora-sastra-84-1-3"></a>
 `skeleton` · confidence high
@@ -183,7 +192,7 @@ Asked for the worship that pacifies the planets' faults, Parāśara says: the pl
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: world-fate, practice_
 
-concepts: `cpt:remedial-measures` · practices: `prc:graha-santi` · teachers: [Parāśara](../teachers/parasara.md) · disputes: `dsp:grahas-cause-or-sign`
+concepts: [Remedial measures (śānti, parihāra, upāya)](../concepts/remedial-measures.md) · practices: [Pacification of the planets (grahayajña, navagraha-homa)](../practices/graha-santi.md) · teachers: [Parāśara](../teachers/parasara.md) · disputes: [Do the planets cause a person's fortune, or only reveal the karma that causes it?](../debates/grahas-cause-or-sign.md)
 
 ### 84.4-13 <a id="tea-brhat-parasara-hora-sastra-84-4-13"></a>
 `skeleton` · confidence moderate
@@ -192,7 +201,7 @@ The planets' images are to be made of copper, crystal, red sandalwood, gold (two
 
 _level: conventional · standpoint: ritual · path: ritual, devotion · stage: all · types: world-fate, practice_
 
-concepts: `cpt:navagraha-correspondences` · practices: `prc:navagraha-puja` · teachers: [Parāśara](../teachers/parasara.md)
+concepts: [Correspondences of the nine planets](../concepts/navagraha-correspondences.md) · practices: [Worship of the nine planets (navagraha-pūjā)](../practices/navagraha-puja.md) · teachers: [Parāśara](../teachers/parasara.md)
 
 ### 91.1-4 <a id="tea-brhat-parasara-hora-sastra-91-1-4"></a>
 `skeleton` · confidence high
@@ -201,7 +210,7 @@ Those born at the time of a solar or lunar eclipse face disease, hardship, pover
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: world-fate, practice_
 
-practices: `prc:janma-santi` · obstacles: `obs:grahana-janma` · teachers: [Parāśara](../teachers/parasara.md)
+practices: [Pacification for an inauspicious birth](../practices/janma-santi.md) · obstacles: [Birth during an eclipse](../obstacles/grahana-janma.md) · teachers: [Parāśara](../teachers/parasara.md)
 
 ### 94.1-2 <a id="tea-brhat-parasara-hora-sastra-94-1-2"></a>
 `skeleton` · confidence high
@@ -210,10 +219,10 @@ One born at the junction (gaṇḍānta) of Jyeṣṭhā destroys his father and
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: world-fate, practice_
 
-practices: `prc:janma-santi` · obstacles: `obs:gandanta-janma` · teachers: [Parāśara](../teachers/parasara.md)
+practices: [Pacification for an inauspicious birth](../practices/janma-santi.md) · obstacles: [Birth at a junction (gaṇḍānta)](../obstacles/gandanta-janma.md) · teachers: [Parāśara](../teachers/parasara.md)
 
 
 _Notes: Local e-text used for spot checks follows the 97-chapter arrangement._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

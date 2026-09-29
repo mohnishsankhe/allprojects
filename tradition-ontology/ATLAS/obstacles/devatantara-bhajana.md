@@ -13,4 +13,4 @@ Resorting to other gods for ends or as the supreme, which the surrendered avoid,
   - [Kīrtana-ghoṣā](../texts/kirtana-ghosa.md) — ref: Pāṣaṇḍa-mardana; rests_on: ["tea:kirtana-ghosa:pasanda-mardana"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U14-visistadvaita, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

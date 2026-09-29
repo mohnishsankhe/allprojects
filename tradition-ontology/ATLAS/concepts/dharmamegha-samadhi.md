@@ -13,4 +13,4 @@
 - leads-to → [Isolation (kaivalya)](kaivalya.md) — rests on [4.32](../texts/yoga-sutra.md#tea-yoga-sutra-4-32), [4.34](../texts/yoga-sutra.md#tea-yoga-sutra-4-34)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 16:38 IST._

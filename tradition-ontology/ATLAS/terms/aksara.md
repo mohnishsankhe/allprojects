@@ -22,4 +22,4 @@
 **Related:** [kṣara](ksara.md), [Lakṣmī (Śrī, Ramā)](laksmi.md), [oṃ](om.md), [kūṭastha](kutastha.md), [brahman](brahman.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts, extraction:bhagavad-gita/ch01-03. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 16:38 IST._

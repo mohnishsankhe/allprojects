@@ -10,11 +10,11 @@ No: recognition shows persistence; momentary things could not stand in causal re
 - SS 1.34–41; mere-consciousness and emptiness views also rejected (1.42–47).
 **Texts:** 
   - [Sāṃkhya Sūtra](../texts/samkhya-sutra.md) — ref: 1.34-47
-### `lin:pramana-buddhist`
+### [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
 Yes: whatever exists is momentary (the Buddhist pramāṇa school).
 - Dharmakīrti's and Śāntarakṣita's arguments for momentariness (to be cited by U41).
 **Texts:** 
-  - `src:pramanavarttika` — ref: (to be located)
+  - [Pramāṇavārttika](../texts/pramanavarttika.md) — ref: (to be located)
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -23,4 +23,4 @@ Yes: whatever exists is momentary (the Buddhist pramāṇa school).
 **Candidate readings:** P2-standpoint: substance vs mode (as in dsp:existence-of-pradhana).
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._

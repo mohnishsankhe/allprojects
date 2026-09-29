@@ -8,4 +8,4 @@
 Janaka's hotṛ priest, the first to question Yājñavalkya at the court debate, on how the sacrificer is freed from death, day and night, the fortnights (BAU 3.1).
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

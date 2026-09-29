@@ -34,4 +34,4 @@ Claims only that the Sant tradition contains this graded view; it does not claim
 _Notes: Intra-Sant counterpart of dsp:kabir-and-the-yogis (U21, Nāth vs Sant), which records the Kabīr–Gorakh goṣṭhī._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

@@ -13,4 +13,4 @@
 - opposes → [Pre-existence of the effect (satkāryavāda)](satkaryavada.md): Sāṃkhya's pre-existent effect. — rests on [4.1.48-50](../texts/nyaya-sutra.md#tea-nyaya-sutra-4-1-48-50)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

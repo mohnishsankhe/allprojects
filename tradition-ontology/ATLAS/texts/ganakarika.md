@@ -44,7 +44,7 @@ The eight pentads are gains, impurities, means, places, stages, purifications, f
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: practice_
 
-terms: [lābha](../terms/labha.md), [mala](../terms/mala.md), [upāya](../terms/upaya.md), [deśa](../terms/desa.md), [avasthā](../terms/avastha.md), [viśuddhi](../terms/visuddhi.md), [dīkṣākārin](../terms/diksakarin.md), [bala](../terms/bala.md), [vṛtti](../terms/vrtti.md) · concepts: [The nine groups: eight pentads and one triad](../concepts/eight-pentads-ganakarika.md)
+terms: [lābha](../terms/labha.md), [mala](../terms/mala.md), [upāya](../terms/upaya.md), [deśa](../terms/desa.md), [avasthā](../terms/avastha.md), [visuddhi](../terms/visuddhi.md), [dīkṣākārin](../terms/diksakarin.md), [bala](../terms/bala.md), [vṛtti](../terms/vrtti.md) · concepts: [The nine groups: eight pentads and one triad](../concepts/eight-pentads-ganakarika.md)
 
 ### 3 <a id="tea-ganakarika-3"></a>
 `skeleton` · confidence high
@@ -66,7 +66,7 @@ Purification is fivefold: loss of ignorance, of demerit, of what causes attachme
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: karma-liberation_
 
-terms: [viśuddhi](../terms/visuddhi.md) · concepts: [The five purifications (viśuddhi)](../concepts/pasupata-five-purifications.md)
+terms: [visuddhi](../terms/visuddhi.md) · concepts: [The five purifications (viśuddhi)](../concepts/pasupata-five-purifications.md)
 
 ### 5 <a id="tea-ganakarika-5"></a>
 `skeleton` · confidence high
@@ -114,4 +114,4 @@ concepts: [The five impurities (mala)](../concepts/pasupata-five-impurities.md) 
 
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 16:38 IST._

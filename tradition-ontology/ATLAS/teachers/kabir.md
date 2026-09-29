@@ -22,4 +22,4 @@ Weaver (julāhā) poet-saint of Banaras, raised in a Muslim weaver household, th
 _Notes: Relation to Rāmānanda is disputed (dsp:kabir-guru-ramananda). Encounters with Sikandar Lodī and with Gorakhnāth are legendary._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

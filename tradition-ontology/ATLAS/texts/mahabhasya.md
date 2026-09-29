@@ -1,6 +1,6 @@
 # Vyākaraṇa-Mahābhāṣya
 
-`src:mahabhasya` · `skeleton` · confidence high
+`src:mahabhasya` · `sourced` · confidence high
 
 **Alternate titles:** Mahābhāṣya, Pātañjala Mahābhāṣya
 **Language:** Sanskrit
@@ -19,7 +19,7 @@ Patañjali's 'great commentary' on Pāṇini's sūtras and Kātyāyana's vārtti
   - kind: original; name: Kielhorn's edition via GRETIL (local Devanāgarī mirror)
 **Commentaries on this text:** [Mahābhāṣya-dīpikā (Tripādī) of Bhartṛhari](mahabhasya-dipika.md), [Mahābhāṣya-pradīpa](mahabhasya-pradipa.md)
 
-## Teachings (9: skeleton 9)
+## Teachings (10: skeleton 4, sourced 6)
 
 ### 1.1.70 <a id="tea-mahabhasya-1-1-70"></a>
 `skeleton` · confidence moderate
@@ -28,7 +28,7 @@ Then the sphoṭa is the word, and sound (dhvani) is a quality of the word: as w
 
 _level: conventional · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language_
 
-terms: [sphoṭa](../terms/sphota.md), [dhvani](../terms/dhvani.md) · concepts: [Sphoṭa (the unitary meaning-bearer)](../concepts/sphota.md) · teachers: [Patañjali (the grammarian)](../teachers/patanjali-grammarian.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
+terms: [sphoṭa](../terms/sphota.md), [dhvani](../terms/dhvani.md) · concepts: [The sphoṭa (the meaning-bearing word)](../concepts/sphota.md) · teachers: [Patañjali (the grammarian)](../teachers/patanjali-grammarian.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
 
 ### 1.2.64 <a id="tea-mahabhasya-1-2-64"></a>
 `skeleton` · confidence moderate
@@ -37,10 +37,21 @@ On P 1.2.64 the vārttikas and bhāṣya record two views: Vājapyāyana holds t
 
 _level: conventional · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language, dispute_
 
-terms: [jāti](../terms/jati.md), [dravya](../terms/dravya.md), [ākṛti](../terms/akrti.md) · concepts: `cpt:jati-dravya` · teachers: [Vājapyāyana](../teachers/vajapyayana.md), [Vyāḍi](../teachers/vyadi.md) · disputes: `dsp:jati-or-vyakti`
+terms: [jāti](../terms/jati.md), [dravya](../terms/dravya.md), [ākṛti](../terms/akrti.md) · concepts: [What words denote: universal or substance](../concepts/jati-dravya.md) · teachers: [Vājapyāyana](../teachers/vajapyayana.md), [Vyāḍi](../teachers/vyadi.md) · disputes: [Does a word denote the universal (jāti, ākṛti) or the individual (vyakti, dravya)?](../debates/jati-or-vyakti.md)
+
+### 2.4.12 <a id="tea-mahabhasya-2-4-12"></a>
+`skeleton` · confidence high
+
+Among the examples discussed, 'śramaṇabrāhmaṇam' illustrates the rule that names of beings whose enmity is perpetual form a singular dvandva compound, like 'crow-and-owl' and 'dog-and-jackal'.
+
+> yeṣām ca virodhaḥ iti asya avakāśaḥ śramaṇabrāhmaṇam
+
+_level: conventional · standpoint: analytic · path: general · stage: unmarked · types: sound-language_
+
+terms: [śramaṇa](../terms/sramana.md) · concepts: [Śramaṇa and brāhmaṇa](../concepts/sramana-brahmana-contrast.md)
 
 ### 6.1.84 <a id="tea-mahabhasya-6-1-84"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 A single word, rightly known, in accord with the science and well used, becomes a wish-granting cow in heaven. (If so, why use a second or third? Because there is no satiety of desires.)
 
@@ -58,7 +69,7 @@ _level: conventional · standpoint: analytic · path: knowledge, sound · stage:
 terms: [śabdārtha-sambandha](../terms/sabdartha-sambandha.md), [dharma](../terms/dharma.md) · teachers: [Kātyāyana](../teachers/katyayana.md), [Patañjali (the grammarian)](../teachers/patanjali-grammarian.md) · disputes: [Is sound (the word) eternal?](../debates/eternality-of-sound.md)
 
 ### paspasa <a id="tea-mahabhasya-paspasa"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 'Now the instruction in words.' What is the word in 'cow'? Not the thing with dewlap, tail, hump, hooves and horns, nor its movement, nor its colour, nor its general form: the word is that by which, when uttered, the understanding of things with dewlap, tail, hump, hooves and horns arises — or, in common usage, the sound that conveys a meaning.
 
@@ -67,7 +78,7 @@ _level: conventional · standpoint: analytic · path: sound · stage: all · typ
 terms: [śabda](../terms/sabda.md) · concepts: [Word, meaning and their relation as established (siddha)](../concepts/word-meaning-established.md)
 
 ### paspasa <a id="tea-mahabhasya-paspasa-2"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Grammar is to be studied for the protection of the Vedas (one who knows elision, augment and change guards them), for adapting mantras to new ritual contexts (ūha), because of scriptural command — 'the Veda with its six limbs is to be studied and known by a brāhmaṇa as a duty without a motive' — and grammar is chief among the six limbs; for brevity; and for freedom from doubt.
 
@@ -76,7 +87,7 @@ _level: conventional · standpoint: seeker · path: sound, knowledge · stage: a
 concepts: [Why grammar is studied](../concepts/purposes-of-grammar.md), [The six limbs of the Veda](../concepts/six-vedangas.md)
 
 ### paspasa <a id="tea-mahabhasya-paspasa-3"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The Asuras, saying 'he 'layo, he 'layaḥ', were defeated; therefore a brāhmaṇa should not speak barbarously or incorrectly — an incorrect word is barbarian (mleccha); grammar is to be studied so that we may not become barbarians.
 
@@ -85,7 +96,7 @@ _level: conventional · standpoint: seeker · path: sound · stage: all · types
 obstacles: [Faulty pronunciation and barbarous speech](../obstacles/faulty-pronunciation.md)
 
 ### paspasa <a id="tea-mahabhasya-paspasa-4"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The verse 'four horns, three feet, two heads, seven hands, bound threefold, the bull roars; the great god has entered mortals' is read as grammar: the four horns are the four classes of words (noun, verb, preverb, particle), the three feet the three times, the two heads the eternal and the produced word, the seven hands the seven case endings, bound in chest, throat and head; the great god is the word, entering mortals — so grammar is to be studied that we may become equal to the great god.
 
@@ -94,7 +105,7 @@ _level: bridging · standpoint: analytic · path: sound, knowledge · stage: adv
 concepts: [The four classes of words](../concepts/four-classes-of-words.md), [Vāc (Speech) as creative power](../concepts/vac-in-brahmanas.md)
 
 ### paspasa <a id="tea-mahabhasya-paspasa-5"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Words cannot be learned one by one: Bṛhaspati taught Indra the words individually for a thousand divine years and did not reach the end, though the teacher was Bṛhaspati and the pupil Indra; how much less now, when a long life is a hundred years. Hence grammar proceeds by general rules and their exceptions.
 
@@ -104,4 +115,8 @@ concepts: [Why grammar is studied](../concepts/purposes-of-grammar.md) · teache
 
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+text-locate: confirmed — catalog:GRETIL-dev:patanjali_vyakaranamahabhasya, catalog:eBharati:mahAbhAShyam — Extant. All Paspaśā passages cited in the summary are text-located. The mid-2nd c. BCE date (Puṣyamitra) is the standard scholarly dating (see tch:patanjali-grammarian). The '85 āhnikas' count was not re-counted.
+
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts, skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._

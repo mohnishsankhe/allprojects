@@ -31,6 +31,6 @@ _Notes: Lineage field records the text-tradition it interprets; Tilak belongs to
 ---
 **Verification checks**
 
-- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Shrimad_Bhagavad_Gita_Rahasya — Drafted in Mandalay jail in the winter of 1910–11, published 1915, in Marathi; also called Karmayogaśāstra.
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Shrimad_Bhagavad_Gita_Rahasya — Drafted in Mandalay jail in the winter of 1910–11, published 1915, in Marathi; also called Karmayogaśāstra.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

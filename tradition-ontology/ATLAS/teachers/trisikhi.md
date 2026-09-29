@@ -9,4 +9,4 @@
 A brāhmaṇa who goes to Āditya's world with questions on body, self and liberation (Triśikhibrāhmaṇa).
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

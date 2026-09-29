@@ -1,6 +1,6 @@
 # The ṛṣi as seer of the mantras
 
-`cpt:rsi-as-seer` · `skeleton` · confidence high
+`cpt:rsi-as-seer` · `sourced` · confidence high
 
 **Category:** teacher-transmission
 
@@ -14,4 +14,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (GRETIL, Sarup ed.), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/apastamba-dharmasutra.md (GRETIL) — The definition's cited passages were all checked in this sweep and support it: tea:nirukta:2.11 (confirmed); tea:nirukta:1.20 (confirmed); tea:apastamba-dharmasutra:1.2.5.5-6 (corrected). The ĀpDh locator is widened to 1.2.5.4–6 (see tea:apastamba-dharmasutra:1.2.5.5-6); the definition's '1.2.5.5' remains within it.
+
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

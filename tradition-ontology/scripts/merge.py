@@ -155,7 +155,25 @@ def remap_ids(x, table):
     return x
 
 
+def load_unit_corrections():
+    """Sourcing corrections apply to the checked unit's OWN shard entries (before entities from several units are
+    merged), so a correction never overwrites what another unit contributed to a shared id."""
+    out = defaultdict(dict)  # "skeleton:<UNIT>" -> id -> (corrections, note, checker-unit)
+    for path in sorted(glob.glob(os.path.join(ROOT, "shards", "sourcing", "*", "checks.jsonl"))):
+        checked_unit = "skeleton:" + os.path.basename(os.path.dirname(path))
+        for c in read_jsonl(path):
+            if c.get("corrections") and c.get("id"):
+                out[checked_unit][c["id"]] = (c["corrections"], c.get("note", "sourcing correction"), unit_of(path))
+    return out
+
+
+UNIT_CORR = None
+
+
 def load_all():
+    global UNIT_CORR
+    if UNIT_CORR is None:
+        UNIT_CORR = load_unit_corrections()
     by_entity = defaultdict(lambda: defaultdict(list))  # entity -> id -> [(obj, unit)]
     logs = []
     patterns = [os.path.join(ROOT, "shards", "skeleton", "*", "*.jsonl"),
@@ -183,6 +201,18 @@ def load_all():
                 if not o.get("id"):
                     conflicts.append({"kind": "no-id", "file": os.path.relpath(path, ROOT)})
                     continue
+                corr = UNIT_CORR.get(unit, {}).get(o["id"])
+                if corr:
+                    fields, note, by = corr
+                    for field, val in fields.items():
+                        old = o.get(field)
+                        if old != val:
+                            o.setdefault("correction_log", []).append({"field": field, "old": old, "new": val,
+                                                                       "reason": note, "date": NOW, "by": by})
+                            o[field] = val
+                            ilog_new.append({"ts": NOW, "kind": "sourcing-correction", "entity": o["id"],
+                                             "change": f"{field}: {json.dumps(old, ensure_ascii=False)[:120]} -> {json.dumps(val, ensure_ascii=False)[:120]}",
+                                             "reason": note, "by": by})
                 by_entity[ent][o["id"]].append((o, unit))
     return by_entity, logs
 
@@ -249,17 +279,7 @@ def apply_checks(data):
                 if v.get("level") == "skeleton":
                     v["unverified"] = True
                 n[res] += 1
-            corr = c.get("corrections") or {}
-            for field, val in corr.items():
-                old = o.get(field)
-                if old != val:
-                    o.setdefault("correction_log", []).append({"field": field, "old": old, "new": val,
-                                                               "reason": c.get("note", "sourcing correction"),
-                                                               "date": NOW, "by": unit})
-                    o[field] = val
-                    ilog_new.append({"ts": NOW, "kind": "sourcing-correction", "entity": o["id"],
-                                     "change": f"{field}: {json.dumps(old, ensure_ascii=False)[:120]} -> {json.dumps(val, ensure_ascii=False)[:120]}",
-                                     "reason": c.get("note", ""), "by": unit})
+            # field corrections were already applied to the checked unit's own entries in load_all()
     return n
 
 

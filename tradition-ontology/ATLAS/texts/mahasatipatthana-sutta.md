@@ -24,7 +24,7 @@ Under the contemplation of dhammas the four noble truths are analysed: suffering
 
 _level: unmarked · standpoint: analytic · path: meditation, knowledge · stage: intermediate · types: practice, karma-liberation_
 
-terms: `trm:dukkha`, `trm:samudaya`, [nirodha](../terms/nirodha.md), `trm:magga`, `trm:tanha` · concepts: `cpt:four-noble-truths`, `cpt:noble-eightfold-path` · practices: `prc:dhammanupassana`
+terms: [dukkha](../terms/dukkha.md), [samudaya](../terms/samudaya.md), [nirodha](../terms/nirodha.md), [magga](../terms/magga.md), [taṇhā](../terms/tanha.md) · concepts: [The four noble truths](../concepts/four-noble-truths.md), [The noble eightfold path](../concepts/noble-eightfold-path.md) · practices: [Contemplation of dhammas (dhammānupassanā)](../practices/dhammanupassana.md)
 
 ### 22 <a id="tea-mahasatipatthana-sutta-22"></a>
 `skeleton` · confidence high
@@ -33,10 +33,10 @@ Whoever develops the four establishments of mindfulness in this way for seven ye
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice, karma-liberation_
 
-terms: `trm:anagami`, [anna](../terms/anna.md) · practices: `prc:satipatthana`
+terms: [anāgāmī](../terms/anagami.md), [aññā](../terms/anna.md) · practices: [The four establishments of mindfulness (satipaṭṭhāna)](../practices/satipatthana.md)
 
 
 _Notes: SuttaCentral uid dn22; Mahāsaṅgīti title 'Mahāsatipaṭṭhānasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

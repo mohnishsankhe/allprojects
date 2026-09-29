@@ -29,7 +29,7 @@ Where the five (positive) means of knowledge do not arise with respect to a thin
 
 _level: unmarked · standpoint: analytic · path: general · stage: all · types: consciousness-mind_
 
-terms: [abhāva-pramāṇa](../terms/abhava-pramana.md), [anupalabdhi](../terms/anupalabdhi.md) · concepts: [Non-apprehension as a means of knowledge](../concepts/anupalabdhi.md), [The four kinds of absence](../concepts/kinds-of-absence.md) · disputes: `dsp:number-of-pramanas`
+terms: [abhāva-pramāṇa](../terms/abhava-pramana.md), [anupalabdhi](../terms/anupalabdhi.md) · concepts: [Non-apprehension as a means of knowledge](../concepts/anupalabdhi.md), [The four kinds of absence](../concepts/kinds-of-absence.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
 
 ### apohavada <a id="tea-slokavarttika-apohavada"></a>
 `skeleton` · confidence moderate
@@ -47,7 +47,7 @@ Thus the author of the bhāṣya (Śabara), intent on refuting unbelief, has sho
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: consciousness-mind, teacher-transmission_
 
-concepts: [The self (ātman)](../concepts/self.md), [The relation of Pūrva and Uttara Mīmāṃsā](../concepts/purva-uttara-mimamsa.md) · obstacles: [Unbelief (nāstikya) and the 'Lokāyata' reading of Mīmāṃsā](../obstacles/nastikya.md) · disputes: `dsp:is-there-a-self`
+concepts: [The self (ātman)](../concepts/self.md), [The relation of Pūrva and Uttara Mīmāṃsā](../concepts/purva-uttara-mimamsa.md) · obstacles: [Unbelief (nāstikya) and the 'Lokāyata' reading of Mīmāṃsā](../obstacles/nastikya.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### codana.47 <a id="tea-slokavarttika-codana-47"></a>
 `skeleton` · confidence high
@@ -78,7 +78,7 @@ It is settled that defects in verbal testimony arise from dependence on the spea
 
 _level: unmarked · standpoint: analytic · path: sound · stage: all · types: sound-language_
 
-concepts: [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md), [Intrinsic validity (svataḥ-prāmāṇya)](../concepts/intrinsic-validity.md) · obstacles: [Defects of a (human) speaker](../obstacles/purusa-dosa.md) · disputes: `dsp:status-of-veda`
+concepts: [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md), [Intrinsic validity (svataḥ-prāmāṇya)](../concepts/intrinsic-validity.md) · obstacles: [Defects of a (human) speaker](../obstacles/purusa-dosa.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### codana.110-112 <a id="tea-slokavarttika-codana-110-112"></a>
 `skeleton` · confidence high
@@ -100,7 +100,7 @@ An omniscient being is not seen by us now; and the supposition that one existed 
 
 _level: unmarked · standpoint: polemical · path: general · stage: all · types: powers-experiences, dispute_
 
-concepts: [Omniscience (sarvajñatva)](../concepts/omniscience.md) · disputes: [Can any person be omniscient, in particular directly know dharma?](../debates/omniscience.md), `dsp:status-of-veda`
+concepts: [Omniscience (sarvajñatva)](../concepts/omniscience.md) · disputes: [Can any person be omniscient, in particular directly know dharma?](../debates/omniscience.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### codana.130 <a id="tea-slokavarttika-codana-130"></a>
 `skeleton` · confidence high
@@ -164,7 +164,7 @@ At the beginning of creation there could be no action, and such a time is not ac
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate, dispute_
 
-concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Creation and dissolution of the world](../concepts/creation-and-dissolution.md) · disputes: `dsp:isvara`, [Was the world created, and does it undergo total dissolution?](../debates/creation-and-dissolution.md)
+concepts: [Īśvara (the Lord)](../concepts/isvara.md), [Creation and dissolution of the world](../concepts/creation-and-dissolution.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md), [Was the world created, and does it undergo total dissolution?](../debates/creation-and-dissolution.md)
 
 ### sambandhaksepaparihara.52-55 <a id="tea-slokavarttika-sambandhaksepaparihara-52-55"></a>
 `skeleton` · confidence high
@@ -175,7 +175,7 @@ With no beings yet to pity, he could feel no compassion; were he moved by compas
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate, dispute_
 
-concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: `dsp:isvara`
+concepts: [Īśvara (the Lord)](../concepts/isvara.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### sambandhaksepaparihara.66-68 <a id="tea-slokavarttika-sambandhaksepaparihara-66-68"></a>
 `skeleton` · confidence high
@@ -186,7 +186,7 @@ If the Veda began (with a creator), its being unmade could not be held, and its 
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate, dispute_
 
-concepts: [Creation and dissolution of the world](../concepts/creation-and-dissolution.md), [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md) · disputes: [Was the world created, and does it undergo total dissolution?](../debates/creation-and-dissolution.md), `dsp:status-of-veda`
+concepts: [Creation and dissolution of the world](../concepts/creation-and-dissolution.md), [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md) · disputes: [Was the world created, and does it undergo total dissolution?](../debates/creation-and-dissolution.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### sambandhaksepaparihara.102-104 <a id="tea-slokavarttika-sambandhaksepaparihara-102-104"></a>
 `skeleton` · confidence high
@@ -239,7 +239,7 @@ The cognition of meaning arises right after the cognition of the letters and fro
 
 _level: unmarked · standpoint: polemical · path: sound · stage: all · types: sound-language, dispute_
 
-terms: [sphoṭa](../terms/sphota.md), [varṇa](../terms/varna.md) · concepts: [Sphoṭa (the unitary meaning-bearer)](../concepts/sphota.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
+terms: [sphoṭa](../terms/sphota.md), [varṇa](../terms/varna.md) · concepts: [The sphoṭa (the meaning-bearing word)](../concepts/sphota.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
 
 ### vakya.342-343 <a id="tea-slokavarttika-vakya-342-343"></a>
 `skeleton` · confidence high
@@ -261,8 +261,8 @@ All study of the Veda is preceded by the teacher's study of it, because it is 's
 
 _level: unmarked · standpoint: analytic · path: sound · stage: all · types: teacher-transmission, sound-language_
 
-concepts: [The injunction of Vedic study and the transmission of the Veda](../concepts/adhyayana-vidhi.md), [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md) · practices: [Vedic study (vedādhyayana / svādhyāya)](../practices/vedadhyayana.md) · disputes: `dsp:status-of-veda`
+concepts: [The injunction of Vedic study and the transmission of the Veda](../concepts/adhyayana-vidhi.md), [The authorless Veda (apauruṣeyatva)](../concepts/apauruseyatva.md) · practices: [Vedic study (vedādhyayana / svādhyāya)](../practices/vedadhyayana.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

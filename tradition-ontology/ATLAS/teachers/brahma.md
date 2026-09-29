@@ -12,4 +12,4 @@
 The first of the gods, maker and protector of the world, who taught the knowledge of brahman to his eldest son Atharvan (MuU 1.1.1); the first link of teacher-lines (ChU 3.11.4, 8.15.1); in KauU 1.5-7 he questions the knower arriving in the brahma-world.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U30-ayurveda-rasa, skeleton:U04-minor-upanisads, skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U30-ayurveda-rasa, skeleton:U04-minor-upanisads, skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

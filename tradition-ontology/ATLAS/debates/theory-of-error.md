@@ -17,7 +17,7 @@ Non-apprehension (akhyāti): two cognitions — a perception and a memory — ar
 ### [Advaita Vedānta](../lineages/advaita-vedanta.md)
 Apprehension of the indeterminable (anirvacanīyakhyāti): the silver is neither real nor unreal but an appearance produced by ignorance.
 - As usually reported.
-### `lin:yogacara`
+### [Yogācāra](../lineages/yogacara.md)
 Self-apprehension (ātmakhyāti): cognition's own form is taken as external.
 - As usually reported.
 
@@ -31,4 +31,4 @@ Self-apprehension (ātmakhyāti): cognition's own form is taken as external.
 _Notes: Positions other than Nyāya's are summarized at doxographic level; the owning units should supply texts._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

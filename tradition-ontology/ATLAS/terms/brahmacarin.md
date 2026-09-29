@@ -8,10 +8,15 @@
 
 ## Definitions by tradition
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): The Vedic student, praised in AVŚ 11.5 as quickening both worlds by fuel, girdle, toil and tapas.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 6.14: the meditator is to be firm in the vow of the brahmacārin (brahmacāri-vrata).
 
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:6.14 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._

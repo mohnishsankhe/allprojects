@@ -55,4 +55,4 @@ concepts: [Devotion in separation](../concepts/viraha-bhakti.md), [The Āḻvār
 
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

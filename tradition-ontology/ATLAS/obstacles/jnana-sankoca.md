@@ -11,4 +11,4 @@ Through karma the soul's attributive consciousness, infinite by nature, is contr
   - [Śrībhāṣya](../texts/sribhasya.md) — ref: 1.1.1; rests_on: ["tea:sribhasya:1.1.1/9"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._

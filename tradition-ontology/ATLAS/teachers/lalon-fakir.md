@@ -18,4 +18,4 @@ The greatest Bāul master, of Cheuṛiyā near Kushtia: his songs of the unknown
 _Notes: Birth, origin (Hindu or Muslim) and the details of the smallpox story are disputed; flagged recent because his life extends to 1890._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

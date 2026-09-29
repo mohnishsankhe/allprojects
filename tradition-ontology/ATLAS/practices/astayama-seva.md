@@ -10,4 +10,4 @@ Viṭṭhalanātha's ordering of the day into eight darśanas: maṅgalā, śṛ
 **Stage:** all
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

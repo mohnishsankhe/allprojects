@@ -1,6 +1,6 @@
 # Parāśarasmṛti
 
-`src:parasarasmrti` · `skeleton` · confidence moderate
+`src:parasarasmrti` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -14,10 +14,10 @@
 The smṛti declared authoritative for the Kali age: the seers ask Vyāsa for the dharma of the present age and are led to Parāśara, who teaches that Manu's dharma belongs to the Kṛta age, Gautama's to the Tretā, Śaṅkha and Likhita's to the Dvāpara and Parāśara's to the Kali (1.24), and sets out conduct and a lenient system of expiation.
 **Commentaries on this text:** [Parāśaramādhavīya](parasara-madhaviya.md)
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 1.24 <a id="tea-parasarasmrti-1-24"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 In the Kṛta age the dharmas are those of Manu, in the Tretā those of Gautama, in the Dvāpara those of Śaṅkha and Likhita, in the Kali those of Parāśara.
 
@@ -29,4 +29,8 @@ concepts: [The means proper to each age](../concepts/yuga-dharma.md) · teachers
 _Notes: Commentary: Mādhava's Parāśaramādhavīya._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:GRETIL-dev:parasara-smrti, catalog:DCS:Parāśarasmṛtiṭīkā — Extant; the Kali-age verse 1.24 is text-located. The date '1st millennium CE (uncertain)' is hedged and not contradicted.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

@@ -15,4 +15,4 @@ Observances for a lunar day or a period - fasting, vigil, worship, recitation an
 _Notes: Prolonged fasts (e.g. month-long regimens) are restricted content and are not detailed here._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._

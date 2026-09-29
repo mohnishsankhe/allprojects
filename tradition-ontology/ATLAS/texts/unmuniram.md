@@ -15,4 +15,4 @@ A short work ascribed to Kīnārām on the unmanī state ('Rām of the unmanī')
 _Notes: Title recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

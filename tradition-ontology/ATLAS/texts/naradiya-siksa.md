@@ -53,5 +53,6 @@ _Notes: Checked against sources_raw/raw_etexts/shixA/sAma-vedaH/naradiya_shiksha
 **Verification checks**
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:raw_etexts:naradiya_shiksha, catalog:eBharati:nAradIyashixA, text:sources_raw/raw_etexts/shixA/sAma-vedaH/naradiya_shiksha.md — Extant; structure 2 prapāṭhakas × 8 kaṇḍikās confirmed in the local text; the note-mapping of 1.5.1–2 and the places of notes in 1.7 confirmed. Ascription to Nārada is the text's own tradition; no date given in the entry.
+- 2026-09-28 catalog: confirmed — catalog:raw_etexts:naradiya_shiksha, catalog:eBharati:nAradIyashixA — Extant locally under the Sāmaveda Śikṣās. Its content on svaras, grāmas and mūrchanās is standard.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

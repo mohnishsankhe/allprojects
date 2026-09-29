@@ -1,6 +1,6 @@
 # Jainendra-vyākaraṇa
 
-`src:jainendra-vyakarana` · `skeleton` · confidence moderate
+`src:jainendra-vyakarana` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** shared
@@ -13,4 +13,8 @@
 Pūjyapāda Devanandin's Pāṇini-based grammar for Jain use.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Pujyapada, https://www.wisdomlib.org/history/book/glimpses-of-history-of-sanskrit-literature/d/doc1546773.html — Confirmed: composed by Pūjyapāda Devanandin (6th c.; Wikipedia gives c. 510–600 CE).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

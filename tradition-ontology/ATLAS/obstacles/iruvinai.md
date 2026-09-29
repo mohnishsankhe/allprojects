@@ -16,4 +16,4 @@ Good and bad deeds both bind: the Lord drives us 'by the rope of the two deeds' 
   - [Tirukkuṟaḷ](../texts/tirukkural.md) — ref: 5; rests_on: ["tea:tirukkural:5"]
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U22-tamil-siddha, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

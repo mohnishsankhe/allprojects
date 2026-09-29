@@ -27,7 +27,7 @@ May the Sun give us speech — he who is held to give the moon its visible form,
 
 _level: bridging · standpoint: devotional · path: knowledge, devotion · stage: all · types: ultimate, world-fate_
 
-concepts: `cpt:jyotisa-ultimate`, `cpt:sun-as-self-of-time` · teachers: [Varāhamihira](../teachers/varahamihira.md), [Sūrya (as revealer of jyotiṣa)](../teachers/surya.md)
+concepts: [The ultimate as named in jyotiṣa texts](../concepts/jyotisa-ultimate.md), [The Sun as the self of time and of beings](../concepts/sun-as-self-of-time.md) · teachers: [Varāhamihira](../teachers/varahamihira.md), [Sūrya (as revealer of jyotiṣa)](../teachers/surya.md)
 
 ### 1.3 <a id="tea-brhat-jataka-1-3"></a>
 `skeleton` · confidence high
@@ -38,7 +38,7 @@ Some take 'horā' as formed from 'aho-rātra' (day-and-night) by dropping the fi
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: world-fate, karma-liberation, sound-language_
 
-terms: `trm:hora`, [prārabdha](../terms/prarabdha.md) · concepts: `cpt:horoscope-reveals-karma` · teachers: [Varāhamihira](../teachers/varahamihira.md) · disputes: `dsp:grahas-cause-or-sign`
+terms: [horā](../terms/hora.md), [prārabdha](../terms/prarabdha.md) · concepts: [The chart reveals the ripening of past karma](../concepts/horoscope-reveals-karma.md) · teachers: [Varāhamihira](../teachers/varahamihira.md) · disputes: [Do the planets cause a person's fortune, or only reveal the karma that causes it?](../debates/grahas-cause-or-sign.md)
 
 ### 1.4 <a id="tea-brhat-jataka-1-4"></a>
 `skeleton` · confidence high
@@ -47,7 +47,7 @@ The limbs of Kāla are the head, face, chest, heart, belly, the part bearing the
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate, body-layers_
 
-terms: `trm:kalapurusa`, `trm:rasi` · concepts: `cpt:kalapurusa`, `cpt:twelve-rasis` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+terms: [kālapuruṣa](../terms/kalapurusa.md), [rāśi](../terms/rasi.md) · concepts: [Kālapuruṣa, the Person of Time](../concepts/kalapurusa.md), [The twelve signs](../concepts/twelve-rasis.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 1.8 <a id="tea-brhat-jataka-1-8"></a>
 `skeleton` · confidence high
@@ -56,7 +56,7 @@ The signs are also called kriya, tāvuri, jituma, kulīra, leya, pāthona, jūka
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate, sound-language_
 
-concepts: `cpt:twelve-rasis` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [The twelve signs](../concepts/twelve-rasis.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 1.13 <a id="tea-brhat-jataka-1-13"></a>
 `skeleton` · confidence high
@@ -65,7 +65,7 @@ The exaltations of the Sun and the rest are Aries, Taurus, Capricorn, Virgo, Can
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate_
 
-terms: `trm:ucca`, `trm:nica` · concepts: `cpt:planetary-dignities` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+terms: [ucca](../terms/ucca.md), [nīca](../terms/nica.md) · concepts: [Planetary dignities](../concepts/planetary-dignities.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 1.15-18 <a id="tea-brhat-jataka-1-15-18"></a>
 `skeleton` · confidence high
@@ -74,7 +74,7 @@ The houses from the ascendant are named body (tanu), family, co-born, kin, son, 
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate_
 
-terms: `trm:bhava-jyotisa`, `trm:kendra`, `trm:upacaya`, `trm:panaphara`, `trm:apoklima` · concepts: `cpt:twelve-bhavas`, `cpt:house-groupings` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+terms: [bhāva (house)](../terms/bhava-jyotisa.md), [kendra](../terms/kendra.md), [upacaya](../terms/upacaya.md), [paṇaphara](../terms/panaphara.md), [āpoklima](../terms/apoklima.md) · concepts: [The twelve houses and their significations](../concepts/twelve-bhavas.md), [Groupings of houses](../concepts/house-groupings.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 2.1 <a id="tea-brhat-jataka-2-1"></a>
 `skeleton` · confidence high
@@ -85,7 +85,7 @@ Of Kāla, the Sun is the self, the Moon the mind, Mars strength, Mercury speech,
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate, consciousness-mind, body-layers_
 
-terms: [sūrya](../terms/surya.md), [candra / śaśin / soma](../terms/candra.md), `trm:mangala`, `trm:budha`, [bṛhaspati](../terms/brhaspati.md), [śukra](../terms/sukra.md), `trm:sani` · concepts: `cpt:graha-significations`, `cpt:self-and-mind-in-jyotisa` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+terms: [sūrya](../terms/surya.md), [candra / śaśin / soma](../terms/candra.md), [maṅgala (kuja, bhauma, aṅgāraka)](../terms/mangala.md), [budha](../terms/budha.md), [bṛhaspati](../terms/brhaspati.md), [śukra (bhṛgu, sita)](../terms/sukra.md), [śani (manda, sauri)](../terms/sani.md) · concepts: [What the planets signify (kārakatva)](../concepts/graha-significations.md), [Self and mind in the chart](../concepts/self-and-mind-in-jyotisa.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 2.2-3 <a id="tea-brhat-jataka-2-2-3"></a>
 `skeleton` · confidence high
@@ -94,7 +94,7 @@ Synonyms of the planets: the Sun is Heli; Mercury Hemna, Vit, Jña, Bodhana; Mar
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate, sound-language_
 
-concepts: `cpt:navagraha` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [The nine planets (navagraha)](../concepts/navagraha.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 2.6-7 <a id="tea-brhat-jataka-2-6-7"></a>
 `skeleton` · confidence high
@@ -103,7 +103,7 @@ Mercury and Saturn are neuter, the Moon and Venus female, the rest male. Mars, M
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate, body-layers_
 
-terms: [guṇa](../terms/guna.md) · concepts: `cpt:planets-and-elements`, `cpt:gunas-of-planets` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+terms: [guṇa](../terms/guna.md) · concepts: [The planets and the five elements](../concepts/planets-and-elements.md), [The guṇas of the planets](../concepts/gunas-of-planets.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 2.13 <a id="tea-brhat-jataka-2-13"></a>
 `skeleton` · confidence moderate
@@ -112,7 +112,7 @@ Planets aspect the 3rd and 10th, the trines, the 4th and 8th, and the 7th, with 
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate_
 
-terms: `trm:drsti-jyotisa` · concepts: `cpt:graha-drsti` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+terms: [dṛṣṭi (planetary aspect)](../terms/drsti-jyotisa.md) · concepts: [Planetary aspects](../concepts/graha-drsti.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 7.1 <a id="tea-brhat-jataka-7-1"></a>
 `skeleton` · confidence high
@@ -121,7 +121,7 @@ Maya, the Yavanas, Maṇittha and Śaktipūrva assign to the Sun and the other p
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate, death-dying_
 
-terms: `trm:ayurdaya` · concepts: `cpt:ayurdaya` · teachers: [Varāhamihira](../teachers/varahamihira.md), [Maya (the asura)](../teachers/maya-asura.md), [Yavanācārya ('the Yavana teacher')](../teachers/yavanacarya.md), [Maṇittha](../teachers/manittha.md), [Parāśara](../teachers/parasara.md)
+terms: [āyurdāya](../terms/ayurdaya.md) · concepts: [Longevity and the killing planets](../concepts/ayurdaya.md) · teachers: [Varāhamihira](../teachers/varahamihira.md), [Maya (the asura)](../teachers/maya-asura.md), [Yavanācārya ('the Yavana teacher')](../teachers/yavanacarya.md), [Maṇittha](../teachers/manittha.md), [Parāśara](../teachers/parasara.md)
 
 ### 7.9-13 <a id="tea-brhat-jataka-7-9-13"></a>
 `skeleton` · confidence moderate
@@ -130,7 +130,7 @@ Jīvaśarman in his own view gives each planet an equal share of the maximum lif
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: world-fate, death-dying, dispute_
 
-concepts: `cpt:ayurdaya` · teachers: [Varāhamihira](../teachers/varahamihira.md), [Jīvaśarman](../teachers/jivasarman.md), [Satya (Satyācārya)](../teachers/satyacarya.md)
+concepts: [Longevity and the killing planets](../concepts/ayurdaya.md) · teachers: [Varāhamihira](../teachers/varahamihira.md), [Jīvaśarman](../teachers/jivasarman.md), [Satya (Satyācārya)](../teachers/satyacarya.md)
 
 ### 8.1 <a id="tea-brhat-jataka-8-1"></a>
 `skeleton` · confidence moderate
@@ -139,7 +139,7 @@ Planets placed in the angles, the succedent and the cadent houses from the stron
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: world-fate_
 
-concepts: `cpt:dasa-systems` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [The systems of planetary periods](../concepts/dasa-systems.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 11.1 <a id="tea-brhat-jataka-11-1"></a>
 `skeleton` · confidence high
@@ -148,7 +148,7 @@ The Yavanas say that with malefics in their exaltations a cruel-minded king is b
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: world-fate, dispute_
 
-concepts: `cpt:rajayoga-jyotisa` · teachers: [Yavanācārya ('the Yavana teacher')](../teachers/yavanacarya.md), [Jīvaśarman](../teachers/jivasarman.md), [Varāhamihira](../teachers/varahamihira.md)
+concepts: [Royal combinations (rājayoga)](../concepts/rajayoga-jyotisa.md) · teachers: [Yavanācārya ('the Yavana teacher')](../teachers/yavanacarya.md), [Jīvaśarman](../teachers/jivasarman.md), [Varāhamihira](../teachers/varahamihira.md)
 
 ### 12.1-2 <a id="tea-brhat-jataka-12-1-2"></a>
 `skeleton` · confidence moderate
@@ -157,7 +157,7 @@ The Yavanas counted the yogas of the sky (nābhasa) as eighteen hundred; they ar
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: world-fate_
 
-concepts: `cpt:nabhasa-yogas` · teachers: [Yavanācārya ('the Yavana teacher')](../teachers/yavanacarya.md), [Parāśara](../teachers/parasara.md), [Varāhamihira](../teachers/varahamihira.md)
+concepts: [The nābhasa ('sky') yogas](../concepts/nabhasa-yogas.md) · teachers: [Yavanācārya ('the Yavana teacher')](../teachers/yavanacarya.md), [Parāśara](../teachers/parasara.md), [Varāhamihira](../teachers/varahamihira.md)
 
 ### 15.1 <a id="tea-brhat-jataka-15-1"></a>
 `skeleton` · confidence high
@@ -168,7 +168,7 @@ When four or more strong planets are together in one sign, the native becomes a 
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: world-fate, karma-liberation_
 
-concepts: `cpt:pravrajya-yogas` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [Combinations for renunciation (pravrajyā-yoga)](../concepts/pravrajya-yogas.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 15.2-4 <a id="tea-brhat-jataka-15-2-4"></a>
 `skeleton` · confidence moderate
@@ -177,7 +177,7 @@ If the planets giving renunciation are overpowered by the Sun's rays, the person
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: world-fate, teacher-transmission, karma-liberation_
 
-concepts: `cpt:pravrajya-yogas` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [Combinations for renunciation (pravrajyā-yoga)](../concepts/pravrajya-yogas.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 25.14 <a id="tea-brhat-jataka-25-14"></a>
 `skeleton` · confidence moderate
@@ -186,7 +186,7 @@ Jupiter; the Moon and Venus; the Sun and Mars; Saturn and Mercury lead respectiv
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: world-fate, death-dying, karma-liberation_
 
-concepts: `cpt:niryana-and-next-world` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [Manner of death and the next world in the chart](../concepts/niryana-and-next-world.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 25.15 <a id="tea-brhat-jataka-25-15"></a>
 `skeleton` · confidence moderate
@@ -195,7 +195,7 @@ The destination after death is judged likewise from the lord of the decan of the
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: world-fate, death-dying, karma-liberation_
 
-terms: [mokṣa](../terms/moksa.md) · concepts: `cpt:niryana-and-next-world`, `cpt:moksa-in-the-chart` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+terms: [mokṣa](../terms/moksa.md) · concepts: [Manner of death and the next world in the chart](../concepts/niryana-and-next-world.md), [Signs of liberation in the chart](../concepts/moksa-in-the-chart.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 28.6-7 <a id="tea-brhat-jataka-28-6-7"></a>
 `skeleton` · confidence moderate
@@ -204,7 +204,7 @@ This compendium of jyotiṣa in its three branches has been made by me for the b
 
 _level: conventional · standpoint: ethical-social · path: knowledge · stage: all · types: world-fate, teacher-transmission_
 
-concepts: `cpt:jyotisa-three-skandhas` · teachers: [Varāhamihira](../teachers/varahamihira.md)
+concepts: [The three branches of jyotiṣa (skandha-traya)](../concepts/jyotisa-three-skandhas.md) · teachers: [Varāhamihira](../teachers/varahamihira.md)
 
 ### 28.9-10 <a id="tea-brhat-jataka-28-9-10"></a>
 `skeleton` · confidence high
@@ -213,10 +213,10 @@ Varāhamihira of Avanti, son of Ādityadāsa and taught by him, who received the
 
 _level: conventional · standpoint: devotional · path: knowledge, devotion · stage: all · types: world-fate, teacher-transmission_
 
-concepts: `cpt:jyotisa-transmission` · teachers: [Varāhamihira](../teachers/varahamihira.md), [Ādityadāsa](../teachers/adityadasa.md), [Sūrya (as revealer of jyotiṣa)](../teachers/surya.md)
+concepts: [Teacher, pupil and the handing down of jyotiṣa](../concepts/jyotisa-transmission.md) · teachers: [Varāhamihira](../teachers/varahamihira.md), [Ādityadāsa](../teachers/adityadasa.md), [Sūrya (as revealer of jyotiṣa)](../teachers/surya.md)
 
 
 _Notes: Commentaries: Bhaṭṭotpala (Jagaccandrikā), Rudra (Vivaraṇa, Kerala), Govinda Bhaṭṭatiri (Daśādhyāyī on ch. 1–10)._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

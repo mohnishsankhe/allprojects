@@ -36,21 +36,34 @@ Words — the letters — are eternal and only manifested by utterance: utteranc
 Sound is a non-eternal quality of ether: it has a beginning, is perceived by a sense and is spoken of as produced; the Veda's authority comes from its reliable author, not from eternal words.
 **Texts:** 
   - [Nyāya Sūtra](../texts/nyaya-sutra.md) — ref: 2.2 (on the non-eternality of sound)
-### `lin:pramana-buddhist`
+### [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
 Everything produced is momentary; words signify by convention; no eternal, authorless word exists.
 ### [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
 The word is eternal, but as the sphoṭa manifested by sounds, not as the audible letters.
 **Texts:** 
   - [Vākyapadīya](../texts/vakyapadiya.md) — ref: book 1
+### [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
+Word, meaning and their relation are eternal (Kātyāyana's first vārttika); the eternal word is the sphoṭa, while the audible sounds that manifest it arise and perish.
+**Texts:** 
+  - [Vyākaraṇa-Mahābhāṣya](../texts/mahabhasya.md) — ref: Paspaśā
+  - [Vākyapadīya](../texts/vakyapadiya.md) — ref: 1.23; 1.44
+### [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md)
+The letters themselves are eternal and only manifested by utterance.
+**Texts:** 
+  - [Mīmāṃsā Sūtra](../texts/mimamsa-sutra.md) — ref: 1.1.6-23
+### [Nyāya](../lineages/nyaya.md)
+Sound is a non-eternal quality of ether: it has a beginning and is spoken of as produced.
+**Texts:** 
+  - [Nyāya Sūtra](../texts/nyaya-sutra.md) — ref: 2.2.13ff.
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
 **Principles:** P2-standpoint
 **Explanation:** Not yet reconciled.
 **The traditions' own objections:** Nyāya denies eternal phonemes (the 'same g' is recognition of a universal); Mīmāṃsā denies that the word is produced. Both insist.
-**Candidate readings:** P2-standpoint: distinguish produced sound (dhvani) from the word as a type; Mīmāṃsakas grant that manifesting sounds are produced, and Naiyāyikas that the universal of a phoneme is eternal.; P2-standpoint: grammarians and Mīmāṃsakas agree on eternality and differ on its bearer (sphoṭa vs letters); Nyāya's 'sound' may be the audible noise (dhvani) that Mīmāṃsā too treats as produced (MS 1.1.17) — a partial overlap each side would qualify.
+**Candidate readings:** P2-standpoint: distinguish produced sound (dhvani) from the word as a type; Mīmāṃsakas grant that manifesting sounds are produced, and Naiyāyikas that the universal of a phoneme is eternal.; P2-standpoint: grammarians and Mīmāṃsakas agree on eternality and differ on its bearer (sphoṭa vs letters); Nyāya's 'sound' may be the audible noise (dhvani) that Mīmāṃsā too treats as produced (MS 1.1.17) — a partial overlap each side would qualify.; P1-level: what is eternal (the word as meaning-bearer) and what is produced (the audible sound) are distinguished by the grammarians; Nyāya speaks of the audible sound only.
 
 _Notes: Opponents' positions summarized from general knowledge; references chapter-level._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

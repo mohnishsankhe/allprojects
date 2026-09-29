@@ -1,6 +1,6 @@
 # Dāyabhāga school of Dharmaśāstra (Bengal)
 
-`lin:dayabhaga-school` · `skeleton` · confidence moderate
+`lin:dayabhaga-school` · `sourced` · confidence moderate
 
 **Family:** vedic
 **Alternate names:** Gauḍa school
@@ -33,4 +33,8 @@ _none recorded_
 [Does a son own ancestral property from birth or only on the father's death?](../debates/inheritance-by-birth-or-death.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/ebhAratI-sampat/dharmashAstram/smRtiH/jImUtavAhanaH/jIvAnandavidyAsAgaraH/dAyabhAgaH.md (eBhāratī Dāyabhāga, Jīvānanda ed. with commentary), https://en.wikipedia.org/wiki/D%C4%81yabh%C4%81ga, https://en.wikipedia.org/wiki/Jimutavahana — The Dāyabhāga (eBhāratī, with commentary) argues that ownership arises only on the father's death or fall: 'uparama eva svatvam', 'pitṛmaraṇakālīnam'. It also makes heirship follow benefit through piṇḍa offerings. Wikipedia's Dāyabhāga article agrees on both points. The c. 12th c. date matches the tch:jimutavahana check.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

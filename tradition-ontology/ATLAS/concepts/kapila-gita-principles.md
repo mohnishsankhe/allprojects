@@ -13,4 +13,4 @@
 - contrasts-with → [The many counts of the principles, reconciled](tattva-counts-reconciled-bhagavata.md): one of the counts the Uddhava Gītā treats as valid by intention — rests on [3.26.10-15](../texts/kapila-gita.md#tea-kapila-gita-3-26-10-15), [11.22.1-9](../texts/uddhava-gita.md#tea-uddhava-gita-11-22-1-9)
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

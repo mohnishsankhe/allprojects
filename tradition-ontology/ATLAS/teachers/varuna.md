@@ -9,4 +9,4 @@
 The god Varuṇa as father-teacher of Bhṛgu: gives the definition of brahman as that from which beings are born, by which they live and into which they enter, and sends him to seek it by tapas (TU 3.1).
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

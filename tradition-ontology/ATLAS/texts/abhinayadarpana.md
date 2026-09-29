@@ -26,4 +26,4 @@ terms: [bhāva (in dramaturgy)](../terms/bhava-alankara.md), [rasa](../terms/ras
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

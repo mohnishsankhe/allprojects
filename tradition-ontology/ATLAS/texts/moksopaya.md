@@ -322,7 +322,7 @@ The story of Dāśūra: an ascetic living in a kadamba tree created by his resol
 
 _level: conventional · standpoint: causal · path: knowledge · stage: intermediate · types: consciousness-mind_
 
-terms: [saṅkalpa](../terms/sankalpa.md) · obstacles: [Conceiving (saṅkalpa) as bondage](../obstacles/sankalpa.md)
+terms: [saṅkalpa](../terms/sankalpa.md) · obstacles: [Intention (saṅkalpa) as bondage](../obstacles/sankalpa.md)
 
 ### 4.39.18-20 <a id="tea-moksopaya-4-39-18-20"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -588,4 +588,4 @@ concepts: [The world as the mind's projection](../concepts/world-as-projection-o
 _Notes: Lineage placement is by reception only (the Vedāntic recension was absorbed by Advaita); the Halle editors regard the Mokṣopāya as neither Advaita nor Śaiva. It is scholarly metadata for the Yoga Vāsiṣṭha as well as a text in its own right; U06 anchors Book 4 and Book 6 teachings on it._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

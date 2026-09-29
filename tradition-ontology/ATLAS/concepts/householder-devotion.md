@@ -14,4 +14,4 @@
 - contrasts-with → [The Mahānubhāva renunciant life](mahanubhava-renunciation.md): the Mahānubhāva ideal is renunciation and wandering — rests on [acara.renunciant](../texts/sutrapath.md#tea-sutrapath-acara-renunciant), [dalita-kandita](../texts/janabai-abhangas.md#tea-janabai-abhangas-dalita-kandita)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

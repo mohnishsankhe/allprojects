@@ -30,4 +30,4 @@ The inner target held while the gaze is outward and unblinking — looking yet n
 - exact: [Vaiṣṇavī mudrā](vaisnavi-mudra.md) — Śāṇḍilya Up. 1.31 defines vaiṣṇavī mudrā in the very terms by which HYP 4.36 defines śāmbhavī (inner target, outward unblinking gaze).
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

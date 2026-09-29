@@ -12,4 +12,4 @@ Delight in the Vedic words that promise heaven, enjoyment and power keeps the re
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 2.42–44; 9.20–21; rests_on: ["tea:bhagavad-gita:2.42-44", "tea:bhagavad-gita:9.20-21"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

@@ -36,4 +36,4 @@
 Bands are interpretation-layer: the fifteen rungs are meditative venerations (B2); the chain 16-22 is a regress of conditions, not a practice sequence, so no band is assigned.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

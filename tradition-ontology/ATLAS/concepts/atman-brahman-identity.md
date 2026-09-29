@@ -14,4 +14,4 @@
 - part-of → [The four great sayings (mahāvākya)](mahavakyas.md): the four later-named mahāvākyas are its classic formulations — rests on [1.4.10](../texts/brhadaranyaka-upanisad.md#tea-brhadaranyaka-upanisad-1-4-10), [6.8.7](../texts/chandogya-upanisad.md#tea-chandogya-upanisad-6-8-7), [2](../texts/mandukya-upanisad.md#tea-mandukya-upanisad-2), [3.1.3](../texts/aitareya-upanisad.md#tea-aitareya-upanisad-3-1-3)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

@@ -29,4 +29,4 @@ No: killing enjoined by the Veda for the sacrifice is dharma; the specific injun
 **Candidate readings:** P2-standpoint: ritual standpoint (the act fulfils the sacrifice and is dharma) vs ethical-karmic standpoint (the act harms a being and leaves a trace of adharma) — Vācaspati's own 'different objects' argument; Mīmāṃsā denies the second.; P4-stage: Mīmāṃsā addresses those qualified for heaven-bringing rites; Sāṃkhya those seeking final release.
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._

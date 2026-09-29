@@ -12,4 +12,4 @@ Dark, object-bound tendencies that bind to rebirth; to be replaced by pure tende
   - [Mokṣopāya](../texts/moksopaya.md) — ref: 4.39.18-20; 5.92.28-36; rests_on: ["tea:moksopaya:4.39.18-20", "tea:moksopaya:5.92.28-36"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

@@ -28,4 +28,4 @@ Candidate readings: (1) asat = the unmanifest (avyākṛta) before name and form
 **The traditions' own objections:** None recorded within the Upaniṣads; the reconciliation is the Vedānta schools', not the texts' own.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

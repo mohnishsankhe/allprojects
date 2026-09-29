@@ -20,4 +20,4 @@
 A composite ordering of means that Madhva and the tradition name in several places (BSB 1.1.1; MBTN 1.85–99; Nyāyāmṛta 3; Yogadīpikā 1). The texts do not give this exact ten-step list; the sequence and the bands are the interpretation layer. Bhakti and grace are not a single 'stage' for the tradition: bhakti accompanies every step, and grace alone liberates.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

@@ -10,4 +10,4 @@
 Son of Jabālā, who did not know his lineage; accepted as a pupil by Hāridrumata Gautama for telling the truth (ChU 4.4); taught the four quarters of brahman by a bull, fire, a goose and a diver-bird (ChU 4.5-9); teacher of Upakosala (ChU 4.10-15); in BAU 4.1.6 he holds that brahman is the mind.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

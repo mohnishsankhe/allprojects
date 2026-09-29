@@ -16,4 +16,4 @@
 - exact: [mokṣa](moksa.md) — the Tamil word for liberation
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

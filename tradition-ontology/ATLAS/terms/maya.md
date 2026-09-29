@@ -18,6 +18,7 @@
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): The Lord's power by which what is not real appears (BhP 2.9.33); the gross and subtle forms are fashioned by its guṇas (1.3.30).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Power, magic, illusion; deceit: Indra goes about in many forms by his māyās (BAU 2.5.19); know prakṛti to be māyā and the great Lord the māyin (ŚU 4.10); the cessation of all māyā (ŚU 1.10); in PrU 1.16 māyā is deceit.
 - [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md): In Madhva's usage chiefly God's will (icchā) or wisdom, and also prakṛti; not an indeterminable illusion. The 'māyā' of the Advaitins is identified polemically with the Buddhist saṃvṛti.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: In 4.6 the Lord comes into being 'through his own māyā' (ātmamāyā) while presiding over his own prakṛti; chs. 4–6 do not define the word (commentators divide between a power of appearance and the Lord's will or knowledge).
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): Not an illusion-producing ignorance but prakṛti, called māyā because it produces manifold wonderful effects, and the Lord's wonderful power; the world it produces is real.
 - [Śākta traditions](../lineages/sakta.md): The Goddess's own power by which she becomes and veils the world; she is 'of the form of both knowledge and ignorance' (LSN 87) and 'the substratum of the illusory world' (LSN 142).
 - [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md): Sixth tattva: the Lord's power of concealment - 'the supreme freedom of Maheśa which accomplishes the impossible' (Paramārthasāra 15) - making the knowable appear as separate; real as a power, not an inexplicable illusion.
@@ -31,9 +32,13 @@
 ## Equivalents (interpretation layer)
 - contested: [avidyā](avidya.md) — Identical in the Vivaraṇa and Saṃkṣepaśārīraka usage (one entity under two aspects); distinguished by Vidyāraṇya (pure vs impure sattva).
 - partial: [māyīya mala](mayiya-mala.md) — māyā as material cause vs māyā as bond
-**Related:** [vikṣepaśakti](viksepa-sakti.md), [āvaraṇaśakti](avarana-sakti.md), [avidyā](avidya.md), [ajñāna](ajnana.md), [anirvacanīya](anirvacaniya.md), [yogamāyā](yogamaya.md), [māyāvāda](mayavada.md)
+**Related:** [vikṣepaśakti](viksepa-sakti.md), [āvaraṇaśakti](avarana-sakti.md), [avidyā](avidya.md), [ajñāna](ajnana.md), [anirvacanīya](anirvacaniya.md), [yogamāyā](yogamaya.md), [māyāvāda](mayavada.md), [prakṛti](prakrti.md), [aja](aja.md)
 
 _Notes: Other lineages (Advaita, Śaiva, Buddhist) contribute very different definitions of māyā; the Vedic sense is creative, wondrous power. The Bṛhadāraṇyaka (2.5.19) quotes RV 6.47.18._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U05-gita-epic, skeleton:U20-virasaiva, skeleton:U07-puranas, skeleton:U03-principal-upanisads, skeleton:U15-dvaita, skeleton:U14-visistadvaita, skeleton:U23-sakta-srividya, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:4.6 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U05-gita-epic, skeleton:U20-virasaiva, skeleton:U07-puranas, skeleton:U03-principal-upanisads, skeleton:U15-dvaita, extraction:bhagavad-gita/ch04-06, skeleton:U14-visistadvaita, skeleton:U23-sakta-srividya, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

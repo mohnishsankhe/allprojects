@@ -5,8 +5,8 @@
 **Family:** ascetic
 **Alternate names:** Mogok vipassanā
 **Parent:** [Theravāda](theravada.md)
-**Founders:** `tch:mogok-sayadaw`
-**Key teachers:** `tch:mogok-sayadaw`
+**Founders:** [Mogok Sayadaw](../teachers/mogok-sayadaw.md)
+**Key teachers:** [Mogok Sayadaw](../teachers/mogok-sayadaw.md)
 **Regions:** Burma (Mogok vipassanā centres)
 **Dates:** Scholarly account: mid-20th c. onward; (confidence low)
 **Status:** living
@@ -29,10 +29,10 @@ Burmese insight lineage of Mogok Sayadaw (U Vimala, 1899–1962), stressing an i
 _none recorded_
 
 ## Teachers
-`tch:mogok-sayadaw`
+[Mogok Sayadaw](../teachers/mogok-sayadaw.md)
 
 ## Practices
-_none recorded_
+[The Mogok method](../practices/mogok-method.md)
 
 ## Path maps
 _none recorded_
@@ -43,4 +43,4 @@ _none recorded_
 _Notes: Low confidence on details; no digitized texts of this tradition located._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._

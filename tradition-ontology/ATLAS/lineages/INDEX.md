@@ -1,18 +1,24 @@
-# Lineages (192)
+# Lineages (240)
 
-skeleton: 172 · sourced: 20
+skeleton: 212 · sourced: 28
 
 - [Abhayagiri fraternity (Abhayagiri-vāsins)](abhayagiri.md) — `skeleton`
+- [Adhyātma movement (Adhyātma-mata)](adhyatma-jain.md) — `skeleton`
 - [Advaita Vedānta](advaita-vedanta.md) — `skeleton`
 - [Aghora (Aghor panth; Aghorī and Aughaṛ ascetics)](aghora.md) — `skeleton`
-- [Aitihāsikas (the legend-school of Vedic interpretation)](aitihasika.md) — `skeleton`
+- [Aitihāsikas (the legend-school of Vedic interpretation)](aitihasika.md) — `sourced`
+- [Ajñāna (the sceptics)](ajnana.md) — `skeleton`
 - [Alaṅkāraśāstra and Nāṭyaśāstra (poetics, dramaturgy and the theory of rasa)](alankara.md) — `skeleton`
+- [Alīkākāravāda (False-Aspect Yogācāra)](alikakaravada.md) — `skeleton`
 - [Andhakas (as named in the Kathāvatthu commentary)](andhaka.md) — `skeleton`
-- [Arthaśāstra (the science of statecraft and wealth)](arthasastra.md) — `skeleton`
+- [Aparaśaila](aparasaila.md) — `skeleton`
+- [Arthaśāstra (the science of statecraft and wealth)](arthasastra.md) — `sourced`
 - [Atimārga](atimarga.md) — `skeleton`
 - [Añcala Gaccha (Vidhipakṣa)](ancala-gaccha.md) — `skeleton`
+- [Bahuśrutīya](bahusrutiya.md) — `skeleton`
 - [Balarāmī sampradāya](balarami.md) — `skeleton` _(recent)_
 - [Bengali and Assamese Śākta tantra](bengal-assam-sakta.md) — `skeleton`
+- [Bhadrayānīya](bhadrayaniya.md) — `skeleton`
 - [Bhakti-śāstra: the sūtra tradition of devotional theory (Nārada, Śāṇḍilya)](bhakti-sastra.md) — `skeleton`
 - [Bhedābheda Vedānta (Bhāskara's school and the early difference-and-non-difference Vedāntins)](bhedabheda.md) — `skeleton`
 - [Bhāmatī school (Bhāmatī-prasthāna)](bhamati.md) — `skeleton`
@@ -20,38 +26,51 @@ skeleton: 172 · sourced: 20
 - [Bhūta stream (tantras for spirits)](bhuta-tantra.md) — `skeleton`
 - [Borān kammaṭṭhāna (old meditation; the yogāvacara tradition)](boran-kammatthana.md) — `skeleton`
 - [Brahma saṃhati (Dāmodarīyā)](brahma-samhati.md) — `skeleton`
+- [Buddhist epistemology and logic (pramāṇa school)](pramana-buddhist.md) — `skeleton`
 - [Bāul](baul.md) — `skeleton`
 - [Bāṣkala śākhā (Ṛgveda)](sakha-baskala.md) — `sourced`
 - [Bīsapantha (Digambara)](bisapantha.md) — `skeleton`
+- [Caitika](caitika.md) — `skeleton`
 - [Caityavāsī (temple-dwelling monks)](caityavasi.md) — `skeleton`
 - [Caraṇdāsī sampradāya](charandasi.md) — `skeleton`
+- [Chengshi school (Satyasiddhi school)](chengshi-zong.md) — `skeleton`
+- [Cārvāka / Lokāyata](carvaka.md) — `skeleton`
 - [Dhammakāya meditation tradition (Vijjā Dhammakāya; Wat Paknam)](dhammakaya.md) — `skeleton` _(recent)_
 - [Dhammayuttika Nikāya (Dhammayut order)](dhammayut.md) — `skeleton` _(recent)_
 - [Dharamdāsī Kabīr Panth (Chhattisgarhī śākhā)](dharamdasi-kabir-panth.md) — `skeleton`
-- [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](dharmasastra.md) — `skeleton`
+- [Dharmaguptaka](dharmaguptaka.md) — `skeleton`
+- [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](dharmasastra.md) — `sourced`
+- [Dharmottarīya](dharmottariya.md) — `skeleton`
 - [Digambara](digambara.md) — `skeleton`
+- [Dilun school (Chinese 'Daśabhūmika treatise' school)](dilun.md) — `skeleton`
 - [Drāviḍa Saṅgha](dravida-sangha.md) — `skeleton`
 - [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](dvaita.md) — `skeleton`
 - [Dvaitādvaita (Nimbārka Sampradāya)](dvaitadvaita.md) — `skeleton`
 - [Dādū Panth](dadu-panth.md) — `skeleton`
-- [Dāyabhāga school of Dharmaśāstra (Bengal)](dayabhaga-school.md) — `skeleton`
+- [Dārṣṭāntika](darstantika.md) — `skeleton`
+- [Dāyabhāga school of Dharmaśāstra (Bengal)](dayabhaga-school.md) — `sourced`
 - [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](bhagavata-early.md) — `sourced`
 - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](early-buddhism.md) — `skeleton`
+- [Ekavyavahārika](ekavyavaharika.md) — `skeleton`
 - [Ekaśaraṇa Dharma](ekasarana.md) — `skeleton`
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](epic-teaching.md) — `sourced`
 - [Garībdāsī panth](garibdasi.md) — `skeleton`
 - [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](gaudiya-vaisnava.md) — `skeleton`
 - [Gāruḍa stream (tantras of Garuḍa)](garuda-tantra.md) — `skeleton`
+- [Haimavata](haimavata.md) — `skeleton`
 - [Haridāsī sampradāya (Sakhī sampradāya)](haridasi.md) — `skeleton`
 - [Haṭha Yoga (the haṭha and rājayoga textual tradition)](hatha-yoga.md) — `skeleton`
+- [Hossō school (Japanese Faxiang)](hosso.md) — `skeleton`
 - [Jaiminīya (Talavakāra) śākhā (Sāmaveda)](sakha-jaiminiya.md) — `sourced`
 - [Jainism (Jaina dharma)](jainism.md) — `skeleton`
+- [Jushe school (Abhidharmakośa school)](jushe-zong.md) — `skeleton`
 - [Jyotiṣa (the science of the lights)](jyotisa.md) — `skeleton`
 - [Kabīr Chaurā Maṭh (Mūl Gādī), Varanasi](kabir-chaura.md) — `skeleton`
 - [Kabīr Panth](kabir-panth.md) — `skeleton`
 - [Kapiṣṭhala-Kaṭha śākhā (Black Yajurveda)](sakha-kapisthala-katha.md) — `sourced`
 - [Kartābhajā](kartabhaja.md) — `skeleton` _(recent)_
 - [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](kashmir-saivism.md) — `skeleton`
+- [Kaukkuṭika](kaukkutika.md) — `skeleton`
 - [Kaula (the Kula tradition)](kaula.md) — `skeleton`
 - [Kaula Śrīvidyā (the Vāmakeśvara–Yoginīhṛdaya exegetical line)](kaula-srividya.md) — `skeleton`
 - [Kauthuma śākhā (Sāmaveda)](sakha-kauthuma.md) — `sourced`
@@ -63,22 +82,29 @@ skeleton: 172 · sourced: 20
 - [Kāla saṃhati](kala-samhati.md) — `skeleton`
 - [Kālāmukha](kalamukha.md) — `skeleton`
 - [Kālīkula (the Kālī lineages)](kalikula.md) — `skeleton`
-- [Kāmaśāstra (the science of love and pleasure)](kamasastra.md) — `skeleton`
+- [Kāmaśāstra (the science of love and pleasure)](kamasastra.md) — `sourced`
 - [Kāpālika (Somasiddhānta)](kapalika.md) — `skeleton`
+- [Kāśyapīya](kasyapiya.md) — `skeleton`
 - [Kāṇva śākhā (White Yajurveda)](sakha-kanva.md) — `sourced`
 - [Kāṣṭhā Saṅgha](kastha-sangha.md) — `skeleton`
 - [Ledi Sayadaw tradition](ledi.md) — `skeleton` _(recent)_
+- [Lokottaravāda](lokottaravada.md) — `skeleton`
 - [Loṅkā Gaccha](lonka-gaccha.md) — `skeleton`
+- [Lü school (Vinaya school, Nanshan lineage)](lu-zong.md) — `skeleton`
 - [Lākula](lakula.md) — `skeleton`
+- [Madhyamaka](madhyamaka.md) — `skeleton`
 - [Mahānubhāva panth](mahanubhava.md) — `skeleton`
 - [Mahāsi Sayadaw tradition (the 'new Burmese method')](mahasi.md) — `skeleton` _(recent)_
+- [Mahāsāṃghika](mahasanghika.md) — `skeleton`
 - [Mahāvihāra fraternity (Mahāvihāra-vāsins)](mahavihara.md) — `skeleton`
+- [Mahāyāna](mahayana.md) — `skeleton`
+- [Mahīśāsaka](mahisasaka.md) — `skeleton`
 - [Maitrāyaṇīya śākhā (Black Yajurveda)](sakha-maitrayaniya.md) — `sourced`
 - [Mantramārga (the Path of Mantras)](mantramarga.md) — `skeleton`
 - [Mantrapīṭha (the Seat of Mantras)](mantrapitha.md) — `skeleton`
 - [Mantraśāstra (the science of mantras: the smārta-tantric mantra manuals)](mantrasastra.md) — `skeleton`
 - [Mata (the 'Doctrine'; the Mata scriptures)](mata.md) — `skeleton`
-- [Mitākṣarā school of Dharmaśāstra](mitaksara-school.md) — `skeleton`
+- [Mitākṣarā school of Dharmaśāstra](mitaksara-school.md) — `sourced`
 - [Mogok Sayadaw tradition](mogok.md) — `skeleton` _(recent)_
 - [Murāri Miśra's school (the 'third path' of Mīmāṃsā)](murari-mimamsa.md) — `skeleton`
 - [Mādhyandina śākhā (White Yajurveda)](sakha-madhyandina.md) — `sourced`
@@ -87,7 +113,8 @@ skeleton: 172 · sourced: 20
 - [Mīmāṃsā (Pūrva Mīmāṃsā)](mimamsa.md) — `skeleton`
 - [Mīrābāī's devotion (the Mīrā song-tradition)](mirabai.md) — `skeleton`
 - [Mūla Saṅgha (Digambara)](mula-sangha.md) — `skeleton`
-- [Nairukta school (the Vedic etymologists)](nairukta.md) — `skeleton`
+- [Mūlasarvāstivāda](mulasarvastivada.md) — `skeleton`
+- [Nairukta school (the Vedic etymologists)](nairukta.md) — `sourced`
 - [Navya-Nyāya](navya-nyaya.md) — `skeleton`
 - [Nikā saṃhati](nika-samhati.md) — `skeleton`
 - [Nirañjanī sampradāya](niranjani.md) — `skeleton`
@@ -97,19 +124,24 @@ skeleton: 172 · sourced: 20
 - [Pa-Auk tradition (Pa-Auk Tawya)](pa-auk.md) — `skeleton` _(recent)_
 - [Paippalāda śākhā (Atharvaveda)](sakha-paippalada.md) — `sourced`
 - [Pañcācārya (Pañcapīṭha) tradition](pancacarya.md) — `skeleton`
+- [Prajñaptivāda](prajnaptivada.md) — `skeleton`
 - [Pratyabhijñā (the philosophy of recognition)](pratyabhijna.md) — `skeleton`
 - [Prābhākara Mīmāṃsā](prabhakara-mimamsa.md) — `skeleton`
+- [Prāsaṅgika-Madhyamaka](prasangika.md) — `skeleton`
+- [Pudgalavāda](pudgalavada.md) — `skeleton`
 - [Puruṣa saṃhati](purusa-samhati.md) — `skeleton`
 - [Puṣṭimārga (Vallabha Sampradāya; Śuddhādvaita Brahmavāda)](pustimarga.md) — `skeleton`
 - [Pārśvacandra Gaccha](parsvacandra-gaccha.md) — `skeleton`
 - [Pātañjala Yoga (the Yoga darśana)](patanjala-yoga.md) — `skeleton`
 - [Pāñcarātra](pancaratra.md) — `skeleton`
 - [Pāśupata (Pāñcārthika Pāśupata)](pasupata.md) — `skeleton`
+- [Pūrvaśaila](purvasaila.md) — `skeleton`
 - [Radha Soami Satsang Beas](radha-soami-satsang-beas.md) — `skeleton` _(recent)_
 - [Radhasoami Satsang, Agra lines (Soamibagh, Peepal Mandi / Huzuri Bhawan, Dayalbagh)](radhasoami-agra.md) — `skeleton` _(recent)_
 - [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](rasa-sastra.md) — `skeleton`
 - [Rasik Rāma-bhakti (Rasik sampradāya of the Rāmānandīs)](rasik-ramanandi.md) — `skeleton`
 - [Ravidāsī (Ravidassia) tradition](ravidasi.md) — `skeleton` _(recent)_
+- [Ritsu-shū (Japanese Vinaya school)](ritsu-shu.md) — `skeleton`
 - [Ruhani Satsang and its successor missions](ruhani-satsang.md) — `skeleton` _(recent)_
 - [Rādhāvallabha sampradāya](radhavallabha.md) — `skeleton`
 - [Rāghavendra Maṭha (Mantrālaya)](raghavendra-matha.md) — `skeleton`
@@ -121,20 +153,28 @@ skeleton: 172 · sourced: 20
 - [Sant Mat (Radhasoami and its successor lines)](sant-mat.md) — `skeleton` _(recent)_
 - [Sant tradition (nirguṇa bhakti of North India)](sant.md) — `skeleton`
 - [Santmat Satsang of Maharshi Mehi (Bihar)](santmat-maharshi-mehi.md) — `skeleton` _(recent)_
+- [Sarvāstivāda](sarvastivada.md) — `skeleton`
 - [Satnāmī movements](satnami.md) — `skeleton`
+- [Satyākāravāda (True-Aspect Yogācāra)](satyakaravada.md) — `skeleton`
+- [Sautrāntika](sautrantika.md) — `skeleton`
+- [Saṃmitīya](sammitiya.md) — `skeleton`
 - [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](sannyasa.md) — `skeleton`
 - [Saṅgītaśāstra (the science of music: song, instrument and dance)](sangita.md) — `skeleton`
+- [Shelun school (Chinese 'Mahāyānasaṃgraha' school)](shelun.md) — `skeleton`
 - [Siddha medicine (cittā maruttuvam)](siddha-medicine.md) — `skeleton`
 - [Spanda (the doctrine of vibration)](spanda.md) — `skeleton`
+- [Sthavira (the Elders' group of the first schism)](sthavira.md) — `skeleton`
 - [Sthānakavāsī](sthanakavasi.md) — `skeleton`
 - [Suan Mokkh (Buddhadāsa's tradition)](suan-mokkh.md) — `skeleton` _(recent)_
 - [Sunlun Sayadaw tradition](sunlun.md) — `skeleton` _(recent)_
+- [Svātantrika-Madhyamaka](svatantrika.md) — `skeleton`
 - [Sāhebdhanī sampradāya](sahebdhani.md) — `skeleton` _(recent)_
 - [Sāṃkhya](samkhya.md) — `skeleton`
 - [Taittirīya śākhā (Black Yajurveda)](sakha-taittiriya.md) — `sourced`
 - [Tamil Jain tradition](tamil-jain.md) — `skeleton`
 - [Tamil Śaiva Siddhānta (the Meykaṇṭa school)](tamil-saiva-siddhanta.md) — `skeleton`
 - [Tapā Gaccha](tapa-gaccha.md) — `skeleton`
+- [Tathāgatagarbha (Buddha-nature) tradition](tathagatagarbha.md) — `skeleton`
 - [Terāpantha (Digambara)](terapantha-digambara.md) — `skeleton`
 - [Teṅkalai (southern school of Śrīvaiṣṇavism)](tenkalai.md) — `skeleton`
 - [Thai Forest tradition (Kammaṭṭhāna forest tradition)](thai-forest.md) — `skeleton` _(recent)_
@@ -148,6 +188,7 @@ skeleton: 172 · sourced: 20
 - [The Tamil Siddhars (cittar)](tamil-siddha.md) — `skeleton`
 - [The Yavana school of horā](yavana-jataka.md) — `skeleton`
 - [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](alvar.md) — `skeleton`
+- [The śramaṇa movement](sramana.md) — `skeleton`
 - [Theravāda](theravada.md) — `skeleton`
 - [Trika ('the Triad')](trika.md) — `skeleton`
 - [Tristuti Gaccha](tristuti-gaccha.md) — `skeleton` _(recent)_
@@ -159,14 +200,16 @@ skeleton: 172 · sourced: 20
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](upanisadic.md) — `skeleton`
 - [Uttarādi Maṭha](uttaradi-matha.md) — `skeleton`
 - [Uttarāpathakas ('Northerners', as named in the Kathāvatthu commentary)](uttarapathaka.md) — `skeleton`
+- [Vaibhāṣika](vaibhasika.md) — `skeleton`
 - [Vaikhānasa](vaikhanasa.md) — `skeleton`
 - [Vaiśeṣika](vaisesika.md) — `skeleton`
 - [Vaiṣṇava Sahajiyā](vaisnava-sahajiya.md) — `skeleton`
 - [Vaṭakalai (northern school of Śrīvaiṣṇavism)](vadakalai.md) — `skeleton`
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](vedic-srauta.md) — `sourced`
 - [Vedānta (Uttara Mīmāṃsā)](vedanta.md) — `skeleton`
-- [Vedāṅga (the six limbs of the Veda)](vedanga.md) — `skeleton`
+- [Vedāṅga (the six limbs of the Veda)](vedanga.md) — `sourced`
 - [Vetulyakas (as named in the Kathāvatthu commentary and Sri Lankan chronicles)](vetulyaka.md) — `skeleton`
+- [Vibhajyavāda](vibhajyavada.md) — `skeleton`
 - [Vidyāpīṭha (the Seat of Vidyās)](vidyapitha.md) — `skeleton`
 - [Vivaraṇa school (Vivaraṇa-prasthāna)](vivarana.md) — `skeleton`
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](visistadvaita.md) — `skeleton`
@@ -174,9 +217,13 @@ skeleton: 172 · sourced: 20
 - [Vyāsarāja Maṭha (Sosale)](vyasaraja-matha.md) — `skeleton`
 - [Vāma stream (the left current of Tumburu)](vama-srotas.md) — `skeleton`
 - [Vārkarī sampradāya](varkari.md) — `skeleton`
+- [Vātsīputrīya](vatsiputriya.md) — `skeleton`
 - [Vīraśaiva / Liṅgāyata](virasaiva.md) — `skeleton`
 - [Yoginī Kaula (Yoginīkaula) of Matsyendra](yogini-kaula.md) — `skeleton`
+- [Yogācāra](yogacara.md) — `skeleton`
+- [Yogācāra-Madhyamaka](yogacara-madhyamaka.md) — `skeleton`
 - [Yāpanīya](yapaniya.md) — `skeleton`
+- [Ājīvika](ajivika.md) — `skeleton`
 - [Ārya Samāj](arya-samaj.md) — `sourced` _(recent)_
 - [Ārādhya Śaiva (Andhra)](aradhya-saiva.md) — `skeleton`
 - [Āyurveda](ayurveda.md) — `skeleton`
@@ -194,3 +241,4 @@ skeleton: 172 · sourced: 20
 - [Śākala śākhā (Ṛgveda)](sakha-sakala.md) — `sourced`
 - [Śākta traditions](sakta.md) — `skeleton`
 - [Śāṅkhāyana / Kauṣītaki (Ṛgveda school)](sakha-sankhayana.md) — `sourced`
+- [Ṣaṇṇagarika](sannagarika.md) — `skeleton`

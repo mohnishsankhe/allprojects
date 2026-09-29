@@ -23,4 +23,4 @@ Yes: it is a permanent state at the edge of the eternal realm, from which there 
 _Notes: Positions recalled from secondary accounts; the texts are not cited at section level — check._
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._

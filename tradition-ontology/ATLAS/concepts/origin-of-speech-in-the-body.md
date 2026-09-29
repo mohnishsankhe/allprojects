@@ -1,6 +1,6 @@
 # How speech arises in the body
 
-`cpt:origin-of-speech-in-the-body` · `skeleton` · confidence high
+`cpt:origin-of-speech-in-the-body` · `sourced` · confidence high
 
 **Category:** body-energy
 
@@ -13,4 +13,8 @@
 - contrasts-with → [Prāṇa (breath) in the Brāhmaṇas and Āraṇyakas](prana-in-brahmanas.md): the Śikṣā's physiology of breath serves pronunciation, not meditation
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/shixA/sAdhAraNI/paniniya_shiksha.md (60 verses) — The definition's cited passages were all checked in this sweep and support it: tea:paniniya-siksa:6-9 (confirmed).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

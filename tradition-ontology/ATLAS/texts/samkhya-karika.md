@@ -63,7 +63,7 @@ Three means of valid knowledge are accepted — perception, inference and reliab
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: [pramāṇa](../terms/pramana.md), [dṛṣṭa (pratyakṣa)](../terms/drsta.md), [anumāna](../terms/anumana.md), [āptavacana](../terms/aptavacana.md) · concepts: [Means of valid knowledge (pramāṇa)](../concepts/pramana.md) · disputes: `dsp:number-of-pramanas`
+terms: [pramāṇa](../terms/pramana.md), [dṛṣṭa (pratyakṣa)](../terms/drsta.md), [anumāna](../terms/anumana.md), [āptavacana](../terms/aptavacana.md) · concepts: [Means of valid knowledge (pramāṇa)](../concepts/pramana.md) · disputes: [How many means of knowledge are valid?](../debates/number-of-pramanas.md)
 
 ### 5 <a id="tea-samkhya-karika-5"></a>
 `skeleton` · confidence high
@@ -190,7 +190,7 @@ Puruṣa exists: because aggregates are for the sake of another; because there m
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-terms: [puruṣa](../terms/purusa.md), [pārārthya](../terms/pararthya.md), [adhiṣṭhāna](../terms/adhisthana.md), [bhoktṛ](../terms/bhoktr.md), [kaivalya](../terms/kaivalya.md) · concepts: [Puruṣa (the conscious self)](../concepts/purusa.md) · disputes: `dsp:is-there-a-self`, [Is consciousness a product of the combined elements of the body?](../debates/consciousness-from-elements.md)
+terms: [puruṣa](../terms/purusa.md), [pārārthya](../terms/pararthya.md), [adhiṣṭhāna](../terms/adhisthana.md), [bhoktṛ](../terms/bhoktr.md), [kaivalya](../terms/kaivalya.md) · concepts: [Puruṣa (the conscious self)](../concepts/purusa.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Is consciousness a product of the combined elements of the body?](../debates/consciousness-from-elements.md)
 
 ### 18 <a id="tea-samkhya-karika-18"></a>
 `skeleton` · confidence high
@@ -738,4 +738,4 @@ terms: [ṣaṣṭitantra](../terms/sastitantra.md) · concepts: [The sixty topi
 _Notes: Verse numbers and wording used in this unit's SK teachings were checked against the local GRETIL/DCS e-texts in sources_raw/; entries stay at skeleton level until Phase C/D._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._

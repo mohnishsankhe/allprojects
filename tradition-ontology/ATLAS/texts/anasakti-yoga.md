@@ -17,6 +17,6 @@ Gandhi's Gujarati rendering of and introduction to the Gītā, reading its centr
 ---
 **Verification checks**
 
-- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Anasakti_Yoga, https://www.mkgandhi.org/swmgandhi/chap01.php — Gujarati rendering completed 1929; published 12 March 1930.
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Anasakti_Yoga, https://www.mkgandhi.org/swmgandhi/chap01.php — Gujarati rendering completed 1929; published 12 March 1930.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

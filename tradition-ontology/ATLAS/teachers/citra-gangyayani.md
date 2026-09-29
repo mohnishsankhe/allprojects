@@ -10,4 +10,4 @@
 A king who, about to sacrifice, questions Śvetaketu on the closed place of the world, then teaches Āruṇi (who comes fuel in hand) the path to the world of brahman (KauU 1.1-7).
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

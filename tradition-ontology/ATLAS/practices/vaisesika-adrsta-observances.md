@@ -15,4 +15,4 @@ Ablution, fasting, celibacy, residence in the teacher's household, forest-dwelli
 - Fasting is listed without further prescription; no durations are given in the sūtra (prolonged fasting is not described here). — [Vaiśeṣika Sūtra](../texts/vaisesika-sutra.md) 6.2.2
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

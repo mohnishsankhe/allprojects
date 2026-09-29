@@ -14,4 +14,4 @@
 - causes → [Epidemics and their moral root](janapadoddhvamsa.md): through adharma — rests on [vi.3.20-23](../texts/caraka-samhita.md#tea-caraka-samhita-vi-3-20-23)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

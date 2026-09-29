@@ -14,4 +14,4 @@ The standard Siddha materia medica in volumes on plants (mūlikai), minerals and
 _Notes: Compiler and dates recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

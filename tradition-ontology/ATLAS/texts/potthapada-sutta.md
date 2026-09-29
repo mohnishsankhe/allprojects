@@ -24,7 +24,7 @@ Perceptions arise and cease with a cause: by training some perceptions arise and
 
 _level: unmarked · standpoint: experiential · path: meditation · stage: advanced · types: consciousness-mind, practice_
 
-terms: `trm:sanna`, `trm:sannavedayitanirodha` · concepts: `cpt:nirodha-samapatti`, `cpt:formless-attainments`
+terms: [saññā](../terms/sanna.md), [saññāvedayitanirodha](../terms/sannavedayitanirodha.md) · concepts: [The attainment of cessation](../concepts/nirodha-samapatti.md), [The four formless attainments](../concepts/formless-attainments.md)
 
 ### 21-31 <a id="tea-potthapada-sutta-21-31"></a>
 `skeleton` · confidence high
@@ -33,7 +33,7 @@ Asked whether perception is a person's self, the Buddha shows that for any self 
 
 _level: unmarked · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-terms: `trm:avyakata`, `trm:atta` · concepts: `cpt:undeclared-questions` · disputes: `dsp:avyakata`, `dsp:is-there-a-self`
+terms: [avyākata](../terms/avyakata.md), [attā](../terms/atta.md) · concepts: [The undeclared questions](../concepts/undeclared-questions.md) · disputes: [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](../debates/avyakata.md), [Is there a self?](../debates/is-there-a-self.md)
 
 ### 39-53 <a id="tea-potthapada-sutta-39-53"></a>
 `skeleton` · confidence high
@@ -42,7 +42,7 @@ Three kinds of acquired self (attapaṭilābha) — gross, mind-made and formles
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate, sound-language_
 
-terms: `trm:sammuti`, `trm:atta` · concepts: `cpt:conventional-expression` · disputes: `dsp:is-there-a-self`
+terms: [sammuti](../terms/sammuti.md), [attā](../terms/atta.md) · concepts: [Convention and the ultimate sense](../concepts/conventional-expression.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 53.5 <a id="tea-potthapada-sutta-53-5"></a>
 `skeleton` · confidence high
@@ -53,10 +53,10 @@ The Tathāgata speaks with the world's common usages, terms, expressions and des
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: realized · types: sound-language, ultimate_
 
-terms: `trm:sammuti` · concepts: `cpt:conventional-expression`
+terms: [sammuti](../terms/sammuti.md) · concepts: [Convention and the ultimate sense](../concepts/conventional-expression.md)
 
 
 _Notes: SuttaCentral uid dn9; Mahāsaṅgīti title 'Poṭṭhapādasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

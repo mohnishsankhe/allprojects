@@ -11,4 +11,4 @@ Meditate on the five great combinations — of worlds, lights, knowledge, progen
   - [Taittirīya Upaniṣad](../texts/taittiriya-upanisad.md) — ref: 1.3; rests_on: ["tea:taittiriya-upanisad:1.3.1-4"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

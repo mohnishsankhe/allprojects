@@ -13,6 +13,7 @@
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Om as the sacred syllable: 'praṇava is the bow' (MuU 2.2.4); the upper fire-stick of meditation (ŚU 1.14).
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): The syllable Oṃ, whose three measures and half-measure are meditated upon; raised in the heart like a bell's sound.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Oṃ as analysed into measures and taught as the means of meditation, the renouncer's only study, the 'thread' and the tāraka; of three, four, twelve or sixteen measures.
+- [Jainism (Jaina dharma)](../lineages/jainism.md): In Jain explanation Oṃ is formed from the initials of the five supreme beings: a (arhat) + a (aśarīra, the Siddha) + ā (ācārya) + u (upādhyāya) + m (muni).
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): In the tirumantra, a-u-m teach that the soul (m) exists for the Lord (a) alone (u).
 - [Mantraśāstra (the science of mantras: the smārta-tantric mantra manuals)](../lineages/mantrasastra.md): Oṃ, the 'tāra', prefixed to mantras; its letters a, u, m are Brahmā, Viṣṇu and Rudra, and its subtle phases (bindu, ardhacandra, nirodhikā, nāda, nādānta, śakti, vyāpinī, samanā, unmanā) are traversed in meditative utterance.
 - [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md): The one word from which the Veda's knowledge springs, opposed to no doctrine (VP 1.9, low confidence).
@@ -25,4 +26,4 @@
 **Related:** [sarva-śabda-vācyatva](sarvasabdavacyatva.md), [so'ham](soham.md), [oṃ](om.md), [mātrā](matra.md), [ardhamātrā](ardhamatra.md), [tāraka](taraka.md)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U15-dvaita, skeleton:U20-virasaiva, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U04-minor-upanisads, skeleton:U14-visistadvaita, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U15-dvaita, skeleton:U20-virasaiva, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U04-minor-upanisads, skeleton:U35-jain-philosophy, skeleton:U14-visistadvaita, skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

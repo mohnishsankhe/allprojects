@@ -15,4 +15,4 @@ Mahāmudrā, nabhomudrā (khecarī), uḍḍiyāna, jālandhara and mūlabandha:
 - The reversed practice is to be obtained from the guru's mouth. — [Gorakṣaśataka](../texts/goraksasataka.md) 59
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

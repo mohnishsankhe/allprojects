@@ -28,4 +28,4 @@ Read by levels of truth, birth-caste operates in conventional social and ritual 
 _Notes: Related registry dispute: dsp:women-caste-liberation. The Buddhist Vajrasūcī makes a parallel argument; see brw:buddhist-vajrasuci._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

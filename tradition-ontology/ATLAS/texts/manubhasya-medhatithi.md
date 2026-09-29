@@ -1,6 +1,6 @@
 # Manubhāṣya of Medhātithi
 
-`src:manubhasya-medhatithi` · `skeleton` · confidence moderate
+`src:manubhasya-medhatithi` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -15,4 +15,8 @@
 The oldest surviving commentary on Manu, applying Mīmāṃsā reasoning to its verses; it argues, among much else, against the widow's following her husband in death.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Medh%C4%81tithi, https://sites.utexas.edu/sanskrit/resources/dharmasastra/medhatithi/ — Confirmed: the oldest surviving commentary on Manu. Lingat dates it to the 9th or early 10th c. at the latest, matching the entry's 850–1000. The argument against widow-burning is recorded under dsp:widow-anvarohana.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

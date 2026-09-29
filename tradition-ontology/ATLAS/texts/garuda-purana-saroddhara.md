@@ -18,4 +18,4 @@ A sixteen-chapter digest of the Garuḍa's teaching on death: the miseries of si
 _Notes: Compiler's name and date not verified - low confidence; kept as the text actually recited in mourning in North India._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._

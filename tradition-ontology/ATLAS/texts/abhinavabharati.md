@@ -14,7 +14,7 @@
 
 Abhinavagupta's commentary on the Nāṭyaśāstra, the principal source for the debate on how rasa arises: it reports and criticises Lollaṭa, Śaṅkuka and Bhaṭṭa Nāyaka and sets out Abhinava's own view of rasa as the relish (carvaṇā) of a universalized emotion in the spectator's own consciousness, the seven obstacles to it, and śānta as a rasa whose stable basis is knowledge of the self.
 
-## Teachings (6: skeleton 6)
+## Teachings (7: skeleton 7)
 
 ### 6 <a id="tea-abhinavabharati-6-rasasutra-abhinavagupta"></a>
 `skeleton` · confidence moderate
@@ -23,7 +23,7 @@ Abhinavagupta's own view: rasa is not produced, inferred or merely enjoyed throu
 
 _level: bridging · standpoint: experiential · path: general, knowledge · stage: all · types: consciousness-mind, ultimate_
 
-terms: [carvaṇā](../terms/carvana.md), [camatkāra](../terms/camatkara.md), [sahṛdaya](../terms/sahrdaya.md), [viśrānti](../terms/visranti.md), [sādhāraṇīkaraṇa](../terms/sadharanikarana.md) · concepts: `cpt:rasa-sutra`, `cpt:sadharanikarana`, `cpt:rasa-as-relish-of-consciousness` · teachers: [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: `dsp:how-rasa-arises`
+terms: [carvaṇā](../terms/carvana.md), [camatkāra](../terms/camatkara.md), [sahṛdaya](../terms/sahrdaya.md), [viśrānti](../terms/visranti.md), [sādhāraṇīkaraṇa](../terms/sadharanikarana.md) · concepts: [The rasa-sūtra and its interpretations](../concepts/rasa-sutra.md), [Generalization (sādhāraṇīkaraṇa)](../concepts/sadharanikarana.md), [Aesthetic relish as consciousness at rest (brahmāsvāda-sahodara)](../concepts/rasa-as-relish-of-consciousness.md) · teachers: [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: [How does rasa arise from the union of determinants, consequents and transient states, and where is it?](../debates/how-rasa-arises.md)
 
 ### 6 <a id="tea-abhinavabharati-6-rasasutra-bhatta-nayaka"></a>
 `skeleton` · confidence moderate
@@ -32,7 +32,7 @@ Bhaṭṭa Nāyaka's view: rasa is neither perceived, produced nor manifested; p
 
 _level: bridging · standpoint: polemical · path: general · stage: all · types: consciousness-mind, dispute, ultimate_
 
-terms: [bhāvakatva](../terms/bhavakatva.md), [bhojakatva](../terms/bhojakatva.md), [brahmāsvāda-sahodara](../terms/brahmasvada-sahodara.md) · concepts: `cpt:rasa-sutra`, `cpt:sadharanikarana` · teachers: [Bhaṭṭa Nāyaka](../teachers/bhatta-nayaka.md) · disputes: `dsp:how-rasa-arises`
+terms: [bhāvakatva](../terms/bhavakatva.md), [bhojakatva](../terms/bhojakatva.md), [brahmāsvāda-sahodara](../terms/brahmasvada-sahodara.md) · concepts: [The rasa-sūtra and its interpretations](../concepts/rasa-sutra.md), [Generalization (sādhāraṇīkaraṇa)](../concepts/sadharanikarana.md) · teachers: [Bhaṭṭa Nāyaka](../teachers/bhatta-nayaka.md) · disputes: [How does rasa arise from the union of determinants, consequents and transient states, and where is it?](../debates/how-rasa-arises.md)
 
 ### 6 <a id="tea-abhinavabharati-6-rasasutra-lollata"></a>
 `skeleton` · confidence moderate
@@ -41,7 +41,7 @@ Lollaṭa's view: rasa is the stable emotion intensified (upacita) by the determ
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: consciousness-mind, dispute_
 
-concepts: `cpt:rasa-sutra` · teachers: [Bhaṭṭa Lollaṭa](../teachers/bhatta-lollata.md) · disputes: `dsp:how-rasa-arises`
+concepts: [The rasa-sūtra and its interpretations](../concepts/rasa-sutra.md) · teachers: [Bhaṭṭa Lollaṭa](../teachers/bhatta-lollata.md) · disputes: [How does rasa arise from the union of determinants, consequents and transient states, and where is it?](../debates/how-rasa-arises.md)
 
 ### 6 <a id="tea-abhinavabharati-6-rasasutra-sankuka"></a>
 `skeleton` · confidence moderate
@@ -50,7 +50,16 @@ concepts: `cpt:rasa-sutra` · teachers: [Bhaṭṭa Lollaṭa](../teachers/bhatt
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: consciousness-mind, dispute_
 
-terms: [anumāna](../terms/anumana.md) · concepts: `cpt:rasa-sutra` · teachers: [Śrī Śaṅkuka](../teachers/sri-sankuka.md) · disputes: `dsp:how-rasa-arises`
+terms: [anumāna](../terms/anumana.md) · concepts: [The rasa-sūtra and its interpretations](../concepts/rasa-sutra.md) · teachers: [Śrī Śaṅkuka](../teachers/sri-sankuka.md) · disputes: [How does rasa arise from the union of determinants, consequents and transient states, and where is it?](../debates/how-rasa-arises.md)
+
+### 6 <a id="tea-abhinavabharati-6-rasasutra-steps"></a>
+`skeleton` · confidence low
+
+Abhinavagupta: the intellect, climbing higher and higher without weariness, sees the truth of the matter; that is the fruit of the ladder of discriminations built by the earlier teachers — their views are steps, not errors to be discarded.
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: dispute, teacher-transmission_
+
+teachers: [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: [How does rasa arise from the union of determinants, consequents and transient states, and where is it?](../debates/how-rasa-arises.md)
 
 ### 6 <a id="tea-abhinavabharati-6-rasasutra-vighnas"></a>
 `skeleton` · confidence moderate
@@ -59,7 +68,7 @@ Rasa arises when the obstacles (vighna) to relish are removed; there are seven: 
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind, practice_
 
-concepts: `cpt:sadharanikarana` · obstacles: `obs:rasa-vighnas` · teachers: [Abhinavagupta](../teachers/abhinavagupta.md)
+concepts: [Generalization (sādhāraṇīkaraṇa)](../concepts/sadharanikarana.md) · obstacles: [The seven obstacles to aesthetic relish (rasa-vighna)](../obstacles/rasa-vighnas.md) · teachers: [Abhinavagupta](../teachers/abhinavagupta.md)
 
 ### 6 <a id="tea-abhinavabharati-6-santa"></a>
 `skeleton` · confidence moderate
@@ -68,10 +77,10 @@ On śānta: its stable emotion is knowledge of reality (tattvajñāna), which is
 
 _level: bridging · standpoint: experiential · path: knowledge, meditation · stage: advanced · types: consciousness-mind, karma-liberation, ultimate_
 
-terms: [śānta-rasa](../terms/santa-rasa.md), [tattvajñāna](../terms/tattvajnana.md) · concepts: `cpt:santa-rasa` · teachers: [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: `dsp:santa-rasa`
+terms: [śānta-rasa](../terms/santa-rasa.md), [tattvajñāna](../terms/tattvajnana.md) · concepts: [Śānta rasa: peace as an aesthetic experience akin to liberation](../concepts/santa-rasa.md) · teachers: [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: [Is śānta (peace) a rasa, and what is its stable emotion?](../debates/santa-rasa.md)
 
 
 _Notes: Survives with gaps; printed in the Gaekwad's Oriental Series edition of the Nāṭyaśāstra._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

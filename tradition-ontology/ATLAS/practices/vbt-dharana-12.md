@@ -15,4 +15,4 @@ The central channel (madhyanāḍī), situated in the middle, [is to be meditate
 _Notes: Verses 35 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

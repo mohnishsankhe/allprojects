@@ -20,7 +20,7 @@ One of the two oldest and largest Upanisads: meditations on the udgītha and Om;
   - kind: translation; name: F. Max Muller, The Upanishads, SBE 1 and 15 (1879, 1884); licence: public domain
 **Commentaries on this text:** [Chāndogyopaniṣad-bhāṣya (Madhva)](chandogya-upanisad-bhasya-madhva.md), [Chāndogyopaniṣadbhāṣya of Śaṅkara](chandogya-upanisad-bhasya-sankara.md)
 
-## Teachings (96: skeleton 96)
+## Teachings (96: skeleton 90, sourced 6)
 
 ### 1.1.1-3 <a id="tea-chandogya-upanisad-1-1-1-3"></a>
 `skeleton` · confidence high
@@ -54,7 +54,7 @@ _level: conventional · standpoint: cosmic · path: ritual, knowledge · stage: 
 concepts: [The contest of the breaths](../concepts/contest-of-the-pranas.md), [Breath / life-force (prāṇa)](../concepts/prana.md) · practices: [Meditation on the udgītha](../practices/udgitha-upasana.md) · obstacles: [Evil (pāpman)](../obstacles/papman.md)
 
 ### 1.4.2 <a id="tea-chandogya-upanisad-1-4-2"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The gods, afraid of death, entered the triple knowledge and covered themselves with the metres; because they covered (acchādayan) themselves with them, the metres are called chandas.
 
@@ -106,7 +106,7 @@ The udgītha of the dogs: a white dog appears to Baka Dālbhya (Glāva Maitreya)
 _level: conventional · standpoint: ritual · path: ritual · stage: unmarked · types: sound-language_
 
 ### 2.22.3-5 <a id="tea-chandogya-upanisad-2-22-3-5"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 All vowels are selves of Indra, all sibilants selves of Prajāpati, all stops selves of Death. The vowels should be pronounced resonant and strong, the sibilants open, without swallowing or throwing out, the stops slowly, without running them together; if reproached for a sound one takes refuge in its deity.
 
@@ -346,7 +346,7 @@ _level: bridging · standpoint: cosmic · path: meditation, knowledge · stage: 
 terms: [devayāna](../terms/devayana.md), [abhaya](../terms/abhaya.md) · concepts: [The two paths after death: of the gods and of the fathers](../concepts/devayana-pitryana.md) · practices: [Meditation on the person in the eye](../practices/aksi-purusa-upasana.md), [Upakosala's meditation (upakosala-vidyā)](../practices/upakosala-vidya.md) · teachers: [Satyakāma Jābāla](../teachers/satyakama-jabala.md)
 
 ### 4.16.1-2 <a id="tea-chandogya-upanisad-4-16-1-2"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The one who purifies (the wind) is the sacrifice; it has two tracks, mind and speech. The brahman priest fashions one with his mind, the hotṛ, adhvaryu and udgātṛ the other with speech; if the brahman breaks his silence the sacrifice goes on one track and is injured.
 
@@ -472,7 +472,7 @@ _level: conventional · standpoint: ritual · path: ritual, body-breath · stage
 terms: [prāṇāgnihotra](../terms/pranagnihotra.md), [prāṇa](../terms/prana.md), [vaiśvānara](../terms/vaisvanara.md) · concepts: [The five breaths](../concepts/five-pranas.md) · practices: [Prāṇāgnihotra (offering food into the breaths)](../practices/pranagnihotra.md), [Meditation on the self common to all men (vaiśvānara-vidyā)](../practices/vaisvanara-vidya.md) · obstacles: [Evil (pāpman)](../obstacles/papman.md)
 
 ### 5.19-23 <a id="tea-chandogya-upanisad-5-19-23"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The first food that comes should be offered: the first oblation with 'to prāṇa svāhā' — the breath is satisfied, and with it the eye, the sun, the sky and all under them; the second 'to vyāna' — the ear, the moon, the quarters; the third 'to apāna' — speech, fire, the earth; the fourth 'to samāna' — the mind, the rain-god, lightning; the fifth 'to udāna' — the skin, the wind, space; and with them the eater himself is satisfied with offspring, cattle, food, splendour and holy lustre.
 
@@ -481,7 +481,7 @@ _level: conventional · standpoint: ritual · path: ritual, knowledge · stage: 
 terms: [prāṇāgnihotra](../terms/pranagnihotra.md), [prāṇa](../terms/prana.md) · concepts: [Prāṇāgnihotra — the fire-offering into the breaths](../concepts/pranagnihotra.md), [Bandhu — the correspondences between rite, cosmos and person](../concepts/bandhu-correspondences.md) · practices: [Prāṇāgnihotra (offering food into the breaths)](../practices/pranagnihotra.md)
 
 ### 5.24.1-3 <a id="tea-chandogya-upanisad-5-24-1-3"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 If one offers the Agnihotra without knowing this, it is as if one removed the live coals and poured the offering on ashes; but the one who offers knowing this has offered in all worlds, all beings, all selves; as the tuft of a reed laid on a fire is burned up, so all his evils are burned up.
 
@@ -490,7 +490,7 @@ _level: bridging · standpoint: seeker · path: knowledge, ritual · stage: inte
 concepts: [Prāṇāgnihotra — the fire-offering into the breaths](../concepts/pranagnihotra.md), [The internalized sacrifice](../concepts/internalized-sacrifice.md) · practices: [Prāṇāgnihotra (offering food into the breaths)](../practices/pranagnihotra.md), [Agnihotra (daily fire-offering)](../practices/agnihotra.md)
 
 ### 5.24.4 <a id="tea-chandogya-upanisad-5-24-4"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Therefore, even if one who knows this gives the leftovers to an outcaste (caṇḍāla), it is offered in his self, in Vaiśvānara; as hungry children sit around their mother, so all beings sit around the Agnihotra.
 
@@ -536,7 +536,7 @@ It thought: 'May I be many; may I procreate.' It emitted heat (tejas); heat thou
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: intermediate · types: world-fate_
 
-terms: [tejas](../terms/tejas.md), [anna](../terms/anna.md) · concepts: [Creation accounts of the principal Upaniṣads](../concepts/creation-in-the-upanisads.md), [The five elements (mahābhūta)](../concepts/five-elements.md) · teachers: [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md)
+terms: [tejas](../terms/tejas.md), [aññā](../terms/anna.md) · concepts: [Creation accounts of the principal Upaniṣads](../concepts/creation-in-the-upanisads.md), [The five elements (mahābhūta)](../concepts/five-elements.md) · teachers: [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md)
 
 ### 6.3.1-4 <a id="tea-chandogya-upanisad-6-3-1-4"></a>
 `skeleton` · confidence high
@@ -563,7 +563,7 @@ Food when eaten divides into three: its coarsest part becomes faeces, its middle
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: body-layers, consciousness-mind_
 
-terms: [anna](../terms/anna.md), [manas](../terms/manas.md) · concepts: [The tripartition (trivṛt) of heat, water and food](../concepts/trivrtkarana.md) · teachers: [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md)
+terms: [aññā](../terms/anna.md), [manas](../terms/manas.md) · concepts: [The tripartition (trivṛt) of heat, water and food](../concepts/trivrtkarana.md) · teachers: [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md)
 
 ### 6.6.1-5 <a id="tea-chandogya-upanisad-6-6-1-5"></a>
 `skeleton` · confidence moderate
@@ -581,7 +581,7 @@ A person has sixteen parts. 'Do not eat for fifteen days; drink water as you lik
 
 _level: conventional · standpoint: experiential · path: general · stage: all · types: body-layers, consciousness-mind_
 
-terms: [ṣoḍaśakala puruṣa](../terms/sodasakala-purusa.md), [anna](../terms/anna.md) · concepts: [The sixteen parts of the person](../concepts/sixteen-parts.md) · teachers: [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md), [Śvetaketu Āruṇeya](../teachers/svetaketu.md)
+terms: [ṣoḍaśakala puruṣa](../terms/sodasakala-purusa.md), [aññā](../terms/anna.md) · concepts: [The sixteen parts of the person](../concepts/sixteen-parts.md) · teachers: [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md), [Śvetaketu Āruṇeya](../teachers/svetaketu.md)
 
 ### 6.8.1-2 <a id="tea-chandogya-upanisad-6-8-1-2"></a>
 `skeleton` · confidence high
@@ -912,4 +912,4 @@ terms: [svādhyāya](../terms/svadhyaya.md), [brahmaloka](../terms/brahmaloka.md
 _Notes: Forms prapathakas 3-10 of the Chāndogya Brāhmaṇa, whose first two prapathakas are the Mantra Brāhmaṇa (src:mantra-brahmana, U02) (moderate confidence). Veda affiliation: Sāmaveda, Kauthuma-Ranayaniya tradition_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

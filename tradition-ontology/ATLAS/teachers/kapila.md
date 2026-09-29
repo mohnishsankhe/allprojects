@@ -21,6 +21,6 @@ _Notes: U05's contribution (the epic account)._
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 12.337.60, 12.326.64 (kapilaṃ prāhur ācāryāḥ sāṃkhyaniścitaniścayāḥ), 12.260.12, local:gita/gita BhG 10.26 — All cited references located.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.337.60, 12.326.64 (kapilaṃ prāhur ācāryāḥ sāṃkhyaniścitaniścayāḥ), 12.260.12, local:gita/gita BhG 10.26 — All cited references located.
 
-_Contributed by: skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U28-hatha-texts, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U28-hatha-texts, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

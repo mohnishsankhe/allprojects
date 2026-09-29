@@ -24,10 +24,10 @@ Soṇadaṇḍa agrees that of the qualities of a brahmin only virtue and wisdom
 
 _level: conventional · standpoint: polemical · path: knowledge, action · stage: all · types: ethics, dispute_
 
-terms: [śīla](../terms/sila.md), `trm:panna` · concepts: `cpt:three-trainings` · disputes: `dsp:caste-and-purity`
+terms: [sīla](../terms/sila.md), [paññā](../terms/panna.md) · concepts: [The three trainings (tisso sikkhā)](../concepts/three-trainings.md) · disputes: [Is purity and worth determined by birth into a class (varṇa), or by conduct?](../debates/caste-and-purity.md)
 
 
 _Notes: SuttaCentral uid dn4; Mahāsaṅgīti title 'Soṇadaṇḍasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

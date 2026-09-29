@@ -10,10 +10,10 @@ A real universal (ākṛti) — MS 1.3.33; Kumārila's apohavāda rejects exclus
 **Texts:** 
   - [Mīmāṃsā Sūtra](../texts/mimamsa-sutra.md) — ref: 1.3.33
   - [Ślokavārttika](../texts/slokavarttika.md) — ref: apohavāda
-### `lin:pramana-buddhist`
+### [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
 Words signify by excluding what is other (anyāpoha); there are no real universals (Dignāga, Dharmakīrti).
 **Texts:** 
-  - `src:pramanasamuccaya` — ref: ch. 5
+  - [Pramāṇasamuccaya](../texts/pramanasamuccaya.md) — ref: ch. 5
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -21,4 +21,4 @@ Words signify by excluding what is other (anyāpoha); there are no real universa
 **Candidate readings:** P2-standpoint: a positive class-meaning and an exclusion-meaning may be two descriptions of how words delimit; both sides deny it.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

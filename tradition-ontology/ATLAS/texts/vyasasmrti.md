@@ -1,6 +1,6 @@
 # Vyāsasmṛti
 
-`src:vyasasmrti` · `skeleton` · confidence low
+`src:vyasasmrti` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 A short metrical smṛti ascribed to Vyāsa on the classes, sacraments, the householder and daily duties.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:eBharati:aShTAdashasmRtayaH (… iti vyāsasmṛtiḥ) — Low-confidence entry confirmed as extant in the local Aṣṭādaśasmṛti collection ('iti vyāsasmṛtiḥ').
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

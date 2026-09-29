@@ -13,11 +13,18 @@
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The student's stage in the teacher's house, with chastity, begging and service; temporary or lifelong (naiṣṭhika).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The life of a student of the Veda, celibacy: what people call sacrifice is really brahmacarya (ChU 8.5); the brahma-world belongs to those who find it by brahmacarya (ChU 8.4.3); preparatory year of austerity, celibacy and faith (PrU 1.2).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The vow of celibacy of the meditator (BhG 6.14) and of those desiring the Imperishable (8.11); bodily austerity (17.14); Sanatsujāta's four quarters of brahmacarya (MBh 5.44).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: The meditating yogin is to be firm in the vow of the brahmacārin (brahmacāri-vrata) (6.14).
+- [Jainism (Jaina dharma)](../lineages/jainism.md): In Jainism abstention from sexual activity (complete for ascetics, limited to one's spouse for laity) (TS 7.16); also the last of the ten virtues.
 
 ## Forms in other languages
 - Pali: brahmacariya  — partial — In Pali the holy life in general
+- Prakrit: baṃbhacera  — exact
 
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:6.14 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._

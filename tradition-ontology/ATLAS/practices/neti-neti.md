@@ -20,4 +20,4 @@ In the Rāma Gītā: negating the whole world by 'not this', tasting the conscio
 _Notes: U06 contribution to a shared practice id (principal source: Bṛhadāraṇyaka Upaniṣad)._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._

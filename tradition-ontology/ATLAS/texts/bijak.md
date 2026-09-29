@@ -68,7 +68,7 @@ Thirty verses addressed to the brahmin: he recites the Veda, performs rites and 
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, ethics_
 
-concepts: [Rejection of caste](../concepts/rejection-of-caste.md), [Critique of outward religion](../concepts/critique-of-outward-religion-sant.md) · obstacles: [Caste pride (cāti)](../obstacles/caste-pride.md), [Book-learning without love](../obstacles/pothi-learning.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: `dsp:women-caste-liberation`, `dsp:status-of-veda`
+concepts: [Rejection of caste](../concepts/rejection-of-caste.md), [Critique of outward religion](../concepts/critique-of-outward-religion-sant.md) · obstacles: [Caste pride (cāti)](../obstacles/caste-pride.md), [Book-learning without love](../obstacles/pothi-learning.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: `dsp:women-caste-liberation`, [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### Śabda ('māyā mahāṭhaginī ham jānī …') <a id="tea-bijak-sabda-maya-mahathagini-ham-jani"></a>
 `skeleton` · confidence moderate
@@ -110,4 +110,4 @@ concepts: [Neither Hindu nor Turk](../concepts/hindu-and-turk.md), [Critique of 
 _Notes: Section counts are from memory (moderate confidence); the sākhī count in particular varies by edition (353 in Shukdev Singh)._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

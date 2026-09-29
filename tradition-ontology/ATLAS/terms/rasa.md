@@ -23,4 +23,4 @@
 _Notes: Homonym: in aesthetics and bhakti the relished sentiment._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U31-sound-arts, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U31-sound-arts, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

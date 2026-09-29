@@ -25,7 +25,7 @@ Truly, without the path of the Āgama there is no way in the Kali age; in this a
 
 _level: conventional · standpoint: polemical · path: ritual, sound · stage: all · types: teacher-transmission, dispute, world-fate_
 
-concepts: [Tantra as the scripture of the Kali age](../concepts/tantra-for-kali-yuga.md) · disputes: `dsp:status-of-veda`, [Is Kaula practice — the Kula worship with the five tattvas, the circle and the cremation ground — a legitimate path to liberation, or a departure from dharma?](../debates/legitimacy-of-kaula-practice.md)
+concepts: [Tantra as the scripture of the Kali age](../concepts/tantra-for-kali-yuga.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md), [Is Kaula practice — the Kula worship with the five tattvas, the circle and the cremation ground — a legitimate path to liberation, or a departure from dharma?](../debates/legitimacy-of-kaula-practice.md)
 
 ### 3.7-8 <a id="tea-mahanirvana-tantra-3-7-8"></a>
 `skeleton` · confidence moderate
@@ -183,4 +183,4 @@ concepts: [The Kaula/Śākta avadhūta](../concepts/kaula-avadhuta.md)
 
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._

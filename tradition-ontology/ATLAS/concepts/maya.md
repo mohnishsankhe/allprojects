@@ -16,4 +16,4 @@
 - same-as-under-standpoint → [Avidyā (ignorance) in Advaita](avidya.md) (vyāvahārika): One entity viewed cosmically (māyā) and individually (avidyā) in the Vivaraṇa/Saṃkṣepaśārīraka usage; distinguished by Vidyāraṇya. — rests on [1.15-17](../texts/pancadasi.md#tea-pancadasi-1-15-17), [108](../texts/vivekacudamani.md#tea-vivekacudamani-108)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

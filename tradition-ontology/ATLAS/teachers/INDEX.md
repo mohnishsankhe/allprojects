@@ -1,13 +1,17 @@
-# Teachers (1554)
+# Teachers (2086)
 
-skeleton: 1375 · sourced: 179
+skeleton: 1841 · sourced: 245
 
 - [A. C. Bhaktivedanta Swami Prabhupāda](bhaktivedanta-swami.md) — `skeleton` _(recent)_
+- [Abhayadevasūri](abhayadeva.md) — `skeleton`
+- [Abhayākaragupta](abhayakaragupta.md) — `skeleton`
 - [Abhimanyu](abhimanyu.md) — `skeleton`
 - [Abhinanda (Gauḍa Abhinanda)](abhinanda.md) — `skeleton`
+- [Abhinandananātha](abhinandananatha.md) — `skeleton`
 - [Abhinavagupta](abhinavagupta.md) — `sourced`
 - [Abhipratārin Kākṣaseni](abhipratarin-kaksaseni.md) — `skeleton`
 - [Abhirāmi Paṭṭar](abhirami-pattar.md) — `skeleton`
+- [Acalabhrātṛ](acalabhrata.md) — `skeleton`
 - [Acyuta Piṣāraṭi](acyuta-pisarati.md) — `skeleton`
 - [Acyutaprekṣa](acyutapreksa.md) — `skeleton`
 - [Adhokṣaja Tīrtha](adhoksaja-tirtha.md) — `skeleton`
@@ -19,14 +23,29 @@ skeleton: 1375 · sourced: 179
 - [Aghamarṣaṇa Mādhucchandasa](aghamarsana.md) — `sourced`
 - [Aghoraśiva](aghorasiva.md) — `skeleton`
 - [Aghoreśvar Bhagavān Rām](bhagwan-ram.md) — `skeleton` _(recent)_
+- [Agnibhūti](agnibhuti.md) — `skeleton`
 - [Agniveśa](agnivesa.md) — `skeleton`
 - [Agradās](agradas.md) — `skeleton`
 - [Ahobala](ahobala.md) — `skeleton`
 - [Aitiśāyana](aitisayana.md) — `skeleton`
 - [Aiyaṭikaḷ Kāṭavarkōṉ Nāyaṉār](aiyatikal-katavarkon.md) — `skeleton`
 - [Ajagaṇṇa](ajaganna.md) — `skeleton`
+- [Ajahn Chah Subhaddo](ajahn-chah.md) — `skeleton` _(recent)_
+- [Ajahn Fuang Jotiko](ajahn-fuang.md) — `skeleton` _(recent)_
+- [Ajahn Lee Dhammadharo](ajahn-lee.md) — `skeleton` _(recent)_
+- [Ajahn Maha Boowa Ñāṇasampanno](ajahn-maha-boowa.md) — `skeleton` _(recent)_
+- [Ajahn Mun Bhūridatto](ajahn-mun.md) — `skeleton` _(recent)_
+- [Ajahn Sao Kantasīlo](ajahn-sao.md) — `skeleton` _(recent)_
+- [Ajahn Sumedho](ajahn-sumedho.md) — `skeleton` _(recent)_
+- [Ajahn Thate Desaransi](ajahn-thate.md) — `skeleton` _(recent)_
 - [Ajaib Singh (Sant Ji)](ajaib-singh.md) — `skeleton` _(recent)_
+- [Ajita (Pārāyana)](ajita-manava.md) — `skeleton`
+- [Ajita Kesakambalī](ajita-kesakambali.md) — `skeleton`
+- [Ajitanātha](ajitanatha.md) — `skeleton`
+- [Ajātasattu](ajatasattu.md) — `skeleton`
 - [Ajātaśatru of Kāśī](ajatasatru-kasi.md) — `skeleton`
+- [Akalaṅka](akalanka.md) — `skeleton`
+- [Akampita](akampita.md) — `skeleton`
 - [Akappēyc cittar](akappey-siddhar.md) — `skeleton`
 - [Akhaṇḍānanda](akhandananda.md) — `skeleton`
 - [Akiñcana Dāsa](akincana-dasa.md) — `skeleton`
@@ -34,6 +53,8 @@ skeleton: 1375 · sourced: 179
 - [Akkamma](akkamma.md) — `skeleton`
 - [Akkanāgamma](akkanagamma.md) — `skeleton`
 - [Akṛtavraṇa](akrtavrana.md) — `skeleton`
+- [Akṣayamati](aksayamati.md) — `skeleton`
+- [Akṣobhya](aksobhya.md) — `skeleton`
 - [Akṣobhya Tīrtha](aksobhya-tirtha.md) — `skeleton`
 - [al-Bīrūnī](al-biruni.md) — `skeleton`
 - [Alarka](alarka.md) — `sourced`
@@ -41,13 +62,21 @@ skeleton: 1375 · sourced: 179
 - [Allama Prabhu](allama-prabhu.md) — `skeleton`
 - [Amalānanda](amalananda.md) — `skeleton`
 - [Amarnīti Nāyaṉār](amarniti.md) — `skeleton`
+- [Ambapālī](ambapali.md) — `skeleton`
 - [Ambigara Cauḍayya](ambigara-caudayya.md) — `skeleton`
+- [Amitacākarar](amitacakarar.md) — `skeleton`
+- [Amitagati (II)](amitagati.md) — `skeleton`
+- [Amitābha / Amitāyus](amitabha.md) — `skeleton`
+- [Amoghavajra](amoghavajra.md) — `skeleton`
+- [Amṛtacandra](amrtacandra.md) — `skeleton`
 - [Amṛtānanda](amrtananda.md) — `skeleton`
 - [Amṛtānandanātha Sarasvatī (of Devīpuram)](amritananda-natha-sarasvati.md) — `skeleton` _(recent)_
+- [Anagārika Munindra](anagarika-munindra.md) — `skeleton` _(recent)_
 - [Anand Swarup (Sahabji Maharaj)](anand-swarup.md) — `skeleton` _(recent)_
 - [Ananta Daivajña](ananta-daivajna.md) — `skeleton`
 - [Anantadeva (author of the Padacandrikā)](anantadeva-padacandrika.md) — `skeleton`
 - [Anantadās](anantadas.md) — `skeleton`
+- [Anantanātha](anantanatha.md) — `skeleton`
 - [Anantaśaktipāda](anantasaktipada.md) — `skeleton`
 - [Anantānanda](anantananda.md) — `skeleton`
 - [Anantārya](anantarya.md) — `skeleton`
@@ -59,41 +88,60 @@ skeleton: 1375 · sourced: 179
 - [Aniruddhadeva](aniruddhadeva.md) — `skeleton`
 - [Annambhaṭṭa](annambhatta.md) — `skeleton`
 - [Annamācārya (Tāḷḷapāka Annamayya)](annamacarya.md) — `skeleton`
+- [Anuruddha](anuruddha.md) — `skeleton`
+- [Anuruddha (ācariya)](anuruddha-acariya.md) — `skeleton`
+- [Anurādha](anuradha.md) — `skeleton`
+- [Anāthapiṇḍika](anathapindika.md) — `skeleton`
 - [Aparakuśika](aparakusika.md) — `skeleton`
-- [Aparārka (Aparāditya)](apararka.md) — `skeleton`
+- [Aparājitasūri](aparajita-suri.md) — `skeleton`
+- [Aparārka (Aparāditya)](apararka.md) — `sourced`
 - [Appar (Tirunāvukkaracar)](appar.md) — `skeleton`
 - [Appayya Dīkṣita](appayya-diksita.md) — `skeleton`
 - [Appaṇṇācārya](appannacarya.md) — `skeleton`
 - [Appūti Aṭikaḷ](apputi-atikal.md) — `skeleton`
 - [Apālā Ātreyī](apala.md) — `sourced`
 - [Apāntaratamas](apantaratamas.md) — `sourced`
+- [Aranātha](aranatha.md) — `skeleton`
+- [Arcaṭa](arcata.md) — `skeleton`
 - [Arivāṭṭāya Nāyaṉār](arivattayar.md) — `skeleton`
 - [Arjuna (Pārtha, Dhanaṃjaya)](arjuna.md) — `sourced`
 - [Aruḷāḷa Perumāḷ Emperumāṉār](arulala-perumal-emperumanar.md) — `skeleton`
 - [Aruṇadatta](arunadatta.md) — `skeleton`
 - [Aruṇanti Civācāriyār](arunanti.md) — `skeleton`
 - [Aruṇāditya](arunaditya.md) — `skeleton`
+- [Asaṅga](asanga.md) — `skeleton`
 - [Asita Devala](asita-devala.md) — `sourced`
+- [Asoka](asoka.md) — `skeleton`
+- [Assaji](assaji.md) — `skeleton`
+- [Assalāyana](assalayana.md) — `skeleton`
+- [Asvabhāva](asvabhava.md) — `skeleton`
 - [Atharvan](atharvan.md) — `sourced`
 - [Atipatta Nāyaṉār](atipattar.md) — `skeleton`
+- [Atiśa Dīpaṃkaraśrījñāna](atisa.md) — `skeleton`
 - [Atri](atri.md) — `sourced`
 - [Atri (Pāśupata tīrthakara)](atri-pasupata.md) — `skeleton`
 - [Audumbarāyaṇa](audumbarayana.md) — `skeleton`
 - [Aupadhenava](aupadhenava.md) — `skeleton`
-- [Aupamanyava](aupamanyava.md) — `skeleton`
+- [Aupamanyava](aupamanyava.md) — `sourced`
 - [Aurabhra](aurabhra.md) — `skeleton`
 - [Auvaiyār (of the Vināyakar akaval)](avvaiyar.md) — `skeleton`
 - [Auḍulomi](audulomi.md) — `skeleton`
 - [Avaidyanāth](avaidyanath.md) — `skeleton` _(recent)_
+- [Avalokitavrata](avalokitavrata.md) — `skeleton`
+- [Avalokiteśvara](avalokitesvara.md) — `skeleton`
 - [Aviddhakarṇa](aviddhakarna.md) — `skeleton`
+- [Ayampula](ayampula.md) — `skeleton`
 - [Ayāsya Āṅgirasa](ayasya-angirasa.md) — `skeleton`
+- [Aññāsi Koṇḍañña](kondanna.md) — `skeleton`
+- [Aśvaghoṣa](asvaghosa.md) — `skeleton`
 - [Aśvala](asvala.md) — `skeleton`
-- [Aśvapati Kaikeya](asvapati-kaikeya.md) — `skeleton`
+- [Aśvapati Kaikeya](asvapati-kaikeya.md) — `sourced`
 - [Aśvatthāman](asvatthaman.md) — `skeleton`
 - [Aḻagiya Maṇavāḷa Perumāḷ Nāyaṉār](alagiya-manavala-perumal-nayanar.md) — `skeleton`
 - [Aḻukaṇṇi (Aḻukaṇic cittar)](azhukanni.md) — `skeleton`
 - [Aṅgir](angir.md) — `skeleton`
 - [Aṅgiras (teacher of Śaunaka)](angiras.md) — `sourced`
+- [Aṅgulimāla](angulimala.md) — `skeleton`
 - [Aṣṭāvakra](astavakra.md) — `skeleton`
 - [B. V. Raman](bv-raman.md) — `skeleton` _(recent)_
 - [Badulā Padma Ātā](badula-padma-ata.md) — `skeleton`
@@ -105,20 +153,29 @@ skeleton: 1375 · sourced: 179
 - [Bali](bali.md) — `sourced`
 - [Ballālasena](ballalasena.md) — `skeleton`
 - [Bankā](banka.md) — `skeleton`
+- [Banārsīdās](banarasidasa.md) — `skeleton`
 - [Barku Vārṣṇa](barku-varsna.md) — `skeleton`
 - [Basava](basava.md) — `skeleton`
-- [Baudhāyana](baudhayana.md) — `skeleton`
+- [Baudhāyana](baudhayana.md) — `sourced`
 - [Baḍiśa Dhāmārgava](badisa-dhamargava.md) — `skeleton`
 - [Baḍu Caṇḍīdās](baru-candidas.md) — `skeleton`
 - [Bhabā Pāglā](bhaba-pagla.md) — `skeleton` _(recent)_
+- [Bhaddiya](bhaddiya.md) — `skeleton`
+- [Bhaddā Kuṇḍalakesā](bhadda-kundalakesa.md) — `skeleton`
+- [Bhaddā Kāpilānī](bhadda-kapilani.md) — `skeleton`
+- [Bhadrabāhu (the śrutakevalin)](bhadrabahu.md) — `skeleton`
+- [Bhadrabāhu II](bhadrabahu-ii.md) — `skeleton`
 - [Bhadrakāpya](bhadrakapya.md) — `skeleton`
 - [Bhadraśaunaka](bhadrasaunaka.md) — `skeleton`
 - [Bhadrācala Rāmadās (Kañcarla Gopanna)](bhadracala-ramadas.md) — `skeleton`
+- [Bhaiṣajyaguru Vaiḍūryaprabha](bhaisajyaguru.md) — `skeleton`
+- [Bhaiṣajyarāja](bhaisajyaraja.md) — `skeleton`
 - [Bhaktisiddhānta Sarasvatī](bhaktisiddhanta-sarasvati.md) — `skeleton` _(recent)_
 - [Bhaktivinoda Ṭhākura (Kedarnath Datta)](bhaktivinoda-thakura.md) — `skeleton` _(recent)_
 - [Bharadvāja](bharadvaja.md) — `sourced`
 - [Bharata (Bharata Muni)](bharata-muni.md) — `skeleton`
 - [Bharata (Rāma's brother)](bharata-ramayana.md) — `sourced`
+- [Bharata (the first world-emperor)](bharata-cakravartin.md) — `skeleton`
 - [Bharata Miśra](bharata-misra.md) — `skeleton`
 - [Bhartṛhari](bhartrhari.md) — `skeleton`
 - [Bhartṛhari (Bharthari, the Nāth king-yogī)](bhartrhari-natha.md) — `skeleton`
@@ -140,9 +197,11 @@ skeleton: 1375 · sourced: 179
 - [Bhaṭṭa Rāmakaṇṭha (Rāmakaṇṭha II)](ramakantha.md) — `skeleton`
 - [Bhaṭṭa Tauta](bhatta-tauta.md) — `skeleton`
 - [Bhaṭṭadeva (Vaikuṇṭhanātha Bhāgavata Bhaṭṭācārya)](bhattadeva.md) — `skeleton`
-- [Bhaṭṭoji Dīkṣita](bhattoji-diksita.md) — `skeleton`
+- [Bhaṭṭodbhaṭa (Udbhaṭa)](bhattodbhata.md) — `skeleton`
+- [Bhaṭṭoji Dīkṣita](bhattoji-diksita.md) — `sourced`
 - [Bhaṭṭotpala](bhattotpala.md) — `skeleton`
 - [Bhaṭṭāra Haricandra](bhattara-haricandra.md) — `skeleton`
+- [Bhaṭṭāraka Jñānabhūṣaṇa](jnanabhusana.md) — `skeleton`
 - [Bhela](bhela.md) — `skeleton`
 - [Bhikṣu Ātreya](bhiksu-atreya.md) — `skeleton`
 - [Bhikṣu Āṅgirasa](bhiksu-angirasa.md) — `sourced`
@@ -154,6 +213,7 @@ skeleton: 1375 · sourced: 179
 - [Bhāgodās (Bhagvān Dās)](bhagodas.md) — `skeleton`
 - [Bhāmaha](bhamaha.md) — `skeleton`
 - [Bhānudās](bhanudas.md) — `skeleton`
+- [Bhāradvāja (the student)](bharadvaja-manava.md) — `skeleton`
 - [Bhāratcandra Rāy (Rāyguṇākar)](bharatcandra-ray.md) — `skeleton`
 - [Bhāratītīrtha](bharatitirtha.md) — `skeleton`
 - [Bhārgava (Sāṃkhya teacher)](bhargava-samkhya.md) — `skeleton`
@@ -168,22 +228,28 @@ skeleton: 1375 · sourced: 179
 - [Bhāskararāya](bhaskararaya.md) — `skeleton`
 - [Bhāva Bṛhaspati](bhava-brhaspati.md) — `skeleton`
 - [Bhāvamiśra](bhavamisra.md) — `skeleton`
+- [Bhāviveka](bhaviveka.md) — `skeleton`
 - [Bhāvāgaṇeśa](bhavaganesa.md) — `skeleton`
 - [Bhāvānanda](bhavananda.md) — `skeleton`
 - [Bhīkhā Sāhib](bhikha-sahib.md) — `skeleton`
 - [Bhīma (Bhīmasena)](bhima.md) — `sourced`
 - [Bhīmakavi](bhimakavi.md) — `skeleton`
 - [Bhīṣma (Devavrata, Gāṅgeya)](bhisma.md) — `sourced`
+- [Bhūdhardās](bhudhardas.md) — `skeleton`
 - [Bhūriśravas](bhurisravas.md) — `skeleton`
+- [Bhūtabali](bhutabali.md) — `skeleton`
 - [Bhūtirāja](bhutiraja.md) — `skeleton`
 - [Bhṛgu Vāruṇi](bhrgu.md) — `sourced`
 - [Bihārinidev](biharinidev.md) — `skeleton`
 - [Bilvamaṅgala (Līlāśuka)](bilvamangala.md) — `skeleton`
+- [Bimbisāra](bimbisara.md) — `skeleton`
 - [Bodhendra Sarasvatī](bodhendra-sarasvati.md) — `skeleton`
+- [Bodhibhadra](bodhibhadra.md) — `skeleton`
+- [Bodhiruci (6th c.)](bodhiruci.md) — `skeleton`
 - [Bodhya](bodhya.md) — `skeleton`
 - [Bodhāyana (the Vṛttikāra)](bodhayana-vrttikara.md) — `skeleton`
 - [Bogar (Pōkar)](bogar.md) — `skeleton`
-- [Bopadeva](bopadeva.md) — `skeleton`
+- [Bopadeva](bopadeva.md) — `sourced`
 - [Brahm Shankar Misra (Maharaj Saheb)](brahm-shankar-misra.md) — `skeleton` _(recent)_
 - [Brahmadatta](brahmadatta.md) — `skeleton`
 - [Brahmagupta](brahmagupta.md) — `skeleton`
@@ -191,15 +257,27 @@ skeleton: 1375 · sourced: 179
 - [Brahmatantra Svatantra Jīyar](brahmatantra-svatantra-jiyar.md) — `skeleton`
 - [Brahmaṇya Tīrtha](brahmanya-tirtha.md) — `skeleton`
 - [Brahmā (as first teacher)](brahma.md) — `skeleton`
+- [Brahmā Sahampati](brahma-sahampati.md) — `skeleton`
 - [Brahmānanda (author of the Jyotsnā)](brahmananda-jyotsna.md) — `skeleton` _(recent)_
 - [Brahmānanda Giri](brahmananda-giri.md) — `skeleton`
 - [Brahmānanda Sarasvatī](brahmananda-sarasvati.md) — `skeleton`
+- [Brāhmī](brahmi-jain.md) — `skeleton`
+- [Buddhabhadra](buddhabhadra.md) — `skeleton`
+- [Buddhadatta](buddhadatta.md) — `skeleton`
+- [Buddhadeva](buddhadeva.md) — `skeleton`
+- [Buddhadāsa Bhikkhu](buddhadasa.md) — `skeleton` _(recent)_
+- [Buddhaghosa](buddhaghosa.md) — `skeleton`
+- [Buddhajīva](buddhajiva.md) — `skeleton`
 - [Buddhamitra](buddhamitra.md) — `skeleton`
+- [Buddhapālita](buddhapalita.md) — `skeleton`
+- [Buddhayaśas](buddhayasas.md) — `skeleton`
 - [Buḍila Āśvatarāśvi](budila-asvatarasvi.md) — `skeleton`
 - [Buḍḍhan (Vṛddhānanda)](buddhan.md) — `skeleton`
 - [Bābājī Caitanya](babaji-caitanya.md) — `skeleton`
 - [Bādari](badari.md) — `skeleton`
 - [Bādarāyaṇa](badarayana.md) — `skeleton`
+- [Bāhiya Dārucīriya](bahiya-daruciriya.md) — `skeleton`
+- [Bāhubali (Gommaṭeśvara)](bahubali.md) — `skeleton`
 - [Bāl Gaṅgādhar Tilak](bal-gangadhar-tilak.md) — `sourced` _(recent)_
 - [Bālakṛṣṇa Bhaṭṭa](balakrsna-bhatta.md) — `skeleton`
 - [Bālarāma Udāsīna](balarama-udasina.md) — `skeleton` _(recent)_
@@ -219,8 +297,12 @@ skeleton: 1375 · sourced: 179
 - [Caikitāyana Dālbhya](caikitayana-dalbhya.md) — `skeleton`
 - [Cakradhar Svāmī](cakradhar.md) — `skeleton`
 - [Cakrapāṇidatta](cakrapanidatta.md) — `skeleton`
-- [Candragomin](candragomin.md) — `skeleton`
+- [Candanā (Candanabālā)](candana.md) — `skeleton`
+- [Candragomin](candragomin.md) — `sourced`
+- [Candragupta Maurya](candragupta-maurya.md) — `skeleton`
+- [Candrakīrti](candrakirti.md) — `skeleton`
 - [Candramati](candramati.md) — `skeleton`
+- [Candraprabha](candraprabha.md) — `skeleton`
 - [Candraśekhara Bhāratī III](candrasekhara-bharati-iii.md) — `skeleton` _(recent)_
 - [Candraśekharendra Sarasvatī](candrasekharendra-sarasvati.md) — `skeleton` _(recent)_
 - [Candrācārya](candracarya.md) — `skeleton`
@@ -240,23 +322,34 @@ skeleton: 1375 · sourced: 179
 - [Cekitāna](cekitana.md) — `skeleton`
 - [Cennabasava](cennabasava.md) — `skeleton`
 - [Ceruttuṇai Nāyaṉār](ceruttunaiyar.md) — `skeleton`
+- [Channa](channa.md) — `skeleton`
+- [Chapa Chökyi Senge](chapa-chokyi-senge.md) — `skeleton`
+- [Chapaṭa (Saddhammajotipāla)](chapata.md) — `skeleton`
 - [Charan Singh (Maharaj Charan Singh)](charan-singh.md) — `skeleton` _(recent)_
 - [Chītsvāmī](chitsvami.md) — `skeleton`
 - [Cidghanānandanātha](cidghanananda.md) — `skeleton`
+- [Cidānanda (Kapūrcand)](cidananda.md) — `skeleton` _(recent)_
 - [Cilarāi (Śukladhvaja)](cilarai.md) — `skeleton`
 - [Cinnambhaṭṭa](cinnambhatta.md) — `skeleton`
 - [Citra Gāṅgyāyani](citra-gangyayani.md) — `skeleton`
 - [Citsukha](citsukha.md) — `skeleton`
+- [Citta the householder](citta-gahapati.md) — `skeleton`
 - [Civañāṉa Muṉivar](civanana-munivar.md) — `skeleton`
 - [Ciṟappuli Nāyaṉār](cirappuliyar.md) — `skeleton`
 - [Ciṟuttoṇṭa Nāyaṉār](siruttontar.md) — `skeleton`
 - [Cokhāmeḷā](cokhamela.md) — `skeleton`
+- [Culla-Dhammapāla](culla-dhammapala.md) — `skeleton`
+- [Cunda the novice](cunda-samanuddesa.md) — `skeleton`
+- [Cunda the smith](cunda-kammaraputta.md) — `skeleton`
 - [Cuntaramūrtti (Cuntarar)](cuntarar.md) — `skeleton`
 - [Cuntarāṉantar (Sundarānandar)](sundaranandar.md) — `skeleton`
 - [Cākkiya Nāyaṉār](cakkiyar.md) — `skeleton`
 - [Cāmarasa](camarasa.md) — `skeleton`
 - [Cāmuṇḍa (rasa author)](camunda-rasa.md) — `skeleton`
+- [Cāmuṇḍarāya](camundaraya.md) — `skeleton`
 - [Cāndsāi](candsai.md) — `skeleton`
+- [Cārvāka (the eponymous teacher)](carvaka.md) — `skeleton`
+- [Cārvāka the rākṣasa (Mahābhārata)](carvaka-raksasa.md) — `skeleton`
 - [Cāṅgadev (Cāṅgā Vaṭeśvar)](cangadeva-vatesvar.md) — `skeleton`
 - [Cāṅgadeva Rāüḷ](cangadeva-raul.md) — `skeleton`
 - [Cēkkiḻār](cekkilar.md) — `skeleton`
@@ -272,51 +365,86 @@ skeleton: 1375 · sourced: 179
 - [Daivarāti Janaka](daivarati-janaka.md) — `sourced`
 - [Dakṣa Prajāpati](daksa-prajapati.md) — `skeleton`
 - [Dakṣiṇā Prājāpatyā](daksina-prajapatya.md) — `sourced`
+- [Daosheng](daosheng.md) — `skeleton`
+- [Daoxuan](daoxuan.md) — `skeleton`
 - [Dariyā Sāhib of Bihar](dariya-sahib-bihar.md) — `skeleton`
 - [Dariyāv Sāhib of Mārvāṛ](dariya-sahib-marwar.md) — `skeleton`
 - [Darshan Singh](darshan-singh.md) — `skeleton` _(recent)_
 - [Dattila](dattila.md) — `skeleton`
 - [Dattātreya](dattatreya.md) — `skeleton`
+- [Daulatrām (author of the Chahḍhālā)](daulatram.md) — `skeleton` _(recent)_
 - [Dayābāī](dayabai.md) — `skeleton`
 - [Dayānanda Sarasvatī](dayananda-sarasvati.md) — `sourced` _(recent)_
 - [Daṇḍin](dandin.md) — `skeleton`
 - [Devabodha](devabodha.md) — `sourced`
+- [Devacandra (Kharatara Gaccha)](devacandra-kharatara.md) — `skeleton`
+- [Devacandra Sūri (teacher of Hemacandra)](devacandra-suri.md) — `skeleton`
+- [Devadatta](devadatta.md) — `skeleton`
 - [Devahūti](devahuti.md) — `skeleton`
 - [Devala (Sāṃkhya teacher)](devala-samkhya.md) — `skeleton`
-- [Devarāja Yajvan](devaraja-yajvan.md) — `skeleton`
+- [Devarddhigaṇi Kṣamāśramaṇa](devarddhigani.md) — `skeleton`
+- [Devarāja Yajvan](devaraja-yajvan.md) — `sourced`
+- [Devasena](devasena.md) — `skeleton`
 - [Devasvāmin](devasvamin.md) — `skeleton`
-- [Devaṇṇabhaṭṭa](devannabhatta.md) — `skeleton`
+- [Devavācaka](devavacaka.md) — `skeleton`
+- [Devaśarman](devasarman.md) — `skeleton`
+- [Devaṇṇabhaṭṭa](devannabhatta.md) — `sourced`
+- [Devendrabuddhi](devendrabuddhi.md) — `skeleton`
+- [Devendragaṇi (Nemicandra)](devendragani.md) — `skeleton`
+- [Devendrasūri](devendra-suri-tapa.md) — `skeleton`
 - [Devācārya](devacarya.md) — `skeleton`
+- [Devānampiya Tissa](devanampiya-tissa.md) — `skeleton`
+- [Dhammadinnā](dhammadinna.md) — `skeleton`
+- [Dhammapāla](dhammapala.md) — `skeleton`
 - [Dhanapati Sūri](dhanapati-suri.md) — `sourced`
 - [Dhanañjaya](dhananjaya.md) — `skeleton`
 - [Dhanika](dhanika.md) — `skeleton`
 - [Dhannā](dhanna.md) — `skeleton`
 - [Dhanvantari (Divodāsa, king of Kāśī)](dhanvantari.md) — `skeleton`
 - [Dharamdās](dharamdas.md) — `skeleton`
+- [Dharasena](dharasena.md) — `skeleton`
 - [Dharma (the god; Yama Dharmarāja)](dharma.md) — `sourced`
 - [Dharmadhvaja Janaka](dharmadhvaja-janaka.md) — `sourced`
+- [Dharmadāsa](dharmadasa-sthanakavasi.md) — `skeleton`
+- [Dharmagupta](dharmagupta.md) — `skeleton`
+- [Dharmakīrti](dharmakirti.md) — `skeleton`
+- [Dharmakṣema](dharmaksema.md) — `skeleton`
 - [Dharmamegha Āraṇya](dharmamegha-aranya.md) — `skeleton` _(recent)_
+- [Dharmanandi](dharmanandi.md) — `skeleton`
 - [Dharmanātha](dharmanatha.md) — `skeleton`
+- [Dharmapāla (Yogācāra)](dharmapala.md) — `skeleton`
+- [Dharmarakṣa](dharmaraksa.md) — `skeleton`
 - [Dharmarāja Adhvarīndra](dharmaraja-adhvarindra.md) — `skeleton`
+- [Dharmasiṃha](dharmasimha.md) — `skeleton`
+- [Dharmatrāta](dharmatrata.md) — `skeleton`
+- [Dharmatrāta (author of the Saṃyuktābhidharmahṛdaya)](dharmatrata-samyuktahrdaya.md) — `skeleton`
+- [Dharmaśrī](dharmasri.md) — `skeleton`
+- [Dharmodgata](dharmodgata.md) — `skeleton`
+- [Dharmottara](dharmottara.md) — `skeleton`
 - [Dhruva](dhruva.md) — `skeleton`
 - [Dhruvadās](dhruvadas.md) — `skeleton`
 - [Dhuṇḍisuta Mālu (Narahari Mālu)](dhundisuta-malu.md) — `skeleton` _(recent)_
 - [Dhṛtarāṣṭra](dhrtarastra.md) — `sourced`
 - [Dhṛṣṭadyumna](dhrstadyumna.md) — `skeleton`
 - [Dhṛṣṭaketu](dhrstaketu.md) — `skeleton`
+- [Dignāga](dignaga.md) — `skeleton`
 - [Digvijaynāth](digvijaynath.md) — `skeleton` _(recent)_
 - [Dinakara Bhaṭṭa](dinakara-bhatta.md) — `skeleton`
+- [Dipa Ma](dipa-ma.md) — `skeleton` _(recent)_
 - [Doḍḍayācārya](doddayacarya.md) — `skeleton`
+- [Doṇa](dona-brahmana.md) — `skeleton`
 - [Dramiḍa (Draviḍācārya)](dramida.md) — `skeleton`
 - [Draupadī (Kṛṣṇā, Pāñcālī)](draupadi.md) — `sourced`
 - [Droṇa](drona.md) — `skeleton`
 - [Drupada](drupada.md) — `skeleton`
-- [Drāhyāyaṇa](drahyayana.md) — `skeleton`
+- [Drāhyāyaṇa](drahyayana.md) — `sourced`
 - [Duddu Śāh](duddu-sah.md) — `skeleton` _(recent)_
 - [Duggaḷe](duggale.md) — `skeleton`
-- [Durga (Durgācārya)](durgacarya.md) — `skeleton`
+- [Durga (Durgācārya)](durgacarya.md) — `sourced`
+- [Durvekamiśra](durvekamisra.md) — `skeleton`
 - [Durvāsas](durvasas.md) — `skeleton`
 - [Duryodhana](duryodhana.md) — `skeleton`
+- [Dyānatrāy](dyanatray.md) — `skeleton`
 - [Dādū Dayāl](dadu.md) — `skeleton`
 - [Dāmodara (author of the Saṅgītadarpaṇa)](damodara-sangitadarpana.md) — `skeleton`
 - [Dāmodara Paṇḍita](damodara-pandita-mahanubhava.md) — `skeleton`
@@ -325,17 +453,22 @@ skeleton: 1375 · sourced: 179
 - [Dāruka](daruka.md) — `skeleton`
 - [Dārā Shikoh](dara-shikoh.md) — `skeleton`
 - [Dēvara Dāsimayya](devara-dasimayya.md) — `skeleton`
+- [Dīghajāṇu](dighajanu.md) — `skeleton`
+- [Dīpaṅkara](dipankara.md) — `skeleton`
 - [Dīrghatamas](dirghatamas.md) — `sourced`
 - [Dōhara Kakkayya](dohara-kakkayya.md) — `skeleton`
+- [Dōshō](dosho.md) — `skeleton`
 - [Dṛḍhabala](drdhabala.md) — `skeleton`
 - [Eknāth](eknath.md) — `skeleton`
 - [Embār](embar.md) — `skeleton`
 - [Eṟipatta Nāyaṉār](eripattar.md) — `skeleton`
+- [Faxian](faxian.md) — `skeleton`
 - [Gadādhara Bhaṭṭācārya](gadadhara-bhattacarya.md) — `skeleton`
 - [Gadādhara Paṇḍita](gadadhara-pandita.md) — `skeleton`
 - [Gagan Harkarā](gagan-harkara.md) — `skeleton` _(recent)_
 - [Gahinīnāth](gahininath.md) — `skeleton`
 - [Gahinīnātha](gahininatha.md) — `skeleton`
+- [Gajasukumāla](gajasukumala.md) — `skeleton`
 - [Gambhīrnāth](gambhirnath.md) — `skeleton` _(recent)_
 - [Gardabhīvipīta Bhāradvāja](gardabhivipita-bharadvaja.md) — `skeleton`
 - [Garga (as teacher of saṃhitā)](garga.md) — `skeleton`
@@ -347,9 +480,10 @@ skeleton: 1375 · sourced: 179
 - [Garībdās of Chhuḍānī](garibdas.md) — `skeleton`
 - [Gaura Kiśora Dāsa Bābājī](gaura-kisora-dasa-babaji.md) — `skeleton` _(recent)_
 - [Gauraṇa](gauranna.md) — `skeleton`
-- [Gautama (author of the Dharmasūtra)](gautama-dharmasutrakara.md) — `skeleton`
+- [Gautama (author of the Dharmasūtra)](gautama-dharmasutrakara.md) — `sourced`
 - [Gautama (questioner of the Haṃsa)](gautama-hamsa.md) — `skeleton`
 - [Gautama Akṣapāda](gautama-aksapada.md) — `skeleton`
+- [Gautama Saṅghadeva](gautama-sanghadeva.md) — `skeleton`
 - [Gautamī](gautami.md) — `sourced`
 - [Gauḍapāda](gaudapada.md) — `skeleton`
 - [Gauḍīya Śaṅkara](gaudiya-sankara.md) — `skeleton`
@@ -358,15 +492,18 @@ skeleton: 1375 · sourced: 179
 - [Gaṅgādhara Kaviratna](gangadhara-kaviratna.md) — `skeleton` _(recent)_
 - [Gaṅgādharendra Sarasvatī](gangadharendra-sarasvati.md) — `skeleton`
 - [Gaṅgāmbike](gangambike.md) — `skeleton`
+- [Gaṇaka Moggallāna](ganaka-moggallana.md) — `skeleton`
 - [Gaṇeśa (author of the Jātakālaṅkāra)](ganesa-kavi.md) — `skeleton`
 - [Gaṇeśa (Gajānana)](ganesa.md) — `skeleton`
 - [Gaṇeśa Daivajña](ganesa-daivajna.md) — `skeleton`
 - [Gheraṇḍa](gheranda.md) — `skeleton`
 - [Ghora Āṅgirasa](ghora-angirasa.md) — `skeleton`
+- [Ghoṣaka](ghosaka.md) — `skeleton`
 - [Ghoṣā Kākṣīvatī](ghosa.md) — `sourced`
 - [Ghāsīdās](ghasidas.md) — `skeleton` _(recent)_
 - [Giridhara (Giridharajī, of the Vallabha line)](giridhara-pustimarga.md) — `skeleton`
-- [Gobhila](gobhila.md) — `skeleton`
+- [Girimānanda](girimananda.md) — `skeleton`
+- [Gobhila](gobhila.md) — `sourced`
 - [Godhā](godha.md) — `sourced`
 - [Gokulnāth](gokulnath.md) — `skeleton`
 - [Gopurarakṣita](gopuraraksita.md) — `skeleton`
@@ -378,6 +515,7 @@ skeleton: 1375 · sourced: 179
 - [Gopīnātha (elder son of Vallabha)](gopinatha-vallabha.md) — `skeleton`
 - [Gorakṣanātha](goraksanatha.md) — `skeleton`
 - [Gorā Kumbhār](gora-kumbhar.md) — `skeleton`
+- [Gotama Buddha](gotama-buddha.md) — `skeleton`
 - [Gotama Rāhūgaṇa](gotama-rahugana.md) — `sourced`
 - [Govinda (author of the Rasahṛdayatantra)](govinda-rasahrdaya.md) — `skeleton`
 - [Govinda Bhagavatpāda](govinda-bhagavatpada.md) — `skeleton`
@@ -387,7 +525,7 @@ skeleton: 1375 · sourced: 179
 - [Govinda Dīkṣita](govinda-diksita.md) — `skeleton`
 - [Govindaprabhu (Guṇḍam Rāüḷ)](govindaprabhu.md) — `skeleton`
 - [Govindarāja](govindaraja.md) — `sourced`
-- [Govindasvāmin](govindasvamin.md) — `skeleton`
+- [Govindasvāmin](govindasvamin.md) — `sourced`
 - [Govindsvāmī](govindsvami.md) — `skeleton`
 - [Govindānanda](govindananda.md) — `skeleton`
 - [Guhadeva](guhadeva.md) — `skeleton`
@@ -395,9 +533,17 @@ skeleton: 1375 · sourced: 179
 - [Gummaḷāpurada Siddhaliṅgayati](gummalapura-siddhalingayati.md) — `skeleton`
 - [Gurinder Singh Dhillon (Baba Gurinder Singh)](gurinder-singh-dhillon.md) — `skeleton` _(recent)_
 - [Gurupad Sambhav Rām](gurupad-sambhav-ram.md) — `skeleton` _(recent)_
+- [Guṇa Kassapa (Jātaka)](guna-kassapa.md) — `skeleton`
+- [Guṇabhadra](gunabhadra.md) — `skeleton`
 - [Guṇacandra](gunacandra.md) — `skeleton`
+- [Guṇadhara](gunadhara.md) — `skeleton`
+- [Guṇamati](gunamati.md) — `skeleton`
+- [Guṇaprabha](gunaprabha.md) — `skeleton`
+- [Guṇaratna](gunaratna.md) — `skeleton`
+- [Gyaltsab Je](gyaltsab-je.md) — `skeleton`
+- [Gö Lotsawa Zhönnu Pel](go-lotsawa.md) — `skeleton`
 - [Gāgā Bhaṭṭa](gaga-bhatta.md) — `skeleton`
-- [Gārgya](gargya.md) — `skeleton`
+- [Gārgya](gargya.md) — `sourced`
 - [Gārgya Bālāki](gargya-balaki.md) — `skeleton`
 - [Gārgī (in the Yoga Yājñavalkya)](gargi-yoga-yajnavalkya.md) — `skeleton`
 - [Gārgī Vācaknavī](gargi-vacaknavi.md) — `skeleton`
@@ -407,10 +553,12 @@ skeleton: 1375 · sourced: 179
 - [Gūḷūra Siddhavīraṇṇoḍeya](gulura-siddhavirannodeya.md) — `skeleton`
 - [Gṛtsamada](grtsamada.md) — `sourced`
 - [Halageyārya](halageyarya.md) — `skeleton`
-- [Halāyudha](halayudha.md) — `skeleton`
+- [Halāyudha](halayudha.md) — `sourced`
 - [Hanumān](hanuman.md) — `sourced`
-- [Haradatta](haradatta.md) — `skeleton`
+- [Haradatta](haradatta.md) — `sourced`
 - [Haradatta (Pāśupata ācārya)](haradatta-pasupata.md) — `skeleton`
+- [Haribhadra (Buddhist)](haribhadra-buddhist.md) — `skeleton`
+- [Haribhadra Sūri](haribhadra.md) — `skeleton`
 - [Haridatta](haridatta.md) — `skeleton`
 - [Harideva](harideva.md) — `skeleton`
 - [Haridās Nirañjanī](haridas-niranjani.md) — `skeleton`
@@ -421,46 +569,56 @@ skeleton: 1375 · sourced: 179
 - [Harirām Vyās](hariram-vyas.md) — `skeleton`
 - [Harirāma Tarkavāgīśa](harirama-tarkavagisa.md) — `skeleton`
 - [Harirāy (Harirāyajī)](harirai.md) — `skeleton`
-- [Harisvāmin](harisvamin.md) — `skeleton`
+- [Harisvāmin](harisvamin.md) — `sourced`
 - [Haritāyana](haritayana.md) — `skeleton`
+- [Harivarman](harivarman.md) — `skeleton`
 - [Harivyāsadeva](harivyasa-deva.md) — `skeleton`
+- [Hariṣeṇa](harisena.md) — `skeleton`
 - [Hastāmalaka](hastamalaka.md) — `skeleton`
 - [Hayagrīva](hayagriva.md) — `skeleton`
 - [Haḍapada Appaṇṇa](hadapada-appanna.md) — `skeleton`
 - [Haḍapada Liṅgamma](hadapada-lingamma.md) — `skeleton`
 - [Haṃsa (the Lord as swan)](hamsa-avatara.md) — `skeleton`
 - [Helārāja](helaraja.md) — `skeleton`
-- [Hemacandra](hemacandra.md) — `skeleton`
+- [Hemacandra](hemacandra.md) — `sourced`
 - [Hemaprabha](hemaprabha.md) — `skeleton`
-- [Hemādri](hemadri.md) — `skeleton`
+- [Hemrāj Pāṇḍe](hemraj-pande.md) — `skeleton`
+- [Hemādri](hemadri.md) — `sourced`
 - [Himavat (Himālaya)](himavat.md) — `skeleton`
 - [Hiraṇyadāma](hiranyadama.md) — `skeleton`
 - [Hiraṇyagarbha](hiranyagarbha.md) — `sourced`
 - [Hiraṇyagarbha Prājāpatya](hiranyagarbha-prajapatya.md) — `sourced`
-- [Hiraṇyakeśin (Satyāṣāḍha)](hiranyakesin.md) — `skeleton`
+- [Hiraṇyakeśin (Satyāṣāḍha)](hiranyakesin.md) — `sourced`
 - [Hiraṇyanābha Kausalya](hiranyanabha-kausalya.md) — `skeleton`
 - [Hiraṇyastūpa Āṅgirasa](hiranyastupa.md) — `sourced`
 - [Hiraṇyākṣa Kauśika](hiranyaksa-kausika.md) — `skeleton`
 - [Hita Harivaṃśa](hita-harivamsa.md) — `skeleton`
+- [Huiguang](huiguang.md) — `skeleton`
+- [Hālāhalā](halahala.md) — `skeleton`
 - [Hānagal Kumāra Svāmi](hanagal-kumarasvami.md) — `skeleton` _(recent)_
 - [Hāridrumata Gautama](haridrumata-gautama.md) — `skeleton`
 - [Hārīta (disciple of Ātreya)](harita-ayurveda.md) — `skeleton`
 - [Hārīta (Sāṃkhya teacher)](harita-samkhya.md) — `skeleton`
 - [Hārītaka](haritaka.md) — `skeleton`
 - [Hāsan Rājā](hasan-raja.md) — `skeleton` _(recent)_
+- [Hīravijayasūri](hiravijaya-suri.md) — `skeleton`
 - [Hṛdayaśiva](hrdayasiva.md) — `skeleton`
 - [Hṛṣīkeśa Tīrtha](hrsikesa-tirtha.md) — `skeleton`
 - [Icaiñāṉiyār](icainaniyar.md) — `skeleton`
 - [Ikṣvāku](iksvaku.md) — `sourced`
 - [Indra (as student and teacher)](indra.md) — `skeleton`
+- [Indrabhūti Gautama](indrabhuti-gautama.md) — `skeleton`
 - [Indradyumna Bhāllaveya](indradyumna-bhallaveya.md) — `skeleton`
+- [Indranandi](indranandi.md) — `skeleton`
 - [Indrāṇī](indrani.md) — `sourced`
 - [Indu (commentator on the Aṣṭāṅgasaṅgraha)](indu-sasilekha.md) — `skeleton`
 - [Iyaṟpakai Nāyaṉār](iyarpakai.md) — `skeleton`
 - [Iḷaiyāṉkuṭi Māṟa Nāyaṉār](ilaiyankuti-marar.md) — `skeleton`
+- [Iḷaṅkō Aṭikaḷ](ilanko-atikal.md) — `skeleton`
 - [Iṭaikkāṭar](idaikkadar.md) — `skeleton`
 - [Iṭaṅkaḻi Nāyaṉār](itankaliyar.md) — `skeleton`
 - [Jabālā (mother of Satyakāma)](jabala.md) — `skeleton`
+- [Jagaccandrasūri](jagaccandra-suri.md) — `skeleton`
 - [Jagaddhara Bhaṭṭa](jagaddhara-bhatta.md) — `skeleton`
 - [Jagadīśa Tarkālaṅkāra](jagadisa-tarkalankara.md) — `skeleton`
 - [Jagannātha Paṇḍitarāja](jagannatha-panditaraja.md) — `skeleton`
@@ -471,9 +629,12 @@ skeleton: 1375 · sourced: 179
 - [Jaimal Singh (Baba Ji Maharaj)](jaimal-singh.md) — `skeleton` _(recent)_
 - [Jaimini](jaimini.md) — `sourced`
 - [Jamadagni](jamadagni.md) — `sourced`
+- [Jambukhādaka](jambukhadaka.md) — `skeleton`
+- [Jambū (Jambūsvāmin)](jambu.md) — `skeleton`
+- [Jamāli](jamali.md) — `skeleton`
 - [Jana Śārkarākṣya](jana-sarkaraksya.md) — `skeleton`
 - [Janadeva Janaka](janadeva-janaka.md) — `sourced`
-- [Janaka of Videha](janaka.md) — `skeleton`
+- [Janaka of Videha](janaka.md) — `sourced`
 - [Janamejaya](janamejaya.md) — `sourced`
 - [Jangopāl](jangopal.md) — `skeleton`
 - [Janābāī](janabai.md) — `skeleton`
@@ -484,23 +645,43 @@ skeleton: 1375 · sourced: 179
 - [Jayadeva](jayadeva.md) — `skeleton`
 - [Jayamiśra](jayamisra.md) — `skeleton`
 - [Jayanta Bhaṭṭa](jayanta-bhatta.md) — `skeleton`
+- [Jayantī](jayanti.md) — `skeleton`
 - [Jayaratha](jayaratha.md) — `skeleton`
+- [Jayarāśi Bhaṭṭa](jayarasi-bhatta.md) — `skeleton`
+- [Jayasena (commentator on Kundakunda)](jayasena-commentator.md) — `skeleton`
 - [Jayatarāma](jayatarama.md) — `skeleton`
 - [Jayatīrtha](jayatirtha.md) — `sourced`
-- [Jayāditya](jayaditya.md) — `skeleton`
+- [Jayācārya (Jītmal)](jayacarya.md) — `skeleton` _(recent)_
+- [Jayāditya](jayaditya.md) — `sourced`
 - [Jayānanda](jayananda.md) — `skeleton`
+- [Jayānanda (Madhyamaka)](jayananda-madhyamaka.md) — `skeleton`
 - [Jaḍa Bharata](jada-bharata.md) — `skeleton`
 - [Jaḍabharata](jadabharata.md) — `skeleton`
 - [Jejjaṭa](jejjata.md) — `skeleton`
 - [Jhālī Rānī of Chittor](jhali-rani.md) — `skeleton`
-- [Jinendrabuddhi](jinendrabuddhi.md) — `skeleton`
+- [Jianzhen](jianzhen.md) — `skeleton`
+- [Jinabhadra Gaṇi Kṣamāśramaṇa](jinabhadra.md) — `skeleton`
+- [Jinadattasūri](jinadatta-suri.md) — `skeleton`
+- [Jinadāsagaṇi Mahattara](jinadasa-gani.md) — `skeleton`
+- [Jinakuśalasūri](jinakusala-suri.md) — `skeleton`
+- [Jinamitra](jinamitra.md) — `skeleton`
+- [Jinaprabha Sūri](jinaprabha-suri.md) — `skeleton`
+- [Jinaputra](jinaputra.md) — `skeleton`
+- [Jinasena (author of the Ādipurāṇa)](jinasena.md) — `skeleton`
+- [Jinasena of the Punnāṭa saṅgha](jinasena-punnata.md) — `skeleton`
+- [Jinavallabhasūri](jinavallabha-suri.md) — `skeleton`
+- [Jinendrabuddhi](jinendrabuddhi.md) — `sourced`
+- [Jineśvarasūri](jinesvara-suri.md) — `skeleton`
 - [Jitvan Śailini](jitvan-sailini.md) — `skeleton`
+- [Jitāri](jitari.md) — `skeleton`
 - [Juhū Brahmajāyā](juhu-brahmajaya.md) — `sourced`
 - [Julian P. Johnson](julian-johnson.md) — `skeleton` _(recent)_
 - [Jyeṣṭhadeva](jyesthadeva.md) — `skeleton`
+- [Jñānagarbha](jnanagarbha.md) — `skeleton`
 - [Jñānanetra (Śivānanda)](jnananetra.md) — `skeleton`
 - [Jñānaprakāśa](jnanaprakasa.md) — `skeleton`
 - [Jñānaśiva](jnanasiva.md) — `skeleton`
+- [Jñānaśrīmitra](jnanasrimitra.md) — `skeleton`
 - [Jñāneśvar](jnanesvar.md) — `sourced`
 - [Jñānottama](jnanottama.md) — `skeleton`
 - [Jñānānanda Paramahaṃsa](jnanananda-paramahamsa.md) — `skeleton`
@@ -512,28 +693,34 @@ skeleton: 1375 · sourced: 179
 - [Jānaśruti Pautrāyaṇa](janasruti-pautrayana.md) — `skeleton`
 - [Jāratkārava Ārtabhāga](artabhaga.md) — `skeleton`
 - [Jātavēdamuni](jatavedamuni.md) — `skeleton`
-- [Jīmūtavāhana](jimutavahana.md) — `skeleton`
+- [Jīmūtavāhana](jimutavahana.md) — `sourced`
 - [Jīva Gosvāmī](jiva-gosvami.md) — `skeleton`
+- [Jīvaka Komārabhacca](jivaka.md) — `skeleton`
 - [Jīvaśarman](jivasarman.md) — `skeleton`
 - [K. S. Krishnamurti](ks-krishnamurti.md) — `skeleton` _(recent)_
 - [Kabandhī Kātyāyana](kabandhi-katyayana.md) — `skeleton`
 - [Kabīr](kabir.md) — `skeleton`
+- [Kaccānagotta](kaccanagotta.md) — `skeleton`
 - [Kahola Kauṣītakeya](kahola-kausitakeya.md) — `skeleton`
 - [Kailāspati Bābā](kailaspati-baba.md) — `skeleton` _(recent)_
 - [Kairāta](kairata.md) — `skeleton`
 - [Kaivalyāśrama](kaivalyasrama.md) — `skeleton`
 - [Kaiyadeva](kaiyadeva.md) — `skeleton`
-- [Kaiyaṭa](kaiyata.md) — `skeleton`
+- [Kaiyaṭa](kaiyata.md) — `sourced`
+- [Kakusandha](kakusandha.md) — `skeleton`
 - [Kakṣīvant](kaksivant.md) — `sourced`
 - [Kalikkampa Nāyaṉār](kalikkampar.md) — `skeleton`
 - [Kaliya Nāyaṉār](kaliyar.md) — `skeleton`
 - [Kallinātha](kallinatha.md) — `skeleton`
 - [Kalyāṇ Svāmī](kalyana-svami.md) — `skeleton`
 - [Kalyāṇavarman](kalyanavarman.md) — `skeleton`
+- [Kamalabuddhi](kamalabuddhi.md) — `skeleton`
 - [Kamalamuṉi](kamalamuni.md) — `skeleton`
+- [Kamalaśīla](kamalasila.md) — `skeleton`
 - [Kamalākara (astronomer)](kamalakara-daivajna.md) — `skeleton`
-- [Kamalākara Bhaṭṭa](kamalakara-bhatta.md) — `skeleton`
+- [Kamalākara Bhaṭṭa](kamalakara-bhatta.md) — `sourced`
 - [Kamalākānta Bhaṭṭācārya](kamalakanta.md) — `skeleton`
+- [Kambalāśvatara](kambalasvatara.md) — `skeleton`
 - [Kampaṉ](kampan.md) — `skeleton`
 - [Kamta Prasad Sinha (Sarkar Sahab)](kamta-prasad-sinha.md) — `skeleton` _(recent)_
 - [Kamāl](kamal.md) — `skeleton`
@@ -546,6 +733,10 @@ skeleton: 1375 · sourced: 179
 - [Karuvūrār](karuvurar.md) — `skeleton`
 - [Karāla Janaka](karala-janaka.md) — `sourced`
 - [Karṇa](karna.md) — `skeleton`
+- [Karṇakagomin](karnakagomin.md) — `skeleton`
+- [Kasibhāradvāja](kasibharadvaja.md) — `skeleton`
+- [Kassapa (Buddha)](kassapa-buddha.md) — `skeleton`
+- [Kassapa (of the Cola country)](kassapa-mohavicchedani.md) — `skeleton`
 - [Kauruṣya](kaurusya.md) — `skeleton`
 - [Kausalya Āśvalāyana](kausalya-asvalayana.md) — `skeleton`
 - [Kautsa](kautsa.md) — `sourced`
@@ -553,8 +744,8 @@ skeleton: 1375 · sourced: 179
 - [Kauṇḍa Bhaṭṭa](kaunda-bhatta.md) — `skeleton`
 - [Kauṇḍinya](kaundinya.md) — `skeleton`
 - [Kauṇḍinya (Sāṃkhya teacher)](kaundinya-samkhya.md) — `skeleton`
-- [Kauṣītaki](kausitaki.md) — `skeleton`
-- [Kauṭilya](kautilya.md) — `skeleton`
+- [Kauṣītaki](kausitaki.md) — `sourced`
+- [Kauṭilya](kautilya.md) — `sourced`
 - [Kavaṣa Ailūṣa](kavasa-ailusa.md) — `sourced`
 - [Kavikarṇapūra (Paramānanda Sena)](kavi-karnapura.md) — `skeleton`
 - [Kavirāja Yati](kaviraja-yati.md) — `skeleton`
@@ -565,6 +756,7 @@ skeleton: 1375 · sourced: 179
 - [Kaṇampulla Nāyaṉār](kanampullar.md) — `skeleton`
 - [Kaṇanātha Nāyaṉār](kananatar.md) — `skeleton`
 - [Kaṇikaṇṇaṉ](kanikannan.md) — `skeleton`
+- [Kaṇimētāviyār](kanimetaviyar.md) — `skeleton`
 - [Kaṇva](kanva.md) — `sourced`
 - [Kaṇāda](kanada.md) — `skeleton`
 - [Kaṇṇappa Nāyaṉār](kannappar.md) — `skeleton`
@@ -579,28 +771,45 @@ skeleton: 1375 · sourced: 179
 - [Keśava Kāśmīrī Bhaṭṭa](kesava-kasmiri.md) — `sourced`
 - [Keśava Miśra](kesava-misra.md) — `skeleton`
 - [Keśidhvaja](kesidhvaja.md) — `skeleton`
+- [Keśin (Keśikumāra Śramaṇa)](kesi-kumara.md) — `skeleton`
 - [Keśobās (Keśirāja Vyās)](kesobas.md) — `skeleton`
 - [Keḷadi Basavarāja](keladi-basavaraja.md) — `skeleton`
 - [Khaṇḍadeva Miśra](khandadeva.md) — `skeleton`
+- [Khedrup Je Gelek Pelzang](khedrup-je.md) — `skeleton`
+- [Khema (author of the Khemappakaraṇa)](khema-khemappakarana.md) — `skeleton`
+- [Khemaka](khemaka.md) — `skeleton`
+- [Kheminda Thera](kheminda-thera.md) — `skeleton` _(recent)_
+- [Khemā](khema.md) — `skeleton`
+- [Khujjuttarā](khujjuttara.md) — `skeleton`
 - [Khāṇḍikya Janaka](khandikya.md) — `skeleton`
 - [Kinnari Bommayya](kinnari-bommayya.md) — `skeleton`
 - [Kirpal Singh](kirpal-singh.md) — `skeleton` _(recent)_
+- [Kisa Saṅkicca](kisa-sankicca.md) — `skeleton`
+- [Kisāgotamī](kisagotami.md) — `skeleton`
 - [Kiḍāmbi Āccāṉ](kidambi-accan.md) — `skeleton`
 - [Kohala](kohala.md) — `skeleton`
 - [Koṅkaṇar](konganar.md) — `skeleton`
+- [Koṇāgamana](konagamana.md) — `skeleton`
 - [Kriyāśakti](kriyasakti.md) — `skeleton`
 - [Kubir Gõsāi](kubir-gosai.md) — `skeleton` _(recent)_
+- [Kuiji](kuiji.md) — `skeleton`
 - [Kulacciṟai Nāyaṉār](kulacciraiyar.md) — `skeleton`
 - [Kulaśekhara Āḻvār](kulasekhara-alvar.md) — `skeleton`
-- [Kullūka Bhaṭṭa](kulluka.md) — `skeleton`
+- [Kullūka Bhaṭṭa](kulluka.md) — `sourced`
 - [Kumbhakarṇa (Mahārāṇā Kumbhā of Mewar)](kumbhakarna-mewar.md) — `skeleton`
 - [Kumbhakarṇa (Rāṇā Kumbhā)](kumbhakarna.md) — `skeleton`
 - [Kumbhandās](kumbhandas.md) — `skeleton`
 - [Kumudavalli](kumudavalli.md) — `skeleton`
+- [Kumāra Kassapa](kumara-kassapa.md) — `skeleton`
 - [Kumāra Varadācārya](kumara-varadacarya.md) — `skeleton`
+- [Kumārajīva](kumarajiva.md) — `skeleton`
+- [Kumārakassapa](kumarakassapa.md) — `skeleton`
+- [Kumāralāta](kumaralata.md) — `skeleton`
 - [Kumāraśiras Bharadvāja](kumarasiras-bharadvaja.md) — `skeleton`
 - [Kumārila Bhaṭṭa](kumarila.md) — `skeleton`
+- [Kundakunda](kundakunda.md) — `skeleton`
 - [Kuntaka](kuntaka.md) — `skeleton`
+- [Kunthunātha](kunthunatha.md) — `skeleton`
 - [Kuntibhoja](kuntibhoja.md) — `skeleton`
 - [Kuntī](kunti.md) — `skeleton`
 - [Kurukai Kāvalappaṉ](kurukai-kavalappan.md) — `skeleton`
@@ -611,6 +820,7 @@ skeleton: 1375 · sourced: 179
 - [Kuṭampai (Kutampaic cittar)](kudambai.md) — `skeleton`
 - [Kākacaṇḍīśvara](kakacandisvara.md) — `skeleton`
 - [Kākapucuṇṭar (Kākabhuśuṇḍa)](kakapusundar.md) — `skeleton`
+- [Kālaka (Kālakācārya)](kalakacarya.md) — `skeleton`
 - [Kālidāsa](kalidasa.md) — `skeleton`
 - [Kālidāsa (as ascribed author of the Uttarakālāmṛta)](kalidasa-jyotisa.md) — `skeleton`
 - [Kālāgnirudra](kalagnirudra.md) — `skeleton`
@@ -620,12 +830,15 @@ skeleton: 1375 · sourced: 179
 - [Kāmeśvarasūri](kamesvarasuri.md) — `skeleton`
 - [Kāmukāyana](kamukayana.md) — `skeleton`
 - [Kānhopātrā](kanhopatra.md) — `skeleton`
+- [Kāpaṭika Bhāradvāja](kapathika.md) — `skeleton`
 - [Kāpya](kapya.md) — `skeleton`
 - [Kāraikkāl Ammaiyār](karaikkal-ammaiyar.md) — `skeleton`
 - [Kāri Nāyaṉār](kari-nayanar.md) — `skeleton`
+- [Kāriyācāṉ](kariyacan.md) — `skeleton`
 - [Kārṣṇājini](karsnajini.md) — `skeleton`
 - [Kātyāyana](katyayana.md) — `sourced`
 - [Kātyāyanī](katyayani.md) — `skeleton`
+- [Kātyāyanīputra](katyayaniputra.md) — `skeleton`
 - [Kāśakṛtsna](kasakrtsna.md) — `skeleton`
 - [Kāśīrāma Vaidya](kasirama-vaidya.md) — `skeleton`
 - [Kāṅgāl Harināth (Harināth Majumdar)](kangal-harinath.md) — `skeleton` _(recent)_
@@ -639,6 +852,7 @@ skeleton: 1375 · sourced: 179
 - [Kōṭpuli Nāyaṉār](kotpuliyar.md) — `skeleton`
 - [Kūrakulottama Dāsar](kura-kulottama-dasa.md) — `skeleton`
 - [Kūreśa](kuresa.md) — `skeleton`
+- [Kūṇika (Ajātaśatru)](kunika-ajatasatru.md) — `skeleton`
 - [Kūṟṟuva Nāyaṉār](kurruvar.md) — `skeleton`
 - [Kṛpa](krpa.md) — `skeleton`
 - [Kṛṣṇa (Vāsudeva)](krsna.md) — `sourced`
@@ -652,29 +866,39 @@ skeleton: 1375 · sourced: 179
 - [Kṣemarāja](ksemaraja.md) — `skeleton`
 - [Kṣemendra](ksemendra.md) — `skeleton`
 - [Kṣetrayya](ksetrayya.md) — `skeleton`
+- [Kṣitigarbha](ksitigarbha.md) — `skeleton`
 - [Kṣārapāṇi](ksarapani.md) — `skeleton`
 - [Laba Aindra](laba-aindra.md) — `sourced`
-- [Lagadha](lagadha.md) — `skeleton`
+- [Lachen Gongpa Rabsal](lachen-gongpa-rabsal.md) — `skeleton`
+- [Lagadha](lagadha.md) — `sourced`
 - [Laghubhaṭṭāraka](laghubhattaraka.md) — `skeleton`
 - [Lakkaṇṇa Daṇḍēśa](lakkanna-dandesa.md) — `skeleton`
 - [Lakulīśa](lakulisa.md) — `skeleton`
 - [Lakṣmaṇa](laksmana.md) — `skeleton`
 - [Lakṣmaṇa Deśika](laksmana-desika.md) — `skeleton`
 - [Lakṣmaṇagupta](laksmanagupta.md) — `skeleton`
-- [Lakṣmīdhara](laksmidhara.md) — `skeleton`
+- [Lakṣmīdhara](laksmidhara.md) — `sourced`
 - [Lakṣmīdhara (Lolla Lakṣmīdhara)](lolla-laksmidhara.md) — `skeleton`
 - [Lakṣmīdhara Kavi](laksmidhara-kavi.md) — `skeleton`
 - [Lal Ded (Lalleśvarī, Lallā)](lal-ded.md) — `skeleton`
 - [Lalla](lalla.md) — `skeleton`
+- [Lallujī Muni (Laghurāj Svāmī)](lalluji-muni.md) — `skeleton` _(recent)_
 - [Lalon Fakir (Lālan Sāṃi)](lalon-fakir.md) — `skeleton` _(recent)_
 - [Laugākṣi Bhāskara](laugaksi-bhaskara.md) — `skeleton`
+- [Lavjī Ṛṣi](lavji-rsi.md) — `skeleton`
+- [Ledi Sayadaw](ledi-sayadaw.md) — `skeleton` _(recent)_
 - [Locana Dāsa](locana-dasa.md) — `skeleton`
+- [Lokakṣema](lokaksema.md) — `skeleton`
 - [Lokanātha Gosvāmī](lokanatha-gosvami.md) — `skeleton`
 - [Lokasāraṅga Muni](lokasaranga-muni.md) — `skeleton`
 - [Lolimbarāja](lolimbaraja.md) — `skeleton`
 - [Lopāmudrā](lopamudra.md) — `sourced`
+- [Loṅkā Śāh](lonka-sah.md) — `skeleton`
+- [Luang Por Dhammajayo](dhammajayo.md) — `skeleton` _(recent)_
+- [Luang Pu Dune Atulo](luang-pu-dune.md) — `skeleton` _(recent)_
+- [Luang Pu Sodh Candasaro](luang-pu-sodh.md) — `skeleton` _(recent)_
 - [Lābukāyana](labukayana.md) — `skeleton`
-- [Lāṭyāyana](latyayana.md) — `skeleton`
+- [Lāṭyāyana](latyayana.md) — `sourced`
 - [Līlā](lila.md) — `skeleton`
 - [Maccamuṉi (Macchamuni)](macchamuni.md) — `skeleton`
 - [Madan Bāul](madan-baul.md) — `skeleton` _(recent)_
@@ -684,50 +908,82 @@ skeleton: 1375 · sourced: 179
 - [Madhusūdana Sarasvatī](madhusudana-sarasvati.md) — `sourced`
 - [Madhuvarasa](madhuvarasa.md) — `skeleton`
 - [Madhva](madhva.md) — `sourced`
+- [Madhyāntika](madhyantika.md) — `skeleton`
 - [Madālasā](madalasa.md) — `skeleton`
+- [Mae Chee Kaew Sianglam](mae-chee-kaew.md) — `skeleton` _(recent)_
 - [Mahadaisā (Mahadamba)](mahadaisa.md) — `skeleton`
 - [Maharshi Mehi Paramhans](maharshi-mehi.md) — `skeleton` _(recent)_
 - [Maheśacandra Nyāyaratna](mahesacandra-nyayaratna.md) — `skeleton` _(recent)_
 - [Maheśvarānanda](mahesvarananda.md) — `skeleton`
-- [Mahidāsa Aitareya](mahidasa-aitareya.md) — `skeleton`
+- [Mahidāsa Aitareya](mahidasa-aitareya.md) — `sourced`
 - [Mahimabhaṭṭa](mahimabhatta.md) — `skeleton`
+- [Mahinda](mahinda.md) — `skeleton`
+- [Mahādeva (of the five points)](mahadeva.md) — `skeleton`
 - [Mahādeva Vedāntin](mahadeva-vedantin.md) — `skeleton`
 - [Mahādevabhaṭṭa](mahadevabhatta.md) — `skeleton`
+- [Mahāgiri](mahagiri.md) — `skeleton`
+- [Mahākaccāna](mahakaccana.md) — `skeleton`
+- [Mahākassapa](mahakassapa.md) — `skeleton`
+- [Mahākoṭṭhita](mahakotthita.md) — `skeleton`
 - [Mahākāla](mahakala.md) — `skeleton`
+- [Mahāmati](mahamati.md) — `skeleton`
+- [Mahāmoggallāna](moggallana.md) — `skeleton`
+- [Mahānāma (author of the Mahāvaṃsa)](mahanama-mahavamsa.md) — `skeleton`
+- [Mahānāma (author of the Saddhammappakāsinī)](mahanama-saddhammappakasini.md) — `skeleton`
+- [Mahānāma (of the five monks)](mahanama-thera.md) — `skeleton`
+- [Mahānāma the Sakyan](mahanama-sakka.md) — `skeleton`
+- [Mahāpajāpatī Gotamī](mahapajapati-gotami.md) — `skeleton`
+- [Mahāsi Sayadaw](mahasi-sayadaw.md) — `skeleton` _(recent)_
+- [Mahāsthāmaprāpta](mahasthamaprapta.md) — `skeleton`
+- [Mahāvīra (Vardhamāna)](mahavira.md) — `skeleton`
 - [Mahāvīrācārya](mahaviracarya.md) — `skeleton`
 - [Mahīdhara](mahidhara.md) — `sourced`
 - [Mahīpati](mahipati.md) — `skeleton`
 - [Maitreya](maitreya.md) — `skeleton`
 - [Maitreya (in Caraka's assembly)](maitreya-caraka.md) — `skeleton`
 - [Maitreya (sage)](maitreya-puranic.md) — `skeleton`
+- [Maitreya (the bodhisattva, future buddha)](maitreya-bodhisattva.md) — `skeleton`
+- [Maitreyanātha](maitreyanatha.md) — `skeleton`
 - [Maitreyī](maitreyi.md) — `skeleton`
+- [Maitrīpa](maitripa.md) — `skeleton`
+- [Makkhali Gosāla](makkhali-gosala.md) — `skeleton`
+- [Malayagiri](malayagiri.md) — `skeleton`
+- [Mallavādin](mallavadin.md) — `skeleton`
+- [Mallikā](mallika.md) — `skeleton`
 - [Mallikārjuna Paṇḍitārādhya](mallikarjuna-panditaradhya.md) — `skeleton`
+- [Mallinātha (Mallī)](mallinatha.md) — `skeleton`
+- [Malliṣeṇa (author of the Bhairava-Padmāvatī-kalpa)](mallisena-bhairava-padmavati.md) — `skeleton`
+- [Malliṣeṇa (author of the Syādvādamañjarī)](mallisena-syadvadamanjari.md) — `skeleton`
 - [Malūkdās](malukdas.md) — `skeleton`
 - [Mammaṭa](mammata.md) — `skeleton`
 - [Mangu Ram Mugowalia](mangu-ram.md) — `skeleton` _(recent)_
 - [Maniruddin Śāh](maniruddin-sah.md) — `skeleton` _(recent)_
 - [Manmatha (Kāma)](manmatha.md) — `skeleton`
+- [Manorathanandin](manorathanandin.md) — `skeleton`
 - [Manthānabhairava](mantharabhairava.md) — `skeleton`
 - [Mantreśvara](mantresvara.md) — `skeleton`
-- [Manu Svāyambhuva](manu-svayambhuva.md) — `skeleton`
+- [Manu Svāyambhuva](manu-svayambhuva.md) — `sourced`
 - [Manu Vaivasvata](manu-vaivasvata.md) — `sourced`
 - [Manulāl Miśra](manulal-misra.md) — `skeleton` _(recent)_
 - [Manuṣyaka](manusyaka.md) — `skeleton`
 - [Maritoṇṭadārya](maritontadarya.md) — `skeleton`
+- [Marudevī](marudevi.md) — `skeleton`
 - [Maruḷārādhya (Maruḷasiddha)](marularadhya.md) — `skeleton`
 - [Marīci](marici.md) — `skeleton`
 - [Marīci (in Caraka's assembly)](marici-ayurveda.md) — `skeleton`
-- [Maskarin](maskarin.md) — `skeleton`
+- [Maskarin](maskarin.md) — `sourced`
 - [Mastnāth](mastnath.md) — `skeleton`
 - [Mataṅga](matanga.md) — `skeleton`
 - [Mathurādāsa Ātā](mathuradasa-ata.md) — `skeleton`
 - [Mathurānātha Tarkavāgīśa](mathuranatha-tarkavagisa.md) — `skeleton`
 - [Matsyendranātha](matsyendranatha.md) — `skeleton`
 - [Maunappa Paṇḍita](maunappa-pandita.md) — `skeleton`
+- [Mauryaputra](mauryaputra.md) — `skeleton`
 - [Mauṉa kuru (the silent guru of Tāyumāṉavar)](mauna-guru.md) — `skeleton`
 - [Maya (the asura)](maya-asura.md) — `skeleton`
 - [Mayanāmatī](mayanamati.md) — `skeleton`
 - [Mañjula (Muñjāla)](manjula.md) — `skeleton`
+- [Mañjuśrī](manjusri.md) — `skeleton`
 - [Maḍivāḷa Mācayya](madivala-macayya.md) — `skeleton`
 - [Maṅkaiyarkkaraciyār](mankaiyarkkaraciyar.md) — `skeleton`
 - [Maṅki](manki.md) — `sourced`
@@ -737,24 +993,36 @@ skeleton: 1375 · sourced: 179
 - [Maṇikaṇṭha Miśra](manikantha-misra.md) — `skeleton`
 - [Maṇittha](manittha.md) — `skeleton`
 - [Maṇḍana Miśra](mandana-misra.md) — `skeleton`
+- [Maṇḍika (Maṇḍita)](mandika.md) — `skeleton`
 - [Maṉavācakaṅkaṭantār](manavacakam-katantar.md) — `skeleton`
 - [Maṟaimalai Aṭikaḷ](maraimalai-atikal.md) — `skeleton` _(recent)_
 - [Maṟaiñāṉa Campantar](marainana-campantar.md) — `skeleton`
 - [Medhas](medhas.md) — `skeleton`
 - [Medhya Kāṇva](medhya-kanva.md) — `sourced`
-- [Medhātithi](medhatithi.md) — `skeleton`
+- [Medhātithi](medhatithi.md) — `sourced`
 - [Medhātithi Kāṇva](medhatithi-kanva.md) — `sourced`
 - [Medhāvin](medhavin.md) — `sourced`
+- [Meghakumāra](meghakumara.md) — `skeleton`
 - [Meghanādāri Sūri](meghanadari-suri.md) — `skeleton`
+- [Meghavijaya](meghavijaya.md) — `skeleton`
+- [Meghiya](meghiya.md) — `skeleton`
 - [Merutuṅga (commentator on the Rasādhyāya)](merutunga.md) — `skeleton`
 - [Meruśāstrin](merusastrin.md) — `skeleton` _(recent)_
+- [Metteyya](metteyya.md) — `skeleton`
+- [Metārya](metarya.md) — `skeleton`
 - [Meykaṇṭār](meykantar.md) — `skeleton`
 - [Meypporuḷ Nāyaṉār](meypporul.md) — `skeleton`
 - [Mhāimbhaṭ](mhaimbhat.md) — `skeleton`
+- [Milinda](milinda.md) — `skeleton`
+- [Mingun Jetavana Sayadaw](mingun-jetavana-sayadaw.md) — `skeleton` _(recent)_
 - [Miskīndās](miskindas.md) — `skeleton`
 - [Mitra (Pāśupata)](mitra-pasupata.md) — `skeleton`
-- [Mitra Miśra](mitra-misra.md) — `skeleton`
+- [Mitra Miśra](mitra-misra.md) — `sourced`
+- [Moggaliputta Tissa](moggaliputta-tissa.md) — `skeleton`
+- [Mogharāja](mogharaja.md) — `skeleton`
+- [Mogok Sayadaw](mogok-sayadaw.md) — `skeleton` _(recent)_
 - [Mohandas K. Gandhi](mahatma-gandhi.md) — `sourced` _(recent)_
+- [Mokṣākaragupta](moksakaragupta.md) — `skeleton`
 - [Mudaliyāṇḍāṉ](mudaliyandan.md) — `skeleton`
 - [Muddadeva](muddadeva.md) — `skeleton`
 - [Muhammad Mansuruddin](muhammad-mansuruddin.md) — `skeleton` _(recent)_
@@ -764,12 +1032,14 @@ skeleton: 1375 · sourced: 179
 - [Mukunda Dāsa (Sahajiyā)](mukunda-dasa-sahajiya.md) — `skeleton`
 - [Mukundarām Cakravartī (Kavikaṅkaṇa)](mukundaram-cakravarti.md) — `skeleton`
 - [Mummaḍi Kṛṣṇarāja Woḍeyar III](mummadi-krsnaraja-wodeyar.md) — `skeleton` _(recent)_
+- [Munisuvrata](munisuvrata.md) — `skeleton`
 - [Muruka Nāyaṉār](murukar.md) — `skeleton`
 - [Murāri Gupta](murari-gupta.md) — `skeleton`
 - [Murāri Miśra](murari-misra.md) — `skeleton`
 - [Muttusvāmi Dīkṣitar](muttusvami-diksitar.md) — `skeleton` _(recent)_
 - [Muḍumba Narasiṃhasvāmin](mudumba-narasimhasvamin.md) — `skeleton`
 - [Muṉaiyaṭuvā Nāyaṉār](munaiyatuvar.md) — `skeleton`
+- [Muṉṟuṟai Araiyaṉār](munrurai-araiyanar.md) — `skeleton`
 - [Mādhava Kandali](madhava-kandali.md) — `skeleton`
 - [Mādhava Mukunda](madhava-mukunda.md) — `skeleton`
 - [Mādhava of Saṅgamagrāma](madhava-sangamagrama.md) — `skeleton`
@@ -779,12 +1049,17 @@ skeleton: 1375 · sourced: 179
 - [Mādhavakara](madhavakara.md) — `skeleton`
 - [Mādhavendra Purī](madhavendra-puri.md) — `skeleton`
 - [Mādāra Cennayya](madara-cennayya.md) — `skeleton`
+- [Māgaṇḍiya (MN 75)](magandiya.md) — `skeleton`
 - [Māhācamasya](mahacamasya.md) — `skeleton`
+- [Māluṅkyaputta](malunkyaputta.md) — `skeleton`
+- [Mānatuṅga](manatunga.md) — `skeleton`
 - [Mānaveda](manaveda.md) — `skeleton`
 - [Mārkaṇḍeya](markandeya.md) — `sourced`
 - [Mārīca Kaśyapa](marica-kasyapa.md) — `skeleton`
 - [Māyidēva](mayideva.md) — `skeleton`
+- [Māyā](maya.md) — `skeleton`
 - [Māṇikkavācakar](manikkavacakar.md) — `skeleton`
+- [Māṇikyanandi](manikyanandi.md) — `skeleton`
 - [Māṉakkañcāṟa Nāyaṉār](manakkancarar.md) — `skeleton`
 - [Māṭhara](mathara.md) — `skeleton`
 - [Mīnarāja](minaraja.md) — `skeleton`
@@ -797,18 +1072,25 @@ skeleton: 1375 · sourced: 179
 - [Mūrtti Nāyaṉār](murtti-nayanar.md) — `skeleton`
 - [N. C. Lahiri](nc-lahiri.md) — `skeleton` _(recent)_
 - [Nabanī Dās Khyāpā Bāul](nabani-das-baul.md) — `skeleton` _(recent)_
-- [Naciketas](naciketas.md) — `skeleton`
+- [Naciketas](naciketas.md) — `sourced`
 - [Nahuṣa](nahusa.md) — `sourced`
 - [Nakkīrar](nakkirar.md) — `skeleton`
 - [Nakula](nakula.md) — `skeleton`
+- [Nakulamātā](nakulamata.md) — `skeleton`
+- [Nakulapitā](nakulapita.md) — `skeleton`
 - [Naminanti Aṭikaḷ](naminanti-atikal.md) — `skeleton`
+- [Naminātha](naminatha.md) — `skeleton`
 - [Nammāḻvār](nammalvar.md) — `skeleton`
 - [Nampi Āṇṭār Nampi](nampi-antar-nampi.md) — `skeleton`
 - [Nampiḷḷai](nampillai.md) — `skeleton`
-- [Nandapaṇḍita](nandapandita.md) — `skeleton`
+- [Nanda](nanda.md) — `skeleton`
+- [Nanda (Yogācāra master)](nanda-yogacara.md) — `skeleton`
+- [Nanda Vaccha](nanda-vaccha.md) — `skeleton`
+- [Nandaka](nandaka.md) — `skeleton`
+- [Nandapaṇḍita](nandapandita.md) — `sourced`
 - [Nanddās](nanddas.md) — `skeleton`
 - [Nandi (Nantīcar)](nandi.md) — `skeleton`
-- [Nandikeśvara](nandikesvara.md) — `skeleton`
+- [Nandikeśvara](nandikesvara.md) — `sourced`
 - [Nandikeśvara (author of the Liṅgadhāraṇacandrikā)](nandikesvara-virasaiva.md) — `skeleton`
 - [Nandīśvara](nandisvara.md) — `skeleton`
 - [Nantaṉār (Tirunāḷaippōvār)](nantanar.md) — `skeleton`
@@ -830,6 +1112,9 @@ skeleton: 1375 · sourced: 179
 - [Naḍādūr Ammāḷ](nadadur-ammal.md) — `skeleton`
 - [Naṭanānandanātha](natanananda.md) — `skeleton`
 - [Nema Bhārgava](nema-bhargava.md) — `sourced`
+- [Nemicandra Siddhāntacakravartin](nemicandra-siddhantacakravartin.md) — `skeleton`
+- [Neminātha (Ariṣṭanemi)](neminatha.md) — `skeleton`
+- [Ngok Loden Sherab](ngok-loden-sherab.md) — `skeleton`
 - [Nidāgha](nidagha.md) — `skeleton`
 - [Nijaguṇa Śivayōgi](nijaguna-sivayogi.md) — `skeleton`
 - [Nimbārka (Nimbāditya, Niyamānanda)](nimbarka.md) — `skeleton`
@@ -843,16 +1128,21 @@ skeleton: 1375 · sourced: 179
 - [Niṉṟacīr Neṭumāṟa Nāyaṉār](nedumarar.md) — `skeleton`
 - [Niṣkriyānandanātha](niskriyanandanatha.md) — `skeleton`
 - [Nuliya Candayya](nuliya-candayya.md) — `skeleton`
+- [Nyanaponika Thera](nyanaponika.md) — `skeleton` _(recent)_
 - [Nābhādās](nabhadas.md) — `skeleton`
 - [Nāgabhaṭṭa](nagabhatta.md) — `skeleton`
 - [Nāgadevācārya (Bhaṭobās)](nagadevacarya.md) — `skeleton`
 - [Nāganātha](naganatha.md) — `skeleton`
-- [Nāgeśa Bhaṭṭa](nagesa-bhatta.md) — `skeleton`
+- [Nāgasena](nagasena.md) — `skeleton`
+- [Nāgeśa Bhaṭṭa](nagesa-bhatta.md) — `sourced`
+- [Nāgārjuna](nagarjuna.md) — `skeleton`
+- [Nāgārjuna (Jain elder of Valabhī)](nagarjuna-jain.md) — `skeleton`
 - [Nāgārjuna (the siddha, alchemist and physician)](nagarjuna-siddha.md) — `skeleton`
 - [Nāka Maudgalya](naka-maudgalya.md) — `skeleton`
 - [Nāmdev](namdev.md) — `skeleton`
 - [Nānyadeva](nanyadeva.md) — `skeleton`
 - [Nārada](narada.md) — `sourced`
+- [Nārada (SN 12.68)](narada-thera.md) — `skeleton`
 - [Nārāyaṇa](narayana.md) — `sourced`
 - [Nārāyaṇa (author of Dīpikās)](narayana-dipikakara.md) — `skeleton`
 - [Nārāyaṇa (author of the Muhūrtamārtaṇḍa)](narayana-daivajna.md) — `skeleton`
@@ -866,7 +1156,7 @@ skeleton: 1375 · sourced: 179
 - [Nārāyaṇācārya (author of the Sadācāradīpikā)](narayanacarya-sadacaradipika.md) — `skeleton`
 - [Nāthamuni](nathamuni.md) — `skeleton`
 - [Nēca Nāyaṉār](necar.md) — `skeleton`
-- [Nīlakaṇṭha Bhaṭṭa](nilakantha-bhatta.md) — `skeleton`
+- [Nīlakaṇṭha Bhaṭṭa](nilakantha-bhatta.md) — `sourced`
 - [Nīlakaṇṭha Caturdhara](nilakantha-caturdhara.md) — `sourced`
 - [Nīlakaṇṭha Daivajña](nilakantha-daivajna.md) — `skeleton`
 - [Nīlakaṇṭha Dīkṣita](nilakantha-diksita.md) — `skeleton`
@@ -877,20 +1167,29 @@ skeleton: 1375 · sourced: 179
 - [Nṛsiṃha Sarasvatī (author of the Subodhinī)](nrsimha-sarasvati-subodhini.md) — `skeleton`
 - [Nṛsiṃhānandanātha](nrsimhanandanatha.md) — `skeleton`
 - [Nṛsiṃhāśrama](nrsimhasrama.md) — `skeleton`
+- [P. A. Payutto](payutto.md) — `skeleton` _(recent)_
 - [P. G. Halakatti](halakatti.md) — `skeleton` _(recent)_
+- [Pa-Auk Sayadaw](pa-auk-sayadaw.md) — `skeleton` _(recent)_
+- [Padmanandi (author of the Pañcaviṃśatikā)](padmanandi.md) — `skeleton`
 - [Padmanābha Tīrtha](padmanabha-tirtha.md) — `skeleton`
+- [Padmaprabha](padmaprabha.md) — `skeleton`
+- [Padmaprabha Maladhārideva](padmaprabha-maladharideva.md) — `skeleton`
 - [Padmapāda](padmapada.md) — `skeleton`
 - [Padmāvatī](padmavati-ramanandi.md) — `skeleton`
 - [Padmāvatī (wife of Jayadeva)](padmavati-jayadeva.md) — `skeleton`
+- [Paesi (Pradeśin)](paesi.md) — `skeleton`
 - [Paila](paila.md) — `sourced`
 - [Paippalādi](paippaladi.md) — `skeleton`
 - [Paiṅgala](paingala.md) — `skeleton`
 - [Paiṅgya](paingya.md) — `skeleton`
+- [Pakudha Kaccāyana](pakudha-kaccayana.md) — `skeleton`
 - [Pakṣadhara Miśra](paksadhara-misra.md) — `skeleton`
 - [Paltū Sāhib](paltu-sahib.md) — `skeleton`
+- [Pampa (Ādikavi)](pampa.md) — `skeleton`
 - [Parameśvara (of Vaṭaśśeri)](paramesvara-vatasseri.md) — `skeleton`
 - [Paramānanddās](paramananddas.md) — `skeleton`
 - [Paramārtha](paramartha.md) — `skeleton`
+- [Paramārthasamudgata](paramarthasamudgata.md) — `skeleton`
 - [Parañcōti Muṉivar (author of the Tiruviḷaiyāṭal Purāṇam)](parancoti-tiruvilaiyatal.md) — `skeleton`
 - [Parañcōti Muṉivar (guru of Meykaṇṭār)](parancoti-munivar.md) — `skeleton`
 - [Paraśurāma (Jāmadagnya Bhārgava)](parasurama.md) — `skeleton`
@@ -902,17 +1201,21 @@ skeleton: 1375 · sourced: 179
 - [Parāśara (disciple of Ātreya)](parasara-ayurveda.md) — `skeleton`
 - [Parāśara Bhaṭṭar](parasara-bhattar.md) — `sourced`
 - [Parīkṣit](pariksit.md) — `skeleton`
+- [Pasenadi](pasenadi.md) — `skeleton`
 - [Patañcala Kāpya](patancala-kapya.md) — `skeleton`
 - [Patañjali](patanjali.md) — `skeleton`
 - [Patañjali (Sāṃkhya teacher)](patanjali-samkhya.md) — `skeleton`
-- [Patañjali (the grammarian)](patanjali-grammarian.md) — `skeleton`
+- [Patañjali (the grammarian)](patanjali-grammarian.md) — `sourced`
 - [Pattirakiriyār (Bhadragiri)](bhadragiriyar.md) — `skeleton`
 - [Paurika](paurika.md) — `skeleton`
 - [Pauṣkalāvata](pauskalavata.md) — `skeleton`
+- [Pavaṇanti](pavanandi.md) — `skeleton`
 - [Pavitra Āṅgirasa](pavitra-angirasa.md) — `sourced`
 - [Pañcaśikha](pancasikha.md) — `sourced`
 - [Pañcādhikaraṇa](pancadhikarana.md) — `skeleton`
+- [Paṇḍita Āśādhara](asadhara.md) — `skeleton`
 - [Paṇḍitārādhya (of the five ācāryas)](panditaradhya.md) — `skeleton`
+- [Paṭācārā](patacara.md) — `skeleton`
 - [Paṭṭiṉattār (Tiruveṇkāṭar)](pattinattar.md) — `skeleton`
 - [Periya Nambi](periya-nambi.md) — `skeleton`
 - [Periya Tirumalai Nambi](periya-tirumalai-nambi.md) — `skeleton`
@@ -924,16 +1227,26 @@ skeleton: 1375 · sourced: 179
 - [Piḷḷai Lōkam Jīyar](pillai-lokam-jiyar.md) — `skeleton`
 - [Piḷḷai Uṟaṅgāvilli Dāsar](dhanurdasa.md) — `skeleton`
 - [Piṅgala (Pāśupata tīrthakara)](pingala-pasupata.md) — `skeleton`
+- [Piṅgala (Qingmu 青目)](pingala-qingmu.md) — `skeleton`
 - [Piṅgalā](pingala.md) — `sourced`
+- [Piṇḍola Bhāradvāja](pindola-bharadvaja.md) — `skeleton`
 - [Piṉpaḻagiya Perumāḷ Jīyar](pinpalagiya-perumal-jiyar.md) — `skeleton`
 - [Poykai Āḻvār](poykai-alvar.md) — `skeleton`
 - [Poṉṉaḍikkāl Jīyar](ponnadikkal-jiyar.md) — `skeleton`
+- [Poṭṭhapāda](potthapada.md) — `skeleton`
+- [Prabhava](prabhava.md) — `skeleton`
 - [Prabhācandra](prabhacandra.md) — `skeleton`
+- [Prabhācandrasūri (Śvetāmbara)](prabhacandra-suri.md) — `skeleton`
 - [Prabhākara Miśra](prabhakara.md) — `skeleton`
+- [Prabhāsa](prabhasa-ganadhara.md) — `skeleton`
+- [Prabhūtaratna](prabhutaratna.md) — `skeleton`
 - [Prabodhānanda Sarasvatī](prabodhananda-sarasvati.md) — `skeleton`
 - [Pradyumnabhaṭṭa](pradyumnabhatta.md) — `skeleton`
 - [Pragātha Ghaura Kāṇva](pragatha-kanva.md) — `sourced`
 - [Prahlāda](prahlada.md) — `sourced`
+- [Prajña (translator of the 40-fascicle Avataṃsaka)](prajna-translator.md) — `skeleton`
+- [Prajñākaragupta](prajnakaragupta.md) — `skeleton`
+- [Prajñākaramati](prajnakaramati.md) — `skeleton`
 - [Prajñārjuna](prajnarjuna.md) — `skeleton`
 - [Prajāpati (as teacher)](prajapati.md) — `skeleton`
 - [Prajāpati Parameṣṭhin](prajapati-paramesthin.md) — `sourced`
@@ -950,40 +1263,56 @@ skeleton: 1375 · sourced: 179
 - [Prācīnaśāla Aupamanyava](pracinasala-aupamanyava.md) — `skeleton`
 - [Pukaḻccōḻa Nāyaṉār](pukalccolar.md) — `skeleton`
 - [Pukaḻttuṇai Nāyaṉār](pukalttunaiyar.md) — `skeleton`
+- [Pukkusāti](pukkusati.md) — `skeleton`
 - [Pulastiyar](pulastiyar.md) — `skeleton`
 - [Pulippāṇi](pulippani.md) — `skeleton`
 - [Puliśa](pulisa.md) — `skeleton`
 - [Punarvasu Ātreya](atreya-punarvasu.md) — `skeleton`
+- [Purandara (Cārvāka)](purandara-carvaka.md) — `skeleton`
 - [Purandara Dāsa](purandara-dasa.md) — `skeleton`
 - [Purujit](purujit.md) — `skeleton`
 - [Puruṣottama (Puruṣottamajī, of the Vallabha line)](purusottama-pustimarga.md) — `skeleton`
 - [Puruṣottama Ṭhākur](purusottama-thakur.md) — `skeleton`
 - [Puruṣottamācārya (of the Nimbārka school)](purusottamacarya-nimbarka.md) — `skeleton`
+- [Purāṇa](purana-thera.md) — `skeleton`
 - [Purūravas (Aila)](pururavas.md) — `skeleton`
 - [Puṇyarāja](punyaraja.md) — `skeleton`
+- [Puṇyatāra](punyatara.md) — `skeleton`
 - [Puṇyānanda](punyananda.md) — `skeleton`
 - [Puṇḍalīka](pundalika.md) — `skeleton`
+- [Puṇḍarīka](pundarika-ganadhara.md) — `skeleton`
 - [Puṇḍarīka Viṭṭhala](pundarika-vitthala.md) — `skeleton`
+- [Puṇṇa Mantāṇiputta](punna-mantaniputta.md) — `skeleton`
+- [Puṇṇa of Sunāparanta](punna-sunaparantaka.md) — `skeleton`
+- [Puṣpadanta (Apabhraṃśa poet)](puspadanta-poet.md) — `skeleton`
+- [Puṣpadanta (ācārya)](puspadanta-acarya.md) — `skeleton`
 - [Puṣpaka](puspaka.md) — `skeleton`
 - [Pāglā Kānāi](pagla-kanai.md) — `skeleton` _(recent)_
 - [Pālakāpya](palakapya.md) — `skeleton`
 - [Pālkuriki Sōmanātha](palkuriki-somanatha.md) — `skeleton`
-- [Pālyakīrti (Śākaṭāyana)](palyakirti.md) — `skeleton`
+- [Pālyakīrti (Śākaṭāyana)](palyakirti.md) — `sourced`
 - [Pāmbāṭṭi (Pāmpāṭṭic cittar)](pambatti.md) — `skeleton`
 - [Pāragārgya](paragargya.md) — `skeleton`
-- [Pāraskara](paraskara.md) — `skeleton`
+- [Pāramiti (Pramiti)](paramiti.md) — `skeleton`
+- [Pāraskara](paraskara.md) — `sourced`
 - [Pārthasārathi Miśra](parthasarathi-misra.md) — `skeleton`
 - [Pārvatī](parvati.md) — `skeleton`
 - [Pārīkṣi Maudgalya](pariksi-maudgalya.md) — `skeleton`
+- [Pārśva (Pārśvanātha)](parsva.md) — `skeleton`
+- [Pārśva (Sarvāstivāda elder)](parsva-sarvastivada.md) — `skeleton`
+- [Pārśvacandrasūri](parsvacandra-suri.md) — `skeleton`
 - [Pārśvadeva](parsvadeva.md) — `skeleton`
+- [Pāyāsi](payasi.md) — `skeleton`
 - [Pāñju Śāh](panju-sah.md) — `skeleton` _(recent)_
-- [Pāṇini](panini.md) — `skeleton`
+- [Pāṇini](panini.md) — `sourced`
+- [Pāṇḍe Rājamalla](rajamalla.md) — `skeleton`
 - [Pāṇḍu](pandu.md) — `skeleton`
 - [Pēyāḻvār](peyalvar.md) — `skeleton`
 - [Pīpā](pipa.md) — `skeleton`
 - [Pūcalā Nāyaṉār](pucalar.md) — `skeleton`
-- [Pūjyapāda Devanandin](pujyapada.md) — `skeleton`
+- [Pūjyapāda Devanandin](pujyapada.md) — `sourced`
 - [Pūran Sāhib](puran-sahib.md) — `skeleton` _(recent)_
+- [Pūraṇa Kassapa](purana-kassapa.md) — `skeleton`
 - [Pūrṇa Dās Bāul](purna-das-baul.md) — `skeleton` _(recent)_
 - [Pūrṇākṣa Maudgalya](purnaksa-maudgalya.md) — `skeleton`
 - [Pūrṇānanda](purnananda.md) — `skeleton`
@@ -992,7 +1321,8 @@ skeleton: 1375 · sourced: 179
 - [Pṛthūdakasvāmin](prthudaka.md) — `skeleton`
 - [Radhaji (Narayani Devi)](radhaji.md) — `skeleton` _(recent)_
 - [Raghudeva Nyāyālaṅkāra](raghudeva-nyayalankara.md) — `skeleton`
-- [Raghunandana](raghunandana.md) — `skeleton`
+- [Raghunandana](raghunandana.md) — `sourced`
+- [Raghunāth (Sthānakavāsī ācārya)](raghunath-sthanakavasi.md) — `skeleton`
 - [Raghunātha Bhaṭṭa Gosvāmī](raghunatha-bhatta-gosvami.md) — `skeleton`
 - [Raghunātha Dāsa Gosvāmī](raghunatha-dasa-gosvami.md) — `skeleton`
 - [Raghunātha Śiromaṇi](raghunatha-siromani.md) — `skeleton`
@@ -1006,14 +1336,25 @@ skeleton: 1375 · sourced: 179
 - [Rajjab](rajjab.md) — `skeleton`
 - [Ramakrishna](ramakrishna.md) — `skeleton` _(recent)_
 - [Ramana Maharshi](ramana-maharshi.md) — `skeleton` _(recent)_
+- [Rangjung Dorje (Third Karmapa)](rangjung-dorje.md) — `skeleton`
 - [Ratannāth (Hājī Ratan)](ratannath.md) — `skeleton`
+- [Rathanemi](rathanemi.md) — `skeleton`
+- [Ratnakīrti](ratnakirti.md) — `skeleton`
+- [Ratnamati](ratnamati.md) — `skeleton`
+- [Ratnanandi (Ratnakīrti)](ratnanandi.md) — `skeleton`
+- [Ratnaśekhara Sūri](ratnasekhara-suri.md) — `skeleton`
+- [Ratnākaraśānti](ratnakarasanti.md) — `skeleton`
 - [Ravaḷobās](ravalobas.md) — `skeleton`
 - [Ravidās (Raidās)](ravidas.md) — `skeleton`
 - [Ravigupta](ravigupta.md) — `skeleton`
+- [Raviṣeṇa](ravisena.md) — `skeleton`
 - [Raṅganātha (commentator on the Sūrya Siddhānta)](ranganatha-jyotisa.md) — `skeleton`
 - [Raṅgarāmānuja Muni](ranga-ramanuja-muni.md) — `skeleton`
+- [Revata (teacher of Buddhaghosa)](revata-buddhaghosa.md) — `skeleton`
+- [Revata of Soreyya](revata.md) — `skeleton`
 - [Revaṇanātha](revananatha.md) — `skeleton`
 - [Reṇukācārya (Revaṇasiddha)](renukacarya.md) — `skeleton`
+- [Rohagupta (Ṣaḍulūka)](rohagupta.md) — `skeleton`
 - [Romaharṣaṇa](romaharsana.md) — `skeleton`
 - [Romaśā](romasa.md) — `sourced`
 - [Rudra (Kerala commentator)](rudra-kerala.md) — `skeleton`
@@ -1025,12 +1366,17 @@ skeleton: 1375 · sourced: 179
 - [Rāghavānanda](raghavananda.md) — `skeleton`
 - [Rāghavānanda Sarasvatī](raghavananda-sarasvati.md) — `skeleton`
 - [Rāghavāṅka](raghavanka.md) — `skeleton`
+- [Rāhula](rahula.md) — `skeleton`
+- [Rāhulabhadra](rahulabhadra.md) — `skeleton`
+- [Rāhulamātā](yasodhara.md) — `skeleton`
 - [Rājaśekhara](rajasekhara.md) — `skeleton`
+- [Rājendrasūri](rajendra-suri.md) — `skeleton` _(recent)_
 - [Rājeśvar Rām](rajesvar-ram.md) — `skeleton` _(recent)_
 - [Rājānaka Lakṣmīrāma](rajanaka-laksmirama.md) — `skeleton`
 - [Rājānaka Rāmakaṇṭha](ramakantha-rajanaka.md) — `sourced`
 - [Rājānaka Rāmakaṇṭha (author of the Spandavivṛti)](rajanaka-ramakantha.md) — `skeleton`
 - [Rājānaka Śitikaṇṭha](sitikantha.md) — `skeleton`
+- [Rājīmatī (Rājul)](rajimati.md) — `skeleton`
 - [Rāma (Dāśarathi)](rama.md) — `sourced`
 - [Rāma Daivajña](rama-daivajna.md) — `skeleton`
 - [Rāma Tīrtha (Kaniyooru)](rama-tirtha-kaniyur.md) — `skeleton`
@@ -1040,6 +1386,8 @@ skeleton: 1375 · sourced: 179
 - [Rāmakṛṣṇa Adhvarin](ramakrsna-adhvarin.md) — `skeleton`
 - [Rāmakṛṣṇa Bhaṭṭa](ramakrsna-bhatta.md) — `skeleton`
 - [Rāmarudra Bhaṭṭa](ramarudra-bhatta.md) — `skeleton`
+- [Rāmasena (or Nāgasena)](ramasena.md) — `skeleton`
+- [Rāmasiṃha Muni](ramasimha.md) — `skeleton`
 - [Rāmatoṣaṇa Vidyālaṅkāra](ramatosana-vidyalankara.md) — `skeleton` _(recent)_
 - [Rāmatēvar (Irāmatēvar)](ramadevar.md) — `skeleton`
 - [Rāmatīrtha](ramatirtha.md) — `skeleton`
@@ -1061,19 +1409,34 @@ skeleton: 1375 · sourced: 179
 - [Rūpa Bhavānī](rupa-bhavani.md) — `skeleton`
 - [Rūpa Gosvāmī](rupa-gosvami.md) — `skeleton`
 - [Rūpa Kavirāja](rupa-kaviraja.md) — `skeleton`
+- [Rūpcand Pāṇḍe](rupcand-pande.md) — `skeleton`
+- [S. N. Goenka](goenka.md) — `skeleton` _(recent)_
+- [Sabbakāmī](sabbakami.md) — `skeleton`
 - [Saccidānanda Bābā](saccidananda-baba.md) — `skeleton`
+- [Saddālaputra](saddalaputra.md) — `skeleton`
+- [Saddālaputta](saddalaputta.md) — `skeleton`
 - [Sadhnā the butcher](sadhna.md) — `skeleton`
 - [Sadyojyoti](sadyojyoti.md) — `skeleton`
 - [Sadānanda (Yogīndra)](sadananda.md) — `skeleton`
 - [Sadānanda Śarmā](sadananda-sarma.md) — `skeleton` _(recent)_
+- [Sadāparibhūta](sadaparibhuta.md) — `skeleton`
+- [Sadāprarudita](sadaprarudita.md) — `skeleton`
 - [Sadāśiva Brahmendra](sadasiva-brahmendra.md) — `skeleton`
 - [Sahadeva](sahadeva.md) — `skeleton`
 - [Sahajobāī](sahajobai.md) — `skeleton`
+- [Saichō](saicho.md) — `skeleton`
 - [Sain (Sen) the barber](sain.md) — `skeleton`
+- [Sajjana](sajjana.md) — `skeleton`
+- [Sakalakīrti (Bhaṭṭāraka)](sakalakirti.md) — `skeleton`
 - [Sakalēśa Mādarasa](sakalesa-madarasa.md) — `skeleton`
+- [Sakya Paṇḍita Kunga Gyaltsen](sakya-pandita.md) — `skeleton`
 - [Samagāra Haraḷayya](samagara-haralayya.md) — `skeleton`
+- [Samantabhadra](samantabhadra.md) — `skeleton`
 - [Samarasiṃha](samarasimha.md) — `skeleton`
 - [Samartha Rāmdās](samartha-ramdas.md) — `skeleton`
+- [Sambhavanātha](sambhavanatha.md) — `skeleton`
+- [Sambhūtavijaya](sambhutavijaya.md) — `skeleton`
+- [Samprati](samprati.md) — `skeleton`
 - [Samādhi (the merchant)](samadhi-vaisya.md) — `skeleton`
 - [Sanaka](sanaka.md) — `skeleton`
 - [Sanandana](sanandana.md) — `skeleton`
@@ -1100,13 +1463,23 @@ skeleton: 1375 · sourced: 179
 - [Satyavāha Bhāradvāja](satyavaha-bharadvaja.md) — `skeleton`
 - [Satyayajña Pauluṣi](satyayajna-paulusi.md) — `skeleton`
 - [Satī Mā (Sarasvatī)](sati-ma.md) — `skeleton` _(recent)_
+- [Saubhāgbhāī (Sobhāgbhāī) of Sāyalā](sobhagbhai.md) — `skeleton` _(recent)_
 - [Sauryāyaṇī Gārgya](sauryayani-gargya.md) — `skeleton`
 - [Sawai Jai Singh II](jai-singh-ii.md) — `skeleton`
 - [Sawan Singh (Huzur Maharaj)](sawan-singh.md) — `skeleton` _(recent)_
+- [Saya Thetgyi](saya-thetgyi.md) — `skeleton` _(recent)_
+- [Sayadaw U Paṇḍita](u-pandita.md) — `skeleton` _(recent)_
+- [Sayagyi U Ba Khin](u-ba-khin.md) — `skeleton` _(recent)_
 - [Sañjaya](sanjaya.md) — `sourced`
+- [Sañjaya Belaṭṭhiputta](sanjaya-belatthiputta.md) — `skeleton`
 - [Saṃvanana Āṅgirasa](samvanana-angirasa.md) — `sourced`
 - [Saṃvartaka](samvartaka.md) — `skeleton`
 - [Saṅgamāditya](sangamaditya.md) — `skeleton`
+- [Saṅghabhadra](sanghabhadra.md) — `skeleton`
+- [Saṅghadāsagaṇi](sanghadasa-gani.md) — `skeleton`
+- [Saṅghamittā](sanghamitta.md) — `skeleton`
+- [Saṅghapāla (Sengqiepoluo 僧伽婆羅)](sanghapala.md) — `skeleton`
+- [Saṅgārava](sangarava.md) — `skeleton`
 - [Sena (Sena Nhāvī)](sena.md) — `skeleton`
 - [Senajit](senajit.md) — `sourced`
 - [Sevak (Dāmodardās)](sevak.md) — `skeleton`
@@ -1116,43 +1489,69 @@ skeleton: 1375 · sourced: 179
 - [Siddhanātha Śivācārya](siddhanatha-sivacarya.md) — `skeleton`
 - [Siddharāma](siddharama.md) — `skeleton`
 - [Siddhasena (as horā author)](siddhasena-jyotisa.md) — `skeleton`
+- [Siddhasena Divākara](siddhasena-divakara.md) — `skeleton`
+- [Siddhasenagaṇi](siddhasenagani.md) — `skeleton`
 - [Siddhārth Gautam Rām](siddharth-gautam-ram.md) — `skeleton` _(recent)_
+- [Sigāla](sigala.md) — `skeleton`
+- [Sikhī](sikhi.md) — `skeleton`
 - [Sirāj Sāṃi](siraj-sai.md) — `skeleton`
 - [Sivavākkiyar (Civavākkiyar)](sivavakkiyar.md) — `skeleton`
 - [Siṃhabhūpāla](simhabhupala.md) — `skeleton`
+- [Siṃhasūri Gaṇi (Vādikṣamāśramaṇa)](simhasuri.md) — `skeleton`
+- [Siṃhatilaka Sūri](simhatilaka-suri.md) — `skeleton`
 - [Siṅgirāja](singiraja.md) — `skeleton`
 - [Skanda / Guha](skanda.md) — `skeleton`
 - [Skandasvāmin](skandasvamin.md) — `sourced`
+- [Skandhila](skandhila.md) — `skeleton`
+- [Skandila](skandila.md) — `skeleton`
 - [Somadatta](somadatta.md) — `skeleton`
 - [Somadeva (author of the Rasendracūḍāmaṇi)](somadeva-rasa.md) — `skeleton`
+- [Somadeva Sūri](somadeva-suri.md) — `skeleton`
 - [Somanātha (author of the Rāgavibodha)](somanatha-ragavibodha.md) — `skeleton`
 - [Somanātha Dīkṣita](somanatha-diksita.md) — `skeleton`
 - [Somaśambhu](somasambhu.md) — `skeleton`
 - [Someśvara Bhaṭṭa](somesvara-bhatta.md) — `skeleton`
 - [Someśvara III](somesvara-iii.md) — `skeleton`
+- [Somā](soma-theri.md) — `skeleton`
 - [Somānanda](somananda.md) — `skeleton`
 - [Sopāndev](sopandev.md) — `skeleton`
 - [Soyrābāī](soyrabai.md) — `skeleton`
 - [Soḍhala](sodhala.md) — `skeleton`
+- [Soṇa Koḷivisa](sona-kolivisa.md) — `skeleton`
 - [Sphoṭāyana](sphotayana.md) — `skeleton`
 - [Sphujidhvaja](sphujidhvaja.md) — `skeleton`
 - [Sri Aurobindo](sri-aurobindo.md) — `sourced` _(recent)_
 - [Sri Yukteswar (on the yugas)](sri-yukteswar.md) — `skeleton` _(recent)_
+- [Sthiramati](sthiramati.md) — `skeleton`
+- [Sthūlabhadra](sthulabhadra.md) — `skeleton`
+- [Subha Todeyyaputta](subha-todeyyaputta.md) — `skeleton`
+- [Subhadda the wanderer](subhadda-paribbajaka.md) — `skeleton`
 - [Subhadrā](subhadra.md) — `skeleton`
 - [Subhagānandanātha](subhagananda.md) — `skeleton`
+- [Subhūti](subhuti.md) — `skeleton`
 - [Sucarita Miśra](sucarita-misra.md) — `skeleton`
 - [Sudarśana Sūri](sudarsana-suri.md) — `skeleton`
+- [Suddhodana](suddhodana.md) — `skeleton`
+- [Sudhana](sudhana.md) — `skeleton`
+- [Sudharman](sudharman.md) — `skeleton`
 - [Sudhākara Dvivedī](sudhakara-dvivedi.md) — `skeleton` _(recent)_
 - [Sudhīndra Tīrtha](sudhindra-tirtha.md) — `skeleton`
+- [Sudinna Kalandaputta](sudinna.md) — `skeleton`
+- [Suhastin](suhastin.md) — `skeleton`
 - [Sukeśā Bhāradvāja](sukesa-bharadvaja.md) — `skeleton`
 - [Sukhānanda](sukhananda.md) — `skeleton`
 - [Sulabhā](sulabha.md) — `sourced`
 - [Sumantu](sumantu.md) — `sourced`
 - [Sumati ('Jaḍa')](sumati-jada.md) — `skeleton`
-- [Sumati(nātha)](sumatinatha.md) — `skeleton`
+- [Sumatinātha](sumatinatha.md) — `skeleton`
+- [Sumatiśīla](sumatisila.md) — `skeleton`
+- [Sumaṅgala (author of the Vibhāvinī)](sumangala-vibhavini.md) — `skeleton`
 - [Sundaradeva](sundaradeva.md) — `skeleton`
 - [Sundarapāṇḍya](sundarapandya.md) — `skeleton`
 - [Sundardās (the younger)](sundardas.md) — `skeleton`
+- [Sundarī](sundari-jain.md) — `skeleton`
+- [Sunlun Sayadaw](sunlun-sayadaw.md) — `skeleton` _(recent)_
+- [Supārśvanātha](suparsvanatha.md) — `skeleton`
 - [Surapāla](surapala.md) — `skeleton`
 - [Surasurānanda](surasurananda.md) — `skeleton`
 - [Surasurī](surasuri.md) — `skeleton`
@@ -1160,9 +1559,12 @@ skeleton: 1375 · sourced: 179
 - [Suratha](suratha.md) — `skeleton`
 - [Surendra Tīrtha](surendra-tirtha.md) — `skeleton`
 - [Sureśvara](suresvara.md) — `skeleton`
+- [Suvidhinātha (Puṣpadanta)](suvidhinatha.md) — `skeleton`
 - [Suśruta](susruta.md) — `skeleton`
 - [Svapneśvara](svapnesvara.md) — `skeleton`
 - [Svarūpa Dāmodara](svarupa-damodara.md) — `skeleton`
+- [Svayambhūdeva](svayambhu-poet.md) — `skeleton`
+- [Svāmi Kārttikeya](svami-karttikeya.md) — `skeleton`
 - [Svāmī Haridās](svami-haridas.md) — `skeleton`
 - [Svāti Tirunāḷ](svati-tirunal.md) — `skeleton` _(recent)_
 - [Svātmārāma](svatmarama.md) — `skeleton`
@@ -1173,13 +1575,18 @@ skeleton: 1375 · sourced: 179
 - [Sāhib Kaul](sahib-kaul.md) — `skeleton`
 - [Sāmanta Candraśekhara](samanta-candrasekhara.md) — `skeleton` _(recent)_
 - [Sāmaśravas](samasravas.md) — `skeleton`
+- [Sāramati](saramati.md) — `skeleton`
+- [Sāriputta](sariputta.md) — `skeleton`
+- [Sāriputta of Polonnaruwa](sariputta-polonnaruwa.md) — `skeleton`
 - [Sārparājñī](sarparajni.md) — `sourced`
+- [Sāti Kevaṭṭaputta](sati-kevattaputta.md) — `skeleton`
 - [Sātyaki](satyaki.md) — `skeleton`
 - [Sāvarṇi (paurāṇika)](savarni-puranic.md) — `skeleton`
 - [Sāvatā Mālī](savata-mali.md) — `skeleton`
 - [Sāvitrī](savitri.md) — `sourced`
 - [Sāyaṇa](sayana.md) — `sourced`
 - [Sāṅkṛti](sankrti.md) — `skeleton`
+- [Sīmandhara](simandhara.md) — `skeleton`
 - [Sītā](sita.md) — `sourced`
 - [Sūle Saṅkavva](sule-sankavva.md) — `skeleton`
 - [Sūrdās](surdas.md) — `skeleton`
@@ -1187,10 +1594,12 @@ skeleton: 1375 · sourced: 179
 - [Sūryā Sāvitrī](surya-savitri.md) — `sourced`
 - [T. G. Siddappārādhya](siddapparadhya.md) — `skeleton` _(recent)_
 - [Taponitya Pauruśiṣṭi](taponitya-paurusisti.md) — `skeleton`
+- [Tapussa and Bhallika](tapussa-bhallika.md) — `skeleton`
 - [Taṇṭiyaṭikaḷ](tantiyatikal.md) — `skeleton`
 - [Thakar Singh](thakar-singh.md) — `skeleton` _(recent)_
 - [The Aśvins](asvins.md) — `skeleton`
 - [The Bhairavī Brāhmaṇī (Yogeśvarī)](bhairavi-brahmani.md) — `skeleton` _(recent)_
+- [The daughter of the nāga king Sāgara](naga-princess.md) — `skeleton`
 - [the Draupadeyas (sons of Draupadī)](draupadeyas.md) — `skeleton`
 - [The eight Vāgdevatās (Vaśinī and the others)](vagdevatas.md) — `skeleton`
 - [The Goddess (Devī)](devi.md) — `skeleton`
@@ -1211,12 +1620,14 @@ skeleton: 1375 · sourced: 179
 - [Tirunīlakaṇṭa Yāḻppāṇa Nāyaṉār](tirunilakanta-yalppanar.md) — `skeleton`
 - [Tirunīlanakka Nāyaṉār](tirunilanakkar.md) — `skeleton`
 - [Tiruppāṇ Āḻvār](tiruppan-alvar.md) — `skeleton`
+- [Tiruttakkatēvar](tiruttakkatevar.md) — `skeleton`
 - [Tiruvaraṅga Perumāḷ Araiyar](tiruvaranga-perumal-araiyar.md) — `skeleton`
 - [Tiruvaraṅgattu Amudaṉār](tiruvarangattu-amudanar.md) — `skeleton`
 - [Tiruvaḷḷuvar](tiruvalluvar.md) — `skeleton`
 - [Tiruvāymoḻi Piḷḷai](tiruvaymoli-pillai.md) — `skeleton`
 - [Tiruñāṉacampantar](campantar.md) — `skeleton`
 - [Tittiri](tittiri.md) — `sourced`
+- [Tokuitsu](tokuitsu.md) — `skeleton`
 - [Toṇṭada Siddhaliṅga](tontada-siddhalinga.md) — `skeleton`
 - [Toṇṭadārya](tontadarya.md) — `skeleton`
 - [Toṇṭaraṭippoṭi Āḻvār](tontaratippoti-alvar.md) — `skeleton`
@@ -1228,28 +1639,34 @@ skeleton: 1375 · sourced: 179
 - [Triśaṅku](trisanku.md) — `skeleton`
 - [Triśikhi](trisikhi.md) — `skeleton`
 - [Tryambakāditya](tryambakaditya.md) — `skeleton`
+- [Tsongkhapa Lobsang Drakpa](tsongkhapa.md) — `skeleton`
 - [Tukaḍojī Mahārāj](tukadoji-maharaj.md) — `skeleton` _(recent)_
 - [Tukārām](tukaram.md) — `skeleton`
 - [Tulsī Sāhib of Hāthras](tulsi-sahib-hathras.md) — `skeleton` _(recent)_
 - [Tulsīdās](tulsidas.md) — `skeleton`
 - [Tulādhāra](tuladhara.md) — `sourced`
 - [Tumburu](tumburu.md) — `skeleton`
-- [Tura Kāvaṣeya](tura-kavaseya.md) — `skeleton`
+- [Tura Kāvaṣeya](tura-kavaseya.md) — `sourced`
 - [Turaimaṅkalam Śivaprakāśar](turaimankalam-sivaprakasar.md) — `skeleton`
 - [Turugāhi Rāmaṇṇa](turugahi-ramanna.md) — `skeleton`
 - [Tyāgarāja](tyagaraja.md) — `skeleton`
 - [Tānsen](tansen.md) — `skeleton`
+- [Tāranātha](taranatha.md) — `skeleton`
+- [Tāraṇa Svāmī](taranasvami.md) — `skeleton`
 - [Tāyumāṉavar](tayumanavar.md) — `skeleton`
 - [Tāṇḍavarāya Svāmī](tandavaraya-svami.md) — `skeleton`
 - [Tēraiyar](teraiyar.md) — `skeleton`
 - [Tīsaṭa](tisata.md) — `skeleton`
+- [Tōlāmoḻittēvar](tolamolittevar.md) — `skeleton`
+- [Ubbirī](ubbiri.md) — `skeleton`
 - [Ubhaya Bhāratī](ubhaya-bharati.md) — `skeleton`
 - [Udayana](udayana.md) — `skeleton`
 - [Udaṅka Śaulbāyana](udanka-saulbayana.md) — `skeleton`
 - [Udbhaṭa](udbhata.md) — `skeleton`
+- [Uddaka Rāmaputta](uddaka-ramaputta.md) — `skeleton`
 - [Uddhava](uddhava.md) — `skeleton`
 - [Uddyotakara](uddyotakara.md) — `skeleton`
-- [Uddālaka Āruṇi](uddalaka-aruni.md) — `skeleton`
+- [Uddālaka Āruṇi](uddalaka-aruni.md) — `sourced`
 - [Uditācārya](uditacarya.md) — `skeleton`
 - [Ugrajyoti](ugrajyoti.md) — `skeleton`
 - [Ugraśravas Sauti](ugrasravas.md) — `sourced`
@@ -1260,15 +1677,28 @@ skeleton: 1375 · sourced: 179
 - [Umā Haimavatī](uma-haimavati.md) — `skeleton`
 - [Umānandanātha](umanandanatha.md) — `skeleton`
 - [Umāpati Civācāriyār](umapati-sivacarya.md) — `skeleton`
+- [Umāsvāti](umasvati.md) — `skeleton`
+- [Upagupta](upagupta.md) — `skeleton`
+- [Upaka](upaka.md) — `skeleton`
+- [Upaka the Ājīvaka](upaka-ajivaka.md) — `skeleton`
 - [Upakosala Kāmalāyana](upakosala-kamalayana.md) — `skeleton`
 - [Upamanyu](upamanyu.md) — `sourced`
 - [Upaniṣad Brahmayogin](upanisad-brahmayogin.md) — `skeleton`
 - [Uparicara Vasu](uparicara-vasu.md) — `sourced`
+- [Upasena (author of the Saddhammapajjotikā)](upasena-niddesa.md) — `skeleton`
+- [Upasīva](upasiva.md) — `skeleton`
+- [Upatissa (author of the Vimuttimagga)](upatissa.md) — `skeleton`
 - [Upavarṣa](upavarsa.md) — `skeleton`
+- [Upaśānta](upasanta.md) — `skeleton`
 - [Upendra Tīrtha](upendra-tirtha.md) — `skeleton`
+- [Uppalavaṇṇā](uppalavanna.md) — `skeleton`
+- [Upāli](upali.md) — `skeleton`
+- [Upāli the householder](upali-gahapati.md) — `skeleton`
+- [Upāli Thera (of Ayutthaya)](upali-siam.md) — `skeleton`
 - [Uriliṅgadēva](urilingadeva.md) — `skeleton`
 - [Uriliṅgapeddi](urilingapeddi.md) — `skeleton`
 - [Uruttirapacupati Nāyaṉār](uruttirapacupatiyar.md) — `skeleton`
+- [Uruvela Kassapa](uruvela-kassapa.md) — `skeleton`
 - [Urvaśī](urvasi.md) — `sourced`
 - [Urōmarisi (Romarishi)](romarishi.md) — `skeleton`
 - [Utpala Vaiṣṇava](utpala-vaisnava.md) — `skeleton`
@@ -1281,15 +1711,23 @@ skeleton: 1375 · sourced: 179
 - [Uyyavanta Tēvanāyaṉār of Tiruviyalūr](uyyavanta-tevanayanar-tiruviyalur.md) — `skeleton`
 - [Uśanas (Śukra)](usanas.md) — `sourced`
 - [Uṣasti Cākrāyaṇa](usasti-cakrayana.md) — `skeleton`
+- [Vacchagotta](vacchagotta.md) — `skeleton`
+- [Vaidehī](vaidehi.md) — `skeleton`
 - [Vaidyanātha Dīkṣita](vaidyanatha-diksita.md) — `skeleton`
 - [Vaitaraṇa](vaitarana.md) — `skeleton`
 - [Vaiśampāyana](vaisampayana.md) — `sourced`
 - [Vaiśravaṇa (Vālakhilya)](vaisravana.md) — `skeleton`
+- [Vajirañāṇa (King Mongkut)](mongkut.md) — `skeleton` _(recent)_
+- [Vajirā](vajira-theri.md) — `skeleton`
+- [Vajragarbha (bodhisattva of the Daśabhūmika)](vajragarbha.md) — `skeleton`
+- [Vajrasvāmin](vajrasvamin.md) — `skeleton`
+- [Vakkali](vakkali.md) — `skeleton`
 - [Vallabhācārya (Śrī Vallabha, Mahāprabhujī)](vallabha.md) — `sourced`
 - [Vanacandra](vanacandra.md) — `skeleton`
+- [Vappa](vappa.md) — `skeleton`
 - [Varadarāja](varadaraja-nyaya.md) — `skeleton`
 - [Varadarāja (commentator on the Nayaviveka)](varadaraja-nayaviveka.md) — `skeleton`
-- [Varadarāja (grammarian)](varadaraja-grammarian.md) — `skeleton`
+- [Varadarāja (grammarian)](varadaraja-grammarian.md) — `sourced`
 - [Varadarāja (Kṛṣṇadāsa)](varadaraja.md) — `skeleton`
 - [Vardhamāna Upādhyāya](vardhamana-upadhyaya.md) — `skeleton`
 - [Vareṇya](varenya.md) — `skeleton`
@@ -1300,46 +1738,63 @@ skeleton: 1375 · sourced: 179
 - [Varṣāditya](varsaditya.md) — `skeleton`
 - [Vasantarāja](vasantaraja.md) — `skeleton`
 - [Vasiṣṭha](vasistha.md) — `sourced`
+- [Vasubandhu](vasubandhu.md) — `skeleton`
 - [Vasugupta](vasugupta.md) — `skeleton`
+- [Vasumitra](vasumitra.md) — `skeleton`
+- [Vasunandi](vasunandi.md) — `skeleton`
 - [Vasurāta](vasurata.md) — `skeleton`
 - [Vaṅgasena](vangasena.md) — `skeleton`
+- [Vaṅgīsa](vangisa.md) — `skeleton`
 - [Vaṭakku Tiruvīti Piḷḷai](vatakku-tiruviti-pillai.md) — `skeleton`
 - [Vaṭeśvara](vatesvara.md) — `skeleton`
+- [Vaṭṭagāmaṇī Abhaya](vattagamani-abhaya.md) — `skeleton`
+- [Vaṭṭakera](vattakera.md) — `skeleton`
 - [Vedānta Deśika](vedanta-desika.md) — `sourced`
 - [Vena Bhārgava](vena-bhargava.md) — `sourced`
+- [Vessabhū](vessabhu.md) — `skeleton`
 - [Veṅkaṭamakhin](venkatamakhin.md) — `skeleton`
 - [Veṅkaṭamādhava](venkatamadhava.md) — `sourced`
 - [Veṅkaṭeśa Daivajña](venkatesa-daivajna.md) — `skeleton`
 - [Veṇābāī](venabai.md) — `skeleton`
 - [Vibhīṣaṇa](vibhisana.md) — `sourced`
 - [Vicakhnu](vicakhnu.md) — `sourced`
-- [Vidagdha Śākalya](vidagdha-sakalya.md) — `skeleton`
-- [Videgha Māthava](videgha-mathava.md) — `skeleton`
+- [Vidagdha Śākalya](vidagdha-sakalya.md) — `sourced`
+- [Videgha Māthava](videgha-mathava.md) — `sourced`
 - [Vidura](vidura.md) — `sourced`
 - [Vidyādhirāja Tīrtha](vidyadhiraja-tirtha.md) — `skeleton`
 - [Vidyāguru](vidyaguru.md) — `skeleton`
+- [Vidyānanda](vidyananda.md) — `skeleton`
 - [Vidyānanda (author of the Artharatnāvalī)](vidyananda-artharatnavali.md) — `skeleton`
 - [Vidyāpati](vidyapati.md) — `skeleton`
-- [Vidyāraṇya](vidyaranya.md) — `skeleton`
+- [Vidyāraṇya](vidyaranya.md) — `sourced`
 - [Vidyāraṇya Yati (author of the Śrīvidyārṇava)](vidyaranya-yati.md) — `skeleton`
 - [Vidyāśaṅkara (Vidyātīrtha)](vidyasankara.md) — `skeleton`
 - [Vijayadhvaja Tīrtha](vijayadhvaja-tirtha.md) — `skeleton`
 - [Vijayarakṣita](vijayaraksita.md) — `skeleton`
+- [Vijayānandasūri (Ātmārām)](atmaram-vijayanandasuri.md) — `skeleton` _(recent)_
 - [Vijayīndra Tīrtha](vijayindra-tirtha.md) — `skeleton`
 - [Vijñānabhikṣu](vijnanabhiksu.md) — `skeleton`
-- [Vijñāneśvara](vijnanesvara.md) — `skeleton`
+- [Vijñāneśvara](vijnanesvara.md) — `sourced`
 - [Vikarṇa](vikarna.md) — `skeleton`
 - [Vikhanas](vikhanas.md) — `skeleton`
+- [Vimalakīrti](vimalakirti.md) — `skeleton`
+- [Vimalanātha](vimalanatha.md) — `skeleton`
 - [Vimalaprabodha](vimalaprabodha.md) — `skeleton`
+- [Vimalasūri](vimalasuri.md) — `skeleton`
 - [Vimalaśiva](vimalasiva.md) — `skeleton`
 - [Vimalānanda Svāmī](vimalananda-svami.md) — `skeleton`
 - [Vimuktātman](vimuktatman.md) — `skeleton`
+- [Vinayavijaya](vinayavijaya.md) — `skeleton`
 - [Vindhyavāsin](vindhyavasin.md) — `skeleton`
+- [Vinītadeva](vinitadeva.md) — `skeleton`
+- [Vipassī](vipassi.md) — `skeleton`
 - [Virocana](virocana.md) — `skeleton`
 - [Virāṭa](virata.md) — `skeleton`
 - [Virūpa](virupa.md) — `skeleton`
 - [Virūpākṣanātha](virupaksanatha.md) — `skeleton`
 - [Visobā Khecar](visoba-khecar.md) — `skeleton`
+- [Visākha (lay follower)](visakha-upasaka.md) — `skeleton`
+- [Visākhā Migāramātā](visakha-migaramata.md) — `skeleton`
 - [Vivasvat (the Sun)](vivasvat.md) — `sourced`
 - [Vivekananda](vivekananda.md) — `skeleton` _(recent)_
 - [Viśvakarman Bhauvana](visvakarman-bhauvana.md) — `sourced`
@@ -1349,7 +1804,7 @@ skeleton: 1375 · sourced: 179
 - [Viśvanātha Cakravartin](visvanatha-cakravartin.md) — `skeleton`
 - [Viśvanātha Kavirāja](visvanatha-kaviraja.md) — `skeleton`
 - [Viśvanātha Nyāyapañcānana](visvanatha-nyayapancanana.md) — `skeleton`
-- [Viśvarūpa](visvarupa.md) — `skeleton`
+- [Viśvarūpa](visvarupa.md) — `sourced`
 - [Viśvavārā Ātreyī](visvavara.md) — `sourced`
 - [Viśveśa Tīrtha](visvesa-tirtha.md) — `skeleton` _(recent)_
 - [Viśvāmitra](visvamitra.md) — `sourced`
@@ -1367,6 +1822,7 @@ skeleton: 1375 · sourced: 179
 - [Viṭṭhalpant](vitthalpant.md) — `skeleton`
 - [Vopadeva](vopadeva.md) — `skeleton`
 - [Voḍhu](vodhu.md) — `skeleton`
+- [Vyakta](vyakta.md) — `skeleton`
 - [Vyomaśiva](vyomasiva.md) — `skeleton`
 - [Vyāghrapāda (Viyākkiramar, Puliyūr muṉi)](vyaghrapada.md) — `skeleton`
 - [Vyāsa (Kṛṣṇa Dvaipāyana)](vyasa.md) — `sourced`
@@ -1374,11 +1830,15 @@ skeleton: 1375 · sourced: 179
 - [Vyāsatīrtha](vyasatirtha.md) — `skeleton`
 - [Vyāḍi](vyadi.md) — `sourced`
 - [Vyāḍi (the rasa-siddha)](vyadi-rasasiddha.md) — `skeleton`
+- [Välivita Saraṇaṅkara](valivita-saranankara.md) — `skeleton`
 - [Vāc Āmbhṛṇī](vak-ambhrni.md) — `sourced`
 - [Vācaspati Miśra](vacaspati-misra.md) — `skeleton`
 - [Vāddhali](vaddhali.md) — `skeleton`
+- [Vādidevasūri](vadidevasuri.md) — `skeleton`
 - [Vādikesari Aḻagiya Maṇavāḷa Jīyar](vadikesari-alagiya-manavala-jiyar.md) — `skeleton`
 - [Vādirāja Tīrtha](vadiraja-tirtha.md) — `skeleton`
+- [Vādivetāla Śāntisūri](santisuri.md) — `skeleton`
+- [Vādībhasiṃha](vadibhasimha.md) — `skeleton`
 - [Vāgbhaṭa](vagbhata.md) — `skeleton`
 - [Vājapyāyana](vajapyayana.md) — `skeleton`
 - [Vājaśravasa (father of Naciketas)](vajasravasa.md) — `skeleton`
@@ -1387,59 +1847,99 @@ skeleton: 1375 · sourced: 179
 - [Vāmadeva](vamadeva.md) — `sourced`
 - [Vāmadeva (in the Amanaska)](vamadeva-amanaska.md) — `skeleton`
 - [Vāmaka, king of Kāśī](kasipati-vamaka.md) — `skeleton`
-- [Vāmana (co-author of the Kāśikā)](vamana-kasika.md) — `skeleton`
+- [Vāmana (co-author of the Kāśikā)](vamana-kasika.md) — `sourced`
 - [Vāmana (the poetician)](vamana-alankarika.md) — `skeleton`
 - [Vāmana Tīrtha](vamana-tirtha.md) — `skeleton`
 - [Vāmanadatta](vamanadatta.md) — `skeleton`
 - [Vāmaśakti](vamasakti.md) — `skeleton`
+- [Vāmaṉa Muṉivar](vamana-muni.md) — `skeleton`
 - [Vārṣagaṇya](varsaganya.md) — `skeleton`
-- [Vārṣyāyaṇi](varsyayani.md) — `skeleton`
+- [Vārṣyāyaṇi](varsyayani.md) — `sourced`
+- [Vāseṭṭha](vasettha.md) — `skeleton`
 - [Vāsudeva Dīkṣita](vasudeva-diksita.md) — `skeleton`
 - [Vāsudeva Sārvabhauma](vasudeva-sarvabhauma.md) — `skeleton`
 - [Vāsudeva Sārvabhauma Bhaṭṭācārya](sarvabhauma-bhattacarya.md) — `skeleton`
 - [Vāsudevāśrama](vasudevasrama.md) — `skeleton`
+- [Vāsupūjya](vasupujya.md) — `skeleton`
 - [Vātsya (redactor of the Kāśyapa Saṃhitā)](vatsya.md) — `skeleton`
 - [Vātsyāyana](vatsyayana.md) — `skeleton`
-- [Vātsyāyana Mallanāga](vatsyayana-mallanaga.md) — `skeleton`
+- [Vātsyāyana Mallanāga](vatsyayana-mallanaga.md) — `sourced`
+- [Vātsīputra](vatsiputra.md) — `skeleton`
 - [Vāyilā Nāyaṉār](vayilar.md) — `skeleton`
 - [Vāyorvida (the royal sage)](vayorvida.md) — `skeleton`
+- [Vāyubhūti](vayubhuti.md) — `skeleton`
 - [Vīrabhadra (Vīracandra)](virabhadra.md) — `skeleton`
+- [Vīrasena](virasena.md) — `skeleton`
 - [Vṛddha Jīvaka](vrddha-jivaka.md) — `skeleton`
 - [Vṛnda](vrnda.md) — `skeleton`
 - [Vṛndāvana Dāsa Ṭhākura](vrndavana-dasa-thakura.md) — `skeleton`
 - [Vṛtra](vrtra.md) — `sourced`
 - [Vṛṣabhadeva](vrsabhadeva.md) — `skeleton`
+- [Webu Sayadaw](webu-sayadaw.md) — `skeleton` _(recent)_
+- [Wŏnch'ŭk](woncheuk.md) — `skeleton`
+- [Xuanzang](xuanzang.md) — `skeleton`
 - [Yadu](yadu.md) — `skeleton`
 - [Yama (Mṛtyu)](yama.md) — `sourced`
 - [Yama Vaivasvata](yama-vaivasvata.md) — `sourced`
+- [Yamaka](yamaka.md) — `skeleton`
 - [Yamī Vaivasvatī](yami-vaivasvati.md) — `sourced`
+- [Yasa](yasa.md) — `skeleton`
+- [Yasa Kākaṇḍakaputta](yasa-kakandakaputta.md) — `skeleton`
+- [Yativṛṣabha](yativrsabha.md) — `skeleton`
 - [Yavaneśvara](yavanesvara.md) — `skeleton`
 - [Yavanācārya ('the Yavana teacher')](yavanacarya.md) — `skeleton`
+- [Yaśobhadra](yasobhadra.md) — `skeleton`
 - [Yaśodhara (rasa author)](yasodhara-rasa.md) — `skeleton`
+- [Yaśomitra](yasomitra.md) — `skeleton`
+- [Yaśovijaya](yasovijaya.md) — `skeleton`
+- [Yeshe De](yeshe-de.md) — `skeleton`
+- [Yijing](yijing.md) — `skeleton`
 - [Yogarāja](yogaraja.md) — `skeleton`
+- [Yogīndu](yogindu.md) — `skeleton`
 - [Yudhiṣṭhira (Dharmarāja)](yudhisthira.md) — `sourced`
 - [Yudhāmanyu](yudhamanyu.md) — `skeleton`
 - [Yādavaprakāśa](yadavaprakasa.md) — `skeleton`
 - [Yājñavalkya](yajnavalkya.md) — `sourced`
+- [Yākinī Mahattarā](yakini-mahattara.md) — `skeleton`
 - [Yāmunācārya](yamuna.md) — `sourced`
 - [Yāska](yaska.md) — `sourced`
 - [Yūkimuṉi](yugimuni.md) — `skeleton`
+- [Zhu Fonian](zhu-fonian.md) — `skeleton`
+- [Ñāṇamoli Thera](nanamoli.md) — `skeleton` _(recent)_
+- [Ācārya Bhikṣu (Bhīkhaṇjī)](acarya-bhiksu.md) — `skeleton`
+- [Ācārya Mahāprajña (Muni Nathmal)](mahaprajna.md) — `skeleton` _(recent)_
+- [Ācārya Mahāśramaṇa](mahasraman.md) — `skeleton` _(recent)_
+- [Ācārya Tulsī](tulsi-acarya.md) — `skeleton` _(recent)_
+- [Ācārya Vidyāsāgara](vidyasagara.md) — `skeleton` _(recent)_
+- [Ācārya Ātmārām (Sthānakavāsī)](atmaram-sthanakavasi.md) — `skeleton` _(recent)_
+- [Ācārya Śāntisāgara](santisagara.md) — `skeleton` _(recent)_
 - [Ādinātha](adinatha.md) — `skeleton`
 - [Āditya (the Sun as teacher)](aditya.md) — `skeleton`
 - [Ādityadāsa](adityadasa.md) — `skeleton`
 - [Ādityanāth](adityanath.md) — `skeleton` _(recent)_
 - [Ādivaṇ Śaṭhakopa Jīyar](adivan-sathakopa-jiyar.md) — `skeleton`
+- [Ākāśagarbha](akasagarbha.md) — `skeleton`
 - [Ālekhana](alekhana.md) — `skeleton`
+- [Ānanda](ananda.md) — `skeleton`
+- [Ānanda (author of the Mūlaṭīkā)](ananda-mulatika.md) — `skeleton`
 - [Ānanda (father of Somānanda)](ananda-tryambaka.md) — `skeleton`
+- [Ānanda (lay disciple)](ananda-upasaka.md) — `skeleton`
 - [Ānandabhaṭṭa (Bhaṭṭānanda)](anandabhatta.md) — `skeleton`
 - [Ānandabodha (Bhaṭṭāraka)](anandabodha.md) — `skeleton`
 - [Ānandabodhendra Sarasvatī](anandabodhendra-sarasvati.md) — `skeleton`
+- [Ānandaghana](anandaghana.md) — `skeleton`
 - [Ānandagiri (Ānandajñāna)](anandagiri.md) — `sourced`
 - [Ānandavardhana](anandavardhana.md) — `skeleton`
 - [Āpadeva](apadeva.md) — `skeleton`
-- [Āpastamba](apastamba.md) — `skeleton`
+- [Āpastamba](apastamba.md) — `sourced`
+- [Ārdraka (Ārdrakakumāra)](ardraka-kumara.md) — `skeleton`
 - [Ārumuka Nāvalar](arumuga-navalar.md) — `skeleton` _(recent)_
+- [Ārya Vimuktisena](arya-vimuktisena.md) — `skeleton`
+- [Ārya Vimuktisena](vimuktisena.md) — `skeleton`
 - [Āryabhaṭa](aryabhata.md) — `skeleton`
+- [Āryadeva](aryadeva.md) — `skeleton`
+- [Āryarakṣita](aryaraksita.md) — `skeleton`
+- [Āryarakṣitasūri (founder of the Añcala Gaccha)](aryaraksita-suri-ancala.md) — `skeleton`
 - [Āsuri](asuri.md) — `sourced`
 - [Ātmasukha](atmasukha.md) — `skeleton`
 - [Ātreya (Mīmāṃsā teacher)](atreya-mimamsa.md) — `skeleton`
@@ -1451,8 +1951,9 @@ skeleton: 1375 · sourced: 179
 - [Āydakki Mārayya](aydakki-marayya.md) — `skeleton`
 - [Āśmarathya](asmarathya.md) — `skeleton`
 - [Āśudhīra](asudhira.md) — `skeleton`
-- [Āśvalāyana](asvalayana.md) — `skeleton`
+- [Āśvalāyana](asvalayana.md) — `sourced`
 - [Āḍhamalla](adhamalla.md) — `skeleton`
+- [Āḷāra Kālāma](alara-kalama.md) — `skeleton`
 - [Āṇṭāḷ](andal.md) — `skeleton`
 - [Āṉāya Nāyaṉār](anayar.md) — `skeleton`
 - [Ēkānta Rāmayya](ekanta-ramayya.md) — `skeleton`
@@ -1461,6 +1962,7 @@ skeleton: 1375 · sourced: 179
 - [Ēṉātinātar Nāyaṉār](enatinatar.md) — `skeleton`
 - [Īśvara Purī](isvara-puri.md) — `skeleton`
 - [Īśvarakṛṣṇa](isvarakrsna.md) — `skeleton`
+- [Īśvarasena](isvarasena.md) — `skeleton`
 - [Īśāna (Pāśupata tīrthakara)](isana-pasupata.md) — `skeleton`
 - [Īśānaśiva Gurudeva](isanasiva-gurudeva.md) — `skeleton`
 - [Śabarasvāmin](sabara.md) — `skeleton`
@@ -1469,30 +1971,37 @@ skeleton: 1375 · sourced: 179
 - [Śaibya](saibya.md) — `skeleton`
 - [Śaibya Satyakāma](saibya-satyakama.md) — `skeleton`
 - [Śakti (son of Vasiṣṭha)](sakti-vasisthaputra.md) — `skeleton`
+- [Śamathadeva](samathadeva.md) — `skeleton`
 - [Śambhu Bhaṭṭa](sambhu-bhatta.md) — `skeleton`
 - [Śambhunātha](sambhunatha.md) — `skeleton`
 - [Śaraloman](saraloman.md) — `skeleton`
-- [Śarvavarman](sarvavarman.md) — `skeleton`
+- [Śarvavarman](sarvavarman.md) — `sourced`
 - [Śatānanda](satananda.md) — `skeleton`
 - [Śaunaka (of Naimiṣa)](saunaka.md) — `sourced`
 - [Śaunaka (of Naimiṣa)](saunaka-puranic.md) — `skeleton`
 - [Śaunaka Kāpeya](saunaka-kapeya.md) — `skeleton`
 - [Śaunaka Mahāśāla](saunaka-mahasala.md) — `skeleton`
+- [Śayyambhava](sayyambhava.md) — `skeleton`
 - [Śaśadhara](sasadhara.md) — `skeleton`
 - [Śaśvatī Āṅgirasī](sasvati-angirasi.md) — `sourced`
 - [Śaṅkara (Ādi Śaṅkarācārya)](sankara.md) — `sourced`
 - [Śaṅkara Bhaṭṭa](sankara-bhatta.md) — `skeleton`
 - [Śaṅkara Miśra](sankara-misra.md) — `skeleton`
 - [Śaṅkaradeva](sankaradeva.md) — `skeleton`
+- [Śaṅkaranandana](sankaranandana.md) — `skeleton`
+- [Śaṅkarasvāmin](sankarasvamin.md) — `skeleton`
 - [Śaṅkarānanda](sankarananda.md) — `skeleton`
 - [Śekh Phayjullāh](sekh-phayjulla.md) — `skeleton`
 - [Śikhaṇḍin](sikhandin.md) — `skeleton`
 - [Śikhidhvaja](sikhidhvaja.md) — `skeleton`
+- [Śikṣānanda](siksananda.md) — `skeleton`
 - [Śilaka Śālāvatya](silaka-salavatya.md) — `skeleton`
 - [Śiva](siva.md) — `sourced`
+- [Śivabhūti (Sahasramalla)](sivabhuti.md) — `skeleton`
 - [Śivacandra Vidyārṇava Bhaṭṭācārya](sivacandra-vidyarnava.md) — `skeleton` _(recent)_
 - [Śivadāsa Sena](sivadasa-sena.md) — `skeleton`
 - [Śivagaṇaprasādi Mahādēvayya](sivaganaprasadi-mahadevayya.md) — `skeleton`
+- [Śivakoṭyācārya (of the Vaḍḍārādhane)](sivakotyacarya.md) — `skeleton`
 - [Śivakumāra Svāmi (Siddhagaṅgā)](sivakumara-svami.md) — `skeleton` _(recent)_
 - [Śivarām (Kīnārām's Vaiṣṇava guru)](sivaram-ramanandi.md) — `skeleton`
 - [Śivayogi Śivācārya](sivayogi-sivacarya.md) — `skeleton`
@@ -1501,20 +2010,29 @@ skeleton: 1375 · sourced: 179
 - [Śivāgrayogin](sivagrayogin.md) — `skeleton`
 - [Śivānanda (author of the Ṛjuvimarśinī)](sivananda-srividya.md) — `skeleton`
 - [Śivānanda Sarasvatī (author of the Yogacintāmaṇi)](sivananda-yogacintamani.md) — `skeleton`
+- [Śivārya (Śivakoṭi)](sivarya.md) — `skeleton`
 - [Śraddhā Kāmāyanī](sraddha-kamayani.md) — `sourced`
+- [Śreyāṃsanātha](sreyamsanatha.md) — `skeleton`
+- [Śreṇika (Bimbisāra)](srenika-bimbisara.md) — `skeleton`
+- [Śrutasāgara Sūri](srutasagara.md) — `skeleton`
 - [Śrī Bhaṭṭa](sri-bhatta.md) — `skeleton`
 - [Śrī Kṛṣṇa Caitanya (Viśvambhara Miśra, Nimāi, Gaurāṅga, Mahāprabhu)](caitanya.md) — `skeleton`
 - [Śrī Śaṅkuka](sri-sankuka.md) — `skeleton`
 - [Śrīdhara](sridhara-vaisesika.md) — `skeleton`
 - [Śrīdhara Ayyāvāḷ](sridhara-ayyaval.md) — `skeleton`
 - [Śrīdhara Svāmin](sridhara-svamin.md) — `sourced`
+- [Śrīgupta](srigupta.md) — `skeleton`
 - [Śrīharṣa](sriharsa.md) — `skeleton`
+- [Śrīkalaśa](srikalasa.md) — `skeleton`
 - [Śrīkaṇṭha (author of the Ratnatraya)](srikantha-saiddhantika.md) — `skeleton`
 - [Śrīkaṇṭha Śivācārya](srikantha.md) — `skeleton`
 - [Śrīkaṇṭha(nātha)](srikanthanatha.md) — `skeleton`
 - [Śrīkaṇṭhabhaṭṭa](srikanthabhatta.md) — `skeleton`
 - [Śrīkaṇṭhadatta](srikanthadatta.md) — `skeleton`
 - [Śrīkumāra](srikumara.md) — `skeleton`
+- [Śrīlāta](srilata.md) — `skeleton`
+- [Śrīmad Rājacandra](srimad-rajacandra.md) — `skeleton` _(recent)_
+- [Śrīmālā](srimala.md) — `skeleton`
 - [Śrīnivāsa (author of the Haṭharatnāvalī)](srinivasa-hatharatnavali.md) — `skeleton`
 - [Śrīnivāsa Dīkṣita](srinivasa-diksita.md) — `skeleton`
 - [Śrīnivāsa Tīrtha](srinivasa-tirtha.md) — `skeleton`
@@ -1525,34 +2043,48 @@ skeleton: 1375 · sourced: 179
 - [Śrīpādarāja](sripadaraja.md) — `skeleton`
 - [Śrīvallabha](srivallabha-vaisesika.md) — `skeleton`
 - [Śrīvāsa Ṭhākura](srivasa-thakura.md) — `skeleton`
+- [Śubhacandra (author of the Jñānārṇava)](subhacandra.md) — `skeleton`
+- [Śubhagupta](subhagupta.md) — `skeleton`
 - [Śuka](suka.md) — `sourced`
 - [Śunaḥśepa](sunahsepa.md) — `sourced`
 - [Śvetaketu Āruṇeya](svetaketu.md) — `skeleton`
 - [Śvetāśvatara](svetasvatara.md) — `skeleton`
 - [Śyāmā Śāstrī](syama-sastri.md) — `skeleton` _(recent)_
 - [Śyāmānanda](syamananda.md) — `skeleton`
+- [Śyāmārya (Ārya Śyāma)](syamarya.md) — `skeleton`
 - [Śyāvāśva Ātreya](syavasva.md) — `sourced`
 - [Śāh Ābdul Karim](shah-abdul-karim.md) — `skeleton` _(recent)_
 - [Śākalya](sakalya.md) — `sourced`
-- [Śākaṭāyana (the ancient grammarian)](sakatayana.md) — `skeleton`
+- [Śākaṭāyana (Pālyakīrti)](sakatayana.md) — `sourced`
 - [Śākunteya](sakunteya.md) — `skeleton`
+- [Śākyabuddhi](sakyabuddhi.md) — `skeleton`
+- [Śākyaśrībhadra](sakyasribhadra.md) — `skeleton`
 - [Śākāyanya](sakayanya.md) — `skeleton`
 - [Śālikanātha Miśra](salikanatha.md) — `skeleton`
 - [Śālinātha](salinatha.md) — `skeleton`
+- [Śāntarakṣita](santaraksita.md) — `skeleton`
+- [Śāntideva](santideva.md) — `skeleton`
+- [Śāntinātha](santinatha.md) — `skeleton`
 - [Śāradātanaya](saradatanaya.md) — `skeleton`
 - [Śārṅgadeva](sarngadeva.md) — `skeleton`
 - [Śārṅgadhara (anthologist)](sarngadhara-anthologist.md) — `skeleton`
 - [Śārṅgadhara (author of the medical Saṃhitā)](sarngadhara-vaidya.md) — `skeleton`
 - [Śāṃśapāyana](samsapayana.md) — `skeleton`
-- [Śāṇḍilya](sandilya.md) — `skeleton`
+- [Śāṇakavāsin](sanakavasin.md) — `skeleton`
+- [Śāṇḍilya](sandilya.md) — `sourced`
+- [Śīlabhadra](silabhadra.md) — `skeleton`
+- [Śīlāṅka](silanka.md) — `skeleton`
+- [Śītalanātha](sitalanatha.md) — `skeleton`
 - [Ḍalhaṇa](dalhana.md) — `skeleton`
 - [Ḍhuṇḍhirāja](dhundhiraja.md) — `skeleton`
 - [Ḍhuṇḍhukanātha](dhundhukanatha.md) — `skeleton`
 - [Ṛbhu](rbhu.md) — `skeleton`
-- [Ṛṣabha](rsabha.md) — `skeleton`
+- [Ṛṣabha (Ṛṣabhanātha, Ādinātha)](rsabha.md) — `skeleton`
 - [Ṛṣabheśvara](rsabhesvara.md) — `skeleton`
 - [Ṛṣiputra Parameśvara](paramesvara-rsiputra.md) — `skeleton`
 - [Ṣaḍakṣaradēva](sadaksaradeva.md) — `skeleton`
-- [Ṣaḍguruśiṣya](sadgurusisya.md) — `skeleton`
+- [Ṣaḍguruśiṣya](sadgurusisya.md) — `sourced`
 - [Ṣaṇmukhasvāmi](sanmukhasvami.md) — `skeleton`
 - [Ṣimānanda Dīkṣita](simananda-diksita.md) — `skeleton`
+- [Ṭhānissaro Bhikkhu](thanissaro-bhikkhu.md) — `skeleton` _(recent)_
+- [Ṭoḍarmal](todarmal.md) — `skeleton`

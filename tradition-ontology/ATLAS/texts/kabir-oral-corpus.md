@@ -361,7 +361,7 @@ Do not say the Vedas and the Books (the Qur'ān and other Semitic scriptures) ar
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, ethics_
 
-concepts: [Neither Hindu nor Turk](../concepts/hindu-and-turk.md), [Sant conduct](../concepts/sant-ethics.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: `dsp:status-of-veda`
+concepts: [Neither Hindu nor Turk](../concepts/hindu-and-turk.md), [Sant conduct](../concepts/sant-ethics.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### pad 'ham na mare, mari hai saṃsārā …' <a id="tea-kabir-oral-corpus-ham-na-mare-mari-hai-sansara"></a>
 `skeleton` · confidence moderate
@@ -415,7 +415,7 @@ I speak of what I have seen with my eyes; you speak of what is written on paper;
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, consciousness-mind_
 
-concepts: [Discernment (pārakh)](../concepts/parakh.md), [The present and the inferred (bartamān and anumān)](../concepts/bartaman-anuman.md) · obstacles: [Book-learning without love](../obstacles/pothi-learning.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: `dsp:status-of-veda`
+concepts: [Discernment (pārakh)](../concepts/parakh.md), [The present and the inferred (bartamān and anumān)](../concepts/bartaman-anuman.md) · obstacles: [Book-learning without love](../obstacles/pothi-learning.md) · teachers: [Kabīr](../teachers/kabir.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### pad 'man na raṅgāye, raṅgāye jogī kapṛā …' <a id="tea-kabir-oral-corpus-man-na-rangaye-jogi-kapra"></a>
 `skeleton` · confidence high
@@ -457,4 +457,4 @@ terms: [ulaṭbāṃsī](../terms/ulatbamsi.md) · concepts: [Reversed speech (u
 _Notes: Created by this unit as the honest home for teachings whose attribution is popular rather than critical; each teaching notes whether the verse is also found in the Bījak or Granthāvalī when recalled._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

@@ -18,4 +18,4 @@ Blocking the eyes with the 'weapon' of the hands, piercing at the brows and clos
 _Notes: Verses 36 (KSTS 8 / GRETIL numbering). Resembles the haṭha ṣaṇmukhī mudrā (see equivalents)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

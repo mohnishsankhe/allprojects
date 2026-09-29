@@ -1,6 +1,6 @@
 # Kātyāyana Śulbasūtra
 
-`src:katyayana-sulbasutra` · `skeleton` · confidence moderate
+`src:katyayana-sulbasutra` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,4 +13,8 @@
 The White Yajurveda rules for measuring and constructing the altars.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:eBharati:kAtyAyanashulbasUtram, https://en.wikipedia.org/wiki/Shulba_Sutras — Extant (eBhāratī, with Mahīdhara's commentary).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

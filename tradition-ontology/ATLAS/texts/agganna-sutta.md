@@ -24,7 +24,7 @@ The brahmins claim to be the best class, born from Brahmā's mouth, his heirs; y
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, ethics_
 
-terms: `trm:vanna`, [brāhmaṇa](../terms/brahmana.md) · disputes: `dsp:caste-and-purity`
+terms: [vaṇṇa](../terms/vanna.md), [brāhmaṇa](../terms/brahmana.md) · disputes: [Is purity and worth determined by birth into a class (varṇa), or by conduct?](../debates/caste-and-purity.md)
 
 ### 7.9 <a id="tea-agganna-sutta-7-9"></a>
 `skeleton` · confidence high
@@ -35,7 +35,7 @@ For the Dhamma is the best thing among people, in this life and the next.
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, ethics_
 
-disputes: `dsp:caste-and-purity`
+disputes: [Is purity and worth determined by birth into a class (varṇa), or by conduct?](../debates/caste-and-purity.md)
 
 ### 10-26 <a id="tea-agganna-sutta-10-26"></a>
 `skeleton` · confidence high
@@ -44,7 +44,7 @@ At the contraction of the world beings are mostly reborn in the Ābhassara realm
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate, dispute_
 
-terms: `trm:kappa` · concepts: `cpt:buddhist-cosmogony`, `cpt:world-cycles` · disputes: `dsp:caste-and-purity`
+terms: [kappa](../terms/kappa.md) · concepts: [The origin of society (Aggañña)](../concepts/buddhist-cosmogony.md), [World-cycles (kappa) and their destructions](../concepts/world-cycles.md) · disputes: [Is purity and worth determined by birth into a class (varṇa), or by conduct?](../debates/caste-and-purity.md)
 
 ### 27-31 <a id="tea-agganna-sutta-27-31"></a>
 `skeleton` · confidence high
@@ -53,10 +53,10 @@ A member of any class who does evil in body, speech and mind goes to a bad desti
 
 _level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, ethics_
 
-concepts: `cpt:thirty-seven-wings` · disputes: `dsp:caste-and-purity`
+concepts: [The thirty-seven qualities conducive to awakening (bodhipakkhiyā dhammā)](../concepts/thirty-seven-wings.md) · disputes: [Is purity and worth determined by birth into a class (varṇa), or by conduct?](../debates/caste-and-purity.md)
 
 
 _Notes: SuttaCentral uid dn27; Mahāsaṅgīti title 'Aggaññasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

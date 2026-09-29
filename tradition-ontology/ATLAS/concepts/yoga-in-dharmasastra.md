@@ -1,6 +1,6 @@
 # Yoga in the Dharmaśāstra
 
-`cpt:yoga-in-dharmasastra` · `skeleton` · confidence high
+`cpt:yoga-in-dharmasastra` · `sourced` · confidence high
 
 **Category:** stages-maps
 **Members:** prāṇāyāma, dhāraṇā, pratyāhāra, dhyāna
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/apastamba-dharmasutra.md (GRETIL) — MDh 6.70–74 (prāṇāyāma, dhāraṇā, pratyāhāra, dhyāna) and ĀpDh 1.8.23.3 ('doṣāṇāṃ tu vinirghāto yogamūla iha jīvite') were found. Rests on teaching checks confirmed in this sweep: tea:manusmrti:6.70-74, tea:apastamba-dharmasutra:1.8.23.3-6.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

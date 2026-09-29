@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A Pallava king whose queen smelled a flowe
 **Realization — the tradition's account:** A Pallava king whose queen smelled a flower fallen from the temple's flower-hall at Tiruvārūr; after Ceruttuṇaiyār had cut her nose, the king cut off the hand that had picked up the flower.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

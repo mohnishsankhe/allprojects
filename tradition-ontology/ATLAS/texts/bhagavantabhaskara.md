@@ -1,6 +1,6 @@
 # Bhagavantabhāskara of Nīlakaṇṭha Bhaṭṭa
 
-`src:bhagavantabhaskara` · `skeleton` · confidence moderate
+`src:bhagavantabhaskara` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -14,4 +14,8 @@
 Nīlakaṇṭha Bhaṭṭa's digest in twelve 'rays' (mayūkha) — on sacraments, conduct, time, śrāddha, law (Vyavahāramayūkha), expiation and others.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:eBharati:dAnamayUkhaH (shrInIlakANThabhaTTaH), https://www.exoticindiaart.com/book/details/vyavaharamayukhah-of-nilakantha-translated-into-english-with-explanatory-notes-and-references-to-decided-cases-nah211/, https://archive.org/details/in.ernet.dli.2015.282933 — Confirmed: Nīlakaṇṭha Bhaṭṭa's encyclopaedic digest in mayūkhas (Vyavahāra-, Ācāra-, Nīti-mayūkha etc. published; the Dānamayūkha is held locally in eBhāratī). Kane places Nīlakaṇṭha c. 1610–1645, matching the entry's 17th c.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

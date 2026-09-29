@@ -1,20 +1,22 @@
-# Yaśastilaka
+# Yaśastilaka of Somadeva
 
-`src:yasastilaka` · `skeleton` · confidence low
+`src:yasastilaka` · `skeleton` · confidence moderate
 
 **Alternate titles:** Yaśastilakacampū
 **Original title:** यशस्तिलक
 **Language:** Sanskrit
 **Family:** ascetic
 **Lineages:** [Digambara](../lineages/digambara.md), [Kāpālika (Somasiddhānta)](../lineages/kapalika.md)
-**Genre:** campū
+**Genre:** campū / romance
+**Authors:** 
+  - [Somadeva Sūri](../teachers/somadeva-suri.md) — role: author; attribution: accepted
 **Attribution:** tradition: Somadeva Sūri; scholarly: the Digambara Somadeva Sūri, completed 959 CE; confidence: high
 **Dates:** Scholarly account: 959 CE; (confidence moderate)
 **Availability:** digitized-original
 
-A Jain prose-and-verse romance. Its frame story turns on a king urged to offer pairs of living beings to a goddess, and it contains polemical accounts of rival religious practice, including Kaula and Kāpālika ways (details to be checked).
+Somadeva's Sanskrit prose-verse romance (959 CE) of King Yaśodhara, who with his mother offered a cock made of flour to the goddess in place of a living animal and suffered many animal births for the intended violence; its last books (Upāsakādhyayana) set out lay conduct.
 
 _Notes: Low confidence on the specific Kāpālika passages; not checked against the text in this run._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 16:38 IST._

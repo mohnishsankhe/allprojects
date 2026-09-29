@@ -15,4 +15,4 @@
 _Notes: Burial practice details are general knowledge of the community (moderate confidence), not from a cited text._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._

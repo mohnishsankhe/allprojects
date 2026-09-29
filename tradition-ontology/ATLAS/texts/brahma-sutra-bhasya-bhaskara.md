@@ -73,4 +73,4 @@ concepts: [Liberation while living (jīvanmukti)](../concepts/jivanmukti.md), [L
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._

@@ -23,4 +23,4 @@
 - same-as-under-standpoint → [Grace (anugraha) as the Lord's fifth act](grace-anugraha.md) (divine): Tamil aruḷ is also the Śaiva Siddhānta word for Śiva's grace; the Āḻvārs' aruḷ is Tirumāl's — same name, different Lord for each tradition — rests on [1.1.1](../texts/tiruvaymoli.md#tea-tiruvaymoli-1-1-1)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U25-alvar-bhakti-theory, skeleton:U03-principal-upanisads, skeleton:U26-regional-bhakti, skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U25-alvar-bhakti-theory, skeleton:U03-principal-upanisads, skeleton:U26-regional-bhakti, skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

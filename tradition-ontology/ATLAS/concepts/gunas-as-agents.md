@@ -15,4 +15,4 @@
 - part-of → [The three guṇas](three-gunas.md) — rests on [3.5](../texts/bhagavad-gita.md#tea-bhagavad-gita-3-5), [3.27](../texts/bhagavad-gita.md#tea-bhagavad-gita-3-27)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-28 09:07 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 16:38 IST._

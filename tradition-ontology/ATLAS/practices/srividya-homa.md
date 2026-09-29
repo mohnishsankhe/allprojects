@@ -14,4 +14,4 @@ The fire rite: preparation of the fire and offerings to the Goddess and her reti
 **Sequences:** [The Śrīvidyā sequence of initiation and worship (Paraśurāma Kalpasūtra)](../paths/srividya-krama-diksa.md)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._

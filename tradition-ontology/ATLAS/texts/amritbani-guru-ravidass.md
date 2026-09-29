@@ -13,4 +13,4 @@
 The scripture of the Ravidassia Dharam declared by Dera Sachkhand Ballan in 2010, containing Ravidās's hymns (drawn largely from the Ādi Granth recension) for use in Ravidāsī places of worship in place of the Guru Granth Sāhib.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

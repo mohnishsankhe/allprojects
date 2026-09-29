@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [The five voids (vyoma-pañcaka)](five-vyomas.md): U04 and U21 created two ids for the same list; flagged for the merge — rests on [topic.knowledge-of-own-body](../texts/vivekamartanda.md#tea-vivekamartanda-topic-knowledge-of-own-body)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._

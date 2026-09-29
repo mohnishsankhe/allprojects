@@ -17,16 +17,16 @@ No: unconscious atoms cannot begin to move (adṛṣṭa being unconscious), inh
 - BSBh 2.2.11–17.
 **Texts:** 
   - [Brahmasūtrabhāṣya of Śaṅkara (Śārīrakamīmāṃsābhāṣya)](../texts/brahma-sutra-bhasya-sankara.md) — ref: 2.2.11–17
-### `lin:yogacara`
+### [Yogācāra](../lineages/yogacara.md)
 No: atoms joining on six sides would have six parts; if they do not join, aggregates would be no larger than an atom (Vasubandhu).
 - Viṃśatikā vv. 11–15 (range from memory).
 **Texts:** 
-  - `src:vimsatika` — ref: vv. 11–15
+  - [Viṃśatikā (Viṃśatikāvijñaptimātratāsiddhi)](../texts/vimsatika.md) — ref: vv. 11–15
 ### [Jainism (Jaina dharma)](../lineages/jainism.md)
 Atoms exist but are of one kind of matter (pudgala), taking the form of any element, and bond by their sticky and dry qualities.
 - Tattvārtha Sūtra 5 (as usually cited).
 **Texts:** 
-  - `src:tattvartha-sutra` — ref: ch. 5
+  - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: ch. 5
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -36,4 +36,4 @@ Atoms exist but are of one kind of matter (pudgala), taking the form of any elem
 **Candidate readings:** P1-level: Advaita and Yogācāra could allow atomic analysis at the empirical level while denying it ultimacy; Vaiśeṣika rejects that frame.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

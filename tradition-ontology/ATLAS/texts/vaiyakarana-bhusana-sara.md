@@ -23,8 +23,8 @@ The sphoṭa is counted as eightfold — letter-, word- and sentence-sphoṭa, e
 
 _level: ultimate · standpoint: analytic · path: knowledge, sound · stage: all · types: sound-language_
 
-terms: [sphoṭa](../terms/sphota.md), [vākya](../terms/vakya.md) · concepts: `cpt:eight-sphotas`, `cpt:sentence-as-unit` · teachers: [Kauṇḍa Bhaṭṭa](../teachers/kaunda-bhatta.md), [Bhaṭṭoji Dīkṣita](../teachers/bhattoji-diksita.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
+terms: [sphoṭa](../terms/sphota.md), [vākya](../terms/vakya.md) · concepts: [The eight kinds of sphoṭa](../concepts/eight-sphotas.md), [The sentence as the indivisible unit of meaning (akhaṇḍa-vākya)](../concepts/sentence-as-unit.md) · teachers: [Kauṇḍa Bhaṭṭa](../teachers/kaunda-bhatta.md), [Bhaṭṭoji Dīkṣita](../teachers/bhattoji-diksita.md) · disputes: [Is there a sphoṭa — a unitary word-entity distinct from the letters — that conveys meaning?](../debates/sphota.md)
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

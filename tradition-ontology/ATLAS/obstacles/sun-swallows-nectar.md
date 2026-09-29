@@ -19,4 +19,4 @@ The nectar that drips from the moon at the palate or crown is swallowed by the s
 _Notes: The doctrine behind it is U28's cpt:sun-moon-fire._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._

@@ -15,4 +15,4 @@
 A canonical word-commentary on the Pārāyanavagga and the Khaggavisāṇa Sutta of the Sutta Nipāta, ascribed to Sāriputta.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

@@ -16,6 +16,6 @@ _Notes: The tradition counts him among Brahmā's mind-born sons (not checked her
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 5.42.1, 5.42.4, 5.45.1 — Located as described; his status as Brahmā's mind-born son is not checked, as the entry itself notes.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 5.42.1, 5.42.4, 5.45.1 — Located as described; his status as Brahmā's mind-born son is not checked, as the entry itself notes.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

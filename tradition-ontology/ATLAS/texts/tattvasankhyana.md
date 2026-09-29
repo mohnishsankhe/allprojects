@@ -73,10 +73,10 @@ Creation, maintenance, dissolution, control, ignorance, awakening, bondage, rele
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: all · types: ultimate, world-fate, karma-liberation_
 
-terms: [aṣṭa-kartṛtva](../terms/asta-kartrtva.md), [Viṣṇu](../terms/visnu.md) · concepts: [God's eightfold agency (aṣṭa-kartṛtva)](../concepts/asta-kartrtva.md), [Independent and dependent reality (svatantra–paratantra)](../concepts/svatantra-paratantra.md) · disputes: `dsp:isvara`
+terms: [aṣṭa-kartṛtva](../terms/asta-kartrtva.md), [Viṣṇu](../terms/visnu.md) · concepts: [God's eightfold agency (aṣṭa-kartṛtva)](../concepts/asta-kartrtva.md), [Independent and dependent reality (svatantra–paratantra)](../concepts/svatantra-paratantra.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 
 _Notes: All eleven verses checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions; Jayatīrtha's ṭīkā is src:tattvasankhyana-tika-jayatirtha._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

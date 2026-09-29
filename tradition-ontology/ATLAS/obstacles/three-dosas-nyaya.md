@@ -13,7 +13,7 @@ Faults are what impel to activity; they fall into three groups — attachment, a
   - [Nyāya Sūtra](../texts/nyaya-sutra.md) — ref: 1.1.18; 4.1.3–6; 4.2.2; rests_on: ["tea:nyaya-sutra:4.1.3", "tea:nyaya-sutra:4.1.6", "tea:nyaya-sutra:4.2.2"]
 
 ## Equivalents (interpretation layer)
-- analogous: `obs:three-poisons` — The Buddhist three roots/poisons (greed, hatred, delusion) have the same triad; Nyāya derives them from false knowledge about the self.
+- analogous: [The three roots of bad (greed, hatred, delusion)](three-poisons.md) — The Buddhist three roots/poisons (greed, hatred, delusion) have the same triad; Nyāya derives them from false knowledge about the self.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

@@ -29,4 +29,4 @@
 _Notes: Other lineages (e.g. Sāṃkhya) contribute very different definitions under this term; no equivalence is asserted here._
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U01-vedic-samhitas, skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U02-brahmana-vedanga, skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U01-vedic-samhitas, skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U02-brahmana-vedanga, skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

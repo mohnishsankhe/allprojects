@@ -13,4 +13,4 @@ Taking ash from the sacred fire and smearing all the limbs while reciting the 'a
   - [Īśvara Gītā](../texts/isvara-gita.md) — ref: 2.11.66-68; rests_on: ["tea:isvara-gita:2.11.66-68"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

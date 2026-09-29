@@ -9,4 +9,4 @@
 U23 contribution: priest of Kālī at Dakṣiṇeśvar who practised the tantric disciplines under the Bhairavī Brāhmaṇī and worshipped his wife Sāradā as the Goddess Ṣoḍaśī.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._

@@ -24,4 +24,4 @@
 **Related:** [śaraṇāgati](saranagati.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U14-visistadvaita, skeleton:U03-principal-upanisads, skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U14-visistadvaita, skeleton:U03-principal-upanisads, skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._

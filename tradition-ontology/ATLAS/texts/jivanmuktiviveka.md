@@ -53,4 +53,4 @@ concepts: [The five purposes of jīvanmukti](../concepts/five-purposes-of-jivanm
 
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

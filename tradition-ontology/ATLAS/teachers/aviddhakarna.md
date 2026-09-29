@@ -2,7 +2,7 @@
 
 `tch:aviddhakarna` · `skeleton` · confidence low
 
-**Lineages:** [Nyāya](../lineages/nyaya.md)
+**Lineages:** [Nyāya](../lineages/nyaya.md), [Cārvāka / Lokāyata](../lineages/carvaka.md)
 **Dates:** Scholarly account: before c. 750 CE; (confidence low)
 **Historicity:** historical
 
@@ -11,4 +11,4 @@ Early Naiyāyika known only from citations in Buddhist works (Śāntarakṣita's
 _Notes: Known only through opponents' reports; details unverified._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._

@@ -17,4 +17,4 @@ Outer purity with earth, water and pure food, and inner washing away of the mind
 **Sequences:** `pth:yoga-sutra-eight-limbs`
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 16:38 IST._

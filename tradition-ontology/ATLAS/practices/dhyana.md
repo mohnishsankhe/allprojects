@@ -19,4 +19,4 @@ The continuous flow of a single cognition on the place of concentration (3.2); i
 **Sequences:** `pth:yoga-sutra-eight-limbs`
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

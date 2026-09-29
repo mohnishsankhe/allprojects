@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [Puruṣa (the conscious self)](purusa.md): the top of the ladder is the puruṣa — rests on [1.3.10-11](../texts/katha-upanisad.md#tea-katha-upanisad-1-3-10-11)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

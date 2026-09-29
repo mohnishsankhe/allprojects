@@ -20,4 +20,4 @@ The Siddhars' Śākta worship: the goddess Vālai (Bālā), mother Maṉōṉma�
 - partial: [Contemplation of the body as the Śrīcakra](sricakra-bhavana.md) — the Meru of 43 triangles is the Śrīcakra
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

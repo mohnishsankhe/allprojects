@@ -14,4 +14,4 @@
 - contrasts-with → [Non-origination (ajātivāda)](ajativada.md): vivarta speaks of appearance; ajāti denies any origination at the highest level — rests on [3.48](../texts/mandukya-karika.md#tea-mandukya-karika-3-48)
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

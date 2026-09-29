@@ -11,11 +11,11 @@ Cavilling without a counter-thesis is a recognized but inferior form of debate, 
 **Texts:** 
   - [Nyāya Sūtra](../texts/nyaya-sutra.md) — ref: 1.2.3; 4.2.50
   - [Nyāyabhāṣya](../texts/nyaya-bhasya.md) — ref: 1.1.1
-### `lin:madhyamaka`
+### [Madhyamaka](../lineages/madhyamaka.md)
 The Mādhyamika refutes the opponent's theses by consequences without advancing a thesis of his own: 'if I had a thesis the fault would be mine; since I have none, there is no fault' (Nāgārjuna).
 - Vigrahavyāvartanī v. 29 (as usually cited).
 **Texts:** 
-  - `src:vigrahavyavartani` — ref: v. 29
+  - [Vigrahavyāvartanī](../texts/vigrahavyavartani.md) — ref: v. 29
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -25,4 +25,4 @@ The Mādhyamika refutes the opponent's theses by consequences without advancing 
 **Candidate readings:** P6-upaya: the Madhyamaka's thesis-less refutation as a skilful means aimed at the opponent's clinging.; P1-level: absence of a thesis 'ultimately' while using conventional language.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

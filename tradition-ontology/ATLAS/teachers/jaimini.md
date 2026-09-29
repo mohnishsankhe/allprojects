@@ -21,5 +21,6 @@ _Notes: The Purāṇic Jaimini (Sāmaveda transmitter, narrator of the Jaimini A
 **Verification checks**
 
 - 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki/01/004.md, https://en.wikipedia.org/wiki/Purva_Mimamsa_Sutras — Located: 'sāmago jaiminiḥ kaviḥ' (Bhāgavata 1.4.21), Viṣṇu Purāṇa 3.4.9. The identification with the Mīmāṃsā-sūtra author is traditional; the entry correctly marks it as disputed.
+- 2026-09-28 catalog: confirmed — catalog:DCS:Jaiminīyabrāhmaṇa — Confirmed as the eponym of the Jaiminīya Sāmaveda school, whose Brāhmaṇa is extant. The other identifications are labelled as tradition.
 
-_Contributed by: skeleton:U12-mimamsa, skeleton:U13-advaita, skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U32-jyotisa, skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U13-advaita, skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U32-jyotisa, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

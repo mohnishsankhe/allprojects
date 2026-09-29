@@ -8,10 +8,12 @@
 
 ## Definitions by tradition
 - [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md): One claimed to know everything, including dharma, directly; not established by perception, scripture or tradition; an omniscient by all six means of knowledge would not be denied, but none knows dharma by perception (ŚV codanā 110–136).
+- [Jainism (Jaina dharma)](../lineages/jainism.md): The omniscient teacher whose existence Jain logicians defend against Mīmāṃsā (Āptamīmāṃsā 4–5).
 
 ## Forms in other languages
+- Prakrit: savvaṇṇu  — exact
 
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._

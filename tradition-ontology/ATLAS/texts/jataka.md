@@ -12,6 +12,7 @@
 **Availability:** digitized-original
 
 The canonical verses of 547 stories of the bodhisatta's former births; the prose stories that frame them belong to the commentary (Jātakaṭṭhakathā), which also contains the Nidānakathā biography of the Buddha.
+**Commentaries on this text:** [Jātakaṭṭhavaṇṇanā](jataka-atthakatha.md)
 
 ## Teachings (1: skeleton 1)
 
@@ -24,8 +25,8 @@ The goal passes by the fool who waits on the lucky star; the goal is the goal's 
 
 _level: conventional · standpoint: polemical · path: action · stage: all · types: world-fate, dispute_
 
-disputes: `dsp:astrology-for-renunciants`, `dsp:jyotisa-fate-and-effort`
+disputes: [May monks and renunciants practise astrology or live by it?](../debates/astrology-for-renunciants.md), [If the chart shows fate, what room is left for human effort and for remedial rites?](../debates/jyotisa-fate-and-effort.md)
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

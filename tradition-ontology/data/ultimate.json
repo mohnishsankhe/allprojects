@@ -32,6 +32,71 @@
  },
  "views": [
   {
+   "id": "ult:adhyatma-jain",
+   "lineage": "lin:adhyatma-jain",
+   "names": [
+    {
+     "name": "śuddhātman (the pure self)",
+     "term": "trm:suddhatman"
+    },
+    {
+     "name": "samayasāra (the essence of the self)"
+    },
+    {
+     "name": "paramātman",
+     "term": "trm:paramatman"
+    },
+    {
+     "name": "cidānanda (consciousness-bliss)",
+     "term": "trm:cidananda"
+    },
+    {
+     "name": "jñāyaka-bhāva (the knower)",
+     "term": "trm:jnayaka-bhava"
+    }
+   ],
+   "descriptions": [
+    "The self shining by self-experience, whose nature is consciousness, cutting through all other states (Samayasāra-kalaśa 1).",
+    "One, pure, made of perception and knowledge, formless; not even an atom of anything else is mine (Samayasāra 38).",
+    "Who the supreme self is, that am I (Yogīndu, Yogasāra 22)."
+   ],
+   "negations": [
+    "Not the body, not karma, not the passions (Iṣṭopadeśa 50).",
+    "Not the doer of material karma in the ultimate standpoint."
+   ],
+   "relation_to_self": "Identical with one's own pure self as seen by the ultimate standpoint; realised through discriminative knowledge and self-experience.",
+   "relation_to_world": "The world of substances is real; the self is its knower, not its maker; conventional conduct belongs to the path, not to the self's nature.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "'I am the supreme self' in the Adhyātma texts means that each soul's own nature is the perfected state, not that all souls are one Brahman; the movement accepts the Jain plurality of souls and the reality of the world, and its mature form insists on holding the conventional standpoint alongside the ultimate.",
+   "rests_on": [
+    "tea:samayasara-kalasa:1",
+    "tea:samayasara:38",
+    "tea:samayasara:14",
+    "tea:yogasara-yogindu:22",
+    "tea:istopadesa:50",
+    "tea:purusarthasiddhyupaya:8"
+   ],
+   "coverage": [
+    "I3",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U35-jain-philosophy"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:advaita-vedanta",
    "lineage": "lin:advaita-vedanta",
    "names": [
@@ -146,6 +211,98 @@
    "provenance": {
     "units": [
      "skeleton:U21-natha-aghora"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:ajivika",
+   "lineage": "lin:ajivika",
+   "names": [
+    {
+     "name": "niyati (destiny, necessity)",
+     "term": "trm:niyati"
+    },
+    {
+     "name": "the end of suffering after the fixed round (dukkhass' anta)",
+     "term": "trm:dukkhassanta"
+    },
+    {
+     "name": "iṟai, 'the boundless knower' (Maṇimēkalai 27, Tamil Ājīvika)",
+     "term": "trm:irai-ajivika"
+    }
+   ],
+   "descriptions": [
+    "(As reported) All beings are transformed by niyati, saṅgati and bhāva (DN 2).",
+    "(As reported) Pleasure and pain are measured out as with a measure; saṃsāra has fixed limits (DN 2).",
+    "(Tamil report) The lord is the boundless knower who pervades endless things everywhere and always; release is reached in the supreme white birth (Maṇimēkalai 27.108–165)."
+   ],
+   "negations": [
+    "No cause or condition for the defilement or purification of beings (DN 2).",
+    "No exertion, strength, energy or human effort (Uvāsagadasāo 7)."
+   ],
+   "relation_to_self": "(As reported) The jīva is real and transmigrates through the fixed round; in the Jain account a soul can re-enter successive bodies (reanimation).",
+   "relation_to_world": "(As reported) The world-course is fixed in every detail and runs through 8,400,000 great aeons for every being.",
+   "personal_or_impersonal": "impersonal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "No Ājīvika text survives; every statement comes from hostile Buddhist, Jain or Tamil sources. Niyati is a governing order, not a ground of being, and the sources never present it as 'the one truth'. The Tamil report of a 'lord who is the boundless knower' may refer to the omniscient teacher rather than a creator; it is recorded as the source gives it.",
+   "rests_on": [
+    "tea:samannaphala-sutta:20",
+    "tea:upasakadasa:7",
+    "tea:manimekalai:27.108-165",
+    "tea:chalabhijati-sutta:1-9"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U33-sramana"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:ajnana",
+   "lineage": "lin:ajnana",
+   "names": [
+    {
+     "name": "none affirmed (vikkhepa — the refusal)",
+     "term": "trm:amaravikkhepa"
+    }
+   ],
+   "descriptions": [
+    "(As reported) To every question about the other world, spontaneously born beings, fruit of deeds and the Tathāgata after death, in all four forms, the answer is refused (DN 2)."
+   ],
+   "negations": [
+    "'I do not say it is so, nor thus, nor otherwise, nor not so, nor not not so.'"
+   ],
+   "relation_to_self": "Not asserted: (Jain report) 'who knows whether the soul exists, and what use is knowing it?'",
+   "relation_to_world": "Not asserted.",
+   "personal_or_impersonal": "not-posited",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Ajñānikas refuse to affirm any ultimate; to read their refusal as pointing to an ineffable one truth would be an interpretation they are reported to reject as another assertion. Both Buddhist and Jain reporters insist their own undeclared points and 'inexpressible' (avaktavya) differ from this refusal.",
+   "rests_on": [
+    "tea:samannaphala-sutta:32",
+    "tea:brahmajala-sutta:2.23-2.29",
+    "tea:sutrakrtanga:1.12.2"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U33-sramana"
     ],
     "phases": [
      "skeleton"
@@ -361,6 +518,66 @@
    "provenance": {
     "units": [
      "skeleton:U17-pasupata-kapalika"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:ayurveda",
+   "lineage": "lin:ayurveda",
+   "names": [
+    {
+     "name": "the supreme self (para ātman)",
+     "term": "trm:atman"
+    },
+    {
+     "name": "the unmanifest (avyakta), knower of the field",
+     "term": "trm:avyakta"
+    },
+    {
+     "name": "brahman (as release: apavarga, nirvāṇa)",
+     "term": "trm:moksa"
+    }
+   ],
+   "descriptions": [
+    "The supreme self is changeless, eternal, the seer, cause of consciousness together with mind, the elements' qualities and the senses (Ca Sū 1.56).",
+    "Disengagement is release: the supreme, tranquil, imperishable — that is brahman, that is liberation (Ca Śā 5.11); sinless, passionless, deathless, brahman, nirvāṇa (5.23).",
+    "The person is the measure of the world: brahman is the inner self (Śā 5.4-5)."
+   ],
+   "negations": [
+    "The self become brahman is not perceived and has no mark (Ca Śā 1.155).",
+    "'This is not I, this is not mine' (Ca Śā 1.153)."
+   ],
+   "relation_to_self": "The individual self is eternal, beginningless and (for Caraka) all-pervading; the empirical person is the aggregate born of delusion, desire, aversion and karma; release is that self 'become brahman'.",
+   "relation_to_world": "The world is real and made of the five elements; the person and the world correspond member for member; seeing oneself in all and all in oneself gives rise to the true understanding.",
+   "personal_or_impersonal": "impersonal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Āyurveda is a science of life rather than a soteriology: its purpose is health (Ca Sū 30.26), and its metaphysics (chiefly Caraka Śā 1 and 5, Suśruta Śā 1) is close to Sāṃkhya-Yoga and Vaiśeṣika. No creator is required — Kāṅkāyana's Prajāpati-theory is rejected in Ca Sū 25, and Suśruta leaves the 'source' open among nature, the Lord, time, chance, destiny and transformation (Su Śā 1.11); Caraka and Suśruta differ on whether selves are all-pervading. It would reject any reading that makes medicine itself the means of liberation, while holding health to be the root of all four aims.",
+   "rests_on": [
+    "tea:caraka-samhita:su.1.56",
+    "tea:caraka-samhita:sa.5.11",
+    "tea:caraka-samhita:sa.5.20-23",
+    "tea:caraka-samhita:sa.1.152-155",
+    "tea:caraka-samhita:sa.5.3-5",
+    "tea:caraka-samhita:su.30.26",
+    "tea:susruta-samhita:sa.1.10-11",
+    "tea:caraka-samhita:su.1.15-16"
+   ],
+   "coverage": [
+    "A11",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U30-ayurveda-rasa"
     ],
     "phases": [
      "skeleton"
@@ -823,6 +1040,59 @@
    }
   },
   {
+   "id": "ult:carvaka",
+   "lineage": "lin:carvaka",
+   "names": [
+    {
+     "name": "the four elements (bhūta-catuṣṭaya) as the only principles",
+     "term": "trm:bhuta-catustaya"
+    },
+    {
+     "name": "own-nature (svabhāva)",
+     "term": "trm:svabhava"
+    },
+    {
+     "name": "the world as far as the senses reach (yāvān indriyagocaraḥ)",
+     "term": "trm:lokayata"
+    }
+   ],
+   "descriptions": [
+    "(As reported) 'Earth, water, fire, air: these are the principles' (Bṛhaspati Sūtra fragment).",
+    "(As reported) The variety of the world — fire hot, water cold, wind temperate — is fixed by svabhāva, not by an unseen cause (Sarvadarśanasaṅgraha 1)."
+   ],
+   "negations": [
+    "No other world, no self that goes to it (paralokino 'bhāvāt paralokābhāvaḥ).",
+    "No heaven or liberation other than pleasure and the death of the body; no lord but the king.",
+    "(Jayarāśi) Not even the elements 'stand when examined' — no principle is established."
+   ],
+   "relation_to_self": "(As reported) The self is the living body qualified by consciousness; it ends with the body.",
+   "relation_to_world": "(As reported) The world is the perceptible aggregate of four elements.",
+   "personal_or_impersonal": "not-posited",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Cārvāka denies any ultimate beyond what perception shows and explicitly denies another world, an unseen cause and liberation; Jayarāśi denies that any principle can be established. Any one-truth reading runs against these denials; the school would call it the priests' 'livelihood'.",
+   "rests_on": [
+    "tea:brhaspati-sutra:fr-tattvani",
+    "tea:brhaspati-sutra:fr-paraloka",
+    "tea:sarvadarsanasangraha:1/4",
+    "tea:sarvadarsanasangraha:1/7",
+    "tea:tattvopaplavasimha:0.2"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U33-sramana"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:charandasi",
    "lineage": "lin:charandasi",
    "names": [
@@ -1009,6 +1279,42 @@
    }
   },
   {
+   "id": "ult:dharmaguptaka",
+   "lineage": "lin:dharmaguptaka",
+   "names": [
+    {
+     "name": "nirvāṇa / liberation (vimukti)",
+     "term": "trm:nirvana"
+    }
+   ],
+   "descriptions": [
+    "The liberation of the Buddhas and of the disciples is one, though their paths differ (Vasumitra)."
+   ],
+   "negations": [],
+   "relation_to_self": "No self (general Sthavira position; no separate record).",
+   "relation_to_world": "Not separately recorded.",
+   "personal_or_impersonal": "impersonal",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "Doctrine known only from a few doxographic tenets; this view is a thin reconstruction.",
+   "rests_on": [
+    "tea:samayabhedoparacanacakra:7"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U38-early-schools"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:dharmasastra",
    "lineage": "lin:dharmasastra",
    "names": [
@@ -1050,6 +1356,86 @@
     "tea:manusmrti:6.35-37"
    ],
    "verification": {
+    "level": "sourced",
+    "confidence": "high",
+    "unverified": false,
+    "checks": [
+     {
+      "phase": "C",
+      "date": "2026-09-29",
+      "method": "text-locate",
+      "queries": [
+       "see tea:manusmrti:12.118-125, tea:yajnavalkyasmrti:3.144, tea:apastamba-dharmasutra:1.8.22.2-8"
+      ],
+      "evidence": [
+       "text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering)",
+       "text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/yajnavalkya-smrti_plain_text.md (GRETIL)",
+       "text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/apastamba-dharmasutra.md (GRETIL)"
+      ],
+      "result": "confirmed",
+      "note": "All the descriptions were found. MDh 12.122–124 (the ruler of all, subtler than the subtle; called Agni, Manu, Prajāpati, Indra, breath, eternal Brahman; turning beings like a wheel), YS 3.144 (one self like the sun in many waters), MDh 12.83–85, YS 1.8 and MDh 6.35–37 are cited in confirmed teaching checks. ĀpDh 1.8.22 (all beings the city of the one in the cave) is also confirmed, with the locator widened to 1.8.22.1–8.",
+      "by": "sourcing:U02-brahmana-vedanga"
+     }
+    ]
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U02-brahmana-vedanga"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:digambara",
+   "lineage": "lin:digambara",
+   "names": [
+    {
+     "name": "śuddhātman (the pure self)",
+     "term": "trm:suddhatman"
+    },
+    {
+     "name": "Paramātman",
+     "term": "trm:paramatman"
+    },
+    {
+     "name": "samaya (the self, in the Samayasāra)",
+     "term": "trm:samaya"
+    },
+    {
+     "name": "jñāyaka-bhāva (the knowing state)",
+     "term": "trm:jnayaka-bhava"
+    },
+    {
+     "name": "Siddha",
+     "term": "trm:siddha"
+    }
+   ],
+   "descriptions": [
+    "from the standpoint of ultimate reality the self is unbound, untouched, not other, constant, undifferentiated and unconjoined (Samayasāra 14)",
+    "one, pure, made of perception and knowledge, formless; not an atom of anything else is mine (Samayasāra 38)",
+    "the knowing state beyond all stages of quality (Samayasāra 6)",
+    "free of the eighteen faults, including hunger and thirst (Niyamasāra 6)"
+   ],
+   "negations": [
+    "in truth there is no knowledge, conduct or faith as separate attributes of the knower (Samayasāra 7)",
+    "not reached in a clothed or female body",
+    "not a creator"
+   ],
+   "relation_to_self": "The pure self is the soul's own nature now, seen from the ultimate standpoint; the conventional standpoint describes the bound soul in order to lead it there.",
+   "relation_to_world": "Real and uncreated; karmic matter and the soul occasion each other's changes without either becoming the other.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Jain tradition denies a single all-encompassing reality and a creator: liberated souls are infinitely many and remain distinct, and the universe of six substances is uncreated. It can accept 'one truth, many names' only in its own way — as many-sidedness (anekānta) about a plural reality — not as the identity of all souls in one substance. Kundakunda's language of the pure self is sometimes compared with Advaita; the Digambara tradition insists the pure self is each individual soul's own, not a universal Brahman.",
+   "rests_on": [
+    "tea:samayasara:6",
+    "tea:samayasara:7",
+    "tea:samayasara:14",
+    "tea:samayasara:38",
+    "tea:niyamasara:6"
+   ],
+   "verification": {
     "level": "skeleton",
     "confidence": "high",
     "unverified": false,
@@ -1057,7 +1443,7 @@
    },
    "provenance": {
     "units": [
-     "skeleton:U02-brahmana-vedanga"
+     "skeleton:U34-jain-canon"
     ],
     "phases": [
      "skeleton"
@@ -1264,11 +1650,11 @@
    "rests_on": [
     "tea:udana:8.1",
     "tea:udana:8.3",
-    "tea:nibbanapanha-sutta:1.1-2.4",
+    "tea:nibbanapanha-sutta:2.1-2.4",
     "tea:asankhata-samyutta:43.12",
     "tea:mulapariyaya-sutta:26.1-26.4",
-    "tea:rohitassa-sutta:3.1-3.6",
-    "tea:kevaddha-sutta:85.1-85.8",
+    "tea:rohitassa-sutta:5.1-5.2",
+    "tea:kevaddha-sutta:85.10-85.27",
     "tea:dhammapada:277-279",
     "tea:aggivacchagotta-sutta:20.1-20.9",
     "tea:dhammacakkappavattana-sutta:10.1-10.3"
@@ -1663,6 +2049,180 @@
    "provenance": {
     "units": [
      "skeleton:U28-hatha-texts"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:jainism",
+   "lineage": "lin:jainism",
+   "names": [
+    {
+     "name": "Paramātman (the supreme self, the soul fully manifest)",
+     "term": "trm:paramatman"
+    },
+    {
+     "name": "Siddha (the perfected one)",
+     "term": "trm:siddha"
+    },
+    {
+     "name": "Arhat / Jina / Kevalin (the embodied omniscient)",
+     "term": "trm:jina"
+    },
+    {
+     "name": "mokṣa / nirvāṇa (the state)",
+     "term": "trm:moksa"
+    },
+    {
+     "name": "paramātman (the supreme self)",
+     "term": "trm:paramatman"
+    },
+    {
+     "name": "siddha (the perfected)",
+     "term": "trm:siddha"
+    },
+    {
+     "name": "kevala-jñāna (omniscience)",
+     "term": "trm:kevala-jnana"
+    },
+    {
+     "name": "mokṣa / nirvāṇa",
+     "term": "trm:moksa"
+    },
+    {
+     "name": "the soul's own nature (svabhāva) with its infinite fourfold",
+     "term": "trm:ananta-catustaya"
+    }
+   ],
+   "descriptions": [
+    "the soul's own nature fully unveiled: infinite knowledge, perception, bliss and energy",
+    "who knows one knows all; who knows all knows one (Ācārāṅga 1.3.4)",
+    "formless being that perceives and knows, beyond comparison (Ācārāṅga 1.5.6)",
+    "abiding at the summit of the universe in unobstructed happiness (Aupapātika; Uttarādhyayana 36)",
+    "the pure, eternal law is non-harm, proclaimed by all Arhats (Ācārāṅga 1.4.1)",
+    "Each soul's own pure nature: infinite knowledge, perception, bliss and energy, manifest when all karma is shed (TS 10.2–4).",
+    "The liberated soul abides at the summit of the universe, bodiless, knowing all substances and all modes (TS 1.29, 10.5).",
+    "Called by others Sadāśiva, the supreme Brahman, the perfected self, suchness — one goal under many names (Haribhadra, YDS 129–130).",
+    "Non-violence is called the supreme Brahman known in the world (Svayambhūstotra, recalled)."
+   ],
+   "negations": [
+    "not long or short, of no colour, smell, taste or touch; not female, male or neuter; beyond sound, reasoning and mind (Ācārāṅga 1.5.6)",
+    "not a creator or ruler of the world",
+    "not a single substance of which souls are parts",
+    "No creator or controller of the world (Ādipurāṇa 4; Anyayogavyavacchedikā 6).",
+    "Not one all-pervading self: souls are innumerable, distinct and body-sized (TS 5.16).",
+    "Not merely permanent nor merely momentary (TS 5.30)."
+   ],
+   "relation_to_self": "Every soul is by nature what the Siddha is; bondage is karmic matter covering that nature, and liberation is its uncovering by one's own effort through the three jewels.",
+   "relation_to_world": "The world is real, uncreated and eternal, made of souls and non-souls; the liberated know it entirely but neither make nor govern it.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Jain tradition denies a single all-encompassing reality and a creator: liberated souls are infinitely many and remain distinct, and the universe of six substances is uncreated. It can accept 'one truth, many names' only in its own way — as many-sidedness (anekānta) about a plural reality — not as the identity of all souls in one substance.",
+   "rests_on": [
+    "tea:acaranga-sutra:1.3.4",
+    "tea:acaranga-sutra:1.5.6",
+    "tea:acaranga-sutra:1.4.1",
+    "tea:aupapatika:siddha",
+    "tea:uttaradhyayana-sutra:36",
+    "tea:tattvartha-sutra:10.2",
+    "tea:tattvartha-sutra:10.3-4",
+    "tea:tattvartha-sutra:1.29",
+    "tea:tattvartha-sutra:5.16",
+    "tea:tattvartha-sutra:5.30",
+    "tea:yogadrstisamuccaya:129-130",
+    "tea:anyayogavyavacchedika:6",
+    "tea:svayambhustotra:119"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "notes": "U35 contribution (lin:jainism is owned by U34, which may add its own view under the same id; the merge unions them).",
+   "coverage": [
+    "B2",
+    "D"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U34-jain-canon",
+     "skeleton:U35-jain-philosophy"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:jyotisa",
+   "lineage": "lin:jyotisa",
+   "names": [
+    {
+     "name": "Brahman, unthinkable and unmanifest, without and with qualities (Sūrya Siddhānta 1.1)"
+    },
+    {
+     "name": "Vāsudeva, the supreme Brahman; Aniruddha as the Sun-Hiraṇyagarbha (SS 12.12–21)"
+    },
+    {
+     "name": "Ka — one and many, the true deity, the supreme Brahman (Āryabhaṭīya 1.1)"
+    },
+    {
+     "name": "Viṣṇu, one and unmanifest, with the powers Śrī, Bhū and Nīlā; Janārdana in the form of the planets (BPHS 1.9–20; 2.3)"
+    },
+    {
+     "name": "The Sun as self of all embodied beings, self of Kālapuruṣa, maker of time and door of liberation (Yogayātrā 1.1; BJ 1.1; 2.1)",
+     "term": "trm:surya"
+    },
+    {
+     "name": "Kāla, time — the destroyer of worlds (SS 1.10)",
+     "term": "trm:kala"
+    }
+   ],
+   "descriptions": [
+    "acintya-avyakta-rūpa, nirguṇa yet guṇātman, support of the world (SS 1.1)",
+    "one quarter manifest, three quarters immortal (SS 12.20; BPHS 1.10–11)",
+    "present in all beings as the supreme-Self portion beside the jīva-portion (BPHS 1.21–24)",
+    "gives beings the fruits of karma in the form of the planets (BPHS 2.3)"
+   ],
+   "negations": [
+    "unthinkable, unmanifest, without qualities (SS 1.1)",
+    "time without beginning or end (Āryabhaṭīya 3.11)"
+   ],
+   "relation_to_self": "The Sun is the self of Kālapuruṣa and of all embodied beings (BJ 2.1; Yogayātrā 1.1); each being has a portion of the individual soul and a portion of the supreme Self (BPHS 1.21–24); the ātmakāraka signifies the self in the chart.",
+   "relation_to_world": "The Lord divides himself into the twelve signs and twenty-seven asterisms (SS 12.25); time is his form; the planets are his forms and avatāras dispensing karma (BPHS 2.3–7); the earth-globe stands in space by Brahman's supporting power (SS 12.32).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Jyotiṣa is a limb (aṅga) of the Veda — its eye — and a science of time and of the ripening of karma, not itself a soteriology. It names the ultimate only in invocations and in cosmogonies borrowed from Pāñcarātra, Purāṇic and Vedāntic frames, and different texts invoke different ultimates (Brahman, Vāsudeva, Viṣṇu, the Sun, Ka); it would not claim that reading or remedying the chart liberates, though horā names the configurations that indicate liberation (BJ 25.15; Jaimini 1.2.69). A one-truth reading should not be read back into it as its own doctrine.",
+   "rests_on": [
+    "tea:surya-siddhanta:1.1",
+    "tea:surya-siddhanta:12.12-21",
+    "tea:surya-siddhanta:12.29-36",
+    "tea:aryabhatiya:1.1",
+    "tea:brhat-parasara-hora-sastra:1.9-20",
+    "tea:brhat-parasara-hora-sastra:1.21-24",
+    "tea:brhat-parasara-hora-sastra:2.3",
+    "tea:yogayatra:1.1",
+    "tea:brhat-jataka:1.1",
+    "tea:brhat-jataka:2.1",
+    "tea:brhat-jataka:25.15",
+    "tea:jaimini-upadesa-sutra:1.2.68-69"
+   ],
+   "coverage": [
+    "A13",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U32-jyotisa"
     ],
     "phases": [
      "skeleton"
@@ -2355,6 +2915,129 @@
    }
   },
   {
+   "id": "ult:lokottaravada",
+   "lineage": "lin:lokottaravada",
+   "names": [
+    {
+     "name": "the supramundane Buddha",
+     "term": "trm:lokottara"
+    },
+    {
+     "name": "nirvāṇa",
+     "term": "trm:nirvana"
+    }
+   ],
+   "descriptions": [
+    "Everything about the Buddhas is beyond the world — conduct, merit, postures, body, robes, food (Mvu i.167–168).",
+    "They conform to the world only for beings' sake (Mvu i.168–169)."
+   ],
+   "negations": [
+    "Nothing about the perfect Buddhas is like the world (Mvu i.159)."
+   ],
+   "relation_to_self": "The aggregates are not self (Mvu iii.335).",
+   "relation_to_world": "The Buddha's worldly life is a display conforming to worldly convention.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The supramundane is predicated of the Buddhas and their qualities, not of a single cosmic ground; the tradition would not equate it with Brahman or a self.",
+   "rests_on": [
+    "tea:mahavastu:1.167-168",
+    "tea:mahavastu:1.168-169",
+    "tea:mahavastu:1.158-159",
+    "tea:mahavastu:3.335"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U38-early-schools"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:madhyamaka",
+   "lineage": "lin:madhyamaka",
+   "names": [
+    {
+     "name": "śūnyatā (emptiness)",
+     "term": "trm:sunyata"
+    },
+    {
+     "name": "paramārtha-satya (the ultimate truth)",
+     "term": "trm:paramartha-satya"
+    },
+    {
+     "name": "tattva (reality, 'thatness')",
+     "term": "trm:tattva"
+    },
+    {
+     "name": "dharmatā (the nature of things)",
+     "term": "trm:dharmata"
+    },
+    {
+     "name": "tathatā (suchness)",
+     "term": "trm:tathata"
+    },
+    {
+     "name": "nirvāṇa",
+     "term": "trm:nirvana"
+    },
+    {
+     "name": "pratītyasamutpāda (dependent origination) as prapañcopaśama",
+     "term": "trm:pratityasamutpada"
+    }
+   ],
+   "descriptions": [
+    "not dependent on another, peaceful, not elaborated by elaborations, free of conceptual construction, without multiplicity — the mark of reality (MMK 18.9)",
+    "dependent origination, qualified by the eight negations, the pacification of elaborations, auspicious (MMK dedicatory verses)",
+    "the pacification of all apprehending, the pacification of elaboration, auspicious (MMK 25.24)",
+    "the emptiness which is dependent origination, which is a dependent designation and the middle way (MMK 24.18)"
+   ],
+   "negations": [
+    "no cessation, no arising, no annihilation, no permanence, no unity, no plurality, no coming, no going (dedication)",
+    "not arisen from self, other, both or no cause (MMK 1.1)",
+    "nirvāṇa is neither an existent nor a non-existent (MMK 25.4–10)",
+    "'empty' should not be said, nor 'not empty', nor both, nor neither — they are said only for designation (MMK 22.11)",
+    "emptiness is itself empty; it is not a view (MMK 13.8; 24.18)"
+   ],
+   "relation_to_self": "The self is not identical with the aggregates nor different from them (MMK 18.1; 27.4–8); it is a designation made in dependence on them, like a chariot on its parts (MA 6.150ff). Knowing reality is the ceasing of 'I' and 'mine' (MMK 18.2–4).",
+   "relation_to_world": "Emptiness is not another thing behind the world: it is the world's being dependently arisen (MMK 24.18–19). The limit of nirvāṇa is the limit of saṃsāra (MMK 25.19–20). The world is accepted as conventional truth, and the ultimate is taught only by relying on it (MMK 24.10).",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "Madhyamaka rejects any reading of emptiness as a positive ultimate entity, ground, substance or absolute — it is the mere absence of own-nature in each thing and is itself empty; to take it as a view or a thing is called incurable (MMK 13.8). Calling emptiness 'the one truth named variously' would be admitted only as a conventional designation, not as naming a real referent. The school also rejects identification with the Upaniṣadic brahman or ātman (Madhyamakahṛdaya ch.8; Tattvasaṅgraha).",
+   "rests_on": [
+    "tea:mulamadhyamakakarika:0.1-2",
+    "tea:mulamadhyamakakarika:18.9",
+    "tea:mulamadhyamakakarika:24.18",
+    "tea:mulamadhyamakakarika:24.8",
+    "tea:mulamadhyamakakarika:25.19-20",
+    "tea:mulamadhyamakakarika:25.24",
+    "tea:mulamadhyamakakarika:13.8",
+    "tea:mulamadhyamakakarika:22.11",
+    "tea:mulamadhyamakakarika:18.1"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U40-madhyamaka"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:mahanubhava",
    "lineage": "lin:mahanubhava",
    "names": [
@@ -2397,6 +3080,49 @@
    "provenance": {
     "units": [
      "skeleton:U26-regional-bhakti"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:mahasanghika",
+   "lineage": "lin:mahasanghika",
+   "names": [
+    {
+     "name": "nirvāṇa",
+     "term": "trm:nirvana"
+    },
+    {
+     "name": "the supramundane Tathāgata",
+     "term": "trm:lokottara"
+    }
+   ],
+   "descriptions": [
+    "The Buddhas are supramundane, without outflows, limitless in body, power and life, always in concentration (Vasumitra).",
+    "The mind is by nature luminous, defiled by adventitious defilements (Vasumitra)."
+   ],
+   "negations": [
+    "Past and future are not real entities (Vasumitra)."
+   ],
+   "relation_to_self": "No self is affirmed; the luminous nature of mind is not called a self.",
+   "relation_to_world": "The Buddha only appears to live in the world; nine unconditioned dharmas are counted (low confidence).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "Known almost only through opponents' and later doxographies; the Mahāsāṃghika does not identify the luminous mind or the Buddha with a cosmic single reality.",
+   "rests_on": [
+    "tea:samayabhedoparacanacakra:3"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U38-early-schools"
     ],
     "phases": [
      "skeleton"
@@ -2483,6 +3209,139 @@
    "provenance": {
     "units": [
      "skeleton:U37-abhidhamma-visuddhimagga"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:mahayana",
+   "lineage": "lin:mahayana",
+   "names": [
+    {
+     "name": "suchness (tathatā)",
+     "term": "trm:tathata"
+    },
+    {
+     "name": "emptiness (śūnyatā)",
+     "term": "trm:sunyata"
+    },
+    {
+     "name": "the reality-limit (bhūtakoṭi)",
+     "term": "trm:bhutakoti"
+    },
+    {
+     "name": "the dharma-element / realm of dharmas (dharmadhātu)",
+     "term": "trm:dharmadhatu"
+    },
+    {
+     "name": "the nature of dharmas (dharmatā)",
+     "term": "trm:dharmata"
+    },
+    {
+     "name": "the dharma-body (dharmakāya)",
+     "term": "trm:dharmakaya"
+    },
+    {
+     "name": "non-arising (anutpāda)",
+     "term": "trm:anutpada"
+    },
+    {
+     "name": "non-duality (advaya)",
+     "term": "trm:advaya"
+    },
+    {
+     "name": "unsurpassed perfect awakening (anuttarā samyaksaṃbodhi)",
+     "term": "trm:anuttara-samyaksambodhi"
+    },
+    {
+     "name": "nirvāṇa",
+     "term": "trm:nirvana"
+    }
+   ],
+   "descriptions": [
+    "the suchness of the Tathāgata and the suchness of all dharmas are one suchness, undivided (Aṣṭasāhasrikā 16)",
+    "the Tathāgata is non-arising, the reality-limit, emptiness, suchness — which neither come nor go (Aṣṭa 31)",
+    "all dharmas have the mark of emptiness: unborn, unceasing, not defiled, not pure, not deficient, not complete (Heart, s6)",
+    "the Tathāgata is to be seen from the dharma; the guides have the dharma for body; dharmatā cannot be cognized (Vajracchedikā 26)",
+    "the one buddha-vehicle (Lotus 2); the Tathāgata's lifespan is immeasurable (Lotus 16)",
+    "entry into non-duality is Vimalakīrti's silence, where there is no movement of letters, sounds or ideas (Vimalakīrti 8.33)"
+   ],
+   "negations": [
+    "not the least dharma is found in anuttarā samyaksaṃbodhi — therefore it is called so (Vajracchedikā 22)",
+    "even nirvāṇa is like an illusion, like a dream; if there were anything higher than nirvāṇa that too would be like an illusion (Aṣṭa 2)",
+    "in emptiness there is no form ... no suffering, origin, cessation, path; no knowing and no attaining (Heart s6-7)",
+    "not existent, not non-existent; the middle between 'is' and 'is not' (Kāśyapaparivarta §60)"
+   ],
+   "relation_to_self": "Persons and dharmas are both without self (pudgala- and dharma-nairātmya); the bodhisattva who has the notion of a self, a being, a soul or a person is not a bodhisattva (Vajracchedikā 3, 14). Some sūtras nonetheless name the buddha-nature 'self' (see ult:tathagatagarbha).",
+   "relation_to_world": "The world is empty, dependently arisen, like an illusion, dream or reflection; it is not annihilated either. Form is emptiness and emptiness is form (Heart s4); saṃsāra and nirvāṇa are not two (Vimalakīrti 8); the purity of a buddha-field follows the purity of the mind (Vimalakīrti 1.14).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The Prajñāpāramitā denies that emptiness, suchness or nirvāṇa is an entity or a substance: they are 'names only', to be neither grasped nor rejected, and 'the view of emptiness' is itself declared incurable (Kāśyapaparivarta §64-65). The sūtras also speak of the Buddha's eternal dharmakāya and of compassionate buddhas and bodhisattvas, which is why 'both' is recorded; they reject any creator god and any reading of suchness as a Brahman-like self (Laṅkāvatāra p. 33, on the tīrthikas' ātman).",
+   "rests_on": [
+    "tea:astasahasrika-prajnaparamita:16",
+    "tea:astasahasrika-prajnaparamita:31",
+    "tea:astasahasrika-prajnaparamita:2",
+    "tea:prajnaparamita-hrdaya:s4",
+    "tea:prajnaparamita-hrdaya:s6",
+    "tea:vajracchedika:22",
+    "tea:vajracchedika:26",
+    "tea:vimalakirtinirdesa:8.33",
+    "tea:kasyapaparivarta:56-60",
+    "tea:kasyapaparivarta:64"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U39-mahayana-sutras"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:mahisasaka",
+   "lineage": "lin:mahisasaka",
+   "names": [
+    {
+     "name": "nirvāṇa",
+     "term": "trm:nirvana"
+    }
+   ],
+   "descriptions": [
+    "Nine unconditioned dharmas, including the suchness of good, bad and neutral dharmas, of the path and of dependent origination (Vasumitra; low confidence)."
+   ],
+   "negations": [
+    "Past and future do not exist (Vasumitra)."
+   ],
+   "relation_to_self": "No self (general Sthavira position).",
+   "relation_to_world": "Only the present and the unconditioned exist.",
+   "personal_or_impersonal": "impersonal",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "Reconstructed from doxography; the 'suchness' dharmas are unconditioned categories, not a single ground.",
+   "rests_on": [
+    "tea:samayabhedoparacanacakra:6"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U38-early-schools"
     ],
     "phases": [
      "skeleton"
@@ -2789,6 +3648,44 @@
    }
   },
   {
+   "id": "ult:mulasarvastivada",
+   "lineage": "lin:mulasarvastivada",
+   "names": [
+    {
+     "name": "nirvāṇa",
+     "term": "trm:nirvana"
+    }
+   ],
+   "descriptions": [
+    "Doctrinally follows the Sarvāstivāda Abhidharma of the Kośa: nirvāṇa as cessation through discernment."
+   ],
+   "negations": [
+    "No self (AK 3.18)."
+   ],
+   "relation_to_self": "As in the Sarvāstivāda.",
+   "relation_to_world": "As in the Sarvāstivāda.",
+   "personal_or_impersonal": "impersonal",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Mūlasarvāstivāda is known chiefly as a Vinaya lineage; in Tibet its monks hold Mahāyāna and Vajrayāna views of the ultimate, which belong to other lineages' entries.",
+   "rests_on": [
+    "tea:abhidharmakosa:1.5-6"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U38-early-schools"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:murari-mimamsa",
    "lineage": "lin:murari-mimamsa",
    "names": [
@@ -2813,6 +3710,52 @@
    "provenance": {
     "units": [
      "skeleton:U12-mimamsa"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:murtipujaka",
+   "lineage": "lin:murtipujaka",
+   "names": [
+    {
+     "name": "the Jina (worshipped in his image, sthāpanā-jina)",
+     "term": "trm:jina-pratima"
+    },
+    {
+     "name": "Siddha",
+     "term": "trm:siddha"
+    }
+   ],
+   "descriptions": [
+    "the liberated Jina, present to the worshipper through the consecrated image as a support for recalling his qualities",
+    "the model of the worshipper's own purified self"
+   ],
+   "negations": [
+    "the Jina does not receive offerings or grant favours",
+    "the image is not itself divine apart from what it represents"
+   ],
+   "relation_to_self": "Worship of the Jina's qualities purifies the worshipper toward the same state.",
+   "relation_to_world": "Real and uncreated; the images and temples are supports within it.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Jain tradition denies a single all-encompassing reality and a creator: liberated souls are infinitely many and remain distinct, and the universe of six substances is uncreated. It can accept 'one truth, many names' only in its own way — as many-sidedness (anekānta) about a plural reality — not as the identity of all souls in one substance. Image worship here is devotion to the qualities of a liberated soul, not to a creator-god.",
+   "rests_on": [
+    "tea:rajaprasniya:suryabha",
+    "tea:anuyogadvara-sutra:niksepa",
+    "tea:avasyaka-sutra:2"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U34-jain-canon"
     ],
     "phases": [
      "skeleton"
@@ -3428,6 +4371,63 @@
    }
   },
   {
+   "id": "ult:prasangika",
+   "lineage": "lin:prasangika",
+   "names": [
+    {
+     "name": "paramārtha-satya (ultimate truth)",
+     "term": "trm:paramartha-satya"
+    },
+    {
+     "name": "śūnyatā",
+     "term": "trm:sunyata"
+    },
+    {
+     "name": "niḥsvabhāvatā (lack of own-nature)",
+     "term": "trm:nihsvabhavata"
+    },
+    {
+     "name": "tattva",
+     "term": "trm:tattva"
+    }
+   ],
+   "descriptions": [
+    "the nature found by correct seeing, as against the nature found by false seeing, which is conventional truth (MA 6.23)",
+    "the reality which is not in the domain of the intellect; the intellect is said to be conventional (BCA 9.2)",
+    "the mere negation of own-nature, which implies nothing else in its place (non-implicative negation, prasajya-pratiṣedha)"
+   ],
+   "negations": [
+    "things arise neither from themselves, nor from another, nor from both, nor without cause (Buddhapālita and Candrakīrti on MMK 1.1; MA 6.8–104)",
+    "the self is not found in any of the seven ways the chariot is sought (MA 6.151ff)",
+    "no own-nature even conventionally"
+   ],
+   "relation_to_self": "Both the selflessness of persons and the selflessness of dharmas are emptiness; the view of a real self (satkāyadṛṣṭi) is the root of saṃsāra and is cut by seeing its object as unfindable (MA 6.120).",
+   "relation_to_world": "The world is not negated as it is known by worldly people; it is accepted by worldly consensus (lokaprasiddhi), without analysis, as conventional truth, while under analysis nothing is found.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The name 'Prāsaṅgika' is a Tibetan classification. Candrakīrti and Śāntideva deny that emptiness is an entity or a thesis to be proved by autonomous inference; any 'one truth' reading as a positive absolute is rejected.",
+   "rests_on": [
+    "tea:madhyamakavatara:6.23",
+    "tea:bodhicaryavatara:9.2",
+    "tea:madhyamakavatara:6.151-160",
+    "tea:prasannapada:1.1-svatantra"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U40-madhyamaka"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:pratyabhijna",
    "lineage": "lin:pratyabhijna",
    "names": [
@@ -3476,6 +4476,47 @@
    "provenance": {
     "units": [
      "skeleton:U19-kashmir-saivism"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:pudgalavada",
+   "lineage": "lin:pudgalavada",
+   "names": [
+    {
+     "name": "nirvāṇa (the unconditioned)",
+     "term": "trm:nirvana"
+    }
+   ],
+   "descriptions": [
+    "The unconditioned is the fourth of five knowables; the person, the fifth, is inexpressible (AKBh 9, p. 462)."
+   ],
+   "negations": [
+    "The person is neither the same as nor different from the aggregates.",
+    "The person is neither a real substance nor a mere designation (as the Vātsīputrīyas replied)."
+   ],
+   "relation_to_self": "They affirm a person (pudgala) but not the self (ātman) of the outsiders; its relation to the aggregates and to nirvāṇa is inexpressible.",
+   "relation_to_world": "The person transmigrates, bearing the aggregates, until its cessation in nirvāṇa (low confidence).",
+   "personal_or_impersonal": "not-posited",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "Known mainly through opponents; the Pudgalavādins insisted their person was not the ātman of other schools, and would reject assimilation to it.",
+   "rests_on": [
+    "tea:abhidharmakosabhasya:9.p462",
+    "tea:abhidharmakosabhasya:9.p461/3",
+    "tea:sammitiyanikaya-sastra:person"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U38-early-schools"
     ],
     "phases": [
      "skeleton"
@@ -3936,6 +4977,64 @@
    "provenance": {
     "units": [
      "skeleton:U27-sant-baul"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:rasa-sastra",
+   "lineage": "lin:rasa-sastra",
+   "names": [
+    {
+     "name": "Parameśvara / Śiva (Bhairava)",
+     "term": "trm:jivanmukti"
+    },
+    {
+     "name": "the conscious light (cinmaya jyotis), supreme bliss",
+     "term": "trm:jivanmukti"
+    },
+    {
+     "name": "brahman; rasa ('raso vai saḥ')",
+     "term": "trm:rasa"
+    }
+   ],
+   "descriptions": [
+    "Liberation in life is knowledge of identity with Śiva in an ageless, deathless body (Rasārṇava 1.8).",
+    "The conscious light between the brows: supreme bliss, of the nature of light, free of conception, peaceful, self-known; seeing the whole world as consciousness one attains brahmanhood here (Rasahṛdaya 1.21-23; SDS 46-48).",
+    "Mercury is Śiva's own seed and is praised as equal to the supreme brahman (Rasārṇava 1.36; SDS 49-51)."
+   ],
+   "negations": [
+    "Free of conception (avikalpa), free of all afflictions (Rasahṛdaya 1.22)."
+   ],
+   "relation_to_self": "The Raseśvaras are Māheśvaras who hold identity (tādātmya) with the Supreme Lord; the self realizes it only in a stable body.",
+   "relation_to_world": "The world is to be seen as consciousness; mercury and mica, seeds of Śiva and the Goddess, make the divine body.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The tradition would reject any one-truth reading that allows liberation without the stable, undecaying body ('liberation after the body falls is meaningless'). Its practices are restricted and are recorded here only in summary.",
+   "rests_on": [
+    "tea:rasarnava:1.5-8",
+    "tea:rasarnava:1.9-13",
+    "tea:rasahrdayatantra:1.20-23",
+    "tea:sarvadarsanasangraha:rasesvara.1-5",
+    "tea:sarvadarsanasangraha:rasesvara.45-48",
+    "tea:sarvadarsanasangraha:rasesvara.49-51"
+   ],
+   "restricted": true,
+   "coverage": [
+    "A11",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U30-ayurveda-rasa"
     ],
     "phases": [
      "skeleton"
@@ -4722,6 +5821,53 @@
    }
   },
   {
+   "id": "ult:sarvastivada",
+   "lineage": "lin:sarvastivada",
+   "names": [
+    {
+     "name": "nirvāṇa",
+     "term": "trm:nirvana"
+    },
+    {
+     "name": "pratisaṃkhyānirodha",
+     "term": "trm:pratisamkhyanirodha"
+    }
+   ],
+   "descriptions": [
+    "Cessation through discernment: disjunction from all sāsrava dharmas, a real (dravya), unconditioned, eternal dharma, obtained separately for each bond (AK 1.5–6).",
+    "One of the three objects of refuge, with the Buddha's and the Saṅgha's pure dharmas (AK 4.32)."
+   ],
+   "negations": [
+    "There is no self; only aggregates conditioned by defilement and karma (AK 3.18).",
+    "Things do not arise from Īśvara or any single cause (AK 2.64)."
+   ],
+   "relation_to_self": "No self exists; nirvāṇa is not the attainment of a self but the cessation of the defilements and of future aggregates.",
+   "relation_to_world": "The world of conditioned dharmas is real in all three times; nirvāṇa is a real unconditioned dharma alongside it, not its ground.",
+   "personal_or_impersonal": "impersonal",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Sarvāstivāda recognizes many ultimately real dharmas (paramārthasat) and three unconditioned ones; it would reject reading nirvāṇa as a single substance underlying the world or as a self.",
+   "rests_on": [
+    "tea:abhidharmakosa:1.5-6",
+    "tea:abhidharmakosa:4.32",
+    "tea:abhidharmakosa:3.18",
+    "tea:abhidharmakosa:6.4"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U38-early-schools"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:sarvesvari-samuh",
    "lineage": "lin:sarvesvari-samuh",
    "names": [
@@ -4799,6 +5945,46 @@
    "provenance": {
     "units": [
      "skeleton:U27-sant-baul"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:sautrantika",
+   "lineage": "lin:sautrantika",
+   "names": [
+    {
+     "name": "nirvāṇa",
+     "term": "trm:nirvana"
+    }
+   ],
+   "descriptions": [
+    "Nirvāṇa is a mere absence: the non-arising of further defilements and births once the antidote has arisen (AKBh 2.55)."
+   ],
+   "negations": [
+    "No unconditioned is a real entity; space is absence of resistance (AKBh 2.55).",
+    "No self as a separate entity; the 'person' is a designation of the series (AKBh 9)."
+   ],
+   "relation_to_self": "There is no self; clinging to one is the root of all defilements (AKBh 9, p. 461).",
+   "relation_to_world": "Only momentary present dharmas exist; nirvāṇa is their cessation, not a further reality.",
+   "personal_or_impersonal": "not-posited",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Sautrāntika denies that nirvāṇa is an entity at all; a 'one truth' reading that reifies it is exactly what it argues against.",
+   "rests_on": [
+    "tea:abhidharmakosabhasya:2.55",
+    "tea:abhidharmakosabhasya:9.p461"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U38-early-schools"
     ],
     "phases": [
      "skeleton"
@@ -4954,6 +6140,52 @@
    }
   },
   {
+   "id": "ult:sramana",
+   "lineage": "lin:sramana",
+   "names": [
+    {
+     "name": "the end of suffering (dukkhass' anta)",
+     "term": "trm:dukkhassanta"
+    },
+    {
+     "name": "the fruit of recluseship (sāmaññaphala)",
+     "term": "trm:samannaphala"
+    }
+   ],
+   "descriptions": [
+    "The movement shares a question rather than an ultimate: what is the visible fruit of the homeless life, and is there fruit of deeds and another world? Each teacher answers differently (DN 2)."
+   ],
+   "negations": [
+    "Several of its teachers deny any fruit of deeds or any other world (DN 2: Pūraṇa, Ajita)."
+   ],
+   "relation_to_self": "Contested within the movement: an eternal jīva among seven bodies (Pakudha), a person made of four elements that is annihilated (Ajita), no statement at all (Sañjaya).",
+   "relation_to_world": "Contested: fixed by niyati (Gosāla), eternal and barren (Pakudha), simply ends at death (Ajita).",
+   "personal_or_impersonal": "not-posited",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The śramaṇa movement is not one school: it includes Jains and Buddhists (who have their own views, U34–U36) and teachers who deny any ultimate. A one-truth reading would have to override the explicit denials of Pūraṇa and Ajita and the refusal of Sañjaya.",
+   "rests_on": [
+    "tea:samannaphala-sutta:17",
+    "tea:samannaphala-sutta:20",
+    "tea:samannaphala-sutta:23",
+    "tea:samannaphala-sutta:26",
+    "tea:samannaphala-sutta:32"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U33-sramana"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:srividya",
    "lineage": "lin:srividya",
    "names": [
@@ -5034,6 +6266,45 @@
    }
   },
   {
+   "id": "ult:sthanakavasi",
+   "lineage": "lin:sthanakavasi",
+   "names": [
+    {
+     "name": "the Jina / Arihanta and the Siddhas",
+     "term": "trm:jina"
+    }
+   ],
+   "descriptions": [
+    "the qualities of the Jina and the liberated soul, approached through the scripture, the mendicants and one's own equanimity, not through images"
+   ],
+   "negations": [
+    "not to be worshipped in images; worship that harms beings is not dharma"
+   ],
+   "relation_to_self": "The soul's own nature, realized by restraint and equanimity (sāmāyika).",
+   "relation_to_world": "Real and uncreated; every being in it, down to the one-sensed, is to be protected.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Jain tradition denies a single all-encompassing reality and a creator: liberated souls are infinitely many and remain distinct, and the universe of six substances is uncreated. It can accept 'one truth, many names' only in its own way — as many-sidedness (anekānta) about a plural reality — not as the identity of all souls in one substance.",
+   "rests_on": [
+    "tea:acaranga-sutra:1.1.2-7",
+    "tea:avasyaka-sutra:1"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U34-jain-canon"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:suan-mokkh",
    "lineage": "lin:suan-mokkh",
    "names": [
@@ -5098,6 +6369,158 @@
    "provenance": {
     "units": [
      "skeleton:U37-abhidhamma-visuddhimagga"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:svatantrika",
+   "lineage": "lin:svatantrika",
+   "names": [
+    {
+     "name": "paramārtha (the ultimate), as object of the highest wisdom",
+     "term": "trm:paramartha-satya"
+    },
+    {
+     "name": "paryāya-paramārtha (the nominal / concordant ultimate)",
+     "term": "trm:paryaya-paramartha"
+    },
+    {
+     "name": "aparyāya-paramārtha (the non-nominal ultimate)",
+     "term": "trm:paryaya-paramartha"
+    },
+    {
+     "name": "śūnyatā",
+     "term": "trm:sunyata"
+    }
+   ],
+   "descriptions": [
+    "what is known by non-conceptual wisdom, beyond all elaboration (the non-nominal ultimate)",
+    "the negation of arising etc. established by reasoning, which accords with the ultimate (the nominal ultimate) (Madhyamakahṛdaya 3; Tarkajvālā)",
+    "that which is found by reasoning that does not deceive (Jñānagarbha, Satyadvayavibhaṅga)"
+   ],
+   "negations": [
+    "the earth-element etc. are ultimately not of the nature of the elements, because they are produced, like cognition (Bhāviveka's autonomous inference, Prajñāpradīpa)",
+    "no arising ultimately, from self or other (Prajñāpradīpa ch.1)"
+   ],
+   "relation_to_self": "The person is a designation on the aggregates; Bhāviveka identifies the conventional referent of 'I' with consciousness (mental consciousness) — a view Candrakīrti rejects.",
+   "relation_to_world": "Conventionally things arise and function as they appear (the correct conventional); only ultimately are they unborn.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "Emptiness is a negation, not an entity; the Svātantrika authors (who did not call themselves so) would reject treating it as a substantial ground.",
+   "rests_on": [
+    "tea:prajnapradipa:1-critique-of-buddhapalita",
+    "tea:madhyamakahrdaya:3-paryaya-paramartha",
+    "tea:satyadvayavibhanga:8-12"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U40-madhyamaka"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:svetambara",
+   "lineage": "lin:svetambara",
+   "names": [
+    {
+     "name": "Siddha",
+     "term": "trm:siddha"
+    },
+    {
+     "name": "Arihanta / Jina",
+     "term": "trm:jina"
+    },
+    {
+     "name": "kevala-jñāna (the knowledge in which the ultimate is realized)",
+     "term": "trm:kevala-jnana"
+    }
+   ],
+   "descriptions": [
+    "the infinite, supreme, unobstructed, complete and full knowledge and perception attained by Mahāvīra (Kalpa Sūtra)",
+    "the self is sāmāyika, and the self is the purpose of sāmāyika (Bhagavatī 1.9)",
+    "reachable in a female or male body, in any garb (Prajñāpanā 1; Uttarādhyayana 36)"
+   ],
+   "negations": [
+    "as in Ācārāṅga 1.5.6"
+   ],
+   "relation_to_self": "The self's own equanimous, knowing nature; the omniscient in his body continues to take food until nirvāṇa.",
+   "relation_to_world": "As for the Jain tradition generally: real, uncreated, eternal.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Jain tradition denies a single all-encompassing reality and a creator: liberated souls are infinitely many and remain distinct, and the universe of six substances is uncreated. It can accept 'one truth, many names' only in its own way — as many-sidedness (anekānta) about a plural reality — not as the identity of all souls in one substance.",
+   "rests_on": [
+    "tea:kalpa-sutra-jain:jinacaritra.mahavira/2",
+    "tea:bhagavati-sutra:1.9",
+    "tea:prajnapana:1",
+    "tea:uttaradhyayana-sutra:36"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U34-jain-canon"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:tamil-jain",
+   "lineage": "lin:tamil-jain",
+   "names": [
+    {
+     "name": "Arukaṉ (the Arhat)",
+     "term": "trm:arukan"
+    },
+    {
+     "name": "Jiṉaṉ / Iṟaivaṉ (the Lord, as the Jina)"
+    },
+    {
+     "name": "vīṭu (release)"
+    }
+   ],
+   "descriptions": [
+    "the Arhat saluted at the opening of Tamil Jain works; release (vīṭu) won by virtue (aṟam) and renunciation (tuṟavu)"
+   ],
+   "negations": [
+    "not a creator"
+   ],
+   "relation_to_self": "Release is the soul's freedom from karma through virtue, austerity and renunciation.",
+   "relation_to_world": "Wealth, youth and the body are impermanent; the world is real but not to be clung to.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Jain tradition denies a single all-encompassing reality and a creator: liberated souls are infinitely many and remain distinct, and the universe of six substances is uncreated. It can accept 'one truth, many names' only in its own way — as many-sidedness (anekānta) about a plural reality — not as the identity of all souls in one substance.",
+   "rests_on": [
+    "tea:naladiyar:adh.1",
+    "tea:naladiyar:adh.6",
+    "tea:civakacintamani:13"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U34-jain-canon"
     ],
     "phases": [
      "skeleton"
@@ -5236,6 +6659,121 @@
    }
   },
   {
+   "id": "ult:taranapantha",
+   "lineage": "lin:taranapantha",
+   "names": [
+    {
+     "name": "the self's own pure nature (as the object of 'true worship')",
+     "term": "trm:suddhatman"
+    }
+   ],
+   "descriptions": [
+    "worship is inner: the self's own pure nature, taught in scripture, not an image"
+   ],
+   "negations": [
+    "not in images"
+   ],
+   "relation_to_self": "The pure self is to be realized within.",
+   "relation_to_world": "Real; outward rites are not the path.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Jain tradition denies a single all-encompassing reality and a creator: liberated souls are infinitely many and remain distinct, and the universe of six substances is uncreated. It can accept 'one truth, many names' only in its own way — as many-sidedness (anekānta) about a plural reality — not as the identity of all souls in one substance.",
+   "rests_on": [],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U34-jain-canon"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:tathagatagarbha",
+   "lineage": "lin:tathagatagarbha",
+   "names": [
+    {
+     "name": "tathāgatagarbha (the embryo / matrix of the Tathāgata)",
+     "term": "trm:tathagatagarbha"
+    },
+    {
+     "name": "buddha-element (buddhadhātu) / buddha-nature (foxing)",
+     "term": "trm:buddhadhatu"
+    },
+    {
+     "name": "the dharmakāya",
+     "term": "trm:dharmakaya"
+    },
+    {
+     "name": "the naturally luminous mind (prakṛti-prabhāsvara-citta)",
+     "term": "trm:prabhasvara-citta"
+    },
+    {
+     "name": "suchness with stains (samalā tathatā) and without stains (nirmalā tathatā)",
+     "term": "trm:tathata"
+    },
+    {
+     "name": "the true self (the 'great self', mahātman) of the Mahāparinirvāṇa",
+     "term": "trm:mahatman"
+    },
+    {
+     "name": "the one mind (yixin), in the Awakening of Faith",
+     "term": "trm:yixin"
+    }
+   ],
+   "descriptions": [
+    "all beings are tathāgatagarbhas: the buddha's knowledge pervades them, suchness is undivided, and the gotra is present (RGV 1.27-28)",
+    "the dharmakāya has the perfections of purity, self, bliss and permanence (RGV 1.35; Śrīmālā ch. 12)",
+    "empty of the separable adventitious stains, not empty of the inseparable unsurpassed qualities (RGV 1.154-155; Śrīmālā ch. 9)",
+    "'self' means the tathāgatagarbha; all beings have buddha-nature (Mahāparinirvāṇa, T374 juan 7)",
+    "buddha-nature is the emptiness of the highest meaning, which is wisdom and the middle way (Mahāparinirvāṇa, T374 juan 27)"
+   ],
+   "negations": [
+    "nothing is to be removed from it and nothing added (RGV 1.154)",
+    "not the self of the tīrthikas, but taught to remove the fear of no-self (Laṅkāvatāra, Vaidya p. 33)"
+   ],
+   "relation_to_self": "The garbha is the being's own true nature; the Mahāparinirvāṇa and Śrīmālā call it 'self' (the perfection of self), in contrast to the false self imagined in the aggregates. Other readers (Laṅkāvatāra, Madhyamaka) hold that this 'self' language is a skillful means pointing to emptiness.",
+   "relation_to_world": "Saṃsāra depends on the tathāgatagarbha (Śrīmālā ch. 13), as does nirvāṇa; the defilements are adventitious, like clouds before the sun; beings and buddhas do not differ in the dhātu, only in its being obscured or revealed.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The tathāgatagarbha texts insist the garbha is not an ātman of the tīrthikas, not a creator, and not separate from emptiness; the tradition divides on whether its permanence and 'self' are definitive (Jonang shentong, many East Asian readings) or provisional (Laṅkāvatāra's own gloss; Gelug). See dsp:buddha-nature-self-or-emptiness and dsp:rangtong-shentong.",
+   "rests_on": [
+    "tea:ratnagotravibhaga:1.27",
+    "tea:ratnagotravibhaga:1.28",
+    "tea:ratnagotravibhaga:1.35",
+    "tea:ratnagotravibhaga:1.154-155",
+    "tea:srimaladevi-sutra:9",
+    "tea:srimaladevi-sutra:12",
+    "tea:mahaparinirvana-sutra-mahayana:7",
+    "tea:mahaparinirvana-sutra-mahayana:27",
+    "tea:lankavatara-sutra:2.p33"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U39-mahayana-sutras"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:tenkalai",
    "lineage": "lin:tenkalai",
    "names": [
@@ -5276,6 +6814,90 @@
    "provenance": {
     "units": [
      "skeleton:U14-visistadvaita"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:terapantha-digambara",
+   "lineage": "lin:terapantha-digambara",
+   "names": [
+    {
+     "name": "śuddhātman",
+     "term": "trm:suddhatman"
+    },
+    {
+     "name": "the Jina (in the image, worshipped with non-living offerings)"
+    }
+   ],
+   "descriptions": [
+    "the pure self known through both standpoints held in their places (Ṭoḍarmal)"
+   ],
+   "negations": [
+    "not the attendant deities"
+   ],
+   "relation_to_self": "As in Kundakunda.",
+   "relation_to_world": "Real; worship must not harm beings.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Jain tradition denies a single all-encompassing reality and a creator: liberated souls are infinitely many and remain distinct, and the universe of six substances is uncreated. It can accept 'one truth, many names' only in its own way — as many-sidedness (anekānta) about a plural reality — not as the identity of all souls in one substance.",
+   "rests_on": [
+    "tea:moksamarga-prakasaka:7"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U34-jain-canon"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:terapanthi",
+   "lineage": "lin:terapanthi",
+   "names": [
+    {
+     "name": "the Jina and the Siddhas",
+     "term": "trm:jina"
+    },
+    {
+     "name": "lokottara dharma (the supramundane)",
+     "term": "trm:lokottara-dharma"
+    }
+   ],
+   "descriptions": [
+    "the soul freed from karma by restraint; only what stops karmic inflow belongs to the supramundane"
+   ],
+   "negations": [
+    "not reached by worldly merit or the preservation of bodily life",
+    "not worshipped in images"
+   ],
+   "relation_to_self": "The soul's own restraint and purity.",
+   "relation_to_world": "Real and uncreated; worldly duty is distinct from spiritual dharma.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Jain tradition denies a single all-encompassing reality and a creator: liberated souls are infinitely many and remain distinct, and the universe of six substances is uncreated. It can accept 'one truth, many names' only in its own way — as many-sidedness (anekānta) about a plural reality — not as the identity of all souls in one substance.",
+   "rests_on": [
+    "tea:bhiksu-granth-ratnakar:anukampa"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U34-jain-canon"
     ],
     "phases": [
      "skeleton"
@@ -5950,10 +7572,23 @@
     "tea:nirukta:2.11"
    ],
    "verification": {
-    "level": "skeleton",
+    "level": "sourced",
     "confidence": "moderate",
     "unverified": false,
-    "checks": []
+    "checks": [
+     {
+      "phase": "C",
+      "date": "2026-09-29",
+      "method": "text-locate",
+      "queries": [
+       "see the listed teaching checks"
+      ],
+      "evidence": [],
+      "result": "confirmed",
+      "note": "VJ Ṛk 1 ('pañcasaṃvatsaramayaṃ yugādhyakṣaṃ prajāpatim') was also found. The caveat is appropriate. Rests on teaching checks confirmed in this sweep: tea:nirukta:7.4, tea:nirukta:7.6-7, tea:mahabhasya:paspasa/4, tea:mundaka-upanisad:1.1.4-5, tea:nirukta:2.11.",
+      "by": "sourcing:U02-brahmana-vedanga"
+     }
+    ]
    },
    "provenance": {
     "units": [
@@ -6463,6 +8098,100 @@
    "provenance": {
     "units": [
      "skeleton:U15-dvaita"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:yapaniya",
+   "lineage": "lin:yapaniya",
+   "names": [
+    {
+     "name": "Siddha / nirvāṇa",
+     "term": "trm:siddha"
+    }
+   ],
+   "descriptions": [
+    "the same liberation as for all Jains, open to women and reached by the three jewels, which are not deficient in any human"
+   ],
+   "negations": [
+    "not closed to women or to those clothed by exception"
+   ],
+   "relation_to_self": "The soul's own nature, as in the Jain tradition generally.",
+   "relation_to_world": "Real and uncreated.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The Jain tradition denies a single all-encompassing reality and a creator: liberated souls are infinitely many and remain distinct, and the universe of six substances is uncreated. It can accept 'one truth, many names' only in its own way — as many-sidedness (anekānta) about a plural reality — not as the identity of all souls in one substance. Known only from a few surviving works.",
+   "rests_on": [
+    "tea:strinirvana-prakarana:1-2",
+    "tea:yapaniya-tantra:lalitavistara-quote"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U34-jain-canon"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:yogacara-madhyamaka",
+   "lineage": "lin:yogacara-madhyamaka",
+   "names": [
+    {
+     "name": "niḥsvabhāvatā established by the absence of true unity and plurality",
+     "term": "trm:ekanekaviyoga"
+    },
+    {
+     "name": "paramārtha-satya",
+     "term": "trm:paramartha-satya"
+    },
+    {
+     "name": "śūnyatā",
+     "term": "trm:sunyata"
+    },
+    {
+     "name": "nirvikalpa-jñāna's object: freedom from all elaboration",
+     "term": "trm:nirvikalpa-jnana"
+    }
+   ],
+   "descriptions": [
+    "the absence of own-nature in all things, shown because nothing is truly one or truly many (MAL 1)",
+    "the ultimate is free from all elaborations; the nominal ultimate (the negation of arising) accords with it (MAL 70–72)",
+    "that which the yogin enters when analysing he finds no dharma arisen in the three times: non-conceptual wisdom pacifying all elaboration (Bhāvanākrama III)"
+   ],
+   "negations": [
+    "neither one nor many (ekānekaviyoga)",
+    "neither external objects nor mind are ultimately real (MAL 92–93)"
+   ],
+   "relation_to_self": "Persons and dharmas alike are without own-nature; conventionally there is only self-illuminating mind.",
+   "relation_to_world": "The world of appearances is conventionally mind-only and 'satisfying only when not analysed'; ultimately it is empty.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "Mind-only is accepted only conventionally, as a step; neither mind nor emptiness is posited as a positive ultimate entity.",
+   "rests_on": [
+    "tea:madhyamakalamkara:1",
+    "tea:madhyamakalamkara:92-93",
+    "tea:bhavanakrama:3-bhutapratyaveksa"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U40-madhyamaka"
     ],
     "phases": [
      "skeleton"

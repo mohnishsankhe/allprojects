@@ -13,4 +13,4 @@
 A compendium of mercurial medicine; authorship is given differently in different sources. RESTRICTED: summary only.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

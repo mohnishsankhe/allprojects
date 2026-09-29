@@ -1,6 +1,6 @@
 # Śātātapasmṛti
 
-`src:satatapasmrti` · `skeleton` · confidence low
+`src:satatapasmrti` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 A short smṛti ascribed to Śātātapa, one of the twenty lawgivers, chiefly on expiation.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:eBharati:aShTAdashasmRtayaH (… iti śātātapasmṛtiḥ) — Low-confidence entry confirmed as extant; YājñS 1.5 names Śātātapa.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

@@ -5,7 +5,7 @@
 **Family:** ascetic
 **Alternate names:** Yāpanīya Saṅgha, Gopya / Āpulīya Saṅgha (names in some sources; low confidence), Jāvaṇijja (Prakrit)
 **Parent:** [Jainism (Jaina dharma)](jainism.md)
-**Key teachers:** [Śākaṭāyana (the ancient grammarian)](../teachers/sakatayana.md), `tch:aparajita-suri`, `tch:sivarya`, `tch:srikalasa`
+**Key teachers:** [Śākaṭāyana (Pālyakīrti)](../teachers/sakatayana.md), [Aparājitasūri](../teachers/aparajita-suri.md), [Śivārya (Śivakoṭi)](../teachers/sivarya.md), [Śrīkalaśa](../teachers/srikalasa.md)
 **Regions:** Karnataka (Kadamba, Gaṅga and Rāṣṭrakūṭa kingdoms), Andhra and Maharashtra borderlands
 **Dates:** Tradition's account: Devasena's Darśanasāra (Digambara) says the Yāpanīya saṅgha was founded by Śrīkalaśa at Kalyāṇa (date given in the Vikrama era; low confidence); Scholarly account: attested in Karnataka inscriptions from about the 5th c. CE (Kadamba grants) to about the 14th–15th c. CE, after which it disappears; (confidence moderate)
 **Status:** extinct
@@ -19,20 +19,30 @@ An extinct Jain order of the Deccan and Karnataka that combined Digambara-style 
 - Allowed that those who wear clothes by exception (apavāda-liṅga) and householders can in principle be liberated (reported in later sources; moderate confidence)
 
 
+## The ultimate in this lineage
+`skeleton` · confidence moderate
+
+**Names:** Siddha / nirvāṇa
+**Descriptions:** the same liberation as for all Jains, open to women and reached by the three jewels, which are not deficient in any human
+**Negations:** not closed to women or to those clothed by exception
+**Relation to self:** The soul's own nature, as in the Jain tradition generally.
+**Relation to world:** Real and uncreated.
+**Caveat:** The Jain tradition denies a single all-encompassing reality and a creator: liberated souls are infinitely many and remain distinct, and the universe of six substances is uncreated. It can accept 'one truth, many names' only in its own way — as many-sidedness (anekānta) about a plural reality — not as the identity of all souls in one substance. Known only from a few surviving works.
+
 ## Texts
-`src:bhagavati-aradhana`, `src:kevalibhukti-prakarana`, [Śākaṭāyana Śabdānuśāsana (of Pālyakīrti)](../texts/sakatayana-sabdanusasana.md), `src:strinirvana-prakarana`, `src:vijayodaya`, `src:yapaniya-tantra`
+[Bhagavatī Ārādhanā](../texts/bhagavati-aradhana.md), [Kevalibhuktiprakaraṇa of Śākaṭāyana](../texts/kevalibhukti-prakarana.md), [Paumacariu of Svayambhū](../texts/paumacariu-svayambhu.md), [Śabdānuśāsana of Śākaṭāyana (with the Amoghavṛtti)](../texts/sakatayana-sabdanusasana.md), [Strīnirvāṇaprakaraṇa of Śākaṭāyana](../texts/strinirvana-prakarana.md), [Vijayodayā](../texts/vijayodaya.md), [Yāpanīya-tantra (lost)](../texts/yapaniya-tantra.md)
 
 ## Teachers
-`tch:aparajita-suri`, [Pālyakīrti (Śākaṭāyana)](../teachers/palyakirti.md), [Śākaṭāyana (the ancient grammarian)](../teachers/sakatayana.md), `tch:sivarya`, `tch:srikalasa`
+[Aparājitasūri](../teachers/aparajita-suri.md), [Bhadrabāhu (the śrutakevalin)](../teachers/bhadrabahu.md), [Mahāvīra (Vardhamāna)](../teachers/mahavira.md), [Mallinātha (Mallī)](../teachers/mallinatha.md), [Pālyakīrti (Śākaṭāyana)](../teachers/palyakirti.md), [Śākaṭāyana (Pālyakīrti)](../teachers/sakatayana.md), [Śivārya (Śivakoṭi)](../teachers/sivarya.md), [Śrīkalaśa](../teachers/srikalasa.md), [Svayambhūdeva](../teachers/svayambhu-poet.md)
 
 ## Practices
-_none recorded_
+[The fourfold accomplishment (ārādhanā) at life's end](../practices/aradhana.md), [Sallekhanā / saṃthārā (the final fast)](../practices/sallekhana.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Did the original Jain scripture survive?](../debates/canon-survival-jain.md), [Does the omniscient (kevalin) take food?](../debates/kevalin-eats.md), [Is complete nudity required of the renunciant (and for liberation)?](../debates/monastic-nudity.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

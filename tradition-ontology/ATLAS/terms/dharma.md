@@ -15,13 +15,25 @@
 - [Vaiśeṣika](../lineages/vaisesika.md): That from which prosperity and the highest good result (VS 1.1.2); a quality of the self produced by enjoined acts (Tarkasaṅgraha); the knowledge of the categories arises from dharma manifested by the Lord's command (Praśastapāda).
 - [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md): The beneficial object (artha) whose defining mark is Vedic injunction (codanā) — concretely the sacrifice and other enjoined acts, which join a person with the highest good; what is enjoined but harmful (e.g. the Śyena, whose aim is violence) is not dharma.
 - [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md): An object with a purpose, made known by the Veda (Arthasaṅgraha): the sacrifice and the like.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4.7–8: dharma, whose decline together with the rise of adharma is the occasion of the Lord's coming into being, and whose firm establishment is one of its purposes, age after age.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Dharma: created by brahman as the power of the ruling power, higher than all; dharma is truth (BAU 1.4.14); 'practise dharma' (TU 1.11); three branches of dharma (ChU 2.23.1); Naciketas asks for what is other than dharma and adharma (KU 1.2.14); one's own dharma rescues the elemental self (MaiU 4.3).
+- [Sarvāstivāda](../lineages/sarvastivada.md): An ultimate constituent that 'holds its own characteristic' (svalakṣaṇa-dhāraṇa); seventy-five kinds in five groups, existing as real entities (dravya) in all three times.
+- [Sautrāntika](../lineages/sautrantika.md): A momentary event in a series; only present dharmas exist, and many Vaibhāṣika dharmas are mere designations.
+- [Jainism (Jaina dharma)](../lineages/jainism.md): In Jainism (1) the medium of motion (dharmāstikāya); (2) the tenfold virtue beginning with forbearance (TS 9.6); (3) the three jewels; (4) the nature of a thing and the protection of beings (Kārttikeyānuprekṣā 478).
 
 ## Forms in other languages
 - Pali: dhamma  — partial — cognate; the Buddhist senses are defined by the Buddhist units
+- Chinese: fa 法 — exact
+- Tibetan: chos  — exact
+- Prakrit: dhamma  — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [svadharma](svadharma.md), [paradharma](paradharma.md), [kuladharma](kuladharma.md), [jātidharma](jatidharma.md), [adharma](adharma.md), [trivarga](trivarga.md), [ānṛśaṃsya](anrsamsya.md), [bhāva](bhava.md), [codanā](codana.md), [vidhi](vidhi.md)
+- exact: [dhamma](dhamma.md) — Sanskrit and Pali forms of the same canonical term; school definitions differ (see the per-lineage definitions).
+**Related:** [svadharma](svadharma.md), [paradharma](paradharma.md), [kuladharma](kuladharma.md), [jātidharma](jatidharma.md), [adharma](adharma.md), [trivarga](trivarga.md), [ānṛśaṃsya](anrsamsya.md), [bhāva](bhava.md), [codanā](codana.md), [vidhi](vidhi.md), [yuga](yuga.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:4.7, tea:bhagavad-gita:4.8 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U38-early-schools, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._

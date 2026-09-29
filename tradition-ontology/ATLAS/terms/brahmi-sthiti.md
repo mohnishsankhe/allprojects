@@ -16,4 +16,4 @@
 **Related:** [sthitaprajña](sthitaprajna.md), [brahmanirvāṇa](brahma-nirvana.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

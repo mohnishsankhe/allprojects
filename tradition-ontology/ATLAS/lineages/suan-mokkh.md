@@ -5,8 +5,8 @@
 **Family:** ascetic
 **Alternate names:** Suan Mokkhabalārāma, Garden of Liberation
 **Parent:** [Theravāda](theravada.md)
-**Founders:** `tch:buddhadasa`
-**Key teachers:** `tch:buddhadasa`
+**Founders:** [Buddhadāsa Bhikkhu](../teachers/buddhadasa.md)
+**Key teachers:** [Buddhadāsa Bhikkhu](../teachers/buddhadasa.md)
 **Regions:** Chaiya, Surat Thani (southern Thailand), International Dharma Hermitage
 **Dates:** Tradition's account: Buddhadāsa founded Suan Mokkh in 1932; Scholarly account: 1932 onward; (confidence high)
 **Status:** living
@@ -31,19 +31,19 @@ The reformist Thai tradition of Buddhadāsa Bhikkhu (1906–1993) and his forest
 **Caveat:** Buddhadāsa described Dhamma, God and nature in parallel terms in dialogue with other religions, but denied a personal creator; the one-truth reading is a reconciliation he partly invited.
 
 ## Texts
-`src:anapanasati-buddhadasa`, `src:handbook-for-mankind`, `src:heartwood-of-the-bodhi-tree`, `src:paticcasamuppada-buddhadasa`
+[Ānāpānasati: Mindfulness with Breathing](../texts/anapanasati-buddhadasa.md), [Handbook for Mankind (Khu Mue Manut)](../texts/handbook-for-mankind.md), [Heartwood of the Bodhi Tree](../texts/heartwood-of-the-bodhi-tree.md), [Paṭiccasamuppāda: Practical Dependent Origination](../texts/paticcasamuppada-buddhadasa.md)
 
 ## Teachers
-`tch:buddhadasa`
+[Buddhadāsa Bhikkhu](../teachers/buddhadasa.md)
 
 ## Practices
-_none recorded_
+[Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Does dependent origination describe rebirth across three lives, or a process in present experience?](../debates/dependent-origination-three-lives-or-present.md)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._

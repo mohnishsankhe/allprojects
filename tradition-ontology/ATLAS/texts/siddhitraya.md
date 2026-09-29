@@ -33,7 +33,7 @@ The self is distinct from the body, the senses, the mind, the vital breath and c
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-concepts: [The 'I' is the self (aham-artha)](../concepts/aham-artha.md), [The individual living self (jīva)](../concepts/jiva.md) · teachers: [Yāmunācārya](../teachers/yamuna.md) · disputes: `dsp:is-there-a-self`
+concepts: [The 'I' is the self (aham-artha)](../concepts/aham-artha.md), [The individual living self (jīva)](../concepts/jiva.md) · teachers: [Yāmunācārya](../teachers/yamuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### Īśvarasiddhi <a id="tea-siddhitraya-isvarasiddhi"></a>
 `skeleton` · confidence low
@@ -42,8 +42,8 @@ Yāmuna argues for the existence of a Lord who is the maker of the world; whethe
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-teachers: [Yāmunācārya](../teachers/yamuna.md) · disputes: `dsp:isvara`
+teachers: [Yāmunācārya](../teachers/yamuna.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._

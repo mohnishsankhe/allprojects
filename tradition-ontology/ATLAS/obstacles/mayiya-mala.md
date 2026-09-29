@@ -11,4 +11,4 @@ The appearance of the knowable as separate, which gives birth and experience (Ī
   - [Īśvarapratyabhijñākārikā](../texts/isvarapratyabhijna-karika.md) — ref: 3.2.5; rests_on: ["tea:isvarapratyabhijna-karika:3.2.4-5"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

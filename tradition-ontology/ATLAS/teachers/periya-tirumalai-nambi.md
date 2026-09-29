@@ -12,4 +12,4 @@
 Disciple of Yāmuna and maternal uncle of Rāmānuja, who taught him the Rāmāyaṇa at Tirupati and brought Govinda (Embār) back to Vaiṣṇavism.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._

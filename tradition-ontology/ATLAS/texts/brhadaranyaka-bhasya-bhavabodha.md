@@ -17,4 +17,4 @@ Raghūttama Tīrtha's commentary (Bhāvabodha) on Madhva's Bṛhadāraṇyaka-bh
 _Notes: The Bhāvabodha is in the raw_etexts corpus; its attribution to Raghūttama is from memory._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

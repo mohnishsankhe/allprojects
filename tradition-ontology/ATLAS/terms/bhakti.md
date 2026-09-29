@@ -16,6 +16,7 @@
 - [Rāmānandī sampradāya](../lineages/ramanandi.md): Loving devotion to Rāma, the lamp without which knowledge does not shine and the cause of liberation; open to men, women and even animals.
 - [Śākta traditions](../lineages/sakta.md): Devotion to the Goddess, the easiest of the three paths, graded by the guṇas and culminating in supreme devotion.
 - [Vīraśaiva / Liṅgāyata](../lineages/virasaiva.md): Devotion to Śiva, ninefold (SSM 9.2–3), outer and inner (9.6–9), arising from grace and giving rise to grace (9.11–12); its presence, not birth, makes one a bhakta (9.4–5); in the six-bhakti scheme it rises from faith to samarasa.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: The noun does not occur in chs. 4–6, but the verb bhaj- does: the Lord 'responds to' (bhajāmi) people in the way they approach him (4.11); the yogin established in oneness worships (bhajati) him as abiding in all beings (6.31); the one who worships (bhajate) him with faith and inner self fixed on him is the most yoked (6.47).
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): Unmotivated, uninterrupted love and service directed to the Lord, the highest dharma (BhP 1.2.6); graded by the guṇas and beyond them (3.29); ninefold in practice (7.5.23-24); the one means that 'wins' the Lord (11.14.20-21).
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): Meditation that has become love: knowledge in the form of supreme affection (prīti) for the Lord, the means to liberation prescribed by the Upaniṣads.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Devotion: 'to one who has the highest devotion to God and to his teacher as to God, these matters shine forth' (ŚU 6.23).
@@ -27,7 +28,11 @@
 - Tamil: patti பத்தி — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [māhātmya-jñāna](mahatmya-jnana.md), [sneha](sneha.md), [bhakti-yoga](bhakti-yoga.md), [ananya-bhakti](ananya-bhakti.md), [bhakta](bhakta.md), [ahaitukī bhakti](ahaituki-bhakti.md), [parā bhakti](para-bhakti.md), [nirguṇa bhakti](nirguna-bhakti.md)
+**Related:** [māhātmya-jñāna](mahatmya-jnana.md), [sneha](sneha.md), [bhakti-yoga](bhakti-yoga.md), [ananya-bhakti](ananya-bhakti.md), [bhakta](bhakta.md), [ahaitukī bhakti](ahaituki-bhakti.md), [parā bhakti](para-bhakti.md), [nirguṇa bhakti](nirguna-bhakti.md), [śraddhā](sraddha.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U25-alvar-bhakti-theory, skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U20-virasaiva, skeleton:U07-puranas, skeleton:U14-visistadvaita, skeleton:U03-principal-upanisads, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:4.11, tea:bhagavad-gita:6.31, tea:bhagavad-gita:6.47, tea:bhagavad-gita:4.3 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U15-dvaita, skeleton:U25-alvar-bhakti-theory, skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U20-virasaiva, extraction:bhagavad-gita/ch04-06, skeleton:U07-puranas, skeleton:U14-visistadvaita, skeleton:U03-principal-upanisads, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

@@ -75,4 +75,4 @@ concepts: [Substitutes (anukalpa) for the Kaula substances and offerings](../con
 _Notes: Chapter numbering differs between editions (the offering chapter is often cited as ch. 71 in other editions)._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula, skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U24-kali-kaula, skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._

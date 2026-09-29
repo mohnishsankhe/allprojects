@@ -507,7 +507,7 @@ There a father is not a father, a mother not a mother, worlds not worlds, gods n
 
 _level: ultimate · standpoint: experiential · path: knowledge · stage: advanced · types: consciousness-mind, ultimate_
 
-concepts: [Deep sleep](../concepts/deep-sleep.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md) · disputes: `dsp:status-of-veda`
+concepts: [Deep sleep](../concepts/deep-sleep.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 4.3.23-31 <a id="tea-brhadaranyaka-upanisad-4-3-23-31"></a>
 `skeleton` · confidence high
@@ -849,4 +849,4 @@ concepts: [Teacher and pupil in the Upaniṣads](../concepts/upanisadic-teacher-
 _Notes: Veda affiliation: White Yajurveda (Kāṇva and Mādhyandina recensions)_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

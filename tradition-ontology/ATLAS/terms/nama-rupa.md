@@ -17,4 +17,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

@@ -19,4 +19,4 @@
 Nephew and disciple of Rūpa and Sanātana; the systematic theologian of the school (Ṣaṭ Sandarbha, Sarvasaṃvādinī, Kramasandarbha), grammarian (Harināmāmṛtavyākaraṇa), poet (Gopālacampū) and commentator; leader of the Vṛndāvana community after the elder Gosvāmīs.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._

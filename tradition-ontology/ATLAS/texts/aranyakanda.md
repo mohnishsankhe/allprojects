@@ -22,6 +22,6 @@ The book of the forest: life among the sages, Sītā's abduction by Rāvaṇa, a
 ---
 **Verification checks**
 
-- 2026-09-28 catalog: confirmed — catalog:GRETIL-dev:valmiki_ramayana_3, local:sources_raw/DharmicData/ValmikiRamayana (southern vulgate) book 3 — Book 3 of the Vālmīki Rāmāyaṇa, digitized in several local editions.
+- 2026-09-29 catalog: confirmed — catalog:GRETIL-dev:valmiki_ramayana_3, local:sources_raw/DharmicData/ValmikiRamayana (southern vulgate) book 3 — Book 3 of the Vālmīki Rāmāyaṇa, digitized in several local editions.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

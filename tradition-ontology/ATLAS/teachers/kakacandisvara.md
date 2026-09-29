@@ -10,4 +10,4 @@
 Named among the authorities of rasa (Rasaratnasamuccaya 1.6); the Kākacaṇḍīśvarīmata bears his name.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

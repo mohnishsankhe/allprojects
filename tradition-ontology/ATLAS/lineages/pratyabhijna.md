@@ -22,7 +22,7 @@ The philosophical school founded by Somānanda (Śivadṛṣṭi) and systematiz
 - Devotion (bhakti) is the enjoyment of the identity with Śiva already recognized (Utpaladeva's Śivastotrāvalī).
 
 **Transmissions received:** 
-  - `lin:pramana-buddhist` — what: the logical-epistemological idiom of Dharmakīrti's school, answered polemically; evidence: ĪPK 1.2-1.7; 2.3
+  - [Buddhist epistemology and logic (pramāṇa school)](pramana-buddhist.md) — what: the logical-epistemological idiom of Dharmakīrti's school, answered polemically; evidence: ĪPK 1.2-1.7; 2.3
   - [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](vyakarana.md) — what: the idea that awareness is intrinsically verbal (vāc); critique of paśyantī as ultimate; evidence: Śivadṛṣṭi ch. 2; ĪPK 1.5.13
 
 ## The ultimate in this lineage
@@ -48,7 +48,7 @@ The philosophical school founded by Somānanda (Śivadṛṣṭi) and systematiz
 `pth:kashmir-four-upayas`
 
 ## Debates
-[Does the liberated soul become identical with Śiva, or only equal to Śiva (śivasamatva) while remaining distinct?](../debates/liberation-identity-or-equality-with-siva.md), [Is Speech at the level of paśyantī (the grammarians' Word-Brahman) the ultimate reality?](../debates/pasyanti-brahman.md), [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md)
+[Is the ultimate of the nature of speech (śabdādvaita), and is all cognition word-permeated?](../debates/is-the-ultimate-speech.md), [Does the liberated soul become identical with Śiva, or only equal to Śiva (śivasamatva) while remaining distinct?](../debates/liberation-identity-or-equality-with-siva.md), [Is Speech at the level of paśyantī (the grammarians' Word-Brahman) the ultimate reality?](../debates/pasyanti-brahman.md), [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](../debates/pratyabhijna-vs-buddhist-logicians.md)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

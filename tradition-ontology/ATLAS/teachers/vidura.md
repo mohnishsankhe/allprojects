@@ -16,6 +16,6 @@ Half-brother of Dhṛtarāṣṭra and Pāṇḍu, born of a śūdra woman; Dhar
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData MBh CE 1.100.28 (dharmo vidurarūpeṇa śāpāt ... māṇḍavyasya), 5.41.5, 15.33.25 — Every cited reference located, including the Māṇḍavya curse at 1.100.28.
+- 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 1.100.28 (dharmo vidurarūpeṇa śāpāt ... māṇḍavyasya), 5.41.5, 15.33.25 — Every cited reference located, including the Māṇḍavya curse at 1.100.28.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

@@ -15,4 +15,4 @@
 **Related:** [vamana](vamana.md), [virecana](virecana.md), [basti / vasti](basti.md), [nasya / nāvana](nasya.md), [raktamokṣaṇa](raktamoksana.md), [snehana](snehana.md), [svedana](svedana.md)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

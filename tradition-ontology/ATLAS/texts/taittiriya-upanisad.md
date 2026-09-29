@@ -22,7 +22,7 @@ Opens with phonetics (siksa), meditations on combinations and on the vyahrtis, t
   - kind: translation; name: F. Max Muller, The Upanishads, SBE 1 and 15 (1879, 1884); licence: public domain
 **Commentaries on this text:** [Taittirīyopaniṣad-bhāṣya (Madhva)](taittiriya-upanisad-bhasya-madhva.md), [Taittirīyopaniṣadbhāṣya of Śaṅkara](taittiriya-upanisad-bhasya-sankara.md)
 
-## Teachings (24: skeleton 24)
+## Teachings (24: skeleton 22, sourced 2)
 
 ### 1.1.1 <a id="tea-taittiriya-upanisad-1-1-1"></a>
 `skeleton` · confidence high
@@ -34,7 +34,7 @@ _level: conventional · standpoint: devotional · path: sound, devotion · stage
 terms: [ṛta](../terms/rta.md), [satya](../terms/satya.md)
 
 ### 1.2 <a id="tea-taittiriya-upanisad-1-2"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 We shall explain phonetics (śīkṣā): phoneme, accent, quantity, force, evenness (sāma) and connection (santāna). Thus is the lesson on phonetics.
 
@@ -50,7 +50,7 @@ We shall explain phonetics (śīkṣā): sound, accent, quantity, force, articul
 _level: conventional · standpoint: analytic · path: sound · stage: beginner · types: sound-language_
 
 ### 1.3 <a id="tea-taittiriya-upanisad-1-3"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Now the secret teaching of connection (saṃhitā) in five aspects — the worlds, the lights, knowledge, progeny and the self: the prior form is the earth, the latter form the sky, the junction space, the link the wind; and likewise for fire and sun, teacher and pupil, mother and father, the lower and upper jaw with speech as their link.
 
@@ -228,7 +228,7 @@ Bhṛgu understood in turn that food is brahman, then breath, then mind, then un
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: intermediate · types: ultimate, practice_
 
-terms: [anna](../terms/anna.md), [prāṇa](../terms/prana.md), [manas](../terms/manas.md), [vijñāna](../terms/vijnana.md), [ānanda](../terms/ananda.md), [tapas](../terms/tapas.md) · concepts: [The five sheaths (pañca-kośa)](../concepts/five-sheaths.md), [Bliss (ānanda) as brahman](../concepts/ananda.md), [Austerity / creative heat (tapas)](../concepts/tapas.md) · practices: [Austerity (tapas)](../practices/tapas.md) · teachers: [Bhṛgu Vāruṇi](../teachers/bhrgu.md), [Varuṇa (as teacher)](../teachers/varuna.md)
+terms: [aññā](../terms/anna.md), [prāṇa](../terms/prana.md), [manas](../terms/manas.md), [vijñāna](../terms/vijnana.md), [ānanda](../terms/ananda.md), [tapas](../terms/tapas.md) · concepts: [The five sheaths (pañca-kośa)](../concepts/five-sheaths.md), [Bliss (ānanda) as brahman](../concepts/ananda.md), [Austerity / creative heat (tapas)](../concepts/tapas.md) · practices: [Austerity (tapas)](../practices/tapas.md) · teachers: [Bhṛgu Vāruṇi](../teachers/bhrgu.md), [Varuṇa (as teacher)](../teachers/varuna.md)
 
 ### 3.7.1-3.10.4 <a id="tea-taittiriya-upanisad-3-7-1-3-10-4"></a>
 `skeleton` · confidence high
@@ -237,7 +237,7 @@ Vows (vrata) concerning food: one should not despise food; one should not reject
 
 _level: conventional · standpoint: ethical-social · path: action, meditation · stage: all · types: ethics, practice_
 
-terms: [anna](../terms/anna.md), [vrata](../terms/vrata.md) · practices: [The food vows (Taittirīya)](../practices/anna-vrata.md)
+terms: [aññā](../terms/anna.md), [vrata](../terms/vrata.md) · practices: [The food vows (Taittirīya)](../practices/anna-vrata.md)
 
 ### 3.10.5-6 <a id="tea-taittiriya-upanisad-3-10-5-6"></a>
 `skeleton` · confidence high
@@ -246,10 +246,10 @@ One who knows this, departing this world, passing into the selves made of food, 
 
 _level: ultimate · standpoint: experiential · path: knowledge, sound · stage: realized · types: powers-experiences, ultimate_
 
-terms: [anna](../terms/anna.md), [ṛta](../terms/rta.md) · concepts: [The five sheaths (pañca-kośa)](../concepts/five-sheaths.md)
+terms: [aññā](../terms/anna.md), [ṛta](../terms/rta.md) · concepts: [The five sheaths (pañca-kośa)](../concepts/five-sheaths.md)
 
 
 _Notes: Veda affiliation: Black Yajurveda, Taittirīya śākhā_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

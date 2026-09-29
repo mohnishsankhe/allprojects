@@ -15,4 +15,4 @@
 _Notes: Forty names result if every epithet is counted separately; the text says thirty-nine (segmentation uncertain)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 16:38 IST._

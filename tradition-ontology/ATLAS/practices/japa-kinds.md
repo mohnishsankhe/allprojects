@@ -12,4 +12,4 @@ Loud, whispered (upāṃśu) and mental recitation, each far superior to the pre
   - [Śāṇḍilya Upaniṣad](../texts/sandilya-upanisad.md) — ref: 1.2; rests_on: ["tea:sandilya-upanisad:1.2"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

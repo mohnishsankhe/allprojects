@@ -17,4 +17,4 @@ The five senses as thieves and a forest to be cut down and burnt before the 'hou
 - partial: [The turbulent senses (indriyāṇi pramāthīni)](turbulent-senses.md) — the senses as obstacle
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._

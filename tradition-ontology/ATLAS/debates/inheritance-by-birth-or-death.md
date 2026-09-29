@@ -1,6 +1,6 @@
 # Does a son own ancestral property from birth or only on the father's death?
 
-`dsp:inheritance-by-birth-or-death` · `skeleton` · confidence moderate
+`dsp:inheritance-by-birth-or-death` · `sourced` · confidence moderate
 
 
 ## Sides (recorded before any reconciliation)
@@ -25,4 +25,8 @@ By death (uparamasvatva): ownership passes only when the father dies, falls or r
 _Notes: Legal debate recorded for completeness of the Dharmaśāstra lineage._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/dcs/corpus/GRETIL/sa_vijJAnezvara-mitAkSarA.txt (GRETIL Mitākṣarā, Acharya 1949), text:sources_raw/raw_etexts/mixed/ebhAratI-sampat/dharmashAstram/smRtiH/jImUtavAhanaH/jIvAnandavidyAsAgaraH/dAyabhAgaH.md (eBhāratī Dāyabhāga, Jīvānanda ed. with commentary), https://en.wikipedia.org/w — The Mitākṣarā position on YS 2.114ff was found ('tasmāt paitṛke paitāmahe ca dravye janmanaiva svatvam'), along with the avayavānvaya sapiṇḍa definition. The Dāyabhāga position was found in its first chapter with commentary: uparama-svatva on the father's death, fall or renunciation, and the piṇḍa-benefit ground of heirship. The regional split between Bengal and elsewhere agrees with Wikipedia's Dāyabhāga article.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

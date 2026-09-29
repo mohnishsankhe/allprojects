@@ -1,6 +1,6 @@
 # Jaiminīya Brāhmaṇa
 
-`src:jaiminiya-brahmana` · `skeleton` · confidence moderate
+`src:jaiminiya-brahmana` · `sourced` · confidence moderate
 
 **Alternate titles:** Talavakāra Brāhmaṇa
 **Language:** Sanskrit
@@ -15,10 +15,10 @@
 
 The large Brāhmaṇa of the Jaiminīya (Talavakāra) Sāmaveda: an extended treatment of the Agnihotra (1.1–65), the year-long session and Soma rites, and many narratives, including Bhṛgu's journey through the other world where he sees the fruits of deeds (1.42–44) and the fate of the dead questioned at the gate of heaven.
 
-## Teachings (1: skeleton 1)
+## Teachings (1: sourced 1)
 
 ### 1.42-44 <a id="tea-jaiminiya-brahmana-1-42-44"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 Bhṛgu, sent by his father Varuṇa, travels through the other world and sees beings who suffer in return what they inflicted in this life; Varuṇa explains that the Agnihotra, performed with knowledge, prevents such retribution.
 
@@ -30,4 +30,8 @@ practices: [Agnihotra (daily fire-offering)](../practices/agnihotra.md) · teach
 _Notes: Known from South Indian manuscripts; the Jaiminīya school survives in Kerala and Tamil Nadu._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Jaiminīyabrāhmaṇa, https://vedicheritage.gov.in/brahmanas/jaiminiya-brhamana/, https://en.wikipedia.org/wiki/Brahmana — Extant (DCS: 3 kāṇḍas). The Bhṛgu story at 1.42–44 is text-located. The date estimate is within the general Brāhmaṇa range; the 'Agnihotra 1.1–65' range was not checked in detail.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

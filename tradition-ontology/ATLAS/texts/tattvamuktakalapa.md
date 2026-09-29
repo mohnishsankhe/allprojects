@@ -31,8 +31,8 @@ The Nāyaka section: the Lord, qualified by souls and matter, is the one cause o
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-concepts: [Qualified non-dualism (viśiṣṭādvaita)](../concepts/qualified-non-dualism.md), [Brahman's twofold mark (ubhaya-liṅga): free of all defect, full of auspicious qualities](../concepts/ubhaya-linga.md) · teachers: [Vedānta Deśika](../teachers/vedanta-desika.md) · disputes: `dsp:isvara`
+concepts: [Qualified non-dualism (viśiṣṭādvaita)](../concepts/qualified-non-dualism.md), [Brahman's twofold mark (ubhaya-liṅga): free of all defect, full of auspicious qualities](../concepts/ubhaya-linga.md) · teachers: [Vedānta Deśika](../teachers/vedanta-desika.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._

@@ -14,4 +14,4 @@ The redactor (pratisaṃskartā) of Agniveśa's tantra: 'the redactor expands wh
 _Notes: A Buddhist narrative preserved in Chinese makes a physician Caraka attend King Kaniṣka; scholars differ on whether this is the redactor (scholarly hypothesis, recalled)._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

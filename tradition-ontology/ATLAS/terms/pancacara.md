@@ -15,4 +15,4 @@
 **Related:** [liṅgācāra](lingacara.md), [sadācāra](sadacara.md), [śivācāra](sivacara.md), [bhṛtyācāra](bhrtyacara.md), [gaṇācāra](ganacara.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._

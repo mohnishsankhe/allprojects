@@ -18,4 +18,4 @@
 **Related:** [bhakti](bhakti.md), [ananya-bhakti](ananya-bhakti.md), [jñānayoga](jnana-yoga.md), [karmayoga](karma-yoga.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas, skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._

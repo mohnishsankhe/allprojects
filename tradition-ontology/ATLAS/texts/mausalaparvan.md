@@ -22,6 +22,6 @@ The book of the clubs: the destruction of the Vṛṣṇis and Kṛṣṇa's dep
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_16.json (BORI Critical Edition text) book 16: 9 chapters — Book 16 has exactly 9 chapters in the local Critical Edition text, as entered.
+- 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_16.json (BORI Critical Edition text) book 16: 9 chapters — Book 16 has exactly 9 chapters in the local Critical Edition text, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

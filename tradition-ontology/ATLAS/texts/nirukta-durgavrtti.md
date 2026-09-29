@@ -1,6 +1,6 @@
 # Durgavṛtti on the Nirukta
 
-`src:nirukta-durgavrtti` · `skeleton` · confidence moderate
+`src:nirukta-durgavrtti` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -14,4 +14,8 @@
 Durga's commentary on Yāska's Nirukta.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/durgacarya, https://archive.org/details/NiruktaVrittiShriDurgacharya5073Alm23Shlf1DevanagariVeda — Confirmed: Durgācārya's commentary on the Nirukta, dated before 1200 CE (Wisdomlib). The entry gives no date.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

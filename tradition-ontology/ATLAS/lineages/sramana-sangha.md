@@ -4,7 +4,7 @@
 
 **Family:** ascetic
 **Parent:** [Sthānakavāsī](sthanakavasi.md)
-**Founders:** `tch:atmaram-sthanakavasi`
+**Founders:** [Ācārya Ātmārām (Sthānakavāsī)](../teachers/atmaram-sthanakavasi.md)
 **Dates:** Scholarly account: formed 1952 at the Sādaḍī convention by uniting many Sthānakavāsī sampradāyas; (confidence moderate)
 **Status:** living
 
@@ -18,7 +18,7 @@ The union of most Sthānakavāsī lineages formed in 1952 (recent); several grou
 _none recorded_
 
 ## Teachers
-_none recorded_
+[Ācārya Ātmārām (Sthānakavāsī)](../teachers/atmaram-sthanakavasi.md)
 
 ## Practices
 _none recorded_
@@ -30,4 +30,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

@@ -28,7 +28,7 @@ Against the Buddhists and materialists, there is a permanent soul distinct from 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: intermediate · types: consciousness-mind, dispute_
 
-terms: [paśu](../terms/pasu.md) · teachers: [Sadyojyoti](../teachers/sadyojyoti.md) · disputes: `dsp:is-there-a-self`
+terms: [paśu](../terms/pasu.md) · teachers: [Sadyojyoti](../teachers/sadyojyoti.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 2 <a id="tea-naresvarapariksa-2"></a>
 `skeleton` · confidence low
@@ -46,8 +46,8 @@ The unconscious māyā and karma cannot organize themselves to give each soul it
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: intermediate · types: ultimate, dispute_
 
-terms: [pati](../terms/pati.md), [nimitta-kāraṇa](../terms/nimitta-karana.md) · teachers: [Sadyojyoti](../teachers/sadyojyoti.md) · disputes: `dsp:isvara`
+terms: [pati](../terms/pati.md), [nimitta-kāraṇa](../terms/nimitta-karana.md) · teachers: [Sadyojyoti](../teachers/sadyojyoti.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

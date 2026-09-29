@@ -1,6 +1,6 @@
 # How are the Vedic deities and stories to be interpreted — as natural powers, as persons of old narratives, or through the rite?
 
-`dsp:nirukta-schools-of-interpretation` · `skeleton` · confidence high
+`dsp:nirukta-schools-of-interpretation` · `sourced` · confidence high
 
 
 ## Sides (recorded before any reconciliation)
@@ -27,4 +27,8 @@ Later commentators (Durga, Sāyaṇa) read mantras on the planes of the sacrific
 **The traditions' own objections:** Each school regarded its own reading as primary; the reconciliation is Yāska's plural reading, not an assertion that the schools agreed.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (GRETIL, Sarup ed.), https://www.wisdomlib.org/definition/durgacarya — Nirukta 2.16 (Vṛtra), 12.1 (the Aśvins), 7.5 (three deities) and 12.10 (Yama/Yamī) were found. The reconciliation's 'flower and fruit of speech' passage is at Nirukta 1.20 ('arthaṃ vācaḥ puṣpaphalam āha | yajñadaivate puṣpaphale devatādhyātme vā'). The mention of Durga and Sāyaṇa reading the mantras on three planes is general and was not separately text-checked.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

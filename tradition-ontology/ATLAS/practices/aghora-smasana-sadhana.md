@@ -12,4 +12,4 @@ Dwelling, meditating and performing rites in the cremation ground, smeared with 
 - Aghora practice is given only by the guru and kept secret; the recent teacher Aghoreśvar Bhagavān Rām is reported to have taught that it is naturalness and service, not spectacle (the lineage's oral rule as reported; no text located — to be sourced).
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

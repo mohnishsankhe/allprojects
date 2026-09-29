@@ -19,4 +19,4 @@ Son of Atri and Anasūyā, counted the sixth avatāra in the Bhāgavata (1.3.11:
 _Notes: U26 contribution (Mahānubhāva view) only._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U23-sakta-srividya, skeleton:U26-regional-bhakti, skeleton:U21-natha-aghora. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U23-sakta-srividya, skeleton:U26-regional-bhakti, skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._

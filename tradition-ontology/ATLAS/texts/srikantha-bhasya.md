@@ -41,7 +41,7 @@ terms: [dahara](../terms/dahara.md), [paramākāśa](../terms/paramakasa.md) · 
 
 _level: conventional · standpoint: polemical · path: knowledge, ritual · stage: all · types: dispute, teacher-transmission_
 
-concepts: [Equal authority of Veda and Śaiva Āgama](../concepts/veda-agama-equality.md) · teachers: [Śrīkaṇṭha Śivācārya](../teachers/srikantha.md) · disputes: [Are the Śaiva (and Pāñcarātra) Āgamas equal in authority to the Veda?](../debates/authority-of-the-agamas.md), `dsp:status-of-veda`
+concepts: [Equal authority of Veda and Śaiva Āgama](../concepts/veda-agama-equality.md) · teachers: [Śrīkaṇṭha Śivācārya](../teachers/srikantha.md) · disputes: [Are the Śaiva (and Pāñcarātra) Āgamas equal in authority to the Veda?](../debates/authority-of-the-agamas.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### 4.4.17 <a id="tea-srikantha-bhasya-4-4-17"></a>
 `skeleton` · confidence moderate
@@ -54,4 +54,4 @@ terms: [śiva-sāmya](../terms/siva-samya.md) · concepts: [Equality with Śiva 
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._

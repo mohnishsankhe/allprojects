@@ -14,8 +14,8 @@
 - [Navya-Nyāya](../lineages/navya-nyaya.md): The substrate of cognition, of two kinds: the Lord and the individual selves (Tarkasaṅgraha).
 
 ## Relations (interpretation layer)
-- contrasts-with → `cpt:anatta`: The Buddhist denial of a self, which Nyāya refutes. — rests on [3.1.1](../texts/nyaya-sutra.md#tea-nyaya-sutra-3-1-1), [structure](../texts/atmatattvaviveka.md#tea-atmatattvaviveka-structure)
+- contrasts-with → [Not-self (anattā)](anatta.md): The Buddhist denial of a self, which Nyāya refutes. — rests on [3.1.1](../texts/nyaya-sutra.md#tea-nyaya-sutra-3-1-1), [structure](../texts/atmatattvaviveka.md#tea-atmatattvaviveka-structure)
 - contrasts-with → [Puruṣa (the conscious self)](purusa.md): Sāṃkhya's puruṣa is pure consciousness; the Nyāya self has consciousness only as an adventitious quality. — rests on [1.1.22](../texts/nyaya-bhasya.md#tea-nyaya-bhasya-1-1-22)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

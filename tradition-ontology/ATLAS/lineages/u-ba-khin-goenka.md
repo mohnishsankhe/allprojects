@@ -5,8 +5,8 @@
 **Family:** ascetic
 **Alternate names:** Vipassana (Goenka), International Meditation Centre tradition, Dhamma.org courses
 **Parent:** [Ledi Sayadaw tradition](ledi.md)
-**Founders:** `tch:u-ba-khin`, `tch:goenka`
-**Key teachers:** `tch:saya-thetgyi`, `tch:u-ba-khin`, `tch:goenka`, `tch:webu-sayadaw`
+**Founders:** [Sayagyi U Ba Khin](../teachers/u-ba-khin.md), [S. N. Goenka](../teachers/goenka.md)
+**Key teachers:** [Saya Thetgyi](../teachers/saya-thetgyi.md), [Sayagyi U Ba Khin](../teachers/u-ba-khin.md), [S. N. Goenka](../teachers/goenka.md), [Webu Sayadaw](../teachers/webu-sayadaw.md)
 **Regions:** Burma (IMC Yangon), India (Dhamma Giri, Igatpuri), worldwide
 **Dates:** Tradition's account: the tradition's account: the technique was preserved in its purity in Burma by a chain of teachers from the Buddha's time (via the missionaries Soṇa and Uttara to Suvaṇṇabhūmi) and revived by Ledi Sayadaw; U Ba Khin founded the IMC in 1952; Goenka began teaching in India in 1969; Scholarly account: IMC Yangon 1952; Goenka's courses from 1969; Dhamma Giri 1976; (confidence moderate)
 **Status:** living
@@ -32,13 +32,13 @@ The lay insight lineage of Saya Thetgyi, Sayagyi U Ba Khin (1899–1971) and S. 
 **Caveat:** Presented as a universal law of nature (dhamma) rather than as a theology; the tradition would reject speculation about the ultimate in place of practice.
 
 ## Texts
-`src:art-of-living-hart`, `src:discourse-summaries-goenka`, `src:essentials-of-buddha-dhamma-u-ba-khin`
+[The Art of Living: Vipassana Meditation as Taught by S. N. Goenka](../texts/art-of-living-hart.md), [The Discourse Summaries (S. N. Goenka)](../texts/discourse-summaries-goenka.md), [The Essentials of Buddha-Dhamma in Meditative Practice](../texts/essentials-of-buddha-dhamma-u-ba-khin.md)
 
 ## Teachers
-`tch:goenka`, `tch:saya-thetgyi`, `tch:u-ba-khin`, `tch:webu-sayadaw`
+[S. N. Goenka](../teachers/goenka.md), [Saya Thetgyi](../teachers/saya-thetgyi.md), [Sayagyi U Ba Khin](../teachers/u-ba-khin.md), [Webu Sayadaw](../teachers/webu-sayadaw.md)
 
 ## Practices
-_none recorded_
+[Mindfulness of breathing (ānāpānasati)](../practices/anapanasati.md), [Body scanning (observation of sensations)](../practices/body-scanning.md), [Loving-kindness (mettā-bhāvanā)](../practices/metta-bhavana.md), [The ten-day Vipassana course (Goenka)](../practices/ten-day-vipassana-course.md)
 
 ## Path maps
 _none recorded_
@@ -47,4 +47,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._

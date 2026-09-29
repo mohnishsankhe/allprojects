@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The three forms (Brahmā, Viṣṇu, Rudra)](trimurti.md) (cosmic): the one Lord seen by function — rests on [1.2.66-67](../texts/visnu-purana.md#tea-visnu-purana-1-2-66-67)
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._

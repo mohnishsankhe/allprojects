@@ -24,7 +24,7 @@ The brahmins versed in the three Vedas who teach a path to union with Brahmā th
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, teacher-transmission_
 
-disputes: `dsp:tevijja-union-with-brahma`
+disputes: [Do the paths taught by the brahmins of the three Vedas lead to union with Brahmā?](../debates/tevijja-union-with-brahma.md)
 
 ### 76-81 <a id="tea-tevijja-sutta-76-81"></a>
 `skeleton` · confidence high
@@ -33,10 +33,10 @@ The monk who abides pervading the four directions, above, below and all around w
 
 _level: conventional · standpoint: seeker · path: meditation, devotion · stage: intermediate · types: practice, world-fate_
 
-terms: `trm:brahmavihara`, `trm:metta`, [karuṇā](../terms/karuna.md), [muditā](../terms/mudita.md), `trm:upekkha`, `trm:appamanna` · concepts: `cpt:four-brahmaviharas` · practices: `prc:brahmavihara-bhavana`, `prc:metta-bhavana` · disputes: `dsp:tevijja-union-with-brahma`
+terms: [brahmavihāra](../terms/brahmavihara.md), [mettā](../terms/metta.md), [karuṇā](../terms/karuna.md), [muditā](../terms/mudita.md), [upekkhā](../terms/upekkha.md), [appamaññā](../terms/appamanna.md) · concepts: [The four divine abidings (brahmavihāra)](../concepts/four-brahmaviharas.md) · practices: [Development of the four divine abidings](../practices/brahmavihara-bhavana.md), [Loving-kindness (mettā-bhāvanā)](../practices/metta-bhavana.md) · disputes: [Do the paths taught by the brahmins of the three Vedas lead to union with Brahmā?](../debates/tevijja-union-with-brahma.md)
 
 
 _Notes: SuttaCentral uid dn13; Mahāsaṅgīti title 'Tevijjasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._

@@ -12,4 +12,4 @@ A Sanskrit text catalogued among Vīraśaiva works; contents not yet summarized 
   - kind: original; name: Muktabodha digital library e-text M00656
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._

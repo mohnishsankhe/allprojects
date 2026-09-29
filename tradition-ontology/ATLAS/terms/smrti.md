@@ -14,6 +14,7 @@
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The dharmaśāstra (MDh 2.10); the recollection of those who know the Veda, a source of dharma second to it.
 - [Nyāya](../lineages/nyaya.md): A quality of the self, the knower (NS 3.2.40), prompted by many causes (NS 3.2.41).
 - [Navya-Nyāya](../lineages/navya-nyaya.md): Cognition produced by impressions alone (Tarkasaṅgraha).
+- [Jainism (Jaina dharma)](../lineages/jainism.md): A form of sensory (mati) knowledge (TS 1.13); in Akalaṅka's scheme an indirect pramāṇa.
 
 ## Forms in other languages
 - Pali: sati  — partial — as the faculty of 1.20; Buddhist mindfulness
@@ -24,4 +25,4 @@
 _Notes: Homonym: the id trm:smrti is also used for 'remembered tradition'; this entry gives the Yoga senses._
 
 ---
-_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch01-03, skeleton:U12-mimamsa, skeleton:U30-ayurveda-rasa, skeleton:U02-brahmana-vedanga, skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch01-03, skeleton:U12-mimamsa, skeleton:U30-ayurveda-rasa, skeleton:U02-brahmana-vedanga, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._

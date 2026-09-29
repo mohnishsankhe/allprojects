@@ -14,5 +14,17 @@
 
 The first Upāṅga (paired with the Ācārāṅga): a model description of the city of Campā, of Mahāvīra's arrival, his assembly and King Kūṇika's visit, his sermon, the kinds of ascetics and the heavens they are reborn in (upapāta), the wanderer Ambaḍa and his disciples, and the state of the liberated (siddha).
 
+## Teachings (1: skeleton 1)
+
+### siddha <a id="tea-aupapatika-siddha"></a>
+`skeleton` · confidence moderate
+
+The text ends with the liberated (siddha): where they are obstructed, where they are established, where they leave the body and where they reach perfection — beyond the summit of the world, on the Īṣatprāgbhārā earth; bodiless, dense with soul-units, endowed with knowledge and perception, they enjoy an unobstructed happiness that no god possesses.
+
+_level: ultimate · standpoint: cosmic · path: knowledge · stage: realized · types: karma-liberation, ultimate, world-fate_
+
+terms: [siddha](../terms/siddha.md), [siddhaśilā](../terms/siddhasila.md) · concepts: [The state of the liberated (siddha)](../concepts/siddha-state.md)
+
+
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

@@ -12,4 +12,4 @@ Observing that waking, dream and sleep and their objects come and go while the c
   - [Māṇḍūkya Kārikā (Gauḍapāda Kārikā, Āgamaśāstra)](../texts/mandukya-karika.md) — ref: 1.10–11; rests_on: ["tea:mandukya-karika:1.11"]
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

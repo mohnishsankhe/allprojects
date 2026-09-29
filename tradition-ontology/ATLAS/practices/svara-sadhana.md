@@ -14,4 +14,4 @@ The practice of the Śiva Svarodaya: noting which channel the breath is flowing 
 _Notes: Verse numbers of the Śiva Svarodaya not recalled; sources cite U28's topic-level teachings._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._

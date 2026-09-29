@@ -12,6 +12,6 @@ A forest woman of low birth, disciple of the sage Mataṅga, who waited for Rām
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:DharmicData Rāmāyaṇa (vulgate) 3.73.26 (śramaṇī śabarī), 3.74.31-35 — Located as described.
+- 2026-09-29 text-locate: confirmed — local:DharmicData Rāmāyaṇa (vulgate) 3.73.26 (śramaṇī śabarī), 3.74.31-35 — Located as described.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

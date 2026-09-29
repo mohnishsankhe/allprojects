@@ -14,6 +14,7 @@
 - [Vaiśeṣika](../lineages/vaisesika.md): Knowledge from a mark (laiṅgika): effect, cause, connected, co-inherent, opposed (VS 9.18); includes verbal knowledge.
 - [Navya-Nyāya](../lineages/navya-nyaya.md): The instrument of inferential cognition, i.e. consideration (parāmarśa); for oneself or for others.
 - [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md): Cognition of an unperceived part from seeing another part whose relation is known; of two kinds, by a relation seen directly or by one seen in general (the Vṛttikāra in Śabara).
+- [Cārvāka / Lokāyata](../lineages/carvaka.md): (As reported) Not a means of knowledge, since pervasion cannot be established; or (Purandara) valid only as known in worldly life.
 - [Bāul](../lineages/baul.md): In Bāul usage: inference, hearsay and scripture — everything not verifiable in the living body — set aside in favour of bartamān.
 
 ## Forms in other languages
@@ -23,4 +24,4 @@
 **Related:** [pratyakṣa](pratyaksa.md), [āgama](agama.md), [pūrvavat](purvavat.md), [śeṣavat](sesavat.md), [sāmānyatodṛṣṭa](samanyatodrsta.md), [vīta](vita.md), [avīta](avita.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U27-sant-baul. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U33-sramana, skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._

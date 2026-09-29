@@ -21,4 +21,4 @@
 _Notes: Homonym: see trm:nyasa-surrender._
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U08-agama-catalogue, skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U08-agama-catalogue, skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._

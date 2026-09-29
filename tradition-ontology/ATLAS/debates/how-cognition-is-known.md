@@ -32,4 +32,4 @@ A cognition is known by the after-cognition; its validity is known extrinsically
 _Notes: Gaṅgeśa's report of the three Mīmāṃsā views is from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

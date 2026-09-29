@@ -8,6 +8,7 @@
 
 ## Definitions by tradition
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The wise who see the same in a learned brāhmaṇa, a cow, an elephant, a dog and a dog-eater (BhG 5.18); the yogin who sees the same everywhere (6.29) and the Lord equally present in all (13.27–28).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: The learned see with an equal eye a learned brahmin, a cow, an elephant, a dog and a dog-eater (5.18); the yogin yoked in yoga, seeing the same everywhere (sama-darśana), sees the self in all beings and all beings in the self (6.29).
 
 ## Forms in other languages
 
@@ -15,4 +16,8 @@
 **Related:** [samatva](samatva.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:5.18, tea:bhagavad-gita:6.29 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._

@@ -13,4 +13,4 @@ Formal renunciation of rites and possessions by one who desires knowledge, to de
   - [Bṛhadāraṇyakopaniṣadbhāṣya of Śaṅkara](../texts/brhadaranyaka-upanisad-bhasya-sankara.md) — ref: 4.4.22; rests_on: ["tea:brhadaranyaka-upanisad-bhasya-sankara:4.4.22"]
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

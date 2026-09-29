@@ -1,19 +1,24 @@
 # kūṭastha
 
-`trm:kutastha` · `skeleton` · confidence moderate
+`trm:kutastha` · `skeleton` · confidence high
 
 **Language:** Sanskrit
 **Native script:** कूटस्थ
-**Literal:** standing on the peak; unchanging
+**Literal:** standing like an anvil; unchanging
 
 ## Definitions by tradition
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: Epithet of the yoked yogin who is satisfied with knowledge and realised knowledge and whose senses are conquered (6.8).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The unchanging: epithet of the imperishable puruṣa (BhG 15.16) and of the unmanifest worshipped by some (12.3).
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): The immutable, 'anvil-like' consciousness underlying the body and mind, distinct from the reflected consciousness (cidābhāsa); another name for the witness.
 
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [sākṣin](saksin.md), [cidābhāsa](cidabhasa.md)
+**Related:** [yukta](yukta.md), [sākṣin](saksin.md), [cidābhāsa](cidabhasa.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:6.8 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

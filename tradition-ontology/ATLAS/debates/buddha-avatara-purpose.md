@@ -30,4 +30,4 @@ The Buddha is the fully awakened teacher of the true dharma, not an avatāra of 
 _Notes: The Jayadeva side is cited under lin:alvar only as the nearest registry Vaiṣṇava-poet lineage; U25 owns Jayadeva._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._

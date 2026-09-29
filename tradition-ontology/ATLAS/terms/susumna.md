@@ -24,4 +24,4 @@
 **Related:** [iḍā](ida.md), [piṅgalā](pingala.md), [brahmarandhra](brahmarandhra.md), [citriṇī / citrā](citrini.md), [brahmanāḍī](brahma-nadi.md)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U03-principal-upanisads, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U07-puranas, skeleton:U22-tamil-siddha, skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U03-principal-upanisads, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U07-puranas, skeleton:U22-tamil-siddha, skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

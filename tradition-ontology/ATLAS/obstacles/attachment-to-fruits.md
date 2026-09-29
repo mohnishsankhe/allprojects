@@ -11,6 +11,14 @@ Bhagavad Gītā 1–3: Being one whose motive is the fruit of action (karmaphala
 **Sources:** 
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 2.47, 2.49; rests_on: ["tea:bhagavad-gita:2.47", "tea:bhagavad-gita:2.49"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 2.47, 2.49; 5.12; rests_on: ["tea:bhagavad-gita:2.47", "tea:bhagavad-gita:2.49", "tea:bhagavad-gita:5.11-12"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 4.14; rests_on: ["tea:bhagavad-gita:4.14"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 4.20; rests_on: ["tea:bhagavad-gita:4.20"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.12; rests_on: ["tea:bhagavad-gita:5.12"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.1; rests_on: ["tea:bhagavad-gita:6.1"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:4.14, tea:bhagavad-gita:4.20, tea:bhagavad-gita:5.12, tea:bhagavad-gita:6.1 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._

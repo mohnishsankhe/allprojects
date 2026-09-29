@@ -1,14 +1,20 @@
 # Candragomin
 
-`tch:candragomin` · `skeleton` · confidence moderate
+`tch:candragomin` · `sourced` · confidence moderate
 
-**Lineages:** [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
-**Dates:** Scholarly account: c. 5th–7th c. CE; (confidence low)
+**Alternate names:** tsan dra go mi
+**Lineages:** [Yogācāra](../lineages/yogacara.md), [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md)
+**Dates:** Scholarly account: c. 6th–7th c. CE; (confidence low)
 **Historicity:** historical
 **Works:** 
+  - [Bodhisattvasaṃvaraviṃśaka](../texts/bodhisattvasamvaravimsaka.md) — attribution: accepted
   - [Cāndra-vyākaraṇa](../texts/candra-vyakarana.md) — attribution: accepted
 
-Buddhist lay scholar, author of the Cāndra grammar (his Buddhist works belong to other units).
+Lay Yogācāra master and grammarian (Cāndra-vyākaraṇa); Tibetan tradition tells of his long debate with Candrakīrti at Nālandā, Yogācāra against Madhyamaka, and of his devotion to Tārā and Avalokiteśvara.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/candragomin — Confirmed: Buddhist grammarian, c. 5th c. CE (Wisdomlib), within the entry's range.
+
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

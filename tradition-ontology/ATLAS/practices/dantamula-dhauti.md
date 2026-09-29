@@ -13,4 +13,4 @@ The roots of the teeth are rubbed with catechu juice or pure earth until the imp
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 1.26-28; rests_on: ["tea:gheranda-samhita:1.26", "tea:gheranda-samhita:1.27-28"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._

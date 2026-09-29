@@ -34,7 +34,7 @@ The lords of the lunar days (from the first) are Fire, Brahmā, Gaurī, Gaṇeś
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: world-fate, practice_
 
-terms: `trm:tithi`, `trm:vara` · concepts: `cpt:pancanga`, `cpt:tithi-classes` · practices: `prc:muhurta-selection` · teachers: [Rāma Daivajña](../teachers/rama-daivajna.md)
+terms: [tithi](../terms/tithi.md), [vāra](../terms/vara.md) · concepts: [The five limbs of the almanac (pañcāṅga)](../concepts/pancanga.md), [The five classes of lunar days](../concepts/tithi-classes.md) · practices: [Choosing the auspicious moment (muhūrta)](../practices/muhurta-selection.md) · teachers: [Rāma Daivajña](../teachers/rama-daivajna.md)
 
 ### 2.1 <a id="tea-muhurta-cintamani-2-1"></a>
 `skeleton` · confidence moderate
@@ -43,7 +43,7 @@ The lords of the asterisms from Aśvinī: the Aśvins, Yama, Agni, Brahmā, the 
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: world-fate_
 
-concepts: `cpt:twenty-seven-naksatras` · teachers: [Rāma Daivajña](../teachers/rama-daivajna.md)
+concepts: [The twenty-seven (twenty-eight) lunar mansions and their deities](../concepts/twenty-seven-naksatras.md) · teachers: [Rāma Daivajña](../teachers/rama-daivajna.md)
 
 ### 2.2-8 <a id="tea-muhurta-cintamani-2-2-8"></a>
 `skeleton` · confidence high
@@ -52,7 +52,7 @@ The three Uttaras, Rohiṇī and Sunday are fixed (dhruva): for sowing, houses, 
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: world-fate, practice_
 
-concepts: `cpt:naksatra-classes` · practices: `prc:muhurta-selection` · teachers: [Rāma Daivajña](../teachers/rama-daivajna.md)
+concepts: [Classes of asterisms for action](../concepts/naksatra-classes.md) · practices: [Choosing the auspicious moment (muhūrta)](../practices/muhurta-selection.md) · teachers: [Rāma Daivajña](../teachers/rama-daivajna.md)
 
 ### 6.21 <a id="tea-muhurta-cintamani-6-21"></a>
 `skeleton` · confidence high
@@ -63,10 +63,10 @@ concepts: `cpt:naksatra-classes` · practices: `prc:muhurta-selection` · teache
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: world-fate, practice, ethics_
 
-concepts: `cpt:astakuta` · practices: `prc:kundali-milana` · teachers: [Rāma Daivajña](../teachers/rama-daivajna.md)
+concepts: [The eightfold matching for marriage (aṣṭakūṭa)](../concepts/astakuta.md) · practices: [Matching horoscopes for marriage](../practices/kundali-milana.md) · teachers: [Rāma Daivajña](../teachers/rama-daivajna.md)
 
 
 _Notes: Author's own commentary Pramitākṣarā; Govinda's Pīyūṣadhārā (1603)._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

@@ -12,4 +12,4 @@ Rites for repairing a temple or replacing a damaged image, moving the deity's pr
   - [Tantrasamuccaya](../texts/tantrasamuccaya.md) — 
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 16:38 IST._

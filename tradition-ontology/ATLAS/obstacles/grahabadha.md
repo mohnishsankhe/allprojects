@@ -13,4 +13,4 @@ Seizure by the eight classes of beings shows as superhuman knowledge and action;
   - [Caraka Saṃhitā](../texts/caraka-samhita.md) — ref: Ni 7.10-23; rests_on: ["tea:caraka-samhita:ni.7.10-23"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._

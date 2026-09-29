@@ -11,6 +11,7 @@
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Being: 'in the beginning this was being alone, one without a second' (ChU 6.2.1); in BAU 2.3.1 and TU 2.6 paired with tyat/tyam as the manifest and the beyond.
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): Existence/being: that which is never sublated in the three times; Brahman as pure being, present in every cognition 'it is'.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: In 2.16: what is (the existent or real), of which there is no non-being (abhāva); what exactly is meant is disputed among commentators.
+- [Jainism (Jaina dharma)](../lineages/jainism.md): What is endowed with origination, cessation and persistence (TS 5.29–30).
 
 ## Forms in other languages
 
@@ -18,4 +19,4 @@
 **Related:** [asat](asat.md), [satya](satya.md), [saccidānanda](saccidananda.md), [mithyā](mithya.md)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, extraction:bhagavad-gita/ch01-03. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, extraction:bhagavad-gita/ch01-03, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._

@@ -20,8 +20,8 @@
 - Hindi: sunn / sunya  — exact
 
 ## Equivalents (interpretation layer)
-- contested: `trm:sunyata` — Allama's śūnya is Śiva's own void-fullness (liṅga as bayalu); interpreters in the tradition reject its identification with Buddhist emptiness, though the word is shared
+- contested: [śūnyatā](sunyata.md) — Allama's śūnya is Śiva's own void-fullness (liṅga as bayalu); interpreters in the tradition reject its identification with Buddhist emptiness, though the word is shared
 **Related:** [bayalu](bayalu.md)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul, skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul, skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._

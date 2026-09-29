@@ -18,4 +18,4 @@ Repetition of the fifteen- or sixteen-syllable mantra received at initiation, wi
 - Those without the succession of teachers, proud of mere knowledge, are harmed by the mantra's rays through their breach of the samaya. — [Yoginīhṛdaya](../texts/yoginihrdaya.md) 2.81
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._

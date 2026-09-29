@@ -23,8 +23,8 @@ There is only one rasa, compassion (karuṇa); through difference of causes it t
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind, dispute_
 
-terms: [vivarta](../terms/vivarta.md) · teachers: [Bhavabhūti](../teachers/bhavabhuti.md) · disputes: `dsp:one-rasa-or-many`
+terms: [vivarta](../terms/vivarta.md) · teachers: [Bhavabhūti](../teachers/bhavabhuti.md) · disputes: [Is there one rasa underlying all, and if so which?](../debates/one-rasa-or-many.md)
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

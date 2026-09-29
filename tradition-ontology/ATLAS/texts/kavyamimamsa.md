@@ -31,8 +31,8 @@ Poetic genius (pratibhā) is twofold: creative (kārayitrī), belonging to the p
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind, sound-language_
 
-terms: [prātibha](../terms/pratibha.md) · concepts: `cpt:pratibha-poetic` · teachers: [Rājaśekhara](../teachers/rajasekhara.md)
+terms: [prātibha](../terms/pratibha.md) · concepts: [Poetic genius (pratibhā, śakti)](../concepts/pratibha-poetic.md) · teachers: [Rājaśekhara](../teachers/rajasekhara.md)
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

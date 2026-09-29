@@ -79,7 +79,8 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 |---|---|
 | U05-gita-epic | done — 689 checked: 683 confirmed · 5 partial · 1 corrected · 0 not-found |
 | U01-vedic-samhitas | done — 502 checked: 492 confirmed · 9 partial · 1 corrected (RV 10.88.15 srutī) · 0 not-found |
-| U02-brahmana-vedanga | running |
+| U02-brahmana-vedanga | done — 723 checked: 689 confirmed · 17 partial · 17 corrected · 0 not-found (157 terms not in scope) |
+| U03-principal-upanisads | running |
 ### Sweep follow-ups (for Phase D / S5 / later sweeps)
 - C-U05: tea:moksadharma:12.289 — the arrow-maker simile is at 12.171.61, not 12.289 (12.289.31 has an archer); fix in extraction. tch:hanuman summary says "four sciences" but MBh 3.149.31 says three (tisro vidyāḥ) — shared by U04/U06/U05, fix in S5. U13 sweep: check tch:sankara's dating framing (788–820 CE is the older scholarly convention, not "most maṭha traditions"; Kāñcī gives 509–477 BCE). tea:vyadha-gita:3.197 has ref "3.196-197".
 

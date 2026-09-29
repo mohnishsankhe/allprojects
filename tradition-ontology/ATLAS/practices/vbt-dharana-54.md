@@ -15,4 +15,4 @@ On a soft seat, [sitting] on one buttock, placing the hands and feet without sup
 _Notes: Verses 78 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

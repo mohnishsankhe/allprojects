@@ -22,6 +22,6 @@ The book of the horse sacrifice: the Anugītā (14.16–50), Yudhiṣṭhira's h
 ---
 **Verification checks**
 
-- 2026-09-28 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_14.json (BORI Critical Edition text) book 14: 96 chapters — Book 14 has exactly 96 chapters in the local Critical Edition text, as entered.
+- 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_14.json (BORI Critical Edition text) book 14: 96 chapters — Book 14 has exactly 96 chapters in the local Critical Edition text, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

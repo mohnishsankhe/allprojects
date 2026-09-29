@@ -15,4 +15,4 @@ One should contemplate the whole body, or the world, as made of consciousness, a
 _Notes: Verses 63 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

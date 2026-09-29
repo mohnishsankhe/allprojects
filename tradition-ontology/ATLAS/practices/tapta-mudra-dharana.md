@@ -13,4 +13,4 @@ Summary only: the Mādhva tradition marks the body with Viṣṇu's discus and c
 _Notes: Restricted: involves marking the body with heated metal; no procedure recorded. Its legitimacy was contested by Smārta critics and defended by Mādhva authors (a work 'Cakramīmāṃsā' is ascribed to Vijayīndra) — recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

@@ -11,4 +11,4 @@ The chain of bondage in Śaṅkara's commentaries: ignorance gives rise to desir
 **Members:** avidyā, kāma, karma
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._

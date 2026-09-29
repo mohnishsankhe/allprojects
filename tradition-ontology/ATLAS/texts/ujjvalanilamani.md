@@ -40,8 +40,8 @@ Love (prema) intensifies through stages — affection (sneha), love-pique (māna
 
 _level: conventional · standpoint: experiential · path: devotion · stage: realized · types: consciousness-mind, powers-experiences_
 
-terms: [sneha](../terms/sneha.md), [māna (in love)](../terms/mana.md), [praṇaya](../terms/pranaya.md), [rāga](../terms/raga.md), [anurāga](../terms/anuraga.md), [mahābhāva](../terms/mahabhava.md) · concepts: [The stages of love from prema to mahābhāva](../concepts/stages-of-prema.md) · teachers: [Rūpa Gosvāmī](../teachers/rupa-gosvami.md)
+terms: [sneha](../terms/sneha.md), [māna](../terms/mana.md), [praṇaya](../terms/pranaya.md), [rāga](../terms/raga.md), [anurāga](../terms/anuraga.md), [mahābhāva](../terms/mahabhava.md) · concepts: [The stages of love from prema to mahābhāva](../concepts/stages-of-prema.md) · teachers: [Rūpa Gosvāmī](../teachers/rupa-gosvami.md)
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._

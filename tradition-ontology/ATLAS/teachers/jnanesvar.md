@@ -24,6 +24,6 @@ _Notes: U05's contribution only._
 ---
 **Verification checks**
 
-- 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Dnyaneshwar — Confirmed (Nāth and Vārkarī lineages).
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Dnyaneshwar — Confirmed (Nāth and Vārkarī lineages).
 
-_Contributed by: skeleton:U26-regional-bhakti, skeleton:U21-natha-aghora, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti, skeleton:U21-natha-aghora, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

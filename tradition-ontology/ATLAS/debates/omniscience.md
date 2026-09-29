@@ -14,18 +14,18 @@ No person perceives dharma: an omniscient is not seen now, cannot be shown to ha
   - [Ślokavārttika](../texts/slokavarttika.md) — ref: codanā 110–136
   - [Śābarabhāṣya](../texts/sabara-bhasya.md) — ref: 1.1.2
   - [Mīmāṃsā Sūtra](../texts/mimamsa-sutra.md) — ref: 1.1.4
-### `lin:pramana-buddhist`
+### [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
 The Buddha is an authoritative person whose knowledge of what is to be abandoned and adopted, with its means, is established; Śāntarakṣita and Kamalaśīla examine the 'seer of supersensible things' at length against Kumārila.
 - Knowledge can be perfected by cultivation (Dharmakīrti).
 - The Mīmāṃsaka's proofs of non-existence of an omniscient are inconclusive.
 **Texts:** 
-  - `src:pramanavarttika` — ref: ch. Pramāṇasiddhi
+  - [Pramāṇavārttika](../texts/pramanavarttika.md) — ref: ch. Pramāṇasiddhi
   - [Tattvasaṅgraha of Śāntarakṣita](../texts/tattvasangraha.md) — ref: ch. on the seer of supersensible things
 ### [Jainism (Jaina dharma)](../lineages/jainism.md)
 The Jina's pure knowledge (kevala-jñāna) directly knows all substances and modes; subtle, hidden and remote things are perceptible to someone (Samantabhadra); Akalaṅka and later Jain logicians answer Kumārila's arguments.
 - Knowledge is the soul's nature; with the destruction of the karmas obscuring it, it becomes complete.
 **Texts:** 
-  - `src:aptamimamsa` — ref: v. 5 (moderate)
+  - [Āptamīmāṃsā](../texts/aptamimamsa.md) — ref: v. 5 (moderate)
 ### [Nyāya](../lineages/nyaya.md)
 Īśvara is omniscient; yogic perception, arising from special merit, grasps the supersensible.
 **Texts:** 
@@ -42,4 +42,4 @@ The Jina's pure knowledge (kevala-jñāna) directly knows all substances and mod
 _Notes: The ŚV codanā section names 'the Buddha and others' (v. 130); I found no verse there naming Mahāvīra, though Jain authors reply to Kumārila. Opposing sides summarized from general knowledge (moderate/low)._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

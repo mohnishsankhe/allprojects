@@ -27,13 +27,13 @@ The pre-reform meditation system of mainland Southeast Asian and Sri Lankan Ther
 **Caveat:** Very little of the tradition's own discursive statements on the ultimate is available; entry minimal and low confidence.
 
 ## Texts
-`src:yogavacaras-manual`
+[The Yogāvacara's Manual](../texts/yogavacaras-manual.md)
 
 ## Teachers
-_none recorded_
+[Upāli Thera (of Ayutthaya)](../teachers/upali-siam.md), [Välivita Saraṇaṅkara](../teachers/valivita-saranankara.md)
 
 ## Practices
-_none recorded_
+[Installing the raptures in the body (borān kammaṭṭhāna)](../practices/yogavacara-piti-installation.md)
 
 ## Path maps
 _none recorded_
@@ -44,4 +44,4 @@ _none recorded_
 _Notes: Low confidence throughout: the tradition is known through a few published manuscripts and recent scholarship; its practices are recorded here in summary only. 'Tantric Theravāda' is a contested scholars' label, not the tradition's own._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._

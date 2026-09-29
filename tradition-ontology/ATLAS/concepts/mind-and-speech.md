@@ -1,6 +1,6 @@
 # Mind and speech — the two tracks of the sacrifice
 
-`cpt:mind-and-speech` · `skeleton` · confidence high
+`cpt:mind-and-speech` · `sourced` · confidence high
 
 **Category:** mind
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14), text:sources_raw/prepared/chandogya-upanisad (Advaita Śāradā mūla), text:sources_raw/prepared/kausitaki-upanisad-sharada — The definition's cited passages were all checked in this sweep and support it: tea:satapatha-brahmana:1.4.4.7 (confirmed); tea:chandogya-upanisad:4.16.1-2 (confirmed); tea:kausitaki-upanisad:2.5 (confirmed).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

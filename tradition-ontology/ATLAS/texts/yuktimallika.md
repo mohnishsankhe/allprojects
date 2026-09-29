@@ -16,4 +16,4 @@ Vādirāja Tīrtha's major polemical verse treatise defending Dvaita doctrine �
 _Notes: Its division into sections called 'saurabhas' is recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

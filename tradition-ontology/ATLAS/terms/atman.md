@@ -17,6 +17,7 @@
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): The inner self (pratyag-ātman): pure, self-luminous consciousness, the witness of the three states, not the body, senses, mind or ego; identical with Brahman.
 - [Āyurveda](../lineages/ayurveda.md): Lineage contribution (Āyurveda, Caraka): the supreme self is changeless, eternal, the cause of consciousness with mind, elements and senses, the seer (Sū 1.56); beginningless, the knower of the field, all-pervading, witness, known by the marks of life (breath, blinking, desire, aversion, pleasure, pain, effort, consciousness, memory, ego-sense) (Śā 1.59-85); knows only through its instruments (Śā 1.54-55).
 - [Āyurveda](../lineages/ayurveda.md): Suśruta: the knowers of the field in Āyurveda are eternal but not all-pervading (Su Śā 1.16).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: Used both reflexively (oneself, one's own mind: 'one should raise the self by the self', the self as its own friend or enemy, 6.5–6) and for the self in which all beings are seen (4.35, 6.29), in which the restrained citta rests (6.18) and the manas is made to abide (6.25) and which is seen by the self (6.20); the yoked yogin's self has become the self of all beings (5.7). In 4.35 and 6.29 the locative ātmani can also be read reflexively ('in oneself').
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): In ritual contexts the body or trunk (of the altar, of the sacrificer) that the rite constructs; in the teachings of Śāṇḍilya and Aśvapati the inner self 'made of mind, with breath for body' (ŚB 10.6.3).
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The self to be seen by yoga (YS 1.8), its own witness (MDh 8.84), one in all beings though appearing many like space in pots (YS 3.144).
 - [Nairukta school (the Vedic etymologists)](../lineages/nairukta.md): The one self of the deity of which the many gods are limbs (Nirukta 7.4).
@@ -24,14 +25,22 @@
 - [Prābhākara Mīmāṃsā](../lineages/prabhakara-mimamsa.md): Distinct from cognition, senses and body; all-pervading, permanent, many; manifested as the subject in cognitions of objects (Prakaraṇapañcikā).
 - [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md): Eternal, the agent and enjoyer who reaps the fruits of rites in another world; known through reasoning and made firm by the Upaniṣads (ŚV ātmavāda 148).
 - [Vīraśaiva / Liṅgāyata](../lineages/virasaiva.md): The eternal self, distinct from body, senses and intellect, known through the I-cognition and memory (SSM 5.55–60); dwelling in the heart like the hundredth part of a hair-tip, shining like a lamp (18.5–7).
+- [Mahāyāna](../lineages/mahayana.md): The sūtras deny the self of persons and dharmas (Vajracchedikā 25); the Mahāparinirvāṇa calls the tathāgatagarbha 'self'; the Laṅkāvatāra says this is not the self of the tīrthikas.
 - [Spanda (the doctrine of vibration)](../lineages/spanda.md): The self is consciousness (Śiva Sūtra 1.1); the bound self is the mind (3.1); the self is a dancer (3.9).
+- [Jainism (Jaina dharma)](../lineages/jainism.md): In Jainism the soul (jīva) as knower; each is distinct and eternal, of three conditions (outer, inner, supreme) (Samādhitantra 4); 'the self conquered by passions is saṃsāra, the self that conquers them is liberation' (YŚ 4.5).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): U04 usage: the Self in the body-temple, identical with Brahman; threefold as outer, inner and supreme self in the Ātma Upaniṣad.
 
 ## Forms in other languages
 - Pali: attā  — partial — the Buddhist texts deny a permanent attā; same word, opposed doctrine
+- Chinese: wo 我  — exact
+- Prakrit: appā / āyā  — exact
 
 ## Equivalents (interpretation layer)
 **Related:** [brahman](brahman.md), [puruṣa](purusa.md), [jīva](jiva.md), [dehin](dehin.md), [kṣetrajña](ksetrajna.md), [paramātman](paramatman.md), [śarīrin](saririn.md), [buddhi](buddhi.md), [ātmarati](atmarati.md), [sākṣin](saksin.md)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, skeleton:U30-ayurveda-rasa, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa, skeleton:U20-virasaiva, skeleton:U19-kashmir-saivism, skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: corrected — tea:bhagavad-gita:6.5, tea:bhagavad-gita:6.6, tea:bhagavad-gita:4.35, tea:bhagavad-gita:6.29, tea:bhagavad-gita:6.18, tea:bhagavad-gita:6.25, tea:bhagavad-gita:6.20, tea:bhagavad-gita:5.7, tea:bhagavad-gita:5.21 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa, skeleton:U20-virasaiva, skeleton:U39-mahayana-sutras, skeleton:U19-kashmir-saivism, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

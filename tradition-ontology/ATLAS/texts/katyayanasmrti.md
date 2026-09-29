@@ -1,6 +1,6 @@
 # Kātyāyanasmṛti
 
-`src:katyayanasmrti` · `skeleton` · confidence moderate
+`src:katyayanasmrti` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -12,4 +12,8 @@
 A lost legal smṛti on procedure and the titles of law, reconstructed from quotations.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Kātyāyanasmṛti, catalog:GRETIL-dev:katyayanasmrti, https://www.exoticindiaart.com/book/details/katyayana-smriti-saroddhara-or-katyayanasmrti-on-vyavahara-law-and-procedure-by-p-v-kane-uah750/ — Confirmed: a lost legal smṛti reconstructed from quotations (Kane's Kātyāyanasmṛtisāroddhāra, about 1,000 verses on vyavahāra). The date estimate was not checked.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

@@ -24,4 +24,4 @@
 _Notes: The Gītā develops the theme of the last moment at 8.5–13 (outside this chunk). (The skeleton's Gītā-specific entry for 8.5–7 is cpt:last-thought-at-death.)_
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U04-minor-upanisads, skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U04-minor-upanisads, skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

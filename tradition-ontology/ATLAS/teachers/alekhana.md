@@ -8,4 +8,4 @@
 Early teacher cited in the Mīmāṃsā Sūtra (MS 6.5.17).
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

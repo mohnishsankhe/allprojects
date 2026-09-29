@@ -1,6 +1,6 @@
 # May (or should) a widow follow her husband onto the pyre?
 
-`dsp:widow-anvarohana` · `skeleton` · confidence low
+`dsp:widow-anvarohana` · `sourced` · confidence low
 
 
 ## Sides (recorded before any reconciliation)
@@ -27,4 +27,8 @@ It is permitted as an option: chastity or ascending the pyre (Viṣṇusmṛti 2
 _Notes: Recorded neutrally as a debate within Dharmaśāstra; commentators' locators given at section level from memory (low)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/visnu-smrti_plain_text.md (GRETIL), text:s — MDh 5.156–160 (the widow's chaste life) and ViSmṛ 25.14 ('mṛte bhartari brahmacaryaṃ tadanvārohaṇaṃ vā') were found. The Mitākṣarā on YS 1.86 has 'bhartari prete brahmacaryaṃ tadanvārohaṇaṃ vā iti viṣṇusmaraṇāt … anvārohaṇe mahān abhyudayaḥ', which is the optional, meritorious reading. Medhātithi's argument that anugamana is suicide and not dharma is in his commentary on 5.155, per Wisdomlib's Medhātithi translation and Wikipedia's Anumarana and Medhātithi articles. So the commentarial locators, which the entry flags as low confidence, are correct: 'on 5.155' is exact, inside the entry's 'on 5.155-157'.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

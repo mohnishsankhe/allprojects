@@ -8,11 +8,11 @@
 **Genre:** ṭīkā
 **Commentary on:** [Uttarādhyayana Sūtra](uttaradhyayana-sutra.md)
 **Authors:** 
-  - `tch:santisuri` — role: author; attribution: accepted
+  - [Vādivetāla Śāntisūri](../teachers/santisuri.md) — role: author; attribution: accepted
 **Dates:** Scholarly account: early 11th c. CE; (confidence moderate)
 **Availability:** digitized-original
 
 Vādivetāla Śāntisūri's large commentary (Bṛhadvṛtti, also called 'Pāia-ṭīkā') on the Uttarādhyayana.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._

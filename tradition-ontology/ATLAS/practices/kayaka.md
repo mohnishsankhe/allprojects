@@ -14,4 +14,4 @@ Each devotee earns a living by honest work in his or her own occupation, done as
 **Sequences:** `pth:virasaiva-satsthala`
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._

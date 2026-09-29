@@ -24,7 +24,7 @@ The great epic of the Bhārata war between the Pāṇḍavas and the Kauravas, c
   - kind: original; name: Vulgate with Nīlakaṇṭha's Bhāratabhāvadīpa (Bombay/Poona editions); Gita Press, Gorakhpur (with Hindi); licence: print
 **Commentaries on this text:** [Bhāratabhāvadīpa of Nīlakaṇṭha Caturdhara](bharatabhavadipa.md), [Jñānadīpikā of Devabodha](jnanadipika-devabodha.md), [Lakṣālaṅkāra](laksalankara.md), [Mahābhārata-tātparya-nirṇaya](mahabharata-tatparya-nirnaya.md)
 
-## Teachings (34: sourced 32, skeleton 2)
+## Teachings (35: sourced 32, skeleton 3)
 
 ### 1.1.50 <a id="tea-mahabharata-1-1-50"></a>
 `sourced` · confidence high
@@ -69,7 +69,7 @@ At the churning of the ocean, as the gods drank the nectar, the dānava Rāhu to
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate_
 
-terms: `trm:rahu` · concepts: `cpt:eclipse-doctrine` · disputes: `dsp:eclipse-cause`
+terms: [rāhu](../terms/rahu.md) · concepts: [The doctrine of eclipses](../concepts/eclipse-doctrine.md) · disputes: [Is an eclipse caused by Rāhu or by shadow?](../debates/eclipse-cause.md)
 
 ### 1.56.33 <a id="tea-mahabharata-1-56-33"></a>
 `sourced` · confidence high
@@ -219,6 +219,15 @@ _level: conventional · standpoint: seeker · path: meditation, knowledge · sta
 
 terms: [dama](../terms/dama.md), [tyāga](../terms/tyaga.md), [apramāda](../terms/apramada.md), [indriya](../terms/indriya.md), [buddhi](../terms/buddhi.md) · concepts: [The hierarchy of senses, mind, understanding and what is beyond them](../concepts/senses-mind-intellect-hierarchy.md) · teachers: [Vidura](../teachers/vidura.md)
 
+### 12.39.22-47 <a id="tea-mahabharata-12-39-22-47"></a>
+`skeleton` · confidence high
+
+When Yudhiṣṭhira enters Hāstinapura, the rākṣasa Cārvāka, a friend of Duryodhana disguised as a mendicant — a Sāṃkhya with tuft and triple staff — claims to speak for the brāhmaṇas and reviles Yudhiṣṭhira as a kinslayer; the brāhmaṇas, seeing through him with the eye of knowledge, kill him with angry 'hum' sounds. Kṛṣṇa explains that in the Kṛta age Cārvāka had won from Brahmā fearlessness from all beings except when he insulted brāhmaṇas.
+
+_level: conventional · standpoint: divine · path: general · stage: unmarked · types: teacher-transmission, dispute_
+
+teachers: [Cārvāka the rākṣasa (Mahābhārata)](../teachers/carvaka-raksasa.md)
+
 ### 12.47 <a id="tea-mahabharata-12-47"></a>
 `sourced` · confidence moderate
 
@@ -348,6 +357,6 @@ _Notes: Chapter counts are those of the Critical Edition (checked against the lo
 ---
 **Verification checks**
 
-- 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Mahābhārata, catalog:raw_etexts:mahabharata-devanagari, local:sources_raw/DharmicData/Mahabharata/mahabharata_book_1.json (BORI Critical Edition text) 1.1.61, 1.1.50, 1.1.205, https://en.wikipedia.org/wiki/Vishnu_Sitaram_Sukthankar — Extant and digitized (critical and vulgate texts local). 18 books; the 24,000-verse Bhārata (1.1.61), the three starting points (1.1.50) and kārṣṇa veda (1.1.205; 1.56.17) located in the CE. Traditional Vyāsa/Vaiśampāyana/Ugraśravas frame confirmed in 1.1.1. Scholarly date range (c. 4th c. BCE – 4th c. CE) is within the usual scholarly estimates; tradition account kept separate as entered.
+- 2026-09-29 catalog+websearch: confirmed — catalog:DCS:Mahābhārata, catalog:raw_etexts:mahabharata-devanagari, local:sources_raw/DharmicData/Mahabharata/mahabharata_book_1.json (BORI Critical Edition text) 1.1.61, 1.1.50, 1.1.205, https://en.wikipedia.org/wiki/Vishnu_Sitaram_Sukthankar — Extant and digitized (critical and vulgate texts local). 18 books; the 24,000-verse Bhārata (1.1.61), the three starting points (1.1.50) and kārṣṇa veda (1.1.205; 1.56.17) located in the CE. Traditional Vyāsa/Vaiśampāyana/Ugraśravas frame confirmed in 1.1.1. Scholarly date range (c. 4th c. BCE – 4th c. CE) is within the usual scholarly estimates; tradition account kept separate as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._

@@ -23,8 +23,8 @@ Abhinavagupta: the grief of the first poet was not his personal sorrow — had i
 
 _level: conventional · standpoint: experiential · path: general · stage: all · types: consciousness-mind, sound-language_
 
-concepts: `cpt:rasa-as-relish-of-consciousness` · teachers: [Abhinavagupta](../teachers/abhinavagupta.md)
+concepts: [Aesthetic relish as consciousness at rest (brahmāsvāda-sahodara)](../concepts/rasa-as-relish-of-consciousness.md) · teachers: [Abhinavagupta](../teachers/abhinavagupta.md)
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

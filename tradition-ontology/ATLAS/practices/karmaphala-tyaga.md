@@ -10,7 +10,14 @@ Giving up the fruit of all actions, self-controlled and taking refuge in the Lor
 **Stage:** the most accessible step (12.11)
 **Sources:** 
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.11–12; 18.2, 18.11; rests_on: ["tea:bhagavad-gita:12.8-11", "tea:bhagavad-gita:12.12", "tea:bhagavad-gita:18.2", "tea:bhagavad-gita:18.11"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 4.20; rests_on: ["tea:bhagavad-gita:4.20"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.12; rests_on: ["tea:bhagavad-gita:5.12"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.1; rests_on: ["tea:bhagavad-gita:6.1"]
 **Sequences:** [The graded devotional practices of BhG 12.8–12](../paths/gita-devotion-ladder.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:4.20, tea:bhagavad-gita:5.12, tea:bhagavad-gita:6.1 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._

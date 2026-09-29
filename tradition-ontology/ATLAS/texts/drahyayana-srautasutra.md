@@ -1,6 +1,6 @@
 # Drāhyāyaṇa Śrautasūtra
 
-`src:drahyayana-srautasutra` · `skeleton` · confidence low
+`src:drahyayana-srautasutra` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,4 +13,8 @@
 The Śrauta manual of the Rāṇāyanīya Sāmaveda singers.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:DCS:Drāhyāyaṇaśrautasūtra, https://en.wikipedia.org/wiki/%C5%9Arauta — Low-confidence entry confirmed as extant (DCS); the Rāṇāyanīya Sāmaveda Śrautasūtra.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

@@ -25,9 +25,9 @@ _none recorded_
 _none recorded_
 
 ## Debates
-_none recorded_
+[Did the Buddha really live in the human world and himself teach?](../debates/kv-buddha-in-human-world.md)
 
 _Notes: Reported by opponents only; identification with any Mahāyāna school is a scholarly hypothesis and is not made here. Created by U37._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._

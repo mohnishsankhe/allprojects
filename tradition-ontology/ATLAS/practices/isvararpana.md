@@ -18,4 +18,4 @@ Renouncing all actions in Kṛṣṇa, with a mind directed to the self, free of
 - Those who cavil at this teaching and do not follow it are deluded in all knowledge and lost. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 3.32
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

@@ -12,4 +12,4 @@ Before samādhi, contemplating the world as Oṃ; dissolving A (the waking viśv
   - [Rāma Gītā](../texts/rama-gita.md) — ref: 7.5.48-52; rests_on: ["tea:rama-gita:7.5.48-52"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

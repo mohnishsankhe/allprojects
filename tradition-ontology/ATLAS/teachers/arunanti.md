@@ -16,4 +16,4 @@
 Author of the Civañāṉa Cittiyār and Irupā Irupatu; a learned brahmin, family preceptor of Meykaṇṭār's father, who became Meykaṇṭār's chief disciple.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

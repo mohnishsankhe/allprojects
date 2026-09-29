@@ -12,4 +12,4 @@ Enumerating the twenty-four principles of prakṛti and knowing the twenty-fifth
   - [Mokṣadharma (Mokṣadharmaparvan)](../texts/moksadharma.md) — ref: 12.290; 12.294; rests_on: ["tea:moksadharma:12.290", "tea:moksadharma:12.294", "tea:moksadharma:12.294.43"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._

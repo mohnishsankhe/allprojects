@@ -13,4 +13,4 @@
 Aiyaṭikaḷ Kāṭavarkōṉ's veṇpās on the shrines he visited after giving up his throne, each urging the mind to seek Śiva before death.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._

@@ -22,8 +22,8 @@ Nāgeśa: speech at rest in the root centre (mūlādhāra), unmanifest, is parā
 
 _level: bridging · standpoint: analytic · path: knowledge, sound, body-breath · stage: all · types: sound-language, body-layers_
 
-terms: [parā vāk](../terms/para-vak.md), [paśyantī](../terms/pasyanti.md), [madhyamā](../terms/madhyama.md), [vaikharī](../terms/vaikhari.md), [sphoṭa](../terms/sphota.md) · concepts: [The levels of speech (parā, paśyantī, madhyamā, vaikharī)](../concepts/levels-of-speech.md), [Sphoṭa (the unitary meaning-bearer)](../concepts/sphota.md) · teachers: [Nāgeśa Bhaṭṭa](../teachers/nagesa-bhatta.md)
+terms: [parā vāk](../terms/para-vak.md), [paśyantī](../terms/pasyanti.md), [madhyamā](../terms/madhyama.md), [vaikharī](../terms/vaikhari.md), [sphoṭa](../terms/sphota.md) · concepts: [The levels of speech (parā, paśyantī, madhyamā, vaikharī)](../concepts/levels-of-speech.md), [The sphoṭa (the meaning-bearing word)](../concepts/sphota.md) · teachers: [Nāgeśa Bhaṭṭa](../teachers/nagesa-bhatta.md)
 
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

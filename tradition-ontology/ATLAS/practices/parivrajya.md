@@ -16,4 +16,4 @@ Wandering alone or with one companion; one night in a village, five in a town, s
   - [Paramahaṃsaparivrājaka Upaniṣad](../texts/paramahamsaparivrajaka-upanisad.md) — ref: 1 (conduct); rests_on: ["tea:paramahamsaparivrajaka-upanisad:1-conduct"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._

@@ -17,10 +17,10 @@ The rival Sri Lankan fraternity to the Mahāvihāra, known mainly through Mahāv
 
 
 ## Texts
-`src:vimuttimagga`
+[Vimuttimagga](../texts/vimuttimagga.md)
 
 ## Teachers
-_none recorded_
+[Upatissa (author of the Vimuttimagga)](../teachers/upatissa.md)
 
 ## Practices
 _none recorded_
@@ -29,9 +29,9 @@ _none recorded_
 _none recorded_
 
 ## Debates
-_none recorded_
+[Where the Visuddhimagga departs from the Vimuttimagga (e.g. on the number of temperaments), which account holds?](../debates/vimuttimagga-visuddhimagga.md)
 
 _Notes: Known largely through the reports of its rivals (Mahāvaṃsa, Cūḷavaṃsa) — treat characterizations as reported by opponents. Created by U37._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._

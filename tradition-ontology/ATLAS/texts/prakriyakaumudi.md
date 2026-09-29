@@ -1,6 +1,6 @@
 # Prakriyākaumudī
 
-`src:prakriyakaumudi` · `skeleton` · confidence low
+`src:prakriyakaumudi` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -12,4 +12,8 @@
 Rāmacandra's derivation-ordered treatment of Pāṇinian grammar, a forerunner of the Siddhāntakaumudī.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/ramacandra — Low-confidence entry confirmed. Rāmacandra of the Śeṣa family, latter half of the 15th c.; a forerunner that was popular before the Siddhāntakaumudī (Wisdomlib; Bombay Sanskrit Series edition).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

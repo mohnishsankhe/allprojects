@@ -13,4 +13,4 @@
 Telugu singer-saint of Tirumala (1408–1503 by tradition), a Śrīvaiṣṇava initiate, who composed thousands of saṅkīrtanas to Veṅkaṭeśvara preserved on copper plates.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti, skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti, skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

@@ -17,4 +17,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U19-kashmir-saivism, skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U19-kashmir-saivism, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

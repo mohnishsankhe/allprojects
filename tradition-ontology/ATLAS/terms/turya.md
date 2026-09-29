@@ -17,4 +17,4 @@
 - partial: [Turīya](turiya.md) — the Māṇḍūkya's fourth; the Kashmir Śaivas add turyātīta and require the fourth to pervade the three
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U28-hatha-texts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._

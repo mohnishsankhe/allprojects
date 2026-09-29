@@ -20,7 +20,7 @@ The Black Yajurveda Saṃhitā of the Taittirīya school: the adhvaryu priest's 
   - kind: translation; name: A. B. Keith, The Veda of the Black Yajus School (1914); licence: public domain
 **Commentaries on this text:** [Jñānayajña (Bhaṭṭa Bhāskara on the Taittirīya Saṃhitā)](jnanayajna.md), [Sāyaṇa's commentary on the Taittirīya Saṃhitā](taittiriya-samhita-bhasya-sayana.md)
 
-## Teachings (8: sourced 6, skeleton 2)
+## Teachings (8: sourced 8)
 
 ### 1.8.6 <a id="tea-taittiriya-samhita-1-8-6"></a>
 `sourced` · confidence high
@@ -81,7 +81,7 @@ _level: conventional · standpoint: ritual · path: ritual, sound · stage: all 
 terms: [camaka](../terms/camaka.md), [prāṇa](../terms/prana.md), [apāna](../terms/apana.md), [vyāna](../terms/vyana.md), [asu](../terms/asu.md), [manas](../terms/manas.md), [satya](../terms/satya.md), [śraddhā](../terms/sraddha.md) · concepts: [The named breaths in the Saṃhitās](../concepts/vedic-breaths.md), [Yajña: the sacrifice that sustains the world](../concepts/yajna-cosmic-sacrifice.md) · practices: [Recitation of the Śatarudrīya with the Camaka (Rudra-japa)](../practices/rudra-japa.md), [Agnicayana (building the fire-altar)](../practices/agnicayana.md)
 
 ### 6.3.10.5 <a id="tea-taittiriya-samhita-6-3-10-5"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 A brāhmaṇa, when born, is born with three debts: to the seers, paid by studentship; to the gods, by sacrifice; to the ancestors, by offspring. He who has a son, sacrifices and has lived as a student is free of debt.
 
@@ -90,7 +90,7 @@ _level: conventional · standpoint: ethical-social · path: action, ritual · st
 terms: [ṛṇa](../terms/rna.md) · concepts: [The three (or four) debts](../concepts/three-debts.md)
 
 ### 7.1.1.4-6 <a id="tea-taittiriya-samhita-7-1-1-4-6"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Prajāpati desired to multiply and measured out the trivṛt praise from his mouth; after it came Agni, the gāyatrī metre, the rathantara chant, the brāhmaṇa among men and the goat among animals; from his chest and arms Indra, the triṣṭubh, the bṛhat, the rājanya and the sheep; from his middle the All-gods, the jagatī, the vairūpa, the vaiśya and cattle; from his feet the anuṣṭubh, the vairāja, the śūdra and the horse. Therefore the horse and the śūdra depend on others, and the śūdra is not fit for the sacrifice, for no deity was created after him.
 
@@ -104,4 +104,4 @@ terms: [varṇa](../terms/varna.md), [chandas](../terms/chandas.md) · concepts:
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Taittirīyasaṃhitā, text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/saMhitA/4/5.md, https://hindupedia.com/en/Taittiriya_Samhit%C4%81, https://en.wikipedia.org/wiki/Taittiriya_Shakha, https://en.wikipedia.org/wiki/Yajurveda — Extant; 7 kāṇḍas, 44 prapāṭhakas, 651 anuvākas confirmed; Śatarudrīya at 4.5 and Camaka at 4.7 located. Scholarly date (c. 1000–800 BCE prose) within Witzel's 1200–800 BCE for the Yajurveda. Vaiśampāyana → Taittirīyas is the Purāṇic account (Viṣṇu Purāṇa 3.5, located).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._

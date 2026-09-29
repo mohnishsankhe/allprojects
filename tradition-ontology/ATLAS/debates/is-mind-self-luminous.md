@@ -13,13 +13,13 @@ The mind is not self-illuminating because it is seen; the unchanging puruṣa al
 **Texts:** 
   - [Yoga Sūtra of Patañjali](../texts/yoga-sutra.md) — ref: 4.18-22
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 4.19-21
-### `lin:pramana-buddhist`
+### [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
 Cognition is self-aware (svasaṃvedana): every cognition is aware of itself in being aware of its object; no separate permanent seer is needed.
 - Memory of a cognition presupposes its self-awareness (Dignāga).
 - Momentary cognitions suffice; a permanent self is not established.
 **Texts:** 
-  - `src:pramanasamuccaya` — ref: 1.9-12
-  - `src:pramanavarttika` — ref: pratyakṣa chapter
+  - [Pramāṇasamuccaya](../texts/pramanasamuccaya.md) — ref: 1.9-12
+  - [Pramāṇavārttika](../texts/pramanavarttika.md) — ref: pratyakṣa chapter
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -29,4 +29,4 @@ Cognition is self-aware (svasaṃvedana): every cognition is aware of itself in 
 _Notes: Related to dsp:is-there-a-self (U50)._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 16:38 IST._

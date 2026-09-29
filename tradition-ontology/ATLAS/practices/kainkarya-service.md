@@ -12,4 +12,4 @@ Service of the Lord in temple and home — making garlands, cleaning, cooking of
   - [Rahasyatrayasāra](../texts/rahasyatrayasara.md) — ref: Uttarakṛtya; rests_on: ["tea:rahasyatrayasara:uttara-krtya"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._

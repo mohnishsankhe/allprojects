@@ -17,4 +17,4 @@
 The gopīs' paired verses remembering Kṛṣṇa's pastimes during the day's separation.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._

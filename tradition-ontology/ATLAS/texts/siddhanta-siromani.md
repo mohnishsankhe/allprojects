@@ -24,7 +24,7 @@ The earth has no other support: by its own power alone it stands fixed in space,
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
-concepts: `cpt:siddhantic-cosmography` · teachers: [Bhāskara II (Bhāskarācārya)](../teachers/bhaskara-ii.md)
+concepts: [The cosmography of the siddhāntas](../concepts/siddhantic-cosmography.md) · teachers: [Bhāskara II (Bhāskarācārya)](../teachers/bhaskara-ii.md)
 
 ### gola.bhuvanakosa.6 <a id="tea-siddhanta-siromani-gola-bhuvanakosa-6"></a>
 `skeleton` · confidence moderate
@@ -33,8 +33,8 @@ The earth has a power of attraction: a heavy thing in the sky, drawn by it towar
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
-concepts: `cpt:siddhantic-cosmography` · teachers: [Bhāskara II (Bhāskarācārya)](../teachers/bhaskara-ii.md)
+concepts: [The cosmography of the siddhāntas](../concepts/siddhantic-cosmography.md) · teachers: [Bhāskara II (Bhāskarācārya)](../teachers/bhaskara-ii.md)
 
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._

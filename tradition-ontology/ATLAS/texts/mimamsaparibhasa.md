@@ -16,4 +16,4 @@ Kṛṣṇa Yajvan's elementary manual of Mīmāṃsā terms and rules.
   - kind: original; name: digital text (Karnataka Samskrit University contribution); licence: unknown
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

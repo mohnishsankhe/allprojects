@@ -56,4 +56,4 @@ The school of Kumārila Bhaṭṭa, built on his Ślokavārttika, Tantravārttik
 _Notes: 'Tautātita-mata' (the doctrine of Tutāta, an epithet of Kumārila) is attested in the title of Bhavadeva's Tautātitamatatilaka; low confidence on the epithet's general currency. Maṇḍana Miśra is placed here by tradition (as Kumārila's pupil) though several of his positions differ (e.g. iṣṭasādhanatā as the meaning of injunction; defence of sphoṭa)._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._

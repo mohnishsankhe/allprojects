@@ -12,12 +12,12 @@ Five: proposition, reason, example, application, conclusion; together they embod
 **Texts:** 
   - [Nyāya Sūtra](../texts/nyaya-sutra.md) — ref: 1.1.32; 5.2.1
   - [Nyāyabhāṣya](../texts/nyaya-bhasya.md) — ref: 1.1.1; 1.1.32
-### `lin:pramana-buddhist`
+### [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
 Fewer members suffice: Dignāga states thesis, reason and example; Dharmakīrti holds that for the competent the reason with its pervasion and presence in the subject is enough, and stating superfluous members is itself a fault in debate.
 - The logical force lies in the triple character of the reason, not in the number of statements.
 **Texts:** 
-  - `src:pramanasamuccaya` — ref: ch. 4 (from memory)
-  - `src:nyayabindu` — ref: ch. 3 (from memory)
+  - [Pramāṇasamuccaya](../texts/pramanasamuccaya.md) — ref: ch. 4 (from memory)
+  - [Nyāyabindu](../texts/nyayabindu.md) — ref: ch. 3 (from memory)
 ### [Advaita Vedānta](../lineages/advaita-vedanta.md)
 Three members suffice — either the first three or the last three (Vedāntaparibhāṣā); Mīmāṃsakas also hold three.
 - Recalled from the Vedāntaparibhāṣā's inference chapter (low confidence).
@@ -35,4 +35,4 @@ The number depends on the listener: two members for the sharp, more (up to ten) 
 **Candidate readings:** P4-stage / P6-upaya: the number of stated members depends on the hearer's capacity — a principle the Jain side states explicitly and Nyāya approaches by distinguishing inference for oneself (no verbal members) from inference for others.; The shared logical core (pervasion plus the reason's presence in the subject) is common to all sides.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._

@@ -16,4 +16,4 @@ The mind's lapsing into sleep for want of support; the mind should be roused (GK
 _Notes: Partial parallel: Vedāntasāra's laya among the obstacles to samādhi (list of obstacles to nirvikalpa samādhi; U13). Viśvanātha adds apratipatti._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U16-bhedabheda. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._

@@ -1,6 +1,6 @@
 # Baudhāyana Śrautasūtra
 
-`src:baudhayana-srautasutra` · `skeleton` · confidence moderate
+`src:baudhayana-srautasutra` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -14,4 +14,8 @@
 The oldest Śrautasūtra of the Taittirīya school, discursive in style and close to the Brāhmaṇas.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:DCS:Baudhāyanaśrautasūtra, catalog:raw_etexts:baudhayana_shrauta_sutra, https://en.wikipedia.org/wiki/Baudhayana_sutras — Extant; the oldest Taittirīya sūtra corpus (Wikipedia 'Baudhayana sutras').
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

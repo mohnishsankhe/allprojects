@@ -17,4 +17,4 @@
 Stages ordered from the sūtras' own sequence; bands are interpretive.
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._

@@ -14,4 +14,4 @@
 - contrasts-with → [Surrender (prapatti, śaraṇāgati)](prapatti.md): the alternative means for those unable — rests on [18.66](../texts/gita-bhasya-ramanuja.md#tea-gita-bhasya-ramanuja-18-66)
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._

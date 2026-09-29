@@ -9,4 +9,4 @@
 Mind-born son of Durvāsas who received the Śaiva secrets, went to a cave named Tryambaka and in turn created a mind-born son; fourteen such siddhas followed (Śivadṛṣṭi 7.111-114). The lineage was known as Tryambaka, 'Terambā' in the local language (7.121).
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

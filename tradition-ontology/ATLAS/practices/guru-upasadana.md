@@ -14,4 +14,4 @@ Having become disgusted with the worlds won by action, go 'fuel in hand' to a te
   - [Kauṣītaki Upaniṣad](../texts/kausitaki-upanisad.md) — ref: 1.1; rests_on: ["tea:kausitaki-upanisad:1.1"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._

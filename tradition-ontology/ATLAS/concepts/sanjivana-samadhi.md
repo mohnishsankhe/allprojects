@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Living samādhi (cīva camāti)](jiva-samadhi.md) (death-dying (tradition's account)): the Tamil Siddhars' living samādhi is described in the same terms — rests on [samadhi](../texts/namdev-gatha.md#tea-namdev-gatha-samadhi)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

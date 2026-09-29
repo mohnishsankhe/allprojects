@@ -33,7 +33,7 @@ When the world had fallen into vulgar ways, the gods led by Indra asked Brahmā 
 
 _level: conventional · standpoint: divine · path: general · stage: all · types: teacher-transmission, ethics_
 
-concepts: `cpt:natya-as-fifth-veda` · disputes: `dsp:women-caste-liberation`
+concepts: [Drama as the fifth Veda for all classes](../concepts/natya-as-fifth-veda.md) · disputes: `dsp:women-caste-liberation`
 
 ### 1.14-16 <a id="tea-natyasastra-1-14-16"></a>
 `skeleton` · confidence high
@@ -42,7 +42,7 @@ Brahmā resolved to make the Nāṭyaveda with its traditional story: conducive 
 
 _level: conventional · standpoint: divine · path: general · stage: all · types: teacher-transmission, ethics_
 
-concepts: `cpt:natya-as-fifth-veda`
+concepts: [Drama as the fifth Veda for all classes](../concepts/natya-as-fifth-veda.md)
 
 ### 1.17 <a id="tea-natyasastra-1-17"></a>
 `skeleton` · confidence high
@@ -53,7 +53,7 @@ He took recitation from the Ṛgveda, song from the Sāmans, acting (abhinaya) f
 
 _level: conventional · standpoint: divine · path: general, sound · stage: all · types: teacher-transmission, sound-language_
 
-terms: [rasa](../terms/rasa.md), [abhinaya](../terms/abhinaya.md) · concepts: `cpt:natya-as-fifth-veda`
+terms: [rasa](../terms/rasa.md), [abhinaya](../terms/abhinaya.md) · concepts: [Drama as the fifth Veda for all classes](../concepts/natya-as-fifth-veda.md)
 
 ### 1.106-107 <a id="tea-natyasastra-1-106-107"></a>
 `skeleton` · confidence high
@@ -100,7 +100,7 @@ The chapter on worship of the deities of the stage (raṅgadaivata-pūjana) pres
 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: practice_
 
-practices: `prc:ranga-puja`
+practices: [Worship of the deities of the stage (raṅga-daivata-pūjana)](../practices/ranga-puja.md)
 
 ### 5 <a id="tea-natyasastra-5"></a>
 `skeleton` · confidence moderate
@@ -109,7 +109,7 @@ The preliminaries (pūrvaraṅga), including songs and instrumental pieces behin
 
 _level: conventional · standpoint: ritual · path: ritual, sound · stage: all · types: practice_
 
-practices: `prc:purvaranga`
+practices: [The preliminaries of performance (pūrvaraṅga)](../practices/purvaranga.md)
 
 ### 6.15-16 <a id="tea-natyasastra-6-15-16"></a>
 `skeleton` · confidence high
@@ -120,7 +120,7 @@ Erotic, comic, compassionate, furious, heroic, terrible, odious and marvellous �
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind_
 
-terms: [rasa](../terms/rasa.md) · concepts: `cpt:nine-rasas` · disputes: `dsp:santa-rasa`
+terms: [rasa](../terms/rasa.md) · concepts: [The eight (nine) rasas](../concepts/nine-rasas.md) · disputes: [Is śānta (peace) a rasa, and what is its stable emotion?](../debates/santa-rasa.md)
 
 ### 6.17 <a id="tea-natyasastra-6-17"></a>
 `skeleton` · confidence high
@@ -129,7 +129,7 @@ The stable emotions (sthāyibhāva) are: love (rati), laughter, grief, anger, en
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind_
 
-terms: [sthāyibhāva](../terms/sthayibhava.md) · concepts: `cpt:bhava-theory`
+terms: [sthāyibhāva](../terms/sthayibhava.md) · concepts: [The theory of bhāvas](../concepts/bhava-theory.md)
 
 ### 6.18-21 <a id="tea-natyasastra-6-18-21"></a>
 `skeleton` · confidence high
@@ -138,7 +138,7 @@ The thirty-three transient states (vyabhicārin) are: despondency (nirveda), wea
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind_
 
-terms: [vyabhicāribhāva (sañcāribhāva)](../terms/vyabhicari-bhava.md) · concepts: `cpt:bhava-theory`
+terms: [vyabhicāribhāva (sañcāribhāva)](../terms/vyabhicari-bhava.md) · concepts: [The theory of bhāvas](../concepts/bhava-theory.md)
 
 ### 6.22 <a id="tea-natyasastra-6-22"></a>
 `skeleton` · confidence high
@@ -147,7 +147,7 @@ The eight involuntary (sāttvika) states are: paralysis, sweat, horripilation, c
 
 _level: conventional · standpoint: experiential · path: general · stage: all · types: consciousness-mind, body-layers_
 
-terms: [sāttvika-bhāva](../terms/sattvika-bhava.md) · concepts: `cpt:bhava-theory`
+terms: [sāttvika-bhāva](../terms/sattvika-bhava.md) · concepts: [The theory of bhāvas](../concepts/bhava-theory.md)
 
 ### 6.32-33 <a id="tea-natyasastra-6-32-33"></a>
 `skeleton` · confidence high
@@ -156,7 +156,7 @@ As connoisseurs eating food prepared with many condiments relish its tastes and 
 
 _level: conventional · standpoint: experiential · path: general · stage: all · types: consciousness-mind_
 
-terms: [rasa](../terms/rasa.md), [sahṛdaya](../terms/sahrdaya.md) · concepts: `cpt:rasa-sutra`
+terms: [rasa](../terms/rasa.md), [sahṛdaya](../terms/sahrdaya.md) · concepts: [The rasa-sūtra and its interpretations](../concepts/rasa-sutra.md)
 
 ### 6.36-38 <a id="tea-natyasastra-6-36-38"></a>
 `skeleton` · confidence high
@@ -167,7 +167,7 @@ There is no rasa without bhāva and no bhāva without rasa; each establishes the
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind_
 
-concepts: `cpt:bhava-theory`
+concepts: [The theory of bhāvas](../concepts/bhava-theory.md)
 
 ### 6.39-41 <a id="tea-natyasastra-6-39-41"></a>
 `skeleton` · confidence high
@@ -176,7 +176,7 @@ Four rasas are the sources of the others: from the erotic comes the comic, from 
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind_
 
-concepts: `cpt:nine-rasas`
+concepts: [The eight (nine) rasas](../concepts/nine-rasas.md)
 
 ### 7.1-3 <a id="tea-natyasastra-7-1-3"></a>
 `skeleton` · confidence high
@@ -185,7 +185,7 @@ Why are they called bhāvas? Because, endowed with speech, body and sattva, they
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind, sound-language_
 
-terms: [bhāva (in dramaturgy)](../terms/bhava-alankara.md) · concepts: `cpt:bhava-theory`
+terms: [bhāva (in dramaturgy)](../terms/bhava-alankara.md) · concepts: [The theory of bhāvas](../concepts/bhava-theory.md)
 
 ### 28 <a id="tea-natyasastra-28"></a>
 `skeleton` · confidence moderate
@@ -194,7 +194,7 @@ The music chapters open by dividing instruments into four classes and gāndharva
 
 _level: conventional · standpoint: analytic · path: sound · stage: all · types: sound-language_
 
-terms: [gāndharva](../terms/gandharva.md), [svara](../terms/svara.md), [śruti](../terms/sruti.md) · concepts: `cpt:sruti-svara-grama`
+terms: [gandharva](../terms/gandharva.md), [svara](../terms/svara.md), [śruti](../terms/sruti.md) · concepts: [Śruti, svara and grāma](../concepts/sruti-svara-grama.md)
 
 ### 36 <a id="tea-natyasastra-36"></a>
 `skeleton` · confidence low
@@ -212,7 +212,7 @@ Rasa arises from the union of the determinants (vibhāva), the consequents (anub
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind_
 
-terms: [rasa](../terms/rasa.md), [vibhāva](../terms/vibhava-alankara.md), [anubhāva](../terms/anubhava-alankara.md), [vyabhicāribhāva (sañcāribhāva)](../terms/vyabhicari-bhava.md), [sthāyibhāva](../terms/sthayibhava.md) · concepts: `cpt:rasa-sutra`, `cpt:bhava-theory` · disputes: `dsp:how-rasa-arises`
+terms: [rasa](../terms/rasa.md), [vibhāva](../terms/vibhava-alankara.md), [anubhāva](../terms/anubhava-alankara.md), [vyabhicāribhāva (sañcāribhāva)](../terms/vyabhicari-bhava.md), [sthāyibhāva](../terms/sthayibhava.md) · concepts: [The rasa-sūtra and its interpretations](../concepts/rasa-sutra.md), [The theory of bhāvas](../concepts/bhava-theory.md) · disputes: [How does rasa arise from the union of determinants, consequents and transient states, and where is it?](../debates/how-rasa-arises.md)
 
 ### 6 (śānta passage after v. 82) <a id="tea-natyasastra-6-82-santa"></a>
 `skeleton` · confidence moderate
@@ -223,10 +223,10 @@ Now the peaceful (śānta), whose stable emotion is calm (śama), leading to lib
 
 _level: bridging · standpoint: experiential · path: knowledge, meditation · stage: advanced · types: consciousness-mind, karma-liberation_
 
-terms: [śānta-rasa](../terms/santa-rasa.md), [śama](../terms/sama.md) · concepts: `cpt:nine-rasas`, `cpt:santa-rasa` · disputes: `dsp:santa-rasa`
+terms: [śānta-rasa](../terms/santa-rasa.md), [śama](../terms/sama.md) · concepts: [The eight (nine) rasas](../concepts/nine-rasas.md), [Śānta rasa: peace as an aesthetic experience akin to liberation](../concepts/santa-rasa.md) · disputes: [Is śānta (peace) a rasa, and what is its stable emotion?](../debates/santa-rasa.md)
 
 
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

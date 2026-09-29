@@ -11,4 +11,4 @@
 Disciple of Subhagānandanātha who completed the Manoramā on the last fourteen paṭalas of the Tantrarāja at his teacher's command. Not the Advaitin Prakāśānanda.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._

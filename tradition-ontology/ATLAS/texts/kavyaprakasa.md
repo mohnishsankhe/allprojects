@@ -25,7 +25,7 @@ Victorious is the speech of the poet (Bhāratī), which brings forth a creation 
 
 _level: bridging · standpoint: devotional · path: general · stage: all · types: sound-language_
 
-concepts: `cpt:nine-rasas`
+concepts: [The eight (nine) rasas](../concepts/nine-rasas.md)
 
 ### 1.2 <a id="tea-kavyaprakasa-1-2"></a>
 `skeleton` · confidence high
@@ -36,7 +36,7 @@ Poetry is for fame, for wealth, for knowledge of conduct, for warding off evil, 
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics, consciousness-mind_
 
-concepts: `cpt:purposes-of-poetry`
+concepts: [The purposes of poetry](../concepts/purposes-of-poetry.md)
 
 ### 1.3 <a id="tea-kavyaprakasa-1-3"></a>
 `skeleton` · confidence high
@@ -47,7 +47,7 @@ The cause of poetry is genius (śakti), skill (nipuṇatā) gained from observin
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: practice, sound-language_
 
-terms: [prātibha](../terms/pratibha.md) · concepts: `cpt:pratibha-poetic`
+terms: [prātibha](../terms/pratibha.md) · concepts: [Poetic genius (pratibhā, śakti)](../concepts/pratibha-poetic.md)
 
 ### 4 (after the eight rasas) <a id="tea-kavyaprakasa-4-santa"></a>
 `skeleton` · confidence moderate
@@ -56,7 +56,7 @@ terms: [prātibha](../terms/pratibha.md) · concepts: `cpt:pratibha-poetic`
 
 _level: conventional · standpoint: analytic · path: general, knowledge · stage: all · types: consciousness-mind_
 
-terms: [śānta-rasa](../terms/santa-rasa.md), [nirveda](../terms/nirveda.md) · concepts: `cpt:nine-rasas` · disputes: `dsp:santa-rasa`
+terms: [śānta-rasa](../terms/santa-rasa.md), [nirveda](../terms/nirveda.md) · concepts: [The eight (nine) rasas](../concepts/nine-rasas.md) · disputes: [Is śānta (peace) a rasa, and what is its stable emotion?](../debates/santa-rasa.md)
 
 ### 4 (bhāva kārikā) <a id="tea-kavyaprakasa-4-bhava"></a>
 `skeleton` · confidence high
@@ -76,10 +76,10 @@ Mammaṭa sets out the four explanations of the rasa-sūtra — Lollaṭa's inte
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind, dispute_
 
-concepts: `cpt:rasa-sutra` · teachers: [Mammaṭa](../teachers/mammata.md), [Bhaṭṭa Lollaṭa](../teachers/bhatta-lollata.md), [Śrī Śaṅkuka](../teachers/sri-sankuka.md), [Bhaṭṭa Nāyaka](../teachers/bhatta-nayaka.md), [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: `dsp:how-rasa-arises`
+concepts: [The rasa-sūtra and its interpretations](../concepts/rasa-sutra.md) · teachers: [Mammaṭa](../teachers/mammata.md), [Bhaṭṭa Lollaṭa](../teachers/bhatta-lollata.md), [Śrī Śaṅkuka](../teachers/sri-sankuka.md), [Bhaṭṭa Nāyaka](../teachers/bhatta-nayaka.md), [Abhinavagupta](../teachers/abhinavagupta.md) · disputes: [How does rasa arise from the union of determinants, consequents and transient states, and where is it?](../debates/how-rasa-arises.md)
 
 
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._

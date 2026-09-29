@@ -12,4 +12,4 @@ Slander and fault-finding, which the true Vaiṣṇava avoids and the saint does
   - [Rāmcaritmānas](../texts/ramcaritmanas.md) — ref: 3.35-36; rests_on: ["tea:ramcaritmanas:3.35-36"]
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

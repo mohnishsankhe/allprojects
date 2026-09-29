@@ -1,6 +1,6 @@
 # Śāṅkhāyana Gṛhyasūtra
 
-`src:sankhayana-grhyasutra` · `skeleton` · confidence moderate
+`src:sankhayana-grhyasutra` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 The domestic-rite manual of the Śāṅkhāyana Ṛgvedins.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:DCS:Śāṅkhāyanagṛhyasūtra, catalog:GRETIL-dev:sankhayana-grhyasutra, https://en.wikipedia.org/wiki/Grhyasutra — Extant (GRETIL, DCS).
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

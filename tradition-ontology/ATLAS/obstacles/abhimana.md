@@ -15,4 +15,4 @@ The gods, taking brahman's victory for their own, grew proud; they could not rec
   - [Keli-gopāla](../texts/keli-gopala.md) — ref: whole; rests_on: ["tea:keli-gopala:whole"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

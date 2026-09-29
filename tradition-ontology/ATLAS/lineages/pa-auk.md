@@ -5,8 +5,8 @@
 **Family:** ascetic
 **Alternate names:** Pa-Auk method
 **Parent:** [Theravāda](theravada.md)
-**Founders:** `tch:pa-auk-sayadaw`
-**Key teachers:** `tch:pa-auk-sayadaw`
+**Founders:** [Pa-Auk Sayadaw](../teachers/pa-auk-sayadaw.md)
+**Key teachers:** [Pa-Auk Sayadaw](../teachers/pa-auk-sayadaw.md)
 **Regions:** Burma (Pa-Auk Forest Monastery, Mawlamyine), branches in Asia and the West
 **Dates:** Tradition's account: Pa-Auk Sayadaw (Āciṇṇa, b. 1934) became abbot of Pa-Auk Tawya in 1981; Scholarly account: late 20th c. onward; (confidence moderate)
 **Status:** living
@@ -28,19 +28,19 @@ The Burmese forest tradition of Pa-Auk Sayadaw (b. 1934), which teaches the Visu
 **Caveat:** Follows the Visuddhimagga's account strictly; no ground-of-being reading.
 
 ## Texts
-`src:knowing-and-seeing`, `src:workings-of-kamma`
+[Knowing and Seeing](../texts/knowing-and-seeing.md), [The Workings of Kamma](../texts/workings-of-kamma.md)
 
 ## Teachers
-`tch:pa-auk-sayadaw`
+[Pa-Auk Sayadaw](../teachers/pa-auk-sayadaw.md)
 
 ## Practices
-_none recorded_
+[Defining the four elements (catudhātuvavatthāna)](../practices/catudhatuvavatthana.md), [Defining mentality-materiality (nāmarūpa-pariccheda)](../practices/namarupa-pariccheda.md), [Discerning conditions (paccaya-pariggaha)](../practices/paccaya-pariggaha.md), [Discerning material groups (Pa-Auk)](../practices/rupa-kalapa-discernment.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Must jhāna precede insight, or can insight proceed on momentary concentration (dry insight)?](../debates/dry-insight-or-jhana-first.md)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._

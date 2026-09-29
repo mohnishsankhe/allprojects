@@ -126,7 +126,7 @@ We alone know the meaning of the Vedas; the others merely carry their burden on 
 
 _level: conventional · standpoint: polemical · path: devotion · stage: all · types: dispute_
 
-concepts: [Devotion and caste](../concepts/bhakti-and-caste.md) · teachers: [Tukārām](../teachers/tukaram.md) · disputes: [May people of low birth know and expound the meaning of scripture and approach God on equal terms?](../debates/caste-and-the-varkari-saints.md), `dsp:status-of-veda`
+concepts: [Devotion and caste](../concepts/bhakti-and-caste.md) · teachers: [Tukārām](../teachers/tukaram.md) · disputes: [May people of low birth know and expound the meaning of scripture and approach God on equal terms?](../debates/caste-and-the-varkari-saints.md), [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 ### abhaṅga 'vṛkṣavallī āmhāṃ soyarīṃ' <a id="tea-tukaram-gatha-vrksavalli"></a>
 `skeleton` · confidence high
@@ -194,4 +194,4 @@ terms: [Rāma Kṛṣṇa Hari](../terms/rama-krsna-hari.md) · concepts: [Initi
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._

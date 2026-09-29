@@ -93,7 +93,7 @@ Rādhā, jealous that Kṛṣṇa loves others as he loves her, withdraws to a b
 
 _level: conventional · standpoint: devotional · path: devotion · stage: advanced · types: consciousness-mind_
 
-terms: [māna (in love)](../terms/mana.md), [smaraṇa](../terms/smarana.md) · concepts: [The love of Rādhā and Kṛṣṇa in the Gīta Govinda](../concepts/radha-krsna-love-gita-govinda.md), [Devotion in separation](../concepts/viraha-bhakti.md) · teachers: [Jayadeva](../teachers/jayadeva.md)
+terms: [māna](../terms/mana.md), [smaraṇa](../terms/smarana.md) · concepts: [The love of Rādhā and Kṛṣṇa in the Gīta Govinda](../concepts/radha-krsna-love-gita-govinda.md), [Devotion in separation](../concepts/viraha-bhakti.md) · teachers: [Jayadeva](../teachers/jayadeva.md)
 
 ### 3 <a id="tea-gita-govinda-3"></a>
 `skeleton` · confidence moderate
@@ -120,7 +120,7 @@ Rādhā waits through the night in vain and, at dawn, sees Kṛṣṇa with the 
 
 _level: conventional · standpoint: devotional · path: devotion · stage: advanced · types: consciousness-mind_
 
-terms: [nāyikā](../terms/nayika.md), [māna (in love)](../terms/mana.md) · concepts: [The love of Rādhā and Kṛṣṇa in the Gīta Govinda](../concepts/radha-krsna-love-gita-govinda.md) · teachers: [Jayadeva](../teachers/jayadeva.md)
+terms: [nāyikā](../terms/nayika.md), [māna](../terms/mana.md) · concepts: [The love of Rādhā and Kṛṣṇa in the Gīta Govinda](../concepts/radha-krsna-love-gita-govinda.md) · teachers: [Jayadeva](../teachers/jayadeva.md)
 
 ### 9 <a id="tea-gita-govinda-9"></a>
 `skeleton` · confidence moderate
@@ -129,7 +129,7 @@ The friend counsels Rādhā, now regretting her quarrel, to give up her pride an
 
 _level: conventional · standpoint: devotional · path: devotion · stage: advanced · types: consciousness-mind_
 
-terms: [māna (in love)](../terms/mana.md), [sākhī](../terms/sakhi.md) · concepts: [The love of Rādhā and Kṛṣṇa in the Gīta Govinda](../concepts/radha-krsna-love-gita-govinda.md) · teachers: [Jayadeva](../teachers/jayadeva.md)
+terms: [māna](../terms/mana.md), [sākhī](../terms/sakhi.md) · concepts: [The love of Rādhā and Kṛṣṇa in the Gīta Govinda](../concepts/radha-krsna-love-gita-govinda.md) · teachers: [Jayadeva](../teachers/jayadeva.md)
 
 ### 10.astapadi-19 <a id="tea-gita-govinda-10-astapadi-19"></a>
 `skeleton` · confidence high
@@ -138,7 +138,7 @@ Kṛṣṇa pleads with Rādhā to give up her anger: 'if you speak even a littl
 
 _level: conventional · standpoint: divine · path: devotion · stage: advanced · types: ultimate, consciousness-mind_
 
-terms: [bhakta-parādhīnatā](../terms/bhakta-paradhinata.md), [māna (in love)](../terms/mana.md) · concepts: [The Lord's subjection to his devotees (bhakta-parādhīnatā)](../concepts/bhakta-paradhinata.md), [The love of Rādhā and Kṛṣṇa in the Gīta Govinda](../concepts/radha-krsna-love-gita-govinda.md) · teachers: [Jayadeva](../teachers/jayadeva.md)
+terms: [bhakta-parādhīnatā](../terms/bhakta-paradhinata.md), [māna](../terms/mana.md) · concepts: [The Lord's subjection to his devotees (bhakta-parādhīnatā)](../concepts/bhakta-paradhinata.md), [The love of Rādhā and Kṛṣṇa in the Gīta Govinda](../concepts/radha-krsna-love-gita-govinda.md) · teachers: [Jayadeva](../teachers/jayadeva.md)
 
 ### 11 <a id="tea-gita-govinda-11"></a>
 `skeleton` · confidence moderate
@@ -171,4 +171,4 @@ practices: [Singing the Gīta Govinda (aṣṭapadī)](../practices/astapadi-sin
 _Notes: Liturgical use: sung daily before Jagannātha at Purī (by tradition confirmed by an order of Gajapati Pratāparudra, c. 1499, that the temple singers sing only the Gīta Govinda — recalled with moderate confidence); sung in Kerala temples as aṣṭapadī (sopāna saṅgītam) and in South Indian bhajana; relished by Caitanya (Caitanya Caritāmṛta); two of Jayadeva's hymns (not from the Gīta Govinda) are in the Sikh Ādi Granth (context only). Canto-title list: moderate/low confidence. Not to be confused with the later Jayadeva (Pīyūṣavarṣa) of the Candrāloka and Prasannarāghava._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._

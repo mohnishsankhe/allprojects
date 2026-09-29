@@ -1,6 +1,6 @@
 # Varṇa — the four classes, as the tradition states it
 
-`cpt:varna-social-order` · `skeleton` · confidence high
+`cpt:varna-social-order` · `sourced` · confidence high
 
 **Category:** ethics
 **Members:** brāhmaṇa, kṣatriya, vaiśya, śūdra
@@ -16,4 +16,8 @@
 _Notes: Recorded faithfully as the Brāhmaṇa and Dharmaśāstra traditions state it; the bhakti, Siddha, Buddhist, Jain and Upaniṣadic critiques are recorded by other units and in dsp:women-caste-liberation._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/apastamba-dharmasutra.md (GRETIL) — The four classes and the cited passages were found: TS 7.1.1.4–6, MDh 1.31, 10.4 and 1.88–91, and ĀpDh 1.1.1.4–8 ('catvāro varṇā … teṣāṃ pūrvaḥ pūrvo janmataḥ śreyān'). Recorded as the tradition states it. Rests on teaching checks confirmed in this sweep: tea:taittiriya-samhita:7.1.1.4-6, tea:manusmrti:1.31, tea:manusmrti:10.4.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

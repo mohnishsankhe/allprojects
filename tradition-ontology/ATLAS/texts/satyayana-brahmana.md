@@ -1,6 +1,6 @@
 # Śāṭyāyana Brāhmaṇa (lost)
 
-`src:satyayana-brahmana` · `skeleton` · confidence low
+`src:satyayana-brahmana` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 A lost Sāmaveda Brāhmaṇa of the Śāṭyāyanins, known only from quotations (e.g. in Sāyaṇa).
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 websearch: partially-confirmed — https://vedicheritage.gov.in/brahmanas/ — The lost Śāṭyāyana Brāhmaṇa of the Sāmaveda, known from quotations (Sāyaṇa and others), is standard in the literature. The web search gave no specific scholarly page, so it is only partly confirmed.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

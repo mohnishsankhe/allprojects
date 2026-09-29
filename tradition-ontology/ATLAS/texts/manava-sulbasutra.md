@@ -1,6 +1,6 @@
 # Mānava Śulbasūtra
 
-`src:manava-sulbasutra` · `skeleton` · confidence low
+`src:manava-sulbasutra` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -11,4 +11,8 @@
 The Maitrāyaṇīya (Mānava) altar-construction rules.
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:eBharati:mAnavashulbasUtram, https://en.wikipedia.org/wiki/Shulba_Sutras — Low-confidence entry confirmed as extant.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

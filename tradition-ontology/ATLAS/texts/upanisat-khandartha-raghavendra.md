@@ -16,4 +16,4 @@ Rāghavendra Tīrtha's short sectional explanations (khaṇḍārtha) of Madhva'
 _Notes: An incomplete Īśāvāsya-khaṇḍārtha ascribed to Rāghavendra is in the raw_etexts corpus._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._

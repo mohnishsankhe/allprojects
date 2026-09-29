@@ -15,10 +15,10 @@
 
 The standard treatise of Vedic phonetics (śikṣā): it counts sixty-three or sixty-four phonemes declared by Svayambhū (v. 3), explains how speech arises when the self, having grasped meanings with the intellect, joins the mind to the wish to speak, the mind strikes the body's fire and the fire impels the breath (vv. 6–9), classifies sounds by place, effort, tone and duration, lists the faults and the virtues of reciters (vv. 32–33), pictures the six Vedāṅgas as the limbs of the Veda (vv. 41–42), warns that a mantra defective in accent or sound harms the sacrificer (v. 52), and ends in homage to Pāṇini, who received the collection of phonemes from Maheśvara (v. 57).
 
-## Teachings (10: skeleton 7, sourced 3)
+## Teachings (10: sourced 10)
 
 ### 3 <a id="tea-paniniya-siksa-3"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The phonemes, in Prakrit as in Sanskrit, are sixty-three or sixty-four; they were declared by Svayambhū himself.
 
@@ -27,7 +27,7 @@ _level: conventional · standpoint: analytic · path: sound · stage: all · typ
 terms: [varṇa](../terms/varna.md), [akṣara](../terms/aksara.md) · concepts: [The phonemes and their classes](../concepts/varna-phoneme.md)
 
 ### 6-9 <a id="tea-paniniya-siksa-6-9"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The self, having grasped meanings with the intellect, joins the mind to the desire to speak; the mind strikes the fire of the body, the fire impels the wind; the wind, moving in the chest, produces the low tone, and rising strikes the head and reaches the mouth, where it produces the phonemes, which are distinguished by tone, duration, place, effort and emission.
 
@@ -36,7 +36,7 @@ _level: conventional · standpoint: analytic · path: sound, body-breath · stag
 terms: [vāc](../terms/vac.md), [prāṇa](../terms/prana.md), [svara](../terms/svara.md) · concepts: [How speech arises in the body](../concepts/origin-of-speech-in-the-body.md)
 
 ### 13 <a id="tea-paniniya-siksa-13"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The places of articulation are eight: chest, throat, head, root of the tongue, teeth, nose, lips and palate.
 
@@ -45,7 +45,7 @@ _level: conventional · standpoint: analytic · path: sound · stage: all · typ
 concepts: [The phonemes and their classes](../concepts/varna-phoneme.md)
 
 ### 25 <a id="tea-paniniya-siksa-25"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 As a tigress carries her cubs in her teeth, not hurting them yet afraid they may fall or be bitten, so should one pronounce the phonemes.
 
@@ -54,7 +54,7 @@ _level: conventional · standpoint: seeker · path: sound · stage: beginner · 
 practices: [The Vedic recitations (pāṭha): continuous, word-by-word, step and the eight modified ones](../practices/vedic-recitation-pathas.md)
 
 ### 31-33 <a id="tea-paniniya-siksa-31-33"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The phonemes should be pronounced neither indistinct nor pressed; by correct pronunciation one is honoured in the world of Brahmā. The worst reciters are six: one who sings, one who hurries, one who shakes his head, one who reads from a written text, one who does not know the meaning, and one with a weak voice. The six virtues of a reciter are sweetness, distinct syllables, right division of words, good tone, steadiness and command of tempo.
 
@@ -72,7 +72,7 @@ _level: conventional · standpoint: seeker · path: sound · stage: beginner · 
 concepts: [The recitation modes that guard the text](../concepts/vedic-recitation-modes.md) · practices: [Vedic recitation (vedapāṭha, svādhyāya of the Saṃhitā)](../practices/vedapatha.md)
 
 ### 41-42 <a id="tea-paniniya-siksa-41-42"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Metre is the feet of the Veda, ritual its hands, astronomy its eye, etymology its ear, phonetics its nose and grammar its mouth; therefore one who studies the Veda with its limbs is honoured in the world of Brahmā.
 
@@ -99,7 +99,7 @@ _level: conventional · standpoint: seeker · path: sound · stage: all · types
 concepts: [The Vedic accents](../concepts/vedic-accent-system.md) · practices: [Vedic recitation (vedapāṭha, svādhyāya of the Saṃhitā)](../practices/vedapatha.md)
 
 ### 56-57 <a id="tea-paniniya-siksa-56-57"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Śaṅkara gave the goddess Speech, gathered from all that is made of speech, to the wise son of Dākṣī; homage to Pāṇini, who received the collection of phonemes from Maheśvara and proclaimed the whole of grammar.
 
@@ -114,5 +114,6 @@ _Notes: Local copy: raw_etexts/shixA/sAdhAraNI/paniniya_shiksha.md (verse number
 **Verification checks**
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:raw_etexts:paniniya_shiksha, text:sources_raw/raw_etexts/shixA/sAdhAraNI/paniniya_shiksha.md — Extant; verse numbers 32–33, 52, 54–55 confirmed in the local text; the text calls itself the work of Dākṣīputra Pāṇini (vv. 40, 56).
+- 2026-09-28 catalog+text-locate: confirmed — catalog:raw_etexts:paniniya_shiksha — Extant (60 verses locally). Verses 3, 6–9, 13, 25, 31–33, 41–42, 52 and 56–57 were text-located. Pāṇini is spoken of in the third person at v. 40 ('dākṣīputraḥ pāṇininā') and vv. 56–59, which supports the entry's scholarly note.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._

@@ -1,6 +1,6 @@
 # Antyeṣṭi-paddhatis (funeral manuals)
 
-`src:antyestipaddhati` · `skeleton` · confidence low
+`src:antyestipaddhati` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,4 +13,8 @@ The family of practical manuals (paddhati) for the funeral rites — preparing t
 _Notes: Collective entry for a genre; individual titles not listed (gap)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog: confirmed — catalog:eBharati:antyeShTidIpikA, catalog:eBharati:antyakarmadIpakaH, catalog:Muktabodha:antyeShTividhi__I00049 — The genre is confirmed: several funeral manuals are held locally (Antyeṣṭidīpikā, Antyakarmadīpaka; Śaiva antyeṣṭividhi). This is a collective entry.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

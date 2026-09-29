@@ -30,7 +30,7 @@ The non-dual Śaiva exegetical tradition of Kashmir (9th-11th c. classical perio
   - [Mantramārga (the Path of Mantras)](mantramarga.md) — what: the Bhairava tantras (Svacchanda, Netra, Mālinīvijayottara, Siddhayogeśvarīmata) as scriptural base; the 36 tattvas, the three malas, śaktipāta and dīkṣā; evidence: Kṣemarāja's Svacchandoddyota and Netroddyota; Abhinavagupta's Tantrāloka built on the Mālinīvijayottara (TĀ 1.18)
   - [Kaula (the Kula tradition)](kaula.md) — what: Kaula ritual and the kula/akula doctrine, via Śambhunātha of Jālandhara; evidence: Tantrāloka 29; TĀ 5.52 (the seven ānandas as taught by Śambhu[nātha])
   - [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](vyakarana.md) — what: Bhartṛhari's doctrine of speech (vāc) and pratibhā, reworked as vimarśa = supreme speech; evidence: ĪPK 1.5.13; Śivadṛṣṭi ch. 2 critique
-  - `lin:pramana-buddhist` — what: the epistemological framework and vocabulary of Dharmakīrti's school, engaged polemically; evidence: ĪPK 1.2 (Buddhist pūrvapakṣa), 1.6, 2.3
+  - [Buddhist epistemology and logic (pramāṇa school)](pramana-buddhist.md) — what: the epistemological framework and vocabulary of Dharmakīrti's school, engaged polemically; evidence: ĪPK 1.2 (Buddhist pūrvapakṣa), 1.6, 2.3
 **Transmissions given:** 
   - [Śrīvidyā](srividya.md) — what: prakāśa-vimarśa metaphysics and Spanda/Pratyabhijñā exegesis used by Śrīvidyā commentators (e.g. Jayaratha's Vāmakeśvarīmatavivaraṇa; Maheśvarānanda)
   - [Alaṅkāraśāstra and Nāṭyaśāstra (poetics, dramaturgy and the theory of rasa)](alankara.md) — what: Abhinavagupta's aesthetics (rasa as relished consciousness; śānta rasa)
@@ -64,4 +64,4 @@ The non-dual Śaiva exegetical tradition of Kashmir (9th-11th c. classical perio
 _Notes: 'Kashmir Śaivism' is a modern umbrella name; the tradition itself speaks of Trika, Ṣaḍardha, Pratyabhijñā, Spanda, Krama, Kula. Parent set to the Mantramārga because its scriptures are Bhairava tantras of the Mantramārga; its Kaula side derives from the Kulamārga (lin:kaula)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._

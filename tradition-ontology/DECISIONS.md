@@ -79,3 +79,6 @@ Conservative choices made without asking, with reasons. Newest last.
 - The Uvāsagadasāo had two ids: U33 `src:uvasagadasao` (Prakrit form) and U34 `src:upasakadasa` (the registry's Sanskrit pattern). Kept `src:upasakadasa`; U33's source and its three teachings (tea:uvasagadasao:6, :7, :7/2 → tea:upasakadasa:…) remapped via config/id_remap.json.
 - The debate on whether the kevalin eats had two ids: U34 `dsp:kevalin-eats` (the id the brief fixes) and U35 `dsp:kevali-bhukti`. Kept `dsp:kevalin-eats`; both units' references remapped, so the two sides lists union at merge.
 - U34's other shared ids (Mūlācāra, Bhagavatī Ārādhanā, Tiloyapaṇṇatti, Kundakunda commentaries, Ādipurāṇa, …) are the same ids as U35's and union at merge; no remap needed.
+
+## 2026-09-29 16:38 IST — sourcing corrections apply per unit, before merging
+- A Phase C correction replaces a field (e.g. a practice's `sources` list). Applied after merging, it would overwrite what OTHER units contributed to a shared id. scripts/merge.py now applies each sweep's corrections to the checked unit's own shard entries before entities are merged (logged in correction_log and interpretation_log as before); apply_checks only records the check and raises skeleton → sourced.

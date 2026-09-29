@@ -1,6 +1,6 @@
 # Kāśikāvṛtti
 
-`src:kasikavrtti` · `skeleton` · confidence moderate
+`src:kasikavrtti` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -17,4 +17,8 @@ The first complete running commentary on the Aṣṭādhyāyī, rule by rule, wi
 **Commentaries on this text:** [Nyāsa (Kāśikāvivaraṇapañjikā)](nyasa-jinendrabuddhi.md), [Padamañjarī](padamanjari.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-28 09:07 IST._
+**Verification checks**
+
+- 2026-09-28 catalog+websearch: confirmed — catalog:GRETIL-dev:jayaditya_vamana_kasikavrtti, catalog:DCS:Kāśikāvṛtti, https://en.wikipedia.org/wiki/K%C4%81%C5%9Bik%C4%81v%E1%B9%9Btt%C4%AB, https://www.wisdomlib.org/history/book/glimpses-of-history-of-sanskrit-literature/d/doc1546773.html — Extant. Joint work of Jayāditya and Vāmana, 7th c. CE (Wikipedia; Wisdomlib), matching the entry.
+
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._

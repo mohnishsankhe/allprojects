@@ -5,12 +5,12 @@
 **Coverage:** A5
 
 ## Sides (recorded before any reconciliation)
-### `lin:yogacara`
+### [Yogācāra](../lineages/yogacara.md)
 No (as the pūrvapakṣa is stated): the notion of means and objects of knowledge is like the notion of objects in a dream, or like magic, a gandharva city or a mirage.
 - Dream argument (NS 4.2.31–32 as pūrvapakṣa); Vasubandhu's Viṃśatikā.
 **Texts:** 
   - [Nyāya Sūtra](../texts/nyaya-sutra.md) — ref: 4.2.31–32 (pūrvapakṣa)
-  - `src:vimsatika` — ref: vv. 1–2 (from memory)
+  - [Viṃśatikā (Viṃśatikāvijñaptimātratāsiddhi)](../texts/vimsatika.md) — ref: vv. 1–2 (from memory)
 ### [Nyāya](../lineages/nyaya.md)
 Yes: the idealist thesis lacks a reason; dream-cognition depends on prior experience like memory; false cognition is removed by true knowledge as dream-notions are on waking, which presupposes real objects.
 - NS 4.2.33–37; Udayana's refutation of the denial of external objects.
@@ -23,11 +23,11 @@ Yes: waking cognitions are not overturned as dream cognitions are; cognition is 
   - [Śābarabhāṣya](../texts/sabara-bhasya.md) — ref: 1.1.5
   - [Ślokavārttika](../texts/slokavarttika.md) — ref: nirālambanavāda
   - [Śāstradīpikā](../texts/sastradipika.md) — ref: 1.1.5
-### `lin:yogacara`
+### [Yogācāra](../lineages/yogacara.md)
 No independent external object is established: cognition and its object are always apprehended together (sahopalambha-niyama) and cognitions arise as in dreams from latent impressions.
 **Texts:** 
-  - `src:vimsatika` — ref: vv. 1–2
-  - `src:pramanavarttika` — ref: ch. 3
+  - [Viṃśatikā (Viṃśatikāvijñaptimātratāsiddhi)](../texts/vimsatika.md) — ref: vv. 1–2
+  - [Pramāṇavārttika](../texts/pramanavarttika.md) — ref: ch. 3
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -37,4 +37,4 @@ No independent external object is established: cognition and its object are alwa
 **Candidate readings:** P1-level: Yogācāra's own three natures leave room for conventional objects.; P4-stage: some Buddhist doxographies treat mind-only as a stage leading beyond itself.; P1-level: Yogācāra may be read as describing the ultimate while conceding conventional objects — Mīmāṃsā admits no level beyond the empirical and rejects this.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa. Generated 2026-09-28 09:07 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._
