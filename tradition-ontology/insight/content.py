@@ -140,7 +140,7 @@ def rules_draft(bucket_id: str, fmt: str, scene_idx: int, item: dict) -> dict:
         parts = [sc, "An old text has a word for this.", pt, f"Source: {src}", ln] + \
                 ([P["difference"]] if P["difference"] else []) + [cl]
     elif fmt == "short_video":
-        parts = _short_video_parts(sc, pt, ln, src, cl, cr, item["tid"], P["stops"])
+        parts = _short_video_parts(sc, pt, ln, src, cl, cr, item["tid"], P["stops"], P["difference"])
     elif fmt == "long_video":
         parts = [f"1. The scene (about 2 min). Points: {sc} Stay with the moment before judging it.",
                  f"2. The teaching (about 2 min). Points: {pt} Source: {src}.",
@@ -166,17 +166,19 @@ def _words(t: str) -> int:
     return len(re.sub(r"\[on screen:[^\]]*\]", "", t).split())
 
 
-def _short_video_parts(scene, point, link, src, closing, close_reading, tid, stops=STOPS) -> list[str]:
+def _short_video_parts(scene, point, link, src, closing, close_reading, tid, stops=STOPS, difference="") -> list[str]:
     """45–60 s script: 110–160 spoken words (on-screen cues excluded), built only from the pool item, the
     'where the text stops' beat and at most two fixed bridge sentences that make no claim."""
     parts = [f"[on screen: {scene}] {scene}", f"[on screen: {src}] There is an old text that says it plainly. {point}"]
     if close_reading:
         parts.append(f"Here is what the passage says, closely: {close_reading}")
-    parts += [link, stops, f"[on screen: {closing}] {closing}"]
-    b = int(hashlib.sha1(tid.encode()).hexdigest(), 16) % len(BRIDGES)
+    parts += [link] + ([difference] if difference else []) + [stops, f"[on screen: {closing}] {closing}"]
+    # the third bridge says what the default 'where the text stops' line says; never use both
+    bridges = BRIDGES[:2] if stops == _sentence(STOPS) else BRIDGES
+    b = int(hashlib.sha1(tid.encode()).hexdigest(), 16) % len(bridges)
     k = 0
-    while _words(" ".join(parts)) < 110 and k < len(BRIDGES):
-        parts.insert(-2, BRIDGES[(b + k) % len(BRIDGES)])
+    while _words(" ".join(parts)) < 110 and k < len(bridges):
+        parts.insert(-2, bridges[(b + k) % len(bridges)])
         k += 1
     return parts
 

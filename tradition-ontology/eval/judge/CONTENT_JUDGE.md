@@ -132,3 +132,70 @@ The P5 (a) items in this packet (TS 6.10, BhG 5.10 "by sin") now pass. The other
   - 2 stretched links (L42, L49).
 - Every failure has an exact fix above and in the verdicts file.
 - L28 and L49 are redrafted from new pool items, so those two new posts must be judged before the gate can pass.
+
+
+## Re-run 2 (P6)
+
+Judge: onto-judge (claude-opus-5-5), 2026-09-29.
+- Packet: `eval/judge/rules/content_review_new10.jsonl`, the 10 replacement posts; they are lines 41-50 of the active packet `eval/judge/rules/content_review.jsonl`. Pool: `buckets.json` 2.1.
+- Per-post scores, evidence and fixes: `eval/judge/content_verdicts_rerun2.jsonl`.
+- "Lnn" below means line nn of the active 50-post packet.
+
+Checked by code:
+- Queue state: 60 posts in `content/queue.jsonl`, 10 rejected and 50 pending. The rejected ids are exactly the 10 failed in Re-run (P6). The 50 pending ids equal the active packet.
+- Each new post's queue body text equals its packet text.
+- Citations: `source_line(tid)` is printed once, exactly, in all 10. For every tid, `teaching(tid).id == tid` and the teaching is citable (9 text-verified, 1 sourced). No tid or source line appears twice among the 50.
+- claims.scan: 0 hits. Keyword scan: the only hit is "promises", in the negation "this post promises nothing". No "you will".
+- 5-gram Jaccard, recomputed against the 49 other active posts: max 0.242 (the two long videos' shared template lines). All 10 match the packet values. Max over all 50: 0.316 (L7/L32, unchanged).
+- Format limits, rules_check and the AI-label reminder (present in each queue body): all pass.
+
+Checked by reading:
+- All 10 posts against the cited original, the paraphrase and the entry notes, and against these neighbours in `data/`: TS 6.24, 6.26, 8.12; Dhp 34-35, 329-330, 347, 349; BhG 2.60, 2.66, 2.68; MU 2, 3, 5 and MK 1.1-1.3; BAU 4.3.7, 4.3.15-18; TU 3.9.1, 3.10.2, 2.1.1, 2.2-5; YS 1.2, 1.4 and YBh 1.3-1.4.
+- Each post against the 9 other active posts in its bucket, for the same idea.
+- Every "where the text stops" line and bridge, for truth of this verse. Dhp 348 now carries its own `stops` line; the other videos carry the new default STOPS, which claims nothing about the text's content.
+
+Not run: on-screen timing; the model check (rules engine only). The 40 posts that passed in Re-run (P6) were not re-judged. By code: all 40 are pending and unchanged in tid and source line, and the 100 quoted fragments in their (d) evidence all appear in the current text. The packet they were judged in has been replaced, so byte-for-byte identity could not be checked.
+
+| criterion (10 new posts) | pass | fail |
+|---|---|---|
+| (a) cites faithfully | 10 | 0 |
+| (b) no claims | 10 | 0 |
+| (c) no near-duplicates / same idea | 9 | 1 |
+| (d) idea-specific | 9 | 1 |
+| **all of a–d** | **9** | **1** |
+| (e) format/voice, note only | 4 | 6 |
+
+### Failure and exact fix
+- L50 c625b423, meaning short_video, YS 1.3 (c, d):
+  - (d): the link "In the sūtra, 'then' means once the mind's activity is stilled: the seer rests in its own form." is a gloss and joins nothing to the scene ("'So, what do you do?' someone asks at a party."). The sūtra says nothing about occupations or answering who one is. The only join left to the reader is "the job is not who you are; the seer is", which the meaning never-list bars. This is the same fault as P6 L49.
+  - (c): the same idea as L38 (BhG 13.2). Both set a request to describe oneself against a text's witness, and close on "And the knower?" / "What is the seer's own form?". The seer and the knower of the field play the same role. Its scene also repeats the new TU ch2 post (L49).
+  - Fix:
+    1. Retire YS 1.3 from the meaning pool (it failed (a) in P5 as well).
+    2. Redraft this slot from another meaning item whose link and closing no other meaning post already carries (not a job-identity scene), and judge it.
+    3. Make `_short_video_parts` render the item's `difference` line.
+
+The 9 passing posts include the P6 fixes, applied as asked:
+- Dhp 348: its own `stops` line.
+- BAU 4.3.9-14: the new link and closing, now in a short video.
+- TU ch2: the new link and closing.
+- The retired MN 10:6 and BhG 3.35 are gone.
+
+### (e) notes (not gating)
+- Dhp 33 (L42): the link restates the point and names nothing in the scene. Suggested x_link: "The replay is the quivering; the verse straightens the mind, not the slip." (278 chars).
+- BhG 2.67 (L43):
+  - Part 3 restates part 2.
+  - The scene is distraction rather than going over things.
+  - Its "wind" closing echoes L13's.
+- Long videos (L44 Dhp 348, L48 Dhp 328):
+  - Each section has one line of points, and there is no other-lens section.
+  - In L48, section 5 says "Where the text stops" twice. The long_video label and the default STOPS both carry it.
+  - In L44, bhava is glossed two ways, and "this post" appears in a video.
+- MU 4 (L45): "is dream" and "gives dream its own station" are loose, since in the verse dream is the station of the second quarter of the self. Exact wording that fits (276 chars) is in the verdicts file.
+- YS 1.3 (L50): 4 of its 8 beats are fixed filler, and 3 of those say "read it into your own day". The P6 template fix 2 (drop a bridge that repeats STOPS) is not in the code.
+- TS 6.25 (L41): "low-status karma" can be read as workplace status. It is the third Jain-inflow post in the work account.
+
+### Gate verdict: FAIL
+- 49 of the 50 active posts pass a–d: the 40 that stand from Re-run (P6) plus 9 of the 10 replacements.
+- The gate needs 50 of 50.
+- Passes per bucket: work 10, overthinking 10, sleep 10, loneliness 10, meaning 9.
+- The one remaining fix: retire YS 1.3, redraft L50 from another meaning item, and judge that one post.
