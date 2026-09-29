@@ -1,6 +1,6 @@
 "use strict";
 /* Plain JS, no frameworks. Every string from the server or the user is put into the page with textContent
-   (never innerHTML), so nothing typed by a person or written by a model can become markup or script. */
+   (never parsed as markup), so nothing typed by a person or written by a model can become markup or script. */
 
 const $ = (id) => document.getElementById(id);
 const PID_KEY = "onto_person_id";
