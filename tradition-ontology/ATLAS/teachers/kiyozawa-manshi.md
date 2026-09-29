@@ -10,4 +10,4 @@
 Ōtani-ha priest and philosopher who led a reform of the order and taught 'spiritual activism' (seishinshugi), reliance on the Tathāgata as the foundation of the self.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._

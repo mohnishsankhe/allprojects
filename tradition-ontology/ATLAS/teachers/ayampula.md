@@ -8,4 +8,4 @@
 An Ājīvika lay follower of Sāvatthī who, in Bhagavatī 15, comes to ask the dying Gosāla a question and is answered in his delirium.
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

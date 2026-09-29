@@ -21,4 +21,4 @@
 DN 2 only names 'eight stages of a person'; the stage names and glosses are Buddhaghosa's, recalled with low confidence. A life-cycle list rather than a path of practice.
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

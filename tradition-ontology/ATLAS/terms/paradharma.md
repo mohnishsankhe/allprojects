@@ -16,4 +16,4 @@
 **Related:** [svadharma](svadharma.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._

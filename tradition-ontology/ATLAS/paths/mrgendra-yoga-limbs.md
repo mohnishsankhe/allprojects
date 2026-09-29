@@ -20,4 +20,4 @@
 Order is the text's list order; the text says the limbs may be practised singly or together, so this is not strictly sequential. Bands are interpretive (U08); 'vīkṣaṇa' is banded B5 only tentatively (it is a discriminative scrutiny, not a stated seeing of the ultimate).
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._

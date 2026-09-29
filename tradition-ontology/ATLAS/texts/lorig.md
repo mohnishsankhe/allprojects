@@ -13,4 +13,4 @@ The genre of Gelug textbooks classifying awareness (valid and non-valid cognitio
   - kind: original; name: various monastic editions
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

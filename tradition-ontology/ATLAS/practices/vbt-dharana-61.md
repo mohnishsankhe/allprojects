@@ -15,4 +15,4 @@ Partial knowing gives duality; the outer light [turns] again to darkness; knowin
 _Notes: Verses 86 (KSTS 8 / GRETIL numbering). Obscure verse; readings differ ('jñātam'/'jñātvā'). Low confidence on the sense._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._

@@ -11,4 +11,4 @@
 Treasure revealer of the 19th c. whose treasures, many revealed with Jamyang Khyentse Wangpo, were codified by Jamgön Kongtrul (the Chokling Tersar).
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

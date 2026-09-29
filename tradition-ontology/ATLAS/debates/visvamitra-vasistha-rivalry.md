@@ -28,4 +28,4 @@ _Notes: The traditional attribution of 3.53.21–24 and 7.104 to this rivalry is
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_3.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_7.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/raw_ete — The low-confidence traditional attributions are confirmed in Sāyaṇa: on 3.53.21 the four verses are 'vasiṣṭhadveṣiṇyaḥ', Viśvāmitra cursed Vasiṣṭha with them and 'the Vasiṣṭhas do not listen to them'; on 7.104.15 the verse is Vasiṣṭha's oath against being called a rākṣasa.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._

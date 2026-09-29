@@ -28,4 +28,4 @@ terms: [bhūta-catuṣṭaya](../terms/bhuta-catustaya.md), [madaśakti](../term
 _Notes: Chapter numbering from memory (Lokāyata = ch. 2 after the introduction); verify. A modern Sanskrit history in sources_raw quotes the same verses under the name 'Cārvākaṣaṣṭi', a title not known to this unit from any old source._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

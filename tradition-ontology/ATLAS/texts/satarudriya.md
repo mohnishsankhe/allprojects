@@ -21,4 +21,4 @@ _Notes: Used in the agnicayana to pacify Rudra; recited in the tradition as Rudr
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/saMhitA/4/5.md, text:sources_raw/DharmicData/Yajurveda/vajasneyi_madhyadina_samhita.json — TS 4.5 has 11 anuvākas (local segmentation) and VS 16 has 66 kaṇḍikās — location 'TS 4.5.1–11 = VS 16.1–66' confirmed; 'namaḥ śivāya ca śivatarāya ca' in the eighth anuvāka (TS 4.5.8 = VS 16.41). The Jābāla Upaniṣad reference and the Rudra-japa multiples are side notes (multiples confirmed under prc:rudra-japa).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._

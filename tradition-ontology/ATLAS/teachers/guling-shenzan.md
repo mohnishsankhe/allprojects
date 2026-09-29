@@ -9,4 +9,4 @@
 Heir of Baizhang who taught his former teacher by proclaiming Baizhang's 'the numinous light shines alone, free of senses and objects'.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

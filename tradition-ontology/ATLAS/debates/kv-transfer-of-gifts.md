@@ -25,4 +25,4 @@ The robe or food given here is not itself used there.
 _Notes: The opponent's thesis is known here only as reported by the Theravāda Kathāvatthu; school attributions come from the commentary and are recalled with moderate/low confidence._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._

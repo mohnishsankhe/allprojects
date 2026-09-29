@@ -12,4 +12,4 @@
 Son (or kinsman) of Yāmuna and temple singer (araiyar) of Śrīraṅgam, one of Rāmānuja's five teachers.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._

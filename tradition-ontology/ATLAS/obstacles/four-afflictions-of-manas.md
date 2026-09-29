@@ -12,4 +12,4 @@ Self-view, self-delusion, self-conceit and self-love, which always accompany the
   - [Triṃśikā (Triṃśikāvijñaptikārikā)](../texts/trimsika.md) — ref: 6; rests_on: ["tea:trimsika:6-7"]
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

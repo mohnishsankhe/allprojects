@@ -12,4 +12,4 @@
 Author of the Sāṃkhyatattvavivecana on the Tattvasamāsa; by his own account son of Raghunandana, a Kānyakubja brahmin living at Iṣṭikāpura.
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:14 IST._

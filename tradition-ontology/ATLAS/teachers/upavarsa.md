@@ -13,4 +13,4 @@ Called 'the revered (bhagavān) Upavarṣa' by Śabara, who cites his view that 
 _Notes: Whether Upavarṣa is the same as the Vṛttikāra quoted by Śabara, or as Bodhāyana (the Vṛttikāra of Rāmānuja's tradition), is disputed._
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._

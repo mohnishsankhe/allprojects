@@ -12,4 +12,4 @@ The sense of 'I' and 'mine', 'you' and 'yours' is the māyā that holds all bein
   - [Rāmcaritmānas](../texts/ramcaritmanas.md) — ref: 3.15; rests_on: ["tea:ramcaritmanas:3.15"]
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

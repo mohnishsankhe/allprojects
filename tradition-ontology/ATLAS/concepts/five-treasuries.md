@@ -16,4 +16,4 @@
 _Notes: Some lists add or substitute the Uncommon Treasury (thun mong ma yin pa'i mdzod)._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._

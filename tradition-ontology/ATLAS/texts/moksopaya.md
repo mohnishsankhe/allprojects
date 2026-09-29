@@ -592,4 +592,4 @@ _Notes: Lineage placement is by reception only (the Vedāntic recension was abso
 
 - 2026-09-29 catalog+websearch: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text), catalog:GRETIL:mokSopAya, https://en.wikipedia.org/wiki/Yoga_Vasishtha, https://en.wikipedia.org/wiki/Mokshopaya — The GRETIL header names the six-volume Historisch-kritische Gesamtausgabe (2011-2019). Book 6 has 252 sargas (books 1-6: 32, 20, 140, 44, 94, 252). 2.17.6 claims 32,000 verses. Kashmir, c. 10th c. (Slaje).
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._

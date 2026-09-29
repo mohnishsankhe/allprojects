@@ -8,4 +8,4 @@
 A wealthy lay follower of the Nigaṇṭhas who, sent to refute the Buddha, became his follower (MN 56).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

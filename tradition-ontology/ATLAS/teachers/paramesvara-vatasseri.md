@@ -13,4 +13,4 @@
 Kerala astronomer who observed for over fifty years and composed the Dṛggaṇita (1431), the Goladīpikā and commentaries on the Āryabhaṭīya and Sūrya Siddhānta.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._

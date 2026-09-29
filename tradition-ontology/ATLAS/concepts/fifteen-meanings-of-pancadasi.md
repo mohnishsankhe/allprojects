@@ -14,4 +14,4 @@
 - part-of → [The six meanings of the mantra (Yoginīhṛdaya)](six-meanings-of-mantra.md): the six YH meanings are included among the fifteen — rests on [57-59](../texts/varivasya-rahasya.md#tea-varivasya-rahasya-57-59)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:14 IST._

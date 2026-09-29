@@ -10,4 +10,4 @@
 Abbot of Jingshan, teacher of Enni Ben'en and of several Chinese masters who went to Japan.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

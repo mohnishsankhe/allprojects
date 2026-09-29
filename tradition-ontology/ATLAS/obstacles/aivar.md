@@ -12,4 +12,4 @@ The five senses, pictured by the Āḻvārs as a band that plunders the self, to
   - [Tirumālai](../texts/tirumalai.md) — ref: 1; rests_on: ["tea:tirumalai:1"]
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._

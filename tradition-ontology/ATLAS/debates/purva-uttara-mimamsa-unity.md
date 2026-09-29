@@ -29,4 +29,4 @@ Mīmāṃsā authors acknowledge Vedānta as a related study: Upavarṣa deferre
 _Notes: Rāmānuja's quotation of the Vṛttikāra (Śrībhāṣya 1.1.1) is from memory (moderate); U13/U14 may hold the fuller record._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:14 IST._

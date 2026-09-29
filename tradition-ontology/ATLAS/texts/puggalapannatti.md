@@ -54,4 +54,4 @@ terms: [ubhatobhāgavimutta](../terms/ubhatobhagavimutta.md), [paññāvimutta](
 _Notes: Structure and the list of persons checked in the local bilara-data text (pp1.1–pp2.10). The only Abhidhamma book dealing with conventional (paññatti) rather than ultimate realities._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._

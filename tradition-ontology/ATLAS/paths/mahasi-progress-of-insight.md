@@ -21,4 +21,4 @@
 Post-1800 teacher (recent). Kept separate from pth:sixteen-insight-knowledges because Mahāsi's account describes the stages as they appear in noting practice (momentary concentration instead of jhāna, typical experiences at each stage). Grouping of knowledges follows the chapter's own grouping as recalled; moderate confidence on the grouping.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:14 IST._

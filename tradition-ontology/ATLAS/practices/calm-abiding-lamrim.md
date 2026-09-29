@@ -14,7 +14,7 @@ Having gathered the prerequisites, one sits in the eight-featured posture, takes
 **Sources:** 
   - [Great Treatise on the Stages of the Path to Enlightenment (lam rim chen mo)](../texts/lamrim-chenmo.md) — ref: calm; rests_on: ["tea:lamrim-chenmo:calm.nine-stages", "tea:lamrim-chenmo:calm.faults-antidotes", "tea:lamrim-chenmo:calm.measure"]
   - [Lamp for the Path to Awakening (Bodhipathapradīpa; byang chub lam gyi sgron ma)](../texts/bodhipathapradipa.md) — ref: v39–41; rests_on: ["tea:bodhipathapradipa:v39-41"]
-**Sequences:** `pth:nine-stages-calm-abiding`
+**Sequences:** [The nine stages of settling the mind (navākārā cittasthiti) leading to calm abiding](../paths/nine-stages-calm-abiding.md)
 
 ## The texts' own warnings
 - Subtle laxity is easily mistaken for faultless meditation; long meditation in it dulls the mind. — [Great Treatise on the Stages of the Path to Enlightenment (lam rim chen mo)](../texts/lamrim-chenmo.md) calm.subtle-laxity
@@ -25,4 +25,4 @@ Having gathered the prerequisites, one sits in the eight-featured posture, takes
 - partial: [Calm abiding (Kamalaśīla)](samatha-bhavanakrama.md) — Kamalaśīla's presentation, on which the lamrim draws
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

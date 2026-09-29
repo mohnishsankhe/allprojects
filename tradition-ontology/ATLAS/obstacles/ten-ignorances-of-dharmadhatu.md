@@ -13,4 +13,4 @@ Ten non-afflicted ignorances concerning ten aspects of the dharmadhātu (its all
 _Notes: Checked that MAV 2.16 names 'this undefiled tenfold ignorance regarding the dharmadhātu' with the grounds as antidotes; the list is in 2.14–15._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

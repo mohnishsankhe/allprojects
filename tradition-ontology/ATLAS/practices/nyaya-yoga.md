@@ -19,4 +19,4 @@ Repeated practice of a particular samādhi as the means to knowledge of truth, i
 - partial: [Samādhi as the eighth limb](samadhi.md) — Vātsyāyana refers the method to the Yoga śāstra and names limbs of it; Nyāya's aim is knowledge of the self as distinct, not the Yoga's isolation of puruṣa.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:14 IST._

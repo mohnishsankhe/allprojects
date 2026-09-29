@@ -23,6 +23,7 @@ Bhagavad Gītā 7.14, 7.19, 7.29; 9.32: those who take refuge in the Lord alone 
   - [Perumāḷ Tirumoḻi](../texts/perumal-tirumoli.md) — ref: 5.1; rests_on: ["tea:perumal-tirumoli:5.1"]
   - [Tiruppāvai](../texts/tiruppavai.md) — ref: 28; rests_on: ["tea:tiruppavai:28"]
   - [Periyāḻvār Tirumoḻi](../texts/periyalvar-tirumoli.md) — ref: 4.10.1; rests_on: ["tea:periyalvar-tirumoli:4.10.1"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 15.4; rests_on: ["tea:bhagavad-gita:15.4"]
   - [Rāmcaritmānas](../texts/ramcaritmanas.md) — ref: 5.44; rests_on: ["tea:ramcaritmanas:5.44"]
   - [Aṣṭādaśa Siddhānta (Siddhānta ke pada) of Svāmī Haridās](../texts/astadasa-siddhanta-haridas.md) — ref: 1; rests_on: ["tea:astadasa-siddhanta-haridas:1"]
 
@@ -35,6 +36,7 @@ _Notes: Chs. 7–9 contribution, combining extractor B's prc:saranagati and extr
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.14, tea:bhagavad-gita:7.19, tea:bhagavad-gita:7.29, tea:bhagavad-gita:9.32 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:15.4 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (ŚU 6.18). It rests on 1 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue, skeleton:U25-alvar-bhakti-theory, extraction:bhagavad-gita/ch13-15, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [Ground-appearances and how delusion arises](ground-appearances-and-delusion.md) (summary formula) — rests on [2](../texts/kuntuzangpo-monlam.md#tea-kuntuzangpo-monlam-2)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

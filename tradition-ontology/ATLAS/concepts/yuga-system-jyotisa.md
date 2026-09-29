@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The ages, the Manu-periods and the day of Brahmā](ages-and-day-of-brahma.md) (cosmic): the siddhāntic figures in solar years restate the smṛti's divine-year scheme (MDh 1.68–80) with the same proportions (Āryabhaṭa excepted) — rests on [1.15-21](../texts/surya-siddhanta.md#tea-surya-siddhanta-1-15-21), [1.7-9](../texts/brahmasphuta-siddhanta.md#tea-brahmasphuta-siddhanta-1-7-9)
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._

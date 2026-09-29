@@ -10,4 +10,4 @@ Former bandit turned Kadam hermit, remembered for counting his virtuous and non-
 _Notes: Known from lojong and lamrim anecdotes; dates not recorded._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

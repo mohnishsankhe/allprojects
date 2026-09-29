@@ -17,4 +17,4 @@ Kamalaśīla's commentary on the Diamond Sūtra.
   - kind: original; name: kamalasila_vajrachChedikatika; licence: GRETIL (reference use); url: https://gretil.sub.uni-goettingen.de/gretil.html#Buddh
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._

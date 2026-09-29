@@ -7,12 +7,18 @@
 **Literal:** the universal fire
 
 ## Definitions by tradition
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 15.14: becoming Vaiśvānara, dwelling in the bodies of breathing beings, joined with prāṇa and apāna, Kṛṣṇa digests the fourfold food.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): 'Common to all men': the self conceived as the cosmos with sky as head etc. (ChU 5.11-18); the first quarter, waking (MāU 3); the digestive fire within a person (BAU 5.9.1).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The fire of digestion that the Lord becomes in living bodies (BhG 15.14); the fire within whose seven tongues are the senses, mind and intellect (Anugītā 14.20).
 
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
+**Related:** [prāṇa](prana.md), [apāna](apana.md)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:15.14 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: extraction:bhagavad-gita/ch13-15, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._

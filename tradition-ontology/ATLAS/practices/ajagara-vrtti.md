@@ -21,4 +21,4 @@ Living without striving for food or comfort, accepting whatever comes and remain
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition) — Rests on tea:uddhava-gita:11.8.1-4, tea:ajagara-carita:12.172; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._

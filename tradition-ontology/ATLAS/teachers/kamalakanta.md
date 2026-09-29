@@ -15,4 +15,4 @@ Bengali Śākta poet and sādhaka of Ambikā-Kālnā, later at Burdwan under Mah
 **Realization — the tradition's account:** The Mahārāja of Burdwan became his disciple after he showed that the Goddess answered his call.
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:14 IST._

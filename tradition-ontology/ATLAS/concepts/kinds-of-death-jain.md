@@ -18,4 +18,4 @@
 _Notes: Classification recalled; Bhagavatī Ārādhanā also lists seventeen kinds of death (not recorded here)._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._

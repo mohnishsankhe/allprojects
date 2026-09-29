@@ -13,4 +13,4 @@ Practising calm, self-control, withdrawal, forbearance, faith and concentration 
 **Sequences:** [The Advaita course of practice: purification → fourfold means → hearing, reflection, contemplation → liberation while living → bodiless liberation](../paths/advaita-sadhana.md)
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._

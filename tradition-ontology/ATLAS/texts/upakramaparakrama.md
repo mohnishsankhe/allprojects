@@ -14,4 +14,4 @@
 Appayya Dīkṣita's short treatise on the relative strength of the opening (upakrama) and the conclusion (upasaṃhāra) of a passage, defending the priority of the opening.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:14 IST._

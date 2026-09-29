@@ -15,4 +15,4 @@
 - exact: [jāti](jati.md) — Tamil form of jāti (in the social sense)
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._

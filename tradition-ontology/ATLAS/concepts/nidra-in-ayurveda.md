@@ -15,4 +15,4 @@
 _Notes: The text names six sources; commentators count seven by dividing fatigue of mind and body._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._

@@ -13,4 +13,4 @@ Mindfulness of breathing, the postures, clear comprehension, the parts of the bo
 **Sequences:** [The three trainings (tisso sikkhā / triśikṣā): virtue, concentration, wisdom](../paths/three-trainings.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

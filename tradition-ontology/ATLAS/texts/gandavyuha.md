@@ -88,4 +88,4 @@ concepts: [Samantabhadra's vows](../concepts/samantabhadra-vows.md) · teachers:
 _Notes: The section list (names of all spiritual friends) was read in the local e-text._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._

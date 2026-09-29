@@ -14,4 +14,4 @@
 - contrasts-with → [The five lineages (gotra)](five-gotras.md): the fixed-lineage view — rests on [2.p27](../texts/lankavatara-sutra.md#tea-lankavatara-sutra-2-p27)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._

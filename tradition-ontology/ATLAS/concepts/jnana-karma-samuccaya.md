@@ -14,4 +14,4 @@
 _Notes: Opposed by Śaṅkara and Sureśvara, for whom knowledge alone liberates (see dsp:jnana-karma-samuccaya)._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._

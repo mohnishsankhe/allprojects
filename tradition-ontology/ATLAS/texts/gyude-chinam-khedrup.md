@@ -16,4 +16,4 @@ Khedrup Je's survey of the four classes of tantra.
   - kind: translation; name: English: Mkhas grub rje's Fundamentals of the Buddhist Tantras (Lessing & Wayman, 1968)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

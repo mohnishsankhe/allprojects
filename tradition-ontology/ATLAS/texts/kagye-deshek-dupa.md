@@ -13,4 +13,4 @@
 Nyangral Nyima Özer's treasure cycle uniting the practices of the Eight Herukas (bka' brgyad) in one maṇḍala.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

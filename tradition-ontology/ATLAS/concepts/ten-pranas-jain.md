@@ -15,4 +15,4 @@
 - contrasts-with → [The five vital airs in Yoga](prana-vayus-yoga.md): The Jain prāṇas are life-capacities rather than a system of winds to be controlled. — rests on [7.13](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-7-13)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._

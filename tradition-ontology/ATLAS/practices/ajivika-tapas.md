@@ -14,4 +14,4 @@ Summary only (restricted: severe austerity). The Sthānāṅga lists fierce aust
 - Austerity without right knowledge is 'the fool's austerity'. — [Uttarādhyayana Sūtra](../texts/uttaradhyayana-sutra.md) 9.44
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

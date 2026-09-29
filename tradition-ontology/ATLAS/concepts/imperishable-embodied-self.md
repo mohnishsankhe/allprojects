@@ -11,6 +11,7 @@
 
 ## Definitions
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: The embodied one is eternal, indestructible, immeasurable, unborn, everlasting and primeval; it neither slays nor is slain and is not slain when the body is slain; weapons, fire, water and wind do not affect it; it is all-pervading, stable, unmoving, unmanifest, unthinkable and unchangeable; it passes into another body as through the ages of life and as one changes clothes; hence it is not to be grieved for (2.12–30).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 14.5: the guṇas bind the imperishable embodied one (dehinam avyayam) in the body; 14.20: the embodied one who goes beyond them attains the immortal.
 
 ## Relations (interpretation layer)
 - contrasts-with → [Rebirth](rebirth.md): The embodied one is unchanged while it passes from body to body. — rests on [2.13](../texts/bhagavad-gita.md#tea-bhagavad-gita-2-13), [2.22](../texts/bhagavad-gita.md#tea-bhagavad-gita-2-22)
@@ -18,4 +19,8 @@
 _Notes: Merger: probably the same as the skeleton's broader cpt:the-self (BhG 2.11–30 etc.); both extractors used this id, so it is kept; flagged for the de-duplication pass. The text of 2.11–30 names it dehin or śarīrin, or refers to it by pronoun (ayam, enam); it does not use the word ātman there, so 'ātman' is not listed among its names (the commentators' identification is recorded as a partial equivalence on trm:dehin)._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:11 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:14.5, tea:bhagavad-gita:14.20 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:14 IST._

@@ -13,4 +13,4 @@ An aṅkīyā nāṭ is staged in the nāmghar with the sūtradhāra singing and
   - [Patnī-prasāda](../texts/patni-prasada.md) — ref: whole; rests_on: ["tea:patni-prasada:whole"]
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

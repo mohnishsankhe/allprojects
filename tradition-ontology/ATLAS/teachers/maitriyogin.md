@@ -9,4 +9,4 @@
 Indian master of love and compassion from whom, in the Kadam account, Atiśa received a lineage of mind training; the tradition tells that he took on the wound of a beaten dog.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

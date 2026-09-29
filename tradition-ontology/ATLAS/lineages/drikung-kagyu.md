@@ -41,7 +41,7 @@ One of the 'eight lesser' Kagyu schools founded by disciples of Phagmodrupa; est
 [Intermediate-state yoga (bar do)](../practices/bardo-yoga.md), [Cakrasaṃvara practice](../practices/cakrasamvara-sadhana.md), [Clear-light yoga](../practices/clear-light-yoga.md), [Dream yoga (rmi lam)](../practices/dream-yoga.md), [The fivefold Mahāmudrā](../practices/fivefold-mahamudra.md), [The four thoughts that turn the mind (blo ldog rnam bzhi)](../practices/four-thoughts-that-turn-the-mind.md), [Guru yoga](../practices/guru-yoga.md), [Illusory body yoga (sgyu lus)](../practices/illusory-body-yoga.md), [Mahāmudrā meditation (Kagyu)](../practices/mahamudra-meditation.md), [Maṇḍala offering](../practices/mandala-offering.md), [Solitary mountain retreat (ri chos)](../practices/mountain-retreat.md), [The Kagyu preliminaries (ngöndro)](../practices/ngondro.md), [Transference of consciousness ('pho ba)](../practices/phowa.md), [Receiving the pointing-out instruction](../practices/pointing-out.md), [Refuge with prostrations](../practices/refuge-prostrations.md), [Resting uncontrived in ordinary mind](../practices/resting-in-ordinary-mind.md), [The Six Yogas of Nāropa](../practices/six-yogas-of-naropa.md), [Inner heat (gtum mo, caṇḍālī)](../practices/tummo.md), [Vajrasattva meditation and recitation (the hundred-syllable mantra)](../practices/vajrasattva-purification.md), [Vajravārāhī practice](../practices/vajravarahi-sadhana.md)
 
 ## Path maps
-[The fivefold Mahāmudrā](../paths/fivefold-mahamudra.md), `pth:mahamudra-four-yogas`
+[The fivefold Mahāmudrā](../paths/fivefold-mahamudra.md), [The four yogas of Mahāmudrā with their twelve levels (phyag chen rnal 'byor bzhi)](../paths/mahamudra-four-yogas.md)
 
 ## Debates
 [Are the three vows (individual liberation, bodhisattva, mantra) one in essence, or distinct systems to be kept separately?](../debates/three-vows-one-essence.md)
@@ -49,4 +49,4 @@ One of the 'eight lesser' Kagyu schools founded by disciples of Phagmodrupa; est
 _Notes: Parent set to the Kagyu umbrella (not Phagdru) so that the school counts as its own root; its descent from Phagmodrupa is recorded under transmissions_received._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

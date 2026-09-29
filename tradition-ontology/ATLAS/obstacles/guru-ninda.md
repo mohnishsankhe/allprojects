@@ -11,4 +11,4 @@ Blame of the guru is condemned; through such a lapse the scripture fell into the
   - [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md) — ref: 16.54; rests_on: ["tea:kaulajnananirnaya:16.54-55"]
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:14 IST._

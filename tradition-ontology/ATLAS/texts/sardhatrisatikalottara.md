@@ -18,4 +18,4 @@ The 350-verse recension of the Kālottara, a compact Siddhānta scripture commen
 _Notes: GRETIL has a text of this recension (sardhatrisatikalottaragama)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._

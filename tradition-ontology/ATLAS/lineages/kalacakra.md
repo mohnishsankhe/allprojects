@@ -46,10 +46,10 @@ The last major Indian tantric system (11th c.), the 'Wheel of Time', which corre
 [Cheating death (mṛtyuvañcana)](../practices/cheating-death.md), [Deity yoga (generation-stage sādhana)](../practices/deity-yoga.md), [The six-branch yoga (ṣaḍaṅgayoga)](../practices/sadanga-yoga.md)
 
 ## Path maps
-`pth:kalacakra-six-branches`
+[The six-branch yoga (ṣaḍaṅga-yoga) of the Kālacakra](../paths/kalacakra-six-branches.md)
 
 ## Debates
 [Was the newly arrived Kālacakra to be accepted as authoritative, and the other tantras read in its light?](../debates/acceptance-of-the-kalacakra.md), [May celibate monastics receive the secret and wisdom consecrations?](../debates/higher-consecrations-for-monastics.md)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

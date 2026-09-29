@@ -53,4 +53,4 @@ concepts: [Garab Dorje's three statements that hit the vital point](../concepts/
 _Notes: Part of the 'last testaments' ('das rjes) collected in the Vima Nyingthig (from memory)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

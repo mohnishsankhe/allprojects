@@ -3,8 +3,8 @@
 `prc:sravana` · `sourced` · confidence high
 
 **Category:** inquiry
-**Convergence:** 3 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
-**Taught in:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
+**Convergence:** 4 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Taught in:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 
 Study of scripture and its right interpretation under a teacher. In Dvaita: hearing the true scriptures (Vedas, Mahābhārata, Pañcarātra, Purāṇas) with Madhva's commentaries so as to know Viṣṇu's supremacy, the five differences and gradation; the first principal means to knowledge, never to be curtailed.
 **Stage:** all (the lowest adhikārin qualifies by study and devotion)
@@ -16,11 +16,13 @@ Study of scripture and its right interpretation under a teacher. In Dvaita: hear
   - [Vedāntasāra](../texts/vedantasara.md) — ref: śravaṇa section; rests_on: ["tea:vedantasara:sravana"]
   - [Pañcapādikāvivaraṇa](../texts/pancapadika-vivarana.md) — ref: śravaṇa; rests_on: ["tea:pancapadika-vivarana:sravana"]
   - [Bṛhadāraṇyaka Upaniṣad](../texts/brhadaranyaka-upanisad.md) — ref: 2.4.5; 4.5.6; rests_on: ["tea:brhadaranyaka-upanisad:2.4.5", "tea:brhadaranyaka-upanisad:4.5.6"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 13.26; rests_on: ["tea:bhagavad-gita:13.26"]
 **Sequences:** [The Dvaita sequence of means (sādhana-krama)](../paths/dvaita-sadhana-krama.md), [The Advaita course of practice: purification → fourfold means → hearing, reflection, contemplation → liberation while living → bodiless liberation](../paths/advaita-sadhana.md)
 
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:13.26 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 2.4.5; BĀU 4.5.6). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:14 IST._

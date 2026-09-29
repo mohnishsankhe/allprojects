@@ -10,4 +10,4 @@
 Karmapa of the Rimé era, teacher and student of Jamgön Kongtrul and Jamyang Khyentse Wangpo.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

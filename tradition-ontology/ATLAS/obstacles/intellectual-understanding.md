@@ -12,4 +12,4 @@ Conceptual understanding taken for awakening; Huineng's rebuke of Shenhui as 'a 
   - [The Correct Path of the Seon School (Seonmun jeongno)](../texts/seonmun-jeongno.md) — ref: donodonsu; rests_on: ["tea:seonmun-jeongno:donodonsu"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen, skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen, skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

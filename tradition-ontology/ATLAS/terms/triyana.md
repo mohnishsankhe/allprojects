@@ -16,4 +16,4 @@
 **Related:** [ekayāna](ekayana.md), [gotra](gotra.md)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._

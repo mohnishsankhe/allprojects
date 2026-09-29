@@ -59,4 +59,4 @@ concepts: [The thirty-seven qualities conducive to awakening (bodhipakkhiyā dha
 _Notes: SuttaCentral uid dn27; Mahāsaṅgīti title 'Aggaññasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

@@ -26,4 +26,4 @@ Binding the mind to one place — navel wheel, heart-lotus, light in the head, t
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.12, tea:bhagavad-gita:8.12-13 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering) — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (KU 2.3.11; MaiU 6.18; MaiU 6.20; KU 2.3.10-11). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch07-09, skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch07-09, skeleton:U09-samkhya. Generated 2026-09-29 18:14 IST._

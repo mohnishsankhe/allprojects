@@ -20,4 +20,4 @@
 **Related:** [trivarga](trivarga.md), [bhoga](bhoga.md), [apavarga](apavarga.md), [pārārthya](pararthya.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U02-brahmana-vedanga, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U02-brahmana-vedanga, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

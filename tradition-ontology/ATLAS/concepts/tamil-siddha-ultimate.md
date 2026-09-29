@@ -17,4 +17,4 @@
 - same-as-under-standpoint → [Being–consciousness–bliss (sat-cit-ānanda)](sat-cit-ananda.md) (Tāyumāṉavar's samarasa): Tāyumāṉavar describes it as light, fullness of bliss and grace, close to the Vedāntic triad — rests on [ankinkenatapati](../texts/tayumanavar-padalgal.md#tea-tayumanavar-padalgal-ankinkenatapati)
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._

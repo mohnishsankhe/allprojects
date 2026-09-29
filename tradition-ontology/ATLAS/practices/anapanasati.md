@@ -26,4 +26,4 @@ Seated in a secluded place, body erect, mindfulness established, one breathes in
 - contested: [Breath-control (prāṇāyāma) in haṭha](pranayama.md) — both take the breath as object, but ānāpānasati observes the natural breath without retention; not the same practice
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._

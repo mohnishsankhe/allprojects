@@ -13,4 +13,4 @@ A Vaiṣṇava tantra on the worship of Rāma, cited by Bhāskararāya as a tant
   - kind: original; name: Muktabodha M00574; eBhāratī
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._

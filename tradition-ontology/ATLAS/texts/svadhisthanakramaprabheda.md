@@ -15,4 +15,4 @@
   - kind: translation; name: Derge Tengyur, Tōh 1805 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-tengyur
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

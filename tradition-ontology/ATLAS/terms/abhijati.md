@@ -17,4 +17,4 @@
 - analogous: [leśyā](lesya.md) — the Jain six colour-classes of soul (leśyā) are also six and colour-named; the texts draw no link
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

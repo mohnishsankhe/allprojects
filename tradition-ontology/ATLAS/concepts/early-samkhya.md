@@ -15,4 +15,4 @@
 _Notes: Refers to U05 (Mahābhārata, Gītā), U30 (Caraka), U03 (Upaniṣads); chapter refs recalled, not checked._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:14 IST._

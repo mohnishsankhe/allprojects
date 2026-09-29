@@ -13,4 +13,4 @@
 The root Kālacakra tantra of 12,000 verses said to have been taught at Dhānyakaṭaka; not extant as a whole — the Sekoddeśa and passages quoted in the Vimalaprabhā and Nāropa are presented as parts of it.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

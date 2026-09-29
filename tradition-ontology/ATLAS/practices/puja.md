@@ -20,4 +20,4 @@ Worship of the deity in an image, liṅga or yantra with offerings; one of the n
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:12.3.51-52, tea:bhagavata-purana:7.5.23-24 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas, skeleton:U08-agama-catalogue, skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U08-agama-catalogue, skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._

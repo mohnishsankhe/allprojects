@@ -12,4 +12,4 @@ Author to whom the Bhaiṣajyaratnāvalī is attributed.
 _Notes: Date uncertain._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._

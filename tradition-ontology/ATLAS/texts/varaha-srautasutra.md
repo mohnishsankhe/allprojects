@@ -15,4 +15,4 @@ The Śrauta manual of the Vārāha branch of the Maitrāyaṇīya Black Yajurved
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Vārāhaśrautasūtra, catalog:raw_etexts:varaha_shrauta_sutra, https://en.wikipedia.org/wiki/%C5%9Arauta — Low-confidence entry confirmed as extant; the Maitrāyaṇīya (Vārāha) Śrautasūtra.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

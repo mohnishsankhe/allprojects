@@ -10,4 +10,4 @@ Periods (usually seven days) of intensive zazen, interviews and talks in silence
 **Stage:** all
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

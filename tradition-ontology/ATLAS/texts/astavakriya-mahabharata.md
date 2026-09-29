@@ -27,4 +27,4 @@ _Notes: Printed as an 'Aṣṭāvakra Gītā' in three chapters in the 1896 Pañ
 
 - dating: CE 3.132-134 confirmed: Kahoḍa's curse 132.9-10; Aṣṭāvakra and Bandin at Janaka's sacrifice 132.20-134. The copied Mokṣadharma dating clause is replaced (Āraṇyakaparvan).
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._

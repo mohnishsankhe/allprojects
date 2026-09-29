@@ -945,4 +945,4 @@ teachers: [Vyāli](../teachers/vyalipa.md)
 _Notes: Read in full locally (Derge Tengyur vol. zhi, ff. 153a–158b)._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

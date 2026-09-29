@@ -22,6 +22,9 @@ Turning away from objects by seeing the faults of acquiring, guarding, losing, a
   - [Kaṭuveḷic cittar: Āṉantak kaḷippu (the Joy-song)](../texts/kaduveli-ananda-kalippu.md) — ref: 3; rests_on: ["tea:kaduveli-ananda-kalippu:3"]
   - [Pattirakiriyār: Meyññāṉap pulampal (lament for true knowledge)](../texts/bhadragiriyar-meynana-pulampal.md) — ref: 54; rests_on: ["tea:bhadragiriyar-meynana-pulampal:54"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.35; rests_on: ["tea:bhagavad-gita:6.35"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 13.8-12; rests_on: ["tea:bhagavad-gita:13.8-12"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 13.9; rests_on: ["tea:bhagavad-gita:13.9"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 15.3; rests_on: ["tea:bhagavad-gita:15.3"]
 **Sequences:** [The Sāṃkhya Sūtra's path of meditation and discrimination](../paths/samkhya-sutra-path.md), [Vācaspati's four stages of (lower) dispassion (TV 1.15)](../paths/vacaspati-four-stages-of-vairagya.md)
 
 ## The texts' own warnings
@@ -32,5 +35,6 @@ Turning away from objects by seeing the faults of acquiring, guarding, losing, a
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.35 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:13.8-12, tea:bhagavad-gita:13.9, tea:bhagavad-gita:15.3 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U22-tamil-siddha, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U22-tamil-siddha, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:14 IST._

@@ -26,4 +26,4 @@
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:linga-purana:1.8.1-9, tea:linga-purana:1.9.1-13, tea:linga-purana:1.9.52-56 — Stage refs located: LiP 1.8.8-11 (1.8.10 'ahiṃsā prathamo hetur yamasya'), 1.9.1-56. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._

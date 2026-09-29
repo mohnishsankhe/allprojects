@@ -15,4 +15,4 @@ Atiśa's letter of advice to King Nayapāla of Bengal.
   - kind: original; name: Derge Tengyur (Esukhia digital edition, public domain) — local in sources_raw/derge-tengyur, Tōh 4188; licence: public domain; url: https://github.com/Esukhia/derge-tengyur
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

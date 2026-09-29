@@ -17,4 +17,4 @@ The domestic-rite manual of the Baudhāyana Taittirīyas, with supplementary sec
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Baudhāyanagṛhyasūtra, https://en.wikipedia.org/wiki/Baudhayana_sutras — Low-confidence entry confirmed as extant (DCS).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

@@ -9,4 +9,4 @@
 Leader of a thousand matted-hair fire-worshipping ascetics at Uruvelā, converted with his brothers Nadī Kassapa and Gayā Kassapa; they heard the Fire Sermon at Gayāsīsa (Vin Mv 1.15–21).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

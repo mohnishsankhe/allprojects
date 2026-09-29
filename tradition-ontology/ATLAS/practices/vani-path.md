@@ -9,4 +9,4 @@
 Reading and singing the saint's collected utterances (Dādū Vāṇī; Amritbāṇī of Ravidās) in the panth's seats and gatherings, the book itself being honoured.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._

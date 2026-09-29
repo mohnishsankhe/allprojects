@@ -12,7 +12,7 @@ The instruction-series practice of spontaneous presence: relying on key points o
 **Sources:** 
   - [Yeshe Lama (ye shes bla ma, the Supreme Wisdom)](../texts/yeshe-lama.md) — ref: togal; rests_on: ["tea:yeshe-lama:togal"]
   - [Tegchok Dzöd (theg mchog rin po che'i mdzod, the Treasury of the Supreme Vehicle)](../texts/tegchok-dzod.md) — rests_on: ["tea:tegchok-dzod:trekcho-togal"]
-**Sequences:** `pth:dzogchen-four-visions`
+**Sequences:** [The four visions of Direct Crossing (thod rgal gyi snang ba bzhi)](../paths/dzogchen-four-visions.md)
 
 ## The texts' own warnings
 - Taught only to those stable in cutting through and only orally by a qualified master; practised without that foundation the visions become mere experiences. — [Yeshe Lama (ye shes bla ma, the Supreme Wisdom)](../texts/yeshe-lama.md) togal
@@ -21,4 +21,4 @@ The instruction-series practice of spontaneous presence: relying on key points o
 _Notes: RESTRICTED: no method recorded._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

@@ -12,4 +12,4 @@ Bhagavad Gītā 1–3: Those who cavil at Kṛṣṇa's teaching and do not foll
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 3.31, 3.32; rests_on: ["tea:bhagavad-gita:3.31", "tea:bhagavad-gita:3.32"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:14 IST._

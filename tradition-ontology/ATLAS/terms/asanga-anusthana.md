@@ -15,4 +15,4 @@
 - same-under-standpoint: [praśānta-vāhitā](prasanta-vahita.md) (Haribhadra's YDS (prabhā view)) — Equivalence asserted by Haribhadra himself; Pātañjala commentators do not make it.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._

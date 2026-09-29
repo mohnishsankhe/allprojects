@@ -16,4 +16,4 @@ Resolving that one becomes at death what one's resolve is, one meditates on the 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14) — ŚB 10.6.3 (Śāṇḍilya's teaching, 'sa kratumayo …') was found. This rests on confirmed teaching checks: tea:satapatha-brahmana:10.6.3.1-2.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

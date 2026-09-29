@@ -11,7 +11,7 @@ Seated in a suitable place with a suitable posture, the practitioner fixes the m
 **Sources:** 
   - [Bhāvanākrama](../texts/bhavanakrama.md) — ref: I; rests_on: ["tea:bhavanakrama:1/4", "tea:bhavanakrama:1/5"]
   - [Bodhicaryāvatāra](../texts/bodhicaryavatara.md) — ref: 8.1-4; rests_on: ["tea:bodhicaryavatara:8.1-4"]
-**Sequences:** `pth:nine-stages-calm-abiding`, [The stages of meditation (Kamalaśīla)](../paths/bhavanakrama-stages.md)
+**Sequences:** [The nine stages of settling the mind (navākārā cittasthiti) leading to calm abiding](../paths/nine-stages-calm-abiding.md), [The stages of meditation (Kamalaśīla)](../paths/bhavanakrama-stages.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._

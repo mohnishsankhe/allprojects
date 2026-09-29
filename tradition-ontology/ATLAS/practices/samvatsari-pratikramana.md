@@ -15,4 +15,4 @@ The longest form of confession, performed on the last day of Paryuṣaṇa: revi
 - partial: [Pratikramaṇa (repentance, 'turning back')](pratikramana.md) — the annual form of the daily and fortnightly confession
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

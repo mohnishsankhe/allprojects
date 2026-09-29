@@ -33,4 +33,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.30, tea:bhagavad-gita:10.33, tea:bhagavad-gita:11.25, tea:bhagavad-gita:11.32 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U01-vedic-samhitas, skeleton:U06-other-gitas, skeleton:U11-nyaya-vaisesika, skeleton:U17-pasupata-kapalika, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads, skeleton:U32-jyotisa, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U07-puranas, skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U01-vedic-samhitas, skeleton:U06-other-gitas, skeleton:U11-nyaya-vaisesika, skeleton:U17-pasupata-kapalika, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads, skeleton:U32-jyotisa, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U07-puranas, skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._

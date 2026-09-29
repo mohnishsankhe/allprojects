@@ -1,0 +1,88 @@
+{"id": "tea:bhagavad-gita:ch13", "status": "passed", "note": "Chapter entry checked against 13.1–35: movements, verse ranges and speakers right (Arjuna 13.1, Kṛṣṇa the rest); the order in which the six topics of 13.1 are answered is right; the knowable's paired predicates, the non-agency verses and the closing on the difference of field and knower are given as the verses state them, the commentators' identifications left out."}
+{"id": "tea:bhagavad-gita:13.1", "status": "passed", "note": "Paraphrase matches the six topics (prakṛti and puruṣa, field and knower, knowledge and the knowable); speaker Arjuna from the segment's speaker field; the extra verse (no vulgate number) is noted."}
+{"id": "tea:bhagavad-gita:13.2", "status": "passed", "note": "Paraphrase matches; both names are given as what others call them (abhidhīyate; prāhuḥ … tadvidaḥ); vulgate 13.1 noted. The fused heading 'bhagavānuvācaidaṃ' is kept in original as given."}
+{"id": "tea:bhagavad-gita:13.3", "status": "passed", "note": "Paraphrase keeps the verse's 'also' (api) and 'mataṃ mama'; the identity, self-of-the-knowers and distinctness readings are only in notes, labelled as recalled; vulgate 13.2 noted."}
+{"id": "tea:bhagavad-gita:13.4", "status": "passed", "note": "Paraphrase matches the announced topics; 'yataś ca yat' kept terse, Śaṅkara's gloss only in notes; vulgate 13.3 noted. The 'śrṛṇu' glitch is kept in original as given."}
+{"id": "tea:bhagavad-gita:13.5", "status": "fixed", "note": "Fixed: 'the words of the brahmasūtras, which give reasons and are decisive' pluralised the compound and let the adjectives attach to it, close to the 'words of the Brahma-sūtra' gloss the skeleton decision corrects, although the notes say the compound is left untranslated; now 'the brahmasūtra words (brahmasūtra-pada), which give reasons (hetumat) and are decisive (viniścita)', the adjectives agreeing with -pada as in the Sanskrit. Otherwise matches (continuation of 13.4; no finite verb); vulgate 13.4 noted. The 'viniśicataiḥ' glitch is kept in original as given."}
+{"id": "tea:bhagavad-gita:13.6", "status": "passed", "note": "Paraphrase matches the list; 'the one' left unnamed (manas only as the commentators'); the count of twenty-four only in notes, with no school named; vulgate 13.5 noted."}
+{"id": "tea:bhagavad-gita:13.7", "status": "passed", "note": "Paraphrase matches; cetanā as 'sentience', on the side of the field; Śaṅkara's explanation labelled as recalled; vulgate 13.6 noted."}
+{"id": "tea:bhagavad-gita:13.6-7", "status": "passed", "note": "Original is exactly segments 13.6 and 13.7 joined; the paraphrase agrees with both verse entries; the sentence entry is justified (13.6 is a list with no main clause; the span states the definition of the field); vulgate 13.5–6 noted."}
+{"id": "tea:bhagavad-gita:13.8", "status": "passed", "note": "Paraphrase matches the nine items; ātma-vinigraha read reflexively ('restraint of oneself'), Śaṅkara's gloss labelled as recalled; vulgate 13.7 noted."}
+{"id": "tea:bhagavad-gita:13.9", "status": "passed", "note": "Paraphrase matches (anahaṅkāra as 'absence of the sense of I', not 'ego'); the other division of the compound in notes; vulgate 13.8 noted."}
+{"id": "tea:bhagavad-gita:13.10", "status": "passed", "note": "Paraphrase matches; citta rendered 'thought'; asakti kept distinct from aśakti (trm:asakti not linked); the scope of 'son, wife, home' left open; vulgate 13.9 noted. The 'asakitar' glitch is kept in original as given."}
+{"id": "tea:bhagavad-gita:13.11", "status": "passed", "note": "Paraphrase matches; devotion to the speaker is counted among the marks of 'knowledge', as the verse does; the glosses of ananya-yoga only in notes; vulgate 13.10 noted. The 'bhakitar' glitch is kept in original as given."}
+{"id": "tea:bhagavad-gita:13.12", "status": "passed", "note": "Paraphrase matches the closing definition ('this is declared knowledge; what is other than this, ignorance'); Śaṅkara's gloss of the aim labelled as recalled; vulgate 13.11 noted."}
+{"id": "tea:bhagavad-gita:13.8-12", "status": "passed", "note": "Original is exactly segments 13.8–13.12 joined; the paraphrase agrees with the five verse entries; the usual count of twenty checked (the verses give no number); the sentence entry is justified (13.8–11 have no main clause; the span states the definition of knowledge); vulgate 13.7–11 noted."}
+{"id": "tea:bhagavad-gita:13.13", "status": "passed", "note": "Paraphrase gives both word divisions (anādimat paraṃ / anādi mat-paraṃ); 'neither sat nor asat' stated, not argued; the commentators labelled as recalled; cross-refs 9.19, 11.37 and ŚU 4.18 checked; vulgate 13.12 noted."}
+{"id": "tea:bhagavad-gita:13.14", "status": "passed", "note": "Paraphrase matches; the verse is ŚU 3.16 word for word (cross-ref checked); the construal of loke left open; vulgate 13.13 noted."}
+{"id": "tea:bhagavad-gita:13.15", "status": "passed", "note": "Paraphrase keeps each paired predicate; both readings of sarvendriya-guṇābhāsa and the two senses of guṇa in notes; asaktam linked to trm:asakta (unattached), not the homonym aśakti; vulgate 13.14 noted."}
+{"id": "tea:bhagavad-gita:13.16", "status": "passed", "note": "Paraphrase matches (avijñeya 'because of its subtlety'); the commentators' qualifications only in notes; Īśa 5 parallel checked; vulgate 13.15 noted."}
+{"id": "tea:bhagavad-gita:13.17", "status": "passed", "note": "Paraphrase matches; 'as if' (iva) qualifies the division only; vulgate 13.16 noted."}
+{"id": "tea:bhagavad-gita:13.18", "status": "passed", "note": "Paraphrase matches; tamas here darkness, not the guṇa; the parallels (MuU 2.2.9, BĀU 4.4.16, ŚU 3.8) and the cross-refs to 15.6, 15.12, 15.15 checked; vulgate 13.17 noted."}
+{"id": "tea:bhagavad-gita:13.19", "status": "passed", "note": "Paraphrase matches ('becomes fit for my state'); the readings of mad-bhāva in notes; vulgate 13.18 noted."}
+{"id": "tea:bhagavad-gita:13.20", "status": "passed", "note": "Paraphrase matches; whether these are the two prakṛtis of 7.4–5 is left open; vulgate 13.19 noted."}
+{"id": "tea:bhagavad-gita:13.21", "status": "passed", "note": "Paraphrase follows this edition's kārya-kāraṇa ('effect and cause'), the variant kārya-karaṇa and Śaṅkara's gloss in notes; vulgate 13.20 noted."}
+{"id": "tea:bhagavad-gita:13.22", "status": "passed", "note": "Paraphrase matches (the verse's own reason, hi; births in good and bad wombs); vulgate 13.21 noted."}
+{"id": "tea:bhagavad-gita:13.23", "status": "passed", "note": "Paraphrase matches the six epithets; upadraṣṭṛ as 'onlooker', not the commentators' 'witness'; maheśvara rightly not linked to trm:mahesvara (the homonym māheśvara); the readings of puruṣaḥ paraḥ labelled as recalled; vulgate 13.22 noted."}
+{"id": "tea:bhagavad-gita:13.24", "status": "passed", "note": "Paraphrase matches, 'however he may be living' kept unrestricted; the praise-reading candidate only in notes; vulgate 13.23 noted."}
+{"id": "tea:bhagavad-gita:13.25", "status": "passed", "note": "Paraphrase sets the three means side by side as the verse does; ātmani/ātmanā reflexive, ātmānam 'the self' as in 6.20 and 6.29, the other readings and Śaṅkara's gloss in notes; vulgate 13.24 noted."}
+{"id": "tea:bhagavad-gita:13.26", "status": "passed", "note": "Paraphrase matches ('not knowing in this way', 'they too cross death'); the two senses of śruti-parāyaṇa in notes; vulgate 13.25 noted."}
+{"id": "tea:bhagavad-gita:13.27", "status": "passed", "note": "Paraphrase matches; sattva here 'a being', not the guṇa; vulgate 13.26 noted."}
+{"id": "tea:bhagavad-gita:13.28", "status": "passed", "note": "Paraphrase matches ('he sees'); cross-refs 6.29–30, 8.20 and Kaṭha 2.2.13 checked; vulgate 13.27 noted."}
+{"id": "tea:bhagavad-gita:13.29", "status": "passed", "note": "Paraphrase matches; ātmanātmānam read reflexively ('oneself by oneself'); Īśa 3 and 6.5 checked; vulgate 13.28 noted."}
+{"id": "tea:bhagavad-gita:13.30", "status": "passed", "note": "Paraphrase matches; 'one's self' covers the reflexive and the non-reflexive reading of ātmānam akartāram, as the notes say; vulgate 13.29 noted."}
+{"id": "tea:bhagavad-gita:13.31", "status": "passed", "note": "Paraphrase matches (the one not named; brahma sampadyate); vulgate 13.30 noted."}
+{"id": "tea:bhagavad-gita:13.32", "status": "passed", "note": "Paraphrase keeps the verse's reasons (anāditvāt, nirguṇatvāt) and 'neither acts nor is stained'; vulgate 13.31 noted."}
+{"id": "tea:bhagavad-gita:13.33", "status": "passed", "note": "Paraphrase matches the simile; the three construals of 'sarvatrāvasthito dehe' in notes; vulgate 13.32 noted."}
+{"id": "tea:bhagavad-gita:13.34", "status": "passed", "note": "Paraphrase matches; kṣetrin kept as 'possessor of the field'; vulgate 13.33 noted."}
+{"id": "tea:bhagavad-gita:13.35", "status": "passed", "note": "Paraphrase matches; both analyses of bhūta-prakṛti-mokṣa in notes, Śaṅkara's gloss labelled as recalled; vulgate 13.34 noted."}
+{"id": "tea:bhagavad-gita:ch14", "status": "passed", "note": "Chapter entry checked against 14.1–27: movements, ranges and speakers right (Arjuna 14.21); 'the guṇas' effects' at 14.22 rests on 14.11–13, where prakāśa, pravṛtti and moha are the signs of the three guṇas; the apposition at 14.27 left as ambiguous as the verse."}
+{"id": "tea:bhagavad-gita:14.1", "status": "passed", "note": "Paraphrase matches (praise joined to the stated result); ito left open. The fused heading is kept in original as given."}
+{"id": "tea:bhagavad-gita:14.2", "status": "passed", "note": "Paraphrase keeps the literal 'same nature (dharma)'; the identity and likeness readings labelled as recalled."}
+{"id": "tea:bhagavad-gita:14.3", "status": "passed", "note": "Paraphrase matches; 'great brahman' left as the verse names it, the identification with prakṛti only as the commentators' (recalled); garbha as 'embryo'."}
+{"id": "tea:bhagavad-gita:14.4", "status": "passed", "note": "Paraphrase matches; cross-refs 7.10 and 9.17 checked."}
+{"id": "tea:bhagavad-gita:14.5", "status": "passed", "note": "Paraphrase matches."}
+{"id": "tea:bhagavad-gita:14.6", "status": "passed", "note": "Paraphrase matches (even sattva binds, through attachment)."}
+{"id": "tea:bhagavad-gita:14.7", "status": "passed", "note": "Paraphrase keeps tṛṣṇā-saṅga-samudbhava open ('bound up with the arising of'), both analyses in notes."}
+{"id": "tea:bhagavad-gita:14.8", "status": "passed", "note": "Paraphrase matches."}
+{"id": "tea:bhagavad-gita:14.9", "status": "passed", "note": "Paraphrase matches."}
+{"id": "tea:bhagavad-gita:14.10", "status": "passed", "note": "Paraphrase matches; the elliptical second line completed from the first, as the notes say."}
+{"id": "tea:bhagavad-gita:14.11", "status": "passed", "note": "Paraphrase matches; dvāra not linked to trm:dvara (the Pāśupata term), the commentators' 'faculties' only in notes."}
+{"id": "tea:bhagavad-gita:14.12", "status": "passed", "note": "Paraphrase matches the five signs."}
+{"id": "tea:bhagavad-gita:14.13", "status": "passed", "note": "Paraphrase matches the four signs."}
+{"id": "tea:bhagavad-gita:14.14", "status": "passed", "note": "Paraphrase matches; pralaya here death, as the notes say."}
+{"id": "tea:bhagavad-gita:14.15", "status": "passed", "note": "Paraphrase matches; 'deluded wombs' left unspecified (animal births only as the commentators')."}
+{"id": "tea:bhagavad-gita:14.16", "status": "passed", "note": "Paraphrase matches, reported as 'they say' (āhuḥ)."}
+{"id": "tea:bhagavad-gita:14.17", "status": "passed", "note": "Paraphrase matches."}
+{"id": "tea:bhagavad-gita:14.18", "status": "passed", "note": "Paraphrase matches; the realms are not named by the verse, the commentators' identification only in notes."}
+{"id": "tea:bhagavad-gita:14.19", "status": "passed", "note": "Paraphrase matches; the object of 'knows what is higher than the guṇas' left unnamed; cross-refs 3.27–28 and 13.30 checked."}
+{"id": "tea:bhagavad-gita:14.20", "status": "passed", "note": "Paraphrase keeps deha-samudbhava open; cross-refs 13.9 and 13.13 are this edition's numbering, checked against the segments."}
+{"id": "tea:bhagavad-gita:14.21", "status": "passed", "note": "Paraphrase matches the three questions; speaker Arjuna from the fused heading. The fused heading and 'liṃgais' are kept in original as given."}
+{"id": "tea:bhagavad-gita:14.22", "status": "passed", "note": "Paraphrase matches, construed as its own sentence (finite verbs), the other construal in notes. The fused heading is kept in original as given."}
+{"id": "tea:bhagavad-gita:14.23", "status": "passed", "note": "Paraphrase matches (relative clauses completed in 14.25); cross-ref 3.28 checked."}
+{"id": "tea:bhagavad-gita:14.24", "status": "passed", "note": "Paraphrase matches; svastha and ātma-saṃstuti read reflexively; cross-refs 6.8 and 12.18–19 checked."}
+{"id": "tea:bhagavad-gita:14.25", "status": "passed", "note": "Paraphrase matches the main clause 'guṇātītaḥ sa ucyate'; cross-ref 12.16 checked."}
+{"id": "tea:bhagavad-gita:14.23-25", "status": "passed", "note": "Original is exactly segments 14.23–14.25 joined; the paraphrase agrees with the three verse entries; the sentence entry is justified (14.23 relative clauses, 14.24 attributes, main clause in 14.25) and the exclusion of 14.22 is explained."}
+{"id": "tea:bhagavad-gita:14.26", "status": "passed", "note": "Paraphrase matches (sevate 'serves'; brahmabhūyāya kalpate). The 'bhakitayogena' glitch is kept in original as given; cross-ref 18.53 awaits ch. 16–18."}
+{"id": "tea:bhagavad-gita:14.27", "status": "passed", "note": "Paraphrase matches; the apposition of amṛta/avyaya and the commentators' readings of brahman and pratiṣṭhā only in notes, labelled as recalled."}
+{"id": "tea:bhagavad-gita:ch15", "status": "passed", "note": "Chapter entry checked against 15.1–20: movements and ranges right, Kṛṣṇa throughout; the tree not called saṃsāra; the three puruṣas as the verses state them."}
+{"id": "tea:bhagavad-gita:15.1", "status": "passed", "note": "Paraphrase matches ('they speak of'); the tree is not called saṃsāra (only the commentators do); Kaṭha 2.3.1 checked. The fused heading is kept in original as given."}
+{"id": "tea:bhagavad-gita:15.2", "status": "passed", "note": "Paraphrase matches; the two senses of karmānubandhin in notes."}
+{"id": "tea:bhagavad-gita:15.3", "status": "passed", "note": "Paraphrase matches; the absolutive chittvā completed in 15.4. The word split across the pāda break ('suvirūḍhamūla    masaṅga-') is kept in original as given."}
+{"id": "tea:bhagavad-gita:15.4", "status": "passed", "note": "Paraphrase matches; who speaks 'prapadye' left open in notes. 'parimārgitavya' (anusvāra missing) is kept in original as given."}
+{"id": "tea:bhagavad-gita:15.5", "status": "passed", "note": "Paraphrase matches; adhyātma-nitya cross-read with 13.12. The word split across the pāda break ('saṃjñai    rgacchanty-') is kept in original as given."}
+{"id": "tea:bhagavad-gita:15.6", "status": "passed", "note": "Paraphrase matches; the parallels (KaU 2.2.15, MuU 2.2.10, ŚU 6.14) and 8.21 checked."}
+{"id": "tea:bhagavad-gita:15.7", "status": "passed", "note": "Paraphrase matches ('a portion of me', not 'of brahman'); the readings of aṃśa labelled as recalled; BS 2.3.43 and 7.5 checked."}
+{"id": "tea:bhagavad-gita:15.8", "status": "passed", "note": "Paraphrase matches; īśvara here the embodied portion of 15.7, not the Lord of 15.17, as the notes say."}
+{"id": "tea:bhagavad-gita:15.9", "status": "passed", "note": "Paraphrase matches."}
+{"id": "tea:bhagavad-gita:15.10", "status": "passed", "note": "Paraphrase matches; cross-ref 13.35 (jñāna-cakṣus) is this edition's numbering, checked."}
+{"id": "tea:bhagavad-gita:15.11", "status": "fixed", "note": "Fixed: acetas was 'without awareness', and the notes followed the ch10-12 'awareness' rendering of cetas; the Gītā convention renders citta/cetas as 'thought' (as trm:cetas here does), so now 'without thought (acetas)'. Otherwise matches; ātmani and akṛtātman read reflexively."}
+{"id": "tea:bhagavad-gita:15.12", "status": "passed", "note": "Paraphrase matches; cross-refs 7.8–9 checked."}
+{"id": "tea:bhagavad-gita:15.13", "status": "passed", "note": "Paraphrase matches; soma left as the verse names it (the moon only as the commentators')."}
+{"id": "tea:bhagavad-gita:15.14", "status": "passed", "note": "Paraphrase matches; prāṇa and apāna untranslated; the four kinds of food only as the commentators'; BĀU 5.9.1 checked."}
+{"id": "tea:bhagavad-gita:15.15", "status": "passed", "note": "Paraphrase matches; apohana and vedānta-kṛt left literal, their readings labelled as recalled; parallels ŚU 3.13 and KaU 2.3.17 checked."}
+{"id": "tea:bhagavad-gita:15.16", "status": "passed", "note": "Paraphrase matches; what the akṣara is left open, the three readings labelled as recalled (see the dispute)."}
+{"id": "tea:bhagavad-gita:15.17", "status": "passed", "note": "Paraphrase matches ('another'); ŚU 1.8–10 checked."}
+{"id": "tea:bhagavad-gita:15.18", "status": "passed", "note": "Paraphrase matches the argued statement (yasmāt … ataḥ); MuU 2.1.2 checked."}
+{"id": "tea:bhagavad-gita:15.19", "status": "passed", "note": "Paraphrase matches; knowing and worshipping joined as in the verse."}
+{"id": "tea:bhagavad-gita:15.20", "status": "passed", "note": "Paraphrase matches (praise and stated result); cross-ref 18.64 awaits ch. 16–18."}

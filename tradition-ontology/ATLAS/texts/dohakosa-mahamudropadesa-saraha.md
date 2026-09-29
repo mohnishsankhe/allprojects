@@ -17,4 +17,4 @@ A further Dohākoṣa ascribed to 'the great Śavaripa-Saraha', a mahāmudrā in
 _Notes: Colophon read locally: 'dpal ri khrod pa chen po sa ra ha'._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

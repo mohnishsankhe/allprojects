@@ -26,4 +26,4 @@ The Śvetāmbara five-with-subdivisions yields the same seven; all lists reduce 
 **The traditions' own objections:** Siddhasena's reported refusal to count naigama as a separate standpoint (recalled, low confidence) is a substantive disagreement not erased by this reconciliation.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._

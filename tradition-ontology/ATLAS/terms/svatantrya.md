@@ -15,4 +15,4 @@
 - partial: [vimarśa](vimarsa.md) — ĪPK 1.5.13 identifies reflexive awareness as the primary freedom
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._

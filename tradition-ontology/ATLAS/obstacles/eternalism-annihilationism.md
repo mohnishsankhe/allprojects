@@ -13,4 +13,4 @@
   - [Mūlamadhyamakakārikā](../texts/mulamadhyamakakarika.md) — ref: 15.10-11; 21.14; rests_on: ["tea:mulamadhyamakakarika:15.10", "tea:mulamadhyamakakarika:15.11", "tea:mulamadhyamakakarika:21.14"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._

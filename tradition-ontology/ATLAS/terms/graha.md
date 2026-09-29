@@ -17,4 +17,4 @@
 _Notes: Homonym: in Jyotiṣa, a planet._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._

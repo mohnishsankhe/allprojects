@@ -13,4 +13,4 @@ Reflecting like looking in a mirror whether a bodily, verbal or mental act harms
   - [Ambalaṭṭhikārāhulovāda Sutta](../texts/ambalatthikarahulovada-sutta.md) — ref: 8-18; rests_on: ["tea:ambalatthikarahulovada-sutta:8-18"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

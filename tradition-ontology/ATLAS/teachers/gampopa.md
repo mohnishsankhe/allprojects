@@ -21,4 +21,4 @@ Physician of Dakpo who, after his wife's death, became a Kadampa monk and then M
 _Notes: His Kadam teachers (e.g. Geshe Nyukrumpa, Jayulwa) are not given ids here._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

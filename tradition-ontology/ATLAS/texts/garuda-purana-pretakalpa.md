@@ -22,4 +22,4 @@ _Notes: Chapter topics (from the colophons of the local e-text): 1 questions; 2 
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_garuDapurANa.txt (Venkateshwara ed.) 2.1-2.49 — Confirmed in the local Venkateshwara text: Uttarakhaṇḍa second aṃśa (dharmakāṇḍa, pretakalpa) with 49 chapters; chapter titles in the entry's notes spot-checked (8 ātmaśrāddha, 11 openings, 12 dharma alone follows, 21 dreams, 22 pretas with Bhīṣma, 36 death by fasting). The '35 chapters in other editions' was not verified.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._

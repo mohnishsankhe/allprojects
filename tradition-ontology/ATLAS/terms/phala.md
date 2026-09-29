@@ -23,4 +23,4 @@
 **Related:** [karmaphala](karmaphala.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools, skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools, skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

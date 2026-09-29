@@ -30,6 +30,13 @@ Delusion, born of anger (BhG 2.63) and of the pairs of opposites (7.27), by whic
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 11.49; rests_on: ["tea:bhagavad-gita:11.49"]
   - [Śivasūtra](../texts/siva-sutra.md) — ref: 3.6; rests_on: ["tea:siva-sutra:3.6"]
   - [Śivasūtra](../texts/siva-sutra.md) — ref: 3.35; rests_on: ["tea:siva-sutra:3.35"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.8; rests_on: ["tea:bhagavad-gita:14.8"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.13; rests_on: ["tea:bhagavad-gita:14.13"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.17; rests_on: ["tea:bhagavad-gita:14.17"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.22; rests_on: ["tea:bhagavad-gita:14.22"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 15.5; rests_on: ["tea:bhagavad-gita:15.5"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 15.10; rests_on: ["tea:bhagavad-gita:15.10"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 15.19; rests_on: ["tea:bhagavad-gita:15.19"]
 
 _Notes: U05's contribution to a shared obstacle._
 
@@ -39,5 +46,6 @@ _Notes: U05's contribution to a shared obstacle._
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.13, tea:bhagavad-gita:7.15, tea:bhagavad-gita:7.25, tea:bhagavad-gita:7.27, tea:bhagavad-gita:8.27, tea:bhagavad-gita:9.11, tea:bhagavad-gita:9.12 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.35, tea:bhagavad-gita:5.15, tea:bhagavad-gita:5.20 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.3, tea:bhagavad-gita:10.4, tea:bhagavad-gita:11.1, tea:bhagavad-gita:11.49 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:14.8, tea:bhagavad-gita:14.13, tea:bhagavad-gita:14.17, tea:bhagavad-gita:14.22, tea:bhagavad-gita:15.5, tea:bhagavad-gita:15.10, tea:bhagavad-gita:15.19 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U19-kashmir-saivism, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:14 IST._

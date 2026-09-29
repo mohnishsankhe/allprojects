@@ -10,4 +10,4 @@ The bodhisattva of wisdom, 'ever-youthful' (kumārabhūta): visits Vimalakīrti 
 **Realization — the tradition's account (as a figure of the sūtras):** A bodhisattva who in the Śūraṅgamasamādhi-sūtra is revealed to have been a buddha in the past; Wutaishan in China is his abode (Chinese tradition).
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._

@@ -30,4 +30,4 @@
 **Candidate readings:** P2-standpoint: Shinran relocates bodhicitta to the Buddha's side, where Myōe's requirement and Hōnen's selection might both hold; P4-stage: bodhicitta as required for higher grades only (Senchakushū's parallel reading)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._

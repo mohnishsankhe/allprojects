@@ -13,4 +13,4 @@
 Sixteenth-century bilingual Siddhānta scholar of the Tamil country who wrote in Sanskrit (the Śaivaparibhāṣā; a commentary on the Sanskrit Śivajñānabodha) and in Tamil (a commentary on the Civañāṉa Cittiyār).
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._

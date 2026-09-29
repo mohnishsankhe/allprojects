@@ -14,4 +14,4 @@
 - opposes → [The efficacy of action (kiriyavāda / kammavāda)](kiriyavada-kammavada.md) — rests on [5-12](../texts/apannaka-sutta.md#tea-apannaka-sutta-5-12)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

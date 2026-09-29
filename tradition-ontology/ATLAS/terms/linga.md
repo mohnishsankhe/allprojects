@@ -13,6 +13,7 @@
 - [Nyāya](../lineages/nyaya.md): A mark from which something is known; desire and the rest are marks of the self (NS 1.1.10).
 - [Vaiśeṣika](../lineages/vaisesika.md): Mark; synonymous with hetu, apadeśa, nimitta, pramāṇa, kāraṇa (VS 9.20 Candrānanda).
 - [Navya-Nyāya](../lineages/navya-nyaya.md): Three kinds: with positive and negative concomitance, positive only, negative only.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: Arjuna asks by what marks (liṅgaiḥ) the one gone beyond the three guṇas is known (14.21); the marks are given in 14.22–25.
 - [Śaiva Siddhānta](../lineages/saiva-siddhanta.md): The aniconic form of Śiva used in worship; the Kāmika distinguishes self-manifest, divine, bāṇa, sages' and man-installed liṅgas, and the liṅga given by the guru at initiation.
 
 ## Forms in other languages
@@ -23,4 +24,8 @@
 **Related:** [iṣṭaliṅga](istalinga.md), [prāṇaliṅga](pranalinga.md), [bhāvaliṅga](bhavalinga.md), [aṅga](anga.md), [liṅga-śarīra](linga-sarira.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U09-samkhya, skeleton:U07-puranas, skeleton:U11-nyaya-vaisesika, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:14.21 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U20-virasaiva, skeleton:U09-samkhya, skeleton:U07-puranas, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch13-15, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._

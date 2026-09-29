@@ -13,4 +13,4 @@
 The analysis of the nuns' rules, especially those not shared with monks (e.g. the four additional pārājikas).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

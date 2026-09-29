@@ -25,4 +25,4 @@ Selective uptake, as pigeons each take their own grain from the threshing floor 
 _Notes: Recalled from the commentarial tradition (Cakrapāṇi and later); the base text Ca Ci 15.15-21 (checked in the local e-text) states only that each tissue is cooked by its fire into essence and waste, and that some hold the cycle takes six days._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._

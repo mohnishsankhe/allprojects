@@ -13,6 +13,7 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The complementary breath to prāṇa in the Gītā's breath-sacrifice (BhG 4.29) and equalization (5.27).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: One of the two paired breaths: some offer prāṇa into apāna and apāna into prāṇa (4.29); prāṇa and apāna moving within the nostrils are to be made even (5.27). The chapters do not define the direction of each.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The downward (or out-) breath; in PrU 3.5 it is in the organs of excretion and generation; the navel's function whose deity is death (AU 1.1.4).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: Joined with prāṇa and apāna, the Lord as vaiśvānara digests the fourfold food (15.14).
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): Out-breath, named with prāṇa in the Saṃhitā lists of breaths (TS 4.7; AVŚ 8.1, 15.16).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The downward breath, seated at the anus.
 
@@ -25,5 +26,6 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.29, tea:bhagavad-gita:5.27 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:15.14 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U09-samkhya, skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U09-samkhya, skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch13-15, skeleton:U01-vedic-samhitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:14 IST._

@@ -26,4 +26,4 @@ _Notes: Homonym in Rasa Śāstra: 'vāda' = alchemy (dhātuvāda)._
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.32 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U11-nyaya-vaisesika, skeleton:U15-dvaita, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U11-nyaya-vaisesika, skeleton:U15-dvaita, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 18:14 IST._

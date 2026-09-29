@@ -24,4 +24,4 @@ The book of Karṇa: the battle under Karṇa; includes Kṛṣṇa's teaching t
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_8.json (BORI Critical Edition text) book 8: 69 chapters — Book 8 has exactly 69 chapters in the local Critical Edition text, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._

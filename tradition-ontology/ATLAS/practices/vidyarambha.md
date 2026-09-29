@@ -22,4 +22,4 @@ Beginning the learning of the alphabet, a later addition to the lists.
 
 - sources: Neither cited source has the rite: MDh 2.26–35 has no vidyārambha, and ĀśGS book 1 has none. The practice is confirmed. The Dharmasindhu (pariccheda 3) has 'atha vidyārambhaḥ | pañcame varṣe akṣaralekhanārambha uttarāyaṇe kāryaḥ', and the Nirṇayasindhu (3, pūrvārdha) has 'pañcame 'bde vidyārambhaḥ'. Arthaśāstra 1.5.7 already has the learning of script and numbers after the tonsure ('vṛttacaulakarmā lipiṃ saṃkhyānaṃ copayuñjīta'). Correction: the sources are replaced by these texts.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

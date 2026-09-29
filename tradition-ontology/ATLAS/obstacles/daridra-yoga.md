@@ -11,4 +11,4 @@ Configurations of the wealth and gain houses and their lords that bring poverty 
   - [Bṛhat Parāśara Horā Śāstra](../texts/brhat-parasara-hora-sastra.md) — ref: 42
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._

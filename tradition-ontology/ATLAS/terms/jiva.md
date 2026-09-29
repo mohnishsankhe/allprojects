@@ -13,6 +13,7 @@
 - [Bhāmatī school (Bhāmatī-prasthāna)](../lineages/bhamati.md): Brahman delimited by the inner organ; the locus of ignorance.
 - [Vīraśaiva / Liṅgāyata](../lineages/virasaiva.md): A part of the formless Śiva through connection with beginningless ignorance, in whom Śiva abides as fire in the sunstone (SSM 5.34–36); at the prāṇaliṅgi stage the breath is the jīva and the great liṅga brahman (12.21–24).
 - [Āyurveda](../lineages/ayurveda.md): Lineage contribution (Āyurveda): the inner self of the embryo, eternal, unaging, deathless, that enters the womb through its connection with mind and 'produces itself' as the embryo (Ca Śā 3.3, 3.8).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 15.7: an eternal portion of Kṛṣṇa, become the living being (jīvabhūta) in the world of the living, draws the senses; 15.8–11 describe it taking a body, leaving it, enjoying objects: the deluded do not see it; those with the eye of knowledge, and yogins who strive, see it.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The living being: the Lord's higher nature has become the life-element (BhG 7.5), and an eternal portion of him becomes the jīva (15.7); the living self in the body whose existence Bhṛgu defends (MBh 12.175–185).
 - [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md): The jīva is Saṃkarṣaṇa, arising from Vāsudeva (Nārāyaṇīya 12.326.38).
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): The individual self: eternal, atomic, a knower by nature and possessing attributive consciousness, agent and enjoyer dependent on the Lord, essentially his servant (śeṣa); countless in number.
@@ -31,7 +32,11 @@
 - Prakrit: jīva  — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [ātman](atman.md), [īśvara](isvara.md), [upādhi](upadhi.md), [aṅga](anga.md), [aṃśa](amsa.md), [Saṃkarṣaṇa](samkarsana.md), [ajīva](ajiva-jain.md), [upayoga](upayoga.md), [pratibimba](pratibimba.md), [svarūpa-yogyatā](svarupa-yogyata.md)
+**Related:** [ātman](atman.md), [īśvara](isvara.md), [upādhi](upadhi.md), [aṅga](anga.md), [aṃśa](amsa.md), [jīvaloka](jivaloka.md), [Saṃkarṣaṇa](samkarsana.md), [ajīva](ajiva-jain.md), [upayoga](upayoga.md), [pratibimba](pratibimba.md), [svarūpa-yogyatā](svarupa-yogyata.md)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U20-virasaiva, skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U14-visistadvaita, skeleton:U23-sakta-srividya, skeleton:U33-sramana, skeleton:U24-kali-kaula, skeleton:U35-jain-philosophy, skeleton:U15-dvaita, skeleton:U02-brahmana-vedanga, skeleton:U27-sant-baul, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+**Verification checks**
+
+- 2026-09-29 text: corrected — tea:bhagavad-gita:15.7, tea:bhagavad-gita:15.8, tea:bhagavad-gita:15.9, tea:bhagavad-gita:15.10 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U20-virasaiva, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic, skeleton:U14-visistadvaita, skeleton:U23-sakta-srividya, skeleton:U33-sramana, skeleton:U24-kali-kaula, skeleton:U35-jain-philosophy, skeleton:U15-dvaita, skeleton:U02-brahmana-vedanga, skeleton:U27-sant-baul, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

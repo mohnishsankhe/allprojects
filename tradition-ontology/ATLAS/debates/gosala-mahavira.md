@@ -30,4 +30,4 @@ Gosāla was Maṅkhali's son and Mahāvīra's disciple for six years; he falsely
 **Queue:** RQ-U33-6
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

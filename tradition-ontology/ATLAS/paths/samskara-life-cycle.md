@@ -34,4 +34,4 @@ A life-cycle of rites rather than a soteriological path; bands are given only wh
 
 - 2026-09-29 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/gautama-dharmasutra.md (GRETIL, Stenzler n — MDh 2.26–28 and GDh 8.14–25 were text-located. Stages 1–16 are the common sixteen (Wikipedia Saṃskāra). Stage 17, sapiṇḍīkaraṇa, is at YS 1.253–255 and ViSmṛ 21.19–23. The stages marked 'later lists' (karṇavedha, vidyārambha) are in the Nirṇayasindhu and Dharmasindhu (see prc:karnavedha, prc:vidyarambha). The note that lists vary is borne out by Vyāsa's differing sixteen (see cpt:samskaras).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

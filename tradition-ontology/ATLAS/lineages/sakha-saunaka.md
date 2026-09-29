@@ -38,4 +38,4 @@ _Notes: Status of living recitation from memory; to be checked._
 
 - 2026-09-28 websearch: confirmed — https://ochs.org.uk/lecture/attempts-towards-preservation-and-revival-of-atharvaveda/ — Confirmed: studied mostly in Gujarat, Maharashtra (and Uttar Pradesh); declining and partly revived tradition — as the entry says.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._

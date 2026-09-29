@@ -14,4 +14,4 @@
 Sahajiyā teacher to whom the Amṛtaratnāvalī and Bhṛṅgaratnāvalī are attributed; claimed by Sahajiyās as a disciple of Kṛṣṇadāsa Kavirāja.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._

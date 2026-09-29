@@ -15,4 +15,4 @@
 - opposes → [The five hindrances](five-hindrances.md) — rests on [12-21](../texts/sabbasava-sutta.md#tea-sabbasava-sutta-12-21), [15.2-15.4](../texts/anapanasati-sutta.md#tea-anapanasati-sutta-15-2-15-4)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

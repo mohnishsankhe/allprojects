@@ -19,4 +19,4 @@
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/parasara-smrti_plain_text.md (GRETIL), tex — The definition's cited passages were all checked in this sweep and support it: tea:manusmrti:1.81-86 (confirmed); tea:parasarasmrti:1.24 (confirmed); tea:naradasmrti:m1.1-2 (confirmed).
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:12.3.51-52, tea:visnu-purana:6.2.17 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

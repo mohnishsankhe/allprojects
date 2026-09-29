@@ -25,4 +25,4 @@ Sulabhā: one still attached to royal insignia, possessions and power is not fre
 _Notes: Details of the argument summarized from memory apart from 12.308.7 and 12.308.16 (checked)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._

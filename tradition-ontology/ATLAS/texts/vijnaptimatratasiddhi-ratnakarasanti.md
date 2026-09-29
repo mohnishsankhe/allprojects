@@ -17,4 +17,4 @@ A short proof of cognition-only extant in Tibetan; attributed (from memory) to R
 _Notes: Author attribution from memory — to be checked against the Tengyur colophon._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

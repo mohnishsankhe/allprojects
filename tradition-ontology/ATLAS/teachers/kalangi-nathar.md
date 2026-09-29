@@ -13,4 +13,4 @@ Siddhar named in TM 69 among Tirumūlar's disciples in the mantra-lineage; later
 _Notes: TM 69 (checked locally) names 'Kālāṅki'; the guru-of-Bogar link is the later tradition's._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._

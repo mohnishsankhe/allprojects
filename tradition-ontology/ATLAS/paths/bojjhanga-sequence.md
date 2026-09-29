@@ -20,4 +20,4 @@
 A sequence stated by the sutta itself ('each arises from the preceding'); the factors are also developed together.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:14 IST._

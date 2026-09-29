@@ -15,4 +15,4 @@
 Bhartṛhari's commentary on Patañjali's Mahābhāṣya, the earliest known, surviving in a single damaged manuscript that covers only part of the first book of Pāṇini.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._

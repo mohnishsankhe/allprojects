@@ -14,4 +14,4 @@ Letting the mind rest without object, with a steady gaze that fixes on nothing, 
   - [Yogatārāvalī](../texts/yogataravali.md) — rests_on: ["tea:yogataravali:topic.amanaska"]
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._

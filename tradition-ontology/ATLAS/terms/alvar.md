@@ -17,4 +17,4 @@
 _Notes: Tradition's etymology from āḻ- 'to be immersed'; some modern scholars derive it from āḷvār 'rulers' — recorded as a scholarly alternative only._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._

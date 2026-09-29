@@ -6350,6 +6350,24 @@
      "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     },
     {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:13.1",
+      "tea:bhagavad-gita:14.21",
+      "tea:bhagavad-gita:13.2",
+      "tea:bhagavad-gita:13.27",
+      "tea:bhagavad-gita:14.5",
+      "tea:bhagavad-gita:14.6",
+      "tea:bhagavad-gita:14.13",
+      "tea:bhagavad-gita:14.22"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
      "phase": "C",
      "date": "2026-09-29",
      "method": "text-locate",
@@ -6374,7 +6392,8 @@
    "Son of Pāṇḍu and Kuntī, bearer of the bow Gāṇḍīva and the conch Devadatta (1.15, 1.30); the disciple of the Gītā. In ch. 1–3 he sees his kin in both armies, is overcome by compassion and despondency, argues against the battle and says he will not fight (1.28–2.9), declares himself Kṛṣṇa's disciple (2.7), and asks about the one of steady wisdom (2.54), why action is urged if understanding is superior (3.1–2), and what drives a person to sin (3.36).",
    "The addressee of BhG 4–6 (so called by the vocatives Pārtha, Kaunteya, Bhārata, Parantapa, Mahābāho, Dhanañjaya, Pāṇḍava, Kurusattama, Kurunandana). He receives the ancient yoga as the Lord's devotee and friend (4.3); he asks how the Lord could have taught Vivasvat (4.4), which is better, renunciation or yoga (5.1), how the restless mind can be steadied (6.33–34), and what becomes of one who falls from yoga (6.37–39).",
    "In BhG 7–9 the addressee; he asks the seven questions of 8.1–2 (Brahman, adhyātma, karma, adhibhūta, adhidaiva, adhiyajña, knowing the Lord at death) and is told to remember Kṛṣṇa and fight (8.7).",
-   "In BhG 10–12 he acknowledges Kṛṣṇa as the supreme brahman (10.12), asks to hear his manifestations and to see his sovereign form (10.16–18, 11.3–4), receives the divine eye, describes and praises the universal form in fear and wonder (11.15–46), asks forgiveness for past familiarity (11.41–42), and asks which worshippers know yoga best (12.1); named by the Lord among his manifestations ('Dhanañjaya among the Pāṇḍavas', 10.37)."
+   "In BhG 10–12 he acknowledges Kṛṣṇa as the supreme brahman (10.12), asks to hear his manifestations and to see his sovereign form (10.16–18, 11.3–4), receives the divine eye, describes and praises the universal form in fear and wonder (11.15–46), asks forgiveness for past familiarity (11.41–42), and asks which worshippers know yoga best (12.1); named by the Lord among his manifestations ('Dhanañjaya among the Pāṇḍavas', 10.37).",
+   "Kṛṣṇa's disciple and interlocutor in the Bhagavad Gītā. In chapters 13–15 he asks about prakṛti and puruṣa, the field and its knower, knowledge and the knowable (13.1, in editions with that verse) and about the marks, conduct and means of the one beyond the guṇas (14.21); he is addressed as Kaunteya, Bhārata, Bharatarṣabha, Mahābāhu, Anagha, Pāṇḍava and Kurunandana."
   ],
   "works": [],
   "notes": "Linked in BhG ch. 1–3 at 1.4, 1.14, 1.15, 1.20, 1.21, 1.22, 1.23, 1.24, 1.25, 1.26, 1.27, 1.28, 1.29, 1.30, 1.31, 1.32, 1.33, 1.34, 1.35, 1.36, 1.37, 1.38, 1.39, 1.40, 1.41, 1.42, 1.43, 1.44, 1.45, 1.46, 1.47, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, 2.11, 2.12, 2.13, 2.14, 2.15, 2.16, 2.17, 2.18, 2.19, 2.20, 2.21, 2.22, 2.23, 2.24, 2.25, 2.26, 2.27, 2.28, 2.29, 2.30, 2.31, 2.32, 2.33, 2.34, 2.35, 2.36, 2.37, 2.38, 2.39, 2.40, 2.41, 2.42, 2.43, 2.44, 2.45, 2.46, 2.47, 2.48, 2.49, 2.50, 2.51, 2.52, 2.53, 2.54, 2.55, 2.56, 2.57, 2.58, 2.59, 2.60, 2.61, 2.62, 2.63, 2.64, 2.65, 2.66, 2.67, 2.68, 2.69, 2.70, 2.71, 2.72, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, 3.11, 3.12, 3.13, 3.14, 3.15, 3.16, 3.17, 3.18, 3.19, 3.20, 3.21, 3.22, 3.23, 3.24, 3.25, 3.26, 3.27, 3.28, 3.29, 3.30, 3.31, 3.32, 3.33, 3.34, 3.35, 3.36, 3.37, 3.38, 3.39, 3.40, 3.41, 3.42, 3.43.",
@@ -6384,7 +6403,8 @@
     "extraction:bhagavad-gita/ch01-03",
     "extraction:bhagavad-gita/ch04-06",
     "extraction:bhagavad-gita/ch07-09",
-    "extraction:bhagavad-gita/ch10-12"
+    "extraction:bhagavad-gita/ch10-12",
+    "extraction:bhagavad-gita/ch13-15"
    ],
    "phases": [
     "extraction",
@@ -53317,7 +53337,9 @@
    "Puruṣottama",
    "Śrī Bhagavān (the Blessed Lord)",
    "Hari",
-   "Yādava"
+   "Yādava",
+   "śrī bhagavān (the Blessed Lord)",
+   "Prabhu"
   ],
   "lineages": [
    "lin:epic-teaching",
@@ -53425,6 +53447,23 @@
      "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     },
     {
+     "phase": "D",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:bhagavad-gita:13.1",
+      "tea:bhagavad-gita:13.3",
+      "tea:bhagavad-gita:14.4",
+      "tea:bhagavad-gita:14.21",
+      "tea:bhagavad-gita:14.27",
+      "tea:bhagavad-gita:15.15",
+      "tea:bhagavad-gita:15.18"
+     ],
+     "result": "confirmed",
+     "note": "Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
      "phase": "C",
      "date": "2026-09-29",
      "method": "text-locate",
@@ -53465,7 +53504,8 @@
    "In Bhagavad Gītā 1–3: Arjuna's charioteer, who blows the conch Pāñcajanya (1.15), stations the chariot between the armies (1.24–25) and, from 2.2, teaches Arjuna ('śrī bhagavān uvāca'): the imperishable embodied self, svadharma, buddhi-yoga and action without claim on fruits, the person of steady wisdom, sacrifice and loka-saṃgraha, and desire as the enemy. He says he declared the twofold commitment of old (3.3), says he acts though he has nothing to gain (3.22–24), and asks Arjuna to resign all actions to him (3.30).",
    "In BhG 7–9 the speaker (śrī bhagavān), who names himself Vāsudeva (7.19) and is addressed by Arjuna as Puruṣottama and Madhusūdana (8.1–2); he teaches himself as the source and dissolution of the world, the adhiyajña in the body, the one to be remembered at death, and the recipient of all worship.",
    "In BhG 4–6 the speaker (śrī bhagavān), addressed as Kṛṣṇa (5.1, 6.34, 6.37, 6.39) and Madhusūdana (6.33). He says he first taught this imperishable yoga to Vivasvat (4.1), knows all his many births (4.5), and, unborn and lord of beings, comes into being by his own māyā age after age to establish dharma (4.6–8); he is enjoyer of sacrifices, great lord of all worlds and friend of all beings (5.29), the object of the meditator's thought (6.14), and the one whose faithful worshipper is the most yoked yogin (6.47).",
-   "In BhG 10–12 the Blessed Lord who declares himself the origin of all and names his manifestations — among them 'Vāsudeva among the Vṛṣṇis' (10.37); he gives Arjuna a divine eye and shows his universal form, declares himself Time (11.32), resumes his gentle human form (11.50–51) and teaches devotion and the marks of the devotee dear to him (ch. 12)."
+   "In BhG 10–12 the Blessed Lord who declares himself the origin of all and names his manifestations — among them 'Vāsudeva among the Vṛṣṇis' (10.37); he gives Arjuna a divine eye and shows his universal form, declares himself Time (11.32), resumes his gentle human form (11.50–51) and teaches devotion and the marks of the devotee dear to him (ch. 12).",
+   "Speaker of the Bhagavad Gītā as the Blessed Lord (śrī bhagavān). In chapters 13–15 he teaches the field and its knower, the three guṇas and the highest person, and speaks of himself as the knower of the field in all fields (13.3), the seed-giving father of all forms (14.4), the foundation of brahman (14.27), the one seated in the heart of all and known by all the Vedas (15.15), and puruṣottama (15.18). Arjuna addresses him as Keśava (13.1) and Prabhu (14.21)."
   ],
   "alt_notes": [
    "Linked in BhG ch. 1–3 at 1.14, 1.15, 1.21, 1.22, 1.24, 1.25, 1.28, 1.31, 1.32, 1.35, 1.36, 1.37, 1.39, 1.41, 1.44, 2.1, 2.2, 2.3, 2.4, 2.5, 2.7, 2.9, 2.10, 2.11, 2.12, 2.13, 2.14, 2.15, 2.16, 2.17, 2.18, 2.19, 2.20, 2.21, 2.22, 2.23, 2.24, 2.25, 2.26, 2.27, 2.28, 2.29, 2.30, 2.31, 2.32, 2.33, 2.34, 2.35, 2.36, 2.37, 2.38, 2.39, 2.40, 2.41, 2.42, 2.43, 2.44, 2.45, 2.46, 2.47, 2.48, 2.49, 2.50, 2.51, 2.52, 2.53, 2.54, 2.55, 2.56, 2.57, 2.58, 2.59, 2.60, 2.61, 2.62, 2.63, 2.64, 2.65, 2.66, 2.67, 2.68, 2.69, 2.70, 2.71, 2.72, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, 3.11, 3.12, 3.13, 3.14, 3.15, 3.16, 3.17, 3.18, 3.19, 3.20, 3.21, 3.22, 3.23, 3.24, 3.25, 3.26, 3.27, 3.28, 3.29, 3.30, 3.31, 3.32, 3.33, 3.34, 3.35, 3.36, 3.37, 3.38, 3.39, 3.40, 3.41, 3.42, 3.43."
@@ -53477,7 +53517,8 @@
     "extraction:bhagavad-gita/ch01-03",
     "extraction:bhagavad-gita/ch07-09",
     "extraction:bhagavad-gita/ch04-06",
-    "extraction:bhagavad-gita/ch10-12"
+    "extraction:bhagavad-gita/ch10-12",
+    "extraction:bhagavad-gita/ch13-15"
    ],
    "phases": [
     "extraction",
@@ -119232,7 +119273,7 @@
      "confidence": "moderate"
     },
     "reason": "Web: Viṣṇucitta, author of the Viṣṇucittīya on the Viṣṇu Purāṇa, c. 12th c., pupil of Piḷḷāṉ (a direct disciple of Rāmānuja). The entry had no date ('dating not checked'); a dating is supplied.",
-    "date": "2026-09-29 18:11 IST",
+    "date": "2026-09-29 18:13 IST",
     "by": "sourcing:U07-puranas"
    }
   ],

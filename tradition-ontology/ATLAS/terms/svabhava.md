@@ -39,4 +39,4 @@ _Notes: Whose 'own being' is meant (Brahman's, as the inner self, or the individ
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.3 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.14 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U05-gita-epic, skeleton:U39-mahayana-sutras, skeleton:U47-sakya-kadam-gelug, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U33-sramana, skeleton:U38-early-schools, skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U05-gita-epic, skeleton:U39-mahayana-sutras, skeleton:U47-sakya-kadam-gelug, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U33-sramana, skeleton:U38-early-schools, skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._

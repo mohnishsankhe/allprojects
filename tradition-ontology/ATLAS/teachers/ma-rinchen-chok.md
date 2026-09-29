@@ -9,4 +9,4 @@
 One of the first seven monks; translator with Vimalamitra of the Guhyagarbha.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

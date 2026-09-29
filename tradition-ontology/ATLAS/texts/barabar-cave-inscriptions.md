@@ -14,4 +14,4 @@ Short dedicatory inscriptions in the Barābar hills (Bihar) recording that King 
 _Notes: Scholarly metadata only: records donations, teaches nothing. The defacement is reported by epigraphists._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

@@ -10,7 +10,7 @@ Heedlessness is death (Sanatsujāta, MBh 5.42.4); negligence is a bond of tamas 
 **Antidotes:** [Heedfulness (apramāda)](../practices/apramada.md), [Practice on a single principle (ekatattva-abhyāsa)](../practices/ekatattva-abhyasa.md), [Devotion to Īśvara (īśvara-praṇidhāna)](../practices/isvara-pranidhana.md)
 **Sources:** 
   - [Sanatsujātīya](../texts/sanatsujatiya.md) — ref: 5.42.4; rests_on: ["tea:sanatsujatiya:5.42.4"]
-  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.8; rests_on: ["tea:bhagavad-gita:14.6-8"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.8; rests_on: ["tea:bhagavad-gita:14.6-8", "tea:bhagavad-gita:14.8"]
   - [Yoga Sūtra of Patañjali](../texts/yoga-sutra.md) — ref: 1.30; rests_on: ["tea:yoga-sutra:1.30"]
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 1.30; rests_on: ["tea:yoga-bhasya:1.30"]
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 3.51; rests_on: ["tea:yoga-bhasya:3.51"]
@@ -21,11 +21,15 @@ Heedlessness is death (Sanatsujāta, MBh 5.42.4); negligence is a bond of tamas 
   - [Pañcārthabhāṣya](../texts/pancarthabhasya.md) — ref: on PS 5.40; rests_on: ["tea:pancarthabhasya:5.39"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 11.41; rests_on: ["tea:bhagavad-gita:11.41"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 11.42; rests_on: ["tea:bhagavad-gita:11.42"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.9; rests_on: ["tea:bhagavad-gita:14.9"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.13; rests_on: ["tea:bhagavad-gita:14.13"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.17; rests_on: ["tea:bhagavad-gita:14.17"]
 
 ---
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:11.41, tea:bhagavad-gita:11.42 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:14.8, tea:bhagavad-gita:14.9, tea:bhagavad-gita:14.13, tea:bhagavad-gita:14.17 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering), text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā m — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (TU 1.11; MuU 2.2.4; MuU 3.2.4; KU 2.3.11). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U17-pasupata-kapalika, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U17-pasupata-kapalika, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:14 IST._

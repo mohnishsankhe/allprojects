@@ -22,4 +22,4 @@ Founder of the present Aghora lineage at Krīm Kuṇḍ (Kīnārām Sthal), Vara
 _Notes: Registry id. The dates are the tradition's; no independent confirmation checked._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:14 IST._

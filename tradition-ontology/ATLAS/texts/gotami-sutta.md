@@ -39,4 +39,4 @@ terms: [garudhamma](../terms/garudhamma.md) · concepts: [The eight principles o
 _Notes: SuttaCentral uid an8.51; Mahāsaṅgīti title 'Gotamīsutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

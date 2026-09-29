@@ -57,4 +57,4 @@ _Notes: Commentaries: Sāyaṇa; Bhaṭṭa Bhāskara._
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:raw_etexts:taittiriya_aranyaka, catalog:raw_etexts:AraNyakam_Andhrakam, catalog:DCS:Taittirīyāraṇyaka — Extant; 10 prapāṭhakas in the Āndhra e-text. Checked there: the twilight rite 2.2, the vātaraśana seers 2.7, the five great sacrifices 2.10, the pitṛmedha in prapāṭhaka 6, and the prāṇāgnihotra mantras in 10.69–70 (TA 10 = Mahānārāyaṇa). TU = prapāṭhakas 7–9 is standard.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

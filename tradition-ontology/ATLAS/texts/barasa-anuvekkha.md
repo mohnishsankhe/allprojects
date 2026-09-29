@@ -18,4 +18,4 @@ Kundakunda's verses on the twelve reflections (anuprekṣā) — impermanence, h
   - kind: original; name: root text in the nikkyjain Jain database (catalog:JainDB:बारसणुपेक्‍खा--कुन्दकुन्दाचार्य); licence: root text public domain; url: https://github.com/nikkyjain/nikkyjain.github.io
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

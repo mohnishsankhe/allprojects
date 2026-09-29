@@ -14,4 +14,4 @@
 - analogous: [yugala](yugala.md) — worship of the divine couple in the Nimbārka school; the Haridāsīs stress the grove and the sakhī stance
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

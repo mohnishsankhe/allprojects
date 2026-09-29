@@ -39,4 +39,4 @@ terms: [jātibādhaka](../terms/jatibadhaka.md), [jāti](../terms/jati.md), [sā
 _Notes: Sub-commentaries: Vardhamāna's Kiraṇāvalīprakāśa, Raghunātha's Dīdhiti on the Prakāśa._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:14 IST._

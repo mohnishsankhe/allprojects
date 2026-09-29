@@ -616,4 +616,4 @@ concepts: [Death and dying in Chan](../concepts/chan-death-and-dying.md)
 _Notes: Registry id src:platform-sutra = the received Zongbao text (T2008) as prepared in sources_raw/prepared/platform-sutra; the Dunhuang recension is src:platform-sutra-dunhuang. Teaching refs follow the prepared segment numbering (section.segment; section 4 = chapter 1 行由, 5 = ch. 2, … 13 = ch. 10)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

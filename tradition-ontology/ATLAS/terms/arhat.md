@@ -26,4 +26,4 @@
 - analogous: [arahant](arahant.md) — Shared word; the Jain arhat is omniscient and will attain siddhahood, the Buddhist arahant has destroyed the āsavas — neither tradition equates the two.
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._

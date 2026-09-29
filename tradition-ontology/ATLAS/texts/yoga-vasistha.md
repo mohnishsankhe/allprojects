@@ -67,4 +67,4 @@ _Notes: Book-level refs 1-5 in U06 teachings are checked against the Mokṣopāy
 
 - 2026-09-29 catalog+websearch: confirmed — local:sources_raw/raw_etexts/mixed/mukta/vedAnta/valmiki/ and unknown_Anandabodhendra/ (Yogavāsiṣṭha vulgate with Tātparyaprakāśa, Nirṇaya Sāgara ed.; Muktabodha M00335-M00339, M00345), catalog:Muktabodha:yogavAsiShTha_part_1_with_chommentary_tAtparyaprakAsha__M00335, https://en.wikipedia.org/wiki/Y — The vulgate is local, contrary to the unit's report. Its structure is verified exactly: 33 + 20 + 122 + 62 + 93 + Nirvāṇa pūrvārdha 128 + uttarārdha 216 = 674 sargas. The closing colophon names it 'dvātriṃśacchatasāhasryāṃ saṃhitāyām' ('mokṣopāyeṣu'). Slaje dates the Mokṣopāya to c. 950, Kashmir, and the vulgate expansion to the 11th-14th c.; tradition and scholarship are kept separate as entered.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._

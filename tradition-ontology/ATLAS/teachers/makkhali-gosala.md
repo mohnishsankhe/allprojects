@@ -16,4 +16,4 @@ Leader of the Ājīvikas. DN 2 reports his doctrine of purification through tran
 _Notes: The name: Jain sources derive 'Gosāla' from his birth in a cowshed (gośālā) and 'Maṅkhaliputta' from his father Maṅkhali, a maṅkha (picture-showman); Buddhaghosa derives 'Makkhali' from 'don't stumble' (mā khali) — both are the traditions' etymologies._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

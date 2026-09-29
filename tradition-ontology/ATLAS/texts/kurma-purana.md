@@ -139,4 +139,4 @@ _Notes: Uparibhāga 1-11 is the Īśvara Gītā (src:isvara-gita, U06), followed
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:raw_etexts:kUrma-purANam, catalog:DCS:Kūrmapurāṇa, https://en.wikipedia.org/wiki/Kurma_Purana — Extant and digitized (local mAdhva-app: Pūrvabhāga 51, Uparibhāga 44 chapters; DCS; peterFreund). KūP 1.1.21-23 (Brāhmī saṃhitā of 6,000) and 1.1.13-20 confirmed; 17,000 by BhP 12.13.8 confirmed. Web: c. 550-850 CE (Doniger) - consistent with the entry.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._

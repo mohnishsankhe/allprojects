@@ -15,4 +15,4 @@
 Mahīdhara's compendium of mantras in twenty-five 'waves' (taraṅga) with his own commentary (Naukā): mantras, meditations, yantras and puraścaraṇa of Gaṇeśa, the Goddesses, Śiva, Viṣṇu, Hanumat and others, with rules for choosing, testing and purifying mantras, and the six rites.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._

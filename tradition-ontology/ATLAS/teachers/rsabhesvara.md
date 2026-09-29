@@ -8,4 +8,4 @@
 Named in the Yuktidīpikā's list of teachers through whom the doctrine passed between Pañcaśikha and Īśvarakṛṣṇa (on SK 71: Hārīta, Vāddhali, Kairāta, Paurika, Ṛṣabheśvara, Pañcādhikaraṇa, Patañjali, Vārṣagaṇya, Kauṇḍinya, Mūka and others). Not to be confused with the Jain Ṛṣabha.
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:14 IST._

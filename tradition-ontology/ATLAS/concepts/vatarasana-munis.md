@@ -18,4 +18,4 @@ _Notes: Related to the long-haired sage of RV 10.136 (U01)._
 
 - 2026-09-29 text-locate: confirmed — TA 2.7.1 has 'vātaraśanā ha vā ṛṣayaḥ śramaṇā ūrdhvamanthino babhūvuḥ'. Rests on teaching checks confirmed in this sweep: tea:taittiriya-aranyaka:2.7.1.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

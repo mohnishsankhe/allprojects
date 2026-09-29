@@ -12,4 +12,4 @@ Kashmiri yoginī (c. 10th–11th c.), in Tibetan accounts Nāropa's sister or co
 _Notes: Her 'six dharmas' and the Shangpa details belong mainly to U46._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

@@ -11,4 +11,4 @@
 Treasure revealer of the Pema Kathang (1352) and the Katang Denga (five chronicles).
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

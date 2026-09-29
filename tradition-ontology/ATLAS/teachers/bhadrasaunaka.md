@@ -10,4 +10,4 @@ Speaker: the large intestine and anus form first, as the seat of wind (Ca Śā 6
 _Notes: Refs checked against the DCS e-text of the Caraka Saṃhitā._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._

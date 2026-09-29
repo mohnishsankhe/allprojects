@@ -142,4 +142,4 @@ terms: [fanfu](../terms/fanfu.md) · concepts: [The ordinary foolish being (fanf
 _Notes: Lower-lower grade read locally in T365 (346a12-26)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._

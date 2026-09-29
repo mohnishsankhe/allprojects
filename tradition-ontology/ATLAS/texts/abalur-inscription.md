@@ -26,4 +26,4 @@ teachers: [Ēkānta Rāmayya](../teachers/ekanta-ramayya.md) · disputes: [Śiva
 _Notes: The Jaina side is known here only through this Śaiva record (reported by the other side)._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:14 IST._

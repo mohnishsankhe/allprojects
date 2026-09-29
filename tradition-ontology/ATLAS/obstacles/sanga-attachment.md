@@ -18,4 +18,4 @@ Attachment that overturns even an ascetic's practice: Bharata's love for a fawn,
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:5.8.26-27, tea:bhagavata-purana:9.6.50-51, tea:visnu-purana:2.13 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._

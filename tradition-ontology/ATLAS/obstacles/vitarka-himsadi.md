@@ -15,4 +15,4 @@ Thoughts of violence, untruth, stealing, incontinence and possessiveness, done, 
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 2.34; rests_on: ["tea:yoga-bhasya:2.34"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._

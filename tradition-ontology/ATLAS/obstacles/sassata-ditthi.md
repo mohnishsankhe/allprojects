@@ -12,4 +12,4 @@ The extreme that self and world are eternal; often grounded in meditative recoll
   - [Brahmajāla Sutta](../texts/brahmajala-sutta.md) — ref: DN 1 §1.30–1.37; rests_on: ["tea:brahmajala-sutta:1.30-1.37"]
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

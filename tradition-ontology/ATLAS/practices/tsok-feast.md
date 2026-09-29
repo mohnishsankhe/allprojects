@@ -11,4 +11,4 @@ A gathering in which food and drink are consecrated as nectar and offered to the
   - [Guhyagarbha Tantra (dpal gsang ba'i snying po de kho na nyid rnam par nges pa)](../texts/guhyagarbha-tantra.md) — ref: ch.11-12
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

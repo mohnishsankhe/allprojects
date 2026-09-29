@@ -24,4 +24,4 @@ _Notes: chapter checked in the GRETIL e-text of the Brahmāṇḍa Purāṇa (Ve
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL:brahmANDapurANa, catalog:eBharati:brahmANDamahApurANam, local:sources_raw/dcs/corpus/GRETIL/sa_brahmANDapurANa.txt (Venkateshwara ed.) 3.5.1, https://en.wikipedia.org/wiki/Brahmanda_Purana — Extant and digitized (GRETIL/Sansknet Venkateshwara text: three bhāgas of 38, 74 and 44 chapters; eBhārati; mAdhva-app; peterFreund). Colophon of 3.4 confirms 'vāyuprokte dvādaśasāhasryāṃ saṃhitāyāṃ ... upasaṃhārapāde' ending at Uttarabhāga ch. 4, and the Lalitopākhyāna occupies 3.5-3.44. Web: core 4th-6th c.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._

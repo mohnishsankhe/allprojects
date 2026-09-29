@@ -21,6 +21,7 @@
 - [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md): Wind, 'the vehicle of consciousness', fivefold and tenfold (Pañcakrama 1.3); its dissolution in the central channel brings the empties and clear light.
 - [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md): Saraha: 'where wind and mind do not move, there take rest' (People Dohā v26–27).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Life-breath: the devotees' prāṇas have 'gone into' the Lord (madgataprāṇāḥ) (10.9).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: Joined with prāṇa and apāna, the Lord as vaiśvānara digests the fourfold food (15.14).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The vital breath; the self in the Brahma Upaniṣad; chief of the ten vāyus; its vibration is a seed of mind.
 - [Trika ('the Triad')](../lineages/trika.md): The breath-power (marudrūpā śakti) whose arising, turning and suspension are contemplated (VBT 24-27, 64); in the āṇava means its five forms carry the seven blisses (TĀ 5).
 - [Pratyabhijñā (the philosophy of recognition)](../lineages/pratyabhijna.md): Prāṇa and apāna prevail in waking and dream, samāna in deep sleep, udāna in the fourth, vyāna beyond (ĪPK 3.2.19-20).
@@ -39,5 +40,6 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.27, tea:bhagavad-gita:4.29, tea:bhagavad-gita:4.30, tea:bhagavad-gita:5.27 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.9 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:15.14 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U28-hatha-texts, skeleton:U02-brahmana-vedanga, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch04-06, skeleton:U44-indian-vajrayana, extraction:bhagavad-gita/ch10-12, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U45-nyingma-bon, skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U28-hatha-texts, skeleton:U02-brahmana-vedanga, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch04-06, skeleton:U44-indian-vajrayana, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U45-nyingma-bon, skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

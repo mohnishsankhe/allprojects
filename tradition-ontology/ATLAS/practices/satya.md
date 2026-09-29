@@ -26,4 +26,4 @@ Speech and mind according to fact, spoken for the good of all beings after exami
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering), text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advait — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (TU 1.11.1; MuU 3.1.6; ChU 3.17.4; ChU 6.16). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._

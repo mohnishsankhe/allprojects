@@ -18,4 +18,4 @@
 _Notes: U49 contribution; recalled, to be checked._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U49-cross-family. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U49-cross-family. Generated 2026-09-29 18:14 IST._

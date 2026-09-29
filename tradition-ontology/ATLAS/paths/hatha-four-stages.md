@@ -19,4 +19,4 @@
 Umbrella map for the four avasthās 'in all yogas' (HYP 4.69; ŚS 3.31; DYŚ 9-10), first taught in the Amṛtasiddhi. The texts describe the stages chiefly through breath-retention and its signs; retention counts and durations are deliberately omitted (restricted). The existing text-specific maps (U28, U29, U04) are the detailed versions; this map aligns them.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:14 IST._

@@ -12,4 +12,4 @@ Being served food with Abhipratārin Kākṣaseni when a student begs from them 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — Located: ChU 4.3.5-7 ('śaunakaṃ ca kāpeyam abhipratāriṇaṃ ca kākṣasenim pariviṣyamāṇau').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._

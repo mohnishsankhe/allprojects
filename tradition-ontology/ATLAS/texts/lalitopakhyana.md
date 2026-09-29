@@ -71,4 +71,4 @@ _Notes: The Lalitā Sahasranāma and Triśatī (U23) name the Brahmāṇḍa's U
 
 - 2026-09-29 catalog: confirmed — catalog:eBharati:lalitopAkhyAnam, local:sources_raw/dcs/corpus/GRETIL/sa_brahmANDapurANa.txt (Venkateshwara ed.) 3.5-3.44, catalog:Muktabodha:lalitaasahasranaama__M00057 — Extant and digitized (Brahmāṇḍa 3.5-3.44 in GRETIL, 40 chapters by colophon; separate eBhārati lalitopākhyānam). The Lalitā Sahasranāma's own colophon claims 'śrībrahmāṇḍapurāṇe lalitopākhyāne hayagrīvāgastyasaṃvāde' (Muktabodha M00057), while the local Lalitopākhyāna does not contain it - as the entry says.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._

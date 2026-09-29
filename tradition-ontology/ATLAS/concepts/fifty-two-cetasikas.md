@@ -14,4 +14,4 @@
 - part-of → [The five aggregates](five-aggregates.md): feeling, perception and the fifty formations
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._

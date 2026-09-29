@@ -59,4 +59,4 @@ Yes — liberation is the realization of Brahman, whose nature is bliss.
 **Candidate readings:** P2-standpoint / terminological: Nyāya denies pleasure as an adventitious quality produced by contact with objects; Advaita affirms bliss as the self's nature, not a produced quality — the two may partly talk past each other.; P1-level: Advaita could read Nyāya's account as describing liberation negatively from the empirical standpoint.; The Śāstradīpikā itself notes that on either view release is a human goal and differs from saṃsāra by the absence of pain.; P1-level: Advaita's bliss belongs to the absolute self, not to an experience of a knower — a reading the Mīmāṃsakas reject.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa. Generated 2026-09-29 18:14 IST._

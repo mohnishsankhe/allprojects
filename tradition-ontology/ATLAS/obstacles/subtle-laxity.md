@@ -15,4 +15,4 @@ Laxity in which the object remains with some clarity but the intensity of clarit
 - partial: [Sinking (laya)](laya.md) — the general Buddhist sinking; subtle laxity is its hardest-to-detect form
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

@@ -237,3 +237,16 @@ Conservative choices made without asking, with reasons. Newest last.
 - **Errata for the post-ch18 pass.**
   - Misspellings: śrṛṇu (13.4), viniśicataiḥ (13.5), asakitar (13.10), bhakitar (13.11), liṃgais (14.21), bhakitayogena (14.26), parimārgitavya (15.4, missing its anusvāra).
   - Layout: speaker headings fused at 13.2, 14.1, 14.21, 14.22 and 15.1; no line breaks in 13.2–15.20; words split across the pāda break at 15.3 and 15.5.
+
+## 2026-09-29 18:13 IST — Reconcile queue lists partially reconciled disputes too
+- U50 noted that RECONCILE_QUEUE.md listed only disputes with status queued. A partial reconciliation always leaves an unreconciled remainder, so those disputes (159 at present) dropped out of the queue.
+- The merge now lists every partially reconciled dispute, marked "(partially reconciled — the unreconciled remainder)". It keeps the unit's own queue_ref where one is given (e.g. RQ-U50-02).
+- The queue now has 418 items, U50's disputes included.
+
+## 2026-09-29 18:13 IST — U50 (the fifteen debates) decisions (reported by the unit; recorded by the orchestrator)
+- **Status.** Eight debates are partially reconciled, each under a named principle with tradition_objections recorded: causation, sudden/gradual, rangtong/shentong, Prāsaṅgika/Svātantrika, works–knowledge–grace, saguṇa/nirguṇa, kuṇḍalinī by effort or grace, and the number of pramāṇas. The other seven are queued. The word "contradiction" is never used.
+- **dsp:advaita-crypto-buddhism.** The doctrinal charge and the historical-borrowing evidence are kept apart: the evidence is the U49 borrowings, held in doctrinal_vs_historical. The label "pracchanna-bauddha" is not ascribed to Yāmuna or Rāmānuja, because it could not be verified. Vedānta Deśika's Śatadūṣaṇī and Jīva Gosvāmī are cited instead, each as verified in quotation.
+- **Corrections to the brief.**
+  - G15: the Jains count two pramāṇas (direct and indirect), not three; Caraka counts four (with yukti); the Paurāṇika count of eight is confirmed from the Dinakarī doxography.
+  - G6: "gradual" is the Southern school's characterization of the Northern school; the Northern school's own text uses sudden-transcendence language (頓超佛地).
+- **Tibetan labels.** The Tibetan construction of the Prāsaṅgika/Svātantrika categories is recorded as metadata, not as an Indian position.

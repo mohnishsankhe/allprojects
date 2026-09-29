@@ -14,4 +14,4 @@ The ten yamas (non-harming, truth, non-stealing, continence, forbearance, fortit
   - [Yoga Yājñavalkya](../texts/yoga-yajnavalkya.md) — ref: ch. 1–2; rests_on: ["tea:yoga-yajnavalkya:1.topic.yamas"]
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._

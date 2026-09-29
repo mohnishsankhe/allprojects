@@ -17,4 +17,4 @@
 **Related:** [akṛtrima](akrtrima.md), [gnyug ma (the innate, genuine)](nyugma.md)
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

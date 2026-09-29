@@ -10,4 +10,4 @@ The sons of Draupadī, named as a group among the great chariot-warriors of the 
 _Notes: A group, not a single person; the Gītā does not name them individually. Linked in BhG ch. 1–3 at 1.6, 1.18._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:14 IST._

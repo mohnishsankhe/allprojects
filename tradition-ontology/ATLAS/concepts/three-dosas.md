@@ -16,4 +16,4 @@
 - corresponds-to-in-map → [The two doṣas of the mind (rajas and tamas)](manasa-dosas.md): the bodily doṣas parallel the two mental doṣas — rests on [su.1.57-58](../texts/caraka-samhita.md#tea-caraka-samhita-su-1-57-58)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._

@@ -17,4 +17,4 @@
 The four are graded by the practitioner's capacity (adhikāra) — the Śiva Saṃhitā (5.10-14) assigns mantra to the mild, laya to the middling, haṭha to the strong and all to the strongest aspirant — so they are not a strict sequence; but DYŚ 145-147 says rājayoga arises from haṭha practice and ŚS 5.181 that haṭha and rāja need each other. Hence the non-monotonic bands (B2, B3, B2, B7).
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:14 IST._

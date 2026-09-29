@@ -23,4 +23,4 @@ Not ultimately: once all appearances are one's own cognition, the inference fail
 **The traditions' own objections:** Ratnakīrti presents his text as a refutation, not a complement, of the proof of other minds.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

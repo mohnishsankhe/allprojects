@@ -15,4 +15,4 @@ Karṇakagomin's sub-commentary on Dharmakīrti's autocommentary.
   - kind: original; name: R. Sāṅkṛtyāyana 1943 — local SARIT e-text
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

@@ -14,4 +14,4 @@
 _Notes: Scholarly dating (c. 2nd c. CE) is kept on tch:lakulisa as labelled metadata._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:14 IST._

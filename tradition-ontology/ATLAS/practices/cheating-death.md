@@ -13,4 +13,4 @@ Summary only: reading omens of death and averting untimely death by Tārā pract
   - [Mṛtyuvañcanopadeśa](../texts/mrtyuvancanopadesa.md) — 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

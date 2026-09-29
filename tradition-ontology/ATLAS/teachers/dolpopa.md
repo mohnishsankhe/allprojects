@@ -18,4 +18,4 @@ The great systematizer of the Jonang and of the other-emptiness (gzhan stong) vi
 **Realization — the tradition's account:** The Jonang account holds that the other-emptiness view dawned in Dolpopa's own experience through the six-branch yoga before he set it out in writing, and that he was an emanation of the Kalkī Puṇḍarīka, author of the Vimalaprabhā (emanation claim: low confidence).
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._

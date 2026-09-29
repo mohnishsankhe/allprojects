@@ -15,7 +15,7 @@ The mind is withdrawn from outer objects and bound to the object; settled firmly
   - [Mahāyānasūtrālaṃkāra](../texts/mahayanasutralamkara.md) — ref: 14.11-14; rests_on: ["tea:mahayanasutralamkara:14.8-14"]
   - [Abhidharmasamuccaya](../texts/abhidharmasamuccaya.md) — 
   - [Great Treatise on the Stages of the Path to Enlightenment (lam rim chen mo)](../texts/lamrim-chenmo.md) — ref: calm.nine-stages; rests_on: ["tea:lamrim-chenmo:calm.nine-stages"]
-**Sequences:** `pth:nine-stages-calm-abiding`
+**Sequences:** [The nine stages of settling the mind (navākārā cittasthiti) leading to calm abiding](../paths/nine-stages-calm-abiding.md)
 
 ## The texts' own warnings
 - The five faults — laziness, forgetting the instruction, sinking and agitation, non-application and over-application — obstruct the stages and must be countered by the eight formations. — [Madhyāntavibhāga](../texts/madhyantavibhaga.md) 4.3-5
@@ -23,4 +23,4 @@ The mind is withdrawn from outer objects and bound to the object; settled firmly
 _Notes: Contribution of U47 (Sakya/Kadam/Gelug presentation)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

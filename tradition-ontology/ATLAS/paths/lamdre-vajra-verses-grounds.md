@@ -20,4 +20,4 @@
 Reconstructed from the terse Tibetan of Tōh 2284 (local); the signs belong to restricted completion-stage practice and are summarised only. Ground groupings follow markers in the root text ('sa drug', 'sa bcu', 'sa bcu gnyis', 'sa phyed dang bcu gsum', 'bcu gsum'); low confidence.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

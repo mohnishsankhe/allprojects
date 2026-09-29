@@ -12,4 +12,4 @@ Counting exhalations from one to ten as a beginner's method of settling in zazen
 _Notes: Common in modern Zen instruction; classical sources not identified in this pass._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

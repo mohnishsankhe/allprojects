@@ -49,4 +49,4 @@ There is no single rule: some cognitions (self-awareness, inference, habituated 
 _Notes: The four-way doxographic schema (Sāṃkhya: both intrinsic; Nyāya: both extrinsic; Buddhists: invalidity intrinsic; Mīmāṃsā: validity intrinsic) is recalled from later doxography._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

@@ -24,4 +24,4 @@ Directing the mind to the Lord (Nārāyaṇa, Kṛṣṇa, Śiva) at the time of
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/isa-upanisad/segments.jsonl (Advaita-Śāradā mūla Isha.md, Śaṅkara numbering), text:sources_raw/prepared/prasna-upanisad/segments.jsonl (Advaita-Śāradā mū — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (Īśa 17; ChU 3.17.6; PrU 5.1; ChU 3.14.1). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:12.3.50, tea:bhagavata-purana:2.1.6, tea:bhagavata-purana:6.1-2 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._

@@ -14,4 +14,4 @@
 Raṅgarāmānuja Muni's commentaries on the principal Upaniṣads from the Viśiṣṭādvaita standpoint.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._

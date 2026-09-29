@@ -12,4 +12,4 @@
 Commentator (Ṭīkā) on the Ṣaṭcakranirūpaṇa and the Pādukāpañcaka, whose commentary Arthur Avalon translated in The Serpent Power.
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._

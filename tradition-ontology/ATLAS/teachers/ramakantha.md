@@ -22,4 +22,4 @@ The foremost Kashmirian exegete of the Siddhānta: commentaries on the Mataṅga
 _Notes: Correction to the unit brief: 'Rāmakaṇṭha II' and 'Bhaṭṭa Rāmakaṇṭha' are the same person (the Saiddhāntika son of Nārāyaṇakaṇṭha). He is distinct from Rājānaka Rāmakaṇṭha, author of the Spandakārikāvivṛti and a Gītā commentary (non-dualist milieu). Some scholars suggest the Śrīkaṇṭha of the Ratnatraya was his teacher (low confidence)._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._

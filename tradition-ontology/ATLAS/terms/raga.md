@@ -13,6 +13,7 @@
 - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): Lust, one of the three fires (SN 35.28); its destruction is part of nibbāna (SN 38.1).
 - [Nyāya](../lineages/nyaya.md): Attachment to the agreeable, arising from false knowledge (NBh 1.1.2); one of the three groups of faults.
 - [Vaiśeṣika](../lineages/vaisesika.md): Arises from pleasure, absorption, satisfaction, the unseen and particular birth (VS 6.2.12–16 C).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: Passion: the nature of rajas (14.7).
 - [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md): Passion in which even sorrow becomes happiness for the beloved's sake.
 
 ## Forms in other languages
@@ -23,4 +24,8 @@
 **Related:** [dveṣa](dvesa.md), [kāma](kama.md), [vairāgya](vairagya.md), [lobha](lobha.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U36-pali-suttas, skeleton:U11-nyaya-vaisesika, skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:14.7 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U36-pali-suttas, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch13-15, skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._

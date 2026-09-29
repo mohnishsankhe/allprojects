@@ -13,4 +13,4 @@
 Hōnen's disciple associated with the 'many-calling' teaching (tanengi), exiled in the Karoku persecution of 1227; Shinran commended his writings.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._

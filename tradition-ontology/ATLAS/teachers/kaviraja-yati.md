@@ -11,4 +11,4 @@
 Renunciant author of the Sāṃkhyatattvapradīpa; its colophon calls him a paramahaṃsa, pupil of Vaikuṇṭha.
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:14 IST._

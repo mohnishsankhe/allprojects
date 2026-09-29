@@ -10,4 +10,4 @@ Eating with nested bowls in a prescribed sequence of offering, chanting and clea
 **Stage:** all
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

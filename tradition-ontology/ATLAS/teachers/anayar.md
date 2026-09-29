@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A cowherd who played the five-syllable man
 **Realization — the tradition's account:** A cowherd who played the five-syllable mantra on his flute; Śiva appeared and took him to his world with his music.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._

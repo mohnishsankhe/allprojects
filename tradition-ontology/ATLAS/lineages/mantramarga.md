@@ -55,4 +55,4 @@ The Mantramārga is the initiatory, mantra-based division of Śaivism, distingui
 _Notes: family 'vedic' is the project's A/B classification (Brahmanical vs śramaṇa); it is not a claim that this tradition treats the Veda as its final authority. Śaiva Siddhānta doctrine is owned by U18, Kashmir traditions by U19, Śākta by U23/U24; this entry covers the division and its scriptural catalogue._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._

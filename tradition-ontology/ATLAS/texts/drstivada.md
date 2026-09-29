@@ -16,4 +16,4 @@
 The twelfth Aṅga, lost according to both traditions. As described in the Nandī and Samavāyāṅga it had five parts — parikarma, sūtra, pūrvagata (the fourteen Pūrvas), anuyoga (including the first narrative anuyoga) and cūlikā — and contained all doctrine. The Digambaras hold that portions of two Pūrvas survive in the Ṣaṭkhaṇḍāgama and the Kaṣāyapāhuḍa.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

@@ -19,4 +19,4 @@ Venerate the person seen in the eye as the self, the immortal, the fearless, bra
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 8.7-8; ChU 4.15.1; BĀU 2.3.5; BĀU 5.5.2). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._

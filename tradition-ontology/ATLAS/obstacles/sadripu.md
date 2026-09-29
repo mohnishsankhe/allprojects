@@ -13,4 +13,4 @@ Kāma, krodha, lobha, moha, mada, mātsarya - in their grip the Vijñāna Bhaira
   - [Vijñānabhairava](../texts/vijnana-bhairava-tantra.md) — ref: 101; rests_on: ["tea:vijnana-bhairava-tantra:101"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._

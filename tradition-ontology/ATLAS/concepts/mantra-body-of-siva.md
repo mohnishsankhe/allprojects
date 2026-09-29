@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The Āgamas as the body of Sadāśiva](agamas-as-body-of-sadasiva.md): scripture as Sadāśiva's body (U08)
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._

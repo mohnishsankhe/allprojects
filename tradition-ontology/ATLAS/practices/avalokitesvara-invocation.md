@@ -11,4 +11,4 @@ Single-mindedly calling the bodhisattva's name in danger or need (Lotus 25).
   - [Saddharmapuṇḍarīka-sūtra](../texts/saddharmapundarika.md) — ref: ch. 25; rests_on: ["tea:saddharmapundarika:25"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._

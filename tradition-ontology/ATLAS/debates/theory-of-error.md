@@ -31,4 +31,4 @@ Self-apprehension (ātmakhyāti): cognition's own form is taken as external.
 _Notes: Positions other than Nyāya's are summarized at doxographic level; the owning units should supply texts._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:14 IST._

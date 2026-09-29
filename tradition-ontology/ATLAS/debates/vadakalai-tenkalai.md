@@ -38,4 +38,4 @@ The Lord alone is the means; surrender is not a means but acceptance fitting the
 _Notes: The monkey/cat maxims are labels used in the dispute literature and later accounts, not arguments made in these terms by Deśika or Piḷḷai Lokācārya themselves (as far as recalled)._
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._

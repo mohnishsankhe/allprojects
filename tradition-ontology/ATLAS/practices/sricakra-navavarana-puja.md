@@ -24,4 +24,4 @@ After the preliminaries (Gaṇapati worship, purification, placements on the bod
 - partial: [Inner worship (antaryāga)](antaryaga.md) — outer and inner forms of the same worship
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:14 IST._

@@ -1,6 +1,6 @@
-# Concepts (2941)
+# Concepts (2944)
 
-sourced: 327 · skeleton: 2614
+sourced: 327 · skeleton: 2617
 
 - ['A man is born into the world he has made'](self-made-world.md) — `sourced`
 - ['Atat tvam asi' — Dvaita's reading of Chāndogya 6.8.7](atat-tvam-asi.md) — `skeleton`
@@ -312,6 +312,7 @@ sourced: 327 · skeleton: 2614
 - [Dream as the Lord's creation](dream-creation-by-the-lord.md) — `skeleton`
 - [Dual cultivation of Chan and Pure Land (chanjing shuangxiu)](chan-pure-land-dual-cultivation.md) — `skeleton`
 - [Dying by yoga](yogic-death.md) — `skeleton`
+- [Dying while a guṇa predominates (BhG 14.14–15, 14.18)](dying-in-a-predominant-guna.md) — `skeleton`
 - [Dying without dying (cākāmal cātal)](cakamal-catal.md) — `skeleton`
 - [Early (pre-classical) Sāṃkhya](early-samkhya.md) — `skeleton`
 - [Eel-wriggling (amarāvikkhepa)](amaravikkhepa.md) — `skeleton`
@@ -406,6 +407,7 @@ sourced: 327 · skeleton: 2614
 - [God's eightfold agency (aṣṭa-kartṛtva)](asta-kartrtva.md) — `skeleton`
 - [Gods and Asuras](deva-asura.md) — `sourced`
 - [Gods and demons as the mind's own display](gods-and-demons-as-mind.md) — `skeleton`
+- [Going beyond the guṇas (guṇātīta)](gunatita.md) — `skeleton`
 - [Going forth and full ordination](ordination.md) — `skeleton`
 - [Good and bad activity of body, speech and mind](ten-good-and-bad-acts-nyaya.md) — `skeleton`
 - [Good conduct (sadvṛtta)](sadvrtta.md) — `skeleton`
@@ -426,6 +428,7 @@ sourced: 327 · skeleton: 2614
 - [Gradual liberation (krama-mukti)](krama-mukti.md) — `skeleton`
 - [Grammar as a path to liberation](grammar-as-path.md) — `skeleton`
 - [Gratification, danger and escape](assada-adinava-nissarana.md) — `skeleton`
+- [Great brahman as the Lord's womb; the Lord as seed-giving father (BhG 14.3–4)](mahad-brahma-yoni.md) — `skeleton`
 - [Great compassion as the root](mahakaruna.md) — `skeleton`
 - [Great doubt](great-doubt.md) — `skeleton`
 - [Great purity and equality (dag mnyam chen po)](great-purity-and-equality.md) — `skeleton`

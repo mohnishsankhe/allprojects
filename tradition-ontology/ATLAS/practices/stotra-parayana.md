@@ -14,4 +14,4 @@ Daily recitation of Madhva's Dvādaśastotra and Narasiṃhanakhastuti and Trivi
   - [Hanumān Cālīsā](../texts/hanuman-calisa.md) — ref: doha1; rests_on: ["tea:hanuman-calisa:doha1"]
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

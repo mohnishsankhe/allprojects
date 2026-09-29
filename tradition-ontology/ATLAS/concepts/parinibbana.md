@@ -13,4 +13,4 @@
 - contrasts-with → [The Tathāgata after death](tathagata-after-death.md) — rests on [6.8-6.9](../texts/mahaparinibbana-sutta.md#tea-mahaparinibbana-sutta-6-8-6-9)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

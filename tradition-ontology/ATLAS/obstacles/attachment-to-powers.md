@@ -11,4 +11,4 @@ Expecting or using powers as signs of awakening; Jinul calls them 'uncanny matte
   - [Secrets on Cultivating the Mind (Susim kyol)](../texts/susim-kyol.md) — ref: 1006b28; rests_on: ["tea:susim-kyol:1006b28"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

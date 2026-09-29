@@ -15,4 +15,4 @@ The monastic textbooks on which debate in each college is based — those of Jet
 _Notes: Assignment of textbook authors to colleges recalled; Sera Me's textbook author is not recorded here._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

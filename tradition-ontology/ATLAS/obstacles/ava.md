@@ -12,4 +12,4 @@ The seed of unending births (Kuṟaḷ 361); its abandonment gives the unchangin
   - [Tirukkuṟaḷ](../texts/tirukkural.md) — ref: 361, 370; rests_on: ["tea:tirukkural:361", "tea:tirukkural:370"]
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._

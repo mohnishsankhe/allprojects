@@ -10,4 +10,4 @@
 Silla monk who received Hongzhou Chan from Xitang Zhizang and returned in 821; founder of the Gajisan school and regarded by the modern Jogye Order as its founder.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

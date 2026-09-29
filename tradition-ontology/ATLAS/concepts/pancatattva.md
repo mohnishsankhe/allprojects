@@ -15,4 +15,4 @@
 - contrasts-with → [Substitutes (anukalpa) for the Kaula substances and offerings](anukalpa.md) — rests on [8.170-171](../texts/mahanirvana-tantra.md#tea-mahanirvana-tantra-8-170-171)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 18:14 IST._

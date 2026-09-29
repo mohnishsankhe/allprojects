@@ -28,4 +28,4 @@ _Notes: Scholarly hypotheses linking the vrātyas to early Rudra-worshipping or 
 
 - 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/panchavimsabrahmana.md, text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/atharvaveda-samhita_saunaka_rechension_unachchented_teXt.md (GRETIL, Roth–Whitney numbering), https://www.wisdomlib.org/hinduism — Pañcaviṃśa Brāhmaṇa 17.1–4 vrātyastomas located (hīnā vā ete hīyante ye vrātyāṃ pravasanti …) — the locus from memory is exact. Sāyaṇa on AVŚ 15: introduces vrātya as one without upanayana, yet on 15.1.1 calls the Vrātya 'vidvattama, mahādhikāra, puṇyaśīla, viśvasaṃmānya' — confirming 'a learned, revered figure'; the 'or the Supreme' alternative not seen.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._

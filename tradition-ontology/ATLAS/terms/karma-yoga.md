@@ -11,6 +11,7 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Performing one's prescribed action without attachment to its fruit, as a discipline that frees from the bondage of action (BhG 2.47–48, 3.3–9); judged better than mere renunciation of action (5.2).
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): The yoga of action, fitting those not yet disgusted who still have desires; performed without desire, it purifies and leads to knowledge or devotion.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 5.2: the yoga of action, which together with renunciation brings the highest good and is superior to the renunciation of action; in 5.10–12 it is acting with actions placed in Brahman, abandoning attachment and the fruit, for purification of the self.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: The yoga of action: one of the means by which the self is seen (13.25).
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): Action according to one's duty, without sense of agency, ownership or desire for fruit, as the Lord's worship; it purifies the mind and itself can lead to the vision of the self.
 
 ## Forms in other languages
@@ -22,5 +23,6 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.2, tea:bhagavad-gita:5.10, tea:bhagavad-gita:5.11, tea:bhagavad-gita:5.12 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:13.25 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch04-06, skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15, skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._

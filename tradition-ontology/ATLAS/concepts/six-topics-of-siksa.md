@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/taittiriya-upanisad — TU 1.2 has 'varṇaḥ svaraḥ | mātrā balam | sāma santānaḥ'; all six members match. Rests on teaching checks confirmed in this sweep: tea:taittiriya-upanisad:1.2.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

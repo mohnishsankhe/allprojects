@@ -21,4 +21,4 @@ Developing the body contemplations of MN 10 together with the four jhānas as pe
 - partial: [Reflection on the parts of the body (paṭikūlamanasikāra)](patikulamanasikara.md) — the sutta contemplation of the thirty-two parts (U36)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._

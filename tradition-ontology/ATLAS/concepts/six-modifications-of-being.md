@@ -19,4 +19,4 @@ _Notes: Later Vedānta uses the list for what the unchanging self is free of._
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (GRETIL, Sarup ed.) — Nirukta 1.2 has 'ṣaḍ bhāvavikārā bhavantīti vārṣyāyaṇiḥ | jāyate 'sti vipariṇamate vardhate 'pakṣīyate vinaśyatīti'; all six members and the attribution match. Rests on teaching checks confirmed in this sweep: tea:nirukta:1.2.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

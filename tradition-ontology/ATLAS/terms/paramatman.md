@@ -7,6 +7,7 @@
 **Literal:** the supreme self
 
 ## Definitions by tradition
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: one of the names of 'the highest puruṣa in this body' (13.23); this supreme self, beginningless, without guṇas and imperishable, though dwelling in the body neither acts nor is tainted (13.32); the highest person, other than the perishable and the imperishable, is called the supreme self, the imperishable lord who enters and sustains the three worlds (15.17).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The supreme person in the body — witness, permitter, supporter, experiencer, great Lord (BhG 13.22); the highest puruṣa (15.17); beginningless and without guṇas, it neither acts nor is tainted (13.31).
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): In the Bhāgavata one of the three names of the non-dual reality (with Brahman and Bhagavān).
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The supreme self whose subtlety the renouncer discerns by yoga (MDh 6.65).
@@ -21,13 +22,14 @@
 - Prakrit: paramappā  — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [ātman](atman.md), [Puruṣottama](purusottama.md), [īśvara](isvara.md), [brahman](brahman.md)
+**Related:** [puruṣa](purusa.md), [Puruṣottama](purusottama.md), [īśvara](isvara.md), [ātman](atman.md), [brahman](brahman.md)
 
 _Notes: In Nyāya the supreme self is a distinct self, not the self of all._
 
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:13.23, tea:bhagavad-gita:13.32, tea:bhagavad-gita:15.17 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.7 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U02-brahmana-vedanga, skeleton:U13-advaita, skeleton:U35-jain-philosophy, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch04-06, skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U02-brahmana-vedanga, skeleton:U13-advaita, skeleton:U35-jain-philosophy, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch04-06, skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._

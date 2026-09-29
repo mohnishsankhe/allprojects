@@ -13,4 +13,4 @@
 Disciple of Jigten Sumgön who compiled his vajra statements as the Gongchig ('Single Intent').
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

@@ -15,4 +15,4 @@
 - exact: [śāmbhavī (mudrā)](sambhavi.md) — Defined in identical terms (antarlakṣya, bahirdṛṣṭi, nimeṣonmeṣa-varjitā).
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:14 IST._

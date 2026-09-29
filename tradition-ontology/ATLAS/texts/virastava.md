@@ -13,4 +13,4 @@
 A short Prakīrṇaka in some lists praising Mahāvīra through a series of his names and epithets.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

@@ -13,4 +13,4 @@
 Accounts of 252 disciples of Viṭṭhalanātha, including the other four aṣṭachāp poets, attributed to Gokulnāth/Harirāy.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._

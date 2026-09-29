@@ -15,4 +15,4 @@
 'Second founder' of Sōtō: founded Yōkōji and Sōjiji, integrated esoteric and devotional rites, opened Sōtō to women and laity; author of the Denkōroku and Zazen yōjinki.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

@@ -16,4 +16,4 @@ Bengali author of the Smṛtitattva.
 
 - 2026-09-28 websearch: confirmed — https://en.banglapedia.org/index.php/Raghunandan_Bhattacharya, https://www.wisdomlib.org/definition/smrititattva — Confirmed: c. 1510–1580, Bengal (Banglapedia; Wisdomlib).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

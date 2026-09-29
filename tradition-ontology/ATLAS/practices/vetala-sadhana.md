@@ -13,4 +13,4 @@ Summary only: in Bāṇa's Harṣacarita the Śaiva adept Bhairavācārya perfor
 _Notes: Named 'vetāla-sādhana' in scholarship; the text's details were not checked in this run._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:14 IST._

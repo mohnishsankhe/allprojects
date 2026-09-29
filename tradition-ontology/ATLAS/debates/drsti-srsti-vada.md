@@ -27,4 +27,4 @@ Both are explanatory devices within the empirical; GK 3.15 treats creation accou
 **The traditions' own objections:** Critics within Advaita hold that dṛṣṭi-sṛṣṭi collapses into subjective idealism, which Śaṅkara rejected against the Buddhists (BSBh 2.2.28–32).
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._

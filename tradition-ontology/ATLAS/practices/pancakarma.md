@@ -18,4 +18,4 @@ After oleation and sudation, the doṣas are expelled by emesis (kapha), purgati
 - Strong purgative, cauterizing and surgical measures cannot be borne by the weak and may take life at once. — [Caraka Saṃhitā](../texts/caraka-samhita.md) Vi 8.94
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._

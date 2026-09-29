@@ -12,4 +12,4 @@ To turn from the five desires, the aspirant contemplates the body as impure in s
   - [Ten Doubts about the Pure Land (Jingtu shiyi lun)](../texts/jingtu-shiyi-lun.md) — ref: 80b30-c; rests_on: ["tea:jingtu-shiyi-lun:80b30"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._

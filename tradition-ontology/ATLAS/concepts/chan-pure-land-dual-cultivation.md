@@ -15,4 +15,4 @@
 _Notes: The Chan side is contributed only as reported in Pure Land texts; U42 owns the Chan definitions._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._

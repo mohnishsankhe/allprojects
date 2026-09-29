@@ -30,4 +30,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:9.18 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U13-advaita, skeleton:U15-dvaita, extraction:bhagavad-gita/ch07-09, skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U23-sakta-srividya, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U15-dvaita, extraction:bhagavad-gita/ch07-09, skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U23-sakta-srividya, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._

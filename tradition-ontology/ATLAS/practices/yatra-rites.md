@@ -16,4 +16,4 @@ For a king's march: choosing the day, asterism, moment and rising sign; examinin
 - Rites alone — mantra, consecration, amulets, pacification, oblation, fasting, worship, recitation — do not bring success, or the king's priest would be king. — [Yogayātrā](../texts/yogayatra.md) 1.6
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._

@@ -17,4 +17,4 @@
 **Related:** [nairāśya](nairasya.md), [moha](moha.md), [śruti](sruti.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas, extraction:bhagavad-gita/ch01-03, skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U06-other-gitas, extraction:bhagavad-gita/ch01-03, skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._

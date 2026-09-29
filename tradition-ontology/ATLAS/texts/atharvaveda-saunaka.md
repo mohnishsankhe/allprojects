@@ -575,4 +575,4 @@ _Notes: Sūkta numbering in some printed editions (e.g. the local DharmicData te
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Atharvaveda (Śaunaka), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/atharvaveda-samhita_saunaka_rechension_unachchented_teXt.md (GRETIL, Roth–Whitney numbering), https://en.wikipedia.org/wiki/Atharvaveda — Extant. Local GRETIL count: 20 kāṇḍas, 731 sūktas, c. 5,840 numbered verses (entry: c. 730 sūktas, c. 6,000 verses — agrees); book 13 has 4 sūktas in Whitney's numbering; 9.9–10 reproduce RV 1.164 (located). Witzel dates it at or slightly after c. 1200/1000 BCE (entry: c. 1200–900 BCE). Sumantu as receiver is the tradition's account (Bhāgavata 1.4.22, located).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._

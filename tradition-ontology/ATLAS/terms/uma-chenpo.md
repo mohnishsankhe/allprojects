@@ -17,4 +17,4 @@
 _Notes: The same name is used in the Nyingma (Rongzom, Mipham) for a Madhyamaka of the union of appearance and emptiness, not identical with Dolpopa's usage._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._

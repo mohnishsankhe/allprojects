@@ -17,10 +17,12 @@ Bhagavad Gītā 1–3: Passion or attraction (rāga), set together with aversion
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 1.11; rests_on: ["tea:yoga-bhasya:1.11"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 4.10; rests_on: ["tea:bhagavad-gita:4.10"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.3; rests_on: ["tea:bhagavad-gita:5.3"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.7; rests_on: ["tea:bhagavad-gita:14.7"]
 
 ---
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.10, tea:bhagavad-gita:5.3 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:14.7 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U09-samkhya, skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U09-samkhya, skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:14 IST._

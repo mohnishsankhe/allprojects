@@ -51,4 +51,4 @@ The 'Triad' tradition: a Vidyāpīṭha cult of the goddesses Parā, Parāparā 
 [What occasions the descent of power (śaktipāta): the equality of karma, the maturing of impurity, or the Lord's free will alone?](../debates/cause-of-saktipata.md), [Does initiation (dīkṣā) itself liberate, or is knowledge the direct cause of liberation?](../debates/does-diksa-liberate.md), [Is the root impurity (āṇava mala) a real substance removable only by ritual initiation, or is it ignorance - a contraction of consciousness - removed by knowledge?](../debates/mala-substance-or-ignorance.md), [Are the rules of ritual purity and conventional conduct binding on the knower?](../debates/purity-impurity-kaula.md), [Are the dualist Siddhānta scriptures or the non-dual Bhairava tantras the higher revelation?](../debates/rank-of-siddhanta-and-bhairava-tantras.md)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._

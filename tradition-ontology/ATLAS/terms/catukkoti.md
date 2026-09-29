@@ -16,4 +16,4 @@
 _Notes: The term catukkoṭi is later than DN 2; the fourfold question form is in the text._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

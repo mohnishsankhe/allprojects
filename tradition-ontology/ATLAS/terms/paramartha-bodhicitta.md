@@ -17,4 +17,4 @@
 _Notes: Tengyur D3911 and D3912 are titled instructions on cultivating the conventional and the ultimate awakening mind (catalog:Derge-Tengyur:D3911, D3912); authorship not checked._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._

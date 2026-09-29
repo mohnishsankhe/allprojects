@@ -13,4 +13,4 @@
 A Telugu hagiography of Mallikārjuna Paṇḍitārādhya, the Andhra Śaiva teacher contemporary with Basava, including much lore of Śaiva devotees and of Śrīśaila.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:14 IST._

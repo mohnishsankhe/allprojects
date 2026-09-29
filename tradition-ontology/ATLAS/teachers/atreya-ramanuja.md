@@ -13,4 +13,4 @@
 Kiḍāmbi Appuḷḷār, maternal uncle and teacher of Vedānta Deśika, disciple of Naḍādūr Ammāḷ; the Nyāyakuliśa is attributed to him.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._

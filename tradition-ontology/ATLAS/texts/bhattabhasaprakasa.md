@@ -16,4 +16,4 @@ Nārāyaṇa Tīrtha's short manual of Bhāṭṭa doctrine.
   - kind: original; name: digital text (Karnataka Samskrit University contribution); licence: unknown
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:14 IST._

@@ -36,4 +36,4 @@ Chinese masters (Yanshou, Zhuhong) accept both gates and even join them; Hōnen 
 **The traditions' own objections:** Shinshū denies that self-power can bring birth in the true land and would not accept that the two are equal paths; Chan teachers who reject seeking outside would not accept the Western land as more than expedient.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._

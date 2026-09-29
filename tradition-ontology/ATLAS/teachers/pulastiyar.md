@@ -11,4 +11,4 @@ Sage named in Siddha lore as a disciple of Agastya and an authority on medicine.
 _Notes: Recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._

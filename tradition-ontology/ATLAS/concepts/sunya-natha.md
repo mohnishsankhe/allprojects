@@ -14,4 +14,4 @@
 - contrasts-with → [The void (śūnya, bayalu) in Allama Prabhu](sunya-allama.md): Allama's void is dissolution in the liṅga, which the Vīraśaivas set above Gorakṣa's perfected body — rests on [6.272-273](../texts/jnanesvari.md#tea-jnanesvari-6-272-273)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora. Generated 2026-09-29 18:14 IST._

@@ -9,6 +9,7 @@
 ## Definitions by tradition
 - [Āyurveda](../lineages/ayurveda.md): Lineage contribution (Āyurveda): craving consisting of desire and aversion arises from pleasure and pain and is again their cause, grasping the seats of feeling (Ca Śā 1.134-135); the ignorant takes it from objects as the silkworm its deadly threads (Śā 1.96).
 - [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md): Arising from love of self; it hides faults and leads to appropriation.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: Thirst: rajas is bound up with thirst and attachment (14.7).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Thirst from which, with attachment, rajas arises (BhG 14.7).
 - [Sarvāstivāda](../lineages/sarvastivada.md): Craving, the eighth limb of dependent origination: desire for pleasures and sexual union.
 
@@ -20,4 +21,8 @@
 - exact: [taṇhā](tanha.md) — Sanskrit and Pali forms of the same canonical term; school definitions differ (see the per-lineage definitions).
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U41-yogacara-pramana, skeleton:U05-gita-epic, skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:14.7 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic, skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._

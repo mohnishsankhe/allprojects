@@ -11,4 +11,4 @@ For the proud: analysing the body into the six elements (earth, water, fire, air
   - [Śrāvakabhūmi](../texts/sravakabhumi.md) — ref: second yogasthāna; rests_on: ["tea:sravakabhumi:2.carita"]
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

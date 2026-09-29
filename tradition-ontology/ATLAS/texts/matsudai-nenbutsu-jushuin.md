@@ -16,4 +16,4 @@ Benchō's work setting out the transmission of Hōnen's teaching (the settled mi
 _Notes: Date and content outline low confidence._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._

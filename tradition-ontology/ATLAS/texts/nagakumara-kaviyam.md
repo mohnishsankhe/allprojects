@@ -11,4 +11,4 @@
 A Tamil Jain minor epic on Nāgakumāra, counted among the five minor epics; the text is reported lost or known only in part (low confidence).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

@@ -78,4 +78,4 @@ terms: [kevala-jñāna](../terms/kevala-jnana.md), [kevala-darśana](../terms/ke
 _Notes: Registry id. Commented by Abhayadeva (Tattvabodhavidhāyinī / Vādamahārṇava). Title present in the local catalogue (catalog:JainDB:सन्मतितर्क--सिद्धसेनाचार्य); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

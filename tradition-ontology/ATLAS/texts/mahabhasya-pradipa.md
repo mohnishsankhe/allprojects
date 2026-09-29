@@ -20,4 +20,4 @@ Kaiyaṭa's commentary on Patañjali's Mahābhāṣya, the basis of later Pāṇ
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:eBharati:mahAbhAShyapradIpaH, https://www.wisdomlib.org/definition/kaiyata — Extant. Kaiyaṭa of Kashmir, 11th c. (Wisdomlib), matching the entry.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._

@@ -18,4 +18,4 @@ Anger, pride, deceit and greed — the glue that makes karma stick to the soul �
 - partial: [Greed, anger and delusion as roots of harmful thoughts](lobha-krodha-moha.md) — Overlapping lists of passions; the Jain four include pride and deceit.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._

@@ -11,4 +11,4 @@ A guru yoga recited in four sessions daily, supplicating the Karmapa as the unio
   - [The Four-Session Guru Yoga](../texts/four-session-guru-yoga.md) — 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

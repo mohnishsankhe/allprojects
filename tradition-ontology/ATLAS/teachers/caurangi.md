@@ -15,4 +15,4 @@ A Nāth siddha (Cauraṅgī in HYP 1.5): a prince whose hands and feet were cut 
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U44-indian-vajrayana, skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U44-indian-vajrayana, skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._

@@ -13,4 +13,4 @@
 - is-a → [The four jhānas](four-jhanas.md): the Abhidhamma's fivefold count of the same absorptions
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._

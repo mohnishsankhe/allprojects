@@ -13,4 +13,4 @@ King, son of Iḍā, infatuated with the apsaras Urvaśī; his song of disenchan
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — Singer of the Aila Gītā, BhP 11.26.4-24 ('ailaḥ samrāṭ').
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._

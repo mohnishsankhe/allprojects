@@ -26,4 +26,4 @@
 
 - definitions: Maṇḍalabrāhmaṇa 4.1 in the e-text reads 'navacakraṃ ṣaḍādhāraṃ trilakṣyaṃ vyomapañcakam', that is nine cakras and SIX ādhāras. The 'sixteen ādhāras' belong to Yogacūḍāmaṇi 3 ('ṣaṭcakraṃ ṣoḍaśādhāraṃ trilakṣyaṃ vyomapañcakam'). The definition is corrected accordingly. The Yogaśikhā's four pīṭhas are confirmed at 1.172-175. All 8 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:3-ascent-through-the-centres (corrected).
 
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._

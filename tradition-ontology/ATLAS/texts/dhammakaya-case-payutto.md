@@ -26,4 +26,4 @@ teachers: [P. A. Payutto](../teachers/payutto.md) · disputes: [Is nibbāna a tr
 
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._

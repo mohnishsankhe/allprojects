@@ -85,4 +85,4 @@ concepts: [Consciousness from the elements (bhūta-caitanya)](../concepts/bhuta-
 _Notes: Id already used by U11/U17; U35 adds the Jain view of the other darśanas._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

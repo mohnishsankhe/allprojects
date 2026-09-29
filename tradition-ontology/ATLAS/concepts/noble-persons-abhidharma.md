@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The four paths and four fruits](four-paths-and-fruits.md): Same four paths and fruits; the Kośa adds the faculty-based subtypes. — rests on [6.29-31](../texts/abhidharmakosa.md#tea-abhidharmakosa-6-29-31)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._

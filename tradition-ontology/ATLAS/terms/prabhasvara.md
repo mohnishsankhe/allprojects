@@ -20,4 +20,4 @@
 **Related:** [prabhāsvara-citta](prabhasvara-citta.md)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U46-kagyu, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U46-kagyu, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

@@ -11,7 +11,7 @@ The common and uncommon preliminaries (refuge, bodhicitta, purification, maṇ�
 **Prerequisites:** ['Kālacakra empowerment']
 **Sources:** 
   - [Meaningful to Behold: an instruction manual on the vajra-yoga (rdo rje rnal 'byor gyi khrid yig mthong ba don ldan)](../texts/thongwa-donden-taranatha.md) — ref: qualifications; rests_on: ["tea:thongwa-donden-taranatha:qualifications"]
-**Sequences:** `pth:kalacakra-six-branches`
+**Sequences:** [The six-branch yoga (ṣaḍaṅga-yoga) of the Kālacakra](../paths/kalacakra-six-branches.md)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._

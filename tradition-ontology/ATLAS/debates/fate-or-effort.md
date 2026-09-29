@@ -40,4 +40,4 @@ Karma: the serpent, Death and Time each disclaim causing the boy's death until h
 **The traditions' own objections:** Svabhāva-vāda and kāla-vāda as held by their proponents deny that effort is a cause at all; the reconciliation does not claim they would accept being one factor among five.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._

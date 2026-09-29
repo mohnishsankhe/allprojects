@@ -12,4 +12,4 @@ Present mahant of the Gorakhnāth Maṭh, Gorakhpur (from 2014), also a politica
 _Notes: Recorded only as head of the seat; no teachings attributed._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:14 IST._

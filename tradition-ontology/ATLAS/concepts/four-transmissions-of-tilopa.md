@@ -15,4 +15,4 @@
 _Notes: The attribution list is from the local Tōh 2330 (U44's source); variant lists from memory._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

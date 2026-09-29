@@ -12,4 +12,4 @@ Daily worship of Viṣṇu with Vedic mantras: eight services to the fixed image
   - [Samūrtārcanādhikaraṇa](../texts/samurtarcanadhikarana.md) — 
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._

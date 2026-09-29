@@ -14,4 +14,4 @@
 _Notes: Lineage order and the secrecy period recalled; check against Sakya histories._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

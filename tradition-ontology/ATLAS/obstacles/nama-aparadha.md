@@ -19,4 +19,4 @@ Blaspheming devotees; regarding Śiva's names and qualities as independent of Vi
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/peterFreund/purANam/padma_purana_II.md Brahmakhaṇḍa 25.15-18, local:sources_raw/dcs/corpus/GRETIL/sa_nAradapurANa.txt (Sansknet) 1.82.22-24 — Now located in the Padma Brahmakhaṇḍa 25.15-18 (local peterFreund e-text) and in a parallel list at Nārada Purāṇa 1.82.22-24 (guror avajñā, sādhūnāṃ nindā, bheda between Hara and Hari, vedanindā, sinning on the strength of the name, arthavāda, teaching the faithless, forgetting and disregarding the name). The Padma edition reads 'śubhasya śrīviṣṇoḥ' where the Gauḍīya citation (followed here) has 'śivasya' for the second offence. The teachings it rests on were located; tea:padma-purana:nama-aparadha has a partial or corrected result (see its check).
 
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

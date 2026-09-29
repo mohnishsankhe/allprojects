@@ -17,4 +17,4 @@ The 'path of discrimination', an Abhidhamma-style treatise in the Sutta Piṭaka
 _Notes: Treated in depth by U37 with the Visuddhimagga, which draws on it._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

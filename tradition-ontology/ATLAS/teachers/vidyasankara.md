@@ -9,4 +9,4 @@
 Śṛṅgeri pontiff of the 14th c., remembered in the Śṛṅgeri tradition as Vidyāraṇya's teacher; the Vidyāśaṅkara temple at Śṛṅgeri commemorates him.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._

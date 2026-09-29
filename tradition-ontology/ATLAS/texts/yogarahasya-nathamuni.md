@@ -14,4 +14,4 @@
 Nāthamuni's lost treatise on (aṣṭāṅga) yoga, which the hagiographies say he taught to Kurukai Kāvalappaṉ; the original is lost. A text published in the 20th century under this title is claimed in T. Krishnamacharya's lineage as a recovery; that claim belongs to lin:krishnamacharya and is not accepted here as the original.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._

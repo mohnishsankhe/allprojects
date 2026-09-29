@@ -45,4 +45,4 @@ terms: [rlung](../terms/lung.md), [srog 'dzin (rlung)](../terms/sogdzin-lung.md)
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._

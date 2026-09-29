@@ -13,4 +13,4 @@ Author of the Mṛtasañjīvanī commentary on Piṅgala's Chandaḥśāstra.
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Halayudha — Confirmed: 10th c., author of the Mṛtasañjīvanī on Piṅgala (Wikipedia).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

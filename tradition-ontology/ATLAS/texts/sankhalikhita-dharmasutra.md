@@ -15,4 +15,4 @@ A lost Dharmasūtra of the brothers Śaṅkha and Likhita, named by Parāśara a
 
 - 2026-09-28 catalog: partially-confirmed — catalog:eBharati:aShTAdashasmRtayaH (Śaṅkhasmṛti, Likhitasmṛti) — Metrical Śaṅkha- and Likhita-smṛtis survive (local Aṣṭādaśasmṛti collection), and ParSm 1.24 assigns 'śāṅkhalikhitāḥ' to the Dvāpara (text-located). The lost prose Dharmasūtra known from quotations was not separately verified.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

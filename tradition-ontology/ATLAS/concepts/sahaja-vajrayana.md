@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The innate (sahaja)](sahaja.md) (shared vocabulary of the siddha movements): The Nāth, Vaiṣṇava Sahajiyā and Buddhist siddhas share the word and the goal of 'the innate'; each defines it in its own frame (emptiness-bliss here). — rests on [v21-22](../texts/dohakosa-saraha.md#tea-dohakosa-saraha-v21-22)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

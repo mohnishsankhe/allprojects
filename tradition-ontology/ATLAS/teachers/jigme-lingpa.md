@@ -18,4 +18,4 @@ Treasure revealer and Dzogchen master who, in three visions of Longchenpa during
 **Realization — the tradition's account:** Received the mind-transmission of Longchenpa's wisdom body in visions.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

@@ -15,4 +15,4 @@ Brooding on the disagreeable, the agreeable, pain and future reward (ārta), and
   - [Jñānārṇava](../texts/jnanarnava.md) — ref: asad-dhyana; rests_on: ["tea:jnanarnava:asad-dhyana"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._

@@ -25,4 +25,4 @@
 _Notes: Graded equivalences between the defining terms are recorded on the terms (trm:parama-prema, trm:paranurakti, trm:matinalam, trm:kanta-bhava) with rests_on. The schools do not accept each other's definitions: Advaita reads devotion as a means to or form of self-knowledge; the Nārada Sūtra holds it is the fruit; Rāmānuja makes it a form of knowledge; the Śāṇḍilya Sūtra denies that it is knowledge._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._

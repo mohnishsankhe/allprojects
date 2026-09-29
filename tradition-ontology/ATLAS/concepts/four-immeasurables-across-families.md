@@ -19,4 +19,4 @@
 _Notes: Structural observation (interpretation layer): YS 1.33 and TS 7.11 both pair each attitude with a class of beings; the Pali formula does not._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:14 IST._

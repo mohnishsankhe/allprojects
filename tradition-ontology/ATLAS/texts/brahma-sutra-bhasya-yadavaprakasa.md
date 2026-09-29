@@ -13,4 +13,4 @@
 A lost commentary teaching natural (svābhāvika) difference-and-non-difference: Brahman itself transforms into Īśvara, souls and matter. Known from Rāmānuja's Vedārthasaṅgraha and Śrībhāṣya and later Śrīvaiṣṇava refutations.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._

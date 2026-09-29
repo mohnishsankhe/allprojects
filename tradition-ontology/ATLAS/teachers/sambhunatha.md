@@ -13,4 +13,4 @@ Abhinavagupta's teacher in the Kaula form of the Trika, from Jālandhara; the Ta
 _Notes: Teacher-name Sumati(nātha) from TĀ ch. 1 as quoted in Jayaratha (low confidence on the relationship)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._

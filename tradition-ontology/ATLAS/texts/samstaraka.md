@@ -14,4 +14,4 @@
 A Prakīrṇaka praising the death-bed of grass (saṃstāraka) of the monk who dies in meditation, with exemplary stories (restricted theme: summary only).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

@@ -14,4 +14,4 @@
 Karma Chagmé's retreat teachings (ri chos) for practitioners in strict retreat.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

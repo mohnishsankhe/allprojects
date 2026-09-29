@@ -25,4 +25,4 @@ The reconciliation claims only that the two statements answer different question
 **The traditions' own objections:** Sakya Paṇḍita's objection is precisely to the blurring of rules; Drikung holds its formulation already preserves the distinctions.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

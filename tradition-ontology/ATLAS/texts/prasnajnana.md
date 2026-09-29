@@ -13,4 +13,4 @@
 A short interrogation text ascribed to Bhaṭṭotpala.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._

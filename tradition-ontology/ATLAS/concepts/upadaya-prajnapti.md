@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Emptiness (śūnyatā) in Madhyamaka](sunyata.md): PsP on 24.18 — rests on [24.18](../texts/prasannapada.md#tea-prasannapada-24-18)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._

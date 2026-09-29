@@ -14,4 +14,4 @@
 Bhāskarabhaṭṭa's Marathi rendering of Kṛṣṇa's teaching to Uddhava (Bhāgavata 11), among the seven classic Mahānubhāva poems.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

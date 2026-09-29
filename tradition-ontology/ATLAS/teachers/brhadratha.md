@@ -13,4 +13,4 @@ A king of the Ikṣvāku line who, having installed his son and renounced his ki
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering) — Located: MaiU 1.2-4 ('bṛhadratho vai nāma rājā virājye putraṃ nidhāpayitvā …') and 2.1 ('ikṣvākuvaṃśadhvaja').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._

@@ -11,4 +11,4 @@ Worship, circumambulation and vows at the tomb-shrines (brindāvanas) of Mādhva
 _Notes: Living practice described from general knowledge; no textual source checked._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:14 IST._

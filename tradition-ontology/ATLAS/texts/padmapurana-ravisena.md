@@ -18,4 +18,4 @@ Raviṣeṇa's Sanskrit Jain Rāmāyaṇa (Padma = Rāma), based on Vimalasūri'
 _Notes: Distinct from the Brahmanical Padma Purāṇa (src:padma-purana)._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

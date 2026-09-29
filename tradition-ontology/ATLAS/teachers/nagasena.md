@@ -11,4 +11,4 @@
 The monk who answers King Milinda in the Milindapañha (chariot simile, the flame).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

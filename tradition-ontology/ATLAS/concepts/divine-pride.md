@@ -15,4 +15,4 @@
 _Notes: The Tibetan term is standard; a single Sanskrit technical equivalent is not fixed here._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

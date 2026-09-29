@@ -11,4 +11,4 @@
 Fourth patriarch, who settled on Mount Shuangfeng (Huangmei) with a large community; taught 'guarding the one without moving' and the one-practice samādhi (Lengqie shizi ji). When a novice he asked Sengcan for liberation and was asked 'who binds you?'
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

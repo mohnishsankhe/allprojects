@@ -14,4 +14,4 @@
 - causes → [The conjunction of seer and seen (saṃyoga)](samyoga.md) — rests on [2.17](../texts/yoga-sutra.md#tea-yoga-sutra-2-17), [2.24](../texts/yoga-sutra.md#tea-yoga-sutra-2-24)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._

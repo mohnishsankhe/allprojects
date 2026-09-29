@@ -23,4 +23,4 @@ The Tibetan canon places the Amṛtasiddhi among the siddhas' works, opening wit
 _Notes: Evidence: brw:amrtasiddhi-buddhist-to-hatha, brw:four-empties-and-hatha-voids, brw:vajroli-name-and-bindu-retention, brw:natha-mahasiddha._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:14 IST._

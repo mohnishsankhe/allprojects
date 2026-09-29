@@ -11,4 +11,4 @@
 Eknāth's guru (tradition 1504–1575), an official at the Devagiri (Daulatābād) fort and devotee of Dattātreya, through whom Eknāth received Datta's vision; Eknāth signs his verses 'Ekā Janārdanī'.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

@@ -15,4 +15,4 @@ A series of twelve progressively severe undertakings for qualified monks, restri
 - Only for monks of sufficient bodily strength, scriptural learning and years of standing, with the teacher's permission. — [Daśāśrutaskandha](../texts/dasasrutaskandha.md) 7
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

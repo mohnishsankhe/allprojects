@@ -10,4 +10,4 @@
 Advaita teacher (1930–2015) of the traditional method of teaching (sampradāya) through the texts; founder of the Arsha Vidya Gurukulam. Distinct from the 19th-c. founder of the Ārya Samāj.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._

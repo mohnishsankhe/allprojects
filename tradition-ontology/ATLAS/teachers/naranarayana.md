@@ -10,4 +10,4 @@
 Koch king (r. c. 1540–1586) at whose court Śaṅkaradeva spent his last years; commissioned the Guṇamālā and defended Śaṅkaradeva against brahmin accusers.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

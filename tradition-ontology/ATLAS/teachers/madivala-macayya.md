@@ -13,4 +13,4 @@
 The washerman śaraṇa of Kalyāṇa, remembered as the fierce defender of the devotees (gaṇācāra) who protected the śaraṇas and their vacana bundles in the flight after the upheaval.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:14 IST._

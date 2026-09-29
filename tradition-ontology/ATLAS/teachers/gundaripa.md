@@ -13,4 +13,4 @@ Siddha-poet of the Caryāgīti: poet of Caryāgīti 4.
 _Notes: Song numbers recalled from the standard edition (Shastri/Kvaerne); not read locally._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

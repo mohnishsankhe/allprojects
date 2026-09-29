@@ -13,4 +13,4 @@
 **Related:** [Prājña](prajna.md), [vijñāna](vijnana.md)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._

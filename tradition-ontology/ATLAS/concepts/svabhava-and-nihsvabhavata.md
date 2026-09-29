@@ -14,4 +14,4 @@
 - contrasts-with → [Madhyamaka's critique of the Abhidharma](madhyamaka-critique-of-abhidharma.md): own-nature of dharmas is the Abhidharma notion under examination — rests on [1.3](../texts/mulamadhyamakakarika.md#tea-mulamadhyamakakarika-1-3)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._

@@ -32,4 +32,4 @@ Candidate readings: (1) asat = the unmanifest (avyākṛta) before name and form
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā mūla Taitiriya.md, vallī.anuvāka.verse), text:sources_raw/raw_etexts/vedAntam/advaitam/advaita-shAradA — Located: ChU 6.2.1-2, TU 2.6.1, 2.7.1, ChU 3.19.1. The Vedānta reading is confirmed in the Advaita-Śāradā Brahma Sūtra: BS 2.1.17 'asadvyapadeśān neti cen na dharmāntareṇa vākyaśeṣāt'. All 8 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 6.2.2; ChU 6.2.3; TU 2.7; ChU 3.19; TU 2.6; TU 2.7.1; ChU 3.19.1; ChU 6.2.1-2). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._

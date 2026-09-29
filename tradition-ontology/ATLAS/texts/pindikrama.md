@@ -15,4 +15,4 @@ The Ārya school's condensed generation-stage sādhana of the Akṣobhya Guhyasa
   - kind: original; name: GRETIL e-text (Tripathi ed.); licence: GRETIL; url: local
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

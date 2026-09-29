@@ -16,4 +16,4 @@ Drakpa Gyaltsen's large exposition of the tantric path, classes and practices as
   - kind: original; name: Tibetan: collected works (gsung 'bum), several xylograph and modern editions
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

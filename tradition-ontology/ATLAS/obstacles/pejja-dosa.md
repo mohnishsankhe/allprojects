@@ -14,4 +14,4 @@ The two roots of karma under which the four passions are gathered (deceit and gr
   - [Kaṣāyapāhuḍa](../texts/kasayapahuda.md) — ref: 1; rests_on: ["tea:kasayapahuda:1"]
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

@@ -11,4 +11,4 @@ Doing evil through desire, hatred, delusion or fear (DN 31).
   - [Sigālovāda Sutta](../texts/sigalovada-sutta.md) — ref: 3-6; rests_on: ["tea:sigalovada-sutta:3-6"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

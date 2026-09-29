@@ -19,4 +19,4 @@ The bodhisattva mentally gives away his body, possessions and the merit of the t
 _Notes: Marked restricted because it touches on giving the body; only the texts' summary and warnings are recorded._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._

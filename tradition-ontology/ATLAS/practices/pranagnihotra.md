@@ -29,4 +29,4 @@ At each meal the eater sips water ('immortal under-layer'), offers the first fiv
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 5.19-5.24). It rests on 1 teaching(s) text-located in this sweep, and its wording matches those passages.
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:14 IST._

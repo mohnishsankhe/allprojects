@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [Immutable bliss (akṣarasukha)](aksara-sukha-kalacakra.md) (Kālacakra as read by the Jonang): unchanging bliss is the bliss aspect of the same ultimate — rests on [annihilatory-emptiness](../texts/mountain-doctrine.md#tea-mountain-doctrine-annihilatory-emptiness), [5](../texts/kalacakra-tantra.md#tea-kalacakra-tantra-5)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._

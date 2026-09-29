@@ -12,4 +12,4 @@ The third hindrance, fed by discontent, lethargy and sleepiness after meals (SN 
   - [Pacalāyamāna Sutta](../texts/pacalayamana-sutta.md) — ref: 2-11; rests_on: ["tea:pacalayamana-sutta:2-11"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

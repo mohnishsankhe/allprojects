@@ -25,4 +25,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.5, tea:bhagavad-gita:8.6, tea:bhagavad-gita:8.7, tea:bhagavad-gita:8.8, tea:bhagavad-gita:8.9, tea:bhagavad-gita:8.13, tea:bhagavad-gita:8.14 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U07-puranas, skeleton:U25-alvar-bhakti-theory, skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U07-puranas, skeleton:U25-alvar-bhakti-theory, skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._

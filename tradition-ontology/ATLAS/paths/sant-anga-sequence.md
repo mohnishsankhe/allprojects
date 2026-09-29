@@ -20,4 +20,4 @@
 CAUTION: this is the editorial order of topics in the Dādūpanthī anthologies (Kabīr Granthāvalī, Dādū Vāṇī), not a ladder the texts themselves declare; recorded because the order recurs and reads as a progression. Aṅga names moderate-to-low confidence.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._

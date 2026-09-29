@@ -15,4 +15,4 @@
 - is-a → [The thought of awakening (bodhicitta) in the sūtras](bodhicitta-sutra.md) — rests on [2.bodhicitta](../texts/wangsheng-lun-zhu.md#tea-wangsheng-lun-zhu-2-bodhicitta)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._

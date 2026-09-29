@@ -37,4 +37,4 @@ _none recorded_
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/ebhAratI-sampat/dharmashAstram/smRtiH/jImUtavAhanaH/jIvAnandavidyAsAgaraH/dAyabhAgaH.md (eBhāratī Dāyabhāga, Jīvānanda ed. with commentary), https://en.wikipedia.org/wiki/D%C4%81yabh%C4%81ga, https://en.wikipedia.org/wiki/Jimutavahana — The Dāyabhāga (eBhāratī, with commentary) argues that ownership arises only on the father's death or fall: 'uparama eva svatvam', 'pitṛmaraṇakālīnam'. It also makes heirship follow benefit through piṇḍa offerings. Wikipedia's Dāyabhāga article agrees on both points. The c. 12th c. date matches the tch:jimutavahana check.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

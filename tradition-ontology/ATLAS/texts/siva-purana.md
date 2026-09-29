@@ -151,4 +151,4 @@ _Notes: Vidyeśvara: śravaṇa-kīrtana-manana, liṅga worship, the name, bhas
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL:zivapurANabooks-1-and-7, catalog:DCS:Śivapurāṇa, catalog:raw_etexts:shiva_purana, https://en.wikipedia.org/wiki/Shiva_Purana — Extant and digitized (GRETIL books 1 and 7; raw_etexts Vidyeśvara and Rudra saṃhitās; peterFreund; DCS). VP 3.6.21 and BhP 12.7.23 counting the Śaiva fourth confirmed locally. Web: oldest core c. 10th-11th c., some chapters after the 14th; the seven-saṃhitā version is one of several.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._

@@ -15,4 +15,4 @@
 **Related:** [mahākartā](mahakarta.md), [mahābhoktā](mahabhokta.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._

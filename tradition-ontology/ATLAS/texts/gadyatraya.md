@@ -15,4 +15,4 @@
 Rāmānuja's three prose hymns: the Śaraṇāgati Gadya (surrender to Śrī and then to Nārāyaṇa, with the Lord's answer), the Śrīraṅga Gadya (surrender to Raṅganātha) and the Śrīvaikuṇṭha Gadya (meditation on the Lord in Vaikuṇṭha).
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._

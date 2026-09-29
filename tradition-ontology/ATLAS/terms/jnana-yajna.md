@@ -22,4 +22,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:9.15 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.28, tea:bhagavad-gita:4.33 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._

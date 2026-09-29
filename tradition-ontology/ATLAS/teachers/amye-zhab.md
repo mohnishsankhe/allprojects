@@ -11,4 +11,4 @@ Sakya throne-holder and prolific historian of the Khön family, the Lamdre and t
 _Notes: Included as the historian of the Sakya; details recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

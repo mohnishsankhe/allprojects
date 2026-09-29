@@ -9,4 +9,4 @@
 A disciple of Milarepa associated with an early collection of his songs and teachings (the Ngendzong hearing lineage).
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

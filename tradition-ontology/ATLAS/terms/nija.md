@@ -16,4 +16,4 @@
 _Notes: Sanskrit form reconstructed from the Tibetan gnyug ma; the Apabhraṃśa dohās use ṇia/nia (low)._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

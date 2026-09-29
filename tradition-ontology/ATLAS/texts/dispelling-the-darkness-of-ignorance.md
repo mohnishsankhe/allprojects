@@ -14,4 +14,4 @@
 The 9th Karmapa's medium-length Mahāmudrā manual (the middle of his three), arranged as a sequence of meditation sessions.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

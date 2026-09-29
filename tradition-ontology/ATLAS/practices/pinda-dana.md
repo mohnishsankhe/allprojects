@@ -16,4 +16,4 @@ Offering rice-balls with sesame and water to the dead for the first ten days (wh
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:garuda-purana:2.5.30-37, tea:markandeya-purana:10.46-78 — GP 2.5.30-37 and MkP 10.72-75 located. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._

@@ -14,4 +14,4 @@ A gesture of the hands forming the yoni, shown to the goddess after meditation i
 _Notes: The form of the gesture is not described here; its details were not verified._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:14 IST._

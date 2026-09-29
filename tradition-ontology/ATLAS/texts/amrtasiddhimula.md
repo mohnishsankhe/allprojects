@@ -46,4 +46,4 @@ terms: [mahāmudrā](../terms/mahamudra.md), [heruka](../terms/heruka.md) · con
 _Notes: U49 contribution from the local Derge text; the Sanskrit (ed. Mallinson & Szántó 2021) was not available here._
 
 ---
-_Contributed by: skeleton:U49-cross-family, skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U49-cross-family, skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._

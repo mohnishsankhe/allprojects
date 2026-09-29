@@ -10,4 +10,4 @@ Indian yogin who, by the Kagyu account, was the rebirth (through transference) o
 **Realization — the tradition's account:** Darma Dode's consciousness entered a pigeon, then a dead brahmin boy's body; the boy revived and became the yogin Tiphupa ('the pigeon one').
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

@@ -18,4 +18,4 @@ _Notes: Further customary acts (placing on the ground, sesame, Gaṅgā water, t
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:12.3.50, tea:garuda-purana:2.5.123-126 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._

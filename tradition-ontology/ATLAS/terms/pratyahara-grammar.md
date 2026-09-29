@@ -15,4 +15,4 @@
 _Notes: Distinct from yogic pratyāhāra (sense-withdrawal), trm:pratyahara._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

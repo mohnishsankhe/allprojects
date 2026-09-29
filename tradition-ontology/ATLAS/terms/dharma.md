@@ -20,6 +20,7 @@
 - [Sarvāstivāda](../lineages/sarvastivada.md): An ultimate constituent that 'holds its own characteristic' (svalakṣaṇa-dhāraṇa); seventy-five kinds in five groups, existing as real entities (dravya) in all three times.
 - [Sautrāntika](../lineages/sautrantika.md): A momentary event in a series; only present dharmas exist, and many Vaibhāṣika dharmas are mere designations.
 - [Yogācāra](../lineages/yogacara.md): In the Triṃśikā's 'self and dharmas', the factors of existence of Abhidharma, which are only figuratively designated on the transformation of consciousness and lack imagined own-nature.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: The Lord is the foundation of everlasting (śāśvata) dharma (14.27).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Arjuna calls the Lord 'the unchanging guardian of the eternal dharma' (11.18); the teaching of the dear devotee's marks is 'this nectar of dharma' (dharmyāmṛta, 12.20).
 - [Jainism (Jaina dharma)](../lineages/jainism.md): In Jainism (1) the medium of motion (dharmāstikāya); (2) the tenfold virtue beginning with forbearance (TS 9.6); (3) the three jewels; (4) the nature of a thing and the protection of beings (Kārttikeyānuprekṣā 478).
 
@@ -37,6 +38,7 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.7, tea:bhagavad-gita:4.8 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:14.27 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:11.18, tea:bhagavad-gita:12.20 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U38-early-schools, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U38-early-schools, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._

@@ -12,4 +12,4 @@ When a chart or query shows the ancestors' displeasure (childlessness, repeated 
   - [Bṛhat Parāśara Horā Śāstra](../texts/brhat-parasara-hora-sastra.md) — ref: 83; rests_on: ["tea:brhat-parasara-hora-sastra:83.1-6"]
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._

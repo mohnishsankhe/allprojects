@@ -65,4 +65,4 @@ _Notes: Owned by U04. The Saṃnyāsa Upaniṣads are not a single school: most 
 
 - 2026-09-29 catalog+websearch: confirmed — https://en.wikipedia.org/wiki/Sannyasa_Upanishads, https://doi.org/10.1093/oso/9780195070453.001.0001, catalog:raw_etexts:manusmrti, catalog:raw_etexts:108_Upanishads — The Saṃnyāsa Upaniṣads are confirmed as a recognized corpus and renunciation as a living institution (Olivelle 1992; Wikipedia). The dating fits Olivelle: the older texts are pre-300 CE and the later ones c. 12th-15th c., mostly in Advaita milieus. The distinctive positions were located in the e-text: Jābāla 4 (renounce the same day), Maitreya 2.17, Jābāla 5, Paramahaṃsa, Śāṭyāyanīya 6-11, Nāradaparivrājaka 5, Jābāla 6 and Avadhūta 2. The transmission to Daśanāmī and Śrīvaiṣṇava tridaṇḍins is the entry's own claim and is plausible; it was not checked further.
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:14 IST._

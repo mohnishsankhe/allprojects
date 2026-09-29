@@ -15,4 +15,4 @@ Practise the three that the thunder repeats — da, da, da: be restrained (dāmy
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 5.2; BĀU 5.2.1-3). It rests on 1 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._

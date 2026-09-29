@@ -14,4 +14,4 @@
 Late-Ming master of Tiantai, Vinaya and Pure Land, one of the four great masters, who made faith, vow and practice (holding the name) the three provisions for birth; ninth patriarch in the later list.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._

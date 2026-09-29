@@ -15,4 +15,4 @@ Disciple of Ṛbhu in the Varāha, Tejobindu, Mahā and Annapūrṇā Upaniṣad
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md — VP 2.15.4 'tasya śiṣyo nidāgho 'bhūt pulastyatanayaḥ' and 2.15.6 'devikāyās taṭe vīranagaraṃ nāma vai puram' verified.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 2.15.4 — VP 2.15.4 'tasya śiṣyo nidāgho 'bhūt pulastyatanayaḥ' located.
 
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._

@@ -29,4 +29,4 @@ concepts: [The seven masters of Jōdo Shinshū (shichi kōsō)](../concepts/seve
 _Notes: The three are together called the Sanjō wasan._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._

@@ -39,4 +39,4 @@ concepts: [The guru in the minor Upaniṣads](../concepts/guru.md) · practices:
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

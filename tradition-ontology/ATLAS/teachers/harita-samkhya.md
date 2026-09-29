@@ -8,4 +8,4 @@
 Named in the Yuktidīpikā's list of teachers through whom the doctrine passed between Pañcaśikha and Īśvarakṛṣṇa (on SK 71: Hārīta, Vāddhali, Kairāta, Paurika, Ṛṣabheśvara, Pañcādhikaraṇa, Patañjali, Vārṣagaṇya, Kauṇḍinya, Mūka and others). Also named in the Māṭhara Vṛtti (on SK 71) among those through whom the knowledge came from Pañcaśikha to Īśvarakṛṣṇa: Bhārgava, Ulūka, Vālmīki, Hārīta, Devala and others.
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:14 IST._

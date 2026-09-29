@@ -11,4 +11,4 @@ Summary only: opponents report that the Kālāmukhas set up a pot of liquor and 
   - [Āgamaprāmāṇya](../texts/agamapramanya.md) — ref: Māheśvara section; rests_on: ["tea:agamapramanya:mahesvara-tantra/2"]
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:14 IST._

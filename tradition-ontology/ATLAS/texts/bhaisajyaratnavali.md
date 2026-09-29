@@ -15,4 +15,4 @@ A late compendium of formulations, widely used in modern Āyurvedic pharmacy.
 _Notes: Date and authorship recalled with low confidence; possibly post-1800 (then recent)._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._

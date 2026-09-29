@@ -15,4 +15,4 @@ Founder of the Ārya Samāj (1875); commented on the Ṛgveda and Yajurveda and 
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Arya_Samaj, https://www.britannica.com/biography/Dayananda-Sarasvati, https://en.wikipedia.org/wiki/Rigvedadi_Bhashya_Bhumika — Confirmed: 1824–1883; founded the Ārya Samāj (Bombay, April 1875); Ṛgvedādibhāṣyabhūmikā 1876–78; commentaries on RV and YV.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._

@@ -16,6 +16,7 @@
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): Desire: not praiseworthy in itself, yet no action is without it (MDh 2.2–4); never quenched by enjoyment (MDh 2.94).
 - [Kāmaśāstra (the science of love and pleasure)](../lineages/kamasastra.md): The aim of love and pleasure, proper to youth, to be pursued without harming dharma and artha (Kāmasūtra 1.2).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Desire: 'a person is made of desire' (BAU 4.4.5); the desiring one returns for action, the one without desire goes to brahman (BAU 4.4.6); when all desires in the heart are released the mortal becomes immortal (BAU 4.4.7; KU 2.3.14). The self's 'real desires' (ChU 8.1.5) are distinguished from ordinary ones.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: Those whose desires have turned away (vinivṛtta-kāma) reach the imperishable place (15.5).
 - [Vaiṣṇava Sahajiyā](../lineages/vaisnava-sahajiya.md): Desire for one's own pleasure, which is not destroyed but refined into prema by the Sahajiyā discipline, as gold from ore; the washerwoman's love had no trace of it.
 - [Bāul](../lineages/baul.md): Lust, the downward current that must be mastered before the Man can be held.
 
@@ -30,5 +31,6 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.19, tea:bhagavad-gita:5.12, tea:bhagavad-gita:5.23, tea:bhagavad-gita:5.26, tea:bhagavad-gita:6.18, tea:bhagavad-gita:6.24 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:15.5 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U36-pali-suttas, skeleton:U45-nyingma-bon, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U36-pali-suttas, skeleton:U45-nyingma-bon, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch13-15, skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._

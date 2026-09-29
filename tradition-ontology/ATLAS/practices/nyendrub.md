@@ -13,4 +13,4 @@ The fourfold structure of deity practice — approach, close approach, accomplis
 _Notes: Counts deliberately not recorded._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

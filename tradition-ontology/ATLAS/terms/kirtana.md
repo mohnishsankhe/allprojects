@@ -25,4 +25,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:9.14 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U07-puranas, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti, skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U07-puranas, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti, skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._

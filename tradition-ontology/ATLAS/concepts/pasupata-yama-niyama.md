@@ -14,4 +14,4 @@
 - same-as-under-standpoint → `cpt:yama-niyama`: a parallel five-and-five scheme; members differ (asaṃvyavahāra, akrodha, guruśuśrūṣā, āhāralāghava, apramāda) — rests on [1.9/2](../texts/pancarthabhasya.md#tea-pancarthabhasya-1-9-2)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:14 IST._

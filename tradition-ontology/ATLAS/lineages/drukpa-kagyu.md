@@ -42,10 +42,10 @@ One of the 'eight lesser' Kagyu schools, founded by Tsangpa Gyare at Ralung and 
 [Intermediate-state yoga (bar do)](../practices/bardo-yoga.md), [Cakrasaṃvara practice](../practices/cakrasamvara-sadhana.md), [Clear-light yoga](../practices/clear-light-yoga.md), [Dream yoga (rmi lam)](../practices/dream-yoga.md), [The fivefold Mahāmudrā](../practices/fivefold-mahamudra.md), [The four thoughts that turn the mind (blo ldog rnam bzhi)](../practices/four-thoughts-that-turn-the-mind.md), [Guru yoga](../practices/guru-yoga.md), [Illusory body yoga (sgyu lus)](../practices/illusory-body-yoga.md), [Looking at the mind (Mahāmudrā vipaśyanā)](../practices/looking-at-the-mind.md), [Mahāmudrā meditation (Kagyu)](../practices/mahamudra-meditation.md), [Mahāmudrā śamatha with support](../practices/mahamudra-samatha-with-support.md), [Mahāmudrā śamatha without support](../practices/mahamudra-samatha-without-support.md), [Maṇḍala offering](../practices/mandala-offering.md), [Solitary mountain retreat (ri chos)](../practices/mountain-retreat.md), [The Kagyu preliminaries (ngöndro)](../practices/ngondro.md), [Transference of consciousness ('pho ba)](../practices/phowa.md), [Receiving the pointing-out instruction](../practices/pointing-out.md), [Carrying post-meditation onto the path](../practices/post-meditation-integration.md), [Refuge with prostrations](../practices/refuge-prostrations.md), [Resting uncontrived in ordinary mind](../practices/resting-in-ordinary-mind.md), [The seven-point meditation posture](../practices/seven-point-posture.md), [The six equal tastes (Drukpa)](../practices/six-equal-tastes.md), [The Six Yogas of Nāropa](../practices/six-yogas-of-naropa.md), [Yantra exercises ('khrul 'khor)](../practices/trulkhor.md), [Inner heat (gtum mo, caṇḍālī)](../practices/tummo.md), [Singing songs of realization (mgur)](../practices/vajra-song.md), [Vajrasattva meditation and recitation (the hundred-syllable mantra)](../practices/vajrasattva-purification.md), [Vajravārāhī practice](../practices/vajravarahi-sadhana.md)
 
 ## Path maps
-`pth:mahamudra-four-yogas`, [The order of the Six Yogas of Nāropa](../paths/six-yogas-of-naropa-sequence.md)
+[The four yogas of Mahāmudrā with their twelve levels (phyag chen rnal 'byor bzhi)](../paths/mahamudra-four-yogas.md), [The order of the Six Yogas of Nāropa](../paths/six-yogas-of-naropa-sequence.md)
 
 ## Debates
 _none recorded_
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

@@ -13,4 +13,4 @@
 Karma Kagyu yogin (15th c.), author of the Dorje Chang Thungma lineage prayer; teacher of the 7th Karmapa by the usual account.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

@@ -19,4 +19,4 @@ Because the vibration of prāṇa is one seed of the mind, yogins calm the mind 
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — MU 5.92.26 'prāṇāyāmais tathā dhyānaiḥ prayogair yuktikalpitaiḥ' and 5.92.27 verified; the vāsanā seed follows at 5.92.28-36.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._

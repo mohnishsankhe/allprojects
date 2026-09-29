@@ -31,4 +31,4 @@ The Tirumantiram — root text of both sides — teaches both the four pādas an
 **The traditions' own objections:** Śaiva Siddhānta holds that temple worship continues after release and that initiation is necessary; Sivavākkiyar denies that the stone is god at all, not merely that it is for beginners. The reconciliation does not claim either side accepts it.
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._

@@ -60,4 +60,4 @@ The Pāśupatas are the earliest Śaiva ascetic order known from texts. They tra
 _Notes: A 20th-century revival of Lakulīśa worship at Kāyāvarohaṇa (Karvan) is associated with Swami Kripalvananda (recent; low confidence; it is not a continuation of the medieval order). Jain doxographers (Guṇaratna, Rājaśekhara) list eighteen Pāśupata tīrthakaras from Nakulīśa to Vidyāguru._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:14 IST._

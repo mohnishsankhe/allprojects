@@ -20,4 +20,4 @@ Reciting inwardly, with the intellect, the series of the mantra's letters, notes
 - partial: [Mantra repetition (japa)](japa.md) — one of the three modes
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._

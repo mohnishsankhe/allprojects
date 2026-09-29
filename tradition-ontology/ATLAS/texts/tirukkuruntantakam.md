@@ -16,4 +16,4 @@
 Tirumaṅkai Āḻvār's twenty short tāṇṭakam verses on the Lord who entered his heart and on the name.
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._

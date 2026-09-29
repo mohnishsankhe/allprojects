@@ -9,4 +9,4 @@
 The god of love, one of the twelve great worshippers of Śrīvidyā; the Kādi form of the vidyā is called after him (Kāmarāja-vidyā). In the Lalitopākhyāna he is burned by Śiva and revived by Lalitā.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:14 IST._

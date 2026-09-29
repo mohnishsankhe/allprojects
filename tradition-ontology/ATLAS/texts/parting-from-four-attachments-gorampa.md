@@ -19,4 +19,4 @@ A meditation manual arranging the four lines as a complete graded path from turn
 _Notes: Existence and title recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

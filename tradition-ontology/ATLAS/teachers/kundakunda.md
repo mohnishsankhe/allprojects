@@ -21,4 +21,4 @@ The most revered Digambara ācārya, author of the Samayasāra, Pravacanasāra, 
 **Realization — the tradition's account:** He travelled by magical power to the living Tīrthaṅkara Sīmandhara in Videha and heard the teaching directly (Devasena's Darśanasāra; later Digambara legend).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

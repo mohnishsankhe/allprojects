@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The Siddhar critique of images and ritual](siddhar-critique-of-idols-and-ritual.md) (shared siddha motif): Parallel critique by the Tamil Siddhars; historical connection not established. — rests on [v14-15](../texts/dohakosa-saraha.md#tea-dohakosa-saraha-v14-15)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

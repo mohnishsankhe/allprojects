@@ -17,4 +17,4 @@
 - contrasts-with → [The Jain denial of a creator](no-creator-jain.md): The substances being eternal and uncreated, there is no creator (TS 5.4). — rests on [5.4](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-5-4)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._

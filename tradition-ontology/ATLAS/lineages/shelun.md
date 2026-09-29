@@ -35,4 +35,4 @@ _none recorded_
 [How many kinds of consciousness are there — six, eight or nine?](../debates/number-of-consciousnesses.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

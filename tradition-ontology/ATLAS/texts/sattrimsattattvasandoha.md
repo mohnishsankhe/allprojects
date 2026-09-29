@@ -13,4 +13,4 @@ A short manual listing the thirty-six tattvas, with a commentary.
   - kind: original; name: Kashmir Series of Texts and Studies (KSTS), Srinagar 13 (1918)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._

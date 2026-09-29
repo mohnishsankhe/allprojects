@@ -13,4 +13,4 @@
 Vallabha's commentary on the Bhāgavata Purāṇa, extant for cantos 1–3, much of 10 and part of 11; reads the tenth canto as 'nirodha' — the Lord's play drawing souls away from the world into himself — and the gopīs' love as the model of grace-devotion.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._

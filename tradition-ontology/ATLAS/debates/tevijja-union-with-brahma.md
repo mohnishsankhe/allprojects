@@ -25,4 +25,4 @@ None of the brahmins or their teachers has seen Brahmā; their teaching is like 
 **Candidate readings:** P3-path: the Upaniṣadic and Buddhist traditions both teach companionship with Brahmā through inner qualities; the dispute concerns which path — but the Buddhist side treats the Brahmā world as within saṃsāra, not as liberation
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

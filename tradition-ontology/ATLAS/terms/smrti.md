@@ -11,6 +11,7 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: Confusion of memory (smṛtivibhrama) follows delusion, and the loss of memory destroys the understanding (2.63).
 - [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md): Texts of human authors learned in the Veda; authoritative because a Vedic source can be inferred from them, but disregarded where they conflict with the Veda or show a worldly motive (MS 1.3.1–4).
 - [Āyurveda](../lineages/ayurveda.md): Lineage contribution (Āyurveda): memory arising from eight causes (Ca Śā 1.148-149); its lapse regarding truth is a cause of suffering (Śā 1.101); good conduct is to be followed 'with smṛti' (Sū 8.17); constant present mindfulness (saṃnihita-smṛti) guards from suffering (AHS Sū 2.47).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 15.15: memory, knowledge and removal (apohana) come from Kṛṣṇa, seated in the heart of all.
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The dharmaśāstra (MDh 2.10); the recollection of those who know the Veda, a source of dharma second to it.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Memory, one of the seven feminine excellences that are the Lord (10.34).
 - [Nyāya](../lineages/nyaya.md): A quality of the self, the knower (NS 3.2.40), prompted by many causes (NS 3.2.41).
@@ -25,13 +26,14 @@
 
 ## Equivalents (interpretation layer)
 - exact: [sati](sati.md) — Sanskrit and Pali forms of the same term
-**Related:** [moha](moha.md), [buddhi](buddhi.md), [sadācāra](sadacara.md), [śruti](sruti.md)
+**Related:** [moha](moha.md), [buddhi](buddhi.md), [sadācāra](sadacara.md), [śruti](sruti.md), [apohana](apohana.md), [jñāna](jnana.md)
 
 _Notes: Homonym: the id trm:smrti is also used for 'remembered tradition'; this entry gives the Yoga senses._
 
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:15.15 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.34 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch01-03, skeleton:U12-mimamsa, skeleton:U30-ayurveda-rasa, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch10-12, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy, skeleton:U46-kagyu, skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch01-03, skeleton:U12-mimamsa, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch13-15, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch10-12, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy, skeleton:U46-kagyu, skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._

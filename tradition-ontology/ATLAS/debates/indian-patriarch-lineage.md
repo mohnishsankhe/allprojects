@@ -29,4 +29,4 @@ The Dunhuang Platform Sūtra itself gives a different list.
 _Notes: Names of the Tiantai critics of Qisong's era are not given (not recalled with confidence)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

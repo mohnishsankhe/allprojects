@@ -15,4 +15,4 @@ Kṛṣṇa's cousin, counsellor and devotee; recipient of the Uddhava Gītā. E
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — Recipient of the Uddhava Gītā (BhP 11.6.40-11.29); sent to Vraja in BhP 10.47, where he wishes to be a creeper touched by the gopīs' feet (10.47.61).
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 10.47; 11.14 — BhP 10.47.34-36, 10.47.61 and the Uddhava Gītā (11.14-15) located.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._

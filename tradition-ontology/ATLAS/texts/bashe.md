@@ -26,4 +26,4 @@ teachers: [Kamalaśīla](../teachers/kamalasila.md), [Moheyan 摩訶衍 (Hwashan
 _Notes: Also referenced by the Samye debate (dsp:sudden-or-gradual, owned by U50)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

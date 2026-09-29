@@ -19,4 +19,4 @@
 Stage names from the Gaṇakārikā; Kauṇḍinya gives the same progression through residence, livelihood, strength, action, purification and gain. Initiation (B0) precedes stage 1. Bands are interpretation-layer claims: the first two stages are ascetic-ritual preparation (B2), conquest of the senses in solitude is withdrawal and concentration (B3, with absorption and powers as it matures), the cremation-ground stage is deepening after the powers (B6), completion is final liberation (B7). The Ratnaṭīkā rejects a separate 'stage of the perfected'.
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:14 IST._

@@ -39,4 +39,4 @@ concepts: [The Lord's devotees as one's masters; service to devotees](../concept
 _Notes: Distinct from Māṇikkavācakar's Śaiva Tiruppaḷḷiyeḻucci in the Tiruvācakam._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._

@@ -30,4 +30,4 @@ Atiśa's denial targets emptiness as the object of the logicians' two pramāṇa
 **The traditions' own objections:** The Gelug insists that denying emptiness is an object of knowledge makes the path unknowable; Gorampa insists that calling it an object reifies it. The reconciliation claims only a shared account of the non-dual realisation, not agreement on the classification.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

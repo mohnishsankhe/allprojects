@@ -16,4 +16,4 @@
 _Notes: The Sanskrit form 'anuttarayoga' is itself a back-translation of the Tibetan; Indian texts use yoganiruttara (low confidence on precise attestations)._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

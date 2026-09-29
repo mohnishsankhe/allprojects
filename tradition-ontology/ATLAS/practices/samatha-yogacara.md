@@ -11,11 +11,11 @@ Calm is the path of gathering the names of the teachings into one; lifting the s
   - [Mahāyānasūtrālaṃkāra](../texts/mahayanasutralamkara.md) — ref: 14.8-16; rests_on: ["tea:mahayanasutralamkara:14.8-14", "tea:mahayanasutralamkara:14.15-16"]
   - [Saṃdhinirmocana-sūtra](../texts/samdhinirmocana-sutra.md) — ref: ch. 8; rests_on: ["tea:samdhinirmocana-sutra:8"]
   - [Madhyāntavibhāga](../texts/madhyantavibhaga.md) — ref: 4.3-5; rests_on: ["tea:madhyantavibhaga:4.3-5"]
-**Sequences:** `pth:nine-stages-calm-abiding`
+**Sequences:** [The nine stages of settling the mind (navākārā cittasthiti) leading to calm abiding](../paths/nine-stages-calm-abiding.md)
 
 ## Equivalents (interpretation layer)
 - partial: [Calm and insight as taught in the Saṃdhinirmocana](samatha-vipasyana-samdhinirmocana.md) — the sūtra source of the same practice
 - partial: [Calm abiding (Kamalaśīla)](samatha-bhavanakrama.md) — Kamalaśīla's presentation draws on the Yogācāra nine stages and five faults
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

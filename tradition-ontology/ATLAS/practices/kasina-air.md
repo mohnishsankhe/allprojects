@@ -23,4 +23,4 @@ Gazing at the wind moving leaves or touching the body, the meditator repeats its
 _Notes: Device details from memory (Vism V not read locally)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._

@@ -15,4 +15,4 @@
 Correspondence with the later four yogas of mahāmudrā (pth:mahamudra-four-yogas) is not stated by Tilopa.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

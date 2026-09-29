@@ -13,4 +13,4 @@ Intuition and the divine senses, arising in the concentrated mind, are obstacles
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 3.37; rests_on: ["tea:yoga-bhasya:3.37"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._

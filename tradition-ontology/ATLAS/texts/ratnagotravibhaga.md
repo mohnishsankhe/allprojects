@@ -184,4 +184,4 @@ terms: [śraddhā](../terms/sraddha.md)
 _Notes: Chapter colophons and cited verses read in the local e-text (Johnston numbering; Takasaki's numbering differs slightly in chapter 1). Registry lists src:ratnagotravibhaga; U41 (five Maitreya texts) may also contribute._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._

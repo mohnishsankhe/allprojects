@@ -8,4 +8,4 @@
 Punjabi Sthānakavāsī monk (1837–1896) who became a Mūrtipūjaka and revived the Śvetāmbara image-worshipping order in Punjab; he sent Virchand Gandhi to the 1893 World's Parliament of Religions.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

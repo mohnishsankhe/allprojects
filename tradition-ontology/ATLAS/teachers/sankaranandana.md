@@ -13,4 +13,4 @@
 Kashmiri Buddhist logician, known as 'the brahmin', author of works on exclusion and necessary connection and of a commentary on the Pramāṇavārttika.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

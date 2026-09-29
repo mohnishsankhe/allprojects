@@ -17,4 +17,4 @@
 Theologian of Vṛndāvana (late 17th–early 18th c.): commentaries on the Bhāgavata, Gītā and Ujjvalanīlamaṇi; Mādhuryakādambinī and Rāgavartmacandrikā on the stages and spontaneous devotion; defender of parakīyā.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._

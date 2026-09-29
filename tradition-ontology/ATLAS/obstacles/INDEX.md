@@ -1,6 +1,6 @@
-# Obstacles (609)
+# Obstacles (611)
 
-skeleton: 543 · sourced: 66
+skeleton: 545 · sourced: 66
 
 - ['I and mine' as māyā](maya-i-and-mine.md) — `skeleton`
 - ['I' and 'mine' (yāṉ, eṉatu)](yan-enatu.md) — `skeleton`
@@ -327,6 +327,7 @@ skeleton: 543 · sourced: 66
 - [Pride of birth; judging devotees by caste (jāti-abhimāna)](jati-abhimana.md) — `skeleton`
 - [Pride of learning](vidya-ahankara.md) — `skeleton`
 - [Pride of the gods](abhimana.md) — `sourced`
+- [Pride, thinking highly of oneself (mānitva, māna)](manitva.md) — `skeleton`
 - [Proliferation (papañca)](papanca.md) — `skeleton`
 - [Recitation without knowing the meaning](artha-ajnana.md) — `skeleton`
 - [Recitation without understanding](ignorance-of-meaning.md) — `sourced`
@@ -366,6 +367,7 @@ skeleton: 543 · sourced: 66
 - [Six things that destroy devotion](six-spoilers-of-bhakti.md) — `skeleton`
 - [Six waves (ūrmi)](six-urmis.md) — `sourced`
 - [Slandering and turning from the guru](guru-apavada.md) — `skeleton`
+- [Sleep as a bond of tamas (nidrā)](nidra.md) — `skeleton`
 - [Slighting a devotee or the guru](devotee-transgression.md) — `skeleton`
 - [Sorrowful and cruel meditation](arta-raudra-dhyana.md) — `skeleton`
 - [Speaking ill of others](paraninda.md) — `skeleton`

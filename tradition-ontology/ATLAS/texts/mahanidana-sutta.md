@@ -59,4 +59,4 @@ terms: [ubhatobhāgavimutta](../terms/ubhatobhagavimutta.md), [paññāvimutta](
 _Notes: SuttaCentral uid dn15; Mahāsaṅgīti title 'Mahānidānasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

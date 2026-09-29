@@ -30,4 +30,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.291.7-8, 12.296.44 — Epic role located; Rāmāyaṇa preceptor role consistent with the text.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text), local:sources_raw/raw_etexts/mixed/mukta/vedAnta/valmiki/ and unknown_Anandabodhendra/ (Yogavāsiṣṭha vulgate with Tātparyaprakāśa, Nirṇaya Sāgara ed.; Muktabodha M00335-M00339, M00345) — Teacher of Rāma throughout the Mokṣopāya / Yoga Vāsiṣṭha.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U32-jyotisa, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U32-jyotisa, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

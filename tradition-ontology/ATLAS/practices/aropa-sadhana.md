@@ -12,4 +12,4 @@ RESTRICTED context. Contemplating the svarūpa (Kṛṣṇa, Rādhā) in the rū
   - [Amṛtaratnāvalī](../texts/amrtaratnavali.md) — ref: on rūpa and svarūpa; rests_on: ["tea:amrtaratnavali:rupa-and-svarupa"]
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._

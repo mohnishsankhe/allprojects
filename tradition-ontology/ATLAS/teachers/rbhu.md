@@ -18,4 +18,4 @@ Sage of the Advaita dialogues: taught by Varāha after long austerity (Varāha 1
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md, https://en.wikipedia.org/wiki/Shivarahasya_Purana, https://sanskritdocuments.org/doc_giitaa/RGall.itx, https://archive.arunachala.org/docs/ribhu-gita/intro — VP 2.15.3 'ṛbhur nāmābhavat putro brahmaṇaḥ parameṣṭhinaḥ' and the Nidāgha episode verified; the Śivarahasya's Ṛbhu Gītā confirmed by web sources.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 2.15.3, local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md 1.10.13 — VP 2.15.3 (Ṛbhu, son of Brahmā) and KūP 1.10.13 located.
 
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._

@@ -335,4 +335,4 @@ teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md), [Lha Lama Jan
 _Notes: Sanskrit original lost; the Tibetan translation (by Atiśa and the translator Gewai Lodrö, colophon) is the basis. Local: catalog:Derge-Tengyur:D3947._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

@@ -13,4 +13,4 @@
 - contrasts-with → [The two truths (satyadvaya)](two-truths.md): Madhyamaka's middle way is the emptiness of all own-being, including of consciousness
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

@@ -11,4 +11,4 @@
 Author of the Laghumānasa (932 CE); later authors credit him with a theory of the motion of the solstices (ayana-calana).
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._

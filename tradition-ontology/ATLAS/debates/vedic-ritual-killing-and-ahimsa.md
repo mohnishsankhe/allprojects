@@ -38,4 +38,4 @@ _Notes: Sāṃkhya and Jain sides summarized at text level from memory; their ow
 
 - 2026-09-29 text-locate: partially-confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/prepared/samkhya-karika — The Dharmaśāstra sides were found: MDh 5.39 ('yajñārthaṃ paśavaḥ sṛṣṭāḥ'), 5.44 ('yā vedavihitā hiṃsā … ahiṃsām eva tāṃ vidyāt'), 5.48 and 5.55–56. The Sāṃkhya side was found in Sāṃkhyakārikā 2 ('dṛṣṭavad ānuśravikaḥ sa hy aviśuddhikṣayātiśayayuktaḥ'), with the hiṃsā reading in its commentaries. The Jain side's citation, Ācārāṅga 1.4, belongs to another unit's text and was not checked here. That is why the result is partial.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

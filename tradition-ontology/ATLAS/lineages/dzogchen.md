@@ -45,10 +45,10 @@ The Great Perfection: the Nyingma (and Bön) teaching that the mind's nature, aw
 [Training for the bardos](../practices/bardo-practice.md), [Dark retreat (mun mtshams)](../practices/dark-retreat.md), [Direct introduction to awareness (ngo sprod)](../practices/direct-introduction.md), [The four thoughts that turn the mind (blo ldog rnam bzhi)](../practices/four-thoughts-that-turn-the-mind.md), [Guru yoga](../practices/guru-yoga.md), [Searching for the mind (sems 'tshol)](../practices/mind-searching.md), [The Nyingma preliminaries (sngon 'gro)](../practices/ngondro-nyingma.md), [Separating saṃsāra and nirvāṇa ('khor 'das ru shan)](../practices/rushen.md), [Holding the mind (sems 'dzin)](../practices/semdzin.md), [Calm abiding in the Great Perfection (zhi gnas)](../practices/shine-dzogchen.md), [Direct crossing (thod rgal)](../practices/togal.md), [Cutting through (khregs chod)](../practices/trekcho.md)
 
 ## Path maps
-`pth:dzogchen-four-visions`, [The path of the Yeshe Lama (Longchen Nyingthig Dzogchen)](../paths/yeshe-lama-path.md)
+[The four visions of Direct Crossing (thod rgal gyi snang ba bzhi)](../paths/dzogchen-four-visions.md), [The path of the Yeshe Lama (Longchen Nyingthig Dzogchen)](../paths/yeshe-lama-path.md)
 
 ## Debates
 _none recorded_
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

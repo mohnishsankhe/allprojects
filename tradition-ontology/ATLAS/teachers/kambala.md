@@ -16,4 +16,4 @@ No. 30 of the eighty-four siddhas (Tōh 2292 order). A prince who became a monk 
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. Tōh 2292 reads 'ka ma la'; the position (30) fits Abhayadatta's Kambala._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

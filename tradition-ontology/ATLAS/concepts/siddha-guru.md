@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Śiva comes as the guru](guru-as-siva.md) (devotional): Siddhānta: Śiva comes as the guru — rests on [6](../texts/tirumular-nanam.md#tea-tirumular-nanam-6)
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._

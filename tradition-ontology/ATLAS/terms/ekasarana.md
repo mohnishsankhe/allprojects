@@ -15,4 +15,4 @@
 **Related:** [śaraṇāgati](saranagati.md), [śaraṇa](sarana.md), [nāma](nama.md)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

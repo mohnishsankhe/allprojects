@@ -30,4 +30,4 @@ _none recorded_
 _Notes: Reported by opponents only; identification with any Mahāyāna school is a scholarly hypothesis and is not made here. Created by U37._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._

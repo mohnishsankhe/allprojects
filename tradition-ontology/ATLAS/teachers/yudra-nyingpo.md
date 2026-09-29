@@ -9,4 +9,4 @@
 Vairocana's disciple from Gyalmo Rong, who with Vimalamitra translated the thirteen later mind-series scriptures.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

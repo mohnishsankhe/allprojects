@@ -15,4 +15,4 @@ Qualified brāhmaṇas are invited and fed as the ancestors' representatives, ri
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering) — MDh 3.122–286 is the śrāddha section; 3.122–123 and 3.267–272 were read. This rests on confirmed teaching checks: tea:manusmrti:3.122-123, tea:manusmrti:3.267-272.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

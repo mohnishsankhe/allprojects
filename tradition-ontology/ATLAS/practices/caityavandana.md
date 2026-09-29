@@ -12,4 +12,4 @@ A liturgy of salutation before the image or a representation of the Jina, with p
   - [Lalitavistarā of Haribhadra](../texts/lalitavistara-haribhadra.md) — 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

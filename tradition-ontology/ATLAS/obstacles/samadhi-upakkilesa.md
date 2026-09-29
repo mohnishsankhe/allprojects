@@ -12,4 +12,4 @@ Doubt, inattention, sloth and torpor, fear, elation, inertia, excess energy, sla
   - [Upakkilesa Sutta](../texts/upakkilesa-sutta.md) — ref: 15-31; rests_on: ["tea:upakkilesa-sutta:15-31"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

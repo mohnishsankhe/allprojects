@@ -10,9 +10,9 @@ Against laziness: desire-to-act, effort, faith and pliancy; against forgetting t
 **Sources:** 
   - [Madhyāntavibhāga](../texts/madhyantavibhaga.md) — ref: 4.3-5; rests_on: ["tea:madhyantavibhaga:4.3-5"]
   - [Great Treatise on the Stages of the Path to Enlightenment (lam rim chen mo)](../texts/lamrim-chenmo.md) — ref: calm.faults-antidotes; rests_on: ["tea:lamrim-chenmo:calm.faults-antidotes"]
-**Sequences:** `pth:nine-stages-calm-abiding`
+**Sequences:** [The nine stages of settling the mind (navākārā cittasthiti) leading to calm abiding](../paths/nine-stages-calm-abiding.md)
 
 _Notes: Contribution of U47 (Sakya/Kadam/Gelug presentation)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

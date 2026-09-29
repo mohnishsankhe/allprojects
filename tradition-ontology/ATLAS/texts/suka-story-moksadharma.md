@@ -24,4 +24,4 @@ The birth of Vyāsa's son Śuka, his study, his instruction by Janaka at Mithil�
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.310.1-10 Śuka; 12.319.10 Kailāsa; 12.320.31-38 Śaṃkara/Mahādeva — Section located at CE 12.310-320 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._

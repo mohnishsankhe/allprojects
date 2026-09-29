@@ -28,4 +28,4 @@ The Yoginīhṛdaya's own sequence puts outer worship below meditative and non-d
 **The traditions' own objections:** Lakṣmīdhara rejects the Kaula way as outside the Veda and would not accept it as a valid stage for the twice-born; the Kaula texts treat outer worship and Kaula conduct as part of the complete path, not a concession.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:14 IST._

@@ -27,4 +27,4 @@ practices: [Recitation of the Seven-line prayer](../practices/seven-line-prayer.
 _Notes: Its treasure attributions are several; not tied here to one revealer._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

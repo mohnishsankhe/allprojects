@@ -16,4 +16,4 @@ Vertical marks of gopīcandana clay applied with mantras at twelve places (house
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:vasudeva-upanisad:1-3 (partially-confirmed).
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:14 IST._

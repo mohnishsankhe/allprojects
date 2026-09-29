@@ -13,4 +13,4 @@ The chart of the moment a question is put, the querist's words, gestures and sur
   - [Praśnamārga](../texts/prasna-marga.md) — ref: passim
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._

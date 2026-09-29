@@ -16,4 +16,4 @@ Devendrabuddhi's commentary on chapters 2–4 of the Pramāṇavārttika, by tra
 **Commentaries on this text:** [Pramāṇavārttikaṭīkā (Śākyabuddhi)](pramanavarttikatika-sakyabuddhi.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

@@ -61,4 +61,4 @@ concepts: [The qualified recipient of the tantra](../concepts/qualified-recipien
 _Notes: Passages checked in sources_raw/raw_etexts/mixed/mukta/pAncharAtra/unknown/laxmItantra__M00206.md (Lakṣmī Tantra, Muktabodha e-text)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._

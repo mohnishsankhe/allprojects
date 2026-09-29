@@ -16,4 +16,4 @@ Accounts and songs of the Drukpa 'divine madman' Kunga Legpa: satire of religiou
 _Notes: Several compilations exist; the popular English version (Dowman, The Divine Madman) follows a later oral-literary compilation. Title left generic._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

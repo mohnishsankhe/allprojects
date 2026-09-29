@@ -12,4 +12,4 @@ Kaṭuveḷi: do not smoke ganja or drink toddy (29); Pattirakiriyār longs not 
   - [Pattirakiriyār: Meyññāṉap pulampal (lament for true knowledge)](../texts/bhadragiriyar-meynana-pulampal.md) — ref: 35; rests_on: ["tea:bhadragiriyar-meynana-pulampal:35"]
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._

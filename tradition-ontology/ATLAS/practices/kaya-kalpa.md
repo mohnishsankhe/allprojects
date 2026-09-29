@@ -23,4 +23,4 @@ Summary only: regimens held to make the body firm, remove the humours at their t
 - partial: [Rejuvenation therapy (rasāyana) — herbal](rasayana.md) — Āyurvedic rejuvenation; the Siddha form includes yogic and breath means
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._

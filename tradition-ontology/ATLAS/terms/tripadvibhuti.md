@@ -18,4 +18,4 @@
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Located as the title and theme of e-text no. 54; the colophon is 'ityātharvaṇīyatripādvibhūtimahānārāyaṇopaniṣat'. The definition fits the text's account of the three-quarters realm beyond māyā.
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:14 IST._

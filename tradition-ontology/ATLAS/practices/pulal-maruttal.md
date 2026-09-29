@@ -13,4 +13,4 @@ Paṭṭiṉattār's warning to those who kill for the belly (Tiruvēkampamālai
   - [Tirumantiram](../texts/tirumantiram.md) — ref: tantra 1; rests_on: ["tea:tirumantiram:tantra.1"]
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U22-tamil-siddha, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._

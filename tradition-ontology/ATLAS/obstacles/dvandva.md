@@ -16,6 +16,10 @@ Bhagavad Gītā 7.27–28: the delusion of the pairs (dvandva-moha), arising fro
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.7; rests_on: ["tea:bhagavad-gita:6.7"]
   - [Pañcārthabhāṣya](../texts/pancarthabhasya.md) — ref: on PS 5.18; rests_on: ["tea:pancarthabhasya:5.18"]
   - [Gaṇakārikā](../texts/ganakarika.md) — ref: 3; rests_on: ["tea:ganakarika:3"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.23-25; rests_on: ["tea:bhagavad-gita:14.23-25"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.24; rests_on: ["tea:bhagavad-gita:14.24"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.25; rests_on: ["tea:bhagavad-gita:14.25"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 15.5; rests_on: ["tea:bhagavad-gita:15.5"]
 
 _Notes: Chs. 7–9 contribution, combining extractor A's obs:dvandva and extractor B's obs:dvandva-moha: the verse's compound is dvandva-moha, the delusion of the pairs (7.27)._
 
@@ -24,5 +28,6 @@ _Notes: Chs. 7–9 contribution, combining extractor A's obs:dvandva and extract
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.27, tea:bhagavad-gita:7.28 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.22, tea:bhagavad-gita:5.3, tea:bhagavad-gita:6.7 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:14.23-25, tea:bhagavad-gita:14.24, tea:bhagavad-gita:14.25, tea:bhagavad-gita:15.5 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U17-pasupata-kapalika, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:14 IST._

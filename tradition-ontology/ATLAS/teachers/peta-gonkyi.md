@@ -9,4 +9,4 @@
 Milarepa's sister, who after long hardship became his disciple and a practitioner.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

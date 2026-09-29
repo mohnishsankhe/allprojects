@@ -14,4 +14,4 @@ An Old Javanese Śaiva text in dialogue form that presents a Pātañjala-type yo
 _Notes: Recalled, not checked (manuscript date and details)._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._

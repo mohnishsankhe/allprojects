@@ -20,4 +20,4 @@ A vast commentary in 100 fascicles on the Perfection of Wisdom in 25,000 lines, 
   - kind: translation; name: Taishō T1509 — catalog:CBETA:T25n1509
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._

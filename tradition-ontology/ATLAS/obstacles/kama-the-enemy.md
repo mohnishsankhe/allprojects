@@ -13,4 +13,4 @@ Desire, and anger with it, born of rajas, all-devouring, is the constant enemy o
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 3.36–43; rests_on: ["tea:bhagavad-gita:3.36-39", "tea:bhagavad-gita:3.40-41", "tea:bhagavad-gita:3.42-43"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._

@@ -12,4 +12,4 @@
 Birch-bark manuscripts from a stūpa near Gilgit: the Mūlasarvāstivāda Vinaya, the Dharmaskandha, Ekottarāgama fragments, a Dīrghāgama and Mahāyāna sūtras (Lotus, Samādhirāja, Vajracchedikā, Bhaiṣajyaguru). Edited by Nalinaksha Dutt; facsimiles by Raghu Vira and Lokesh Chandra.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._

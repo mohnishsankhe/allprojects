@@ -15,4 +15,4 @@
 - causes → [The Śvetāmbara canon of forty-five Āgamas](svetambara-canon-45.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

@@ -31,4 +31,4 @@ _Notes: The Gītā names no counts or retention durations._
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.29 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U35-jain-philosophy, skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U07-puranas, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U35-jain-philosophy, skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

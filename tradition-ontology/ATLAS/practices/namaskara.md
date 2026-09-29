@@ -18,4 +18,4 @@ Bhagavad Gītā 9.14, 9.34: bowing to the Lord with devotion as part of the grea
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:9.14, tea:bhagavad-gita:9.34 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 18:14 IST._

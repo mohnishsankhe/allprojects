@@ -10,4 +10,4 @@
 Commentator on the Laghuśaṃvara (Cakrasaṃvarapañjikā/Vivṛti), c. 10th c.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

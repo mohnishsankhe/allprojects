@@ -124,4 +124,4 @@ terms: [rang stong](../terms/rangtong.md), [gzhan stong (zhentong)](../terms/zhe
 _Notes: Not found in the local catalogue (search 'Mountain Doctrine', 'ri chos nges don rgya mtsho' returned only unrelated works); existence and authorship are well known._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._

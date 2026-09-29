@@ -14,4 +14,4 @@ The mind stiffened by latent impressions of attachment, neither distracted nor a
 _Notes: Partial parallel: Vedāntasāra's kaṣāya (list of obstacles to nirvikalpa samādhi; U13). Viśvanātha adds apratipatti._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._

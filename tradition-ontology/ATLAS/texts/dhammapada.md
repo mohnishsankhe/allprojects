@@ -252,4 +252,4 @@ terms: [brāhmaṇa](../terms/brahmana.md) · disputes: [Is purity and worth det
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

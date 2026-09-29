@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A chieftain stabbed by his enemy Muttanāt
 **Realization — the tradition's account:** A chieftain stabbed by his enemy Muttanātaṉ, who had come disguised as a Śaiva ascetic; dying, he ordered his guard Tattaṉ to escort the assassin safely out, because he wore Śiva's garb.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._

@@ -22,4 +22,4 @@
 **Related:** [pati](pati.md), [paśu](pasu.md), [kāla](kala.md), [mala](mala.md), [āṇava mala](anava-mala.md), [kārma mala](karma-mala.md), [māyīya mala](mayiya-mala.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U17-pasupata-kapalika, skeleton:U23-sakta-srividya, skeleton:U01-vedic-samhitas, skeleton:U04-minor-upanisads, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U17-pasupata-kapalika, skeleton:U23-sakta-srividya, skeleton:U01-vedic-samhitas, skeleton:U04-minor-upanisads, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._

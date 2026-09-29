@@ -14,7 +14,7 @@ Withdrawal (the senses resting in themselves), meditation (fivefold), breath con
   - [Guhyasamāja Tantra](../texts/guhyasamaja-tantra.md) — ref: 18.138-155; rests_on: ["tea:guhyasamaja-tantra:18.138", "tea:guhyasamaja-tantra:18.139-145", "tea:guhyasamaja-tantra:18.146-149", "tea:guhyasamaja-tantra:18.150-152"]
   - [Sekoddeśa](../texts/sekoddesa.md) — ref: 24-27; rests_on: ["tea:sekoddesa:24-27"]
   - [Paramārthasevā](../texts/paramarthaseva.md) — 
-**Sequences:** [The six-limbed service of the Guhyasamāja (ch. 18)](../paths/guhyasamaja-sadanga-yoga.md), `pth:kalacakra-six-branches`
+**Sequences:** [The six-limbed service of the Guhyasamāja (ch. 18)](../paths/guhyasamaja-sadanga-yoga.md), [The six-branch yoga (ṣaḍaṅga-yoga) of the Kālacakra](../paths/kalacakra-six-branches.md)
 
 ## The texts' own warnings
 - Without the six-limbed service the supreme attainment does not arise; it is to be learned from the guru. — [Guhyasamāja Tantra](../texts/guhyasamaja-tantra.md) 18.138
@@ -23,4 +23,4 @@ Withdrawal (the senses resting in themselves), meditation (fivefold), breath con
 - analogous: [The six-limbed yoga of the Maitrī](sadanga-yoga-maitri.md) — The Maitrī Upaniṣad's six limbs (prāṇāyāma, pratyāhāra, dhyāna, dhāraṇā, tarka, samādhi) share most names but not the order or the Buddhist signs and goal.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

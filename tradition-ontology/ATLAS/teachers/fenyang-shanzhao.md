@@ -11,4 +11,4 @@
 Linji master who composed verses on old cases (songgu), a precursor of the kōan collections.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [The innate (sahaja)](sahaja.md) (Kagyu): the Buddhist innate (U44) as taught in the Kagyu instruction — rests on [three-coemergents](../texts/gampopa-collected-works.md#tea-gampopa-collected-works-three-coemergents)
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

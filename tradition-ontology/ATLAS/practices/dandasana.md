@@ -15,4 +15,4 @@ Named among the examples of posture in Vyāsa's bhāṣya on YS 2.46 ('posture i
 _Notes: Name certain; form per commentators not recalled with confidence._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:14 IST._

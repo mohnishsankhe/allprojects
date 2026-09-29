@@ -84,4 +84,4 @@ teachers: [Yāmunācārya](../teachers/yamuna.md) · disputes: [Is the Pāñcar�
 _Notes: Checked in sources_raw/raw_etexts/mixed/mukta/pAncharAtra/yAmunAchArya/AgamaprAmANya__M00001.md (ed. Rāmamiśra Śāstrī, Benares 1937)._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._

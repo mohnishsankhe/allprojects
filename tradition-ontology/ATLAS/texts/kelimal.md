@@ -38,4 +38,4 @@ terms: [sahaja](../terms/sahaja.md), [nikuñja](../terms/nikunja.md) · concepts
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

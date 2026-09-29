@@ -26,4 +26,4 @@ concepts: [Signs of death and their reversal](../concepts/signs-of-death-nyingma
 
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

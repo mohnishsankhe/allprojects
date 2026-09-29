@@ -8,6 +8,7 @@
 
 ## Definitions by tradition
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Portion: whatever is glorious or mighty has arisen from a portion of the Lord's splendour (tejas) (10.41); he stands supporting this whole world with a single portion (10.42).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 15.7: 'a portion of me indeed, eternal, having become the living being in the world of the living' draws the senses with the mind. The sense of 'portion' is read differently by the commentators.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The eternal portion of the Lord that becomes the living being (BhG 15.7); the fragment of his splendour from which every glory springs (10.41–42).
 - [Bhedābheda Vedānta (Bhāskara's school and the early difference-and-non-difference Vedāntins)](../lineages/bhedabheda.md): The soul as a part of Brahman made distinct by adjuncts.
 - [Dvaitādvaita (Nimbārka Sampradāya)](../lineages/dvaitadvaita.md): The soul as a naturally distinct part (power) of the Lord.
@@ -17,7 +18,7 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [tejas](tejas.md), [vibhūti](vibhuti.md), [svāṃśa](svamsa.md), [vibhinnāṃśa](vibhinnamsa.md)
+**Related:** [tejas](tejas.md), [vibhūti](vibhuti.md), [jīva](jiva.md), [jīvaloka](jivaloka.md), [svāṃśa](svamsa.md), [vibhinnāṃśa](vibhinnamsa.md)
 
 _Notes: Read as a real part or as an apparent part according to school (see dsp:souls-one-or-distinct)._
 
@@ -25,5 +26,6 @@ _Notes: Read as a real part or as an apparent part according to school (see dsp:
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.41, tea:bhagavad-gita:10.42 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:15.7 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch10-12, skeleton:U05-gita-epic, skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic, skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._

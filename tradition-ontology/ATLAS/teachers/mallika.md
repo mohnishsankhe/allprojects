@@ -8,4 +8,4 @@
 Queen of Kosala; her dialogue with Pasenadi on whether anyone is dearer than oneself led to Ud 5.1.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

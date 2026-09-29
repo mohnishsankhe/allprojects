@@ -30,4 +30,4 @@ concepts: [Communal recitation](../concepts/communal-recitation.md) · teachers:
 _Notes: SuttaCentral uid dn33; Mahāsaṅgīti title 'Saṅgītisutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

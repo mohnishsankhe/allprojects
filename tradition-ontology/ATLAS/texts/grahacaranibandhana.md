@@ -14,4 +14,4 @@
 Haridatta's handbook introducing the Parahita corrections to the Āryabhaṭa system in Kerala, traditionally at the Māmāṅkam festival of Tirunāvāy.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._

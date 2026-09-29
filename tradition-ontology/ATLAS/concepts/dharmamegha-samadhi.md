@@ -15,4 +15,4 @@
 - contrasts-with → [The ten grounds (bhūmi) of the Daśabhūmika](ten-bhumis.md): same name, different referent: in Yoga a samādhi of complete discernment before kaivalya (YS 4.29), in the Mahāyāna the last bodhisattva ground before buddhahood; historical relation disputed (brw:mahayana-yoga-dharmamegha) — rests on [4.29](../texts/yoga-sutra.md#tea-yoga-sutra-4-29), [10](../texts/dasabhumika-sutra.md#tea-dasabhumika-sutra-10)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U49-cross-family. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U49-cross-family. Generated 2026-09-29 18:14 IST._

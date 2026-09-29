@@ -17,4 +17,4 @@ Tamil Śaiva poet-saint (early 18th c.) whose songs join Siddhānta and Vedānta
 _Notes: Biographical details recalled at moderate–low confidence. Not post-1800, so not flagged recent._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._

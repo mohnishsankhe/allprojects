@@ -11,4 +11,4 @@
 Pontiff of the Pejavara maṭha (Uḍupi) and author of the Padaratnāvalī, the standard Mādhva commentary on the Bhāgavata Purāṇa.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:14 IST._

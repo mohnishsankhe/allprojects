@@ -23,4 +23,4 @@ Memory cannot make the past object appear if the remembering cognition is separa
 _Notes: The Buddhist side here is the Pratyabhijñā's presentation of it; see also brw:pramana-buddhist-to-pratyabhijna._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._

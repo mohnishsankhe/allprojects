@@ -30,4 +30,4 @@ concepts: [Īśvara, Hiraṇyagarbha and the transmission of Yoga](../concepts/i
 
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._

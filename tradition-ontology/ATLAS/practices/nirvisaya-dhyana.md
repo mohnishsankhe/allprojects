@@ -20,4 +20,4 @@ Meditation is the removal of passion, accomplished through the cessation of the 
 - Torpor and distraction are to be turned away from. — [Sāṃkhya Sūtra](../texts/samkhya-sutra.md) 6.30
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:14 IST._

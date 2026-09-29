@@ -13,4 +13,4 @@
 - obstructs → [Nibbāna](nibbana.md) — rests on [16.1-16.2](../texts/madhupindika-sutta.md#tea-madhupindika-sutta-16-1-16-2), [16-22](../texts/madhupindika-sutta.md#tea-madhupindika-sutta-16-22)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

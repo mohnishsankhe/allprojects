@@ -10,4 +10,4 @@
 Kamakura-period nun, disciple of Wuxue Zuyuan, founder of the convent Keiaiji in Kyoto; regarded as the first Japanese woman Zen master.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

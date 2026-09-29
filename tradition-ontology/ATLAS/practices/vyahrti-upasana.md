@@ -15,4 +15,4 @@ Meditate on bhūḥ, bhuvaḥ, suvaḥ and mahaḥ as the worlds, lights, Vedas 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā mūla Taitiriya.md, vallī.anuvāka.verse) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (TU 1.5-6; TU 1.5-1.6). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._

@@ -12,4 +12,4 @@ After mutual examination, the guru gives the disciple the Kṛṣṇa mantras (t
   - [Haribhaktivilāsa](../texts/haribhaktivilasa.md) — ref: 2; rests_on: ["tea:haribhaktivilasa:1", "tea:haribhaktivilasa:2"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._

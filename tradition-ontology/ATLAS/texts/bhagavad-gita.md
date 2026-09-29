@@ -26,7 +26,7 @@ The dialogue in which Kṛṣṇa, as charioteer, instructs Arjuna on the battle
   - kind: original; name: F. O. Schrader, The Kashmir Recension of the Bhagavadgītā (Stuttgart, 1930); licence: print
 **Commentaries on this text:** [Anāsakti Yoga of M. K. Gandhi](anasakti-yoga.md), [Bhagavad-gītā As It Is](bhagavad-gita-as-it-is.md), [Bhagavadgītā Vīraśaiva-bhāṣya (T. G. Siddappārādhya)](bhagavadgita-virasaiva-bhasya.md), [Essays on the Gita of Sri Aurobindo](essays-on-the-gita.md), [Gītābhāṣya of Bhāskara](gita-bhasya-bhaskara.md), [Gītābhāṣya (Madhva)](gita-bhasya-madhva.md), [Gītābhāṣya of Rāmānuja](gita-bhasya-ramanuja.md), [Gītābhāṣya of Śaṅkara](gita-bhasya-sankara.md), [Gītābhūṣaṇa of Baladeva Vidyābhūṣaṇa](gita-bhusana.md), [Gītā Rahasya (Karmayogaśāstra) of Bāl Gaṅgādhar Tilak](gita-rahasya.md), [Gītātātparyanirṇaya](gita-tatparya-nirnaya.md), [Gītārthasaṅgraha](gitarthasangraha.md), [Gītārthasaṅgraha of Abhinavagupta](gitarthasangraha-abhinavagupta.md), [Gītārthasaṅgraha of Yāmuna](gitarthasangraha-yamuna.md), [Gītāvivṛti](gitavivrti.md), [Gūḍhārthadīpikā](gudharthadipika.md), [Jñāneśvarī (Bhāvārthadīpikā)](jnanesvari.md), [Kathā-Gītā (of Bhaṭṭadeva)](katha-gita-bhattadeva.md), [Sārārthavarṣiṇī](sarartha-varsini.md), [Sārārthavarṣiṇī of Viśvanātha Cakravartin](sararthavarsini.md), [Sarvatobhadra of Rājānaka Rāmakaṇṭha](sarvatobhadra-ramakantha.md), [Subodhinī of Śrīdhara Svāmin](subodhini-sridhara.md), [Tattvaprakāśikā of Keśava Kāśmīrī Bhaṭṭa](tattvaprakasika-kesava-kasmiri.md), [Tattvaprakāśikā (Gītā commentary of Keśava Kāśmīrin)](tattvaprakasika-kesava-kasmirin.md), [Tattvārthadīpanibandha of Vallabha](tattvartha-dipa-nibandha.md)
 
-## Teachings (725: text-verified 511, sourced 214)
+## Teachings (796: text-verified 599, sourced 197)
 
 ### 1.1 <a id="tea-bhagavad-gita-1-1"></a>
 `text-verified` · confidence high
@@ -7356,6 +7356,29 @@ _level: conventional · standpoint: devotional · path: devotion · stage: all �
 
 terms: [śraddhā](../terms/sraddha.md), [amṛta](../terms/amrta.md), [dharma](../terms/dharma.md), [upāsanā](../terms/upasana.md), [matpara](../terms/matpara.md), [bhakta](../terms/bhakta.md) · concepts: [The qualities of the devotee](../concepts/qualities-of-the-devotee.md), [Devotion (bhakti)](../concepts/bhakti.md)
 
+### 13.1 <a id="tea-bhagavad-gita-13-1"></a>
+`text-verified` · confidence high
+
+Arjuna: prakṛti and puruṣa, the field (kṣetra) and the knower of the field (kṣetrajña), knowledge (jñāna) and what is to be known (jñeya) — this, Keśava, I wish to know.
+
+> prakṛtiṃ puruṣaṃ caiva kṣetraṃ kṣetrajñameva ca|
+etadveditumicchāmi jñānaṃ jñeyaṃ ca keśava
+
+_level: unmarked · standpoint: seeker · path: knowledge · stage: unmarked · types: consciousness-mind, ultimate_
+
+terms: [prakṛti](../terms/prakrti.md), [puruṣa](../terms/purusa.md), [kṣetra](../terms/ksetra.md), [kṣetrajña](../terms/ksetrajna.md), [jñāna](../terms/jnana.md), [jñeya](../terms/jneya.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md) · teachers: [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md)
+
+### 13.2 <a id="tea-bhagavad-gita-13-2"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: this body (śarīra), son of Kuntī, is called 'the field' (kṣetra); the one who knows it is called 'the knower of the field' (kṣetrajña) by those who know this (tad-vidaḥ).
+
+> śrī bhagavānuvācaidaṃ śarīraṃ kaunteya kṣetramityabhidhīyate|etadyo vetti taṃ prāhuḥ kṣetrajña iti tadvidaḥ
+
+_level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: body-layers, consciousness-mind_
+
+terms: [śarīra](../terms/sarira.md), [kṣetra](../terms/ksetra.md), [kṣetrajña](../terms/ksetrajna.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 13.2-3 <a id="tea-bhagavad-gita-13-2-3"></a>
 `sourced` · confidence high
 
@@ -7367,6 +7390,31 @@ _level: ultimate · standpoint: analytic · path: knowledge · stage: all · typ
 
 terms: [kṣetra](../terms/ksetra.md), [kṣetrajña](../terms/ksetrajna.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md), [The self](../concepts/the-self.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
+_Superseded by [13.2](bhagavad-gita.md#tea-bhagavad-gita-13-2)_
+
+### 13.3 <a id="tea-bhagavad-gita-13-3"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: and know me also as the knower of the field (kṣetrajña) in all fields, Bhārata. The knowledge of the field and of the knower of the field — that, in my view, is knowledge (jñāna).
+
+> kṣetrajñaṃ cāpi māṃ viddhi sarvakṣetreṣu bhārata|
+kṣetrakṣetrajñayorjñānaṃ yattajjñānaṃ mataṃ mama
+
+_level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, consciousness-mind_
+
+terms: [kṣetrajña](../terms/ksetrajna.md), [kṣetra](../terms/ksetra.md), [jñāna](../terms/jnana.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [When the Lord says 'know me also as the knower of the field (kṣetrajña) in all fields' (BhG 13.3 in this edition; 13.2 in the 700-verse numbering) and names the highest puruṣa in the body the great lord and the supreme self (13.23; 13.22 in the 700-verse numbering), is the knower of the field in each body the Lord himself, or is the Lord the self of the knowers, distinct from them?](../debates/bhagavad-gita-ksetrajna-and-the-lord.md), [Is the conscious self one or many?](../debates/one-or-many-purusas.md)
+
+### 13.4 <a id="tea-bhagavad-gita-13-4"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: hear from me in brief what that field is, of what kind, what its modifications (vikāra) are, and what comes from what (yataś ca yat); and who he (the knower of the field) is, and what his powers (prabhāva) are.
+
+> tatkṣetraṃ yacca yādṛk ca yadvikāri yataśca yat|sa ca yo yatprabhāvaśca tatsamāsena me śrṛṇu
+
+_level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: body-layers, consciousness-mind, teacher-transmission_
+
+terms: [kṣetra](../terms/ksetra.md), [vikāra](../terms/vikara.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 13.4-5 <a id="tea-bhagavad-gita-13-4-5"></a>
 `sourced` · confidence high
 
@@ -7376,34 +7424,144 @@ _level: conventional · standpoint: analytic · path: knowledge · stage: all ·
 
 terms: [kṣetra](../terms/ksetra.md), [kṣetrajña](../terms/ksetrajna.md), [prasthānatraya](../terms/prasthanatraya.md)
 
+_Superseded by [13.4](bhagavad-gita.md#tea-bhagavad-gita-13-4)_
+
+### 13.5 <a id="tea-bhagavad-gita-13-5"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: [continuing 13.4] it has been sung by the seers (ṛṣi) in many ways, distinctly in the various metres (chandas), and also in the brahmasūtra words (brahmasūtra-pada), which give reasons (hetumat) and are decisive (viniścita).
+
+> ṛṣibhirbahudhā gītaṃ chandobhirvividhaiḥ pṛthak|brahmasūtrapadaiścaiva hetumadbhirviniśicataiḥ
+
+_level: unmarked · standpoint: seeker · path: knowledge · stage: unmarked · types: teacher-transmission_
+
+terms: [ṛṣi](../terms/rsi.md), [chandas](../terms/chandas.md), [hetu](../terms/hetu.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 13.6 <a id="tea-bhagavad-gita-13-6"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the great elements (mahābhūta), the sense of 'I' (ahaṅkāra), understanding (buddhi) and the unmanifest (avyakta); the ten faculties (indriya) and the one; and the five domains of the senses (indriya-gocara) —
+
+> mahābhūtānyahaṅkāro buddhiravyaktameva ca|indriyāṇi daśaikaṃ ca pañca cendriyagocarāḥ
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: body-layers, consciousness-mind_
+
+terms: [mahābhūta](../terms/mahabhuta.md), [ahaṅkāra](../terms/ahankara.md), [buddhi](../terms/buddhi.md), [avyakta](../terms/avyakta.md), [indriya](../terms/indriya.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md), [The twenty-four principles (epic Sāṃkhya)](../concepts/twenty-four-principles-epic.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 13.6-7 <a id="tea-bhagavad-gita-13-6-7"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-The great elements, ego, understanding and the unmanifest, the ten senses and the one (the mind), and the five objects of the senses; desire, aversion, pleasure, pain, the aggregate (of body and senses), consciousness and steadfastness — this in brief is the field with its modifications.
+Kṛṣṇa: the great elements (mahābhūta), the sense of 'I' (ahaṅkāra), understanding (buddhi) and the unmanifest (avyakta); the ten faculties (indriya) and the one; the five domains of the senses (indriya-gocara); desire (icchā), aversion (dveṣa), pleasure (sukha), pain (duḥkha), the aggregate (saṅghāta), sentience (cetanā) and steadiness (dhṛti): this, in brief, is declared to be the field together with its modifications (savikāra).
 
-_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: body-layers, consciousness-mind_
+> mahābhūtānyahaṅkāro buddhiravyaktameva ca|indriyāṇi daśaikaṃ ca pañca cendriyagocarāḥ
+icchā dveṣaḥ sukhaṃ duḥkhaṃ saṅghātaścetanādhṛtiḥ|etatkṣetraṃ samāsena savikāramudāhṛtam
 
-terms: [kṣetra](../terms/ksetra.md), [avyakta](../terms/avyakta.md), [ahaṃkāra](../terms/ahamkara.md), [buddhi](../terms/buddhi.md), [indriya](../terms/indriya.md), [tattva](../terms/tattva.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md), [The twenty-four principles (epic Sāṃkhya)](../concepts/twenty-four-principles-epic.md)
+_level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: body-layers, consciousness-mind_
+
+terms: [mahābhūta](../terms/mahabhuta.md), [ahaṅkāra](../terms/ahankara.md), [buddhi](../terms/buddhi.md), [avyakta](../terms/avyakta.md), [indriya](../terms/indriya.md), [icchā](../terms/iccha.md), [dveṣa](../terms/dvesa.md), [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md), [saṅghāta](../terms/sanghata.md), [cetana](../terms/cetana.md), [dhṛti](../terms/dhrti.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md), [The twenty-four principles (epic Sāṃkhya)](../concepts/twenty-four-principles-epic.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 13.7 <a id="tea-bhagavad-gita-13-7"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [continuing 13.6] desire (icchā), aversion (dveṣa), pleasure (sukha), pain (duḥkha), the aggregate (saṅghāta), sentience (cetanā) and steadiness (dhṛti): this, in brief, is declared to be the field together with its modifications (savikāra).
+
+> icchā dveṣaḥ sukhaṃ duḥkhaṃ saṅghātaścetanādhṛtiḥ|etatkṣetraṃ samāsena savikāramudāhṛtam
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: body-layers, consciousness-mind_
+
+terms: [icchā](../terms/iccha.md), [dveṣa](../terms/dvesa.md), [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md), [saṅghāta](../terms/sanghata.md), [cetana](../terms/cetana.md), [dhṛti](../terms/dhrti.md), [kṣetra](../terms/ksetra.md), [vikāra](../terms/vikara.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 13.8 <a id="tea-bhagavad-gita-13-8"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: absence of pride (amānitva), absence of pretension (adambhitva), non-harming (ahiṃsā), forbearance (kṣānti), uprightness (ārjava), attendance on the teacher (ācāryopāsana), purity (śauca), steadfastness (sthairya), restraint of oneself (ātmavinigraha) —
+
+> amānitvamadambhitvamahiṃsā kṣāntirārjavam|ācāryopāsanaṃ śaucaṃ sthairyamātmavinigrahaḥ
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: ethics, practice_
+
+terms: [amānitva](../terms/amanitva.md), [adambhitva](../terms/adambhitva.md), [ahiṃsā](../terms/ahimsa.md), [kṣānti](../terms/ksanti.md), [ārjava](../terms/arjava.md), [ācārya](../terms/acarya.md), [śauca](../terms/sauca.md), [ātmavinigraha](../terms/atmavinigraha.md) · concepts: [The virtues called knowledge (BhG 13.7–11)](../concepts/twenty-virtues-called-knowledge.md) · practices: [Service of the teacher](../practices/guru-seva.md), [Non-harming (ahiṃsā)](../practices/ahimsa.md) · obstacles: [Pride, thinking highly of oneself (mānitva, māna)](../obstacles/manitva.md), [Hypocrisy of the unrealised (dambha)](../obstacles/dambha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 13.8-12 <a id="tea-bhagavad-gita-13-8-12"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-What is called knowledge: absence of pride and pretence, non-harm, patience, uprightness, service of the teacher, purity, steadiness, self-restraint; dispassion toward sense-objects, absence of ego, seeing the evil of birth, death, old age, disease and pain; non-attachment, not clinging to son, wife and home, constant evenness of mind in the desired and the undesired; unswerving devotion to me with undivided yoga, resorting to solitary places, distaste for the company of crowds; constancy in the knowledge of the self and insight into the goal of knowledge of the truth — this is declared to be knowledge; what is contrary is ignorance.
+Kṛṣṇa: absence of pride (amānitva), absence of pretension (adambhitva), non-harming (ahiṃsā), forbearance (kṣānti), uprightness (ārjava), attendance on the teacher (ācāryopāsana), purity (śauca), steadfastness (sthairya), restraint of oneself (ātmavinigraha); dispassion toward the objects of the senses, absence of the sense of 'I' (anahaṅkāra), keeping in view the evil of birth, death, old age, sickness and pain; non-attachment (asakti), absence of clinging toward son, wife, home and the like, and constant evenness of thought when what is wanted or unwanted befalls; unswerving devotion to me through a yoga that has no other; resorting to secluded places, finding no delight in gatherings of people; constancy in the knowledge of what pertains to the self, and keeping in view the aim of the knowledge of reality: this is declared to be knowledge (jñāna); what is other than this is ignorance (ajñāna).
 
-_level: conventional · standpoint: seeker · path: knowledge, devotion · stage: all · types: ethics, practice_
+> amānitvamadambhitvamahiṃsā kṣāntirārjavam|ācāryopāsanaṃ śaucaṃ sthairyamātmavinigrahaḥ
+indriyārtheṣu vairāgyamanahaṅkāra eva ca|janmamṛtyujarāvyādhiduḥkhadoṣānudarśanam
+asakitaranabhiṣvaṅgaḥ putradāragṛhādiṣu|nityaṃ ca samacittatvamiṣṭāniṣṭopapattiṣu
+mayi cānanyayogena bhakitaravyabhicāriṇī|viviktadeśasevitvamaratirjanasaṃsadi
+adhyātmajñānanityatvaṃ tattvajñānārthadarśanam|etajjñānamiti proktamajñānaṃ yadatonyathā
 
-terms: [ahiṃsā](../terms/ahimsa.md), [vairāgya](../terms/vairagya.md), [ahaṃkāra](../terms/ahamkara.md), [ananya-bhakti](../terms/ananya-bhakti.md) · concepts: [The virtues called knowledge (BhG 13.7–11)](../concepts/twenty-virtues-called-knowledge.md) · practices: [Reflecting on the evil of birth, death, old age, disease and pain](../practices/reflection-on-birth-death-old-age-disease.md), [Approaching the teacher: prostration, inquiry and service](../practices/pranipata-pariprasna-seva.md)
+_level: conventional · standpoint: seeker · path: knowledge, devotion, meditation · stage: all · types: ethics, practice_
+
+terms: [amānitva](../terms/amanitva.md), [adambhitva](../terms/adambhitva.md), [ahiṃsā](../terms/ahimsa.md), [kṣānti](../terms/ksanti.md), [ārjava](../terms/arjava.md), [ācārya](../terms/acarya.md), [śauca](../terms/sauca.md), [ātmavinigraha](../terms/atmavinigraha.md), [vairāgya](../terms/vairagya.md), [indriyārtha](../terms/indriyartha.md), [ahaṅkāra](../terms/ahankara.md), [duḥkha](../terms/duhkha.md) · concepts: [The virtues called knowledge (BhG 13.7–11)](../concepts/twenty-virtues-called-knowledge.md), [Evenness of mind (samatva)](../concepts/equanimity.md), [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Service of the teacher](../practices/guru-seva.md), [Non-harming (ahiṃsā)](../practices/ahimsa.md), [Dispassion (vairāgya)](../practices/vairagya.md), [Reflecting on the evil of birth, death, old age, disease and pain](../practices/reflection-on-birth-death-old-age-disease.md), [Cultivating sameness (samatva)](../practices/samatva.md), [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md), [Resorting to solitude (vivikta-sthāna-sevana)](../practices/vivikta-sthana-sevana.md), [Constancy in knowledge of what pertains to the self (BhG 13.12)](../practices/adhyatma-jnana-nityatva.md), [Approaching the teacher: prostration, inquiry and service](../practices/pranipata-pariprasna-seva.md) · obstacles: [Pride, thinking highly of oneself (mānitva, māna)](../obstacles/manitva.md), [Hypocrisy of the unrealised (dambha)](../obstacles/dambha.md), [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md), [Attachment (saṅga)](../obstacles/sanga.md), [Ignorance veiling knowledge (ajñāna)](../obstacles/ajnana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md)
+
+### 13.9 <a id="tea-bhagavad-gita-13-9"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [continuing 13.8] dispassion (vairāgya) toward the objects of the senses (indriyārtha), absence of the sense of 'I' (anahaṅkāra), and keeping in view (anudarśana) the evil (doṣa) of birth, death, old age, sickness and pain (duḥkha) —
+
+> indriyārtheṣu vairāgyamanahaṅkāra eva ca|janmamṛtyujarāvyādhiduḥkhadoṣānudarśanam
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: ethics, practice_
+
+terms: [vairāgya](../terms/vairagya.md), [indriyārtha](../terms/indriyartha.md), [ahaṅkāra](../terms/ahankara.md), [duḥkha](../terms/duhkha.md), [mṛtyu](../terms/mrtyu.md), [vyādhi](../terms/vyadhi.md) · concepts: [The virtues called knowledge (BhG 13.7–11)](../concepts/twenty-virtues-called-knowledge.md) · practices: [Dispassion (vairāgya)](../practices/vairagya.md), [Reflecting on the evil of birth, death, old age, disease and pain](../practices/reflection-on-birth-death-old-age-disease.md) · obstacles: [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 13.10 <a id="tea-bhagavad-gita-13-10"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [continuing 13.9] non-attachment (asakti) and absence of clinging (anabhiṣvaṅga) toward son, wife, home and the like; and constant evenness of thought (sama-cittatva) when what is wanted or unwanted befalls —
+
+> asakitaranabhiṣvaṅgaḥ putradāragṛhādiṣu|nityaṃ ca samacittatvamiṣṭāniṣṭopapattiṣu
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: ethics, practice_
+
+terms: [samatva](../terms/samatva.md), [citta](../terms/citta.md), [saṅga](../terms/sanga.md), [asakta](../terms/asakta.md) · concepts: [The virtues called knowledge (BhG 13.7–11)](../concepts/twenty-virtues-called-knowledge.md), [Evenness of mind (samatva)](../concepts/equanimity.md) · practices: [Cultivating sameness (samatva)](../practices/samatva.md) · obstacles: [Attachment (saṅga)](../obstacles/sanga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 13.11 <a id="tea-bhagavad-gita-13-11"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [continuing 13.10] unswerving devotion (bhakti avyabhicāriṇī) to me through a yoga that has no other (ananya-yoga); resorting to secluded places (vivikta-deśa-sevitva); finding no delight in gatherings of people (arati jana-saṃsadi) —
+
+> mayi cānanyayogena bhakitaravyabhicāriṇī|viviktadeśasevitvamaratirjanasaṃsadi
+
+_level: conventional · standpoint: seeker · path: knowledge, devotion, meditation · stage: all · types: ethics, practice_
+
+terms: [bhakti](../terms/bhakti.md), [ananya-bhakti](../terms/ananya-bhakti.md), [yoga](../terms/yoga.md) · concepts: [The virtues called knowledge (BhG 13.7–11)](../concepts/twenty-virtues-called-knowledge.md), [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md), [Resorting to solitude (vivikta-sthāna-sevana)](../practices/vivikta-sthana-sevana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md)
+
+### 13.12 <a id="tea-bhagavad-gita-13-12"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [continuing 13.11] constancy in the knowledge of what pertains to the self (adhyātma-jñāna), and keeping in view the aim (artha) of the knowledge of reality (tattva-jñāna): this is declared to be knowledge (jñāna); what is other than this is ignorance (ajñāna).
+
+> adhyātmajñānanityatvaṃ tattvajñānārthadarśanam|etajjñānamiti proktamajñānaṃ yadatonyathā
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: ethics, practice_
+
+terms: [adhyātma](../terms/adhyatma.md), [tattvajñāna](../terms/tattvajnana.md), [jñāna](../terms/jnana.md), [ajñāna](../terms/ajnana.md) · concepts: [The virtues called knowledge (BhG 13.7–11)](../concepts/twenty-virtues-called-knowledge.md) · practices: [Constancy in knowledge of what pertains to the self (BhG 13.12)](../practices/adhyatma-jnana-nityatva.md) · obstacles: [Ignorance veiling knowledge (ajñāna)](../obstacles/ajnana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 13.13 <a id="tea-bhagavad-gita-13-13"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-I will declare that which is to be known, knowing which one attains immortality: the beginningless supreme Brahman, which is said to be neither being nor non-being.
+Kṛṣṇa: I will declare that which is to be known (jñeya), knowing which one attains the immortal (amṛta): the beginningless, supreme brahman (anādimat paraṃ brahma; the words can also be divided anādi mat-paraṃ, 'beginningless, having me as the highest'); it is said to be neither being (sat) nor non-being (asat).
 
-> jñeyaṃ yat tat pravakṣyāmi yaj jñātvāmṛtam aśnute anādimat paraṃ brahma na sat tan nāsad ucyate
+> jñeyaṃ yattatpravakṣyāmi yajjñātvā'mṛtamaśnute|anādimatparaṃ brahma na sattannāsaducyate
 
-_level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate_
+_level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate, karma-liberation_
 
-terms: [brahman](../terms/brahman.md)
+terms: [jñeya](../terms/jneya.md), [amṛta](../terms/amrta.md), [brahman](../terms/brahman.md), [sat](../terms/sat.md), [asat](../terms/asat.md) · concepts: [Brahman (the ultimate ground)](../concepts/brahman.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 13.14 <a id="tea-bhagavad-gita-13-14"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: it has hands and feet everywhere, eyes, heads and faces everywhere, ears everywhere; it stands in the world enveloping all.
+
+> sarvataḥ pāṇipādaṃ tatsarvato'kṣiśiromukham|sarvataḥ śrutimalloke sarvamāvṛtya tiṣṭhati
+
+_level: ultimate · standpoint: cosmic · path: knowledge · stage: unmarked · types: ultimate_
+
+concepts: [Brahman (the ultimate ground)](../concepts/brahman.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 13.14-18 <a id="tea-bhagavad-gita-13-14-18"></a>
 `sourced` · confidence high
@@ -7414,14 +7572,73 @@ _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced 
 
 terms: [brahman](../terms/brahman.md) · concepts: [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md)
 
+_Superseded by [13.14](bhagavad-gita.md#tea-bhagavad-gita-13-14)_
+
+### 13.15 <a id="tea-bhagavad-gita-13-15"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: it appears through the qualities (guṇa) of all the senses, yet is devoid of all the senses; it is unattached (asakta), yet supports all; it is without guṇas (nirguṇa), yet the experiencer of the guṇas (guṇabhoktṛ).
+
+> sarvendriyaguṇābhāsaṃ sarvendriyavivarjitam|asaktaṃ sarvabhṛccaiva nirguṇaṃ guṇabhoktṛ ca
+
+_level: bridging · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate_
+
+terms: [nirguṇa](../terms/nirguna.md), [guṇa](../terms/guna.md), [bhoktṛ](../terms/bhoktr.md), [indriya](../terms/indriya.md), [asakta](../terms/asakta.md) · concepts: [Brahman (the ultimate ground)](../concepts/brahman.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 13.16 <a id="tea-bhagavad-gita-13-16"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: it is outside and inside beings; it is the unmoving and also the moving; because of its subtlety (sūkṣmatva) it is not to be known (avijñeya); it is far off and it is near.
+
+> bahirantaśca bhūtānāmacaraṃ carameva ca|sūkṣmatvāttadavijñeyaṃ dūrasthaṃ cāntike ca tat
+
+_level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate_
+
+concepts: [Brahman (the ultimate ground)](../concepts/brahman.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 13.17 <a id="tea-bhagavad-gita-13-17"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: undivided, it yet stands in beings as if divided (vibhaktam iva); and that which is to be known (jñeya) is the sustainer of beings (bhūta-bhartṛ), their devourer (grasiṣṇu) and their generator (prabhaviṣṇu).
+
+> avibhaktaṃ ca bhūteṣu vibhaktamiva ca sthitam|bhūtabhartṛ ca tajjñeyaṃ grasiṣṇu prabhaviṣṇu ca
+
+_level: bridging · standpoint: cosmic · path: knowledge · stage: unmarked · types: ultimate, world-fate_
+
+terms: [jñeya](../terms/jneya.md) · concepts: [Brahman (the ultimate ground)](../concepts/brahman.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 13.18 <a id="tea-bhagavad-gita-13-18"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: it is the light even of lights; it is said to be beyond darkness (tamas). It is knowledge (jñāna), what is to be known (jñeya), and what is to be reached by knowledge (jñāna-gamya); it is seated in the heart of all.
+
+> jyotiṣāmapi tajjyotistamasaḥ paramucyate|jñānaṃ jñeyaṃ jñānagamyaṃ hṛdi sarvasya viṣṭhitam
+
+_level: ultimate · standpoint: substance · path: knowledge · stage: unmarked · types: ultimate, consciousness-mind_
+
+terms: [jñāna](../terms/jnana.md), [jñeya](../terms/jneya.md), [jyotis](../terms/jyotis.md), [hṛd](../terms/hrd.md) · concepts: [Brahman (the ultimate ground)](../concepts/brahman.md), [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 13.19 <a id="tea-bhagavad-gita-13-19"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Thus the field, knowledge and the knowable have been briefly told; my devotee, understanding this, attains my state.
+Kṛṣṇa: thus the field, and likewise knowledge and the knowable, have been told in brief. My devotee (madbhakta), knowing this, becomes fit for my state of being (madbhāva).
 
-_level: bridging · standpoint: divine · path: knowledge, devotion · stage: all · types: karma-liberation_
+> iti kṣetraṃ tathā jñānaṃ jñeyaṃ coktaṃ samāsataḥ|madbhakta etadvijñāya madbhāvāyopapadyate
 
-concepts: [Devotion (bhakti)](../concepts/bhakti.md)
+_level: conventional · standpoint: devotional · path: knowledge, devotion · stage: all · types: karma-liberation_
+
+terms: [kṣetra](../terms/ksetra.md), [jñāna](../terms/jnana.md), [jñeya](../terms/jneya.md), [madbhāva](../terms/madbhava.md), [bhakta](../terms/bhakta.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 13.20 <a id="tea-bhagavad-gita-13-20"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: know that prakṛti and puruṣa are both beginningless (anādi); and know that the modifications (vikāra) and the guṇas arise from prakṛti.
+
+> prakṛtiṃ puruṣaṃ caiva viddhyanādī ubhāvapi|vikārāṃśca guṇāṃścaiva viddhi prakṛtisaṃbhavān
+
+_level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, world-fate_
+
+terms: [prakṛti](../terms/prakrti.md), [puruṣa](../terms/purusa.md), [vikāra](../terms/vikara.md), [guṇa](../terms/guna.md) · concepts: [Prakṛti (primordial nature)](../concepts/prakrti.md), [Puruṣa (the conscious self)](../concepts/purusa.md), [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 13.20-21 <a id="tea-bhagavad-gita-13-20-21"></a>
 `sourced` · confidence high
@@ -7434,6 +7651,8 @@ _level: ultimate · standpoint: analytic · path: knowledge · stage: all · typ
 
 terms: [prakṛti](../terms/prakrti.md), [puruṣa](../terms/purusa.md), [guṇa](../terms/guna.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md)
 
+_Superseded by [13.20](bhagavad-gita.md#tea-bhagavad-gita-13-20)_
+
 ### 13.20-24 <a id="tea-bhagavad-gita-13-20-24"></a>
 `sourced` · confidence high
 
@@ -7443,34 +7662,62 @@ _level: ultimate · standpoint: analytic · path: knowledge · stage: all · typ
 
 terms: [prakṛti](../terms/prakrti.md), [puruṣa](../terms/purusa.md), [guṇa](../terms/guna.md), [paramātman](../terms/paramatman.md), [upadraṣṭṛ](../terms/upadrastr.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md), [The three guṇas](../concepts/three-gunas.md)
 
+_Superseded by [13.20](bhagavad-gita.md#tea-bhagavad-gita-13-20)_
+
+### 13.21 <a id="tea-bhagavad-gita-13-21"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: prakṛti is called the cause (hetu) in agency (kartṛtva) with respect to effect and cause (kārya-kāraṇa); puruṣa is called the cause in the experiencing (bhoktṛtva) of pleasure and pain.
+
+> kāryakāraṇakartṛtve hetuḥ prakṛtirucyate|puruṣaḥ sukhaduḥkhānāṃ bhoktṛtve heturucyate
+
+_level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
+
+terms: [prakṛti](../terms/prakrti.md), [puruṣa](../terms/purusa.md), [hetu](../terms/hetu.md), [kartṛtva](../terms/kartrtva.md), [bhoktṛ](../terms/bhoktr.md), [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md) · concepts: [Prakṛti (primordial nature)](../concepts/prakrti.md), [Puruṣa (the conscious self)](../concepts/purusa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 13.22 <a id="tea-bhagavad-gita-13-22"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Puruṣa, seated in prakṛti, experiences the guṇas born of prakṛti; attachment to the guṇas is the cause of its births in good and evil wombs.
+Kṛṣṇa: for puruṣa, abiding in prakṛti (prakṛti-stha), experiences (bhuṅkte) the guṇas born of prakṛti; attachment to the guṇas (guṇa-saṅga) is the cause of its births in good and bad wombs (sad-asad-yoni).
 
-_level: bridging · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
+> puruṣaḥ prakṛtistho hi bhuṅkte prakṛtijānguṇān|kāraṇaṃ guṇasaṅgo'sya sadasadyonijanmasu
 
-terms: [puruṣa](../terms/purusa.md), [guṇa](../terms/guna.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md)
+_level: conventional · standpoint: causal · path: knowledge · stage: unmarked · types: consciousness-mind, karma-liberation_
+
+terms: [puruṣa](../terms/purusa.md), [prakṛti](../terms/prakrti.md), [guṇa](../terms/guna.md), [saṅga](../terms/sanga.md), [yoni](../terms/yoni.md) · concepts: [The conjunction of puruṣa and prakṛti (saṃyoga)](../concepts/conjunction-of-purusa-and-prakrti.md), [Rebirth](../concepts/rebirth.md), [The three guṇas](../concepts/three-gunas.md) · obstacles: [Attachment (saṅga)](../obstacles/sanga.md), [Bondage by the three guṇas](../obstacles/guna-bondage.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 13.23 <a id="tea-bhagavad-gita-13-23"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-The supreme Puruṣa in this body is called the witness, the permitter, the supporter, the experiencer, the great Lord and the supreme self.
+Kṛṣṇa: the highest puruṣa (puruṣaḥ paraḥ) in this body is the onlooker (upadraṣṭṛ), the one who consents (anumantṛ), the supporter (bhartṛ), the experiencer (bhoktṛ), the great lord (maheśvara); and he is also called the supreme self (paramātman).
 
-> upadraṣṭānumantā ca bhartā bhoktā maheśvaraḥ paramātmeti cāpy ukto dehe 'smin puruṣaḥ paraḥ
+> upadraṣṭā'numantā ca bhartā bhoktā maheśvaraḥ|paramātmeti cāpyukto dehe'sminpuruṣaḥ paraḥ
 
-_level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate_
+_level: bridging · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate, consciousness-mind_
 
-terms: [upadraṣṭṛ](../terms/upadrastr.md), [paramātman](../terms/paramatman.md), [īśvara](../terms/isvara.md), [sākṣin](../terms/saksin.md) · concepts: [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md)
+terms: [puruṣa](../terms/purusa.md), [upadraṣṭṛ](../terms/upadrastr.md), [anumantṛ](../terms/anumantr.md), [bhoktṛ](../terms/bhoktr.md), [paramātman](../terms/paramatman.md), [deha](../terms/deha.md), [īśvara](../terms/isvara.md), [sākṣin](../terms/saksin.md) · concepts: [Puruṣa (the conscious self)](../concepts/purusa.md), [The self as witness](../concepts/self-as-witness.md), [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [When the Lord says 'know me also as the knower of the field (kṣetrajña) in all fields' (BhG 13.3 in this edition; 13.2 in the 700-verse numbering) and names the highest puruṣa in the body the great lord and the supreme self (13.23; 13.22 in the 700-verse numbering), is the knower of the field in each body the Lord himself, or is the Lord the self of the knowers, distinct from them?](../debates/bhagavad-gita-ksetrajna-and-the-lord.md)
 
 ### 13.24 <a id="tea-bhagavad-gita-13-24"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-One who thus knows puruṣa and prakṛti together with the guṇas is not born again, however he may be living.
+Kṛṣṇa: one who knows puruṣa in this way, and prakṛti together with the guṇas, is not born again, however he may be living (sarvathā vartamāno 'pi).
 
-_level: bridging · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation_
+> ya evaṃ vetti puruṣaṃ prakṛtiṃ ca guṇaiḥsaha|sarvathā vartamāno'pi na sa bhūyo'bhijāyate
 
-concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md)
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation_
+
+terms: [puruṣa](../terms/purusa.md), [prakṛti](../terms/prakrti.md), [guṇa](../terms/guna.md) · concepts: [Rebirth](../concepts/rebirth.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · practices: [Discerning the field and its knower (kṣetra-kṣetrajña)](../practices/discerning-field-and-knower.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 13.25 <a id="tea-bhagavad-gita-13-25"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: some, through meditation (dhyāna), see the self (ātmānam) in themselves (ātmani) by themselves (ātmanā); others by the yoga of sāṃkhya (sāṃkhya-yoga); and still others by the yoga of action (karma-yoga).
+
+> dhyānenātmani paśyanti kecidātmānamātmanā|anye sāṃkhyena yogena karmayogena cāpare
+
+_level: conventional · standpoint: seeker · path: meditation, knowledge, action · stage: all · types: practice, karma-liberation_
+
+terms: [dhyāna (nididhyāsana)](../terms/dhyana.md), [ātman](../terms/atman.md), [sāṃkhya](../terms/samkhya.md), [yoga](../terms/yoga.md), [karmayoga](../terms/karma-yoga.md) · concepts: [The paths of the Gītā: action, knowledge, meditation and devotion](../concepts/four-yogas-of-the-gita.md) · practices: [The Gītā's meditation (dhyāna-yoga, BhG 6.10–32)](../practices/dhyana-yoga-gita.md), [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
 
 ### 13.25-26 <a id="tea-bhagavad-gita-13-25-26"></a>
 `sourced` · confidence high
@@ -7481,14 +7728,40 @@ _level: bridging · standpoint: seeker · path: meditation, knowledge, action, d
 
 terms: [dhyāna-yoga](../terms/dhyana-yoga.md), [sāṃkhya](../terms/samkhya.md), [karmayoga](../terms/karma-yoga.md) · concepts: [The paths of the Gītā: action, knowledge, meditation and devotion](../concepts/four-yogas-of-the-gita.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
 
+_Superseded by [13.25](bhagavad-gita.md#tea-bhagavad-gita-13-25)_
+
+### 13.26 <a id="tea-bhagavad-gita-13-26"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: yet others, not knowing in this way, having heard from others, worship (upāsate); they too, holding to what they have heard (śrutiparāyaṇa), do cross beyond death (mṛtyu).
+
+> anye tvevamajānantaḥ śrutvā'nyebhya upāsate|te'pi cātitarantyeva mṛtyuṃ śrutiparāyaṇāḥ
+
+_level: conventional · standpoint: seeker · path: devotion · stage: beginner · types: practice, karma-liberation, teacher-transmission_
+
+terms: [upāsanā](../terms/upasana.md), [mṛtyu](../terms/mrtyu.md), [śruti](../terms/sruti.md) · concepts: [The paths of the Gītā: action, knowledge, meditation and devotion](../concepts/four-yogas-of-the-gita.md) · practices: [Hearing the scriptures (śravaṇa)](../practices/sravana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
+
 ### 13.27 <a id="tea-bhagavad-gita-13-27"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Whatever being is born, moving or unmoving, know that it arises from the union of the field and the knower of the field.
+Kṛṣṇa: whatever being (sattva) comes to birth, unmoving or moving, know that it is from the union (saṃyoga) of the field and the knower of the field, bull of the Bharatas.
 
-_level: conventional · standpoint: causal · path: knowledge · stage: all · types: world-fate_
+> yāvatsañjāyate kiñcitsattvaṃ sthāvarajaṅgamam|kṣetrakṣetrajñasaṃyogāttadviddhi bharatarṣabha
 
-concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md)
+_level: conventional · standpoint: causal · path: knowledge · stage: unmarked · types: world-fate, consciousness-mind_
+
+terms: [kṣetra](../terms/ksetra.md), [kṣetrajña](../terms/ksetrajna.md), [saṃyoga](../terms/samyoga.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md), [The conjunction of puruṣa and prakṛti (saṃyoga)](../concepts/conjunction-of-purusa-and-prakrti.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 13.28 <a id="tea-bhagavad-gita-13-28"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: one who sees the supreme lord (parameśvara) standing the same (sama) in all beings, not perishing among the perishing — he sees.
+
+> samaṃ sarveṣu bhūteṣu tiṣṭhantaṃ parameśvaram|vinaśyatsvavinaśyantaṃ yaḥ paśyati sa paśyati
+
+_level: bridging · standpoint: seeker · path: knowledge · stage: advanced · types: ultimate, practice_
+
+terms: [Parameśvara](../terms/paramesvara.md) · concepts: [Evenness of mind (samatva)](../concepts/equanimity.md) · practices: [Seeing the Lord in all beings and bowing to all](../practices/seeing-the-lord-in-all-beings.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 13.28-29 <a id="tea-bhagavad-gita-13-28-29"></a>
 `sourced` · confidence high
@@ -7499,6 +7772,30 @@ _level: ultimate · standpoint: experiential · path: knowledge · stage: advanc
 
 terms: [īśvara](../terms/isvara.md), [samadarśin](../terms/samadarsin.md) · concepts: [Evenness of mind (samatva)](../concepts/equanimity.md)
 
+_Superseded by [13.28](bhagavad-gita.md#tea-bhagavad-gita-13-28)_
+
+### 13.29 <a id="tea-bhagavad-gita-13-29"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: for, seeing the lord (īśvara) equally present everywhere, one does not harm oneself by oneself (na hinasty ātmanātmānam); thereby one goes to the highest goal (parā gati).
+
+> samaṃ paśyanhi sarvatra samavasthitamīśvaram|na hinastyātmanā''tmānaṃ tato yāti parāṃ gatim
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: advanced · types: karma-liberation, practice_
+
+terms: [īśvara](../terms/isvara.md) · concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [Evenness of mind (samatva)](../concepts/equanimity.md) · practices: [Seeing the Lord in all beings and bowing to all](../practices/seeing-the-lord-in-all-beings.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 13.30 <a id="tea-bhagavad-gita-13-30"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: one who sees that actions (karman) are done in every way by prakṛti alone, and likewise sees one's self (ātmānam) as not the doer (akartṛ) — that one sees.
+
+> prakṛtyaiva ca karmāṇi kriyamāṇāni sarvaśaḥ|yaḥ paśyati tathā''tmānamakartāraṃ sa paśyati
+
+_level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: consciousness-mind, karma-liberation_
+
+terms: [prakṛti](../terms/prakrti.md), [karma](../terms/karma.md), [ātman](../terms/atman.md), [kartṛ](../terms/kartr.md) · concepts: [The self is not the agent; the guṇas act](../concepts/non-agency-of-the-self.md) · practices: [Seeing that the guṇas act: non-doership](../practices/guna-witnessing.md) · obstacles: [The sense of 'I am the doer' (kartṛtva-abhimāna)](../obstacles/sense-of-doership.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 13.30-31 <a id="tea-bhagavad-gita-13-30-31"></a>
 `sourced` · confidence high
 
@@ -7507,6 +7804,30 @@ One who sees that all actions are performed by prakṛti alone and that the self
 _level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: karma-liberation_
 
 practices: [Seeing that the guṇas act: non-doership](../practices/guna-witnessing.md) · obstacles: [The sense of 'I am the doer' (kartṛtva-abhimāna)](../obstacles/sense-of-doership.md)
+
+_Superseded by [13.30](bhagavad-gita.md#tea-bhagavad-gita-13-30)_
+
+### 13.31 <a id="tea-bhagavad-gita-13-31"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: when one sees that the separate existence of beings (bhūta-pṛthag-bhāva) rests in the one (ekastha), and that their spreading out (vistāra) is from that alone, then one attains brahman (brahma sampadyate).
+
+> yadā bhūtapṛthagbhāvamekasthamanupaśyati|tata eva ca vistāraṃ brahma sampadyate tadā
+
+_level: bridging · standpoint: experiential · path: knowledge · stage: advanced · types: ultimate, karma-liberation_
+
+terms: [brahman](../terms/brahman.md) · concepts: [Brahman (the ultimate ground)](../concepts/brahman.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 13.32 <a id="tea-bhagavad-gita-13-32"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: because it is without beginning (anādi) and without guṇas (nirguṇa), this imperishable (avyaya) supreme self (paramātman), though dwelling in the body, son of Kuntī, neither acts nor is stained (na lipyate).
+
+> anāditvānnirguṇatvātparamātmāyamavyayaḥ|śarīrastho'pi kaunteya na karoti na lipyate
+
+_level: bridging · standpoint: substance · path: knowledge · stage: unmarked · types: ultimate, consciousness-mind, karma-liberation_
+
+terms: [paramātman](../terms/paramatman.md), [nirguṇa](../terms/nirguna.md), [avyaya](../terms/avyaya.md), [śarīra](../terms/sarira.md) · concepts: [The self is not the agent; the guṇas act](../concepts/non-agency-of-the-self.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 13.32-34 <a id="tea-bhagavad-gita-13-32-34"></a>
 `sourced` · confidence high
@@ -7517,14 +7838,51 @@ _level: ultimate · standpoint: substance · path: knowledge · stage: advanced 
 
 terms: [paramātman](../terms/paramatman.md), [kṣetrajña](../terms/ksetrajna.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md), [The self](../concepts/the-self.md)
 
+_Superseded by [13.32](bhagavad-gita.md#tea-bhagavad-gita-13-32)_
+
+### 13.33 <a id="tea-bhagavad-gita-13-33"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: as all-pervading (sarvagata) space (ākāśa), because of its subtlety, is not stained, so the self (ātman), present everywhere in the body, is not stained.
+
+> yathā sarvagataṃ saukṣmyādākāśaṃ nopalipyate|sarvatrāvasthito dehe tathā''tmā nopalipyate
+
+_level: bridging · standpoint: substance · path: knowledge · stage: unmarked · types: ultimate, consciousness-mind_
+
+terms: [ākāśa](../terms/akasa.md), [ātman](../terms/atman.md), [deha](../terms/deha.md), [sarvagata](../terms/sarvagata.md) · concepts: [The self](../concepts/the-self.md), [The self is not the agent; the guṇas act](../concepts/non-agency-of-the-self.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 13.34 <a id="tea-bhagavad-gita-13-34"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: as the one sun illumines this whole world, so the possessor of the field (kṣetrin) illumines the whole field, Bhārata.
+
+> yathā prakāśayatyekaḥ kṛtsnaṃ lokamimaṃ raviḥ|kṣetraṃ kṣetrī tathā kṛtsnaṃ prakāśayati bhārata
+
+_level: bridging · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, body-layers_
+
+terms: [kṣetrin](../terms/ksetrin.md), [kṣetra](../terms/ksetra.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 13.35 <a id="tea-bhagavad-gita-13-35"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Those who with the eye of knowledge know the difference between the field and the knower of the field, and the liberation of beings from prakṛti, go to the supreme.
+Kṛṣṇa: those who know in this way, with the eye of knowledge (jñāna-cakṣus), the difference (antara) between the field and the knower of the field, and the release from the prakṛti of beings (bhūta-prakṛti-mokṣa), go to the supreme (param).
 
-_level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: karma-liberation_
+> kṣetrakṣetrajñayorevamantaraṃ jñānacakṣuṣā|bhūtaprakṛtimokṣaṃ ca ye viduryānti te param
 
-concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md)
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
+
+terms: [kṣetra](../terms/ksetra.md), [kṣetrajña](../terms/ksetrajna.md), [jñāna-cakṣus](../terms/jnana-caksus.md), [prakṛti](../terms/prakrti.md), [mokṣa](../terms/moksa.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · practices: [Discerning the field and its knower (kṣetra-kṣetrajña)](../practices/discerning-field-and-knower.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 14.1 <a id="tea-bhagavad-gita-14-1"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: I will declare again the supreme knowledge, the highest of knowledges, knowing which all the sages (muni) have gone from here to the highest perfection (parā siddhi).
+
+> śrī bhagavānuvācaparaṃ bhūyaḥ pravakṣyāmi jñānānāṃ jñānamuttamam|yajjñātvā munayaḥ sarve parāṃ siddhimito gatāḥ
+
+_level: unmarked · standpoint: seeker · path: knowledge · stage: unmarked · types: karma-liberation, teacher-transmission_
+
+terms: [jñāna](../terms/jnana.md), [muni](../terms/muni.md), [siddhi](../terms/siddhi.md) · concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 14.1-2 <a id="tea-bhagavad-gita-14-1-2"></a>
 `sourced` · confidence high
@@ -7535,6 +7893,30 @@ _level: bridging · standpoint: divine · path: knowledge · stage: advanced · 
 
 concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md)
 
+_Superseded by [14.1](bhagavad-gita.md#tea-bhagavad-gita-14-1)_
+
+### 14.2 <a id="tea-bhagavad-gita-14-2"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: having resorted to this knowledge and come to have the same nature (dharma) as mine (mama sādharmya), they are not born even at the creation (sarga) and are not troubled at the dissolution (pralaya).
+
+> idaṃ jñānamupāśritya mama sādharmyamāgatāḥ|sarge'pi nopajāyante pralaye na vyathanti ca
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: realized · types: karma-liberation, world-fate_
+
+terms: [jñāna](../terms/jnana.md), [sādharmya](../terms/sadharmya.md), [sarga](../terms/sarga.md), [pralaya](../terms/pralaya.md) · concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [Rebirth](../concepts/rebirth.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 14.3 <a id="tea-bhagavad-gita-14-3"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: my womb (yoni) is the great brahman (mahad brahma); in it I place the embryo (garbha); from that comes the origin of all beings, Bhārata.
+
+> mama yonirmahadbrahma tasmin garbhaṃ dadhāmyaham|saṃbhavaḥ sarvabhūtānāṃ tato bhavati bhārata
+
+_level: conventional · standpoint: cosmic · path: general · stage: unmarked · types: world-fate_
+
+terms: [mahat](../terms/mahat.md), [yoni](../terms/yoni.md), [brahman](../terms/brahman.md) · concepts: [Great brahman as the Lord's womb; the Lord as seed-giving father (BhG 14.3–4)](../concepts/mahad-brahma-yoni.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 14.3-4 <a id="tea-bhagavad-gita-14-3-4"></a>
 `sourced` · confidence high
 
@@ -7544,16 +7926,40 @@ _level: conventional · standpoint: cosmic · path: knowledge · stage: all · t
 
 terms: [prakṛti](../terms/prakrti.md), [mahat](../terms/mahat.md) · concepts: [The two natures of the Lord (aparā and parā prakṛti)](../concepts/two-natures-of-the-lord.md)
 
+_Superseded by [14.3](bhagavad-gita.md#tea-bhagavad-gita-14-3)_
+
+### 14.4 <a id="tea-bhagavad-gita-14-4"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: of whatever forms (mūrti) come into being in all wombs, Kaunteya, great brahman is their womb, and I am the seed-giving father (bīja-prada pitṛ).
+
+> sarvayoniṣu kaunteya mūrtayaḥ sambhavanti yāḥ|tāsāṃ brahma mahadyonirahaṃ bījapradaḥ pitā
+
+_level: conventional · standpoint: divine · path: general · stage: unmarked · types: world-fate_
+
+terms: [mahat](../terms/mahat.md), [yoni](../terms/yoni.md), [bīja](../terms/bija.md), [brahman](../terms/brahman.md) · concepts: [Great brahman as the Lord's womb; the Lord as seed-giving father (BhG 14.3–4)](../concepts/mahad-brahma-yoni.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 14.5 <a id="tea-bhagavad-gita-14-5"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Sattva, rajas and tamas — the guṇas born of prakṛti — bind the imperishable embodied one in the body.
+Kṛṣṇa: sattva, rajas and tamas — the guṇas born of prakṛti — bind the imperishable embodied one (dehin) in the body, mighty-armed one.
 
-> sattvaṃ rajas tama iti guṇāḥ prakṛtisaṃbhavāḥ nibadhnanti mahābāho dehe dehinam avyayam
+> sattvaṃ rajastama iti guṇāḥ prakṛtisaṃbhavāḥ|nibadhnanti mahābāho dehe dehinamavyayam
 
-_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation_
+_level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: karma-liberation, body-layers, consciousness-mind_
 
-terms: [guṇa](../terms/guna.md), [sattva](../terms/sattva.md), [rajas](../terms/rajas.md), [tamas](../terms/tamas.md), [dehin](../terms/dehin.md) · concepts: [The three guṇas](../concepts/three-gunas.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md)
+terms: [sattva](../terms/sattva.md), [rajas](../terms/rajas.md), [tamas](../terms/tamas.md), [guṇa](../terms/guna.md), [prakṛti](../terms/prakrti.md), [dehin](../terms/dehin.md), [deha](../terms/deha.md), [avyaya](../terms/avyaya.md) · concepts: [The three guṇas](../concepts/three-gunas.md), [The eternal, unslayable embodied one (dehin / śarīrin)](../concepts/imperishable-embodied-self.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 14.6 <a id="tea-bhagavad-gita-14-6"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: of these, sattva, being stainless (nirmala), is illuminating (prakāśaka) and free of affliction (anāmaya); it binds by attachment to happiness (sukha-saṅga) and by attachment to knowledge (jñāna-saṅga), sinless one.
+
+> tatra sattvaṃ nirmalatvātprakāśakamanāmayam|sukhasaṅgena badhnāti jñānasaṅgena cānagha
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, karma-liberation_
+
+terms: [sattva](../terms/sattva.md), [saṅga](../terms/sanga.md), [sukha](../terms/sukha.md), [jñāna](../terms/jnana.md), [prakāśa](../terms/prakasa.md) · concepts: [The three guṇas](../concepts/three-gunas.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md), [Attachment (saṅga)](../obstacles/sanga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 14.6-8 <a id="tea-bhagavad-gita-14-6-8"></a>
 `sourced` · confidence high
@@ -7564,6 +7970,41 @@ _level: conventional · standpoint: analytic · path: knowledge · stage: all ·
 
 terms: [sattva](../terms/sattva.md), [rajas](../terms/rajas.md), [tamas](../terms/tamas.md), [tṛṣṇā](../terms/trsna.md) · concepts: [The three guṇas](../concepts/three-gunas.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md)
 
+_Superseded by [14.6](bhagavad-gita.md#tea-bhagavad-gita-14-6)_
+
+### 14.7 <a id="tea-bhagavad-gita-14-7"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: know rajas to be of the nature of passion (rāga), bound up with the arising of thirst (tṛṣṇā) and attachment (saṅga); it binds the embodied one by attachment to action (karma-saṅga), son of Kuntī.
+
+> rajo rāgātmakaṃ viddhi tṛṣṇāsaṅgasamudbhavam|tannibadhnāti kaunteya karmasaṅgena dehinam
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, karma-liberation_
+
+terms: [rajas](../terms/rajas.md), [rāga](../terms/raga.md), [tṛṣṇā](../terms/trsna.md), [saṅga](../terms/sanga.md), [karma](../terms/karma.md), [dehin](../terms/dehin.md) · concepts: [The three guṇas](../concepts/three-gunas.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md), [Attachment (saṅga)](../obstacles/sanga.md), [Passion, attachment (rāga)](../obstacles/raga.md), [Craving (tṛṣṇā)](../obstacles/trsna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 14.8 <a id="tea-bhagavad-gita-14-8"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: but know tamas to be born of ignorance (ajñāna), deluding (mohana) all embodied beings; it binds by heedlessness (pramāda), idleness (ālasya) and sleep (nidrā), Bhārata.
+
+> tamastvajñānajaṃ viddhi mohanaṃ sarvadehinām|pramādālasyanidrābhistannibadhnāti bhārata
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, karma-liberation_
+
+terms: [tamas](../terms/tamas.md), [ajñāna](../terms/ajnana.md), [moha](../terms/moha.md), [pramāda](../terms/pramada.md), [ālasya](../terms/alasya.md), [nidrā](../terms/nidra.md), [dehin](../terms/dehin.md) · concepts: [The three guṇas](../concepts/three-gunas.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md), [Ignorance veiling knowledge (ajñāna)](../obstacles/ajnana.md), [Delusion (moha)](../obstacles/moha.md), [Heedlessness (pramāda)](../obstacles/pramada.md), [Laziness (ālasya)](../obstacles/alasya.md), [Sleep as a bond of tamas (nidrā)](../obstacles/nidra.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 14.9 <a id="tea-bhagavad-gita-14-9"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: sattva attaches (one) to happiness (sukha), rajas to action (karman), Bhārata; but tamas, covering knowledge (jñāna), attaches to heedlessness (pramāda).
+
+> sattvaṃ sukhe sañjayati rajaḥ karmaṇi bhārata|jñānamāvṛtya tu tamaḥ pramāde sañjayatyuta
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, karma-liberation_
+
+terms: [sattva](../terms/sattva.md), [rajas](../terms/rajas.md), [tamas](../terms/tamas.md), [sukha](../terms/sukha.md), [karma](../terms/karma.md), [jñāna](../terms/jnana.md), [pramāda](../terms/pramada.md) · concepts: [The three guṇas](../concepts/three-gunas.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md), [Heedlessness (pramāda)](../obstacles/pramada.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 14.9-10 <a id="tea-bhagavad-gita-14-9-10"></a>
 `sourced` · confidence high
 
@@ -7572,6 +8013,30 @@ Sattva attaches to happiness, rajas to action, while tamas, veiling knowledge, a
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
 concepts: [The three guṇas](../concepts/three-gunas.md)
+
+_Superseded by [14.9](bhagavad-gita.md#tea-bhagavad-gita-14-9)_
+
+### 14.10 <a id="tea-bhagavad-gita-14-10"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: sattva comes to prevail by overpowering rajas and tamas, Bhārata; rajas, by overpowering sattva and tamas; and likewise tamas, by overpowering sattva and rajas.
+
+> rajastamaścābhibhūya sattvaṃ bhavati bhārata|rajaḥ sattvaṃ tamaścaiva tamaḥ sattvaṃ rajastathā
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
+
+terms: [sattva](../terms/sattva.md), [rajas](../terms/rajas.md), [tamas](../terms/tamas.md) · concepts: [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 14.11 <a id="tea-bhagavad-gita-14-11"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: when illumination (prakāśa) — knowledge (jñāna) — arises at all the gates (dvāra) in this body, then one should know that sattva has increased.
+
+> sarvadvāreṣu dehe'sminprakāśa upajāyate|jñānaṃ yadā tadā vidyādvivṛddhaṃ sattvamityuta
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, powers-experiences, body-layers_
+
+terms: [sattva](../terms/sattva.md), [jñāna](../terms/jnana.md), [prakāśa](../terms/prakasa.md), [deha](../terms/deha.md) · concepts: [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 14.11-13 <a id="tea-bhagavad-gita-14-11-13"></a>
 `sourced` · confidence high
@@ -7582,6 +8047,41 @@ _level: conventional · standpoint: experiential · path: knowledge, meditation 
 
 terms: [sattva](../terms/sattva.md), [rajas](../terms/rajas.md), [tamas](../terms/tamas.md) · concepts: [The three guṇas](../concepts/three-gunas.md)
 
+_Superseded by [14.11](bhagavad-gita.md#tea-bhagavad-gita-14-11)_
+
+### 14.12 <a id="tea-bhagavad-gita-14-12"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: greed (lobha), activity (pravṛtti), the undertaking of actions (ārambha), restlessness (aśama) and craving (spṛhā): these arise when rajas has increased, bull of the Bharatas.
+
+> lobhaḥ pravṛttirārambhaḥ karmaṇāmaśamaḥ spṛhā|rajasyetāni jāyante vivṛddhe bharatarṣabha
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, powers-experiences_
+
+terms: [lobha](../terms/lobha.md), [pravṛtti](../terms/pravrtti.md), [ārambha](../terms/arambha.md), [rajas](../terms/rajas.md) · concepts: [The three guṇas](../concepts/three-gunas.md) · obstacles: [Greed (lobha)](../obstacles/lobha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 14.13 <a id="tea-bhagavad-gita-14-13"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: absence of illumination (aprakāśa), inactivity (apravṛtti), heedlessness (pramāda) and delusion (moha): these arise when tamas has increased, joy of the Kurus.
+
+> aprakāśo'pravṛttiśca pramādo moha eva ca|tamasyetāni jāyante vivṛddhe kurunandana
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, powers-experiences_
+
+terms: [tamas](../terms/tamas.md), [pramāda](../terms/pramada.md), [moha](../terms/moha.md), [pravṛtti](../terms/pravrtti.md), [prakāśa](../terms/prakasa.md) · concepts: [The three guṇas](../concepts/three-gunas.md) · obstacles: [Delusion (moha)](../obstacles/moha.md), [Heedlessness (pramāda)](../obstacles/pramada.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 14.14 <a id="tea-bhagavad-gita-14-14"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: when the embodied one (deha-bhṛt) goes to dissolution (pralaya) while sattva is increased, it then reaches the stainless worlds of those who know the highest (uttama-vid).
+
+> yadā sattve pravṛddhe tu pralayaṃ yāti dehabhṛt|tadottamavidāṃ lokānamalānpratipadyate
+
+_level: conventional · standpoint: causal · path: knowledge · stage: unmarked · types: death-dying, karma-liberation, world-fate_
+
+terms: [sattva](../terms/sattva.md), [pralaya](../terms/pralaya.md), [loka](../terms/loka.md) · concepts: [Dying while a guṇa predominates (BhG 14.14–15, 14.18)](../concepts/dying-in-a-predominant-guna.md), [Rebirth](../concepts/rebirth.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 14.14-15 <a id="tea-bhagavad-gita-14-14-15"></a>
 `sourced` · confidence high
 
@@ -7590,6 +8090,30 @@ If the embodied one meets death when sattva prevails, he goes to the pure worlds
 _level: conventional · standpoint: causal · path: general · stage: all · types: death-dying, karma-liberation_
 
 concepts: [The three guṇas](../concepts/three-gunas.md), [The last thought at death](../concepts/last-thought-at-death.md)
+
+_Superseded by [14.14](bhagavad-gita.md#tea-bhagavad-gita-14-14)_
+
+### 14.15 <a id="tea-bhagavad-gita-14-15"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: going to dissolution (pralaya) in rajas, one is born among those attached to action (karma-saṅgin); likewise, dissolved in tamas, one is born in deluded wombs (mūḍha-yoni).
+
+> rajasi pralayaṃ gatvā karmasaṅgiṣu jāyate|tathā pralīnastamasi mūḍhayoniṣu jāyate
+
+_level: conventional · standpoint: causal · path: knowledge · stage: unmarked · types: death-dying, karma-liberation, world-fate_
+
+terms: [rajas](../terms/rajas.md), [tamas](../terms/tamas.md), [karma](../terms/karma.md), [saṅga](../terms/sanga.md), [yoni](../terms/yoni.md), [pralaya](../terms/pralaya.md) · concepts: [Dying while a guṇa predominates (BhG 14.14–15, 14.18)](../concepts/dying-in-a-predominant-guna.md), [Rebirth](../concepts/rebirth.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 14.16 <a id="tea-bhagavad-gita-14-16"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: they say that the fruit of well-done action (sukṛta karman) is sāttvika and stainless; but the fruit of rajas is pain (duḥkha), and the fruit of tamas is ignorance (ajñāna).
+
+> karmaṇaḥ sukṛtasyāhuḥ sāttvikaṃ nirmalaṃ phalam|rajasastu phalaṃ duḥkhamajñānaṃ tamasaḥ phalam
+
+_level: conventional · standpoint: causal · path: action, knowledge · stage: unmarked · types: karma-liberation_
+
+terms: [karma](../terms/karma.md), [sattva](../terms/sattva.md), [rajas](../terms/rajas.md), [tamas](../terms/tamas.md), [duḥkha](../terms/duhkha.md), [ajñāna](../terms/ajnana.md) · concepts: [The three guṇas](../concepts/three-gunas.md), [Karma](../concepts/karma.md) · obstacles: [Ignorance veiling knowledge (ajñāna)](../obstacles/ajnana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 14.16-18 <a id="tea-bhagavad-gita-14-16-18"></a>
 `sourced` · confidence high
@@ -7600,6 +8124,41 @@ _level: conventional · standpoint: causal · path: general · stage: all · typ
 
 concepts: [The three guṇas](../concepts/three-gunas.md)
 
+_Superseded by [14.16](bhagavad-gita.md#tea-bhagavad-gita-14-16)_
+
+### 14.17 <a id="tea-bhagavad-gita-14-17"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: from sattva arises knowledge (jñāna), and from rajas greed (lobha); from tamas come heedlessness (pramāda) and delusion (moha), and ignorance (ajñāna) as well.
+
+> sattvātsañjāyate jñānaṃ rajaso lobha eva ca|pramādamohau tamaso bhavato'jñānameva ca
+
+_level: conventional · standpoint: causal · path: knowledge · stage: unmarked · types: consciousness-mind_
+
+terms: [sattva](../terms/sattva.md), [rajas](../terms/rajas.md), [tamas](../terms/tamas.md), [jñāna](../terms/jnana.md), [lobha](../terms/lobha.md), [pramāda](../terms/pramada.md), [moha](../terms/moha.md), [ajñāna](../terms/ajnana.md) · concepts: [The three guṇas](../concepts/three-gunas.md) · obstacles: [Greed (lobha)](../obstacles/lobha.md), [Delusion (moha)](../obstacles/moha.md), [Ignorance veiling knowledge (ajñāna)](../obstacles/ajnana.md), [Heedlessness (pramāda)](../obstacles/pramada.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 14.18 <a id="tea-bhagavad-gita-14-18"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: those abiding in sattva go upward; the rājasa remain in the middle; the tāmasa, abiding in the functioning of the lowest guṇa (jaghanya-guṇa-vṛtti), go downward.
+
+> ūrdhvaṃ gacchanti sattvasthā madhye tiṣṭhanti rājasāḥ|jaghanyaguṇavṛttisthā adho gacchanti tāmasāḥ
+
+_level: conventional · standpoint: causal · path: knowledge · stage: unmarked · types: karma-liberation, world-fate, death-dying_
+
+terms: [sattva](../terms/sattva.md), [rajas](../terms/rajas.md), [tamas](../terms/tamas.md), [guṇa](../terms/guna.md) · concepts: [The three guṇas](../concepts/three-gunas.md), [Rebirth](../concepts/rebirth.md), [Dying while a guṇa predominates (BhG 14.14–15, 14.18)](../concepts/dying-in-a-predominant-guna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 14.19 <a id="tea-bhagavad-gita-14-19"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: when the seer (draṣṭṛ) sees no agent (kartṛ) other than the guṇas, and knows what is higher than the guṇas, he attains my state (mad-bhāva).
+
+> nānyaṃ guṇebhyaḥ kartāraṃ yadā draṣṭānupaśyati|guṇebhyaśca paraṃ vetti madbhāvaṃ so'dhigacchati
+
+_level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: karma-liberation, consciousness-mind_
+
+terms: [draṣṭṛ](../terms/drastr.md), [kartṛ](../terms/kartr.md), [guṇa](../terms/guna.md), [madbhāva](../terms/madbhava.md) · concepts: [The guṇas as the doers of action](../concepts/gunas-as-agents.md), [The self is not the agent; the guṇas act](../concepts/non-agency-of-the-self.md) · practices: [Seeing that the guṇas act: non-doership](../practices/guna-witnessing.md) · obstacles: [The sense of 'I am the doer' (kartṛtva-abhimāna)](../obstacles/sense-of-doership.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 14.19-20 <a id="tea-bhagavad-gita-14-19-20"></a>
 `sourced` · confidence high
 
@@ -7609,14 +8168,40 @@ _level: bridging · standpoint: seeker · path: knowledge · stage: advanced · 
 
 terms: [guṇātīta](../terms/gunatita.md) · concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [The three guṇas](../concepts/three-gunas.md)
 
+_Superseded by [14.19](bhagavad-gita.md#tea-bhagavad-gita-14-19)_
+
+### 14.20 <a id="tea-bhagavad-gita-14-20"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: having gone beyond these three guṇas, bound up with the body's arising (deha-samudbhava), the embodied one (dehin), freed from birth, death, old age and pain, attains the immortal (amṛta).
+
+> guṇānetānatītya trīndehī dehasamudbhavān|janmamṛtyujarāduḥkhairvimukto'mṛtamaśnute
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: advanced · types: karma-liberation_
+
+terms: [guṇa](../terms/guna.md), [dehin](../terms/dehin.md), [amṛta](../terms/amrta.md), [mṛtyu](../terms/mrtyu.md), [duḥkha](../terms/duhkha.md), [guṇātīta](../terms/gunatita.md) · concepts: [The three guṇas](../concepts/three-gunas.md), [Going beyond the guṇas (guṇātīta)](../concepts/gunatita.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 14.21 <a id="tea-bhagavad-gita-14-21"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Arjuna asks: by what marks is one known who has gone beyond these three guṇas, what is his conduct, and how does he pass beyond them?
+Arjuna: by what marks (liṅga) is one who has gone beyond these three guṇas (known), Lord (prabhu)? What is his conduct (ācāra)? And how does he pass beyond these three guṇas?
 
-_level: conventional · standpoint: seeker · path: knowledge · stage: realized · types: consciousness-mind_
+> arjuna uvācakairliṃgaistrīnguṇānetānatīto bhavati prabho|kimācāraḥ kathaṃ caitāṃstrīnguṇānativartate
 
-terms: [guṇātīta](../terms/gunatita.md)
+_level: unmarked · standpoint: seeker · path: knowledge · stage: realized (guṇātīta (one gone beyond the guṇas)) · types: karma-liberation, consciousness-mind_
+
+terms: [guṇa](../terms/guna.md), [guṇātīta](../terms/gunatita.md), [liṅga](../terms/linga.md) · concepts: [Going beyond the guṇas (guṇātīta)](../concepts/gunatita.md) · teachers: [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md)
+
+### 14.22 <a id="tea-bhagavad-gita-14-22"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: illumination (prakāśa), activity (pravṛtti) and delusion (moha), son of Pāṇḍu — he does not hate them when they have arisen, nor long for them when they have ceased.
+
+> śrī bhagavānuvācaprakāśaṃ ca pravṛttiṃ ca mohameva ca pāṇḍava|na dveṣṭi sampravṛttāni na nivṛttāni kāṅkṣati
+
+_level: unmarked · standpoint: experiential · path: knowledge · stage: realized (guṇātīta (one gone beyond the guṇas)) · types: consciousness-mind, ethics, karma-liberation_
+
+terms: [pravṛtti](../terms/pravrtti.md), [moha](../terms/moha.md), [dveṣa](../terms/dvesa.md), [prakāśa](../terms/prakasa.md) · concepts: [The three guṇas](../concepts/three-gunas.md), [Going beyond the guṇas (guṇātīta)](../concepts/gunatita.md) · obstacles: [Aversion (dveṣa)](../obstacles/dvesa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 14.22-25 <a id="tea-bhagavad-gita-14-22-25"></a>
 `sourced` · confidence high
@@ -7627,25 +8212,86 @@ _level: conventional · standpoint: seeker · path: knowledge · stage: realized
 
 terms: [guṇātīta](../terms/gunatita.md) · concepts: [Liberation while living](../concepts/liberation-while-living.md), [Evenness of mind (samatva)](../concepts/equanimity.md), [The three guṇas](../concepts/three-gunas.md) · practices: [Seeing that the guṇas act: non-doership](../practices/guna-witnessing.md)
 
+_Superseded by [14.22](bhagavad-gita.md#tea-bhagavad-gita-14-22)_
+
+### 14.23 <a id="tea-bhagavad-gita-14-23"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: one who, seated as one indifferent (udāsīnavat), is not shaken by the guṇas; who, (knowing) only that 'the guṇas are operating' (guṇā vartante), stands firm and does not waver —
+
+> udāsīnavadāsīno guṇairyo na vicālyate|guṇā vartanta ityeva yo'vatiṣṭhati neṅgate
+
+_level: unmarked · standpoint: experiential · path: knowledge · stage: realized (guṇātīta (one gone beyond the guṇas)) · types: consciousness-mind, ethics, karma-liberation_
+
+terms: [udāsīna](../terms/udasina.md), [guṇa](../terms/guna.md) · concepts: [The guṇas as the doers of action](../concepts/gunas-as-agents.md), [Going beyond the guṇas (guṇātīta)](../concepts/gunatita.md) · practices: [Seeing that the guṇas act: non-doership](../practices/guna-witnessing.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 14.23-25 <a id="tea-bhagavad-gita-14-23-25"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: one who, seated as one indifferent (udāsīnavat), is not shaken by the guṇas; who, (knowing) only that 'the guṇas are operating', stands firm and does not waver; alike in pain and pleasure, abiding in himself (svastha), regarding a clod, a stone and gold as the same, the same toward the pleasant and the unpleasant, steadfast (dhīra), the same in blame and in praise of himself, the same in honour and dishonour, the same toward the side of friend and of foe, relinquishing all undertakings — he is called one who has gone beyond the guṇas (guṇātīta).
+
+> udāsīnavadāsīno guṇairyo na vicālyate|guṇā vartanta ityeva yo'vatiṣṭhati neṅgate
+samaduḥkhasukhaḥ svasthaḥ samaloṣṭāśmakāñcanaḥ|tulyapriyāpriyo dhīrastulyanindātmasaṃstutiḥ
+mānāpamānayostulyastulyo mitrāripakṣayoḥ|sarvārambhaparityāgī guṇātītaḥ sa ucyate
+
+_level: unmarked · standpoint: experiential · path: knowledge · stage: realized (guṇātīta (one gone beyond the guṇas)) · types: consciousness-mind, ethics, karma-liberation_
+
+terms: [udāsīna](../terms/udasina.md), [guṇa](../terms/guna.md), [svastha](../terms/svastha.md), [dhīra](../terms/dhira.md), [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md), [samatva](../terms/samatva.md), [guṇātīta](../terms/gunatita.md), [ārambha](../terms/arambha.md) · concepts: [The guṇas as the doers of action](../concepts/gunas-as-agents.md), [Going beyond the guṇas (guṇātīta)](../concepts/gunatita.md), [Evenness of mind (samatva)](../concepts/equanimity.md) · practices: [Seeing that the guṇas act: non-doership](../practices/guna-witnessing.md), [Cultivating sameness (samatva)](../practices/samatva.md) · obstacles: [The pairs of opposites (dvandva)](../obstacles/dvandva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 14.24 <a id="tea-bhagavad-gita-14-24"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [continuing 14.23] alike in pain and pleasure, abiding in himself (svastha), regarding a clod, a stone and gold as the same, the same toward the pleasant and the unpleasant, steadfast (dhīra), the same in blame and in praise of himself —
+
+> samaduḥkhasukhaḥ svasthaḥ samaloṣṭāśmakāñcanaḥ|tulyapriyāpriyo dhīrastulyanindātmasaṃstutiḥ
+
+_level: unmarked · standpoint: experiential · path: knowledge · stage: realized (guṇātīta (one gone beyond the guṇas)) · types: consciousness-mind, ethics, karma-liberation_
+
+terms: [svastha](../terms/svastha.md), [dhīra](../terms/dhira.md), [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md), [samatva](../terms/samatva.md) · concepts: [Evenness of mind (samatva)](../concepts/equanimity.md), [Going beyond the guṇas (guṇātīta)](../concepts/gunatita.md) · practices: [Cultivating sameness (samatva)](../practices/samatva.md) · obstacles: [The pairs of opposites (dvandva)](../obstacles/dvandva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 14.25 <a id="tea-bhagavad-gita-14-25"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [continuing 14.24] the same in honour and dishonour, the same toward the side of friend and of foe, relinquishing all undertakings (sarvārambha-parityāgin) — he is called one who has gone beyond the guṇas (guṇātīta).
+
+> mānāpamānayostulyastulyo mitrāripakṣayoḥ|sarvārambhaparityāgī guṇātītaḥ sa ucyate
+
+_level: unmarked · standpoint: experiential · path: knowledge · stage: realized (guṇātīta (one gone beyond the guṇas)) · types: karma-liberation, ethics_
+
+terms: [guṇātīta](../terms/gunatita.md), [ārambha](../terms/arambha.md) · concepts: [Evenness of mind (samatva)](../concepts/equanimity.md), [Going beyond the guṇas (guṇātīta)](../concepts/gunatita.md) · practices: [Cultivating sameness (samatva)](../practices/samatva.md) · obstacles: [The pairs of opposites (dvandva)](../obstacles/dvandva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 14.26 <a id="tea-bhagavad-gita-14-26"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-One who serves me with the unswerving yoga of devotion, passing beyond these guṇas, becomes fit for becoming Brahman.
+Kṛṣṇa: and he who serves (sevate) me with the unswerving yoga of devotion (avyabhicāra bhakti-yoga), having gone fully beyond these guṇas, becomes fit for becoming brahman (brahmabhūya).
 
-> māṃ ca yo 'vyabhicāreṇa bhaktiyogena sevate sa guṇān samatītyaitān brahmabhūyāya kalpate
+> māṃ ca yo'vyabhicāreṇa bhakitayogena sevate|sa guṇānsamatītyaitān brahmabhūyāya kalpate
 
-_level: bridging · standpoint: devotional · path: devotion · stage: advanced · types: karma-liberation_
+_level: conventional · standpoint: devotional · path: devotion · stage: all · types: practice, karma-liberation_
 
-terms: [bhakti-yoga](../terms/bhakti-yoga.md), [brahmabhūta](../terms/brahmabhuta.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
+terms: [bhakti-yoga](../terms/bhakti-yoga.md), [brahmabhūya](../terms/brahmabhuya.md), [guṇa](../terms/guna.md), [guṇātīta](../terms/gunatita.md), [brahmabhūta](../terms/brahmabhuta.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md), [Going beyond the guṇas (guṇātīta)](../concepts/gunatita.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · practices: [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
 
 ### 14.27 <a id="tea-bhagavad-gita-14-27"></a>
-`sourced` · confidence high
+`text-verified` · confidence moderate
 
-For I am the foundation of Brahman, of the immortal and imperishable, of eternal dharma and of absolute happiness.
+Kṛṣṇa: for I am the foundation (pratiṣṭhā) of brahman, of the immortal and imperishable (amṛta, avyaya), of everlasting dharma and of absolute happiness (aikāntika sukha).
 
-_level: ultimate · standpoint: divine · path: devotion, knowledge · stage: all · types: ultimate_
+> brahmaṇo hi pratiṣṭhā'hamamṛtasyāvyayasya ca|śāśvatasya ca dharmasya sukhasyaikāntikasya ca
 
-terms: [brahman](../terms/brahman.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
+_level: ultimate · standpoint: divine · path: knowledge, devotion · stage: unmarked · types: ultimate_
+
+terms: [brahman](../terms/brahman.md), [amṛta](../terms/amrta.md), [avyaya](../terms/avyaya.md), [dharma](../terms/dharma.md), [sukha](../terms/sukha.md), [pratiṣṭhā](../terms/pratistha.md) · concepts: [Brahman (the ultimate ground)](../concepts/brahman.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
+
+### 15.1 <a id="tea-bhagavad-gita-15-1"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: they speak of an imperishable (avyaya) aśvattha tree with its roots above and its branches below, whose leaves are the metres (chandas); one who knows it knows the Veda (vedavid).
+
+> śrī bhagavānuvācaūrdhvamūlamadhaḥśākhamaśvatthaṃ prāhuravyayam|chandāṃsi yasya parṇāni yastaṃ veda sa vedavit
+
+_level: conventional · standpoint: cosmic · path: knowledge · stage: unmarked · types: world-fate, karma-liberation_
+
+terms: [aśvattha](../terms/asvattha.md), [chandas](../terms/chandas.md), [veda](../terms/veda.md), [avyaya](../terms/avyaya.md) · concepts: [The inverted aśvattha tree of saṃsāra](../concepts/asvattha-tree.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 15.1-2 <a id="tea-bhagavad-gita-15-1-2"></a>
 `sourced` · confidence high
@@ -7658,6 +8304,30 @@ _level: conventional · standpoint: cosmic · path: knowledge · stage: all · t
 
 terms: [aśvattha](../terms/asvattha.md), [saṃsāra](../terms/samsara.md) · concepts: [The inverted aśvattha tree of saṃsāra](../concepts/asvattha-tree.md)
 
+_Superseded by [15.1](bhagavad-gita.md#tea-bhagavad-gita-15-1)_
+
+### 15.2 <a id="tea-bhagavad-gita-15-2"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: its branches spread below and above, swollen by the guṇas (guṇa-pravṛddha), with the objects of sense (viṣaya) as their shoots; and below, in the world of humans, its roots stretch on, bound up with action (karmānubandhin).
+
+> adhaścordhvaṃ prasṛtāstasya śākhā     guṇapravṛddhā viṣayapravālāḥ|adhaśca mūlānyanusantatāni     karmānubandhīni manuṣyaloke
+
+_level: conventional · standpoint: cosmic · path: knowledge · stage: unmarked · types: world-fate, karma-liberation_
+
+terms: [guṇa](../terms/guna.md), [viṣaya](../terms/visaya.md), [karma](../terms/karma.md) · concepts: [The inverted aśvattha tree of saṃsāra](../concepts/asvattha-tree.md), [Bondage of action (karma-bandha)](../concepts/bondage-of-action.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 15.3 <a id="tea-bhagavad-gita-15-3"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: its form is not perceived here as such, nor its end, nor its beginning, nor its foundation (saṃpratiṣṭhā). Having cut this firmly rooted aśvattha with the strong weapon of non-attachment (asaṅga-śastra) —
+
+> na rūpamasyeha tathopalabhyate    nānto na cādirna ca saṃpratiṣṭhā|aśvatthamenaṃ suvirūḍhamūla    masaṅgaśastreṇa dṛḍhena chittvā
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: practice, karma-liberation_
+
+terms: [aśvattha](../terms/asvattha.md), [saṅga](../terms/sanga.md), [pratiṣṭhā](../terms/pratistha.md) · concepts: [The inverted aśvattha tree of saṃsāra](../concepts/asvattha-tree.md) · practices: [Cutting the aśvattha with the weapon of non-attachment (BhG 15.3–5)](../practices/asanga-sastra.md) · obstacles: [Attachment (saṅga)](../obstacles/sanga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 15.3-4 <a id="tea-bhagavad-gita-15-3-4"></a>
 `sourced` · confidence high
 
@@ -7667,36 +8337,62 @@ _level: bridging · standpoint: seeker · path: knowledge, devotion · stage: in
 
 terms: [prapatti](../terms/prapatti.md), [vairāgya](../terms/vairagya.md) · concepts: [The inverted aśvattha tree of saṃsāra](../concepts/asvattha-tree.md), [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md)
 
+_Superseded by [15.3](bhagavad-gita.md#tea-bhagavad-gita-15-3)_
+
+### 15.4 <a id="tea-bhagavad-gita-15-4"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [continuing 15.3] then that place (pada) is to be sought, having gone to which they do not return again: 'I take refuge (prapadye) in that very primal person (ādya puruṣa), from whom the ancient stream of activity (pravṛtti) flowed forth.'
+
+> tataḥ padaṃ tatparimārgitavya    yasmingatā na nivartanti bhūyaḥ|tameva cādyaṃ puruṣaṃ prapadye    yataḥ pravṛttiḥ prasṛtā purāṇī
+
+_level: conventional · standpoint: devotional · path: knowledge, devotion · stage: all · types: practice, karma-liberation_
+
+terms: [puruṣa](../terms/purusa.md), [pravṛtti](../terms/pravrtti.md), [pada](../terms/pada.md), [prapatti](../terms/prapatti.md) · concepts: [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md), [The inverted aśvattha tree of saṃsāra](../concepts/asvattha-tree.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · practices: [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md), [Cutting the aśvattha with the weapon of non-attachment (BhG 15.3–5)](../practices/asanga-sastra.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 15.5 <a id="tea-bhagavad-gita-15-5"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Without pride and delusion, the fault of attachment conquered, ever abiding in the self, desires turned away, freed from the pairs of opposites known as pleasure and pain, the undeluded go to that imperishable state.
+Kṛṣṇa: free from pride (māna) and delusion (moha), having conquered the fault of attachment (saṅga-doṣa), constantly intent on what pertains to the self (adhyātma-nitya), with desires (kāma) turned away, released from the pairs of opposites (dvandva) known as pleasure and pain, the undeluded go to that imperishable place (padam avyayam).
 
-_level: bridging · standpoint: seeker · path: knowledge · stage: advanced · types: karma-liberation_
+> nirmānamohā jitasaṅgadoṣā    adhyātmanityā vinivṛttakāmāḥ|dvandvairvimuktāḥ sukhaduḥkhasaṃjñai    rgacchantyamūḍhāḥ padamavyayaṃ tat
 
-terms: [dvandva](../terms/dvandva.md)
+_level: conventional · standpoint: seeker · path: knowledge · stage: advanced · types: ethics, karma-liberation_
+
+terms: [moha](../terms/moha.md), [saṅga](../terms/sanga.md), [adhyātma](../terms/adhyatma.md), [kāma](../terms/kama.md), [dvandva](../terms/dvandva.md), [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md), [avyaya](../terms/avyaya.md), [pada](../terms/pada.md) · concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · practices: [Constancy in knowledge of what pertains to the self (BhG 13.12)](../practices/adhyatma-jnana-nityatva.md) · obstacles: [Delusion (moha)](../obstacles/moha.md), [Attachment (saṅga)](../obstacles/sanga.md), [Desire (kāma)](../obstacles/kama.md), [The pairs of opposites (dvandva)](../obstacles/dvandva.md), [Pride, thinking highly of oneself (mānitva, māna)](../obstacles/manitva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 15.6 <a id="tea-bhagavad-gita-15-6"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-The sun does not illumine it, nor the moon, nor fire; going there they do not return — that is my supreme abode.
+Kṛṣṇa: the sun does not illumine it, nor the moon, nor fire: that, having gone to which they do not return, is my supreme abode (dhāma paramaṃ mama).
 
-> na tad bhāsayate sūryo na śaśāṅko na pāvakaḥ yad gatvā na nivartante tad dhāma paramaṃ mama
+> na tadbhāsayate sūryo na śaśāṅko na pāvakaḥ|yadgatvā na nivartante taddhāma paramaṃ mama
 
-_level: ultimate · standpoint: apophatic · path: knowledge · stage: all · types: ultimate_
+_level: ultimate · standpoint: divine · path: general, knowledge · stage: unmarked · types: ultimate, karma-liberation_
 
-terms: [paramaṃ dhāma](../terms/parama-dhama.md), [apunarāvṛtti](../terms/apunaravrtti.md)
+terms: [paramaṃ dhāma](../terms/parama-dhama.md), [apunarāvṛtti](../terms/apunaravrtti.md) · concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 15.7 <a id="tea-bhagavad-gita-15-7"></a>
-`sourced` · confidence high
+`text-verified` · confidence moderate
 
-An eternal portion of me, having become a living being in the world of the living, draws to itself the senses with the mind as the sixth, which abide in prakṛti.
+Kṛṣṇa: a portion (aṃśa) of me indeed (mama eva), eternal (sanātana), having become the living being (jīvabhūta) in the world of the living (jīvaloka), draws to itself the senses, with the mind (manas) as the sixth, which abide in prakṛti.
 
-> mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ manaḥṣaṣṭhānīndriyāṇi prakṛtisthāni karṣati
+> mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ|manaḥṣaṣṭhānīndriyāṇi prakṛtisthāni karṣati
 
-_level: ultimate · standpoint: divine · path: knowledge · stage: all · types: ultimate, body-layers_
+_level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: consciousness-mind, body-layers, ultimate_
 
-terms: [aṃśa](../terms/amsa.md), [jīva](../terms/jiva.md), [manas](../terms/manas.md), [indriya](../terms/indriya.md) · concepts: [The self](../concepts/the-self.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
+terms: [aṃśa](../terms/amsa.md), [jīva](../terms/jiva.md), [jīvaloka](../terms/jivaloka.md), [manas](../terms/manas.md), [indriya](../terms/indriya.md), [prakṛti](../terms/prakrti.md), [sanātana](../terms/sanatana.md) · concepts: [The soul as a part (aṃśa) of Brahman](../concepts/jiva-as-part-of-brahman.md), [The individual living self (jīva)](../concepts/jiva.md), [The self](../concepts/the-self.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [In what sense is the living being 'a portion of me' (mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ, BhG 15.7)?](../debates/bhagavad-gita-jiva-as-amsa.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
+
+### 15.8 <a id="tea-bhagavad-gita-15-8"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: when the lord (īśvara) takes up a body and when he departs from it, he takes these (the senses and mind of 15.7) and goes, as the wind carries scents from their seat (āśaya).
+
+> śarīraṃ yadavāpnoti yaccāpyutkrāmatīśvaraḥ|gṛhītvaitāni saṃyāti vāyurgandhānivāśayāt
+
+_level: conventional · standpoint: causal · path: knowledge · stage: unmarked · types: death-dying, karma-liberation, body-layers_
+
+terms: [īśvara](../terms/isvara.md), [śarīra](../terms/sarira.md) · concepts: [Rebirth](../concepts/rebirth.md), [The individual living self (jīva)](../concepts/jiva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 15.8-9 <a id="tea-bhagavad-gita-15-8-9"></a>
 `sourced` · confidence high
@@ -7707,6 +8403,30 @@ _level: conventional · standpoint: causal · path: knowledge · stage: all · t
 
 terms: [jīva](../terms/jiva.md) · concepts: [The self](../concepts/the-self.md)
 
+_Superseded by [15.8](bhagavad-gita.md#tea-bhagavad-gita-15-8)_
+
+### 15.9 <a id="tea-bhagavad-gita-15-9"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: presiding over (adhiṣṭhāya) the ear, the eye, touch, taste and smell, and the mind (manas), this one partakes of (upasevate) the objects of the senses (viṣaya).
+
+> śrotraṃ cakṣuḥ sparśanaṃ ca rasanaṃ ghrāṇameva ca|adhiṣṭhāya manaścāyaṃ viṣayānupasevate
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, body-layers_
+
+terms: [manas](../terms/manas.md), [indriya](../terms/indriya.md), [viṣaya](../terms/visaya.md) · concepts: [The individual living self (jīva)](../concepts/jiva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 15.10 <a id="tea-bhagavad-gita-15-10"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: whether he is departing, staying, or enjoying, accompanied by the guṇas (guṇānvita), the deluded (vimūḍha) do not see him; those who have the eye of knowledge (jñāna-cakṣus) see.
+
+> utkrāmantaṃ sthitaṃ vāpi bhuñjānaṃ vā guṇānvitam|vimūḍhā nānupaśyanti paśyanti jñānacakṣuṣaḥ
+
+_level: unmarked · standpoint: seeker · path: knowledge · stage: unmarked · types: death-dying, consciousness-mind_
+
+terms: [guṇa](../terms/guna.md), [jñāna-cakṣus](../terms/jnana-caksus.md), [moha](../terms/moha.md) · concepts: [The individual living self (jīva)](../concepts/jiva.md) · obstacles: [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 15.10-11 <a id="tea-bhagavad-gita-15-10-11"></a>
 `sourced` · confidence high
 
@@ -7715,6 +8435,30 @@ The deluded do not see him departing, staying or enjoying, joined with the guṇ
 _level: bridging · standpoint: experiential · path: knowledge, meditation · stage: all · types: consciousness-mind_
 
 obstacles: [Delusion (moha)](../obstacles/moha.md)
+
+_Superseded by [15.10](bhagavad-gita.md#tea-bhagavad-gita-15-10)_
+
+### 15.11 <a id="tea-bhagavad-gita-15-11"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: striving yogins see him established in themselves (ātmani); but those who have not made themselves ready (akṛtātman), without thought (acetas), do not see him even though they strive.
+
+> yatanto yoginaścainaṃ paśyantyātmanyavasthitam|yatanto'pyakṛtātmāno nainaṃ paśyantyacetasaḥ
+
+_level: unmarked · standpoint: seeker · path: meditation, knowledge · stage: unmarked · types: practice, consciousness-mind_
+
+terms: [yogin](../terms/yogin.md), [ātman](../terms/atman.md), [cetas](../terms/cetas.md) · concepts: [The individual living self (jīva)](../concepts/jiva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 15.12 <a id="tea-bhagavad-gita-15-12"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the radiance (tejas) that is in the sun and illumines the whole world, and that which is in the moon and in fire — know that radiance to be mine.
+
+> yadādityagataṃ tejo jagadbhāsayate'khilam|yaccandramasi yaccāgnau tattejo viddhi māmakam
+
+_level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, world-fate_
+
+terms: [tejas](../terms/tejas.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 15.12-14 <a id="tea-bhagavad-gita-15-12-14"></a>
 `sourced` · confidence high
@@ -7725,16 +8469,51 @@ _level: ultimate · standpoint: divine · path: knowledge · stage: all · types
 
 terms: [vaiśvānara](../terms/vaisvanara.md), [prāṇa](../terms/prana.md), [apāna](../terms/apana.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
 
+_Superseded by [15.12](bhagavad-gita.md#tea-bhagavad-gita-15-12)_
+
+### 15.13 <a id="tea-bhagavad-gita-15-13"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: entering the earth (go), I sustain beings by my vigour (ojas); and becoming Soma, whose nature is sap (rasātmaka), I nourish all plants.
+
+> gāmāviśya ca bhūtāni dhārayāmyahamojasā|puṣṇāmi cauṣadhīḥ sarvāḥ somo bhūtvā rasātmakaḥ
+
+_level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: world-fate_
+
+terms: [ojas](../terms/ojas.md), [soma](../terms/soma.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 15.14 <a id="tea-bhagavad-gita-15-14"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: becoming Vaiśvānara, dwelling in the bodies of breathing beings (prāṇin), joined with prāṇa and apāna, I digest (pacāmi, 'cook') the fourfold food.
+
+> ahaṃ vaiśvānaro bhūtvā prāṇināṃ dehamāśritaḥ|prāṇāpānasamāyuktaḥ pacāmyannaṃ caturvidham
+
+_level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: body-layers, world-fate_
+
+terms: [vaiśvānara](../terms/vaisvanara.md), [prāṇa](../terms/prana.md), [apāna](../terms/apana.md), [deha](../terms/deha.md) · concepts: [The self common to all men (vaiśvānara)](../concepts/vaisvanara.md), [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 15.15 <a id="tea-bhagavad-gita-15-15"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-I am seated in the hearts of all; from me come memory, knowledge and their loss; I alone am to be known through all the Vedas; I am the author of the Vedānta and the knower of the Vedas.
+Kṛṣṇa: and I am seated in the heart of all; from me come memory (smṛti), knowledge (jñāna) and removal (apohana). I alone am what is to be known by all the Vedas; I am the maker of the vedānta (vedānta-kṛt) and the knower of the Veda (veda-vid).
 
-> sarvasya cāhaṃ hṛdi saṃniviṣṭo mattaḥ smṛtir jñānam apohanaṃ ca vedaiś ca sarvair aham eva vedyo vedāntakṛd vedavid eva cāham
+> sarvasya cāhaṃ hṛdi sanniviṣṭo    mattaḥ smṛtirjñānamapohanaṃ ca|vedaiśca sarvairahameva vedyo    vedāntakṛdvedavideva cāham
 
-_level: ultimate · standpoint: divine · path: knowledge, devotion · stage: all · types: ultimate, consciousness-mind_
+_level: ultimate · standpoint: divine · path: knowledge, devotion · stage: unmarked · types: ultimate, consciousness-mind, sound-language_
 
-concepts: [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
+terms: [smṛti](../terms/smrti.md), [jñāna](../terms/jnana.md), [apohana](../terms/apohana.md), [veda](../terms/veda.md), [hṛd](../terms/hrd.md) · concepts: [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
+
+### 15.16 <a id="tea-bhagavad-gita-15-16"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: there are these two persons (puruṣa) in the world: the perishable (kṣara) and the imperishable (akṣara). The perishable is all beings; the one standing firm (kūṭastha) is called the imperishable.
+
+> dvāvimau puruṣau loke kṣaraścākṣara eva ca|kṣaraḥ sarvāṇi bhūtāni kūṭastho'kṣara ucyate
+
+_level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate, consciousness-mind, world-fate_
+
+terms: [puruṣa](../terms/purusa.md), [kṣara](../terms/ksara.md), [akṣara](../terms/aksara.md), [kūṭastha](../terms/kutastha.md), [loka](../terms/loka.md) · concepts: [The perishable, the imperishable and the highest person](../concepts/three-purusas.md), [The imperishable (akṣara)](../concepts/aksara.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Who or what is the imperishable person (akṣara, called kūṭastha) of BhG 15.16, set beside the perishable (all beings) and below the highest person, and so what does it mean that the Lord is 'higher even than the imperishable' (15.18)?](../debates/bhagavad-gita-aksara-purusa.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
 
 ### 15.16-18 <a id="tea-bhagavad-gita-15-16-18"></a>
 `sourced` · confidence high
@@ -7747,6 +8526,41 @@ _level: ultimate · standpoint: divine · path: knowledge, devotion · stage: al
 
 terms: [kṣara](../terms/ksara.md), [akṣara](../terms/aksara.md), [kūṭastha](../terms/kutastha.md), [Puruṣottama](../terms/purusottama.md), [paramātman](../terms/paramatman.md) · concepts: [The perishable, the imperishable and the highest person](../concepts/three-purusas.md) · disputes: [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
+_Superseded by [15.16](bhagavad-gita.md#tea-bhagavad-gita-15-16)_
+
+### 15.17 <a id="tea-bhagavad-gita-15-17"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: but the highest person (uttamaḥ puruṣaḥ) is another, called the supreme self (paramātman): the imperishable lord (avyaya īśvara) who, having entered the three worlds, sustains them.
+
+> uttamaḥ puruṣastvanyaḥ paramātmetyudāhṛtaḥ|yo lokatrayamāviśya bibhartyavyaya īśvaraḥ
+
+_level: ultimate · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, world-fate_
+
+terms: [puruṣa](../terms/purusa.md), [paramātman](../terms/paramatman.md), [īśvara](../terms/isvara.md), [avyaya](../terms/avyaya.md), [Puruṣottama](../terms/purusottama.md), [loka](../terms/loka.md) · concepts: [The perishable, the imperishable and the highest person](../concepts/three-purusas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Who or what is the imperishable person (akṣara, called kūṭastha) of BhG 15.16, set beside the perishable (all beings) and below the highest person, and so what does it mean that the Lord is 'higher even than the imperishable' (15.18)?](../debates/bhagavad-gita-aksara-purusa.md)
+
+### 15.18 <a id="tea-bhagavad-gita-15-18"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: since I am beyond the perishable (kṣara) and higher even than the imperishable (akṣara), I am therefore renowned in the world and in the Veda as the highest person (puruṣottama).
+
+> yasmātkṣaramatīto'hamakṣarādapi cottamaḥ|ato'smi loke vede ca prathitaḥ puruṣottamaḥ
+
+_level: ultimate · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate_
+
+terms: [kṣara](../terms/ksara.md), [akṣara](../terms/aksara.md), [Puruṣottama](../terms/purusottama.md), [veda](../terms/veda.md) · concepts: [The perishable, the imperishable and the highest person](../concepts/three-purusas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Who or what is the imperishable person (akṣara, called kūṭastha) of BhG 15.16, set beside the perishable (all beings) and below the highest person, and so what does it mean that the Lord is 'higher even than the imperishable' (15.18)?](../debates/bhagavad-gita-aksara-purusa.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
+
+### 15.19 <a id="tea-bhagavad-gita-15-19"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: one who, undeluded (asaṃmūḍha), knows me thus as the highest person (puruṣottama) knows all (sarvavid) and worships (bhajati) me with his whole being (sarvabhāvena), Bhārata.
+
+> yo māmevamasammūḍho jānāti puruṣottamam|sa sarvavidbhajati māṃ sarvabhāvena bhārata
+
+_level: conventional · standpoint: devotional · path: knowledge, devotion · stage: all · types: ultimate, practice_
+
+terms: [Puruṣottama](../terms/purusottama.md), [bhakti](../terms/bhakti.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md), [The perishable, the imperishable and the highest person](../concepts/three-purusas.md) · practices: [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md) · obstacles: [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md)
+
 ### 15.19-20 <a id="tea-bhagavad-gita-15-19-20"></a>
 `sourced` · confidence high
 
@@ -7755,6 +8569,19 @@ Whoever, undeluded, knows me thus as the highest Person, knowing all, worships m
 _level: bridging · standpoint: devotional · path: knowledge, devotion · stage: all · types: karma-liberation, teacher-transmission_
 
 terms: [Puruṣottama](../terms/purusottama.md), [guhya](../terms/guhya.md) · concepts: [The perishable, the imperishable and the highest person](../concepts/three-purusas.md), [Devotion (bhakti)](../concepts/bhakti.md)
+
+_Superseded by [15.19](bhagavad-gita.md#tea-bhagavad-gita-15-19)_
+
+### 15.20 <a id="tea-bhagavad-gita-15-20"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: thus this most secret teaching (guhyatama śāstra) has been spoken by me, sinless one. Understanding it, one would be wise (buddhimat) and one who has done what is to be done (kṛtakṛtya), Bhārata.
+
+> iti guhyatamaṃ śāstramidamuktaṃ mayā'nagha|etadbuddhvā buddhimānsyātkṛtakṛtyaśca bhārata
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: teacher-transmission, karma-liberation_
+
+terms: [guhya](../terms/guhya.md), [buddhi](../terms/buddhi.md), [kṛtakṛtya](../terms/krtakrtya.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · practices: [Study and hearing of the Gītā](../practices/gita-study.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 16.1-3 <a id="tea-bhagavad-gita-16-1-3"></a>
 `sourced` · confidence high
@@ -8373,6 +9200,33 @@ _level: unmarked · standpoint: devotional · path: devotion, knowledge, meditat
 
 terms: [akṣara](../terms/aksara.md), [avyakta](../terms/avyakta.md), [abhyāsa-yoga](../terms/abhyasa-yoga.md), [tyāga](../terms/tyaga.md), [bhakti](../terms/bhakti.md), [śraddhā](../terms/sraddha.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md), [The qualities of the devotee](../concepts/qualities-of-the-devotee.md), [The imperishable (akṣara)](../concepts/aksara.md), [Evenness of mind (samatva)](../concepts/equanimity.md), [Worship of the Lord and worship of the imperishable unmanifest (BhG 12.1–7)](../concepts/worship-of-the-lord-and-of-the-unmanifest.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md) · practices: [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md), [Worship of the imperishable unmanifest (akṣara / avyakta upāsanā)](../practices/avyakta-upasana.md), [Practice (abhyāsa)](../practices/abhyasa.md), [Doing the Lord's work (mat-karma)](../practices/mat-karma.md), [Relinquishing the fruit of all actions](../practices/karmaphala-tyaga.md), [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](../practices/isvararpana.md), [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md) · disputes: [Which worshippers know yoga best — the devotees who, ever yoked, worship the Lord, or those who worship 'the imperishable, the unmanifest' (BhG 12.1)? And what is 'the imperishable, the unmanifest' that the second group worships?](../debates/bhagavad-gita-lord-or-unmanifest.md), [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
 
+### ch13 <a id="tea-bhagavad-gita-ch13"></a>
+`text-verified` · confidence high
+
+Chapter 13 (35 verses in this edition, whose first verse is the extra verse found in some editions; 34 in the 700-verse numbering, which runs one lower from 13.2) distinguishes the field (kṣetra) from its knower (kṣetrajña). Movements: 13.1 Arjuna asks about prakṛti and puruṣa, the field and its knower, knowledge and the knowable. 13.2–5 Kṛṣṇa calls the body the field and the one who knows it the knower of the field, declares himself also the knower in all fields, calls the knowledge of both 'knowledge', and says the subject has been sung by the seers, in the metres and in the brahmasūtra words. 13.6–7 the field is listed with its modifications (the great elements, the sense of 'I', understanding, the unmanifest, the ten faculties and the one, the five domains of the senses, desire, aversion, pleasure, pain, the aggregate, sentience, steadiness). 13.8–12 twenty dispositions, from absence of pride to keeping in view the aim of the knowledge of reality, are declared 'knowledge'; what is other than them is ignorance. 13.13–19 the knowable: the beginningless supreme brahman, said to be neither being nor non-being, with hands, feet and eyes everywhere, without guṇas yet their experiencer, inside and outside beings, undivided yet as if divided, the light of lights, set in the heart of all; the field, knowledge and the knowable having been told, the devotee who knows this becomes fit for Kṛṣṇa's state. 13.20–24 prakṛti and puruṣa are both beginningless; prakṛti is the cause in agency, puruṣa in experiencing; attachment to the guṇas causes births in good and bad wombs; the highest puruṣa in the body is the onlooker, consenter, supporter, experiencer and great lord, and is called the supreme self; one who knows this is not born again. 13.25–26 some see the self by meditation, others by the yoga of sāṃkhya, others by the yoga of action; others worship on hearing from others, and they too cross death. 13.27–35 every being is born from the union of field and knower; one who sees the supreme lord the same in all beings, sees prakṛti as the doer of actions and one's self as not the doer, and sees the separate existence of beings as resting in the one, truly sees and attains brahman; the supreme self, beginningless and without guṇas, neither acts nor is stained though in the body, as all-pervading space is not stained; as the one sun lights the whole world, the possessor of the field lights the whole field; those who know the difference between field and knower with the eye of knowledge go to the supreme. The purpose the chapter states: knowledge of the field and its knower and of their difference (13.3, 13.35).
+
+_level: unmarked · standpoint: analytic · path: knowledge, devotion · stage: all · types: consciousness-mind, body-layers, ultimate, karma-liberation, ethics_
+
+terms: [kṣetra](../terms/ksetra.md), [kṣetrajña](../terms/ksetrajna.md), [prakṛti](../terms/prakrti.md), [puruṣa](../terms/purusa.md), [jñāna](../terms/jnana.md), [jñeya](../terms/jneya.md), [brahman](../terms/brahman.md), [paramātman](../terms/paramatman.md) · concepts: [The field and the knower of the field (kṣetra–kṣetrajña)](../concepts/ksetra-ksetrajna.md), [The virtues called knowledge (BhG 13.7–11)](../concepts/twenty-virtues-called-knowledge.md), [Brahman (the ultimate ground)](../concepts/brahman.md), [The self is not the agent; the guṇas act](../concepts/non-agency-of-the-self.md), [Prakṛti (primordial nature)](../concepts/prakrti.md), [Puruṣa (the conscious self)](../concepts/purusa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [When the Lord says 'know me also as the knower of the field (kṣetrajña) in all fields' (BhG 13.3 in this edition; 13.2 in the 700-verse numbering) and names the highest puruṣa in the body the great lord and the supreme self (13.23; 13.22 in the 700-verse numbering), is the knower of the field in each body the Lord himself, or is the Lord the self of the knowers, distinct from them?](../debates/bhagavad-gita-ksetrajna-and-the-lord.md), [Is the conscious self one or many?](../debates/one-or-many-purusas.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md)
+
+### ch14 <a id="tea-bhagavad-gita-ch14"></a>
+`text-verified` · confidence high
+
+Chapter 14 (27 verses) sets out the three guṇas and the way beyond them. Movements: 14.1–2 Kṛṣṇa announces again the highest knowledge, by which all the sages reached the highest perfection and came to have the same nature (sādharmya) as his, not born at creation nor troubled at dissolution. 14.3–4 the great brahman is his womb; he places the embryo in it and is the seed-giving father of all forms. 14.5–10 sattva, rajas and tamas, born of prakṛti, bind the embodied one — sattva by attachment to happiness and knowledge, rajas by attachment to action, tamas by heedlessness, idleness and sleep — and each prevails by overpowering the other two. 14.11–13 the signs of each when increased. 14.14–15 where one goes on dying in each. 14.16–18 their fruits, and the upward, middle and downward courses of those who abide in them. 14.19–20 one who sees no agent but the guṇas and knows what is higher than them attains Kṛṣṇa's state, and the embodied one who goes beyond the three guṇas attains the immortal, freed from birth, death, old age and pain. 14.21 Arjuna asks the marks, the conduct and the means of one gone beyond the guṇas. 14.22–25 the marks and conduct: not hating or longing for the guṇas' effects, unshaken, knowing only 'the guṇas are operating', the same in pleasure and pain, blame and praise, honour and dishonour, toward friend and foe, relinquishing all undertakings. 14.26–27 the means: one who serves Kṛṣṇa with the unswerving yoga of devotion goes beyond the guṇas and becomes fit for becoming brahman — for he is the foundation of brahman, of the immortal and imperishable, of everlasting dharma and of absolute happiness. The purpose the chapter states: the highest knowledge (14.1–2) — how the guṇas bind and the way beyond them (14.5, 14.19–26).
+
+_level: unmarked · standpoint: analytic · path: knowledge, devotion · stage: all · types: consciousness-mind, karma-liberation, death-dying, world-fate, ultimate_
+
+terms: [guṇa](../terms/guna.md), [sattva](../terms/sattva.md), [rajas](../terms/rajas.md), [tamas](../terms/tamas.md), [guṇātīta](../terms/gunatita.md), [brahmabhūya](../terms/brahmabhuya.md), [mahat](../terms/mahat.md), [prakṛti](../terms/prakrti.md), [bhakti-yoga](../terms/bhakti-yoga.md) · concepts: [The three guṇas](../concepts/three-gunas.md), [Great brahman as the Lord's womb; the Lord as seed-giving father (BhG 14.3–4)](../concepts/mahad-brahma-yoni.md), [Dying while a guṇa predominates (BhG 14.14–15, 14.18)](../concepts/dying-in-a-predominant-guna.md), [The guṇas as the doers of action](../concepts/gunas-as-agents.md), [Devotion (bhakti)](../concepts/bhakti.md), [Going beyond the guṇas (guṇātīta)](../concepts/gunatita.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
+
+### ch15 <a id="tea-bhagavad-gita-ch15"></a>
+`text-verified` · confidence high
+
+Chapter 15 (20 verses) moves from the world-tree to the highest person. Movements: 15.1–2 the imperishable aśvattha with roots above and branches below, its leaves the metres, its branches swollen by the guṇas with the sense-objects as shoots, its roots below bound up with action in the human world; to know it is to know the Veda. 15.3–6 its form, end, beginning and foundation are not perceived here; it is to be cut with the weapon of non-attachment and the place of no return sought, with the words 'I take refuge in that primal person'; those free of pride, delusion, attachment and desire, intent on what pertains to the self and released from the pairs reach that imperishable place, unlit by sun, moon or fire, Kṛṣṇa's supreme abode. 15.7–11 an eternal portion of Kṛṣṇa, become the living being, draws the senses and mind, carries them from body to body as wind carries scents, and enjoys objects through them; the deluded do not see it, those with the eye of knowledge and striving yogins do. 15.12–15 Kṛṣṇa is the radiance in sun, moon and fire, sustains beings, nourishes plants as soma, digests food as vaiśvānara, is seated in the heart of all, the source of memory, knowledge and removal (apohana), the one to be known by all the Vedas, maker of the vedānta and knower of the Veda. 15.16–20 there are two persons in the world, the perishable (all beings) and the imperishable (the one standing firm), and the highest person, another, called the supreme self, the imperishable lord; Kṛṣṇa, beyond the perishable and higher than the imperishable, is the puruṣottama; one who knows him so knows all and worships him with his whole being; this is the most secret teaching, understanding which one is wise and has done what is to be done. The purpose the chapter states: to make known the puruṣottama (15.18–20).
+
+_level: unmarked · standpoint: divine · path: knowledge, devotion · stage: all · types: ultimate, world-fate, karma-liberation, consciousness-mind_
+
+terms: [aśvattha](../terms/asvattha.md), [kṣara](../terms/ksara.md), [akṣara](../terms/aksara.md), [Puruṣottama](../terms/purusottama.md), [paramātman](../terms/paramatman.md), [jīva](../terms/jiva.md), [aṃśa](../terms/amsa.md), [paramaṃ dhāma](../terms/parama-dhama.md) · concepts: [The inverted aśvattha tree of saṃsāra](../concepts/asvattha-tree.md), [The perishable, the imperishable and the highest person](../concepts/three-purusas.md), [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md), [The self common to all men (vaiśvānara)](../concepts/vaisvanara.md), [The soul as a part (aṃśa) of Brahman](../concepts/jiva-as-part-of-brahman.md) · practices: [Cutting the aśvattha with the weapon of non-attachment (BhG 15.3–5)](../practices/asanga-sastra.md), [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [In what sense is the living being 'a portion of me' (mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ, BhG 15.7)?](../debates/bhagavad-gita-jiva-as-amsa.md), [Who or what is the imperishable person (akṣara, called kūṭastha) of BhG 15.16, set beside the perishable (all beings) and below the highest person, and so what does it mean that the Lord is 'higher even than the imperishable' (15.18)?](../debates/bhagavad-gita-aksara-purusa.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md)
+
 ### ch2 <a id="tea-bhagavad-gita-ch2"></a>
 `text-verified` · confidence high
 
@@ -8453,4 +9307,4 @@ _Notes: Chapter titles are the traditional colophon titles (they vary slightly b
 
 - 2026-09-29 text-locate: confirmed — catalog:GRETIL-dev:bhagavadgita, local:sources_raw/DharmicData/Mahabharata/mahabharata_book_6.json (BORI Critical Edition text) 6.23.1 dharmakṣetre ... ; 6.40.78 yatra yogeśvaraḥ ...; 6.22/6.41 are battle narrative, local:sources_raw/gita/data/verse.json (701 entries incl. extra 13.0 verse), https:/ — CE Bhīṣmaparvan 23–40 holds exactly 700 verses, starting at dharmakṣetre and ending at yatra yogeśvaraḥ; the local vulgate corpus has 701 with the extra verse heading ch. 13, as the entry says. Dating accounts kept as entered (scholarly range is within published estimates).
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._

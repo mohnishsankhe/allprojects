@@ -14,4 +14,4 @@ Meditating on the formless, bodiless Siddha of pure consciousness and bliss, and
 **Sequences:** [The four objects of meditation (piṇḍastha to rūpātīta)](../paths/jain-four-dhyeyas.md)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._

@@ -12,4 +12,4 @@ Holds that Vedic study and teaching alone matter, for that is austerity (TU 1.9)
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā mūla Taitiriya.md, vallī.anuvāka.verse) — Located: TU 1.9.1 ('svādhyāyapravacane eveti nāko maudgalyaḥ | tad dhi tapas tad dhi tapaḥ').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._

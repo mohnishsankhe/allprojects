@@ -13,4 +13,4 @@ In the Tamil Siddha tradition Nandi (Nantīcar, Nantitēvar) is the first of the
 _Notes: U22 contribution; U18 owns the entry. Counted in the popular list of the eighteen Siddhars (see cpt:eighteen-siddhars); the samādhi place given follows that list and is recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U22-tamil-siddha, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._

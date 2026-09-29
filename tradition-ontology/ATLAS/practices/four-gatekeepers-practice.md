@@ -16,4 +16,4 @@ Cultivating peace, inquiry, contentment and the company of the holy — all four
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Rests on tea:moksopaya:2.11.56-61, tea:moksopaya:2.13.48-53; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._

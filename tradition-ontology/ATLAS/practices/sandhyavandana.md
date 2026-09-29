@@ -21,4 +21,4 @@ _Notes: U01 contribution: its Saṃhitā mantras. The rite's structure is set ou
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/AraNyakam_Andhrakam.md (Āndhra TA), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/yajnavalkya-smrti_plain_text.md (GRETIL) — TA 2.2 (the Sandhyā arghya against the rakṣases) and YS 1.22–25 were found. This rests on confirmed teaching checks: tea:taittiriya-aranyaka:2.2, tea:yajnavalkyasmrti:1.22-25.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._

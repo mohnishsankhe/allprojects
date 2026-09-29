@@ -16,4 +16,4 @@
 _Notes: Restricted topic: summary and the texts' own conditions and warnings only; no procedure._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._

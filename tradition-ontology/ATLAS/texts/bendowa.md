@@ -39,4 +39,4 @@ concepts: [The 'Śreṇika heresy' (eternal mind-nature in a perishing body)](..
 _Notes: Not held locally; paraphrases from memory, no original quoted._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

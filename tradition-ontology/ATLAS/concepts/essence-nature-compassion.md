@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The three bodies (śarīra-traya)](three-bodies.md) (Nyingthig): essence-dharmakāya, nature-sambhogakāya, compassion-nirmāṇakāya — rests on [ch1](../texts/tsigdon-dzod.md#tea-tsigdon-dzod-ch1)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

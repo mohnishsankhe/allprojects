@@ -42,4 +42,4 @@ _none recorded_
 _Notes: Created by U26 so that teachers without a sampradāya of their own can be recorded; convergence counts should not treat it as an independent lineage root. See REPORT.md._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

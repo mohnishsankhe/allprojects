@@ -23,4 +23,4 @@
 _Notes: The 'supreme bliss' etymology is the Tibetan translators' (bde mchog)._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U38-early-schools, skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U38-early-schools, skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

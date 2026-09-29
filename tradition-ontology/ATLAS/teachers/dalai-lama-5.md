@@ -13,4 +13,4 @@
 Became ruler of Tibet in 1642 with the support of Güshri Khan, founding the Ganden Phodrang government; built the Potala; author of the Sacred Word of Mañjuśrī lamrim and many works; also a holder of Nyingma lineages.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

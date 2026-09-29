@@ -13,4 +13,4 @@ A Krama scripture on the sequence of Kālī worship; manuscript tradition only.
 _Notes: Recalled from secondary literature; verify in Phase C._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._

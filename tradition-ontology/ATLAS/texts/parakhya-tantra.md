@@ -14,4 +14,4 @@ An early scripture of the Śaiva Siddhānta, not among the 28 titles, treating d
   - kind: original; name: The Parākhyatantra, a Scripture of the Śaiva Siddhānta, ed. & tr. D. Goodall, IFP/EFEO 2004
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._

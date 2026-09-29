@@ -22,4 +22,4 @@
 **Related:** [karmasāmya](karmasamya.md), [anugraha](anugraha.md)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism, skeleton:U30-ayurveda-rasa, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism, skeleton:U30-ayurveda-rasa, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._

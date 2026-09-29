@@ -64,4 +64,4 @@ The science of life (āyus), taught in the tradition's account by Brahmā and br
 _Notes: family 'shared': the texts describe Āyurveda as an upaveda/upāṅga of the Atharvaveda (Su Sū 1.6; Ca Sū 30.21), but its authors and users include Buddhists (the Aṣṭāṅgahṛdaya's opening and its ten sinful acts; Ravigupta; the Bower manuscript) and Jains (Ugrāditya). Decision logged in REPORT._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._

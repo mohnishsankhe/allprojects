@@ -13,4 +13,4 @@
 - opposes → `cpt:pramana-vyavastha-buddhist`: Buddhist logicians restrict each means of knowledge to its own kind of object. — rests on [1.1.3/2](../texts/nyaya-bhasya.md#tea-nyaya-bhasya-1-1-3-2)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:14 IST._

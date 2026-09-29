@@ -22,4 +22,4 @@
 _Notes: The technical term is systematized in Yogācāra treatises (Mahāyānasaṃgraha); the idea is in the sūtras._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U44-indian-vajrayana, skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U44-indian-vajrayana, skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._

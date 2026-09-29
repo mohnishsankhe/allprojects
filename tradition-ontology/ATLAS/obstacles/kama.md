@@ -23,6 +23,7 @@ Bhagavad Gītā 1–3: Desire arises from attachment to objects dwelt on and giv
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 7.20; rests_on: ["tea:bhagavad-gita:7.20"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 7.22; rests_on: ["tea:bhagavad-gita:7.22"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 9.21; rests_on: ["tea:bhagavad-gita:9.21"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 15.5; rests_on: ["tea:bhagavad-gita:15.5"]
   - [Vivartavilāsa](../texts/vivartavilasa.md) — ref: kāma into prema; rests_on: ["tea:vivartavilasa:kama-into-prema"]
   - [Caitanya Caritāmṛta](../texts/caitanya-caritamrta.md) — ref: 1.4.165; rests_on: ["tea:caitanya-caritamrta:1.4.165"]
 
@@ -31,6 +32,7 @@ Bhagavad Gītā 1–3: Desire arises from attachment to objects dwelt on and giv
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.19, tea:bhagavad-gita:5.12, tea:bhagavad-gita:5.23, tea:bhagavad-gita:5.28, tea:bhagavad-gita:6.18, tea:bhagavad-gita:6.24 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.11, tea:bhagavad-gita:7.20, tea:bhagavad-gita:7.22, tea:bhagavad-gita:9.21 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:15.5 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Adv — All 7 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 4.4.5-6; MuU 3.2.2; KU 2.1.2; BĀU 4.4.7; KU 2.3.14; BĀU 4.4.6; BĀU 4.4.5-7). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09, skeleton:U27-sant-baul, skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch13-15, skeleton:U27-sant-baul, skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._

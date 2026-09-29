@@ -14,4 +14,4 @@
 Kaivalyāśrama's commentary on the Saundaryalaharī, reading the hymn within Śrīvidyā worship and yoga.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:14 IST._

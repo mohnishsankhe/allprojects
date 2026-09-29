@@ -9,4 +9,4 @@
 The second of the three Ājīvika leaders named in AN 6.57, MN 36 and MN 76.
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

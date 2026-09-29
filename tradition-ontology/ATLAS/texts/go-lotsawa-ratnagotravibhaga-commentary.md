@@ -17,4 +17,4 @@ Gö Lotsāwa's explanation of the Ratnagotravibhāga as a basis of Mahāmudrā (
 _Notes: Title from memory; low confidence._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

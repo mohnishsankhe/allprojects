@@ -13,4 +13,4 @@
 - contrasts-with → [The soma the brahmins know](inner-soma.md): The Ṛgveda itself distinguishes the pressed plant from the soma the brahmins know (10.85.3). — rests on [10.85.3-4](../texts/rgveda.md#tea-rgveda-10-85-3-4)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._

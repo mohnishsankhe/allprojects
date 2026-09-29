@@ -14,4 +14,4 @@
 **Related:** [g.yung drung](yungdrung.md), [bon sku](bonku.md)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

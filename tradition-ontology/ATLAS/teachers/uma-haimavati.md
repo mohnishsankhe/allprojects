@@ -15,4 +15,4 @@ _Notes: Later Śākta and Śaiva readers identify her with the Goddess Umā/Pār
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/kena-upanisad/segments.jsonl (Advaita-Śāradā mūla Kena_pada.md, Śaṅkara numbering), text:sources_raw/dcs/dcs/data/conllu/files/Jaiminīya-Upaniṣad-Brāhmaṇa/ (DCS; JUB 4.18 opens 'kena iṣitam patati', 4.21 'brahmeti hovāca') — Located: Kena 3.12 ('striyam ājagāma bahuśobhamānām umāṃ haimavatīm') and 4.1 ('brahmeti hovāca'). The same passage is in JUB 4.20-21 (DCS). The later Śākta/Śaiva identification is correctly marked as later reading.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._

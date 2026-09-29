@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The four authorities (Vallabha)](prasthana-catustaya-vallabha.md) (scriptural authority): both make the Bhāgavata the decisive scripture — rests on [pramana-section](../texts/tattva-sandarbha.md#tea-tattva-sandarbha-pramana-section), [1.7](../texts/tattvarthadipanibandha.md#tea-tattvarthadipanibandha-1-7)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._

@@ -16,4 +16,4 @@
 Third of the five Sakya founders, a celibate lay practitioner (upāsaka), author of many Lamdre instructions (the Yellow Volume) and of the song on Parting from the Four Attachments; uncle and teacher of Sakya Paṇḍita.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

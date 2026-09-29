@@ -32,4 +32,4 @@ Creation and dissolution recur in cosmic cycles (kalpas) under the Lord.
 _Notes: Related to dsp:isvara (U50)._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 18:14 IST._

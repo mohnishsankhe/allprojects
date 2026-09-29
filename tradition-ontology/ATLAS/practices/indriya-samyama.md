@@ -31,4 +31,4 @@ _Notes: Merger: probably the same as the skeleton's prc:indriya-nigraha ('Restra
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.4 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 18:14 IST._

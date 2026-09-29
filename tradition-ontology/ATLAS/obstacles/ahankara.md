@@ -14,6 +14,8 @@ Bhagavad Gītā 1–3: One whose self is deluded by the sense of 'I' thinks 'I a
   - [Aṣṭāvakra Gītā](../texts/astavakra-gita.md) — ref: 1.8; rests_on: ["tea:astavakra-gita:1.7-10"]
   - [Rāma Gītā](../texts/rama-gita.md) — ref: 7.5.38; rests_on: ["tea:rama-gita:7.5.34-41"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.13; rests_on: ["tea:bhagavad-gita:12.13"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 13.6; rests_on: ["tea:bhagavad-gita:13.6"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 13.9; rests_on: ["tea:bhagavad-gita:13.9"]
   - [Gītābhāṣya of Rāmānuja](../texts/gita-bhasya-ramanuja.md) — ref: 18.4-11; rests_on: ["tea:gita-bhasya-ramanuja:18.4-11"]
   - [The oral and popular corpus of Kabīr (sākhīs, dohās, padas and bhajans)](../texts/kabir-oral-corpus.md) — ref: 'prem galī ati sāṃkarī'; rests_on: ["tea:kabir-oral-corpus:prem-gali-ati-sankari"]
   - [Dādū Vāṇī (Dādū Dayāl kī Bāṇī)](../texts/dadu-vani.md) — ref: 'āpā meṭe hari bhajai'; rests_on: ["tea:dadu-vani:apa-mete-hari-bhajai"]
@@ -22,6 +24,7 @@ Bhagavad Gītā 1–3: One whose self is deluded by the sense of 'I' thinks 'I a
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.13 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:13.6, tea:bhagavad-gita:13.9 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text), local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/prepared/astavakra-gita/segments.jsonl (GRETIL e-text), local:sources_raw/raw_etexts/purANa — MU 1.14 colophon 'ahaṅkārajugupsā', MU 4.15 'ahaṅkāravicāra', AG 1.8 and AR 7.5.38 ('ahaṅkāra eṣa prathamaḥ prakalpitaḥ adhyāsaḥ') verified.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch10-12, skeleton:U14-visistadvaita, skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U14-visistadvaita, skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._

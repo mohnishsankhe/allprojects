@@ -29,4 +29,4 @@ Seated with the heel of one foot pressing the perineum (yonisthāna) and the oth
 _Notes: Brahmānanda (Jyotsnā on HYP 1.36) calls the first form Matsyendra's and the second that of another school. GŚ numbering per the GRETIL e-text (Kuvalayananda–Shukla)._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U21-natha-aghora. Generated 2026-09-29 18:14 IST._

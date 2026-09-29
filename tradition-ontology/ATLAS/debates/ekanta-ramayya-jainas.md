@@ -23,4 +23,4 @@ The Jainas of Abalūr defended the Jina's supremacy against Rāmayya (known only
 **Candidate readings:** P3-path: devotion to different chosen ultimates (Śiva, the Jina) — rejected by both parties, each of which denies the other's ultimate.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 18:14 IST._

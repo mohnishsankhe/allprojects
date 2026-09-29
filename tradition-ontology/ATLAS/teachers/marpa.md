@@ -21,4 +21,4 @@ Tibetan layman, farmer and translator of Lhodrak who travelled to India (three t
 _Notes: His translations appear with Nāropa as co-translator in the colophons of Tōh 2304, 2330, 2337, 2338 (read locally). Drogmi's role as his first teacher is from the Life (moderate)._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

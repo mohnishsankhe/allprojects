@@ -19,4 +19,4 @@ Sthiramati's Yogācāra commentary on the Mūlamadhyamakakārikā, preserved (in
 _Notes: Avalokitavrata lists the early commentaries on the MMK (Akutobhayā, Buddhapālita, Candrakīrti, Devaśarman, Guṇaśrī, Guṇamati, Sthiramati, Bhāviveka); Devaśarman's, Guṇaśrī's and Guṇamati's are lost (list from memory)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._

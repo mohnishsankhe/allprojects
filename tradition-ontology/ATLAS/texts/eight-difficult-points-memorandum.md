@@ -30,4 +30,4 @@ concepts: [Tsongkhapa's eight difficult points of Prāsaṅgika](../concepts/eig
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

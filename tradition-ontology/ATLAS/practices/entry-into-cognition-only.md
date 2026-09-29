@@ -16,10 +16,10 @@ Having gathered merit and knowledge and reflected on the teachings, the bodhisat
   - [Trisvabhāvanirdeśa](../texts/trisvabhavanirdesa.md) — ref: 36-38; rests_on: ["tea:trisvabhavanirdesa:36-38"]
   - [Mahāyānasaṃgraha](../texts/mahayanasamgraha.md) — ref: ch. 3; rests_on: ["tea:mahayanasamgraha:3"]
   - [Madhyāntavibhāga](../texts/madhyantavibhaga.md) — ref: 1.7-8; rests_on: ["tea:madhyantavibhaga:1.7-8"]
-**Sequences:** [The Yogācāra entry through mind-only to the grounds (Mahāyānasūtrālaṃkāra 14)](../paths/yogacara-entry-into-mind-only.md), `pth:five-paths`
+**Sequences:** [The Yogācāra entry through mind-only to the grounds (Mahāyānasūtrālaṃkāra 14)](../paths/yogacara-entry-into-mind-only.md), [The five paths (pañca-mārga): accumulation, preparation, seeing, cultivation, no-more-learning](../paths/five-paths.md)
 
 ## The texts' own warnings
 - Even the thought 'all this is cognition-only' is an apprehension that places something before oneself; one who holds it does not yet abide in cognition-only. — [Triṃśikā (Triṃśikāvijñaptikārikā)](../texts/trimsika.md) 27
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

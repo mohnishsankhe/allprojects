@@ -12,4 +12,4 @@ Monks and nuns keep moving (aṭana), live by begging, keep no possessions, harm
   - [Sūtrapāṭh](../texts/sutrapath.md) — ref: Ācāra; rests_on: ["tea:sutrapath:acara.renunciant"]
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

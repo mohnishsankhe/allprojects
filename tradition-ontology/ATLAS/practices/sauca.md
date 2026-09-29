@@ -17,4 +17,4 @@ Outer purity with earth, water and pure food, and inner washing away of the mind
 **Sequences:** [Patañjali's eight limbs of yoga (aṣṭāṅga-yoga)](../paths/yoga-sutra-eight-limbs.md)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._

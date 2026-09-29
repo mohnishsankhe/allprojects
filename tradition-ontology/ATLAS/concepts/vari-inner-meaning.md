@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Pilgrimage places and their inner meaning](tirtha-and-inner-tirtha.md) (inner meaning): outer pilgrimage read inwardly: the saints and the name as the true tīrtha — rests on [invitation](../texts/tirthavali-namdev.md#tea-tirthavali-namdev-invitation)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [Buddha-nature (tathāgatagarbha, buddhadhātu)](buddha-nature.md) (divine): Shinran identifies great shinjin with buddha-nature (quoting the Nirvāṇa Sūtra) — rests on [shinjin-buddha-nature](../texts/jodo-wasan.md#tea-jodo-wasan-shinjin-buddha-nature)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._

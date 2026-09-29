@@ -20,4 +20,4 @@ The anthology of the Tamil Siddhars' songs, printed since the 19th c. under titl
 _Notes: The printed anthology's full table of contents and the exact title 'Periya ñāṉakkōvai' are recalled at low confidence; the Project Madurai series used here are checked locally._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._

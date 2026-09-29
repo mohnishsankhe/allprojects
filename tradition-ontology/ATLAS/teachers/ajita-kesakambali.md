@@ -12,4 +12,4 @@ One of the six famous teachers, named for his blanket of human hair. DN 2 report
 _Notes: Doctrine reported_by_opponent. Later tradition and scholars treat him as a forerunner of the Lokāyata; no text links him to that school by lineage. SN 44.9 reports (surprisingly) that he too declared where his dead disciples were reborn._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

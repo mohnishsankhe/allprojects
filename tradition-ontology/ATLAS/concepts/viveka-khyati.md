@@ -17,4 +17,4 @@
 - opposes → [The conjunction of puruṣa and prakṛti (saṃyoga)](conjunction-of-purusa-and-prakrti.md): non-discrimination is removed by discrimination — rests on [1.55-57](../texts/samkhya-sutra.md#tea-samkhya-sutra-1-55-57)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._

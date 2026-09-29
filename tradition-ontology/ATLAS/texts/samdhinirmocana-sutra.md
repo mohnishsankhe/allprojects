@@ -111,4 +111,4 @@ terms: [dharmakāya](../terms/dharmakaya.md), [āśraya-parāvṛtti](../terms/a
 _Notes: No Sanskrit survives (fragments quoted); Chinese T676 (vol. 16) not local; Tibetan D106 present in sources_raw/derge-kangyur (catalog:Derge-Kangyur:D106) but not read in this phase. Chapter-level refs, Lamotte/Tibetan numbering._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._

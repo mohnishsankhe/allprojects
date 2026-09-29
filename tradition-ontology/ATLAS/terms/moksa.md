@@ -22,6 +22,7 @@
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): Liberation, on which one sets the mind after paying the three debts (MDh 6.35–37), reached by renunciation, yoga and self-knowledge (MDh 6.74, 12.85).
 - [Kāmaśāstra (the science of love and pleasure)](../lineages/kamasastra.md): Pursued with dharma in old age (Kāmasūtra 1.2.4).
 - [Trika ('the Triad')](../lineages/trika.md): Not an abode or a going elsewhere, but the manifestation of one's own power by cutting the knot of ignorance (Paramārthasāra 60); one, whatever the means (TĀ 1.165-166).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: Release: those who know the difference of field and knower and the release from the prakṛti of beings (bhūta-prakṛti-mokṣa) go to the highest (13.35).
 - [Jainism (Jaina dharma)](../lineages/jainism.md): Release from all karma through the absence of the causes of bondage and through shedding; the liberated soul rises to the summit of the universe and abides in infinite knowledge, perception, bliss and energy (TS 10.2–5).
 - [Adhyātma movement (Adhyātma-mata)](../lineages/adhyatma-jain.md): The soul's resting in its own pure nature, known already by the ultimate standpoint; the self conquered by passions is saṃsāra, the self that conquers them is liberation (YŚ 4.5).
 - [Madhyamaka](../lineages/madhyamaka.md): Liberation comes from the exhaustion of action and afflictions, which arise from conceptual construction and elaboration, which cease in emptiness (MMK 18.5); definite goodness (naiḥśreyasa) is liberation (RĀ 1.4).
@@ -44,5 +45,6 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.28, tea:bhagavad-gita:4.16, tea:bhagavad-gita:4.32 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:13.35 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U12-mimamsa, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U14-visistadvaita, skeleton:U02-brahmana-vedanga, skeleton:U19-kashmir-saivism, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka, skeleton:U32-jyotisa, skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U14-visistadvaita, skeleton:U02-brahmana-vedanga, skeleton:U19-kashmir-saivism, extraction:bhagavad-gita/ch13-15, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka, skeleton:U32-jyotisa, skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._

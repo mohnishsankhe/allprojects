@@ -15,4 +15,4 @@ Pilgrimage on foot to the places of the kalyāṇakas and nirvāṇas and to gre
 - analogous: [Pilgrimage to tīrthas](tirthayatra.md) — pilgrimage to sacred places in the Vedic traditions
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

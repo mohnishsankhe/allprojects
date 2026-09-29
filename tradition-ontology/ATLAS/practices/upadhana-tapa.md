@@ -10,4 +10,4 @@ A period of several weeks during which laypeople live like mendicants under a te
 **Stage:** intermediate
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

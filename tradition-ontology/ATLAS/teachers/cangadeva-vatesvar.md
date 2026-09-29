@@ -12,4 +12,4 @@ A yogī said to have lived fourteen hundred years by yogic power, who came ridin
 _Notes: Distinct from the Mahānubhāva Cāṅgadeva Rāüḷ of Dvārakā (tch:cangadeva-raul)._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

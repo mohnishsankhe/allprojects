@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [Dharman, the upholding ordinance](dharman-vedic.md): The ordinances (dharman, vrata) are the particular forms of the one order. — rests on [10.90.16](../texts/rgveda.md#tea-rgveda-10-90-16), [1.24.15](../texts/rgveda.md#tea-rgveda-1-24-15)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._

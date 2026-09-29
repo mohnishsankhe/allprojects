@@ -140,4 +140,4 @@ concepts: [The three principal aspects of the path](../concepts/three-principal-
 _Notes: Not local; verse numbering follows the common 14-verse division (homage verse counted as 1)._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

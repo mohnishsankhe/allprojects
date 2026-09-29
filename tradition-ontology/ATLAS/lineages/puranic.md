@@ -69,4 +69,4 @@ The tradition of the Purāṇas ('ancient lore'): Sanskrit compendia recited by 
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL (ChU), local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.3-11, local:sources_raw/dcs/corpus/GRETIL/sa_pataJjali-yogasUtra-with-bhASya.txt, local:sources_raw/raw_etexts/purANam/mAdhva-app/linga-purANam.md 1.7.54; 1.88.30; 2.55.26, https://www.academia.ed — Recognized tradition; founders and key teachers are the tradition's own (all located in the e-texts above). ChU 7.1.2 'itihāsapurāṇaṃ pañcamaṃ vedānāṃ vedam' located (GRETIL); ŚB 13.4.3.12-13 (itihāsa/purāṇa recited on the eighth and ninth days of the Aśvamedha's pāriplava) confirmed on the web; Matsya 53.3-11 and BhP 1.4.20 located. Transmission evidence checked: YS 1.2, 1.30, 3.37 against LiP 1.8.7, 1.9.1-2, 1.9.52; Pāśupata passages LiP 1.7.54, 1.88.30, 2.55.26, ŚiP 7.1.33. Scholarly dating fits the source datings checked.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._

@@ -130,4 +130,4 @@ terms: [zhengding ju](../terms/zhengding-ju.md), [gensō ekō](../terms/genso-ek
 _Notes: Not in local corpus; recalled at chapter level._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._

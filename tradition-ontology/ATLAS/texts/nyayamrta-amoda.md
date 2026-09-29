@@ -18,4 +18,4 @@ Vijayīndra Tīrtha's commentary on Vyāsatīrtha's Nyāyāmṛta.
 _Notes: A 'Laghvāmoda' commentary on the Nyāyāmṛta is in the raw_etexts corpus; its attribution to Vijayīndra is inferred from the file name ('vijayayati') and memory._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:14 IST._

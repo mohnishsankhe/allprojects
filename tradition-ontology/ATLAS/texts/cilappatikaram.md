@@ -17,4 +17,4 @@ Iḷaṅkō Aṭikaḷ's Tamil epic of Kaṇṇaki and Kōvalaṉ, one of the fi
 _Notes: Included here for its Jain elements; the tradition-affiliation question is left open._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

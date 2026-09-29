@@ -9,4 +9,4 @@
 Disciple of Rāghavendra Tīrtha to whom the tradition ascribes the Rāghavendra-stotra recited by devotees.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:14 IST._

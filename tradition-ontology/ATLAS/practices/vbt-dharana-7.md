@@ -15,4 +15,4 @@ The twelve stages, properly distinguished by twelve letters, [are to be passed t
 _Notes: Verses 30 (KSTS 8 / GRETIL numbering). Commentators list twelve points along the body's axis; the list is not given in the verse._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._

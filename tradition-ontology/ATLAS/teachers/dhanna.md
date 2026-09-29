@@ -10,4 +10,4 @@
 Jat farmer devotee of Rajasthan counted among Rāmānanda's disciples; the story of the stone that ate his offering; hymns in the Ādi Granth.
 
 ---
-_Contributed by: skeleton:U27-sant-baul, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U27-sant-baul, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

@@ -12,4 +12,4 @@ Janaka's hotṛ priest, the first to question Yājñavalkya at the court debate,
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — Located: BĀU 3.1.2 ('janakasya vaidehasya hotāśvalo babhūva').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._

@@ -17,4 +17,4 @@ Garland-maker of Śrīraṅgam whose name means 'dust of the feet of the Lord's 
 _Notes: Aṃśa of the garland Vanamālā in the tradition's list (low confidence)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._

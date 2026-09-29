@@ -14,4 +14,4 @@ The king who forced Jaḍa Bharata to carry his palanquin and received from him 
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 5.10.1, local:sources_raw/raw_etexts/purANam/mAdhva-app/viShNu-purANam.md (VP with Viṣṇucittīya and Ātmaprakāśa) 2.13.48 — BhP 5.10.1 'sindhusauvīrapateḥ rahūgaṇasya'; VP 2.13.48ff. the Sauvīra king (unnamed) located.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 18:14 IST._

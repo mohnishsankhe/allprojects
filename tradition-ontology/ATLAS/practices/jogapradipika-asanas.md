@@ -12,4 +12,4 @@ The Brajbhāṣā Jogapradīpikā (18th c.) teaches eighty-four postures, alongs
   - [Jogapradīpikā (Jogapradīpyakā)](../texts/jogapradipika.md) — 
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:14 IST._

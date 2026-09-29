@@ -13,4 +13,4 @@ A Kālīkula scripture of 'five hundred' verses regarded as a root text of the K
 _Notes: Title and role recalled from secondary literature; verify in Phase C._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._

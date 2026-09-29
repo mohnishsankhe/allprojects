@@ -16,4 +16,4 @@
 - corresponds-to-in-map → `cpt:jhana`: Shared terms vitarka/vicāra and samāpatti with the Buddhist jhāna system; the structures differ (Yoga's pairs are defined by gross vs subtle objects and presence of constructions) — correspondence contested — rests on [1.17](../texts/yoga-sutra.md#tea-yoga-sutra-1-17), [1.42](../texts/yoga-sutra.md#tea-yoga-sutra-1-42), [1.44](../texts/yoga-sutra.md#tea-yoga-sutra-1-44)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._

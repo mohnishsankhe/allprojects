@@ -96,4 +96,4 @@ terms: [svadharma](../terms/svadharma.md), [varṇa](../terms/varna.md) · dispu
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_5.json (BORI Critical Edition text) 5.33.10, 13 prajāgara; 5.33.1-9 Vidura; 5.41.1 next section — Section located at CE 5.33-40 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._

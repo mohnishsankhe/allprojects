@@ -17,4 +17,4 @@
 Founder of the Rāmānandī sampradāya, teacher at Vārāṇasī (Pañcagaṅgā ghāṭ). By one tradition a disciple of Rāghavānanda in Rāmānuja's line who founded his own order after being faulted over commensality; by the independent Rāmānandī account, the founder of an order descending from Rāma himself. He taught devotion to Rāma with Sītā through the Rāma mantra, used the vernacular, and — so the Bhaktamāl says — initiated twelve disciples including a weaver (Kabīr), a cobbler (Raidās), a barber (Sena), a Jāṭ farmer (Dhanna), a Rajput king (Pīpā) and women (Padmāvatī, Surasurī).
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

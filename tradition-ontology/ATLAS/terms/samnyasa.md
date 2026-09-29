@@ -27,4 +27,4 @@
 - 2026-09-29 text: corrected — tea:bhagavad-gita:9.27, tea:bhagavad-gita:9.28 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.6 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch10-12, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch10-12, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:14 IST._

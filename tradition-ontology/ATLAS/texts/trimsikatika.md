@@ -15,4 +15,4 @@ Vinītadeva's sub-commentary on the Thirty Verses, extant in Tibetan.
   - kind: original; name: Tibetan: Derge D4070
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

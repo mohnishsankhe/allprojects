@@ -13,6 +13,7 @@
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): Freedom from attachment; the supreme dispassion by which the upasarga-powers are renounced (LiP 1.9.52-56).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: Together with practice, the means by which the restless mind is held (6.35).
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): Dispassion toward the enjoyment of results of action in this world and the next.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: Dispassion toward the objects of the senses, among the items called knowledge (13.9).
 - [Jainism (Jaina dharma)](../lineages/jainism.md): In Jainism detachment cultivated by contemplating the world and the body (TS 7.12); threefold — born of suffering, of delusion and of knowledge, only the last true (Adhyātmasāra).
 - [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md): Dispassion, the condition of renunciation ('the very day one becomes dispassionate'); the oil of the lamp of knowledge (Dakṣiṇāmūrti).
 - [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md): Equanimity toward all, like one to whom an adze and sandal-paste are alike.
@@ -28,5 +29,6 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.35 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:13.9 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya, skeleton:U05-gita-epic, skeleton:U07-puranas, extraction:bhagavad-gita/ch04-06, skeleton:U13-advaita, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya, skeleton:U05-gita-epic, skeleton:U07-puranas, extraction:bhagavad-gita/ch04-06, skeleton:U13-advaita, extraction:bhagavad-gita/ch13-15, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

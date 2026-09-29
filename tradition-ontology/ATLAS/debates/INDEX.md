@@ -1,6 +1,6 @@
-# Debates (452)
+# Debates (455)
 
-skeleton: 403 · sourced: 49
+skeleton: 406 · sourced: 49
 
 - [After understanding the mahāvākya, is repeated meditative contemplation (prasaṅkhyāna) required for liberating knowledge?](prasankhyana.md) — `skeleton`
 - [Are all nouns derived from verbal roots?](do-all-nouns-derive-from-verbs.md) — `sourced`
@@ -177,6 +177,7 @@ skeleton: 403 · sourced: 49
 - [In mahābandha, is the throat lock (jālandhara) to be applied, or the tongue pressed at the root of the front teeth instead?](jalandhara-in-mahabandha.md) — `skeleton`
 - [In Prāsaṅgika Madhyamaka, is the ultimate only a non-affirming negation of true existence, or the union beyond all four extremes in which nothing is apprehended?](mipham-gelug-madhyamaka.md) — `skeleton` _(recent)_
 - [In the omniscient, do knowledge (jñāna) and perception (darśana) occur in sequence, simultaneously, or are they one?](kevala-jnana-darsana-sequence.md) — `skeleton`
+- [In what sense is the living being 'a portion of me' (mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ, BhG 15.7)?](bhagavad-gita-jiva-as-amsa.md) — `skeleton`
 - [Is 'the one consisting of bliss' (ānandamaya, TU 2.5; BS 1.1.12) the supreme Brahman or a sheath?](is-anandamaya-brahman.md) — `skeleton`
 - [Is a cognition aware of itself?](self-awareness-of-cognition.md) — `skeleton`
 - [Is a living master necessary, and how is the true successor known?](sant-mat-living-master-and-succession.md) — `skeleton` _(recent)_
@@ -429,6 +430,7 @@ skeleton: 403 · sourced: 49
 - [What sees — the eye, consciousness, or neither?](what-sees.md) — `skeleton`
 - [When a clay pot is baked, is the change of colour in the atoms or in the whole pot?](pilupaka-pitharapaka.md) — `skeleton`
 - [When an Ekādaśī is 'pierced' by the Daśamī, on which day should the fast be kept?](ekadasi-viddha.md) — `skeleton`
+- [When the Lord says 'know me also as the knower of the field (kṣetrajña) in all fields' (BhG 13.3 in this edition; 13.2 in the 700-verse numbering) and names the highest puruṣa in the body the great lord and the supreme self (13.23; 13.22 in the 700-verse numbering), is the knower of the field in each body the Lord himself, or is the Lord the self of the knowers, distinct from them?](bhagavad-gita-ksetrajna-and-the-lord.md) — `skeleton`
 - [Where does ignorance (avidyā) reside — in the individual self (jīva) or in Brahman?](locus-of-avidya.md) — `skeleton`
 - [Where does the path of the gods lead: to the conditioned (kārya) Brahman or to the supreme Brahman (BS 4.3.7–16)?](destination-of-devayana.md) — `skeleton`
 - [Where the Visuddhimagga departs from the Vimuttimagga (e.g. on the number of temperaments), which account holds?](vimuttimagga-visuddhimagga.md) — `skeleton`
@@ -449,6 +451,7 @@ skeleton: 403 · sourced: 49
 - [Who is the true Sixth Patriarch — was the Northern school collateral?](huatai-true-lineage.md) — `skeleton`
 - [Who may be initiated into the Atimārga observances: brahmin men only, or anyone?](atimarga-initiation-eligibility.md) — `skeleton`
 - [Who may learn and recite the Veda?](who-may-learn-the-veda.md) — `sourced`
+- [Who or what is the imperishable person (akṣara, called kūṭastha) of BhG 15.16, set beside the perishable (all beings) and below the highest person, and so what does it mean that the Lord is 'higher even than the imperishable' (15.18)?](bhagavad-gita-aksara-purusa.md) — `skeleton`
 - [Whom does the worship of other deities (anya-devatā) really reach, and what does it yield?](bhagavad-gita-other-deities.md) — `skeleton`
 - [Why did Pārśva teach four restraints and allow clothes while Mahāvīra taught five vows and nakedness?](kesi-gautama.md) — `skeleton`
 - [Why did Viṣṇu appear as the Buddha (and how are the Buddhist and Jain teachings to be regarded)?](buddha-avatara-purpose.md) — `sourced`

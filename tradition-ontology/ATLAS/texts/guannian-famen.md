@@ -55,4 +55,4 @@ concepts: [The five augmenting conditions of reciting (Shandao)](../concepts/fiv
 _Notes: Read locally (T47n1959)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._

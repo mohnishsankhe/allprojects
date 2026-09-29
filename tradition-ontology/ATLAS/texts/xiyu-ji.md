@@ -15,4 +15,4 @@
 Xuanzang's record of his journey, noting for many monasteries the number of monks and their school (Sarvāstivāda, Saṃmitīya, Mahāsāṃghika, Lokottaravāda, Sthavira) and relating the Kashmir council under Kaniṣka.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._

@@ -13,4 +13,4 @@
 Called by Xuanzang the 'original master' (founder) of the Sautrāntika; author of the Kalpanāmaṇḍitikā Dṛṣṭāntapaṅkti, a collection of illustrative stories.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._

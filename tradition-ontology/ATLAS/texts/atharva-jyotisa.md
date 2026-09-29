@@ -15,4 +15,4 @@ A later Atharvaveda text on auspicious timing: the lunar mansions, lunar days, d
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Vedanga_Jyotisha — Low-confidence entry confirmed: the Ātharvaṇa Jyotiṣa (c. 162–163 verses) is distinct from the two Vedāṅga Jyotiṣa recensions and deals with the auspiciousness of times (Wikipedia 'Vedanga Jyotisha').
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 18:14 IST._

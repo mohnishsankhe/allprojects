@@ -58,4 +58,4 @@ concepts: [Liberation of women (strī-mukti)](../concepts/strimukti.md) · dispu
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

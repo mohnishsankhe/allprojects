@@ -11,4 +11,4 @@ Seeking from the Lord anything other than himself — wealth, lordly powers or t
   - [Gītābhāṣya of Rāmānuja](../texts/gita-bhasya-ramanuja.md) — ref: 7.16-18; rests_on: ["tea:gita-bhasya-ramanuja:7.16-18"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._

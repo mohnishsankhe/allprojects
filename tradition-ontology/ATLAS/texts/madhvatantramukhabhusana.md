@@ -14,4 +14,4 @@
 Vijayīndra Tīrtha's reply to Appayya Dīkṣita's Madhvatantramukhamardana, defending Madhva's reading of the opening adhikaraṇas of the Brahmasūtras.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:14 IST._

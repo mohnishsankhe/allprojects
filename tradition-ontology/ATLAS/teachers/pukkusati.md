@@ -8,4 +8,4 @@
 A clansman who had gone forth for the Buddha without having met him, taught the six elements in a potter's shed (MN 140); he died a non-returner.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

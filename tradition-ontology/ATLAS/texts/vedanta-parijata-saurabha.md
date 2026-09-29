@@ -57,4 +57,4 @@ concepts: [Liberation (mokṣa) in Dvaita](../concepts/moksa.md) · teachers: [N
 _Notes: Translated by Roma Bose (1940–43) with Śrīnivāsa's Vedāntakaustubha._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._

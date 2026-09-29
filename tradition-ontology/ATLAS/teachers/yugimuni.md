@@ -12,4 +12,4 @@
 Physician-Siddhar to whom the Yūki vaittiya cintāmaṇi, a standard work on the classification of diseases, is ascribed.
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._

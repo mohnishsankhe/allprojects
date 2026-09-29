@@ -15,4 +15,4 @@ On the new- and full-moon days the monastics within one boundary assemble, confe
 _Notes: Common to all the Vinayas; details and counts differ by school._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._

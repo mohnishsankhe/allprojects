@@ -13,4 +13,4 @@ Deceitful harm and treachery, among the wrongs one asks Varuṇa to remove.
 _Notes: rests_on: tea:rgveda:7.86.5_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._

@@ -46,4 +46,4 @@ teachers: [Sureśvara](../teachers/suresvara.md), [Bhartṛprapañca](../teacher
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._

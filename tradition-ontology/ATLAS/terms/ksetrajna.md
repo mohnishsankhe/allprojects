@@ -10,6 +10,7 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The one who knows the field (body); the Lord declares himself the knower in all fields (BhG 13.1–2); it illumines the field as the sun the world (13.33). In the Mokṣadharma, the knower is the twenty-fifth, distinct from yet joined to sattva like fish and water (12.294, 12.187.39).
 - [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md): Vāsudeva, the knower of the field whose self is without guṇas (Nārāyaṇīya 12.326.38).
 - [Āyurveda](../lineages/ayurveda.md): Lineage contribution (Āyurveda): the unmanifest self, knower of the field of the twenty-three (Ca Śā 1.61-65); for Suśruta many, eternal, not all-pervading (Su Śā 1.3, 1.16).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: the one who knows the body-field is called by those who know it the knower of the field (13.2); Kṛṣṇa says 'know me also as the knower of the field in all fields', and the knowledge of field and knower is knowledge (13.3); beings are born from the union of field and knower (13.27); their difference is known with the eye of knowledge (13.35). How 13.3 relates Kṛṣṇa to the individual knower is read differently by the commentators.
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): In the VP the lower (aparā) śakti of Viṣṇu, the embodied knower veiled by avidyā-karma; in MkP 38.15 the self other than the aggregate of guṇas.
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The self that makes the embodied self act, distinguished from the elemental self (bhūtātman) that acts (MDh 12.12).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Knower of the field: God is lord of pradhāna and of the kṣetrajña (ŚU 6.16); the part that is pure consciousness in each person (MaiU 5.2).
@@ -18,7 +19,11 @@
 
 ## Equivalents (interpretation layer)
 - same-under-standpoint: [puruṣa](purusa.md) (analytic (Sāṃkhya enumeration)) — the knower of the field of ch. 13 and the puruṣa of 13.19–23 are the same principle described from the side of knowing and of experiencing
-**Related:** [kṣetra](ksetra.md), [puruṣa](purusa.md), [ātman](atman.md)
+**Related:** [kṣetra](ksetra.md), [puruṣa](purusa.md), [ātman](atman.md), [kṣetrin](ksetrin.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U30-ayurveda-rasa, skeleton:U07-puranas, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:13.1, tea:bhagavad-gita:13.2, tea:bhagavad-gita:13.3, tea:bhagavad-gita:13.27, tea:bhagavad-gita:13.35 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch13-15, skeleton:U07-puranas, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._

@@ -27,4 +27,4 @@ Grounded in Sureśvara's principle that any method leading to knowledge of the i
 **The traditions' own objections:** Proponents of many jīvas regard the one-jīva view as unable to explain scripture's accounts of others' liberation; the one-jīva side regards plurality as unexplained without it.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._

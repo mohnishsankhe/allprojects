@@ -16,4 +16,4 @@ Grasping at a self: in Chöd the real demon and root of the four māras; in Sowa
 - same-under-standpoint: [Self-grasping as the root of faults](self-grasping-pramana.md) (Buddhist analysis of the root affliction) — self-grasping as the root of faults
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._

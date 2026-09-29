@@ -12,4 +12,4 @@ Birth at the junction of Jyeṣṭhā and Mūla, Āśleṣā and Maghā, or Reva
   - [Bṛhat Parāśara Horā Śāstra](../texts/brhat-parasara-hora-sastra.md) — ref: 94.1-2; rests_on: ["tea:brhat-parasara-hora-sastra:94.1-2"]
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._

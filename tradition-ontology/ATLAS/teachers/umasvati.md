@@ -16,4 +16,4 @@ Author of the Tattvārthasūtra, the first Sanskrit summa of Jain doctrine, acce
 _Notes: His Praśamarati (Śvetāmbara) is not given a separate entry here (gap)._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._

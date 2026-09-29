@@ -13,4 +13,4 @@
 The 'chapters' on Saṅgha procedure, framed by the story of the Buddha's awakening and the founding of the order (Mahāvagga 1) and closing with the first two councils (Cullavagga 11–12).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 18:14 IST._

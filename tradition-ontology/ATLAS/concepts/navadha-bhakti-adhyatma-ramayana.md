@@ -18,4 +18,4 @@
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — Rests on tea:adhyatma-ramayana:3.10.22-27, tea:adhyatma-ramayana:3.10.28-31; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._

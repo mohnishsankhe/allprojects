@@ -15,4 +15,4 @@ Purity, contentment, austerity, self-study and devotion to Īśvara (2.32, YBh 2
 **Sequences:** [Patañjali's eight limbs of yoga (aṣṭāṅga-yoga)](../paths/yoga-sutra-eight-limbs.md)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 18:14 IST._

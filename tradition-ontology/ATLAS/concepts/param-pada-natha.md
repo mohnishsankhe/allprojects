@@ -16,4 +16,4 @@
 - same-as-under-standpoint → [The Akulavīra — the one beyond Kula](akulavira.md) (apophatic description of the highest): the Akulavīra of Matsyendra's school is described in the same apophatic terms; the Nāth texts do not themselves equate the names — rests on [a.30-41](../texts/akulavira-tantra.md#tea-akulavira-tantra-a-30-41), [89-92](../texts/goraksasataka.md#tea-goraksasataka-89-92)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 18:14 IST._

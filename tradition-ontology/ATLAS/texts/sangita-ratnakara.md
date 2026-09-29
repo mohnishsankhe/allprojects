@@ -195,4 +195,4 @@ obstacles: [The twenty-five faults of singers](../obstacles/gayaka-dosas.md)
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._

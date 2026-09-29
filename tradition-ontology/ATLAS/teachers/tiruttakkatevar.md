@@ -10,4 +10,4 @@
 Jain monk-poet, author of the Cīvakacintāmaṇi (c. 9th–10th c.); tradition makes him a Cōḻa prince.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

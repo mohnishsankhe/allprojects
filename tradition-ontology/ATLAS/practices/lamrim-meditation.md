@@ -11,7 +11,7 @@ Daily sessions in which, after the six preparatory practices, one takes one lamr
 **Sources:** 
   - [Great Treatise on the Stages of the Path to Enlightenment (lam rim chen mo)](../texts/lamrim-chenmo.md) — ref: intro.meditation-sessions; rests_on: ["tea:lamrim-chenmo:intro.meditation-sessions", "tea:lamrim-chenmo:intro.analytical-and-placement"]
   - [Songs of Spiritual Experience / Condensed Points of the Stages of the Path (lam rim bsdus don; lam rim nyams mgur)](../texts/lamrim-nyamgur.md) — rests_on: ["tea:lamrim-nyamgur:refrain"]
-**Sequences:** `pth:lamrim-three-scopes`
+**Sequences:** [The stages of the path for persons of the three scopes (lam rim; skyes bu gsum)](../paths/lamrim-three-scopes.md)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

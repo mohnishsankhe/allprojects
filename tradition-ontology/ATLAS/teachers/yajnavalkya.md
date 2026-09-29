@@ -35,4 +35,4 @@ _Notes: Teacher of the mantha rite lineage: Uddālaka Āruṇi taught it to his 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Text-located: the name occurs in the e-text of jabala, yajnavalkya, mandalabrahmana, paingala, tarasara, bhiksuka, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.298.4, 12.306.2-21 (yajūṃṣi, āditya), 12.306.27, 12.306.85 — Located as described.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._

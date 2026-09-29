@@ -12,4 +12,4 @@ No. 32 of the eighty-four siddhas (Tōh 2292 order). A god (or wealthy man) who,
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. The song recasts the four immeasurables in terms of realization._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

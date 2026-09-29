@@ -34,4 +34,4 @@ terms: [bhakti](../terms/bhakti.md) · concepts: [The means-less (anupāya)](../
 _Notes: Kṣemarāja (Vivṛti, intro.) reports that Utpaladeva composed the hymns as separate pieces; Śrī Rāma and Ādityarāja later gathered them, and Viśvāvarta arranged them into twenty stotras with names of his own - 'so it is heard'. Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._

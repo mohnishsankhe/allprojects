@@ -17,4 +17,4 @@ Seated evenly with gaze at the nose-tip, after breath purification with Oṃ, vi
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — Rests on tea:uddhava-gita:11.14.32-46; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 18:14 IST._

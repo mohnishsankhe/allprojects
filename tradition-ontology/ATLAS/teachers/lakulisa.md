@@ -15,4 +15,4 @@ Lakulīśa, 'Lord with the club', is regarded as the incarnation of Śiva who fo
 **Realization — the tradition's account:** Not a human who became realized but the Lord himself: seeing an abandoned corpse in a cremation ground, Śiva entered it by yogic power and became the brahmacārin Lakulī at the siddha-field called Kāyāvatāra (Liṅga P. 1.24.127-130); Kauṇḍinya says the Lord, in human form, took a brahmin's body, descended at Kāyāvataraṇa and walked to Ujjayinī, where he taught Kuśika; the Kāravaṇa-māhātmya says Śiva was born to Viśvarūpa and Sudarśanā, and after the infant died Śiva entered the body and later merged into the Brahmeśvara liṅga at Kāyāvarohaṇa.
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:14 IST._

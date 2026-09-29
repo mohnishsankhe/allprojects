@@ -17,4 +17,4 @@
 **Related:** [jñānabhūmikā](jnana-bhumika.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 18:14 IST._

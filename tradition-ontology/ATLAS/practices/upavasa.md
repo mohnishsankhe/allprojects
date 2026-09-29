@@ -13,4 +13,4 @@ A lay person takes eight precepts from another in the morning, in a humble postu
   - [Abhidharmakośa (Abhidharmakośakārikā)](../texts/abhidharmakosa.md) — ref: 4.28-29; rests_on: ["tea:abhidharmakosa:4.28-29"]
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._

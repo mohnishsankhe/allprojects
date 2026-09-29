@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [Eight causes of non-perception](eight-causes-of-non-perception.md): Ca Sū 11.8's eight causes of non-perception parallel Sāṃkhyakārikā 7 — rests on [su.11.7-8](../texts/caraka-samhita.md#tea-caraka-samhita-su-11-7-8)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._

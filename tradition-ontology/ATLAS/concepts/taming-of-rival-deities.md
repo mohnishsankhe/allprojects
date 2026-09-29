@@ -17,4 +17,4 @@
 - corresponds-to-in-map → [Placing the other schools as lower stages of one's own](doxographic-ranking-of-schools.md)
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:14 IST._

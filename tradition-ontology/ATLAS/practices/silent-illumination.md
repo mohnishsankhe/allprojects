@@ -17,4 +17,4 @@ Sitting in silence in which words are forgotten while the mind's illumination re
 - Dahui warns that 'silent illumination' taught as becoming cold ash and dead wood cuts off buddha-wisdom. — [Recorded Sayings of Dahui (Dahui Pujue chanshi yulu)](../texts/dahui-yulu.md) 884c25
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

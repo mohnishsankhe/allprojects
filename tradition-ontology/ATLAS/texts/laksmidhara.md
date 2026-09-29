@@ -95,4 +95,4 @@ concepts: [The fivefold equality of Śiva and Śakti (pañcavidha-sāmya)](../co
 _Notes: U23 contribution. U08 attached this commentary to tch:laksmidhara, an id also used by U02/U07 for the 12th-c. author of the Kṛtyakalpataru; U23 uses tch:lolla-laksmidhara for the commentator. Lakṣmīdhara also mentions his own commentary on the Subhagodaya._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._

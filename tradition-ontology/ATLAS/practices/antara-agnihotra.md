@@ -18,4 +18,4 @@ Recognizing that while one speaks one cannot breathe and while one breathes one 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/kausitaki-upanisad-sharada/segments.jsonl (Advaita-Śāradā mūla kst.md, Advaita-Śāradā section numbering) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (KauU 2.5). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._

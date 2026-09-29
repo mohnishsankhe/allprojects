@@ -15,4 +15,4 @@ By uttering the praṇava (Oṃ) and the like, and contemplating the void at the
 _Notes: Verses 39 (KSTS 8 / GRETIL numbering). Kaumudī: the sixteenth (ṣoḍaśī) dhāraṇā - agrees with this count._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._

@@ -15,4 +15,4 @@ Remaining in the unceasing 'sleep of Śiva-yoga', senses withdrawn and awareness
 - analogous: `prc:yoga-nidra` — sleep-like state kept aware; different texts and methods
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._

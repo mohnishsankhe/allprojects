@@ -20,4 +20,4 @@ Fear, anger, sloth, too much sleep and waking, too much food and fasting (Amṛt
 
 - description: The verse listing these faults (bhayaṃ krodham athālasyam atisvapnātijāgaram | atyāhāram anāhāraṃ …) is Amṛtanāda 28 in the e-text; v. 27 names the doors. The ref in the description is corrected. All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:amrtanada-upanisad:27 (corrected).
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 18:14 IST._

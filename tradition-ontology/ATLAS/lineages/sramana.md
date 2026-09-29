@@ -52,4 +52,4 @@ _none recorded_
 _Notes: Jainism (U34) and Buddhism (U36) are śramaṇa traditions but are NOT listed as sub-lineages here, so that the merge does not count them as one root. The Greek report of Megasthenes (Brachmanes and Sarmanes, via Strabo 15.1.59–60) is scholarly metadata only._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

@@ -20,4 +20,4 @@ Neither: visual consciousness arises from eye and form; 'the eye sees' and 'cons
 **The traditions' own objections:** The Vaibhāṣika holds that the eye really sees and would reject treating its thesis as merely conventional.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._

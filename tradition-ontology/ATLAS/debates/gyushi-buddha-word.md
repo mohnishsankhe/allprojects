@@ -31,4 +31,4 @@ Scholarly account (kept apart): compiled in the 12th c. by Yuthok Yönten Gönpo
 **Candidate readings:** Buddha-word in the full sense (the tradition's account).; 'Blessed word': a teaching composed through the Buddha's blessing, counted as authoritative scripture though written down or arranged in Tibet (candidate reading; not attested here).; A Tibetan treatise (bstan bcos) whose authority rests on its efficacy and lineage rather than on origin.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._

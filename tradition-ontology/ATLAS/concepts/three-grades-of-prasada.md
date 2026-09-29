@@ -15,4 +15,4 @@
 - part-of → [Divine grace (prasāda)](grace.md): grace is graded by its means — rests on [1.1.1/5](../texts/brahma-sutra-bhasya-madhva.md#tea-brahma-sutra-bhasya-madhva-1-1-1-5)
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:14 IST._

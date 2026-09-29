@@ -14,4 +14,4 @@
 - contrasts-with → [Yoga as the stilling of the mind's activities (citta-vṛtti-nirodha)](yoga-as-nirodha.md): Vṛttisaṃkṣaya echoes Patañjali's cessation of vṛttis but denotes the cessation of the soul's karmically-born activities leading to omniscience. — rests on [vrttisanksaya](../texts/yogabindu.md#tea-yogabindu-vrttisanksaya), [1.2](../texts/yoga-sutra.md#tea-yoga-sutra-1-2)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 18:14 IST._

@@ -14,4 +14,4 @@
 King Nānyadeva's commentary-treatise on the music of the Nāṭyaśāstra, a bridge between Mataṅga and Śārṅgadeva.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._

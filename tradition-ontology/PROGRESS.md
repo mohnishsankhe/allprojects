@@ -62,11 +62,11 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U47-sakya-kadam-gelug | done | 84 src · 84 tch · 251 tea (66 Wylie originals from Derge: Lamdre root Tōh 2284, Atiśa) · 12 dsp | REPORT.md; Tibetan-authored works recalled |
 | U48-jonang-chod-medicine-rime | done | 51 src · 45 tch · 90 tea · 12 prc (5 restricted) · 3 dsp | REPORT.md; Four Tantras chapter refs low; Tibetan works not local |
 | U49-cross-family | done | 53 brw (41 new + 12 evidence re-emits) · 36 cpt · 31 tea · 3 dsp; new explicit evidence: Tōh 2285 Amṛtasiddhimūla colophon (Virūpa) | REPORT.md; dedupe list for S5 |
-| U50-debates | running | | |
+| U50-debates | done | 15 dsp (8 partially reconciled, 7 queued) · 19 new tea (originals verified: BSBh, CBETA, eBhāratī) | REPORT.md |
 | U51-path-maps | running | | |
 | U52-recent-teachers | running | | |
 | U53-glossary-ultimate | running | | |
-| U54-chinese-schools | queued | | |
+| U54-chinese-schools | running | | |
 | U55-japan-korea-vietnam-nepal | queued | | |
 | U56-datta-haridasa-odisha | queued | | |
 | U57-ascetic-orders | queued | | |

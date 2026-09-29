@@ -18,4 +18,4 @@
 Stage order is the text's; the bands are the interpretation layer. Commentators differ on whether knowledge (Advaita) or devotion (Vaiṣṇava) is the final stage — see dsp:gita-primary-teaching.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._

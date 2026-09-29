@@ -14,4 +14,4 @@
 Yangönpa's treatise on the vajra body — the formation of channels, winds and drops in the womb and their role on the path.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

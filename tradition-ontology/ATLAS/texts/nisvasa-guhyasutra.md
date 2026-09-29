@@ -16,4 +16,4 @@ Largest book of the Niśvāsa, with extensive material on mantras, cosmography, 
 _Notes: The Kāmika's list of the Niśvāsa's eight upabhedas includes Niśvāsottara, Niśvāsamukhodaya, Niśvāsanayana and Guhya, which match these books by name._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._

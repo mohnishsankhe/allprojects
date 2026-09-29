@@ -703,4 +703,4 @@ teachers: [Pañcaśikha](../teachers/pancasikha.md), [Sanandana](../teachers/san
 
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 18:14 IST._

@@ -24,4 +24,4 @@ The long-lived sage Mārkaṇḍeya instructs the exiled Pāṇḍavas: on karma
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_3.json (BORI Critical Edition text) 3.180.5ff Mārkaṇḍeya arrives at Kāmyaka; 3.221 last Mārkaṇḍeya-spoken chapter; 3.222 begins Draupadī–Satyabhāmā — Section located at CE 3.180-221 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._

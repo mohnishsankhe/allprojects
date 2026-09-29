@@ -14,7 +14,7 @@ After the preliminaries and the guru's pointing-out, the meditator settles the m
   - [Mahāmudropadeśa of Tilopa (the Gaṅgā Mahāmudrā)](../texts/ganga-mahamudra.md) — ref: v14-15; rests_on: ["tea:ganga-mahamudra:v14-15"]
   - [Karṇatantravajrapada (the Vajra Verses of the Whispered Lineage)](../texts/karnatantravajrapada.md) — ref: 303b.6; rests_on: ["tea:karnatantravajrapada:303b.6"]
   - [Moonbeams of Mahāmudrā](../texts/moonbeams-of-mahamudra.md) — ref: pt.2; rests_on: ["tea:moonbeams-of-mahamudra:pt.2/6"]
-**Sequences:** `pth:mahamudra-four-yogas`, [The stages of Mahāmudrā meditation (Moonbeams; 9th Karmapa)](../paths/moonbeams-mahamudra-stages.md)
+**Sequences:** [The four yogas of Mahāmudrā with their twelve levels (phyag chen rnal 'byor bzhi)](../paths/mahamudra-four-yogas.md), [The stages of Mahāmudrā meditation (Moonbeams; 9th Karmapa)](../paths/moonbeams-mahamudra-stages.md)
 
 ## The texts' own warnings
 - The four deviations from emptiness and the three strayings into bliss, clarity and non-thought. — [Moonbeams of Mahāmudrā](../texts/moonbeams-of-mahamudra.md) pt.2
@@ -23,4 +23,4 @@ After the preliminaries and the guru's pointing-out, the meditator settles the m
 _Notes: Not the haṭha 'mahāmudrā' seal (prc:mahamudra), which is a different practice with the same name._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

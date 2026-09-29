@@ -15,4 +15,4 @@
 - corresponds-to-in-map → [Śramaṇa and brāhmaṇa](sramana-brahmana-contrast.md): both the Lokāyata and the Buddhist Jātaka turn the sacrificed-animal argument against the brāhmaṇas — rests on [1/8](../texts/sarvadarsanasangraha.md#tea-sarvadarsanasangraha-1-8), [161-173](../texts/bhuridatta-jataka.md#tea-bhuridatta-jataka-161-173)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

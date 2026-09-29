@@ -13,4 +13,4 @@
 The recitation text of the 250 bhikṣu rules (and the 348 bhikṣuṇī rules in the nuns' version) recited at the fortnightly poṣadha in East Asia.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._

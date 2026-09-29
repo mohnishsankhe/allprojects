@@ -19,4 +19,4 @@ Summary: after realization, the yogin wanders in cremation grounds and among out
 - One who realizes the natural state but acts basely is like a king who comes down from his throne to sweep. — [Dohākoṣa-upadeśagīti of Saraha (the 'Queen Dohā')](../texts/dohakosa-queen-saraha.md) v19-20
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

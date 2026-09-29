@@ -13,4 +13,4 @@ Navadvīpa scholar who, on the tradition's account, studied in Mithilā and brou
 _Notes: Most details are the tradition's account (low confidence)._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:14 IST._

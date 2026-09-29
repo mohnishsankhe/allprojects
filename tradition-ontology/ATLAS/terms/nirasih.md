@@ -20,4 +20,4 @@
 
 - 2026-09-29 text: corrected — tea:bhagavad-gita:4.21, tea:bhagavad-gita:6.10 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:14 IST._

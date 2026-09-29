@@ -39,4 +39,4 @@ _Notes: Sāyaṇa also commented on the Taittirīya, Sāma and Atharva Saṃhit�
 
 - 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/raw_etexts/vedaH/Rg/shakala/saMhitA/sAyaNabhAShyam/ (verse-wise commentary, all 10 maṇḍalas), https://en.wikipedia.org/wiki/S%C4%81ya%E1%B9%87a — Extant (local verse-by-verse text). Sāyaṇa d. 1387, Vijayanagara under Bukka I and Harihara II; commentaries on nearly all parts of the Veda — confirmed. The upodghāta content is treated under tea:rgveda-bhasya-sayana:upodghata.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._

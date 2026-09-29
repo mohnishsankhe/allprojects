@@ -24,4 +24,4 @@ Vasiṣṭha teaches king Karāla Janaka the Sāṃkhya-Yoga account of the peri
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.291.7-10 Vasiṣṭha, Karāla; 12.294.1 speaker Karāla Janaka; 12.296.37-44 — Section located at CE 12.291-296 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 18:14 IST._

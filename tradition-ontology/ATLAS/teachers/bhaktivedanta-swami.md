@@ -12,4 +12,4 @@
 Disciple of Bhaktisiddhānta; founder of the International Society for Krishna Consciousness (1966), which spread the chanting of the Hare Kṛṣṇa mahāmantra worldwide.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._

@@ -18,4 +18,4 @@ _Notes: Upaniṣadic 'vidyā' (meditation-knowledge); the Brahma Sūtra (3.3) di
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/kausitaki-upanisad-sharada/segments.jsonl (Advaita-Śāradā mūla kst.md, Advaita-Śāradā section numbering) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 4.3.1-8; KauU 2.12-13). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 18:14 IST._

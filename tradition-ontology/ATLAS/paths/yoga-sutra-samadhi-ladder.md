@@ -23,4 +23,4 @@
 Correction to the unit brief: the sūtra itself gives two lists (1.17: vitarka, vicāra, ānanda, asmitā; 1.42-44: four samāpattis) — the single ladder savitarka→…→asmitā is the commentators' synthesis; 'sa-/nir-' pairs for ānanda and asmitā are later (sub-commentaries). The sūtra does not itself equate asamprajñāta (1.18) with nirbīja (1.51); the commentators do.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 18:14 IST._

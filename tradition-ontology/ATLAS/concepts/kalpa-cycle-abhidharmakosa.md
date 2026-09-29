@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [World-cycles (kappa) and their destructions](world-cycles.md): Same fourfold aeon and the destructions by fire, water, wind. — rests on [3.89-93](../texts/abhidharmakosa.md#tea-abhidharmakosa-3-89-93), [3.100-102](../texts/abhidharmakosa.md#tea-abhidharmakosa-3-100-102)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 18:14 IST._

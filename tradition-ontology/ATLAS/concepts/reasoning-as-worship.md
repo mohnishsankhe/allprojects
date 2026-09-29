@@ -13,4 +13,4 @@
 - part-of → [Hearing, reflection and meditation](sravana-manana-nididhyasana.md): Nyāya places itself at the stage of manana in the Upaniṣadic triad. — rests on [1.3](../texts/nyaya-kusumanjali.md#tea-nyaya-kusumanjali-1-3)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 18:14 IST._

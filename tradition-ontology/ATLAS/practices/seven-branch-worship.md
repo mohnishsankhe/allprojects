@@ -11,4 +11,4 @@ Homage, offering, confession, rejoicing, requesting the teaching, requesting the
   - [Bhadracarīpraṇidhāna](../texts/bhadracaripranidhana.md) — ref: vv. 1-12; rests_on: ["tea:bhadracaripranidhana:1-12"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:14 IST._

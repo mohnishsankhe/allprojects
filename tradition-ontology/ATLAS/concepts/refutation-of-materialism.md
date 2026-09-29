@@ -13,4 +13,4 @@
 - opposes → [Heaven, hell, lord and release in this world](carvaka-heaven-hell-liberation.md) — rests on [lokayatapariksa](../texts/tattvasangraha.md#tea-tattvasangraha-lokayatapariksa)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._

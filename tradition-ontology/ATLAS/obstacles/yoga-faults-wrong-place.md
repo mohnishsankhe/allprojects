@@ -17,4 +17,4 @@ Practising overfed, hungry, tired or agitated, in extreme cold, heat or wind, or
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:markandeya-purana:39.47-61 — MkP 39.47-61 located. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas, skeleton:U28-hatha-texts. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U28-hatha-texts. Generated 2026-09-29 18:14 IST._

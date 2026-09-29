@@ -19,4 +19,4 @@ The gods, taking brahman's victory for their own, grew proud; they could not rec
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/kena-upanisad/segments.jsonl (Advaita-Śāradā mūla Kena_pada.md, Śaṅkara numbering) — All 3 Upaniṣad refs cited in the entry are located in the prepared segments (Kena 3.1-4.1; Kena 4.1; Kena 3.1-4.3). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

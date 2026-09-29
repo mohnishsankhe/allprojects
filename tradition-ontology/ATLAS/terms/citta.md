@@ -20,6 +20,7 @@
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): The inner organ as remembering and reflecting (in the fourfold Advaita division); in general usage, mind.
 - [Sarvāstivāda](../lineages/sarvastivada.md): Mind, synonymous with manas and vijñāna; it always arises together with mental factors, and they share support, object, aspect, time and substance.
 - [Mahāsāṃghika](../lineages/mahasanghika.md): Mind is by nature luminous and pure, defiled only by adventitious defilements (Vasumitra).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: Evenness of thought (sama-cittatva) amid the desired and the undesired is among the items called knowledge (13.10).
 - [Āyurveda](../lineages/ayurveda.md): Lineage contribution (Āyurveda, Bhela): citta rests in the heart and is the cause of all cognitions and actions; those of good citta go the good path (Bhela Ci 8).
 - [Pratyabhijñā (the philosophy of recognition)](../lineages/pratyabhijna.md): Consciousness descended and contracted by the knowable (PH 5); turned inward, it becomes consciousness again (PH 13).
 - [Spanda (the doctrine of vibration)](../lineages/spanda.md): The bound self is the mind (Śiva Sūtra 3.1); the mind is mantra (2.1).
@@ -42,5 +43,6 @@ _Notes: Shared slug with Yoga's citta; this is the early-Buddhist contribution._
 
 - 2026-09-29 text: corrected — tea:bhagavad-gita:6.10, tea:bhagavad-gita:6.12, tea:bhagavad-gita:6.18, tea:bhagavad-gita:6.19, tea:bhagavad-gita:6.20 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.9, tea:bhagavad-gita:12.9 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:13.10 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U38-early-schools, skeleton:U30-ayurveda-rasa, skeleton:U19-kashmir-saivism, skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U38-early-schools, extraction:bhagavad-gita/ch13-15, skeleton:U30-ayurveda-rasa, skeleton:U19-kashmir-saivism, skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

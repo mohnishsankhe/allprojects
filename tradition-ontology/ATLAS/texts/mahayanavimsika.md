@@ -18,4 +18,4 @@ Twenty verses ascribed to Nāgārjuna presenting the world as a construction of 
   - kind: translation; name: Chinese: Dasheng ershi song lun 大乘二十頌論, T1576 — catalog:CBETA:T30n1576
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._

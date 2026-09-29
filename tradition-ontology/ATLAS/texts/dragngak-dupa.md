@@ -16,4 +16,4 @@ A tantra of the wrathful mantra (drag sngags / dmod pa drag sngags) class of the
 _Notes: Existence and title local (catalog:Derge-Kangyur:D843); the assignment to the Eight Herukas (bka' brgyad) is the unit's reading from memory of the Nyingma classification._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

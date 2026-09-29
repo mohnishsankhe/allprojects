@@ -26,4 +26,4 @@
 **Related:** [buddhadhātu](buddhadhatu.md), [gotra](gotra.md), [dharmakāya](dharmakaya.md), [tathatā](tathata.md)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U45-nyingma-bon, skeleton:U41-yogacara-pramana, skeleton:U46-kagyu, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U45-nyingma-bon, skeleton:U41-yogacara-pramana, skeleton:U46-kagyu, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 18:14 IST._

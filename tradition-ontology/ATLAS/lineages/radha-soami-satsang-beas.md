@@ -47,4 +47,4 @@ _none recorded_
 _Notes: A successor-designate (Jasdeep Singh Gill) was announced in 2024 (moderate confidence)._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 18:14 IST._

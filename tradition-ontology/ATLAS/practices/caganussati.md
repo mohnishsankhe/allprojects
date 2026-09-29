@@ -14,4 +14,4 @@ Recollecting one's own generosity, living at home with a mind free of the stain 
   - [Visuddhimagga](../texts/visuddhimagga.md) — ref: VII; rests_on: ["tea:visuddhimagga:7/2"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._

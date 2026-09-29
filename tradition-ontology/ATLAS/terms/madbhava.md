@@ -7,15 +7,18 @@
 **Literal:** my state; my being
 
 ## Definitions by tradition
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13.19: Kṛṣṇa's devotee, knowing the field, knowledge and the knowable, becomes fit for his state; 14.19: the seer who sees no agent but the guṇas and knows what is beyond them attains it.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: The state of the Lord, reached by many who were free of passion, fear and anger and purified by the austerity of knowledge (4.10).
 
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
+**Related:** [sādharmya](sadharmya.md), [brahmabhūya](brahmabhuya.md)
 
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:13.19, tea:bhagavad-gita:14.19 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.10 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 18:14 IST._

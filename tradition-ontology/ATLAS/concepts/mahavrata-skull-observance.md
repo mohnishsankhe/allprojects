@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [Bhairava's severing of Brahmā's head and the skull-penance](bhairava-brahmahatya-myth.md): the vow re-enacts the myth — rests on [2.31.104-106](../texts/kurma-purana.md#tea-kurma-purana-2-31-104-106)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 18:14 IST._

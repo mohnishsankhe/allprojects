@@ -21,4 +21,4 @@ With the mouth closed, the breath is drawn slowly through both nostrils so that 
 - The breath is held 'as far as one is able, without opposition' (āśakti … avirodhataḥ). — [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) 5.71
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 18:14 IST._

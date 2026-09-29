@@ -16,4 +16,4 @@
 _Notes: The commentators divide on what sat and asat denote in 2.16 and on whether the verse speaks of existence or of reality; it is later cited in debates on causation. Not the same as data/'s cpt:sat-and-asat (being and non-being at the origin)._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:11 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 18:14 IST._

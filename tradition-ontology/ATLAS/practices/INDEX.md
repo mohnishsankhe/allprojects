@@ -1,6 +1,6 @@
-# Practices (1522)
+# Practices (1525)
 
-skeleton: 1299 · sourced: 223
+skeleton: 1302 · sourced: 223
 
 - [A-tri meditation](a-tri-meditation.md) — `skeleton`
 - [Abandoning the body to go to birth (sheshen wangsheng) — restricted](shashen-wangsheng.md) — `skeleton`
@@ -142,6 +142,7 @@ skeleton: 1299 · sourced: 223
 - [Consecration as ācārya or sādhaka](abhiseka-acarya-sadhaka.md) — `skeleton`
 - [Consecration of an image (pañcakalyāṇaka-pratiṣṭhā)](pancakalyanaka-pratistha.md) — `skeleton`
 - [Consecration of the sacrificer (dīkṣā)](diksa-soma.md) — `skeleton`
+- [Constancy in knowledge of what pertains to the self (BhG 13.12)](adhyatma-jnana-nityatva.md) — `skeleton`
 - [Constant recollection of the dvaya](dvaya-anusandhana.md) — `skeleton`
 - [Constant remembrance of Rudra](rudra-anusmarana.md) — `skeleton`
 - [Constant remembrance of the Lord (smaraṇa)](smarana.md) — `skeleton`
@@ -192,6 +193,7 @@ skeleton: 1299 · sourced: 223
 - [Cultivation of compassion over many lives](cultivation-of-compassion-pramana.md) — `skeleton`
 - [Cultivation of the six virtues (ṣaṭ-sampatti)](sat-sampatti.md) — `skeleton`
 - [Cultivation of the vision of selflessness](nairatmya-bhavana-pramana.md) — `skeleton`
+- [Cutting the aśvattha with the weapon of non-attachment (BhG 15.3–5)](asanga-sastra.md) — `skeleton`
 - [Cutting the flows (vāhaccheda)](vahaccheda.md) — `skeleton`
 - [Cutting the root of mind (rtsad gcod)](cutting-the-root-of-mind.md) — `skeleton`
 - [Cutting through (khregs chod)](trekcho.md) — `skeleton`
@@ -246,6 +248,7 @@ skeleton: 1299 · sourced: 223
 - [Discerning conditions (paccaya-pariggaha)](paccaya-pariggaha.md) — `skeleton`
 - [Discerning material groups (Pa-Auk)](rupa-kalapa-discernment.md) — `skeleton` _(recent)_
 - [Discerning the elements in the breath (tattva in svara)](svara-tattva-pariksa.md) — `skeleton`
+- [Discerning the field and its knower (kṣetra-kṣetrajña)](discerning-field-and-knower.md) — `skeleton`
 - [Discriminating the principles (Sāṃkhya in the Mokṣadharma)](tattva-discrimination-epic.md) — `skeleton`
 - [Discrimination of seer and seen (dṛg-dṛśya-viveka)](drg-drsya-viveka.md) — `skeleton`
 - [Discrimination of the eternal and the non-eternal](nityanitya-vastu-viveka.md) — `skeleton`

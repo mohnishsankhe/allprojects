@@ -16,4 +16,4 @@
 - corresponds-to-in-map → [Non-retrogression of those born in Sukhāvatī](non-retrogression-in-the-pure-land.md): in China placed after birth, in Shinran before death — rests on [vow11](../texts/sukhavativyuha-larger.md#tea-sukhavativyuha-larger-vow11), [1](../texts/mattosho.md#tea-mattosho-1)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 18:14 IST._

@@ -16,4 +16,4 @@ Discerning the body as earth, water, fire and air — briefly for the quick-witt
 - partial: [Reflection on the elements (dhātumanasikāra)](dhatumanasikara.md) — the sutta contemplation of elements (MN 10) (U36)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._

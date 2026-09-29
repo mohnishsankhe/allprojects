@@ -17,4 +17,4 @@ Singing devotional songs and names of the deity, usually in a group led by a lea
 - partial: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](kirtana.md)
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U26-regional-bhakti. Generated 2026-09-29 18:14 IST._

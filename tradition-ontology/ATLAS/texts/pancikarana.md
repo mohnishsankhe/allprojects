@@ -15,4 +15,4 @@ A short prose treatise on the quintuplication of the elements, the three bodies 
 **Commentaries on this text:** [Pañcīkaraṇavārttika](pancikarana-varttika.md)
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._

@@ -20,4 +20,4 @@ The great commentator of Valabhī whose Sanskrit commentaries on the Thirty Vers
 **Realization — the tradition's account:** Tāranātha tells that in a former life he was a pigeon who heard Vasubandhu recite the abhidharma daily, and was reborn human as a result.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

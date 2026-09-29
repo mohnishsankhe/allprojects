@@ -1,6 +1,6 @@
-# Terms (4769)
+# Terms (4781)
 
-skeleton: 4759 · sourced: 10
+skeleton: 4771 · sourced: 10
 
 - ['byor byed (bad kan)](jorje-beken.md) — `skeleton`
 - ['byung ba lnga](jungwa-nga.md) — `skeleton`
@@ -66,6 +66,7 @@ skeleton: 4759 · sourced: 10
 - [acintya-bhedābheda](acintya-bhedabheda.md) — `skeleton`
 - [acintya-vimokṣa](acintya-vimoksa.md) — `skeleton`
 - [acit](acit.md) — `skeleton`
+- [adambhitva](adambhitva.md) — `skeleton`
 - [adhar mānuṣ](adhar-manus.md) — `skeleton`
 - [adharma](adharma.md) — `skeleton`
 - [adharmāstikāya](adharmastikaya.md) — `skeleton`
@@ -207,6 +208,7 @@ skeleton: 4759 · sourced: 10
 - [amla](amla.md) — `skeleton`
 - [amuri](amuri.md) — `skeleton`
 - [amānava-puruṣa](amanava-purusa.md) — `skeleton`
+- [amānitva](amanitva.md) — `skeleton`
 - [amānta](amanta.md) — `skeleton`
 - [amūrtārcana](amurtarcana.md) — `skeleton`
 - [amṛta](amrta.md) — `skeleton`
@@ -283,6 +285,7 @@ skeleton: 4759 · sourced: 10
 - [anukampā (Jain)](anukampa.md) — `skeleton`
 - [anukramaṇī](anukramani.md) — `skeleton`
 - [anuloma-ñāṇa](anuloma-nana.md) — `skeleton`
+- [anumantṛ](anumantr.md) — `skeleton`
 - [anumiti](anumiti.md) — `skeleton`
 - [anumodanā](anumodana.md) — `skeleton`
 - [anumāna](anumana.md) — `skeleton`
@@ -756,6 +759,7 @@ skeleton: 4759 · sourced: 10
 - [bon sku](bonku.md) — `skeleton`
 - [Boṭika](botika.md) — `skeleton`
 - [brahmabhūta](brahmabhuta.md) — `skeleton`
+- [brahmabhūya](brahmabhuya.md) — `skeleton`
 - [brahmacakra](brahmacakra.md) — `skeleton`
 - [brahmacarya](brahmacarya.md) — `skeleton`
 - [brahmacārin](brahmacarin.md) — `skeleton`
@@ -1481,8 +1485,10 @@ skeleton: 4759 · sourced: 10
 - [jyotiṣka](jyotiska.md) — `skeleton`
 - [jyotiṣmatī](jyotismati.md) — `skeleton`
 - [jña](jna.md) — `skeleton`
+- [jñeya](jneya.md) — `skeleton`
 - [jñeyāvaraṇa](jneyavarana.md) — `skeleton`
 - [jñāna](jnana.md) — `skeleton`
+- [jñāna-cakṣus](jnana-caksus.md) — `skeleton`
 - [jñāna-karma-samuccaya](jnana-karma-samuccaya.md) — `skeleton`
 - [jñāna-yajña](jnana-yajna.md) — `skeleton`
 - [jñānabhūmikā](jnana-bhumika.md) — `skeleton`
@@ -1808,6 +1814,7 @@ skeleton: 4759 · sourced: 10
 - [kṛpā](krpa.md) — `skeleton`
 - [kṛta-yuga](krta-yuga.md) — `skeleton`
 - [kṛtaka](krtaka.md) — `skeleton`
+- [kṛtakṛtya](krtakrtya.md) — `skeleton`
 - [kṛtsnatapas](krtsnatapas.md) — `skeleton`
 - [kṛtsnāyatana](krtsnayatana.md) — `skeleton`
 - [kṛttikā](krttika-naksatra.md) — `skeleton`
@@ -1829,6 +1836,7 @@ skeleton: 4759 · sourced: 10
 - [kṣaṇikatva](ksanikatva.md) — `skeleton`
 - [kṣetra](ksetra.md) — `skeleton`
 - [kṣetrajña](ksetrajna.md) — `skeleton`
+- [kṣetrin](ksetrin.md) — `skeleton`
 - [kṣetriya](ksetriya.md) — `skeleton`
 - [kṣipta](ksipta.md) — `skeleton`
 - [kṣobha](ksobha.md) — `skeleton`
@@ -3365,6 +3373,7 @@ skeleton: 4759 · sourced: 10
 - [saṅga](sanga.md) — `skeleton`
 - [saṅgati](sangati.md) — `skeleton`
 - [saṅghabheda](samghabheda.md) — `skeleton`
+- [saṅghāta](sanghata.md) — `skeleton`
 - [saṅgīta](sangita.md) — `skeleton`
 - [saṅkalpa](samkalpa.md) — `skeleton`
 - [saṅkalpa](sankalpa.md) — `skeleton`
@@ -3578,6 +3587,7 @@ skeleton: 4759 · sourced: 10
 - [sādhana-catuṣṭaya](sadhana-catustaya.md) — `skeleton`
 - [sādhana-saptaka](sadhana-saptaka.md) — `skeleton`
 - [sādhana-saṅginī](sadhana-sangini.md) — `skeleton`
+- [sādharmya](sadharmya.md) — `skeleton`
 - [sādhu (Jain mendicant)](sadhu.md) — `skeleton`
 - [sādhu-saṅga](sadhu-sanga.md) — `skeleton`
 - [sādhu-śabda](sadhu-sabda.md) — `skeleton`
@@ -4061,6 +4071,7 @@ skeleton: 4759 · sourced: 10
 - [vikarma](vikarma.md) — `skeleton`
 - [vikathā](vikatha.md) — `skeleton`
 - [vikkhepa](vikkhepa.md) — `skeleton`
+- [vikāra](vikara.md) — `skeleton`
 - [vikṛti](vikrti.md) — `sourced`
 - [vikṛti](vikrti-patha.md) — `skeleton`
 - [vikṣepa](viksepa.md) — `skeleton`
@@ -4532,6 +4543,7 @@ skeleton: 4759 · sourced: 10
 - [ātman](atman.md) — `skeleton`
 - [ātmarati](atmarati.md) — `skeleton`
 - [ātmaupamya](atmaupamya.md) — `skeleton`
+- [ātmavinigraha](atmavinigraha.md) — `skeleton`
 - [ātmayājin](atmayajin.md) — `skeleton`
 - [ātmārtha-pūjā / svārtha-pūjā](atmartha-puja.md) — `skeleton`
 - [ātmārthī](atmarthi.md) — `skeleton` _(recent)_

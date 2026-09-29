@@ -13,4 +13,4 @@ Accumulating merit, purifying wrongdoing, offering torma to harmful spirits (tha
 _Notes: Members follow the commentaries (recalled)._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 18:14 IST._

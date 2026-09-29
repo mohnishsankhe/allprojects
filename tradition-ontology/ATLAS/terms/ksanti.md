@@ -11,6 +11,7 @@
 - [Yogācāra](../lineages/yogacara.md): Third aid to penetration: abiding in mind-only, the distraction of the grasped object is abandoned; also the perfection of patience.
 - [Sarvāstivāda](../lineages/sarvastivada.md): Acceptance: the third root of penetration (one who obtains it never goes to bad destinies); also the pure acceptances of the path of seeing, uninterrupted paths.
 - [Mahāyāna](../lineages/mahayana.md): The third perfection, shown when the king of Kaliṅga cut the Buddha's limbs and he had no notion of self; also the 'acceptance' of dharmas' non-arising.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: Forbearance, among the items called knowledge (13.8).
 
 ## Forms in other languages
 - Tibetan: bzod pa  — exact
@@ -23,4 +24,8 @@
 **Related:** [nirvedha-bhāgīya](nirvedhabhagiya.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U38-early-schools, skeleton:U39-mahayana-sutras. Generated 2026-09-29 18:11 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:13.8 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U38-early-schools, skeleton:U39-mahayana-sutras, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 18:14 IST._

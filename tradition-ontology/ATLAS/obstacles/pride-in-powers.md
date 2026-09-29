@@ -13,4 +13,4 @@ Pride in forceful yogic techniques or attainments ('out of pride they call thems
   - [Caturaśītisiddhabodhihṛdaya (the realization songs of the eighty-four)](../texts/caturasiti-siddha-bodhihrdaya.md) — ref: 37; rests_on: ["tea:caturasiti-siddha-bodhihrdaya:37"]
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

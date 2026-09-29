@@ -10,4 +10,4 @@
 Painter and sculptor Karmapa who lived years in exile during the wars of the 1640s that brought the Fifth Dalai Lama's government to power.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

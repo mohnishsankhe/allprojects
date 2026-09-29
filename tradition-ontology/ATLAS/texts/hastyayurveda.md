@@ -12,4 +12,4 @@
 The elephant medicine of Pālakāpya, framed as his dialogue with King Romapāda.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 18:14 IST._

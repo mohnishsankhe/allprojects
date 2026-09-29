@@ -34,4 +34,4 @@ The paths themselves are supramundane jhāna for both vehicles; disagreement rem
 **The traditions' own objections:** Pa-Auk teachers hold that momentary concentration of noting practice does not suffice to see ultimate realities; Mahāsi teachers deny that jhāna is required.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 18:14 IST._

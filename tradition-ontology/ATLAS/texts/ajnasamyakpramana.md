@@ -109,4 +109,4 @@ terms: [antarābhava](../terms/antarabhava.md), [abhiṣeka](../terms/abhiseka.m
 _Notes: Tōh 2331. The ascription to Tilopa is from memory of the catalogue and is not stated in the text read._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

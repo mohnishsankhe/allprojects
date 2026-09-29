@@ -23,4 +23,4 @@
 **Related:** [dharmatā](dharmata.md), [dharmadhātu](dharmadhatu.md), [bhūtakoṭi](bhutakoti.md), [pariniṣpanna-svabhāva](parinispanna-svabhava.md), [tattva](tattva.md), [śūnyatā](sunyata.md)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._

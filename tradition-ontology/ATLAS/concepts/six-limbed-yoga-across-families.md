@@ -19,4 +19,4 @@
 _Notes: Same names in different orders with different contents and goals; the Kālacakra tradition defines each limb by its own signs. See brw:sadanga-yoga-shared-limbs (U44) and brw:sadanga-yoga-maitri-to-mantramarga (U49)._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 18:14 IST._

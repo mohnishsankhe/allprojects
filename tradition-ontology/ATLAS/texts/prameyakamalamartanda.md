@@ -39,4 +39,4 @@ concepts: [Liberation of women (strī-mukti)](../concepts/strimukti.md), [Physic
 _Notes: Id already used by another unit (U31); U35 adds its Jain-doctrinal contents._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon, skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon, skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._

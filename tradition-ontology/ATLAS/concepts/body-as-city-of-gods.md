@@ -15,4 +15,4 @@
 _Notes: Readings of 'eight wheels' as the body's centres (cakras) are later and interpretive; not asserted._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 18:14 IST._

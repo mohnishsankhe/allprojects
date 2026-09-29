@@ -14,4 +14,4 @@ Recognizing, through the revealed powers of knowing and acting present in every 
   - [Pratyabhijñāhṛdaya](../texts/pratyabhijnahrdayam.md) — ref: 13; rests_on: ["tea:pratyabhijnahrdayam:13"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 18:14 IST._

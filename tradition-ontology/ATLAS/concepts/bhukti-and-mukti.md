@@ -20,4 +20,4 @@
 - corresponds-to-in-map → [Powers (siddhi) and the sādhaka in the Mantramārga](siddhi-in-mantramarga.md) (Śaiva)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U49-cross-family, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U49-cross-family, skeleton:U08-agama-catalogue. Generated 2026-09-29 18:14 IST._

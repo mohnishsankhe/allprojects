@@ -24,4 +24,4 @@
 _Notes: U01 contribution: the Vedic locus only. Śaiva units contribute the mantra's doctrine and practice._
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U22-tamil-siddha, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U22-tamil-siddha, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 18:14 IST._

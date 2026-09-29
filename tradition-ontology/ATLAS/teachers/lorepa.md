@@ -11,4 +11,4 @@
 Disciple of Tsangpa Gyare, founder of the Lower Drukpa, known for strict renunciate discipline.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 18:14 IST._

@@ -30,4 +30,4 @@ Both: some seeds are innate — including the pure seeds of the lineage — and 
 _Notes: Names of the masters holding each view are recalled from Kuiji's commentary; 'reported_by_opponent' marks that they are known only through the Cheng weishi lun._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 18:14 IST._

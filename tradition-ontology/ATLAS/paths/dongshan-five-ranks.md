@@ -19,4 +19,4 @@
 Bands are an interpretive, low-confidence alignment: Caoshan and the Baojing sanmei present the ranks as relations of lord and minister, real and apparent, not necessarily a sequence; Hakuin's line studies them as a late stage of kōan training. The fourth rank's wording varies between sources.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

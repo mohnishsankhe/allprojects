@@ -9,4 +9,4 @@
 Indian master of the six-branch yoga (c. 1200) who fled to Nepal and Tibet after the fall of the monasteries; source of a six-branch lineage.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 18:14 IST._

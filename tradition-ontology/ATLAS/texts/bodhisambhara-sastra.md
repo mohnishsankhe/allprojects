@@ -17,4 +17,4 @@ Verses ascribed to Nāgārjuna on the collections for awakening — the perfecti
   - kind: translation; name: Taishō T1660 — catalog:CBETA:T32n1660
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 18:14 IST._

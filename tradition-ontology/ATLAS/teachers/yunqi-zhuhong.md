@@ -18,4 +18,4 @@ Late-Ming reviver of monastic discipline at Yunqi si who joined Chan and Pure La
 _Notes: Shared with U42._
 
 ---
-_Contributed by: skeleton:U43-pure-land, skeleton:U42-chan-zen. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U43-pure-land, skeleton:U42-chan-zen. Generated 2026-09-29 18:14 IST._

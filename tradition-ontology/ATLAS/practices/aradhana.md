@@ -15,4 +15,4 @@ Under an experienced guide (niryāpaka), the practitioner perfects faith, knowle
 - To be undertaken only with the guide's supervision and when the body can no longer sustain the discipline; not from despair, desire for death, or desire for a reward. — [Bhagavatī Ārādhanā](../texts/bhagavati-aradhana.md) 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 18:14 IST._

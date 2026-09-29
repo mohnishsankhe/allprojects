@@ -14,4 +14,4 @@
 - part-of → [The critique of māyā (māyāvāda-khaṇḍana)](mayavada-khandana.md): the reading of 6.8.7 is one plank of the critique of Advaita — rests on [1/4](../texts/visnutattvavinirnaya.md#tea-visnutattvavinirnaya-1-4)
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 18:14 IST._

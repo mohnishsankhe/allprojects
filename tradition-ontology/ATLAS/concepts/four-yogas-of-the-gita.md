@@ -9,6 +9,7 @@
 
 ## Definitions
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The Gītā names two ancient paths, knowledge for the Sāṃkhyas and action for the yogins (3.3), holds them one in result (5.4–5), adds meditation (ch. 6) and devotion (chs. 7–12), and states that some see the self by meditation, some by Sāṃkhya, some by action, and some by worship after hearing (13.24–25). Commentators rank them differently (see dsp:gita-primary-teaching).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: Some see the self in themselves by themselves through meditation, others by the yoga of sāṃkhya, others by the yoga of action (13.25); others, not knowing thus, worship after hearing from others and they too cross death (13.26); unswerving bhakti-yoga carries one beyond the guṇas (14.26). The verses set these side by side without ranking them.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Ch. 12 offers, by capacity, fixing mind and understanding on the Lord (12.8), the yoga of practice (12.9), work for the Lord (12.10) and relinquishing the fruit of all actions (12.11); it then ranks knowledge above practice, meditation above knowledge and relinquishing the fruit of actions above meditation, peace following on relinquishment (12.12).
 
 ## Relations (interpretation layer)
@@ -17,6 +18,7 @@
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:13.25, tea:bhagavad-gita:13.26, tea:bhagavad-gita:14.26 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.8, tea:bhagavad-gita:12.9, tea:bhagavad-gita:12.10, tea:bhagavad-gita:12.11, tea:bhagavad-gita:12.12 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 18:14 IST._

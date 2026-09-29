@@ -66,4 +66,4 @@ Sound is a non-eternal quality of ether: it has a beginning and is spoken of as 
 _Notes: Opponents' positions summarized from general knowledge; references chapter-level._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U31-sound-arts. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, skeleton:U31-sound-arts. Generated 2026-09-29 18:14 IST._

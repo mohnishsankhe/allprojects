@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Methods as means (prakriyā principle)](prakriya-principle.md): both treat teachings as means relative to the student — rests on [3.15](../texts/mandukya-karika.md#tea-mandukya-karika-3-15), [1.4.402](../texts/brhadaranyaka-bhasya-varttika.md#tea-brhadaranyaka-bhasya-varttika-1-4-402)
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._

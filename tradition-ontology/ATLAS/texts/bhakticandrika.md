@@ -16,4 +16,4 @@ A commentary on the Śāṇḍilya Bhakti Sūtra ascribed to Nārāyaṇa Tīrth
 _Notes: Recalled as printed with the sūtras (Sarasvatī Bhavana series); which Nārāyaṇa Tīrtha wrote it is uncertain — several authors share the name (see tch:narayana-tirtha)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 18:14 IST._

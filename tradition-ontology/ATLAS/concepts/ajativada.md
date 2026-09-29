@@ -14,4 +14,4 @@
 - contrasts-with → [Emptiness (śūnyatā) in Madhyamaka](sunyata.md): Gauḍapāda's non-origination is of the non-dual self; the Madhyamaka's is of all dharmas without a remaining self — the Advaita tradition insists on the difference (GK 4.99) — rests on [4.22](../texts/mandukya-karika.md#tea-mandukya-karika-4-22), [1.1](../texts/mulamadhyamakakarika.md#tea-mulamadhyamakakarika-1-1), [4.99](../texts/mandukya-karika.md#tea-mandukya-karika-4-99)
 
 ---
-_Contributed by: skeleton:U49-cross-family, skeleton:U13-advaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U49-cross-family, skeleton:U13-advaita. Generated 2026-09-29 18:14 IST._

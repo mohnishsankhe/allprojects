@@ -232,4 +232,4 @@ concepts: [Teacher, pupil and the handing down of jyotiṣa](../concepts/jyotisa
 _Notes: Commentary: Bhaṭṭotpala (Saṃhitāvivṛti). Local e-text: GRETIL._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._

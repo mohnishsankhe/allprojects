@@ -15,4 +15,4 @@ Expecting success from favourable planets, asterisms and times alone, or from ma
 - partial: [Reliance on fate](daiva-paratva.md) — both warn against leaning on fate instead of effort; Varāhamihira still requires fate and good timing alongside effort, the Yoga Vāsiṣṭha denies fate any power of its own
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 18:14 IST._

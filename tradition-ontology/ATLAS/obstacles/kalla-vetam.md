@@ -12,4 +12,4 @@ The hypocrite's ascetic costume: 'do not put on a false garb' (Kaṭuveḷi 33);
   - [Kutampaic cittar pāṭalkaḷ (the songs of Kuṭampai)](../texts/kudambai-padalgal.md) — ref: 26; rests_on: ["tea:kudambai-padalgal:26"]
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 18:14 IST._

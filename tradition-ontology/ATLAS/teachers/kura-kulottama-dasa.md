@@ -10,4 +10,4 @@
 Disciple of Piḷḷai Lokācārya who, the tradition says, preserved and passed on his teacher's doctrine to Tiruvāymoḻi Piḷḷai.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 18:14 IST._

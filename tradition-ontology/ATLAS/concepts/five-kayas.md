@@ -13,4 +13,4 @@
 - is-a → [The three bodies (śarīra-traya)](three-bodies.md): an expanded form of the trikāya — rests on [13](../texts/guhyagarbha-tantra.md#tea-guhyagarbha-tantra-13)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 18:14 IST._

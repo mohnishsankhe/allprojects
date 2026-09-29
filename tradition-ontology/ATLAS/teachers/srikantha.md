@@ -11,4 +11,4 @@
 Author of the Śaiva Brahmasūtrabhāṣya: Śiva with his cit-śakti is Brahman; souls and world are his body; Veda and Śivāgama are equal; liberation is equality with Śiva.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 18:14 IST._

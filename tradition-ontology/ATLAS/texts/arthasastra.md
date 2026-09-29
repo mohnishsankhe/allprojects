@@ -73,4 +73,4 @@ terms: [ājīvika](../terms/ajivika.md)
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:GRETIL-dev:kautilya_arthasastra, catalog:eBharati:kauTilIyam_arthashAstram, https://en.wikipedia.org/wiki/Arthashastra — Extant; 15 adhikaraṇas and 150 adhyāyas (counted in the local GRETIL text). Wikipedia: foundational sources date from the 2nd c. BCE to the 1st c. CE, with redaction c. 175–300 CE (Olivelle); the tradition names Kauṭilya/Cāṇakya. This matches the entry's two accounts.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U33-sramana. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U33-sramana. Generated 2026-09-29 18:14 IST._

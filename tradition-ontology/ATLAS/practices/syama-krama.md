@@ -14,4 +14,4 @@ Worship of Śyāmā/Rājamātaṅgī, Lalitā's minister, with her own cakra and
 **Sequences:** [The Śrīvidyā sequence of initiation and worship (Paraśurāma Kalpasūtra)](../paths/srividya-krama-diksa.md)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:11 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 18:14 IST._
