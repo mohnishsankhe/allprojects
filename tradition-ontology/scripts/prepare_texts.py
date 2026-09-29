@@ -179,10 +179,23 @@ def sharada_parse(fname):
     segs, heads, buf = [], {}, []
     marker = re.compile(r"॥\s*([०-९0-9]+)\s*॥")
 
+    colophon = re.compile(r"इ[तद]ि?\s*\S*(भाष्य|खण्ड|वल्ली|अध्याय|प्रपाठक|उपनिष)\S*[^॥]*॥|इत्य\S*भाष्य\S*[^॥]*॥|इति\s+श्रीमत्[^॥]*॥")
+    invoc = re.compile(r"^(.{0,600}?ॐ\s*शान्तिः\s*शान्तिः\s*शान्तिः\s*॥)")
+
     def flush():
         text = " ".join(x.strip() for x in buf if x.strip() and x.strip() != "**")
         buf.clear()
+        text = colophon.sub(" ", text).strip()
+        inv = None
+        mi = invoc.match(text)
+        # split off a śānti invocation only when real text follows it (in TU 1.1 the invocation IS the section's text)
+        if mi and not marker.search(mi.group(1)) and re.sub(r"[\s॥।०-९0-9]", "", text[mi.end():]):
+            inv, text = mi.group(1).strip(), text[mi.end():].strip()
         pos = 0
+        if text and not marker.search(text):
+            # a section whose text carries no verse number (e.g. TU 3.8, 3.9): keep it as verse 1 of the section
+            text = text.rstrip("। ॥") + " ॥ १ ॥"
+            state["_unnumbered"] = True
         for m in marker.finditer(text):
             chunk = text[pos:m.start()].strip()
             pos = m.end()
@@ -198,8 +211,13 @@ def sharada_parse(fname):
                 state.setdefault("subrun", {})[key] = str(max(prev) + 1 if prev else 1)
             sub = state.get("subrun", {}).get(key)
             parts = base + ([sub, n] if sub else [n])
-            segs.append({"ref": ".".join(parts), "chapter": chap, "verse": (sub + "." + n) if sub else n,
-                         "deva": chunk, "iast": iast(chunk), "_top": top})
+            sg = {"ref": ".".join(parts), "chapter": chap, "verse": (sub + "." + n) if sub else n,
+                  "deva": chunk, "iast": iast(chunk), "_top": top}
+            if inv:
+                sg["invocation_deva"], sg["invocation_iast"], inv = inv, iast(inv), None
+            if state.pop("_unnumbered", False):
+                sg["note"] = "the edition prints this section without a verse number; numbered 1 here"
+            segs.append(sg)
         tail = text[pos:].strip()
         if tail and segs:
             segs[-1].setdefault("trailing", tail)

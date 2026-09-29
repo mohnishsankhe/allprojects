@@ -53,13 +53,13 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U38-early-schools | done | 31 lin · 85 src · 47 tch · 197 tea (114 AK kārikās quoted) · 181 trm · 62 cpt · 25 prc · 18 dsp · 50 brw | report saved |
 | U39-mahayana-sutras | done | 2 lin · 98 src · 53 tch · 265 tea (171 located locally, 91 originals) · 139 trm · 87 cpt · 38 prc · 8 dsp | report saved |
 | U40-madhyamaka | done | 4 lin · 70 src · 30 tch · 228 tea (105 MMK with GRETIL originals; 159 originals) · 124 trm · 76 cpt · 21 prc · 7 dsp | report saved |
-| U41-yogacara-pramana | running (resumed) | | |
+| U41-yogacara-pramana | done | 7 lin · 120 src · 51 tch · 177 tea (91 originals checked locally) · 198 trm · 71 cpt · 22 prc · 15 dsp | report saved |
 | U42-chan-zen | running | | |
 | U43-pure-land | running | | |
 | U44-indian-vajrayana | running | | |
 | U45-nyingma-bon | running | | |
 | U46-kagyu | running | | |
-| U47-sakya-kadam-gelug | queued | | |
+| U47-sakya-kadam-gelug | running | | |
 | U48-jonang-chod-medicine-rime | queued | | |
 | U49-cross-family | queued | | |
 | U50-debates | queued | | |
@@ -80,7 +80,8 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U05-gita-epic | done — 689 checked: 683 confirmed · 5 partial · 1 corrected · 0 not-found |
 | U01-vedic-samhitas | done — 502 checked: 492 confirmed · 9 partial · 1 corrected (RV 10.88.15 srutī) · 0 not-found |
 | U02-brahmana-vedanga | done — 723 checked: 689 confirmed · 17 partial · 17 corrected · 0 not-found (157 terms not in scope) |
-| U03-principal-upanisads | running |
+| U03-principal-upanisads | done — 736 checked: 729 confirmed · 2 partial · 5 corrected (fabricated default edition strings) · 0 not-found |
+| U04-minor-upanisads | running |
 ### Sweep follow-ups (for Phase D / S5 / later sweeps)
 - C-U05: tea:moksadharma:12.289 — the arrow-maker simile is at 12.171.61, not 12.289 (12.289.31 has an archer); fix in extraction. tch:hanuman summary says "four sciences" but MBh 3.149.31 says three (tisro vidyāḥ) — shared by U04/U06/U05, fix in S5. U13 sweep: check tch:sankara's dating framing (788–820 CE is the older scholarly convention, not "most maṭha traditions"; Kāñcī gives 509–477 BCE). tea:vyadha-gita:3.197 has ref "3.196-197".
 
@@ -88,6 +89,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 - S4 note: prc:mahamrtyunjaya-japa has method summaries from U01 (Vedic) and U32 (jyotiṣa remedy) — merge must keep both as per-lineage content, not let one replace the other. U32 kuja-dosa and kāla-sarpa entries have no classical verse located (recent/unsourced — sweep first).
 - C/Phase D note (U37): the 'sixteen insight knowledges' are a later systematization (Vism has 9 within the 6th purification, Abhidhammatthasaṅgaha 10); the heart-base is commentarial (Paṭṭhāna names only 'the matter in dependence on which'). prc:nesajjikanga flagged restricted.
 - S5 note (U39): tch:maitreya-bodhisattva = U36's tch:metteyya (same figure, Pali/Sanskrit ids; relate, do not merge ids blindly — tch:maitreya is the Upaniṣadic sage); trm:vyakarana-prediction ≠ trm:vyakarana (grammar).
+- C-U03 fidelity notes for Upaniṣad extraction: BĀU 4.3.33 (learned brahmin clause applies from gods-by-birth up), ChU 5.2.4-8 (consecration new moon, rite full moon), MaiU 3.5 lists loose, 'Viśvajit' at KU 1.1.1 is Śaṅkara's gloss; tch:usasti-cakrayana identity (Uṣasti ChU = Uṣasta BĀU) unsupported. Prepared TU segments lacked 3.8–3.9 (no verse marks) — FIXED 09-29 (TU now 51 units; see DECISIONS). Generator default edition strings were fabricated in U03 — watch for the same in other units' sweeps.
 - S5 dedupe candidates (reported by units): U04 prc:mahabandha-mahavedha → U29 prc:mahabandha + prc:mahavedha; U24 cpt:satkarma (tantric six acts) ≠ U28 cpt:satkarma-doctrine (haṭha six acts) — never merge; U28/U29 overlapping HYP/GS range teachings (≈53) — Phase D decides; U10's YBh 2.46 paraphrase may omit vīrāsana; cpt:vyoma-pancaka (U04) = cpt:five-vyomas (U21); cpt:three-laksyas categories differ U04/U21; prc:viparitakarani (U28/U29) vs prc:viparita-karani (U21); prc:sanmukhi-mudra vs prc:shanmukhi-mudra (U04); tea overlaps on U04's Śākta Upaniṣad range teachings vs U23's verse teachings (fidelity pass decides levels).
 
 ## Gap hunter (after C)
@@ -107,7 +109,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 Prepared verse-level segments (sources_raw/prepared/, git-ignored) as of 2026-09-28 04:51 IST:
 - [x] bhagavad-gita (701 verses; gita/gita vulgate) — 6 chunks of 3 chapters
 - [x] yoga-sutra (195 sūtras + Vyāsa bhāṣya; GRETIL, Āgāśe ed.) — 4 chunks (pādas)
-- [x] principal Upaniṣads (Advaita Śāradā mūla, traditional numbering): īśa 18, kena 35, kaṭha 120, praśna 67, muṇḍaka 65, taittirīya 48 units, aitareya 33, chāndogya 629, bṛhadāraṇyaka 441, śvetāśvatara 113, kauṣītaki 51; māṇḍūkya 12 (GRETIL); maitrī 73 (below)
+- [x] principal Upaniṣads (Advaita Śāradā mūla, traditional numbering): īśa 18, kena 35, kaṭha 120, praśna 67, muṇḍaka 65, taittirīya 51 units (1.12, 3.8, 3.9 recovered 09-29), aitareya 33, chāndogya 629, bṛhadāraṇyaka 441, śvetāśvatara 113, kauṣītaki 51; māṇḍūkya 12 (GRETIL); maitrī 73 (below)
 - [x] Pali (bilara-data, CC0 with Sujato): DN 22 (22 sections), MN 10 (41), MN 118 (43), SN 56.11 (14), Dhammapada (423 verses)
 - [x] sāṃkhya-kārikā (72; GRETIL/Jayamaṅgalā ed.), māṇḍūkya-kārikā (214; GRETIL), vijñāna-bhairava (162), śiva-sūtra (75 in Bhāskara's recension = 77 in Kṣemarāja's; refs to be given in Kṣemarāja's numbering), spanda-kārikā (53)
 - [x] haṭha-yoga-pradīpikā (387 verses), platform sūtra (CBETA T2008 162 sections; Dunhuang T2007 86), heart (T251 9; Sanskrit short 10), diamond (CBETA T235 127)

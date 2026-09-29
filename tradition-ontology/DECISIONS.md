@@ -94,3 +94,13 @@ Conservative choices made without asking, with reasons. Newest last.
 - Śāntarakṣita's Tattvasaṅgraha: U09 cited it as `src:tattvasangraha-santaraksita`; U12, U31 and U40 use `src:tattvasangraha` (Sadyojyoti's work is `src:tattvasangraha-sadyojyoti`). U09's reference remapped to `src:tattvasangraha`.
 - Homonyms kept apart by U40: `tch:haribhadra-buddhist` (Ālokā author) vs `tch:haribhadra` (Jain); `tch:jayananda-madhyamaka` vs `tch:jayananda` (Bengali Vaiṣṇava poet).
 - U40 note: MMK 24.18 alone states the identity of dependent origination, emptiness, dependent designation and the middle way (24.19 says no dharma is non-empty because none is not dependently arisen).
+
+## 2026-09-29 17:00 IST — U41 lineages and dispute overlaps
+- New lineages accepted (real, named schools or doxographic divisions): `lin:satyakaravada`, `lin:alikakaravada` (sub-divisions of Yogācāra per the Indian/Tibetan doxographies), `lin:dilun`, `lin:shelun` (Chinese Yogācāra-lineage schools), `lin:hosso` (Japanese Faxiang).
+- Dispute overlaps for S6: `dsp:are-things-momentary` (U09) ≈ `dsp:momentariness` (U11); `dsp:object-independent-of-mind` (U10) ≈ `dsp:external-objects`. Not remapped (each may carry a differently framed question); S6 relates them or merges sides with a logged decision.
+- Pramāṇavārttika teaching ids in U41 follow the local e-text's chapter order (1 Pramāṇasiddhi, 2 Pratyakṣa, 3 Svārthānumāna, 4 Parārthānumāna); each teaching's notes give the usual (Tibetan/Miyasaka) citation. Later extraction must keep one convention and say which.
+
+## 2026-09-29 17:04 IST — Taittirīya preparation fix (sharada_parse)
+- The Phase C sweep of U03 found TU 3.8–3.9 missing from the prepared text. Cause: the advaita-shAradA edition prints TU 1.12, 3.8 and 3.9 without a verse number, and the parser silently dropped sections with no number.
+- Fix (conservative, nothing invented): a section with no number is kept as verse 1 of that section, with a note saying the edition prints it unnumbered. The śānti invocations before TU 2.1 and 3.1 are kept in separate fields (invocation_deva/_iast) rather than merged into the first verse. In TU 1.1 the invocation is the section's own text, so it stays as the text. Commentary colophons ("iti śrīmat… bhāṣye …") are stripped.
+- Result: TU has 51 segments (48 before). New: 1.12.1, 3.8.1, 3.9.1. Every earlier ref keeps its number. The other ten Upaniṣads keep their segment counts.
