@@ -48,4 +48,4 @@ concepts: [The six elements](../concepts/six-dhatus.md), [The four noble truths 
 _Notes: SuttaCentral uid an3.61; Mahāsaṅgīti title 'Titthāyatanasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 23:16 IST._

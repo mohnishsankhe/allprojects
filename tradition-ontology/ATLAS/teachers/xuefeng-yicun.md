@@ -11,4 +11,4 @@
 Heir of Deshan in Fujian with a huge community; ancestor of the Yunmen and Fayan houses.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

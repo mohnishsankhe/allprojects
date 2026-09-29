@@ -40,4 +40,4 @@ terms: [citta](../terms/citta.md), [nirodha](../terms/nirodha.md) · concepts: [
 _Notes: Nāgeśa is reported to have written a longer and a shorter vṛtti (Bṛhatī, Laghvī) — which one the local raw_etexts file contains is not verified._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 23:16 IST._

@@ -18,4 +18,4 @@ The Sanskrit text gives the mantra after the praise (great mantra, mantra of gre
 - 2026-09-29 text: confirmed — tea:prajnaparamita-hrdaya:s9 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 - 2026-09-29 text: confirmed — tea:prajnaparamita-hrdaya:2.6, tea:prajnaparamita-hrdaya:2.8, tea:prajnaparamita-hrdaya:s9 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:prajnaparamita-hrdaya-sanskrit-short/all, extraction:prajnaparamita-hrdaya/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:prajnaparamita-hrdaya-sanskrit-short/all, extraction:prajnaparamita-hrdaya/all. Generated 2026-09-29 23:16 IST._

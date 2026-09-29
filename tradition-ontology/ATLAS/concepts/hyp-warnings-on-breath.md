@@ -22,4 +22,4 @@ _Notes: The verses quoted are safety teachings of the text; the practices they c
 
 - definitions[0].definition: J check (insight-p1-single+spot): Quotation check by code: the 3.13 caution reads 'recayennaiva vegataḥ', not 'na vegataḥ'; the text's own limits 'yathāśakti' (2.7, 3.21) and 'svalpaṃ prathamasādhanam' (3.31), found by the J caution scan, were missing. All quoted verbatim from the segments.
 
-_Contributed by: extraction:hatha-yoga-pradipika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:hatha-yoga-pradipika/all. Generated 2026-09-29 23:16 IST._

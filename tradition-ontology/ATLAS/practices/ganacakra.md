@@ -15,4 +15,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - Open only to those with consecration and pledges ('endowed with sign and pledge'). — [Dohākoṣa-upadeśagīti of Saraha (the 'Queen Dohā')](../texts/dohakosa-queen-saraha.md) v41
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:16 IST._

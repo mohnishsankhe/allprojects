@@ -12,4 +12,4 @@
 The corpus of palm-leaf 'nāḍī' readings — Agastya, Kauśika, Bhṛgu, Śiva and other nāḍīs — which the tradition holds were written by the seers for each future consultant, organized by thumb-impression classes and chapters (kāṇḍa) on life, past births and remedies.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:16 IST._

@@ -14,4 +14,4 @@
 Stories of the heavenly mansions (vimāna): deities tell Moggallāna and others what meritorious deed — often a small gift or act of faith — led to their celestial rebirth.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

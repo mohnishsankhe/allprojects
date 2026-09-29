@@ -17,4 +17,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - Only the siddha, free of lust, is qualified; for others it is a fall into kāma. — [Amṛtaratnāvalī](../texts/amrtaratnavali.md) 
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

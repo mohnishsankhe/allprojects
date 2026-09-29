@@ -26,4 +26,4 @@ terms: [lam khyer (carrying onto the path)](../terms/lamkhyer.md) · concepts: [
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

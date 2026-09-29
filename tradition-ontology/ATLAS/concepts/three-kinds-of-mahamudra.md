@@ -17,4 +17,4 @@
 _Notes: The threefold terminology is associated with Jamgön Kongtrul and later Karma Kagyu teachers (recent systematization); its earlier history is not certain here._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

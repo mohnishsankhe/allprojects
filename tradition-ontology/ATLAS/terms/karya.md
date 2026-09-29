@@ -17,4 +17,4 @@
 **Related:** [vidyā](vidya.md), [kāla](kala.md), [paśu](pasu.md), [niyoga](niyoga.md), [apūrva](apurva.md)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U12-mimamsa. Generated 2026-09-29 23:16 IST._

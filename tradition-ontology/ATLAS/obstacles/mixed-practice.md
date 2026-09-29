@@ -13,4 +13,4 @@ Abandoning exclusive practice for mixed practices: mind disturbed by conditions,
   - [Resolving the Many Doubts about the Pure Land (Shi jingtu qunyi lun)](../texts/shi-jingtu-qunyi-lun.md) — ref: 50c14-20; rests_on: ["tea:shi-jingtu-qunyi-lun:50c07"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

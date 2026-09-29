@@ -15,4 +15,4 @@ The great Kashmiri Vaibhāṣika who defended orthodoxy against Vasubandhu's Sau
 **Realization — the tradition's account:** Xuanzang relates that he spent twelve years composing a refutation of the Kośa and set out to debate Vasubandhu, who declined; Saṅghabhadra died before they met and Vasubandhu renamed his work Nyāyānusāra.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

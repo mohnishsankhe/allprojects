@@ -23,4 +23,4 @@ Their own seven Abhidharma books are the Buddha's teaching compiled by disciples
 **Candidate readings:** P1-level: the Theravāda's own distinction between teaching in conventional terms (suttas) and in ultimate terms (Abhidhamma); The tradition's account and the scholarly account (later compilation) are kept apart as metadata, not reconciled
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:16 IST._

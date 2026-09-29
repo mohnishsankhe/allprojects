@@ -22,4 +22,4 @@ _Notes: Structure count from memory (moderate-low)._
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Kāṭhakasaṃhitā, https://vedicheritage.gov.in/samhitas/yajurveda/krishna-yajurveda/caraka-kathaka-samhita/, https://www.hindu-blog.com/2021/09/kathaka-samhita-of-yajur-veda.html — Extant; 'divided into five books (granthas), the first three subdivided into forty chapters (sthānakas)' — the entry's '40 sthānakas plus appended sections' is confirmed. Kaṭha as pupil of Vaiśampāyana confirmed via Pāṇini 4.3.104 (see tch:katha).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:16 IST._

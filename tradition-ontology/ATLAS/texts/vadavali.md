@@ -27,4 +27,4 @@ terms: [mithyātva](../terms/mithyatva.md) · concepts: [The reality of the worl
 
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:16 IST._

@@ -13,4 +13,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - Austerity is to be undertaken according to one's strength; fasting for fame or reward (nidāna) is faulty. — [Daśāśrutaskandha](../texts/dasasrutaskandha.md) 10
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

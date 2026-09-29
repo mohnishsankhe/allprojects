@@ -22,4 +22,4 @@
 _Notes: U39 contributes the sūtra-layer definition under the same id. The P definition's doxographic claim is the Tibetan tenet-system (grub mtha') account, recorded as such._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U39-mahayana-sutras, skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U39-mahayana-sutras, skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

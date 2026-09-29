@@ -11,4 +11,4 @@ Savoring dhyāna and samādhi without skillful means is the bodhisattva's bondag
   - [Vimalakīrtinirdeśa](../texts/vimalakirtinirdesa.md) — ref: 4.16; rests_on: ["tea:vimalakirtinirdesa:4.16"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:16 IST._

@@ -21,4 +21,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:18.25, tea:bhagavad-gita:18.27 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch16-18, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch16-18, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

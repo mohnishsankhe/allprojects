@@ -20,4 +20,4 @@ The Kārikā makes fearlessness, ending of sorrow, awakening and peace depend on
 
 - 2026-09-29 text: confirmed — tea:mandukya-karika:3.40, tea:mandukya-karika:3.41, tea:mandukya-karika:3.42, tea:mandukya-karika:3.43, tea:mandukya-karika:3.44, tea:mandukya-karika:3.45, tea:mandukya-karika:3.46 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

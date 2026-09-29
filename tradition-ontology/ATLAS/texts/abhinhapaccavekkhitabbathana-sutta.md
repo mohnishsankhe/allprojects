@@ -31,4 +31,4 @@ terms: [kammassaka](../terms/kammassaka.md) · practices: [The five subjects for
 _Notes: SuttaCentral uid an5.57; Mahāsaṅgīti title 'Abhiṇhapaccavekkhitabbaṭhānasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

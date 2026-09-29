@@ -21,4 +21,4 @@
 - obstructs → [Direct knowledge of God (aparokṣa-jñāna)](aparoksa-jnana.md): the second covering hides the knowledge of the Supreme — rests on [10.87.14](../texts/bhagavata-tatparya-nirnaya.md#tea-bhagavata-tatparya-nirnaya-10-87-14)
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U14-visistadvaita. Generated 2026-09-29 23:16 IST._

@@ -28,4 +28,4 @@ terms: [kiriyavāda](../terms/kiriyavada.md), [akiriyavāda](../terms/akiriyavad
 _Notes: The gāthā 'asiyasayaṃ kiriyāṇaṃ …' was checked as quoted in the Abhidhāna-rājendra; its verse number in the niryukti is not recalled (chapter-level ref)._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:16 IST._

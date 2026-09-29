@@ -16,4 +16,4 @@
 The Chinese 'middle-length discourses' of the Sarvāstivāda, parallel to the Majjhima Nikāya and parts of the Aṅguttara (e.g. MĀ 98 Nianchu jing ↔ MN 10; MĀ 81 ↔ MN 119; MĀ 16 ↔ AN 3.65).
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

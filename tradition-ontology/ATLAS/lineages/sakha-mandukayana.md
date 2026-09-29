@@ -36,4 +36,4 @@ _Notes: Name only; nothing of its text is known to survive._
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/caranavyuha, https://en.wikipedia.org/wiki/Shakha — Confirmed as a name in Śaunaka's list of five Ṛgveda śākhās, with no surviving text — as the entry says. (AVPariś 49 lists 'māṇḍūkāḥ' among seven.)
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:16 IST._

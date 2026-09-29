@@ -23071,10 +23071,20 @@
  },
  {
   "id": "trm:antaraya-karma",
-  "term": "antarāya",
+  "term": "antarāya (obstructive karma)",
   "language": "Sanskrit",
-  "literal": "antarāya",
+  "literal": "obstruction",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The obstructive karma, one of the four whose destruction gives omniscience (TS 10.1); not the antarāya of the Yoga Sūtra.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:10.1"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Obstructive karma: obstructs giving, gain, enjoyment, repeated enjoyment and energy (8.13); inflow at 6.27.",
@@ -23107,6 +23117,17 @@
      "method": "text",
      "queries": [],
      "evidence": [
+      "tea:tattvartha-sutra:10.1"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    },
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
       "tea:tattvartha-sutra:6.27",
       "tea:tattvartha-sutra:8.13"
      ],
@@ -23126,6 +23147,7 @@
   ],
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "extraction:tattvartha-sutra/karma-passions",
     "skeleton:U35-jain-philosophy"
    ],
@@ -25242,9 +25264,18 @@
   "id": "trm:anupreksa",
   "term": "anuprekṣā",
   "language": "Sanskrit",
-  "native": "अनुप्रेक्षा",
-  "literal": "reflection",
+  "literal": "repeated contemplation",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "In TS 9.7 the repeated thinking on twelve themes: impermanence, no refuge, saṃsāra, aloneness, otherness, impurity, inflow, stopping, shedding, the universe, rarity of enlightenment, and the well-taught dharma. Not the Buddhist or Yoga homonym.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.7"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Repeated contemplation of twelve themes — impermanence, no refuge, the round of births, aloneness, otherness, impurity, inflow, stopping, shedding, the universe, rarity of enlightenment, and the well-taught dharma (TS 9.7); also a kind of study (9.25).",
@@ -25257,6 +25288,26 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.7"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "अनुप्रेक्षा",
   "cross_language": [
    {
     "language": "Prakrit",
@@ -25270,17 +25321,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -32401,9 +32448,22 @@
   "id": "trm:arta-dhyana",
   "term": "ārta-dhyāna",
   "language": "Sanskrit",
-  "native": "आर्तध्यान",
-  "literal": "sorrowful meditation",
+  "literal": "pained meditation",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "TS 9.30-9.34: continuous bringing to mind on separation from the disagreeable, the reverse for the agreeable, the same in the case of feeling (vedanā), and nidāna; it belongs to the unrestrained, the partly restrained and the careless ascetic.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.30",
+     "tea:tattvartha-sutra:9.31",
+     "tea:tattvartha-sutra:9.32",
+     "tea:tattvartha-sutra:9.33",
+     "tea:tattvartha-sutra:9.34"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Brooding on getting rid of the disagreeable, keeping the agreeable, removing pain, and future rewards (TS 9.30–33).",
@@ -32414,6 +32474,40 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.30",
+      "tea:tattvartha-sutra:9.31",
+      "tea:tattvartha-sutra:9.32",
+      "tea:tattvartha-sutra:9.33",
+      "tea:tattvartha-sutra:9.34"
+     ],
+     "result": "corrected",
+     "note": "Corrected by J: Aligned with the 9.32 fix (vedanā is 'feeling'). Level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "correction_log": [
+   {
+    "field": "definitions.0.definition",
+    "old": "TS 9.30-9.34: continuous bringing to mind on separation from the disagreeable, the reverse for the agreeable, on pain, and nidāna; it belongs to the unrestrained, the partly restrained and the careless ascetic.",
+    "new": "TS 9.30-9.34: continuous bringing to mind on separation from the disagreeable, the reverse for the agreeable, the same in the case of feeling (vedanā), and nidāna; it belongs to the unrestrained, the partly restrained and the careless ascetic.",
+    "reason": "Aligned with the 9.32 fix (vedanā is 'feeling').",
+    "by": "J",
+    "date": "2026-09-29"
+   }
+  ],
+  "native": "आर्तध्यान",
   "cross_language": [
    {
     "language": "Prakrit",
@@ -32427,17 +32521,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -66057,7 +66147,18 @@
   "id": "trm:chedopasthapana",
   "term": "chedopasthāpanā",
   "language": "Sanskrit",
+  "literal": "cutting and re-establishing",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The second of the five kinds of cāritra in the Digambara list (TS 9.18).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.18"
+    ]
+   },
    {
     "lineage": "lin:svetambara",
     "definition": "The 'great initiation' (baḍī dīkṣā): the second, definitive ordination in which the novice is placed in the vows one by one after learning the Daśavaikālika's fourth chapter; also the name of the second of the five kinds of conduct.",
@@ -66069,8 +66170,26 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.18"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "native": "छेदोपस्थापना",
-  "literal": "re-establishment (in the vows)",
   "cross_language": [
    {
     "language": "Gujarati",
@@ -66078,17 +66197,13 @@
     "grade": "partial"
    }
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U34-jain-canon"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -76226,9 +76341,19 @@
   "id": "trm:dharma-dhyana",
   "term": "dharma-dhyāna",
   "language": "Sanskrit",
-  "native": "धर्मध्यान",
-  "literal": "virtuous meditation",
+  "literal": "meditation of dharma",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "TS 9.36: dharmya dhyāna is for the examination of the command (ājñā), the apāya ('going away', also 'ruin'), the ripening (vipāka) and the form (saṃsthāna); with śukla, a cause of liberation (9.29).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.36",
+     "tea:tattvartha-sutra:9.29"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Meditation examining the Jina's command, the harm of wrong ways, the fruition of karma and the structure of the universe (TS 9.36); leads to heaven and toward liberation.",
@@ -76240,6 +76365,37 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.36",
+      "tea:tattvartha-sutra:9.29"
+     ],
+     "result": "corrected",
+     "note": "Corrected by J: Aligned with the 9.36 fix. Level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "correction_log": [
+   {
+    "field": "definitions.0.definition",
+    "old": "TS 9.36: dharmya dhyāna is for the examination of the command, the harm, the ripening and the form; with śukla, a cause of liberation (9.29).",
+    "new": "TS 9.36: dharmya dhyāna is for the examination of the command (ājñā), the apāya ('going away', also 'ruin'), the ripening (vipāka) and the form (saṃsthāna); with śukla, a cause of liberation (9.29).",
+    "reason": "Aligned with the 9.36 fix.",
+    "by": "J",
+    "date": "2026-09-29"
+   }
+  ],
+  "native": "धर्मध्यान",
   "cross_language": [
    {
     "language": "Prakrit",
@@ -76253,17 +76409,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -78743,6 +78895,18 @@
   "literal": "meditation",
   "definitions": [
    {
+    "lineage": "lin:jainism",
+    "definition": "In Jainism (TS 9.27) the restraining of thought on one point, for one of the best constitution, up to an antarmuhūrta; fourfold: ārta, raudra, dharmya, śukla (9.28), the last two causes of liberation (9.29).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.27",
+     "tea:tattvartha-sutra:9.28",
+     "tea:tattvartha-sutra:9.29"
+    ]
+   },
+   {
     "lineage": "lin:patanjala-yoga",
     "definition": "The one-pointedness (ekatānatā) of cognition (pratyaya) in that place (3.2); in the bhāṣya, a like flow untouched by any other cognition.",
     "sources": [
@@ -78919,10 +79083,22 @@
   ],
   "verification": {
    "level": "sourced",
-   "confidence": "moderate",
+   "confidence": "high",
    "protocol": "insight-p1-single+spot",
-   "unverified": false,
    "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.27",
+      "tea:tattvartha-sutra:9.28",
+      "tea:tattvartha-sutra:9.29"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    },
     {
      "phase": "J",
      "date": "2026-09-29",
@@ -78964,7 +79140,8 @@
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
     }
-   ]
+   ],
+   "unverified": false
   },
   "native": "ध्यान",
   "cross_language": [
@@ -79044,6 +79221,7 @@
   ],
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "extraction:yoga-sutra/p3-4",
     "skeleton:U15-dvaita",
     "skeleton:U10-yoga",
@@ -93329,9 +93507,19 @@
   "id": "trm:gupti",
   "term": "gupti",
   "language": "Sanskrit",
-  "native": "गुप्ति",
-  "literal": "control; guarding",
+  "literal": "control",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "In TS 9.4 the proper restraint of activity (yoga) of body, speech and mind; first of the means of saṃvara (9.2).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.4",
+     "tea:tattvartha-sutra:9.2"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Proper restraint of the activity of mind, speech and body (TS 9.4) — three controls.",
@@ -93342,6 +93530,27 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.4",
+      "tea:tattvartha-sutra:9.2"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "गुप्ति",
   "cross_language": [
    {
     "language": "Prakrit",
@@ -93355,17 +93564,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -126589,6 +126794,50 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:kusila",
+  "term": "kuśīla",
+  "language": "Sanskrit",
+  "literal": "",
+  "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The third of the five kinds of nirgrantha named in TS 9.46.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.46"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.46"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -175083,6 +175332,50 @@
   }
  },
  {
+  "id": "trm:pariharavisuddhi",
+  "term": "parihāra-viśuddhi",
+  "language": "Sanskrit",
+  "literal": "purity of avoidance",
+  "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The third of the five kinds of cāritra (TS 9.18).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.18"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.18"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:parikalpita",
   "term": "parikalpita",
   "language": "Sanskrit",
@@ -191010,6 +191303,50 @@
   }
  },
  {
+  "id": "trm:pratisevana",
+  "term": "pratisevanā",
+  "language": "Sanskrit",
+  "literal": "resorting to; transgression",
+  "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "One of the eight heads (TS 9.47) by which the kinds of nirgrantha are to be distinguished; the sūtra gives no definition (the commentators read it as transgression of the vows).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.47"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.47"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:pratistha",
   "term": "pratiṣṭhā",
   "language": "Sanskrit",
@@ -194816,6 +195153,50 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:pulaka",
+  "term": "pulāka",
+  "language": "Sanskrit",
+  "literal": "",
+  "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The first of the five kinds of nirgrantha named in TS 9.46.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.46"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.46"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -201309,9 +201690,18 @@
   "id": "trm:raudra-dhyana",
   "term": "raudra-dhyāna",
   "language": "Sanskrit",
-  "native": "रौद्रध्यान",
-  "literal": "cruel meditation",
+  "literal": "fierce meditation",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "TS 9.35: dhyāna arising from violence, falsehood, theft and guarding of sense-objects; it belongs to the unrestrained and the partly restrained.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.35"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Delighting in violence, falsehood, theft and guarding one's possessions (TS 9.35).",
@@ -201321,6 +201711,26 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.35"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "रौद्रध्यान",
   "cross_language": [
    {
     "language": "Prakrit",
@@ -201334,17 +201744,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -216290,9 +216696,18 @@
   "id": "trm:samiti",
   "term": "samiti",
   "language": "Sanskrit",
-  "native": "समिति",
   "literal": "carefulness",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "In TS 9.5 five heads: īryā, bhāṣā, eṣaṇā, ādāna-nikṣepa, utsarga (walking, speaking, seeking, taking up and setting down, letting go).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.5"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Careful conduct in walking, speaking, seeking alms, handling objects and excreting, so as to harm no being (TS 9.5).",
@@ -216303,6 +216718,26 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.5"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "native": "समिति",
   "cross_language": [
    {
     "language": "Prakrit",
@@ -216316,17 +216751,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -220174,9 +220605,20 @@
   "id": "trm:samvara",
   "term": "saṃvara",
   "language": "Sanskrit",
-  "native": "संवर",
-  "literal": "stopping; covering",
+  "literal": "stopping",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "In TS 9.1 the stopping (nirodha) of inflow; effected by the guptis, samitis, dharma, anuprekṣās, conquest of hardships and cāritra (9.2). 9.3 adds that by tapas there is shedding as well. That its 'ca' makes tapas a means of saṃvara too is the commentators' reading.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.1",
+     "tea:tattvartha-sutra:9.2",
+     "tea:tattvartha-sutra:9.3"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "The blocking of inflow, achieved by the controls, carefulnesses, virtues, reflections, endurance of hardships and conduct (TS 9.1–2).",
@@ -220204,6 +220646,38 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.1",
+      "tea:tattvartha-sutra:9.2",
+      "tea:tattvartha-sutra:9.3"
+     ],
+     "result": "corrected",
+     "note": "Corrected by J: The commentators' reading of 'ca' in 9.3 was given as the sūtra's teaching. Level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "correction_log": [
+   {
+    "field": "definitions.0.definition",
+    "old": "In TS 9.1 the stopping (nirodha) of inflow; effected by the guptis, samitis, dharma, anuprekṣās, conquest of hardships and cāritra (9.2), and by tapas (9.3, ca).",
+    "new": "In TS 9.1 the stopping (nirodha) of inflow; effected by the guptis, samitis, dharma, anuprekṣās, conquest of hardships and cāritra (9.2). 9.3 adds that by tapas there is shedding as well. That its 'ca' makes tapas a means of saṃvara too is the commentators' reading.",
+    "reason": "The commentators' reading of 'ca' in 9.3 was given as the sūtra's teaching.",
+    "by": "J",
+    "date": "2026-09-29"
+   }
+  ],
+  "native": "संवर",
   "cross_language": [
    {
     "language": "Prakrit",
@@ -220241,20 +220715,16 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "notes": "The 'supreme bliss' etymology is the Tibetan translators' (bde mchog).",
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy",
     "skeleton:U38-early-schools",
     "skeleton:U44-indian-vajrayana"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -238310,6 +238780,50 @@
   }
  },
  {
+  "id": "trm:smrti-samanvahara",
+  "term": "smṛti-samanvāhāra",
+  "language": "Sanskrit",
+  "literal": "continuous bringing to mind",
+  "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "In TS 9.30 the continuous bringing to mind that makes up ārta dhyāna, directed at separation from a disagreeable thing.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.30"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.30"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "trm:smrtyupasthana",
   "term": "smṛtyupasthāna",
   "language": "Sanskrit",
@@ -238368,6 +238882,50 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:snataka",
+  "term": "snātaka",
+  "language": "Sanskrit",
+  "literal": "",
+  "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The last of the five kinds of nirgrantha named in TS 9.46.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.46"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.46"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -244837,9 +245395,24 @@
   "id": "trm:sukla-dhyana",
   "term": "śukla-dhyāna",
   "language": "Sanskrit",
-  "native": "शुक्लध्यान",
-  "literal": "pure meditation",
+  "literal": "white (bright) meditation",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "TS 9.37-9.44: four kinds (9.39), the first two for one who knows the pūrvas and the last two for the kevalin (9.37-9.38), the first two with vitarka (scriptural knowledge) and the second without vīcāra (9.41-9.44).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.37",
+     "tea:tattvartha-sutra:9.38",
+     "tea:tattvartha-sutra:9.39",
+     "tea:tattvartha-sutra:9.41",
+     "tea:tattvartha-sutra:9.42",
+     "tea:tattvartha-sutra:9.43",
+     "tea:tattvartha-sutra:9.44"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "The highest meditation in four stages, the first two for knowers of the Pūrvas, the last two for the omniscient, ending in liberation (TS 9.37–44).",
@@ -244851,6 +245424,42 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.37",
+      "tea:tattvartha-sutra:9.38",
+      "tea:tattvartha-sutra:9.39",
+      "tea:tattvartha-sutra:9.41",
+      "tea:tattvartha-sutra:9.42",
+      "tea:tattvartha-sutra:9.43",
+      "tea:tattvartha-sutra:9.44"
+     ],
+     "result": "corrected",
+     "note": "Corrected by J: Śukla means 'white, bright'; 'pure' is an interpretive gloss (see 9.28). Level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "correction_log": [
+   {
+    "field": "literal",
+    "old": "pure meditation",
+    "new": "white (bright) meditation",
+    "reason": "Śukla means 'white, bright'; 'pure' is an interpretive gloss (see 9.28).",
+    "by": "J",
+    "date": "2026-09-29"
+   }
+  ],
+  "native": "शुक्लध्यान",
   "cross_language": [
    {
     "language": "Prakrit",
@@ -244864,17 +245473,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -245368,6 +245973,52 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:suksmasamparaya-caritra",
+  "term": "sūkṣma-sāmparāya (as a kind of cāritra)",
+  "language": "Sanskrit",
+  "literal": "subtle passion",
+  "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The fourth of the five kinds of cāritra (TS 9.18); the same name is used of a stage at which the passions are subtle (9.10).",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.18",
+     "tea:tattvartha-sutra:9.10"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.18",
+      "tea:tattvartha-sutra:9.10"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -258418,6 +259069,52 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:tirtha-jain",
+  "term": "tīrtha (Jain)",
+  "language": "Sanskrit",
+  "literal": "ford",
+  "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "In TS 9.47 and 10.9, a head under which ascetics and the liberated are set out; the commentators read it as the Jina's dispensation. Not the pilgrimage-place sense of tīrtha.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.47",
+     "tea:tattvartha-sutra:10.9"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.47",
+      "tea:tattvartha-sutra:10.9"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },
@@ -274475,6 +275172,50 @@
    ],
    "phases": [
     "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "trm:vakusa",
+  "term": "vakuśa (Śvetāmbara bakuśa)",
+  "language": "Sanskrit",
+  "literal": "",
+  "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "The second of the five kinds of nirgrantha named in TS 9.46; the Digambara text reads vakuśa.",
+    "sources": [
+     "src:tattvartha-sutra"
+    ],
+    "rests_on": [
+     "tea:tattvartha-sutra:9.46"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.46"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus"
+   ],
+   "phases": [
+    "extraction"
    ]
   }
  },

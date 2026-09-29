@@ -16,4 +16,4 @@ First of the five founding masters of the Sakya; son of Khön Könchok Gyalpo; a
 **Realization — the tradition's account:** Received the four lines of Parting from the Four Attachments from Mañjuśrī at twelve; later Virūpa appeared to him in visions over a month and transmitted the Lamdre and many instructions.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

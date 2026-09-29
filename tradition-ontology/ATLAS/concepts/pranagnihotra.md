@@ -18,4 +18,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad, text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/baudhayana-dharmasutra.md (GRETIL) — ChU 5.19–24 (five offerings to prāṇa, vyāna, apāna, samāna and udāna; the reed-tuft simile at 5.24.3) was text-located. The Dharmasūtra side is at BDh 2.7.12.3ff, whose eating rule includes 'prāṇāya svāhā' and the other breath-offerings. Rests on teaching checks confirmed in this sweep: tea:chandogya-upanisad:5.19-23, tea:chandogya-upanisad:5.24.1-3.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

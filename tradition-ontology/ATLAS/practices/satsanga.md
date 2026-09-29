@@ -29,4 +29,4 @@ Seeking out and serving the holy, hearing the talks that arise in their company;
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text), local:sources_raw/raw_etexts/purANam/va — Rests on tea:uddhava-gita:11.12.1-2, tea:uddhava-gita:11.26.26-34, tea:kapila-gita:3.25.19-20, tea:kapila-gita:3.25.21-25, tea:moksopaya:2.11.56-61, tea:moksopaya:2.16 …; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti, skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti, skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

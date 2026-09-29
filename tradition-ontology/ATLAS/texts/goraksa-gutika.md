@@ -27,4 +27,4 @@ concepts: [Nāth initiation (dīkṣā) and ear-splitting](../concepts/natha-ini
 _Notes: Shows the Nāth liturgy of guru-worship; its origin story differs from the better-known vernacular accounts._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:16 IST._

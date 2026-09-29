@@ -61,7 +61,7 @@ terms: [layayoga](../terms/laya-yoga.md), [laya](../terms/laya.md), [saṅketa](
 ### 25-29 <a id="tea-dattatreyayogasastra-25-29"></a>
 `skeleton` · confidence high
 
-The eight limbs — yama, niyama, āsana, prāṇāyāma, pratyāhāra, dhāraṇā, dhyāna and samādhi — are known to Yājñavalkya and others; Kapila and his pupils practised haṭha: mahāmudrā, mahābandha, (mahāvedha), khecarī, jālandhara, uḍḍiyāna, mūlabandha, viparītakaraṇī, and vajrolī, which is of three kinds with amarolī and sahajolī.
+The eight limbs: a restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: analytic · path: body-breath · stage: all · types: practice, teacher-transmission_
 
@@ -160,7 +160,7 @@ concepts: [Moderate diet (mitāhāra) in the haṭha texts](../concepts/mitahara
 ### 67-68 <a id="tea-dattatreyayogasastra-67-68"></a>
 `skeleton` · confidence high
 
-Practising the breath at the times stated, one gains the power to hold the breath at will; from holding it at will kevala retention is attained; when kevala retention, free of exhalation and inhalation, is attained, nothing in the three worlds is hard to obtain.
+A restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice, powers-experiences_
 
@@ -277,7 +277,7 @@ practices: [Khecarī mudrā ('moving in space')](../practices/khecari-mudra.md)
 ### 126-128 <a id="tea-dattatreyayogasastra-126-128"></a>
 `skeleton` · confidence high
 
-Jālandhara, contracting the throat and placing the chin firmly on the chest, guards the flowing nectar: the fire at the navel always burns the nectar fallen from the thousand-petalled lotus in the skull; if the fire does not drink it the yogin drinks it himself, and it makes the body immortal.
+A restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: causal · path: body-breath · stage: all · types: body-layers, practice_
 
@@ -286,7 +286,7 @@ terms: [amṛta](../terms/amrta.md) · concepts: [The nectar of the moon (amṛt
 ### 129-132 <a id="tea-dattatreyayogasastra-129-132"></a>
 `skeleton` · confidence high
 
-Uḍḍiyāna, declared natural by the guru, practised without sloth makes even the old young: drawing back above and below the navel with effort, practising for six months one conquers death. The one who daily practises mūlabandha, pressing the anus with the heel and contracting the breath forcibly again and again so that it rises, knows yoga; by mūlabandha prāṇa and apāna, nāda and bindu become one and give success in yoga.
+A restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice_
 
@@ -330,4 +330,4 @@ terms: [niṣpatti](../terms/nispatti.md), [rājayoga](../terms/raja-yoga.md) ·
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:16 IST._

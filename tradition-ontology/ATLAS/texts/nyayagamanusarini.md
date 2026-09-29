@@ -16,4 +16,4 @@
 Siṃhasūri's commentary on Mallavādin's Dvādaśāranayacakra, through which the lost root text is known.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

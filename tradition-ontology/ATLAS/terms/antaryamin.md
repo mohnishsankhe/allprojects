@@ -26,4 +26,4 @@
 
 - text: J fidelity check: Same as trm:prajna-mandukya: the commentators' referent was stated as fact.
 
-_Contributed by: extraction:mandukya-upanisad/all, skeleton:U03-principal-upanisads, skeleton:U14-visistadvaita, skeleton:U08-agama-catalogue, skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-upanisad/all, skeleton:U03-principal-upanisads, skeleton:U14-visistadvaita, skeleton:U08-agama-catalogue, skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

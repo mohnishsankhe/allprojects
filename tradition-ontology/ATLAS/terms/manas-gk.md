@@ -16,4 +16,4 @@
 
 - 2026-09-29 text: partially-confirmed — tea:mandukya-karika:2.25, tea:mandukya-karika:3.31, tea:mandukya-karika:3.40 — Content matches the cited verses. Rename NOT confirmed: data trm:manas already carries this sense (its lin:upanisadic and lin:advaita-vedanta definitions are 'Mind'); fold into trm:manas at merge. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

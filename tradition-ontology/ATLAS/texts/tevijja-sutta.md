@@ -39,4 +39,4 @@ terms: [brahmavihāra](../terms/brahmavihara.md), [mettā](../terms/metta.md), [
 _Notes: SuttaCentral uid dn13; Mahāsaṅgīti title 'Tevijjasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

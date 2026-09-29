@@ -35,4 +35,4 @@ Supreme speech is the reflexive awareness of consciousness, not the grammarians'
 **Candidate readings:** P2-standpoint: the grammarians, the mantra manuals and the Pratyabhijñā may all describe the reflexive, 'speaking' side of consciousness, differing on whether it is the whole of the ultimate.; P1-level: word-permeation may hold of conceptual (vyāvahārika) cognition, which the Buddhists also treat as word-bound, while the Buddhists deny it of perception.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:16 IST._

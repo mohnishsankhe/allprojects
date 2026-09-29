@@ -42,4 +42,4 @@ Mala is a substance (dravya); knowledge cannot remove it any more than knowing a
 _Notes: Siddhānta side stated from general knowledge of its doctrine (Sadyojyoti, Rāmakaṇṭha II, Nārāyaṇakaṇṭha); text refs for that side are work-level and low confidence - U18 should supply verse anchors. Related: dsp:works-knowledge-grace._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:16 IST._

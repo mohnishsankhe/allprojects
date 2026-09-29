@@ -16,4 +16,4 @@ Before a sacrament, marriage, journey, building, consecration, sowing or other u
 - Mere favourableness of planets, asterisms and lunar days does not bring success, or the astrologer himself would be king. — [Yogayātrā](../texts/yogayatra.md) 1.5
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:16 IST._

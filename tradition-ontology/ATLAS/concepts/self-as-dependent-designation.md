@@ -16,4 +16,4 @@
 - contrasts-with → [The doctrine of the person (pudgalavāda)](pudgala-doctrine.md): the Pudgalavādins' person 'neither same as nor different from' the aggregates is inexpressible but real; Madhyamaka holds it a mere designation — rests on [16.2](../texts/mulamadhyamakakarika.md#tea-mulamadhyamakakarika-16-2)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

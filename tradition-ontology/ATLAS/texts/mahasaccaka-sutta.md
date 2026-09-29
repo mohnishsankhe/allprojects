@@ -75,4 +75,4 @@ concepts: [The six rival teachers (cha satthāro)](../concepts/six-teachers.md),
 _Notes: SuttaCentral uid mn36; Mahāsaṅgīti title 'Mahāsaccakasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 23:16 IST._

@@ -11,4 +11,4 @@ Recitation of the Heart Sūtra and 'gate gate pāragate pārasaṃgate bodhi sv�
   - [Prajñāpāramitāhṛdaya](../texts/prajnaparamita-hrdaya.md) — ref: s9; rests_on: ["tea:prajnaparamita-hrdaya:s9"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:16 IST._

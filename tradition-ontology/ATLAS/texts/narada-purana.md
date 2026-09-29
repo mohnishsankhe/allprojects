@@ -45,4 +45,4 @@ _Notes: Pūrvabhāga chs. 92-109: a summary-index (anukramaṇī) of all eightee
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL:nAradapurANa, catalog:raw_etexts:nAradIya-purANam, local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.23, https://en.wikipedia.org/wiki/Naradiya_Purana — Extant and digitized (GRETIL/Sansknet Pūrvabhāga and Uttarabhāga 1-43; mAdhva-app; peterFreund). Local colophons indeed read 'bṛhannāradīyapurāṇe'. Structure confirmed by web: Pūrvabhāga four pādas, 125 chapters; Uttarabhāga 82 chapters; the 38-chapter Bṛhannāradīya Upapurāṇa is distinct. Matsya 53.23 (Bṛhatkalpa, 25,000) confirmed. Scholarly date range consistent with Hazra (parts before the 11th c., the rest later).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:16 IST._

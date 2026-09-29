@@ -35,4 +35,4 @@ Within the Nāth corpus the Gorakṣaśataka (v. 3) still calls yoga 'the fruit 
 _Notes: Connects to dsp:women-caste-liberation (U50)._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:16 IST._

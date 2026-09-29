@@ -45,4 +45,4 @@ _none recorded_
 _Notes: Swami Rama's early life and his claimed tenure as Śaṅkarācārya of Karvīrapīṭha are known only from his own account (tradition's account)._
 
 ---
-_Contributed by: skeleton:U52-recent-teachers. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U52-recent-teachers. Generated 2026-09-29 23:16 IST._

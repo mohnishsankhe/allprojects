@@ -34,4 +34,4 @@ There is only one Maheśvara, the self of all beings (ĪPK 4.1); the bound indiv
 _Notes: U18 contributes the Sanskrit-exegete and Tamil-school sides to U19's dispute._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:16 IST._

@@ -31,4 +31,4 @@ _Notes: Buddhist Vinaya sense only; other lineages' definitions of ācārya are 
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.8 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U14-visistadvaita, extraction:bhagavad-gita/ch13-15, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U08-agama-catalogue, skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U14-visistadvaita, extraction:bhagavad-gita/ch13-15, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U08-agama-catalogue, skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

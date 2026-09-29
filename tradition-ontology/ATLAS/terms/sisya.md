@@ -16,4 +16,4 @@
 **Related:** [guru](guru.md), [prapanna](prapanna.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-29 23:16 IST._

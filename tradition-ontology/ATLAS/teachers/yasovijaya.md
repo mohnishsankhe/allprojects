@@ -23,4 +23,4 @@
 Śvetāmbara (Tapā Gaccha) monk-scholar ('Nyāyaviśārada', 'Upādhyāya') who studied Navya-Nyāya at Vārāṇasī and wrote over a hundred works in Sanskrit, Prakrit and Gujarati: on logic and standpoints (Jaina Tarkabhāṣā, Nayopadeśa, Jñānabindu), on adhyātma and yoga (Adhyātmasāra, Adhyātmopaniṣad, Jñānasāra, a commentary on the Yoga Sūtra, dvātriṃśikās), and a critique of Banārsīdās's Adhyātma circle. The tradition tells that he met Ānandaghana and praised him in eight verses.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

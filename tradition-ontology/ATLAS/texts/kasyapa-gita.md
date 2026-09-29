@@ -35,4 +35,4 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 
 - dating: CE 3.30.35-44 confirmed ('gītāḥ kṣamāvatā ... kāśyapena', 30.35; 30.44). The copied Mokṣadharma dating clause is replaced (Āraṇyakaparvan).
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:16 IST._

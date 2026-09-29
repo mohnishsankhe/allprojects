@@ -22,4 +22,4 @@ _Notes: New obstacle (extractor B) for the Gītā's māna / mānitva (13.8 amān
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.8, tea:bhagavad-gita:15.5 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:16.10, tea:bhagavad-gita:16.17 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:16 IST._

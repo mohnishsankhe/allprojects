@@ -11,4 +11,4 @@
 Mādhva commentator, author of the Ṛgarthoddhāra on the Ṛgveda hymns covered by Madhva's Ṛgbhāṣya.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:16 IST._

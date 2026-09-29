@@ -13,4 +13,4 @@
 Author of the cūrṇi-sūtras on the Kaṣāyapāhuḍa and (by tradition) of the Tiloyapaṇṇatti.
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

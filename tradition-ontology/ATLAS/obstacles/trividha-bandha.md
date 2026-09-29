@@ -13,4 +13,4 @@ The self's bondage to the world as body (seat of experience), senses (instrument
   - [Śāstradīpikā](../texts/sastradipika.md) — ref: 1.1.5; rests_on: ["tea:sastradipika:1.1.5/4"]
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:16 IST._

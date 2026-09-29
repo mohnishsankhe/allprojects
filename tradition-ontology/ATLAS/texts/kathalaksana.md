@@ -32,4 +32,4 @@ terms: [vāda](../terms/vada.md), [jalpa](../terms/jalpa.md), [vitaṇḍā](../
 
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:16 IST._

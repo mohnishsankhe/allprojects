@@ -13,4 +13,4 @@ Restraining mind, speech and body, and moving, speaking, begging, handling objec
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 9.5; rests_on: ["tea:tattvartha-sutra:9.5"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

@@ -33,4 +33,4 @@ terms: [Amitābha](../terms/amitabha.md) · concepts: [The twelve lights of Amit
 _Notes: Opening read locally (T47n1978 420c13 ff.)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

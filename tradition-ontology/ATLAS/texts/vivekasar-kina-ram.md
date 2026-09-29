@@ -17,4 +17,4 @@ Bābā Kīnārām's principal Hindi work on discrimination (vivek) and Aghora yo
 _Notes: Coverage-map item. Contents known only in outline; no verse-anchored teachings created (gap)._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:16 IST._

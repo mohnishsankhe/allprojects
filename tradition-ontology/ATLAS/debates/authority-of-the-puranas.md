@@ -37,4 +37,4 @@ _Notes: Relates to dsp:status-of-veda (U50). The Mīmāṃsā side is summarised
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 1.4.20; 1.4.25, local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.3, local:sources_raw/dcs/corpus/GRETIL (Mīmāṃsāsūtra 1.3.1) — Purāṇic sides located (BhP 1.4.20, 1.4.25, 12.13.15; Matsya 53.3); the Mīmāṃsā side's smṛti-adhikaraṇa located at MS 1.3.1 'dharmasya śabdamūlatvād aśabdam anapekṣaṃ syāt' (GRETIL, with Śabara).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:16 IST._

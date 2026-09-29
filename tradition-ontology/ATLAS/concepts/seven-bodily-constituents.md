@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The seven dhātus (tissues)](seven-dhatus.md) (medical physiology): the seven dhātus of Āyurveda — rests on [3](../texts/gyushi-tsagyu.md#tea-gyushi-tsagyu-3)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

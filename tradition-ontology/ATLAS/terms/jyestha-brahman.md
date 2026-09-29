@@ -15,4 +15,4 @@
 - partial: [brahman](brahman.md) — The Atharvaveda's 'highest Brahman' is the nearest Saṃhitā use to the Upaniṣadic Brahman.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:16 IST._

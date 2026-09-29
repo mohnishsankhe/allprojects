@@ -30,4 +30,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.10, tea:bhagavad-gita:9.18 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.39 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch13-15, skeleton:U38-early-schools, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12, skeleton:U31-sound-arts, skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch13-15, skeleton:U38-early-schools, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12, skeleton:U31-sound-arts, skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:16 IST._

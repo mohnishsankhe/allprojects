@@ -22,4 +22,4 @@ _Notes: The text's own reasons: below five consciousness struggles in a cramped 
 
 - 2026-09-29 text: confirmed — tea:visuddhimagga:8.p278/2, tea:visuddhimagga:8.p279, tea:visuddhimagga:8.p279/2, tea:visuddhimagga:8.p280 — Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan). Warnings checked by code: verbatim Pali of the cited pages.
 
-_Contributed by: extraction:visuddhimagga/selections. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections. Generated 2026-09-29 23:16 IST._

@@ -12,4 +12,4 @@ No. 21 of the eighty-four siddhas (Tōh 2292 order). A low-caste man terrified b
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. Tōh 2292 spells the name like Śavari; its position (21) and the song's theme of fear fit Abhayadatta's Śalipa._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:16 IST._

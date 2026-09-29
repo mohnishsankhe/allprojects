@@ -39,7 +39,7 @@ The twenty-two hardships (parīṣaha) that a monk must bear without swerving fr
 
 _level: conventional · standpoint: seeker · path: action · stage: intermediate (bhikṣu) · types: practice, ethics_
 
-terms: [parīṣaha](../terms/parisaha.md), [acela / acelaka](../terms/acela.md) · concepts: [The twenty-two hardships (parīṣaha)](../concepts/twenty-two-parisahas.md) · obstacles: [The twenty-two hardships](../obstacles/twenty-two-parisahas.md) · disputes: [Is complete nudity required of the renunciant (and for liberation)?](../debates/monastic-nudity.md)
+terms: [parīṣaha](../terms/parisaha.md), [acela / acelaka](../terms/acela.md) · concepts: [The hardships (parīṣaha)](../concepts/twenty-two-parisahas.md) · obstacles: [The hardships (parīṣaha) — summary only](../obstacles/twenty-two-parisahas.md) · disputes: [Is complete nudity required of the renunciant (and for liberation)?](../debates/monastic-nudity.md)
 
 ### 3.1 <a id="tea-uttaradhyayana-sutra-3-1"></a>
 `skeleton` · confidence high
@@ -280,4 +280,4 @@ terms: [siddha](../terms/siddha.md), [siddhaśilā](../terms/siddhasila.md) · c
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 23:16 IST._

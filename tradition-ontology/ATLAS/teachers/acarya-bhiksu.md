@@ -13,4 +13,4 @@
 Founder (1726–1803) of the Śvetāmbara Terāpanth; he left the Sthānakavāsī order of Raghunāth in 1760 over monastic laxity and the definition of dharma, gave the order a single ācārya and a written code (maryādā), and wrote extensively in Rajasthani verse.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

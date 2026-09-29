@@ -16,4 +16,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - Not to be undertaken before the teacher permits and before one has stability; practised with self-clinging it increases fear and harm. — [The Great Bundle of Precepts: the profound Chöd instruction of the Perfection of Wisdom (shes rab kyi pha rol tu phyin pa zab mo gcod kyi man ngag gi gzhung bka' tshoms chen mo)](../texts/katsom-chenmo.md) frightening-places (thematic)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

@@ -88,4 +88,4 @@ terms: [avatāra](../terms/avatara.md), [nirdoṣa](../terms/nirdosa.md), [svaga
 _Notes: Three paricchedas checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:16 IST._

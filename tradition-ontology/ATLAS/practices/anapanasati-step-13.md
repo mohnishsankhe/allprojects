@@ -18,4 +18,4 @@ He trains: 'I shall breathe in (out) contemplating impermanence'. Step 13 of the
 
 - 2026-09-29 text: partially-confirmed — Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J.
 
-_Contributed by: extraction:anapanasati-sutta/all, skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:anapanasati-sutta/all, skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

@@ -17,4 +17,4 @@ Lineage contribution (Āyurveda): 'I am Dhanvantari, the first god, remover of o
 _Notes: Ca Śā 6.21 cites Dhanvantari's view that all limbs of the embryo form at once._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:16 IST._

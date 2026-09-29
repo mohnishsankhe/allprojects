@@ -20,4 +20,4 @@ _Notes: Partial parallel: Vedāntasāra's rasāsvāda (there: relishing the blis
 
 - 2026-09-29 text: confirmed — tea:mandukya-karika:3.45 — Gauḍapāda referent confirmed: data obs:rasasvada cites GK 3.45; its 'bliss of absorption (savikalpa)' is Vedāntasāra's wording and 'rasāsvāda' is the commentators' name, as the shard contribution says. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all, skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all, skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

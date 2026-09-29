@@ -15,4 +15,4 @@ U09 contribution: author to whom the Sāṃkhyacandrikā on the SK is ascribed; 
 _Notes: Whether he is the same as the devotional composer Nārāyaṇa Tīrtha is uncertain._
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U12-mimamsa, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U12-mimamsa, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:16 IST._

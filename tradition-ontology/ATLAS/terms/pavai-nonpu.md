@@ -15,4 +15,4 @@
 _Notes: The Śaiva Tiruvempāvai (Māṇikkavācakar) is a parallel Mārkaḻi vow-song (prc:tiruvempavai-vow, U18)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:16 IST._

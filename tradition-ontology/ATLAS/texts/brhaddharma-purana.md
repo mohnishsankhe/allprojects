@@ -49,4 +49,4 @@ concepts: [The ten Mahāvidyās (daśa-mahāvidyā)](../concepts/ten-mahavidyas.
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:eBharati:bRhaddharmapurANam, https://en.wikipedia.org/wiki/Brihaddharma_Purana — Extant and digitized (eBhārati bṛhaddharmapurāṇam, local). Web: Bengal; second half of the 13th c. (Hazra); caste ordering in the Uttarakhaṇḍa.
 
-_Contributed by: skeleton:U24-kali-kaula, skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula, skeleton:U07-puranas. Generated 2026-09-29 23:16 IST._

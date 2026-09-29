@@ -13,4 +13,4 @@
 The sūtra of the thousand-armed, thousand-eyed Avalokiteśvara's Great Compassion Dhāraṇī (Dabei zhou): its recitation removes karmic hindrances; the bodhisattva's vows; recited daily in Chinese, Korean, Japanese and Vietnamese monasteries.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:16 IST._

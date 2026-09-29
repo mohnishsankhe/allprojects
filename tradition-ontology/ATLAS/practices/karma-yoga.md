@@ -42,4 +42,4 @@ Perform the prescribed action (one's own dharma) as duty, with evenness in succe
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.25 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:18.6, tea:bhagavad-gita:18.9, tea:bhagavad-gita:18.23, tea:bhagavad-gita:18.26 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:16 IST._

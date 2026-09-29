@@ -42,7 +42,7 @@ concepts: [The dangers of forcing (the texts' own warnings)](../concepts/dangers
 ### 2.topic.nectar <a id="tea-khecarividya-2-topic-nectar"></a>
 `skeleton` · confidence moderate · _restricted: summary only_
 
-With the tongue inserted above the palate the yogin drinks the nectar (amṛta) flowing from the moon in the head; the text describes places and kalās of the nectar and claims freedom from disease, old age and death.
+A restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: experiential · path: body-breath, meditation · stage: advanced · types: body-layers, powers-experiences_
 
@@ -57,4 +57,4 @@ _level: conventional · standpoint: seeker · path: body-breath · stage: advanc
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:16 IST._

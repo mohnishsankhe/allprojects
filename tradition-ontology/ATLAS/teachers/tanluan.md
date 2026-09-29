@@ -17,4 +17,4 @@ Northern Wei master trained in the Four Treatises (Sanlun) who wrote the Comment
 **Realization — the tradition's account:** After falling ill while commenting on the Mahāsaṃnipāta he sought Daoist longevity; meeting Bodhiruci in Luoyang he was given the Contemplation Sūtra, burned his Daoist texts and devoted himself to the Pure Land (Xu gaoseng zhuan; Shōshinge).
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

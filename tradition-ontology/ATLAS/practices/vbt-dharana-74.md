@@ -25,4 +25,4 @@ _Notes: Text-derived summary of GRETIL verse(s) 99; the skeleton entry's name an
 - method_summary: aligned with the judge's correction of tea:vijnana-bhairava-tantra:99
 - signs_of_progress: aligned with the judge's correction of tea:vijnana-bhairava-tantra:99
 
-_Contributed by: extraction:vijnana-bhairava-tantra/all, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:vijnana-bhairava-tantra/all, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:16 IST._

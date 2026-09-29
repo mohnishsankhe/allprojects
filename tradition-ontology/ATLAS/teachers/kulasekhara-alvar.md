@@ -17,4 +17,4 @@ Cēra king of Kerala who renounced his throne for the company of devotees at Śr
 _Notes: Aṃśa of the Kaustubha gem in the tradition's list (moderate). The threshold of the Tirupati sanctum is called 'Kulaśekharaṉ paṭi' after Perumāḷ Tirumoḻi 4.9._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:16 IST._

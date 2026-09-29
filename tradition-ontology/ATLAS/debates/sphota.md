@@ -58,4 +58,4 @@ Yes: the letters, perishing in sequence, cannot jointly convey meaning; the indi
 **Candidate readings:** P2-standpoint: the grammarians describe the word as understood (one), the Mīmāṃsakas the word as heard (letters); both agree that meaning is grasped only at the end of the utterance with the help of impressions.; P1-level: Bhartṛhari's sphoṭa belongs to the level of the undivided Word-principle, the letters to the level of articulated speech (vaikharī).; P2-standpoint: the letter-sequence (as heard) and the unitary word (as understood) may be two standpoints on one process — the Mīmāṃsakas reject a separate entity, the grammarians a merely serial conveyance.
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U12-mimamsa. Generated 2026-09-29 23:16 IST._

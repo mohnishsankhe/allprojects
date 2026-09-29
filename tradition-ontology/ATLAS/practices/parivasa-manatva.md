@@ -15,4 +15,4 @@ For a saṃghāvaśeṣa offence: a period of probation for concealment and six 
 _Notes: Common to all the Vinayas; details and counts differ by school._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

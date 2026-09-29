@@ -17,4 +17,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 _Notes: Name slug in Pali without diacritics. The sitter's practice is flagged restricted as a prolonged sleep-deprivation austerity (summary only)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:16 IST._

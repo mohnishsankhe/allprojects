@@ -21,4 +21,4 @@ No: rasa is of the nature of both pleasure and pain; the compassionate, furious,
 **The traditions' own objections:** The Nāṭyadarpaṇa's authors insist the painful rasas are painful in themselves; Viśvanātha insists all rasa is bliss.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:16 IST._

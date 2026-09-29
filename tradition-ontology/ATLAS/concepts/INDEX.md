@@ -1,6 +1,6 @@
-# Concepts (3005)
+# Concepts (3006)
 
-sourced: 452 · skeleton: 2553
+sourced: 467 · skeleton: 2539
 
 - ['A man is born into the world he has made'](self-made-world.md) — `sourced`
 - ['Atat tvam asi' — Dvaita's reading of Chāndogya 6.8.7](atat-tvam-asi.md) — `skeleton`
@@ -611,7 +611,7 @@ sourced: 452 · skeleton: 2553
 - [Liberation (mokṣa) in Advaita](liberation-advaita.md) — `skeleton`
 - [Liberation (mokṣa) in Caraka](moksa-in-caraka.md) — `skeleton`
 - [Liberation (mokṣa) in Dvaita](moksa.md) — `sourced`
-- [Liberation (mokṣa) in Jainism](moksa-jain.md) — `skeleton`
+- [Liberation (mokṣa) in Jainism](moksa-jain.md) — `sourced`
 - [Liberation (mokṣa) in later Mīmāṃsā](liberation.md) — `skeleton`
 - [Liberation (mokṣa) in Vaiśeṣika](moksa-vaisesika.md) — `skeleton`
 - [Liberation (vīṭu, mutti) in the Siddhar songs](siddhar-liberation.md) — `skeleton`
@@ -797,7 +797,7 @@ sourced: 452 · skeleton: 2553
 - [Ojas](ojas.md) — `skeleton`
 - [Omens of death (ariṣṭa)](death-omens.md) — `sourced`
 - [Omens of death and cheating death](signs-of-death-vajrayana.md) — `skeleton`
-- [Omniscience (kevala-jñāna)](kevala-jnana.md) — `skeleton`
+- [Omniscience (kevala-jñāna)](kevala-jnana.md) — `sourced`
 - [Omniscience (sarvajñatva)](omniscience.md) — `skeleton`
 - [Omniscience in Yoga](omniscience-in-yoga.md) — `skeleton`
 - [One fortunate night](bhaddekaratta.md) — `skeleton`
@@ -1052,7 +1052,7 @@ sourced: 452 · skeleton: 2553
 - [Service (kainkarya) as the goal](kainkarya.md) — `skeleton`
 - [Service, near-attainment, attainment, great attainment](four-branches-of-service.md) — `skeleton`
 - [Seven stations of consciousness and two spheres](seven-stations-of-consciousness.md) — `skeleton`
-- [Shedding (nirjarā)](nirjara.md) — `skeleton`
+- [Shedding (nirjarā)](nirjara.md) — `sourced`
 - [Shell and silver](shell-silver.md) — `skeleton`
 - [Shinjin — true entrusting](shinjin.md) — `skeleton`
 - [Siddha-vidyā](siddhavidya.md) — `skeleton`
@@ -1093,7 +1093,7 @@ sourced: 452 · skeleton: 2553
 - [States without mental consciousness](states-without-mind-consciousness.md) — `skeleton`
 - [Stillness (cummā iruttal)](cumma-iruttal.md) — `skeleton`
 - [Stillness, movement and awareness (gnas 'gyu rig gsum)](stillness-movement-awareness.md) — `skeleton`
-- [Stopping (saṃvara)](samvara.md) — `skeleton`
+- [Stopping (saṃvara)](samvara.md) — `sourced`
 - [Strength of mind (three grades)](sattva-bala.md) — `skeleton`
 - [Struck and unstruck sound (āhata and anāhata nāda)](ahata-anahata.md) — `skeleton`
 - [Subjecthood (pakṣatā)](paksata.md) — `skeleton`
@@ -1514,12 +1514,12 @@ sourced: 452 · skeleton: 2553
 - [The five jewels (Kaulajñānanirṇaya 17)](five-jewels-kjn.md) — `skeleton`
 - [The five kalās](five-kalas-saiva.md) — `skeleton`
 - [The five kaphas](five-kaphas.md) — `skeleton`
-- [The five kinds of conduct](five-caritras.md) — `skeleton`
+- [The five kinds of conduct](five-caritras.md) — `sourced`
 - [The five kinds of knowables (Vātsīputrīya)](five-knowables.md) — `skeleton`
 - [The five kinds of knowledge](five-jnanas.md) — `skeleton`
 - [The five kinds of performance (poison to nectar)](five-anusthanas.md) — `skeleton`
 - [The five kinds of rapture (pīti)](five-kinds-of-rapture.md) — `skeleton`
-- [The five kinds of unattached ascetic](five-nirgranthas.md) — `skeleton`
+- [The five kinds of unattached ascetic](five-nirgranthas.md) — `sourced`
 - [The five kāyas](five-kayas.md) — `skeleton`
 - [The five Kṛṣṇas (pañca-kṛṣṇa)](pancakrsna.md) — `skeleton`
 - [The five letters (pañcākṣara)](pancaksara.md) — `skeleton`
@@ -1611,6 +1611,7 @@ sourced: 452 · skeleton: 2553
 - [The four authorities (Vallabha)](prasthana-catustaya-vallabha.md) — `skeleton`
 - [The four bases of power](four-iddhipadas.md) — `skeleton`
 - [The four cakras of the Hevajra](four-cakras-vajrayana.md) — `skeleton`
+- [The four causes of the liberated soul's ascent](siddha-ascent-causes.md) — `sourced`
 - [The four characteristics of the conditioned](four-characteristics-of-the-conditioned.md) — `skeleton`
 - [The four chief postures (siddha, padma, siṃha, bhadra)](hyp-four-chief-asanas.md) — `sourced`
 - [The four classes of words](four-classes-of-words.md) — `sourced`
@@ -1672,7 +1673,7 @@ sourced: 452 · skeleton: 2553
 - [The four means (upāya)](four-upayas.md) — `skeleton`
 - [The four means of attraction (saṃgrahavastu)](four-means-of-attraction.md) — `skeleton`
 - [The four means of knowledge (Nyāya)](four-pramanas-nyaya.md) — `skeleton`
-- [The four meditations](four-dhyanas.md) — `skeleton`
+- [The four meditations](four-dhyanas.md) — `sourced`
 - [The four methods of treatment](four-methods-of-treatment.md) — `skeleton`
 - [The four minds (Jñānakārikā)](four-minds-jnanakarika.md) — `skeleton`
 - [The four modes of practice (sixiu)](four-modes-of-practice.md) — `skeleton`
@@ -1805,6 +1806,7 @@ sourced: 452 · skeleton: 2553
 - [The guṇas and devotion](gunas-and-bhakti.md) — `skeleton`
 - [The guṇas as the doers of action](gunas-as-agents.md) — `skeleton`
 - [The guṇas of the planets](gunas-of-planets.md) — `skeleton`
+- [The hardships (parīṣaha)](twenty-two-parisahas.md) — `sourced`
 - [The heart and the senses in the Āḻvār hymns](heart-and-senses-in-alvar-poetry.md) — `skeleton`
 - [The heart and the space within it](hrdaya-heart.md) — `sourced`
 - [The heart as seat of consciousness and ojas](hrdaya-in-ayurveda.md) — `skeleton`
@@ -2359,7 +2361,7 @@ sourced: 452 · skeleton: 2553
 - [The stages of life (āśrama)](life-stages.md) — `skeleton`
 - [The stages of love from prema to mahābhāva](stages-of-prema.md) — `skeleton`
 - [The state beyond the āśramas (atyāśrama)](atyasrama.md) — `skeleton`
-- [The state of the liberated (siddha)](siddha-state.md) — `skeleton`
+- [The state of the liberated (siddha)](siddha-state.md) — `sourced`
 - [The states of beings that arise from the Lord (BhG 10.4–5)](states-of-beings-from-the-lord.md) — `skeleton`
 - [The states of the afflictions (dormant, attenuated, interrupted, fully active)](four-states-of-klesas.md) — `sourced`
 - [The stock illustrations (dṛṣṭānta) of Advaita](stock-illustrations.md) — `skeleton`
@@ -2430,7 +2432,7 @@ sourced: 452 · skeleton: 2553
 - [The ten seats of life (prāṇāyatana)](ten-seats-of-prana.md) — `skeleton`
 - [The ten signs of the Kālacakra](ten-signs-kalacakra.md) — `skeleton`
 - [The ten sinful acts of body, speech and mind](ten-sinful-acts.md) — `skeleton`
-- [The ten virtues (daśa-lakṣaṇa dharma)](ten-dharmas.md) — `skeleton`
+- [The ten virtues (daśa-lakṣaṇa dharma)](ten-dharmas.md) — `sourced`
 - [The ten virtuous paths of action](ten-virtuous-paths.md) — `skeleton`
 - [The ten vital winds (vāyu)](ten-vayus.md) — `sourced`
 - [The ten vitalities (prāṇa) of the embodied soul](ten-pranas-jain.md) — `skeleton`
@@ -2484,7 +2486,7 @@ sourced: 452 · skeleton: 2553
 - [The three codes (saṅketa): cakra, mantra, worship](three-sanketas.md) — `skeleton`
 - [The three contemplations (bhāvanā)](three-bhavanas.md) — `sourced`
 - [The three continua (rgyud gsum) of the Lamdre](three-continua.md) — `skeleton`
-- [The three controls and five carefulnesses](three-guptis-five-samitis.md) — `skeleton`
+- [The three controls and five carefulnesses](three-guptis-five-samitis.md) — `sourced`
 - [The three coverings of the self](three-coverings.md) — `skeleton`
 - [The three desires (eṣaṇā)](three-esanas.md) — `skeleton`
 - [The three dispositions: paśu, vīra, divya](three-bhavas.md) — `skeleton`
@@ -2612,13 +2614,13 @@ sourced: 452 · skeleton: 2553
 - [The tree of saṃsāra (Uddhava Gītā)](tree-of-samsara-bhagavata.md) — `sourced`
 - [The triads of the Trika](trika-triad.md) — `skeleton`
 - [The tripartition (trivṛt) of heat, water and food](trivrtkarana.md) — `sourced`
-- [The triple mark of the existent](utpada-vyaya-dhrauvya.md) — `skeleton`
+- [The triple mark of the existent](utpada-vyaya-dhrauvya.md) — `sourced`
 - [The tripod: mind, self and body](tripod-of-life.md) — `skeleton`
 - [The true brāhmaṇa (by conduct, not birth)](true-brahmana-jain.md) — `skeleton`
 - [The true guru (satguru)](satguru.md) — `skeleton`
 - [The true person of no rank](true-person-of-no-rank.md) — `skeleton`
 - [The true teacher and the disciple](sadacarya-and-sisya.md) — `skeleton`
-- [The twelve austerities](twelve-tapas.md) — `skeleton`
+- [The twelve austerities](twelve-tapas.md) — `sourced`
 - [The twelve Aṅgas (eleven surviving)](eleven-angas.md) — `skeleton`
 - [The twelve great worshippers of Śrīvidyā](twelve-upasakas.md) — `skeleton`
 - [The twelve houses and their significations](twelve-bhavas.md) — `skeleton`
@@ -2628,7 +2630,7 @@ sourced: 452 · skeleton: 2553
 - [The twelve links in the Madhyamaka](twelve-links-in-madhyamaka.md) — `skeleton`
 - [The twelve objects of knowledge (prameya)](twelve-prameyas.md) — `skeleton`
 - [The twelve panths (bārah panth)](twelve-panths.md) — `skeleton`
-- [The twelve reflections (anuprekṣā)](twelve-anupreksas.md) — `skeleton`
+- [The twelve reflections (anuprekṣā)](twelve-anupreksas.md) — `sourced`
 - [The twelve signs](twelve-rasis.md) — `skeleton`
 - [The twelve topics (lakṣaṇas) of the Mīmāṃsā Sūtra](twelve-laksanas.md) — `skeleton`
 - [The twelve Upāṅgas](twelve-upangas.md) — `skeleton`
@@ -2658,7 +2660,6 @@ sourced: 452 · skeleton: 2553
 - [The twenty-seven siddhas of rasa](twenty-seven-rasasiddhas.md) — `skeleton`
 - [The twenty-six qualities of a Vaiṣṇava](twenty-six-qualities-of-a-vaisnava.md) — `skeleton`
 - [The twenty-two faculties](twenty-two-indriyas.md) — `skeleton`
-- [The twenty-two hardships (parīṣaha)](twenty-two-parisahas.md) — `skeleton`
 - [The twenty-two points of defeat (nigrahasthāna)](twenty-two-nigrahasthanas.md) — `skeleton`
 - [The two accumulations](two-accumulations.md) — `skeleton`
 - [The two arrows](two-arrows.md) — `skeleton`

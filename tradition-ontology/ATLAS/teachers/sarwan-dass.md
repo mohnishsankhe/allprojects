@@ -9,4 +9,4 @@
 Head of Dera Sachkhand Ballan (Jalandhar) who shaped the modern Ravidāsī dera tradition.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

@@ -132,7 +132,7 @@ terms: [kuṇḍalinī](../terms/kundalini.md), [suṣumnā](../terms/susumna.md
 ### 32 <a id="tea-goraksasataka-32"></a>
 `skeleton` · confidence high
 
-One who knows the great seal (mahāmudrā), the sky-seal (nabhomudrā), uḍḍiyāna, jālandhara and the root lock (mūlabandha) is a yogī fit for success.
+A restricted practice, recorded as a summary only; the method is not kept.
 
 > mahāmudrāṃ namomudrām uḍḍiyānaṃ jalandharam / mūlabandhaṃ ca yo vetti sa yogī siddhibhājanam
 
@@ -143,7 +143,7 @@ terms: [bandha](../terms/bandha.md), [mahāmudrā](../terms/mahamudra.md) · pra
 ### 33 <a id="tea-goraksasataka-33"></a>
 `skeleton` · confidence high
 
-With the chin on the chest, pressing the perineum long with the left foot, holding the outstretched right leg with the hands, filling both sides of the belly with breath and binding it, one should exhale slowly — this is the very great mudrā, destroyer of sins.
+A restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice_
 
@@ -161,7 +161,7 @@ terms: [khecarī](../terms/khecari.md) · practices: [Khecarī mudrā ('moving i
 ### 35-37 <a id="tea-goraksasataka-35-37"></a>
 `skeleton` · confidence high
 
-Uḍḍiyāna, between genitals and navel, is the lion to the elephant of death; when jālandhara, the contraction of the throat, is made, the nectar does not fall into the fire and the breath is not disturbed; the root lock is contracting the anus and drawing apāna upward.
+A restricted practice, recorded as a summary only; the method is not kept.
 
 > ūrdhvaṃ meḍhrād adho nābher uḍḍiyānaṃ pracakṣate / uḍḍiyānajayo bandho mṛtyumātaṅgakesarī jālandhare kṛte bandhe kaṇṭhasaṅkocalakṣaṇe / na pīyūṣaṃ pataty agnau na ca vāyuḥ prakupyati pārṣṇibhāgena sampīḍya yonim ākuñcayed gudam / apānam ūrdhvam ākṛṣya mūlabandho nigadyate
 
@@ -439,4 +439,4 @@ terms: [pada](../terms/pada.md) · concepts: [Equal taste (samarasa)](../concept
 _Notes: Refs in this shard follow the Kuvalayananda–Shukla (GRETIL) numbering. U28 may add the haṭha analysis._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:16 IST._

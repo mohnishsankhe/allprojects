@@ -31,7 +31,7 @@ terms: [ādhāra](../terms/adhara.md), [lakṣya](../terms/laksya.md), [vyoman](
 ### topic.mudras <a id="tea-vivekamartanda-topic-mudras"></a>
 `skeleton` · confidence moderate
 
-The seals and locks taught are mahāmudrā, nabhomudrā (= khecarī), uḍḍiyāna, jālandhara and mūlabandha, with viparītakaraṇī to save the nectar from the sun.
+A restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice_
 
@@ -48,4 +48,4 @@ _level: conventional · standpoint: analytic · path: body-breath · stage: all 
 _Notes: Close verbal parallels with src:goraksasataka (U21 owns that entry; refs there follow the Kuvalayananda–Shukla numbering). U21 flags src:yogamartanda as possibly another member of this family._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:16 IST._

@@ -331,4 +331,4 @@ terms: [aṇuvrata](../terms/anuvrata.md) · concepts: [Pārśva's fourfold rest
 _Notes: Book 1 checked against the local GRETIL text (verse numbers per that e-text); Book 2 not available locally, refs chapter-level from memory._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 23:16 IST._

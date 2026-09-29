@@ -12,4 +12,4 @@
 Tanjore scholar, author of the Caturdaṇḍīprakāśikā and its seventy-two mela scheme; son of Govinda Dīkṣita.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:16 IST._

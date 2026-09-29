@@ -12,4 +12,4 @@
 Disciple of Tsangpa Gyare, founder of the Upper Drukpa and exemplar of the mountain-retreat life; teacher of Orgyenpa and Yangönpa.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

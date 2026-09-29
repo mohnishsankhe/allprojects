@@ -15,4 +15,4 @@ Disciple of Aruṇanti and guru of Umāpati Civācāriyār; third of the four te
 _Notes: Details of his caste and the palanquin story are given at low confidence (they come from later hagiography)._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:16 IST._

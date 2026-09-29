@@ -21,4 +21,4 @@ A Gauḍīya Vaiṣṇava commentary on the Gītā in the Acintya-bhedābheda fr
 
 - 2026-09-29 catalog+websearch: confirmed — local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/2_epic/mbh/ext/bhagavadgita_with_four_chommentaries.md, https://en.wikipedia.org/wiki/Baladeva_Vidyabhushana — Extant and digitized; Baladeva d. 1768, consistent with the 18th-c. dating.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

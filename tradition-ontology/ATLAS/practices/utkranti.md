@@ -11,4 +11,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
   - [Kubjikāmata Tantra](../texts/kubjikamata-tantra.md) — ref: 23; rests_on: ["tea:kubjikamata-tantra:23"]
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:16 IST._

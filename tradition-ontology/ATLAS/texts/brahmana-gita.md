@@ -23,4 +23,4 @@ A brāhmaṇa teaches his wife the inner sacrifice of the senses and breaths and
 
 - dating: CE 14.20 (the dialogue of a brāhmaṇa couple) to 14.34 confirmed; vulgate colophons 'anugītāparvaṇi brāhmaṇagītāsu'. The copied Mokṣadharma dating clause is replaced (Āśvamedhikaparvan, Anugītā).
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:16 IST._

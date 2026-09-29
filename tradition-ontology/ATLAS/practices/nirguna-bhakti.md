@@ -16,4 +16,4 @@ Letting the mind flow to the Lord at the mere hearing of his qualities, without 
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — Rests on tea:kapila-gita:3.29.11-14; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:16 IST._

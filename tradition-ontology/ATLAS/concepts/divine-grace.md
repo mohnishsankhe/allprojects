@@ -26,4 +26,4 @@
 
 - definitions: The Lord's-grace concept listed 18.75 among the verses it rests on, but 18.75 speaks of Vyāsa's grace (vyāsa-prasādāt), not the Lord's; the definition text does not cite it. Removed from rests_on (trm:prasada, the word, keeps it).
 
-_Contributed by: extraction:bhagavad-gita/ch16-18, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch16-18, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 23:16 IST._

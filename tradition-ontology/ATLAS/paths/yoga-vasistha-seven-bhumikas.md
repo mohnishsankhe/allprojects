@@ -22,4 +22,4 @@
 Vasiṣṭha himself says the first three stages are 'waking-like' states of the seeker, the fourth dream-like, the fifth deep-sleep-like, the sixth and seventh turya and beyond (Mokṣopāya 6.140-156); Vidyāraṇya's Jīvanmuktiviveka grades the knower as brahmavid (4), brahmavid-vara (5), varīyān (6), variṣṭha (7). Stage 8 (turyātīta) is stated in the same passage and added to reach the text's own end.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:16 IST._

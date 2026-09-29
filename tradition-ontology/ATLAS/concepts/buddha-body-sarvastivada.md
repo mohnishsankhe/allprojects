@@ -13,4 +13,4 @@
 - contrasts-with → [The supramundane Buddha (lokottara)](supramundane-buddha.md): The Lokottaravāda holds the Buddha's bodily life itself to be supramundane. — rests on [1.167-168](../texts/mahavastu.md#tea-mahavastu-1-167-168), [4.32](../texts/abhidharmakosa.md#tea-abhidharmakosa-4-32)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

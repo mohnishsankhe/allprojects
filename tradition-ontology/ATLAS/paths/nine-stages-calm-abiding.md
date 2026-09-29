@@ -26,4 +26,4 @@
 Sanskrit names as in the Śrāvakabhūmi (sthāpayati, saṃsthāpayati, avasthāpayati, upasthāpayati, damayati, śamayati, vyupaśamayati, ekotīkaroti, samādadhāti; nominal forms given); Tibetan as in the Lamrim literature. The six powers and four attentions are given per stage as the Lamrim Chenmo distributes them.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:16 IST._

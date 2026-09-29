@@ -21,4 +21,4 @@ _Notes: Marked restricted as a form of breath suspension; no method given._
 
 - 2026-09-29 text: partially-confirmed — tea:yoga-sutra:2.51, tea:yoga-bhasya:2.51 — Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated. Restricted-practice entry read in full by J: summary-only, no counts, steps or durations; fasting-type vows (kṛcchra, cāndrāyaṇa, sāṃtapana) named only; Vyāsa's own warning quoted verbatim where the text gives one.
 
-_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga. Generated 2026-09-29 23:16 IST._

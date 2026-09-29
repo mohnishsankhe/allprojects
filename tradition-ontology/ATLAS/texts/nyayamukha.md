@@ -18,4 +18,4 @@ Dignāga's early manual of logic and debate, extant only in Chinese: the thesis,
 _Notes: Taishō numbers recalled._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:16 IST._

@@ -21,4 +21,4 @@
 
 - text: J fidelity check: 3.43 has no 'knower' (see 3.43).
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

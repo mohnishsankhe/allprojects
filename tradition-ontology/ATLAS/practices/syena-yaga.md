@@ -16,4 +16,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 _Notes: Summary only (abhicāra rite)._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:16 IST._

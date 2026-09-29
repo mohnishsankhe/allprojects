@@ -36,4 +36,4 @@ _Notes: Restricted practice: only the text's own cautions on not enlarging the s
 
 - 2026-09-29 text: confirmed — tea:visuddhimagga:3.p110/2, tea:visuddhimagga:3.p111/2, tea:visuddhimagga:3.p111/3, tea:visuddhimagga:3.p112, tea:visuddhimagga:3.p114, tea:visuddhimagga:3.p114/3 — Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan). Restricted: summary-only confirmed, no procedure; only the text's own statements (not to be enlarged) quoted. Warnings checked by code: verbatim Pali of the cited pages.
 
-_Contributed by: extraction:visuddhimagga/selections, skeleton:U38-early-schools, skeleton:U36-pali-suttas, skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections, skeleton:U38-early-schools, skeleton:U36-pali-suttas, skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:16 IST._

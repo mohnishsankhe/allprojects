@@ -10,4 +10,4 @@ Maid of Queen Sāmāvatī who, by tradition, heard and repeated the Itivuttaka; 
 _Notes: Commentarial account (Itivuttaka-aṭṭhakathā); AN 1 Etadaggavagga (the 'foremost' lists)_
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

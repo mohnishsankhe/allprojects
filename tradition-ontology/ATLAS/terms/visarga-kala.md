@@ -16,4 +16,4 @@
 _Notes: Homonym: visarga is also the aspirate sign and, in the Purāṇas, secondary creation._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

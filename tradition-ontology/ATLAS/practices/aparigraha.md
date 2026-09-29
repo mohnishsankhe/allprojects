@@ -26,4 +26,4 @@ Non-acceptance of objects on seeing the faults of acquiring, keeping, losing, at
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:18.51, tea:bhagavad-gita:18.51-53, tea:bhagavad-gita:18.53 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.21, tea:bhagavad-gita:6.10 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 23:16 IST._

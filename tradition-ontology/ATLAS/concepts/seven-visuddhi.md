@@ -15,4 +15,4 @@
 - leads-to → [The seven purifications (satta visuddhi)](seven-purifications-concept.md): systematised by the Visuddhimagga (U37) — rests on [9-15](../texts/rathavinita-sutta.md#tea-rathavinita-sutta-9-15)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

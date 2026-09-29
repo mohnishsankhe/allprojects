@@ -13,4 +13,4 @@
 Silla Korean monk in Chang'an who studied with Xuanzang but, integrating Paramārtha's teachings, differed from Kuiji; his Saṃdhinirmocana commentary was translated into Tibetan.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:16 IST._

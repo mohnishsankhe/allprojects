@@ -20,4 +20,4 @@ Anger, exultation, wrath, greed, delusion, hypocrisy, malice, lying, gluttony, s
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/sutra/apastamba-dharmasutra.md (GRETIL) — ĀpDh 1.8.23.5 lists 'krodho harṣo roṣo lobho moho dambho droho mṛṣodyam atyāśaparīvādāv asūyā kāmamanyū anātmyam ayogaḥ', fifteen faults matching the fifteen members. ĀpDh 1.8.23.3 has 'doṣāṇāṃ tu vinirghāto yogamūla iha jīvite'. This rests on tea:apastamba-dharmasutra:1.8.23.3-6.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

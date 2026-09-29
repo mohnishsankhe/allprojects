@@ -24,4 +24,4 @@ Loving-kindness, compassion, sympathetic joy and equanimity as antidotes to mali
 _Notes: Shared id; contribution only._
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:16 IST._

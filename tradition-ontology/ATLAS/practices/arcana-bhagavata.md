@@ -20,4 +20,4 @@ Worship of the Lord in Vedic, tantric or mixed mode, in an image (of stone, wood
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — BhP 11.27.7-15 verified, including the eightfold image list (11.27.12).
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:16 IST._

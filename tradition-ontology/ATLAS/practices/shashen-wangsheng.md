@@ -17,4 +17,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 _Notes: Body-harming: restricted. No method recorded. Explicit warnings by later Pure Land teachers against the act were not verified and are listed as a gap._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

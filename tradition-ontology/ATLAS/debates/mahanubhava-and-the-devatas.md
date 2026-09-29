@@ -25,4 +25,4 @@ The gods, rites and varṇa duties enjoined by śruti and smṛti bind all; a se
 **Queue:** RQ-U26-05
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:16 IST._

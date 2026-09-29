@@ -12,4 +12,4 @@ The left thumb grasped in the right fist, the right thumb extended and the remai
   - [Śāradātilaka](../texts/saradatilaka.md) — ref: ch.4 (commentary)
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:16 IST._

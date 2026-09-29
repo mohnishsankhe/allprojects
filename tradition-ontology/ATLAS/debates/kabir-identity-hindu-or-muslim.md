@@ -28,4 +28,4 @@ Claims only that the accounts answer different questions; it does not settle the
 **The traditions' own objections:** The Kabīr Panth rejects a human birth; the Rāmānandīs reject 'neither'; Muslim claims (e.g. Kabīr as a Sufi pīr) are outside this ontology's scope and recorded only as context.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

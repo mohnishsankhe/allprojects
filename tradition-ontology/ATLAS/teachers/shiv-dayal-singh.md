@@ -16,4 +16,4 @@ Khatri of Agra who, after years of inner practice, opened public satsang on Basa
 **Realization — the tradition's account:** He practised surat-śabd yoga in a back room for some fifteen years before opening satsang to the public in 1861.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

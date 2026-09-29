@@ -25,4 +25,4 @@ Declaring the supreme secret among the Lord's devotees with supreme devotion (18
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:18.67, tea:bhagavad-gita:18.68, tea:bhagavad-gita:18.69, tea:bhagavad-gita:18.70, tea:bhagavad-gita:18.71 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:15.20 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch16-18, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch16-18, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:16 IST._

@@ -16,4 +16,4 @@
 **Related:** [iddhi](iddhi.md), [dibbacakkhu](dibbacakkhu.md), [āsavakkhaya](asavakkhaya.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

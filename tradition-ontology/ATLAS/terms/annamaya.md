@@ -19,4 +19,4 @@
 
 - 2026-09-29 text: corrected — tea:taittiriya-upanisad:2.1.1, tea:taittiriya-upanisad:2.1.1/3 — Corrected by J: Definition: removed "Its embodied self is the prāṇamaya self (2.3.1)", one construal of a disputed refrain stated as fact.
 
-_Contributed by: extraction:taittiriya-upanisad/kosa, skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:taittiriya-upanisad/kosa, skeleton:U03-principal-upanisads. Generated 2026-09-29 23:16 IST._

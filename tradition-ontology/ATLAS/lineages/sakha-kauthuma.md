@@ -36,4 +36,4 @@ _none recorded_
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Kauthuma_Samhita, https://en.wikipedia.org/wiki/Samagana — Confirmed: principal living Sāmaveda recension with the gāna books.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:16 IST._

@@ -18,4 +18,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 
 - 2026-09-29 text: confirmed — tea:hatha-yoga-pradipika:2.10, tea:hatha-yoga-pradipika:2.5, tea:hatha-yoga-pradipika:2.6, tea:hatha-yoga-pradipika:2.7, tea:hatha-yoga-pradipika:2.8, tea:hatha-yoga-pradipika:2.9 — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids). Restricted entry: method_summary checked summary-only (no steps, counts, durations, measures); warnings[] checked verbatim against the segments.
 
-_Contributed by: extraction:hatha-yoga-pradipika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:hatha-yoga-pradipika/all. Generated 2026-09-29 23:16 IST._

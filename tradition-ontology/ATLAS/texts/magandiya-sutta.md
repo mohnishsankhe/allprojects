@@ -30,4 +30,4 @@ terms: [nibbāna](../terms/nibbana.md), [kāma](../terms/kama.md) · obstacles: 
 _Notes: SuttaCentral uid mn75; Mahāsaṅgīti title 'Māgaṇḍiyasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

@@ -11,4 +11,4 @@ In a defiled mind the seed of instruction does not sprout; not even a reflection
   - [Sāṃkhya Sūtra](../texts/samkhya-sutra.md) — ref: 4.29-30; rests_on: ["tea:samkhya-sutra:4.29-30"]
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 23:16 IST._

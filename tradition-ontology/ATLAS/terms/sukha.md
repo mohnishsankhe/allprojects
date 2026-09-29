@@ -37,4 +37,4 @@
 - definitions: Chose one analysis of ātma-buddhi-prasāda-ja (18.37), which the merged teaching leaves open; aligned with it.
 - definitions: 18.39 mohanam ātmanaḥ: the merged teaching keeps the reflexive open ('deludes one's self').
 
-_Contributed by: extraction:visuddhimagga/selections, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U37-abhidhamma-visuddhimagga, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U37-abhidhamma-visuddhimagga, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:16 IST._

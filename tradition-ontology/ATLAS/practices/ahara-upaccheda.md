@@ -16,4 +16,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - By this conduct and these austerities the bodhisatta did not attain superhuman distinction of knowledge and vision; he took solid food again (MN 12; MN 36). — [Mahāsīhanāda Sutta](../texts/mahasihanada-sutta.md) MN 12 (44–56); MN 36 (20–33)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

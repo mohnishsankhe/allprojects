@@ -22,4 +22,4 @@
 - literal: '(of craving ...)' is the commentarial gloss (taṇhā-sota); '339-347' overstated the four verses that rest here.
 - definitions.0.definition: As above; wording now follows the verses.
 
-_Contributed by: extraction:dhammapada/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:dhammapada/all. Generated 2026-09-29 23:16 IST._

@@ -13,4 +13,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 _Notes: Restricted/summary only: no omen-lists recorded._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

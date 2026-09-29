@@ -24,4 +24,4 @@
 
 - text: J fidelity check: 3.11 says 'teṣām ātmā paro jīvaḥ khaṃ yathā saṃprakāśitaḥ'; 'jīva-like space' garbled it.
 
-_Contributed by: extraction:mandukya-karika/all, skeleton:U03-principal-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all, skeleton:U03-principal-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:16 IST._

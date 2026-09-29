@@ -13,4 +13,4 @@ Out of overflowing love, the devotee prays for the Lord's own long life and safe
 _Notes: Hagiographic occasion: Periyāḻvār feared the evil eye on the Lord who had appeared on Garuḍa (tea:guruparampara-prabhavam-arayirappati:periyalvar)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:16 IST._

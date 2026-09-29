@@ -34,4 +34,4 @@ Wearing an ascetic's garb or talking of yoga without practice (HYP 1.65–66; DY
 
 - names: The epic-teaching name repeated data/'s haṭha-yoga title 'Hypocrisy of the unrealised' (HYP 1.65–66, DYŚ); the Gītā's dambha (16.4, 16.10, 16.17, 17.5, 17.12, 17.18) is hypocrisy or ostentation, as the entry's own description and trm:dambha say. The shared top-level name is left for S5.
 
-_Contributed by: skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch16-18, skeleton:U21-natha-aghora, extraction:bhagavad-gita/ch13-15, skeleton:U26-regional-bhakti, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch16-18, skeleton:U21-natha-aghora, extraction:bhagavad-gita/ch13-15, skeleton:U26-regional-bhakti, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

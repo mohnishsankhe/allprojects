@@ -26,4 +26,4 @@
 
 - 2026-09-29 text: confirmed — tea:tattvartha-sutra:8.1, tea:tattvartha-sutra:8.2, tea:tattvartha-sutra:8.3 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U28-hatha-texts, skeleton:U09-samkhya, skeleton:U12-mimamsa, skeleton:U21-natha-aghora, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U28-hatha-texts, skeleton:U09-samkhya, skeleton:U12-mimamsa, skeleton:U21-natha-aghora, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads. Generated 2026-09-29 23:16 IST._

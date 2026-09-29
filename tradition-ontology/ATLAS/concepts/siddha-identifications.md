@@ -16,4 +16,4 @@
 _Notes: Whether Mīnapa and Matsyendra are one person is itself disputed in the traditions (some Tibetan accounts treat them as two persons, e.g. father and son — recalled, low confidence) — recorded as an identification, not a fact._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:16 IST._

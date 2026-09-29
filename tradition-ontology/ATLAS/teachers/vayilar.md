@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. He worshipped Śiva in a temple built with
 **Realization — the tradition's account:** He worshipped Śiva in a temple built within his mind, with love as the offering.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:16 IST._

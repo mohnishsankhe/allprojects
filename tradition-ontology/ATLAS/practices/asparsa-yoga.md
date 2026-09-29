@@ -23,4 +23,4 @@ Named at 3.39 and 4.2; the Kārikā says it is hard for all yogins to see and th
 
 - 2026-09-29 text: confirmed — tea:mandukya-karika:3.39 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all, skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all, skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

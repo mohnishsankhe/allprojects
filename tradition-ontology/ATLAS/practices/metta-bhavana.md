@@ -37,4 +37,4 @@ _Notes: Contribution from the selected pages; the eleven benefits quoted by the 
 
 - 2026-09-29 text: confirmed — tea:visuddhimagga:9.p295, tea:visuddhimagga:9.p295/2, tea:visuddhimagga:9.p295/3, tea:visuddhimagga:9.p296, tea:visuddhimagga:9.p296/2, tea:visuddhimagga:9.p297, tea:visuddhimagga:9.p297/2, tea:visuddhimagga:9.p297/3, tea:visuddhimagga:9.p307, tea:visuddhimagga:9.p308, tea:visuddhimagga:9.p308/2 — Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan). Warnings checked by code: verbatim Pali of the cited pages.
 
-_Contributed by: extraction:visuddhimagga/selections, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

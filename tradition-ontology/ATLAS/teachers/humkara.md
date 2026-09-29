@@ -8,4 +8,4 @@
 Indian vidyādhara of the Eight Herukas transmission to whom the tantras of Yangdag (Viśuddha Heruka, enlightened mind) were entrusted; one of the eight vidyādharas.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:16 IST._

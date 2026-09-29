@@ -20,4 +20,4 @@ _Notes: 6.28-45 on inner tīrthas checked in the local e-text (numbered 4.1.6.30
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:raw_etexts:038 (4_kAshI-khaNDaH), local:sources_raw/raw_etexts/purANam/skanda-purANam/4_kAshI-khaNDaH, https://culturalheritageofvaranasi.com/essays/tracing-the-past-of-kashi-vishwanath-temple/ — Extant and digitized (local 4_kAshI-khaNDaH, 100 chapter files, pūrva and uttara). Agastya-Lopāmudrā dialogue on inner tīrthas at 4.1.6 and the tāraka teaching at 4.1.25.72-73 located. Web: present form mid-13th to early 14th c. - consistent with 'early 2nd millennium'.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:16 IST._

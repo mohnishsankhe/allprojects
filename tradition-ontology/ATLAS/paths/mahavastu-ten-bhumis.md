@@ -22,4 +22,4 @@
 Names checked in the local e-text (Mvu i.76); page ranges from the colophons ending each bhūmi in the e-text; contents of each ground not summarized here. Bands are tentative.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

@@ -16,4 +16,4 @@
 - same-as-under-standpoint → [Rejuvenation of the body (kāya kaṟpam)](kaya-kalpa.md) (rejuvenation regimens): the Siddha kāya-kaṟpam — rests on [ci.1.1.3-8](../texts/caraka-samhita.md#tea-caraka-samhita-ci-1-1-3-8)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

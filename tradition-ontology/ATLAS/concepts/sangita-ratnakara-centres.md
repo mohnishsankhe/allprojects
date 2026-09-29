@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The centres (cakra, ādhāra)](cakras.md): partial: adds lalanā, manas and soma centres to the six-centre scheme — rests on [1.2.120-139](../texts/sangita-ratnakara.md#tea-sangita-ratnakara-1-2-120-139), [14-39](../texts/sat-cakra-nirupana.md#tea-sat-cakra-nirupana-14-39)
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:16 IST._

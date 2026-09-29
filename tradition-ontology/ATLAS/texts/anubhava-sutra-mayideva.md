@@ -15,4 +15,4 @@ A Sanskrit sūtra-style exposition of the ṣaṭsthala path and the union of li
 _Notes: Reconstructed from memory; verify existence, author and date._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:16 IST._

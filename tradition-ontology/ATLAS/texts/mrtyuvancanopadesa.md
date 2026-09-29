@@ -15,4 +15,4 @@ Vāgīśvarakīrti's 'Instruction on Cheating Death': signs of approaching death
   - kind: original; name: GRETIL e-text; licence: GRETIL; url: local
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:16 IST._

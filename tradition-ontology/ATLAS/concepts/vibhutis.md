@@ -32,4 +32,4 @@
 
 - (text): YS 3.37 'te' = the arisings of 3.36 (YBh 3.37 'te prātibhādayaḥ'), not all powers
 
-_Contributed by: extraction:yoga-sutra/p3-4, extraction:bhagavad-gita/ch10-12, skeleton:U05-gita-epic, skeleton:U10-yoga, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:yoga-sutra/p3-4, extraction:bhagavad-gita/ch10-12, skeleton:U05-gita-epic, skeleton:U10-yoga, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:16 IST._

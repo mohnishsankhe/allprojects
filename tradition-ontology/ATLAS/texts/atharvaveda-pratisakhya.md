@@ -21,4 +21,4 @@ _Notes: Local copies: ebhAratI vedAngAni/shixA/atharvavedaprAtishAkhyam(-mUlam).
 
 - 2026-09-28 catalog: confirmed — catalog:raw_etexts:atharva_veda_pratishakhya_chaturadhyayi, catalog:eBharati:atharvavedaprAtishAkhyam — Extant locally (Śaunakīyā Caturādhyāyikā, in 4 adhyāyas), as the entry says.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

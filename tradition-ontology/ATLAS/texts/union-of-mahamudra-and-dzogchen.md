@@ -28,4 +28,4 @@ concepts: [The union of Mahāmudrā and Dzogchen](../concepts/mahamudra-dzogchen
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

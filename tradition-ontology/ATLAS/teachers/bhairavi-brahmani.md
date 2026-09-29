@@ -13,4 +13,4 @@ Wandering woman tantric adept who taught Ramakrishna the sixty-four tantric sād
 _Notes: Known from the Ramakrishna biographies (U52)._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula, skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula, skeleton:U23-sakta-srividya. Generated 2026-09-29 23:16 IST._

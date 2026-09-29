@@ -19,4 +19,4 @@
 **Related:** [natthikavāda](natthikavada.md), [ucchedavāda](ucchedavada.md), [śūnyavāda](sunyavada.md)
 
 ---
-_Contributed by: skeleton:U33-sramana, skeleton:U02-brahmana-vedanga, skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U33-sramana, skeleton:U02-brahmana-vedanga, skeleton:U40-madhyamaka. Generated 2026-09-29 23:16 IST._

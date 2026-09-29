@@ -9,4 +9,4 @@
 One of the group of five monks (pañcavaggiyā) to whom the first discourse was taught at Isipatana; became an arahant with the Anattalakkhaṇa Sutta (Vin Mv 1.6).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

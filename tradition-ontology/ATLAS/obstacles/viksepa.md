@@ -23,4 +23,4 @@ _Notes: The Madhyāntavibhāga list is paraphrased from 5.12–13 (checked in th
 
 - 2026-09-29 text: confirmed — tea:mandukya-karika:3.42, tea:mandukya-karika:3.43, tea:mandukya-karika:3.44, tea:mandukya-karika:3.46 — Gauḍapāda sense confirmed: data obs:viksepa's description cites GK 3.44; the shard contribution matches 3.42–3.46. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all, skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U41-yogacara-pramana, skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all, skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U41-yogacara-pramana, skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

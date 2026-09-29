@@ -19,4 +19,4 @@
 _Notes: The count of 45 and the grouping are medieval; the Nandī uses the aṅga-praviṣṭa / aṅga-bāhya scheme instead._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

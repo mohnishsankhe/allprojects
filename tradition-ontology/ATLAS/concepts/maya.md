@@ -31,4 +31,4 @@
 
 - names: The epic-teaching name repeated data/'s Upaniṣadic title 'Māyā in the principal Upaniṣads' for a Gītā contribution (18.61). The shared top-level name is left for S5.
 
-_Contributed by: skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch16-18, skeleton:U13-advaita, skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch16-18, skeleton:U13-advaita, skeleton:U26-regional-bhakti. Generated 2026-09-29 23:16 IST._

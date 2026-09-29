@@ -13,4 +13,4 @@
 Heir of Nanquan who taught for forty years in old age; famed for his 'wu' to 'does a dog have buddha-nature?', 'the cypress in front of the hall', 'wash your bowl', 'have some tea'.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

@@ -10,4 +10,4 @@ The royal sage who praised vāyu as the upholder of body and world, 'the lord V�
 _Notes: Refs checked against the DCS e-text of the Caraka Saṃhitā._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

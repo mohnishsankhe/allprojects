@@ -14,4 +14,4 @@
 - partial: [vimarśa](vimarsa.md) — the Pratyabhijñā's vimarśa (reflexive awareness as supreme speech) develops Bhartṛhari's pratyavamarśa
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:16 IST._

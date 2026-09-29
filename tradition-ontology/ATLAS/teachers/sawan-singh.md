@@ -14,4 +14,4 @@
 Army engineer and Jaimal Singh's successor at Beas (1903–1948), who spread Sant Mat to India and the West; author of Gurmat Siddhānt and Spiritual Gems.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

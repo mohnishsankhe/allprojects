@@ -18,4 +18,4 @@
 - contrasts-with → [The three trainings (tisso sikkhā)](three-trainings.md): Both are threefold paths, but the Jain triad begins with right view of the realities and makes conduct the culminating member; not an equivalence. — rests on [1.1](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-1-1)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

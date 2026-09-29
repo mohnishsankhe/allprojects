@@ -51,7 +51,7 @@ concepts: [Stability of the body (piṇḍa-sthairya)](../concepts/pinda-sthairy
 ### 1.18-21 <a id="tea-rasarnava-1-18-21"></a>
 `skeleton` · confidence high · _restricted: summary only_
 
-The stability of the body is gained by the discipline of action (karmayoga), which is twofold: mercury and breath. 'Swooned, it removes disease; dead, it revives itself; bound, it gives the power of moving in the sky — mercury and breath, O Bhairavī.' Liberation is from knowledge, knowledge from holding the breath; the body is stable where mercury is lord in stabilizing it; soon the body becomes ageless and deathless (the second line of 1.21, on meditation of the mind and the yoga of mercury, is of uncertain sense and not paraphrased).
+A restricted practice, recorded as a summary only; the method is not kept.
 
 > karmayogena deveśi prāpyate piṇḍadhāraṇam | rasaśca pavanaśceti karmayogo dvidhā mataḥ
 
@@ -108,4 +108,4 @@ concepts: [Guru, disciple and secrecy in Rasa Śāstra](../concepts/rasa-guru-an
 
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

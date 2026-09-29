@@ -25,4 +25,4 @@ Study of scripture and its right interpretation under a teacher. In Dvaita: hear
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.26 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 2.4.5; BĀU 4.5.6). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:16 IST._

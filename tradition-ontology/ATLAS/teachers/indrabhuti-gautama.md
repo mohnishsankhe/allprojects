@@ -14,4 +14,4 @@ The first and chief gaṇadhara of Mahāvīra, a brāhmaṇa of Gobbara near Rā
 **Realization — the tradition's account:** His love for Mahāvīra was the last bond; when he learned of Mahāvīra's nirvāṇa he grieved, reflected on the Jina's detachment, and attained omniscience that night.
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

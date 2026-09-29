@@ -19,4 +19,4 @@
 **Related:** [śvetāmbara](svetambara.md), [acela / acelaka](acela.md), [nirgrantha](nirgrantha.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

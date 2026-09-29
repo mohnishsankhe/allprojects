@@ -18,4 +18,4 @@ Vism III: the impediments to be cut before taking a meditation subject are dwell
 
 - 2026-09-29 text: confirmed — tea:visuddhimagga:3.p89/3, tea:visuddhimagga:3.p89/4, tea:visuddhimagga:3.p90, tea:visuddhimagga:3.p90/2, tea:visuddhimagga:3.p91/2, tea:visuddhimagga:3.p93/2, tea:visuddhimagga:3.p93/3, tea:visuddhimagga:3.p94, tea:visuddhimagga:3.p94/2, tea:visuddhimagga:3.p95/2, tea:visuddhimagga:3.p95/3, tea:vis — Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan).
 
-_Contributed by: extraction:visuddhimagga/selections, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:16 IST._

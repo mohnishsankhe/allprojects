@@ -16,4 +16,4 @@
 
 - 2026-09-29 text: confirmed — tea:mandukya-karika:3.32 — Sense-specific id confirmed: data trm:samkalpa is the Dharmaśāstra 'intention' of rites and vows; GK 3.32 is the mind's forming of conceptions. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

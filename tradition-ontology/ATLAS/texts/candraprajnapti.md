@@ -14,4 +14,4 @@
 An Upāṅga on the moon's course and calendar, nearly identical with the Sūryaprajñapti apart from its opening.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

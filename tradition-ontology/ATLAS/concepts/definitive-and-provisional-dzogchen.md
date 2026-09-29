@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [Provisional and definitive meaning](neyartha-nitartha.md): a text-internal use of the neyārtha / nītārtha distinction — rests on [33](../texts/kunjed-gyalpo.md#tea-kunjed-gyalpo-33)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:16 IST._

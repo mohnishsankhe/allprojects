@@ -58,4 +58,4 @@ The umbrella of Goddess-centred traditions: Purāṇic devotion to the Devī of 
 [Must the devotee of Kṛṣṇa abstain from worshipping other deities (and from animal sacrifice to them)?](../debates/ekasarana-and-other-deities.md), [Is māyā the Goddess's real power (śakti), or an indeterminable ignorance that knowledge sublates?](../debates/maya-sakti-or-avidya.md), [Is Śakti supreme, is Śiva supreme, or are they equal?](../debates/siva-sakti-primacy.md), [Is Viṣṇu or Śiva (or the Goddess) the supreme deity?](../debates/supremacy-visnu-or-siva.md), [Which 'Bhāgavata' is the Mahāpurāṇa of the lists - the Śrīmad (Viṣṇu) Bhāgavata or the Devī Bhāgavata?](../debates/which-bhagavata-is-the-mahapurana.md), [Is the world real, or an appearance (mithyā) that is neither real nor unreal, superimposed on the one reality — and is māyā an indeterminable ignorance or the Lord's real power?](../debates/world-real-or-appearance.md)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:16 IST._

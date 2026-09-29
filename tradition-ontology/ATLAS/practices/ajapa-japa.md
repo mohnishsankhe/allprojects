@@ -29,4 +29,4 @@ _Notes: U04 files this under category 'mantra-sound'; it is both a breath and a 
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:3-hamsa-mantra (corrected); tea:mahavakya-upanisad:3-4 (corrected).
 
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora, skeleton:U29-hatha-practices, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora, skeleton:U29-hatha-practices, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

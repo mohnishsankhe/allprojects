@@ -19,4 +19,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - analogous: [Hut-entering rejuvenation (kuṭīprāveśika)](kutipravesika-rasayana.md) — rejuvenation in seclusion
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

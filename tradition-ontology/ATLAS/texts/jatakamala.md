@@ -18,4 +18,4 @@
 _Notes: Added here as a member of the six Kadam texts; the Indian text belongs to the Mahāyāna units._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

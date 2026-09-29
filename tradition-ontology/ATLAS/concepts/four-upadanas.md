@@ -18,4 +18,4 @@
 
 - 2026-09-29 text: confirmed — tea:visuddhimagga:17.p569, tea:visuddhimagga:17.p570 — Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan).
 
-_Contributed by: extraction:visuddhimagga/selections, skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections, skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

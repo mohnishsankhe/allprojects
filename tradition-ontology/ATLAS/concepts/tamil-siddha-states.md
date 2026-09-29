@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The five states (avasthā) in the Siddhānta](five-avasthas.md) (shared Tamil Śaiva vocabulary): the same five names as in Tamil Śaiva Siddhānta
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:16 IST._

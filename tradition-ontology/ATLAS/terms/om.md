@@ -31,4 +31,4 @@ _Notes: U05's definition (the Gītā usage); Oṃ in the Upaniṣads and mantra-
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.25, tea:bhagavad-gita:8.13 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:17.23, tea:bhagavad-gita:17.24 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch16-18, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch16-18, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:16 IST._

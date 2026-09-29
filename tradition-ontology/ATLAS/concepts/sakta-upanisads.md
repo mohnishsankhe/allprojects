@@ -15,4 +15,4 @@
 _Notes: Membership from memory of the Muktikā grouping; U04 owns the texts._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:16 IST._

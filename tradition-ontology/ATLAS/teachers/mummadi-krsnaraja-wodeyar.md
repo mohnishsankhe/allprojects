@@ -13,4 +13,4 @@
 Mahārāja of Mysore under whose patronage the illustrated Śrītattvanidhi, with its section of postures, was compiled; the Mysore palace later hosted T. Krishnamacharya's yoga school under a successor.
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:16 IST._

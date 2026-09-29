@@ -11,4 +11,4 @@ Holding the mind one-pointedly on its object without analysis — the method for
   - [Great Treatise on the Stages of the Path to Enlightenment (lam rim chen mo)](../texts/lamrim-chenmo.md) — ref: intro.analytical-and-placement; rests_on: ["tea:lamrim-chenmo:intro.analytical-and-placement"]
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

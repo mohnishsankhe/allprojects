@@ -9,4 +9,4 @@
 One of Rāmānanda's twelve disciples named in the Bhaktamāl.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:16 IST._

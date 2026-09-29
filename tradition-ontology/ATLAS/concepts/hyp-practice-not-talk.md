@@ -20,4 +20,4 @@
 
 - definitions[0].definition: J check (insight-p1-single+spot): Aligned with the J correction of 4.40: 'liberating light' blended the sense of tāraka (deliverer, that which carries across) with 'light', which the verse does not say.
 
-_Contributed by: extraction:hatha-yoga-pradipika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:hatha-yoga-pradipika/all. Generated 2026-09-29 23:16 IST._

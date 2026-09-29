@@ -21,4 +21,4 @@
 - text: J fidelity check: The four corners are the text's own term only at 4.84 for 4.83's list; 4.22 removed from rests_on; the fourth corner kept in the text's words.
 - definitions[0].rests_on: J: 4.22 is not the four-corner list
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

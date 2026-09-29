@@ -20,4 +20,4 @@
 Stage names and order verified against the local e-text (Cowell recension, ebharati): prāṇāyāmaḥ pratyāhāro dhyānaṃ dhāraṇā tarkaḥ samādhiḥ ṣaḍaṅga ity ucyate yogaḥ (6.18). Stages 7-8 are the fruit stated in the same section; they are added so that the map reaches its own goal.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:16 IST._

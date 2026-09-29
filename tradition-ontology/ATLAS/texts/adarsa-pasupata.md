@@ -11,4 +11,4 @@
 A lost Pāśupata treatise known only from a mention in the Sarvadarśanasaṃgraha.
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:16 IST._

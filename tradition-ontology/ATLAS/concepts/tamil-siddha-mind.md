@@ -13,4 +13,4 @@
 - part-of → [The ninety-six principles](ninety-six-tattvas.md): karaṇam 4 and pulaṉ 5 are among the 96
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:16 IST._

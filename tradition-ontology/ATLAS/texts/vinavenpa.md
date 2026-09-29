@@ -13,4 +13,4 @@
 Umāpati's thirteen veṇpās put as questions (viṉā) to Meykaṇṭār on the relation of soul, mala and Śiva in union.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:16 IST._

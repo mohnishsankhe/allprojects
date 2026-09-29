@@ -30,4 +30,4 @@ teachers: [Moheyan 摩訶衍 (Hwashang Mahāyāna)](../teachers/moheyan.md) · d
 _Notes: Dunhuang (P. 4646, S. 2672); not held locally. The Chinese side of the Samye debate (dsp:sudden-or-gradual, U50)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

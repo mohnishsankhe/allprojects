@@ -26,4 +26,4 @@ That same meditation, shining as the object alone and as if empty of its own for
 
 - (text): YS 3.37 'te' = the arisings of 3.36
 
-_Contributed by: extraction:yoga-sutra/p3-4, skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:yoga-sutra/p3-4, skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 23:16 IST._

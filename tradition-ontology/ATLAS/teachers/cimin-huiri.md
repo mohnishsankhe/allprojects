@@ -11,4 +11,4 @@ Tang pilgrim to India (702–719) who on his return taught Pure Land practice jo
 **Realization — the tradition's account:** After travelling to India he prayed at Gandhāra and received a vision of Avalokiteśvara urging him to the Pure Land (as recalled).
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

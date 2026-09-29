@@ -14,4 +14,4 @@
 Kadam master who, moved by the line 'giving victory to others, taking defeat upon oneself' of the Eight Verses, trained under Sharawa and composed the Seven-Point Mind Training; the tradition tells that he taught mind training to lepers, who were cured.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

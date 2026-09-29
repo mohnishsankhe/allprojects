@@ -14,4 +14,4 @@
 _Notes: The Theravāda's only 'seat of mind' teaching; no channel/cakra anatomy is taught in the Abhidhamma (contrast the borān and Dhammakāya bodily bases)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:16 IST._

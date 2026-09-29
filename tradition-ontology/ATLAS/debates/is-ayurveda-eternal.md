@@ -20,4 +20,4 @@ Caraka: it is eternal — beginningless, established by nature; 'origin' refers 
 **Explanation:** Caraka's own distinction: eternal in its content (the nature of things), originated only as understanding and teaching.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

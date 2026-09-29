@@ -13,4 +13,4 @@
 Kakunyo's record of sayings of Shinran said to have been transmitted through Nyoshin, used to assert Honganji's lineage.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

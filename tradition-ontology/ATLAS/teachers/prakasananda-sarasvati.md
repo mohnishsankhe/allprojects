@@ -10,4 +10,4 @@ Leader of the Advaita renouncers at Vārāṇasī whom, the Caitanya Caritāmṛ
 _Notes: Known for this episode only from Gauḍīya sources; identification with an Advaita author of the same name is disputed._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

@@ -16,4 +16,4 @@ Worship of the inner liṅga of consciousness in the heart-shrine with inner off
 - partial: [Mental temple-building and worship](manasa-puja.md) — inner worship with mental offerings; here directed to the prāṇaliṅga and ranked above ritual worship
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:16 IST._

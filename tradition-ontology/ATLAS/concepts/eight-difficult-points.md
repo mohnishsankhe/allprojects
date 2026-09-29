@@ -15,4 +15,4 @@
 - contrasts-with → [The store-consciousness (ālaya-vijñāna)](alaya-vijnana.md): rejects a distinct store-consciousness — rests on [list](../texts/eight-difficult-points-memorandum.md#tea-eight-difficult-points-memorandum-list)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

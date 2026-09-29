@@ -12,4 +12,4 @@ Offence against the Lord's devotees, including judging them by birth; the graves
   - [Śrīvacanabhūṣaṇam](../texts/srivacana-bhusanam.md) — ref: 3; rests_on: ["tea:srivacana-bhusanam:3"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:16 IST._

@@ -11,4 +11,4 @@
 Pupil of Khaṇḍadeva; author of the Prabhāvalī on the Bhāṭṭadīpikā.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:16 IST._

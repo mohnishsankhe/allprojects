@@ -12,4 +12,4 @@ One of the thirteen ascetic practices: the any-bed user's practice, undertaken b
   - [Visuddhimagga](../texts/visuddhimagga.md) — ref: II; rests_on: ["tea:visuddhimagga:2"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:16 IST._

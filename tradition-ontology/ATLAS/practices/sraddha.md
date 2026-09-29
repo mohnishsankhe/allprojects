@@ -17,4 +17,4 @@ Rites of faith for the dead and the ancestors - ekoddiṣṭa for the preta, the
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:garuda-purana:2.5.49-55, tea:garuda-purana:2.5.85-154 — GP 2.5.49-55, 2.5.85-154 located; MkP 30-33 confirmed by colophons (30 naimittikādi-śrāddhakalpa, 31 pārvaṇa-śrāddhakalpa, 32 śrāddhakalpa, 33 kāmya-śrāddha). All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:16 IST._

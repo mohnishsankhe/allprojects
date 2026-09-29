@@ -14,4 +14,4 @@ Solemn rites performed in three fires (gārhapatya, āhavanīya, dakṣiṇāgni
 **Sequences:** [The Vedic ritual career: from initiation to the soma rites and the world of the fathers](../paths/srauta-sequence.md)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:16 IST._

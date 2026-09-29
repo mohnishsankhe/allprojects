@@ -14,4 +14,4 @@
 _Notes: The Vedāntasāra's graded list (tea:vedantasara:refutation) distinguishes Cārvākas who take the gross body, the senses, the breath or the mind as the self._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:16 IST._

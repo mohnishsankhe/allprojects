@@ -16,4 +16,4 @@ Later (17th-c.) vacanas and songs arranged by the ṣaṭsthala scheme.
 _Notes: aṅkita (signature): Akhaṇḍēśvara (low confidence). Cited by incipit; edition numbering to be fixed in Phase D._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:16 IST._

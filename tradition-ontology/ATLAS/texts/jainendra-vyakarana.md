@@ -17,4 +17,4 @@ Pūjyapāda Devanandin's Pāṇini-based grammar for Jain use.
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Pujyapada, https://www.wisdomlib.org/history/book/glimpses-of-history-of-sanskrit-literature/d/doc1546773.html — Confirmed: composed by Pūjyapāda Devanandin (6th c.; Wikipedia gives c. 510–600 CE).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

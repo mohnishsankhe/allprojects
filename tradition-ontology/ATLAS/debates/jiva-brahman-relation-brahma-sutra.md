@@ -25,4 +25,4 @@ Kāśakṛtsna: Brahman itself abides as the individual self (accepted by Śaṅ
 **Candidate readings:** Advaita: Kāśakṛtsna final (identity), others provisional.; Bhedābheda (Bhāskara, Nimbārka): Āśmarathya or Auḍulomi closer to the truth.; P4-stage: Auḍulomi describes the bound state, Kāśakṛtsna the truth realized in liberation.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

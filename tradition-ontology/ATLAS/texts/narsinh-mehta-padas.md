@@ -51,4 +51,4 @@ terms: [vaiṣṇava jana](../terms/vaisnava-jana.md) · concepts: [The marks of
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:16 IST._

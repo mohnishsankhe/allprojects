@@ -17,4 +17,4 @@
 - contrasts-with → [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](kaivalya.md): Kauṇḍinya sets the Pāśupata lordship beyond others' isolation — rests on [5.46](../texts/pancarthabhasya.md#tea-pancarthabhasya-5-46)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:16 IST._

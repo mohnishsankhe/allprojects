@@ -14,4 +14,4 @@
 - contrasts-with → [The eight lordly powers (aṣṭa-aiśvarya)](anima-adi-siddhis.md): the more common list of aṇimā etc. — rests on [sa.1.140-141](../texts/caraka-samhita.md#tea-caraka-samhita-sa-1-140-141)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

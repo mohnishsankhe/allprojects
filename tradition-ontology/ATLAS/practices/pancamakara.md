@@ -18,4 +18,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - Rejected by the Samaya school as outside the Vedic path. — [Lakṣmīdharā (commentary on the Saundaryalaharī)](../texts/laksmidhara.md) 31, 41
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:16 IST._

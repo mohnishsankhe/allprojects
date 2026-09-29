@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [Eligibility (adhikāra)](adhikara.md) (stage of the student (P4)): an adaptation of teaching to the capacity of the hearer — rests on [23](../texts/uttaradhyayana-sutra.md#tea-uttaradhyayana-sutra-23)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

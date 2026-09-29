@@ -15,4 +15,4 @@
 Indian dhyāna master and translator (359-429) who with Faxian translated the six-fascicle Nirvāṇa Sūtra and alone the 60-fascicle Avataṃsaka (418-421) and the Tathāgatagarbha Sūtra.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

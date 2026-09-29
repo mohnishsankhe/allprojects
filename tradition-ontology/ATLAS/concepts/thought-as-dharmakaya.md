@@ -13,4 +13,4 @@
 - contrasts-with → [Śamatha and vipaśyanā in Mahāmudrā](samatha-vipasyana-in-mahamudra.md): śamatha calms thoughts; this view recognizes them
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

@@ -19,4 +19,4 @@
 All stages lie within the goal (prema); banded B7 as gradations of the attained goal. Kṛṣṇadāsa compares them to the stages of refining sugar-cane (CC 2.23; verse to verify).
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

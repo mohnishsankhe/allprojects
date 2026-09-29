@@ -24,4 +24,4 @@
 
 - text: J fidelity check: 'in-between' for ubhayatva is the commentators' reading (see GK 1.20, MU 10).
 
-_Contributed by: extraction:mandukya-karika/all, extraction:mandukya-upanisad/all, skeleton:U04-minor-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all, extraction:mandukya-upanisad/all, skeleton:U04-minor-upanisads. Generated 2026-09-29 23:16 IST._

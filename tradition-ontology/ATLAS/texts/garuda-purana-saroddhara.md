@@ -22,4 +22,4 @@ _Notes: Compiler's name and date not verified - low confidence; kept as the text
 
 - 2026-09-29 websearch: confirmed — https://archive.org/details/garuapurasroddh00subrgoog, https://wellcomecollection.org/works/e36gjq7f, https://sacred-texts.com/hin/gpu/gpu02.htm — Confirmed: the Sāroddhāra (16 chapters) is the work of Naunidhirāma (Navanidhirāma of Jhunjhunu); English translation by Ernest Wood and S.V. Subrahmanyam, Sacred Books of the Hindus vol. 9 (Allahabad 1911). The low-confidence compiler name is now confirmed.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:16 IST._

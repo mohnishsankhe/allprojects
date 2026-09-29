@@ -18,4 +18,4 @@ Avalokitavrata's vast sub-commentary on the Prajñāpradīpa, a major source for
   - kind: translation; name: Tibetan translation, Derge Tengyur D3859 (shes rab sgron ma rgya cher 'grel pa) — catalog:Derge-Tengyur:D3859
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:16 IST._

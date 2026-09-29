@@ -21,4 +21,4 @@
 - 2026-09-29 text: partially-confirmed — tea:yoga-bhasya:1.24 — Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:16.23, tea:bhagavad-gita:16.24, tea:bhagavad-gita:17.1, tea:bhagavad-gita:17.5, tea:bhagavad-gita:17.5-6 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:yoga-sutra/p1-2, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:yoga-sutra/p1-2, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:16 IST._

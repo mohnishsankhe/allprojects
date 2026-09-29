@@ -22,4 +22,4 @@
 - definitions.0.definition: 332 (sāmaññatā, service of samaṇas) is a different sense; its link was removed.
 - definitions.0.rests_on: As above.
 
-_Contributed by: extraction:dhammapada/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:dhammapada/all. Generated 2026-09-29 23:16 IST._

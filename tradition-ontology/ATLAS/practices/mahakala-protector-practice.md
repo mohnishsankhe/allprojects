@@ -9,4 +9,4 @@
 Daily and annual rituals to the protector — Bernagchen for the Karma Kagyu, six-armed Mahākāla for the Shangpa — to remove obstacles to practice.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

@@ -24,4 +24,4 @@ _Notes: Chs. 7–9 contribution (extractor A linked trm:bandha at 9.9 and 9.28; 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:9.9, tea:bhagavad-gita:9.28 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.3, tea:bhagavad-gita:5.12, tea:bhagavad-gita:4.14, tea:bhagavad-gita:4.22, tea:bhagavad-gita:4.41 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 23:16 IST._

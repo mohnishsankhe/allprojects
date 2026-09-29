@@ -13,4 +13,4 @@
 Nephew of Bhaṭṭoji Dīkṣita and author of the Vaiyākaraṇa-bhūṣaṇa and its abridgment, the Bhūṣaṇa-sāra, which defend the grammarians' theory of meaning and the sphoṭa against Mīmāṃsā and Navya-Nyāya.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:16 IST._

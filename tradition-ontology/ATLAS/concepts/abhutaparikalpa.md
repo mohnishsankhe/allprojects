@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The three natures (sūtra layer)](three-natures.md) (Yogācāra): it is the dependent nature — rests on [1.6](../texts/madhyantavibhaga.md#tea-madhyantavibhaga-1-6)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:16 IST._

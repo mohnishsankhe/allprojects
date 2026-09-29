@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:agni-purana:370, tea:bhagavata-purana:5.26.5-7, tea:markandeya-purana:13-15, tea:visnu-purana:2.6.39-45, tea:visnu-purana:2.6.46-47 — BhP 5.26.5-7, VP 2.6, MkP 12 (colophon 'mahārauravādinarakākhyāna'), MkP 13-15, Agni 370 located. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:16 IST._

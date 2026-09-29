@@ -18,4 +18,4 @@ _Notes: Named in HYP 1.8. The verse's 'allamaḥ prabhudevaśca' may name one pe
 
 - notes: J check (insight-p1-single+spot): Aligned with the J note on 1.8: the division of 'allamaḥ prabhudevaśca' is uncertain.
 
-_Contributed by: extraction:hatha-yoga-pradipika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:hatha-yoga-pradipika/all. Generated 2026-09-29 23:16 IST._

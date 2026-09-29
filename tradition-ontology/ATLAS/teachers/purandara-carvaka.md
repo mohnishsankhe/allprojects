@@ -12,4 +12,4 @@ A Cārvāka author quoted by Kamalaśīla: 'the Cārvākas too accept inference 
 _Notes: Do not confuse with tch:purandara-dasa (the Kannada Haridāsa poet)._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:16 IST._

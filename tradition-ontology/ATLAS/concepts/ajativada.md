@@ -23,4 +23,4 @@
 
 - text: J fidelity check: 4.22 does not have the 'both or neither' formula.
 
-_Contributed by: extraction:mandukya-karika/all, skeleton:U49-cross-family, skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all, skeleton:U49-cross-family, skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

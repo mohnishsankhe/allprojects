@@ -16,4 +16,4 @@ A formal recital of the whole Bhāgavata over seven days, modelled on Śuka's te
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-mahatmya:1-6 — Bhāgavata Māhātmya chs. 1-6 (local) located. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:16 IST._

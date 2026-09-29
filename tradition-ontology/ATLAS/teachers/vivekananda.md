@@ -12,4 +12,4 @@ In U06's context (recent reception): he often quoted the Avadhūta Gītā and th
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Ashtavakra_Gita, https://en.wikipedia.org/wiki/Avadhuta_Gita — Ramakrishna had Narendra read the Aṣṭāvakra Saṃhitā to him; Vivekananda often quoted the Avadhūta Gītā.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:16 IST._

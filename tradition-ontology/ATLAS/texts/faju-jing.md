@@ -14,4 +14,4 @@
 The earliest Chinese Dharmapada, combining a core close to the Pali Dhammapada with additional chapters.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

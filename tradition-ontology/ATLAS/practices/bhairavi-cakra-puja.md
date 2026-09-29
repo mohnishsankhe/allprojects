@@ -17,4 +17,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - The wilful, the uninitiated, one who drinks the unconsecrated substance, takes a woman by force or kills for his own pleasure, and the addict without Kaula instruction go to hell; the intoxicated Kaula knows neither meditation nor God nor guru and falls. — [Kulārṇava Tantra](../texts/kularnava-tantra.md) 5.96-105
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:16 IST._

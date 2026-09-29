@@ -20,4 +20,4 @@
 **Realization — the tradition's account:** Tradition says the Śivārkamaṇidīpikā was written under the patronage of Cinna Bomma of Vellore.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U13-advaita, skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U13-advaita, skeleton:U12-mimamsa. Generated 2026-09-29 23:16 IST._

@@ -22,4 +22,4 @@ Grasping at possessions and hoarding, which brings suffering and attack (the osp
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:18.53 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition) — Rests on tea:uddhava-gita:11.9.1-2, tea:uddhava-gita:11.8.9-12, tea:uddhava-gita:11.8.15-16, tea:samyaka-gita:12.170; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U34-jain-canon, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U34-jain-canon, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:16 IST._

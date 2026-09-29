@@ -20,4 +20,4 @@
 **Related:** [akula](akula.md), [kaula](kaula.md), [śakti](sakti.md)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula, skeleton:U21-natha-aghora, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula, skeleton:U21-natha-aghora, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:16 IST._

@@ -33,4 +33,4 @@ teachers: [Śiva](../teachers/siva.md)
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — BhP 4.24: Śiva meets the Pracetās (4.24.23-27), declares the devotee of Vāsudeva dear to him (4.24.28) and recites the hymn 4.24.33-79 ('gītaṃ mayedam', 4.24.79); the stated range is right.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:16 IST._

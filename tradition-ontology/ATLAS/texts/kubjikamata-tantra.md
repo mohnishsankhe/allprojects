@@ -107,4 +107,4 @@ practices: [Yogic departure from the body (utkrānti)](../practices/utkranti.md)
 
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:16 IST._

@@ -36,4 +36,4 @@ The Devī Bhāgavata is the Mahāpurāṇa 'Bhāgavata'; the Viṣṇu Bhāgavat
 
 - historical_debates: Sides confirmed (Matsya 53.20-22, BhP 12.13.9-15, DBhP 1.3 located; DBhP 1.3.16 lists 'bhāgavatam' among the Upapurāṇas). The historical debate's date '(c. 18th-19th c., not checked)' is corrected: the Durjanamukhacapeṭikā was written by Rāmāśrama (Bhānuji Dīkṣita, son of Bhaṭṭoji Dīkṣita) in defence of the Viṣṇu-Bhāgavata, answered by the Śākta Durjanamukhamahācapeṭikā of Kāśīnātha Bhaṭṭa of Vārāṇasī; Mitra Miśra's Vīramitrodaya (17th c.) also backed the Viṣṇu-Bhāgavata - a 17th-18th c. controversy (later printings exist).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:16 IST._

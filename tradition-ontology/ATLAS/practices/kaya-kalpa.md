@@ -22,4 +22,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - partial: [Rejuvenation therapy (rasāyana) — herbal](rasayana.md) — Āyurvedic rejuvenation; the Siddha form includes yogic and breath means
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:16 IST._

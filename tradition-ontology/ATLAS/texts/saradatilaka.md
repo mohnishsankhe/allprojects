@@ -167,4 +167,4 @@ practices: [Ritual hand-gestures (hasta-mudrā) in worship](../practices/ritual-
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked). (paṭalas 1–2 checked in the Muktabodha M00077 e-text with the Padārthādarśa)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U08-agama-catalogue. Generated 2026-09-29 23:16 IST._

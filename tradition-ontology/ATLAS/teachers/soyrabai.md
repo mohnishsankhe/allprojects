@@ -11,4 +11,4 @@
 Wife of Cokhāmeḷā, poet of abhaṅgas that question bodily impurity and celebrate oneness in devotion.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:16 IST._

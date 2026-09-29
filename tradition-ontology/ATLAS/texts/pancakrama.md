@@ -254,4 +254,4 @@ concepts: [The observance of the realized yogin (vratacaryā)](../concepts/vrata
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:16 IST._

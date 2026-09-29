@@ -10,4 +10,4 @@ Daily chanting of the Heart Sūtra, dhāraṇīs (e.g. the Great Compassion Dhā
 **Stage:** all
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

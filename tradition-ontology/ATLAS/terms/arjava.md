@@ -21,4 +21,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.8 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:16.1, tea:bhagavad-gita:17.14, tea:bhagavad-gita:18.42 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch16-18, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch16-18, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

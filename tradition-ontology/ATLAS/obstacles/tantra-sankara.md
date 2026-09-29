@@ -11,4 +11,4 @@ Performing a rite series by a different tantra from the one begun, or installing
   - [Kāmikāgama](../texts/kamika-agama.md) — ref: purva.1.104-107; rests_on: ["tea:kamika-agama:purva.1.104-107"]
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:16 IST._

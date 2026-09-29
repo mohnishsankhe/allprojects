@@ -30,4 +30,4 @@ _Notes: Restricted practice (works on the body's parts as repulsive); recorded b
 
 - 2026-09-29 text: confirmed — tea:visuddhimagga:3.p111/2, tea:visuddhimagga:3.p111/3, tea:visuddhimagga:3.p114, tea:visuddhimagga:3.p114/3, tea:visuddhimagga:8.p266 — Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan). Restricted: summary-only confirmed, no procedure; only the text's own statements (not to be enlarged) quoted. Warnings checked by code: verbatim Pali of the cited pages.
 
-_Contributed by: extraction:visuddhimagga/selections, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:16 IST._

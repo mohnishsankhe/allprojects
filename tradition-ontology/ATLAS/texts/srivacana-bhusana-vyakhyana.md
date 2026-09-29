@@ -15,4 +15,4 @@
 Maṇavāḷa Māmuni's commentary on the Śrīvacanabhūṣaṇam, the standard Teṅkalai reading of the work.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:16 IST._

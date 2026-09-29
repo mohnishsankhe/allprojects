@@ -18,4 +18,4 @@ In Vism IX, resentment (āghāta) arising in the meditator when loving-kindness 
 
 - 2026-09-29 text: confirmed — tea:visuddhimagga:22.p684, tea:visuddhimagga:9.p298, tea:visuddhimagga:9.p298/2, tea:visuddhimagga:9.p299, tea:visuddhimagga:9.p300, tea:visuddhimagga:9.p300/2, tea:visuddhimagga:9.p301, tea:visuddhimagga:9.p301/2, tea:visuddhimagga:9.p302, tea:visuddhimagga:9.p305/2, tea:visuddhimagga:9.p305/3, tea — Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan).
 
-_Contributed by: extraction:visuddhimagga/selections, skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections, skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

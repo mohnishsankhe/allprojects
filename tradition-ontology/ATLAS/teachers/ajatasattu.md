@@ -8,4 +8,4 @@
 King of Magadha who killed his father Bimbisāra and later confessed to the Buddha (DN 2).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

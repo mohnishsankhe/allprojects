@@ -12,4 +12,4 @@ Giving, morality, patience, vigor, meditation and wisdom practiced together, eac
   - [Ugraparipṛcchā](../texts/ugrapariprccha.md) — rests_on: ["tea:ugrapariprccha:home"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:16 IST._

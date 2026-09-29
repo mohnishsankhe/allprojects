@@ -64,4 +64,4 @@ The teaching and community of the Buddha Gotama and his first generations of dis
 _Notes: 'Early Buddhism' is used here as the umbrella for the shared Nikāya/Āgama teaching; the living carrier in Pali is lin:theravada, the other early schools belong to U38. Status 'absorbed': it survives through its descendant schools. No parent is set so that it counts as its own root in convergence counts; its śramaṇa milieu is recorded under transmissions_received._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

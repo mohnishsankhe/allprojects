@@ -16,4 +16,4 @@
 _Notes: Id disambiguated from Buddhist 'śikṣā' (training)._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

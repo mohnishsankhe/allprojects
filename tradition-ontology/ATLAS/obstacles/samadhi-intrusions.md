@@ -12,4 +12,4 @@ Objects intrude by their force, and hunger and the like drive one away, so that 
   - [Nyāya Sūtra](../texts/nyaya-sutra.md) — ref: 4.2.39–41; rests_on: ["tea:nyaya-sutra:4.2.39-41"]
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 23:16 IST._

@@ -12,4 +12,4 @@ Birth in the asterism Mūla, especially its first part, held harmful to the fath
   - [Bṛhat Parāśara Horā Śāstra](../texts/brhat-parasara-hora-sastra.md) — ref: 93
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:16 IST._

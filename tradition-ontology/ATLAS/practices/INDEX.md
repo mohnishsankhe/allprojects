@@ -1,6 +1,6 @@
-# Practices (1560)
+# Practices (1561)
 
-skeleton: 1110 · sourced: 450
+skeleton: 1110 · sourced: 451
 
 - [A-tri meditation](a-tri-meditation.md) — `skeleton`
 - [Abandoning the body to go to birth (sheshen wangsheng) — restricted](shashen-wangsheng.md) — `skeleton`
@@ -1137,6 +1137,7 @@ skeleton: 1110 · sourced: 450
 - [The observances (niyama)](niyama.md) — `sourced`
 - [The one-sessioner's practice (ekasanikaṅga)](ekasanikanga.md) — `skeleton`
 - [The open-air dweller's practice (abbhokasikaṅga)](abbhokasikanga.md) — `skeleton`
+- [The outer austerities (bāhya-tapas) — summary only](jain-external-austerities.md) — `sourced`
 - [The postures of the Haṭhābhyāsapaddhati (group entry)](hathabhyasapaddhati-asanas.md) — `skeleton`
 - [The practice of the couple (Sahajiyā, Bāul) — summary only](sahajiya-yugala-sadhana.md) — `skeleton`
 - [The practice-hut (maṭha, kuṭīra) and the place of practice](yoga-matha.md) — `skeleton`

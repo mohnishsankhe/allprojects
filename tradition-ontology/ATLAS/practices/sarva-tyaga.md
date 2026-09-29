@@ -19,4 +19,4 @@ True renunciation is the giving up of the mind itself, the root of all; outer re
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Rests on tea:moksopaya:6.88-96, tea:moksopaya:6.115; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:16 IST._

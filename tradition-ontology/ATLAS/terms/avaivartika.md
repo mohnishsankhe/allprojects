@@ -19,4 +19,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

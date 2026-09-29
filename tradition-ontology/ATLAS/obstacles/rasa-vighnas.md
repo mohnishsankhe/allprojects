@@ -16,4 +16,4 @@ Lack of credibility; being caught in the particular time and place of oneself or
 - contested: [Rasāsvāda (relishing the happiness of the state)](rasasvada.md) — in Advaita the relish of bliss is itself an obstacle to samādhi; in poetics the obstacles are what block relish
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:16 IST._

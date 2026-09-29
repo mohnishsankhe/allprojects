@@ -13,4 +13,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 _Notes: Restricted: involves marking the body with heated metal; no procedure recorded. Its legitimacy was contested by Smārta critics and defended by Mādhva authors (a work 'Cakramīmāṃsā' is ascribed to Vijayīndra) — recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:16 IST._

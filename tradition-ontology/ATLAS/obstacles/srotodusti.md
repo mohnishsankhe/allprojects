@@ -12,4 +12,4 @@ Excess flow, obstruction, knotting, or flow in the wrong path (Ca Vi 5.22), caus
   - [Caraka Saṃhitā](../texts/caraka-samhita.md) — ref: Vi 5; rests_on: ["tea:caraka-samhita:vi.5.22", "tea:caraka-samhita:vi.5.3-7"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

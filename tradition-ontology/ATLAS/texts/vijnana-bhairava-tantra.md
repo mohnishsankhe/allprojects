@@ -1364,7 +1364,7 @@ terms: [kaivalya](../terms/kaivalya-trika.md) · practices: [Vijñāna Bhairava 
 ### 113-114 <a id="tea-vijnana-bhairava-tantra-113-114"></a>
 `skeleton` · confidence moderate
 
-Hear, O Goddess, this traditional teaching (sampradāya), which I declare fully: isolation (kaivalya) arises at once when the eyes are merely held still (113). Contracting the ears and likewise the lower door, meditating on the vowelless and consonantless, one enters the eternal Brahman (114).
+Hear, O Goddess, this traditional teaching (sampradāya), which I declare fully: a restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
@@ -2051,4 +2051,4 @@ concepts: [The supreme state of Bhairava (Bhairavī, Parā) in the Vijñānabhai
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:16 IST._

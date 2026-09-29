@@ -225,4 +225,4 @@ practices: [Pacification for an inauspicious birth](../practices/janma-santi.md)
 _Notes: Local e-text used for spot checks follows the 97-chapter arrangement._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:16 IST._

@@ -10,4 +10,4 @@
 Wandering Heart-essence master, Longchenpa's root teacher, who lived with his disciples in continual encampments.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:16 IST._

@@ -15,4 +15,4 @@ The 'Great Cloud' sūtra, affirming the Tathāgata's permanence and the tathāga
 _Notes: T387/T388 present in local CBETA T12._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:16 IST._

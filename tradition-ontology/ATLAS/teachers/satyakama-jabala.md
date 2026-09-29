@@ -14,4 +14,4 @@ Son of Jabālā, who did not know his lineage; accepted as a pupil by Hāridruma
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — Located: ChU 4.4–4.9 (his mother; Hāridrumata; bull, fire, goose and diver-bird), ChU 4.10.1 (Upakosala his pupil) and BĀU 4.1.6 (his view 'mano vai brahma').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:16 IST._

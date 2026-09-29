@@ -10,4 +10,4 @@
 Studied under Wumen Huikai and brought the Wumen guan to Japan (1254); regarded by the Fuke school as its founder in Japan.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

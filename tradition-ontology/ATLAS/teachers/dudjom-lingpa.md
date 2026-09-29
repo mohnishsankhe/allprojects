@@ -12,4 +12,4 @@
 Visionary treasure revealer of Golok whose Dzogchen treasures include Refining Apparent Phenomena and Buddhahood Without Meditation; many of his disciples are said to have attained the rainbow body.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:16 IST._

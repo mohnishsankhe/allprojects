@@ -48,4 +48,4 @@ _none recorded_
 [Is there an intermediate existence (antarābhava) between death and rebirth?](../debates/intermediate-existence.md), [Are space and dependent origination unconditioned?](../debates/kv-unconditioned-dhammas.md), [Does a gift to the Buddha yield more merit than a gift to the Saṅgha?](../debates/merit-of-gifts-buddha-or-sangha.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

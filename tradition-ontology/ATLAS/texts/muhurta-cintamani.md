@@ -69,4 +69,4 @@ concepts: [The eightfold matching for marriage (aṣṭakūṭa)](../concepts/as
 _Notes: Author's own commentary Pramitākṣarā; Govinda's Pīyūṣadhārā (1603)._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:16 IST._

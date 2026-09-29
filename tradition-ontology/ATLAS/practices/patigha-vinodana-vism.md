@@ -18,4 +18,4 @@ _Notes: New sense-specific entry for the Visuddhimagga's list; the stories of th
 
 - 2026-09-29 text: confirmed — tea:visuddhimagga:9.p298, tea:visuddhimagga:9.p298/2, tea:visuddhimagga:9.p299, tea:visuddhimagga:9.p299/2, tea:visuddhimagga:9.p300, tea:visuddhimagga:9.p300/2, tea:visuddhimagga:9.p301, tea:visuddhimagga:9.p301/2, tea:visuddhimagga:9.p302, tea:visuddhimagga:9.p302/2, tea:visuddhimagga:9.p303, tea: — Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan).
 
-_Contributed by: extraction:visuddhimagga/selections. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections. Generated 2026-09-29 23:16 IST._

@@ -29,4 +29,4 @@ concepts: [The ultimate and conventional standpoints (niścaya and vyavahāra)](
 _Notes: Title present in the local catalogue (catalog:JainDB:पाहुड-दोहा--राम-सिंह-मुनि); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

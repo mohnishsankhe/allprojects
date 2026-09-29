@@ -18,4 +18,4 @@
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Brahmavadini, https://www.wisdomlib.org/hinduism/book/brihaddevata-attributed-to-shaunaka/d/doc1621733.html — Confirmed: the term and the Bṛhaddevatā list (2.82–84).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:16 IST._

@@ -18,4 +18,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - Mercury is not to be used where a vital point is injured or in burns from caustic or fire. — [Rasaratnasamuccaya](../texts/rasaratnasamuccaya.md) 11.17
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

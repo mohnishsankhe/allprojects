@@ -27,4 +27,4 @@ _Notes: Recorded as stated; positions are the text's report of others' views, no
 - text: J fidelity check: 1.6 is not marked as others' view (see teaching 1.6); the unnamed side now covers 1.7–1.9 only.
 - sides[1].texts/rests_on: J: 1.6 is not marked as others' view
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

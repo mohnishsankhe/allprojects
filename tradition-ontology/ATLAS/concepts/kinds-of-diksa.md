@@ -17,4 +17,4 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula, skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula, skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:16 IST._

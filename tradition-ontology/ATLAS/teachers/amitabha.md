@@ -12,4 +12,4 @@ The buddha of Immeasurable Light and Life who presides over Sukhāvatī in the w
 _Notes: U43 contribution: in the Sanskrit Larger Sukhāvatīvyūha (GRETIL, Fujita) the vows number 47; Tanluan praises twelve names of his light; Shinran calls him the Tathāgata of Unhindered Light filling the ten directions; to Ryōnin he is said to have revealed the interfusing nenbutsu (1117)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

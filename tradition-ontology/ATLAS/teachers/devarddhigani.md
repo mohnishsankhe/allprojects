@@ -13,4 +13,4 @@
 Presided over the council at Valabhī (980 or 993 years after the nirvāṇa, i.e. 453 or 466 CE) at which the Śvetāmbara canon was written down, reconciling the Māthurī and Vālabhī recensions; some identify him with Devavācaka, author of the Nandī.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

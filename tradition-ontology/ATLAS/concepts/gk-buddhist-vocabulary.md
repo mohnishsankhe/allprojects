@@ -16,4 +16,4 @@
 
 - 2026-09-29 text: confirmed — tea:mandukya-karika:4.24, tea:mandukya-karika:4.25, tea:mandukya-karika:4.45, tea:mandukya-karika:4.67, tea:mandukya-karika:4.73, tea:mandukya-karika:4.74, tea:mandukya-karika:4.90, tea:mandukya-karika:4.92, tea:mandukya-karika:4.93, tea:mandukya-karika:4.98, tea:mandukya-karika:4.99 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

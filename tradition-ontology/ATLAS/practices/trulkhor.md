@@ -15,4 +15,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - Taught only orally in retreat settings; not to be learned from books.
 
 ---
-_Contributed by: skeleton:U46-kagyu, skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu, skeleton:U45-nyingma-bon. Generated 2026-09-29 23:16 IST._

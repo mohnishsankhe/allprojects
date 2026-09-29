@@ -35,4 +35,4 @@ concepts: [Śyāmā-saṅgīt: devotion to the Mother in song](../concepts/syama
 
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:16 IST._

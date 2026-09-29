@@ -26,4 +26,4 @@ Vism XIV, in the consciousness rooted in greed: greed (lobha) is that by which o
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:16.21, tea:bhagavad-gita:18.27 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.12, tea:bhagavad-gita:14.17 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:visuddhimagga/selections, extraction:bhagavad-gita/ch01-03, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections, extraction:bhagavad-gita/ch01-03, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:16 IST._

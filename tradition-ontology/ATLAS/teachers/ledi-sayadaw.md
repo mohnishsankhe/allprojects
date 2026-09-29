@@ -22,4 +22,4 @@ Burmese scholar-monk (1846–1923) who wrote more than a hundred works in Pali a
 _Notes: Ordination name given as U Ñāṇa / Ñāṇadhaja (moderate confidence)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:16 IST._

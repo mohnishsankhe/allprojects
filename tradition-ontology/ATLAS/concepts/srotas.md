@@ -14,4 +14,4 @@
 - contrasts-with → [The channels (nāḍī)](nadis.md): the yogic nāḍīs are channels of breath and energy; Caraka lists nāḍī only as a synonym of srotas — rests on [vi.5.3-7](../texts/caraka-samhita.md#tea-caraka-samhita-vi-5-3-7)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

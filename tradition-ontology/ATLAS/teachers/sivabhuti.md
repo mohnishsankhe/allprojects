@@ -9,4 +9,4 @@ In the Śvetāmbara account the founder of the Boṭika (Digambara) schism at Ra
 **Realization — the tradition's account:** This is the Śvetāmbara (opponent's) account of the origin of the Digambaras; the Digambaras do not accept it.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

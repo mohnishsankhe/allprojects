@@ -16,4 +16,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 _Notes: Sexual and impure-substance rites of the Yāmala tantras are not described (restricted)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:16 IST._

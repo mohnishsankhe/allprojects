@@ -9,4 +9,4 @@
 Benares scholar who edited the Brāhmasphuṭasiddhānta and other siddhāntas and wrote the Gaṇakataraṅgiṇī on the lives of Indian astronomers.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:16 IST._

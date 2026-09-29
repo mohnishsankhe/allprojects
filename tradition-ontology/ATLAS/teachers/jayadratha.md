@@ -12,4 +12,4 @@ Named by the Lord, with Droṇa, Bhīṣma and Karṇa, among the warriors 'alre
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:ch11, tea:bhagavad-gita:11.34 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 23:16 IST._

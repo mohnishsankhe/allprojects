@@ -16,4 +16,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering), text:sources_raw/prepared/svetasvatara-upan — Located: ChU 2.23.1 ('trayo dharmaskandhāḥ'), MaiU 4.3 ('svāśrameṣv evānukramaṇam') and ŚU 6.21 ('atyāśramibhyaḥ'). The pointer to the Jābāla Upaniṣad and the Dharmasūtras for the fourfold scheme is outside this unit and not checked here. All 3 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 2.23.1; MaiU 4.3; ŚU 6.21). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:16 IST._

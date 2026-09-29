@@ -12,4 +12,4 @@ Non-brahmin devotee who served Varadarāja at Kāñcī by fanning him; the tradi
 **Realization — the tradition's account:** Varadarāja conversed with him directly and answered Rāmānuja's questions through him with six sayings.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:16 IST._

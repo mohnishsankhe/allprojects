@@ -15,4 +15,4 @@
 _Notes: A tradition that Kabīr initiated him is chronologically impossible; recorded only as the tradition's account._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:16 IST._

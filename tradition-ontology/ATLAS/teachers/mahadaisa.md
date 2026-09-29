@@ -11,4 +11,4 @@
 Woman disciple of Cakradhar and Govindaprabhu, remembered for her questions in the Līḷācaritra and for the Dhavaḷe, among the earliest Marathi songs by a woman.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:16 IST._

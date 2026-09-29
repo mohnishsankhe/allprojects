@@ -15,4 +15,4 @@
 _Notes: The modern labels 'henotheism/kathenotheism' are scholarly metadata and not used here._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:16 IST._

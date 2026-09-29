@@ -17,4 +17,4 @@
 **Related:** [tathatā](tathata.md), [nirvāṇa](nirvana.md), [śūnyatā](sunyata.md)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:16 IST._

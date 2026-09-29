@@ -34,4 +34,4 @@ _none recorded_
 [Are the Abhidharma treatises the word of the Buddha?](../debates/abhidharma-as-buddhavacana.md), [Does the destruction of a conditioned thing have a cause?](../debates/cause-of-destruction.md), [Does sense perception grasp the external object directly, or only its form (ākāra) in cognition?](../debates/direct-or-representational-perception.md), [Are there objects external to cognition?](../debates/external-objects.md), [Is unmanifest matter (avijñapti) a real entity?](../debates/reality-of-avijnapti.md), [Is possession (prāpti) a real entity?](../debates/reality-of-prapti.md), [Are the unconditioned dharmas (space, the two cessations) real entities?](../debates/reality-of-the-unconditioned.md), [What sees — the eye, consciousness, or neither?](../debates/what-sees.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

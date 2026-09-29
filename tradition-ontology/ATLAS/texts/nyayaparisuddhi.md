@@ -14,4 +14,4 @@
 Deśika's 'purification of Nyāya': Viśiṣṭādvaita logic and epistemology (perception, inference, scripture, and the theory of error), following Nāthamuni's lost Nyāyatattva and correcting Nyāya where it conflicts with Vedānta.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:16 IST._

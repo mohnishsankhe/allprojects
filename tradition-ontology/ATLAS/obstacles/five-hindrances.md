@@ -35,4 +35,4 @@ _Notes: The pairing of factor and hindrance is cited from the Peṭaka; the text
 
 - sources: Vism XXII p. 683 does not mention the hindrances (checked by search); they are defined on p. 684. Source ref narrowed.
 
-_Contributed by: extraction:visuddhimagga/selections, extraction:satipatthana-sutta/all, skeleton:U36-pali-suttas, skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections, extraction:satipatthana-sutta/all, skeleton:U36-pali-suttas, skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

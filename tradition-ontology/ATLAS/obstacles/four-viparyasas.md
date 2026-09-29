@@ -18,4 +18,4 @@ Taking the impermanent as permanent, the painful as pleasant, the impure as pure
 - exact: [The four perversions (vipallāsa)](four-vipallasas.md) — Same four perversions.
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U40-madhyamaka. Generated 2026-09-29 23:16 IST._

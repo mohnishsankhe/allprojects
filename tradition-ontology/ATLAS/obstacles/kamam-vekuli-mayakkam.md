@@ -16,4 +16,4 @@ The triad whose very names must perish for suffering to end (Kuṟaḷ 360).
 - analogous: [The three poisons](three-poisons.md) — Buddhist greed, hatred, delusion
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:16 IST._

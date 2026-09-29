@@ -29,4 +29,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.12, tea:bhagavad-gita:14.17 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:16.21, tea:bhagavad-gita:18.27 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U36-pali-suttas, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, skeleton:U37-abhidhamma-visuddhimagga, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch16-18, skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U36-pali-suttas, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, skeleton:U37-abhidhamma-visuddhimagga, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch16-18, skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

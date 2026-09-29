@@ -28,4 +28,4 @@ Bands are interpretive and low-confidence: the text does not say whether niṣpa
 
 - stages[1].description: J check (insight-p1-single+spot): Aligned with the J correction of 4.73: the verse says 'atiśūnye' (the beyond-void), not the great void (mahāśūnya), which is the third stage's term (4.74).
 
-_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U28-hatha-texts. Generated 2026-09-29 23:16 IST._

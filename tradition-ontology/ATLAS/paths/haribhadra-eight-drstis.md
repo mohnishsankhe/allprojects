@@ -20,4 +20,4 @@
 The eight faults and eight qualities are given from memory of YDS 16 and its auto-commentary (moderate confidence on the exact pairing). Haribhadra addresses yogins of other schools too (YDS 129-134: the omniscient teachers of different schools are not really different), so the views are meant to be applicable across traditions. The first four views are unstable (they can fall back); the last four are stable.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:16 IST._

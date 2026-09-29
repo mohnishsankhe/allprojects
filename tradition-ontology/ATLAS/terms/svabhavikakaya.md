@@ -18,4 +18,4 @@
 **Related:** [dharmakāya](dharmakaya.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U44-indian-vajrayana, skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U44-indian-vajrayana, skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

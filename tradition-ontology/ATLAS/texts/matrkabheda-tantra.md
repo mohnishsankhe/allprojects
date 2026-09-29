@@ -16,4 +16,4 @@ A Śākta tantra in 14 paṭalas in dialogue of Śiva and Caṇḍikā, on the l
 _Notes: Chapter count from memory (Avalon's Tantrik Texts edition); verify._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:16 IST._

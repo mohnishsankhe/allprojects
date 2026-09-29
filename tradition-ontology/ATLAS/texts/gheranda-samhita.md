@@ -152,7 +152,7 @@ practices: [Dantamūla-dhauti (cleansing the roots of the teeth)](../practices/d
 ### 1.29-32 <a id="tea-gheranda-samhita-1-29-32"></a>
 `skeleton` · confidence high
 
-Tongue-cleansing: the text says a long tongue destroys old age, death and disease; with three fingers inserted into the throat one cleans the root of the tongue and removes phlegm. RESTRICTED in part: it then describes rubbing with butter, 'milking' and drawing out the tongue with an iron instrument daily so that the tongue becomes long; that procedure is not reproduced.
+Tongue-cleansing: a restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice_
 
@@ -617,7 +617,7 @@ concepts: [Secrecy and the testing of the disciple](../concepts/secrecy-and-test
 ### 3.6-8 <a id="tea-gheranda-samhita-3-6-8"></a>
 `skeleton` · confidence high
 
-Mahāmudrā: pressing the root of the anus firmly with the left heel, stretching out the right leg and holding the toes with the hands, contracting the throat and gazing between the brows, filling with breath — this is called mahāmudrā. By practising it wrinkles, grey hair, old age and death, consumption, cough, constipation, spleen disease, indigestion, fever and all diseases are destroyed.
+Mahāmudrā: a restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice_
 
@@ -644,7 +644,7 @@ practices: [Uḍḍīyānabandha (the flying-up lock)](../practices/uddiyana-ban
 ### 3.12-13 <a id="tea-gheranda-samhita-3-12-13"></a>
 `skeleton` · confidence high
 
-Contracting the throat and setting the chin on the chest: when jālandhara lock is made the sixteen supports are bound; the great seal jālandhara destroys death. Jālandhara perfected gives success to yogins; one who practises it for six months becomes a siddha.
+A restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice_
 
@@ -653,7 +653,7 @@ concepts: [The sixteen supports (ṣoḍaśa-ādhāra)](../concepts/sixteen-adha
 ### 3.14-17 <a id="tea-gheranda-samhita-3-14-17"></a>
 `skeleton` · confidence high
 
-Mūlabandha: with the heel of the left foot one contracts the perineum (yoni), presses the navel-knot carefully against the spine and binds the genitals firmly with the right heel, drawing back (the region) above and below the navel; this mudrā destroys old age. One who wishes to cross the ocean of saṃsāra should practise it in a secluded, well-hidden place; by its practice mastery of breath surely comes; one should practise it silent and free of sloth.
+Mūlabandha: a restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice_
 
@@ -662,7 +662,7 @@ practices: [Mūlabandha (the root lock)](../practices/mula-bandha.md)
 ### 3.18-20 <a id="tea-gheranda-samhita-3-18-20"></a>
 `skeleton` · confidence high
 
-Mahābandha: blocking the root of the anus with the left ankle and pressing that ankle carefully with the right foot, moving the heel slowly and contracting the perineum slowly, one holds the breath in jālandhara — this is mahābandha, the supreme lock that destroys old age and death; by its grace one accomplishes every wish.
+Mahābandha: a restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice_
 
@@ -725,7 +725,7 @@ practices: [Śakticālana (moving the power)](../practices/sakticalana.md)
 ### 3.52-60 <a id="tea-gheranda-samhita-3-52-60"></a>
 `skeleton` · confidence high
 
-RESTRICTED — summary only: śakticālanī is described as a practice done in a hidden room with the navel bound by a soft cloth, in siddhāsana, drawing in the breath and joining it with apāna while contracting the anus with aśvinī mudrā until the breath enters the suṣumnā; the text says yoni mudrā does not succeed without śakticālana, that it is to be kept secret and practised daily, that it destroys old age and death, and that success comes to its constant practitioner. Measures and procedure are not reproduced.
+RESTRICTED: a restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice_
 
@@ -1020,7 +1020,7 @@ concepts: [The ten vital winds (vāyu)](../concepts/ten-vayus.md)
 ### 5.66-69 <a id="tea-gheranda-samhita-5-66-69"></a>
 `skeleton` · confidence high
 
-Raising all (the breaths) from the root of the navel through the sun, one exhales through iḍā steadily and unbrokenly, then draws in again through the sun, holds by rule and exhales, again and again. Sūryabheda destroys old age and death, awakens the kuṇḍalī power and increases the bodily fire.
+A restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice_
 
@@ -1065,7 +1065,7 @@ practices: [Bhrāmarī ('the bee')](../practices/bhramari.md), [Attention to the
 ### 5.84-85 <a id="tea-gheranda-samhita-5-84-85"></a>
 `skeleton` · confidence high
 
-Mūrcchā: holding the breath with ease and setting the mind between the brows, abandoning all objects — this swoon of the mind gives happiness; from joining the mind to the self bliss surely arises; by daily practice various blisses arise, and by this practice one attains success in samādhi.
+Mūrcchā: a restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice, powers-experiences_
 
@@ -1272,4 +1272,4 @@ concepts: [Dissolution of breath and mind (laya)](../concepts/laya-natha.md) · 
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:16 IST._

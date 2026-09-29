@@ -15,4 +15,4 @@
 - analogous: `trm:madhurya-bhava` — bridal devotion to the Lord in both; the Vīraśaiva form is tied to a named sthala of the ṣaṭsthala path
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:16 IST._

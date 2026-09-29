@@ -18,4 +18,4 @@
 All six names and their explanations verified in the local CBETA text of the Mohe zhiguan (T1911, 10b12-10c24); the text reads 分真即 (partial truth), not the later 分證即. Zhiyi also correlates the Dazhidulun's five bodhis with these stages (10c25ff.).
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:16 IST._

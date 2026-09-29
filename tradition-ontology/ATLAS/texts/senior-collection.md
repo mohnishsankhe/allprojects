@@ -14,4 +14,4 @@
 A collection consisting mostly of sūtras with Saṃyutta/Saṃyuktāgama parallels, and the Anavatapta verses.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

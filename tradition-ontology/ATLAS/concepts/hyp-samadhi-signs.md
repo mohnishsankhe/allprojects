@@ -16,4 +16,4 @@
 
 - 2026-09-29 text: confirmed — tea:hatha-yoga-pradipika:4.106, tea:hatha-yoga-pradipika:4.107, tea:hatha-yoga-pradipika:4.108, tea:hatha-yoga-pradipika:4.109, tea:hatha-yoga-pradipika:4.110, tea:hatha-yoga-pradipika:4.111, tea:hatha-yoga-pradipika:4.112, tea:hatha-yoga-pradipika:4.113 — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids).
 
-_Contributed by: extraction:hatha-yoga-pradipika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:hatha-yoga-pradipika/all. Generated 2026-09-29 23:16 IST._

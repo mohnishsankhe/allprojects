@@ -13,4 +13,4 @@ The classical poet; Śākta tradition holds that he gained his genius by the God
 _Notes: U23 records only the Śākta attributions and legend._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:16 IST._

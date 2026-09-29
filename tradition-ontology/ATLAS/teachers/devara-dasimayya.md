@@ -15,4 +15,4 @@ The weaver-saint (Jēḍara Dāsimayya) of Muddanūru, reckoned by the tradition
 _Notes: Whether 'Dēvara' and 'Jēḍara' Dāsimayya are one person is debated._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:16 IST._

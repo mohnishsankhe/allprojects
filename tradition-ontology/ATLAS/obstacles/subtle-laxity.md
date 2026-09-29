@@ -15,4 +15,4 @@ Laxity in which the object remains with some clarity but the intensity of clarit
 - partial: [Laya (absorption of the mind, Kārikā 3.35, 3.42, 3.44)](laya.md) — the general Buddhist sinking; subtle laxity is its hardest-to-detect form
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

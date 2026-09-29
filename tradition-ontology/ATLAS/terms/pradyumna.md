@@ -17,4 +17,4 @@
 **Related:** [vyūha](vyuha.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U08-agama-catalogue. Generated 2026-09-29 23:16 IST._

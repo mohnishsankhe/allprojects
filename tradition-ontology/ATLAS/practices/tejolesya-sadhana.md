@@ -17,4 +17,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 _Notes: No steps, quantities or durations are recorded, by design._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:16 IST._

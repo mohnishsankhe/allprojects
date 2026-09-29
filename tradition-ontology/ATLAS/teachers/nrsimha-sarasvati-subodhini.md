@@ -10,4 +10,4 @@
 Commentator on the Vedāntasāra (Subodhinī). Distinct from Narasiṃha Sarasvatī of the Datta tradition.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

@@ -12,4 +12,4 @@
 A treatise on the devices of exposition (tantrayukti) of the medical texts, by Nīlamegha.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

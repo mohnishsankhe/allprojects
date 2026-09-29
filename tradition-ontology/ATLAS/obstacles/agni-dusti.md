@@ -13,4 +13,4 @@ The fire becomes irregular (by vāta), sharp (by pitta) or weak (by kapha); bala
   - [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) — ref: Sū 1.8; rests_on: ["tea:astanga-hrdaya:su.1.6-10"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

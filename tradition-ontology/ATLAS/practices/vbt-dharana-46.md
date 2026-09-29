@@ -22,4 +22,4 @@ _Notes: Text-derived summary of GRETIL verse(s) 70; the skeleton entry's name an
 
 - 2026-09-29 text: confirmed — sources_raw/prepared/vijnana-bhairava-tantra/segments.jsonl — Judge J: method summary, name, restricted flag and rests_on checked against the verse(s) 70; level not raised (entities stay sourced).
 
-_Contributed by: extraction:vijnana-bhairava-tantra/all, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:vijnana-bhairava-tantra/all, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:16 IST._

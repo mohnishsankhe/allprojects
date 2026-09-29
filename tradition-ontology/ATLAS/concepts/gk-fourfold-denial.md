@@ -21,4 +21,4 @@
 - text: J fidelity check: 4.22 gives two plus three alternatives, not four positions; 4.83 is rendered in the text's own words (see the teachings).
 - text: J fidelity check: 4.22 gives two plus three alternatives, not four positions; 4.83 is rendered in the text's own words (see the teachings).
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

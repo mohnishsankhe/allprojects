@@ -11,4 +11,4 @@
 Bhaktivinoda Ṭhākura's Bengali novel-treatise presenting Gauḍīya doctrine and practice through dialogues (1896).
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

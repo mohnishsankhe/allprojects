@@ -15,4 +15,4 @@ The domestic-rite manual of the Mānava Maitrāyaṇīyas.
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Mānavagṛhyasūtra, catalog:GRETIL-dev:manava-grhyasutra — Low-confidence entry confirmed as extant.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

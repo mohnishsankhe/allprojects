@@ -17,4 +17,4 @@ Nālandā monk-poet, author of the Bodhicaryāvatāra and the Śikṣāsamuccaya
 _Notes: Hagiographical details from memory (moderate). Scholarly: an earlier shorter recension of the BCA survives in Dunhuang._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:16 IST._

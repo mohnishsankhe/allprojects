@@ -5502,4 +5502,4 @@ terms: [vibhajjavāda](../terms/vibhajjavada.md) · teachers: [Buddhaghosa](../t
 _Notes: Chapter titles and PTS page ranges checked in the local e-text (running heads)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:16 IST._

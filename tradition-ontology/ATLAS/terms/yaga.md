@@ -16,4 +16,4 @@
 _Notes: The definition 'giving up a substance with reference to a deity' is the standard manual formula, from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:16 IST._

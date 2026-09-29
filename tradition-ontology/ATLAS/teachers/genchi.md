@@ -11,4 +11,4 @@
 Hōnen's attendant in his last years, for whom the One-Sheet Document was written; his line (Shirahata/Murasakino) later merged into the Chinzei.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

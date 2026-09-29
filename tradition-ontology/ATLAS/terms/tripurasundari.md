@@ -16,4 +16,4 @@
 **Related:** [tripurā](tripura.md), [lalitā](lalita.md), [ṣoḍaśī](sodasi.md)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula. Generated 2026-09-29 23:16 IST._

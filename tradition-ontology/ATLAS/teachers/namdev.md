@@ -17,4 +17,4 @@ Tailor-caste (śimpī) saint of Paṇḍharpūr (c. 1270–1350), Viṭṭhala's
 **Realization — the tradition's account:** Viṭṭhala spoke and ate with him as a child; only after taking a guru did he see the Lord in all things.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:16 IST._

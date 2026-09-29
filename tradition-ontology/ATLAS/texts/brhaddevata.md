@@ -33,4 +33,4 @@ terms: [brahmavādinī](../terms/brahmavadini.md), [ṛṣikā](../terms/rsika.m
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Shaunaka, https://www.wisdomlib.org/hinduism/book/brihaddevata-attributed-to-shaunaka/d/doc1621733.html, https://archive.org/details/in.ernet.dli.2015.24703 — Confirmed: attributed to Śaunaka (Macdonell's edition); lists the brahmavādinīs (2.82–84, confirmed). The 'one Ātman praised under many deities' discussion was not separately checked. Not in the local corpora.
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/B%E1%B9%9Bhaddevat%C4%81, https://en.wikipedia.org/wiki/Shaunaka — Confirmed: 8 adhyāyas, mostly anuṣṭubh, on the Ṛgvedic deities and the legends of the hymns, ascribed to Śaunaka (Wikipedia). U01 text-located BD 2.82–84.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

@@ -12,4 +12,4 @@ Lack of inquiry, laziness, desire for enjoyment, dullness, darkness, distraction
   - [Aparokṣānubhūti](../texts/aparoksanubhuti.md) — ref: 127–128; rests_on: ["tea:aparoksanubhuti:127-128"]
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

@@ -20,4 +20,4 @@
 
 - text: J fidelity check: 'purely worldly' inverts the gradation of śuddha laukika (see 4.87).
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

@@ -48,4 +48,4 @@ _none recorded_
 _Notes: The claimed lineage ('Holy Tradition') is recorded as the tradition's account only; see dsp:tm-holy-tradition-claim._
 
 ---
-_Contributed by: skeleton:U52-recent-teachers. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U52-recent-teachers. Generated 2026-09-29 23:16 IST._

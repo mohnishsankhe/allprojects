@@ -30,4 +30,4 @@ practices: [Mindfulness directed to the body (kāyagatāsati): summary only](../
 _Notes: SuttaCentral uid sn35.247; Mahāsaṅgīti title 'Chappāṇakopamasutta' (checked locally). SN 35.206 in the PTS numbering._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

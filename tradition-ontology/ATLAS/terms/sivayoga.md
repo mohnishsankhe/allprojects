@@ -17,4 +17,4 @@
 - partial: [yoga](yoga.md) — Vīraśaiva yoga is directed to the liṅga and includes liṅga-gazing and inner worship
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:16 IST._

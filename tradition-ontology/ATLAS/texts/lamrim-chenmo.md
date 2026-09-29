@@ -331,4 +331,4 @@ concepts: [The three refuges](../concepts/three-refuges.md) · practices: [Going
 _Notes: Not local. Refs in this unit are section names (scope/topic), not page or folio numbers._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

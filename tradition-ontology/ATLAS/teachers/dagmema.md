@@ -11,4 +11,4 @@ Marpa's wife, remembered in the Life of Milarepa for her compassion toward Milar
 **Realization — the tradition's account:** She interceded for Milarepa and helped forge a letter so that Ngok Chöku Dorje would teach him; Marpa later said that without his permission the teaching could not bear fruit.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

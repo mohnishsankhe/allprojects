@@ -11,4 +11,4 @@
 Physician-scholar of the Zur school, author of the Oral Instructions of the Ancestors (mes po'i zhal lung), who also examined the question whether the Four Tantras is the Buddha's word.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

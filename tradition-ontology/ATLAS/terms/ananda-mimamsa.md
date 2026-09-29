@@ -17,4 +17,4 @@
 
 - 2026-09-29 text: confirmed — tea:taittiriya-upanisad:2.8.1, tea:taittiriya-upanisad:2.8.2, tea:taittiriya-upanisad:2.8.3, tea:taittiriya-upanisad:2.8.4 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:taittiriya-upanisad/kosa. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:taittiriya-upanisad/kosa. Generated 2026-09-29 23:16 IST._

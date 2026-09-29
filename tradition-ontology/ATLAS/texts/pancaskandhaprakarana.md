@@ -32,4 +32,4 @@ concepts: [The eight consciousnesses](../concepts/eight-consciousnesses.md) · t
 _Notes: Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

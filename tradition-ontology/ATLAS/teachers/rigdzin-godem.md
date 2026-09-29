@@ -13,4 +13,4 @@
 Founder of the Northern Treasures; revealed the Gongpa Zangthal at Zangzang Lhadrak in 1366; named for the vulture-feather-like growths on his head.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:16 IST._

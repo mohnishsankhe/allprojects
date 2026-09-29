@@ -87,4 +87,4 @@ Advaita offers P1 in its own terms (the world is vyāvahārika-sat; BSBh 2.2.28 
 **Queue:** RQ-U50-03
 
 ---
-_Contributed by: skeleton:U50-debates. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U50-debates. Generated 2026-09-29 23:16 IST._

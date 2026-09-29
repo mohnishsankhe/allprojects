@@ -14,4 +14,4 @@ Rūpa's list of practices: the first ten (taking shelter of a guru, initiation a
 _Notes: The full list of sixty-four is recalled only in part; verse-by-verse list to be extracted in Phase D._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

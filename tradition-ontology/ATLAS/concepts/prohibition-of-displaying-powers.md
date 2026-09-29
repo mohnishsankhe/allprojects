@@ -14,4 +14,4 @@
 - contrasts-with → [The six direct knowledges](six-abhinnas.md): Powers are acknowledged as fruits of dhyāna but their display is restricted. — rests on [7.42](../texts/abhidharmakosa.md#tea-abhidharmakosa-7-42)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

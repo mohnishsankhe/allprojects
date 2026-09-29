@@ -16,4 +16,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_8.json (Anukramaṇī seer/deity/metre headers) — Header: 1–3, 6–12 Nema Bhārgava, 4–5 Indra — confirmed; 8.100.3–4 located.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:16 IST._

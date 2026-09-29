@@ -15,4 +15,4 @@
 - corresponds-to-in-map → [The signs of dissolution](signs-of-dissolution.md): The first four signs coincide (order differs: mirage and smoke are swapped) with the Guhyasamāja's five signs. — rests on [24-27](../texts/sekoddesa.md#tea-sekoddesa-24-27), [18.146-149](../texts/guhyasamaja-tantra.md#tea-guhyasamaja-tantra-18-146-149)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

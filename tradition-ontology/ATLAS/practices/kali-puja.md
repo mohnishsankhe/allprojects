@@ -13,4 +13,4 @@ The worship of Dakṣiṇakālī on the new-moon night of Kārttika (Dīpānvit�
 _Notes: The spread of public Kālī-pūjā is traditionally credited to Rājā Kṛṣṇacandra of Nadia (18th c.) — tradition's account, not checked._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:16 IST._

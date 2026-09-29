@@ -17,4 +17,4 @@
 
 - 2026-09-29 text: confirmed — tea:katha-upanisad:1.3.3 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:katha-upanisad/chariot. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:katha-upanisad/chariot. Generated 2026-09-29 23:16 IST._

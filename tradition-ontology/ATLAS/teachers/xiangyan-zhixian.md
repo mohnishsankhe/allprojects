@@ -11,4 +11,4 @@ Learned monk who could not answer Guishan and burned his notes; later awoke when
 **Realization — the tradition's account:** While sweeping, a pebble struck bamboo and at the sound he awoke; verse beginning 'one strike and I forgot all I knew; no further need of cultivation' (Jingde chuandeng lu juan 11).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

@@ -35,4 +35,4 @@ Hongzhi's own inscription condemns silence that loses illumination, which is wha
 **The traditions' own objections:** Rinzai tradition holds kōan practice to be necessary for genuine kenshō; Sōtō tradition (Dōgen) holds that aiming at a future awakening misunderstands practice-realization and criticised Dahui.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

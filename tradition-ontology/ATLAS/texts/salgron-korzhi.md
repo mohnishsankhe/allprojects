@@ -14,4 +14,4 @@
 A set of Kālacakra completion-stage works attributed to Yumo Mikyö Dorje, regarded in the Jonang tradition as an early source of the other-emptiness understanding.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

@@ -15,4 +15,4 @@
 Devasvāmin's commentary on the Saṅkarṣa-kāṇḍa; it names Bhavadāsa as a commentator on the sūtras.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:16 IST._

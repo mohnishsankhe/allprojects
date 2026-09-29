@@ -15,4 +15,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 _Notes: Owned by U45 (brief). Also a Kagyu and Gelug practice (other units)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:16 IST._

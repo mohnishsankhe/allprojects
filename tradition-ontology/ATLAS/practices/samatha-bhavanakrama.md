@@ -14,4 +14,4 @@ Seated in a suitable place with a suitable posture, the practitioner fixes the m
 **Sequences:** [The nine stages of settling the mind (navākārā cittasthiti) leading to calm abiding](../paths/nine-stages-calm-abiding.md), [The stages of meditation (Kamalaśīla)](../paths/bhavanakrama-stages.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:16 IST._

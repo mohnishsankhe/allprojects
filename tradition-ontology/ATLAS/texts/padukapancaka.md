@@ -32,4 +32,4 @@ concepts: [The guru in haṭha](../concepts/guru-in-hatha.md), [The centres (cak
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:16 IST._

@@ -16,4 +16,4 @@
 **Related:** [avasarpiṇī](avasarpini.md), [kulakara](kulakara.md)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

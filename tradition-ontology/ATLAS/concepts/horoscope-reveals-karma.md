@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The three kinds of karma](three-kinds-of-karma.md) (causal): the karma 'earned in a former birth' now ripening, which the chart shows, corresponds to what Vedānta calls prārabdha; the jyotiṣa texts do not use the threefold classification themselves — rests on [1.3](../texts/brhat-jataka.md#tea-brhat-jataka-1-3), [1.3](../texts/laghu-jataka.md#tea-laghu-jataka-1-3)
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:16 IST._

@@ -11,4 +11,4 @@
 Commentator on the Saṅgītaratnākara (Kalānidhi) at the Vijayanagara court.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:16 IST._

@@ -59,4 +59,4 @@ terms: [unmanā](../terms/unmana.md), [samāna](../terms/samana.md), [nāda](../
 
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:16 IST._

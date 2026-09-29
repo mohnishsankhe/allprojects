@@ -23,4 +23,4 @@ _Notes: Partial parallel: Vedāntasāra's laya among the obstacles to samādhi (
 
 - 2026-09-29 text: confirmed — tea:mandukya-karika:3.35, tea:mandukya-karika:3.42, tea:mandukya-karika:3.44, tea:mandukya-karika:3.46 — Gauḍapāda sense confirmed: data obs:laya already cites src:mandukya-karika 3.44 (rests on tea:mandukya-karika:3.44) and its 'sinking of the mind' is the same fault; the shard contribution stays in the text's words (3.35, 3.42, 3.44, 3.46). Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all, skeleton:U41-yogacara-pramana, skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all, skeleton:U41-yogacara-pramana, skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

@@ -16,4 +16,4 @@
 The glosses of each line follow the common Kagyu explanation (from memory); the four lines are a summary rather than a strict ladder.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

@@ -12,4 +12,4 @@
 Wife of Rāmśaraṇ Pāl, revered as the Mother of the Kartābhajā, who led the community after her husband; her shrine and the pomegranate tree at Ghoshpara are healing sites.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

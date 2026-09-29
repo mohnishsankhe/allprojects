@@ -13,4 +13,4 @@
 A short purāṇam on the recovery of the Tēvāram manuscripts at Chidambaram and their arrangement into the Tirumuṟai by Nampi Āṇṭār Nampi.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:16 IST._

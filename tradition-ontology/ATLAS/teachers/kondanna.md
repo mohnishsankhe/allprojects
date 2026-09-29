@@ -11,4 +11,4 @@ The first of the five monks; the first to understand the first discourse ('whate
 **Realization — the tradition's account:** The Dhamma-eye arose in him during the first discourse; he became an arahant with the Anattalakkhaṇa Sutta (SN 56.11; SN 22.59; Vin Mv 1.6).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

@@ -14,4 +14,4 @@
 - part-of → [Nibbāna](nibbana.md) — rests on [43.44](../texts/asankhata-samyutta.md#tea-asankhata-samyutta-43-44)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

@@ -18,4 +18,4 @@ From the onset of the restricted period before an eclipse no food is cooked or e
 _Notes: The fast is limited to the eclipse period; not a prolonged fast._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:16 IST._

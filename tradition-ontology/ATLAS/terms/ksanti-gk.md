@@ -16,4 +16,4 @@
 
 - 2026-09-29 text: confirmed — tea:mandukya-karika:4.92 — Sense-specific id confirmed: data trm:ksanti is Buddhist patience/acceptance; a separate id avoids asserting an equivalence (no verdict on the vocabulary). Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

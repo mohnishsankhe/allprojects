@@ -17,4 +17,4 @@ Jinul's manifesto (1190) calling monks to form a retreat community devoted to th
 _Notes: Not held locally._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

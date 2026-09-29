@@ -13,4 +13,4 @@ Exposure of the secret worship leads to hell (PKS 1.12); the Kaula Upaniṣad fo
   - [Kaula Upaniṣad](../texts/kaula-upanisad.md) — ref: conduct; rests_on: ["tea:kaula-upanisad:conduct"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:16 IST._

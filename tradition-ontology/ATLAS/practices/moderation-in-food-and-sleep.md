@@ -24,4 +24,4 @@ For one measured in food and recreation, measured in effort in actions, measured
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.16, tea:bhagavad-gita:6.17 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U05-gita-epic. Generated 2026-09-29 23:16 IST._

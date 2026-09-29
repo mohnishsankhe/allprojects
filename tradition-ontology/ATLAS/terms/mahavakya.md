@@ -18,4 +18,4 @@
 **Related:** [bhāgalakṣaṇā](bhaga-laksana.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 23:16 IST._

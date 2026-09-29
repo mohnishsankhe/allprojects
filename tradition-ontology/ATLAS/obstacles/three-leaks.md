@@ -12,4 +12,4 @@ Leaks of view, feeling and words by which dry wisdom is tested.
   - [Recorded Sayings of Dongshan (Dongshan yulu)](../texts/dongshan-yulu.md) — ref: 513c10; rests_on: ["tea:dongshan-yulu:513c10"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

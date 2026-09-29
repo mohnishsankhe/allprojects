@@ -110,4 +110,4 @@ teachers: [Lakṣmīṅkarā](../teachers/laksminkara.md)
 _Notes: Not found in the local Derge Tengyur (it is in the Peking/Narthang Tengyur per memory). The unit's siddha entries use the closely parallel list and songs of Tōh 2292._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:16 IST._

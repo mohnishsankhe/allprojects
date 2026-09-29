@@ -14,4 +14,4 @@
 A catechetical prose treatise discriminating the self from the not-self (body, senses, sheaths).
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

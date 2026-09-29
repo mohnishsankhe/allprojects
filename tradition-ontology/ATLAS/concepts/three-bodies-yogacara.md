@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The bodies of the Buddha (sūtra layer)](three-bodies-sutra.md) (Yogācāra): the systematization of the sūtras' buddha-bodies
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:16 IST._

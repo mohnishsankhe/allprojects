@@ -12,4 +12,4 @@ In the renouncer-poets' own terms, desire for women is the snare that binds to b
   - [Tiruvēkampamālai (Paṭṭiṉattār)](../texts/tiruvekampamalai.md) — ref: 11, 23
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:16 IST._

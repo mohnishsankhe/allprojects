@@ -24,4 +24,4 @@ _Notes: Text-derived summary of GRETIL verse(s) 44-45; the skeleton entry's name
 
 - name: name did not match the verse
 
-_Contributed by: extraction:vijnana-bhairava-tantra/all, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:vijnana-bhairava-tantra/all, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:16 IST._

@@ -15,4 +15,4 @@ Chinese account (5th–6th c.) of 23/24 Indian masters who successively held the
   - kind: original; name: CBETA XML P5, Taishō T50n2058 (T50n2058); local copy sources_raw/cbeta/T/T50/T50n2058.xml; licence: CBETA (CC BY-NC-SA 3.0 TW) — quotation with attribution
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

@@ -12,4 +12,4 @@ One of the teachers whose view Janaka reports to Yājñavalkya: brahman is sight
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — Located: BĀU 4.1.4 (Barku Vārṣṇa: sight is brahman).
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:16 IST._

@@ -16,4 +16,4 @@ Vopadeva's anthology of Bhāgavata verses arranged under the themes of devotion 
 _Notes: The arrangement by nine devotional rasas is recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:16 IST._

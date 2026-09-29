@@ -32,4 +32,4 @@ Absence of hostility toward all beings, in every way and at all times (YBh 2.30)
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.8 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 3.17.4; ChU 8.15.1). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga, skeleton:U35-jain-philosophy, extraction:bhagavad-gita/ch16-18, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga, skeleton:U35-jain-philosophy, extraction:bhagavad-gita/ch16-18, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:16 IST._

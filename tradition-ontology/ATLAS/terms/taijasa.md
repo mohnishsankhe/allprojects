@@ -30,4 +30,4 @@
 - text: J fidelity check: 'subtle' for pravivikta is the commentators' gloss (labelled so in MU 4's note); aligned with the corrected teachings.
 - text: J fidelity check: 'subtle' for pravivikta is the commentators' gloss (labelled so in MU 4's note); aligned with the corrected teachings.
 
-_Contributed by: extraction:mandukya-upanisad/all, extraction:mandukya-karika/all, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-upanisad/all, extraction:mandukya-karika/all, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

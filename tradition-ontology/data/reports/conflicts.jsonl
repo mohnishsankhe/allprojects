@@ -2252,6 +2252,7 @@
 {"kind": "scalar", "id": "trm:papa", "field": "literal", "kept": "sin, evil", "other": "demerit; sin"}
 {"kind": "scalar", "id": "trm:sadhu", "field": "term", "kept": "sādhu (Jain mendicant)", "other": "sādhu"}
 {"kind": "scalar", "id": "trm:kesa-loca", "field": "literal", "kept": "hair-plucking", "other": "plucking the hair"}
+{"kind": "scalar", "id": "trm:chedopasthapana", "field": "literal", "kept": "cutting and re-establishing", "other": "re-establishment (in the vows)"}
 {"kind": "scalar", "id": "trm:paryusana", "field": "literal", "kept": "abiding (for the rains)", "other": "abiding [for the rains]"}
 {"kind": "scalar", "id": "trm:micchami-dukkadam", "field": "literal", "kept": "may my misdeed be in vain", "other": "may my wrong-doing be fruitless"}
 {"kind": "scalar", "id": "trm:ksamapana", "field": "literal", "kept": "causing to forgive", "other": "asking forgiveness"}
@@ -2261,6 +2262,7 @@
 {"kind": "scalar", "id": "trm:vyavahara-naya", "field": "term", "kept": "vyavahāra-naya (Kundakunda)", "other": "vyavahāra-naya"}
 {"kind": "scalar", "id": "trm:ara", "field": "term", "kept": "ārā", "other": "ara (spoke of the time-wheel)"}
 {"kind": "scalar", "id": "trm:asrava", "field": "literal", "kept": "inflow", "other": "outflow, influx"}
+{"kind": "scalar", "id": "trm:samvara", "field": "literal", "kept": "stopping", "other": "stopping; covering"}
 {"kind": "scalar", "id": "trm:nirjara", "field": "literal", "kept": "shedding", "other": "wearing away; shedding"}
 {"kind": "scalar", "id": "trm:pudgala", "field": "literal", "kept": "matter", "other": "person"}
 {"kind": "scalar", "id": "trm:skandha", "field": "literal", "kept": "aggregate", "other": "aggregate, heap"}
@@ -2291,8 +2293,10 @@
 {"kind": "scalar", "id": "trm:nama-karma", "field": "literal", "kept": "nāma", "other": "body-making karma"}
 {"kind": "scalar", "id": "trm:gotra-karma", "field": "term", "kept": "gotra", "other": "gotra-karma"}
 {"kind": "scalar", "id": "trm:gotra-karma", "field": "literal", "kept": "gotra", "other": "status karma"}
-{"kind": "scalar", "id": "trm:antaraya-karma", "field": "term", "kept": "antarāya", "other": "antarāya-karma"}
-{"kind": "scalar", "id": "trm:antaraya-karma", "field": "literal", "kept": "antarāya", "other": "obstructive karma"}
+{"kind": "scalar", "id": "trm:antaraya-karma", "field": "term", "kept": "antarāya (obstructive karma)", "other": "antarāya"}
+{"kind": "scalar", "id": "trm:antaraya-karma", "field": "literal", "kept": "obstruction", "other": "antarāya"}
+{"kind": "scalar", "id": "trm:antaraya-karma", "field": "term", "kept": "antarāya (obstructive karma)", "other": "antarāya-karma"}
+{"kind": "scalar", "id": "trm:antaraya-karma", "field": "literal", "kept": "obstruction", "other": "obstructive karma"}
 {"kind": "scalar", "id": "trm:tirthankara-nama-karma", "field": "term", "kept": "tīrthakaratva (Tīrthaṅkara-nāma)", "other": "tīrthaṅkara-nāma-karma"}
 {"kind": "scalar", "id": "trm:tirthankara-nama-karma", "field": "literal", "kept": "the state of being a Tīrthaṅkara", "other": "karma of Tīrthaṅkarahood"}
 {"kind": "scalar", "id": "trm:apratyakhyanavarana", "field": "term", "kept": "apratyākhyāna", "other": "apratyākhyānāvaraṇa"}
@@ -2301,8 +2305,14 @@
 {"kind": "scalar", "id": "trm:pratyakhyanavarana", "field": "literal", "kept": "renunciation", "other": "obstructing full renunciation"}
 {"kind": "scalar", "id": "trm:aloka", "field": "term", "kept": "āloka", "other": "aloka"}
 {"kind": "scalar", "id": "trm:pramoda", "field": "literal", "kept": "delight", "other": "joy [in others' virtue]"}
+{"kind": "scalar", "id": "trm:gupti", "field": "literal", "kept": "control", "other": "control; guarding"}
+{"kind": "scalar", "id": "trm:anupreksa", "field": "literal", "kept": "repeated contemplation", "other": "reflection"}
 {"kind": "scalar", "id": "trm:vinaya", "field": "language", "kept": "Pali", "other": "Sanskrit"}
 {"kind": "scalar", "id": "trm:vinaya", "field": "literal", "kept": "discipline", "other": "humility; reverence"}
+{"kind": "scalar", "id": "trm:arta-dhyana", "field": "literal", "kept": "pained meditation", "other": "sorrowful meditation"}
+{"kind": "scalar", "id": "trm:raudra-dhyana", "field": "literal", "kept": "fierce meditation", "other": "cruel meditation"}
+{"kind": "scalar", "id": "trm:dharma-dhyana", "field": "literal", "kept": "meditation of dharma", "other": "virtuous meditation"}
+{"kind": "scalar", "id": "trm:sukla-dhyana", "field": "literal", "kept": "white (bright) meditation", "other": "pure meditation"}
 {"kind": "scalar", "id": "trm:dukkha", "field": "literal", "kept": "suffering, unsatisfactoriness, pain", "other": "suffering, unsatisfactoriness"}
 {"kind": "scalar", "id": "trm:khandha", "field": "literal", "kept": "aggregate, heap, mass", "other": "aggregate, heap"}
 {"kind": "scalar", "id": "trm:vedana", "field": "language", "kept": "Pali", "other": "Sanskrit"}
@@ -2802,13 +2812,18 @@
 {"kind": "scalar", "id": "cpt:kinds-of-death-jain", "field": "name", "kept": "Kinds of death (canonical classification)", "other": "The kinds of death"}
 {"kind": "scalar", "id": "cpt:three-upayogas", "field": "name", "kept": "Pure, good and bad activity of consciousness", "other": "Pure, auspicious and inauspicious cognitive states"}
 {"kind": "scalar", "id": "cpt:three-upayogas", "field": "category", "kept": "consciousness-states", "other": "self"}
-{"kind": "scalar", "id": "cpt:siddha-state", "field": "category", "kept": "ultimate", "other": "karma-rebirth"}
+{"kind": "scalar", "id": "cpt:siddha-state", "field": "category", "kept": "stages-maps", "other": "ultimate"}
+{"kind": "scalar", "id": "cpt:siddha-state", "field": "category", "kept": "stages-maps", "other": "karma-rebirth"}
+{"kind": "scalar", "id": "cpt:kevala-jnana", "field": "category", "kept": "stages-maps", "other": "consciousness-states"}
+{"kind": "scalar", "id": "cpt:kevala-jnana", "field": "category", "kept": "stages-maps", "other": "consciousness-states"}
 {"kind": "scalar", "id": "cpt:jiva-jain", "field": "name", "kept": "The Jain soul (jīva)", "other": "The Jain soul (jīva) — canonical statements"}
 {"kind": "scalar", "id": "cpt:ahimsa-jain", "field": "name", "kept": "Non-violence in Jainism", "other": "Non-harm (ahiṃsā) — canonical statements"}
 {"kind": "scalar", "id": "cpt:pancaparamesthin", "field": "name", "kept": "The five supreme beings (pañca-parameṣṭhin)", "other": "The five supreme beings"}
-{"kind": "scalar", "id": "cpt:twenty-two-parisahas", "field": "name", "kept": "The twenty-two hardships (parīṣaha)", "other": "The twenty-two hardships — sectarian readings"}
+{"kind": "scalar", "id": "cpt:twenty-two-parisahas", "field": "name", "kept": "The hardships (parīṣaha)", "other": "The twenty-two hardships (parīṣaha)"}
+{"kind": "scalar", "id": "cpt:twenty-two-parisahas", "field": "name", "kept": "The hardships (parīṣaha)", "other": "The twenty-two hardships — sectarian readings"}
 {"kind": "scalar", "id": "cpt:niscaya-vyavahara", "field": "name", "kept": "The ultimate and conventional standpoints (niścaya and vyavahāra)", "other": "The two standpoints of Kundakunda"}
 {"kind": "scalar", "id": "cpt:five-bhavas", "field": "name", "kept": "The five states of the soul (Tattvārtha 2.1-2.7)", "other": "The five states of the soul (bhāva)"}
+{"kind": "scalar", "id": "cpt:moksa-jain", "field": "category", "kept": "stages-maps", "other": "karma-rebirth"}
 {"kind": "scalar", "id": "cpt:eight-karmas", "field": "name", "kept": "The eight karma types (Tattvārtha 8.4-8.13)", "other": "The eight kinds of karma"}
 {"kind": "scalar", "id": "cpt:four-aspects-of-bandha", "field": "name", "kept": "The four kinds of bondage (Tattvārtha 8.3)", "other": "The four aspects of bondage"}
 {"kind": "scalar", "id": "cpt:asrava", "field": "name", "kept": "Inflow (āsrava) in the Tattvārtha Sūtra", "other": "Inflow (āsrava)"}
@@ -2816,6 +2831,7 @@
 {"kind": "scalar", "id": "cpt:four-kasayas-sixteen", "field": "name", "kept": "The four passions and their sixteen varieties (Tattvārtha 8.9)", "other": "The passions and their sixteen grades"}
 {"kind": "scalar", "id": "cpt:four-kasayas-sixteen", "field": "category", "kept": "karma-rebirth", "other": "obstacles"}
 {"kind": "scalar", "id": "cpt:vow-bhavanas", "field": "name", "kept": "The vows and their contemplations (Tattvārtha 7.1-7.12)", "other": "The twenty-five contemplations supporting the vows"}
+{"kind": "scalar", "id": "cpt:five-nirgranthas", "field": "category", "kept": "stages-maps", "other": "teacher-transmission"}
 {"kind": "scalar", "id": "cpt:luminous-mind", "field": "name", "kept": "The luminous mind", "other": "The luminous mind (prabhāsvara-citta)"}
 {"kind": "scalar", "id": "cpt:luminous-mind", "field": "name", "kept": "The luminous mind", "other": "The luminous (originally pure) mind"}
 {"kind": "scalar", "id": "cpt:four-noble-truths", "field": "name", "kept": "The four noble truths (cattāri ariyasaccāni)", "other": "The four noble truths"}
@@ -2970,6 +2986,7 @@
 {"kind": "scalar", "id": "obs:mithyatva", "field": "name", "kept": "Wrong view (mithyātva)", "other": "Wrong faith (mithyātva)"}
 {"kind": "scalar", "id": "obs:four-kasayas", "field": "name", "kept": "The four passions (krodha, māna, māyā, lobha) with their four varieties", "other": "The four passions (kaṣāya)"}
 {"kind": "scalar", "id": "obs:nine-nokasayas", "field": "name", "kept": "The non-passions (akaṣāya/nokaṣāya): nine", "other": "The nine quasi-passions (nokaṣāya)"}
+{"kind": "scalar", "id": "obs:twenty-two-parisahas", "field": "name", "kept": "The hardships (parīṣaha) — summary only", "other": "The twenty-two hardships"}
 {"kind": "scalar", "id": "obs:five-hindrances", "field": "name", "kept": "The five hindrances (nīvaraṇa)", "other": "The five hindrances"}
 {"kind": "scalar", "id": "obs:thina-middha", "field": "name", "kept": "Sloth and torpor (thīnamiddha)", "other": "Dullness and drowsiness (thinamiddha)"}
 {"kind": "scalar", "id": "obs:thina-middha", "field": "name", "kept": "Sloth and torpor (thīnamiddha)", "other": "Dullness and drowsiness (thīnamiddha)"}

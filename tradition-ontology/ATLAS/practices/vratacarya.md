@@ -19,4 +19,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - One who realizes the natural state but acts basely is like a king who comes down from his throne to sweep. — [Dohākoṣa-upadeśagīti of Saraha (the 'Queen Dohā')](../texts/dohakosa-queen-saraha.md) v19-20
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:16 IST._

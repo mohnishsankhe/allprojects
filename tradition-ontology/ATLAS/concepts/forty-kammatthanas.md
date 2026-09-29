@@ -21,4 +21,4 @@ _Notes: Counts are as the text gives them._
 
 - 2026-09-29 text: confirmed — tea:visuddhimagga:3.p110/2, tea:visuddhimagga:3.p111, tea:visuddhimagga:3.p111/2, tea:visuddhimagga:3.p111/3, tea:visuddhimagga:3.p112, tea:visuddhimagga:3.p112/2, tea:visuddhimagga:3.p113, tea:visuddhimagga:3.p113/2, tea:visuddhimagga:3.p114, tea:visuddhimagga:3.p114/2, tea:visuddhimagga:3.p114/3 — Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan).
 
-_Contributed by: extraction:visuddhimagga/selections, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:16 IST._

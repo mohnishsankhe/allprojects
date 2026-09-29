@@ -14,4 +14,4 @@
 Navadvīpa Naiyāyika, author of the Jāgadīśī on the Dīdhiti, the Śabdaśaktiprakāśikā and the Tarkāmṛta.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 23:16 IST._

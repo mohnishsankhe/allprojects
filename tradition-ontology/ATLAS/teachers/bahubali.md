@@ -12,4 +12,4 @@ Son of Ṛṣabha, who defeated his elder brother Bharata in single combat for t
 **Realization — the tradition's account:** He stood a full year in body-abandonment; when the last obstacle (pride, or the thought of his brother's land) fell away he attained omniscience.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

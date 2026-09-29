@@ -19,4 +19,4 @@ The extensive commentary on the Yājñavalkyasmṛti by the Śilāhāra king Apa
 
 - 2026-09-28 websearch: partially-confirmed — https://en.wikipedia.org/wiki/Aparaditya_I, https://hindupedia.com/en/Apar%C4%81rka — Confirmed as a 12th-c. commentary by the Śilāhāra king Aparāditya of north Konkan. The bracket is uncertain: Wikipedia gives Aparāditya I's reign as 1170–1197 CE, while the entry's 1100–1150 follows the older estimate. Kept as partial.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

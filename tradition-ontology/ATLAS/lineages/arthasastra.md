@@ -36,4 +36,4 @@ _Notes: New lineage id (not in the registry) created by U02 for the puruṣārth
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/5_artha/kautilya_arthasastra.md (GRETIL, Kangle numbering), https://en.wikipedia.org/wiki/Arthashastra — Arthaśāstra 1.7.6–7 was found: 'artha eva pradhāna iti kauṭilyaḥ | arthamūlau hi dharmakāmāv iti'. Arthaśāstra 1.2.1–12 was found, with the four vidyās (1.2.1, 1.2.8) and ānvīkṣikī as Sāṃkhya, Yoga and Lokāyata (1.2.10). 'pradīpaḥ sarvavidyānām' closes the section; in the GRETIL file it is joined into 1.2.11, which is Kangle's 1.2.11–12. The earlier schools (Mānavas, Bārhaspatyas, Auśanasas) are cited at 1.2.2–7. The id is a new, non-registry lineage created by the unit, so its placement is for the orchestrator.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

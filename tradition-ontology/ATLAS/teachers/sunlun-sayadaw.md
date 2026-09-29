@@ -11,4 +11,4 @@ Burmese farmer who became a monk (U Kawi, 1878–1952) and, with little scriptur
 **Realization — the tradition's account:** The tradition holds that he attained arahantship through his own vigorous practice.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:16 IST._

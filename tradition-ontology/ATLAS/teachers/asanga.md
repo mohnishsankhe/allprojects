@@ -20,4 +20,4 @@ Founder, with his half-brother Vasubandhu, of the Yogācāra school: author of t
 **Realization — the tradition's account:** Born in Puruṣapura as eldest of three brothers of a brahmin (Kauśika) family, he first ordained in the Mahīśāsaka (Paramārtha's account); dissatisfied with his understanding of emptiness, he meditated for twelve years in a cave, leaving three times in despair and each time turning back at a sign of perseverance; when compassion for a maggot-ridden dog finally opened his vision, Maitreya appeared and taught him in Tuṣita. He then converted his brother Vasubandhu.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

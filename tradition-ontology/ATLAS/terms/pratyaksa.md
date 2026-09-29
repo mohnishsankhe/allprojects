@@ -31,4 +31,4 @@
 _Notes: Shared id: Nyāya (U11) contributes its own definition (sense–object contact, determinate and indeterminate); Dignāga criticizes that definition (PS 1)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U15-dvaita, skeleton:U11-nyaya-vaisesika, skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U13-advaita, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U15-dvaita, skeleton:U11-nyaya-vaisesika, skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U13-advaita, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 23:16 IST._

@@ -25,4 +25,4 @@ Training the mind in relative and ultimate bodhicitta by means of short slogans 
 - partial: [Exchanging self and other](exchanging-self-and-other.md) — lojong includes and systematises Śāntideva's exchange
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

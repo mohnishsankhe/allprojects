@@ -17,4 +17,4 @@
 The order of stages 1–3 follows the text's own 'when … then' clauses (2.52–53); stage 4 answers Arjuna's question at 2.54, and stage 5 is named at 2.72. The Gītā does not itself present these as a numbered ladder. Bands belong to the interpretation layer and are given only where the fit seemed clear.
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 23:16 IST._

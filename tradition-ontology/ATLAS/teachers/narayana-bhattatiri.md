@@ -12,4 +12,4 @@ Kerala scholar credited with the first (means-of-knowledge) part of the Mānamey
 _Notes: Identification with the author of the Nārāyaṇīyam is traditional; low confidence._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:16 IST._

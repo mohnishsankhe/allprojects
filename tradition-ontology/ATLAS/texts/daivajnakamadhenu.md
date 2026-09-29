@@ -14,4 +14,4 @@
 A Sanskrit manual of muhūrta and horā ascribed to the Sri Lankan monk Anavamadarśī (Saṅgharāja); evidence of jyotiṣa cultivated in a Buddhist monastic setting.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:16 IST._

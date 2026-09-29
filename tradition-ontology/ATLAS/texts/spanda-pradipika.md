@@ -17,4 +17,4 @@ Bhagavadutpala's (Utpala Vaiṣṇava) commentary on the Spandakārikā, written
   - kind: original; name: ed. M.S.G. Dyczkowski (Varanasi, c. 1990) - from catalogue data
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:16 IST._

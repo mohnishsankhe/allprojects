@@ -11,4 +11,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
   - [The Six Dharmas of Sukhasiddhi](../texts/sukhasiddhi-six-dharmas.md) — 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

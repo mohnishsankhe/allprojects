@@ -32,4 +32,4 @@ Renouncing all actions in Kṛṣṇa, with a mind directed to the self, free of
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:18.57, tea:bhagavad-gita:18.58 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.6, tea:bhagavad-gita:12.6-7, tea:bhagavad-gita:12.7 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 23:16 IST._

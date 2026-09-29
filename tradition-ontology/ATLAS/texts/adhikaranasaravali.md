@@ -15,4 +15,4 @@ Deśika's verse summary of each topic (adhikaraṇa) of the Brahma Sūtras as re
 **Commentaries on this text:** [Adhikaraṇacintāmaṇi](adhikarana-cintamani.md)
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:16 IST._

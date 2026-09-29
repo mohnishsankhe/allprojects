@@ -16,4 +16,4 @@ Through inner worship, meditation on Śiva as one's self: the supreme self is co
 - The breath element (meeting of prāṇa and apāna) is done on the teacher's instruction (commentary on 12.6); no method is recorded here. — [Siddhāntaśikhāmaṇi](../texts/siddhantasikhamani.md) 12.6
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:16 IST._

@@ -16,4 +16,4 @@
 
 - 2026-09-29 text: partially-confirmed — tea:mandukya-karika:4.1, tea:mandukya-karika:4.28, tea:mandukya-karika:4.91 — Content matches the cited verses. Rename NOT confirmed: data trm:akasa already carries this sense (its lin:upanisadic definition is 'Space' (ChU, TU); ākāśa in the Kārikā is the same referent, not a homonym); fold into trm:akasa at merge. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

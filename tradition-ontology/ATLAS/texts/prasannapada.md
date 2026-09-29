@@ -93,4 +93,4 @@ concepts: [Emptiness (śūnyatā) in Madhyamaka](../concepts/sunyata.md), [Depen
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U33-sramana. Generated 2026-09-29 23:16 IST._

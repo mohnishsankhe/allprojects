@@ -23,4 +23,4 @@
 
 - definitions: Vism XXII p. 684: "apāyagamanīyā ca kāmarāga-paṭighā ... paṭhamañāṇavajjhā; sesā kāmarāgapaṭighā oḷārikā dutiyañāṇavajjhā; sukhumā tatiyañāṇavajjhā". The entity called the first-path kind "coarse" and the second-path kind "gross", which misstates the division.
 
-_Contributed by: extraction:visuddhimagga/selections, skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections, skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

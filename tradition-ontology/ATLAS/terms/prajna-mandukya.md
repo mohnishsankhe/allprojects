@@ -25,4 +25,4 @@ _Notes: Distinct from prajñā (wisdom); id disambiguated._
 
 - text: J fidelity check: The definition stated the commentators' referent of MU 6 'eṣaḥ' (prājña) as fact; MU 6's own teaching entry leaves it open.
 
-_Contributed by: extraction:mandukya-upanisad/all, extraction:mandukya-karika/all, skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-upanisad/all, extraction:mandukya-karika/all, skeleton:U03-principal-upanisads. Generated 2026-09-29 23:16 IST._

@@ -36,4 +36,4 @@ No: effects such as the world require an intelligent maker (Īśvara) as their e
 **Candidate readings:** P2-standpoint (causal): prakṛti as material cause and a Lord as efficient cause — the theistic-Sāṃkhya reading; rejected by classical Sāṃkhya (SS 1.92) and by Advaita, for which Brahman is both material and efficient cause.; P2-standpoint (purpose): Sāṃkhya's teleology 'for puruṣa' already locates the orienting factor in consciousness (puruṣa's presence), which Vedānta places in the Lord.
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 23:16 IST._

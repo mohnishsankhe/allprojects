@@ -36,4 +36,4 @@ concepts: [Oneself as island, the Dhamma as island](../concepts/attadipa.md) · 
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

@@ -25,4 +25,4 @@
 **Related:** [śūnyatā](sunyata.md), [upādāya prajñapti](upadaya-prajnapti.md), [madhyamā pratipad](madhyama-pratipad.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U38-early-schools, skeleton:U39-mahayana-sutras, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U38-early-schools, skeleton:U39-mahayana-sutras, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

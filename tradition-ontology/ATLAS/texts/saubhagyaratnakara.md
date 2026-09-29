@@ -15,4 +15,4 @@ A large Śrīvidyā ritual digest (author as Vidyānandanātha in some accounts)
 _Notes: Authorship not checked._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:16 IST._

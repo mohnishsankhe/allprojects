@@ -85,4 +85,4 @@ terms: ['pho ba](../terms/phowa.md), [khros ma nag mo](../terms/troma-nagmo.md) 
 _Notes: Compiler(s) not recalled with confidence._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

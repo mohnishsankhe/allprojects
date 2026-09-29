@@ -9,4 +9,4 @@
 Scholar of Katok who edited the Derge edition of the Nyingma Gyubum and wrote its catalogue.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:16 IST._

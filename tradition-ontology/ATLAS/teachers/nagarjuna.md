@@ -36,4 +36,4 @@ Founder of the Madhyamaka: author of the Mūlamadhyamakakārikā and the other '
 _Notes: Scholarly account: a South Indian monk of c. 150–250 CE connected with the Sātavāhana court; the name was borne also by later authors (a tantric Nāgārjuna and the alchemist tch:nagarjuna-siddha), which the tradition conflates. The 'reasoning corpus' (MMK, VV, ŚS, YṢ, VP) and the RĀ and SL are widely accepted; other attributions are disputed. Laṅkāvatāra prophecy verse number (c. 10.165–166) to check._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U43-pure-land, skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U43-pure-land, skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

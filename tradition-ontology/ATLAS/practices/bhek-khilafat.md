@@ -11,4 +11,4 @@ Initiation into mendicant life with the robe (ālkhāllā) and begging bowl, per
 _Notes: The 'symbolic funeral' detail is recalled from ethnographic reports with low confidence._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

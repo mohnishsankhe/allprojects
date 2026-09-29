@@ -10,4 +10,4 @@
 A thief who came to rob Jambū on his wedding night and was converted; Jambū's successor as head of the Śvetāmbara community.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

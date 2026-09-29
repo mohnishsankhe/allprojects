@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The varṇas by guṇa and action](varna-by-guna-and-karma.md): both make varṇa depend on conduct or occupation rather than birth alone — rests on [25](../texts/uttaradhyayana-sutra.md#tea-uttaradhyayana-sutra-25), [16](../texts/adipurana-jinasena.md#tea-adipurana-jinasena-16)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

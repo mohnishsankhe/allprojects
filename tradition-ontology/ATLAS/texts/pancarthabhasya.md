@@ -228,4 +228,4 @@ concepts: [The end of suffering (duḥkhānta)](../concepts/duhkhanta.md), [The 
 _Notes: Known from a single rediscovered manuscript published in 1940._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:16 IST._

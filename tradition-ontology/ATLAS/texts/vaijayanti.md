@@ -20,4 +20,4 @@ Nandapaṇḍita's commentary on the Viṣṇusmṛti.
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Vishnu_Smriti, https://archive.org/details/VishnuSmritiPartIWithKeshavaVaijayantiOfNandaPanditEdPt.V.KrishnamacharyaAdyarLibrary — Low-confidence entry confirmed: Nandapaṇḍita of Vārāṇasī wrote the Vaijayantī (Keśava-vaijayantī) in 1622, the earliest known commentary on the Viṣṇusmṛti (Wikipedia; Adyar edition). This fits the entry's 1580–1630.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

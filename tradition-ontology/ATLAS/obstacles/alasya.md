@@ -24,4 +24,4 @@ Vyāsa's gloss: non-engagement (apravṛtti) from heaviness (gurutva) of body an
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:18.28, tea:bhagavad-gita:18.39 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.8 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga, skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:16 IST._

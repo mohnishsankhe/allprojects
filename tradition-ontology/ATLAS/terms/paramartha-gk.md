@@ -16,4 +16,4 @@
 
 - 2026-09-29 text: partially-confirmed — tea:mandukya-karika:1.17, tea:mandukya-karika:2.32, tea:mandukya-karika:3.18 — Content matches the cited verses. Rename NOT confirmed: data trm:paramartha already carries this sense (its lin:madhyamaka definition is 'the ultimate, as in paramārtha-satya', the Kārikā's sense of paramārthataḥ; the report cited only the Yogācāra lineage); fold into trm:paramartha at merge. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

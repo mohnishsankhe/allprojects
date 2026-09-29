@@ -15,4 +15,4 @@ The 'Accomplishment of the Innate', ascribed to Ḍombi Heruka (with a commentar
 _Notes: Its opening (D2260) was seen locally in the Derge file; author not read in the colophon._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:16 IST._

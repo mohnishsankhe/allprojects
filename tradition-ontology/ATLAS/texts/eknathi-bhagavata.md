@@ -63,4 +63,4 @@ concepts: [The vernacular as sacred speech](../concepts/vernacular-as-sacred-spe
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Eknathi_Bhagwat, https://en.wikipedia.org/wiki/Varkari — A Marathi ovī commentary on Bhāgavata Book 11, begun at Paiṭhaṇ c. 1570 and completed at Vārāṇasī in 1573; over 18,000 ovīs. It is one of the foundational texts of the Vārkarī sampradāya. It is also digitized (archive.org), so availability could be updated.
 
-_Contributed by: skeleton:U26-regional-bhakti, skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti, skeleton:U06-other-gitas. Generated 2026-09-29 23:16 IST._

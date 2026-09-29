@@ -12,4 +12,4 @@ Continuing the Vedic and social duties of one's station throughout life together
   - [Brahmasūtrabhāṣya of Bhāskara (Bhāskarabhāṣya)](../texts/brahma-sutra-bhasya-bhaskara.md) — ref: 1.1.1; rests_on: ["tea:brahma-sutra-bhasya-bhaskara:1.1.1"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

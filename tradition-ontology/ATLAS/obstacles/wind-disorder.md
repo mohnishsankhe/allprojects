@@ -10,4 +10,4 @@ Disturbance of the life-wind by forced breath practice, tension or over-effort i
 **Antidotes:** relaxation, gentle practice under guidance
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:16 IST._

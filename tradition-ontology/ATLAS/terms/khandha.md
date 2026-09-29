@@ -17,4 +17,4 @@
 **Related:** [upādānakkhandha](upadanakkhandha.md), [rūpa](rupa.md), [vedanā](vedana.md), [saññā](sanna.md), [saṅkhāra](sankhara.md), [viññāṇa](vinnana.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:16 IST._

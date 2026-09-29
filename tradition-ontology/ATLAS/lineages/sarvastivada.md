@@ -62,4 +62,4 @@ The Sarvāstivāda ('those who say everything exists') was the most influential 
 _Notes: Parent set to lin:early-buddhism (umbrella) so that the school counts as its own root in convergence; its Sthavira ancestry is recorded under lin:sthavira. Relationship to the Mūlasarvāstivāda is disputed (see lin:mulasarvastivada)._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

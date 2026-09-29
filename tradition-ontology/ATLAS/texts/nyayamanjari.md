@@ -77,4 +77,4 @@ disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya)
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U33-sramana. Generated 2026-09-29 23:16 IST._

@@ -13,4 +13,4 @@
 - contrasts-with → [Destiny (niyativāda)](niyativada.md): a Jain text keeps a respectful saying of the teacher whose doctrine other Jain texts reject — rests on [11](../texts/isibhasiyaim.md#tea-isibhasiyaim-11), [7](../texts/upasakadasa.md#tea-upasakadasa-7)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:16 IST._

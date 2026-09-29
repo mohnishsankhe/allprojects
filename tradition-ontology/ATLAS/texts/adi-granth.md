@@ -16,4 +16,4 @@ CONTEXT ONLY — Sikh scripture is outside this ontology's scope. Recorded becau
 _Notes: Context only (U27 brief: Sikh scripture outside scope). No Sikh teachings are extracted; Sant hymns preserved here are recorded under the Sants' own source ids (e.g. src:ravidas-bani) with the Ādi Granth as location._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

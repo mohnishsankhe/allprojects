@@ -16,4 +16,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - Pumpkin, sugarcane and spirits are declared equal to a victim. — [Kālikā Purāṇa](../texts/kalika-purana.md) 67.19-23
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:16 IST._

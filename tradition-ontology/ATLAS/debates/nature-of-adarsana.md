@@ -27,4 +27,4 @@ Others in the śāstra: seeing-power itself is non-seeing; non-seeing is a prope
 
 - (text): aligned with YBh 2.23 ('kim arthavattā guṇānām' was omitted and a gloss split off as a view)
 
-_Contributed by: extraction:yoga-sutra/p1-2. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:yoga-sutra/p1-2. Generated 2026-09-29 23:16 IST._

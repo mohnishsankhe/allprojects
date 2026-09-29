@@ -17,4 +17,4 @@ A 17th-century commentary on the Śiva Sūtra by the Kashmiri poet-scholar Sāhi
   - kind: original; name: Raghunath Temple MSS Library (Jammu) MS 1672 (catalogue data)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:16 IST._

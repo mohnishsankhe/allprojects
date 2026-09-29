@@ -13,4 +13,4 @@ Faith that is not genuine, not single and not continuous — why calling the nam
   - [Commentary on the Rebirth Treatise (Wangsheng lun zhu)](../texts/wangsheng-lun-zhu.md) — ref: fasc. 2; rests_on: ["tea:wangsheng-lun-zhu:2.praise-gate"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

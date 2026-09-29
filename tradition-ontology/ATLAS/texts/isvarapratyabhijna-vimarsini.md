@@ -19,4 +19,4 @@ Abhinavagupta's commentary on the Īśvarapratyabhijñākārikā (with its Vṛt
 **Commentaries on this text:** [Bhāskarī](bhaskari.md)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:16 IST._

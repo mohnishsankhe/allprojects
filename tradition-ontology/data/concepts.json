@@ -17327,7 +17327,7 @@
      }
     ],
     "reason": "Maṇḍalabrāhmaṇa 4.1 in the e-text reads 'navacakraṃ ṣaḍādhāraṃ trilakṣyaṃ vyomapañcakam', that is nine cakras and SIX ādhāras. The 'sixteen ādhāras' belong to Yogacūḍāmaṇi 3 ('ṣaṭcakraṃ ṣoḍaśādhāraṃ trilakṣyaṃ vyomapañcakam'). The definition is corrected accordingly. The Yogaśikhā's four pīṭhas are confirmed at 1.172-175. All 8 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:3-ascent-through-the-centres (corrected).",
-    "date": "2026-09-29 23:14 IST",
+    "date": "2026-09-29 23:16 IST",
     "by": "sourcing:U04-minor-upanisads"
    }
   ],
@@ -34555,6 +34555,14 @@
    },
    {
     "lineage": "lin:jainism",
+    "definition": "The soul's states are aupaśamika, kṣāyika, mixed, audayika and pāriṇāmika (2.1); jīvatva, bhavyatva and abhavyatva are named at 2.7.",
+    "rests_on": [
+     "tea:tattvartha-sutra:2.1",
+     "tea:tattvartha-sutra:2.7"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
     "definition": "The soul's states are subsidential, destructional, mixed, rising and inherent, with 2, 9, 18, 21 and 3 divisions (TS 2.1–7); at liberation all cease except perfect right view, knowledge, perception and siddhahood (10.3–4).",
     "rests_on": [
      "tea:tattvartha-sutra:2.1",
@@ -34594,6 +34602,18 @@
      ],
      "result": "confirmed",
      "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    },
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:2.1",
+      "tea:tattvartha-sutra:2.7"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
     }
    ],
    "unverified": false
@@ -34604,6 +34624,7 @@
   "provenance": {
    "units": [
     "extraction:tattvartha-sutra/karma-passions",
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
@@ -34720,6 +34741,13 @@
   "definitions": [
    {
     "lineage": "lin:jainism",
+    "definition": "Sāmāyika, chedopasthāpanā, parihāra-viśuddhi, sūkṣma-sāmparāya, yathākhyāta (9.18).",
+    "rests_on": [
+     "tea:tattvartha-sutra:9.18"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
     "definition": "Equanimity, re-initiation, purification by special austerity, subtle passion and perfect conduct (TS 9.18), rising with the guṇasthānas.",
     "rests_on": [
      "tea:tattvartha-sutra:9.2",
@@ -34727,27 +34755,44 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.18"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "members": [
    "sāmāyika",
    "chedopasthāpanā",
+   "parihāra-viśuddhi",
+   "sūkṣma-sāmparāya",
+   "yathākhyāta",
    "parihāraviśuddhi",
-   "sūkṣmasāmparāya",
-   "yathākhyāta"
+   "sūkṣmasāmparāya"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -36946,8 +36991,16 @@
  {
   "id": "cpt:five-nirgranthas",
   "name": "The five kinds of unattached ascetic",
-  "category": "teacher-transmission",
+  "category": "stages-maps",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Pulāka, vakuśa, kuśīla, nirgrantha and snātaka (9.46), to be set out by restraint, scripture, transgression, tīrtha, mark, leśyā, rebirth and level (9.47).",
+    "rests_on": [
+     "tea:tattvartha-sutra:9.46",
+     "tea:tattvartha-sutra:9.47"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Pulāka, bakuśa, kuśīla, nirgrantha and snātaka, distinguished by restraint, learning, transgression, tīrtha, outer sign, leśyā, rebirth and stage (TS 9.46–47).",
@@ -36957,27 +37010,44 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.46",
+      "tea:tattvartha-sutra:9.47"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "members": [
    "pulāka",
-   "bakuśa",
+   "vakuśa",
    "kuśīla",
    "nirgrantha",
-   "snātaka"
+   "snātaka",
+   "bakuśa"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -40884,6 +40954,20 @@
   "definitions": [
    {
     "lineage": "lin:jainism",
+    "definition": "Dhyāna (9.27) is ārta, raudra, dharmya or śukla (9.28); the last two are causes of liberation (9.29). Ārta: 9.30-9.34. Raudra: 9.35. Dharmya: 9.36. Śukla: four kinds, two for the pūrva-knower and two for the kevalin (9.37-9.44).",
+    "rests_on": [
+     "tea:tattvartha-sutra:9.27",
+     "tea:tattvartha-sutra:9.28",
+     "tea:tattvartha-sutra:9.29",
+     "tea:tattvartha-sutra:9.30",
+     "tea:tattvartha-sutra:9.35",
+     "tea:tattvartha-sutra:9.36",
+     "tea:tattvartha-sutra:9.37",
+     "tea:tattvartha-sutra:9.39"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
     "definition": "Meditation is fixing the mind on one object for up to a muhūrta (TS 9.27); it is sorrowful (four kinds), cruel (four kinds), virtuous (examining the command, harm, fruition and structure) and pure (four stages: with multiplicity, reasoning and shifting; with unity and reasoning; subtle activity; ceased activity); only the last two lead to liberation (9.28–44).",
     "rests_on": [
      "tea:tattvartha-sutra:9.27",
@@ -40901,7 +40985,37 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.27",
+      "tea:tattvartha-sutra:9.28",
+      "tea:tattvartha-sutra:9.29",
+      "tea:tattvartha-sutra:9.30",
+      "tea:tattvartha-sutra:9.35",
+      "tea:tattvartha-sutra:9.36",
+      "tea:tattvartha-sutra:9.37",
+      "tea:tattvartha-sutra:9.39"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "members": [
+   "ārta",
+   "raudra",
+   "dharmya",
+   "śukla",
    "ārta (4)",
    "raudra (4)",
    "dharma (ājñā-, apāya-, vipāka-, saṃsthāna-vicaya)",
@@ -40921,17 +41035,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -62500,8 +62610,15 @@
  {
   "id": "cpt:kevala-jnana",
   "name": "Omniscience (kevala-jñāna)",
-  "category": "consciousness-states",
+  "category": "stages-maps",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Kevala arises from the destruction of delusion, and of the obscurations of knowledge and perception and the obstructive karma (10.1).",
+    "rests_on": [
+     "tea:tattvartha-sutra:10.1"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Knowledge of all substances in all their modes (TS 1.29), arising when delusion and then the knowledge-obscuring, perception-obscuring and obstructive karmas are destroyed (10.1); the soul's own nature fully manifest. Its possibility is argued from the degree-wise diminution of faults (Āptamīmāṃsā 4–5).",
@@ -62539,6 +62656,25 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:10.1"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "relations": [
    {
     "rel": "contrasts-with",
@@ -62562,18 +62698,14 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy",
     "skeleton:U34-jain-canon"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -73473,8 +73605,17 @@
  {
   "id": "cpt:moksa-jain",
   "name": "Liberation (mokṣa) in Jainism",
-  "category": "karma-rebirth",
+  "category": "stages-maps",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Complete release from karma through the absence of the causes of bondage and through shedding (10.2); the states cease except perfect right view, knowledge, perception and siddhatva (10.3-10.4).",
+    "rests_on": [
+     "tea:tattvartha-sutra:10.2",
+     "tea:tattvartha-sutra:10.3",
+     "tea:tattvartha-sutra:10.4"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Release from all karma through the absence of the causes of bondage and through shedding (TS 10.2); it follows omniscience and the stopping of all activity; the liberated do not return.",
@@ -73491,6 +73632,27 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:10.2",
+      "tea:tattvartha-sutra:10.3",
+      "tea:tattvartha-sutra:10.4"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "relations": [
    {
     "rel": "contrasts-with",
@@ -73503,17 +73665,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -78274,6 +78432,14 @@
   "definitions": [
    {
     "lineage": "lin:jainism",
+    "definition": "Through tapas there is shedding (9.3); at ten stages, from right view to the jina, shedding grows innumerable-fold in order (9.45).",
+    "rests_on": [
+     "tea:tattvartha-sutra:9.3",
+     "tea:tattvartha-sutra:9.45"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
     "definition": "The falling away of karma, either after fruition (savipāka) or ahead of time through austerity (avipāka) (TS 8.23, 9.3); shedding increases innumerable-fold at each of ten stages from right view to the Jina (9.45).",
     "rests_on": [
      "tea:tattvartha-sutra:8.23",
@@ -78282,6 +78448,26 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.3",
+      "tea:tattvartha-sutra:9.45"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "members": [
    "savipāka",
    "avipāka (sakāma)"
@@ -78289,17 +78475,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -84198,7 +84380,7 @@
      }
     ],
     "reason": "Every example in the definition was text-located. ŚB 14.6.11.2 has 'indho vai nāmaiṣa … taṃ vā etam indhaṃ santam indra ity ācakṣate paro'kṣeṇaiva paro'kṣapriyā iva hi devāḥ pratyakṣadviṣaḥ'. AB 3.43 has 'tam agnistomaṃ santam agniṣṭoma ity ācakṣate parokṣeṇa parokṣapriyā iva hi devāḥ', and also 3.33 and 7.30. The svāpyaya → svapna pun, however, is ŚB 10.5.2.19, not 10.5.2.20, as the correction of tea:satapatha-brahmana:10.5.2.20 records. Correction: that locator becomes 10.5.2.19 in the definition; the wording is otherwise unchanged.",
-    "date": "2026-09-29 23:14 IST",
+    "date": "2026-09-29 23:16 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],
@@ -99358,6 +99540,15 @@
   "definitions": [
    {
     "lineage": "lin:jainism",
+    "definition": "Saṃvara is the stopping of inflow (9.1). Its means are the guptis, samitis, dharma, anuprekṣās, conquest of the parīṣahas and cāritra (9.2); tapas also brings shedding (9.3).",
+    "rests_on": [
+     "tea:tattvartha-sutra:9.1",
+     "tea:tattvartha-sutra:9.2",
+     "tea:tattvartha-sutra:9.3"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
     "definition": "The blocking of inflow by the three controls, five carefulnesses, ten virtues, twelve reflections, conquest of the twenty-two hardships and the five conducts (TS 9.1–2); inflow is always to be abandoned and stopping adopted (Vītarāgastotra 19).",
     "rests_on": [
      "tea:tattvartha-sutra:9.1",
@@ -99366,6 +99557,27 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.1",
+      "tea:tattvartha-sutra:9.2",
+      "tea:tattvartha-sutra:9.3"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "members": [
    "gupti",
    "samiti",
@@ -99377,17 +99589,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -106235,6 +106443,64 @@
   }
  },
  {
+  "id": "cpt:siddha-ascent-causes",
+  "name": "The four causes of the liberated soul's ascent",
+  "category": "stages-maps",
+  "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Former impulse, absence of attachment, cutting of the bond and taking the form of such motion (10.6), with four similes: the spun potter's wheel, the freed gourd, the castor seed, the flame (10.7).",
+    "rests_on": [
+     "tea:tattvartha-sutra:10.6",
+     "tea:tattvartha-sutra:10.7"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:10.6",
+      "tea:tattvartha-sutra:10.7"
+     ],
+     "result": "corrected",
+     "note": "Corrected by J: Aligned with the 10.6 fix. Level not raised by J."
+    }
+   ]
+  },
+  "members": [
+   "pūrva-prayoga",
+   "asaṅgatva",
+   "bandha-cheda",
+   "tathā-gati-pariṇāma"
+  ],
+  "correction_log": [
+   {
+    "field": "definitions.0.definition",
+    "old": "Former impulse, absence of attachment, cutting of the bond and the nature of such motion (10.6), with four similes: the spun potter's wheel, the freed gourd, the castor seed, the flame (10.7).",
+    "new": "Former impulse, absence of attachment, cutting of the bond and taking the form of such motion (10.6), with four similes: the spun potter's wheel, the freed gourd, the castor seed, the flame (10.7).",
+    "reason": "Aligned with the 10.6 fix.",
+    "by": "J",
+    "date": "2026-09-29"
+   }
+  ],
+  "provenance": {
+   "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus"
+   ],
+   "phases": [
+    "extraction"
+   ]
+  }
+ },
+ {
   "id": "cpt:siddha-cakra-deities",
   "name": "The deities of the supports in Pattirakiriyār's map",
   "category": "body-energy",
@@ -106671,8 +106937,19 @@
  {
   "id": "cpt:siddha-state",
   "name": "The state of the liberated (siddha)",
-  "category": "ultimate",
+  "category": "stages-maps",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "After release the soul goes upward to the end of the universe (10.5), for four causes (10.6) illustrated by four similes (10.7), and stops for want of the medium of motion (10.8); the liberated are set out under twelve heads (10.9).",
+    "rests_on": [
+     "tea:tattvartha-sutra:10.5",
+     "tea:tattvartha-sutra:10.6",
+     "tea:tattvartha-sutra:10.7",
+     "tea:tattvartha-sutra:10.8",
+     "tea:tattvartha-sutra:10.9"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Freed of all karma, the soul rises in one instant to the summit of the universe — like a potter's wheel, a gourd freed of clay, a castor seed and a flame — and stops there for want of the medium of motion; it abides bodiless, in its last body's shape, with perfect right view, knowledge, perception and siddhahood, one among infinitely many (TS 10.3–9).",
@@ -106706,24 +106983,43 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:10.5",
+      "tea:tattvartha-sutra:10.6",
+      "tea:tattvartha-sutra:10.7",
+      "tea:tattvartha-sutra:10.8",
+      "tea:tattvartha-sutra:10.9"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "members": [
    "eight qualities (Digambara): samyaktva, jñāna, darśana, vīrya, sūkṣmatva, avagāhana, agurulaghutva, avyābādhatva"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy",
     "skeleton:U34-jain-canon"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -119911,6 +120207,13 @@
   "definitions": [
    {
     "lineage": "lin:jainism",
+    "definition": "Supreme forbearance, gentleness, straightforwardness, purity, truth, restraint, austerity, giving up, non-possession and celibacy (9.6).",
+    "rests_on": [
+     "tea:tattvartha-sutra:9.6"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
     "definition": "Supreme forbearance, humility, straightforwardness, purity, truth, restraint, austerity, renunciation, non-possession and celibacy (TS 9.6); celebrated in the Digambara Daśalakṣaṇa festival; dharma is also the nature of a thing, the three jewels and the protection of beings (Kārttikeyānuprekṣā 478).",
     "rests_on": [
      "tea:tattvartha-sutra:9.2",
@@ -119919,6 +120222,25 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.6"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "members": [
    "uttama-kṣamā",
    "mārdava",
@@ -119934,17 +120256,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -125603,6 +125921,14 @@
   "definitions": [
    {
     "lineage": "lin:jainism",
+    "definition": "Gupti is the proper restraint of activity (9.4); the five samitis are īryā, bhāṣā, eṣaṇā, ādāna-nikṣepa, utsarga (9.5).",
+    "rests_on": [
+     "tea:tattvartha-sutra:9.4",
+     "tea:tattvartha-sutra:9.5"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
     "definition": "Proper restraint of mind, speech and body, and care in walking, speaking, seeking alms, handling objects and excreting (TS 9.4–5); together the eight 'mothers of the doctrine' (Uttarādhyayana 24).",
     "rests_on": [
      "tea:tattvartha-sutra:9.2",
@@ -125611,6 +125937,26 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.4",
+      "tea:tattvartha-sutra:9.5"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "members": [
    "mano-gupti",
    "vāg-gupti",
@@ -125624,17 +125970,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -132220,6 +132562,13 @@
   "definitions": [
    {
     "lineage": "lin:jainism",
+    "definition": "Repeated contemplation of impermanence, no refuge, saṃsāra, aloneness, otherness, impurity, inflow, stopping, shedding, the universe, rarity of enlightenment and the well-taught dharma (9.7).",
+    "rests_on": [
+     "tea:tattvartha-sutra:9.7"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
     "definition": "Contemplation of impermanence, no refuge, the round of births, aloneness, otherness of self and body, impurity of the body, inflow, stopping, shedding, the universe, the rarity of enlightenment and the well-taught dharma (TS 9.7); the ladder to meditation (Jñānārṇava); subject of Kundakunda's and Kārttikeya's anuprekṣā poems.",
     "rests_on": [
      "tea:tattvartha-sutra:7.12",
@@ -132230,6 +132579,25 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.7"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "members": [
    "anitya",
    "aśaraṇa",
@@ -132241,23 +132609,21 @@
    "saṃvara",
    "nirjarā",
    "loka",
+   "bodhi-durlabha",
+   "dharma-svākhyātatva",
    "bodhidurlabha",
    "dharmasvākhyātatva"
   ],
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -132856,6 +133222,20 @@
   "definitions": [
    {
     "lineage": "lin:jainism",
+    "definition": "Summary only for the outer austerities (restricted topic, 9.19). The six latter (uttara) ones, by tradition called inner (ābhyantara), are expiation, reverence, service, study, abandonment and meditation (9.20), with nine, four, ten, five and two kinds for the first five (9.21-9.26).",
+    "rests_on": [
+     "tea:tattvartha-sutra:9.19",
+     "tea:tattvartha-sutra:9.20",
+     "tea:tattvartha-sutra:9.21",
+     "tea:tattvartha-sutra:9.22",
+     "tea:tattvartha-sutra:9.23",
+     "tea:tattvartha-sutra:9.24",
+     "tea:tattvartha-sutra:9.25",
+     "tea:tattvartha-sutra:9.26"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
     "definition": "Six external — fasting, eating less, limiting the alms-round, giving up tasty food, lonely lodging, bodily mortification — and six internal — expiation, humility, service, study, abandonment, meditation (TS 9.19–20); austerity both stops and sheds karma (9.3).",
     "rests_on": [
      "tea:tattvartha-sutra:9.3",
@@ -132868,6 +133248,43 @@
     "lineage": "lin:svetambara",
     "definition": "The Śvetāmbara list has saṃlīnatā (withdrawal) for lonely lodging and places meditation before abandonment (Uttarādhyayana 30).",
     "rests_on": []
+   }
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.19",
+      "tea:tattvartha-sutra:9.20",
+      "tea:tattvartha-sutra:9.21",
+      "tea:tattvartha-sutra:9.22",
+      "tea:tattvartha-sutra:9.23",
+      "tea:tattvartha-sutra:9.24",
+      "tea:tattvartha-sutra:9.25",
+      "tea:tattvartha-sutra:9.26"
+     ],
+     "result": "corrected",
+     "note": "Corrected by J: Restricted: a count of the outer austerities was given. 'inner' is labelled as the tradition's name (see 9.20). Level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "restricted": true,
+  "correction_log": [
+   {
+    "field": "definitions.0.definition",
+    "old": "Summary only for the six outer austerities (restricted topic, 9.19). The six inner ones are expiation, reverence, service, study, abandonment and meditation (9.20), with nine, four, ten, five and two kinds for the first five (9.21-9.26).",
+    "new": "Summary only for the outer austerities (restricted topic, 9.19). The six latter (uttara) ones, by tradition called inner (ābhyantara), are expiation, reverence, service, study, abandonment and meditation (9.20), with nine, four, ten, five and two kinds for the first five (9.21-9.26).",
+    "reason": "Restricted: a count of the outer austerities was given. 'inner' is labelled as the tradition's name (see 9.20).",
+    "by": "J",
+    "date": "2026-09-29"
    }
   ],
   "members": [
@@ -132887,17 +133304,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -134688,9 +135101,19 @@
  },
  {
   "id": "cpt:twenty-two-parisahas",
-  "name": "The twenty-two hardships (parīṣaha)",
+  "name": "The hardships (parīṣaha)",
   "category": "obstacles",
   "definitions": [
+   {
+    "lineage": "lin:jainism",
+    "definition": "Summary only (restricted topic): hardships met on the path that are to be endured, so as not to fall from the path and for shedding (9.8); the sūtras 9.9-9.17 list them, assign them to stages and karma types, and say how many can occur together; none of that detail is reproduced here.",
+    "rests_on": [
+     "tea:tattvartha-sutra:9.8",
+     "tea:tattvartha-sutra:9.9",
+     "tea:tattvartha-sutra:9.10",
+     "tea:tattvartha-sutra:9.17"
+    ]
+   },
    {
     "lineage": "lin:jainism",
     "definition": "Hunger, thirst, cold, heat, insect bites, nakedness, discontent, women, wandering, sitting, lying, abuse, injury, begging, not obtaining, illness, grass-pricks, dirt, honour, intelligence, ignorance and lack of vision, to be endured for the path and for shedding (TS 9.8–9); eleven are said to occur in the Jina (9.11), a sūtra read differently by the two sects.",
@@ -134725,6 +135148,29 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:9.8",
+      "tea:tattvartha-sutra:9.9",
+      "tea:tattvartha-sutra:9.10",
+      "tea:tattvartha-sutra:9.17"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
+  "restricted": true,
   "members": [
    "kṣudh",
    "pipāsā",
@@ -134752,22 +135198,18 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "disputes": [
    "dsp:kevalin-eats",
    "dsp:monastic-nudity"
   ],
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy",
     "skeleton:U34-jain-canon"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }
@@ -138564,6 +139006,13 @@
   "definitions": [
    {
     "lineage": "lin:jainism",
+    "definition": "The existent is joined with origination, cessation and persistence (5.30).",
+    "rests_on": [
+     "tea:tattvartha-sutra:5.30"
+    ]
+   },
+   {
+    "lineage": "lin:jainism",
     "definition": "Whatever exists is endowed with origination, cessation and persistence (TS 5.30): permanent as substance, changing as modes — the ontological root of many-sidedness and the Jain answer to both eternalism and momentariness.",
     "rests_on": [
      "tea:tattvartha-sutra:5.29",
@@ -138573,6 +139022,25 @@
     ]
    }
   ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "protocol": "insight-p1-single+spot",
+   "checks": [
+    {
+     "phase": "J",
+     "date": "2026-09-29",
+     "method": "text",
+     "queries": [],
+     "evidence": [
+      "tea:tattvartha-sutra:5.30"
+     ],
+     "result": "confirmed",
+     "note": "Entity read against the teachings it rests on and their segments: faithful; level not raised by J."
+    }
+   ],
+   "unverified": false
+  },
   "members": [
    "utpāda (arising)",
    "vyaya (passing)",
@@ -138592,17 +139060,13 @@
   "coverage": [
    "B2"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "extraction:tattvartha-sutra/ch9-10-plus",
     "skeleton:U35-jain-philosophy"
    ],
    "phases": [
+    "extraction",
     "skeleton"
    ]
   }

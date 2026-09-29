@@ -12,4 +12,4 @@ Arrogance after an initial awakening, as Hakuin after his first breakthrough, cu
   - [Platform Sūtra of the Sixth Patriarch (Liuzu tanjing)](../texts/platform-sutra.md) — ref: 10.11; rests_on: ["tea:platform-sutra:10.11"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

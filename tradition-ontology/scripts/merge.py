@@ -478,7 +478,33 @@ def redact_restricted(data):
         if had:
             o["method_redacted"] = sorted(had)
             n += 1
+    restricted_ids = {k for k, o in data.get("practices", {}).items() if o.get("restricted")}
+    for tid, t in data.get("teachings", {}).items():
+        lvl = (t.get("verification") or {}).get("level", "skeleton")
+        if lvl == "text-verified":
+            continue          # judged entries were checked summary-only by the judges
+        if not (t.get("restricted") or set(t.get("practices") or []) & restricted_ids):
+            continue
+        para = t.get("paraphrase") or ""
+        if not STEP_LIKE.search(para):
+            continue
+        head = re.split(r"[:—–]", para, maxsplit=1)[0].strip()
+        if 0 < len(head) <= 80 and not STEP_LIKE.search(head):
+            t["paraphrase"] = f"{head}: a restricted practice, recorded as a summary only; the method is not kept."
+        else:
+            t["paraphrase"] = "A restricted practice, recorded as a summary only; the method is not kept."
+        t.setdefault("correction_log", []).append({"field": "paraphrase", "old": para[:300], "new": t["paraphrase"],
+                                                   "reason": "restricted practice: step-level method removed (CLAUDE.md rule 11)",
+                                                   "by": "merge.redact_restricted", "date": "2026-09-29"})
+        n += 1
     return n
+
+
+STEP_LIKE = re.compile(r"\b(\d+ ?(times|breaths|days|months|minutes|hours|counts?|mātrās?|matras)|then (press|hold|draw|insert|swallow|cut)"
+                       r"|hold(ing)? the breath|retain(ing)? the breath|holds? by rule|press(es|ing)? the (perineum|chin|tongue|heel|yoni)"
+                       r"|insert(ed|ing)?|swallow(ing)? (a|the) (cloth|strip)|cut(ting)? the (frenum|tongue)|fast(s|ing)? for \d+"
+                       r"|contract(s|ing)? the \w+|press(es|ing)? the (anus|root)|fingers inserted|setting the chin"
+                       r"|binding (iḍā|ida)|uḍḍiyāna|uddiyana|filling (with|the) breath|the eyes are merely held)", re.I)
 
 
 def main():

@@ -8,4 +8,4 @@
 Punjabi Sthānakavāsī scholar (1882–1962), first ācārya of the united Śramaṇa Saṅgha (1952), translator and commentator of Āgamas.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

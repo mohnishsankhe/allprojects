@@ -16,4 +16,4 @@
 - contested: [śraddhā](sraddha.md) — Shinshū insists shinjin is not the practitioner's faith but the Buddha's mind given; general Buddhist śraddhā is a faculty of the practitioner
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

@@ -30,4 +30,4 @@ concepts: [The eighty-four postures taught by Śiva (HYP)](../concepts/eighty-fo
 _Notes: Dating and counts recalled; the Rāmānandī affiliation is low-confidence._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:16 IST._

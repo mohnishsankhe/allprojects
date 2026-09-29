@@ -14,4 +14,4 @@
 Disciple of Phagmodrupa, founder of the Drikung Kagyu at Drikung Thil (1179); teacher of the 'single intent' and the fivefold Mahāmudrā; sent large numbers of retreatants to Kailash, Lapchi and Tsari.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

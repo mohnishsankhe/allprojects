@@ -28,4 +28,4 @@ Bengali prince-turned-monk, scholar of Vikramaśīla, who received bodhicitta an
 _Notes: U40 and U44 also define tch:atisa; this is the Kadam contribution._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka, skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka, skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:16 IST._

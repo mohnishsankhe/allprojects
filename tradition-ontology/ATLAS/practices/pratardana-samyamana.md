@@ -16,4 +16,4 @@ Knowing that while speaking one offers breath into speech and while breathing of
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/kausitaki-upanisad-sharada — KauU 2.5 (Pratardana's inner Agnihotra of breath and speech) was found. This rests on confirmed teaching checks: tea:kausitaki-upanisad:2.5.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

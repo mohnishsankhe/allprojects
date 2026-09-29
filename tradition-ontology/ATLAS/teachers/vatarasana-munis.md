@@ -18,4 +18,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_10.json (Anukramaṇī seer/deity/metre headers) — Header: '1 jūtiḥ, 2 vātajūtiḥ, 3 viprajūtiḥ, 4 vṛṣāṇakaḥ, 5 karikrataḥ, 6 etaśaḥ, 7 ṛṣyaśṛṅgaḥ (ete vātaraśanā munayaḥ)' — list confirmed.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:16 IST._

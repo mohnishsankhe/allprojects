@@ -17,4 +17,4 @@ Devasena's short manual of the standpoints (naya), substance, qualities and mode
 _Notes: Title present in the local catalogue (catalog:JainDB:आलापपद्धति--देवसेनाचार्य); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

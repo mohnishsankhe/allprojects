@@ -15,4 +15,4 @@ Commentator on the Gautama Dharmasūtra.
 
 - 2026-09-28 catalog: confirmed — catalog:GRETIL-dev:gautama_dharmasutra_adhyayas_1-3_with_maskari-s_chomm — Low-confidence entry confirmed as the author of the extant Maskaribhāṣya on Gautama. The date is uncertain, as the entry says.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

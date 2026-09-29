@@ -15,4 +15,4 @@ _Notes: Whether he is the Uddālaka Āruṇi of ChU/BAU is not settled; KU 1.1.1
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/raw_etexts/vedaH/yajur/taittirIya/mUlam/kAThakam/2.md (TB 3.11; section 8.1 'uśan ha vai vājaśravasaḥ … naciketā') — Located: KU 1.1.1 ('uśan ha vai vājaśravasaḥ sarvavedasaṃ dadau'), 1.1.10 (Naciketas calls him 'gautama') and 1.1.11 (Yama calls him 'auddālakir āruṇiḥ'). The older TB 3.11.8 has the same opening and 'gautama-kumāram'. 'Viśvajit' is from Śaṅkara's gloss, not the text. The entry correctly leaves his identity with Uddālaka open.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:16 IST._

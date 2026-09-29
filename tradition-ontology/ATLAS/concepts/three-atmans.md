@@ -15,4 +15,4 @@
 - corresponds-to-in-map → [The fourteen stages of quality (guṇasthāna)](fourteen-gunasthanas.md): Commentators place the outer self in stages 1–3, the inner self in 4–12, the supreme self in 13–14 and the Siddha. — rests on [4](../texts/samadhitantra.md#tea-samadhitantra-4)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

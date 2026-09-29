@@ -19,4 +19,4 @@ A Mysore court encyclopaedia of deities and sacred lore whose illustrated sectio
 _Notes: Posture count and dependence on the Haṭhābhyāsapaddhati recalled (N. E. Sjoman; J. Birch)._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:16 IST._

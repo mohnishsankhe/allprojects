@@ -13,4 +13,4 @@ Each morning, facing west with joined palms, one recites the name continuously f
   - [Two Gates of Resolving Doubts and of Practice and Vow for Birth in the Pure Land](../texts/wangsheng-jingtu-jueyi-xingyuan-ermen.md) — ref: 147a17-22; rests_on: ["tea:wangsheng-jingtu-jueyi-xingyuan-ermen:147a17-22"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

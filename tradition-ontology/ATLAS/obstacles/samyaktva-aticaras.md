@@ -12,4 +12,4 @@ Doubt, desire, disgust, praise of wrong-believers and intimacy with them (TS 7.2
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 7.23; rests_on: ["tea:tattvartha-sutra:7.23"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

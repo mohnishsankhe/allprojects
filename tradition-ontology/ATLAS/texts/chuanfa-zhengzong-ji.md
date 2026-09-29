@@ -17,4 +17,4 @@ Qisong's defence (1061) of the 28-patriarch list against critics (notably Tianta
   - kind: original; name: CBETA XML P5, Taishō T51n2078 (T51n2078); local copy sources_raw/cbeta/T/T51/T51n2078.xml; licence: CBETA (CC BY-NC-SA 3.0 TW) — quotation with attribution
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

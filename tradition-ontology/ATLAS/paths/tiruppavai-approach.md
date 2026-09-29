@@ -22,4 +22,4 @@
 The reading of the verse-sequence as an order of approach (devotees → ācārya-like gatekeepers → Śrī as mediator → the Lord → service) is the Śrīvaiṣṇava commentators' as recalled; verse ranges and the gatekeeper = teacher reading low-to-moderate confidence. Bands are interpretation-layer claims and fit a devotional approach map only loosely.
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:16 IST._

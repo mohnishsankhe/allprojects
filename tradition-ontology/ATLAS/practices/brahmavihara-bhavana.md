@@ -32,4 +32,4 @@ _Notes: Contribution; the practice itself (pervading the directions) is in prc:m
 
 - method_summary: The entity stated "the fourth jhāna" for the fourth divine abiding as the text's plain sense; the edition prints "catukkajjhānikā" and the teaching 3.p111/2 keeps the fourth-jhāna reading in notes as the extractor's; aligned with that and labelled.
 
-_Contributed by: extraction:visuddhimagga/selections, skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections, skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

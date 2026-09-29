@@ -14,4 +14,4 @@
 Rāmarudra Bhaṭṭa's commentary on the Nyāyasiddhāntamuktāvalī (a gloss continuing the Dinakarī).
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 23:16 IST._

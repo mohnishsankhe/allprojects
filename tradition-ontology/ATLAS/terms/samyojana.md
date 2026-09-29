@@ -23,4 +23,4 @@
 
 - 2026-09-29 text: partially-confirmed — Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J.
 
-_Contributed by: extraction:satipatthana-sutta/all, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:satipatthana-sutta/all, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

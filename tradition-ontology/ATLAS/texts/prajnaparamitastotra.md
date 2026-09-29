@@ -17,4 +17,4 @@ A hymn to the Perfection of Wisdom as the mother of the Buddhas, stainless like 
   - kind: translation; name: Tibetan translation, Derge Tengyur D1127 (shes rab kyi pha rol tu phyin ma'i bstod pa) — catalog:Derge-Tengyur:D1127
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:16 IST._

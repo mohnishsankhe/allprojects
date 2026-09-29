@@ -22,4 +22,4 @@ _Notes: Linked in BhG ch. 1–3 at 1.4, 1.14, 1.15, 1.20, 1.21, 1.22, 1.23, 1.24
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:16.5, tea:bhagavad-gita:17.1, tea:bhagavad-gita:18.1, tea:bhagavad-gita:18.64, tea:bhagavad-gita:18.73 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — local:gita/gita BhG 2.7, 11.8, local:DharmicData MBh CE 14.16.1-11 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:16 IST._

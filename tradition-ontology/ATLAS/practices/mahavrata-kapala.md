@@ -13,4 +13,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
   - [Svacchandatantra (Svacchandabhairavatantra)](../texts/svacchanda-tantra.md) — ref: 11.184; rests_on: ["tea:svacchanda-tantra:11.182-185"]
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:16 IST._

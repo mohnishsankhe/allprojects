@@ -15,4 +15,4 @@
 **Related:** ['jog sgom](joggom.md), [vipaśyanā](vipasyana.md)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

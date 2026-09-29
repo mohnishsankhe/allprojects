@@ -13,4 +13,4 @@
 The 'Great Assembly' collection (Chinese T397, 60 fascicles), including the Akṣayamatinirdeśa, Ratnaketu, Gaganagañja and the Candragarbha with its prophecy of the decline of the dharma.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:16 IST._

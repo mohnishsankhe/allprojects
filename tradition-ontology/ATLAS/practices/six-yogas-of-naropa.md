@@ -19,4 +19,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - The heedless, craving and intoxicated fall to lower realms. — [Karṇatantravajrapada (the Vajra Verses of the Whispered Lineage)](../texts/karnatantravajrapada.md) 303b.5
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

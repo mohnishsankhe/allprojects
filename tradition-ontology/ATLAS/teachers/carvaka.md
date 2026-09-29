@@ -11,4 +11,4 @@ The legendary disciple of Bṛhaspati after whom the school is named; in the Pra
 _Notes: Distinct from tch:carvaka-raksasa of the Mahābhārata; the texts do not identify the two._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:16 IST._

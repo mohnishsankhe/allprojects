@@ -12,4 +12,4 @@ Obstacles to knowing one's own nature, to knowing the Lord's supremacy, to the m
   - [Arthapañcakam](../texts/arthapancaka-pillai-lokacarya.md) — ref: 1; rests_on: ["tea:arthapancaka-pillai-lokacarya:1"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:16 IST._

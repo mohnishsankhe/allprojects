@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [The five breaths](five-pranas.md) (medical (doṣa) standpoint): the Upaniṣadic five breaths, here as divisions of the vāta doṣa — rests on [su.12.4-18](../texts/astanga-hrdaya.md#tea-astanga-hrdaya-su-12-4-18)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U09-samkhya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U09-samkhya. Generated 2026-09-29 23:16 IST._

@@ -17,4 +17,4 @@ After calm is achieved: examining body, feeling, mind and dharmas first by their
 - partial: [The four establishments of mindfulness (satipaṭṭhāna)](satipatthana.md) — Same fourfold object; the Kośa adds the two-characteristic method and places it before the roots of penetration.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

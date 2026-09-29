@@ -15,4 +15,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - The bodhisatta experienced violent winds, pains and burning in the body; though his mind was not overpowered, he concluded that by this gruelling practice he did not attain superhuman knowledge and vision, and asked whether there might be another path to awakening. — [Mahāsaccaka Sutta](../texts/mahasaccaka-sutta.md) MN 36 (20–30)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

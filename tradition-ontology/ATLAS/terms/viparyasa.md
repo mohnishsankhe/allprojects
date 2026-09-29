@@ -28,4 +28,4 @@
 
 - 2026-09-29 text: confirmed — tea:mandukya-karika:4.27, tea:mandukya-karika:4.41, tea:mandukya-karika:4.46 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all, skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka, skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all, skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka, skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

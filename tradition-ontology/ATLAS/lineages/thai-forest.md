@@ -48,4 +48,4 @@ _none recorded_
 [Must jhāna precede insight, or can insight proceed on momentary concentration (dry insight)?](../debates/dry-insight-or-jhana-first.md), [What is the 'luminous mind' — the life-continuum, or the knowing heart known in meditation?](../debates/luminous-citta-reading.md)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:16 IST._

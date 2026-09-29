@@ -23,4 +23,4 @@
 
 - definitions: "bhāvanīyo" in the verse (Vism III p. 98) means esteemed / worthy of regard, not "able to be developed"; same correction as tea:visuddhimagga:3.p98/2.
 
-_Contributed by: extraction:visuddhimagga/selections, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:16 IST._

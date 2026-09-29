@@ -27,4 +27,4 @@ The objector's tale of the impotent husband: knowledge that exists does not brin
 
 - sides: YBh 2.24: the unnamed objector mocks the teaching; the ācāryadeśīya answers him from within the school ('kimartham asthāna evāsya mativibhramaḥ')
 
-_Contributed by: extraction:yoga-sutra/p1-2. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:yoga-sutra/p1-2. Generated 2026-09-29 23:16 IST._

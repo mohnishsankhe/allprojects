@@ -18,4 +18,4 @@ Sloth, illness, heedlessness, doubt about the ground, unsteadiness of mind, fait
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:linga-purana:1.9.1-13, tea:siva-purana:7.2.38.1-8 — LiP 1.9.1-2, 1.9.13 ('atyantotsāhayuktasya') and ŚiP 7.2.38.1-2 located. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:16 IST._

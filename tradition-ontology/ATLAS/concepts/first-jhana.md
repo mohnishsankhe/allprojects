@@ -19,4 +19,4 @@
 
 - 2026-09-29 text: confirmed — tea:visuddhimagga:4.p139, tea:visuddhimagga:4.p139/2, tea:visuddhimagga:4.p142, tea:visuddhimagga:4.p143/3, tea:visuddhimagga:4.p145, tea:visuddhimagga:4.p146, tea:visuddhimagga:4.p146/2, tea:visuddhimagga:4.p147, tea:visuddhimagga:4.p147/2 — Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan).
 
-_Contributed by: extraction:visuddhimagga/selections, skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections, skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

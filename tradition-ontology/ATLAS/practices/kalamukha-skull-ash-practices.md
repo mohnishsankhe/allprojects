@@ -15,4 +15,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - Yāmuna declares these acts forbidden by every scripture. — [Āgamaprāmāṇya](../texts/agamapramanya.md) Māheśvara section
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:16 IST._

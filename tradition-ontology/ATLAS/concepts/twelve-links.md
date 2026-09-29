@@ -14,4 +14,4 @@
 - part-of → [Dependent origination](dependent-origination.md) — rests on [2-22](../texts/mahanidana-sutta.md#tea-mahanidana-sutta-2-22), [19-65](../texts/sammaditthi-sutta.md#tea-sammaditthi-sutta-19-65)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

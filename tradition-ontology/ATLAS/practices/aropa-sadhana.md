@@ -12,4 +12,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
   - [Amṛtaratnāvalī](../texts/amrtaratnavali.md) — ref: on rūpa and svarūpa; rests_on: ["tea:amrtaratnavali:rupa-and-svarupa"]
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

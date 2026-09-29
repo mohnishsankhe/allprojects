@@ -18,4 +18,4 @@
 
 - 2026-09-29 text: corrected — tea:tattvartha-sutra:6.1, tea:tattvartha-sutra:6.10, tea:tattvartha-sutra:6.2, tea:tattvartha-sutra:6.27, tea:tattvartha-sutra:6.3, tea:tattvartha-sutra:6.4, tea:tattvartha-sutra:6.5 — Corrected by J: Definition: "lasting/transient" replaced by sāmparāyika/īryāpatha, glosses labelled as the commentators'.
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

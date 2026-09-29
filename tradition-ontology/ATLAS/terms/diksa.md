@@ -31,4 +31,4 @@
 _Notes: The vacana and manual tradition speak of three modes (by touch, by mantra, by rite: vedhā, mantra, kriyā) — moderate confidence._
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U23-sakta-srividya, skeleton:U17-pasupata-kapalika, skeleton:U24-kali-kaula, skeleton:U31-sound-arts, skeleton:U15-dvaita, skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism, skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U23-sakta-srividya, skeleton:U17-pasupata-kapalika, skeleton:U24-kali-kaula, skeleton:U31-sound-arts, skeleton:U15-dvaita, skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism, skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

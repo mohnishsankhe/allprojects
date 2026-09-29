@@ -11,4 +11,4 @@ The soul's delimitation by real adjuncts (body, senses, intellect) due to beginn
   - [Brahmasūtrabhāṣya of Bhāskara (Bhāskarabhāṣya)](../texts/brahma-sutra-bhasya-bhaskara.md) — ref: 2.3.43; rests_on: ["tea:brahma-sutra-bhasya-bhaskara:2.3.43"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

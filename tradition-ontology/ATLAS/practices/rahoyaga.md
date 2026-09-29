@@ -15,4 +15,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - The Kaula worship is to be done in secret; making it public leads to hell. — [Paraśurāma Kalpasūtra](../texts/parasurama-kalpasutra.md) 1.12
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:16 IST._

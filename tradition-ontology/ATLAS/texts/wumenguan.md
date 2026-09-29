@@ -245,4 +245,4 @@ obstacles: [Dead sitting / 'cold ash and dead wood'](../obstacles/dead-sitting.m
 _Notes: Brought to Japan by Shinchi Kakushin (1254)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

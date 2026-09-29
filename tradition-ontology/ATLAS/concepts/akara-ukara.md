@@ -13,4 +13,4 @@
 - part-of → [Oṃ, the designator of Īśvara](pranava.md): a and u are the first two elements of Om
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:16 IST._

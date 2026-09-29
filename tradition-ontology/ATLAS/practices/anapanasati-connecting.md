@@ -25,4 +25,4 @@ _Notes: The warning quoted is the text's own (from the Paṭisambhidāmagga): fo
 
 - 2026-09-29 text: confirmed — tea:visuddhimagga:8.p280, tea:visuddhimagga:8.p280/2, tea:visuddhimagga:8.p281, tea:visuddhimagga:8.p281/2 — Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan). Warnings checked by code: verbatim Pali of the cited pages.
 
-_Contributed by: extraction:visuddhimagga/selections. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections. Generated 2026-09-29 23:16 IST._

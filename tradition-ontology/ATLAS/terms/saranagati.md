@@ -28,4 +28,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:18.56, tea:bhagavad-gita:18.62, tea:bhagavad-gita:18.66 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U08-agama-catalogue, skeleton:U14-visistadvaita, extraction:bhagavad-gita/ch16-18, skeleton:U25-alvar-bhakti-theory, skeleton:U07-puranas, skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U08-agama-catalogue, skeleton:U14-visistadvaita, extraction:bhagavad-gita/ch16-18, skeleton:U25-alvar-bhakti-theory, skeleton:U07-puranas, skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

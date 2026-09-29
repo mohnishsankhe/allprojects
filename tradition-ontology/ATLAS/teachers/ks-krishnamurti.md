@@ -9,4 +9,4 @@
 Founder of the Krishnamurti Paddhati (KP), which subdivides each nakṣatra by the proportions of the Viṃśottarī periods into 'sub-lords'.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:16 IST._

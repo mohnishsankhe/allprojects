@@ -11,4 +11,4 @@
 Early Kadam meditator, disciple of Atiśa and Dromtönpa, to whom the lamrim line of the Kadam is traced.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

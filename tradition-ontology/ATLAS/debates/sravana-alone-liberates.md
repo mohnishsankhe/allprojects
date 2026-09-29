@@ -27,4 +27,4 @@ Grounded in Sureśvara's principle that any method leading to knowledge of the i
 **The traditions' own objections:** The two lines disagree on which means is principal and on whether words can yield immediacy; neither concedes that this is merely a matter of method.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

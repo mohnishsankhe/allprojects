@@ -13,4 +13,4 @@
 - opposes → [The six (later seven) categories of Vaiśeṣika](seven-padarthas-vaisesika.md): denies the reality of the universal (sāmānya) category; see dsp:reality-of-universals
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:16 IST._

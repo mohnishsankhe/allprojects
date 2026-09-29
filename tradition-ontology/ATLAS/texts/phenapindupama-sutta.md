@@ -41,4 +41,4 @@ concepts: [The five aggregates](../concepts/five-aggregates.md)
 _Notes: SuttaCentral uid sn22.95; Mahāsaṅgīti title 'Pheṇapiṇḍūpamasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

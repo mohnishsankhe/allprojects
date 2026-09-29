@@ -12,4 +12,4 @@ Reading books till death without becoming wise; speaking of what is written on p
   - [The oral and popular corpus of Kabīr (sākhīs, dohās, padas and bhajans)](../texts/kabir-oral-corpus.md) — ref: 'pothī paṛhi paṛhi jag muā'; rests_on: ["tea:kabir-oral-corpus:pothi-parhi-parhi-jag-mua", "tea:kabir-oral-corpus:main-kahta-ankhin-dekhi"]
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

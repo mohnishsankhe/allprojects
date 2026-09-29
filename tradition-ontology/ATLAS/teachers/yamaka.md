@@ -8,4 +8,4 @@
 A monk freed by Sāriputta from the view that the arahant is annihilated at death (SN 22.85).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

@@ -17,4 +17,4 @@
 _Notes: Skeleton summary common to the Vinayas; the ten-year and five-year figures are from memory (moderate confidence); exact locations not given._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

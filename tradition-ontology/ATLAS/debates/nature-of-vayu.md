@@ -31,4 +31,4 @@ Marīci: fire within pitta does good and ill; Kāpya: soma within kapha does goo
 **Explanation:** The text's own verdict: each account is right from its side; the error is only exclusiveness.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

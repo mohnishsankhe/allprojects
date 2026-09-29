@@ -38,4 +38,4 @@ concepts: [Kinds of initiation](../concepts/kinds-of-diksa.md) · teachers: [Agh
 _Notes: Existence and author as in the Muktabodha catalogue (sources_raw/raw_etexts/mixed/mukta/muktabodha_metadata.json (Muktabodha catalogue descriptions))._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:16 IST._

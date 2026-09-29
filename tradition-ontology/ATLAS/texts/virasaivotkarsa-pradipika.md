@@ -14,4 +14,4 @@ A Sanskrit tract on the pre-eminence of Vīraśaiva dharma, printed as the work 
   - kind: original; name: Muktabodha digital library e-text M00612 (print 1936, Vīraśaiva-liṅgi-brāhmaṇa-dharma-granthamālā)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:16 IST._

@@ -15,4 +15,4 @@ The Śrauta manual of the Mānava branch of the Maitrāyaṇīya Black Yajurveda
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Mānavaśrautasūtra, catalog:eBharati:mAnavashrautasUtram, https://en.wikipedia.org/wiki/%C5%9Arauta — Low-confidence entry confirmed as extant; the Maitrāyaṇīya (Mānava) Śrautasūtra.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

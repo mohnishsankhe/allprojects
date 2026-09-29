@@ -12,4 +12,4 @@ Repeating the Migtsema praise of Tsongkhapa as a mantra, often within the Hundre
   - [The Hundred Deities of Tuṣita (dga' ldan lha brgya ma)](../texts/ganden-lhagyama.md) — rests_on: ["tea:ganden-lhagyama:1"]
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

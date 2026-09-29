@@ -22,4 +22,4 @@ Founder of the Buddhist pramāṇa school, pupil of Vasubandhu by tradition: the
 **Realization — the tradition's account (Bu ston; Tāranātha):** Tibetan histories tell that he defeated the tīrthika Sudurjaya at Nālandā, and that while he was composing the Pramāṇasamuccaya in a cave, an opponent twice erased the opening verse he had written on the rock; when he considered abandoning the work for his own liberation, Mañjuśrī appeared and told him to compose it, promising to be his spiritual friend until awakening.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:16 IST._

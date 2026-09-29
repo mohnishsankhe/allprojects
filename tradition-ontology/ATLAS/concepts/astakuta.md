@@ -15,4 +15,4 @@
 _Notes: The point values follow the rule 'each carries more than the one before' (MC 6.21); the numbers 1–8 are the standard reading._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:16 IST._

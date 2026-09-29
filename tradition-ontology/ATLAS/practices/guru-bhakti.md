@@ -27,4 +27,4 @@ Hold the highest devotion to God and to one's teacher as to God (ŚU 6.23); hono
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/prasna-upanisad/segments.jsonl (Advaita-Śāradā mūla Prashna.md), text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md), text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā mūla Taitiriya.md, vallī.anuvāka.verse) — All 3 Upaniṣad refs cited in the entry are located in the prepared segments (ŚU 6.23; TU 1.11.2; PrU 6.8). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U24-kali-kaula, skeleton:U27-sant-baul, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U24-kali-kaula, skeleton:U27-sant-baul, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:16 IST._

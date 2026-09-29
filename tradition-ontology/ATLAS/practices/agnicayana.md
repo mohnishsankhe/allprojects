@@ -21,4 +21,4 @@ The year-long construction of a great brick altar in five layers, typically in t
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14) — ŚB 6–10 is the Agnicayana section; 10.1.1.2–3, 10.4.3.1–10 and 10.5.3.1–12 were read. This rests on confirmed teaching checks: tea:satapatha-brahmana:10.1.1.2-3, tea:satapatha-brahmana:10.4.3.1-10, tea:satapatha-brahmana:10.5.3.1-12.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:16 IST._

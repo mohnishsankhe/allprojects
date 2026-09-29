@@ -14,4 +14,4 @@
 Tendai scholar of Yokawa whose Ōjōyōshū (985) gathered scripture on loathing this defiled world and seeking the Pure Land, on contemplative and oral nenbutsu and on deathbed practice; he organised the Nijūgo zanmai-e, a society of twenty-five monks who vowed to help one another die in right mindfulness. Sixth of the seven Shinshū masters.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

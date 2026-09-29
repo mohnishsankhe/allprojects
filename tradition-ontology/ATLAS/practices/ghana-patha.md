@@ -11,4 +11,4 @@ The most elaborate commonly practised recitation (ab ba abc cba abc, bc cb bcd d
   - [Vikṛtivallī](../texts/vikrtivalli.md) — ref: (definitions)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:16 IST._

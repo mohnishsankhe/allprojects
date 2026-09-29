@@ -10,4 +10,4 @@
 Tenth ācārya of the Terāpanth (1920–2010), editor of the Āgamas, author on anekānta and non-violence, and creator of prekṣā-dhyāna meditation.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

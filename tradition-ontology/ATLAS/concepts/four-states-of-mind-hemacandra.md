@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The levels of the mind (citta-bhūmi)](citta-bhumis.md): Analogous graded states of mind to Vyāsa's five bhūmis (kṣipta … niruddha); the word vikṣipta is shared. — rests on [12.2-4](../texts/yogasastra-hemacandra.md#tea-yogasastra-hemacandra-12-2-4), [1.1](../texts/yoga-bhasya.md#tea-yoga-bhasya-1-1)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

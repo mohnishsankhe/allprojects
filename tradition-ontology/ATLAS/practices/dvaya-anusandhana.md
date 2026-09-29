@@ -12,4 +12,4 @@ Reciting the dvaya with its meaning — refuge at the feet of Nārāyaṇa with 
   - [Mumukṣuppaṭi](../texts/mumuksuppadi.md) — ref: 2; rests_on: ["tea:mumuksuppadi:2"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:16 IST._

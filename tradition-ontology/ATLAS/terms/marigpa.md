@@ -19,4 +19,4 @@
 **Related:** [rig pa](rigpa.md), [gzhi snang](zhinang.md), [dug gsum](duk-sum.md), [bdag 'dzin](dakdzin.md)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

@@ -9,4 +9,4 @@
 The bodhisattva whose teaching on the inexhaustible qualities gives the Akṣayamatinirdeśa its name; in Lotus ch. 25 he asks about Avalokiteśvara.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:16 IST._

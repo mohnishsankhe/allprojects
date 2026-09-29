@@ -11,4 +11,4 @@
 Kavikarṇapūra's identification of Caitanya's associates with figures of Kṛṣṇa's play (1576 CE), with the guru-paramparā from Madhva.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

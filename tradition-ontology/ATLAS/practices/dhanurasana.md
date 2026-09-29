@@ -20,4 +20,4 @@ _Notes: The two texts describe different forms under one name._
 
 - 2026-09-29 text: confirmed — tea:hatha-yoga-pradipika:1.25 — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids). Restricted entry: method_summary checked summary-only (no steps, counts, durations, measures); warnings[] checked verbatim against the segments.
 
-_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U29-hatha-practices. Generated 2026-09-29 23:16 IST._

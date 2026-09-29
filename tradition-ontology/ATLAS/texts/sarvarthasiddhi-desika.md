@@ -14,4 +14,4 @@
 Deśika's own prose commentary on his Tattvamuktākalāpa (distinct from Pūjyapāda's Jain Sarvārthasiddhi).
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:16 IST._

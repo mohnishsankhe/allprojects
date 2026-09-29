@@ -19,4 +19,4 @@ Anger, to be abandoned (Dhp 221), restrained like a swerving chariot (222) and c
 
 - description: 407 names dosa, not kodha, and 400 does not say 'sage'.
 
-_Contributed by: extraction:dhammapada/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:dhammapada/all. Generated 2026-09-29 23:16 IST._

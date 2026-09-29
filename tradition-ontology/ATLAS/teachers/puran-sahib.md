@@ -11,4 +11,4 @@
 Kabīr Panth teacher of Burhanpur, author of the Bījak commentary Trijyā that founded the 'pārakh' (discernment) reading of the Bījak.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

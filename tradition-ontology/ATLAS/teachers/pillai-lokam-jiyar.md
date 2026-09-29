@@ -10,4 +10,4 @@
 Teṅkalai author of the Yatīndrapravaṇa Prabhāvam, the life of Maṇavāḷa Māmuni, and of commentaries on the rahasya works.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:16 IST._

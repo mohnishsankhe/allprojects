@@ -28,4 +28,4 @@ _Notes: Distinct from laya-yoga of the haṭha texts._
 
 - 2026-09-29 text: confirmed — tea:mandukya-karika:1.21, tea:mandukya-karika:3.35, tea:mandukya-karika:3.42, tea:mandukya-karika:3.44, tea:mandukya-karika:3.46 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all, skeleton:U28-hatha-texts, skeleton:U06-other-gitas, skeleton:U09-samkhya, skeleton:U21-natha-aghora, skeleton:U13-advaita, skeleton:U04-minor-upanisads, skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all, skeleton:U28-hatha-texts, skeleton:U06-other-gitas, skeleton:U09-samkhya, skeleton:U21-natha-aghora, skeleton:U13-advaita, skeleton:U04-minor-upanisads, skeleton:U31-sound-arts. Generated 2026-09-29 23:16 IST._

@@ -18,4 +18,4 @@ Fayan Chan master of Hangzhou whose Wanshan tonggui ji defends recitation and al
 _Notes: Shared with U42 (Chan)._
 
 ---
-_Contributed by: skeleton:U43-pure-land, skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land, skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

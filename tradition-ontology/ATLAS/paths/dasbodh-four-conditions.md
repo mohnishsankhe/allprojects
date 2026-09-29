@@ -16,4 +16,4 @@
 The sādhaka stage spans bands B2–B6 in practice; siddha's continued action also touches B8.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:16 IST._

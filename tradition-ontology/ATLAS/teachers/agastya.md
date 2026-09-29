@@ -31,4 +31,4 @@ _Notes: Contribution of U20 to a shared registry entity (Agastya is owned elsewh
 - 2026-09-29 text-locate: confirmed — local:raw_etexts goraxapuram (Gita Press) 6.105.1-4, local:DharmicData Rāmāyaṇa (vulgate) 6.107.1-4 — Located as described.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_brahmANDapurANa.txt (Venkateshwara ed.) 3.5, local:sources_raw/raw_etexts/purANam/skanda-purANam/4_kAshI-khaNDaH/006.md, local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 8.4.10 — Lalitopākhyāna frame (Brahmāṇḍa 3.5), Kāśī Khaṇḍa 4.1.6.28-45, BhP 8.4.10 (the curse on Indradyumna) located.
 
-_Contributed by: skeleton:U20-virasaiva, skeleton:U23-sakta-srividya, skeleton:U22-tamil-siddha, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U23-sakta-srividya, skeleton:U22-tamil-siddha, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U32-jyotisa. Generated 2026-09-29 23:16 IST._

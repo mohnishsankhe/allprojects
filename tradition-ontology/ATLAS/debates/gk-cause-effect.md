@@ -23,4 +23,4 @@ _Notes: The opponent is not named in the text; only the arguments against the po
 
 - 2026-09-29 text: confirmed — tea:mandukya-karika:4.11, tea:mandukya-karika:4.16, tea:mandukya-karika:4.18, tea:mandukya-karika:4.19, tea:mandukya-karika:4.20, tea:mandukya-karika:4.22, tea:mandukya-karika:4.12, tea:mandukya-karika:4.13 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

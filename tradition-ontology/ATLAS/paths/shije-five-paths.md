@@ -18,4 +18,4 @@
 Defined because U48's teachings and practices reference this id. Only the frame (five paths, each with preliminaries, main practice and conclusion) is recalled; the contents of each path's instructions are not, and are left as gaps.
 
 ---
-_Contributed by: skeleton:U51-path-maps, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U51-path-maps, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

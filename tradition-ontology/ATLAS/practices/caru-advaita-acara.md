@@ -16,4 +16,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - To be given only to a devoted disciple tested (even for a year); kept secret from the deceitful, cruel and undevoted. — [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md) 5.34-35; 14.4-11
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:16 IST._

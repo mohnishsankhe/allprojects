@@ -38,4 +38,4 @@ terms: [cetana](../terms/cetana.md) · concepts: [The ultimate and conventional 
 _Notes: Chapter structure follows the Samayasāra's adhikāras plus Banārsīdās's additions (details low confidence). Title present in the local catalogue (catalog:JainDB:समयसार-नाटक); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

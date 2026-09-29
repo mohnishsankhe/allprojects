@@ -30,4 +30,4 @@ _none recorded_
 [Do past and future dharmas exist?](../debates/existence-in-three-times.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

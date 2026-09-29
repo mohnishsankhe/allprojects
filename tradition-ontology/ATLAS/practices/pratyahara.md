@@ -42,4 +42,4 @@ The senses' seeming imitation of the mind's own form when not in contact with th
 
 - (text): YBh 2.54 'madhukararājam' is the king of the bees; 'queen' was a modern substitution
 
-_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 23:16 IST._

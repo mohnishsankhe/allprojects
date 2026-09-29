@@ -17,4 +17,4 @@ The Pāñcarātrin's day is divided into approach (abhigamana: purification and 
 _Notes: The five also appear, as the Bhāgavatas' practice, in Śaṅkara's report._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U14-visistadvaita. Generated 2026-09-29 23:16 IST._

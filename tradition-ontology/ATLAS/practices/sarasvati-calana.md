@@ -16,4 +16,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 _Notes: The unit could not verify the procedure's details and deliberately gives none; the Mallinson 'original' Gorakṣaśataka is not available locally._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U21-natha-aghora. Generated 2026-09-29 23:16 IST._

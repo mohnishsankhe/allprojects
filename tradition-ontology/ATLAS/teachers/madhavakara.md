@@ -11,4 +11,4 @@
 Author of the Rugviniścaya (Mādhava Nidāna), the classic of diagnosis, compiled from the words of many sages.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

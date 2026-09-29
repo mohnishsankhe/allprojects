@@ -16,4 +16,4 @@ Dharmottara's proof of momentariness.
 _Notes: Tengyur attribution to Dharmottara recalled; title checked in the local Derge list._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:16 IST._

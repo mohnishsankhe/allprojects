@@ -15,4 +15,4 @@ A Sāṃkhya treatise by Kṛṣṇa Mitra following the order of the Kārikā, 
   - kind: original; name: V. P. Dvivedin (ed.), Sāṃkhyasaṅgrahaḥ, Chowkhamba Sanskrit Series 50, Varanasi 1920; GRETIL e-text; licence: GRETIL (reference/scholarly use only)
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 23:16 IST._

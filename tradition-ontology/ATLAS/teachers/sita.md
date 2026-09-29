@@ -16,4 +16,4 @@ Daughter of Janaka of Mithilā and Rāma's wife; the Rāmāyaṇa's exemplar of 
 - 2026-09-29 text-locate: confirmed — local:DharmicData Rāmāyaṇa (vulgate) 2.117.8-27, 2.118.1 — Located as described.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — AR 1.1.32-43 ('rāmaṃ viddhi paraṃ brahma ...').
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 23:16 IST._

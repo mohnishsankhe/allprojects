@@ -9,4 +9,4 @@
 The sorcerer (a Nyingma mantrin) from whom, in the Life of Milarepa, the young Milarepa learned the destructive magic he used against his relatives.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

@@ -23,4 +23,4 @@ _Notes: Sense-specific id for the Vijñānabhairava; the bare-word ids in data/ 
 
 - definitions[0].definition: aligned with the judge's correction of v.9 ('māyāsvapnopamaṃ' = like illusion and a dream)
 
-_Contributed by: extraction:vijnana-bhairava-tantra/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:vijnana-bhairava-tantra/all. Generated 2026-09-29 23:16 IST._

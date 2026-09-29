@@ -33,4 +33,4 @@ Thinking of Amitābha and calling 'namo Amitābha Buddha' — ten times even at 
 _Notes: U43 adds the lineage-specific forms; the three Pure Land sūtras' basis is from U39._
 
 ---
-_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:16 IST._

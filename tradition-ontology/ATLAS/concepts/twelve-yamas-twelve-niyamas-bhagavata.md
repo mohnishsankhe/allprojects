@@ -18,4 +18,4 @@
 
 - 2026-09-29 text-locate: confirmed — https://vedabase.io/en/library/sb/11/19/33-35/, local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/ — BhP 11.19.33-35 verified. The niyama verse names 11 items; a count of twelve comes from taking śauca as outer and inner, as the BBT (vedabase) rendering of 11.19.33-35 does. Śrīdhara's own gloss was not retrieved.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:16 IST._

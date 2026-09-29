@@ -45,4 +45,4 @@ concepts: [The ten signs of the Kālacakra](../concepts/ten-signs-kalacakra.md) 
 _Notes: Restricted content (advanced energy practice incl. practice in darkness): summary only._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

@@ -13,4 +13,4 @@
 - contrasts-with → [Word-brahman (śabdabrahman)](sabda-brahman.md): the Word-brahman is refuted in the Tattvasaṅgraha — rests on [sabdabrahmapariksa](../texts/tattvasangraha.md#tea-tattvasangraha-sabdabrahmapariksa)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:16 IST._

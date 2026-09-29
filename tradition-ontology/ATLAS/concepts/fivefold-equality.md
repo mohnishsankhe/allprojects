@@ -15,4 +15,4 @@
 - corresponds-to-in-map → [The union of Śiva and Śakti (śiva-śakti-aikya, sāmarasya)](siva-sakti-union.md) — rests on [14](../texts/tripura-upanisad.md#tea-tripura-upanisad-14)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:16 IST._

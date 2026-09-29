@@ -15,4 +15,4 @@
 **Related:** [āyurveda](ayurveda.md), [jīva](jiva.md)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

@@ -18,4 +18,4 @@
 - same-as-under-standpoint → [The Siddhānta's 'advaita' of inseparability](siddhanta-advaita.md) (Tāyumāṉavar): Siddhānta's own 'advaita of inseparability' is one pole of the harmony
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:16 IST._

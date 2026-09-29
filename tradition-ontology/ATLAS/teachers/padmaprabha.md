@@ -13,4 +13,4 @@ The sixth Tīrthaṅkara of the present descending half-cycle (avasarpiṇī). E
 _Notes: Parents, birthplaces and emblems follow the common Śvetāmbara lists (e.g. Hemacandra); Digambara lists agree in most points and differ in some emblems and names._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

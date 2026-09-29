@@ -15,4 +15,4 @@
 _Notes: U14's contribution to U08's entry; Rāmānuja received it from Periya Nambi at Madhurāntakam._
 
 ---
-_Contributed by: skeleton:U14-visistadvaita, skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U14-visistadvaita, skeleton:U08-agama-catalogue. Generated 2026-09-29 23:16 IST._

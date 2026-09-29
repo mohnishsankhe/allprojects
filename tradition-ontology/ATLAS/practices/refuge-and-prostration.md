@@ -16,4 +16,4 @@ Visualizing the refuge tree (Padmasambhava and the lineage, yidams, buddhas, dha
 - Refuge carries precepts (not taking refuge in worldly gods, not harming beings, respecting images and texts); breaking them weakens the refuge. — [Kunzang Lamai Shelung (kun bzang bla ma'i zhal lung, the Words of My Perfect Teacher)](../texts/kunzang-lamai-shelung.md) 2.1
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:16 IST._

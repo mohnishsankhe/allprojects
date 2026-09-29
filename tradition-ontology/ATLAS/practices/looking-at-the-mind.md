@@ -18,4 +18,4 @@ In stillness and in movement the meditator looks for the mind: its colour, shape
 - analogous: [Understanding the great saying](mahavakya-vicara.md) (inquiry as method only) — both are direct inquiries into the knower; the Advaita inquiry seeks the Self, the Kagyu looking finds no self and recognizes emptiness-clarity — the traditions insist on this difference
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

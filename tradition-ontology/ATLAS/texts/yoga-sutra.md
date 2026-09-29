@@ -2213,4 +2213,4 @@ teachers: [Patañjali](../teachers/patanjali.md)
 _Notes: Correction to the task list: the vulgate count is 195 (51/55/55/34), not 196; see structure._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 23:16 IST._

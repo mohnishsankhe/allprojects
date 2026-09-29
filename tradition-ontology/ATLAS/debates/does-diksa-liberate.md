@@ -36,4 +36,4 @@ Knowledge is the direct cause of liberation; initiation liberates by bringing ab
 _Notes: U18 contribution to U08's dispute._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-29 23:16 IST._

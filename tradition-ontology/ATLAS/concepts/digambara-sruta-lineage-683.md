@@ -13,4 +13,4 @@
 - part-of → [The loss of the canon (Digambara account)](loss-of-scripture-digambara.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

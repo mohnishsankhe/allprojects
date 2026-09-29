@@ -15,4 +15,4 @@ Bhagavad Gītā 4.25: others offer sacrifice by means of sacrifice itself into t
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.25 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 23:16 IST._

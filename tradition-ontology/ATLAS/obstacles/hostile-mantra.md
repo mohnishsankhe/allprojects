@@ -12,4 +12,4 @@ A mantra incompatible with the practitioner, detected by the preliminary checks;
   - [Tantrasāra (Bṛhattantrasāra) of Kṛṣṇānanda Āgamavāgīśa](../texts/tantrasara-krsnananda.md) — ref: 1.siddhadi-sodhana; rests_on: ["tea:tantrasara-krsnananda:1.siddhadi-sodhana"]
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:16 IST._

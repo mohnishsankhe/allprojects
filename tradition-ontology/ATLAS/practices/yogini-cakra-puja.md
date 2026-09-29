@@ -15,4 +15,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - One fallen from the pledge (samaya) is a paśu; dualistic attitude in the rite is condemned. — [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md) 11.3-4
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:16 IST._

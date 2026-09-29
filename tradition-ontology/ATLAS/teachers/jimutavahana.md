@@ -16,4 +16,4 @@ Bengali jurist, author of the Dāyabhāga.
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Jimutavahana — Confirmed: c. 1050–1150; the Kālaviveka was written soon after 1093 (Wikipedia). This is consistent with the entry's 1090–1200.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

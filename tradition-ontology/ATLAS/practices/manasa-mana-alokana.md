@@ -12,4 +12,4 @@ Placing the mind within Śakti and Śakti within the mind, the practitioner beho
   - [Candrāvalokana](../texts/candravalokana.md) — ref: p.3; rests_on: ["tea:candravalokana:p.3"]
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:16 IST._

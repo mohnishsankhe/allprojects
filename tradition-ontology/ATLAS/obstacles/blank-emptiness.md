@@ -13,4 +13,4 @@ Sitting with an empty mind, thinking of nothing, and taking this for the vastnes
   - [Dunhuang Platform Sūtra](../texts/platform-sutra-dunhuang.md) — ref: 24.1; rests_on: ["tea:platform-sutra-dunhuang:24.1"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

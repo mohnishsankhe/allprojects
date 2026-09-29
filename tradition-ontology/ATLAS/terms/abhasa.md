@@ -19,4 +19,4 @@
 _Notes: Contrasted by the tradition with Advaita's vivarta (see dsp:causation, dsp:world-real-or-appearance)._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U19-kashmir-saivism, skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U19-kashmir-saivism, skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

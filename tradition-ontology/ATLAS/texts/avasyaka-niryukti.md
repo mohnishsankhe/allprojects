@@ -37,4 +37,4 @@ terms: [gotra](../terms/gotra-karma.md) · obstacles: [The eight prides (mada)](
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:16 IST._

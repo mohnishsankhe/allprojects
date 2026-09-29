@@ -14,4 +14,4 @@ Stone images, temple rounds, holy baths, pilgrimage and recitation taken as ends
   - [Pattirakiriyār: Meyññāṉap pulampal (lament for true knowledge)](../texts/bhadragiriyar-meynana-pulampal.md) — ref: 16; rests_on: ["tea:bhadragiriyar-meynana-pulampal:16"]
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:16 IST._

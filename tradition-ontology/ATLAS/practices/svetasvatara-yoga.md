@@ -21,4 +21,4 @@ Hold the body steady with chest, neck and head erect; draw the senses with the m
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — All 6 Upaniṣad refs cited in the entry are located in the prepared segments (ŚU 2; ŚU 2.1-7; ŚU 2.11-13; ŚU 2.10; ŚU 2.9; ŚU 2.8-15). It rests on 7 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:16 IST._

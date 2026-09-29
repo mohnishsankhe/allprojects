@@ -20,4 +20,4 @@
 
 - definitions[].definition: 'imagines' imposed one reading of 'seyyathāpi passeyya' (as if he were to see); the text does not decide between seeing and imagining
 
-_Contributed by: extraction:satipatthana-sutta/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:satipatthana-sutta/all. Generated 2026-09-29 23:16 IST._

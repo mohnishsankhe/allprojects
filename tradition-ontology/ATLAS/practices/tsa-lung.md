@@ -13,4 +13,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - Forcing the breath or visualization causes wind disorders (srog rlung): practise only as taught and gently.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:16 IST._

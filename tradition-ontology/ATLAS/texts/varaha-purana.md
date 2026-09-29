@@ -21,4 +21,4 @@ Varāha's teaching to the Earth: vows (especially the dvādaśī vows), Viṣṇ
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:DCS:Varāhapurāṇa, local:sources_raw/raw_etexts/purANam/varAha-purANam/193.md, local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.39-40, https://en.wikipedia.org/wiki/Varaha_Purana, https://www.kamakoti.org/kamakoti/varaha/bookview.php?chapnum=45 — Extant and digitized: local chapter files (raw_etexts varAha-purANam, 219 chapters) and DCS. Naciketas narrative located locally (chs. 193-212); Mathurā-māhātmya confirmed by web (chs. 152ff.). Matsya 53.39-40 (Mahāvarāha's glory told to the Earth, Mānava-kalpa, 24,000) confirmed.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:16 IST._

@@ -23,4 +23,4 @@
 Stage 1 (factors for stream-entry) is added as the entry named in SN 55.5. The canonical eight persons are AN 8.59 (Pali root checked locally); DN 16 2.7 gives the defining formulas (checked locally). Lay followers attain all three lower fruits in DN 16.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:16 IST._

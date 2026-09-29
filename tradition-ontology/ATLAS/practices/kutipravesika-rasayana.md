@@ -20,4 +20,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 _Notes: Marked restricted because the full regimen involves prolonged seclusion, purgation and special diet, and some formulations include metals and gems (e.g. Ci 1.4.22)._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

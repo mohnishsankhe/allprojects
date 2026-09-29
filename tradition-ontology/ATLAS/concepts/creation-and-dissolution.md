@@ -20,4 +20,4 @@ _Notes: Kumārila's Tantravārttika (on MS 1.3.6) nevertheless speaks of fourtee
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.6, tea:bhagavad-gita:8.18, tea:bhagavad-gita:8.19, tea:bhagavad-gita:9.7, tea:bhagavad-gita:9.8, tea:bhagavad-gita:9.9, tea:bhagavad-gita:9.10, tea:bhagavad-gita:9.18 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U12-mimamsa, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U12-mimamsa, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 23:16 IST._

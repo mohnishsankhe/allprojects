@@ -19,4 +19,4 @@
 Stages of the Kula rite (restricted context). The text maps them onto waking, dream and deep sleep but gives no further content; bands left for U51.
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:16 IST._

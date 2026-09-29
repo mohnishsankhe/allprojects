@@ -409,4 +409,4 @@ concepts: [The awakening mind (bodhicitta) in the Madhyamaka manuals](../concept
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:16 IST._

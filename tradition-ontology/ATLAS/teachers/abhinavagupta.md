@@ -40,4 +40,4 @@ _Notes: Teacher ids tch:induraja and tch:bhatta-tauta (poetics, dramaturgy) belo
 
 - 2026-09-29 websearch: confirmed — https://www.academia.edu/82753123/Abhinavagupta_on_the_Kashmirian_G%C4%ABt%C4%81 — Confirmed.
 
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U05-gita-epic, skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U05-gita-epic, skeleton:U31-sound-arts. Generated 2026-09-29 23:16 IST._

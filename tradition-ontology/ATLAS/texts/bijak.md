@@ -110,4 +110,4 @@ concepts: [Neither Hindu nor Turk](../concepts/hindu-and-turk.md), [Critique of 
 _Notes: Section counts are from memory (moderate confidence); the sākhī count in particular varies by edition (353 in Shukdev Singh)._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

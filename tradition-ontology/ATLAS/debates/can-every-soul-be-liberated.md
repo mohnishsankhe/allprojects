@@ -36,4 +36,4 @@ All bound souls are capable of liberation through the Lord's grace, won by devot
 _Notes: An analogous Jain doctrine (souls 'incapable of liberation', abhavya) is noted as a term equivalence, not as a side. The Advaita and Viśiṣṭādvaita positions are summarized from general knowledge._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:16 IST._

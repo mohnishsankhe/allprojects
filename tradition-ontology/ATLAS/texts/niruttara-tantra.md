@@ -13,4 +13,4 @@ A Kālīkula tantra of the eastern corpus teaching Dakṣiṇakālī's worship a
 _Notes: Not in the local corpus; contents recalled only in outline._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:16 IST._

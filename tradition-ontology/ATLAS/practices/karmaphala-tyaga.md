@@ -36,4 +36,4 @@ _Notes: The commentators divide on how the ranking of 12.12 relates to 12.11's p
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.11, tea:bhagavad-gita:12.12 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.20, tea:bhagavad-gita:5.12, tea:bhagavad-gita:6.1 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch16-18, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch16-18, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 23:16 IST._

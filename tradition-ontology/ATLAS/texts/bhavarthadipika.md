@@ -34,4 +34,4 @@ concepts: [Devotion (bhakti) in Advaita](../concepts/bhakti-in-advaita.md) · te
 
 - 2026-09-29 websearch: confirmed — https://www.researchgate.net/publication/343846329_Why_Sridhara_Svami_The_Makings_of_a_Successful_Sanskrit_Commentary, https://www.wisdomlib.org/history/book/studies-in-indian-literary-history/d/doc1474985.html — Web: Śrīdhara Svāmin's Bhāvārthadīpikā composed between the mid-14th and mid-15th c.; the oldest surviving and most influential Bhāgavata commentary - matching the entry. No local e-text in the catalogue (digitized editions on archive.org).
 
-_Contributed by: skeleton:U07-puranas, skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

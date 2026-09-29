@@ -15,4 +15,4 @@ Desire, anger, greed, delusion, pride and envy; the SSM names desire, anger, gre
   - [Rāmcaritmānas](../texts/ramcaritmanas.md) — ref: 2.128-131; rests_on: ["tea:ramcaritmanas:2.128-131"]
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U26-regional-bhakti. Generated 2026-09-29 23:16 IST._

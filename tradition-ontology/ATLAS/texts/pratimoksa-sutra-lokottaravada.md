@@ -13,4 +13,4 @@ The Lokottaravāda monk's rules in Buddhist Hybrid Sanskrit.
   - kind: original; name: N. Tatia (Patna 1976), GRETIL e-text
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

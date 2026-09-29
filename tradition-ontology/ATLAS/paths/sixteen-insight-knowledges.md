@@ -30,4 +30,4 @@
 Correction to the unit brief: the count of sixteen is post-canonical — the Visuddhimagga distributes these knowledges over purifications 3-7 and the Abhidhammatthasaṅgaha counts ten insight knowledges (comprehension → conformity); the list of sixteen is the later manual count taught in Burma (e.g. by Mahāsi Sayadaw). The Paṭisambhidāmagga's list of seventy-three knowledges is a different scheme.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:16 IST._

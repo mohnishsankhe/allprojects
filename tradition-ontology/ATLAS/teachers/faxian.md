@@ -13,4 +13,4 @@
 Chinese pilgrim who went to India in search of the Vinaya, obtained the Mahāsāṃghika Vinaya at Pāṭaliputra and the Mahīśāsaka Vinaya and Āgama manuscripts in Sri Lanka, and translated the Mahāsāṃghika Vinaya with Buddhabhadra.
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:16 IST._

@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The three bodies (śarīra-traya)](three-bodies.md) (P2-standpoint): The trikāya read from the standpoint of the self-nature. — rests on [9.5](../texts/platform-sutra.md#tea-platform-sutra-9-5)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

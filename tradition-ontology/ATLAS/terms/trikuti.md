@@ -16,4 +16,4 @@
 **Related:** [iḍā](ida.md), [piṅgalā](pingala.md), [suṣumnā](susumna.md)
 
 ---
-_Contributed by: skeleton:U27-sant-baul, skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul, skeleton:U21-natha-aghora. Generated 2026-09-29 23:16 IST._

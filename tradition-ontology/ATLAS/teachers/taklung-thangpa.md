@@ -11,4 +11,4 @@
 Disciple of Phagmodrupa, founder of Taklung monastery (1180) and of the Taklung Kagyu.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

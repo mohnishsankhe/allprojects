@@ -11,4 +11,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
   - [The Vajra Lines of Niguma's Six Dharmas](../texts/vajra-lines-of-niguma.md) — ref: 1; rests_on: ["tea:vajra-lines-of-niguma:1"]
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

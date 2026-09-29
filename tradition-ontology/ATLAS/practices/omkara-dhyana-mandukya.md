@@ -18,4 +18,4 @@ Know Oṃ quarter by quarter, as the measures (1.24); yoke the mind to the pra�
 - 2026-09-29 text: confirmed — tea:mandukya-karika:1.24, tea:mandukya-karika:1.25, tea:mandukya-karika:1.28 — Sense-specific id confirmed: data prc:omkara-dhyana is the Mārkaṇḍeya Purāṇa (42) practice; a text-specific practice id is the project's pattern. Level not raised (entities are not promoted by the spot-check).
 - 2026-09-29 text: confirmed — tea:mandukya-upanisad:8, tea:mandukya-upanisad:9, tea:mandukya-upanisad:10, tea:mandukya-upanisad:11, tea:mandukya-upanisad:12 — Sense-specific id confirmed: data prc:omkara-dhyana is the Mārkaṇḍeya Purāṇa (42) practice; a text-specific practice id is the project's pattern. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all, extraction:mandukya-upanisad/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all, extraction:mandukya-upanisad/all. Generated 2026-09-29 23:16 IST._

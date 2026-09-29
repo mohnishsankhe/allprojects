@@ -15,4 +15,4 @@ Not having renounced violence and the other sins — the second cause of bondage
 - partial: [Non-abstention (avirati)](avirati.md) — YS 1.30 avirati is craving for sense objects.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

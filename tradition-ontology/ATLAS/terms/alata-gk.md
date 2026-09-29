@@ -17,4 +17,4 @@
 
 - 2026-09-29 text: confirmed — tea:mandukya-karika:4.47, tea:mandukya-karika:4.48, tea:mandukya-karika:4.49, tea:mandukya-karika:4.50 — Sense-specific id confirmed: data trm:alatacakra is Madhyamaka's image for saṃsāra; the Kārikā's alāta is a different image (consciousness in vibration). Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

@@ -19,4 +19,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 _Notes: Marked restricted because it touches on giving the body; only the texts' summary and warnings are recorded._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:16 IST._

@@ -59,4 +59,4 @@ terms: [sammuti](../terms/sammuti.md) · concepts: [Convention and the ultimate 
 _Notes: SuttaCentral uid dn9; Mahāsaṅgīti title 'Poṭṭhapādasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

@@ -15,4 +15,4 @@ _Notes: Disambiguated from Bharata Muni (tch:bharata-muni)._
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData Rāmāyaṇa (vulgate) 2.100.1, 2.105.16 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:16 IST._

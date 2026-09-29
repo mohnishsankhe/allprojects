@@ -21,4 +21,4 @@
 
 - 2026-09-29 text: confirmed — tea:mandukya-karika:1.1, tea:mandukya-karika:1.2, tea:mandukya-karika:1.3, tea:mandukya-karika:1.4, tea:mandukya-karika:1.11, tea:mandukya-karika:1.23 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all, skeleton:U15-dvaita, skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all, skeleton:U15-dvaita, skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

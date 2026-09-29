@@ -20,4 +20,4 @@
 
 - text: J fidelity check: 'residue' is a gloss of kaṣāya the extractor had already removed from 3.44; the text only says 'sakaṣāyaṃ vijānīyāt'.
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

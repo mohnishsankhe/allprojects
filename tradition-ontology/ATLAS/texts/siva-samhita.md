@@ -306,7 +306,7 @@ concepts: [The ten mudrās (HYP 3.6-9, 3.128)](../concepts/ten-mudras-hyp.md)
 ### 4.16-20 <a id="tea-siva-samhita-4-16-20"></a>
 `skeleton` · confidence moderate
 
-Mahāmudrā, by which Kapila and the siddhas of old attained success: pressing the perineum with the left heel as the guru teaches, holding the stretched right leg with both hands, restraining the nine doors and placing the chin on the chest, setting the mind on the path of mind — this secret mahāmudrā is done on the left then the right side; by it even the unfortunate yogin succeeds; it moves all the channels, 'kills' bindu, revives the impure and destroys sins; it is to be kept secret, a wish-fulfilling cow for practitioners.
+Mahāmudrā, by which Kapila and the siddhas of old attained success: a restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice_
 
@@ -315,7 +315,7 @@ practices: [Mahāmudrā (the great seal)](../practices/mahamudra.md) · teachers
 ### 4.21-22 <a id="tea-siva-samhita-4-21-22"></a>
 `skeleton` · confidence moderate
 
-Mahābandha: placing the stretched leg on the thigh, contracting the anus and yoni, making apāna go upward and joining it with samāna, turning prāṇa downward, one binds (them) for the upward movement; by practice the breath goes into the middle of the suṣumnā, the body is nourished, the skeleton firmly bound and the heart full; it is to be done with both legs.
+Mahābandha: a restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice_
 
@@ -369,7 +369,7 @@ practices: [Viparītakaraṇī (the inverting technique)](../practices/viparita-
 ### 4.48-52 <a id="tea-siva-samhita-4-48-52"></a>
 `skeleton` · confidence moderate
 
-Uḍḍiyāna: drawing the belly back above and below the navel — this lock removes all sorrow, the lion to the elephant of death; practised daily (at stated times) the navel is purified, the breath is mastered, the fire in the belly blazes and the vital fluid increases; in six months one conquers death; the body is perfected and diseases destroyed; it is to be learned from the guru and practised in a solitary place.
+A restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice_
 
@@ -499,4 +499,4 @@ concepts: [Who may practise haṭha: the text's statement](../concepts/eligibili
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:16 IST._

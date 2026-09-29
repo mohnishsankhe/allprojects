@@ -13,4 +13,4 @@ One of Yājñavalkya's two wives, described as a discusser of brahman (brahmavā
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — Located: BĀU 2.4.1-3 and 4.5.1 ('tayor ha maitreyī brahmavādinī babhūva').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:16 IST._

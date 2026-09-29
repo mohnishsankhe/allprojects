@@ -27,4 +27,4 @@ concepts: [The Siddhānta's 'advaita' of inseparability](../concepts/siddhanta-a
 
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:16 IST._

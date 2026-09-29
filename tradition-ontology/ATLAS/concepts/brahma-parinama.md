@@ -18,4 +18,4 @@
 - is-a → [Pre-existence of the effect (satkāryavāda)](satkaryavada.md): the effect is a real state of the existent cause — rests on [2.1.15](../texts/sribhasya.md#tea-sribhasya-2-1-15)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U14-visistadvaita. Generated 2026-09-29 23:16 IST._

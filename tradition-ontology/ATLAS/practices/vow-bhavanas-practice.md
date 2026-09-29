@@ -16,4 +16,4 @@ For non-violence: restraint of speech and mind, careful walking, careful handlin
 
 - 2026-09-29 text: confirmed — tea:tattvartha-sutra:7.3, tea:tattvartha-sutra:7.4, tea:tattvartha-sutra:7.5, tea:tattvartha-sutra:7.6, tea:tattvartha-sutra:7.7, tea:tattvartha-sutra:7.8 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions. Generated 2026-09-29 23:16 IST._

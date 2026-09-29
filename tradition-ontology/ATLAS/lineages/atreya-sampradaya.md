@@ -35,4 +35,4 @@ _none recorded_
 _Notes: 'Ātreya-sampradāya' is the later name for this line; the classical texts speak of Ātreya's disciples. Its separateness is now scholastic: all later Āyurveda draws on both schools._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

@@ -28,4 +28,4 @@ _Notes: The grouping 'ojas, tejas and prāṇa' as a doctrinal triad is not foun
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:15.12 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:16.3, tea:bhagavad-gita:18.43 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch16-18, skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch16-18, skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

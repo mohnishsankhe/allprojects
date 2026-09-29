@@ -16,4 +16,4 @@ A Jain author's treatise on music, including regional songs and instruments of h
 _Notes: Sectarian affiliation (Digambara) recalled with low confidence._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:16 IST._

@@ -19,4 +19,4 @@
 Group names and the six natures verified in CBETA T1485 (1012b25-26; 1014b29-c01; 1015c09). The sūtra counts forty-two stages of worthies and sages with the ten faiths as preliminary; 'fifty-two' is the common East Asian count including the faiths. Tiantai (perfect teaching) and Huayan place the first seeing earlier (at the first abode) than this sūtra's own scheme; the bands follow the sūtra's division into worthies (abodes, practices, dedications) and sages (grounds).
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:16 IST._

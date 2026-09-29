@@ -22,4 +22,4 @@
 - literal: 'drinker' is the commentarial derivation; the only verse resting here (205) says 'dhammapītirasaṁ pivaṁ', drinking the taste of joy in the Dhamma.
 - definitions.0.definition: As above; commentarial reading labelled.
 
-_Contributed by: extraction:dhammapada/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:dhammapada/all. Generated 2026-09-29 23:16 IST._

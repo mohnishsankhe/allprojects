@@ -12,4 +12,4 @@
 One of the 'three brothers' of the Kadam, Dromtönpa's disciple; taught the Kadam path through the six texts (the textual tradition) and through examples recorded in the Blue Compendium; teacher of Sharawa and Langri Tangpa.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

@@ -19,4 +19,4 @@ A short medical work attributed to Nāgārjuna preserved in Tibetan in the medic
 
 - 2026-09-29 catalog: confirmed — catalog:Derge-Tengyur:D4307 "dzI ba sU tra | sman 'tsho ba'i mdo" — catalogue hit proves a digitized edition exists, not author or date
 
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

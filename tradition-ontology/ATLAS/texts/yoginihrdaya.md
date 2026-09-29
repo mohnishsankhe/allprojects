@@ -168,4 +168,4 @@ concepts: [The three kinds of worship (parā, parāparā, aparā)](../concepts/t
 _Notes: Verse numbers from the Benares edition as transcribed by Muktabodha._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:16 IST._

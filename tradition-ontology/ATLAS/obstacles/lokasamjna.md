@@ -9,4 +9,4 @@
 Following what people do and approve instead of the truth; Yaśovijaya devotes an aṣṭaka of the Jñānasāra to renouncing it.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

@@ -16,4 +16,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U23-sakta-srividya. Generated 2026-09-29 23:16 IST._

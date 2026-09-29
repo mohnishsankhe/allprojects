@@ -23,4 +23,4 @@
 The nine vehicles are a doxographical hierarchy (each vehicle a complete path for its practitioners) rather than successive stages of one person's progress; interpretive bands are therefore not assigned.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:16 IST._

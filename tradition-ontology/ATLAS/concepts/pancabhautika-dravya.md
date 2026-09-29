@@ -13,4 +13,4 @@
 - part-of → [The five elements (mahābhūta)](five-elements.md) — rests on [su.26.10-12](../texts/caraka-samhita.md#tea-caraka-samhita-su-26-10-12)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

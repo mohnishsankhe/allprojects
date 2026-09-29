@@ -19,4 +19,4 @@ Tendai monk who after some thirty years of study found in Shandao the exclusive 
 **Realization — the tradition's account:** In 1175, reading in Shandao's commentary 'single-heartedly and exclusively recollecting the name of Amida ... this is called the rightly determined act, because it accords with the Buddha's vow', he abandoned other practices; Jōdo-shū holds that he attained nenbutsu samādhi (Sanmai hottokki) and regards him as a manifestation of Seishi.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

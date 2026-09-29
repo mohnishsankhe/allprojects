@@ -18,4 +18,4 @@
 **Related:** [pariṇāma](parinama.md), [sākṣin](saksin.md)
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U31-sound-arts. Generated 2026-09-29 23:16 IST._

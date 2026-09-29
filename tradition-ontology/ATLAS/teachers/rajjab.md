@@ -15,4 +15,4 @@
 Pathan disciple of Dādū who, on his way to his wedding in the groom's crown, met Dādū and renounced, wearing the crown for life; arranged the Dādū Vāṇī in aṅgas and compiled the Sarbaṅgī anthology.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

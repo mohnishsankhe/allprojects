@@ -24,4 +24,4 @@
 _Notes: Śramaṇa is paired with brāhmaṇa as perpetual enemies in the Mahābhāṣya (on P 2.4.12)._
 
 ---
-_Contributed by: skeleton:U33-sramana, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U33-sramana, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

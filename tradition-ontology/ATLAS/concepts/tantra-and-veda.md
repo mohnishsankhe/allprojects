@@ -18,4 +18,4 @@
 - corresponds-to-in-map → [Tantra as the scripture of the Kali age](tantra-for-kali-yuga.md) (Śākta)
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:16 IST._

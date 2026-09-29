@@ -34,4 +34,4 @@
 
 - definitions: Chose one analysis of ātma-buddhi-prasāda-ja (18.37), which the merged teaching leaves open; aligned with it.
 
-_Contributed by: skeleton:U15-dvaita, extraction:bhagavad-gita/ch01-03, skeleton:U20-virasaiva, extraction:bhagavad-gita/ch16-18, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U15-dvaita, extraction:bhagavad-gita/ch01-03, skeleton:U20-virasaiva, extraction:bhagavad-gita/ch16-18, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, extraction:bhagavad-gita/ch10-12, skeleton:U03-principal-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

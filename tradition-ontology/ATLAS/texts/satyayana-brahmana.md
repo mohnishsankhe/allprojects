@@ -15,4 +15,4 @@ A lost Sāmaveda Brāhmaṇa of the Śāṭyāyanins, known only from quotations
 
 - 2026-09-28 websearch: partially-confirmed — https://vedicheritage.gov.in/brahmanas/ — The lost Śāṭyāyana Brāhmaṇa of the Sāmaveda, known from quotations (Sāyaṇa and others), is standard in the literature. The web search gave no specific scholarly page, so it is only partly confirmed.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

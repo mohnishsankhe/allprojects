@@ -63,4 +63,4 @@ terms: [nianfo](../terms/nianfo.md), [yixin buluan](../terms/yixin-buluan.md) ·
 _Notes: Holding the name passage read locally in T366 (347b10-13)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:16 IST._

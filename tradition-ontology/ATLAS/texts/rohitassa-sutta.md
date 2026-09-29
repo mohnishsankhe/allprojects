@@ -41,4 +41,4 @@ terms: [loka](../terms/loka.md) · concepts: [The world within the body](../conc
 _Notes: SuttaCentral uid sn2.26; Mahāsaṅgīti title 'Rohitassasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

@@ -15,4 +15,4 @@ Companions recite Amitābha's name beside the dying, in turns, voice following v
 - Strictly avoid moving the body or weeping, lest the dying one lose right mindfulness. — [Collected Letters and Essays of Master Yinguang](../texts/yinguang-wenchao.md) three essentials
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

@@ -12,4 +12,4 @@
 Kagyu and Nyingma master of the 17th c., author of the Lamp of Mahāmudrā and of works joining Mahāmudrā and Dzogchen.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

@@ -26,4 +26,4 @@ _level: conventional · standpoint: seeker · path: general · stage: all · typ
 
 - 2026-09-29 catalog+websearch: confirmed — text:sources_raw/raw_etexts/vedaH/yajur/vAjasaneyi/mAdhyandinam/saMhitA/TI/34.md, catalog:DCS:Vājasaneyisaṃhitā (Mādhyandina), https://sanskritdocuments.org/doc_upanishhat/shivasankalpopanishad.itx, https://stotranidhi.com/en/shiva-sankalpa-upanishad-in-english/ — The six verses are Vājasaneyi Saṃhitā (Mādhyandina) 34.1-6, read locally ('yaj jāgrato dūram udaiti … tan me manaḥ śivasaṃkalpam astu'). sanskritdocuments and other web sources circulate them as the Śivasaṅkalpa Upaniṣad.
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 23:16 IST._

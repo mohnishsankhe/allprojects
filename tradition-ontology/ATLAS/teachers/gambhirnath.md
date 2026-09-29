@@ -10,4 +10,4 @@
 Nāth yogī of the Gorakhnāth Maṭh, Gorakhpur, revered as a realised yogī in the late 19th and early 20th centuries.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:16 IST._

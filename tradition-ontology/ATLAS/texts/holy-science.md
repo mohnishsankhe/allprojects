@@ -14,4 +14,4 @@
 Sri Yukteswar's book harmonizing Hindu and Christian scripture, whose introduction proposes a 24,000-year cycle of four ascending and four descending yugas driven by the sun's motion around a dual star, departing from the siddhāntic figures.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:16 IST._

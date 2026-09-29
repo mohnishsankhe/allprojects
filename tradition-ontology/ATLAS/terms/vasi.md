@@ -18,4 +18,4 @@
 - partial: [prāṇa](prana.md) — vāci is the breath as the object of mastery
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:16 IST._

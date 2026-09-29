@@ -20,4 +20,4 @@ Kumārajīva's Chinese translation (409 CE) of the Mūlamadhyamakakārikā with 
   - kind: translation; name: Taishō T1564 — catalog:CBETA:T30n1564
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:16 IST._

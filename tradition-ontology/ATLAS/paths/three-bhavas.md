@@ -16,4 +16,4 @@
 Whether the three are successive stages of one practitioner or fixed temperaments/ages is itself treated differently by the texts (dsp:bhavas-in-kali-yuga). Only the first stage is banded (on the Rudrayāmala's description).
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:16 IST._

@@ -25,4 +25,4 @@
 'Transcendental dependent origination' is a modern name for this sequence; the text's own word is upanisā.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

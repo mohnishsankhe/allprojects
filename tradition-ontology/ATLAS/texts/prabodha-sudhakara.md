@@ -14,4 +14,4 @@
 A verse treatise combining Advaita teaching with devotion to Kṛṣṇa.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

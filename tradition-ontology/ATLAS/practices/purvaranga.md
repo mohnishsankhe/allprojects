@@ -12,4 +12,4 @@ Songs and instrumental pieces, partly behind the curtain, and the benediction (n
   - [Nāṭyaśāstra](../texts/natyasastra.md) — ref: 5; rests_on: ["tea:natyasastra:5"]
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:16 IST._

@@ -16,4 +16,4 @@ The first recipient of the imperishable yoga from Kṛṣṇa, who passed it to 
 - 2026-09-29 text: confirmed — sources_raw/prepared/bhagavad-gita/segments.jsonl (BhG 4–6) — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — local:gita/gita BhG 4.1 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 23:16 IST._

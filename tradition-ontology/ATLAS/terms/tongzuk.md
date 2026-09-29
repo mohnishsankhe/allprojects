@@ -15,4 +15,4 @@
 **Related:** [mi 'gyur ba'i bde ba chen po](mingyur-dechen.md), [rnam kun mchog ldan gyi stong nyid](namkun-chokden.md)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

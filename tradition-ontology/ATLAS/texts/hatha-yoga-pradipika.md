@@ -1642,7 +1642,7 @@ terms: [bandha (lock) in haṭha](../terms/bandha-hyp.md) · practices: [Jāland
 ### 2.45-46 <a id="tea-hatha-yoga-pradipika-2-45-46"></a>
 `skeleton` · confidence high
 
-At the end of inhalation the lock called jālandhara is applied; at the end of retention, before exhalation, uḍḍiyāna; with the lower contraction and the throat contraction, and the drawing-in of the middle, the breath goes into the channel of Brahman.
+A restricted practice, recorded as a summary only; the method is not kept.
 
 > pūrakānte tu kartavyo bandho jālandharābhidhaḥ | kumbhakānte recakadau kartavyastūḍḍiyanakaḥ || adhastāt kuñcanenāśu kaṇṭhasaṅkocane kṛte | madhye paścimatānena syāt prāṇo brahmanāḍigaḥ
 
@@ -1655,7 +1655,7 @@ _Superseded by [2.45](hatha-yoga-pradipika.md#tea-hatha-yoga-pradipika-2-45)_
 ### 2.45-47 <a id="tea-hatha-yoga-pradipika-2-45-47"></a>
 `skeleton` · confidence high
 
-At the end of inhalation the lock called jālandhara is applied; at the end of retention and the beginning of exhalation, uḍḍiyāna. With the contraction below, the throat contracted and the middle drawn back, the breath goes into the brahma-channel. Raising the apāna and bringing the prāṇa down from the throat, the yogin, freed from old age, becomes like one of sixteen years.
+A restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice, body-layers_
 
@@ -2020,7 +2020,7 @@ terms: [kumbhaka](../terms/kumbhaka.md)
 ### 2.72-74 <a id="tea-hatha-yoga-pradipika-2-72-74"></a>
 `skeleton` · confidence high
 
-One should practise sahita until kevala is mastered. The easy holding of the breath free of exhalation and inhalation is the breath-control called kevala kumbhaka. When kevala retention, free of exhalation and inhalation, is mastered, nothing in the three worlds is hard to attain for one able to hold the breath at will.
+A restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice, powers-experiences_
 
@@ -2042,7 +2042,7 @@ terms: [kumbhaka](../terms/kumbhaka.md)
 ### 2.73-75 <a id="tea-hatha-yoga-pradipika-2-73-75"></a>
 `skeleton` · confidence high
 
-When kevala retention, free of exhalation and inhalation, is mastered, nothing in the three worlds is unattainable; one able to hold the breath at will by kevala attains even the state of rājayoga. From retention comes the awakening of kuṇḍalinī; from that, suṣumnā becomes free of obstruction and haṭha is perfected.
+A restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: causal · path: body-breath · stage: advanced · types: practice, powers-experiences_
 
@@ -2198,7 +2198,7 @@ terms: [mudrā](../terms/mudra.md) · concepts: [The ten mudrās (HYP 3.6-9, 3.1
 ### 3.6-7 <a id="tea-hatha-yoga-pradipika-3-6-7"></a>
 `skeleton` · confidence high
 
-The ten mudrās — mahāmudrā, mahābandha, mahāvedha, khecarī, uḍḍiyāna, mūlabandha, jālandhara, viparītakaraṇī, vajrolī and śakticālana — destroy old age and death.
+The ten mudrās: a restricted practice, recorded as a summary only; the method is not kept.
 
 > mahāmudrā mahabandho mahāvedhaśca khecarī | uḍyānaṃ mūlabandhaśca bandho jālandharābhidhaḥ || karaṇī viparītākhyā vajrolī śakticālanam | idaṃ hi mudrādaśakaṃ jarāmaraṇanāśakam
 
@@ -2268,7 +2268,7 @@ terms: [mudrā](../terms/mudra.md) · practices: [Mahāmudrā (the great seal)](
 ### 3.10-13 <a id="tea-hatha-yoga-pradipika-3-10-13"></a>
 `skeleton` · confidence high
 
-Mahāmudrā: pressing the perineum (yoni) with the left heel and stretching out the right leg, holding (the foot) firmly with the hands, applying the throat lock and holding the breath upward, the power kuṇḍalinī suddenly becomes straight, like a snake struck with a stick becomes stick-like; then a death-like state arises, the (breath) leaving the two channels. Then one exhales slowly, never forcefully. This is mahāmudrā, shown by the great siddhas.
+Mahāmudrā: a restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice, powers-experiences_
 
@@ -2402,7 +2402,7 @@ terms: [bandha (lock) in haṭha](../terms/bandha-hyp.md) · practices: [Mahāba
 ### 3.19-21 <a id="tea-hatha-yoga-pradipika-3-19-21"></a>
 `skeleton` · confidence high
 
-Mahābandha: placing the heel of the left foot at the perineum and the right foot on the left thigh, filling with breath, setting the chin firmly on the chest, contracting the perineum and fixing the mind in the middle; holding as far as one is able, one releases the breath slowly; practised on the left side it is practised again on the right.
+Mahābandha: a restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice_
 
@@ -2996,7 +2996,7 @@ terms: [mūlabandha](../terms/mula-bandha.md), [bandha (lock) in haṭha](../ter
 ### 3.61-65 <a id="tea-hatha-yoga-pradipika-3-61-65"></a>
 `skeleton` · confidence high
 
-Mūlabandha: pressing the perineum with the heel, one contracts the anus and draws the apāna upward; by contraction it forcibly makes the downward-moving apāna go up. Pressing the anus with the heel, one contracts the breath forcibly again and again so that it rises. By mūlabandha prāṇa and apāna, nāda and bindu become one and give success in yoga; with the union of apāna and prāṇa urine and faeces diminish, and even an old man becomes young through constant mūlabandha.
+Mūlabandha: a restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: intermediate · types: practice, body-layers_
 
@@ -3130,7 +3130,7 @@ terms: [bandha (lock) in haṭha](../terms/bandha-hyp.md) · practices: [Jāland
 ### 3.70-73 <a id="tea-hatha-yoga-pradipika-3-70-73"></a>
 `skeleton` · confidence high
 
-Jālandhara — contracting the throat and pressing the chin firmly to the chest — destroys old age and death; it binds the network of channels and the downward-flowing celestial water; with it the nectar does not fall into the fire and the breath is not disturbed; by the throat contraction the two channels are stopped; this central cakra binds the sixteen supports (ādhāra).
+Jālandhara: a restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice, body-layers_
 
@@ -3185,7 +3185,7 @@ terms: [bandha (lock) in haṭha](../terms/bandha-hyp.md) · practices: [Uḍḍ
 ### 3.74-76 <a id="tea-hatha-yoga-pradipika-3-74-76"></a>
 `skeleton` · confidence high
 
-Contracting the root, performing uḍḍiyāna and binding iḍā and piṅgalā, one should make the breath flow in the rear (central) path; by this the breath dissolves and death, old age and disease do not arise; this set of three locks, practised by the great Siddhas, is known by yogins as the means of all haṭha practice.
+A restricted practice, recorded as a summary only; the method is not kept.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice_
 
@@ -5719,4 +5719,4 @@ terms: [haṭha](../terms/hatha.md), [rājayoga](../terms/raja-yoga.md), [samād
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:16 IST._

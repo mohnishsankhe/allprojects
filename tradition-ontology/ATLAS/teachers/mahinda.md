@@ -12,4 +12,4 @@ Son of Asoka and pupil of Moggaliputta Tissa who, by the chronicles, brought the
 _Notes: Dīpavaṃsa and Mahāvaṃsa account._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

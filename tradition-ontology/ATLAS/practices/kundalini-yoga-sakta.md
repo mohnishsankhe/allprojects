@@ -14,4 +14,4 @@ The Goddess coiled at the root is awakened and led with the jīva up through the
 - The practitioner is to be 'devoted to the guru's lotus feet' (the text's own qualification). — [Ṣaṭcakranirūpaṇa](../texts/sat-cakra-nirupana.md) 53
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:16 IST._

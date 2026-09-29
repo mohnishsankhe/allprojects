@@ -669,4 +669,4 @@ concepts: [The four establishments of mindfulness (cattāro satipaṭṭhānā)]
 _Notes: SuttaCentral uid mn10; Mahāsaṅgīti title 'Satipaṭṭhānasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

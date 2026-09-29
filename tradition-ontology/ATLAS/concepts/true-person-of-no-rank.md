@@ -13,4 +13,4 @@
 - contrasts-with → [The 'Śreṇika heresy' (eternal mind-nature in a perishing body)](srenika-heresy.md): Linji's 'true person' is not a soul that leaves the body; he calls it a 'dried shit-stick' to prevent reification. — rests on [496c10](../texts/linji-lu.md#tea-linji-lu-496c10)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

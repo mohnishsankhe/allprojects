@@ -48,4 +48,4 @@ The mantra manuals, accepting the four levels, place parā above paśyantī and 
 _Notes: Grammarian side stated at work level (Vākyapadīya 1.1); verse anchors for paśyantī to be supplied by U31._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U31-sound-arts. Generated 2026-09-29 23:16 IST._

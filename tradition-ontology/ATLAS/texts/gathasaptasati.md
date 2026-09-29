@@ -31,4 +31,4 @@ terms: [kāpālika](../terms/kapalika.md), [bhasma](../terms/bhasma.md)
 
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:16 IST._

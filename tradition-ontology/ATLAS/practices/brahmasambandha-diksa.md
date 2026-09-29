@@ -12,4 +12,4 @@ The second initiation of the Puṣṭimārga, following the refuge mantra: the d
   - [Siddhāntarahasya](../texts/siddhantarahasya.md) — ref: 2-3; rests_on: ["tea:siddhantarahasya:2-3"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

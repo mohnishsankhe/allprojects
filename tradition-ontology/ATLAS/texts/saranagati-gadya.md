@@ -46,4 +46,4 @@ terms: [dvaya](../terms/dvaya-mantra.md) · concepts: [Surrender (prapatti, śar
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:16 IST._

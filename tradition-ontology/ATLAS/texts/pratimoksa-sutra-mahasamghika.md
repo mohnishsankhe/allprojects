@@ -13,4 +13,4 @@ The Mahāsāṃghika monk's rules in Sanskrit.
   - kind: original; name: W. Pachow and R. Mishra (Allahabad 1956), GRETIL e-text
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

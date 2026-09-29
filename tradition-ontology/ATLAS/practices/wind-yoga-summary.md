@@ -15,4 +15,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - Saraha criticizes forcing winds and head practices out of pride (King Dohā v22–24). — [Dohākoṣa-nāma-caryāgīti of Saraha (the 'King Dohā')](../texts/dohakosa-king-saraha.md) v24
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:16 IST._

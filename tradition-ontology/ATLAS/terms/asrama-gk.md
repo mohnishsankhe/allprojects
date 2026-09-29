@@ -16,4 +16,4 @@
 
 - 2026-09-29 text: confirmed — tea:mandukya-karika:3.16 — Sense-specific id confirmed: data trm:asrama is the four orders / stage of life; GK 3.16's three āśramas are distinguished by view and their sense is not fixed by the text. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

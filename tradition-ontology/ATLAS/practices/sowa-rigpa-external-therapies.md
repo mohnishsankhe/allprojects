@@ -18,4 +18,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - partial: [Bloodletting (raktamokṣaṇa)](raktamoksana.md) — bloodletting in Āyurveda
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

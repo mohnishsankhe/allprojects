@@ -16,4 +16,4 @@
 _Notes: Member order is the Kāmika's. Variant lists: the Kiraṇa has Nārasiṃha (= Sarvokta slot), Bhadra (= Vimala), Candrabhāsa (= Candrajñāna), Vīraja (= Vīra), Saurabheya (= Vātula); the Śrīkaṇṭhīya puts Maukuṭa among the Śivabhedas and has Madgīta, Nārasiṃha, Candrāṃśu, Vīrabhadra, Visara, Vimala and Saurabheya among the Rudrabhedas. Scholarly note: most titles survive, if at all, as later South Indian ritual redactions; early texts survive for the Niśvāsa, Kiraṇa, Svāyambhuva and Raurava (sūtrasaṅgrahas) and some upāgamas._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:16 IST._

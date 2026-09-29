@@ -95,4 +95,4 @@ concepts: [The first teaching and the first disciples](../concepts/first-teachin
 _Notes: SuttaCentral uid sn56.11; Mahāsaṅgīti title 'Dhammacakkappavattanasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

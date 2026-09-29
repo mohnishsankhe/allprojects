@@ -16,4 +16,4 @@ Vism XIV, an indeterminate factor in the hate-rooted consciousness: avarice is t
 
 - 2026-09-29 text: confirmed — tea:visuddhimagga:14.p470, tea:visuddhimagga:22.p683 — Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan).
 
-_Contributed by: extraction:visuddhimagga/selections. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections. Generated 2026-09-29 23:16 IST._

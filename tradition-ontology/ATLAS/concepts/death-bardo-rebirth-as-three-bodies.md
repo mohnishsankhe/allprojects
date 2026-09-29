@@ -13,4 +13,4 @@
 - part-of → [The signs of dissolution](signs-of-dissolution.md): the eight dissolutions of dying are the first phase
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

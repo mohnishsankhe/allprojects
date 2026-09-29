@@ -15,4 +15,4 @@ Visualising a lump of fragrant soft butter on the crown that melts and flows dow
 - Given as a healing method for Zen sickness in the Yasenkanna. — [Idle Talk on a Night Boat (Yasenkanna)](../texts/yasenkanna.md) soft-butter
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

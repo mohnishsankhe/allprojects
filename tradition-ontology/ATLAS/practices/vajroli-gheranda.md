@@ -15,4 +15,4 @@ Supporting the ground with both hands, both legs and the head are thrown up into
 _Notes: A different practice from the Haṭhapradīpikā's vajrolī sharing only the name and the aim of mastering bindu; not restricted._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:16 IST._

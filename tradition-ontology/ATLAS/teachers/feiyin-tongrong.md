@@ -11,4 +11,4 @@
 Heir of Miyun, abbot of Wanfusi on Mount Huangbo, teacher of Yinyuan (Ingen).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

@@ -16,4 +16,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - The great bahiṣkṛta-dhauti does not arise until one can hold (the air) for a long period. — [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) 1.25
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:16 IST._

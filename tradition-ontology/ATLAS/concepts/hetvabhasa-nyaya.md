@@ -16,4 +16,4 @@
 _Notes: The correspondence of the old and new lists (arrows) is the usual later reading, not stated in the sūtra._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 23:16 IST._

@@ -21,4 +21,4 @@
 _Notes: Shared with the Kaula pīṭha lists (U24)._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U24-kali-kaula, skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U24-kali-kaula, skeleton:U23-sakta-srividya. Generated 2026-09-29 23:16 IST._

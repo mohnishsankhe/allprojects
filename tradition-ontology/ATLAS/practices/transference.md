@@ -16,4 +16,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - Taught only as oral instruction within the six dharmas; the text itself gives it to one prepared by the preceding yogas. — [Ṣaḍdharmopadeśa of Tilopa](../texts/saddharmopadesa-tilopa.md) 6
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:16 IST._

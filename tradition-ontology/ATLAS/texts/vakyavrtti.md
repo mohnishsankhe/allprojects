@@ -14,4 +14,4 @@
 A verse treatise explaining the meaning of 'tat tvam asi' by analysing the word-meanings 'that' and 'thou' and the implied identity.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

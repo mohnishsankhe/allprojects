@@ -22,4 +22,4 @@
 **Related:** [ādāna-vijñāna](adana-vijnana.md), [vipāka-vijñāna](vipaka-vijnana.md), [mūla-vijñāna](mula-vijnana.md), [bīja](bija.md), [vāsanā](vasana.md), [kliṣṭa-manas](klista-manas.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

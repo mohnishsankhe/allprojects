@@ -12,4 +12,4 @@ The delusion of sect, scripture and outward religion — Hindu and Turk each cer
   - [Bījak](../texts/bijak.md) — ref: 'santo, dekhat jag baurānā'; rests_on: ["tea:bijak:sabda-santo-dekhat-jag-baurana"]
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

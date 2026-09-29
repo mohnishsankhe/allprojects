@@ -17,4 +17,4 @@ Bhaṭṭotpala's commentary on the Bṛhajjātaka, the standard northern commen
 _Notes: Title of the commentary from memory._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:16 IST._

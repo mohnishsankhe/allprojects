@@ -16,4 +16,4 @@
 _Notes: Mīmāṃsā sense; distinct from the 'four aims of life' sense of puruṣārtha._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:16 IST._

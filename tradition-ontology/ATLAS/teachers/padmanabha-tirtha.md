@@ -17,4 +17,4 @@ Disciple of Madhva and first pontiff after him in the line that became the Uttar
 _Notes: Former name, pontificate dates and brindāvana location recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:16 IST._

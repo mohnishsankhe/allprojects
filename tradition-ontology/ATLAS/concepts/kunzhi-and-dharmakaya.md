@@ -14,4 +14,4 @@
 - contrasts-with → [The base of all and awareness in Bön Dzogchen](bon-kunzhi-and-rigpa.md): the same word names different things — rests on [outer-cycle](../texts/zhang-zhung-nyengyu.md#tea-zhang-zhung-nyengyu-outer-cycle), [ch2](../texts/tsigdon-dzod.md#tea-tsigdon-dzod-ch2)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:16 IST._

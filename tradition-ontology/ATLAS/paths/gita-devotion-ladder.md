@@ -22,4 +22,4 @@ The text presents the steps from the highest downward as alternatives by capacit
 
 - 2026-09-29 text: corrected — tea:bhagavad-gita:12.8, tea:bhagavad-gita:12.9, tea:bhagavad-gita:12.10, tea:bhagavad-gita:12.11, tea:bhagavad-gita:12.12 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 23:16 IST._

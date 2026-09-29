@@ -15,4 +15,4 @@
 _Notes: Sub-lists of the object of skill and of purification recalled; the fourfold division checked in the e-text._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:16 IST._

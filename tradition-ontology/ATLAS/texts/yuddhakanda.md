@@ -24,4 +24,4 @@ The book of the war: Vibhīṣaṇa's surrender and Rāma's vow to protect whoev
 
 - 2026-09-29 catalog: confirmed — catalog:GRETIL-dev:valmiki_ramayana_6, local:sources_raw/DharmicData/ValmikiRamayana (southern vulgate) book 6 — Book 6 of the Vālmīki Rāmāyaṇa, digitized in several local editions.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:16 IST._

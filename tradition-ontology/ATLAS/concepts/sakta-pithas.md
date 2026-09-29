@@ -15,4 +15,4 @@
 _Notes: The full 51-pīṭha list is not reproduced: it was not checked against the Pīṭhanirṇaya text in Phase B (see REPORT). Members other than Kāmākhyā are recalled from the popular Bengali list and need checking._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:16 IST._

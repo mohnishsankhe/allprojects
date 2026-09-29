@@ -14,4 +14,4 @@
 - part-of → [The three nyepa (rlung, mkhris pa, bad kan)](three-nyepa.md) — rests on [5](../texts/gyushi-shegyu.md#tea-gyushi-shegyu-5)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

@@ -32,4 +32,4 @@ terms: [mithyātva](../terms/mithyatva.md), [anirvacanīya](../terms/anirvacaniy
 _Notes: The full title is Prapañca-mithyātvānumāna-khaṇḍana (the task list's 'Mithyātvānumānakhaṇḍana' is a short form)._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:16 IST._

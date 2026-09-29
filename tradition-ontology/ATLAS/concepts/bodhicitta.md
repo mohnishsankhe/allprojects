@@ -17,4 +17,4 @@
 - same-as-under-standpoint → [The thought of awakening (bodhicitta) in the sūtras](bodhicitta-sutra.md): the treatises systematize the sūtras' teaching — rests on [1.1](../texts/madhyamakavatara.md#tea-madhyamakavatara-1-1)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

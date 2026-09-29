@@ -15,4 +15,4 @@
 **Related:** [dharma](dharma.md), [jātidharma](jatidharma.md), [varṇasaṅkara](varnasankara.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 23:16 IST._

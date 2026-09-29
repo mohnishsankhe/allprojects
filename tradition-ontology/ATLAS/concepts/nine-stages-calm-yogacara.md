@@ -16,4 +16,4 @@
 - corresponds-to-in-map → [The five paths (Yogācāra presentation)](five-paths-yogacara.md): calm is a requisite of the path of preparation
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

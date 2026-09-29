@@ -30,4 +30,4 @@ concepts: [The after-death body built by the piṇḍas](../concepts/pinda-after
 
 - 2026-09-29 catalog: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md (line 27020, collection no. 114) — No. 114 of the e-text, with colophon 'ityātharvaṇīyā piṇḍopaniṣat'. The content (the departed as haṃsa; the ten piṇḍas build the new body) is located in vv. 1-2 onward.
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 23:16 IST._

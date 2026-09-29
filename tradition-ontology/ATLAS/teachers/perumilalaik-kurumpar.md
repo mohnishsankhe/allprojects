@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A chieftain devoted to Cuntarar; knowing b
 **Realization — the tradition's account:** A chieftain devoted to Cuntarar; knowing by yoga that Cuntarar would leave for Kailāsa, he left his body through the crown of the head a day before, to reach Kailāsa first.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:16 IST._

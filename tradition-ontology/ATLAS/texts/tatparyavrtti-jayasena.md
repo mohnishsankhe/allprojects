@@ -16,4 +16,4 @@
 Jayasena's Sanskrit commentaries (each called Tātparyavṛtti) on the Samayasāra, Pravacanasāra and Pañcāstikāya, following a fuller recension of the root texts and giving more weight than Amṛtacandra to the conventional standpoint and to conduct.
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

@@ -10,4 +10,4 @@
 Disciple of Mādhavadeva and founder of the Kāla saṃhati (16th–17th c.).
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:16 IST._

@@ -20,4 +20,4 @@ Jaimini: a body, since scripture speaks of optional multiple forms.
 **Explanation:** Bādarāyaṇa (4.4.12) holds both, by choice, like the twelve-day rite that is both a session and a sacrifice — the sūtra's own synthesis.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

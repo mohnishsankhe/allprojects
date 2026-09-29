@@ -22,4 +22,4 @@ Anger, pride, deceit and greed (8.9): counted among the rising states of the sou
 
 - 2026-09-29 text: corrected — tea:tattvartha-sutra:2.6, tea:tattvartha-sutra:6.14, tea:tattvartha-sutra:6.5, tea:tattvartha-sutra:8.1, tea:tattvartha-sutra:8.2, tea:tattvartha-sutra:8.9 — Corrected by J: the shard's obs:kasaya entry (Jain passions) was folded in here (description and rests_on), because data obs:kasaya is a different thing (the Advaita/Gauḍīya meditation fault of latent attachment).
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

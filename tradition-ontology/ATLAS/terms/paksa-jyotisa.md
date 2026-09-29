@@ -15,4 +15,4 @@
 _Notes: Homonym of pakṣa 'thesis' in logic; id disambiguated._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:16 IST._

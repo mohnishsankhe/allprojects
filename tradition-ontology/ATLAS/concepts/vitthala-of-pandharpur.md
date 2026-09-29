@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The identity of Hari and Hara](harihara-identity.md) (devotional): Narahari Sonār's vision of Śiva in Viṭṭhala — rests on [narahari-sonar](../texts/bhaktavijaya.md#tea-bhaktavijaya-narahari-sonar)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:16 IST._

@@ -17,4 +17,4 @@ Kashmiri Naiyāyika, author of the Nyāyasāra and its auto-commentary Nyāyabh�
 _Notes: The Ratnaṭīkā on the Pāśupata Gaṇakārikā is also attributed to him (attribution recalled, not checked)._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:16 IST._

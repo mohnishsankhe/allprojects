@@ -16,4 +16,4 @@
 - corresponds-to-in-map → [The three bodies (śarīra-traya)](three-bodies.md): correlation found in the vacana/manual tradition, not stated in SSM 6.49–50 — rests on [6.49-50](../texts/siddhantasikhamani.md#tea-siddhantasikhamani-6-49-50)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:16 IST._

@@ -9,4 +9,4 @@
 Abhinavagupta's father and his first teacher (in grammar), named by Abhinavagupta in the Tantrāloka's closing chapter.
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:16 IST._

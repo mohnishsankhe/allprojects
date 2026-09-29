@@ -14,4 +14,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - The Buddha's instruction begins with purity, the paśu disposition, solitude, restraint and breath-yoga. — [Rudrayāmala (Uttaratantra)](../texts/rudrayamala.md) 17.136-140
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:16 IST._

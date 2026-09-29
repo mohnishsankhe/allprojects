@@ -17,4 +17,4 @@ A long explanatory tantra of the Cakrasaṃvara cycle expanding the maṇḍalas
   - kind: translation; name: Derge Kangyur, Tōh 369 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-kangyur
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:16 IST._

@@ -55,4 +55,4 @@ terms: [ādibuddha](../terms/adibuddha.md) · concepts: [The primordial buddha (
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:16 IST._

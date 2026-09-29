@@ -13,4 +13,4 @@
 - contrasts-with → [Devotion by rule (vaidhī bhakti)](vaidhi-bhakti.md): partial analogy: Gauḍīya rule-devotion vs spontaneous devotion (both lineages contrast rule and love) — rests on [1.2.6](../texts/bhaktirasamrtasindhu.md#tea-bhaktirasamrtasindhu-1-2-6)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

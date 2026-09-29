@@ -272,4 +272,4 @@ _Notes: Circulated as an independent text (e.g. the 1912 Venkatesvara Press edit
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — BhP 3.25-33 confirmed; the 1915 Gītāsaṅgraha prints it as 9 chapters of 44+72+30+44+45+34+48+43+37 = 397 verses (vulgate numbering). The local mAdhva e-text skips the number 3.25.33, so from there to the end of 3.25 its numbers run one higher than the vulgate's.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:16 IST._

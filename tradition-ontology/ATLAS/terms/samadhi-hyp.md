@@ -21,4 +21,4 @@ _Notes: Sense-specific id: the existing trm:samadhi carries only an Advaita (Gau
 
 - 2026-09-29 text: confirmed — tea:hatha-yoga-pradipika:4.3, tea:hatha-yoga-pradipika:4.4, tea:hatha-yoga-pradipika:4.5, tea:hatha-yoga-pradipika:4.6, tea:hatha-yoga-pradipika:4.7 — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids).
 
-_Contributed by: extraction:hatha-yoga-pradipika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:hatha-yoga-pradipika/all. Generated 2026-09-29 23:16 IST._

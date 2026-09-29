@@ -15,4 +15,4 @@ Cultivating truth, forbearance, sense-control, compassion, straightforwardness, 
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:skanda-purana:4.1.6.28-45 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:16 IST._

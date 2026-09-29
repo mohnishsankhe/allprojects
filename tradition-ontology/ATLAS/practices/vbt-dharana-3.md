@@ -26,4 +26,4 @@ _Notes: Text-derived summary of GRETIL verse(s) 26; the skeleton entry's name an
 - restricted: aligned with the judge's correction of tea:vijnana-bhairava-tantra:26
 - notes: aligned with the judge's correction of tea:vijnana-bhairava-tantra:26
 
-_Contributed by: extraction:vijnana-bhairava-tantra/all, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:vijnana-bhairava-tantra/all, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:16 IST._

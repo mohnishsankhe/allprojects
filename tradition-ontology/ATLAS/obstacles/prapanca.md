@@ -15,4 +15,4 @@ Verbal-conceptual elaboration from which conceptual construction, action and aff
 - partial: [Proliferation (papañca)](papanca.md) — Pali papañca in the Madhupiṇḍika Sutta is proliferation rooted in craving, conceit and views
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:16 IST._

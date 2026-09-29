@@ -38,4 +38,4 @@ The five great vows and the four reflections belong to the Jina's teaching; Hari
 _Notes: Borrowing evidence: brw:buddhism-yoga-four-attitudes, brw:buddhism-yoga-five-faculties, brw:buddhism-yoga-klesa-theory, brw:buddhism-yoga-meditation-vocabulary, brw:mahayana-yoga-dharmamegha, brw:jain-four-bhavanas-and-yoga, brw:jain-mahavratas-and-yoga-yamas, brw:four-immeasurables-sramana-common, brw:yoga-refutes-buddhist-idealism._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:16 IST._

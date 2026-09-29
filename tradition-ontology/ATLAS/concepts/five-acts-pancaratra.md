@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [Śiva's five acts (pañcakṛtya)](five-acts-of-siva.md): same five functions, differently ordered; the Śaiva list is recorded by U18/U19 — rests on [12.12-14](../texts/laksmi-tantra.md#tea-laksmi-tantra-12-12-14)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:16 IST._

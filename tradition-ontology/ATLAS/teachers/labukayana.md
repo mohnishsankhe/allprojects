@@ -8,4 +8,4 @@
 Early teacher cited in the Mīmāṃsā Sūtra (MS 6.7.37; spelled Lāvukāyana in one edition).
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:16 IST._

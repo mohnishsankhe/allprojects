@@ -19,4 +19,4 @@ _Notes: Partial parallel: Vedāntasāra's kaṣāya (list of obstacles to nirvik
 
 - 2026-09-29 text: confirmed — tea:mandukya-karika:3.44 — Gauḍapāda referent confirmed: data obs:kasaya rests on tea:mandukya-karika:3.44, but its name and description ('latent attachment', 'latent impressions of attachment') are the commentators' gloss; the shard contribution correctly keeps only 'sakaṣāya' and should be the Kārikā's line at merge. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all, skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all, skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

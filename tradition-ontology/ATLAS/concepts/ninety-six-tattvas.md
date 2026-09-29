@@ -23,4 +23,4 @@ _Notes: The overall count is certain; the membership given is the one most often
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Varāha 1.6-15 is located: the four attitudes (muditā, karuṇā, maitrī, upekṣā) at v. 13 and the fourteen deities (dik … īśvara) at v. 14. All 1 teachings it rests on exist and were located in the e-text.
 
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:16 IST._

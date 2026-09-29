@@ -24,4 +24,4 @@ _Notes: Contribution from Vism III. The order of preference of teachers is the c
 
 - method_summary: "bhāvanīyo" in the verse (Vism III p. 98) means esteemed / worthy of regard, not "one who can be developed"; same correction as tea:visuddhimagga:3.p98/2.
 
-_Contributed by: extraction:visuddhimagga/selections, skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:visuddhimagga/selections, skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

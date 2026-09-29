@@ -30,4 +30,4 @@ teachers: [Desi Sangye Gyatso (sde srid sangs rgyas rgya mtsho)](../teachers/des
 _Notes: Not found in the local catalogue under 'Blue Beryl' or 'bai durya sngon po'._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

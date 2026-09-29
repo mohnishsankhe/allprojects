@@ -823,4 +823,4 @@ _Notes: Commentaries: Medhātithi, Govindarāja, Kullūka, Nārāyaṇa, Rāghav
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Manusmṛti, catalog:GRETIL-dev:manu-smrti, catalog:eBharati:manusmRtiH, https://en.wikipedia.org/wiki/Manusmriti — Extant; 12 adhyāyas, 2,678 verses in the GRETIL Kullūka text (c. 2,700). 1.58–60 (Manu's teaching recited by Bhṛgu) is text-located. The scholarly dating (2nd c. BCE–2nd c. CE; Olivelle 2nd c. CE) agrees with Wikipedia. The commentators are confirmed (see the commentary entries).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

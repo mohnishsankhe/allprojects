@@ -16,4 +16,4 @@ Kashmirian Vaiṣṇava author of the Spandapradīpikā, a commentary on the Spa
 _Notes: Quotations noted in the introduction to the JS edition (local e-text)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:16 IST._

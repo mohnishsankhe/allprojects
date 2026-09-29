@@ -28,4 +28,4 @@
 _Notes: Homonym: in haṭha yoga mahāmudrā is a seal-practice (see U28/U29 definitions of the same id)._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U47-sakya-kadam-gelug, skeleton:U44-indian-vajrayana, skeleton:U46-kagyu, skeleton:U21-natha-aghora, skeleton:U45-nyingma-bon, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U47-sakya-kadam-gelug, skeleton:U44-indian-vajrayana, skeleton:U46-kagyu, skeleton:U21-natha-aghora, skeleton:U45-nyingma-bon, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:16 IST._

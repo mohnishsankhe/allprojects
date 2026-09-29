@@ -24,4 +24,4 @@ The book of youth: Nārada's summary of Rāma's story to Vālmīki, the origin o
 
 - 2026-09-29 catalog: confirmed — catalog:GRETIL-dev:valmiki_ramayana_1, local:sources_raw/DharmicData/ValmikiRamayana (southern vulgate) book 1 — Book 1 of the Vālmīki Rāmāyaṇa, digitized in several local editions.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:16 IST._

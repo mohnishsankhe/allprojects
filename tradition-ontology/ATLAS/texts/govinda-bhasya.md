@@ -14,4 +14,4 @@
 Baladeva Vidyābhūṣaṇa's commentary on the Brahma Sūtras for the Gauḍīya school, reading them as teaching Kṛṣṇa (Govinda) as Brahman, the reality of the world and souls, and devotion as the means; it uses Madhva's category of viśeṣa to explain the unity of the Lord and his attributes.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

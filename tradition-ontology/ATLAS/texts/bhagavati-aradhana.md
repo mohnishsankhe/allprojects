@@ -71,4 +71,4 @@ terms: [paṇḍita-maraṇa](../terms/pandita-marana.md), [bāla-maraṇa](../t
 _Notes: Restricted content (fasting unto death): summary and the text's own conditions and warnings only. Title present in the local catalogue (catalog:JainDB:भगवती-आराधना--शिवाचार्य); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

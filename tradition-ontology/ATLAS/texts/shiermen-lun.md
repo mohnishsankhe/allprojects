@@ -18,4 +18,4 @@ The 'Twelve Gate Treatise', ascribed to Nāgārjuna and translated by Kumārajī
   - kind: translation; name: Taishō T1568 — catalog:CBETA:T30n1568
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:16 IST._

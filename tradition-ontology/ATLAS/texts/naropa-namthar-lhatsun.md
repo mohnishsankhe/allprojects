@@ -40,4 +40,4 @@ concepts: [Testing of guru and disciple](../concepts/testing-guru-and-disciple.m
 _Notes: Tibetan title from memory; low confidence on its exact form._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

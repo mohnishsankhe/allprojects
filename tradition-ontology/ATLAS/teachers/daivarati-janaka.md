@@ -15,4 +15,4 @@ _Notes: Whether he is the Upaniṣadic Janaka (tch:janaka) is not asserted._
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.298.4, 12.306.92 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:16 IST._

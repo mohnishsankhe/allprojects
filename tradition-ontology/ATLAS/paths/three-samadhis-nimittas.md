@@ -21,4 +21,4 @@
 Bands are interpretation-layer assignments by U37; the preliminary 'taking the subject' is placed in B0 though it comes after virtue in the text's order.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:16 IST._

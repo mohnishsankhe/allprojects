@@ -10,4 +10,4 @@
 Self-awakened founder of the Daruma school who obtained a certificate by proxy from Zhuoan Deguang; criticised by Eisai.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

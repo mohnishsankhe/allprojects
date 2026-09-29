@@ -10,4 +10,4 @@
 Siamese elder who led the mission of 1753 that restored higher ordination in Kandy; the borān meditation manuals of Sri Lanka are associated with this mission.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:16 IST._

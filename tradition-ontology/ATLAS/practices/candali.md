@@ -23,4 +23,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - analogous: [Raising Kuṇḍalinī through the six centres (Śākta)](kundalini-yoga-sakta.md) — A feminine inner power in the central channel in both; frames and goals differ.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

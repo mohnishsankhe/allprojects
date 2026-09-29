@@ -14,4 +14,4 @@ Logician between Dignāga and Dharmakīrti — by Tibetan tradition Dignāga's p
 _Notes: 'Pupil of Dignāga' is chronologically loose; recorded as the tradition's account._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:16 IST._

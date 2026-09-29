@@ -21,4 +21,4 @@ Vāgbhaṭa: the power of a substance does not depend on who states it; drop jea
 _Notes: The partisan side is known only through Vāgbhaṭa's report._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:16 IST._

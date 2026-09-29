@@ -18,4 +18,4 @@ First ācārya of the Śrīvaiṣṇava lineage (after Nammāḻvār), of Vīran
 **Realization — the tradition's account:** Hearing ten verses of the Tiruvāymoḻi ending 'these ten out of a thousand', he sought the rest at Kurukūr, recited Madhurakavi's Kaṇṇinuṇ Ciṟuttāmpu twelve thousand times in yogic absorption, and received from Nammāḻvār in vision the whole four thousand hymns and their meaning.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:16 IST._

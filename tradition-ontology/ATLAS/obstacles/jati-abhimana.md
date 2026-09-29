@@ -21,4 +21,4 @@ Measuring devotees by caste, learning or family: the Āḻvārs teach that the s
 - partial: [Offence against devotees (bhāgavata-apacāra)](bhagavata-apacara.md) — the Śrīvaiṣṇava offence against devotees includes judging them by birth
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti. Generated 2026-09-29 23:16 IST._

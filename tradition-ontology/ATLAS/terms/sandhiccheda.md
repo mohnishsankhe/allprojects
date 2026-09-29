@@ -22,4 +22,4 @@
 - literal: 'cutter of links (of rebirth)' is the commentators' reading.
 - definitions.0.definition: Label the commentarial reading (consistency with the fix of 97).
 
-_Contributed by: extraction:dhammapada/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:dhammapada/all. Generated 2026-09-29 23:16 IST._

@@ -47,4 +47,4 @@ teachers: [Nupchen Sangye Yeshe (gnubs chen sangs rgyas ye shes)](../teachers/nu
 _Notes: Chapter structure not recorded; teachings given at section level (REPORT.md)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:16 IST._

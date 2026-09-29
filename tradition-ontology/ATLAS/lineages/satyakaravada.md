@@ -33,4 +33,4 @@ _none recorded_
 _Notes: The division into 'true' and 'false' aspect is partly a later doxographic construction (Tibetan grub mtha'); Indian authors use sākāra/nirākāra with shifting meanings. Membership lists are the doxographers'._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:16 IST._

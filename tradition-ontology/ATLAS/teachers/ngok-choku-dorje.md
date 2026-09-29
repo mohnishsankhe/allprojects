@@ -12,4 +12,4 @@ One of Marpa's four principal disciples ('the four pillars'), holder of the expl
 **Realization — the tradition's account:** Received from Marpa the explanation (bshad pa) of the tantras; Milarepa came to him with the forged letter.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

@@ -34,4 +34,4 @@ That which rests on pain (YS 2.8). Vyāsa: for one who has known pain, the recoi
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:11.55, tea:bhagavad-gita:12.13, tea:bhagavad-gita:12.17 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.7, tea:bhagavad-gita:14.22 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:yoga-sutra/p1-2, extraction:bhagavad-gita/ch01-03, skeleton:U10-yoga, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:yoga-sutra/p1-2, extraction:bhagavad-gita/ch01-03, skeleton:U10-yoga, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:16 IST._

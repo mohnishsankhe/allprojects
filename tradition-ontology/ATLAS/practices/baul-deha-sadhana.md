@@ -16,4 +16,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - The practice is secret and must not be revealed to the unqualified. — [Bāul gān (the corpus of Bāul songs of other masters)](../texts/baul-gan.md) 
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

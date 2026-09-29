@@ -20,4 +20,4 @@ Chief of the Āḻvārs and 'first head of the clan' (kulapati) of the Śrīvai�
 _Notes: Registry id. U14 references him as the head of the Śrīvaiṣṇava lineage. The 'small/dead' riddle is commonly read as the soul (small) born in matter (dead): it lives on matter's experiences until it knows the Lord. Aṃśa of Viṣvaksena in the tradition's list (moderate). His image-crown Śaṭhāri (caṭāri) bears the Lord's feet (prc:satari)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U14-visistadvaita. Generated 2026-09-29 23:16 IST._

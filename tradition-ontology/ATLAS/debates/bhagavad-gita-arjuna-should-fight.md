@@ -57,4 +57,4 @@ _Notes: A text-internal debate, recorded as the Gītā presents it in chapters 1
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:18.17, tea:bhagavad-gita:18.43, tea:bhagavad-gita:18.57, tea:bhagavad-gita:18.58, tea:bhagavad-gita:18.59, tea:bhagavad-gita:18.60, tea:bhagavad-gita:18.61, tea:bhagavad-gita:18.62, tea:bhagavad-gita:18.63, tea:bhagavad-gita:18.66, tea:bhagavad-gita:18.73, tea:bhagavad-gita:18.78 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:16 IST._

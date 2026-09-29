@@ -26,4 +26,4 @@ teachers: [P. A. Payutto](../teachers/payutto.md) · disputes: [Does dependent o
 
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:16 IST._

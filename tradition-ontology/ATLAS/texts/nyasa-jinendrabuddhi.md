@@ -18,4 +18,4 @@ Jinendrabuddhi's sub-commentary on the Kāśikāvṛtti.
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:eBharati:kAshikAvRttiH_prathamo_bhAgaH_nyAsa-padamanjarIsah, https://www.wisdomlib.org/definition/jinendrabuddhi — Low-confidence entry confirmed. Jinendrabuddhi's Kāśikāvivaraṇapañjikā (Nyāsa) is held locally in the Kāśikā edition with Nyāsa and Padamañjarī. Wisdomlib calls him a Buddhist grammarian of the 8th c. (c. 800–850).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:16 IST._

@@ -20,4 +20,4 @@
 _Notes: The maxims 'nādevo devam arcayet' / 'śivo bhūtvā śivaṃ yajet' are recalled from ritual manuals, not anchored to a verse here (no rests_on)._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:16 IST._

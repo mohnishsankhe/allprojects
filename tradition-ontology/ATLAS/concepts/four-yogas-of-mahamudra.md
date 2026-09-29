@@ -15,4 +15,4 @@
 - corresponds-to-in-map → [The ten grounds (bhūmi) of the Daśabhūmika](ten-bhumis.md): correlations with the paths and grounds differ between Kagyu masters (dsp:four-yogas-and-the-grounds) — rests on [pt.2/7](../texts/moonbeams-of-mahamudra.md#tea-moonbeams-of-mahamudra-pt-2-7)
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

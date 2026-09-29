@@ -25,4 +25,4 @@ Graded: palm-worship of the iṣṭaliṅga excels pedestal worship; the inner l
 **The traditions' own objections:** The vacana strand does not treat temple worship as a lower stage but rejects it; temple Śaivism does not accept the iṣṭaliṅga as replacing public worship.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:16 IST._

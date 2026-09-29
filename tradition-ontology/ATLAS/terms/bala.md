@@ -19,4 +19,4 @@
 **Related:** [ojas](ojas.md), [śrīvidyā](srividya.md), [indriya](indriya.md), [bodhipakkhiyā dhammā](bodhipakkhiya-dhamma.md)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U23-sakta-srividya, skeleton:U36-pali-suttas, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U23-sakta-srividya, skeleton:U36-pali-suttas, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:16 IST._

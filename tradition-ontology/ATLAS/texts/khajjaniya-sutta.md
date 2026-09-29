@@ -30,4 +30,4 @@ terms: [rūpa](../terms/rupa.md) · concepts: [The five aggregates](../concepts/
 _Notes: SuttaCentral uid sn22.79; Mahāsaṅgīti title 'Khajjanīyasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

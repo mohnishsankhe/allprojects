@@ -18,4 +18,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - The same verse: not worth a sixteenth of well-taught dharma. — [Uttarādhyayana Sūtra](../texts/uttaradhyayana-sutra.md) 9.44
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:16 IST._

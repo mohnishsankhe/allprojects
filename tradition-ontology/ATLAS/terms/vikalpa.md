@@ -32,4 +32,4 @@
 
 - text: J fidelity check: Aligned with the corrected 1.18 (masculine kalpitaḥ agrees with vikalpaḥ).
 
-_Contributed by: extraction:mandukya-karika/all, skeleton:U41-yogacara-pramana, skeleton:U10-yoga, skeleton:U19-kashmir-saivism, skeleton:U40-madhyamaka, skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all, skeleton:U41-yogacara-pramana, skeleton:U10-yoga, skeleton:U19-kashmir-saivism, skeleton:U40-madhyamaka, skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

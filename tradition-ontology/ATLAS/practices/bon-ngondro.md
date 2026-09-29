@@ -13,4 +13,4 @@ Preliminaries of the Zhang Zhung Nyengyü and other cycles: impermanence, refuge
 _Notes: Optional (Bön)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:16 IST._

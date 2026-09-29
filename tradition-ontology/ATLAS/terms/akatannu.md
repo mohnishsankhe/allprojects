@@ -22,4 +22,4 @@
 - literal: Ordinary sense first; the play is resolved by the verse itself only in 383.
 - definitions.0.definition: Consistency with the fix of 97 (commentarial praise-sense kept out of the plain sense).
 
-_Contributed by: extraction:dhammapada/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:dhammapada/all. Generated 2026-09-29 23:16 IST._

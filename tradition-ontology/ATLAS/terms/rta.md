@@ -20,4 +20,4 @@
 _Notes: Scholarly metadata only (not used in interpretation): cognate of Avestan aṣ̌a/arta._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads. Generated 2026-09-29 23:16 IST._

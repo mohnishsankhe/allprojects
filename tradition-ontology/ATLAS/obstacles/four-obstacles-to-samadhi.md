@@ -19,4 +19,4 @@ The four faults named by commentators for the Kārikā 3.42–3.45: laya, vikṣ
 
 - 2026-09-29 text: confirmed — tea:mandukya-karika:3.42, tea:mandukya-karika:3.43, tea:mandukya-karika:3.44, tea:mandukya-karika:3.45, tea:mandukya-karika:3.46 — Confirmed: the fourfold list is the commentators' (Vedāntasāra) name for the counsel of GK 3.42–3.45, as the shard description says; data's 'Dullness (laya)' and 'latent attachment (kaṣāya)' are glosses. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all, skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all, skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

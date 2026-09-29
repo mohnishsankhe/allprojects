@@ -19,4 +19,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - Draw the breath in slowly and release it slowly; do not hold it excessively nor release it quickly. — [Gorakṣaśataka](../texts/goraksasataka.md) 51
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:16 IST._

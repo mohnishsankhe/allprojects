@@ -24,4 +24,4 @@
 _Notes: Also: ekatva_
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U07-puranas, skeleton:U23-sakta-srividya, skeleton:U17-pasupata-kapalika, skeleton:U04-minor-upanisads, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U07-puranas, skeleton:U23-sakta-srividya, skeleton:U17-pasupata-kapalika, skeleton:U04-minor-upanisads, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-29 23:16 IST._

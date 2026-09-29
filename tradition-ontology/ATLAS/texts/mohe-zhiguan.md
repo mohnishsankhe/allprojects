@@ -57,4 +57,4 @@ teachers: `tch:zhiyi`
 _Notes: Minimal entry by U51 for the six-identities teachings; the owner of lin:tiantai (U54) should complete it._
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:16 IST._

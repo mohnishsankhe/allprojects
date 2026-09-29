@@ -9,4 +9,4 @@
 With Huike one of Bodhidharma's two disciples named in the Xu gaoseng zhuan.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

@@ -15,4 +15,4 @@ Explanatory tantra of the Cakrasaṃvara describing the movement of the yoginīs
 _Notes: Tōh number not confirmed (the local catalogue shows Tōh 375 without a title)._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:16 IST._

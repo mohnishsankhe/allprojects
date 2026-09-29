@@ -20,4 +20,4 @@ Squatting in utkaṭāsana in water up to the navel with a tube in the anus, one
 - The six acts, which purify the body, are to be kept secret. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 2.23
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:16 IST._

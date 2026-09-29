@@ -20,4 +20,4 @@ _Notes: Contribution from the HYP text only (ref 1.2)._
 
 - 2026-09-29 text: confirmed — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids).
 
-_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U28-hatha-texts, skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U28-hatha-texts, skeleton:U21-natha-aghora. Generated 2026-09-29 23:16 IST._

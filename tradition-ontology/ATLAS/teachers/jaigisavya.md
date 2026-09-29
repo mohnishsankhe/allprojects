@@ -16,4 +16,4 @@ _Notes: The Mahābhārata also tells of Jaigīṣavya (with Asita Devala) — fr
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.222.3-4 (spelled jaigīsavya in the e-text), 9.49.5-60 — Located as described.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U05-gita-epic, skeleton:U09-samkhya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U05-gita-epic, skeleton:U09-samkhya. Generated 2026-09-29 23:16 IST._

@@ -14,4 +14,4 @@
 _Notes: Cross-tradition debate: dsp:women-caste-liberation (U50) and dsp:womens-bodies-and-buddhahood._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:16 IST._

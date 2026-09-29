@@ -26,4 +26,4 @@ If the yogin falls short, the effort is carried into a later birth (6.40–45).
 
 - 2026-09-29 text: corrected — tea:bhagavad-gita:6.3, tea:bhagavad-gita:6.4, tea:bhagavad-gita:6.10, tea:bhagavad-gita:6.18, tea:bhagavad-gita:6.20, tea:bhagavad-gita:6.23, tea:bhagavad-gita:6.27, tea:bhagavad-gita:6.28, tea:bhagavad-gita:6.29, tea:bhagavad-gita:6.15, tea:bhagavad-gita:6.45, tea:bhagavad-gita:6.1, tea:bhagavad-gi — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 23:16 IST._

@@ -110,4 +110,4 @@ teachers: [Basava](../teachers/basava.md)
 _Notes: aṅkita (signature): Kūḍalasaṅgamadēva. Cited by incipit; edition numbering to be fixed in Phase D._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:16 IST._

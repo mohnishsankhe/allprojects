@@ -134,4 +134,4 @@ terms: [tat tvam asi](../terms/tat-tvam-asi.md), [jahad-ajahal-lakṣaṇā (bh�
 _Notes: Commentaries: Nṛsiṃha Sarasvatī's Subodhinī (1588), Rāmatīrtha's Vidvanmanorañjanī._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Caste among devotees](virasaiva-caste-critique.md) (social ethics): parallel critique in the vacanas
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:16 IST._

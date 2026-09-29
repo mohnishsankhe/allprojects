@@ -24,4 +24,4 @@ The book of Śalya: the last day of battle, Balarāma's pilgrimage along the Sar
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_9.json (BORI Critical Edition text) book 9: 64 chapters — Book 9 has exactly 64 chapters in the local Critical Edition text, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:16 IST._

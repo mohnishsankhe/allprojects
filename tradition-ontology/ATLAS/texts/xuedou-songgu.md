@@ -15,4 +15,4 @@
 Xuedou Chongxian's selection of a hundred cases with his verse comments, the basis of the Blue Cliff Record.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

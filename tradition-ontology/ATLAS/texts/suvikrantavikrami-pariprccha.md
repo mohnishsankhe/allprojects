@@ -13,4 +13,4 @@
 The Perfection of Wisdom in 2,500 lines, in answer to the bodhisattva Suvikrāntavikrāmin: wisdom is the non-apprehension of all dharmas; the bodhisattva does not course in anything.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:16 IST._

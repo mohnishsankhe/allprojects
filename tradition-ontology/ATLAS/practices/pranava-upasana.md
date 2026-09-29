@@ -29,4 +29,4 @@ Meditate on the self as Om; Om is the bow, the self the arrow, brahman the targe
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.13 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering), text:sources_raw/prepared/mandukya-upanisad/segments. — All 7 Upaniṣad refs cited in the entry are located in the prepared segments (MuU 2.2.3-6; ŚU 1.14; PrU 5; KU 1.2.15-17; ŚU 1.13-14; MāU 1-12; MaiU 6.22-24). It rests on 11 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch07-09, skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch07-09, skeleton:U13-advaita. Generated 2026-09-29 23:16 IST._

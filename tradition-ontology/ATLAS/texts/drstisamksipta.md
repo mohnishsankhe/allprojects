@@ -112,4 +112,4 @@ concepts: [View, meditation, conduct and fruition](../concepts/view-meditation-c
 _Notes: Tōh 2304._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:16 IST._

@@ -36,4 +36,4 @@ Nimbārka tradition: Rādhā is Kṛṣṇa's eternal consort worshipped on his 
 **Queue:** RQ-U16-4
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:16 IST._

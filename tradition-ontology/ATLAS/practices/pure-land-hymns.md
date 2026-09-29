@@ -12,4 +12,4 @@ Worship and hymns of praise to Amitābha at the six periods of day and night (Sh
   - [Verses in Praise of Amitābha Buddha](../texts/zan-amituo-fo-ji.md) — ref: whole; rests_on: ["tea:zan-amituo-fo-ji:420c18-421a11"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

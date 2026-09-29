@@ -11,4 +11,4 @@ Guru and disciple who give and receive without testing each other both become pi
   - [Kulārṇava Tantra](../texts/kularnava-tantra.md) — ref: 14.9-14; 2.36; rests_on: ["tea:kularnava-tantra:14.9-14", "tea:kularnava-tantra:2.36"]
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:16 IST._

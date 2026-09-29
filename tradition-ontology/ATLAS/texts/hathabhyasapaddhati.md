@@ -32,4 +32,4 @@ concepts: [The eighty-four postures taught by Śiva (HYP)](../concepts/eighty-fo
 _Notes: Known mainly through J. Birch's studies (recalled). Author name, count of postures and provenance low confidence._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:16 IST._

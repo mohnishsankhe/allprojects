@@ -7,4 +7,4 @@
 U31 contribution: the Haridāsa singer-saint remembered as the 'grandfather' (pitāmaha) of Karṇāṭaka music, who fixed its elementary lessons and made singing the Lord's name the core of practice.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:16 IST._

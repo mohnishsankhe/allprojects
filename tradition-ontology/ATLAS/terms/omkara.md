@@ -25,4 +25,4 @@
 - 2026-09-29 text: confirmed — tea:mandukya-upanisad:1, tea:mandukya-upanisad:8, tea:mandukya-upanisad:12 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:9.17 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:mandukya-karika/all, extraction:mandukya-upanisad/all, extraction:bhagavad-gita/ch07-09, skeleton:U17-pasupata-kapalika, skeleton:U04-minor-upanisads. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all, extraction:mandukya-upanisad/all, extraction:bhagavad-gita/ch07-09, skeleton:U17-pasupata-kapalika, skeleton:U04-minor-upanisads. Generated 2026-09-29 23:16 IST._

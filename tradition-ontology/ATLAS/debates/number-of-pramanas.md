@@ -111,4 +111,4 @@ What the schools agree is known (a fire from smoke, an absence of a pot, a word'
 _Notes: Corrections to the brief's list: the Jains are two (pratyakṣa, parokṣa), not three; Viśiṣṭādvaita, Dvaita and the Pāśupatas also count three; Caraka four (with yukti); the Paurāṇika eight is confirmed from the Dinakarī doxography, which also groups the Bhāṭṭas and Vedāntins at six. Cārvāka sides contributed by U33 are included verbatim._
 
 ---
-_Contributed by: skeleton:U50-debates, skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U50-debates, skeleton:U33-sramana. Generated 2026-09-29 23:16 IST._

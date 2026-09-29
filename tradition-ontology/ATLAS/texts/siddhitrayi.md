@@ -17,4 +17,4 @@ Utpaladeva's three short 'proofs': of the non-inert knower (Ajaḍapramātṛsid
 _Notes: Distinct from Yāmuna's Siddhitraya (src:siddhitraya)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:16 IST._

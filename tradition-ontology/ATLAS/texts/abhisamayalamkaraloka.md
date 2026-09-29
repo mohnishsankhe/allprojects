@@ -21,4 +21,4 @@ Haribhadra's great commentary on the Perfection of Wisdom in 8,000 lines read th
   - kind: original; name: Tibetan: Derge D3791
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:16 IST._

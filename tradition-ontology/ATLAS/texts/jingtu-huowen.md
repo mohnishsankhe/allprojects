@@ -30,4 +30,4 @@ terms: [weixin jingtu (mind-only Pure Land)](../terms/weixin-jingtu.md), [zixing
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

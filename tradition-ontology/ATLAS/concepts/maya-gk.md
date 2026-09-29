@@ -16,4 +16,4 @@
 
 - 2026-09-29 text: partially-confirmed — tea:mandukya-karika:1.16, tea:mandukya-karika:1.17, tea:mandukya-karika:2.12, tea:mandukya-karika:2.19, tea:mandukya-karika:2.31, tea:mandukya-karika:4.44, tea:mandukya-karika:4.58, tea:mandukya-karika:4.59, tea:mandukya-karika:4.69 — Content matches the cited verses. Rename NOT confirmed: data cpt:maya already carries this sense (its lin:advaita-vedanta definition already rests on tea:mandukya-karika:1.17 (though worded after Vivekacūḍāmaṇi); the extractor also kept trm:maya for the same sense); fold into cpt:maya at merge. Level not raised (entities are not promoted by the spot-check).
 
-_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all. Generated 2026-09-29 23:16 IST._

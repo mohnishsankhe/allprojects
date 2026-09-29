@@ -22,4 +22,4 @@
 MN 24 names the seven and the chariot simile; the Visuddhimagga builds its entire structure on them. The last stage (anupādā parinibbāna) is the goal MN 24 names and is added to close the map.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:16 IST._

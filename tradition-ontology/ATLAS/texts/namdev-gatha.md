@@ -50,4 +50,4 @@ concepts: [Viṭṭhala of Paṇḍharpūr](../concepts/vitthala-of-pandharpur.m
 
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:16 IST._

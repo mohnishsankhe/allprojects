@@ -24,4 +24,4 @@
 **Related:** [attavāda](attavada.md), [taṇhā](tanha.md), [skandha](skandha.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U40-madhyamaka, skeleton:U08-agama-catalogue, skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U40-madhyamaka, skeleton:U08-agama-catalogue, skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

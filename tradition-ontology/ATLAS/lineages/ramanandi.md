@@ -55,4 +55,4 @@ _none recorded_
 [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md), [Should consecrated images of the Jinas be worshipped?](../debates/image-worship-and-inner-worship.md), [Was Kabīr a disciple of Rāmānanda?](../debates/kabir-guru-ramananda.md), [Was Kabīr a Hindu or a Muslim?](../debates/kabir-identity-hindu-or-muslim.md), [Is the Rām of the Sants the avatāra, Rāma son of Daśaratha?](../debates/kabir-ram-and-the-avatara.md), [Is the Rāma whose name saves the embodied son of Daśaratha, or a formless Rām who was never born?](../debates/rama-of-the-name.md), [Does the Rāmānandī order descend from Rāmānuja's Śrīvaiṣṇava lineage, or is it an independent sampradāya founded by Rāmānanda with its own line from Rāma?](../debates/ramanandi-descent-from-ramanuja.md), [Is the ultimate personal and with qualities (saguṇa), impersonal and without qualities (nirguṇa), or both?](../debates/saguna-nirguna.md)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:16 IST._

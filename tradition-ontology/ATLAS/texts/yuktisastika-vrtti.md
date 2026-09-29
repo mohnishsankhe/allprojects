@@ -16,4 +16,4 @@ Candrakīrti's commentary on Nāgārjuna's Sixty Verses on Reasoning.
   - kind: translation; name: Tibetan translation, Derge Tengyur D3864 (rigs pa drug cu pa'i 'grel pa) — catalog:Derge-Tengyur:D3864
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:16 IST._

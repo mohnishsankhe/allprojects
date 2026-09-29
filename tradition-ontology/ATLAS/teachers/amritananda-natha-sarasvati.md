@@ -9,4 +9,4 @@
 20th-c. Śrīvidyā teacher who founded the Devīpuram temple in Andhra with a walk-in Śrī Meru, and taught Śrīvidyā worship widely, including to women and non-Brahmins.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:16 IST._

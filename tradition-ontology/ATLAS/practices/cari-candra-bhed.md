@@ -15,4 +15,4 @@ Restricted practice: recorded as a summary only (name, sources and the texts' ow
 - Secret; never to be attempted without a guru; ruin follows otherwise. — [Bāul gān (the corpus of Bāul songs of other masters)](../texts/baul-gan.md) 
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:16 IST._

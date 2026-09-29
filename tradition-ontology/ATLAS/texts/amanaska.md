@@ -58,4 +58,4 @@ concepts: [Tāraka and amanaska yoga](../concepts/taraka-amanaska.md)
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:16 IST._

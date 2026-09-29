@@ -18,4 +18,4 @@ Sinking into dull, indeterminate blankness or running into confused thought; cal
 - partial: [The five hindrances (nīvaraṇa)](five-hindrances.md) — Dullness and scattering correspond to sloth-torpor and restlessness among the five hindrances.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:16 IST._

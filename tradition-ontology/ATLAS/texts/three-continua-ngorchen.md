@@ -29,4 +29,4 @@ terms: ['khor 'das dbyer med](../terms/khordey-yerme.md), [kun gzhi rgyu rgyud](
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:16 IST._

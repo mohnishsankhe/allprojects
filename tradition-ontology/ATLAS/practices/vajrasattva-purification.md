@@ -18,4 +18,4 @@ Vajrasattva is visualized above the head; with the four powers (support, regret,
 _Notes: The mantra's occurrence in the Tattvasaṃgraha is recalled, not checked; the preliminary-practice use is chiefly documented in Tibetan sources._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon, skeleton:U46-kagyu, skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U45-nyingma-bon, skeleton:U46-kagyu, skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:16 IST._

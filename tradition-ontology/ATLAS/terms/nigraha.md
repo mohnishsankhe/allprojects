@@ -22,4 +22,4 @@
 - 2026-09-29 text: confirmed — tea:mandukya-karika:3.34, tea:mandukya-karika:3.40, tea:mandukya-karika:3.41, tea:mandukya-karika:3.42 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.34, tea:bhagavad-gita:6.35 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:mandukya-karika/all, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:mandukya-karika/all, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 23:16 IST._

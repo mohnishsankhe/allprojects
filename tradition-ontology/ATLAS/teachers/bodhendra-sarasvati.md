@@ -11,4 +11,4 @@ Head of the Kāñcī Kāmakoṭi maṭha in its own succession list, remembered 
 _Notes: Works on the divine name are ascribed to him; titles not recorded here (uncertain)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:16 IST._

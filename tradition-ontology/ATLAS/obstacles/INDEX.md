@@ -1,6 +1,6 @@
 # Obstacles (636)
 
-skeleton: 505 · sourced: 131
+skeleton: 504 · sourced: 132
 
 - ['I and mine' as māyā](maya-i-and-mine.md) — `skeleton`
 - ['I' and 'mine' (yāṉ, eṉatu)](yan-enatu.md) — `skeleton`
@@ -491,6 +491,7 @@ skeleton: 505 · sourced: 131
 - [The fraudulent astrologer](kuhaka-daivajna.md) — `skeleton`
 - [The gross downfalls](gross-downfalls.md) — `skeleton`
 - [The ground (entrenchment) of ignorance (avidyāvāsabhūmi)](ground-of-ignorance.md) — `skeleton`
+- [The hardships (parīṣaha) — summary only](twenty-two-parisahas.md) — `sourced`
 - [The heresy of 'settled ten kalpas ago' (jikkō anjin)](jikko-anjin.md) — `skeleton`
 - [The householder's five slaughter-places](panca-suna.md) — `sourced`
 - [The imperfections of concentration](samadhi-upakkilesa.md) — `skeleton`
@@ -586,7 +587,6 @@ skeleton: 505 · sourced: 131
 - [The twenty-five faults of singers](gayaka-dosas.md) — `skeleton`
 - [The twenty-one grave faults (śabala)](sabala-dosas.md) — `skeleton`
 - [The twenty-one kinds of pain](twenty-one-kinds-of-pain.md) — `skeleton`
-- [The twenty-two hardships](twenty-two-parisahas.md) — `skeleton`
 - [The two deeds (iruviṉai)](iruvinai.md) — `skeleton`
 - [The two extremes: eternalism and annihilationism](eternalism-annihilationism.md) — `skeleton`
 - [The two nooses of dharma and adharma](dharma-adharma-pasa.md) — `skeleton`

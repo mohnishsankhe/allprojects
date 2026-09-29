@@ -11,4 +11,4 @@
 Author of Tātparyavṛtti commentaries on Kundakunda's Samayasāra, Pravacanasāra and Pañcāstikāya, using a longer recension than Amṛtacandra's.
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:16 IST._

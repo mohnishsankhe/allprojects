@@ -24,4 +24,4 @@
 _Notes: Intra-Buddhist; linked to dsp:is-there-a-self (U50) and dsp:pudgala (U38)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:16 IST._

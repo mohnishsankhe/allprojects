@@ -15,4 +15,4 @@
 Band B5 for shinjin is interpretive: Shinshū itself speaks of entering the stage of the truly settled, not of 'seeing'; it would object to equating shinjin with a meditative insight.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:16 IST._

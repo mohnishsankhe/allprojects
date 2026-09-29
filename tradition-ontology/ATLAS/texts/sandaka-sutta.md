@@ -46,4 +46,4 @@ concepts: [The three Ājīvika leaders](../concepts/ajivika-three-leaders.md) ·
 _Notes: Section numbers follow SuttaCentral (bilara) segmentation; checked against the local e-text._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:16 IST._

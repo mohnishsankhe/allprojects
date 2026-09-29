@@ -1,12 +1,13 @@
 # dhyāna
 
-`trm:dhyana` · `sourced` · confidence moderate
+`trm:dhyana` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** ध्यान
 **Literal:** meditation
 
 ## Definitions by tradition
+- [Jainism (Jaina dharma)](../lineages/jainism.md): In Jainism (TS 9.27) the restraining of thought on one point, for one of the best constitution, up to an antarmuhūrta; fourfold: ārta, raudra, dharmya, śukla (9.28), the last two causes of liberation (9.29).
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): The one-pointedness (ekatānatā) of cognition (pratyaya) in that place (3.2); in the bhāṣya, a like flow untouched by any other cognition.
 - [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md): Sustained meditation on Viṣṇu with his qualities, according to one's fitness, which produces direct knowledge; not a mere subsidiary of hearing.
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): Meditation: the continuous flow of a single cognition on the place of concentration (3.2); the means of abandoning the afflictions' activities (2.11).
@@ -39,8 +40,9 @@
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:tattvartha-sutra:9.27, tea:tattvartha-sutra:9.28, tea:tattvartha-sutra:9.29 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 - 2026-09-29 text: partially-confirmed — tea:yoga-sutra:3.2, tea:yoga-bhasya:3.2, tea:yoga-sutra:3.4, tea:yoga-bhasya:3.4, tea:yoga-sutra:3.7, tea:yoga-bhasya:3.7 — Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.6, tea:bhagavad-gita:12.12 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.25 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:yoga-sutra/p3-4, skeleton:U15-dvaita, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U07-puranas, skeleton:U09-samkhya, skeleton:U28-hatha-texts, skeleton:U42-chan-zen, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka, skeleton:U04-minor-upanisads, skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._
+_Contributed by: extraction:tattvartha-sutra/ch9-10-plus, extraction:yoga-sutra/p3-4, skeleton:U15-dvaita, skeleton:U10-yoga, skeleton:U02-brahmana-vedanga, skeleton:U07-puranas, skeleton:U09-samkhya, skeleton:U28-hatha-texts, skeleton:U42-chan-zen, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka, skeleton:U04-minor-upanisads, skeleton:U38-early-schools. Generated 2026-09-29 23:16 IST._

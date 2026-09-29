@@ -28,4 +28,4 @@ Nārāyaṇa-Vāsudeva is supreme: the culmination seen in all five systems, inc
 _Notes: Low–moderate confidence on the Kirāta episode's chapter range (3.38–41)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:16 IST._
