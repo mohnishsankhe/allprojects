@@ -293,3 +293,14 @@ Conservative choices made without asking, with reasons. Newest last.
 - **user_facing convention (one rule for both layers).** Citation status is computed at load time by the app: each citation is kept only if it resolves to a sourced or text-verified, non-restricted teaching. The field user_facing:false is kept only for manual exclusion; it no longer records a transient citation state, so the analyst's 34 false flags were reset to true.
 - **Stricter rule for practices.** A practice is usable only if EVERY one of its warnings still has a citable citation, so a practice is never shown with part of its texts' cautions missing. Pathways use gentle-tier practices only.
 - **Current state:** 22 practices usable, 13 of them gentle. This rises as the Yoga Sūtra, Visuddhimagga, Māṇḍūkya and Dhammapada judges promote their texts.
+
+## 2026-09-29 22:27 IST — Mapping rules (onto-deep; rules/mapping_rules.json + MAPPING_RULES.md)
+- Code decides strength, confidence, citations and caps; a model's own confidence or citation is ignored. Zero mappings is a valid result, and nothing is ever inferred from the absence of a mapping.
+- Conservative v1 choices:
+  - English only.
+  - Single quotes are not treated as quotation marks.
+  - Dialogue-only readings cap at low confidence; model-paraphrase-only mappings cap at moderate.
+- **Never mapped:** sheath, vital-current and state-of-consciousness kinds; attainments; entries the texts make true of everyone not yet free (avidyā as the field, identity view, the five vṛttis); bodily entries.
+- **Temperament** needs 3+ cues from 2+ markers across 3+ units and tops out at moderate, as the Visuddhimagga's own caution warrants. **Guṇa** tops out at moderate.
+- **YS 2.4 states:** only udāra may ever be attached, under strict conditions.
+- rules/specificity.json (mine) and the specificity section of the mapping rules overlap. The mapping rules govern mappings; specificity.json governs report insights. Both apply.
