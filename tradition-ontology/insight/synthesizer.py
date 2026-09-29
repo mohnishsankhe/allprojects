@@ -16,7 +16,7 @@ from __future__ import annotations
 import json
 from typing import Optional
 
-from . import claims, ontology
+from . import claims, config, ontology
 from .llm import LLMError, Ledger, ModelClient, wrap_user_text
 
 LENS_OF = {"vedic-yogic": "vedic", "ascetic-buddhist": "ascetic", "ascetic-jain": "ascetic"}
@@ -90,7 +90,9 @@ def _corr_rows() -> list[dict]:
     if not t:
         return []
     rows = t.get("rows") if isinstance(t, dict) else t
-    return [r for r in rows or [] if isinstance(r, dict)]
+    # only rows the table itself marks user-facing (every cite citable, computed by the table's build script)
+    excl = set((config.json_file("rules/synthesis_rules.json") or {}).get("exclude_rows") or {})
+    return [r for r in rows or [] if isinstance(r, dict) and r.get("user_facing") is True and r.get("id") not in excl]
 
 
 def _row_members(r: dict) -> set:
@@ -101,8 +103,8 @@ def _row_members(r: dict) -> set:
             for x in v:
                 if isinstance(x, str):
                     mem.add(x)
-                elif isinstance(x, dict):
-                    mem.update(str(x.get(kk)) for kk in ("dx_id", "id") if x.get(kk))
+                elif isinstance(x, dict) and x.get("user_facing", True) is not False:
+                    mem.update(str(x.get(kk)) for kk in ("dx", "dx_id", "id") if x.get(kk))
     return {x for x in mem if x.startswith("dx:")}
 
 
@@ -123,15 +125,18 @@ def _rec_from_rows(maps: list[dict], dx: dict, mapped_ids: set) -> tuple[list, l
         refs = sorted({e["qid"] for m in hit for e in m.get("evidence") or []})
         cites = [c for c in (r.get("cites") or []) if ontology.citable(c)]
         names = [dx[x]["name"] for x in sorted(mem) if x in dx][:4]
-        basis = BASIS_OF_PRINCIPLE.get(str(r.get("principle") or "").split(" ")[0])
-        agree = r.get("agreement") or r.get("common") or r.get("shared") or ""
-        differ = r.get("differs") or r.get("what_differs") or r.get("difference") or ""
+        pr = r.get("principle")
+        basis = BASIS_OF_PRINCIPLE.get(str(pr.get("id") if isinstance(pr, dict) else (pr or "")).split(" ")[0])
+        agree = r.get("what_is_shared") or r.get("agreement") or ""
+        differ = r.get("what_differs") or r.get("differs") or ""
         if basis and cites and refs:
-            text = _clean(f"{', '.join(names)}: {agree or 'the texts name a closely related pattern'}. "
-                          f"Under the one-truth principle, {BASIS_WORDS[basis]}.")
+            text = _clean(f"{agree.rstrip('.') or 'The texts name a closely related pattern'}. Under the one-truth "
+                          f"principle, {BASIS_WORDS[basis]}: the match is {GRADE_WORDS.get(r.get('grade'), 'partial')}, "
+                          f"not an identity.")
             points.append({"text": text, "basis": basis, "cites": cites, "evidence_refs": refs, "row": key})
         if differ and cites and refs:
-            diffs.append({"text": _clean(differ), "cites": cites, "evidence_refs": refs, "row": key})
+            diffs.append({"text": _clean(differ), "cites": cites, "evidence_refs": refs, "row": key,
+                          "members": sorted(mem)})
     return points, diffs
 
 
@@ -187,6 +192,9 @@ def rules_synthesis(maps: list[dict]) -> dict:
                             f"enough, in their own terms, for this reading to say more.")
     rec_points, rec_diffs = _rec_from_rows(maps, dx, mapped_ids)
     seen = set()
+    for d in rec_diffs:     # a table row already states the difference for every pair among its members
+        mem = d.get("members") or []
+        seen |= {tuple(sorted((a, b))) for a in mem for b in mem if a != b}
     rec_diffs += _rec_from_equivalences(maps, dx, mapped_ids, seen)
     names = [f"{m['name']}, in the {m['lens_label']} texts" for m in maps]
     summary = ("You described " + ("a pattern" if len(maps) == 1 else f"{len(maps)} patterns")

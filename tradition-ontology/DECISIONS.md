@@ -338,3 +338,17 @@ Conservative choices made without asking, with reasons. Newest last.
 - **Frame text shown to users.** The Pali originals keep the edition's story titles ("…vatthu"), chapter colophons and end tables, because the text layer must equal the segment. The app now strips these from what it shows, and shows once a verse the edition prints twice (Dhp 416). This is done by insight/ontology.display_original(); the text layer is unchanged.
 - **Level tags for persons** (89, 92, 93, 95; 154, 179, 180, 353): conventional, consistent with the Māṇḍūkya decision.
 - **VBT extraction (Role S)** is in: 167 teachings; 18 restricted verses kept summary-only (breath-filling, rising power, fire and poison, whirling and others, flagged conservatively); 23 low-confidence entries. The VBT judge is running.
+
+## 2026-09-29 22:50 IST — Reconciliation tables (layers/tables/) and how readings use them
+- **Three tables, built and validated by code** (layers/_gen/tables/):
+  - obstacle correspondence: 16 rows, 14 user-facing, every one graded partial;
+  - one-truth: RV 1.164.46 as the first principle, 8 rows, 5 user-facing;
+  - path-map: 8 maps, 77 stage rows, 43 user-facing.
+  A row is user-facing only when every one of its cites is citable, and the build script computes this.
+- **Readings use only user-facing obstacle rows.** Every such row is related under P2-standpoint, so in v1 a reading's reconciliation points have the basis "standpoint", and each says the match is partial, not an identity. The level, path and stage bases are supported by the schema and by the model engine, but only with packet cites. No basis is inferred.
+- **Held out of readings until reviewed** (rules/synthesis_rules.json): oc:avirati and oc:pramada-pamada, because the same word carries different senses across the lenses. This is the conservative choice.
+- **The self-question** (Jain jīva, Yoga puruṣa, Upaniṣadic ātman, Theravāda not-self) goes to onto-deep as one bounded question. The other hard items go to NEXT_STEPS, because v1 readings do not show them: the B7 band, negation across traditions, Gītā inclusivism, and bands that run against a tradition's own order.
+- **Errors found in other files, for NEXT_STEPS:**
+  - config/data_model.md puts dharmamegha at B8, but YS 4.29 puts it before kaivalya;
+  - the eight-limbs stages in paths.json lost their rests_on;
+  - diagnosis.json cites GK 3.35, 3.42 and 3.43 and TS 9.30–33 as ids that data/ does not have.

@@ -1,0 +1,11 @@
+{
+  "_about": "Product rules for the two-lens synthesis (ENGINE_SPEC.md §7). Tables are read-only; these rules only choose what a reading may use.",
+  "version": "2026-09-29.1",
+  "exclude_rows": {
+    "oc:avirati": "Same word, different sense: YB 1.30 avirati (greed for objects) vs TS 7.1 / 8.1 avirati (absence of vows). Held out of readings until reviewed (tables report, onto-deep item 5).",
+    "oc:pramada-pamada": "Same word, different sense across the lenses (tables report, item 5). Held out of readings until reviewed."
+  },
+  "max_differences": 6,
+  "bases": {"P1-level": "level", "P2-standpoint": "standpoint", "P3-path": "path", "P4-stage": "stage"},
+  "note": "In v1 every obstacle-correspondence row is related under P2-standpoint (computed by layers/_gen/tables), so readings show standpoint reconciliations; level, path and stage are accepted from the model engine only with packet cites."
+}
