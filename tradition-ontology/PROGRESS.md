@@ -60,11 +60,11 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U45-nyingma-bon | done | 125 src · 82 tch · 101 tea (23 read in Derge) · 43 prc (8 restricted) · 5 dsp | REPORT.md; Seventeen Tantras, Longchenpa, Bön not local |
 | U46-kagyu | done | 52 src · 74 tch · 147 tea (59 from local Derge with Wylie originals) · 45 prc (restricted six-yoga methods summary-only) · 3 dsp | REPORT.md; Tibetan-authored works not local |
 | U47-sakya-kadam-gelug | done | 84 src · 84 tch · 251 tea (66 Wylie originals from Derge: Lamdre root Tōh 2284, Atiśa) · 12 dsp | REPORT.md; Tibetan-authored works recalled |
-| U48-jonang-chod-medicine-rime | running | | |
+| U48-jonang-chod-medicine-rime | done | 51 src · 45 tch · 90 tea · 12 prc (5 restricted) · 3 dsp | REPORT.md; Four Tantras chapter refs low; Tibetan works not local |
 | U49-cross-family | running | | |
 | U50-debates | running | | |
 | U51-path-maps | running | | |
-| U52-recent-teachers | queued | | |
+| U52-recent-teachers | running | | |
 | U53-glossary-ultimate | queued | | |
 | U54-chinese-schools | queued | | |
 | U55-japan-korea-vietnam-nepal | queued | | |

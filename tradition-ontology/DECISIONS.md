@@ -197,3 +197,15 @@ Conservative choices made without asking, with reasons. Newest last.
 - The same fabricated default found in U03 appears in U04: all 95 Muktikā sources carried one Adyar edition string. That string wrongly attached Brahmayogin's commentary to Schrader's 1912 critical edition. The sweep corrected each source to the Adyar volume for its own group, with Schrader 1912 added separately for the 16 texts in his volume.
 - Overlong verse ranges were also corrected to where the content is found: Sarasvatīrahasya, Pañcabrahma, Sītā, Kṛṣṇa, Sarvasāra, Haṃsa and Mahāvākya.
 - Sweeps of later units keep the explicit instruction to look for generator defaults.
+
+## 2026-09-29 17:51 IST — U48 (Jonang, Chöd, Shije, Sowa Rigpa, Rimé) decisions (reported by the unit; recorded by the orchestrator)
+- **Sowa Rigpa family.** lin:sowa-rigpa takes family "shared": Buddhist in frame, largely Āyurvedic in content, and also used by Bön physicians. Its sub-lineages are lin:jangpa-medicine and lin:zurkharpa-medicine.
+- **Restricted content.** Mercury processing (btso thal), bloodletting and moxibustion, the Chöd body offering and haunted-place practice are recorded as summary plus the tradition's warnings only.
+- **Homonym.** Bloodletting is trm:targa, kept apart from Sanskrit trm:tarka (reasoning).
+- **Butön's lineage.** tch:buton is filed under lin:sakya and lin:kalacakra, because no Zhalu lineage exists.
+- **Opponents known only from the tradition.** In dsp:chod-orthodoxy the unnamed critics' side has lineage null, a party description and reported_by_opponent true; they are known only from the Chöd tradition's own narratives.
+- **Corrections to the brief.**
+  - Machig's root text (bka' tshoms chen mo) is distinct from the Great or Complete Explanation (phung po gzan skyur ba'i rnam bshad).
+  - Shākya Chokden was Sakya, not Jonang.
+  - Chöd is not institutionally a branch of Shije.
+  - The Four Tantras have 6 + 31 + 92 + 27 = 156 chapters.
