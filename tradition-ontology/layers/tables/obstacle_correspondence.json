@@ -1064,7 +1064,7 @@
    "principle": {
     "id": "P2-standpoint",
     "name": "Standpoint",
-    "reason": "One sorrowful turn, seen as a symptom of distraction (YB), as the occasion of teaching (BhG), and as an inauspicious kind of dwelling (TS)."
+    "reason": "One sorrowful turn, seen as a companion of distraction (YB), as the occasion of teaching (BhG), and as an inauspicious kind of dwelling (TS)."
    },
    "cites": [
     "tea:yoga-sutra:1.31",
@@ -1247,8 +1247,8 @@
    "blocked_by": []
   },
   {
-   "id": "oc:guna-carita",
-   "title": "rajas, tamas ↔ rāga-carita, moha-carita",
+   "id": "oc:rajas-raga-carita",
+   "title": "rajas ↔ rāga-carita",
    "members": [
     {
      "dx": "dx:guna-rajas",
@@ -1263,6 +1263,54 @@
      "user_facing": true
     },
     {
+     "dx": "dx:carita-raga",
+     "lens": "ascetic-buddhist",
+     "name": "Rāga-carita (greedy temperament)",
+     "group": "the six temperaments (carita; Vism III)",
+     "term": "rāga-carita (greedy temperament)",
+     "cites": [
+      "tea:visuddhimagga:3/6"
+     ],
+     "user_facing": true
+    }
+   ],
+   "lenses": [
+    "vedic-yogic",
+    "ascetic-buddhist"
+   ],
+   "grade": "partial",
+   "grade_basis": "weakest cross-lens grade among the diagnosis.json equivalences that join the members",
+   "links": [
+    {
+     "a": "dx:guna-rajas",
+     "b": "dx:carita-raga",
+     "grade": "partial",
+     "cross_lens": true
+    }
+   ],
+   "what_is_shared": "Both read a person's make-up by what predominates in it, and both mark this predominance by greed. Gītā: rajas is of the nature of passion, springs from thirst and attachment, and shows as greed, activity, restlessness and craving (BhG 14.7, 14.12). Visuddhimagga: the greedy temperament (rāga-carita) is the first of six temperaments (Vism III).",
+   "what_differs": "Rajas is a strand of prakṛti present in every being. It binds the embodied one (BhG 14.5), and one can go beyond the guṇas (BhG 14.20). The greedy temperament is a classification of persons, one of six (greedy, hating, deluded, faithful, intelligent, speculative), and the Visuddhimagga's account does not rest on prakṛti (Vism III). No reading of a guṇa or a temperament is a judgement about a person's worth or health.",
+   "principle": {
+    "id": "P2-standpoint",
+    "name": "Standpoint",
+    "reason": "Predominance is analysed from a cosmic standpoint (a strand of nature, BhG) and from a practical one (a temperament, Vism). They overlap only where greed is named in both."
+   },
+   "cites": [
+    "tea:bhagavad-gita:14.7",
+    "tea:bhagavad-gita:14.12",
+    "tea:visuddhimagga:3/6",
+    "tea:bhagavad-gita:14.5",
+    "tea:bhagavad-gita:14.20"
+   ],
+   "pending_members": [],
+   "user_facing": true,
+   "blocked_by": []
+  },
+  {
+   "id": "oc:tamas-moha-carita",
+   "title": "tamas ↔ moha-carita",
+   "members": [
+    {
      "dx": "dx:guna-tamas",
      "lens": "vedic-yogic",
      "name": "Tamas (darkness, inertia)",
@@ -1271,17 +1319,6 @@
      "cites": [
       "tea:bhagavad-gita:14.8",
       "tea:bhagavad-gita:14.13"
-     ],
-     "user_facing": true
-    },
-    {
-     "dx": "dx:carita-raga",
-     "lens": "ascetic-buddhist",
-     "name": "Rāga-carita (greedy temperament)",
-     "group": "the six temperaments (carita; Vism III)",
-     "term": "rāga-carita (greedy temperament)",
-     "cites": [
-      "tea:visuddhimagga:3/6"
      ],
      "user_facing": true
     },
@@ -1305,37 +1342,27 @@
    "grade_basis": "weakest cross-lens grade among the diagnosis.json equivalences that join the members",
    "links": [
     {
-     "a": "dx:guna-rajas",
-     "b": "dx:carita-raga",
-     "grade": "partial",
-     "cross_lens": true
-    },
-    {
      "a": "dx:guna-tamas",
      "b": "dx:carita-moha",
      "grade": "partial",
      "cross_lens": true
     }
    ],
-   "what_is_shared": "Both lenses read a person's make-up by what predominates in it. The Gītā uses the guṇas. Rajas is of the nature of passion, springs from thirst and attachment, and shows as greed, activity, restlessness and craving (BhG 14.7, 14.12). Tamas is born of ignorance and shows as darkness, inactivity, heedlessness and delusion (BhG 14.8, 14.13). The Visuddhimagga uses six temperaments (carita): greedy, hating, deluded, faithful, intelligent and speculative (Vism III).",
-   "what_differs": "The guṇas are strands of prakṛti present in every being. They bind the embodied one (BhG 14.5), and one can go beyond them (BhG 14.20). The temperaments are a classification of persons, and the Visuddhimagga's account of them does not rest on prakṛti. The counts differ too: the Gītā has three guṇas, the Visuddhimagga six temperaments. Sattva has no temperament counterpart, and the faithful, intelligent and speculative temperaments have no guṇa counterpart. No reading of a guṇa or a temperament is a judgement about a person's worth or health.",
+   "what_is_shared": "Both mark a predominance by delusion. Gītā: tamas is born of ignorance, deludes all embodied beings, and shows as darkness, inactivity, heedlessness and delusion (BhG 14.8, 14.13). Visuddhimagga: the deluded temperament (moha-carita) is one of six temperaments (Vism III).",
+   "what_differs": "Tamas is a strand of prakṛti that binds the embodied one (BhG 14.5, 14.8), and one can go beyond the guṇas (BhG 14.20). The deluded temperament is a classification of persons, and the Visuddhimagga's account does not rest on prakṛti (Vism III). The Gītā has three guṇas, the Visuddhimagga six temperaments; sattva has no temperament counterpart. No reading of a guṇa or a temperament is a judgement about a person's worth or health.",
    "principle": {
     "id": "P2-standpoint",
     "name": "Standpoint",
-    "reason": "Predominance is analysed from a cosmic standpoint (strands of nature, BhG) and from a practical one (temperaments, Vism). The two schemes overlap only where greed and delusion are named in both."
+    "reason": "Predominance is analysed from a cosmic standpoint (a strand of nature, BhG) and from a practical one (a temperament, Vism). They overlap only where delusion is named in both."
    },
    "cites": [
-    "tea:bhagavad-gita:14.7",
-    "tea:bhagavad-gita:14.12",
     "tea:bhagavad-gita:14.8",
     "tea:bhagavad-gita:14.13",
     "tea:visuddhimagga:3/6",
     "tea:bhagavad-gita:14.5",
     "tea:bhagavad-gita:14.20"
    ],
-   "pending_members": [
-    "dx:carita-dosa (no guṇa counterpart; hate is a Gītā mark only through desire-anger)"
-   ],
+   "pending_members": [],
    "user_facing": true,
    "blocked_by": []
   },

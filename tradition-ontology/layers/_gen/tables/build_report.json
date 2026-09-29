@@ -1,13 +1,13 @@
 {
- "obstacle_rows": 15,
- "obstacle_user_facing": 12,
+ "obstacle_rows": 16,
+ "obstacle_user_facing": 13,
  "obstacle_grades": {
-  "partial": 15
+  "partial": 16
  },
  "obstacle_members": 50,
  "obstacle_lens_coverage": {
   "3": 4,
-  "2": 11
+  "2": 12
  },
  "one_truth_rows": 8,
  "one_truth_user_facing": 5,
@@ -16,7 +16,7 @@
  ],
  "path_maps": 8,
  "path_rows": 77,
- "path_rows_user_facing": 45,
+ "path_rows_user_facing": 43,
  "path_rows_by_band": {
   "B0": 1,
   "B1": 6,
@@ -37,7 +37,7 @@
   "map:gita-12-8-12"
  ],
  "principles_used": {
-  "P2-standpoint": 17,
+  "P2-standpoint": 18,
   "P1-level": 5,
   "P3-path": 1,
   "P4-stage": 8
@@ -113,6 +113,14 @@
   ],
   [
    "tea:mulamadhyamakakarika:18.6 (skeleton)",
+   1
+  ],
+  [
+   "tea:yoga-sutra:2.32 (restricted)",
+   1
+  ],
+  [
+   "tea:yoga-sutra:2.49 (restricted)",
    1
   ],
   [
@@ -194,42 +202,8 @@
   [
    "tea:tattvartha-sutra:9.11 (skeleton)",
    1
-  ],
-  [
-   "tea:tattvartha-sutra:9.40 (skeleton)",
-   1
   ]
  ],
- "errors": [
-  "oc:raga-kamacchanda-lobha: banned word 'diagnos' in: weakest cross-lens grade among the diagnosis.json equivalences that join the members",
-  "oc:dvesa-byapada-krodha: banned word 'diagnos' in: weakest cross-lens grade among the diagnosis.json equivalences that join the members",
-  "oc:avidya-moha-mithyadarsana: banned word 'diagnos' in: weakest cross-lens grade among the diagnosis.json equivalences that join the members",
-  "oc:avidya-moha-mithyadarsana: banned word 'diagnos' in: (1) What is not seen: YS avidyā is a specific fourfold mis-taking, and its last item is ta",
-  "oc:asmita-mana-darpa: banned word 'diagnos' in: weakest cross-lens grade among the diagnosis.json equivalences that join the members",
-  "oc:asmita-mana-darpa: banned word 'diagnos' in: Asmitā is not pride. YS 2.6 names a confusion of the seer with its instrument, a structura",
-  "oc:dambha-maya: banned word 'diagnos' in: weakest cross-lens grade among the diagnosis.json equivalences that join the members",
-  "oc:styana-alasya-thina-middha: banned word 'diagnos' in: weakest cross-lens grade among the diagnosis.json equivalences that join the members",
-  "oc:styana-alasya-thina-middha: banned word 'diagnos' in: dx:gk-laya (GK 3.42 and 3.35 are cited in diagnosis.json but missing from data/)",
-  "oc:viksepa-uddhacca: banned word 'diagnos' in: weakest cross-lens grade among the diagnosis.json equivalences that join the members",
-  "oc:viksepa-uddhacca: banned word 'diagnos' in: dx:gk-viksepa (GK 3.42–43 are cited in diagnosis.json but missing from data/)",
-  "oc:samsaya-vicikiccha: banned word 'diagnos' in: weakest cross-lens grade among the diagnosis.json equivalences that join the members",
-  "oc:pramada-pamada: banned word 'diagnos' in: weakest cross-lens grade among the diagnosis.json equivalences that join the members",
-  "oc:avirati: banned word 'diagnos' in: weakest cross-lens grade among the diagnosis.json equivalences that join the members",
-  "oc:daurmanasya-visada-arta: banned word 'diagnos' in: weakest cross-lens grade among the diagnosis.json equivalences that join the members",
-  "oc:daurmanasya-visada-arta: banned word 'symptom' in: One sorrowful turn, seen as a symptom of distraction (YB), as the occasion of teaching (Bh",
-  "oc:vitarka-raudra: banned word 'diagnos' in: weakest cross-lens grade among the diagnosis.json equivalences that join the members",
-  "oc:siddhi-upakkilesa-rasasvada: banned word 'diagnos' in: weakest cross-lens grade among the diagnosis.json equivalences that join the members",
-  "oc:guna-carita: members not connected by diagnosis.json equivalences: ['dx:carita-moha', 'dx:guna-tamas']",
-  "oc:guna-carita: banned word 'diagnos' in: weakest cross-lens grade among the diagnosis.json equivalences that join the members",
-  "oc:abhinivesa-bhavatanha: banned word 'diagnos' in: weakest cross-lens grade among the diagnosis.json equivalences that join the members",
-  "pm:ys-eight-limbs:1: no cites",
-  "pm:ys-eight-limbs:2: no cites",
-  "pm:ys-eight-limbs:3: no cites",
-  "pm:ys-eight-limbs:4: no cites",
-  "pm:ys-eight-limbs:5: no cites",
-  "pm:ys-eight-limbs:6: no cites",
-  "pm:ys-eight-limbs:7: no cites",
-  "pm:ys-eight-limbs:8: no cites"
- ],
+ "errors": [],
  "warnings": []
 }

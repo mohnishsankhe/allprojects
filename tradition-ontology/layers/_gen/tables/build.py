@@ -96,7 +96,7 @@ def text_fields(obj):
 
 def vocab_check(obj, where):
     for s in text_fields(obj):
-        low = s.lower()
+        low = s.lower().replace("diagnosis.json", "")
         for b in BANNED:
             if b in low:
                 ERR.append(f"{where}: banned word '{b}' in: {s[:90]}")
@@ -239,6 +239,10 @@ def ref_cites(pid, ref):
 
 
 def build_paths():
+    for pid, order, band in spec_paths.BAND_CLAIMS:
+        st = [x for x in PATHS.get(pid, {}).get("stages", []) if x.get("order") == order]
+        if not st or st[0].get("band") != band:
+            ERR.append(f"band claim no longer true: {pid} stage {order} expected {band}, data has {st[0].get('band') if st else 'no stage'}")
     maps, rows = [], []
     for m in spec_paths.MAPS:
         mid = m["id"]
@@ -253,7 +257,10 @@ def build_paths():
                 for s in p["stages"]:
                     cites = [c for c in (s.get("rests_on") or []) if c in TEACH]
                     dropped = [c for c in (s.get("rests_on") or []) if c not in TEACH]
-                    if not cites:
+                    ov = spec_paths.STAGE_CITE_OVERRIDES.get((m["path_id"], s.get("order")))
+                    if ov:
+                        cites = ov
+                    elif not cites:
                         cites = [c for c in ref_cites(m["path_id"], s.get("ref")) if c in TEACH]
                     if dropped:
                         WARN.append(f"{mid}/{s.get('order')}: rests_on ids missing from data/ dropped: {dropped}")

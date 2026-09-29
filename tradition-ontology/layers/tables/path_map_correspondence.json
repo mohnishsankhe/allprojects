@@ -53,7 +53,7 @@
     "pm:ys-eight-limbs:11",
     "pm:ys-eight-limbs:12"
    ],
-   "user_facing_stages": 12,
+   "user_facing_stages": 10,
    "user_facing": true
   },
   {
@@ -334,7 +334,9 @@
    "ref": "YS 2.30",
    "band": "B1",
    "band_source": "data/paths.json",
-   "cites": [],
+   "cites": [
+    "tea:yoga-sutra:2.30"
+   ],
    "user_facing": true,
    "blocked_by": []
   },
@@ -347,9 +349,16 @@
    "ref": "YS 2.32",
    "band": "B1",
    "band_source": "data/paths.json",
-   "cites": [],
-   "user_facing": true,
-   "blocked_by": []
+   "cites": [
+    "tea:yoga-sutra:2.32"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:yoga-sutra:2.32",
+     "why": "restricted"
+    }
+   ]
   },
   {
    "id": "pm:ys-eight-limbs:3",
@@ -360,7 +369,9 @@
    "ref": "YS 2.46",
    "band": "B2",
    "band_source": "data/paths.json",
-   "cites": [],
+   "cites": [
+    "tea:yoga-sutra:2.46"
+   ],
    "user_facing": true,
    "blocked_by": []
   },
@@ -373,9 +384,16 @@
    "ref": "YS 2.49",
    "band": "B2",
    "band_source": "data/paths.json",
-   "cites": [],
-   "user_facing": true,
-   "blocked_by": [],
+   "cites": [
+    "tea:yoga-sutra:2.49"
+   ],
+   "user_facing": false,
+   "blocked_by": [
+    {
+     "cite": "tea:yoga-sutra:2.49",
+     "why": "restricted"
+    }
+   ],
    "safety_note": "Breath-regulation in YS includes suspension (stambha-vṛtti, YS 2.50). It stays summary-only and is never recommended. Its teachings are restricted in data/, so this stage is not user-facing."
   },
   {
@@ -387,7 +405,9 @@
    "ref": "YS 2.54",
    "band": "B3",
    "band_source": "data/paths.json",
-   "cites": [],
+   "cites": [
+    "tea:yoga-sutra:2.54"
+   ],
    "user_facing": true,
    "blocked_by": []
   },
@@ -400,7 +420,9 @@
    "ref": "YS 2.29",
    "band": "B3",
    "band_source": "data/paths.json",
-   "cites": [],
+   "cites": [
+    "tea:yoga-sutra:3.1"
+   ],
    "user_facing": true,
    "blocked_by": []
   },
@@ -413,7 +435,9 @@
    "ref": "YS 2.29",
    "band": "B4",
    "band_source": "data/paths.json",
-   "cites": [],
+   "cites": [
+    "tea:yoga-sutra:3.2"
+   ],
    "user_facing": true,
    "blocked_by": []
   },
@@ -426,7 +450,9 @@
    "ref": "YS 2.29",
    "band": "B4",
    "band_source": "data/paths.json",
-   "cites": [],
+   "cites": [
+    "tea:yoga-sutra:3.3"
+   ],
    "user_facing": true,
    "blocked_by": []
   },

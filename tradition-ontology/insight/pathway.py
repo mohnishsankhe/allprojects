@@ -108,7 +108,9 @@ def build(segs: list[dict], maps: list[dict], scr, engine: str = "rules", client
     items = []
     for p, why in chosen:
         items.append({"px_id": p["id"], "name": p["name"], "lens": p.get("lens"), "why": _why_text(p, why),
-                      "for": [m["dx_id"] for m in why], "steps": p.get("steps") or [], "duration": p.get("duration") or {},
+                      "for": [m["dx_id"] for m in why],
+                      "evidence_refs": [e["qid"] for m in why for e in (m.get("evidence") or [])[:1] if e.get("qid")],
+                      "steps": p.get("steps") or [], "duration": p.get("duration") or {},
                       "warnings": p.get("warnings") or [], "cites": p.get("cites") or []})
     if engine == "model" and client is not None and client.available() and items:
         try:

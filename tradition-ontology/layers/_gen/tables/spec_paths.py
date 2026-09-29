@@ -21,7 +21,29 @@ REF_RULES = {
     "pth:bojjhanga-sequence": ("MN 118:", "tea:anapanasati-sutta:mn118:"),
     "pth:gita-devotion-ladder": ("BhG ", "tea:bhagavad-gita:"),
     "pth:tattvartha-ten-stages-of-nirjara": ("TS ", "tea:tattvartha-sutra:"),
+    "pth:yoga-sutra-eight-limbs": ("YS ", "tea:yoga-sutra:"),
 }
+
+# per-stage cites where the data ref points only at the list verse (YS 2.29 names all eight limbs); the limb's own
+# defining sūtra is cited instead
+STAGE_CITE_OVERRIDES = {
+    ("pth:yoga-sutra-eight-limbs", 6): ["tea:yoga-sutra:3.1"],
+    ("pth:yoga-sutra-eight-limbs", 7): ["tea:yoga-sutra:3.2"],
+    ("pth:yoga-sutra-eight-limbs", 8): ["tea:yoga-sutra:3.3"],
+}
+
+# bands that the objection texts below state as facts about data/paths.json; build.py fails if the data changes
+BAND_CLAIMS = [
+    ("pth:gita-devotion-ladder", 1, "B1"),
+    ("pth:anapanasati-sixteen-steps", 12, "B5"),
+    ("pth:anapanasati-sixteen-steps", 16, "B7"),
+    ("pth:seven-purifications", 2, "B4"), ("pth:seven-purifications", 3, "B4"), ("pth:seven-purifications", 4, "B4"),
+    ("pth:seven-purifications", 5, "B4"), ("pth:seven-purifications", 6, "B4"), ("pth:seven-purifications", 7, "B5"),
+    ("pth:jain-fourteen-gunasthanas", 1, None), ("pth:jain-fourteen-gunasthanas", 2, None),
+    ("pth:jain-fourteen-gunasthanas", 3, "B0"), ("pth:jain-fourteen-gunasthanas", 4, "B5"),
+    ("pth:jain-fourteen-gunasthanas", 5, "B1"), ("pth:jain-fourteen-gunasthanas", 6, "B1"),
+    ("pth:tattvartha-ten-stages-of-nirjara", 1, "B5"), ("pth:tattvartha-ten-stages-of-nirjara", 2, "B6"),
+]
 
 MAPS = [
     {
