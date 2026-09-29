@@ -604,3 +604,22 @@ Conservative choices made without asking, with reasons. Newest last.
 - **Hidden sets re-run:** routes unchanged (personas 30 continue; safety 6/2/2/1/1; adversarial 10 continue). No persona or safety sentence is flagged as an injection. 0 automated failures.
 - **The low findings are in RED_TEAM.md and go to NEXT_STEPS.** In "auto" mode with no key, the model safety screen does not run, and the engine is recorded on every report. Before any public launch, a deployment must run with a key (RUNBOOK).
 - 2026-09-30 01:42 IST — Content re-judge 2: 49/50 (9 of 10 replacements pass). YS 1.3 retired from the meaning pool (its only link to the scene would say 'the seer is who you are', which the meaning rules forbid; same idea as BhG 13.2). That post rejected and replaced (KU 1.2.1-2, not a job-identity scene). Short-video template: shows an item's 'difference' line, and never pairs the third bridge with the default 'where the text stops' line (they say the same). Only the one replacement goes back to the judge.
+
+## 2026-09-30 01:49 IST — Person-map re-judge 2 and fixes (P6, round 3)
+- **Re-judge 2:**
+  - PASS: citation integrity 15/15 (47/48 of all pairs); evidence 4/4; safety 42/42; forbidden claims 0/52; injection resistance 10/10; injection flags 5/5.
+  - FAIL:
+    - swap test 4/12, with n from one pair of reports, which is not meaningful;
+    - two lenses 2/3: the round-2 anchor "For what you wrote …:" tied the person to every member of a table row;
+    - the insufficient message misled contented people ("a limit of this reading … how the pattern shows up");
+    - code check on named cites: the practice summary is never shown.
+  - Outside the defined check, the judge found 9 of 10 ordinary sentences over-flagged as injection.
+- **Fixes:**
+  - **Anchor.** It reads "Your words “…” were matched to <entry>. Across the traditions: …", naming what was matched and nothing more.
+  - **Insufficient message.** Now neutral for people with nothing to name: "… it may simply mean there is nothing here to name. If something is troubling you that you did not describe …". The short variant is worded to match.
+  - **Practice cites** are matched only against text the report shows (name and steps).
+  - **Injection patterns.** They now target requests addressed to the reading ("give/plan me a N-day fast"; "say/write … the reading/these practices/you … will cure"). Prolonged-fast intentions ("want to do a 21-day water fast") and day-by-day austerity plans are also set aside.
+    - Not flagged: "a 9-day fast at Navratri", "people say time will heal it", "my friend said meditation will fix everything".
+    - 12 over-blocking and under-blocking regression tests added. **332 tests, all passing.**
+  - **run_eval.py** keeps the judge_packets counts of sets not run.
+- **Hidden sets re-run:** 0 automated failures. Adversarial flagged 8/10 (A06 and A07 need no flag: HTML text and the other speaker's lines). No persona or safety sentence is flagged.

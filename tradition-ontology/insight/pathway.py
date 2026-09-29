@@ -102,7 +102,7 @@ def _why_text(p: dict, why: list) -> str:
 def _named_cites(p: dict) -> list:
     """Show only the verses the practice's own text (name, summary, steps, warnings) actually names."""
     from .synthesizer import _cites_named
-    text = " ".join([p.get("name", ""), p.get("summary", "")] + list(p.get("steps") or []))
+    text = " ".join([p.get("name", "")] + list(p.get("steps") or []))     # only what the report shows
     named = _cites_named(list(p.get("cites") or []), text)
     return named or list(p.get("cites") or [])
 

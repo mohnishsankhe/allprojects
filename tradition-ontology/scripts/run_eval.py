@@ -189,6 +189,14 @@ def main() -> int:
         summary["sets"] = {**prev.get("sets", {}), **summary["sets"]}
         if "content" not in summary and "content" in prev:
             summary["content"] = prev["content"]
+        pk = dict(prev.get("judge_packets") or {})
+        for k, v in (summary.get("judge_packets") or {}).items():
+            if k in ("safety_adversarial",) and not (ran & {"safety", "adversarial"}):
+                continue
+            if k != "safety_adversarial" and "personas" not in ran:
+                continue
+            pk[k] = v
+        summary["judge_packets"] = pk
     prev_p.write_text(json.dumps(summary, ensure_ascii=False, indent=1), encoding="utf-8")
     print(json.dumps({k: (v if k != "sets" else {n: {"n": s["n"], "failing": s["failing"]} for n, s in v.items()})
                       for k, v in summary.items()}, ensure_ascii=False, indent=1))

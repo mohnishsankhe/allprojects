@@ -158,7 +158,8 @@ def _for_you(maps_hit: list) -> str:
     for m in maps_hit:
         q, _ = _first_quote(m)
         if q:
-            return f"For what you wrote, “{q}”: "
+            # names what was matched, and nothing more: the rest of the point is about the texts, not about the person
+            return f"Your words “{q}” were matched to {m['name']}. Across the traditions: "
     return ""
 
 
@@ -277,7 +278,7 @@ def _self_question(maps: list[dict]) -> list:
     refs = sorted({e["qid"] for m in hit for e in m.get("evidence") or []})
     if not (text and cites and refs):
         return []
-    return [{"text": _clean(f"{_for_you(hit)}on the sense of 'I': {text}" if _for_you(hit) else f"On the sense of 'I': {text}"), "cites": sorted(set(cites)), "evidence_refs": refs,
+    return [{"text": _clean(f"{_for_you(hit)}on the sense of 'I', {text[0].lower() + text[1:]}" if _for_you(hit) else f"On the sense of 'I': {text}"), "cites": sorted(set(cites)), "evidence_refs": refs,
              "row": "self_question"}]
 
 

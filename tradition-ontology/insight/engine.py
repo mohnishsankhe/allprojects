@@ -16,14 +16,13 @@ from .llm import Ledger, ModelClient
 
 
 INSUFFICIENT = {
-    None: ("This reading could not connect what you wrote, closely enough, with a pattern the texts describe. That is a "
-           "limit of this reading, not a statement about you: this version matches your words against the texts' own "
-           "descriptions quite strictly, and only says something when your words clearly fit. You can add a sentence "
-           "or two in your own words about how the pattern shows up — when it happens, what goes through your mind, "
-           "what you do next — or use the full reading when it is available."),
-    "short": ("What you shared is short, and this reading could not connect it, honestly, with a pattern the texts "
-              "describe. That says nothing about you. If you like, add a few sentences about a recent situation: what "
-              "happened, what went through your mind, and what you did next."),
+    None: ("This reading did not find, in what you wrote, a pattern the texts describe closely enough to say anything "
+           "honest about. That is not a judgement about you, and it may simply mean there is nothing here to name. If "
+           "something is troubling you that you did not describe, you can add a few sentences about it in your own "
+           "words: when it happens, what goes through your mind, and what you do next."),
+    "short": ("What you shared is short, and this reading did not find in it a pattern the texts describe closely "
+              "enough to name. That says nothing about you. If something is troubling you, you can add a few sentences "
+              "about a recent situation: what happened, what went through your mind, and what you did next."),
     "not_enough_own_words": ("There is not yet enough of your own writing for a reading: it needs at least a few "
                              "sentences. If you like, describe a recent situation: what happened, what went through "
                              "your mind, and what you did next."),

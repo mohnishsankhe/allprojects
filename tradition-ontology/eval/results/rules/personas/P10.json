@@ -1,6 +1,6 @@
 {
  "engine": "rules",
- "created": 1790712244.8716595,
+ "created": 1790713176.7782803,
  "notices": [
   "There are not yet enough gentle practices in the texts' own terms that match what you described, so the pathway below is short."
  ],
@@ -39,15 +39,6 @@
    "ref": "mn10:2",
    "original": "“Ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā, sokaparidevānaṁ samatikkamāya, dukkhadomanassānaṁ atthaṅgamāya, ñāyassa adhigamāya, nibbānassa sacchikiriyāya, yadidaṁ cattāro satipaṭṭhānā.",
    "paraphrase": "The Buddha declares that this is a one-way path (ekāyana maggo) for the purification of beings, for overcoming sorrow and lamentation (soka-parideva), for the ending of pain and displeasure (dukkha-domanassa), for reaching the right method (ñāya), and for realising nibbāna: namely, the four satipaṭṭhānas (establishments of mindfulness).",
-   "level": "text-verified"
-  },
-  "tea:tattvartha-sutra:9.2": {
-   "id": "tea:tattvartha-sutra:9.2",
-   "source": "src:tattvartha-sutra",
-   "title": "Tattvārthasūtra",
-   "ref": "9.2",
-   "original": "sa gupti-samiti-dharmānuprekṣā-parīṣahajaya-cāritraiḥ",
-   "paraphrase": "That (saṃvara) comes about through the guptis, the samitis, the dharma, the anuprekṣās, the conquest of the parīṣahas, and cāritra.",
    "level": "text-verified"
   },
   "tea:tattvartha-sutra:9.28": {
@@ -279,7 +270,7 @@
  "reconciliation": {
   "points": [
    {
-    "text": "For what you wrote, “i want to go straight back to it”: Each names a sinking, sorrowful turn of mind. Vyāsa: dejection (daurmanasya) is a disturbance of the mind through the frustration of a wish, and it accompanies distraction (YS 1.31; YB 1.31). Gītā: Arjuna is overcome by pity and despairing (viṣīdan), his mind bewildered about dharma (BhG 1.28, 2.1, 2.7). TS: sorrowful dwelling (ārta-dhyāna) dwells on removing the disagreeable, on keeping the agreeable, on pain, and on longing for future enjoyment (TS 9.30–33). MN 10 declares the four establishments of mindfulness a path to the ending of pain and displeasure (dukkha-domanassa) (MN 10:2). Under the one-truth principle, they describe it from different standpoints: the match is a partial match, not an identity.",
+    "text": "Your words “i want to go straight back to it” were matched to Ārta-dhyāna (sorrowful dwelling). Across the traditions: Each names a sinking, sorrowful turn of mind. Vyāsa: dejection (daurmanasya) is a disturbance of the mind through the frustration of a wish, and it accompanies distraction (YS 1.31; YB 1.31). Gītā: Arjuna is overcome by pity and despairing (viṣīdan), his mind bewildered about dharma (BhG 1.28, 2.1, 2.7). TS: sorrowful dwelling (ārta-dhyāna) dwells on removing the disagreeable, on keeping the agreeable, on pain, and on longing for future enjoyment (TS 9.30–33). MN 10 declares the four establishments of mindfulness a path to the ending of pain and displeasure (dukkha-domanassa) (MN 10:2). Under the one-truth principle, they describe it from different standpoints: the match is a partial match, not an identity.",
     "basis": "standpoint",
     "cites": [
      "tea:yoga-sutra:1.31",
@@ -301,7 +292,7 @@
   ],
   "differences": [
    {
-    "text": "For what you wrote, “i want to go straight back to it”: (1) Daurmanasya in YS is a companion of distraction: it occurs in a distracted mind and is absent in a concentrated one (YB 1.31). (2) Arjuna's viṣāda is a crisis about dharma, and it becomes the occasion of the whole teaching (BhG 2.7). (3) Jain ārta-dhyāna is a kind of meditation (dhyāna), the inauspicious sorrowful one of four (TS 9.28): a sustained fixing of the mind, not a passing mood. This row describes states the texts name. It is not a finding about any person, and it makes no health claim.",
+    "text": "Your words “i want to go straight back to it” were matched to Ārta-dhyāna (sorrowful dwelling). Across the traditions: (1) Daurmanasya in YS is a companion of distraction: it occurs in a distracted mind and is absent in a concentrated one (YB 1.31). (2) Arjuna's viṣāda is a crisis about dharma, and it becomes the occasion of the whole teaching (BhG 2.7). (3) Jain ārta-dhyāna is a kind of meditation (dhyāna), the inauspicious sorrowful one of four (TS 9.28): a sustained fixing of the mind, not a passing mood. This row describes states the texts name. It is not a finding about any person, and it makes no health claim.",
     "cites": [
      "tea:yoga-sutra:1.31",
      "tea:yoga-bhasya:1.31",
@@ -361,8 +352,7 @@
      }
     ],
     "cites": [
-     "tea:tattvartha-sutra:9.7",
-     "tea:tattvartha-sutra:9.2"
+     "tea:tattvartha-sutra:9.7"
     ]
    }
   ],
