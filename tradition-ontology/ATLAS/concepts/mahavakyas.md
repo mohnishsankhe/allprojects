@@ -1,6 +1,6 @@
 # The four great sayings (mahāvākya)
 
-`cpt:mahavakyas` · `skeleton` · confidence high
+`cpt:mahavakyas` · `sourced` · confidence high
 
 **Category:** ultimate
 **Members:** prajñānaṃ brahma (AU 3.1.3), ahaṃ brahmāsmi (BAU 1.4.10), tat tvam asi (ChU 6.8.7), ayam ātmā brahma (MāU 2; BAU 2.5.19)
@@ -17,4 +17,8 @@
 _Notes: Ref correction: AU 3.1.3 is also cited as AU 3.3 (two-level numbering); both refer to the same passage._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/aitareya-upanisad/segments.jsonl (Advaita-Śāradā mūla Aitareya.md, adhyāya.khaṇḍa.verse), text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jso — All four sayings are located: 'prajñānaṃ brahma' AU 3.1.3 (= AU 3.3); 'ahaṃ brahmāsmi' BĀU 1.4.10; 'tat tvam asi' ChU 6.8.7 and its refrain; 'ayam ātmā brahma' MāU 2 and BĀU 2.5.19. Their assignment to the four Vedas matches the texts' Veda affiliations checked above. That the word 'mahāvākya' is not in these Upaniṣads and the grouping is later Advaita usage is consistent with the texts searched. All 5 Upaniṣad refs cited in the entry are located in the prepared segments (AU 3.1.3; BĀU 1.4.10; ChU 6.8.7; MāU 2; BĀU 2.5.19). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages. Refs given in another numbering: AU 3.3 = AU 3.1.3 in three-level numbering.
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

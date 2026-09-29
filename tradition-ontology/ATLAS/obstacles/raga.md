@@ -23,4 +23,4 @@ Bhagavad Gītā 1–3: Passion or attraction (rāga), set together with aversion
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.10, tea:bhagavad-gita:5.3 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U09-samkhya, skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U09-samkhya, skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 17:10 IST._

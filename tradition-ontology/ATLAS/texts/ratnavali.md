@@ -17,7 +17,7 @@ Nāgārjuna's 'Precious Garland' of advice to a king: first the practices of hig
 **Editions / translations:** 
   - kind: original; name: GRETIL e-text (after Vaidya), local: sources_raw/dcs/corpus/GRETIL/sa_nAgArjuna-ratnAvalI.txt (1.1–4.100)
   - kind: translation; name: Tibetan translation, Derge Tengyur D4158 (rgyal po la gtam bya ba rin po che'i phreng ba) — catalog:Derge-Tengyur:D4158
-  - kind: translation; name: Chinese: Baoxing wang zhenglun, T1656 (Paramārtha)
+  - kind: translation; name: Chinese: Baoxing wang zhenglun 寶行王正論, T1656 (Paramārtha) — catalog:CBETA:T32n1656
 
 ## Teachings (13: skeleton 13)
 
@@ -28,7 +28,7 @@ First comes the dharma of higher status, afterwards definite goodness arises, fo
 
 _level: conventional · standpoint: seeker · path: action, knowledge · stage: all · types: ethics, karma-liberation_
 
-concepts: `cpt:abhyudaya-naihsreyasa` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [Higher status and definite goodness](../concepts/abhyudaya-naihsreyasa.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 1.5 <a id="tea-ratnavali-1-5"></a>
 `skeleton` · confidence high
@@ -46,7 +46,7 @@ Non-killing, not stealing, avoiding others' spouses, restraint from false, divis
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
 
-terms: [ahiṃsā](../terms/ahimsa.md), [dāna](../terms/dana.md) · concepts: `cpt:ten-virtuous-paths` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [ahiṃsā](../terms/ahimsa.md), [dāna](../terms/dana.md) · concepts: [The ten virtuous paths of action](../concepts/ten-virtuous-paths.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 1.26 <a id="tea-ratnavali-1-26"></a>
 `skeleton` · confidence high
@@ -57,7 +57,7 @@ terms: [ahiṃsā](../terms/ahimsa.md), [dāna](../terms/dana.md) · concepts: `
 
 _level: ultimate · standpoint: experiential · path: knowledge · stage: all · types: ultimate, powers-experiences_
 
-concepts: `cpt:fear-of-emptiness` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [Fear of emptiness and its end](../concepts/fear-of-emptiness.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 1.28 <a id="tea-ratnavali-1-28"></a>
 `skeleton` · confidence high
@@ -68,7 +68,7 @@ concepts: `cpt:fear-of-emptiness` · teachers: [Nāgārjuna](../teachers/nagarju
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-terms: [ahaṃkāra](../terms/ahamkara.md), `trm:mamakara` · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ahaṃkāra](../terms/ahamkara.md), [mamakāra](../terms/mamakara.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 1.35 <a id="tea-ratnavali-1-35"></a>
 `skeleton` · confidence high
@@ -79,7 +79,7 @@ As long as there is grasping at the aggregates there is grasping at 'I'; where t
 
 _level: bridging · standpoint: causal · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: [ahaṃkāra](../terms/ahamkara.md), [skandha](../terms/skandha.md) · obstacles: `obs:ahamkara-mamakara`, `obs:satkayadrsti` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [ahaṃkāra](../terms/ahamkara.md), [skandha](../terms/skandha.md) · obstacles: ['I'-making and 'mine'-making](../obstacles/ahamkara-mamakara.md), [The view of the transitory collection](../obstacles/satkayadrsti.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 1.36 <a id="tea-ratnavali-1-36"></a>
 `skeleton` · confidence high
@@ -90,7 +90,7 @@ This wheel of saṃsāra with its three paths, without beginning, middle or end,
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation, world-fate_
 
-terms: [saṃsāra](../terms/samsara.md), `trm:alatacakra` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [saṃsāra](../terms/samsara.md), [alātacakra](../terms/alatacakra.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 1.42 <a id="tea-ratnavali-1-42"></a>
 `skeleton` · confidence high
@@ -101,7 +101,7 @@ Nirvāṇa is not even non-existence — how could it be existence? The ending o
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: realized · types: karma-liberation_
 
-concepts: `cpt:nirvana-in-madhyamaka` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [Nirvāṇa in Madhyamaka](../concepts/nirvana-in-madhyamaka.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 1.61-62 <a id="tea-ratnavali-1-61-62"></a>
 `skeleton` · confidence high
@@ -110,7 +110,7 @@ Ask the world, with its Sāṃkhyas, Vaiśeṣikas, Nirgranthas and proponents o
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: dispute, ultimate_
 
-concepts: [The middle way](../concepts/middle-way.md), `cpt:madhyamaka-critique-of-samkhya` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [The middle way](../concepts/middle-way.md), [Madhyamaka's critique of the Sāṃkhya](../concepts/madhyamaka-critique-of-samkhya.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 2.1 <a id="tea-ratnavali-2-1"></a>
 `skeleton` · confidence high
@@ -121,7 +121,7 @@ Just as a plantain tree, when split apart with all its parts, is nothing at all,
 
 _level: ultimate · standpoint: analytic · path: knowledge, meditation · stage: all · types: ultimate, body-layers_
 
-concepts: `cpt:self-as-dependent-designation` · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The self as a dependent designation](../concepts/self-as-dependent-designation.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 3.12-13 <a id="tea-ratnavali-3-12-13"></a>
 `skeleton` · confidence low
@@ -130,7 +130,7 @@ The form bodies of the Buddhas arise from the collection of merit; the truth bod
 
 _level: conventional · standpoint: causal · path: action, knowledge · stage: all · types: karma-liberation_
 
-terms: [dharmakāya](../terms/dharmakaya.md) · concepts: `cpt:two-accumulations` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [dharmakāya](../terms/dharmakaya.md) · concepts: [The two accumulations](../concepts/two-accumulations.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 4.86 <a id="tea-ratnavali-4-86"></a>
 `skeleton` · confidence moderate
@@ -139,7 +139,7 @@ Non-arising is taught in the Mahāyāna, extinction for others — emptiness; si
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
-teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:mahayana-as-buddhavacana`
+teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is the Mahāyāna the word of the Buddha?](../debates/mahayana-as-buddhavacana.md)
 
 ### 4.94-96 <a id="tea-ratnavali-4-94-96"></a>
 `skeleton` · confidence high
@@ -148,10 +148,10 @@ As a grammarian may even teach the alphabet, so the Buddha taught the Dharma to 
 
 _level: bridging · standpoint: seeker · path: general · stage: all · types: teacher-transmission_
 
-concepts: `cpt:graded-teaching` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [Graded teaching fitted to the hearer](../concepts/graded-teaching.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 
 _Notes: Chapter 4 title confirmed from the GRETIL colophon; the other chapter titles from memory (moderate). Commentary: Ajitamitra's Ratnāvalīṭīkā (D4159)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

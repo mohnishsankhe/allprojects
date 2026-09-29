@@ -5,7 +5,7 @@
 **Alternate titles:** Samantabhadra's vows, Bhadracarī, bzang spyod smon lam (Toh 1095 / 4377), Puxian xingyuan pin (T293 fasc. 40), Ārya-bhadracarī-praṇidhāna-rāja
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:huayan`, `lin:vajrayana`, `lin:newar-vajrayana`, `lin:gelug`, `lin:nyingma`, `lin:kagyu`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:huayan`, [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md), `lin:newar-vajrayana`, `lin:gelug`, [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md), `lin:kagyu`
 **Genre:** praṇidhāna (vow verses)
 **Part of:** [Gaṇḍavyūha-sūtra](gandavyuha.md)
 **Location in parent:** Gaṇḍavyūha final section (Vaidya §56)
@@ -14,7 +14,7 @@
 
 The 'Vows of Good Conduct' of Samantabhadra, some 60 verses that conclude the Gaṇḍavyūha: homage, offering, confession, rejoicing, requesting the teaching, requesting the buddhas to remain, dedication, and the vow to follow Samantabhadra's conduct until the end of the world and be reborn in Sukhāvatī; the basis of the seven-branch worship and, in East Asia, of 'Samantabhadra's ten great vows'.
 
-## Teachings (2: skeleton 2)
+## Teachings (3: skeleton 3)
 
 ### 1-12 <a id="tea-bhadracaripranidhana-1-12"></a>
 `skeleton` · confidence high
@@ -24,6 +24,15 @@ With body, speech and mind I bow to all the buddhas of the three times in all wo
 _level: conventional · standpoint: devotional · path: devotion, ritual · stage: all · types: practice_
 
 concepts: [Samantabhadra's vows](../concepts/samantabhadra-vows.md) · practices: [The sevenfold (seven-branch) worship](../practices/seven-branch-worship.md)
+
+### pure-land-aspiration <a id="tea-bhadracaripranidhana-pure-land-aspiration"></a>
+`skeleton` · confidence moderate
+
+At the close of Samantabhadra's vows the practitioner aspires: at the moment of death, may all obstacles be removed, may I see Amitābha face to face and be born at once in Sukhāvatī, and there fulfil these vows and benefit all beings.
+
+_level: conventional · standpoint: devotional · path: devotion · stage: all · types: death-dying, practice_
+
+concepts: `cpt:five-sutras-one-treatise`, `cpt:deathbed-welcome` · teachers: [Samantabhadra](../teachers/samantabhadra.md)
 
 ### ten-vows <a id="tea-bhadracaripranidhana-ten-vows"></a>
 `skeleton` · confidence high
@@ -36,4 +45,4 @@ concepts: [Samantabhadra's vows](../concepts/samantabhadra-vows.md) · practices
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

@@ -13,4 +13,4 @@ A stalk of plantain, turmeric or cane is moved within the chest (gullet) and slo
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 1.36-38; rests_on: ["tea:gheranda-samhita:1.36-38"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._

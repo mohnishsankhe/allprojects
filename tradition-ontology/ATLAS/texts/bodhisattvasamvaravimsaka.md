@@ -23,8 +23,8 @@ The bodhisattva vow is to be taken from a teacher who keeps and understands it a
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, teacher-transmission_
 
-practices: `prc:bodhisattva-vow-yogacara` · teachers: [Candragomin](../teachers/candragomin.md)
+practices: [Taking and keeping the bodhisattva vow (Yogācāra rite)](../practices/bodhisattva-vow-yogacara.md) · teachers: [Candragomin](../teachers/candragomin.md)
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

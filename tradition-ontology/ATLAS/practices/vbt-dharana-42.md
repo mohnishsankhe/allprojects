@@ -15,4 +15,4 @@ O doe-eyed one, by the practice called kuhana great bliss immediately arises, by
 _Notes: Verses 66 (KSTS 8 / GRETIL numbering). 'Kuhana' (a trick, feint) is obscure; the commentators explain it differently. Meaning low confidence._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._

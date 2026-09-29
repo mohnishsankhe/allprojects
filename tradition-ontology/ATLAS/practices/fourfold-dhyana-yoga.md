@@ -12,4 +12,4 @@ The sage, seated, withdraws the senses and repeatedly steadies the wandering min
   - [Mokṣadharma (Mokṣadharmaparvan)](../texts/moksadharma.md) — ref: 12.188; rests_on: ["tea:moksadharma:12.188.1-22", "tea:moksadharma:12.188.15"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._

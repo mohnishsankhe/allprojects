@@ -13,4 +13,4 @@
 Senior disciple of Śaṅkara, author of the Pañcapādikā, root of the Vivaraṇa school; in the tradition's account named 'lotus-foot' because lotuses sprang up under his feet when he crossed the Gaṅgā at his guru's call, and first head of the Govardhana maṭha at Purī.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._

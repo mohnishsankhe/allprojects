@@ -13,4 +13,4 @@ The anus closed firmly with the ankles placed in reverse order (HYP 1.22); in th
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 2.32; rests_on: ["tea:gheranda-samhita:2.32"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._

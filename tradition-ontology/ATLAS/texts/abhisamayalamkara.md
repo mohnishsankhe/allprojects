@@ -32,7 +32,7 @@ The perfection of wisdom is set out in eight topics: knowledge of all aspects, k
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: practice, ultimate_
 
-concepts: `cpt:eight-topics-abhisamayalamkara` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md)
+concepts: [The eight topics and seventy points of the Abhisamayālaṃkāra](../concepts/eight-topics-abhisamayalamkara.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md)
 
 ### 1.13-16 <a id="tea-abhisamayalamkara-1-13-16"></a>
 `skeleton` · confidence moderate
@@ -50,7 +50,7 @@ The dharmakāya together with its activity is taught as fourfold: the natural bo
 
 _level: ultimate · standpoint: divine · path: general · stage: realized · types: ultimate_
 
-terms: [dharmakāya](../terms/dharmakaya.md) · concepts: `cpt:three-bodies-yogacara` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md)
+terms: [dharmakāya](../terms/dharmakaya.md) · concepts: [The three bodies of a buddha (Yogācāra)](../concepts/three-bodies-yogacara.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md)
 
 ### 1.19 <a id="tea-abhisamayalamkara-1-19"></a>
 `skeleton` · confidence high
@@ -61,7 +61,7 @@ The arising of the mind (of awakening) is the wish for perfect awakening for the
 
 _level: conventional · standpoint: seeker · path: general · stage: beginner (saṃbhāra-mārga) · types: ethics, practice_
 
-terms: [bodhicitta](../terms/bodhicitta.md), `trm:cittotpada` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md)
+terms: [bodhicitta](../terms/bodhicitta.md), [cittotpāda](../terms/cittotpada.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md)
 
 ### 5.21 <a id="tea-abhisamayalamkara-5-21"></a>
 `skeleton` · confidence high
@@ -78,4 +78,4 @@ teachers: [Maitreyanātha](../teachers/maitreyanatha.md)
 _Notes: One of the 'five Dharmas of Maitreya' in the Tibetan list (Abhisamayālaṃkāra, Mahāyānasūtrālaṃkāra, Madhyāntavibhāga, Dharmadharmatāvibhāga, Ratnagotravibhāga). Chinese tradition instead attributes the Yogācārabhūmi to Maitreya and the Ratnagotravibhāga to Sāramati. Its own affiliation is contested: Haribhadra reads it as Yogācāra-Madhyamaka; Tibetan scholastics as Madhyamaka._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

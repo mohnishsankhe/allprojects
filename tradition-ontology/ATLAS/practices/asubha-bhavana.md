@@ -3,8 +3,8 @@
 `prc:asubha-bhavana` · `skeleton` · confidence high
 
 **Category:** meditation
-**Convergence:** 3 independent lineage(s): [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md), [Sarvāstivāda](../lineages/sarvastivada.md), [Theravāda](../lineages/theravada.md)
-**Taught in:** [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md), [Sarvāstivāda](../lineages/sarvastivada.md), [Theravāda](../lineages/theravada.md)
+**Convergence:** 4 independent lineage(s): [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md), [Sarvāstivāda](../lineages/sarvastivada.md), [Theravāda](../lineages/theravada.md), [Yogācāra](../lineages/yogacara.md)
+**Taught in:** [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md), [Sarvāstivāda](../lineages/sarvastivada.md), [Theravāda](../lineages/theravada.md), [Yogācāra](../lineages/yogacara.md)
 
 For one in whom passion predominates: the skeleton contemplation — visualizing one's body as a skeleton, extending the vision of skeletons to the ocean's edge and contracting it again; the beginner, the one who has mastered it, and the one whose attention has passed beyond, who holds the mind between the eyebrows.
 **Stage:** beginner
@@ -16,6 +16,7 @@ For one in whom passion predominates: the skeleton contemplation — visualizing
   - [Ānāpāna Saṃyutta](../texts/anapana-samyutta.md) — ref: 54.9; rests_on: ["tea:anapana-samyutta:54.9"]
   - [Udāna](../texts/udana.md) — ref: 4.1; rests_on: ["tea:udana:4.1"]
   - [Mahāvibhaṅga (Bhikkhuvibhaṅga)](../texts/mahavibhanga.md) — ref: pj3.1.1; rests_on: ["tea:mahavibhanga:pj3.1.1"]
+  - [Śrāvakabhūmi](../texts/sravakabhumi.md) — ref: second yogasthāna; rests_on: ["tea:sravakabhumi:2.carita"]
 **Sequences:** [The path in the Abhidharmakośa (Sarvāstivāda-Vaibhāṣika)](../paths/abhidharmakosa-path.md)
 
 ## The texts' own warnings
@@ -27,5 +28,7 @@ For one in whom passion predominates: the skeleton contemplation — visualizing
 - partial: [Contemplation of the skeleton corpse (aṭṭhika)](asubha-skeleton.md) — The Kośa's entry practice is the skeleton contemplation; the Visuddhimagga's ten foulnesses are corpse-stages.
 - analogous: [Cultivating the notion of the unlovely (aśubhasaṃjñā)](asubha-samjna-nyaya.md) — Nyāya also prescribes the perception of the body's foulness against attachment
 
+_Notes: Shared id; U41 contributes the Yogācāra (Śrāvakabhūmi) placement only._
+
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U36-pali-suttas, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

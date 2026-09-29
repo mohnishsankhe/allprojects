@@ -27,8 +27,8 @@ The Thirty Verses were composed to teach the selflessness of persons and of dhar
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation_
 
-terms: `trm:klesavarana`, `trm:jneyavarana` · concepts: [The two selflessnesses](../concepts/two-selflessnesses.md) · obstacles: `obs:two-obscurations` · teachers: [Sthiramati](../teachers/sthiramati.md)
+terms: [kleśāvaraṇa](../terms/klesavarana.md), [jñeyāvaraṇa](../terms/jneyavarana.md) · concepts: [The two selflessnesses](../concepts/two-selflessnesses.md) · obstacles: [The obscurations of afflictions and of the knowable](../obstacles/two-obscurations.md) · teachers: [Sthiramati](../teachers/sthiramati.md)
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

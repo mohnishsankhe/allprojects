@@ -15,4 +15,4 @@
 - contested: [rasāsvāda](rasasvada.md) — poetics praises the relish of śānta; Gauḍapāda (MK 3.45) calls tasting the bliss of samādhi (rasāsvāda) an obstacle to be given up — the same word, opposite valuations
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._

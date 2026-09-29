@@ -5,7 +5,7 @@
 **Alternate titles:** Da foding rulai miyin xiuzheng liaoyi zhu pusa wanxing shoulengyan jing 大佛頂如來密因修證了義諸菩薩萬行首楞嚴經, Śūraṅgama Sūtra, Ryōgon-kyō, Tibetan partial translation from Chinese (Toh 236, ch. 10)
 **Language:** Chinese
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:chan`, `lin:seon`, `lin:zen`, `lin:tiantai`, `lin:pure-land`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Chan (Chinese Meditation school)](../lineages/chan.md), [Seon (Korean Chan)](../lineages/seon.md), [Zen (Japanese Chan)](../lineages/zen.md), `lin:tiantai`, [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md)
 **Genre:** sūtra
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); tradition: brought to China by the Indian monk Pāramiti (Pramiti) and translated at Guangzhou in 705, with the court official Fang Rong as scribe; scholarly: Many modern scholars hold it was composed in China c. early 8th c.; its Indian origin has been questioned since the 8th c. in Japan and argued against by 20th-c. scholars; defended by the Chan and later Chinese tradition; confidence: disputed
 **Dates:** Tradition's account: the Buddha's lifetime; translated 705; Scholarly account: c. 705-720 CE (China); (confidence moderate)
@@ -14,7 +14,7 @@
 
 A ten-fascicle sūtra transmitted in China: after Ānanda is nearly seduced through a spell, the Buddha shows that the mind is not located in seven places and that the true, perceiving nature (the 'wondrous bright true mind', the tathāgatagarbha) neither comes nor goes; twenty-five sages describe their perfect penetrations, and Mañjuśrī selects Avalokiteśvara's turning of hearing back to hear the self-nature as best for this world; the four clear instructions on purity (no sex, killing, stealing, false claims), the Śūraṅgama mantra and altar, the stages of the path, the destinies, and the fifty demonic states arising from the five aggregates in meditation.
 
-## Teachings (8: skeleton 8)
+## Teachings (9: skeleton 9)
 
 ### 1 <a id="tea-surangama-sutra-1"></a>
 `skeleton` · confidence moderate
@@ -32,7 +32,16 @@ The nature of seeing does not move, age or perish: King Prasenajit saw the Gange
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: consciousness-mind, ultimate_
 
-terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [jianxing (Śūraṅgama sense)](../terms/jianxing.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md) · disputes: `dsp:buddha-nature-self-or-emptiness`
+terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [jianxing / kenshō (seeing the nature)](../terms/jianxing.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md)
+
+### 5.mahasthamaprapta <a id="tea-surangama-sutra-5-mahasthamaprapta"></a>
+`skeleton` · confidence moderate
+
+Mahāsthāmaprāpta tells how he entered samādhi by recollecting the Buddha: as a mother remembers her child, if beings remember the Buddha they will surely see him now or later; gathering in all six faculties, with pure recollection continuing moment after moment, he attained samādhi — for him the best of the penetrations — and he now receives recollecting beings into the Pure Land.
+
+_level: conventional · standpoint: experiential · path: meditation, devotion, sound · stage: intermediate · types: practice, powers-experiences_
+
+terms: `trm:nianfo-sanmei` · concepts: `cpt:five-sutras-one-treatise` · practices: [Calling the name of Amitābha (nianfo / nembutsu)](../practices/nianfo.md) · teachers: [Mahāsthāmaprāpta](../teachers/mahasthamaprapta.md)
 
 ### 6 <a id="tea-surangama-sutra-6"></a>
 `skeleton` · confidence moderate
@@ -96,4 +105,4 @@ disputes: `dsp:sudden-or-gradual`
 _Notes: T945 (vol. 19) is not in the local CBETA subset; fascicle-level refs from memory. The Tibetan Toh 236 (a translation from Chinese of part of the last chapter) is attested in the local Derge catalogue._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

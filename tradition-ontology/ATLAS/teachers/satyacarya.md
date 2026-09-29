@@ -10,4 +10,4 @@ An earlier horā teacher whose method of longevity Varāhamihira prefers: 'Satya
 _Notes: Known only from citations in Varāhamihira and his commentators._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._

@@ -17,4 +17,4 @@ Atiśa's short verse 'Entry into the Two Truths': the conventional is twofold, c
   - kind: translation; name: Tibetan translation, Derge Tengyur D3902 (bden pa gnyis la 'jug pa) — catalog:Derge-Tengyur:D3902
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

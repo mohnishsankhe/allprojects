@@ -15,4 +15,4 @@ The genre of introductory debate manuals (e.g. the Rwa stod and Yongs 'dzin bsdu
 _Notes: A genre, not a single text; Phase C should split it by textbook._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

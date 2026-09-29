@@ -1,6 +1,6 @@
 # Upaniṣadic tradition (the teaching of the early Upaniṣads)
 
-`lin:upanisadic` · `skeleton` · confidence moderate
+`lin:upanisadic` · `sourced` · confidence moderate
 
 **Family:** vedic
 **Alternate names:** Aupanisada, Vedānta in its original sense ('end of the Veda'), jnana-kanda of the Veda, the Upaniṣadic sages
@@ -39,7 +39,7 @@ The teaching of the early Upaniṣads, the concluding portions of the Vedic śā
   - [Śaiva Siddhānta](saiva-siddhanta.md) — what: the Śvetāśvatara's Rudra-Śiva, fetters (pāśa) and grace, cited as śruti by Śaiva authors
 
 ## The ultimate in this lineage
-`skeleton` · confidence high
+`sourced` · confidence high
 
 **Names:** brahman, ātman, sat (being), akṣara (the imperishable), bhūman (plenitude), puruṣa, prajñāna, the fourth (turīya), deva / īśa / Rudra-Śiva (Śvetāśvatara)
 **Descriptions:** satyaṃ jñānam anantaṃ brahma — truth, knowledge, infinite (TU 2.1.1); sad eva ... ekam evādvitīyam — being alone, one without a second (ChU 6.2.1); vijñānam ānandaṃ brahma — understanding, bliss (BAU 3.9.28); raso vai saḥ (TU 2.7.1); that from which beings are born, by which they live, into which they enter (TU 3.1.1); sarvaṃ khalv idaṃ brahma — all this is brahman (ChU 3.14.1); brahmaivedaṃ viśvam (MuU 2.2.11); pūrṇam adaḥ pūrṇam idam — that is full, this is full (BAU 5.1.1); the Lord who wields māyā, whose power is innate knowledge and strength (ŚU 4.10, 6.8)
@@ -66,4 +66,8 @@ The teaching of the early Upaniṣads, the concluding portions of the Vedic śā
 _Notes: 'The thirteen principal Upaniṣads' is a modern grouping (Hume 1921); the tradition's own groupings are the ten on which Śaṅkara commented (Isa, Kena, Katha, Praśna, Muṇḍaka, Māṇḍūkya, Taittirīya, Aitareya, Chāndogya, Bṛhadāraṇyaka) and the Muktikā canon of 108 (src:muktika-upanisad, owned by U04). The Muktikā (1.30) lists the ten first._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate+websearch: confirmed — text:sources_raw/dcs/dcs/data/conllu/files/Jaiminīya-Upaniṣad-Brāhmaṇa/ (DCS; JUB 4.18 opens 'kena iṣitam patati', 4.21 'brahmeti hovāca'), https://www.wisdomlib.org/hinduism/essay/brihadaranyaka-upanishad-study/d/doc1888684.html, https://en.wikipedia.org/wiki/Brihadaranyaka_Upanishad, https://en.wi — Confirmed as a recognized body of teaching: the thirteen principal Upaniṣads and their Vedic placements were all checked in this sweep. Those placements are BĀU closing the ŚB; AU = AĀ 2.4-6; TU = TĀ 7-9; KauU = KĀ 3-6; Kena = JUB 4.18-21 (DCS); Īśa = VS 40. Named key teachers are text-located (see the tch: checks). The distinctive positions cite refs that were all located (ChU 6.1.3, BĀU 2.4.5, MuU 1.1.3 …). The scholarly span -700/200 follows Olivelle's chronology as reported on the web. The transmissions to Vedānta, Sāṃkhya, Yoga and the Gītā match the borrowing checks below. Founders are rightly empty (śruti). All 38 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 3.3; BĀU 3.7; PrU 6.1; BĀU 2.4.5; BĀU 4.4.23; MuU 3.1.1; KU 1.3.10-11; KU 2.3.11; BĀU 3.5.1; BĀU 4.4.22; MuU 3.2.6; KU 1.2.18-19 …).
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

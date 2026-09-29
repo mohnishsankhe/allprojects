@@ -18,4 +18,4 @@ Kuiji's great commentary on the Cheng weishi lun, the authoritative Faxiang exeg
 _Notes: Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

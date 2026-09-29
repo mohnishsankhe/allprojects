@@ -12,4 +12,4 @@ Mars in certain houses of a marriage chart, held to endanger the spouse unless m
 _Notes: Popular in marriage matching; the verse usually cited is of uncertain source._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._

@@ -15,4 +15,4 @@
 - partial: [kuṇḍalinī](kundalini.md) — the hymn of KMT 2.2 describes her as 'coiled like a sleeping serpent'; she is also a cult goddess with her own consort and maṇḍala
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._

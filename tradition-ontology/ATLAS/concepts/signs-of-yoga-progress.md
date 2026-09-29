@@ -1,6 +1,6 @@
 # First signs of progress in yoga
 
-`cpt:signs-of-yoga-progress` · `skeleton` · confidence high
+`cpt:signs-of-yoga-progress` · `sourced` · confidence high
 
 **Category:** signs-powers
 
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (ŚU 2.11). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._

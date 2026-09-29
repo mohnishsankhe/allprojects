@@ -27,8 +27,8 @@ Things as they appear, arising from causes, are the correct conventional truth w
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate_
 
-terms: `trm:tathya-samvrti`, `trm:arthakriya` · concepts: `cpt:conventional-truth-divisions`, [The two truths (sūtra layer)](../concepts/two-truths.md) · teachers: [Jñānagarbha](../teachers/jnanagarbha.md)
+terms: [tathya-saṃvṛti](../terms/tathya-samvrti.md), [arthakriyā](../terms/arthakriya.md) · concepts: [Correct and incorrect conventional truth](../concepts/conventional-truth-divisions.md), [The two truths (satyadvaya)](../concepts/two-truths.md) · teachers: [Jñānagarbha](../teachers/jnanagarbha.md)
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

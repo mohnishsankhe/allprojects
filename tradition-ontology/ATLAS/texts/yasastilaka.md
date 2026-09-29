@@ -19,4 +19,4 @@ Somadeva's Sanskrit prose-verse romance (959 CE) of King Yaśodhara, who with hi
 _Notes: Low confidence on the specific Kāpālika passages; not checked against the text in this run._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:10 IST._

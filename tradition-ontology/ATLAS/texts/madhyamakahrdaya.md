@@ -27,7 +27,7 @@ Without the ladder of the correct conventional truth, the wise cannot climb to t
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: all · types: ultimate, practice_
 
-concepts: [The two truths (sūtra layer)](../concepts/two-truths.md), `cpt:conventional-truth-divisions` · teachers: [Bhāviveka](../teachers/bhaviveka.md)
+concepts: [The two truths (satyadvaya)](../concepts/two-truths.md), [Correct and incorrect conventional truth](../concepts/conventional-truth-divisions.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md)
 
 ### 5 <a id="tea-madhyamakahrdaya-5"></a>
 `skeleton` · confidence low
@@ -36,7 +36,7 @@ Chapter on the Yogācāra: the Yogācāras' claim that only consciousness exists
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute_
 
-concepts: `cpt:madhyamaka-critique-of-yogacara` · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: `dsp:madhyamaka-yogacara`
+concepts: [Madhyamaka's critique of the Yogācāra](../concepts/madhyamaka-critique-of-yogacara.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: [Is consciousness ultimately real while external objects are not (mind-only), or is mind too empty?](../debates/madhyamaka-yogacara.md)
 
 ### 6 <a id="tea-madhyamakahrdaya-6"></a>
 `skeleton` · confidence low
@@ -45,7 +45,7 @@ Chapter on the Sāṃkhya: the Sāṃkhyas' primal matter and the pre-existence 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute_
 
-terms: [satkāryavāda](../terms/satkaryavada.md) · concepts: `cpt:madhyamaka-critique-of-samkhya` · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: `dsp:causation`
+terms: [satkāryavāda](../terms/satkaryavada.md) · concepts: [Madhyamaka's critique of the Sāṃkhya](../concepts/madhyamaka-critique-of-samkhya.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: `dsp:causation`
 
 ### 8 <a id="tea-madhyamakahrdaya-8"></a>
 `skeleton` · confidence low
@@ -54,7 +54,7 @@ terms: [satkāryavāda](../terms/satkaryavada.md) · concepts: `cpt:madhyamaka-c
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, ultimate_
 
-concepts: `cpt:madhyamaka-critique-of-vedanta` · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [Madhyamaka's critique of the Vedānta](../concepts/madhyamaka-critique-of-vedanta.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 8/2 <a id="tea-madhyamakahrdaya-8-2"></a>
 `skeleton` · confidence low
@@ -63,7 +63,7 @@ concepts: `cpt:madhyamaka-critique-of-vedanta` · teachers: [Bhāviveka](../teac
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute_
 
-concepts: `cpt:madhyamaka-critique-of-vedanta` · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [Madhyamaka's critique of the Vedānta](../concepts/madhyamaka-critique-of-vedanta.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 9 <a id="tea-madhyamakahrdaya-9"></a>
 `skeleton` · confidence low
@@ -72,10 +72,10 @@ Chapter on the Mīmāṃsā: the Mīmāṃsakas' view that the Veda is authorles
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, sound-language_
 
-concepts: `cpt:madhyamaka-critique-of-mimamsa` · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [Madhyamaka's critique of the Mīmāṃsā](../concepts/madhyamaka-critique-of-mimamsa.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
 
 
 _Notes: Chapter titles and verse total from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

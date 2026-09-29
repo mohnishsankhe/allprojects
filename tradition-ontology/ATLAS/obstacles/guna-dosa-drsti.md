@@ -11,4 +11,4 @@ Seeing things in terms of merit and fault is itself the fault; being beyond both
   - [Uddhava Gītā](../texts/uddhava-gita.md) — ref: 11.19.45; rests_on: ["tea:uddhava-gita:11.19.36-45"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._

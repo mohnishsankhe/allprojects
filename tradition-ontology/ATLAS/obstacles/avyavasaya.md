@@ -12,4 +12,4 @@ Bhagavad Gītā 1–3: The understandings of the irresolute are many-branched an
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 2.41, 2.44; rests_on: ["tea:bhagavad-gita:2.41", "tea:bhagavad-gita:2.44"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 16:38 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:10 IST._

@@ -16,4 +16,4 @@ Commentator on the Abhisamayālaṃkāra and the Perfection of Wisdom (Āloka, S
 **Realization — the tradition's account:** Tāranātha makes him a student of Śāntarakṣita and of Vairocanabhadra, who composed his commentaries after a vision of Maitreya, under the patronage of the Pāla king Dharmapāla.
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

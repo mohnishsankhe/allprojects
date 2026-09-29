@@ -14,4 +14,4 @@ The upper, middle and lower fetters with which Varuṇa binds the offender; loos
 _Notes: rests_on: tea:rgveda:1.24.15, tea:rgveda:7.88.7, tea:atharvaveda-saunaka:4.16.2-6_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._

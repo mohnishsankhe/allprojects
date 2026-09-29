@@ -1,6 +1,6 @@
 # The knots of the heart
 
-`obs:hrdaya-granthi` · `skeleton` · confidence high
+`obs:hrdaya-granthi` · `sourced` · confidence high
 
 **Category:** bond
 **Convergence:** 2 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -14,4 +14,8 @@ Knots in the heart that bind one to mortality; when they are cut, all doubts van
   - [Chāndogya Upaniṣad](../texts/chandogya-upanisad.md) — ref: 7.26.2; rests_on: ["tea:chandogya-upanisad:7.26.1-2"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Ś — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (KU 2.3.15; MuU 2.2.8; MuU 3.2.9; ChU 7.26.2). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages. MuU 2.2.8 is cited in the common numbering (Advaita-Śāradā is one higher from 2.2.8), and the passage meant was checked under that numbering.
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._

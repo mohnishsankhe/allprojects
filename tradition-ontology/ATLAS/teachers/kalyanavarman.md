@@ -11,4 +11,4 @@
 Author of the Sārāvalī, a large compendium of horā; described as a king of Vyāghrataṭī (low confidence).
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._

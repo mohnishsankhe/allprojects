@@ -26,4 +26,4 @@ concepts: [The unity of Pūrva and Uttara Mīmāṃsā (aikaśāstrya)](../conce
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._

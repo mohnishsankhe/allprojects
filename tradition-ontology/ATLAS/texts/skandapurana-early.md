@@ -16,4 +16,4 @@
 _Notes: Distinct from the printed Skanda Mahāpurāṇa; strong Pāśupata and Vārāṇasī content._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._

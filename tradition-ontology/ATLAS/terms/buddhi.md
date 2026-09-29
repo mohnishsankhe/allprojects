@@ -16,6 +16,7 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: One of the instruments with which yogins act for self-purification (5.11); the intellect held in firmness (dhṛti) by which the mind is gradually brought to rest (6.25); the boundless happiness is 'grasped by the buddhi' beyond the senses (6.21); the fallen yogin regains the connection with understanding (buddhi-saṃyoga) of his former body (6.43); sama-buddhi = equal regard (6.9).
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): Intellect: the inner organ as deciding; the seat of the reflected consciousness and of the ego's agency.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Intellect: the charioteer (KU 1.3.3); higher than mind, below the great self (KU 1.3.10); it does not stir in the highest state (KU 2.3.10).
+- [Prāsaṅgika-Madhyamaka](../lineages/prasangika.md): The intellect is conventional; reality is not within its domain (BCA 9.2).
 
 ## Forms in other languages
 
@@ -29,4 +30,4 @@ _Notes: Distinct from the Sāṃkhya-Yoga buddhi (mahat), a principle of prakṛ
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.11, tea:bhagavad-gita:6.25, tea:bhagavad-gita:6.21, tea:bhagavad-gita:6.43, tea:bhagavad-gita:6.9, tea:bhagavad-gita:5.20 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch01-03, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch01-03, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U13-advaita, skeleton:U03-principal-upanisads, skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

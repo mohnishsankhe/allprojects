@@ -9,4 +9,4 @@
 Second-generation leader who, with Narottama and Śyāmānanda, carried the Gosvāmīs' books from Vṛndāvana to Bengal; the tradition says they were stolen at Viṣṇupur and recovered when King Vīra Hāmvīra became his disciple.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._

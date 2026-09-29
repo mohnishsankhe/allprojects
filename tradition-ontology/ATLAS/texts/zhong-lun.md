@@ -17,7 +17,7 @@
 
 Kumārajīva's Chinese translation (409 CE) of the Mūlamadhyamakakārikā with the commentary of Piṅgala (Qingmu); the basic text of the Chinese Three-Treatise (Sanlun) school.
 **Editions / translations:** 
-  - kind: translation; name: Taishō T1564
+  - kind: translation; name: Taishō T1564 — catalog:CBETA:T30n1564
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

@@ -9,4 +9,4 @@
 Bathing in the tank at Kīnārām Sthal, Varanasi, held to cure illness and grant blessings, especially on set days.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._

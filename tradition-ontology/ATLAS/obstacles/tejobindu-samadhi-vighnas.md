@@ -12,4 +12,4 @@ Lack of inquiry, sloth, desire for enjoyment, dissolution (laya), darkness, dist
   - [Tejobindu Upaniṣad](../texts/tejobindu-upanisad.md) — ref: 1.40-41; rests_on: ["tea:tejobindu-upanisad:1.40-41"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

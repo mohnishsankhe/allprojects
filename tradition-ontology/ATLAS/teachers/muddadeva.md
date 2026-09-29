@@ -8,4 +8,4 @@
 An ācārya of the Śivayogin lineage from which the Siddhāntaśikhāmaṇi's author descends; named Muddadeva because he gave joy (mud) to all beings (SSM 1.15–16).
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._

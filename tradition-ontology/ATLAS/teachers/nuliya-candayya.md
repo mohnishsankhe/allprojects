@@ -12,4 +12,4 @@
 The rope-maker śaraṇa remembered for insisting that kāyaka is not to be interrupted even for worship.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._

@@ -15,4 +15,4 @@
 Atri's Vaikhānasa text on worship of Viṣṇu in a consecrated image (samūrta-arcana).
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._

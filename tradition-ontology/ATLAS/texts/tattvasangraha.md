@@ -22,7 +22,7 @@
   - kind: original; name: Tibetan: Derge D4266
 **Commentaries on this text:** [Tattvasaṅgraha-pañjikā](tattvasangraha-panjika.md)
 
-## Teachings (8: skeleton 8)
+## Teachings (9: skeleton 9)
 
 ### 1456 <a id="tea-tattvasangraha-1456"></a>
 `skeleton` · confidence high
@@ -60,7 +60,7 @@ In the examination of one who sees supersensible things, the Mīmāṃsā denial
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, powers-experiences_
 
-concepts: `cpt:omniscience-madhyamaka`, `cpt:madhyamaka-critique-of-mimamsa` · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md)
+concepts: [The Buddha's omniscience](../concepts/omniscience-madhyamaka.md), [Madhyamaka's critique of the Mīmāṃsā](../concepts/madhyamaka-critique-of-mimamsa.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [The status of the Veda: authorless, God-authored, or rejected?](../debates/status-of-veda.md), [Can any person be omniscient, in particular directly know dharma?](../debates/omniscience.md)
 
 ### atmapariksa <a id="tea-tattvasangraha-atmapariksa"></a>
 `skeleton` · confidence low
@@ -69,7 +69,7 @@ In the examination of the self, the selves of the Naiyāyikas, Mīmāṃsakas, S
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, consciousness-mind_
 
-concepts: `cpt:madhyamaka-critique-of-vedanta` · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md)
+concepts: [Madhyamaka's critique of the Vedānta](../concepts/madhyamaka-critique-of-vedanta.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md)
 
 ### isvarapariksa <a id="tea-tattvasangraha-isvarapariksa"></a>
 `skeleton` · confidence moderate
@@ -78,7 +78,7 @@ In the examination of Īśvara, a permanent creator is refuted: an eternal cause
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, world-fate_
 
-concepts: `cpt:madhyamaka-critique-of-isvara` · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
+concepts: [Madhyamaka's critique of a creator God](../concepts/madhyamaka-critique-of-isvara.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [Is Īśvara real, needed, or a special puruṣa?](../debates/isvara.md)
 
 ### lokayatapariksa <a id="tea-tattvasangraha-lokayatapariksa"></a>
 `skeleton` · confidence moderate
@@ -87,7 +87,16 @@ In the examination of the Lokāyata, the materialist denial of other worlds is r
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, death-dying, karma-liberation_
 
-concepts: `cpt:refutation-of-materialism` · teachers: [Śāntarakṣita](../teachers/santaraksita.md)
+concepts: [Refutation of the Lokāyata denial of rebirth](../concepts/refutation-of-materialism.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md)
+
+### sabdarthapariksa <a id="tea-tattvasangraha-sabdarthapariksa"></a>
+`skeleton` · confidence moderate
+
+The meaning of words is exclusion of others, not a real universal; the Mīmāṃsaka and Naiyāyika objections (Kumārila, Uddyotakara) to Dignāga's apoha are answered.
+
+_level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute, sound-language_
+
+teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [What does a word mean: a real universal, or the exclusion of others (apoha)?](../debates/apoha.md)
 
 ### Śabdabrahma-parīkṣā <a id="tea-tattvasangraha-sabdabrahmapariksa"></a>
 `skeleton` · confidence low
@@ -102,4 +111,4 @@ teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [Is the u
 _Notes: U12, U31 use this id; U09 used src:tattvasangraha-santaraksita for the same text — dedupe. Verse and chapter totals from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U33-sramana, skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U33-sramana, skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._

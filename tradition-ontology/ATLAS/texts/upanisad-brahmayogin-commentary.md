@@ -13,4 +13,4 @@
 Short Advaita commentaries on all 108 Muktikā Upaniṣads, with a maṅgala verse opening each that reads the text as leading to Rāma as the non-dual Brahman; printed with the Adyar editions of the minor Upaniṣads.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

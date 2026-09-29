@@ -12,4 +12,4 @@
 Minister of the Western Gaṅga kings who erected the colossal image of Bāhubali (Gommaṭeśvara) at Śravaṇabeḷagoḷa (c. 981 CE) and wrote the Kannada Cāmuṇḍarāya Purāṇa.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

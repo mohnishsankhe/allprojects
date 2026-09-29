@@ -470,6 +470,63 @@
    }
   },
   {
+   "id": "ult:arya-guhyasamaja",
+   "lineage": "lin:arya-guhyasamaja",
+   "names": [
+    {
+     "name": "prabhāsvara (clear light, 'all-empty')",
+     "term": "trm:prabhasvara"
+    },
+    {
+     "name": "yuganaddha (union)",
+     "term": "trm:yuganaddha"
+    },
+    {
+     "name": "advayajñāna (non-dual gnosis)",
+     "term": "trm:advayajnana"
+    },
+    {
+     "name": "Mahāvajradhara",
+     "term": "trm:vajradhara"
+    }
+   ],
+   "descriptions": [
+    "the fourth empty, clear light (Pañcakrama 2.4–5)",
+    "the union where saṃsāra and nirvāṇa, the two truths, grasped and grasper become one (Pañcakrama 5.2–13)",
+    "non-dual gnosis, non-abiding nirvāṇa, buddhahood (Pañcakrama 5.25)"
+   ],
+   "negations": [
+    "'unborn' and other such words only point to non-dual gnosis (Pañcakrama 5.27)"
+   ],
+   "relation_to_self": "The self-consecration (svādhiṣṭhāna) body is the conventional truth, the illusory body of the yogin himself.",
+   "relation_to_world": "The world is not self-arisen; its cause is clear light (Pañcakrama 3.15).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Clear light is 'all-empty' and non-dual gnosis — the tradition frames it within the two truths of Madhyamaka and would not accept it as a self-existent absolute.",
+   "rests_on": [
+    "tea:pancakrama:2.4",
+    "tea:pancakrama:2.5",
+    "tea:pancakrama:3.15",
+    "tea:pancakrama:5.2",
+    "tea:pancakrama:5.25",
+    "tea:pancakrama:5.27"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U44-indian-vajrayana"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:atimarga",
    "lineage": "lin:atimarga",
    "names": [
@@ -585,6 +642,44 @@
    }
   },
   {
+   "id": "ult:bailian-zong",
+   "lineage": "lin:bailian-zong",
+   "names": [
+    {
+     "name": "Amitābha and the Western Land, read through the Tiantai 'four lands'",
+     "term": "trm:amitabha"
+    }
+   ],
+   "descriptions": [
+    "Mao Ziyuan taught the 'perfect interfusion of the four lands and three contemplations' (Lushan lianzong baojian)."
+   ],
+   "relation_to_self": "The lay practitioner keeps the five precepts and recites to purify the five roots.",
+   "relation_to_world": "The five turbidities of this world are to be left through the five precepts and recitation.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Known only through its defender Pudu's compilation; views of the later White Lotus sects are not represented here.",
+   "rests_on": [
+    "tea:lushan-lianzong-baojian:326a12"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "coverage": [
+    "D"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U43-pure-land"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:balarami",
    "lineage": "lin:balarami",
    "names": [
@@ -618,6 +713,48 @@
    "provenance": {
     "units": [
      "skeleton:U27-sant-baul"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:baotang",
+   "lineage": "lin:baotang",
+   "names": [
+    {
+     "name": "no-thought (wunian 無念)",
+     "term": "trm:wunian"
+    }
+   ],
+   "descriptions": [
+    "When no thought arises, that itself is seeing the Buddha; no-thought includes precepts, samādhi and wisdom (Lidai fabao ji)."
+   ],
+   "negations": [
+    "Thought arising is like the back of a mirror, which reflects nothing (Lidai fabao ji, Musang's saying)."
+   ],
+   "relation_to_self": "",
+   "relation_to_world": "",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Baotang's own record; Zongmi reported it as rejecting all practice. Moderate-low confidence in the formulation.",
+   "rests_on": [
+    "tea:lidai-fabao-ji:185a13"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U42-chan-zen"
     ],
     "phases": [
      "skeleton"
@@ -1010,6 +1147,63 @@
    }
   },
   {
+   "id": "ult:bon",
+   "lineage": "lin:bon",
+   "names": [
+    {
+     "name": "the base of all (kun gzhi)",
+     "term": "trm:kunzhi"
+    },
+    {
+     "name": "awareness (rig pa)",
+     "term": "trm:rigpa"
+    },
+    {
+     "name": "Kuntu Zangpo, the primordial buddha of Bön",
+     "term": "trm:kuntuzangpo"
+    },
+    {
+     "name": "bon nyid (the reality of Bön) and bon sku (the Bön-body)",
+     "term": "trm:bonku"
+    }
+   ],
+   "descriptions": [
+    "The base (kun gzhi) is empty and clear, and awareness (rig pa) is inseparable from it; their union is called 'mother and son' (ma bu) in the Zhang Zhung Nyengyü (moderate confidence).",
+    "Kuntu Zangpo is the Bön-body; Shenlha Ökar the body of perfection; Tönpa Shenrab the emanation body."
+   ],
+   "negations": [
+    "the base is not a thing established by characteristics; awareness cannot be grasped as an object"
+   ],
+   "relation_to_self": "The nature of one's own mind (sems nyid) is the base; recognizing it is Buddhahood.",
+   "relation_to_world": "Appearances arise from the base as light, sound and rays; not recognizing them as the base's own display is the origin of saṃsāra.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Bön insists on its own origin (Tönpa Shenrab, Tagzig) and would reject being read as a variant of Buddhism; its 'kun gzhi' is the ultimate base, whereas in Nyingma usage 'kun gzhi' (all-base) usually names the ground of saṃsāric consciousness — the same word is not the same doctrine.",
+   "rests_on": [
+    "tea:zhang-zhung-nyengyu:outer-cycle",
+    "tea:zhang-zhung-nyengyu:secret-cycle"
+   ],
+   "notes": "Optional (Bön). Built from general knowledge; confidence low-moderate.",
+   "coverage": [
+    "B6",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U45-nyingma-bon"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:boran-kammatthana",
    "lineage": "lin:boran-kammatthana",
    "names": [
@@ -1033,6 +1227,98 @@
    "provenance": {
     "units": [
      "skeleton:U37-abhidhamma-visuddhimagga"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:cakrasamvara",
+   "lineage": "lin:cakrasamvara",
+   "names": [
+    {
+     "name": "Śrī Heruka / Cakrasaṃvara with Vajravārāhī",
+     "term": "trm:heruka"
+    },
+    {
+     "name": "mahāsukha (great bliss)",
+     "term": "trm:mahasukha"
+    },
+    {
+     "name": "saṃvara ('supreme bliss' / binding)",
+     "term": "trm:samvara-bliss"
+    }
+   ],
+   "descriptions": [
+    "the union of Heruka (means, bliss) and Vajravārāhī (wisdom, emptiness)",
+    "the supreme bliss (śrīcakrasaṃvara) that is the 'binding' of the wheel of all phenomena"
+   ],
+   "negations": [],
+   "relation_to_self": "The yogin's body is the maṇḍala: the twenty-four sites are its channels and the deities reside in it (body maṇḍala).",
+   "relation_to_world": "The land of India (the pīṭhas) is the outer maṇḍala; worlds and bodies correspond.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The etymology 'saṃvara = supreme bliss' is the commentators'; the tradition keeps Heruka empty of own-being and distinguishes him from Śaiva Bhairava, whom he is said to have subdued.",
+   "rests_on": [],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U44-indian-vajrayana"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:caodong",
+   "lineage": "lin:caodong",
+   "names": [
+    {
+     "name": "the real (zheng 正)",
+     "term": "trm:zheng-pian"
+    },
+    {
+     "name": "the numinous source (lingyuan 靈源)",
+     "term": "trm:lingyuan"
+    }
+   ],
+   "descriptions": [
+    "'The numinous source shines bright and pure; the branch streams flow in the dark' (Cantongqi).",
+    "The real and the apparent interpenetrate in five ranks (Dongshan)."
+   ],
+   "negations": [
+    "'Holding to phenomena is delusion; merging with principle is not yet awakening' (Cantongqi)."
+   ],
+   "relation_to_self": "'You are not it; it is just you' (Baojing sanmei).",
+   "relation_to_world": "Principle and phenomena interfuse and yet each abides in its place (huihu / bu huihu).",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Caodong's 'real' is not a separate substance: 'it' and 'you' are neither identical nor two.",
+   "rests_on": [
+    "tea:sandokai:459b08",
+    "tea:baojing-sanmei:515a16",
+    "tea:dongshan-yulu:525c01"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U42-chan-zen"
     ],
     "phases": [
      "skeleton"
@@ -1086,6 +1372,76 @@
    "provenance": {
     "units": [
      "skeleton:U33-sramana"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:chan",
+   "lineage": "lin:chan",
+   "names": [
+    {
+     "name": "self-nature (zixing 自性)",
+     "term": "trm:zixing"
+    },
+    {
+     "name": "buddha-nature (foxing 佛性)",
+     "term": "trm:foxing"
+    },
+    {
+     "name": "original mind (benxin 本心)",
+     "term": "trm:benxin"
+    },
+    {
+     "name": "the one mind (yixin 一心)",
+     "term": "trm:yixin"
+    },
+    {
+     "name": "original face (benlai mianmu 本來面目)",
+     "term": "trm:benlai-mianmu"
+    },
+    {
+     "name": "suchness (zhenru 真如)",
+     "term": "trm:tathata"
+    }
+   ],
+   "descriptions": [
+    "Originally pure, originally unborn and undying, originally complete, originally unmoving, able to produce all dharmas (Huineng's words on awakening, Platform Sūtra 4.13).",
+    "The one mind of buddhas and beings, without beginning, neither arisen nor ceased, without form, beyond all measure and names (Huangbo, Chuanxin fayao).",
+    "Samādhi is its substance and prajñā its function, like lamp and light (Platform Sūtra 7.1)."
+   ],
+   "negations": [
+    "'Originally there is not a single thing' (Platform Sūtra 4.11).",
+    "'Neither mind nor buddha' (Mazu).",
+    "'Neither cold nor hot, neither blue nor yellow, not belonging to existence or non-existence' (Huangbo)."
+   ],
+   "relation_to_self": "Not something other than one's own mind: 'if deluded, the buddha is a sentient being; if awakened, the sentient being is a buddha' (Dunhuang Platform Sūtra 52.2).",
+   "relation_to_world": "All dharmas are not apart from the self-nature and are produced by it; mountains, rivers and ordinary activity are its function; the Pure Land is the purified mind.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Chan does not posit an ultimate as an object or a being; names such as buddha-nature and mind are 'expedient names' to be dropped ('if you meet the Buddha, kill the Buddha'). The tradition would reject reading its buddha-nature as a Vedāntic self; Chan critics of the 'Śreṇika heresy' (Nanyang Huizhong) explicitly reject an eternal mind-nature that leaves the body.",
+   "rests_on": [
+    "tea:platform-sutra:4.13",
+    "tea:platform-sutra:4.11",
+    "tea:platform-sutra:7.1",
+    "tea:chuanxin-fayao:379c18",
+    "tea:platform-sutra-dunhuang:52.2"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U42-chan-zen"
     ],
     "phases": [
      "skeleton"
@@ -1597,6 +1953,79 @@
    }
   },
   {
+   "id": "ult:dzogchen",
+   "lineage": "lin:dzogchen",
+   "names": [
+    {
+     "name": "awareness (rig pa)",
+     "term": "trm:rigpa"
+    },
+    {
+     "name": "the ground (gzhi): primordial purity and spontaneous presence",
+     "term": "trm:zhi"
+    },
+    {
+     "name": "bodhicitta, the all-creating king (byang chub kyi sems kun byed rgyal po)",
+     "term": "trm:bodhicitta"
+    },
+    {
+     "name": "self-arising wisdom (rang byung ye shes)",
+     "term": "trm:rangjung-yeshe"
+    },
+    {
+     "name": "Samantabhadra (Kun tu bzang po)",
+     "term": "trm:kuntuzangpo"
+    },
+    {
+     "name": "dharmakāya (chos sku)",
+     "term": "trm:dharmakaya"
+    }
+   ],
+   "descriptions": [
+    "Essence empty (ngo bo stong pa), nature luminous (rang bzhin gsal ba), compassion all-pervading (thugs rje kun khyab) — the three aspects of the ground.",
+    "Primordially pure (ka dag) and spontaneously present (lhun grub).",
+    "'I am primordially self-arising wisdom, the essence of all phenomena' (Kunjed Gyalpo ch.4); the variety is non-dual, free of elaboration in its parts (Kunjed Gyalpo ch.31)."
+   ],
+   "negations": [
+    "not made, not to be sought, not attained by meditation (Kunjed Gyalpo ch.45)",
+    "beyond view, meditation, samaya, grounds and paths to traverse (Kunjed Gyalpo ch.44)",
+    "neither existent nor non-existent, free of the extremes (Longchenpa)"
+   ],
+   "relation_to_self": "Awareness is one's own nature; recognizing it is buddhahood, not recognizing it is the beginning of saṃsāra (one ground, two paths).",
+   "relation_to_world": "Appearances arise as the ground's own display (rtsal, rol pa); deluded beings take them as external objects; in realization they self-liberate.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The 'all-creating king' of the Kunjed Gyalpo is awareness itself speaking, not a creator distinct from beings; Dzogchen also distinguishes the ground from the all-base (kun gzhi) and awareness from mind (sems), and would reject any identification of rig pa with a merely thoughtless state or with a Brahman-like self.",
+   "rests_on": [
+    "tea:kunjed-gyalpo:1",
+    "tea:kunjed-gyalpo:4",
+    "tea:kunjed-gyalpo:31",
+    "tea:kunjed-gyalpo:45",
+    "tea:kunjed-gyalpo:44",
+    "tea:kuntuzangpo-monlam:1",
+    "tea:tsigdon-dzod:ch1",
+    "tea:choying-dzod:ch1"
+   ],
+   "coverage": [
+    "B6",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U45-nyingma-bon"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:early-buddhism",
    "lineage": "lin:early-buddhism",
    "names": [
@@ -1814,6 +2243,49 @@
    }
   },
   {
+   "id": "ult:fayan",
+   "lineage": "lin:fayan",
+   "names": [
+    {
+     "name": "the one mind (yixin)",
+     "term": "trm:yixin"
+    }
+   ],
+   "descriptions": [
+    "'The three realms are only mind; the myriad dharmas are only consciousness' as Fayan's guiding principle (Rentian yanmu)."
+   ],
+   "negations": [
+    "'Not knowing is most intimate' (Luohan Guichen to Fayan)."
+   ],
+   "relation_to_self": "",
+   "relation_to_world": "Every dharma bears the six characteristics of the Huayan teaching, total and particular at once.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Fayan uses Huayan categories but as Chan pointers.",
+   "rests_on": [
+    "tea:rentian-yanmu:324a03",
+    "tea:zongjing-lu:415a18"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U42-chan-zen"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:garibdasi",
    "lineage": "lin:garibdasi",
    "names": [
@@ -1926,6 +2398,49 @@
    "provenance": {
     "units": [
      "skeleton:U16-bhedabheda"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:guiyang",
+   "lineage": "lin:guiyang",
+   "names": [
+    {
+     "name": "the original mind shown as a circle (yuanxiang)",
+     "term": "trm:yuanxiang"
+    }
+   ],
+   "descriptions": [
+    "'In the ground of true reality not a single dust is accepted; in the gate of the myriad practices not a single dharma is discarded' (Guishan yulu)."
+   ],
+   "negations": [
+    "The circle-figures are to be burned once understood (Yangshan)."
+   ],
+   "relation_to_self": "",
+   "relation_to_world": "Principle is realised suddenly; habit energies are removed gradually.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The circle is a pointer, not the thing (Yangshan burned the book of 97 circles).",
+   "rests_on": [
+    "tea:guishan-yulu:577c05",
+    "tea:rentian-yanmu:321c09"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U42-chan-zen"
     ],
     "phases": [
      "skeleton"
@@ -2056,6 +2571,97 @@
    }
   },
   {
+   "id": "ult:heze",
+   "lineage": "lin:heze",
+   "names": [
+    {
+     "name": "numinous knowing (lingzhi 靈知)",
+     "term": "trm:kongji-lingzhi"
+    }
+   ],
+   "descriptions": [
+    "'Of the empty and calm mind, the numinous knowing is never obscured… the one word knowing is the gate of all wonders' (Zongmi reporting Heze teaching, Chan Preface)."
+   ],
+   "negations": [
+    "'The true suchness is without thought' (Xianzong ji)."
+   ],
+   "relation_to_self": "It is one's true nature, known whether deluded or awakened.",
+   "relation_to_world": "",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Knowing is not discursive cognition; Zongmi insists it is not the same as seeing and hearing.",
+   "rests_on": [
+    "tea:chanyuan-zhuquanji-duxu:403a01",
+    "tea:xianzong-ji:458c25"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U42-chan-zen"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:hongzhou",
+   "lineage": "lin:hongzhou",
+   "names": [
+    {
+     "name": "this very mind (jixin 即心)",
+     "term": "trm:jixin-jifo"
+    },
+    {
+     "name": "ordinary mind (pingchang xin 平常心)",
+     "term": "trm:pingchang-xin"
+    }
+   ],
+   "descriptions": [
+    "'The Way needs no cultivation — only do not defile it… the ordinary mind is the Way' (Mazu's sermon, Jingde chuandeng lu juan 28).",
+    "'This very mind is buddha' (Mazu to Damei)."
+   ],
+   "negations": [
+    "'Neither mind nor buddha' (Mazu)."
+   ],
+   "relation_to_self": "The very one walking, standing, sitting and lying.",
+   "relation_to_world": "'All dharmas are mind-dharmas; all names are mind-names' (Mazu).",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Zongmi criticised Hongzhou for equating all activity with buddha-nature; Hongzhou would reject his charge (see dsp:hongzhou-all-activity-buddha-nature).",
+   "rests_on": [
+    "tea:jingde-chuandeng-lu:440a03",
+    "tea:jingde-chuandeng-lu:254c20"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U42-chan-zen"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:jainism",
    "lineage": "lin:jainism",
    "names": [
@@ -2150,6 +2756,190 @@
     "units": [
      "skeleton:U34-jain-canon",
      "skeleton:U35-jain-philosophy"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:ji-shu",
+   "lineage": "lin:ji-shu",
+   "names": [
+    {
+     "name": "the name Namu Amida Butsu (as itself birth)",
+     "term": "trm:namu-amida-butsu"
+    }
+   ],
+   "descriptions": [
+    "The birth of all beings was settled as 'Namu Amida Butsu' at Amida's perfect awakening ten kalpas ago (Kumano oracle, as reported in the Ippen Hijiri-e).",
+    "In the nenbutsu the self, the Buddha and the name are not separate; the name recites the name (reported sayings)."
+   ],
+   "relation_to_self": "The self is to be cast off; not even faith is to be relied on as one's own.",
+   "relation_to_world": "Everything — mountains, rivers, grasses, the sound of wind and waves — is the nenbutsu (reported sayings, Goroku).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Ippen's sayings survive mainly in later compilations; the view is reconstructed from them (low confidence on wording).",
+   "rests_on": [
+    "tea:ippen-hijiri-e:3.kumano",
+    "tea:ippen-shonin-goroku:sutete-koso"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "coverage": [
+    "D"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U43-pure-land"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:jnanapada-guhyasamaja",
+   "lineage": "lin:jnanapada-guhyasamaja",
+   "names": [
+    {
+     "name": "Mañjuvajra (non-dual gnosis as Mañjuśrī)",
+     "term": "trm:advayajnana"
+    },
+    {
+     "name": "the great bliss of union",
+     "term": "trm:mahasukha"
+    }
+   ],
+   "descriptions": [
+    "the gnosis that is the nature of the deity, realized by the union of the two stages"
+   ],
+   "negations": [],
+   "relation_to_self": "The practitioner generates himself as Mañjuvajra; the deity is the purified nature.",
+   "relation_to_world": "Appearances are the display of gnosis (maṇḍala).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Reconstructed from general knowledge of the school; no Jñānapāda text read locally.",
+   "rests_on": [],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U44-indian-vajrayana"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:jodo-shinshu",
+   "lineage": "lin:jodo-shinshu",
+   "names": [
+    {
+     "name": "Amida Nyorai; the Tathāgata of Unhindered Light filling the ten directions (Jin jippō mugekō nyorai)",
+     "term": "trm:amitabha"
+    },
+    {
+     "name": "the name (myōgō) Namu Amida Butsu",
+     "term": "trm:namu-amida-butsu"
+    },
+    {
+     "name": "dharma-body as suchness (hosshō hosshin), formless",
+     "term": "trm:dharmakaya"
+    },
+    {
+     "name": "jinen (naturalness)",
+     "term": "trm:jinen-honi"
+    }
+   ],
+   "descriptions": [
+    "The supreme Buddha is formless; being formless it is called jinen; Amida is the means by which we are made to know jinen (the jinen hōni letter).",
+    "The true Buddha is the Tathāgata of inconceivable light; the true land is the land of immeasurable light (Kyōgyōshinshō, chapter on the true Buddha and land).",
+    "Shinjin is buddha-nature; buddha-nature is the Tathāgata (Jōdo wasan; Kyōgyōshinshō, Shin chapter)."
+   ],
+   "negations": [
+    "Birth is not attained by the practitioner's calculation (hakarai); 'no working is true working'."
+   ],
+   "relation_to_self": "The self is a foolish being full of blind passions for whom no practice is possible; shinjin, given by Amida, is itself the Buddha's mind in the person, who becomes 'equal to the Tathāgatas' while remaining a foolish being.",
+   "relation_to_world": "The world is a burning house where 'all is empty and false; only the nenbutsu is true' (Tannishō postscript); one returns to it from the Pure Land to save others (gensō).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Shinshū distinguishes sharply between the Buddha's mind and the foolish being's mind, and between the true and transformed lands; it would reject any reading that makes the practitioner already a buddha by his own realization or that treats Amida as one deity among many worthy of worship.",
+   "rests_on": [
+    "tea:mattosho:5",
+    "tea:kyogyoshinsho:shinbutsudo",
+    "tea:jodo-wasan:shinjin-buddha-nature",
+    "tea:tannisho:postscript"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "coverage": [
+    "D"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U43-pure-land"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:jodo-shu",
+   "lineage": "lin:jodo-shu",
+   "names": [
+    {
+     "name": "Amida Butsu",
+     "term": "trm:amitabha"
+    },
+    {
+     "name": "Gokuraku jōdo (the Land of Utmost Bliss)",
+     "term": "trm:sukhavati"
+    },
+    {
+     "name": "the name Namu Amida Butsu, in which all virtues are gathered",
+     "term": "trm:namu-amida-butsu"
+    }
+   ],
+   "descriptions": [
+    "The name contains all the virtues of the Buddha's inner realization and outer activity; hence it is superior and was selected in the primal vow (Senchakushū 3).",
+    "Amida is a reward-body buddha in a reward land to which ordinary beings are born by the power of the vow (following Shandao)."
+   ],
+   "relation_to_self": "The practitioner is an ignorant ordinary being who should, like one who knows not a single letter, simply say the nenbutsu (One-Sheet Document).",
+   "relation_to_world": "This world in the last age is to be left; the Pure Land in the west is where awakening is completed; one lives so as best to say the nenbutsu.",
+   "personal_or_impersonal": "personal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Jōdo-shū keeps 'pointing to a direction and establishing form' (shihō rissō) and rejects readings of the Pure Land as mind only; it would not accept reducing Amida to an impersonal absolute.",
+   "rests_on": [
+    "tea:senchakushu:3",
+    "tea:ichimai-kishomon:whole"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "coverage": [
+    "D"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U43-pure-land"
     ],
     "phases": [
      "skeleton"
@@ -2323,6 +3113,59 @@
    "provenance": {
     "units": [
      "skeleton:U27-sant-baul"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:kalacakra",
+   "lineage": "lin:kalacakra",
+   "names": [
+    {
+     "name": "Ādibuddha (the primordial buddha)",
+     "term": "trm:adibuddha"
+    },
+    {
+     "name": "akṣarasukha (immutable bliss)",
+     "term": "trm:aksara-sukha"
+    },
+    {
+     "name": "Kālacakra (time and wheel = means and wisdom)",
+     "term": "trm:kalacakra"
+    },
+    {
+     "name": "śūnyatābimba (empty form)",
+     "term": "trm:sunyatabimba"
+    }
+   ],
+   "descriptions": [
+    "the image arisen from emptiness is the cause; the bliss born of the immutable is the result; each seals the other (Sekoddeśa 146)",
+    "the fourth consecration is the ultimate, the other three are conventional (Sekoddeśa 8)"
+   ],
+   "negations": [
+    "the stain of mind is neither adventitious nor long-lasting, neither born without mind nor abiding in it (Sekoddeśa 129)"
+   ],
+   "relation_to_self": "Kālacakra is the non-dual union within the practitioner's body of the unchanging bliss and the empty form of the deity.",
+   "relation_to_world": "Outer (cosmos, time), inner (body) and alternative (deity) wheels correspond; the practitioner reverses the movement of time in the channels.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The Vimalaprabhā insists that the Ādibuddha is not a creator god and not a self; it is emptiness endowed with all aspects.",
+   "rests_on": [
+    "tea:sekoddesa:8",
+    "tea:sekoddesa:129",
+    "tea:sekoddesa:146"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U44-indian-vajrayana"
     ],
     "phases": [
      "skeleton"
@@ -2915,6 +3758,60 @@
    }
   },
   {
+   "id": "ult:linji",
+   "lineage": "lin:linji",
+   "names": [
+    {
+     "name": "true person of no rank (wuwei zhenren 無位真人)",
+     "term": "trm:wuwei-zhenren"
+    },
+    {
+     "name": "person of the Way who depends on nothing (wuyi daoren 無依道人)",
+     "term": "trm:wuyi-daoren"
+    },
+    {
+     "name": "mind-dharma (xinfa 心法)",
+     "term": "trm:xin"
+    }
+   ],
+   "descriptions": [
+    "'On the lump of red flesh there is a true person of no rank, always going in and out of the gates of your face' (Linji lu).",
+    "'The mind-dharma has no form and pervades the ten directions; in the eye it is called seeing, in the ear hearing…' (Linji lu).",
+    "'Only the person of the Way who depends on nothing, listening to the Dharma, is the mother of all buddhas' (Linji lu)."
+   ],
+   "negations": [
+    "'What kind of dried shit-stick is the true person of no rank?' (Linji lu) — no fixation even of this."
+   ],
+   "relation_to_self": "It is 'just you, listening to the Dharma right in front of me'.",
+   "relation_to_world": "Entering all realms — ordinary and holy, pure and defiled — without being defined by them; 'be master wherever you are'.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Linji denies that any name — buddha, patriarch, bodhi, nirvāṇa — is the reality; they are 'hitching posts for donkeys'. The tradition would reject reifying the true person as a soul.",
+   "rests_on": [
+    "tea:linji-lu:496c10",
+    "tea:linji-lu:497c04",
+    "tea:linji-lu:498b23"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U42-chan-zen"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:lokottaravada",
    "lineage": "lin:lokottaravada",
    "names": [
@@ -3158,6 +4055,66 @@
    "provenance": {
     "units": [
      "skeleton:U37-abhidhamma-visuddhimagga"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:mahasiddha",
+   "lineage": "lin:mahasiddha",
+   "names": [
+    {
+     "name": "sahaja (lhan cig skyes pa, the innate / co-emergent)",
+     "term": "trm:sahaja"
+    },
+    {
+     "name": "cittatā, mind itself (sems nyid)",
+     "term": "trm:cittata"
+    },
+    {
+     "name": "mahāmudrā (phyag rgya chen po)",
+     "term": "trm:mahamudra"
+    },
+    {
+     "name": "mahāsukha (bde ba chen po)",
+     "term": "trm:mahasukha"
+    },
+    {
+     "name": "the natural state (gnyug ma, nija)",
+     "term": "trm:nija"
+    }
+   ],
+   "descriptions": [
+    "mind itself alone is the seed of everything, from which saṃsāra and nirvāṇa radiate; it grants what is wished like a wish-fulfilling jewel (People Dohā v42–43)",
+    "the innate is the Buddha dwelling in the body (People Dohā v82)",
+    "like space: beyond colour and shape, unstained by good and evil (Gaṅgā Mahāmudrā v11)"
+   ],
+   "negations": [
+    "not thing and not no-thing (People Dohā v21–22)",
+    "cannot be told in words (People Dohā v39)"
+   ],
+   "relation_to_self": "The innate is realized when self and other are not distinguished (People Dohā v73, v98); Saraha's 'self' (bdag nyid) language is not an ātman doctrine but the nature of mind.",
+   "relation_to_world": "Whatever is seen in front, behind and in the ten directions is 'that itself' (People Dohā v29); saṃsāra and nirvāṇa are not two (People Dohā v122).",
+   "personal_or_impersonal": "impersonal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The siddhas point to the nature of mind rather than to a being; their 'one' is the non-duality of appearance and emptiness, and they would reject both an eternal self and a mere nothingness.",
+   "rests_on": [
+    "tea:dohakosa-saraha:v42-43",
+    "tea:dohakosa-saraha:v29",
+    "tea:dohakosa-saraha:v122",
+    "tea:ganga-mahamudra:v11"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U44-indian-vajrayana"
     ],
     "phases": [
      "skeleton"
@@ -3985,6 +4942,84 @@
    }
   },
   {
+   "id": "ult:niutou",
+   "lineage": "lin:niutou",
+   "names": [
+    {
+     "name": "the Way as fundamentally empty",
+     "term": "trm:sunyata"
+    }
+   ],
+   "descriptions": [
+    "Mind is fundamentally quiescent; 'forgetting feelings' is practice (Zongmi's report)."
+   ],
+   "negations": [],
+   "relation_to_self": "",
+   "relation_to_world": "",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Known mostly through others' reports; the Xinming and Jueguan lun attributions are disputed. Low confidence.",
+   "rests_on": [],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U42-chan-zen"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:northern-chan",
+   "lineage": "lin:northern-chan",
+   "names": [
+    {
+     "name": "the pure mind / buddha-nature",
+     "term": "trm:foxing"
+    }
+   ],
+   "descriptions": [
+    "The mind is like a bright mirror on its stand, to be wiped constantly (the verse ascribed to Shenxiu, Platform Sūtra 4.6)."
+   ],
+   "negations": [],
+   "relation_to_self": "The pure mind is one's own, obscured by dust.",
+   "relation_to_world": "Deluded thoughts are adventitious dust.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "This is the Northern view as the Platform Sūtra presents it (an opponent's report); Northern texts themselves (Guanxin lun) are only summarised here from memory.",
+   "rests_on": [
+    "tea:platform-sutra:4.6"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U42-chan-zen"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:nyaya",
    "lineage": "lin:nyaya",
    "names": [
@@ -4041,6 +5076,113 @@
    "provenance": {
     "units": [
      "skeleton:U11-nyaya-vaisesika"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:nyingma",
+   "lineage": "lin:nyingma",
+   "names": [
+    {
+     "name": "Samantabhadra (Kun tu bzang po), the dharmakāya primordial buddha",
+     "term": "trm:kuntuzangpo"
+    },
+    {
+     "name": "the ground (gzhi)",
+     "term": "trm:zhi"
+    },
+    {
+     "name": "the nature of the sugatas (bde gshegs snying po)",
+     "term": "trm:tathagatagarbha"
+    },
+    {
+     "name": "great purity and equality (dag mnyam chen po)",
+     "term": "trm:dagnyam-chenpo"
+    },
+    {
+     "name": "dharmadhātu (chos kyi dbyings)",
+     "term": "trm:dharmadhatu"
+    }
+   ],
+   "descriptions": [
+    "All phenomena are primordially buddha: 'from the unborn all is born; in being born there is no birth' (Guhyagarbha ch.2).",
+    "Appearances are primordially pure as the maṇḍala of deities (the aggregates are the five buddhas, Guhyagarbha ch.1) and equal in emptiness.",
+    "In Mipham's Nyingma reading, buddha-nature is the union of luminosity and emptiness, with the qualities spontaneously present."
+   ],
+   "negations": [
+    "no arising, abiding, ceasing, coming or going (Guhyagarbha ch.2)",
+    "no bondage and no liberation: 'no one binds, there is no bondage' (Guhyagarbha ch.2)"
+   ],
+   "relation_to_self": "Beings are primordially buddhas whose own conceptual grasping at 'I' and 'mine' ties 'knots in space'; the 'self' is not established, but the nature of mind is the sugatagarbha.",
+   "relation_to_world": "The world as it appears through karmic delusion is the five realms; as it is, it is the spontaneously present maṇḍala (pure appearance).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The Nyingma deny a creator god and a permanent self: Samantabhadra is the dharmakāya — the ground recognized — not a person who made the world, and the sugatagarbha is not the self of the tīrthikas (Mipham). The one-truth reading is acceptable only as 'one ground, two paths' (recognition and non-recognition), not as the identity of all doctrines.",
+   "rests_on": [
+    "tea:guhyagarbha-tantra:1",
+    "tea:guhyagarbha-tantra:2",
+    "tea:guhyagarbha-tantra:2/2",
+    "tea:kuntuzangpo-monlam:1",
+    "tea:sugatagarbha-lions-roar-mipham:1"
+   ],
+   "coverage": [
+    "B6",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U45-nyingma-bon"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:obaku",
+   "lineage": "lin:obaku",
+   "names": [
+    {
+     "name": "buddha-mind (busshin)",
+     "term": "trm:xin"
+    },
+    {
+     "name": "Amitābha as one's own mind (yuishin no Mida)",
+     "term": "trm:weixin-jingtu"
+    }
+   ],
+   "descriptions": [
+    "The Pure Land is only mind and Amitābha is one's own nature (the Ming Chan–Pure Land formula followed by Ōbaku)."
+   ],
+   "negations": [],
+   "relation_to_self": "Amitābha recited and the reciter are not two.",
+   "relation_to_world": "The Pure Land is not apart from the purified mind.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Ōbaku holds recitation and Zen to be one; Hakuin's Rinzai criticised this mixture. Low confidence on a specific Ōbaku text stating this.",
+   "rests_on": [],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U42-chan-zen"
     ],
     "phases": [
      "skeleton"
@@ -4371,6 +5513,73 @@
    }
   },
   {
+   "id": "ult:pramana-buddhist",
+   "lineage": "lin:pramana-buddhist",
+   "names": [
+    {
+     "name": "paramārtha-sat (the ultimately real: the causally efficacious particular)",
+     "term": "trm:paramarthasat"
+    },
+    {
+     "name": "svalakṣaṇa (the unique particular)",
+     "term": "trm:svalaksana"
+    },
+    {
+     "name": "non-dual cognition (at the cognition-only level)",
+     "term": "trm:grahya-grahaka"
+    },
+    {
+     "name": "prabhāsvara citta (the luminous mind)",
+     "term": "trm:prabhasvara-citta"
+    },
+    {
+     "name": "śūnyatā / nairātmya (whose seeing liberates)",
+     "term": "trm:sunyata"
+    }
+   ],
+   "descriptions": [
+    "what is capable of causal efficacy is ultimately real (PV 3.3 conventional; NB 1.14–15)",
+    "cognition in itself is undivided; grasped and grasper are seen only by distorted vision (PV 3.354 conventional)",
+    "the mind is luminous by nature; the stains are adventitious (PV 2.208 conventional)",
+    "liberation comes from seeing emptiness (PV 2.253 conventional)"
+   ],
+   "negations": [
+    "no permanent means of knowledge, no creator God, no eternal self, no authorless Veda (PV Pramāṇasiddhi)",
+    "the particular is inexpressible; universals are not real"
+   ],
+   "relation_to_self": "There is no self; seeing a self is the root of attachment and all faults; seeing selflessness uproots it.",
+   "relation_to_world": "The world of experience consists of momentary particulars; at the higher level it is cognition without real division into subject and object.",
+   "personal_or_impersonal": "not-posited",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The pramāṇa school does not posit a single ultimate being: its 'ultimately real' is a plurality of momentary particulars, and at the cognition-only level non-dual cognition, not a universal consciousness; it explicitly refutes God and any permanent reality. The one-truth reading must record this denial.",
+   "rests_on": [
+    "tea:nyayabindu:1.12-17",
+    "tea:pramanavarttika:2.1-3",
+    "tea:pramanavarttika:2.354",
+    "tea:pramanavarttika:1.210",
+    "tea:pramanavarttika:1.253-255",
+    "tea:pramanavarttika:1.10"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U41-yogacara-pramana"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:prasangika",
    "lineage": "lin:prasangika",
    "names": [
@@ -4410,7 +5619,7 @@
     "tea:madhyamakavatara:6.23",
     "tea:bodhicaryavatara:9.2",
     "tea:madhyamakavatara:6.151-160",
-    "tea:prasannapada:1.1-svatantra"
+    "tea:prasannapada:1.1"
    ],
    "verification": {
     "level": "skeleton",
@@ -4596,6 +5805,68 @@
    "provenance": {
     "units": [
      "skeleton:U07-puranas"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:pure-land",
+   "lineage": "lin:pure-land",
+   "names": [
+    {
+     "name": "Amitābha / Amitāyus (Immeasurable Light, Immeasurable Life)",
+     "term": "trm:amitabha"
+    },
+    {
+     "name": "Sukhāvatī, the Pure Land of Peace and Bliss (Anle, Anyang, Jile)",
+     "term": "trm:sukhavati"
+    },
+    {
+     "name": "the uncreated dharma-body of true wisdom (zhenshi zhihui wuwei fashen)",
+     "term": "trm:dharmakaya"
+    },
+    {
+     "name": "dharma-nature (faxing)",
+     "term": "trm:faxing"
+    }
+   ],
+   "descriptions": [
+    "The three adornments of the land, the Buddha and the bodhisattvas 'enter the one dharma-phrase': the pure phrase, which is the uncreated dharma-body of true wisdom (Rebirth Treatise, T1524 232b22-25).",
+    "The Pure Land surpasses the paths of the three realms, is ultimately like space, vast and boundless (T1524 230c21-22); it is not included in the three realms (Tanluan, Daochuo).",
+    "Amitābha now present is a reward-body buddha and his land a reward land (Daochuo, Anle ji 5c; Shandao).",
+    "The dharma-body of dharma-nature gives rise to the dharma-body of expedient means and the latter manifests the former; different but inseparable, one but not identical (Tanluan's Commentary)."
+   ],
+   "negations": [
+    "Birth there is 'the birth of non-birth', not the deluded birth of the three existences (T1958 11c11-14).",
+    "The Buddha seen in samādhi neither comes nor goes; mind makes the buddha (Pratyutpanna; Contemplation Sūtra 8)."
+   ],
+   "relation_to_self": "Beings are ordinary foolish beings bound by passions (fanfu) who cannot reach awakening by their own power in this age; they are embraced by the Buddha's light and vow; in the Chan-inflected reading, 'this mind is the Buddha' and Amitābha is the Buddha of one's own nature, but birth in the West is still to be sought.",
+   "relation_to_world": "This Sahā world of five turbidities is to be loathed and left; Sukhāvatī, created by Dharmākara's vows, lies west beyond ten trillion buddha-lands; for the mind-only reading the pure land is where the mind is pure, without denying the Western land.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Pure Land teachers insist on the distinctness of Amitābha and his land from the practitioner ('pointing to a direction and establishing form') and would reject a reading that dissolves the Western land into a symbol of one truth; they accept the Mahāyāna identity of all buddhas in dharma-nature but hold that one must rely on this Buddha's vow. The equation of Amitābha with a single ultimate is therefore made only in the interpretation layer and only under P1-level.",
+   "rests_on": [
+    "tea:wangsheng-lun:232b22-25",
+    "tea:wangsheng-lun:230c21-22",
+    "tea:anle-ji:5c11-15",
+    "tea:anle-ji:11c08-14",
+    "tea:wangsheng-lun-zhu:2.dharmakaya"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "coverage": [
+    "D",
+    "B4"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U43-pure-land"
     ],
     "phases": [
      "skeleton"
@@ -5138,6 +6409,58 @@
    "provenance": {
     "units": [
      "skeleton:U26-regional-bhakti"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:rinzai",
+   "lineage": "lin:rinzai",
+   "names": [
+    {
+     "name": "one's own nature (jishō 自性)",
+     "term": "trm:zixing"
+    },
+    {
+     "name": "original face",
+     "term": "trm:benlai-mianmu"
+    },
+    {
+     "name": "the true person of no rank",
+     "term": "trm:wuwei-zhenren"
+    }
+   ],
+   "descriptions": [
+    "Seen directly in kenshō when the great doubt shatters (Hakuin).",
+    "'Beings are originally buddhas, like water and ice' (Zazen wasan)."
+   ],
+   "negations": [
+    "No-thought; beyond being and non-being (Wumenguan case 1 commentary)."
+   ],
+   "relation_to_self": "The seeing nature is one's own; 'this very place is the Lotus Land, this very body the Buddha' (Zazen wasan closing).",
+   "relation_to_world": "The world seen after kenshō is the Pure Land here; compassion flows as the 'four wisdoms'.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Rinzai insists the nature must be seen, not merely believed; it criticises the view that sitting in quiet is itself awakening ('dead sitting').",
+   "rests_on": [
+    "tea:zazen-wasan:opening",
+    "tea:wumenguan:1"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U42-chan-zen"
     ],
     "phases": [
      "skeleton"
@@ -5992,6 +7315,60 @@
    }
   },
   {
+   "id": "ult:seon",
+   "lineage": "lin:seon",
+   "names": [
+    {
+     "name": "true mind (jinsim 真心)",
+     "term": "trm:zhenxin"
+    },
+    {
+     "name": "empty and calm, numinous awareness (gongjeok yeongji 空寂靈知)",
+     "term": "trm:kongji-lingzhi"
+    },
+    {
+     "name": "self-nature (jaseong 自性)",
+     "term": "trm:zixing"
+    }
+   ],
+   "descriptions": [
+    "The mind that is empty and calm yet numinously aware and never obscured is one's original face and the Dharma-seal transmitted by buddhas and patriarchs (Jinul, Susim kyol).",
+    "Samādhi is its substance and prajñā its function; calm and always knowing, knowing and always calm (Susim kyol)."
+   ],
+   "negations": [
+    "It has no form or characteristic, no size, no boundary, no inside or outside, no birth and death (Susim kyol)."
+   ],
+   "relation_to_self": "It is the very one who asks the question — the awareness that sees, hears and acts (Susim kyol).",
+   "relation_to_world": "It is not the physical body; the body is 'provisional, arising and ceasing', while 'one thing is ever numinous, covering heaven and earth' (Susim kyol).",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Jinul's language of numinous awareness follows Zongmi and the Heze line; Korean critics (Seongcheol) held that this 'understanding-awakening' is not final realization. The tradition would reject reading the true mind as an entity separate from phenomena.",
+   "rests_on": [
+    "tea:susim-kyol:1007a02",
+    "tea:susim-kyol:1008a02",
+    "tea:susim-kyol:1005c21",
+    "tea:susim-kyol:1007a21"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U42-chan-zen"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:siddha-medicine",
    "lineage": "lin:siddha-medicine",
    "names": [
@@ -6078,6 +7455,60 @@
    "provenance": {
     "units": [
      "skeleton:U16-bhedabheda"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:soto",
+   "lineage": "lin:soto",
+   "names": [
+    {
+     "name": "buddha-nature (busshō)",
+     "term": "trm:foxing"
+    },
+    {
+     "name": "the realized kōan (genjōkōan)",
+     "term": "trm:genjokoan"
+    },
+    {
+     "name": "being-time (uji)",
+     "term": "trm:uji"
+    }
+   ],
+   "descriptions": [
+    "'Whole being is buddha-nature' (Busshō).",
+    "Practice and realization are one: sitting is itself the realization of buddhahood (Bendōwa)."
+   ],
+   "negations": [
+    "Buddha-nature is not a seed awaiting conditions nor a permanent self; impermanence is buddha-nature (Busshō)."
+   ],
+   "relation_to_self": "The self forgotten is authenticated by the myriad dharmas (Genjōkōan).",
+   "relation_to_world": "Mountains, waters, time and all beings are the presencing of buddha-nature.",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Dōgen rejects the 'Śreṇika heresy' of an eternal mind-nature separate from a perishing body (Bendōwa, Sokushin zebutsu); Sōtō would reject reading buddha-nature as a hidden essence.",
+   "rests_on": [
+    "tea:bussho:whole-being",
+    "tea:bendowa:practice-realization",
+    "tea:genjokoan:to-study-the-self",
+    "tea:bendowa:srenika"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U42-chan-zen"
     ],
     "phases": [
      "skeleton"
@@ -6411,8 +7842,10 @@
    "tradition_denies_single_ultimate": true,
    "caveat": "Emptiness is a negation, not an entity; the Svātantrika authors (who did not call themselves so) would reject treating it as a substantial ground.",
    "rests_on": [
-    "tea:prajnapradipa:1-critique-of-buddhapalita",
-    "tea:madhyamakahrdaya:3-paryaya-paramartha",
+    "tea:prajnapradipa:1.1",
+    "tea:prajnapradipa:1.1/2",
+    "tea:madhyamakahrdaya:3.12",
+    "tea:tarkajvala:3.26",
     "tea:satyadvayavibhanga:8-12"
    ],
    "verification": {
@@ -7234,10 +8667,35 @@
     "D"
    ],
    "verification": {
-    "level": "skeleton",
+    "level": "sourced",
     "confidence": "high",
     "unverified": false,
-    "checks": []
+    "checks": [
+     {
+      "phase": "C",
+      "date": "2026-09-29",
+      "method": "text-locate",
+      "queries": [
+       "prepared segments: TU 2.1.1, ChU 6.2.1, BĀU 3.9.28, TU 2.7.1, TU 3.1.1, ChU 3.14.1, MuU 2.2.11, BĀU 5.1.1, ŚU 4.10, ŚU 6.8"
+      ],
+      "evidence": [
+       "text:sources_raw/prepared/aitareya-upanisad/segments.jsonl (Advaita-Śāradā mūla Aitareya.md, adhyāya.khaṇḍa.verse)",
+       "text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā)",
+       "text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse)",
+       "text:sources_raw/prepared/isa-upanisad/segments.jsonl (Advaita-Śāradā mūla Isha.md, Śaṅkara numbering)",
+       "text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse)",
+       "text:sources_raw/prepared/kena-upanisad/segments.jsonl (Advaita-Śāradā mūla Kena_pada.md, Śaṅkara numbering)",
+       "text:sources_raw/prepared/mandukya-upanisad/segments.jsonl (GRETIL Devanāgarī mirror mandukya-upanisad.md)",
+       "text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering)",
+       "text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md)",
+       "text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā mūla Taitiriya.md, vallī.anuvāka.verse)",
+       "text:sources_raw/dcs/corpus/GRETIL/sa_bRhadAraNyakopaniSadkANva-recension-comm.txt (GRETIL Kāṇva BĀU with Śaṅkara's commentary)"
+      ],
+      "result": "confirmed",
+      "note": "All the descriptions and negations are located at the cited refs, except 'pūrṇam adaḥ' (BĀU 5.1.1), which the Advaita-Śāradā segment lacks but GRETIL has at 5.1.1. Examples: satyaṃ jñānam anantam TU 2.1.1; sad eva … ekam evādvitīyam ChU 6.2.1; vijñānam ānandaṃ brahma BĀU 3.9.28; raso vai saḥ TU 2.7.1; brahmaivedaṃ viśvam MuU 2.2.11 (common numbering = Śāradā 2.2.12); asthūlam anaṇu BĀU 3.8.8; aśabdam asparśam KU 1.3.15; yato vāco nivartante TU 2.4.1; nāntaḥprajñam MāU 7; neti neti BĀU 2.3.6, 3.9.26, 4.2.4, 4.4.22, 4.5.15. The record keeps the statements without deciding between the later readings. All 31 Upaniṣad refs cited in the entry are located in the prepared segments (TU 2.1.1; ChU 6.2.1; BĀU 3.9.28; TU 2.7.1; TU 3.1.1; ChU 3.14.1; MuU 2.2.11; BĀU 5.1.1; ŚU 4.10; ŚU 6.8; BĀU 2.3.6; BĀU 3.9.26 …). It rests on 23 teaching(s) text-located in this sweep, and its wording matches those passages. MuU 2.2.11 is cited in the common numbering (Advaita-Śāradā is one higher from 2.2.8), and the passage meant was checked under that numbering.",
+      "by": "sourcing:U03-principal-upanisads"
+     }
+    ]
    },
    "provenance": {
     "units": [
@@ -7472,6 +8930,84 @@
    "provenance": {
     "units": [
      "skeleton:U27-sant-baul"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:vajrayana",
+   "lineage": "lin:vajrayana",
+   "names": [
+    {
+     "name": "Vajradhara / Vajrasattva (the sixth buddha, lord of all families)",
+     "term": "trm:vajradhara"
+    },
+    {
+     "name": "mahāsukha (great bliss)",
+     "term": "trm:mahasukha"
+    },
+    {
+     "name": "prabhāsvara (clear light)",
+     "term": "trm:prabhasvara"
+    },
+    {
+     "name": "yuganaddha (union)",
+     "term": "trm:yuganaddha"
+    },
+    {
+     "name": "advayajñāna (non-dual gnosis)",
+     "term": "trm:advayajnana"
+    },
+    {
+     "name": "bodhicitta (ultimate: the union of emptiness and compassion)",
+     "term": "trm:bodhicitta"
+    },
+    {
+     "name": "mahāmudrā (the great seal)",
+     "term": "trm:mahamudra"
+    },
+    {
+     "name": "sahaja (the innate)",
+     "term": "trm:sahaja"
+    },
+    {
+     "name": "Ādibuddha (the primordial buddha)",
+     "term": "trm:adibuddha"
+    }
+   ],
+   "descriptions": [
+    "the non-duality of emptiness (prajñā) and compassion/means (upāya), 'the union of the two'",
+    "bodhicitta 'without beginning or end, beyond existence and non-existence' (Guhyasamāja ch. 2)",
+    "clear light, the fourth or 'all-empty' (Pañcakrama 2.5)",
+    "without beginning or end, the primordial buddha, gnosis as its sole eye (Nāmasaṃgīti 100)"
+   ],
+   "negations": [
+    "neither being nor non-being; 'in the absence of being there is no meditation' (Guhyasamāja 2.3)",
+    "unborn, not an object of thought or speech (the dohās)"
+   ],
+   "relation_to_self": "The deity one arises as is the practitioner's own purified nature ('I am Vajrasattva', vajrātmako 'ham, Tattvasaṃgraha); this 'divine pride' rests on emptiness and is not an eternal self.",
+   "relation_to_world": "Saṃsāra and nirvāṇa are not two (Pañcakrama 5.2); the world is seen as maṇḍala and deity (pure vision); ordinary appearances are the illusory display of the deity.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "The Vajrayāna speaks of one non-dual gnosis (and personifies it as Vajradhara or the Ādibuddha), but always as empty of own-being; it rejects any reading of this as a permanent self or creator (Hevajra and Kālacakra commentators explicitly deny that the Ādibuddha is an Īśvara).",
+   "rests_on": [
+    "tea:guhyasamaja-tantra:2.3",
+    "tea:pancakrama:2.4",
+    "tea:pancakrama:5.2",
+    "tea:manjusrinamasamgiti:100",
+    "tea:sarvatathagatatattvasamgraha:1.five-abhisambodhis"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U44-indian-vajrayana"
     ],
     "phases": [
      "skeleton"
@@ -8144,6 +9680,84 @@
    }
   },
   {
+   "id": "ult:yogacara",
+   "lineage": "lin:yogacara",
+   "names": [
+    {
+     "name": "pariniṣpanna-svabhāva (the perfected nature)",
+     "term": "trm:parinispanna-svabhava"
+    },
+    {
+     "name": "tathatā (suchness)",
+     "term": "trm:tathata"
+    },
+    {
+     "name": "dharmadhātu",
+     "term": "trm:dharmadhatu"
+    },
+    {
+     "name": "vijñaptimātratā (cognition-only-ness)",
+     "term": "trm:vijnaptimatrata"
+    },
+    {
+     "name": "śūnyatā (emptiness of duality)",
+     "term": "trm:sunyata"
+    },
+    {
+     "name": "dharmatā",
+     "term": "trm:dharmata"
+    },
+    {
+     "name": "anāsrava-dhātu (the undefiled element)",
+     "term": "trm:anasrava-dhatu"
+    }
+   ],
+   "descriptions": [
+    "the dependent's constant absence of the imagined (Triṃśikā 21)",
+    "the ultimate of dharmas, always thus, cognition-only-ness itself (Triṃśikā 25)",
+    "the non-existence of duality and the existence of that non-existence (Madhyāntavibhāga 1.14)",
+    "inconceivable, wholesome, constant, blissful — the liberation-body, the dharma-body (Triṃśikā 30)",
+    "undifferentiated in all beings; purified, it is tathāgatahood (Mahāyānasūtrālaṃkāra 9.37)"
+   ],
+   "negations": [
+    "neither existent nor non-existent, neither thus nor otherwise, neither born nor perishing (Mahāyānasūtrālaṃkāra 6.1)",
+    "neither other nor not other than the dependent (Triṃśikā 22)",
+    "inexpressible (Bodhisattvabhūmi, tattvārtha)"
+   ],
+   "relation_to_self": "There is no self; the afflicted mind mistakes the store-consciousness for one. The ultimate is realized when the grasping of self and dharmas ceases and the basis is transformed.",
+   "relation_to_world": "The world is the transformation of consciousness (cognition-only); the perfected nature is that world's true nature, reached when its imagined duality is seen through.",
+   "personal_or_impersonal": "impersonal",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Yogācāra denies any self or creator; suchness is not a substance or a Brahman, and cognition-only is not a cosmic mind but the mind-streams of beings. The school rejects the Madhyamaka reading that even the dependent and the perfected are simply empty, and it teaches differing lineages rather than one destiny for all — reading it as 'one truth under many names' must keep these denials.",
+   "rests_on": [
+    "tea:trimsika:21",
+    "tea:trimsika:25",
+    "tea:trimsika:29-30",
+    "tea:madhyantavibhaga:1.13-16",
+    "tea:mahayanasutralamkara:6.1",
+    "tea:mahayanasutralamkara:9.37",
+    "tea:bodhisattvabhumi:1.4"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "high",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U41-yogacara-pramana"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
    "id": "ult:yogacara-madhyamaka",
    "lineage": "lin:yogacara-madhyamaka",
    "names": [
@@ -8181,7 +9795,7 @@
    "rests_on": [
     "tea:madhyamakalamkara:1",
     "tea:madhyamakalamkara:92-93",
-    "tea:bhavanakrama:3-bhutapratyaveksa"
+    "tea:bhavanakrama:3"
    ],
    "verification": {
     "level": "skeleton",
@@ -8249,6 +9863,143 @@
    "provenance": {
     "units": [
      "skeleton:U21-natha-aghora"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:yunmen",
+   "lineage": "lin:yunmen",
+   "names": [
+    {
+     "name": "the one word / everyday reality",
+     "term": "trm:xin"
+    }
+   ],
+   "descriptions": [
+    "'Every day is a good day' (Biyan lu case 6)."
+   ],
+   "negations": [
+    "'A dried shit-stick' as reply to 'what is buddha?' (Wumenguan case 21)."
+   ],
+   "relation_to_self": "",
+   "relation_to_world": "Containing heaven and earth; cutting off the myriad streams; following the waves (the three phrases).",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Yunmen refuses to give the ultimate any description; low confidence in formulating a Yunmen 'view'.",
+   "rests_on": [
+    "tea:biyan-lu:6",
+    "tea:wumenguan:21",
+    "tea:rentian-yanmu:312a07"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U42-chan-zen"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:yuzu-nenbutsu-shu",
+   "lineage": "lin:yuzu-nenbutsu-shu",
+   "names": [
+    {
+     "name": "Amida (revealer of the interfusing nenbutsu)",
+     "term": "trm:amitabha"
+    }
+   ],
+   "descriptions": [
+    "One and all interfuse: one person's recitation contains all persons' and all practices (revelation verse)."
+   ],
+   "relation_to_self": "Each practitioner's nenbutsu is shared with all others through interfusion.",
+   "relation_to_world": "Birth by other-power is realised through the interfusion of all beings' recitation.",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Reconstructed from the revelation verse as transmitted; the school's later doctrinal writings were not consulted (low confidence).",
+   "rests_on": [
+    "tea:yuzu-nenbutsu-engi:revelation"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "low",
+    "unverified": false,
+    "checks": []
+   },
+   "coverage": [
+    "D"
+   ],
+   "provenance": {
+    "units": [
+     "skeleton:U43-pure-land"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:zen",
+   "lineage": "lin:zen",
+   "names": [
+    {
+     "name": "buddha-nature (busshō 仏性)",
+     "term": "trm:foxing"
+    },
+    {
+     "name": "the Unborn (fushō 不生)",
+     "term": "trm:fusho"
+    },
+    {
+     "name": "original face (honrai no menmoku)",
+     "term": "trm:benlai-mianmu"
+    }
+   ],
+   "descriptions": [
+    "'All sentient beings are originally buddhas' (Hakuin, Zazen wasan, opening line).",
+    "The buddha-mind is unborn and marvellously illuminating (Bankei).",
+    "For Dōgen, 'whole being is buddha-nature' (shitsuu busshō) and impermanence itself is buddha-nature (Shōbōgenzō Busshō)."
+   ],
+   "negations": [
+    "Not an object that can be grasped by thought; 'not-thinking' (hishiryō) (Fukanzazengi, after Yaoshan)."
+   ],
+   "relation_to_self": "The self studied and forgotten: 'to study the buddha-way is to study the self; to study the self is to forget the self' (Genjōkōan).",
+   "relation_to_world": "The world is not other than buddha-nature: mountains and waters are the sūtras (Sansuikyō); being is time (Uji).",
+   "personal_or_impersonal": "neither",
+   "tradition_denies_single_ultimate": false,
+   "caveat": "Japanese Zen masters differ: Rinzai stresses seeing the nature (kenshō), Sōtō the enactment of buddha-nature in practice, Bankei the Unborn already here. None would accept an ultimate apart from practice and daily life.",
+   "rests_on": [
+    "tea:zazen-wasan:opening",
+    "tea:bussho:whole-being",
+    "tea:genjokoan:to-study-the-self",
+    "tea:bankei-zenji-seppo:unborn"
+   ],
+   "coverage": [
+    "B4",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U42-chan-zen"
     ],
     "phases": [
      "skeleton"

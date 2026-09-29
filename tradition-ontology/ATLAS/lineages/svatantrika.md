@@ -46,10 +46,10 @@ The line of Madhyamaka that, following Bhāviveka's criticism of Buddhapālita, 
 _none recorded_
 
 ## Path maps
-`pth:bhavanakrama-stages`
+[The stages of meditation (Kamalaśīla)](../paths/bhavanakrama-stages.md)
 
 ## Debates
-_none recorded_
+[Is consciousness ultimately real while external objects are not (mind-only), or is mind too empty?](../debates/madhyamaka-yogacara.md), [Do śrāvakas and pratyekabuddhas realize the emptiness (selflessness) of phenomena?](../debates/sravaka-realization-of-emptiness.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

@@ -15,6 +15,7 @@
 Twenty verses ascribed to Nāgārjuna presenting the world as a construction of mind, like an illusion or a painting that frightens its painter.
 **Editions / translations:** 
   - kind: translation; name: Tibetan translation, Derge Tengyur D3833 (theg pa chen po nyi shu pa) — catalog:Derge-Tengyur:D3833
+  - kind: translation; name: Chinese: Dasheng ershi song lun 大乘二十頌論, T1576 — catalog:CBETA:T30n1576
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

@@ -18,4 +18,4 @@
 A path of the liberated after death, not a sequence of practices; intermediate stages are left without bands. Janamejaya's question (12.336.3–4) calls the vyūha route the 'fourth path' and the ekāntins' direct entry the highest.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._

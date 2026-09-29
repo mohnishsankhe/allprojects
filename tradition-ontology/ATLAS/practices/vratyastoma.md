@@ -15,4 +15,4 @@ Soma rites by which groups living outside the sacrificial order are made fit to 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/panchavimsabrahmana.md (GRETIL) — PB 17.1–4 are the Vrātyastomas. This rests on confirmed teaching checks: tea:pancavimsa-brahmana:17.1.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._

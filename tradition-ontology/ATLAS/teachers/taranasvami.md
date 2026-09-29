@@ -12,4 +12,4 @@
 Founder of the aniconic Tāraṇapantha in Bundelkhand (1448–1515), who taught the inner nature of the soul and veneration of scripture instead of images.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

@@ -13,4 +13,4 @@ Denying that the Mahāyāna sūtras are the Buddha's word; a karma worse than th
   - [Laṅkāvatāra-sūtra](../texts/lankavatara-sutra.md) — ref: Vaidya p. 28; rests_on: ["tea:lankavatara-sutra:2.p28"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

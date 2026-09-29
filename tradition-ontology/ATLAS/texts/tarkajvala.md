@@ -26,8 +26,8 @@ The ultimate is of two kinds: one that is supramundane, free of elaboration and 
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate_
 
-terms: `trm:paryaya-paramartha` · concepts: `cpt:paryaya-paramartha` · teachers: [Bhāviveka](../teachers/bhaviveka.md)
+terms: [paryāya-paramārtha](../terms/paryaya-paramartha.md) · concepts: [The nominal and the non-nominal ultimate](../concepts/paryaya-paramartha.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md)
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

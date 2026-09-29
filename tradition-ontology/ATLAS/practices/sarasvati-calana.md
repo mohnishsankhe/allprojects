@@ -16,4 +16,4 @@ RESTRICTED — summary only: the 'stirring of Sarasvatī', taught with śakticā
 _Notes: The unit could not verify the procedure's details and deliberately gives none; the Mallinson 'original' Gorakṣaśataka is not available locally._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._

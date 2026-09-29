@@ -15,4 +15,4 @@ On the six sense bases: the all (35.23), the fire sermon (35.28), the empty worl
   - kind: original; name: Mahāsaṅgīti Tipiṭaka Buddhavasse 2500 (World Tipiṭaka edition, based on the Sixth Council text), as published by SuttaCentral in bilara-data (root/pli/ms); local copy in sources_raw/bilara-data; licence: CC0 / public domain as published by SuttaCentral; url: https://suttacentral.net/sn35
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

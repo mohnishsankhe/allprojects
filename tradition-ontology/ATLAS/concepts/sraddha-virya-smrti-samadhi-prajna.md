@@ -14,4 +14,4 @@
 - same-as-under-standpoint → `cpt:five-spiritual-faculties` (as a list of five qualities leading to samādhi and insight): Same five names as the Buddhist indriya/bala (saddhā, viriya, sati, samādhi, paññā); Vyāsa gives them as a causal sequence ending in asamprajñāta samādhi. — rests on [1.20](../texts/yoga-sutra.md#tea-yoga-sutra-1-20), [1.20](../texts/yoga-bhasya.md#tea-yoga-bhasya-1-20)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:10 IST._

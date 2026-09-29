@@ -20,4 +20,4 @@ _Notes: Identified by scholars with the Yādava minister and author of the Catur
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Hemadpant — Confirmed: chief minister of the Yādava kings 1259–1274 (Wikipedia 'Hemadpant').
 
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U26-regional-bhakti, skeleton:U07-puranas, skeleton:U25-alvar-bhakti-theory, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U26-regional-bhakti, skeleton:U07-puranas, skeleton:U25-alvar-bhakti-theory, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._

@@ -3,8 +3,8 @@
 `prc:dharani-recitation` · `skeleton` · confidence high
 
 **Category:** mantra-sound
-**Convergence:** 5 independent lineage(s): `lin:chan`, [Mahāyāna](../lineages/mahayana.md), `lin:shingon`, `lin:tiantai`, `lin:vajrayana`
-**Taught in:** `lin:chan`, [Mahāyāna](../lineages/mahayana.md), `lin:shingon`, `lin:tiantai`, `lin:vajrayana`
+**Convergence:** 5 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md), [Mahāyāna](../lineages/mahayana.md), `lin:shingon`, `lin:tiantai`, [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
+**Taught in:** [Chan (Chinese Meditation school)](../lineages/chan.md), [Mahāyāna](../lineages/mahayana.md), `lin:shingon`, `lin:tiantai`, [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
 
 Reciting protective dhāraṇīs given in the sūtras (Lotus 26; the Great Compassion and Uṣṇīṣavijayā dhāraṇīs).
 **Sources:** 
@@ -13,4 +13,4 @@ Reciting protective dhāraṇīs given in the sūtras (Lotus 26; the Great Compa
   - [Uṣṇīṣavijayā Dhāraṇī Sūtra](../texts/usnisavijaya-dharani-sutra.md) — 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

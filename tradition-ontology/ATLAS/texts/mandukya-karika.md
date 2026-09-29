@@ -209,7 +209,7 @@ When the mind is lapsing into dullness (laya) one should rouse it; when distract
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-practices: [Asparśa-yoga ('contactless' yoga)](../practices/asparsa-yoga.md) · obstacles: [Dullness (laya)](../obstacles/laya.md), [Distraction (vikṣepa)](../obstacles/viksepa.md), [Latent attachment (kaṣāya)](../obstacles/kasaya.md), [The four obstacles to nirvikalpa samādhi](../obstacles/four-obstacles-to-samadhi.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md)
+practices: [Asparśa-yoga ('contactless' yoga)](../practices/asparsa-yoga.md) · obstacles: [Sinking (laya)](../obstacles/laya.md), [Distraction (vikṣepa)](../obstacles/viksepa.md), [Latent attachment (kaṣāya)](../obstacles/kasaya.md), [The four obstacles to nirvikalpa samādhi](../obstacles/four-obstacles-to-samadhi.md) · teachers: [Gauḍapāda](../teachers/gaudapada.md)
 
 ### 3.45 <a id="tea-mandukya-karika-3-45"></a>
 `skeleton` · confidence high
@@ -295,4 +295,4 @@ teachers: [Gauḍapāda](../teachers/gaudapada.md) · disputes: `dsp:advaita-cry
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._

@@ -17,4 +17,4 @@
 _Notes: Shared vocabulary with Pratyabhijñā (see brw:pratyabhijna-to-virasaiva)._
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._

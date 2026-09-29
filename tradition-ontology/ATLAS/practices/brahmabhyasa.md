@@ -14,4 +14,4 @@ Thinking of Brahman, speaking of it, awakening one another to it and being wholl
   - [Brahma Sūtra](../texts/brahma-sutra.md) — ref: 4.1.1; rests_on: ["tea:brahma-sutra:4.1.1"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._

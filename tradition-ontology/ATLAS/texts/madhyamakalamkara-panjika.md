@@ -16,4 +16,4 @@ Kamalaśīla's sub-commentary on the Madhyamakālaṃkāra and its auto-commenta
   - kind: translation; name: Tibetan translation, Derge Tengyur D3886 (dbu ma'i rgyan gyi dka' 'grel) — catalog:Derge-Tengyur:D3886
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

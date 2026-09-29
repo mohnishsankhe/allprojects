@@ -1,6 +1,6 @@
 # Learning, childlikeness, silence (BAU 3.5.1)
 
-`pth:panditya-balya-mauna` · `skeleton` · confidence moderate
+`pth:panditya-balya-mauna` · `sourced` · confidence moderate
 
 **Lineage:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 **Sources:** 
@@ -17,4 +17,8 @@
 The meaning of bālya (childlike state; Śaṅkara relates it to the strength of knowledge) is not settled; no band.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — Located: BĀU 3.5.1 ('tasmād brāhmaṇaḥ pāṇḍityaṃ nirvidya bālyena tiṣṭhāset | bālyaṃ ca pāṇḍityaṃ ca nirvidyātha muniḥ | amaunaṃ ca maunaṃ ca nirvidyātha brāhmaṇaḥ'). All 1 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 3.5.1). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

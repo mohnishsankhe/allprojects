@@ -17,6 +17,7 @@ Sixty verses on reasoning: those who see reality conceive neither saṃsāra nor
 **Editions / translations:** 
   - kind: translation; name: Tibetan translation, Derge Tengyur D3825 (rigs pa drug cu pa'i tshig le'ur byas pa) — catalog:Derge-Tengyur:D3825
   - kind: original; name: local Sanskrit e-text (Digital Sanskrit Buddhist Canon) — appears to be a reconstruction from the Tibetan; original Sanskrit survives only in quotations
+  - kind: translation; name: Chinese: Liushi song ruli lun 六十頌如理論, T1575 — catalog:CBETA:T30n1575
 **Commentaries on this text:** [Yuktiṣaṣṭikāvṛtti](yuktisastika-vrtti.md)
 
 ## Teachings (4: skeleton 4)
@@ -28,7 +29,7 @@ Those who do not see reality conceive saṃsāra and nirvāṇa; those who see r
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: karma-liberation, ultimate_
 
-concepts: `cpt:samsara-nirvana-nondifference` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [The non-difference of saṃsāra and nirvāṇa](../concepts/samsara-nirvana-nondifference.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 35 <a id="tea-yuktisastika-35"></a>
 `skeleton` · confidence moderate
@@ -37,7 +38,7 @@ When the Victors have said that nirvāṇa alone is true, what wise person would
 
 _level: bridging · standpoint: apophatic · path: knowledge · stage: all · types: karma-liberation, ultimate_
 
-concepts: [The two truths (sūtra layer)](../concepts/two-truths.md), `cpt:nirvana-in-madhyamaka` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [The two truths (satyadvaya)](../concepts/two-truths.md), [Nirvāṇa in Madhyamaka](../concepts/nirvana-in-madhyamaka.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 46-48 <a id="tea-yuktisastika-46-48"></a>
 `skeleton` · confidence moderate
@@ -46,7 +47,7 @@ When things are accepted as real, fierce attachment and aversion and the grip of
 
 _level: bridging · standpoint: causal · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: [dṛṣṭi](../terms/drsti.md) · obstacles: `obs:svabhava-graha` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [dṛṣṭi](../terms/drsti.md) · obstacles: [Grasping at own-nature (inherent existence)](../obstacles/svabhava-graha.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 50 <a id="tea-yuktisastika-50"></a>
 `skeleton` · confidence moderate
@@ -55,8 +56,8 @@ The great-souled have no thesis and no dispute; how could there be an opposing t
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: realized · types: dispute_
 
-concepts: `cpt:no-thesis` · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [May a debater refute without holding a thesis of his own (vitaṇḍā)?](../debates/debate-without-thesis.md)
+concepts: [Having no thesis](../concepts/no-thesis.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [May a debater refute without holding a thesis of his own (vitaṇḍā)?](../debates/debate-without-thesis.md)
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

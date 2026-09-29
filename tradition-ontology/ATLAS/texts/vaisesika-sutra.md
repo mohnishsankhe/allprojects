@@ -527,7 +527,7 @@ Perception of the self (arises) in the self from a particular conjunction of sel
 
 _level: unmarked · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences, consciousness-mind_
 
-terms: [yogipratyakṣa](../terms/yogipratyaksa.md), [ātman](../terms/atman.md) · concepts: [Yogic perception and seers' knowledge](../concepts/yogic-perception-vaisesika.md)
+terms: [yogi-pratyakṣa](../terms/yogipratyaksa.md), [ātman](../terms/atman.md) · concepts: [Yogic perception and seers' knowledge](../concepts/yogic-perception-vaisesika.md)
 
 ### 9.18-19 <a id="tea-vaisesika-sutra-9-18-19"></a>
 `skeleton` · confidence high
@@ -578,4 +578,4 @@ terms: [sukha](../terms/sukha.md), [duḥkha](../terms/duhkha.md)
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._

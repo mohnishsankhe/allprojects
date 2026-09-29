@@ -18,4 +18,4 @@ An early Siddhānta scripture representing the Svāyambhuva; its vidyāpāda (do
 **Commentaries on this text:** [Svāyambhuvasūtrasaṅgraha-vṛtti](svayambhuvasutrasangraha-vrtti.md)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._

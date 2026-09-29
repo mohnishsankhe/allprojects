@@ -1,6 +1,6 @@
 # Meditation on breath as brahman
 
-`prc:prana-upasana` · `skeleton` · confidence high
+`prc:prana-upasana` · `sourced` · confidence high
 
 **Category:** meditation
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -14,4 +14,8 @@ Venerate breath as the eldest and best, as brahman (KauU 2.1-2; ChU 4.10.4), as 
   - [Praśna Upaniṣad](../texts/prasna-upanisad.md) — ref: 2; rests_on: ["tea:prasna-upanisad:2.5-13"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/kausitaki-upanisad-sharada — All 8 Upaniṣad refs cited in the entry are located in the prepared segments (KauU 2.1-2; ChU 4.10.4; KauU 3.2; BĀU 6.1.14; ChU 5.2; ChU 5.1-2; BĀU 6.1; PrU 2). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

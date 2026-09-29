@@ -11,4 +11,4 @@ One of Suśruta's fellow students who approached Divodāsa Dhanvantari for the t
 _Notes: Later commentators cite tantras under some of these names (Aupadhenava, Aurabhra, Pauṣkalāvata) — recalled, not checked._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._

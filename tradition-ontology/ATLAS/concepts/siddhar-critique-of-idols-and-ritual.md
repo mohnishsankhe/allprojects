@@ -13,4 +13,4 @@
 - opposes → [The four pādas: caryā, kriyā, yoga, jñāna](four-padas.md): rejects outer worship as a path in its own right; contrast Siddhānta
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._

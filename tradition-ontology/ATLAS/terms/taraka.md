@@ -17,4 +17,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._

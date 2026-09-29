@@ -4,15 +4,21 @@
 
 **Language:** Sanskrit
 **Native script:** विकल्प
-**Literal:** conceptual construction
+**Literal:** imagination; conceptual construction
 
 ## Definitions by tradition
+- [Yogācāra](../lineages/yogacara.md): The transformation of consciousness as such, which constructs what it imagines; what is imagined does not exist.
+- [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md): Conceptual cognition, based on names, whose object is a universal and which is not perception; known by each in his own experience.
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): An activity that follows on verbal knowledge but has no real object (1.9); in samāpatti, the mixing of word, object and cognition that marks savitarkā coalescence (1.42).
 - [Pratyabhijñā (the philosophy of recognition)](../lineages/pratyabhijna.md): Conceptual cognition by exclusion of an opposite (ĪPK 1.6.5); dream is vikalpa (Śiva Sūtra 1.9); its dissolution is a means (PH 18) and its purification the śākta way (TĀ 4).
+- [Madhyamaka](../lineages/madhyamaka.md): Conceptual construction, from which action and afflictions arise and which itself arises from elaboration (MMK 18.5); reality is free of it (18.9).
 
 ## Forms in other languages
+- Tibetan: rnam par rtog pa  — exact
+- Chinese: 分別 fenbie  — exact
 
 ## Equivalents (interpretation layer)
+**Related:** [kalpanā](kalpana.md), [abhūta-parikalpa](abhutaparikalpa.md), [prapañca](prapanca.md)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U10-yoga, skeleton:U19-kashmir-saivism, skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

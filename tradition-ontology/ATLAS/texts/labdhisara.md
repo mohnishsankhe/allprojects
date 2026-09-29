@@ -17,4 +17,4 @@ Nemicandra's Prakrit treatise on the attainments (labdhi) that lead to right vie
 _Notes: Title present in the local catalogue (catalog:JainDB:लब्धिसार--नेमिचंद्र-आचार्य); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

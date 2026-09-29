@@ -8,4 +8,4 @@
 Kharatara ācārya (1280–1332), one of the four Dādāgurus, venerated at dādābāḍī shrines.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

@@ -15,4 +15,4 @@
 Mahādeva Vedāntin's commentary on the Sāṃkhya Sūtra, largely an abridgement of Aniruddha's vṛtti (extracts translated in N. Sinha's Sāṃkhya Philosophy, 1915).
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:10 IST._

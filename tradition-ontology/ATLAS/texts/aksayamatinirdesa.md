@@ -21,7 +21,7 @@ Which sūtras are of definitive meaning (nītārtha) and which of provisional me
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: teacher-transmission, dispute_
 
-terms: [neyārtha](../terms/neyartha.md), [nītārtha](../terms/nitartha.md) · concepts: [Provisional and definitive meaning](../concepts/neyartha-nitartha.md) · disputes: `dsp:which-turning-is-definitive`, `dsp:buddha-nature-self-or-emptiness`
+terms: [neyārtha](../terms/neyartha.md), [nītārtha](../terms/nitartha.md) · concepts: [Provisional and definitive meaning](../concepts/neyartha-nitartha.md) · disputes: [Which turning of the dharma-wheel is of definitive meaning (nītārtha): the teaching of emptiness (second) or the 'well-distinguished' teaching of the three natures and of buddha-nature (third)?](../debates/which-turning-is-definitive.md), [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md)
 
 ### pratisarana <a id="tea-aksayamatinirdesa-pratisarana"></a>
 `skeleton` · confidence high
@@ -36,4 +36,4 @@ terms: [pratisaraṇa](../terms/pratisarana.md) · concepts: [The four reliances
 _Notes: Sanskrit lost apart from citations (Prasannapadā, Śikṣāsamuccaya); chapter-level refs._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

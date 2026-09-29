@@ -13,4 +13,4 @@
 A brief anthology of key Yoga Vāsiṣṭha verses arranged by topic (dispassion, the world as mind, the self, liberation).
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._

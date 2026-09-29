@@ -3,16 +3,18 @@
 `trm:murdhan` · `skeleton` · confidence high
 
 **Language:** Sanskrit
-**Literal:** summit
+**Literal:** peak
 
 ## Definitions by tradition
+- [Yogācāra](../lineages/yogacara.md): Second aid to penetration: the light of the Dharma is increased by firm vigour.
 - [Sarvāstivāda](../lineages/sarvastivada.md): The second root of penetration; one who obtains it never cuts the roots of good.
 
 ## Forms in other languages
-- Chinese: ding 頂 — exact
 - Tibetan: rtse mo  — exact
+- Chinese: ding 頂 — exact
 
 ## Equivalents (interpretation layer)
+**Related:** [nirvedha-bhāgīya](nirvedhabhagiya.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

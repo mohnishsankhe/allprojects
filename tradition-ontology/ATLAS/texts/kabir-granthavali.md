@@ -161,4 +161,4 @@ concepts: [Dead while living (jīvan-mṛtak)](../concepts/jivan-mrtak.md) · te
 _Notes: Number of aṅgas (59) and padas (c. 400) from memory; aṅga names given where recalled (moderate-to-low confidence on each)._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._

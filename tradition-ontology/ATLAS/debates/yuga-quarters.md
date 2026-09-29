@@ -27,4 +27,4 @@ Brahmagupta and the Sūrya Siddhānta: Kṛta, Tretā, Dvāpara and Kali are fou
 **Queue:** RQ-U32-yuga-quarters
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._

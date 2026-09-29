@@ -1088,6 +1088,42 @@
   }
  },
  {
+  "id": "brw:avatamsaka-to-huayan",
+  "from": "lin:mahayana",
+  "to": "lin:huayan",
+  "what": "The Avataṃsaka's interpenetration, Vairocana, the ten grounds and Sudhana's pilgrimage as the basis of the Huayan school",
+  "direction": "from→to",
+  "era": "6th-8th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Fazang's and Chengguan's commentaries (U54)",
+    "refs": [
+     "tea:gandavyuha:54",
+     "tea:avatamsaka-sutra:20"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U39-mahayana-sutras"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:ayurveda-jain-kalyanakaraka",
   "from": "lin:ayurveda",
   "to": "lin:digambara",
@@ -1666,6 +1702,40 @@
   "provenance": {
    "units": [
     "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:bhartrhari-to-dignaga",
+  "from": "lin:vyakarana",
+  "to": "lin:pramana-buddhist",
+  "what": "Verses of the Vākyapadīya reworked in Dignāga's Trikālaparīkṣā; themes of word and meaning that shape the apoha theory.",
+  "direction": "from→to",
+  "era": "5th–6th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Trikālaparīkṣā (D4207) parallels Vākyapadīya verses (scholarly finding)",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "the influence on apoha is a scholarly reconstruction",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U41-yogacara-pramana"
    ],
    "phases": [
     "skeleton"
@@ -5139,6 +5209,148 @@
   }
  },
  {
+  "id": "brw:lankavatara-to-chan",
+  "from": "lin:mahayana",
+  "to": "lin:chan",
+  "what": "The Laṅkāvatāra as the mind-scripture of early Chan",
+  "direction": "from→to",
+  "era": "5th-8th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Bodhidharma handed the four-fascicle Laṅkāvatāra to Huike; the 'Masters of the Laṅkā' lineage"
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "mind only, the finger and the moon, sudden and gradual",
+    "refs": [
+     "tea:lankavatara-sutra:2.p25",
+     "tea:lankavatara-sutra:3.p80"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U39-mahayana-sutras"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:lokottaravada-to-mahayana",
+  "from": "lin:lokottaravada",
+  "to": "lin:mahayana",
+  "what": "A supramundane buddha and a scheme of ten bodhisattva grounds (the Mahāvastu) parallel to Mahāyāna ideas",
+  "direction": "disputed",
+  "era": "c. 1st c. BCE-3rd c. CE",
+  "evidence": [
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Scholarly hypothesis that Mahāsāṃghika/Lokottaravāda ideas fed into early Mahāyāna; the Mahāvastu has its own list of ten bhūmis"
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U39-mahayana-sutras"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:lotus-to-nichiren",
+  "from": "lin:mahayana",
+  "to": "lin:nichiren",
+  "what": "The Lotus's title and the eternal Buddha as object of devotion",
+  "direction": "from→to",
+  "era": "13th c. Japan",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Nichiren's daimoku (U55)",
+    "refs": [
+     "tea:saddharmapundarika:16"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U39-mahayana-sutras"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:lotus-to-tiantai",
+  "from": "lin:mahayana",
+  "to": "lin:tiantai",
+  "what": "The Lotus as the one-vehicle 'perfect' teaching; the ten suchnesses of ch. 2; the eternal Buddha of ch. 16",
+  "direction": "from→to",
+  "era": "6th c. China (Zhiyi)",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Zhiyi's Fahua xuanyi and wenju (U54)",
+    "refs": [
+     "tea:saddharmapundarika:2/2"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U39-mahayana-sutras"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:madhupindika-agama-parallel",
   "from": "lin:early-buddhism",
   "to": "lin:sarvastivada",
@@ -5209,6 +5421,184 @@
   "provenance": {
    "units": [
     "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:madhyamaka-to-chan",
+  "from": "lin:madhyamaka",
+  "to": "lin:chan",
+  "what": "Nāgārjuna and Āryadeva (Kāṇadeva) counted among the Indian patriarchs of the Chan transmission.",
+  "direction": "from→to",
+  "era": "8th–11th c. lineage lists",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Chan transmission lists (e.g. the Jingde chuandeng lu) name Nāgārjuna as the fourteenth patriarch and Kāṇadeva as the fifteenth.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U40-madhyamaka"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:madhyamaka-to-gaudapada",
+  "from": "lin:madhyamaka",
+  "to": "lin:advaita-vedanta",
+  "what": "The argument that nothing arises from itself, another, both or neither; the firebrand-circle simile; the language of non-origination and of the pacification of elaboration in Gauḍapāda's Māṇḍūkya Kārikā, especially book 4 (Alātaśānti).",
+  "direction": "disputed",
+  "era": "Madhyamaka c. 2nd–3rd c.; Gauḍapāda c. 6th c. CE (scholarly)",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "MMK 1.1 (not from self, other, both, or without cause) and Māṇḍūkya Kārikā 4.22 (nothing is born from itself or another, nor as existent, non-existent or both).",
+    "refs": [
+     "tea:mulamadhyamakakarika:1.1"
+    ]
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "alātacakra: RĀ 1.36 (saṃsāra whirls like a firebrand's circle) and the Alātaśānti's firebrand simile.",
+    "refs": [
+     "tea:ratnavali:1.36"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "The Advaita tradition holds that Gauḍapāda expounds the Upaniṣadic non-dual self, not Buddhism; Māṇḍūkya Kārikā 4.99 says 'this was not spoken by the Buddha'.",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "Many modern scholars see Madhyamaka and Yogācāra influence on book 4; the direction and extent are debated (see dsp:advaita-crypto-buddhism).",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U40-madhyamaka"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:madhyamaka-to-pure-land",
+  "from": "lin:madhyamaka",
+  "to": "lin:pure-land",
+  "what": "The 'easy practice' of calling to mind the Buddhas' names in the Daśabhūmikavibhāṣā ascribed to Nāgārjuna; Nāgārjuna as the first of Shinran's seven patriarchs.",
+  "direction": "from→to",
+  "era": "5th–13th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Tanluan and Shinran cite the easy-practice chapter.",
+    "refs": [
+     "tea:dasabhumika-vibhasa:9"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Jōdo Shinshū lists Nāgārjuna as first patriarch.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U40-madhyamaka"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:madhyamaka-to-sanlun",
+  "from": "lin:madhyamaka",
+  "to": "lin:sanlun",
+  "what": "The Middle Treatise, Twelve Gate Treatise and Hundred Treatise, translated by Kumārajīva, as the basis of the Three-Treatise school (later systematized by Jizang).",
+  "direction": "from→to",
+  "era": "5th–7th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Kumārajīva's translations T1564, T1568, T1569 are the school's root texts.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U40-madhyamaka"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:madhyamaka-to-tiantai",
+  "from": "lin:madhyamaka",
+  "to": "lin:tiantai",
+  "what": "MMK 24.18 (in Kumārajīva's rendering: dependent arising is emptiness, is provisional designation, is the middle) read as the three truths of emptiness, the provisional and the middle.",
+  "direction": "from→to",
+  "era": "6th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Zhiyi's three-truth doctrine cites the verse.",
+    "refs": [
+     "tea:mulamadhyamakakarika:24.18"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Tiantai names Nāgārjuna among its patriarchs.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U40-madhyamaka"
    ],
    "phases": [
     "skeleton"
@@ -5582,6 +5972,42 @@
   }
  },
  {
+  "id": "brw:mahayana-to-vajrayana",
+  "from": "lin:mahayana",
+  "to": "lin:vajrayana",
+  "what": "Bodhicitta, the perfections, emptiness and dhāraṇī as the ground of the Mantrayāna",
+  "direction": "from→to",
+  "era": "6th c. onward",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "the Heart Sūtra's mantra; the Adhyardhaśatikā as a tantric prajñāpāramitā",
+    "refs": [
+     "tea:prajnaparamita-hrdaya:s9",
+     "tea:adhyardhasatika-prajnaparamita:1"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U39-mahayana-sutras"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:mahayana-yoga-dharmamegha",
   "from": "lin:mahayana",
   "to": "lin:patanjala-yoga",
@@ -5649,10 +6075,26 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "prepared segments: MāU 7, MāU 12"
+     ],
+     "evidence": [
+      "text:sources_raw/prepared/mandukya-upanisad/segments.jsonl (GRETIL Devanāgarī mirror mandukya-upanisad.md)",
+      "text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/buddh/nagarjuna_madhyamakasastra.md (GRETIL; dedicatory verse 'yaḥ pratītyasamutpādaṃ prapañcopaśamaṃ śivam')"
+     ],
+     "result": "confirmed",
+     "note": "Confirmed despite the low confidence. 'prapañcopaśamaṃ śāntaṃ śivam' is at MāU 7 and 'prapañcopaśamaḥ śivaḥ' at MāU 12. The MMK dedicatory verse has 'yaḥ pratītyasamutpādaṃ prapañcopaśamaṃ śivaṃ deśayāmāsa' (GRETIL). The entry rightly asserts no direction of borrowing; the relative dating is uncertain, as it says. All 2 Upaniṣad refs cited in the entry are located in the prepared segments (MāU 7; MāU 12). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.",
+     "by": "sourcing:U03-principal-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -7893,6 +8335,45 @@
   }
  },
  {
+  "id": "brw:prajnaparamita-to-madhyamaka",
+  "from": "lin:mahayana",
+  "to": "lin:madhyamaka",
+  "what": "Emptiness of all dharmas, non-arising, the unsupported mind — the scriptural basis of Nāgārjuna's Madhyamaka",
+  "direction": "from→to",
+  "era": "c. 2nd c. CE onward",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Nāgārjuna retrieved the Perfection of Wisdom from the nāgas (Tibetan and Chinese hagiography)"
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Madhyamaka treatises cite the Prajñāpāramitā, Kāśyapaparivarta and Anavatapta",
+    "refs": [
+     "tea:anavataptanagarajapariprccha:verse"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U39-mahayana-sutras"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:pramana-buddhist-to-jain-logic",
   "from": "lin:pramana-buddhist",
   "to": "lin:jainism",
@@ -7911,6 +8392,16 @@
     "type": "explicit-citation",
     "detail": "Akalaṅka's Nyāyaviniścaya and Siddhiviniścaya argue against Dharmakīrti by name (recalled).",
     "refs": []
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Pātrasvāmin's verse 'anyathānupapannatvaṃ yatra tatra trayeṇa kim' is quoted in the Tattvasaṃgraha (recalled)",
+    "refs": []
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Akalaṅka, Haribhadra and Prabhācandra comment on or refute Dharmakīrti; Haribhadra comments on the Nyāyapraveśa (local e-text)",
+    "refs": []
    }
   ],
   "coverage": [
@@ -7925,7 +8416,8 @@
   },
   "provenance": {
    "units": [
-    "skeleton:U35-jain-philosophy"
+    "skeleton:U35-jain-philosophy",
+    "skeleton:U41-yogacara-pramana"
    ],
    "phases": [
     "skeleton"
@@ -7954,6 +8446,16 @@
      "tea:isvarapratyabhijna-karika:1.3.7",
      "tea:isvarapratyabhijna-karika:1.6.4-5"
     ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "ĪPK 1.2 sets out the Buddhist objections (recalled)",
+    "refs": []
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "svasaṃvedana, ābhāsa, vikalpa, apoha",
+    "refs": []
    }
   ],
   "notes": "Coverage map C lists this borrowing; U49 may record it under another id - to be deduplicated at merge.",
@@ -7963,9 +8465,143 @@
    "unverified": false,
    "checks": []
   },
+  "alt_notes": [
+   "U41 contribution to U19's entry (same id)."
+  ],
   "provenance": {
    "units": [
-    "skeleton:U19-kashmir-saivism"
+    "skeleton:U19-kashmir-saivism",
+    "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pramana-buddhist-to-svatantrika",
+  "from": "lin:pramana-buddhist",
+  "to": "lin:svatantrika",
+  "what": "Dignāga's formal inference with reason and example, used by Bhāviveka to prove emptiness with the qualifier 'ultimately'.",
+  "direction": "from→to",
+  "era": "6th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Bhāviveka's syllogism on MMK 1.1 as quoted in the Prasannapadā.",
+    "refs": [
+     "tea:prajnapradipa:1.1/2"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U40-madhyamaka"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pramana-buddhist-to-yogacara-madhyamaka",
+  "from": "lin:pramana-buddhist",
+  "to": "lin:yogacara-madhyamaka",
+  "what": "Dharmakīrti's epistemology — two means of knowledge, efficacy, reflexive awareness, apoha — used in the Tattvasaṅgraha and Madhyamakālaṃkāra.",
+  "direction": "from→to",
+  "era": "8th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "The Tattvasaṅgraha's chapters on perception, inference and apoha.",
+    "refs": []
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "arthakriyā as the mark of the conventional (MAL 64).",
+    "refs": [
+     "tea:madhyamakalamkara:64"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U40-madhyamaka"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pramana-to-tibetan-scholasticism",
+  "from": "lin:pramana-buddhist",
+  "to": "lin:gelug",
+  "what": "The epistemological curriculum (Pramāṇavārttika, Pramāṇaviniścaya), the Collected Topics debate method and the tenet-system classification.",
+  "direction": "from→to",
+  "era": "11th c. onward",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Ngok Loden Sherab and Chapa at Sangphu; Sakya Paṇḍita's Treasury of Reasoning; Gelug monastic debate",
+    "refs": []
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Gyaltsab's commentary on the Pramāṇavārttika",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:prasangika-to-gelug",
+  "from": "lin:prasangika",
+  "to": "lin:gelug",
+  "what": "Candrakīrti's Prāsaṅgika as the highest view and the basis of the insight section of the Lamrim Chenmo; the Madhyamakāvatāra as a core monastic text.",
+  "direction": "from→to",
+  "era": "14th–15th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Tsongkhapa's Madhyamaka works comment on the MMK and the Madhyamakāvatāra.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U40-madhyamaka"
    ],
    "phases": [
     "skeleton"
@@ -8185,6 +8821,42 @@
   "provenance": {
    "units": [
     "skeleton:U07-puranas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:pure-land-sutras-to-pure-land",
+  "from": "lin:mahayana",
+  "to": "lin:pure-land",
+  "what": "Amitābha's vows, the name, the sixteen contemplations and nine grades",
+  "direction": "from→to",
+  "era": "4th-13th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Tanluan, Daochuo, Shandao, Hōnen and Shinran cite the three sūtras (U43)",
+    "refs": [
+     "tea:sukhavativyuha-larger:vow18",
+     "tea:amitayurdhyana-sutra:16"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U39-mahayana-sutras"
    ],
    "phases": [
     "skeleton"
@@ -8532,10 +9204,30 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "prepared segments: MuU 3.1.1, ŚU 4.6, KU 2.2.2, ŚU 3.14-15, ChU 3.12.6, AU 2.1.5, BĀU 1.4.10, BĀU 2.5.19, ŚU 4.8, ŚU 4.22"
+     ],
+     "evidence": [
+      "text:sources_raw/prepared/aitareya-upanisad/segments.jsonl (Advaita-Śāradā mūla Aitareya.md, adhyāya.khaṇḍa.verse)",
+      "text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā)",
+      "text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse)",
+      "text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering)",
+      "text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md)",
+      "text:sources_raw/dcs/dcs/data/conllu/files/Ṛgveda/ (DCS Ṛgveda)"
+     ],
+     "result": "confirmed",
+     "note": "All nine RV parallels are confirmed in DCS: RV 1.164.20 (dvā suparṇā), 4.40.5 (haṃsaḥ śuciṣat), 10.90.1-3 (sahasraśīrṣā; ChU 3.12.6 = 10.90.3 'tāvān asya mahimā'), 4.27.1 (garbhe nu san), 4.26.1 (ahaṃ manur abhavam), 6.47.18 (rūpaṃ rūpaṃ pratirūpo babhūva), 1.164.39 (ṛco akṣare parame vyoman), 1.114.8 (mā nas toke tanaye) and 10.81.3 (viśvataścakṣuḥ). The Upaniṣad loci are located. All 11 Upaniṣad refs cited in the entry are located in the prepared segments (MuU 3.1.1; ŚU 4.6; KU 2.2.2; ŚU 3.14-15; ChU 3.12.6; AU 2.1.5; BĀU 1.4.10; BĀU 2.5.19; ŚU 4.8; ŚU 4.22; ŚU 3.3). It rests on 7 teaching(s) text-located in this sweep, and its wording matches those passages.",
+     "by": "sourcing:U03-principal-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -9030,6 +9722,42 @@
   "provenance": {
    "units": [
     "skeleton:U01-vedic-samhitas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:samdhinirmocana-to-yogacara",
+  "from": "lin:mahayana",
+  "to": "lin:yogacara",
+  "what": "The ālaya/ādāna consciousness, three natures and naturelessnesses, three turnings, śamatha-vipaśyanā",
+  "direction": "from→to",
+  "era": "c. 3rd-4th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "the Yogācārabhūmi incorporates the Saṃdhinirmocana almost entire",
+    "refs": [
+     "tea:samdhinirmocana-sutra:5",
+     "tea:samdhinirmocana-sutra:6"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U39-mahayana-sutras"
    ],
    "phases": [
     "skeleton"
@@ -10054,6 +10782,40 @@
   }
  },
  {
+  "id": "brw:sautrantika-to-pramana",
+  "from": "lin:sautrantika",
+  "to": "lin:pramana-buddhist",
+  "what": "Momentariness, causal efficacy as the criterion of reality, and the image-bearing (sākāra) cognition inferred to have an external cause.",
+  "direction": "from→to",
+  "era": "5th–7th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Tibetan doxography classifies the pramāṇa school as 'Sautrāntika following reasoning' at one level",
+    "refs": []
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "santāna, kṣaṇika, arthakriyā",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:siddha-medicine-to-varma-kalai",
   "from": "lin:siddha-medicine",
   "to": "lin:varma-kalai",
@@ -10495,10 +11257,28 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate+websearch",
+     "queries": [
+      "prepared segments: ŚU 1.10, ŚU 3.2, ŚU 3.11, ŚU 4.10, ŚU 4.16",
+      "Shvetashvatara Upanishad foundational text Shaivism Shaiva Siddhanta Rudra Shiva pasha grace"
+     ],
+     "evidence": [
+      "text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md)",
+      "https://en.wikipedia.org/wiki/Shaiva_Upanishads",
+      "https://www.britannica.com/topic/Svetasvatara-Upanishad"
+     ],
+     "result": "confirmed",
+     "note": "The vocabulary is located: Rudra ŚU 3.2, Śiva 3.11, 4.14-18, Hara 1.10, Maheśvara 4.10, pāśa 1.8, 1.11, 4.15-16, prasāda 3.20, 6.21. The web confirms the ŚU as a foundational text of Śaivism and the first text to identify Rudra with Śiva (Wikipedia 'Shaiva Upanishads'; Britannica). All 5 Upaniṣad refs cited in the entry are located in the prepared segments (ŚU 1.10; ŚU 3.2; ŚU 3.11; ŚU 4.10; ŚU 4.16). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.",
+     "by": "sourcing:U03-principal-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -10626,6 +11406,112 @@
   "provenance": {
    "units": [
     "skeleton:U24-kali-kaula"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:tathagatagarbha-to-east-asia",
+  "from": "lin:tathagatagarbha",
+  "to": "lin:huayan",
+  "what": "Buddha-nature, the one mind and original awakening (via the Awakening of Faith) as foundations of Huayan, Chan and Tiantai",
+  "direction": "from→to",
+  "era": "6th-9th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Fazang, Zongmi, Wonhyo commentaries on the Awakening of Faith",
+    "refs": [
+     "tea:dasheng-qixin-lun:one-mind"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U39-mahayana-sutras"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:tathagatagarbha-to-jonang",
+  "from": "lin:tathagatagarbha",
+  "to": "lin:jonang",
+  "what": "The tathāgatagarbha empty of stains and not empty of qualities as 'emptiness of other' (shentong)",
+  "direction": "from→to",
+  "era": "14th c. Tibet",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Dolpopa's Mountain Doctrine cites the Śrīmālā, Mahāparinirvāṇa and RGV",
+    "refs": [
+     "tea:ratnagotravibhaga:1.154-155",
+     "tea:srimaladevi-sutra:9"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U39-mahayana-sutras"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:tathagatagarbha-to-kagyu-nyingma",
+  "from": "lin:tathagatagarbha",
+  "to": "lin:kagyu",
+  "what": "Buddha-nature as the ground of Mahāmudrā (and of Dzogchen)",
+  "direction": "from→to",
+  "era": "12th-14th c. Tibet",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Gampopa's Jewel Ornament opens with buddha-nature; Rangjung Dorje's treatise",
+    "refs": [
+     "tea:ratnagotravibhaga:1.27"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U39-mahayana-sutras"
    ],
    "phases": [
     "skeleton"
@@ -10844,10 +11730,27 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "prepared segments: KU 1.3.10-11, ŚU 1.10, ŚU 5.2, ŚU 6.13, ŚU 6.16"
+     ],
+     "evidence": [
+      "text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse)",
+      "text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md)",
+      "text:sources_raw/raw_etexts/vedAntam/advaitam/advaita-shAradA/mUla/BS.md (Advaita-Śāradā Brahma Sūtra)"
+     ],
+     "result": "confirmed",
+     "note": "Located: KU 1.3.10-11 (mahat, avyakta, puruṣa); ŚU 1.10 (pradhāna), 5.2 (kapila), 6.13 (sāṅkhyayogādhigamyam), 6.16 (pradhānakṣetrajñapatir guṇeśaḥ). The Vedānta denial is confirmed: BS 1.4.1 'ānumānikam apy ekeṣām iti cen na …' opens the ānumānikādhikaraṇa in the Advaita-Śāradā BS. The direction is rightly left disputed. All 5 Upaniṣad refs cited in the entry are located in the prepared segments (KU 1.3.10-11; ŚU 1.10; ŚU 5.2; ŚU 6.13; ŚU 6.16). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.",
+     "by": "sourcing:U03-principal-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -11124,10 +12027,28 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "prepared segments: KU 2.3.11, ŚU 2, MaiU 6.18"
+     ],
+     "evidence": [
+      "text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse)",
+      "text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering)",
+      "text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md)",
+      "text:sources_raw/prepared/yoga-sutra/segments.jsonl (YS 2.29)"
+     ],
+     "result": "confirmed",
+     "note": "Confirmed: YS 2.29 has yama, niyama, āsana, prāṇāyāma, pratyāhāra, dhāraṇā, dhyāna and samādhi, so five of the six MaiU 6.18 limbs are shared (tarka is not). KU 2.3.10-11 and ŚU 2.8-9 are located. The direction is left disputed. All 3 Upaniṣad refs cited in the entry are located in the prepared segments (KU 2.3.11; ŚU 2; MaiU 6.18). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.",
+     "by": "sourcing:U03-principal-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -11202,10 +12123,27 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "prepared segments: KU 1.2.18-19, KU 2.3.1, ŚU 3.16-17, KU 1.2.15"
+     ],
+     "evidence": [
+      "text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse)",
+      "text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md)",
+      "text:sources_raw/prepared/bhagavad-gita/segments.jsonl"
+     ],
+     "result": "confirmed",
+     "note": "Confirmed against the prepared Gītā. KU 1.2.18-19 = BhG 2.19-20; KU 2.3.1 ~ BhG 15.1 (ūrdhvamūlam adhaḥśākham aśvattham); KU 1.2.15 ~ BhG 8.11 ('yad icchanto brahmacaryaṃ caranti tat te padaṃ saṃgraheṇa pravakṣye'). ŚU 3.16-17 ~ BhG 13.13-14 holds in the common 34-verse numbering of ch. 13; the prepared edition counts the extra opening verse and has them as 13.14-15. All 4 Upaniṣad refs cited in the entry are located in the prepared segments (KU 1.2.18-19; KU 2.3.1; ŚU 3.16-17; KU 1.2.15). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.",
+     "by": "sourcing:U03-principal-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -11473,6 +12411,41 @@
   "provenance": {
    "units": [
     "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:vajracchedika-to-chan",
+  "from": "lin:mahayana",
+  "to": "lin:chan",
+  "what": "The Diamond Sūtra and 'a mind that abides nowhere' as the Southern school's scripture",
+  "direction": "from→to",
+  "era": "7th-8th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Huineng awakened on hearing 應無所住而生其心 (Platform Sūtra, U42)",
+    "refs": [
+     "tea:vajracchedika:10/2"
+    ]
+   }
+  ],
+  "coverage": [
+   "B4",
+   "C"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U39-mahayana-sutras"
    ],
    "phases": [
     "skeleton"
@@ -11834,10 +12807,27 @@
    "C"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "prepared segments: BĀU 1.1, BĀU 1.3, ChU 1.1-2, ChU 3.16-17, KauU 2.5, ChU 5.19-24"
+     ],
+     "evidence": [
+      "text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse)",
+      "text:sources_raw/prepared/kausitaki-upanisad-sharada/segments.jsonl (Advaita-Śāradā mūla kst.md, Advaita-Śāradā section numbering)",
+      "text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB)"
+     ],
+     "result": "confirmed",
+     "note": "The cited parallels are confirmed in the GRETIL Mādhyandina ŚB. 10.6.3.1-2 is Śāṇḍilya's teaching ('satyaṃ brahmety upāsīta … manomayaṃ prāṇaśarīraṃ bhārūpam …'); 10.6.1.1-2 is the vaiśvānara story, with Satyayajña Pauluṣi, Buḍila Āśvatarāśvi, Indradyumna Bhāllaveya and Jana Śārkarākṣya going to Aśvapati Kaikeya. The Upaniṣad refs (BĀU 1.1, 1.3; ChU 1.1-2, 3.16-17, 5.19-24; KauU 2.5) are located. All 6 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 1.1; BĀU 1.3; ChU 1.1-2; ChU 3.16-17; KauU 2.5; ChU 5.19-24). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.",
+     "by": "sourcing:U03-principal-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -12958,6 +13948,223 @@
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yogacara-madhyamaka-to-nyingma",
+  "from": "lin:yogacara-madhyamaka",
+  "to": "lin:nyingma",
+  "what": "Śāntarakṣita's and Kamalaśīla's presence at Samye; the Madhyamakālaṃkāra's two-truth synthesis, later commented on by Mipham.",
+  "direction": "from→to",
+  "era": "8th c. CE and later",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Śāntarakṣita founds Samye with Padmasambhava and ordains the first monks.",
+    "refs": []
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Mipham's commentary on the Madhyamakālaṃkāra.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U40-madhyamaka"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yogacara-to-chan",
+  "from": "lin:yogacara",
+  "to": "lin:chan",
+  "what": "The Laṅkāvatāra's mind-only teaching transmitted by the early 'Laṅkā masters'; the language of the ālaya and of the mind's original purity.",
+  "direction": "from→to",
+  "era": "5th–8th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Bodhidharma is said to have given Huike the four-fascicle Laṅkāvatāra",
+    "refs": []
+   },
+   {
+    "type": "shared-vocabulary",
+    "detail": "mind-only, the storehouse, turning the basis",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yogacara-to-faxiang",
+  "from": "lin:yogacara",
+  "to": "lin:faxiang",
+  "what": "The whole Indian Yogācāra system as compiled in the Cheng weishi lun.",
+  "direction": "from→to",
+  "era": "7th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Xuanzang's studies at Nālandā under Śīlabhadra and translation of the Yogācārabhūmi",
+    "refs": []
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Cheng weishi lun commenting the Triṃśikā",
+    "refs": [
+     "tea:cheng-weishi-lun:2"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yogacara-to-gaudapada",
+  "from": "lin:yogacara",
+  "to": "lin:advaita-vedanta",
+  "what": "The dream argument against external objects, the language of consciousness 'vibrating' as duality, and non-origination in Māṇḍūkya Kārikā ch. 4.",
+  "direction": "disputed",
+  "era": "6th–7th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "Māṇḍūkya Kārikā 4 argues from dream against external objects and uses Yogācāra-like terms (e.g. vijñāna-spandita)",
+    "refs": []
+   },
+   {
+    "type": "scholarly-hypothesis",
+    "detail": "direction and extent of influence debated; the Advaita tradition denies dependence (see dsp:advaita-crypto-buddhism)",
+    "refs": []
+   }
+  ],
+  "notes": "Advaita tradition's own view: Gauḍapāda expounds the Upaniṣads; resemblance to Buddhist terms is polemical adaptation. Recorded as disputed.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yogacara-to-jonang",
+  "from": "lin:yogacara",
+  "to": "lin:jonang",
+  "what": "The three natures and the Maitreya texts read as teaching an ultimate empty of what is other (shentong).",
+  "direction": "disputed",
+  "era": "14th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Dolpopa's Mountain Doctrine cites the Maitreya texts and three-nature passages",
+    "refs": []
+   },
+   {
+    "type": "tradition-account",
+    "detail": "the Jonang count the Maitreya texts as definitive third-turning teachings",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:yogacara-to-yogacara-madhyamaka",
+  "from": "lin:yogacara",
+  "to": "lin:yogacara-madhyamaka",
+  "what": "Mind-only as the account of conventional reality, adopted as the step before the emptiness of mind.",
+  "direction": "from→to",
+  "era": "8th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "MAL 92–93.",
+    "refs": [
+     "tea:madhyamakalamkara:92-93"
+    ]
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "Kamalaśīla quotes Laṅkāvatāra 10.256–258 in Bhāvanākrama I and the Madhyamakāloka",
+    "refs": [
+     "tea:bhavanakrama:1.cittamatra"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Tibetan doxography names the school 'Yogācāra-Svātantrika-Madhyamaka'",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U40-madhyamaka",
+    "skeleton:U41-yogacara-pramana"
    ],
    "phases": [
     "skeleton"

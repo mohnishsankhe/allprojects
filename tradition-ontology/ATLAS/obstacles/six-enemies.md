@@ -12,4 +12,4 @@ Desire, anger, greed, delusion, pride and envy (Varāha 1).
   - [Varāha Upaniṣad](../texts/varaha-upanisad.md) — ref: 1.6-15; rests_on: ["tea:varaha-upanisad:1.6-15"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._

@@ -14,4 +14,4 @@
 - contrasts-with → `cpt:self-luminous-consciousness`: Vedānta's self-luminous consciousness as the self's nature. — rests on [1.1.15](../texts/nyaya-sutra.md#tea-nyaya-sutra-1-1-15)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._

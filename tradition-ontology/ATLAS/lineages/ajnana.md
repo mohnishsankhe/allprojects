@@ -46,4 +46,4 @@ _none recorded_
 [Is there a self?](../debates/is-there-a-self.md), [Should one refuse to affirm or deny anything about what lies beyond experience (the other world, fruit of deeds, the perfected one after death)?](../debates/suspension-of-judgment.md)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._

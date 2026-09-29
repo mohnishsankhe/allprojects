@@ -28,7 +28,7 @@ All that is to be known is summed up in two: dharmas and their nature (dharmatā
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate_
 
-terms: [dharmatā](../terms/dharmata.md) · concepts: `cpt:dharma-dharmata` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+terms: [dharmatā](../terms/dharmata.md) · concepts: [Phenomena and their nature (dharma and dharmatā)](../concepts/dharma-dharmata.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 2 <a id="tea-dharmadharmatavibhaga-2"></a>
 `skeleton` · confidence low
@@ -37,10 +37,10 @@ Entry into non-conceptual wisdom proceeds through the non-apprehension of object
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: advanced · types: practice, karma-liberation_
 
-concepts: `cpt:asraya-paravrtti`, `cpt:dharma-dharmata` · practices: `prc:entry-into-cognition-only` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+concepts: [Transformation of the basis (āśraya-parāvṛtti)](../concepts/asraya-paravrtti.md), [Phenomena and their nature (dharma and dharmatā)](../concepts/dharma-dharmata.md) · practices: [Entry into cognition-only (vijñaptimātratā-praveśa)](../practices/entry-into-cognition-only.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 
 _Notes: One of the 'five Dharmas of Maitreya' in the Tibetan list (Abhisamayālaṃkāra, Mahāyānasūtrālaṃkāra, Madhyāntavibhāga, Dharmadharmatāvibhāga, Ratnagotravibhāga). Chinese tradition instead attributes the Yogācārabhūmi to Maitreya and the Ratnagotravibhāga to Sāramati. The account of Maitrīpa's rediscovery (with the Ratnagotravibhāga) is the Tibetan tradition's; not in Chinese._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

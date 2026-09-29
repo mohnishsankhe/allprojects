@@ -1,6 +1,6 @@
 # Rudra-Śiva in the Śvetāśvatara
 
-`cpt:rudra-siva` · `skeleton` · confidence high
+`cpt:rudra-siva` · `sourced` · confidence high
 
 **Category:** ultimate
 
@@ -13,4 +13,8 @@
 - is-a → [Īśvara (the Lord)](isvara.md) — rests on [6.7-9](../texts/svetasvatara-upanisad.md#tea-svetasvatara-upanisad-6-7-9)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — It rests on 9 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

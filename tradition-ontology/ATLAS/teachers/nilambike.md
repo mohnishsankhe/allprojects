@@ -13,4 +13,4 @@
 Basava's wife and a vacanakāra in whose vacanas Basava appears as her spiritual guide.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._

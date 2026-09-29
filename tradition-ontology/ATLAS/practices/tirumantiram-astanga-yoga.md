@@ -19,4 +19,4 @@ The eight limbs (iyamam, niyamam, ātaṉam, pirāṇāyāmam, pirattiyākāram,
 _Notes: U22 contribution (lineage) to U18's entry._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U22-tamil-siddha, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._

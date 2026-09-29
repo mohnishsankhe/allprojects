@@ -24,4 +24,4 @@
 **Related:** [ṛta](rta.md), [anṛta](anrta.md)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._

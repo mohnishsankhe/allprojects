@@ -5,7 +5,7 @@
 **Alternate titles:** Mañjuśrīparivarta, Wenshushili suoshuo mohe banruo boluomi jing (T232, Mandra), Toh 24
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), `lin:chan`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Genre:** sūtra (prajñāpāramitā)
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); scholarly: Anonymous; Chinese translation c. 6th c.; confidence: moderate
 **Availability:** digitized-original
@@ -28,4 +28,4 @@ terms: [buddhānusmṛti](../terms/buddhanusmrti.md), [dharmadhātu](../terms/dh
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

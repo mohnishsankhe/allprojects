@@ -24,7 +24,7 @@ The twenty-seven giving success in rasa are Ādima, Candrasena, Laṅkeśa, Viś
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: teacher-transmission_
 
-concepts: [The twenty-seven siddhas of rasa](../concepts/twenty-seven-rasasiddhas.md) · teachers: [Vyāḍi (the rasa-siddha)](../teachers/vyadi-rasasiddha.md), [Nāgārjuna (the siddha, alchemist and physician)](../teachers/nagarjuna-siddha.md), [Govinda (author of the Rasahṛdayatantra)](../teachers/govinda-rasahrdaya.md), [Manthānabhairava](../teachers/mantharabhairava.md), [Kākacaṇḍīśvara](../teachers/kakacandisvara.md)
+concepts: [The twenty-seven siddhas of rasa](../concepts/twenty-seven-rasasiddhas.md) · teachers: [Vyāḍi (the rasa-siddha)](../teachers/vyadi-rasasiddha.md), [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md), [Govinda (author of the Rasahṛdayatantra)](../teachers/govinda-rasahrdaya.md), [Manthānabhairava](../teachers/mantharabhairava.md), [Kākacaṇḍīśvara](../teachers/kakacandisvara.md)
 
 ### 1.22-30 <a id="tea-rasaratnasamuccaya-1-22-30"></a>
 `skeleton` · confidence high · _restricted: summary only_
@@ -73,4 +73,4 @@ terms: [kañcuka](../terms/kancuka.md) · concepts: [The impurities of mercury a
 
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._

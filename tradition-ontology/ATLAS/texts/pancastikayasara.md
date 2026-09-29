@@ -41,4 +41,4 @@ terms: [syādvāda](../terms/syadvada.md), [saptabhaṅgī](../terms/saptabhangi
 
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

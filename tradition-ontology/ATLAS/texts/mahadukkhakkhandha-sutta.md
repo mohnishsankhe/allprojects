@@ -30,4 +30,4 @@ terms: [kāma](../terms/kama.md), [assāda](../terms/assada.md), [ādīnava](../
 _Notes: SuttaCentral uid mn13; Mahāsaṅgīti title 'Mahādukkhakkhandhasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

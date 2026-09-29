@@ -75,4 +75,4 @@ terms: [sadguru](../terms/sadguru.md) · concepts: [The state of the liberated (
 _Notes: Registry id. Tradition: written in one sitting for Saubhāgbhāī and a few close disciples._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._

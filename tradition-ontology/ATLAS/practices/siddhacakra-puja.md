@@ -10,4 +10,4 @@ Worship of a diagram (yantra) of nine stations — Arhat, Siddha, Ācārya, Upā
 **Stage:** all
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

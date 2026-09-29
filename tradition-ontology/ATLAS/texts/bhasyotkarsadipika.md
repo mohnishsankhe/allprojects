@@ -24,4 +24,4 @@ _Notes: Title recalled (low); the commentary's opening in the local corpus speak
 
 - 2026-09-29 catalog+websearch: partially-confirmed — local:sources_raw/gita/data/commentary.json (Sri Dhanpati, 701 entries), https://archive.org/details/SrimadBhagavadGita.With.the.Commentaries — Least-sure item: exists as Dhanapati Sūri's gloss on Śaṅkara's Gītābhāṣya (text held locally; printed in the 8-commentary edition), and the title is confirmed. Date not firmly confirmed: one academic source gives Dhanapati 1750–1850 CE; the entry says c. 18th c. (1700–1800). Availability "digitized-original" is correct.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._

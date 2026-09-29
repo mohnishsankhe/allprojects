@@ -6,7 +6,7 @@
 **Original title:** वज्रच्छेदिका प्रज्ञापारमिता
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), `lin:chan`, `lin:zen`, `lin:seon`, `lin:vajrayana`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), [Chan (Chinese Meditation school)](../lineages/chan.md), [Zen (Japanese Chan)](../lineages/zen.md), [Seon (Korean Chan)](../lineages/seon.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
 **Genre:** sūtra (prajñāpāramitā)
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); scholarly: Anonymous, c. 2nd-4th c. CE; the Dunhuang copy of Kumārajīva's version (868 CE) is the oldest dated printed book; confidence: high
 **Dates:** Tradition's account: the Buddha's lifetime, at Śrāvastī in Jeta's grove; Scholarly account: c. 2nd-4th c. CE; Kumārajīva's Chinese 402; Gilgit and Schøyen mss c. 6th-7th c.; (confidence moderate)
@@ -339,4 +339,4 @@ concepts: [The nine similes for the conditioned (Vajracchedikā 32)](../concepts
 _Notes: Local check: Sanskrit (Schøyen §§1-16c; Gilgit to the end) and T235 read in sources_raw; the prepared segments in sources_raw/prepared/vajracchedika (T235) were used for Taishō lines._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A merchant who washed devotees' feet; when
 **Realization — the tradition's account:** A merchant who washed devotees' feet; when his wife hesitated to pour water for one who had once been their servant, he cut off her hand.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._

@@ -14,4 +14,4 @@
 - part-of → [The four assemblies of disputants (vādi-samavasaraṇa)](four-vada-classes.md) — rests on [1.12.1](../texts/sutrakrtanga.md#tea-sutrakrtanga-1-12-1)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._

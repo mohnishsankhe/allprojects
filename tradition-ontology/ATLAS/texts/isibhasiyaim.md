@@ -23,7 +23,7 @@ Thus spoke the arhat seer Maṅkhaliputta: one who stirs, trembles, is agitated,
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice, karma-liberation_
 
-terms: [tāyin (tātī)](../terms/tayin.md) · concepts: [Maṅkhaliputta as arhat seer](../concepts/gosala-in-isibhasiyaim.md) · teachers: [Makkhali Gosāla](../teachers/makkhali-gosala.md)
+terms: [tāyin](../terms/tayin.md) · concepts: [Maṅkhaliputta as arhat seer](../concepts/gosala-in-isibhasiyaim.md) · teachers: [Makkhali Gosāla](../teachers/makkhali-gosala.md)
 
 ### 20 <a id="tea-isibhasiyaim-20"></a>
 `skeleton` · confidence high
@@ -54,4 +54,4 @@ terms: [pratyekabuddha](../terms/pratyekabuddha-jain.md) · teachers: [Pārśva 
 
 
 ---
-_Contributed by: skeleton:U33-sramana, skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U33-sramana, skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

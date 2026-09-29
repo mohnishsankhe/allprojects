@@ -12,4 +12,4 @@ At the naming sacrament a name is given — often a secret or ritual name beside
   - [Vedāṅga Jyotiṣa](../texts/vedanga-jyotisa.md) — ref: r.28; rests_on: ["tea:vedanga-jyotisa:r.25-28"]
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._

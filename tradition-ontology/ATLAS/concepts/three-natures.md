@@ -9,10 +9,13 @@
 
 ## Definitions
 - [Mahāyāna](../lineages/mahayana.md): Imagined, dependent and perfected (Saṃdhinirmocana 6; Laṅkāvatāra).
+- [Yogācāra](../lineages/yogacara.md): Every dharma is understood through the imagined (how it appears: duality, own-being posited by names — non-existent), the dependent (what appears: imagination arising from conditions — existent but not as it appears) and the perfected (the dependent's constant absence of the imagined — suchness); they are neither one nor different; entering them in order, understanding, abandonment and attainment happen at once.
 
 ## Relations (interpretation layer)
+- corresponds-to-in-map → [The three naturelessnesses](three-naturelessnesses.md)
+- contrasts-with → [The two truths (satyadvaya)](two-truths.md): Madhyamaka reads the Prajñāpāramitā through two truths; Yogācāra through three natures
 
 _Notes: Yogācāra systematization: U41._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

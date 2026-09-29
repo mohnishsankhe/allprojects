@@ -10,4 +10,4 @@
 Thai forest master of Surin (1888–1983), pupil of Ajahn Mun, known for his teaching that the mind that sends itself out is the origin of suffering and the mind seeing the mind is the path.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._

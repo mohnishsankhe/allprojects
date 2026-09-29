@@ -32,4 +32,4 @@ The Kāpālikas are deluded opponents defeated by Śaṅkara (hagiography) and b
 **Candidate readings:** Await any first-hand Kāpālika/Somasiddhānta text before assessing.; P6-upaya: the skull vow as penance modelled on the Lord's own act (Kūrma P. 2.31) - a reading the critics do not accept.
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:10 IST._

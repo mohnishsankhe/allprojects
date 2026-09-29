@@ -29,8 +29,8 @@ Steadiness (niṣṭhā) is reached when five obstacles no longer arise in pract
 
 _level: conventional · standpoint: seeker · path: devotion, meditation · stage: intermediate (niṣṭhā) · types: practice_
 
-terms: [niṣṭhā](../terms/nistha.md) · obstacles: [Dullness (laya)](../obstacles/laya.md), [Distraction (vikṣepa)](../obstacles/viksepa.md), [Incapacity or indifference (apratipatti)](../obstacles/apratipatti.md), [Latent attachment (kaṣāya)](../obstacles/kasaya.md), [Relishing the bliss (rasāsvāda)](../obstacles/rasasvada.md) · teachers: [Viśvanātha Cakravartin](../teachers/visvanatha-cakravartin.md)
+terms: [niṣṭhā](../terms/nistha.md) · obstacles: [Sinking (laya)](../obstacles/laya.md), [Distraction (vikṣepa)](../obstacles/viksepa.md), [Incapacity or indifference (apratipatti)](../obstacles/apratipatti.md), [Latent attachment (kaṣāya)](../obstacles/kasaya.md), [Relishing the bliss (rasāsvāda)](../obstacles/rasasvada.md) · teachers: [Viśvanātha Cakravartin](../teachers/visvanatha-cakravartin.md)
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._

@@ -18,4 +18,4 @@
 Assembled by U06 from the Kapila Gītā's own ordering words (anukramiṣyati, 3.25.25); bands are interpretation-layer.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._

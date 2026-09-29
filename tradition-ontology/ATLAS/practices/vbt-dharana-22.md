@@ -15,4 +15,4 @@ One should contemplate voidness in [any] part of the body even for a moment; fre
 _Notes: Verses 46 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._

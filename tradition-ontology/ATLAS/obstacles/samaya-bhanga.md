@@ -14,4 +14,4 @@ Without the samaya discipline there is no perfection and one falls from the Kula
   - [Kiraṇatantra](../texts/kirana-tantra.md) — ref: 6.10-13; rests_on: ["tea:kirana-tantra:6.10-13"]
 
 ---
-_Contributed by: skeleton:U24-kali-kaula, skeleton:U08-agama-catalogue. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U24-kali-kaula, skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._

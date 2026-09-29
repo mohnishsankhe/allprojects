@@ -14,4 +14,4 @@ Worship and meditation on Rādhā and Kṛṣṇa together — Rādhā on Kṛ�
   - [Kelimāl](../texts/kelimal.md) — ref: 1; rests_on: ["tea:kelimal:1"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._

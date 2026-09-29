@@ -16,5 +16,17 @@ Dharmakīrti's treatise on debate, reducing the points of defeat to two — fail
   - kind: original; name: Tibetan: Derge D4218
 **Commentaries on this text:** [Vādanyāyaṭīkā Vipañcitārthā](vadanyayatika.md)
 
+## Teachings (1: skeleton 1)
+
+### 1 <a id="tea-vadanyaya-1"></a>
+`skeleton` · confidence moderate
+
+In debate, the grounds of defeat are only two: for the proponent, failing to state the elements of the proof; for the opponent, failing to point out a real fault. Any other ground of defeat is not reasonable and is not accepted — against the Nyāya list of twenty-two.
+
+_level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
+
+terms: [nigrahasthāna](../terms/nigrahasthana.md) · concepts: [The rules of debate (Buddhist)](../concepts/debate-ethics-buddhist.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md)
+
+
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

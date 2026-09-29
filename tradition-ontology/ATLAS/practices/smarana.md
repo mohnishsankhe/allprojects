@@ -6,9 +6,15 @@
 **Convergence:** 4 independent lineage(s): [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](../lineages/alvar.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), `lin:jagannatha`
 **Taught in:** [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](../lineages/alvar.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Bhakti-śāstra: the sūtra tradition of devotional theory (Nārada, Śāṇḍilya)](../lineages/bhakti-sastra.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), `lin:jagannatha`
 
-Remember the Lord at all times, with mind and intellect fixed on him, even while acting (8.7); the yogin who remembers him constantly with undivided mind finds him easily attained (8.14).
+Bhagavad Gītā 8.7–8, 8.14; 9.22, 9.34: remember the Lord at all times while doing one's duty ('remember me and fight'); with thought (cetas) yoked by the yoga of repeated practice (abhyāsa-yoga), going nowhere else, continually contemplate the supreme Person; remember him constantly, day after day, with thought on nothing else (ananya-cetas) — for such an ever-yoked yogin he is easy to reach; think of him with no other; 'be one whose mind is on me'.
 **Stage:** all
+**Signs of progress:** ["the Lord becomes 'easy to attain' (sulabha) for the constantly remembering yogin (8.14)"]
 **Sources:** 
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 8.7; rests_on: ["tea:bhagavad-gita:8.7"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 8.8; rests_on: ["tea:bhagavad-gita:8.8"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 8.14; rests_on: ["tea:bhagavad-gita:8.14"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 9.22; rests_on: ["tea:bhagavad-gita:9.22"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 9.34; rests_on: ["tea:bhagavad-gita:9.34"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 8.7; 8.14; 9.34; 18.57; rests_on: ["tea:bhagavad-gita:8.7", "tea:bhagavad-gita:8.14", "tea:bhagavad-gita:9.34", "tea:bhagavad-gita:18.57-58"]
   - [Nārada Bhakti Sūtra](../texts/narada-bhakti-sutra.md) — ref: 19; 79; 82; rests_on: ["tea:narada-bhakti-sutra:19", "tea:narada-bhakti-sutra:79", "tea:narada-bhakti-sutra:82"]
   - [Mukundamālā](../texts/mukundamala.md) — ref: kṛṣṇa tvadīya; rests_on: ["tea:mukundamala:krsna-tvadiya"]
@@ -16,4 +22,8 @@ Remember the Lord at all times, with mind and intellect fixed on him, even while
   - [Gīta Govinda](../texts/gita-govinda.md) — ref: 1.3; rests_on: ["tea:gita-govinda:1.3"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text: corrected — tea:bhagavad-gita:8.7, tea:bhagavad-gita:8.8, tea:bhagavad-gita:8.14, tea:bhagavad-gita:9.22, tea:bhagavad-gita:9.34 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
+
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._

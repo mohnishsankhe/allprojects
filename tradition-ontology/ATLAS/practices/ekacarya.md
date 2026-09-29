@@ -12,4 +12,4 @@ The sage wanders alone, homeless and unobtrusive, because many people cause quar
   - [Uddhava Gītā](../texts/uddhava-gita.md) — ref: 11.9.5-15; rests_on: ["tea:uddhava-gita:11.9.5-10", "tea:uddhava-gita:11.9.14-15"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._

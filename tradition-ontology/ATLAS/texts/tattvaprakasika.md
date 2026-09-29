@@ -17,4 +17,4 @@ Jayatīrtha's commentary on Madhva's Brahmasūtrabhāṣya, itself the object of
 **Commentaries on this text:** [Tātparyacandrikā](tatparyacandrika.md), [Tattvaprakāśikā-bhāvadīpa](tattvaprakasika-bhavadipa.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:10 IST._

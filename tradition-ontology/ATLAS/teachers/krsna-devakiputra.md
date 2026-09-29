@@ -1,6 +1,6 @@
 # Kṛṣṇa Devakīputra
 
-`tch:krsna-devakiputra` · `skeleton` · confidence high
+`tch:krsna-devakiputra` · `sourced` · confidence high
 
 **Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 **Historicity:** legendary
@@ -11,4 +11,8 @@
 _Notes: Later tradition, and some scholars, identify him with Kṛṣṇa Vāsudeva of the Gītā (tch:krsna); the Upaniṣad says only 'Kṛṣṇa, son of Devakī'. Kept as a separate id; identification not asserted._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate+websearch: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), https://www.wisdomlib.org/hinduism/book/chandogya-upanishad-english/d/doc239031.html, https://en.wikipedia.org/wiki/Chandogya_Upanishad — Located: ChU 3.17.6 ('apipāsa eva sa babhūva'). Web sources show that identifying him with the Kṛṣṇa of the Gītā is debated, as the entry says.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

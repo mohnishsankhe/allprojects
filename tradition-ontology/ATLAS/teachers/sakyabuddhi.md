@@ -10,7 +10,7 @@
 **Works:** 
   - [Pramāṇavārttikaṭīkā (Śākyabuddhi)](../texts/pramanavarttikatika-sakyabuddhi.md) — attribution: accepted
 
-Devendrabuddhi's pupil and author of a sub-commentary on the Pramāṇavārttika; founder in Tibetan classification of the 'literal' line of commentators.
+Devendrabuddhi's pupil and author of a sub-commentary on the Pramāṇavārttika; Tibetan scholastics group him with Devendrabuddhi as commentators who follow the words closely (classification recalled).
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

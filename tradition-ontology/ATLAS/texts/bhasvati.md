@@ -17,4 +17,4 @@
 Hariharānanda Āraṇya's Sanskrit sub-commentary on the Yoga-bhāṣya, printed with the bhāṣya and other commentaries in the Kashi Sanskrit Series edition of the Yoga darśana (1935).
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._

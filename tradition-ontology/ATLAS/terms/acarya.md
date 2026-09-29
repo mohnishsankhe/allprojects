@@ -26,4 +26,4 @@
 _Notes: Buddhist Vinaya sense only; other lineages' definitions of ācārya are other units'._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U14-visistadvaita, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U08-agama-catalogue, skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U14-visistadvaita, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U08-agama-catalogue, skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

@@ -5,7 +5,7 @@
 **Alternate titles:** Golden Light Sūtra, Jinguangming jing (T663, Dharmakṣema), Jinguangming zuishengwang jing (T665, Yijing 703), gser 'od dam pa (Toh 555-557), Konkōmyō-kyō
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:tiantai`, `lin:tendai`, `lin:shingon`, `lin:vajrayana`, `lin:newar-vajrayana`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:tiantai`, `lin:tendai`, `lin:shingon`, [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md), `lin:newar-vajrayana`
 **Genre:** sūtra
 **Location in parent:** one of Nepal's nine dharmas
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); scholarly: Anonymous, grew in layers c. 4th-8th c.; confidence: high
@@ -25,7 +25,7 @@ The Buddha's lifespan is immeasurable; he entered parinirvāṇa only to ripen b
 
 _level: bridging · standpoint: divine · path: devotion · stage: all · types: ultimate, death-dying_
 
-concepts: [The Buddha's immeasurable lifespan](../concepts/eternal-lifespan-of-the-buddha.md) · disputes: `dsp:permanence-of-the-tathagata`
+concepts: [The Buddha's immeasurable lifespan](../concepts/eternal-lifespan-of-the-buddha.md) · disputes: [Is the Tathāgata permanent (his parinirvāṇa a display), or is parinirvāṇa the final end, the Tathāgata after death being undeclared?](../debates/permanence-of-the-tathagata.md)
 
 ### 4 <a id="tea-suvarnaprabhasa-4"></a>
 `skeleton` · confidence high
@@ -45,4 +45,4 @@ _level: conventional · standpoint: devotional · path: action · stage: all · 
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

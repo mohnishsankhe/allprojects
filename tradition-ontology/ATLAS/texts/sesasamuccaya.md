@@ -13,4 +13,4 @@ Supplement to the Tantrasamuccaya treating deities and rites it does not cover.
 _Notes: Authorship (Cēnnās Nārāyaṇan or his school) not verified._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._

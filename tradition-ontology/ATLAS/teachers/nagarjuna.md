@@ -2,8 +2,8 @@
 
 `tch:nagarjuna` · `skeleton` · confidence high
 
-**Alternate names:** Ārya Nāgārjuna, klu sgrub (Tibetan), Longshu 龍樹 (Chinese), Ryūju (Japanese)
-**Lineages:** [Madhyamaka](../lineages/madhyamaka.md), [Mahāyāna](../lineages/mahayana.md)
+**Alternate names:** Ārya Nāgārjuna, klu sgrub (Tibetan), Longshu 龍樹 (Chinese), Ryūju (Japanese), Nāgārjuna (Longshu 龍樹)
+**Lineages:** [Madhyamaka](../lineages/madhyamaka.md), [Mahāyāna](../lineages/mahayana.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), [Jōdo-shū (the Pure Land school of Hōnen)](../lineages/jodo-shu.md), [Jōdo Shinshū (the True Pure Land school of Shinran)](../lineages/jodo-shinshu.md), [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Dates:** Tradition's account: born four hundred years after the Buddha's parinirvāṇa (Laṅkāvatāra prophecy); Tibetan histories give him a life of six hundred years; Scholarly account: c. 150–250 CE; (confidence moderate)
 **Places:** Vidarbha (birthplace in Tibetan accounts), South India (Kumārajīva's Life), Nālandā (ordination and abbacy in Tibetan accounts), Śrīparvata / Nāgārjunakoṇḍa (Andhra)
 **Historicity:** historical
@@ -36,4 +36,4 @@ Founder of the Madhyamaka: author of the Mūlamadhyamakakārikā and the other '
 _Notes: Scholarly account: a South Indian monk of c. 150–250 CE connected with the Sātavāhana court; the name was borne also by later authors (a tantric Nāgārjuna and the alchemist tch:nagarjuna-siddha), which the tradition conflates. The 'reasoning corpus' (MMK, VV, ŚS, YṢ, VP) and the RĀ and SL are widely accepted; other attributions are disputed. Laṅkāvatāra prophecy verse number (c. 10.165–166) to check._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U43-pure-land, skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._

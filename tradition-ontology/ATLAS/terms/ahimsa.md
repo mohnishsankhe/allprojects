@@ -13,6 +13,7 @@
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): Non-injury, first of the common duties of all classes (MDh 10.63; YS 1.122; Arthaśāstra 1.3.13); the Veda-prescribed injury is declared to be non-injury (MDh 5.44).
 - [Jainism (Jaina dharma)](../lineages/jainism.md): The first and chief vow: not severing the vitalities of any being through careless (passion-driven) activity (TS 7.13); inwardly, the non-arising of attachment and other passions (Puruṣārthasiddhyupāya 44); called the supreme Brahman (Svayambhūstotra).
 - [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md): Violence is prohibited; hence the Śyena rite, whose aim is violence, is harmful (anartha) though the Veda states it as a means for one who wishes to harm (Śabara on MS 1.1.2).
+- [Madhyamaka](../lineages/madhyamaka.md): The Tathāgatas describe the Dharma in brief as non-harming, and nirvāṇa as emptiness (CŚ 12.23); non-harming is part of the dharma of higher status (RĀ 1.10).
 - [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md): Tamil kollāmai: the Siddhar poets condemn killing and flesh-eating (Paṭṭiṉattār; Pattirakiriyār 14; Kaṭuveḷi 25, 29).
 - [Mahānubhāva panth](../lineages/mahanubhava.md): Strict non-harming, down to the smallest creature, required of the renunciant.
 
@@ -25,4 +26,4 @@
 **Related:** [ānṛśaṃsya](anrsamsya.md)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga, skeleton:U35-jain-philosophy, skeleton:U12-mimamsa, skeleton:U22-tamil-siddha, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga, skeleton:U35-jain-philosophy, skeleton:U12-mimamsa, skeleton:U40-madhyamaka, skeleton:U22-tamil-siddha, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._

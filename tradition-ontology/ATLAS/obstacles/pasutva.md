@@ -16,4 +16,4 @@ Bondage as beginningless lack of lordship; its final removal comes through conne
 - analogous: [Āṇava mala](anava-mala.md) — both name the soul's root bondage; the Siddhānta's āṇava is an innate impurity, the Pāśupata paśutva lack of lordship
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._

@@ -15,4 +15,4 @@ Lists vary: four chief postures (siddha, padma, siṃha, bhadra — Yogatattva, 
   - [Darśana Upaniṣad](../texts/darsana-upanisad.md) — ref: 3.1-13; rests_on: ["tea:darsana-upanisad:3.1-13"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

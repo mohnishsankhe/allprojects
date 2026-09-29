@@ -30,4 +30,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.31 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, extraction:bhagavad-gita/ch04-06, skeleton:U22-tamil-siddha, skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, extraction:bhagavad-gita/ch04-06, skeleton:U22-tamil-siddha, skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._

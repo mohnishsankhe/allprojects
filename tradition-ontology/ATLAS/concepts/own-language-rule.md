@@ -13,4 +13,4 @@
 - contrasts-with → [Māgadhī as the root language](magadhi-root-language.md): the commentarial doctrine that Māgadhī is the root language of beings (U37) — rests on [5.33.1](../texts/cullavagga.md#tea-cullavagga-5-33-1)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

@@ -1,6 +1,6 @@
 # Bliss (ānanda) as brahman
 
-`cpt:ananda` · `skeleton` · confidence high
+`cpt:ananda` · `sourced` · confidence high
 
 **Category:** ultimate
 
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā mūla Taitiriya.md, vallī.anuvāka.verse) — All 6 Upaniṣad refs cited in the entry are located in the prepared segments (TU 3.6; TU 2.5; TU 2.7; BĀU 4.3.32; TU 2.4; TU 2.9). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

@@ -44,4 +44,4 @@ terms: [śramaṇa](../terms/sramana.md) · concepts: [Śramaṇa and brāhmaṇ
 
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._

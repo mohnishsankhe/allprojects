@@ -23,4 +23,4 @@
 **Related:** [aparokṣa-jñāna](aparoksa-jnana.md), [śānti](santi.md), [buddhi](buddhi.md), [anugraha](anugraha.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, extraction:bhagavad-gita/ch01-03, skeleton:U20-virasaiva, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U15-dvaita, extraction:bhagavad-gita/ch01-03, skeleton:U20-virasaiva, skeleton:U05-gita-epic, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._

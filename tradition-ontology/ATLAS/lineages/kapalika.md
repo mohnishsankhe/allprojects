@@ -21,7 +21,7 @@ The Kāpālikas, 'skull-men', were Śaiva ascetics who kept the great vow of the
 **Transmissions received:** 
   - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](dharmasastra.md) — what: the model of the skull-bearing penance for killing a brahmin; evidence: Dharmaśāstra penance for brahmahatyā; Bhairava's penance in Kūrma P. 2.31 (scholarly hypothesis for the link)
 **Transmissions given:** 
-  - `lin:vajrayana` — what: skull-bowl, skull-staff, bone ornaments and cremation-ground setting (disputed; see brw:kapalika-to-vajrayana)
+  - [Vajrayāna (Mantranaya) in India](vajrayana.md) — what: skull-bowl, skull-staff, bone ornaments and cremation-ground setting (disputed; see brw:kapalika-to-vajrayana)
 
 ## The ultimate in this lineage
 `skeleton` · confidence low
@@ -50,4 +50,4 @@ _none recorded_
 _Notes: Almost every statement about Kāpālika doctrine comes from opponents or satirists and is tagged reported_by_opponent. Continuity with later Aghorīs is a hypothesis, not a documented lineage._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:10 IST._

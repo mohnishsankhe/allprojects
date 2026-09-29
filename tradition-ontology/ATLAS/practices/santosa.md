@@ -17,4 +17,4 @@ Not wanting more than the means at hand (YBh 2.32).
 **Sequences:** `pth:yoga-sutra-eight-limbs`
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:10 IST._

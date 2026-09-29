@@ -16,4 +16,4 @@ Ratnakīrti's short treatise that manifold images are one non-dual variegated co
   - kind: original; name: A. Thakur, Ratnakīrtinibandhāvali, Patna 1957/1975 — local SARIT e-text
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

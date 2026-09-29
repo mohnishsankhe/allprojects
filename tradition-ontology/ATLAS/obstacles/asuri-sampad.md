@@ -6,10 +6,18 @@
 **Convergence:** 1 independent lineage(s): [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
 **Taught in:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
 
-Hypocrisy, arrogance, pride, anger, harshness and ignorance, leading to bondage (BhG 16.4–5), with its denial of truth, foundation and a Lord and its life for desire (16.8–18).
+Bhagavad Gītā 7.15; 9.11–12: evil-doers, the deluded, the lowest of men, whose knowledge māyā has carried off and who have resorted to a demonic disposition (āsura bhāva), do not take refuge in the Lord; those who disregard him in human form, of vain hopes, vain acts and vain knowledge, resort to the deluding nature of rākṣasas and asuras.
+**Antidotes:** resorting to the divine nature (daivī prakṛti) and undivided worship (9.13)
 **Members:** dambha, darpa, abhimāna, krodha, pāruṣya, ajñāna
 **Sources:** 
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 7.15; rests_on: ["tea:bhagavad-gita:7.15"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 9.11; rests_on: ["tea:bhagavad-gita:9.11"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 9.12; rests_on: ["tea:bhagavad-gita:9.12"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 16.4–20; rests_on: ["tea:bhagavad-gita:16.4", "tea:bhagavad-gita:16.5", "tea:bhagavad-gita:16.8", "tea:bhagavad-gita:16.9-18"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:7.15, tea:bhagavad-gita:9.11, tea:bhagavad-gita:9.12 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._

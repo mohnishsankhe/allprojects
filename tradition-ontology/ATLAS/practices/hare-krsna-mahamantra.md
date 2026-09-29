@@ -12,4 +12,4 @@ The sixteen names 'hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa har
   - [Kalisantaraṇa Upaniṣad](../texts/kalisantarana-upanisad.md) — ref: text; rests_on: ["tea:kalisantarana-upanisad:text"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._

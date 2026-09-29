@@ -19,4 +19,4 @@
 **Related:** [asat](asat.md), [satya](satya.md), [saccidānanda](saccidananda.md), [mithyā](mithya.md)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, extraction:bhagavad-gita/ch01-03, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, extraction:bhagavad-gita/ch01-03, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._

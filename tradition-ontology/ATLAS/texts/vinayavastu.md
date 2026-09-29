@@ -15,4 +15,4 @@ The seventeen 'sections' governing ordination, the fortnightly observance, the r
   - kind: original; name: N. Dutt, Gilgit Manuscripts III (1942–50); GRETIL e-texts of several vastus
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

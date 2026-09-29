@@ -24,7 +24,7 @@ The textual tradition of haṭha ('force') yoga, from the Amṛtasiddhi (c. 11th
 - The body can be perfected and made to cheat time (kālavañcana) — a goal the Amanaska and some Vedāntins subordinate or reject.
 
 **Transmissions received:** 
-  - `lin:vajrayana` — what: the doctrine of bindu, the moon and sun in the body, and the three practices mahāmudrā, mahābandha, mahāvedha (Amṛtasiddhi); evidence: scholarly: Mallinson & Szántó's edition of the Amṛtasiddhi shows a Buddhist tantric setting; the tradition itself names Ādinātha
+  - [Vajrayāna (Mantranaya) in India](vajrayana.md) — what: the doctrine of bindu, the moon and sun in the body, and the three practices mahāmudrā, mahābandha, mahāvedha (Amṛtasiddhi); evidence: scholarly: Mallinson & Szántó's edition of the Amṛtasiddhi shows a Buddhist tantric setting; the tradition itself names Ādinātha
   - [Kaula (the Kula tradition)](kaula.md) — what: kuṇḍalinī, the cakras and the upward-moving śakti; transgressive vocabulary reinterpreted (HYP 3.47–49); evidence: shared vocabulary; scholarly reconstruction
   - [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](natha.md) — what: the lineage of Matsyendra and Gorakṣa, the Siddha ideal of the immortal body; evidence: tradition account (HYP 1.4–9)
   - [Pātañjala Yoga (the Yoga darśana)](patanjala-yoga.md) — what: the eight limbs (Dattātreyayogaśāstra, Vasiṣṭha Saṃhitā, Yoga Yājñavalkya) and 'rājayoga' as the goal; evidence: explicit: DYŚ 25–26 names Yājñavalkya's eight-limbed yoga; Jyotsnā on HYP 1.1 glosses rājayoga as asamprajñāta yoga
@@ -65,4 +65,4 @@ The textual tradition of haṭha ('force') yoga, from the Amṛtasiddhi (c. 11th
 _Notes: U28 owns this lineage. Sectarian home: not a single sect — the texts are Śaiva (HYP, SS), Vaiṣṇava (DYŚ, GS), Vedic-orthodox (VS, YY), Śākta (ṢCN) and at the start Buddhist (Amṛtasiddhi). Family set to 'vedic' following the convention of the other Hindu tantric lineages; the Buddhist origin is recorded in transmissions_received._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._

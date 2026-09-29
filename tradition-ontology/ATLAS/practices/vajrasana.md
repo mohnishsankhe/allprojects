@@ -15,4 +15,4 @@ The thighs made firm like a thunderbolt and the feet placed by the sides of the 
   - [Śiva Saṃhitā](../texts/siva-samhita.md) — ref: 4.31-37; rests_on: ["tea:siva-samhita:4.31-37"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._

@@ -1,6 +1,6 @@
 # Bhṛgu's five realizations (TU 3)
 
-`pth:bhrguvalli-five-realizations` · `skeleton` · confidence high
+`pth:bhrguvalli-five-realizations` · `sourced` · confidence high
 
 **Lineage:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 **Sources:** 
@@ -18,4 +18,8 @@
 Stages 1-4 are successive understandings within one inquiry; bands assigned only to the last two.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā mūla Taitiriya.md, vallī.anuvāka.verse) — All 9 Upaniṣad refs cited in the entry are located in the prepared segments (TU 3; TU 2; TU 3.2; TU 3.3; TU 3.4; TU 3.5; TU 3.6; TU 3.10.5-6; TU 3.1-3.10). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

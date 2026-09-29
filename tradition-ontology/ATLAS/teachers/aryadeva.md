@@ -2,8 +2,8 @@
 
 `tch:aryadeva` · `skeleton` · confidence high
 
-**Alternate names:** Deva, Kāṇadeva ('one-eyed Deva'), 'phags pa lha (Tibetan), Tipo 提婆 (Chinese)
-**Lineages:** [Madhyamaka](../lineages/madhyamaka.md)
+**Alternate names:** Deva, Kāṇadeva ('one-eyed Deva'), 'phags pa lha (Tibetan), Tipo 提婆 (Chinese), Kāṇadeva / Āryadeva (Jiana Tipo 迦那提婆)
+**Lineages:** [Madhyamaka](../lineages/madhyamaka.md), [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Dates:** Scholarly account: c. 3rd c. CE; (confidence moderate)
 **Places:** Sri Lanka (birthplace in Tibetan accounts), South India (Chinese Life), Śrīparvata, Nālandā
 **Historicity:** historical
@@ -21,4 +21,4 @@ Nāgārjuna's principal disciple, author of the Four Hundred Verses (Catuḥśat
 _Notes: The tantric works under this name (e.g. Caryāmelāpakapradīpa) are by a later Āryadeva (scholarly account)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._

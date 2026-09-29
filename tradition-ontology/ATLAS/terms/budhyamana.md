@@ -15,4 +15,4 @@
 **Related:** [pañcaviṃśaka](pancavimsaka.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._

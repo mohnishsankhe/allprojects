@@ -216,4 +216,4 @@ teachers: [Abhinavagupta](../teachers/abhinavagupta.md)
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry. Total verse count from memory (low)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._

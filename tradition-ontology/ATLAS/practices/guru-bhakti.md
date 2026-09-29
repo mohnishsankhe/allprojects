@@ -1,6 +1,6 @@
 # Devotion to the teacher (guru-bhakti)
 
-`prc:guru-bhakti` · `skeleton` · confidence high
+`prc:guru-bhakti` · `sourced` · confidence high
 
 **Category:** devotion-service
 **Convergence:** 10 independent lineage(s): [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](../lineages/alvar.md), [Bāul](../lineages/baul.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Caraṇdāsī sampradāya](../lineages/charandasi.md), [Dādū Panth](../lineages/dadu-panth.md), [Kartābhajā](../lineages/kartabhaja.md), [Kaula (the Kula tradition)](../lineages/kaula.md), [Sant tradition (nirguṇa bhakti of North India)](../lineages/sant.md), [Sant Mat (Radhasoami and its successor lines)](../lineages/sant-mat.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -23,4 +23,8 @@ Hold the highest devotion to God and to one's teacher as to God (ŚU 6.23); hono
 - Kāl sends false teachers in the true guru's name. — [Anurāg Sāgar](../texts/anurag-sagar.md) prophecy of the forty-two generations
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U24-kali-kaula, skeleton:U27-sant-baul, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/prasna-upanisad/segments.jsonl (Advaita-Śāradā mūla Prashna.md), text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md), text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā mūla Taitiriya.md, vallī.anuvāka.verse) — All 3 Upaniṣad refs cited in the entry are located in the prepared segments (ŚU 6.23; TU 1.11.2; PrU 6.8). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U24-kali-kaula, skeleton:U27-sant-baul, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._

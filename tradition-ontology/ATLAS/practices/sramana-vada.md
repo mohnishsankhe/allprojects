@@ -16,4 +16,4 @@ Wanderers and teachers questioning one another in debating halls and parks; a te
 - Praising one's own sect and disparaging another's harms one's own sect. — [The edicts of Aśoka](../texts/asokan-edicts.md) RE 12
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._

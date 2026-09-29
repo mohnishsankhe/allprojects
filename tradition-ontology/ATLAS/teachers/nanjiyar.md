@@ -13,4 +13,4 @@
 Formerly the Advaitin Vedānti Mādhava, converted by Parāśara Bhaṭṭar; renouncer and author of the Oṉpatiṉāyirappaṭi ('Nine Thousand') on the Tiruvāymoḻi; teacher of Nampiḷḷai.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._

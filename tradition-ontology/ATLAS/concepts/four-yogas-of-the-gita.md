@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [Devotion (bhakti)](bhakti.md) (path by temperament): devotion is one of the Gītā's paths and, for the Vaiṣṇava readers, their culmination — rests on [12.2](../texts/bhagavad-gita.md#tea-bhagavad-gita-12-2), [18.54](../texts/bhagavad-gita.md#tea-bhagavad-gita-18-54)
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._

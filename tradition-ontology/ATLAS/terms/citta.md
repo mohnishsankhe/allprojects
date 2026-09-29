@@ -12,6 +12,8 @@
 - [Theravāda](../lineages/theravada.md): Consciousness, the bare knowing of an object and forerunner of the mental factors; the first ultimate reality, classified into 89 (or 121) types; synonymous with viññāṇa and mano.
 - [Thai Forest tradition (Kammaṭṭhāna forest tradition)](../lineages/thai-forest.md): The heart-mind, 'the one who knows' (Thai: phu ru): the knowing nature which the forest teachers train and purify and which, when released, is described as pure and not subject to death (Ajahn Maha Boowa).
 - [Mahāsi Sayadaw tradition (the 'new Burmese method')](../lineages/mahasi.md): The noting mind, observed arising and passing together with its object.
+- [Yogācāra](../lineages/yogacara.md): Explained (Trisvabhāvanirdeśa 7) as twofold: the store, called citta because it is 'accumulated' (cita) with seeds of defilement, and the operative mind, called citta because it arises with 'variegated' (citra) images; in the triad citta–manas–vijñāna it is the ālaya.
+- [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md): Any momentary cognition, which is reflexively aware of itself; mind arises from a previous moment of mind, not from the body alone.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: Thought (citta), to be restrained in meditation (6.10, 6.12 — where it is the manas that is made one-pointed); when thoroughly controlled it rests in the self alone (6.18), like a lamp in a windless place (6.19); restrained (niruddha) by the practice of yoga it comes to rest (6.20).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Thought: a rung above intention in Sanatkumāra's ladder (ChU 7.5); with whatever thought one has one enters breath at death (PrU 3.10); 'the mind alone is saṃsāra' (cittam eva hi saṃsāraḥ, MaiU 6.34).
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): The inner organ as remembering and reflecting (in the fourfold Advaita division); in general usage, mind.
@@ -28,7 +30,7 @@
 
 ## Equivalents (interpretation layer)
 - partial: [antaḥkaraṇa](antahkarana.md) — Nāgeśa glosses citta as antaḥkaraṇa; Yoga uses citta for the whole inner organ (buddhi, ahaṃkāra, manas together) rather than naming its parts.
-**Related:** [vṛtti](vrtti.md), [buddhi](buddhi.md), [manas](manas.md), [mano](mano.md), [viññāṇa](vinnana.md), [cetasika](cetasika.md), [niruddha](niruddha.md)
+**Related:** [vṛtti](vrtti.md), [buddhi](buddhi.md), [manas](manas.md), [mano](mano.md), [viññāṇa](vinnana.md), [cetasika](cetasika.md), [caitasika](caitasika.md), [vijñāna-pariṇāma](vijnana-parinama.md), [niruddha](niruddha.md)
 
 _Notes: Shared slug with Yoga's citta; this is the early-Buddhist contribution._
 
@@ -37,4 +39,4 @@ _Notes: Shared slug with Yoga's citta; this is the early-Buddhist contribution._
 
 - 2026-09-29 text: corrected — tea:bhagavad-gita:6.10, tea:bhagavad-gita:6.12, tea:bhagavad-gita:6.18, tea:bhagavad-gita:6.19, tea:bhagavad-gita:6.20 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U38-early-schools, skeleton:U30-ayurveda-rasa, skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U38-early-schools, skeleton:U30-ayurveda-rasa, skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._

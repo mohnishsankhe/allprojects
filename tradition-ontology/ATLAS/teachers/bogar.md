@@ -18,4 +18,4 @@ Siddhar of Palani, alchemist and physician: the tradition says he made the image
 _Notes: The Chinese connection is the text's and tradition's claim; modern theories identifying him with a Chinese Taoist are outside the tradition and not recorded. Counted in the popular list of the eighteen Siddhars (see cpt:eighteen-siddhars); the samādhi place given follows that list and is recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._

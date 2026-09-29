@@ -47,4 +47,4 @@ _none recorded_
 _Notes: Sub-lineage created by U08. Doctrine of the Trika and Kālīkula belongs to U19/U24. family 'vedic' is the project's A/B classification (Brahmanical vs śramaṇa); it is not a claim that this tradition treats the Veda as its final authority._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._

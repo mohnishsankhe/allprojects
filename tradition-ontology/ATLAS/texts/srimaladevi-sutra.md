@@ -62,7 +62,7 @@ The śrāvaka and pratyekabuddha vehicles enter the great vehicle; the one vehic
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: all · types: karma-liberation, dispute_
 
-terms: [ekayāna](../terms/ekayana.md), [avidyāvāsabhūmi](../terms/avidyavasabhumi.md), [arhat](../terms/arhat.md) · concepts: [The one vehicle (ekayāna)](../concepts/one-vehicle.md), [The arhat's nirvāṇa is not final](../concepts/arhat-nirvana-not-final.md) · teachers: [Śrīmālā](../teachers/srimala.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: `dsp:one-vehicle-or-three`, `dsp:can-all-beings-attain-buddhahood`
+terms: [ekayāna](../terms/ekayana.md), [avidyāvāsabhūmi](../terms/avidyavasabhumi.md), [arhat](../terms/arhat.md) · concepts: [The one vehicle (ekayāna)](../concepts/one-vehicle.md), [The arhat's nirvāṇa is not final](../concepts/arhat-nirvana-not-final.md) · teachers: [Śrīmālā](../teachers/srimala.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is the one vehicle the final truth and the three vehicles a skillful means — or are the three vehicles real and the 'one vehicle' spoken with an intention?](../debates/one-vehicle-or-three.md), [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md)
 
 ### 7 <a id="tea-srimaladevi-sutra-7"></a>
 `skeleton` · confidence high
@@ -87,11 +87,11 @@ terms: [dharmakāya](../terms/dharmakaya.md), [tathāgatagarbha](../terms/tathag
 
 There are two kinds of emptiness-knowledge of the tathāgatagarbha: the tathāgatagarbha empty of all the defilements that are separable, detached and different from it; and the tathāgatagarbha not empty of the buddha-qualities, more numerous than the Ganges' sands, that are inseparable, undetached and not different from it.
 
-> 世尊！有二種如來藏空智。世尊！空如來藏，
+> 世尊！有二種如來藏空智。世尊！空如來藏，若離、若脫、若異一切煩惱藏。世尊！不空如來藏，過於恒沙不離、不脫、不異、不思議佛法。
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [śūnyatā](../terms/sunyata.md) · concepts: [The garbha empty and not empty](../concepts/empty-and-not-empty-garbha.md) · teachers: [Śrīmālā](../teachers/srimala.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: `dsp:buddha-nature-self-or-emptiness`, `dsp:rangtong-shentong`
+terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [śūnyatā](../terms/sunyata.md) · concepts: [The garbha empty and not empty](../concepts/empty-and-not-empty-garbha.md) · teachers: [Śrīmālā](../teachers/srimala.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), `dsp:rangtong-shentong`
 
 ### 10 <a id="tea-srimaladevi-sutra-10"></a>
 `skeleton` · confidence high
@@ -111,7 +111,7 @@ Beings with inverted views see the permanent as impermanent, the blissful as suf
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-terms: [guṇa-pāramitā](../terms/guna-paramita.md), [viparyāsa](../terms/viparyasa.md) · concepts: [The four perfections of the dharmakāya](../concepts/four-guna-paramitas.md), [The four inversions and their reversal](../concepts/four-inversions-reversed.md) · obstacles: [The four inversions (and the Mahāyāna double set)](../obstacles/four-viparyasa.md) · teachers: [Śrīmālā](../teachers/srimala.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: `dsp:buddha-nature-self-or-emptiness`, [Is there a self?](../debates/is-there-a-self.md)
+terms: [guṇa-pāramitā](../terms/guna-paramita.md), [viparyāsa](../terms/viparyasa.md) · concepts: [The four perfections of the dharmakāya](../concepts/four-guna-paramitas.md), [The four inversions and their reversal](../concepts/four-inversions-reversed.md) · obstacles: [The four inversions (and the Mahāyāna double set)](../obstacles/four-viparyasa.md) · teachers: [Śrīmālā](../teachers/srimala.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Is there a self?](../debates/is-there-a-self.md)
 
 ### 13 <a id="tea-srimaladevi-sutra-13"></a>
 `skeleton` · confidence high
@@ -122,10 +122,10 @@ Saṃsāra depends on the tathāgatagarbha, and so does nirvāṇa; the tathāga
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [prakṛti-prabhāsvara-citta](../terms/prabhasvara-citta.md), [āgantuka-kleśa](../terms/agantuka-klesa.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md) · teachers: [Śrīmālā](../teachers/srimala.md), [Gotama Buddha](../teachers/gotama-buddha.md)
+terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [prabhāsvara-citta](../terms/prabhasvara-citta.md), [āgantuka-kleśa](../terms/agantuka-klesa.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md) · teachers: [Śrīmālā](../teachers/srimala.md), [Gotama Buddha](../teachers/gotama-buddha.md)
 
 
 _Notes: Chapter list and key lines (221c16, 222a23, 222b05, 222b28) read locally in T353._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

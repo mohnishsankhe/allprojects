@@ -30,4 +30,4 @@ terms: [ogha](../terms/ogha.md) · concepts: [The four great elements](../concep
 _Notes: SuttaCentral uid sn35.238; Mahāsaṅgīti title 'Āsīvisopamasutta' (checked locally). SN 35.197 in the PTS numbering._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

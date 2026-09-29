@@ -22,4 +22,4 @@ _Notes: Chs. 4–6 contribution, from extractor A's cpt:akartrtva (the knower's 
 
 - 2026-09-29 text: corrected — tea:bhagavad-gita:4.20, tea:bhagavad-gita:5.8, tea:bhagavad-gita:5.9, tea:bhagavad-gita:5.8-9, tea:bhagavad-gita:5.13, tea:bhagavad-gita:5.14, tea:bhagavad-gita:5.15 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 17:10 IST._

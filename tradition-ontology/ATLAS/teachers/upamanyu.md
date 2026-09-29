@@ -13,4 +13,4 @@ The Śaiva sage who, having won Śiva's favour as a child through austerity, giv
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 13.14.45, 13.15.1 [upa], 13.17.1 — Located as described.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._

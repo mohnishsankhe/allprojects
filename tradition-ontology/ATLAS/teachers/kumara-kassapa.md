@@ -8,4 +8,4 @@
 U33 contribution: the monk who refutes Pāyāsi's materialism with fourteen similes (DN 23).
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._

@@ -12,4 +12,4 @@
 Maidservant in Nāmdev's household (d. c. 1350) whose abhaṅgas sing of Viṭṭhala grinding, pounding and washing with her; the model of devotion within menial work.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._

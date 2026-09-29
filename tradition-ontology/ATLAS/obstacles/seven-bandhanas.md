@@ -14,4 +14,4 @@ Desire, anger, greed, delusion, intoxication, pride and egoism bind the embodied
   - [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md) — ref: 11.30-31; rests_on: ["tea:kaulajnananirnaya:11.30-31"]
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._

@@ -1,6 +1,6 @@
 # Karma
 
-`cpt:karma` · `skeleton` · confidence high
+`cpt:karma` · `sourced` · confidence high
 
 **Category:** karma-rebirth
 
@@ -18,5 +18,6 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.14, tea:bhagavad-gita:4.17, tea:bhagavad-gita:4.19, tea:bhagavad-gita:4.20, tea:bhagavad-gita:4.23, tea:bhagavad-gita:4.32, tea:bhagavad-gita:4.33, tea:bhagavad-gita:4.37, tea:bhagavad-gita:5.10, tea:bhagavad-gita:5.12 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/isa-upanisad/segments.json — All 8 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 3.2.13; BĀU 4.4.5; KU 2.2.7; KauU 1.2; ChU 5.10.7; ChU 4.14.3; Īśa 2; MuU 2.2.8). It rests on 8 teaching(s) text-located in this sweep, and its wording matches those passages. MuU 2.2.8 is cited in the common numbering (Advaita-Śāradā is one higher from 2.2.8), and the passage meant was checked under that numbering.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U09-samkhya, skeleton:U12-mimamsa, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U09-samkhya, skeleton:U12-mimamsa, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 17:10 IST._

@@ -17,4 +17,4 @@
 - same-as-under-standpoint → [Emptiness in the Perfection of Wisdom sūtras](emptiness-prajnaparamita.md) (Mahāparinirvāṇa 27 / Laṅkāvatāra): buddha-nature = the emptiness of the highest meaning (Mahāparinirvāṇa); = emptiness (Laṅkāvatāra) — rests on [27](../texts/mahaparinirvana-sutra-mahayana.md#tea-mahaparinirvana-sutra-mahayana-27), [2.p33](../texts/lankavatara-sutra.md#tea-lankavatara-sutra-2-p33)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

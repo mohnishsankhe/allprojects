@@ -15,7 +15,7 @@
 
 The 'Twelve Gate Treatise', ascribed to Nāgārjuna and translated by Kumārajīva, demonstrating emptiness through twelve 'gates' of argument (conditions, existence and non-existence of effects, characteristics, arising, and so on); one of the three treatises of the Sanlun school.
 **Editions / translations:** 
-  - kind: translation; name: Taishō T1568
+  - kind: translation; name: Taishō T1568 — catalog:CBETA:T30n1568
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

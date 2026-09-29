@@ -38,7 +38,7 @@ Every cognition has four parts: the seen part (image), the seeing part, the self
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: advanced · types: consciousness-mind_
 
-terms: `trm:svasamvedana`, [bīja](../terms/bija.md) · concepts: `cpt:four-parts-of-cognition`, `cpt:bija-vasana` · teachers: [Dharmapāla (Yogācāra)](../teachers/dharmapala.md), [Xuanzang](../teachers/xuanzang.md)
+terms: [svasaṃvedana](../terms/svasamvedana.md), [bīja](../terms/bija.md) · concepts: [The four parts of cognition (Dharmapāla)](../concepts/four-parts-of-cognition.md), [Seeds and imprints (bīja, vāsanā)](../concepts/bija-vasana.md) · teachers: [Dharmapāla (Yogācāra)](../teachers/dharmapala.md), [Xuanzang](../teachers/xuanzang.md)
 
 ### 9 <a id="tea-cheng-weishi-lun-9"></a>
 `skeleton` · confidence moderate
@@ -56,10 +56,10 @@ At buddhahood the eight consciousnesses are transformed into four wisdoms: the e
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: realized · types: consciousness-mind, karma-liberation_
 
-concepts: `cpt:four-wisdoms`, `cpt:asraya-paravrtti` · teachers: [Xuanzang](../teachers/xuanzang.md)
+concepts: [The four wisdoms](../concepts/four-wisdoms.md), [Transformation of the basis (āśraya-parāvṛtti)](../concepts/asraya-paravrtti.md) · teachers: [Xuanzang](../teachers/xuanzang.md)
 
 
 _Notes: Owned jointly with U54 (Faxiang). Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

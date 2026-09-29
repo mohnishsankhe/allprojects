@@ -11,4 +11,4 @@ Greed for taste, the sense that grows stronger with fasting and is conquered las
   - [Uddhava Gītā](../texts/uddhava-gita.md) — ref: 11.8.19-21; rests_on: ["tea:uddhava-gita:11.8.19-21"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._

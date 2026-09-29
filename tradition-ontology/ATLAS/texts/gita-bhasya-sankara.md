@@ -88,4 +88,4 @@ concepts: [Action (karma) in Advaita](../concepts/karma-in-advaita.md), [The pat
 
 - dating: Text and attribution confirmed. Dating label corrected: 788–820 CE is the older scholarly convention, not the maṭhas' account. The traditional account of some cardinal maṭhas (notably Kāñcī) is 509–477 BCE. Modern scholarship puts Śaṅkara c. 700–750 (Nakamura). The two accounts are kept separate. (U13's tch:sankara uses a similar "788–820 = traditional reckoning" framing; flag for the U13 sweep and reconciliation.)
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._

@@ -11,4 +11,4 @@ Each service of worship understood as a moment of the mind-less state — invoca
   - [Maṇḍalabrāhmaṇa Upaniṣad](../texts/mandalabrahmana-upanisad.md) — ref: 2.2 (mental worship); rests_on: ["tea:mandalabrahmana-upanisad:2.2-mental-worship"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

@@ -12,4 +12,4 @@ Public worship in temples with installed liṅgas or images, performed by qualif
   - [Kriyākramadyotikā](../texts/kriyakramadyotika.md) — ref: ātmārtha; rests_on: ["tea:kriyakramadyotika:atmartha"]
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._

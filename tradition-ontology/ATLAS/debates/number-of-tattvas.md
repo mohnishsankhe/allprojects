@@ -32,4 +32,4 @@ Applied beyond the Bhāgavata's own list (to Sāṃkhya's 25 and Śaiva 36) this
 _Notes: Sāṃkhya and Kashmir Śaiva sides are owned by U09 and U19; U06 records the Bhāgavata's text-internal reconciliation._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._

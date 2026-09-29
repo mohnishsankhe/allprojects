@@ -13,4 +13,4 @@ A Malayalam ritual manual used by Kerala tantris, based on the Tantrasamuccaya t
 _Notes: Named from memory; authorship, date and editions not verified._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._

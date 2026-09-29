@@ -15,5 +15,17 @@ Jñānaśrīmitra's long defence of the view that cognition bears real images, a
 **Editions / translations:** 
   - kind: original; name: A. Thakur, Jñānaśrīmitranibandhāvali, Patna 1959 — local SARIT e-text
 
+## Teachings (1: skeleton 1)
+
+### 1 <a id="tea-sakarasiddhisastra-1"></a>
+`skeleton` · confidence moderate
+
+Cognition always has an image; the image is not false, since whatever appears appears as cognition's own form; the variegated image is one non-dual cognition, and even buddha-cognition has images.
+
+_level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, consciousness-mind, dispute_
+
+concepts: [Cognition with or without images](../concepts/sakara-nirakara.md) · teachers: [Jñānaśrīmitra](../teachers/jnanasrimitra.md) · disputes: [Are the images (ākāra) appearing in cognition real or false?](../debates/sakara-nirakara.md)
+
+
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

@@ -30,8 +30,21 @@ The Jina's pure knowledge (kevala-jñāna) directly knows all substances and mod
 Īśvara is omniscient; yogic perception, arising from special merit, grasps the supersensible.
 **Texts:** 
   - [Nyāyakusumāñjali](../texts/nyaya-kusumanjali.md) — ref: ch. 5 (Īśvara as author of the Veda)
+### [Yogācāra-Madhyamaka](../lineages/yogacara-madhyamaka.md)
+Yes: the mind's clarity is by nature and defilements are adventitious, so by cultivation the knowledge of supersensible things can be perfected; the Buddha is such a knower (Tattvasaṃgraha, last chapter).
+- Atīndriyārthadarśiparīkṣā
+**Texts:** 
+  - [Tattvasaṅgraha of Śāntarakṣita](../texts/tattvasangraha.md) — ref: Atīndriyārthadarśiparīkṣā
+### [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
+What matters is not that the Buddha knows everything (e.g. the number of insects) but that he knows what is to be abandoned and adopted with its means (Dharmakīrti); later authors (Ratnakīrti's Sarvajñasiddhi) prove full omniscience.
+- PV Pramāṇasiddhi 32–33 (conventional)
+**Texts:** 
+  - [Pramāṇavārttika](../texts/pramanavarttika.md) — ref: 1.34-35 (e-text)
+  - [Sarvajñasiddhi (Ratnakīrti)](../texts/sarvajnasiddhi-ratnakirti.md) — 
 
 **Historical debate — Tattvasaṅgraha's examination of Kumārila on the omniscient** (8th c. CE): a textual debate: the Tattvasaṅgraha and its Pañjikā quote and answer verses attributed to Kumārila each tradition holds its position established
+
+**Historical debate — Dharmakīrti and Kumārila** (7th c. (tradition)): Tibetan histories (Bu ston, Tāranātha) say Dharmakīrti learned Mīmāṃsā in Kumārila's household and later defeated him in debate, converting his followers. Buddhist accounts: Dharmakīrti victorious; the Mīmāṃsā tradition does not record it
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -42,4 +55,4 @@ The Jina's pure knowledge (kevala-jñāna) directly knows all substances and mod
 _Notes: The ŚV codanā section names 'the Buddha and others' (v. 130); I found no verse there naming Mahāvīra, though Jain authors reply to Kumārila. Opposing sides summarized from general knowledge (moderate/low)._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

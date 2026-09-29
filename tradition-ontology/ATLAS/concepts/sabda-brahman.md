@@ -1,6 +1,6 @@
 # Word-brahman (śabdabrahman)
 
-`cpt:sabda-brahman` · `skeleton` · confidence high
+`cpt:sabda-brahman` · `sourced` · confidence high
 
 **Category:** sound-language
 
@@ -19,4 +19,8 @@
 - contrasts-with → [The levels of speech (parā, paśyantī, madhyamā, vaikharī)](levels-of-speech.md): the Kashmir Śaivas deny that the grammarians' paśyantī is the ultimate — rests on [2.1](../texts/sivadrsti.md#tea-sivadrsti-2-1)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (MaiU 6.22). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._

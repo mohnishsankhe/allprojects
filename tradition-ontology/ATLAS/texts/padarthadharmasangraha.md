@@ -88,7 +88,7 @@ Yogins in the state of concentration (yukta) perceive their own and others' selv
 
 _level: unmarked · standpoint: experiential · path: meditation · stage: advanced · types: powers-experiences_
 
-terms: [yogipratyakṣa](../terms/yogipratyaksa.md) · concepts: [Yogic perception and seers' knowledge](../concepts/yogic-perception-vaisesika.md)
+terms: [yogi-pratyakṣa](../terms/yogipratyaksa.md) · concepts: [Yogic perception and seers' knowledge](../concepts/yogic-perception-vaisesika.md)
 
 ### guṇa section (seers' knowledge) <a id="tea-padarthadharmasangraha-arsa"></a>
 `skeleton` · confidence low
@@ -112,4 +112,4 @@ terms: [padārtha](../terms/padartha.md), [īśvara](../terms/isvara.md), [niḥ
 _Notes: Commentaries: Vyomaśiva's Vyomavatī, Śrīdhara's Nyāyakandalī, Udayana's Kiraṇāvalī, and later ones._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._

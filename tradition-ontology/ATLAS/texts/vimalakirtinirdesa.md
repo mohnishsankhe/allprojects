@@ -6,7 +6,7 @@
 **Original title:** विमलकीर्तिनिर्देश
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:chan`, `lin:zen`, `lin:seon`, `lin:sanlun`, `lin:tiantai`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Chan (Chinese Meditation school)](../lineages/chan.md), [Zen (Japanese Chan)](../lineages/zen.md), [Seon (Korean Chan)](../lineages/seon.md), `lin:sanlun`, `lin:tiantai`
 **Genre:** sūtra
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); most of it spoken by Vimalakīrti and Mañjuśrī; scholarly: Anonymous, c. 1st-2nd c. CE; Sanskrit ms found in the Potala (1999), ed. 2006; confidence: high
 **Dates:** Scholarly account: c. 100-200 CE; Zhi Qian's Chinese c. 223-253; (confidence moderate)
@@ -75,7 +75,7 @@ When Ānanda went begging milk for the Buddha's illness, Vimalakīrti told him t
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: ultimate, body-layers_
 
-terms: [dharmakāya](../terms/dharmakaya.md) · concepts: [The permanence of the dharmakāya](../concepts/permanence-of-dharmakaya.md) · teachers: [Ānanda](../teachers/ananda.md), [Vimalakīrti](../teachers/vimalakirti.md) · disputes: `dsp:permanence-of-the-tathagata`
+terms: [dharmakāya](../terms/dharmakaya.md) · concepts: [The permanence of the dharmakāya](../concepts/permanence-of-dharmakaya.md) · teachers: [Ānanda](../teachers/ananda.md), [Vimalakīrti](../teachers/vimalakirti.md) · disputes: [Is the Tathāgata permanent (his parinirvāṇa a display), or is parinirvāṇa the final end, the Tathāgata after death being undeclared?](../debates/permanence-of-the-tathagata.md)
 
 ### 4.7 <a id="tea-vimalakirtinirdesa-4-7"></a>
 `skeleton` · confidence high
@@ -135,7 +135,7 @@ The goddess in Vimalakīrti's house, asked by Śāriputra why she does not chang
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-concepts: [Women's bodies and buddhahood in the Mahāyāna sūtras](../concepts/womens-bodies-and-buddhahood.md) · teachers: [Sāriputta](../teachers/sariputta.md) · disputes: `dsp:womens-bodies-and-buddhahood`, `dsp:women-caste-liberation`
+concepts: [Women's bodies and buddhahood in the Mahāyāna sūtras](../concepts/womens-bodies-and-buddhahood.md) · teachers: [Sāriputta](../teachers/sariputta.md) · disputes: [Can a woman, in a woman's body, attain buddhahood?](../debates/womens-bodies-and-buddhahood.md), `dsp:women-caste-liberation`
 
 ### 7.2 <a id="tea-vimalakirtinirdesa-7-2"></a>
 `skeleton` · confidence high
@@ -210,4 +210,4 @@ concepts: [Pure lands and buddha-fields](../concepts/pure-lands.md) · teachers:
 _Notes: Locator: Sanskrit chapter.paragraph (vkn c|p), Kumārajīva's chapter in teaching sections. The brief's 'ch. 9' for the silence is Kumārajīva's numbering (= Skt ch. 8)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

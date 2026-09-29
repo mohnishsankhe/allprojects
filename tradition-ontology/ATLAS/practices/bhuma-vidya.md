@@ -1,6 +1,6 @@
 # The meditation on plenitude (bhūma-vidyā)
 
-`prc:bhuma-vidya` · `skeleton` · confidence high
+`prc:bhuma-vidya` · `sourced` · confidence high
 
 **Category:** meditation
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -15,4 +15,8 @@ Venerate in ascending order name, speech, mind, intention, thought, meditation, 
 _Notes: Upaniṣadic 'vidyā' (meditation-knowledge); the Brahma Sūtra (3.3) discusses which vidyās are to be combined._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 7.25.2; ChU 7.1-7.26). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

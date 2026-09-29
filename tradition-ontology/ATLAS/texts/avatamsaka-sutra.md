@@ -5,7 +5,7 @@
 **Alternate titles:** Flower Ornament Sūtra, Huayan jing 華嚴經, 60-fascicle version (T278, Buddhabhadra 418-421), 80-fascicle version (T279, Śikṣānanda 695-699), sangs rgyas phal po che (Toh 44), Mahāvaipulya Buddhāvataṃsaka
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:huayan`, `lin:hwaeom`, `lin:chan`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:huayan`, `lin:hwaeom`, [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Genre:** sūtra compilation
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana) in the weeks after his awakening, in seven places and eight (60-fasc.) or nine (80-fasc.) assemblies; Huayan: the first teaching, spoken as by the sun to the high mountains; legend: kept by the nāgas and brought by Nāgārjuna; scholarly: A compilation of originally independent sūtras (Daśabhūmika, Gaṇḍavyūha and others), assembled perhaps in Central Asia (Khotan), c. 3rd-4th c.; confidence: high
 **Dates:** Tradition's account: the second and third weeks after the awakening (Huayan); Scholarly account: components 1st-3rd c.; compilation c. 4th c.; Chinese 418-421 and 695-699; (confidence moderate)
@@ -74,4 +74,4 @@ terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [buddhajñāna](../terms
 _Notes: T278/T279 (vols. 9-10) are not in the local CBETA subset; Sanskrit survives only for the Daśabhūmika and Gaṇḍavyūha._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

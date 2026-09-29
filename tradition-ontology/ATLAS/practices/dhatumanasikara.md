@@ -15,4 +15,4 @@ Reviewing the body as earth, water, fire and air (and space), internal and exter
   - [Satipaṭṭhāna Sutta](../texts/satipatthana-sutta.md) — ref: 12-13; rests_on: ["tea:satipatthana-sutta:12-13"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

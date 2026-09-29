@@ -12,4 +12,4 @@ Practising the twelve restraints and twelve observances listed in 11.19.33-35.
   - [Uddhava Gītā](../texts/uddhava-gita.md) — ref: 11.19.33-35; rests_on: ["tea:uddhava-gita:11.19.33-35"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._

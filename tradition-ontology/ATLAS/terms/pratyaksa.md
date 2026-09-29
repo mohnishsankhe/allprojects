@@ -7,6 +7,8 @@
 **Literal:** perception
 
 ## Definitions by tradition
+- [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md): Cognition free of conceptual construction and non-erroneous; fourfold (sensory, mental, reflexive, yogic); its object is the unique particular.
+- [Yogācāra](../lineages/yogacara.md): The Viṃśatikā asks how awareness 'this is perceived' can be perception when, as in dream, the object is already gone when the judgment arises.
 - [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md): The faultless contact of sense and object; sevenfold — the witness (sākṣin) and six senses (five outer and manas).
 - [Nyāya](../lineages/nyaya.md): Cognition arising from sense-object contact, non-verbalizable, non-deviating, determinate (NS 1.1.4).
 - [Vaiśeṣika](../lineages/vaisesika.md): Arises from the contact of self, sense, mind and object (VS 3.1.13, 9.15 Candrānanda); includes yogic perception (VS 9.13).
@@ -16,12 +18,17 @@
 - [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md): First an indeterminate bare awareness, then determinate cognition by universal and other features; both are perception (ŚV pratyakṣa 112).
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): Perception: the identity of the consciousnesses delimited by the knower, the mental mode and the object; affirmative, not grasping difference (Maṇḍana).
 - [Jainism (Jaina dharma)](../lineages/jainism.md): In Jain epistemology knowledge by the soul without senses — clairvoyance, mind-reading, omniscience (TS 1.12); later also sense-perception as 'conventionally direct' (Akalaṅka).
+- [Madhyamaka](../lineages/madhyamaka.md): The objector holds that perception establishes things (VV 5); Nāgārjuna answers that he apprehends nothing by perception to affirm or deny (VV 30).
 
 ## Forms in other languages
+- Tibetan: mngon sum  — exact
+- Chinese: 現量 xianliang  — exact
 - Prakrit: paccakkha  — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [sākṣin](saksin.md), [manas](manas.md)
+**Related:** [kalpanāpoḍha](kalpanapodha.md), [abhrānta](abhranta.md), [svalakṣaṇa](svalaksana.md), [sākṣin](saksin.md), [manas](manas.md)
+
+_Notes: Shared id: Nyāya (U11) contributes its own definition (sense–object contact, determinate and indeterminate); Dignāga criticizes that definition (PS 1)._
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U11-nyaya-vaisesika, skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U13-advaita, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U15-dvaita, skeleton:U11-nyaya-vaisesika, skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U13-advaita, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

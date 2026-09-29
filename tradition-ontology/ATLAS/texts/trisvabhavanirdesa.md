@@ -30,7 +30,7 @@ The imagined, the dependent and the perfected are the three natures, the deep ob
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate, consciousness-mind_
 
-terms: [trisvabhāva](../terms/trisvabhava.md), `trm:parikalpita-svabhava`, `trm:paratantra-svabhava`, `trm:parinispanna-svabhava` · concepts: [The three natures (sūtra layer)](../concepts/three-natures.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [tri-svabhāva](../terms/trisvabhava.md), [parikalpita-svabhāva](../terms/parikalpita-svabhava.md), [paratantra-svabhāva](../terms/paratantra-svabhava.md), [pariniṣpanna-svabhāva](../terms/parinispanna-svabhava.md) · concepts: [The three natures (sūtra layer)](../concepts/three-natures.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 6-9 <a id="tea-trisvabhavanirdesa-6-9"></a>
 `skeleton` · confidence high
@@ -39,7 +39,7 @@ Mind is twofold as cause and effect: the consciousness called ālaya, and the op
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: `trm:alaya-vijnana`, [pravṛtti-vijñāna](../terms/pravrtti-vijnana.md), [citta](../terms/citta.md), `trm:abhutaparikalpa` · concepts: [The eight consciousnesses (sūtra layer)](../concepts/eight-consciousnesses.md), `cpt:abhutaparikalpa` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [ālaya-vijñāna](../terms/alaya-vijnana.md), [pravṛtti-vijñāna](../terms/pravrtti-vijnana.md), [citta](../terms/citta.md), [abhūta-parikalpa](../terms/abhutaparikalpa.md) · concepts: [The eight consciousnesses](../concepts/eight-consciousnesses.md), [Unreal imagination (abhūtaparikalpa)](../concepts/abhutaparikalpa.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 11-13 <a id="tea-trisvabhavanirdesa-11-13"></a>
 `skeleton` · confidence high
@@ -57,7 +57,7 @@ The three natures are taught in an order for the sake of convention and of entry
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: intermediate · types: practice, ultimate_
 
-concepts: [The three natures (sūtra layer)](../concepts/three-natures.md) · practices: `prc:three-nature-contemplation` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+concepts: [The three natures (sūtra layer)](../concepts/three-natures.md) · practices: [Contemplation of the three natures](../practices/three-nature-contemplation.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 27-30 <a id="tea-trisvabhavanirdesa-27-30"></a>
 `skeleton` · confidence high
@@ -77,7 +77,7 @@ At the penetration of the truth of things, the three characteristics are simulta
 
 _level: bridging · standpoint: experiential · path: knowledge, meditation · stage: advanced (darśana-mārga) · types: practice, karma-liberation_
 
-concepts: [The three natures (sūtra layer)](../concepts/three-natures.md) · practices: `prc:three-nature-contemplation` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+concepts: [The three natures (sūtra layer)](../concepts/three-natures.md) · practices: [Contemplation of the three natures](../practices/three-nature-contemplation.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 35 <a id="tea-trisvabhavanirdesa-35"></a>
 `skeleton` · confidence moderate
@@ -97,8 +97,8 @@ Through the apprehension of mind-only comes the non-apprehension of knowable obj
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: advanced (prayoga-mārga to buddhahood) · types: practice, karma-liberation_
 
-terms: [cittamātra](../terms/cittamatra.md), [dharmadhātu](../terms/dharmadhatu.md), [anupalambha](../terms/anupalambha.md) · concepts: `cpt:three-bodies-yogacara` · practices: `prc:entry-into-cognition-only` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [cittamātra](../terms/cittamatra.md), [dharmadhātu](../terms/dharmadhatu.md), [anupalambha](../terms/anupalambha.md) · concepts: [The three bodies of a buddha (Yogācāra)](../concepts/three-bodies-yogacara.md) · practices: [Entry into cognition-only (vijñaptimātratā-praveśa)](../practices/entry-into-cognition-only.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

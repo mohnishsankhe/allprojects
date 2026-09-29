@@ -12,8 +12,7 @@ Taking the impermanent, suffering, selfless and impure as permanent, blissful, s
   - [Śrīmālādevīsiṃhanāda-sūtra](../texts/srimaladevi-sutra.md) — ref: ch. 12; rests_on: ["tea:srimaladevi-sutra:12"]
   - [Prajñāpāramitāhṛdaya](../texts/prajnaparamita-hrdaya.md) — ref: s8; rests_on: ["tea:prajnaparamita-hrdaya:s8"]
 
-## Equivalents (interpretation layer)
-- partial: `obs:vipallasa` — the Pali four inversions; the second set is Mahāyāna only
+_Notes: The first set of four is shared with the Pali vipallāsa (AN 4.49); the reversed set is the Mahāyāna Mahāparinirvāṇa's and Śrīmālā's addition._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

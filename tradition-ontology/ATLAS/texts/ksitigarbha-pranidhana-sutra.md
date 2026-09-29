@@ -5,7 +5,7 @@
 **Alternate titles:** 地藏菩薩本願經 (T412, attributed to Śikṣānanda), Jizō hongan-kyō
 **Language:** Chinese
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:pure-land`, `lin:tiantai`, `lin:chan`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tiantai`, [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Genre:** sūtra
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); scholarly: No Indic or Tibetan version; widely held a Chinese composition (Tang or later); confidence: disputed
 **Dates:** Scholarly account: 7th-10th c. CE (China); (confidence low)
@@ -26,4 +26,4 @@ practices: [Kṣitigarbha recitation and offerings for the dead](../practices/ks
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

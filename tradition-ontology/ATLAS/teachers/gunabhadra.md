@@ -21,4 +21,4 @@
 Indian monk (394-468) in Jiankang who translated the four-fascicle Laṅkāvatāra (443), the Śrīmālā (436), the Aṅgulimālīya and the Mahābherī; the early Chan 'Laṅkāvatāra masters' treated him as their first patriarch.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U34-jain-canon, skeleton:U35-jain-philosophy, skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U34-jain-canon, skeleton:U35-jain-philosophy, skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

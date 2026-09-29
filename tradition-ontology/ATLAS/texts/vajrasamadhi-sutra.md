@@ -5,7 +5,7 @@
 **Alternate titles:** 金剛三昧經 (T273)
 **Language:** Chinese
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md), `lin:seon`, `lin:chan`, `lin:hwaeom`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md), [Seon (Korean Chan)](../lineages/seon.md), [Chan (Chinese Meditation school)](../lineages/chan.md), `lin:hwaeom`
 **Genre:** sūtra
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); scholarly: Composed in Korea c. 685 (R. Buswell's thesis) or China, late 7th c.; confidence: disputed
 **Dates:** Scholarly account: c. 650-700 CE; (confidence low)
@@ -14,4 +14,4 @@
 A sūtra on the 'adamantine absorption' combining tathāgatagarbha, emptiness and Chan contemplation, including 'guarding the one' and the 'original enlightenment'; commented on by Wonhyo.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

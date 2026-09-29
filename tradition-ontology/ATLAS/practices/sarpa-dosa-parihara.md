@@ -12,4 +12,4 @@ When a query or chart shows affliction from harm to serpents or neglect of serpe
   - [Praśnamārga](../texts/prasna-marga.md) — ref: later chapters; rests_on: ["tea:prasna-marga:15"]
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._

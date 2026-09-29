@@ -15,4 +15,4 @@ A pratiṣṭhātantra (text on consecration and installation, iconometry, templ
 _Notes: Whether the extant Piṅgalāmata is the one named in either list is not established. sources_raw/raw_etexts/mixed/mukta/muktabodha_metadata.json (Muktabodha catalogue descriptions)_
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._

@@ -31,10 +31,10 @@ The Yogācārabhūmi is summed up in seventeen stages: that associated with the 
 
 _level: unmarked · standpoint: analytic · path: general · stage: all · types: practice, consciousness-mind_
 
-concepts: `cpt:seventeen-bhumis` · teachers: [Asaṅga](../teachers/asanga.md), [Maitreyanātha](../teachers/maitreyanatha.md)
+concepts: [The seventeen stages of the Yogācārabhūmi](../concepts/seventeen-bhumis.md) · teachers: [Asaṅga](../teachers/asanga.md), [Maitreyanātha](../teachers/maitreyanatha.md)
 
 
 _Notes: Sanskrit survives for large parts (Śrāvakabhūmi, Bodhisattvabhūmi, bhūmis 1–5 and others); the complete text is extant in Chinese (100 fascicles) and Tibetan. Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

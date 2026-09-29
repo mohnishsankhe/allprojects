@@ -14,4 +14,4 @@
 Monk of the Tiruvāvaṭuturai ātīṉam, the classical scholastic of Tamil Siddhānta: the Civañāṉa Māpāṭiyam and Ciṟṟurai on the Civañāṉa Pōtam, a commentary on the Cittiyār, the first part of the Kāñci Purāṇam, grammatical works and a Tamil rendering of the Tarkasaṅgraha.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._

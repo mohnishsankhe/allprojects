@@ -7,7 +7,7 @@
 **Family:** ascetic
 **Lineages:** [Alīkākāravāda (False-Aspect Yogācāra)](../lineages/alikakaravada.md), [Yogācāra-Madhyamaka](../lineages/yogacara-madhyamaka.md)
 **Authors:** 
-  - [Ratnākaraśānti](../teachers/ratnakarasanti.md) — role: author; attribution: accepted
+  - [Śāntipa (Ratnākaraśānti)](../teachers/ratnakarasanti.md) — role: author; attribution: accepted
 **Availability:** digitized-translation
 
 Ratnākaraśānti's instruction on the Middle Way in which cognition-only with image-free awareness is presented as the meaning of both Yogācāra and Madhyamaka.
@@ -15,4 +15,4 @@ Ratnākaraśānti's instruction on the Middle Way in which cognition-only with i
   - kind: original; name: Tibetan: Derge D4085
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

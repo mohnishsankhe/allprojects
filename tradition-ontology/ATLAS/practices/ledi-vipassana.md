@@ -13,4 +13,4 @@ Establishing mindfulness of breathing (or of the body), then contemplating the f
   - [Bodhipakkhiya Dīpanī (Manual of the Requisites of Enlightenment)](../texts/bodhipakkhiya-dipani.md) — ref: intro; rests_on: ["tea:bodhipakkhiya-dipani:intro"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._

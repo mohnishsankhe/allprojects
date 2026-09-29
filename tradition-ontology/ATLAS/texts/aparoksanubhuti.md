@@ -54,7 +54,7 @@ Obstacles arise in practising samādhi: lack of inquiry, laziness, desire for en
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-obstacles: [The obstacles to samādhi in the Aparokṣānubhūti](../obstacles/aparoksanubhuti-samadhi-obstacles.md), [Dullness (laya)](../obstacles/laya.md), [Distraction (vikṣepa)](../obstacles/viksepa.md), [Relishing the bliss (rasāsvāda)](../obstacles/rasasvada.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md)
+obstacles: [The obstacles to samādhi in the Aparokṣānubhūti](../obstacles/aparoksanubhuti-samadhi-obstacles.md), [Sinking (laya)](../obstacles/laya.md), [Distraction (vikṣepa)](../obstacles/viksepa.md), [Relishing the bliss (rasāsvāda)](../obstacles/rasasvada.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md)
 
 ### 143-144 <a id="tea-aparoksanubhuti-143-144"></a>
 `skeleton` · confidence low
@@ -67,4 +67,4 @@ teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md)
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._

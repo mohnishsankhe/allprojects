@@ -16,4 +16,4 @@ Meditation on a form (the Lord in the heart, Maheśvara as oneself) or on the Se
   - [Gorakṣaśataka](../texts/goraksasataka.md) — ref: 76-77; rests_on: ["tea:goraksasataka:76-77"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._

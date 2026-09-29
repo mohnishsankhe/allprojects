@@ -18,4 +18,4 @@
 - same-as-under-standpoint → [The four pādas of an Āgama](four-padas-of-agama.md): the textual quarters of an Āgama and the four stages share names
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._

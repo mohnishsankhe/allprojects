@@ -16,4 +16,4 @@
 _Notes: The Atharvavedic tradition claims this office for Atharvavedins (dsp:atharvaveda-status)._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._

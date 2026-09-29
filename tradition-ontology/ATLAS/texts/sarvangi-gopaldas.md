@@ -17,4 +17,4 @@ A Dādūpanthī anthology of verses of many saints arranged by topic, an importa
   - kind: original; name: W. M. Callewaert, The Sarvāṅgī of Gopāldās (1993); licence: copyrighted
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._

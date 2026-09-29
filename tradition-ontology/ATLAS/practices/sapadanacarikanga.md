@@ -12,4 +12,4 @@ One of the thirteen ascetic practices: the house-to-house seeker's practice, und
   - [Visuddhimagga](../texts/visuddhimagga.md) — ref: II; rests_on: ["tea:visuddhimagga:2"]
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._

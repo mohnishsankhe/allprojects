@@ -18,4 +18,4 @@ Durga's commentary on Yāska's Nirukta.
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/durgacarya, https://archive.org/details/NiruktaVrittiShriDurgacharya5073Alm23Shlf1DevanagariVeda — Confirmed: Durgācārya's commentary on the Nirukta, dated before 1200 CE (Wisdomlib). The entry gives no date.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._

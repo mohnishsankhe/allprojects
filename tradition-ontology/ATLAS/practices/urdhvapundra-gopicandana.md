@@ -12,4 +12,4 @@ Marking the forehead (and body) with the upright Vaiṣṇava mark in gopīcanda
   - [Kṛṣṇāmṛtamahārṇava](../texts/krsnamrtamaharnava.md) — ref: 221-225; rests_on: ["tea:krsnamrtamaharnava:221-225"]
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:10 IST._

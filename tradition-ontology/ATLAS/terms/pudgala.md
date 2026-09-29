@@ -11,15 +11,18 @@
 - [Sarvāstivāda](../lineages/sarvastivada.md): A mere designation over the series of aggregates; there is no self (AK 3.18).
 - [Theravāda](../lineages/theravada.md): Not known as a real and ultimate fact (Kathāvatthu 1.1).
 - [Jainism (Jaina dharma)](../lineages/jainism.md): The only substance with form: atoms and aggregates having touch, taste, smell and colour, taking the forms of sound, darkness, light and bodies; karma itself is a subtle kind of matter (TS 5.5, 5.23–28, 8.2).
+- [Madhyamaka](../lineages/madhyamaka.md): If the person transmigrated it would be found when sought fivefold among the aggregates, bases and elements; it is not (MMK 16.2).
 
 ## Forms in other languages
 - Pali: puggala  — exact
 - Chinese: butejialuo 補特伽羅 — exact
 - Tibetan: gang zag  — exact
 - Prakrit: poggala  — exact — Pali puggala means 'person' — a different sense
+- Chinese: 補特伽羅 butejialuo  — exact
 
 ## Equivalents (interpretation layer)
 - exact: [puggala](puggala.md) — Sanskrit and Pali forms of the same canonical term; school definitions differ (see the per-lineage definitions).
+**Related:** [ātman](atman.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

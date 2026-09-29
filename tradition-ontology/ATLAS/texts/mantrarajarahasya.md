@@ -17,4 +17,4 @@ Siṃhatilaka Sūri's Sanskrit work (13th c.) on the Sūrimantra, the secret man
 _Notes: The Sūrimantra itself is transmitted orally to ācāryas at installation; its wording is not recorded here._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._

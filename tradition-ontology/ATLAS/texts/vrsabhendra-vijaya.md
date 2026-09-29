@@ -13,4 +13,4 @@
 A Kannada campū on the life of Basava as Nandin (Vṛṣabhēndra) incarnate.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._

@@ -5,7 +5,7 @@
 **Alternate titles:** Siyi fantian suowen jing (T586, Kumārajīva), Toh 160
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:chan`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Genre:** sūtra
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); scholarly: Anonymous; confidence: moderate
 **Availability:** digitized-translation
@@ -23,4 +23,4 @@ _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced 
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

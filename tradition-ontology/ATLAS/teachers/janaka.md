@@ -17,5 +17,6 @@ _Notes: 'Janaka' is a dynastic name; other units record other Janakas (e.g., tch
 **Verification checks**
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14) — Text-located: ŚB 11.3.1.2–4 and 11.6.2.1–10, ending 'tato brahmā janaka āsa'.
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — Located: BĀU 3.1.1 (the sacrifice with many gifts), 4.1.2-7 (the six teachers' views), 4.2.4 ('abhayaṃ vai janaka prāpto 'si') and 4.3–4.4.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch01-03, skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch01-03, skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

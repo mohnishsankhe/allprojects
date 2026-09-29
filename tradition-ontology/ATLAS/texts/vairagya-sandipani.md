@@ -15,4 +15,4 @@
 Short work in dohās and caupāīs on dispassion and the marks of the saint. One of the twelve works generally accepted as Tulsīdās's.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._

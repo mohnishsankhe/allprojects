@@ -10,4 +10,4 @@
 Commentator on the Mīmāṃsā Sūtra before Kumārila, who mentions him (ŚV pratijñā 63); the Nyāyaratnākara reports that he split MS 1.1.4 into two sūtras. His work is lost.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:10 IST._

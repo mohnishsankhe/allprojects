@@ -1,6 +1,6 @@
 # Liberation while living (jīvanmukti)
 
-`cpt:jivanmukti` · `skeleton` · confidence high
+`cpt:jivanmukti` · `sourced` · confidence high
 
 **Category:** karma-rebirth
 
@@ -32,4 +32,8 @@
 - leads-to → [Isolation (kaivalya)](kaivalya.md) — rests on [4.34](../texts/yoga-sutra.md#tea-yoga-sutra-4-34)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U23-sakta-srividya, skeleton:U28-hatha-texts, skeleton:U14-visistadvaita, skeleton:U16-bhedabheda, skeleton:U21-natha-aghora, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/kena-upanisad/segments.jsonl (Advait — All 6 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 4.4.7; KU 2.3.14; KU 2.3.15; MuU 2.2.8; MuU 3.1.4; Kena 2.5). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages. MuU 2.2.8 is cited in the common numbering (Advaita-Śāradā is one higher from 2.2.8), and the passage meant was checked under that numbering.
+
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U13-advaita, skeleton:U23-sakta-srividya, skeleton:U28-hatha-texts, skeleton:U14-visistadvaita, skeleton:U16-bhedabheda, skeleton:U21-natha-aghora, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._

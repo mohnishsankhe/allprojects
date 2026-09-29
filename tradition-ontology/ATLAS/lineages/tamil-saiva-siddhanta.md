@@ -53,4 +53,4 @@ The Tamil systematization of Śaiva Siddhānta in the fourteen Meykaṇṭa Śā
 _Notes: Sub-lineage created by U18 (not in the registry) to keep the Tamil school's positions distinct from the Sanskrit exegetes'._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._

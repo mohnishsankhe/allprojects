@@ -26,4 +26,4 @@ Two or three muhūrtas for ninety-nine thousand yojanas (BhP 3.30.24).
 **Candidate readings:** P2-standpoint (ritual): the Garuḍa's year follows the ritual calendar of monthly śrāddhas; MkP's twelve days the daśāha/dvādaśāha rites.; Different accounts for different kinds of sinner (the Bhāgavata speaks of the attached householder dragged at speed).; P7-arthavāda: the durations dramatise the terror of the road.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._

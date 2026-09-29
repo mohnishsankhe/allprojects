@@ -17,4 +17,4 @@
 _Notes: Same name as in the Śaiva Siddhānta, where the impurity is held to be a real substance._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._

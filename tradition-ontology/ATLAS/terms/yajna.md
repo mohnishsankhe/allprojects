@@ -27,4 +27,4 @@ _Notes: Scholarly metadata only (not used in interpretation): cognate of Avestan
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.23, tea:bhagavad-gita:4.24, tea:bhagavad-gita:4.25, tea:bhagavad-gita:4.26, tea:bhagavad-gita:4.27, tea:bhagavad-gita:4.28, tea:bhagavad-gita:4.29, tea:bhagavad-gita:4.30, tea:bhagavad-gita:4.31, tea:bhagavad-gita:4.32, tea:bhagavad-gita:4.33, tea:bhagavad-gita:5.29, tea:bhagavad — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 17:10 IST._

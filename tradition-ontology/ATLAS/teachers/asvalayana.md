@@ -17,4 +17,4 @@
 
 - 2026-09-28 websearch: confirmed — https://sacred-texts.com/hin/sbe01/sbe01019.htm, https://en.wikipedia.org/wiki/Shaunaka — Confirmed: Śrautasūtra in 12 and Gṛhyasūtra in 4 adhyāyas, plus the fourth Āraṇyaka (SBE 1 introduction); pupil of Śaunaka (Wikipedia). No Dharma- or Śulbasūtra is known, as the entry says.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

@@ -18,4 +18,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/dcs/dcs/data/conllu/files/Aitareyabrāhmaṇa (DCS, pañcikā.khaṇḍa) — The definition's cited passages were all checked in this sweep and support it: tea:manusmrti:1.68-72 (confirmed); tea:manusmrti:1.79-80 (confirmed); tea:manusmrti:1.5-6 (confirmed); tea:aitareya-brahmana:7.15 (confirmed).
 
-_Contributed by: skeleton:U32-jyotisa, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U32-jyotisa, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._

@@ -13,4 +13,4 @@
 - corresponds-to-in-map → `cpt:eighty-four-mahasiddhas`: overlap with the Buddhist list of Abhayadatta (U44/U49 treat the overlap) — rests on [1.4-9](../texts/hatha-yoga-pradipika.md#tea-hatha-yoga-pradipika-1-4-9)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._

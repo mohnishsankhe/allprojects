@@ -1,6 +1,6 @@
 # Pride of the gods
 
-`obs:abhimana` · `skeleton` · confidence moderate
+`obs:abhimana` · `sourced` · confidence moderate
 
 **Category:** passion
 **Convergence:** 5 independent lineage(s): [Ekaśaraṇa Dharma](../lineages/ekasarana.md), [Rāmānandī sampradāya](../lineages/ramanandi.md), [Rāmdāsī sampradāya (Samartha sampradāya)](../lineages/ramdasi.md), [Unaffiliated regional bhakti poets (classificatory grouping)](../lineages/regional-bhakti-poets.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -15,4 +15,8 @@ The gods, taking brahman's victory for their own, grew proud; they could not rec
   - [Keli-gopāla](../texts/keli-gopala.md) — ref: whole; rests_on: ["tea:keli-gopala:whole"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/kena-upanisad/segments.jsonl (Advaita-Śāradā mūla Kena_pada.md, Śaṅkara numbering) — All 3 Upaniṣad refs cited in the entry are located in the prepared segments (Kena 3.1-4.1; Kena 4.1; Kena 3.1-4.3). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._

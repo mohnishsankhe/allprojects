@@ -12,4 +12,4 @@ Fear, anger, sloth, too much sleep and waking, too much food and fasting (Amṛt
   - [Amṛtanāda Upaniṣad](../texts/amrtanada-upanisad.md) — ref: 27; rests_on: ["tea:amrtanada-upanisad:27"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

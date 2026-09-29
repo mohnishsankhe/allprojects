@@ -8,4 +8,4 @@
 King of Magadha, patron of the Buddha, donor of the Bamboo Grove; at his suggestion the uposatha was instituted (Vin Mv 2.1).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

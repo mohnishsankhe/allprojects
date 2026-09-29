@@ -2,8 +2,8 @@
 
 `tch:santaraksita` · `skeleton` · confidence high
 
-**Alternate names:** zhi ba 'tsho (Tibetan), Khenpo Bodhisattva (mkhan po bo dhi sa twa)
-**Lineages:** [Madhyamaka](../lineages/madhyamaka.md), [Yogācāra-Madhyamaka](../lineages/yogacara-madhyamaka.md), [Svātantrika-Madhyamaka](../lineages/svatantrika.md), [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md), [Mūlasarvāstivāda](../lineages/mulasarvastivada.md)
+**Alternate names:** zhi ba 'tsho (Tibetan), Khenpo Bodhisattva (mkhan po bo dhi sa twa), zhi ba 'tsho, Khenpo Bodhisattva
+**Lineages:** [Madhyamaka](../lineages/madhyamaka.md), [Yogācāra-Madhyamaka](../lineages/yogacara-madhyamaka.md), [Svātantrika-Madhyamaka](../lineages/svatantrika.md), [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md), [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md), [Mūlasarvāstivāda](../lineages/mulasarvastivada.md)
 **Dates:** Tradition's account: invited to Tibet by King Trisong Detsen; with Padmasambhava founded Samye; Scholarly account: c. 725–788 CE; (confidence moderate)
 **Places:** Zahor (Bengal, in Tibetan accounts), Nālandā, Samye (Tibet)
 **Historicity:** historical
@@ -22,4 +22,4 @@ Abbot of Nālandā who synthesized Madhyamaka, Yogācāra and Dharmakīrti's epi
 _Notes: Contribution of U41 (pramāṇa side)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U45-nyingma-bon, skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

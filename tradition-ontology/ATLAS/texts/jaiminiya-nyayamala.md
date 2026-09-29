@@ -43,4 +43,4 @@ terms: [ūha](../terms/uha-mimamsa.md), [bādha](../terms/badha-mimamsa.md), [ta
 _Notes: Author Mādhava (Mādhavācārya), minister and kulaguru of Bukka; his identification with Vidyāraṇya is traditional and disputed._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:10 IST._

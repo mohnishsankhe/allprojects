@@ -26,10 +26,10 @@ Against the objection that the Mahāyāna sūtras are not the Buddha's word, Vas
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: teacher-transmission, dispute_
 
-teachers: [Vasubandhu](../teachers/vasubandhu.md) · disputes: `dsp:mahayana-buddhavacana`
+teachers: [Vasubandhu](../teachers/vasubandhu.md) · disputes: [Are the Mahāyāna sūtras the word of the Buddha?](../debates/mahayana-buddhavacana.md)
 
 
 _Notes: Structure recalled; chapter contents to be checked._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

@@ -12,4 +12,4 @@
 Author of the vast sub-commentary on Bhāviveka's Prajñāpradīpa, a principal source on the history of the early Madhyamaka commentators and their opponents.
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

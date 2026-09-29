@@ -13,15 +13,19 @@
 - [Theravāda](../lineages/theravada.md): Volition: the factor that organizes its associates in acting on the object; it is kamma (the Buddha: 'volition is kamma').
 - [Sarvāstivāda](../lineages/sarvastivada.md): Volition, a universal mental factor; mental karma itself, from which bodily and vocal karma arise.
 - [Dārṣṭāntika](../lineages/darstantika.md): Mental karma includes covetousness, malice and wrong view themselves.
+- [Yogācāra](../lineages/yogacara.md): Volition, a universal mental factor; in Vasubandhu's Karmasiddhi, action itself.
 - [Adhyātma movement (Adhyātma-mata)](../lineages/adhyatma-jain.md): The soul as consciousness; in the Samayasāra Nāṭaka the hero of the drama of self and non-self.
+- [Madhyamaka](../lineages/madhyamaka.md): Mental action; bodily and verbal action is what is done having intended (MMK 17.2–3).
 
 ## Forms in other languages
 - Sanskrit: cetanā  — exact
 - Pali: cetanā  — exact
 - Chinese: si 思 — exact
+- Tibetan: sems pa  — exact
+- Chinese: 思 si  — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [acetana](acetana.md), [jīva](jiva.md), [puruṣa](purusa.md), [citiśakti](citisakti.md), [kamma](kamma.md)
+**Related:** [acetana](acetana.md), [jīva](jiva.md), [puruṣa](purusa.md), [citiśakti](citisakti.md), [kamma](kamma.md), [karma](karma.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools, skeleton:U41-yogacara-pramana, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

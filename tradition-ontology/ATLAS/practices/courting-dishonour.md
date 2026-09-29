@@ -17,4 +17,4 @@ Hiding his sign and learning, the ascetic goes among people behaving so as to be
 - Undertaken only after knowledge has been gained, impurity reduced and the teacher's permission obtained; the feigned acts must not conflict with the restraints (non-harming, celibacy etc.). — [Pañcārthabhāṣya](../texts/pancarthabhasya.md) on PS 3.12-3.16
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:10 IST._

@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Human effort and fate](paurusa-and-daiva.md) (causal): both the Yoga Vāsiṣṭha and Varāhamihira call fate one's own former action; they differ in weight — the Yoga Vāsiṣṭha makes present effort all-powerful, Varāhamihira requires both — rests on [1.3-4](../texts/yogayatra.md#tea-yogayatra-1-3-4), [2.6.1-6](../texts/moksopaya.md#tea-moksopaya-2-6-1-6)
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._

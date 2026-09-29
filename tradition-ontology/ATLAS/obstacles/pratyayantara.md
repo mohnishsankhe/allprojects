@@ -14,4 +14,4 @@ In the gaps of a mind flowing with discernment, cognitions such as 'I am', 'mine
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 4.27; rests_on: ["tea:yoga-bhasya:4.27"]
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:10 IST._

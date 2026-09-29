@@ -5,7 +5,7 @@
 **Alternate titles:** Da banniepan jing 大般涅槃經 (T374, Dharmakṣema 421, 40 juan — 'northern text'), T375 (36 juan, 'southern text', revised by Huiyan and Xie Lingyun), Da banniyuan jing 大般泥洹經 (T376, Faxian & Buddhabhadra 418, 6 juan), yongs su mya ngan las 'das pa chen po (Toh 119 from Sanskrit; Toh 120 from Chinese), Nirvāṇa Sūtra, Nehangyō
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md), `lin:tiantai`, `lin:chan`, `lin:huayan`, `lin:jonang`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md), `lin:tiantai`, [Chan (Chinese Meditation school)](../lineages/chan.md), `lin:huayan`, `lin:jonang`
 **Genre:** sūtra
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana) at Kuśinagara on the day of his parinirvāṇa; scholarly: Anonymous; the core (≈ T376) c. 2nd-3rd c.; the additional chapters of T374 from Dharmakṣema's further manuscripts (Central Asia), 5th c.; confidence: high
 **Dates:** Tradition's account: the last day of the Buddha's life; Scholarly account: core c. 200-300 CE; expanded to c. 400; Chinese 418 and 421; (confidence moderate)
@@ -29,7 +29,7 @@ The monks claim to cultivate the perceptions of impermanence, suffering, no-self
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-terms: [guṇa-pāramitā](../terms/guna-paramita.md), [viparyāsa](../terms/viparyasa.md) · concepts: [The four inversions and their reversal](../concepts/four-inversions-reversed.md), [The four perfections of the dharmakāya](../concepts/four-guna-paramitas.md), [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md) · obstacles: [The four inversions (and the Mahāyāna double set)](../obstacles/four-viparyasa.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), `dsp:buddha-nature-self-or-emptiness`
+terms: [guṇa-pāramitā](../terms/guna-paramita.md), [viparyāsa](../terms/viparyasa.md) · concepts: [The four inversions and their reversal](../concepts/four-inversions-reversed.md), [The four perfections of the dharmakāya](../concepts/four-guna-paramitas.md), [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md) · obstacles: [The four inversions (and the Mahāyāna double set)](../obstacles/four-viparyasa.md) · disputes: [Is there a self?](../debates/is-there-a-self.md), [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md)
 
 ### 3 <a id="tea-mahaparinirvana-sutra-mahayana-3"></a>
 `skeleton` · confidence moderate
@@ -38,18 +38,18 @@ The Tathāgata's body is the vajra body, permanent and indestructible, not a bod
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: all · types: ultimate, death-dying_
 
-concepts: [The permanence of the dharmakāya](../concepts/permanence-of-dharmakaya.md), [The Buddha's immeasurable lifespan](../concepts/eternal-lifespan-of-the-buddha.md) · disputes: `dsp:permanence-of-the-tathagata`
+concepts: [The permanence of the dharmakāya](../concepts/permanence-of-dharmakaya.md), [The Buddha's immeasurable lifespan](../concepts/eternal-lifespan-of-the-buddha.md) · disputes: [Is the Tathāgata permanent (his parinirvāṇa a display), or is parinirvāṇa the final end, the Tathāgata after death being undeclared?](../debates/permanence-of-the-tathagata.md)
 
 ### 4 <a id="tea-mahaparinirvana-sutra-mahayana-4"></a>
 `skeleton` · confidence high
 
 From today the Buddha no longer allows his śrāvaka disciples to eat meat: eating meat cuts off the seed of great compassion; the earlier permissions of the three kinds of pure meat were given step by step according to circumstances.
 
-> 夫食肉者，斷大慈種
+> 夫食肉者，斷大慈種。」迦葉又言：「如來何故，先聽比丘食三種淨肉？」「迦葉！是三種淨肉，隨事漸制。」
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, dispute_
 
-terms: [mahākaruṇā](../terms/mahakaruna.md) · practices: [Abstaining from meat (Mahāyāna)](../practices/vegetarian-discipline.md) · disputes: `dsp:is-meat-eating-permitted`
+terms: [mahākaruṇā](../terms/mahakaruna.md) · practices: [Abstaining from meat (Mahāyāna)](../practices/vegetarian-discipline.md) · disputes: [May Buddhists (monastics) eat meat?](../debates/is-meat-eating-permitted.md)
 
 ### 7 <a id="tea-mahaparinirvana-sutra-mahayana-7"></a>
 `skeleton` · confidence high
@@ -60,7 +60,7 @@ terms: [mahākaruṇā](../terms/mahakaruna.md) · practices: [Abstaining from m
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [buddhadhātu](../terms/buddhadhatu.md), [mahātman](../terms/mahatman.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md), [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md) · disputes: `dsp:buddha-nature-self-or-emptiness`, [Is there a self?](../debates/is-there-a-self.md)
+terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [buddhadhātu](../terms/buddhadhatu.md), [mahātman](../terms/mahatman.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md), [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Is there a self?](../debates/is-there-a-self.md)
 
 ### 9 <a id="tea-mahaparinirvana-sutra-mahayana-9"></a>
 `skeleton` · confidence moderate
@@ -69,7 +69,7 @@ All beings have buddha-nature; the icchantika too has buddha-nature, but it is b
 
 _level: bridging · standpoint: causal · path: knowledge · stage: all · types: karma-liberation, dispute_
 
-terms: [icchantika](../terms/icchantika.md), [buddhadhātu](../terms/buddhadhatu.md) · concepts: [The icchantika and the question of universal buddhahood](../concepts/icchantika-and-gotra.md) · disputes: `dsp:can-all-beings-attain-buddhahood`
+terms: [icchantika](../terms/icchantika.md), [buddhadhātu](../terms/buddhadhatu.md) · concepts: [The icchantika and the question of universal buddhahood](../concepts/icchantika-and-gotra.md) · disputes: [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md)
 
 ### 26 <a id="tea-mahaparinirvana-sutra-mahayana-26"></a>
 `skeleton` · confidence high
@@ -80,7 +80,7 @@ Among icchantikas there is no buddha-nature (in the sense of wholesome qualities
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, dispute_
 
-terms: [icchantika](../terms/icchantika.md), [buddhadhātu](../terms/buddhadhatu.md) · concepts: [The icchantika and the question of universal buddhahood](../concepts/icchantika-and-gotra.md) · disputes: `dsp:can-all-beings-attain-buddhahood`
+terms: [icchantika](../terms/icchantika.md), [buddhadhātu](../terms/buddhadhatu.md) · concepts: [The icchantika and the question of universal buddhahood](../concepts/icchantika-and-gotra.md) · disputes: [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md)
 
 ### 27 <a id="tea-mahaparinirvana-sutra-mahayana-27"></a>
 `skeleton` · confidence high
@@ -91,7 +91,7 @@ Buddha-nature is the emptiness of the highest meaning (paramārtha-śūnyatā), 
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [buddhadhātu](../terms/buddhadhatu.md), [paramārtha-śūnyatā](../terms/paramartha-sunyata.md) · concepts: [Buddha-nature as the emptiness of the highest meaning and the middle way](../concepts/buddha-nature-as-middle-way.md) · disputes: `dsp:buddha-nature-self-or-emptiness`
+terms: [buddhadhātu](../terms/buddhadhatu.md), [paramārtha-śūnyatā](../terms/paramartha-sunyata.md) · concepts: [Buddha-nature as the emptiness of the highest meaning and the middle way](../concepts/buddha-nature-as-middle-way.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md)
 
 ### 27 <a id="tea-mahaparinirvana-sutra-mahayana-27-2"></a>
 `skeleton` · confidence high
@@ -102,7 +102,7 @@ All sentient beings have buddha-nature — even the icchantikas; because they wi
 
 _level: bridging · standpoint: divine · path: knowledge · stage: all · types: karma-liberation, dispute_
 
-terms: [icchantika](../terms/icchantika.md), [buddhadhātu](../terms/buddhadhatu.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md), [The icchantika and the question of universal buddhahood](../concepts/icchantika-and-gotra.md) · disputes: `dsp:can-all-beings-attain-buddhahood`
+terms: [icchantika](../terms/icchantika.md), [buddhadhātu](../terms/buddhadhatu.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md), [The icchantika and the question of universal buddhahood](../concepts/icchantika-and-gotra.md) · disputes: [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md)
 
 ### 32 <a id="tea-mahaparinirvana-sutra-mahayana-32"></a>
 `skeleton` · confidence high
@@ -120,7 +120,7 @@ Four alternatives: some buddha-nature the icchantika has and the one with good r
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: dispute_
 
-concepts: [The icchantika and the question of universal buddhahood](../concepts/icchantika-and-gotra.md) · disputes: `dsp:can-all-beings-attain-buddhahood`
+concepts: [The icchantika and the question of universal buddhahood](../concepts/icchantika-and-gotra.md) · disputes: [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md)
 
 ### 39 <a id="tea-mahaparinirvana-sutra-mahayana-39"></a>
 `skeleton` · confidence moderate
@@ -135,4 +135,4 @@ concepts: [The four perfections of the dharmakāya](../concepts/four-guna-parami
 _Notes: Locator: juan (fascicle) of T374; Taishō lines in teaching sections (read locally). Not to be confused with the Pali Mahāparinibbāna Sutta (src:mahaparinibbana-sutta)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

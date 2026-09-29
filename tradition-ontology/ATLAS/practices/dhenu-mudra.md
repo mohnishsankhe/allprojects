@@ -12,4 +12,4 @@ The little and ring fingers, and the index and middle fingers, of the two hands 
   - [Śāradātilaka](../texts/saradatilaka.md) — ref: 23.111-114; rests_on: ["tea:saradatilaka:23.111-114"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._

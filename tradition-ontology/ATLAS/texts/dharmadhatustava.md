@@ -15,6 +15,7 @@
 A hymn to the dharma-realm ascribed to Nāgārjuna: the buddha-element present in beings is like a lamp inside a vase or gold in ore, obscured by afflictions and revealed when they are removed; used in Tibet as evidence that Nāgārjuna also taught buddha-nature.
 **Editions / translations:** 
   - kind: translation; name: Tibetan translation, Derge Tengyur D1118 (chos kyi dbyings su bstod pa) — catalog:Derge-Tengyur:D1118
+  - kind: translation; name: Chinese: Zan fajie song 讚法界頌, T1675 — catalog:CBETA:T32n1675
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

@@ -15,4 +15,4 @@
 Dādū's learned disciple, a Khaṇḍelvāl Vaiśya of Dausa who studied Sanskrit at Banaras; the most scholarly Sant poet, author of Jñān Samudra and Sundar Vilās, joining Sant bhakti with yoga and Advaita.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._

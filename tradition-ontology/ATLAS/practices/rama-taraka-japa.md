@@ -14,4 +14,4 @@ Recitation of Rāma's mantra, the tāraka given at Avimukta (Rāmatāpanī; Rām
   - [Rāmcaritmānas](../texts/ramcaritmanas.md) — ref: 1.119; rests_on: ["tea:ramcaritmanas:1.119"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._

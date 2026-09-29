@@ -20,6 +20,7 @@ _Notes: Distinguished from Svāyambhuva Manu, to whom the Manusmṛti is ascribe
 - 2026-09-29 text: confirmed — sources_raw/prepared/bhagavad-gita/segments.jsonl (BhG 4–6) — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_8.json (Anukramaṇī seer/deity/metre headers) — Headers: 'manur vaivasvataḥ' for 8.27–31 (8.29 alternatively Kaśyapa Mārīca).
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14) — Text-located: the flood and fish story ŚB 1.8.1.1–10 (the offering from which Iḍā arises, 1.8.1.7–10), and 'manur vaivasvato rājā' at ŚB 13.4.3.3.
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — Located: ChU 3.11.4 and 8.15.1 ('prajāpatir manave manuḥ prajābhyaḥ') and BĀU 1.4.10 ('ahaṃ manur abhavam').
 - 2026-09-29 text-locate: confirmed — local:gita/gita BhG 4.1 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._

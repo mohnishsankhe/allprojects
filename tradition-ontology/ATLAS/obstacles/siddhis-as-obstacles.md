@@ -22,4 +22,4 @@ The powers arising from yoga are obstacles for one practising the highest yoga, 
   - [Kutampaic cittar pāṭalkaḷ (the songs of Kuṭampai)](../texts/kudambai-padalgal.md) — ref: 2; rests_on: ["tea:kudambai-padalgal:2"]
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._

@@ -20,4 +20,4 @@ Mādhava's large commentary-digest on the Parāśarasmṛti, the standard South 
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Parāśarasmṛtiṭīkā, https://en.wikipedia.org/wiki/Vidyaranya, https://en.wikipedia.org/wiki/S%C4%81ya%E1%B9%87a — Extant. Mādhava's gloss on the Parāśarasmṛti, 14th c. Vijayanagara (Wikipedia 'Vidyaranya'). The identification of Mādhava with Vidyāraṇya is traditional and contested, as the entry says.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._

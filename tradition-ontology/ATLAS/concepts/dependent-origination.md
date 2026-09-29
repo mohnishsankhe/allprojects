@@ -5,11 +5,13 @@
 **Category:** karma-rebirth
 
 ## Names
+- [Madhyamaka](../lineages/madhyamaka.md): pratītyasamutpāda
 
 ## Definitions
 - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): 'When this exists, that comes to be' (SN 12.21): suffering arises through conditions and ceases with their cessation; deep and hard to see (DN 15); whoever sees it sees the Dhamma (MN 28); the middle between existence and non-existence (SN 12.15); it stands whether Tathāgatas arise or not (SN 12.20).
 - [Sarvāstivāda](../lineages/sarvastivada.md): Twelve limbs in three sections over three lives: defilement, karma, ground; a beginningless wheel.
 - [Mahāyāna](../lineages/mahayana.md): Seeing dependent origination is seeing the dharma and the Buddha; outward (seed-sprout) and inward (twelve links) dependent origination is neither eternal nor annihilated (Śālistamba); what arises from conditions is unborn and empty (Anavatapta); the twelve links rest on mind (Daśabhūmika 6).
+- [Madhyamaka](../lineages/madhyamaka.md): Dependent origination, free of the eight extremes, is the pacification of elaboration (dedication) and is emptiness (24.18); conventionally the twelve links, by which the ignorant forms the formations and suffering arises, and by whose knowledge it ceases (MMK 26); whoever sees it sees the four truths (24.40).
 
 ## Relations (interpretation layer)
 - contrasts-with → [Pre-existence of the effect (satkāryavāda)](satkaryavada.md) (polemical): Sāṃkhya's pre-existent effect; see dsp:causation — rests on [3.44-3.71](../texts/brahmajala-sutta.md#tea-brahmajala-sutta-3-44-3-71), [2.18-2.22](../texts/mahapadana-sutta.md#tea-mahapadana-sutta-2-18-2-22)
@@ -18,4 +20,4 @@
 _Notes: U38 contribution to a shared concept (U36 owns the sutta account)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U38-early-schools, skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U38-early-schools, skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

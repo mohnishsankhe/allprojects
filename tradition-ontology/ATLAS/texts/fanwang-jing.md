@@ -5,7 +5,7 @@
 **Alternate titles:** 梵網經 (T1484, attributed to Kumārajīva), Bonmō-kyō
 **Language:** Chinese
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:tiantai`, `lin:tendai`, `lin:chan`, `lin:zen`, `lin:huayan`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:tiantai`, `lin:tendai`, [Chan (Chinese Meditation school)](../lineages/chan.md), [Zen (Japanese Chan)](../lineages/zen.md), `lin:huayan`
 **Genre:** sūtra (precepts)
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana) by Vairocana on the lotus-throne; scholarly: Composed in China, mid-5th c.; confidence: high
 **Dates:** Scholarly account: c. 450-480 CE (China); (confidence moderate)
@@ -22,10 +22,10 @@ The ten major precepts of the bodhisattva: not to kill, steal, engage in sexual 
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
 
-concepts: [Bodhisattva precepts (sūtra layer)](../concepts/bodhisattva-precepts.md) · practices: [Receiving the Brahmajāla bodhisattva precepts](../practices/bodhisattva-precepts-fanwang.md), [Abstaining from meat (Mahāyāna)](../practices/vegetarian-discipline.md) · disputes: `dsp:is-meat-eating-permitted`
+concepts: [Bodhisattva precepts (sūtra layer)](../concepts/bodhisattva-precepts.md) · practices: [Receiving the Brahmajāla bodhisattva precepts](../practices/bodhisattva-precepts-fanwang.md), [Abstaining from meat (Mahāyāna)](../practices/vegetarian-discipline.md) · disputes: [May Buddhists (monastics) eat meat?](../debates/is-meat-eating-permitted.md)
 
 
 _Notes: Distinct from the Pali Brahmajāla Sutta (src:brahmajala-sutta, DN 1)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

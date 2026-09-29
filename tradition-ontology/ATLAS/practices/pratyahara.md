@@ -1,6 +1,6 @@
 # Sense-withdrawal (pratyāhāra) in the haṭha texts
 
-`prc:pratyahara` · `skeleton` · confidence high
+`prc:pratyahara` · `sourced` · confidence high
 
 **Category:** sense-withdrawal-concentration
 **Convergence:** 4 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -31,4 +31,8 @@ The haṭha texts teach withdrawal in several ways: bringing the wandering mind 
 - The powers that arise from withdrawal are obstacles to the great success; the wise do not delight in them nor display them. — [Dattātreyayogaśāstra](../texts/dattatreyayogasastra.md) 91-95
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī E — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (MaiU 6.18; ŚU 2.8; KU 2.1.1; ChU 8.15.1). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

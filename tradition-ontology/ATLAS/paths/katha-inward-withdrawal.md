@@ -1,6 +1,6 @@
 # The Kaṭha's inward withdrawal (KU 1.3.13)
 
-`pth:katha-inward-withdrawal` · `skeleton` · confidence high
+`pth:katha-inward-withdrawal` · `sourced` · confidence high
 
 **Lineage:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 **Sources:** 
@@ -16,4 +16,8 @@
 
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (KU 1.3.13; KU 1.3.10-11). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

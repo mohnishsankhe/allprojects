@@ -15,4 +15,4 @@
 The first commentary on Nammāḻvār's Tiruvāymoḻi, in Maṇipravāḷa of about 6,000 granthas, written by Tirukkurukaippirāṉ Piḷḷāṉ at Rāmānuja's direction, reading the hymns in the light of Viśiṣṭādvaita.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._

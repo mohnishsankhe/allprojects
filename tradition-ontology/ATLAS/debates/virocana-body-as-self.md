@@ -1,6 +1,6 @@
 # Is the self the body (as seen in its reflection)?
 
-`dsp:virocana-body-as-self` · `skeleton` · confidence high
+`dsp:virocana-body-as-self` · `sourced` · confidence high
 
 
 ## Sides (recorded before any reconciliation)
@@ -25,4 +25,8 @@ Prajāpati's final teaching as received by Indra: the body is mortal, the base o
 **The traditions' own objections:** ChU 8.8.4 says those who hold this doctrine will perish; the P4 reading claims only that it is a provisional stage, never a valid final view.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — All 3 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 8.8.1-3; ChU 8.7-12; ChU 8.8.4). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

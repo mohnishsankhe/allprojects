@@ -2,12 +2,12 @@
 
 `tch:goraksanatha` · `skeleton` · confidence high
 
-**Alternate names:** Gorakhnāth, Gorakṣa, Gorakh, Korakkar (Tamil), Gorakṣanātha Śiva-avatāra
-**Lineages:** [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
+**Alternate names:** Gorakhnāth, Gorakṣa, Gorakh, Korakkar (Tamil), Gorakṣanātha Śiva-avatāra, Gorakṣanātha, g+ho ra kha (Tibetan)
+**Lineages:** [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md), [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
 **Dates:** Tradition's account: immortal; appears in all four ages (tradition); Scholarly account: c. 11th–13th c.; (confidence moderate)
 **Places:** Gorakhpur, Gorakh Ṭillā (Tilla Jogian), Nepal (Gorkha; Mṛgasthalī), Girnar, Kadri
 **Historicity:** semi-legendary
-**Teachers:** [Matsyendranātha](matsyendranatha.md)
+**Teachers:** [Matsyendranātha](matsyendranatha.md), [Mīnapa](minapa.md)
 **Students:** [Gahinīnātha](gahininatha.md), [Bhartṛhari (Bharthari, the Nāth king-yogī)](bhartrhari-natha.md), [Cauraṅgīnātha](caurangi.md), [Mayanāmatī](mayanamati.md), [Dharmanātha](dharmanatha.md)
 **Works:** 
   - [Gorakṣaśataka](../texts/goraksasataka.md) — attribution: traditional
@@ -29,5 +29,7 @@
 Disciple of Matsyendra and the great organiser of the Nāth order, to whom the Nāths trace their panths, insignia and yoga; the Gorakṣaśataka, Siddhasiddhāntapaddhati, Amaraughaprabodha, Amaraughaśāsana and the Hindi Gorakh Bānī are ascribed to him. The tradition holds him immortal, appearing in every age; he rescues Matsyendra from the Kadalī kingdom, initiates Gopīcand, Bharthari and Pūraṇ Bhagat (Cauraṅgī), and in Vīraśaiva accounts meets Allama Prabhu. The Gorakhnāth Maṭh at Gorakhpur is his principal seat; Gorkha and the Gurkhas take their name from him.
 **Realization — the tradition's account:** Born by the power of Matsyendra's ash (vibhūti) — in the common north Indian and Marathi telling, the ash given to a childless woman was thrown on a dung-heap, and Matsyendra later called forth the boy from it; the Gorakṣaguṭikā gives a different origin. Perfected in body, deathless, master of all siddhis.
 
+_Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. Names Matsyendra (ma tsin+d+hi) explicitly — Tōh 2292 itself links Mīnapa/Matsyendra, Cauraṅgi and Gorakṣa. The word 'ba dzi' in the last line is not understood._
+
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._

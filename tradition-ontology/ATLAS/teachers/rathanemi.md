@@ -9,4 +9,4 @@
 Brother of Neminātha, a monk who was tempted on seeing Rājīmatī and was brought back to his vows by her rebuke.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

@@ -32,4 +32,4 @@ Knowledge alone gives kaivalya; bodily yoga is for the unawakened; realization i
 _Notes: Related registry dispute: dsp:works-knowledge-grace._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

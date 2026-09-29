@@ -31,4 +31,4 @@ practices: [Reflection before, during and after action; wise use of requisites](
 _Notes: SuttaCentral uid mn61; Mahāsaṅgīti title 'Ambalaṭṭhikarāhulovādasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

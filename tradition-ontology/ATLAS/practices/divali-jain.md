@@ -12,4 +12,4 @@ Jains keep Dīvālī as the night of Mahāvīra's nirvāṇa at Pāvā, when the
   - [Kalpa Sūtra (Paryuṣaṇākalpa)](../texts/kalpa-sutra-jain.md) — ref: jinacaritra.mahavira/3; rests_on: ["tea:kalpa-sutra-jain:jinacaritra.mahavira/3"]
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

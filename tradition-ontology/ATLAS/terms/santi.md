@@ -24,4 +24,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.39, tea:bhagavad-gita:5.12, tea:bhagavad-gita:5.29, tea:bhagavad-gita:6.15 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch04-06, skeleton:U32-jyotisa, skeleton:U08-agama-catalogue. Generated 2026-09-29 16:38 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch04-06, skeleton:U32-jyotisa, skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._

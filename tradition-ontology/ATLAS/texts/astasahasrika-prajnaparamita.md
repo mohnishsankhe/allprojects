@@ -6,7 +6,7 @@
 **Original title:** अष्टसाहस्रिका प्रज्ञापारमिता
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), `lin:vajrayana`, `lin:newar-vajrayana`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md), `lin:newar-vajrayana`
 **Genre:** sūtra (prajñāpāramitā)
 **Location in parent:** Nepal's nine dharmas (navadharma); Tibetan Kangyur Sher phyin section
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); much of it spoken by Subhūti through the Buddha's power (adhiṣṭhāna); in Tibetan and Nepalese accounts the Perfection of Wisdom was guarded by the nāgas until Nāgārjuna; scholarly: Anonymous; the earliest dated Prajñāpāramitā text; core usually placed c. 1st c. BCE-1st c. CE, expanded over time (Lokakṣema's Chinese of 179 CE is shorter than the later Sanskrit); confidence: high
@@ -42,7 +42,7 @@ The bodhisattva coursing in the perfection of wisdom should train so as not even
 
 _level: ultimate · standpoint: apophatic · path: knowledge, meditation · stage: advanced · types: consciousness-mind, ultimate_
 
-terms: [prakṛti-prabhāsvara-citta](../terms/prabhasvara-citta.md), [bodhicitta](../terms/bodhicitta.md) · concepts: [The thought of awakening (bodhicitta) in the sūtras](../concepts/bodhicitta-sutra.md), [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md)
+terms: [prabhāsvara-citta](../terms/prabhasvara-citta.md), [bodhicitta](../terms/bodhicitta.md) · concepts: [The thought of awakening (bodhicitta) in the sūtras](../concepts/bodhicitta-sutra.md), [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md)
 
 ### 1 <a id="tea-astasahasrika-prajnaparamita-1-3"></a>
 `skeleton` · confidence high
@@ -120,7 +120,7 @@ Those who reject the perfection of wisdom, who say it is not the Buddha's word, 
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: karma-liberation, world-fate_
 
-obstacles: [Rejecting the true dharma (saddharmapratikṣepa)](../obstacles/rejecting-the-true-dharma.md) · disputes: `dsp:mahayana-buddhavacana`
+obstacles: [Rejecting the true dharma (saddharmapratikṣepa)](../obstacles/rejecting-the-true-dharma.md) · disputes: [Are the Mahāyāna sūtras the word of the Buddha?](../debates/mahayana-buddhavacana.md)
 
 ### 8 <a id="tea-astasahasrika-prajnaparamita-8"></a>
 `skeleton` · confidence high
@@ -267,4 +267,4 @@ concepts: [The sūtra as object of worship](../concepts/cult-of-the-book.md) · 
 _Notes: Locator convention: parivarta 1-32 of Vaidya's ed.; Vaidya page numbers in teaching sections. Title and chapter colophons checked in the local GRETIL e-text (catalog:GRETIL-dev astasahasrika_prajnaparamita)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

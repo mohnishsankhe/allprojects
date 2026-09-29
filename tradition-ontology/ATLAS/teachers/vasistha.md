@@ -29,4 +29,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 - 2026-09-28 catalog: confirmed — catalog:DCS:Vasiṣṭhadharmasūtra — Confirmed as the traditional author of the extant Vasiṣṭha Dharmasūtra; he is also named among the lawgivers at YājñS 1.5 (text-located).
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.291.7-8, 12.296.44 — Epic role located; Rāmāyaṇa preceptor role consistent with the text.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U32-jyotisa, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U32-jyotisa, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._

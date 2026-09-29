@@ -31,7 +31,7 @@ The lineage (gotra) of a disciple is the seed of the qualities of liberation alr
 
 _level: conventional · standpoint: analytic · path: general · stage: beginner (gotrabhūmi) · types: karma-liberation_
 
-terms: [gotra](../terms/gotra.md) · concepts: `cpt:gotra-theory` · teachers: [Asaṅga](../teachers/asanga.md)
+terms: [gotra](../terms/gotra.md) · concepts: [Spiritual lineage (gotra) and the five lineages](../concepts/gotra-theory.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 2.alambana <a id="tea-sravakabhumi-2-alambana"></a>
 `skeleton` · confidence high
@@ -42,7 +42,7 @@ The meditation object is fourfold: the pervasive object, the object purifying on
 
 _level: conventional · standpoint: seeker · path: meditation · stage: beginner · types: practice_
 
-concepts: `cpt:four-kinds-of-meditation-object` · practices: `prc:carita-visodhana` · teachers: [Asaṅga](../teachers/asanga.md)
+concepts: [The four kinds of meditation object (Śrāvakabhūmi)](../concepts/four-kinds-of-meditation-object.md) · practices: [Meditation objects that purify temperament](../practices/carita-visodhana.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 2.carita <a id="tea-sravakabhumi-2-carita"></a>
 `skeleton` · confidence high
@@ -53,7 +53,7 @@ The objects that purify conduct are prescribed by temperament: the unattractive 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: beginner · types: practice_
 
-concepts: `cpt:five-temperaments` · practices: `prc:carita-visodhana`, [Contemplation of the unlovely (aśubhā-bhāvanā)](../practices/asubha-bhavana.md), [The four immeasurables (apramāṇa)](../practices/four-immeasurables.md), `prc:anapanasmrti-sravakabhumi`, `prc:dhatuprabheda` · teachers: [Asaṅga](../teachers/asanga.md)
+concepts: [The five temperaments (carita) and their remedies](../concepts/five-temperaments.md) · practices: [Meditation objects that purify temperament](../practices/carita-visodhana.md), [Contemplation of the unlovely (aśubhā-bhāvanā)](../practices/asubha-bhavana.md), [The four immeasurables (apramāṇa)](../practices/four-immeasurables.md), [Mindfulness of breathing (Śrāvakabhūmi)](../practices/anapanasmrti-sravakabhumi.md), [Analysis of the elements (dhātuprabheda)](../practices/dhatuprabheda.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 2.yathavad <a id="tea-sravakabhumi-2-yathavad"></a>
 `skeleton` · confidence high
@@ -62,7 +62,7 @@ The limit of things (vastuparyantatā) is their extent — everything conditione
 
 _level: conventional · standpoint: analytic · path: meditation, knowledge · stage: intermediate · types: practice, ultimate_
 
-terms: `trm:yavadbhavikata`, `trm:yathavadbhavikata`, [yukti](../terms/yukti.md) · concepts: `cpt:four-reasonings` · teachers: [Asaṅga](../teachers/asanga.md)
+terms: [yāvad-bhāvikatā](../terms/yavadbhavikata.md), [yathāvad-bhāvikatā](../terms/yathavadbhavikata.md), [yukti](../terms/yukti.md) · concepts: [The four reasonings (yukti)](../concepts/four-reasonings.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 3.four-vipasyana <a id="tea-sravakabhumi-3-four-vipasyana"></a>
 `skeleton` · confidence moderate
@@ -71,7 +71,7 @@ Insight is fourfold: a monk discerns dharmas, investigates them thoroughly, cons
 
 _level: conventional · standpoint: seeker · path: meditation, knowledge · stage: intermediate · types: practice_
 
-practices: `prc:vipasyana-yogacara` · teachers: [Asaṅga](../teachers/asanga.md)
+practices: [Insight (vipaśyanā) in Yogācāra sources](../practices/vipasyana-yogacara.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 3.nine-stages <a id="tea-sravakabhumi-3-nine-stages"></a>
 `skeleton` · confidence high
@@ -82,7 +82,7 @@ By the ninefold settling of the mind one settles the mind inwardly: one places i
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate (navākārā cittasthiti) · types: practice_
 
-terms: `trm:navakara-cittasthiti`, `trm:manaskara` · practices: `prc:nine-mental-abidings`, `prc:samatha-yogacara` · teachers: [Asaṅga](../teachers/asanga.md)
+terms: [navākārā citta-sthiti](../terms/navakara-cittasthiti.md), [manaskāra](../terms/manaskara.md) · practices: [The nine stages of settling the mind (navākārā cittasthiti)](../practices/nine-mental-abidings.md), [Calm abiding (śamatha) in Yogācāra sources](../practices/samatha-yogacara.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 3.prasrabdhi <a id="tea-sravakabhumi-3-prasrabdhi"></a>
 `skeleton` · confidence low
@@ -91,7 +91,7 @@ When calm is attained, pliancy of mind arises, and with it pliancy of body: the 
 
 _level: conventional · standpoint: experiential · path: meditation · stage: intermediate · types: powers-experiences, practice_
 
-terms: `trm:prasrabdhi`, `trm:dausthulya` · teachers: [Asaṅga](../teachers/asanga.md)
+terms: [praśrabdhi](../terms/prasrabdhi.md), [dauṣṭhulya](../terms/dausthulya.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 3.seven-attentions <a id="tea-sravakabhumi-3-seven-attentions"></a>
 `skeleton` · confidence high
@@ -102,8 +102,8 @@ The yogin reaches freedom from desire for sense-pleasures by seven attentions: t
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-practices: `prc:seven-attentions` · teachers: [Asaṅga](../teachers/asanga.md)
+practices: [The seven attentions (sapta manaskārāḥ)](../practices/seven-attentions.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

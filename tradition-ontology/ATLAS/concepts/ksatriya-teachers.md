@@ -1,6 +1,6 @@
 # Kings as teachers of brahmins
 
-`cpt:ksatriya-teachers` · `skeleton` · confidence high
+`cpt:ksatriya-teachers` · `sourced` · confidence high
 
 **Category:** teacher-transmission
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/kausitaki-upanisad-sharada — All 6 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 2.1; ChU 5.3.7; BĀU 6.2.8; ChU 5.11; KauU 1.1; BĀU 4). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

@@ -1,6 +1,6 @@
 # Who is the most learned in brahman? — the theological contest at Janaka's court (BAU 3)
 
-`dsp:janaka-court-brahmodya` · `skeleton` · confidence high
+`dsp:janaka-court-brahmodya` · `sourced` · confidence high
 
 
 ## Sides (recorded before any reconciliation)
@@ -30,4 +30,8 @@ Yājñavalkya: the self within all is the unseen seer, beyond hunger, sorrow and
 **The traditions' own objections:** The narrative is a contest with a declared victor; it does not present the challengers' views as equal standpoints.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 3; BĀU 3.4.2; BĀU 3.1-3.9; BĀU 3.8.10). It rests on 10 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

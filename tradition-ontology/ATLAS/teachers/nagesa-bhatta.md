@@ -24,4 +24,4 @@ Last great Pāṇinian of the classical period; his philosophical works belong t
 
 - 2026-09-28 websearch: confirmed — https://content.www.wellcomecollection.org/concepts/q9rxa6fe — Confirmed: active 1670–1750 (Wellcome authority record).
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U10-yoga, skeleton:U31-sound-arts, skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U10-yoga, skeleton:U31-sound-arts, skeleton:U09-samkhya. Generated 2026-09-29 17:10 IST._

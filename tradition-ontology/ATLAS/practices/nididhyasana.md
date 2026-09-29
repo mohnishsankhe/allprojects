@@ -1,6 +1,6 @@
 # Meditation (nididhyāsana / dhyāna)
 
-`prc:nididhyasana` · `skeleton` · confidence high
+`prc:nididhyasana` · `sourced` · confidence high
 
 **Category:** meditation
 **Convergence:** 3 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -23,4 +23,8 @@ Sustained meditation on the Lord. In Dvaita: meditation on Viṣṇu with the qu
 - One who strives for a vision he is unfit for falls even from what he had. — [Brahmasūtrabhāṣya (Madhva)](../texts/brahma-sutra-bhasya-madhva.md) 4.3.15
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 2.4.5; BĀU 4.5.6). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

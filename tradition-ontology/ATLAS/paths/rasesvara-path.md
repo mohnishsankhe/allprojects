@@ -21,4 +21,4 @@
 Restricted context: stages 2-3 are named only. Bands are the interpretation layer.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._

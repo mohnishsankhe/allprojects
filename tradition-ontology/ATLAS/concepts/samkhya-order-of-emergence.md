@@ -14,4 +14,4 @@
 - part-of → [The twenty-five principles (pañcaviṃśati-tattva)](twenty-five-tattvas.md) — rests on [22](../texts/samkhya-karika.md#tea-samkhya-karika-22)
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:10 IST._

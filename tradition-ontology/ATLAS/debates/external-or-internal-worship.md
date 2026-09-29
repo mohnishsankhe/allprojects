@@ -30,4 +30,4 @@ The Devī Gītā teaches both: outer worship, Vedic and tantric, and inner worsh
 **The traditions' own objections:** The Samaya school does not accept outer worship even as a lower stage for its own adherents; the Yoginīhṛdaya insists that even the knower keeps outer worship.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._

@@ -16,6 +16,7 @@
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): VP 6.7.11: taking non-self for self and what is not one's own as 'mine'; VP 1.5.5: fivefold avidyā arising first in creation; VP 6.7.61: the third, 'avidyā-karma' śakti.
 - [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md): A real, beginningless covering in each soul, twofold: one covering the soul's own nature and qualities, one covering (the soul's knowledge of) the Supreme; removed only by the Lord.
 - [Vaiśeṣika](../lineages/vaisesika.md): Defective cognition arising from defects of the senses and from impressions (VS 9.25–26 C); doubt, error, indefinite cognition and dream (Praśastapāda).
+- [Madhyamaka](../lineages/madhyamaka.md): The first of the twelve links; the ignorant forms the formations, not the one who sees reality (MMK 26.10); ignorance is the conceiving of dependently arisen things as real (ŚS 64); saṃvṛti in the sense of what covers reality (PsP 24.8).
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): Not an indescribable cosmic ignorance but karma (the third power 'avidyā-karma' of Viṣṇu Purāṇa 6.7.61) and the ignorance it causes in the soul — the contraction of its knowledge and the mistaking of body for self.
 - [Kaula (the Kula tradition)](../lineages/kaula.md): The beginningless ignorance covering the jīvas (Kulārṇava 1.9).
 - [Sarvāstivāda](../lineages/sarvastivada.md): Ignorance: a distinct dharma opposed to knowledge, not mere absence of knowledge; as the first limb, the past defilements; as the root, a separate outflow.
@@ -23,14 +24,16 @@
 
 ## Forms in other languages
 - Pali: avijjā  — partial
+- Tibetan: ma rig pa  — exact
+- Chinese: 無明 wuming  — exact
 - Chinese: wuming 無明 — exact
 
 ## Equivalents (interpretation layer)
 - exact: [ajñāna](ajnana.md) — Used interchangeably in Advaita texts (Vedāntasāra prefers ajñāna).
 - exact: [avijjā](avijja.md) — Sanskrit and Pali forms of the same canonical term; school definitions differ (see the per-lineage definitions).
-**Related:** [ajñāna](ajnana.md), [māyā](maya.md), [adhyāsa](adhyasa.md), [bhāvarūpa-avidyā](bhavarupa-avidya.md), [viparyaya](viparyaya.md), [anyathā-jñāna](anyathajnana.md)
+**Related:** [ajñāna](ajnana.md), [māyā](maya.md), [adhyāsa](adhyasa.md), [bhāvarūpa-avidyā](bhavarupa-avidya.md), [viparyaya](viparyaya.md), [anyathā-jñāna](anyathajnana.md), [viparyāsa](viparyasa.md)
 
 _Notes: Not the cosmic ignorance of Advaita._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U15-dvaita, skeleton:U11-nyaya-vaisesika, skeleton:U14-visistadvaita, skeleton:U24-kali-kaula, skeleton:U38-early-schools, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U15-dvaita, skeleton:U11-nyaya-vaisesika, skeleton:U40-madhyamaka, skeleton:U14-visistadvaita, skeleton:U24-kali-kaula, skeleton:U38-early-schools, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._

@@ -14,4 +14,4 @@ A lost Sāṃkhya work known from Vācaspati Miśra's quotation of its verses li
 _Notes: Quotation recalled from the Tattvakaumudī on SK 72 (not in the local partial text)._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:10 IST._

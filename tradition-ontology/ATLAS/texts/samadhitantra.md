@@ -51,4 +51,4 @@ concepts: [The three selves: outer, inner, supreme](../concepts/three-atmans.md)
 _Notes: Title present in the local catalogue (catalog:JainDB:समाधितन्त्र--आचार्य‌-पूज्यपाद); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._

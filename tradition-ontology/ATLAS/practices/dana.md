@@ -1,6 +1,6 @@
 # Giving (dāna)
 
-`prc:dana` · `skeleton` · confidence high
+`prc:dana` · `sourced` · confidence high
 
 **Category:** ethics
 **Convergence:** 5 independent lineage(s): [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Theravāda](../lineages/theravada.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -28,4 +28,8 @@ Give because it ought to be given, to one who makes no return, at the right plac
 _Notes: U05's contribution to a shared practice._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U36-pali-suttas, skeleton:U03-principal-upanisads, skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/taittiriya-upanisad/segmen — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 5.2; TU 1.11.3; ChU 3.17.4; BĀU 5.2.1-3). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U36-pali-suttas, skeleton:U03-principal-upanisads, skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._

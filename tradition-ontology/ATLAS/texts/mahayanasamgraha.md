@@ -27,7 +27,7 @@ The basis of the knowable is the store-consciousness, called ālaya because all 
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: intermediate · types: consciousness-mind_
 
-terms: `trm:alaya-vijnana`, [ādānavijñāna](../terms/adana-vijnana.md), [bīja](../terms/bija.md) · concepts: `cpt:alaya-vijnana`, `cpt:six-characteristics-of-seeds` · teachers: [Asaṅga](../teachers/asanga.md)
+terms: [ālaya-vijñāna](../terms/alaya-vijnana.md), [ādāna-vijñāna](../terms/adana-vijnana.md), [bīja](../terms/bija.md) · concepts: [The store-consciousness (ālaya-vijñāna)](../concepts/alaya-vijnana.md), [The six characteristics of seeds](../concepts/six-characteristics-of-seeds.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 2 <a id="tea-mahayanasamgraha-2"></a>
 `skeleton` · confidence moderate
@@ -45,7 +45,7 @@ Entry into the characteristic of the knowable is entry into cognition-only: hear
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: intermediate (adhimukticaryā → darśana-mārga) · types: practice_
 
-practices: `prc:four-investigations`, `prc:entry-into-cognition-only` · teachers: [Asaṅga](../teachers/asanga.md)
+practices: [The four investigations and four exact knowledges](../practices/four-investigations.md), [Entry into cognition-only (vijñaptimātratā-praveśa)](../practices/entry-into-cognition-only.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 8 <a id="tea-mahayanasamgraha-8"></a>
 `skeleton` · confidence moderate
@@ -54,7 +54,7 @@ Higher wisdom is non-conceptual cognition (nirvikalpa-jñāna): preparatory, fun
 
 _level: ultimate · standpoint: experiential · path: knowledge, meditation · stage: advanced · types: consciousness-mind, practice_
 
-terms: `trm:nirvikalpa-jnana`, `trm:prsthalabdha-jnana` · concepts: `cpt:non-conceptual-wisdom` · teachers: [Asaṅga](../teachers/asanga.md)
+terms: [nirvikalpa-jñāna](../terms/nirvikalpa-jnana.md), [pṛṣṭhalabdha-jñāna](../terms/prsthalabdha-jnana.md) · concepts: [Non-conceptual wisdom (nirvikalpa-jñāna)](../concepts/non-conceptual-wisdom.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 9 <a id="tea-mahayanasamgraha-9"></a>
 `skeleton` · confidence moderate
@@ -63,7 +63,7 @@ The fruit as abandonment is the transformation of the basis — the dependent na
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: realized · types: karma-liberation_
 
-terms: [āśraya-parāvṛtti](../terms/asraya-paravrtti.md), [apratiṣṭhita-nirvāṇa](../terms/apratisthita-nirvana.md) · concepts: `cpt:asraya-paravrtti`, `cpt:apratisthita-nirvana` · teachers: [Asaṅga](../teachers/asanga.md)
+terms: [āśraya-parāvṛtti](../terms/asraya-paravrtti.md), [apratiṣṭhita-nirvāṇa](../terms/apratisthita-nirvana.md) · concepts: [Transformation of the basis (āśraya-parāvṛtti)](../concepts/asraya-paravrtti.md), [Non-abiding nirvāṇa](../concepts/apratisthita-nirvana.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 10 <a id="tea-mahayanasamgraha-10"></a>
 `skeleton` · confidence moderate
@@ -72,10 +72,10 @@ The fruit as wisdom is the three bodies of a buddha: the essential body (dharmak
 
 _level: ultimate · standpoint: divine · path: general · stage: realized · types: ultimate_
 
-concepts: `cpt:three-bodies-yogacara` · teachers: [Asaṅga](../teachers/asanga.md)
+concepts: [The three bodies of a buddha (Yogācāra)](../concepts/three-bodies-yogacara.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 
 _Notes: No Sanskrit original survives. Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

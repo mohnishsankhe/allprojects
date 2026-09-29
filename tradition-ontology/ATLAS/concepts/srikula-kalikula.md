@@ -15,4 +15,4 @@
 _Notes: Kālīkula is treated in U24._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._

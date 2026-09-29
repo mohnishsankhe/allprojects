@@ -19,4 +19,4 @@
 **Related:** [śabdatattva](sabdatattva.md), [nādabrahman](nada-brahman.md), [paśyantī](pasyanti.md)
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

@@ -14,4 +14,4 @@ Repentance of the six senses before Samantabhadra, reciting the Lotus, contempla
 _Notes: Tiantai's 'Lotus samādhi' ritual (Zhiyi) belongs to U54._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

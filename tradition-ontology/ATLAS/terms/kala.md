@@ -28,4 +28,4 @@
 **Related:** [sākṣin](saksin.md), [pāśa](pasa.md), [kārya](karya.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U01-vedic-samhitas, skeleton:U06-other-gitas, skeleton:U11-nyaya-vaisesika, skeleton:U17-pasupata-kapalika, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U32-jyotisa, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U07-puranas, skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U01-vedic-samhitas, skeleton:U06-other-gitas, skeleton:U11-nyaya-vaisesika, skeleton:U17-pasupata-kapalika, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U32-jyotisa, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U07-puranas, skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._

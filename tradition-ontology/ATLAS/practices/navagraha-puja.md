@@ -12,4 +12,4 @@ Daily or occasional worship of the nine planets as deities, each with its image 
   - [Bṛhat Parāśara Horā Śāstra](../texts/brhat-parasara-hora-sastra.md) — ref: 84.4-13; rests_on: ["tea:brhat-parasara-hora-sastra:84.4-13"]
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._

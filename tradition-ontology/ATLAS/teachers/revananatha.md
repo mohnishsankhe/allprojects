@@ -9,4 +9,4 @@
 One of the Marathi nine Nāths (Revaṇnāth), held to be an incarnation of the Nārāyaṇa Camasa. In Karnataka the name Revaṇasiddha also belongs to a Vīraśaiva founder-figure; the relation between the two is unclear.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._

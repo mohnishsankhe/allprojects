@@ -1,6 +1,6 @@
 # Waking, dream, deep sleep and the fourth
 
-`cpt:four-states-and-turya` · `skeleton` · confidence high
+`cpt:four-states-and-turya` · `sourced` · confidence high
 
 **Category:** consciousness-states
 **Members:** jāgarita (waking) — vaiśvānara, svapna (dream) — taijasa, suṣupta (deep sleep) — prājña, caturtha/turīya (the fourth), jāgrat, svapna, suṣupti, turya, turyātīta
@@ -17,4 +17,8 @@
 - corresponds-to-in-map → `cpt:three-states-and-the-fourth`: the Māṇḍūkya's scheme; the Śaivas add turyātīta — rests on [1.7](../texts/siva-sutra.md#tea-siva-sutra-1-7)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U19-kashmir-saivism, skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/aitareya-upanisad/segments.jsonl (Advaita-Śāradā mūla Aitareya.md, adhyāya.khaṇḍa.verse), text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jso — All 6 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 4.3; ChU 8.7-12; MāU 3-7; KU 2.1.4; AU 1.3.12; MaiU 7.11). It rests on 11 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U19-kashmir-saivism, skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._

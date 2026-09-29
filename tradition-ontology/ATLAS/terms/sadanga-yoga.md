@@ -14,4 +14,4 @@
 _Notes: The Kālacakra six-branch yoga has the same name and a different list (other units)._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

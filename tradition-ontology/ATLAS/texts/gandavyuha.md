@@ -6,7 +6,7 @@
 **Original title:** गण्डव्यूहसूत्र
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:huayan`, `lin:hwaeom`, `lin:newar-vajrayana`, `lin:chan`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:huayan`, `lin:hwaeom`, `lin:newar-vajrayana`, [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Genre:** sūtra
 **Part of:** [Buddhāvataṃsaka-sūtra](avatamsaka-sutra.md)
 **Location in parent:** final section of the Avataṃsaka; one of Nepal's nine dharmas
@@ -88,4 +88,4 @@ concepts: [Samantabhadra's vows](../concepts/samantabhadra-vows.md) · teachers:
 _Notes: The section list (names of all spiritual friends) was read in the local e-text._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

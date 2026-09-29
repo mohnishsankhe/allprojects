@@ -12,4 +12,4 @@ Killing, stealing, sexual misconduct; false, divisive, harsh speech and idle cha
   - [Aṅguttara Nikāya](../texts/anguttara-nikaya.md) — ref: 10.176; rests_on: ["tea:anguttara-nikaya:10.176"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

@@ -12,4 +12,4 @@
 Author of the Arthasaṅgraha, a beginner's primer of Bhāṭṭa Mīmāṃsā closely following Āpadeva, and of the Tarkakaumudī (Nyāya-Vaiśeṣika).
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._

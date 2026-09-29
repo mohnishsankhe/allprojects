@@ -28,4 +28,4 @@ terms: [pañcamūrti (Vaikhānasa)](../terms/vaikhanasa-pancamurti.md) · concep
 _Notes: Checked in sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/4_rellit/vaisn/bhrgu-samhita.md (Vaikhānasa Bhṛgusaṃhitā, GRETIL). Which of Bhṛgu's adhikāras this text corresponds to is not established; distinct from the astrological Bhṛgu Saṃhitā._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._

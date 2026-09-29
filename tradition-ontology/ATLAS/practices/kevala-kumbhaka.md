@@ -32,4 +32,4 @@ RESTRICTED — summary only: the easy holding of the breath free of inhalation a
 - analogous: [The fourth prāṇāyāma (2.51)](caturtha-pranayama.md) — Both are a suspension of breath beyond the phases of inhalation and exhalation; the Yoga Sūtra's 'fourth' is defined by going beyond the outer and inner spheres, the haṭha kevala by the absence of inhalation and exhalation. The texts do not themselves identify them.
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

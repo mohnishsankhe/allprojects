@@ -1,6 +1,6 @@
 # The person the size of a thumb
 
-`cpt:angusthamatra-purusa` · `skeleton` · confidence high
+`cpt:angusthamatra-purusa` · `sourced` · confidence high
 
 **Category:** self
 
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (KU 2.1.12-13; KU 2.3.17; ŚU 3.13; ŚU 5.8). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

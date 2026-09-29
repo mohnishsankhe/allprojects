@@ -14,4 +14,4 @@ Early Madhyamaka poet to whom the Hymn to the Perfection of Wisdom is ascribed; 
 _Notes: Conflicting placements are both the traditions' accounts; not reconciled here._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

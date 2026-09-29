@@ -11,4 +11,4 @@
 Tokharian monk who recited the Ekottarikāgama for translation (384–385).
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

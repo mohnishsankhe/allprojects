@@ -65,4 +65,4 @@ Mūrtipūjaka teachers themselves confine material worship to laypeople (P4) and
 _Notes: Id aligned with U35's reference (dsp:image-worship-and-inner-worship); U35 may add the Adhyātma and Tāraṇapantha angles._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

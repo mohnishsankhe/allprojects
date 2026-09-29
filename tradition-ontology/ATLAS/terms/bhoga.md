@@ -22,4 +22,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.22 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06, skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06, skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._

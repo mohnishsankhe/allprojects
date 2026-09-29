@@ -24,6 +24,7 @@
 - [Trika ('the Triad')](../lineages/trika.md): Not an abode or a going elsewhere, but the manifestation of one's own power by cutting the knot of ignorance (Paramārthasāra 60); one, whatever the means (TĀ 1.165-166).
 - [Jainism (Jaina dharma)](../lineages/jainism.md): Release from all karma through the absence of the causes of bondage and through shedding; the liberated soul rises to the summit of the universe and abides in infinite knowledge, perception, bliss and energy (TS 10.2–5).
 - [Adhyātma movement (Adhyātma-mata)](../lineages/adhyatma-jain.md): The soul's resting in its own pure nature, known already by the ultimate standpoint; the self conquered by passions is saṃsāra, the self that conquers them is liberation (YŚ 4.5).
+- [Madhyamaka](../lineages/madhyamaka.md): Liberation comes from the exhaustion of action and afflictions, which arise from conceptual construction and elaboration, which cease in emptiness (MMK 18.5); definite goodness (naiḥśreyasa) is liberation (RĀ 1.4).
 - [Jyotiṣa (the science of the lights)](../lineages/jyotisa.md): In horā, the liberation whose signs appear in the chart: Jupiter exalted in the 6th, an angle or the 8th, or the 12th rising in a benefic navāṃśa with the other planets weak (BJ 25.15); Ketu in the 12th from the kārakāṃśa gives kaivalya (Jaimini 1.2.69).
 - [Bhedābheda Vedānta (Bhāskara's school and the early difference-and-non-difference Vedāntins)](../lineages/bhedabheda.md): Oneness with Brahman after death, when the adjuncts fall away.
 - [Dvaitādvaita (Nimbārka Sampradāya)](../lineages/dvaitadvaita.md): Attainment of the Lord's nature and non-separation from him, with difference preserved.
@@ -37,11 +38,11 @@
 
 ## Equivalents (interpretation layer)
 - partial: [apavarga](apavarga.md) — Pārthasārathi's 'cutting off of all specific qualities of the self' parallels the Nyāya-Vaiśeṣika apavarga; Mīmāṃsā grounds it in the exhaustion of ritual karma
-**Related:** [dehoccheda](dehoccheda.md), [bandha](bandha.md), [svarga](svarga.md), [sālokya](salokya.md), [sāyujya ('yoga')](sayujya.md), [svarūpānanda](svarupananda.md), [kaivalya](kaivalya.md), [mukta](mukta.md), [apunarāvṛtti](apunaravrtti.md)
+**Related:** [dehoccheda](dehoccheda.md), [bandha](bandha.md), [svarga](svarga.md), [sālokya](salokya.md), [sāyujya ('yoga')](sayujya.md), [svarūpānanda](svarupananda.md), [kaivalya](kaivalya.md), [mukta](mukta.md), [apunarāvṛtti](apunaravrtti.md), [nirvāṇa](nirvana.md), [naiḥśreyasa](naihsreyasa.md)
 
 ---
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.28, tea:bhagavad-gita:4.16, tea:bhagavad-gita:4.32 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U12-mimamsa, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U14-visistadvaita, skeleton:U02-brahmana-vedanga, skeleton:U19-kashmir-saivism, skeleton:U35-jain-philosophy, skeleton:U32-jyotisa, skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U14-visistadvaita, skeleton:U02-brahmana-vedanga, skeleton:U19-kashmir-saivism, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka, skeleton:U32-jyotisa, skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._

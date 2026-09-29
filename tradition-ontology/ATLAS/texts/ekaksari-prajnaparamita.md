@@ -5,7 +5,7 @@
 **Alternate titles:** Perfection of Wisdom in One Letter, Toh 23
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), `lin:vajrayana`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
 **Genre:** sūtra (prajñāpāramitā)
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); scholarly: Anonymous; confidence: moderate
 **Availability:** digitized-translation
@@ -21,8 +21,8 @@ The Buddha teaches the perfection of wisdom in one letter, A, which contains the
 
 _level: ultimate · standpoint: absolute · path: sound, knowledge · stage: all · types: sound-language, ultimate_
 
-terms: [akāra](../terms/akara.md)
+terms: [ākāra](../terms/akara.md)
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

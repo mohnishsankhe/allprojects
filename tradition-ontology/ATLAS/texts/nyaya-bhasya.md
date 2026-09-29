@@ -142,7 +142,7 @@ The means of knowledge may converge on one object (saṃplava) or be restricted 
 
 _level: unmarked · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind, powers-experiences_
 
-terms: [pramāṇa](../terms/pramana.md), [yogipratyakṣa](../terms/yogipratyaksa.md) · concepts: [Convergence of means of knowledge (pramāṇa-saṃplava)](../concepts/pramana-samplava.md), [Yogic perception and seers' knowledge](../concepts/yogic-perception-vaisesika.md) · disputes: [Can one object be known by more than one means of knowledge?](../debates/pramana-samplava.md)
+terms: [pramāṇa](../terms/pramana.md), [yogi-pratyakṣa](../terms/yogipratyaksa.md) · concepts: [Convergence of means of knowledge (pramāṇa-saṃplava)](../concepts/pramana-samplava.md), [Yogic perception and seers' knowledge](../concepts/yogic-perception-vaisesika.md) · disputes: [Can one object be known by more than one means of knowledge?](../debates/pramana-samplava.md)
 
 ### 1.1.7 <a id="tea-nyaya-bhasya-1-1-7"></a>
 `skeleton` · confidence high
@@ -268,4 +268,4 @@ practices: [Repeated study of the science of the self](../practices/jnanagrahana
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._

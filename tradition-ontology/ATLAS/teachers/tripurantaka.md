@@ -10,4 +10,4 @@
 Pāśupata ascetic eulogised in the Cintra praśasti of 1287 CE for his foundations at Somanātha; the inscription traces his line to one of Lakulīśa's disciples (details to be checked).
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:10 IST._

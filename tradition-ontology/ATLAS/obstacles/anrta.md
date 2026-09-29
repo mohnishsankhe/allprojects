@@ -14,4 +14,4 @@ Untruth and breach of ṛta, which Varuṇa punishes with his fetters and from w
 _Notes: rests_on: tea:atharvaveda-saunaka:4.16.2-6, tea:vajasaneyi-samhita:1.5, tea:rgveda:7.86.6_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._

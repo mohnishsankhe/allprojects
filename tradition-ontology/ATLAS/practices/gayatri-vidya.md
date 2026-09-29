@@ -1,6 +1,6 @@
 # Meditation on the Gāyatrī
 
-`prc:gayatri-vidya` · `skeleton` · confidence moderate
+`prc:gayatri-vidya` · `sourced` · confidence moderate
 
 **Category:** mantra-sound
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -12,4 +12,8 @@ Venerate the Gāyatrī as all this — speech, earth, body, heart — whose four
   - [Bṛhadāraṇyaka Upaniṣad](../texts/brhadaranyaka-upanisad.md) — ref: 5.14; rests_on: ["tea:brhadaranyaka-upanisad:5.14.1-8"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — Located: ChU 3.12.1-9 (the Gāyatrī is all this — speech, earth, body, heart; 3.12.6 = RV 10.90.3; 3.12.7-9 on the three spaces) and BĀU 5.14.1-8 (its four feet, the fourth 'darśataṃ padaṃ parorajāḥ'). All 2 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 3.12; BĀU 5.14). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

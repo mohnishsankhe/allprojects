@@ -15,4 +15,4 @@ A short Hindi work ascribed to Cauraṅgīnāth, in which the speaker tells his 
 _Notes: Attribution and contents recalled with low confidence; to be checked in sourcing._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._

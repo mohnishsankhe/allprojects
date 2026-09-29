@@ -17,4 +17,4 @@
 - contrasts-with → [Five kinds of liberation](five-kinds-of-liberation.md): Vaiṣṇava lists add sārṣṭi and some reject sāyujya
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._

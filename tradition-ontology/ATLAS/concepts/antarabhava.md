@@ -17,4 +17,4 @@
 - corresponds-to-in-map → `cpt:bardo`: The Tibetan bar do teachings build on the Abhidharma intermediate existence (historical relation). — rests on [3.10](../texts/abhidharmakosa.md#tea-abhidharmakosa-3-10)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

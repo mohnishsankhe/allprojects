@@ -14,4 +14,4 @@ A Dharmapada in a Prakrit-like language from a manuscript photographed in Tibet 
   - kind: original; name: M. Cone (JPTS 1989), GRETIL e-text
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

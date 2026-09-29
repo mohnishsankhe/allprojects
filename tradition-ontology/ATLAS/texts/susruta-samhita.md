@@ -10,7 +10,7 @@
 **Authors:** 
   - [Dhanvantari (Divodāsa, king of Kāśī)](../teachers/dhanvantari.md) — role: revealer; attribution: traditional
   - [Suśruta](../teachers/susruta.md) — role: author; attribution: traditional
-  - [Nāgārjuna (the siddha, alchemist and physician)](../teachers/nagarjuna-siddha.md) — role: compiler; attribution: doubtful
+  - [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md) — role: compiler; attribution: doubtful
 **Attribution:** tradition: Dhanvantari, born as King Divodāsa of Kāśī, taught Suśruta and his fellow students (Su Sū 1.3-21); Ḍalhaṇa reports that Nāgārjuna redacted the text.; scholarly: Compiled in layers; the Uttaratantra is a later supplement; final form before c. 6th c. CE.; confidence: moderate
 **Dates:** Tradition's account: teaching of Dhanvantari-Divodāsa at Kāśī; Scholarly account: core perhaps c. 2nd c. BCE onward; final redaction c. 3rd–6th c. CE; (confidence low)
 **Structure:** Five sthānas of 120 chapters (Sūtra 46, Nidāna 16, Śārīra 10, Cikitsā 40, Kalpa 8) plus the Uttaratantra (66 chapters) — Su Sū 1.39-40
@@ -255,4 +255,4 @@ terms: [tantrayukti](../terms/tantrayukti.md) · concepts: [The devices of expos
 
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._

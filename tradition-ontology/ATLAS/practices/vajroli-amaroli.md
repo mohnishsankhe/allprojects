@@ -26,4 +26,4 @@ RESTRICTED — summary only: practices for the retention and 'drawing back' of b
 - When women desire the yogin at the beginning stage, union destroys his bindu, shortens life and weakens him — a great obstacle. — [Dattātreyayogaśāstra](../texts/dattatreyayogasastra.md) 77-80
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

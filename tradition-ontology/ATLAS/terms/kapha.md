@@ -20,4 +20,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._

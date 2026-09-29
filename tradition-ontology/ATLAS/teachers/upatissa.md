@@ -13,4 +13,4 @@ The elder named as author of the Vimuttimagga, a manual of the path earlier than
 _Notes: Dhammapāla's sub-commentary identifies some anonymous views cited in the Visuddhimagga as Upatissa's (as remembered; not checked)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._

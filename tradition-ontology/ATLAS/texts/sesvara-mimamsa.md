@@ -15,4 +15,4 @@
 Vedānta Deśika's theistic commentary on the Mīmāṃsā Sūtra, arguing that Jaimini's system does not exclude the Lord and belongs with the Uttara Mīmāṃsā as one śāstra.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:10 IST._

@@ -26,7 +26,7 @@ The dialogue in which Kṛṣṇa, as charioteer, instructs Arjuna on the battle
   - kind: original; name: F. O. Schrader, The Kashmir Recension of the Bhagavadgītā (Stuttgart, 1930); licence: print
 **Commentaries on this text:** [Anāsakti Yoga of M. K. Gandhi](anasakti-yoga.md), [Bhagavad-gītā As It Is](bhagavad-gita-as-it-is.md), [Bhagavadgītā Vīraśaiva-bhāṣya (T. G. Siddappārādhya)](bhagavadgita-virasaiva-bhasya.md), [Essays on the Gita of Sri Aurobindo](essays-on-the-gita.md), [Gītābhāṣya of Bhāskara](gita-bhasya-bhaskara.md), [Gītābhāṣya (Madhva)](gita-bhasya-madhva.md), [Gītābhāṣya of Rāmānuja](gita-bhasya-ramanuja.md), [Gītābhāṣya of Śaṅkara](gita-bhasya-sankara.md), [Gītābhūṣaṇa of Baladeva Vidyābhūṣaṇa](gita-bhusana.md), [Gītā Rahasya (Karmayogaśāstra) of Bāl Gaṅgādhar Tilak](gita-rahasya.md), [Gītātātparyanirṇaya](gita-tatparya-nirnaya.md), [Gītārthasaṅgraha](gitarthasangraha.md), [Gītārthasaṅgraha of Abhinavagupta](gitarthasangraha-abhinavagupta.md), [Gītārthasaṅgraha of Yāmuna](gitarthasangraha-yamuna.md), [Gītāvivṛti](gitavivrti.md), [Gūḍhārthadīpikā](gudharthadipika.md), [Jñāneśvarī (Bhāvārthadīpikā)](jnanesvari.md), [Kathā-Gītā (of Bhaṭṭadeva)](katha-gita-bhattadeva.md), [Sārārthavarṣiṇī](sarartha-varsini.md), [Sārārthavarṣiṇī of Viśvanātha Cakravartin](sararthavarsini.md), [Sarvatobhadra of Rājānaka Rāmakaṇṭha](sarvatobhadra-ramakantha.md), [Subodhinī of Śrīdhara Svāmin](subodhini-sridhara.md), [Tattvaprakāśikā of Keśava Kāśmīrī Bhaṭṭa](tattvaprakasika-kesava-kasmiri.md), [Tattvaprakāśikā (Gītā commentary of Keśava Kāśmīrin)](tattvaprakasika-kesava-kasmirin.md), [Tattvārthadīpanibandha of Vallabha](tattvartha-dipa-nibandha.md)
 
-## Teachings (538: text-verified 289, sourced 249)
+## Teachings (618: text-verified 386, sourced 232)
 
 ### 1.1 <a id="tea-bhagavad-gita-1-1"></a>
 `text-verified` · confidence high
@@ -4167,6 +4167,19 @@ _level: unmarked · standpoint: devotional · path: devotion, meditation · stag
 
 terms: [śraddhā](../terms/sraddha.md), [bhakti](../terms/bhakti.md), [yukta](../terms/yukta.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md)
 
+### 7.1 <a id="tea-bhagavad-gita-7-1"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: hear, Pārtha, how you — with your mind attached to me (mayy āsakta-manāḥ), practising yoga, taking refuge in me (mad-āśraya) — will know me entirely (samagram), without doubt.
+
+> śrī bhagavānuvāca
+mayyāsaktamanāḥ pārtha yogaṃ yuñjanmadāśrayaḥ|
+asaṃśayaṃ samagraṃ māṃ yathā jñāsyasi tacchṛṇu
+
+_level: conventional · standpoint: seeker · path: devotion, meditation, knowledge · stage: unmarked · types: practice, ultimate_
+
+terms: [yoga](../terms/yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 7.1-2 <a id="tea-bhagavad-gita-7-1-2"></a>
 `sourced` · confidence high
 
@@ -4174,12 +4187,43 @@ Hear how, with mind attached to me, practising yoga and taking refuge in me, you
 
 _level: bridging · standpoint: divine · path: knowledge, devotion · stage: intermediate · types: ultimate, teacher-transmission_
 
+_Superseded by [7.1](bhagavad-gita.md#tea-bhagavad-gita-7-1)_
+
+### 7.2 <a id="tea-bhagavad-gita-7-2"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: I will declare to you, without remainder, this knowledge (jñāna) together with vijñāna; having known it, nothing else remains here to be known.
+
+> jñānaṃ te'haṃ savijñānamidaṃ vakṣyāmyaśeṣataḥ|
+yajjñātvā neha bhūyo'nyajjñātavyamavaśiṣyate
+
+_level: unmarked · standpoint: seeker · path: knowledge · stage: unmarked · types: ultimate, teacher-transmission_
+
+terms: [jñāna](../terms/jnana.md), [vijñāna](../terms/vijnana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 7.3 <a id="tea-bhagavad-gita-7-3"></a>
-`sourced` · confidence high
+`text-verified` · confidence moderate
 
-Among thousands of people scarcely one strives for perfection; and among those who strive and are perfected, scarcely one knows me in truth.
+Kṛṣṇa: among thousands of human beings hardly one strives for perfection (siddhi); and even among those who strive and are perfected (siddha), hardly one knows me in truth (tattvataḥ).
 
-_level: conventional · standpoint: seeker · path: general · stage: all · types: karma-liberation_
+> manuṣyāṇāṃ sahasreṣu kaśicadyatati siddhaye|
+yatatāmapi siddhānāṃ kaśicanmāṃ vetti tattvataḥ
+
+_level: conventional · standpoint: seeker · path: general · stage: unmarked (yatamāna (one who strives) / siddha (the perfected) / tattvato vettā (one who knows in truth)) · types: practice, karma-liberation, ultimate_
+
+terms: [siddhi](../terms/siddhi.md), [tattva](../terms/tattva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 7.4 <a id="tea-bhagavad-gita-7-4"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: earth, water, fire, air, space (kha), mind (manas), intellect (buddhi) and the sense of 'I' (ahaṅkāra): thus is this nature (prakṛti) of mine divided eightfold.
+
+> bhūmirāpo'nalo vāyuḥ khaṃ mano buddhireva ca|
+ahaṅkāra itīyaṃ me bhinnā prakṛtiraṣṭadhā
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: body-layers, consciousness-mind, world-fate_
+
+terms: [prakṛti](../terms/prakrti.md), [pṛthivī](../terms/prthivi.md), [ap / jala](../terms/ap.md), [Vāyu](../terms/vayu.md), [ākāśa](../terms/akasa.md), [manas](../terms/manas.md), [buddhi](../terms/buddhi.md), [ahaṅkāra](../terms/ahankara.md), [aparā prakṛti](../terms/apara-prakrti.md) · concepts: [The two natures of the Lord (aparā and parā prakṛti)](../concepts/two-natures-of-the-lord.md), [Prakṛti (primordial nature)](../concepts/prakrti.md), [The five elements (mahābhūta)](../concepts/five-elements.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 7.4-5 <a id="tea-bhagavad-gita-7-4-5"></a>
 `sourced` · confidence high
@@ -4192,6 +4236,32 @@ _level: ultimate · standpoint: divine · path: knowledge · stage: all · types
 
 terms: [aparā prakṛti](../terms/apara-prakrti.md), [parā prakṛti](../terms/para-prakrti.md), [prakṛti](../terms/prakrti.md), [jīva](../terms/jiva.md) · concepts: [The two natures of the Lord (aparā and parā prakṛti)](../concepts/two-natures-of-the-lord.md)
 
+_Superseded by [7.4](bhagavad-gita.md#tea-bhagavad-gita-7-4)_
+
+### 7.5 <a id="tea-bhagavad-gita-7-5"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: this is the lower (aparā) (nature); but know my other, higher nature (parā prakṛti), mighty-armed, which has become the living being (jīva-bhūtā), by which this world is upheld.
+
+> apareyamitastvanyāṃ prakṛtiṃ viddhi me parām|
+jīvabhūtāṃ mahābāho yayedaṃ dhāryate jagat
+
+_level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, world-fate_
+
+terms: [aparā prakṛti](../terms/apara-prakrti.md), [parā prakṛti](../terms/para-prakrti.md), [jīva](../terms/jiva.md), [jagat (as opposed to saṃsāra)](../terms/jagat.md), [prakṛti](../terms/prakrti.md) · concepts: [The two natures of the Lord (aparā and parā prakṛti)](../concepts/two-natures-of-the-lord.md), [The individual living self (jīva)](../concepts/jiva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 7.6 <a id="tea-bhagavad-gita-7-6"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: understand that all beings have these (two natures) as their womb (etad-yonīni); I am the origin (prabhava) and likewise the dissolution (pralaya) of the whole world.
+
+> etadyonīni bhūtāni sarvāṇītyupadhāraya|
+ahaṃ kṛtsnasya jagataḥ prabhavaḥ pralayastathā
+
+_level: unmarked · standpoint: cosmic · path: knowledge · stage: unmarked · types: world-fate, ultimate_
+
+terms: [prakṛti](../terms/prakrti.md), [pralaya](../terms/pralaya.md), [jagat (as opposed to saṃsāra)](../terms/jagat.md) · concepts: [The two natures of the Lord (aparā and parā prakṛti)](../concepts/two-natures-of-the-lord.md), [Creation and dissolution of the world](../concepts/creation-and-dissolution.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 7.6-7 <a id="tea-bhagavad-gita-7-6-7"></a>
 `sourced` · confidence high
 
@@ -4200,6 +4270,32 @@ All beings have these two as their womb; I am the origin and the dissolution of 
 _level: ultimate · standpoint: divine · path: knowledge, devotion · stage: all · types: ultimate, world-fate_
 
 concepts: [The two natures of the Lord (aparā and parā prakṛti)](../concepts/two-natures-of-the-lord.md)
+
+_Superseded by [7.6](bhagavad-gita.md#tea-bhagavad-gita-7-6)_
+
+### 7.7 <a id="tea-bhagavad-gita-7-7"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: there is nothing whatever higher than me, Dhanañjaya; all this is strung on me like clusters of gems (maṇi-gaṇa) on a thread (sūtra).
+
+> mattaḥ parataraṃ nānyatkiñcidasti dhanañjaya|
+mayi sarvamidaṃ protaṃ sūtre maṇigaṇā iva
+
+_level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate_
+
+concepts: [The two natures of the Lord (aparā and parā prakṛti)](../concepts/two-natures-of-the-lord.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 7.8 <a id="tea-bhagavad-gita-7-8"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: I am the taste (rasa) in the waters, Kaunteya; I am the light of moon and sun; the syllable Oṃ (praṇava) in all the Vedas, sound (śabda) in space (kha), manhood (pauruṣa) in men.
+
+> raso'hamapsu kaunteya prabhāsmi śaśisūryayoḥ|
+praṇavaḥ sarvavedeṣu śabdaḥ khe pauruṣaṃ nṛṣu
+
+_level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, sound-language_
+
+terms: [rasa](../terms/rasa.md), [praṇava](../terms/pranava.md), [veda](../terms/veda.md), [śabda](../terms/sabda.md), [ākāśa](../terms/akasa.md), [pauruṣa](../terms/paurusa.md), [oṃ](../terms/om.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Oṃ](../concepts/om.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 7.8-11 <a id="tea-bhagavad-gita-7-8-11"></a>
 `sourced` · confidence high
@@ -4210,6 +4306,56 @@ _level: ultimate · standpoint: divine · path: knowledge, devotion · stage: al
 
 terms: [oṃ](../terms/om.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Oṃ](../concepts/om.md)
 
+_Superseded by [7.8](bhagavad-gita.md#tea-bhagavad-gita-7-8)_
+
+### 7.9 <a id="tea-bhagavad-gita-7-9"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: and I am the pure fragrance (puṇyo gandhaḥ) in the earth, the radiance (tejas) in fire, the life (jīvana) in all beings, and the austerity (tapas) in ascetics.
+
+> puṇyo gandhaḥ pṛthivyāṃ ca tejaścāsmi vibhāvasau|
+jīvanaṃ sarvabhūteṣu tapaścāsmi tapasviṣu
+
+_level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate_
+
+terms: [gandha](../terms/gandha.md), [tejas](../terms/tejas.md), [tapas](../terms/tapas.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 7.10 <a id="tea-bhagavad-gita-7-10"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: know me, Pārtha, as the eternal seed (bījaṃ sanātanam) of all beings; I am the intelligence (buddhi) of the intelligent, the brilliance (tejas) of the brilliant.
+
+> bījaṃ māṃ sarvabhūtānāṃ viddhi pārtha sanātanam|
+buddhirbuddhimatāmasmi tejastejasvināmaham
+
+_level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate_
+
+terms: [buddhi](../terms/buddhi.md), [tejas](../terms/tejas.md), [bīja](../terms/bija.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 7.11 <a id="tea-bhagavad-gita-7-11"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: of the strong I am the strength that is free of desire and passion (kāma-rāga-vivarjita); in beings I am the desire (kāma) that is not opposed to dharma, bull of the Bharatas.
+
+> balaṃ balavatāṃ cāhaṃ kāmarāgavivarjitam|
+dharmāviruddho bhūteṣu kāmo'smi bharatarṣabha
+
+_level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, ethics_
+
+terms: [bala](../terms/bala.md), [kāma](../terms/kama.md), [rāga](../terms/raga.md), [dharma](../terms/dharma.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 7.12 <a id="tea-bhagavad-gita-7-12"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: and whatever states/beings (bhāvāḥ) are of sattva, of rajas and of tamas — know that they come from me alone; yet I am not in them: they are in me.
+
+> ye caiva sāttvikā bhāvā rājasāstāmasāśca ye|
+matta eveti tānviddhi natvahaṃ teṣu te mayi
+
+_level: bridging · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, world-fate, consciousness-mind_
+
+terms: [bhāva](../terms/bhava.md), [guṇa](../terms/guna.md), [sattva](../terms/sattva.md), [rajas](../terms/rajas.md), [tamas](../terms/tamas.md) · concepts: [The three guṇas](../concepts/three-gunas.md), [The Lord's lordly yoga (yogam aiśvaram): beings in him, he not in them](../concepts/aisvara-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 7.12-13 <a id="tea-bhagavad-gita-7-12-13"></a>
 `sourced` · confidence high
 
@@ -4219,25 +4365,55 @@ _level: ultimate · standpoint: divine · path: knowledge · stage: all · types
 
 terms: [guṇa](../terms/guna.md) · concepts: [The three guṇas](../concepts/three-gunas.md)
 
+_Superseded by [7.12](bhagavad-gita.md#tea-bhagavad-gita-7-12)_
+
+### 7.13 <a id="tea-bhagavad-gita-7-13"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: deluded (mohita) by these three kinds of states made of the guṇas, this whole world does not recognize me, who am beyond them (ebhyaḥ param) and imperishable (avyaya).
+
+> tribhirguṇamayairbhāvairebhiḥ sarvamidaṃ jagat|
+mohitaṃ nābhijānāti māmebhyaḥ paramavyayam
+
+_level: conventional · standpoint: causal · path: general · stage: all · types: consciousness-mind, karma-liberation_
+
+terms: [guṇa](../terms/guna.md), [moha](../terms/moha.md) · concepts: [The three guṇas](../concepts/three-gunas.md) · obstacles: [Delusion (moha)](../obstacles/moha.md), [Bondage by the three guṇas](../obstacles/guna-bondage.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 7.14 <a id="tea-bhagavad-gita-7-14"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-This divine māyā of mine, made of the guṇas, is hard to cross; those who take refuge in me alone cross over this māyā.
+Kṛṣṇa: for this divine (daivī) māyā of mine, made of the guṇas (guṇamayī), is hard to get beyond (duratyayā); those who take refuge in me alone (mām eva prapadyante) cross over this māyā.
 
-> daivī hy eṣā guṇamayī mama māyā duratyayā mām eva ye prapadyante māyām etāṃ taranti te
+> daivī hyeṣā guṇamayī mama māyā duratyayā|
+māmeva ye prapadyante māyāmetāṃ taranti te
 
-_level: bridging · standpoint: divine · path: devotion · stage: all · types: karma-liberation_
+_level: conventional · standpoint: devotional · path: devotion · stage: all · types: karma-liberation, ultimate, practice_
 
-terms: [māyā](../terms/maya.md), [prapatti](../terms/prapatti.md), [guṇa](../terms/guna.md) · concepts: [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md)
+terms: [māyā](../terms/maya.md), [guṇa](../terms/guna.md), [prapatti](../terms/prapatti.md) · concepts: [Māyā in the principal Upaniṣads](../concepts/maya.md), [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md), [The three guṇas](../concepts/three-gunas.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md) · practices: [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 7.15 <a id="tea-bhagavad-gita-7-15"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Evil-doers, the deluded, the lowest of men, whose knowledge is carried away by māyā and who resort to the demonic nature, do not take refuge in me.
+Kṛṣṇa: evil-doers (duṣkṛtinaḥ), the deluded (mūḍhāḥ), the lowest of men, whose knowledge is carried off by māyā and who resort to the demonic state (āsuraṃ bhāvam), do not take refuge in me.
 
-_level: conventional · standpoint: divine · path: devotion · stage: all · types: karma-liberation_
+> na māṃ duṣkṛtino mūḍhāḥ prapadyante narādhamāḥ|
+māyayāpahṛtajñānā āsuraṃ bhāvamāśritāḥ
 
-terms: [āsurī sampad](../terms/asuri-sampad.md)
+_level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics, karma-liberation_
+
+terms: [māyā](../terms/maya.md), [asura](../terms/asura.md), [prapatti](../terms/prapatti.md), [mūḍha](../terms/mudha.md), [āsurī sampad](../terms/asuri-sampad.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md), [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 7.16 <a id="tea-bhagavad-gita-7-16"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: four kinds of people of good deeds (sukṛtinaḥ) worship me (bhajante), Arjuna: the distressed (ārta), the one who wishes to know (jijñāsu), the seeker of gain (artha-arthin), and the knower (jñānin), bull of the Bharatas.
+
+> caturvidhā bhajante māṃ janāḥ sukṛtino'rjuna|
+ārto jijñāsurarthārthī jñānī ca bharatarṣabha
+
+_level: conventional · standpoint: devotional · path: devotion · stage: all (ārta, jijñāsu, arthārthin, jñānin (the four kinds of devotees)) · types: practice_
+
+terms: [bhakti](../terms/bhakti.md), [jijñāsā](../terms/jijnasa.md), [jñānin](../terms/jnanin.md) · concepts: [The four kinds of devotees](../concepts/four-kinds-of-devotees.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 7.16-18 <a id="tea-bhagavad-gita-7-16-18"></a>
 `sourced` · confidence high
@@ -4248,16 +4424,55 @@ _level: bridging · standpoint: devotional · path: devotion, knowledge · stage
 
 terms: [jñānin](../terms/jnanin.md), [bhakta](../terms/bhakta.md) · concepts: [The four kinds of devotees](../concepts/four-kinds-of-devotees.md), [Devotion (bhakti)](../concepts/bhakti.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
 
+_Superseded by [7.16](bhagavad-gita.md#tea-bhagavad-gita-7-16)_
+
+### 7.17 <a id="tea-bhagavad-gita-7-17"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: of these the knower (jñānin), ever yoked (nitya-yukta) and of single devotion (eka-bhakti), is distinguished; for I am exceedingly dear to the knower, and he is dear to me.
+
+> teṣāṃ jñānī nityayukta ekabhakitarviśiṣyate|
+priyo hi jñānino'tyarthamahaṃ sa ca mama priyaḥ
+
+_level: conventional · standpoint: devotional · path: knowledge, devotion · stage: realized (jñānin) · types: practice_
+
+terms: [jñānin](../terms/jnanin.md), [bhakti](../terms/bhakti.md), [ananya-bhakti](../terms/ananya-bhakti.md) · concepts: [The four kinds of devotees](../concepts/four-kinds-of-devotees.md) · practices: [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md)
+
+### 7.18 <a id="tea-bhagavad-gita-7-18"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: all these are noble (udāra), but the knower I hold to be my very self (ātmā eva me matam); for he, yoked in himself (yuktātmā), is established in me alone as the unsurpassed goal.
+
+> udārāḥ sarva evaite jñānī tvātmaiva me matam|
+āsthitaḥ sa hi yuktātmā māmevānuttamāṃ gatim
+
+_level: unmarked · standpoint: devotional · path: knowledge, devotion · stage: realized (jñānin) · types: ultimate, karma-liberation_
+
+terms: [jñānin](../terms/jnanin.md), [ātman](../terms/atman.md) · concepts: [The four kinds of devotees](../concepts/four-kinds-of-devotees.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md)
+
 ### 7.19 <a id="tea-bhagavad-gita-7-19"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-At the end of many births the one who has knowledge takes refuge in me, realizing 'Vāsudeva is all'; such a great soul is very hard to find.
+Kṛṣṇa: at the end of many births the one who has knowledge (jñānavān) takes refuge in me, (knowing) 'Vāsudeva is all' (vāsudevaḥ sarvam iti); such a great soul (mahātman) is very hard to find.
 
-> bahūnāṃ janmanām ante jñānavān māṃ prapadyate vāsudevaḥ sarvam iti sa mahātmā sudurlabhaḥ
+> bahūnāṃ janmanāmante jñānavānmāṃ prapadyate|
+vāsudevaḥ sarvamiti sa mahātmā sudurlabhaḥ
 
-_level: ultimate · standpoint: devotional · path: knowledge, devotion · stage: realized · types: ultimate, karma-liberation_
+_level: unmarked · standpoint: devotional · path: knowledge, devotion · stage: realized (jñānavān; mahātman) · types: ultimate, karma-liberation_
 
-terms: [Vāsudeva](../terms/vasudeva.md), [mahātman](../terms/mahatman.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md)
+terms: [Vāsudeva](../terms/vasudeva.md), [mahātman](../terms/mahatman.md), [prapatti](../terms/prapatti.md), [jñānin](../terms/jnanin.md) · concepts: [Rebirth](../concepts/rebirth.md), [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md), [The four kinds of devotees](../concepts/four-kinds-of-devotees.md), [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 7.20 <a id="tea-bhagavad-gita-7-20"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: those whose knowledge has been carried off by this or that desire (kāma) resort to other deities (anya-devatāḥ), adopting this or that rule of observance (niyama), constrained by their own nature (prakṛti).
+
+> kāmaistaistairhṛtajñānāḥ prapadyante'nyadevatāḥ|
+taṃ taṃ niyamamāsthāya prakṛtyā niyatāḥ svayā
+
+_level: conventional · standpoint: causal · path: ritual, devotion · stage: unmarked · types: practice, karma-liberation_
+
+terms: [kāma](../terms/kama.md), [devatā](../terms/devata.md), [niyama](../terms/niyama.md), [prakṛti](../terms/prakrti.md) · obstacles: [Desire (kāma)](../obstacles/kama.md), [Worship of other gods](../obstacles/anya-deva-worship.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Whom does the worship of other deities (anya-devatā) really reach, and what does it yield?](../debates/bhagavad-gita-other-deities.md)
 
 ### 7.20-23 <a id="tea-bhagavad-gita-7-20-23"></a>
 `sourced` · confidence high
@@ -4268,6 +4483,56 @@ _level: conventional · standpoint: divine · path: devotion, ritual · stage: b
 
 terms: [śraddhā](../terms/sraddha.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md)
 
+_Superseded by [7.20](bhagavad-gita.md#tea-bhagavad-gita-7-20)_
+
+### 7.21 <a id="tea-bhagavad-gita-7-21"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: whatever form (tanu) any devotee (bhakta) wishes to worship with faith (śraddhā) — for each of them I make that very faith unwavering.
+
+> yo yo yāṃ yāṃ tanuṃ bhaktaḥ śraddhayārcitumicchati|
+tasya tasyācalāṃ śraddhāṃ tāmeva vidadhāmyaham
+
+_level: conventional · standpoint: divine · path: devotion, ritual · stage: all · types: practice_
+
+terms: [śraddhā](../terms/sraddha.md), [tanu](../terms/tanu.md), [bhakta](../terms/bhakta.md) · concepts: [Śraddhā, faith](../concepts/sraddha-faith.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Whom does the worship of other deities (anya-devatā) really reach, and what does it yield?](../debates/bhagavad-gita-other-deities.md)
+
+### 7.22 <a id="tea-bhagavad-gita-7-22"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: endowed with that faith he seeks to propitiate (ārādhana) that (form), and from it he obtains his desires — which are in fact ordained by me alone.
+
+> sa tayā śraddhayā yuktastasyārādhanamīhate|
+labhate ca tataḥ kāmānmayaiva vihitān hi tān
+
+_level: conventional · standpoint: divine · path: devotion, ritual · stage: all · types: practice, karma-liberation_
+
+terms: [śraddhā](../terms/sraddha.md), [kāma](../terms/kama.md) · concepts: [Śraddhā, faith](../concepts/sraddha-faith.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Whom does the worship of other deities (anya-devatā) really reach, and what does it yield?](../debates/bhagavad-gita-other-deities.md)
+
+### 7.23 <a id="tea-bhagavad-gita-7-23"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: but finite (antavat) is the fruit of those of little understanding (alpa-medhas); worshippers of the gods go to the gods, my devotees come to me.
+
+> antavattu phalaṃ teṣāṃ tadbhavatyalpamedhasām|
+devāndevayajo yānti madbhaktā yānti māmapi
+
+_level: conventional · standpoint: causal · path: devotion, ritual · stage: all · types: karma-liberation_
+
+terms: [phala](../terms/phala.md), [deva](../terms/deva.md), [bhakta](../terms/bhakta.md) · obstacles: [Worship of other gods](../obstacles/anya-deva-worship.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Whom does the worship of other deities (anya-devatā) really reach, and what does it yield?](../debates/bhagavad-gita-other-deities.md)
+
+### 7.24 <a id="tea-bhagavad-gita-7-24"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: the unintelligent (abuddhayaḥ) think of me as unmanifest (avyakta) come into manifestation (vyakti), not knowing my higher state (paraṃ bhāvam), imperishable and unsurpassed.
+
+> avyaktaṃ vyakitamāpannaṃ manyante māmabuddhayaḥ|
+paraṃ bhāvamajānanto mamāvyayamanuttamam
+
+_level: bridging · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate, dispute_
+
+terms: [avyakta](../terms/avyakta.md), [vyakti](../terms/vyakti.md) · concepts: [The manifest and the unmanifest](../concepts/vyakta-and-avyakta.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the Lord who has come into manifestation in a human body only a manifest, human being?](../debates/bhagavad-gita-the-lords-embodiment.md)
+
 ### 7.24-26 <a id="tea-bhagavad-gita-7-24-26"></a>
 `sourced` · confidence high
 
@@ -4276,6 +4541,44 @@ The unintelligent think of me, the unmanifest, as having come into manifestation
 _level: ultimate · standpoint: divine · path: knowledge · stage: all · types: ultimate_
 
 terms: [yogamāyā](../terms/yogamaya.md), [avyakta](../terms/avyakta.md) · concepts: [The Lord's descent (avatāra / prādurbhāva)](../concepts/avatara.md)
+
+_Superseded by [7.24](bhagavad-gita.md#tea-bhagavad-gita-7-24)_
+
+### 7.25 <a id="tea-bhagavad-gita-7-25"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: I am not manifest (prakāśa) to all, being veiled by my yoga-māyā; this deluded world does not recognize me, the unborn (aja), the imperishable.
+
+> nāhaṃ prakāśaḥ sarvasya yogamāyāsamāvṛtaḥ|
+mūḍho'yaṃ nābhijānāti loko māmajamavyayam
+
+_level: bridging · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, consciousness-mind_
+
+terms: [yogamāyā](../terms/yogamaya.md), [aja](../terms/aja.md), [moha](../terms/moha.md), [māyā](../terms/maya.md), [mūḍha](../terms/mudha.md) · concepts: [Māyā in the principal Upaniṣads](../concepts/maya.md) · obstacles: [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 7.26 <a id="tea-bhagavad-gita-7-26"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: I know the beings that have passed, Arjuna, those that are present and those that are to come; but no one knows me.
+
+> vedāhaṃ samatītāni vartamānāni cārjuna|
+bhaviṣyāṇi ca bhūtāni māṃ tu veda na kaścana
+
+_level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate_
+
+concepts: [Omniscience (sarvajñatva)](../concepts/omniscience.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 7.27 <a id="tea-bhagavad-gita-7-27"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: through the delusion of the pairs (dvandva-moha) that arises from desire and aversion (icchā-dveṣa), Bhārata, all beings fall into bewilderment (saṃmoha) at their coming into being (sarge), scorcher of foes.
+
+> icchādveṣasamutthena dvandvamohena bhārata|
+sarvabhūtāni saṃmohaṃ sarge yānti parantapa
+
+_level: conventional · standpoint: causal · path: general · stage: all · types: consciousness-mind, karma-liberation_
+
+terms: [dvandva](../terms/dvandva.md), [icchā](../terms/iccha.md), [dveṣa](../terms/dvesa.md), [moha](../terms/moha.md), [sarga](../terms/sarga.md) · obstacles: [The pairs of opposites (dvandva)](../obstacles/dvandva.md), [Aversion (dveṣa)](../obstacles/dvesa.md), [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 7.27-28 <a id="tea-bhagavad-gita-7-27-28"></a>
 `sourced` · confidence high
@@ -4286,6 +4589,32 @@ _level: conventional · standpoint: causal · path: devotion · stage: all · ty
 
 terms: [dvandva](../terms/dvandva.md), [moha](../terms/moha.md) · obstacles: [Delusion (moha)](../obstacles/moha.md)
 
+_Superseded by [7.27](bhagavad-gita.md#tea-bhagavad-gita-7-27)_
+
+### 7.28 <a id="tea-bhagavad-gita-7-28"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: but those people of meritorious deeds (puṇya-karman) whose sin (pāpa) has come to an end, freed from the delusion of the pairs, worship me firm in their vows (dṛḍha-vrata).
+
+> yeṣāṃ tvantagataṃ pāpaṃ janānāṃ puṇyakarmaṇām|
+te dvandvamohanirmuktā bhajante māṃ dṛḍhavratāḥ
+
+_level: conventional · standpoint: causal · path: devotion, action · stage: intermediate · types: karma-liberation, practice, ethics_
+
+terms: [dvandva](../terms/dvandva.md), [vrata](../terms/vrata.md), [bhakti](../terms/bhakti.md), [pāpa](../terms/papa.md) · obstacles: [The pairs of opposites (dvandva)](../obstacles/dvandva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 7.29 <a id="tea-bhagavad-gita-7-29"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: those who, taking refuge in me (mām āśritya), strive for release from old age and death (jarā-maraṇa-mokṣa) know that Brahman, the adhyātma (what pertains to the self) and action (karma) — completely (kṛtsnam … akhilam).
+
+> jarāmaraṇamokṣāya māmāśritya yatanti ye|
+te brahma tadviduḥ kṛtsnamadhyātmaṃ karma cākhilam
+
+_level: unmarked · standpoint: seeker · path: devotion, knowledge · stage: advanced · types: karma-liberation, ultimate_
+
+terms: [brahman](../terms/brahman.md), [adhyātma](../terms/adhyatma.md), [karma](../terms/karma.md), [mokṣa](../terms/moksa.md) · concepts: [The three planes: divine, bodily, sacrificial](../concepts/adhidaiva-adhyatma-adhiyajna.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md) · practices: [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 7.29-30 <a id="tea-bhagavad-gita-7-29-30"></a>
 `sourced` · confidence high
 
@@ -4295,12 +4624,65 @@ _level: bridging · standpoint: divine · path: knowledge, devotion · stage: ad
 
 terms: [adhyātma](../terms/adhyatma.md), [adhibhūta](../terms/adhibhuta.md), [adhidaiva](../terms/adhidaiva.md), [adhiyajña](../terms/adhiyajna.md)
 
+_Superseded by [7.29](bhagavad-gita.md#tea-bhagavad-gita-7-29)_
+
+### 7.30 <a id="tea-bhagavad-gita-7-30"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: those who know me together with what pertains to beings (adhibhūta) and to the gods (adhidaiva), and together with what pertains to sacrifice (adhiyajña) — they, with thought yoked (yukta-cetasaḥ), know me even at the time of departure (prayāṇa-kāla).
+
+> sādhibhūtādhidaivaṃ māṃ sādhiyajñaṃ ca ye viduḥ|
+prayāṇakāle'pi ca māṃ te viduryuktacetasaḥ
+
+_level: unmarked · standpoint: seeker · path: knowledge, meditation · stage: advanced · types: ultimate, death-dying_
+
+terms: [adhibhūta](../terms/adhibhuta.md), [adhidaiva](../terms/adhidaiva.md), [adhiyajña](../terms/adhiyajna.md), [antakāla](../terms/antakala.md) · concepts: [The three planes: divine, bodily, sacrificial](../concepts/adhidaiva-adhyatma-adhiyajna.md), [The last thought at death](../concepts/last-thought-at-death.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 8.1 <a id="tea-bhagavad-gita-8-1"></a>
+`text-verified` · confidence high
+
+Arjuna: what is that Brahman? What is the adhyātma (what pertains to the self)? What is action (karma), Supreme Person (Puruṣottama)? And what is declared to be the adhibhūta (what pertains to beings), and what is called the adhidaiva (what pertains to the gods)?
+
+> kiṃ tadbrahma kimadhyātmaṃ kiṃ karma puruṣottama|
+adhibhūtaṃ ca kiṃ proktamadhidaivaṃ kimucyate
+
+_level: unmarked · standpoint: seeker · path: knowledge · stage: unmarked · types: ultimate_
+
+terms: [brahman](../terms/brahman.md), [adhyātma](../terms/adhyatma.md), [karma](../terms/karma.md), [adhibhūta](../terms/adhibhuta.md), [adhidaiva](../terms/adhidaiva.md), [Puruṣottama](../terms/purusottama.md) · concepts: [The three planes: divine, bodily, sacrificial](../concepts/adhidaiva-adhyatma-adhiyajna.md) · teachers: [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md)
+
 ### 8.1-2 <a id="tea-bhagavad-gita-8-1-2"></a>
 `sourced` · confidence high
 
 Arjuna asks what Brahman is, what adhyātma, what action, what adhibhūta and adhidaiva, who the adhiyajña in this body is and how, and how Kṛṣṇa is to be known by the self-controlled at the time of departure.
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: all · types: ultimate, death-dying_
+
+_Superseded by [8.1](bhagavad-gita.md#tea-bhagavad-gita-8-1)_
+
+### 8.2 <a id="tea-bhagavad-gita-8-2"></a>
+`text-verified` · confidence high
+
+Arjuna: who, and in what way, is the adhiyajña (what pertains to sacrifice) here in this body, Madhusūdana? And how are you to be known at the time of departure (prayāṇa-kāla) by those whose selves are controlled (niyatātman)?
+
+> adhiyajñaḥ kathaṃ ko'tra dehe'sminmadhusūdana|
+prayāṇakāle ca kathaṃ jñeyo'si niyatātmabhiḥ
+
+_level: unmarked · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: ultimate, death-dying_
+
+terms: [adhiyajña](../terms/adhiyajna.md), [antakāla](../terms/antakala.md) · concepts: [The three planes: divine, bodily, sacrificial](../concepts/adhidaiva-adhyatma-adhiyajna.md), [The last thought at death](../concepts/last-thought-at-death.md) · teachers: [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md)
+
+### 8.3 <a id="tea-bhagavad-gita-8-3"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: Brahman is the supreme imperishable (akṣaraṃ paramam); own being (svabhāva) is called the adhyātma; the sending-forth (visarga) that brings about the arising of beings' states of existence (bhūta-bhāva) is termed action (karma).
+
+> śrī bhagavānuvāca
+akṣaraṃ brahma paramaṃ svabhāvo'dhyātmamucyate|
+bhūtabhāvodbhavakaro visargaḥ karmasaṃjñitaḥ
+
+_level: bridging · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate, karma-liberation_
+
+terms: [brahman](../terms/brahman.md), [akṣara](../terms/aksara.md), [svabhāva](../terms/svabhava.md), [adhyātma](../terms/adhyatma.md), [visarga](../terms/visarga.md), [karma](../terms/karma.md) · concepts: [The imperishable (akṣara)](../concepts/aksara.md), [The three planes: divine, bodily, sacrificial](../concepts/adhidaiva-adhyatma-adhiyajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 8.3-4 <a id="tea-bhagavad-gita-8-3-4"></a>
 `sourced` · confidence high
@@ -4311,36 +4693,67 @@ _level: ultimate · standpoint: analytic · path: knowledge · stage: all · typ
 
 terms: [akṣara](../terms/aksara.md), [brahman](../terms/brahman.md), [adhyātma](../terms/adhyatma.md), [adhibhūta](../terms/adhibhuta.md), [adhidaiva](../terms/adhidaiva.md), [adhiyajña](../terms/adhiyajna.md)
 
+_Superseded by [8.3](bhagavad-gita.md#tea-bhagavad-gita-8-3)_
+
+### 8.4 <a id="tea-bhagavad-gita-8-4"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: the adhibhūta is the perishable state (kṣaro bhāvaḥ); the adhidaivata is puruṣa ('person'); and the adhiyajña is I myself, here in the body, best of the embodied.
+
+> adhibhūtaṃ kṣaro bhāvaḥ puruṣaścādhidaivatam|
+adhiyajño'hamevātra dehe dehabhṛtāṃ vara
+
+_level: bridging · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate_
+
+terms: [adhibhūta](../terms/adhibhuta.md), [kṣara](../terms/ksara.md), [adhidaivata](../terms/adhidaivata.md), [puruṣa](../terms/purusa.md), [adhiyajña](../terms/adhiyajna.md) · concepts: [The three planes: divine, bodily, sacrificial](../concepts/adhidaiva-adhyatma-adhiyajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 8.5 <a id="tea-bhagavad-gita-8-5"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Whoever at the time of death leaves the body remembering me alone goes to my state; of this there is no doubt.
+Kṛṣṇa: and whoever, at the time of the end (antakāla), departs leaving the body remembering me alone, comes to my state (mad-bhāva); there is no doubt of this.
 
-> antakāle ca mām eva smaran muktvā kalevaram yaḥ prayāti sa madbhāvaṃ yāti nāsty atra saṃśayaḥ
+> antakāle ca māmeva smaranmuktvā kalevaram|
+yaḥ prayāti sa madbhāvaṃ yāti nāstyatra saṃśayaḥ
 
-_level: bridging · standpoint: devotional · path: devotion · stage: all · types: death-dying, karma-liberation_
+_level: conventional · standpoint: seeker · path: devotion, meditation · stage: all · types: death-dying, karma-liberation, practice_
 
-terms: [antakāla](../terms/antakala.md) · concepts: [The last thought at death](../concepts/last-thought-at-death.md) · practices: [Remembering the Lord at the hour of death](../practices/antakala-smarana.md)
+terms: [antakāla](../terms/antakala.md), [smaraṇa](../terms/smarana.md), [bhāva](../terms/bhava.md) · concepts: [The last thought at death](../concepts/last-thought-at-death.md) · practices: [Remembering the Lord at the hour of death](../practices/antakala-smarana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 8.6 <a id="tea-bhagavad-gita-8-6"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Whatever state of being one remembers when at the end one leaves the body, to that very state one goes, having always been absorbed in that state.
+Kṛṣṇa: whatever state/being (bhāva) one remembers when at the end one gives up the body, to that very one he goes, Kaunteya, having always been shaped by that state (sadā tad-bhāva-bhāvitaḥ).
 
-> yaṃ yaṃ vāpi smaran bhāvaṃ tyajaty ante kalevaram taṃ tam evaiti kaunteya sadā tadbhāvabhāvitaḥ
+> yaṃ yaṃ vāpi smaranbhāvaṃ tyajatyante kalevaram|
+taṃ tamevaiti kaunteya sadā tadbhāvabhāvitaḥ
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: death-dying, karma-liberation_
 
-concepts: [The last thought at death](../concepts/last-thought-at-death.md) · practices: [Remembering the Lord at the hour of death](../practices/antakala-smarana.md)
+terms: [bhāva](../terms/bhava.md), [bhāvanā](../terms/bhavana.md), [smaraṇa](../terms/smarana.md), [antakāla](../terms/antakala.md) · concepts: [The last thought at death](../concepts/last-thought-at-death.md), [Rebirth](../concepts/rebirth.md) · practices: [Remembering the Lord at the hour of death](../practices/antakala-smarana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 8.7 <a id="tea-bhagavad-gita-8-7"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Therefore at all times remember me and fight; with mind and understanding fixed on me you will come to me without doubt.
+Kṛṣṇa: therefore at all times remember me (anusmara) and fight; with mind and intellect offered to me (mayy arpita-mano-buddhiḥ), you will come to me alone, without doubt.
 
-_level: conventional · standpoint: devotional · path: devotion, action · stage: all · types: practice_
+> tasmātsarveṣu kāleṣu māmanusmara yudhya ca|
+mayyarpitamanobuddhirmāmevaiṣyasyasaṃśayam
 
-concepts: [The last thought at death](../concepts/last-thought-at-death.md) · practices: [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md)
+_level: conventional · standpoint: seeker · path: devotion, action · stage: all · types: practice, death-dying, ethics, karma-liberation_
+
+terms: [smaraṇa](../terms/smarana.md), [manas](../terms/manas.md), [buddhi](../terms/buddhi.md), [arpaṇa](../terms/arpana.md) · concepts: [The last thought at death](../concepts/last-thought-at-death.md) · practices: [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md), [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](../practices/isvararpana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 8.8 <a id="tea-bhagavad-gita-8-8"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: with thought (cetas) yoked by the yoga of repeated practice (abhyāsa-yoga) and not going to anything else, continually contemplating (anucintayan), Pārtha, one goes to the supreme divine Person (paramaṃ puruṣaṃ divyam).
+
+> abhyāsayogayuktena cetasā nānyagāminā|
+paramaṃ puruṣaṃ divyaṃ yāti pārthānucintayan
+
+_level: conventional · standpoint: seeker · path: meditation, devotion · stage: unmarked · types: practice, death-dying, karma-liberation_
+
+terms: [abhyāsa-yoga](../terms/abhyasa-yoga.md), [puruṣa](../terms/purusa.md) · practices: [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md), [Practice (abhyāsa)](../practices/abhyasa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 8.8-10 <a id="tea-bhagavad-gita-8-8-10"></a>
 `sourced` · confidence high
@@ -4351,43 +4764,129 @@ _level: bridging · standpoint: seeker · path: meditation, devotion, body-breat
 
 terms: [prāṇa](../terms/prana.md), [abhyāsa-yoga](../terms/abhyasa-yoga.md) · concepts: [Dying by yoga](../concepts/yogic-death.md) · practices: [Remembering the Lord at the hour of death](../practices/antakala-smarana.md), [Gazing / meditating between the brows (bhrūmadhya-dṛṣṭi)](../practices/bhrumadhya-drsti.md), [Practice and dispassion (abhyāsa and vairāgya)](../practices/abhyasa-vairagya.md)
 
+_Superseded by [8.8](bhagavad-gita.md#tea-bhagavad-gita-8-8)_
+
+### 8.9 <a id="tea-bhagavad-gita-8-9"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: whoever remembers (anusmaret) the seer (kavi), the ancient (purāṇa), the ruler (anuśāsitṛ), subtler than the subtle (aṇor aṇīyān), the sustainer of all (sarvasya dhātṛ), of inconceivable form (acintya-rūpa), sun-coloured (āditya-varṇa), beyond darkness (tamasaḥ parastāt) —
+
+> kaviṃ purāṇamanuśāsitāra
+maṇoraṇīyāṃsamanusmaredyaḥ|
+sarvasya dhātāramacintyarūpa
+mādityavarṇaṃ tamasaḥ parastāt
+
+_level: unmarked · standpoint: seeker · path: meditation · stage: advanced · types: ultimate, practice_
+
+terms: [kavi](../terms/kavi.md), [acintya](../terms/acintya.md), [smaraṇa](../terms/smarana.md) · practices: [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md), [Remembering the Lord at the hour of death](../practices/antakala-smarana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 8.9-10 <a id="tea-bhagavad-gita-8-9-10"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: whoever, at the time of departure (prayāṇa-kāla), with unmoving mind, yoked with devotion (bhakti) and by the power of yoga (yoga-bala), having made the breath (prāṇa) enter rightly between the brows, remembers (anusmaret) the seer (kavi), the ancient, the ruler, subtler than the subtle, the sustainer of all, of inconceivable form, sun-coloured, beyond darkness — he reaches that supreme divine Person (paraṃ puruṣaṃ divyam).
+
+> kaviṃ purāṇamanuśāsitāra
+maṇoraṇīyāṃsamanusmaredyaḥ|
+sarvasya dhātāramacintyarūpa
+mādityavarṇaṃ tamasaḥ parastāt
+prayāṇakāle manasā'calena
+bhaktyā yukto yogabalena caiva|
+bhruvormadhye prāṇamāveśya samyak
+sa taṃ paraṃ puruṣamupaiti divyam
+
+_level: conventional · standpoint: seeker · path: meditation, body-breath, devotion · stage: advanced · types: death-dying, practice, ultimate_
+
+terms: [kavi](../terms/kavi.md), [acintya](../terms/acintya.md), [smaraṇa](../terms/smarana.md), [prāṇa](../terms/prana.md), [yogabala](../terms/yogabala.md), [bhakti](../terms/bhakti.md), [puruṣa](../terms/purusa.md) · concepts: [Yogic departure at death](../concepts/yogic-exit-at-death.md), [The last thought at death](../concepts/last-thought-at-death.md) · practices: [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md), [Remembering the Lord at the hour of death](../practices/antakala-smarana.md), [Gazing / meditating between the brows (bhrūmadhya-dṛṣṭi)](../practices/bhrumadhya-drsti.md), [Yogic departure at death](../practices/utkranti-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 8.10 <a id="tea-bhagavad-gita-8-10"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [continuing 8.9] at the time of departure (prayāṇa-kāla), with unmoving mind, yoked with devotion (bhakti) and by the power of yoga (yoga-bala), having made the breath (prāṇa) enter rightly (samyak) between the brows (bhruvor madhye), he reaches that supreme divine Person.
+
+> prayāṇakāle manasā'calena
+bhaktyā yukto yogabalena caiva|
+bhruvormadhye prāṇamāveśya samyak
+sa taṃ paraṃ puruṣamupaiti divyam
+
+_level: conventional · standpoint: seeker · path: meditation, devotion, body-breath · stage: advanced · types: death-dying, practice_
+
+terms: [prāṇa](../terms/prana.md), [yogabala](../terms/yogabala.md), [bhakti](../terms/bhakti.md), [puruṣa](../terms/purusa.md) · concepts: [Yogic departure at death](../concepts/yogic-exit-at-death.md), [The last thought at death](../concepts/last-thought-at-death.md) · practices: [Remembering the Lord at the hour of death](../practices/antakala-smarana.md), [Gazing / meditating between the brows (bhrūmadhya-dṛṣṭi)](../practices/bhrumadhya-drsti.md), [Yogic departure at death](../practices/utkranti-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 8.11 <a id="tea-bhagavad-gita-8-11"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-That which the knowers of the Veda call the Imperishable, which ascetics free from passion enter, desiring which they practise celibacy — that state I will declare to you briefly.
+Kṛṣṇa: that which the knowers of the Veda call the imperishable (akṣara), which ascetics (yati) free from passion (vīta-rāga) enter, desiring which people practise brahmacarya — that state (pada, also 'word') I will declare to you in brief (saṃgraheṇa).
 
-_level: ultimate · standpoint: seeker · path: knowledge · stage: advanced · types: ultimate_
+> yadakṣaraṃ vedavido vadanti
+viśanti yadyatayo vītarāgāḥ|
+yadicchanto brahmacaryaṃ caranti
+tatte padaṃ saṃgraheṇa pravakṣye
 
-terms: [akṣara](../terms/aksara.md), [brahmacarya](../terms/brahmacarya.md)
+_level: unmarked · standpoint: seeker · path: knowledge, meditation · stage: unmarked · types: ultimate, practice_
+
+terms: [akṣara](../terms/aksara.md), [yati](../terms/yati.md), [rāga](../terms/raga.md), [brahmacarya](../terms/brahmacarya.md), [pada](../terms/pada.md), [veda](../terms/veda.md) · concepts: [The imperishable (akṣara)](../concepts/aksara.md) · practices: [Vedic studentship (brahmacarya)](../practices/brahmacarya.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 8.12 <a id="tea-bhagavad-gita-8-12"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: restraining all the gates (of the body) (sarva-dvārāṇi saṃyamya), confining the mind (manas) in the heart (hṛd), placing one's own breath (prāṇa) in the head (mūrdhan), established in yogic concentration (yoga-dhāraṇā) —
+
+> sarvadvārāṇi saṃyamya mano hṛdi nirudhya ca|
+mūrdhnyādhāyātmanaḥ prāṇamāsthito yogadhāraṇām
+
+_level: conventional · standpoint: seeker · path: body-breath, meditation · stage: advanced · types: death-dying, practice, body-layers_
+
+terms: [dvāra](../terms/dvara.md), [hṛd](../terms/hrd.md), [prāṇa](../terms/prana.md), [dhāraṇā](../terms/dharana.md), [manas](../terms/manas.md) · concepts: [Yogic departure at death](../concepts/yogic-exit-at-death.md), [The heart and the space within it](../concepts/hrdaya-heart.md) · practices: [Yogic departure at death](../practices/utkranti-yoga.md), [Concentration (dhāraṇā)](../practices/dharana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 8.12-13 <a id="tea-bhagavad-gita-8-12-13"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Closing all the gates of the body, confining the mind in the heart, placing his breath in the head, established in yogic concentration, uttering Oṃ, the one-syllabled Brahman, and remembering me, one who departs, leaving the body, goes to the supreme goal.
+Kṛṣṇa: whoever departs, leaving the body, having restrained all the gates (of the body), confined the mind in the heart and placed his own breath in the head, established in yogic concentration (yoga-dhāraṇā), uttering Oṃ, the one-syllabled Brahman, and remembering me — he goes to the supreme goal (paramā gati).
 
-_level: bridging · standpoint: seeker · path: meditation, sound, body-breath · stage: advanced · types: death-dying, sound-language, practice_
+> sarvadvārāṇi saṃyamya mano hṛdi nirudhya ca|
+mūrdhnyādhāyātmanaḥ prāṇamāsthito yogadhāraṇām
+omityekākṣaraṃ brahma vyāharanmāmanusmaran|
+yaḥ prayāti tyajandehaṃ sa yāti paramāṃ gatim
 
-terms: [oṃ](../terms/om.md), [dhāraṇā](../terms/dharana.md), [prāṇa](../terms/prana.md) · concepts: [Dying by yoga](../concepts/yogic-death.md), [Oṃ](../concepts/om.md) · practices: [Remembering the Lord at the hour of death](../practices/antakala-smarana.md), [Mantra repetition (japa)](../practices/japa.md)
+_level: conventional · standpoint: seeker · path: body-breath, meditation, sound, devotion · stage: advanced · types: death-dying, practice, sound-language, body-layers_
+
+terms: [dvāra](../terms/dvara.md), [hṛd](../terms/hrd.md), [prāṇa](../terms/prana.md), [dhāraṇā](../terms/dharana.md), [manas](../terms/manas.md), [oṃ](../terms/om.md), [akṣara](../terms/aksara.md), [brahman](../terms/brahman.md), [smaraṇa](../terms/smarana.md), [praṇava](../terms/pranava.md) · concepts: [Yogic departure at death](../concepts/yogic-exit-at-death.md), [The heart and the space within it](../concepts/hrdaya-heart.md), [Oṃ](../concepts/om.md), [Dying by yoga](../concepts/yogic-death.md) · practices: [Yogic departure at death](../practices/utkranti-yoga.md), [Concentration (dhāraṇā)](../practices/dharana.md), [Meditation on Om (praṇava-upāsanā)](../practices/pranava-upasana.md), [Remembering the Lord at the hour of death](../practices/antakala-smarana.md), [Mantra repetition (japa)](../practices/japa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 8.13 <a id="tea-bhagavad-gita-8-13"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Uttering Oṃ, the one-syllabled Brahman, and remembering me, whoever departs leaving the body goes to the supreme goal.
+Kṛṣṇa: [continuing 8.12] uttering Oṃ, the one-syllabled Brahman (om ity ekākṣaraṃ brahma), and remembering me, whoever departs, leaving the body, goes to the supreme goal (paramā gati).
 
-> om ity ekākṣaraṃ brahma vyāharan mām anusmaran yaḥ prayāti tyajan dehaṃ sa yāti paramāṃ gatim
+> omityekākṣaraṃ brahma vyāharanmāmanusmaran|
+yaḥ prayāti tyajandehaṃ sa yāti paramāṃ gatim
 
-_level: bridging · standpoint: seeker · path: sound, devotion · stage: advanced · types: sound-language, death-dying_
+_level: conventional · standpoint: seeker · path: sound, meditation, devotion · stage: advanced · types: death-dying, sound-language, practice_
 
-terms: [oṃ](../terms/om.md) · concepts: [Oṃ](../concepts/om.md)
+terms: [oṃ](../terms/om.md), [akṣara](../terms/aksara.md), [brahman](../terms/brahman.md), [smaraṇa](../terms/smarana.md), [praṇava](../terms/pranava.md) · concepts: [Oṃ](../concepts/om.md), [Yogic departure at death](../concepts/yogic-exit-at-death.md) · practices: [Yogic departure at death](../practices/utkranti-yoga.md), [Meditation on Om (praṇava-upāsanā)](../practices/pranava-upasana.md), [Remembering the Lord at the hour of death](../practices/antakala-smarana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 8.14 <a id="tea-bhagavad-gita-8-14"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-For the yogin who is ever yoked and remembers me constantly with undivided mind, I am easily attained.
+Kṛṣṇa: whoever, with thought on nothing else (ananya-cetāḥ), remembers me constantly, day after day — for that ever-yoked (nitya-yukta) yogin I am easy to reach (sulabha), Pārtha.
 
-_level: conventional · standpoint: devotional · path: devotion, meditation · stage: all · types: practice_
+> ananyacetāḥ satataṃ yo māṃ smarati nityaśaḥ|
+tasyāhaṃ sulabhaḥ pārtha nityayuktasya yoginaḥ
 
-terms: [ananya-bhakti](../terms/ananya-bhakti.md) · practices: [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md)
+_level: conventional · standpoint: devotional · path: devotion, meditation · stage: unmarked · types: practice_
+
+terms: [smaraṇa](../terms/smarana.md), [ananya-bhakti](../terms/ananya-bhakti.md), [yoga](../terms/yoga.md) · practices: [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md), [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 8.15 <a id="tea-bhagavad-gita-8-15"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: having come to me, the great souls (mahātman), who have reached the highest perfection (saṃsiddhi), do not come to rebirth (punar-janma), the impermanent abode of sorrow (duḥkha-ālaya).
+
+> māmupetya punarjanma duḥkhālayamaśāśvatam|
+nāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ
+
+_level: unmarked · standpoint: causal · path: general · stage: realized (mahātman) · types: karma-liberation_
+
+terms: [mahātman](../terms/mahatman.md), [duḥkha](../terms/duhkha.md), [apunarāvṛtti](../terms/apunaravrtti.md) · concepts: [Rebirth](../concepts/rebirth.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 8.15-16 <a id="tea-bhagavad-gita-8-15-16"></a>
 `sourced` · confidence high
@@ -4398,6 +4897,32 @@ _level: bridging · standpoint: divine · path: devotion · stage: all · types:
 
 terms: [apunarāvṛtti](../terms/apunaravrtti.md), [saṃsāra](../terms/samsara.md) · concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md)
 
+_Superseded by [8.15](bhagavad-gita.md#tea-bhagavad-gita-8-15)_
+
+### 8.16 <a id="tea-bhagavad-gita-8-16"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the worlds up to Brahmā's world (ā-brahma-bhuvanāt) are subject to return (punar-āvartin), Arjuna; but having come to me, Kaunteya, there is no rebirth.
+
+> ābrahmabhuvanāllokāḥ punarāvartino'rjuna|
+māmupetya tu kaunteya punarjanma na vidyate
+
+_level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate, karma-liberation_
+
+terms: [brahmaloka](../terms/brahmaloka.md), [loka](../terms/loka.md), [apunarāvṛtti](../terms/apunaravrtti.md) · concepts: [Rebirth](../concepts/rebirth.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Brahmā (as first teacher)](../teachers/brahma.md)
+
+### 8.17 <a id="tea-bhagavad-gita-8-17"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: those who know that the day of Brahmā extends to a thousand yugas, and that his night ends after a thousand yugas — they are people who know day and night (ahorātra-vid).
+
+> sahasrayugaparyantamaharyadbrahmaṇo viduḥ|
+rātriṃ yugasahasrāntāṃ te'horātravido janāḥ
+
+_level: conventional · standpoint: cosmic · path: knowledge · stage: unmarked · types: world-fate_
+
+terms: [yuga](../terms/yuga.md) · concepts: [The day and night of Brahmā](../concepts/day-and-night-of-brahma.md), [Kalpa, the day of Brahmā and his lifetime](../concepts/kalpa-and-brahma-lifetime.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Brahmā (as first teacher)](../teachers/brahma.md)
+
 ### 8.17-19 <a id="tea-bhagavad-gita-8-17-19"></a>
 `sourced` · confidence high
 
@@ -4406,6 +4931,44 @@ Those who know that the day of Brahmā lasts a thousand ages and his night a tho
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
 
 terms: [kalpa](../terms/kalpa.md), [yuga](../terms/yuga.md), [avyakta](../terms/avyakta.md) · concepts: [The day and night of Brahmā](../concepts/day-and-night-of-brahma.md)
+
+_Superseded by [8.17](bhagavad-gita.md#tea-bhagavad-gita-8-17)_
+
+### 8.18 <a id="tea-bhagavad-gita-8-18"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: at the coming of (Brahmā's) day all manifest things (vyaktayaḥ) come forth from the unmanifest (avyakta); at the coming of night they dissolve into that very thing called the unmanifest.
+
+> avyaktādvyaktayaḥ sarvāḥ prabhavantyaharāgame|
+rātryāgame pralīyante tatraivāvyaktasaṃjñake
+
+_level: conventional · standpoint: cosmic · path: general · stage: unmarked · types: world-fate_
+
+terms: [avyakta](../terms/avyakta.md), [vyakti](../terms/vyakti.md), [pralaya](../terms/pralaya.md) · concepts: [The day and night of Brahmā](../concepts/day-and-night-of-brahma.md), [Creation and dissolution of the world](../concepts/creation-and-dissolution.md), [The manifest and the unmanifest](../concepts/vyakta-and-avyakta.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 8.19 <a id="tea-bhagavad-gita-8-19"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: this same multitude of beings (bhūta-grāma), coming to be again and again, dissolves helplessly (avaśa) at the coming of night, Pārtha, and comes forth at the coming of day.
+
+> bhūtagrāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate|
+rātryāgame'vaśaḥ pārtha prabhavatyaharāgame
+
+_level: conventional · standpoint: cosmic · path: general · stage: unmarked · types: world-fate, karma-liberation_
+
+terms: [pralaya](../terms/pralaya.md) · concepts: [The day and night of Brahmā](../concepts/day-and-night-of-brahma.md), [Creation and dissolution of the world](../concepts/creation-and-dissolution.md), [Rebirth](../concepts/rebirth.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 8.20 <a id="tea-bhagavad-gita-8-20"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: but beyond that unmanifest there is another unmanifest being (bhāva), eternal (sanātana), which does not perish when all beings perish.
+
+> parastasmāttu bhāvo'nyo'vyakto'vyaktātsanātanaḥ|
+yaḥ sa sarveṣu bhūteṣu naśyatsu na vinaśyati
+
+_level: ultimate · standpoint: substance · path: knowledge · stage: unmarked · types: ultimate_
+
+terms: [avyakta](../terms/avyakta.md), [bhāva](../terms/bhava.md) · concepts: [The imperishable (akṣara)](../concepts/aksara.md), [The manifest and the unmanifest](../concepts/vyakta-and-avyakta.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 8.20-22 <a id="tea-bhagavad-gita-8-20-22"></a>
 `sourced` · confidence high
@@ -4416,6 +4979,44 @@ _level: ultimate · standpoint: divine · path: devotion, knowledge · stage: al
 
 terms: [avyakta](../terms/avyakta.md), [akṣara](../terms/aksara.md), [paramaṃ dhāma](../terms/parama-dhama.md), [ananya-bhakti](../terms/ananya-bhakti.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md)
 
+_Superseded by [8.20](bhagavad-gita.md#tea-bhagavad-gita-8-20)_
+
+### 8.21 <a id="tea-bhagavad-gita-8-21"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: that unmanifest is called the imperishable (akṣara); they call it the supreme goal (paramā gati); having reached it they do not return — that is my supreme abode (dhāma paramaṃ mama).
+
+> avyakto'kṣara ityuktastamāhuḥ paramāṃ gatim|
+yaṃ prāpya na nivartante taddhāma paramaṃ mama
+
+_level: ultimate · standpoint: divine · path: general · stage: unmarked · types: ultimate, karma-liberation_
+
+terms: [avyakta](../terms/avyakta.md), [akṣara](../terms/aksara.md), [paramaṃ dhāma](../terms/parama-dhama.md), [apunarāvṛtti](../terms/apunaravrtti.md) · concepts: [The imperishable (akṣara)](../concepts/aksara.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 8.22 <a id="tea-bhagavad-gita-8-22"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: that supreme Person (puruṣaḥ paraḥ), Pārtha, is to be gained by undivided devotion (bhaktyā ananyayā) — he within whom beings abide, by whom all this is pervaded (tatam).
+
+> puruṣaḥ sa paraḥ pārtha bhaktyā labhyastvananyayā|
+yasyāntaḥsthāni bhūtāni yena sarvamidaṃ tatam
+
+_level: unmarked · standpoint: devotional · path: devotion · stage: all · types: ultimate, practice_
+
+terms: [puruṣa](../terms/purusa.md), [ananya-bhakti](../terms/ananya-bhakti.md), [bhakti](../terms/bhakti.md) · concepts: [The Lord's lordly yoga (yogam aiśvaram): beings in him, he not in them](../concepts/aisvara-yoga.md) · practices: [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 8.23 <a id="tea-bhagavad-gita-8-23"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: now I will tell you the time (kāla) at which yogins, departing, go to non-return (anāvṛtti) and to return (āvṛtti), bull of the Bharatas.
+
+> yatra kāle tvanāvṛttimāvṛttiṃ caiva yoginaḥ|
+prayātā yānti taṃ kālaṃ vakṣyāmi bharatarṣabha
+
+_level: conventional · standpoint: cosmic · path: general · stage: unmarked · types: death-dying, world-fate_
+
+terms: [kāla (kañcuka)](../terms/kala-time.md), [anāvṛtti](../terms/anavrtti.md) · concepts: [The two paths after death (bright and dark)](../concepts/two-paths-after-death.md), [Rebirth](../concepts/rebirth.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 8.23-26 <a id="tea-bhagavad-gita-8-23-26"></a>
 `sourced` · confidence high
 
@@ -4424,6 +5025,56 @@ I will tell the times at which yogins depart to return or not to return: fire, l
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: death-dying, world-fate_
 
 terms: [devayāna](../terms/devayana.md), [pitṛyāna](../terms/pitryana.md), [uttarāyaṇa](../terms/uttarayana.md) · concepts: [The two paths after death (bright and dark)](../concepts/two-paths-after-death.md)
+
+_Superseded by [8.23](bhagavad-gita.md#tea-bhagavad-gita-8-23)_
+
+### 8.24 <a id="tea-bhagavad-gita-8-24"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: fire, light, day, the bright (fortnight, śukla), the six months of the northern course (uttarāyaṇa): departing therein (tatra), people who know Brahman (brahma-vid) go to Brahman.
+
+> agnirjyotirahaḥ śuklaḥ ṣaṇmāsā uttarāyaṇam|
+tatra prayātā gacchanti brahma brahmavido janāḥ
+
+_level: conventional · standpoint: cosmic · path: knowledge · stage: advanced (brahmavid (knower of Brahman)) · types: death-dying, world-fate_
+
+terms: [agni](../terms/agni.md), [jyotis](../terms/jyotis.md), [uttarāyaṇa](../terms/uttarayana.md), [brahman](../terms/brahman.md) · concepts: [The two paths after death (bright and dark)](../concepts/two-paths-after-death.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Where does the path of the gods lead: to the conditioned (kārya) Brahman or to the supreme Brahman (BS 4.3.7–16)?](../debates/destination-of-devayana.md)
+
+### 8.25 <a id="tea-bhagavad-gita-8-25"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: smoke, night, likewise the dark (fortnight, kṛṣṇa), the six months of the southern course (dakṣiṇāyana): (departing) therein, the yogin reaches the lunar light (cāndramasaṃ jyotiḥ) and returns.
+
+> dhūmo rātristathā kṛṣṇaḥ ṣaṇmāsā dakṣiṇāyanam|
+tatra cāndramasaṃ jyotiryogī prāpya nivartate
+
+_level: conventional · standpoint: cosmic · path: general · stage: unmarked · types: death-dying, world-fate_
+
+terms: [jyotis](../terms/jyotis.md), [dakṣiṇāyana](../terms/daksinayana.md) · concepts: [The two paths after death (bright and dark)](../concepts/two-paths-after-death.md), [Rebirth](../concepts/rebirth.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 8.26 <a id="tea-bhagavad-gita-8-26"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: these two courses (gati), the bright and the dark (śukla-kṛṣṇe), are held to be everlasting (śāśvata) for the world (jagataḥ); by the one a person goes to non-return (anāvṛtti), by the other he returns again.
+
+> śuklakṛṣṇe gatī hyete jagataḥ śāśvate mate|
+ekayā yātyanāvṛttimanyayā''vartate punaḥ
+
+_level: conventional · standpoint: cosmic · path: general · stage: all · types: death-dying, world-fate_
+
+terms: [anāvṛtti](../terms/anavrtti.md) · concepts: [The two paths after death (bright and dark)](../concepts/two-paths-after-death.md), [Rebirth](../concepts/rebirth.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 8.27 <a id="tea-bhagavad-gita-8-27"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: knowing these two paths (sṛti), Pārtha, no yogin is deluded; therefore at all times be yoked in yoga (yoga-yukta), Arjuna.
+
+> naite sṛtī pārtha jānanyogī muhyati kaścana|
+tasmātsarveṣu kāleṣu yogayukto bhavārjuna
+
+_level: conventional · standpoint: seeker · path: meditation, general · stage: all · types: practice, death-dying_
+
+terms: [yoga](../terms/yoga.md), [moha](../terms/moha.md) · concepts: [The two paths after death (bright and dark)](../concepts/two-paths-after-death.md) · obstacles: [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 8.27-28 <a id="tea-bhagavad-gita-8-27-28"></a>
 `sourced` · confidence high
@@ -4434,6 +5085,35 @@ _level: bridging · standpoint: seeker · path: meditation · stage: all · type
 
 concepts: [The two paths after death (bright and dark)](../concepts/two-paths-after-death.md)
 
+_Superseded by [8.27](bhagavad-gita.md#tea-bhagavad-gita-8-27)_
+
+### 8.28 <a id="tea-bhagavad-gita-8-28"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: whatever fruit of merit (puṇya-phala) is declared for the Vedas, for sacrifices, for austerities and for gifts — having known this (idaṃ viditvā), the yogin goes beyond all of it and reaches the supreme, primal place (paraṃ sthānam ādyam).
+
+> vedeṣu yajñeṣu tapaḥsu caiva
+dāneṣu yatpuṇyaphalaṃ pradiṣṭam|
+atyeti tatsarvamidaṃ viditvā
+yogī paraṃ sthānamupaiti cādyam
+
+_level: unmarked · standpoint: causal · path: knowledge, meditation · stage: advanced · types: karma-liberation, practice_
+
+terms: [veda](../terms/veda.md), [yajña](../terms/yajna.md), [tapas](../terms/tapas.md), [dāna](../terms/dana.md), [phala](../terms/phala.md) · concepts: [Iṣṭāpūrta, merit of sacrifice and gift](../concepts/istapurta-merit.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 9.1 <a id="tea-bhagavad-gita-9-1"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: to you, who do not cavil (anasūyu), I will declare this most secret (guhyatama) knowledge (jñāna) together with vijñāna; knowing it you will be freed from what is inauspicious (aśubha).
+
+> śrī bhagavānuvāca
+idaṃ tu te guhyatamaṃ pravakṣyāmyanasūyave|
+jñānaṃ vijñānasahitaṃ yajjñātvā mokṣyase'śubhāt
+
+_level: unmarked · standpoint: seeker · path: knowledge · stage: unmarked (anasūyu (one who does not cavil) as the qualified hearer) · types: teacher-transmission, karma-liberation_
+
+terms: [guhya](../terms/guhya.md), [jñāna](../terms/jnana.md), [vijñāna](../terms/vijnana.md), [mokṣa](../terms/moksa.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 9.1-2 <a id="tea-bhagavad-gita-9-1-2"></a>
 `sourced` · confidence high
 
@@ -4443,14 +5123,43 @@ _level: bridging · standpoint: divine · path: knowledge, devotion · stage: al
 
 terms: [rājavidyā](../terms/rajavidya.md), [guhya](../terms/guhya.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md)
 
+_Superseded by [9.1](bhagavad-gita.md#tea-bhagavad-gita-9-1)_
+
+### 9.2 <a id="tea-bhagavad-gita-9-2"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: it is the royal knowledge (rāja-vidyā), the royal secret (rāja-guhya), the supreme purifier; it is known by direct apprehension (pratyakṣa-avagama), in accord with dharma (dharmya), very easy to practise, and imperishable.
+
+> rājavidyā rājaguhyaṃ pavitramidamuttamam|
+pratyakṣāvagamaṃ dharmyaṃ susukhaṃ kartumavyayam
+
+_level: unmarked · standpoint: seeker · path: knowledge, devotion · stage: all · types: teacher-transmission, ultimate, practice_
+
+terms: [rājavidyā](../terms/rajavidya.md), [guhya](../terms/guhya.md), [pratyakṣa](../terms/pratyaksa.md), [dharma](../terms/dharma.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 9.3 <a id="tea-bhagavad-gita-9-3"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-People who have no faith in this dharma, not reaching me, return to the path of death and saṃsāra.
+Kṛṣṇa: people who have no faith (aśraddadhāna) in this dharma, scorcher of foes, not reaching me, return to the path of death and saṃsāra (mṛtyu-saṃsāra-vartman).
 
-_level: conventional · standpoint: seeker · path: general · stage: all · types: karma-liberation_
+> aśraddadhānāḥ puruṣā dharmasyāsya parantapa|
+aprāpya māṃ nivartante mṛtyusaṃsāravartmani
 
-terms: [saṃsāra](../terms/samsara.md) · obstacles: [Lack of faith (aśraddhā)](../obstacles/asraddha.md)
+_level: conventional · standpoint: causal · path: general · stage: all · types: karma-liberation_
+
+terms: [śraddhā](../terms/sraddha.md), [dharma](../terms/dharma.md), [mṛtyu](../terms/mrtyu.md), [saṃsāra](../terms/samsara.md) · concepts: [Rebirth](../concepts/rebirth.md), [Śraddhā, faith](../concepts/sraddha-faith.md) · obstacles: [Lack of faith (aśraddhā)](../obstacles/asraddha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 9.4 <a id="tea-bhagavad-gita-9-4"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: all this world is pervaded (tata) by me in my unmanifest form (avyakta-mūrti); all beings abide in me, but I am not established in them.
+
+> mayā tatamidaṃ sarvaṃ jagadavyaktamūrtinā|
+matsthāni sarvabhūtāni na cāhaṃ teṣvavasthitaḥ
+
+_level: bridging · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, world-fate_
+
+terms: [avyakta](../terms/avyakta.md), [jagat (as opposed to saṃsāra)](../terms/jagat.md) · concepts: [The Lord's lordly yoga (yogam aiśvaram): beings in him, he not in them](../concepts/aisvara-yoga.md), [The manifest and the unmanifest](../concepts/vyakta-and-avyakta.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 9.4-5 <a id="tea-bhagavad-gita-9-4-5"></a>
 `sourced` · confidence high
@@ -4461,12 +5170,43 @@ _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced 
 
 concepts: [The two natures of the Lord (aparā and parā prakṛti)](../concepts/two-natures-of-the-lord.md) · disputes: `dsp:world-real-or-appearance`
 
+_Superseded by [9.4](bhagavad-gita.md#tea-bhagavad-gita-9-4)_
+
+### 9.5 <a id="tea-bhagavad-gita-9-5"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: and yet beings do not abide in me — behold my lordly yoga (yogam aiśvaram)! Sustaining beings (bhūta-bhṛt) and not abiding in beings, my self (ātman) brings beings into being (bhūta-bhāvana).
+
+> na ca matsthāni bhūtāni paśya me yogamaiśvaram|
+bhūtabhṛnna ca bhūtastho mamātmā bhūtabhāvanaḥ
+
+_level: bridging · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate_
+
+terms: [yoga](../terms/yoga.md), [aiśvarya](../terms/aisvarya.md), [ātman](../terms/atman.md) · concepts: [The Lord's lordly yoga (yogam aiśvaram): beings in him, he not in them](../concepts/aisvara-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 9.6 <a id="tea-bhagavad-gita-9-6"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-As the mighty wind, moving everywhere, always abides in space, so all beings abide in me.
+Kṛṣṇa: as the great wind (vāyu), going everywhere, always abides in space (ākāśa), so understand that all beings abide in me.
 
-_level: ultimate · standpoint: cosmic · path: knowledge · stage: all · types: ultimate_
+> yathā''kāśasthito nityaṃ vāyuḥ sarvatrago mahān|
+tathā sarvāṇi bhūtāni matsthānītyupadhāraya
+
+_level: bridging · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate_
+
+terms: [Vāyu](../terms/vayu.md), [ākāśa](../terms/akasa.md) · concepts: [The Lord's lordly yoga (yogam aiśvaram): beings in him, he not in them](../concepts/aisvara-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 9.7 <a id="tea-bhagavad-gita-9-7"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: all beings, Kaunteya, go into my nature (prakṛti) at the close of a kalpa (kalpa-kṣaya); at the beginning of a kalpa I send them forth again.
+
+> sarvabhūtāni kaunteya prakṛtiṃ yānti māmikām|
+kalpakṣaye punastāni kalpādau visṛjāmyaham
+
+_level: conventional · standpoint: cosmic · path: general · stage: unmarked · types: world-fate_
+
+terms: [prakṛti](../terms/prakrti.md), [kalpa](../terms/kalpa.md), [sṛṣṭi](../terms/srsti.md), [pralaya](../terms/pralaya.md) · concepts: [Creation and dissolution of the world](../concepts/creation-and-dissolution.md), [Kalpa, the day of Brahmā and his lifetime](../concepts/kalpa-and-brahma-lifetime.md), [Prakṛti (primordial nature)](../concepts/prakrti.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 9.7-10 <a id="tea-bhagavad-gita-9-7-10"></a>
 `sourced` · confidence high
@@ -4477,6 +5217,56 @@ _level: conventional · standpoint: cosmic · path: knowledge · stage: all · t
 
 terms: [prakṛti](../terms/prakrti.md), [kalpa](../terms/kalpa.md) · concepts: [The day and night of Brahmā](../concepts/day-and-night-of-brahma.md), [The two natures of the Lord (aparā and parā prakṛti)](../concepts/two-natures-of-the-lord.md)
 
+_Superseded by [9.7](bhagavad-gita.md#tea-bhagavad-gita-9-7)_
+
+### 9.8 <a id="tea-bhagavad-gita-9-8"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: taking hold of (avaṣṭabhya) my own nature (prakṛti), I send forth again and again this whole multitude of beings (bhūta-grāma), helpless (avaśa) under the power of nature (prakṛter vaśāt).
+
+> prakṛtiṃ svāmavaṣṭabhya visṛjāmi punaḥ punaḥ|
+bhūtagrāmamimaṃ kṛtsnamavaśaṃ prakṛtervaśāt
+
+_level: conventional · standpoint: cosmic · path: general · stage: unmarked · types: world-fate, karma-liberation_
+
+terms: [prakṛti](../terms/prakrti.md), [sṛṣṭi](../terms/srsti.md) · concepts: [Creation and dissolution of the world](../concepts/creation-and-dissolution.md), [Prakṛti (primordial nature)](../concepts/prakrti.md), [Kalpa, the day of Brahmā and his lifetime](../concepts/kalpa-and-brahma-lifetime.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 9.9 <a id="tea-bhagavad-gita-9-9"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: and those acts (karma) do not bind me, Dhanañjaya — me, seated as one indifferent (udāsīnavat), unattached to those acts.
+
+> na ca māṃ tāni karmāṇi nibadhnanti dhanañjaya|
+udāsīnavadāsīnamasaktaṃ teṣu karmasu
+
+_level: unmarked · standpoint: divine · path: knowledge, action · stage: unmarked · types: karma-liberation, ultimate_
+
+terms: [karma](../terms/karma.md), [karmabandha](../terms/karma-bandha.md), [udāsīna](../terms/udasina.md), [aśakti](../terms/asakti.md) · concepts: [The Lord's independence from karma](../concepts/isvara-independence-from-karma.md), [Bondage of action (karma-bandha)](../concepts/bondage-of-action.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 9.10 <a id="tea-bhagavad-gita-9-10"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: with me as overseer (adhyakṣa), nature (prakṛti) gives birth to the moving and the unmoving; for this reason, Kaunteya, the world revolves.
+
+> mayā'dhyakṣeṇa prakṛtiḥ sūyate sacarācaram|
+hetunā'nena kaunteya jagadviparivartate
+
+_level: conventional · standpoint: cosmic · path: knowledge · stage: unmarked · types: world-fate_
+
+terms: [prakṛti](../terms/prakrti.md), [adhyakṣa](../terms/adhyaksa.md), [jagat (as opposed to saṃsāra)](../terms/jagat.md) · concepts: [Prakṛti (primordial nature)](../concepts/prakrti.md), [Creation and dissolution of the world](../concepts/creation-and-dissolution.md), [Īśvara (the Lord)](../concepts/isvara.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 9.11 <a id="tea-bhagavad-gita-9-11"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the deluded (mūḍha) disregard me, who have taken on a human body (mānuṣī tanu), not knowing my higher state (paraṃ bhāvam) as the great Lord of beings (bhūta-maheśvara).
+
+> avajānanti māṃ mūḍhā mānuṣīṃ tanumāśritam|
+paraṃ bhāvamajānanto mama bhūtamaheśvaram
+
+_level: bridging · standpoint: polemical · path: devotion, knowledge · stage: unmarked · types: ultimate, dispute_
+
+terms: [tanu](../terms/tanu.md), [māheśvara](../terms/mahesvara.md), [moha](../terms/moha.md), [mūḍha](../terms/mudha.md) · concepts: [The Lord's descent (avatāra / prādurbhāva)](../concepts/avatara.md) · obstacles: [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the Lord who has come into manifestation in a human body only a manifest, human being?](../debates/bhagavad-gita-the-lords-embodiment.md)
+
 ### 9.11-12 <a id="tea-bhagavad-gita-9-11-12"></a>
 `sourced` · confidence high
 
@@ -4485,6 +5275,32 @@ The deluded disregard me when I have taken a human body, not knowing my higher b
 _level: conventional · standpoint: divine · path: devotion · stage: all · types: ultimate_
 
 concepts: [The Lord's descent (avatāra / prādurbhāva)](../concepts/avatara.md) · obstacles: [Delusion (moha)](../obstacles/moha.md)
+
+_Superseded by [9.11](bhagavad-gita.md#tea-bhagavad-gita-9-11)_
+
+### 9.12 <a id="tea-bhagavad-gita-9-12"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: of vain hopes, vain actions, vain knowledge, senseless (vicetas), they resort to the deluding nature (prakṛti mohinī) of rākṣasas and asuras.
+
+> moghāśā moghakarmāṇo moghajñānā vicetasaḥ|
+rākṣasīmāsurīṃ caiva prakṛtiṃ mohinīṃ śritāḥ
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics, karma-liberation_
+
+terms: [rakṣas](../terms/raksas.md), [asura](../terms/asura.md), [prakṛti](../terms/prakrti.md), [moha](../terms/moha.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md), [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 9.13 <a id="tea-bhagavad-gita-9-13"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: but the great souls (mahātman), Pārtha, resorting to the divine nature (daivī prakṛti), worship me with minds on nothing else (ananya-manas), knowing me as the imperishable origin of beings (bhūtādi).
+
+> mahātmānastu māṃ pārtha daivīṃ prakṛtimāśritāḥ|
+bhajantyananyamanaso jñātvā bhūtādimavyayam
+
+_level: conventional · standpoint: devotional · path: devotion, knowledge · stage: advanced (mahātman) · types: practice, ethics_
+
+terms: [mahātman](../terms/mahatman.md), [prakṛti](../terms/prakrti.md), [ananya-bhakti](../terms/ananya-bhakti.md), [bhakti](../terms/bhakti.md), [bhūtādi](../terms/bhutadi.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · practices: [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 9.13-15 <a id="tea-bhagavad-gita-9-13-15"></a>
 `sourced` · confidence high
@@ -4495,6 +5311,44 @@ _level: bridging · standpoint: devotional · path: devotion, sound, knowledge �
 
 terms: [mahātman](../terms/mahatman.md), [daivī sampad](../terms/daivi-sampad.md), [jñāna-yajña](../terms/jnana-yajna.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md)
 
+_Superseded by [9.13](bhagavad-gita.md#tea-bhagavad-gita-9-13)_
+
+### 9.14 <a id="tea-bhagavad-gita-9-14"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: always glorifying me (kīrtayantaḥ), striving, firm in their vows (dṛḍha-vrata), and bowing to me (namasyantaḥ) with devotion, ever yoked, they worship me (upāsate).
+
+> satataṃ kīrtayanto māṃ yatantaśca dṛḍhavratāḥ|
+namasyantaśca māṃ bhaktyā nityayuktā upāsate
+
+_level: conventional · standpoint: devotional · path: devotion, sound · stage: advanced (mahātman) · types: practice_
+
+terms: [kīrtana](../terms/kirtana.md), [namaskāra](../terms/namaskara.md), [vrata](../terms/vrata.md), [upāsanā](../terms/upasana.md), [bhakti](../terms/bhakti.md) · practices: [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md), [Bowing to the Lord (namaskāra)](../practices/namaskara.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 9.15 <a id="tea-bhagavad-gita-9-15"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: others too, sacrificing with the sacrifice of knowledge (jñāna-yajña), worship me — as one (ekatvena), as distinct (pṛthaktvena), in many ways (bahudhā) — me who face in all directions (viśvato-mukha).
+
+> jñānayajñena cāpyanye yajanto māmupāsate|
+ekatvena pṛthaktvena bahudhā viśvatomukham
+
+_level: unmarked · standpoint: seeker · path: knowledge, devotion · stage: unmarked · types: practice, ultimate_
+
+terms: [jñāna-yajña](../terms/jnana-yajna.md), [ekatva](../terms/ekatva.md), [pṛthaktva](../terms/prthaktva.md), [upāsanā](../terms/upasana.md), [yajña](../terms/yajna.md) · concepts: [Sacrifice reinterpreted (yajña)](../concepts/yajna-reinterpreted.md) · practices: [The sacrifice of knowledge (jñāna-yajña)](../practices/jnana-yajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 9.16 <a id="tea-bhagavad-gita-9-16"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: I am the rite (kratu), I am the sacrifice (yajña), I am the offering to the ancestors (svadhā), I am the healing plant (auṣadha); I am the mantra, I am the clarified butter (ājya), I am the fire (agni), I am the oblation offered (huta).
+
+> ahaṃ kraturahaṃ yajñaḥ svadhā'hamahamauṣadham|
+maṃtro'hamahamevājyamahamagnirahaṃ hutam
+
+_level: unmarked · standpoint: divine · path: ritual, knowledge · stage: unmarked · types: ultimate, practice_
+
+terms: [kratu](../terms/kratu.md), [yajña](../terms/yajna.md), [svadhā](../terms/svadha.md), [mantra](../terms/mantra.md), [agni](../terms/agni.md), [havis](../terms/havis.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [Sacrifice reinterpreted (yajña)](../concepts/yajna-reinterpreted.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 9.16-19 <a id="tea-bhagavad-gita-9-16-19"></a>
 `sourced` · confidence high
 
@@ -4503,6 +5357,58 @@ I am the ritual, the sacrifice, the offering to the ancestors, the healing herb,
 _level: ultimate · standpoint: divine · path: devotion, ritual, knowledge · stage: all · types: ultimate, sound-language_
 
 terms: [oṃ](../terms/om.md), [sākṣin](../terms/saksin.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md)
+
+_Superseded by [9.16](bhagavad-gita.md#tea-bhagavad-gita-9-16)_
+
+### 9.17 <a id="tea-bhagavad-gita-9-17"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: I am the father of this world, the mother, the sustainer (dhātṛ), the grandsire; what is to be known (vedya), the purifier, the syllable Oṃ (oṃkāra), and the Ṛk, the Sāman and the Yajus.
+
+> pitā'hamasya jagato mātā dhātā pitāmahaḥ|
+vedyaṃ pavitramoṃkāra ṛk sāma yajureva ca
+
+_level: unmarked · standpoint: divine · path: knowledge, devotion · stage: unmarked · types: ultimate, sound-language_
+
+terms: [oṃkāra](../terms/omkara.md), [ṛk](../terms/rk.md), [sāman](../terms/saman.md), [yajus](../terms/yajus.md), [veda](../terms/veda.md), [oṃ](../terms/om.md) · concepts: [Oṃ](../concepts/om.md), [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 9.18 <a id="tea-bhagavad-gita-9-18"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: (I am) the goal (gati), the upholder (bhartṛ), the lord (prabhu), the witness (sākṣin), the dwelling (nivāsa), the refuge (śaraṇa), the friend (suhṛd); the origin (prabhava), the dissolution (pralaya), the ground (sthāna), the treasure-house (nidhāna), the imperishable seed (bījam avyayam).
+
+> gatirbhartā prabhuḥ sākṣī nivāsaḥ śaraṇaṃ suhṛt|
+prabhavaḥ pralayaḥ sthānaṃ nidhānaṃ bījamavyayam
+
+_level: unmarked · standpoint: divine · path: devotion, knowledge · stage: unmarked · types: ultimate_
+
+terms: [sākṣin](../terms/saksin.md), [śaraṇa](../terms/sarana.md), [pralaya](../terms/pralaya.md), [bīja](../terms/bija.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [The witness (sākṣin)](../concepts/saksin.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 9.19 <a id="tea-bhagavad-gita-9-19"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: I give heat; I hold back and send forth the rain; I am immortality (amṛta) and death (mṛtyu), being (sat) and non-being (asat), Arjuna.
+
+> tapāmyahamahaṃ varṣaṃ nigṛhṇāmyutsṛjāmi ca|
+amṛtaṃ caiva mṛtyuśca sadasaccāhamarjuna
+
+_level: unmarked · standpoint: divine · path: knowledge · stage: unmarked · types: ultimate, world-fate_
+
+terms: [amṛta](../terms/amrta.md), [mṛtyu](../terms/mrtyu.md), [sat](../terms/sat.md), [asat](../terms/asat.md), [sadasat](../terms/sadasat.md) · concepts: [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 9.20 <a id="tea-bhagavad-gita-9-20"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: knowers of the three Vedas (traividya), drinkers of soma (somapa), cleansed of sin, having worshipped me with sacrifices (yajñair iṣṭvā), pray for the way to heaven (svar-gati); reaching the holy (puṇya) world of the lord of the gods (surendra-loka), they enjoy in heaven the divine enjoyments of the gods.
+
+> traividyā māṃ somapāḥ pūtapāpā
+yajñairiṣṭvā svargatiṃ prārthayante|
+te puṇyamāsādya surendraloka
+maśnanti divyāndivi devabhogān
+
+_level: conventional · standpoint: ritual · path: ritual · stage: unmarked · types: karma-liberation, world-fate_
+
+terms: [trayī](../terms/trayi.md), [soma](../terms/soma.md), [yajña](../terms/yajna.md), [svarga](../terms/svarga.md), [indra](../terms/indra.md) · concepts: [Heaven (svarga)](../concepts/svarga.md) · practices: [The śrauta sacrifice (in general)](../practices/srauta-yajna.md) · obstacles: [Attachment to the rewards of ritual (vedavāda)](../obstacles/attachment-to-ritual-rewards.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Indra (as student and teacher)](../teachers/indra.md) · disputes: [Are the Vedic rites that hold out heaven, enjoyment and power all there is to seek ('there is nothing else')?](../debates/bhagavad-gita-vedavada.md)
 
 ### 9.20-21 <a id="tea-bhagavad-gita-9-20-21"></a>
 `sourced` · confidence high
@@ -4513,16 +5419,45 @@ _level: conventional · standpoint: ritual · path: ritual · stage: all · type
 
 obstacles: [Attachment to the rewards of ritual (vedavāda)](../obstacles/attachment-to-ritual-rewards.md) · disputes: `dsp:works-knowledge-grace`
 
+_Superseded by [9.20](bhagavad-gita.md#tea-bhagavad-gita-9-20)_
+
+### 9.21 <a id="tea-bhagavad-gita-9-21"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: having enjoyed that vast heavenly world, when their merit (puṇya) is exhausted they enter the world of mortals; thus following the dharma of the three Vedas (trayī-dharma), desiring objects of desire (kāma-kāma), they obtain going and coming (gatāgata).
+
+> te taṃ bhuktvā svargalokaṃ viśālaṃ
+kṣīṇe puṇye martyalokaṃ viśanti|
+eva trayīdharmamanuprapannā
+gatāgataṃ kāmakāmā labhante
+
+_level: conventional · standpoint: causal · path: ritual · stage: unmarked · types: karma-liberation, world-fate_
+
+terms: [svarga](../terms/svarga.md), [trayī](../terms/trayi.md), [kāma](../terms/kama.md), [saṃsāra](../terms/samsara.md) · concepts: [Heaven (svarga)](../concepts/svarga.md), [Rebirth](../concepts/rebirth.md) · obstacles: [Attachment to the rewards of ritual (vedavāda)](../obstacles/attachment-to-ritual-rewards.md), [Desire (kāma)](../obstacles/kama.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Are the Vedic rites that hold out heaven, enjoyment and power all there is to seek ('there is nothing else')?](../debates/bhagavad-gita-vedavada.md)
+
 ### 9.22 <a id="tea-bhagavad-gita-9-22"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Those people who, thinking of nothing else, worship me, ever devoted — for them I bear the burden of their gain and security.
+Kṛṣṇa: those people who, having no other (ananyāḥ), think of me and worship me (paryupāsate) — for them, ever devoted (nityābhiyukta), I myself carry (vahāmi) acquisition and preservation (yoga-kṣema).
 
-> ananyāś cintayanto māṃ ye janāḥ paryupāsate teṣāṃ nityābhiyuktānāṃ yogakṣemaṃ vahāmy aham
+> ananyāścintayanto māṃ ye janāḥ paryupāsate|
+teṣāṃ nityābhiyuktānāṃ yogakṣemaṃ vahāmyaham
 
-_level: bridging · standpoint: divine · path: devotion · stage: all · types: practice, karma-liberation_
+_level: conventional · standpoint: divine · path: devotion · stage: all · types: practice, karma-liberation_
 
-terms: [yogakṣema](../terms/yogaksema.md), [ananya-bhakti](../terms/ananya-bhakti.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md)
+terms: [yogakṣema](../terms/yogaksema.md), [ananya-bhakti](../terms/ananya-bhakti.md), [upāsanā](../terms/upasana.md) · concepts: [The Lord's grace (prasāda)](../concepts/divine-grace.md), [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md), [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 9.23 <a id="tea-bhagavad-gita-9-23"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: even those devoted to other deities (anya-devatā) who sacrifice filled with faith — they too, Kaunteya, sacrifice to me alone, but not according to the rule (avidhi-pūrvakam).
+
+> ye'pyanyadevatā bhaktā yajante śraddhayā'nvitāḥ|
+te'pi māmeva kaunteya yajantyavidhipūrvakam
+
+_level: conventional · standpoint: divine · path: devotion, ritual · stage: unmarked · types: practice, karma-liberation_
+
+terms: [devatā](../terms/devata.md), [śraddhā](../terms/sraddha.md), [yajña](../terms/yajna.md), [vidhi](../terms/vidhi.md) · concepts: [Śraddhā, faith](../concepts/sraddha-faith.md) · obstacles: [Worship of other gods](../obstacles/anya-deva-worship.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Whom does the worship of other deities (anya-devatā) really reach, and what does it yield?](../debates/bhagavad-gita-other-deities.md)
 
 ### 9.23-25 <a id="tea-bhagavad-gita-9-23-25"></a>
 `sourced` · confidence high
@@ -4533,16 +5468,55 @@ _level: bridging · standpoint: divine · path: devotion, ritual · stage: all �
 
 concepts: [Devotion (bhakti)](../concepts/bhakti.md)
 
+_Superseded by [9.23](bhagavad-gita.md#tea-bhagavad-gita-9-23)_
+
+### 9.24 <a id="tea-bhagavad-gita-9-24"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: for I am the enjoyer (bhoktṛ) and the lord (prabhu) of all sacrifices; but they do not recognize me in truth (tattvena), and therefore they fall (cyavanti).
+
+> ahaṃ hi sarvayajñānāṃ bhoktā ca prabhureva ca|
+na tu māmabhijānanti tattvenātaścyavanti te
+
+_level: conventional · standpoint: divine · path: ritual, knowledge · stage: unmarked · types: karma-liberation, ultimate_
+
+terms: [bhoktṛ](../terms/bhoktr.md), [yajña](../terms/yajna.md), [tattva](../terms/tattva.md) · concepts: [Sacrifice reinterpreted (yajña)](../concepts/yajna-reinterpreted.md) · obstacles: [Worship of other gods](../obstacles/anya-deva-worship.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Whom does the worship of other deities (anya-devatā) really reach, and what does it yield?](../debates/bhagavad-gita-other-deities.md)
+
+### 9.25 <a id="tea-bhagavad-gita-9-25"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: those vowed to the gods (deva-vrata) go to the gods; those vowed to the ancestors (pitṛ-vrata) go to the ancestors; those who sacrifice to the spirits (bhūtejya; bhūta: beings, spirits) go to the spirits; and those who sacrifice to me come to me.
+
+> yānti devavratā devān pitṛ़nyānti pitṛvratāḥ|
+bhūtāni yānti bhūtejyā yānti madyājino'pi mām
+
+_level: conventional · standpoint: causal · path: ritual, devotion · stage: all · types: karma-liberation, world-fate_
+
+terms: [deva](../terms/deva.md), [pitṛ](../terms/pitr.md), [vrata](../terms/vrata.md) · obstacles: [Worship of other gods](../obstacles/anya-deva-worship.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Whom does the worship of other deities (anya-devatā) really reach, and what does it yield?](../debates/bhagavad-gita-other-deities.md)
+
 ### 9.26 <a id="tea-bhagavad-gita-9-26"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Whoever offers me with devotion a leaf, a flower, a fruit or water — that devout offering of the pure-hearted I accept.
+Kṛṣṇa: whoever offers me with devotion a leaf, a flower, a fruit, water — that, offered with devotion (bhakti-upahṛta) by one whose self is pure/controlled (prayatātman), I partake of (aśnāmi).
 
-> patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati tad ahaṃ bhaktyupahṛtam aśnāmi prayatātmanaḥ
+> patraṃ puṣpaṃ phalaṃ toyaṃ yo me bhaktyā prayacchati|
+tadahaṃ bhaktyupahṛtamaśnāmi prayatātmanaḥ
 
-_level: conventional · standpoint: devotional · path: devotion, ritual · stage: beginner · types: practice_
+_level: conventional · standpoint: devotional · path: devotion, ritual · stage: all · types: practice_
 
-concepts: [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Offering a leaf, flower, fruit or water with devotion](../practices/patram-puspam-offering.md)
+terms: [bhakti](../terms/bhakti.md), [upahāra](../terms/upahara.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Offering a leaf, flower, fruit or water with devotion](../practices/patram-puspam-offering.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 9.27 <a id="tea-bhagavad-gita-9-27"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: whatever you do, whatever you eat, whatever you offer in oblation (juhoṣi), whatever you give, whatever austerity you practise, Kaunteya — do that as an offering to me (mad-arpaṇa).
+
+> yatkaroṣi yadaśnāsi yajjuhoṣi dadāsi yat|
+yattapasyasi kaunteya tatkuruṣva madarpaṇam
+
+_level: conventional · standpoint: seeker · path: action, devotion · stage: all · types: practice, ethics_
+
+terms: [arpaṇa](../terms/arpana.md), [karma](../terms/karma.md), [dāna](../terms/dana.md), [tapas](../terms/tapas.md) · practices: [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](../practices/isvararpana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 9.27-28 <a id="tea-bhagavad-gita-9-27-28"></a>
 `sourced` · confidence high
@@ -4553,14 +5527,43 @@ _level: bridging · standpoint: devotional · path: devotion, action · stage: a
 
 concepts: [Action without attachment to its fruit](../concepts/niskama-karma.md), [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](../practices/isvararpana.md)
 
+_Superseded by [9.27](bhagavad-gita.md#tea-bhagavad-gita-9-27)_
+
+### 9.28 <a id="tea-bhagavad-gita-9-28"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: thus you will be freed from the bonds of action (karma-bandhana) with their good and bad fruits; with your self yoked in the yoga of renunciation (saṃnyāsa-yoga), freed, you will come to me.
+
+> śubhāśubhaphalairevaṃ mokṣyase karmabandhanaiḥ|
+saṃnyāsayogayuktātmā vimukto māmupaiṣyasi
+
+_level: conventional · standpoint: causal · path: action, devotion · stage: all · types: karma-liberation, practice_
+
+terms: [karma](../terms/karma.md), [karmabandha](../terms/karma-bandha.md), [saṃnyāsa](../terms/samnyasa.md), [phala](../terms/phala.md), [mokṣa](../terms/moksa.md) · concepts: [Bondage of action (karma-bandha)](../concepts/bondage-of-action.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · practices: [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](../practices/isvararpana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 9.29 <a id="tea-bhagavad-gita-9-29"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-I am the same to all beings; none is hateful to me and none dear; but those who worship me with devotion are in me and I am in them.
+Kṛṣṇa: I am the same (sama) to all beings; none is hateful to me, none dear; but those who worship me with devotion are in me, and I too am in them.
 
-_level: bridging · standpoint: divine · path: devotion · stage: all · types: ultimate_
+> samo'haṃ sarvabhūteṣu na me dveṣyo'sti na priyaḥ|
+ye bhajanti tu māṃ bhaktyā mayi te teṣu cāpyaham
 
-concepts: [Devotion (bhakti)](../concepts/bhakti.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md)
+_level: unmarked · standpoint: devotional · path: devotion · stage: all · types: ultimate, practice_
+
+terms: [bhakti](../terms/bhakti.md), [samatva](../terms/samatva.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 9.30 <a id="tea-bhagavad-gita-9-30"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: even if one of very bad conduct (su-durācāra) worships me with undivided devotion (ananya-bhāk), he is to be considered good (sādhu), for he has resolved rightly (samyag vyavasitaḥ).
+
+> api cetsudurācāro bhajate māmananyabhāk|
+sādhureva sa mantavyaḥ samyagvyavasito hi saḥ
+
+_level: conventional · standpoint: devotional · path: devotion · stage: beginner (su-durācāra who worships with undivided devotion (ananya-bhāk)) · types: ethics, karma-liberation, practice_
+
+terms: [ananya-bhakti](../terms/ananya-bhakti.md), [vyavasāya](../terms/vyavasaya.md), [bhakti](../terms/bhakti.md) · practices: [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 9.30-31 <a id="tea-bhagavad-gita-9-30-31"></a>
 `sourced` · confidence high
@@ -4571,6 +5574,32 @@ _level: bridging · standpoint: divine · path: devotion · stage: all · types:
 
 concepts: [Devotion (bhakti)](../concepts/bhakti.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md)
 
+_Superseded by [9.30](bhagavad-gita.md#tea-bhagavad-gita-9-30)_
+
+### 9.31 <a id="tea-bhagavad-gita-9-31"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: quickly he becomes righteous (dharmātman) and attains lasting peace (śāśvatī śānti). Kaunteya, declare it (pratijānīhi): my devotee does not perish.
+
+> kṣipraṃ bhavati dharmātmā śaśvacchāntiṃ nigacchati|
+kaunteya pratijānīhi na me bhaktaḥ praṇaśyati
+
+_level: conventional · standpoint: devotional · path: devotion · stage: all · types: karma-liberation, ethics_
+
+terms: [dharma](../terms/dharma.md), [śānti](../terms/santi.md), [bhakta](../terms/bhakta.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 9.32 <a id="tea-bhagavad-gita-9-32"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: for, Pārtha, those who take refuge in me (vyapāśritya) — even those who may be of sinful birth (pāpa-yoni), women, vaiśyas and also śūdras — they too go to the highest goal (parā gati).
+
+> māṃ hi pārtha vyapāśritya ye'pi syuḥ pāpayonayaḥ|
+striyo vaiśyāstathā śūdrāste'pi yānti parāṃ gatim
+
+_level: conventional · standpoint: ethical-social · path: devotion · stage: all · types: ethics, karma-liberation_
+
+terms: [varṇa](../terms/varna.md), [prapatti](../terms/prapatti.md) · concepts: [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md), [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md) · practices: [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Does birth (caste) determine a devotee's worth, eligibility and place — in the temple, in scripture, and among devotees?](../debates/devotee-birth-and-caste.md)
+
 ### 9.32-33 <a id="tea-bhagavad-gita-9-32-33"></a>
 `sourced` · confidence high
 
@@ -4580,16 +5609,31 @@ _level: bridging · standpoint: divine · path: devotion · stage: all · types:
 
 concepts: [Devotion (bhakti)](../concepts/bhakti.md), [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md) · disputes: `dsp:women-caste-liberation`, [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md)
 
+_Superseded by [9.32](bhagavad-gita.md#tea-bhagavad-gita-9-32)_
+
+### 9.33 <a id="tea-bhagavad-gita-9-33"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: how much more, then, holy brāhmaṇas and devoted royal seers (rājarṣi)! Having come to this impermanent, joyless (asukha) world, worship me (bhajasva).
+
+> kiṃ punarbrāhmaṇāḥ puṇyā bhaktā rājarṣayastathā|
+anityamasukhaṃ lokamimaṃ prāpya bhajasva mām
+
+_level: conventional · standpoint: seeker · path: devotion · stage: all · types: karma-liberation, practice, ethics_
+
+terms: [brāhmaṇa](../terms/brahmana.md), [ṛṣi](../terms/rsi.md), [bhakta](../terms/bhakta.md) · concepts: [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Does birth (caste) determine a devotee's worth, eligibility and place — in the temple, in scripture, and among devotees?](../debates/devotee-birth-and-caste.md)
+
 ### 9.34 <a id="tea-bhagavad-gita-9-34"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Fix your mind on me, be my devotee, sacrifice to me, bow to me; having thus yoked yourself with me as your supreme goal, you will come to me.
+Kṛṣṇa: be one whose mind is on me (man-manāḥ), my devotee (mad-bhakta), one who sacrifices to me (mad-yājin); bow to me (namas-kuru). Having thus yoked yourself (yuktvā ātmānam), with me as your supreme aim (mat-parāyaṇa), you will come to me alone.
 
-> manmanā bhava madbhakto madyājī māṃ namaskuru mām evaiṣyasi yuktvaivam ātmānaṃ matparāyaṇaḥ
+> manmanā bhava madbhakto madyājī māṃ namaskuru|
+māmevaiṣyasi yuktvaivamātmānaṃ matparāyaṇaḥ
 
-_level: bridging · standpoint: devotional · path: devotion · stage: all · types: practice_
+_level: conventional · standpoint: seeker · path: devotion · stage: all · types: practice, karma-liberation_
 
-concepts: [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md)
+terms: [bhakta](../terms/bhakta.md), [namaskāra](../terms/namaskara.md), [manas](../terms/manas.md), [smaraṇa](../terms/smarana.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md), [Bowing to the Lord (namaskāra)](../practices/namaskara.md), [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 10.2-3 <a id="tea-bhagavad-gita-10-2-3"></a>
 `sourced` · confidence high
@@ -5960,6 +7004,33 @@ _level: unmarked · standpoint: seeker · path: meditation, action, devotion · 
 
 terms: [yoga](../terms/yoga.md), [yogārūḍha](../terms/yogarudha.md), [ārurukṣu](../terms/aruruksu.md), [abhyāsa](../terms/abhyasa.md), [vairāgya](../terms/vairagya.md), [yogabhraṣṭa](../terms/yogabhrasta.md), [samatva](../terms/samatva.md) · concepts: [The self as its own friend and enemy (BhG 6.5–6)](../concepts/self-as-friend-and-enemy.md), [Evenness of mind (samatva)](../concepts/equanimity.md), [The fate of the one fallen from yoga](../concepts/fate-of-the-fallen-yogin.md), [The paths of the Gītā: action, knowledge, meditation and devotion](../concepts/four-yogas-of-the-gita.md), [Brahma-nirvāṇa](../concepts/brahma-nirvana.md) · practices: [The Gītā's meditation (dhyāna-yoga, BhG 6.10–32)](../practices/dhyana-yoga-gita.md), [Practice and dispassion (abhyāsa and vairāgya)](../practices/abhyasa-vairagya.md), [The meditation seat and posture of the Gītā](../practices/gita-meditation-seat.md), [Moderation in food, sleep, recreation and effort](../practices/moderation-in-food-and-sleep.md) · obstacles: [The restless mind](../obstacles/restless-mind.md), [Excess or deficiency in eating and sleeping](../obstacles/extremes-of-food-and-sleep.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md)
 
+### ch7 <a id="tea-bhagavad-gita-ch7"></a>
+`text-verified` · confidence high
+
+Chapter 7 moves in eight steps. (1) 7.1–3: with his mind attached to the Lord, practising yoga and taking refuge in him, Arjuna will know him entirely (samagram) and without doubt; the Lord will declare knowledge together with vijñāna, after which nothing further remains to be known; among thousands scarcely one strives for perfection, and of those who strive scarcely one knows him in truth. (2) 7.4–7: his two natures — the lower, divided eightfold (earth, water, fire, air, space, mind, intellect and the sense of 'I'), and the higher, which has become the living being and by which the world is upheld; all beings have these two as their womb; he is the origin and the dissolution of the whole world; nothing is higher than him, and all this is strung on him like gems on a thread. (3) 7.8–12: he is the essence in things — the taste in water, the light of moon and sun, Oṃ in all the Vedas, sound in space, manhood in men, fragrance in earth, brilliance in fire, life in all beings, austerity in ascetics, the eternal seed of beings, the intelligence of the intelligent, the strength of the strong free of desire and passion, desire not opposed to dharma; the states of sattva, rajas and tamas come from him, yet he is not in them — they are in him. (4) 7.13–15: deluded by these guṇa-made states the world does not know him; his divine māyā made of the guṇas is hard to cross, but those who take refuge in him alone cross it; evil-doers of demonic disposition, their knowledge carried off by māyā, do not take refuge in him. (5) 7.16–19: four kinds of people of good deeds worship him — the distressed, the one who wishes to know, the seeker of gain and the knower; all are noble, but the knower, ever yoked and of single devotion, is foremost, mutually dear with him and held by him to be his very self; at the end of many births the knower takes refuge in him, knowing 'Vāsudeva is all' — a great soul very hard to find. (6) 7.20–23: those whose knowledge desires have carried off resort to other deities, following their observances; whatever form a devotee wishes to worship with faith, he makes that faith firm, and through it the worshipper obtains desires ordained by him; but the fruit is finite — worshippers of the gods go to the gods, his devotees come to him. (7) 7.24–26: the unintelligent think of him as unmanifest come into manifestation, not knowing his higher, imperishable state; veiled by his yoga-māyā he is not manifest to all; he knows all beings past, present and to come, but no one knows him. (8) 7.27–30: all beings fall into bewilderment at birth through the delusion of the pairs born of desire and aversion; those of meritorious deeds whose sin has ended worship him firm in their vows; those who take refuge in him and strive for release from old age and death know Brahman, the adhyātma and action completely, and those who know him with the adhibhūta, the adhidaiva and the adhiyajña know him even at the time of departure — terms that Arjuna asks about in 8.1–2. Purpose, as the chapter presents it: to give the knowledge of the Lord 'entire' (samagra), together with vijñāna, and to show refuge in him as the way across his māyā.
+
+_level: unmarked · standpoint: divine · path: knowledge, devotion · stage: all · types: ultimate, world-fate, practice, karma-liberation_
+
+terms: [jñāna](../terms/jnana.md), [vijñāna](../terms/vijnana.md), [prakṛti](../terms/prakrti.md), [māyā](../terms/maya.md), [prapatti](../terms/prapatti.md), [guṇa](../terms/guna.md), [Vāsudeva](../terms/vasudeva.md) · concepts: [The two natures of the Lord (aparā and parā prakṛti)](../concepts/two-natures-of-the-lord.md), [The four kinds of devotees](../concepts/four-kinds-of-devotees.md), [The Lord's manifestations (vibhūti)](../concepts/vibhutis.md), [The three planes: divine, bodily, sacrificial](../concepts/adhidaiva-adhyatma-adhiyajna.md), [The three guṇas](../concepts/three-gunas.md), [Māyā in the principal Upaniṣads](../concepts/maya.md) · practices: [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md), [The pairs of opposites (dvandva)](../obstacles/dvandva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Whom does the worship of other deities (anya-devatā) really reach, and what does it yield?](../debates/bhagavad-gita-other-deities.md), [Is the Lord who has come into manifestation in a human body only a manifest, human being?](../debates/bhagavad-gita-the-lords-embodiment.md)
+
+### ch8 <a id="tea-bhagavad-gita-ch8"></a>
+`text-verified` · confidence high
+
+Chapter 8 moves in nine steps. (1) 8.1–2: Arjuna asks seven questions — what is that Brahman, what is the adhyātma, what is action, what are the adhibhūta and the adhidaiva, who and how is the adhiyajña here in the body, and how is the Lord to be known at the time of departure by the self-controlled. (2) 8.3–4: the Lord's answers: Brahman is the supreme imperishable; own being (svabhāva) is called the adhyātma; the sending-forth (visarga) that brings about beings' states of existence is called action; the adhibhūta is the perishable state, the adhidaivata puruṣa ('person'), and the adhiyajña the Lord himself, here in the body. (3) 8.5–8: whoever departs at the end remembering him alone comes to his state; one goes to whatever state one remembers on leaving the body, having always been shaped by it; therefore Arjuna is to remember him at all times and fight, with mind and intellect offered to him; with thought (cetas) yoked by the yoga of repeated practice one goes to the supreme divine Person. (4) 8.9–13: the departure of one who remembers: whoever at departure, with unmoving mind, devotion and the power of yoga, the breath made to enter between the brows, remembers the ancient seer, subtler than the subtle, sun-coloured, beyond darkness, reaches that supreme divine Person; the imperishable that knowers of the Veda speak of and ascetics enter is declared in brief: whoever departs having restrained the gates, confined the mind in the heart and placed the breath in the head, uttering Oṃ, the one-syllabled Brahman, and remembering him, goes to the supreme goal. (5) 8.14–16: for the ever-yoked yogin who remembers him constantly with thought on nothing else (ananya-cetas) he is easy to reach; the great souls who come to him are not reborn into the impermanent abode of sorrow, whereas all worlds up to Brahmā's are subject to return. (6) 8.17–19: Brahmā's day lasts a thousand yugas and his night as long; at the coming of day manifest things come forth from the unmanifest, at the coming of night they dissolve into it, and the same multitude of beings comes to be again and again, helplessly. (7) 8.20–22: beyond that unmanifest is another, eternal unmanifest being that does not perish when all beings perish; it is called the imperishable and the supreme goal, from which they do not return — his supreme abode; that supreme Person, in whom beings abide and by whom all is pervaded, is gained by undivided devotion. (8) 8.23–27: the times at which departing yogins go to non-return or to return: fire, light, day, the bright fortnight and the six months of the northern course lead the knowers of Brahman to Brahman; smoke, night, the dark fortnight and the six months of the southern course lead the yogin to the lunar light and return; these two courses are everlasting for the world, and knowing them no yogin is deluded — so Arjuna is to be yoked in yoga at all times. (9) 8.28: having known this, the yogin goes beyond all the merit declared for the Vedas, sacrifices, austerities and gifts and reaches the supreme, primal place. Purpose, as the chapter presents it: to answer the questions left open at 7.29–30, above all how the Lord is known at death, and to show that constant remembrance of him, carried through to the moment of departure, leads to the imperishable from which there is no return.
+
+_level: unmarked · standpoint: seeker · path: knowledge, meditation, devotion · stage: all · types: ultimate, death-dying, world-fate, practice_
+
+terms: [akṣara](../terms/aksara.md), [adhyātma](../terms/adhyatma.md), [adhibhūta](../terms/adhibhuta.md), [adhidaiva](../terms/adhidaiva.md), [adhiyajña](../terms/adhiyajna.md), [antakāla](../terms/antakala.md), [oṃ](../terms/om.md), [avyakta](../terms/avyakta.md), [brahman](../terms/brahman.md), [adhidaivata](../terms/adhidaivata.md), [uttarāyaṇa](../terms/uttarayana.md), [anāvṛtti](../terms/anavrtti.md) · concepts: [The three planes: divine, bodily, sacrificial](../concepts/adhidaiva-adhyatma-adhiyajna.md), [The last thought at death](../concepts/last-thought-at-death.md), [The day and night of Brahmā](../concepts/day-and-night-of-brahma.md), [The two paths after death (bright and dark)](../concepts/two-paths-after-death.md), [The imperishable (akṣara)](../concepts/aksara.md), [Yogic departure at death](../concepts/yogic-exit-at-death.md), [The manifest and the unmanifest](../concepts/vyakta-and-avyakta.md), [Rebirth](../concepts/rebirth.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · practices: [Remembering the Lord at the hour of death](../practices/antakala-smarana.md), [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md), [Yogic departure at death](../practices/utkranti-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### ch9 <a id="tea-bhagavad-gita-ch9"></a>
+`text-verified` · confidence high
+
+Chapter 9 moves in nine steps. (1) 9.1–3: to Arjuna, who does not cavil, the Lord will declare the most secret knowledge together with vijñāna, knowing which he will be freed from what is inauspicious — the royal knowledge, the royal secret, the supreme purifier, directly apprehended, in accord with dharma, very easy to practise, imperishable; those without faith in this dharma do not reach him and return to the path of death and saṃsāra. (2) 9.4–10: all this is pervaded by him in unmanifest form; all beings abide in him, but he is not established in them — and yet beings do not abide in him: 'behold my lordly yoga'; his self sustains beings and brings them into being without abiding in them, as the great wind always abides in space; at the close of a kalpa beings go into his prakṛti and at its beginning he sends them forth again, taking hold of his own prakṛti; these acts do not bind him, seated as one indifferent and unattached; with him as overseer prakṛti gives birth to the moving and the unmoving, and so the world revolves. (3) 9.11–12: the deluded disregard him who has taken on a human body, not knowing his higher state as the great Lord of beings; of vain hopes, vain acts and vain knowledge, they resort to the deluding nature of rākṣasas and asuras. (4) 9.13–15: the great souls, resorting to the divine nature, worship him with minds on nothing else — always glorifying him, striving, firm in their vows, bowing to him with devotion, ever yoked — and others worship him by the sacrifice of knowledge, as one, as distinct and in many ways. (5) 9.16–19: he is the rite, the sacrifice, the offering to the ancestors, the healing plant, the mantra, the clarified butter, the fire and the oblation; the father, mother, sustainer and grandsire of the world, what is to be known, the purifier, Oṃ, and the Ṛk, Sāman and Yajus; the goal, upholder, lord, witness, dwelling, refuge and friend, the origin, dissolution, ground, treasure-house and imperishable seed; he gives heat, holds back and sends forth the rain; he is immortality and death, being and non-being. (6) 9.20–21: knowers of the three Vedas who have worshipped him with sacrifices pray for heaven, enjoy the world of the lord of the gods and, their merit spent, enter the world of mortals again — 'going and coming'. (7) 9.22–25: for those who, having no other, think of him and worship him, ever devoted, he himself carries acquisition and preservation; devotees of other deities who sacrifice with faith sacrifice to him, but not according to the rule; not recognising him in truth as the enjoyer and lord of all sacrifices, they fall; those vowed to the gods, the ancestors or the spirits go to them, and those who sacrifice to him come to him. (8) 9.26–28: a leaf, a flower, a fruit or water offered with devotion he partakes of; whatever Arjuna does, eats, offers, gives or practises as austerity is to be done as an offering to him, and so he will be freed from the bonds of action with their good and bad fruits and, yoked in the yoga of renunciation, will come to him. (9) 9.29–34: he is the same to all beings, none hateful or dear to him, but those who worship him with devotion are in him and he in them; even one of very bad conduct who worships him with undivided devotion is to be considered good and quickly becomes righteous — his devotee does not perish; those who take refuge in him, even those of sinful birth, women, vaiśyas and śūdras, go to the highest goal, how much more holy brāhmaṇas and devoted royal seers; closing injunction: having come to this impermanent, joyless world, worship him — mind on him, his devotee, sacrificing to him, bowing to him — and Arjuna will come to him. Purpose, as the chapter presents it: to declare the knowledge together with vijñāna (the phrase of 7.2) as the 'royal knowledge, royal secret' — the Lord who pervades all this and yet is not contained in it — and to present devotion to him, open to all who take refuge, as the way to him.
+
+_level: unmarked · standpoint: devotional · path: devotion, knowledge, ritual · stage: all · types: ultimate, practice, karma-liberation, world-fate_
+
+terms: [rājavidyā](../terms/rajavidya.md), [guhya](../terms/guhya.md), [ananya-bhakti](../terms/ananya-bhakti.md), [yogakṣema](../terms/yogaksema.md), [arpaṇa](../terms/arpana.md), [jñāna-yajña](../terms/jnana-yajna.md), [avyakta](../terms/avyakta.md), [prakṛti](../terms/prakrti.md) · concepts: [The Lord's lordly yoga (yogam aiśvaram): beings in him, he not in them](../concepts/aisvara-yoga.md), [Creation and dissolution of the world](../concepts/creation-and-dissolution.md), [Heaven (svarga)](../concepts/svarga.md), [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md), [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md), [Sacrifice reinterpreted (yajña)](../concepts/yajna-reinterpreted.md), [The Lord's descent (avatāra / prādurbhāva)](../concepts/avatara.md), [Bondage of action (karma-bandha)](../concepts/bondage-of-action.md) · practices: [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md), [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md), [Bowing to the Lord (namaskāra)](../practices/namaskara.md), [Offering a leaf, flower, fruit or water with devotion](../practices/patram-puspam-offering.md), [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](../practices/isvararpana.md), [The sacrifice of knowledge (jñāna-yajña)](../practices/jnana-yajna.md), [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · obstacles: [Attachment to the rewards of ritual (vedavāda)](../obstacles/attachment-to-ritual-rewards.md), [Worship of other gods](../obstacles/anya-deva-worship.md), [Lack of faith (aśraddhā)](../obstacles/asraddha.md), [The demonic endowment](../obstacles/asuri-sampad.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Does birth (caste) determine a devotee's worth, eligibility and place — in the temple, in scripture, and among devotees?](../debates/devotee-birth-and-caste.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Whom does the worship of other deities (anya-devatā) really reach, and what does it yield?](../debates/bhagavad-gita-other-deities.md), [Is the Lord who has come into manifestation in a human body only a manifest, human being?](../debates/bhagavad-gita-the-lords-embodiment.md), [Are the Vedic rites that hold out heaven, enjoyment and power all there is to seek ('there is nothing else')?](../debates/bhagavad-gita-vedavada.md)
+
 
 _Notes: Chapter titles are the traditional colophon titles (they vary slightly between editions; ch. 6 is also 'Ātmasaṃyama-yoga', ch. 18 'Mokṣa-saṃnyāsa-yoga' or 'Saṃnyāsa-yoga'). Verse counts per chapter checked against the local corpus; ch. 13's extra opening verse (Arjuna asking about prakṛti, puruṣa, kṣetra, kṣetrajña, jñāna and jñeya) is absent from the Critical Edition, and this unit uses the 700-verse numbering throughout._
 
@@ -5968,4 +7039,4 @@ _Notes: Chapter titles are the traditional colophon titles (they vary slightly b
 
 - 2026-09-29 text-locate: confirmed — catalog:GRETIL-dev:bhagavadgita, local:sources_raw/DharmicData/Mahabharata/mahabharata_book_6.json (BORI Critical Edition text) 6.23.1 dharmakṣetre ... ; 6.40.78 yatra yogeśvaraḥ ...; 6.22/6.41 are battle narrative, local:sources_raw/gita/data/verse.json (701 entries incl. extra 13.0 verse), https:/ — CE Bhīṣmaparvan 23–40 holds exactly 700 verses, starting at dharmakṣetre and ending at yatra yogeśvaraḥ; the local vulgate corpus has 701 with the extra verse heading ch. 13, as the entry says. Dating accounts kept as entered (scholarly range is within published estimates).
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._

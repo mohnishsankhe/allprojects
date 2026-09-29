@@ -12,4 +12,4 @@
 Sant of Kaṛā (near Allahabad), known for trust in providence ('Malūkdās says: Rām is the giver of all') and for teaching the inner Rām beyond sect.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._

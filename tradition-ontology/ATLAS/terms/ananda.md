@@ -21,4 +21,4 @@
 **Related:** [saccidānanda](saccidananda.md)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U01-vedic-samhitas, skeleton:U13-advaita, skeleton:U03-principal-upanisads, skeleton:U24-kali-kaula, skeleton:U20-virasaiva, skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U01-vedic-samhitas, skeleton:U13-advaita, skeleton:U03-principal-upanisads, skeleton:U24-kali-kaula, skeleton:U20-virasaiva, skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._

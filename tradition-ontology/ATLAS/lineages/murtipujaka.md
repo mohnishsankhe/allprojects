@@ -45,4 +45,4 @@ _none recorded_
 [Should consecrated images of the Jinas be worshipped?](../debates/image-worship-and-inner-worship.md), [Are saving life and giving to the unrestrained part of spiritual dharma?](../debates/terapanthi-daya-dana.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

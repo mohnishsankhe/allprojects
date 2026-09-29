@@ -16,4 +16,4 @@ A Sanskrit Vīraśaiva work in verse, edited in two volumes by the Oriental Rese
 _Notes: Commonly described as a Vīraśaiva recasting of Śrīkaṇṭha's Brahmasūtra doctrine — low confidence; verify._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._

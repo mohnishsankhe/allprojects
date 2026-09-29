@@ -12,4 +12,4 @@ The Goddess is 'very hard to reach for those turned outward' (LSN 162).
   - [Lalitā Sahasranāma](../texts/lalita-sahasranama.md) — ref: 162; rests_on: ["tea:lalita-sahasranama:162"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._

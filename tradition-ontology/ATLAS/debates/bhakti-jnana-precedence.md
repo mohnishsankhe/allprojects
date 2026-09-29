@@ -35,4 +35,4 @@ Under P3 the paths suit different temperaments; under P4 devotion is a means tha
 **The traditions' own objections:** Gauḍīya and other Vaiṣṇava readers reject the reading of bhakti as a mere means to non-dual knowledge; Advaita readers reject the claim that devotion is higher than liberation.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._

@@ -15,4 +15,4 @@
 **Related:** [nāyikā-bhāva](nayika-bhava.md), [kātal](katal.md)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._

@@ -26,4 +26,4 @@ concepts: [Viṭṭhala of Paṇḍharpūr](../concepts/vitthala-of-pandharpur.m
 _Notes: Umbrella id for the Pāṇḍuraṅga-māhātmya texts; individual versions not yet distinguished (see REPORT gaps)._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._

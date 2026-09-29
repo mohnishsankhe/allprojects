@@ -21,4 +21,4 @@ The ankles placed under the scrotum at the sides of the perineum, crossed (left 
 _Notes: Yoga Yājñavalkya ch. 3 is recalled (low confidence) to describe eight postures: svastika, gomukha, padma, vīra, siṃha, bhadra, mukta, mayūra._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._

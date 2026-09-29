@@ -1,6 +1,6 @@
 # The channels (nāḍī)
 
-`cpt:nadis` · `skeleton` · confidence high
+`cpt:nadis` · `sourced` · confidence high
 
 **Category:** body-energy
 **Members:** Alambusā, Kuhū, Viśvodarā, Vāruṇā, Hastijihvā, Yaśasvatī, Aśvinī, Gāndhārī, Pūṣā, Śaṅkhinī, Sarasvatī, Iḍā, Piṅgalā, Suṣumnā, iḍā, piṅgalā, suṣumnā, gāndhārī, hastijihvā, pūṣā, yaśasvinī, alambuṣā, kuhū, śaṅkhinī
@@ -22,4 +22,8 @@
 _Notes: Names as in the eBhāratī text of the Bhāvanā Upaniṣad (variant: Payasvinī for Aśvinī)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U03-principal-upanisads, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/katha-upanisad/segments.js — Located: 101 channels (KU 2.3.16; ChU 8.6.6); 72,000 hitā channels (BĀU 2.1.19 'hitā nāma nāḍyo dvāsaptatiḥ sahasrāṇi'); 101 × 100 × 72,000 branch channels in which vyāna moves (PrU 3.6); coloured fluids and the sun's rays (ChU 8.6.1); suṣumṇā (MaiU 6.21). All 6 Upaniṣad refs cited in the entry are located in the prepared segments (KU 2.3.16; ChU 8.6.6; BĀU 2.1.19; PrU 3.6; ChU 8.6.1; MaiU 6.21). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U03-principal-upanisads, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._

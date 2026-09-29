@@ -47,4 +47,4 @@ concepts: [Fate and effort in jyotiṣa](../concepts/daiva-and-purusakara-jyotis
 _Notes: Local e-texts: GRETIL and Pingree's edition._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._

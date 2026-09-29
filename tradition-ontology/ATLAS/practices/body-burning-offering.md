@@ -3,8 +3,8 @@
 `prc:body-burning-offering` · `skeleton` · confidence high · _restricted: summary only_
 
 **Category:** devotion-service
-**Convergence:** 3 independent lineage(s): `lin:chan`, [Mahāyāna](../lineages/mahayana.md), `lin:tiantai`
-**Taught in:** `lin:chan`, [Mahāyāna](../lineages/mahayana.md), `lin:tiantai`
+**Convergence:** 3 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md), [Mahāyāna](../lineages/mahayana.md), `lin:tiantai`
+**Taught in:** [Chan (Chinese Meditation school)](../lineages/chan.md), [Mahāyāna](../lineages/mahayana.md), `lin:tiantai`
 
 The Lotus's Bhaiṣajyarāja chapter praises a past bodhisattva who burned his body as an offering and says burning a finger or toe at a stūpa exceeds offering kingdoms; East Asian ordination customs of burning incense marks derive from it. Summary only.
 **Sources:** 
@@ -17,4 +17,4 @@ The Lotus's Bhaiṣajyarāja chapter praises a past bodhisattva who burned his b
 _Notes: Restricted category: no method recorded._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

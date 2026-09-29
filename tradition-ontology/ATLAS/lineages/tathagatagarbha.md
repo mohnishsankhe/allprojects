@@ -5,7 +5,7 @@
 **Family:** ascetic
 **Alternate names:** Buddha-nature teaching, buddhadhātu / buddhagotra teaching, rulaizang 如來藏 (Chinese), foxing 佛性 (Chinese), de bzhin gshegs pa'i snying po / bde gshegs snying po (Tibetan), Maitreya's 'last wheel' teaching (Tibetan usage)
 **Parent:** [Mahāyāna](mahayana.md)
-**Key teachers:** [Śrīmālā](../teachers/srimala.md), [Sāramati](../teachers/saramati.md), [Asaṅga](../teachers/asanga.md), [Maitreyanātha](../teachers/maitreyanatha.md), [Ratnamati](../teachers/ratnamati.md), [Dharmakṣema](../teachers/dharmaksema.md), [Daosheng](../teachers/daosheng.md), [Paramārtha](../teachers/paramartha.md), [Ngok Loden Sherab](../teachers/ngok-loden-sherab.md), `tch:dolpopa`, [Rangjung Dorje (Third Karmapa)](../teachers/rangjung-dorje.md), [Gö Lotsawa Zhönnu Pel](../teachers/go-lotsawa.md), [Gyaltsab Je](../teachers/gyaltsab-je.md), `tch:jamgon-kongtrul`, `tch:mipham`
+**Key teachers:** [Śrīmālā](../teachers/srimala.md), [Sāramati](../teachers/saramati.md), [Asaṅga](../teachers/asanga.md), [Maitreyanātha](../teachers/maitreyanatha.md), [Ratnamati](../teachers/ratnamati.md), [Dharmakṣema](../teachers/dharmaksema.md), [Daosheng](../teachers/daosheng.md), [Paramārtha](../teachers/paramartha.md), [Ngok Loden Sherab](../teachers/ngok-loden-sherab.md), `tch:dolpopa`, [Rangjung Dorje (Third Karmapa)](../teachers/rangjung-dorje.md), [Gö Lotsawa Zhönnu Pel](../teachers/go-lotsawa.md), [Gyaltsab Je](../teachers/gyaltsab-je.md), [Jamgön Kongtrul Lodrö Thaye ('jam mgon kong sprul blo gros mtha' yas)](../teachers/jamgon-kongtrul.md), [Mipham Jamyang Namgyal Gyatso ('ju mi pham)](../teachers/mipham.md)
 **Regions:** India (Andhra? — scholarly), Central Asia, China, Korea, Japan, Tibet
 **Dates:** Tradition's account: Taught by the Buddha in the 'third turning' (Tibetan) / in his last teaching before parinirvāṇa (Mahāparinirvāṇa); the Ratnagotravibhāga taught by Maitreya to Asaṅga (Tibetan account); Scholarly account: Tathāgatagarbha sūtras c. 3rd c. CE (Tathāgatagarbha Sūtra, Śrīmālā, Mahāparinirvāṇa core); Ratnagotravibhāga c. 4th-5th c.; Chinese translation 511; (confidence moderate)
 **Status:** absorbed
@@ -24,12 +24,12 @@ The strand of Mahāyāna sūtras and treatises teaching that every sentient bein
   - [Mahāyāna](mahayana.md) — what: the Mahāyāna path and the Prajñāpāramitā teaching of emptiness, which the Tathāgatagarbha texts re-read ('empty of adventitious stains, not empty of the buddha-qualities'); evidence: RGV 1.154-155; Śrīmālā ch. 9
   - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](early-buddhism.md) — what: the luminous mind (pabhassara citta) obscured by adventitious defilements (AN 1.51-52); evidence: shared-vocabulary
 **Transmissions given:** 
-  - `lin:chan` — what: buddha-nature, the one mind, 'seeing the nature'
+  - [Chan (Chinese Meditation school)](chan.md) — what: buddha-nature, the one mind, 'seeing the nature'
   - `lin:huayan` — what: the tathāgatagarbha as the one mind (Awakening of Faith)
   - `lin:tiantai` — what: buddha-nature of all beings, including insentient (Zhanran)
   - `lin:jonang` — what: shentong: the dharmakāya empty of other
   - `lin:kagyu` — what: buddha-nature as ground of Mahāmudrā (Gampopa, Rangjung Dorje)
-  - `lin:nyingma` — what: buddha-nature as the ground (gzhi) in Dzogchen
+  - [Nyingma (the Ancient / Old Translation school)](nyingma.md) — what: buddha-nature as the ground (gzhi) in Dzogchen
   - `lin:gelug` — what: buddha-nature read as the emptiness of the mind (a naturally abiding lineage), the RGV read through Madhyamaka
 
 ## The ultimate in this lineage
@@ -46,7 +46,7 @@ The strand of Mahāyāna sūtras and treatises teaching that every sentient bein
 [Aṅgulimālīya-sūtra](../texts/angulimaliya-sutra.md), [Anūnatvāpūrṇatvanirdeśa](../texts/anunatvapurnatvanirdesa.md), [Dasheng qixin lun (Awakening of Faith in the Mahāyāna)](../texts/dasheng-qixin-lun.md), [Dhāraṇīśvararāja-paripṛcchā (Tathāgatamahākaruṇānirdeśa)](../texts/dharanisvararaja-sutra.md), [Dharmadhātustava](../texts/dharmadhatustava.md), [Foxing lun (Treatise on Buddha-Nature)](../texts/foxing-lun.md), [Gaganagañjaparipṛcchā](../texts/gaganaganjapariprccha.md), [Ghanavyūha-sūtra](../texts/ghanavyuha-sutra.md), [Jñānālokālaṃkāra-sūtra](../texts/jnanalokalamkara-sutra.md), [Laṅkāvatāra-sūtra](../texts/lankavatara-sutra.md), [Mahābherīhārakaparivarta](../texts/mahabheriharaka-sutra.md), [Mahāmegha-sūtra](../texts/mahamegha-sutra.md), [Mahāyāna Mahāparinirvāṇa-sūtra](../texts/mahaparinirvana-sutra-mahayana.md), [De bzhin gshegs pa'i snying po bstan pa (Rangjung Dorje's Treatise on Buddha-Nature)](../texts/nyingpo-tenpa.md), [Ratnagotravibhāga (Mahāyānottaratantraśāstra)](../texts/ratnagotravibhaga.md), [Ratnagotravibhāgavyākhyā](../texts/ratnagotravibhaga-vyakhya.md), [Sāgaramatiparipṛcchā](../texts/sagaramatipariprccha.md), [Śrīmālādevīsiṃhanāda-sūtra](../texts/srimaladevi-sutra.md), [Bde gshegs snying po'i stong thun chen mo seng ge'i nga ro (Mipham)](../texts/sugatagarbha-lions-roar-mipham.md), [Tathāgatagarbha-sūtra](../texts/tathagatagarbha-sutra.md), [Tathāgatotpattisaṃbhavanirdeśa](../texts/tathagatotpattisambhavanirdesa.md), [Rgyud bla ma'i 'grel bshad de kho na nyid rab tu gsal ba'i me long (Gö Lotsawa)](../texts/uttaratantra-commentary-go-lotsawa.md), [Theg pa chen po rgyud bla ma'i ṭīkā (Gyaltsab Je's commentary on the Uttaratantra)](../texts/uttaratantra-commentary-gyaltsab.md), [Rgyud bla ma'i 'grel pa phyir mi ldog pa seng ge'i nga ro (Jamgön Kongtrul)](../texts/uttaratantra-commentary-kongtrul.md), [Vajrasamādhi-sūtra (Jingang sanmei jing)](../texts/vajrasamadhi-sutra.md), [Yuanjue jing (Sūtra of Perfect Enlightenment)](../texts/yuanjue-jing.md)
 
 ## Teachers
-[Asaṅga](../teachers/asanga.md), [Daosheng](../teachers/daosheng.md), [Dharmakṣema](../teachers/dharmaksema.md), `tch:dolpopa`, [Gö Lotsawa Zhönnu Pel](../teachers/go-lotsawa.md), [Guṇabhadra](../teachers/gunabhadra.md), [Gyaltsab Je](../teachers/gyaltsab-je.md), `tch:jamgon-kongtrul`, [Maitreya (the bodhisattva, future buddha)](../teachers/maitreya-bodhisattva.md), [Maitreyanātha](../teachers/maitreyanatha.md), `tch:mipham`, [Ngok Loden Sherab](../teachers/ngok-loden-sherab.md), [Paramārtha](../teachers/paramartha.md), [Rangjung Dorje (Third Karmapa)](../teachers/rangjung-dorje.md), [Ratnamati](../teachers/ratnamati.md), [Sāramati](../teachers/saramati.md), [Śrīmālā](../teachers/srimala.md)
+[Asaṅga](../teachers/asanga.md), [Daosheng](../teachers/daosheng.md), [Dharmakṣema](../teachers/dharmaksema.md), `tch:dolpopa`, [Gö Lotsawa Zhönnu Pel](../teachers/go-lotsawa.md), [Guṇabhadra](../teachers/gunabhadra.md), [Gyaltsab Je](../teachers/gyaltsab-je.md), [Jamgön Kongtrul Lodrö Thaye ('jam mgon kong sprul blo gros mtha' yas)](../teachers/jamgon-kongtrul.md), [Maitreya (the bodhisattva, future buddha)](../teachers/maitreya-bodhisattva.md), [Maitreyanātha](../teachers/maitreyanatha.md), [Mipham Jamyang Namgyal Gyatso ('ju mi pham)](../teachers/mipham.md), [Ngok Loden Sherab](../teachers/ngok-loden-sherab.md), [Paramārtha](../teachers/paramartha.md), [Rangjung Dorje (Third Karmapa)](../teachers/rangjung-dorje.md), [Ratnamati](../teachers/ratnamati.md), [Sāramati](../teachers/saramati.md), [Śrīmālā](../teachers/srimala.md)
 
 ## Practices
 [Arousing the thought of awakening (bodhicittotpāda)](../practices/bodhicittotpada.md), [Taking the bodhisattva vows (praṇidhāna)](../practices/bodhisattva-vow.md), [Abstaining from meat (Mahāyāna)](../practices/vegetarian-discipline.md)
@@ -55,9 +55,9 @@ The strand of Mahāyāna sūtras and treatises teaching that every sentient bein
 _none recorded_
 
 ## Debates
-_none recorded_
+[Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md)
 
 _Notes: Status 'absorbed': not an independent institutional lineage; the teaching lives on in the Chinese, Korean, Japanese and Tibetan schools listed in transmissions_given._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

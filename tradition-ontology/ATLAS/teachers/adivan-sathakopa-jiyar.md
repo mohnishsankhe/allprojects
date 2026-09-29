@@ -10,4 +10,4 @@
 Founder of the Ahobila maṭha of the Vaṭakalai (traditionally 1398), who, the tradition says, received his renunciation from Lakṣmī-Nṛsiṃha of Ahobilam himself.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._

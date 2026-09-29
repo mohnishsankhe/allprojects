@@ -28,6 +28,16 @@ Invalidity is intrinsic and validity extrinsic — as reported in the same doxog
 - Reported; to be checked against Śāntarakṣita's Tattvasaṅgraha.
 **Texts:** 
   - [Sarvadarśanasaṃgraha](../texts/sarvadarsanasangraha.md) — ref: Jaimini chapter
+### [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
+Validity is known through practical activity (vyavahāra) — whether the cognition leads to the object's efficacy (Dharmakīrti, PV Pramāṇasiddhi 5, conventional).
+- non-deception
+**Texts:** 
+  - [Pramāṇavārttika](../texts/pramanavarttika.md) — ref: 1.7 (e-text)
+### [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md)
+There is no single rule: some cognitions (self-awareness, inference, habituated perception, cognitions of efficacy) are valid by themselves, others only extrinsically (Śāntarakṣita and Kamalaśīla, as recalled).
+- Tattvasaṃgraha, Svataḥprāmāṇyaparīkṣā (recalled)
+**Texts:** 
+  - [Tattvasaṅgraha of Śāntarakṣita](../texts/tattvasangraha.md) — ref: Svataḥprāmāṇyaparīkṣā
 
 ## Reconciliation (interpretation layer)
 **Status:** not yet reconciled (queued)
@@ -39,4 +49,4 @@ Invalidity is intrinsic and validity extrinsic — as reported in the same doxog
 _Notes: The four-way doxographic schema (Sāṃkhya: both intrinsic; Nyāya: both extrinsic; Buddhists: invalidity intrinsic; Mīmāṃsā: validity intrinsic) is recalled from later doxography._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

@@ -15,4 +15,4 @@ Author of the Kṛtyakalpataru, the digest that systematised Purāṇic teaching
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Govindachandra_(Gahadavala_dynasty) — Confirmed: courtier of the Gāhaḍavāla Govindacandra (r. c. 1114–1155), matching the entry.
 
-_Contributed by: skeleton:U07-puranas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._

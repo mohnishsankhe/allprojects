@@ -5,7 +5,7 @@
 **Alternate titles:** Shoulengyan sanmei jing 首楞嚴三昧經 (T642, Kumārajīva 402-409), dpa' bar 'gro ba'i ting nge 'dzin (Toh 132)
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:chan`, `lin:tiantai`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Chan (Chinese Meditation school)](../lineages/chan.md), `lin:tiantai`
 **Genre:** sūtra (samādhi)
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); scholarly: Anonymous; Lokakṣema's lost Chinese (2nd c.) shows an early date; confidence: high
 **Dates:** Scholarly account: 1st-2nd c. CE; (confidence moderate)
@@ -28,4 +28,4 @@ terms: [śūraṅgama-samādhi](../terms/surangama-samadhi.md)
 _Notes: Distinct from the Chinese Śūraṅgama Sūtra (src:surangama-sutra)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

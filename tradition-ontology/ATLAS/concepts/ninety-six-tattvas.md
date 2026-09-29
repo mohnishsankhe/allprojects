@@ -19,4 +19,4 @@
 _Notes: The overall count is certain; the membership given is the one most often printed, recalled at low confidence — some lists include the nine openings (vācal 9) and differ elsewhere. The Varāha Upaniṣad has its own 96._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._

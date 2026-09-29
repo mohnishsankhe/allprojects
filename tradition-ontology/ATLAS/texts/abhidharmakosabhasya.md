@@ -191,7 +191,7 @@ The Vātsīputrīya illustration: as fire is designated in dependence on fuel �
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [pudgala](../terms/pudgala.md), [upādāya-prajñapti](../terms/upadaya-prajnapti.md), [avaktavya](../terms/avaktavya.md) · concepts: [The doctrine of the person (pudgalavāda)](../concepts/pudgala-doctrine.md) · disputes: [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md)
+terms: [pudgala](../terms/pudgala.md), [upādāya prajñapti](../terms/upadaya-prajnapti.md), [avaktavya](../terms/avaktavya.md) · concepts: [The doctrine of the person (pudgalavāda)](../concepts/pudgala-doctrine.md) · disputes: [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md)
 
 ### 9.p462 <a id="tea-abhidharmakosabhasya-9-p462"></a>
 `skeleton` · confidence high
@@ -228,4 +228,4 @@ terms: [santati-pariṇāma-viśeṣa](../terms/santati-parinama-visesa.md), [b�
 
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

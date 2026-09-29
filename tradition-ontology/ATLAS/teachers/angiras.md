@@ -15,5 +15,6 @@ _Notes: Whether tradition identifies him with the Ṛgvedic seer-family ancestor
 **Verification checks**
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Atharvaveda, https://www.wisdomlib.org/hinduism/essay/women-in-the-atharva-veda-samhita/d/doc1146201.html — Confirmed: the AV's oldest name Atharvāṅgirasaḥ (AVŚ 10.7.20); auspicious/appeasing portions ascribed to the Atharvans, the terrible to the Aṅgirases.
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering) — Located: MuU 1.1.3-5 (Śaunaka approaches Aṅgiras) and 3.2.11 ('tad etat satyam ṛṣir aṅgirāḥ purovāca').
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._

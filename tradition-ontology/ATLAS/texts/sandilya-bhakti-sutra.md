@@ -117,4 +117,4 @@ concepts: [The Lord's devotees as one's masters; service to devotees](../concept
 _Notes: Continuous sūtra numbering (100 sūtras in 3 adhyāyas × 2 āhnikas) as recalled; exact numbers not checked — verify against Svapneśvara's edition._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._

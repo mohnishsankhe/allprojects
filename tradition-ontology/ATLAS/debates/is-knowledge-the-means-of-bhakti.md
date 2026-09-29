@@ -50,4 +50,4 @@ Under P3 the knowledge-path makes devotion a preparation or companion of knowled
 _Notes: A narrower debate inside dsp:works-knowledge-grace (U50) and alongside dsp:bhakti-jnana-precedence (U06)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._

@@ -1,12 +1,12 @@
-# Path maps (132)
+# Path maps (142)
 
-skeleton: 130 · sourced: 2
+skeleton: 135 · sourced: 7
 
 - [Action, then knowledge or devotion (Uddhava Gītā 11.20)](uddhava-gita-three-yogas.md) — `skeleton`
 - [Advayatāraka: targets, voids and tāraka](advayataraka-voids.md) — `skeleton`
 - [Amṛtanāda: the six-limbed yoga](amrtanada-six-limbs.md) — `skeleton`
 - [Bhoja's ladder of samprajñāta samādhi (RM 1.17–18)](rajamartanda-samadhi-ladder.md) — `skeleton`
-- [Bhṛgu's five realizations (TU 3)](bhrguvalli-five-realizations.md) — `skeleton`
+- [Bhṛgu's five realizations (TU 3)](bhrguvalli-five-realizations.md) — `sourced`
 - [Caraka's path to release (Śārīrasthāna 1 and 5)](caraka-moksa-path.md) — `skeleton`
 - [Darśana: the eight-limbed yoga](darsana-eight-limbs.md) — `skeleton`
 - [Dattātreya's yoga for Alarka (MkP 38-43)](markandeya-dattatreya-yoga.md) — `skeleton`
@@ -23,19 +23,20 @@ skeleton: 130 · sourced: 2
 - [Haṭhapradīpikā: the four stages of nāda](hyp-nada-four-stages.md) — `skeleton`
 - [Haṭhapradīpikā: the order of practice](hyp-practice-sequence.md) — `skeleton`
 - [Hearing to nirvikalpa samādhi with eight auxiliaries (Vedāntasāra)](vedantasara-samadhi-auxiliaries.md) — `skeleton`
+- [Higher status and definite goodness (Ratnāvalī)](ratnavali-two-goods.md) — `skeleton`
 - [Kapila's sequence of devotion (Bhāgavata 3.25-29)](kapila-gita-bhakti-sequence.md) — `skeleton`
 - [Kapila's yoga with a support (BhP 3.28)](kapila-yoga-bhagavata.md) — `skeleton`
 - [Keśidhvaja's yoga (VP 6.7)](visnu-purana-yoga.md) — `skeleton`
 - [Kumārila's way to release (Bhāṭṭa)](kumarila-moksa.md) — `skeleton`
-- [Learning, childlikeness, silence (BAU 3.5.1)](panditya-balya-mauna.md) — `skeleton`
+- [Learning, childlikeness, silence (BAU 3.5.1)](panditya-balya-mauna.md) — `sourced`
 - [Maharshi Mehi's graded practice](maharshi-mehi-four-practices.md) — `skeleton` _(recent)_
 - [Mahā Upaniṣad: seven stages of ignorance and seven of knowledge](maha-fourteen-bhumikas.md) — `skeleton`
 - [Maṇḍalabrāhmaṇa: eight limbs, tāraka and amanaska](mandalabrahmana-eight-limbs.md) — `skeleton`
 - [Muktikā: the path to liberation](muktika-path.md) — `skeleton`
 - [Nādabindu: the stages of the inner sound](nadabindu-nada-stages.md) — `skeleton`
 - [Outer self, inner self, supreme self](three-atmans.md) — `skeleton`
-- [Prajāpati's four instructions to Indra (ChU 8.7-12)](indra-prajapati-four-instructions.md) — `skeleton`
-- [Sanatkumāra's ladder to plenitude (ChU 7)](bhuma-vidya-ladder.md) — `skeleton`
+- [Prajāpati's four instructions to Indra (ChU 8.7-12)](indra-prajapati-four-instructions.md) — `sourced`
+- [Sanatkumāra's ladder to plenitude (ChU 7)](bhuma-vidya-ladder.md) — `sourced`
 - [Tejobindu: the fifteen limbs](tejobindu-fifteen-limbs.md) — `skeleton`
 - [Ten stages of increasing shedding (Tattvārthasūtra 9.45)](tattvartha-ten-stages-of-nirjara.md) — `skeleton`
 - [The 101 sthalas of the Siddhāntaśikhāmaṇi (ekottaraśata-sthala)](siddhantasikhamani-101-sthalas.md) — `skeleton`
@@ -57,6 +58,7 @@ skeleton: 130 · sourced: 2
 - [The final sequence of the Kaivalya-pāda (YS 4.25–34)](yoga-sutra-kaivalya-sequence.md) — `skeleton`
 - [The five limbs of puraścaraṇa (mastery of a mantra)](purascarana-five-limbs.md) — `skeleton`
 - [The five means of YS 1.20 as a sequence (YBh 1.20)](yoga-sutra-five-means.md) — `skeleton`
+- [The five stages of cognition-only practice (Cheng weishi lun)](cheng-weishi-lun-five-stages.md) — `skeleton`
 - [The five stages of the Pāśupata path (avasthā-pañcaka)](pasupata-five-stages.md) — `skeleton`
 - [The five yogas of the Yogaviṃśikā](yogavimsika-five-yogas.md) — `skeleton`
 - [The fixed round to purity (Ājīvika, as reported)](ajivika-samsara-suddhi.md) — `skeleton`
@@ -77,9 +79,10 @@ skeleton: 130 · sourced: 2
 - [The grammarians' path of the Word (śabdapūrva-yoga)](vyakarana-sabdapurva-yoga.md) — `skeleton`
 - [The growth of devotion (Vallabha's Bhaktivardhinī)](vallabha-bhaktivardhini-stages.md) — `skeleton`
 - [The heart-lotus meditation taught to Uddhava (BhP 11.14.32-46)](bhagavata-hrt-padma-dhyana.md) — `skeleton`
-- [The Kaṭha's inward withdrawal (KU 1.3.13)](katha-inward-withdrawal.md) — `skeleton`
+- [The Kaṭha's inward withdrawal (KU 1.3.13)](katha-inward-withdrawal.md) — `sourced`
 - [The ladder of births to name-recitation (Rudrayāmala, quoted by Bhāskararāya)](rudrayamala-births-to-srividya.md) — `skeleton`
 - [The ladder of goals in Caitanya's dialogue with Rāmānanda Rāya (CC 2.8)](ramananda-samvada-ladder.md) — `skeleton`
+- [The ladder of views (Madhyamakālaṃkāra 92–93)](madhyamakalamkara-ladder.md) — `skeleton`
 - [The lamp of knowledge (Rāmcaritmānas 7.117–118)](manas-jnana-dipa.md) — `skeleton`
 - [The life-cycle of sacraments (saṃskāra), conception to ancestorhood](samskara-life-cycle.md) — `sourced`
 - [The limbs of yoga in the Mṛgendra (seven auxiliaries and yoga as the eighth)](mrgendra-yoga-limbs.md) — `skeleton`
@@ -96,7 +99,9 @@ skeleton: 130 · sourced: 2
 - [The proximate causes of liberation (Upanisa Sutta, SN 12.23)](transcendental-dependent-origination.md) — `skeleton`
 - [The Prābhākara way to release (Śālikanātha)](prabhakara-moksa.md) — `skeleton`
 - [The Rāma Gītā's path from duty to merging (Adhyātma Rāmāyaṇa 7.5)](rama-gita-sequence.md) — `skeleton`
+- [The sequence of the Bodhicaryāvatāra](bodhicaryavatara-sequence.md) — `skeleton`
 - [The sequence of the renunciation rite](sannyasa-rite-sequence.md) — `skeleton`
+- [The seven attentions to the first absorption (Śrāvakabhūmi)](sravakabhumi-seven-attentions.md) — `skeleton`
 - [The seven modes of conduct (Kulārṇava)](kaula-seven-acaras.md) — `skeleton`
 - [The seven states of the jīva (Pañcadaśī 7)](pancadasi-seven-states.md) — `skeleton`
 - [The seven ullāsas (Kulārṇava)](kaula-seven-ullasas.md) — `skeleton`
@@ -105,14 +110,18 @@ skeleton: 130 · sourced: 2
 - [The sixteen contemplations of the Contemplation Sūtra](sixteen-contemplations.md) — `skeleton`
 - [The sixteen steps of mindfulness of breathing (MN 118)](anapanasati-sixteen-steps.md) — `skeleton`
 - [The stages of love from prema to mahābhāva (Ujjvalanīlamaṇi)](ujjvalanilamani-prema-ladder.md) — `skeleton`
+- [The stages of meditation (Kamalaśīla)](bhavanakrama-stages.md) — `skeleton`
 - [The stages of Nāth initiation](natha-initiation-stages.md) — `skeleton`
 - [The Sāṃkhya Kārikā's path from suffering to isolation](samkhya-karika-path.md) — `skeleton`
 - [The Sāṃkhya Sūtra's path of meditation and discrimination](samkhya-sutra-path.md) — `skeleton`
 - [The ten acts (daśakārya / tacakāriyam) of Tamil Śaiva Siddhānta](saiva-siddhanta-ten-karyas.md) — `skeleton`
 - [The ten grounds of the bodhisattva (Mahāvastu)](mahavastu-ten-bhumis.md) — `skeleton`
+- [The ten grounds of the Madhyamakāvatāra](madhyamakavatara-ten-grounds.md) — `skeleton`
 - [The three dispositions (paśu, vīra, divya)](three-bhavas.md) — `skeleton`
 - [The three kinds of worship (Yoginīhṛdaya)](yoginihrdaya-three-pujas.md) — `skeleton`
 - [The three stages of the Sahajiyā path](sahajiya-three-stages.md) — `skeleton`
+- [The three turnings away (Catuḥśataka 8.15)](catuhsataka-three-turnings.md) — `skeleton`
+- [The twelve bodhisattva abodes and the Tathāgata's abode (Bodhisattvabhūmi)](bodhisattvabhumi-thirteen-viharas.md) — `skeleton`
 - [The Vaiśeṣika path to liberation (mokṣa)](vaisesika-path-to-moksa.md) — `skeleton`
 - [The Vedic course of dharma (Mīmāṃsā account)](mimamsa-vedic-dharma-life.md) — `skeleton`
 - [The Vedic ritual career: from initiation to the soma rites and the world of the fathers](srauta-sequence.md) — `skeleton`
@@ -121,6 +130,7 @@ skeleton: 130 · sourced: 2
 - [The way of surrender (Śrīvaiṣṇava prapatti)](srivaisnava-prapatti.md) — `skeleton`
 - [The Yogadīpikā's graded disciplines](yogadipika-graded-disciplines.md) — `skeleton`
 - [The yogin's gradual ascent after death (BhP 2.2.22-31)](bhagavata-krama-mukti.md) — `skeleton`
+- [The Yogācāra entry through mind-only to the grounds (Mahāyānasūtrālaṃkāra 14)](yogacara-entry-into-mind-only.md) — `skeleton`
 - [The Śrīvidyā sequence of initiation and worship (Paraśurāma Kalpasūtra)](srividya-krama-diksa.md) — `skeleton`
 - [Tirumūlar's eight limbs (aṭṭāṅka yōkam, TM 3rd tantra)](tirumantiram-eight-limbs.md) — `skeleton`
 - [Triśikhibrāhmaṇa: the limbs of the yoga of knowledge](trisikhi-eight-limbs.md) — `skeleton`

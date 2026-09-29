@@ -23,4 +23,4 @@ The pupil learns the text orally from the teacher in the continuous form (saṃh
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/shixA/sAdhAraNI/paniniya_shiksha.md (60 verses), text:sources_raw/raw_etexts/shixA/Rg-vedaH/rik_veda_pratishakhya.md — PŚ 25 and 31–33 were found. RPr paṭalas 10–11 are the krama chapters: paṭala 10 opens 'kramo dvābhyām …' and 11 ends with the study 'padaiḥ svaraiś ca'. The Vikṛtivallī was confirmed as a source. This rests on confirmed teaching checks: tea:paniniya-siksa:25, tea:paniniya-siksa:31-33.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._

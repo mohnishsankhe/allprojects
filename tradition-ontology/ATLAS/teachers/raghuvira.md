@@ -11,4 +11,4 @@
 Author of the Kumbhakapaddhati, a manual devoted to the kinds of breath-retention.
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._

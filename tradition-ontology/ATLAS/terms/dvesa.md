@@ -18,4 +18,4 @@
 **Related:** [rāga](raga.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._

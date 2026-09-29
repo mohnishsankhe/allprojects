@@ -16,5 +16,17 @@ Dharmakīrti's treatise on the valid reason: why only effect, own-nature and non
   - kind: original; name: Tibetan: Derge D4213
 **Commentaries on this text:** [Hetubinduṭīkā](hetubindutika.md)
 
+## Teachings (1: skeleton 1)
+
+### 1 <a id="tea-hetubindu-1"></a>
+`skeleton` · confidence moderate
+
+Only three kinds of reason are valid — own-nature, effect and non-perception — because only these rest on a necessary connection (identity or causality) between reason and property.
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: dispute_
+
+concepts: [The three kinds of valid reason](../concepts/three-kinds-of-reason.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md)
+
+
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

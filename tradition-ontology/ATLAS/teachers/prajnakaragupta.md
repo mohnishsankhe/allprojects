@@ -9,7 +9,7 @@
 **Works:** 
   - [Pramāṇavārttikālaṅkāra](../texts/pramanavarttikalankara.md) — attribution: accepted
 
-Author of the Pramāṇavārttikālaṅkāra, the 'religious' reading of Dharmakīrti that stresses the Buddha's authority, the ultimate non-duality of cognition and the path; head of the 'philosophical' line of commentators in Tibetan classification.
+Author of the Pramāṇavārttikālaṅkāra, a reading of Dharmakīrti that stresses the Buddha's authority, the ultimate non-duality of cognition and the path; Tibetan scholastics treat him as the head of a distinct line of commentators (classification recalled).
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

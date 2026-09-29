@@ -23,4 +23,4 @@
 _Notes: In yoga texts vibhūti also means yogic power; the Gītā's sense is the Lord's glory._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U20-virasaiva, skeleton:U10-yoga, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U20-virasaiva, skeleton:U10-yoga, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._

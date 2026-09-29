@@ -14,4 +14,4 @@ Dedicating every action to the Lord (Nārada's own definition of devotion, NBS 1
 - partial: [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](isvararpana.md) — the Gītā's offering of all acts to the Lord (BhG 9.27)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._

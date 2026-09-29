@@ -16,4 +16,4 @@ Vacanas of a woman śaraṇa of humble occupation (remembered as a sweeper), aff
 _Notes: Cited by incipit; edition numbering to be fixed in Phase D._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._

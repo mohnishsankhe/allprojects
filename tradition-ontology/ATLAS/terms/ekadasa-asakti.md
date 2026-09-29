@@ -13,4 +13,4 @@
 - partial: [navadhā bhakti](navadha-bhakti.md) — overlapping lists: remembrance, worship, service, friendship and self-offering are common; NBS adds form, parental and conjugal love, absorption and separation, and lacks hearing, singing, feet-service and obeisance as separate items
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._

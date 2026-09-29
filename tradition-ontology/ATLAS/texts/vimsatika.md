@@ -31,7 +31,7 @@ All this is cognition-only, because non-existent objects appear, as a person wit
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate, consciousness-mind_
 
-terms: [vijñaptimātra](../terms/vijnaptimatra.md), `trm:taimirika` · concepts: `cpt:vijnaptimatrata` · teachers: [Vasubandhu](../teachers/vasubandhu.md) · disputes: [Are there objects external to cognition?](../debates/external-objects.md)
+terms: [vijñapti-mātra](../terms/vijnaptimatra.md), [taimirika](../terms/taimirika.md) · concepts: [Cognition-only (vijñaptimātratā)](../concepts/vijnaptimatrata.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md) · disputes: [Are there objects external to cognition?](../debates/external-objects.md)
 
 ### 2 <a id="tea-vimsatika-2"></a>
 `skeleton` · confidence high
@@ -71,7 +71,7 @@ The Buddha taught the existence of the sense-fields (form etc.) with a particula
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: intermediate · types: ultimate, teacher-transmission_
 
-terms: [āyatana](../terms/ayatana.md), `trm:pudgala-nairatmya`, `trm:dharma-nairatmya`, `trm:abhipraya` · concepts: [The two selflessnesses](../concepts/two-selflessnesses.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md) · disputes: `dsp:provisional-definitive-yogacara`
+terms: [āyatana](../terms/ayatana.md), [pudgala-nairātmya](../terms/pudgala-nairatmya.md), [dharma-nairātmya](../terms/dharma-nairatmya.md), [abhiprāya](../terms/abhipraya.md) · concepts: [The two selflessnesses](../concepts/two-selflessnesses.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md) · disputes: [Which turning of the dharma-wheel is of definitive meaning (nītārtha): the teaching of emptiness (second) or the 'well-distinguished' teaching of the three natures and of buddha-nature (third)?](../debates/which-turning-is-definitive.md)
 
 ### 11-14 <a id="tea-vimsatika-11-14"></a>
 `skeleton` · confidence high
@@ -93,7 +93,7 @@ Perceptual awareness occurs as in a dream; and when it occurs, the object is no 
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: consciousness-mind, ultimate_
 
-terms: [svapna](../terms/svapna.md), [pratyakṣa](../terms/pratyaksa.md) · concepts: `cpt:vijnaptimatrata` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [svapna](../terms/svapna.md), [pratyakṣa](../terms/pratyaksa.md) · concepts: [Cognition-only (vijñaptimātratā)](../concepts/vijnaptimatrata.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 18 <a id="tea-vimsatika-18"></a>
 `skeleton` · confidence high
@@ -102,7 +102,7 @@ Cognitions are determined by one another through mutual dominant influence; in d
 
 _level: conventional · standpoint: causal · path: knowledge · stage: intermediate · types: karma-liberation, consciousness-mind_
 
-terms: `trm:adhipati-pratyaya` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [adhipati-pratyaya](../terms/adhipati-pratyaya.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 19-20 <a id="tea-vimsatika-19-20"></a>
 `skeleton` · confidence high
@@ -113,7 +113,7 @@ Death is a transformation produced by a particular cognition of another, as loss
 
 _level: conventional · standpoint: causal · path: action, knowledge · stage: all · types: karma-liberation, ethics, death-dying_
 
-terms: `trm:manodanda`, [karma](../terms/karma.md) · concepts: `cpt:mental-karma-primacy` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [mano-daṇḍa](../terms/manodanda.md), [karma](../terms/karma.md) · concepts: [The primacy of mental action](../concepts/mental-karma-primacy.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 21 <a id="tea-vimsatika-21"></a>
 `skeleton` · confidence high
@@ -122,7 +122,7 @@ The knowledge of those who know others' minds is not in accord with its object, 
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: advanced · types: powers-experiences, consciousness-mind_
 
-terms: `trm:paracittajnana` · concepts: `cpt:abhijna-yogacara` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [paracitta-jñāna](../terms/paracittajnana.md) · concepts: [Higher knowledges and their limits (Yogācāra)](../concepts/abhijna-yogacara.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 22 <a id="tea-vimsatika-22"></a>
 `skeleton` · confidence high
@@ -133,10 +133,10 @@ I have composed this proof of cognition-only according to my ability; in all its
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: all · types: ultimate_
 
-terms: `trm:vijnaptimatrata`, `trm:buddhagocara` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [vijñapti-mātratā](../terms/vijnaptimatrata.md), [buddha-gocara](../terms/buddhagocara.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 
 _Notes: Verse 1 is not preserved in the Sanskrit manuscript and is reconstructed from the vṛtti. Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

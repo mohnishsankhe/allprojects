@@ -36,4 +36,4 @@ concepts: [The ultimate and conventional standpoints (niścaya and vyavahāra)](
 
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._

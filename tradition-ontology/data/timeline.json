@@ -1,5 +1,25 @@
 [
  {
+  "entity": "tch:tonpa-shenrab",
+  "label": "Tönpa Shenrab Miwoche (ston pa gshen rab mi bo che)",
+  "account": "tradition",
+  "from": -16017,
+  "to": null,
+  "text": "born in 16,017 BCE by a traditional Bön reckoning",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:bon",
+  "label": "Bön (Yungdrung Bön)",
+  "account": "tradition",
+  "from": -16017,
+  "to": null,
+  "text": "taught by Tönpa Shenrab Miwoche in Ölmo Lungring (Tagzig) many millennia before Śākyamuni (a traditional Bön reckoning places his birth in 16,017 BCE); transmitted through Zhang Zhung to Tibet",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:mahabharata",
   "label": "Mahābhārata",
   "account": "tradition",
@@ -1267,7 +1287,7 @@
   "to": -500,
   "text": "c. 7th-6th c. BCE (rough estimate; with BAU the oldest)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:brhadaranyaka-upanisad",
@@ -1277,7 +1297,7 @@
   "to": -500,
   "text": "c. 7th-6th c. BCE (rough estimate; widely held to be pre-Buddhist)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "lin:nairukta",
@@ -1297,7 +1317,7 @@
   "to": 200,
   "text": "earliest prose Upaniṣads (BAU, ChU) c. 7th-6th c. BCE; the verse Upaniṣads (Katha, Isa, Śvetāśvatara, Muṇḍaka) in the last centuries BCE; Māṇḍūkya and Maitrī around the turn of the era (rough consensus estimates, disputed)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "tch:gotama-buddha",
@@ -1327,7 +1347,7 @@
   "to": -400,
   "text": "c. 6th-5th c. BCE (rough estimate)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:aitareya-upanisad",
@@ -1337,7 +1357,7 @@
   "to": -400,
   "text": "c. 6th-5th c. BCE (rough estimate)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:kausitaki-upanisad",
@@ -1347,7 +1367,7 @@
   "to": -400,
   "text": "c. 6th-5th c. BCE (rough estimate)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "tch:yaska",
@@ -1487,7 +1507,7 @@
   "to": -200,
   "text": "c. 5th-3rd c. BCE (rough estimate)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:kena-upanisad",
@@ -1497,7 +1517,7 @@
   "to": -300,
   "text": "c. 5th-4th c. BCE; the prose khandas possibly older than the verses (disputed)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:katha-upanisad",
@@ -1507,7 +1527,7 @@
   "to": -200,
   "text": "c. 5th-3rd c. BCE (rough estimate)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:ramayana",
@@ -1757,7 +1777,7 @@
   "to": 0,
   "text": "c. 4th-1st c. BCE (rough estimate)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:svetasvatara-upanisad",
@@ -1767,7 +1787,7 @@
   "to": 0,
   "text": "c. 4th-1st c. BCE (rough estimate)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:mahabharata",
@@ -2587,7 +2607,7 @@
   "to": 0,
   "text": "c. last centuries BCE (rough estimate)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:mimamsa-sutra",
@@ -2957,7 +2977,7 @@
   "to": 300,
   "text": "c. 2nd c. BCE - 3rd c. CE (rough estimate; composite)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:bhagavad-gita",
@@ -3217,7 +3237,7 @@
   "to": 200,
   "text": "c. 1st c. BCE - 2nd c. CE (rough estimate; among the latest of the principal Upaniṣads)",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:narayaniya",
@@ -3867,6 +3887,16 @@
   "to": null,
   "text": "Vinaya compiled c. 1st–4th c. CE; named as a school from the 7th c. (Yijing); living through its Vinaya",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:pure-land",
+  "label": "Pure Land (Jingtu / Jōdo): birth in Amitābha's land",
+  "account": "scholarly",
+  "from": 100,
+  "to": null,
+  "text": "Sukhāvatī sūtras c. 1st–2nd c. CE; Chinese Pure Land as a self-conscious tradition from Tanluan, Daochuo and Shandao (6th–7th c.); lineage of 'patriarchs' constructed in the Song (Zongxiao 1200, Zhipan 1269)",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -4520,6 +4550,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:daoan",
+  "label": "Dao'an",
+  "account": "scholarly",
+  "from": 312,
+  "to": 385,
+  "text": "312–385 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:yoga-sutra",
   "label": "Yoga Sūtra of Patañjali",
   "account": "scholarly",
@@ -4577,6 +4617,16 @@
   "to": 450,
   "text": "c. 4th c. CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:huiyuan-lushan",
+  "label": "Huiyuan of Lushan",
+  "account": "scholarly",
+  "from": 334,
+  "to": 416,
+  "text": "334–416 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -4726,6 +4776,16 @@
   "from": 350,
   "to": 480,
   "text": "c. 4th–5th c. CE; E. Frauwallner proposed two Vasubandhus (an elder Yogācāra, a younger Kośa author) — a thesis now mostly abandoned but still cited",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:liu-yimin",
+  "label": "Liu Yimin",
+  "account": "scholarly",
+  "from": 352,
+  "to": 410,
+  "text": "c. 352–410 CE",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -5190,6 +5250,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:pure-land",
+  "label": "Pure Land (Jingtu / Jōdo): birth in Amitābha's land",
+  "account": "tradition",
+  "from": 402,
+  "to": null,
+  "text": "Amitābha attained buddhahood ten kalpas ago (Smaller & Larger Sūtras); in China the Lotus school counts from Huiyuan's vow on Lushan in 402 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:sarvastivada-vinaya",
   "label": "Sarvāstivāda Vinaya (Ten-Recitation Vinaya)",
   "account": "scholarly",
@@ -5277,6 +5347,16 @@
   "to": 418,
   "text": "translated 416–418 CE from a manuscript Faxian obtained at Pāṭaliputra",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:baozhi",
+  "label": "Baozhi 寶誌",
+  "account": "tradition",
+  "from": 418,
+  "to": 514,
+  "text": "418–514",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -5690,6 +5770,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:emperor-wu-liang",
+  "label": "Emperor Wu of Liang (Liang Wudi 梁武帝)",
+  "account": "scholarly",
+  "from": 464,
+  "to": 549,
+  "text": "464–549",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:huiguang",
   "label": "Huiguang",
   "account": "scholarly",
@@ -5720,6 +5810,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:bodhidharma",
+  "label": "Bodhidharma (Putidamo 菩提達磨)",
+  "account": "tradition",
+  "from": 470,
+  "to": 536,
+  "text": "arrived 520 or 527 (Song accounts); died 536 or later, returned west with one sandal",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:dravida-sangha",
   "label": "Drāviḍa Saṅgha",
   "account": "scholarly",
@@ -5740,6 +5840,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:fu-fazang-yinyuan-zhuan",
+  "label": "Account of the Causes and Conditions of the Transmission of the Dharma Treasury (Fu fazang yinyuan zhuan)",
+  "account": "scholarly",
+  "from": 472,
+  "to": 550,
+  "text": "c. 472 (attributed translation by Kiṅkara and Tanyao); disputed",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:aryabhata",
   "label": "Āryabhaṭa",
   "account": "scholarly",
@@ -5747,6 +5857,26 @@
   "to": 550,
   "text": "b. 476 CE; Āryabhaṭīya 499 CE",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tanluan",
+  "label": "Tanluan",
+  "account": "scholarly",
+  "from": 476,
+  "to": 554,
+  "text": "c. 476–c. 542 (some sources place his death after 554)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tanluan",
+  "label": "Tanluan",
+  "account": "tradition",
+  "from": 476,
+  "to": 542,
+  "text": "476–542",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -5770,6 +5900,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:bodhidharma",
+  "label": "Bodhidharma (Putidamo 菩提達磨)",
+  "account": "scholarly",
+  "from": 480,
+  "to": 540,
+  "text": "active c. 480s–530s in north China",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:pramana-buddhist",
   "label": "Buddhist epistemology and logic (pramāṇa school)",
   "account": "scholarly",
@@ -5777,6 +5917,36 @@
   "to": 1200,
   "text": "Dignāga c. 480–540; Dharmakīrti c. 6th–7th c.; the school active in India until the late 12th c. and continued in Tibet",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:huike",
+  "label": "Huike 慧可 (Shenguang)",
+  "account": "tradition",
+  "from": 487,
+  "to": 593,
+  "text": "487–593",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:fu-dashi",
+  "label": "Fu Dashi 傅大士 (Fu Xi)",
+  "account": "tradition",
+  "from": 497,
+  "to": 569,
+  "text": "497–569",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:huijiao",
+  "label": "Huijiao",
+  "account": "scholarly",
+  "from": 497,
+  "to": 554,
+  "text": "497–554 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -5996,6 +6166,16 @@
   "from": 500,
   "to": 540,
   "text": "c. 500–540 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:two-entrances-four-practices",
+  "label": "Two Entrances and Four Practices (Erru sixing lun)",
+  "account": "scholarly",
+  "from": 500,
+  "to": 645,
+  "text": "6th c. core; summary already in Daoxuan's Xu gaoseng zhuan (645)",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -6240,6 +6420,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:wangsheng-lun",
+  "label": "Rebirth Treatise (Upadeśa on the Sūtra of Immeasurable Life, with the Verses of Aspiration for Birth)",
+  "account": "scholarly",
+  "from": 508,
+  "to": 535,
+  "text": "translated c. 529 CE (Northern Wei)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:bodhiruci",
   "label": "Bodhiruci (6th c.)",
   "account": "scholarly",
@@ -6277,6 +6467,46 @@
   "to": 570,
   "text": "c. 510–570 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gaoseng-zhuan",
+  "label": "Biographies of Eminent Monks (Gaoseng zhuan)",
+  "account": "scholarly",
+  "from": 519,
+  "to": 530,
+  "text": "c. 519–530 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:wangsheng-lun-zhu",
+  "label": "Commentary on the Rebirth Treatise (Wangsheng lun zhu)",
+  "account": "scholarly",
+  "from": 520,
+  "to": 550,
+  "text": "first half of the 6th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:chan",
+  "label": "Chan (Chinese Meditation school)",
+  "account": "tradition",
+  "from": 520,
+  "to": null,
+  "text": "from Bodhidharma's arrival in China (traditionally 520 or 527 CE); transmitted from Śākyamuni through 28 Indian patriarchs",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jingying-huiyuan",
+  "label": "Jingying Huiyuan",
+  "account": "scholarly",
+  "from": 523,
+  "to": 592,
+  "text": "523–592 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -6520,6 +6750,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:manjusrimulakalpa",
+  "label": "Mañjuśrīmūlakalpa",
+  "account": "scholarly",
+  "from": 550,
+  "to": 800,
+  "text": "c. 6th–8th c. (layered)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:candragomin",
   "label": "Candragomin",
   "account": "scholarly",
@@ -6640,6 +6880,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:vajrayana",
+  "label": "Vajrayāna (Mantranaya) in India",
+  "account": "scholarly",
+  "from": 550,
+  "to": 1250,
+  "text": "c. 6th–13th c. CE in India: kriyā/caryā texts from the 6th c. (dhāraṇī literature earlier); Mahāvairocana mid-7th c.; Tattvasaṃgraha late 7th c.; Guhyasamāja c. 8th c.; Yoginī tantras c. 9th–10th c.; Kālacakra early 11th c. (epoch 1027); decline after c. 1200",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:jin-qishi-lun",
   "label": "Jin qishi lun",
   "account": "scholarly",
@@ -6667,6 +6917,16 @@
   "to": 800,
   "text": "6th–8th c. CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:daochuo",
+  "label": "Daochuo",
+  "account": "scholarly",
+  "from": 562,
+  "to": 645,
+  "text": "562–645 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -6706,6 +6966,26 @@
   "from": 580,
   "to": 640,
   "text": "c. 580–640 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:daoxin",
+  "label": "Daoxin 道信",
+  "account": "scholarly",
+  "from": 580,
+  "to": 651,
+  "text": "580–651",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:niutou-farong",
+  "label": "Niutou Farong 牛頭法融",
+  "account": "tradition",
+  "from": 594,
+  "to": 657,
+  "text": "594–657",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -6900,6 +7180,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:anle-ji",
+  "label": "Collection on the Land of Peace and Bliss (Anle ji)",
+  "account": "scholarly",
+  "from": 600,
+  "to": 645,
+  "text": "7th c. (Daochuo 562–645)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:skandasvamin",
   "label": "Skandasvāmin",
   "account": "scholarly",
@@ -7040,6 +7330,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:hongren",
+  "label": "Hongren 弘忍",
+  "account": "scholarly",
+  "from": 601,
+  "to": 674,
+  "text": "601–674",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:xuanzang",
   "label": "Xuanzang",
   "account": "scholarly",
@@ -7047,6 +7347,36 @@
   "to": 664,
   "text": "602–664 CE (journey to India 629–645)",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sengcan",
+  "label": "Sengcan 僧璨",
+  "account": "tradition",
+  "from": null,
+  "to": 606,
+  "text": "d. 606",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shenxiu",
+  "label": "Shenxiu 神秀 (Datong)",
+  "account": "scholarly",
+  "from": 606,
+  "to": 706,
+  "text": "606?–706",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:zhishen",
+  "label": "Zhishen 智詵",
+  "account": "scholarly",
+  "from": 609,
+  "to": 702,
+  "text": "609–702",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -7060,12 +7390,42 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:shandao",
+  "label": "Shandao",
+  "account": "scholarly",
+  "from": 613,
+  "to": 681,
+  "text": "613–681 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:harsacarita",
   "label": "Harṣacarita",
   "account": "scholarly",
   "from": 620,
   "to": 680,
   "text": "7th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:jingtu-lun-jiacai",
+  "label": "Treatise on the Pure Land (Jiacai)",
+  "account": "scholarly",
+  "from": 620,
+  "to": 680,
+  "text": "7th c. (Tang, Hongfa si)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mahavairocana-sutra",
+  "label": "Mahāvairocana Sūtra (Mahāvairocanābhisambodhi)",
+  "account": "scholarly",
+  "from": 620,
+  "to": 680,
+  "text": "mid-7th c.",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -7086,6 +7446,26 @@
   "from": 620,
   "to": 680,
   "text": "mid-7th c. (Vātāpi taken 642)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jiacai",
+  "label": "Jiacai",
+  "account": "scholarly",
+  "from": 620,
+  "to": 680,
+  "text": "7th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:east-mountain",
+  "label": "East Mountain teaching",
+  "account": "scholarly",
+  "from": 624,
+  "to": 674,
+  "text": "c. 624–674 (Daoxin and Hongren's communities)",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -7146,6 +7526,66 @@
   "from": 635,
   "to": 713,
   "text": "635–713 CE; in India and Śrīvijaya 671–695",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:subhakarasimha",
+  "label": "Śubhakarasiṃha",
+  "account": "scholarly",
+  "from": 637,
+  "to": 735,
+  "text": "637–735",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:faru",
+  "label": "Faru 法如",
+  "account": "scholarly",
+  "from": 638,
+  "to": 689,
+  "text": "638–689",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:huineng",
+  "label": "Huineng 惠能 / 慧能 (the Sixth Patriarch)",
+  "account": "scholarly",
+  "from": 638,
+  "to": 713,
+  "text": "638–713 accepted as traditional dates",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:huineng",
+  "label": "Huineng 惠能 / 慧能 (the Sixth Patriarch)",
+  "account": "tradition",
+  "from": 638,
+  "to": 713,
+  "text": "638–713 (born 638, received the robe at 24, ordained at 39, taught 37 years — Platform Sūtra 13.18)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:huaigan",
+  "label": "Huaigan",
+  "account": "scholarly",
+  "from": 640,
+  "to": 699,
+  "text": "d. c. 699 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:xu-gaoseng-zhuan",
+  "label": "Continued Biographies of Eminent Monks (Xu gaoseng zhuan)",
+  "account": "scholarly",
+  "from": 645,
+  "to": 665,
+  "text": "645–665",
   "confidence": "high",
   "level": "skeleton"
  },
@@ -7217,6 +7657,16 @@
   "to": 750,
   "text": "7th–8th c. CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:guanjing-shu",
+  "label": "Commentary on the Contemplation Sūtra (Guanjing shu)",
+  "account": "scholarly",
+  "from": 650,
+  "to": 681,
+  "text": "7th c. (Shandao 613–681)",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -7300,6 +7750,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:chan",
+  "label": "Chan (Chinese Meditation school)",
+  "account": "scholarly",
+  "from": 650,
+  "to": null,
+  "text": "a self-conscious lineage from the late 7th c. (East Mountain, Northern school); classical Tang Chan 8th–10th c.; dominant public Buddhism of the Song (960–1279); living",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:puji",
+  "label": "Puji 普寂",
+  "account": "scholarly",
+  "from": 651,
+  "to": 739,
+  "text": "651–739",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:siksananda",
   "label": "Śikṣānanda",
   "account": "scholarly",
@@ -7360,6 +7830,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:yifu",
+  "label": "Yifu 義福",
+  "account": "scholarly",
+  "from": 661,
+  "to": 736,
+  "text": "661–736",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:khandakhadyaka",
   "label": "Khaṇḍakhādyaka",
   "account": "scholarly",
@@ -7367,6 +7847,56 @@
   "to": 665,
   "text": "665 CE",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yongjia-xuanjue",
+  "label": "Yongjia Xuanjue 永嘉玄覺",
+  "account": "tradition",
+  "from": 665,
+  "to": 713,
+  "text": "665–713",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:helin-xuansu",
+  "label": "Helin Xuansu 鶴林玄素",
+  "account": "scholarly",
+  "from": 668,
+  "to": 752,
+  "text": "668–752",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:shi-jingtu-qunyi-lun",
+  "label": "Resolving the Many Doubts about the Pure Land (Shi jingtu qunyi lun)",
+  "account": "scholarly",
+  "from": 670,
+  "to": 700,
+  "text": "late 7th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sarvatathagatatattvasamgraha",
+  "label": "Sarvatathāgatatattvasaṃgraha",
+  "account": "scholarly",
+  "from": 670,
+  "to": 720,
+  "text": "late 7th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:vajrabodhi",
+  "label": "Vajrabodhi",
+  "account": "scholarly",
+  "from": 671,
+  "to": 741,
+  "text": "671–741",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -7460,6 +7990,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:platform-sutra",
+  "label": "Platform Sūtra of the Sixth Patriarch (Liuzu tanjing)",
+  "account": "tradition",
+  "from": 676,
+  "to": 713,
+  "text": "sermons delivered c. 676–713",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nanyue-huairang",
+  "label": "Nanyue Huairang 南嶽懷讓",
+  "account": "scholarly",
+  "from": 677,
+  "to": 744,
+  "text": "677–744",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:brahmasiddhi",
   "label": "Brahmasiddhi",
   "account": "scholarly",
@@ -7467,6 +8017,36 @@
   "to": 740,
   "text": "late 7th – early 8th c. CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:xiuxin-yao-lun",
+  "label": "Treatise on the Essentials of Cultivating the Mind (Xiuxin yao lun)",
+  "account": "scholarly",
+  "from": 680,
+  "to": 720,
+  "text": "c. 700",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:guanxin-lun",
+  "label": "Treatise on Contemplating the Mind (Guanxin lun)",
+  "account": "scholarly",
+  "from": 680,
+  "to": 710,
+  "text": "c. 700",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:cimin-huiri",
+  "label": "Cimin Huiri",
+  "account": "scholarly",
+  "from": 680,
+  "to": 748,
+  "text": "680–748 CE",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -7480,12 +8060,42 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:jingjue",
+  "label": "Jingjue 淨覺",
+  "account": "scholarly",
+  "from": 683,
+  "to": 750,
+  "text": "683–c.750",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:kerala-jyotisa",
   "label": "The Kerala tradition of jyotiṣa",
   "account": "scholarly",
   "from": 683,
   "to": null,
   "text": "Parahita system 683 CE; the Saṅgamagrāma school c. 1350–1650; Praśna Mārga 1649",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:musang",
+  "label": "Musang 無相 (Kim heshang 金和尚)",
+  "account": "scholarly",
+  "from": 684,
+  "to": 762,
+  "text": "684–762",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shenhui",
+  "label": "Heze Shenhui 荷澤神會",
+  "account": "scholarly",
+  "from": 684,
+  "to": 758,
+  "text": "684–758 (older dating 670–762)",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -7900,6 +8510,46 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:xinxin-ming",
+  "label": "Inscription on Faith in Mind (Xinxin ming)",
+  "account": "scholarly",
+  "from": 700,
+  "to": 800,
+  "text": "8th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:dasheng-wusheng-fangbian-men",
+  "label": "Expedient Means of Attaining the Unborn in the Mahāyāna (Dasheng wusheng fangbian men)",
+  "account": "scholarly",
+  "from": 700,
+  "to": 800,
+  "text": "8th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:guhyasamaja-tantra",
+  "label": "Guhyasamāja Tantra",
+  "account": "scholarly",
+  "from": 700,
+  "to": 800,
+  "text": "c. 8th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:manjusrinamasamgiti",
+  "label": "Mañjuśrīnāmasaṃgīti",
+  "account": "scholarly",
+  "from": 700,
+  "to": 800,
+  "text": "c. 8th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:sankara",
   "label": "Śaṅkara (Ādi Śaṅkarācārya)",
   "account": "scholarly",
@@ -8050,12 +8700,92 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:shitou",
+  "label": "Shitou Xiqian 石頭希遷",
+  "account": "scholarly",
+  "from": 700,
+  "to": 790,
+  "text": "700–790",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:feixi",
+  "label": "Feixi",
+  "account": "scholarly",
+  "from": 700,
+  "to": 780,
+  "text": "8th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:buddhaguhya",
+  "label": "Buddhaguhya",
+  "account": "scholarly",
+  "from": 700,
+  "to": 800,
+  "text": "8th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:vimalamitra",
+  "label": "Vimalamitra",
+  "account": "scholarly",
+  "from": 700,
+  "to": 800,
+  "text": "8th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:pancaratra",
   "label": "Pāñcarātra",
   "account": "scholarly",
   "from": 700,
   "to": 1500,
   "text": "the Pāñcarātra is named in the Mahābhārata's Nārāyaṇīya; the surviving saṃhitās date from roughly the 8th/9th c. onward (the Jayākhya is quoted in 10th-c. Kashmir), with many South Indian saṃhitās later",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:northern-chan",
+  "label": "Northern school of Chan",
+  "account": "scholarly",
+  "from": 700,
+  "to": 820,
+  "text": "c. 700–c. 800 (imperial favour 701–730s; declined after Shenhui's attacks and the An Lushan rebellion)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:niutou",
+  "label": "Oxhead school",
+  "account": "scholarly",
+  "from": 700,
+  "to": 850,
+  "text": "the lineage is attested from the 8th c.; the link to Daoxin is regarded by scholars as a later construction",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:jingzhong",
+  "label": "Jingzhong school",
+  "account": "scholarly",
+  "from": 700,
+  "to": 800,
+  "text": "8th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:zhang-zhung-nyengyu",
+  "label": "Zhang Zhung Nyengyü (the Oral Transmission of Zhang Zhung)",
+  "account": "tradition",
+  "from": 700,
+  "to": 800,
+  "text": "an unbroken oral lineage never hidden as treasure; Tapihritsa taught Gyerpung Nangzher Löpo in the 8th c.",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -8090,6 +8820,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:laoan",
+  "label": "Lao'an (Hui'an 慧安)",
+  "account": "scholarly",
+  "from": null,
+  "to": 709,
+  "text": "d. 709",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:mazu",
+  "label": "Mazu Daoyi 馬祖道一",
+  "account": "scholarly",
+  "from": 709,
+  "to": 788,
+  "text": "709–788",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:chuan-fabao-ji",
+  "label": "Annals of the Transmission of the Dharma Treasure (Chuan fabao ji)",
+  "account": "scholarly",
+  "from": 710,
+  "to": 720,
+  "text": "c. 713",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:jinendrabuddhi",
   "label": "Jinendrabuddhi",
   "account": "scholarly",
@@ -8098,6 +8858,66 @@
   "text": "c. 710–770 CE",
   "confidence": "low",
   "level": "sourced"
+ },
+ {
+  "entity": "tch:chengyuan",
+  "label": "Chengyuan",
+  "account": "scholarly",
+  "from": 712,
+  "to": 802,
+  "text": "712–802 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:lengqie-shizi-ji",
+  "label": "Record of the Masters and Disciples of the Laṅkāvatāra (Lengqie shizi ji)",
+  "account": "scholarly",
+  "from": 713,
+  "to": 716,
+  "text": "c. 713–716",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:zhengdao-ge",
+  "label": "Song of Realizing the Way (Zhengdao ge)",
+  "account": "scholarly",
+  "from": 713,
+  "to": 800,
+  "text": "8th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yongjia-ji",
+  "label": "Collection of Yongjia (Chanzong Yongjia ji)",
+  "account": "scholarly",
+  "from": 713,
+  "to": 800,
+  "text": "8th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:wuzhu",
+  "label": "Wuzhu 無住",
+  "account": "scholarly",
+  "from": 714,
+  "to": 774,
+  "text": "714–774",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jingshan-faqin",
+  "label": "Jingshan Faqin 徑山法欽",
+  "account": "scholarly",
+  "from": 714,
+  "to": 792,
+  "text": "714–792",
+  "confidence": "low",
+  "level": "skeleton"
  },
  {
   "entity": "src:tattvartha-rajavarttika",
@@ -8147,6 +8967,16 @@
   "to": 800,
   "text": "8th c. CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:shenhui-tanyu",
+  "label": "Platform Talk of Shenhui (Tanyu)",
+  "account": "scholarly",
+  "from": 720,
+  "to": 758,
+  "text": "8th c.",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -8220,6 +9050,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:nanyang-heshang-wenda-za-zhengyi",
+  "label": "Miscellaneous Dialogues of the Reverend of Nanyang (Shenhui)",
+  "account": "scholarly",
+  "from": 730,
+  "to": 760,
+  "text": "8th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:xianzong-ji",
+  "label": "Record Manifesting the Teaching (Xianzong ji)",
+  "account": "scholarly",
+  "from": 730,
+  "to": 760,
+  "text": "8th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:arcata",
   "label": "Arcaṭa",
   "account": "scholarly",
@@ -8230,12 +9080,62 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:heze",
+  "label": "Heze school",
+  "account": "scholarly",
+  "from": 730,
+  "to": 850,
+  "text": "c. 730–c. 850",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nanzong-ding-shifei-lun",
+  "label": "Treatise Establishing the True and False in the Southern School of Bodhidharma (Putidamo nanzong ding shifei lun)",
+  "account": "scholarly",
+  "from": 732,
+  "to": 750,
+  "text": "debate 732; text compiled 730s–740s",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:xitang-zhizang",
+  "label": "Xitang Zhizang 西堂智藏",
+  "account": "scholarly",
+  "from": 735,
+  "to": 814,
+  "text": "735–814",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:danxia-tianran",
+  "label": "Danxia Tianran 丹霞天然",
+  "account": "scholarly",
+  "from": 739,
+  "to": 824,
+  "text": "739–824",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:tattvasangraha-panjika",
   "label": "Tattvasaṅgraha-pañjikā",
   "account": "scholarly",
   "from": 740,
   "to": 800,
   "text": "8th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sandokai",
+  "label": "Harmony of Difference and Sameness (Cantongqi / Sandōkai)",
+  "account": "scholarly",
+  "from": 740,
+  "to": 790,
+  "text": "8th c.",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -8257,6 +9157,126 @@
   "to": 800,
   "text": "c. 740–800 CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:qingyuan-xingsi",
+  "label": "Qingyuan Xingsi 青原行思",
+  "account": "scholarly",
+  "from": null,
+  "to": 740,
+  "text": "d. 740",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:layman-pang",
+  "label": "Layman Pang (Pang Yun 龐蘊)",
+  "account": "scholarly",
+  "from": 740,
+  "to": 808,
+  "text": "740–808",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:fazhao",
+  "label": "Fazhao",
+  "account": "scholarly",
+  "from": 740,
+  "to": 820,
+  "text": "8th c. (fl. 766–c. 800)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shaokang",
+  "label": "Shaokang",
+  "account": "scholarly",
+  "from": 740,
+  "to": 805,
+  "text": "d. 805 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:padmasambhava",
+  "label": "Padmasambhava (Guru Rinpoche)",
+  "account": "scholarly",
+  "from": 740,
+  "to": 800,
+  "text": "8th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:vairocana-translator",
+  "label": "Vairocana the translator (Pagor Vairocana)",
+  "account": "scholarly",
+  "from": 740,
+  "to": 820,
+  "text": "8th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nianfo-sanmei-baowang-lun",
+  "label": "Treatise on the Jewel-King Samādhi of Recollecting the Buddha",
+  "account": "scholarly",
+  "from": 742,
+  "to": 770,
+  "text": "8th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:trisong-detsen",
+  "label": "Trisong Detsen (khri srong lde btsan)",
+  "account": "scholarly",
+  "from": 742,
+  "to": 800,
+  "text": "742-c. 800",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yaoshan",
+  "label": "Yaoshan Weiyan 藥山惟儼",
+  "account": "scholarly",
+  "from": 745,
+  "to": 834,
+  "text": "745–828 (or 751–834)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tianhuang-daowu",
+  "label": "Tianhuang Daowu 天皇道悟",
+  "account": "scholarly",
+  "from": 748,
+  "to": 807,
+  "text": "748–807",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nanquan",
+  "label": "Nanquan Puyuan 南泉普願",
+  "account": "scholarly",
+  "from": 748,
+  "to": 835,
+  "text": "748–835",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:baizhang",
+  "label": "Baizhang Huaihai 百丈懷海",
+  "account": "scholarly",
+  "from": 749,
+  "to": 814,
+  "text": "749–814",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -8360,6 +9380,56 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:saraha",
+  "label": "Saraha",
+  "account": "scholarly",
+  "from": 750,
+  "to": 900,
+  "text": "c. 8th–9th c. (very uncertain)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:indrabhuti",
+  "label": "Indrabhūti",
+  "account": "scholarly",
+  "from": 750,
+  "to": 900,
+  "text": "c. 8th–9th c. (several homonyms)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yeshe-tsogyal",
+  "label": "Yeshe Tsogyal (ye shes mtsho rgyal)",
+  "account": "scholarly",
+  "from": 750,
+  "to": 850,
+  "text": "8th c. (her full hagiography is a 17th-c. treasure)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:mahasiddha",
+  "label": "The Mahāsiddhas (the eighty-four great adepts)",
+  "account": "scholarly",
+  "from": 750,
+  "to": 1200,
+  "text": "c. 8th–12th c. CE; Abhayadatta's collection of lives c. 11th–12th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:damei-fachang",
+  "label": "Damei Fachang 大梅法常",
+  "account": "scholarly",
+  "from": 752,
+  "to": 839,
+  "text": "752–839",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:ritsu-shu",
   "label": "Ritsu-shū (Japanese Vinaya school)",
   "account": "scholarly",
@@ -8376,6 +9446,66 @@
   "from": 760,
   "to": 830,
   "text": "c. 760-830 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:buddhajnanapada",
+  "label": "Buddhajñānapāda",
+  "account": "scholarly",
+  "from": 760,
+  "to": 820,
+  "text": "late 8th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:baotang",
+  "label": "Baotang school",
+  "account": "scholarly",
+  "from": 760,
+  "to": 800,
+  "text": "later 8th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:hongzhou",
+  "label": "Hongzhou school",
+  "account": "scholarly",
+  "from": 760,
+  "to": 900,
+  "text": "later 8th–9th c.; its heirs formed the Linji and Guiyang houses",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:nyingma",
+  "label": "Nyingma (the Ancient / Old Translation school)",
+  "account": "scholarly",
+  "from": 760,
+  "to": 1100,
+  "text": "the 8th-9th c. imperial translations; the name 'Nyingma' (the old ones) came into use from the 11th c. in contrast to the new (gsar ma) translations",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:nyingma",
+  "label": "Nyingma (the Ancient / Old Translation school)",
+  "account": "tradition",
+  "from": 760,
+  "to": 800,
+  "text": "founded in the 8th century under King Trisong Detsen, when Padmasambhava, Śāntarakṣita and Vimalamitra taught in Tibet and Samye was built",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:wuhui-nianfo-fashi-yizan",
+  "label": "Abbreviated Liturgy of the Five-Tone Recitation (Wuhui nianfo)",
+  "account": "scholarly",
+  "from": 766,
+  "to": 800,
+  "text": "8th c.",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -8400,6 +9530,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:platform-sutra-dunhuang",
+  "label": "Dunhuang Platform Sūtra",
+  "account": "scholarly",
+  "from": 770,
+  "to": 800,
+  "text": "c. 780 (manuscripts copied in the 9th–10th c.)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:dunwu-rudao-yaomen-lun",
+  "label": "Treatise on the Essential Gate of Entering the Way through Sudden Awakening (Dunwu rudao yaomen lun)",
+  "account": "scholarly",
+  "from": 770,
+  "to": 820,
+  "text": "late 8th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:virasena",
   "label": "Vīrasena",
   "account": "scholarly",
@@ -8416,6 +9566,36 @@
   "from": 770,
   "to": 810,
   "text": "late 8th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:jnanapada-guhyasamaja",
+  "label": "Jñānapāda tradition of the Guhyasamāja",
+  "account": "scholarly",
+  "from": 770,
+  "to": 820,
+  "text": "late 8th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:guishan-lingyou",
+  "label": "Guishan Lingyou 溈山靈祐",
+  "account": "scholarly",
+  "from": 771,
+  "to": 853,
+  "text": "771–853",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:lidai-fabao-ji",
+  "label": "Record of the Dharma Jewel through the Generations (Lidai fabao ji)",
+  "account": "scholarly",
+  "from": 774,
+  "to": 780,
+  "text": "c. 774–780",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -8457,6 +9637,26 @@
   "to": 900,
   "text": "c. 9th c. CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nanyang-huizhong",
+  "label": "Nanyang Huizhong 南陽慧忠 (National Teacher Zhong)",
+  "account": "scholarly",
+  "from": null,
+  "to": 775,
+  "text": "d. 775",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:zhaozhou",
+  "label": "Zhaozhou Congshen 趙州從諗",
+  "account": "scholarly",
+  "from": 778,
+  "to": 897,
+  "text": "778–897",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -8510,6 +9710,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:platform-sutra",
+  "label": "Platform Sūtra of the Sixth Patriarch (Liuzu tanjing)",
+  "account": "scholarly",
+  "from": 780,
+  "to": 1291,
+  "text": "Dunhuang recension c. 780; Zongbao edition 1291",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:cakrasamvara-tantra",
+  "label": "Cakrasaṃvara Tantra (Laghuśaṃvara)",
+  "account": "scholarly",
+  "from": 780,
+  "to": 900,
+  "text": "c. late 8th–9th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:guhyagarbha-tantra",
+  "label": "Guhyagarbha Tantra (dpal gsang ba'i snying po de kho na nyid rnam par nges pa)",
+  "account": "scholarly",
+  "from": 780,
+  "to": 900,
+  "text": "translated by the late 8th-9th c. (cited in early commentaries)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:nammalvar",
   "label": "Nammāḻvār",
   "account": "scholarly",
@@ -8540,6 +9770,66 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:zongmi",
+  "label": "Guifeng Zongmi 圭峰宗密",
+  "account": "scholarly",
+  "from": 780,
+  "to": 841,
+  "text": "780–841",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:moheyan",
+  "label": "Moheyan 摩訶衍 (Hwashang Mahāyāna)",
+  "account": "scholarly",
+  "from": 780,
+  "to": 800,
+  "text": "late 8th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:cakrasamvara",
+  "label": "Cakrasaṃvara (Saṃvara, Heruka) tradition in India",
+  "account": "scholarly",
+  "from": 780,
+  "to": 1000,
+  "text": "Laghuśaṃvara c. late 8th–9th c.; explanatory tantras 9th–10th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:dzogchen",
+  "label": "Dzogchen (the Great Perfection, Atiyoga)",
+  "account": "scholarly",
+  "from": 780,
+  "to": 1200,
+  "text": "Great Perfection literature attested from the late 8th-10th c. (Dunhuang fragments incl. the Cuckoo of Awareness); the Seventeen Tantras and Nyingthig surface in the 11th-12th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yunyan",
+  "label": "Yunyan Tansheng 雲巖曇晟",
+  "account": "scholarly",
+  "from": 782,
+  "to": 841,
+  "text": "782–841",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:deshan-xuanjian",
+  "label": "Deshan Xuanjian 德山宣鑒",
+  "account": "scholarly",
+  "from": 782,
+  "to": 865,
+  "text": "782–865",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:harivamsapurana-jinasena",
   "label": "Harivaṃśapurāṇa of Jinasena (Punnāṭa)",
   "account": "scholarly",
@@ -8560,6 +9850,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:hyecheol",
+  "label": "Hyecheol 慧哲",
+  "account": "scholarly",
+  "from": 785,
+  "to": 861,
+  "text": "785–861",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:sankara",
   "label": "Śaṅkara (Ādi Śaṅkarācārya)",
   "account": "tradition",
@@ -8570,6 +9870,16 @@
   "level": "sourced"
  },
  {
+  "entity": "src:dunwu-dasheng-zhengli-jue",
+  "label": "Determination of the True Principle of Sudden Awakening in the Mahāyāna (Dunwu dasheng zhengli jue)",
+  "account": "scholarly",
+  "from": 790,
+  "to": 810,
+  "text": "c. 794–800",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:hiranyadama",
   "label": "Hiraṇyadāma",
   "account": "scholarly",
@@ -8577,6 +9887,16 @@
   "to": 850,
   "text": "early 9th c. (as narrated in an inscription of 1052 CE)",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:pei-xiu",
+  "label": "Pei Xiu 裴休",
+  "account": "scholarly",
+  "from": 791,
+  "to": 864,
+  "text": "791–864",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -8930,6 +10250,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:bashe",
+  "label": "Bashe (sba bzhed / dba' bzhed, the Testament of Ba)",
+  "account": "scholarly",
+  "from": 800,
+  "to": 1200,
+  "text": "core from the 9th-11th c.; several recensions",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:visvarupa",
   "label": "Viśvarūpa",
   "account": "scholarly",
@@ -9020,6 +10350,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:virupa",
+  "label": "Virūpa",
+  "account": "scholarly",
+  "from": 800,
+  "to": 900,
+  "text": "c. 9th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:ugraditya",
   "label": "Ugrāditya",
   "account": "scholarly",
@@ -9060,6 +10400,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:muyeom",
+  "label": "Muyeom 無染",
+  "account": "scholarly",
+  "from": 800,
+  "to": 888,
+  "text": "800–888",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:luipa",
+  "label": "Lūipa",
+  "account": "scholarly",
+  "from": 800,
+  "to": 950,
+  "text": "c. 9th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:kalamukha",
   "label": "Kālāmukha",
   "account": "scholarly",
@@ -9077,6 +10437,46 @@
   "to": 1400,
   "text": "Kaula scriptures from c. 9th–10th c. (Kaulajñānanirṇaya; the Kula stratum of the Trika); the Kulārṇava is usually placed c. 11th–14th c. (Muktabodha catalogue: 'post-1100')",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:baolin-zhuan",
+  "label": "Baolin Biographies (Baolin zhuan)",
+  "account": "scholarly",
+  "from": 801,
+  "to": 801,
+  "text": "801",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yangshan-huiji",
+  "label": "Yangshan Huiji 仰山慧寂",
+  "account": "scholarly",
+  "from": 807,
+  "to": 916,
+  "text": "807–883 (or 840–916)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:dongshan",
+  "label": "Dongshan Liangjie 洞山良价",
+  "account": "scholarly",
+  "from": 807,
+  "to": 869,
+  "text": "807–869",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shishuang-qingzhu",
+  "label": "Shishuang Qingzhu 石霜慶諸",
+  "account": "scholarly",
+  "from": 807,
+  "to": 888,
+  "text": "807–888",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -9140,6 +10540,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:seon",
+  "label": "Seon (Korean Chan)",
+  "account": "scholarly",
+  "from": 821,
+  "to": null,
+  "text": "from the 9th c. (Nine Mountain schools); Goryeo synthesis (Jinul, 12th–13th c.); Joseon suppression and survival; modern Jogye Order (1962)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:gusan-seonmun",
+  "label": "Nine Mountain Seon schools",
+  "account": "scholarly",
+  "from": 821,
+  "to": 1000,
+  "text": "9th–10th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:xuefeng-yicun",
+  "label": "Xuefeng Yicun 雪峰義存",
+  "account": "scholarly",
+  "from": 822,
+  "to": 908,
+  "text": "822–908",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:nathamuni",
   "label": "Nāthamuni",
   "account": "tradition",
@@ -9156,6 +10586,66 @@
   "from": 825,
   "to": 900,
   "text": "c. 850 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:doui",
+  "label": "Doui 道義",
+  "account": "scholarly",
+  "from": null,
+  "to": 825,
+  "text": "d. 825",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:chanyuan-zhuquanji-duxu",
+  "label": "General Preface to the Collection of Expressions of the Chan Source (Chanyuan zhuquanji duxu)",
+  "account": "scholarly",
+  "from": 830,
+  "to": 835,
+  "text": "c. 833",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:chanmen-shizi-chengxi-tu",
+  "label": "Chart of the Master-Disciple Succession of the Chan Gate that Transmits the Mind-Ground in China",
+  "account": "scholarly",
+  "from": 830,
+  "to": 841,
+  "text": "c. 830s",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:xinghua-cunjiang",
+  "label": "Xinghua Cunjiang 興化存獎",
+  "account": "scholarly",
+  "from": 830,
+  "to": 888,
+  "text": "830–888",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nubchen-sangye-yeshe",
+  "label": "Nupchen Sangye Yeshe (gnubs chen sangs rgyas ye shes)",
+  "account": "scholarly",
+  "from": 832,
+  "to": 950,
+  "text": "9th-10th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:xuansha-shibei",
+  "label": "Xuansha Shibei 玄沙師備",
+  "account": "scholarly",
+  "from": 835,
+  "to": 908,
+  "text": "835–908",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -9210,12 +10700,32 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:caoshan-benji",
+  "label": "Caoshan Benji 曹山本寂",
+  "account": "scholarly",
+  "from": 840,
+  "to": 901,
+  "text": "840–901",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:bhamati",
   "label": "Bhāmatī school (Bhāmatī-prasthāna)",
   "account": "scholarly",
   "from": 840,
   "to": 1600,
   "text": "From Vācaspati Miśra (9th or 10th c.) through Amalānanda (13th c.) and Appayya Dīkṣita (16th c.)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:guiyang",
+  "label": "Guiyang house",
+  "account": "scholarly",
+  "from": 840,
+  "to": 1000,
+  "text": "9th c.; the first of the Five Houses to die out (by the late 10th c.)",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -9236,6 +10746,26 @@
   "from": 841,
   "to": 976,
   "text": "841 CE (if Vikrama era) or 976 CE (if Śaka era)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:chuanxin-fayao",
+  "label": "Essentials of the Transmission of Mind (Chuanxin fayao)",
+  "account": "scholarly",
+  "from": 842,
+  "to": 857,
+  "text": "teaching c. 842–848; preface by Pei Xiu dated 857",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:wanling-lu",
+  "label": "Wanling Record (Wanling lu)",
+  "account": "scholarly",
+  "from": 848,
+  "to": 857,
+  "text": "9th c.",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -9390,6 +10920,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:hevajra-tantra",
+  "label": "Hevajra Tantra",
+  "account": "scholarly",
+  "from": 850,
+  "to": 1000,
+  "text": "c. late 9th–10th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:pancakrama",
+  "label": "Pañcakrama",
+  "account": "scholarly",
+  "from": 850,
+  "to": 1000,
+  "text": "c. 9th–10th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:samten-migdron",
+  "label": "Samten Migdrön (bsam gtan mig sgron, the Lamp for the Eye in Contemplation)",
+  "account": "scholarly",
+  "from": 850,
+  "to": 1000,
+  "text": "late 9th - 10th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:medhatithi",
   "label": "Medhātithi",
   "account": "scholarly",
@@ -9440,12 +11000,32 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:kanha",
+  "label": "Kāṇhapa (Kṛṣṇācārya)",
+  "account": "scholarly",
+  "from": 850,
+  "to": 1000,
+  "text": "c. 9th–10th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:kampan",
   "label": "Kampaṉ",
   "account": "scholarly",
   "from": 850,
   "to": 1200,
   "text": "c. 12th c. CE (some scholars 9th c.)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nagarjuna-siddha",
+  "label": "Nāgārjuna (the siddha)",
+  "account": "scholarly",
+  "from": 850,
+  "to": 1000,
+  "text": "the tantric author c. 9th–10th c.",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -9500,6 +11080,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:huangbo",
+  "label": "Huangbo Xiyun 黃檗希運",
+  "account": "scholarly",
+  "from": null,
+  "to": 850,
+  "text": "d. c. 850",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:aryadeva-tantric",
+  "label": "Karṇaripa (Āryadeva)",
+  "account": "scholarly",
+  "from": 850,
+  "to": 1000,
+  "text": "c. 9th–10th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:candrakirti-tantric",
+  "label": "Candrakīrti (the tantric)",
+  "account": "scholarly",
+  "from": 850,
+  "to": 1000,
+  "text": "c. 9th–10th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:kashmir-saivism",
   "label": "Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)",
   "account": "scholarly",
@@ -9516,6 +11126,66 @@
   "from": 850,
   "to": 1050,
   "text": "c. 850-900 CE (Vasugupta and Kallaṭa; Kallaṭa is placed under King Avantivarman, 855-883, by the Rājataraṅgiṇī); commentaries to Kṣemarāja (c. 1000-1050) and later.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:linji",
+  "label": "Linji house",
+  "account": "scholarly",
+  "from": 850,
+  "to": null,
+  "text": "9th-c. origin; dominant Chan house from the Song onward; living in Chinese Chan",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:arya-guhyasamaja",
+  "label": "Ārya tradition of the Guhyasamāja",
+  "account": "scholarly",
+  "from": 850,
+  "to": 1000,
+  "text": "the tantric authors c. 9th–10th c., distinct from the Madhyamaka authors of the 2nd–7th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:caodong",
+  "label": "Caodong house",
+  "account": "scholarly",
+  "from": 860,
+  "to": null,
+  "text": "9th c.; nearly extinct in the 10th c.; revived in the Northern Song by Touzi Yiqing; living",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yunmen",
+  "label": "Yunmen Wenyan 雲門文偃",
+  "account": "scholarly",
+  "from": 864,
+  "to": 949,
+  "text": "864–949",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:linji",
+  "label": "Linji Yixuan 臨濟義玄",
+  "account": "scholarly",
+  "from": null,
+  "to": 867,
+  "text": "d. 866 or 867",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:luohan-guichen",
+  "label": "Luohan Guichen (Dizang) 羅漢桂琛",
+  "account": "scholarly",
+  "from": 867,
+  "to": 928,
+  "text": "867–928",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -9586,6 +11256,46 @@
   "from": 880,
   "to": 950,
   "text": "b. 880 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:fayan-wenyi",
+  "label": "Fayan Wenyi 法眼文益",
+  "account": "scholarly",
+  "from": 885,
+  "to": 958,
+  "text": "885–958",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tiantai-deshao",
+  "label": "Tiantai Deshao 天台德韶",
+  "account": "scholarly",
+  "from": 891,
+  "to": 972,
+  "text": "891–972",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:fengxue-yanzhao",
+  "label": "Fengxue Yanzhao 風穴延沼",
+  "account": "scholarly",
+  "from": 896,
+  "to": 973,
+  "text": "896–973",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:xiangyan-zhixian",
+  "label": "Xiangyan Zhixian 香嚴智閑",
+  "account": "scholarly",
+  "from": null,
+  "to": 898,
+  "text": "d. 898",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -9930,6 +11640,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:abhidhanottara-tantra",
+  "label": "Abhidhānottara Tantra",
+  "account": "scholarly",
+  "from": 900,
+  "to": 1050,
+  "text": "c. 10th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:venkatamadhava",
   "label": "Veṅkaṭamādhava",
   "account": "scholarly",
@@ -10160,6 +11880,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:yunju-daoying",
+  "label": "Yunju Daoying 雲居道膺",
+  "account": "scholarly",
+  "from": null,
+  "to": 902,
+  "text": "d. 902",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kuya",
+  "label": "Kūya",
+  "account": "scholarly",
+  "from": 903,
+  "to": 972,
+  "text": "903–972 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:vatesvara-siddhanta",
   "label": "Vaṭeśvarasiddhānta",
   "account": "scholarly",
@@ -10167,6 +11907,46 @@
   "to": 904,
   "text": "904 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yongming-yanshou",
+  "label": "Yongming Yanshou",
+  "account": "scholarly",
+  "from": 904,
+  "to": 975,
+  "text": "904–975 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:xiang-lin-chengyuan",
+  "label": "Xianglin Chengyuan 香林澄遠",
+  "account": "scholarly",
+  "from": 908,
+  "to": 987,
+  "text": "908–987",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:dongshan-shouchu",
+  "label": "Dongshan Shouchu 洞山守初",
+  "account": "scholarly",
+  "from": 910,
+  "to": 990,
+  "text": "910–990",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ryogen",
+  "label": "Ryōgen",
+  "account": "scholarly",
+  "from": 912,
+  "to": 985,
+  "text": "912–985 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -10230,6 +12010,26 @@
   "level": "sourced"
  },
  {
+  "entity": "tch:zanning",
+  "label": "Zanning 贊寧",
+  "account": "scholarly",
+  "from": 919,
+  "to": 1001,
+  "text": "919–1001",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:yunmen",
+  "label": "Yunmen house",
+  "account": "scholarly",
+  "from": 920,
+  "to": 1200,
+  "text": "10th c.; flourishing in the Northern Song; absorbed by the Linji house in the Southern Song",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:kirana-tantra",
   "label": "Kiraṇatantra",
   "account": "scholarly",
@@ -10270,12 +12070,52 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:shoushan-shengnian",
+  "label": "Shoushan Shengnian 首山省念",
+  "account": "scholarly",
+  "from": 926,
+  "to": 993,
+  "text": "926–993",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:zongmen-shigui-lun",
+  "label": "Ten Guidelines for the Chan School (Zongmen shigui lun)",
+  "account": "scholarly",
+  "from": 930,
+  "to": 958,
+  "text": "10th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:manjula",
   "label": "Mañjula (Muñjāla)",
   "account": "scholarly",
   "from": 930,
   "to": 940,
   "text": "10th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yoshishige-no-yasutane",
+  "label": "Yoshishige no Yasutane",
+  "account": "scholarly",
+  "from": 930,
+  "to": 1002,
+  "text": "d. 1002 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:fayan",
+  "label": "Fayan house",
+  "account": "scholarly",
+  "from": 930,
+  "to": 1100,
+  "text": "10th c.; faded in the Song (11th c.)",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -10356,6 +12196,36 @@
   "from": 941,
   "to": null,
   "text": "941 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:genshin",
+  "label": "Genshin",
+  "account": "scholarly",
+  "from": 942,
+  "to": 1017,
+  "text": "942–1017 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:dayang-jingxuan",
+  "label": "Dayang Jingxuan 大陽警玄",
+  "account": "scholarly",
+  "from": 943,
+  "to": 1027,
+  "text": "943–1027",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:fenyang-shanzhao",
+  "label": "Fenyang Shanzhao 汾陽善昭",
+  "account": "scholarly",
+  "from": 947,
+  "to": 1024,
+  "text": "947–1024",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -10660,6 +12530,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:wanshan-tonggui-ji",
+  "label": "The Myriad Good Practices Share the Same End (Wanshan tonggui ji)",
+  "account": "scholarly",
+  "from": 950,
+  "to": 975,
+  "text": "10th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:caryagiti",
+  "label": "Caryāgīti (Caryāpada / Caryācaryāviniścaya)",
+  "account": "scholarly",
+  "from": 950,
+  "to": 1200,
+  "text": "c. 10th–12th c. (the songs); manuscript found in Nepal by H. P. Shastri in 1907, published 1916",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:yamuna",
   "label": "Yāmunācārya",
   "account": "scholarly",
@@ -10840,6 +12730,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:zutang-ji",
+  "label": "Collection of the Patriarchs' Hall (Zutang ji)",
+  "account": "scholarly",
+  "from": 952,
+  "to": 952,
+  "text": "952; Korean printing 1245",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:yasastilaka",
   "label": "Yaśastilaka of Somadeva",
   "account": "scholarly",
@@ -10870,6 +12770,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:shengchang",
+  "label": "Shengchang",
+  "account": "scholarly",
+  "from": 959,
+  "to": 1020,
+  "text": "959–1020 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:jagaccandrika",
   "label": "Jagaccandrikā (Bhaṭṭotpala on the Bṛhajjātaka)",
   "account": "scholarly",
@@ -10890,12 +12800,32 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:zongjing-lu",
+  "label": "Record of the Source Mirror (Zongjing lu)",
+  "account": "scholarly",
+  "from": 961,
+  "to": 961,
+  "text": "961",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ciyun-zunshi",
+  "label": "Ciyun Zunshi",
+  "account": "scholarly",
+  "from": 964,
+  "to": 1032,
+  "text": "964–1032 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:ratnakarasanti",
-  "label": "Ratnākaraśānti",
+  "label": "Śāntipa (Ratnākaraśānti)",
   "account": "scholarly",
   "from": 970,
   "to": 1045,
-  "text": "c. 970–1045 CE",
+  "text": "c. 970–1045",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -11140,6 +13070,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:xuedou-chongxian",
+  "label": "Xuedou Chongxian 雪竇重顯",
+  "account": "scholarly",
+  "from": 980,
+  "to": 1052,
+  "text": "980–1052",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:atisa",
   "label": "Atiśa Dīpaṃkaraśrījñāna",
   "account": "scholarly",
@@ -11147,6 +13087,16 @@
   "to": 1054,
   "text": "982–1054 CE",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nihon-ojo-gokuraku-ki",
+  "label": "Records of Japanese Born in the Land of Bliss",
+  "account": "scholarly",
+  "from": 983,
+  "to": 987,
+  "text": "c. 985–986 CE",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -11170,6 +13120,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:ojoyoshu",
+  "label": "Essentials of Birth (Ōjōyōshū)",
+  "account": "scholarly",
+  "from": 984,
+  "to": 985,
+  "text": "985 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:udayana",
   "label": "Udayana",
   "account": "tradition",
@@ -11187,6 +13147,46 @@
   "to": 1010,
   "text": "c. 990–1000 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shishuang-chuyuan",
+  "label": "Shishuang Chuyuan (Ciming) 石霜楚圓",
+  "account": "scholarly",
+  "from": 986,
+  "to": 1039,
+  "text": "986–1039",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:song-gaoseng-zhuan",
+  "label": "Song Biographies of Eminent Monks (Song gaoseng zhuan)",
+  "account": "scholarly",
+  "from": 988,
+  "to": 988,
+  "text": "988",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:li-zunxu",
+  "label": "Li Zunxu 李遵勗",
+  "account": "scholarly",
+  "from": 988,
+  "to": 1038,
+  "text": "988–1038",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tilopa",
+  "label": "Tilopa",
+  "account": "scholarly",
+  "from": 988,
+  "to": 1069,
+  "text": "988–1069 (Tibetan reckoning)",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -11256,6 +13256,26 @@
   "from": 992,
   "to": 993,
   "text": "Laukika year 68 (c. 992/93 CE)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yangqi-fanghui",
+  "label": "Yangqi Fanghui 楊岐方會",
+  "account": "scholarly",
+  "from": 992,
+  "to": 1049,
+  "text": "992–1049",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shenchen-luga",
+  "label": "Shenchen Luga (gshen chen klu dga')",
+  "account": "scholarly",
+  "from": 996,
+  "to": 1035,
+  "text": "996-1035",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -11420,6 +13440,66 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:baojing-sanmei",
+  "label": "Song of the Precious Mirror Samādhi (Baojing sanmei ge)",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1150,
+  "text": "attested from the 11th–12th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mazu-yulu",
+  "label": "Extensive Record of Mazu Daoyi (Mazu yulu)",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1100,
+  "text": "compiled 11th c. (Sijia yulu)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:candamaharosana-tantra",
+  "label": "Caṇḍamahāroṣaṇa Tantra",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1200,
+  "text": "c. 11th–12th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vima-nyingthig",
+  "label": "Vima Nyingthig (bi ma snying thig, the Heart-essence of Vimalamitra)",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1200,
+  "text": "surfaced 11th-12th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:zermig",
+  "label": "Zermig (gzer mig, the Piercing Eye)",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1100,
+  "text": "treasure text of c. the 11th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:zhang-zhung-nyengyu",
+  "label": "Zhang Zhung Nyengyü (zhang zhung snyan rgyud, the Oral Transmission of Zhang Zhung)",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1300,
+  "text": "written by the 11th-13th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:bhatta-bhaskara",
   "label": "Bhaṭṭa Bhāskara Miśra",
   "account": "scholarly",
@@ -11510,6 +13590,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:parahita",
+  "label": "Parahita",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1100,
+  "text": "11th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:manorathanandin",
   "label": "Manorathanandin",
   "account": "scholarly",
@@ -11540,6 +13630,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:jiezhu",
+  "label": "Jiezhu",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1100,
+  "text": "11th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kalacakrapada",
+  "label": "Kālacakrapāda",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1060,
+  "text": "early 11th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:mantrapitha",
   "label": "Mantrapīṭha (the Seat of Mantras)",
   "account": "scholarly",
@@ -11567,6 +13677,86 @@
   "to": 1900,
   "text": "earliest text c. 11th c. CE (Amṛtasiddhi); classical compilation c. 1450 (Haṭhapradīpikā); large compilations 17th–18th c.; living in ascetic orders",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:bon",
+  "label": "Bön (Yungdrung Bön)",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1100,
+  "text": "an organized Yungdrung Bön with its own canon is attested from the 11th c., when Shenchen Luga (996-1035) and others recovered treasure texts; earlier Tibetan and Zhang Zhung ritual traditions lie behind it",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:zhang-zhung-nyengyu",
+  "label": "Zhang Zhung Nyengyü (the Oral Transmission of Zhang Zhung)",
+  "account": "scholarly",
+  "from": 1000,
+  "to": 1300,
+  "text": "written down by the 11th-13th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:huanglong-huinan",
+  "label": "Huanglong Huinan 黃龍慧南",
+  "account": "scholarly",
+  "from": 1002,
+  "to": 1069,
+  "text": "1002–1069",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:zurpoche",
+  "label": "Zurpoche Shākya Jungne (zur po che shAkya 'byung gnas)",
+  "account": "scholarly",
+  "from": 1002,
+  "to": 1062,
+  "text": "1002-1062",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:chanmen-guishi",
+  "label": "Regulations of the Chan School (Chanmen guishi)",
+  "account": "scholarly",
+  "from": 1004,
+  "to": 1004,
+  "text": "recorded 1004",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:jingde-chuandeng-lu",
+  "label": "Record of the Transmission of the Lamp compiled in the Jingde era (Jingde chuandeng lu)",
+  "account": "scholarly",
+  "from": 1004,
+  "to": 1011,
+  "text": "1004; entered the canon 1011",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:maitripa",
+  "label": "Maitrīpa (Advayavajra)",
+  "account": "scholarly",
+  "from": 1007,
+  "to": 1085,
+  "text": "c. 1007–1085",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:qisong",
+  "label": "Mingjiao Qisong 明教契嵩",
+  "account": "scholarly",
+  "from": 1007,
+  "to": 1072,
+  "text": "1007–1072",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -11620,12 +13810,32 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:rongzompa",
+  "label": "Rongzom Chökyi Zangpo (rong zom chos kyi bzang po)",
+  "account": "scholarly",
+  "from": 1012,
+  "to": 1088,
+  "text": "1012-1088",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:isvarapratyabhijna-vimarsini",
   "label": "Īśvarapratyabhijñāvimarśinī",
   "account": "scholarly",
   "from": 1014,
   "to": 1015,
   "text": "dated Laukika year 90 (c. 1014/15 CE)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:naropa",
+  "label": "Nāropa",
+  "account": "scholarly",
+  "from": 1016,
+  "to": 1100,
+  "text": "c. 1016–1100 (Tibetan reckonings vary: 956–1040 or 1016–1100)",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -11780,6 +13990,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:wuzu-fayan",
+  "label": "Wuzu Fayan 五祖法演",
+  "account": "scholarly",
+  "from": 1024,
+  "to": 1104,
+  "text": "1024?–1104",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:kharatara-gaccha",
   "label": "Kharatara Gaccha",
   "account": "scholarly",
@@ -11800,12 +14020,72 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:kalacakra-tantra",
+  "label": "Kālacakra Tantra (Laghukālacakra)",
+  "account": "scholarly",
+  "from": 1025,
+  "to": 1040,
+  "text": "c. 1025–1040 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:vimalaprabha",
+  "label": "Vimalaprabhā",
+  "account": "scholarly",
+  "from": 1025,
+  "to": 1060,
+  "text": "c. 1030–1050",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:ksemendra",
   "label": "Kṣemendra",
   "account": "scholarly",
   "from": 1025,
   "to": 1070,
   "text": "11th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:huitang-zuxin",
+  "label": "Huitang Zuxin 晦堂祖心",
+  "account": "scholarly",
+  "from": 1025,
+  "to": 1100,
+  "text": "1025–1100",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:donglin-changzong",
+  "label": "Donglin Changzong 東林常總",
+  "account": "scholarly",
+  "from": 1025,
+  "to": 1091,
+  "text": "1025–1091",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:baiyun-shouduan",
+  "label": "Baiyun Shouduan 白雲守端",
+  "account": "scholarly",
+  "from": 1025,
+  "to": 1072,
+  "text": "1025–1072",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:kalacakra",
+  "label": "Kālacakra tradition in India",
+  "account": "scholarly",
+  "from": 1025,
+  "to": 1100,
+  "text": "Laghukālacakra and Vimalaprabhā composed c. 1025–1040; epoch year 1027 (start of the sixty-year cycle)",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -11850,6 +14130,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:xuedou-songgu",
+  "label": "Xuedou's Verses on a Hundred Old Cases (Xuedou songgu)",
+  "account": "scholarly",
+  "from": 1030,
+  "to": 1052,
+  "text": "11th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:kedarasakti",
   "label": "Kedāraśakti",
   "account": "scholarly",
@@ -11867,6 +14157,86 @@
   "to": 1080,
   "text": "11th c. CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:touzi-yiqing",
+  "label": "Touzi Yiqing 投子義青",
+  "account": "scholarly",
+  "from": 1032,
+  "to": 1083,
+  "text": "1032–1083",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yokan",
+  "label": "Yōkan",
+  "account": "scholarly",
+  "from": 1033,
+  "to": 1111,
+  "text": "1033–1111 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tiansheng-guangdeng-lu",
+  "label": "Tiansheng Extended Record of the Lamp (Tiansheng guangdeng lu)",
+  "account": "scholarly",
+  "from": 1036,
+  "to": 1036,
+  "text": "1036",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:meu-gongdzo",
+  "label": "Meu Gongdzö Ritrö Chenpo (rme'u dgongs mdzod ri khrod chen po)",
+  "account": "scholarly",
+  "from": 1038,
+  "to": 1096,
+  "text": "1038-1096",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tegchen-tsuljug",
+  "label": "Tegchen Tsuljug (theg chen tshul 'jug, Entering the Way of the Great Vehicle)",
+  "account": "scholarly",
+  "from": 1040,
+  "to": 1088,
+  "text": "11th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:yangqi",
+  "label": "Yangqi branch (of the Linji house)",
+  "account": "scholarly",
+  "from": 1040,
+  "to": null,
+  "text": "from Yangqi Fanghui (992–1049); the main Linji line from the 12th c.",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:huanglong",
+  "label": "Huanglong branch (of the Linji house)",
+  "account": "scholarly",
+  "from": 1040,
+  "to": 1250,
+  "text": "from Huanglong Huinan (1002–1069); faded in the 13th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:furong-daokai",
+  "label": "Furong Daokai 芙蓉道楷",
+  "account": "scholarly",
+  "from": 1043,
+  "to": 1118,
+  "text": "1043–1118",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -12080,6 +14450,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:caturasiti-siddha-pravrtti",
+  "label": "Caturaśītisiddhapravṛtti (the Lives of the Eighty-four Siddhas)",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1200,
+  "text": "c. 11th–12th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:ramanuja",
   "label": "Rāmānuja",
   "account": "scholarly",
@@ -12200,6 +14580,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:changlu-zongze",
+  "label": "Changlu Zongze",
+  "account": "scholarly",
+  "from": 1050,
+  "to": 1107,
+  "text": "d. c. 1107 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:brahmayamala",
   "label": "Brahmayāmala (Picumata)",
   "account": "scholarly",
@@ -12240,6 +14630,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:chuanfa-zhengzong-ji",
+  "label": "Record of the True Lineage of Dharma Transmission (Chuanfa zhengzong ji)",
+  "account": "scholarly",
+  "from": 1061,
+  "to": 1061,
+  "text": "1061",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yuanwu-keqin",
+  "label": "Yuanwu Keqin 圜悟克勤",
+  "account": "scholarly",
+  "from": 1063,
+  "to": 1135,
+  "text": "1063–1135",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:abhayakaragupta",
   "label": "Abhayākaragupta",
   "account": "scholarly",
@@ -12247,6 +14657,16 @@
   "to": 1125,
   "text": "c. 1064–1125 CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:danxia-zichun",
+  "label": "Danxia Zichun 丹霞子淳",
+  "account": "scholarly",
+  "from": 1064,
+  "to": 1117,
+  "text": "1064–1117",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -12280,6 +14700,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:juefan-huihong",
+  "label": "Juefan Huihong 覺範慧洪",
+  "account": "scholarly",
+  "from": 1071,
+  "to": 1128,
+  "text": "1071–1128",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:uttaradhyayana-sukhabodha",
   "label": "Uttarādhyayana-Sukhabodhā",
   "account": "scholarly",
@@ -12290,12 +14720,32 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:ryonin",
+  "label": "Ryōnin",
+  "account": "scholarly",
+  "from": 1073,
+  "to": 1132,
+  "text": "1073–1132 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:jinadatta-suri",
   "label": "Jinadattasūri",
   "account": "scholarly",
   "from": 1075,
   "to": 1154,
   "text": "1075–1154",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:huqiu-shaolong",
+  "label": "Huqiu Shaolong 虎丘紹隆",
+  "account": "scholarly",
+  "from": 1077,
+  "to": 1136,
+  "text": "1077–1136",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -12330,6 +14780,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:zhenxie-qingliao",
+  "label": "Zhenxie Qingliao 真歇清了",
+  "account": "scholarly",
+  "from": 1088,
+  "to": 1151,
+  "text": "1088–1151",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:hemacandra",
   "label": "Hemacandra",
   "account": "scholarly",
@@ -12338,6 +14798,16 @@
   "text": "1088/89–1172 CE",
   "confidence": "high",
   "level": "sourced"
+ },
+ {
+  "entity": "tch:dahui",
+  "label": "Dahui Zonggao 大慧宗杲",
+  "account": "scholarly",
+  "from": 1089,
+  "to": 1163,
+  "text": "1089–1163",
+  "confidence": "high",
+  "level": "skeleton"
  },
  {
   "entity": "src:dayabhaga",
@@ -12358,6 +14828,26 @@
   "text": "c. 12th c. CE",
   "confidence": "low",
   "level": "sourced"
+ },
+ {
+  "entity": "tch:mao-ziyuan",
+  "label": "Mao Ziyuan",
+  "account": "scholarly",
+  "from": 1090,
+  "to": 1166,
+  "text": "d. 1166 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:hongzhi",
+  "label": "Hongzhi Zhengjue 宏智正覺",
+  "account": "scholarly",
+  "from": 1091,
+  "to": 1157,
+  "text": "1091–1157",
+  "confidence": "high",
+  "level": "skeleton"
  },
  {
   "entity": "src:somasambhupaddhati",
@@ -12386,6 +14876,16 @@
   "from": 1097,
   "to": 1133,
   "text": "c. 1097–1133 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:zhangton-tashi-dorje",
+  "label": "Zhangtön Tashi Dorje (zhang ston bkra shis rdo rje)",
+  "account": "scholarly",
+  "from": 1097,
+  "to": 1167,
+  "text": "1097-1167",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -12696,6 +15196,46 @@
   "from": 1100,
   "to": 1200,
   "text": "12th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:zuochan-yi",
+  "label": "Principles of Seated Meditation (Zuochan yi)",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1106,
+  "text": "c. 1103",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:shimen-wenzi-chan",
+  "label": "Lettered Chan of Shimen (Shimen wenzi Chan)",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1128,
+  "text": "12th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:ten-oxherding-pictures",
+  "label": "Ten Oxherding Pictures (Shiniu tu) of Kuoan",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1200,
+  "text": "12th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:ojo-juin",
+  "label": "Ten Causes of Birth (Ōjō jūin)",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1110,
+  "text": "c. 1103 CE",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -13130,6 +15670,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:wang-rixiu",
+  "label": "Wang Rixiu",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1173,
+  "text": "d. 1173 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:eiku",
+  "label": "Eikū",
+  "account": "scholarly",
+  "from": 1100,
+  "to": 1179,
+  "text": "d. 1179 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:dvaitadvaita",
   "label": "Dvaitādvaita (Nimbārka Sampradāya)",
   "account": "scholarly",
@@ -13160,12 +15720,42 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:chanyuan-qinggui",
+  "label": "Pure Rules of the Chan Monastery (Chanyuan qinggui)",
+  "account": "scholarly",
+  "from": 1103,
+  "to": 1103,
+  "text": "1103",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:basava",
   "label": "Basava",
   "account": "scholarly",
   "from": 1105,
   "to": 1196,
   "text": "12th c.; commonly 1134–1196, older reckonings c. 1105–1167 (debated)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:linjian-lu",
+  "label": "Record from the Groves (Linjian lu)",
+  "account": "scholarly",
+  "from": 1107,
+  "to": 1107,
+  "text": "1107",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:zuting-shiyuan",
+  "label": "Garden of Matters of the Patriarchs' Hall (Zuting shiyuan)",
+  "account": "scholarly",
+  "from": 1108,
+  "to": 1108,
+  "text": "1108",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -13180,6 +15770,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:biyan-lu",
+  "label": "Blue Cliff Record (Biyan lu)",
+  "account": "scholarly",
+  "from": 1111,
+  "to": 1300,
+  "text": "1125 (printed 1128; re-edited 1300)",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:bhaskara-ii",
   "label": "Bhāskara II (Bhāskarācārya)",
   "account": "scholarly",
@@ -13190,6 +15790,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:yuzu-nenbutsu-shu",
+  "label": "Yūzū Nenbutsu-shū (the interfusing nenbutsu of Ryōnin)",
+  "account": "scholarly",
+  "from": 1117,
+  "to": null,
+  "text": "early 12th c.; revived by Hōmyō in the 14th c. and recognised as a school in the Edo period",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:yuzu-nenbutsu-shu",
+  "label": "Yūzū Nenbutsu-shū (the interfusing nenbutsu of Ryōnin)",
+  "account": "tradition",
+  "from": 1117,
+  "to": null,
+  "text": "1117, when Amida revealed the interfusing nenbutsu to Ryōnin in samādhi",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:mian-xianjie",
+  "label": "Mi'an Xianjie 密庵咸傑",
+  "account": "scholarly",
+  "from": 1118,
+  "to": 1186,
+  "text": "1118–1186",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:alankarasarvasva",
   "label": "Alaṅkārasarvasva of Ruyyaka",
   "account": "scholarly",
@@ -13197,6 +15827,16 @@
   "to": 1160,
   "text": "12th c. CE (Kashmir)",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:linji-lu",
+  "label": "Record of Linji (Linji lu)",
+  "account": "scholarly",
+  "from": 1120,
+  "to": 1120,
+  "text": "standard edition 1120",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -13236,6 +15876,36 @@
   "from": 1120,
   "to": 1200,
   "text": "12th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:zhuoan-deguang",
+  "label": "Zhuoan Deguang 拙庵德光",
+  "account": "scholarly",
+  "from": 1121,
+  "to": 1203,
+  "text": "1121–1203",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:katok-dampa-deshek",
+  "label": "Katok Dampa Deshek (kaH thog dam pa bde gshegs)",
+  "account": "scholarly",
+  "from": 1122,
+  "to": 1192,
+  "text": "1122-1192",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nyangral-nyima-ozer",
+  "label": "Nyangral Nyima Özer (nyang ral nyi ma 'od zer)",
+  "account": "scholarly",
+  "from": 1124,
+  "to": 1192,
+  "text": "1124-1192 (other dates 1136-1204)",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -13290,6 +15960,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:hongzhi-guanglu",
+  "label": "Extensive Record of Hongzhi (Hongzhi guanglu)",
+  "account": "scholarly",
+  "from": 1130,
+  "to": 1157,
+  "text": "12th c.",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mozhao-ming",
+  "label": "Inscription on Silent Illumination (Mozhao ming)",
+  "account": "scholarly",
+  "from": 1130,
+  "to": 1157,
+  "text": "12th c.",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:aghorasiva",
   "label": "Aghoraśiva",
   "account": "scholarly",
@@ -13310,6 +16000,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:bailian-zong",
+  "label": "The White Lotus school of Mao Ziyuan (Bailian zong)",
+  "account": "scholarly",
+  "from": 1130,
+  "to": null,
+  "text": "12th c. (Mao Ziyuan d. 1166) to Yuan; later 'White Lotus' sects of the Ming–Qing are distinct and partly millenarian",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:manasollasa",
   "label": "Mānasollāsa (Abhilaṣitārthacintāmaṇi) of Someśvara III",
   "account": "scholarly",
@@ -13320,12 +16020,32 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:songyuan-chongyue",
+  "label": "Songyuan Chongyue 松源崇嶽",
+  "account": "scholarly",
+  "from": 1132,
+  "to": 1202,
+  "text": "1132–1202",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:periya-puranam",
   "label": "Periya Purāṇam",
   "account": "scholarly",
   "from": 1133,
   "to": 1150,
   "text": "c. 1135–1150",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:honen",
+  "label": "Hōnen",
+  "account": "scholarly",
+  "from": 1133,
+  "to": 1212,
+  "text": "1133–1212 CE",
   "confidence": "high",
   "level": "skeleton"
  },
@@ -13410,6 +16130,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:eisai",
+  "label": "Myōan Eisai 明菴榮西 (Yōsai)",
+  "account": "scholarly",
+  "from": 1141,
+  "to": 1215,
+  "text": "1141–1215",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kumagai-naozane",
+  "label": "Kumagai Naozane",
+  "account": "scholarly",
+  "from": 1141,
+  "to": 1208,
+  "text": "1141–1208 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:meykanta-sastras",
   "label": "Meykaṇṭa Śāstras (the fourteen)",
   "account": "scholarly",
@@ -13430,6 +16170,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:zhengfayanzang-dahui",
+  "label": "Treasury of the True Dharma Eye (Zhengfayanzang) of Dahui",
+  "account": "scholarly",
+  "from": 1147,
+  "to": 1147,
+  "text": "1147",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:tamil-saiva-siddhanta",
   "label": "Tamil Śaiva Siddhānta (the Meykaṇṭa school)",
   "account": "scholarly",
@@ -13437,6 +16187,26 @@
   "to": null,
   "text": "12th c. forerunners (Tiruvuntiyār 1147/48); Meykaṇṭār early 13th c.; Umāpati 1306–1313; monastic (ātīṉam) tradition continuing",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ryukan",
+  "label": "Ryūkan",
+  "account": "scholarly",
+  "from": 1148,
+  "to": 1227,
+  "text": "1148–1227 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kujo-kanezane",
+  "label": "Kujō Kanezane",
+  "account": "scholarly",
+  "from": 1149,
+  "to": 1207,
+  "text": "1149–1207 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -13537,6 +16307,26 @@
   "to": 1200,
   "text": "12th c. CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:dahui-yulu",
+  "label": "Recorded Sayings of Dahui (Dahui Pujue chanshi yulu)",
+  "account": "scholarly",
+  "from": 1150,
+  "to": 1172,
+  "text": "12th c.; compiled 1171–1172",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:zangling-ma",
+  "label": "Kathang Zangling Ma (bka' thang zangs gling ma, the Copper Island biography)",
+  "account": "scholarly",
+  "from": 1150,
+  "to": 1200,
+  "text": "12th c.",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -13650,6 +16440,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:zongxiao",
+  "label": "Zongxiao",
+  "account": "scholarly",
+  "from": 1151,
+  "to": 1214,
+  "text": "1151–1214 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:saratthadipani",
   "label": "Sāratthadīpanī",
   "account": "scholarly",
@@ -13660,6 +16460,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:jokei",
+  "label": "Jōkei",
+  "account": "scholarly",
+  "from": 1155,
+  "to": 1213,
+  "text": "1155–1213 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:kriyakramadyotika",
   "label": "Kriyākramadyotikā",
   "account": "scholarly",
@@ -13667,6 +16477,16 @@
   "to": 1158,
   "text": "1157/58 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jinul",
+  "label": "Jinul 知訥 (Bojo)",
+  "account": "scholarly",
+  "from": 1158,
+  "to": 1210,
+  "text": "1158–1210",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -13696,6 +16516,16 @@
   "from": 1160,
   "to": 1172,
   "text": "c. 1160s CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:longshu-jingtu-wen",
+  "label": "Longshu's Expanded Pure Land Writings",
+  "account": "scholarly",
+  "from": 1160,
+  "to": 1173,
+  "text": "c. 1160 CE",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -13730,6 +16560,56 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:rujing",
+  "label": "Tiantong Rujing 天童如淨",
+  "account": "scholarly",
+  "from": 1162,
+  "to": 1228,
+  "text": "1162/63–1227/28",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:bencho",
+  "label": "Benchō",
+  "account": "scholarly",
+  "from": 1162,
+  "to": 1238,
+  "text": "1162–1238 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kosai",
+  "label": "Kōsai",
+  "account": "scholarly",
+  "from": 1163,
+  "to": 1247,
+  "text": "1163–1247 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:wansong-xingxiu",
+  "label": "Wansong Xingxiu 萬松行秀",
+  "account": "scholarly",
+  "from": 1166,
+  "to": 1246,
+  "text": "1166–1246",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:seikaku",
+  "label": "Seikaku",
+  "account": "scholarly",
+  "from": 1167,
+  "to": 1235,
+  "text": "1167–1235 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:adbhutasagara",
   "label": "Adbhutasāgara",
   "account": "scholarly",
@@ -13747,6 +16627,26 @@
   "to": 1169,
   "text": "1169 CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shinran",
+  "label": "Shinran",
+  "account": "scholarly",
+  "from": 1173,
+  "to": 1263,
+  "text": "1173–1263 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:myoe",
+  "label": "Myōe",
+  "account": "scholarly",
+  "from": 1173,
+  "to": 1232,
+  "text": "1173–1232 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -13770,6 +16670,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:jodo-shu",
+  "label": "Jōdo-shū (the Pure Land school of Hōnen)",
+  "account": "scholarly",
+  "from": 1175,
+  "to": null,
+  "text": "late 12th c.; institutionalised under the Chinzei line from the 14th c.",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:jodo-shu",
+  "label": "Jōdo-shū (the Pure Land school of Hōnen)",
+  "account": "tradition",
+  "from": 1175,
+  "to": null,
+  "text": "founded in 1175 (Angen 1) when Hōnen, reading Shandao, turned to the exclusive nenbutsu",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:tirukkalirruppatiyar",
   "label": "Tirukkaḷiṟṟuppaṭiyār",
   "account": "scholarly",
@@ -13780,12 +16700,52 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:wuzhun-shifan",
+  "label": "Wuzhun Shifan 無準師範",
+  "account": "scholarly",
+  "from": 1177,
+  "to": 1249,
+  "text": "1177–1249",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shoku",
+  "label": "Shōkū",
+  "account": "scholarly",
+  "from": 1177,
+  "to": 1247,
+  "text": "1177–1247 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:nannul",
   "label": "Naṉṉūl",
   "account": "scholarly",
   "from": 1178,
   "to": 1300,
   "text": "c. 13th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:hyesim",
+  "label": "Hyesim 慧諶 (Jingak guksa)",
+  "account": "scholarly",
+  "from": 1178,
+  "to": 1234,
+  "text": "1178–1234",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:dachuan-puji",
+  "label": "Dachuan Puji 大川普濟",
+  "account": "scholarly",
+  "from": 1179,
+  "to": 1253,
+  "text": "1179–1253",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -13840,6 +16800,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:daruma-shu",
+  "label": "Daruma school (Japan)",
+  "account": "scholarly",
+  "from": 1180,
+  "to": 1250,
+  "text": "late 12th c.; proscribed 1194 together with Eisai's movement; its members joined Dōgen's community in the 1240s",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:sakya-pandita",
   "label": "Sakya Paṇḍita Kunga Gyaltsen",
   "account": "scholarly",
@@ -13850,12 +16820,92 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:eshinni",
+  "label": "Eshinni",
+  "account": "scholarly",
+  "from": 1182,
+  "to": 1268,
+  "text": "1182–c. 1268 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:karanakutuhala",
   "label": "Karaṇakutūhala",
   "account": "scholarly",
   "from": 1183,
   "to": 1183,
   "text": "1183 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:wumen-huikai",
+  "label": "Wumen Huikai 無門慧開",
+  "account": "scholarly",
+  "from": 1183,
+  "to": 1260,
+  "text": "1183–1260",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:genchi",
+  "label": "Genchi",
+  "account": "scholarly",
+  "from": 1183,
+  "to": 1238,
+  "text": "1183–1238 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:myozen",
+  "label": "Butsuju Myōzen 佛樹明全",
+  "account": "scholarly",
+  "from": 1184,
+  "to": 1225,
+  "text": "1184–1225",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:chosai",
+  "label": "Chōsai",
+  "account": "scholarly",
+  "from": 1184,
+  "to": 1266,
+  "text": "1184–1266 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:xutang-zhiyu",
+  "label": "Xutang Zhiyu 虛堂智愚",
+  "account": "scholarly",
+  "from": 1185,
+  "to": 1269,
+  "text": "1185–1269",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:rentian-yanmu",
+  "label": "Eyes of Humans and Gods (Rentian yanmu)",
+  "account": "scholarly",
+  "from": 1188,
+  "to": 1188,
+  "text": "1188",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gwonsu-jeonghye-gyeolsa-mun",
+  "label": "Encouragement to Practice: the Compact of the Samādhi and Prajñā Community",
+  "account": "scholarly",
+  "from": 1190,
+  "to": 1190,
+  "text": "1190",
   "confidence": "high",
   "level": "skeleton"
  },
@@ -13877,6 +16927,86 @@
   "to": 1250,
   "text": "early 13th c.",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yelu-chucai",
+  "label": "Yelü Chucai 耶律楚材",
+  "account": "scholarly",
+  "from": 1190,
+  "to": 1244,
+  "text": "1190–1244",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:jogye",
+  "label": "Jogye order",
+  "account": "scholarly",
+  "from": 1190,
+  "to": null,
+  "text": "a Goryeo Jogye school existed from the 12th c.; the modern Jogye Order was constituted in 1962",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:zen",
+  "label": "Zen (Japanese Chan)",
+  "account": "scholarly",
+  "from": 1191,
+  "to": null,
+  "text": "earlier contacts (Dōshō 7th c., Yixuan/Gikū 9th c., Kakua 12th c.); Kamakura foundations 12th–13th c.; Five Mountains system 14th c.; Tokugawa reforms 17th–18th c.; living",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:rinzai",
+  "label": "Rinzai Zen",
+  "account": "scholarly",
+  "from": 1191,
+  "to": null,
+  "text": "Kamakura and Muromachi Five Mountains (gozan) and the rinka lines; all present-day Rinzai lines descend through Hakuin (18th c.) from the Ōtōkan line (Nanpo–Daitō–Kanzan)",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:susim-kyol",
+  "label": "Secrets on Cultivating the Mind (Susim kyol)",
+  "account": "scholarly",
+  "from": 1198,
+  "to": 1210,
+  "text": "c. 1203–1205",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kozen-gokoku-ron",
+  "label": "Treatise on Promoting Zen for the Protection of the Country (Kōzen gokoku ron)",
+  "account": "scholarly",
+  "from": 1198,
+  "to": 1198,
+  "text": "1198",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:senchakushu",
+  "label": "Passages on the Selection of the Nenbutsu in the Original Vow (Senchakushū)",
+  "account": "scholarly",
+  "from": 1198,
+  "to": 1198,
+  "text": "1198 CE (Kenkyū 9), at the request of Kujō Kanezane",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:koun-ejo",
+  "label": "Koun Ejō 孤雲懷奘",
+  "account": "scholarly",
+  "from": 1198,
+  "to": 1280,
+  "text": "1198–1280",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -14290,6 +17420,16 @@
   "level": "sourced"
  },
  {
+  "entity": "tch:ryochu",
+  "label": "Ryōchū",
+  "account": "scholarly",
+  "from": 1199,
+  "to": 1287,
+  "text": "1199–1287 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:anandagiri-gita-tika",
   "label": "Ānandagiri's gloss on Śaṅkara's Gītābhāṣya",
   "account": "scholarly",
@@ -14500,6 +17640,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:lebang-wenlei",
+  "label": "Classified Writings on the Land of Bliss (Lebang wenlei)",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1200,
+  "text": "1200 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:anandagiri",
   "label": "Ānandagiri (Ānandajñāna)",
   "account": "scholarly",
@@ -14590,6 +17740,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:dogen",
+  "label": "Eihei Dōgen 永平道元",
+  "account": "scholarly",
+  "from": 1200,
+  "to": 1253,
+  "text": "1200–1253",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:kaula-srividya",
   "label": "Kaula Śrīvidyā (the Vāmakeśvara–Yoginīhṛdaya exegetical line)",
   "account": "scholarly",
@@ -14606,6 +17766,46 @@
   "from": 1200,
   "to": null,
   "text": "c. 13th c. CE onward; systematized by Nīlakaṇṭha 1587",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:enni-benen",
+  "label": "Enni Ben'en 圓爾辨圓 (Shōichi kokushi)",
+  "account": "scholarly",
+  "from": 1202,
+  "to": 1280,
+  "text": "1202–1280",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shotatsu",
+  "label": "Shōtatsu",
+  "account": "scholarly",
+  "from": 1203,
+  "to": 1279,
+  "text": "13th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:shichikajo-kishomon",
+  "label": "Seven-Article Pledge (Shichikajō kishōmon)",
+  "account": "scholarly",
+  "from": 1204,
+  "to": 1204,
+  "text": "1204 CE (Genkyū 1, 11th month), signed by Hōnen and some 190 disciples",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:jodo-shu-chinzei",
+  "label": "Jōdo-shū Chinzei line",
+  "account": "scholarly",
+  "from": 1204,
+  "to": null,
+  "text": "13th c. onward",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -14690,6 +17890,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:gyecho-simhagin-mun",
+  "label": "Admonitions to Beginning Students (Gyecho simhagin mun)",
+  "account": "scholarly",
+  "from": 1205,
+  "to": 1205,
+  "text": "1205",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kofukuji-sojo",
+  "label": "Petition of Kōfukuji (Kōfukuji sōjō)",
+  "account": "scholarly",
+  "from": 1205,
+  "to": 1205,
+  "text": "1205 CE (Genkyū 2)",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:pillai-lokacarya",
   "label": "Piḷḷai Lokācārya",
   "account": "tradition",
@@ -14707,6 +17927,46 @@
   "to": null,
   "text": "from Piḷḷai Lokācārya (1205–1311 in commonly given traditional dates) and Maṇavāḷa Māmuni (1370–1443)",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jakuen",
+  "label": "Jakuen 寂圓",
+  "account": "scholarly",
+  "from": 1207,
+  "to": 1299,
+  "text": "1207–1299",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shinchi-kakushin",
+  "label": "Shinchi Kakushin 心地覺心 (Hottō kokushi)",
+  "account": "scholarly",
+  "from": 1207,
+  "to": 1298,
+  "text": "1207–1298",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:beopjip-byeolhaeng-nok-jeoryo",
+  "label": "Excerpts from the Dharma Collection and Special Practice Record, with Personal Notes (Jeoryo)",
+  "account": "scholarly",
+  "from": 1209,
+  "to": 1209,
+  "text": "1209",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shinbutsu",
+  "label": "Shinbutsu",
+  "account": "scholarly",
+  "from": 1209,
+  "to": 1258,
+  "text": "1209–1258 CE",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -14750,6 +18010,106 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:zenran",
+  "label": "Zenran",
+  "account": "scholarly",
+  "from": 1210,
+  "to": 1292,
+  "text": "d. c. 1292 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:jodo-shu-seizan",
+  "label": "Jōdo-shū Seizan line",
+  "account": "scholarly",
+  "from": 1210,
+  "to": null,
+  "text": "13th c. onward",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kissa-yojoki",
+  "label": "Drinking Tea for Nourishing Life (Kissa yōjōki)",
+  "account": "scholarly",
+  "from": 1211,
+  "to": 1214,
+  "text": "1211/1214",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:ichimai-kishomon",
+  "label": "The One-Sheet Document (Ichimai kishōmon)",
+  "account": "scholarly",
+  "from": 1212,
+  "to": 1212,
+  "text": "1212 CE (Kenryaku 2, 1st month)",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:zaijarin",
+  "label": "Wheel Crushing Heresy (Zaijarin)",
+  "account": "scholarly",
+  "from": 1212,
+  "to": 1213,
+  "text": "1212 CE, with a supplement (Shōgonki) in 1213",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:guru-chowang",
+  "label": "Guru Chöwang (gu ru chos kyi dbang phyug)",
+  "account": "scholarly",
+  "from": 1212,
+  "to": 1270,
+  "text": "1212-1270",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:lanxi-daolong",
+  "label": "Lanxi Daolong 蘭溪道隆 (Rankei Dōryū)",
+  "account": "scholarly",
+  "from": 1213,
+  "to": 1278,
+  "text": "1213–1278",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:ganhwa-gyeoruiron",
+  "label": "Resolving Doubts about Observing the Hwadu (Ganhwa gyeoruiron)",
+  "account": "scholarly",
+  "from": 1215,
+  "to": 1215,
+  "text": "published 1215",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:wondon-seongbullon",
+  "label": "Complete and Sudden Attainment of Buddhahood (Wondon seongbullon)",
+  "account": "scholarly",
+  "from": 1215,
+  "to": 1215,
+  "text": "published 1215",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tettsu-gikai",
+  "label": "Tettsū Gikai 徹通義介",
+  "account": "scholarly",
+  "from": 1219,
+  "to": 1309,
+  "text": "1219–1309",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:karmagrantha-devendrasuri",
   "label": "Karmagrantha (the new Karmagranthas of Devendrasūri)",
   "account": "scholarly",
@@ -14770,6 +18130,136 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:yuishinsho",
+  "label": "On Faith Alone (Yuishinshō)",
+  "account": "scholarly",
+  "from": 1221,
+  "to": 1221,
+  "text": "1221 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yuien",
+  "label": "Yuien",
+  "account": "scholarly",
+  "from": 1222,
+  "to": 1289,
+  "text": "1222–1289 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:congrong-lu",
+  "label": "Book of Equanimity (Congrong lu)",
+  "account": "scholarly",
+  "from": 1224,
+  "to": 1224,
+  "text": "1224",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kyogyoshinsho",
+  "label": "The True Teaching, Practice and Realization of the Pure Land Way (Kyōgyōshinshō)",
+  "account": "scholarly",
+  "from": 1224,
+  "to": 1257,
+  "text": "drafted in the Kantō from the 1220s and revised until the 1250s (Bandō autograph)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kyogyoshinsho",
+  "label": "The True Teaching, Practice and Realization of the Pure Land Way (Kyōgyōshinshō)",
+  "account": "tradition",
+  "from": 1224,
+  "to": null,
+  "text": "1224 (Gennin 1), the year Honganji takes as the founding of Shinshū",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kakushinni",
+  "label": "Kakushinni",
+  "account": "scholarly",
+  "from": 1224,
+  "to": 1283,
+  "text": "1224–1283 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:jodo-shinshu",
+  "label": "Jōdo Shinshū (the True Pure Land school of Shinran)",
+  "account": "scholarly",
+  "from": 1224,
+  "to": null,
+  "text": "13th c. (Shinran's communities in the Kantō); a school from Kakunyo's Honganji (14th c.), mass movement under Rennyo (15th c.)",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:jodo-shinshu",
+  "label": "Jōdo Shinshū (the True Pure Land school of Shinran)",
+  "account": "tradition",
+  "from": 1224,
+  "to": null,
+  "text": "founded in 1224 (Gennin 1), the year taken by Honganji as that of the Kyōgyōshinshō",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:hokyoki",
+  "label": "Record of the Hōkyō Era (Hōkyōki)",
+  "account": "scholarly",
+  "from": 1225,
+  "to": 1227,
+  "text": "1225–1227 (found after Dōgen's death)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:seonmun-yeomsong-jip",
+  "label": "Collection of Seon Cases with Verse Comments (Seonmun yeomsong jip)",
+  "account": "scholarly",
+  "from": 1226,
+  "to": 1226,
+  "text": "1226",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:wuxue-zuyuan",
+  "label": "Wuxue Zuyuan 無學祖元 (Mugaku Sogen)",
+  "account": "scholarly",
+  "from": 1226,
+  "to": 1286,
+  "text": "1226–1286",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:fukanzazengi",
+  "label": "Universally Recommended Instructions for Zazen (Fukanzazengi)",
+  "account": "scholarly",
+  "from": 1227,
+  "to": 1243,
+  "text": "1227; manuscript 1233; revised 1240s",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:soto",
+  "label": "Sōtō Zen",
+  "account": "scholarly",
+  "from": 1227,
+  "to": null,
+  "text": "founded 13th c.; spread widely among provincial laity from Keizan onward; Tokugawa sectarian reforms (Manzan, Menzan); living",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:sagaradharmamrta",
   "label": "Sāgāradharmāmṛta",
   "account": "scholarly",
@@ -14786,6 +18276,26 @@
   "from": 1228,
   "to": 1250,
   "text": "13th c. CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:wumenguan",
+  "label": "Gateless Barrier (Wumen guan)",
+  "account": "scholarly",
+  "from": 1228,
+  "to": 1229,
+  "text": "compiled 1228, presented 1229",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:matsudai-nenbutsu-jushuin",
+  "label": "Nenbutsu Seal of Transmission for the Last Age",
+  "account": "scholarly",
+  "from": 1228,
+  "to": 1228,
+  "text": "1228 CE",
   "confidence": "low",
   "level": "skeleton"
  },
@@ -14827,6 +18337,126 @@
   "to": 1300,
   "text": "13th c.",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:shinshu-takada-ha",
+  "label": "Shinshū Takada-ha",
+  "account": "scholarly",
+  "from": 1230,
+  "to": null,
+  "text": "13th c. community; separate school",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:shobogenzo",
+  "label": "Treasury of the True Dharma Eye (Shōbōgenzō)",
+  "account": "scholarly",
+  "from": 1231,
+  "to": 1253,
+  "text": "1231–1253",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:bendowa",
+  "label": "Bendōwa (Talk on Wholehearted Practice)",
+  "account": "scholarly",
+  "from": 1231,
+  "to": 1231,
+  "text": "1231",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:genjokoan",
+  "label": "Genjōkōan (The Realized Kōan)",
+  "account": "scholarly",
+  "from": 1233,
+  "to": 1233,
+  "text": "1233",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:makahannya-haramitsu",
+  "label": "Maka hannya haramitsu (Mahāprajñāpāramitā)",
+  "account": "scholarly",
+  "from": 1233,
+  "to": 1233,
+  "text": "1233",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gakudo-yojinshu",
+  "label": "Points to Watch in Studying the Way (Gakudō yōjinshū)",
+  "account": "scholarly",
+  "from": 1234,
+  "to": 1234,
+  "text": "1234",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:shobogenzo-zuimonki",
+  "label": "Record of Things Heard from the Treasury of the True Dharma Eye (Shōbōgenzō zuimonki)",
+  "account": "scholarly",
+  "from": 1235,
+  "to": 1238,
+  "text": "1235–1238",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:shobogenzo-sanbyakusoku",
+  "label": "Three Hundred Cases of the True Dharma Eye (Shōbōgenzō sanbyakusoku)",
+  "account": "scholarly",
+  "from": 1235,
+  "to": 1235,
+  "text": "1235",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nanpo-shomyo",
+  "label": "Nanpo Shōmyō 南浦紹明 (Daiō kokushi)",
+  "account": "scholarly",
+  "from": 1235,
+  "to": 1309,
+  "text": "1235–1309",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nyoshin",
+  "label": "Nyoshin",
+  "account": "scholarly",
+  "from": 1235,
+  "to": 1300,
+  "text": "1235–1300 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tenzo-kyokun",
+  "label": "Instructions for the Cook (Tenzo kyōkun)",
+  "account": "scholarly",
+  "from": 1237,
+  "to": 1237,
+  "text": "1237",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shinkyo",
+  "label": "Shinkyō",
+  "account": "scholarly",
+  "from": 1237,
+  "to": 1319,
+  "text": "1237–1319 CE",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -15230,6 +18860,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:ikka-myoju",
+  "label": "Ikka myōju (One Bright Pearl)",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1238,
+  "text": "1238",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:madhva",
   "label": "Madhva",
   "account": "scholarly",
@@ -15238,6 +18878,16 @@
   "text": "c. 1238–1317 CE (B. N. K. Sharma, from the epigraphic dates of his disciple Narahari Tīrtha, 1264–1293); some earlier scholars followed 1197/1199–1276/1278",
   "confidence": "moderate",
   "level": "sourced"
+ },
+ {
+  "entity": "tch:gaofeng-yuanmiao",
+  "label": "Gaofeng Yuanmiao 高峰原妙",
+  "account": "scholarly",
+  "from": 1238,
+  "to": 1295,
+  "text": "1238–1295",
+  "confidence": "moderate",
+  "level": "skeleton"
  },
  {
   "entity": "lin:dvaita",
@@ -15250,12 +18900,82 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:sokushin-zebutsu",
+  "label": "Sokushin zebutsu (This Very Mind is Buddha)",
+  "account": "scholarly",
+  "from": 1239,
+  "to": 1239,
+  "text": "1239",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ippen",
+  "label": "Ippen",
+  "account": "scholarly",
+  "from": 1239,
+  "to": 1289,
+  "text": "1239–1289 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:vedanta-kalpataru",
   "label": "Vedāntakalpataru",
   "account": "scholarly",
   "from": 1240,
   "to": 1270,
   "text": "mid-13th c. (Yādava court of Devagiri)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:uji",
+  "label": "Uji (Being-Time)",
+  "account": "scholarly",
+  "from": 1240,
+  "to": 1240,
+  "text": "1240",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:raihai-tokuzui",
+  "label": "Raihai tokuzui (Paying Homage and Obtaining the Marrow)",
+  "account": "scholarly",
+  "from": 1240,
+  "to": 1240,
+  "text": "1240",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sansuikyo",
+  "label": "Sansuikyō (Mountains and Waters Sūtra)",
+  "account": "scholarly",
+  "from": 1240,
+  "to": 1240,
+  "text": "1240",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:keisei-sanshoku",
+  "label": "Keisei sanshoku (Sounds of the Valley Streams, Colours of the Mountains)",
+  "account": "scholarly",
+  "from": 1240,
+  "to": 1240,
+  "text": "1240",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kesa-kudoku",
+  "label": "Kesa kudoku (The Merit of the Robe)",
+  "account": "scholarly",
+  "from": 1240,
+  "to": 1240,
+  "text": "1240",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -15270,6 +18990,106 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:bussho",
+  "label": "Busshō (Buddha-Nature)",
+  "account": "scholarly",
+  "from": 1241,
+  "to": 1241,
+  "text": "1241",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:shisho",
+  "label": "Shisho (Document of Heritage)",
+  "account": "scholarly",
+  "from": 1241,
+  "to": 1241,
+  "text": "1241",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:zazenshin",
+  "label": "Zazenshin (Lancet of Seated Meditation)",
+  "account": "scholarly",
+  "from": 1242,
+  "to": 1242,
+  "text": "1242",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gyoji",
+  "label": "Gyōji (Continuous Practice)",
+  "account": "scholarly",
+  "from": 1242,
+  "to": 1242,
+  "text": "1242",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:shinjin-gakudo",
+  "label": "Shinjin gakudō (Study of the Way with Body and Mind)",
+  "account": "scholarly",
+  "from": 1242,
+  "to": 1242,
+  "text": "1242",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:dru-gyalwa-yungdrung",
+  "label": "Dru Gyalwa Yungdrung ('bru rgyal ba g.yung drung)",
+  "account": "scholarly",
+  "from": 1242,
+  "to": 1290,
+  "text": "1242-1290",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:zazengi-dogen",
+  "label": "Zazengi (Principles of Zazen, Shōbōgenzō)",
+  "account": "scholarly",
+  "from": 1243,
+  "to": 1243,
+  "text": "1243",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:menju",
+  "label": "Menju (Face-to-Face Transmission)",
+  "account": "scholarly",
+  "from": 1243,
+  "to": 1243,
+  "text": "1243",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ryoe-doko",
+  "label": "Ryōe Dōkō",
+  "account": "scholarly",
+  "from": 1243,
+  "to": 1330,
+  "text": "1243–1330 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:daishugyo",
+  "label": "Daishugyō (Great Practice)",
+  "account": "scholarly",
+  "from": 1244,
+  "to": 1244,
+  "text": "1244",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:trailokyaprakasa",
   "label": "Trailokyaprakāśa",
   "account": "scholarly",
@@ -15277,6 +19097,36 @@
   "to": 1248,
   "text": "1248 CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:jodo-wasan",
+  "label": "Hymns of the Pure Land (Jōdo wasan)",
+  "account": "scholarly",
+  "from": 1248,
+  "to": 1258,
+  "text": "1248 (first two) and 1257–1258 (Shōzōmatsu)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:koso-wasan",
+  "label": "Hymns of the Pure Land Masters (Kōsō wasan)",
+  "account": "scholarly",
+  "from": 1248,
+  "to": 1258,
+  "text": "1248 (first two) and 1257–1258 (Shōzōmatsu)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:shozomatsu-wasan",
+  "label": "Hymns of the Dharma Ages (Shōzōmatsu wasan)",
+  "account": "scholarly",
+  "from": 1248,
+  "to": 1258,
+  "text": "1248 (first two) and 1257–1258 (Shōzōmatsu)",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -15560,6 +19410,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:yuishinsho-mon-i",
+  "label": "Notes on 'Essentials of Faith Alone' (Yuishinshō mon'i)",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1257,
+  "text": "1250s CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mattosho",
+  "label": "Lamp for the Latter Ages (Mattōshō)",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1333,
+  "text": "letters of 1250s; compiled 1333 by Jūkaku",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:kulluka",
   "label": "Kullūka Bhaṭṭa",
   "account": "scholarly",
@@ -15680,6 +19550,86 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:pudu",
+  "label": "Pudu of Lushan",
+  "account": "scholarly",
+  "from": 1250,
+  "to": 1330,
+  "text": "d. 1330 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:wudeng-huiyuan",
+  "label": "Compendium of the Five Lamps (Wudeng huiyuan)",
+  "account": "scholarly",
+  "from": 1252,
+  "to": 1252,
+  "text": "1252",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:hachidainingaku",
+  "label": "Hachidainingaku (Eight Awarenesses of Great Beings)",
+  "account": "scholarly",
+  "from": 1253,
+  "to": 1253,
+  "text": "1253",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shunjo",
+  "label": "Shunjō",
+  "account": "scholarly",
+  "from": 1255,
+  "to": 1335,
+  "text": "1255–1335 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:eshinni-shosoku",
+  "label": "Letters of Eshinni",
+  "account": "scholarly",
+  "from": 1256,
+  "to": 1268,
+  "text": "1256–1268; discovered at Nishi Honganji in 1921",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:ichinen-tanen-mon-i",
+  "label": "Notes on Once-calling and Many-calling (Ichinen tanen mon'i)",
+  "account": "scholarly",
+  "from": 1257,
+  "to": 1257,
+  "text": "1257 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:fozu-tongji",
+  "label": "Comprehensive Record of the Buddhas and Patriarchs (Fozu tongji)",
+  "account": "scholarly",
+  "from": 1258,
+  "to": 1269,
+  "text": "1269 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:zhipan",
+  "label": "Zhipan",
+  "account": "scholarly",
+  "from": 1258,
+  "to": 1269,
+  "text": "fl. 1258–1269 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:ayurveda-rasayana",
   "label": "Āyurvedarasāyana",
   "account": "scholarly",
@@ -15720,6 +19670,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:shokai",
+  "label": "Shōkai",
+  "account": "scholarly",
+  "from": 1261,
+  "to": 1323,
+  "text": "1261–1323 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:zhongfeng-mingben",
+  "label": "Zhongfeng Mingben 中峰明本",
+  "account": "scholarly",
+  "from": 1263,
+  "to": 1323,
+  "text": "1263–1323",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:narahari-tirtha",
   "label": "Narahari Tīrtha",
   "account": "scholarly",
@@ -15727,6 +19697,16 @@
   "to": 1293,
   "text": "his inscriptions at Śrīkūrmam are dated c. 1264–1293 CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kumaraja",
+  "label": "Rigdzin Kumārādza (rig 'dzin ku mA rA dza)",
+  "account": "scholarly",
+  "from": 1266,
+  "to": 1343,
+  "text": "1266-1343",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -16460,6 +20440,16 @@
   "level": "sourced"
  },
  {
+  "entity": "tch:keizan",
+  "label": "Keizan Jōkin 瑩山紹瑾",
+  "account": "scholarly",
+  "from": 1268,
+  "to": 1325,
+  "text": "1268–1325",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:vadakalai",
   "label": "Vaṭakalai (northern school of Śrīvaiṣṇavism)",
   "account": "tradition",
@@ -16467,6 +20457,16 @@
   "to": null,
   "text": "from Vedānta Deśika (1268–1369) and the Kāñcī teachers before him",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tannisho",
+  "label": "A Record in Lament of Divergences (Tannishō)",
+  "account": "scholarly",
+  "from": 1270,
+  "to": 1290,
+  "text": "late 13th c. (after 1263, c. 1288)",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -16510,6 +20510,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:kakunyo",
+  "label": "Kakunyo",
+  "account": "scholarly",
+  "from": 1270,
+  "to": 1351,
+  "text": "1270–1351 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:varkari",
   "label": "Vārkarī sampradāya",
   "account": "scholarly",
@@ -16550,6 +20560,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:kurodani-shonin-gotoroku",
+  "label": "Record of the Lamp of the Words of the Saint of Kurodani",
+  "account": "scholarly",
+  "from": 1274,
+  "to": 1275,
+  "text": "1274–1275 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:cakradhar",
   "label": "Cakradhar Svāmī",
   "account": "scholarly",
@@ -16567,6 +20587,26 @@
   "to": 1274,
   "text": "incarnation of Parameśvara; left for the north Śaka 1196 (1274)",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:ji-shu",
+  "label": "Ji-shū (the Time school of Ippen)",
+  "account": "scholarly",
+  "from": 1274,
+  "to": null,
+  "text": "late 13th c.; organised as an order by Shinkyō after 1289",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:ji-shu",
+  "label": "Ji-shū (the Time school of Ippen)",
+  "account": "tradition",
+  "from": 1274,
+  "to": null,
+  "text": "founded 1274 at Kumano, when Ippen received the oracle of the Kumano deity",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -16620,6 +20660,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:muso-soseki",
+  "label": "Musō Soseki 夢窓疎石",
+  "account": "scholarly",
+  "from": 1275,
+  "to": 1351,
+  "text": "1275–1351",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:gasan-joseki",
+  "label": "Gasan Jōseki 峨山韶碩",
+  "account": "scholarly",
+  "from": 1276,
+  "to": 1366,
+  "text": "1276–1366",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:prabhavakacarita",
   "label": "Prabhāvakacarita",
   "account": "scholarly",
@@ -16640,6 +20700,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:kanzan-egen",
+  "label": "Kanzan Egen 關山慧玄",
+  "account": "scholarly",
+  "from": 1277,
+  "to": 1360,
+  "text": "1277–1360",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:muktabai",
   "label": "Muktābāī",
   "account": "tradition",
@@ -16647,6 +20717,46 @@
   "to": 1297,
   "text": "1279–1297",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:homyo",
+  "label": "Hōmyō",
+  "account": "scholarly",
+  "from": 1279,
+  "to": 1349,
+  "text": "1279–1349 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:chanyao-gaofeng",
+  "label": "Essentials of Chan (Chanyao) of Gaofeng",
+  "account": "scholarly",
+  "from": 1280,
+  "to": 1295,
+  "text": "late 13th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:ichigon-hodan",
+  "label": "Fragrant Sayings (Ichigon hōdan)",
+  "account": "scholarly",
+  "from": 1280,
+  "to": 1350,
+  "text": "c. 14th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shuho-myocho",
+  "label": "Shūhō Myōchō 宗峰妙超 (Daitō kokushi)",
+  "account": "scholarly",
+  "from": 1282,
+  "to": 1337,
+  "text": "1282–1337",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -16660,6 +20770,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:tianru-weize",
+  "label": "Tianru Weize",
+  "account": "scholarly",
+  "from": 1286,
+  "to": 1354,
+  "text": "c. 1286–1354 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:cintra-prasasti",
   "label": "Cintra praśasti (1287 CE)",
   "account": "scholarly",
@@ -16667,6 +20787,16 @@
   "to": 1287,
   "text": "1287 CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:xueyan-zuqin",
+  "label": "Xueyan Zuqin 雪巖祖欽",
+  "account": "scholarly",
+  "from": null,
+  "to": 1287,
+  "text": "d. 1287",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -16730,6 +20860,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:zonkaku",
+  "label": "Zonkaku",
+  "account": "scholarly",
+  "from": 1290,
+  "to": 1373,
+  "text": "1290–1373 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:zongbao",
+  "label": "Zongbao 宗寶",
+  "account": "scholarly",
+  "from": 1291,
+  "to": 1291,
+  "text": "fl. 1291",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:rukmini-svayamvara-narendra",
   "label": "Rukmiṇī-svayaṃvara (of Narendra)",
   "account": "scholarly",
@@ -16757,6 +20907,36 @@
   "to": 1292,
   "text": "13th c. CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:godensho",
+  "label": "Biography of Shinran (Godenshō / Honganji Shōnin Shinran den'e)",
+  "account": "scholarly",
+  "from": 1295,
+  "to": 1295,
+  "text": "1295 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jukaku",
+  "label": "Jūkaku",
+  "account": "scholarly",
+  "from": 1295,
+  "to": 1360,
+  "text": "1295–1360 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:ippen-hijiri-e",
+  "label": "Illustrated Biography of the Holy Man Ippen (Ippen Hijiri-e)",
+  "account": "scholarly",
+  "from": 1299,
+  "to": 1299,
+  "text": "1299 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -17110,6 +21290,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:denkoroku",
+  "label": "Record of the Transmission of Light (Denkōroku)",
+  "account": "scholarly",
+  "from": 1300,
+  "to": 1300,
+  "text": "1300",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:khandro-nyingthig",
+  "label": "Khandro Nyingthig (mkha' 'gro snying thig, the Heart-essence of the Ḍākinīs)",
+  "account": "scholarly",
+  "from": 1300,
+  "to": 1320,
+  "text": "revealed c. 1313 (moderate)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:vidyaranya",
   "label": "Vidyāraṇya",
   "account": "scholarly",
@@ -17210,6 +21410,56 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:bon-sar",
+  "label": "New Bön (Bön Sar)",
+  "account": "scholarly",
+  "from": 1300,
+  "to": 1900,
+  "text": "from c. the 14th c.; strengthened in the 18th-19th c.",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:taego-bou",
+  "label": "Taego Bou 太古普愚",
+  "account": "scholarly",
+  "from": 1301,
+  "to": 1382,
+  "text": "1301–1382",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:lushan-lianzong-baojian",
+  "label": "Precious Mirror of the Lotus School of Lushan",
+  "account": "scholarly",
+  "from": 1305,
+  "to": 1305,
+  "text": "1305 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:honen-shonin-gyojo-ezu",
+  "label": "Illustrated Biography of Hōnen in 48 Scrolls",
+  "account": "scholarly",
+  "from": 1307,
+  "to": 1320,
+  "text": "early 14th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:longchenpa",
+  "label": "Longchenpa (Longchen Rabjam Drime Özer)",
+  "account": "scholarly",
+  "from": 1308,
+  "to": 1364,
+  "text": "1308-1364",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:cankarpa-nirakaranam",
   "label": "Caṅkaṟpa Nirākaraṇam",
   "account": "scholarly",
@@ -17217,6 +21467,16 @@
   "to": 1313,
   "text": "1313 (dated in the text; moderate confidence)",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yuzu-nenbutsu-engi",
+  "label": "Illustrated Origins of the Interfusing Nenbutsu (Yūzū nenbutsu engi)",
+  "account": "scholarly",
+  "from": 1314,
+  "to": 1400,
+  "text": "1314 and later versions",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -17260,6 +21520,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:naong-hyegeun",
+  "label": "Naong Hyegeun 懶翁慧勤",
+  "account": "scholarly",
+  "from": 1320,
+  "to": 1376,
+  "text": "1320–1376",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:orgyen-lingpa",
+  "label": "Orgyen Lingpa (o rgyan gling pa)",
+  "account": "scholarly",
+  "from": 1323,
+  "to": 1360,
+  "text": "1323-c.1360",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:keizan-shingi",
+  "label": "Pure Rules of Keizan (Keizan shingi)",
+  "account": "scholarly",
+  "from": 1324,
+  "to": 1324,
+  "text": "1324",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:narahari-tirtha",
   "label": "Narahari Tīrtha",
   "account": "tradition",
@@ -17267,6 +21557,46 @@
   "to": 1333,
   "text": "pontificate c. 1324–1333 in maṭha lists",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:zhitro-gongpa-rangdrol",
+  "label": "Zhitro Gongpa Rangdrol (zab chos zhi khro dgongs pa rang grol, the Profound Dharma of Self-Liberation through the Intention of the Peaceful and Wrathful Ones)",
+  "account": "scholarly",
+  "from": 1326,
+  "to": 1400,
+  "text": "14th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:bardo-thodol",
+  "label": "Bardo Thödol Chenmo (bar do thos grol chen mo, the Great Liberation through Hearing in the Intermediate States)",
+  "account": "scholarly",
+  "from": 1326,
+  "to": 1400,
+  "text": "14th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:karma-lingpa",
+  "label": "Karma Lingpa",
+  "account": "scholarly",
+  "from": 1326,
+  "to": 1386,
+  "text": "14th c. (1326-1386 in some accounts)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:bassui",
+  "label": "Bassui Tokushō 拔隊得勝",
+  "account": "scholarly",
+  "from": 1327,
+  "to": 1387,
+  "text": "1327–1387",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -17310,6 +21640,86 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:seven-treasuries",
+  "label": "The Seven Treasuries (mdzod bdun) of Longchenpa",
+  "account": "scholarly",
+  "from": 1330,
+  "to": 1364,
+  "text": "14th c.",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:yishin-dzod",
+  "label": "Yishin Dzöd (yid bzhin rin po che'i mdzod, the Wish-Fulfilling Treasury)",
+  "account": "scholarly",
+  "from": 1330,
+  "to": 1364,
+  "text": "14th c.",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:mengak-dzod",
+  "label": "Mengak Dzöd (man ngag rin po che'i mdzod, the Treasury of Precious Instructions)",
+  "account": "scholarly",
+  "from": 1330,
+  "to": 1364,
+  "text": "14th c.",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:choying-dzod",
+  "label": "Chöying Dzöd (chos dbyings rin po che'i mdzod, the Treasury of the Dharmadhātu)",
+  "account": "scholarly",
+  "from": 1330,
+  "to": 1364,
+  "text": "14th c.",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:drubta-dzod",
+  "label": "Drubta Dzöd (grub mtha' rin po che'i mdzod, the Treasury of Philosophical Systems)",
+  "account": "scholarly",
+  "from": 1330,
+  "to": 1364,
+  "text": "14th c.",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tegchok-dzod",
+  "label": "Tegchok Dzöd (theg mchog rin po che'i mdzod, the Treasury of the Supreme Vehicle)",
+  "account": "scholarly",
+  "from": 1330,
+  "to": 1364,
+  "text": "14th c.",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:tsigdon-dzod",
+  "label": "Tsigdön Dzöd (tshig don rin po che'i mdzod, the Treasury of Words and Meanings)",
+  "account": "scholarly",
+  "from": 1330,
+  "to": 1364,
+  "text": "14th c.",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nelug-dzod",
+  "label": "Nelug Dzöd (gnas lugs rin po che'i mdzod, the Treasury of the Natural State)",
+  "account": "scholarly",
+  "from": 1330,
+  "to": 1364,
+  "text": "14th c.",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:kriyasakti",
   "label": "Kriyāśakti",
   "account": "scholarly",
@@ -17330,12 +21740,72 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:chixiu-baizhang-qinggui",
+  "label": "Imperial Edition of Baizhang's Pure Rules (Chixiu Baizhang qinggui)",
+  "account": "scholarly",
+  "from": 1335,
+  "to": 1338,
+  "text": "1335–1338",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:rigdzin-godem",
+  "label": "Rigdzin Gödem (rig 'dzin rgod ldem)",
+  "account": "scholarly",
+  "from": 1337,
+  "to": 1409,
+  "text": "1337-1409",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:jangter",
+  "label": "Jangter (the Northern Treasures)",
+  "account": "scholarly",
+  "from": 1337,
+  "to": 1409,
+  "text": "14th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:madhava-sangamagrama",
   "label": "Mādhava of Saṅgamagrāma",
   "account": "scholarly",
   "from": 1340,
   "to": 1425,
   "text": "c. 1340–1425 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sangye-lingpa",
+  "label": "Sangye Lingpa (sangs rgyas gling pa)",
+  "account": "scholarly",
+  "from": 1340,
+  "to": 1396,
+  "text": "1340-1396",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shogei",
+  "label": "Shōgei",
+  "account": "scholarly",
+  "from": 1341,
+  "to": 1420,
+  "text": "1341–1420 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:muchu-mondo",
+  "label": "Dialogues in a Dream (Muchū mondō)",
+  "account": "scholarly",
+  "from": 1344,
+  "to": 1344,
+  "text": "1344",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -17500,6 +21970,16 @@
   "level": "sourced"
  },
  {
+  "entity": "tch:dorje-lingpa",
+  "label": "Dorje Lingpa (rdo rje gling pa)",
+  "account": "scholarly",
+  "from": 1346,
+  "to": 1405,
+  "text": "1346-1405",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:saddarsanasamuccaya-rajasekhara",
   "label": "Ṣaḍdarśanasamuccaya (Rājaśekhara Sūri)",
   "account": "scholarly",
@@ -17650,6 +22130,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:miaoye",
+  "label": "Miaoye",
+  "account": "scholarly",
+  "from": 1350,
+  "to": 1450,
+  "text": "Ming (14th–15th c.)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:pema-kathang",
+  "label": "Pema Kathang (padma bka' thang, the Chronicle of Padma; Shelbrag Ma)",
+  "account": "scholarly",
+  "from": 1352,
+  "to": 1360,
+  "text": "14th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:pema-kathang",
+  "label": "Pema Kathang (padma bka' thang, the Chronicle of Padma; Shelbrag Ma)",
+  "account": "tradition",
+  "from": 1352,
+  "to": null,
+  "text": "revealed in 1352",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:vidyapati",
   "label": "Vidyāpati",
   "account": "scholarly",
@@ -17660,6 +22170,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:nyamme-sherab-gyaltsen",
+  "label": "Nyamme Sherab Gyaltsen (mnyam med shes rab rgyal mtshan)",
+  "account": "scholarly",
+  "from": 1356,
+  "to": 1415,
+  "text": "1356-1415",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:zijid",
+  "label": "Zijid (gzi brjid, the Glorious)",
+  "account": "scholarly",
+  "from": 1360,
+  "to": 1385,
+  "text": "14th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:paramesvara-vatasseri",
   "label": "Parameśvara (of Vaṭaśśeri)",
   "account": "scholarly",
@@ -17667,6 +22197,16 @@
   "to": 1455,
   "text": "c. 1360–1455 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:loden-nyingpo",
+  "label": "Loden Nyingpo (blo ldan snying po)",
+  "account": "scholarly",
+  "from": 1360,
+  "to": 1385,
+  "text": "1360-1385",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -17708,6 +22248,36 @@
   "text": "pontificate c. 1365–1388 in maṭha lists",
   "confidence": "moderate",
   "level": "sourced"
+ },
+ {
+  "entity": "src:gongpa-zangthal",
+  "label": "Kuntuzangpo Gongpa Zangthal (kun tu bzang po'i dgongs pa zang thal, the Unobstructed Intention of Samantabhadra)",
+  "account": "scholarly",
+  "from": 1366,
+  "to": 1409,
+  "text": "14th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:gongpa-zangthal",
+  "label": "Kuntuzangpo Gongpa Zangthal (kun tu bzang po'i dgongs pa zang thal, the Unobstructed Intention of Samantabhadra)",
+  "account": "tradition",
+  "from": 1366,
+  "to": null,
+  "text": "revealed 1366",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:jangter",
+  "label": "Jangter (the Northern Treasures)",
+  "account": "tradition",
+  "from": 1366,
+  "to": null,
+  "text": "treasures revealed by Rigdzin Gödem in 1366 at Zangzang Lhadrak",
+  "confidence": "moderate",
+  "level": "skeleton"
  },
  {
   "entity": "src:basava-purana-bhimakavi",
@@ -17870,12 +22440,32 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:enzan-wadei-gassui-shu",
+  "label": "Mud and Water from Enzan (Enzan wadei gassui shū)",
+  "account": "scholarly",
+  "from": 1386,
+  "to": 1386,
+  "text": "1386",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:go-lotsawa",
   "label": "Gö Lotsawa Zhönnu Pel",
   "account": "scholarly",
   "from": 1392,
   "to": 1481,
   "text": "1392-1481",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ikkyu",
+  "label": "Ikkyū Sōjun 一休宗純",
+  "account": "scholarly",
+  "from": 1394,
+  "to": 1481,
+  "text": "1394–1481",
   "confidence": "high",
   "level": "skeleton"
  },
@@ -18440,6 +23030,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:ratna-lingpa",
+  "label": "Ratna Lingpa (ratna gling pa)",
+  "account": "scholarly",
+  "from": 1403,
+  "to": 1479,
+  "text": "1403-1479",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:vagvajra",
   "label": "Vāgvajra",
   "account": "scholarly",
@@ -18527,6 +23127,26 @@
   "to": 1490,
   "text": "15th c. CE (his reform c. 1451–1476)",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kenzei",
+  "label": "Kenzei 建撕",
+  "account": "scholarly",
+  "from": 1415,
+  "to": 1474,
+  "text": "1415–1474",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:rennyo",
+  "label": "Rennyo",
+  "account": "scholarly",
+  "from": 1415,
+  "to": 1499,
+  "text": "1415–1499 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -18870,6 +23490,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:nyingma-gyubum",
+  "label": "Nyingma Gyubum (rnying ma rgyud 'bum, the Collected Tantras of the Ancients)",
+  "account": "scholarly",
+  "from": 1450,
+  "to": 1800,
+  "text": "collected 15th c.; editions 15th-20th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:kesava-kasmiri",
   "label": "Keśava Kāśmīrī Bhaṭṭa",
   "account": "scholarly",
@@ -18930,6 +23560,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:akao-no-doshu",
+  "label": "Akao no Dōshū",
+  "account": "scholarly",
+  "from": 1450,
+  "to": 1516,
+  "text": "d. 1516 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:pema-lingpa",
+  "label": "Pema Lingpa (padma gling pa)",
+  "account": "scholarly",
+  "from": 1450,
+  "to": 1521,
+  "text": "1450-1521",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:samaya-srividya",
   "label": "Samaya school of Śrīvidyā (Samayācāra)",
   "account": "scholarly",
@@ -18956,6 +23606,16 @@
   "from": 1450,
   "to": 1700,
   "text": "15th–17th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kenzeiki",
+  "label": "Kenzeiki",
+  "account": "scholarly",
+  "from": 1452,
+  "to": 1452,
+  "text": "1452",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -19030,6 +23690,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:rennyo-ofumi",
+  "label": "The Letters of Rennyo (Ofumi / Gobunshō)",
+  "account": "scholarly",
+  "from": 1461,
+  "to": 1498,
+  "text": "1461–1498; five fascicles of 80 letters selected in the early 16th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:uttaratantra-commentary-go-lotsawa",
   "label": "Rgyud bla ma'i 'grel bshad de kho na nyid rab tu gsal ba'i me long (Gö Lotsawa)",
   "account": "scholarly",
@@ -19057,6 +23727,16 @@
   "to": 1545,
   "text": "c. 1474–1540s CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:peling",
+  "label": "Peling (the treasure tradition of Pema Lingpa)",
+  "account": "scholarly",
+  "from": 1476,
+  "to": 1521,
+  "text": "late 15th - early 16th c.",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -20320,6 +25000,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:hyujeong",
+  "label": "Hyujeong 休靜 (Seosan daesa)",
+  "account": "scholarly",
+  "from": 1520,
+  "to": 1604,
+  "text": "1520–1604",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:hiravijaya-suri",
   "label": "Hīravijayasūri",
   "account": "scholarly",
@@ -20367,6 +25057,16 @@
   "to": 1599,
   "text": "1533–1599",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yunqi-zhuhong",
+  "label": "Yunqi Zhuhong",
+  "account": "scholarly",
+  "from": 1535,
+  "to": 1615,
+  "text": "1535–1615 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -20460,6 +25160,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:zibo-zhenke",
+  "label": "Zibo Zhenke 紫柏真可",
+  "account": "scholarly",
+  "from": 1543,
+  "to": 1603,
+  "text": "1543–1603",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kennyo",
+  "label": "Kennyo",
+  "account": "scholarly",
+  "from": 1543,
+  "to": 1592,
+  "text": "1543–1592 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:dadu-vani",
   "label": "Dādū Vāṇī (Dādū Dayāl kī Bāṇī)",
   "account": "tradition",
@@ -20490,6 +25210,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:samyeong-yujeong",
+  "label": "Samyeong Yujeong 四溟惟政",
+  "account": "scholarly",
+  "from": 1544,
+  "to": 1610,
+  "text": "1544–1610",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:dadu-panth",
   "label": "Dādū Panth",
   "account": "tradition",
@@ -20497,6 +25227,16 @@
   "to": null,
   "text": "Dādū Dayāl, 1544–1603; his fifty-two disciples founded fifty-two seats (thāmbā)",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:hanshan-deqing",
+  "label": "Hanshan Deqing 憨山德清",
+  "account": "scholarly",
+  "from": 1546,
+  "to": 1623,
+  "text": "1546–1623",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -20810,6 +25550,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:youxi-chuandeng",
+  "label": "Youxi Chuandeng",
+  "account": "scholarly",
+  "from": 1554,
+  "to": 1628,
+  "text": "1554–1628 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:bhattadeva",
   "label": "Bhaṭṭadeva (Vaikuṇṭhanātha Bhāgavata Bhaṭṭācārya)",
   "account": "scholarly",
@@ -20890,6 +25640,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:seonga-gwigam",
+  "label": "Mirror for Seon Students (Seon'ga gwigam)",
+  "account": "scholarly",
+  "from": 1564,
+  "to": 1579,
+  "text": "1564 (printed 1579)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:miyun-yuanwu",
+  "label": "Miyun Yuanwu 密雲圓悟",
+  "account": "scholarly",
+  "from": 1566,
+  "to": 1642,
+  "text": "1566–1642",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:rajjab",
   "label": "Rajjab",
   "account": "scholarly",
@@ -20897,6 +25667,16 @@
   "to": 1689,
   "text": "c. 1567–1689 (traditional long life; low confidence)",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yuan-hongdao",
+  "label": "Yuan Hongdao",
+  "account": "scholarly",
+  "from": 1568,
+  "to": 1610,
+  "text": "1568–1610 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -21110,6 +25890,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:takuan",
+  "label": "Takuan Sōhō 澤庵宗彭",
+  "account": "scholarly",
+  "from": 1573,
+  "to": 1645,
+  "text": "1573–1645",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:laksmana-gita",
   "label": "Lakṣmaṇa Gītā",
   "account": "scholarly",
@@ -21187,6 +25977,16 @@
   "to": 1577,
   "text": "1577 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:suzuki-shosan",
+  "label": "Suzuki Shōsan 鈴木正三",
+  "account": "scholarly",
+  "from": 1579,
+  "to": 1655,
+  "text": "1579–1655",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -21270,6 +26070,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:rigdzin-ngagi-wangpo",
+  "label": "Rigdzin Ngagi Wangpo (rig 'dzin ngag gi dbang po)",
+  "account": "scholarly",
+  "from": 1580,
+  "to": 1639,
+  "text": "1580-1639",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:dadu-panth",
   "label": "Dādū Panth",
   "account": "scholarly",
@@ -21290,12 +26100,32 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:amituo-jing-shuchao",
+  "label": "Commentary and Subcommentary on the Amitābha Sūtra (Amituo jing shuchao)",
+  "account": "scholarly",
+  "from": 1584,
+  "to": 1584,
+  "text": "1584 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:bhaktamal",
   "label": "Bhaktamāl",
   "account": "scholarly",
   "from": 1585,
   "to": 1625,
   "text": "c. 1585–1625 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jatson-nyingpo",
+  "label": "Jatsön Nyingpo ('ja' tshon snying po)",
+  "account": "scholarly",
+  "from": 1585,
+  "to": 1656,
+  "text": "1585-1656",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -21397,6 +26227,26 @@
   "to": 1610,
   "text": "fl. c. 1590–1600 CE",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ingen",
+  "label": "Ingen Ryūki 隱元隆琦 (Yinyuan Longqi)",
+  "account": "scholarly",
+  "from": 1592,
+  "to": 1673,
+  "text": "1592–1673",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:feiyin-tongrong",
+  "label": "Feiyin Tongrong 費隱通容",
+  "account": "scholarly",
+  "from": 1593,
+  "to": 1661,
+  "text": "1593–1661",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -21647,6 +26497,26 @@
   "to": null,
   "text": "formed after Mādhavadeva's death (1596), 17th c.",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:xifang-helun",
+  "label": "Comprehensive Treatise on the West (Xifang helun)",
+  "account": "scholarly",
+  "from": 1599,
+  "to": 1599,
+  "text": "1599 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ouyi-zhixu",
+  "label": "Ouyi Zhixu",
+  "account": "scholarly",
+  "from": 1599,
+  "to": 1655,
+  "text": "1599–1655 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -22080,6 +26950,36 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:dongshan-yulu",
+  "label": "Recorded Sayings of Dongshan (Dongshan yulu)",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1800,
+  "text": "compilations of the 17th–18th c. drawing on Song sources",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:changuan-cejin",
+  "label": "Whip for Spurring Students through the Chan Barrier (Changuan cejin)",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1600,
+  "text": "1600",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:bka-babs-bdun-ldan",
+  "label": "The Seven Instruction Lineages (bka' babs bdun ldan)",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1610,
+  "text": "c. 1600",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:kamalakara-bhatta",
   "label": "Kamalākara Bhaṭṭa",
   "account": "scholarly",
@@ -22400,6 +27300,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "lin:fuke",
+  "label": "Fuke school",
+  "account": "scholarly",
+  "from": 1600,
+  "to": 1871,
+  "text": "organised as a Rinzai-affiliated order of mendicant shakuhachi players (komusō) in the Edo period; abolished 1871; revived by lay players",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:kina-ram",
   "label": "Kīnārām",
   "account": "tradition",
@@ -22417,6 +27327,26 @@
   "to": null,
   "text": "Kīnārām, born Vikrama 1658 (1601 CE) at Rāmgaṛh near Varanasi, lived to 1771 CE; Dattātreya is the ādiguru",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:shinshu-honganji-ha",
+  "label": "Jōdo Shinshū Honganji-ha",
+  "account": "scholarly",
+  "from": 1602,
+  "to": null,
+  "text": "1602 (split of the Honganji)",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:shinshu-otani-ha",
+  "label": "Shinshū Ōtani-ha",
+  "account": "scholarly",
+  "from": 1602,
+  "to": null,
+  "text": "1602",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -22590,6 +27520,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:mokuan-shoto",
+  "label": "Mokuan Shōtō 木庵性瑫",
+  "account": "scholarly",
+  "from": 1611,
+  "to": 1684,
+  "text": "1611–1684",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:jatakalankara",
   "label": "Jātakālaṅkāra",
   "account": "scholarly",
@@ -22600,12 +27540,42 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:karma-chagme",
+  "label": "Karma Chagme (karma chags med)",
+  "account": "scholarly",
+  "from": 1613,
+  "to": 1678,
+  "text": "1613-1678",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:dara-shikoh",
   "label": "Dārā Shikoh",
   "account": "scholarly",
   "from": 1615,
   "to": 1659,
   "text": "1615–1659 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sokuhi-nyoitsu",
+  "label": "Sokuhi Nyoitsu 即非如一",
+  "account": "scholarly",
+  "from": 1616,
+  "to": 1671,
+  "text": "1616–1671",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:dalai-lama-5",
+  "label": "The Fifth Dalai Lama, Ngawang Lobzang Gyatso",
+  "account": "scholarly",
+  "from": 1617,
+  "to": 1682,
+  "text": "1617-1682",
   "confidence": "high",
   "level": "skeleton"
  },
@@ -22720,6 +27690,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:bankei",
+  "label": "Bankei Yōtaku 盤珪永琢",
+  "account": "scholarly",
+  "from": 1622,
+  "to": 1693,
+  "text": "1622–1693",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:yuktabhavadeva",
   "label": "Yuktabhavadeva",
   "account": "scholarly",
@@ -22747,6 +27727,16 @@
   "to": 1688,
   "text": "c. 1624–1688 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:pema-rigdzin",
+  "label": "Dzogchen Pema Rigdzin (rdzogs chen padma rig 'dzin)",
+  "account": "scholarly",
+  "from": 1625,
+  "to": 1697,
+  "text": "1625-1697",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -22780,6 +27770,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:xingce",
+  "label": "Xingce",
+  "account": "scholarly",
+  "from": 1628,
+  "to": 1682,
+  "text": "1628–1682 CE",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:tukaram-gatha",
   "label": "Tukārām Gāthā",
   "account": "scholarly",
@@ -22810,6 +27810,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:tetsugen-doko",
+  "label": "Tetsugen Dōkō 鐵眼道光",
+  "account": "scholarly",
+  "from": 1630,
+  "to": 1682,
+  "text": "1630–1682",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:nyayasutravrtti-visvanatha",
   "label": "Nyāyasūtravṛtti (Viśvanātha)",
   "account": "scholarly",
@@ -22837,6 +27847,26 @@
   "to": 1636,
   "text": "1636 CE",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:manzan-dohaku",
+  "label": "Manzan Dōhaku 卍山道白",
+  "account": "scholarly",
+  "from": 1636,
+  "to": 1715,
+  "text": "1636–1715",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:rigdzin-kunzang-sherab",
+  "label": "Rigdzin Kunzang Sherab (rig 'dzin kun bzang shes rab)",
+  "account": "scholarly",
+  "from": 1636,
+  "to": 1698,
+  "text": "1636-1698",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -22970,6 +28000,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:shoju-rojin",
+  "label": "Shōju Rōjin (Dōkyō Etan) 道鏡慧端",
+  "account": "scholarly",
+  "from": 1642,
+  "to": 1721,
+  "text": "1642–1721",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:banarasivilasa",
   "label": "Banārasīvilāsa",
   "account": "scholarly",
@@ -22977,6 +28017,26 @@
   "to": 1644,
   "text": "compiled 1644 CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:terdak-lingpa",
+  "label": "Terdak Lingpa Gyurme Dorje (gter bdag gling pa 'gyur med rdo rje)",
+  "account": "scholarly",
+  "from": 1646,
+  "to": 1714,
+  "text": "1646-1714",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:amituo-jing-yaojie",
+  "label": "Essential Explanation of the Amitābha Sūtra (Amituo jing yaojie)",
+  "account": "scholarly",
+  "from": 1647,
+  "to": 1647,
+  "text": "1647 CE",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -23080,6 +28140,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:bankei-zenji-seppo",
+  "label": "Sermons of Bankei (Bankei zenji seppō)",
+  "account": "scholarly",
+  "from": 1650,
+  "to": 1693,
+  "text": "late 17th c. (Ryūmonji sermons 1690)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:nilakantha-caturdhara",
   "label": "Nīlakaṇṭha Caturdhara",
   "account": "scholarly",
@@ -23170,6 +28240,26 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:lochen-dharmasri",
+  "label": "Lochen Dharmaśrī (lo chen dharma shrI)",
+  "account": "scholarly",
+  "from": 1654,
+  "to": 1718,
+  "text": "1654-1718",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:obaku",
+  "label": "Ōbaku Zen",
+  "account": "scholarly",
+  "from": 1654,
+  "to": null,
+  "text": "17th c. Ming-dynasty Linji transmission; living",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:sirr-i-akbar",
   "label": "Sirr-i Akbar",
   "account": "scholarly",
@@ -23200,6 +28290,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:roankyo",
+  "label": "Donkey-Saddle Bridge (Roankyō)",
+  "account": "scholarly",
+  "from": 1660,
+  "to": 1660,
+  "text": "1660",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:paribhasendusekhara",
   "label": "Paribhāṣenduśekhara",
   "account": "scholarly",
@@ -23216,6 +28316,16 @@
   "from": 1670,
   "to": 1750,
   "text": "late 17th – early 18th c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:nyingma-kama",
+  "label": "Nyingma Kama (rnying ma bka' ma, the Canonical Transmission)",
+  "account": "scholarly",
+  "from": 1670,
+  "to": 1987,
+  "text": "17th-20th c. compilations",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -23237,6 +28347,16 @@
   "to": 1761,
   "text": "c. 1670–1761",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:obaku-shingi",
+  "label": "Pure Rules of Ōbaku (Ōbaku shingi)",
+  "account": "scholarly",
+  "from": 1672,
+  "to": 1672,
+  "text": "1672",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -23310,6 +28430,46 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:menzan-zuiho",
+  "label": "Menzan Zuihō 面山瑞方",
+  "account": "scholarly",
+  "from": 1683,
+  "to": 1769,
+  "text": "1683–1769",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:hakuin",
+  "label": "Hakuin Ekaku 白隱慧鶴",
+  "account": "scholarly",
+  "from": 1685,
+  "to": 1769,
+  "text": "1686–1769 (1685–1768 by the lunar calendar)",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shengan-shixian",
+  "label": "Shengan Shixian",
+  "account": "scholarly",
+  "from": 1686,
+  "to": 1734,
+  "text": "1686–1734 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:zenrin-kushu",
+  "label": "Zen Phrase Anthology (Zenrin kushū)",
+  "account": "scholarly",
+  "from": 1688,
+  "to": 1688,
+  "text": "1688",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:jai-singh-ii",
   "label": "Sawai Jai Singh II",
   "account": "scholarly",
@@ -23317,6 +28477,16 @@
   "to": 1743,
   "text": "1688–1743 CE",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:shumon-kattoshu",
+  "label": "Collection of Entangling Vines (Shūmon kattōshū)",
+  "account": "scholarly",
+  "from": 1689,
+  "to": 1689,
+  "text": "1689",
+  "confidence": "low",
   "level": "skeleton"
  },
  {
@@ -23800,6 +28970,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:hakuyu",
+  "label": "Hakuyū 白幽子 (Ishikawa Jishun)",
+  "account": "scholarly",
+  "from": null,
+  "to": 1709,
+  "text": "d. 1709",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:paltu-sahib",
   "label": "Paltū Sāhib",
   "account": "scholarly",
@@ -23940,6 +29120,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:toirei-enji",
+  "label": "Tōrei Enji 東嶺圓慈",
+  "account": "scholarly",
+  "from": 1721,
+  "to": 1792,
+  "text": "1721–1792",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:acarya-bhiksu",
   "label": "Ācārya Bhikṣu (Bhīkhaṇjī)",
   "account": "scholarly",
@@ -23960,6 +29150,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:gasan-jito",
+  "label": "Gasan Jitō 峨山慈棹",
+  "account": "scholarly",
+  "from": 1727,
+  "to": 1797,
+  "text": "1727–1797",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:harikathamrtasara",
   "label": "Harikathāmṛtasāra",
   "account": "scholarly",
@@ -23967,6 +29167,16 @@
   "to": 1809,
   "text": "18th c. CE",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jigme-lingpa",
+  "label": "Jigme Lingpa (rig 'dzin 'jigs med gling pa)",
+  "account": "scholarly",
+  "from": 1730,
+  "to": 1798,
+  "text": "1730-1798",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -24020,6 +29230,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:chewu-jixing",
+  "label": "Chewu Jixing",
+  "account": "scholarly",
+  "from": 1741,
+  "to": 1810,
+  "text": "1741–1810 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:sahaj-prakas",
   "label": "Sahaj Prakāś",
   "account": "scholarly",
@@ -24037,6 +29257,26 @@
   "to": 1745,
   "text": "1745 CE (as usually stated)",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jigme-trinle-ozer",
+  "label": "First Dodrupchen, Jigme Trinle Özer (rdo grub chen 'jigs med phrin las 'od zer)",
+  "account": "scholarly",
+  "from": 1745,
+  "to": 1821,
+  "text": "1745-1821",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:orategama",
+  "label": "Embossed Tea Kettle (Orategama)",
+  "account": "scholarly",
+  "from": 1749,
+  "to": 1751,
+  "text": "1749–1751",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -24090,12 +29330,42 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:shumon-mujinto-ron",
+  "label": "Discourse on the Inexhaustible Lamp of the Zen School (Shūmon mujintō ron)",
+  "account": "scholarly",
+  "from": 1751,
+  "to": 1800,
+  "text": "1751 (published 1800)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:inzan-ien",
+  "label": "Inzan Ien 隱山惟琰",
+  "account": "scholarly",
+  "from": 1751,
+  "to": 1814,
+  "text": "1751–1814",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:annadamangala",
   "label": "Annadāmaṅgala (Bhāratcandra Rāy)",
   "account": "scholarly",
   "from": 1752,
   "to": 1753,
   "text": "1752–53 CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:sekishu-onjo",
+  "label": "The Sound of One Hand (Sekishu onjō)",
+  "account": "scholarly",
+  "from": 1753,
+  "to": 1753,
+  "text": "1753",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -24140,6 +29410,56 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:yasenkanna",
+  "label": "Idle Talk on a Night Boat (Yasenkanna)",
+  "account": "scholarly",
+  "from": 1757,
+  "to": 1757,
+  "text": "1757",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:longchen-nyingthig",
+  "label": "Longchen Nyingthig (klong chen snying thig, the Heart-essence of the Great Expanse)",
+  "account": "scholarly",
+  "from": 1757,
+  "to": 1770,
+  "text": "1757-1760s",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:longchen-nyingthig",
+  "label": "Longchen Nyingthig (the Heart-essence of the Great Expanse)",
+  "account": "scholarly",
+  "from": 1757,
+  "to": 1800,
+  "text": "late 18th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:longchen-nyingthig",
+  "label": "Longchen Nyingthig (the Heart-essence of the Great Expanse)",
+  "account": "tradition",
+  "from": 1757,
+  "to": 1798,
+  "text": "revealed as a mind treasure to Jigme Lingpa in visions of Longchenpa (from 1757)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:ryokan",
+  "label": "Taigu Ryōkan 大愚良寛",
+  "account": "scholarly",
+  "from": 1758,
+  "to": 1831,
+  "text": "1758–1831",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:hariharananda-bharati",
   "label": "Hariharānanda Bhāratī (Hariharānandanātha Tīrthasvāmī)",
   "account": "scholarly",
@@ -24157,6 +29477,16 @@
   "to": 1779,
   "text": "late 18th c.; dates uncertain",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:takuju-kosen",
+  "label": "Takujū Kosen 卓洲胡僊",
+  "account": "scholarly",
+  "from": 1760,
+  "to": 1833,
+  "text": "1760–1833",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -24190,6 +29520,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:getse-pandita",
+  "label": "Getse Paṇḍita Gyurme Tsewang Chokdrub (dge rtse paNDi ta)",
+  "account": "scholarly",
+  "from": 1761,
+  "to": 1829,
+  "text": "1761-1829",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:bhaktavijaya",
   "label": "Bhaktavijaya",
   "account": "scholarly",
@@ -24210,6 +29550,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:ippen-shonin-goroku",
+  "label": "Recorded Sayings of Ippen (Ippen shōnin goroku)",
+  "account": "scholarly",
+  "from": 1763,
+  "to": 1763,
+  "text": "1763 (compilation)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:tulsi-sahib-hathras",
   "label": "Tulsī Sāhib of Hāthras",
   "account": "scholarly",
@@ -24220,8 +29570,28 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:jigme-gyalwai-nyugu",
+  "label": "Jigme Gyalwai Nyugu ('jigs med rgyal ba'i myu gu)",
+  "account": "scholarly",
+  "from": 1765,
+  "to": 1843,
+  "text": "1765-1843",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:hir-waris-shah",
   "label": "Hīr (Wāris Shāh)",
+  "account": "scholarly",
+  "from": 1766,
+  "to": 1766,
+  "text": "1766",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:itsumadegusa",
+  "label": "Wild Ivy (Itsumadegusa)",
   "account": "scholarly",
   "from": 1766,
   "to": 1766,
@@ -24410,6 +29780,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:wei-yuan",
+  "label": "Wei Yuan",
+  "account": "scholarly",
+  "from": 1794,
+  "to": 1857,
+  "text": "1794–1857 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:gangadhara-kaviratna",
   "label": "Gaṅgādhara Kaviratna",
   "account": "scholarly",
@@ -24520,6 +29900,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:do-khyentse",
+  "label": "Do Khyentse Yeshe Dorje (mdo mkhyen brtse ye shes rdo rje)",
+  "account": "scholarly",
+  "from": 1800,
+  "to": 1866,
+  "text": "1800-1866",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "lin:balarami",
   "label": "Balarāmī sampradāya",
   "account": "scholarly",
@@ -24550,6 +29940,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:patrul-rinpoche",
+  "label": "Patrul Rinpoche (dpal sprul o rgyan 'jigs med chos kyi dbang po)",
+  "account": "scholarly",
+  "from": 1808,
+  "to": 1887,
+  "text": "1808-1887",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:pagla-kanai",
   "label": "Pāglā Kānāi",
   "account": "scholarly",
@@ -24576,6 +29976,16 @@
   "from": 1813,
   "to": 1846,
   "text": "1813–1846 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:jamgon-kongtrul",
+  "label": "Jamgön Kongtrul Lodrö Thaye ('jam mgon kong sprul blo gros mtha' yas)",
+  "account": "scholarly",
+  "from": 1813,
+  "to": 1899,
+  "text": "1813-1899",
   "confidence": "high",
   "level": "skeleton"
  },
@@ -24630,6 +30040,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:jamyang-khyentse-wangpo",
+  "label": "Jamyang Khyentse Wangpo ('jam dbyangs mkhyen brtse'i dbang po)",
+  "account": "scholarly",
+  "from": 1820,
+  "to": 1892,
+  "text": "1820-1892",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:bapudeva-sastri",
   "label": "Bāpudeva Śāstrī",
   "account": "scholarly",
@@ -24667,6 +30087,26 @@
   "to": 1898,
   "text": "1829–1898",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:nyoshul-lungtok",
+  "label": "Nyoshul Lungtok Tenpai Nyima (smyo shul lung rtogs bstan pa'i nyi ma)",
+  "account": "scholarly",
+  "from": 1829,
+  "to": 1901,
+  "text": "1829-1901",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:chokgyur-lingpa",
+  "label": "Chokgyur Dechen Lingpa (mchog gyur bde chen gling pa)",
+  "account": "scholarly",
+  "from": 1829,
+  "to": 1870,
+  "text": "1829-1870",
+  "confidence": "high",
   "level": "skeleton"
  },
  {
@@ -24730,6 +30170,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:dudjom-lingpa",
+  "label": "Dudjom Lingpa (bdud 'joms gling pa)",
+  "account": "scholarly",
+  "from": 1835,
+  "to": 1904,
+  "text": "1835-1904",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:mahesacandra-nyayaratna",
   "label": "Maheśacandra Nyāyaratna",
   "account": "scholarly",
@@ -24770,6 +30220,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:xuyun",
+  "label": "Xuyun 虛雲",
+  "account": "tradition",
+  "from": 1840,
+  "to": 1959,
+  "text": "1840–1959",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:duddu-sah",
   "label": "Duddu Śāh",
   "account": "scholarly",
@@ -24777,6 +30237,16 @@
   "to": 1911,
   "text": "19th c.",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:adzom-drukpa",
+  "label": "Adzom Drukpa Natsok Rangdrol (a 'dzom 'brug pa)",
+  "account": "scholarly",
+  "from": 1842,
+  "to": 1924,
+  "text": "1842-1924",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -24800,12 +30270,52 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:gyeongheo",
+  "label": "Gyeongheo Seong'u 鏡虛惺牛",
+  "account": "scholarly",
+  "from": 1846,
+  "to": 1912,
+  "text": "1846–1912",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:mipham",
+  "label": "Mipham Jamyang Namgyal Gyatso ('ju mi pham)",
+  "account": "scholarly",
+  "from": 1846,
+  "to": 1912,
+  "text": "1846-1912",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:uttaratantra-commentary-kongtrul",
   "label": "Rgyud bla ma'i 'grel pa phyir mi ldog pa seng ge'i nga ro (Jamgön Kongtrul)",
   "account": "scholarly",
   "from": 1850,
   "to": 1899,
   "text": "19th c.",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:asahara-saichi",
+  "label": "Asahara Saichi",
+  "account": "scholarly",
+  "from": 1850,
+  "to": 1932,
+  "text": "1850–1932 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:chokling-tersar",
+  "label": "Chokling Tersar (the New Treasures of Chokgyur Lingpa)",
+  "account": "scholarly",
+  "from": 1850,
+  "to": 1870,
+  "text": "mid-19th c.",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -24826,6 +30336,26 @@
   "from": 1854,
   "to": 1922,
   "text": "1854–1922",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:kunzang-lamai-shelung",
+  "label": "Kunzang Lamai Shelung (kun bzang bla ma'i zhal lung, the Words of My Perfect Teacher)",
+  "account": "scholarly",
+  "from": 1855,
+  "to": 1875,
+  "text": "composed in the 1860s-70s (moderate)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:rinchen-terdzo",
+  "label": "Rinchen Terdzö (rin chen gter mdzod, the Treasury of Precious Treasures)",
+  "account": "scholarly",
+  "from": 1855,
+  "to": 1890,
+  "text": "compiled c. 1855-1880s",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -24870,6 +30400,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:terton-sogyal",
+  "label": "Tertön Sogyal Lerab Lingpa (gter ston bsod rgyal las rab gling pa)",
+  "account": "scholarly",
+  "from": 1856,
+  "to": 1926,
+  "text": "1856-1926",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:sawan-singh",
   "label": "Sawan Singh (Huzur Maharaj)",
   "account": "scholarly",
@@ -24877,6 +30417,16 @@
   "to": 1948,
   "text": "1858–1948",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:shardza-tashi-gyaltsen",
+  "label": "Shardza Tashi Gyaltsen (shar rdza bkra shis rgyal mtshan)",
+  "account": "scholarly",
+  "from": 1859,
+  "to": 1934,
+  "text": "1859-1934",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -24916,6 +30466,16 @@
   "from": 1860,
   "to": null,
   "text": "revived in the 19th c. by Rājendrasūri (1827–1906)",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:dudjom-tersar",
+  "label": "Dudjom Tersar (the New Treasures of Dudjom)",
+  "account": "scholarly",
+  "from": 1860,
+  "to": 1987,
+  "text": "late 19th - 20th c.",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -24966,6 +30526,26 @@
   "from": 1861,
   "to": null,
   "text": "public satsang opened by Shiv Dayal Singh (Soamiji Maharaj) at Agra on Basant Pañcamī 1861",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:yinguang",
+  "label": "Yinguang",
+  "account": "scholarly",
+  "from": 1862,
+  "to": 1940,
+  "text": "1862–1940 CE",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:kiyozawa-manshi",
+  "label": "Kiyozawa Manshi",
+  "account": "scholarly",
+  "from": 1863,
+  "to": 1903,
+  "text": "1863–1903 CE",
   "confidence": "high",
   "level": "skeleton"
  },
@@ -25077,6 +30657,16 @@
   "to": 1913,
   "text": "1871–1913",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:mangong",
+  "label": "Mangong Wolmyeon 滿空月面",
+  "account": "scholarly",
+  "from": 1871,
+  "to": 1946,
+  "text": "1871–1946",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -25206,6 +30796,16 @@
   "from": 1878,
   "to": null,
   "text": "from 1878 (Soamiji's death); Dayalbagh colony founded 1915",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:khenpo-ngakchung",
+  "label": "Khenpo Ngawang Palzang (Khenpo Ngakchung)",
+  "account": "scholarly",
+  "from": 1879,
+  "to": 1941,
+  "text": "1879-1941",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -25610,6 +31210,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:dudjom-rinpoche",
+  "label": "Dudjom Rinpoche Jigdral Yeshe Dorje (bdud 'joms 'jigs bral ye shes rdo rje)",
+  "account": "scholarly",
+  "from": 1904,
+  "to": 1987,
+  "text": "1904-1987",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:sahajatattva-prakasa",
   "label": "Sahajatattva-prakāśa (Kartābhajā dharmer ādi vṛttānta)",
   "account": "scholarly",
@@ -25690,6 +31300,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:dilgo-khyentse",
+  "label": "Dilgo Khyentse Rinpoche Tashi Paljor (dil mgo mkhyen brtse)",
+  "account": "scholarly",
+  "from": 1910,
+  "to": 1991,
+  "text": "1910-1991",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:dipa-ma",
   "label": "Dipa Ma",
   "account": "scholarly",
@@ -25710,6 +31330,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:seongcheol",
+  "label": "Toeong Seongcheol 退翁性徹",
+  "account": "scholarly",
+  "from": 1912,
+  "to": 1993,
+  "text": "1912–1993",
+  "confidence": "high",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:ajahn-maha-boowa",
   "label": "Ajahn Maha Boowa Ñāṇasampanno",
   "account": "scholarly",
@@ -25717,6 +31347,16 @@
   "to": 2011,
   "text": "1913–2011",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:chatral-sangye-dorje",
+  "label": "Chatral Sangye Dorje (bya bral sangs rgyas rdo rje)",
+  "account": "scholarly",
+  "from": 1913,
+  "to": 2015,
+  "text": "1913-2015",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -25830,6 +31470,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:yinguang-wenchao",
+  "label": "Collected Letters and Essays of Master Yinguang",
+  "account": "scholarly",
+  "from": 1918,
+  "to": 1940,
+  "text": "published from 1918",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:ajahn-chah",
   "label": "Ajahn Chah Subhaddo",
   "account": "scholarly",
@@ -25846,6 +31496,16 @@
   "from": 1919,
   "to": 1965,
   "text": "letters 1919–1948; published 1965",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:tulku-urgyen",
+  "label": "Tulku Urgyen Rinpoche (sprul sku o rgyan)",
+  "account": "scholarly",
+  "from": 1920,
+  "to": 1996,
+  "text": "1920-1996",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -25880,6 +31540,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:legshe-dzod-shardza",
+  "label": "Legshe Rinpoche Dzöd (legs bshad rin po che'i mdzod, the Treasury of Good Sayings)",
+  "account": "scholarly",
+  "from": 1922,
+  "to": 1922,
+  "text": "1922 (moderate)",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:sanatan-das-baul",
   "label": "Sanātan Dās Bāul",
   "account": "scholarly",
@@ -25910,6 +31580,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:tenzin-namdak",
+  "label": "Lopön Tenzin Namdak (slob dpon bstan 'dzin rnam dag)",
+  "account": "scholarly",
+  "from": 1926,
+  "to": null,
+  "text": "born 1926",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:anasakti-yoga",
   "label": "Anāsakti Yoga of M. K. Gandhi",
   "account": "scholarly",
@@ -25937,6 +31617,16 @@
   "to": 2005,
   "text": "1929–2005",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:lungtok-tenpai-nyima",
+  "label": "Lungtok Tenpai Nyima, 33rd Menri Trizin (lung rtogs bstan pa'i nyi ma)",
+  "account": "scholarly",
+  "from": 1929,
+  "to": 2017,
+  "text": "1929-2017",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -26030,6 +31720,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "tch:khenpo-jigme-phuntsok",
+  "label": "Khenpo Jigme Phuntsok ('jigs med phun tshogs)",
+  "account": "scholarly",
+  "from": 1933,
+  "to": 2004,
+  "text": "1933-2004",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:amritananda-natha-sarasvati",
   "label": "Amṛtānandanātha Sarasvatī (of Devīpuram)",
   "account": "scholarly",
@@ -26076,6 +31776,16 @@
   "from": 1938,
   "to": null,
   "text": "b. 1938",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:namkhai-norbu",
+  "label": "Chögyal Namkhai Norbu (nam mkha'i nor bu)",
+  "account": "scholarly",
+  "from": 1938,
+  "to": 2018,
+  "text": "1938-2018",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -26280,6 +31990,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:dudjom-chojung",
+  "label": "The Nyingma History of Dudjom Rinpoche (bstan pa'i rnam gzhag and chos 'byung)",
+  "account": "scholarly",
+  "from": 1962,
+  "to": 1967,
+  "text": "1960s",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "src:ajahn-mun-biography",
   "label": "Venerable Ācariya Mun Bhūridatta Thera: A Spiritual Biography",
   "account": "scholarly",
@@ -26307,6 +32027,16 @@
   "to": 1979,
   "text": "1979",
   "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:seonmun-jeongno",
+  "label": "The Correct Path of the Seon School (Seonmun jeongno)",
+  "account": "scholarly",
+  "from": 1981,
+  "to": 1981,
+  "text": "1981",
+  "confidence": "high",
   "level": "skeleton"
  },
  {

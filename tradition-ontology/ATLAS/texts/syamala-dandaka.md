@@ -13,4 +13,4 @@
 A prose-poem (daṇḍaka) to Śyāmalā (Mātaṅgī, Lalitā's minister), ascribed to the poet Kālidāsa.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._

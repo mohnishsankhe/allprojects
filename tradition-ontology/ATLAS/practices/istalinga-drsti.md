@@ -16,4 +16,4 @@ Holding the liṅga on the palm at eye level and gazing on it steadily, then tur
 _Notes: Recorded from general knowledge of the Śivayoga revival (Hānagal Kumāra Svāmi); textual source to be found._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._

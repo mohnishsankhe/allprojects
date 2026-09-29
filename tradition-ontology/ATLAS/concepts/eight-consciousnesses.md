@@ -1,18 +1,24 @@
-# The eight consciousnesses (sūtra layer)
+# The eight consciousnesses
 
 `cpt:eight-consciousnesses` · `skeleton` · confidence high
 
 **Category:** mind
-**Members:** cakṣur-, śrotra-, ghrāṇa-, jihvā-, kāya-vijñāna, manovijñāna, manas, ālayavijñāna
+**Members:** cakṣur-vijñāna, śrotra-vijñāna, ghrāṇa-vijñāna, jihvā-vijñāna, kāya-vijñāna, mano-vijñāna, kliṣṭa-manas, ālaya-vijñāna, cakṣur-, śrotra-, ghrāṇa-, jihvā-, manovijñāna, manas, ālayavijñāna
 
 ## Names
+- [Yogācāra](../lineages/yogacara.md): aṣṭa vijñānāni
+- `lin:faxiang`: bashi 八識
 
 ## Definitions
+- [Yogācāra](../lineages/yogacara.md): The five sense-consciousnesses, mental consciousness, the afflicted mind (kliṣṭa-manas) and the store-consciousness (ālaya-vijñāna); the last is the root in which the others arise like waves; the treatises (Triṃśikā, Mahāyānasaṃgraha, Cheng weishi lun) present them as three transformations of consciousness.
+- [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md): The pramāṇa authors (following Dharmakīrti) generally speak only of the six consciousnesses; Tibetan doxography calls them 'Cittamātrins following reasoning' in contrast to 'followers of scripture' who accept eight.
 - [Mahāyāna](../lineages/mahayana.md): Five sense-consciousnesses, mind-consciousness, manas and the ālayavijñāna, from which the others arise like waves; the Saṃdhinirmocana's ādāna/ālaya holds all seeds.
 
 ## Relations (interpretation layer)
+- part-of → [The three transformations of consciousness](three-transformations-of-consciousness.md)
+- contrasts-with → [The 89 / 121 types of consciousness](classes-of-consciousness.md): Theravāda Abhidhamma counts six consciousnesses with bhavaṅga, no ālaya
 
-_Notes: Yogācāra systematization: U41._
+_Notes: U39 contributes the sūtra-layer definition under the same id. The P definition's doxographic claim is the Tibetan tenet-system (grub mtha') account, recorded as such._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

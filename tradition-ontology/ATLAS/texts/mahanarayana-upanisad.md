@@ -44,4 +44,4 @@ _Notes: Not the Muktikā's 'Mahānārāyaṇa' (that is the Atharvan Tripādvibh
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:raw_etexts:mahanarayana_upanishad, catalog:raw_etexts:AraNyakam_Andhrakam — Extant; it is TA prapāṭhaka 10 (Āndhra), and the food-offering into the breaths is at 10.69–70 (text-located).
 
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._

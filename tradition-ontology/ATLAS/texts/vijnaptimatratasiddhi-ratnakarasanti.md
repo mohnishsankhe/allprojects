@@ -7,7 +7,7 @@
 **Family:** ascetic
 **Lineages:** [Yogācāra](../lineages/yogacara.md)
 **Authors:** 
-  - [Ratnākaraśānti](../teachers/ratnakarasanti.md) — role: author; attribution: doubtful
+  - [Śāntipa (Ratnākaraśānti)](../teachers/ratnakarasanti.md) — role: author; attribution: doubtful
 **Availability:** digitized-translation
 
 A short proof of cognition-only extant in Tibetan; attributed (from memory) to Ratnākaraśānti.
@@ -17,4 +17,4 @@ A short proof of cognition-only extant in Tibetan; attributed (from memory) to R
 _Notes: Author attribution from memory — to be checked against the Tengyur colophon._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

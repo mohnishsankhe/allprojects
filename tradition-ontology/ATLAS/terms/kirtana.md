@@ -4,9 +4,10 @@
 
 **Language:** Sanskrit
 **Native script:** कीर्तन
-**Literal:** celebrating, singing
+**Literal:** glorifying, celebrating
 
 ## Definitions by tradition
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 7–9: The great-souled always glorify the Lord (kīrtayantaḥ), strive, keep firm vows and bow to him with devotion (9.14).
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): Singing or reciting the Lord's names and deeds, the chief means of the Kali age.
 - [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](../lineages/alvar.md): Singing the Lord's names and deeds: the girls of the Tiruppāvai 'sing with the mouth'; the devotees roam the earth singing and dancing (TVM 5.2.1).
 - [Bhakti-śāstra: the sūtra tradition of devotional theory (Nārada, Śāṇḍilya)](../lineages/bhakti-sastra.md): Hearing and singing the Lord's qualities is a means to devotion even in worldly life (NBS 37); being sung of, he quickly manifests (NBS 80).
@@ -17,6 +18,11 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
+**Related:** [namaskāra](namaskara.md), [bhakti](bhakti.md)
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti, skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:9.14 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U07-puranas, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti, skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._

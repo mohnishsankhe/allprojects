@@ -16,4 +16,4 @@
 _Notes: Homonym of mudrā (seal) and darśana (vision/school)._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._

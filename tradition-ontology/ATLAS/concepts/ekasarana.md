@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [Surrender (prapatti, śaraṇāgati)](prapatti.md) (seeker): both are refuge in the Lord alone; Ekaśaraṇa adds the exclusion of other deities and centres on the name — rests on [pasanda-mardana](../texts/kirtana-ghosa.md#tea-kirtana-ghosa-pasanda-mardana)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._

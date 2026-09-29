@@ -11,4 +11,4 @@ Living as a householder by one's own craft (Kabīr the weaver, Ravidās the leat
   - [The oral and popular corpus of Kabīr (sākhīs, dohās, padas and bhajans)](../texts/kabir-oral-corpus.md) — ref: 'sāīṃ itnā dījiye'; rests_on: ["tea:kabir-oral-corpus:sain-itna-dijiye"]
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._

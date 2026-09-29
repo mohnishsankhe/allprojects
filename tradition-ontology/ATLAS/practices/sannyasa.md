@@ -1,6 +1,6 @@
 # Renunciation (saṃnyāsa)
 
-`prc:sannyasa` · `skeleton` · confidence high
+`prc:sannyasa` · `sourced` · confidence high
 
 **Category:** ethics
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -16,4 +16,8 @@ Rising above the desires for sons, wealth and worlds, living as a mendicant on a
 _Notes: The rules of the renunciant orders are in the Saṃnyāsa Upaniṣads (U04) and later texts (U57)._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/kausitaki-upanisad-sharada/segments.jsonl (Advaita-Śāradā mūla kst.md, Advaita-Śāradā section numbering), text:sources_raw/prepared/mundaka-upanisa — Located: BĀU 3.5.1, 4.4.22; MuU 3.2.6, 1.2.11; KauU 2.15 ('pari vā vrajet' for the father who recovers). All 5 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 3.5.1; BĀU 4.4.22; MuU 3.2.6; MuU 1.2.11; KauU 2.15). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

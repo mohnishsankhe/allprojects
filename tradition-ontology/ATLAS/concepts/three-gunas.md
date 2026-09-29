@@ -1,6 +1,6 @@
 # The three guṇas
 
-`cpt:three-gunas` · `skeleton` · confidence high
+`cpt:three-gunas` · `sourced` · confidence high
 
 **Category:** matter-qualities
 **Members:** sattva, rajas, tamas, sattva (2.45, if nityasattvastha is read as the guṇa), rajas (named 3.37), tamas (not named in ch. 1–3)
@@ -21,6 +21,7 @@
 - [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md): Cāttuvikam, irācatam, tāmatam — the three qualities (kuṇam) among the ninety-six principles.
 - [Āyurveda](../lineages/ayurveda.md): Lineage contribution (Āyurveda): in Caraka rajas and tamas are the doṣas of mind, sattva its pure state (Sū 1.57; Śā 4.34-36); the person bound by rajas and tamas turns on the wheel of births and is freed by the increase of sattva (Śā 1.36, 1.68); sixteen mental types classified by guṇa (Śā 4.37-40; Su Śā 4.81-98); in Suśruta the unmanifest is marked by the three guṇas and the elements are guṇa-dominant (Su Śā 1.3, 1.20).
 - [Jyotiṣa (the science of the lights)](../lineages/jyotisa.md): In jyotiṣa the three qualities are distributed among the planets — Moon, Sun and Jupiter sattva; Mercury and Venus rajas; Mars and Saturn tamas — and read in a person's conduct (BJ 2.7; BS 68.8–9).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 7.12–14: states of sattva, rajas and tamas come from the Lord, he not in them but they in him; the world, deluded by these three guṇa-made states, does not know him who is beyond them; his divine māyā is made of the guṇas.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: chs. 4–6 name the guṇas only in passing: the fourfold class-order was made according to the division of guṇas and actions (4.13); the yogin to whom supreme happiness comes has rajas stilled (6.27).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Lineage contribution (Upaniṣadic): God's power hidden by its own guṇas (ŚU 1.3); the jīva bound to the guṇas and 'three-guṇa'd' (ŚU 5.7); in MaiU 5.2 darkness (tamas), impelled, becomes rajas and then sattva, with Rudra, Brahmā and Viṣṇu as their parts; MaiU 3.5 lists the marks of tamas and rajas.
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): Māyā/ignorance consists of sattva, rajas and tamas: sattva pure (adjunct of Īśvara) or impure (of jīva); tamas veils, rajas projects.
@@ -35,6 +36,8 @@ _Notes: U05's contribution; classical Sāṃkhya's account is given by U09._
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:7.12, tea:bhagavad-gita:7.13, tea:bhagavad-gita:7.14 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.13, tea:bhagavad-gita:6.27 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering), text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — Located: ŚU 1.3 ('svaguṇair nigūḍhām'), 5.7 ('triguṇaḥ'), MaiU 5.2 (tamas → rajas → sattva, with Rudra, Brahmā and Viṣṇu as their parts) and MaiU 3.5 (the lists). All 4 Upaniṣad refs cited in the entry are located in the prepared segments (ŚU 1.3; ŚU 5.7; MaiU 5.2; MaiU 3.5). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, extraction:bhagavad-gita/ch01-03, skeleton:U22-tamil-siddha, skeleton:U30-ayurveda-rasa, skeleton:U32-jyotisa, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U14-visistadvaita, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, extraction:bhagavad-gita/ch01-03, skeleton:U22-tamil-siddha, skeleton:U30-ayurveda-rasa, skeleton:U32-jyotisa, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U14-visistadvaita, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._

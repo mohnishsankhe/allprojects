@@ -15,4 +15,4 @@ When sleep has not yet come and the outer world has vanished, that state is to b
 _Notes: Verses 75 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._

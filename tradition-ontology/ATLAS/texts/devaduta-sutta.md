@@ -30,4 +30,4 @@ concepts: [The divine messengers](../concepts/devaduta.md), [Hell](../concepts/n
 _Notes: SuttaCentral uid mn130; Mahāsaṅgīti title 'Devadūtasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

@@ -21,4 +21,4 @@
 The third tantra's sections (checked in the local e-text) run: aṭṭāṅka yōkam, iyamam, niyamam, ātaṉam, pirāṇāyāmam, pirattiyākāram, tāraṇai, tiyāṉam, camāti, aṭṭāṅkayōkap pēṟu, aṭṭamā citti, … kāyacitti upāyam, kāla cakkaram, āyuḷ parīṭcai, vāra caram, vāra cūlam, kēcari, pariyaṅka, amuri tāraṇai, cantira yōkam. Stage descriptions are brief summaries at moderate confidence. Shared with lin:nayanmar (U18).
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._

@@ -26,4 +26,4 @@ practices: [The ten-day Vipassana course (Goenka)](../practices/ten-day-vipassan
 
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._

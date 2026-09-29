@@ -2,7 +2,7 @@
 
 `tch:arjuna` · `sourced` · confidence high
 
-**Alternate names:** Pārtha, Dhanaṃjaya, Guḍākeśa, Savyasācin, Kaunteya, Phalguna, Dhanañjaya, Pāṇḍava, Kapidhvaja, Bhārata, Parantapa, Kurunandana, Bharatarṣabha, Puruṣarṣabha, Anagha, Mahābāhu, Kurusattama
+**Alternate names:** Pārtha, Dhanaṃjaya, Guḍākeśa, Savyasācin, Kaunteya, Phalguna, Dhanañjaya, Pāṇḍava, Kapidhvaja, Bhārata, Parantapa, Kurunandana, Bharatarṣabha, Puruṣarṣabha, Anagha, Mahābāhu, Kurusattama, Dehabhṛtāṃ vara
 **Lineages:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md)
 **Dates:** Tradition's account: end of the Dvāpara yuga (the Bhārata war; Kali yuga traditionally from 3102 BCE)
 **Historicity:** legendary
@@ -16,6 +16,7 @@ _Notes: Linked in BhG ch. 1–3 at 1.4, 1.14, 1.15, 1.20, 1.21, 1.22, 1.23, 1.24
 **Verification checks**
 
 - 2026-09-29 text: confirmed — sources_raw/prepared/bhagavad-gita/segments.jsonl (BhG 4–6) — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:8.1, tea:bhagavad-gita:8.2, tea:bhagavad-gita:8.4 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — local:gita/gita BhG 2.7, 11.8, local:DharmicData MBh CE 14.16.1-11 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 17:10 IST._

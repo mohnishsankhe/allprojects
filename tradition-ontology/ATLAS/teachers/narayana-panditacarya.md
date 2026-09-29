@@ -16,4 +16,4 @@ Son of Trivikrama Paṇḍitācārya and author of the Sumadhvavijaya, the princ
 _Notes: Authorship of all three works as named in their colophons in the raw_etexts corpus._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:10 IST._

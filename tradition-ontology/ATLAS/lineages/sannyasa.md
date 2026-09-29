@@ -61,4 +61,4 @@ The ideal of the wandering renouncer (saṃnyāsin, parivrājaka, yati) as set o
 _Notes: Owned by U04. The Saṃnyāsa Upaniṣads are not a single school: most later ones are Advaitin, the Śāṭyāyanīya Vaiṣṇava._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

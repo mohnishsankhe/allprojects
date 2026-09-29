@@ -15,4 +15,4 @@
 - same-as-under-standpoint → `cpt:four-immeasurables` (ethics / mind-purifying attitudes): Closely parallel to the Buddhist brahmavihāras (mettā, muditā, karuṇā, upekkhā); graded partial. — rests on [7.11](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-7-11)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._

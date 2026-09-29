@@ -16,4 +16,4 @@ The root of the tongue is cleaned with three fingers inserted into the throat to
 - Khecarī and its preparation are to be learnt only from a qualified guru and done gradually. — [Yogakuṇḍalī Upaniṣad](../texts/yogakundali-upanisad.md) 2.1-13; 2.28-49
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._

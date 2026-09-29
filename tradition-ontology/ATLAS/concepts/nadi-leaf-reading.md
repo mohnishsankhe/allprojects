@@ -14,4 +14,4 @@
 _Notes: Recorded as the tradition's claim; documented practice is recent (recent: true)._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._

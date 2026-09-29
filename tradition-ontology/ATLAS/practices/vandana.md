@@ -19,4 +19,4 @@ Bowing, prostrating and adoring the Lord with joined palms. Sixth of the Bhāgav
 _Notes: One of the Bhāgavata's nine forms of devotion (prc:navadha-bhakti, U07). Exemplar: Akrūra._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._

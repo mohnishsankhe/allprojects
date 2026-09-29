@@ -21,7 +21,7 @@ The Vaiṣṇava Sahajiyā is a Bengali tradition that interiorizes the love of 
 
 **Transmissions received:** 
   - [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](gaudiya-vaisnava.md) — what: Rūpa Gosvāmī's rasa theory, the parakīyā ideal, Caitanya as Rādhā and Kṛṣṇa in one body, the Caitanya-caritāmṛta's kāma/prema distinction; evidence: explicit citation and re-reading (e.g. Vivartavilāsa on the Caitanya-caritāmṛta)
-  - `lin:mahasiddha` — what: sahaja as the innate goal, the body as microcosm, the union of the two principles, songs in coded language; evidence: scholarly hypothesis (S. B. Dasgupta, Obscure Religious Cults) supported by shared vocabulary with the Caryāgīti
+  - [The Mahāsiddhas (the eighty-four great adepts)](mahasiddha.md) — what: sahaja as the innate goal, the body as microcosm, the union of the two principles, songs in coded language; evidence: scholarly hypothesis (S. B. Dasgupta, Obscure Religious Cults) supported by shared vocabulary with the Caryāgīti
 
 ## The ultimate in this lineage
 `skeleton` · confidence moderate
@@ -51,4 +51,4 @@ _none recorded_
 _Notes: Family 'vedic' (as a Vaiṣṇava movement), with the Buddhist Sahajiyā continuity recorded only as a scholarly hypothesis (brw:mahasiddha-to-vaisnava-sahajiya). Sexual-yogic practice: summary and warnings only._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._

@@ -211,4 +211,4 @@ concepts: [Devotion and caste](../concepts/bhakti-and-caste.md) · teachers: [J�
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Dnyaneshwar, https://miscellaneousbharat.com/dnyaneshwari-pais-khamb-1290-nevasa-ahmednagar/ — Composed 1290 at Nevāse, dictated to Saccidānanda Bābā, in ovī metre; Nāth lineage through Nivṛttinātha and Gahinīnātha — as entered.
 
-_Contributed by: skeleton:U26-regional-bhakti, skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U26-regional-bhakti, skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._

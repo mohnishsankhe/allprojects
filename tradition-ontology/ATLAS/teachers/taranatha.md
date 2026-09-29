@@ -10,4 +10,4 @@
 Jonang master (1575–1634); this unit records his History of Buddhism in India with its accounts of the councils and schools.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

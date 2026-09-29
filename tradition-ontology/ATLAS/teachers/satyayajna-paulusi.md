@@ -1,6 +1,6 @@
 # Satyayajña Pauluṣi
 
-`tch:satyayajna-paulusi` · `skeleton` · confidence moderate
+`tch:satyayajna-paulusi` · `sourced` · confidence moderate
 
 **Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 **Historicity:** semi-legendary
@@ -9,4 +9,8 @@
 One of the five great householders and great Vedic scholars who asked 'what is our self, what is brahman?' and, with Uddālaka Āruṇi, went to Aśvapati Kaikeya; each had venerated only one part of the vaiśvānara self (ChU 5.11-17).
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — Located: ChU 5.11.1 and 5.13 (the sun, the 'eye'). ChU 5.13.1 addresses him as 'prācīnayogya'.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

@@ -16,5 +16,17 @@ Dharmakīrti's short verse treatise arguing that relations are not real entities
   - kind: original; name: Sanskrit verses via Prabhācandra's quotation — local GRETIL e-text
   - kind: original; name: Tibetan: Derge D4214, vṛtti D4215
 
+## Teachings (1: skeleton 1)
+
+### 1 <a id="tea-sambandhapariksa-1"></a>
+`skeleton` · confidence moderate
+
+Relation is dependence; but between things already established what dependence can there be? Therefore in reality there is no relation of any thing; relations are constructed by thought.
+
+_level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate_
+
+terms: [sambandha](../terms/sambandha.md) · teachers: [Dharmakīrti](../teachers/dharmakirti.md)
+
+
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

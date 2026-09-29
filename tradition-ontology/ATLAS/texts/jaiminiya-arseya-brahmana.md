@@ -15,4 +15,4 @@ A Jaiminīya Sāmaveda list naming the seers (ṛṣi) of the sāman chants, so 
 
 - 2026-09-28 websearch: confirmed — https://vedicheritage.gov.in/brahmanas/, https://hindupedia.com/en/S%C4%81maveda — The Vedic Heritage Portal lists it among the Jaiminīya school's texts (with the JB and JUB). It exists as an index of the seers of the Jaiminīya sāmans (Burnell's edition). No local copy was found.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._

@@ -16,4 +16,4 @@
 The Chinese 'connected discourses', affiliated with the (Mūla)sarvāstivāda, parallel to the Saṃyutta Nikāya (e.g. SĀ 379 ↔ SN 56.11; SĀ 34 ↔ SN 22.59; SĀ 301 ↔ SN 12.15).
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

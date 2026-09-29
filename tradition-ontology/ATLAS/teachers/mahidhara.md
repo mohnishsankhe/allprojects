@@ -17,4 +17,4 @@ Vārāṇasī scholar who wrote the Vedadīpa on the Vājasaneyi Saṃhitā; the
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Mah%C4%ABdhara — Confirmed: 16th-c. Vārāṇasī scholar; Vedadīpa on the Vājasaneyi Saṃhitā; Mantramahodadhi (c. 1588/1589) — same author, as the entry says.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._

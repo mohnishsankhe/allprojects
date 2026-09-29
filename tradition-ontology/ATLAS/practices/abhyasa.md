@@ -16,6 +16,7 @@ Repeated effort to hold the mind in stability (1.13), cultivated for a long time
   - [Yoga Sūtra of Patañjali](../texts/yoga-sutra.md) — ref: 1.14; rests_on: ["tea:yoga-sutra:1.14"]
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 1.12; rests_on: ["tea:yoga-bhasya:1.12"]
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 1.14; rests_on: ["tea:yoga-bhasya:1.14"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 8.8; rests_on: ["tea:bhagavad-gita:8.8"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.26; rests_on: ["tea:bhagavad-gita:6.26"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.35; rests_on: ["tea:bhagavad-gita:6.35"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.44; rests_on: ["tea:bhagavad-gita:6.44"]
@@ -23,6 +24,7 @@ Repeated effort to hold the mind in stability (1.13), cultivated for a long time
 ---
 **Verification checks**
 
+- 2026-09-29 text: corrected — tea:bhagavad-gita:8.8 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.26, tea:bhagavad-gita:6.35, tea:bhagavad-gita:6.44 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 17:10 IST._

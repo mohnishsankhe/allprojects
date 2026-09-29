@@ -38,4 +38,4 @@ _Notes: Commentary: Nandapaṇḍita's Vaijayantī._
 
 - dating: Text extant (100 adhyāyas; 25.14 text-located). The scholarly dating is corrected. Olivelle (The Law Code of Viṣṇu; Wikipedia) shows it was very likely composed c. 700–1000 CE, probably in Kashmir, on the evidence of written documents, vocabulary and iconography. The entry's '7th c. CE in its present form (600–800)' is too early. The older view of a Vaiṣṇava recasting of an older Kāṭhaka Dharmasūtra is kept in the text.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._

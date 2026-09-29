@@ -53,4 +53,4 @@ _none recorded_
 [Is the difference between Brahman and the soul due to adjuncts, natural, or inconceivable?](../debates/aupadhika-vs-svabhavika-bhedabheda.md), [Does Brahman itself transform into the world, and if so does it change?](../debates/brahma-parinama-vada.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Is liberation possible while living in the body?](../debates/jivanmukti.md), [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._

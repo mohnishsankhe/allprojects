@@ -5,7 +5,7 @@
 **Alternate titles:** Prajñāpāramitānaya, Rishukyō 理趣經 (T243, Amoghavajra), Toh 17
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), `lin:vajrayana`, `lin:shingon`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md), `lin:shingon`
 **Genre:** sūtra (prajñāpāramitā; tantric)
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); scholarly: Anonymous, c. 7th c.; confidence: moderate
 **Availability:** digitized-original
@@ -26,4 +26,4 @@ _level: ultimate · standpoint: absolute · path: knowledge, ritual · stage: ad
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

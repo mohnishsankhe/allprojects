@@ -16,4 +16,4 @@
 _Notes: Cf. Madhusūdana's definition of bhakti as the mind melted (druta) by the Lord's qualities (tea:bhaktirasayana:1.3)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._

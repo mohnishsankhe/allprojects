@@ -3,7 +3,7 @@
 `tch:matsyendranatha` · `skeleton` · confidence high
 
 **Alternate names:** Matsyendra, Mīnanātha, Macchaghnapāda, Macchindranāth, Macchanda, Mīnapāda, Karuṇāmaya (Newar), Macchamuni (Tamil)
-**Lineages:** [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Yoginī Kaula (Yoginīkaula) of Matsyendra](../lineages/yogini-kaula.md), [Kaula (the Kula tradition)](../lineages/kaula.md), `lin:mahasiddha`, `lin:newar-vajrayana`, [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md)
+**Lineages:** [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Yoginī Kaula (Yoginīkaula) of Matsyendra](../lineages/yogini-kaula.md), [Kaula (the Kula tradition)](../lineages/kaula.md), [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), `lin:newar-vajrayana`, [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md)
 **Dates:** Tradition's account: present in the four ages; Nāth hagiography; Scholarly account: c. 9th–10th c. (before Abhinavagupta, c. 1000); (confidence moderate)
 **Places:** Candradvīpa, Kāmarūpa, Kadalī kingdom (legend), Kathmandu valley (cult)
 **Historicity:** semi-legendary
@@ -23,4 +23,4 @@ The first human Nāth after Ādinātha and guru of Gorakṣa; the Kaulajñānani
 _Notes: HYP 1.5 lists both 'Matsyendra' and 'Mīna', and some traditions distinguish Mīnanātha from Matsyendra (e.g. as father/son); this shard keeps one entry and records the question in dsp:identity-of-matsyendra._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._

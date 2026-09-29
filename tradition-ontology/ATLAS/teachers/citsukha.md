@@ -12,4 +12,4 @@
 Dialectical Advaitin, author of the Tattvapradīpikā and of commentaries on the Khaṇḍana, the Brahmasiddhi and the Nyāyamakaranda; pupil of Jñānottama.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._

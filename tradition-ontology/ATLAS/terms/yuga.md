@@ -7,6 +7,7 @@
 **Literal:** age
 
 ## Definitions by tradition
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 7–9: Brahmā's day lasts a thousand yugas and his night ends after a thousand yugas; those who know this 'know day and night' (8.17).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: The Lord comes into being 'age after age' (yuge yuge) to establish dharma (4.8).
 - [Vedāṅga (the six limbs of the Veda)](../lineages/vedanga.md): The five-year cycle of the Vedāṅga Jyotiṣa, presided over by Prajāpati (Ṛk 1).
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The four world-ages Kṛta, Tretā, Dvāpara and Kali, of 4,000, 3,000, 2,000 and 1,000 divine years with twilights, in which dharma declines foot by foot (MDh 1.68–86); named already as states of a man in AB 7.15.
@@ -18,13 +19,14 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [dharma](dharma.md)
+**Related:** [kalpa](kalpa.md), [dharma](dharma.md)
 
 _Notes: The later cycle of four yugas is contributed by other units._
 
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:8.17 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.8 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U32-jyotisa, skeleton:U01-vedic-samhitas, skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U32-jyotisa, skeleton:U01-vedic-samhitas, skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._

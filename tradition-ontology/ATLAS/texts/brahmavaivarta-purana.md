@@ -18,4 +18,4 @@
 Kṛṣṇa as the supreme Person in Goloka with Rādhā as his śakti; Prakṛti's five principal forms (Durgā, Lakṣmī, Sarasvatī, Sāvitrī, Rādhā); Gaṇeśa's birth; Kṛṣṇa's life with a strong Rādhā-centred devotion.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._

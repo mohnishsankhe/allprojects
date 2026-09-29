@@ -14,4 +14,4 @@
 A Prakīrṇaka in which a layman praising the Jina describes to his wife the thirty-two Indras, the classes of gods and their abodes, and the abode of the Siddhas.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

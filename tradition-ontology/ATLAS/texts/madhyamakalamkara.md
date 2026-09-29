@@ -27,7 +27,7 @@ These entities that we and others hold to be real lack own-nature in reality, be
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate_
 
-terms: `trm:ekanekaviyoga` · concepts: `cpt:neither-one-nor-many` · practices: `prc:neither-one-nor-many-reasoning` · teachers: [Śāntarakṣita](../teachers/santaraksita.md)
+terms: [ekānekaviyoga](../terms/ekanekaviyoga.md) · concepts: [Neither one nor many (ekānekaviyoga)](../concepts/neither-one-nor-many.md) · practices: [The neither-one-nor-many reasoning](../practices/neither-one-nor-many-reasoning.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md)
 
 ### 16-17 <a id="tea-madhyamakalamkara-16-17"></a>
 `skeleton` · confidence low
@@ -36,7 +36,7 @@ Consciousness arises as the opposite of what is inert; its not being inert is it
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: consciousness-mind_
 
-terms: `trm:svasamvedana` · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: `dsp:svasamvedana`
+terms: [svasaṃvedana](../terms/svasamvedana.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [Is consciousness reflexively aware of itself (svasaṃvedana)?](../debates/svasamvedana.md)
 
 ### 64 <a id="tea-madhyamakalamkara-64"></a>
 `skeleton` · confidence low
@@ -45,7 +45,7 @@ What is agreeable only when not examined, has the nature of arising and ceasing,
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: ultimate_
 
-terms: `trm:arthakriya` · concepts: `cpt:conventional-truth-divisions` · teachers: [Śāntarakṣita](../teachers/santaraksita.md)
+terms: [arthakriyā](../terms/arthakriya.md) · concepts: [Correct and incorrect conventional truth](../concepts/conventional-truth-divisions.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md)
 
 ### 92-93 <a id="tea-madhyamakalamkara-92-93"></a>
 `skeleton` · confidence moderate
@@ -54,10 +54,10 @@ Relying on mind-only one should know that external things do not exist; relying 
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: intermediate · types: ultimate, practice_
 
-concepts: `cpt:yogacara-madhyamaka-synthesis` · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: `dsp:madhyamaka-yogacara`
+concepts: [The two chariots: Yogācāra and Madhyamaka](../concepts/yogacara-madhyamaka-synthesis.md) · teachers: [Śāntarakṣita](../teachers/santaraksita.md) · disputes: [Is consciousness ultimately real while external objects are not (mind-only), or is mind too empty?](../debates/madhyamaka-yogacara.md)
 
 
 _Notes: Sanskrit lost apart from quotations._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

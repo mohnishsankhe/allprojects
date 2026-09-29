@@ -1,6 +1,6 @@
 # The candidate causes of the Śvetāśvatara
 
-`cpt:candidate-causes-svetasvatara` · `skeleton` · confidence high
+`cpt:candidate-causes-svetasvatara` · `sourced` · confidence high
 
 **Category:** disputes
 **Members:** kāla, svabhāva, niyati, yadṛcchā, bhūtāni, yoni, puruṣa
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — All 3 Upaniṣad refs cited in the entry are located in the prepared segments (ŚU 1.2; ŚU 1.3; ŚU 6.1). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

@@ -25,4 +25,4 @@ concepts: [Bodhisattva precepts (sūtra layer)](../concepts/bodhisattva-precepts
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

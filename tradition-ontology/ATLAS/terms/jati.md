@@ -27,4 +27,4 @@
 _Notes: Homonym: other units define jāti as birth or social class._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U20-virasaiva, skeleton:U36-pali-suttas, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa, skeleton:U27-sant-baul, skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U20-virasaiva, skeleton:U36-pali-suttas, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa, skeleton:U27-sant-baul, skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._

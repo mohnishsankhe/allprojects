@@ -17,6 +17,7 @@
   - kind: original; name: ed. C. Bendall (1897–1902); ed. Vaidya (1961) — local e-texts shixAsamuchchaya
   - kind: translation; name: Tibetan translation, Derge Tengyur D3939 (kārikās) — catalog:Derge-Tengyur:D3939
   - kind: translation; name: Tibetan translation, Derge Tengyur D3940 (bslab pa kun las btus pa) — catalog:Derge-Tengyur:D3940
+  - kind: translation; name: Chinese: Dasheng ji pusa xue lun 大乘集菩薩學論, T1636 — catalog:CBETA:T32n1636
 
 ## Teachings (4: skeleton 4)
 
@@ -29,7 +30,7 @@ When fear and suffering are as unwelcome to me as to others, what is special abo
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: ethics, practice_
 
-concepts: `cpt:equalizing-self-and-other` · teachers: [Śāntideva](../teachers/santideva.md)
+concepts: [Equalizing self and other](../concepts/equalizing-self-and-other.md) · teachers: [Śāntideva](../teachers/santideva.md)
 
 ### k2 <a id="tea-siksasamuccaya-k2"></a>
 `skeleton` · confidence high
@@ -62,8 +63,8 @@ The giving up of one's body, one's enjoyments and one's merit of the three times
 
 _level: conventional · standpoint: seeker · path: action · stage: all · types: ethics, practice_
 
-practices: `prc:giving-body-enjoyments-merit` · teachers: [Śāntideva](../teachers/santideva.md)
+practices: [Giving body, enjoyments and merit](../practices/giving-body-enjoyments-merit.md) · teachers: [Śāntideva](../teachers/santideva.md)
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

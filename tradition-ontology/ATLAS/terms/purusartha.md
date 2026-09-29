@@ -12,6 +12,7 @@
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The aims of human life — dharma, artha, kāma, and (as the fourth) mokṣa; Manu's settled view is that the good is the triad (MDh 2.224).
 - [Arthaśāstra (the science of statecraft and wealth)](../lineages/arthasastra.md): Of the three, artha is foremost since the others are rooted in it (Arthaśāstra 1.7.6–7).
 - [Kāmaśāstra (the science of love and pleasure)](../lineages/kamasastra.md): The three are to be pursued in their proper ages without harming each other; each earlier is weightier (Kāmasūtra 1.2.1–14).
+- [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md): Any aim of a person — obtaining what is wanted, avoiding what is not — whose accomplishment depends on right cognition.
 
 ## Forms in other languages
 
@@ -19,4 +20,4 @@
 **Related:** [trivarga](trivarga.md), [bhoga](bhoga.md), [apavarga](apavarga.md), [pārārthya](pararthya.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U02-brahmana-vedanga, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

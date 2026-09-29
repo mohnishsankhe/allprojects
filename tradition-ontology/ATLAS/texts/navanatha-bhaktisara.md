@@ -20,10 +20,10 @@ The nine Nāths — Macchindra, Gorakh, Jālandhar, Kānif, Carpaṭ, Nāg, Bhar
 
 _level: conventional · standpoint: divine · path: general · stage: all · types: teacher-transmission_
 
-concepts: [The nine Nāths (nava-nātha)](../concepts/nine-nathas.md) · teachers: [Matsyendranātha](../teachers/matsyendranatha.md), [Gorakṣanātha](../teachers/goraksanatha.md), [Jālandharanātha](../teachers/jalandharanatha.md), [Kāṇha (Kānipā / Kānifnāth)](../teachers/kanha.md), [Carpaṭanātha](../teachers/carpatanatha.md), [Nāganātha](../teachers/naganatha.md), [Bhartṛhari (Bharthari, the Nāth king-yogī)](../teachers/bhartrhari-natha.md), [Revaṇanātha](../teachers/revananatha.md), [Gahinīnātha](../teachers/gahininatha.md), [Dattātreya](../teachers/dattatreya.md)
+concepts: [The nine Nāths (nava-nātha)](../concepts/nine-nathas.md) · teachers: [Matsyendranātha](../teachers/matsyendranatha.md), [Gorakṣanātha](../teachers/goraksanatha.md), [Jālandharanātha](../teachers/jalandharanatha.md), [Kāṇhapa (Kṛṣṇācārya)](../teachers/kanha.md), [Carpaṭanātha](../teachers/carpatanatha.md), [Nāganātha](../teachers/naganatha.md), [Bhartṛhari (Bharthari, the Nāth king-yogī)](../teachers/bhartrhari-natha.md), [Revaṇanātha](../teachers/revananatha.md), [Gahinīnātha](../teachers/gahininatha.md), [Dattātreya](../teachers/dattatreya.md)
 
 
 _Notes: Author recalled as Dhuṇḍisuta Mālu (Narahari Mālu); year recalled, not checked._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._

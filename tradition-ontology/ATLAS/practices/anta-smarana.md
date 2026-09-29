@@ -1,6 +1,6 @@
 # Remembering the Lord at death
 
-`prc:anta-smarana` · `skeleton` · confidence high
+`prc:anta-smarana` · `sourced` · confidence high
 
 **Category:** sleep-dream-death
 **Convergence:** 2 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -19,4 +19,8 @@ Directing the mind to the Lord (Nārāyaṇa, Kṛṣṇa, Śiva) at the time of
 - Attachment at death leads to an according birth (Bharata's deer). — [Bhāgavata Purāṇa](../texts/bhagavata-purana.md) 5.8.26-27
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/isa-upanisad/segments.jsonl (Advaita-Śāradā mūla Isha.md, Śaṅkara numbering), text:sources_raw/prepared/prasna-upanisad/segments.jsonl (Advaita-Śāradā mū — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (Īśa 17; ChU 3.17.6; PrU 5.1; ChU 3.14.1). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U07-puranas, skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

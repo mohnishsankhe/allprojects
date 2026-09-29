@@ -1,6 +1,6 @@
 # The two forms of brahman
 
-`cpt:two-forms-of-brahman` · `skeleton` · confidence high
+`cpt:two-forms-of-brahman` · `sourced` · confidence high
 
 **Category:** ultimate
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering), text:sources_raw/prepared/prasna-upan — All 5 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 2.3.1; MaiU 6.3; MaiU 6.15; MaiU 6.22; PrU 5.2). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

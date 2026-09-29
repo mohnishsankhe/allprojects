@@ -17,4 +17,4 @@ Forcibly withdrawing the senses; seeing all that is seen as the Self; offering t
 _Notes: Contributes the Yoga Yājñavalkya's version to U04's entry; the full list of five is recalled only in outline for the Yoga Yājñavalkya._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._

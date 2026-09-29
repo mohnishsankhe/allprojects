@@ -6,7 +6,7 @@
 **Original title:** सद्धर्मपुण्डरीकसूत्र
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:tiantai`, `lin:tendai`, `lin:nichiren`, `lin:newar-vajrayana`, `lin:chan`, `lin:zen`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:tiantai`, `lin:tendai`, `lin:nichiren`, `lin:newar-vajrayana`, [Chan (Chinese Meditation school)](../lineages/chan.md), [Zen (Japanese Chan)](../lineages/zen.md)
 **Genre:** sūtra (vaipulya)
 **Location in parent:** Nepal's nine dharmas; Threefold Lotus (with T276 and T277) in East Asia
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana) on the Vulture Peak (the assembly moving into the air and back); scholarly: Anonymous; composed in stages c. 1st c. BCE-2nd c. CE (verse portions often held earlier); the Devadatta chapter was added to Kumārajīva's version later; confidence: high
@@ -51,7 +51,7 @@ The Buddha teaches the dharma to beings with reference to one vehicle only, the 
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: all · types: ultimate, teacher-transmission_
 
-terms: [ekayāna](../terms/ekayana.md), [triyāna](../terms/triyana.md), [buddhayāna](../terms/buddhayana.md), [upāyakauśalya](../terms/upaya-kausalya.md), [pañcakaṣāya](../terms/pancakasaya.md) · concepts: [The one vehicle (ekayāna)](../concepts/one-vehicle.md), [The three vehicles](../concepts/three-vehicles.md), [Skillful means (upāyakauśalya)](../concepts/skillful-means.md) · obstacles: [The five turbidities (pañcakaṣāya)](../obstacles/five-turbidities.md) · disputes: `dsp:one-vehicle-or-three`, `dsp:can-all-beings-attain-buddhahood`
+terms: [ekayāna](../terms/ekayana.md), [triyāna](../terms/triyana.md), [buddhayāna](../terms/buddhayana.md), [upāyakauśalya](../terms/upaya-kausalya.md), [pañcakaṣāya](../terms/pancakasaya.md) · concepts: [The one vehicle (ekayāna)](../concepts/one-vehicle.md), [The three vehicles](../concepts/three-vehicles.md), [Skillful means (upāyakauśalya)](../concepts/skillful-means.md) · obstacles: [The five turbidities (pañcakaṣāya)](../obstacles/five-turbidities.md) · disputes: [Is the one vehicle the final truth and the three vehicles a skillful means — or are the three vehicles real and the 'one vehicle' spoken with an intention?](../debates/one-vehicle-or-three.md), [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md)
 
 ### 2 <a id="tea-saddharmapundarika-2-3"></a>
 `skeleton` · confidence high
@@ -80,7 +80,7 @@ The parable of the burning house: a rich man's old house catches fire while his 
 
 _level: bridging · standpoint: divine · path: knowledge · stage: all · types: karma-liberation, teacher-transmission_
 
-terms: [upāyakauśalya](../terms/upaya-kausalya.md), [ekayāna](../terms/ekayana.md) · concepts: [The seven parables of the Lotus](../concepts/lotus-seven-parables.md), [Skillful means (upāyakauśalya)](../concepts/skillful-means.md), [The one vehicle (ekayāna)](../concepts/one-vehicle.md) · disputes: `dsp:one-vehicle-or-three`
+terms: [upāyakauśalya](../terms/upaya-kausalya.md), [ekayāna](../terms/ekayana.md) · concepts: [The seven parables of the Lotus](../concepts/lotus-seven-parables.md), [Skillful means (upāyakauśalya)](../concepts/skillful-means.md), [The one vehicle (ekayāna)](../concepts/one-vehicle.md) · disputes: [Is the one vehicle the final truth and the three vehicles a skillful means — or are the three vehicles real and the 'one vehicle' spoken with an intention?](../debates/one-vehicle-or-three.md)
 
 ### 3 <a id="tea-saddharmapundarika-3-2"></a>
 `skeleton` · confidence high
@@ -118,7 +118,7 @@ The parable of the conjured city: a guide leading travellers through a vast wild
 
 _level: bridging · standpoint: divine · path: knowledge · stage: intermediate · types: karma-liberation_
 
-terms: [nirvāṇa](../terms/nirvana.md) · concepts: [The seven parables of the Lotus](../concepts/lotus-seven-parables.md), [The arhat's nirvāṇa is not final](../concepts/arhat-nirvana-not-final.md) · disputes: `dsp:one-vehicle-or-three`
+terms: [nirvāṇa](../terms/nirvana.md) · concepts: [The seven parables of the Lotus](../concepts/lotus-seven-parables.md), [The arhat's nirvāṇa is not final](../concepts/arhat-nirvana-not-final.md) · disputes: [Is the one vehicle the final truth and the three vehicles a skillful means — or are the three vehicles real and the 'one vehicle' spoken with an intention?](../debates/one-vehicle-or-three.md)
 
 ### 8 <a id="tea-saddharmapundarika-8"></a>
 `skeleton` · confidence high
@@ -163,7 +163,7 @@ The eight-year-old daughter of the nāga king Sāgara, whom Mañjuśrī taught i
 
 _level: bridging · standpoint: polemical · path: devotion · stage: advanced · types: karma-liberation, dispute_
 
-concepts: [Women's bodies and buddhahood in the Mahāyāna sūtras](../concepts/womens-bodies-and-buddhahood.md) · teachers: [The daughter of the nāga king Sāgara](../teachers/naga-princess.md), [Mañjuśrī](../teachers/manjusri.md), [Sāriputta](../teachers/sariputta.md) · disputes: `dsp:womens-bodies-and-buddhahood`, `dsp:women-caste-liberation`
+concepts: [Women's bodies and buddhahood in the Mahāyāna sūtras](../concepts/womens-bodies-and-buddhahood.md) · teachers: [The daughter of the nāga king Sāgara](../teachers/naga-princess.md), [Mañjuśrī](../teachers/manjusri.md), [Sāriputta](../teachers/sariputta.md) · disputes: [Can a woman, in a woman's body, attain buddhahood?](../debates/womens-bodies-and-buddhahood.md), `dsp:women-caste-liberation`
 
 ### 14 <a id="tea-saddharmapundarika-14"></a>
 `skeleton` · confidence high
@@ -192,10 +192,10 @@ The Tathāgata did not first awaken at Gayā: it is countless hundreds of thousa
 
 _level: bridging · standpoint: divine · path: devotion · stage: all · types: ultimate, death-dying_
 
-terms: [dharmakāya](../terms/dharmakaya.md), [upāyakauśalya](../terms/upaya-kausalya.md) · concepts: [The Buddha's immeasurable lifespan](../concepts/eternal-lifespan-of-the-buddha.md), [The seven parables of the Lotus](../concepts/lotus-seven-parables.md), [The bodies of the Buddha (sūtra layer)](../concepts/three-bodies-sutra.md) · disputes: `dsp:permanence-of-the-tathagata`
+terms: [dharmakāya](../terms/dharmakaya.md), [upāyakauśalya](../terms/upaya-kausalya.md) · concepts: [The Buddha's immeasurable lifespan](../concepts/eternal-lifespan-of-the-buddha.md), [The seven parables of the Lotus](../concepts/lotus-seven-parables.md), [The bodies of the Buddha (sūtra layer)](../concepts/three-bodies-sutra.md) · disputes: [Is the Tathāgata permanent (his parinirvāṇa a display), or is parinirvāṇa the final end, the Tathāgata after death being undeclared?](../debates/permanence-of-the-tathagata.md)
 
-### 16 <a id="tea-saddharmapundarika-16-2"></a>
-`skeleton` · confidence moderate
+### 17 <a id="tea-saddharmapundarika-17"></a>
+`skeleton` · confidence high
 
 Whoever with deep faith believes the teaching of the Tathāgata's lifespan will see the Buddha on the Vulture Peak teaching amid bodhisattvas and śrāvakas, and this world as a pure land of lapis.
 
@@ -270,4 +270,4 @@ practices: [Lotus repentance and Samantabhadra visualization](../practices/lotus
 _Notes: Locator convention: chapter numbers of Kumārajīva's 28-chapter version (mapping K→Skt: 1-11 same; K12 = Skt 11 (second half); K13-21 = Skt 12-20; K22 = Skt 27; K23-25 = Skt 22-24; K26 = Skt 21; K27-28 = Skt 25-26). Sanskrit chapter colophons checked locally._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

@@ -14,4 +14,4 @@
 - contrasts-with → [The five marks of a Purāṇa (pañcalakṣaṇa)](pancalaksana.md): ten marks of the 'great' vs five of the 'small' Purāṇas (BhP 12.7.10) — rests on [12.7.9-10](../texts/bhagavata-purana.md#tea-bhagavata-purana-12-7-9-10)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._

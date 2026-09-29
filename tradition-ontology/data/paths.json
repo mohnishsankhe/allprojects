@@ -116,7 +116,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -279,7 +279,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -391,7 +391,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -505,7 +505,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -626,7 +626,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -709,7 +709,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -805,7 +805,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -1002,7 +1002,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -1177,7 +1177,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -1280,7 +1280,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -1391,7 +1391,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -1495,7 +1495,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -1598,7 +1598,133 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
+  }
+ },
+ {
+  "id": "pth:bhavanakrama-stages",
+  "name": "The stages of meditation (Kamalaśīla)",
+  "lineage": "lin:yogacara-madhyamaka",
+  "lineages": [
+   "lin:yogacara-madhyamaka"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "Compassion",
+    "gloss": "karuṇā",
+    "description": "Compassion is cultivated first as the root of all Buddha qualities.",
+    "ref": "BhK I",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "The awakening mind",
+    "gloss": "bodhicitta",
+    "description": "Aspiring and engaging bodhicitta.",
+    "ref": "BhK I",
+    "band": "B0"
+   },
+   {
+    "order": 3,
+    "name": "Practice of method: the perfections",
+    "gloss": "pratipatti",
+    "description": "Giving and the other perfections, joined with wisdom.",
+    "ref": "BhK I–II",
+    "band": "B1"
+   },
+   {
+    "order": 4,
+    "name": "Hearing and reflection",
+    "gloss": "śrutamayī, cintāmayī prajñā",
+    "description": "Wisdom from hearing grasps scripture; wisdom from reflection discerns definitive from provisional meaning.",
+    "ref": "BhK I",
+    "band": "B2"
+   },
+   {
+    "order": 5,
+    "name": "Calm abiding",
+    "gloss": "śamatha",
+    "description": "The nine stages of settling the mind, removing the six faults by the eight remedies.",
+    "ref": "BhK I",
+    "band": "B3"
+   },
+   {
+    "order": 6,
+    "name": "Insight through correct analysis",
+    "gloss": "vipaśyanā, bhūtapratyavekṣā",
+    "description": "Analysing the self and dharmas until no own-nature is found; calm and insight balanced.",
+    "ref": "BhK I, III",
+    "band": "B4"
+   },
+   {
+    "order": 7,
+    "name": "Non-conceptual wisdom",
+    "gloss": "nirvikalpa-jñāna",
+    "description": "When no dharma is found arisen in the three times, the yogin enters non-conceptual wisdom, the first direct seeing (the first ground).",
+    "ref": "BhK III",
+    "band": "B5"
+   },
+   {
+    "order": 8,
+    "name": "Cultivation through the grounds",
+    "gloss": "bhūmi",
+    "description": "The path of cultivation through the ten grounds.",
+    "ref": "BhK I",
+    "band": "B6"
+   },
+   {
+    "order": 9,
+    "name": "Buddhahood and non-abiding nirvāṇa",
+    "gloss": "apratiṣṭhita-nirvāṇa",
+    "description": "Omniscience; by great compassion the Buddha does not abide in nirvāṇa but acts for the world.",
+    "ref": "BhK I",
+    "band": "B7"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:bhavanakrama",
+    "ref": "I–III",
+    "rests_on": [
+     "tea:bhavanakrama:1",
+     "tea:bhavanakrama:1/2",
+     "tea:bhavanakrama:1/3",
+     "tea:bhavanakrama:1/4",
+     "tea:bhavanakrama:3"
+    ]
+   }
+  ],
+  "coverage": [
+   "F",
+   "B4"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U40-madhyamaka"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:yogacara-madhyamaka"
+   ],
+   "schools": [
+    "lin:madhyamaka"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -1676,10 +1802,25 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "prepared segments: TU 3, TU 2, TU 3.2, TU 3.3, TU 3.4, TU 3.5, TU 3.6, TU 3.10.5-6, TU 3.1-3.10"
+     ],
+     "evidence": [
+      "text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā mūla Taitiriya.md, vallī.anuvāka.verse)"
+     ],
+     "result": "confirmed",
+     "note": "All 9 Upaniṣad refs cited in the entry are located in the prepared segments (TU 3; TU 2; TU 3.2; TU 3.3; TU 3.4; TU 3.5; TU 3.6; TU 3.10.5-6; TU 3.1-3.10). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.",
+     "by": "sourcing:U03-principal-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -1700,7 +1841,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -1925,10 +2066,25 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "prepared segments: ChU 7, ChU 7.1, ChU 7.2, ChU 7.3, ChU 7.4, ChU 7.5, ChU 7.6, ChU 7.7, ChU 7.8, ChU 7.9"
+     ],
+     "evidence": [
+      "text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse)"
+     ],
+     "result": "confirmed",
+     "note": "The rungs are located in order: name 7.1, speech 7.2, mind 7.3, intention 7.4, thought 7.5, meditation 7.6, understanding 7.7, strength 7.8, food 7.9, water 7.10, heat 7.11, space 7.12, memory 7.13, hope 7.14, breath 7.15. Then truth 7.16 → understanding 7.17 → thinking 7.18 → faith 7.19 → steadfastness 7.20 → action 7.21 → happiness 7.22 → plenitude 7.23-24, and the teachings of 'I' and the self at 7.25. All 26 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 7; ChU 7.1; ChU 7.2; ChU 7.3; ChU 7.4; ChU 7.5; ChU 7.6; ChU 7.7; ChU 7.8; ChU 7.9; ChU 7.10; ChU 7.11 …). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.",
+     "by": "sourcing:U03-principal-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -1949,7 +2105,293 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
+  }
+ },
+ {
+  "id": "pth:bodhicaryavatara-sequence",
+  "name": "The sequence of the Bodhicaryāvatāra",
+  "lineage": "lin:prasangika",
+  "lineages": [
+   "lin:prasangika"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "Praise of the awakening mind",
+    "gloss": "bodhicittānuśaṃsā",
+    "description": "Seeing the benefits of the awakening mind and resolving to hold it.",
+    "ref": "BCA 1",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "Worship and confession",
+    "gloss": "pāpadeśanā",
+    "description": "Offering, refuge and confession of faults before the Buddhas.",
+    "ref": "BCA 2",
+    "band": "B1"
+   },
+   {
+    "order": 3,
+    "name": "Adopting the awakening mind",
+    "gloss": "bodhicittaparigraha",
+    "description": "Rejoicing, requesting, dedicating, and generating the awakening mind with the vow.",
+    "ref": "BCA 3",
+    "band": "B0"
+   },
+   {
+    "order": 4,
+    "name": "Conscientiousness",
+    "gloss": "apramāda",
+    "description": "Guarding the awakening mind and vow; fighting the afflictions.",
+    "ref": "BCA 4",
+    "band": "B1"
+   },
+   {
+    "order": 5,
+    "name": "Guarding introspection",
+    "gloss": "saṃprajanya-rakṣaṇa",
+    "description": "Guarding the mind with mindfulness and introspection; the bodhisattva's conduct.",
+    "ref": "BCA 5",
+    "band": "B1"
+   },
+   {
+    "order": 6,
+    "name": "Patience",
+    "gloss": "kṣānti",
+    "description": "Overcoming anger by reflection.",
+    "ref": "BCA 6",
+    "band": "B2"
+   },
+   {
+    "order": 7,
+    "name": "Vigour",
+    "gloss": "vīrya",
+    "description": "Delight in the good; overcoming laziness.",
+    "ref": "BCA 7",
+    "band": "B2"
+   },
+   {
+    "order": 8,
+    "name": "Meditation",
+    "gloss": "dhyāna",
+    "description": "Solitude, calm, and the equalizing and exchanging of self and other.",
+    "ref": "BCA 8",
+    "band": "B3"
+   },
+   {
+    "order": 9,
+    "name": "Wisdom",
+    "gloss": "prajñā",
+    "description": "The two truths, the refutation of realists, mind-only and the self, and meditation on emptiness till the mind rests without object.",
+    "ref": "BCA 9",
+    "band": "B5"
+   },
+   {
+    "order": 10,
+    "name": "Dedication",
+    "gloss": "pariṇāmanā",
+    "description": "Dedicating the merit to all beings and resolving to remain for them as long as space endures.",
+    "ref": "BCA 10",
+    "band": ""
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:bodhicaryavatara",
+    "ref": "chs. 1–10",
+    "rests_on": [
+     "tea:bodhicaryavatara:1.15-16",
+     "tea:bodhicaryavatara:8.1-4",
+     "tea:bodhicaryavatara:9.33-35",
+     "tea:bodhicaryavatara:10.55-56"
+    ]
+   }
+  ],
+  "notes": "A sequence of practice chapters rather than a staged map of attainment; the dedication chapter is left unbanded.",
+  "coverage": [
+   "F",
+   "B4"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U40-madhyamaka"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:prasangika"
+   ],
+   "schools": [
+    "lin:madhyamaka"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:10 IST"
+  }
+ },
+ {
+  "id": "pth:bodhisattvabhumi-thirteen-viharas",
+  "name": "The twelve bodhisattva abodes and the Tathāgata's abode (Bodhisattvabhūmi)",
+  "lineage": "lin:yogacara",
+  "stages": [
+   {
+    "order": 1,
+    "name": "gotra-vihāra",
+    "gloss": "abode of the lineage",
+    "description": "The bodhisattva with the lineage before arousing the resolve.",
+    "ref": "BoBh 2.4",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "adhimukticaryā-vihāra",
+    "gloss": "abode of practice by resolve",
+    "description": "From the arising of the resolve up to the pure intention.",
+    "ref": "BoBh 2.4",
+    "band": "B2"
+   },
+   {
+    "order": 3,
+    "name": "pramudita-vihāra",
+    "gloss": "joyful abode",
+    "description": "The pure intention; first ground.",
+    "ref": "BoBh 2.4",
+    "band": "B5"
+   },
+   {
+    "order": 4,
+    "name": "adhiśīla-vihāra",
+    "gloss": "abode of higher discipline",
+    "description": "Second ground.",
+    "ref": "BoBh 2.4",
+    "band": "B6"
+   },
+   {
+    "order": 5,
+    "name": "adhicitta-vihāra",
+    "gloss": "abode of higher mind",
+    "description": "Third ground.",
+    "ref": "BoBh 2.4",
+    "band": "B6"
+   },
+   {
+    "order": 6,
+    "name": "adhiprajña-vihāra: bodhipakṣya",
+    "gloss": "higher wisdom: factors of awakening",
+    "description": "Fourth ground.",
+    "ref": "BoBh 2.4",
+    "band": "B6"
+   },
+   {
+    "order": 7,
+    "name": "adhiprajña-vihāra: satya",
+    "gloss": "higher wisdom: truths",
+    "description": "Fifth ground.",
+    "ref": "BoBh 2.4",
+    "band": "B6"
+   },
+   {
+    "order": 8,
+    "name": "adhiprajña-vihāra: pratītyasamutpāda",
+    "gloss": "higher wisdom: dependent origination",
+    "description": "Sixth ground.",
+    "ref": "BoBh 2.4",
+    "band": "B6"
+   },
+   {
+    "order": 9,
+    "name": "sābhisaṃskāra nirnimitta vihāra",
+    "gloss": "signless abode with effort",
+    "description": "Seventh ground.",
+    "ref": "BoBh 2.4",
+    "band": "B6"
+   },
+   {
+    "order": 10,
+    "name": "anābhoga nirnimitta vihāra",
+    "gloss": "effortless signless abode",
+    "description": "Eighth ground.",
+    "ref": "BoBh 2.4",
+    "band": "B6"
+   },
+   {
+    "order": 11,
+    "name": "pratisaṃvid-vihāra",
+    "gloss": "abode of the analytical knowledges",
+    "description": "Ninth ground.",
+    "ref": "BoBh 2.4",
+    "band": "B6"
+   },
+   {
+    "order": 12,
+    "name": "parama vihāra",
+    "gloss": "highest (perfected) abode",
+    "description": "Tenth ground.",
+    "ref": "BoBh 2.4",
+    "band": "B6"
+   },
+   {
+    "order": 13,
+    "name": "tāthāgata vihāra",
+    "gloss": "the Tathāgata's abode",
+    "description": "Unsurpassed abode of awakening.",
+    "ref": "BoBh 2.4",
+    "band": "B7"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:bodhisattvabhumi",
+    "ref": "vihāra-paṭala",
+    "rests_on": [
+     "tea:bodhisattvabhumi:2.4"
+    ]
+   }
+  ],
+  "notes": "Names checked in the e-text; the correlation of abodes 3–12 with grounds 1–10 follows the text's own later bhūmi-paṭala as recalled.",
+  "coverage": [
+   "B4",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:yogacara"
+   ],
+   "schools": [
+    "lin:yogacara"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -2077,7 +2519,176 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
+  }
+ },
+ {
+  "id": "pth:catuhsataka-three-turnings",
+  "name": "The three turnings away (Catuḥśataka 8.15)",
+  "lineage": "lin:madhyamaka",
+  "lineages": [
+   "lin:madhyamaka"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "Turning away from demerit",
+    "gloss": "apuṇya-vāraṇa",
+    "description": "First, turning from non-virtue.",
+    "ref": "CŚ 8.15",
+    "band": "B1"
+   },
+   {
+    "order": 2,
+    "name": "Turning away from self",
+    "gloss": "ātma-vāraṇa",
+    "description": "In the middle, turning from grasping at a self.",
+    "ref": "CŚ 8.15",
+    "band": "B5"
+   },
+   {
+    "order": 3,
+    "name": "Turning away from everything",
+    "gloss": "sarva-vāraṇa",
+    "description": "Finally, turning from all views (commentary).",
+    "ref": "CŚ 8.15",
+    "band": "B7"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:catuhsataka",
+    "ref": "8.15",
+    "rests_on": [
+     "tea:catuhsataka:8.15"
+    ]
+   }
+  ],
+  "coverage": [
+   "F",
+   "B4"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U40-madhyamaka"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:madhyamaka"
+   ],
+   "schools": [
+    "lin:madhyamaka"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:10 IST"
+  }
+ },
+ {
+  "id": "pth:cheng-weishi-lun-five-stages",
+  "name": "The five stages of cognition-only practice (Cheng weishi lun)",
+  "lineage": "lin:faxiang",
+  "stages": [
+   {
+    "order": 1,
+    "name": "ziliang wei 資糧位",
+    "gloss": "stage of provisions",
+    "description": "Gathering merit and wisdom; faith in and understanding of cognition-only, but the latent twofold grasping not yet subdued.",
+    "ref": "CWSL juan 9",
+    "band": "B1"
+   },
+   {
+    "order": 2,
+    "name": "jiaxing wei 加行位",
+    "gloss": "stage of intensified practice",
+    "description": "The four aids to penetration: the grasped and then the grasper are seen as empty.",
+    "ref": "CWSL juan 9",
+    "band": "B4"
+   },
+   {
+    "order": 3,
+    "name": "tongda wei 通達位",
+    "gloss": "stage of penetration",
+    "description": "Non-conceptual wisdom realizes suchness: the path of seeing.",
+    "ref": "CWSL juan 9",
+    "band": "B5"
+   },
+   {
+    "order": 4,
+    "name": "xiuxi wei 修習位",
+    "gloss": "stage of cultivation",
+    "description": "Repeated cultivation through the ten grounds, abandoning the seeds of the two obscurations.",
+    "ref": "CWSL juan 9-10",
+    "band": "B6"
+   },
+   {
+    "order": 5,
+    "name": "jiujing wei 究竟位",
+    "gloss": "ultimate stage",
+    "description": "Buddhahood: the transformation of the basis, the four wisdoms and the three bodies.",
+    "ref": "CWSL juan 10",
+    "band": "B7"
+   }
+  ],
+  "lineages": [
+   "lin:yogacara",
+   "lin:faxiang"
+  ],
+  "sources": [
+   {
+    "source": "src:cheng-weishi-lun",
+    "ref": "juan 9-10",
+    "rests_on": [
+     "tea:cheng-weishi-lun:9",
+     "tea:cheng-weishi-lun:10"
+    ]
+   }
+  ],
+  "notes": "Juan locations recalled.",
+  "coverage": [
+   "B4",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:faxiang",
+    "lin:yogacara"
+   ],
+   "schools": [
+    "lin:faxiang",
+    "lin:yogacara"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -2189,7 +2800,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -2272,7 +2883,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -2381,7 +2992,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -2460,7 +3071,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -2556,7 +3167,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -2692,7 +3303,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -2799,7 +3410,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -2952,7 +3563,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -3059,7 +3670,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -3171,7 +3782,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -3343,7 +3954,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -3435,7 +4046,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -3539,7 +4150,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -3637,7 +4248,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -3843,7 +4454,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -3970,7 +4581,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -4052,7 +4663,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -4170,7 +4781,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -4296,7 +4907,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -4361,10 +4972,25 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "prepared segments: ChU 8.7-12, ChU 8.7.4-8.9.1, ChU 8.10.1-4, ChU 8.11.1-3, ChU 8.12.1-6, ChU 8.7-8.12"
+     ],
+     "evidence": [
+      "text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse)"
+     ],
+     "result": "confirmed",
+     "note": "Located: ChU 8.7.3, 8.9.3, 8.10.3 (32 years each) and 8.11.3 (5 more years; 'ekaśataṃ ha vai varṣāṇi maghavān prajāpatau brahmacaryam uvāsa'). The four teachings are at 8.7.4, 8.10.1, 8.11.1 and 8.12. All 6 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 8.7-12; ChU 8.7.4-8.9.1; ChU 8.10.1-4; ChU 8.11.1-3; ChU 8.12.1-6; ChU 8.7-8.12). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.",
+     "by": "sourcing:U03-principal-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -4385,7 +5011,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -4523,7 +5149,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -4668,7 +5294,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -4756,7 +5382,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -4862,7 +5488,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -4968,7 +5594,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -5029,10 +5655,25 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "prepared segments: KU 1.3.13, KU 1.3.10-11"
+     ],
+     "evidence": [
+      "text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse)"
+     ],
+     "result": "confirmed",
+     "note": "All 2 Upaniṣad refs cited in the entry are located in the prepared segments (KU 1.3.13; KU 1.3.10-11). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.",
+     "by": "sourcing:U03-principal-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -5053,7 +5694,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -5155,7 +5796,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -5256,7 +5897,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -5366,7 +6007,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -5462,7 +6103,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -5591,7 +6232,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -5676,7 +6317,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -5805,7 +6446,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -5930,7 +6571,230 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
+  }
+ },
+ {
+  "id": "pth:madhyamakalamkara-ladder",
+  "name": "The ladder of views (Madhyamakālaṃkāra 92–93)",
+  "lineage": "lin:yogacara-madhyamaka",
+  "lineages": [
+   "lin:yogacara-madhyamaka"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "Relying on mind-only",
+    "gloss": "cittamātra",
+    "description": "Understanding that external objects do not exist.",
+    "ref": "MAL 92",
+    "band": ""
+   },
+   {
+    "order": 2,
+    "name": "Relying on the Madhyamaka",
+    "gloss": "madhyamaka",
+    "description": "Understanding that even mind is utterly without self.",
+    "ref": "MAL 92",
+    "band": ""
+   },
+   {
+    "order": 3,
+    "name": "Riding the two chariots",
+    "gloss": "yānadvaya",
+    "description": "Holding the reins of reasoning over both systems, one is a true Mahāyānist.",
+    "ref": "MAL 93",
+    "band": ""
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:madhyamakalamkara",
+    "ref": "92-93",
+    "rests_on": [
+     "tea:madhyamakalamkara:92-93"
+    ]
+   }
+  ],
+  "notes": "A ladder of doctrinal understanding rather than a meditative map; left unbanded.",
+  "coverage": [
+   "F",
+   "B4"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U40-madhyamaka"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:yogacara-madhyamaka"
+   ],
+   "schools": [
+    "lin:madhyamaka"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:10 IST"
+  }
+ },
+ {
+  "id": "pth:madhyamakavatara-ten-grounds",
+  "name": "The ten grounds of the Madhyamakāvatāra",
+  "lineage": "lin:prasangika",
+  "lineages": [
+   "lin:prasangika"
+  ],
+  "stages": [
+   {
+    "order": 0,
+    "name": "Before the grounds: compassion, non-dual understanding and the awakening mind",
+    "gloss": "the causes of bodhisattvas",
+    "description": "The ordinary bodhisattva cultivates compassion, the awakening mind and non-dual understanding (MA 1.1–2); hearing emptiness with joy marks a fit vessel (MA 6.4–5).",
+    "ref": "MA 1.1-2; 6.4-5",
+    "band": "B0"
+   },
+   {
+    "order": 1,
+    "name": "Pramuditā",
+    "gloss": "the Joyous",
+    "description": "The first ground, on which the perfection of giving (dāna) predominates. Emptiness is seen directly for the first time; the bodhisattva rejoices, having become a child of the Victors.",
+    "ref": "MA ch.1",
+    "band": "B5"
+   },
+   {
+    "order": 2,
+    "name": "Vimalā",
+    "gloss": "the Stainless",
+    "description": "The second ground, on which the perfection of discipline (śīla) predominates.",
+    "ref": "MA ch.2",
+    "band": "B6"
+   },
+   {
+    "order": 3,
+    "name": "Prabhākarī",
+    "gloss": "the Luminous",
+    "description": "The third ground, on which the perfection of patience (kṣānti) predominates.",
+    "ref": "MA ch.3",
+    "band": "B6"
+   },
+   {
+    "order": 4,
+    "name": "Arciṣmatī",
+    "gloss": "the Radiant",
+    "description": "The fourth ground, on which the perfection of vigour (vīrya) predominates.",
+    "ref": "MA ch.4",
+    "band": "B6"
+   },
+   {
+    "order": 5,
+    "name": "Sudurjayā",
+    "gloss": "the Difficult to Conquer",
+    "description": "The fifth ground, on which the perfection of meditation (dhyāna) predominates.",
+    "ref": "MA ch.5",
+    "band": "B6"
+   },
+   {
+    "order": 6,
+    "name": "Abhimukhī",
+    "gloss": "the Manifest (facing)",
+    "description": "The sixth ground, on which the perfection of wisdom (prajñā) predominates. Here the long exposition of emptiness (MA 6) is given; the bodhisattva can enter cessation.",
+    "ref": "MA ch.6",
+    "band": "B6"
+   },
+   {
+    "order": 7,
+    "name": "Dūraṃgamā",
+    "gloss": "the Gone Far",
+    "description": "The seventh ground, on which the perfection of method (upāya) predominates.",
+    "ref": "MA ch.7",
+    "band": "B6"
+   },
+   {
+    "order": 8,
+    "name": "Acalā",
+    "gloss": "the Immovable",
+    "description": "The eighth ground, on which the perfection of aspiration (praṇidhāna) predominates. The bodhisattva is irreversible and no longer moved by conceptual effort.",
+    "ref": "MA ch.8",
+    "band": "B6"
+   },
+   {
+    "order": 9,
+    "name": "Sādhumatī",
+    "gloss": "the Good Intelligence",
+    "description": "The ninth ground, on which the perfection of power (bala) predominates.",
+    "ref": "MA ch.9",
+    "band": "B6"
+   },
+   {
+    "order": 10,
+    "name": "Dharmameghā",
+    "gloss": "the Cloud of Dharma",
+    "description": "The tenth ground, on which the perfection of knowledge (jñāna) predominates.",
+    "ref": "MA ch.10",
+    "band": "B6"
+   },
+   {
+    "order": 11,
+    "name": "The Buddha ground",
+    "gloss": "buddhahood",
+    "description": "The qualities of the grounds culminate in buddhahood, with the bodies and activity of a Buddha, who remains for beings without abiding in nirvāṇa.",
+    "ref": "MA final chapters",
+    "band": "B7"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:madhyamakavatara",
+    "ref": "chs. 1–10 and following",
+    "rests_on": [
+     "tea:madhyamakavatara:1.1",
+     "tea:madhyamakavatara:6.4-5"
+    ]
+   }
+  ],
+  "notes": "Ground names confirmed for grounds 1, 4 and 5 in the local e-text of the bhāṣya; the others and their pairing with the ten perfections follow the Daśabhūmika tradition (pth:ten-bhumis).",
+  "coverage": [
+   "F",
+   "B4"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U40-madhyamaka"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:prasangika"
+   ],
+   "schools": [
+    "lin:madhyamaka"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -6088,7 +6952,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -6184,7 +7048,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -6269,7 +7133,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -6398,7 +7262,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -6488,7 +7352,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -6603,7 +7467,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -6740,7 +7604,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -6856,7 +7720,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -6962,7 +7826,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -7078,7 +7942,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -7191,7 +8055,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -7280,7 +8144,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -7387,7 +8251,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -7487,7 +8351,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -7577,7 +8441,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -7740,7 +8604,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -7856,7 +8720,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -7960,7 +8824,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -8029,10 +8893,25 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "prepared segments: BĀU 3.5.1"
+     ],
+     "evidence": [
+      "text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā)"
+     ],
+     "result": "confirmed",
+     "note": "Located: BĀU 3.5.1 ('tasmād brāhmaṇaḥ pāṇḍityaṃ nirvidya bālyena tiṣṭhāset | bālyaṃ ca pāṇḍityaṃ ca nirvidyātha muniḥ | amaunaṃ ca maunaṃ ca nirvidyātha brāhmaṇaḥ'). All 1 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 3.5.1). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.",
+     "by": "sourcing:U03-principal-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8053,7 +8932,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -8178,7 +9057,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -8319,7 +9198,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -8407,7 +9286,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -8487,7 +9366,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -8603,7 +9482,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -8722,7 +9601,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -8869,7 +9748,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -8996,7 +9875,91 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
+  }
+ },
+ {
+  "id": "pth:ratnavali-two-goods",
+  "name": "Higher status and definite goodness (Ratnāvalī)",
+  "lineage": "lin:madhyamaka",
+  "lineages": [
+   "lin:madhyamaka"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "The dharma of higher status",
+    "gloss": "abhyudaya",
+    "description": "Through faith: the ten virtuous paths, non-drinking, right livelihood, non-harm, giving, honouring the honourable and love, leading to happiness in good rebirths.",
+    "ref": "RĀ 1.3–24",
+    "band": "B1"
+   },
+   {
+    "order": 2,
+    "name": "The dharma of definite goodness",
+    "gloss": "naiḥśreyasa",
+    "description": "Through wisdom: seeing that 'I' and 'mine' are false and passing beyond existence and non-existence, which is liberation.",
+    "ref": "RĀ 1.25–100",
+    "band": "B5"
+   },
+   {
+    "order": 3,
+    "name": "The bodhisattva's collections and grounds",
+    "gloss": "bodhisaṃbhāra, bhūmi",
+    "description": "The collections of merit and wisdom and the ten grounds leading to the two bodies of a Buddha.",
+    "ref": "RĀ 3, 5",
+    "band": "B6"
+   },
+   {
+    "order": 4,
+    "name": "Buddhahood",
+    "gloss": "buddhatva",
+    "description": "The form bodies from merit and the truth body from wisdom.",
+    "ref": "RĀ 3.12–13",
+    "band": "B7"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:ratnavali",
+    "ref": "1.3–5",
+    "rests_on": [
+     "tea:ratnavali:1.3-4",
+     "tea:ratnavali:1.5",
+     "tea:ratnavali:1.42"
+    ]
+   }
+  ],
+  "coverage": [
+   "F",
+   "B4"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U40-madhyamaka"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:madhyamaka"
+   ],
+   "schools": [
+    "lin:madhyamaka"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -9109,7 +10072,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -9186,7 +10149,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -9313,7 +10276,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -9448,7 +10411,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -9573,7 +10536,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -9747,7 +10710,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -9858,7 +10821,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -9979,7 +10942,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -10077,7 +11040,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -10206,7 +11169,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -10374,7 +11337,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -10492,7 +11455,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -10582,7 +11545,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -11451,7 +12414,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -11572,7 +12535,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -11729,7 +12692,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -11848,7 +12811,111 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
+  }
+ },
+ {
+  "id": "pth:sravakabhumi-seven-attentions",
+  "name": "The seven attentions to the first absorption (Śrāvakabhūmi)",
+  "lineage": "lin:yogacara",
+  "stages": [
+   {
+    "order": 1,
+    "name": "lakṣaṇapratisaṃvedī manaskāra",
+    "gloss": "attention discerning characteristics",
+    "description": "Discerning the coarseness of sense-pleasures and the peace of the first absorption.",
+    "ref": "ŚrBh 3",
+    "band": "B3"
+   },
+   {
+    "order": 2,
+    "name": "ādhimokṣika",
+    "gloss": "arising from resolve",
+    "description": "Resolving on that understanding beyond hearing and reflection.",
+    "ref": "ŚrBh 3",
+    "band": "B3"
+   },
+   {
+    "order": 3,
+    "name": "prāvivekya",
+    "gloss": "of seclusion",
+    "description": "Abandoning the strongest afflictions of the desire realm.",
+    "ref": "ŚrBh 3",
+    "band": "B3"
+   },
+   {
+    "order": 4,
+    "name": "ratisaṃgrāhaka",
+    "gloss": "gathering delight",
+    "description": "Delighting in the abandonment and abandoning the middling afflictions.",
+    "ref": "ŚrBh 3",
+    "band": "B3"
+   },
+   {
+    "order": 5,
+    "name": "mīmāṃsā",
+    "gloss": "examination",
+    "description": "Examining whether desire remains.",
+    "ref": "ŚrBh 3",
+    "band": "B3"
+   },
+   {
+    "order": 6,
+    "name": "prayoganiṣṭha",
+    "gloss": "completion of practice",
+    "description": "Abandoning the subtle afflictions; the preparatory stage completed.",
+    "ref": "ŚrBh 3",
+    "band": "B4"
+   },
+   {
+    "order": 7,
+    "name": "prayoganiṣṭhāphala",
+    "gloss": "fruit of completion",
+    "description": "Entering the first absorption proper.",
+    "ref": "ŚrBh 3",
+    "band": "B4"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:sravakabhumi",
+    "ref": "third yogasthāna",
+    "rests_on": [
+     "tea:sravakabhumi:3.seven-attentions"
+    ]
+   }
+  ],
+  "notes": "Names checked in the e-text; the functions of stages 2–6 are recalled from the standard explanation.",
+  "coverage": [
+   "B4",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:yogacara"
+   ],
+   "schools": [
+    "lin:yogacara"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -11989,7 +13056,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -12126,7 +13193,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -12264,7 +13331,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -12378,7 +13445,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -12509,7 +13576,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -12676,7 +13743,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -12757,7 +13824,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -12842,7 +13909,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -12997,7 +14064,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -13122,7 +14189,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -13263,7 +14330,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -13421,7 +14488,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -13532,7 +14599,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -13620,7 +14687,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -13727,7 +14794,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -13866,7 +14933,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -13951,7 +15018,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -14082,7 +15149,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -14173,7 +15240,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -14284,7 +15351,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -14388,7 +15455,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -14486,7 +15553,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -14601,7 +15668,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -14742,7 +15809,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -14865,7 +15932,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -14961,7 +16028,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -15046,7 +16113,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -15146,7 +16213,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -15260,7 +16327,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -15368,7 +16435,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -15486,7 +16553,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -15576,7 +16643,138 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
+  }
+ },
+ {
+  "id": "pth:yogacara-entry-into-mind-only",
+  "name": "The Yogācāra entry through mind-only to the grounds (Mahāyānasūtrālaṃkāra 14)",
+  "lineage": "lin:yogacara",
+  "stages": [
+   {
+    "order": 1,
+    "name": "saṃbhāra",
+    "gloss": "accumulation",
+    "description": "Accumulating merit and knowledge; hearing and reflecting on the teachings; calm and insight joined.",
+    "ref": "MSA 6.6; 14.1-22",
+    "band": "B2"
+   },
+   {
+    "order": 2,
+    "name": "uṣmagata",
+    "gloss": "heat",
+    "description": "In concentration, objects are no longer seen apart from mental speech.",
+    "ref": "MSA 14.23",
+    "band": "B4"
+   },
+   {
+    "order": 3,
+    "name": "mūrdhan",
+    "gloss": "peak",
+    "description": "Firm vigour increases the light of the Dharma.",
+    "ref": "MSA 14.24",
+    "band": "B4"
+   },
+   {
+    "order": 4,
+    "name": "kṣānti",
+    "gloss": "patience",
+    "description": "Abiding in mind-only, all objects seen as appearances of mind; the distraction of the grasped is abandoned.",
+    "ref": "MSA 14.24-25",
+    "band": "B4"
+   },
+   {
+    "order": 5,
+    "name": "laukikāgradharma",
+    "gloss": "supreme mundane quality",
+    "description": "Only the distraction of the grasper remains; the immediate concentration is touched.",
+    "ref": "MSA 14.26-27",
+    "band": "B4"
+   },
+   {
+    "order": 6,
+    "name": "darśana-mārga / prathamā bhūmi",
+    "gloss": "seeing; first ground",
+    "description": "Supramundane non-conceptual wisdom free of duality; the first transformation of the basis.",
+    "ref": "MSA 14.28-29",
+    "band": "B5"
+   },
+   {
+    "order": 7,
+    "name": "bhāvanā-mārga",
+    "gloss": "cultivation",
+    "description": "The two knowledges cultivated through the remaining grounds over two incalculable aeons.",
+    "ref": "MSA 14.42-43",
+    "band": "B6"
+   },
+   {
+    "order": 8,
+    "name": "vajropama-samādhi / niṣṭhāśrayaparāvṛtti",
+    "gloss": "diamond-like concentration; final transformation",
+    "description": "Final transformation of the basis, free of all obscurations; omniscience.",
+    "ref": "MSA 14.44-46",
+    "band": "B7"
+   },
+   {
+    "order": 9,
+    "name": "sattvārtha",
+    "gloss": "work for beings",
+    "description": "Established there, the buddha works for the welfare of all beings through the three bodies and four wisdoms.",
+    "ref": "MSA 14.46; 9.59-76",
+    "band": "B8"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:mahayanasutralamkara",
+    "ref": "14.23-46",
+    "rests_on": [
+     "tea:mahayanasutralamkara:14.23-28",
+     "tea:mahayanasutralamkara:14.29-30",
+     "tea:mahayanasutralamkara:14.42-46"
+    ]
+   },
+   {
+    "source": "src:trimsika",
+    "ref": "26-30",
+    "rests_on": [
+     "tea:trimsika:26-27",
+     "tea:trimsika:28",
+     "tea:trimsika:29-30"
+    ]
+   }
+  ],
+  "notes": "Bands assigned by U41 (interpretation layer); logged.",
+  "coverage": [
+   "B4",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:yogacara"
+   ],
+   "schools": [
+    "lin:yogacara"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -15662,7 +16860,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -15767,7 +16965,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -15848,7 +17046,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -15927,7 +17125,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -16018,7 +17216,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  },
  {
@@ -16107,7 +17305,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 16:38 IST"
+   "computed": "2026-09-29 17:10 IST"
   }
  }
 ]

@@ -17,4 +17,4 @@ The branch that restores potency and fertility for the continuity of lineage. Su
 - Virilization applied to an unpurified body is fruitless. — [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) Utt 39.4
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._

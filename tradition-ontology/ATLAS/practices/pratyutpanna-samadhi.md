@@ -3,8 +3,8 @@
 `prc:pratyutpanna-samadhi` · `skeleton` · confidence moderate
 
 **Category:** visualization-deity
-**Convergence:** 4 independent lineage(s): [Mahāyāna](../lineages/mahayana.md), `lin:pure-land`, `lin:tendai`, `lin:tiantai`
-**Taught in:** [Mahāyāna](../lineages/mahayana.md), `lin:pure-land`, `lin:tendai`, `lin:tiantai`
+**Convergence:** 4 independent lineage(s): [Mahāyāna](../lineages/mahayana.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tendai`, `lin:tiantai`
+**Taught in:** [Mahāyāna](../lineages/mahayana.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tendai`, `lin:tiantai`
 
 Recollecting Amitābha single-mindedly (the sūtra: for seven days and nights) until one sees him face to face or in a dream, understanding the vision as made by mind. Tiantai made it the 'constantly walking samādhi' of ninety days; summary only.
 **Sources:** 
@@ -16,4 +16,4 @@ Recollecting Amitābha single-mindedly (the sūtra: for seven days and nights) u
 _Notes: The prolonged forms (sleep and posture restrictions over ninety days) belong to later manuals; no method recorded here._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

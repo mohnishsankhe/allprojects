@@ -18,4 +18,4 @@ Cennabasava (Cennabasavaṇṇa), Basava's nephew, honoured as the master of ṣ
 **Realization — the tradition's account:** Son of Basava's sister Akkanāgamma; the Śūnyasampādane has Allama acknowledge his knowledge of the sthalas, and he gives liṅga-initiation to Siddharāma; he attained union at Uḷavi.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._

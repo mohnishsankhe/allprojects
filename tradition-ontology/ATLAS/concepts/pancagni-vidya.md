@@ -1,6 +1,6 @@
 # The doctrine of the five fires
 
-`cpt:pancagni-vidya` · `skeleton` · confidence high
+`cpt:pancagni-vidya` · `sourced` · confidence high
 
 **Category:** karma-rebirth
 **Members:** dyuloka, parjanya, pṛthivī, puruṣa, yoṣā
@@ -14,4 +14,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 5.3-10; BĀU 6.2). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

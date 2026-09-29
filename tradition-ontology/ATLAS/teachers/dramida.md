@@ -11,4 +11,4 @@
 Pre-Śaṅkara Vedāntin who commented on Brahmanandin's Vākya; cited by Rāmānuja as an authority.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._

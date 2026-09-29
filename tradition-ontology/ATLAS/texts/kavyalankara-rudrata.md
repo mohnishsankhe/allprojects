@@ -17,4 +17,4 @@ Rudraṭa's treatise in sixteen chapters on figures, faults and rasa; it counts 
 _Notes: The chapter giving the ten rasas is not fixed here._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._

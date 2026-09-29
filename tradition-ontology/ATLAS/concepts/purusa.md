@@ -1,6 +1,6 @@
 # Puruṣa (the conscious self)
 
-`cpt:purusa` · `skeleton` · confidence high
+`cpt:purusa` · `sourced` · confidence high
 
 **Category:** self
 
@@ -19,4 +19,8 @@
 - same-as-under-standpoint → [The self (ātman) in the Upaniṣads](atman.md) (substance): Both name the self; Sāṃkhya insists on plurality and non-agency, which Advaita's one ātman and Nyāya's qualified ātman do not share (graded partial; interpretive) — rests on [17](../texts/samkhya-karika.md#tea-samkhya-karika-17), [18](../texts/samkhya-karika.md#tea-samkhya-karika-18), [19](../texts/samkhya-karika.md#tea-samkhya-karika-19)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/katha-upanisad/segments.js — All 5 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 1.4.1; ŚU 3.14; KU 1.3.11; MuU 2.1.2; ChU 4.15.1). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

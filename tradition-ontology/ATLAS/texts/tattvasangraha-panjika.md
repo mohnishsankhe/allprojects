@@ -18,7 +18,18 @@ Kamalaśīla's commentary on Śāntarakṣita's Tattvasaṅgraha. It preserves L
   - kind: original; name: local SARIT e-text
   - kind: original; name: Tibetan: Derge D4267
 
-## Teachings (3: skeleton 3)
+## Teachings (4: skeleton 4)
+
+### 1-6.gold-test <a id="tea-tattvasangraha-panjika-1-6-gold-test"></a>
+`skeleton` · confidence high
+
+Kamalaśīla, explaining that the Buddha's teaching is established by the two means of valid cognition, cites the Blessed One's words: as the wise accept gold after testing it by heating, cutting and rubbing, so, monks, my word is to be accepted after examination, not out of respect.
+
+> tāpācchedācca nikaṣātsuvarṇamiva paṇḍitaiḥ | parīkṣya bhikṣabo grāhyaṃ madvaco natu gauravāt
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: teacher-transmission_
+
+concepts: [The Buddha as a person of valid cognition](../concepts/buddha-as-pramana.md), [Testing the teacher's word by valid cognition](../concepts/testing-the-teacher-pramana.md) · teachers: [Kamalaśīla](../teachers/kamalasila.md)
 
 ### 1481-1482 <a id="tea-tattvasangraha-panjika-1481-1482"></a>
 `skeleton` · confidence high
@@ -51,4 +62,4 @@ terms: [bhūta-caitanya](../terms/bhuta-caitanya.md) · concepts: [Consciousness
 
 
 ---
-_Contributed by: skeleton:U33-sramana, skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U33-sramana, skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

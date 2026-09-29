@@ -3,12 +3,12 @@
 `prc:heart-mantra-recitation` · `skeleton` · confidence high
 
 **Category:** mantra-sound
-**Convergence:** 6 independent lineage(s): `lin:chan`, [Mahāyāna](../lineages/mahayana.md), `lin:shingon`, `lin:tiantai`, `lin:vajrayana`, `lin:zen`
-**Taught in:** `lin:chan`, [Mahāyāna](../lineages/mahayana.md), `lin:shingon`, `lin:tiantai`, `lin:vajrayana`, `lin:zen`
+**Convergence:** 6 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md), [Mahāyāna](../lineages/mahayana.md), `lin:shingon`, `lin:tiantai`, [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md), [Zen (Japanese Chan)](../lineages/zen.md)
+**Taught in:** [Chan (Chinese Meditation school)](../lineages/chan.md), [Mahāyāna](../lineages/mahayana.md), `lin:shingon`, `lin:tiantai`, [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md), [Zen (Japanese Chan)](../lineages/zen.md)
 
 Recitation of the Heart Sūtra and 'gate gate pāragate pārasaṃgate bodhi svāhā', daily in East Asian monasteries and, in Tibet, to avert obstacles.
 **Sources:** 
   - [Prajñāpāramitāhṛdaya](../texts/prajnaparamita-hrdaya.md) — ref: s9; rests_on: ["tea:prajnaparamita-hrdaya:s9"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

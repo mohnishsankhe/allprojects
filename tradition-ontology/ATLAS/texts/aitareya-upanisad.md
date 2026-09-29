@@ -1,6 +1,6 @@
 # Aitareya Upaniṣad
 
-`src:aitareya-upanisad` · `skeleton` · confidence high
+`src:aitareya-upanisad` · `sourced` · confidence high
 
 **Alternate titles:** Aitareyopanisad, Bahvrca Upaniṣad (loosely)
 **Original title:** ऐतरेयोपनिषद्
@@ -24,10 +24,10 @@ In the beginning the self alone was; it created the worlds, a cosmic person and 
   - kind: translation; name: F. Max Muller, The Upanishads, SBE 1 and 15 (1879, 1884); licence: public domain
 **Commentaries on this text:** [Aitareyopaniṣad-bhāṣya (Madhva)](aitareya-upanisad-bhasya-madhva.md), [Aitareyopaniṣadbhāṣya of Śaṅkara](aitareya-upanisad-bhasya-sankara.md)
 
-## Teachings (9: skeleton 9)
+## Teachings (9: sourced 9)
 
 ### 1.1.1-4 <a id="tea-aitareya-upanisad-1-1-1-4"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 In the beginning this was the self, one alone; nothing else blinked. He thought: 'let me create worlds', and created the waters above, the lights, the mortal (earth) and the waters below. He drew a person out of the waters and heated him; from the heated person the mouth burst open, and from the mouth speech, from speech fire; the nostrils, breath, wind; the eyes, sight, sun; the ears, hearing, the quarters; the skin, hairs, plants; the heart, mind, moon; the navel, the downward breath, death; the penis, semen, the waters.
 
@@ -38,7 +38,7 @@ _level: conventional · standpoint: cosmic · path: knowledge · stage: intermed
 terms: [ātman](../terms/atman.md), [puruṣa](../terms/purusa.md) · concepts: [Creation accounts of the principal Upaniṣads](../concepts/creation-in-the-upanisads.md), [Correspondences (bandhu) between body, ritual and cosmos](../concepts/correspondences.md)
 
 ### 1.2.1-5 <a id="tea-aitareya-upanisad-1-2-1-5"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 These deities, created, fell into the great ocean; he afflicted the person with hunger and thirst. They asked for a dwelling in which to eat food; a cow and a horse were not enough; a person was 'well made'. Fire, becoming speech, entered the mouth; wind, becoming breath, the nostrils; the sun, becoming sight, the eyes... death, becoming the downward breath, the navel; the waters, becoming semen, the penis. Hunger and thirst were given a share in all the deities.
 
@@ -47,7 +47,7 @@ _level: conventional · standpoint: cosmic · path: knowledge · stage: all · t
 concepts: [Correspondences (bandhu) between body, ritual and cosmos](../concepts/correspondences.md)
 
 ### 1.3.11-12 <a id="tea-aitareya-upanisad-1-3-11-12"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 He thought: 'how could this exist without me?' and 'by which way shall I enter?'; 'if speaking is done by speech, breathing by breath... then who am I?' He split open the suture at the top of the head and entered by that door, called the cleft (vidṛti), the place of delight. He has three dwellings and three dreams.
 
@@ -56,7 +56,7 @@ _level: bridging · standpoint: cosmic · path: knowledge · stage: intermediate
 terms: [vidṛti](../terms/vidrti.md) · concepts: [Departure through the crown and the path to brahman](../concepts/yogic-departure-and-krama-mukti.md), [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md)
 
 ### 1.3.13-14 <a id="tea-aitareya-upanisad-1-3-13-14"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Born, he looked around at beings, asking 'what else is here?'; he saw this very person as brahman, the most extended: 'I have seen it (idam adarśam)'. Therefore his name is Idandra; they call him Indra cryptically, for the gods love the cryptic.
 
@@ -65,7 +65,7 @@ _level: ultimate · standpoint: experiential · path: knowledge · stage: advanc
 concepts: ['Upaniṣad': secret teaching and hidden name](../concepts/meaning-of-upanisad.md) · teachers: [Indra (as student and teacher)](../teachers/indra.md)
 
 ### 2.1.1-4 <a id="tea-aitareya-upanisad-2-1-1-4"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 In a man the self first becomes an embryo as semen; when he pours it into a woman it is born — his first birth. It becomes one with her; she nourishes it and the father nourishes the child after birth — his second birth. This self of his is set in his place for pious acts; the other self, having done what was to be done and reaching old age, departs, and departing is born again — his third birth.
 
@@ -74,7 +74,7 @@ _level: conventional · standpoint: causal · path: general · stage: all · typ
 concepts: [The three births of a person](../concepts/three-births.md), [Rebirth](../concepts/rebirth.md)
 
 ### 2.1.5-6 <a id="tea-aitareya-upanisad-2-1-5-6"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The seer has said: 'while still in the womb I knew all the births of these gods; a hundred iron fortresses guarded me, but as a falcon I swiftly flew out' — Vāmadeva said this lying in the womb. Knowing thus, on the breaking of the body he rose up, obtained all desires in the heavenly world and became immortal.
 
@@ -83,7 +83,7 @@ _level: ultimate · standpoint: experiential · path: knowledge · stage: realiz
 teachers: [Vāmadeva](../teachers/vamadeva.md)
 
 ### 3.1.1-2 <a id="tea-aitareya-upanisad-3-1-1-2"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Who is this self we venerate? Which is the self? That by which one sees, hears, smells, speaks and distinguishes the sweet and the not sweet. It is the heart and the mind: awareness, perception, discernment, intelligence, wisdom, insight, steadfastness, thought, reflection, impulse, memory, intention, purpose, life, desire, control — all these are names of intelligence (prajñāna).
 
@@ -92,7 +92,7 @@ _level: bridging · standpoint: analytic · path: knowledge · stage: intermedia
 terms: [prajñāna](../terms/prajnana.md), [hṛdaya](../terms/hrdaya.md), [manas](../terms/manas.md), [saṅkalpa](../terms/sankalpa.md), [kratu](../terms/kratu.md), [kāma](../terms/kama.md) · concepts: [The self (ātman) in the Upaniṣads](../concepts/atman.md)
 
 ### 3.1.3 <a id="tea-aitareya-upanisad-3-1-3"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 This is Brahmā, this is Indra, this is Prajāpati, all the gods, the five great elements — earth, wind, space, water, light — and all creatures, born from eggs, from wombs, from sweat and from sprouts, horses, cattle, men, elephants, whatever breathes, moves, flies or stands still: all this is guided by intelligence, founded on intelligence. The world is guided by intelligence; intelligence is the foundation; intelligence is brahman (prajñānaṃ brahma).
 
@@ -103,7 +103,7 @@ _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced �
 terms: [prajñāna](../terms/prajnana.md), [mahāvākya](../terms/mahavakya.md), [brahman](../terms/brahman.md) · concepts: [The four great sayings (mahāvākya)](../concepts/mahavakyas.md), [Brahman (the ultimate ground)](../concepts/brahman.md)
 
 ### 3.1.4 <a id="tea-aitareya-upanisad-3-1-4"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 With this intelligent self he rose up from this world, obtained all desires in the heavenly world and became immortal.
 
@@ -115,4 +115,8 @@ terms: [Prājña](../terms/prajna.md) · concepts: [Liberation (mokṣa) in Dvai
 _Notes: Veda affiliation: Ṛgveda, Aitareya (Sakala/Asvalayana) tradition_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL-dev:aitareya-upanisad_aitareyopanisad_rv, text:sources_raw/prepared/aitareya-upanisad/segments.jsonl (Advaita-Śāradā mūla Aitareya.md, adhyāya.khaṇḍa.verse), https://en.wikipedia.org/wiki/Aitareya_Upanishad, https://vedicheritage.gov.in/aranyakas/aitareyaranyaka/, https://www.wisdomli — Confirmed: AĀ 2.4–6 (the Vedic Heritage Portal and Wikipedia), 33 sections (4+5+14 / 6 / 4 in the prepared text) and the traditional attribution to Mahidāsa Aitareya. Wikipedia reports Olivelle's pre-Buddhist 6th–5th c. BCE date, which matches the entry.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

@@ -18,4 +18,4 @@
 **Related:** [tirobhāva](tirobhava.md), [śaktipāta](saktipata.md), [prasāda](prasada.md)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U17-pasupata-kapalika, skeleton:U23-sakta-srividya, skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U17-pasupata-kapalika, skeleton:U23-sakta-srividya, skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._

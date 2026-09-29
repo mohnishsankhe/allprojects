@@ -13,4 +13,4 @@
 - contrasts-with → [Liberation in life in a stable body (Rasa)](jivanmukti-rasa.md): Rasa Śāstra requires an undecaying body for liberation in life — rests on [1.9-13](../texts/rasarnava.md#tea-rasarnava-1-9-13)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._

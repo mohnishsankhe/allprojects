@@ -25,4 +25,4 @@
 - same-as-under-standpoint → [The semblance of the name (nāmābhāsa)](namabhasa.md) (devotional): the Gauḍīya teaching that even a semblance of the name saves extends the same claim — rests on [5](../texts/tiruppavai.md#tea-tiruppavai-5), [6.2.9-10](../texts/bhagavata-purana.md#tea-bhagavata-purana-6-2-9-10)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U26-regional-bhakti, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._

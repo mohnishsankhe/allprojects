@@ -27,4 +27,4 @@ Open: anyone dispassionate — with or without vows or fires — may renounce; e
 _Notes: Related registry dispute: dsp:women-caste-liberation. The texts assume male renouncers._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

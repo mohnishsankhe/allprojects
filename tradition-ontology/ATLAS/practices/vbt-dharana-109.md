@@ -15,4 +15,4 @@
 _Notes: Verses 135 (KSTS 8 / GRETIL numbering). The Kaumudī reads 'bālasyaitā vibhīṣikāḥ' (bugbears for a child)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._

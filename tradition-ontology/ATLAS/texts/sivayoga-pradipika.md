@@ -12,4 +12,4 @@ A Sanskrit manual that joins liṅga-devotion with the yoga of mantra, laya, ha�
 _Notes: Author (a Vīraśaiva Sadāśiva/Cennasadāśiva Yogi?) and date not recalled with confidence; verify before use._
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._

@@ -25,4 +25,4 @@ Seeking out and serving the holy, hearing the talks that arise in their company;
 - Bad company (kusaṅg) undoes practice; know the sādhu by conduct, not dress. — [Kabīr Granthāvalī](../texts/kabir-granthavali.md) Kusaṅgati / Sādh kau aṅg
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti, skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti, skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._

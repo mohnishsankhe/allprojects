@@ -23,4 +23,4 @@
 - contrasts-with → [Māyā in the principal Upaniṣads](maya.md): Advaita's māyā is not a second reality (the Sāṃkhya–Advaita contrast; interpretive) — rests on [3](../texts/samkhya-karika.md#tea-samkhya-karika-3), [11](../texts/samkhya-karika.md#tea-samkhya-karika-11)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U14-visistadvaita, skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U14-visistadvaita, skeleton:U15-dvaita. Generated 2026-09-29 17:10 IST._

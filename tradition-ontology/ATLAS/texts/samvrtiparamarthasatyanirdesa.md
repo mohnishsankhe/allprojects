@@ -21,8 +21,8 @@ The ultimate truth is beyond all activity of speech and thought — so much so t
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate_
 
-concepts: [The two truths (sūtra layer)](../concepts/two-truths.md)
+concepts: [The two truths (satyadvaya)](../concepts/two-truths.md)
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

@@ -11,4 +11,4 @@
 An anonymous popular manual for writing horoscopes, widely used in North India.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._

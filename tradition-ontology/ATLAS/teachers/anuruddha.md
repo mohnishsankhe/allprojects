@@ -11,4 +11,4 @@ The Buddha's Sakyan cousin, foremost in the divine eye; practised with Nandiya a
 _Notes: AN 1 Etadaggavagga (the 'foremost' lists). Distinct from the later Abhidhamma author tch:anuruddha-acariya._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

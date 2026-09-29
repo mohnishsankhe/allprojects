@@ -28,7 +28,7 @@ Arising, abiding and ceasing, existence and non-existence, the inferior, middlin
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate, sound-language_
 
-terms: [vyavahāra](../terms/vyavahara.md) · concepts: [The two truths (sūtra layer)](../concepts/two-truths.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [vyavahāra](../terms/vyavahara.md) · concepts: [The two truths (satyadvaya)](../concepts/two-truths.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 64-65 <a id="tea-sunyatasaptati-64-65"></a>
 `skeleton` · confidence low
@@ -37,10 +37,10 @@ The Teacher called ignorance the conceiving of things born from causes and condi
 
 _level: bridging · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-terms: [avidyā](../terms/avidya.md) · concepts: `cpt:twelve-links-in-madhyamaka` · obstacles: `obs:svabhava-graha` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [avidyā](../terms/avidya.md) · concepts: [The twelve links in the Madhyamaka](../concepts/twelve-links-in-madhyamaka.md) · obstacles: [Grasping at own-nature (inherent existence)](../obstacles/svabhava-graha.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 
 _Notes: Sanskrit lost apart from quotations._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

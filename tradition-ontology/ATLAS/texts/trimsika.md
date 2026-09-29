@@ -31,7 +31,7 @@ Whatever various figurative talk of 'self' and 'dharmas' goes on, it goes on wit
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, ultimate_
 
-terms: `trm:vijnana-parinama`, [upacāra](../terms/upacara.md), [ātman](../terms/atman.md), [dharma](../terms/dharma.md) · concepts: `cpt:three-transformations-of-consciousness` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [vijñāna-pariṇāma](../terms/vijnana-parinama.md), [upacāra](../terms/upacara.md), [ātman](../terms/atman.md), [dharma](../terms/dharma.md) · concepts: [The three transformations of consciousness](../concepts/three-transformations-of-consciousness.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 2 <a id="tea-trimsika-2"></a>
 `skeleton` · confidence high
@@ -42,7 +42,7 @@ The three transformations are the maturation, the one called 'mind' (manana) and
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: `trm:alaya-vijnana`, [vipāka](../terms/vipaka.md), [bīja](../terms/bija.md) · concepts: [The eight consciousnesses (sūtra layer)](../concepts/eight-consciousnesses.md), `cpt:alaya-vijnana` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [ālaya-vijñāna](../terms/alaya-vijnana.md), [vipāka](../terms/vipaka.md), [bīja](../terms/bija.md) · concepts: [The eight consciousnesses](../concepts/eight-consciousnesses.md), [The store-consciousness (ālaya-vijñāna)](../concepts/alaya-vijnana.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 3-4 <a id="tea-trimsika-3-4"></a>
 `skeleton` · confidence high
@@ -53,7 +53,7 @@ The store-consciousness has an unperceived appropriation and an unperceived cogn
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: `trm:alaya-vijnana`, `trm:sarvatraga-caitasika`, `trm:anivrtavyakrta` · concepts: `cpt:alaya-vijnana`, `cpt:fifty-one-mental-factors` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [ālaya-vijñāna](../terms/alaya-vijnana.md), [sarvatraga caitasika](../terms/sarvatraga-caitasika.md), [anivṛtāvyākṛta](../terms/anivrtavyakrta.md) · concepts: [The store-consciousness (ālaya-vijñāna)](../concepts/alaya-vijnana.md), [The mental factors in Yogācāra (fifty-one)](../concepts/fifty-one-mental-factors.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 5 <a id="tea-trimsika-5"></a>
 `skeleton` · confidence high
@@ -64,7 +64,7 @@ The store-consciousness ceases at arhatship. Dependent on it and taking it as it
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, karma-liberation_
 
-terms: `trm:klista-manas`, `trm:alaya-vijnana`, [arhat](../terms/arhat.md) · concepts: `cpt:klista-manas` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [kliṣṭa-manas](../terms/klista-manas.md), [ālaya-vijñāna](../terms/alaya-vijnana.md), [arhat](../terms/arhat.md) · concepts: [The afflicted mind (kliṣṭa-manas)](../concepts/klista-manas.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 6-7 <a id="tea-trimsika-6-7"></a>
 `skeleton` · confidence high
@@ -75,7 +75,7 @@ That mind is always accompanied by four afflictions, obscured but morally undete
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, karma-liberation_
 
-terms: `trm:klista-manas`, `trm:atma-drsti`, `trm:atma-moha`, `trm:atma-mana`, `trm:atma-sneha`, [nirodhasamāpatti](../terms/nirodhasamapatti.md) · concepts: `cpt:klista-manas` · obstacles: `obs:four-afflictions-of-manas` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [kliṣṭa-manas](../terms/klista-manas.md), [ātma-dṛṣṭi](../terms/atma-drsti.md), [ātma-moha](../terms/atma-moha.md), [ātma-māna](../terms/atma-mana.md), [ātma-sneha](../terms/atma-sneha.md), [nirodhasamāpatti](../terms/nirodhasamapatti.md) · concepts: [The afflicted mind (kliṣṭa-manas)](../concepts/klista-manas.md) · obstacles: [The four afflictions of the afflicted mind](../obstacles/four-afflictions-of-manas.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 8-9 <a id="tea-trimsika-8-9"></a>
 `skeleton` · confidence high
@@ -84,7 +84,7 @@ The third transformation is the apprehension of the six kinds of object; it is w
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: [pravṛtti-vijñāna](../terms/pravrtti-vijnana.md), `trm:caitasika` · concepts: `cpt:fifty-one-mental-factors`, [The eight consciousnesses (sūtra layer)](../concepts/eight-consciousnesses.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [pravṛtti-vijñāna](../terms/pravrtti-vijnana.md), [caitasika](../terms/caitasika.md) · concepts: [The mental factors in Yogācāra (fifty-one)](../concepts/fifty-one-mental-factors.md), [The eight consciousnesses](../concepts/eight-consciousnesses.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 10-14 <a id="tea-trimsika-10-14"></a>
 `skeleton` · confidence high
@@ -93,7 +93,7 @@ The mental factors are listed: the five universal (contact etc.); the five parti
 
 _level: conventional · standpoint: analytic · path: meditation, knowledge · stage: all · types: consciousness-mind_
 
-terms: `trm:caitasika`, [upakleśa](../terms/upaklesa.md), [kleśa](../terms/klesa.md) · concepts: `cpt:fifty-one-mental-factors` · obstacles: `obs:six-root-afflictions-yogacara`, `obs:twenty-secondary-afflictions` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [caitasika](../terms/caitasika.md), [upakleśa](../terms/upaklesa.md), [kleśa](../terms/klesa.md) · concepts: [The mental factors in Yogācāra (fifty-one)](../concepts/fifty-one-mental-factors.md) · obstacles: [The six root afflictions (Yogācāra)](../obstacles/six-root-afflictions-yogacara.md), [The twenty secondary afflictions](../obstacles/twenty-secondary-afflictions.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 15-16 <a id="tea-trimsika-15-16"></a>
 `skeleton` · confidence high
@@ -104,7 +104,7 @@ The five sense-consciousnesses arise in the root consciousness according to thei
 
 _level: conventional · standpoint: analytic · path: meditation, knowledge · stage: all · types: consciousness-mind_
 
-terms: `trm:mula-vijnana`, [manovijñāna](../terms/manovijnana.md), [asaṃjñisamāpatti](../terms/asamjnisamapatti.md), [nirodhasamāpatti](../terms/nirodhasamapatti.md) · concepts: [The eight consciousnesses (sūtra layer)](../concepts/eight-consciousnesses.md), `cpt:states-without-mind-consciousness` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [mūla-vijñāna](../terms/mula-vijnana.md), [mano-vijñāna](../terms/manovijnana.md), [asaṃjñi-samāpatti](../terms/asamjnisamapatti.md), [nirodhasamāpatti](../terms/nirodhasamapatti.md) · concepts: [The eight consciousnesses](../concepts/eight-consciousnesses.md), [States without mental consciousness](../concepts/states-without-mind-consciousness.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 17 <a id="tea-trimsika-17"></a>
 `skeleton` · confidence high
@@ -115,7 +115,7 @@ This transformation of consciousness is imagination (vikalpa); what is imagined 
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate, consciousness-mind_
 
-terms: [vijñaptimātra](../terms/vijnaptimatra.md), [vikalpa](../terms/vikalpa.md), `trm:vijnana-parinama` · concepts: `cpt:vijnaptimatrata` · teachers: [Vasubandhu](../teachers/vasubandhu.md) · disputes: [Are there objects external to cognition?](../debates/external-objects.md)
+terms: [vijñapti-mātra](../terms/vijnaptimatra.md), [vikalpa](../terms/vikalpa.md), [vijñāna-pariṇāma](../terms/vijnana-parinama.md) · concepts: [Cognition-only (vijñaptimātratā)](../concepts/vijnaptimatrata.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md) · disputes: [Are there objects external to cognition?](../debates/external-objects.md)
 
 ### 18 <a id="tea-trimsika-18"></a>
 `skeleton` · confidence high
@@ -126,7 +126,7 @@ Consciousness holding all seeds transforms in this way and that, by their mutual
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: consciousness-mind, karma-liberation_
 
-terms: [bīja](../terms/bija.md), `trm:vijnana-parinama` · concepts: `cpt:bija-vasana` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [bīja](../terms/bija.md), [vijñāna-pariṇāma](../terms/vijnana-parinama.md) · concepts: [Seeds and imprints (bīja, vāsanā)](../concepts/bija-vasana.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 19 <a id="tea-trimsika-19"></a>
 `skeleton` · confidence high
@@ -137,7 +137,7 @@ The imprints of action, together with the imprints of the twofold grasping, prod
 
 _level: conventional · standpoint: causal · path: general · stage: all · types: karma-liberation, death-dying_
 
-terms: [vāsanā](../terms/vasana.md), `trm:grahadvaya`, [vipāka](../terms/vipaka.md) · concepts: `cpt:bija-vasana`, `cpt:yogacara-rebirth` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [vāsanā](../terms/vasana.md), [grāha-dvaya](../terms/grahadvaya.md), [vipāka](../terms/vipaka.md) · concepts: [Seeds and imprints (bīja, vāsanā)](../concepts/bija-vasana.md), [Rebirth in Yogācāra](../concepts/yogacara-rebirth.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 20 <a id="tea-trimsika-20"></a>
 `skeleton` · confidence high
@@ -148,7 +148,7 @@ Whatever thing is imagined by whatever imagination is just the imagined nature (
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate_
 
-terms: `trm:parikalpita-svabhava`, [trisvabhāva](../terms/trisvabhava.md) · concepts: [The three natures (sūtra layer)](../concepts/three-natures.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [parikalpita-svabhāva](../terms/parikalpita-svabhava.md), [tri-svabhāva](../terms/trisvabhava.md) · concepts: [The three natures (sūtra layer)](../concepts/three-natures.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 21 <a id="tea-trimsika-21"></a>
 `skeleton` · confidence high
@@ -159,7 +159,7 @@ The dependent nature is imagination arising from conditions; the perfected natur
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate_
 
-terms: `trm:paratantra-svabhava`, `trm:parinispanna-svabhava` · concepts: [The three natures (sūtra layer)](../concepts/three-natures.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [paratantra-svabhāva](../terms/paratantra-svabhava.md), [pariniṣpanna-svabhāva](../terms/parinispanna-svabhava.md) · concepts: [The three natures (sūtra layer)](../concepts/three-natures.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 22 <a id="tea-trimsika-22"></a>
 `skeleton` · confidence high
@@ -181,7 +181,7 @@ With the threefold nature in view, the threefold naturelessness was taught, and 
 
 _level: bridging · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate_
 
-terms: `trm:nihsvabhavata`, `trm:laksana-nihsvabhavata`, `trm:utpatti-nihsvabhavata`, `trm:paramartha-nihsvabhavata` · concepts: [The three naturelessnesses](../concepts/three-naturelessnesses.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md) · disputes: `dsp:yogacara-madhyamaka`
+terms: [niḥsvabhāvatā](../terms/nihsvabhavata.md), [lakṣaṇa-niḥsvabhāvatā](../terms/laksana-nihsvabhavata.md), [utpatti-niḥsvabhāvatā](../terms/utpatti-nihsvabhavata.md), [paramārtha-niḥsvabhāvatā](../terms/paramartha-nihsvabhavata.md) · concepts: [The three naturelessnesses](../concepts/three-naturelessnesses.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md) · disputes: [Is cognition (the dependent nature) real, or is it empty of own-being like everything else? — Yogācāra and Madhyamaka](../debates/yogacara-madhyamaka.md)
 
 ### 25 <a id="tea-trimsika-25"></a>
 `skeleton` · confidence high
@@ -192,7 +192,7 @@ That (perfected nature) is the ultimate of dharmas; it is also suchness, because
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [tathatā](../terms/tathata.md), [paramārtha](../terms/paramartha.md), `trm:vijnaptimatrata` · concepts: `cpt:vijnaptimatrata`, [The three natures (sūtra layer)](../concepts/three-natures.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [tathatā](../terms/tathata.md), [paramārtha](../terms/paramartha.md), [vijñapti-mātratā](../terms/vijnaptimatrata.md) · concepts: [Cognition-only (vijñaptimātratā)](../concepts/vijnaptimatrata.md), [The three natures (sūtra layer)](../concepts/three-natures.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 26-27 <a id="tea-trimsika-26-27"></a>
 `skeleton` · confidence high
@@ -203,7 +203,7 @@ As long as consciousness does not abide in cognition-only, the latent tendency o
 
 _level: conventional · standpoint: seeker · path: meditation, knowledge · stage: intermediate (prayoga-mārga) · types: practice, consciousness-mind_
 
-terms: `trm:grahadvaya`, [anusaya](../terms/anusaya.md), `trm:vijnaptimatrata` · practices: `prc:entry-into-cognition-only` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [grāha-dvaya](../terms/grahadvaya.md), [anusaya](../terms/anusaya.md), [vijñapti-mātratā](../terms/vijnaptimatrata.md) · practices: [Entry into cognition-only (vijñaptimātratā-praveśa)](../practices/entry-into-cognition-only.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 28 <a id="tea-trimsika-28"></a>
 `skeleton` · confidence high
@@ -214,7 +214,7 @@ When consciousness no longer apprehends any object, then it abides in cognition-
 
 _level: bridging · standpoint: experiential · path: meditation, knowledge · stage: advanced (darśana-mārga) · types: practice, consciousness-mind, ultimate_
 
-practices: `prc:entry-into-cognition-only` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+practices: [Entry into cognition-only (vijñaptimātratā-praveśa)](../practices/entry-into-cognition-only.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 ### 29-30 <a id="tea-trimsika-29-30"></a>
 `skeleton` · confidence high
@@ -225,10 +225,10 @@ That is without mind (acitta), non-apprehension; that is supramundane knowledge;
 
 _level: ultimate · standpoint: experiential · path: meditation, knowledge · stage: realized (bhāvanā-mārga to niṣṭhā-mārga) · types: karma-liberation, ultimate_
 
-terms: [āśraya-parāvṛtti](../terms/asraya-paravrtti.md), `trm:dausthulya`, `trm:lokottara-jnana`, `trm:anasrava-dhatu`, [dharmakāya](../terms/dharmakaya.md), `trm:vimuktikaya` · concepts: `cpt:asraya-paravrtti`, `cpt:three-bodies-yogacara` · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+terms: [āśraya-parāvṛtti](../terms/asraya-paravrtti.md), [dauṣṭhulya](../terms/dausthulya.md), [lokottara-jñāna](../terms/lokottara-jnana.md), [anāsrava-dhātu](../terms/anasrava-dhatu.md), [dharmakāya](../terms/dharmakaya.md), [vimukti-kāya](../terms/vimuktikaya.md) · concepts: [Transformation of the basis (āśraya-parāvṛtti)](../concepts/asraya-paravrtti.md), [The three bodies of a buddha (Yogācāra)](../concepts/three-bodies-yogacara.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 
 _Notes: Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

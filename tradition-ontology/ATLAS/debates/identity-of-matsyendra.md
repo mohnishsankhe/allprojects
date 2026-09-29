@@ -14,11 +14,11 @@ Matsyendra is the disciple of Ādinātha and guru of Gorakṣa, bringer of the Y
 ### `lin:newar-vajrayana`
 In the Kathmandu valley the deity brought from Kāmarūpa to end Gorakṣa's drought is Karuṇāmaya (Avalokiteśvara), called Buṅga-dyaḥ and Macchindranāth.
 - Newar chronicles and the Rāto Macchindranāth festival (not extracted).
-### `lin:mahasiddha`
+### [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md)
 Tibetan tradition relates Matsyendra to the siddha Lūipa ('fish-gut eater') or Mīnapa among the eighty-four.
 - Caturaśītisiddhapravṛtti (Abhayadatta).
 **Texts:** 
-  - `src:caturasiti-siddha-pravrtti` — ref: Lūipa; Mīnapa (refs not recalled)
+  - [Caturaśītisiddhapravṛtti (the Lives of the Eighty-four Siddhas)](../texts/caturasiti-siddha-pravrtti.md) — ref: Lūipa; Mīnapa (refs not recalled)
 
 ## Reconciliation (interpretation layer)
 **Status:** partially-reconciled
@@ -28,4 +28,4 @@ The shared elements (fish, Kāmarūpa, siddha of the Kali age) are recorded in e
 **The traditions' own objections:** Each tradition claims him as its own and would reject being read as a form of the other's deity or saint.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._

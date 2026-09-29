@@ -16,4 +16,4 @@ Absorption with the mental mode resting in Brahman while the distinction of know
 - Relishing its bliss (rasāsvāda) obstructs nirvikalpa samādhi. — [Vedāntasāra](../texts/vedantasara.md) obstacles
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._

@@ -1,6 +1,6 @@
 # Desire (kāma)
 
-`obs:kama` · `skeleton` · confidence high
+`obs:kama` · `sourced` · confidence high
 
 **Category:** passion
 **Convergence:** 5 independent lineage(s): [Bāul](../lineages/baul.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md), [Vaiṣṇava Sahajiyā](../lineages/vaisnava-sahajiya.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -19,6 +19,10 @@ Bhagavad Gītā 1–3: Desire arises from attachment to objects dwelt on and giv
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.28; rests_on: ["tea:bhagavad-gita:5.28"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.18; rests_on: ["tea:bhagavad-gita:6.18"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.24; rests_on: ["tea:bhagavad-gita:6.24"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 7.11; rests_on: ["tea:bhagavad-gita:7.11"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 7.20; rests_on: ["tea:bhagavad-gita:7.20"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 7.22; rests_on: ["tea:bhagavad-gita:7.22"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 9.21; rests_on: ["tea:bhagavad-gita:9.21"]
   - [Vivartavilāsa](../texts/vivartavilasa.md) — ref: kāma into prema; rests_on: ["tea:vivartavilasa:kama-into-prema"]
   - [Caitanya Caritāmṛta](../texts/caitanya-caritamrta.md) — ref: 1.4.165; rests_on: ["tea:caitanya-caritamrta:1.4.165"]
 
@@ -26,5 +30,7 @@ Bhagavad Gītā 1–3: Desire arises from attachment to objects dwelt on and giv
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.19, tea:bhagavad-gita:5.12, tea:bhagavad-gita:5.23, tea:bhagavad-gita:5.28, tea:bhagavad-gita:6.18, tea:bhagavad-gita:6.24 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:7.11, tea:bhagavad-gita:7.20, tea:bhagavad-gita:7.22, tea:bhagavad-gita:9.21 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Adv — All 7 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 4.4.5-6; MuU 3.2.2; KU 2.1.2; BĀU 4.4.7; KU 2.3.14; BĀU 4.4.6; BĀU 4.4.5-7). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch04-06, skeleton:U27-sant-baul, skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09, skeleton:U27-sant-baul, skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._

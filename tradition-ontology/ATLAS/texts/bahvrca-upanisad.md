@@ -79,4 +79,4 @@ concepts: [Lalitā as Brahman](../concepts/lalita-as-brahman.md) · disputes: [I
 _Notes: Owned by U04; U23 adds Śrīvidyā key teachings. Text checked in sources_raw (vedaH/misc/upaniShat/shAktA; eBhāratī bhāvanopaniṣat)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

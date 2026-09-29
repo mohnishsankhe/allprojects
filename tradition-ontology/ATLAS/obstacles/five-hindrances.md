@@ -21,4 +21,4 @@ Sensual desire, ill will, dullness and drowsiness, restlessness and remorse, and
 - partial: [The six hindrances of the Abhidhamma](six-hindrances-abhidhamma.md) — The Pali Abhidhamma adds ignorance as a sixth hindrance.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

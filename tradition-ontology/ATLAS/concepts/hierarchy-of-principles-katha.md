@@ -1,6 +1,6 @@
 # The ladder of principles (Kaṭha)
 
-`cpt:hierarchy-of-principles-katha` · `skeleton` · confidence high
+`cpt:hierarchy-of-principles-katha` · `sourced` · confidence high
 
 **Category:** mind
 **Members:** indriya, artha, manas, buddhi, mahān ātmā, avyakta, puruṣa
@@ -14,4 +14,8 @@
 - corresponds-to-in-map → [Puruṣa (the conscious self)](purusa.md): the top of the ladder is the puruṣa — rests on [1.3.10-11](../texts/katha-upanisad.md#tea-katha-upanisad-1-3-10-11)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (KU 1.3.10-11). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

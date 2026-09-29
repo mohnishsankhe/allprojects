@@ -16,4 +16,4 @@ Atiśa's short 'Instruction on the Middle Way' for meditation: analysing the obj
   - kind: translation; name: Tibetan translation, Derge Tengyur D3929 (dbu ma'i man ngag) — catalog:Derge-Tengyur:D3929
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

@@ -27,4 +27,4 @@ Because the sun at the navel swallows the nectar that drips from the moon at the
 - The practitioner must eat plenty, otherwise the fire quickly consumes the body. — [Yogatattva Upaniṣad](../texts/yogatattva-upanisad.md) 112-128
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

@@ -30,4 +30,4 @@ terms: [visuddhi](../terms/visuddhi.md) · concepts: [The seven purifications (M
 _Notes: SuttaCentral uid mn24; Mahāsaṅgīti title 'Rathavinītasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

@@ -16,4 +16,4 @@ Cremation or burial with the funeral hymns: the corpse on the pyre is sent to th
 - partial: [Antyeṣṭi (funeral rites)](antyesti.md) — The Saṃhitā hymns supply the mantras of the later gṛhya funeral (antyeṣṭi); the procedures are fixed in the sūtras.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._

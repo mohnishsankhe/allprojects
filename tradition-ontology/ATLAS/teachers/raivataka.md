@@ -8,4 +8,4 @@
 Named among the paramahaṃsas (Jābāla 6; Nāradaparivrājaka 3.86).
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

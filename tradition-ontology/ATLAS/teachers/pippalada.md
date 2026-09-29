@@ -16,5 +16,6 @@ _Notes: Tradition connects him with the Paippalāda śākhā of the Atharvaveda 
 **Verification checks**
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Pippalada, https://en.wikipedia.org/wiki/Prashna_Upanishad, https://www.atharvavedapaippalada.uzh.ch/en/stateOfArt.html — Confirmed: eponym of the Paippalāda school of the Atharvaveda and the teacher answering the six questions of the Praśna Upaniṣad (the latter owned by U03).
+- 2026-09-29 text-locate+websearch: confirmed — text:sources_raw/prepared/prasna-upanisad/segments.jsonl (Advaita-Śāradā mūla Prashna.md), https://en.wikipedia.org/wiki/Prashna_Upanishad — Located: PrU 1.1-2 ('bhūya eva tapasā brahmacaryeṇa śraddhayā saṃvatsaraṃ saṃvatsyatha'). The link with the Paippalāda śākhā is stated as tradition (Wikipedia's Praśna article assigns the text to the Pippalāda school).
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

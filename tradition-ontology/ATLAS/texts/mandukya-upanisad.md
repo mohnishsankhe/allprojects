@@ -1,6 +1,6 @@
 # Māṇḍūkya Upaniṣad
 
-`src:mandukya-upanisad` · `skeleton` · confidence high
+`src:mandukya-upanisad` · `sourced` · confidence high
 
 **Alternate titles:** Mandukyopanisad
 **Original title:** माण्डूक्योपनिषद्
@@ -19,10 +19,10 @@ Om is all this; this self is brahman and has four quarters: waking (vaiśvānara
   - kind: translation; name: R. E. Hume, The Thirteen Principal Upanishads (1921); licence: public domain in some jurisdictions
 **Commentaries on this text:** [Māṇḍūkya Kārikā (Gauḍapāda Kārikā, Āgamaśāstra)](mandukya-karika.md), [Māṇḍūkyopaniṣad-bhāṣya (Madhva)](mandukya-upanisad-bhasya-madhva.md)
 
-## Teachings (9: skeleton 9)
+## Teachings (9: sourced 9)
 
 ### 1 <a id="tea-mandukya-upanisad-1"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Om — this syllable is all this. Its explanation: past, present and future — all is Om; and whatever else transcends the three times, that too is Om.
 
@@ -31,7 +31,7 @@ _level: ultimate · standpoint: absolute · path: sound, knowledge · stage: all
 terms: [oṃ](../terms/om.md), [akṣara](../terms/aksara.md) · concepts: [Oṃ, the designator of Īśvara](../concepts/pranava.md) · practices: [Meditation on Om (praṇava-upāsanā)](../practices/pranava-upasana.md)
 
 ### 2 <a id="tea-mandukya-upanisad-2"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 For all this is brahman; this self is brahman; this self has four quarters.
 
@@ -42,7 +42,7 @@ _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced �
 terms: [brahman](../terms/brahman.md), [ātman](../terms/atman.md), [mahāvākya](../terms/mahavakya.md) · concepts: [The four great sayings (mahāvākya)](../concepts/mahavakyas.md), [The identity of the self and brahman](../concepts/atman-brahman-identity.md), [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md) · disputes: `dsp:souls-one-or-distinct`
 
 ### 3 <a id="tea-mandukya-upanisad-3"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The first quarter is the one common to all men (vaiśvānara), whose field is waking, who knows outward, who has seven limbs and nineteen mouths, and who enjoys the gross.
 
@@ -51,7 +51,7 @@ _level: bridging · standpoint: experiential · path: knowledge · stage: interm
 terms: [vaiśvānara](../terms/vaisvanara.md), [jāgarita / jāgrat](../terms/jagrat.md) · concepts: [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md)
 
 ### 4 <a id="tea-mandukya-upanisad-4"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The second quarter is the brilliant one (taijasa), whose field is dream, who knows inward, has seven limbs and nineteen mouths, and enjoys the subtle.
 
@@ -60,7 +60,7 @@ _level: bridging · standpoint: experiential · path: knowledge · stage: interm
 terms: [Taijasa](../terms/taijasa.md), [svapna](../terms/svapna.md) · concepts: [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md)
 
 ### 5 <a id="tea-mandukya-upanisad-5"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Where one asleep desires no desire and sees no dream, that is deep sleep. The third quarter is the intelligent one (prājña), whose field is deep sleep, become one, a mass of cognition, made of bliss, enjoying bliss, whose mouth is thought.
 
@@ -69,7 +69,7 @@ _level: bridging · standpoint: experiential · path: knowledge · stage: interm
 terms: [prājña](../terms/prajna-mandukya.md), [suṣupti / suṣupta](../terms/susupti.md), [prajñānaghana / vijñānaghana](../terms/prajnanaghana.md), [ānanda](../terms/ananda.md) · concepts: [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md), [Deep sleep](../concepts/deep-sleep.md)
 
 ### 6 <a id="tea-mandukya-upanisad-6"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 This is the lord of all, the knower of all, the inner controller, the source of all, for it is the origin and end of beings.
 
@@ -78,7 +78,7 @@ _level: ultimate · standpoint: divine · path: knowledge · stage: intermediate
 terms: [antaryāmin](../terms/antaryamin.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md), [The inner controller (antaryāmin)](../concepts/antaryamin.md)
 
 ### 7 <a id="tea-mandukya-upanisad-7"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Not knowing inward, not knowing outward, not knowing both ways, not a mass of cognition, not knowing, not unknowing; unseen, beyond dealings, ungraspable, without marks, unthinkable, indescribable, whose essence is the certainty of the one self, the stilling of the world (prapañcopaśama), peaceful, auspicious, non-dual — this they consider the fourth; that is the self; that is to be known.
 
@@ -89,7 +89,7 @@ _level: ultimate · standpoint: apophatic · path: knowledge, meditation · stag
 terms: [Turīya](../terms/turiya.md), [prapañcopaśama](../terms/prapancopasama.md), [advaita](../terms/advaita.md) · concepts: [The fourth (turīya / caturtha)](../concepts/turiya.md), [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md), ['Not so, not so' (neti neti)](../concepts/neti-neti.md)
 
 ### 8-11 <a id="tea-mandukya-upanisad-8-11"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 This self, with respect to the syllable, is Om, with respect to its measures: the quarters are the measures and the measures the quarters — A, U and M. Waking, the one common to all men, is A, from 'obtaining' (āpti) or 'being first'; dream, the brilliant one, is U, from 'elevation' or 'being between both'; deep sleep, the intelligent one, is M, from 'measuring' or 'merging'. One who knows this obtains his desires, raises the continuity of knowledge, measures all this and merges into it.
 
@@ -98,7 +98,7 @@ _level: bridging · standpoint: analytic · path: sound, meditation · stage: in
 terms: [oṃ](../terms/om.md), [praṇava](../terms/pranava.md) · concepts: [Oṃ, the designator of Īśvara](../concepts/pranava.md), [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md) · practices: [Meditation on Om (praṇava-upāsanā)](../practices/pranava-upasana.md)
 
 ### 12 <a id="tea-mandukya-upanisad-12"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The fourth is without measure (amātra), beyond dealings, the stilling of the world, auspicious, non-dual. Thus Om is the self; whoever knows this enters the self by the self.
 
@@ -112,4 +112,8 @@ terms: [Turīya](../terms/turiya.md), [oṃ](../terms/om.md), [advaita](../terms
 _Notes: Transmitted with Gauḍapāda's Karika (src:mandukya-karika, owned by U13). Madhva's school treats the verses of the first chapter (Agama-prakarana) as part of the śruti, while the Advaita tradition ascribes all kārikās to Gauḍapāda (moderate confidence). Veda affiliation: Atharvaveda_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL-dev:mandukya-upanisad, catalog:raw_etexts:Mandukya, catalog:GRETIL-dev:gaudapada_mandukya-upanisadkarika, text:sources_raw/prepared/mandukya-upanisad/segments.jsonl (GRETIL Devanāgarī mirror mandukya-upanisad.md), https://en.wikipedia.org/wiki/Gaudapada, https://en.wikipedia.org/wiki/ — 12 prose sections confirmed. The note that Madhva's school treats the first chapter (Āgama-prakaraṇa) of the Kārikā as śruti fits Wikipedia's Gauḍapāda article: Rāmānuja and Madhva regarded its first chapter as śruti, while Advaita scholars did not. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship. The entry's -100/200 fits.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

@@ -15,7 +15,7 @@
 - [Terāpantha (Digambara)](../lineages/terapantha-digambara.md): Ṭoḍarmal warns against both one-sided errors — clinging to niścaya talk while neglecting conduct, and clinging to vyavahāra rites without knowing the self.
 
 ## Relations (interpretation layer)
-- same-as-under-standpoint → [The two truths (sūtra layer)](two-truths.md) (level of truth (P1-level)): Analogous only: both distinguish an ultimate from a conventional account, but the Jain ultimate is the soul's own pure nature, not emptiness; Jain texts would reject identification with the Buddhist ultimate. — rests on [11](../texts/samayasara.md#tea-samayasara-11), [8](../texts/samayasara.md#tea-samayasara-8)
+- same-as-under-standpoint → [The two truths (satyadvaya)](two-truths.md) (level of truth (P1-level)): Analogous only: both distinguish an ultimate from a conventional account, but the Jain ultimate is the soul's own pure nature, not emptiness; Jain texts would reject identification with the Buddhist ultimate. — rests on [11](../texts/samayasara.md#tea-samayasara-11), [8](../texts/samayasara.md#tea-samayasara-8)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

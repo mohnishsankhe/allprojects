@@ -15,6 +15,7 @@
 An anthology of Mahāyāna sūtra passages on the rarity of human birth, faith, bodhicitta, emptiness and the bodhisattva's conduct; Śāntideva recommends studying it alongside his own Śikṣāsamuccaya (BCA 5.106).
 **Editions / translations:** 
   - kind: translation; name: Tibetan translation, Derge Tengyur D3934 (mdo kun las btus pa) — catalog:Derge-Tengyur:D3934
+  - kind: translation; name: Chinese: Dasheng baoyaoyi lun 大乘寶要義論, T1635 — catalog:CBETA:T32n1635
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

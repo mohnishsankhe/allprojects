@@ -38,4 +38,4 @@ _level: conventional · standpoint: seeker · path: body-breath, meditation · s
 _Notes: Distinct from the Anugītā (Mahābhārata 14.16-50), which is also a post-war teaching to Arjuna._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._

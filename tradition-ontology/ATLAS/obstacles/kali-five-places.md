@@ -12,4 +12,4 @@ Gambling, drinking, illicit women, slaughter and gold, where falsehood, intoxica
   - [Bhāgavata Purāṇa](../texts/bhagavata-purana.md) — ref: 1.17.38-39; rests_on: ["tea:bhagavata-purana:1.17.38-39"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._

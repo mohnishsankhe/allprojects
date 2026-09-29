@@ -22,7 +22,7 @@ A verse summa of the bodhisattva path in the light of Yogācāra: why the Mahāy
   - kind: original; name: Tibetan: Derge D4020 (verses)
 **Commentaries on this text:** [Mahāyānasūtrālaṃkārabhāṣya](mahayanasutralamkarabhasya.md), [Mahāyānasūtrālaṃkāraṭīkā](mahayanasutralamkaratika.md)
 
-## Teachings (13: skeleton 13)
+## Teachings (14: skeleton 14)
 
 ### 1.7 <a id="tea-mahayanasutralamkara-1-7"></a>
 `skeleton` · confidence moderate
@@ -31,7 +31,7 @@ Reasons why the Mahāyāna is the Buddha's word: it was not predicted (as a dang
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: teacher-transmission, dispute_
 
-teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md) · disputes: `dsp:mahayana-buddhavacana`
+teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md) · disputes: [Are the Mahāyāna sūtras the word of the Buddha?](../debates/mahayana-buddhavacana.md)
 
 ### 3.1-11 <a id="tea-mahayanasutralamkara-3-1-11"></a>
 `skeleton` · confidence high
@@ -42,7 +42,7 @@ The spiritual lineage (gotra) is shown by its existence, superiority, nature, ma
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: karma-liberation_
 
-terms: [gotra](../terms/gotra.md), `trm:agotra` · concepts: `cpt:gotra-theory` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md) · disputes: `dsp:universal-buddhahood-gotra`
+terms: [gotra](../terms/gotra.md), [agotra](../terms/agotra.md) · concepts: [Spiritual lineage (gotra) and the five lineages](../concepts/gotra-theory.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md) · disputes: [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md)
 
 ### 6.1 <a id="tea-mahayanasutralamkara-6-1"></a>
 `skeleton` · confidence high
@@ -53,7 +53,7 @@ The characteristic of the ultimate is that it is neither existent nor non-existe
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [paramārtha](../terms/paramartha.md) · concepts: `cpt:emptiness-yogacara` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+terms: [paramārtha](../terms/paramartha.md) · concepts: [Emptiness in Yogācāra](../concepts/emptiness-yogacara.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 6.6-8 <a id="tea-mahayanasutralamkara-6-6-8"></a>
 `skeleton` · confidence high
@@ -64,7 +64,7 @@ Having amassed the accumulations of merit and knowledge, the bodhisattva, well s
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: advanced (sambhāra- to darśana-mārga) · types: practice, ultimate_
 
-practices: `prc:entry-into-cognition-only` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+practices: [Entry into cognition-only (vijñaptimātratā-praveśa)](../practices/entry-into-cognition-only.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 9.37 <a id="tea-mahayanasutralamkara-9-37"></a>
 `skeleton` · confidence high
@@ -75,7 +75,7 @@ Though suchness is undifferentiated in all, when it has become pure it is tathā
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, karma-liberation_
 
-terms: [tathatā](../terms/tathata.md), [tathāgatagarbha](../terms/tathagatagarbha.md) · concepts: `cpt:gotra-theory` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md) · disputes: `dsp:universal-buddhahood-gotra`
+terms: [tathatā](../terms/tathata.md), [tathāgatagarbha](../terms/tathagatagarbha.md) · concepts: [Spiritual lineage (gotra) and the five lineages](../concepts/gotra-theory.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md) · disputes: [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md)
 
 ### 9.59-61 <a id="tea-mahayanasutralamkara-9-59-61"></a>
 `skeleton` · confidence high
@@ -86,7 +86,7 @@ The pure dharmadhātu of the buddhas operates in distinct ways as the natural bo
 
 _level: ultimate · standpoint: divine · path: general · stage: realized · types: ultimate, powers-experiences_
 
-terms: `trm:svabhavikakaya`, [sambhogakāya](../terms/sambhogakaya.md), [nirmāṇakāya](../terms/nirmanakaya.md) · concepts: `cpt:three-bodies-yogacara` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+terms: [svābhāvika-kāya](../terms/svabhavikakaya.md), [sāṃbhogika-kāya](../terms/sambhogakaya.md), [nairmāṇika-kāya](../terms/nirmanakaya.md) · concepts: [The three bodies of a buddha (Yogācāra)](../concepts/three-bodies-yogacara.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 9.67-76 <a id="tea-mahayanasutralamkara-9-67-76"></a>
 `skeleton` · confidence high
@@ -97,7 +97,7 @@ Mirror-like wisdom is unmoving, and the three other wisdoms depend on it: equali
 
 _level: ultimate · standpoint: experiential · path: knowledge · stage: realized · types: ultimate, consciousness-mind, powers-experiences_
 
-terms: `trm:adarsa-jnana`, `trm:samata-jnana`, `trm:pratyaveksana-jnana`, `trm:krtyanusthana-jnana` · concepts: `cpt:four-wisdoms`, `cpt:asraya-paravrtti` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+terms: [ādarśa-jñāna](../terms/adarsa-jnana.md), [samatā-jñāna](../terms/samata-jnana.md), [pratyavekṣaṇā-jñāna](../terms/pratyaveksana-jnana.md), [kṛtyānuṣṭhāna-jñāna](../terms/krtyanusthana-jnana.md) · concepts: [The four wisdoms](../concepts/four-wisdoms.md), [Transformation of the basis (āśraya-parāvṛtti)](../concepts/asraya-paravrtti.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 13.19 <a id="tea-mahayanasutralamkara-13-19"></a>
 `skeleton` · confidence high
@@ -108,7 +108,7 @@ Mind is held to be always luminous by nature, and to be sullied by adventitious 
 
 _level: ultimate · standpoint: analytic · path: knowledge, meditation · stage: all · types: consciousness-mind, ultimate_
 
-terms: [prakṛti-prabhāsvara-citta](../terms/prabhasvara-citta.md) · concepts: `cpt:luminous-mind-yogacara` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+terms: [prabhāsvara-citta](../terms/prabhasvara-citta.md) · concepts: [The luminous mind](../concepts/luminous-mind.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 14.8-14 <a id="tea-mahayanasutralamkara-14-8-14"></a>
 `skeleton` · confidence high
@@ -119,7 +119,7 @@ The path of calm is the gathering of the teachings' names, the path of insight t
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate (nine mental abidings (navākārā cittasthiti)) · types: practice_
 
-practices: `prc:nine-mental-abidings`, `prc:samatha-yogacara`, `prc:vipasyana-yogacara` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+practices: [The nine stages of settling the mind (navākārā cittasthiti)](../practices/nine-mental-abidings.md), [Calm abiding (śamatha) in Yogācāra sources](../practices/samatha-yogacara.md), [Insight (vipaśyanā) in Yogācāra sources](../practices/vipasyana-yogacara.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 14.15-16 <a id="tea-mahayanasutralamkara-14-15-16"></a>
 `skeleton` · confidence high
@@ -128,7 +128,18 @@ Then, having gained a slight pliancy of body and mind, he is said to have attent
 
 _level: conventional · standpoint: experiential · path: meditation · stage: intermediate · types: practice, powers-experiences_
 
-terms: `trm:prasrabdhi`, `trm:karmanyata` · practices: `prc:samatha-yogacara` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+terms: [praśrabdhi](../terms/prasrabdhi.md), [karmaṇyatā](../terms/karmanyata.md) · practices: [Calm abiding (śamatha) in Yogācāra sources](../practices/samatha-yogacara.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+
+### 14.20-22 <a id="tea-mahayanasutralamkara-14-20-22"></a>
+`skeleton` · confidence high
+
+In the kasiṇa and other (concentrations), his badness slight, his body becomes pliant ('melts') moment by moment, and body and mind are filled all over with pliancy; he knows the unbounded appearance of dharmas everywhere and, in purity, sees signs that are not imagined; so the wise one constantly lays hold of the cause for the fulfilment and purification of the dharma-body.
+
+> kṛtsnādau svalpadauṣṭhulya kāyo hi dravate 'sya pratikṣaṇaṃ / āpūryate ca praśrabdhyā kāyacittaṃ samantataḥ
+
+_level: conventional · standpoint: experiential · path: meditation · stage: intermediate · types: powers-experiences, practice_
+
+terms: [praśrabdhi](../terms/prasrabdhi.md), [dauṣṭhulya](../terms/dausthulya.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 14.23-28 <a id="tea-mahayanasutralamkara-14-23-28"></a>
 `skeleton` · confidence high
@@ -139,7 +150,7 @@ Then the bodhisattva in concentration no longer sees objects apart from mental s
 
 _level: bridging · standpoint: experiential · path: meditation, knowledge · stage: advanced (prayoga-mārga (four nirvedhabhāgīyas) → darśana-mārga) · types: practice, consciousness-mind_
 
-terms: [nirvedhabhāgīya](../terms/nirvedhabhagiya.md), [ūṣmagata](../terms/usmagata.md), [mūrdhan](../terms/murdhan.md), [kṣānti](../terms/ksanti.md), [laukikāgradharma](../terms/laukikagradharma.md), `trm:anantarya-samadhi`, `trm:nirvikalpa-jnana` · practices: `prc:entry-into-cognition-only` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+terms: [nirvedha-bhāgīya](../terms/nirvedhabhagiya.md), [uṣmagata](../terms/usmagata.md), [mūrdhan](../terms/murdhan.md), [kṣānti](../terms/ksanti.md), [laukikāgra-dharma](../terms/laukikagradharma.md), [ānantarya-samādhi](../terms/anantarya-samadhi.md), [nirvikalpa-jñāna](../terms/nirvikalpa-jnana.md) · practices: [Entry into cognition-only (vijñaptimātratā-praveśa)](../practices/entry-into-cognition-only.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 14.29-30 <a id="tea-mahayanasutralamkara-14-29-30"></a>
 `skeleton` · confidence high
@@ -150,7 +161,7 @@ That is his transformation of the basis, held to be the first ground; through im
 
 _level: bridging · standpoint: experiential · path: knowledge · stage: advanced (first bhūmi (darśana-mārga)) · types: karma-liberation_
 
-terms: [āśraya-parāvṛtti](../terms/asraya-paravrtti.md), [bhūmi](../terms/bhumi.md) · concepts: `cpt:asraya-paravrtti` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+terms: [āśraya-parāvṛtti](../terms/asraya-paravrtti.md), [bhūmi](../terms/bhumi.md) · concepts: [Transformation of the basis (āśraya-parāvṛtti)](../concepts/asraya-paravrtti.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 14.42-46 <a id="tea-mahayanasutralamkara-14-42-46"></a>
 `skeleton` · confidence high
@@ -159,10 +170,10 @@ Then on the path of cultivation, in the remaining grounds, he trains in the two 
 
 _level: bridging · standpoint: experiential · path: knowledge, meditation · stage: realized (bhāvanā-mārga → niṣṭhā) · types: karma-liberation_
 
-terms: `trm:vajropama-samadhi`, [āśraya-parāvṛtti](../terms/asraya-paravrtti.md) · concepts: `cpt:asraya-paravrtti` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+terms: [vajropama-samādhi](../terms/vajropama-samadhi.md), [āśraya-parāvṛtti](../terms/asraya-paravrtti.md) · concepts: [Transformation of the basis (āśraya-parāvṛtti)](../concepts/asraya-paravrtti.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 
 _Notes: One of the 'five Dharmas of Maitreya' in the Tibetan list (Abhisamayālaṃkāra, Mahāyānasūtrālaṃkāra, Madhyāntavibhāga, Dharmadharmatāvibhāga, Ratnagotravibhāga). Chinese tradition instead attributes the Yogācārabhūmi to Maitreya and the Ratnagotravibhāga to Sāramati._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

@@ -13,4 +13,4 @@
 - contrasts-with → [The Lord's descent (avatāra / prādurbhāva)](avatara.md): the Buddha of the suttas is not an incarnation of a god; the Purāṇic avatāra reading is an external interpretation — rests on [1-6](../texts/dona-sutta.md#tea-dona-sutta-1-6)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

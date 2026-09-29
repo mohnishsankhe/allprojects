@@ -55,4 +55,4 @@ The lineages that worship Kālī (and the goddesses of her 'family') as the supr
 [Are the vīra and divya dispositions (and the five tattvas) permitted in the Kali age?](../debates/bhavas-in-kali-yuga.md), [Should blood offerings (bali) be made to the Goddess?](../debates/blood-sacrifice.md), [Should the Goddess be worshipped in the right-hand (dakṣiṇa) mode, or is the left-hand/Kaula (vāma) mode with the five tattvas higher?](../debates/daksina-vs-vama.md), [Is Kṛṣṇa a form of Kālī, or is the Goddess a power of Kṛṣṇa?](../debates/krsna-and-kali.md), [Is Kaula practice — the Kula worship with the five tattvas, the circle and the cremation ground — a legitimate path to liberation, or a departure from dharma?](../debates/legitimacy-of-kaula-practice.md)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._

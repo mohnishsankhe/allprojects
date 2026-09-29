@@ -26,10 +26,10 @@ The store-consciousness must be accepted: without it the appropriation of a new 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: intermediate · types: consciousness-mind, dispute_
 
-concepts: `cpt:alaya-vijnana` · teachers: [Asaṅga](../teachers/asanga.md) · disputes: `dsp:existence-of-alaya`
+concepts: [The store-consciousness (ālaya-vijñāna)](../concepts/alaya-vijnana.md) · teachers: [Asaṅga](../teachers/asanga.md) · disputes: [Is there a store-consciousness (ālaya-vijñāna) distinct from the six consciousnesses?](../debates/existence-of-alaya.md)
 
 
 _Notes: The eight proofs of the ālaya are recalled as being at the opening of the Viniścayasaṃgrahaṇī; Sanskrit survives only in fragments._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

@@ -15,4 +15,4 @@ Reflecting, with scripture and the wise, on 'who am I? what is this world?', dis
 - partial: `prc:self-inquiry` — related to the later practice of self-inquiry (recent teachers); not asserted identical
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._

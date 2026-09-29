@@ -31,4 +31,4 @@
 _Notes: Homonym: Śākta and Śaiva units define śakti as divine power._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas, skeleton:U20-virasaiva, skeleton:U19-kashmir-saivism, skeleton:U21-natha-aghora, skeleton:U24-kali-kaula, skeleton:U03-principal-upanisads, skeleton:U11-nyaya-vaisesika, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas, skeleton:U20-virasaiva, skeleton:U19-kashmir-saivism, skeleton:U21-natha-aghora, skeleton:U24-kali-kaula, skeleton:U03-principal-upanisads, skeleton:U11-nyaya-vaisesika, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._

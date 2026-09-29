@@ -1,6 +1,6 @@
 # Meditation (dhyāna)
 
-`prc:dhyana` · `skeleton` · confidence high
+`prc:dhyana` · `sourced` · confidence high
 
 **Category:** meditation
 **Convergence:** 2 independent lineage(s): [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -19,4 +19,8 @@ The continuous flow of a single cognition on the place of concentration (3.2); i
 **Sequences:** `pth:yoga-sutra-eight-limbs`
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering), text:sources_raw/prepared/mundaka-upanisad/ — All 5 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 7.6; ŚU 1.3; ŚU 1.14; MuU 3.1.8; MaiU 6.18). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

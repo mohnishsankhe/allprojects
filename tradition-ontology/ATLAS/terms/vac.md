@@ -19,4 +19,4 @@
 - analogous: [śabdabrahman](sabda-brahman.md) — Bhartṛhari's 'Brahman as word' is a later philosophy of sound that draws on the Vedic exaltation of Vāc; the Saṃhitās do not use the term.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga, skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._

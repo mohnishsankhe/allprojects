@@ -13,4 +13,4 @@
 Verse manual on the ultimate realities attributed to an Anuruddha (identity with the author of the Abhidhammatthasaṅgaha disputed).
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._

@@ -6,7 +6,7 @@
 **Original title:** रत्नगोत्रविभाग महायानोत्तरतन्त्रशास्त्र
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md), [Yogācāra](../lineages/yogacara.md), `lin:gelug`, `lin:kagyu`, `lin:nyingma`, `lin:jonang`, `lin:sakya`, `lin:rime`, `lin:huayan`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md), [Yogācāra](../lineages/yogacara.md), `lin:gelug`, `lin:kagyu`, [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md), `lin:jonang`, `lin:sakya`, `lin:rime`, `lin:huayan`
 **Genre:** śāstra
 **Authors:** 
   - [Maitreyanātha](../teachers/maitreyanatha.md) — role: author; attribution: traditional
@@ -45,7 +45,7 @@ Because the buddha's knowledge is present within the host of beings, because tha
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate_
 
-terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [buddhagarbha](../terms/buddhagarbha.md), [gotra](../terms/gotra.md) · concepts: [The three reasons all beings are tathāgatagarbhas (RGV 1.27-28)](../concepts/three-reasons-buddha-nature.md) · disputes: `dsp:can-all-beings-attain-buddhahood`
+terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [buddhagarbha](../terms/buddhagarbha.md), [gotra](../terms/gotra.md) · concepts: [The three reasons all beings are tathāgatagarbhas (RGV 1.27-28)](../concepts/three-reasons-buddha-nature.md) · disputes: [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md)
 
 ### 1.28 <a id="tea-ratnagotravibhaga-1-28"></a>
 `skeleton` · confidence high
@@ -87,7 +87,7 @@ The fruit is the perfection of the qualities of purity, self, bliss and permanen
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: ultimate, karma-liberation_
 
-terms: [guṇa-pāramitā](../terms/guna-paramita.md) · concepts: [The four perfections of the dharmakāya](../concepts/four-guna-paramitas.md) · disputes: `dsp:buddha-nature-self-or-emptiness`
+terms: [guṇa-pāramitā](../terms/guna-paramita.md) · concepts: [The four perfections of the dharmakāya](../concepts/four-guna-paramitas.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md)
 
 ### 1.47 <a id="tea-ratnagotravibhaga-1-47"></a>
 `skeleton` · confidence high
@@ -109,7 +109,7 @@ As earth rests on water, water on wind and wind on space, while space rests on n
 
 _level: ultimate · standpoint: analytic · path: knowledge, meditation · stage: advanced · types: consciousness-mind, ultimate_
 
-terms: [prakṛti-prabhāsvara-citta](../terms/prabhasvara-citta.md), [ayoniśo-manaskāra](../terms/ayoniso-manaskara.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md)
+terms: [prabhāsvara-citta](../terms/prabhasvara-citta.md), [ayoniśo-manaskāra](../terms/ayoniso-manaskara.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md)
 
 ### 1.96-98 <a id="tea-ratnagotravibhaga-1-96-98"></a>
 `skeleton` · confidence high
@@ -131,7 +131,7 @@ Nothing is to be removed from it and nothing added; the real should be seen as r
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [āgantuka-kleśa](../terms/agantuka-klesa.md), [śūnyatā](../terms/sunyata.md) · concepts: [The garbha empty and not empty](../concepts/empty-and-not-empty-garbha.md) · disputes: `dsp:buddha-nature-self-or-emptiness`, `dsp:rangtong-shentong`
+terms: [āgantuka-kleśa](../terms/agantuka-klesa.md), [śūnyatā](../terms/sunyata.md) · concepts: [The garbha empty and not empty](../concepts/empty-and-not-empty-garbha.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), `dsp:rangtong-shentong`
 
 ### 1.156-157 <a id="tea-ratnagotravibhaga-1-156-157"></a>
 `skeleton` · confidence high
@@ -142,7 +142,7 @@ If everything is taught to be empty like clouds, dreams and illusions, why did t
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate, dispute_
 
-concepts: [Why buddha-nature was taught: the five faults (RGV 1.156-157)](../concepts/five-faults-rgv.md) · obstacles: [The five faults removed by the buddha-nature teaching](../obstacles/five-faults-rgv.md) · disputes: `dsp:buddha-nature-self-or-emptiness`, `dsp:which-turning-is-definitive`
+concepts: [Why buddha-nature was taught: the five faults (RGV 1.156-157)](../concepts/five-faults-rgv.md) · obstacles: [The five faults removed by the buddha-nature teaching](../obstacles/five-faults-rgv.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Which turning of the dharma-wheel is of definitive meaning (nītārtha): the teaching of emptiness (second) or the 'well-distinguished' teaching of the three natures and of buddha-nature (third)?](../debates/which-turning-is-definitive.md)
 
 ### 2 <a id="tea-ratnagotravibhaga-2"></a>
 `skeleton` · confidence high
@@ -151,7 +151,7 @@ Awakening: the transformation of the basis (āśraya-parāvṛtti), in which the
 
 _level: ultimate · standpoint: divine · path: knowledge · stage: realized · types: ultimate, karma-liberation_
 
-terms: [āśraya-parāvṛtti](../terms/asraya-paravrtti.md), [dharmakāya](../terms/dharmakaya.md), [sambhogakāya](../terms/sambhogakaya.md), [nirmāṇakāya](../terms/nirmanakaya.md) · concepts: [The bodies of the Buddha (sūtra layer)](../concepts/three-bodies-sutra.md)
+terms: [āśraya-parāvṛtti](../terms/asraya-paravrtti.md), [dharmakāya](../terms/dharmakaya.md), [sāṃbhogika-kāya](../terms/sambhogakaya.md), [nairmāṇika-kāya](../terms/nirmanakaya.md) · concepts: [The bodies of the Buddha (sūtra layer)](../concepts/three-bodies-sutra.md)
 
 ### 3 <a id="tea-ratnagotravibhaga-3"></a>
 `skeleton` · confidence high
@@ -184,4 +184,4 @@ terms: [śraddhā](../terms/sraddha.md)
 _Notes: Chapter colophons and cited verses read in the local e-text (Johnston numbering; Takasaki's numbering differs slightly in chapter 1). Registry lists src:ratnagotravibhaga; U41 (five Maitreya texts) may also contribute._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

@@ -20,4 +20,4 @@ Identity view, doubt, clinging to rules and vows, sensual lust and ill will (the
 - partial: [The nine fetters (Abhidharma list)](nine-samyojanas.md) — Two different fetter lists in the same text.
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

@@ -18,4 +18,4 @@ Bhagavad Gītā 1–3: One whose self is deluded by the sense of 'I' thinks 'I a
   - [Dādū Vāṇī (Dādū Dayāl kī Bāṇī)](../texts/dadu-vani.md) — ref: 'āpā meṭe hari bhajai'; rests_on: ["tea:dadu-vani:apa-mete-hari-bhajai"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U06-other-gitas, skeleton:U14-visistadvaita, skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U06-other-gitas, skeleton:U14-visistadvaita, skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._

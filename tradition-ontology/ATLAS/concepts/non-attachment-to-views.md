@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The simile of the raft](raft-simile.md) (seeker) — rests on [4.3](../texts/sutta-nipata.md#tea-sutta-nipata-4-3), [4.8](../texts/sutta-nipata.md#tea-sutta-nipata-4-8)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

@@ -18,4 +18,4 @@
 _Notes: Sanskrit of chapter 1 edited (Pensa 1967), from memory._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

@@ -17,4 +17,4 @@
 Purūravas' lament of disenchantment after long infatuation with the celestial Urvaśī: desire is never sated, the body is a mere compound, association with the sensual must be abandoned; the chapter closes with the praise of holy company (saints cut the mind's attachment and are like a firm boat).
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._

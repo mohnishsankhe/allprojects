@@ -1,6 +1,6 @@
 # Departure through the crown and the path to brahman
 
-`cpt:yogic-departure-and-krama-mukti` · `skeleton` · confidence high
+`cpt:yogic-departure-and-krama-mukti` · `sourced` · confidence high
 
 **Category:** death-dying
 
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/aitareya-upanisad/segments.jsonl (Advaita-Śāradā mūla Aitareya.md, adhyāya.khaṇḍa.verse), text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jso — All 6 Upaniṣad refs cited in the entry are located in the prepared segments (KU 2.3.16; ChU 8.6.6; TU 1.6; AU 1.3.12; MaiU 6.21; BĀU 6.2.15). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._

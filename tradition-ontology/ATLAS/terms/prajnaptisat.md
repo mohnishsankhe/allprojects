@@ -13,7 +13,7 @@
 - Chinese: jiayou 假有 — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [dravyasat](dravyasat.md), [saṃvṛtisat](samvrtisat.md), [upādāya-prajñapti](upadaya-prajnapti.md)
+**Related:** [dravyasat](dravyasat.md), [saṃvṛtisat](samvrtisat.md), [upādāya prajñapti](upadaya-prajnapti.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

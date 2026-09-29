@@ -21,4 +21,4 @@
 _Notes: Read as a real part or as an apparent part according to school (see dsp:souls-one-or-distinct)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._

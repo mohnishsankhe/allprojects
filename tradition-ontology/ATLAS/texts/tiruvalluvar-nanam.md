@@ -96,4 +96,4 @@ concepts: [Macrocosm and microcosm (aṇṭam–piṇṭam)](../concepts/anda-pi
 _Notes: Checked in the local e-text. The tradition counts Tiruvaḷḷuvar among the Siddhars; scholars do not ascribe this work to the author of the Tirukkuṟaḷ (see dsp:affiliation-of-tirukkural)._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._

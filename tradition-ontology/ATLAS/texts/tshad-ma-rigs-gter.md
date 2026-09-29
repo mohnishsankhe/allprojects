@@ -10,9 +10,9 @@
 **Dates:** Scholarly account: early 13th c.; (confidence moderate)
 **Availability:** digitized-original
 
-Sakya Paṇḍita's verse treatise with autocommentary restoring what he took to be Dharmakīrti's intent against the realist tendencies of the earlier Tibetan (Sangphu) epistemologists.
+Sakya Paṇḍita's verse treatise with autocommentary restoring what he took to be Dharmakīrti's intent against the earlier Tibetan (Sangphu) epistemologists who treated universals as real.
 **Editions / translations:** 
   - kind: original; name: Tibetan: Sakya collected works
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

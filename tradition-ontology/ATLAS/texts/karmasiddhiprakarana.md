@@ -26,10 +26,10 @@ Bodily and verbal action are not real entities; action is volition, which leaves
 
 _level: conventional · standpoint: causal · path: knowledge · stage: intermediate · types: karma-liberation, consciousness-mind_
 
-terms: [cetana](../terms/cetana.md), `trm:vipaka-vijnana` · concepts: `cpt:alaya-vijnana` · teachers: [Vasubandhu](../teachers/vasubandhu.md) · disputes: `dsp:existence-of-alaya`
+terms: [cetana](../terms/cetana.md), [vipāka-vijñāna](../terms/vipaka-vijnana.md) · concepts: [The store-consciousness (ālaya-vijñāna)](../concepts/alaya-vijnana.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md) · disputes: [Is there a store-consciousness (ālaya-vijñāna) distinct from the six consciousnesses?](../debates/existence-of-alaya.md)
 
 
 _Notes: Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

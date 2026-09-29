@@ -14,4 +14,4 @@
 Raghunātha Śiromaṇi's treatise on the meaning of the negative particle (nañ).
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._

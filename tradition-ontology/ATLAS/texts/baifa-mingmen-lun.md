@@ -18,4 +18,4 @@ A list of the hundred dharmas of Yogācāra in five groups — 8 minds, 51 menta
 _Notes: Sanskrit original unknown; Vasubandhu's authorship is the Chinese tradition's. Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

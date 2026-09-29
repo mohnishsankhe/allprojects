@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A brahmin who fed devotees and performed s
 **Realization — the tradition's account:** A brahmin who fed devotees and performed sacrifices for Śiva.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._

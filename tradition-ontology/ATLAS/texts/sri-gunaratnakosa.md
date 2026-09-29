@@ -14,4 +14,4 @@
 Parāśara Bhaṭṭar's hymn to Śrī (Raṅganāyakī), praising her qualities and her motherly mediation.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._

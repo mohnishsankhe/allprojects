@@ -19,6 +19,7 @@
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Dharma: created by brahman as the power of the ruling power, higher than all; dharma is truth (BAU 1.4.14); 'practise dharma' (TU 1.11); three branches of dharma (ChU 2.23.1); Naciketas asks for what is other than dharma and adharma (KU 1.2.14); one's own dharma rescues the elemental self (MaiU 4.3).
 - [Sarvāstivāda](../lineages/sarvastivada.md): An ultimate constituent that 'holds its own characteristic' (svalakṣaṇa-dhāraṇa); seventy-five kinds in five groups, existing as real entities (dravya) in all three times.
 - [Sautrāntika](../lineages/sautrantika.md): A momentary event in a series; only present dharmas exist, and many Vaibhāṣika dharmas are mere designations.
+- [Yogācāra](../lineages/yogacara.md): In the Triṃśikā's 'self and dharmas', the factors of existence of Abhidharma, which are only figuratively designated on the transformation of consciousness and lack imagined own-nature.
 - [Jainism (Jaina dharma)](../lineages/jainism.md): In Jainism (1) the medium of motion (dharmāstikāya); (2) the tenfold virtue beginning with forbearance (TS 9.6); (3) the three jewels; (4) the nature of a thing and the protection of beings (Kārttikeyānuprekṣā 478).
 
 ## Forms in other languages
@@ -36,4 +37,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.7, tea:bhagavad-gita:4.8 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U38-early-schools, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U12-mimamsa, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U38-early-schools, skeleton:U41-yogacara-pramana, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._

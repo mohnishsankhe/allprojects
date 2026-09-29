@@ -28,7 +28,7 @@ Candrakīrti's 'Entry into the Middle Way', a supplement to Nāgārjuna's treati
 
 _level: conventional · standpoint: causal · path: knowledge, devotion · stage: all · types: karma-liberation, teacher-transmission_
 
-terms: [karuṇā](../terms/karuna.md), [bodhicitta](../terms/bodhicitta.md) · concepts: `cpt:bodhicitta`, `cpt:mahakaruna` · teachers: [Candrakīrti](../teachers/candrakirti.md)
+terms: [karuṇā](../terms/karuna.md), [bodhicitta](../terms/bodhicitta.md) · concepts: [The awakening mind (bodhicitta) in the Madhyamaka manuals](../concepts/bodhicitta.md), [Great compassion as the root](../concepts/mahakaruna.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
 
 ### 1.2 <a id="tea-madhyamakavatara-1-2"></a>
 `skeleton` · confidence moderate
@@ -37,7 +37,7 @@ Because compassion alone is the seed of the Victors' abundant harvest, the water
 
 _level: conventional · standpoint: devotional · path: devotion, action · stage: all · types: ethics_
 
-concepts: `cpt:mahakaruna` · teachers: [Candrakīrti](../teachers/candrakirti.md)
+concepts: [Great compassion as the root](../concepts/mahakaruna.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
 
 ### 1.3-4 <a id="tea-madhyamakavatara-1-3-4"></a>
 `skeleton` · confidence moderate
@@ -46,7 +46,7 @@ I bow to that compassion for beings who, first thinking 'I' of a self, then atta
 
 _level: conventional · standpoint: devotional · path: devotion, knowledge · stage: all · types: ethics_
 
-concepts: `cpt:three-kinds-of-compassion` · teachers: [Candrakīrti](../teachers/candrakirti.md)
+concepts: [The three kinds of compassion](../concepts/three-kinds-of-compassion.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
 
 ### 6.4-5 <a id="tea-madhyamakavatara-6-4-5"></a>
 `skeleton` · confidence moderate
@@ -55,7 +55,7 @@ Even an ordinary person who, on hearing of emptiness, feels great joy again and 
 
 _level: conventional · standpoint: experiential · path: knowledge · stage: beginner · types: powers-experiences, teacher-transmission_
 
-concepts: `cpt:qualified-student` · teachers: [Candrakīrti](../teachers/candrakirti.md)
+concepts: [The qualified student](../concepts/qualified-student.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
 
 ### 6.8 <a id="tea-madhyamakavatara-6-8"></a>
 `skeleton` · confidence moderate
@@ -64,7 +64,7 @@ concepts: `cpt:qualified-student` · teachers: [Candrakīrti](../teachers/candra
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate_
 
-concepts: `cpt:non-arising-four-alternatives` · teachers: [Candrakīrti](../teachers/candrakirti.md)
+concepts: [Non-arising by the four alternatives](../concepts/non-arising-four-alternatives.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
 
 ### 6.23 <a id="tea-madhyamakavatara-6-23"></a>
 `skeleton` · confidence high
@@ -73,7 +73,7 @@ All things bear two natures, obtained by correct seeing and by false seeing; the
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate_
 
-terms: `trm:samvrti-satya`, `trm:paramartha-satya` · concepts: [The two truths (sūtra layer)](../concepts/two-truths.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
+terms: [saṃvṛti-satya](../terms/samvrti-satya.md), [paramārtha-satya](../terms/paramartha-satya.md) · concepts: [The two truths (satyadvaya)](../concepts/two-truths.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
 
 ### 6.28 <a id="tea-madhyamakavatara-6-28"></a>
 `skeleton` · confidence moderate
@@ -82,7 +82,7 @@ Because delusion obscures the nature (of things) it is called 'concealer' (saṃ
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate_
 
-terms: `trm:samvrti-satya`, [avidyā](../terms/avidya.md) · concepts: [The two truths (sūtra layer)](../concepts/two-truths.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
+terms: [saṃvṛti-satya](../terms/samvrti-satya.md), [avidyā](../terms/avidya.md) · concepts: [The two truths (satyadvaya)](../concepts/two-truths.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
 
 ### 6.45-97 <a id="tea-madhyamakavatara-6-45-97"></a>
 `skeleton` · confidence low
@@ -91,7 +91,7 @@ Refutation of mind-only: consciousness does not exist without an object any more
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, consciousness-mind_
 
-concepts: `cpt:madhyamaka-critique-of-yogacara`, `cpt:svasamvedana-critique` · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: `dsp:madhyamaka-yogacara`, `dsp:svasamvedana`
+concepts: [Madhyamaka's critique of the Yogācāra](../concepts/madhyamaka-critique-of-yogacara.md), [Reflexive awareness: accepted or refuted](../concepts/svasamvedana-critique.md) · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: [Is consciousness ultimately real while external objects are not (mind-only), or is mind too empty?](../debates/madhyamaka-yogacara.md), [Is consciousness reflexively aware of itself (svasaṃvedana)?](../debates/svasamvedana.md)
 
 ### 6.80 <a id="tea-madhyamakavatara-6-80"></a>
 `skeleton` · confidence moderate
@@ -100,7 +100,7 @@ Conventional truth is the means and ultimate truth is what arises from the means
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: all · types: ultimate, practice_
 
-concepts: [The two truths (sūtra layer)](../concepts/two-truths.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
+concepts: [The two truths (satyadvaya)](../concepts/two-truths.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
 
 ### 6.120 <a id="tea-madhyamakavatara-6-120"></a>
 `skeleton` · confidence moderate
@@ -109,7 +109,7 @@ Seeing with wisdom that all afflictions and faults arise from the view of the tr
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: intermediate · types: practice, consciousness-mind_
 
-terms: [satkāyadṛṣṭi](../terms/satkayadrsti.md) · practices: `prc:sevenfold-reasoning` · obstacles: `obs:satkayadrsti` · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [satkāyadṛṣṭi](../terms/satkayadrsti.md) · practices: [The sevenfold reasoning (chariot analysis)](../practices/sevenfold-reasoning.md) · obstacles: [The view of the transitory collection](../obstacles/satkayadrsti.md) · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 6.151-160 <a id="tea-madhyamakavatara-6-151-160"></a>
 `skeleton` · confidence moderate
@@ -118,7 +118,7 @@ The chariot is not other than its parts, nor identical with them, nor possessing
 
 _level: ultimate · standpoint: analytic · path: knowledge, meditation · stage: intermediate · types: practice, ultimate_
 
-concepts: `cpt:sevenfold-chariot-analysis`, `cpt:self-as-dependent-designation`, `cpt:upadaya-prajnapti` · practices: `prc:sevenfold-reasoning` · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+concepts: [The sevenfold analysis of the chariot](../concepts/sevenfold-chariot-analysis.md), [The self as a dependent designation](../concepts/self-as-dependent-designation.md), [Dependent designation (upādāya prajñapti)](../concepts/upadaya-prajnapti.md) · practices: [The sevenfold reasoning (chariot analysis)](../practices/sevenfold-reasoning.md) · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 6.179-223 <a id="tea-madhyamakavatara-6-179-223"></a>
 `skeleton` · confidence low
@@ -127,10 +127,10 @@ The emptinesses: emptiness taught at length as sixteen — of the inner, the out
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate_
 
-concepts: `cpt:sixteen-emptinesses`, `cpt:emptiness-of-emptiness` · teachers: [Candrakīrti](../teachers/candrakirti.md)
+concepts: [The twenty (sixteen, eighteen) emptinesses](../concepts/twenty-emptinesses.md), [The emptiness of emptiness](../concepts/emptiness-of-emptiness.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
 
 
 _Notes: Chapter structure beyond ch.10 and total verse count from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

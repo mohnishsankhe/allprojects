@@ -17,4 +17,4 @@ Rāghavendra Tīrtha's concise commentary on the Brahmasūtras in Madhva's readi
 _Notes: Author checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:10 IST._

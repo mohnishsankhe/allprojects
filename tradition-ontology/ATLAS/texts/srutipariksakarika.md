@@ -16,4 +16,4 @@
 _Notes: Titles checked in the local Derge list; the Tibetan canon names the author dge srung, rendered Kalyāṇarakṣita and identified with Śubhagupta — attribution recalled._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

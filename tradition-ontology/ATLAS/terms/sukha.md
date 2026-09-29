@@ -24,4 +24,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.21, tea:bhagavad-gita:5.22, tea:bhagavad-gita:5.24, tea:bhagavad-gita:6.21, tea:bhagavad-gita:6.27, tea:bhagavad-gita:6.28 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch04-06, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U36-pali-suttas, extraction:bhagavad-gita/ch04-06, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._

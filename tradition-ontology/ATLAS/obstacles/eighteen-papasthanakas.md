@@ -13,4 +13,4 @@ Recited in Śvetāmbara confession: violence, falsehood, theft, unchastity, poss
   - [Āvaśyaka Sūtra](../texts/avasyaka-sutra.md) — ref: 4
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

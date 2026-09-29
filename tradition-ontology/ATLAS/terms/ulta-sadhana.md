@@ -17,4 +17,4 @@
 - partial: [ūrdhvaretas](urdhvaretas.md) — Both describe an upward reversal of the vital substance; the Bāul form is a couple's practice and is framed devotionally.
 
 ---
-_Contributed by: skeleton:U27-sant-baul, skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U27-sant-baul, skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._

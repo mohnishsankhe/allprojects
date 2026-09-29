@@ -6,7 +6,7 @@
 **Original title:** लङ्कावतारसूत्र
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Yogācāra](../lineages/yogacara.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md), `lin:chan`, `lin:zen`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Yogācāra](../lineages/yogacara.md), [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md), [Chan (Chinese Meditation school)](../lineages/chan.md), [Zen (Japanese Chan)](../lineages/zen.md)
 **Genre:** sūtra
 **Location in parent:** one of Nepal's nine dharmas
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana) to Rāvaṇa and Mahāmati in Laṅkā; Chan tradition: Bodhidharma transmitted it to Huike as the scripture of the mind; scholarly: Anonymous, compiled c. 4th-5th c.; ch. 1 (Rāvaṇa), 8 (meat) and 9 (dhāraṇī) and the verse chapter 10 absent from or different in Guṇabhadra's version, generally held later additions; confidence: high
@@ -18,7 +18,7 @@ The Buddha, on Mount Malaya in Laṅkā, answers the bodhisattva Mahāmati: all 
 **Editions / translations:** 
   - kind: original; name: ed. P. L. Vaidya, BST 3 1963 (after B. Nanjio 1923); licence: GRETIL (reference use); url: https://gretil.sub.uni-goettingen.de/gretil.html#Buddh
 
-## Teachings (15: skeleton 15)
+## Teachings (13: skeleton 13)
 
 ### 2 <a id="tea-lankavatara-sutra-2"></a>
 `skeleton` · confidence moderate
@@ -27,27 +27,7 @@ The five dharmas (sign, name, discrimination, right knowledge, suchness), the th
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: consciousness-mind, ultimate_
 
-terms: [pañcadharma](../terms/pancadharma.md), [trisvabhāva](../terms/trisvabhava.md), [nairātmya](../terms/nairatmya.md), [cittamātra](../terms/cittamatra.md) · concepts: [The five dharmas](../concepts/five-dharmas-lankavatara.md), [The three natures (sūtra layer)](../concepts/three-natures.md), [The two selflessnesses](../concepts/two-selflessnesses.md), [Mind only (sūtra layer)](../concepts/mind-only.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md)
-
-### 2.101-104 <a id="tea-lankavatara-sutra-2-101-104"></a>
-`skeleton` · confidence moderate
-
-As waves rise on the ocean stirred by the wind, so the operative consciousnesses arise from the store-consciousness stirred by the wind of objects; they are neither different nor non-different from it, as the waves from the ocean.
-
-_level: conventional · standpoint: divine · path: knowledge · stage: intermediate · types: consciousness-mind_
-
-terms: `trm:alaya-vijnana`, [pravṛtti-vijñāna](../terms/pravrtti-vijnana.md) · concepts: [The eight consciousnesses (sūtra layer)](../concepts/eight-consciousnesses.md)
-
-### 2.132 <a id="tea-lankavatara-sutra-2-132"></a>
-`skeleton` · confidence high
-
-There are five lineages of realization: of the disciples' vehicle, of the solitary buddhas' vehicle, of the Tathāgata-vehicle, the undetermined, and the fifth, without lineage.
-
-> pañcābhisamayagotrāṇi katamāni pañca yaduta śrāvakayānābhisamayagotraṃ pratyekabuddhayānābhisamayagotraṃ tathāgatayānābhisamayagotram aniyataikataragotram agotraṃ ca pañcamam
-
-_level: conventional · standpoint: divine · path: general · stage: all · types: karma-liberation_
-
-terms: [gotra](../terms/gotra.md), `trm:agotra` · concepts: `cpt:gotra-theory` · disputes: `dsp:universal-buddhahood-gotra`
+terms: [pañcadharma](../terms/pancadharma.md), [tri-svabhāva](../terms/trisvabhava.md), [nairātmya](../terms/nairatmya.md), [cittamātra](../terms/cittamatra.md) · concepts: [The five dharmas](../concepts/five-dharmas-lankavatara.md), [The three natures (sūtra layer)](../concepts/three-natures.md), [The two selflessnesses](../concepts/two-selflessnesses.md), [Mind only (sūtra layer)](../concepts/mind-only.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md)
 
 ### 2.p20 <a id="tea-lankavatara-sutra-2-p20"></a>
 `skeleton` · confidence high
@@ -56,7 +36,7 @@ From the ālayavijñāna, like an ocean stirred by the wind of objects, the wave
 
 _level: conventional · standpoint: analytic · path: knowledge, meditation · stage: intermediate · types: consciousness-mind_
 
-terms: [ālayavijñāna](../terms/alayavijnana.md), [pravṛtti-vijñāna](../terms/pravrtti-vijnana.md) · concepts: [The eight consciousnesses (sūtra layer)](../concepts/eight-consciousnesses.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md)
+terms: [ālayavijñāna](../terms/alayavijnana.md), [pravṛtti-vijñāna](../terms/pravrtti-vijnana.md) · concepts: [The eight consciousnesses](../concepts/eight-consciousnesses.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md)
 
 ### 2.p25 <a id="tea-lankavatara-sutra-2-p25"></a>
 `skeleton` · confidence high
@@ -78,7 +58,7 @@ There are five lineages of realization (abhisamaya-gotra): of the śrāvaka vehi
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: karma-liberation_
 
-terms: [gotra](../terms/gotra.md) · concepts: [The five lineages (gotra)](../concepts/five-gotras.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: `dsp:can-all-beings-attain-buddhahood`
+terms: [gotra](../terms/gotra.md) · concepts: [The five lineages (gotra)](../concepts/five-gotras.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md)
 
 ### 2.p28 <a id="tea-lankavatara-sutra-2-p28"></a>
 `skeleton` · confidence high
@@ -87,7 +67,7 @@ The icchantika is of two kinds: one who has abandoned all roots of merit by reje
 
 _level: bridging · standpoint: causal · path: general · stage: all · types: karma-liberation, dispute_
 
-terms: [icchantika](../terms/icchantika.md) · concepts: [The icchantika and the question of universal buddhahood](../concepts/icchantika-and-gotra.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: `dsp:can-all-beings-attain-buddhahood`, `dsp:mahayana-buddhavacana`
+terms: [icchantika](../terms/icchantika.md) · concepts: [The icchantika and the question of universal buddhahood](../concepts/icchantika-and-gotra.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Can all beings attain buddhahood, or are there beings (icchantikas, those without lineage) who never will?](../debates/can-all-beings-attain-buddhahood.md), [Are the Mahāyāna sūtras the word of the Buddha?](../debates/mahayana-buddhavacana.md)
 
 ### 2.p33 <a id="tea-lankavatara-sutra-2-p33"></a>
 `skeleton` · confidence high
@@ -98,7 +78,7 @@ Mahāmati asks whether the tathāgatagarbha — described as luminous, pure, wit
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [ātman](../terms/atman.md), [nairātmya](../terms/nairatmya.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md), [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: `dsp:buddha-nature-self-or-emptiness`, `dsp:rangtong-shentong`, [Is there a self?](../debates/is-there-a-self.md)
+terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [ātman](../terms/atman.md), [nairātmya](../terms/nairatmya.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md), [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), `dsp:rangtong-shentong`, [Is there a self?](../debates/is-there-a-self.md)
 
 ### 2.p41 <a id="tea-lankavatara-sutra-2-p41"></a>
 `skeleton` · confidence high
@@ -118,7 +98,7 @@ The Buddha has established eight consciousnesses; when the mind-consciousness (m
 
 _level: conventional · standpoint: analytic · path: knowledge, meditation · stage: intermediate · types: consciousness-mind_
 
-terms: [ālayavijñāna](../terms/alayavijnana.md), [manas](../terms/manas.md), [manovijñāna](../terms/manovijnana.md) · concepts: [The eight consciousnesses (sūtra layer)](../concepts/eight-consciousnesses.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md)
+terms: [ālayavijñāna](../terms/alayavijnana.md), [manas](../terms/manas.md), [mano-vijñāna](../terms/manovijnana.md) · concepts: [The eight consciousnesses](../concepts/eight-consciousnesses.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md)
 
 ### 3.p59 <a id="tea-lankavatara-sutra-3-p59"></a>
 `skeleton` · confidence high
@@ -151,7 +131,7 @@ The tathāgatagarbha, called the ālayavijñāna, perfumed by beginningless habi
 
 _level: bridging · standpoint: analytic · path: knowledge, meditation · stage: advanced · types: consciousness-mind, ultimate_
 
-terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [ālayavijñāna](../terms/alayavijnana.md), [vāsanā](../terms/vasana.md) · concepts: [The tathāgatagarbha called ālayavijñāna](../concepts/alaya-tathagatagarbha-identity.md), [The eight consciousnesses (sūtra layer)](../concepts/eight-consciousnesses.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md)
+terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [ālayavijñāna](../terms/alayavijnana.md), [vāsanā](../terms/vasana.md) · concepts: [The tathāgatagarbha called ālayavijñāna](../concepts/alaya-tathagatagarbha-identity.md), [The eight consciousnesses](../concepts/eight-consciousnesses.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md)
 
 ### 8 <a id="tea-lankavatara-sutra-8"></a>
 `skeleton` · confidence high
@@ -160,7 +140,7 @@ The chapter on meat-eating: the bodhisattva, who regards all beings as his only 
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, dispute_
 
-practices: [Abstaining from meat (Mahāyāna)](../practices/vegetarian-discipline.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: `dsp:is-meat-eating-permitted`
+practices: [Abstaining from meat (Mahāyāna)](../practices/vegetarian-discipline.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [May Buddhists (monastics) eat meat?](../debates/is-meat-eating-permitted.md)
 
 ### 10.256-258 <a id="tea-lankavatara-sutra-10-256-258"></a>
 `skeleton` · confidence moderate
@@ -171,10 +151,10 @@ Mounting to mind-only, one should not imagine an external object; abiding in the
 
 _level: bridging · standpoint: divine · path: meditation, knowledge · stage: advanced · types: practice, ultimate_
 
-concepts: `cpt:four-yogic-stages` · practices: `prc:four-yogic-stages-lankavatara`
+concepts: [The four yogic stages (Laṅkāvatāra)](../concepts/four-yogic-stages.md) · practices: [The four yogic stages of the Laṅkāvatāra](../practices/four-yogic-stages-lankavatara.md)
 
 
 _Notes: Locator: chapter.pPAGE (Vaidya's page). Chapter colophons and cited passages read in the local e-text._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

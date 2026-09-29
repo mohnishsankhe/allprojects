@@ -19,4 +19,4 @@
 _Notes: The grouping 'ojas, tejas and prāṇa' as a doctrinal triad is not found as such in the classical texts checked; Ca Ci 15.3 lists them among things dependent on agni._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U03-principal-upanisads, skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U03-principal-upanisads, skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._

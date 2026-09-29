@@ -13,4 +13,4 @@
 - part-of → [The sixty-two grounds for views (Brahmajāla)](sixty-two-views.md) — rests on [1.30-1.37](../texts/brahmajala-sutta.md#tea-brahmajala-sutta-1-30-1-37)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._

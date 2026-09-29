@@ -13,4 +13,4 @@ Be intent on doing actions for the Lord's sake — the third step of the ladder 
 **Sequences:** [The graded devotional practices of BhG 12.8–12](../paths/gita-devotion-ladder.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._

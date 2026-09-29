@@ -14,4 +14,4 @@
 Khotanese monk (652-710) who translated the 80-fascicle Avataṃsaka (695-699) and the seven-fascicle Laṅkāvatāra; the Kṣitigarbha Pūrvapraṇidhāna Sūtra is attributed to him.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

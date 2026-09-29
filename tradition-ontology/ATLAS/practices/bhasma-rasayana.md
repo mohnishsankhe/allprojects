@@ -18,4 +18,4 @@ Later Āyurveda and the rasa texts use calcined metals, minerals and mercurial c
 - Mercury is not to be used where a vital point is injured or in burns from caustic or fire. — [Rasaratnasamuccaya](../texts/rasaratnasamuccaya.md) 11.17
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._

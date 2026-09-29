@@ -12,4 +12,4 @@ Gurus who rob disciples of wealth, know only petty spells, or give 'what is othe
   - [Kulārṇava Tantra](../texts/kularnava-tantra.md) — ref: 13.104-108; rests_on: ["tea:kularnava-tantra:13.104-108"]
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._

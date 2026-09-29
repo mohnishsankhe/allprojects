@@ -20,7 +20,7 @@ Nāgārjuna's root verses on the middle way: in 27 examinations (parīkṣā) it
   - kind: original; name: GRETIL e-text (after de Jong / Vaidya), local: sources_raw/prepared/mulamadhyamakakarika; licence: GRETIL CC BY-NC-SA 4.0
   - kind: original; name: embedded in Candrakīrti's Prasannapadā, ed. P. L. Vaidya (Darbhanga 1960; 2nd ed. S. Tripathi 1987) — local e-text
   - kind: translation; name: Tibetan translation, Derge Tengyur D3824 (dbu ma rtsa ba'i tshig le'ur byas pa shes rab) — catalog:Derge-Tengyur:D3824
-**Commentaries on this text:** [Akutobhayā](akutobhaya.md), [Buddhapālita-Mūlamadhyamakavṛtti](buddhapalita-vrtti.md), [Prajñāpradīpa](prajnapradipa.md), [Prasannapadā](prasannapada.md), [Zhong lun 中論](zhong-lun.md)
+**Commentaries on this text:** [Akutobhayā](akutobhaya.md), [Buddhapālita-Mūlamadhyamakavṛtti](buddhapalita-vrtti.md), [Dasheng zhongguan shilun 大乘中觀釋論](dasheng-zhongguan-shilun.md), [Prajñāpradīpa](prajnapradipa.md), [Prasannapadā](prasannapada.md), [Zhong lun 中論](zhong-lun.md)
 
 ## Teachings (105: skeleton 105)
 
@@ -33,7 +33,7 @@ I bow to the perfectly awakened one, best of speakers, who taught dependent orig
 
 _level: ultimate · standpoint: apophatic · path: knowledge, devotion · stage: all · types: ultimate, teacher-transmission_
 
-terms: [pratītyasamutpāda](../terms/pratityasamutpada.md), [prapañca](../terms/prapanca.md), [prapañcopaśama](../terms/prapancopasama.md), [anutpāda](../terms/anutpada.md) · concepts: `cpt:eight-negations`, [Dependent origination](../concepts/dependent-origination.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md), [Gotama Buddha](../teachers/gotama-buddha.md)
+terms: [pratītyasamutpāda](../terms/pratityasamutpada.md), [prapañca](../terms/prapanca.md), [prapañcopaśama](../terms/prapancopasama.md), [anutpāda](../terms/anutpada.md) · concepts: [The eight negations](../concepts/eight-negations.md), [Dependent origination](../concepts/dependent-origination.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md), [Gotama Buddha](../teachers/gotama-buddha.md)
 
 ### 1.1 <a id="tea-mulamadhyamakakarika-1-1"></a>
 `skeleton` · confidence high
@@ -44,7 +44,7 @@ No existents whatsoever are ever found anywhere that have arisen from themselves
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate_
 
-terms: [anutpāda](../terms/anutpada.md), `trm:catuskoti` · concepts: `cpt:non-arising-four-alternatives`, `cpt:catuskoti` · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:causation`, `dsp:prasangika-svatantrika`
+terms: [anutpāda](../terms/anutpada.md), [catuṣkoṭi](../terms/catuskoti.md) · concepts: [Non-arising by the four alternatives](../concepts/non-arising-four-alternatives.md), [The four-cornered negation (catuṣkoṭi)](../concepts/catuskoti.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:causation`, `dsp:prasangika-svatantrika`
 
 ### 1.2 <a id="tea-mulamadhyamakakarika-1-2"></a>
 `skeleton` · confidence high
@@ -55,7 +55,7 @@ There are four conditions — the causal condition, the objective support, the i
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: unmarked · types: karma-liberation_
 
-terms: [pratyaya](../terms/pratyaya.md) · concepts: `cpt:madhyamaka-critique-of-abhidharma` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [pratyaya](../terms/pratyaya.md) · concepts: [Madhyamaka's critique of the Abhidharma](../concepts/madhyamaka-critique-of-abhidharma.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 1.3 <a id="tea-mulamadhyamakakarika-1-3"></a>
 `skeleton` · confidence high
@@ -66,7 +66,7 @@ The own-nature of existents is not found in the conditions and the rest; where o
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate_
 
-terms: [svabhāva](../terms/svabhava.md), `trm:parabhava`, [pratyaya](../terms/pratyaya.md) · concepts: `cpt:svabhava-and-nihsvabhavata` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [svabhāva](../terms/svabhava.md), [parabhāva](../terms/parabhava.md), [pratyaya](../terms/pratyaya.md) · concepts: [Own-nature and its absence](../concepts/svabhava-and-nihsvabhavata.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 1.10 <a id="tea-mulamadhyamakakarika-1-10"></a>
 `skeleton` · confidence high
@@ -77,7 +77,7 @@ Since existents without own-nature have no real existence, the statement 'when t
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-terms: `trm:nihsvabhavata`, [pratītyasamutpāda](../terms/pratityasamutpada.md) · concepts: `cpt:madhyamaka-critique-of-abhidharma` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [niḥsvabhāvatā](../terms/nihsvabhavata.md), [pratītyasamutpāda](../terms/pratityasamutpada.md) · concepts: [Madhyamaka's critique of the Abhidharma](../concepts/madhyamaka-critique-of-abhidharma.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 1.14 <a id="tea-mulamadhyamakakarika-1-14"></a>
 `skeleton` · confidence high
@@ -99,7 +99,7 @@ What has been gone over is not being gone over; what has not yet been gone over 
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate_
 
-concepts: `cpt:madhyamaka-critique-of-abhidharma` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [Madhyamaka's critique of the Abhidharma](../concepts/madhyamaka-critique-of-abhidharma.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 2.8 <a id="tea-mulamadhyamakakarika-2-8"></a>
 `skeleton` · confidence high
@@ -121,7 +121,7 @@ It is not tenable that the going is the goer, nor that the goer is other than th
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate_
 
-concepts: `cpt:identity-difference-analysis` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [Analysis by identity and difference](../concepts/identity-difference-analysis.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 2.25 <a id="tea-mulamadhyamakakarika-2-25"></a>
 `skeleton` · confidence high
@@ -165,7 +165,7 @@ When an argument is made by means of emptiness, whoever offers a rebuttal has re
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute_
 
-terms: [śūnyatā](../terms/sunyata.md) · concepts: `cpt:no-thesis` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [śūnyatā](../terms/sunyata.md) · concepts: [Having no thesis](../concepts/no-thesis.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 5.7 <a id="tea-mulamadhyamakakarika-5-7"></a>
 `skeleton` · confidence high
@@ -176,7 +176,7 @@ Therefore space is not an existent, not a non-existent, not something characteri
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate, world-fate_
 
-concepts: `cpt:catuskoti` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [The four-cornered negation (catuṣkoṭi)](../concepts/catuskoti.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 5.8 <a id="tea-mulamadhyamakakarika-5-8"></a>
 `skeleton` · confidence high
@@ -187,7 +187,7 @@ Those of little understanding who see the existence and non-existence of things 
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate, karma-liberation_
 
-terms: [dṛṣṭi](../terms/drsti.md) · obstacles: `obs:eternalism-annihilationism` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [dṛṣṭi](../terms/drsti.md) · obstacles: [The two extremes: eternalism and annihilationism](../obstacles/eternalism-annihilationism.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 6.10 <a id="tea-mulamadhyamakakarika-6-10"></a>
 `skeleton` · confidence high
@@ -209,7 +209,7 @@ Whatever comes to be in dependence is peaceful by its own nature; therefore both
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate_
 
-terms: [pratītyasamutpāda](../terms/pratityasamutpada.md) · concepts: `cpt:sunyata` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [pratītyasamutpāda](../terms/pratityasamutpada.md) · concepts: [Emptiness (śūnyatā) in Madhyamaka](../concepts/sunyata.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 7.33 <a id="tea-mulamadhyamakakarika-7-33"></a>
 `skeleton` · confidence high
@@ -220,7 +220,7 @@ Because arising, abiding and ceasing are not established, there is no conditione
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate_
 
-concepts: `cpt:madhyamaka-critique-of-abhidharma` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [Madhyamaka's critique of the Abhidharma](../concepts/madhyamaka-critique-of-abhidharma.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 7.34 <a id="tea-mulamadhyamakakarika-7-34"></a>
 `skeleton` · confidence high
@@ -231,7 +231,7 @@ Like an illusion, like a dream, like a city of the gandharvas — so arising, ab
 
 _level: ultimate · standpoint: apophatic · path: knowledge, meditation · stage: unmarked · types: ultimate_
 
-terms: [māyā](../terms/maya.md), `trm:gandharvanagara` · concepts: `cpt:illusion-similes` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [māyā](../terms/maya.md), [gandharvanagara](../terms/gandharvanagara.md) · concepts: [The similes of illusion, dream and mirage](../concepts/illusion-similes.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 8.12 <a id="tea-mulamadhyamakakarika-8-12"></a>
 `skeleton` · confidence high
@@ -242,7 +242,7 @@ The agent comes to be in dependence on the action, and the action in dependence 
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate, karma-liberation_
 
-terms: [karma](../terms/karma.md), [pratītyasamutpāda](../terms/pratityasamutpada.md) · concepts: `cpt:karma-without-svabhava` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [karma](../terms/karma.md), [pratītyasamutpāda](../terms/pratityasamutpada.md) · concepts: [Karma without own-nature](../concepts/karma-without-svabhava.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 8.13 <a id="tea-mulamadhyamakakarika-8-13"></a>
 `skeleton` · confidence moderate
@@ -264,7 +264,7 @@ By what could an entity established prior to seeing, hearing and feeling be made
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-terms: [ātman](../terms/atman.md), `trm:prajnapti` · concepts: `cpt:self-as-dependent-designation` · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [prajñapti](../terms/prajnapti.md) · concepts: [The self as a dependent designation](../concepts/self-as-dependent-designation.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 9.12 <a id="tea-mulamadhyamakakarika-9-12"></a>
 `skeleton` · confidence high
@@ -286,7 +286,7 @@ If fire were the fuel, agent and action would be one; if fire were other than fu
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate_
 
-concepts: `cpt:identity-difference-analysis` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [Analysis by identity and difference](../concepts/identity-difference-analysis.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 10.15-16 <a id="tea-mulamadhyamakakarika-10-15-16"></a>
 `skeleton` · confidence high
@@ -297,7 +297,7 @@ By fire and fuel the whole relation of the self and the grasped (aggregates) is 
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-terms: [ātman](../terms/atman.md), [upādāna](../terms/upadana.md) · concepts: `cpt:self-as-dependent-designation` · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [upādāna](../terms/upadana.md) · concepts: [The self as a dependent designation](../concepts/self-as-dependent-designation.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 11.1 <a id="tea-mulamadhyamakakarika-11-1"></a>
 `skeleton` · confidence high
@@ -352,7 +352,7 @@ The Blessed One said that whatever is deceptive in nature is false; all formatio
 
 _level: bridging · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate_
 
-terms: [saṃskāra](../terms/samskara.md), [śūnyatā](../terms/sunyata.md) · concepts: `cpt:sunyata` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [saṃskāra](../terms/samskara.md), [śūnyatā](../terms/sunyata.md) · concepts: [Emptiness (śūnyatā) in Madhyamaka](../concepts/sunyata.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 13.4 <a id="tea-mulamadhyamakakarika-13-4"></a>
 `skeleton` · confidence high
@@ -374,7 +374,7 @@ If there were something non-empty, there might be something empty; since there i
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate_
 
-terms: [śūnyatā](../terms/sunyata.md) · concepts: `cpt:emptiness-of-emptiness` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [śūnyatā](../terms/sunyata.md) · concepts: [The emptiness of emptiness](../concepts/emptiness-of-emptiness.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 13.8 <a id="tea-mulamadhyamakakarika-13-8"></a>
 `skeleton` · confidence high
@@ -385,7 +385,7 @@ The Victors declared emptiness to be the relinquishing of all views; those for w
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · types: ultimate, practice_
 
-terms: [śūnyatā](../terms/sunyata.md), [dṛṣṭi](../terms/drsti.md) · concepts: `cpt:emptiness-not-a-view`, `cpt:emptiness-of-emptiness` · obstacles: `obs:sunyata-drsti` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [śūnyatā](../terms/sunyata.md), [dṛṣṭi](../terms/drsti.md) · concepts: [Emptiness is not a view](../concepts/emptiness-not-a-view.md), [The emptiness of emptiness](../concepts/emptiness-of-emptiness.md) · obstacles: [Taking emptiness as a view](../obstacles/sunyata-drsti.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 14.8 <a id="tea-mulamadhyamakakarika-14-8"></a>
 `skeleton` · confidence high
@@ -407,7 +407,7 @@ The arising of own-nature through causes and conditions is not tenable; an own-n
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate_
 
-terms: [svabhāva](../terms/svabhava.md), `trm:akrtrima` · concepts: `cpt:svabhava-and-nihsvabhavata` · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Are things established by their own nature (svabhāva), or is everything relative and empty?](../debates/own-nature-of-things.md)
+terms: [svabhāva](../terms/svabhava.md), [akṛtrima](../terms/akrtrima.md) · concepts: [Own-nature and its absence](../concepts/svabhava-and-nihsvabhavata.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Are things established by their own nature (svabhāva), or is everything relative and empty?](../debates/own-nature-of-things.md)
 
 ### 15.6 <a id="tea-mulamadhyamakakarika-15-6"></a>
 `skeleton` · confidence high
@@ -418,7 +418,7 @@ Those who see own-nature and other-nature, existence and non-existence, do not s
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate_
 
-terms: [svabhāva](../terms/svabhava.md), `trm:parabhava`, [bhāva](../terms/bhava.md), [abhāva](../terms/abhava.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [svabhāva](../terms/svabhava.md), [parabhāva](../terms/parabhava.md), [bhāva](../terms/bhava.md), [abhāva](../terms/abhava.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 15.7 <a id="tea-mulamadhyamakakarika-15-7"></a>
 `skeleton` · confidence high
@@ -440,7 +440,7 @@ concepts: [The middle way](../concepts/middle-way.md) · teachers: [Nāgārjuna]
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · types: ultimate, practice_
 
-terms: `trm:sasvatavada`, [ucchedavāda](../terms/ucchedavada.md) · concepts: [The middle way](../concepts/middle-way.md) · obstacles: `obs:eternalism-annihilationism` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [śāśvatavāda](../terms/sasvatavada.md), [ucchedavāda](../terms/ucchedavada.md) · concepts: [The middle way](../concepts/middle-way.md) · obstacles: [The two extremes: eternalism and annihilationism](../obstacles/eternalism-annihilationism.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 15.11 <a id="tea-mulamadhyamakakarika-15-11"></a>
 `skeleton` · confidence high
@@ -451,7 +451,7 @@ Whatever exists by own-nature is eternal, since it does not become non-existent;
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate_
 
-terms: [svabhāva](../terms/svabhava.md), `trm:sasvatavada`, [ucchedavāda](../terms/ucchedavada.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [svabhāva](../terms/svabhava.md), [śāśvatavāda](../terms/sasvatavada.md), [ucchedavāda](../terms/ucchedavada.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 16.2 <a id="tea-mulamadhyamakakarika-16-2"></a>
 `skeleton` · confidence high
@@ -462,7 +462,7 @@ If the person transmigrates, it is not found when sought in five ways among the 
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate, karma-liberation_
 
-terms: [pudgala](../terms/pudgala.md) · concepts: `cpt:fivefold-analysis` · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md), [Is there a self?](../debates/is-there-a-self.md)
+terms: [pudgala](../terms/pudgala.md) · concepts: [The fivefold analysis (of self or Tathāgata)](../concepts/fivefold-analysis.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a person (pudgala) that is neither the same as nor different from the aggregates?](../debates/pudgala.md), [Is there a self?](../debates/is-there-a-self.md)
 
 ### 16.9 <a id="tea-mulamadhyamakakarika-16-9"></a>
 `skeleton` · confidence high
@@ -473,7 +473,7 @@ terms: [pudgala](../terms/pudgala.md) · concepts: `cpt:fivefold-analysis` · te
 
 _level: ultimate · standpoint: seeker · path: knowledge, meditation · stage: advanced · types: karma-liberation, practice_
 
-terms: [upādāna](../terms/upadana.md), [nirvāṇa](../terms/nirvana.md) · obstacles: `obs:grasping-at-nirvana` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [upādāna](../terms/upadana.md), [nirvāṇa](../terms/nirvana.md) · obstacles: [Grasping at nirvāṇa](../obstacles/grasping-at-nirvana.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 16.10 <a id="tea-mulamadhyamakakarika-16-10"></a>
 `skeleton` · confidence high
@@ -484,7 +484,7 @@ Where there is no superimposing of nirvāṇa and no removing of saṃsāra, wha
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: karma-liberation, ultimate_
 
-concepts: `cpt:samsara-nirvana-nondifference` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [The non-difference of saṃsāra and nirvāṇa](../concepts/samsara-nirvana-nondifference.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 17.1 <a id="tea-mulamadhyamakakarika-17-1"></a>
 `skeleton` · confidence high
@@ -506,7 +506,7 @@ The supreme sage said that action is intention and what is done having intended,
 
 _level: conventional · standpoint: analytic · path: action · stage: all · types: karma-liberation_
 
-terms: [karma](../terms/karma.md), [cetana](../terms/cetana.md) · concepts: `cpt:karma-without-svabhava` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [karma](../terms/karma.md), [cetana](../terms/cetana.md) · concepts: [Karma without own-nature](../concepts/karma-without-svabhava.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 17.6 <a id="tea-mulamadhyamakakarika-17-6"></a>
 `skeleton` · confidence high
@@ -517,7 +517,7 @@ If action remained until the time of its ripening it would be permanent; if it h
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: unmarked · types: karma-liberation, dispute_
 
-terms: [karma](../terms/karma.md) · concepts: `cpt:avipranasa` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [karma](../terms/karma.md) · concepts: [The imperishable (avipraṇāśa) of action](../concepts/avipranasa.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 17.14-15 <a id="tea-mulamadhyamakakarika-17-14-15"></a>
 `skeleton` · confidence high
@@ -528,7 +528,7 @@ Action is like a promissory note and the imperishable (avipraṇāśa) is like t
 
 _level: conventional · standpoint: causal · path: knowledge · stage: unmarked · types: karma-liberation_
 
-terms: `trm:avipranasa` · concepts: `cpt:avipranasa` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [avipraṇāśa](../terms/avipranasa.md) · concepts: [The imperishable (avipraṇāśa) of action](../concepts/avipranasa.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 17.20 <a id="tea-mulamadhyamakakarika-17-20"></a>
 `skeleton` · confidence high
@@ -539,7 +539,7 @@ Emptiness is not annihilation, and saṃsāra is not permanent; the imperishabil
 
 _level: bridging · standpoint: causal · path: knowledge · stage: unmarked · types: karma-liberation_
 
-terms: [śūnyatā](../terms/sunyata.md), `trm:avipranasa` · concepts: `cpt:avipranasa` · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:madhyamaka-nihilism-charge`
+terms: [śūnyatā](../terms/sunyata.md), [avipraṇāśa](../terms/avipranasa.md) · concepts: [The imperishable (avipraṇāśa) of action](../concepts/avipranasa.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is the Madhyamaka a nihilism — does 'everything is empty' destroy karma, the path and the four truths?](../debates/madhyamaka-nihilism-charge.md)
 
 ### 17.21 <a id="tea-mulamadhyamakakarika-17-21"></a>
 `skeleton` · confidence high
@@ -550,7 +550,7 @@ Why does action not arise? Because it is without own-nature; and because it is u
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: karma-liberation, ultimate_
 
-terms: [karma](../terms/karma.md), `trm:nihsvabhavata` · concepts: `cpt:karma-without-svabhava` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [karma](../terms/karma.md), [niḥsvabhāvatā](../terms/nihsvabhavata.md) · concepts: [Karma without own-nature](../concepts/karma-without-svabhava.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 17.26-27 <a id="tea-mulamadhyamakakarika-17-26-27"></a>
 `skeleton` · confidence high
@@ -561,7 +561,7 @@ Action has afflictions as its nature, and the afflictions are not real; if the a
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: karma-liberation, body-layers_
 
-terms: [karma](../terms/karma.md), [kleśa](../terms/klesa.md) · concepts: `cpt:karma-without-svabhava` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [karma](../terms/karma.md), [kleśa](../terms/klesa.md) · concepts: [Karma without own-nature](../concepts/karma-without-svabhava.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 17.31-33 <a id="tea-mulamadhyamakakarika-17-31-33"></a>
 `skeleton` · confidence high
@@ -572,7 +572,7 @@ As the Teacher by his supernormal power might emanate a magical being, and that 
 
 _level: bridging · standpoint: apophatic · path: knowledge · stage: unmarked · types: karma-liberation, ultimate_
 
-terms: `trm:nirmita`, `trm:gandharvanagara`, [māyā](../terms/maya.md) · concepts: `cpt:illusion-similes`, `cpt:karma-without-svabhava` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [nirmita](../terms/nirmita.md), [gandharvanagara](../terms/gandharvanagara.md), [māyā](../terms/maya.md) · concepts: [The similes of illusion, dream and mirage](../concepts/illusion-similes.md), [Karma without own-nature](../concepts/karma-without-svabhava.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 18.1 <a id="tea-mulamadhyamakakarika-18-1"></a>
 `skeleton` · confidence high
@@ -583,7 +583,7 @@ If the self were the aggregates, it would be subject to arising and passing away
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate, consciousness-mind_
 
-terms: [ātman](../terms/atman.md), [skandha](../terms/skandha.md) · concepts: `cpt:self-as-dependent-designation`, `cpt:identity-difference-analysis` · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [skandha](../terms/skandha.md) · concepts: [The self as a dependent designation](../concepts/self-as-dependent-designation.md), [Analysis by identity and difference](../concepts/identity-difference-analysis.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 18.2 <a id="tea-mulamadhyamakakarika-18-2"></a>
 `skeleton` · confidence high
@@ -594,7 +594,7 @@ If the self does not exist, how could there be what belongs to the self? From th
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: advanced · types: karma-liberation, consciousness-mind_
 
-terms: [ahaṃkāra](../terms/ahamkara.md), `trm:mamakara` · obstacles: `obs:ahamkara-mamakara` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [ahaṃkāra](../terms/ahamkara.md), [mamakāra](../terms/mamakara.md) · obstacles: ['I'-making and 'mine'-making](../obstacles/ahamkara-mamakara.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 18.3 <a id="tea-mulamadhyamakakarika-18-3"></a>
 `skeleton` · confidence high
@@ -616,7 +616,7 @@ When 'mine' and 'I' are exhausted, inwardly and outwardly, grasping ceases; with
 
 _level: bridging · standpoint: causal · path: knowledge · stage: advanced · types: karma-liberation_
 
-terms: [upādāna](../terms/upadana.md), [ahaṃkāra](../terms/ahamkara.md), `trm:mamakara` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [upādāna](../terms/upadana.md), [ahaṃkāra](../terms/ahamkara.md), [mamakāra](../terms/mamakara.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 18.5 <a id="tea-mulamadhyamakakarika-18-5"></a>
 `skeleton` · confidence high
@@ -627,7 +627,7 @@ Liberation comes from the exhaustion of action and afflictions; action and affli
 
 _level: bridging · standpoint: causal · path: knowledge, meditation · stage: all · types: karma-liberation, practice_
 
-terms: [mokṣa](../terms/moksa.md), [vikalpa](../terms/vikalpa.md), [prapañca](../terms/prapanca.md), [śūnyatā](../terms/sunyata.md) · concepts: `cpt:prapanca-and-its-pacification` · obstacles: `obs:prapanca` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [mokṣa](../terms/moksa.md), [vikalpa](../terms/vikalpa.md), [prapañca](../terms/prapanca.md), [śūnyatā](../terms/sunyata.md) · concepts: [Elaboration and its pacification](../concepts/prapanca-and-its-pacification.md) · obstacles: [Conceptual elaboration (prapañca)](../obstacles/prapanca.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 18.6 <a id="tea-mulamadhyamakakarika-18-6"></a>
 `skeleton` · confidence high
@@ -638,7 +638,7 @@ The Buddhas have made known 'self', have taught 'no-self', and have taught that 
 
 _level: bridging · standpoint: apophatic · path: knowledge · stage: all · types: ultimate, teacher-transmission_
 
-terms: [ātman](../terms/atman.md), [nairātmya](../terms/nairatmya.md) · concepts: `cpt:graded-teaching` · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [nairātmya](../terms/nairatmya.md) · concepts: [Graded teaching fitted to the hearer](../concepts/graded-teaching.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 18.7 <a id="tea-mulamadhyamakakarika-18-7"></a>
 `skeleton` · confidence high
@@ -649,7 +649,7 @@ What is to be named has ceased, the domain of the mind has ceased; for the natur
 
 _level: ultimate · standpoint: apophatic · path: knowledge, meditation · stage: realized · types: ultimate, sound-language_
 
-terms: [dharmatā](../terms/dharmata.md) · concepts: `cpt:language-and-emptiness` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [dharmatā](../terms/dharmata.md) · concepts: [Language, designation and emptiness](../concepts/language-and-emptiness.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 18.8 <a id="tea-mulamadhyamakakarika-18-8"></a>
 `skeleton` · confidence high
@@ -660,7 +660,7 @@ terms: [dharmatā](../terms/dharmata.md) · concepts: `cpt:language-and-emptines
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: all · types: teacher-transmission, ultimate_
 
-concepts: `cpt:graded-teaching`, `cpt:catuskoti` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [Graded teaching fitted to the hearer](../concepts/graded-teaching.md), [The four-cornered negation (catuṣkoṭi)](../concepts/catuskoti.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 18.9 <a id="tea-mulamadhyamakakarika-18-9"></a>
 `skeleton` · confidence high
@@ -671,7 +671,7 @@ Not dependent on another, peaceful, not elaborated by elaborations, without conc
 
 _level: ultimate · standpoint: apophatic · path: knowledge, meditation · stage: realized · types: ultimate_
 
-terms: [tattva](../terms/tattva.md), [prapañca](../terms/prapanca.md), [vikalpa](../terms/vikalpa.md) · concepts: `cpt:sunyata` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [tattva](../terms/tattva.md), [prapañca](../terms/prapanca.md), [vikalpa](../terms/vikalpa.md) · concepts: [Emptiness (śūnyatā) in Madhyamaka](../concepts/sunyata.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 18.10-11 <a id="tea-mulamadhyamakakarika-18-10-11"></a>
 `skeleton` · confidence high
@@ -682,7 +682,7 @@ Whatever comes to be in dependence on something is not that very thing, nor is i
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · types: ultimate_
 
-concepts: [The middle way](../concepts/middle-way.md), `cpt:eight-negations` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [The middle way](../concepts/middle-way.md), [The eight negations](../concepts/eight-negations.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 18.12 <a id="tea-mulamadhyamakakarika-18-12"></a>
 `skeleton` · confidence high
@@ -693,7 +693,7 @@ When perfect Buddhas do not appear and the śrāvakas have disappeared, the know
 
 _level: conventional · standpoint: experiential · path: knowledge · stage: realized · types: teacher-transmission, powers-experiences_
 
-terms: `trm:pratyekabuddha` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [pratyekabuddha](../terms/pratyekabuddha.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 19.3 <a id="tea-mulamadhyamakakarika-19-3"></a>
 `skeleton` · confidence high
@@ -704,7 +704,7 @@ Without depending on the past, the present and future are not established; there
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: world-fate, ultimate_
 
-concepts: `cpt:time-in-madhyamaka` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [Time examined](../concepts/time-in-madhyamaka.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 19.6 <a id="tea-mulamadhyamakakarika-19-6"></a>
 `skeleton` · confidence high
@@ -715,7 +715,7 @@ If time exists in dependence on existents, how could there be time apart from ex
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: world-fate, ultimate_
 
-concepts: `cpt:time-in-madhyamaka` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [Time examined](../concepts/time-in-madhyamaka.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 20.24 <a id="tea-mulamadhyamakakarika-20-24"></a>
 `skeleton` · confidence high
@@ -737,7 +737,7 @@ For one who accepts a real existent, the views of eternalism and annihilationism
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: ultimate_
 
-terms: `trm:sasvatavada`, [ucchedavāda](../terms/ucchedavada.md) · obstacles: `obs:eternalism-annihilationism` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [śāśvatavāda](../terms/sasvatavada.md), [ucchedavāda](../terms/ucchedavada.md) · obstacles: [The two extremes: eternalism and annihilationism](../obstacles/eternalism-annihilationism.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 22.1 <a id="tea-mulamadhyamakakarika-22-1"></a>
 `skeleton` · confidence high
@@ -748,7 +748,7 @@ The Tathāgata is not the aggregates nor other than the aggregates; the aggregat
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate_
 
-terms: [tathāgata](../terms/tathagata.md), [skandha](../terms/skandha.md) · concepts: `cpt:fivefold-analysis` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [tathāgata](../terms/tathagata.md), [skandha](../terms/skandha.md) · concepts: [The fivefold analysis (of self or Tathāgata)](../concepts/fivefold-analysis.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 22.8 <a id="tea-mulamadhyamakakarika-22-8"></a>
 `skeleton` · confidence high
@@ -759,7 +759,7 @@ How is the Tathāgata, who is not found when sought in five ways as identical or
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate, sound-language_
 
-terms: [tathāgata](../terms/tathagata.md), `trm:prajnapti` · concepts: `cpt:fivefold-analysis`, `cpt:upadaya-prajnapti` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [tathāgata](../terms/tathagata.md), [prajñapti](../terms/prajnapti.md) · concepts: [The fivefold analysis (of self or Tathāgata)](../concepts/fivefold-analysis.md), [Dependent designation (upādāya prajñapti)](../concepts/upadaya-prajnapti.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 22.11 <a id="tea-mulamadhyamakakarika-22-11"></a>
 `skeleton` · confidence high
@@ -770,7 +770,7 @@ One should not say 'empty', nor 'not empty', nor both, nor neither; these are sp
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · types: ultimate, sound-language_
 
-terms: [śūnya](../terms/sunya.md), `trm:prajnapti`, `trm:catuskoti` · concepts: `cpt:catuskoti`, `cpt:language-and-emptiness`, `cpt:emptiness-of-emptiness` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [śūnya](../terms/sunya.md), [prajñapti](../terms/prajnapti.md), [catuṣkoṭi](../terms/catuskoti.md) · concepts: [The four-cornered negation (catuṣkoṭi)](../concepts/catuskoti.md), [Language, designation and emptiness](../concepts/language-and-emptiness.md), [The emptiness of emptiness](../concepts/emptiness-of-emptiness.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 22.15 <a id="tea-mulamadhyamakakarika-22-15"></a>
 `skeleton` · confidence high
@@ -781,7 +781,7 @@ Those who elaborate the Buddha, who is beyond elaboration and imperishable, are 
 
 _level: ultimate · standpoint: apophatic · path: knowledge, devotion · stage: all · types: ultimate_
 
-terms: [prapañca](../terms/prapanca.md), [tathāgata](../terms/tathagata.md) · obstacles: `obs:prapanca` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [prapañca](../terms/prapanca.md), [tathāgata](../terms/tathagata.md) · obstacles: [Conceptual elaboration (prapañca)](../obstacles/prapanca.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 22.16 <a id="tea-mulamadhyamakakarika-22-16"></a>
 `skeleton` · confidence high
@@ -792,7 +792,7 @@ Whatever is the own-nature of the Tathāgata is the own-nature of this world; th
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · types: ultimate_
 
-terms: [tathāgata](../terms/tathagata.md), `trm:nihsvabhavata` · concepts: `cpt:samsara-nirvana-nondifference` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [tathāgata](../terms/tathagata.md), [niḥsvabhāvatā](../terms/nihsvabhavata.md) · concepts: [The non-difference of saṃsāra and nirvāṇa](../concepts/samsara-nirvana-nondifference.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 23.1-2 <a id="tea-mulamadhyamakakarika-23-1-2"></a>
 `skeleton` · confidence high
@@ -803,7 +803,7 @@ Desire, aversion and delusion are said to arise from conceptualization, in depen
 
 _level: bridging · standpoint: causal · path: knowledge · stage: all · types: consciousness-mind, karma-liberation_
 
-terms: [kleśa](../terms/klesa.md), [viparyāsa](../terms/viparyasa.md) · concepts: `cpt:four-viparyasas` · obstacles: [The four perversions (viparyāsa)](../obstacles/four-viparyasas.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [kleśa](../terms/klesa.md), [viparyāsa](../terms/viparyasa.md) · concepts: [The four errors (viparyāsa)](../concepts/four-viparyasas.md) · obstacles: [The four perversions (viparyāsa)](../obstacles/four-viparyasas.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 23.8 <a id="tea-mulamadhyamakakarika-23-8"></a>
 `skeleton` · confidence high
@@ -814,7 +814,7 @@ Visible forms, sounds, tastes, touches, smells and mental objects are just like 
 
 _level: ultimate · standpoint: apophatic · path: knowledge, meditation · stage: unmarked · types: ultimate_
 
-concepts: `cpt:illusion-similes` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [The similes of illusion, dream and mirage](../concepts/illusion-similes.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 23.23 <a id="tea-mulamadhyamakakarika-23-23"></a>
 `skeleton` · confidence high
@@ -847,7 +847,7 @@ terms: [kleśa](../terms/klesa.md), [svabhāva](../terms/svabhava.md) · teacher
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute_
 
-teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:madhyamaka-nihilism-charge`
+teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is the Madhyamaka a nihilism — does 'everything is empty' destroy karma, the path and the four truths?](../debates/madhyamaka-nihilism-charge.md)
 
 ### 24.7 <a id="tea-mulamadhyamakakarika-24-7"></a>
 `skeleton` · confidence high
@@ -858,7 +858,7 @@ Here we reply: you do not understand the purpose of emptiness, emptiness itself 
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, ultimate_
 
-terms: [śūnyatā](../terms/sunyata.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:madhyamaka-nihilism-charge`
+terms: [śūnyatā](../terms/sunyata.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is the Madhyamaka a nihilism — does 'everything is empty' destroy karma, the path and the four truths?](../debates/madhyamaka-nihilism-charge.md)
 
 ### 24.8 <a id="tea-mulamadhyamakakarika-24-8"></a>
 `skeleton` · confidence high
@@ -869,7 +869,7 @@ The Buddhas' teaching of the Dharma relies on two truths: the truth of worldly c
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate, teacher-transmission_
 
-terms: `trm:satyadvaya`, `trm:samvrti-satya`, `trm:paramartha-satya` · concepts: [The two truths (sūtra layer)](../concepts/two-truths.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [satyadvaya](../terms/satyadvaya.md), [saṃvṛti-satya](../terms/samvrti-satya.md), [paramārtha-satya](../terms/paramartha-satya.md) · concepts: [The two truths (satyadvaya)](../concepts/two-truths.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 24.9 <a id="tea-mulamadhyamakakarika-24-9"></a>
 `skeleton` · confidence high
@@ -880,7 +880,7 @@ Those who do not know the distinction between these two truths do not know the p
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: all · types: ultimate_
 
-concepts: [The two truths (sūtra layer)](../concepts/two-truths.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [The two truths (satyadvaya)](../concepts/two-truths.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 24.10 <a id="tea-mulamadhyamakakarika-24-10"></a>
 `skeleton` · confidence high
@@ -891,7 +891,7 @@ Without relying on convention the ultimate is not taught; without reaching the u
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: all · types: ultimate, karma-liberation, sound-language_
 
-terms: [vyavahāra](../terms/vyavahara.md), `trm:paramartha-satya` · concepts: [The two truths (sūtra layer)](../concepts/two-truths.md), `cpt:language-and-emptiness` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [vyavahāra](../terms/vyavahara.md), [paramārtha-satya](../terms/paramartha-satya.md) · concepts: [The two truths (satyadvaya)](../concepts/two-truths.md), [Language, designation and emptiness](../concepts/language-and-emptiness.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 24.11 <a id="tea-mulamadhyamakakarika-24-11"></a>
 `skeleton` · confidence high
@@ -902,7 +902,7 @@ Emptiness wrongly seen destroys the slow-witted, like a snake wrongly grasped or
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: beginner · types: practice, teacher-transmission_
 
-obstacles: `obs:nihilistic-misreading-of-emptiness`, `obs:sunyata-drsti` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+obstacles: [Misreading emptiness as nothingness](../obstacles/nihilistic-misreading-of-emptiness.md), [Taking emptiness as a view](../obstacles/sunyata-drsti.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 24.12 <a id="tea-mulamadhyamakakarika-24-12"></a>
 `skeleton` · confidence high
@@ -924,7 +924,7 @@ For whom emptiness is possible, everything is possible; for whom emptiness is no
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [śūnyatā](../terms/sunyata.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:madhyamaka-nihilism-charge`
+terms: [śūnyatā](../terms/sunyata.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is the Madhyamaka a nihilism — does 'everything is empty' destroy karma, the path and the four truths?](../debates/madhyamaka-nihilism-charge.md)
 
 ### 24.15 <a id="tea-mulamadhyamakakarika-24-15"></a>
 `skeleton` · confidence high
@@ -935,7 +935,7 @@ Casting your own faults upon us, you are like one who has mounted a horse and fo
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute_
 
-teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:madhyamaka-nihilism-charge`
+teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is the Madhyamaka a nihilism — does 'everything is empty' destroy karma, the path and the four truths?](../debates/madhyamaka-nihilism-charge.md)
 
 ### 24.16 <a id="tea-mulamadhyamakakarika-24-16"></a>
 `skeleton` · confidence high
@@ -946,7 +946,7 @@ If you regard existents as existing by own-nature, then you regard existents as 
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, ultimate_
 
-terms: [svabhāva](../terms/svabhava.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:madhyamaka-nihilism-charge`, [Are things established by their own nature (svabhāva), or is everything relative and empty?](../debates/own-nature-of-things.md)
+terms: [svabhāva](../terms/svabhava.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is the Madhyamaka a nihilism — does 'everything is empty' destroy karma, the path and the four truths?](../debates/madhyamaka-nihilism-charge.md), [Are things established by their own nature (svabhāva), or is everything relative and empty?](../debates/own-nature-of-things.md)
 
 ### 24.18 <a id="tea-mulamadhyamakakarika-24-18"></a>
 `skeleton` · confidence high
@@ -957,7 +957,7 @@ Dependent origination we call emptiness; that is a dependent designation, and th
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate_
 
-terms: [pratītyasamutpāda](../terms/pratityasamutpada.md), [śūnyatā](../terms/sunyata.md), [upādāya-prajñapti](../terms/upadaya-prajnapti.md), `trm:madhyama-pratipad` · concepts: `cpt:sunyata`, [Dependent origination](../concepts/dependent-origination.md), `cpt:upadaya-prajnapti`, [The middle way](../concepts/middle-way.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [pratītyasamutpāda](../terms/pratityasamutpada.md), [śūnyatā](../terms/sunyata.md), [upādāya prajñapti](../terms/upadaya-prajnapti.md), [madhyamā pratipad](../terms/madhyama-pratipad.md) · concepts: [Emptiness (śūnyatā) in Madhyamaka](../concepts/sunyata.md), [Dependent origination](../concepts/dependent-origination.md), [Dependent designation (upādāya prajñapti)](../concepts/upadaya-prajnapti.md), [The middle way](../concepts/middle-way.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 24.19 <a id="tea-mulamadhyamakakarika-24-19"></a>
 `skeleton` · confidence high
@@ -968,7 +968,7 @@ Since there is no dharma that is not dependently arisen, there is no dharma that
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate_
 
-terms: [pratītyasamutpāda](../terms/pratityasamutpada.md), [śūnya](../terms/sunya.md) · concepts: `cpt:sunyata` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [pratītyasamutpāda](../terms/pratityasamutpada.md), [śūnya](../terms/sunya.md) · concepts: [Emptiness (śūnyatā) in Madhyamaka](../concepts/sunyata.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 24.20 <a id="tea-mulamadhyamakakarika-24-20"></a>
 `skeleton` · confidence high
@@ -979,7 +979,7 @@ If all this were not empty, there would be no arising and no ceasing, and the fo
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute_
 
-terms: `trm:aryasatya` · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:madhyamaka-nihilism-charge`
+terms: [āryasatya](../terms/aryasatya.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is the Madhyamaka a nihilism — does 'everything is empty' destroy karma, the path and the four truths?](../debates/madhyamaka-nihilism-charge.md)
 
 ### 24.32 <a id="tea-mulamadhyamakakarika-24-32"></a>
 `skeleton` · confidence high
@@ -990,7 +990,7 @@ One who is not a Buddha by own-nature, even striving for awakening in the bodhis
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, karma-liberation_
 
-terms: [bodhisattva](../terms/bodhisattva.md), [svabhāva](../terms/svabhava.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:madhyamaka-nihilism-charge`
+terms: [bodhisattva](../terms/bodhisattva.md), [svabhāva](../terms/svabhava.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is the Madhyamaka a nihilism — does 'everything is empty' destroy karma, the path and the four truths?](../debates/madhyamaka-nihilism-charge.md)
 
 ### 24.38 <a id="tea-mulamadhyamakakarika-24-38"></a>
 `skeleton` · confidence high
@@ -1001,7 +1001,7 @@ If there were own-nature, the world would be unborn, unceasing, immovable, devoi
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, world-fate_
 
-teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:madhyamaka-nihilism-charge`
+teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is the Madhyamaka a nihilism — does 'everything is empty' destroy karma, the path and the four truths?](../debates/madhyamaka-nihilism-charge.md)
 
 ### 24.40 <a id="tea-mulamadhyamakakarika-24-40"></a>
 `skeleton` · confidence high
@@ -1012,7 +1012,7 @@ Whoever sees dependent origination sees suffering, its arising, its cessation an
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation_
 
-terms: [pratītyasamutpāda](../terms/pratityasamutpada.md), `trm:aryasatya` · concepts: [Dependent origination](../concepts/dependent-origination.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [pratītyasamutpāda](../terms/pratityasamutpada.md), [āryasatya](../terms/aryasatya.md) · concepts: [Dependent origination](../concepts/dependent-origination.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 25.1 <a id="tea-mulamadhyamakakarika-25-1"></a>
 `skeleton` · confidence high
@@ -1023,7 +1023,7 @@ terms: [pratītyasamutpāda](../terms/pratityasamutpada.md), `trm:aryasatya` · 
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute, karma-liberation_
 
-teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:madhyamaka-nihilism-charge`
+teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is the Madhyamaka a nihilism — does 'everything is empty' destroy karma, the path and the four truths?](../debates/madhyamaka-nihilism-charge.md)
 
 ### 25.3 <a id="tea-mulamadhyamakakarika-25-3"></a>
 `skeleton` · confidence high
@@ -1034,7 +1034,7 @@ Not abandoned, not attained, not annihilated, not eternal, not ceased, not arise
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: realized · types: karma-liberation, ultimate_
 
-terms: [nirvāṇa](../terms/nirvana.md) · concepts: `cpt:nirvana-in-madhyamaka` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [nirvāṇa](../terms/nirvana.md) · concepts: [Nirvāṇa in Madhyamaka](../concepts/nirvana-in-madhyamaka.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 25.4-8 <a id="tea-mulamadhyamakakarika-25-4-8"></a>
 `skeleton` · confidence high
@@ -1045,7 +1045,7 @@ Nirvāṇa is not an existent, for then it would have the marks of old age and d
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: karma-liberation, ultimate_
 
-terms: [nirvāṇa](../terms/nirvana.md), [bhāva](../terms/bhava.md), [abhāva](../terms/abhava.md) · concepts: `cpt:nirvana-in-madhyamaka`, `cpt:catuskoti` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [nirvāṇa](../terms/nirvana.md), [bhāva](../terms/bhava.md), [abhāva](../terms/abhava.md) · concepts: [Nirvāṇa in Madhyamaka](../concepts/nirvana-in-madhyamaka.md), [The four-cornered negation (catuṣkoṭi)](../concepts/catuskoti.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 25.9 <a id="tea-mulamadhyamakakarika-25-9"></a>
 `skeleton` · confidence high
@@ -1056,7 +1056,7 @@ That which comes and goes (as saṃsāra) in dependence on grasping or on condit
 
 _level: bridging · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-concepts: `cpt:nirvana-in-madhyamaka`, `cpt:samsara-nirvana-nondifference` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [Nirvāṇa in Madhyamaka](../concepts/nirvana-in-madhyamaka.md), [The non-difference of saṃsāra and nirvāṇa](../concepts/samsara-nirvana-nondifference.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 25.10 <a id="tea-mulamadhyamakakarika-25-10"></a>
 `skeleton` · confidence high
@@ -1067,7 +1067,7 @@ The Teacher spoke of abandoning both becoming and non-becoming; therefore it is 
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: all · types: karma-liberation_
 
-concepts: `cpt:nirvana-in-madhyamaka` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+concepts: [Nirvāṇa in Madhyamaka](../concepts/nirvana-in-madhyamaka.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 25.17-18 <a id="tea-mulamadhyamakakarika-25-17-18"></a>
 `skeleton` · confidence high
@@ -1078,7 +1078,7 @@ It is not said that the Blessed One exists after cessation, nor that he does not
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate, death-dying_
 
-terms: [tathāgata](../terms/tathagata.md), `trm:catuskoti` · concepts: `cpt:catuskoti`, [The Tathāgata after death](../concepts/tathagata-after-death.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [tathāgata](../terms/tathagata.md), [catuṣkoṭi](../terms/catuskoti.md) · concepts: [The four-cornered negation (catuṣkoṭi)](../concepts/catuskoti.md), [The Tathāgata after death](../concepts/tathagata-after-death.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 25.19-20 <a id="tea-mulamadhyamakakarika-25-19-20"></a>
 `skeleton` · confidence high
@@ -1089,7 +1089,7 @@ There is not the least distinction between saṃsāra and nirvāṇa, nor betwee
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, karma-liberation_
 
-terms: [saṃsāra](../terms/samsara.md), [nirvāṇa](../terms/nirvana.md) · concepts: `cpt:samsara-nirvana-nondifference` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [saṃsāra](../terms/samsara.md), [nirvāṇa](../terms/nirvana.md) · concepts: [The non-difference of saṃsāra and nirvāṇa](../concepts/samsara-nirvana-nondifference.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 25.24 <a id="tea-mulamadhyamakakarika-25-24"></a>
 `skeleton` · confidence high
@@ -1100,7 +1100,7 @@ The pacification of all apprehending, the pacification of elaboration, is auspic
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: realized · types: ultimate, sound-language_
 
-terms: [prapañcopaśama](../terms/prapancopasama.md) · concepts: `cpt:language-and-emptiness`, `cpt:prapanca-and-its-pacification` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [prapañcopaśama](../terms/prapancopasama.md) · concepts: [Language, designation and emptiness](../concepts/language-and-emptiness.md), [Elaboration and its pacification](../concepts/prapanca-and-its-pacification.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 26.1-9 <a id="tea-mulamadhyamakakarika-26-1-9"></a>
 `skeleton` · confidence high
@@ -1111,7 +1111,7 @@ Obscured by ignorance one forms the threefold formations that lead to rebirth an
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation, death-dying_
 
-terms: [pratītyasamutpāda](../terms/pratityasamutpada.md), [avidyā](../terms/avidya.md), [tṛṣṇā](../terms/trsna.md), [upādāna](../terms/upadana.md) · concepts: [Dependent origination](../concepts/dependent-origination.md), `cpt:twelve-links-in-madhyamaka` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [pratītyasamutpāda](../terms/pratityasamutpada.md), [avidyā](../terms/avidya.md), [tṛṣṇā](../terms/trsna.md), [upādāna](../terms/upadana.md) · concepts: [Dependent origination](../concepts/dependent-origination.md), [The twelve links in the Madhyamaka](../concepts/twelve-links-in-madhyamaka.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 26.10 <a id="tea-mulamadhyamakakarika-26-10"></a>
 `skeleton` · confidence high
@@ -1122,7 +1122,7 @@ Therefore the ignorant forms the formations, the root of saṃsāra; the ignoran
 
 _level: conventional · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-terms: [avidyā](../terms/avidya.md), [saṃskāra](../terms/samskara.md) · concepts: `cpt:twelve-links-in-madhyamaka` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [avidyā](../terms/avidya.md), [saṃskāra](../terms/samskara.md) · concepts: [The twelve links in the Madhyamaka](../concepts/twelve-links-in-madhyamaka.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 26.11-12 <a id="tea-mulamadhyamakakarika-26-11-12"></a>
 `skeleton` · confidence high
@@ -1133,7 +1133,7 @@ When ignorance has ceased the formations do not arise; the cessation of ignoranc
 
 _level: bridging · standpoint: seeker · path: knowledge, meditation · stage: all · types: karma-liberation, practice_
 
-terms: [avidyā](../terms/avidya.md) · concepts: `cpt:twelve-links-in-madhyamaka` · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [avidyā](../terms/avidya.md) · concepts: [The twelve links in the Madhyamaka](../concepts/twelve-links-in-madhyamaka.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 27.1-2 <a id="tea-mulamadhyamakakarika-27-1-2"></a>
 `skeleton` · confidence high
@@ -1155,7 +1155,7 @@ Thus the self is neither other than the grasped nor identical with it; there is 
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate, consciousness-mind_
 
-terms: [ātman](../terms/atman.md), [upādāna](../terms/upadana.md) · concepts: `cpt:self-as-dependent-designation` · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ātman](../terms/atman.md), [upādāna](../terms/upadana.md) · concepts: [The self as a dependent designation](../concepts/self-as-dependent-designation.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 27.29 <a id="tea-mulamadhyamakakarika-27-29"></a>
 `skeleton` · confidence high
@@ -1177,10 +1177,10 @@ I bow to Gautama, who out of compassion taught the true Dharma for the abandonme
 
 _level: ultimate · standpoint: devotional · path: knowledge, devotion · stage: all · types: ultimate, teacher-transmission_
 
-terms: [dṛṣṭi](../terms/drsti.md), [karuṇā](../terms/karuna.md) · concepts: `cpt:emptiness-not-a-view` · teachers: [Nāgārjuna](../teachers/nagarjuna.md), [Gotama Buddha](../teachers/gotama-buddha.md)
+terms: [dṛṣṭi](../terms/drsti.md), [karuṇā](../terms/karuna.md) · concepts: [Emptiness is not a view](../concepts/emptiness-not-a-view.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md), [Gotama Buddha](../teachers/gotama-buddha.md)
 
 
 _Notes: Chapter titles confirmed from the Prasannapadā colophons in the local Vaidya/Tripathi e-text (ch.12 colophon reads 'duḥkhaparīkṣā'). Chapter verse counts (GRETIL): 14,25,9,9,8,10,34,13,12,16,8,10,8,8,11,10,33,12,6,24,21,16,25,40,24,12,30._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

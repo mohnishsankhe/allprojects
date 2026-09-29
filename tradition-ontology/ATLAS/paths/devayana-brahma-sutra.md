@@ -19,4 +19,4 @@
 An eschatological route rather than a meditative ladder; bands left empty for the stations. Station order recalled with moderate confidence. Advaita: this path is only for meditators on the qualified Brahman; the knower of the attributeless does not depart.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._

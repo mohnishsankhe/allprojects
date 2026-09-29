@@ -14,4 +14,4 @@
 A short treatise by Vyāsatīrtha 'reviving difference' — defending the reality of difference against Advaita.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:10 IST._

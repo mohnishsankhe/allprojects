@@ -1,6 +1,6 @@
 # Venerating it as the self
 
-`prc:atma-upasana` · `skeleton` · confidence high
+`prc:atma-upasana` · `sourced` · confidence high
 
 **Category:** meditation
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -11,4 +11,8 @@
   - [Bṛhadāraṇyaka Upaniṣad](../texts/brhadaranyaka-upanisad.md) — ref: 1.4.7-8; rests_on: ["tea:brhadaranyaka-upanisad:1.4.7", "tea:brhadaranyaka-upanisad:1.4.8"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 1.4.7-8). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

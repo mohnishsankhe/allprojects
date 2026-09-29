@@ -1,14 +1,19 @@
 # Taking refuge in the Lord alone (śaraṇāgati)
 
-`prc:saranagati` · `skeleton` · confidence high
+`prc:saranagati` · `sourced` · confidence high
 
 **Category:** devotion-service
-**Convergence:** 7 independent lineage(s): [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](../lineages/alvar.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Ekaśaraṇa Dharma](../lineages/ekasarana.md), [Haridāsī sampradāya (Sakhī sampradāya)](../lineages/haridasi.md), [Pāñcarātra](../lineages/pancaratra.md), [Rāmānandī sampradāya](../lineages/ramanandi.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
-**Taught in:** [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](../lineages/alvar.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Ekaśaraṇa Dharma](../lineages/ekasarana.md), [Haridāsī sampradāya (Sakhī sampradāya)](../lineages/haridasi.md), [Pāñcarātra](../lineages/pancaratra.md), [Rāmānandī sampradāya](../lineages/ramanandi.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
+**Convergence:** 8 independent lineage(s): [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](../lineages/alvar.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Ekaśaraṇa Dharma](../lineages/ekasarana.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Haridāsī sampradāya (Sakhī sampradāya)](../lineages/haridasi.md), [Pāñcarātra](../lineages/pancaratra.md), [Rāmānandī sampradāya](../lineages/ramanandi.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
+**Taught in:** [The Āḻvārs (Tamil Vaiṣṇava saint-poets) and their hymn tradition](../lineages/alvar.md), [Early Bhāgavata devotion (the Nārāyaṇīya / Sātvata–Ekāntika dharma)](../lineages/bhagavata-early.md), [Ekaśaraṇa Dharma](../lineages/ekasarana.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Haridāsī sampradāya (Sakhī sampradāya)](../lineages/haridasi.md), [Pāñcarātra](../lineages/pancaratra.md), [Rāmānandī sampradāya](../lineages/ramanandi.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 
-Abandoning all dharmas, take refuge in the Lord alone, who frees from all sins (18.66); take refuge in him with one's whole being (18.62); coming once for refuge, saying 'I am yours', one is granted freedom from fear (Rāmāyaṇa 6.18.33).
+Bhagavad Gītā 7.14, 7.19, 7.29; 9.32: those who take refuge in the Lord alone (mām eva prapadyante) cross over his guṇa-made māyā; the knower takes refuge after many births, knowing 'Vāsudeva is all'; taking refuge in him, people strive for release from old age and death; whoever takes refuge in him — even those of sinful birth, women, vaiśyas and śūdras — reaches the highest goal.
 **Stage:** all
+**Signs of progress:** ["crossing over the Lord's māyā (7.14)", 'reaching the highest goal, for anyone who takes refuge, even those of sinful birth, women, vaiśyas and śūdras (9.32)']
 **Sources:** 
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 7.14; rests_on: ["tea:bhagavad-gita:7.14"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 7.19; rests_on: ["tea:bhagavad-gita:7.19"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 7.29; rests_on: ["tea:bhagavad-gita:7.29"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 9.32; rests_on: ["tea:bhagavad-gita:9.32"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.62; 18.66; 7.14; rests_on: ["tea:bhagavad-gita:18.66", "tea:bhagavad-gita:18.62", "tea:bhagavad-gita:7.14"]
   - [Rāmāyaṇa (of Vālmīki)](../texts/ramayana.md) — ref: 6.18.33; rests_on: ["tea:ramayana:6.18.33"]
   - [Śvetāśvatara Upaniṣad](../texts/svetasvatara-upanisad.md) — ref: 6.18; rests_on: ["tea:svetasvatara-upanisad:6.18"]
@@ -24,7 +29,12 @@ Abandoning all dharmas, take refuge in the Lord alone, who frees from all sins (
 ## Equivalents (interpretation layer)
 - exact: [Surrender (prapatti / śaraṇāgati)](prapatti.md) — Śrīvaiṣṇava prapatti rests on these texts
 
-_Notes: Interpreted variously by the schools (see dsp:gita-primary-teaching); U05's contribution to a practice systematized by U14._
+_Notes: Chs. 7–9 contribution, combining extractor B's prc:saranagati and extractor A's prc:prapatti._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:7.14, tea:bhagavad-gita:7.19, tea:bhagavad-gita:7.29, tea:bhagavad-gita:9.32 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (ŚU 6.18). It rests on 1 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U08-agama-catalogue, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._

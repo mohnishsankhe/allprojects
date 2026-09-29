@@ -30,4 +30,4 @@ concepts: [The eighty-four postures](../concepts/eighty-four-asanas.md)
 _Notes: Dating and counts recalled; the Rāmānandī affiliation is low-confidence._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._

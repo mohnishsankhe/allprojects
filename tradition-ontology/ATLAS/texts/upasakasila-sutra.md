@@ -13,4 +13,4 @@
 The sūtra of the lay bodhisattva precepts (Chinese T1488, Dharmakṣema 426): the lay bodhisattva's six major and twenty-eight minor precepts.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

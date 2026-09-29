@@ -26,10 +26,10 @@ Consciousness is the cognition of objects; it is also called mind because it is 
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-concepts: [The eight consciousnesses (sūtra layer)](../concepts/eight-consciousnesses.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
+concepts: [The eight consciousnesses](../concepts/eight-consciousnesses.md) · teachers: [Vasubandhu](../teachers/vasubandhu.md)
 
 
 _Notes: Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

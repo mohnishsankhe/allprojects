@@ -12,6 +12,7 @@
 - [Śrīvidyā](../lineages/srividya.md): Contemplative identification: the body as Śrīcakra and worship as non-difference (Bhāvanā Upaniṣad); its firmness brings the power of command (PKS 1.13); the Goddess is 'reached by bhāvanā' (LSN 41).
 - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): The task regarding the fourth truth: the path is to be developed (SN 56.11); the development of mind (cittabhāvanā) possible for one who understands the luminous mind (AN 1.52); development of concentration (AN 4.41) and of the faculties (MN 152).
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): VP 6.7.48-51: the three contemplations of beings - of Brahman, of action, and of both.
+- [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md): Cultivation that, carried to culmination, yields vivid non-conceptual cognition — yogic perception.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: What the unyoked lack; without it there is no peace (2.66). Commentators gloss it as steady contemplation, dwelling on the self, or conviction.
 - [Vaiśeṣika](../lineages/vaisesika.md): The impression produced by experience that causes memory; resides only in the self (Tarkasaṅgraha).
 - [Jainism (Jaina dharma)](../lineages/jainism.md): In Jainism (1) the five contemplations supporting each vow (TS 7.3–8); (2) the twelve reflections (anuprekṣā); (3) the four attitudes of friendliness and the rest; (4) in Haribhadra's Yogabindu, the second of five yogas.
@@ -28,4 +29,4 @@
 _Notes: Shared slug with the Sanskrit term; this is the early-Buddhist contribution._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U23-sakta-srividya, skeleton:U36-pali-suttas, skeleton:U07-puranas, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U23-sakta-srividya, skeleton:U36-pali-suttas, skeleton:U07-puranas, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._

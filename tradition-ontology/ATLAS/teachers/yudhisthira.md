@@ -17,4 +17,4 @@ _Notes: Linked in BhG ch. 1–3 at 1.16._
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 3.297.27, 3.177.16, 3.32.4, 12.9.1, 17.3.7 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:10 IST._

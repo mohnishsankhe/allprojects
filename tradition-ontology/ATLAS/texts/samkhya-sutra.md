@@ -636,7 +636,7 @@ terms: [dhyāna (nididhyāsana)](../terms/dhyana.md), [āsana](../terms/asana.md
 
 _level: conventional · standpoint: seeker · path: knowledge · stage: intermediate · types: practice, consciousness-mind_
 
-terms: [laya](../terms/laya.md), [vikṣepa](../terms/viksepa.md), [uparāga](../terms/uparaga.md) · practices: [Meditation as objectless mind (dhyāna)](../practices/nirvisaya-dhyana.md), [Concentration (dhāraṇā)](../practices/dharana.md), [Dispassion (vairāgya)](../practices/vairagya.md) · obstacles: [Dullness (laya)](../obstacles/laya.md), [Distraction (vikṣepa)](../obstacles/viksepa.md)
+terms: [laya](../terms/laya.md), [vikṣepa](../terms/viksepa.md), [uparāga](../terms/uparaga.md) · practices: [Meditation as objectless mind (dhyāna)](../practices/nirvisaya-dhyana.md), [Concentration (dhāraṇā)](../practices/dharana.md), [Dispassion (vairāgya)](../practices/vairagya.md) · obstacles: [Sinking (laya)](../obstacles/laya.md), [Distraction (vikṣepa)](../obstacles/viksepa.md)
 
 ### 6.34 <a id="tea-samkhya-sutra-6-34"></a>
 `skeleton` · confidence moderate
@@ -703,4 +703,4 @@ teachers: [Pañcaśikha](../teachers/pancasikha.md), [Sanandana](../teachers/san
 
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:10 IST._

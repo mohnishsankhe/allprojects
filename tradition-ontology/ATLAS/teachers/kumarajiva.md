@@ -3,7 +3,7 @@
 `tch:kumarajiva` · `skeleton` · confidence high
 
 **Alternate names:** Jiumoluoshi 鳩摩羅什
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), `lin:sanlun`, `lin:tiantai`, [Sarvāstivāda](../lineages/sarvastivada.md)
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), `lin:sanlun`, `lin:tiantai`, [Sarvāstivāda](../lineages/sarvastivada.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md)
 **Dates:** Scholarly account: 344-413 CE (or 350-409); (confidence moderate)
 **Places:** Kucha, Kashmir, Liangzhou, Chang'an
 **Historicity:** historical
@@ -21,6 +21,7 @@
   - [Mahāprajñāpāramitopadeśa (Da zhidu lun 大智度論)](../texts/mahaprajnaparamitopadesa.md) — attribution: accepted
   - [Longshu pusa zhuan 龍樹菩薩傳](../texts/longshu-pusa-zhuan.md) — attribution: traditional
   - [Tipo pusa zhuan 提婆菩薩傳](../texts/tipo-pusa-zhuan.md) — attribution: traditional
+  - [Chapters on the Great Meaning of the Mahāyāna (Huiyuan–Kumārajīva correspondence)](../texts/dasheng-dayi-zhang.md) — attribution: accepted
   - [Sarvāstivāda Vinaya (Ten-Recitation Vinaya)](../texts/sarvastivada-vinaya.md) — attribution: accepted
   - [Satyasiddhiśāstra](../texts/satyasiddhisastra.md) — attribution: accepted
 
@@ -29,4 +30,4 @@ Kuchean monk-translator (344-413 or 350-409) in Chang'an, whose Chinese versions
 _Notes: Also referenced by other units; contribution here: sūtra translations._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka, skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka, skeleton:U43-pure-land, skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

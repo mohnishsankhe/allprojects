@@ -1,6 +1,6 @@
 # Dharma (as known through Vedic injunction)
 
-`cpt:dharma` · `skeleton` · confidence high
+`cpt:dharma` · `sourced` · confidence high
 
 **Category:** ethics
 
@@ -17,4 +17,8 @@
 - leads-to → [Heaven (svarga)](svarga.md): the declared fruit of the paradigm rites — rests on [4.3.15](../texts/mimamsa-sutra.md#tea-mimamsa-sutra-4-3-15)
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/katha-upanisad/segments.js — All 5 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 1.4.14; ChU 2.23.1; TU 1.11; MaiU 4.3; KU 1.2.14). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U12-mimamsa, skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

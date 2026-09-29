@@ -1,6 +1,6 @@
 # Heedlessness (pramāda)
 
-`obs:pramada` · `skeleton` · confidence high
+`obs:pramada` · `sourced` · confidence high
 
 **Category:** obstacle
 **Convergence:** 4 independent lineage(s): [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Pāśupata (Pāñcārthika Pāśupata)](../lineages/pasupata.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -21,4 +21,8 @@ Heedlessness is death (Sanatsujāta, MBh 5.42.4); negligence is a bond of tamas 
   - [Pañcārthabhāṣya](../texts/pancarthabhasya.md) — ref: on PS 5.40; rests_on: ["tea:pancarthabhasya:5.39"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering), text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā m — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (TU 1.11; MuU 2.2.4; MuU 3.2.4; KU 2.3.11). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:10 IST._

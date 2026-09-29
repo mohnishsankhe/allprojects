@@ -33,7 +33,7 @@ The ultimate is neither the same as nor different from the formations: if the sa
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate_
 
-concepts: [The two truths (sūtra layer)](../concepts/two-truths.md)
+concepts: [The two truths (satyadvaya)](../concepts/two-truths.md)
 
 ### 4 <a id="tea-samdhinirmocana-sutra-4"></a>
 `skeleton` · confidence moderate
@@ -49,9 +49,9 @@ teachers: [Subhūti](../teachers/subhuti.md)
 
 The appropriating consciousness (ādānavijñāna), also called ālaya and citta, holds all the seeds and the body; profound and subtle, it flows like a torrent with all its seeds; the Buddha did not teach it to the foolish lest they imagine it to be a self.
 
-_level: conventional · standpoint: analytic · path: knowledge, meditation · stage: advanced · types: consciousness-mind, teacher-transmission_
+_level: conventional · standpoint: analytic · path: knowledge, meditation · stage: advanced · types: consciousness-mind_
 
-terms: [ādānavijñāna](../terms/adana-vijnana.md), [ālayavijñāna](../terms/alayavijnana.md), [bīja](../terms/bija.md), `trm:alaya-vijnana` · concepts: [The eight consciousnesses (sūtra layer)](../concepts/eight-consciousnesses.md), `cpt:alaya-vijnana` · disputes: [Is there a self?](../debates/is-there-a-self.md)
+terms: [ādāna-vijñāna](../terms/adana-vijnana.md), [ālayavijñāna](../terms/alayavijnana.md), [bīja](../terms/bija.md) · concepts: [The eight consciousnesses](../concepts/eight-consciousnesses.md) · disputes: [Is there a self?](../debates/is-there-a-self.md)
 
 ### 6 <a id="tea-samdhinirmocana-sutra-6"></a>
 `skeleton` · confidence high
@@ -60,16 +60,16 @@ The three characteristics of dharmas: the imagined (parikalpita) — names and c
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-terms: [trisvabhāva](../terms/trisvabhava.md), [parikalpita](../terms/parikalpita.md), [paratantra (asvatantra)](../terms/paratantra.md), [pariniṣpanna](../terms/parinispanna.md) · concepts: [The three natures (sūtra layer)](../concepts/three-natures.md)
+terms: [tri-svabhāva](../terms/trisvabhava.md), [parikalpita](../terms/parikalpita.md), [paratantra (asvatantra)](../terms/paratantra.md), [pariniṣpanna](../terms/parinispanna.md) · concepts: [The three natures (sūtra layer)](../concepts/three-natures.md)
 
 ### 7 <a id="tea-samdhinirmocana-sutra-7"></a>
 `skeleton` · confidence high
 
 What the Buddha intended by 'all dharmas lack own-being': three naturelessnesses — of characteristic (the imagined), of arising (the dependent), and ultimate naturelessness (the perfected, suchness, the ultimate that is the absence of self in dharmas).
 
-_level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, teacher-transmission, dispute_
+_level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [trividhā niḥsvabhāvatā](../terms/trinihsvabhavata.md), [niḥsvabhāva](../terms/nihsvabhava.md), `trm:nihsvabhavata`, [neyārtha](../terms/neyartha.md), [nītārtha](../terms/nitartha.md) · concepts: [The three naturelessnesses](../concepts/three-naturelessnesses.md), [The three turnings of the dharma-wheel](../concepts/three-turnings.md) · teachers: [Paramārthasamudgata](../teachers/paramarthasamudgata.md) · disputes: `dsp:provisional-definitive-yogacara`, `dsp:yogacara-madhyamaka`
+terms: [trividhā niḥsvabhāvatā](../terms/trinihsvabhavata.md), [niḥsvabhāva](../terms/nihsvabhava.md) · concepts: [The three naturelessnesses](../concepts/three-naturelessnesses.md) · teachers: [Paramārthasamudgata](../teachers/paramarthasamudgata.md)
 
 ### 7 <a id="tea-samdhinirmocana-sutra-7-2"></a>
 `skeleton` · confidence high
@@ -78,7 +78,7 @@ The three turnings of the wheel: first, at Vārāṇasī, the four noble truths 
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: teacher-transmission, dispute_
 
-terms: [dharmacakra](../terms/dharmacakra.md), [neyārtha](../terms/neyartha.md), [nītārtha](../terms/nitartha.md) · concepts: [The three turnings of the dharma-wheel](../concepts/three-turnings.md), [Provisional and definitive meaning](../concepts/neyartha-nitartha.md) · teachers: [Paramārthasamudgata](../teachers/paramarthasamudgata.md) · disputes: `dsp:which-turning-is-definitive`
+terms: [dharmacakra](../terms/dharmacakra.md), [neyārtha](../terms/neyartha.md), [nītārtha](../terms/nitartha.md) · concepts: [The three turnings of the dharma-wheel](../concepts/three-turnings.md), [Provisional and definitive meaning](../concepts/neyartha-nitartha.md) · teachers: [Paramārthasamudgata](../teachers/paramarthasamudgata.md) · disputes: [Which turning of the dharma-wheel is of definitive meaning (nītārtha): the teaching of emptiness (second) or the 'well-distinguished' teaching of the three natures and of buddha-nature (third)?](../debates/which-turning-is-definitive.md)
 
 ### 8 <a id="tea-samdhinirmocana-sutra-8"></a>
 `skeleton` · confidence high
@@ -87,7 +87,7 @@ Maitreya asks about calm abiding (śamatha) and insight (vipaśyanā): their obj
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice, consciousness-mind_
 
-terms: [samatha](../terms/samatha.md), [vipaśyanā](../terms/vipasyana.md), [vijñaptimātra](../terms/vijnaptimatra.md), [pratibimba](../terms/pratibimba.md) · concepts: [Mind only (sūtra layer)](../concepts/mind-only.md), `cpt:vijnaptimatrata`, `cpt:four-kinds-of-meditation-object` · practices: [Calm and insight as taught in the Saṃdhinirmocana](../practices/samatha-vipasyana-samdhinirmocana.md), `prc:samatha-yogacara`, `prc:vipasyana-yogacara` · teachers: [Maitreya (the bodhisattva, future buddha)](../teachers/maitreya-bodhisattva.md)
+terms: [samatha](../terms/samatha.md), [vipaśyanā](../terms/vipasyana.md), [vijñapti-mātra](../terms/vijnaptimatra.md) · concepts: [Mind only (sūtra layer)](../concepts/mind-only.md) · practices: [Calm and insight as taught in the Saṃdhinirmocana](../practices/samatha-vipasyana-samdhinirmocana.md) · teachers: [Maitreya (the bodhisattva, future buddha)](../teachers/maitreya-bodhisattva.md)
 
 ### 9 <a id="tea-samdhinirmocana-sutra-9"></a>
 `skeleton` · confidence moderate
@@ -111,4 +111,4 @@ terms: [dharmakāya](../terms/dharmakaya.md), [āśraya-parāvṛtti](../terms/a
 _Notes: No Sanskrit survives (fragments quoted); Chinese T676 (vol. 16) not local; Tibetan D106 present in sources_raw/derge-kangyur (catalog:Derge-Kangyur:D106) but not read in this phase. Chapter-level refs, Lamotte/Tibetan numbering._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

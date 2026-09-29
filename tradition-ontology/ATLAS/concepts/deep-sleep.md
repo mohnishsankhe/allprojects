@@ -1,6 +1,6 @@
 # Deep sleep
 
-`cpt:deep-sleep` · `skeleton` · confidence high
+`cpt:deep-sleep` · `sourced` · confidence high
 
 **Category:** consciousness-states
 
@@ -16,4 +16,8 @@
 - part-of → [The five activities of the mind (pañca vṛttayaḥ)](five-vrttis.md) — rests on [1.6](../texts/yoga-sutra.md#tea-yoga-sutra-1-6), [1.10](../texts/yoga-sutra.md#tea-yoga-sutra-1-10)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/mandukya-upanisad/segments — All 5 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 6.8.1; BĀU 4.3.19-22; BĀU 2.1.19; PrU 4.6; ChU 8.11). It rests on 7 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._

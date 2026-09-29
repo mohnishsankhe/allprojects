@@ -15,4 +15,4 @@ Gyaltsab Je's commentary on the Pramāṇavārttika, the standard Gelug textbook
   - kind: original; name: Tibetan: Gyaltsab's collected works
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

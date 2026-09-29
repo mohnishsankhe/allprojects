@@ -27,4 +27,4 @@ No: monks must live in lodgings given by laypeople, wander, and own nothing, as 
 **Queue:** RQ-U34-08
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

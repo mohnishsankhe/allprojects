@@ -15,6 +15,7 @@
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): Dispassion toward the enjoyment of results of action in this world and the next.
 - [Jainism (Jaina dharma)](../lineages/jainism.md): In Jainism detachment cultivated by contemplating the world and the body (TS 7.12); threefold — born of suffering, of delusion and of knowledge, only the last true (Adhyātmasāra).
 - [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md): Dispassion, the condition of renunciation ('the very day one becomes dispassionate'); the oil of the lamp of knowledge (Dakṣiṇāmūrti).
+- [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md): Equanimity toward all, like one to whom an adze and sandal-paste are alike.
 
 ## Forms in other languages
 - Pali: virāga  — partial — Buddhist dispassion
@@ -28,4 +29,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.35 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya, skeleton:U05-gita-epic, skeleton:U07-puranas, extraction:bhagavad-gita/ch04-06, skeleton:U13-advaita, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya, skeleton:U05-gita-epic, skeleton:U07-puranas, extraction:bhagavad-gita/ch04-06, skeleton:U13-advaita, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

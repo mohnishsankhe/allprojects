@@ -15,4 +15,4 @@
 Malayagiri's Sanskrit commentary on the Prajñāpanā, one of many lucid commentaries by this 12th-c. contemporary of Hemacandra on Upāṅgas, the Nandī and Chedasūtras.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

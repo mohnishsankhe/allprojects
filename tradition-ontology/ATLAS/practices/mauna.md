@@ -15,4 +15,4 @@ The state of the silent sage who, 'ecstatic with munihood', is carried by the wi
 _Notes: The Keśin hymn describes the state, not a method._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U22-tamil-siddha, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U22-tamil-siddha, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._

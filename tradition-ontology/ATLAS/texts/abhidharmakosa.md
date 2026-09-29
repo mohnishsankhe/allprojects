@@ -306,7 +306,7 @@ The attainment of non-perception (asaṃjñi-samāpatti) is entered in the last 
 
 _level: conventional · standpoint: experiential · path: meditation · stage: advanced · types: consciousness-mind, powers-experiences_
 
-terms: [asaṃjñisamāpatti](../terms/asamjnisamapatti.md), [nirodhasamāpatti](../terms/nirodhasamapatti.md) · concepts: [Formations dissociated from mind](../concepts/cittaviprayukta-samskaras.md) · practices: [The attainment of cessation (nirodha-samāpatti)](../practices/nirodha-samapatti.md)
+terms: [asaṃjñi-samāpatti](../terms/asamjnisamapatti.md), [nirodhasamāpatti](../terms/nirodhasamapatti.md) · concepts: [Formations dissociated from mind](../concepts/cittaviprayukta-samskaras.md) · practices: [The attainment of cessation (nirodha-samāpatti)](../practices/nirodha-samapatti.md)
 
 ### 2.44 <a id="tea-abhidharmakosa-2-44"></a>
 `skeleton` · confidence high
@@ -853,7 +853,7 @@ The gift of the Dharma is the undefiled teaching of the sūtras and the rest as 
 
 _level: conventional · standpoint: seeker · path: knowledge, action · stage: all · types: teacher-transmission, karma-liberation_
 
-terms: [dāna](../terms/dana.md), [mokṣabhāgīya](../terms/moksabhagiya.md), [nirvedhabhāgīya](../terms/nirvedhabhagiya.md)
+terms: [dāna](../terms/dana.md), [mokṣabhāgīya](../terms/moksabhagiya.md), [nirvedha-bhāgīya](../terms/nirvedhabhagiya.md)
 
 ### 5.1 <a id="tea-abhidharmakosa-5-1"></a>
 `skeleton` · confidence high
@@ -1134,7 +1134,7 @@ From this arises 'heat' (ūṣmagata), which has the four truths as object and s
 
 _level: conventional · standpoint: seeker · path: meditation, knowledge · stage: advanced · types: practice, powers-experiences_
 
-terms: [nirvedhabhāgīya](../terms/nirvedhabhagiya.md), [ūṣmagata](../terms/usmagata.md), [mūrdhan](../terms/murdhan.md), [kṣānti](../terms/ksanti.md), [laukikāgradharma](../terms/laukikagradharma.md) · concepts: [The four roots of good conducive to penetration](../concepts/four-nirvedhabhagiyas.md)
+terms: [nirvedha-bhāgīya](../terms/nirvedhabhagiya.md), [uṣmagata](../terms/usmagata.md), [mūrdhan](../terms/murdhan.md), [kṣānti](../terms/ksanti.md), [laukikāgra-dharma](../terms/laukikagradharma.md) · concepts: [The four roots of good conducive to penetration](../concepts/four-nirvedhabhagiyas.md)
 
 ### 6.20 <a id="tea-abhidharmakosa-6-20"></a>
 `skeleton` · confidence high
@@ -1145,7 +1145,7 @@ These are the fourfold roots of good conducive to penetration (nirvedhabhāgīya
 
 _level: conventional · standpoint: seeker · path: meditation, knowledge · stage: advanced · types: practice_
 
-terms: [nirvedhabhāgīya](../terms/nirvedhabhagiya.md) · concepts: [The four roots of good conducive to penetration](../concepts/four-nirvedhabhagiyas.md)
+terms: [nirvedha-bhāgīya](../terms/nirvedhabhagiya.md) · concepts: [The four roots of good conducive to penetration](../concepts/four-nirvedhabhagiyas.md)
 
 ### 6.23 <a id="tea-abhidharmakosa-6-23"></a>
 `skeleton` · confidence high
@@ -1496,4 +1496,4 @@ terms: [saddharma](../terms/saddharma.md) · concepts: [The two aspects of the t
 
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

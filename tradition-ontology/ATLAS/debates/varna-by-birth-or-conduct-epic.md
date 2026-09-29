@@ -28,4 +28,4 @@ Conduct and qualities: one in whom truth, generosity, forbearance, good conduct,
 **Candidate readings:** P1-level: sameness in the self and in the Lord (BhG 5.18; 9.29) at the ultimate level, varṇa duties at the conventional level; guṇa-karma reading of BhG 4.13 (varṇa by qualities and work) against the birth reading of the classical commentators, who take svabhāva as formed by past lives; bhakti reading: devotion and refuge open liberation to all regardless of birth (BhG 9.32; 18.66), while social duties remain; yuga reading (Rāmāyaṇa 7.74): eligibility for austerity differs by age of the world
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._

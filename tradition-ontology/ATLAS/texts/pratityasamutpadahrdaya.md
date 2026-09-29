@@ -17,6 +17,7 @@ Seven verses with an explanation arranging the twelve links of dependent origina
   - kind: translation; name: Tibetan translation, Derge Tengyur D3836 (kārikā) — catalog:Derge-Tengyur:D3836
   - kind: translation; name: Tibetan translation, Derge Tengyur D3837 (vyākhyāna) — catalog:Derge-Tengyur:D3837
   - kind: original; name: local Sanskrit e-text (Digital Sanskrit Buddhist Canon)
+  - kind: translation; name: Chinese: Yinyuan xin lun song 因緣心論頌, T1654 — catalog:CBETA:T32n1654
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

@@ -81,7 +81,7 @@ Nirvikalpa samādhi has four obstacles: dullness (laya), the mind's lapse into s
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-obstacles: [The four obstacles to nirvikalpa samādhi](../obstacles/four-obstacles-to-samadhi.md), [Dullness (laya)](../obstacles/laya.md), [Distraction (vikṣepa)](../obstacles/viksepa.md), [Latent attachment (kaṣāya)](../obstacles/kasaya.md), [Relishing the bliss (rasāsvāda)](../obstacles/rasasvada.md) · teachers: [Sadānanda (Yogīndra)](../teachers/sadananda.md)
+obstacles: [The four obstacles to nirvikalpa samādhi](../obstacles/four-obstacles-to-samadhi.md), [Sinking (laya)](../obstacles/laya.md), [Distraction (vikṣepa)](../obstacles/viksepa.md), [Latent attachment (kaṣāya)](../obstacles/kasaya.md), [Relishing the bliss (rasāsvāda)](../obstacles/rasasvada.md) · teachers: [Sadānanda (Yogīndra)](../teachers/sadananda.md)
 
 ### refutation <a id="tea-vedantasara-refutation"></a>
 `skeleton` · confidence moderate
@@ -123,4 +123,4 @@ terms: [tat tvam asi](../terms/tat-tvam-asi.md), [jahad-ajahal-lakṣaṇā (bh�
 _Notes: Commentaries: Nṛsiṃha Sarasvatī's Subodhinī (1588), Rāmatīrtha's Vidvanmanorañjanī._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._

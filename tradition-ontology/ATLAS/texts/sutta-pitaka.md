@@ -15,4 +15,4 @@
 The basket of discourses: the Buddha's and his great disciples' teachings arranged in five collections (nikāya) by length (Dīgha, Majjhima), by topic (Saṃyutta), by number (Aṅguttara), and a miscellany (Khuddaka).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

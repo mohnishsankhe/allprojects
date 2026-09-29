@@ -89,4 +89,4 @@ concepts: [The sixty topics of the Ṣaṣṭitantra](../concepts/sastitantra-si
 _Notes: Only the part on SK 1–15 was available locally; teachings on later verses are from memory (low confidence)._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:10 IST._

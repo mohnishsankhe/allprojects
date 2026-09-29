@@ -1,6 +1,6 @@
 # Īśvara (the Lord)
 
-`cpt:isvara` · `skeleton` · confidence high
+`cpt:isvara` · `sourced` · confidence high
 
 **Category:** ultimate
 
@@ -26,5 +26,6 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.6, tea:bhagavad-gita:4.11, tea:bhagavad-gita:4.13, tea:bhagavad-gita:4.14, tea:bhagavad-gita:5.29, tea:bhagavad-gita:6.30, tea:bhagavad-gita:5.14, tea:bhagavad-gita:5.15, tea:bhagavad-gita:6.14, tea:bhagavad-gita:6.15, tea:bhagavad-gita:6.31 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/isa-upanisad/segments.jsonl (Advaita-Śāradā mūla Isha.md, Śaṅkara numbering), text:sources_raw/prepared/kausitaki-upanisad-sharada/segments.jsonl ( — All 8 Upaniṣad refs cited in the entry are located in the prepared segments (Īśa 1; BĀU 4.4.22; MāU 6; ŚU 1.10; ŚU 3.2; ŚU 4.10; ŚU 6.7-9; KauU 3.9). It rests on 8 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U12-mimamsa, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U12-mimamsa, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 17:10 IST._

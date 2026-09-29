@@ -21,4 +21,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U36-pali-suttas, skeleton:U35-jain-philosophy, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U36-pali-suttas, skeleton:U35-jain-philosophy, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._

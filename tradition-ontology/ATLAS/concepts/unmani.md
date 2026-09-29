@@ -16,4 +16,4 @@
 - same-as-under-standpoint → [Rājayoga as the goal and its synonyms](rajayoga-goal.md) (the HYP's list of synonyms of samādhi) — rests on [4.3-4](../texts/hatha-yoga-pradipika.md#tea-hatha-yoga-pradipika-4-3-4)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._

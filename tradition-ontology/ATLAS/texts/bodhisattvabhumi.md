@@ -20,7 +20,7 @@ The bodhisattva's path in full: the lineage (gotra) of bodhisattvas, the arising
   - kind: original; name: U. Wogihara 1930–36; N. Dutt 1966 — local GRETIL Devanāgarī e-text; licence: ancient text public domain; e-text for research use (DSBC / GRETIL terms)
   - kind: original; name: Tibetan: Derge D4037
 
-## Teachings (5: skeleton 5)
+## Teachings (6: skeleton 6)
 
 ### 1.1 <a id="tea-bodhisattvabhumi-1-1"></a>
 `skeleton` · confidence high
@@ -31,7 +31,7 @@ The lineage (gotra) is of two kinds: naturally present — a distinctive feature
 
 _level: conventional · standpoint: analytic · path: general · stage: all (gotra-vihāra) · types: karma-liberation_
 
-terms: [gotra](../terms/gotra.md), `trm:prakrtistha-gotra`, `trm:samudanita-gotra` · concepts: `cpt:gotra-theory` · teachers: [Asaṅga](../teachers/asanga.md)
+terms: [gotra](../terms/gotra.md), [prakṛtistha-gotra](../terms/prakrtistha-gotra.md), [samudānīta-gotra](../terms/samudanita-gotra.md) · concepts: [Spiritual lineage (gotra) and the five lineages](../concepts/gotra-theory.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 1.2 <a id="tea-bodhisattvabhumi-1-2"></a>
 `skeleton` · confidence moderate
@@ -40,7 +40,7 @@ The first arising of the mind of awakening is the bodhisattva's first right vow,
 
 _level: conventional · standpoint: seeker · path: general · stage: beginner · types: ethics, practice_
 
-terms: `trm:cittotpada`, [bodhicitta](../terms/bodhicitta.md) · teachers: [Asaṅga](../teachers/asanga.md)
+terms: [cittotpāda](../terms/cittotpada.md), [bodhicitta](../terms/bodhicitta.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 1.4 <a id="tea-bodhisattvabhumi-1-4"></a>
 `skeleton` · confidence high
@@ -51,7 +51,18 @@ Reality (tattvārtha) is fourfold: what is established by worldly convention, wh
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate_
 
-terms: `trm:nirabhilapya-svabhavata`, [tathatā](../terms/tathata.md) · concepts: `cpt:four-kinds-of-reality`, `cpt:inexpressible-nature` · teachers: [Asaṅga](../teachers/asanga.md)
+terms: [nirabhilāpya-svabhāvatā](../terms/nirabhilapya-svabhavata.md), [tathatā](../terms/tathata.md) · concepts: [The four kinds of reality (Bodhisattvabhūmi)](../concepts/four-kinds-of-reality.md), [The inexpressible nature of dharmas](../concepts/inexpressible-nature.md) · teachers: [Asaṅga](../teachers/asanga.md)
+
+### 1.8 <a id="tea-bodhisattvabhumi-1-8"></a>
+`skeleton` · confidence high
+
+The bodhisattva seeks the five sciences — the inner science (the Buddha's word), the science of reasons, the science of language, medicine and the crafts; he studies the science of reasons in order to know exactly what is badly argued in (other) treatises, to refute others' doctrines, to bring faith to those without it and increase it in those who have it.
+
+> adhyātmavidyā hetuvidyā śabdavidyā vyādhicikitsāvidyā śilpakarmasthānavidyā ca | itīmāni pañca vidyāsthānāni yāni bodhisattvaḥ paryeṣate
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: all · types: teacher-transmission, sound-language_
+
+terms: [hetuvidyā](../terms/hetuvidya.md) · concepts: [The five sciences (pañca vidyāsthānāni)](../concepts/five-sciences.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 1.10 <a id="tea-bodhisattvabhumi-1-10"></a>
 `skeleton` · confidence high
@@ -60,7 +71,7 @@ The bodhisattva's discipline is threefold — the discipline of restraint, the d
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
 
-terms: `trm:bodhisattva-samvara`, `trm:trividha-sila` · concepts: `cpt:three-kinds-of-bodhisattva-discipline` · practices: `prc:bodhisattva-vow-yogacara` · teachers: [Asaṅga](../teachers/asanga.md)
+terms: [bodhisattva-saṃvara](../terms/bodhisattva-samvara.md), [trividha śīla](../terms/trividha-sila.md) · concepts: [The three kinds of bodhisattva discipline](../concepts/three-kinds-of-bodhisattva-discipline.md) · practices: [Taking and keeping the bodhisattva vow (Yogācāra rite)](../practices/bodhisattva-vow-yogacara.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 2.4 <a id="tea-bodhisattvabhumi-2-4"></a>
 `skeleton` · confidence moderate
@@ -73,4 +84,4 @@ teachers: [Asaṅga](../teachers/asanga.md)
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

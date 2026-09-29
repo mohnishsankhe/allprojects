@@ -15,4 +15,4 @@
 The principal work of Dariyā Sāhib of Bihar on the Name, the inner sound and the path to Satlok.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._

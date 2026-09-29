@@ -6,7 +6,7 @@
 **Original title:** अमृतसिद्धि
 **Language:** Sanskrit
 **Family:** shared
-**Lineages:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), `lin:vajrayana`, `lin:mahasiddha`
+**Lineages:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md), [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md)
 **Genre:** yoga manual
 **Authors:** 
   - [Virūpa](../teachers/virupa.md) — role: author; attribution: disputed
@@ -70,4 +70,4 @@ concepts: [Bindu and its retention](../concepts/bindu-natha.md) · practices: [M
 _Notes: Chapter count and attribution recalled, not checked: low confidence on details. U49 documents the Buddhist→haṭha borrowing._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._

@@ -18,4 +18,4 @@ Leatherworker (Camār) saint of Banaras, venerated as Guru Ravidās: his songs s
 _Notes: Mīrābāī's discipleship rests on her songs naming Raidās as guru (attribution debated)._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._

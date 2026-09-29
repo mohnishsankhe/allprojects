@@ -1,6 +1,6 @@
 # Ignorance (avidyā)
 
-`obs:avidya` · `skeleton` · confidence high
+`obs:avidya` · `sourced` · confidence high
 
 **Category:** affliction
 **Convergence:** 6 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Rāmānandī sampradāya](../lineages/ramanandi.md), [Śākta traditions](../lineages/sakta.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md), [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md)
@@ -25,4 +25,8 @@ Lineage contribution (Upaniṣadic): fools living in ignorance and thinking them
 _Notes: U06 contribution to a shared obstacle id._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, skeleton:U10-yoga, skeleton:U13-advaita, skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering), text:sources_raw/prepared/prasna-upanisad/segments.jsonl (Advaita-Śāradā mūla  — All 5 Upaniṣad refs cited in the entry are located in the prepared segments (KU 1.2.5; MuU 1.2.8; MuU 2.1.10; PrU 6.8; KU 1.2.4-6). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U06-other-gitas, skeleton:U10-yoga, skeleton:U13-advaita, skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._

@@ -40,4 +40,4 @@ The repetition of a mantra received from a teacher — a seed syllable, the pra�
 _Notes: U05's contribution to a shared practice (moderate confidence on the Jāpaka details)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U05-gita-epic, skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U05-gita-epic, skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._

@@ -13,4 +13,4 @@ Serving and worshipping the teacher as the Lord in body, speech and mind; in the
   - [Adhyātma Rāmāyaṇa](../texts/adhyatma-ramayana.md) — ref: 3.4.32; 3.10.24; rests_on: ["tea:adhyatma-ramayana:3.4.31-44", "tea:adhyatma-ramayana:3.10.22-27"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._

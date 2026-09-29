@@ -1,6 +1,6 @@
 # The mantha rite
 
-`prc:mantha-rite` · `skeleton` · confidence moderate
+`prc:mantha-rite` · `sourced` · confidence moderate
 
 **Category:** ritual
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -15,4 +15,8 @@ A rite for one who desires greatness, performed after an observance, in which of
 - It should not be taught to anyone but a son or a pupil (BAU 6.3.12). — [Bṛhadāraṇyaka Upaniṣad](../texts/brhadaranyaka-upanisad.md) 6.3.12
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — Located: BĀU 6.3.1-13 and ChU 5.2.4-8. The warning 'nāputrāya vāntevāsine vā brūyāt' is at BĀU 6.3.12. Summary only, as the entry says. All 3 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 6.3; ChU 5.2.4-8; BĀU 6.3.12). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

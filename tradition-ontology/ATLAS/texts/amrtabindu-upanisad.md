@@ -83,4 +83,4 @@ _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced �
 _Notes: Titled Brahmabindu in this collection. Classed with the Yoga group by the editorial scheme though its content is Vedāntic. Some northern lists also give the name Amṛtabindu to the Amṛtanāda. Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

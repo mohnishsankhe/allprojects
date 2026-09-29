@@ -13,4 +13,4 @@ The deity Dharma, father of Yudhiṣṭhira; he tests his son as the Yakṣa at 
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 3.298.6-28, 17.3.19-20, 1.100.28 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._

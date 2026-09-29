@@ -35,4 +35,4 @@ _Notes: U03 (Upaniṣads) and U50 (causation) may record related disputes; this 
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/1_sam/1_rv/rgveda_mandala_10.md (GRETIL, Van Nooten–Holland/Aufrecht), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/4_upa/Chandogya-upanisad_Chandogyopanisad_mula-text.md — RV 10.72.2–3 (asataḥ sad ajāyata, twice) and 10.129.1, 4 located; Chāndogya 6.2 'katham asataḥ saj jāyeta' located. TU 2.7 not re-checked (standard).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._

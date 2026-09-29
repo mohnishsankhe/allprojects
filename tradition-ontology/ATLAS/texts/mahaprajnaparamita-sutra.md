@@ -5,7 +5,7 @@
 **Alternate titles:** Da banruo boluomiduo jing 大般若波羅蜜多經 (T220)
 **Language:** Chinese
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), `lin:faxiang`, `lin:chan`, `lin:tiantai`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), `lin:faxiang`, [Chan (Chinese Meditation school)](../lineages/chan.md), `lin:tiantai`
 **Genre:** sūtra collection
 **Authors:** 
   - [Xuanzang](../teachers/xuanzang.md) — role: translator; attribution: accepted
@@ -18,4 +18,4 @@ Xuanzang's Chinese translation (660-663) of sixteen Perfection of Wisdom texts i
 _Notes: T220 (vols. 5-7) not in the local CBETA subset._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

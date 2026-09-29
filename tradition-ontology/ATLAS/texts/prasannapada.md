@@ -31,7 +31,7 @@ For one who is a Mādhyamika it is not right to state an autonomous inference, b
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute_
 
-terms: `trm:svatantra-anumana`, `trm:prasanga` · concepts: `cpt:prasanga-method`, `cpt:no-thesis` · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: `dsp:prasangika-svatantrika`
+terms: [svatantra-anumāna](../terms/svatantra-anumana.md), [prasaṅga](../terms/prasanga.md) · concepts: [The method of consequences](../concepts/prasanga-method.md), [Having no thesis](../concepts/no-thesis.md) · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: `dsp:prasangika-svatantrika`
 
 ### 13.8 <a id="tea-prasannapada-13-8"></a>
 `skeleton` · confidence moderate
@@ -40,7 +40,7 @@ Emptiness is the escape from all views, not another view: one who, told 'I will 
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: all · types: practice, ultimate_
 
-concepts: `cpt:emptiness-not-a-view` · obstacles: `obs:sunyata-drsti` · teachers: [Candrakīrti](../teachers/candrakirti.md)
+concepts: [Emptiness is not a view](../concepts/emptiness-not-a-view.md) · obstacles: [Taking emptiness as a view](../obstacles/sunyata-drsti.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
 
 ### 17.30 <a id="tea-prasannapada-17-30"></a>
 `skeleton` · confidence high
@@ -49,7 +49,7 @@ We are not nihilists: rejecting both the doctrines of existence and of non-exist
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: all · types: dispute, karma-liberation_
 
-terms: [nāstika](../terms/nastika.md) · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: `dsp:madhyamaka-nihilism-charge`
+terms: [nāstika](../terms/nastika.md) · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: [Is the Madhyamaka a nihilism — does 'everything is empty' destroy karma, the path and the four truths?](../debates/madhyamaka-nihilism-charge.md)
 
 ### 18.6 <a id="tea-prasannapada-18-6"></a>
 `skeleton` · confidence moderate
@@ -67,7 +67,7 @@ Some object that the Mādhyamikas are no different from the nihilists, since the
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: all · types: dispute_
 
-terms: [nāstika](../terms/nastika.md) · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: `dsp:madhyamaka-nihilism-charge`
+terms: [nāstika](../terms/nastika.md) · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: [Is the Madhyamaka a nihilism — does 'everything is empty' destroy karma, the path and the four truths?](../debates/madhyamaka-nihilism-charge.md)
 
 ### 24.8 <a id="tea-prasannapada-24-8"></a>
 `skeleton` · confidence high
@@ -78,7 +78,7 @@ Saṃvṛti means total covering: ignorance is called saṃvṛti because it com
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate, sound-language_
 
-terms: `trm:samvrti-satya` · concepts: [The two truths (sūtra layer)](../concepts/two-truths.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
+terms: [saṃvṛti-satya](../terms/samvrti-satya.md) · concepts: [The two truths (satyadvaya)](../concepts/two-truths.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
 
 ### 24.18 <a id="tea-prasannapada-24-18"></a>
 `skeleton` · confidence high
@@ -89,8 +89,8 @@ The dependent origination that is the appearing of sprouts, consciousness and so
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: all · types: ultimate_
 
-concepts: `cpt:sunyata`, `cpt:upadaya-prajnapti`, [The middle way](../concepts/middle-way.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
+concepts: [Emptiness (śūnyatā) in Madhyamaka](../concepts/sunyata.md), [Dependent designation (upādāya prajñapti)](../concepts/upadaya-prajnapti.md), [The middle way](../concepts/middle-way.md) · teachers: [Candrakīrti](../teachers/candrakirti.md)
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._

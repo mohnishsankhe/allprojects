@@ -17,4 +17,4 @@
 - exact: [yoniso manasikāra](yoniso-manasikara.md) — Pali form (U36)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

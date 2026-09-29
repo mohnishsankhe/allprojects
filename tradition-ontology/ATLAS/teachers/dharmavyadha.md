@@ -16,4 +16,4 @@ A meat-seller who, living by his inherited work, serving his parents and speakin
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 3.197.41, 3.198.19, 3.205.1 — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._

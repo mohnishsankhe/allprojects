@@ -8,9 +8,9 @@
 **Works:** 
   - [Tshad ma rigs pa'i gter (Treasury of Reasoning)](../texts/tshad-ma-rigs-gter.md) — attribution: accepted
 
-Sakya hierarch whose Treasury of Reasoning re-established Dharmakīrti's anti-realism in Tibetan epistemology.
+Sakya hierarch whose Treasury of Reasoning re-established Dharmakīrti's denial of real universals in Tibetan epistemology.
 
 _Notes: Contribution of U41 (pramāṇa side); U47 owns._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

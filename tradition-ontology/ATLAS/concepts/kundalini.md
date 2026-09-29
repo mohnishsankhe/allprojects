@@ -25,4 +25,4 @@
 - leads-to → [The innate (sahaja)](sahaja.md) — rests on [4.10-12](../texts/hatha-yoga-pradipika.md#tea-hatha-yoga-pradipika-4-10-12)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U23-sakta-srividya, skeleton:U22-tamil-siddha, skeleton:U26-regional-bhakti, skeleton:U24-kali-kaula, skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U23-sakta-srividya, skeleton:U22-tamil-siddha, skeleton:U26-regional-bhakti, skeleton:U24-kali-kaula, skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._

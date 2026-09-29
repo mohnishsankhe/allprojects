@@ -14,4 +14,4 @@ Inactivity from heaviness of body and mind. One of the nine obstacles (1.30, YBh
   - [Dattātreyayogaśāstra](../texts/dattatreyayogasastra.md) — ref: 47; rests_on: ["tea:dattatreyayogasastra:47-48"]
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U28-hatha-texts. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U28-hatha-texts. Generated 2026-09-29 17:10 IST._

@@ -13,4 +13,4 @@ Rites of faith for the dead and the ancestors - ekoddiṣṭa for the preta, the
   - [Mārkaṇḍeya Purāṇa](../texts/markandeya-purana.md) — ref: 30-33
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._

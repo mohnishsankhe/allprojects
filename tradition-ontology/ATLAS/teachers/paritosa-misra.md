@@ -10,4 +10,4 @@
 Author of the Ajitā commentary on the Tantravārttika.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:10 IST._

@@ -15,4 +15,4 @@ Equal toward enemy and friend, equal in honour and dishonour - knowing [this] be
 _Notes: Verses 125 (KSTS 8 / GRETIL numbering)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._

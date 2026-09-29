@@ -14,4 +14,4 @@
 Kassapa's manual-commentary on the mātikās of the Abhidhamma books ('Dispeller of Delusion').
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._

@@ -1,6 +1,6 @@
 # Yoga of the inner self (Kaṭha)
 
-`prc:adhyatma-yoga` · `skeleton` · confidence high
+`prc:adhyatma-yoga` · `sourced` · confidence high
 
 **Category:** meditation
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -17,4 +17,8 @@ Realize the hidden god in the cave by the yoga of the inner self (KU 1.2.12); tu
 - One who has not ceased from bad conduct, is not calm or collected cannot attain it (KU 1.2.24). — [Katha Upaniṣad](../texts/katha-upanisad.md) 1.2.24
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse) — All 8 Upaniṣad refs cited in the entry are located in the prepared segments (KU 1.2.12; KU 2.3.10; KU 2.3.11; KU 1.2.24; KU 1.3.13; KU 2.1.1; KU 2.3.10-11; KU 2.3.17). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

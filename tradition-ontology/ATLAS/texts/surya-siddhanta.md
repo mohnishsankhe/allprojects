@@ -145,4 +145,4 @@ concepts: [The measures of time](../concepts/measures-of-time.md)
 _Notes: Commentaries: Raṅganātha's Gūḍhārthaprakāśa (1603), Parameśvara, Kamalākara. Local e-text: GRETIL suryasiddhanta._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._

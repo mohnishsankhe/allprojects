@@ -13,4 +13,4 @@ Make pleasure and pain, gain and loss, victory and defeat the same, and then act
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 2.15, 2.38, 2.48; rests_on: ["tea:bhagavad-gita:2.15", "tea:bhagavad-gita:2.38", "tea:bhagavad-gita:2.48"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 16:38 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:10 IST._

@@ -6,7 +6,7 @@
 **Alternate names:** Dhānvantarīyas, śalya tradition, the school of Divodāsa
 **Parent:** [Āyurveda](ayurveda.md)
 **Founders:** [Dhanvantari (Divodāsa, king of Kāśī)](../teachers/dhanvantari.md)
-**Key teachers:** [Dhanvantari (Divodāsa, king of Kāśī)](../teachers/dhanvantari.md), [Suśruta](../teachers/susruta.md), [Aupadhenava](../teachers/aupadhenava.md), [Vaitaraṇa](../teachers/vaitarana.md), [Aurabhra](../teachers/aurabhra.md), [Pauṣkalāvata](../teachers/pauskalavata.md), [Karavīrya](../teachers/karavirya.md), [Gopurarakṣita](../teachers/gopuraraksita.md), [Nāgārjuna (the siddha, alchemist and physician)](../teachers/nagarjuna-siddha.md), [Ḍalhaṇa](../teachers/dalhana.md)
+**Key teachers:** [Dhanvantari (Divodāsa, king of Kāśī)](../teachers/dhanvantari.md), [Suśruta](../teachers/susruta.md), [Aupadhenava](../teachers/aupadhenava.md), [Vaitaraṇa](../teachers/vaitarana.md), [Aurabhra](../teachers/aurabhra.md), [Pauṣkalāvata](../teachers/pauskalavata.md), [Karavīrya](../teachers/karavirya.md), [Gopurarakṣita](../teachers/gopuraraksita.md), [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md), [Ḍalhaṇa](../teachers/dalhana.md)
 **Status:** absorbed
 
 The lineage of Dhanvantari, born as King Divodāsa of Kāśī, who taught Suśruta and his fellow students with surgery as the root (Su Sū 1.3-21). Caraka names its specialists 'the Dhānvantarīyas' (Ca Ci 5.44, 5.63).
@@ -21,7 +21,7 @@ The lineage of Dhanvantari, born as King Divodāsa of Kāśī, who taught Suśru
 [Bhānumatī](../texts/bhanumati.md), [Nibandhasaṅgraha](../texts/nibandha-sangraha.md), [Nyāyacandrikā (Pañjikā)](../texts/nyayacandrika-gayadasa.md), [Suśruta Saṃhitā](../texts/susruta-samhita.md)
 
 ## Teachers
-[Aupadhenava](../teachers/aupadhenava.md), [Aurabhra](../teachers/aurabhra.md), [Ḍalhaṇa](../teachers/dalhana.md), [Dhanvantari (Divodāsa, king of Kāśī)](../teachers/dhanvantari.md), [Gayadāsa](../teachers/gayadasa.md), [Gopurarakṣita](../teachers/gopuraraksita.md), [Karavīrya](../teachers/karavirya.md), [Nāgārjuna (the siddha, alchemist and physician)](../teachers/nagarjuna-siddha.md), [Pauṣkalāvata](../teachers/pauskalavata.md), [Suśruta](../teachers/susruta.md), [Vaitaraṇa](../teachers/vaitarana.md)
+[Aupadhenava](../teachers/aupadhenava.md), [Aurabhra](../teachers/aurabhra.md), [Ḍalhaṇa](../teachers/dalhana.md), [Dhanvantari (Divodāsa, king of Kāśī)](../teachers/dhanvantari.md), [Gayadāsa](../teachers/gayadasa.md), [Gopurarakṣita](../teachers/gopuraraksita.md), [Karavīrya](../teachers/karavirya.md), [Nāgārjuna (the siddha)](../teachers/nagarjuna-siddha.md), [Pauṣkalāvata](../teachers/pauskalavata.md), [Suśruta](../teachers/susruta.md), [Vaitaraṇa](../teachers/vaitarana.md)
 
 ## Practices
 [Bloodletting (raktamokṣaṇa)](../practices/raktamoksana.md)
@@ -33,4 +33,4 @@ _none recorded_
 _none recorded_
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._

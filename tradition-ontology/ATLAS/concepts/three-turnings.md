@@ -10,8 +10,11 @@
 ## Definitions
 - [Mahāyāna](../lineages/mahayana.md): Saṃdhinirmocana ch. 7: the four truths (first), naturelessness taught in a hidden manner (second), and naturelessness well distinguished (third, definitive).
 - [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md): In Tibetan buddha-nature traditions the tathāgatagarbha sūtras and RGV are counted as the third turning.
+- [Yogācāra](../lineages/yogacara.md): The Saṃdhinirmocana classifies the teaching as three turnings, the third — distinguishing the three natures — being definitive.
 
 ## Relations (interpretation layer)
 
+_Notes: Shared id (U39)._
+
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

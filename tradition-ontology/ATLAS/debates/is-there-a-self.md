@@ -29,4 +29,4 @@ A self distinct from the body exists: consciousness is absent in the corpse.
 _Notes: U33 contribution (śramaṇa and Lokāyata sides); U50 owns the dispute._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._

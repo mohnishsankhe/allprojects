@@ -28,9 +28,9 @@ _none recorded_
 _none recorded_
 
 ## Debates
-_none recorded_
+[Are the images (ākāra) appearing in cognition real or false?](../debates/sakara-nirakara.md)
 
 _Notes: The division into 'true' and 'false' aspect is partly a later doxographic construction (Tibetan grub mtha'); Indian authors use sākāra/nirākāra with shifting meanings. Membership lists are the doxographers'._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

@@ -14,4 +14,4 @@
 - contrasts-with → [The six perfections](six-paramitas.md): the Mahāyāna six (and ten) pāramitās overlap but differ in members — rests on [2.52-2.75](../texts/buddhavamsa.md#tea-buddhavamsa-2-52-2-75), [2.116-2.165](../texts/buddhavamsa.md#tea-buddhavamsa-2-116-2-165)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

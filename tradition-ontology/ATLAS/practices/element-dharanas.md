@@ -24,4 +24,4 @@ The breath is held with the mind for a set period (not reproduced) in the place 
 - They are not to be given to the deceitful or those without devotion. — [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) 3.79
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

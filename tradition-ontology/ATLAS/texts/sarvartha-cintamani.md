@@ -13,4 +13,4 @@
 Veṅkaṭeśa Daivajña's horā work, much used in South India, especially on periods and house results.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._

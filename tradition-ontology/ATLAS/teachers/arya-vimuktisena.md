@@ -12,4 +12,4 @@
 Earliest known commentator on the Abhisamayālaṃkāra.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

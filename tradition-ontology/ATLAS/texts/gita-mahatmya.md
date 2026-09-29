@@ -20,4 +20,4 @@ _Notes: Location recalled, not checked (low). Other Gītā-māhātmyas (e.g. in 
 
 - 2026-09-29 websearch: confirmed — https://www.wisdomlib.org/hinduism/book/the-bhagavad-gita-mahatmya, https://en.wikipedia.org/wiki/Padma_Purana — Least-sure item: location confirmed — the Gītāmāhātmya is in the Uttarakhaṇḍa of the Padma Purāṇa, 18 chapters (one per Gītā chapter), told as a Śiva–Pārvatī dialogue.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:10 IST._

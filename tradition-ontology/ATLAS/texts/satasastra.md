@@ -15,7 +15,7 @@
 
 The 'Hundred Treatise' ascribed to Āryadeva, with the commentary of Vasu, translated by Kumārajīva (404 CE): a refutation of the Sāṃkhya and Vaiśeṣika doctrines of self, causation and the reality of effects, ending in the emptiness of all; one of the three treatises of Sanlun.
 **Editions / translations:** 
-  - kind: translation; name: Taishō T1569
+  - kind: translation; name: Taishō T1569 — catalog:CBETA:T30n1569
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

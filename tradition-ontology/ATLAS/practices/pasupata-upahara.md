@@ -20,4 +20,4 @@ Kneeling south of the image after the ash-bath, the practitioner mutters, then l
 _Notes: The Ratnaṭīkā classes muttering and prostration as mental, dance as bodily, and laughter, song and the ḍuṇḍuṅ sound as vocal._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:10 IST._

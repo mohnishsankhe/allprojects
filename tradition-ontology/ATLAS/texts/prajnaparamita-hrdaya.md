@@ -6,7 +6,7 @@
 **Original title:** प्रज्ञापारमिताहृदय
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), `lin:chan`, `lin:zen`, `lin:seon`, `lin:vajrayana`, `lin:tiantai`, `lin:shingon`, `lin:pure-land`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Madhyamaka](../lineages/madhyamaka.md), [Chan (Chinese Meditation school)](../lineages/chan.md), [Zen (Japanese Chan)](../lineages/zen.md), [Seon (Korean Chan)](../lineages/seon.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md), `lin:tiantai`, `lin:shingon`, [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md)
 **Genre:** sūtra (prajñāpāramitā; dhāraṇī/mantra)
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana); spoken by Avalokiteśvara to Śāriputra with the Buddha's approval (long version); scholarly: Anonymous; the core passage parallels the Pañcaviṃśati. A scholarly hypothesis (J. Nattier 1992) holds the short Sanskrit to be a back-translation of a Chinese digest (7th c.); contested; confidence: disputed
 **Dates:** Tradition's account: the Buddha's lifetime, on the Vulture Peak (long version); Scholarly account: attested in Chinese from the 7th c. (T251, 649); Sanskrit Hōryūji palm leaves (date disputed); (confidence low)
@@ -61,7 +61,7 @@ Here, Śāriputra, form is emptiness and emptiness is form; emptiness is not oth
 
 _level: bridging · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [śūnyatā](../terms/sunyata.md), [rūpa](../terms/rupa.md) · concepts: [Emptiness in the Perfection of Wisdom sūtras](../concepts/emptiness-prajnaparamita.md), [The two truths (sūtra layer)](../concepts/two-truths.md) · teachers: [Avalokiteśvara](../teachers/avalokitesvara.md), [Sāriputta](../teachers/sariputta.md) · disputes: `dsp:world-real-or-appearance`
+terms: [śūnyatā](../terms/sunyata.md), [rūpa](../terms/rupa.md) · concepts: [Emptiness in the Perfection of Wisdom sūtras](../concepts/emptiness-prajnaparamita.md), [The two truths (satyadvaya)](../concepts/two-truths.md) · teachers: [Avalokiteśvara](../teachers/avalokitesvara.md), [Sāriputta](../teachers/sariputta.md) · disputes: `dsp:world-real-or-appearance`
 
 ### s6 <a id="tea-prajnaparamita-hrdaya-s6"></a>
 `skeleton` · confidence high
@@ -111,4 +111,4 @@ terms: [mantra](../terms/mantra.md), [vidyā](../terms/vidya.md) · concepts: [D
 _Notes: Locator: s1-s10 = sentences of the local shorter-recension e-text (sources_raw/prepared/prajnaparamita-hrdaya-sanskrit-short); long.N = the longer recension._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

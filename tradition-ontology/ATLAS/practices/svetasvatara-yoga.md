@@ -1,6 +1,6 @@
 # The yoga of the Śvetāśvatara (posture, breath, place)
 
-`prc:svetasvatara-yoga` · `skeleton` · confidence high
+`prc:svetasvatara-yoga` · `sourced` · confidence high
 
 **Category:** meditation
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -17,4 +17,8 @@ Hold the body steady with chest, neck and head erect; draw the senses with the m
 - The breath is to be let out gently through the nose when diminished (ŚU 2.9). — [Śvetāśvatara Upaniṣad](../texts/svetasvatara-upanisad.md) 2.9
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — All 6 Upaniṣad refs cited in the entry are located in the prepared segments (ŚU 2; ŚU 2.1-7; ŚU 2.11-13; ŚU 2.10; ŚU 2.9; ŚU 2.8-15). It rests on 7 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

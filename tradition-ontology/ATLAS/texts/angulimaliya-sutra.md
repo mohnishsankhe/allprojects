@@ -21,8 +21,8 @@ Aṅgulimāla, converted, instructs the great disciples: the one refuge is the T
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [mahātman](../terms/mahatman.md) · concepts: [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md) · disputes: `dsp:buddha-nature-self-or-emptiness`
+terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [mahātman](../terms/mahatman.md) · concepts: [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md)
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

@@ -30,4 +30,4 @@ concepts: [The five hindrances](../concepts/five-hindrances.md) · obstacles: [T
 _Notes: SuttaCentral uid sn46.55; Mahāsaṅgīti title 'Saṅgāravasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

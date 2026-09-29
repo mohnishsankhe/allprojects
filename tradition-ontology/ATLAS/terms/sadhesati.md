@@ -15,4 +15,4 @@
 _Notes: Rests on the transit teaching (BS 103: Saturn good only in the 3rd, 6th and 11th from the Moon); the name is vernacular._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._

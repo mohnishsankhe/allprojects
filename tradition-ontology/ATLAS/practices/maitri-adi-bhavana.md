@@ -16,4 +16,4 @@ Cultivating friendliness to all beings ('may no one do evil, may no one suffer, 
 - partial: [Cultivating the four attitudes (maitrī, karuṇā, muditā, upekṣā)](four-attitudes.md) — Same four attitudes as Yoga Sūtra 1.33 with different objects.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._

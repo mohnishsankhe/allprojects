@@ -30,7 +30,7 @@ The consciousness-aggregate is mind, mentation and consciousness; mind (citta) i
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: `trm:alaya-vijnana`, [ādānavijñāna](../terms/adana-vijnana.md), `trm:klista-manas` · concepts: `cpt:alaya-vijnana`, `cpt:klista-manas` · teachers: [Asaṅga](../teachers/asanga.md)
+terms: [ālaya-vijñāna](../terms/alaya-vijnana.md), [ādāna-vijñāna](../terms/adana-vijnana.md), [kliṣṭa-manas](../terms/klista-manas.md) · concepts: [The store-consciousness (ālaya-vijñāna)](../concepts/alaya-vijnana.md), [The afflicted mind (kliṣṭa-manas)](../concepts/klista-manas.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 2.1.five-paths <a id="tea-abhidharmasamuccaya-2-1-five-paths"></a>
 `skeleton` · confidence high
@@ -41,8 +41,8 @@ The path is fivefold: the path of accumulation, the path of preparation, the pat
 
 _level: conventional · standpoint: analytic · path: general · stage: all (pañca-mārga) · types: practice, karma-liberation_
 
-terms: `trm:sambhara-marga`, `trm:prayoga-marga`, `trm:darsana-marga`, `trm:bhavana-marga`, `trm:nistha-marga` · concepts: `cpt:five-paths-yogacara` · teachers: [Asaṅga](../teachers/asanga.md)
+terms: [saṃbhāra-mārga](../terms/sambhara-marga.md), [prayoga-mārga](../terms/prayoga-marga.md), [darśana-mārga](../terms/darsana-marga.md), [bhāvanā-mārga](../terms/bhavana-marga.md), [niṣṭhā-mārga](../terms/nistha-marga.md) · concepts: [The five paths (Yogācāra presentation)](../concepts/five-paths-yogacara.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

@@ -14,4 +14,4 @@
 A short manual of Nyāya attributed to Jayanta Bhaṭṭa.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:10 IST._

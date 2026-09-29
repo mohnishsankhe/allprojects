@@ -1,6 +1,6 @@
 # Kena Upaniṣad
 
-`src:kena-upanisad` · `skeleton` · confidence high
+`src:kena-upanisad` · `sourced` · confidence high
 
 **Alternate titles:** Talavakāra Upaniṣad, Kenesita Upaniṣad
 **Original title:** केनोपनिषद्
@@ -23,10 +23,10 @@ By whom is the mind impelled? Brahman is the ear of the ear and mind of the mind
   - kind: translation; name: Swami Paramananda, The Upanishads (Isa, Katha, Kena), Project Gutenberg #3283; licence: public domain; url: https://www.gutenberg.org/ebooks/3283
 **Commentaries on this text:** [Talavakāropaniṣad-bhāṣya (Madhva)](kena-upanisad-bhasya-madhva.md), [Kenopaniṣadbhāṣya of Śaṅkara (pada- and vākya-bhāṣya)](kena-upanisad-bhasya-sankara.md)
 
-## Teachings (12: skeleton 12)
+## Teachings (12: sourced 12)
 
 ### 1.1-2 <a id="tea-kena-upanisad-1-1-2"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Impelled by whom does the mind fly forth? Yoked by whom does the first breath go forth? By whom impelled do people speak this speech? What god yokes the eye and ear? It is the ear of the ear, the mind of the mind, the speech of speech, the breath of breath, the eye of the eye; freed from these, the wise, departing from this world, become immortal.
 
@@ -35,7 +35,7 @@ _level: ultimate · standpoint: seeker · path: knowledge · stage: intermediate
 concepts: [The witness (sākṣin)](../concepts/saksin.md)
 
 ### 1.3-4 <a id="tea-kena-upanisad-1-3-4"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The eye does not go there, nor speech, nor the mind; we do not know, we do not understand how one could teach it. It is other than the known and beyond the unknown — so we have heard from the ancients who explained it to us.
 
@@ -44,7 +44,7 @@ _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced 
 concepts: ['Not so, not so' (neti neti)](../concepts/neti-neti.md)
 
 ### 1.5-9 <a id="tea-kena-upanisad-1-5-9"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 That which is not expressed by speech but by which speech is expressed — know that alone to be brahman, not this that people venerate here. Likewise that which one does not think with the mind but by which the mind is thought; which one does not see with the eye but by which the eyes see; which one does not hear with the ear; which one does not breathe with breath but by which breath is led.
 
@@ -55,14 +55,14 @@ _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced 
 terms: [brahman](../terms/brahman.md), [upāsanā](../terms/upasana.md) · concepts: ['Not so, not so' (neti neti)](../concepts/neti-neti.md), [The witness (sākṣin)](../concepts/saksin.md)
 
 ### 2.1-2 <a id="tea-kena-upanisad-2-1-2"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 If you think 'I know it well', you know very little of brahman's form, in yourself and among the gods; so you must inquire. 'I do not think I know it well; nor do I think I do not know it; whoever of us knows it knows it, and he does not know that he does not know.'
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate_
 
 ### 2.3 <a id="tea-kena-upanisad-2-3"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 It is known by the one to whom it is unknown; the one to whom it is known does not know it. It is not understood by those who understand; it is understood by those who do not understand.
 
@@ -73,7 +73,7 @@ _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced 
 concepts: ['Not so, not so' (neti neti)](../concepts/neti-neti.md)
 
 ### 2.4 <a id="tea-kena-upanisad-2-4"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 When it is known through each awakening (pratibodha), it is truly known, for one gains immortality. Through the self one gains strength; through knowledge one gains immortality.
 
@@ -82,7 +82,7 @@ _level: ultimate · standpoint: experiential · path: knowledge · stage: advanc
 terms: [pratibodha](../terms/pratibodha.md), [amṛtatva](../terms/amrtatva.md) · concepts: [The witness (sākṣin)](../concepts/saksin.md)
 
 ### 2.5 <a id="tea-kena-upanisad-2-5"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 If one has known it here, there is truth; if one has not known it here, there is great loss. Discerning it in all beings, the wise, departing from this world, become immortal.
 
@@ -91,7 +91,7 @@ _level: bridging · standpoint: seeker · path: knowledge · stage: all · types
 terms: [dhīra](../terms/dhira.md) · concepts: [Liberation while living (jīvanmukti)](../concepts/jivanmukti.md)
 
 ### 3.1-12 <a id="tea-kena-upanisad-3-1-12"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Brahman won a victory for the gods, and the gods exulted, thinking it their own victory and greatness. It appeared before them as a wondrous being (yakṣa) they did not recognize. Agni (Jātavedas), sent to find out, could not burn a blade of grass it set before him; Vāyu (Mātariśvan) could not carry it off; when Indra approached, it vanished, and in that same space he came upon a very beautiful woman, Umā Haimavatī, and asked her 'what is this yakṣa?'
 
@@ -100,7 +100,7 @@ _level: conventional · standpoint: cosmic · path: knowledge · stage: all · t
 terms: [yakṣa](../terms/yaksa.md) · obstacles: [Pride of the gods](../obstacles/abhimana.md) · teachers: [Indra (as student and teacher)](../teachers/indra.md), [Umā Haimavatī](../teachers/uma-haimavati.md)
 
 ### 4.1-3 <a id="tea-kena-upanisad-4-1-3"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 She said: 'It is brahman; it is in brahman's victory that you were exulting.' Then Indra knew that it was brahman. Therefore Agni, Vāyu and Indra excel the other gods, for they came nearest to it; and Indra excels them all, for he first knew it as brahman.
 
@@ -109,7 +109,7 @@ _level: conventional · standpoint: cosmic · path: knowledge · stage: all · t
 teachers: [Umā Haimavatī](../teachers/uma-haimavati.md), [Indra (as student and teacher)](../teachers/indra.md)
 
 ### 4.4-5 <a id="tea-kena-upanisad-4-4-5"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Its teaching (ādeśa), with respect to the gods: that which flashed forth in the lightning — 'ah!' — and made one blink — 'ah!'. With respect to the self: that toward which the mind seems to go, and by which it constantly remembers — intention.
 
@@ -118,7 +118,7 @@ _level: ultimate · standpoint: experiential · path: meditation, knowledge · s
 terms: [ādeś](../terms/adesa.md), [adhyātma](../terms/adhyatma.md), [adhidaivata](../terms/adhidaivata.md), [saṅkalpa](../terms/sankalpa.md)
 
 ### 4.6 <a id="tea-kena-upanisad-4-6"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 It is called 'tadvana' and should be venerated as 'tadvana'; all beings long for one who knows it thus.
 
@@ -127,7 +127,7 @@ _level: conventional · standpoint: seeker · path: meditation · stage: interme
 terms: [tadvana](../terms/tadvana.md), [upāsanā](../terms/upasana.md)
 
 ### 4.7-9 <a id="tea-kena-upanisad-4-7-9"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 'Tell me the secret teaching (upaniṣad).' 'The secret teaching has been told you — the secret teaching about brahman.' Austerity, restraint and work are its foundation; the Vedas are all its limbs; truth is its abode. Whoever knows it thus strikes off evil and stands firm in the endless, highest heavenly world.
 
@@ -139,4 +139,8 @@ terms: [upaniṣad](../terms/upanisad.md), [tapas](../terms/tapas.md), [dama](..
 _Notes: Śaṅkara wrote two commentaries on it (pada-bhasya and vakya-bhasya). Veda affiliation: Sāmaveda, Jaiminīya (Talavakāra) śākhā_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:eBharati:kenopaniShat, catalog:raw_etexts:Kena_pada, text:sources_raw/dcs/dcs/data/conllu/files/Jaiminīya-Upaniṣad-Brāhmaṇa/ (DCS; JUB 4.18 opens 'kena iṣitam patati', 4.21 'brahmeti hovāca'), text:sources_raw/raw_etexts/vedaH/sAma/jaiminIyam/brAhmaNam/jaiminiya-upaniShad-brAhmaNam/04/10.md  — Location confirmed locally: DCS JUB 4.18 opens 'kena iṣitam patati preṣitam manaḥ' and 4.21 has Umā's 'brahmeti hovāca'. In the raw_etexts JUB the Kena is book 04, anuvāka 10. Structure (9+5 verses, 12+9 prose sections) matches the prepared text, and the two Śaṅkara commentaries (pada, vākya) are both in the Advaita-Śāradā files. Dating: Olivelle places the Kena as the oldest verse Upaniṣad, in the last few centuries BCE, and other accounts date it earlier. The entry's -500/-300 (low) is not clearly contradicted.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

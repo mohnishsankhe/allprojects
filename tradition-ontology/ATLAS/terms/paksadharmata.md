@@ -8,10 +8,12 @@
 
 ## Definitions by tradition
 - [Navya-Nyāya](../lineages/navya-nyaya.md): The probans's occurring in the mountain etc.
+- [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md): The first characteristic of a reason: its presence in the subject of inference.
 
 ## Forms in other languages
+- Tibetan: phyogs chos  — exact
 
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

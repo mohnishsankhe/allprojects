@@ -82,4 +82,4 @@ concepts: [The rasa-sÅ«tra and its interpretations](../concepts/rasa-sutra.md) Â
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._

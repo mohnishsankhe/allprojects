@@ -15,4 +15,4 @@ Blaspheming devotees; regarding Śiva's names and qualities as independent of Vi
   - [Kīrtana-ghoṣā](../texts/kirtana-ghosa.md) — ref: Nāmāparādha; rests_on: ["tea:kirtana-ghosa:namaparadha"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U07-puranas, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._

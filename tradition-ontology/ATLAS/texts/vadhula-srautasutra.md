@@ -15,4 +15,4 @@ The Śrauta manual of the Vādhūla school of the Black Yajurveda, preserved in 
 
 - 2026-09-28 websearch: confirmed — https://archive.org/details/VadhulaAnvakhyanaBrahmana, https://www.academia.edu/41662879/On_the_Grhyasutra_of_the_Vadhula_School — Low-confidence entry confirmed. The Vādhūla Śrautasūtra survives in Kerala manuscripts together with the Anvākhyāna and a Gṛhyasūtra; Caland published extracts, and a Hoshiarpur edition appeared in 1993. The local Vādhūla Gṛhyasūtra copy is in raw_etexts.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:10 IST._

@@ -27,20 +27,26 @@
 - [Vīraśaiva / Liṅgāyata](../lineages/virasaiva.md): The eternal self, distinct from body, senses and intellect, known through the I-cognition and memory (SSM 5.55–60); dwelling in the heart like the hundredth part of a hair-tip, shining like a lamp (18.5–7).
 - [Mahāyāna](../lineages/mahayana.md): The sūtras deny the self of persons and dharmas (Vajracchedikā 25); the Mahāparinirvāṇa calls the tathāgatagarbha 'self'; the Laṅkāvatāra says this is not the self of the tīrthikas.
 - [Spanda (the doctrine of vibration)](../lineages/spanda.md): The self is consciousness (Śiva Sūtra 1.1); the bound self is the mind (3.1); the self is a dancer (3.9).
+- [Yogācāra](../lineages/yogacara.md): Only a figurative designation on the transformation of consciousness; the afflicted mind mistakes the store-consciousness for it.
+- [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md): A permanent self is refuted: nothing permanent can be causally efficacious; seeing a self is the root of attachment and all faults.
 - [Jainism (Jaina dharma)](../lineages/jainism.md): In Jainism the soul (jīva) as knower; each is distinct and eternal, of three conditions (outer, inner, supreme) (Samādhitantra 4); 'the self conquered by passions is saṃsāra, the self that conquers them is liberation' (YŚ 4.5).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): U04 usage: the Self in the body-temple, identical with Brahman; threefold as outer, inner and supreme self in the Ātma Upaniṣad.
+- [Madhyamaka](../lineages/madhyamaka.md): The self is neither the aggregates nor other than them (MMK 18.1); neither other than the appropriated nor identical with it (27.8); it is designated in dependence, like fire on fuel (10.15); the Buddhas taught self, no-self and neither (18.6).
+- [Prāsaṅgika-Madhyamaka](../lineages/prasangika.md): Sought in seven ways like a chariot, the self is not found; it is a mere designation on the aggregates (MA 6.151ff).
 
 ## Forms in other languages
 - Pali: attā  — partial — the Buddhist texts deny a permanent attā; same word, opposed doctrine
 - Chinese: wo 我  — exact
 - Prakrit: appā / āyā  — exact
+- Tibetan: bdag  — exact
+- Chinese: 我 wo  — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [brahman](brahman.md), [puruṣa](purusa.md), [jīva](jiva.md), [dehin](dehin.md), [kṣetrajña](ksetrajna.md), [paramātman](paramatman.md), [śarīrin](saririn.md), [buddhi](buddhi.md), [ātmarati](atmarati.md), [sākṣin](saksin.md)
+**Related:** [brahman](brahman.md), [puruṣa](purusa.md), [jīva](jiva.md), [dehin](dehin.md), [kṣetrajña](ksetrajna.md), [paramātman](paramatman.md), [śarīrin](saririn.md), [buddhi](buddhi.md), [ātmarati](atmarati.md), [sākṣin](saksin.md), [nairātmya](nairatmya.md), [pudgala](pudgala.md), [ahaṃkāra](ahamkara.md)
 
 ---
 **Verification checks**
 
 - 2026-09-29 text: corrected — tea:bhagavad-gita:6.5, tea:bhagavad-gita:6.6, tea:bhagavad-gita:4.35, tea:bhagavad-gita:6.29, tea:bhagavad-gita:6.18, tea:bhagavad-gita:6.25, tea:bhagavad-gita:6.20, tea:bhagavad-gita:5.7, tea:bhagavad-gita:5.21 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa, skeleton:U20-virasaiva, skeleton:U39-mahayana-sutras, skeleton:U19-kashmir-saivism, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa, skeleton:U20-virasaiva, skeleton:U39-mahayana-sutras, skeleton:U19-kashmir-saivism, skeleton:U41-yogacara-pramana, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

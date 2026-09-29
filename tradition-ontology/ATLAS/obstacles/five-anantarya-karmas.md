@@ -12,4 +12,4 @@ Killing mother, father or an arhat, dividing the Saṅgha, wounding a Buddha wit
   - [Abhidharmakośa (Abhidharmakośakārikā)](../texts/abhidharmakosa.md) — ref: 4.96; rests_on: ["tea:abhidharmakosa:4.96", "tea:abhidharmakosa:4.105"]
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

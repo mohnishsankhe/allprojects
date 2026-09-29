@@ -17,5 +17,6 @@ _Notes: The same teaching appears in Śatapatha Brāhmaṇa 10.6.3 (moderate). L
 **Verification checks**
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB, kāṇḍas 1–11, 13–14), text:sources_raw/prepared/chandogya-upanisad — Text-located: the Śāṇḍilya-vidyā at ŚB 10.6.3.1–2 (= ChU 3.14), and Śāṇḍilya in the Agnicayana vaṃśa at ŚB 10.6.5.9.
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (GRETIL Mādhyandina ŚB) — Located: ChU 3.14.4 ('iti ha smāha śāṇḍilyaḥ'). The note's parallel ŚB 10.6.3 is confirmed in the GRETIL Mādhyandina ŚB: 10.6.3.1-2 has 'satyaṃ brahmety upāsīta … kratumayo 'yaṃ puruṣaḥ … manomayaṃ prāṇaśarīraṃ bhārūpam …'.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U25-alvar-bhakti-theory, skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga, skeleton:U08-agama-catalogue. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U25-alvar-bhakti-theory, skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga, skeleton:U08-agama-catalogue. Generated 2026-09-29 17:10 IST._

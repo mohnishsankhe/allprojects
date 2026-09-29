@@ -8,6 +8,7 @@
 
 ## Definitions by tradition
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: The embodied one is called unmanifest (2.25); beings have an unmanifest beginning and end and are manifest only in the middle (2.28).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 7–9: used in three connected ways: (a) the Lord: the unintelligent think of him as unmanifest come into manifestation (7.24), and his unmanifest form pervades all this (9.4); (b) the cosmic unmanifest from which manifest things come forth at the coming of Brahmā's day and into which they dissolve at night (8.18); (c) another, eternal unmanifest beyond that one, which does not perish when beings perish, called the imperishable, the supreme goal, the Lord's supreme abode (8.20–21).
 - [Sāṃkhya](../lineages/samkhya.md): Prakṛti in its unmanifest state: uncaused, eternal, pervasive, inactive, one, unsupported, non-merging, partless and independent — the opposite of the manifest (SK 10) — and known through its effects (SK 8, 14–16).
 - [Āyurveda](../lineages/ayurveda.md): Lineage contribution (Āyurveda): in Caraka the self as knower of the field, and one of the eightfold prakṛti (Śā 1.61-63); in Suśruta the uncaused cause of all beings, threefold in guṇas, support of many knowers of the field (Su Śā 1.3).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The unmanifest: higher than the great self, below the person (KU 1.3.11, 2.3.8).
@@ -18,9 +19,13 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [acintya](acintya.md), [vyakta](vyakta.md), [prakṛti](prakrti.md)
+**Related:** [acintya](acintya.md), [vyakti](vyakti.md), [akṣara](aksara.md), [pralaya](pralaya.md), [vyakta](vyakta.md), [prakṛti](prakrti.md)
 
 _Notes: Whether this is the Sāṃkhya pradhāna is debated (Brahma Sūtra 1.4.1)._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U09-samkhya, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text: corrected — tea:bhagavad-gita:7.24, tea:bhagavad-gita:8.18, tea:bhagavad-gita:8.20, tea:bhagavad-gita:8.21, tea:bhagavad-gita:9.4 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
+
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, skeleton:U09-samkhya, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U13-advaita. Generated 2026-09-29 17:10 IST._

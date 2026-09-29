@@ -24,4 +24,4 @@ terms: [mañjarī-bhāva](../terms/manjari-bhava.md) · concepts: [The maidserva
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._

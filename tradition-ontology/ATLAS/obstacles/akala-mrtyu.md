@@ -12,4 +12,4 @@ Life ending before its measure through exertion beyond strength, wrong eating, e
   - [Caraka Saṃhitā](../texts/caraka-samhita.md) — ref: Vi 3.38; rests_on: ["tea:caraka-samhita:vi.3.38", "tea:caraka-samhita:sa.6.28"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._

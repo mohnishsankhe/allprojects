@@ -1,6 +1,6 @@
 # The five elements (mahābhūta)
 
-`cpt:five-elements` · `skeleton` · confidence high
+`cpt:five-elements` · `sourced` · confidence high
 
 **Category:** matter-qualities
 **Members:** ākāśa, vāyu, tejas, ap, pṛthivī
@@ -17,4 +17,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U30-ayurveda-rasa, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/aitareya-upanisad/segments.jsonl (Advaita-Śāradā mūla Aitareya.md, adhyāya.khaṇḍa.verse), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl  — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (TU 2.1; AU 3.1.3; ŚU 2.12; ChU 6). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U30-ayurveda-rasa, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._

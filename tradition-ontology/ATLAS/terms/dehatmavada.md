@@ -16,4 +16,4 @@
 _Notes: Sadānanda's Vedāntasāra (tea:vedantasara:refutation) distinguishes Cārvākas who take the gross body, the senses, the breath or the mind as self._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._

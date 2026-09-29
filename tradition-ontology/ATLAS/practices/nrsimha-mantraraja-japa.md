@@ -12,4 +12,4 @@ The anuṣṭubh 'king of mantras' of Narasiṃha, by which Prajāpati creates (
   - [Avyakta Upaniṣad](../texts/avyakta-upanisad.md) — ref: 2-7 (summary); rests_on: ["tea:avyakta-upanisad:2-7-summary"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

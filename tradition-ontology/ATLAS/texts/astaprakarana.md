@@ -17,4 +17,4 @@ The 'eight treatises' — the canon of short doctrinal works of the Siddhānta: 
 _Notes: Correction to the unit brief: 'Aghoraśiva (Aṣṭaprakaraṇa commentaries)' — he commented on six of the eight, not all._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._

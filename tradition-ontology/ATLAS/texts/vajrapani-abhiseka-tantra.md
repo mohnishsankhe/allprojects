@@ -1,0 +1,18 @@
+# Vajrapāṇyabhiṣeka Mahātantra
+
+`src:vajrapani-abhiseka-tantra` · `skeleton` · confidence low
+
+**Language:** Sanskrit
+**Family:** ascetic
+**Lineages:** [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
+**Genre:** tantra (caryā)
+**Authors:** 
+  - [Vajradhara](../teachers/vajradhara.md) — role: revealer; attribution: traditional
+**Availability:** digitized-translation
+
+Caryā tantra of Vajrapāṇi's consecration, classed with the Mahāvairocana.
+**Editions / translations:** 
+  - kind: translation; name: Derge Kangyur, Tōh 496 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-kangyur
+
+---
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:10 IST._

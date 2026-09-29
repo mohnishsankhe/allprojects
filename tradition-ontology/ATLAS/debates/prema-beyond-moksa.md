@@ -26,4 +26,4 @@ The principles explain the mirror-image rankings but do not decide between them.
 **The traditions' own objections:** Both sides reject being ranked as a stage of the other.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._

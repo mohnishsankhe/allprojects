@@ -160,4 +160,4 @@ terms: [ariṣṭa](../terms/arista.md) · concepts: [The signs of approaching d
 _Notes: Chs. 10-15: Sumati ('Jaḍa') on death, the road of Yama and the hells, and Vipaścit; 16-44: Dattātreya's birth and his teaching (through Madālasā's son Alarka) - yoga chs. 39-43; 45-80: creation, time, cosmography and the manvantaras; 81-93: Devī Māhātmya. verse number checked in the GRETIL/Sansknet e-text of the MkP (chs. 1-93; Devī Māhātmya = MkP 81-93 in this numbering)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:10 IST._

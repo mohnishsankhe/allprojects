@@ -5,7 +5,7 @@
 **Alternate titles:** Banzhou sanmei jing 般舟三昧經 (T417-418, Lokakṣema 179), Pratyutpanna Samādhi Sūtra, da ltar gyi sangs rgyas mngon sum du bzhugs pa'i ting nge 'dzin (Toh 133)
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:pure-land`, `lin:tiantai`, `lin:tendai`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tiantai`, `lin:tendai`
 **Genre:** sūtra (samādhi)
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana) to the lay bodhisattva Bhadrapāla; scholarly: Anonymous, 1st-2nd c. CE; confidence: high
 **Dates:** Scholarly account: 1st-2nd c. CE; Lokakṣema 179; (confidence high)
@@ -28,4 +28,4 @@ terms: [buddhānusmṛti](../terms/buddhanusmrti.md), [cittamātra](../terms/cit
 _Notes: T417/T418 (vol. 13) not local; chapter-level refs from memory._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

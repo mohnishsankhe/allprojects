@@ -17,4 +17,4 @@
 one of the thirty-seven works of Madhva collected as the Sarvamūla ('root of all'); Madhva's commentary on the Ātharvaṇa (Muṇḍaka) Upaniṣad, reading it as teaching Viṣṇu's supremacy and his difference from souls and matter, often by etymological explanation of names and by quotations from other scriptures.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:10 IST._

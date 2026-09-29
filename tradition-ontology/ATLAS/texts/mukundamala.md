@@ -42,4 +42,4 @@ terms: [ahaitukī bhakti](../terms/ahaituki-bhakti.md) · concepts: [Devotion as
 _Notes: Verse numbers differ between recensions; teachings are therefore cited by incipit._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._

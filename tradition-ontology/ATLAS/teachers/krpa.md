@@ -9,4 +9,4 @@ Named by Duryodhana among the leaders of his (the Kaurava) army, 'victorious in 
 _Notes: Linked in BhG ch. 1–3 at 1.8._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 16:38 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:10 IST._

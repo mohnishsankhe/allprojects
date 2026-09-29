@@ -12,4 +12,4 @@ The first hindrance, fed by unwise attention to the sign of the beautiful (SN 46
   - [Māgaṇḍiya Sutta](../texts/magandiya-sutta.md) — ref: 13-19; rests_on: ["tea:magandiya-sutta:13-19"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

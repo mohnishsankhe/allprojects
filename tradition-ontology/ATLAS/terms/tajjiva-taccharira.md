@@ -18,4 +18,4 @@
 - partial: [dehātma-vāda](dehatmavada.md) — the same identification of self with body, named differently in Jain and Brahmanical reports
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._

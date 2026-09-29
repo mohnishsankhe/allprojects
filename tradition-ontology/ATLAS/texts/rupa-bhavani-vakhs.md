@@ -15,4 +15,4 @@ Mystical sayings in Kashmiri and Sanskrit of the 17th-century Kashmiri yoginī R
 _Notes: Titles of her collections (e.g. 'Rahasyopadeśa') not verified; listed as a gap._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._

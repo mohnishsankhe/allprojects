@@ -21,4 +21,4 @@ Seated in padmāsana, the breath is expelled and drawn in forcefully through the
 - When fatigue arises in the body the bellows-breathing is to give way to filling through the sun (right) nostril. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 2.63
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._

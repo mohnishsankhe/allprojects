@@ -17,4 +17,4 @@ Bhāskarakaṇṭha's 18th-century commentary on Abhinavagupta's Īśvarapratyab
   - kind: original; name: ed. K.A.S. Iyer & K.C. Pandey (1938-1950)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._

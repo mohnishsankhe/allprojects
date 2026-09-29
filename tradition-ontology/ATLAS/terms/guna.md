@@ -10,6 +10,7 @@
 - [Sāṃkhya](../lineages/samkhya.md): The three constituents of prakṛti — sattva, rajas, tamas — of the nature of pleasure, pain and delusion, serving illumination, activity and restraint, and functioning by mutual domination, support, production and pairing (SK 12).
 - [Vaiśeṣika](../lineages/vaisesika.md): What resides in a substance, has no qualities and is not an independent cause of conjunction and disjunction (VS 1.1.15 C); twenty-four (Praśastapāda).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: The guṇas born of prakṛti make everyone act helplessly (3.5); actions are done by the guṇas, and the deluded think 'I am the doer' (3.27); the knower thinks 'the guṇas move among the guṇas' (3.28); the Vedas have the three guṇas as their domain, and Arjuna is to be free of them (2.45); desire and anger arise from the guṇa rajas (3.37).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 7–9: The states (bhāva) of sattva, rajas and tamas come from the Lord, yet he is not in them (7.12); deluded by these three guṇa-made states the world does not recognize him, who is beyond them (7.13); his māyā is 'made of the guṇas' (7.14).
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): Strand: the nine-gated lotus is 'covered with three strands' (AVŚ 10.8.43).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The three strands born of prakṛti — sattva, rajas and tamas — which bind the embodied one (BhG 14.5), act upon one another as the true agents (3.27–28), and classify faith, food, austerity, giving, knowledge, action, agent, intellect, steadfastness and happiness (chs. 17–18).
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): The three constituents of the seen — sattva (illumination), rajas (activity), tamas (inertia) (2.18); their conflicting activity makes all suffering for the discerning (2.15); everything is a particular arrangement of them (4.13); at kaivalya they return to their source (4.34).
@@ -28,13 +29,14 @@
 - Prakrit: guṇa  — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [sattva](sattva.md), [rajas](rajas.md), [tamas](tamas.md), [traiguṇya](traigunya.md), [prakṛti](prakrti.md), [guṇātīta](gunatita.md), [cāturvarṇya](caturvarnya.md)
+**Related:** [sattva](sattva.md), [rajas](rajas.md), [tamas](tamas.md), [traiguṇya](traigunya.md), [prakṛti](prakrti.md), [māyā](maya.md), [guṇātīta](gunatita.md), [cāturvarṇya](caturvarnya.md)
 
 _Notes: Distinct from the Sāṃkhya sense (the three constituents of prakṛti)._
 
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:7.12, tea:bhagavad-gita:7.13, tea:bhagavad-gita:7.14 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.13, tea:bhagavad-gita:6.27 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch01-03, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U06-other-gitas, skeleton:U07-puranas, skeleton:U03-principal-upanisads, skeleton:U32-jyotisa, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U06-other-gitas, skeleton:U07-puranas, skeleton:U03-principal-upanisads, skeleton:U32-jyotisa, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._

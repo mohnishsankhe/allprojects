@@ -29,4 +29,4 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 _Notes: The name 'Ṣaḍja Gītā' is recalled from the vulgate tradition (low); the passage itself was verified._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._

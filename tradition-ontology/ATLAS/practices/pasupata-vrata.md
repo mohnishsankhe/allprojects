@@ -11,4 +11,4 @@ Taking ash with 'fire is ash, wind is ash…' and smearing the body, for release
   - [Atharvaśiras Upaniṣad](../texts/atharvasiras-upanisad.md) — ref: 5 (pāśupata vow); rests_on: ["tea:atharvasiras-upanisad:5-pasupata-vow"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

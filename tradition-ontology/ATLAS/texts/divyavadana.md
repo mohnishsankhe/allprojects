@@ -35,4 +35,4 @@ teachers: [Asoka](../teachers/asoka.md)
 _Notes: Chapter numbers (12 Prātihārya; 26–28 Aśoka cycle) from memory; the Puṇḍravardhana story's wording (Nirgrantha vs Ājīvika) differs between versions — verify._
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._

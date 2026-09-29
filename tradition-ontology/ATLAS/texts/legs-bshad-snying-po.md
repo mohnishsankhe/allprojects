@@ -16,4 +16,4 @@ Tsongkhapa's treatise on provisional and definitive meaning, whose first half ex
   - kind: original; name: Tibetan: Tsongkhapa's collected works
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

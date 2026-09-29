@@ -22,8 +22,8 @@ Innumerable meanings arise from one dharma, which is without marks; the Buddha s
 
 _level: bridging · standpoint: divine · path: knowledge · stage: all · types: teacher-transmission_
 
-disputes: `dsp:one-vehicle-or-three`
+disputes: [Is the one vehicle the final truth and the three vehicles a skillful means — or are the three vehicles real and the 'one vehicle' spoken with an intention?](../debates/one-vehicle-or-three.md)
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

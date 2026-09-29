@@ -15,4 +15,4 @@ Young girls are honoured and fed as living forms of the Goddess, especially duri
 _Notes: Detailed rules (age-names of the kumārī etc.) not recorded here; not checked._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula. Generated 2026-09-29 17:10 IST._

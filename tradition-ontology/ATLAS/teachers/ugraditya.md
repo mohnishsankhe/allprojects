@@ -11,4 +11,4 @@
 Jain author of the Kalyāṇakāraka, an Āyurveda without meat, alcohol or honey.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._

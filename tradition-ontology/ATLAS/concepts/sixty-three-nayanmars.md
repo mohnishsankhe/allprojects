@@ -15,4 +15,4 @@
 _Notes: Order follows the Periya Purāṇam as usually given (moderate confidence); the nine groups' names are given at moderate confidence._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._

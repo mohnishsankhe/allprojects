@@ -13,4 +13,4 @@ Desire for wife (sons), wealth and worlds, which the renouncer declares he has r
   - [Kaṭuveḷic cittar: Āṉantak kaḷippu (the Joy-song)](../texts/kaduveli-ananda-kalippu.md) — ref: 5; rests_on: ["tea:kaduveli-ananda-kalippu:5"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._

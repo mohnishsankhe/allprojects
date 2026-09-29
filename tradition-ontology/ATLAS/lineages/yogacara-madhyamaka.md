@@ -6,7 +6,7 @@
 **Alternate names:** Yogācāra-Svātantrika-Madhyamaka (Tibetan doxography: rnal 'byor spyod pa'i dbu ma rang rgyud pa), Yogācāra-Mādhyamika, the synthesis of Śāntarakṣita
 **Parent:** [Svātantrika-Madhyamaka](svatantrika.md)
 **Founders:** [Śāntarakṣita](../teachers/santaraksita.md)
-**Key teachers:** [Śāntarakṣita](../teachers/santaraksita.md), [Kamalaśīla](../teachers/kamalasila.md), [Haribhadra (Buddhist)](../teachers/haribhadra-buddhist.md), [Ārya Vimuktisena](../teachers/vimuktisena.md), [Jitāri](../teachers/jitari.md), [Ratnākaraśānti](../teachers/ratnakarasanti.md)
+**Key teachers:** [Śāntarakṣita](../teachers/santaraksita.md), [Kamalaśīla](../teachers/kamalasila.md), [Haribhadra (Buddhist)](../teachers/haribhadra-buddhist.md), [Ārya Vimuktisena](../teachers/vimuktisena.md), [Jitāri](../teachers/jitari.md), [Śāntipa (Ratnākaraśānti)](../teachers/ratnakarasanti.md)
 **Regions:** Nālandā, Vikramaśīla, Tibet (Samye; the first ordinations under Śāntarakṣita)
 **Dates:** Tradition's account: Śāntarakṣita was invited to Tibet by King Trisong Detsen and founded Samye with Padmasambhava; Kamalaśīla defended the gradual path at Samye; Scholarly account: 8th c. CE (Śāntarakṣita c. 725–788; Kamalaśīla c. 740–795) to the 11th c.; (confidence moderate)
 **Status:** absorbed
@@ -24,7 +24,7 @@ The 8th-century synthesis in which Śāntarakṣita and Kamalaśīla combined Ma
   - [Yogācāra](yogacara.md) — what: mind-only (cittamātra) as the account of conventional reality; evidence: MAL 91–93
   - [Buddhist epistemology and logic (pramāṇa school)](pramana-buddhist.md) — what: Dharmakīrti's epistemology and reflexive awareness; evidence: Tattvasaṅgraha; MAL 16–17
 **Transmissions given:** 
-  - `lin:nyingma` — what: Śāntarakṣita's and Kamalaśīla's teachings at Samye; later commented on by Mipham (Madhyamakālaṃkāra commentary)
+  - [Nyingma (the Ancient / Old Translation school)](nyingma.md) — what: Śāntarakṣita's and Kamalaśīla's teachings at Samye; later commented on by Mipham (Madhyamakālaṃkāra commentary)
   - `lin:kadam` — what: the Bhāvanākrama's gradual path of calm and insight
 
 ## The ultimate in this lineage
@@ -41,18 +41,18 @@ The 8th-century synthesis in which Śāntarakṣita and Kamalaśīla combined Ma
 [Abhisamayālaṃkāra](../texts/abhisamayalamkara.md), [Abhisamayālaṃkāravivṛti (Sphuṭārthā)](../texts/abhisamayalamkara-vivrti.md), [Abhisamayālaṃkāravṛtti (Ārya Vimuktisena)](../texts/abhisamayalamkara-vrtti-vimuktisena.md), [Abhisamayālaṃkārāloka](../texts/abhisamayalamkaraloka.md), [Abhisamayālaṃkāravṛtti (Ārya Vimuktisena)](../texts/abhisamayalamkaravrtti-vimuktisena.md), [Bhāvanākrama](../texts/bhavanakrama.md), [Madhyamakālaṃkāra](../texts/madhyamakalamkara.md), [Madhyamakālaṃkārapañjikā](../texts/madhyamakalamkara-panjika.md), [Madhyamakālaṃkāravṛtti](../texts/madhyamakalamkara-vrtti.md), [Madhyamakālaṃkāropadeśa](../texts/madhyamakalamkaropadesa.md), [Madhyamakāloka](../texts/madhyamakaloka.md), [Prajñāpāramitopadeśa (Ratnākaraśānti)](../texts/prajnaparamitopadesa-ratnakarasanti.md), [Sarvadharmaniḥsvabhāvasiddhi](../texts/sarvadharmanihsvabhavasiddhi.md), [Sphuṭārthā (Abhisamayālaṃkāravivṛti)](../texts/sphutartha.md), [Sugatamatavibhaṅga](../texts/sugatamatavibhanga.md), [Tattvasaṅgraha of Śāntarakṣita](../texts/tattvasangraha.md), [Tattvasaṅgraha-pañjikā](../texts/tattvasangraha-panjika.md)
 
 ## Teachers
-[Ārya Vimuktisena](../teachers/arya-vimuktisena.md), [Haribhadra (Buddhist)](../teachers/haribhadra-buddhist.md), [Jitāri](../teachers/jitari.md), [Kamalaśīla](../teachers/kamalasila.md), [Ratnākaraśānti](../teachers/ratnakarasanti.md), [Śāntarakṣita](../teachers/santaraksita.md), [Ārya Vimuktisena](../teachers/vimuktisena.md)
+[Ārya Vimuktisena](../teachers/arya-vimuktisena.md), [Haribhadra (Buddhist)](../teachers/haribhadra-buddhist.md), [Jitāri](../teachers/jitari.md), [Kamalaśīla](../teachers/kamalasila.md), [Śāntipa (Ratnākaraśānti)](../teachers/ratnakarasanti.md), [Śāntarakṣita](../teachers/santaraksita.md), [Ārya Vimuktisena](../teachers/vimuktisena.md)
 
 ## Practices
-_none recorded_
+[Analytical meditation on emptiness](../practices/analytical-meditation-on-emptiness.md), [Cultivating compassion (Kamalaśīla)](../practices/compassion-meditation-bhavanakrama.md), [The four yogic stages of the Laṅkāvatāra](../practices/four-yogic-stages-lankavatara.md), [The neither-one-nor-many reasoning](../practices/neither-one-nor-many-reasoning.md), [Calm abiding (Kamalaśīla)](../practices/samatha-bhavanakrama.md), [Hearing, reflection and meditation](../practices/three-wisdoms.md)
 
 ## Path maps
-`pth:bhavanakrama-stages`, `pth:madhyamakalamkara-ladder`
+[The stages of meditation (Kamalaśīla)](../paths/bhavanakrama-stages.md), [The ladder of views (Madhyamakālaṃkāra 92–93)](../paths/madhyamakalamkara-ladder.md)
 
 ## Debates
-_none recorded_
+[Are there objects external to cognition?](../debates/external-objects.md), [Is consciousness ultimately real while external objects are not (mind-only), or is mind too empty?](../debates/madhyamaka-yogacara.md), [Can any person be omniscient, in particular directly know dharma?](../debates/omniscience.md), [Is consciousness reflexively aware of itself (svasaṃvedana)?](../debates/svasamvedana.md), [Is cognition (the dependent nature) real, or is it empty of own-being like everything else? — Yogācāra and Madhyamaka](../debates/yogacara-madhyamaka.md)
 
 _Notes: Parent set to lin:svatantrika following the Tibetan doxographical classification that the registry names follow; the Indian authors did not call themselves Svātantrika._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

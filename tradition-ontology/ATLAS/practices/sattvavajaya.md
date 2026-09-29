@@ -13,4 +13,4 @@ Restraining the mind from unwholesome objects; for mental disorder, examining wi
   - [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) — ref: Sū 1.26; rests_on: ["tea:astanga-hrdaya:su.1.25-26"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._

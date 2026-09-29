@@ -20,6 +20,8 @@
 - [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md): Kumārila rejects a creator Prajāpati (ŚV sambandhākṣepaparihāra 42–116); later Bhāṭṭas (Āpadeva, Laugākṣi Bhāskara) teach offering dharma to Īśvara/Govinda.
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): Nārāyaṇa, the third reality: the self of all, cause of the world, opposed to all evil and abode of infinite auspicious qualities, present in five forms.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The Lord: all this is to be dwelt in by the Lord (Īśa 1); the two birds, the Lord and the one who grieves (MuU 3.1.2); the great Lord of lords (ŚU 6.7); the māyin (ŚU 4.10); lord of all (BAU 4.4.22; MāU 6).
+- [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md): Rejected: a single permanent cause could not produce successive effects; 'being an effect' does not prove an intelligent world-maker; the Buddha is an authority who has become so, not an eternal one.
+- [Madhyamaka](../lineages/madhyamaka.md): The creator posited by others is refuted: if he creates without wishing he depends on another, if by wishing he depends on his wish (BCA 9.119–126); an eternal cause would produce all effects at once or never (Tattvasaṅgraha).
 
 ## Forms in other languages
 
@@ -31,4 +33,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.6, tea:bhagavad-gita:5.29 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, extraction:bhagavad-gita/ch04-06, skeleton:U12-mimamsa, skeleton:U14-visistadvaita, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, extraction:bhagavad-gita/ch04-06, skeleton:U12-mimamsa, skeleton:U14-visistadvaita, skeleton:U03-principal-upanisads, skeleton:U41-yogacara-pramana, skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

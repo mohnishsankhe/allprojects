@@ -1,6 +1,6 @@
 # Śaunaka Mahāśāla
 
-`tch:saunaka-mahasala` · `skeleton` · confidence high
+`tch:saunaka-mahasala` · `sourced` · confidence high
 
 **Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 **Historicity:** legendary
@@ -11,4 +11,8 @@
 _Notes: Disambiguated from other Śaunakas (tch:saunaka)._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering) — Located: MuU 1.1.3 ('śaunako ha vai mahāśālo 'ṅgirasaṃ vidhivad upasannaḥ papraccha').
+
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

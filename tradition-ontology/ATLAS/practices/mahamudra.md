@@ -28,4 +28,4 @@ Pressing the perineum with the left heel, the right leg stretched out and its fo
 _Notes: Homonym only of the Buddhist mahāmudrā (Kagyu); no equivalence is asserted. U04's combined entry prc:mahabandha-mahavedha overlaps the next two entries._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

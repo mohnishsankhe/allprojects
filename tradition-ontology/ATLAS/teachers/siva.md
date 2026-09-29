@@ -21,4 +21,4 @@ _Notes: U05's contribution (the epic account)._
 
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.337.62, 3.40.2-60 (kirāta), 3.41.7-13 (pāśupata), 12.328.24, local:gita/gita BhG 10.23 — All cited references located.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U23-sakta-srividya, skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U23-sakta-srividya, skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

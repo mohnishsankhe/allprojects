@@ -28,4 +28,4 @@ concepts: [Kuṇḍalinī](../concepts/kundalini.md), [The centres (cakra, ādh�
 _Notes: Siddha affiliation is the tradition's; which Auvaiyār (several poets bear the name) is unsettled. Contents recalled._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._

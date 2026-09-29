@@ -19,4 +19,4 @@ Attending to the inner target (kuṇḍalinī, inner sound, blue light), the out
 _Notes: Contributes haṭha/Nāth sources to U04's entry; see U28's cpt:three-laksyas._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._

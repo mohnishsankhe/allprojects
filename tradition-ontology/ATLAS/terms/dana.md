@@ -15,6 +15,7 @@
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Giving: the humans' 'da' (BAU 5.2); 'give with faith' (TU 1.11.3); a priestly gift of the life-sacrifice (ChU 3.17.4).
 - [Jainism (Jaina dharma)](../lineages/jainism.md): Relinquishing what is one's own for the benefit of self and other; its merit depends on manner, gift, giver and recipient (TS 7.38–39); four kinds — food, medicine, knowledge, fearlessness.
 - [Sāṃkhya](../lineages/samkhya.md): The accomplishment of receiving knowledge from the venerable after serving them with shelter, medicine, staff, water-pot, food and clothing (Gauḍapāda on SK 51); Vācaspati is recalled as deriving it from the root 'dai' (to purify), the purity of discriminative knowledge (low confidence).
+- [Madhyamaka](../lineages/madhyamaka.md): The first perfection; the bodhisattva gives away body, enjoyments and merit to all beings, then protects, purifies and increases them (ŚSK 4); respectful giving is part of the dharma of higher status (RĀ 1.10).
 - [Jyotiṣa (the science of the lights)](../lineages/jyotisa.md): In jyotiṣa, prescribed gifts to brahmins that pacify an afflicting planet or portent — specific objects, colours and animals for each planet (YājñSm 1.295–306; BS 45.6).
 - [Sarvāstivāda](../lineages/sarvastivada.md): Giving, whose merit is distinguished by giver, thing and field; merit arises even at a stūpa where no one receives.
 - [Dharmaguptaka](../lineages/dharmaguptaka.md): A gift to the Buddha has greater fruit than a gift to the Saṅgha; offerings to stūpas bring great fruit (Vasumitra).
@@ -32,4 +33,4 @@
 **Related:** [siddhi](siddhi.md)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U36-pali-suttas, skeleton:U39-mahayana-sutras, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U09-samkhya, skeleton:U32-jyotisa, skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U36-pali-suttas, skeleton:U39-mahayana-sutras, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U09-samkhya, skeleton:U40-madhyamaka, skeleton:U32-jyotisa, skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

@@ -1,6 +1,6 @@
 # Breath-control (prāṇāyāma) in haṭha
 
-`prc:pranayama` · `skeleton` · confidence high
+`prc:pranayama` · `sourced` · confidence high
 
 **Category:** breath
 **Convergence:** 9 independent lineage(s): [Digambara](../lineages/digambara.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Jainism (Jaina dharma)](../lineages/jainism.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Sāṃkhya](../lineages/samkhya.md), [Śvetāmbara](../lineages/svetambara.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -53,5 +53,6 @@ _Notes: YBh 2.52 quotes: 'There is no austerity higher than prāṇāyāma.' Ha�
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.29, tea:bhagavad-gita:5.27 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering), text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (ŚU 2.9; MaiU 6.18). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch04-06, skeleton:U09-samkhya, skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch04-06, skeleton:U09-samkhya, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._

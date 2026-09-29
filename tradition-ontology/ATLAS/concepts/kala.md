@@ -1,6 +1,6 @@
 # Time (kāla)
 
-`cpt:kala` · `skeleton` · confidence high
+`cpt:kala` · `sourced` · confidence high
 
 **Category:** cosmology-time
 
@@ -16,4 +16,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U03-principal-upanisads, skeleton:U32-jyotisa, skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering), text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (MaiU 6.14-16). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U15-dvaita, skeleton:U03-principal-upanisads, skeleton:U32-jyotisa, skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._

@@ -17,6 +17,7 @@
 - [Rāmānandī sampradāya](../lineages/ramanandi.md): Whenever dharma declines the compassionate Lord takes bodies to relieve the good.
 - [Mahānubhāva panth](../lineages/mahanubhava.md): Parameśvara incarnates as the five Kṛṣṇas; the incarnations, not the devatās, are to be worshipped.
 - [Ekaśaraṇa Dharma](../lineages/ekasarana.md): Nārāyaṇa is the cause of all the avatāras, whom the Kīrtana-ghoṣā praises.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 9.11 with 7.24–25 (the word avatāra is not used): the deluded disregard the Lord who has taken on a human body, not knowing his supreme state as great lord of beings; he is unborn and imperishable, veiled by his yoga-māyā and not manifest to all.
 
 ## Relations (interpretation layer)
 
@@ -26,5 +27,6 @@ _Notes: No fixed list of ten appears in the critical text of the Nārāyaṇīya
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.5, tea:bhagavad-gita:4.6, tea:bhagavad-gita:4.7, tea:bhagavad-gita:4.8, tea:bhagavad-gita:4.9, tea:bhagavad-gita:4.4 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:9.11, tea:bhagavad-gita:7.24, tea:bhagavad-gita:7.25 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita, extraction:bhagavad-gita/ch04-06, skeleton:U14-visistadvaita, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U15-dvaita, extraction:bhagavad-gita/ch04-06, skeleton:U14-visistadvaita, skeleton:U26-regional-bhakti, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 17:10 IST._

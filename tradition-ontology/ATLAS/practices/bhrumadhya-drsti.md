@@ -16,6 +16,8 @@ The gaze and attention fixed at the point between the eyebrows: in siddhāsana a
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 5.84-85; rests_on: ["tea:gheranda-samhita:5.84-85"]
   - [Dattātreyayogaśāstra](../texts/dattatreyayogasastra.md) — ref: 14-24; rests_on: ["tea:dattatreyayogasastra:14-24"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.27; 8.10; rests_on: ["tea:bhagavad-gita:5.27-28", "tea:bhagavad-gita:8.8-10"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 8.9-10; rests_on: ["tea:bhagavad-gita:8.9-10"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 8.10; rests_on: ["tea:bhagavad-gita:8.10"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.27; rests_on: ["tea:bhagavad-gita:5.27"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.28; rests_on: ["tea:bhagavad-gita:5.28"]
   - [Tirumūla nāyaṉār ñāṉam (the wisdom of Tirumūlar)](../texts/tirumular-nanam.md) — ref: 5; rests_on: ["tea:tirumular-nanam:5"]
@@ -26,6 +28,7 @@ _Notes: In 6.13 the Gītā instead prescribes gazing toward the tip of the nose;
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:8.9-10, tea:bhagavad-gita:8.10 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.27, tea:bhagavad-gita:5.28 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U22-tamil-siddha. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:10 IST._

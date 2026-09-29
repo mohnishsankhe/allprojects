@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The levels of speech (parā, paśyantī, madhyamā, vaikharī)](levels-of-speech.md) (later vyākaraṇa/Śaiva reading): Grammarians and Kashmir Śaivas later read the four quarters as the levels of speech (vaikharī, madhyamā, paśyantī, parā) — an interpretive correspondence. — rests on [1.164.45](../texts/rgveda.md#tea-rgveda-1-164-45)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._

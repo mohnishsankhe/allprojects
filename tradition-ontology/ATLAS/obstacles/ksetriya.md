@@ -14,4 +14,4 @@ A hereditary or chronic disease removed by the deer-horn and star charms.
 _Notes: rests_on: tea:atharvaveda-saunaka:3.7_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._

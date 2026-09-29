@@ -21,4 +21,4 @@
 The Saṃhitās do not present a staged liberation path; this is the ritual sequence the śrauta lineages follow (its order is fixed in the sūtras, U02). Bands are interpretive: the final stage is left unbanded because heaven (svarga) is not liberation in the band scale's sense, and the later tradition itself distinguishes them.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._

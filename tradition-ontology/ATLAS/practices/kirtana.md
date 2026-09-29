@@ -21,6 +21,7 @@ Singing the names, qualities and deeds of the Lord, alone or together, with drum
   - [Tiruvāymoḻi](../texts/tiruvaymoli.md) — ref: 5.2.1; rests_on: ["tea:tiruvaymoli:5.2.1"]
   - [Periya Tirumoḻi](../texts/periya-tirumoli.md) — ref: 1.1; rests_on: ["tea:periya-tirumoli:1.1.1"]
   - [Nārada Bhakti Sūtra](../texts/narada-bhakti-sutra.md) — ref: 37; 80; rests_on: ["tea:narada-bhakti-sutra:34-37", "tea:narada-bhakti-sutra:80"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 9.14; rests_on: ["tea:bhagavad-gita:9.14"]
   - [Nāmdev Gāthā](../texts/namdev-gatha.md) — ref: nacu-kirtanace-rangi; rests_on: ["tea:namdev-gatha:nacu-kirtanace-rangi"]
   - [Rāmcaritmānas](../texts/ramcaritmanas.md) — ref: 7.97-103; rests_on: ["tea:ramcaritmanas:7.97-103"]
   - [Śikṣāṣṭaka](../texts/siksastaka.md) — ref: 1; rests_on: ["tea:siksastaka:1"]
@@ -36,4 +37,8 @@ Singing the names, qualities and deeds of the Lord, alone or together, with drum
 _Notes: U05's contribution to a shared practice._
 
 ---
-_Contributed by: skeleton:U31-sound-arts, skeleton:U07-puranas, skeleton:U05-gita-epic, skeleton:U25-alvar-bhakti-theory, skeleton:U26-regional-bhakti, skeleton:U16-bhedabheda, skeleton:U27-sant-baul. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:9.14 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U31-sound-arts, skeleton:U07-puranas, skeleton:U05-gita-epic, skeleton:U25-alvar-bhakti-theory, extraction:bhagavad-gita/ch07-09, skeleton:U26-regional-bhakti, skeleton:U16-bhedabheda, skeleton:U27-sant-baul. Generated 2026-09-29 17:10 IST._

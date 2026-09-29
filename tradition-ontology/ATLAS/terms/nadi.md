@@ -23,4 +23,4 @@
 **Related:** [iḍā](ida.md), [piṅgalā](pingala.md), [suṣumnā](susumna.md), [nāḍīśuddhi](nadi-suddhi.md), [utkrānti](utkranti.md)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U15-dvaita, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha, skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U15-dvaita, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha, skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._

@@ -4,7 +4,7 @@
 
 **Language:** Maithili
 **Family:** vedic
-**Lineages:** [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), `lin:mahasiddha`
+**Lineages:** [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md)
 **Genre:** varṇaka (descriptive compendium)
 **Dates:** Scholarly account: early 14th c.; (confidence moderate)
 **Availability:** unknown
@@ -14,4 +14,4 @@ Jyotirīśvara's early Maithili prose encyclopedia of descriptions, which includ
 _Notes: U49 may treat the siddha-list overlap in detail._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:10 IST._

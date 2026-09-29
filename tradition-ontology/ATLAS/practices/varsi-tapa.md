@@ -13,4 +13,4 @@ In memory of Ṛṣabha's long fast, a practitioner alternates fasting days and 
 - Austerity is to be undertaken according to one's strength; fasting for fame or reward (nidāna) is faulty. — [Daśāśrutaskandha](../texts/dasasrutaskandha.md) 10
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

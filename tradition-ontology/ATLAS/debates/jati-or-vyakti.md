@@ -31,4 +31,4 @@ The reconciliation covers the realist schools only; the Buddhist apoha theory de
 **The traditions' own objections:** The Buddhists reject any real universal; Mīmāṃsā insists that the universal alone is primarily denoted.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:10 IST._

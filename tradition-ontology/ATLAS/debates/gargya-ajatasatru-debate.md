@@ -1,6 +1,6 @@
 # Is brahman the persons in the sun, moon and other phenomena, or the self into which the sleeper withdraws?
 
-`dsp:gargya-ajatasatru-debate` · `skeleton` · confidence high
+`dsp:gargya-ajatasatru-debate` · `sourced` · confidence high
 
 
 ## Sides (recorded before any reconciliation)
@@ -27,4 +27,8 @@ Ajātaśatru: each of these is venerated only as a limited form with a limited f
 **The traditions' own objections:** The text treats Gārgya's claim that these are brahman as mistaken, not as a partial truth to be kept; the reconciliation preserves the text's ranking.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/kausitaki-upanisad-sharada/segments.jsonl (Advaita-Śāradā mūla kst.md, Advaita-Śāradā section numbering) — All 3 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 2.1.15-17; BĀU 2.1; KauU 4). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

@@ -16,4 +16,4 @@
 - contrasts-with → [Types of person (puggala) in the Abhidhamma](types-of-persons.md): The Pali Abhidhamma person-types do not include arhats who fall back. — rests on [6.56-57](../texts/abhidharmakosa.md#tea-abhidharmakosa-6-56-57)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

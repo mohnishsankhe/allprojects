@@ -25,4 +25,4 @@ This records Appayya's reconciliation; it is not accepted by the Śaiva Viśiṣ
 **The traditions' own objections:** Vīraśaiva and Śaiva Viśiṣṭādvaita authors reject the claim that Śrīkaṇṭha's doctrine is provisional.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:10 IST._

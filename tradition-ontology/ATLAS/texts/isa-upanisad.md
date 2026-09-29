@@ -1,6 +1,6 @@
 # Īśa Upaniṣad
 
-`src:isa-upanisad` · `skeleton` · confidence high
+`src:isa-upanisad` · `sourced` · confidence high
 
 **Alternate titles:** Īśāvāsya Upaniṣad, Vājasaneyi Saṃhitā Upaniṣad
 **Original title:** ईशोपनिषद्
@@ -23,10 +23,10 @@ A short verse Upanisad: all this is to be inhabited/covered by the Lord; enjoy b
   - kind: translation; name: Swami Paramananda, The Upanishads (Isa, Katha, Kena), Project Gutenberg #3283; licence: public domain; url: https://www.gutenberg.org/ebooks/3283
 **Commentaries on this text:** [Īśāvāsyopaniṣad-bhāṣya (Madhva)](isa-upanisad-bhasya-madhva.md), [Īśāvāsyopaniṣadbhāṣya of Śaṅkara](isa-upanisad-bhasya-sankara.md)
 
-## Teachings (10: skeleton 10)
+## Teachings (10: sourced 10)
 
 ### 1 <a id="tea-isa-upanisad-1"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 All this, whatever moves in this moving world, is to be dwelt in (or: covered) by the Lord. Enjoy by what has been given up (or: by renouncing it); do not covet anyone's wealth.
 
@@ -37,7 +37,7 @@ _level: bridging · standpoint: seeker · path: knowledge, action · stage: all 
 terms: [īśvara](../terms/isvara.md) · concepts: [Īśvara (the Lord)](../concepts/isvara.md) · obstacles: [Desire (kāma)](../obstacles/kama.md)
 
 ### 2 <a id="tea-isa-upanisad-2"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Doing works here, one should wish to live a hundred years; thus, and not otherwise, action does not cling to a man.
 
@@ -48,7 +48,7 @@ _level: conventional · standpoint: seeker · path: action · stage: all · type
 terms: [karma](../terms/karma.md) · disputes: `dsp:works-knowledge-grace`
 
 ### 3 <a id="tea-isa-upanisad-3"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Sunless are those worlds, covered in blind darkness, to which those who kill the self go after death.
 
@@ -57,14 +57,14 @@ _level: conventional · standpoint: causal · path: general · stage: all · typ
 obstacles: [Ignorance (avidyā)](../obstacles/avidya.md)
 
 ### 4-5 <a id="tea-isa-upanisad-4-5"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Unmoving, it is one, swifter than the mind; the gods did not reach it, as it went before; standing, it outruns those who run; in it the wind places the waters. It moves, it does not move; it is far and it is near; it is within all this and it is outside all this.
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate_
 
 ### 6-7 <a id="tea-isa-upanisad-6-7"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 One who sees all beings in the self and the self in all beings does not shrink away from anything. When, for one who understands, all beings have become the self, what delusion, what sorrow is there for one who sees oneness?
 
@@ -73,7 +73,7 @@ _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced �
 terms: [ātman](../terms/atman.md) · concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md) · obstacles: [Grief (śoka)](../obstacles/soka.md)
 
 ### 8 <a id="tea-isa-upanisad-8"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 He has gone round — bright, bodiless, without wound or sinews, pure, unpierced by evil; the seer, the thinker, all-encompassing, self-existent, he has apportioned things rightly for endless years.
 
@@ -82,7 +82,7 @@ _level: ultimate · standpoint: divine · path: knowledge · stage: advanced · 
 concepts: [Īśvara (the Lord)](../concepts/isvara.md)
 
 ### 9-11 <a id="tea-isa-upanisad-9-11"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Into blind darkness enter those who worship ignorance (avidyā); into greater darkness, as it were, those who delight in knowledge (vidyā). One thing, they say, comes from knowledge, another from ignorance — so we have heard from the wise who explained it to us. One who knows both knowledge and ignorance together crosses death by ignorance and attains immortality by knowledge.
 
@@ -93,14 +93,14 @@ _level: bridging · standpoint: seeker · path: knowledge, action · stage: inte
 terms: [vidyā](../terms/vidya.md), [avidyā](../terms/avidya.md), [amṛtatva](../terms/amrtatva.md) · concepts: [Knowledge and ignorance (vidyā and avidyā)](../concepts/vidya-avidya.md) · disputes: `dsp:works-knowledge-grace`
 
 ### 12-14 <a id="tea-isa-upanisad-12-14"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 Into blind darkness enter those who worship non-becoming (asambhūti); into greater darkness those who delight in becoming (sambhūti). One who knows becoming and destruction together crosses death by destruction and attains immortality by becoming.
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: intermediate · types: karma-liberation_
 
 ### 15-16 <a id="tea-isa-upanisad-15-16"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The face of truth is covered with a golden vessel; uncover it, Pūṣan, for one whose law is truth, to see. Pūṣan, sole seer, controller, sun, offspring of Prajāpati, spread your rays, gather your light; I see your fairest form: that person yonder — I am he.
 
@@ -111,7 +111,7 @@ _level: bridging · standpoint: devotional · path: devotion, knowledge · stage
 concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md) · practices: [The prayer of the dying (Īśa 15-18)](../practices/prayer-at-death-isa.md)
 
 ### 17-18 <a id="tea-isa-upanisad-17-18"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The breath (goes) to the immortal wind; this body ends in ashes. Om — mind, remember, remember what was done. Agni, lead us by the good path to prosperity, god who knows all ways; keep from us the crooked sin; we offer you our fullest homage.
 
@@ -125,4 +125,8 @@ terms: [kratu](../terms/kratu.md) · concepts: [The last thought and resolve at 
 _Notes: Veda affiliation: White Yajurveda (Vājasaneyi Saṃhitā, ch. 40; Kāṇva and Mādhyandina recensions)_
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL-dev:isa-upanisad_isopanisad_or_isavasyopanisad, text:sources_raw/prepared/isa-upanisad/segments.jsonl (Advaita-Śāradā mūla Isha.md, Śaṅkara numbering), https://en.wikipedia.org/wiki/Isha_Upanishad, https://www.wisdomlib.org/hinduism/essay/brihadaranyaka-upanishad-study/d/doc1888684.ht — Title, placement (VS 40) and structure are confirmed: 18 verses in the prepared Kāṇva text, and Wikipedia gives 18 (Kāṇva) against 17 (Mādhyandina) with a different verse order. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship. The entry's -500/-200 falls within 'last few centuries BCE'.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

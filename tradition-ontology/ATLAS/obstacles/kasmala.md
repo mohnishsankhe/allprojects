@@ -11,4 +11,4 @@ Bhagavad Gītā 1–3: The dejection that came upon Arjuna at the critical momen
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 2.2; rests_on: ["tea:bhagavad-gita:2.2"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 16:38 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:10 IST._

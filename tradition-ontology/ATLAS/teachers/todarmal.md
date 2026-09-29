@@ -12,4 +12,4 @@
 Digambara lay scholar of Jaipur (c. 1719–1767), leading figure of the Digambara Terāpantha, author of the Mokṣamārga Prakāśaka and of the Hindi commentary Samyagjñānacandrikā on the Gommaṭasāra; the tradition says he was executed at Jaipur as a result of sectarian hostility.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 17:10 IST._

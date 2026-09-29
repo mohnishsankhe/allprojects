@@ -12,4 +12,4 @@ Obstruction of karma (the deadly acts), of defilement (intense defilement) and o
   - [Abhidharmakośa (Abhidharmakośakārikā)](../texts/abhidharmakosa.md) — ref: 4.96; rests_on: ["tea:abhidharmakosa:4.96"]
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

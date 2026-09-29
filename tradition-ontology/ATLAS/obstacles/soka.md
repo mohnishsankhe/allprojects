@@ -1,6 +1,6 @@
 # Grief (śoka)
 
-`obs:soka` · `skeleton` · confidence high
+`obs:soka` · `sourced` · confidence high
 
 **Category:** affliction
 **Convergence:** 2 independent lineage(s): [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -16,4 +16,8 @@ Bhagavad Gītā 1–3: Arjuna's grief overwhelms him (1.47) and dries up his sen
   - [Muṇḍaka Upaniṣad](../texts/mundaka-upanisad.md) — ref: 3.1.2; 3.2.9; rests_on: ["tea:mundaka-upanisad:3.1.1-2", "tea:mundaka-upanisad:3.2.9"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/isa-upanisad/segments.jsonl (Advaita-Śāradā mūla Isha.md, Śaṅkara numbering), text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūl — All 5 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 7.1.3; MuU 3.2.9; Īśa 7; KU 1.2.12; MuU 3.1.2). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

@@ -16,4 +16,4 @@ Tamil poet of the Irāmāvatāram (Kamba Rāmāyaṇam), the great devotional re
 _Notes: Not an Āḻvār; placed under lin:alvar as the lineage of Tamil Vaiṣṇava devotional poetry. Tradition: at the Rāmāyaṇa's first recital at Śrīraṅgam the Narasiṃha image roared approval._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:10 IST._

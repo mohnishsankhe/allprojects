@@ -12,4 +12,4 @@
 Eldest of the four mind-born sons of Brahmā (Sanaka, Sanandana, Sanātana, Sanatkumāra), whose question on separating mind from the guṇas occasions the Haṃsa Gītā (Bhāgavata 11.13).
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U23-sakta-srividya. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U23-sakta-srividya. Generated 2026-09-29 17:10 IST._

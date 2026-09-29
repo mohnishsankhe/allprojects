@@ -20,4 +20,4 @@ The gaze set on the tip of the nose, in padmāsana, siṃhāsana, bhadrāsana an
 - The Advaita Aparokṣānubhūti holds the noblest vision to be seeing the world as Brahman, not looking at the tip of the nose. — [Aparokṣānubhūti](../texts/aparoksanubhuti.md) 116
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:10 IST._

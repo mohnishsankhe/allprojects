@@ -359,4 +359,4 @@ _Notes: Chapter counts are those of the Critical Edition (checked against the lo
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:DCS:Mahābhārata, catalog:raw_etexts:mahabharata-devanagari, local:sources_raw/DharmicData/Mahabharata/mahabharata_book_1.json (BORI Critical Edition text) 1.1.61, 1.1.50, 1.1.205, https://en.wikipedia.org/wiki/Vishnu_Sitaram_Sukthankar — Extant and digitized (critical and vulgate texts local). 18 books; the 24,000-verse Bhārata (1.1.61), the three starting points (1.1.50) and kārṣṇa veda (1.1.205; 1.56.17) located in the CE. Traditional Vyāsa/Vaiśampāyana/Ugraśravas frame confirmed in 1.1.1. Scholarly date range (c. 4th c. BCE – 4th c. CE) is within the usual scholarly estimates; tradition account kept separate as entered.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U33-sramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U33-sramana. Generated 2026-09-29 17:10 IST._

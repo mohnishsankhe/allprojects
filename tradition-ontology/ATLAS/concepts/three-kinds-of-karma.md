@@ -15,4 +15,4 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U32-jyotisa, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U32-jyotisa, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._

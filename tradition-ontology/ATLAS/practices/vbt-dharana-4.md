@@ -15,4 +15,4 @@ Whenever [the breath-power] is held, expelled or drawn in, at the end of that th
 _Notes: Verses 27 (KSTS 8 / GRETIL numbering). Names retention (kumbhaka) without any duration or count; not an 'extreme retention' practice._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._

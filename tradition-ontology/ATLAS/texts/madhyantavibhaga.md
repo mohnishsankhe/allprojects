@@ -43,7 +43,7 @@ Unreal imagination exists; duality does not exist in it; emptiness exists in it,
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate, consciousness-mind_
 
-terms: `trm:abhutaparikalpa`, `trm:dvaya`, [śūnyatā](../terms/sunyata.md) · concepts: `cpt:abhutaparikalpa`, `cpt:yogacara-middle-way` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md) · disputes: `dsp:yogacara-madhyamaka`
+terms: [abhūta-parikalpa](../terms/abhutaparikalpa.md), [dvaya](../terms/dvaya.md), [śūnyatā](../terms/sunyata.md) · concepts: [Unreal imagination (abhūtaparikalpa)](../concepts/abhutaparikalpa.md), [The Yogācāra middle way](../concepts/yogacara-middle-way.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md) · disputes: [Is cognition (the dependent nature) real, or is it empty of own-being like everything else? — Yogācāra and Madhyamaka](../debates/yogacara-madhyamaka.md)
 
 ### 1.3 <a id="tea-madhyantavibhaga-1-3"></a>
 `skeleton` · confidence high
@@ -54,7 +54,7 @@ Therefore everything is declared neither empty nor non-empty — because of exis
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: ultimate_
 
-concepts: `cpt:yogacara-middle-way` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md) · disputes: `dsp:yogacara-madhyamaka`
+concepts: [The Yogācāra middle way](../concepts/yogacara-middle-way.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md) · disputes: [Is cognition (the dependent nature) real, or is it empty of own-being like everything else? — Yogācāra and Madhyamaka](../debates/yogacara-madhyamaka.md)
 
 ### 1.4-5 <a id="tea-madhyantavibhaga-1-4-5"></a>
 `skeleton` · confidence high
@@ -65,7 +65,7 @@ Consciousness arises appearing as objects, beings, self and cognitions; its obje
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: intermediate · types: consciousness-mind, karma-liberation_
 
-terms: `trm:abhutaparikalpa`, `trm:pratibhasa` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+terms: [abhūta-parikalpa](../terms/abhutaparikalpa.md), [pratibhāsa](../terms/pratibhasa.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 1.6 <a id="tea-madhyantavibhaga-1-6"></a>
 `skeleton` · confidence high
@@ -83,7 +83,7 @@ Based on apprehension, non-apprehension arises; based on non-apprehension, non-a
 
 _level: bridging · standpoint: experiential · path: meditation, knowledge · stage: advanced · types: practice, consciousness-mind_
 
-practices: `prc:entry-into-cognition-only` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+practices: [Entry into cognition-only (vijñaptimātratā-praveśa)](../practices/entry-into-cognition-only.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 1.9 <a id="tea-madhyantavibhaga-1-9"></a>
 `skeleton` · confidence high
@@ -94,7 +94,7 @@ Unreal imagination is the minds and mental factors of the three realms; consciou
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: [citta](../terms/citta.md), `trm:caitasika` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+terms: [citta](../terms/citta.md), [caitasika](../terms/caitasika.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 1.13-16 <a id="tea-madhyantavibhaga-1-13-16"></a>
 `skeleton` · confidence high
@@ -105,7 +105,7 @@ Emptiness is explained by its characteristic, synonyms, their meaning, divisions
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [śūnyatā](../terms/sunyata.md), [tathatā](../terms/tathata.md), [bhūtakoṭi](../terms/bhutakoti.md), [animitta](../terms/animitta.md), [dharmadhātu](../terms/dharmadhatu.md) · concepts: `cpt:emptiness-yogacara` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+terms: [śūnyatā](../terms/sunyata.md), [tathatā](../terms/tathata.md), [bhūtakoṭi](../terms/bhutakoti.md), [animitta](../terms/animitta.md), [dharmadhātu](../terms/dharmadhatu.md) · concepts: [Emptiness in Yogācāra](../concepts/emptiness-yogacara.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 1.21-23 <a id="tea-madhyantavibhaga-1-21-23"></a>
 `skeleton` · confidence high
@@ -116,7 +116,7 @@ Emptiness is the non-existence of person and dharmas and the existence of that n
 
 _level: ultimate · standpoint: analytic · path: knowledge, meditation · stage: all · types: ultimate, consciousness-mind_
 
-terms: [prakṛti-prabhāsvara-citta](../terms/prabhasvara-citta.md), [āgantuka-kleśa](../terms/agantuka-klesa.md) · concepts: `cpt:luminous-mind-yogacara` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+terms: [prabhāsvara-citta](../terms/prabhasvara-citta.md), [āgantuka-kleśa](../terms/agantuka-klesa.md) · concepts: [The luminous mind](../concepts/luminous-mind.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 2.1-3 <a id="tea-madhyantavibhaga-2-1-3"></a>
 `skeleton` · confidence moderate
@@ -125,7 +125,7 @@ The obscurations are the pervasive, the limited, the excessive, the balanced, an
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: karma-liberation_
 
-obstacles: `obs:nine-fetters-yogacara`, `obs:two-obscurations` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+obstacles: [The nine fetters (Abhidharma list)](../obstacles/nine-samyojanas.md), [The obscurations of afflictions and of the knowable](../obstacles/two-obscurations.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 2.17 <a id="tea-madhyantavibhaga-2-17"></a>
 `skeleton` · confidence high
@@ -136,7 +136,7 @@ The afflictive obscuration and the cognitive obscuration have been taught; these
 
 _level: conventional · standpoint: analytic · path: general · stage: all · types: karma-liberation_
 
-terms: `trm:klesavarana`, `trm:jneyavarana` · obstacles: `obs:two-obscurations` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+terms: [kleśāvaraṇa](../terms/klesavarana.md), [jñeyāvaraṇa](../terms/jneyavarana.md) · obstacles: [The obscurations of afflictions and of the knowable](../obstacles/two-obscurations.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 3.3 <a id="tea-madhyantavibhaga-3-3"></a>
 `skeleton` · confidence high
@@ -156,7 +156,7 @@ The cultivation of the four applications of mindfulness serves entry into the fo
 
 _level: conventional · standpoint: seeker · path: meditation · stage: beginner · types: practice_
 
-practices: `prc:smrtyupasthana-yogacara` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+practices: [The four applications of mindfulness (Yogācāra)](../practices/smrtyupasthana-yogacara.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 4.3-5 <a id="tea-madhyantavibhaga-4-3-5"></a>
 `skeleton` · confidence high
@@ -167,7 +167,7 @@ Stability of mind for success in all aims arises from abandoning five faults and
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate (śamatha) · types: practice_
 
-practices: `prc:eight-antidotal-formations`, `prc:samatha-yogacara` · obstacles: `obs:five-faults-of-samatha` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+practices: [The eight antidotal formations](../practices/eight-antidotal-formations.md), [Calm abiding (śamatha) in Yogācāra sources](../practices/samatha-yogacara.md) · obstacles: [The five faults of calm abiding](../obstacles/five-faults-of-samatha.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 5.5 <a id="tea-madhyantavibhaga-5-5"></a>
 `skeleton` · confidence high
@@ -178,7 +178,7 @@ The ten perfections are generosity, discipline, patience, vigour, meditation, wi
 
 _level: conventional · standpoint: seeker · path: action, meditation, knowledge · stage: all · types: ethics, practice_
 
-terms: [pāramitā](../terms/paramita.md) · concepts: `cpt:ten-perfections` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+terms: [pāramitā](../terms/paramita.md) · concepts: [The ten perfections](../concepts/ten-paramitas.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 ### 5.9-10 <a id="tea-madhyantavibhaga-5-9-10"></a>
 `skeleton` · confidence high
@@ -187,10 +187,10 @@ The practice of the teaching is tenfold: copying it, worshipping it, giving it, 
 
 _level: conventional · standpoint: seeker · path: devotion, knowledge, sound · stage: all · types: practice, sound-language_
 
-practices: `prc:ten-dharma-practices` · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
+practices: [The ten practices of the Dharma (daśa dharmacaritāni)](../practices/ten-dharma-practices.md) · teachers: [Maitreyanātha](../teachers/maitreyanatha.md), [Asaṅga](../teachers/asanga.md)
 
 
 _Notes: One of the 'five Dharmas of Maitreya' in the Tibetan list (Abhisamayālaṃkāra, Mahāyānasūtrālaṃkāra, Madhyāntavibhāga, Dharmadharmatāvibhāga, Ratnagotravibhāga). Chinese tradition instead attributes the Yogācārabhūmi to Maitreya and the Ratnagotravibhāga to Sāramati._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

@@ -12,4 +12,4 @@
 Third Karmapa (1284-1339), author of the Treatise on Buddha-Nature and of the Profound Inner Meaning; joined buddha-nature to Mahāmudrā.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

@@ -1,6 +1,6 @@
 # Negation 'not this, not this'
 
-`prc:neti-neti` · `skeleton` · confidence high
+`prc:neti-neti` · `sourced` · confidence high
 
 **Category:** inquiry
 **Convergence:** 4 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [Rāmānandī sampradāya](../lineages/ramanandi.md), [Sāṃkhya](../lineages/samkhya.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -20,4 +20,8 @@ In the Rāma Gītā: negating the whole world by 'not this', tasting the conscio
 _Notes: U06 contribution to a shared practice id (principal source: Bṛhadāraṇyaka Upaniṣad)._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U09-samkhya. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — All 5 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 2.3.6; BĀU 3.9.26; BĀU 4.2.4; BĀU 4.4.22; BĀU 4.5.15). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U06-other-gitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U09-samkhya. Generated 2026-09-29 17:10 IST._

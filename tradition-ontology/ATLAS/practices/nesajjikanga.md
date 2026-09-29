@@ -17,4 +17,4 @@ One of the thirteen ascetic practices: the sitter's practice (not lying down), u
 _Notes: Name slug in Pali without diacritics. The sitter's practice is flagged restricted as a prolonged sleep-deprivation austerity (summary only)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._

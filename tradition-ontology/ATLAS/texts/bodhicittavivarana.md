@@ -5,7 +5,7 @@
 **Alternate titles:** byang chub sems kyi 'grel pa (Tibetan)
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Madhyamaka](../lineages/madhyamaka.md), `lin:vajrayana`
+**Lineages:** [Madhyamaka](../lineages/madhyamaka.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
 **Genre:** kārikā
 **Authors:** 
   - [Nāgārjuna](../teachers/nagarjuna.md) — role: author; attribution: disputed
@@ -18,4 +18,4 @@ A verse treatise ascribed to Nāgārjuna explaining the awakening mind in its ul
   - kind: translation; name: Tibetan translation, Derge Tengyur D1801 (second version) — catalog:Derge-Tengyur:D1801
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

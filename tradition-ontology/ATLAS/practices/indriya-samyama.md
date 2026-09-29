@@ -26,4 +26,4 @@ Withdraw the senses from their objects on all sides as a tortoise draws in its l
 _Notes: Merger: probably the same as the skeleton's prc:indriya-nigraha ('Restraint and withdrawal of the senses', BhG 2.58, 3.41); both extractors used this id, so it is kept; flagged for the de-duplication pass._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 16:38 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:10 IST._

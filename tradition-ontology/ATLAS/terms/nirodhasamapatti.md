@@ -3,9 +3,11 @@
 `trm:nirodhasamapatti` · `skeleton` · confidence high
 
 **Language:** Sanskrit
+**Literal:** attainment of cessation
 
 ## Definitions by tradition
 - [Sarvāstivāda](../lineages/sarvastivada.md): Attainment of cessation: a stopping of mind and mental factors entered from the peak of existence by noble ones for the sake of peaceful dwelling; obtained by the Buddha together with awakening.
+- [Yogācāra](../lineages/yogacara.md): A mindless attainment in which the six consciousnesses and the afflicted mind cease, while the store-consciousness continues — one of Yogācāra's reasons for positing the ālaya.
 
 ## Forms in other languages
 - Pali: nirodhasamāpatti  — exact
@@ -17,4 +19,4 @@
 **Related:** [samāpatti](samapatti.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:10 IST._

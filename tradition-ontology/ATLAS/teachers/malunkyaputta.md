@@ -9,4 +9,4 @@
 The monk who demanded answers to the undeclared questions (MN 63) and who, in old age, received the 'in the seen only the seen' teaching (SN 35.95).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

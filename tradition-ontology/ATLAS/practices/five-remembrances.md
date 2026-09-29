@@ -12,4 +12,4 @@ Reflecting often: I am subject to ageing, to illness, to death; I will be separa
   - [Abhiṇhapaccavekkhitabbaṭhāna Sutta](../texts/abhinhapaccavekkhitabbathana-sutta.md) — ref: 1-11; rests_on: ["tea:abhinhapaccavekkhitabbathana-sutta:1-11"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

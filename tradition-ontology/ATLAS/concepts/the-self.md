@@ -17,4 +17,4 @@
 
 - 2026-09-29 text: corrected — tea:bhagavad-gita:4.35, tea:bhagavad-gita:6.29, tea:bhagavad-gita:5.7, tea:bhagavad-gita:6.18, tea:bhagavad-gita:6.20, tea:bhagavad-gita:6.5, tea:bhagavad-gita:6.6 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 17:10 IST._

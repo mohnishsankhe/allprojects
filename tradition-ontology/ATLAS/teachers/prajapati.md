@@ -1,6 +1,6 @@
 # Prajāpati (as teacher)
 
-`tch:prajapati` · `skeleton` · confidence high
+`tch:prajapati` · `sourced` · confidence high
 
 **Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md)
 **Historicity:** mythic
@@ -12,4 +12,8 @@ Lord of creatures, teacher of gods, humans and asuras: teaches 'da' (BAU 5.2); t
 _Notes: Linked in BhG ch. 1–3 at 3.10, 3.11, 3.12._
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch01-03, skeleton:U04-minor-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/maitri-upanisad/segments.j — Located: BĀU 5.2.1-3 ('prajāpatau pitari brahmacaryam ūṣuḥ'); ChU 8.7-12 (101 years, 8.11.3); ChU 3.11.4 and 8.15.1 (teacher-line); MaiU 2.3 ('kratuṃ prajāpatim abruvan', the Vālakhilyas).
+
+_Contributed by: skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch01-03, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:10 IST._

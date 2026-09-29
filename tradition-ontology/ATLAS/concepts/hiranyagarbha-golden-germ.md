@@ -13,4 +13,4 @@
 - part-of → [The plurality of Vedic creation accounts](vedic-cosmogonies.md): One of the Saṃhitās' creation accounts. — rests on [10.121.1](../texts/rgveda.md#tea-rgveda-10-121-1)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:10 IST._

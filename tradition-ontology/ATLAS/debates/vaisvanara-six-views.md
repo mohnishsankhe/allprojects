@@ -1,6 +1,6 @@
 # What is the self common to all men (vaiśvānara)?
 
-`dsp:vaisvanara-six-views` · `skeleton` · confidence moderate
+`dsp:vaisvanara-six-views` · `sourced` · confidence moderate
 
 
 ## Sides (recorded before any reconciliation)
@@ -24,4 +24,8 @@ Aśvapati Kaikeya: each is only one part (head, eye, breath, trunk, bladder, fee
 **The traditions' own objections:** Aśvapati warns that each partial view alone would have brought harm; the parts are not sufficient in isolation.
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 5.11-18). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

@@ -106,4 +106,4 @@ concepts: [The triple mark of the existent](../concepts/utpada-vyaya-dhrauvya.md
 _Notes: Title present in the local catalogue (catalog:JainDB:आप्त-मीमांसा); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._

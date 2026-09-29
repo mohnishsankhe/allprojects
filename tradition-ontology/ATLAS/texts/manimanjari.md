@@ -16,4 +16,4 @@ A shorter poem by Nārāyaṇa Paṇḍitācārya narrating, from the Mādhva si
 _Notes: A commentary (Gūḍhabhāvaprakāśikā) on cantos 5 and 7 is in the raw_etexts corpus._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:10 IST._

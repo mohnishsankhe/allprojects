@@ -15,4 +15,4 @@
 - part-of → [Gradation of souls (tāratamya)](taratamya.md): the three classes are the broadest division of the gradation — rests on [4-7](../texts/tattvaviveka.md#tea-tattvaviveka-4-7)
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:10 IST._

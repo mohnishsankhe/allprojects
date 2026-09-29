@@ -1,6 +1,6 @@
 # Brahman (the ultimate ground)
 
-`cpt:brahman` · `skeleton` · confidence high
+`cpt:brahman` · `sourced` · confidence high
 
 **Category:** ultimate
 
@@ -24,5 +24,6 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.24, tea:bhagavad-gita:4.25, tea:bhagavad-gita:4.31, tea:bhagavad-gita:5.6, tea:bhagavad-gita:5.10, tea:bhagavad-gita:5.19, tea:bhagavad-gita:5.20, tea:bhagavad-gita:5.24, tea:bhagavad-gita:6.27, tea:bhagavad-gita:6.28 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/mandukya-upanisad/segments — All 9 Upaniṣad refs cited in the entry are located in the prepared segments (TU 3.1.1; ChU 6.2.1; TU 2.1.1; BĀU 3.9.28; ChU 7.23-24; BĀU 3.8.8; MuU 1.1.5; BĀU 2.3.1; BĀU 2.3.6). It rests on 10 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 17:10 IST._

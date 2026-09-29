@@ -2,8 +2,8 @@
 
 `tch:mahakassapa` · `skeleton` · confidence high
 
-**Alternate names:** Pippali Māṇava
-**Lineages:** [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md), [Theravāda](../lineages/theravada.md)
+**Alternate names:** Pippali Māṇava, Mahākāśyapa (Mohe Jiashe 摩訶迦葉)
+**Lineages:** [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md), [Theravāda](../lineages/theravada.md), [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Historicity:** historical
 **Teachers:** [Gotama Buddha](gotama-buddha.md)
 
@@ -12,4 +12,4 @@ Foremost in the ascetic practices (dhutaṅga); a brahmin (Pippali) who renounce
 _Notes: AN 1 Etadaggavagga (the 'foremost' lists)_
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U42-chan-zen. Generated 2026-09-29 17:10 IST._

@@ -20,4 +20,4 @@ Intention is absent from the undertakings of the wise (4.19); no one becomes a y
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.19, tea:bhagavad-gita:6.2, tea:bhagavad-gita:6.4, tea:bhagavad-gita:6.24 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U06-other-gitas. Generated 2026-09-29 16:38 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U06-other-gitas. Generated 2026-09-29 17:10 IST._

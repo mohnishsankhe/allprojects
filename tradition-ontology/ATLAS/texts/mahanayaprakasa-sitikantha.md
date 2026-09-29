@@ -16,4 +16,4 @@ Rājānaka Śitikaṇṭha's exposition of the Krama (Mahānaya) in Old Kashmiri
   - kind: original; name: Kashmir Series of Texts and Studies (KSTS), Srinagar 21 (1918)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._

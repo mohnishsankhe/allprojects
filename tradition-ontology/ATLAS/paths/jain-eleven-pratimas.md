@@ -23,4 +23,4 @@
 Śvetāmbara list differs (view, vow, sāmāyika, pauṣadha, kāyotsarga, celibacy, living food, undertakings, employing others, prepared food, living like a monk — recalled). Stages after right view are banded B6 (cultivation after seeing).
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:10 IST._

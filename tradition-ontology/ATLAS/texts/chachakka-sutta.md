@@ -39,4 +39,4 @@ terms: [anusaya](../terms/anusaya.md) · obstacles: [The seven latent tendencies
 _Notes: SuttaCentral uid mn148; Mahāsaṅgīti title 'Chachakkasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:10 IST._

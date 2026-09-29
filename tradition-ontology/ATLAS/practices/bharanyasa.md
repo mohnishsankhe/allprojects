@@ -13,4 +13,4 @@ The formal performance of surrender, in which one places the burden of one's pro
 **Sequences:** [The way of surrender (Śrīvaiṣṇava prapatti)](../paths/srivaisnava-prapatti.md)
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:10 IST._

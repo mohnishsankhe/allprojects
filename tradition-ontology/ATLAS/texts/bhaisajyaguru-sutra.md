@@ -5,7 +5,7 @@
 **Alternate titles:** Yaoshi liuliguang rulai benyuan gongde jing 藥師琉璃光如來本願功德經 (T450, Xuanzang 650), T451 (Yijing 707), Toh 504, Bhaiṣajyaguruvaiḍūryaprabharāja-sūtra
 **Language:** Sanskrit
 **Family:** ascetic
-**Lineages:** [Mahāyāna](../lineages/mahayana.md), `lin:pure-land`, `lin:tiantai`, `lin:tendai`, `lin:shingon`, `lin:vajrayana`
+**Lineages:** [Mahāyāna](../lineages/mahayana.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tiantai`, `lin:tendai`, `lin:shingon`, [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
 **Genre:** sūtra
 **Attribution:** tradition: Spoken by the Buddha Śākyamuni (tradition's account: buddhavacana) to Mañjuśrī at Vaiśālī; scholarly: Anonymous; Gilgit ms (6th-7th c.); Chinese 5th-8th c.; confidence: high
 **Dates:** Scholarly account: c. 4th-5th c. CE; (confidence low)
@@ -30,4 +30,4 @@ concepts: [Bhaiṣajyaguru's twelve vows](../concepts/twelve-vows-bhaisajyaguru.
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:10 IST._

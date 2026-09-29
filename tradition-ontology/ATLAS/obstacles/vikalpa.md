@@ -13,4 +13,4 @@ Dichotomizing thought, permeated by words, veils one's nature and is the form of
   - [Spandakārikā](../texts/spanda-karika.md) — ref: 3.14-16; rests_on: ["tea:spanda-karika:3.14-16"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:10 IST._

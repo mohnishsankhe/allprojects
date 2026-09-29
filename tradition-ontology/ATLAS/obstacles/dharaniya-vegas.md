@@ -14,4 +14,4 @@ Greed, grief, fear, anger, pride, shamelessness, envy, excessive passion and cov
   - [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) — ref: Sū 4.24; rests_on: ["tea:astanga-hrdaya:su.4.22-26"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:10 IST._

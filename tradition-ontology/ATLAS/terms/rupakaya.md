@@ -7,12 +7,15 @@
 
 ## Definitions by tradition
 - [Mahāyāna](../lineages/mahayana.md): The Buddha's visible body with the thirty-two marks, by which the Tathāgata is not truly to be seen.
+- [Madhyamaka](../lineages/madhyamaka.md): The form bodies of the Buddhas, arising from the collection of merit (RĀ 3.12–13).
 
 ## Forms in other languages
 - Tibetan: gzugs kyi sku  — exact
 - Chinese: seshen 色身  — exact
+- Tibetan: gzugs sku  — exact
 
 ## Equivalents (interpretation layer)
+**Related:** [dharmakāya](dharmakaya.md)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

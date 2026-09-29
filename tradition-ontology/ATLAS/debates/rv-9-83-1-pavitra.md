@@ -22,4 +22,4 @@ The verse enjoins the heating (tapta) of the body with the seals of Viṣṇu's 
 **Candidate readings:** P3-path: the same injunction to consecrate the body read through different chosen deities (liṅga for Śaivas, the seals for Vaiṣṇavas) — each tradition holds its reading exclusive.
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:10 IST._

@@ -18,7 +18,7 @@
 **Editions / translations:** 
   - kind: original; name: Sanskrit fragments with Candrakīrti's ṭīkā, ed. Haraprasad Shastri (1914) and P. L. Vaidya (1923/1931) — local e-texts chatuHshatikA
   - kind: translation; name: Tibetan translation, Derge Tengyur D3846 (bstan bcos bzhi brgya pa zhes bya ba'i tshig le'ur byas pa) — catalog:Derge-Tengyur:D3846
-  - kind: translation; name: Chinese chs. 9–16: T1570 (Xuanzang), with Dharmapāla's commentary T1571
+  - kind: translation; name: Chinese chs. 9–16: Guang bai lun ben 廣百論本, T1570 (Xuanzang), with Dharmapāla's commentary T1571 — catalog:CBETA:T30n1570, T30n1571
 **Commentaries on this text:** [Bodhisattvayogācāra-catuḥśatakaṭīkā](catuhsataka-tika.md)
 
 ## Teachings (7: skeleton 7)
@@ -30,7 +30,7 @@ Chapter on abandoning the belief in permanence: one who has the three worlds' lo
 
 _level: conventional · standpoint: seeker · path: knowledge, meditation · stage: beginner · types: death-dying, practice_
 
-concepts: `cpt:four-viparyasas` · teachers: [Āryadeva](../teachers/aryadeva.md)
+concepts: [The four errors (viparyāsa)](../concepts/four-viparyasas.md) · teachers: [Āryadeva](../teachers/aryadeva.md)
 
 ### 8.15 <a id="tea-catuhsataka-8-15"></a>
 `skeleton` · confidence high
@@ -41,7 +41,7 @@ First turning away from demerit, in the middle turning away from the self, after
 
 _level: bridging · standpoint: seeker · path: knowledge, action · stage: all · types: practice, teacher-transmission_
 
-concepts: `cpt:graded-teaching` · teachers: [Āryadeva](../teachers/aryadeva.md)
+concepts: [Graded teaching fitted to the hearer](../concepts/graded-teaching.md) · teachers: [Āryadeva](../teachers/aryadeva.md)
 
 ### 8.19 <a id="tea-catuhsataka-8-19"></a>
 `skeleton` · confidence high
@@ -52,7 +52,7 @@ Just as a barbarian cannot be made to understand in another language, so the wor
 
 _level: bridging · standpoint: seeker · path: general · stage: all · types: teacher-transmission, sound-language_
 
-concepts: [The two truths (sūtra layer)](../concepts/two-truths.md), `cpt:language-and-emptiness` · teachers: [Āryadeva](../teachers/aryadeva.md)
+concepts: [The two truths (satyadvaya)](../concepts/two-truths.md), [Language, designation and emptiness](../concepts/language-and-emptiness.md) · teachers: [Āryadeva](../teachers/aryadeva.md)
 
 ### 10 <a id="tea-catuhsataka-10"></a>
 `skeleton` · confidence low
@@ -70,7 +70,7 @@ One who is impartial, intelligent and eager is called a vessel for hearing; othe
 
 _level: conventional · standpoint: seeker · path: general · stage: beginner · types: teacher-transmission_
 
-concepts: `cpt:qualified-student` · teachers: [Āryadeva](../teachers/aryadeva.md)
+concepts: [The qualified student](../concepts/qualified-student.md) · teachers: [Āryadeva](../teachers/aryadeva.md)
 
 ### 12.23 <a id="tea-catuhsataka-12-23"></a>
 `skeleton` · confidence high
@@ -92,10 +92,10 @@ One who has no position — 'existent', 'non-existent' or 'both existent and non
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute_
 
-concepts: `cpt:no-thesis`, `cpt:catuskoti` · teachers: [Āryadeva](../teachers/aryadeva.md) · disputes: [May a debater refute without holding a thesis of his own (vitaṇḍā)?](../debates/debate-without-thesis.md), `dsp:prasangika-svatantrika`
+concepts: [Having no thesis](../concepts/no-thesis.md), [The four-cornered negation (catuṣkoṭi)](../concepts/catuskoti.md) · teachers: [Āryadeva](../teachers/aryadeva.md) · disputes: [May a debater refute without holding a thesis of his own (vitaṇḍā)?](../debates/debate-without-thesis.md), `dsp:prasangika-svatantrika`
 
 
 _Notes: Titles of chs. 8, 9, 10, 13, 14, 16 confirmed from colophons in the local e-text; the others from memory._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:10 IST._

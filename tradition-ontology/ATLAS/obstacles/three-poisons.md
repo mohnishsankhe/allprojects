@@ -14,4 +14,4 @@ In the desire realm passion, aversion and delusion are the three bad roots (AK 5
   - [Abhidharmakośa (Abhidharmakośakārikā)](../texts/abhidharmakosa.md) — ref: 6.9-11; rests_on: ["tea:abhidharmakosa:6.9-11"]
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:10 IST._

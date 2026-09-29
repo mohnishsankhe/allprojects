@@ -1,6 +1,6 @@
 # Purity of food (āhāraśuddhi)
 
-`prc:ahara-suddhi` · `skeleton` · confidence high
+`prc:ahara-suddhi` · `sourced` · confidence high
 
 **Category:** body-daily-rhythm
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -12,4 +12,8 @@ When food (what is taken in) is pure, the mind is pure; when the mind is pure, m
   - [Chāndogya Upaniṣad](../texts/chandogya-upanisad.md) — ref: 7.26.2; rests_on: ["tea:chandogya-upanisad:7.26.1-2"]
 
 ---
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 16:38 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — All 1 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 7.26.2). It rests on 1 teaching(s) text-located in this sweep, and its wording matches those passages.
+
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:10 IST._

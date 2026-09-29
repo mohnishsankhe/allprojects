@@ -22,4 +22,4 @@ Softly repeating the names of Kṛṣṇa (in Gauḍīya practice, above all the
 - partial: [Mantra repetition (japa)](japa.md) — general mantra repetition; here the object is the name itself, held non-different from Kṛṣṇa
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:10 IST._

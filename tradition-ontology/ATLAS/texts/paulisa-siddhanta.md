@@ -15,4 +15,4 @@ The siddhānta of Puliśa, known from the Pañcasiddhāntikā and cited by later
 _Notes: Known chiefly through Varāhamihira's Pañcasiddhāntikā._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:10 IST._

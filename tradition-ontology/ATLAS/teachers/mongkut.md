@@ -10,4 +10,4 @@
 Siamese prince who spent 27 years as a monk (1824–1851), founded the reformist Dhammayut order, and reigned as King Rāma IV (1851–1868).
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:10 IST._

@@ -13,4 +13,4 @@
 - opposes → [Liberation (mokṣa) in Advaita](liberation-advaita.md): rejects identity and the unreality of the world — rests on [sutra.2](../texts/civanana-mapatiyam.md#tea-civanana-mapatiyam-sutra-2)
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 16:38 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:10 IST._
