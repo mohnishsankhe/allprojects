@@ -102,7 +102,7 @@ def pick(store, bucket_id: str, fmt: str, seed: int = 0) -> Optional[tuple[int, 
 # --- drafting ----------------------------------------------------------------------------------
 def _sentence(s: str) -> str:
     s = (s or "").strip()
-    return s if not s or s[-1] in ".?!…”\"" else s + "."
+    return s if not s or s[-1] in ".?!…”\"’')" or s[-2:] in ('."', '.”', ".’", "?”", "!”") else s + "."
 
 
 STOPS = "Where the text stops: it describes what happens; it does not promise a result."
@@ -114,6 +114,7 @@ def _item_parts(bucket_id: str, scene_idx: int, item: dict) -> dict:
     link = item.get("link") or item.get("angle") or ""
     closing = item.get("closing") or CLOSINGS[int(hashlib.sha1(f"{bucket_id}{item['tid']}".encode()).hexdigest(), 16) % len(CLOSINGS)]
     return {"scene": _sentence(scene), "point": _sentence(item["point"]), "link": _sentence(link),
+            "difference": _sentence(item.get("difference") or ""),
             "x_link": _sentence(item.get("x_link") or link), "close": _sentence(item.get("close_reading") or ""),
             "closing": _sentence(closing), "src": source_line(item["tid"])}
 
@@ -132,9 +133,11 @@ def rules_draft(bucket_id: str, fmt: str, scene_idx: int, item: dict) -> dict:
         if len(parts[0]) > 280:
             parts = [f"{sc} {pt} ({src})"]
     elif fmt == "x_thread":
-        parts = [sc, f"An old text puts it this way: {pt} ({src})"] + ([cr] if cr else []) + [ln, cl]
+        parts = [sc, f"An old text puts it this way: {pt} ({src})"] + ([cr] if cr else []) + [ln] + \
+                ([P["difference"]] if P["difference"] else []) + [cl]
     elif fmt == "ig_carousel":
-        parts = [sc, "An old text has a word for this.", pt, f"Source: {src}", ln, cl]
+        parts = [sc, "An old text has a word for this.", pt, f"Source: {src}", ln] + \
+                ([P["difference"]] if P["difference"] else []) + [cl]
     elif fmt == "short_video":
         parts = _short_video_parts(sc, pt, ln, src, cl, cr, item["tid"])
     elif fmt == "long_video":

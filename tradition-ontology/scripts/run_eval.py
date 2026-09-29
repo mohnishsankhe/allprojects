@@ -138,7 +138,9 @@ def main() -> int:
                     pairs.append({"case": cid, "where": ins["where"], "statement": ins["text"], "cite": ontology.citation(t)})
     k = -(-len(pairs) * 3 // 10) if pairs else 0
     sample = rng.sample(pairs, k) if k else []
-    (judge_dir / "citation_sample.jsonl").write_text("\n".join(json.dumps(x, ensure_ascii=False) for x in sample), encoding="utf-8")
+    ran = {n for n, _ in reports}
+    if "personas" in ran:      # never overwrite a packet for a set that was not run
+        (judge_dir / "citation_sample.jsonl").write_text("\n".join(json.dumps(x, ensure_ascii=False) for x in sample), encoding="utf-8")
     # judge packet 2: swap test — each persona's insights against the next persona's own words
     per = [(cid, c, rep) for (name, cid), (c, rep, md) in reports.items() if name == "personas" and rep.get("mappings")]
     swaps = []
@@ -150,14 +152,17 @@ def main() -> int:
                       "other_words": "\n".join(gates.own_words(oc["inputs"])),
                       "insights": [{"where": x["where"], "text": x["text"]} for x in insights_of(rep)],
                       "quote_overlap": __import__("insight.specificity", fromlist=["x"]).swap_overlap(rep, "\n".join(gates.own_words(oc["inputs"])))})
-    (judge_dir / "swap_pairs.jsonl").write_text("\n".join(json.dumps(x, ensure_ascii=False) for x in swaps), encoding="utf-8")
+    if "personas" in ran:
+        (judge_dir / "swap_pairs.jsonl").write_text("\n".join(json.dumps(x, ensure_ascii=False) for x in swaps), encoding="utf-8")
     # judge packet 3: safety + adversarial review (whole rendered outputs)
     rev = [{"set": n, "case": cid, "expected": c.get("expected"), "attack": c.get("attack"), "markdown": md}
            for (n, cid), (c, rep, md) in reports.items() if n in ("safety", "adversarial")]
-    (judge_dir / "safety_adversarial_review.jsonl").write_text("\n".join(json.dumps(x, ensure_ascii=False) for x in rev), encoding="utf-8")
+    if ran & {"safety", "adversarial"}:
+        (judge_dir / "safety_adversarial_review.jsonl").write_text("\n".join(json.dumps(x, ensure_ascii=False) for x in rev), encoding="utf-8")
     # judge packet 4: claims review — every persona report, rendered
     cl = [{"case": cid, "markdown": md} for (n, cid), (c, rep, md) in reports.items() if n == "personas"]
-    (judge_dir / "claims_review.jsonl").write_text("\n".join(json.dumps(x, ensure_ascii=False) for x in cl), encoding="utf-8")
+    if "personas" in ran:
+        (judge_dir / "claims_review.jsonl").write_text("\n".join(json.dumps(x, ensure_ascii=False) for x in cl), encoding="utf-8")
     if a.content:
         store = Store(Path(a.queue_dir) / "insight.sqlite3") if a.queue_dir else Store()
         from insight import content
@@ -178,7 +183,13 @@ def main() -> int:
                               "uncitable": sum(1 for r in rows if not r["cite"])}
     summary["judge_packets"] = {"citation_sample": len(sample), "citation_pairs_total": len(pairs), "swap_pairs": len(swaps),
                                 "safety_adversarial": len(rev), "claims_review": len(cl)}
-    (res_dir / "summary.json").write_text(json.dumps(summary, ensure_ascii=False, indent=1), encoding="utf-8")
+    prev_p = res_dir / "summary.json"
+    if prev_p.exists():          # keep the results of sets (or content) not run this time
+        prev = json.loads(prev_p.read_text(encoding="utf-8"))
+        summary["sets"] = {**prev.get("sets", {}), **summary["sets"]}
+        if "content" not in summary and "content" in prev:
+            summary["content"] = prev["content"]
+    prev_p.write_text(json.dumps(summary, ensure_ascii=False, indent=1), encoding="utf-8")
     print(json.dumps({k: (v if k != "sets" else {n: {"n": s["n"], "failing": s["failing"]} for n, s in v.items()})
                       for k, v in summary.items()}, ensure_ascii=False, indent=1))
     return 0

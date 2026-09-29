@@ -96,3 +96,22 @@ Applies to every draft from `insight/content.py` and every edit a reviewer makes
 - Model check (when the model engine runs): faithful to the teaching, no claims, idea-specific, no stretch.
 - Human reviewer: platform policy and AI labels, carousel caption length, bucket "never" lists, cross-account
   amplification, quoting limits, scene repetition in the calendar, and anything the checks cannot see.
+
+## Rework (P6)
+- `buckets.json` 2.0 replaces the pools after the P5 content gate (8/50). Each pool item is written for ONE teaching and ONE
+  scene and is used as a whole: `tid`, `point`, `scene`, `link`, `close_reading` (left out only for three single-line
+  sūtras given in full in `point`), `closing`, plus `x_link` where the full X post would pass 280 characters, and an
+  optional `difference` line (self / no-self). The old free-floating `angle` is gone; the bucket `scenes` lists now feed
+  calendar suggestions only.
+- Pools: work 24, overthinking 22, sleep 23, loneliness 22, meaning 26 (117 items; 98 text-verified, 19 sourced). This
+  replaces the counts in design choices 1 and 2.
+- Every `tid` is the exact verse the text rests on (`ontology.teaching(tid)["id"] == tid`, citable, no range or
+  superseded id). Judge fixes: BhG 17.14-16 → 17.15; BhG 18.26-28 → 18.26; TS 8.23 removed; YS 1.14 retired; DN 22:13
+  dropped (= MN 10:36); MN 10:8 dropped from work (= DN 22:4, kept in sleep); Vism 9.p319 retired; the BhG 18.63, YS 1.3,
+  BhG 10.9, BhG 6.30 and TS 6.10 texts rewritten; BhG 5.10 keeps "by sin (pāpa)"; BhG 6.17 moved from sleep to work.
+- One passage per pool across all five accounts, parallels included (DN 22 / MN 10 sections, Muṇḍaka 3.1.1-2 /
+  Śvetāśvatara 4.6-7, BhG 2.20 / KaU 1.2.18, BhG 3.35 / 18.47), and no citation line is printed by two items.
+- Checked by code: exact and citable tids; no duplicate or overlapping passage; word limits (point 25, scene 22, link 30,
+  close_reading 45, closing 12, x_link 15); `claims.scan` on every field = 0 hits; no "you will"; 97 of 117 items fit an
+  X post with the full link, the other 20 fit with `x_link`; every item rendered in all five formats passes the
+  `rules_check` limits (similarity not run: empty store).
