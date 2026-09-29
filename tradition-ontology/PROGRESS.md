@@ -53,7 +53,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U38-early-schools | running | | |
 | U39-mahayana-sutras | running (resumed) | | |
 | U40-madhyamaka | running (resumed) | | |
-| U41-yogacara-pramana | paused (weekly limit; resume when a slot frees) | | |
+| U41-yogacara-pramana | running (resumed) | | |
 | U42-chan-zen | queued | | |
 | U43-pure-land | queued | | |
 | U44-indian-vajrayana | queued | | |
@@ -92,7 +92,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | text | chunk | A | B | M | F | gates |
 |---|---|---|---|---|---|---|
 | bhagavad-gita | ch01-03 | done (165) | done (165) | done (165 tea, 554 disagreements; skeleton 72 up · 1 corr · 0 ret) | done: 151 passed · 14 fixed · 0 failed → text-verified | |
-| bhagavad-gita | ch04-06 | done (123) | done (125) | done (124 tea, 534 disagreements; skeleton 63 up · 4 corr · 0 ret) | running | |
+| bhagavad-gita | ch04-06 | done (123) | done (125) | done (124 tea, 534 disagreements; skeleton 63 up · 4 corr · 0 ret) | done: 109 passed · 15 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch07-09 | done (95) | done (95) | running | | |
 | bhagavad-gita | ch10-12 | | | | | |
 | bhagavad-gita | ch13-15 | | | | | |

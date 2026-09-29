@@ -1,0 +1,124 @@
+{"id": "tea:bhagavad-gita:ch4", "status": "passed", "note": "Chapter entry checked against 4.1–42: six movements and their verse ranges are right; 4.6–8 use the text's own verbs (comes into being by his own māyā), no 'avatāra'; purpose stated as the chapter presents it. Link cpt:avatara is an index to the doctrine's usual name, whose definition states that the word does not occur."}
+{"id": "tea:bhagavad-gita:4.1", "status": "passed", "note": "Matches: avyayam agrees with yogam; chain Vivasvat → Manu → Ikṣvāku exact; the Manu Vaivasvata link is explained in notes; speaker heading in the original kept as given."}
+{"id": "tea:bhagavad-gita:4.2", "status": "passed", "note": "Matches: received through paramparā, known by the rājarṣis, lost here by a great lapse of time; nothing added."}
+{"id": "tea:bhagavad-gita:4.3", "status": "passed", "note": "Matches: the same ancient yoga, the reason (bhakta, sakhā), 'the highest secret' (rahasyam uttamam)."}
+{"id": "tea:bhagavad-gita:4.4", "status": "passed", "note": "Arjuna's question rendered exactly; speaker correct (arjuna uvāca)."}
+{"id": "tea:bhagavad-gita:4.5", "status": "passed", "note": "Matches; janma rendered 'births', no 'avatāra'; speaker heading in the original kept as given."}
+{"id": "tea:bhagavad-gita:4.6", "status": "passed", "note": "Matches: aja, avyayātmā, īśvara, prakṛtiṃ svām adhiṣṭhāya, saṃbhavāmi ātmamāyayā; no 'avatāra' imported; commentarial divisions on māyā and prakṛti confined to notes. 'bridging' is plausible (unborn yet coming into being)."}
+{"id": "tea:bhagavad-gita:4.7", "status": "passed", "note": "Matches: sṛjāmi rendered 'send myself forth'; no 'avatāra' or 'descent' imported."}
+{"id": "tea:bhagavad-gita:4.8", "status": "passed", "note": "Matches: saṃbhavāmi yuge yuge = 'come into being age after age'; the three purposes exact."}
+{"id": "tea:bhagavad-gita:4.9", "status": "passed", "note": "Matches in substance (divyam may be read attributively or predicatively with the same sense); not reborn on leaving the body, comes to me."}
+{"id": "tea:bhagavad-gita:4.10", "status": "passed", "note": "Matches: rāga, bhaya, krodha; manmaya; upāśrita; jñāna-tapas; madbhāva (identity vs likeness left to notes)."}
+{"id": "tea:bhagavad-gita:4.11", "status": "passed", "note": "Matches; bhajāmi and the line repeated from 3.23b rendered minimally, alternative readings in notes."}
+{"id": "tea:bhagavad-gita:4.12", "status": "passed", "note": "Matches; the verse's motive and quick result stated, no verdict added."}
+{"id": "tea:bhagavad-gita:4.13", "status": "passed", "note": "Matches; tasya kartāram … akartāram exact; birth-vs-conduct question left to notes as the verse does not settle it."}
+{"id": "tea:bhagavad-gita:4.14", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:4.15", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:4.16", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:4.17", "status": "passed", "note": "Matches; vikarma left undefined, as in the text (readings in notes)."}
+{"id": "tea:bhagavad-gita:4.18", "status": "passed", "note": "Matches; the paradox is kept without choosing a commentarial explanation."}
+{"id": "tea:bhagavad-gita:4.19", "status": "passed", "note": "Matches; the compound's two construals noted."}
+{"id": "tea:bhagavad-gita:4.20", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:4.21", "status": "fixed", "note": "Fixed: 'yatacittātmā' had been rendered 'with mind and self restrained' (citta flattened into 'mind'; ātman here is oneself, not the self); now 'restrained in thought (citta) and in himself'. Rest matches."}
+{"id": "tea:bhagavad-gita:4.22", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:4.23", "status": "fixed", "note": "Fixed: cetas had been rendered 'mind' without marker; now 'thought (cetas)'. Rest matches."}
+{"id": "tea:bhagavad-gita:4.24", "status": "passed", "note": "Matches; samādhi not given the Yoga Sūtra's technical sense."}
+{"id": "tea:bhagavad-gita:4.25", "status": "passed", "note": "Matches; the obscure second line kept literal, readings in notes."}
+{"id": "tea:bhagavad-gita:4.26", "status": "passed", "note": "Matches; saṃyama is sense-restraint here, not Yoga Sūtra 3.4's triad."}
+{"id": "tea:bhagavad-gita:4.27", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:4.28", "status": "passed", "note": "Matches; the two divisions of the svādhyāya-jñāna compound noted."}
+{"id": "tea:bhagavad-gita:4.29", "status": "passed", "note": "Matches; no measures or retention added; segment's transliteration kept exactly as given ('prāṇa' for prāṇaṃ)."}
+{"id": "tea:bhagavad-gita:4.30", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:4.31", "status": "passed", "note": "Matches; segment's transliteration kept exactly as given (stray nukta in 'kuto़'nyaḥ')."}
+{"id": "tea:bhagavad-gita:4.32", "status": "passed", "note": "Matches; 'brahmaṇo mukhe' kept literal, readings in notes."}
+{"id": "tea:bhagavad-gita:4.33", "status": "passed", "note": "Matches; the samuccaya debate kept to notes and dispute links."}
+{"id": "tea:bhagavad-gita:4.34", "status": "fixed", "note": "Paraphrase matches. Fixed link: cross_ref tea:mundaka-upanisad:1.2.12 did not exist; repointed to the existing entry tea:mundaka-upanisad:1.2.12-13."}
+{"id": "tea:bhagavad-gita:4.35", "status": "fixed", "note": "Paraphrase matches. Fixed: cross_ref tea:isa-upanisad:6 did not exist, repointed to tea:isa-upanisad:6-7; notes now also record the reflexive reading of 'ātmani' ('in yourself')."}
+{"id": "tea:bhagavad-gita:4.36", "status": "passed", "note": "Matches; stated as a hypothetical, as in the text."}
+{"id": "tea:bhagavad-gita:4.37", "status": "passed", "note": "Matches; the prārabdha question kept to notes."}
+{"id": "tea:bhagavad-gita:4.38", "status": "passed", "note": "Matches; 'ātmani' ambiguity noted."}
+{"id": "tea:bhagavad-gita:4.39", "status": "passed", "note": "Matches; segment's transliteration kept exactly as given ('śraddhāvā~l')."}
+{"id": "tea:bhagavad-gita:4.40", "status": "fixed", "note": "Fixed: 'saṃśayātman' had been rendered 'the doubting self', reading a reflexive/mental ātman as 'the self' (which would make the self perish); now 'the one of doubting mind'. Rest matches."}
+{"id": "tea:bhagavad-gita:4.41", "status": "passed", "note": "Matches; the yoga of 'yoga-saṃnyasta' left unspecified, as in the text."}
+{"id": "tea:bhagavad-gita:4.42", "status": "passed", "note": "Matches; 'ātmanaḥ' construals noted."}
+{"id": "tea:bhagavad-gita:ch5", "status": "passed", "note": "Chapter entry checked against 5.1–29: seven movements and verse ranges right; prabhu rendered 'the master', neither Lord nor self imposed; purpose stated as the chapter presents it."}
+{"id": "tea:bhagavad-gita:5.1", "status": "passed", "note": "Matches; speaker Arjuna; segment's transliteration kept exactly as given ('suniśicatam')."}
+{"id": "tea:bhagavad-gita:5.2", "status": "passed", "note": "Matches; the commentators' scope of 'superior' confined to notes; speaker heading in the original kept."}
+{"id": "tea:bhagavad-gita:5.3", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:5.4", "status": "passed", "note": "Matches; 'sāṃkhya' not identified with the classical school."}
+{"id": "tea:bhagavad-gita:5.5", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:5.6", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:5.7", "status": "passed", "note": "Matches; 'sarvabhūtātmabhūtātmā' rendered literally, identity/likeness readings kept to notes; vijitātmā rendered reflexively."}
+{"id": "tea:bhagavad-gita:5.8", "status": "passed", "note": "Matches; the sentence continues in 5.9; segment's transliteration kept exactly as given ('śrṛṇavan')."}
+{"id": "tea:bhagavad-gita:5.9", "status": "passed", "note": "Matches; completes 5.8."}
+{"id": "tea:bhagavad-gita:5.8-9", "status": "passed", "note": "Original equals segments 5.8 + 5.9; the sentence rendered whole; nothing added."}
+{"id": "tea:bhagavad-gita:5.10", "status": "passed", "note": "Matches; 'brahman' left unglossed, readings in notes."}
+{"id": "tea:bhagavad-gita:5.11", "status": "passed", "note": "Matches; kāya, manas, buddhi, indriya kept distinct."}
+{"id": "tea:bhagavad-gita:5.12", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:5.13", "status": "fixed", "note": "Paraphrase matches. Fixed link: cross_ref tea:svetasvatara-upanisad:3.18 did not exist; repointed to the existing entry tea:svetasvatara-upanisad:3.16-19, which contains 3.18."}
+{"id": "tea:bhagavad-gita:5.14", "status": "fixed", "note": "Paraphrase matches ('the master (prabhu)'; neither Lord nor embodied self imposed). Fixed link: cpt:isvara added beside cpt:non-agency-of-the-self, so that both recorded construals are linked."}
+{"id": "tea:bhagavad-gita:5.15", "status": "fixed", "note": "Fixed: 'vibhu' had been rendered 'the all-pervading one', fixing one sense and leaning to one identification; now 'the pervading, mighty one (vibhu)', note updated; cpt:isvara linked as for 5.14."}
+{"id": "tea:bhagavad-gita:5.16", "status": "passed", "note": "Matches; both construals of 'ātmanaḥ' noted."}
+{"id": "tea:bhagavad-gita:5.17", "status": "fixed", "note": "Fixed: 'tad-ātman' had been rendered 'whose self is That', reading identity into the compound; now 'whose self is set on That', both readings in notes; buddhi marked."}
+{"id": "tea:bhagavad-gita:5.18", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:5.19", "status": "passed", "note": "Matches; the verse's own reasoning kept."}
+{"id": "tea:bhagavad-gita:5.20", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:5.21", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:5.22", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:5.23", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:5.24", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:5.25", "status": "passed", "note": "Matches; both readings of dvaidha given."}
+{"id": "tea:bhagavad-gita:5.26", "status": "passed", "note": "Matches ('thought' for cetas)."}
+{"id": "tea:bhagavad-gita:5.27", "status": "passed", "note": "Matches; outline only, no counts or retention added; the sentence continues in 5.28."}
+{"id": "tea:bhagavad-gita:5.28", "status": "passed", "note": "Matches; manas 'mind' and buddhi 'intellect' kept distinct; completes 5.27."}
+{"id": "tea:bhagavad-gita:5.27-28", "status": "passed", "note": "Original equals segments 5.27 + 5.28; nothing added."}
+{"id": "tea:bhagavad-gita:5.29", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:ch6", "status": "fixed", "note": "Fixed chapter entry: it rendered 6.7 as 'the supreme self is composed', deciding a construal the verse entry leaves open (now both); sama-buddhi (6.9) as 'equal mind' (now 'even in intellect (sama-buddhi)'); and citta/cetas (6.14, 6.18, 6.20, 6.23) as unmarked 'mind' (now marked). Movements, ranges and speakers otherwise right."}
+{"id": "tea:bhagavad-gita:6.1", "status": "passed", "note": "Matches; niragni/akriya glossed in notes; speaker heading in the original kept."}
+{"id": "tea:bhagavad-gita:6.2", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:6.3", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:6.4", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:6.5", "status": "passed", "note": "Matches; the reflexive use of ātman is noted."}
+{"id": "tea:bhagavad-gita:6.6", "status": "passed", "note": "Matches; anātman not confused with the Buddhist doctrine."}
+{"id": "tea:bhagavad-gita:6.7", "status": "fixed", "note": "Fixed: 'paramātmā samāhitaḥ' had been rendered 'the supreme self is composed', adopting one construal although the note said the paraphrase does not decide; both construals now given; jitātman rendered reflexively."}
+{"id": "tea:bhagavad-gita:6.8", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:6.9", "status": "passed", "note": "Matches; sama-buddhi = 'intellect the same'."}
+{"id": "tea:bhagavad-gita:6.10", "status": "fixed", "note": "Fixed: 'yatacittātmā' had been rendered 'with mind and self restrained' (citta flattened); now 'restrained in thought (citta) and in himself'. Rest matches."}
+{"id": "tea:bhagavad-gita:6.11", "status": "passed", "note": "Matches; the order of the seat's layers left to notes."}
+{"id": "tea:bhagavad-gita:6.12", "status": "fixed", "note": "Fixed: manas and citta had both been rendered 'mind' in this verse; now 'mind (manas)' and 'thought (citta)'."}
+{"id": "tea:bhagavad-gita:6.13", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:6.14", "status": "passed", "note": "Matches; manas ('mind') and maccitta ('thought on me') distinct; brahmacāri-vrata not glossed as celibacy in the paraphrase."}
+{"id": "tea:bhagavad-gita:6.15", "status": "passed", "note": "Matches; nirvāṇa-paramā not turned into brahma-nirvāṇa (link explained in notes)."}
+{"id": "tea:bhagavad-gita:6.16", "status": "passed", "note": "Matches; the text's own warning."}
+{"id": "tea:bhagavad-gita:6.17", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:6.18", "status": "passed", "note": "Matches (citta marked)."}
+{"id": "tea:bhagavad-gita:6.19", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:6.20", "status": "passed", "note": "Matches; relative clause of 6.20–23."}
+{"id": "tea:bhagavad-gita:6.21", "status": "passed", "note": "Matches; relative clause of 6.20–23."}
+{"id": "tea:bhagavad-gita:6.22", "status": "passed", "note": "Matches; relative clause of 6.20–23."}
+{"id": "tea:bhagavad-gita:6.23", "status": "passed", "note": "Matches; main clause of 6.20–23."}
+{"id": "tea:bhagavad-gita:6.20-23", "status": "fixed", "note": "Original equals segments 6.20–23. Fixed: citta, buddhi and cetas had been rendered without the markers the verse entries carry; markers added."}
+{"id": "tea:bhagavad-gita:6.24", "status": "passed", "note": "Matches; the sentence continues in 6.25."}
+{"id": "tea:bhagavad-gita:6.25", "status": "passed", "note": "Matches; buddhi and manas kept distinct."}
+{"id": "tea:bhagavad-gita:6.26", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:6.27", "status": "passed", "note": "Matches; rajas not expounded beyond the verse."}
+{"id": "tea:bhagavad-gita:6.28", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:6.29", "status": "fixed", "note": "Paraphrase matches (literal; no school's reading). Fixed: cross_ref tea:isa-upanisad:6 did not exist, repointed to tea:isa-upanisad:6-7; note added on the reflexive and the commentarial readings of 'ātmānam … ātmani'."}
+{"id": "tea:bhagavad-gita:6.30", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:6.31", "status": "passed", "note": "Matches; ekatva readings kept to notes, none imported."}
+{"id": "tea:bhagavad-gita:6.32", "status": "passed", "note": "Matches; the two commentarial readings of ātmaupamya kept to notes; segment's transliteration kept exactly as given ('saḥ yogī')."}
+{"id": "tea:bhagavad-gita:6.33", "status": "passed", "note": "Matches; speaker Arjuna."}
+{"id": "tea:bhagavad-gita:6.34", "status": "passed", "note": "Matches; speaker Arjuna."}
+{"id": "tea:bhagavad-gita:6.35", "status": "passed", "note": "Matches; segment's transliteration kept exactly as given ('calaṃ'); speaker heading in the original kept."}
+{"id": "tea:bhagavad-gita:6.36", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:6.37", "status": "passed", "note": "Matches; speaker Arjuna."}
+{"id": "tea:bhagavad-gita:6.38", "status": "passed", "note": "Matches; speaker Arjuna; 'both' left unspecified, readings in notes."}
+{"id": "tea:bhagavad-gita:6.39", "status": "passed", "note": "Matches; speaker Arjuna."}
+{"id": "tea:bhagavad-gita:6.40", "status": "passed", "note": "Matches; segment's transliteration kept exactly as given ('kaśicad'); speaker heading in the original kept."}
+{"id": "tea:bhagavad-gita:6.41", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:6.42", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:6.43", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:6.44", "status": "passed", "note": "Matches; śabdabrahman left unglossed in the paraphrase (the Veda reading in notes)."}
+{"id": "tea:bhagavad-gita:6.45", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:6.46", "status": "passed", "note": "Matches."}
+{"id": "tea:bhagavad-gita:6.47", "status": "passed", "note": "Matches."}
