@@ -12,9 +12,9 @@ Budget: 12 working hours. Phase budgets: P0 0:00–0:30 · P1 0:30–3:30 · P2 
 | phase | status | notes |
 |---|---|---|
 | P0 Audit | done (2026-09-29 18:39 IST) | AUDIT.md: ascetic lens has no user-facing entries yet; person-layer kleśa/hindrance/fetter/kaṣāya/vṛtti ids all skeleton; 20 spot-checks: 17 faithful, 3 partly; restricted-flag gaps listed |
-| P1 Ontology sufficiency | running (since 18:36 IST, early start in parallel with P0) | text-verified and merged: 3 Pāli suttas; TS karma/passions; TaittU sheaths; KU chariot; Heart Sūtra ×2; YS + Vyāsa (404, all checked). Judges running: Māṇḍūkya + Kārikā, Visuddhimagga, Dhammapada. Gītā ch16–18 merge running. VBT extraction running. HYP queued. Layers: diagnosis 84/102 usable; practices 25 usable, 13 gentle. Tables running. |
-| P2 Engine design | started early, in parallel (22:45 IST) | ENGINE_SPEC.md drafted; mapping rules done (onto-deep); intake, tone, content design, synthesis rules to come |
-| P3 Build | queued | |
+| P1 Ontology sufficiency | running (since 18:36 IST) | text-verified and merged (2,136 teachings): 3 Pāli suttas; TS karma/passions; TaittU sheaths; KU chariot; Heart Sūtra ×2; YS + Vyāsa; Māṇḍūkya + Kārikā; Visuddhimagga selections; Dhammapada. VBT extracted, judge running. HYP extraction running. Gītā ch16–18 merge running. Layers: diagnosis 100/102 usable; practices 29 usable, 14 gentle. Tables done (obstacle 14/16 user-facing; one-truth 5/8; path-map 43/77 rows). onto-deep: self-question running. |
+| P2 Engine design | started early, in parallel (22:45 IST) | ENGINE_SPEC.md; mapping rules (onto-deep); intake.json; tone.md; synthesis_rules.json; content design running (onto-analyst) |
+| P3 Build | started early, in parallel | written: llm, store, safety, claims, specificity, ontology, report, engine, pathway, synthesizer, schemas, service, cli, content, gates, run_eval. Builders running: mapper; api + web + tests |
 | P4 Content engine | queued | |
 | P5 Evaluation | queued | |
 | P6 Fix loop | queued | |

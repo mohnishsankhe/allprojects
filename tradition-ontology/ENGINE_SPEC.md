@@ -128,7 +128,11 @@ consent + age gate ─► intake (build own-words units) ─► SAFETY SCREEN �
   - *standpoint*: the same experience, with a different account of who or what undergoes it (self vs. no-self vs. jīva);
   - *path*: the same obstacle met at a different place on each tradition's path map;
   - *stage*: the practice that answers it belongs to a different stage in each tradition.
-  Each point cites both sides.
+  Each point cites both sides. In v1, the rules engine takes reconciliation points only from user-facing rows of
+  `obstacle_correspondence.json`. All of those rows are related under P2-standpoint, so a v1 reading's basis is
+  standpoint, and each point says the match is partial, not an identity. The model engine may use level, path or
+  stage only with cites from the packet. Rows whose shared word has different senses are held out
+  (`rules/synthesis_rules.json`).
 - **Differences** are stated plainly, never smoothed over: different accounts of bondage, of the self, of what liberation is.
   An `exact` equivalence is never claimed where the table grades it `partial`.
 - **Model synthesis** (optional). The model writes the lens points from a packet of mapped entries, definitions,
