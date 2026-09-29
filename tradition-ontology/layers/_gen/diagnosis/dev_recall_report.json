@@ -1,5 +1,5 @@
 {
- "p6_cues": 0,
+ "p6_cues": 181,
  "before": {
   "personas": 30,
   "personas_with_any_mapping": 2,
@@ -30,29 +30,33 @@
  },
  "after": {
   "personas": 30,
-  "personas_with_any_mapping": 2,
-  "personas_with_target_hit": 1,
-  "targets_hit": "2/38",
+  "personas_with_any_mapping": 12,
+  "personas_with_target_hit": 11,
+  "targets_hit": "12/38",
   "target_confidence": {
-   "low": 2,
-   "none": 36
+   "low": 8,
+   "none": 26,
+   "high": 1,
+   "moderate": 3
   },
   "mapping_confidence": {
-   "low": 2
+   "low": 9,
+   "high": 1,
+   "moderate": 3
   },
   "off_target_mappings": 1,
   "by_pattern": {
-   "attachment": "1/5",
+   "attachment": "3/5",
    "clinging/fear of loss": "1/4",
-   "lasting anger/resentment": "0/3",
-   "restless/wandering mind": "0/3",
-   "regret/going over the past": "0/4",
-   "doubt": "0/3",
+   "lasting anger/resentment": "2/3",
+   "restless/wandering mind": "2/3",
+   "regret/going over the past": "1/4",
+   "doubt": "1/3",
    "pride/conceit": "0/3",
    "envy": "0/3",
    "concealment": "0/2",
-   "putting things off": "0/3",
-   "dullness": "0/3",
+   "putting things off": "1/3",
+   "dullness": "1/3",
    "greed": "0/2"
   }
  },
@@ -63,7 +67,7 @@
    "unmapped_reason": null,
    "mappings": [
     [
-     "dx:klesa-raga",
+     "dx:jain-arta-dhyana",
      "low"
     ]
    ],
@@ -73,7 +77,7 @@
      "best": "low",
      "entries": [
       [
-       "dx:klesa-raga",
+       "dx:jain-arta-dhyana",
        "low"
       ]
      ]
@@ -83,7 +87,7 @@
      "best": "low",
      "entries": [
       [
-       "dx:klesa-raga",
+       "dx:jain-arta-dhyana",
        "low"
       ]
      ]
@@ -106,6 +110,52 @@
        "when i think its really over i start scrolling old chats and cant stop"
       ]
      ],
+     "rejected_codes": {}
+    },
+    "dx:guna-rajas": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.6,
+     "E_net": 0.6,
+     "n_units": 1,
+     "n_direct_units": 0,
+     "kept": [
+      {
+       "unit": "intake:q03",
+       "match": "cue_partial",
+       "strength": "indirect",
+       "caps": [
+        "C_HEDGE"
+       ],
+       "spec": [],
+       "cue": "I feel empty when the fun ends",
+       "quote": "when stuff ends i get kinda empty"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    },
+    "dx:jain-arta-dhyana": {
+     "code": null,
+     "level": "low",
+     "E": 1.0,
+     "E_net": 1.0,
+     "n_units": 1,
+     "n_direct_units": 1,
+     "kept": [
+      {
+       "unit": "intake:q03",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F2"
+       ],
+       "cue": "I keep wanting them back",
+       "quote": "like i want it back right away"
+      }
+     ],
+     "counters": [],
      "rejected_codes": {}
     },
     "dx:klesa-raga": {
@@ -149,17 +199,51 @@
   {
    "id": "D02",
    "route": "continue",
-   "unmapped_reason": "no_entry_met_floor",
-   "mappings": [],
+   "unmapped_reason": null,
+   "mappings": [
+    [
+     "dx:root-dosa",
+     "low"
+    ]
+   ],
    "targets": {
     "lasting anger/resentment": {
-     "hit": false,
-     "best": "none",
-     "entries": []
+     "hit": true,
+     "best": "low",
+     "entries": [
+      [
+       "dx:root-dosa",
+       "low"
+      ]
+     ]
     }
    },
    "off_target": [],
-   "target_evidence": {}
+   "target_evidence": {
+    "dx:root-dosa": {
+     "code": null,
+     "level": "low",
+     "E": 1.0,
+     "E_net": 1.0,
+     "n_units": 1,
+     "n_direct_units": 1,
+     "kept": [
+      {
+       "unit": "intake:q11",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F2"
+       ],
+       "cue": "I'm boiling inside",
+       "quote": "inside I am boiling"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    }
+   }
   },
   {
    "id": "D03",
@@ -174,7 +258,21 @@
     }
    },
    "off_target": [],
-   "target_evidence": {}
+   "target_evidence": {
+    "dx:gita-restless-mind": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.0,
+     "E_net": 0.0,
+     "n_units": 0,
+     "n_direct_units": 0,
+     "kept": [],
+     "counters": [],
+     "rejected_codes": {
+      "R_QUOTE_FORM": 2
+     }
+    }
+   }
   },
   {
    "id": "D04",
@@ -227,7 +325,34 @@
     }
    },
    "off_target": [],
-   "target_evidence": {}
+   "target_evidence": {
+    "dx:fetter-vicikiccha": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.0,
+     "E_net": 0.0,
+     "n_units": 0,
+     "n_direct_units": 0,
+     "kept": [],
+     "counters": [],
+     "rejected_codes": {
+      "R_OTHER_PERSON": 1
+     }
+    },
+    "dx:nivarana-vicikiccha": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.0,
+     "E_net": 0.0,
+     "n_units": 0,
+     "n_direct_units": 0,
+     "kept": [],
+     "counters": [],
+     "rejected_codes": {
+      "R_OTHER_PERSON": 1
+     }
+    }
+   }
   },
   {
    "id": "D06",
@@ -282,7 +407,44 @@
     }
    },
    "off_target": [],
-   "target_evidence": {}
+   "target_evidence": {
+    "dx:gita-asuri-sampad": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.0,
+     "E_net": 0.0,
+     "n_units": 0,
+     "n_direct_units": 0,
+     "kept": [],
+     "counters": [],
+     "rejected_codes": {
+      "R_INJECTION_SPAN": 1
+     }
+    },
+    "dx:kasaya-maya": {
+     "code": "R_NO_SPECIFICITY",
+     "level": null,
+     "E": 1.0,
+     "E_net": 1.0,
+     "n_units": 1,
+     "n_direct_units": 1,
+     "kept": [
+      {
+       "unit": "intake:q11",
+       "match": "exact_cue",
+       "strength": "direct",
+       "caps": [],
+       "spec": [],
+       "cue": "I tell people what they want to hear",
+       "quote": "I tell people what they want to hear"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {
+      "R_INJECTION_SPAN": 1
+     }
+    }
+   }
   },
   {
    "id": "D09",
@@ -389,7 +551,25 @@
     }
    },
    "off_target": [],
-   "target_evidence": {}
+   "target_evidence": {
+    "dx:guna-tamas": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.0,
+     "E_net": -0.5,
+     "n_units": 0,
+     "n_direct_units": 0,
+     "kept": [],
+     "counters": [
+      [
+       "R_NEGATED",
+       1.0,
+       "I lie on the couch instead"
+      ]
+     ],
+     "rejected_codes": {}
+    }
+   }
   },
   {
    "id": "D12",
@@ -409,47 +589,183 @@
   {
    "id": "D13",
    "route": "continue",
-   "unmapped_reason": "no_entry_met_floor",
-   "mappings": [],
+   "unmapped_reason": null,
+   "mappings": [
+    [
+     "dx:klesa-raga",
+     "low"
+    ]
+   ],
    "targets": {
     "attachment": {
-     "hit": false,
-     "best": "none",
-     "entries": []
-    }
-   },
-   "off_target": [],
-   "target_evidence": {}
-  },
-  {
-   "id": "D14",
-   "route": "continue",
-   "unmapped_reason": "no_entry_met_floor",
-   "mappings": [],
-   "targets": {
-    "lasting anger/resentment": {
-     "hit": false,
-     "best": "none",
-     "entries": []
-    }
-   },
-   "off_target": [],
-   "target_evidence": {}
-  },
-  {
-   "id": "D15",
-   "route": "continue",
-   "unmapped_reason": "no_entry_met_floor",
-   "mappings": [],
-   "targets": {
-    "restless/wandering mind": {
-     "hit": false,
-     "best": "none",
-     "entries": []
+     "hit": true,
+     "best": "low",
+     "entries": [
+      [
+       "dx:klesa-raga",
+       "low"
+      ]
+     ]
     }
    },
    "off_target": [],
    "target_evidence": {
+    "dx:klesa-raga": {
+     "code": null,
+     "level": "low",
+     "E": 1.0,
+     "E_net": 1.0,
+     "n_units": 1,
+     "n_direct_units": 1,
+     "kept": [
+      {
+       "unit": "intake:q03",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F1",
+        "F2"
+       ],
+       "cue": "I keep looking at the photos",
+       "quote": "I look the photos again and again and I already search next concert"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    }
+   }
+  },
+  {
+   "id": "D14",
+   "route": "continue",
+   "unmapped_reason": null,
+   "mappings": [
+    [
+     "dx:kasaya-krodha",
+     "high"
+    ]
+   ],
+   "targets": {
+    "lasting anger/resentment": {
+     "hit": true,
+     "best": "high",
+     "entries": [
+      [
+       "dx:kasaya-krodha",
+       "high"
+      ]
+     ]
+    }
+   },
+   "off_target": [],
+   "target_evidence": {
+    "dx:kasaya-krodha": {
+     "code": null,
+     "level": "high",
+     "E": 3.0,
+     "E_net": 3.0,
+     "n_units": 3,
+     "n_direct_units": 3,
+     "kept": [
+      {
+       "unit": "intake:q04",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F1",
+        "F2",
+        "F3"
+       ],
+       "cue": "I'm mad for days",
+       "quote": "then i stay mad for days"
+      },
+      {
+       "unit": "intake:q01",
+       "match": "exact_cue",
+       "strength": "direct",
+       "caps": [],
+       "spec": [],
+       "cue": "little things set me off",
+       "quote": "little things set me off"
+      },
+      {
+       "unit": "intake:q02",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F2"
+       ],
+       "cue": "I'm still fuming about it",
+       "quote": "was still fuming when i got to work and snapped at my coworker"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    }
+   }
+  },
+  {
+   "id": "D15",
+   "route": "continue",
+   "unmapped_reason": null,
+   "mappings": [
+    [
+     "dx:gita-restless-mind",
+     "moderate"
+    ]
+   ],
+   "targets": {
+    "restless/wandering mind": {
+     "hit": true,
+     "best": "moderate",
+     "entries": [
+      [
+       "dx:gita-restless-mind",
+       "moderate"
+      ]
+     ]
+    }
+   },
+   "off_target": [],
+   "target_evidence": {
+    "dx:gita-restless-mind": {
+     "code": null,
+     "level": "moderate",
+     "E": 2.0,
+     "E_net": 2.0,
+     "n_units": 2,
+     "n_direct_units": 2,
+     "kept": [
+      {
+       "unit": "intake:q01",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F1",
+        "F2"
+       ],
+       "cue": "my mind runs here and there",
+       "quote": "my mind is running here and there"
+      },
+      {
+       "unit": "intake:q05",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F2"
+       ],
+       "cue": "my mind goes somewhere else",
+       "quote": "I close my eyes and within two-three rounds of the mala the mind has gone somewhere"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    },
     "dx:gk-viksepa": {
      "code": "R_BELOW_FLOOR",
      "level": null,
@@ -479,28 +795,81 @@
   {
    "id": "D16",
    "route": "continue",
-   "unmapped_reason": "no_entry_met_floor",
-   "mappings": [],
+   "unmapped_reason": null,
+   "mappings": [
+    [
+     "dx:nivarana-uddhacca-kukkucca",
+     "moderate"
+    ]
+   ],
    "targets": {
     "regret/going over the past": {
-     "hit": false,
-     "best": "none",
-     "entries": []
+     "hit": true,
+     "best": "moderate",
+     "entries": [
+      [
+       "dx:nivarana-uddhacca-kukkucca",
+       "moderate"
+      ]
+     ]
     }
    },
    "off_target": [],
-   "target_evidence": {}
+   "target_evidence": {
+    "dx:nivarana-uddhacca-kukkucca": {
+     "code": null,
+     "level": "moderate",
+     "E": 1.6,
+     "E_net": 1.6,
+     "n_units": 2,
+     "n_direct_units": 1,
+     "kept": [
+      {
+       "unit": "intake:q13",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F2"
+       ],
+       "cue": "the guilt never leaves me",
+       "quote": "the guilt doesn't leave"
+      },
+      {
+       "unit": "intake:q06",
+       "match": "cue_partial",
+       "strength": "indirect",
+       "caps": [],
+       "spec": [],
+       "cue": "I regret the years I wasted",
+       "quote": "The years I wasted"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    }
+   }
   },
   {
    "id": "D17",
    "route": "continue",
-   "unmapped_reason": "no_entry_met_floor",
-   "mappings": [],
+   "unmapped_reason": null,
+   "mappings": [
+    [
+     "dx:nivarana-vicikiccha",
+     "low"
+    ]
+   ],
    "targets": {
     "doubt": {
-     "hit": false,
-     "best": "none",
-     "entries": []
+     "hit": true,
+     "best": "low",
+     "entries": [
+      [
+       "dx:nivarana-vicikiccha",
+       "low"
+      ]
+     ]
     }
    },
    "off_target": [],
@@ -508,11 +877,23 @@
     "dx:antaraya-samsaya": {
      "code": "R_BELOW_FLOOR",
      "level": null,
-     "E": 0.0,
-     "E_net": -0.3,
-     "n_units": 0,
+     "E": 0.6,
+     "E_net": 0.3,
+     "n_units": 1,
      "n_direct_units": 0,
-     "kept": [],
+     "kept": [
+      {
+       "unit": "intake:q13",
+       "match": "cue_partial",
+       "strength": "indirect",
+       "caps": [],
+       "spec": [
+        "F2"
+       ],
+       "cue": "the doubt creeps into my practice",
+       "quote": "Then the doubt creeps in"
+      }
+     ],
      "counters": [
       [
        "R_NEGATED",
@@ -520,6 +901,29 @@
        "is this actually working, is the teacher genuine, maybe the other school had it right"
       ]
      ],
+     "rejected_codes": {}
+    },
+    "dx:nivarana-vicikiccha": {
+     "code": null,
+     "level": "low",
+     "E": 1.0,
+     "E_net": 1.0,
+     "n_units": 1,
+     "n_direct_units": 1,
+     "kept": [
+      {
+       "unit": "intake:q01",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F2"
+       ],
+       "cue": "I keep moving between traditions",
+       "quote": "I've been moving between traditions for ten years"
+      }
+     ],
+     "counters": [],
      "rejected_codes": {}
     }
    }
@@ -557,37 +961,56 @@
   {
    "id": "D20",
    "route": "continue",
-   "unmapped_reason": "no_entry_met_floor",
-   "mappings": [],
+   "unmapped_reason": null,
+   "mappings": [
+    [
+     "dx:guna-tamas",
+     "moderate"
+    ]
+   ],
    "targets": {
     "putting things off": {
-     "hit": false,
-     "best": "none",
-     "entries": []
+     "hit": true,
+     "best": "moderate",
+     "entries": [
+      [
+       "dx:guna-tamas",
+       "moderate"
+      ]
+     ]
     }
    },
    "off_target": [],
    "target_evidence": {
     "dx:guna-tamas": {
-     "code": "R_BELOW_FLOOR",
-     "level": null,
-     "E": 0.6,
-     "E_net": 0.6,
-     "n_units": 1,
-     "n_direct_units": 0,
+     "code": null,
+     "level": "moderate",
+     "E": 2.0,
+     "E_net": 2.0,
+     "n_units": 2,
+     "n_direct_units": 2,
      "kept": [
       {
        "unit": "intake:q01",
-       "match": "one_stem_cue",
-       "strength": "indirect",
-       "caps": [
-        "C_ONE_STEM_CUE"
-       ],
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
        "spec": [
         "F2"
        ],
-       "cue": "I keep putting it off",
+       "cue": "I put things off until the last minute",
        "quote": "I put everything off till the last minute"
+      },
+      {
+       "unit": "intake:q05",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F2"
+       ],
+       "cue": "I do something easier first",
+       "quote": "I find something easier to do first"
       }
      ],
      "counters": [],
@@ -632,17 +1055,84 @@
   {
    "id": "D22",
    "route": "continue",
-   "unmapped_reason": "no_entry_met_floor",
-   "mappings": [],
+   "unmapped_reason": null,
+   "mappings": [
+    [
+     "dx:gk-laya",
+     "low"
+    ],
+    [
+     "dx:nivarana-thina-middha",
+     "low"
+    ]
+   ],
    "targets": {
     "dullness": {
-     "hit": false,
-     "best": "none",
-     "entries": []
+     "hit": true,
+     "best": "low",
+     "entries": [
+      [
+       "dx:gk-laya",
+       "low"
+      ],
+      [
+       "dx:nivarana-thina-middha",
+       "low"
+      ]
+     ]
     }
    },
    "off_target": [],
-   "target_evidence": {}
+   "target_evidence": {
+    "dx:gk-laya": {
+     "code": null,
+     "level": "low",
+     "E": 1.0,
+     "E_net": 1.0,
+     "n_units": 1,
+     "n_direct_units": 1,
+     "kept": [
+      {
+       "unit": "intake:q05",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F2"
+       ],
+       "cue": "a fog comes over me when I meditate",
+       "quote": "The moment I sit to meditate I get sleepy, it's like a fog comes down"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    },
+    "dx:nivarana-thina-middha": {
+     "code": null,
+     "level": "low",
+     "E": 1.0,
+     "E_net": 1.0,
+     "n_units": 1,
+     "n_direct_units": 1,
+     "kept": [
+      {
+       "unit": "intake:q01",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F2"
+       ],
+       "cue": "I feel foggy and slow",
+       "quote": "Not sad exactly, just foggy, slow, nothing is sharp"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {
+      "R_BODY_HEALTH": 1
+     }
+    }
+   }
   },
   {
    "id": "D23",
@@ -662,18 +1152,50 @@
     }
    },
    "off_target": [],
-   "target_evidence": {}
+   "target_evidence": {
+    "dx:kasaya-lobha": {
+     "code": "R_NO_SPECIFICITY",
+     "level": null,
+     "E": 1.0,
+     "E_net": 1.0,
+     "n_units": 1,
+     "n_direct_units": 1,
+     "kept": [
+      {
+       "unit": "intake:q01",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [],
+       "cue": "what I earn is never enough",
+       "quote": "Whatever I earn is never enough"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    }
+   }
   },
   {
    "id": "D24",
    "route": "continue",
-   "unmapped_reason": "no_entry_met_floor",
-   "mappings": [],
+   "unmapped_reason": null,
+   "mappings": [
+    [
+     "dx:gita-restless-mind",
+     "low"
+    ]
+   ],
    "targets": {
     "restless/wandering mind": {
-     "hit": false,
-     "best": "none",
-     "entries": []
+     "hit": true,
+     "best": "low",
+     "entries": [
+      [
+       "dx:gita-restless-mind",
+       "low"
+      ]
+     ]
     },
     "regret/going over the past": {
      "hit": false,
@@ -682,7 +1204,31 @@
     }
    },
    "off_target": [],
-   "target_evidence": {}
+   "target_evidence": {
+    "dx:gita-restless-mind": {
+     "code": null,
+     "level": "low",
+     "E": 1.0,
+     "E_net": 1.0,
+     "n_units": 1,
+     "n_direct_units": 1,
+     "kept": [
+      {
+       "unit": "intake:q05",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F2"
+       ],
+       "cue": "my mind goes everywhere",
+       "quote": "i sit down to study and my mind just goes everywhere"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    }
+   }
   },
   {
    "id": "D25",
@@ -743,7 +1289,31 @@
     }
    },
    "off_target": [],
-   "target_evidence": {}
+   "target_evidence": {
+    "dx:gita-asuri-sampad": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.6,
+     "E_net": 0.6,
+     "n_units": 1,
+     "n_direct_units": 0,
+     "kept": [
+      {
+       "unit": "intake:q11",
+       "match": "cue_partial",
+       "strength": "indirect",
+       "caps": [],
+       "spec": [
+        "F2"
+       ],
+       "cue": "I act humble to look good",
+       "quote": "I act humble"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    }
+   }
   },
   {
    "id": "D27",
@@ -778,28 +1348,90 @@
     }
    },
    "off_target": [],
-   "target_evidence": {}
-  },
-  {
-   "id": "D29",
-   "route": "continue",
-   "unmapped_reason": "no_entry_met_floor",
-   "mappings": [],
-   "targets": {
-    "attachment": {
-     "hit": false,
-     "best": "none",
-     "entries": []
-    }
-   },
-   "off_target": [],
    "target_evidence": {
-    "dx:klesa-raga": {
+    "dx:antaraya-alasya": {
      "code": "R_BELOW_FLOOR",
      "level": null,
      "E": 0.6,
      "E_net": 0.6,
      "n_units": 1,
+     "n_direct_units": 0,
+     "kept": [
+      {
+       "unit": "intake:q09",
+       "match": "cue_window",
+       "strength": "indirect",
+       "caps": [
+        "C_HEDGE"
+       ],
+       "spec": [
+        "F2"
+       ],
+       "cue": "laziness keeps me from beginning",
+       "quote": "When I try begin, I feel lazy and I think maybe next week is better"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    }
+   }
+  },
+  {
+   "id": "D29",
+   "route": "continue",
+   "unmapped_reason": null,
+   "mappings": [
+    [
+     "dx:klesa-raga",
+     "low"
+    ]
+   ],
+   "targets": {
+    "attachment": {
+     "hit": true,
+     "best": "low",
+     "entries": [
+      [
+       "dx:klesa-raga",
+       "low"
+      ]
+     ]
+    }
+   },
+   "off_target": [],
+   "target_evidence": {
+    "dx:guna-rajas": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.6,
+     "E_net": 0.6,
+     "n_units": 1,
+     "n_direct_units": 0,
+     "kept": [
+      {
+       "unit": "intake:q01",
+       "match": "cue_partial",
+       "strength": "indirect",
+       "caps": [
+        "C_HEDGE"
+       ],
+       "spec": [
+        "F1",
+        "F2"
+       ],
+       "cue": "I keep chasing the next big thing",
+       "quote": "i think i'm always chasing the next high"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    },
+    "dx:klesa-raga": {
+     "code": null,
+     "level": "low",
+     "E": 1.2,
+     "E_net": 1.2,
+     "n_units": 2,
      "n_direct_units": 0,
      "kept": [
       {
@@ -814,6 +1446,46 @@
        ],
        "cue": "I need whatever gets me that feeling",
        "quote": "like after a festival i'm already looking for the next one, i need something to look forward to or i feel flat"
+      },
+      {
+       "unit": "intake:q01",
+       "match": "cue_window",
+       "strength": "indirect",
+       "caps": [
+        "C_HEDGE"
+       ],
+       "spec": [
+        "F1",
+        "F2"
+       ],
+       "cue": "I keep chasing that high",
+       "quote": "i think i'm always chasing the next high"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    },
+    "dx:tanha": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.6,
+     "E_net": 0.6,
+     "n_units": 1,
+     "n_direct_units": 0,
+     "kept": [
+      {
+       "unit": "intake:q01",
+       "match": "cue_window",
+       "strength": "indirect",
+       "caps": [
+        "C_HEDGE"
+       ],
+       "spec": [
+        "F1",
+        "F2"
+       ],
+       "cue": "I'm always chasing the next thing",
+       "quote": "i think i'm always chasing the next high"
       }
      ],
      "counters": [],
