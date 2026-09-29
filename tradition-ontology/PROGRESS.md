@@ -61,11 +61,11 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U46-kagyu | done | 52 src · 74 tch · 147 tea (59 from local Derge with Wylie originals) · 45 prc (restricted six-yoga methods summary-only) · 3 dsp | REPORT.md; Tibetan-authored works not local |
 | U47-sakya-kadam-gelug | done | 84 src · 84 tch · 251 tea (66 Wylie originals from Derge: Lamdre root Tōh 2284, Atiśa) · 12 dsp | REPORT.md; Tibetan-authored works recalled |
 | U48-jonang-chod-medicine-rime | done | 51 src · 45 tch · 90 tea · 12 prc (5 restricted) · 3 dsp | REPORT.md; Four Tantras chapter refs low; Tibetan works not local |
-| U49-cross-family | running | | |
+| U49-cross-family | done | 53 brw (41 new + 12 evidence re-emits) · 36 cpt · 31 tea · 3 dsp; new explicit evidence: Tōh 2285 Amṛtasiddhimūla colophon (Virūpa) | REPORT.md; dedupe list for S5 |
 | U50-debates | running | | |
 | U51-path-maps | running | | |
 | U52-recent-teachers | running | | |
-| U53-glossary-ultimate | queued | | |
+| U53-glossary-ultimate | running | | |
 | U54-chinese-schools | queued | | |
 | U55-japan-korea-vietnam-nepal | queued | | |
 | U56-datta-haridasa-odisha | queued | | |
@@ -88,6 +88,11 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U09-samkhya | running |
 | U10-yoga | running |
 ### Sweep follow-ups (for Phase D / S5 / later sweeps)
+- U49 dedupe candidates for S5:
+  - brw pairs: mimamsa-hermeneutics-to-vedanta / -vedanta; samkhya-to-yoga / samkhya-patanjala-yoga; epic-samkhya / epic-samkhya-to-classical-samkhya; upanisads-to-gita / -bhagavad-gita; adhyatma-ramayana-to-manas / -ramcaritmanas; rasa-sastra-hatha / -hatha-yoga; samkhya-saiva-tattvas / samkhya-to-kashmir-saivism; sautrantika-pramana / sautrantika-to-pramana; kagyu-to-gelug / -mahamudra; kadam-to-kagyu / kadam-to-dakpo-kagyu.
+  - brw:pure-land-chan: U42 gives a direction (from→to); U43 gives mutual.
+  - brw:ayurveda-to-sowa-rigpa: U30 and U48 give different 'what' text.
+  - prc:bhutasuddhi / prc:bhuta-suddhi.
 - C-U07:
   - tea:garuda-purana:1.142 and cpt:avatara-lists: GP 1.142 is titled daśāvatāra, but its list lacks Vāmana, Kṛṣṇa, Buddha and Kalki. Do not cite it for the standard ten.
   - tea:narada-purana:1.92-109: the paraphrase still names Sanandana; the speaker is Sanātana.
