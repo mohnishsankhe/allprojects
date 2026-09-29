@@ -475,7 +475,6 @@ NEW = {'dx:klesa-asmita': [('Taking the mind that thinks',
                     ('States that often occur: anger, resentment',
                      ['I look down on people with contempt',
                       "I'm envious when a colleague is praised",
-                      'I like to dominate and get my way',
                       'I begrudge sharing what I have',
                       'resentment smoulders in me for weeks'])],
  'dx:carita-moha': [('Work: holds the broom loosely',
@@ -605,3 +604,31 @@ NEW = {'dx:klesa-asmita': [('Taking the mind that thinks',
                              'I work out elaborate lies to protect myself',
                              'I brood with pleasure on taking revenge',
                              'I fiercely guard my things and plan how to punish thieves'])]}
+
+# ---------------------------------------------------------------------------------------------------------------------
+# P6 (recall on realistic intake answers): everyday phrasings of each marker's own described sense, found missing on
+# the dev set tests/fixtures/dev_personas.jsonl (layers/_gen/diagnosis/dev_recall.py). Same rules as above: first
+# person, present or habitual, no clinical / body / food / sleep words, no tradition terms, no hypotheticals, and never
+# wider than the marker. Prefixes are the same strings as in NEW, so each marker keeps a single spec (add_cues.py lists
+# one "cues_added" per marker). dev_recall.py strips these to measure "before".
+# ---------------------------------------------------------------------------------------------------------------------
+NEW_P6 = {}
+
+
+def _merge_p6() -> None:
+    for eid, specs in NEW_P6.items():
+        have = NEW.setdefault(eid, [])
+        for prefix, cues in specs:
+            for p, lst in have:
+                if p == prefix:
+                    lst.extend(c for c in cues if c not in lst)
+                    break
+            else:
+                have.append((prefix, list(cues)))
+        prefixes = [p for p, _ in have]
+        for i, a in enumerate(prefixes):
+            for b in prefixes[i + 1:]:
+                assert not (a.startswith(b) or b.startswith(a)), f"{eid}: two specs for one marker: {a!r} / {b!r}"
+
+
+_merge_p6()

@@ -13,7 +13,7 @@
    "Sit in a posture that is steady and comfortable (YS 2.46).",
    "Make the effort toward stability: let the mind settle into a calm flow (YS 1.13 with Vyāsa).",
    "When the mind turns toward an object it thirsts for, seen or heard of, see the object's faults and let the thirst go (YS 1.15 with Vyāsa).",
-   "Return to the effort toward stability without strain; relax effort, as the sūtra says of posture (YS 2.47).",
+   "Return to the effort toward stability, without strain (YS 1.13); keep the posture easy, with effort relaxed (YS 2.47).",
    "Close gently, and take the practice up again on the following days without interruption (YS 1.14)."
   ],
   "targets": [
@@ -62,7 +62,6 @@
   "cites": [
    "tea:yoga-sutra:1.12",
    "tea:yoga-bhasya:1.12",
-   "tea:yoga-bhasya:1.11",
    "tea:yoga-sutra:1.13",
    "tea:yoga-bhasya:1.13",
    "tea:yoga-sutra:1.14",
@@ -82,9 +81,9 @@
   "summary": "YS 1.32: to counter them (the distractions of 1.30 and their companions of 1.31) there is practice on a single principle. Vyāsa: to counter distraction the mind should practise resting on a single principle (ekatattvāvalambana); when the mind is drawn back from everything and concentrated on one object, it becomes one-pointed. Neither the sūtra nor this gloss names the object.",
   "steps": [
    "Sit in a posture that is steady and comfortable (YS 2.46).",
-   "Choose one object and let the mind rest on it alone (YS 1.32 with Vyāsa: ekatattvāvalambana).",
+   "Choose one object for the mind to rest on. Hold it in mind; it is not a fixed gaze and not a mantra (YS 1.32 with Vyāsa).",
    "When the mind goes to other things, draw it back from them and set it again on the one object (Vyāsa on 1.32).",
-   "Keep the effort light: the effort toward stability is itself the practice (YS 1.13).",
+   "Return to the effort toward stability, without strain; that effort is itself the practice (YS 1.13).",
    "Close gently."
   ],
   "targets": [
@@ -124,16 +123,10 @@
      "tea:yoga-sutra:2.47",
      "tea:yoga-bhasya:2.47"
     ]
-   },
-   {
-    "text": "Vyāsa's gloss says only 'one principle'; the product does not choose a sacred object or mantra for the user, and a mantra practice would need a teacher.",
-    "cites": [
-     "tea:yoga-bhasya:1.32"
-    ]
    }
   ],
   "safety_tier": "gentle",
-  "tier_reason": "Resting attention on one object and bringing it back; no breath control, vows or austerity.",
+  "tier_reason": "Resting attention on one object and bringing it back; no breath control, vows or austerity. Vyāsa's gloss says only 'one principle'; the product does not choose a sacred object or mantra for the user, and a mantra practice would need a teacher.",
   "cites": [
    "tea:yoga-sutra:1.32",
    "tea:yoga-bhasya:1.32",
@@ -329,12 +322,6 @@
     ]
    },
    {
-    "text": "Vyāsa's illustrations of the fruit of violence include births in hells (YB 2.34); the steps keep only the sūtra's own reflection.",
-    "cites": [
-     "tea:yoga-bhasya:2.34"
-    ]
-   },
-   {
     "text": "The posture is to be steady and comfortable (sthira-sukha); it is accomplished by relaxing effort, so that the limbs do not tremble.",
     "cites": [
      "tea:yoga-sutra:2.46",
@@ -344,7 +331,7 @@
    }
   ],
   "safety_tier": "gentle",
-  "tier_reason": "A reflection on one's own thoughts and their fruit; no breath control, vows or austerity.",
+  "tier_reason": "A reflection on one's own thoughts and their fruit; no breath control, vows or austerity. Vyāsa's illustrations of the fruit of violence, which include births in hells (YB 2.34), are left out of the steps and the cautions; the steps keep only the sūtra's own reflection.",
   "cites": [
    "tea:yoga-sutra:2.33",
    "tea:yoga-bhasya:2.33",
@@ -479,7 +466,7 @@
     ]
    },
    {
-    "text": "The Gītā itself grants that the mind is hard to restrain; it is held over time by practice, not at once.",
+    "text": "The Gītā grants that the mind is hard to restrain; it is held by practice and dispassion (6.35), and yoga can be attained by one who strives through the right means (6.36).",
     "cites": [
      "tea:bhagavad-gita:6.35",
      "tea:bhagavad-gita:6.36"
@@ -631,7 +618,7 @@
   "steps": [
    "Sit comfortably.",
    "When a surge (vega) of desire or anger rises, recognise it as the surge the Gītā names (BhG 5.23).",
-   "Bear it (soḍhum) without acting from it: contacts that give pleasure and pain come and go and are impermanent; endure them (5.23; 2.14).",
+   "Bear the surge without acting from it (5.23); the Gītā says such contacts come and go and are impermanent (2.14).",
    "Recall that enjoyments born of contact have a beginning and an end (5.22).",
    "Close gently."
   ],
@@ -879,7 +866,7 @@
   },
   "warnings": [
    {
-    "text": "The Upaniṣad calls the path sharp as a razor's edge and hard to cross, and bids one understand by approaching the excellent ones.",
+    "text": "The Upaniṣad calls the path sharp as a razor's edge, hard to cross and difficult to tread (KU 1.3.14).",
     "cites": [
      "tea:katha-upanisad:1.3.14"
     ]
@@ -909,32 +896,17 @@
   ],
   "tradition": "lin:upanisadic",
   "summary": "KU 2.1.1: the self-existent pierced the openings of the senses outward; therefore one looks outward, not within. A certain wise one, desiring immortality, turned his sight inward (āvṛtta-cakṣus) and saw the self within (pratyag-ātman).",
-  "steps": [
-   "Sit comfortably.",
-   "Notice, as the verse says, that the senses face outward and the looking goes outward (KU 2.1.1).",
-   "Turn the sight back (āvṛtta-cakṣus): let attention turn from the outer objects toward what is within (pratyak) (2.1.1).",
-   "Stay heedful (apramatta); the Upaniṣad says this holding of the senses comes and goes (2.3.11).",
-   "Close gently."
-  ],
+  "steps": [],
   "targets": [
    "dx:katha-outward-senses"
   ],
-  "stage": "all",
+  "stage": "advanced",
   "duration": {
-   "minutes_per_session": [
-    5,
-    10
-   ],
-   "sessions_per_day": 1,
-   "basis": "product default for a beginner; the text gives no length"
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
   },
   "warnings": [
-   {
-    "text": "The verse says only that 'a certain wise one' saw the self; it does not promise that turning the sight inward brings this seeing.",
-    "cites": [
-     "tea:katha-upanisad:2.1.1"
-    ]
-   },
    {
     "text": "The Upaniṣad says this understanding is not reached by reasoning, and that unless taught by another there is no way to it.",
     "cites": [
@@ -949,8 +921,8 @@
     ]
    }
   ],
-  "safety_tier": "gentle",
-  "tier_reason": "Quiet attention turned from outer objects; no breath control, fasting or austerity.",
+  "safety_tier": "needs-teacher",
+  "tier_reason": "Needs a teacher by the text's own statement: the Upaniṣad says the understanding of the self, toward which this turning of the sight is directed, is not reached by reasoning, and unless taught by another there is no way to it (KU 1.2.8–9). The ontology tags KU 2.1.1 as advanced, and 'turning the sight back' could be taken as an eye technique, which the layer leaves to a teacher (as with the HYP śāmbhavī seal). This matches the Oṃ meditation (px:omkara-upasana-mau-8-12) and KU 1.3.13 (px:katha-inward-withdrawal-1-3-13) entries, which rest on the same caution. The verse says only that 'a certain wise one' saw the self; it does not promise that turning the sight inward brings this seeing. Earlier tier: gentle; demoted by the practice-safety judge (P5; DECISIONS 2026-09-30).",
   "cites": [
    "tea:katha-upanisad:2.1.1"
   ],
@@ -1299,16 +1271,10 @@
     "cites": [
      "tea:anapanasati-sutta:mn118:26"
     ]
-   },
-   {
-    "text": "The steps stop at the first four pairs; the later pairs (expansive, supreme, immersed in samādhi, freed) name meditative attainments.",
-    "cites": [
-     "tea:satipatthana-sutta:mn10:34"
-    ]
    }
   ],
   "safety_tier": "gentle",
-  "tier_reason": "Knowing one's state of mind as it is, sitting quietly; no breath control, fasting or austerity.",
+  "tier_reason": "Knowing one's state of mind as it is, sitting quietly; no breath control, fasting or austerity. The steps stop at the first four pairs; the later pairs (expansive, supreme, immersed in samādhi, freed) name meditative attainments.",
   "cites": [
    "tea:satipatthana-sutta:mn10:34",
    "tea:satipatthana-sutta:mn10:35",
@@ -1512,25 +1478,16 @@
   ],
   "tradition": "lin:early-buddhism",
   "summary": "MN 118:17–18: gone to a wilderness, the root of a tree or an empty hut, a mendicant sits down cross-legged, sets the body straight and brings mindfulness to the present. Just mindful, they breathe in; mindful, they breathe out. Breathing in heavily (long) they know it; breathing in lightly (short) they know it; likewise breathing out. They train: 'I'll breathe in and out experiencing the whole body'; 'I'll breathe in and out stilling the bodily process.' Developed and cultivated, mindfulness of breathing fulfils the four kinds of mindfulness meditation (118:15).",
-  "steps": [
-   "Sit comfortably with the body straight, and bring mindfulness to the present (MN 118:17; the text has cross-legged).",
-   "Just mindful, breathe in; mindful, breathe out. Let the breath be as it is; the sutta only asks that you know it (MN 118:17).",
-   "Breathing in long, know 'I breathe in long'; breathing in short, know 'I breathe in short'; likewise breathing out (MN 118:18).",
-   "Train: 'I'll breathe in and out experiencing the whole body' (MN 118:18).",
-   "Close gently."
-  ],
+  "steps": [],
   "targets": [
    "dx:carita-moha",
    "dx:carita-vitakka"
   ],
   "stage": "beginner",
   "duration": {
-   "minutes_per_session": [
-    5,
-    10
-   ],
-   "sessions_per_day": 1,
-   "basis": "product default for a beginner; the text gives no length"
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
   },
   "warnings": [
    {
@@ -1540,14 +1497,15 @@
     ]
    },
    {
-    "text": "The sutta asks only that one know the breath as it is, long or short; it does not ask one to hold, count or force it. The fourth step, 'stilling the bodily process', is left out of these steps so that it is never taken as holding the breath.",
+    "text": "The Visuddhimagga gives this first tetrad as the beginner's subject and has it learned from a teacher in five links (learning, questioning, establishing, absorption and the characteristic); the meditator then attends to it 'not forgetting a single word of the teacher's teaching' (Vism VIII p.277–278).",
     "cites": [
-     "tea:anapanasati-sutta:mn118:18"
+     "tea:visuddhimagga:8.p277/2",
+     "tea:visuddhimagga:8.p278"
     ]
    }
   ],
-  "safety_tier": "gentle",
-  "tier_reason": "Knowing the natural breath, as the sutta's first steps ask; no counting, retention or forcing. The Visuddhimagga calls this subject weighty and asks for strong mindfulness (Vism VIII, PTS p.284), so the steps stop before the fourth step.",
+  "safety_tier": "needs-teacher",
+  "tier_reason": "Needs a teacher by the commentary's own statement: the Visuddhimagga gives the first tetrad as the beginner's subject and has it learned from a teacher in five links (Vism VIII p.277–278), the same ground on which the layer leaves the Visuddhimagga's breath-counting to a teacher. It also calls this subject weighty and asks for strong mindfulness (Vism VIII, PTS p.284). The sutta's first tetrad asks one to know the breath, long or short, and to experience the whole body, and goes on to training in stilling the bodily process (MN 118:18); no steps are given. Earlier tier: gentle; demoted by the practice-safety judge (P5; DECISIONS 2026-09-30).",
   "cites": [
    "tea:anapanasati-sutta:mn118:15",
    "tea:anapanasati-sutta:mn118:17",
@@ -1612,29 +1570,28 @@
    "prc:metta-bhavana"
   ],
   "tradition": "lin:theravada",
-  "summary": "Dhp 5: hatred is never laid to rest by hate; it is laid to rest by non-hatred; this is an ancient teaching. Vism IX: the beginner, in a secluded place, seated comfortably, first reviews the danger in hate and the advantage in patience (p.295); begins with himself as the example, 'May I be happy and free from suffering', since as he wants happiness and shrinks from pain so do other beings (p.296–297); then extends it to a respected, dear person, then to a very dear friend, a neutral person and a hostile person, making the mind soft and workable toward each before going on (p.297). Mettā's mark is promoting welfare; it succeeds when ill will subsides (p.318).",
-  "steps": [
-   "Sit comfortably in a quiet place (Vism IX p.295).",
-   "First consider the danger in hate and the advantage in patience (p.295).",
-   "Begin with yourself as the example: 'May I be happy and free from suffering'; as you want happiness and shrink from pain, so do others (p.296–297).",
-   "Extend the same wish to a person you respect and hold dear: 'May this good person be happy and free from suffering' (p.297).",
-   "Then, one by one, to a very dear friend, a neutral person and a hostile person, letting the mind grow soft toward each before moving on (p.297).",
-   "Close gently."
-  ],
+  "summary": "Dhp 5: hatred is never laid to rest by hate; it is laid to rest by non-hatred; this is an ancient teaching. Vism IX: the beginner who has cut the impediments and taken the subject, in a secluded place, seated comfortably, first reviews the danger in hate and the advantage in patience (p.295); begins with himself as the example, 'May I be happy and free from suffering', since as he wants happiness and shrinks from pain so do other beings (p.296–297); then extends it to a respected, dear person, then to a very dear friend, a neutral person and a hostile person, making the mind soft and workable toward each before going on (p.297). Mettā's mark is promoting welfare; it succeeds when ill will subsides (p.318).",
+  "steps": [],
   "targets": [
    "dx:nivarana-byapada",
    "dx:root-dosa"
   ],
   "stage": "beginner",
   "duration": {
-   "minutes_per_session": [
-    5,
-    10
-   ],
-   "sessions_per_day": 1,
-   "basis": "product default for a beginner; the text gives no length"
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
   },
   "warnings": [
+   {
+    "text": "The Visuddhimagga addresses the development of loving-kindness to a beginner who has cut the impediments and taken the subject (IX p.295). The subject is taken by approaching a good friend who gives a meditation subject (III p.89/3); loving-kindness is named as the universal subject, and the one who gives it is the good friend (kalyāṇamitta) (III p.97/3, p.98/2).",
+    "cites": [
+     "tea:visuddhimagga:9.p295",
+     "tea:visuddhimagga:3.p89/3",
+     "tea:visuddhimagga:3.p97/3",
+     "tea:visuddhimagga:3.p98/2"
+    ]
+   },
    {
     "text": "Do not begin with a disliked person, a very dear friend, a neutral person or an enemy; do not develop it specifically toward the opposite sex, nor toward the dead.",
     "cites": [
@@ -1655,8 +1612,8 @@
     ]
    }
   ],
-  "safety_tier": "gentle",
-  "tier_reason": "Kindness developed in reflection, sitting quietly; no breath control, fasting or austerity.",
+  "safety_tier": "needs-teacher",
+  "tier_reason": "Needs a teacher by the text's own statement: Vism IX p.295 addresses the beginner who has 'taken the subject' (gahitakammaṭṭhāna), and Vism III has the subject received from a good friend who gives a meditation subject (p.89/3), names loving-kindness as the universal subject (p.97/3) and calls the one who gives either kind the good friend (p.98/2). Friendliness stays open to users through the gentle YS 1.33 (px:maitri-bhavana-ys-1-33) and TS 7.11 (px:maitri-pramoda-karunya-madhyastha-ts-7-11) entries. Earlier tier: gentle; demoted by the practice-safety judge (P5; DECISIONS 2026-09-30).",
   "cites": [
    "tea:dhammapada:5",
    "tea:visuddhimagga:9.p295",
@@ -2257,13 +2214,13 @@
   },
   "warnings": [
    {
-    "text": "The sūtra pairs each attitude with its own object: equanimity, not argument or friendliness, toward the undisciplined.",
+    "text": "The sūtra pairs each attitude with its own object: friendliness toward all living beings, delight toward those superior in virtue, compassion toward the afflicted, and equanimity toward the undisciplined (TS 7.11).",
     "cites": [
      "tea:tattvartha-sutra:7.11"
     ]
    },
    {
-    "text": "In the sūtra these attitudes serve the steadiness of the vows; the vows themselves are not taken through the product.",
+    "text": "In the sūtra these attitudes serve the steadiness of the vows (TS 7.1; 7.3).",
     "cites": [
      "tea:tattvartha-sutra:7.3",
      "tea:tattvartha-sutra:7.1"
@@ -2271,7 +2228,7 @@
    }
   ],
   "safety_tier": "gentle",
-  "tier_reason": "Cultivating kindness and related attitudes in reflection; no vows, fasting or austerity.",
+  "tier_reason": "Cultivating kindness and related attitudes in reflection; no vows, fasting or austerity. The vows themselves are not taken through the product.",
   "cites": [
    "tea:tattvartha-sutra:7.11",
    "tea:tattvartha-sutra:7.3"
@@ -2286,11 +2243,11 @@
    "prc:anupreksa"
   ],
   "tradition": "lin:jainism",
-  "summary": "TS 9.7: the reflections are the repeated contemplation (anucintana) of impermanence, helplessness (no refuge), the cycle of births, aloneness, otherness, impurity (the commentaries read these as the otherness of self and body and the impurity of the body), inflow, stopping, shedding, the universe, the rarity of enlightenment, and the well-taught nature of dharma. TS 9.2: with the controls, carefulnesses, virtues, conquest of hardships and conduct, they bring about the stopping of karmic inflow (saṃvara).",
+  "summary": "TS 9.7: the reflections are the repeated contemplation (anucintana) of impermanence, helplessness (no refuge), the cycle of births, aloneness, otherness, impurity, inflow, stopping, shedding, the universe, the rarity of enlightenment, and the well-taught nature of dharma. TS 9.2: with the controls, carefulnesses, virtues, conquest of hardships and conduct, they bring about the stopping of karmic inflow (saṃvara).",
   "steps": [
    "Sit comfortably.",
    "Reflect repeatedly on impermanence (anitya), as the sūtra names it (TS 9.7).",
-   "Reflect on aloneness (ekatva) and on otherness (anyatva), as the sūtra names them (TS 9.7); the commentaries read otherness as the self being other than the body.",
+   "Reflect on aloneness (ekatva) and on otherness (anyatva), as the sūtra names them (TS 9.7).",
    "Reflect on the rarity of enlightenment (bodhi-durlabha) (TS 9.7).",
    "Reflect on the well-taught nature of dharma (dharma-svākhyātatva) (TS 9.7).",
    "Close gently."
@@ -2315,13 +2272,10 @@
    {
     "text": "Nearest general caution in the Tattvārtha (the sūtra gives none for this practice): reflection must not turn into sorrowful brooding (ārta-dhyāna), which the sūtra defines as dwelling on removing the disagreeable, keeping the agreeable, on pain, and hankering for future enjoyment (nidāna).",
     "cites": [
-     "tea:tattvartha-sutra:9.30-33"
-    ]
-   },
-   {
-    "text": "The steps keep five of the sūtra's twelve reflections; the impurity of the body and helplessness are left out on purpose.",
-    "cites": [
-     "tea:tattvartha-sutra:9.7"
+     "tea:tattvartha-sutra:9.30",
+     "tea:tattvartha-sutra:9.31",
+     "tea:tattvartha-sutra:9.32",
+     "tea:tattvartha-sutra:9.33"
     ]
    }
   ],
@@ -2457,7 +2411,10 @@
    {
     "text": "Nearest general caution in the Tattvārtha (the sūtra gives none for this practice): reflection must not turn into sorrowful brooding (ārta-dhyāna), which the sūtra defines as dwelling on removing the disagreeable, keeping the agreeable, on pain, and hankering for future enjoyment (nidāna).",
     "cites": [
-     "tea:tattvartha-sutra:9.30-33"
+     "tea:tattvartha-sutra:9.30",
+     "tea:tattvartha-sutra:9.31",
+     "tea:tattvartha-sutra:9.32",
+     "tea:tattvartha-sutra:9.33"
     ]
    }
   ],
@@ -2468,7 +2425,8 @@
    "tea:tattvartha-sutra:9.2",
    "tea:dasavaikalika-sutra:8.36-38"
   ],
-  "user_facing": true
+  "user_facing": false,
+  "manual_exclusion": "their only real step rests on the Daśavaikālika 8.36–38 entry, still skeleton"
  },
  {
   "id": "px:uttama-mardava-ts-9-6",
@@ -2507,7 +2465,10 @@
    {
     "text": "Nearest general caution in the Tattvārtha (the sūtra gives none for this practice): reflection must not turn into sorrowful brooding (ārta-dhyāna), which the sūtra defines as dwelling on removing the disagreeable, keeping the agreeable, on pain, and hankering for future enjoyment (nidāna).",
     "cites": [
-     "tea:tattvartha-sutra:9.30-33"
+     "tea:tattvartha-sutra:9.30",
+     "tea:tattvartha-sutra:9.31",
+     "tea:tattvartha-sutra:9.32",
+     "tea:tattvartha-sutra:9.33"
     ]
    }
   ],
@@ -2518,7 +2479,8 @@
    "tea:tattvartha-sutra:9.2",
    "tea:dasavaikalika-sutra:8.36-38"
   ],
-  "user_facing": true
+  "user_facing": false,
+  "manual_exclusion": "their only real step rests on the Daśavaikālika 8.36–38 entry, still skeleton"
  },
  {
   "id": "px:uttama-arjava-ts-9-6",
@@ -2557,7 +2519,10 @@
    {
     "text": "Nearest general caution in the Tattvārtha (the sūtra gives none for this practice): reflection must not turn into sorrowful brooding (ārta-dhyāna), which the sūtra defines as dwelling on removing the disagreeable, keeping the agreeable, on pain, and hankering for future enjoyment (nidāna).",
     "cites": [
-     "tea:tattvartha-sutra:9.30-33"
+     "tea:tattvartha-sutra:9.30",
+     "tea:tattvartha-sutra:9.31",
+     "tea:tattvartha-sutra:9.32",
+     "tea:tattvartha-sutra:9.33"
     ]
    }
   ],
@@ -2568,7 +2533,8 @@
    "tea:tattvartha-sutra:9.2",
    "tea:dasavaikalika-sutra:8.36-38"
   ],
-  "user_facing": true
+  "user_facing": false,
+  "manual_exclusion": "their only real step rests on the Daśavaikālika 8.36–38 entry, still skeleton"
  },
  {
   "id": "px:uttama-sauca-ts-9-6",
@@ -2576,7 +2542,7 @@
   "lens": "ascetic-jain",
   "ontology_refs": [],
   "tradition": "lin:jainism",
-  "summary": "TS 9.6 names purity (śauca) fourth among the ten forms of dharma, which TS 9.2 counts among the means that stop karmic inflow. The sūtra gives no method; the ontology's reading of śauca here as purity from greed follows the commentaries (it is not bodily washing). The Daśavaikālika pairs greed with contentment rather than with śauca: greed destroys everything; conquer greed by contentment.",
+  "summary": "TS 9.6 names purity (śauca) fourth among the ten forms of dharma, which TS 9.2 counts among the means that stop karmic inflow. The sūtra gives no method. The Daśavaikālika pairs greed with contentment rather than with śauca: greed destroys everything; conquer greed by contentment.",
   "steps": [
    "Sit comfortably.",
    "Recall the virtue as the sūtra names it: purity (śauca), one of the ten forms of dharma (TS 9.6).",
@@ -2598,7 +2564,7 @@
   },
   "warnings": [
    {
-    "text": "The sūtra gives only the name; the pairing with greed is the commentaries' reading of śauca, and the Daśavaikālika names contentment, not śauca, against greed.",
+    "text": "The sūtra gives only the name; the Daśavaikālika names contentment, not śauca, against greed.",
     "cites": [
      "tea:tattvartha-sutra:9.6",
      "tea:dasavaikalika-sutra:8.36-38"
@@ -2607,7 +2573,10 @@
    {
     "text": "Nearest general caution in the Tattvārtha (the sūtra gives none for this practice): reflection must not turn into sorrowful brooding (ārta-dhyāna), which the sūtra defines as dwelling on removing the disagreeable, keeping the agreeable, on pain, and hankering for future enjoyment (nidāna).",
     "cites": [
-     "tea:tattvartha-sutra:9.30-33"
+     "tea:tattvartha-sutra:9.30",
+     "tea:tattvartha-sutra:9.31",
+     "tea:tattvartha-sutra:9.32",
+     "tea:tattvartha-sutra:9.33"
     ]
    }
   ],
@@ -2618,7 +2587,8 @@
    "tea:tattvartha-sutra:9.2",
    "tea:dasavaikalika-sutra:8.36-38"
   ],
-  "user_facing": true
+  "user_facing": false,
+  "manual_exclusion": "their only real step rests on the Daśavaikālika 8.36–38 entry, still skeleton"
  },
  {
   "id": "px:vrata-ts-7-1",
@@ -3211,13 +3181,6 @@
   },
   "warnings": [
    {
-    "text": "The sūtra and Vyāsa name no person; the product does not choose one for you (YS 1.37 with Vyāsa).",
-    "cites": [
-     "tea:yoga-sutra:1.37",
-     "tea:yoga-bhasya:1.37"
-    ]
-   },
-   {
     "text": "Practice becomes firm only when cultivated for a long time, without interruption and with earnestness (satkāra); the sūtra does not present it as quick (YS 1.14).",
     "cites": [
      "tea:yoga-sutra:1.14"
@@ -3225,7 +3188,7 @@
    }
   ],
   "safety_tier": "gentle",
-  "tier_reason": "Resting the mind on the thought of one free of passion; no breath control, gaze, posture technique, austerity or vow.",
+  "tier_reason": "Resting the mind on the thought of one free of passion; no breath control, gaze, posture technique, austerity or vow. The sūtra and Vyāsa name no person; the product does not choose one for you (YS 1.37 with Vyāsa).",
   "cites": [
    "tea:yoga-sutra:1.37",
    "tea:yoga-bhasya:1.37",
@@ -3247,7 +3210,7 @@
   "summary": "YS 1.39: or [the mind is steadied] by meditation (dhyāna) on whatever is agreeable (yathābhimata). Vyāsa: one should meditate on just what is agreeable; the mind, having gained steadiness there, gains a footing of steadiness in other objects too.",
   "steps": [
    "Sit comfortably.",
-   "Choose one object that is agreeable to you (yathābhimata) (YS 1.39).",
+   "Choose one agreeable object to hold in mind: not something you crave, and not a fixed gaze at a light or the sun (YS 1.39; 1.15).",
    "Meditate on just that (Vyāsa on 1.39).",
    "When the mind goes to other things, set it again on the one object (Vyāsa on 1.32).",
    "Close gently; Vyāsa says steadiness gained on one object carries to others (Vyāsa on 1.39)."
@@ -3267,7 +3230,7 @@
   },
   "warnings": [
    {
-    "text": "Dispassion, the partner of practice (YS 1.12), is freedom from thirst for objects seen or heard of (YS 1.15 with Vyāsa); an object that you thirst for does not suit this practice.",
+    "text": "Dispassion, the partner of practice (YS 1.12), is freedom from thirst for objects seen or heard of (YS 1.15 with Vyāsa).",
     "cites": [
      "tea:yoga-sutra:1.12",
      "tea:yoga-sutra:1.15",
@@ -3286,6 +3249,7 @@
   "cites": [
    "tea:yoga-sutra:1.39",
    "tea:yoga-bhasya:1.39",
+   "tea:yoga-sutra:1.15",
    "tea:yoga-bhasya:1.32"
   ],
   "user_facing": true
@@ -3350,7 +3314,6 @@
    "Will they cause no agitation (anudvega-kara) in the one who hears? (BhG 17.15)",
    "Are they true, pleasant and beneficial (satya, priya, hita)? (BhG 17.15)",
    "Speak what meets these marks (BhG 17.15).",
-   "Once a day, spend a few minutes reciting a text you hold sacred (svādhyāya-abhyasana) (BhG 17.15).",
    "Do it without looking for a reward (BhG 17.17)."
   ],
   "targets": [
@@ -3377,16 +3340,10 @@
     "cites": [
      "tea:bhagavad-gita:17.18"
     ]
-   },
-   {
-    "text": "The Gītā's austerity of the body (17.14) includes celibacy; it belongs to other tiers and is not part of these steps.",
-    "cites": [
-     "tea:bhagavad-gita:17.14"
-    ]
    }
   ],
   "safety_tier": "gentle",
-  "tier_reason": "Care in speech and a short daily recitation; no breath control, gaze, posture technique, austerity or vow. The Gītā calls it austerity (tapas) of speech, but nothing in it strains the body.",
+  "tier_reason": "Care in speech; no breath control, gaze, posture technique, austerity or vow. The Gītā calls it austerity (tapas) of speech, but nothing in it strains the body. The Gītā also counts the practice of recitation (svādhyāya-abhyasana) as austerity of speech (17.15); it is not made a step, because this layer leaves recitation and mantra practice to a teacher (px:pranava-japa-ys-1-27-29). The Gītā's austerity of the body (17.14) includes celibacy; it belongs to other tiers and is not part of these steps.",
   "cites": [
    "tea:bhagavad-gita:17.15",
    "tea:bhagavad-gita:17.17"
@@ -3482,12 +3439,6 @@
     "cites": [
      "tea:dhammapada:239"
     ]
-   },
-   {
-    "text": "The chapter goes on to a verse on the body lying discarded on the earth (Dhp 41); that reflection on the body's end is not part of these steps.",
-    "cites": [
-     "tea:dhammapada:41"
-    ]
    }
   ],
   "safety_tier": "gentle",
@@ -3534,16 +3485,10 @@
     "cites": [
      "tea:dhammapada:239"
     ]
-   },
-   {
-    "text": "The Visuddhimagga (a later Theravāda manual) advises that if resentment rises when the mind turns to one who did wrong, one should turn first to loving-kindness toward an easier person, and only then come back (Vism IX p.298).",
-    "cites": [
-     "tea:visuddhimagga:9.p298"
-    ]
    }
   ],
   "safety_tier": "gentle",
-  "tier_reason": "A reflection on one's own harbouring of a grievance; no breath control, gaze, posture technique, austerity or vow. It is not advice to stay in, or keep silent about, ongoing harm: a reading that mentions abuse is stopped by the safety screen before any practice is chosen (SAFETY.md).",
+  "tier_reason": "A reflection on one's own harbouring of a grievance; no breath control, gaze, posture technique, austerity or vow. It is not advice to stay in, or keep silent about, ongoing harm: a reading that mentions abuse is stopped by the safety screen before any practice is chosen (SAFETY.md). The Visuddhimagga's advice for resentment (IX p.298) belongs to its loving-kindness method, which the layer leaves to a teacher (px:metta-bhavana-vism-9), so it is not given here.",
   "cites": [
    "tea:dhammapada:3",
    "tea:dhammapada:4",
@@ -3663,13 +3608,7 @@
   ],
   "tradition": "lin:theravada",
   "summary": "Vism IX p.298: if resentment arises when loving-kindness is turned toward one who did wrong, the meditator goes back to loving-kindness toward one of the earlier persons and then returns; if it does not subside, the Visuddhimagga gives further means (p.298–306). One is to recall whatever in that person is calm: in one only the bodily conduct is calm, in another only the speech, in another only the mind; ignoring the rest, one recalls only that (p.299–300). Another is to reflect on the ownership of deeds (kamma), one's own and the other's: 'you are the owner of your kamma, heir to your kamma' (p.301).",
-  "steps": [
-   "Sit comfortably. Begin with loving-kindness toward yourself: 'may I be happy and free from suffering' (Vism IX p.296).",
-   "Bring to mind the person you resent. If resentment rises strongly, go back to loving-kindness toward yourself or a dear person, then return (IX p.298).",
-   "Recall one thing in that person that is calm: their conduct, their speech, or their mind. Leave the rest aside and dwell on that one calm quality (IX p.299–300).",
-   "Reflect on the ownership of deeds: 'I am the owner of my deeds, heir to my deeds'; anger, too, bears its own fruit (IX p.301).",
-   "Close gently."
-  ],
+  "steps": [],
   "targets": [
    "dx:nivarana-byapada",
    "dx:root-dosa",
@@ -3678,26 +3617,25 @@
   ],
   "stage": "all",
   "duration": {
-   "minutes_per_session": [
-    5,
-    10
-   ],
-   "sessions_per_day": 1,
-   "basis": "product default for a beginner; the text gives no length"
+   "minutes_per_session": null,
+   "sessions_per_day": null,
+   "basis": "not set: summary only; the product gives no length for a practice it does not guide"
   },
   "warnings": [
+   {
+    "text": "This is a step within that development. The Visuddhimagga addresses the development of loving-kindness to a beginner who has cut the impediments and taken the subject (IX p.295). The subject is taken by approaching a good friend who gives a meditation subject (III p.89/3); loving-kindness is named as the universal subject, and the one who gives it is the good friend (kalyāṇamitta) (III p.97/3, p.98/2).",
+    "cites": [
+     "tea:visuddhimagga:9.p295",
+     "tea:visuddhimagga:3.p89/3",
+     "tea:visuddhimagga:3.p97/3",
+     "tea:visuddhimagga:3.p98/2"
+    ]
+   },
    {
     "text": "Do not begin with a disliked or hostile person; begin with yourself (Vism IX p.296).",
     "cites": [
      "tea:visuddhimagga:9.p296",
      "tea:visuddhimagga:9.p296/2"
-    ]
-   },
-   {
-    "text": "The Visuddhimagga's further means include stories of great bodily harm borne without anger and an analysis of the body into its parts; they are not part of these steps (IX p.302–306).",
-    "cites": [
-     "tea:visuddhimagga:9.p302/2",
-     "tea:visuddhimagga:9.p306"
     ]
    },
    {
@@ -3707,13 +3645,12 @@
     ]
    }
   ],
-  "safety_tier": "gentle",
-  "tier_reason": "Recalling another person's calm conduct and reflecting on ownership of deeds; no breath control, gaze, posture technique, austerity or vow. The Visuddhimagga's graphic stories and body analysis are left out. It is not advice to stay in ongoing harm: a reading that mentions abuse is stopped by the safety screen (SAFETY.md).",
+  "safety_tier": "needs-teacher",
+  "tier_reason": "Needs a teacher by the text's own statement: this is a step within the Visuddhimagga's development of loving-kindness, which it addresses to a beginner who has taken the subject (IX p.295) from a good friend who gives a meditation subject (III p.89/3, p.97/3, p.98/2), as for px:metta-bhavana-vism-9. The Visuddhimagga's graphic stories and body analysis (IX p.302–306) are left out, and IX p.300 is not cited (it also carries imagery of the hells). It is not advice to stay in ongoing harm: a reading that mentions abuse is stopped by the safety screen (SAFETY.md). Earlier tier: gentle; demoted by the practice-safety judge (P5; DECISIONS 2026-09-30).",
   "cites": [
    "tea:visuddhimagga:9.p296/2",
    "tea:visuddhimagga:9.p298",
    "tea:visuddhimagga:9.p299/2",
-   "tea:visuddhimagga:9.p300",
    "tea:visuddhimagga:9.p301/2"
   ],
   "user_facing": true
@@ -3756,16 +3693,10 @@
      "tea:tattvartha-sutra:9.32",
      "tea:tattvartha-sutra:9.33"
     ]
-   },
-   {
-    "text": "This reflection is on impermanence, not on death. The sūtra's reflection on 'no refuge' (aśaraṇa) is a separate one and is not part of these steps (TS 9.7).",
-    "cites": [
-     "tea:tattvartha-sutra:9.7"
-    ]
    }
   ],
   "safety_tier": "gentle",
-  "tier_reason": "A single short reflection from the twelve; no breath control, gaze, posture technique, austerity or vow.",
+  "tier_reason": "A single short reflection from the twelve; no breath control, gaze, posture technique, austerity or vow. This reflection is on impermanence, not on death. The sūtra's reflection on 'no refuge' (aśaraṇa) is a separate one and is not part of these steps (TS 9.7).",
   "cites": [
    "tea:tattvartha-sutra:9.7",
    "tea:tattvartha-sutra:9.2",
@@ -3815,16 +3746,10 @@
      "tea:tattvartha-sutra:9.32",
      "tea:tattvartha-sutra:9.33"
     ]
-   },
-   {
-    "text": "The sūtra's means of stopping also include the conquest of hardships (parīṣaha-jaya), which belongs to the ascetic life; it is not part of these steps (TS 9.2).",
-    "cites": [
-     "tea:tattvartha-sutra:9.2"
-    ]
    }
   ],
   "safety_tier": "gentle",
-  "tier_reason": "A doctrinal reflection on the sūtra's own definitions; no breath control, gaze, posture technique, austerity or vow.",
+  "tier_reason": "A doctrinal reflection on the sūtra's own definitions; no breath control, gaze, posture technique, austerity or vow. The sūtra's means of stopping also include the conquest of hardships (parīṣaha-jaya), which belongs to the ascetic life; it is not part of these steps (TS 9.2).",
   "cites": [
    "tea:tattvartha-sutra:9.7",
    "tea:tattvartha-sutra:6.1",
@@ -3995,16 +3920,10 @@
      "tea:tattvartha-sutra:9.32",
      "tea:tattvartha-sutra:9.33"
     ]
-   },
-   {
-    "text": "The steps name four of the sūtra's five faults; the fifth, unchastity (abrahma), is left out (TS 7.1).",
-    "cites": [
-     "tea:tattvartha-sutra:7.1"
-    ]
    }
   ],
   "safety_tier": "gentle",
-  "tier_reason": "A reflection on the harm of wrong conduct; no breath control, gaze, posture technique, austerity or vow. TS 7.12 (reflecting on the nature of the body, for dread of rebirth) is not included.",
+  "tier_reason": "A reflection on the harm of wrong conduct; no breath control, gaze, posture technique, austerity or vow. TS 7.12 (reflecting on the nature of the body, for dread of rebirth) is not included. The steps name four of the sūtra's five faults; the fifth, unchastity (abrahma), is left out (TS 7.1).",
   "cites": [
    "tea:tattvartha-sutra:7.1",
    "tea:tattvartha-sutra:7.9",

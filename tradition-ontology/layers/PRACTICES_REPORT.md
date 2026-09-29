@@ -255,3 +255,40 @@ Test suite results:
   - TS 9.30–9.34 (ārta as something to give up).
 
   Their `ontology_refs` are empty. These are candidates for the gap hunter.
+
+## Judge fixes (P6)
+Source: the P5 practice-safety judge (`eval/judge/practice_safety.jsonl`, `PRACTICE_SAFETY.md`; gate FAIL with 14 pass, 20 fix and 4 demote). The fixes are applied by `layers/_gen/practices/judge_fixes.py`, which is idempotent, edits entries by px id and gives a one-line reason per fix. `build.py` runs it after the second `overrides.py`. A full rebuild reproduces the fixed layer byte for byte (same md5), and a second run changes nothing.
+- **Demoted to needs-teacher** (steps [], summary-only duration). Each gets a tier_reason and a cited warning giving the text's own teacher statement:
+  - `inward-turned-gaze-ku-2-1-1` (KU 1.2.8–9). Its stage is now advanced, as data/ tags KU 2.1.1.
+  - `anapanasati-first-tetrad` (Vism VIII p.277/2, p.278).
+  - `metta-bhavana-vism-9` (Vism IX p.295; III p.89/3, p.97/3, p.98/2). The summary now keeps the "taken the subject" condition.
+  - `recalling-the-good-in-one-who-wronged-vism-9` (same cites). W2 (bodily harm) is deleted and cite IX p.300 (hells) dropped.
+- **Excluded:** the four `uttama-*-ts-9-6` entries now have user_facing false and manual_exclusion "their only real step rests on the Daśavaikālika 8.36–38 entry, still skeleton". Re-running `overrides.py` leaves them excluded (checked). Their ārta caution now cites TS 9.30, 9.31, 9.32 and 9.33. For śauca, the unsourced "commentaries' reading" is removed from W1 and from the summary.
+- **Editorial:**
+  - Product notes are out of the warnings. Deleted: pratipakṣa W2 (its note kept in tier_reason) and guarding-the-mind W2. Moved to tier_reason: ekatattva W3, citta W3, vītarāga W1, speech W3, anitya W2, āsrava-saṃvara W2 and seeing-harm W3. Anuprekṣā W2 is removed, since its tier_reason already says the same.
+  - Misstated warnings corrected: KU 1.3.14 (the razor's-edge line only), TS 7.11 (the four pairings) and BhG 6.35 (reworded to 6.35–6.36).
+  - Steps corrected:
+    - YS 1.12 S4 (cite YB 1.11 dropped);
+    - ekatattva S2 and S4;
+    - yathābhimata S2 (no fixed gaze, nothing craved); W1's inferred clause is dropped and YS 1.15 added to cites;
+    - bearing-the-surge S3 (limited to the surge);
+    - speech S5 (daily recitation) deleted, with tier_reason updated.
+  - Anuprekṣā S3 and summary no longer carry the commentary gloss; W1 cites TS 9.30–9.33 separately.
+- **Beyond the judge's list (same rule: a warning is the texts' own caution only):**
+  - TS 7.11 W2's clause "the vows themselves are not taken through the product" is moved to tier_reason.
+  - Dhp 3–5 W2 (the Vism IX p.298 mettā advice) is removed, following the judge's note to revisit it if mettā is demoted.
+  - BhG 6.35 W3 says "can be attained" (6.36 *śakyaḥ*), where the judge's text had "is attained".
+- **Checked by code:**
+  - Only these 25 entries changed.
+  - Every cite in them passes `ontology.citable()`, except the Daśavaikālika skeleton cite in the four excluded entries. Each keeps at least one warning with a citable cite.
+  - All 216 cites of the 30 loaded gentle entries are citable.
+  - `claims.scan_fields` finds 0 hits, and the clinical-word and danger-word checks are clean.
+- **Result:**
+  - Usable practices went from 69 to 65, and gentle usable from 38 to 30 (vedic-yogic 13, Buddhist 9, Jain 8).
+  - `scripts/check_layers.py`: 84 entries, 65 user-facing, 30 gentle.
+  - `pytest`: 299 passed.
+- **Open:**
+  - The uttama W1 notes ("the steps are recollection ...") still read as product notes. They are not shown now; move them before the entries are re-enabled.
+  - Śauca's only method practises contentment, not śauca (judge).
+  - 11 entries this pass did not touch (all non-gentle or excluded) have no citable warning, as before.
+  - The judge re-checks the entries that failed.

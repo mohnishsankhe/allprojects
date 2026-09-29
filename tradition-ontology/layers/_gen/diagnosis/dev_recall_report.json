@@ -1,0 +1,1237 @@
+{
+ "p6_cues": 0,
+ "before": {
+  "personas": 30,
+  "personas_with_any_mapping": 2,
+  "personas_with_target_hit": 1,
+  "targets_hit": "2/38",
+  "target_confidence": {
+   "low": 2,
+   "none": 36
+  },
+  "mapping_confidence": {
+   "low": 2
+  },
+  "off_target_mappings": 1,
+  "by_pattern": {
+   "attachment": "1/5",
+   "clinging/fear of loss": "1/4",
+   "lasting anger/resentment": "0/3",
+   "restless/wandering mind": "0/3",
+   "regret/going over the past": "0/4",
+   "doubt": "0/3",
+   "pride/conceit": "0/3",
+   "envy": "0/3",
+   "concealment": "0/2",
+   "putting things off": "0/3",
+   "dullness": "0/3",
+   "greed": "0/2"
+  }
+ },
+ "after": {
+  "personas": 30,
+  "personas_with_any_mapping": 2,
+  "personas_with_target_hit": 1,
+  "targets_hit": "2/38",
+  "target_confidence": {
+   "low": 2,
+   "none": 36
+  },
+  "mapping_confidence": {
+   "low": 2
+  },
+  "off_target_mappings": 1,
+  "by_pattern": {
+   "attachment": "1/5",
+   "clinging/fear of loss": "1/4",
+   "lasting anger/resentment": "0/3",
+   "restless/wandering mind": "0/3",
+   "regret/going over the past": "0/4",
+   "doubt": "0/3",
+   "pride/conceit": "0/3",
+   "envy": "0/3",
+   "concealment": "0/2",
+   "putting things off": "0/3",
+   "dullness": "0/3",
+   "greed": "0/2"
+  }
+ },
+ "personas_after": [
+  {
+   "id": "D01",
+   "route": "continue",
+   "unmapped_reason": null,
+   "mappings": [
+    [
+     "dx:klesa-raga",
+     "low"
+    ]
+   ],
+   "targets": {
+    "attachment": {
+     "hit": true,
+     "best": "low",
+     "entries": [
+      [
+       "dx:klesa-raga",
+       "low"
+      ]
+     ]
+    },
+    "clinging/fear of loss": {
+     "hit": true,
+     "best": "low",
+     "entries": [
+      [
+       "dx:klesa-raga",
+       "low"
+      ]
+     ]
+    }
+   },
+   "off_target": [],
+   "target_evidence": {
+    "dx:gita-anger-chain": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.0,
+     "E_net": -0.3,
+     "n_units": 0,
+     "n_direct_units": 0,
+     "kept": [],
+     "counters": [
+      [
+       "R_NEGATED",
+       0.6,
+       "when i think its really over i start scrolling old chats and cant stop"
+      ]
+     ],
+     "rejected_codes": {}
+    },
+    "dx:klesa-raga": {
+     "code": null,
+     "level": "low",
+     "E": 1.0,
+     "E_net": 1.0,
+     "n_units": 1,
+     "n_direct_units": 1,
+     "kept": [
+      {
+       "unit": "intake:q03",
+       "match": "cue_window",
+       "strength": "direct",
+       "caps": [],
+       "spec": [
+        "F2"
+       ],
+       "cue": "I keep wanting to go back to that",
+       "quote": "like i want it back right away"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    },
+    "dx:root-lobha": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.0,
+     "E_net": 0.0,
+     "n_units": 0,
+     "n_direct_units": 0,
+     "kept": [],
+     "counters": [],
+     "rejected_codes": {
+      "R_OTHER_PERSON": 1
+     }
+    }
+   }
+  },
+  {
+   "id": "D02",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "lasting anger/resentment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D03",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "restless/wandering mind": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D04",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "regret/going over the past": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {
+    "dx:nivarana-uddhacca-kukkucca": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.0,
+     "E_net": -0.6,
+     "n_units": 0,
+     "n_direct_units": 0,
+     "kept": [],
+     "counters": [
+      [
+       "R_NEGATED",
+       0.6,
+       "I take ages because I'm terrified of getting it wrong again and then having another thing to regret"
+      ],
+      [
+       "R_NEGATED",
+       0.6,
+       "I ended up writing the same regrets over and over"
+      ]
+     ],
+     "rejected_codes": {}
+    }
+   }
+  },
+  {
+   "id": "D05",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "doubt": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D06",
+   "route": "continue",
+   "unmapped_reason": null,
+   "mappings": [
+    [
+     "dx:mutthassati",
+     "low"
+    ]
+   ],
+   "targets": {
+    "pride/conceit": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [
+    [
+     "dx:mutthassati",
+     "low"
+    ]
+   ],
+   "target_evidence": {}
+  },
+  {
+   "id": "D07",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "envy": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D08",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "concealment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D09",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "putting things off": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {
+    "dx:guna-tamas": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.0,
+     "E_net": 0.0,
+     "n_units": 0,
+     "n_direct_units": 0,
+     "kept": [],
+     "counters": [],
+     "rejected_codes": {
+      "R_QUESTION": 1
+     }
+    }
+   }
+  },
+  {
+   "id": "D10",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "clinging/fear of loss": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    },
+    "attachment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {
+    "dx:guna-tamas": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.0,
+     "E_net": -0.3,
+     "n_units": 0,
+     "n_direct_units": 0,
+     "kept": [],
+     "counters": [
+      [
+       "R_NEGATED",
+       0.6,
+       "When the grandchildren leave after the holidays I don't want to put away their things"
+      ]
+     ],
+     "rejected_codes": {}
+    },
+    "dx:root-lobha": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.6,
+     "E_net": 0.6,
+     "n_units": 1,
+     "n_direct_units": 0,
+     "kept": [
+      {
+       "unit": "intake:q10",
+       "match": "one_stem_cue",
+       "strength": "indirect",
+       "caps": [
+        "C_ONE_STEM_CUE"
+       ],
+       "spec": [
+        "F2"
+       ],
+       "cue": "I can't let go of it",
+       "quote": "I can't let go of anything, even his old school books are in the cupboard"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    }
+   }
+  },
+  {
+   "id": "D11",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "dullness": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D12",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "greed": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D13",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "attachment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D14",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "lasting anger/resentment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D15",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "restless/wandering mind": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {
+    "dx:gk-viksepa": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.6,
+     "E_net": 0.6,
+     "n_units": 1,
+     "n_direct_units": 0,
+     "kept": [
+      {
+       "unit": "intake:q01",
+       "match": "cue_partial",
+       "strength": "indirect",
+       "caps": [],
+       "spec": [
+        "F1",
+        "F2"
+       ],
+       "cue": "my mind keeps running after one pleasure or another",
+       "quote": "my mind is running here and there"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    }
+   }
+  },
+  {
+   "id": "D16",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "regret/going over the past": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D17",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "doubt": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {
+    "dx:antaraya-samsaya": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.0,
+     "E_net": -0.3,
+     "n_units": 0,
+     "n_direct_units": 0,
+     "kept": [],
+     "counters": [
+      [
+       "R_NEGATED",
+       0.6,
+       "is this actually working, is the teacher genuine, maybe the other school had it right"
+      ]
+     ],
+     "rejected_codes": {}
+    }
+   }
+  },
+  {
+   "id": "D18",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "envy": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D19",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "concealment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D20",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "putting things off": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {
+    "dx:guna-tamas": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.6,
+     "E_net": 0.6,
+     "n_units": 1,
+     "n_direct_units": 0,
+     "kept": [
+      {
+       "unit": "intake:q01",
+       "match": "one_stem_cue",
+       "strength": "indirect",
+       "caps": [
+        "C_ONE_STEM_CUE"
+       ],
+       "spec": [
+        "F2"
+       ],
+       "cue": "I keep putting it off",
+       "quote": "I put everything off till the last minute"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    }
+   }
+  },
+  {
+   "id": "D21",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "clinging/fear of loss": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    },
+    "pride/conceit": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {
+    "dx:carita-dosa": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.0,
+     "E_net": 0.0,
+     "n_units": 0,
+     "n_direct_units": 0,
+     "kept": [],
+     "counters": [],
+     "rejected_codes": {
+      "R_HYPOTHETICAL": 1
+     }
+    }
+   }
+  },
+  {
+   "id": "D22",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "dullness": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D23",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "greed": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    },
+    "clinging/fear of loss": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D24",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "restless/wandering mind": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    },
+    "regret/going over the past": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D25",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "attachment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    },
+    "lasting anger/resentment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {
+    "dx:root-lobha": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.6,
+     "E_net": 0.6,
+     "n_units": 1,
+     "n_direct_units": 0,
+     "kept": [
+      {
+       "unit": "intake:q10",
+       "match": "one_stem_cue",
+       "strength": "indirect",
+       "caps": [
+        "C_ONE_STEM_CUE"
+       ],
+       "spec": [
+        "F2"
+       ],
+       "cue": "I can't let go of it",
+       "quote": "When my daughter-in-law does things differently I cannot let it go, I have to redo it"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    }
+   }
+  },
+  {
+   "id": "D26",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "pride/conceit": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D27",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "envy": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D28",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "putting things off": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    },
+    "dullness": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  },
+  {
+   "id": "D29",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "attachment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {
+    "dx:klesa-raga": {
+     "code": "R_BELOW_FLOOR",
+     "level": null,
+     "E": 0.6,
+     "E_net": 0.6,
+     "n_units": 1,
+     "n_direct_units": 0,
+     "kept": [
+      {
+       "unit": "intake:q03",
+       "match": "one_stem_cue",
+       "strength": "indirect",
+       "caps": [
+        "C_ONE_STEM_CUE"
+       ],
+       "spec": [
+        "F2"
+       ],
+       "cue": "I need whatever gets me that feeling",
+       "quote": "like after a festival i'm already looking for the next one, i need something to look forward to or i feel flat"
+      }
+     ],
+     "counters": [],
+     "rejected_codes": {}
+    }
+   }
+  },
+  {
+   "id": "D30",
+   "route": "continue",
+   "unmapped_reason": "no_entry_met_floor",
+   "mappings": [],
+   "targets": {
+    "regret/going over the past": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    },
+    "doubt": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   },
+   "off_target": [],
+   "target_evidence": {}
+  }
+ ],
+ "personas_before": [
+  {
+   "id": "D01",
+   "mappings": [
+    [
+     "dx:klesa-raga",
+     "low"
+    ]
+   ],
+   "targets": {
+    "attachment": {
+     "hit": true,
+     "best": "low",
+     "entries": [
+      [
+       "dx:klesa-raga",
+       "low"
+      ]
+     ]
+    },
+    "clinging/fear of loss": {
+     "hit": true,
+     "best": "low",
+     "entries": [
+      [
+       "dx:klesa-raga",
+       "low"
+      ]
+     ]
+    }
+   }
+  },
+  {
+   "id": "D02",
+   "mappings": [],
+   "targets": {
+    "lasting anger/resentment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D03",
+   "mappings": [],
+   "targets": {
+    "restless/wandering mind": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D04",
+   "mappings": [],
+   "targets": {
+    "regret/going over the past": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D05",
+   "mappings": [],
+   "targets": {
+    "doubt": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D06",
+   "mappings": [
+    [
+     "dx:mutthassati",
+     "low"
+    ]
+   ],
+   "targets": {
+    "pride/conceit": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D07",
+   "mappings": [],
+   "targets": {
+    "envy": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D08",
+   "mappings": [],
+   "targets": {
+    "concealment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D09",
+   "mappings": [],
+   "targets": {
+    "putting things off": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D10",
+   "mappings": [],
+   "targets": {
+    "clinging/fear of loss": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    },
+    "attachment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D11",
+   "mappings": [],
+   "targets": {
+    "dullness": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D12",
+   "mappings": [],
+   "targets": {
+    "greed": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D13",
+   "mappings": [],
+   "targets": {
+    "attachment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D14",
+   "mappings": [],
+   "targets": {
+    "lasting anger/resentment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D15",
+   "mappings": [],
+   "targets": {
+    "restless/wandering mind": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D16",
+   "mappings": [],
+   "targets": {
+    "regret/going over the past": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D17",
+   "mappings": [],
+   "targets": {
+    "doubt": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D18",
+   "mappings": [],
+   "targets": {
+    "envy": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D19",
+   "mappings": [],
+   "targets": {
+    "concealment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D20",
+   "mappings": [],
+   "targets": {
+    "putting things off": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D21",
+   "mappings": [],
+   "targets": {
+    "clinging/fear of loss": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    },
+    "pride/conceit": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D22",
+   "mappings": [],
+   "targets": {
+    "dullness": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D23",
+   "mappings": [],
+   "targets": {
+    "greed": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    },
+    "clinging/fear of loss": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D24",
+   "mappings": [],
+   "targets": {
+    "restless/wandering mind": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    },
+    "regret/going over the past": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D25",
+   "mappings": [],
+   "targets": {
+    "attachment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    },
+    "lasting anger/resentment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D26",
+   "mappings": [],
+   "targets": {
+    "pride/conceit": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D27",
+   "mappings": [],
+   "targets": {
+    "envy": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D28",
+   "mappings": [],
+   "targets": {
+    "putting things off": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    },
+    "dullness": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D29",
+   "mappings": [],
+   "targets": {
+    "attachment": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  },
+  {
+   "id": "D30",
+   "mappings": [],
+   "targets": {
+    "regret/going over the past": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    },
+    "doubt": {
+     "hit": false,
+     "best": "none",
+     "entries": []
+    }
+   }
+  }
+ ]
+}
