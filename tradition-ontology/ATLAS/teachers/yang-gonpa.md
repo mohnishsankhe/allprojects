@@ -13,4 +13,4 @@
 Drukpa master, disciple of Götsangpa, author of the Hidden Description of the Vajra Body and of mountain-retreat teachings.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

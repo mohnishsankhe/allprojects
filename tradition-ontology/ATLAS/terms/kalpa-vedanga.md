@@ -16,4 +16,4 @@
 _Notes: Id disambiguated from kalpa as a world-eon._
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

@@ -6,7 +6,7 @@
 **Convergence:** 2 independent lineage(s): [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md), [Theravāda](../lineages/theravada.md)
 **Taught in:** [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md), [Theravāda](../lineages/theravada.md)
 
-An austerity of living on minimal food practised by the bodhisatta and described in the texts only to reject it. No quantities or method are recorded here.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Sources:** 
   - [Mahāsīhanāda Sutta](../texts/mahasihanada-sutta.md) — ref: 44-56; rests_on: ["tea:mahasihanada-sutta:44-56"]
@@ -16,4 +16,4 @@ An austerity of living on minimal food practised by the bodhisatta and described
 - By this conduct and these austerities the bodhisatta did not attain superhuman distinction of knowledge and vision; he took solid food again (MN 12; MN 36). — [Mahāsīhanāda Sutta](../texts/mahasihanada-sutta.md) MN 12 (44–56); MN 36 (20–33)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

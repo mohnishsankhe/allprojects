@@ -23,4 +23,4 @@ Within the Kapila Gītā (U06 owns the Gītā as a source); kept here because th
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:3.28.1-11, tea:bhagavata-purana:3.28.12-33, tea:bhagavata-purana:3.28.34-38 — Stage refs BhP 3.28.2-38 located. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._

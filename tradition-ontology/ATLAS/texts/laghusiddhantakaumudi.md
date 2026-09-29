@@ -17,4 +17,4 @@ Varadarāja's abridgement of the Siddhāntakaumudī for beginners.
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:GRETIL-dev:varadaraja_laghusiddhantakaumudi, https://en.wikipedia.org/wiki/Varadar%C4%81ja — Extant. Varadarāja, 17th-c. pupil of Bhaṭṭoji, wrote the Madhya-, Laghu- and Sāra- versions (Wikipedia).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

@@ -21,4 +21,4 @@ The dying person faces west (or is moved to a separate hall) before an image of 
 _Notes: Shinshū does not rely on deathbed rites (Mattōshō 1)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._

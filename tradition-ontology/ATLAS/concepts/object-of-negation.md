@@ -15,4 +15,4 @@
 - contrasts-with → [Freedom from elaborations (spros bral)](freedom-from-elaborations.md): Gelug and Sakya differ on whether the negandum is qualified — rests on [insight.object-of-negation](../texts/lamrim-chenmo.md#tea-lamrim-chenmo-insight-object-of-negation), [critique-qualifier](../texts/taway-shenje.md#tea-taway-shenje-critique-qualifier)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

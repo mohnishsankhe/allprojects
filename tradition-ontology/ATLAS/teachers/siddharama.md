@@ -17,4 +17,4 @@ Siddharāma (Siddharāmēśvara) of Sonnalige, the builder of tanks and temples 
 _Notes: The Tattvapradīpikā's introduction calls the Siddhāntaśikhāmaṇi's author a member of the lineage of Siddharāma, 'born from the glance of Revaṇasiddha' (e-text M00207)._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._

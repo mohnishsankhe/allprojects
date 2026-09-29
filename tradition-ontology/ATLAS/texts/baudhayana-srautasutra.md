@@ -18,4 +18,4 @@ The oldest Śrautasūtra of the Taittirīya school, discursive in style and clos
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Baudhāyanaśrautasūtra, catalog:raw_etexts:baudhayana_shrauta_sutra, https://en.wikipedia.org/wiki/Baudhayana_sutras — Extant; the oldest Taittirīya sūtra corpus (Wikipedia 'Baudhayana sutras').
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

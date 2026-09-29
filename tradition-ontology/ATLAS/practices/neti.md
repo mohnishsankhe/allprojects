@@ -22,4 +22,4 @@ A smooth, fine thread is passed into a nostril and drawn out through the mouth (
 _Notes: 'Sūtra-neti' and 'jala-neti' (with water) are later names; the Gheraṇḍa's vyutkrama kapālabhāti draws water through the nose._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

@@ -15,4 +15,4 @@
 **Related:** [haṃsa](hamsa.md)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 23:14 IST._

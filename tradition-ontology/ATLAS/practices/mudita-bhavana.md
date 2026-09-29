@@ -20,4 +20,4 @@ Pervading the directions with a mind of rejoicing; abandons discontent (MN 62; D
 - partial: [Cultivating the four attitudes (maitrī, karuṇā, muditā, upekṣā)](four-attitudes.md) — YS 1.33's maitrī, karuṇā, muditā, upekṣā as attitudes for calming the mind; the Visuddhimagga develops them to absorption
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

@@ -35,4 +35,4 @@ Under P4 the Nyingma's non-meditation is not a rejection of accumulation for tho
 **Candidate readings:** Dzogchen and Chan are independent 'sudden' teachings with different views of non-conceptuality (Nyingma position).; Dzogchen absorbed Chan elements in the 8th-10th c. (critics' position).
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

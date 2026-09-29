@@ -13,4 +13,4 @@
 Brahmin woman saint (1628–1700) who took Tukārām as guru in a dream, bore her husband's anger, and wrote an autobiography in abhaṅgas and the image of the saints as one temple with Tukārām its pinnacle.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._

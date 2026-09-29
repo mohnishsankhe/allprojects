@@ -13,4 +13,4 @@ The proliferating perceptions and notions that beset a person after feeling, per
   - [Madhupiṇḍika Sutta](../texts/madhupindika-sutta.md) — ref: 8; rests_on: ["tea:madhupindika-sutta:8"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

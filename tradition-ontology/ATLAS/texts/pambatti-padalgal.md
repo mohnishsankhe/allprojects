@@ -39,4 +39,4 @@ concepts: [Kuṇḍalinī](../concepts/kundalini.md) · teachers: [Pāmbāṭṭ
 _Notes: Not in the local e-text set. The snake=kuṇṭali reading is an interpretation, recorded as such._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

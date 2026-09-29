@@ -15,4 +15,4 @@
 Sudarśana Sūri's great sub-commentary on the Śrībhāṣya, recording, the tradition says, the lectures of Naḍādūr Ammāḷ; the standard gloss of the Śrībhāṣya for both later schools. The tradition says Vedānta Deśika saved its manuscript during the sack of Śrīraṅgam.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._

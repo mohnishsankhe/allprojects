@@ -21,4 +21,4 @@ Founder of Japanese Sōtō: trained in Tendai and under Myōzen, went to China (
 **Realization — the tradition's account:** During sitting at Tiantong, Rujing rebuked a dozing monk: 'practising Chan is body and mind dropping off'; hearing this Dōgen awoke and Rujing confirmed 'body and mind dropped off; dropped-off body and mind' (Sōtō biographies; Rujing xu yulu).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

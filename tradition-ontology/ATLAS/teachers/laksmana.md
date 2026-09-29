@@ -13,4 +13,4 @@ Rāma's brother: recipient of Rāma's teaching on māyā, knowledge and devotion
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press), local:sources_raw/raw_etexts/purANam/rAmacharitamAnasa/02_ayodhyAkANDa.md — AR 3.4 (Rāma to Lakṣmaṇa), AR 7.5 (Rāma Gītā), RCM Ayodhyā 92-93 (to Guha).
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

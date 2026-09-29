@@ -42,7 +42,7 @@ The Supreme Self, present in the bodies of all beings, is fourfold — Viśva, T
 
 _level: ultimate · standpoint: divine · path: knowledge, meditation · stage: all · types: consciousness-mind, ultimate_
 
-terms: [Viśva](../terms/visva.md), [Taijasa](../terms/taijasa.md), [Prājña](../terms/prajna.md), [Turīya](../terms/turiya.md) · concepts: [Waking, dream, deep sleep and the fourth as forms of Viṣṇu](../concepts/four-states-as-forms-of-visnu.md), [Dream as real creation](../concepts/dream-dvaita.md), [Deep sleep in Dvaita](../concepts/deep-sleep-dvaita.md)
+terms: [viśva](../terms/visva.md), [taijasa](../terms/taijasa.md), [Prājña](../terms/prajna.md), [turīya](../terms/turiya.md) · concepts: [Waking, dream, deep sleep and the fourth as forms of Viṣṇu](../concepts/four-states-as-forms-of-visnu.md), [Dream as real creation](../concepts/dream-dvaita.md), [Deep sleep in Dvaita](../concepts/deep-sleep-dvaita.md)
 
 ### 7 <a id="tea-mandukya-upanisad-bhasya-madhva-7"></a>
 `skeleton` · confidence high
@@ -51,7 +51,7 @@ terms: [Viśva](../terms/visva.md), [Taijasa](../terms/taijasa.md), [Prājña](.
 
 _level: ultimate · standpoint: experiential · path: meditation, knowledge · stage: advanced · types: consciousness-mind, powers-experiences, karma-liberation_
 
-terms: [Turīya](../terms/turiya.md), [aparokṣa-jñāna](../terms/aparoksa-jnana.md) · concepts: [Waking, dream, deep sleep and the fourth as forms of Viṣṇu](../concepts/four-states-as-forms-of-visnu.md), [Direct knowledge of God (aparokṣa-jñāna)](../concepts/aparoksa-jnana.md)
+terms: [turīya](../terms/turiya.md), [aparokṣa-jñāna](../terms/aparoksa-jnana.md) · concepts: [Waking, dream, deep sleep and the fourth as forms of Viṣṇu](../concepts/four-states-as-forms-of-visnu.md), [Direct knowledge of God (aparokṣa-jñāna)](../concepts/aparoksa-jnana.md)
 
 ### intro <a id="tea-mandukya-upanisad-bhasya-madhva-intro"></a>
 `skeleton` · confidence high
@@ -66,4 +66,4 @@ terms: [praṇava](../terms/pranava.md), [Viṣṇu](../terms/visnu.md) · conce
 _Notes: checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions_
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:14 IST._

@@ -78,4 +78,4 @@ concepts: [Madhyamaka's critique of the Mīmāṃsā](../concepts/madhyamaka-cri
 _Notes: Chapter titles and verse total from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._

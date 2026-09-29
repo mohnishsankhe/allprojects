@@ -7,7 +7,7 @@
 **Taught in:** [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md), [Theravāda](../lineages/theravada.md)
 
 The Evil One, who tempts and threatens practitioners and finds his opening in those who roam outside their own pasture (SN 47.6; SN 4; SN 5).
-**Antidotes:** [The four establishments of mindfulness (satipaṭṭhāna)](../practices/satipatthana.md), [Mindfulness directed to the body (kāyagatāsati)](../practices/kayagatasati.md)
+**Antidotes:** [The four establishments of mindfulness (satipaṭṭhāna)](../practices/satipatthana.md), [Mindfulness directed to the body (kāyagatāsati): summary only](../practices/kayagatasati.md)
 **Sources:** 
   - [Ariyapariyesana Sutta](../texts/ariyapariyesana-sutta.md) — ref: 31-33; rests_on: ["tea:ariyapariyesana-sutta:31-33"]
   - [Kāyagatāsati Sutta](../texts/kayagatasati-sutta.md) — ref: 23-31; rests_on: ["tea:kayagatasati-sutta:23-31"]
@@ -17,4 +17,4 @@ The Evil One, who tempts and threatens practitioners and finds his opening in th
   - [Therīgāthā](../texts/therigatha.md) — ref: 6.3; rests_on: ["tea:therigatha:6.3"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

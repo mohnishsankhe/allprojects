@@ -12,4 +12,4 @@ Deity practices of the white and red sky-goers, the 'flowers' of the five golden
 **Sequences:** [The five golden dharmas of the Shangpa (the tree)](../paths/shangpa-five-golden-dharmas.md)
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

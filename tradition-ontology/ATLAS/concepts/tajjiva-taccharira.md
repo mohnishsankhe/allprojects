@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [The body as the self (dehātmavāda)](dehatmavada.md) (as reported by opponents): Jain and Brahmanical names for one identification of self with body — rests on [1.1.1.11-12](../texts/sutrakrtanga.md#tea-sutrakrtanga-1-1-1-11-12), [fr-purusa](../texts/brhaspati-sutra.md#tea-brhaspati-sutra-fr-purusa)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._

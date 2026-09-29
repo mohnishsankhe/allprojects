@@ -9,4 +9,4 @@
 Maurya king, grandson of Aśoka, converted by Suhastin, who (Śvetāmbara tradition) spread Jainism beyond Magadha and built many temples.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

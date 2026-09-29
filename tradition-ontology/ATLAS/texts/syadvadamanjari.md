@@ -16,4 +16,4 @@
 Malliṣeṇa's commentary (1292 CE) on the Anyayogavyavacchedikā, a standard exposition of many-sidedness and of the Jain critique of other schools.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

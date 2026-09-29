@@ -34,4 +34,4 @@ Whatever is acceptable in the Vedāntins' teaching is acceptable only as the emp
 **Candidate readings:** P4-stage and P2-standpoint applied symmetrically: every ranking is made from within one tradition's standpoint, so the rankings do not conflict as descriptions of their authors' own maps.; Record as mutual subordination and leave unreconciled, since each tradition's final goal is defined against the others.
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:14 IST._

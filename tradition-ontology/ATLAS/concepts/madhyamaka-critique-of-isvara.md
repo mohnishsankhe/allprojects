@@ -14,4 +14,4 @@
 - opposes → [Udayana's proofs of Īśvara (NK 5.1)](udayana-proofs-of-isvara.md) — rests on [9.119-126](../texts/bodhicaryavatara.md#tea-bodhicaryavatara-9-119-126)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._

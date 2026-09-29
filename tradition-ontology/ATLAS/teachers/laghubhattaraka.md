@@ -10,4 +10,4 @@
 Kashmiri author to whom the Laghustava (Laghustuti) to Tripurā is ascribed.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._

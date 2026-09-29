@@ -12,4 +12,4 @@
 Abbot of Ngor, author of the standard Lamdre manuals Beautiful Ornament of the Three Visions and Beautiful Ornament of the Three Continua.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

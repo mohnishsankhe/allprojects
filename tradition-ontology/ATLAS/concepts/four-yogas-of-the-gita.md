@@ -6,9 +6,11 @@
 **Members:** karma-yoga (action), jñāna-yoga / sāṃkhya (knowledge), dhyāna-yoga (meditation), bhakti-yoga (devotion)
 
 ## Names
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The paths of the Gītā: action, knowledge, meditation and devotion
 
 ## Definitions
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The Gītā names two ancient paths, knowledge for the Sāṃkhyas and action for the yogins (3.3), holds them one in result (5.4–5), adds meditation (ch. 6) and devotion (chs. 7–12), and states that some see the self by meditation, some by Sāṃkhya, some by action, and some by worship after hearing (13.24–25). Commentators rank them differently (see dsp:gita-primary-teaching).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: Ch. 18 speaks in sequence of one's own work offered as worship (18.45–48), renunciation and freedom from action (18.49), a meditative discipline making one fit to become Brahman (18.51–53), supreme devotion by which the Lord is known in truth and entered (18.54–55), action done with refuge in the Lord and his grace (18.56–57), and refuge in him alone (18.62, 18.66).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: Some see the self in themselves by themselves through meditation, others by the yoga of sāṃkhya, others by the yoga of action (13.25); others, not knowing thus, worship after hearing from others and they too cross death (13.26); unswerving bhakti-yoga carries one beyond the guṇas (14.26). The verses set these side by side without ranking them.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Ch. 12 offers, by capacity, fixing mind and understanding on the Lord (12.8), the yoga of practice (12.9), work for the Lord (12.10) and relinquishing the fruit of all actions (12.11); it then ranks knowledge above practice, meditation above knowledge and relinquishing the fruit of actions above meditation, peace following on relinquishment (12.12).
 
@@ -18,7 +20,8 @@
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.45, tea:bhagavad-gita:18.46, tea:bhagavad-gita:18.49, tea:bhagavad-gita:18.51, tea:bhagavad-gita:18.51-53, tea:bhagavad-gita:18.54, tea:bhagavad-gita:18.55, tea:bhagavad-gita:18.56, tea:bhagavad-gita:18.57, tea:bhagavad-gita:18.62, tea:bhagavad-gita:18.66 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.25, tea:bhagavad-gita:13.26, tea:bhagavad-gita:14.26 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.8, tea:bhagavad-gita:12.9, tea:bhagavad-gita:12.10, tea:bhagavad-gita:12.11, tea:bhagavad-gita:12.12 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 23:14 IST._

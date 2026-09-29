@@ -11,4 +11,4 @@
 Disciple of Ānanda and teacher of Upagupta in the Sarvāstivāda succession of masters.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._

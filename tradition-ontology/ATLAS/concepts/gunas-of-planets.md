@@ -13,4 +13,4 @@
 - part-of → [The three guṇas](three-gunas.md): jyotiṣa assigns the three guṇas of the common (Sāṃkhya) teaching to the planets — rests on [2.6-7](../texts/brhat-jataka.md#tea-brhat-jataka-2-6-7)
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._

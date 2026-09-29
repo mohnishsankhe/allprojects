@@ -16,4 +16,4 @@ Second of the 'first Āḻvārs'; author of the Iraṇṭām Tiruvantāti, which
 _Notes: Aṃśa of the mace Kaumodakī in the tradition's list (low confidence)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._

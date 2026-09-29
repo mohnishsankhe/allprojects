@@ -17,4 +17,4 @@ The domestic-rite manual of the Kauthuma Sāmavedins, used with the Mantra Brāh
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Gobhilagṛhyasūtra, catalog:raw_etexts:gobhila_grihya_sutra — Extant; the Kauthuma Gṛhyasūtra used with the Mantra Brāhmaṇa (standard).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

@@ -25,4 +25,4 @@ Vaiṣṇavas reject an Ekādaśī touched by the Daśamī even at dawn (aruṇo
 _Notes: The Mīmāṃsā/Dharmaśāstra use of timing (see cpt:time-as-limb-of-rite, cpt:festival-timing); rules summarized from memory._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._

@@ -1,15 +1,16 @@
 # Siṃhāsana (the lion seat)
 
-`prc:simhasana` · `skeleton` · confidence high
+`prc:simhasana` · `sourced` · confidence moderate
 
 **Category:** posture
 **Convergence:** 2 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
 **Taught in:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 
-The ankles placed under the scrotum at the sides of the perineum, crossed (left to the right side, right to the left), the hands on the knees with fingers spread, the mouth open, gazing at the nose-tip (HYP 1.50-52); in the Gheraṇḍa the knees rest on the ground and jālandhara is applied (GS 2.14-15).
+The lion posture, ankles under the perineum, hands on the knees, mouth open, gaze on the nose-tip (HYP 1.50-51).
 **Stage:** beginner
 **Signs of progress:** ['brings about the three locks (HYP 1.52)', 'destroys all diseases (GS 2.15)']
 **Sources:** 
+  - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 1.50-1.51; rests_on: ["tea:hatha-yoga-pradipika:1.50", "tea:hatha-yoga-pradipika:1.51"]
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 1.50-52; rests_on: ["tea:hatha-yoga-pradipika:1.50-52"]
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 2.14-15; rests_on: ["tea:gheranda-samhita:2.14-15"]
   - [Dhyānabindu Upaniṣad](../texts/dhyanabindu-upanisad.md) — ref: 41-43; rests_on: ["tea:dhyanabindu-upanisad:41-43"]
@@ -21,4 +22,8 @@ The ankles placed under the scrotum at the sides of the perineum, crossed (left 
 _Notes: Yoga Yājñavalkya ch. 3 is recalled (low confidence) to describe eight postures: svastika, gomukha, padma, vīra, siṃha, bhadra, mukta, mayūra._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:hatha-yoga-pradipika:1.50, tea:hatha-yoga-pradipika:1.51 — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids).
+
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

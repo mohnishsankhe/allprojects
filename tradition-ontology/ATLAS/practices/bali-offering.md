@@ -6,7 +6,7 @@
 **Convergence:** 2 independent lineage(s): [Bengali and Assamese Śākta tantra](../lineages/bengal-assam-sakta.md), [Kālīkula (the Kālī lineages)](../lineages/kalikula.md)
 **Taught in:** [Bengali and Assamese Śākta tantra](../lineages/bengal-assam-sakta.md), [Kālīkula (the Kālī lineages)](../lineages/kalikula.md)
 
-The offering of animal victims to the Goddess taught in the Kālikā Purāṇa's offering chapter and practised at Kāmākhyā and in Bengal. Restricted: summary only — no victims' lists, durations or procedure.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Kālikā Purāṇa](../texts/kalika-purana.md) — ref: 67; rests_on: ["tea:kalika-purana:67.1-12", "tea:kalika-purana:67.19-23"]
 
@@ -16,4 +16,4 @@ The offering of animal victims to the Goddess taught in the Kālikā Purāṇa's
 - Pumpkin, sugarcane and spirits are declared equal to a victim. — [Kālikā Purāṇa](../texts/kalika-purana.md) 67.19-23
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._

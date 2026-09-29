@@ -22,4 +22,4 @@ _Notes: Distinct in this unit from Kumāraśiras Bharadvāja who speaks in Ca S�
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Text-located: the name occurs in the e-text of ramatapani (uttara), tarasara, rudraksajabala, bhiksuka, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.176.1, 12.179.1 [bharadvāja] (the jīva doubted) — Located as described.
 
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U02-brahmana-vedanga, skeleton:U04-minor-upanisads. Generated 2026-09-29 23:14 IST._

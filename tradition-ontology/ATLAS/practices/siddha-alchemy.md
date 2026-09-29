@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
 **Taught in:** [Siddha medicine (cittā maruttuvam)](../lineages/siddha-medicine.md), [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
 
-Summary only: the Siddhar art of 'binding' mercury, purifying and calcining poisonous minerals and using the secret salt (muppu), both to transmute metals and to make the body deathless; Bogar's Palani image of nine pāṣāṇams is its emblem. No substances, quantities or processes are recorded.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Tiruvaḷḷuvar ñāṉam (the wisdom of Tiruvaḷḷuvar)](../texts/tiruvalluvar-nanam.md) — ref: 17; rests_on: ["tea:tiruvalluvar-nanam:17"]
   - [Pōkar ēḻāyiram (Bogar's Seven Thousand; Captakāṇṭam)](../texts/bogar-7000.md) — ref: passim
@@ -20,4 +20,4 @@ Summary only: the Siddhar art of 'binding' mercury, purifying and calcining pois
 _Notes: Restricted (metals/mercury)._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

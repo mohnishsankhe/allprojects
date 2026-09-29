@@ -15,4 +15,4 @@ A Sahajiyā text on the nectar of rasa and the stages of the sahaja path (attrib
 _Notes: Existence recalled from the scholarly literature (M. M. Basu, S. B. Dasgupta, E. C. Dimock); contents only in outline._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._

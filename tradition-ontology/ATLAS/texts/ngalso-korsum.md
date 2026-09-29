@@ -13,4 +13,4 @@
 Longchenpa's trilogy: Finding Rest in the Nature of Mind, in Meditation and in Illusion, each with autocommentaries (the 'Chariots') and summaries; a graded path from the preliminaries to the Great Perfection.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

@@ -16,4 +16,4 @@
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:linga-purana:1.91.1-2, tea:markandeya-purana:43.1-2 — MkP 43.1-3, 43.10 and LiP 1.91.1-2 located. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._

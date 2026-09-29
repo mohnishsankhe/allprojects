@@ -11,4 +11,4 @@
 Author of the Tattvopaplavasiṃha, the only complete surviving work of the Lokāyata current. He quotes 'the venerable Bṛhaspati' and argues that no definition of any means of knowledge can be made good, so that no principle — not even the four elements — can be established; worldly conduct proceeds without examination.
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._

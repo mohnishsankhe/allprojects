@@ -18,6 +18,8 @@ Absence of hostility toward all beings, in every way and at all times (YBh 2.30)
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 2.35; rests_on: ["tea:yoga-bhasya:2.35"]
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 7.13; rests_on: ["tea:tattvartha-sutra:7.13"]
   - [Puruṣārthasiddhyupāya](../texts/purusarthasiddhyupaya.md) — ref: 44; rests_on: ["tea:purusarthasiddhyupaya:44"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 16.2; rests_on: ["tea:bhagavad-gita:16.2"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 17.14; rests_on: ["tea:bhagavad-gita:17.14"]
   - [Chāndogya Upaniṣad](../texts/chandogya-upanisad.md) — ref: 3.17.4; 8.15.1; rests_on: ["tea:chandogya-upanisad:3.17.4", "tea:chandogya-upanisad:8.15.1"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 13.8; rests_on: ["tea:bhagavad-gita:13.8"]
 **Sequences:** [Patañjali's eight limbs of yoga (aṣṭāṅga-yoga)](../paths/yoga-sutra-eight-limbs.md)
@@ -26,7 +28,8 @@ Absence of hostility toward all beings, in every way and at all times (YBh 2.30)
 **Verification checks**
 
 - 2026-09-29 text: partially-confirmed — tea:yoga-sutra:2.30, tea:yoga-bhasya:2.30, tea:yoga-bhasya:2.31, tea:yoga-sutra:2.35, tea:yoga-bhasya:2.35 — Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:16.2, tea:bhagavad-gita:17.14 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.8 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 3.17.4; ChU 8.15.1). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga, skeleton:U35-jain-philosophy, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga, skeleton:U35-jain-philosophy, extraction:bhagavad-gita/ch16-18, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:14 IST._

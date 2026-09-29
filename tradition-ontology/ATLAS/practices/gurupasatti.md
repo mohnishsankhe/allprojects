@@ -10,4 +10,4 @@ The fifth means of the Nimbārka school: complete dependence on the guru, who th
 **Stage:** all
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._

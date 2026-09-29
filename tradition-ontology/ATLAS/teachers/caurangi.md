@@ -1,18 +1,22 @@
 # Cauraṅgīnātha
 
-`tch:caurangi` · `skeleton` · confidence moderate
+`tch:caurangi` · `sourced` · confidence moderate
 
 **Alternate names:** Cauraṅgī, Pūraṇ Bhagat (Punjabi), Sāraṅgadhara (Telugu), Caurangīpā, Cauraṅgīnātha, tso rang gi (Tibetan)
-**Lineages:** [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md)
+**Lineages:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
 **Historicity:** legendary
 **Teachers:** [Matsyendranātha](matsyendranatha.md), [Gorakṣanātha](goraksanatha.md), [Mīnapa](minapa.md)
 **Works:** 
   - [Prāṇ Saṅkalī](../texts/pran-sankali.md) — attribution: traditional
 
-A Nāth siddha (Cauraṅgī in HYP 1.5): a prince whose hands and feet were cut off at a stepmother's false accusation and who was restored by the Nāth gurus — known in Punjab as Pūraṇ Bhagat and in Telugu as Sāraṅgadhara. The Prāṇ Saṅkalī is ascribed to him.
+Named in the HYP list of adepts (1.5); the text says nothing else about him.
 **Realization — the tradition's account:** Restored in body by the guru's grace after twelve years of practice (the tradition's story in its several versions).
 
-_Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292._
+_Notes: Contribution from the HYP text only (ref 1.5)._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U44-indian-vajrayana, skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids).
+
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U21-natha-aghora, skeleton:U44-indian-vajrayana, skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._

@@ -20,4 +20,4 @@ _Notes: Existence recalled, contents not verified; listed so that the hallucinat
 
 - 2026-09-29 websearch: confirmed — https://www.dlshq.org/books/es71.htm, https://vedanta-yoga.de/yoga-texte/jivanmukta-gita-dattatreya/ — Exists: a short poem (about 24 verses) on the marks of the jīvanmukta, attributed to Dattātreya. Sivananda's DLS published it with translation.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

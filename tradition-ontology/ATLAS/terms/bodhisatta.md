@@ -15,4 +15,4 @@
 - partial: [bodhisattva](bodhisattva.md) — same word; in the Nikāyas the Buddha-to-be, in the Mahāyāna an ideal for all
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

@@ -13,4 +13,4 @@ A king of the Caitra line, deposed by enemies and ministers; after hearing the D
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 81.3; 93.17 — MkP 81.3 ('caitravaṃśasamudbhavaḥ suratho nāma') and 93.17 (to be Sāvarṇi Manu) located.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._

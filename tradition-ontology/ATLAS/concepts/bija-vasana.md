@@ -14,4 +14,4 @@
 - contrasts-with → [Seeds and the specific transformation of the series](sautrantika-seed-theory.md): Sautrāntika seeds lie in the mental series itself, without an ālaya
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._

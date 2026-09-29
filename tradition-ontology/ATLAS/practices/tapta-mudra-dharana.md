@@ -6,11 +6,11 @@
 **Convergence:** 1 independent lineage(s): [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md)
 **Taught in:** [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md)
 
-Summary only: the Mādhva tradition marks the body with Viṣṇu's discus and conch emblems, either heated or in clay; heated emblems are received at set times of the year and at the thread ceremony in the presence of the maṭha's head.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Sadācāradīpikā](../texts/sadacaradipika.md) — ref: part 1 (quoting the Varāha); rests_on: ["tea:sadacaradipika:1"]
 
 _Notes: Restricted: involves marking the body with heated metal; no procedure recorded. Its legitimacy was contested by Smārta critics and defended by Mādhva authors (a work 'Cakramīmāṃsā' is ascribed to Vijayīndra) — recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:14 IST._

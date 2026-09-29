@@ -14,4 +14,4 @@ Sūtrakāra of the Hiraṇyakeśin branch of the Taittirīya school.
 
 - 2026-09-28 websearch: confirmed — https://hindupedia.com/en/Hira%E1%B9%87yake%C5%9Bi_Dharmasutras, https://en.wikipedia.org/wiki/%C5%9Arauta — Low-confidence entry confirmed as the sūtrakāra of the Hiraṇyakeśin (Satyāṣāḍha) Kalpa of the Taittirīya school.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

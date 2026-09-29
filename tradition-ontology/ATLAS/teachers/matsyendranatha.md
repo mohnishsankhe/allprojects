@@ -1,9 +1,9 @@
 # Matsyendranātha
 
-`tch:matsyendranatha` · `skeleton` · confidence high
+`tch:matsyendranatha` · `sourced` · confidence moderate
 
 **Alternate names:** Matsyendra, Mīnanātha, Macchaghnapāda, Macchindranāth, Macchanda, Mīnapāda, Karuṇāmaya (Newar), Macchamuni (Tamil)
-**Lineages:** [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Yoginī Kaula (Yoginīkaula) of Matsyendra](../lineages/yogini-kaula.md), [Kaula (the Kula tradition)](../lineages/kaula.md), [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), `lin:newar-vajrayana`, [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md)
+**Lineages:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Yoginī Kaula (Yoginīkaula) of Matsyendra](../lineages/yogini-kaula.md), [Kaula (the Kula tradition)](../lineages/kaula.md), [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), `lin:newar-vajrayana`
 **Dates:** Tradition's account: present in the four ages; Nāth hagiography; Scholarly account: c. 9th–10th c. (before Abhinavagupta, c. 1000); (confidence moderate)
 **Places:** Candradvīpa, Kāmarūpa, Kadalī kingdom (legend), Kathmandu valley (cult)
 **Historicity:** semi-legendary
@@ -17,10 +17,14 @@
   - [Yogaviṣaya](../texts/yogavisaya.md) — attribution: traditional
   - [Matsyendrasaṃhitā](../texts/matsyendrasamhita.md) — attribution: traditional
 
-The first human Nāth after Ādinātha and guru of Gorakṣa; the Kaulajñānanirṇaya calls itself 'brought down' by Macchaghnapāda/Mīnapāda from Candradvīpa and tells how Bhairava as a fisherman recovered the scripture from a fish's belly (KJN 16). Nāth sagas tell how he forgot himself among the women of the Kadalī (or Strī) kingdom and was awakened by Gorakṣa. In the Kathmandu valley he is worshipped as Karuṇāmaya (Buṅga-dyaḥ, Rāto Macchindranāth), brought to end a drought caused by Gorakṣa; Tibetan tradition relates the name to the siddha Lūipa. Abhinavagupta praises 'Macchanda' as a Kaula master (Tantrāloka 1.7).
+Named in HYP 1.4 (with Gorakṣa) as a knower of haṭha, in the list of adepts (1.5) and as a yogin whose accepted postures the text draws on (1.18).
 **Realization — the tradition's account:** Received the Kaula teaching from Bhairava/Ādinātha (in some Nāth tellings while in the form of a fish, overhearing Śiva teaching Pārvatī); fell into forgetfulness in the Kadalī kingdom and was re-awakened by his disciple Gorakṣa.
 
-_Notes: HYP 1.5 lists both 'Matsyendra' and 'Mīna', and some traditions distinguish Mīnanātha from Matsyendra (e.g. as father/son); this shard keeps one entry and records the question in dsp:identity-of-matsyendra._
+_Notes: Contribution from the HYP text only (ref 1.4)._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids).
+
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._

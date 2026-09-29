@@ -1,12 +1,14 @@
 # brahman
 
-`trm:brahman` · `skeleton` · confidence high
+`trm:brahman` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** ब्रह्मन्
 **Literal:** formulation; sacred word; (later) the absolute
 
 ## Definitions by tradition
+- [Advaita Vedānta](../lineages/advaita-vedanta.md): In the Kārikā ch.3: the knowable, unborn and eternal (3.33); the fearless brahman with light of knowledge (3.35); the mind neither absorbed nor distracted is brahman accomplished (3.46).
+- [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): In this text: all this is brahman and this self is brahman.
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): In the Ṛgveda, the potent sacred formulation or prayer and the power in it (Bṛhaspati/Brahmaṇaspati is its lord); in the Atharvaveda and Yajurveda, the highest principle: 'that is brahman' (VS 32.1), 'homage to the highest Brahman' (AVŚ 10.8.1), 'those who know Brahman in man know the Supreme' (10.7.17), Brahman entered the golden city of the body (10.2.33).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The ultimate ground: that from which beings arise, by which they live and into which they go (TU 3.1.1); being, one without a second (ChU 6.2.1); truth, knowledge, infinite (TU 2.1.1); understanding and bliss (BAU 3.9.28); described also by negation (BAU 2.3.6). Also the name of the formula or sacred word in older usage.
 - [Vedānta (Uttara Mīmāṃsā)](../lineages/vedanta.md): That from which the origin, sustenance and dissolution of the world proceed, known from the Upaniṣads (BS 1.1.2–4).
@@ -22,6 +24,7 @@
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): The supreme reality, Nārāyaṇa, great in essence and qualities and making others great; qualified (saviśeṣa) by souls and matter, never an attributeless consciousness.
 - [Vīraśaiva / Liṅgāyata](../lineages/virasaiva.md): The liṅga itself, so named for its vastness and expanding (SSM 6.36–38); the liṅga of light by whose light all shines (12.38–41).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Arjuna calls Kṛṣṇa 'the supreme brahman (paraṃ brahma), the supreme abode, the supreme purifier' (10.12).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: '[Oṃ] tat sat' is the threefold designation of Brahman (17.23); the one who has attained perfection attains Brahman, 'the highest culmination of knowledge' (18.50); the discipline of 18.51–53 makes one fit for becoming Brahman (brahma-bhūya), and the one who has become Brahman attains supreme devotion (18.54).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: In 2.72 in the compounds brāhmī sthiti and brahmanirvāṇa (the state and goal of the one of steady wisdom). In 3.15 'brahma' arises from the imperishable and is the source of action, and the 'all-pervading brahman' is established in sacrifice; commentators take brahma in 3.15 as the Veda or as prakṛti.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): U04 usage: the one reality realized as 'so'ham'; the soundless beyond nāda; the goal of renunciation; named as Nārāyaṇa, Śiva, Rāma or the Goddess in the sectarian Upaniṣads.
 - [Dādū Panth](../lineages/dadu-panth.md): Sundardās: the one without a second, known at the end of the path as one's own self.
@@ -39,9 +42,12 @@ _Notes: U01 contribution: the Saṃhitā senses. The Upaniṣadic and Vedānta d
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:mandukya-karika:3.33, tea:mandukya-karika:3.35, tea:mandukya-karika:3.46 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
+- 2026-09-29 text: confirmed — tea:mandukya-upanisad:2 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.29, tea:bhagavad-gita:8.1, tea:bhagavad-gita:8.3, tea:bhagavad-gita:8.13, tea:bhagavad-gita:8.24 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.24, tea:bhagavad-gita:4.25, tea:bhagavad-gita:4.31, tea:bhagavad-gita:4.32, tea:bhagavad-gita:5.6, tea:bhagavad-gita:5.10, tea:bhagavad-gita:5.19, tea:bhagavad-gita:5.20, tea:bhagavad-gita:5.24, tea:bhagavad-gita:6.28 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.13, tea:bhagavad-gita:13.14, tea:bhagavad-gita:13.18, tea:bhagavad-gita:13.31, tea:bhagavad-gita:14.26, tea:bhagavad-gita:14.27, tea:bhagavad-gita:14.3, tea:bhagavad-gita:14.4 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.12 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:17.23, tea:bhagavad-gita:18.50, tea:bhagavad-gita:18.51, tea:bhagavad-gita:18.51-53, tea:bhagavad-gita:18.53, tea:bhagavad-gita:18.54 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U15-dvaita, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U14-visistadvaita, skeleton:U20-virasaiva, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch01-03, skeleton:U04-minor-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:mandukya-karika/all, extraction:mandukya-upanisad/all, skeleton:U01-vedic-samhitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U15-dvaita, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U14-visistadvaita, skeleton:U20-virasaiva, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch01-03, skeleton:U04-minor-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._

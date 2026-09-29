@@ -156,7 +156,7 @@ When the knower has withdrawn the mind from outer things and placed the breath (
 
 _level: ultimate · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-terms: [Turīya](../terms/turiya.md), [saṅkalpa](../terms/sankalpa.md) · practices: [The six-limbed yoga of the Maitrī](../practices/sadanga-yoga-maitri.md)
+terms: [turīya](../terms/turiya.md), [saṅkalpa](../terms/sankalpa.md) · practices: [The six-limbed yoga of the Maitrī](../practices/sadanga-yoga-maitri.md)
 
 ### 6.20 <a id="tea-maitri-upanisad-6-20"></a>
 `sourced` · confidence high
@@ -257,7 +257,7 @@ The one who sees with the eye, the one who moves in dreams, the sleeper and the 
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: consciousness-mind, ultimate_
 
-terms: [Turīya](../terms/turiya.md) · concepts: [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md), [The fourth (turīya / caturtha)](../concepts/turiya.md)
+terms: [turīya](../terms/turiya.md) · concepts: [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md), [Turīya, the fourth](../concepts/turiya.md)
 
 
 _Notes: Refs follow the common Cowell/van Buitenen numbering; spot-checked sections 5.2, 6.18-6.24, 6.34 and 7.8-7.11 against the e-text in sources_raw. Veda affiliation: Black Yajurveda, Maitrāyaṇīya śākhā (the Muktikā list places it under the Sāmaveda)_
@@ -271,4 +271,4 @@ _Notes: Refs follow the common Cowell/van Buitenen numbering; spot-checked secti
 
 - editions: Confirmed: 7 prapāṭhakas, the Maitrāyaṇīya school of the Black Yajurveda, and its place in the Muktikā canon (no. 24, under the Sāmaveda). Wikipedia gives the late 1st millennium BCE or slightly later, with the chronology contested, which fits -200/300 (moderate). Corrected: the first 'original' edition, 'Sanskrit text with Śaṅkara's bhāṣya (Advaita-Śāradā e-text)', is wrong. There is no Advaita-Śāradā file and no Śaṅkara commentary for the Maitrī; the local text is eBhāratī Ebharati-9566, Cowell's recension with Rāmatīrtha's Dīpikā. Cowell's Bibliotheca Indica edition is on archive.org.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._

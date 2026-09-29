@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md)
 **Taught in:** [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md)
 
-Summary: the transference of one's consciousness into a dead body, which it revives — 'casting off and taking up like a snake's skin'; by the tradition's account practised by Marpa's son Darma Dode and thereafter lost in Tibet. No method details are recorded.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Karṇatantravajrapada (the Vajra Verses of the Whispered Lineage)](../texts/karnatantravajrapada.md) — ref: 303b.2; rests_on: ["tea:karnatantravajrapada:303b.2"]
   - [bka' dpe phyi ma (Nāropa's instructions received from Tilopa)](../texts/bka-dpe-phyi-ma.md) — ref: 275b.4; rests_on: ["tea:bka-dpe-phyi-ma:275b.4"]
@@ -18,4 +18,4 @@ Summary: the transference of one's consciousness into a dead body, which it revi
 - analogous: [Entering another body (parapura-praveśa)](parakaya-pravesa.md) — the Hindu yogic power of entering another body (the Śaṅkara legend, YS 3.38); the Kagyu presents it as a transference practice for others' benefit
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

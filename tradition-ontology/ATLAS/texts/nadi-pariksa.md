@@ -10,4 +10,4 @@
 A short late treatise on pulse examination, attributed in its colophons to Kaṇāda.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

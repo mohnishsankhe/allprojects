@@ -10,4 +10,4 @@ Talk about women, food, country and kings — forms of carelessness to be avoide
 **Members:** strī-kathā, bhakta-kathā, deśa-kathā, rāja-kathā
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

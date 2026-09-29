@@ -14,4 +14,4 @@ A short text of the Kālottara corpus on the conduct of knowledge (jñānācāra
 _Notes: GRETIL e-text exists locally (devikalottara-agama). Its classification within the Siddhānta is not assessed here._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._

@@ -13,4 +13,4 @@ At dawn the Lord in the temple is roused with song — the sun has risen, the go
 _Notes: Cf. the Sanskrit suprabhātam (src:venkatesa-suprabhatam, U14) and the Śaiva Tiruppaḷḷiyeḻucci of Māṇikkavācakar (U18)._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._

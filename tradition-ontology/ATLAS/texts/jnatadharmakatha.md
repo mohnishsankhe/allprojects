@@ -72,4 +72,4 @@ concepts: [Worship of Jina images](../concepts/jina-image-worship.md) · practic
 _Notes: The title's first word is read either as 'examples' (jñāta) or as the Jñāta (Nāya) clan of Mahāvīra._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

@@ -13,4 +13,4 @@ Taking experiences — dream-bliss, the moments and joys, the bliss of the aggre
   - [Caturaśītisiddhabodhihṛdaya (the realization songs of the eighty-four)](../texts/caturasiti-siddha-bodhihrdaya.md) — ref: 83; rests_on: ["tea:caturasiti-siddha-bodhihrdaya:83"]
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._

@@ -15,4 +15,4 @@
 Padmaprabha Maladhārideva's Sanskrit commentary on the Niyamasāra, with many verses of its own on the 'causal supreme self' (kāraṇa-paramātman).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

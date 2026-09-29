@@ -1,12 +1,13 @@
 # prāṇa
 
-`trm:prana` · `skeleton` · confidence high
+`trm:prana` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** प्राण
 **Literal:** breath; in-breath; life
 
 ## Definitions by tradition
+- [Advaita Vedānta](../lineages/advaita-vedanta.md): In the Kārikā 2.19–2.20: one of the entities by which the self is imagined; those who know prāṇa say "it is prāṇa".
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): Breath and life-force; in the Atharvaveda Prāṇa is lord of all, death and fever, awake among sleepers (AVŚ 11.4); wind was born from the Puruṣa's breath (RV 10.90.13).
 - [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): The breath: life is its staying in the body and death its departure (HYP 2.3); as one of the ten vāyus it abides in the heart (SS 3.7); with apāna it pulls the living soul up and down (GŚ 26–29); their union is the aim of mūlabandha (HYP 3.64).
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): Breath as the vital power: the seers are the breaths (ŚB 6.1.1.1); the breath is the consecrated (KB 7.1); the one god is the breath, called 'that' (ŚB 11.6.3); the breaths are enumerated as five (prāṇa, apāna, vyāna, udāna, samāna).
@@ -38,8 +39,9 @@
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:mandukya-karika:2.19, tea:mandukya-karika:2.20 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.27, tea:bhagavad-gita:4.29, tea:bhagavad-gita:4.30, tea:bhagavad-gita:5.27 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.9 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:15.14 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U28-hatha-texts, skeleton:U02-brahmana-vedanga, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch04-06, skeleton:U44-indian-vajrayana, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U45-nyingma-bon, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:mandukya-karika/all, skeleton:U01-vedic-samhitas, skeleton:U28-hatha-texts, skeleton:U02-brahmana-vedanga, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U05-gita-epic, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch04-06, skeleton:U44-indian-vajrayana, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U04-minor-upanisads, skeleton:U19-kashmir-saivism, skeleton:U45-nyingma-bon, skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

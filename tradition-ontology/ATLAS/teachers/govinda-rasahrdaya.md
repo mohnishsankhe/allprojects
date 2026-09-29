@@ -14,4 +14,4 @@ Author of the Rasahṛdayatantra; the Sarvadarśanasaṃgraha calls him Govinda 
 _Notes: Tradition (SDS) calls him Govinda Bhagavatpāda; whether he is Śaṅkara's teacher (tch:govinda-bhagavatpada) is denied by scholars. Kept separate._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

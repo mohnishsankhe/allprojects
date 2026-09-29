@@ -12,4 +12,4 @@ Visions, lights, sounds, bodily sensations or extraordinary understandings arisi
   - [Points to Watch in Zazen (Zazen yōjinki)](../texts/zazen-yojinki.md) — ref: faults; rests_on: ["tea:zazen-yojinki:faults"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

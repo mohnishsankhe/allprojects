@@ -9,4 +9,4 @@
 The wandering yogī begs his food calling 'alakh!' (the invisible), receiving alms in his bowl; greetings are exchanged with 'ādeś'.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._

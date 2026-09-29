@@ -67,4 +67,4 @@ concepts: [Śaivism's two great divisions: Atimārga and Mantramārga](../concep
 _Notes: Catalogue contribution from U08 (registry id; doctrine recorded by U19)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._

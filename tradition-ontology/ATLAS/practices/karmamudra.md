@@ -6,7 +6,7 @@
 **Convergence:** 6 independent lineage(s): [Gelug](../lineages/gelug.md), [Kadam](../lineages/kadam.md), [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md), [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), [Sakya](../lineages/sakya.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
 **Taught in:** [Gelug](../lineages/gelug.md), [Kadam](../lineages/kadam.md), [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md), [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), [Sakya](../lineages/sakya.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
 
-Summary only: sexual yoga with a qualified consort as a method of the higher consecrations and completion stage, to generate the gnosis of bliss and emptiness; the texts require consecration and pledges and warn against attachment. No procedure recorded.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Prerequisites:** ['the higher consecrations', 'pledges', 'for monastics: excluded (Atiśa)']
 **Sources:** 
@@ -27,4 +27,4 @@ Summary only: sexual yoga with a qualified consort as a method of the higher con
 _Notes: U44 owns the Indian practice entry; this adds the Kagyu sources and warnings._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U46-kagyu, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U46-kagyu, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

@@ -6,11 +6,11 @@
 **Convergence:** 1 independent lineage(s): [Kāpālika (Somasiddhānta)](../lineages/kapalika.md)
 **Taught in:** [Kāpālika (Somasiddhānta)](../lineages/kapalika.md)
 
-Summary only: in Bāṇa's Harṣacarita the Śaiva adept Bhairavācārya performs a mantra-rite at night in the great cremation ground, guarded by the king and disciples.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Harṣacarita](../texts/harsacarita.md) — ref: 3; rests_on: ["tea:harsacarita:3"]
 
 _Notes: Named 'vetāla-sādhana' in scholarship; the text's details were not checked in this run._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:14 IST._

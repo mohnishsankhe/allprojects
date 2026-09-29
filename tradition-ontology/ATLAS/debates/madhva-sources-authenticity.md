@@ -24,4 +24,4 @@ Critics of Madhva have questioned the authority of quotations that cannot be tra
 _Notes: Scholarly metadata (labelled, not a side): some modern scholars (e.g. R. Mesquita) have argued that Madhva composed some of these passages; others (e.g. B. N. K. Sharma) defend their authenticity. Which classical opponent first raised the charge was not verified._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:14 IST._

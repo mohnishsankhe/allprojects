@@ -12,4 +12,4 @@
 Fragments from Chinese Turkestan (Turfan, Kucha) of the Sarvāstivāda canon — Āgama sūtras, Prātimokṣa, Vinaya, Abhidharma, Udānavarga — published in the series Sanskrithandschriften aus den Turfanfunden.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._

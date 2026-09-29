@@ -27,7 +27,7 @@ Sound, touch and the other objects known in waking differ from one another; dist
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: intermediate · types: consciousness-mind_
 
-concepts: [The witness (sākṣin)](../concepts/saksin.md), [The three states and the fourth (avasthā-traya, turīya)](../concepts/three-states-and-turiya.md) · practices: [Discrimination of seer and seen (dṛg-dṛśya-viveka)](../practices/drg-drsya-viveka.md), [Analysis of the three states (avasthā-traya-viveka)](../practices/avastha-traya-viveka.md) · teachers: [Vidyāraṇya](../teachers/vidyaranya.md)
+concepts: [The witness (sākṣin)](../concepts/saksin.md), [The three states and the fourth (waking, dream, deep sleep, turīya)](../concepts/three-states-and-turiya.md) · practices: [Discrimination of seer and seen (dṛg-dṛśya-viveka)](../practices/drg-drsya-viveka.md), [Analysis of the three states (avasthā-traya-viveka)](../practices/avastha-traya-viveka.md) · teachers: [Vidyāraṇya](../teachers/vidyaranya.md)
 
 ### 1.15-17 <a id="tea-pancadasi-1-15-17"></a>
 `skeleton` · confidence moderate
@@ -121,4 +121,4 @@ concepts: [Bliss in Advaita](../concepts/bliss-advaita.md) · teachers: [Vidyār
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

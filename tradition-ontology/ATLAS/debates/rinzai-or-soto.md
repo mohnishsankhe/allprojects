@@ -35,4 +35,4 @@ Bankei (within Rinzai) rejects both manufactured doubt and effortful method: sim
 **The traditions' own objections:** Sōtō rejects the idea that kenshō is a goal separate from sitting; Rinzai rejects sitting without kōan as insufficient for most practitioners.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

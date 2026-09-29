@@ -15,4 +15,4 @@ Durvekamiśra's sub-commentary on Dharmottara's Nyāyabinduṭīkā.
   - kind: original; name: D. Malvania, Patna 1955/1971 — local e-text
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._

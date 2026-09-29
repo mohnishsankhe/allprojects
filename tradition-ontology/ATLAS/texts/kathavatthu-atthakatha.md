@@ -15,4 +15,4 @@
 The commentary on the Kathāvatthu, which assigns each refuted view to named schools (Puggalavādins — Vajjiputtakas and Sammitiyas; Sabbatthivādins; Andhakas; Pubbaseliyas; Uttarāpathakas; Vetulyakas; and others).
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._

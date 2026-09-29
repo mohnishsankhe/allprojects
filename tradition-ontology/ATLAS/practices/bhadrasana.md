@@ -1,15 +1,16 @@
 # Bhadrāsana (the auspicious seat)
 
-`prc:bhadrasana` · `skeleton` · confidence high
+`prc:bhadrasana` · `sourced` · confidence moderate
 
 **Category:** posture
 **Convergence:** 3 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
 **Taught in:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 
-The ankles under the scrotum at the sides of the perineum, the sides of the feet held firmly with the hands (HYP 1.53-54); in the Gheraṇḍa the ankles are crossed, the big toes held from behind, jālandhara applied and the gaze on the nose-tip (GS 2.9-10).
+The bhadra posture, ankles under the perineum, sides of the feet held; also called gorakṣāsana (HYP 1.53-54).
 **Stage:** beginner
 **Signs of progress:** ['destroys all diseases (HYP 1.54; GS 2.10)']
 **Sources:** 
+  - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 1.53-1.54; rests_on: ["tea:hatha-yoga-pradipika:1.53", "tea:hatha-yoga-pradipika:1.54"]
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 1.53-54; rests_on: ["tea:hatha-yoga-pradipika:1.53-54"]
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 2.9-10; rests_on: ["tea:gheranda-samhita:2.9-10"]
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 2.46; rests_on: ["tea:yoga-bhasya:2.46"]
@@ -26,4 +27,8 @@ The ankles under the scrotum at the sides of the perineum, the sides of the feet
 _Notes: Listed in the Yoga-bhāṣya on YS 2.46. U10's paraphrase of that list omits vīrāsana; the unit recalls 'padmāsanaṃ vīrāsanaṃ bhadrāsanaṃ svastikaṃ …' — check the bhāṣya._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:hatha-yoga-pradipika:1.53, tea:hatha-yoga-pradipika:1.54 — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids).
+
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

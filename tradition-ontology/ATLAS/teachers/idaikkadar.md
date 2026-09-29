@@ -15,4 +15,4 @@ Shepherd-Siddhar (iṭaiyar) whose songs address the herdsman, cattle and flute.
 _Notes: Distinct from the Caṅkam poet Iṭaikkāṭaṉār. The planets legend and his discipleship to Bogar are recalled at low confidence. Counted in the popular list of the eighteen Siddhars (see cpt:eighteen-siddhars); the samādhi place given follows that list and is recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

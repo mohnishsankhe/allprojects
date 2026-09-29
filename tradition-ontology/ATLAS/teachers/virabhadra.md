@@ -11,4 +11,4 @@
 Son of Nityānanda and leader of his line at Khaḍadaha.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

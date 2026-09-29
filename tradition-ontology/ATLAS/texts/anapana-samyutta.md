@@ -32,8 +32,8 @@ At Vesālī the Buddha praised the meditation on foulness and went into seclusio
 
 _level: conventional · standpoint: seeker · path: meditation, body-breath · stage: all · types: practice, death-dying_
 
-practices: [Contemplation of the unlovely (aśubhā-bhāvanā)](../practices/asubha-bhavana.md), [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md)
+practices: [Contemplation of the foul (asubha-bhāvanā): summary only](../practices/asubha-bhavana.md), [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md)
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

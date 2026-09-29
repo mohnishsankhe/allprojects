@@ -14,4 +14,4 @@ Recollecting and reciting Avalokiteśvara's six-syllable great vidyā.
 _Notes: Tibetan practice lineages (maṇi recitation, nyungne) are for the Tibetan units._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

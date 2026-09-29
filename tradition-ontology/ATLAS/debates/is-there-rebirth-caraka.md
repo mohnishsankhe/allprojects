@@ -27,4 +27,4 @@ Caraka: rebirth is established by all four means — scripture of the sages of d
 _Notes: The deniers are known here only through Caraka's report (reported_by_opponent). Related to U33 (Cārvāka) and U50 (dsp:is-there-a-self)._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

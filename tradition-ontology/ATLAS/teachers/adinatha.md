@@ -1,9 +1,9 @@
 # Ādinātha
 
-`tch:adinatha` · `skeleton` · confidence high
+`tch:adinatha` · `sourced` · confidence moderate
 
 **Alternate names:** Ādinātha Śiva, Ādi Nāth, Śiva as Nātha, Śiva as the first Nātha, Śambhu, Īśvara
-**Lineages:** [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md)
+**Lineages:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md)
 **Historicity:** mythic
 **Students:** [Matsyendranātha](matsyendranatha.md)
 **Works:** 
@@ -12,8 +12,14 @@
   - [Śiva Svarodaya](../texts/siva-svarodaya.md) — attribution: traditional
   - [Pādukāpañcaka](../texts/padukapancaka.md) — attribution: traditional
 
-Śiva as the first Nāth and first teacher of yoga; the Haṭhapradīpikā opens with homage to Śrī Ādinātha 'by whom the knowledge of haṭha yoga was taught' (HYP 1.1), and Nāth lineages begin with him. In Nāth accounts he taught Matsyendra, who overheard or received the teaching he gave to Pārvatī.
+Honoured in HYP 1.1 as the one by whom haṭhayoga was taught, first in the list of adepts (1.5), and named as the teacher of the ten mudrās (3.8, 3.128) and of a crore and a quarter of ways of laya (4.66).
 **Realization — the tradition's account:** The supreme Lord himself; the source of the teaching.
 
+_Notes: Contribution from the HYP text only (ref 1.1)._
+
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids).
+
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._

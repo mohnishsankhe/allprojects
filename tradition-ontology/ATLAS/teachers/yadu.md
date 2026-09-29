@@ -14,4 +14,4 @@ Ancestor-king of the Yādavas who questions a carefree young avadhūta brāhma�
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — Questions the avadhūta, BhP 11.7.25-30.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

@@ -15,6 +15,7 @@
 - [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md): The guṇa characterized as knowledge; those in it go to the gods' state (MDh 12.26, 12.40).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: 'I am the sattva of those who have it' (10.36) — goodness or strength; in 10.41 sattva means simply 'a being'.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: In nityasattvastha, 'ever abiding in sattva' (2.45), one of the qualities of being free of the three guṇas.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: In chs. 16–18: (1) the guṇa by which faith, food, sacrifice, austerity, giving, relinquishment, knowledge, action, agent, understanding, steadiness and happiness are called sāttvic (17–18); the relinquisher is 'pervaded by sattva' (18.10); (2) one's being or inner nature, with which faith accords (17.3), and whose purity (sattva-saṃśuddhi) is a divine mark (16.1); (3) a being, none of which is free of the guṇas (18.40).
 
 ## Forms in other languages
 
@@ -29,5 +30,6 @@ _Notes: Taken as the guṇa sattva or as 'being, the real'; the commentators div
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.5, tea:bhagavad-gita:14.6, tea:bhagavad-gita:14.9, tea:bhagavad-gita:14.11, tea:bhagavad-gita:14.14, tea:bhagavad-gita:14.16, tea:bhagavad-gita:14.17, tea:bhagavad-gita:14.18, tea:bhagavad-gita:13.27 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.36, tea:bhagavad-gita:10.41 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:16.1, tea:bhagavad-gita:17.2, tea:bhagavad-gita:17.3, tea:bhagavad-gita:18.9, tea:bhagavad-gita:18.10, tea:bhagavad-gita:18.20, tea:bhagavad-gita:18.40 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, extraction:bhagavad-gita/ch13-15, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, extraction:bhagavad-gita/ch13-15, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._

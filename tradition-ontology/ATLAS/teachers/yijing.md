@@ -15,4 +15,4 @@
 Chinese pilgrim who studied at Nālandā and translated much of the Mūlasarvāstivāda Vinaya; his record describes the four nikāyas of India.
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._

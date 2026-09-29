@@ -13,4 +13,4 @@ King of Ujjain in Nāth legend who renounced his throne — in the best-known te
 _Notes: Distinct id from tch:bhartrhari (the grammarian of the Vākyapadīya, U31). The tradition's identification of the three is not accepted by scholars._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._

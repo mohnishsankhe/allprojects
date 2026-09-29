@@ -58,4 +58,4 @@ Candidate readings are listed; none is accepted by both traditions.
 _Notes: Owned by U46; U47 supplies the Sakya and Gelug texts. Relates to dsp:sudden-or-gradual (the Samye background invoked by Sakya Paṇḍita). To be entered in RECONCILE_QUEUE.md by the orchestrator._
 
 ---
-_Contributed by: skeleton:U46-kagyu, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

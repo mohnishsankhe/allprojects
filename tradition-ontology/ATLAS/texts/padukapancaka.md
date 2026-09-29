@@ -28,8 +28,8 @@ In the pericarp of the white thousand-petalled lotus is the triangle formed of t
 
 _level: conventional · standpoint: devotional · path: meditation, devotion · stage: advanced · types: teacher-transmission, body-layers_
 
-concepts: [The guru in the haṭha texts](../concepts/guru-in-hatha.md), [The centres (cakra, ādhāra)](../concepts/cakras.md) · practices: [Meditation on the guru's form](../practices/guru-dhyana.md)
+concepts: [The guru in haṭha](../concepts/guru-in-hatha.md), [The centres (cakra, ādhāra)](../concepts/cakras.md) · practices: [Meditation on the guru's form](../practices/guru-dhyana.md)
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._

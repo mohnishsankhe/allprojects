@@ -13,4 +13,4 @@
 A Sanskrit poem on the lives of the Āḻvārs and of Rāmānuja, attributed to Garuḍavāhana Paṇḍita, whom the tradition makes a contemporary of Rāmānuja.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._

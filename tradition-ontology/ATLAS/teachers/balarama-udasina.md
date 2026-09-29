@@ -10,4 +10,4 @@
 Modern scholar of the Udāsīna order to whom the Vidvattoṣiṇī on the Tattvakaumudī is ascribed.
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 23:14 IST._

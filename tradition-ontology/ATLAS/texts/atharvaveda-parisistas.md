@@ -17,4 +17,4 @@ _Notes: Local copy: gretil 1_veda/5_vedang/2_paris/atharvavedaparisistas.md._
 
 - 2026-09-28 catalog: confirmed — catalog:GRETIL-dev:atharvavedaparisistas, catalog:DCS:Atharvavedapariśiṣṭa — Extant (GRETIL, DCS). 72 are named at AVPariś 49.4.9 (U01 text-located), which fits 'about seventy'.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

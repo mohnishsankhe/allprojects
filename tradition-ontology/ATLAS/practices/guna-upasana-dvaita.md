@@ -15,4 +15,4 @@ Meditative worship (upāsanā) of Hari under the qualities fit for the worshippe
 - A person who desires what he is unfit for surely falls; serve Viṣṇu according to your fitness. — [Mahābhārata-tātparya-nirṇaya](../texts/mahabharata-tatparya-nirnaya.md) 1.96
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:14 IST._

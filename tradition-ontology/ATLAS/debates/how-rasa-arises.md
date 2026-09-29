@@ -32,4 +32,4 @@ The reconciliation is Abhinava's; it ranks rather than equates the views. Mahima
 **The traditions' own objections:** Lollaṭa's and Śaṅkuka's own works are lost; later critics (Mahimabhaṭṭa) reject Abhinava's view of suggestion.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._

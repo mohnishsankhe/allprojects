@@ -13,4 +13,4 @@ At an auspicious time the fasting, bathed, ochre-clad student brings the requisi
   - [Caraka Saṃhitā](../texts/caraka-samhita.md) — ref: Vi 8.9-14; rests_on: ["tea:caraka-samhita:vi.8.9-14"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

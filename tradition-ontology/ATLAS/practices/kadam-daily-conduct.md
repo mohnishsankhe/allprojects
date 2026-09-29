@@ -11,4 +11,4 @@ Rising in the last part of the night and recollecting the nature of phenomena; s
   - [Lamp Summarising Conduct (Caryāsaṃgrahapradīpa; spyod pa bsdus pa'i sgron ma)](../texts/caryasamgrahapradipa.md) — ref: v4–19; rests_on: ["tea:caryasamgrahapradipa:v4-8", "tea:caryasamgrahapradipa:v10-13", "tea:caryasamgrahapradipa:v18-19"]
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

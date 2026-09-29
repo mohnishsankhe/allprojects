@@ -10,4 +10,4 @@ The candidate, having received the teacher's permission (and, for Śvetāmbaras,
 **Stage:** guṇasthāna 6
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

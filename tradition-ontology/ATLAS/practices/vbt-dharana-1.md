@@ -1,18 +1,23 @@
 # Vijñāna Bhairava dhāraṇā 1: Fullness at the two points where the breath arises
 
-`prc:vbt-dharana-1` · `skeleton` · confidence moderate
+`prc:vbt-dharana-1` · `sourced` · confidence moderate
 
 **Category:** breath
 **Convergence:** 2 independent lineage(s): [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Trika ('the Triad')](../lineages/trika.md)
 **Taught in:** [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Trika ('the Triad')](../lineages/trika.md)
 
-The supreme [Goddess], whose nature is emission (visarga), sounds forth as prāṇa above and as jīva (the in-breath) below; by dwelling on and filling the two places where they arise, the state of fullness (bharitā sthiti) comes about.
-**Stage:** unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas
-**Prerequisites:** The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).
+The verse describes, without a command, that the supreme (Parā), whose nature is emission (visarga), sounds forth as prāṇa above and as jīva below; the practitioner is implicitly asked to attend to the two places where these arise (it follows the question 'by what means?' in v.23, and carries no imperative verb).
+**Stage:** unmarked in the text
+**Prerequisites:** The text reserves the teaching for those devoted to the teacher's feet, of thought-free mind, heroes of lofty self (VBT 157-159).
+**Signs of progress:** The verse says that by filling (bharaṇa) at the two places of arising there is a standing in fullness (bharitā sthiti).
 **Sources:** 
   - [Vijñānabhairava](../texts/vijnana-bhairava-tantra.md) — ref: 24; rests_on: ["tea:vijnana-bhairava-tantra:24"]
 
-_Notes: Verses 24 (KSTS 8 / GRETIL numbering). Commentators identify the two places as the heart and the dvādaśānta (Kaumudī: 'utpattau dvādaśānte dvitīye hṛdi'). First dhāraṇā in Ānandabhaṭṭa's count as well._
+_Notes: Text-derived summary of GRETIL verse(s) 24; the skeleton entry's name and numbering are kept._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — sources_raw/prepared/vijnana-bhairava-tantra/segments.jsonl — Judge J: method summary, name, restricted flag and rests_on checked against the verse(s) 24; level not raised (entities stay sourced).
+
+_Contributed by: extraction:vijnana-bhairava-tantra/all, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._

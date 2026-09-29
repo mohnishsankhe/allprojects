@@ -14,4 +14,4 @@
 Jinaprabha Sūri's account of the Sūrimantra's divisions, presiding deities and practice.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

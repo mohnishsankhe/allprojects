@@ -22,4 +22,4 @@
 Fifty-five = 10 faiths + 10 abodes + 10 practices + 10 dedications + 4 additional practices + 10 grounds + equal awakening; dry wisdom precedes and wondrous awakening follows. From memory (T945 not local).
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._

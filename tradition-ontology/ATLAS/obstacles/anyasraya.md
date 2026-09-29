@@ -18,4 +18,4 @@ Single-mindedness is the giving up of other supports (NBS 10); the Āḻvārs re
 - partial: [Belonging to another (anya-śeṣatva)](anya-sesatva.md)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._

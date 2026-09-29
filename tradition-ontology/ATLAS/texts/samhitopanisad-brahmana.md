@@ -15,4 +15,4 @@ A short Sāmaveda text on the secret meaning of the continuous recitation (saṃ
 
 - 2026-09-28 websearch: confirmed — https://vedicheritage.gov.in/samhitopanishad-brahmana/ — The Vedic Heritage Portal confirms it: a Sāmaveda Brāhmaṇa of one prapāṭhaka in five khaṇḍas. The content summary is not contradicted. No local copy.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

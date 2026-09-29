@@ -52,7 +52,7 @@ The Vibhaṅga's analysis of the foundations of mindfulness has the practitioner
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: [satipaṭṭhāna](../terms/satipatthana.md) · practices: [Mindfulness directed to the body (kāyagatāsati)](../practices/kayagatasati.md)
+terms: [satipaṭṭhāna](../terms/satipatthana.md) · practices: [Mindfulness directed to the body (kāyagatāsati): summary only](../practices/kayagatasati.md)
 
 ### 12 <a id="tea-vibhanga-12"></a>
 `skeleton` · confidence high
@@ -138,4 +138,4 @@ concepts: [The thirty-one planes of existence](../concepts/thirty-one-planes.md)
 _Notes: Chapter titles checked in the local bilara-data text (vb1–vb18). Most chapters have suttanta-bhājaniya, abhidhamma-bhājaniya and pañhāpucchaka sections (from memory; not checked for every chapter)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

@@ -22,4 +22,4 @@ The earliest Siddhānta author whose works survive: philosophical treatises prov
 _Notes: Names his teacher as Ugrajyoti (moderate confidence). A commentary on the Raurava(sūtrasaṅgraha) is reported but not treated here (gap)._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._

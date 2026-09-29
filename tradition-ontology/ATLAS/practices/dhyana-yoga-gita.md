@@ -32,6 +32,8 @@ In solitude, alone, with mind and body controlled and without possessions, sit o
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.27; rests_on: ["tea:bhagavad-gita:6.27"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.28; rests_on: ["tea:bhagavad-gita:6.28"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.29; rests_on: ["tea:bhagavad-gita:6.29"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.51-53; rests_on: ["tea:bhagavad-gita:18.51-53", "tea:bhagavad-gita:18.51", "tea:bhagavad-gita:18.52", "tea:bhagavad-gita:18.53"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.51-53, 18.52; rests_on: ["tea:bhagavad-gita:18.51-53", "tea:bhagavad-gita:18.52"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 13.25; rests_on: ["tea:bhagavad-gita:13.25"]
 **Sequences:** [The ascent in yoga of BhG ch. 6](../paths/gita-ascent-in-yoga.md)
 
@@ -48,6 +50,7 @@ _Notes: Yoga is defined here as 'the unyoking from union with sorrow', to be pra
 **Verification checks**
 
 - 2026-09-29 text: corrected — tea:bhagavad-gita:6.10, tea:bhagavad-gita:6.11, tea:bhagavad-gita:6.12, tea:bhagavad-gita:6.13, tea:bhagavad-gita:6.14, tea:bhagavad-gita:6.15, tea:bhagavad-gita:6.18, tea:bhagavad-gita:6.19, tea:bhagavad-gita:6.20, tea:bhagavad-gita:6.21, tea:bhagavad-gita:6.22, tea:bhagavad-gita:6.23, tea:bhagavad — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.49, tea:bhagavad-gita:18.51, tea:bhagavad-gita:18.51-53, tea:bhagavad-gita:18.52, tea:bhagavad-gita:18.53, tea:bhagavad-gita:18.54 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.25 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:14 IST._

@@ -1,12 +1,13 @@
 # nāda
 
-`trm:nada` · `skeleton` · confidence high
+`trm:nada` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Native script:** नाद
 **Literal:** sound
 
 ## Definitions by tradition
+- [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): The inner sound heard in the practice of nādānusandhāna (4.67-68, 4.82-86); the text says whatever is heard as nāda is śakti itself (4.102), that laya rests on nāda (4.29) and that the soundless is the supreme Brahman (4.101).
 - [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): The inner sound heard in the purified suṣumnā; laya rests on it (HYP 4.29); its stages and sounds mark the four stages of yoga (4.69–77, 4.84–86); whatever is heard as nāda is śakti, the soundless is the supreme Brahman (4.101–102).
 - [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md): Inner sound, manifesting when the channels are purified (GŚ-Briggs 101); with bindu and Śakti one of three objects of meditation (KJN 5.31).
 - [Saṅgītaśāstra (the science of music: song, instrument and dance)](../lineages/sangita.md): Sound, on which song, instrument, dance, speech and the world depend (ŚR 1.2.1–2; Bṛhaddeśī 16–17); born of the union of breath (na) and fire (da) (ŚR 1.3.6); twofold, struck and unstruck, and fivefold by its places in the body.
@@ -21,9 +22,13 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [anāhata nāda](anahata-nada.md), [laya](laya.md), [bindu](bindu.md)
+**Related:** [laya (as the HYP uses it)](laya-hyp.md), [anāhata nāda](anahata-nada.md), [laya](laya.md), [bindu](bindu.md)
 
 _Notes: Nāda doctrine at large → U31/U28._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U31-sound-arts, skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga, skeleton:U08-agama-catalogue, skeleton:U23-sakta-srividya, skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:hatha-yoga-pradipika:1.43, tea:hatha-yoga-pradipika:4.101, tea:hatha-yoga-pradipika:4.102, tea:hatha-yoga-pradipika:4.29, tea:hatha-yoga-pradipika:4.67, tea:hatha-yoga-pradipika:4.82, tea:hatha-yoga-pradipika:4.84, tea:hatha-yoga-pradipika:4.85, tea:hatha-yoga-pradipika:4.86 — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids).
+
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U31-sound-arts, skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga, skeleton:U08-agama-catalogue, skeleton:U23-sakta-srividya, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._

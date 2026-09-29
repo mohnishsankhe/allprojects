@@ -12,4 +12,4 @@ Daily and annual rhythm of the Chan/Zen monastery: morning and evening assemblie
   - [Regulations of the Chan School (Chanmen guishi)](../texts/chanmen-guishi.md) — ref: 251a04; rests_on: ["tea:chanmen-guishi:251a04"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

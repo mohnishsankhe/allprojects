@@ -17,4 +17,4 @@ Seventy verses on the Vajracchedikā explaining it under the headings of the bod
   - kind: original; name: asanga_trisatikayah_prajnaparamitayah_karikasaptatih; licence: GRETIL (reference use); url: https://gretil.sub.uni-goettingen.de/gretil.html#Buddh
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._

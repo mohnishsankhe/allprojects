@@ -22,12 +22,12 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-- partial: [Turīya](turiya.md) — The witness of the three states is what the Māṇḍūkya calls the fourth; 'witness' names it in relation to what it witnesses, 'fourth' relative to the three states.
-**Related:** [kūṭastha](kutastha.md), [Turīya](turiya.md), [pratyakṣa](pratyaksa.md), [svataḥ-prāmāṇya](svatah-pramanya.md), [adhyakṣa](adhyaksa.md), [draṣṭṛ](drastr.md), [puruṣa](purusa.md), [upadraṣṭṛ](upadrastr.md)
+- partial: [turīya](turiya.md) — The witness of the three states is what the Māṇḍūkya calls the fourth; 'witness' names it in relation to what it witnesses, 'fourth' relative to the three states.
+**Related:** [kūṭastha](kutastha.md), [turīya](turiya.md), [pratyakṣa](pratyaksa.md), [svataḥ-prāmāṇya](svatah-pramanya.md), [adhyakṣa](adhyaksa.md), [draṣṭṛ](drastr.md), [puruṣa](purusa.md), [upadraṣṭṛ](upadrastr.md)
 
 ---
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:9.18 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U13-advaita, skeleton:U15-dvaita, extraction:bhagavad-gita/ch07-09, skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U23-sakta-srividya, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U15-dvaita, extraction:bhagavad-gita/ch07-09, skeleton:U09-samkhya, skeleton:U06-other-gitas, skeleton:U23-sakta-srividya, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._

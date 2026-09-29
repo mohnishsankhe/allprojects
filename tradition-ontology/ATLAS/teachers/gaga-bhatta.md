@@ -13,4 +13,4 @@ Vārāṇasī scholar (Viśveśvara Bhaṭṭa) of the Bhaṭṭa family; author
 _Notes: His role in Śivājī's coronation (1674) is well known; not a Mīmāṃsā teaching._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._

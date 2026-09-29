@@ -41,4 +41,4 @@ _Notes: Not to be confused with Ṛṣabhadeva's teaching to his sons in Bhāgav
 - part_of: In the critical edition the Sumitra-Ṛṣabha story runs 12.125.8-12.126.52. CE 12.127 is a different dialogue (Gautama and Yama), and CE 12.128 is on kings in distress. The range 125-128 is the Gita Press vulgate's, whose colophons read 'rājadharmānuśāsanaparvaṇi ṛṣabhagītāsu' for chs. 125-128. The text is also in the Rājadharma, not the Mokṣadharma. Corrected: location_in_parent, part_of (→ U05's src:rajadharma) and the copied dating clause.
 - dating: In the critical edition the Sumitra-Ṛṣabha story runs 12.125.8-12.126.52. CE 12.127 is a different dialogue (Gautama and Yama), and CE 12.128 is on kings in distress. The range 125-128 is the Gita Press vulgate's, whose colophons read 'rājadharmānuśāsanaparvaṇi ṛṣabhagītāsu' for chs. 125-128. The text is also in the Rājadharma, not the Mokṣadharma. Corrected: location_in_parent, part_of (→ U05's src:rajadharma) and the copied dating clause.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

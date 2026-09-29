@@ -20,4 +20,4 @@ Bādarāyaṇa: they are eligible for Brahman-knowledge, having the capacity and
 **Explanation:** Śaṅkara restricts Jaimini's denial to meditations in which the gods themselves are the objects, while all beings with capacity are eligible for Brahman-knowledge.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

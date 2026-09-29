@@ -17,4 +17,4 @@ Reciting the five-line homage (with the cūlikā among Śvetāmbaras) aloud, whi
 - Mantra is for purification and liberation, not for harming or gaining power over others. — [Jñānārṇava](../texts/jnanarnava.md) asad-dhyana
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

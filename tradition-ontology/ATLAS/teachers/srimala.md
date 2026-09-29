@@ -10,4 +10,4 @@ Queen of Ayodhyā, daughter of king Prasenajit and Mallikā, who in the Śrīmā
 **Realization — the tradition's account (as a figure of the sūtras):** Predicted to buddhahood as Samantaprabha (Śrīmālā ch. 1)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._

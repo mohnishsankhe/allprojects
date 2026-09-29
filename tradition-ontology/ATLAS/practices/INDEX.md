@@ -1,6 +1,6 @@
-# Practices (1537)
+# Practices (1560)
 
-skeleton: 1249 · sourced: 288
+skeleton: 1110 · sourced: 450
 
 - [A-tri meditation](a-tri-meditation.md) — `skeleton`
 - [Abandoning the body to go to birth (sheshen wangsheng) — restricted](shashen-wangsheng.md) — `skeleton`
@@ -38,7 +38,7 @@ skeleton: 1249 · sourced: 288
 - [Arousing the thought of awakening (bodhicittotpāda)](bodhicittotpada.md) — `skeleton`
 - [Arresting grey hair and age (palita-stambhana)](palita-stambhana.md) — `skeleton`
 - [Ash-bath (bhasma-snāna)](bhasma-snana.md) — `sourced`
-- [Asparśa-yoga ('contactless' yoga)](asparsa-yoga.md) — `skeleton`
+- [Asparśa-yoga (contactless yoga)](asparsa-yoga.md) — `sourced`
 - [Assisted recitation for the dying (zhunian)](zhunian.md) — `skeleton`
 - [Asthisañcayana (collecting the bones)](asthi-sancayana.md) — `sourced`
 - [Atharvavedic healing rites (bhaiṣajya)](bhaisajya-rites.md) — `skeleton`
@@ -66,7 +66,7 @@ skeleton: 1249 · sourced: 288
 - [Bee-like alms (mādhukarī)](madhukari-bhiksa.md) — `sourced`
 - [Begging with the cry 'alakh'](natha-bhiksa.md) — `skeleton`
 - [Being still (cummā iruttal)](cumma-iruttal.md) — `skeleton`
-- [Bhadrāsana (the auspicious seat)](bhadrasana.md) — `skeleton`
+- [Bhadrāsana (the auspicious seat)](bhadrasana.md) — `sourced`
 - [Bhaiṣajyaguru rites for the sick and dying](bhaisajyaguru-rite.md) — `skeleton`
 - [Bhajan (listening to the sound current)](bhajan-sant-mat.md) — `skeleton` _(recent)_
 - [Bhakti-yoga: loving meditation (upāsana, dhruvānusmṛti)](bhakti-yoga-upasana.md) — `skeleton`
@@ -88,6 +88,7 @@ skeleton: 1249 · sourced: 288
 - [Breath as sacrifice: offering prāṇa and apāna](prana-apana-offering.md) — `skeleton`
 - [Breath practice (dam) — summary only](dam-sadhana.md) — `skeleton`
 - [Breath purification with Oṃ (Uddhava Gītā)](pranava-pranayama-bhagavata.md) — `sourced`
+- [Breath-control (prāṇāyāma) in the HYP](hyp-pranayama-summary.md) — `sourced`
 - [Breath-control as knowledge](jnana-pranayama.md) — `sourced`
 - [Breath-control through moon and sun (Gorakṣaśataka)](gs-candra-surya-pranayama.md) — `skeleton`
 - [Breath-control with Oṃ, the utterances and the Gāyatrī](vedic-pranayama.md) — `sourced`
@@ -139,6 +140,7 @@ skeleton: 1249 · sourced: 288
 - [Confession of offences (āpatti-deśanā)](apatti-desana.md) — `skeleton`
 - [Congregational chanting of the name (nāma-saṅkīrtana)](nama-sankirtana.md) — `skeleton`
 - [Congregational worship of the name (nām-prasaṅga)](nam-prasanga.md) — `skeleton`
+- [Connecting (anubandhanā), following the breath, in mindfulness of breathing](anapanasati-connecting.md) — `sourced`
 - [Conquest of the mind (sattvāvajaya)](sattvavajaya.md) — `skeleton`
 - [Consecrating the rosary (akṣamālā)](aksamala.md) — `sourced`
 - [Consecration as ācārya or sādhaka](abhiseka-acarya-sadhaka.md) — `skeleton`
@@ -165,6 +167,7 @@ skeleton: 1249 · sourced: 288
 - [Contemplation of the cut up corpse (vicchiddaka)](asubha-cut-up.md) — `skeleton`
 - [Contemplation of the festering corpse (vipubbaka)](asubha-festering.md) — `skeleton`
 - [Contemplation of the five aggregates of clinging](khandha-anupassana.md) — `sourced`
+- [Contemplation of the foul (asubha-bhāvanā): summary only](asubha-bhavana.md) — `sourced`
 - [Contemplation of the gnawed corpse (vikkhāyitaka)](asubha-gnawed.md) — `skeleton`
 - [Contemplation of the Goddess as kuṇḍalinī](lalita-kundalini-dhyana.md) — `skeleton`
 - [Contemplation of the hacked and scattered corpse (hatavikkhittaka)](asubha-hacked-and-scattered.md) — `skeleton`
@@ -175,12 +178,12 @@ skeleton: 1249 · sourced: 288
 - [Contemplation of the skeleton corpse (aṭṭhika)](asubha-skeleton.md) — `skeleton`
 - [Contemplation of the three natures](three-nature-contemplation.md) — `skeleton`
 - [Contemplation of the three targets (lakṣya-traya)](laksya-traya.md) — `sourced`
-- [Contemplation of the unlovely (aśubhā-bhāvanā)](asubha-bhavana.md) — `skeleton`
 - [Contemplation of the worm infested corpse (puḷuvaka)](asubha-worm-infested.md) — `skeleton`
 - [Contentment (saṃtoṣa)](santosa.md) — `sourced`
 - [Continence (brahmacarya)](brahmacarya.md) — `sourced`
 - [Contraction of power (śaktisaṅkoca)](sakti-sankoca.md) — `skeleton`
 - [Copying and honoring sūtras](sutra-copying.md) — `skeleton`
+- [Counting the breath (gaṇanā), first attention of mindfulness of breathing](anapanasati-counting.md) — `sourced`
 - [Coursing in the perfection of wisdom by non-apprehension](non-apprehending-contemplation.md) — `skeleton`
 - [Courting dishonour (avamāna, paribhava)](courting-dishonour.md) — `skeleton`
 - [Cremation-ground practice (Aghora)](aghora-smasana-sadhana.md) — `skeleton`
@@ -228,7 +231,7 @@ skeleton: 1249 · sourced: 288
 - [Development of compassion (karuṇā)](karuna-bhavana.md) — `skeleton`
 - [Development of equanimity (upekkhā)](upekkha-bhavana.md) — `skeleton`
 - [Development of rejoicing (muditā)](mudita-bhavana.md) — `skeleton`
-- [Development of the four divine abidings](brahmavihara-bhavana.md) — `skeleton`
+- [Development of the four divine abidings (brahmavihāra)](brahmavihara-bhavana.md) — `sourced`
 - [Devotion to the teacher (guru-bhakti)](guru-bhakti.md) — `sourced`
 - [Devotion to the vajra master](guru-devotion-vajrayana.md) — `skeleton`
 - [Devotion to wakefulness](jagariyanuyoga.md) — `skeleton`
@@ -237,9 +240,9 @@ skeleton: 1249 · sourced: 288
 - [Devotional singing (bhajana, bhajan)](bhajana.md) — `skeleton`
 - [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](kirtana.md) — `sourced`
 - [Dhammakāya meditation (Wat Paknam method)](dhammakaya-meditation.md) — `skeleton` _(recent)_
-- [Dhanurāsana (the bow)](dhanurasana.md) — `skeleton`
+- [Dhanurāsana (the bow)](dhanurasana.md) — `sourced`
 - [Dharma-dhyāna (virtuous meditation)](dharma-dhyana.md) — `skeleton`
-- [Dhauti (washing) — the class of cleansing acts](dhauti.md) — `skeleton`
+- [Dhauti (washing) — the class of cleansing acts](dhauti.md) — `sourced`
 - [Dhenu mudrā (the cow gesture)](dhenu-mudra.md) — `skeleton`
 - [Dhutaṅga wandering (tudong)](tudong.md) — `skeleton` _(recent)_
 - [Dhyān (contemplation of the master's form)](dhyan-sant-mat.md) — `skeleton` _(recent)_
@@ -318,6 +321,7 @@ skeleton: 1249 · sourced: 288
 - [Fire offering in Śrīvidyā](srividya-homa.md) — `skeleton`
 - [Five kinds of withdrawal (pratyāhāra)](five-pratyaharas.md) — `sourced`
 - [Five-tone recitation (wuhui nianfo) of Fazhao](wuhui-nianfo.md) — `skeleton`
+- [Fixing memory on non-duality (Kārikā 2.36)](advaite-smrti-yojana.md) — `sourced`
 - [Forced departure through the skull (utkrānti)](utkranti-kjn.md) — `skeleton`
 - [Forgetting everything (Aṣṭāvakra Gītā)](sarva-vismarana.md) — `sourced`
 - [Formless precepts and threefold refuge](formless-precepts.md) — `skeleton`
@@ -351,12 +355,13 @@ skeleton: 1249 · sourced: 288
 - [Going for refuge (Sarvāstivāda definition)](saranagamana.md) — `skeleton`
 - [Going forth (pravrajyā)](pravrajya.md) — `skeleton`
 - [Going forth into homelessness (pabbajjā)](sramana-pabbajja.md) — `skeleton`
-- [Gomukhāsana (the cow-face seat)](gomukhasana.md) — `skeleton`
+- [Gomukhāsana (the cow-face seat)](gomukhasana.md) — `sourced`
 - [Good conduct (sadvṛtta)](sadvrtta.md) — `skeleton`
-- [Good friendship](kalyanamittata.md) — `skeleton`
+- [Good friendship (kalyāṇamittatā), the teacher who gives the subject](kalyanamittata.md) — `sourced`
 - [Gorakṣāsana (Gorakṣa's seat)](goraksasana.md) — `skeleton`
 - [Great accomplishment and sacred-medicine accomplishment](drubchen-mendrub.md) — `skeleton`
 - [Gross, luminous and subtle meditation (Gheraṇḍa)](gheranda-three-dhyanas.md) — `skeleton`
+- [Guarding the mind (cittaṁ rakkhetha)](citta-rakkha.md) — `sourced`
 - [Guarding the mind (shouxin)](shouxin.md) — `skeleton`
 - [Guarding the mind with mindfulness and alertness](guarding-the-mind.md) — `skeleton`
 - [Guptāsana (the hidden seat)](guptasana.md) — `skeleton`
@@ -370,6 +375,7 @@ skeleton: 1249 · sourced: 288
 - [Hearing the year's almanac](pancanga-sravana.md) — `skeleton`
 - [Hearing, reflection and cultivation](hearing-reflection-meditation.md) — `skeleton`
 - [Hearing, reflection and meditation](three-wisdoms.md) — `skeleton`
+- [Heedfulness (appamāda)](appamada.md) — `sourced`
 - [Heedfulness (apramāda)](apramada.md) — `skeleton`
 - [Herbal kaṟpam (kaṟpa mūlikai)](karpa-mulikai.md) — `skeleton`
 - [Hevajra practice in the Sakya](hevajra-sadhana-sakya.md) — `skeleton`
@@ -406,6 +412,7 @@ skeleton: 1249 · sourced: 288
 - [Inner worship: japa, meditation, pūjā, homa as acts of consciousness](inner-worship-trika.md) — `skeleton`
 - [Inquiry (vicāra) as the Yoga Vāsiṣṭha teaches](vicara-yoga-vasistha.md) — `sourced`
 - [Inquiry into dharma (dharma-jijñāsā, vedārtha-vicāra)](dharma-jijnasa.md) — `skeleton`
+- [Insight (vipassanā)](vipassana.md) — `sourced`
 - [Insight (vipaśyanā) in Yogācāra sources](vipasyana-yogacara.md) — `skeleton`
 - [Installation and consecration (pratiṣṭhā)](pratistha.md) — `skeleton`
 - [Installing the raptures in the body (borān kammaṭṭhāna)](yogavacara-piti-installation.md) — `skeleton`
@@ -421,7 +428,7 @@ skeleton: 1249 · sourced: 288
 - [Jyotiṣṭoma (the model soma sacrifice)](jyotistoma.md) — `skeleton`
 - [Jñāna (knowledge of Śiva)](saiva-jnana.md) — `skeleton`
 - [Jñāna mudrā / cin-mudrā (the gesture of knowledge)](jnana-mudra.md) — `skeleton`
-- [Jālandharabandha (the throat lock)](jalandhara-bandha.md) — `skeleton`
+- [Jālandharabandha (the throat lock)](jalandhara-bandha.md) — `sourced`
 - [Jātakarma (birth rite)](jatakarma.md) — `sourced`
 - [Kapila's eight-limbed yoga with meditation on the Lord's form](kapila-astanga-dhyana.md) — `sourced`
 - [Kapālabhāti / bhālabhāti (the skull-shining)](kapalabhati.md) — `skeleton`
@@ -446,7 +453,7 @@ skeleton: 1249 · sourced: 288
 - [Krauñca-niṣadana (sitting like a curlew)](krauncanisadanasana.md) — `skeleton`
 - [Kriyā (Śaiva ritual worship)](saiva-kriya.md) — `skeleton`
 - [Kriyā-yoga (austerity, self-study, devotion to Īśvara)](kriya-yoga.md) — `sourced`
-- [Kukkuṭāsana (the cockerel)](kukkutasana.md) — `skeleton`
+- [Kukkuṭāsana (the cockerel)](kukkutasana.md) — `sourced`
 - [Kula worship (the 'primal sacrifice') as interpreted by Abhinavagupta](kula-yaga.md) — `skeleton`
 - [Kula worship with the five tattvas (pañca-makāra)](pancatattva-puja.md) — `skeleton`
 - [Kunye (bsku mnye) oil massage](kunye.md) — `skeleton`
@@ -459,7 +466,7 @@ skeleton: 1249 · sourced: 288
 - [Kāyakleśa (bodily hardship)](kayaklesa.md) — `skeleton`
 - [Kāyotsarga (abandonment of the body)](kayotsarga.md) — `skeleton`
 - [Kōan introspection (sanzen, kōan practice)](koan-introspection.md) — `skeleton`
-- [Kūrmāsana (the tortoise seat)](kurmasana.md) — `skeleton`
+- [Kūrmāsana (the tortoise seat)](kurmasana.md) — `sourced`
 - [Kṛcchra penances](krcchra-penances.md) — `sourced`
 - [Kṛṣṇa-Jayantī fast](jayanti-vrata.md) — `skeleton`
 - [Kṣamāpanā (asking and granting forgiveness)](ksamapana.md) — `skeleton`
@@ -479,10 +486,10 @@ skeleton: 1249 · sourced: 288
 - [Looking at the mind (Mahāmudrā vipaśyanā)](looking-at-the-mind.md) — `skeleton`
 - [Lotus repentance and Samantabhadra visualization](lotus-samadhi-repentance.md) — `skeleton`
 - [Loud laughter as offering (hasita, aṭṭahāsa)](hasita.md) — `skeleton`
-- [Loving-kindness (mettā-bhāvanā)](metta-bhavana.md) — `skeleton`
+- [Loving-kindness (mettā-bhāvanā)](metta-bhavana.md) — `sourced`
 - [Lying in ash (bhasmaśayana)](bhasmasayana.md) — `skeleton`
 - [Maharshi Mehi's graded practice](maharshi-mehi-graded-practice.md) — `skeleton` _(recent)_
-- [Mahābandha (the great lock)](mahabandha.md) — `skeleton`
+- [Mahābandha (the great lock)](mahabandha.md) — `sourced`
 - [Mahābandha and mahāvedha](mahabandha-mahavedha.md) — `sourced`
 - [Mahākāla protector practice (Kagyu)](mahakala-protector-practice.md) — `skeleton`
 - [Mahāmudrā (the great seal)](mahamudra.md) — `sourced`
@@ -491,6 +498,7 @@ skeleton: 1249 · sourced: 288
 - [Mahāmudrā śamatha with support](mahamudra-samatha-with-support.md) — `skeleton`
 - [Mahāmudrā śamatha without support](mahamudra-samatha-without-support.md) — `skeleton`
 - [Mahāvedha (the great piercing)](mahavedha.md) — `skeleton`
+- [Mahāvedha (the great piercing) in the HYP](mahavedha-hyp.md) — `sourced`
 - [Mahāvīra Jayantī](mahavira-janma-kalyanaka.md) — `skeleton`
 - [Mahāyoga generation stage (bskyed rim)](generation-stage-mahayoga.md) — `skeleton`
 - [Makarāsana (the crocodile)](makarasana.md) — `skeleton`
@@ -503,13 +511,14 @@ skeleton: 1249 · sourced: 288
 - [Mantrayoga of the haṭha texts](mantra-yoga.md) — `skeleton`
 - [Maryādā Mahotsava (Terāpanth)](maryada-mahotsava.md) — `skeleton` _(recent)_
 - [Matching horoscopes for marriage](kundali-milana.md) — `skeleton`
-- [Matsyendrāsana (Matsyendra's seat)](matsyendrasana.md) — `skeleton`
+- [Matsyendrāsana (Matsyendra's seat)](matsyendrasana.md) — `sourced`
 - [Matsyāsana (the fish)](matsyasana.md) — `skeleton`
-- [Mayūrāsana (the peacock)](mayurasana.md) — `skeleton`
+- [Mayūrāsana (the peacock)](mayurasana.md) — `sourced`
 - [Maṇḍala offering](mandala-offering.md) — `skeleton`
 - [Maṇḍūkāsana (the frog)](mandukasana.md) — `skeleton`
 - [Medicine Buddha practice and consecration of medicines (sman sgrub)](medicine-buddha-practice.md) — `skeleton`
 - [Meditation (dhyāna) as the means of abandoning the afflictions' activities](dhyana.md) — `sourced`
+- [Meditation (jhāna)](jhana.md) — `sourced`
 - [Meditation (nididhyāsana / dhyāna)](nididhyasana.md) — `sourced`
 - [Meditation as objectless mind (dhyāna)](nirvisaya-dhyana.md) — `skeleton`
 - [Meditation in the heart lotus](heart-lotus-meditation.md) — `sourced`
@@ -555,13 +564,14 @@ skeleton: 1249 · sourced: 288
 - [Mind on one free of passion (YS 1.37)](vitaraga-visaya-citta.md) — `sourced`
 - [Mind training (blo sbyong)](lojong.md) — `skeleton`
 - [Mind-training transference at death (the five powers)](lojong-at-death.md) — `skeleton`
-- [Mindfulness directed to the body (kāyagatāsati)](kayagatasati.md) — `skeleton`
+- [Mindfulness directed to the body (kāyagatāsati): summary only](kayagatasati.md) — `sourced`
 - [Mindfulness of breathing (ānāpānassati)](anapanasati.md) — `sourced`
 - [Mindfulness of breathing (Śrāvakabhūmi)](anapanasmrti-sravakabhumi.md) — `skeleton`
 - [Mindfulness of breathing in six phases (Abhidharmakośa)](anapanasmrti-sixfold.md) — `skeleton`
 - [Mindfulness of death (maraṇassati)](maranassati.md) — `skeleton`
 - [Moderate diet (mitāhāra) in the haṭha texts](mitahara.md) — `sourced`
 - [Moderation in eating](bhojane-mattannuta.md) — `skeleton`
+- [Moderation in food (mattaññutā)](mattannuta.md) — `sourced`
 - [Moderation in food, sleep, recreation and effort](moderation-in-food-and-sleep.md) — `skeleton`
 - [Monastic debate on valid cognition (bsdus grwa / rtsod pa)](tshad-ma-debate.md) — `skeleton`
 - [Monastic life under the pure rules](qinggui-monastic-life.md) — `skeleton`
@@ -569,7 +579,7 @@ skeleton: 1249 · sourced: 288
 - [Muttering the five brahma-mantras](pancabrahma-japa.md) — `skeleton`
 - [Mātaṅginī mudrā ('the elephant')](matangini-mudra.md) — `skeleton`
 - [Māṇḍukī mudrā ('the frog')](manduki-mudra.md) — `skeleton`
-- [Mūlabandha (the root lock)](mula-bandha.md) — `skeleton`
+- [Mūlabandha (the root lock)](mula-bandha.md) — `sourced`
 - [Mūlaśodhana (cleansing the root)](mulasodhana.md) — `skeleton`
 - [Mūrcchā ('the swoon')](murccha.md) — `skeleton`
 - [Nabhomudrā ('the sky seal')](nabhomudra.md) — `skeleton`
@@ -591,6 +601,7 @@ skeleton: 1249 · sourced: 288
 - [Niō Zen (guardian-king Zen)](nio-zen.md) — `skeleton`
 - [Niṣkramaṇa (first outing)](niskramana.md) — `sourced`
 - [Non-harming (ahiṃsā)](ahimsa.md) — `sourced`
+- [Non-harming (ahiṃsā)](ahimsa-pali.md) — `sourced`
 - [Non-killing (kollāmai)](kollamai.md) — `skeleton`
 - [Non-possessiveness (aparigraha)](aparigraha.md) — `sourced`
 - [Non-stealing (asteya)](asteya.md) — `sourced`
@@ -634,14 +645,14 @@ skeleton: 1249 · sourced: 288
 - [Pacification practice (zhi byed)](shije-pacification.md) — `skeleton`
 - [Pacificatory rites (śānti)](santi-karman.md) — `skeleton`
 - [Padastha-dhyāna (meditation on sacred words)](padastha-dhyana.md) — `skeleton`
-- [Padmāsana (the lotus seat)](padmasana.md) — `skeleton`
+- [Padmāsana (the lotus seat)](padmasana.md) — `sourced`
 - [Parisaṃkhyāna meditation (Upadeśasāhasrī)](parisankhyana.md) — `skeleton`
 - [Pariyaṅka yōkam](pariyanka-yoga.md) — `skeleton`
 - [Paryaṅka (the couch posture)](paryankasana.md) — `skeleton`
 - [Paryuṣaṇa](paryusana.md) — `skeleton`
 - [Patience (khanti)](khanti.md) — `skeleton`
 - [Patience (kṣānti) without the notion of self](patience-practice.md) — `skeleton`
-- [Paścimatānāsana (the stretch of the back; paścimottāna, ugrāsana)](pascimatanasana.md) — `skeleton`
+- [Paścimatānāsana (the stretch of the back; paścimottāna, ugrāsana)](pascimatanasana.md) — `sourced`
 - [Peace chants (śānti-pāṭha)](santi-patha.md) — `skeleton`
 - [Perception of impermanence](anicca-sanna.md) — `skeleton`
 - [Perception of light](aloka-sanna.md) — `skeleton`
@@ -651,6 +662,7 @@ skeleton: 1249 · sourced: 288
 - [Performing obligatory and occasional rites while abstaining from desire-prompted and prohibited acts](nitya-naimittika-anusthana.md) — `skeleton`
 - [Performing one's own dharma (svadharma)](svadharma-anusthana.md) — `skeleton`
 - [Performing one's own duty (svakarma)](svakarma.md) — `skeleton`
+- [Performing rites with 'oṃ tat sat'](om-tat-sat.md) — `skeleton`
 - [Piercing the six centres (ṣaṭcakra-bheda) — summary only](satcakra-bhedana.md) — `skeleton`
 - [Pilgrimage (tīrthāṭana)](tirthatana.md) — `sourced`
 - [Pilgrimage to Hiṅglāj](hinglaj-yatra.md) — `skeleton`
@@ -706,6 +718,7 @@ skeleton: 1249 · sourced: 288
 - [Pure Land hymns and six-period worship (lizan)](pure-land-hymns.md) — `skeleton`
 - [Purification by the four opponent powers](confession-of-faults.md) — `skeleton`
 - [Purification of the channels (nāḍī-śodhana, nāḍī-śuddhi)](nadi-sodhana.md) — `sourced`
+- [Purification of the channels by breath (HYP 2.7-10)](hyp-nadi-shodhana-summary.md) — `sourced`
 - [Purification of the dead (Sarvadurgatipariśodhana rites)](sarvadurgati-funerary-rite.md) — `skeleton`
 - [Purification of the elements (bhūta-śuddhi)](bhuta-suddhi.md) — `sourced`
 - [Purification of the elements (bhūtaśuddhi)](bhutasuddhi.md) — `skeleton`
@@ -796,6 +809,7 @@ skeleton: 1249 · sourced: 288
 - [Remembering the Lord at the hour of death](antakala-smarana.md) — `skeleton`
 - [Remembrance of the eightfold daily play (aṣṭakālīya-līlā-smaraṇa)](asta-kaliya-lila-smarana.md) — `skeleton`
 - [Remembrance of the Name (nām-sumiran)](nam-simran.md) — `skeleton`
+- [Removing resentment in the development of loving-kindness (Vism IX)](patigha-vinodana-vism.md) — `sourced`
 - [Renovation and re-consecration (jīrṇoddhāra)](jirnoddhara.md) — `skeleton`
 - [Renunciation (saṃnyāsa)](sannyasa.md) — `sourced`
 - [Renunciation (saṃnyāsa) in the Dharmaśāstra](samnyasa.md) — `sourced`
@@ -820,6 +834,7 @@ skeleton: 1249 · sourced: 288
 - [Restraining speech in the mind, and the mind in ever finer selves (Kaṭha 1.3.13)](vak-manas-niyamana.md) — `sourced`
 - [Restraint and withdrawal of the senses](indriya-nigraha.md) — `skeleton`
 - [Restraint and withdrawal of the senses (indriya-saṃyama)](indriya-samyama.md) — `skeleton`
+- [Restraint of the mind (manonigraha) in the Kārikā](manonigraha.md) — `sourced`
 - [Riddle exchange (brahmodya)](brahmodya.md) — `skeleton`
 - [Rites for concord (sāṃmanasya)](sammanasya-rites.md) — `skeleton`
 - [Rites for long life (āyuṣya)](ayusya-rites.md) — `skeleton`
@@ -830,6 +845,7 @@ skeleton: 1249 · sourced: 288
 - [Rubbing the sweat of practice into the body (gātra-mardana)](gatramardana.md) — `skeleton`
 - [Rudrābhiṣeka (bathing the liṅga with the Rudram)](rudrabhiseka.md) — `skeleton`
 - [Rule-based devotional practice (vaidhī sādhana)](vaidhi-sadhana.md) — `skeleton`
+- [Rules of eating in the HYP (moderate eating and foods)](hyp-diet-rules.md) — `sourced`
 - [Rājasūya (royal consecration)](rajasuya.md) — `sourced`
 - [Rāmlīlā (enactment of the Rāma story)](ramlila.md) — `skeleton`
 - [Rūpastha-dhyāna (meditation on the Arhat's form)](rupastha-dhyana.md) — `skeleton`
@@ -858,6 +874,7 @@ skeleton: 1249 · sourced: 288
 - [Searching for the mind (sems 'tshol)](mind-searching.md) — `skeleton`
 - [Seasonal purification](rtu-sodhana.md) — `skeleton`
 - [Seasonal routine (ṛtucaryā)](rtucarya.md) — `skeleton`
+- [Seclusion (viveka)](viveka.md) — `sourced`
 - [Seed-syllables of the centres and elements](bija-mantras-of-centres-and-elements.md) — `skeleton`
 - [Seeing others' pleasure and pain as one's own (ātmaupamya)](atmaupamya.md) — `skeleton`
 - [Seeing that the guṇas act: non-doership](guna-witnessing.md) — `skeleton`
@@ -898,7 +915,7 @@ skeleton: 1249 · sourced: 288
 - [Siddha daily regimen (nōy aṇukā viti)](siddha-daily-regimen.md) — `skeleton`
 - [Siddhar alchemy (iracavātam: mercury, pāṣāṇam, muppu)](siddha-alchemy.md) — `skeleton`
 - [Siddhar rites against enemies](siddha-hostile-rites.md) — `skeleton`
-- [Siddhāsana (the adept's seat)](siddhasana.md) — `skeleton`
+- [Siddhāsana (the adept's seat)](siddhasana.md) — `sourced`
 - [Silence of the muni (mauna, mauneya)](mauna.md) — `skeleton`
 - [Silent illumination (mozhao)](silent-illumination.md) — `skeleton`
 - [Simran (Sant Mat)](simran-sant-mat.md) — `skeleton` _(recent)_
@@ -907,12 +924,13 @@ skeleton: 1249 · sourced: 288
 - [Singing the Gīta Govinda (aṣṭapadī)](astapadi-singing.md) — `skeleton`
 - [Singing the Tirumuṟai (paṇṇicai)](tirumurai-singing.md) — `skeleton`
 - [Singing Śyāmā-saṅgīt](syama-sangit-singing.md) — `skeleton`
-- [Siṃhāsana (the lion seat)](simhasana.md) — `skeleton`
+- [Siṃhāsana (the lion seat)](simhasana.md) — `sourced`
 - [Skull-eating and corpse-ash practices (reported)](kalamukha-skull-ash-practices.md) — `skeleton`
 - [Slaying desire, the enemy](conquering-desire.md) — `skeleton`
 - [Sleeping in the lion posture](lion-posture-sleep.md) — `skeleton`
 - [Sleeping without sleeping (Śiva-yoga sleep)](tunkamal-tunkal.md) — `skeleton`
 - [Smoke offering (bsang)](sang-offering.md) — `skeleton`
+- [Solitary living (ekacariya)](ekacariya.md) — `sourced`
 - [Solitary mountain retreat (ri chos)](mountain-retreat.md) — `skeleton`
 - [Solitude and contemplation of the body](solitude-and-body-contemplation.md) — `skeleton`
 - [Song as offering (gīta)](gita-upahara.md) — `skeleton`
@@ -940,7 +958,7 @@ skeleton: 1249 · sourced: 288
 - [Surrender to the guru (gurūpasatti)](gurupasatti.md) — `skeleton`
 - [Susokukan (counting the breath)](susokukan.md) — `skeleton`
 - [Svara practice: attending to the flow of breath in the nostrils (svarodaya)](svara-sadhana.md) — `skeleton`
-- [Svastikāsana (the auspicious-mark seat)](svastikasana.md) — `skeleton`
+- [Svastikāsana (the auspicious-mark seat)](svastikasana.md) — `sourced`
 - [Sāman chanting (sāmagāna)](sama-gana.md) — `skeleton`
 - [Sāmāyika (equanimity practice)](samayika.md) — `skeleton`
 - [Sāttvic food](sattvic-diet.md) — `skeleton`
@@ -957,6 +975,8 @@ skeleton: 1249 · sourced: 288
 - [Taking the garb (bhek; among Fakirs khilāphat)](bhek-khilafat.md) — `skeleton`
 - [Taking the tuḷsī necklace (Vārkarī initiation)](tulasi-mala-dharana.md) — `skeleton`
 - [Takuhatsu (alms round)](takuhatsu.md) — `skeleton`
+- [Taming oneself (attadamana)](atta-damana.md) — `sourced`
+- [Taming the mind (cittassa damatho)](citta-damatha.md) — `sourced`
 - [Tantric fire offering (homa)](homa-vajrayana.md) — `skeleton`
 - [Taḍāgī mudrā ('the tank')](tadagi-mudra.md) — `skeleton`
 - [Temple festival (mahotsava)](mahotsava.md) — `skeleton`
@@ -1004,7 +1024,7 @@ skeleton: 1249 · sourced: 288
 - [The devotee's conduct: non-violence, truth, purity, compassion, faith](bhakta-caritra.md) — `skeleton`
 - [The dog-vow and the cow-vow](kukkuravata-govata.md) — `skeleton`
 - [The Dol festival at Ghoshpara](ghoshpara-dol-mela.md) — `skeleton` _(recent)_
-- [The earth kasiṇa (pathavī-kasiṇa)](kasina-earth.md) — `skeleton`
+- [The earth kasiṇa (pathavī-kasiṇa), taking the learning sign (Vism IV p. 125)](kasina-earth.md) — `sourced`
 - [The eight antidotal formations](eight-antidotal-formations.md) — `skeleton`
 - [The eight deliverances (vimokṣa)](eight-vimoksas.md) — `skeleton`
 - [The eight limbs of yoga as a practice (yogāṅga-anuṣṭhāna)](yoganga.md) — `sourced`
@@ -1134,7 +1154,7 @@ skeleton: 1249 · sourced: 288
 - [The refuse-rag wearer's practice (pamsukulikaṅga)](pamsukulikanga.md) — `skeleton`
 - [The renunciation rite (saṃnyāsa-dīkṣā)](sannyasa-diksa.md) — `sourced`
 - [The restraints (yama)](yama.md) — `sourced`
-- [The restraints and observances of the haṭha texts](hatha-yama-niyama.md) — `skeleton`
+- [The restraints and observances of the haṭha texts](hatha-yama-niyama.md) — `sourced`
 - [The retentions of the Kumbhakapaddhati (group entry)](kumbhakapaddhati-retentions.md) — `skeleton`
 - [The rites of the royal expedition (yātrā)](yatra-rites.md) — `skeleton`
 - [The sacrifice of knowledge (jñāna-yajña)](jnana-yajna.md) — `skeleton`
@@ -1157,6 +1177,7 @@ skeleton: 1249 · sourced: 288
 - [The sick bodhisattva's contemplation](sick-bodhisattva-contemplation.md) — `skeleton`
 - [The single-practice samādhi (yixing sanmei)](ekavyuha-samadhi.md) — `skeleton`
 - [The sitter's practice (not lying down) (nesajjikaṅga)](nesajjikanga.md) — `skeleton`
+- [The six cleansing acts (ṣaṭkarma) in the HYP](hyp-satkarma-summary.md) — `sourced`
 - [The six equal tastes (Drukpa)](six-equal-tastes.md) — `skeleton`
 - [The six essential duties](six-avasyakas.md) — `skeleton`
 - [The six magical acts (ṣaṭkarma)](satkarma-rites.md) — `skeleton`
@@ -1212,6 +1233,7 @@ skeleton: 1249 · sourced: 288
 - [The year-long fast (varṣī-tapa)](varsi-tapa.md) — `skeleton`
 - [The yellow kasiṇa (pīta-kasiṇa)](kasina-yellow.md) — `skeleton`
 - [The yoga of the Śvetāśvatara (posture, breath, place)](svetasvatara-yoga.md) — `sourced`
+- [The yoga-hut (yogamaṭha) and its place](hyp-yoga-hut.md) — `sourced`
 - [The Śivarātri vow](sivaratri-vrata.md) — `sourced`
 - [The śrauta sacrifice (in general)](srauta-yajna.md) — `skeleton`
 - [The Śūraṅgama mantra](surangama-mantra.md) — `skeleton`
@@ -1242,9 +1264,9 @@ skeleton: 1249 · sourced: 288
 - [Upanayana (initiation into Vedic study)](upanayana.md) — `sourced`
 - [Uposatha observance](uposatha.md) — `skeleton`
 - [Utkaṭāsana (the squat on the toes)](utkatasana.md) — `skeleton`
-- [Uttānakūrmāsana (the supine tortoise)](uttanakurmasana.md) — `skeleton`
+- [Uttānakūrmāsana (the supine tortoise)](uttanakurmasana.md) — `sourced`
 - [Uttānamaṇḍūkāsana (the supine frog)](uttanamandukasana.md) — `skeleton`
-- [Uḍḍīyānabandha (the flying-up lock)](uddiyana-bandha.md) — `skeleton`
+- [Uḍḍīyānabandha (the flying-up lock)](uddiyana-bandha.md) — `sourced`
 - [Uṣṭra-niṣadana (sitting like a camel)](ustranisadanasana.md) — `skeleton`
 - [Uṣṭrāsana (the camel)](ustrasana.md) — `skeleton`
 - [Vahnisāra / agnisāra (inner washing by fire)](agnisara-dhauti.md) — `skeleton`
@@ -1273,118 +1295,118 @@ skeleton: 1249 · sourced: 288
 - [Veneration of scripture (Jñāna Pañcamī / Śruta Pañcamī)](jnana-pancami.md) — `skeleton`
 - [Veneration of the Jina (caityavandana)](caityavandana.md) — `skeleton`
 - [Vidyārambha (beginning of letters)](vidyarambha.md) — `sourced`
-- [Vijñāna Bhairava dhāraṇā 100: Neither attachment nor aversion](vbt-dharana-100.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 101: The unknowable and the void as Bhairava](vbt-dharana-101.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 102: The mind in outer space](vbt-dharana-102.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 103: Letting go of each object the moment the mind goes to it](vbt-dharana-103.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 104: Continuous utterance of the word 'Bhairava'](vbt-dharana-104.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 105: At the thought 'I' and 'mine'](vbt-dharana-105.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 106: Contemplating the words 'eternal', 'all-pervading', 'supportless'](vbt-dharana-106.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 107: 'What reality has a magic show?'](vbt-dharana-107.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 108: The unchanging self: the world as void](vbt-dharana-108.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 109: 'No bondage, no liberation for me'](vbt-dharana-109.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 10: The same method on a void, a wall or a worthy vessel](vbt-dharana-10.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 110: Withdrawing from the senses into the self](vbt-dharana-110.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 111: Knowledge and the known as one](vbt-dharana-111.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 112: Dissolution of mind, awareness, power and self](vbt-dharana-112.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 11: The mind within the skull, eyes closed](vbt-dharana-11.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 12: The central channel like a lotus fibre](vbt-dharana-12.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 13: Closing the sense-doors: the bindu between the brows](vbt-dharana-13.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 14: The bindu like a subtle spark, at the crest or in the heart](vbt-dharana-14.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 15: The unstruck sound (anāhata)](vbt-dharana-15.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 16: Uttering Oṃ and resting in the void at its end](vbt-dharana-16.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 17: The void before and after any sound](vbt-dharana-17.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 18: The fading sounds of stringed instruments](vbt-dharana-18.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 19: A seed-mantra dissolved into its subtle phases and the void](vbt-dharana-19.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 1: Fullness at the two points where the breath arises](vbt-dharana-1.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 20: The body as space in all directions at once](vbt-dharana-20.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 21: The voids above, at the root and in the heart](vbt-dharana-21.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 22: Voidness in a part of the body, for a moment](vbt-dharana-22.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 23: The body's substance pervaded by space](vbt-dharana-23.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 24: The skin as a wall with nothing within](vbt-dharana-24.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 25: The space of the heart-lotus](vbt-dharana-25.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 26: Dissolving the mind in the dvādaśānta](vbt-dharana-26.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 27: Casting the mind into the dvādaśānta at any time](vbt-dharana-27.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 28: One's own body burnt by the fire of time](vbt-dharana-28.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 29: The whole world burnt](vbt-dharana-29.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 2: The two voids at the turning points of the breath](vbt-dharana-2.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 30: Dissolving the tattvas into the subtler](vbt-dharana-30.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 31: The power, thick then thin, in the twelve and in the heart](vbt-dharana-31.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 32: The paths of the cosmos, gross to supreme](vbt-dharana-32.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 33: The Śiva-principle at the limits of the universe](vbt-dharana-33.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 34: The universe as void](vbt-dharana-34.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 35: Gazing into the space of a vessel](vbt-dharana-35.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 36: Gazing at open, empty space](vbt-dharana-36.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 37: The middle between two cognitions](vbt-dharana-37.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 38: Between leaving one object and taking up another](vbt-dharana-38.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 39: Body and world as consciousness](vbt-dharana-39.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 3: Suspension of the breath-power in the centre](vbt-dharana-3.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 40: The meeting of the two breaths](vbt-dharana-40.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 41: World and body filled with one's own bliss](vbt-dharana-41.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 42: The practice called kuhana](vbt-dharana-42.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 43: Closing the currents: the ant-like sensation](vbt-dharana-43.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 44: Between 'fire' and 'poison'](vbt-dharana-44.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 45: The joy of union as the joy of Brahman](vbt-dharana-45.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 46: The memory of sexual joy](vbt-dharana-46.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 47: The joy of reunion](vbt-dharana-47.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 48: The delight of eating and drinking](vbt-dharana-48.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 49: The joy of song and other sense-delights](vbt-dharana-49.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 4: Peace at the end of retention, exhalation or inhalation](vbt-dharana-4.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 50: Wherever the mind is satisfied](vbt-dharana-50.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 51: The threshold of sleep](vbt-dharana-51.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 52: Gazing at space lit by the sun or a lamp](vbt-dharana-52.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 53: The five mudrās: Karaṅkiṇī, Krodhanā, Bhairavī, Lelihānā, Khecarī](vbt-dharana-53.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 54: Sitting on one buttock with hands and feet unsupported](vbt-dharana-54.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 55: Arms curved, mind in the space of the armpits](vbt-dharana-55.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 56: An unmoving gaze on a gross object, then no support](vbt-dharana-56.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 57: Mouth open, mentally uttering 'ha'](vbt-dharana-57.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 58: The body as supportless while sitting or lying](vbt-dharana-58.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 59: A moving seat or slow swaying](vbt-dharana-59.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 5: The power rising like rays from the root to the dvādaśānta](vbt-dharana-5.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 60: The clear sky: gazing, and absorbing it into the head](vbt-dharana-60.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 61: Bhairava's form beyond partial knowing, light and darkness](vbt-dharana-61.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 62: The darkness of a moonless night](vbt-dharana-62.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 63: Closed eyes: the darkness in front as Bhairava](vbt-dharana-63.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 64: Obstructing a sense](vbt-dharana-64.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 65: Repeating 'a' without bindu or visarga](vbt-dharana-65.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 66: Awareness at the end of the visarga](vbt-dharana-66.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 67: The self as boundless space](vbt-dharana-67.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 68: Awareness joined to a point of sharp sensation](vbt-dharana-68.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 69: 'Within me there is no mind'](vbt-dharana-69.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 6: The power rising like lightning through the cakras](vbt-dharana-6.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 70: Contemplating the functions of māyā and the tattvas](vbt-dharana-70.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 71: Quieting a desire at its source](vbt-dharana-71.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 72: 'Who am I before desire or knowledge arises?'](vbt-dharana-72.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 73: Resting in desire or cognition as the self](vbt-dharana-73.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 74: Knowledge as groundless](vbt-dharana-74.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 75: The same consciousness in all bodies](vbt-dharana-75.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 76: Stillness in the grip of the passions](vbt-dharana-76.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 77: The world as a magic show or a painting](vbt-dharana-77.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 78: Neither in pain nor in pleasure: the middle](vbt-dharana-78.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 79: 'I am everywhere'](vbt-dharana-79.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 7: The twelve stages marked by twelve letters](vbt-dharana-7.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 80: Cognition and desire as present everywhere](vbt-dharana-80.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 81: Attentiveness to the relation of subject and object](vbt-dharana-81.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 82: Feeling awareness in others' bodies](vbt-dharana-82.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 83: The supportless mind](vbt-dharana-83.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 84: 'I am the omniscient, all-doing Lord'](vbt-dharana-84.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 85: The universe as my waves](vbt-dharana-85.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 86: Whirling until falling](vbt-dharana-86.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 87: When the mind's supports fail](vbt-dharana-87.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 88: The sampradāya: fixed eyes; closed ears and lower door](vbt-dharana-88.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 89: Looking down into a well or deep pit](vbt-dharana-89.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 8: Breaking through at the eyebrows to the crown](vbt-dharana-8.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 90: Wherever the mind goes, there is Śiva](vbt-dharana-90.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 91: Consciousness shining through each sense](vbt-dharana-91.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 92: Sneeze, fear, grief, flight, curiosity, hunger](vbt-dharana-92.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 93: Letting go of remembered objects and places](vbt-dharana-93.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 94: Slowly withdrawing the gaze from an object](vbt-dharana-94.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 95: The understanding born of intense devotion](vbt-dharana-95.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 96: The voidness of all else when one object is known](vbt-dharana-96.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 97: Purity and impurity](vbt-dharana-97.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 98: Bhairava in ordinary things](vbt-dharana-98.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 99: Equality toward friend and foe](vbt-dharana-99.md) — `skeleton`
-- [Vijñāna Bhairava dhāraṇā 9: The five voids like the eyes of a peacock's feather](vbt-dharana-9.md) — `skeleton`
+- [Vijñāna Bhairava dhāraṇā 100: Neither attachment nor aversion](vbt-dharana-100.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 101: The unknowable and the void as Bhairava](vbt-dharana-101.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 102: The mind in outer space](vbt-dharana-102.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 103: Letting go of each object the moment the mind goes to it](vbt-dharana-103.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 104: Continuous utterance of the word 'Bhairava'](vbt-dharana-104.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 105: At the thought 'I' and 'mine'](vbt-dharana-105.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 106: Contemplating the words 'eternal', 'all-pervading', 'supportless'](vbt-dharana-106.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 107: 'What reality has a magic show?'](vbt-dharana-107.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 108: The unchanging self: the world as void](vbt-dharana-108.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 109: 'No bondage, no liberation for me'](vbt-dharana-109.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 10: The same method on a void, a wall or a worthy vessel](vbt-dharana-10.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 110: Withdrawing from the senses into the self](vbt-dharana-110.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 111: Knowledge and the known as one](vbt-dharana-111.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 112: Dissolution of mind, awareness, power and self](vbt-dharana-112.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 11: The mind within the skull, eyes closed](vbt-dharana-11.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 12: The central channel like a lotus fibre](vbt-dharana-12.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 13: Closing the sense-doors: the bindu that is seen and dissolves](vbt-dharana-13.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 14: The bindu like a subtle spark, at the crest or in the heart](vbt-dharana-14.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 15: The unstruck sound (anāhata)](vbt-dharana-15.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 16: Uttering Oṃ and resting in the void at its end](vbt-dharana-16.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 17: The void before and after any sound](vbt-dharana-17.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 18: The fading sounds of stringed instruments](vbt-dharana-18.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 19: A seed-mantra dissolved into its subtle phases and the void](vbt-dharana-19.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 1: Fullness at the two points where the breath arises](vbt-dharana-1.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 20: The body as space in all directions at once](vbt-dharana-20.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 21: The voids behind, at the root and in the heart](vbt-dharana-21.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 22: Voidness in a part of the body, for a moment](vbt-dharana-22.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 23: The body's substance pervaded by space](vbt-dharana-23.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 24: The skin as a wall with nothing within](vbt-dharana-24.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 25: The space of the heart-lotus](vbt-dharana-25.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 26: Dissolving the mind in the dvādaśānta](vbt-dharana-26.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 27: Casting the mind into the dvādaśānta at any time](vbt-dharana-27.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 28: One's own body burnt by the fire of time](vbt-dharana-28.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 29: The whole world burnt](vbt-dharana-29.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 2: The two voids at the turning points of the breath](vbt-dharana-2.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 30: Dissolving the tattvas into the subtler](vbt-dharana-30.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 31: The power, thick and weak, in the twelve and in the heart](vbt-dharana-31.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 32: The paths of the cosmos, gross to supreme](vbt-dharana-32.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 33: The Śiva-principle at the limits of the universe](vbt-dharana-33.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 34: The universe as void](vbt-dharana-34.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 35: Gazing into the space of a vessel](vbt-dharana-35.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 36: Gazing at open, empty space](vbt-dharana-36.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 37: The middle between two cognitions](vbt-dharana-37.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 38: Between leaving one object and taking up another](vbt-dharana-38.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 39: Body and world as consciousness](vbt-dharana-39.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 3: Suspension of the breath-power in the centre](vbt-dharana-3.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 40: The meeting of the two breaths](vbt-dharana-40.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 41: World and body filled with one's own bliss](vbt-dharana-41.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 42: The practice called kuhana](vbt-dharana-42.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 43: Closing the currents: the ant-like sensation](vbt-dharana-43.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 44: Between 'fire' and 'poison'](vbt-dharana-44.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 45: The joy of union as the joy of Brahman](vbt-dharana-45.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 46: The memory of sexual joy](vbt-dharana-46.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 47: The joy of reunion](vbt-dharana-47.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 48: The delight of eating and drinking](vbt-dharana-48.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 49: The joy of song and other sense-delights](vbt-dharana-49.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 4: Peace at the end of retention, exhalation or inhalation](vbt-dharana-4.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 50: Wherever the mind is satisfied](vbt-dharana-50.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 51: The threshold of sleep](vbt-dharana-51.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 52: Gazing at space lit by the sun or a lamp](vbt-dharana-52.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 53: The five mudrās: Karaṅkiṇī, Krodhanā, Bhairavī, Lelihānā, Khecarī](vbt-dharana-53.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 54: Sitting on one buttock with hands and feet unsupported](vbt-dharana-54.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 55: Arms curved, mind in the space of the armpits](vbt-dharana-55.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 56: An unmoving gaze on a gross object, then no support](vbt-dharana-56.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 57: Mouth open, mentally uttering 'ha'](vbt-dharana-57.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 58: The body as supportless while sitting or lying](vbt-dharana-58.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 59: A moving seat or slow swaying](vbt-dharana-59.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 5: The power rising like rays from the root to the dvādaśānta](vbt-dharana-5.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 60: The clear sky: gazing, and absorbing it into the head](vbt-dharana-60.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 61: Bhairava's form beyond partial knowing, light and darkness](vbt-dharana-61.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 62: The darkness of a moonless night](vbt-dharana-62.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 63: Closed eyes: the darkness in front as Bhairava](vbt-dharana-63.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 64: Obstructing a sense](vbt-dharana-64.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 65: Repeating 'a' without bindu or visarga](vbt-dharana-65.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 66: Awareness at the end of the visarga](vbt-dharana-66.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 67: The self as boundless space](vbt-dharana-67.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 68: Awareness joined to a point of sharp sensation](vbt-dharana-68.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 69: 'Within me there is no mind'](vbt-dharana-69.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 6: The power rising like lightning through the cakras](vbt-dharana-6.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 70: Contemplating the functions of māyā and the tattvas](vbt-dharana-70.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 71: Quieting a desire at its source](vbt-dharana-71.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 72: 'Who am I before desire or knowledge arises?'](vbt-dharana-72.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 73: Resting in desire or cognition as the self](vbt-dharana-73.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 74: Knowledge as groundless](vbt-dharana-74.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 75: The same consciousness in all bodies](vbt-dharana-75.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 76: Stillness in the grip of the passions](vbt-dharana-76.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 77: The world as a magic show or a painting](vbt-dharana-77.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 78: Neither in pain nor in pleasure: the middle](vbt-dharana-78.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 79: 'I am everywhere'](vbt-dharana-79.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 7: The twelve stages marked by twelve letters](vbt-dharana-7.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 80: Cognition and desire as present everywhere](vbt-dharana-80.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 81: Attentiveness to the relation of subject and object](vbt-dharana-81.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 82: Feeling awareness in others' bodies](vbt-dharana-82.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 83: The supportless mind](vbt-dharana-83.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 84: 'I am the omniscient, all-doing Lord'](vbt-dharana-84.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 85: The universe as my waves](vbt-dharana-85.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 86: Whirling until falling](vbt-dharana-86.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 87: When the mind's supports fail](vbt-dharana-87.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 88: The sampradāya: fixed eyes; closed ears and lower door](vbt-dharana-88.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 89: Looking down into a well or deep pit](vbt-dharana-89.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 8: Breaking through at the eyebrows to the crown](vbt-dharana-8.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 90: Wherever the mind goes, there is Śiva](vbt-dharana-90.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 91: Consciousness shining through each sense](vbt-dharana-91.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 92: Sneeze, fear, grief, flight, curiosity, hunger](vbt-dharana-92.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 93: Letting go of remembered objects and places](vbt-dharana-93.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 94: Slowly withdrawing the gaze from an object](vbt-dharana-94.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 95: The understanding born of intense devotion](vbt-dharana-95.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 96: The voidness of all else when one object is known](vbt-dharana-96.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 97: Purity and impurity](vbt-dharana-97.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 98: Bhairava in ordinary things](vbt-dharana-98.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 99: Equality toward friend and foe](vbt-dharana-99.md) — `sourced`
+- [Vijñāna Bhairava dhāraṇā 9: The five voids like the eyes of a peacock's feather](vbt-dharana-9.md) — `sourced`
 - [Vinaya (reverence)](vinaya.md) — `skeleton`
 - [Viparītakaraṇī (the inverting technique)](viparita-karani.md) — `sourced`
 - [Virilization (vājīkaraṇa)](vajikarana.md) — `skeleton`
@@ -1402,7 +1424,7 @@ skeleton: 1249 · sourced: 288
 - [Vārkarī kīrtan](varkari-kirtan.md) — `skeleton`
 - [Vātasāra (inner washing with air)](vatasara-dhauti.md) — `skeleton`
 - [Vāyavī dhāraṇā (air-concentration)](vayavi-dharana.md) — `skeleton`
-- [Vīrāsana (the hero's seat)](virasana.md) — `skeleton`
+- [Vīrāsana (the hero's seat)](virasana.md) — `sourced`
 - [Vṛkṣāsana (the tree)](vrksasana.md) — `skeleton`
 - [Vṛṣāsana (the bull seat)](vrsasana.md) — `skeleton`
 - [Walking meditation (caṅkama)](cankama.md) — `skeleton`
@@ -1487,6 +1509,7 @@ skeleton: 1249 · sourced: 288
 - [Yogic departure from the body (utkrānti)](utkranti.md) — `skeleton`
 - [Yogic departure from the body (utkrānti) — summary only](utkranti-hatha.md) — `skeleton`
 - [Yogāsana (the yoga seat)](yogasana.md) — `skeleton`
+- [Yoking the mind to Oṃ (as stated in the Kārikā)](omkara-dhyana-mandukya.md) — `sourced`
 - [Yoni mudrā (the womb seal)](yoni-mudra.md) — `skeleton`
 - [Yoni mudrā as a hand-gesture in Śākta worship](yoni-hasta-mudra.md) — `skeleton`
 - [Yuthok Nyingthig: guru yoga and practice of the physicians](yuthok-nyingthig-practice.md) — `skeleton`
@@ -1518,7 +1541,7 @@ skeleton: 1249 · sourced: 288
 - [Śaiva meditation with and without object](saiva-dhyana.md) — `sourced`
 - [Śakticālana (moving the power)](sakticalana.md) — `sourced`
 - [Śalabhāsana (the locust)](salabhasana.md) — `skeleton`
-- [Śavāsana (the corpse; mṛtāsana)](savasana.md) — `skeleton`
+- [Śavāsana (the corpse; mṛtāsana)](savasana.md) — `sourced`
 - [Śaṅkha mudrā (the conch gesture)](sankha-mudra.md) — `skeleton`
 - [Śivayoga-samādhi](sivayoga-samadhi.md) — `skeleton`
 - [Śivānubhava — shared discourse on experience](sivanubhava-gosthi.md) — `skeleton`

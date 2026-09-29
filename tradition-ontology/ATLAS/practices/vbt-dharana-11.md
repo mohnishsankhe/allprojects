@@ -1,18 +1,23 @@
 # Vijñāna Bhairava dhāraṇā 11: The mind within the skull, eyes closed
 
-`prc:vbt-dharana-11` · `skeleton` · confidence moderate
+`prc:vbt-dharana-11` · `sourced` · confidence moderate
 
 **Category:** sense-withdrawal-concentration
 **Convergence:** 2 independent lineage(s): [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Trika ('the Triad')](../lineages/trika.md)
 **Taught in:** [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Trika ('the Triad')](../lineages/trika.md)
 
-Placing the mind within the skull and remaining with eyes closed, gradually, through the mind's steadiness, one discerns the highest object.
-**Stage:** unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas
-**Prerequisites:** The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).
+The practitioner is asked to place the mind inside the skull (kapāla) and stay with the eyes closed.
+**Stage:** unmarked in the text
+**Prerequisites:** The text reserves the teaching for those devoted to the teacher's feet, of thought-free mind, heroes of lofty self (VBT 157-159).
+**Signs of progress:** The verse says that, through the gradual firmness of the mind, one would discern the highest target (lakṣya).
 **Sources:** 
   - [Vijñānabhairava](../texts/vijnana-bhairava-tantra.md) — ref: 34; rests_on: ["tea:vijnana-bhairava-tantra:34"]
 
-_Notes: Verses 34 (KSTS 8 / GRETIL numbering)._
+_Notes: Text-derived summary of GRETIL verse(s) 34; the skeleton entry's name and numbering are kept._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — sources_raw/prepared/vijnana-bhairava-tantra/segments.jsonl — Judge J: method summary, name, restricted flag and rests_on checked against the verse(s) 34; level not raised (entities stay sourced).
+
+_Contributed by: extraction:vijnana-bhairava-tantra/all, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._

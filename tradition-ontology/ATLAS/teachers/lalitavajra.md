@@ -10,4 +10,4 @@
 Siddha of Oḍḍiyāna credited with bringing the Vajrabhairava tantra from the ḍākinī land (tradition).
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._

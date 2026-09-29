@@ -16,4 +16,4 @@ The complete foundation of the Longchen Nyingthig and other cycles: the outer pr
 **Sequences:** [The preliminaries according to the Words of My Perfect Teacher](../paths/kunzang-lamai-shelung-ngondro.md)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

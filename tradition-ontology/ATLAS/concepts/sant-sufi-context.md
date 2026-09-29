@@ -17,4 +17,4 @@
 _Notes: Sufism is outside the ontology's scope: no Sufi lineage, doctrine or teaching is recorded; only the in-scope side of the exchange and the documents that witness it._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:14 IST._

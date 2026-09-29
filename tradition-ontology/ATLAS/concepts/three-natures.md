@@ -19,4 +19,4 @@
 _Notes: Yogācāra systematization: U41._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._

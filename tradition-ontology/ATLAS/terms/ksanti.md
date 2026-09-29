@@ -12,6 +12,7 @@
 - [Sarvāstivāda](../lineages/sarvastivada.md): Acceptance: the third root of penetration (one who obtains it never goes to bad destinies); also the pure acceptances of the path of seeing, uninterrupted paths.
 - [Mahāyāna](../lineages/mahayana.md): The third perfection, shown when the king of Kaliṅga cut the Buddha's limbs and he had no notion of self; also the 'acceptance' of dharmas' non-arising.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: Forbearance, among the items called knowledge (13.8).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: Patience, part of the brāhmaṇa's nature-born work (18.42).
 
 ## Forms in other languages
 - Tibetan: bzod pa  — exact
@@ -27,5 +28,6 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.8 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.42 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U38-early-schools, skeleton:U39-mahayana-sutras, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U38-early-schools, skeleton:U39-mahayana-sutras, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._

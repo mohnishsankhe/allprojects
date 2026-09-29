@@ -17,4 +17,4 @@ Brahmānanda's manual of the worship of Tārā, with a commentary (vṛtti).
 _Notes: Identity of 'Brahmānanda' of the Tārārahasya with Brahmānanda Giri is the usual view; not checked._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._

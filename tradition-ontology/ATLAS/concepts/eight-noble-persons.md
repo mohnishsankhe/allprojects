@@ -13,4 +13,4 @@
 - part-of → [The four stages of awakening and the eight noble persons](four-stages-of-awakening.md) — rests on [5.5](../texts/udana.md#tea-udana-5-5)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

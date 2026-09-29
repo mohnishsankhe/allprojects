@@ -17,4 +17,4 @@ _Notes: Contents not summarized here — gap._
 
 - 2026-09-28 catalog: confirmed — catalog:eBharati:aShTAdashasmRtayaH (… iti śrīmad atrimaharṣismṛtiḥ), catalog:eBharati:dharmashAstraH_prathamo_bhAgaH (M. N. Dutt 1908: Atri) — Low-confidence entry confirmed as extant. Atri is one of the twenty lawgivers of YājñS 1.4–5 (text-located).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

@@ -74,4 +74,4 @@ _level: conventional · standpoint: seeker · path: general · stage: all · typ
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Vasiṣṭhadharmasūtra, catalog:GRETIL-dev:vasistadharmasutra, https://en.wikipedia.org/wiki/Vasishtha_Dharmasutra, https://en.wikipedia.org/wiki/Gautama_Dharmasutra — Extant; 30 adhyāyas. Dated c. 1st c. BCE–1st c. CE in recent scholarship (Kane 300–100 BCE), matching the entry.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

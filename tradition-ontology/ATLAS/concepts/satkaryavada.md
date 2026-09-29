@@ -16,4 +16,4 @@
 - leads-to → [Prakṛti (primordial nature)](prakrti.md): the pre-existent effect points to an unmanifest cause — rests on [14](../texts/samkhya-karika.md#tea-samkhya-karika-14), [15](../texts/samkhya-karika.md#tea-samkhya-karika-15)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._

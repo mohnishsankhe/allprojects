@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
 **Taught in:** [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
 
-Summary only: some Siddhar worship-manuals (Rāmatēvar's Pūjāviti 5–7) include rites for striking down an enemy. No procedure recorded.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Irāmatēvar: Pūjāviti (the rule of worship)](../texts/ramadevar-pujaviti.md) — ref: 5-7; rests_on: ["tea:ramadevar-pujaviti:5-7"]
 
@@ -16,4 +16,4 @@ Summary only: some Siddhar worship-manuals (Rāmatēvar's Pūjāviti 5–7) incl
 _Notes: Restricted (harmful rite)._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

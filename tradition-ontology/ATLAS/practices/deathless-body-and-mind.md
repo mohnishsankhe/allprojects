@@ -6,10 +6,9 @@
 **Convergence:** 1 independent lineage(s): [Shangpa Kagyu](../lineages/shangpa-kagyu.md)
 **Taught in:** [Shangpa Kagyu](../lineages/shangpa-kagyu.md)
 
-The 'fruit' practices of the Shangpa, joining deity and wind yogas for the undying mind; summary only.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [The Deathless Body and Mind (Shangpa)](../texts/deathless-body-and-mind.md) — 
-**Sequences:** [The five golden dharmas of the Shangpa (the tree)](../paths/shangpa-five-golden-dharmas.md)
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

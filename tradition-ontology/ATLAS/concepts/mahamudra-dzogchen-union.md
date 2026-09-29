@@ -14,4 +14,4 @@
 _Notes: Nyingma masters also compare them; distinctions insisted on by either side are recorded in U45._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

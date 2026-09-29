@@ -9,4 +9,4 @@
 Founder of Palyul monastery in Kham (1665).
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

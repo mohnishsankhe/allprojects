@@ -1,18 +1,23 @@
 # Vijñāna Bhairava dhāraṇā 107: 'What reality has a magic show?'
 
-`prc:vbt-dharana-107` · `skeleton` · confidence moderate
+`prc:vbt-dharana-107` · `sourced` · confidence high
 
 **Category:** inquiry
 **Convergence:** 2 independent lineage(s): [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Trika ('the Triad')](../lineages/trika.md)
 **Taught in:** [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Trika ('the Triad')](../lineages/trika.md)
 
-'All this, without reality, stands like a magic show; what reality has a magic show?' - by firmness in this, one goes to peace.
-**Stage:** unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas
-**Prerequisites:** The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).
+The practitioner is asked to hold firmly: 'all this stands without reality (atattva), like a magic show; what reality has a magic show?'
+**Stage:** unmarked in the text
+**Prerequisites:** The text reserves the teaching for those devoted to the teacher's feet, of thought-free mind, heroes of lofty self (VBT 157-159).
+**Signs of progress:** The verse says that through firmness in this one would go to peace (śama).
 **Sources:** 
   - [Vijñānabhairava](../texts/vijnana-bhairava-tantra.md) — ref: 133; rests_on: ["tea:vijnana-bhairava-tantra:133"]
 
-_Notes: Verses 133 (KSTS 8 / GRETIL numbering). Illusion imagery used as a contemplation; relevant to the Advaita/Śaiva dispute on the world._
+_Notes: Text-derived summary of GRETIL verse(s) 133; the skeleton entry's name and numbering are kept._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — sources_raw/prepared/vijnana-bhairava-tantra/segments.jsonl — Judge J: method summary, name, restricted flag and rests_on checked against the verse(s) 133; level not raised (entities stay sourced).
+
+_Contributed by: extraction:vijnana-bhairava-tantra/all, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._

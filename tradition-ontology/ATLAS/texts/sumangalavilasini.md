@@ -37,4 +37,4 @@ concepts: [How the Abhidhamma was taught and handed down](../concepts/abhidhamma
 
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._

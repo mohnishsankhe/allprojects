@@ -14,4 +14,4 @@
 Parāśara Bhaṭṭar's hymn in two centuries (pūrva and uttara śataka) to Raṅganātha of Śrīraṅgam, describing the temple and the Lord's qualities and ending in surrender.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._

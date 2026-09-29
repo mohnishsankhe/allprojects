@@ -685,4 +685,4 @@ concepts: [The yoginīs on earth](../concepts/yogini-forms-kjn.md) · practices:
 _Notes: U21 owns this source entry (U24 references it). The Magee translation is recalled, not checked._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._

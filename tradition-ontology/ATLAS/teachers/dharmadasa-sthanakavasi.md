@@ -8,4 +8,4 @@
 17th-c. Sthānakavāsī founder-figure whose twenty-two disciples are said to have headed the 'twenty-two groups' (bāīs ṭolā).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

@@ -12,4 +12,4 @@
 Disciple of Atiśa who founded Sangphu Neuthok monastery (1073), later the great Kadam centre of scholastic learning.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

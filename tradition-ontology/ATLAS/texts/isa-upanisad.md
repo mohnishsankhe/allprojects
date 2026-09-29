@@ -70,7 +70,7 @@ One who sees all beings in the self and the self in all beings does not shrink a
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, ethics_
 
-terms: [ātman](../terms/atman.md) · concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md) · obstacles: [Grief (śoka)](../obstacles/soka.md)
+terms: [ātman](../terms/atman.md) · concepts: [Ātman is brahman (as stated in the Māṇḍūkya)](../concepts/atman-brahman-identity.md) · obstacles: [Grief (śoka)](../obstacles/soka.md)
 
 ### 8 <a id="tea-isa-upanisad-8"></a>
 `sourced` · confidence high
@@ -108,7 +108,7 @@ The face of truth is covered with a golden vessel; uncover it, Pūṣan, for one
 
 _level: bridging · standpoint: devotional · path: devotion, knowledge · stage: advanced · types: death-dying, ultimate_
 
-concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md) · practices: [The prayer of the dying (Īśa 15-18)](../practices/prayer-at-death-isa.md)
+concepts: [Ātman is brahman (as stated in the Māṇḍūkya)](../concepts/atman-brahman-identity.md) · practices: [The prayer of the dying (Īśa 15-18)](../practices/prayer-at-death-isa.md)
 
 ### 17-18 <a id="tea-isa-upanisad-17-18"></a>
 `sourced` · confidence high
@@ -129,4 +129,4 @@ _Notes: Veda affiliation: White Yajurveda (Vājasaneyi Saṃhitā, ch. 40; Kā�
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL-dev:isa-upanisad_isopanisad_or_isavasyopanisad, text:sources_raw/prepared/isa-upanisad/segments.jsonl (Advaita-Śāradā mūla Isha.md, Śaṅkara numbering), https://en.wikipedia.org/wiki/Isha_Upanishad, https://www.wisdomlib.org/hinduism/essay/brihadaranyaka-upanishad-study/d/doc1888684.ht — Title, placement (VS 40) and structure are confirmed: 18 verses in the prepared Kāṇva text, and Wikipedia gives 18 (Kāṇva) against 17 (Mādhyandina) with a different verse order. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship. The entry's -500/-200 falls within 'last few centuries BCE'.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._

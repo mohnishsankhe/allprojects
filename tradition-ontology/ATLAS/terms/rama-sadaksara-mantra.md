@@ -15,4 +15,4 @@
 _Notes: Form of the initiation mantra as commonly reported; verify against Rāmānandī manuals._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._

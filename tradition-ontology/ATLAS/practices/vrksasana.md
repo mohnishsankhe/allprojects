@@ -12,4 +12,4 @@ Standing on the left leg with the right foot set at the root of the left thigh, 
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 2.36; rests_on: ["tea:gheranda-samhita:2.36"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

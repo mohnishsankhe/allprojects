@@ -13,4 +13,4 @@ Lying face down with the chest on the ground and the legs stretched out, the hea
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 2.40; rests_on: ["tea:gheranda-samhita:2.40"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

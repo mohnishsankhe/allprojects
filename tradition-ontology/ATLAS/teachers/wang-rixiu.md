@@ -12,4 +12,4 @@
 Song lay scholar of Longshu who abandoned an official career for recitation, compiled a collated edition of the Larger Sūtra (T364) and wrote the popular Longshu jingtu wen; said to have died standing while reciting.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._

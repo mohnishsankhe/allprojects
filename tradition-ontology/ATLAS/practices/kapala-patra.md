@@ -6,7 +6,7 @@
 **Convergence:** 2 independent lineage(s): [Aghora (Aghor panth; Aghorī and Aughaṛ ascetics)](../lineages/aghora.md), [Kaula (the Kula tradition)](../lineages/kaula.md)
 **Taught in:** [Aghora (Aghor panth; Aghorī and Aughaṛ ascetics)](../lineages/aghora.md), [Yoginī Kaula (Yoginīkaula) of Matsyendra](../lineages/yogini-kaula.md)
 
-The Aghora ascetic uses a skull (khappar) as his bowl, as a discipline of non-discrimination; the Kaulajñānanirṇaya calls the skull the best of vessels.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md) — ref: 12.11-15; rests_on: ["tea:kaulajnananirnaya:12.11-15"]
 
@@ -14,4 +14,4 @@ The Aghora ascetic uses a skull (khappar) as his bowl, as a discipline of non-di
 - Aghora practice is given only by the guru and kept secret; the recent teacher Aghoreśvar Bhagavān Rām is reported to have taught that it is naturalness and service, not spectacle (the lineage's oral rule as reported; no text located — to be sourced).
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._

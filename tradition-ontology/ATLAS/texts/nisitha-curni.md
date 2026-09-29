@@ -15,4 +15,4 @@
 Jinadāsagaṇi Mahattara's mixed Prakrit–Sanskrit prose commentary on the Niśītha and its bhāṣya, rich in monastic law, stories (including the Kālaka story) and social history.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

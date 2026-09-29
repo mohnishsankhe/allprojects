@@ -34,4 +34,4 @@ terms: [prasaṅga](../terms/prasanga.md) · concepts: [The method of consequenc
 _Notes: Sanskrit lost except quotations in the Prasannapadā._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._

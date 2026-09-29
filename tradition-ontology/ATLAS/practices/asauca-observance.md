@@ -15,4 +15,4 @@ For ten days (or by class) the sapiṇḍa relatives refrain from rites, study, 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering) — MDh 5.59–83 (ten days for sapiṇḍas, varying by class) was found. This rests on confirmed teaching checks: tea:manusmrti:5.59-60, tea:manusmrti:5.83.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

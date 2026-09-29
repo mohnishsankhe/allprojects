@@ -20,4 +20,4 @@
 **Related:** [bar do](bardo.md)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon, skeleton:U46-kagyu, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon, skeleton:U46-kagyu, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._

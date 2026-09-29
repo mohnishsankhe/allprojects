@@ -457,6 +457,30 @@ def regen_queue(data):
     return len(q)
 
 
+RESTRICTED_METHOD_FIELDS = ("method_summary", "alt_method_summary", "sequences", "steps", "method", "alt_notes",
+                            "signs_of_progress")
+
+
+def redact_restricted(data):
+    """CLAUDE.md rule 11 / the insight brief: restricted practices stay summary-only in the ontology.
+    Older skeleton contributions carried step-level method text; the merged entry keeps its name, category, lineages,
+    sources and the texts' own warnings, and replaces every method field with a summary-only note. Shards are
+    untouched (the text layer keeps the texts' own words in teachings' originals)."""
+    n = 0
+    for oid, o in data.get("practices", {}).items():
+        if not o.get("restricted"):
+            continue
+        had = [k for k in RESTRICTED_METHOD_FIELDS if o.get(k)]
+        for k in had:
+            o.pop(k, None)
+        o["method_summary"] = ("Restricted practice: recorded as a summary only (name, sources and the texts' own "
+                               "warnings). No method, measure or sequence is kept, and it is never recommended.")
+        if had:
+            o["method_redacted"] = sorted(had)
+            n += 1
+    return n
+
+
 def main():
     quiet = "--quiet" in sys.argv
     by_entity, logs = load_all()
@@ -468,6 +492,7 @@ def main():
     apply_decisions(data["teachings"])
     chk = apply_checks(data)
     convergence(data)
+    redact_restricted(data)
     # write entity files
     for ent in ENTITIES:
         if ent in ("teachings", "ultimate"):

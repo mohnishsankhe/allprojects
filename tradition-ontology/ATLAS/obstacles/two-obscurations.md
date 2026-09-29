@@ -25,4 +25,4 @@ The obscuration of afflictions (kleśāvaraṇa), which prevents liberation, and
 _Notes: Contribution of U47._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug, skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

@@ -21,4 +21,4 @@
 _Notes: Each such ranking is one tradition's view (see dsp:ranking-of-other-revelations); being ranked lower is rejected by the ranked tradition._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:14 IST._

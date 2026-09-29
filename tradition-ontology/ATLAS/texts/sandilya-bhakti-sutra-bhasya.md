@@ -16,4 +16,4 @@ Svapneśvara's commentary, the standard exposition of the Śāṇḍilya Sūtra,
 _Notes: Svapneśvara's date and region are uncertain; the commentary's doctrinal leaning is recalled only in general terms._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._

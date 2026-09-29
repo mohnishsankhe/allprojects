@@ -63,4 +63,4 @@ A Tibetan school centred on the Kālacakra tantra and on the view of 'other-empt
 _Notes: Historical metadata (scholarly account): the conversion of Takten Phuntsok Ling (renamed Ganden Phuntsok Ling) and the sealing of Jonang printing blocks are usually dated c. 1650–1658, after Tāranātha's death; the reasons given in the sources are both doctrinal and political (Tāranātha's patrons were the Tsang rulers defeated in 1642). Exact years: moderate confidence. Forms of other-emptiness were also held outside the Jonang — by the Sakya scholar Shākya Chokden (tch:shakya-chokden, who accepted both self- and other-emptiness Madhyamaka as valid), the 8th Situ (tch:situ-panchen) and Jamgön Kongtrul (tch:jamgon-kongtrul); these are referenced, not merged into the Jonang view._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._

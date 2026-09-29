@@ -6,7 +6,7 @@
 **Convergence:** 2 independent lineage(s): [Digambara](../lineages/digambara.md), [Śvetāmbara](../lineages/svetambara.md)
 **Taught in:** [Digambara](../lineages/digambara.md), [Śvetāmbara](../lineages/svetambara.md)
 
-Worship of the goddess Padmāvatī, attendant of Pārśvanātha, with offerings, mantras and yantras for protection and worldly aims, as set out in the Bhairava-Padmāvatī-kalpa; the practitioner must be devoted to the Jina and the teacher, truthful and self-controlled.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Bhairava-Padmāvatī-kalpa](../texts/bhairava-padmavati-kalpa.md) — ref: 1; rests_on: ["tea:bhairava-padmavati-kalpa:1"]
 
@@ -17,4 +17,4 @@ Worship of the goddess Padmāvatī, attendant of Pārśvanātha, with offerings,
 _Notes: Restricted: summary only (the kalpa includes rites for worldly ends); no mantra, yantra or rite recorded._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

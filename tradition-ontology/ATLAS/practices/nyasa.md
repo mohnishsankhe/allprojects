@@ -27,4 +27,4 @@ _Notes: U06 contribution to a shared practice id._
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40) — Rests on tea:devi-gita:7.40.1-7; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U49-cross-family, skeleton:U08-agama-catalogue, skeleton:U31-sound-arts, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U49-cross-family, skeleton:U08-agama-catalogue, skeleton:U31-sound-arts, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._

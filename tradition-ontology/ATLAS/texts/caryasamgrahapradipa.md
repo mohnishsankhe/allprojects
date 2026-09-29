@@ -99,4 +99,4 @@ concepts: [The similes of illusion, dream and mirage](../concepts/illusion-simil
 _Notes: Local: catalog:Derge-Tengyur:D3960. Its closing line addresses a 'Sthavira' (elder); the colophon names the translator as the monk Tsultrim Gyalwa (Nagtso Lotsawa)._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

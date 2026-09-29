@@ -16,7 +16,7 @@ The meditator goes to a corpse of this kind, having informed the senior monk and
 - A body of the opposite sex is unsuitable for the beginner; take precautions against dangers at charnel grounds (wild animals, non-human beings) and against fear. — [Visuddhimagga](../texts/visuddhimagga.md) VI
 
 ## Equivalents (interpretation layer)
-- partial: [Contemplation of the unlovely (aśubhā-bhāvanā)](asubha-bhavana.md) — the sutta practice of foulness (U36); the Visuddhimagga's ten corpse-subjects are one of its forms
+- partial: [Contemplation of the foul (asubha-bhāvanā): summary only](asubha-bhavana.md) — the sutta practice of foulness (U36); the Visuddhimagga's ten corpse-subjects are one of its forms
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

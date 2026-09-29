@@ -28,4 +28,4 @@
 
 - 2026-09-29 text: confirmed — tea:tattvartha-sutra:7.1, tea:tattvartha-sutra:7.2 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U02-brahmana-vedanga, skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U01-vedic-samhitas, skeleton:U07-puranas, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U02-brahmana-vedanga, skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._

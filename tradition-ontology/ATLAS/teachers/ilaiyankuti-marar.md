@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A farmer who fed devotees until he was des
 **Realization — the tradition's account:** A farmer who fed devotees until he was destitute; on a night of heavy rain he gathered the newly sown paddy from his field and pulled up his roof-beams for firewood to feed a guest, who was Śiva.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._

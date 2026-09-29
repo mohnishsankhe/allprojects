@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A devotee who declared Cuntarar and even t
 **Realization — the tradition's account:** A devotee who declared Cuntarar and even the Lord 'outside' the fold when Cuntarar passed the assembled devotees at Tiruvārūr without honouring them; this led Śiva to give Cuntarar the first line of the Tiruttoṇṭattokai.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._

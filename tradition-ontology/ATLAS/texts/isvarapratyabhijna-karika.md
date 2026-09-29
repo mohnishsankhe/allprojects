@@ -216,7 +216,7 @@ Identification with the void (śūnya), the breath or the subtle body is subordi
 
 _level: conventional · standpoint: analytic · path: knowledge, meditation · stage: all · types: consciousness-mind_
 
-terms: [śūnya](../terms/sunya.md), [puryaṣṭaka](../terms/puryastaka.md), [suṣupti / suṣupta](../terms/susupti.md) · obstacles: [Void, sleep-like absorption mistaken for the goal](../obstacles/susupta-like-absorption.md) · teachers: [Utpaladeva](../teachers/utpaladeva.md)
+terms: [śūnya](../terms/sunya.md), [puryaṣṭaka](../terms/puryastaka.md), [suṣupti](../terms/susupti.md) · obstacles: [Void, sleep-like absorption mistaken for the goal](../obstacles/susupta-like-absorption.md) · teachers: [Utpaladeva](../teachers/utpaladeva.md)
 
 ### 3.2.19-20 <a id="tea-isvarapratyabhijna-karika-3-2-19-20"></a>
 `skeleton` · confidence high
@@ -276,4 +276,4 @@ teachers: [Utpaladeva](../teachers/utpaladeva.md)
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._

@@ -9,4 +9,4 @@
 Son of King Śreṇika who became a monk; distressed by being jostled on his first night, he was reminded by Mahāvīra of his past life as an elephant who held up his foot for days to spare a hare (Jñātādharmakathā 1.1).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

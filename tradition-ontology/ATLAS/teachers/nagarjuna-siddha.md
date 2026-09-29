@@ -20,4 +20,4 @@ U44 contribution (the siddha of the eighty-four): No. 16 of the eighty-four sidd
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. The unit reads the song as a rule that conduct must match realization._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

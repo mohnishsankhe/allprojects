@@ -16,4 +16,4 @@ Vidyānanda's commentary on the Nityāṣoḍaśikārṇava.
 _Notes: Published with the Ṛjuvimarśinī (from memory)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._

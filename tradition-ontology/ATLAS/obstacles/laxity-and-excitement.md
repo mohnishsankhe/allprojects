@@ -15,10 +15,10 @@ The faults of concentration: laziness, forgetting the object, laxity and excitem
   - [Moonbeams of Mahāmudrā](../texts/moonbeams-of-mahamudra.md) — ref: pt.2; rests_on: ["tea:moonbeams-of-mahamudra:pt.2/2"]
 
 ## Equivalents (interpretation layer)
-- partial: [Dullness and drowsiness (thinamiddha)](thina-middha.md) — dullness corresponds to thīna-middha
+- partial: [Sloth and torpor (thīnamiddha)](thina-middha.md) — dullness corresponds to thīna-middha
 - partial: [Restlessness (fetter)](uddhacca.md) — agitation corresponds to uddhacca
 
 _Notes: Contribution of U47._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug, skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

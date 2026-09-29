@@ -9,4 +9,4 @@
 A woman disciple of Milarepa to whom, in the Hundred Thousand Songs, he sings a famous song on meditation using the images of sky, sun and moon, mountain, ocean and mind.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

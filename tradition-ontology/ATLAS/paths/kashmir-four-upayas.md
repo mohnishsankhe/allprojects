@@ -18,4 +18,4 @@
 Correction to the brief: 'anupāya' is Abhinavagupta's term (TĀ 2); the name ānandopāya for it is later. Kṣemarāja reads the three sections of the Śiva Sūtra as śāmbhava, śākta and āṇava means. The stages are listed here in ascending order for the correspondence table; the tradition's own order of exposition is descending.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:14 IST._

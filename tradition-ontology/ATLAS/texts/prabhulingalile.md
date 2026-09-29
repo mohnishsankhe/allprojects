@@ -49,4 +49,4 @@ obstacles: [Māyā](../obstacles/maya-virasaiva.md) · teachers: [Allama Prabhu]
 _Notes: Rendered into Tamil in the 17th c. (Turaimaṅkalam Śivaprakāśar's Pirapuliṅkalīlai, low confidence) and into Sanskrit._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._

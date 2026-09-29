@@ -14,4 +14,4 @@ The 'witch' of desire for worldly or heavenly enjoyment and for liberation, whic
   - [Tukārām Gāthā](../texts/tukaram-gatha.md) — ref: heci-dana-dega; rests_on: ["tea:tukaram-gatha:heci-dana-dega"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._

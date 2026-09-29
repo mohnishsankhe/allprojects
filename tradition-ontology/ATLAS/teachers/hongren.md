@@ -13,4 +13,4 @@
 Fifth patriarch at the East Mountain (Huangmei); taught guarding the original true mind (Xiuxin yao lun); in the Platform Sūtra he set the verse contest and secretly transmitted robe and Dharma to Huineng.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

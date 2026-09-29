@@ -877,7 +877,7 @@ Liberation (is possible), because for one in deep sleep, when there are no dream
 
 _level: unmarked · standpoint: experiential · path: knowledge · stage: unmarked · types: karma-liberation, consciousness-mind_
 
-terms: [apavarga](../terms/apavarga.md), [suṣupti / suṣupta](../terms/susupti.md) · concepts: [Liberation (apavarga) as the end of pain](../concepts/apavarga-nyaya.md), [Deep sleep in Nyāya-Vaiśeṣika](../concepts/deep-sleep-nyaya-vaisesika.md)
+terms: [apavarga](../terms/apavarga.md), [suṣupti](../terms/susupti.md) · concepts: [Liberation (apavarga) as the end of pain](../concepts/apavarga-nyaya.md), [Deep sleep in Nyāya-Vaiśeṣika](../concepts/deep-sleep-nyaya-vaisesika.md)
 
 ### 4.1.64 <a id="tea-nyaya-sutra-4-1-64"></a>
 `skeleton` · confidence high
@@ -1129,4 +1129,4 @@ terms: [nigrahasthāna](../terms/nigrahasthana.md) · concepts: [The twenty-two 
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 23:14 IST._

@@ -15,4 +15,4 @@ Placing of mantras and deities on the body before worship: the purification of t
   - [Vāmakeśvara Tantra (Vāmakeśvarīmata / Nityāṣoḍaśikārṇava)](../texts/vamakesvara-tantra.md) — ref: sricakra; rests_on: ["tea:vamakesvara-tantra:sricakra"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._

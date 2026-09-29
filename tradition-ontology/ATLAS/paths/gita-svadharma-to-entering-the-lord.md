@@ -5,6 +5,7 @@
 **Lineage:** [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
 **Sources:** 
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: BhG 18.45–46, BhG 18.49, BhG 18.50–53, BhG 18.54, BhG 18.54–55, BhG 18.55–56; rests_on: ["tea:bhagavad-gita:18.46", "tea:bhagavad-gita:18.49", "tea:bhagavad-gita:18.50-53", "tea:bhagavad-gita:18.54", "tea:bhagavad-gita:18.55", "tea:bhagavad-gita:18.56"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.45-56; rests_on: ["tea:bhagavad-gita:18.45", "tea:bhagavad-gita:18.46", "tea:bhagavad-gita:18.47", "tea:bhagavad-gita:18.48", "tea:bhagavad-gita:18.49", "tea:bhagavad-gita:18.50", "tea:bhagavad-gita:18.51-53", "tea:bhagavad-gita:18.54", "tea:bhagavad-gita:18.55", "tea:bhagavad-gita:18.56"]
 
 | # | stage | gloss | ref | band |
 |---|---|---|---|---|
@@ -18,4 +19,8 @@
 Stage order is the text's; the bands are the interpretation layer. Commentators differ on whether knowledge (Advaita) or devotion (Vaiṣṇava) is the final stage — see dsp:gita-primary-teaching.
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.45, tea:bhagavad-gita:18.46, tea:bhagavad-gita:18.47, tea:bhagavad-gita:18.48, tea:bhagavad-gita:18.49, tea:bhagavad-gita:18.50, tea:bhagavad-gita:18.51, tea:bhagavad-gita:18.51-53, tea:bhagavad-gita:18.54, tea:bhagavad-gita:18.55, tea:bhagavad-gita:18.56 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._

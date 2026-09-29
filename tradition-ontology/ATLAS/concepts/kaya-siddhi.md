@@ -17,4 +17,4 @@
 - leads-to → [Liberation (vīṭu, mutti) in the Siddhar songs](siddhar-liberation.md): as means, in TM 724 — rests on [724](../texts/tirumantiram.md#tea-tirumantiram-724)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U22-tamil-siddha, skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U22-tamil-siddha, skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._

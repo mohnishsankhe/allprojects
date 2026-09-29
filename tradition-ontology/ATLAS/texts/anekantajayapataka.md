@@ -15,4 +15,4 @@
 Haribhadra's major polemical defence of many-sidedness against Buddhist and other one-sided positions, with his own commentary.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

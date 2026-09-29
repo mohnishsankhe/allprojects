@@ -13,4 +13,4 @@
 - contrasts-with → [The three levels of reality](three-levels-of-reality.md): Vallabha rejects assigning the qualified statements to a lower level
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._

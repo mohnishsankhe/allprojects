@@ -14,4 +14,4 @@
 _Notes: Tradition's account; attested only in Chinese sources from the Song (Tiansheng guangdeng lu, 1036; the apocryphal Dafan tianwang wenfo jueyi jing)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

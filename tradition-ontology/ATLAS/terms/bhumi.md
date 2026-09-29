@@ -26,4 +26,4 @@
 **Related:** [pāramitā](paramita.md)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U40-madhyamaka, skeleton:U38-early-schools, skeleton:U44-indian-vajrayana, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga, skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U40-madhyamaka, skeleton:U38-early-schools, skeleton:U44-indian-vajrayana, skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

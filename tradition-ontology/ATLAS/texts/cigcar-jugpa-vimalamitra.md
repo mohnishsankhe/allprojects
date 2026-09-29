@@ -32,4 +32,4 @@ teachers: [Vimalamitra](../teachers/vimalamitra.md) · disputes: [Is awakening s
 _Notes: Local: catalog:Derge-Tengyur:D3910; colophon read._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

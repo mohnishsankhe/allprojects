@@ -13,4 +13,4 @@ Compiler of the Śārṅgadhara Paddhati (1363), a verse anthology whose yoga se
 _Notes: Distinct from the Āyurvedic author of the Śārṅgadhara Saṃhitā._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._

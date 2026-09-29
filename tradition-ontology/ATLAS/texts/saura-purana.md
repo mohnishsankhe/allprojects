@@ -16,4 +16,4 @@
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Saura_Purana, local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md 1.1.20 — Web: a Śaiva Upapurāṇa (69 chapters printed), proclaimed by Sūrya yet eulogising Śiva and Pārvatī, calling itself a supplement of the Brahma Purāṇa. KūP 1.1.20 confirmed locally. No local e-text.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._

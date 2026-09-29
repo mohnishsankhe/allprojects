@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [The Goddess as Brahman](devi-as-brahman.md) (Śākta): the Śrīvidyā statement of the general Śākta doctrine — rests on [43-45](../texts/lalita-sahasranama.md#tea-lalita-sahasranama-43-45), [1-2](../texts/devi-upanisad.md#tea-devi-upanisad-1-2)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._

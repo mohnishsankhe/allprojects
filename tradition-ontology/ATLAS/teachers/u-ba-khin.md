@@ -14,4 +14,4 @@
 Burmese government official (Accountant-General) and lay meditation teacher (1899–1971), pupil of Saya Thetgyi, who founded the International Meditation Centre in Rangoon (1952) and taught Goenka.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

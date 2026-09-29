@@ -16,4 +16,4 @@ A group of practices in the Śivasaṃhitā for removing afflictions: drinking t
 _Notes: Where these practices merge into khecarī (the tongue turned up into the cavity) the restrictions of prc:khecari-mudra apply._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

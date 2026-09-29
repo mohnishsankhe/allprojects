@@ -13,4 +13,4 @@ One of the five ācāryas of the Pañcācārya tradition, founder in its account
 _Notes: Emergence from the Mallikārjuna liṅga at Śrīśaila and seat name Sūrya-siṃhāsana: low confidence. Distinct entry from the historical Mallikārjuna Paṇḍitārādhya (tch:mallikarjuna-panditaradhya); some accounts connect them._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._

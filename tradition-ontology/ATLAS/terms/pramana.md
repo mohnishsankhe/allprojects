@@ -21,6 +21,7 @@
 - [Kadam](../lineages/kadam.md): Buddhists accept perception and inference; but emptiness is not realised by them taken as conceptual cognitions — they were set up to refute opponents (Satyadvayāvatāra 10–13).
 - [Sakya](../lineages/sakya.md): Only perception and inference, as Dharmakīrti taught, with universals as conceptual constructs (Treasury of Reasoning).
 - [Gelug](../lineages/gelug.md): Conventional valid cognition establishes conventional existence even for Prāsaṅgikas; inferential reasoning is a means of realising emptiness.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: Scripture is Arjuna's authority (pramāṇa) in determining what is to be done and not done (16.24).
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): Means of valid knowledge: six in Advaita (perception, inference, comparison, testimony, presumption, non-cognition), all valid empirically and all within the sphere of ignorance; scripture alone reveals Brahman.
 - [Cārvāka / Lokāyata](../lineages/carvaka.md): (Lokāyata, reported variously) One (perception); or not fixable in number (suśikṣita); or none establishable (Jayarāśi).
 - [Jainism (Jaina dharma)](../lineages/jainism.md): In Jain epistemology valid knowledge itself — the five knowledges (TS 1.10); knowledge illuminating itself and its object, free from contradiction (Nyāyāvatāra 1); the right ascertainment of an object (Pramāṇamīmāṃsā 1.1.2).
@@ -38,4 +39,8 @@
 **Related:** [pratyakṣa](pratyaksa.md), [anumāna](anumana.md), [avisaṃvādin](avisamvadin.md), [pramāṇa-phala](pramanaphala.md), [āgama](agama.md), [kevala-pramāṇa](kevala-pramana.md), [anupramāṇa](anupramana.md), [dṛṣṭa (pratyakṣa)](drsta.md), [āptavacana](aptavacana.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U17-pasupata-kapalika, skeleton:U12-mimamsa, skeleton:U14-visistadvaita, skeleton:U47-sakya-kadam-gelug, skeleton:U13-advaita, skeleton:U33-sramana, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:16.24 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U17-pasupata-kapalika, skeleton:U12-mimamsa, skeleton:U14-visistadvaita, skeleton:U47-sakya-kadam-gelug, extraction:bhagavad-gita/ch16-18, skeleton:U13-advaita, skeleton:U33-sramana, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._

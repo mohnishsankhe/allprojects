@@ -16,4 +16,4 @@ A section on initiation catalogued as part of the Niśvāsakārikā.
 _Notes: Identification follows the Muktabodha catalogue. sources_raw/raw_etexts/mixed/mukta/muktabodha_metadata.json (Muktabodha catalogue descriptions)_
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._

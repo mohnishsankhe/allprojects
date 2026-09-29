@@ -14,4 +14,4 @@ The rite by which a householder establishes the three śrauta fires, after which
 **Sequences:** [The Vedic ritual career: from initiation to the soma rites and the world of the fathers](../paths/srauta-sequence.md)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U12-mimamsa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._

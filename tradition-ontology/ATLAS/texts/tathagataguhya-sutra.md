@@ -14,4 +14,4 @@
 The secrets of the Tathāgata's body, speech and mind, taught by Vajrapāṇi; one of Nepal's nine dharmas.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._

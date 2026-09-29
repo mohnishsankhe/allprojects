@@ -15,4 +15,4 @@
 Aparājitasūri's Sanskrit commentary on the Bhagavatī Ārādhanā, which cites the Āvaśyaka, the Chedasūtras and other canonical texts, defends the permissibility of clothes by exception, and is generally assigned to the Yāpanīya school.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

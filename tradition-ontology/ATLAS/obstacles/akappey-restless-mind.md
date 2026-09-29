@@ -13,4 +13,4 @@ The mind that runs like a demon or whirls like a fish in a net, to be stilled (A
   - [Tāyumāṉavar pāṭalkaḷ (the songs of Tāyumāṉavar)](../texts/tayumanavar-padalgal.md) — ref: kantuk kaṭaṅkā; rests_on: ["tea:tayumanavar-padalgal:kantuk-katankata"]
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

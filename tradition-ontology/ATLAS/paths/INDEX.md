@@ -1,6 +1,6 @@
 # Path maps (213)
 
-sourced: 45 · skeleton: 168
+sourced: 46 · skeleton: 167
 
 - [Action, then knowledge or devotion (Uddhava Gītā 11.20)](uddhava-gita-three-yogas.md) — `sourced`
 - [Advayatāraka: targets, voids and tāraka](advayataraka-voids.md) — `sourced`
@@ -23,7 +23,6 @@ sourced: 45 · skeleton: 168
 - [Haribhadra's five yogas (Yogabindu)](yogabindu-five-yogas.md) — `skeleton`
 - [Haribhadra's four kinds of yogins](haribhadra-four-yogins.md) — `skeleton`
 - [Haṃsa: the ten inner sounds](hamsa-ten-nadas.md) — `sourced`
-- [Haṭhapradīpikā: the four stages of nāda](hyp-nada-four-stages.md) — `skeleton`
 - [Haṭhapradīpikā: the order of practice](hyp-practice-sequence.md) — `skeleton`
 - [Hearing to nirvikalpa samādhi with eight auxiliaries (Vedāntasāra)](vedantasara-samadhi-auxiliaries.md) — `skeleton`
 - [Hemacandra's four kinds of mind and the no-mind state (Yogaśāstra 12)](hemacandra-four-minds.md) — `skeleton`
@@ -101,6 +100,7 @@ sourced: 45 · skeleton: 168
 - [The four stages of practice in the Dattātreyayogaśāstra and Śivasaṃhitā](siva-samhita-four-avasthas.md) — `skeleton`
 - [The four stages of yoga (Yogatattva; Varāha)](yogatattva-four-avasthas.md) — `sourced`
 - [The four stages of yoga practice (ārambha, ghaṭa, paricaya, niṣpatti)](hatha-four-stages.md) — `skeleton`
+- [The four states of nāda-yoga (HYP 4.69-77)](hyp-nada-four-stages.md) — `sourced`
 - [The four vidyādhara levels of Mahāyoga](mahayoga-four-vidyadharas.md) — `skeleton`
 - [The four visions of Direct Crossing (thod rgal gyi snang ba bzhi)](dzogchen-four-visions.md) — `skeleton`
 - [The four yogas as a sequence (Yogatattva; Yogaśikhā)](yogatattva-four-yogas.md) — `sourced`

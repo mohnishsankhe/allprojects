@@ -14,4 +14,4 @@
 - part-of → [The three jewels (ratnatraya)](three-jewels.md): the three jewels with austerity added (as in Uttarādhyayana 28) — rests on [28](../texts/uttaradhyayana-sutra.md#tea-uttaradhyayana-sutra-28)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

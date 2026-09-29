@@ -10,4 +10,4 @@
 A lexicon of medicinal substances attributed to Dhanvantari.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

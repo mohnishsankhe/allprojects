@@ -51,4 +51,4 @@ The Bön religion of Tibet in its Yungdrung ('eternal', swastika) form: the teac
 _Notes: OPTIONAL per coverage map B6: 'Bön shares Dzogchen but lies outside the Buddhist family'. family set to 'shared' because Bön is neither Vedic nor an Indian śramaṇa tradition, yet shares Dzogchen, tantra and monasticism with the Buddhist family (decision by U45, logged in REPORT.md)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

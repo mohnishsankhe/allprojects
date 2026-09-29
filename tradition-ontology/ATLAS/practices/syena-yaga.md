@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md)
 **Taught in:** [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md)
 
-A rite the Veda states as the means for one who wishes to harm an enemy. Mīmāṃsā records it only to show that the Veda does not enjoin harming: the rite is described as a means, not as a duty.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Śābarabhāṣya](../texts/sabara-bhasya.md) — ref: 1.1.2; rests_on: ["tea:sabara-bhasya:1.1.2/2"]
 
@@ -16,4 +16,4 @@ A rite the Veda states as the means for one who wishes to harm an enemy. Mīmā�
 _Notes: Summary only (abhicāra rite)._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._

@@ -18,4 +18,4 @@ Singer-saint of Vṛndāvana (16th c.), founder of the Haridāsī (Sakhī) sampr
 _Notes: The guru Āśudhīra is given in the Nimbārkī account; the independent Haridāsī account differs._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti, skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U26-regional-bhakti, skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._

@@ -29,4 +29,4 @@ practices: [Recitation of the Migtsema](../practices/migtsema-recitation.md) · 
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

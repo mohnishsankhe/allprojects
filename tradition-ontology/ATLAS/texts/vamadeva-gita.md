@@ -25,4 +25,4 @@ Vāmadeva teaches the king righteous rule and self-restraint.
 
 - dating: CE 12.93-95 confirmed ('vāmadeva uvāca' 94.1, 95.1); vulgate colophons 'vāmadevagītāsu' (12.92-94). It is in the Rājadharma section, so the copied Mokṣadharma clause is replaced.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

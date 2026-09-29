@@ -11,4 +11,4 @@
 Brahmin preacher (tradition 1488–1598), founder of the Brahma saṃhati; the Mahāpuruṣīyā account makes him Śaṅkaradeva's disciple, while his own followers (Dāmodarīyā) stress his independence.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._

@@ -11,4 +11,4 @@
 Author of the Padārthādarśa (1493/94), a learned commentary on the Śāradātilaka.
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._

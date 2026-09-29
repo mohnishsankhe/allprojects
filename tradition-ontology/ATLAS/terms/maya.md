@@ -1,12 +1,13 @@
 # māyā
 
-`trm:maya` · `skeleton` · confidence high
+`trm:maya` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** माया
 **Literal:** wondrous power; craft
 
 ## Definitions by tradition
+- [Advaita Vedānta](../lineages/advaita-vedanta.md): In the Kārikā ch.1: the beginning-less māyā under which the jīva sleeps (1.16); duality is mere māyā (1.17); creation imagined as of the nature of dream and māyā (1.7). | In the Kārikā ch.2: the self's own (svamāyā) by which it imagines itself and by which the deva is deluded; the world is seen like dream, magic and the gandharva city. | In the Kārikā ch.3: by māyā alone is the unborn differentiated and born (3.19, 3.24, 3.27); the mind vibrates dual by māyā (3.29). | In ch.4: birth of dharmas is like māyā and that māyā does not exist (4.58); māyā elephant (4.44); māyā seed and sprout (4.59); mind moves dual by māyā (4.61).
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): The wondrous creative power by which Varuṇa measured out the earth (RV 5.85.5) and Indra goes in many forms (6.47.18); the wise see the bird 'anointed with the asura's māyā' (10.177.1).
 - [Rāmānandī sampradāya](../lineages/ramanandi.md): The notion of self in the non-self by which saṃsāra is imagined; it has the powers of projection and veiling.
 - [Śākta traditions](../lineages/sakta.md): The Goddess's own inseparable power, neither real nor unreal nor both; conventionally called ignorance, in truth not other than her.
@@ -17,6 +18,7 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The Lord's power: by his own māyā he comes into being (BhG 4.6); his divine māyā made of the guṇas is hard to cross except by taking refuge in him (7.14); by it he moves beings as if on a machine (18.61).
 - [Vīraśaiva / Liṅgāyata](../lineages/virasaiva.md): Śiva's power through which he takes names and forms (SSM 1.9) and by whose concealment difference in Śiva is imagined (14.8–9); the Vīramāheśvara keeps it away (5.17–18). Allama: gold, woman and land are not māyā — the desire before the mind is.
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): The Lord's power by which what is not real appears (BhP 2.9.33); the gross and subtle forms are fashioned by its guṇas (1.3.30).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: By his māyā the Lord in the heart causes all beings to revolve as if mounted on a machine (18.61).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Power, magic, illusion; deceit: Indra goes about in many forms by his māyās (BAU 2.5.19); know prakṛti to be māyā and the great Lord the māyin (ŚU 4.10); the cessation of all māyā (ŚU 1.10); in PrU 1.16 māyā is deceit.
 - [Yogācāra](../lineages/yogacara.md): The illusion of an elephant conjured from a piece of wood by a spell, the simile of the three natures: the elephant is the imagined, its shape the dependent, the elephant's absence the perfected; the spell is the root consciousness, the wood suchness.
 - [Dvaita Vedānta (Tattvavāda; the Mādhva sampradāya)](../lineages/dvaita.md): In Madhva's usage chiefly God's will (icchā) or wisdom, and also prakṛti; not an indeterminable illusion. The 'māyā' of the Advaitins is identified polemically with the Buddhist saṃvṛti.
@@ -44,7 +46,9 @@ _Notes: Other lineages (Advaita, Śaiva, Buddhist) contribute very different def
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:mandukya-karika:1.7, tea:mandukya-karika:1.16, tea:mandukya-karika:1.17, tea:mandukya-karika:2.12, tea:mandukya-karika:2.19, tea:mandukya-karika:2.31, tea:mandukya-karika:3.19, tea:mandukya-karika:3.24, tea:mandukya-karika:3.27, tea:mandukya-karika:3.29, tea:mandukya-karika:4.44, tea:mandukya-ka — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.14, tea:bhagavad-gita:7.15 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.61 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.6 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U06-other-gitas, skeleton:U13-advaita, extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, skeleton:U20-virasaiva, skeleton:U07-puranas, skeleton:U03-principal-upanisads, skeleton:U41-yogacara-pramana, skeleton:U15-dvaita, skeleton:U40-madhyamaka, extraction:bhagavad-gita/ch04-06, skeleton:U14-visistadvaita, skeleton:U23-sakta-srividya, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:mandukya-karika/all, skeleton:U01-vedic-samhitas, skeleton:U06-other-gitas, skeleton:U13-advaita, extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, skeleton:U20-virasaiva, skeleton:U07-puranas, extraction:bhagavad-gita/ch16-18, skeleton:U03-principal-upanisads, skeleton:U41-yogacara-pramana, skeleton:U15-dvaita, skeleton:U40-madhyamaka, extraction:bhagavad-gita/ch04-06, skeleton:U14-visistadvaita, skeleton:U23-sakta-srividya, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul, skeleton:U18-saiva-siddhanta, skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._

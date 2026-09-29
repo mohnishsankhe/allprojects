@@ -21,4 +21,4 @@ _Notes: Chs. 13–15 contribution, merged from extractor B's cpt:three-purusas a
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:15.16, tea:bhagavad-gita:15.17, tea:bhagavad-gita:15.18, tea:bhagavad-gita:15.19 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 23:14 IST._

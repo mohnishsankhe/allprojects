@@ -68,4 +68,4 @@ teachers: [Pāyāsi](../teachers/payasi.md), [Kumāra Kassapa](../teachers/kumar
 _Notes: SuttaCentral uid dn23; Mahāsaṅgīti title 'Pāyāsisutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._

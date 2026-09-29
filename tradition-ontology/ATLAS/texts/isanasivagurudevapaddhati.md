@@ -20,4 +20,4 @@ A large ritual compendium in two parts — the Tantrasāra (general section and 
 _Notes: Structure checked in colophons of the local e-texts (sources_raw/raw_etexts/mixed/mukta/tantranibandha/IshAnashivagurudeva/ (TSS ed., 4 vols)). The author's own region is not established here._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._

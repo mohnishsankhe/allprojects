@@ -41,4 +41,4 @@ Jyotiṣa's reading of the chart is the reading of past action ripening; effort 
 _Notes: Cross-reference: dsp:daiva-or-paurusa (U06)._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._

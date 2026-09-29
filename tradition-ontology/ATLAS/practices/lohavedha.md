@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](../lineages/rasa-sastra.md)
 **Taught in:** [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](../lineages/rasa-sastra.md)
 
-The transformation of base metals by processed mercury, treated in the 'vāda' sections of the rasa texts and regarded as a test to be passed before mercury is applied to the body. RESTRICTED: summary only.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Sources:** 
   - [Sarvadarśanasaṃgraha](../texts/sarvadarsanasangraha.md) — ref: Raseśvara 23-25; rests_on: ["tea:sarvadarsanasangraha:rasesvara.23-25"]
@@ -17,4 +17,4 @@ The transformation of base metals by processed mercury, treated in the 'vāda' s
 - Mercury with its impurities, though nectar itself, is poison; a physician skilled in practice but ignorant of the science is death in human form. — [Rasaratnākara](../texts/rasaratnakara.md) Rasakhaṇḍa 1.26-30
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

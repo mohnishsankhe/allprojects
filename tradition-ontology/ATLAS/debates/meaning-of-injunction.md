@@ -27,4 +27,4 @@ Maṇḍana Miśra: the injunction conveys that the act is a means to what is de
 **Candidate readings:** P2-standpoint: prompting (śābdī bhāvanā), command (niyoga) and means-to-the-desired (iṣṭasādhanatā) may describe one injunction from the side of the word, of the hearer's duty and of the goal; the schools themselves argue these are exclusive.
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._

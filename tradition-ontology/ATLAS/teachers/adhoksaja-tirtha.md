@@ -12,4 +12,4 @@ Disciple of Madhva and, in the tradition's account, founder of the Pejavara ma�
 _Notes: Founder-to-maṭha assignment recalled from memory; check against maṭha records._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:14 IST._

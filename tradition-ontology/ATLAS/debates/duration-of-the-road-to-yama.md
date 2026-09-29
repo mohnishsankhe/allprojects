@@ -30,4 +30,4 @@ Two or three muhūrtas for ninety-nine thousand yojanas (BhP 3.30.24).
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mArkaNDeyapurANa1-93.txt (Sansknet) 10.75-76, local:sources_raw/dcs/corpus/GRETIL/sa_garuDapurANa.txt (Venkateshwara ed.) 2.5.84-147, local:sources_raw/raw_etexts/purANam/vaiShNavam/bhAgavata-purANam/wiki (Gita Press-type text) 3.30.24 — All three positions located: MkP 10.75-76 (twelve days, then the iron city); GP 2.5.84-86 and 2.5.141-147 (a year, sixteen cities, 247 yojanas a day over 86,000); BhP 3.30.24 (99,000 yojanas in two or three muhūrtas).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._

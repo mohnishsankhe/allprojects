@@ -10,4 +10,4 @@
 Kerala astrologer to whom the Daśādhyāyī commentary on the Bṛhajjātaka is ascribed; celebrated in Kerala legend.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._

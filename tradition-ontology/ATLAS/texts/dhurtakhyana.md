@@ -14,4 +14,4 @@
 Haribhadra's Prakrit satire in which five rogues tell impossible tales and justify them from Purāṇic and epic stories — a critique of uncritical acceptance of myth.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

@@ -18,4 +18,4 @@
 **Related:** [suṣumnā](susumna.md)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._

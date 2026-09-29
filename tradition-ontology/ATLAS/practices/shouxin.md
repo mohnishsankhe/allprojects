@@ -15,4 +15,4 @@ Guarding the original true mind so that deluded thoughts do not arise and the se
 - The Platform Sūtra rejects 'viewing the mind' and 'viewing purity' as binding oneself with purity. — [Platform Sūtra of the Sixth Patriarch (Liuzu tanjing)](../texts/platform-sutra.md) 8.1
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

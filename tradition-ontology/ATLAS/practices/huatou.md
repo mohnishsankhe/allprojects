@@ -19,4 +19,4 @@ Pressing down all discriminating mind and holding the key word of a case (e.g. '
 - Do not wait for awakening: 'if you keep your mind on the breaking, it will never break' (Dahui). — [Recorded Sayings of Dahui (Dahui Pujue chanshi yulu)](../texts/dahui-yulu.md) 921c05
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

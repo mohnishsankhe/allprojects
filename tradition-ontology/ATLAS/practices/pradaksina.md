@@ -13,4 +13,4 @@ Clockwise circling of the image while muttering, after the offering; one of the 
 **Sequences:** [The five stages of the Pāśupata path (avasthā-pañcaka)](../paths/pasupata-five-stages.md)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:14 IST._

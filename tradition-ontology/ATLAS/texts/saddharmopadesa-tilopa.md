@@ -85,4 +85,4 @@ teachers: [Tilopa](../teachers/tilopa.md), [Nāropa](../teachers/naropa.md), [Ma
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._

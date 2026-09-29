@@ -11,6 +11,13 @@ Wearing an ascetic's garb or talking of yoga without practice (HYP 1.65–66; DY
 **Sources:** 
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 1.65-66; 4.114; rests_on: ["tea:hatha-yoga-pradipika:1.65-66", "tea:hatha-yoga-pradipika:4.114"]
   - [Dattātreyayogaśāstra](../texts/dattatreyayogasastra.md) — ref: 39-46; rests_on: ["tea:dattatreyayogasastra:39-42", "tea:dattatreyayogasastra:43-46"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 16.4; rests_on: ["tea:bhagavad-gita:16.4"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 16.10; rests_on: ["tea:bhagavad-gita:16.10"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 16.17; rests_on: ["tea:bhagavad-gita:16.17"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 17.5; rests_on: ["tea:bhagavad-gita:17.5"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 17.12; rests_on: ["tea:bhagavad-gita:17.12"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 17.18; rests_on: ["tea:bhagavad-gita:17.18"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 16.4, 16.10, 16.17, 17.5, 17.12, 17.18; rests_on: ["tea:bhagavad-gita:16.4", "tea:bhagavad-gita:16.10", "tea:bhagavad-gita:16.17", "tea:bhagavad-gita:17.5", "tea:bhagavad-gita:17.12", "tea:bhagavad-gita:17.18"]
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 4.114; rests_on: ["tea:hatha-yoga-pradipika:4.114"]
   - [Candrāvalokana](../texts/candravalokana.md) — ref: p.2; rests_on: ["tea:candravalokana:p.2"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 13.8; rests_on: ["tea:bhagavad-gita:13.8"]
@@ -20,6 +27,11 @@ Wearing an ascetic's garb or talking of yoga without practice (HYP 1.65–66; DY
 ---
 **Verification checks**
 
+- 2026-09-29 text: corrected — tea:bhagavad-gita:16.4, tea:bhagavad-gita:16.10, tea:bhagavad-gita:16.17, tea:bhagavad-gita:17.5, tea:bhagavad-gita:17.12, tea:bhagavad-gita:17.18 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in correction_log and interpretation_log.jsonl.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.8 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, extraction:bhagavad-gita/ch13-15, skeleton:U26-regional-bhakti, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+**Corrections**
+
+- names: The epic-teaching name repeated data/'s haṭha-yoga title 'Hypocrisy of the unrealised' (HYP 1.65–66, DYŚ); the Gītā's dambha (16.4, 16.10, 16.17, 17.5, 17.12, 17.18) is hypocrisy or ostentation, as the entry's own description and trm:dambha say. The shared top-level name is left for S5.
+
+_Contributed by: skeleton:U28-hatha-texts, extraction:bhagavad-gita/ch16-18, skeleton:U21-natha-aghora, extraction:bhagavad-gita/ch13-15, skeleton:U26-regional-bhakti, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

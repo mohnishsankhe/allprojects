@@ -18,4 +18,4 @@ Visiting sacred places: the Goddess's seats listed in the Devī Gītā, and pilg
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/3_purana/devigita.md (GRETIL Devīgītā = DBhP 7.31-40), local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, ht — DBhP 7.38.1-7 (seats of the Goddess), BhP 11.19.34 (tīrthāṭana among the niyamas) and Avadhūta Gītā 8.1 ('tvadyātrayā vyāpakatā hatā te') verified.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

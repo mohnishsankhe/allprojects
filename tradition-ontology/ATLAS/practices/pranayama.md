@@ -6,10 +6,9 @@
 **Convergence:** 9 independent lineage(s): [Digambara](../lineages/digambara.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Jainism (Jaina dharma)](../lineages/jainism.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Sāṃkhya](../lineages/samkhya.md), [Śvetāmbara](../lineages/svetambara.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
 **Taught in:** [Digambara](../lineages/digambara.md), [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Jainism (Jaina dharma)](../lineages/jainism.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Sāṃkhya](../lineages/samkhya.md), [Śvetāmbara](../lineages/svetambara.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 
-Restricted-adjacent (breath retention): summary only. Defined as the cutting off of the course of inhalation and exhalation once posture is mastered (YS 2.49); Vyāsa names external, internal and suspended forms, regulated by place, time and number (YS 2.50), and a fourth that goes beyond the external and internal (YS 2.51); no figures or steps are recorded here. Result: the covering of the light dwindles and the mind becomes fit for concentration (YS 2.52–2.53).
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** intermediate
 **Prerequisites:** ['firm posture (HYP 2.1)', 'moderate diet', 'place, season and purification of the channels (GS 5.2)', "the guru's instruction"]
-**Signs of progress:** ['The covering of the light dwindles moment by moment (YBh 2.52).', 'lowest grade: sweat; middle: trembling; highest: the breath reaches its place / the body rises (HYP 2.12; GS 5.57)', 'steadiness of mind, manonmanī (HYP 2.42)', 'powers of moving in the sky, destruction of disease, awakening of the power (GS 5.58)']
 **Sources:** 
   - [Yoga Sūtra of Patañjali](../texts/yoga-sutra.md) — ref: 2.29; rests_on: ["tea:yoga-sutra:2.29"]
   - [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) — ref: 2.29; rests_on: ["tea:yoga-bhasya:2.29"]
@@ -41,7 +40,6 @@ Restricted-adjacent (breath retention): summary only. Defined as the cutting off
   - [Yogaśāstra (Hemacandra)](../texts/yogasastra-hemacandra.md) — ref: 6.4-5; rests_on: ["tea:yogasastra-hemacandra:6.4-5"]
   - [Yogaśāstra (Hemacandra)](../texts/yogasastra-hemacandra.md) — ref: ch.5; rests_on: ["tea:yogasastra-hemacandra:ch.5"]
   - [Jñānārṇava](../texts/jnanarnava.md) — ref: pranayama; rests_on: ["tea:jnanarnava:pranayama"]
-**Sequences:** [Patañjali's eight limbs of yoga (aṣṭāṅga-yoga)](../paths/yoga-sutra-eight-limbs.md), [Haṭhapradīpikā: the order of practice](../paths/hyp-practice-sequence.md), [The seven means of the 'yoga of the pot' (ghaṭastha-yoga) in the Gheraṇḍa Saṃhitā](../paths/gheranda-seven-limbs.md)
 
 ## The texts' own warnings
 - As a lion, an elephant or a tiger is tamed only slowly, so the breath must be brought under control gradually; otherwise it kills the practitioner. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 2.15
@@ -63,4 +61,4 @@ _Notes: YBh 2.52 quotes: 'There is no austerity higher than prāṇāyāma.' Ha�
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.29, tea:bhagavad-gita:5.27 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering), text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl (Advaita-Śāradā mūla svt.md) — All 2 Upaniṣad refs cited in the entry are located in the prepared segments (ŚU 2.9; MaiU 6.18). It rests on 2 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch04-06, skeleton:U09-samkhya, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch04-06, skeleton:U09-samkhya, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md)
 **Taught in:** [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md), [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md)
 
-The model animal rite of the soma sacrifice; in Mīmāṃsā the reference point for the question whether killing enjoined within a rite is sin (see dsp:sacrificial-killing).
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 
 ## The texts' own warnings
 - The general prohibition 'one should not harm any being' stands; Mīmāṃsā and its critics (Sāṃkhya, Jains, Buddhists) disagree whether a ritual injunction exempts the act from sin. — [Śābarabhāṣya](../texts/sabara-bhasya.md) 1.1.2
@@ -14,4 +14,4 @@ The model animal rite of the soma sacrifice; in Mīmāṃsā the reference point
 _Notes: Summary only; no procedure recorded. Low confidence on the Mīmāṃsā references beyond the general debate._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._

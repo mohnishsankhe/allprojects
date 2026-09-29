@@ -24,4 +24,4 @@ The book of Droṇa: the battle under Droṇa's command until his death.
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_7.json (BORI Critical Edition text) book 7: 173 chapters — Book 7 has exactly 173 chapters in the local Critical Edition text, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._

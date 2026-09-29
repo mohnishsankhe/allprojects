@@ -15,4 +15,4 @@ Demerit produced by prohibited acts; with dharma it produces embodiment and must
   - [Pāśupata Sūtra](../texts/pasupata-sutra.md) — ref: 3.6-9; rests_on: ["tea:pasupata-sutra:3.6-9"]
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:14 IST._

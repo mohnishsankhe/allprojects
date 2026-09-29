@@ -28,4 +28,4 @@ The powers arising from yoga are obstacles for one practising the highest yoga, 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — Rests on tea:uddhava-gita:11.15.33-34, tea:moksopaya:6.84-86; each was located in the local text and matches this entry's statement.
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:11.14.14, tea:bhagavata-purana:11.15.33-34, tea:linga-purana:1.9.52-56 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

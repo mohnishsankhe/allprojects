@@ -1,12 +1,12 @@
 # Svastikāsana (the auspicious-mark seat)
 
-`prc:svastikasana` · `skeleton` · confidence high
+`prc:svastikasana` · `sourced` · confidence moderate
 
 **Category:** posture
 **Convergence:** 3 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
 **Taught in:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 
-Both soles placed between the knees and thighs, sitting with the body straight (HYP 1.19; GS 2.13; ŚS 3.95). The Śivasaṃhitā calls it the comfortable posture (sukhāsana).
+The text's svastikāsana: sitting straight with both soles between the thighs and knees (HYP 1.19).
 **Stage:** beginner
 **Signs of progress:** ['no disease enters the body and the breath is mastered (ŚS 3.96)']
 **Sources:** 
@@ -25,4 +25,8 @@ Both soles placed between the knees and thighs, sitting with the body straight (
 _Notes: Yoga Yājñavalkya ch. 3 is recalled (low confidence) to describe eight postures: svastika, gomukha, padma, vīra, siṃha, bhadra, mukta, mayūra._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:hatha-yoga-pradipika:1.19 — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids).
+
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

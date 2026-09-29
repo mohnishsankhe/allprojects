@@ -19,4 +19,4 @@
 The four phases are from the Gyōji fascicle (text not available locally; moderate confidence on wording). Bands are deliberately non-monotonic (B0, B6, B5, B7) to show that Dōgen places 'practice' where other maps place post-awakening cultivation.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:14 IST._

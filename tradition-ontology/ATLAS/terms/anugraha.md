@@ -23,4 +23,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:11.1 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U17-pasupata-kapalika, skeleton:U23-sakta-srividya, extraction:bhagavad-gita/ch10-12, skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U17-pasupata-kapalika, skeleton:U23-sakta-srividya, extraction:bhagavad-gita/ch10-12, skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._

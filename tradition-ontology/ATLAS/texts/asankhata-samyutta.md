@@ -23,7 +23,7 @@ The unconditioned is the destruction of lust, hatred and delusion, and mindfulne
 
 _level: ultimate · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-concepts: [Nibbāna](../concepts/nibbana.md) · practices: [Mindfulness directed to the body (kāyagatāsati)](../practices/kayagatasati.md)
+concepts: [Nibbāna](../concepts/nibbana.md) · practices: [Mindfulness directed to the body (kāyagatāsati): summary only](../practices/kayagatasati.md)
 
 ### 43.12 <a id="tea-asankhata-samyutta-43-12"></a>
 `skeleton` · confidence high
@@ -47,4 +47,4 @@ terms: [nibbāna](../terms/nibbana.md), [amata](../terms/amata.md), [asaṅkhata
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

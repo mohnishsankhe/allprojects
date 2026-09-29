@@ -13,4 +13,4 @@ Initiation by a Mahāśay with the sect's secret mantra, after which the discipl
 _Notes: The mantra is secret and not recorded._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._

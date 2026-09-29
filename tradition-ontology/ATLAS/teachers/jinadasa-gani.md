@@ -11,4 +11,4 @@
 7th-c. author of cūrṇis on the Niśītha, Āvaśyaka, Nandī and other canonical texts.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

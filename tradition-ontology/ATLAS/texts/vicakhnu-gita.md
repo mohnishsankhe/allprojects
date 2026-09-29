@@ -38,4 +38,4 @@ disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge c
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.257.1 gītaṃ rājñā vicakhnunā — Section located at CE 12.257 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition), local:sources_raw/raw_etexts/purANam/vaiShNavam/mahAbhAratam/gp/epub_no_img/ (Gita Press vulgate, chapter colophons) — CE 12.257 (13 verses) confirmed; vulgate colophon 'vicakhnugītāyām' (12.265).
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._

@@ -21,4 +21,4 @@
 
 - (text): madhukara-rāja = king of the bees (masculine in YBh 2.54 and 3.38)
 
-_Contributed by: extraction:yoga-sutra/p1-2. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:yoga-sutra/p1-2. Generated 2026-09-29 23:14 IST._

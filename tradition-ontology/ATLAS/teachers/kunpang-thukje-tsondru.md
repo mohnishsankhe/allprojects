@@ -12,4 +12,4 @@
 Founder of the Jonang hermitage in the Jomonang valley (c. 1294); a Kālacakra adept who is said to have received and unified seventeen transmission lines of the six-branch yoga, from which the Jonang takes its name and practice lineage.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._

@@ -15,4 +15,4 @@
 - part-of → [Calm and insight](samatha-vipassana.md): the calm side of calm and insight
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

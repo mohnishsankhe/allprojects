@@ -21,4 +21,4 @@ The great Kālīkula scripture, in four hexads (ṣaṭka) of about 6,000 verses
 _Notes: Largely unpublished; availability refers to partial e-transcripts. Alt title 'Śiraścheda' from memory (low)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue, skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U08-agama-catalogue, skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._

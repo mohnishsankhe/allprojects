@@ -27,4 +27,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.15, tea:bhagavad-gita:13.32 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U13-advaita, extraction:bhagavad-gita/ch13-15, skeleton:U03-principal-upanisads, skeleton:U15-dvaita, skeleton:U27-sant-baul, skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U13-advaita, extraction:bhagavad-gita/ch13-15, skeleton:U03-principal-upanisads, skeleton:U15-dvaita, skeleton:U27-sant-baul, skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._

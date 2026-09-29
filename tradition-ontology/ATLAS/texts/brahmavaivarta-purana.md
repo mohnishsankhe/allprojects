@@ -22,4 +22,4 @@ Kṛṣṇa as the supreme Person in Goloka with Rādhā as his śakti; Prakṛt
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:eBharati:brahmavaivartapurANam, local:sources_raw/raw_etexts/purANam/mAdhva-app/matsya-purANam.md (chs. 1-176) 53.34-35, https://en.wikipedia.org/wiki/Brahma_Vaivarta_Purana — Extant and digitized (eBhārati brahmavaivartapurāṇam, local). Web: four khaṇḍas (Brahma, Prakṛti, Gaṇeśa, Kṛṣṇajanma), extant version Bengal 15th-16th c., Rādhā-centred. Matsya 53.34-35 (Sāvarṇi to Nārada, Rathantara-kalpa, 18,000) confirmed.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._

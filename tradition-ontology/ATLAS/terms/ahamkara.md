@@ -19,7 +19,7 @@
 - Chinese: 我執 wozhi  — partial
 
 ## Equivalents (interpretation layer)
-**Related:** [abhimāna](abhimana.md), [vaikṛta (vaikārika)](vaikrta.md), [Taijasa](taijasa.md), [bhūtādi](bhutadi.md), [buddhi](buddhi.md), [mamakāra](mamakara.md), [satkāyadṛṣṭi](satkayadrsti.md)
+**Related:** [abhimāna](abhimana.md), [vaikṛta (vaikārika)](vaikrta.md), [taijasa](taijasa.md), [bhūtādi](bhutadi.md), [buddhi](buddhi.md), [mamakāra](mamakara.md), [satkāyadṛṣṭi](satkayadrsti.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U40-madhyamaka, skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U05-gita-epic, skeleton:U03-principal-upanisads, skeleton:U40-madhyamaka, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._

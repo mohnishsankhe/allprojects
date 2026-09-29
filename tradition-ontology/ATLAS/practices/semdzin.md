@@ -9,4 +9,4 @@
 A set of Heart-essence exercises (traditionally twenty-one) using posture, sound, breath and visualization to produce experiences in which awareness can be recognized.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

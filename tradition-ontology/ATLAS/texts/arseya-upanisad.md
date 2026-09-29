@@ -28,4 +28,4 @@ _Notes: Existence and opening confirmed from the local e-text (ebharati Ebharati
 
 - editions: Existence and summary confirmed from the local e-text: 'ṛṣayo vai brahmodyam āhvayitavā ūcuḥ … teṣāṃ viśvāmitro … uvāca yad etad antare dyāvāpṛthivī … ākāśam iva … stanayanti vidyotamānā iva … tad brahmeti'. Jamadagni, Bharadvāja, Gautama and Vasiṣṭha follow. Belvalkar's 1925 edition is confirmed on the web. Corrected: the edition 'Sanskrit text with Śaṅkara's bhāṣya (Advaita-Śāradā e-text)' is wrong; the local e-text is eBhāratī Ebharati-9441 (Deccan College, Pune). Veda affiliation stays unverified.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._

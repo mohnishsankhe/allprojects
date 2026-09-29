@@ -14,4 +14,4 @@
 Disciple of Sawan Singh who founded Ruhani Satsang in Delhi (1951) and taught widely in the West; author of Naam or Word and The Crown of Life.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._

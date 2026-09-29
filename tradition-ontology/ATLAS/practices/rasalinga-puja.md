@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](../lineages/rasa-sastra.md)
 **Taught in:** [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](../lineages/rasa-sastra.md)
 
-Seeing, touching, remembering, worshipping and giving mercury, and worship of a liṅga made of processed mercury, are praised as surpassing all other liṅga worship. RESTRICTED: the making of the liṅga and its rites are not recorded.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** all
 **Sources:** 
   - [Rasārṇava](../texts/rasarnava.md) — ref: 1.37-43; rests_on: ["tea:rasarnava:1.37-43"]
@@ -17,4 +17,4 @@ Seeing, touching, remembering, worshipping and giving mercury, and worship of a 
 - Mercury with its impurities, though nectar itself, is poison; a physician skilled in practice but ignorant of the science is death in human form. — [Rasaratnākara](../texts/rasaratnakara.md) Rasakhaṇḍa 1.26-30
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

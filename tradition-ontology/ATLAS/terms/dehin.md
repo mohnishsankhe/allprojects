@@ -11,6 +11,7 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: The embodied one who, having renounced all actions by the mind, dwells at ease in the city of nine gates, neither acting nor causing action (5.13).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: the guṇas bind the imperishable embodied one in the body (14.5, 14.7); the embodied one who goes beyond the three guṇas attains the immortal (14.20).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The self as dweller in the body, which passes through bodily stages and into new bodies as one changes clothes (BhG 2.13, 2.22, 2.30); bound in the body by the guṇas (14.5).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: Embodied beings, whose faith is threefold and born of their nature (17.2); one who bears a body (deha-bhṛt) cannot give up actions entirely (18.11).
 
 ## Forms in other languages
 
@@ -24,5 +25,6 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.13 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.5, tea:bhagavad-gita:14.7, tea:bhagavad-gita:14.20, tea:bhagavad-gita:14.8 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:17.2, tea:bhagavad-gita:18.11 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._

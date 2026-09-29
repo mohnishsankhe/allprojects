@@ -13,8 +13,8 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-- partial: [Turīya](turiya.md) — the Yoga Vāsiṣṭha itself calls the seventh stage the turya state of the jīvanmukta (3.118.16); turyagā names the stage, turīya the state
+- partial: [turīya](turiya.md) — the Yoga Vāsiṣṭha itself calls the seventh stage the turya state of the jīvanmukta (3.118.16); turyagā names the stage, turīya the state
 **Related:** [jñānabhūmikā](jnana-bhumika.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 23:14 IST._

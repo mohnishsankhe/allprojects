@@ -12,4 +12,4 @@ The Goddess is the sun-city for the inner darkness of the ignorant (SL 3); 'cit'
   - [Saubhāgyabhāskara](../texts/saubhagyabhaskara.md) — ref: on name 4; rests_on: ["tea:saubhagyabhaskara:cidagnikunda"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._

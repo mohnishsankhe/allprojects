@@ -12,6 +12,7 @@ Place and posture: gone to the forest, the root of a tree or an empty hut, the m
 **Signs of progress:** The text states no bodily or mental signs of its own beyond the arising of the awakening factors in sequence (mn118:30-36).
 **Sources:** 
   - [Ānāpānasati Sutta](../texts/anapanasati-sutta.md) — ref: mn118:15-28; rests_on: ["tea:anapanasati-sutta:mn118:15", "tea:anapanasati-sutta:mn118:17", "tea:anapanasati-sutta:mn118:18", "tea:anapanasati-sutta:mn118:19", "tea:anapanasati-sutta:mn118:20", "tea:anapanasati-sutta:mn118:21", "tea:anapanasati-sutta:mn118:26", "tea:anapanasati-sutta:mn118:26/2"]
+  - [Visuddhimagga](../texts/visuddhimagga.md) — ref: VIII p. 266-281; rests_on: ["tea:visuddhimagga:8.p266/2", "tea:visuddhimagga:8.p267", "tea:visuddhimagga:8.p267/2", "tea:visuddhimagga:8.p268", "tea:visuddhimagga:8.p268/2", "tea:visuddhimagga:8.p269", "tea:visuddhimagga:8.p269/2", "tea:visuddhimagga:8.p270", "tea:visuddhimagga:8.p270/2", "tea:visuddhimagga:8.p271", "tea:visuddhimagga:8.p271/2", "tea:visuddhimagga:8.p272", "tea:visuddhimagga:8.p272/2", "tea:visuddhimagga:8.p273", "tea:visuddhimagga:8.p273/2", "tea:visuddhimagga:8.p273/3", "tea:visuddhimagga:8.p274", "tea:visuddhimagga:8.p274/2", "tea:visuddhimagga:8.p275", "tea:visuddhimagga:8.p276", "tea:visuddhimagga:8.p277", "tea:visuddhimagga:8.p277/2", "tea:visuddhimagga:8.p278", "tea:visuddhimagga:8.p278/2", "tea:visuddhimagga:8.p279", "tea:visuddhimagga:8.p279/2", "tea:visuddhimagga:8.p280", "tea:visuddhimagga:8.p280/2", "tea:visuddhimagga:8.p281", "tea:visuddhimagga:8.p281/2"]
   - [Satipaṭṭhāna Sutta](../texts/satipatthana-sutta.md) — ref: mn10:4, mn10:5; rests_on: ["tea:satipatthana-sutta:mn10:4", "tea:satipatthana-sutta:mn10:5"]
   - [Mahārāhulovāda Sutta](../texts/maharahulovada-sutta.md) — ref: 25-30; rests_on: ["tea:maharahulovada-sutta:25-30"]
   - [Ānāpānasati Sutta](../texts/anapanasati-sutta.md) — ref: 15.2-15.4; 17-22; 23-28; 26.6; rests_on: ["tea:anapanasati-sutta:15.2-15.4", "tea:anapanasati-sutta:17-22", "tea:anapanasati-sutta:23-28", "tea:anapanasati-sutta:26.6"]
@@ -27,10 +28,13 @@ Place and posture: gone to the forest, the root of a tree or an empty hut, the m
 ## Equivalents (interpretation layer)
 - contested: [Breath-regulation (prāṇāyāma) in the Yoga Sūtra](pranayama.md) — both take the breath as object, but ānāpānasati observes the natural breath without retention; not the same practice
 
+_Notes: Contribution from the selected pages 266-281 (the word commentary on the first tetrad's first steps, pp. 272-277, is included). No breath-holding is described on these pages._
+
 ---
 **Verification checks**
 
 - 2026-09-29 text: partially-confirmed — tea:anapanasati-sutta:mn118:26/2, tea:anapanasati-sutta:thesis — Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line.
+- 2026-09-29 text: confirmed — tea:visuddhimagga:8.p266/2, tea:visuddhimagga:8.p267, tea:visuddhimagga:8.p267/2, tea:visuddhimagga:8.p268, tea:visuddhimagga:8.p268/2, tea:visuddhimagga:8.p269, tea:visuddhimagga:8.p269/2, tea:visuddhimagga:8.p270, tea:visuddhimagga:8.p270/2, tea:visuddhimagga:8.p271, tea:visuddhimagga:8.p271/2, te — Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan).
 - 2026-09-29 text: partially-confirmed — Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Content not read line by line by J.
 
-_Contributed by: extraction:anapanasati-sutta/all, extraction:satipatthana-sutta/all, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:anapanasati-sutta/all, extraction:visuddhimagga/selections, extraction:satipatthana-sutta/all, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

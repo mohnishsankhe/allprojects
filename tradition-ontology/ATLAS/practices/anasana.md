@@ -6,7 +6,7 @@
 **Convergence:** 3 independent lineage(s): [Digambara](../lineages/digambara.md), [Jainism (Jaina dharma)](../lineages/jainism.md), [Śvetāmbara](../lineages/svetambara.md)
 **Taught in:** [Digambara](../lineages/digambara.md), [Jainism (Jaina dharma)](../lineages/jainism.md), [Śvetāmbara](../lineages/svetambara.md)
 
-Abstaining from food for a fixed period — from one meal or one day to long fasts undertaken by some ascetics and laity — and, at life's end, the final fast (see prc:sallekhana).
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** all
 **Sources:** 
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 9.19; rests_on: ["tea:tattvartha-sutra:9.19"]
@@ -18,4 +18,4 @@ Abstaining from food for a fixed period — from one meal or one day to long fas
 _Notes: Restricted: prolonged fasting — summary and the texts' warnings only; no durations or regimens recorded._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

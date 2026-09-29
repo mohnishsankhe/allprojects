@@ -51,7 +51,7 @@ When the liberation of mind is immature, five things lead to its maturity: good 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-concepts: [Good friendship](../concepts/kalyanamittata.md) · practices: [Contemplation of the unlovely (aśubhā-bhāvanā)](../practices/asubha-bhavana.md), [Loving-kindness (mettā-bhāvanā)](../practices/metta-bhavana.md), [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md), [Perception of impermanence](../practices/anicca-sanna.md), [Good friendship](../practices/kalyanamittata.md) · teachers: [Meghiya](../teachers/meghiya.md)
+concepts: [Good friendship](../concepts/kalyanamittata.md) · practices: [Contemplation of the foul (asubha-bhāvanā): summary only](../practices/asubha-bhavana.md), [Loving-kindness (mettā-bhāvanā)](../practices/metta-bhavana.md), [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md), [Perception of impermanence](../practices/anicca-sanna.md), [Good friendship (kalyāṇamittatā), the teacher who gives the subject](../practices/kalyanamittata.md) · teachers: [Meghiya](../teachers/meghiya.md)
 
 ### 5.1 <a id="tea-udana-5-1"></a>
 `skeleton` · confidence high
@@ -128,4 +128,4 @@ concepts: [Nibbāna](../concepts/nibbana.md)
 
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

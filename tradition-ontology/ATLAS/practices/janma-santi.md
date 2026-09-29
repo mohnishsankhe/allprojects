@@ -12,4 +12,4 @@ When a child is born at an eclipse, at the new moon, at a solar ingress, in Mūl
   - [Bṛhat Parāśara Horā Śāstra](../texts/brhat-parasara-hora-sastra.md) — ref: 86-96; rests_on: ["tea:brhat-parasara-hora-sastra:91.1-4", "tea:brhat-parasara-hora-sastra:94.1-2"]
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._

@@ -18,4 +18,4 @@ Cinnambhaṭṭa's commentary on Keśava Miśra's Tarkabhāṣā; it opens with 
 _Notes: Author and title as given by the local e-text header; date not checked._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 23:14 IST._

@@ -16,4 +16,4 @@ The Abhidhamma's list of fetters, differing from the sutta list by including env
 - partial: [The ten fetters (saṃyojana)](ten-fetters.md) — the sutta list of ten fetters
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

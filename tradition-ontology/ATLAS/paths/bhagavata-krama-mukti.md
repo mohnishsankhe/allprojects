@@ -23,4 +23,4 @@ A post-mortem ascent rather than a stage-map of practice; only the final stage i
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:bhagavata-purana:2.2.22-31 — Stage refs located: BhP 2.2.24 (suṣumṇā, Vaiśvānara), 2.2.24-25 (Śiśumāra), 2.2.26-27 (Ananta's fire; the Satyaloka of two parārdhas), 2.2.31. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._

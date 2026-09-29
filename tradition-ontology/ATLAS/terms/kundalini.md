@@ -1,12 +1,13 @@
 # kuṇḍalinī
 
-`trm:kundalini` · `skeleton` · confidence high
+`trm:kundalini` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Native script:** कुण्डलिनी
-**Literal:** the coiled one (she-serpent)
+**Literal:** the coiled one
 
 ## Definitions by tradition
+- [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): Called the support of all yoga-tantras (3.1); the text says that when she wakes by the guru's grace all lotuses and knots are pierced (3.2); given seven synonyms (3.104), described as sleeping over the door of Brahman (3.106-107).
 - [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): The power (śakti) coiled at the base of the central channel, blocking its mouth; the support of all yoga (HYP 3.1); awakened by the guru's grace (3.2) and by breath, locks and mudrās (3.5, 3.66–69), she pierces the lotuses and knots and makes the mind supportless. Synonyms: kuṭilāṅgī, bhujaṅgī, śakti, īśvarī, kuṇḍalī, arundhatī (3.104); coiled eightfold (GŚ 30) or three and a half times (ṢCN). For yogins she is for liberation, for fools for bondage (HYP 3.107).
 - [Śrīvidyā](../lineages/srividya.md): The Goddess herself as the coiled power: dwelling in the mūlādhāra she pierces the three knots, mounts the thousand-petalled lotus, showers nectar, and returns to sleep in three and a half coils (LSN 38-40; SL 9-10).
 - [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md): The coiled power lying eightfold above the bulb, closing the door of Brahman, awakened by the fire of yoga or by the guru's grace to rise through suṣumṇā (GŚ 30–31; HYP 3.2).
@@ -28,9 +29,13 @@
 ## Equivalents (interpretation layer)
 - analogous: [caṇḍālī](candali.md) — the Vajrayāna inner fire (caṇḍālī, gtum mo) that rises in the central channel; functional analogy only — the traditions do not identify them
 - same-under-standpoint: [śakti](sakti.md) (Śākta) — kuṇḍalinī is the Goddess in the body
-**Related:** [arundhatī](arundhati.md), [bālaraṇḍā](balaranda.md), [granthi](granthi.md), [suṣumnā](susumna.md)
+**Related:** [suṣumnā](susumna.md), [arundhatī](arundhati.md), [bālaraṇḍā](balaranda.md), [granthi](granthi.md)
 
 _Notes: The word kuṇḍalinī itself is not in VBT 28-29 (the text says 'śakti'); the identification is the commentators'._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U21-natha-aghora, skeleton:U24-kali-kaula, skeleton:U31-sound-arts, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha, skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:hatha-yoga-pradipika:3.1, tea:hatha-yoga-pradipika:3.104, tea:hatha-yoga-pradipika:3.106, tea:hatha-yoga-pradipika:3.107, tea:hatha-yoga-pradipika:3.2 — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids).
+
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U21-natha-aghora, skeleton:U24-kali-kaula, skeleton:U31-sound-arts, skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U19-kashmir-saivism, skeleton:U22-tamil-siddha, skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._

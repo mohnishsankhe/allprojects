@@ -10,4 +10,4 @@
 One of the five monks; his bearing on alms round drew Sāriputta, to whom he spoke the verse 'ye dhammā hetuppabhavā' (Vin Mv 1.23).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

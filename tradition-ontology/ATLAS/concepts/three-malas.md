@@ -21,4 +21,4 @@
 - obstructs → [Union of liṅga and aṅga (liṅgāṅga-sāmarasya, aikya)](linganga-samarasya.md) — rests on [14.5-7](../texts/siddhantasikhamani.md#tea-siddhantasikhamani-14-5-7)
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U19-kashmir-saivism, skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U19-kashmir-saivism, skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._

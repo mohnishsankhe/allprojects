@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](../lineages/rasa-sastra.md)
 **Taught in:** [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](../lineages/rasa-sastra.md)
 
-The rasa texts require mercury to be purified of its natural and adventitious impurities and brought through a series of eighteen processings before any use, under a qualified guru, in a proper hall. RESTRICTED: the processes, ingredients, apparatus and quantities are deliberately not recorded.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Sources:** 
   - [Sarvadarśanasaṃgraha](../texts/sarvadarsanasangraha.md) — ref: Raseśvara 18-22; rests_on: ["tea:sarvadarsanasangraha:rasesvara.18-22"]
@@ -20,4 +20,4 @@ The rasa texts require mercury to be purified of its natural and adventitious im
 - Without the guru's grace and permission the work is fruitless; the unfit gain nothing and lose their wealth. — [Rasārṇava](../texts/rasarnava.md) 1.54-59; RRS 6.8-10
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

@@ -15,4 +15,4 @@ The 'Recitation of the Dharma': a collection of bodhisattvas' statements on the 
 _Notes: Tibetan Toh 238 confirmed in the local catalogue; Chinese version not identified here (gap)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._

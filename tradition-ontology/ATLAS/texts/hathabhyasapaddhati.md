@@ -26,10 +26,10 @@ More than a hundred postures are described in prose, including many that use mov
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice_
 
-concepts: [The eighty-four postures](../concepts/eighty-four-asanas.md)
+concepts: [The eighty-four postures taught by Śiva (HYP)](../concepts/eighty-four-asanas.md)
 
 
 _Notes: Known mainly through J. Birch's studies (recalled). Author name, count of postures and provenance low confidence._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._

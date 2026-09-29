@@ -26,8 +26,8 @@ I am not mind, intellect, ego or memory; not the ears, tongue, nose or eyes; not
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md), [The internal instrument (antaḥkaraṇa)](../concepts/antahkarana.md) · practices: [Negation 'not this, not this'](../practices/neti-neti.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md)
+concepts: [Ātman is brahman (as stated in the Māṇḍūkya)](../concepts/atman-brahman-identity.md), [The internal instrument (antaḥkaraṇa)](../concepts/antahkarana.md) · practices: [Negation 'not this, not this'](../practices/neti-neti.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md)
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

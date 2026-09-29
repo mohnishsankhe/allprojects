@@ -24,4 +24,4 @@ Formulating vows for beings' welfare — Śrīmālā's ten vows and three aspira
 _Notes: Contribution of U47 (Sakya/Kadam/Gelug presentation)._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka, skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

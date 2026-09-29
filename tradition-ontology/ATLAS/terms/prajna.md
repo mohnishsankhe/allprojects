@@ -24,7 +24,7 @@
 - Chinese: 般若 bore / 慧 hui  — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [Taijasa](taijasa.md), [Turīya](turiya.md), [sthitaprajña](sthitaprajna.md), [prajñāna](prajnana.md)
+**Related:** [taijasa](taijasa.md), [turīya](turiya.md), [sthitaprajña](sthitaprajna.md), [prajñāna](prajnana.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, extraction:bhagavad-gita/ch01-03, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U39-mahayana-sutras, skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka, skeleton:U02-brahmana-vedanga, skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U15-dvaita, extraction:bhagavad-gita/ch01-03, skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U39-mahayana-sutras, skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka, skeleton:U02-brahmana-vedanga, skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

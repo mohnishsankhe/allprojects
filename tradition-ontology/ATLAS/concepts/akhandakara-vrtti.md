@@ -13,4 +13,4 @@
 - part-of → [Pervasion by the mode but not by its result](vrtti-vyapti-phala-vyapti.md) — rests on [akhandakara](../texts/vedantasara.md#tea-vedantasara-akhandakara)
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

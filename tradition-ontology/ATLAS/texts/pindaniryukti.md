@@ -16,4 +16,4 @@
 A Mūlasūtra (Mūrtipūjaka list) on the purity of alms (piṇḍa): the faults arising from the donor, from the monk and in the receiving of food, which a mendicant must avoid; with Malayagiri's commentary.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

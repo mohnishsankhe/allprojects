@@ -16,4 +16,4 @@ Desire is never quenched by enjoyment but grows like fire fed with ghee (MDh 2.9
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering) — MDh 2.94 has 'na jātu kāmaḥ kāmānām upabhogena śāmyati | haviṣā kṛṣṇavartmeva bhūya evābhivardhate'. MDh 2.88 (reining in the senses like a charioteer his horses) was found. This rests on tea:manusmrti:2.94.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

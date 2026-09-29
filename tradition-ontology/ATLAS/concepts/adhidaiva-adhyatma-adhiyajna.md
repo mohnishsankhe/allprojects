@@ -21,4 +21,4 @@
 - 2026-09-29 text: corrected — tea:bhagavad-gita:7.29, tea:bhagavad-gita:7.30, tea:bhagavad-gita:8.1, tea:bhagavad-gita:8.2, tea:bhagavad-gita:8.3, tea:bhagavad-gita:8.4 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 - 2026-09-29 text-locate: confirmed — The planes are named as such in ŚB 10–11 (adhidevatam / adhyātmam) and in Nirukta 11.4 (adhiyajñam / adhidaivatam). Rests on teaching checks confirmed in this sweep: tea:satapatha-brahmana:10.6.2.1-4, tea:aitareya-aranyaka:3.2.5.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

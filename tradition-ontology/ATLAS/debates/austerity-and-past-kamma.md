@@ -32,4 +32,4 @@ Not everything felt is due to past deeds; self-mortification is an ignoble extre
 **Candidate readings:** P3-path: both value restraint (the suttas call restraint 'tapa', Snp 2.4) and differ in method; P2-standpoint: the Jain analysis of karma as substance versus the Buddhist analysis of karma as intention
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

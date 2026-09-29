@@ -16,4 +16,4 @@ Sant of Hāthras, author of the Ghaṭ Rāmāyaṇ, whose teaching of the inner 
 _Notes: Whether Tulsī Sāhib was Soamiji's guru is disputed within Sant Mat._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._

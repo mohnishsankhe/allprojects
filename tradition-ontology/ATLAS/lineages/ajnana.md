@@ -46,4 +46,4 @@ _none recorded_
 [Is there a self (ātman, puruṣa, jīva) — an enduring conscious subject distinct from body and changing cognitions — or only a stream of impersonal factors designated 'person'?](../debates/is-there-a-self.md), [Should one refuse to affirm or deny anything about what lies beyond experience (the other world, fruit of deeds, the perfected one after death)?](../debates/suspension-of-judgment.md)
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._

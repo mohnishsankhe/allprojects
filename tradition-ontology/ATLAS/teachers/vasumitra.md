@@ -17,4 +17,4 @@ One of the four great masters of the Vibhāṣā, who held that dharmas are call
 _Notes: Homonyms: scholars distinguish the Vibhāṣā master, the author of the Prakaraṇapāda and the doxographer; the tradition often identifies them. One id is used here with that caveat._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._

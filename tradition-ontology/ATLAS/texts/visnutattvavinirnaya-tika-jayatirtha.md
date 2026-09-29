@@ -17,4 +17,4 @@ Jayatīrtha's commentary on Madhva's Viṣṇutattvavinirṇaya, one of his comm
 _Notes: Existence inferred from the tradition's account that Jayatīrtha commented on all ten prakaraṇas._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:14 IST._

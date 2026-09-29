@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Āyurveda](../lineages/ayurveda.md)
 **Taught in:** [Āyurveda](../lineages/ayurveda.md), [The school of Dhanvantari (Dhānvantara-sampradāya, the surgeons' line)](../lineages/dhanvantari-sampradaya.md)
 
-Removal of vitiated blood, counted among the purificatory measures by the surgical school (with leeches, venesection and the like). RESTRICTED: summary only; no method recorded.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** all
 **Sources:** 
   - [Suśruta Saṃhitā](../texts/susruta-samhita.md) — ref: Sū 13-14; Śā 8
@@ -17,4 +17,4 @@ Removal of vitiated blood, counted among the purificatory measures by the surgic
 _Notes: Suśruta chapter refs recalled (Sū 13 leeches, Śā 8 venesection), not checked._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

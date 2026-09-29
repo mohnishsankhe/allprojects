@@ -54,6 +54,24 @@ There is a twofold commitment, jñāna-yoga for the sāṃkhyas and karma-yoga f
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 3.3-9
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 3.17-26
 ### [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
+As reported at BhG 18.3a (holders unnamed, 'some thinkers'): action is to be abandoned as faulty.
+- Stated as a reported view only; the text gives no argument for it.
+**Texts:** 
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.3
+### [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
+As reported at BhG 18.3b (holders unnamed, 'others'): acts of sacrifice, giving and austerity are not to be abandoned.
+- Stated as a reported view only.
+**Texts:** 
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.3
+### [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
+Sacrifice, giving and austerity are not to be given up but done, giving up attachment and fruit; relinquishment is threefold; the relinquisher is the one who gives up the fruit of action.
+- Sacrifice, giving and austerity purify the wise (18.5).
+- Renouncing prescribed action is not fitting; doing it from delusion is tāmasic, from fear of hardship rājasic, and only doing it as duty without attachment and fruit is sāttvic (18.7–9).
+- An embodied being cannot give up actions entirely, so the relinquisher is the one who gives up the fruit (18.11).
+- The threefold fruit of action comes after death to non-relinquishers, never to renouncers (18.12).
+**Texts:** 
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.4–12
+### [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md)
 Renunciation: action should be abandoned as an evil (the view the Gītā reports at 18.3); the path of knowledge of the Sāṃkhyas; mere abstention appeals to Arjuna, who asks why he is urged to terrible action if understanding is superior (3.1).
 - Arjuna's question (3.1–2; 5.1).
 - 'Some wise men say action should be abandoned as an evil' (18.3).
@@ -79,5 +97,6 @@ _Notes: Chs. 4–6 contribution to the dispute of this id (ch01-03 records 3.1�
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.1, tea:bhagavad-gita:5.2, tea:bhagavad-gita:5.5, tea:bhagavad-gita:5.13, tea:bhagavad-gita:5.4, tea:bhagavad-gita:6.1, tea:bhagavad-gita:5.3, tea:bhagavad-gita:5.6, tea:bhagavad-gita:6.2, tea:bhagavad-gita:6.3, tea:bhagavad-gita:6.4 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.1, tea:bhagavad-gita:18.3, tea:bhagavad-gita:18.4, tea:bhagavad-gita:18.5, tea:bhagavad-gita:18.6, tea:bhagavad-gita:18.7, tea:bhagavad-gita:18.8, tea:bhagavad-gita:18.9, tea:bhagavad-gita:18.11, tea:bhagavad-gita:18.12 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch16-18, skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._

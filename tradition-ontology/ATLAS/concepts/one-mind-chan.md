@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [Mind only (sūtra layer)](mind-only.md): Chan's one mind draws on Laṅkāvatāra and Awakening of Faith language; not identical with Yogācāra's analysis of consciousness. — rests on [379c18](../texts/chuanxin-fayao.md#tea-chuanxin-fayao-379c18)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

@@ -15,4 +15,4 @@
 An omen-book of 343 dohās (7 sargas × 7 saptakas × 7) narrating the Rāma story, used to seek Rāma's command. One of the twelve works generally accepted as Tulsīdās's.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._

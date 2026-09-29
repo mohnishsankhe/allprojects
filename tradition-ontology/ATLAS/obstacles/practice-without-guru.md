@@ -15,4 +15,4 @@ The haṭha texts hold that the techniques succeed only when received from a gur
   - [Khecarīvidyā](../texts/khecarividya.md) — rests_on: ["tea:khecarividya:1.topic.mantra-and-guru"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

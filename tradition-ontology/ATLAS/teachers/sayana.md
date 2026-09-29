@@ -21,4 +21,4 @@ _Notes: Brother of Mādhava, whom the tradition identifies with Vidyāraṇya (t
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/S%C4%81ya%E1%B9%87a, https://en.wikipedia.org/wiki/Vidyaranya — Confirmed: d. 1387; minister/scholar under Bukka I and Harihara II; brother of Mādhava (identified with Vidyāraṇya, disputed); commentaries on nearly all parts of the Veda; the Sudhānidhi digests are listed among his works.
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/S%C4%81ya%E1%B9%87a, https://en.wikipedia.org/wiki/Vidyaranya — Confirmed: died 1387, Vijayanagara; brother of Mādhava, whom tradition identifies with Vidyāraṇya (Wikipedia).
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

@@ -22,4 +22,4 @@ _Notes: Distinct from the Advaita māyā (cosmic appearance)._
 
 - 2026-09-29 text: corrected — tea:tattvartha-sutra:8.9 — Corrected by J: Renamed to trm:maya-kasaya: trm:maya in data is the Vedic/Vedānta māyā (creative power, illusion); the Jain passion of deceit has its own id trm:maya-kasaya.
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

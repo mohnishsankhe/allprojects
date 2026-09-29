@@ -9,6 +9,7 @@
 ## Definitions by tradition
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: The constant renouncer (nitya-saṃnyāsin) is one who neither hates nor craves (5.3); the renouncer and yogin is one who does the action that ought to be done without depending on its fruit, not one without sacred fires or rites (6.1); 'renouncer of all intentions' marks the one ascended to yoga (6.4).
 - [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md): One who has renounced; of four or six kinds.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: Renouncer: the threefold fruit of action (unwanted, wanted, mixed) accrues after death to non-relinquishers, never to renouncers (18.12); commentators differ on whether formal renouncers or relinquishers of fruit are meant.
 
 ## Forms in other languages
 
@@ -19,5 +20,6 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.3, tea:bhagavad-gita:6.1, tea:bhagavad-gita:6.4 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.12 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U04-minor-upanisads, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._

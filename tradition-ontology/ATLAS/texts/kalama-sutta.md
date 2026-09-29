@@ -45,10 +45,10 @@ A noble disciple free of covetousness and ill will, unconfused, pervades the dir
 
 _level: conventional · standpoint: seeker · path: meditation, action · stage: all · types: ethics, practice_
 
-concepts: [The four assurances](../concepts/four-assurances.md) · practices: [Development of the four divine abidings](../practices/brahmavihara-bhavana.md)
+concepts: [The four assurances](../concepts/four-assurances.md) · practices: [Development of the four divine abidings (brahmavihāra)](../practices/brahmavihara-bhavana.md)
 
 
 _Notes: SuttaCentral uid an3.65; Mahāsaṅgīti title 'Kesamuttisutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

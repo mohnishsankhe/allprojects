@@ -27,7 +27,7 @@ A chapter on the eight cleansing acts (aṣṭakarma), extending the six of the 
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: beginner · types: practice_
 
-concepts: [The doctrine of the cleansing acts](../concepts/satkarma-doctrine.md) · disputes: [Are the cleansing acts necessary before breath-control, and how many are there?](../debates/necessity-of-satkarma.md)
+concepts: [The six acts: the HYP's statement of when they are needed](../concepts/satkarma-doctrine.md) · disputes: [Are the cleansing acts necessary before breath-control, and how many are there?](../debates/necessity-of-satkarma.md)
 
 ### kalavancanodyota <a id="tea-hathatattvakaumudi-kalavancanodyota"></a>
 `skeleton` · confidence moderate
@@ -69,4 +69,4 @@ concepts: [Voluntary departure from the body (utkrānti)](../concepts/utkranti.m
 _Notes: Chapter titles checked against the local eBhāratī e-text (colophons)._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._

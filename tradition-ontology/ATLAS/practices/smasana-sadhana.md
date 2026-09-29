@@ -6,7 +6,7 @@
 **Convergence:** 2 independent lineage(s): [Bengali and Assamese Śākta tantra](../lineages/bengal-assam-sakta.md), [Kālīkula (the Kālī lineages)](../lineages/kalikula.md)
 **Taught in:** [Bengali and Assamese Śākta tantra](../lineages/bengal-assam-sakta.md), [Kālīkula (the Kālī lineages)](../lineages/kalikula.md)
 
-Night worship of Kālī/Tārā by the vīra in the cremation ground, praised in the Karpūrādistotra and practised at Tārāpīṭh. Restricted: summary only.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Karpūrādistotra (Hymn to Kālī)](../texts/karpuradi-stotra.md) — ref: 8-19; rests_on: ["tea:karpuradi-stotra:8-19"]
 
@@ -17,4 +17,4 @@ Night worship of Kālī/Tārā by the vīra in the cremation ground, praised in 
 - analogous: [Dwelling in the cremation ground](smasana-vasa.md) — the Pāśupata dwelling in the cremation ground (U17)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._

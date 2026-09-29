@@ -59,4 +59,4 @@ terms: [paramattha](../terms/paramattha.md), [sammuti](../terms/sammuti.md) · c
 _Notes: Section numbers follow SuttaCentral (bilara) segmentation; checked against the local e-text._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._

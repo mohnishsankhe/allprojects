@@ -10,4 +10,4 @@
 Eknāth's great-grandfather (tradition 1448–1513), said to have brought the image of Viṭṭhala back to Paṇḍharpūr from Vijayanagara.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._

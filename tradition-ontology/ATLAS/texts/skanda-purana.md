@@ -56,4 +56,4 @@ _Notes: Kāśī Khaṇḍa 6.28-45 (SkP 4.1.6): the inner (mānasa) tīrthas. Th
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:raw_etexts:skandapuranam_1, local:sources_raw/raw_etexts/purANam/skanda-purANam, https://en.wikipedia.org/wiki/Skanda_Purana, https://www.vyasaonline.com/skanda-purana/ — Extant and digitized (local khaṇḍa files; mAdhva-app). Web: seven khaṇḍas (Māheśvara, Vaiṣṇava, Brahma, Kāśī, Avanti, Nāgara, Prabhāsa) and the alternative six saṃhitās (Sanatkumāra, Sūta, Śaṅkarī, Vaiṣṇavī, Brāhmī, Saurī) confirmed; 81,100 verses (BhP 12.13.7) confirmed; early Skandapurāṇa with the 810 CE manuscript confirmed.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._

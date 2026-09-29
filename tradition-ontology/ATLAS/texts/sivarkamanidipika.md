@@ -16,4 +16,4 @@
 Appayya Dīkṣita's extensive commentary on Śrīkaṇṭha's Brahmasūtrabhāṣya, reviving the Śaiva Vedānta in the 16th century.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

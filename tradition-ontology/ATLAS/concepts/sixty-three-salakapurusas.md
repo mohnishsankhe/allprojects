@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The Lord's descent (avatāra / prādurbhāva)](avatara.md): the Jain universal history re-tells figures of the Rāmāyaṇa and Mahābhārata (Rāma, Kṛṣṇa) inside its own scheme — rests on [2](../texts/paumacariya.md#tea-paumacariya-2)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

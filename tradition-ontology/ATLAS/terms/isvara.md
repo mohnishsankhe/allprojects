@@ -1,12 +1,13 @@
 # īśvara
 
-`trm:isvara` · `skeleton` · confidence high
+`trm:isvara` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** ईश्वर
 **Literal:** lord
 
 ## Definitions by tradition
+- [Advaita Vedānta](../lineages/advaita-vedanta.md): In the Kārikā 1.28: the Lord established in the heart of all, whom the praṇava is to be known as.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The Lord dwelling in the heart of all beings, moving them by his māyā (BhG 18.61); the great Lord of beings who comes into being by his own māyā (4.6); in the Mokṣadharma, the Yoga thinkers' argument that without a Lord no one is freed (12.289.3).
 - [Sāṃkhya](../lineages/samkhya.md): Classical Sāṃkhya recognizes no established Īśvara as creator: Gauḍapāda argues the attributeless could not produce what has guṇas (on SK 61); the Sāṃkhya Sūtra holds 'Īśvara is not established' (1.92–99; 5.2–12; 6.64), yet admits emergent lords — the one absorbed in prakṛti who becomes all-knowing and all-doing (3.55–57). Theistic Sāṃkhya (Vijñānabhikṣu) salutes the Lord.
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): A special puruṣa untouched by afflictions, karma, fruition and residues (1.24), in whom the seed of omniscience is unsurpassed (1.25), teacher of the ancients (1.26), designated by the praṇava (1.27); his lordship has no equal or superior (YBh 1.24).
@@ -21,6 +22,7 @@
 - [Bhāṭṭa Mīmāṃsā](../lineages/bhatta-mimamsa.md): Kumārila rejects a creator Prajāpati (ŚV sambandhākṣepaparihāra 42–116); later Bhāṭṭas (Āpadeva, Laugākṣi Bhāskara) teach offering dharma to Īśvara/Govinda.
 - [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md): Nārāyaṇa, the third reality: the self of all, cause of the world, opposed to all evil and abode of infinite auspicious qualities, present in five forms.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: seeing the lord equally present everywhere one does not harm oneself (13.29); in 15.8 the living being of 15.7 is called īśvara as it takes up and leaves a body; the highest person is the imperishable lord who enters and sustains the three worlds (15.17).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: The Lord dwells in the region of the heart of all beings, causing them to revolve by his māyā as if mounted on a machine (18.61). The demonic hold the world to be without a Lord (anīśvara, 16.8) and claim 'I am lord' (16.14); lordliness (īśvara-bhāva) is part of the kṣatriya's nature (18.43).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The Lord: all this is to be dwelt in by the Lord (Īśa 1); the two birds, the Lord and the one who grieves (MuU 3.1.2); the great Lord of lords (ŚU 6.7); the māyin (ŚU 4.10); lord of all (BAU 4.4.22; MāU 6).
 - [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md): Rejected: a single permanent cause could not produce successive effects; 'being an effect' does not prove an intelligent world-maker; the Buddha is an authority who has become so, not an eternal one.
 - [Madhyamaka](../lineages/madhyamaka.md): The creator posited by others is refuted: if he creates without wishing he depends on another, if by wishing he depends on his wish (BCA 9.119–126); an eternal cause would produce all effects at once or never (Tattvasaṅgraha).
@@ -33,8 +35,10 @@
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:mandukya-karika:1.28 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.6, tea:bhagavad-gita:5.29 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.3, tea:bhagavad-gita:11.3, tea:bhagavad-gita:11.16, tea:bhagavad-gita:11.44 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.29, tea:bhagavad-gita:15.8, tea:bhagavad-gita:15.17 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:16.8, tea:bhagavad-gita:16.14, tea:bhagavad-gita:18.43, tea:bhagavad-gita:18.61, tea:bhagavad-gita:18.62 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U12-mimamsa, skeleton:U14-visistadvaita, extraction:bhagavad-gita/ch13-15, skeleton:U03-principal-upanisads, skeleton:U41-yogacara-pramana, skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:mandukya-karika/all, skeleton:U05-gita-epic, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U12-mimamsa, skeleton:U14-visistadvaita, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch16-18, skeleton:U03-principal-upanisads, skeleton:U41-yogacara-pramana, skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._

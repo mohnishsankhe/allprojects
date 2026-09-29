@@ -17,11 +17,13 @@ Bhagavad Gītā 1–3: Being one whose motive is the fruit of action (karmaphala
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.1; rests_on: ["tea:bhagavad-gita:6.1"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.11; rests_on: ["tea:bhagavad-gita:12.11"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.12; rests_on: ["tea:bhagavad-gita:12.12"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 17.12, 17.21, 18.12, 18.27, 18.34; rests_on: ["tea:bhagavad-gita:17.12", "tea:bhagavad-gita:17.21", "tea:bhagavad-gita:18.12", "tea:bhagavad-gita:18.27", "tea:bhagavad-gita:18.34"]
 
 ---
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.14, tea:bhagavad-gita:4.20, tea:bhagavad-gita:5.12, tea:bhagavad-gita:6.1 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.11, tea:bhagavad-gita:12.12 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:17.12, tea:bhagavad-gita:17.21, tea:bhagavad-gita:18.12, tea:bhagavad-gita:18.27, tea:bhagavad-gita:18.34 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._

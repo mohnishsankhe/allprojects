@@ -1,12 +1,12 @@
 # Dhanurāsana (the bow)
 
-`prc:dhanurasana` · `skeleton` · confidence high
+`prc:dhanurasana` · `sourced` · confidence moderate · _restricted: summary only_
 
 **Category:** posture
 **Convergence:** 2 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
 **Taught in:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 
-In the Haṭhapradīpikā the big toes are held with the hands and drawn up to the ear like a drawn bow (HYP 1.25); in the Gheraṇḍa the legs are stretched on the ground, the feet held from behind and the body curved like a bow (GS 2.18).
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** intermediate
 **Sources:** 
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 1.25; rests_on: ["tea:hatha-yoga-pradipika:1.25"]
@@ -16,4 +16,8 @@ In the Haṭhapradīpikā the big toes are held with the hands and drawn up to t
 _Notes: The two texts describe different forms under one name._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:hatha-yoga-pradipika:1.25 — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids). Restricted entry: method_summary checked summary-only (no steps, counts, durations, measures); warnings[] checked verbatim against the segments.
+
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

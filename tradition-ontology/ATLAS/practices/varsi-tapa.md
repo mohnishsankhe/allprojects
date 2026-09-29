@@ -6,11 +6,11 @@
 **Convergence:** 1 independent lineage(s): [Śvetāmbara](../lineages/svetambara.md)
 **Taught in:** [Śvetāmbara Mūrtipūjaka](../lineages/murtipujaka.md)
 
-In memory of Ṛṣabha's long fast, a practitioner alternates fasting days and eating days for about a year, ending on Akṣaya Tṛtīyā with sugarcane juice (restricted: prolonged fasting — summary and warnings only).
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 
 ## The texts' own warnings
 - Austerity is to be undertaken according to one's strength; fasting for fame or reward (nidāna) is faulty. — [Daśāśrutaskandha](../texts/dasasrutaskandha.md) 10
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

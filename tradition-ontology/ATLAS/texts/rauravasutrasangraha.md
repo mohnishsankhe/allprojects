@@ -14,4 +14,4 @@ The early doctrinal (vidyāpāda) portion associated with the Raurava; printed i
   - kind: original; name: in Rauravāgama vol. 1, ed. N. R. Bhatt, IFI 1961
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._

@@ -24,4 +24,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U44-indian-vajrayana, skeleton:U45-nyingma-bon, skeleton:U08-agama-catalogue, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U44-indian-vajrayana, skeleton:U45-nyingma-bon, skeleton:U08-agama-catalogue, skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

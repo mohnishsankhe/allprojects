@@ -18,4 +18,4 @@ In the month of Mārkaḻi the girls rise before dawn, wake one another, bathe, 
 _Notes: The dietary abstentions are a vow of restraint, not a prolonged fast._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._

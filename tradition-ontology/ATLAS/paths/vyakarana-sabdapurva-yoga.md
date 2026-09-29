@@ -18,4 +18,4 @@
 The order of stages is reconstructed from scattered verses of VP 1 and the Vṛtti; the tradition does not give a numbered ladder beyond VP 1.16's image of 'the first rung of the ladder to perfection'.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._

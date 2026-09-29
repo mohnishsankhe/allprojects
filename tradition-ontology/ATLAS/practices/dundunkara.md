@@ -14,4 +14,4 @@ A holy sound like a bull's bellow produced by touching the tongue-tip to the pal
 **Sequences:** [The five stages of the Pāśupata path (avasthā-pañcaka)](../paths/pasupata-five-stages.md)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:14 IST._

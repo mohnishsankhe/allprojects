@@ -13,6 +13,7 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13–15: what differs from the dispositions called knowledge is ignorance (13.12); tamas is born of ignorance (14.8); ignorance is the fruit of tamas and arises from it (14.16–17).
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): Ignorance, synonym of avidyā: 'something positive, indescribable as being or non-being, made of the three guṇas, opposed to knowledge' (Vedāntasāra).
 - [Trika ('the Triad')](../lineages/trika.md): Not the absence of knowledge but incomplete manifestation of the knowable (TĀ 1.25-26); twofold, in the intellect and in the person, the latter the root of saṃsāra (Tantrasāra 1).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: Ignorance: a mark of the demonic endowment (16.4); the demonic are 'deluded by ignorance' (16.15); Kṛṣṇa asks whether Arjuna's confusion born of ignorance (ajñāna-saṃmoha) is destroyed (18.72).
 
 ## Forms in other languages
 
@@ -25,5 +26,6 @@
 - 2026-09-29 text: corrected — tea:bhagavad-gita:10.11 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.15, tea:bhagavad-gita:5.16, tea:bhagavad-gita:4.42, tea:bhagavad-gita:4.40 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.12, tea:bhagavad-gita:14.8, tea:bhagavad-gita:14.16, tea:bhagavad-gita:14.17 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:16.4, tea:bhagavad-gita:16.15, tea:bhagavad-gita:18.72 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U09-samkhya, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15, skeleton:U13-advaita, skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U09-samkhya, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15, skeleton:U13-advaita, skeleton:U19-kashmir-saivism, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._

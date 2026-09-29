@@ -119,7 +119,7 @@ In the beginning this was brahman; it knew only itself: 'I am brahman' (ahaṃ b
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [brahman](../terms/brahman.md), [ātman](../terms/atman.md), [mahāvākya](../terms/mahavakya.md) · concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md), [The four great sayings (mahāvākya)](../concepts/mahavakyas.md) · teachers: [Vāmadeva](../teachers/vamadeva.md), [Manu Vaivasvata](../teachers/manu-vaivasvata.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md), [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md)
+terms: [brahman](../terms/brahman.md), [ātman](../terms/atman.md), [mahāvākya](../terms/mahavakya.md) · concepts: [Ātman is brahman (as stated in the Māṇḍūkya)](../concepts/atman-brahman-identity.md), [The four great sayings (mahāvākya)](../concepts/mahavakyas.md) · teachers: [Vāmadeva](../teachers/vamadeva.md), [Manu Vaivasvata](../teachers/manu-vaivasvata.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md), [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md)
 
 ### 1.4.11-15 <a id="tea-brhadaranyaka-upanisad-1-4-11-15"></a>
 `sourced` · confidence moderate
@@ -191,7 +191,7 @@ Ajātaśatru leads Gārgya to a sleeping man, calls him by names, and wakes him 
 
 _level: bridging · standpoint: experiential · path: knowledge · stage: intermediate · types: consciousness-mind, body-layers_
 
-terms: [hitā (nāḍī)](../terms/hita.md), [nāḍī](../terms/nadi.md), [suṣupti / suṣupta](../terms/susupti.md), [svapna](../terms/svapna.md), [vijñānamaya](../terms/vijnanamaya.md) · concepts: [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md), [Deep sleep](../concepts/deep-sleep.md), [The channels (nāḍī)](../concepts/nadis.md) · teachers: [Ajātaśatru of Kāśī](../teachers/ajatasatru-kasi.md)
+terms: [hitā (nāḍī)](../terms/hita.md), [nāḍī](../terms/nadi.md), [suṣupti](../terms/susupti.md), [svapna](../terms/svapna.md), [vijñānamaya](../terms/vijnanamaya.md) · concepts: [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md), [Deep sleep](../concepts/deep-sleep.md), [The channels (nāḍī)](../concepts/nadis.md) · teachers: [Ajātaśatru of Kāśī](../teachers/ajatasatru-kasi.md)
 
 ### 2.1.20 <a id="tea-brhadaranyaka-upanisad-2-1-20"></a>
 `sourced` · confidence high
@@ -249,7 +249,7 @@ As a lump of salt thrown into water dissolves and cannot be picked out, yet wher
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, death-dying_
 
-terms: [prajñānaghana / vijñānaghana](../terms/prajnanaghana.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md), [Maitreyī](../teachers/maitreyi.md)
+terms: [prajñānaghana](../terms/prajnanaghana.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md), [Maitreyī](../teachers/maitreyi.md)
 
 ### 2.4.13-14 <a id="tea-brhadaranyaka-upanisad-2-4-13-14"></a>
 `sourced` · confidence high
@@ -278,7 +278,7 @@ This honey-doctrine Dadhyañc Ātharvaṇa taught the two Aśvins, as the Ṛgve
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, teacher-transmission_
 
-terms: [māyā](../terms/maya.md), [brahman](../terms/brahman.md), [ātman](../terms/atman.md) · concepts: [The four great sayings (mahāvākya)](../concepts/mahavakyas.md), [The identity of the self and brahman](../concepts/atman-brahman-identity.md), [Māyā in the principal Upaniṣads](../concepts/maya.md) · practices: [The honey-doctrine (madhu-vidyā)](../practices/madhu-vidya.md) · teachers: [Dadhyañc Ātharvaṇa](../teachers/dadhyanc-atharvana.md)
+terms: [māyā](../terms/maya.md), [brahman](../terms/brahman.md), [ātman](../terms/atman.md) · concepts: [The four great sayings (mahāvākya)](../concepts/mahavakyas.md), [Ātman is brahman (as stated in the Māṇḍūkya)](../concepts/atman-brahman-identity.md), [Māyā in the principal Upaniṣads](../concepts/maya.md) · practices: [The honey-doctrine (madhu-vidyā)](../practices/madhu-vidya.md) · teachers: [Dadhyañc Ātharvaṇa](../teachers/dadhyanc-atharvana.md)
 
 ### 2.6.1-3 <a id="tea-brhadaranyaka-upanisad-2-6-1-3"></a>
 `sourced` · confidence high
@@ -498,7 +498,7 @@ As a falcon or eagle, tired of flying in the sky, folds its wings and heads for 
 
 _level: bridging · standpoint: experiential · path: knowledge · stage: advanced · types: consciousness-mind_
 
-terms: [suṣupti / suṣupta](../terms/susupti.md), [hitā (nāḍī)](../terms/hita.md), [prājña](../terms/prajna-mandukya.md), [abhaya](../terms/abhaya.md) · concepts: [Deep sleep](../concepts/deep-sleep.md), [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md)
+terms: [suṣupti](../terms/susupti.md), [hitā (nāḍī)](../terms/hita.md), [prājña (Māṇḍūkya)](../terms/prajna-mandukya.md), [abhaya](../terms/abhaya.md) · concepts: [Deep sleep](../concepts/deep-sleep.md), [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md)
 
 ### 4.3.22 <a id="tea-brhadaranyaka-upanisad-4-3-22"></a>
 `sourced` · confidence high
@@ -677,7 +677,7 @@ As a lump of salt has no inside or outside and is wholly a mass of taste, so thi
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-terms: [neti neti](../terms/neti-neti.md), [prajñānaghana / vijñānaghana](../terms/prajnanaghana.md), [amṛtatva](../terms/amrtatva.md) · concepts: ['Not so, not so' (neti neti)](../concepts/neti-neti.md), [The witness (sākṣin)](../concepts/saksin.md) · practices: [Negation 'not this, not this'](../practices/neti-neti.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md), [Maitreyī](../teachers/maitreyi.md)
+terms: [neti neti](../terms/neti-neti.md), [prajñānaghana](../terms/prajnanaghana.md), [amṛtatva](../terms/amrtatva.md) · concepts: ['Not so, not so' (neti neti)](../concepts/neti-neti.md), [The witness (sākṣin)](../concepts/saksin.md) · practices: [Negation 'not this, not this'](../practices/neti-neti.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md), [Maitreyī](../teachers/maitreyi.md)
 
 ### 5.1.1 <a id="tea-brhadaranyaka-upanisad-5-1-1"></a>
 `sourced` · confidence high
@@ -853,4 +853,4 @@ _Notes: Veda affiliation: White Yajurveda (Kāṇva and Mādhyandina recensions)
 
 - 2026-09-29 catalog+text-locate+websearch: confirmed — catalog:GRETIL-dev:brhadaranyaka-upanisad, text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/dcs/corpus/GRETIL/sa_bRhadAraNyakopaniSadkANva-recension-comm.txt (GRETIL Kāṇva BĀU with Śaṅkara's commentary), t — Confirmed: 6 adhyāyas and 47 brāhmaṇas (6+6+9+6+15+5) in the Kāṇva text. The Mādhyandina location is right: GRETIL ŚB 14.4.2 = BĀU 1.4 ('ātmaivedam agra āsīt puruṣavidhaḥ') and ŚB 14.9.4 ends with the vaṃśa. The horse passages (Kāṇva BĀU 1.1–2) stand elsewhere in the Mādhyandina ŚB. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._

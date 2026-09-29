@@ -14,4 +14,4 @@ Purification by overcoming doubt: seeking the causes of mentality-materiality (i
 **Sequences:** [The seven purifications (satta visuddhi)](../paths/seven-purifications.md)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

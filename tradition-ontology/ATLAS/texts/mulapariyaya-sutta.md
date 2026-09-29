@@ -59,4 +59,4 @@ terms: [nandī](../terms/nandi.md), [tathāgata](../terms/tathagata.md) · conce
 _Notes: SuttaCentral uid mn1; Mahāsaṅgīti title 'Mūlapariyāyasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

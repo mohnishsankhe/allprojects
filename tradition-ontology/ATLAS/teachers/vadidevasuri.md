@@ -12,4 +12,4 @@
 Śvetāmbara logician of Gujarat, author of the Pramāṇanayatattvāloka and Syādvādaratnākara; the tradition tells of his debate victory over the Digambara Kumudacandra at Siddharāja's court (1125).
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

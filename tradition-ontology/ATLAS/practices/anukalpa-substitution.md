@@ -13,4 +13,4 @@ Offering permitted substitutes in place of the Kaula substances or of an animal 
   - [Kālikā Purāṇa](../texts/kalika-purana.md) — ref: 67.23; 67.114-115; rests_on: ["tea:kalika-purana:67.19-23", "tea:kalika-purana:67.113-117"]
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._

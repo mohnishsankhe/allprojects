@@ -24,4 +24,4 @@ Liberation is the manifestation of the soul's own Śiva-nature, not the transfer
 **Candidate readings:** P2-standpoint: described from the Lord's giving (Pāśupata) or from the soul's latent nature (Siddhānta).; No reconciliation: the Siddhānta's rejection is explicit.
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:14 IST._

@@ -10,4 +10,4 @@ Great Bön master of the 8th c., who by Bön tradition upheld Bön under Trisong
 _Notes: Optional (Bön)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

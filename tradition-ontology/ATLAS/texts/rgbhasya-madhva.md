@@ -48,4 +48,4 @@ _Notes: Coverage of sūktas 1–40 and the opening verses checked against the De
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/List_of_works_by_Madhvacharya, https://search.worldcat.org/title/first-forty-suktas-of-rig-veda-with-word-for-word-meanings-in-sanskrit-extracted-from-mantrartha-manjari-of-sri-raghavendra-swami-based-on-the-tika-commentary-of-sri-jaya-tirtha-on-the-rigbhasya-of-sriman- — Confirmed: Madhva's Ṛgbhāṣya on the first 40 sūktas, with Jayatīrtha's ṭīkā and Rāghavendra's Mantrārthamañjarī. The 'three meanings' (ādhibhautika, ādhidaivika, ādhyātmika) is reported in the Mādhva sources found. Madhva's dates 1238–1317 are the standard scholarly account.
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:14 IST._

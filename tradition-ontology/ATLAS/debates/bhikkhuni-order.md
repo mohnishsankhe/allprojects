@@ -30,4 +30,4 @@ The canonical account: the Buddha, after three refusals, granted Mahāpajāpatī
 _Notes: Canonical content recorded faithfully; the modern debate is flagged recent. See U38's dsp:bhiksuni-ordination-revival for the Tibetan (Mūlasarvāstivāda) debate and U50's dsp:women-caste-liberation._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

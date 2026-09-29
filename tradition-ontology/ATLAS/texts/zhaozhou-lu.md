@@ -17,4 +17,4 @@ Sayings of Zhaozhou Congshen (778–897): 'Go wash your bowl'; 'the cypress tree
 _Notes: Not in the local Taishō volumes (Xuzangjing / Guzunsu yulu)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

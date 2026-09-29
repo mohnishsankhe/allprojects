@@ -18,4 +18,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 - 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_1.json (Anukramaṇī seer/deity/metre headers) — Headers: 'ājīgartiḥ śunaḥśepaḥ sa kṛtrimo vaiśvāmitro devarātaḥ' for 1.24–30 (the adoption as Devarāta Vaiśvāmitra is in the header itself). Aitareya Brāhmaṇa narrative (7.13–18) not re-checked.
 - 2026-09-28 text-locate: confirmed — text:sources_raw/dcs/dcs/data/conllu/files/Aitareyabrāhmaṇa (DCS) — Text-located: AB 7.13–18 (sold by Ajīgarta Sauyavasi, freed by praising the gods, taken into Viśvāmitra's line).
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

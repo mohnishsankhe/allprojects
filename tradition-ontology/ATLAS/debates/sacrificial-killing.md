@@ -28,4 +28,4 @@ Animal sacrifice is not a wholesome act.
 _Notes: Only the Śabara passage was checked; the Bhāṭṭa and Sāṃkhya (Vācaspati) positions are from general knowledge._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._

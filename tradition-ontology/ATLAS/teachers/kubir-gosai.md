@@ -9,4 +9,4 @@
 Poet of the Sāhebdhanī sect whose songs in the Sahajiyā-Bāul idiom are sung in Nadia.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._

@@ -9,4 +9,4 @@ Great chariot-warrior of the Pāṇḍava side who blows his conch (1.17). (The 
 _Notes: The Gītā uses the masculine; the epic tells that Śikhaṇḍin was born female. Linked in BhG ch. 1–3 at 1.17._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 23:14 IST._

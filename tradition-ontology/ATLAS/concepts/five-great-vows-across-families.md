@@ -18,4 +18,4 @@
 _Notes: The list and the term mahāvrata are identical in Jain and Yoga texts (see brw:jain-mahavratas-and-yoga-yamas). The Dharmasūtra list is recalled at chapter level._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:14 IST._

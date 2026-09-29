@@ -14,4 +14,4 @@
 Maṇḍana Miśra's treatise on bhāvanā, the efficient force expressed by the verbal suffix; commented on by Umbeka.
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

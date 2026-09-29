@@ -12,4 +12,4 @@
 Received the title 'Dalai' from the Mongol ruler Altan Khan in 1578 (applied retrospectively to his two predecessors); spread the Gelug among the Mongols; author of the Essence of Refined Gold.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

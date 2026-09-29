@@ -28,4 +28,4 @@ terms: [śivatva / śivasāmya](../terms/sivatva.md), [āṇava mala](../terms/a
 
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._

@@ -108,7 +108,7 @@ As if seeing a corpse in a charnel ground — one, two or three days dead, bloat
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice, death-dying_
 
-concepts: [The three marks](../concepts/three-marks.md) · practices: [The nine charnel-ground contemplations (navasivathikā)](../practices/navasivathika.md), [Contemplation of the unlovely (aśubhā-bhāvanā)](../practices/asubha-bhavana.md), [Mindfulness of death (maraṇassati)](../practices/maranassati.md)
+concepts: [The three marks](../concepts/three-marks.md) · practices: [The nine charnel-ground contemplations (navasivathikā)](../practices/navasivathika.md), [Contemplation of the foul (asubha-bhāvanā): summary only](../practices/asubha-bhavana.md), [Mindfulness of death (maraṇassati)](../practices/maranassati.md)
 
 _Superseded by [mn10:14](satipatthana-sutta.md#tea-satipatthana-sutta-mn10-14)_
 
@@ -524,7 +524,7 @@ Contemplation of dhammas, first section: the five hindrances (nīvaraṇa). The 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: [dhammānupassanā](../terms/dhammanupassana.md), [nīvaraṇa](../terms/nivarana.md) · concepts: [The four establishments of mindfulness (cattāro satipaṭṭhānā)](../concepts/four-satipatthanas.md), [The five hindrances (pañca nīvaraṇāni)](../concepts/five-hindrances.md) · practices: [The four establishments of mindfulness (satipaṭṭhāna)](../practices/satipatthana.md), [Contemplation of dhammas (dhammānupassanā)](../practices/dhammanupassana.md) · obstacles: [The five hindrances (nīvaraṇa)](../obstacles/five-hindrances.md), [Sensual desire (kāmacchanda)](../obstacles/kamacchanda.md), [Ill will (byāpāda)](../obstacles/byapada.md), [Dullness and drowsiness (thinamiddha)](../obstacles/thina-middha.md), [Restlessness and remorse (uddhaccakukkucca)](../obstacles/uddhacca-kukkucca.md), [Doubt (vicikicchā)](../obstacles/vicikiccha.md)
+terms: [dhammānupassanā](../terms/dhammanupassana.md), [nīvaraṇa](../terms/nivarana.md) · concepts: [The four establishments of mindfulness (cattāro satipaṭṭhānā)](../concepts/four-satipatthanas.md), [The five hindrances (pañca nīvaraṇāni)](../concepts/five-hindrances.md) · practices: [The four establishments of mindfulness (satipaṭṭhāna)](../practices/satipatthana.md), [Contemplation of dhammas (dhammānupassanā)](../practices/dhammanupassana.md) · obstacles: [The five hindrances (nīvaraṇa)](../obstacles/five-hindrances.md), [Sensual desire (kāmacchanda)](../obstacles/kamacchanda.md), [Ill will (byāpāda)](../obstacles/byapada.md), [Sloth and torpor (thīnamiddha)](../obstacles/thina-middha.md), [Restlessness and remorse (uddhaccakukkucca)](../obstacles/uddhacca-kukkucca.md), [Doubt (vicikicchā)](../obstacles/vicikiccha.md)
 
 ### mn10:37 <a id="tea-satipatthana-sutta-mn10-37"></a>
 `text-verified` · confidence high
@@ -535,7 +535,7 @@ The refrain. Thus he abides contemplating dhammas in dhammas internally, or exte
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice_
 
-terms: [dhammānupassanā](../terms/dhammanupassana.md), [nīvaraṇa](../terms/nivarana.md) · concepts: [The four establishments of mindfulness (cattāro satipaṭṭhānā)](../concepts/four-satipatthanas.md), [The five hindrances (pañca nīvaraṇāni)](../concepts/five-hindrances.md) · practices: [The four establishments of mindfulness (satipaṭṭhāna)](../practices/satipatthana.md), [Contemplation of dhammas (dhammānupassanā)](../practices/dhammanupassana.md) · obstacles: [The five hindrances (nīvaraṇa)](../obstacles/five-hindrances.md), [Sensual desire (kāmacchanda)](../obstacles/kamacchanda.md), [Ill will (byāpāda)](../obstacles/byapada.md), [Dullness and drowsiness (thinamiddha)](../obstacles/thina-middha.md), [Restlessness and remorse (uddhaccakukkucca)](../obstacles/uddhacca-kukkucca.md), [Doubt (vicikicchā)](../obstacles/vicikiccha.md)
+terms: [dhammānupassanā](../terms/dhammanupassana.md), [nīvaraṇa](../terms/nivarana.md) · concepts: [The four establishments of mindfulness (cattāro satipaṭṭhānā)](../concepts/four-satipatthanas.md), [The five hindrances (pañca nīvaraṇāni)](../concepts/five-hindrances.md) · practices: [The four establishments of mindfulness (satipaṭṭhāna)](../practices/satipatthana.md), [Contemplation of dhammas (dhammānupassanā)](../practices/dhammanupassana.md) · obstacles: [The five hindrances (nīvaraṇa)](../obstacles/five-hindrances.md), [Sensual desire (kāmacchanda)](../obstacles/kamacchanda.md), [Ill will (byāpāda)](../obstacles/byapada.md), [Sloth and torpor (thīnamiddha)](../obstacles/thina-middha.md), [Restlessness and remorse (uddhaccakukkucca)](../obstacles/uddhacca-kukkucca.md), [Doubt (vicikicchā)](../obstacles/vicikiccha.md)
 
 ### mn10:38 <a id="tea-satipatthana-sutta-mn10-38"></a>
 `text-verified` · confidence high
@@ -669,4 +669,4 @@ concepts: [The four establishments of mindfulness (cattāro satipaṭṭhānā)]
 _Notes: SuttaCentral uid mn10; Mahāsaṅgīti title 'Satipaṭṭhānasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
 **Taught in:** [Dharmaśāstra (the science of dharma; Dharmasūtra and Smṛti)](../lineages/dharmasastra.md)
 
-Summary only: an expiatory fast in which food follows the waning and waxing of the moon over a month (MDh 11.216).
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Manusmṛti (Mānava Dharmaśāstra)](../texts/manusmrti.md) — ref: 11.216; rests_on: ["tea:manusmrti:11.211-216"]
 
@@ -20,4 +20,4 @@ _Notes: Restricted (prolonged fasting): no quantities recorded._
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering) — MDh 11.216 has 'ekaikaṃ hrāsayet piṇḍaṃ kṛṣṇe śukle ca vardhayet | upaspṛśaṃs triṣavaṇam etac cāndrāyaṇaṃ smṛtam'; the yavamadhya form follows at 11.217. Recorded in summary only. This rests on confirmed teaching checks: tea:manusmrti:11.211-216.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

@@ -57,4 +57,4 @@ concepts: [Shinjin — true entrusting](../concepts/shinjin.md), [The rightly es
 _Notes: Letter numbering varies between editions; numbers given are those commonly used (moderate)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._

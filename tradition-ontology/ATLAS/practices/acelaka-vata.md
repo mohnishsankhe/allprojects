@@ -6,7 +6,7 @@
 **Convergence:** 2 independent lineage(s): [Ājīvika](../lineages/ajivika.md), [The śramaṇa movement](../lineages/sramana.md)
 **Taught in:** [Ājīvika](../lineages/ajivika.md), [The śramaṇa movement](../lineages/sramana.md)
 
-Summary only (restricted: includes prolonged fasting). Going naked; licking the hands; refusing food brought, prepared for oneself or offered by invitation; restrictions on where, when and from whom food is taken; eating only at intervals of days; standing, squatting, pulling out hair. The Ājīvika leaders are the Buddhist texts' examples of this 'development of the body'.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Mahāsaccaka Sutta](../texts/mahasaccaka-sutta.md) — ref: MN 36 §5–6; rests_on: ["tea:mahasaccaka-sutta:5-6"]
   - [Kassapa-sīhanāda Sutta](../texts/kassapasihanada-sutta.md) — ref: DN 8 §14; rests_on: ["tea:kassapasihanada-sutta:14"]
@@ -18,4 +18,4 @@ Summary only (restricted: includes prolonged fasting). Going naked; licking the 
 - The same verse: not worth a sixteenth of well-taught dharma. — [Uttarādhyayana Sūtra](../texts/uttaradhyayana-sutra.md) 9.44
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._

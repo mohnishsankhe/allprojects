@@ -47,10 +47,10 @@ Its list of meditation subjects is close to the Visuddhimagga's forty but not id
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-concepts: [The forty meditation subjects](../concepts/forty-kammatthanas.md)
+concepts: [The forty meditation subjects (kammaṭṭhāna)](../concepts/forty-kammatthanas.md)
 
 
 _Notes: Not in the local CBETA subset (only T08, T12, T47, T48 present). A Tibetan translation of its dhutaṅga section is reported (not checked). Chapter count from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

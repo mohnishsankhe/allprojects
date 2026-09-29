@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Chöd (gcod), 'Cutting'](../lineages/chod.md)
 **Taught in:** [Chöd (gcod), 'Cutting'](../lineages/chod.md)
 
-Summary only (restricted). Having trained in the liturgy, the practitioner goes to charnel grounds and places held to be haunted, practises Chöd there, especially at night, and meets the fear that arises by looking for the one who is afraid; wandering practitioners traditionally moved between many such places.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Prerequisites:** ['stable practice of the Chöd liturgy', "the teacher's permission"]
 **Sources:** 
@@ -16,4 +16,4 @@ Summary only (restricted). Having trained in the liturgy, the practitioner goes 
 - Not to be undertaken before the teacher permits and before one has stability; practised with self-clinging it increases fear and harm. — [The Great Bundle of Precepts: the profound Chöd instruction of the Perfection of Wisdom (shes rab kyi pha rol tu phyin pa zab mo gcod kyi man ngag gi gzhung bka' tshoms chen mo)](../texts/katsom-chenmo.md) frightening-places (thematic)
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._

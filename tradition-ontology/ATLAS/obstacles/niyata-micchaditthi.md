@@ -15,4 +15,4 @@ The Theravāda commentaries' name for the three views of DN 2 and MN 60 — ther
 _Notes: The commentarial term is recalled, not checked; the three views themselves are canonical._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._

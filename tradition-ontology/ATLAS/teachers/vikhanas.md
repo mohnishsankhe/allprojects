@@ -15,4 +15,4 @@ Founding sage of the Vaikhānasas and author of their Sūtra; the tradition iden
 _Notes: Checked in sources_raw/raw_etexts/mixed/ebhAratI-sampat/AgamaH/vaikhAnasam/bhRgumaharShiH/kriyAdhikAraH.md (Kriyādhikāra, eBhāratī/NSU Tirupati) and sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/4_rellit/vaisn/srinivasamakhi_vedantadesika_dasavidhahetunirupana.md (GRETIL, input by U. Hüsken)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._

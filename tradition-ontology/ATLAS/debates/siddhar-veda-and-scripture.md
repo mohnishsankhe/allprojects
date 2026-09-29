@@ -27,4 +27,4 @@ Both voices are within the same stream and often the same poem moves from conduc
 **The traditions' own objections:** The most radical Siddhars (Sivavākkiyar, Pāmbāṭṭi) reject the Veda's authority outright, not merely for the advanced; this is recorded, not reconciled away.
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

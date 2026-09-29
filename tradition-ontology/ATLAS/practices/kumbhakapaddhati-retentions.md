@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md)
 **Taught in:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md)
 
-RESTRICTED — existence and scope only: Raghuvīra's Kumbhakapaddhati is a manual devoted to breath-retention that describes many more kinds of kumbhaka than the Haṭhapradīpikā's eight. Their names and methods are not recorded here.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Sources:** 
   - [Kumbhakapaddhati](../texts/kumbhakapaddhati.md) — 
@@ -19,4 +19,4 @@ RESTRICTED — existence and scope only: Raghuvīra's Kumbhakapaddhati is a manu
 _Notes: Group entry; the individual retentions are a Phase-D target (names only, methods restricted)._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

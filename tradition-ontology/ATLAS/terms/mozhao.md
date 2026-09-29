@@ -18,4 +18,4 @@
 **Related:** [kanhua Chan / ganhwa Seon (Chan of observing the phrase)](kanhua-chan.md)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

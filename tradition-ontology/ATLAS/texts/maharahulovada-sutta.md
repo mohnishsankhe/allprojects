@@ -42,7 +42,7 @@ Meditate on love (abandoning ill will), compassion (cruelty), rejoicing (discont
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-practices: [Loving-kindness (mettā-bhāvanā)](../practices/metta-bhavana.md), [Development of compassion (karuṇā)](../practices/karuna-bhavana.md), [Development of rejoicing (muditā)](../practices/mudita-bhavana.md), [Development of equanimity (upekkhā)](../practices/upekkha-bhavana.md), [Contemplation of the unlovely (aśubhā-bhāvanā)](../practices/asubha-bhavana.md), [Perception of impermanence](../practices/anicca-sanna.md) · obstacles: [Conceit (māna)](../obstacles/mana.md) · teachers: [Rāhula](../teachers/rahula.md)
+practices: [Loving-kindness (mettā-bhāvanā)](../practices/metta-bhavana.md), [Development of compassion (karuṇā)](../practices/karuna-bhavana.md), [Development of rejoicing (muditā)](../practices/mudita-bhavana.md), [Development of equanimity (upekkhā)](../practices/upekkha-bhavana.md), [Contemplation of the foul (asubha-bhāvanā): summary only](../practices/asubha-bhavana.md), [Perception of impermanence](../practices/anicca-sanna.md) · obstacles: [Conceit (māna)](../obstacles/mana.md) · teachers: [Rāhula](../teachers/rahula.md)
 
 ### 25-30 <a id="tea-maharahulovada-sutta-25-30"></a>
 `skeleton` · confidence high
@@ -57,4 +57,4 @@ practices: [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati
 _Notes: SuttaCentral uid mn62; Mahāsaṅgīti title 'Mahārāhulovādasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

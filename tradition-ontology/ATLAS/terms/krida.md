@@ -15,4 +15,4 @@
 - analogous: [līlā](lila.md) — both name divine activity as play, without need
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:14 IST._

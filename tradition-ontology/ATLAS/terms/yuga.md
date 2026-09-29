@@ -29,4 +29,4 @@ _Notes: The later cycle of four yugas is contributed by other units._
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.17 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.8 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U32-jyotisa, skeleton:U01-vedic-samhitas, skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, skeleton:U32-jyotisa, skeleton:U01-vedic-samhitas, skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._

@@ -60,7 +60,7 @@ There are as many postures as there are species of living beings, and Maheśvara
 
 _level: conventional · standpoint: cosmic · path: body-breath · stage: all · types: practice_
 
-concepts: [The eighty-four postures](../concepts/eighty-four-asanas.md) · practices: [Siddhāsana (the adept's seat)](../practices/siddhasana.md), [Padmāsana (the lotus seat)](../practices/padmasana.md)
+concepts: [The eighty-four postures taught by Śiva (HYP)](../concepts/eighty-four-asanas.md) · practices: [Siddhāsana (the adept's seat)](../practices/siddhasana.md), [Padmāsana (the lotus seat)](../practices/padmasana.md)
 
 ### 10-12 <a id="tea-goraksasataka-10-12"></a>
 `skeleton` · confidence high
@@ -311,7 +311,7 @@ Navel above, palate below, sun above, moon below: the practice called viparīta 
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice, teacher-transmission_
 
-concepts: [The guru in the haṭha texts](../concepts/guru-in-hatha.md) · practices: `prc:viparitakarani`, [Viparītakaraṇī (the inverting technique)](../practices/viparita-karani.md)
+concepts: [The guru in haṭha](../concepts/guru-in-hatha.md) · practices: `prc:viparitakarani`, [Viparītakaraṇī (the inverting technique)](../practices/viparita-karani.md)
 
 ### 60-62 <a id="tea-goraksasataka-60-62"></a>
 `skeleton` · confidence moderate
@@ -439,4 +439,4 @@ terms: [pada](../terms/pada.md) · concepts: [Equal taste (samarasa)](../concept
 _Notes: Refs in this shard follow the Kuvalayananda–Shukla (GRETIL) numbering. U28 may add the haṭha analysis._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._

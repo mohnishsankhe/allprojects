@@ -13,4 +13,4 @@
 - leads-to → [Signs of liberation in the chart](moksa-in-the-chart.md): renunciation-yogas and the signs of liberation are distinct: the first shows entering an order, the second the final state — rests on [15.1](../texts/brhat-jataka.md#tea-brhat-jataka-15-1), [25.15](../texts/brhat-jataka.md#tea-brhat-jataka-25-15)
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._

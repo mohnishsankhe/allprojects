@@ -16,4 +16,4 @@ The Kauthuma Sāmaveda collection of mantras for the domestic rites — marriage
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:eBharati:ChAndogyabrAhmaNam, catalog:raw_etexts:chandogya-brahmanam, https://www.wisdomlib.org/hinduism/book/panchavimsha-brahmana-english-translation/d/doc1473684.html — Extant locally as the Chāndogya Brāhmaṇa. The Mantra Brāhmaṇa is its first two prapāṭhakas (domestic-rite mantras, used with Gobhila); the Chāndogya Upaniṣad is prapāṭhakas 3–10, as the entry says. This structure is standard and is described in the Kauthuma text survey.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

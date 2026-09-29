@@ -1,12 +1,14 @@
 # svapna
 
-`trm:svapna` · `skeleton` · confidence high
+`trm:svapna` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** स्वप्न
 **Literal:** dream; sleep
 
 ## Definitions by tradition
+- [Advaita Vedānta](../lineages/advaita-vedanta.md): In the Kārikā ch.2: dream, taken as the ground from which the unreality of entities is shown. | In ch.4: dream; its objects and body are false; dream and waking are objects of each other.
+- [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): In this text: dream, the station of taijasa.
 - [Āyurveda](../lineages/ayurveda.md): Lineage contribution (Āyurveda): dreams are sevenfold — of what was seen, heard, experienced, desired, imagined, portending, and born of doṣas (Ca In 5.43); in Ca Sū 11.35 'svapna' = sleep as a support.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Dream: the junction between this world and the other, where the person is his own light and creates chariots and roads (BAU 4.3.9-10); the field of taijasa (MāU 4); where the mind experiences its greatness (PrU 4.5).
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): Dream: the state in which the self, as taijasa, experiences mental impressions; its creation is 'mere māyā' (BS 3.2.3); the model for the waking world's falsity (GK 2).
@@ -23,4 +25,9 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U41-yogacara-pramana, skeleton:U11-nyaya-vaisesika, skeleton:U19-kashmir-saivism, skeleton:U46-kagyu, skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:mandukya-karika:2.1, tea:mandukya-karika:2.2, tea:mandukya-karika:2.3, tea:mandukya-karika:2.5, tea:mandukya-karika:4.33, tea:mandukya-karika:4.34, tea:mandukya-karika:4.35, tea:mandukya-karika:4.36, tea:mandukya-karika:4.39, tea:mandukya-karika:4.63, tea:mandukya-karika:4.67 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
+- 2026-09-29 text: confirmed — tea:mandukya-upanisad:4, tea:mandukya-upanisad:10 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
+
+_Contributed by: extraction:mandukya-karika/all, extraction:mandukya-upanisad/all, skeleton:U30-ayurveda-rasa, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U41-yogacara-pramana, skeleton:U11-nyaya-vaisesika, skeleton:U19-kashmir-saivism, skeleton:U46-kagyu, skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._

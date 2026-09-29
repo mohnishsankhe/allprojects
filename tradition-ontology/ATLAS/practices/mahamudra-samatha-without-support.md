@@ -13,4 +13,4 @@ The mind rests without any object, letting thoughts subside in their own place, 
   - [The Aspiration Prayer of Mahāmudrā](../texts/aspiration-prayer-of-mahamudra.md) — ref: samatha-vipasyana; rests_on: ["tea:aspiration-prayer-of-mahamudra:samatha-vipasyana"]
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

@@ -16,4 +16,4 @@ The Bengali poet whom the Sahajiyās claim as their master: lover of the washerw
 _Notes: The 'Caṇḍīdās problem': several poets used the name; U26 owns Caṇḍīdās as a Vaiṣṇava poet._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._

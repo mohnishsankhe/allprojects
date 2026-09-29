@@ -39,4 +39,4 @@ The theorists themselves argue for exclusive claims; the reconciliation treats t
 **The traditions' own objections:** Bhoja holds that only śṛṅgāra is truly rasa; Rūpa's school holds bhakti-rasa to be rasa in the highest sense, not one perspective among others.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._

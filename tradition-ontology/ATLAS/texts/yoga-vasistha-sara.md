@@ -17,4 +17,4 @@ A brief anthology of key Yoga Vāsiṣṭha verses arranged by topic (dispassion
 
 - 2026-09-29 websearch: confirmed — https://archive.arunachala.org/docs/yoga-vs, https://sriramanamaharishi.com/yoga-vaasishtha/yoga-vasishta-sara-introduction/ — An anonymous condensation of the Yoga Vāsiṣṭha into about 230 couplets in 10 chapters; this confirms the recalled structure.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

@@ -21,4 +21,4 @@
 **Related:** [agni](agni.md)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

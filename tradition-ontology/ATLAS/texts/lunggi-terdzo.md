@@ -14,4 +14,4 @@
 Longchenpa's autocommentary on the Chöying Dzöd, supporting each vajra verse with quotations from the mind-series and instruction-series tantras.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

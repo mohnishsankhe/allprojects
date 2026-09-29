@@ -20,4 +20,4 @@ Author of the Tirumantiram, one of the sixty-three Nāyaṉmārs and counted amo
 _Notes: U22 contribution; U18 owns the full entry. TM 69 names his seven (or eight) disciples, among them Kālāṅki and Kañcamalaiyaṉ. Counted in the popular list of the eighteen Siddhars (see cpt:eighteen-siddhars); the samādhi place given follows that list and is recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

@@ -26,4 +26,4 @@
 **Related:** [dāna](dana.md), [sīla](sila.md), [kṣānti](ksanti.md), [vīrya](virya.md), [dhyāna](dhyana.md), [Prājña](prajna.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka, skeleton:U38-early-schools, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U39-mahayana-sutras, skeleton:U40-madhyamaka, skeleton:U38-early-schools, skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

@@ -13,4 +13,4 @@
 Anuruddha's verse manual on the delimitation of mind and matter, a second Abhidhamma primer by the author of the Abhidhammatthasaṅgaha.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

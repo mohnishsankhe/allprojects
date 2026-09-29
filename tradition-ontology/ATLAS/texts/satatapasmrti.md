@@ -15,4 +15,4 @@ A short smṛti ascribed to Śātātapa, one of the twenty lawgivers, chiefly on
 
 - 2026-09-28 catalog: confirmed — catalog:eBharati:aShTAdashasmRtayaH (… iti śātātapasmṛtiḥ) — Low-confidence entry confirmed as extant; YājñS 1.5 names Śātātapa.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

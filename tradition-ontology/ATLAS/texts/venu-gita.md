@@ -21,4 +21,4 @@ The gopīs' song on the sound of Kṛṣṇa's flute and its effect on all being
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md — BhP 10.21 (20 verses): the gopīs' songs on Kṛṣṇa's flute (e.g. 10.21.7); confirmed.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

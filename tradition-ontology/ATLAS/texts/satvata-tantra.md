@@ -13,4 +13,4 @@ A later text on Kṛṣṇa's descents and devotion to the divine name, in dialo
 _Notes: GRETIL 'satvatatantra'. Affiliation to Pāñcarātra is nominal; listed here to prevent confusion with src:satvata-samhita._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._

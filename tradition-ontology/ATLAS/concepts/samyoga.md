@@ -14,4 +14,4 @@
 - obstructs → [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](kaivalya.md) — rests on [2.25](../texts/yoga-sutra.md#tea-yoga-sutra-2-25)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 23:14 IST._

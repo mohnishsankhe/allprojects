@@ -12,4 +12,4 @@ Desire, anger, greed, fear and sleep — the five faults of yoga that the seers 
   - [Mokṣadharma (Mokṣadharmaparvan)](../texts/moksadharma.md) — ref: 12.232.4; rests_on: ["tea:moksadharma:12.232.4"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._

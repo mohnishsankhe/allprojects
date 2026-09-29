@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Confirmed: the groups follow the Adyar volumes (Yoga 1920, Sāmānya Vedānta 1921, Vaiṣṇava 1923, Śaiva 1925, Śākta 1925, Saṃnyāsa 1929) and match the local group lists in raw_etexts. The Muktikā itself lists by Veda only. No teaching ids cited.
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 23:14 IST._

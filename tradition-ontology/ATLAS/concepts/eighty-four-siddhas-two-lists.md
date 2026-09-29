@@ -15,11 +15,11 @@
 ## Relations (interpretation layer)
 - corresponds-to-in-map → [The eighty-four siddhas](eighty-four-siddhas.md): the Buddhist list
 - corresponds-to-in-map → [The eighty-four siddhas in Nāth tradition](eighty-four-siddhas-natha.md): the Nāth list
-- corresponds-to-in-map → [The Mahāsiddhas of the Haṭhapradīpikā (1.5–9)](hyp-mahasiddha-list.md)
+- corresponds-to-in-map → [The list of great adepts in HYP 1.5-9](hyp-mahasiddha-list.md)
 - corresponds-to-in-map → [The Siddhas of the Kula (Kaulajñānanirṇaya lists)](kjn-siddha-lists.md)
 - contrasts-with → [The eighteen Siddhars (patiṉeṇ cittarkaḷ) — the lists](eighteen-siddhars.md): the Tamil count of eighteen, which also includes Korakkar (Gorakṣa)
 
 _Notes: The number 84 is shared; the membership differs. The overlap is recorded as brw:natha-mahasiddha (U21) with U49 evidence._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:14 IST._

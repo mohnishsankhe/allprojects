@@ -37,4 +37,4 @@ Yes: the primal vow selected the nenbutsu alone; set aside the holy path, the mi
 **Candidate readings:** P3-path: exclusive nenbutsu as one temperament's path, all others valid for others (Hōnen's own Seven-Article Pledge forbids disparaging other schools); P4-stage / age: selection as fitted to the last age (Daochuo's time and capacity)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._

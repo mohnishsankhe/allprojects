@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — rests_on: tea:garuda-purana:2.5.30-37, tea:garuda-purana:2.5.39-40, tea:garuda-purana:2.5.49-55, tea:garuda-purana:2.5.85-154 — All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._

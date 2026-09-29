@@ -20,4 +20,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.21, tea:bhagavad-gita:9.11 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 23:14 IST._

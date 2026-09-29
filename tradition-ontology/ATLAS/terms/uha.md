@@ -16,4 +16,4 @@
 **Related:** [siddhi](siddhi.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:14 IST._

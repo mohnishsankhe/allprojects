@@ -18,4 +18,4 @@
 - contrasts-with → [Īśvara (the Lord)](isvara.md): Yoga's Īśvara is a special puruṣa who is not the maker of the world; Nyāya's Īśvara is the efficient cause. — rests on [5.1](../texts/nyaya-kusumanjali.md#tea-nyaya-kusumanjali-5-1)
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 23:14 IST._

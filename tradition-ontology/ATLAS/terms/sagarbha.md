@@ -16,4 +16,4 @@
 **Related:** [sahita (kumbhaka)](sahita-kumbhaka.md)
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

@@ -19,4 +19,4 @@
 Verified locally against the DCS text of the Gheraṇḍasaṃhitā (1.10-11: śodhanaṃ dṛḍhatā caiva sthairyaṃ dhairyaṃ ca lāghavam / pratyakṣaṃ ca nirliptaṃ ca …; ṣaṭkarmaṇā śodhanaṃ … samādhinā nirliptaṃ ca muktir eva na saṃśayaḥ). The chapter order of the text follows the seven means.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:14 IST._

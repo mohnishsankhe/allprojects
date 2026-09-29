@@ -529,7 +529,7 @@ In the intermediate (state, dream) there is creation, for (scripture) says so.
 
 _level: illusory · standpoint: experiential · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: [svapna](../terms/svapna.md) · concepts: [The three states and the fourth (avasthā-traya, turīya)](../concepts/three-states-and-turiya.md), [Dream](../concepts/dream-analogy.md)
+terms: [svapna](../terms/svapna.md) · concepts: [The three states and the fourth (waking, dream, deep sleep, turīya)](../concepts/three-states-and-turiya.md), [Dream](../concepts/dream-analogy.md)
 
 ### 3.2.3 <a id="tea-brahma-sutra-3-2-3"></a>
 `skeleton` · confidence high
@@ -549,7 +549,7 @@ The absence of that (dream, i.e. deep sleep) takes place in the channels (nāḍ
 
 _level: conventional · standpoint: experiential · path: knowledge · stage: all · types: consciousness-mind_
 
-terms: [suṣupti / suṣupta](../terms/susupti.md) · concepts: [The three states and the fourth (avasthā-traya, turīya)](../concepts/three-states-and-turiya.md)
+terms: [suṣupti](../terms/susupti.md) · concepts: [The three states and the fourth (waking, dream, deep sleep, turīya)](../concepts/three-states-and-turiya.md)
 
 ### 3.2.10 <a id="tea-brahma-sutra-3-2-10"></a>
 `skeleton` · confidence moderate
@@ -906,7 +906,7 @@ But (the knowers) approach (Brahman) as the self, and (the texts) make (them) gr
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, practice_
 
-terms: [ātman](../terms/atman.md), [ahaṅgraha-upāsanā](../terms/ahangraha-upasana.md) · concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md)
+terms: [ātman](../terms/atman.md), [ahaṅgraha-upāsanā](../terms/ahangraha-upasana.md) · concepts: [Ātman is brahman (as stated in the Māṇḍūkya)](../concepts/atman-brahman-identity.md)
 
 ### 4.1.4 <a id="tea-brahma-sutra-4-1-4"></a>
 `skeleton` · confidence high
@@ -1242,4 +1242,4 @@ terms: [mokṣa](../terms/moksa.md) · concepts: [Liberation (mokṣa) in Advait
 _Notes: Pāda themes (per Śaṅkara): 1.1 texts with clear marks of Brahman; 1.2 unclear marks, Brahman as object of meditation; 1.3 unclear marks, Brahman as object of knowledge; 1.4 doubtful words (avyakta, ajā) claimed by Sāṃkhya; 2.1 objections from smṛti (Sāṃkhya, Yoga) and reason answered; 2.2 critique of Sāṃkhya, Vaiśeṣika, Buddhists, Jains, Pāśupatas and (per Śaṅkara) Pāñcarātra; 2.3 creation of the elements and nature of the jīva; 2.4 the prāṇas; 3.1 transmigration (for dispassion); 3.2 the states of the self and the nature of Brahman; 3.3 combination of meditations; 3.4 auxiliaries of knowledge and the āśramas; 4.1 repetition and the effects of knowledge; 4.2 departure at death; 4.3 the path of the gods; 4.4 the liberated state. All sūtra numbers in this shard follow Śaṅkara's numbering._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

@@ -12,6 +12,7 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): One's inherent nature: it is svabhāva that acts (BhG 5.14); the varṇa duties arise from it (18.41); for Prahlāda all states arise and cease by svabhāva (MBh 12.215.15).
 - [Mahāyāna](../lineages/mahayana.md): What dharmas are empty of: the Heart says the aggregates are empty of own-being.
 - [Gelug](../lineages/gelug.md): In Madhyamaka analysis, inherent existence (rang bzhin gyis grub pa) — existence from the object's own side — is the object of negation; 'svabhāva' in the sense of the final nature of things (emptiness) is accepted.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: Own nature: the threefold faith of embodied beings is born of it (17.2); the actions of the four varṇas are distributed by the guṇas arising from it, and each varṇa's work is 'born of nature' (18.41–44); doing the action ordained by one's own nature one incurs no fault (18.47); bound by nature-born action, Arjuna will do even unwillingly what he refuses out of delusion (18.60).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Inherent nature: a candidate cause (ŚU 1.2); those who say it is the cause are deluded (6.1).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 8.3: the definition of adhyātma: 'own being' (svabhāvo 'dhyātmam ucyate), following the definition of Brahman as the supreme imperishable.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: The lord creates neither agency nor actions nor the link of action and fruit; it is svabhāva that is at work (5.14).
@@ -36,7 +37,8 @@ _Notes: Whose 'own being' is meant (Brahman's, as the inner self, or the individ
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:17.2, tea:bhagavad-gita:18.41, tea:bhagavad-gita:18.42, tea:bhagavad-gita:18.43, tea:bhagavad-gita:18.44, tea:bhagavad-gita:18.47, tea:bhagavad-gita:18.60 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:8.3 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.14 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U05-gita-epic, skeleton:U39-mahayana-sutras, skeleton:U47-sakya-kadam-gelug, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U33-sramana, skeleton:U38-early-schools, skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U05-gita-epic, skeleton:U39-mahayana-sutras, skeleton:U47-sakya-kadam-gelug, extraction:bhagavad-gita/ch16-18, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch04-06, skeleton:U33-sramana, skeleton:U38-early-schools, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._

@@ -6,9 +6,8 @@
 **Convergence:** 1 independent lineage(s): [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
 **Taught in:** [Siddha medicine (cittā maruttuvam)](../lineages/siddha-medicine.md), [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
 
-Summary only: regimens held to make the body firm, remove the humours at their times, reverse grey hair and wrinkles (TM 727) and prolong life for yoga — herbal kaṟpam, breath and yogic kaṟpam, and mineral-metal kaṟpam. No preparations, doses or durations are recorded; the mineral and mercurial forms are restricted.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
-**Signs of progress:** grey hair and wrinkles perish; the body becomes lustrous 'like collyrium' (TM 727) — the text's claim
 **Sources:** 
   - [Tirumantiram](../texts/tirumantiram.md) — ref: 724-727; rests_on: ["tea:tirumantiram:724", "tea:tirumantiram:727"]
   - [Tiruvaḷḷuvar ñāṉam (the wisdom of Tiruvaḷḷuvar)](../texts/tiruvalluvar-nanam.md) — ref: 14, 17; rests_on: ["tea:tiruvalluvar-nanam:14", "tea:tiruvalluvar-nanam:17"]
@@ -23,4 +22,4 @@ Summary only: regimens held to make the body firm, remove the humours at their t
 - partial: [Rejuvenation therapy (rasāyana) — herbal](rasayana.md) — Āyurvedic rejuvenation; the Siddha form includes yogic and breath means
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

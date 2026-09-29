@@ -11,4 +11,4 @@ Wearing the marks of a devotee or performing worship for show while the heart is
   - [Vacanas of Basavaṇṇa (Basavaṇṇanavara vacanagaḷu)](../texts/basavanna-vacanas.md) — ref: vacana 'Kallanāgara kaṇḍare…'; rests_on: ["tea:basavanna-vacanas:kallanagara-kandare"]
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._

@@ -24,10 +24,10 @@ Six animals — snake, crocodile, bird, dog, jackal and monkey — tied to one r
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-practices: [Mindfulness directed to the body (kāyagatāsati)](../practices/kayagatasati.md), [Sense restraint (indriyasaṃvara)](../practices/indriya-samvara.md)
+practices: [Mindfulness directed to the body (kāyagatāsati): summary only](../practices/kayagatasati.md), [Sense restraint (indriyasaṃvara)](../practices/indriya-samvara.md)
 
 
 _Notes: SuttaCentral uid sn35.247; Mahāsaṅgīti title 'Chappāṇakopamasutta' (checked locally). SN 35.206 in the PTS numbering._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

@@ -23,4 +23,4 @@
 
 - 2026-09-29 text: confirmed — tea:tattvartha-sutra:8.9 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U16-bhedabheda, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U16-bhedabheda, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._

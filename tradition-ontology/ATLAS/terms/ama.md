@@ -17,4 +17,4 @@
 _Notes: AHS Sū 13.25 checked in the DCS e-text; no teaching entry written for it._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

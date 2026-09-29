@@ -26,4 +26,4 @@ _Notes: The Gītā does not forbid such worship; it calls it finite in fruit and
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.20, tea:bhagavad-gita:7.21, tea:bhagavad-gita:7.22, tea:bhagavad-gita:7.23, tea:bhagavad-gita:9.23, tea:bhagavad-gita:9.24, tea:bhagavad-gita:9.25 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._

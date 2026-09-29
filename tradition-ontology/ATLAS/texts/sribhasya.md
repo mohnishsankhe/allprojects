@@ -251,7 +251,7 @@ In deep sleep the self rests in the supreme Self within the heart and its channe
 
 _level: conventional · standpoint: experiential · path: general · stage: all · types: consciousness-mind_
 
-terms: [suṣupti / suṣupta](../terms/susupti.md) · concepts: [Deep sleep](../concepts/deep-sleep.md), [The 'I' is the self (aham-artha)](../concepts/aham-artha.md) · teachers: [Rāmānuja](../teachers/ramanuja.md)
+terms: [suṣupti](../terms/susupti.md) · concepts: [Deep sleep](../concepts/deep-sleep.md), [The 'I' is the self (aham-artha)](../concepts/aham-artha.md) · teachers: [Rāmānuja](../teachers/ramanuja.md)
 
 ### 4.1 <a id="tea-sribhasya-4-1"></a>
 `skeleton` · confidence moderate
@@ -338,4 +338,4 @@ terms: [brahman](../terms/brahman.md), [bhakti](../terms/bhakti.md), [Śriyaḥp
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._

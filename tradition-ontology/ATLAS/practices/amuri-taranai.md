@@ -6,11 +6,11 @@
 **Convergence:** 2 independent lineage(s): [Śaiva Siddhānta](../lineages/saiva-siddhanta.md), [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
 **Taught in:** [The Nāyaṉmārs and the Tirumuṟai (Tamil Śaiva bhakti)](../lineages/nayanmar.md), [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
 
-Summary only: a section of the Tirumantiram's third tantra, read in the Siddha tradition as the use of a bodily 'nectar' (amuri) for rejuvenation. Nothing further recorded.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Tirumantiram](../texts/tirumantiram.md) — ref: 3rd tantra, section 20 (amuritāraṇai)
 
 _Notes: Restricted (bodily-substance practice). Section title checked in the local TM e-text; interpretation low._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

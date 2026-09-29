@@ -10,4 +10,4 @@ The ancestors' displeasure shown in the chart or query, bringing childlessness a
 **Antidotes:** [Remedies for affliction from the ancestors](../practices/pitr-dosa-parihara.md)
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._

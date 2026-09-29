@@ -17,4 +17,4 @@ Master who in the Anle ji taught that in the last age of the Dharma the holy pat
 _Notes: Counting details (70,000; beans) are from biographies and recalled, low-moderate confidence._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._

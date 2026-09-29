@@ -29,4 +29,4 @@ terms: [huatou / hwadu (critical phrase)](../terms/huatou.md) · concepts: [Thre
 _Notes: Not held locally._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

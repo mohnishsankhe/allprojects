@@ -11,4 +11,4 @@ The first nun of Mahāvīra's community and head of its nuns (the Kalpa Sūtra g
 **Realization — the tradition's account:** Attained omniscience when, asking forgiveness of her pupil Mṛgāvatī who had attained it first, she saw the humility of her disciple (Śvetāmbara account).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

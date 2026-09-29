@@ -11,9 +11,9 @@
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The self (ātman) of the Upaniṣads is permanent, unborn and the inner controller, known as one's own being.
 
 ## Relations (interpretation layer)
-- contrasts-with → [Non-origination (ajātivāda)](ajativada.md): the Laṅkāvatāra distinguishes the tathāgatagarbha from any permanent agent-self; the Buddhist tradition insists on the difference (P6-upaya is its own principle) — rests on [2.p33/2](../texts/lankavatara-sutra.md#tea-lankavatara-sutra-2-p33-2)
+- contrasts-with → [Ajātivāda (non-origination) — Kārikā 2.32](ajativada.md): the Laṅkāvatāra distinguishes the tathāgatagarbha from any permanent agent-self; the Buddhist tradition insists on the difference (P6-upaya is its own principle) — rests on [2.p33/2](../texts/lankavatara-sutra.md#tea-lankavatara-sutra-2-p33-2)
 
 _Notes: The tradition of each side rejects identity: recorded as a question of likeness, not as an equivalence. See dsp:buddha-nature-self-or-emptiness and brw:tathagatagarbha-and-atman._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:14 IST._

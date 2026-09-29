@@ -12,4 +12,4 @@ Chinese monk (c. 355-434), disciple of Kumārajīva, who taught that even icchan
 **Realization — the tradition's account:** Chinese accounts say that on Tiger Hill the stones nodded when he preached that icchantikas have buddha-nature
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._

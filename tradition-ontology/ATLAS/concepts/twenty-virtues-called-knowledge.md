@@ -20,4 +20,4 @@ _Notes: The count of twenty depends on counting asakti and anabhiṣvaṅga sepa
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.8, tea:bhagavad-gita:13.9, tea:bhagavad-gita:13.10, tea:bhagavad-gita:13.11, tea:bhagavad-gita:13.12, tea:bhagavad-gita:13.8-12 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._

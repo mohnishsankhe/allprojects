@@ -49,4 +49,4 @@ teachers: [Janaka of Videha](../teachers/janaka.md)
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_12.json (BORI Critical Edition text) 12.171.4-8 Maṅki and his young bulls (damya); 12.171.25 — Section located at CE 12.171 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition), local:sources_raw/raw_etexts/purANam/vaiShNavam/mahAbhAratam/gp/epub_no_img/ (Gita Press vulgate, chapter colophons) — CE 12.171.4 ('nirvedān maṅkinā gītam') to 12.171.54, then Janaka's verse 12.171.56. The Gita Press vulgate colophon 'maṅkigītāyāṃ saptasaptatyadhikaśatatamo 'dhyāyaḥ' (vulgate 12.177) confirms the name.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

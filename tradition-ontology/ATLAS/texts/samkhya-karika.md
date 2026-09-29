@@ -274,7 +274,7 @@ The sāttvika group of eleven proceeds from ahaṃkāra as modified (vaikṛta);
 
 _level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: consciousness-mind, world-fate_
 
-terms: [vaikṛta (vaikārika)](../terms/vaikrta.md), [bhūtādi](../terms/bhutadi.md), [Taijasa](../terms/taijasa.md), [ahaṃkāra](../terms/ahamkara.md) · concepts: [Ahaṃkāra (the I-maker)](../concepts/ahamkara.md), [Order of emergence and re-absorption (sañcara, pratisañcara)](../concepts/samkhya-order-of-emergence.md) · disputes: [Are the sense and action capacities made of the elements, or products of ahaṃkāra?](../debates/are-the-senses-elemental.md)
+terms: [vaikṛta (vaikārika)](../terms/vaikrta.md), [bhūtādi](../terms/bhutadi.md), [taijasa](../terms/taijasa.md), [ahaṃkāra](../terms/ahamkara.md) · concepts: [Ahaṃkāra (the I-maker)](../concepts/ahamkara.md), [Order of emergence and re-absorption (sañcara, pratisañcara)](../concepts/samkhya-order-of-emergence.md) · disputes: [Are the sense and action capacities made of the elements, or products of ahaṃkāra?](../debates/are-the-senses-elemental.md)
 
 ### 26 <a id="tea-samkhya-karika-26"></a>
 `skeleton` · confidence high
@@ -738,4 +738,4 @@ terms: [ṣaṣṭitantra](../terms/sastitantra.md) · concepts: [The sixty topi
 _Notes: Verse numbers and wording used in this unit's SK teachings were checked against the local GRETIL/DCS e-texts in sources_raw/; entries stay at skeleton level until Phase C/D._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 23:14 IST._

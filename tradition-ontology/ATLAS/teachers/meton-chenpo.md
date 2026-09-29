@@ -12,4 +12,4 @@ One of Marpa's four principal disciples, holder (by one account) of the clear-li
 _Notes: The allotment 'Ngok — explanation, Tsur — transference, Meton — clear light, Mila — inner heat' is from memory of the Kagyu histories (low)._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

@@ -117,4 +117,4 @@ terms: [dharma-megha](../terms/dharmamegha.md), [jñāna](../terms/jnana.md), [b
 _Notes: Ground names and chapter structure read in the local e-text._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._

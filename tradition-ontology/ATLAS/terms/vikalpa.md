@@ -1,12 +1,13 @@
 # vikalpa
 
-`trm:vikalpa` · `skeleton` · confidence high
+`trm:vikalpa` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Native script:** विकल्प
 **Literal:** imagination; conceptual construction
 
 ## Definitions by tradition
+- [Advaita Vedānta](../lineages/advaita-vedanta.md): In the Kārikā ch.1: imagining; creation is "imagined" by others (1.7); imagining would cease if it had been imagined by someone (1.18). | In the Kārikā ch.2: imagining; the self (deva) imagines itself and the entities by its own māyā; ceases on ascertainment (rope).
 - [Yogācāra](../lineages/yogacara.md): The transformation of consciousness as such, which constructs what it imagines; what is imagined does not exist.
 - [Buddhist epistemology and logic (pramāṇa school)](../lineages/pramana-buddhist.md): Conceptual cognition, based on names, whose object is a universal and which is not perception; known by each in his own experience.
 - [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md): An activity that follows on verbal knowledge but has no real object (1.9); in samāpatti, the mixing of word, object and cognition that marks savitarkā coalescence (1.42).
@@ -23,4 +24,12 @@
 **Related:** [kalpanā](kalpana.md), [abhūta-parikalpa](abhutaparikalpa.md), [prapañca](prapanca.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U10-yoga, skeleton:U19-kashmir-saivism, skeleton:U40-madhyamaka, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: corrected — tea:mandukya-karika:1.7, tea:mandukya-karika:1.18, tea:mandukya-karika:2.11, tea:mandukya-karika:2.12, tea:mandukya-karika:2.13, tea:mandukya-karika:2.14, tea:mandukya-karika:2.15, tea:mandukya-karika:2.17, tea:mandukya-karika:2.18 — Corrected by J: Aligned with the corrected 1.18 (masculine kalpitaḥ agrees with vikalpaḥ). Level not raised (entities are not promoted by the spot-check).
+
+**Corrections**
+
+- text: J fidelity check: Aligned with the corrected 1.18 (masculine kalpitaḥ agrees with vikalpaḥ).
+
+_Contributed by: extraction:mandukya-karika/all, skeleton:U41-yogacara-pramana, skeleton:U10-yoga, skeleton:U19-kashmir-saivism, skeleton:U40-madhyamaka, skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

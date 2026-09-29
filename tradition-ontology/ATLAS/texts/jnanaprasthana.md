@@ -20,4 +20,4 @@ The root treatise of the Sarvāstivāda Abhidharma, commented on by the Mahāvib
 **Commentaries on this text:** [Abhidharma-mahāvibhāṣā-śāstra](mahavibhasa.md), [Apitan piposha lun (*Abhidharma-vibhāṣā-śāstra)](vibhasa-buddhavarman.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._

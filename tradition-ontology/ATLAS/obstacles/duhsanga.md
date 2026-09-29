@@ -15,4 +15,4 @@ Association with the worldly and faithless, which breeds desire, anger, delusion
 - partial: [Desire and anger, the enemy (kāma–krodha)](kama-the-enemy.md) — the passions it breeds — desire, anger, delusion (cf. BhG 2.62–63; 3.37)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._

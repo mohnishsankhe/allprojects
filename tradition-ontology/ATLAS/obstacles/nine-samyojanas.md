@@ -16,4 +16,4 @@ Attachment, aversion, pride, ignorance, view, clinging, doubt, envy and avarice.
 - partial: [The ten fetters in the Abhidhamma list](ten-fetters-abhidhamma.md) — The Abhidharma nine fetters and the Pali Abhidhamma ten share envy, avarice, pride, views, doubt, ignorance; the lists are divided differently.
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._

@@ -15,4 +15,4 @@
 _Notes: Sanskrit forms are the conventional back-translations of the Chinese names; list recalled._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._

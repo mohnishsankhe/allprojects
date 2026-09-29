@@ -19,4 +19,4 @@
 _Notes: The Jain term sakalīkaraṇa (shared with Śaiva manuals) is recalled; flagged for checking._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:14 IST._

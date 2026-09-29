@@ -10,4 +10,4 @@
 Karmapa who left Tibet in 1959, founded Rumtek in Sikkim and spread the Karma Kagyu internationally.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

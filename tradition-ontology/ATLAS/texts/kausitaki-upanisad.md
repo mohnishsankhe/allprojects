@@ -66,7 +66,7 @@ He reaches the tree, the city, the palace and the hall, and brahman's fragrance,
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, karma-liberation_
 
-terms: [satya](../terms/satya.md), [Prājña](../terms/prajna.md), [prāṇa](../terms/prana.md) · concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md) · teachers: [Brahmā (as first teacher)](../teachers/brahma.md)
+terms: [satya](../terms/satya.md), [Prājña](../terms/prajna.md), [prāṇa](../terms/prana.md) · concepts: [Ātman is brahman (as stated in the Māṇḍūkya)](../concepts/atman-brahman-identity.md) · teachers: [Brahmā (as first teacher)](../teachers/brahma.md)
 
 ### 2.1-2 <a id="tea-kausitaki-upanisad-2-1-2"></a>
 `sourced` · confidence high
@@ -192,7 +192,7 @@ Ajātaśatru leads him to a sleeping man; when he is asleep and sees no dream, h
 
 _level: ultimate · standpoint: experiential · path: knowledge · stage: advanced · types: consciousness-mind, ultimate_
 
-terms: [hitā (nāḍī)](../terms/hita.md), [suṣupti / suṣupta](../terms/susupti.md) · concepts: [Deep sleep](../concepts/deep-sleep.md), [The self (ātman) in the Upaniṣads](../concepts/atman.md) · teachers: [Ajātaśatru of Kāśī](../teachers/ajatasatru-kasi.md), [Gārgya Bālāki](../teachers/gargya-balaki.md)
+terms: [hitā (nāḍī)](../terms/hita.md), [suṣupti](../terms/susupti.md) · concepts: [Deep sleep](../concepts/deep-sleep.md), [The self (ātman) in the Upaniṣads](../concepts/atman.md) · teachers: [Ajātaśatru of Kāśī](../teachers/ajatasatru-kasi.md), [Gārgya Bālāki](../teachers/gargya-balaki.md)
 
 
 _Notes: Variant readings are many (e.g., the river Vijara/Viraja, the tree Ilya/Tilya, Citra Gāṅgyāyani/Gārgyāyaṇi). Veda affiliation: Ṛgveda, Kauṣītaki/Śāṅkhāyana śākhā_
@@ -202,4 +202,4 @@ _Notes: Variant readings are many (e.g., the river Vijara/Viraja, the tree Ilya/
 
 - 2026-09-29 catalog+websearch: partially-confirmed — catalog:DCS:Kauṣītakyupaniṣad, catalog:eBharati:kaushItakibrAhmaNopaniShat, catalog:raw_etexts:kaushitaki_brahmana_upanishad, text:sources_raw/prepared/kausitaki-upanisad-sharada/segments.jsonl (Advaita-Śāradā mūla kst.md, Advaita-Śāradā section numbering), https://en.wikipedia.org/wiki/Kaushitaki_U — Confirmed: part of the Kauṣītaki Āraṇyaka ch. 3–6 (Wikipedia, which notes other manuscript orders); 4 adhyāyas with 7, 15, 9, 20 sections in the Advaita-Śāradā text. The variant readings (Virajā/Vijarā, Tilya/Ilya, Gārgyāyaṇi/Gāṅgyāyani) are confirmed between the Śāradā text and the web translation. Wikipedia's 'before the middle of the 1st millennium BCE' fits -600/-400. Not checked: that Cowell's edition has the same section numbering, and whether the commentary in the Advaita-Śāradā kst.md (headed as Śaṅkara's) is his.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._

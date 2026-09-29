@@ -26,7 +26,7 @@ The soul is of the nature of knowledge, dependent on Hari, fit to be joined with
 
 _level: conventional · standpoint: analytic · path: knowledge, devotion · stage: all · types: consciousness-mind, ultimate_
 
-terms: [aṇu / aṇīyān](../terms/anu.md), [cit](../terms/cit.md) · concepts: [The atomic size of the self (aṇu-jīva)](../concepts/atomic-self.md), [The soul as a part (aṃśa) of Brahman](../concepts/jiva-as-part-of-brahman.md), [The three states and the fourth (avasthā-traya, turīya)](../concepts/three-states-and-turiya.md) · practices: [Negation 'not this, not this'](../practices/neti-neti.md) · teachers: [Nimbārka (Nimbāditya, Niyamānanda)](../teachers/nimbarka.md), [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is the individual self atomic or all-pervading?](../debates/atomic-or-pervasive-self.md)
+terms: [aṇu / aṇīyān](../terms/anu.md), [cit](../terms/cit.md) · concepts: [The atomic size of the self (aṇu-jīva)](../concepts/atomic-self.md), [The soul as a part (aṃśa) of Brahman](../concepts/jiva-as-part-of-brahman.md), [The three states and the fourth (waking, dream, deep sleep, turīya)](../concepts/three-states-and-turiya.md) · practices: [Negation 'not this, not this'](../practices/neti-neti.md) · teachers: [Nimbārka (Nimbāditya, Niyamānanda)](../teachers/nimbarka.md), [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · disputes: [Is the individual self atomic or all-pervading?](../debates/atomic-or-pervasive-self.md)
 
 ### 2 <a id="tea-dasasloki-2"></a>
 `skeleton` · confidence low
@@ -113,4 +113,4 @@ terms: [arthapañcaka](../terms/arthapancaka.md) · concepts: [The five things t
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

@@ -31,7 +31,7 @@ Outside Meru (the spine), to its left and right, are the channels of moon and su
 
 _level: conventional · standpoint: analytic · path: body-breath · stage: all · types: body-layers_
 
-terms: [iḍā](../terms/ida.md), [piṅgalā](../terms/pingala.md), [suṣumnā](../terms/susumna.md), [vajrā / vajriṇī](../terms/vajrini.md), [citriṇī / citrā](../terms/citrini.md), [brahmanāḍī](../terms/brahma-nadi.md) · concepts: [The channels (nāḍī)](../concepts/nadis.md), [Suṣumnā, the central channel](../concepts/susumna-central-channel.md), [The centres (cakra, ādhāra)](../concepts/cakras.md)
+terms: [iḍā](../terms/ida.md), [piṅgalā](../terms/pingala.md), [suṣumnā](../terms/susumna.md), [vajrā / vajriṇī](../terms/vajrini.md), [citriṇī / citrā](../terms/citrini.md), [brahmanāḍī](../terms/brahma-nadi.md) · concepts: [The channels (nāḍī)](../concepts/nadis.md), [Suṣumnā, the central channel (HYP)](../concepts/susumna-central-channel.md), [The centres (cakra, ādhāra)](../concepts/cakras.md)
 
 ### 4-13 <a id="tea-sat-cakra-nirupana-4-13"></a>
 `skeleton` · confidence moderate
@@ -78,7 +78,7 @@ The yogin, by the method learned from the guru, rouses kuṇḍalinī and leads 
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: advanced · types: practice, body-layers_
 
-concepts: [Kuṇḍalinī](../concepts/kundalini.md), [The centres (cakra, ādhāra)](../concepts/cakras.md), [Dissolution of breath and mind (laya)](../concepts/laya-natha.md), [The guru in the haṭha texts](../concepts/guru-in-hatha.md) · practices: [Piercing the six centres (ṣaṭcakra-bheda) — summary only](../practices/satcakra-bhedana.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
+concepts: [Kuṇḍalinī](../concepts/kundalini.md), [The centres (cakra, ādhāra)](../concepts/cakras.md), [Dissolution of breath and mind (laya)](../concepts/laya-natha.md), [The guru in haṭha](../concepts/guru-in-hatha.md) · practices: [Piercing the six centres (ṣaṭcakra-bheda) — summary only](../practices/satcakra-bhedana.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
 
 ### 51-53 <a id="tea-sat-cakra-nirupana-51-53"></a>
 `skeleton` · confidence moderate
@@ -96,8 +96,8 @@ The fruit: the yogin who knows this, devoted to the feet of his guru, is not reb
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: karma-liberation_
 
-concepts: [The guru in the haṭha texts](../concepts/guru-in-hatha.md)
+concepts: [The guru in haṭha](../concepts/guru-in-hatha.md)
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._

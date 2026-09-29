@@ -9,4 +9,4 @@
 The bodhisattva who, in Saṃdhinirmocana ch. 7, asks the intent of 'all dharmas lack own-being' and hears the three naturelessnesses and the three turnings.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._

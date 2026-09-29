@@ -62,4 +62,4 @@ The Kagyu ('lineage of the word') are the Tibetan Buddhist transmissions that de
 _Notes: Umbrella id: each school below counts as its own root for convergence. The Shangpa is not descended from Marpa; it is placed under the Kagyu grouping only because the tradition calls it 'Kagyu' and the registry assigns it here._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

@@ -14,4 +14,4 @@
 - part-of → [Śiva and Śakti as one (Amṛtānubhava)](siva-sakti-amrtanubhava.md): the play is the union of Śiva and Śakti — rests on [1](../texts/amrtanubhava.md#tea-amrtanubhava-1)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._

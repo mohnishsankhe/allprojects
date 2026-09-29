@@ -11,4 +11,4 @@ Practitioners inscribe their names in a register and pledge a daily number of re
   - [Illustrated Origins of the Interfusing Nenbutsu (Yūzū nenbutsu engi)](../texts/yuzu-nenbutsu-engi.md) — ref: revelation; rests_on: ["tea:yuzu-nenbutsu-engi:revelation"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._

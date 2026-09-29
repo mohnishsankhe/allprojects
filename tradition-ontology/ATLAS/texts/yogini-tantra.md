@@ -16,4 +16,4 @@ A tantra of Kāmarūpa in two parts on the Goddess Kāmākhyā and the sacred ge
 _Notes: Division into two parts from memory; content not checked in detail._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._

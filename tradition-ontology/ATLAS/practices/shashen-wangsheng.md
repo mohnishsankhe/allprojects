@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md)
 **Taught in:** [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md)
 
-Summary only: the rebirth biographies record people who ended their lives (for example by leaping from a tree) out of longing for the Pure Land; Daoxuan's early account attributes such a leap to a man who questioned Shandao, the later Fozu tongji to Shandao himself. Recorded as narrative, not as a practice to be taught.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Continued Biographies of Eminent Monks (Xu gaoseng zhuan)](../texts/xu-gaoseng-zhuan.md) — ref: 684a11-18; rests_on: ["tea:xu-gaoseng-zhuan:684a11-18"]
   - [Comprehensive Record of the Buddhas and Patriarchs (Fozu tongji)](../texts/fozu-tongji.md) — ref: 263b14-18; rests_on: ["tea:fozu-tongji:263a22-b18"]
@@ -17,4 +17,4 @@ Summary only: the rebirth biographies record people who ended their lives (for e
 _Notes: Body-harming: restricted. No method recorded. Explicit warnings by later Pure Land teachers against the act were not verified and are listed as a gap._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._

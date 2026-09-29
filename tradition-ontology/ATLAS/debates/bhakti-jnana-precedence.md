@@ -39,4 +39,4 @@ Under P3 the paths suit different temperaments; under P4 devotion is a means tha
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/prepared/astavakra-gita/segments.jsonl (GRETIL e-text), local:sources_raw/raw_etexts/purANam/vaiShNav — All cited verses verified: BhP 11.14.20-21, 3.25.33 (vulgate), 3.29.13, 11.19.3 ('jñānī priyatamo 'to me'); AG 1.4, 1.15; AR 7.5.9, 3.4.45-47 (the lamp), 1.1.51; DBhP 7.37.26-27.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

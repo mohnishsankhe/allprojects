@@ -6,9 +6,8 @@
 **Convergence:** 1 independent lineage(s): [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](../lineages/rasa-sastra.md)
 **Taught in:** [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](../lineages/rasa-sastra.md)
 
-The application of perfected mercury to the body to make it stable, ageless and 'divine' as the basis for yoga and liberation in life — first tested on metal. RESTRICTED: summary and warnings only.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
-**Signs of progress:** ["in the texts' claims: freedom from disease, agelessness, sky-going, the powers (Rasahṛdaya 1.3, 1.26) — claims, not endorsements"]
 **Sources:** 
   - [Sarvadarśanasaṃgraha](../texts/sarvadarsanasangraha.md) — ref: Raseśvara 6-10, 23-25; rests_on: ["tea:sarvadarsanasangraha:rasesvara.6-10", "tea:sarvadarsanasangraha:rasesvara.23-25"]
   - [Rasārṇava](../texts/rasarnava.md) — ref: paṭala 18
@@ -21,4 +20,4 @@ The application of perfected mercury to the body to make it stable, ageless and 
 - Without the guru's grace and permission the work is fruitless; the unfit gain nothing and lose their wealth. — [Rasārṇava](../texts/rasarnava.md) 1.54-59; RRS 6.8-10
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

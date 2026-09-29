@@ -19,4 +19,4 @@ _Notes: Reported as teacher of Harisvāmin, commentator on the Śatapatha Brāhm
 - 2026-09-28 websearch: confirmed — https://www.hindupedia.com/en/Skandasv%C4%81min, https://archive.org/details/in.ernet.dli.2015.352273 — Confirmed: c. 625 CE (son of Bhartṛdhruva of Valabhī); Ṛgveda commentary; Nirukta commentary with Maheśvara (Sarup ed.); guru of Harisvāmin, commentator on the Śatapatha — the low-confidence note is confirmed.
 - 2026-09-28 websearch: confirmed — https://archive.org/details/in.ernet.dli.2015.280190, https://www.wisdomlib.org/definition/niruktabhashya — Low-confidence entry confirmed: the Ṛgveda commentator (c. 625 CE; confirmed by U01), whose Nirukta commentary was continued by Maheśvara (Sarup's edition). Wisdomlib's 1060–1350 date for the joint ṭīkā most likely reflects Maheśvara's part.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

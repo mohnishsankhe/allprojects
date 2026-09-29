@@ -12,4 +12,4 @@ Filial care, service of teachers, non-killing and the ten good deeds; taking ref
   - [Amitāyurdhyāna-sūtra (Guan wuliangshou jing)](../texts/amitayurdhyana-sutra.md) — ref: 341c08-14; rests_on: ["tea:amitayurdhyana-sutra:intro.3"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._

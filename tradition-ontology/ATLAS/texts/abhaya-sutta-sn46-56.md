@@ -25,4 +25,4 @@ terms: [ahetuvāda / ahetukavāda](../terms/ahetuvada.md) · teachers: [Pūraṇ
 _Notes: Section numbers follow SuttaCentral (bilara) segmentation; checked against the local e-text._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._

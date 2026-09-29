@@ -6,11 +6,11 @@
 **Convergence:** 2 independent lineage(s): [Digambara](../lineages/digambara.md), [Śvetāmbara](../lineages/svetambara.md)
 **Taught in:** [Digambara](../lineages/digambara.md), [Śvetāmbara](../lineages/svetambara.md)
 
-Reading signs in the breath, the body, shadows and dreams to foreknow the approach of death, so that one may prepare with equanimity and, if appropriate, undertake the final renunciation.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Yogaśāstra (Hemacandra)](../texts/yogasastra-hemacandra.md) — ref: ch.5; rests_on: ["tea:yogasastra-hemacandra:ch.5"]
 
 _Notes: Restricted/summary only: no omen-lists recorded._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

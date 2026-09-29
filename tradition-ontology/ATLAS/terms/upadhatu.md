@@ -16,4 +16,4 @@
 _Notes: Ref from the local Devanāgarī e-text of Ca Ci 15; the term 'upadhātu' itself is the later commentarial name._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

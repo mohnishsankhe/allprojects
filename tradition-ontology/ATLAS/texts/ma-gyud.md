@@ -13,4 +13,4 @@ The principal Bön mother tantra, source of Bön practices of channels and winds
 _Notes: Optional (Bön). Not local; from general knowledge._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

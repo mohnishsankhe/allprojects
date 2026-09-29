@@ -10,6 +10,7 @@ Bhagavad Gītā 10–12: The devotee dear to the Lord is freed from elation, imp
 **Sources:** 
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.15; rests_on: ["tea:bhagavad-gita:12.15"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.17; rests_on: ["tea:bhagavad-gita:12.17"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.27; rests_on: ["tea:bhagavad-gita:18.27"]
 
 _Notes: In 11.45 Arjuna reports being thrilled (hṛṣita) at the vision; the text does not call that a fault._
 
@@ -17,5 +18,6 @@ _Notes: In 11.45 Arjuna reports being thrilled (hṛṣita) at the vision; the t
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.15, tea:bhagavad-gita:12.17 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.27 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._

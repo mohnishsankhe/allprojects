@@ -13,4 +13,4 @@
 Guru Chöwang's account of treasure revelation — how teachings are concealed, entrusted and recovered — the earliest systematic Tibetan treatise on terma (moderate).
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

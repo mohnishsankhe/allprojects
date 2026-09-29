@@ -6,7 +6,7 @@
 **Convergence:** 2 independent lineage(s): [Bön (Yungdrung Bön)](../lineages/bon.md), [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md)
 **Taught in:** [Bön (Yungdrung Bön)](../lineages/bon.md), [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md)
 
-A gentle retention in which the breath is drawn down and held below the navel in the shape of a vase, used in tsa-lung, inner heat and as the basis of other yogas. Summary only: no counts or durations.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Prerequisites:** ['instruction from a teacher', 'the nine-round purification breath']
 
 ## The texts' own warnings
@@ -15,4 +15,4 @@ A gentle retention in which the breath is drawn down and held below the navel in
 _Notes: Owned by U45 (brief). Also a Kagyu and Gelug practice (other units)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

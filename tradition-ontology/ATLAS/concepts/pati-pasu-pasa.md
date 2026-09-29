@@ -25,4 +25,4 @@ _Notes: Contribution from U08; U18 owns the Siddhānta concept._
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md — KP 2.7.18-19 (paśus, Paśupati, the noose of māyā); the 'he himself is bondage, binder, noose and bound' clause is KP 2.7.32 ('sa eva bandhaḥ sa ca bandhakartā sa eva pāśaḥ paśavaḥ sa eva'), just outside the cited teaching.
 
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U06-other-gitas, skeleton:U08-agama-catalogue, skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U06-other-gitas, skeleton:U08-agama-catalogue, skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._

@@ -16,4 +16,4 @@ Seated upright during the purifications before worship, one contemplates Nārāy
 _Notes: A step within daily worship rather than a free-standing meditation; ritual details omitted._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 23:14 IST._

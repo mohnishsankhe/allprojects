@@ -13,4 +13,4 @@
 Yogācāra commentator on the Mahāyānasaṃgraha and the Mahāyānasūtrālaṃkāra.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._

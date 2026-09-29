@@ -18,4 +18,4 @@ The haṭha yogin lives and practises alone in a small hut with a small door and
 - In a far country there is no trust, in a forest no food, in a crowd one is exposed — so begin yoga in none of them. — [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) 5.3-4
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

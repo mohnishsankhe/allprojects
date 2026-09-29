@@ -23,4 +23,4 @@ Co-founder of the Rimé movement. Born to a family with Bön connections, traine
 **Realization — the tradition's account:** Regarded as an emanation of the translator Vairocana.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime, skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime, skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

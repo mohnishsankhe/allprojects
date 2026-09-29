@@ -15,4 +15,4 @@
 _Notes: Tradition's account. Scholarly: the 28-list was fixed in the Baolin zhuan (801); earlier lists (Fu fazang yinyuan zhuan) end with Siṃha._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

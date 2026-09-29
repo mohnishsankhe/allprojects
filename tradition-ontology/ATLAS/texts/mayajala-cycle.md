@@ -15,4 +15,4 @@ The family of Mahāyoga tantras of the 'Magical Net' to which the Guhyagarbha be
 _Notes: Existence and titles checked in the local catalogue (Derge-Kangyur D832-D837); the grouping of eight is from memory._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

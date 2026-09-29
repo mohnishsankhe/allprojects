@@ -12,4 +12,4 @@ Losing the recognition by following thoughts; non-distraction is 'the main body 
   - [Mahāmudropadeśa of Tilopa (the Gaṅgā Mahāmudrā)](../texts/ganga-mahamudra.md) — ref: v17-19; rests_on: ["tea:ganga-mahamudra:v17-19"]
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

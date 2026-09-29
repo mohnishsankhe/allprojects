@@ -94,7 +94,7 @@ There are three hundred and fifty thousand channels in the human body, of which 
 
 _level: conventional · standpoint: analytic · path: body-breath · stage: all · types: body-layers_
 
-terms: [nāḍī](../terms/nadi.md), [suṣumnā](../terms/susumna.md), [citriṇī / citrā](../terms/citrini.md), [brahmarandhra](../terms/brahmarandhra.md) · concepts: [The channels (nāḍī)](../concepts/nadis.md), [Suṣumnā, the central channel](../concepts/susumna-central-channel.md)
+terms: [nāḍī](../terms/nadi.md), [suṣumnā](../terms/susumna.md), [citriṇī / citrā](../terms/citrini.md), [brahmarandhra](../terms/brahmarandhra.md) · concepts: [The channels (nāḍī)](../concepts/nadis.md), [Suṣumnā, the central channel (HYP)](../concepts/susumna-central-channel.md)
 
 ### 3.1-9 <a id="tea-siva-samhita-3-1-9"></a>
 `skeleton` · confidence high
@@ -112,7 +112,7 @@ Knowledge that comes from the guru's mouth is potent; otherwise it is fruitless,
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission_
 
-concepts: [The guru in the haṭha texts](../concepts/guru-in-hatha.md)
+concepts: [The guru in haṭha](../concepts/guru-in-hatha.md)
 
 ### 3.16-18 <a id="tea-siva-samhita-3-16-18"></a>
 `skeleton` · confidence high
@@ -121,7 +121,7 @@ Success is certain for those with faith, not for others; not for those attached,
 
 _level: conventional · standpoint: ethical-social · path: body-breath · stage: beginner · types: ethics, teacher-transmission_
 
-concepts: [Who may practise haṭha (adhikāra)](../concepts/eligibility-for-hatha.md), [The guru in the haṭha texts](../concepts/guru-in-hatha.md)
+concepts: [Who may practise haṭha: the text's statement](../concepts/eligibility-for-hatha.md), [The guru in haṭha](../concepts/guru-in-hatha.md)
 
 ### 3.20-26 <a id="tea-siva-samhita-3-20-26"></a>
 `skeleton` · confidence high
@@ -238,7 +238,7 @@ There are eighty-four postures of many kinds; from them four have been taken and
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: beginner · types: practice_
 
-concepts: [The eighty-four postures](../concepts/eighty-four-asanas.md) · practices: [Siddhāsana (the adept's seat)](../practices/siddhasana.md), [Padmāsana (the lotus seat)](../practices/padmasana.md), [Paścimatānāsana (the stretch of the back; paścimottāna, ugrāsana)](../practices/pascimatanasana.md), [Svastikāsana (the auspicious-mark seat)](../practices/svastikasana.md)
+concepts: [The eighty-four postures taught by Śiva (HYP)](../concepts/eighty-four-asanas.md) · practices: [Siddhāsana (the adept's seat)](../practices/siddhasana.md), [Padmāsana (the lotus seat)](../practices/padmasana.md), [Paścimatānāsana (the stretch of the back; paścimottāna, ugrāsana)](../practices/pascimatanasana.md), [Svastikāsana (the auspicious-mark seat)](../practices/svastikasana.md)
 
 ### 3.85-87 <a id="tea-siva-samhita-3-85-87"></a>
 `skeleton` · confidence high
@@ -301,7 +301,7 @@ Mahāmudrā, mahābandha, mahāvedha, khecarī, jālandhara, mūlabandha, vipar�
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice_
 
-concepts: [The ten mudrās of the Haṭhapradīpikā](../concepts/ten-mudras-hyp.md)
+concepts: [The ten mudrās (HYP 3.6-9, 3.128)](../concepts/ten-mudras-hyp.md)
 
 ### 4.16-20 <a id="tea-siva-samhita-4-16-20"></a>
 `skeleton` · confidence moderate
@@ -409,7 +409,7 @@ Aspirants are of four kinds: mild (mṛdu), middling (madhya), strong (adhimātr
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: practice, teacher-transmission_
 
-terms: [adhikāra](../terms/adhikara.md) · concepts: [The four grades of aspirant](../concepts/four-grades-of-aspirant.md), [The four yogas (mantra, laya, haṭha, rāja)](../concepts/four-yogas.md), [Who may practise haṭha (adhikāra)](../concepts/eligibility-for-hatha.md)
+terms: [adhikāra](../terms/adhikara.md) · concepts: [The four grades of aspirant](../concepts/four-grades-of-aspirant.md), [The four yogas (mantra, laya, haṭha, rāja)](../concepts/four-yogas.md), [Who may practise haṭha: the text's statement](../concepts/eligibility-for-hatha.md)
 
 ### 5.15-20 <a id="tea-siva-samhita-5-15-20"></a>
 `skeleton` · confidence moderate
@@ -468,7 +468,7 @@ Without haṭha there is no rājayoga, and without rājayoga no haṭha; therefo
 
 _level: bridging · standpoint: seeker · path: body-breath, meditation · stage: all · types: practice, teacher-transmission_
 
-concepts: [Haṭha and rājayoga need each other](../concepts/hatha-raja-interdependence.md), [The guru in the haṭha texts](../concepts/guru-in-hatha.md) · disputes: [Is haṭha a necessary means to rājayoga, and has it any value apart from it?](../debates/hatha-vs-raja.md)
+concepts: [Haṭha and rājayoga depend on each other](../concepts/hatha-raja-interdependence.md), [The guru in haṭha](../concepts/guru-in-hatha.md) · disputes: [Is haṭha a necessary means to rājayoga, and has it any value apart from it?](../debates/hatha-vs-raja.md)
 
 ### 5.184-187 <a id="tea-siva-samhita-5-184-187"></a>
 `skeleton` · confidence moderate
@@ -477,7 +477,7 @@ Company must be abandoned entirely, otherwise there is no liberation; the practi
 
 _level: conventional · standpoint: ethical-social · path: body-breath, action · stage: all · types: ethics, karma-liberation_
 
-concepts: [Who may practise haṭha (adhikāra)](../concepts/eligibility-for-hatha.md)
+concepts: [Who may practise haṭha: the text's statement](../concepts/eligibility-for-hatha.md)
 
 ### 5.188-190 <a id="tea-siva-samhita-5-188-190"></a>
 `skeleton` · confidence moderate
@@ -495,8 +495,8 @@ Therefore the best of yogins should act by the prescribed method, content with w
 
 _level: conventional · standpoint: ethical-social · path: body-breath, sound · stage: all · types: ethics, karma-liberation_
 
-concepts: [Who may practise haṭha (adhikāra)](../concepts/eligibility-for-hatha.md)
+concepts: [Who may practise haṭha: the text's statement](../concepts/eligibility-for-hatha.md)
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._

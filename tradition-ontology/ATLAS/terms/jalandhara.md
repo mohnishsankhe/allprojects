@@ -20,4 +20,4 @@
 _Notes: Shared with the Kaula pīṭha lists (U24)._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U24-kali-kaula, skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U24-kali-kaula, skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._

@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md)
 **Taught in:** [Pātañjala Yoga (the Yoga darśana)](../lineages/patanjala-yoga.md)
 
-Restricted-adjacent (breath retention): summary only. Vyāsa: the fourth goes beyond both the external and the internal; unlike the third, which is a single-effort stopping without attention to an object, it is a gradual stopping preceded by surpassing both, by mastery of the ground, after determining the object of inhalation and exhalation.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Prerequisites:** mastery of the three kinds (2.50)
 **Sources:** 
@@ -21,4 +21,4 @@ _Notes: Marked restricted as a form of breath suspension; no method given._
 
 - 2026-09-29 text: partially-confirmed — tea:yoga-sutra:2.51, tea:yoga-bhasya:2.51 — Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated. Restricted-practice entry read in full by J: summary-only, no counts, steps or durations; fasting-type vows (kṛcchra, cāndrāyaṇa, sāṃtapana) named only; Vyāsa's own warning quoted verbatim where the text gives one.
 
-_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga. Generated 2026-09-29 23:14 IST._

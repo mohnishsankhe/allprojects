@@ -12,4 +12,4 @@ No. 40 of the eighty-four siddhas (Tōh 2292 order). A poor man or prince who wa
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. Refers to the joys of the completion stage (restricted domain); summarized only._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._

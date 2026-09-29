@@ -17,4 +17,4 @@ A later commentary on the SK ascribed to Nārāyaṇa Tīrtha.
 _Notes: Recalled, not checked; verify title, author and date._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 23:14 IST._

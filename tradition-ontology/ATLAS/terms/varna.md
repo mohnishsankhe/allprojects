@@ -14,6 +14,7 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4.13: the fourfold class order (cāturvarṇya), created by the Lord according to the division of qualities (guṇa) and actions (karma).
 - [Mīmāṃsā (Pūrva Mīmāṃsā)](../lineages/mimamsa.md): The eternal letters are the word: 'gauḥ' is g, au and ḥ (Upavarṣa); meaning is conveyed by the letters through their impressions, without a sphoṭa.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: The social orders whose mixture (varṇa-saṅkara) Arjuna fears (1.41).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: The actions of brāhmaṇas, kṣatriyas, vaiśyas and śūdras are distributed by the guṇas arising from their own nature (18.41): calm, restraint, austerity, purity, patience, uprightness, knowledge, discernment and faith for the brāhmaṇa; heroism, vigour, steadiness, skill, not fleeing in battle, generosity and lordliness for the kṣatriya; agriculture, cattle-keeping and trade for the vaiśya; service for the śūdra (18.42–44).
 - [Trika ('the Triad')](../lineages/trika.md): Letter or sound as object of contemplation (VBT 30, 40, 81, 90) and as an āṇava support (MVT 2.21).
 - [Vyākaraṇa (the grammarian-philosophers; śabdādvaita)](../lineages/vyakarana.md): The letter: for the grammarians not a real part of the word, which is partless (VP 1.73).
 - [Mantraśāstra (the science of mantras: the smārta-tantric mantra manuals)](../lineages/mantrasastra.md): The letters as the manifestation of śabda-brahman through kuṇḍalinī (ŚT 1.14); gathered as the fifty mātṛkās.
@@ -30,5 +31,6 @@ _Notes: Homonym: phoneme (Vedāṅga) and social class (Dharmaśāstra) kept as 
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.13 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.41, tea:bhagavad-gita:18.42, tea:bhagavad-gita:18.43, tea:bhagavad-gita:18.44 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U12-mimamsa, extraction:bhagavad-gita/ch01-03, skeleton:U19-kashmir-saivism, skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U12-mimamsa, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch16-18, skeleton:U19-kashmir-saivism, skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._

@@ -12,6 +12,10 @@ Summary as the text states it (no procedure is given): action done for the sake 
 **Sources:** 
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 3.9, 3.10, 3.11, 3.12, 3.13; rests_on: ["tea:bhagavad-gita:3.9", "tea:bhagavad-gita:3.10", "tea:bhagavad-gita:3.11", "tea:bhagavad-gita:3.12", "tea:bhagavad-gita:3.13"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 3.9–16; 4.24–33; 17.11–13; 18.5; rests_on: ["tea:bhagavad-gita:3.9", "tea:bhagavad-gita:3.10-16", "tea:bhagavad-gita:4.25-30", "tea:bhagavad-gita:17.11-13", "tea:bhagavad-gita:18.4-6"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 17.11-13; rests_on: ["tea:bhagavad-gita:17.11", "tea:bhagavad-gita:17.12", "tea:bhagavad-gita:17.13"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 17.24; rests_on: ["tea:bhagavad-gita:17.24"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.5-6; rests_on: ["tea:bhagavad-gita:18.5", "tea:bhagavad-gita:18.6"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 17.11, 17.24, 18.5, 18.6; rests_on: ["tea:bhagavad-gita:17.11", "tea:bhagavad-gita:17.24", "tea:bhagavad-gita:18.5", "tea:bhagavad-gita:18.6"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 4.12; rests_on: ["tea:bhagavad-gita:4.12"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 4.23; rests_on: ["tea:bhagavad-gita:4.23"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 4.24; rests_on: ["tea:bhagavad-gita:4.24"]
@@ -33,12 +37,16 @@ Summary as the text states it (no procedure is given): action done for the sake 
 - Those who cook only for their own sake eat sin. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 3.13
 - One who does not keep the wheel turning, delighting in the senses, lives in vain. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 3.16
 - Sacrifice contrary to injunction, without distribution of food, mantras, priests' fees and faith is tāmasic. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 17.13
+- Sacrifice for fruit or display is rājasic. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 17.12
+- Sacrifice without injunction, distributed food, mantras, fee or faith is tāmasic. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 17.13
+- Sacrifices in name only, with hypocrisy and not by injunction, are the demonic's. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 16.17
 
 _Notes: U05's contribution; Vedic ritual is covered by U01–U02._
 
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:16.17, tea:bhagavad-gita:17.11, tea:bhagavad-gita:17.12, tea:bhagavad-gita:17.13, tea:bhagavad-gita:17.24, tea:bhagavad-gita:18.5, tea:bhagavad-gita:18.6 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.12, tea:bhagavad-gita:4.23, tea:bhagavad-gita:4.24, tea:bhagavad-gita:4.25, tea:bhagavad-gita:4.26, tea:bhagavad-gita:4.27, tea:bhagavad-gita:4.28, tea:bhagavad-gita:4.29, tea:bhagavad-gita:4.30, tea:bhagavad-gita:4.31, tea:bhagavad-gita:4.32, tea:bhagavad-gita:4.33, tea:bhagavad — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, skeleton:U12-mimamsa. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch04-06, skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._

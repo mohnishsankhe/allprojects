@@ -14,4 +14,4 @@ Link in the Muṇḍaka's line: received brahmavidyā from Atharvan and taught S
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/mundaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Mundaka.md, Śaṅkara numbering) — Located: MuU 1.1.2 ('atharvā tāṃ purovācāṅgire brahmavidyām').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._

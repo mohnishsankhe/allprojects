@@ -9,4 +9,4 @@
 Sakya scholar and translator who criticised Tsongkhapa's Madhyamaka for 'eighteen great burdens of contradiction' (tradition's name for the charges); answered by the Gelug scholar Jamyang Shepa among others.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

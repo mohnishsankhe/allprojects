@@ -7,7 +7,7 @@
 **Taught in:** [Bön (Yungdrung Bön)](../lineages/bon.md), [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md), [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md), [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md), [Sarvāstivāda](../lineages/sarvastivada.md), [Sowa Rigpa (gso ba rig pa), the Tibetan science of healing](../lineages/sowa-rigpa.md), [Theravāda](../lineages/theravada.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
 
 Desire, anger and ignorance, the roots of the three lower realms; in the nine-round purification breath they are expelled with the breath.
-**Antidotes:** [The nine-round purification breath (rlung ro dgu bsal)](../practices/nine-round-purification.md), [Contemplation of the unlovely (aśubhā-bhāvanā)](../practices/asubha-bhavana.md), [The four immeasurables (apramāṇa)](../practices/four-immeasurables.md), [The passions as the path](../concepts/passions-as-path.md)
+**Antidotes:** [The nine-round purification breath (rlung ro dgu bsal)](../practices/nine-round-purification.md), [Contemplation of the foul (asubha-bhāvanā): summary only](../practices/asubha-bhavana.md), [The four immeasurables (apramāṇa)](../practices/four-immeasurables.md), [The passions as the path](../concepts/passions-as-path.md)
 **Members:** rāga/lobha, pratigha/dveṣa, moha
 **Sources:** 
   - [Abhidharmakośa (Abhidharmakośakārikā)](../texts/abhidharmakosa.md) — ref: 5.20
@@ -18,4 +18,4 @@ Desire, anger and ignorance, the roots of the three lower realms; in the nine-ro
   - [Karṇatantravajrapada (the Vajra Verses of the Whispered Lineage)](../texts/karnatantravajrapada.md) — ref: 303a.7; rests_on: ["tea:karnatantravajrapada:303a.7"]
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon, skeleton:U38-early-schools, skeleton:U44-indian-vajrayana, skeleton:U48-jonang-chod-medicine-rime, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon, skeleton:U38-early-schools, skeleton:U44-indian-vajrayana, skeleton:U48-jonang-chod-medicine-rime, skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

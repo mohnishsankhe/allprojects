@@ -1,4 +1,4 @@
-# The identity of the self and brahman
+# Ātman is brahman (as stated in the Māṇḍūkya)
 
 `cpt:atman-brahman-identity` · `sourced` · confidence high
 
@@ -7,6 +7,7 @@
 ## Names
 
 ## Definitions
+- [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): "All this is brahman; this self is brahman."
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The Upaniṣads declare that the self is brahman: 'I am brahman' (BAU 1.4.10), 'this self is brahman' (MāU 2; BAU 2.5.19), 'that you are' (ChU 6.8.7 and refrain), 'intelligence is brahman' (AU 3.1.3); 'this self of mine within the heart is brahman' (ChU 3.14.4); 'the person yonder, I am he' (Īśa 16). How this identity is to be understood is disputed by the later schools (dsp:tat-tvam-asi, dsp:souls-one-or-distinct); this entry records only the statements.
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): The inner self of every being is Brahman; difference is due only to adjuncts produced by ignorance (Kāśakṛtsna's view, accepted by Śaṅkara).
 
@@ -16,6 +17,7 @@
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:mandukya-upanisad:2 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/aitareya-upanisad/segments.jsonl (Advaita-Śāradā mūla Aitareya.md, adhyāya.khaṇḍa.verse), text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jso — All 7 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 1.4.10; MāU 2; BĀU 2.5.19; ChU 6.8.7; AU 3.1.3; ChU 3.14.4; Īśa 16). It rests on 7 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:mandukya-upanisad/all, skeleton:U03-principal-upanisads, skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

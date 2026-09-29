@@ -13,4 +13,4 @@ The series by which a deity is invited and settled in worship: āvāhanī (the a
   - [Śāradātilaka](../texts/saradatilaka.md) — ref: 23.106-114; rests_on: ["tea:saradatilaka:23.106-110", "tea:saradatilaka:23.111-114"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

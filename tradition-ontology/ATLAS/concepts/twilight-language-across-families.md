@@ -18,4 +18,4 @@
 - corresponds-to-in-map → [Transgressive language given a yogic sense](internalized-kaula-transgression.md)
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:14 IST._

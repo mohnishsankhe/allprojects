@@ -8,4 +8,4 @@
 Ancient Vedāntin named by Rāmānuja among the earlier teachers; possibly the same as the Dharmaśāstra commentator Bhāruci (uncertain).
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

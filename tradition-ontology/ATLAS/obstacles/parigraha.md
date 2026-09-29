@@ -14,10 +14,12 @@ Grasping at possessions and hoarding, which brings suffering and attack (the osp
   - [Sūtrakṛtāṅga](../texts/sutrakrtanga.md) — ref: 1.1.1; rests_on: ["tea:sutrakrtanga:1.1.1"]
   - [Daśavaikālika Sūtra](../texts/dasavaikalika-sutra.md) — ref: 6.20-21; rests_on: ["tea:dasavaikalika-sutra:6.20-21"]
   - [Aṣṭapāhuḍa](../texts/astapahuda.md) — ref: sutta.18; rests_on: ["tea:astapahuda:sutta.18"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.53; rests_on: ["tea:bhagavad-gita:18.53"]
 
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.53 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition) — Rests on tea:uddhava-gita:11.9.1-2, tea:uddhava-gita:11.8.9-12, tea:uddhava-gita:11.8.15-16, tea:samyaka-gita:12.170; each was located in the local text and matches this entry's statement.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U34-jain-canon, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._

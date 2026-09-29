@@ -218,7 +218,7 @@ Calm is developed on the forty subjects, suited to the six temperaments, through
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: [samatha](../terms/samatha.md), [kammaṭṭhāna](../terms/kammatthana.md), [nimitta](../terms/nimitta.md) · concepts: [The forty meditation subjects](../concepts/forty-kammatthanas.md), [The three kinds of concentration](../concepts/three-samadhis.md), [The three signs (nimitta)](../concepts/three-nimittas.md), [The six temperaments (carita)](../concepts/six-temperaments.md)
+terms: [samatha](../terms/samatha.md), [kammaṭṭhāna](../terms/kammatthana.md), [nimitta](../terms/nimitta.md) · concepts: [The forty meditation subjects (kammaṭṭhāna)](../concepts/forty-kammatthanas.md), [The three kinds of concentration](../concepts/three-samadhis.md), [The three signs (nimitta)](../concepts/three-nimittas.md), [The six temperaments (carita)](../concepts/six-temperaments.md)
 
 ### 9 <a id="tea-abhidhammatthasangaha-9-2"></a>
 `skeleton` · confidence high
@@ -242,4 +242,4 @@ concepts: [The four paths and four fruits](../concepts/four-paths-and-fruits.md)
 _Notes: No local e-text; chapter structure from the author's knowledge (high confidence). Colophon details (Mūlasoma) moderate/low._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

@@ -1,6 +1,6 @@
 # Svātmārāma
 
-`tch:svatmarama` · `skeleton` · confidence high
+`tch:svatmarama` · `sourced` · confidence moderate
 
 **Alternate names:** Svātmārāma Yogīndra, Svātmārāma Yogin
 **Lineages:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md)
@@ -10,10 +10,14 @@
 **Works:** 
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — attribution: accepted
 
-Compiler of the Haṭhapradīpikā (c. 1450), who gathered verses from some twenty earlier haṭha and rājayoga texts into a single four-part system taught 'solely for the sake of rājayoga'. He salutes his guru as 'Nātha' (HYP 1.2); the tradition places him in Gorakṣa's line. Nothing reliable is known of his life.
+The yogin who, having bowed to his guru, teaches haṭha solely for rājayoga (1.2), out of compassion for those in the darkness of many views (1.3), and says he knows it by the grace of Matsyendra, Gorakṣa and others (1.4).
 **Realization — the tradition's account:** He says he knows haṭhavidyā through the grace (prasāda) of Matsyendra, Gorakṣa and the other Siddhas, and offers the 'lamp of haṭha' out of compassion to those lost in the darkness of many doctrines (HYP 1.3–4).
 
-_Notes: HYP 1.2 'praṇamya śrīguruṃ nātham' — whether 'Nātha' names a specific guru is not settled._
+_Notes: Contribution from the HYP text only (ref 1.2)._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids).
+
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U28-hatha-texts, skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._

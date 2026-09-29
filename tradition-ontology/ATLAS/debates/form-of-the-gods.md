@@ -25,4 +25,4 @@ Not person-like: what is seen of them — fire, wind, sun, earth, moon — is no
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/5_vedang/3_pratis/yaska_nirukta.md (GRETIL, Sarup ed.) — Nirukta 7.6–7 was found: 'athākāracintanaṃ devatānām | puruṣavidhāḥ syur ity ekam … apuruṣavidhāḥ syur ity aparam … api vobhayavidhāḥ syuḥ'. Nirukta 7.4 was found: 'ekasyātmano 'nye devāḥ pratyaṅgāni bhavanti'.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

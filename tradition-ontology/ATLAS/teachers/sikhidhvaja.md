@@ -14,4 +14,4 @@ King of Mālava who renounced his kingdom for forest austerities but found no pe
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_mokSopAya.txt (Mokṣopāya critical text) — See Cūḍālā; śikhidhvajapravrajyā 6.88, sarvatyāga 6.96.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

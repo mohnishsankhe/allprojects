@@ -11,4 +11,4 @@
 Disciple of Kṛṣṇadās Payahārī, seated at Raivāsā (16th c.), founder of the rasik mode of Rāma devotion and guru of Nābhādās, whom he commanded to write the Bhaktamāl.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._

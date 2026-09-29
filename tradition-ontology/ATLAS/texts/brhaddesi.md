@@ -68,4 +68,4 @@ terms: [rāga (in music)](../terms/raga-sangita.md) · concepts: [Rāga](../conc
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked). Verse numbers follow the eBhāratī e-text._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._

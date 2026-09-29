@@ -13,4 +13,4 @@ The power of destruction and misfortune, whose lap and fetters threaten the livi
 _Notes: rests_on: tea:rgveda:10.18.10-13, tea:atharvaveda-saunaka:8.1.1-10_
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:14 IST._

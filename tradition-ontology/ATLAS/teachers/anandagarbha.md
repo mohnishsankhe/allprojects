@@ -10,4 +10,4 @@
 Great exegete of the yoga tantras (c. 9th c.), author of the Tattvālokakarī on the Tattvasaṃgraha and of works on the Sarvadurgatipariśodhana.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._

@@ -15,4 +15,4 @@
 **Related:** [pāda-sevana](padasevana.md), [caṭāri / śaṭhāri](satari.md)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._

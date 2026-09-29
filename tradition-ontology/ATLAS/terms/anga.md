@@ -17,4 +17,4 @@
 **Related:** [liṅga](linga.md), [jīva](jiva.md), [pradhāna](pradhana.md), [śeṣa](sesa.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U27-sant-baul, skeleton:U12-mimamsa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U27-sant-baul, skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._

@@ -10,4 +10,4 @@
 10th-c. Kannada poet, author of the Ādipurāṇa (941) and the Vikramārjunavijaya.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

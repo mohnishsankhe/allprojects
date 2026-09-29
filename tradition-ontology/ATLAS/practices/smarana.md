@@ -33,4 +33,4 @@ _Notes: Chs. 10–12 contribution, combining extractor A's prc:smarana and extra
 - 2026-09-29 text: corrected — tea:bhagavad-gita:8.7, tea:bhagavad-gita:8.8, tea:bhagavad-gita:8.14, tea:bhagavad-gita:9.22, tea:bhagavad-gita:9.34 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.9, tea:bhagavad-gita:12.2, tea:bhagavad-gita:12.8, tea:bhagavad-gita:12.14 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, skeleton:U25-alvar-bhakti-theory, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, skeleton:U25-alvar-bhakti-theory, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 23:14 IST._

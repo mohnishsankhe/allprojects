@@ -18,4 +18,4 @@ Hemacandra's grammar of Sanskrit and (in its eighth chapter) of the Prakrits and
 
 - 2026-09-28 websearch: partially-confirmed — https://www.wisdomlib.org/history/book/glimpses-of-history-of-sanskrit-literature/d/doc1546773.html — Hemacandra's grammar, whose eighth chapter covers the Prakrits and Apabhraṃśa, is a standard fact and is covered in the Wisdomlib survey of post-Pāṇinian grammars. The specific 1130–1150 date bracket was not checked.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

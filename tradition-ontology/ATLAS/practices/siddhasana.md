@@ -1,16 +1,17 @@
 # Siddhāsana (the adept's seat)
 
-`prc:siddhasana` · `skeleton` · confidence high
+`prc:siddhasana` · `sourced` · confidence moderate
 
 **Category:** posture
 **Convergence:** 3 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
 **Taught in:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 
-Seated with the heel of one foot pressing the perineum (yonisthāna) and the other foot placed above the genitals, body straight, chin on the chest (a form of jālandhara), senses restrained and the gaze fixed between the brows (HYP 1.35; GS 2.7; ŚS 3.85; GŚ 8). A second arrangement with the left ankle above the genitals is given 'by another view' (HYP 1.36). The texts call it the chief of postures, the one to sit in always.
+The best of the four chief postures: a seated posture with a heel at the base of the trunk, chin steady on the chest and the gaze fixed between the brows (HYP 1.35-40); the text says it opens the door of liberation and calls it also vajrāsana, muktāsana or guptāsana (1.37).
 **Stage:** beginner
 **Duration:** the HYP (1.40) speaks of twelve years of practice for completion
 **Signs of progress:** ['purifies the 72,000 channels (HYP 1.39)', 'with it kevala kumbhaka, unmanī and the three locks arise spontaneously (HYP 1.41-42)', 'practised with moderate diet and meditation on the self for twelve years it brings completion (HYP 1.40)', 'breaks open the door of liberation (HYP 1.35; GS 2.7)']
 **Sources:** 
+  - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 1.34-1.39; rests_on: ["tea:hatha-yoga-pradipika:1.34", "tea:hatha-yoga-pradipika:1.35", "tea:hatha-yoga-pradipika:1.36", "tea:hatha-yoga-pradipika:1.37", "tea:hatha-yoga-pradipika:1.38", "tea:hatha-yoga-pradipika:1.39"]
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 1.33-43; rests_on: ["tea:hatha-yoga-pradipika:1.33-34", "tea:hatha-yoga-pradipika:1.35-36", "tea:hatha-yoga-pradipika:1.37", "tea:hatha-yoga-pradipika:1.38-40", "tea:hatha-yoga-pradipika:1.41-42", "tea:hatha-yoga-pradipika:1.43"]
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 2.7; rests_on: ["tea:gheranda-samhita:2.7"]
   - [Śiva Saṃhitā](../texts/siva-samhita.md) — ref: 3.84-87; rests_on: ["tea:siva-samhita:3.84", "tea:siva-samhita:3.85-87"]
@@ -29,4 +30,8 @@ Seated with the heel of one foot pressing the perineum (yonisthāna) and the oth
 _Notes: Brahmānanda (Jyotsnā on HYP 1.36) calls the first form Matsyendra's and the second that of another school. GŚ numbering per the GRETIL e-text (Kuvalayananda–Shukla)._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:hatha-yoga-pradipika:1.34, tea:hatha-yoga-pradipika:1.35, tea:hatha-yoga-pradipika:1.36, tea:hatha-yoga-pradipika:1.37, tea:hatha-yoga-pradipika:1.38, tea:hatha-yoga-pradipika:1.39 — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids).
+
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U29-hatha-practices, skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._

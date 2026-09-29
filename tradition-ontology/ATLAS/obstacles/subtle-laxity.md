@@ -12,7 +12,7 @@ Laxity in which the object remains with some clarity but the intensity of clarit
   - [Great Treatise on the Stages of the Path to Enlightenment (lam rim chen mo)](../texts/lamrim-chenmo.md) — ref: calm.subtle-laxity; rests_on: ["tea:lamrim-chenmo:calm.subtle-laxity"]
 
 ## Equivalents (interpretation layer)
-- partial: [Sinking (laya)](laya.md) — the general Buddhist sinking; subtle laxity is its hardest-to-detect form
+- partial: [Laya (absorption of the mind, Kārikā 3.35, 3.42, 3.44)](laya.md) — the general Buddhist sinking; subtle laxity is its hardest-to-detect form
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

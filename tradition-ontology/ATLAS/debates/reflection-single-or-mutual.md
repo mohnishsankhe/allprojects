@@ -25,4 +25,4 @@ Vijñānabhikṣu: reflection is mutual — consciousness is reflected in the bu
 **Candidate readings:** P2-standpoint: two analytic models of one relation (buddhi-side vs puruṣa-side description of knowing).; Textual: decide by the bhāṣya's wording at 1.7 ('pauruṣeyaś cittavṛttibodhaḥ') and 4.22.; Leave distinct: Vijñānabhikṣu explicitly rejects the single-reflection view.
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 23:14 IST._

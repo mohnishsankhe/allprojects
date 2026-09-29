@@ -11,4 +11,4 @@
 Indian laywoman meditation master (Nani Bala Barua, 1911–1989), trained in the Mahāsi method, renowned for her attainments and her teaching of householders.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

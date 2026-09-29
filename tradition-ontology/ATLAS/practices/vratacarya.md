@@ -6,7 +6,7 @@
 **Convergence:** 2 independent lineage(s): [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
 **Taught in:** [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
 
-Summary: after realization, the yogin wanders in cremation grounds and among outcastes wearing bone ornaments, acting 'mad', to test and deepen equal vision; a hidden observance (Pañcakrama 5.35).
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** realized
 **Prerequisites:** ['realization of equality (Mekopa)', 'warmth in meditation (Hevajra I.6)']
 **Sources:** 
@@ -19,4 +19,4 @@ Summary: after realization, the yogin wanders in cremation grounds and among out
 - One who realizes the natural state but acts basely is like a king who comes down from his throne to sweep. — [Dohākoṣa-upadeśagīti of Saraha (the 'Queen Dohā')](../texts/dohakosa-queen-saraha.md) v19-20
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._

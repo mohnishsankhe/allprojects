@@ -16,4 +16,4 @@ Standing in water up to the neck, water is drawn in through the nostrils and exp
 - To be practised in a secluded, uninhabited place with a one-pointed mind. — [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) 3.90
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

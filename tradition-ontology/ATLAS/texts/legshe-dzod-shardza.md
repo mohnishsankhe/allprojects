@@ -28,4 +28,4 @@ teachers: [Shardza Tashi Gyaltsen (shar rdza bkra shis rgyal mtshan)](../teacher
 _Notes: Optional (Bön). Not local; from general knowledge._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

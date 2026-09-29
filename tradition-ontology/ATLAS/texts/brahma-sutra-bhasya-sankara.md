@@ -35,7 +35,7 @@ The existence of Brahman is known because it is the self of all: everyone is awa
 
 _level: ultimate · standpoint: substance · path: knowledge · stage: all · types: ultimate, consciousness-mind_
 
-terms: [ātman](../terms/atman.md), [brahman](../terms/brahman.md) · concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md)
+terms: [ātman](../terms/atman.md), [brahman](../terms/brahman.md) · concepts: [Ātman is brahman (as stated in the Māṇḍūkya)](../concepts/atman-brahman-identity.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md)
 
 ### 1.1.2 <a id="tea-brahma-sutra-bhasya-sankara-1-1-2"></a>
 `skeleton` · confidence moderate
@@ -401,10 +401,10 @@ To remove this cause of evil and to attain the knowledge of the oneness of the s
 
 _level: bridging · standpoint: seeker · path: knowledge · stage: all · types: karma-liberation, ultimate_
 
-concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md), [The four preliminaries (anubandha-catuṣṭaya)](../concepts/anubandha-catustaya.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md)
+concepts: [Ātman is brahman (as stated in the Māṇḍūkya)](../concepts/atman-brahman-identity.md), [The four preliminaries (anubandha-catuṣṭaya)](../concepts/anubandha-catustaya.md) · teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md)
 
 
 _Notes: Sub-commentaries: Padmapāda's Pañcapādikā (→ Prakāśātman's Vivaraṇa), Vācaspati's Bhāmatī (→ Amalānanda's Kalpataru → Appayya's Parimala), Ānandagiri's Nyāyanirṇaya, Govindānanda's Ratnaprabhā._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._

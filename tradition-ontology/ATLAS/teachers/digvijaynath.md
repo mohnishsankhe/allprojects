@@ -11,4 +11,4 @@ Mahant of the Gorakhnāth Maṭh, Gorakhpur, in the mid-20th century.
 _Notes: Listed only as a head of the Gorakhpur seat; succession Digvijaynāth → Avaidyanāth → Ādityanāth as commonly reported._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._

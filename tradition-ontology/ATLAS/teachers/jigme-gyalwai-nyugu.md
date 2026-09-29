@@ -11,4 +11,4 @@
 Disciple of Jigme Lingpa and Patrul Rinpoche's root teacher, whose oral teaching of the preliminaries Patrul wrote down as the Words of My Perfect Teacher.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

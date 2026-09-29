@@ -21,4 +21,4 @@
 **Related:** [kārya](karya.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U11-nyaya-vaisesika, skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U17-pasupata-kapalika, skeleton:U03-principal-upanisads, skeleton:U11-nyaya-vaisesika, skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._

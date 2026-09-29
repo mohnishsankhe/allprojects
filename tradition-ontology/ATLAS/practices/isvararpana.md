@@ -16,17 +16,20 @@ Renouncing all actions in Kṛṣṇa, with a mind directed to the self, free of
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 9.27; rests_on: ["tea:bhagavad-gita:9.27"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 9.28; rests_on: ["tea:bhagavad-gita:9.28"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 3.30; 5.10; 9.27–28; 12.6; 18.46, 18.57; rests_on: ["tea:bhagavad-gita:3.30", "tea:bhagavad-gita:9.27-28", "tea:bhagavad-gita:12.6-7", "tea:bhagavad-gita:18.46", "tea:bhagavad-gita:18.57-58"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.57-58; rests_on: ["tea:bhagavad-gita:18.57", "tea:bhagavad-gita:18.58"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.6; rests_on: ["tea:bhagavad-gita:12.6"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.6-7; rests_on: ["tea:bhagavad-gita:12.6-7"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.7; rests_on: ["tea:bhagavad-gita:12.7"]
 
 ## The texts' own warnings
 - Those who cavil at this teaching and do not follow it are deluded in all knowledge and lost. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 3.32
+- If out of the sense of 'I' one will not listen, one perishes. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 18.58
 
 ---
 **Verification checks**
 
 - 2026-09-29 text: corrected — tea:bhagavad-gita:8.7, tea:bhagavad-gita:9.27, tea:bhagavad-gita:9.28 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.57, tea:bhagavad-gita:18.58 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.6, tea:bhagavad-gita:12.6-7, tea:bhagavad-gita:12.7 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 23:14 IST._

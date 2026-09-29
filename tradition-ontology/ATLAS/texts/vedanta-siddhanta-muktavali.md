@@ -26,4 +26,4 @@ terms: [dṛṣṭi-sṛṣṭi-vāda](../terms/drsti-srsti-vada.md), [eka-jīva
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

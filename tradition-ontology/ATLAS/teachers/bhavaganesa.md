@@ -14,4 +14,4 @@
 Pupil of Vijñānabhikṣu; author of the Tattvayāthārthyadīpana on the Tattvasamāsa.
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga. Generated 2026-09-29 23:14 IST._

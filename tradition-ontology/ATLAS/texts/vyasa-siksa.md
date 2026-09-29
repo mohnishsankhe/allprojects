@@ -15,4 +15,4 @@ A phonetic manual of the Taittirīya Black Yajurveda, closely related to the Tai
 
 - 2026-09-28 catalog: confirmed — catalog:raw_etexts:vyasa_shiksha — Extant locally among the Taittirīya (Black Yajurveda) Śikṣās, as the entry says.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

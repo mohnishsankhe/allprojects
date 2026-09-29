@@ -14,4 +14,4 @@ Commentator on the Nighaṇṭu.
 
 - 2026-09-28 websearch: confirmed — https://www.wisdomlib.org/definition/devaraja-yajvan — Low-confidence entry confirmed: author of the Nighaṇṭu-nirvacana (12th c., or before the 14th c.).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

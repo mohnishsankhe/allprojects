@@ -410,3 +410,18 @@ Conservative choices made without asking, with reasons. Newest last.
   - the level-tag policy for "unmarked" versus "bridging";
   - cosmetic duplicates left by the code-combined merge;
   - the commentators' views, which are recalled and should be checked in Wave 2.
+
+## 2026-09-29 23:15 IST — HYP judge (sample 92.7%, so all 393 checked, 40 fixed); restricted practices redacted in merged data
+- **HYP.**
+  - 393 teachings are text-verified.
+  - Three restricted entries that gave step-level method (1.46, 2.49, 4.68) are cut back to summaries.
+  - 1.44 (bound lotus) is now restricted, making 241 restricted.
+  - Six health, death or power claims are framed as "the text says …".
+  - The text's own limits ("yathāśakti", "svalpaṃ prathamasādhanam") are quoted verbatim.
+- **Merge safety.** The merged ontology kept older skeleton step-level method text on restricted practices: 91 of 166 entries had step-like text (prc:mahamudra, dhauti, candrāyaṇa, chöd …). This broke the standing rule that dangerous practices stay summary-only. **scripts/merge.py now redacts** every restricted practice, the conservative option:
+  - removed: method_summary, alt_method_summary, sequences, steps, method, alt_notes and signs_of_progress;
+  - put in their place: a summary-only note;
+  - kept: name, category, lineages, sources and the texts' own warnings;
+  - recorded: the removed field names, in method_redacted.
+  After re-merging, 166 of 166 restricted entries are clean (no digits, step words or result claims). Shards are untouched, and teachings' originals keep the texts' own words. The atlas has been rebuilt.
+- **Still open (NEXT_STEPS).** Some older skeleton *teachings* about restricted practices may carry step-level paraphrase. The app never cites them (restricted teachings are not citable), but the ontology needs a sweep for them.

@@ -13,4 +13,4 @@
 - contrasts-with → [The six centres (Nāth enumeration)](six-cakras-natha.md): different counts of the body's centres in different Nāth texts — rests on [8-10](../texts/yogavisaya.md#tea-yogavisaya-8-10), [5.25-27](../texts/kaulajnananirnaya.md#tea-kaulajnananirnaya-5-25-27)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._

@@ -228,7 +228,7 @@ Among this community there are monks devoted to the development of the four righ
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, teacher-transmission_
 
-terms: [bojjhaṅga](../terms/bojjhanga.md), [ānāpānassati](../terms/anapanasati.md) · concepts: [The seven awakening factors (satta bojjhaṅgā)](../concepts/seven-bojjhangas.md), [The noble eightfold path (ariya aṭṭhaṅgika magga)](../concepts/noble-eightfold-path.md) · practices: [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md), [Contemplation of the unlovely (aśubhā-bhāvanā)](../practices/asubha-bhavana.md), [Development of equanimity (upekkhā)](../practices/upekkha-bhavana.md), [Perception of impermanence](../practices/anicca-sanna.md)
+terms: [bojjhaṅga](../terms/bojjhanga.md), [ānāpānassati](../terms/anapanasati.md) · concepts: [The seven awakening factors (satta bojjhaṅgā)](../concepts/seven-bojjhangas.md), [The noble eightfold path (ariya aṭṭhaṅgika magga)](../concepts/noble-eightfold-path.md) · practices: [Mindfulness of breathing (ānāpānassati)](../practices/anapanasati.md), [Contemplation of the foul (asubha-bhāvanā): summary only](../practices/asubha-bhavana.md), [Development of equanimity (upekkhā)](../practices/upekkha-bhavana.md), [Perception of impermanence](../practices/anicca-sanna.md)
 
 ### mn118:15 <a id="tea-anapanasati-sutta-mn118-15"></a>
 `text-verified` · confidence high
@@ -573,4 +573,4 @@ concepts: [The fulfilment chain of mindfulness of breathing (MN 118)](../concept
 _Notes: SuttaCentral uid mn118; Mahāsaṅgīti title 'Ānāpānassatisutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

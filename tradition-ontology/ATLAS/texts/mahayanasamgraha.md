@@ -78,4 +78,4 @@ concepts: [The three bodies of a buddha (Yogācāra)](../concepts/three-bodies-y
 _Notes: No Sanskrit original survives. Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._

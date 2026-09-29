@@ -17,4 +17,4 @@ A Chan lexicon (1108) by Muan Shanqing, the earliest source generally cited for 
 _Notes: Not held locally; the claim about the first full formula is the common scholarly account — moderate confidence._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

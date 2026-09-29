@@ -19,4 +19,4 @@ Four stages: scripture-based meditation shifting among aspects, words and activi
 - The tradition holds that the first two stages require the best bodily frame and knowledge of the lost Pūrvas, and so are not attainable in the present age in Bharata. — [Tattvārthasūtra](../texts/tattvartha-sutra.md) 9.37-38
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

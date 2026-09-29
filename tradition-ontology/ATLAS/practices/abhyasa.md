@@ -36,4 +36,4 @@ _Notes: Chs. 10–12 contribution, combining extractor A's prc:abhyasa and extra
 - 2026-09-29 text: corrected — tea:bhagavad-gita:12.9, tea:bhagavad-gita:12.10, tea:bhagavad-gita:12.12 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.26, tea:bhagavad-gita:6.35, tea:bhagavad-gita:6.44 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 23:14 IST._

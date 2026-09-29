@@ -1,12 +1,13 @@
 # sahaja
 
-`trm:sahaja` · `skeleton` · confidence high
+`trm:sahaja` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Native script:** सहज
-**Literal:** born together, innate, natural
+**Literal:** innate, natural
 
 ## Definitions by tradition
+- [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): The natural state (sahajāvasthā): it arises of itself for the yogin who has given up all action and in whom awareness of śakti has arisen (4.11), is hard to gain without the true guru's compassion (4.9), and 'sahajā' is one of the words for samādhi (4.4).
 - [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md): The innate, natural state: sahaja-samādhi, in which the mind sees the mind, is liberation (AmŚ 54); sahajā is a synonym of rājayoga and samādhi (HYP 4.4).
 - [Yoginī Kaula (Yoginīkaula) of Matsyendra](../lineages/yogini-kaula.md): The innate principle abiding in the heart (KJN 17.5, 17.21); the innate Kaula path abiding in samarasa, as against the 'made' (kṛtaka) path of kuṇḍalī (Akulavīra B.43).
 - [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md): The natural state (sahajāvasthā), a synonym of samādhi (HYP 4.4), which arises of itself when śakti is awakened (4.11) but is hard to obtain without a true guru's compassion (4.9); 'natural bliss' in the paricaya stage (4.75).
@@ -28,8 +29,13 @@
 
 ## Equivalents (interpretation layer)
 - same-under-standpoint: [unmanī](unmani.md) (the synonym-list of the Haṭhapradīpikā (4.3–4)) — HYP lists sahajā among the names of the one highest state
+**Related:** [samādhi (as the HYP defines it)](samadhi-hyp.md)
 
 _Notes: Haridāsī sense only; not the Sahajiyā or Nāth sense._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U44-indian-vajrayana, skeleton:U27-sant-baul, skeleton:U46-kagyu, skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:hatha-yoga-pradipika:4.11, tea:hatha-yoga-pradipika:4.4, tea:hatha-yoga-pradipika:4.9 — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids).
+
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U44-indian-vajrayana, skeleton:U27-sant-baul, skeleton:U46-kagyu, skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._

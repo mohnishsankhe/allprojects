@@ -1,6 +1,6 @@
-# Obstacles (619)
+# Obstacles (636)
 
-skeleton: 516 · sourced: 103
+skeleton: 505 · sourced: 131
 
 - ['I and mine' as māyā](maya-i-and-mine.md) — `skeleton`
 - ['I' and 'mine' (yāṉ, eṉatu)](yan-enatu.md) — `skeleton`
@@ -21,7 +21,9 @@ skeleton: 516 · sourced: 103
 - [Agitation (kṣobha)](ksobha.md) — `skeleton`
 - [Agitation (udvega)](udvega.md) — `skeleton`
 - [Anger (dveṣa, pratigha)](anger.md) — `skeleton`
+- [Anger (kodha)](kodha.md) — `sourced`
 - [Anger (krodha)](krodha.md) — `skeleton`
+- [Arrogance (darpa)](darpa.md) — `skeleton`
 - [Arrogance (stabdhatā)](stabdhata.md) — `skeleton`
 - [Arrogance, corruption and laziness (that hinder faith)](arrogance-and-laziness.md) — `skeleton`
 - [Association with bhavis](bhavi-sanga.md) — `skeleton`
@@ -32,6 +34,7 @@ skeleton: 516 · sourced: 103
 - [Attachment (saṅga)](sanga.md) — `skeleton`
 - [Attachment (saṅga)](sanga-attachment.md) — `sourced`
 - [Attachment and aversion (pejja-dosa, rāga-dveṣa)](pejja-dosa.md) — `skeleton`
+- [Attachment and aversion in the Vijñānabhairava](raga-dvesa-trika.md) — `sourced`
 - [Attachment and pride at the celestials' invitation](sanga-smaya.md) — `skeleton`
 - [Attachment even to the good (praśasta-rāga)](prasasta-raga.md) — `skeleton`
 - [Attachment to meditative experiences](attachment-to-nyams.md) — `skeleton`
@@ -47,9 +50,9 @@ skeleton: 516 · sourced: 103
 - [Attachment to worldly supernormal powers](worldly-iddhi-attachment.md) — `skeleton`
 - [Attachment, pride and heedlessness when invited (YS 3.51)](sanga-smaya-pramada.md) — `sourced`
 - [Austerity of the fool (bāla-tapas)](bala-tapa.md) — `skeleton`
+- [Avarice (macchariya)](macchariya.md) — `sourced`
 - [Aversion (dveṣa)](dvesa.md) — `sourced`
 - [Aversion (dveṣa)](dvesa-nyaya.md) — `skeleton`
-- [Aversion (fetter)](patigha.md) — `skeleton`
 - [Bad company (duḥsaṅga)](duhsanga.md) — `skeleton`
 - [Bad company (duḥsaṅga)](dussanga.md) — `sourced`
 - [Bad company (kusaṅg)](kusang.md) — `skeleton`
@@ -60,6 +63,7 @@ skeleton: 516 · sourced: 103
 - [Beginningless latent tendencies (anādi-vāsanā)](anadi-vasana.md) — `skeleton`
 - [Begun karma (prārabdha)](prarabdha-karma.md) — `skeleton`
 - [Being cheated by those who live off the unseen](dhurta-vancana.md) — `skeleton`
+- [Being struck down by thought-constructs](vikalpa-bound-trika.md) — `sourced`
 - [Being without a guru (nigurā)](nigura.md) — `skeleton`
 - [Belonging to another (anya-śeṣatva)](anya-sesatva.md) — `skeleton`
 - [Birth at a junction (gaṇḍānta)](gandanta-janma.md) — `skeleton`
@@ -89,7 +93,7 @@ skeleton: 516 · sourced: 103
 - [Combined aggravation of all three doṣas (sannipāta)](sannipata.md) — `skeleton`
 - [Combustion of Jupiter or Venus](guru-sukra-asta.md) — `skeleton`
 - [Concealment (tirobhāva) as the Lord's binding power](tirobhava.md) — `skeleton`
-- [Conceit (māna)](mana.md) — `skeleton`
+- [Conceit (māna)](mana.md) — `sourced`
 - [Conceptual construction (kalpanā, vikalpa)](kalpana.md) — `skeleton`
 - [Conceptual elaboration (prapañca)](prapanca.md) — `skeleton`
 - [Conceptual thought (vikalpa) as the adverse side](conceptual-thought.md) — `skeleton`
@@ -114,7 +118,7 @@ skeleton: 516 · sourced: 103
 - [Defects of a (human) speaker](purusa-dosa.md) — `skeleton`
 - [Defiled mind (malina-cetas)](malina-cetas.md) — `skeleton`
 - [Delusion (bhram)](bhram.md) — `skeleton`
-- [Delusion (moha)](moha.md) — `skeleton`
+- [Delusion (moha)](moha.md) — `sourced`
 - [Delusion (moha)](moha-nyaya.md) — `skeleton`
 - [Delusion by one's own powers](vyamoha-sakti.md) — `skeleton`
 - [Demons and sorcerers (rakṣas, yātudhāna)](raksas.md) — `skeleton`
@@ -129,6 +133,7 @@ skeleton: 516 · sourced: 103
 - [Desire for prestige (pratiṣṭhāśā)](pratistha-asa.md) — `skeleton`
 - [Desire for women (peṇṇācai)](pennasai.md) — `skeleton`
 - [Desire, anger, delusion (kāmam, vekuḷi, mayakkam)](kamam-vekuli-mayakkam.md) — `skeleton`
+- [Desire, anger, greed, delusion, pride, envy](six-passions-trika.md) — `sourced`
 - [Desiring what one is unfit for](ayogya-iccha.md) — `skeleton`
 - [Despondency (viṣāda)](visada.md) — `skeleton`
 - [Devotion to self-mortification (attakilamathānuyoga)](attakilamathanuyoga.md) — `skeleton`
@@ -137,7 +142,6 @@ skeleton: 516 · sourced: 103
 - [Disputation (vāda)](vada-disputation.md) — `skeleton`
 - [Distraction](distraction-vajrayana.md) — `skeleton`
 - [Distraction (g.yeng ba)](distraction.md) — `skeleton`
-- [Distraction (vikṣepa)](viksepa.md) — `skeleton`
 - [Distress, being shaken (vyathā)](vyatha.md) — `skeleton`
 - [Distress, narrowness (aṃhas)](amhas.md) — `skeleton`
 - [Dongshan's three leaks](three-leaks.md) — `skeleton`
@@ -149,13 +153,13 @@ skeleton: 516 · sourced: 103
 - [Doubting the Buddha's wisdom](doubt-of-buddha-wisdom.md) — `skeleton`
 - [Dualistic grasping (gzung 'dzin)](dualistic-grasping.md) — `skeleton`
 - [Dullness (styāna)](styana.md) — `sourced`
-- [Dullness and drowsiness (thinamiddha)](thina-middha.md) — `sourced`
 - [Dullness and scattering (hunchen, sanluan / diaoju)](torpor-and-scattering.md) — `skeleton`
 - [Eel-wriggling evasion](amaravikkhepa.md) — `skeleton`
 - [Ego-clinging (bdag 'dzin)](dakdzin.md) — `skeleton`
 - [Ego-sense and the roots of engagement (Caraka)](ahankara-and-attachment-caraka.md) — `skeleton`
 - [Elation (harṣa)](harsa.md) — `skeleton`
 - [Enjoyments born of contact (saṃsparśaja bhoga)](samsparsaja-bhoga.md) — `skeleton`
+- [Envy (issā)](issa.md) — `sourced`
 - [Envy (matsara)](matsara.md) — `skeleton`
 - [Erroneous vision (bhrānti-darśana)](bhranti-darsana.md) — `sourced`
 - [Error (viparyaya): the five-jointed avidyā](viparyaya.md) — `skeleton`
@@ -195,15 +199,18 @@ skeleton: 516 · sourced: 103
 - [Grasping at extremes](grasping-lojong.md) — `skeleton`
 - [Grasping at inherent existence (true-grasping)](svabhava-graha.md) — `skeleton`
 - [Grasping at nirvāṇa](grasping-at-nirvana.md) — `skeleton`
-- [Greed (lobha)](lobha.md) — `skeleton`
+- [Greed (lobha)](lobha.md) — `sourced`
 - [Greed, anger and delusion as roots of harmful thoughts](lobha-krodha-moha.md) — `sourced`
+- [Grief (soka)](soka-pali.md) — `sourced`
 - [Grief (śoka)](soka.md) — `sourced`
 - [Gross and subtle activities of the afflictions](klesa-vrtti-gross-subtle.md) — `sourced`
+- [Harbouring resentment (upanayhati)](upanaha.md) — `sourced`
 - [Haribhadra's eight faults of the mind in yoga](eight-yoga-dosas.md) — `skeleton`
 - [Harm by the eight classes of gods and spirits (lha srin sde brgyad)](eight-classes-harm.md) — `skeleton`
 - [Harmful thoughts (vitarka): violence and the rest](vitarka-himsadi.md) — `sourced`
-- [Hatred (dosa)](dosa.md) — `skeleton`
+- [Hate (dosa)](dosa.md) — `sourced`
 - [Hatred of Hari and his devotees](haridvesa.md) — `skeleton`
+- [Heedlessness (pamāda)](pamada.md) — `sourced`
 - [Heedlessness (pramāda)](pramada.md) — `sourced`
 - [Hope and craving (āśā, tṛṣṇā)](asa-trsna.md) — `skeleton`
 - [Hope and fear](hope-and-fear.md) — `skeleton`
@@ -250,6 +257,7 @@ skeleton: 516 · sourced: 103
 - [Intrusion of objects and bodily urges in samādhi](samadhi-intrusions.md) — `skeleton`
 - [Irresolution: the many-branched understanding](avyavasaya.md) — `skeleton`
 - [Karma as bond](karma-mala.md) — `skeleton`
+- [Kaṣāya (the mind "sakaṣāya", Kārikā 3.44)](kasaya.md) — `sourced`
 - [Kemadruma yoga](kemadruma.md) — `skeleton`
 - [Knowing otherwise (wrong cognition)](anyathajnana.md) — `skeleton`
 - [Knowledge without lineage (pride of book-learning)](paramparya-hina-jnana.md) — `skeleton`
@@ -259,8 +267,8 @@ skeleton: 516 · sourced: 103
 - [Lack of lordship (anaiśvarya)](anaisvarya.md) — `skeleton`
 - [Languor (glāni)](glani.md) — `skeleton`
 - [Lapse or defect in ritual (vidhilopa, chidra)](vidhilopa.md) — `skeleton`
-- [Latent attachment (kaṣāya)](kasaya.md) — `skeleton`
 - [Laxity and excitement, and the other faults of concentration](laxity-and-excitement.md) — `skeleton`
+- [Laya (absorption of the mind, Kārikā 3.35, 3.42, 3.44)](laya.md) — `sourced`
 - [Laziness (ālasya)](alasya.md) — `sourced`
 - [Laziness and its kinds](laziness-threefold.md) — `skeleton`
 - [Licensed evil (zōaku muge)](licensed-evil.md) — `skeleton`
@@ -311,6 +319,7 @@ skeleton: 516 · sourced: 103
 - [Outward-turned tendency](bahya-vasana.md) — `skeleton`
 - [Overeating (atyāhāra)](atyahara.md) — `skeleton`
 - [Overexertion (prayāsa)](prayasa.md) — `skeleton`
+- [Passion (rāga)](raga-pali.md) — `sourced`
 - [Picking and choosing (jianze)](picking-and-choosing.md) — `skeleton`
 - [Planetary affliction (graha-pīḍā)](graha-pida.md) — `skeleton`
 - [Poison and venom performance](visa-gara-anusthana.md) — `skeleton`
@@ -334,16 +343,17 @@ skeleton: 516 · sourced: 103
 - [Pride of the gods](abhimana.md) — `sourced`
 - [Pride, thinking highly of oneself (mānitva, māna)](manitva.md) — `skeleton`
 - [Proliferation (papañca)](papanca.md) — `skeleton`
+- [Rasāsvāda (relishing the happiness of the state)](rasasvada.md) — `sourced`
 - [Recitation without knowing the meaning](artha-ajnana.md) — `skeleton`
 - [Recitation without understanding](ignorance-of-meaning.md) — `sourced`
 - [Rejecting the true dharma (saddharmapratikṣepa)](rejecting-the-true-dharma.md) — `skeleton`
 - [Reliance on bare reasoning](kevala-tarka.md) — `skeleton`
 - [Reliance on fate](daiva-paratva.md) — `sourced`
 - [Reliance on other supports or other gods (anyāśraya)](anyasraya.md) — `skeleton`
-- [Relishing the bliss (rasāsvāda)](rasasvada.md) — `skeleton`
 - [Relishing the taste of meditation without skillful means](attachment-to-meditative-taste.md) — `skeleton`
 - [Relying on favourable planets or on rites alone](reliance-on-timing-or-rites-alone.md) — `skeleton`
 - [Renunciation without knowledge or for gain](ascetic-hypocrisy.md) — `sourced`
+- [Resentment and aversion (paṭigha, āghāta)](patigha.md) — `sourced`
 - [Restlessness (fetter)](uddhacca.md) — `skeleton`
 - [Restlessness and remorse (uddhaccakukkucca)](uddhacca-kukkucca.md) — `sourced`
 - [Restlessness of mind](manas-cancalya.md) — `sourced`
@@ -362,23 +372,26 @@ skeleton: 516 · sourced: 103
 - [Self-grasping as the root of faults](self-grasping-pramana.md) — `skeleton`
 - [Self-power calculation (hakarai)](self-power-calculation.md) — `skeleton`
 - [Semblance of devotional emotion (ratyābhāsa)](ratyabhasa.md) — `skeleton`
+- [Sense of "mine" (mamāyita)](mamatva-pali.md) — `sourced`
 - [Sensual desire (kāmacchanda)](kamacchanda.md) — `sourced`
 - [Sensual lust (fetter)](kamaraga.md) — `skeleton`
 - [Sexual association, as the renunciant texts frame it (strī-saṅga)](yosit-sanga.md) — `sourced`
 - [Shame before people and family honour (lok-lāj)](loka-lajja.md) — `skeleton`
 - [Sin and offence (enas, āgas)](enas.md) — `skeleton`
-- [Sinking (laya)](laya.md) — `skeleton`
 - [Six enemies (ṣaḍ-ripu)](six-enemies.md) — `sourced`
 - [Six things that destroy devotion](six-spoilers-of-bhakti.md) — `skeleton`
 - [Six waves (ūrmi)](six-urmis.md) — `sourced`
 - [Slandering and turning from the guru](guru-apavada.md) — `skeleton`
 - [Sleep as a bond of tamas (nidrā)](nidra.md) — `skeleton`
 - [Slighting a devotee or the guru](devotee-transgression.md) — `skeleton`
+- [Sloth and torpor (thīnamiddha)](thina-middha.md) — `sourced`
+- [Sloth, laziness (kosajja)](kosajja.md) — `sourced`
 - [Sorrowful and cruel meditation](arta-raudra-dhyana.md) — `skeleton`
 - [Speaking ill of others](paraninda.md) — `skeleton`
 - [Speculative views](ditthi.md) — `skeleton`
 - [Spirit harm (gdon)](don-spirit-harm.md) — `skeleton`
 - [Stain, impurity, fault (kalmaṣa, kilbiṣa, pāpa)](kalmasa.md) — `skeleton`
+- [Stinginess (macchera)](macchera.md) — `sourced`
 - [Subtle laxity (bying ba phra mo)](subtle-laxity.md) — `skeleton`
 - [Suppression of the natural urges](vega-vidharana.md) — `skeleton`
 - [Taking emptiness as a view](sunyata-drsti.md) — `skeleton`
@@ -461,13 +474,13 @@ skeleton: 516 · sourced: 103
 - [The four hundred and four diseases](four-hundred-four-diseases.md) — `skeleton`
 - [The four instincts (saṃjñā)](four-samjnas.md) — `skeleton`
 - [The four inversions (and the Mahāyāna double set)](four-viparyasa.md) — `skeleton`
-- [The four kinds of clinging (upādāna)](four-upadanas.md) — `skeleton`
+- [The four kinds of clinging (upādāna)](four-upadanas.md) — `sourced`
 - [The four kinds of idle talk (vikathā)](four-vikathas.md) — `skeleton`
 - [The four kinds of unwanted things (anartha)](anartha-four-kinds.md) — `skeleton`
 - [The four Māras](four-maras.md) — `skeleton`
 - [The four māras of Chöd](four-maras-chod.md) — `skeleton`
 - [The four notions (self, being, soul, person)](four-notions.md) — `skeleton`
-- [The four obstacles to nirvikalpa samādhi](four-obstacles-to-samadhi.md) — `skeleton`
+- [The four obstacles to absorption (laya, vikṣepa, kaṣāya, rasāsvāda)](four-obstacles-to-samadhi.md) — `sourced`
 - [The four passions (krodha, māna, māyā, lobha) with their four varieties](four-kasayas.md) — `sourced`
 - [The four perversions (vipallāsa)](four-vipallasas.md) — `skeleton`
 - [The four perversions (viparyāsa)](four-viparyasas.md) — `skeleton`
@@ -526,6 +539,7 @@ skeleton: 516 · sourced: 103
 - [The six root afflictions (Yogācāra)](six-root-afflictions-yogacara.md) — `skeleton`
 - [The six stains (dri ma drug)](six-stains.md) — `skeleton`
 - [The six stains of defilement (kleśamala)](six-klesamalas.md) — `skeleton`
+- [The six that destroy yoga (HYP 1.15)](hyp-six-destroyers.md) — `sourced`
 - [The six upasargas (Liṅga/Śiva Purāṇa)](upasargas-linga-siva.md) — `sourced`
 - [The sixteen defilements of the mind](sixteen-upakkilesa.md) — `skeleton`
 - [The snare of Kāl](kal-snare.md) — `skeleton`
@@ -534,7 +548,7 @@ skeleton: 516 · sourced: 103
 - [The ten defilements (kilesa-vatthu)](ten-kilesas.md) — `skeleton`
 - [The ten fetters (saṃyojana)](ten-fetters.md) — `skeleton`
 - [The ten fetters in the Abhidhamma list](ten-fetters-abhidhamma.md) — `skeleton`
-- [The ten impediments (paḷibodha)](ten-palibodhas.md) — `skeleton`
+- [The ten impediments (paḷibodha)](ten-palibodhas.md) — `sourced`
 - [The ten imperfections of insight (vipassanūpakkilesa)](ten-vipassanupakkilesas.md) — `skeleton`
 - [The ten obstacles of yoga (Liṅga/Śiva Purāṇa)](puranic-ten-antarayas.md) — `sourced`
 - [The ten offences against the name](nama-aparadha.md) — `sourced`
@@ -578,6 +592,7 @@ skeleton: 516 · sourced: 103
 - [The two nooses of dharma and adharma](dharma-adharma-pasa.md) — `skeleton`
 - [The unbearable offence (asahya-apacāra)](asahya-apacara.md) — `skeleton`
 - [The unruly mind](man-sant.md) — `skeleton`
+- [The unsteady mind (citta)](restless-mind-pali.md) — `sourced`
 - [The unyoked mind (ayukta manas)](ayukta-manas.md) — `sourced`
 - [The upasargas of the Mārkaṇḍeya](upasargas-markandeya.md) — `sourced`
 - [The urges to be restrained](dharaniya-vegas.md) — `skeleton`
@@ -605,6 +620,7 @@ skeleton: 516 · sourced: 103
 - [Unwholesome contact of senses and objects](asatmyendriyartha-samyoga.md) — `skeleton`
 - [Unwholesome food (apathya) for the practitioner](apathya-ahara.md) — `skeleton`
 - [Unwholesome thoughts](akusala-vitakka.md) — `skeleton`
+- [Vikṣepa (distraction in desire and enjoyment)](viksepa.md) — `sourced`
 - [Vitiation of the channels](srotodusti.md) — `skeleton`
 - [Viṣṭi (Bhadrā) karaṇa](visti-karana.md) — `skeleton`
 - [Void, sleep-like absorption mistaken for the goal](susupta-like-absorption.md) — `skeleton`
@@ -617,6 +633,7 @@ skeleton: 516 · sourced: 103
 - [Worms (krimi)](krimi.md) — `skeleton`
 - [Worship of other deities as ends](devatantara-bhajana.md) — `skeleton`
 - [Worship of other gods](anya-deva-worship.md) — `skeleton`
+- [Wrong view (micchādiṭṭhi)](micchaditthi.md) — `sourced`
 - [Wrong view (mithyātva)](mithyatva.md) — `skeleton`
 - [Zen sickness (zenbyō)](zen-sickness.md) — `skeleton`
 - [Āma (undigested residue)](ama.md) — `skeleton`

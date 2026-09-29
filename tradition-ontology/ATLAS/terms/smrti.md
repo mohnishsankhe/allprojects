@@ -19,6 +19,7 @@
 - [Jainism (Jaina dharma)](../lineages/jainism.md): A form of sensory (mati) knowledge (TS 1.13); in Akalaṅka's scheme an indirect pramāṇa.
 - [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md): dran pa, mindfulness: in dream yoga 'the iron hook of mindfulness' seizes the dream; in Mahāmudrā mindfulness moves from deliberate effort to effortless mindfulness that is not other than awareness.
 - [Madhyamaka](../lineages/madhyamaka.md): The rope with which the elephant of the mind is bound (BCA 5.3).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: Memory/recollection: Arjuna declares 'delusion is destroyed, memory regained through your grace' (18.73); the verse does not say what is recollected.
 
 ## Forms in other languages
 - Pali: sati  — partial — as the faculty of 1.20; Buddhist mindfulness
@@ -35,5 +36,6 @@ _Notes: Homonym: the id trm:smrti is also used for 'remembered tradition'; this 
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:15.15 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.34 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.73 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch01-03, skeleton:U12-mimamsa, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch13-15, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch10-12, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy, skeleton:U46-kagyu, skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch01-03, skeleton:U12-mimamsa, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch13-15, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch10-12, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy, skeleton:U46-kagyu, skeleton:U40-madhyamaka, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._

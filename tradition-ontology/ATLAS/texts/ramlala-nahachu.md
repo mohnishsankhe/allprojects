@@ -15,4 +15,4 @@
 Folk-style song for the child Rāma's nail-paring ceremony. One of the twelve works generally accepted as Tulsīdās's.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._

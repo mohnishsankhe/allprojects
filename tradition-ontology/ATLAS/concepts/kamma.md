@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [Karma as volition and what volition produces](karma-as-volition.md) (causal): the Sarvāstivāda/Sautrāntika treatment (U38) — rests on [4-20](../texts/culakammavibhanga-sutta.md#tea-culakammavibhanga-sutta-4-20), [4.1](../texts/culakammavibhanga-sutta.md#tea-culakammavibhanga-sutta-4-1)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

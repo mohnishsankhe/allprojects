@@ -29,4 +29,4 @@
 _Notes: Other senses (bodily tissue, element) belong to other units._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U36-pali-suttas, skeleton:U02-brahmana-vedanga, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools, skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U36-pali-suttas, skeleton:U02-brahmana-vedanga, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

@@ -14,4 +14,4 @@ Examining by reasoning, after hearing scripture, what has been heard — above a
 - partial: `prc:sravana-manana-nididhyasana` — Nyāya locates itself at the manana stage of the Upaniṣadic triad; its object (a self distinct from Īśvara and from other selves) differs from Advaita's.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 23:14 IST._

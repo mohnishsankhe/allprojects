@@ -108,7 +108,7 @@ Waking is [external] cognition; dream is thought-constructs; deep sleep is non-d
 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all (śāmbhavopāya (section 1, per Kṣemarāja)) · types: consciousness-mind_
 
-terms: [jāgarita / jāgrat](../terms/jagrat.md), [svapna](../terms/svapna.md), [suṣupti / suṣupta](../terms/susupti.md), [vikalpa](../terms/vikalpa.md) · concepts: [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md)
+terms: [jāgarita](../terms/jagrat.md), [svapna](../terms/svapna.md), [suṣupti](../terms/susupti.md), [vikalpa](../terms/vikalpa.md) · concepts: [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md)
 
 ### 1.11 <a id="tea-siva-sutra-1-11"></a>
 `skeleton` · confidence high
@@ -744,4 +744,4 @@ terms: [unmīlana / nimīlana samādhi](../terms/unmilana-nimilana.md)
 _Notes: Locator spot-checked in Phase B against a local e-text mirror in sources_raw/ (GRETIL / Muktabodha / DCS); not fidelity-checked; still a skeleton entry._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._

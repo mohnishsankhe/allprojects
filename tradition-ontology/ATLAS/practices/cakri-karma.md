@@ -14,4 +14,4 @@ One of the eight cleansing acts of the Haṭharatnāvalī, added to the Haṭhap
 _Notes: Method recalled with low confidence; check the Haṭharatnāvalī._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

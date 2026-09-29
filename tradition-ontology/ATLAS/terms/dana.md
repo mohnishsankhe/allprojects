@@ -12,6 +12,7 @@
 - [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md): Religious giving, especially to brahmins; at death the gifts (cow, land, sesame etc.) ease the road of the dead.
 - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): Giving, the first ground of merit and first perfection (Bv 2); regular giving is a sacrifice of great fruit (DN 5).
 - [Mahāyāna](../lineages/mahayana.md): The first perfection, supreme when given without support in any thing.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: Giving: a mark of the divine endowment (16.1); threefold — sāttvic when given because it ought to be given, to one who makes no return, at the right place and time to a worthy recipient; rājasic when given for a return, for fruit or grudgingly; tāmasic when given at the wrong place and time to the unworthy, without respect and with contempt (17.20–22); with sacrifice and austerity not to be abandoned but done without attachment and fruit (18.5–6); generosity is part of the kṣatriya's nature-born work (18.43).
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): Giving: the humans' 'da' (BAU 5.2); 'give with faith' (TU 1.11.3); a priestly gift of the life-sacrifice (ChU 3.17.4).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Giving: a state of beings that arises from the Lord (10.5); not by gifts can he be seen in the form Arjuna saw (11.48, 11.53).
 - [Jainism (Jaina dharma)](../lineages/jainism.md): Relinquishing what is one's own for the benefit of self and other; its merit depends on manner, gift, giver and recipient (TS 7.38–39); four kinds — food, medicine, knowledge, fearlessness.
@@ -36,6 +37,7 @@
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:16.1, tea:bhagavad-gita:17.20, tea:bhagavad-gita:17.21, tea:bhagavad-gita:17.22, tea:bhagavad-gita:18.5, tea:bhagavad-gita:18.6, tea:bhagavad-gita:18.43 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.5, tea:bhagavad-gita:11.48, tea:bhagavad-gita:11.53 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U36-pali-suttas, skeleton:U39-mahayana-sutras, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy, skeleton:U09-samkhya, skeleton:U40-madhyamaka, skeleton:U32-jyotisa, skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U36-pali-suttas, skeleton:U39-mahayana-sutras, extraction:bhagavad-gita/ch16-18, skeleton:U03-principal-upanisads, extraction:bhagavad-gita/ch10-12, skeleton:U35-jain-philosophy, skeleton:U09-samkhya, skeleton:U40-madhyamaka, skeleton:U32-jyotisa, skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._

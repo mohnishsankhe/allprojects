@@ -65,7 +65,7 @@ The eight limbs — yama, niyama, āsana, prāṇāyāma, pratyāhāra, dhāra�
 
 _level: conventional · standpoint: analytic · path: body-breath · stage: all · types: practice, teacher-transmission_
 
-terms: [haṭha](../terms/hatha.md) · concepts: [The four yogas (mantra, laya, haṭha, rāja)](../concepts/four-yogas.md), [The ten mudrās of the Haṭhapradīpikā](../concepts/ten-mudras-hyp.md) · practices: [Mahāmudrā (the great seal)](../practices/mahamudra.md), [Mahābandha (the great lock)](../practices/mahabandha.md), [Khecarī mudrā ('moving in space')](../practices/khecari-mudra.md), [Jālandharabandha (the throat lock)](../practices/jalandhara-bandha.md), [Uḍḍīyānabandha (the flying-up lock)](../practices/uddiyana-bandha.md), [Mūlabandha (the root lock)](../practices/mula-bandha.md), `prc:viparitakarani`, [Vajrolī mudrā](../practices/vajroli-mudra.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md), [Kapila](../teachers/kapila.md)
+terms: [haṭha](../terms/hatha.md) · concepts: [The four yogas (mantra, laya, haṭha, rāja)](../concepts/four-yogas.md), [The ten mudrās (HYP 3.6-9, 3.128)](../concepts/ten-mudras-hyp.md) · practices: [Mahāmudrā (the great seal)](../practices/mahamudra.md), [Mahābandha (the great lock)](../practices/mahabandha.md), [Khecarī mudrā ('moving in space')](../practices/khecari-mudra.md), [Jālandharabandha (the throat lock)](../practices/jalandhara-bandha.md), [Uḍḍīyānabandha (the flying-up lock)](../practices/uddiyana-bandha.md), [Mūlabandha (the root lock)](../practices/mula-bandha.md), `prc:viparitakarani`, [Vajrolī mudrā](../practices/vajroli-mudra.md) · teachers: [Yājñavalkya](../teachers/yajnavalkya.md), [Kapila](../teachers/kapila.md)
 
 ### 30 <a id="tea-dattatreyayogasastra-30"></a>
 `skeleton` · confidence high
@@ -92,7 +92,7 @@ Young or old or sick, practising gradually and tirelessly everyone attains succe
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice, karma-liberation, ethics_
 
-concepts: [Who may practise haṭha (adhikāra)](../concepts/eligibility-for-hatha.md)
+concepts: [Who may practise haṭha: the text's statement](../concepts/eligibility-for-hatha.md)
 
 ### 39-42 <a id="tea-dattatreyayogasastra-39-42"></a>
 `skeleton` · confidence high
@@ -209,7 +209,7 @@ Then the wise yogin should reflect: these are obstacles to the great accomplishm
 
 _level: conventional · standpoint: ethical-social · path: body-breath, general · stage: beginner · types: powers-experiences, ethics, teacher-transmission_
 
-concepts: [The powers as obstacles in samādhi (3.37)](../concepts/siddhis-as-obstacles.md), [Secrecy and the testing of the disciple](../concepts/secrecy-and-testing.md), [The guru in the haṭha texts](../concepts/guru-in-hatha.md) · obstacles: [Powers as obstacles](../obstacles/siddhis-as-obstacles.md) · disputes: [Are the powers (siddhi) arising in yoga signs of attainment or obstacles?](../debates/siddhis-sign-or-obstacle.md)
+concepts: [The powers as obstacles in samādhi (3.37)](../concepts/siddhis-as-obstacles.md), [Secrecy and the testing of the disciple](../concepts/secrecy-and-testing.md), [The guru in haṭha](../concepts/guru-in-hatha.md) · obstacles: [Powers as obstacles](../obstacles/siddhis-as-obstacles.md) · disputes: [Are the powers (siddhi) arising in yoga signs of attainment or obstacles?](../debates/siddhis-sign-or-obstacle.md)
 
 ### 97-99 <a id="tea-dattatreyayogasastra-97-99"></a>
 `skeleton` · confidence high
@@ -218,7 +218,7 @@ Then through practice the stage of familiarity arises: the breath, driven with e
 
 _level: conventional · standpoint: experiential · path: body-breath, meditation · stage: advanced (paricaya) · types: body-layers, powers-experiences, practice_
 
-terms: [paricaya](../terms/paricaya.md), [kuṇḍalinī](../terms/kundalini.md), [suṣumnā](../terms/susumna.md) · concepts: [The four stages of yoga (ārambha, ghaṭa, paricaya, niṣpatti)](../concepts/four-avasthas-of-yoga.md), [Kuṇḍalinī](../concepts/kundalini.md), [Suṣumnā, the central channel](../concepts/susumna-central-channel.md)
+terms: [paricaya](../terms/paricaya.md), [kuṇḍalinī](../terms/kundalini.md), [suṣumnā](../terms/susumna.md) · concepts: [The four stages of yoga (ārambha, ghaṭa, paricaya, niṣpatti)](../concepts/four-avasthas-of-yoga.md), [Kuṇḍalinī](../concepts/kundalini.md), [Suṣumnā, the central channel (HYP)](../concepts/susumna-central-channel.md)
 
 ### 100-110 <a id="tea-dattatreyayogasastra-100-110"></a>
 `skeleton` · confidence high
@@ -330,4 +330,4 @@ terms: [niṣpatti](../terms/nispatti.md), [rājayoga](../terms/raja-yoga.md) ·
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._

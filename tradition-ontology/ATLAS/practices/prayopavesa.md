@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
 **Taught in:** [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
 
-The vow of sitting without food until death with the mind fixed on the Lord, as Parīkṣit did on the Gaṅgā after the curse. Recorded only as the text's narrative.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Bhāgavata Purāṇa](../texts/bhagavata-purana.md) — ref: 1.19; rests_on: ["tea:bhagavata-purana:1.19"]
   - [Garuḍa Purāṇa](../texts/garuda-purana.md) — ref: 2.36
@@ -18,4 +18,4 @@ _Notes: Restricted (prolonged fasting): summary only. The Pretakalpa has a chapt
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_garuDapurANa.txt (Venkateshwara ed.) 2.37.1 — BhP 1.19.7 located; GP 2.36 title confirmed ('anaśanamṛtagatinirūpaṇa', colophon in 2.37.1). Restricted: the entry is summary-only (a short method_summary with no procedure), as required. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._

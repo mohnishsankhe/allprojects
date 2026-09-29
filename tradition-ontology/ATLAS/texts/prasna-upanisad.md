@@ -130,7 +130,7 @@ In dream this god (the mind) experiences its greatness: it sees again what it ha
 
 _level: bridging · standpoint: experiential · path: knowledge · stage: intermediate · types: consciousness-mind_
 
-terms: [svapna](../terms/svapna.md), [suṣupti / suṣupta](../terms/susupti.md), [tejas](../terms/tejas.md) · concepts: [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md), [Deep sleep](../concepts/deep-sleep.md) · teachers: [Pippalāda](../teachers/pippalada.md)
+terms: [svapna](../terms/svapna.md), [suṣupti](../terms/susupti.md), [tejas](../terms/tejas.md) · concepts: [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md), [Deep sleep](../concepts/deep-sleep.md) · teachers: [Pippalāda](../teachers/pippalada.md)
 
 ### 4.7-11 <a id="tea-prasna-upanisad-4-7-11"></a>
 `sourced` · confidence high
@@ -187,4 +187,4 @@ _Notes: Veda affiliation: Atharvaveda (traditionally the Paippalāda śākhā)_
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL-dev:prasna-upanisad, catalog:raw_etexts:Prashna, text:sources_raw/prepared/prasna-upanisad/segments.jsonl (Advaita-Śāradā mūla Prashna.md), https://en.wikipedia.org/wiki/Prashna_Upanishad, https://www.wisdomlib.org/hinduism/essay/brihadaranyaka-upanishad-study/d/doc1888684.html — Structure confirmed: 16, 13, 12, 11, 7, 8 = 67 sections, with Pippalāda and the six questioners at 1.1. Atharvavedic affiliation fits. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship. The entry's -300/0 includes Olivelle's 'around the turn of the era'.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._

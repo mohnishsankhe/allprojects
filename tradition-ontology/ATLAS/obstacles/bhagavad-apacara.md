@@ -11,4 +11,4 @@ Offences against the Lord, such as treating his image as mere matter or his desc
   - [Śrīvacanabhūṣaṇam](../texts/srivacana-bhusanam.md) — ref: 3; rests_on: ["tea:srivacana-bhusanam:3"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._

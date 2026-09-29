@@ -70,4 +70,4 @@ P4-stage: Kongtrul assigns the two views to the phases of study/reflection and m
 _Notes: Sides contributed by U47 (Gelug; Sakya incl. Shākya Chokden); U50 owns, U48 gives the Jonang side._
 
 ---
-_Contributed by: skeleton:U50-debates, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U50-debates, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

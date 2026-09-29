@@ -13,4 +13,4 @@ The view that since the vow saves the evil one may freely do evil; rejected by H
   - [A Record in Lament of Divergences (Tannishō)](../texts/tannisho.md) — ref: 13; rests_on: ["tea:tannisho:13"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._

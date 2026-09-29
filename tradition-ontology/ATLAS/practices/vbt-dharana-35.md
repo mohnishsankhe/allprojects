@@ -1,18 +1,23 @@
 # Vijñāna Bhairava dhāraṇā 35: Gazing into the space of a vessel
 
-`prc:vbt-dharana-35` · `skeleton` · confidence moderate
+`prc:vbt-dharana-35` · `sourced` · confidence moderate
 
 **Category:** sense-withdrawal-concentration
 **Convergence:** 2 independent lineage(s): [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Trika ('the Triad')](../lineages/trika.md)
 **Taught in:** [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Trika ('the Triad')](../lineages/trika.md)
 
-One should cast one's gaze into a pot or other vessel, leaving aside its walls; entering its dissolution at once, by that dissolution one becomes one with it.
-**Stage:** unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas
-**Prerequisites:** The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).
+The practitioner is asked to cast the gaze into a pot or other vessel, leaving aside its walls.
+**Stage:** unmarked in the text
+**Prerequisites:** The text reserves the teaching for those devoted to the teacher's feet, of thought-free mind, heroes of lofty self (VBT 157-159).
+**Signs of progress:** The verse says that at that very moment one goes to its dissolution, and from that dissolution becomes made of it (tanmaya).
 **Sources:** 
   - [Vijñānabhairava](../texts/vijnana-bhairava-tantra.md) — ref: 59; rests_on: ["tea:vijnana-bhairava-tantra:59"]
 
-_Notes: Verses 59 (KSTS 8 / GRETIL numbering)._
+_Notes: Text-derived summary of GRETIL verse(s) 59; the skeleton entry's name and numbering are kept._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — sources_raw/prepared/vijnana-bhairava-tantra/segments.jsonl — Judge J: method summary, name, restricted flag and rests_on checked against the verse(s) 59; level not raised (entities stay sourced).
+
+_Contributed by: extraction:vijnana-bhairava-tantra/all, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._

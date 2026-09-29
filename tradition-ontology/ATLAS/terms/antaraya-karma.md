@@ -21,4 +21,4 @@ _Notes: Distinct from trm:antaraya (the Yoga Sūtra's 'obstacles')._
 
 - 2026-09-29 text: confirmed — tea:tattvartha-sutra:6.27, tea:tattvartha-sutra:8.13 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

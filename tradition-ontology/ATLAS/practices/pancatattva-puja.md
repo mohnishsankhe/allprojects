@@ -6,7 +6,7 @@
 **Convergence:** 3 independent lineage(s): [Bengali and Assamese Śākta tantra](../lineages/bengal-assam-sakta.md), [Kālīkula (the Kālī lineages)](../lineages/kalikula.md), [Kaula (the Kula tradition)](../lineages/kaula.md)
 **Taught in:** [Bengali and Assamese Śākta tantra](../lineages/bengal-assam-sakta.md), [Kālīkula (the Kālī lineages)](../lineages/kalikula.md), [Kaula (the Kula tradition)](../lineages/kaula.md)
 
-Worship of the Goddess and Bhairava with consecrated wine, meat, fish, parched grain and ritual union, within the Kaula rite, by the initiated vīra under a guru; the texts present it as manifesting the bliss of Brahman in the body. Restricted: summary only — no procedures, quantities or sequences are recorded.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** vīra; after initiation and consecration
 **Prerequisites:** ['dīkṣā and abhiṣeka from a Kaula guru', 'the samaya pledges']
 **Sources:** 
@@ -26,4 +26,4 @@ Worship of the Goddess and Bhairava with consecrated wine, meat, fish, parched g
 - partial: [Kula worship (the 'primal sacrifice') as interpreted by Abhinavagupta](kula-yaga.md) — Abhinavagupta's reading of the Kula worship (U19)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._

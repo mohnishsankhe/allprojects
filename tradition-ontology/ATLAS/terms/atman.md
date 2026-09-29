@@ -1,12 +1,14 @@
 # ātman
 
-`trm:atman` · `skeleton` · confidence high
+`trm:atman` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** आत्मन्
 **Literal:** self; breath; body (context)
 
 ## Definitions by tradition
+- [Advaita Vedānta](../lineages/advaita-vedanta.md): In the Kārikā ch.2: the self, imagined like the rope-snake and ascertained; the deva who imagines himself by his own māyā. | In the Kārikā ch.3: like space; the jīvas are manifested from it as pot-spaces.
+- [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): In this text: the self, which is brahman and has four quarters; Oṃ is just the self.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The self: in the Upaniṣads the innermost reality of a person — the seer of seeing that cannot be seen (BAU 3.4.2), the inner controller (BAU 3.7), the light of a person (BAU 4.3.6) — which is declared to be brahman (BAU 1.4.10, 2.5.19; ChU 6.8.7; MāU 2). The word also means body or oneself in narrative passages (ChU 8.8.4).
 - [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md): Breath and self: Sūrya is the self of what moves and stands (RV 1.115.1); the dead man's breath (ātman) goes to the wind (10.16.3); Vāta is the self of the gods (10.168.4); knowing the wise, ageless, young self one does not fear death (AVŚ 10.8.44).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): The embodied self, unborn, eternal, not slain when the body is slain (BhG 2.20); to be raised by the self, being its own friend or enemy (6.5–6); the Lord as the self in the heart of all beings (10.20).
@@ -49,8 +51,10 @@
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:mandukya-karika:2.12, tea:mandukya-karika:2.17, tea:mandukya-karika:2.18, tea:mandukya-karika:3.3, tea:mandukya-karika:3.4, tea:mandukya-karika:3.7 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
+- 2026-09-29 text: confirmed — tea:mandukya-upanisad:2, tea:mandukya-upanisad:7, tea:mandukya-upanisad:8, tea:mandukya-upanisad:12 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
 - 2026-09-29 text: corrected — tea:bhagavad-gita:6.5, tea:bhagavad-gita:6.6, tea:bhagavad-gita:4.35, tea:bhagavad-gita:6.29, tea:bhagavad-gita:6.18, tea:bhagavad-gita:6.25, tea:bhagavad-gita:6.20, tea:bhagavad-gita:5.7, tea:bhagavad-gita:5.21 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.20, tea:bhagavad-gita:10.15, tea:bhagavad-gita:11.4, tea:bhagavad-gita:11.47, tea:bhagavad-gita:11.24 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.8, tea:bhagavad-gita:13.25, tea:bhagavad-gita:13.29, tea:bhagavad-gita:13.30, tea:bhagavad-gita:13.33, tea:bhagavad-gita:14.24, tea:bhagavad-gita:15.11 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa, skeleton:U20-virasaiva, skeleton:U39-mahayana-sutras, extraction:bhagavad-gita/ch10-12, skeleton:U19-kashmir-saivism, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch13-15, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:mandukya-karika/all, extraction:mandukya-upanisad/all, skeleton:U03-principal-upanisads, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U13-advaita, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa, skeleton:U20-virasaiva, skeleton:U39-mahayana-sutras, extraction:bhagavad-gita/ch10-12, skeleton:U19-kashmir-saivism, skeleton:U41-yogacara-pramana, extraction:bhagavad-gita/ch13-15, skeleton:U35-jain-philosophy, skeleton:U04-minor-upanisads, skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._

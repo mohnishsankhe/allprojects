@@ -59,4 +59,4 @@ _none recorded_
 [Is suggestion (dhvani, vyañjanā) a distinct power of words, and is it the soul of poetry?](../debates/dhvani-vyanjana.md), [How does rasa arise from the union of determinants, consequents and transient states, and where is it?](../debates/how-rasa-arises.md), [Can devotion to God be a full aesthetic rasa, or only a bhāva?](../debates/is-bhakti-a-rasa.md), [Is every rasa blissful, even compassion and terror?](../debates/is-rasa-bliss.md), [Is there one rasa underlying all, and if so which?](../debates/one-rasa-or-many.md), [Is śānta (peace) a rasa, and what is its stable emotion?](../debates/santa-rasa.md)
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._

@@ -12,4 +12,4 @@ Desire, anger, ignorance (dullness), pride and jealousy, which lead to the realm
   - [Kuntuzangpo Mönlam (kun tu bzang po'i smon lam stobs po che, the Powerful Aspiration of Samantabhadra)](../texts/kuntuzangpo-monlam.md) — ref: 3; rests_on: ["tea:kuntuzangpo-monlam:3"]
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

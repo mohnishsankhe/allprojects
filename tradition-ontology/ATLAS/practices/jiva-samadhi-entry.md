@@ -6,9 +6,9 @@
 **Convergence:** 1 independent lineage(s): [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
 **Taught in:** [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
 
-Summary only: the tradition's account that a Siddhar, at the end, enters samādhi and is enclosed alive in a shrine, remaining present there. Recorded as the tradition's account; no instructions.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 
 _Notes: Restricted (ends in death); belief recorded, no procedure._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

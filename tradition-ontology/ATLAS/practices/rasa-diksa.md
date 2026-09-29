@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](../lineages/rasa-sastra.md)
 **Taught in:** [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](../lineages/rasa-sastra.md)
 
-Rasa-knowledge is given only by a qualified guru, pleased by the disciple's devotion, after initiation and worship, and kept secret. RESTRICTED: rites and mantras not recorded.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Prerequisites:** devotion to the guru, good conduct, initiation (RRS 6.5-6)
 **Sources:** 
@@ -17,4 +17,4 @@ Rasa-knowledge is given only by a qualified guru, pleased by the disciple's devo
 - Without the guru's grace and permission the work is fruitless; the unfit gain nothing and lose their wealth. — [Rasārṇava](../texts/rasarnava.md) 1.54-59; RRS 6.8-10
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

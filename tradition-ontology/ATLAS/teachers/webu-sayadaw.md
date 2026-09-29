@@ -9,4 +9,4 @@
 Burmese forest monk (1896–1977) renowned for his attainments and for teaching simple, continuous awareness of the breath at the nostrils; admired by U Ba Khin.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

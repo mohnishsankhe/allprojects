@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [Breath / life-force (prāṇa)](prana.md): the prāṇa of the Vedic and yogic traditions — rests on [purva.5.49-52](../texts/sarngadhara-samhita.md#tea-sarngadhara-samhita-purva-5-49-52)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

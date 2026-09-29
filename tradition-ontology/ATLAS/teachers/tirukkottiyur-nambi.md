@@ -12,4 +12,4 @@
 Disciple of Yāmuna who, after making Rāmānuja come to him eighteen times, taught him the secret meaning of the tirumantra and the carama-śloka.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._

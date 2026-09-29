@@ -11,4 +11,4 @@ Intensive nenbutsu for fixed periods (a day to ninety days), and the deathbed pr
   - [Essentials of Birth (Ōjōyōshū)](../texts/ojoyoshu.md) — ref: ch. 6; rests_on: ["tea:ojoyoshu:6.deathbed"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._

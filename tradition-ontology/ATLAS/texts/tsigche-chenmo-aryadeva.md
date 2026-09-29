@@ -28,4 +28,4 @@ concepts: [Gods and demons as the mind's own display](../concepts/gods-and-demon
 _Notes: Attribution and date uncertain; the identity of 'Āryadeva the Brahmin' with other Āryadevas is not assumed._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._

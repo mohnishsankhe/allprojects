@@ -6,7 +6,7 @@
 **Convergence:** 2 independent lineage(s): [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
 **Taught in:** [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
 
-Summary only: Tilopa's 'holding the key points of wind' with gazes and methods of holding the mind for those of lesser capacity; in the tantras the drawing of winds into the central channel. No technique recorded.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** intermediate
 **Sources:** 
   - [Mahāmudropadeśa of Tilopa (the Gaṅgā Mahāmudrā)](../texts/ganga-mahamudra.md) — ref: v7-8; rests_on: ["tea:ganga-mahamudra:v7-8"]
@@ -15,4 +15,4 @@ Summary only: Tilopa's 'holding the key points of wind' with gazes and methods o
 - Saraha criticizes forcing winds and head practices out of pride (King Dohā v22–24). — [Dohākoṣa-nāma-caryāgīti of Saraha (the 'King Dohā')](../texts/dohakosa-king-saraha.md) v24
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._

@@ -19,4 +19,4 @@ Teaching on the supreme truth, liberation and the arguments for non-duality, wit
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/raw_etexts/mixed/mukta/vedAnta/valmiki/ and unknown_Anandabodhendra/ (Yogavāsiṣṭha vulgate with Tātparyaprakāśa, Nirṇaya Sāgara ed.; Muktabodha M00335-M00339, M00345) — Exists. The vulgate carries 'brahmagītāsu' colophons in the Nirvāṇa-prakaraṇa uttarārdha at 6.2.128 and 6.2.173-181 (paramārthopadeśa 173, brahmāṇḍopākhyāna 176, satyavarṇana 177, aindavopākhyāna 178, tāpasopākhyāna 180, gauryāśramavarṇana 181). The Gītāsaṅgraha's text ends with that last sarga as its 9th. This fills in the entry's 'exact sargas not verified'.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

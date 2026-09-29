@@ -20,4 +20,4 @@
 - corresponds-to-in-map → [Kinds of initiation](kinds-of-diksa.md): initiation, one of the shared features, is the entry point of every tantric family
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:14 IST._

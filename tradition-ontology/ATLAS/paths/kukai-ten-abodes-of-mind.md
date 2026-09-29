@@ -23,4 +23,4 @@
 From memory: the ten names are well known, but the text is not available locally (Taishō vol. 77). Banded only where the abode describes a practitioner's ethical or religious condition (2, 3) or the goal (10); the abodes that rank Buddhist schools are left unbanded, following U45's pth:nyingma-nine-vehicles.
 
 ---
-_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U51-path-maps. Generated 2026-09-29 23:14 IST._

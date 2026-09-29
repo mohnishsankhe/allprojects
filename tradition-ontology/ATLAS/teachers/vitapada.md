@@ -8,4 +8,4 @@
 Commentator in the Jñānapāda tradition (on the Mukhāgama and the Samantabhadra sādhana).
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._

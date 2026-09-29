@@ -43,4 +43,4 @@ terms: [avidyā](../terms/avidya.md) · concepts: [The twelve links in the Madhy
 _Notes: Sanskrit lost apart from quotations._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._

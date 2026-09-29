@@ -25,4 +25,4 @@ Utathya teaches the king that dharma is the foundation of kingship.
 
 - dating: CE 12.91-92 confirmed (Utathya to Māndhātṛ); vulgate colophons 'utathyagītāsu' (12.90-91). The text is in the Rājadharma section. The dating's copied clause 'the Śāntiparvan's Mokṣadharma belongs to the later layers' does not apply and is replaced.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

@@ -16,4 +16,4 @@ Meditating on the Arhat seated in the assembly hall, radiant, free of passion, t
 - One should not meditate on deities in passionate or fearsome forms, since one becomes like what one meditates on. — [Yogaśāstra (Hemacandra)](../texts/yogasastra-hemacandra.md) ch.9
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

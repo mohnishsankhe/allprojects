@@ -215,7 +215,7 @@ terms: [hṛdaya](../terms/hrdaya.md), [aṇu / aṇīyān](../terms/anu.md) · 
 
 _level: ultimate · standpoint: seeker · path: meditation, knowledge · stage: intermediate · types: ultimate, death-dying_
 
-concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md), [The last thought and resolve at death](../concepts/last-thought.md) · practices: [Śāṇḍilya's meditation (Śāṇḍilya-vidyā)](../practices/sandilya-vidya.md) · obstacles: [Doubt (saṃśaya)](../obstacles/samsaya.md) · teachers: [Śāṇḍilya](../teachers/sandilya.md)
+concepts: [Ātman is brahman (as stated in the Māṇḍūkya)](../concepts/atman-brahman-identity.md), [The last thought and resolve at death](../concepts/last-thought.md) · practices: [Śāṇḍilya's meditation (Śāṇḍilya-vidyā)](../practices/sandilya-vidya.md) · obstacles: [Doubt (saṃśaya)](../obstacles/samsaya.md) · teachers: [Śāṇḍilya](../teachers/sandilya.md)
 
 ### 3.15.1-7 <a id="tea-chandogya-upanisad-3-15-1-7"></a>
 `sourced` · confidence moderate
@@ -590,7 +590,7 @@ When a person sleeps (svapiti), he has merged with being; he has gone to his own
 
 _level: bridging · standpoint: experiential · path: knowledge · stage: intermediate · types: consciousness-mind_
 
-terms: [suṣupti / suṣupta](../terms/susupti.md), [sat](../terms/sat.md) · concepts: [Deep sleep](../concepts/deep-sleep.md), [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md) · teachers: [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md), [Śvetaketu Āruṇeya](../teachers/svetaketu.md)
+terms: [suṣupti](../terms/susupti.md), [sat](../terms/sat.md) · concepts: [Deep sleep](../concepts/deep-sleep.md), [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md) · teachers: [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md), [Śvetaketu Āruṇeya](../teachers/svetaketu.md)
 
 ### 6.8.6 <a id="tea-chandogya-upanisad-6-8-6"></a>
 `sourced` · confidence high
@@ -610,7 +610,7 @@ That which is the finest essence — this whole world has it as its self; that i
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [mahāvākya](../terms/mahavakya.md), [ātman](../terms/atman.md), [satya](../terms/satya.md) · concepts: [The four great sayings (mahāvākya)](../concepts/mahavakyas.md), [The identity of the self and brahman](../concepts/atman-brahman-identity.md) · practices: [The teaching of being (sad-vidyā)](../practices/sad-vidya.md) · teachers: [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md), [Śvetaketu Āruṇeya](../teachers/svetaketu.md) · disputes: [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
+terms: [mahāvākya](../terms/mahavakya.md), [ātman](../terms/atman.md), [satya](../terms/satya.md) · concepts: [The four great sayings (mahāvākya)](../concepts/mahavakyas.md), [Ātman is brahman (as stated in the Māṇḍūkya)](../concepts/atman-brahman-identity.md) · practices: [The teaching of being (sad-vidyā)](../practices/sad-vidya.md) · teachers: [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md), [Śvetaketu Āruṇeya](../teachers/svetaketu.md) · disputes: [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](../debates/tat-tvam-asi.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 6.9.1-4 <a id="tea-chandogya-upanisad-6-9-1-4"></a>
 `sourced` · confidence high
@@ -619,7 +619,7 @@ As bees make honey by gathering the juices of many trees and reducing them to a 
 
 _level: ultimate · standpoint: cosmic · path: knowledge · stage: advanced · types: ultimate, karma-liberation_
 
-concepts: [The identity of the self and brahman](../concepts/atman-brahman-identity.md) · teachers: [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md), [Śvetaketu Āruṇeya](../teachers/svetaketu.md)
+concepts: [Ātman is brahman (as stated in the Māṇḍūkya)](../concepts/atman-brahman-identity.md) · teachers: [Uddālaka Āruṇi](../teachers/uddalaka-aruni.md), [Śvetaketu Āruṇeya](../teachers/svetaketu.md)
 
 ### 6.10.1-3 <a id="tea-chandogya-upanisad-6-10-1-3"></a>
 `sourced` · confidence high
@@ -916,4 +916,4 @@ _Notes: Forms prapathakas 3-10 of the Chāndogya Brāhmaṇa, whose first two pr
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:DCS:Chāndogyopaniṣad, catalog:GRETIL-dev:Chandogya-upanisad_Chandogyopanisad_mula-text, text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), https://en.wikipedia.org/wiki/Chandogya_Upanishad, https://www.wisdomlib.org/hindui — Confirmed: prapāṭhakas 3–10 of the Chāndogya Brāhmaṇa, whose first two are the Mantra Brāhmaṇa (Wikipedia). 8 prapāṭhakas with 154 khaṇḍas (13+24+19+17+24+16+26+15) in the prepared text. Scholarly dating fits Olivelle's chronology as reported on the web: BĀU and ChU pre-Buddhist, 7th–6th c. BCE; TU, AU and KauU probably pre-Buddhist, 6th–5th c. BCE; the verse Upaniṣads (Kena oldest, then Kaṭha, Īśa, Śvetāśvatara, Muṇḍaka) in the last few centuries BCE; Praśna and Māṇḍūkya not much older than the start of the common era. The tradition's account (śruti, authorless) is kept separately and not checked against scholarship. Web results name the Tāṇḍya school; the Kauthuma–Rāṇāyanīya detail was not checked separately.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._

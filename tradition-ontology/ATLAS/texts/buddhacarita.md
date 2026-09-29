@@ -112,4 +112,4 @@ teachers: [Uddaka Rāmaputta](../teachers/uddaka-ramaputta.md), [Aśvaghoṣa](.
 _Notes: Created by U49 for the Arāḍa Kālāma borrowing; the Buddhist units may extend it. Local: SARIT markdown and DCS (catalog:DCS:Buddhacarita)._
 
 ---
-_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U49-cross-family. Generated 2026-09-29 23:14 IST._

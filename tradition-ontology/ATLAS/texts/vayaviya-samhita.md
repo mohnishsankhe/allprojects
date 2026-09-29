@@ -21,4 +21,4 @@ _Notes: verse number checked in the GRETIL e-text of the Śiva Purāṇa books 1
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_zivapurANabooks-1-and-7.txt (Venkateshwara ed.) 7.1-7.2 — Confirmed in the local GRETIL Śiva Purāṇa book 7: Pūrvakhaṇḍa 35 and Uttarakhaṇḍa 41 chapters exactly; Upamanyu's teaching to Kṛṣṇa on pañcākṣara (7.2.12-13) and yoga (7.2.37-39) located.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._

@@ -19,11 +19,11 @@ By cultivating friendliness toward the happy, compassion toward the suffering, g
 - Equanimity toward the wicked is not a cultivation; no samādhi and no strength come from it. — [Yogabhāṣya (Vyāsa's commentary on the Yoga Sūtra)](../texts/yoga-bhasya.md) 3.23
 
 ## Equivalents (interpretation layer)
-- partial: [Development of the four divine abidings](brahmavihara-bhavana.md) — Same four attitudes and 'vihāra' vocabulary (YBh 4.10) as the Buddhist brahmavihāras; objects and aim differ (YS 1.33 assigns each to a class of object)
+- partial: [Development of the four divine abidings (brahmavihāra)](brahmavihara-bhavana.md) — Same four attitudes and 'vihāra' vocabulary (YBh 4.10) as the Buddhist brahmavihāras; objects and aim differ (YS 1.33 assigns each to a class of object)
 
 ---
 **Verification checks**
 
 - 2026-09-29 text: partially-confirmed — tea:yoga-sutra:1.33, tea:yoga-bhasya:1.33 — Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated.
 
-_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga. Generated 2026-09-29 23:14 IST._

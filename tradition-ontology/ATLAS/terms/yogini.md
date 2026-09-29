@@ -19,4 +19,4 @@
 **Related:** [ḍākinī](dakini.md)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U44-indian-vajrayana, skeleton:U23-sakta-srividya, skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._

@@ -22,6 +22,7 @@ Perform the prescribed action (one's own dharma) as duty, with evenness in succe
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 5.12; rests_on: ["tea:bhagavad-gita:5.12"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 6.1; rests_on: ["tea:bhagavad-gita:6.1"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 13.25; rests_on: ["tea:bhagavad-gita:13.25"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.6, 18.9, 18.23, 18.26; rests_on: ["tea:bhagavad-gita:18.6", "tea:bhagavad-gita:18.9", "tea:bhagavad-gita:18.23", "tea:bhagavad-gita:18.26"]
 **Sequences:** [From one's own work to entering the Lord (BhG 18.45–56)](../paths/gita-svadharma-to-entering-the-lord.md), [The ascent in yoga of BhG ch. 6](../paths/gita-ascent-in-yoga.md), [From the yoga of understanding to brahmanirvāṇa (BhG 2.39–72)](../paths/bhagavad-gita-buddhiyoga-to-brahmanirvana.md)
 
 ## The texts' own warnings
@@ -39,5 +40,6 @@ Perform the prescribed action (one's own dharma) as duty, with evenness in succe
 
 - 2026-09-29 text: corrected — tea:bhagavad-gita:4.15, tea:bhagavad-gita:4.20, tea:bhagavad-gita:4.23, tea:bhagavad-gita:5.2, tea:bhagavad-gita:5.10, tea:bhagavad-gita:5.11, tea:bhagavad-gita:5.12, tea:bhagavad-gita:6.1 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.25 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.6, tea:bhagavad-gita:18.9, tea:bhagavad-gita:18.23, tea:bhagavad-gita:18.26 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._

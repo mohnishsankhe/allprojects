@@ -477,7 +477,7 @@ Waking, dream and deep sleep are functions of the intellect produced by the gu�
 
 _level: ultimate · standpoint: analytic · path: knowledge, meditation · stage: advanced · types: consciousness-mind, ultimate_
 
-terms: [Turīya](../terms/turiya.md), [sākṣin](../terms/saksin.md) · teachers: [Haṃsa (the Lord as swan)](../teachers/hamsa-avatara.md)
+terms: [turīya](../terms/turiya.md), [sākṣin](../terms/saksin.md) · teachers: [Haṃsa (the Lord as swan)](../teachers/hamsa-avatara.md)
 
 ### 11.13.30-35 <a id="tea-uddhava-gita-11-13-30-35"></a>
 `sourced` · confidence high · [AI-translated]
@@ -825,4 +825,4 @@ _Notes: Chapter range varies by editor: some count the Uddhava Gītā from 11.6 
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/bhagavata-purANam.md, catalog:DCS:Bhāgavatapurāṇa — Uddhava's plea begins BhP 11.6.40 (to 11.6.49), Kṛṣṇa's reply opens 11.7.1 and the book closes at 11.29.49; the avadhūta section, Haṃsa, Bhikṣu and Aila Gītās sit where the structure says. Scholarly date (c. 9th-10th c.) is the usual Bhāgavata estimate; tradition account kept separate.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

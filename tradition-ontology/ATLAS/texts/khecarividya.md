@@ -28,7 +28,7 @@ The khecarī mantra, whose syllables are concealed in the text, must be received
 
 _level: conventional · standpoint: seeker · path: body-breath, sound · stage: advanced · types: teacher-transmission, sound-language_
 
-concepts: [The guru in the haṭha texts](../concepts/guru-in-hatha.md), [Secrecy and the testing of the disciple](../concepts/secrecy-and-testing.md) · practices: [Khecarī mudrā ('moving in space')](../practices/khecari-mudra.md)
+concepts: [The guru in haṭha](../concepts/guru-in-hatha.md), [Secrecy and the testing of the disciple](../concepts/secrecy-and-testing.md) · practices: [Khecarī mudrā ('moving in space')](../practices/khecari-mudra.md)
 
 ### 1.topic.physical-practice <a id="tea-khecarividya-1-topic-physical-practice"></a>
 `skeleton` · confidence moderate · _restricted: summary only_
@@ -57,4 +57,4 @@ _level: conventional · standpoint: seeker · path: body-breath · stage: advanc
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._

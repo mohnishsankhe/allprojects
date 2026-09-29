@@ -20,4 +20,4 @@ A short treatise with auto-commentary using the simile of a rope mistaken for a 
 _Notes: Identification of D3844 with the Hastavāla to be checked; low confidence._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._

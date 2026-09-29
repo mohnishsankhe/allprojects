@@ -10,4 +10,4 @@ Counted among the twenty-seven siddhas of rasa (Rasaratnasamuccaya 1.3) and, as 
 _Notes: Relation to the grammarian Vyāḍi (tch:vyadi) not established; kept separate._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

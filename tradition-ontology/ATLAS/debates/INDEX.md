@@ -1,6 +1,6 @@
-# Debates (462)
+# Debates (468)
 
-skeleton: 405 · sourced: 57
+skeleton: 403 · sourced: 65
 
 - [After understanding the mahāvākya, is repeated meditative contemplation (prasaṅkhyāna) required for liberating knowledge?](prasankhyana.md) — `skeleton`
 - [Are all nouns derived from verbal roots?](do-all-nouns-derive-from-verbs.md) — `sourced`
@@ -17,7 +17,7 @@ skeleton: 405 · sourced: 57
 - [Are space and dependent origination unconditioned?](kv-unconditioned-dhammas.md) — `skeleton`
 - [Are temple, image, Āgamic ritual and initiation the way to Śiva, or are they to be abandoned for the Lord within?](siddha-vs-agamic-saivism.md) — `skeleton`
 - [Are the Abhidharma treatises the word of the Buddha?](abhidharma-as-buddhavacana.md) — `skeleton`
-- [Are the cleansing acts necessary before breath-control, and how many are there?](necessity-of-satkarma.md) — `skeleton`
+- [Are the cleansing acts necessary before breath-control, and how many are there?](necessity-of-satkarma.md) — `sourced`
 - [Are the dead born again?](siddhar-rebirth.md) — `skeleton`
 - [Are the dualist Siddhānta scriptures or the non-dual Bhairava tantras the higher revelation?](rank-of-siddhanta-and-bhairava-tantras.md) — `skeleton`
 - [Are the five 'M's to be used literally, replaced by substitutes, interiorized, or rejected? (Summary only.)](pancamakara-literal-or-substitute.md) — `skeleton`
@@ -71,6 +71,7 @@ skeleton: 405 · sourced: 57
 - [Can an arhat fall back from arhatship?](arhat-retrogression.md) — `skeleton`
 - [Can an unconscious pradhāna, without a conscious director, bring forth and order the world?](can-unconscious-pradhana-create.md) — `skeleton`
 - [Can any person be omniscient, in particular directly know dharma?](omniscience.md) — `skeleton`
+- [Can cause and effect be the ground of birth? (Kārikā 4.11–4.23)](gk-cause-effect.md) — `sourced`
 - [Can devotion to God be a full aesthetic rasa, or only a bhāva?](is-bhakti-a-rasa.md) — `skeleton`
 - [Can every soul eventually be liberated, or are some souls by nature never to be liberated?](can-every-soul-be-liberated.md) — `skeleton`
 - [Can hymns in Tamil, composed by human poets — one of them born outside the brahmin class, one a woman — have the authority of the Veda?](tamil-prabandham-as-veda.md) — `skeleton`
@@ -105,6 +106,7 @@ skeleton: 405 · sourced: 57
 - [Do past and future dhammas exist (does 'everything exist')?](kv-sabbam-atthi.md) — `skeleton`
 - [Do past and future dharmas exist?](existence-in-three-times.md) — `skeleton`
 - [Do the departed live on what is given here?](kv-transfer-of-gifts.md) — `skeleton`
+- [Do the dualists' positions conflict with the non-dual teaching? (Kārikā 3.17–3.18)](gk-dualists-and-non-duality.md) — `sourced`
 - [Do the effortful methods of haṭha (breath-retention, mudrās, mantra, meditation on objects) bring the mindless state, or does it arise only effortlessly by the guru's grace?](amanaska-critique-of-hatha.md) — `skeleton`
 - [Do the Gauḍīyas belong to Madhva's lineage (Brahma-Mādhva sampradāya)?](gaudiya-sampradaya-affiliation.md) — `skeleton`
 - [Do the paths taught by the brahmins of the three Vedas lead to union with Brahmā?](tevijja-union-with-brahma.md) — `skeleton`
@@ -173,7 +175,7 @@ skeleton: 405 · sourced: 57
 - [How should Digambara image worship be performed, and are the bhaṭṭārakas authorities?](bisapantha-terapantha.md) — `skeleton`
 - [How should the Saṃhitās be interpreted — by the rite, the gods, the self, history, or one God?](how-to-read-the-samhitas.md) — `sourced`
 - [If the chart shows fate, what room is left for human effort and for remedial rites?](jyotisa-fate-and-effort.md) — `skeleton`
-- [In mahābandha, is the throat lock (jālandhara) to be applied, or the tongue pressed at the root of the front teeth instead?](jalandhara-in-mahabandha.md) — `skeleton`
+- [In mahābandha, is the throat lock (jālandhara) to be applied, or the tongue pressed at the root of the front teeth instead?](jalandhara-in-mahabandha.md) — `sourced`
 - [In Prāsaṅgika Madhyamaka, is the ultimate only a non-affirming negation of true existence, or the union beyond all four extremes in which nothing is apprehended?](mipham-gelug-madhyamaka.md) — `skeleton` _(recent)_
 - [In the omniscient, do knowledge (jñāna) and perception (darśana) occur in sequence, simultaneously, or are they one?](kevala-jnana-darsana-sequence.md) — `skeleton`
 - [In what sense is the living being 'a portion of me' (mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ, BhG 15.7)?](bhagavad-gita-jiva-as-amsa.md) — `skeleton`
@@ -191,6 +193,7 @@ skeleton: 405 · sourced: 57
 - [Is awakening reached by one's own practice (self-power) or by the power of Amitābha's vow (other-power)?](self-power-or-other-power.md) — `skeleton`
 - [Is awakening reached by the effortful arousal of kuṇḍalinī, or does it lie in the innate (sahaja), which such practices do not reach?](natha-effort-or-sahaja.md) — `skeleton`
 - [Is awakening sudden — an all-at-once seeing of the mind's nature — or gradual, reached by stages of cultivation and analysis; and after sudden awakening, is gradual cultivation still needed?](sudden-or-gradual.md) — `skeleton`
+- [Is birth of the existent or of the non-existent? (Kārikā 4.3–4.5)](gk-existent-or-nonexistent-birth.md) — `sourced`
 - [Is birth settled by one calling (or one thought of faith), or by lifelong many callings?](one-calling-or-many-calling.md) — `skeleton`
 - [Is birth settled only at death with the Buddha's welcome, or already in this life?](deathbed-welcome-or-settled-in-life.md) — `skeleton`
 - [Is blood (rakta) a doṣa alongside vāta, pitta and kapha?](is-blood-a-fourth-dosa.md) — `skeleton`
@@ -255,6 +258,7 @@ skeleton: 405 · sourced: 57
 - [Is the astrologer to be honoured or excluded at a śrāddha?](astrologer-at-sraddha.md) — `skeleton`
 - [Is the Atimārga's liberation final, or a lower level beneath Śiva?](atimarga-liberation-rank.md) — `skeleton`
 - [Is the Bhāgavata's final purport non-dual knowledge or devotion?](bhagavata-purport-knowledge-or-devotion.md) — `sourced`
+- [Is the bliss of laya (dissolution of mind and breath) to be called liberation?](hyp-is-laya-liberation.md) — `sourced`
 - [Is the Buddha's bodily existence supramundane, or human and impure (sāsrava)?](nature-of-the-buddha.md) — `skeleton`
 - [Is the cause of birth the nenbutsu (with the three minds) or shinjin?](true-cause-of-birth.md) — `skeleton`
 - [Is the Chan list of 28 Indian patriarchs authentic?](indian-patriarch-lineage.md) — `skeleton`
@@ -429,6 +433,7 @@ skeleton: 405 · sourced: 57
 - [What is the relation of the individual self to Brahman, according to the teachers named in BS 1.4.20–22?](jiva-brahman-relation-brahma-sutra.md) — `skeleton`
 - [What is the self common to all men (vaiśvānara)?](vaisvanara-six-views.md) — `sourced`
 - [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](status-of-veda.md) — `skeleton`
+- [What is the world made of? (specialists' views recorded in Gauḍapāda Kārikā 2.20–2.28)](gk-specialists-views.md) — `sourced`
 - [What is Śrī's rank: all-pervading and of the Lord's rank (Īśvara-koṭi), or atomic and of the rank of souls (jīva-koṭi)? Is she a means or only the mediator?](status-of-sri.md) — `skeleton`
 - [What makes one a brāhmaṇa — birth, body, learning, action, or realization of the Self?](who-is-a-brahmana.md) — `sourced`
 - [What moves events — fate, time, nature, the Lord, karma, or human effort?](fate-or-effort.md) — `skeleton`
@@ -460,6 +465,7 @@ skeleton: 405 · sourced: 57
 - [Who may learn and recite the Veda?](who-may-learn-the-veda.md) — `sourced`
 - [Who or what is the imperishable person (akṣara, called kūṭastha) of BhG 15.16, set beside the perishable (all beings) and below the highest person, and so what does it mean that the Lord is 'higher even than the imperishable' (15.18)?](bhagavad-gita-aksara-purusa.md) — `skeleton`
 - [Whom does the worship of other deities (anya-devatā) really reach, and what does it yield?](bhagavad-gita-other-deities.md) — `skeleton`
+- [Why and how does the world come to be? (theories of creation listed in Gauḍapāda Kārikā 1.6–1.9)](gk-creation-theories.md) — `sourced`
 - [Why did Pārśva teach four restraints and allow clothes while Mahāvīra taught five vows and nakedness?](kesi-gautama.md) — `skeleton`
 - [Why did Viṣṇu appear as the Buddha (and how are the Buddhist and Jain teachings to be regarded)?](buddha-avatara-purpose.md) — `sourced`
 - [Ārdraka's debates with rival ascetics (Sūtrakṛtāṅga 2.6)](ardraka-debates.md) — `skeleton`

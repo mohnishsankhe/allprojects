@@ -9,4 +9,4 @@
 Therapeutic massage and manipulation, one of the external treatments of Siddha medicine, practised in several named kinds. No techniques recorded.
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

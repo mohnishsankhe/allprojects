@@ -10,4 +10,4 @@ Illness and misfortune attributed to disturbed local gods and spirits, addressed
 **Antidotes:** [Smoke offering (bsang)](../practices/sang-offering.md), [Torma offering](../practices/torma-offering.md)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 23:14 IST._

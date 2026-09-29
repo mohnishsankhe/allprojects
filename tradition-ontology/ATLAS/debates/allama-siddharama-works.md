@@ -24,4 +24,4 @@ Allama: such works bind; the liṅga must be found within; Siddharāma receives 
 **The traditions' own objections:** none recorded (both figures belong to the tradition)
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._

@@ -17,4 +17,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/8_jyot/lagadha_rgvedavedangajyotisa.md (GRETIL, Ārca recension), https://hindupedia.com/en/Jyotish, https://archive.org/details/VedangaJyotisa, text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/1_veda/2_bra/satapath/ (G — The definition's cited passages were all checked in this sweep and support it: tea:vedanga-jyotisa:r.3 (confirmed); tea:vedanga-jyotisa:y.3 (partially-confirmed); tea:satapatha-brahmana:2.1.2.3 (confirmed). VJ Ṛk 3 and 35 carry the claim. The Yajus-recension number '3' is unverified (see tea:vedanga-jyotisa:y.3), but the verse itself is confirmed as belonging to the Vedāṅga Jyotiṣa.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._

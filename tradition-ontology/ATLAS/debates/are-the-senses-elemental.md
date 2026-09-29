@@ -30,4 +30,4 @@ Elemental, per the Sāṃkhya teacher Pañcādhikaraṇa (a dissenting Sāṃkhy
 **Candidate readings:** P2-standpoint: constitution (Nyāya: what the organ is made of) vs function (Sāṃkhya: the organ as instrument of the I-sense).
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 23:14 IST._

@@ -20,4 +20,4 @@
 - 2026-09-29 text: confirmed — tea:prajnaparamita-hrdaya:2.5, tea:prajnaparamita-hrdaya:s8 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 - 2026-09-29 text: confirmed — tea:prajnaparamita-hrdaya:s8 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:prajnaparamita-hrdaya/all, extraction:prajnaparamita-hrdaya-sanskrit-short/all. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:prajnaparamita-hrdaya/all, extraction:prajnaparamita-hrdaya-sanskrit-short/all. Generated 2026-09-29 23:14 IST._

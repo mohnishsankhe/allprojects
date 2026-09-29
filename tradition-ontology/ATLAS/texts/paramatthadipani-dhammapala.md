@@ -16,4 +16,4 @@
 Dhammapāla's commentaries on the Udāna, Itivuttaka, Vimānavatthu, Petavatthu, Theragāthā, Therīgāthā and Cariyāpiṭaka; the Cariyāpiṭaka commentary contains a treatise on the perfections (pāramī).
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

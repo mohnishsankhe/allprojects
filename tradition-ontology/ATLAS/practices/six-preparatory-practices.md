@@ -11,4 +11,4 @@ Cleaning the room and setting up representations of body, speech and mind; arran
   - [Great Treatise on the Stages of the Path to Enlightenment (lam rim chen mo)](../texts/lamrim-chenmo.md) — ref: intro.meditation-sessions; rests_on: ["tea:lamrim-chenmo:intro.meditation-sessions"]
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

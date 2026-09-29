@@ -399,4 +399,4 @@ teachers: [Nārada](../teachers/narada.md)
 _Notes: Sūtra numbering follows the common 84-sūtra text; some editions divide or join sūtras differently, so numbers may shift by one or two. No pre-modern Sanskrit commentary recalled with confidence; modern commentaries are many (e.g. in the Ramakrishna and ISKCON movements) and are not recorded here._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._

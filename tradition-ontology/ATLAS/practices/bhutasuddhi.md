@@ -14,4 +14,4 @@ In the preliminaries to worship the practitioner mentally dissolves the elements
   - [Somaśambhupaddhati](../texts/somasambhupaddhati.md) — ref: nitya; rests_on: ["tea:somasambhupaddhati:nitya"]
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._

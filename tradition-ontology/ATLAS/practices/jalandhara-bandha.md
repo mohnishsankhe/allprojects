@@ -1,15 +1,15 @@
 # Jālandharabandha (the throat lock)
 
-`prc:jalandhara-bandha` · `skeleton` · confidence high
+`prc:jalandhara-bandha` · `sourced` · confidence moderate · _restricted: summary only_
 
 **Category:** lock-seal
 **Convergence:** 3 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
 **Taught in:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 
-Contracting the throat and setting the chin firmly on the chest (HYP 3.70; GS 3.12; ŚS 4.38; DYŚ 126; GŚ 36). It binds the network of channels and the 'water of the sky', so that the nectar falling from the moon (or the thousand-petalled lotus) is not consumed by the fire at the navel; it stops the two side channels and binds the sixteen supports (HYP 3.71-73; GS 3.12; DYŚ 127-128). In breath-control it is applied at the end of inhalation (HYP 2.45).
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** intermediate
-**Signs of progress:** ['destroys old age and death and the host of throat ailments (HYP 3.70-71)', 'the nectar is not burnt by the fire and the breath is not disturbed (HYP 3.72; GŚ 36)', 'practised six months one becomes an adept (GS 3.13)']
 **Sources:** 
+  - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 3.70-3.73; rests_on: ["tea:hatha-yoga-pradipika:3.70", "tea:hatha-yoga-pradipika:3.71", "tea:hatha-yoga-pradipika:3.72", "tea:hatha-yoga-pradipika:3.73"]
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 3.70-73; rests_on: ["tea:hatha-yoga-pradipika:3.70-73"]
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 2.45-47; rests_on: ["tea:hatha-yoga-pradipika:2.45-47"]
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 3.12-13; rests_on: ["tea:gheranda-samhita:3.12-13"]
@@ -19,4 +19,8 @@ Contracting the throat and setting the chin firmly on the chest (HYP 3.70; GS 3.
   - [Yogakuṇḍalī Upaniṣad](../texts/yogakundali-upanisad.md) — ref: 1.40-52; rests_on: ["tea:yogakundali-upanisad:1.40-52"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:hatha-yoga-pradipika:3.70, tea:hatha-yoga-pradipika:3.71, tea:hatha-yoga-pradipika:3.72, tea:hatha-yoga-pradipika:3.73 — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids). Restricted entry: method_summary checked summary-only (no steps, counts, durations, measures); warnings[] checked verbatim against the segments.
+
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

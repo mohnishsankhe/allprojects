@@ -14,4 +14,4 @@ Legs crossed, spine straight, hands in the meditation gesture below the navel, s
 _Notes: Usually called 'the seven points of Vairocana' in Tibetan manuals; the enumeration here is the common one (from memory), the bka' dpe phyi ma gives its own images._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

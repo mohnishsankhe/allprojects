@@ -16,4 +16,4 @@ Varuṇa gives Bhṛgu the mark of brahman (that from which beings are born, liv
 
 - 2026-09-29 text: confirmed — tea:taittiriya-upanisad:3.1.1, tea:taittiriya-upanisad:3.2.1, tea:taittiriya-upanisad:3.3.1, tea:taittiriya-upanisad:3.4.1, tea:taittiriya-upanisad:3.5.1 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:taittiriya-upanisad/kosa. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:taittiriya-upanisad/kosa. Generated 2026-09-29 23:14 IST._

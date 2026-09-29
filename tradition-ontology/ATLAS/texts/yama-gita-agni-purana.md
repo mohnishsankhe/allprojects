@@ -33,4 +33,4 @@ teachers: [Yama (Mṛtyu)](../teachers/yama.md), [Naciketas](../teachers/naciket
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/dcs/corpus/GRETIL/sa_agnipurANa.txt, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915) — Agni Purāṇa 381.1 ('yamagītāṃ pravakṣyāmi uktā yā nāciketase') and the colophon 'yamagītā nāmaikāśītyadhikatriśatatamo 'dhyāyaḥ' verified; also printed in the Gītāsaṅgraha.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

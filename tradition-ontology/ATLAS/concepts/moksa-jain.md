@@ -14,4 +14,4 @@
 - contrasts-with → [Kaivalya (YS 3.50, 3.55, 4.26-4.34)](kaivalya.md) — rests on [10.2](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-10-2)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

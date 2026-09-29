@@ -6,7 +6,7 @@
 **Convergence:** 4 independent lineage(s): [Digambara](../lineages/digambara.md), [Jainism (Jaina dharma)](../lineages/jainism.md), [Śvetāmbara](../lineages/svetambara.md), [Yāpanīya](../lineages/yapaniya.md)
 **Taught in:** [Digambara](../lineages/digambara.md), [Jainism (Jaina dharma)](../lineages/jainism.md), [Śvetāmbara](../lineages/svetambara.md), [Yāpanīya](../lineages/yapaniya.md)
 
-At the approach of death that cannot be averted (calamity, famine, old age, incurable illness), the practitioner, with the teacher's permission and under the care of attending ascetics, gradually gives up food and passions, forgives and asks forgiveness, and dies in equanimity reciting the homage to the five supreme beings.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced; the culmination of the lay vows and of ascetic life
 **Sources:** 
   - [Tattvārthasūtra](../texts/tattvartha-sutra.md) — ref: 7.22; rests_on: ["tea:tattvartha-sutra:7.22"]
@@ -28,4 +28,4 @@ At the approach of death that cannot be averted (calamity, famine, old age, incu
 _Notes: Restricted: summary and the texts' own conditions and warnings only; no procedure, durations or stages recorded._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

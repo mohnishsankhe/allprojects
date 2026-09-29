@@ -13,7 +13,7 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [Turīya](turiya.md), [avadhūta](avadhuta.md)
+**Related:** [turīya](turiya.md), [avadhūta](avadhuta.md)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._

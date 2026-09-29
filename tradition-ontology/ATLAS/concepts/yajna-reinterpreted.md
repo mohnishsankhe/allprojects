@@ -23,4 +23,4 @@ _Notes: The count of kinds depends on how 4.28's compounds are divided; the list
 - 2026-09-29 text: corrected — tea:bhagavad-gita:4.24, tea:bhagavad-gita:4.25, tea:bhagavad-gita:4.26, tea:bhagavad-gita:4.27, tea:bhagavad-gita:4.28, tea:bhagavad-gita:4.29, tea:bhagavad-gita:4.30, tea:bhagavad-gita:4.31, tea:bhagavad-gita:4.32, tea:bhagavad-gita:4.33 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:9.15, tea:bhagavad-gita:9.16, tea:bhagavad-gita:9.24, tea:bhagavad-gita:9.26, tea:bhagavad-gita:9.27 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 23:14 IST._

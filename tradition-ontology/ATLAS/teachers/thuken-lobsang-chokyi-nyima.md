@@ -11,4 +11,4 @@
 Gelug scholar of Amdo, author of the Crystal Mirror of Tenets.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

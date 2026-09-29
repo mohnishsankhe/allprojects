@@ -6,9 +6,8 @@
 **Convergence:** 1 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md)
 **Taught in:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md)
 
-RESTRICTED — summary only: a retention with a very firm throat-lock at the end of inhalation and slow exhalation, which the texts say makes the mind faint and gives happiness (HYP 2.69); in the Gheraṇḍa, the mind is set between the brows during an easy retention, abandoning all objects — 'the swoon of the mind' — and joined to the self (GS 5.84-85), the means to one of its six samādhis (GS 7.16).
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
-**Signs of progress:** ['the fainting of the mind gives happiness (HYP 2.69)', 'bliss from joining the mind to the self; samādhi (GS 5.85)']
 **Sources:** 
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 2.69; rests_on: ["tea:hatha-yoga-pradipika:2.69"]
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 5.84-85; rests_on: ["tea:gheranda-samhita:5.84-85"]
@@ -20,4 +19,4 @@ RESTRICTED — summary only: a retention with a very firm throat-lock at the end
 - Draw the breath in slowly and release it slowly; do not hold it excessively nor release it quickly. — [Gorakṣaśataka](../texts/goraksasataka.md) 51
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

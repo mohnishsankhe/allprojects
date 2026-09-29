@@ -17,4 +17,4 @@ Taking emptiness to mean that nothing exists, so that karma, the path and the Bu
 _Notes: Contribution of U47._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

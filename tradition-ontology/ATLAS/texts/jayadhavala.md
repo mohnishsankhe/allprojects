@@ -16,4 +16,4 @@
 The commentary on the Kaṣāyapāhuḍa and Yativṛṣabha's cūrṇi begun by Vīrasena and completed by his pupil Jinasena in 837 CE.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

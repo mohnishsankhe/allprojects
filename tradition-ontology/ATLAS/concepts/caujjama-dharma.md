@@ -13,4 +13,4 @@
 - leads-to → [The five vows](five-vratas.md): the fourfold restraint was expanded into the five great vows — rests on [23](../texts/uttaradhyayana-sutra.md#tea-uttaradhyayana-sutra-23)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

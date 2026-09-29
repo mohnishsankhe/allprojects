@@ -18,4 +18,4 @@ Bhagavad Gītā 13–15: Resorting to secluded places (vivikta-deśa-sevitva) an
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.8-12, tea:bhagavad-gita:13.11 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch13-15, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch13-15, skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._

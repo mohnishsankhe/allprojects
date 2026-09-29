@@ -17,4 +17,4 @@
 _Notes: The derivation of 'sthala' as that in which all things abide (sthā) and dissolve (la) is common in later exposition; not verified in the SSM here._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._

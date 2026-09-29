@@ -23,4 +23,4 @@
 _Notes: The order of the kañcukas varies slightly between sources (e.g. kāla and niyati)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U23-sakta-srividya, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U19-kashmir-saivism, skeleton:U23-sakta-srividya, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._

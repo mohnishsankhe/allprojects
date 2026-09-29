@@ -87,4 +87,4 @@ terms: [bhūta-catuṣṭaya](../terms/bhuta-catustaya.md), [tattva (Lokāyata)]
 _Notes: Fragment refs (fr-…) are mnemonic labels made by this unit, not an editor's numbering; each teaching names the quoting sources._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._

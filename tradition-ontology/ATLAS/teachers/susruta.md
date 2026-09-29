@@ -13,4 +13,4 @@ The student who put the questions to Divodāsa Dhanvantari on behalf of his fell
 _Notes: Later tradition makes him a son of Viśvāmitra (recalled, not checked)._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

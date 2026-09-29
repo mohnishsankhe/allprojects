@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Sakya](../lineages/sakya.md)
 **Taught in:** [Sakya](../lineages/sakya.md)
 
-After receiving the Hevajra empowerment of the Lamdre, the practitioner daily performs the Hevajra sādhana of the generation stage and, under instruction, the completion-stage practices of the method continuum; the daily practice is a commitment of those empowered.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Prerequisites:** ['Hevajra empowerment', 'the Lamdre Tsokshé or Lobshé instruction']
 **Sources:** 
@@ -19,4 +19,4 @@ After receiving the Hevajra empowerment of the Lamdre, the practitioner daily pe
 _Notes: Summary only; restricted completion-stage content not recorded._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

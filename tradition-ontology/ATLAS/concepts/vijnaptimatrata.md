@@ -15,4 +15,4 @@
 - contrasts-with → [Atomism (paramāṇuvāda)](atomism-vaisesika.md): the atom is refuted as neither one nor many — rests on [11-14](../texts/vimsatika.md#tea-vimsatika-11-14)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._

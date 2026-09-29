@@ -14,4 +14,4 @@
 A sūtra on the 'adamantine absorption' combining tathāgatagarbha, emptiness and Chan contemplation, including 'guarding the one' and the 'original enlightenment'; commented on by Wonhyo.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._

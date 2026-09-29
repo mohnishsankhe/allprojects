@@ -24,7 +24,7 @@ Mindfulness of the body is developed through breathing, the postures, clear comp
 
 _level: conventional · standpoint: seeker · path: meditation, body-breath · stage: all · types: practice, body-layers_
 
-concepts: [The thirty-two parts of the body](../concepts/thirty-two-parts.md) · practices: [Mindfulness directed to the body (kāyagatāsati)](../practices/kayagatasati.md), [Attention to the repulsiveness of the body (paṭikūlamanasikāra)](../practices/patikulamanasikara.md), [Attention to the elements (dhātumanasikāra)](../practices/dhatumanasikara.md), [The nine charnel-ground contemplations (navasivathikā)](../practices/navasivathika.md), [Contemplation of the postures (iriyāpatha)](../practices/iriyapatha.md), [Acting with clear comprehension (sampajāna)](../practices/sampajanna.md)
+concepts: [The thirty-two parts of the body](../concepts/thirty-two-parts.md) · practices: [Mindfulness directed to the body (kāyagatāsati): summary only](../practices/kayagatasati.md), [Attention to the repulsiveness of the body (paṭikūlamanasikāra)](../practices/patikulamanasikara.md), [Attention to the elements (dhātumanasikāra)](../practices/dhatumanasikara.md), [The nine charnel-ground contemplations (navasivathikā)](../practices/navasivathika.md), [Contemplation of the postures (iriyāpatha)](../practices/iriyapatha.md), [Acting with clear comprehension (sampajāna)](../practices/sampajanna.md)
 
 ### 18-22 <a id="tea-kayagatasati-sutta-18-22"></a>
 `skeleton` · confidence high
@@ -42,7 +42,7 @@ Whoever has developed mindfulness of the body includes all wholesome states that
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-practices: [Mindfulness directed to the body (kāyagatāsati)](../practices/kayagatasati.md) · obstacles: [Māra](../obstacles/mara.md)
+practices: [Mindfulness directed to the body (kāyagatāsati): summary only](../practices/kayagatasati.md) · obstacles: [Māra](../obstacles/mara.md)
 
 ### 32-43 <a id="tea-kayagatasati-sutta-32-43"></a>
 `skeleton` · confidence high
@@ -51,10 +51,10 @@ The ten benefits of mindfulness of the body: one conquers discontent and delight
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice, powers-experiences_
 
-concepts: [The six direct knowledges](../concepts/six-abhinnas.md) · practices: [Mindfulness directed to the body (kāyagatāsati)](../practices/kayagatasati.md)
+concepts: [The six direct knowledges](../concepts/six-abhinnas.md) · practices: [Mindfulness directed to the body (kāyagatāsati): summary only](../practices/kayagatasati.md)
 
 
 _Notes: SuttaCentral uid mn119; Mahāsaṅgīti title 'Kāyagatāsatisutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

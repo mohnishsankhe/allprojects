@@ -19,4 +19,4 @@
 A composite map assembled by the unit from the cited texts; the 'learner/non-learner' split of union is the later scholastic presentation.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._

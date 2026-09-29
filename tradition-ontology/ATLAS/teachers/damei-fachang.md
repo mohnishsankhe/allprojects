@@ -10,4 +10,4 @@
 Heir of Mazu who awoke at 'this very mind is buddha' and kept to it when Mazu switched to 'neither mind nor buddha'; Mazu said 'the plum is ripe'.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

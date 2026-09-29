@@ -11,4 +11,4 @@ Named in TM 69 among Tirumūlar's disciples in the mantra-lineage.
 _Notes: Checked in the local TM e-text (69); nothing further recalled._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

@@ -15,4 +15,4 @@
 - partial: [sevā](seva.md) — dāsōha includes service but also names the servant-stance and the sharing of earned wealth
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 23:14 IST._

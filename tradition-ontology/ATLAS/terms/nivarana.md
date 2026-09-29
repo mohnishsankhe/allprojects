@@ -6,6 +6,7 @@
 **Literal:** hindrance
 
 ## Definitions by tradition
+- [Theravāda](../lineages/theravada.md): The five: sensual desire, ill will, sloth and torpor, restlessness and remorse, doubt; the adversaries and opposites of the jhāna factors (Vism IV p. 141); so called by way of covering, hindering and concealing consciousness (Vism XXII p. 684).
 - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): The five hindrances named in MN 10:36 as the first field of the contemplation of dhammas: sensual desire, ill will, dullness and drowsiness, restlessness and remorse, doubt.
 - [Early Buddhism (the Dhamma-Vinaya of the Nikāyas)](../lineages/early-buddhism.md): The five hindrances — sensual desire, ill will, dullness and drowsiness, restlessness and remorse, doubt — which obstruct the mind, like debt, disease, prison, slavery and a desert crossing (DN 2), or like dyed, boiling, mossy, windswept and muddy water (SN 46.55).
 - [Theravāda](../lineages/theravada.md): Hindrances obstructing concentration and insight; six in the Abhidhamma (the sutta five plus ignorance).
@@ -21,6 +22,7 @@
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:visuddhimagga:22.p684, tea:visuddhimagga:4.p141 — Level not raised (entities are not promoted by the spot-check). Read by J in full against the teachings it rests on and their Pali pages; linked ids resolve (code); no modern, psychological or clinical wording (code scan).
 - 2026-09-29 text: partially-confirmed — tea:satipatthana-sutta:mn10:36 — Level not raised (entities are not promoted by the spot-check). By code: every linked id resolves in data/ or these shards; no restricted flag; no modern/psychological/health wording found. Sense checked by J against the passage(s) of the teachings listed in evidence (name and definition fit); full content not read line by line.
 
-_Contributed by: extraction:satipatthana-sutta/all, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:visuddhimagga/selections, extraction:satipatthana-sutta/all, skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga, skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._

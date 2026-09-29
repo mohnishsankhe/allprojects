@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [The powers as obstacles in samādhi (3.37)](siddhis-as-obstacles.md) (signs and powers): Both traditions treat powers as distractions from liberation. — rests on [1](../texts/aptamimamsa.md#tea-aptamimamsa-1), [6.1](../texts/yogasastra-hemacandra.md#tea-yogasastra-hemacandra-6-1)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

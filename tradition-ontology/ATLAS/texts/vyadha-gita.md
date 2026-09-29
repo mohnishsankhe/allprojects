@@ -98,4 +98,4 @@ practices: [Serving one's parents as dharma](../practices/serving-parents.md) ·
 
 - dating: CE 3.198-206 confirmed (Kauśika goes to Mithilā, 198.2-4; 206.34 closes). The dating was copied from the Mokṣadharma entries and names the Mokṣadharma, which does not apply to an Āraṇyakaparvan passage; replaced.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

@@ -32,4 +32,4 @@ BPHS 2.3 itself joins the two: the planets are Janārdana giving the fruits of k
 _Notes: Not a single recorded debate but two positions stated within the jyotiṣa corpus; recorded because later practice divides on it._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._

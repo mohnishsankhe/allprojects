@@ -10,4 +10,4 @@
 One of the twenty 'living' (viharamāna) Tīrthaṅkaras now teaching in the Mahāvideha region, where liberation is always possible. Digambaras hold that Kundakunda travelled to him to hear the teaching; he is also the focus of devotion in the Kanji Swami movement.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

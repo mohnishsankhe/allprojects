@@ -15,4 +15,4 @@ Founder figure of Gauḍīya Vaiṣṇavism: Navadvīpa scholar who after initia
 **Realization — the tradition's account:** Kṛṣṇa himself, appearing with the mood and golden complexion of Rādhā to taste her love (CC 1.1.5–6); the hidden (channa) avatāra and yuga-avatāra of Kali who inaugurated the chanting of the name; in his last years he passed through states of divine madness (divyonmāda); he disappeared at Purī in 1533 (accounts differ on how).
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._

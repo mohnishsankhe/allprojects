@@ -26,7 +26,7 @@ The dialogue in which Kṛṣṇa, as charioteer, instructs Arjuna on the battle
   - kind: original; name: F. O. Schrader, The Kashmir Recension of the Bhagavadgītā (Stuttgart, 1930); licence: print
 **Commentaries on this text:** [Anāsakti Yoga of M. K. Gandhi](anasakti-yoga.md), [Bhagavad-gītā As It Is](bhagavad-gita-as-it-is.md), [Bhagavadgītā Vīraśaiva-bhāṣya (T. G. Siddappārādhya)](bhagavadgita-virasaiva-bhasya.md), [Essays on the Gita of Sri Aurobindo](essays-on-the-gita.md), [Gītābhāṣya of Bhāskara](gita-bhasya-bhaskara.md), [Gītābhāṣya (Madhva)](gita-bhasya-madhva.md), [Gītābhāṣya of Rāmānuja](gita-bhasya-ramanuja.md), [Gītābhāṣya of Śaṅkara](gita-bhasya-sankara.md), [Gītābhūṣaṇa of Baladeva Vidyābhūṣaṇa](gita-bhusana.md), [Gītā Rahasya (Karmayogaśāstra) of Bāl Gaṅgādhar Tilak](gita-rahasya.md), [Gītātātparyanirṇaya](gita-tatparya-nirnaya.md), [Gītārthasaṅgraha](gitarthasangraha.md), [Gītārthasaṅgraha of Abhinavagupta](gitarthasangraha-abhinavagupta.md), [Gītārthasaṅgraha of Yāmuna](gitarthasangraha-yamuna.md), [Gītāvivṛti](gitavivrti.md), [Gūḍhārthadīpikā](gudharthadipika.md), [Jñāneśvarī (Bhāvārthadīpikā)](jnanesvari.md), [Kathā-Gītā (of Bhaṭṭadeva)](katha-gita-bhattadeva.md), [Sārārthavarṣiṇī](sarartha-varsini.md), [Sārārthavarṣiṇī of Viśvanātha Cakravartin](sararthavarsini.md), [Sarvatobhadra of Rājānaka Rāmakaṇṭha](sarvatobhadra-ramakantha.md), [Subodhinī of Śrīdhara Svāmin](subodhini-sridhara.md), [Tattvaprakāśikā of Keśava Kāśmīrī Bhaṭṭa](tattvaprakasika-kesava-kasmiri.md), [Tattvaprakāśikā (Gītā commentary of Keśava Kāśmīrin)](tattvaprakasika-kesava-kasmirin.md), [Tattvārthadīpanibandha of Vallabha](tattvartha-dipa-nibandha.md)
 
-## Teachings (796: text-verified 599, sourced 197)
+## Teachings (902: text-verified 736, sourced 166)
 
 ### 1.1 <a id="tea-bhagavad-gita-1-1"></a>
 `text-verified` · confidence high
@@ -8583,32 +8583,90 @@ _level: conventional · standpoint: seeker · path: knowledge · stage: all · t
 
 terms: [guhya](../terms/guhya.md), [buddhi](../terms/buddhi.md), [kṛtakṛtya](../terms/krtakrtya.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · practices: [Study and hearing of the Gītā](../practices/gita-study.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
-### 16.1-3 <a id="tea-bhagavad-gita-16-1-3"></a>
-`sourced` · confidence high
+### 16.1 <a id="tea-bhagavad-gita-16-1"></a>
+`text-verified` · confidence high
 
-The divine endowment (daivī sampad): fearlessness, purity of being, steadfastness in knowledge and yoga, giving, self-restraint, sacrifice, study of scripture, austerity, uprightness; non-harm, truth, freedom from anger, renunciation, peace, absence of slander, compassion for beings, freedom from greed, gentleness, modesty, absence of fickleness; vigour, forgiveness, fortitude, purity, absence of malice and of excessive pride — these belong to one born to the divine endowment.
+Kṛṣṇa: fearlessness (abhaya), thorough purity of one's being (sattva-saṃśuddhi), steadfastness in jñānayoga (jñānayoga-vyavasthiti), giving (dāna), self-restraint (dama), sacrifice (yajña), recitation (svādhyāya), austerity (tapas), straightforwardness (ārjava) —
+
+> śrī bhagavānuvāca
+abhayaṃ sattvasaṃśuddhiḥ jñānayogavyavasthitiḥ|
+dānaṃ damaśca yajñaśca svādhyāyastapa ārjavam
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics_
 
-terms: [daivī sampad](../terms/daivi-sampad.md), [ahiṃsā](../terms/ahimsa.md), [satya](../terms/satya.md), [dama](../terms/dama.md), [kṣamā](../terms/ksama.md), [dhṛti](../terms/dhrti.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md)
+terms: [abhaya](../terms/abhaya.md), [jñānayoga](../terms/jnana-yoga.md), [dāna](../terms/dana.md), [dama](../terms/dama.md), [yajña](../terms/yajna.md), [svādhyāya](../terms/svadhyaya.md), [tapas](../terms/tapas.md), [ārjava](../terms/arjava.md), [daivī sampad](../terms/daivi-sampad.md), [sattva](../terms/sattva.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · practices: [Giving (dāna)](../practices/dana.md), [Sacrifice and eating its remains (yajña, yajña-śiṣṭa)](../practices/yajna.md), [Self-study (svādhyāya)](../practices/svadhyaya.md), [Austerity (tapas)](../practices/tapas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 16.1-3 <a id="tea-bhagavad-gita-16-1-3"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: fearlessness, thorough purity of one's being (sattva-saṃśuddhi), steadfastness in jñānayoga, giving, self-restraint, sacrifice, recitation (svādhyāya), austerity, straightforwardness, non-harming, truth, freedom from anger, relinquishment, peace, absence of slander, compassion toward beings, freedom from greed, gentleness, modesty, absence of fickleness, vigour, forbearance, steadiness, purity, absence of malice and absence of excessive pride — these belong, Bhārata, to one born to the divine endowment (daivī sampad).
+
+> śrī bhagavānuvāca
+abhayaṃ sattvasaṃśuddhiḥ jñānayogavyavasthitiḥ|
+dānaṃ damaśca yajñaśca svādhyāyastapa ārjavam
+ahiṃsā satyamakrodhastyāgaḥ śāntirapaiśunam|dayā bhūteṣvaloluptvaṃ mārdavaṃ hrīracāpalam
+tejaḥ kṣamā dhṛtiḥ śaucamadroho nātimānitā|
+bhavanti sampadaṃ daivīmabhijātasya bhārata
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics_
+
+terms: [abhaya](../terms/abhaya.md), [jñānayoga](../terms/jnana-yoga.md), [dāna](../terms/dana.md), [dama](../terms/dama.md), [yajña](../terms/yajna.md), [svādhyāya](../terms/svadhyaya.md), [tapas](../terms/tapas.md), [ārjava](../terms/arjava.md), [daivī sampad](../terms/daivi-sampad.md), [sattva](../terms/sattva.md), [ahiṃsā](../terms/ahimsa.md), [satya](../terms/satya.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md), [Truth (satya)](../concepts/satya.md), [Non-violence and non-cruelty (ahiṃsā, ānṛśaṃsya)](../concepts/non-violence.md) · practices: [Giving (dāna)](../practices/dana.md), [Sacrifice and eating its remains (yajña, yajña-śiṣṭa)](../practices/yajna.md), [Self-study (svādhyāya)](../practices/svadhyaya.md), [Austerity (tapas)](../practices/tapas.md), [Non-harming (ahiṃsā)](../practices/ahimsa.md), [Truthfulness (satya)](../practices/satya.md), [Purity (śauca)](../practices/sauca.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 16.2 <a id="tea-bhagavad-gita-16-2"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [continuing 16.1] non-harming (ahiṃsā), truth (satya), freedom from anger (akrodha), relinquishment (tyāga), peace (śānti), absence of slander (apaiśuna), compassion toward beings (dayā bhūteṣu), freedom from greed (aloluptva), gentleness (mārdava), modesty (hrī), absence of fickleness (acāpala) —
+
+> ahiṃsā satyamakrodhastyāgaḥ śāntirapaiśunam|dayā bhūteṣvaloluptvaṃ mārdavaṃ hrīracāpalam
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics_
+
+terms: [ahiṃsā](../terms/ahimsa.md), [satya](../terms/satya.md), [krodha](../terms/krodha.md), [tyāga](../terms/tyaga.md), [śānti](../terms/santi.md), [dayā](../terms/daya.md), [mārdava](../terms/mardava.md), [daivī sampad](../terms/daivi-sampad.md), [hrī](../terms/hri.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md), [Truth (satya)](../concepts/satya.md), [Non-violence and non-cruelty (ahiṃsā, ānṛśaṃsya)](../concepts/non-violence.md) · practices: [Non-harming (ahiṃsā)](../practices/ahimsa.md), [Truthfulness (satya)](../practices/satya.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 16.3 <a id="tea-bhagavad-gita-16-3"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [continuing 16.2] vigour (tejas), forbearance (kṣamā), steadiness (dhṛti), purity (śauca), absence of malice (adroha), absence of excessive pride (na atimānitā) — these belong, Bhārata, to one born to the divine endowment (daivī sampad).
+
+> tejaḥ kṣamā dhṛtiḥ śaucamadroho nātimānitā|
+bhavanti sampadaṃ daivīmabhijātasya bhārata
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics_
+
+terms: [tejas](../terms/tejas.md), [kṣamā](../terms/ksama.md), [dhṛti](../terms/dhrti.md), [śauca](../terms/sauca.md), [daivī sampad](../terms/daivi-sampad.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · practices: [Purity (śauca)](../practices/sauca.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 16.4 <a id="tea-bhagavad-gita-16-4"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Hypocrisy, arrogance, pride, anger, harshness and ignorance belong to one born to the demonic endowment.
+Kṛṣṇa: hypocrisy (dambha), arrogance (darpa), conceit (abhimāna), anger (krodha), harshness (pāruṣya) and ignorance (ajñāna) belong, Pārtha, to one born to the demonic endowment (āsurī sampad).
+
+> dambho darpo'bhimānaśca krodhaḥ pāruṣyameva ca|ajñānaṃ cābhijātasya pārtha sampadamāsurīm
 
 _level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics_
 
-terms: [āsurī sampad](../terms/asuri-sampad.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md)
+terms: [āsurī sampad](../terms/asuri-sampad.md), [abhimāna](../terms/abhimana.md), [krodha](../terms/krodha.md), [ajñāna](../terms/ajnana.md), [dambha](../terms/dambha.md), [darpa](../terms/darpa.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md), [Hypocrisy of the unrealised (dambha)](../obstacles/dambha.md), [Arrogance (darpa)](../obstacles/darpa.md), [Anger (krodha)](../obstacles/krodha.md), [Ignorance veiling knowledge (ajñāna)](../obstacles/ajnana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 16.5 <a id="tea-bhagavad-gita-16-5"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-The divine endowment is held to lead to liberation, the demonic to bondage; do not grieve, you are born to the divine endowment.
+Kṛṣṇa: the divine endowment is held to lead to release (vimokṣa), the demonic to bondage (nibandha). Do not grieve (mā śucaḥ), Pāṇḍava: you are born to the divine endowment.
 
-_level: conventional · standpoint: causal · path: general · stage: all · types: karma-liberation_
+> daivī sampadvimokṣāya nibandhāyāsurī matā|mā śucaḥ sampadaṃ daivīmabhijāto'si pāṇḍava
 
-concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md)
+_level: conventional · standpoint: causal · path: general · stage: all · types: ethics, karma-liberation_
+
+terms: [daivī sampad](../terms/daivi-sampad.md), [āsurī sampad](../terms/asuri-sampad.md), [mokṣa](../terms/moksa.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md), [Grief (śoka)](../obstacles/soka.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 16.6 <a id="tea-bhagavad-gita-16-6"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: there are two creations of beings (bhūta-sarga) in this world, the divine (daiva) and the demonic (āsura). The divine has been described at length; now hear from me, Pārtha, about the demonic.
+
+> dvau bhūtasargau loke'smin daiva āsura eva ca|daivo vistaraśaḥ prokta āsuraṃ pārtha me śrṛṇu
+
+_level: conventional · standpoint: analytic · path: general · stage: all · types: world-fate, ethics_
+
+terms: [asura](../terms/asura.md), [daivī sampad](../terms/daivi-sampad.md), [āsurī sampad](../terms/asuri-sampad.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 16.6-7 <a id="tea-bhagavad-gita-16-6-7"></a>
 `sourced` · confidence high
@@ -8619,14 +8677,40 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 
 concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md)
 
-### 16.8 <a id="tea-bhagavad-gita-16-8"></a>
-`sourced` · confidence high
+_Superseded by [16.6](bhagavad-gita.md#tea-bhagavad-gita-16-6)_
 
-The Gītā reports the view of the demonic: they say the world is without truth, without foundation, without a Lord, not produced in any order but arising from mutual union, with desire as its cause — what else?
+### 16.7 <a id="tea-bhagavad-gita-16-7"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: demonic people know neither engagement (pravṛtti) nor withdrawal (nivṛtti); neither purity (śauca), nor good conduct (ācāra), nor truth (satya) is found in them.
+
+> pravṛttiṃ ca nivṛttiṃ ca janā na vidurāsurāḥ|na śaucaṃ nāpi cācāro na satyaṃ teṣu vidyate
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics_
+
+terms: [pravṛtti](../terms/pravrtti.md), [nivṛtti](../terms/nivrtti.md), [śauca](../terms/sauca.md), [ācāra](../terms/acara.md), [satya](../terms/satya.md), [asura](../terms/asura.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 16.8 <a id="tea-bhagavad-gita-16-8"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: they say that the world is without truth (asatya), without foundation (apratiṣṭha), without a Lord (anīśvara), not come into being from one another (aparaspara-sambhūta) — 'what else? It has desire (kāma) for its cause.'
+
+> asatyamapratiṣṭhaṃ te jagadāhuranīśvaram|aparasparasambhūtaṃ kimanyatkāmahaitukam
 
 _level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, world-fate_
 
-obstacles: [The demonic endowment](../obstacles/asuri-sampad.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
+terms: [īśvara](../terms/isvara.md), [kāma](../terms/kama.md), [satya](../terms/satya.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md), [Īśvara (the Lord)](../concepts/isvara.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is there an Īśvara — a Lord who makes the world and dispenses the fruits of action? Is he proved by reason, known only from scripture, a special puruṣa for meditation, or not to be accepted at all?](../debates/isvara.md)
+
+### 16.9 <a id="tea-bhagavad-gita-16-9"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: holding fast to this view (dṛṣṭi), those whose self (ātman) is lost (naṣṭātman), of small understanding (alpa-buddhi) and cruel deeds, come forth, hostile (ahita), for the destruction of the world.
+
+> etāṃ dṛṣṭimavaṣṭabhya naṣṭātmāno'lpabuddhayaḥ|prabhavantyugrakarmāṇaḥ kṣayāya jagato'hitāḥ
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics, world-fate_
+
+terms: [ātman](../terms/atman.md), [buddhi](../terms/buddhi.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 16.9-18 <a id="tea-bhagavad-gita-16-9-18"></a>
 `sourced` · confidence high
@@ -8637,6 +8721,118 @@ _level: conventional · standpoint: polemical · path: general · stage: all · 
 
 concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md), [Desire and anger, the enemy (kāma–krodha)](../obstacles/kama-the-enemy.md)
 
+_Superseded by [16.9](bhagavad-gita.md#tea-bhagavad-gita-16-9)_
+
+### 16.10 <a id="tea-bhagavad-gita-16-10"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: resorting to insatiable desire (kāma), filled with hypocrisy (dambha), conceit (māna) and arrogance (mada), having taken up false notions (asad-grāha) out of delusion (moha), they act with impure vows (aśuci-vrata).
+
+> kāmamāśritya duṣpūraṃ dambhamānamadānvitāḥ|mohādgṛhītvāsadgrāhānpravartante'śucivratāḥ
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics_
+
+terms: [kāma](../terms/kama.md), [mada](../terms/mada.md), [moha](../terms/moha.md), [vrata](../terms/vrata.md), [dambha](../terms/dambha.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md), [Desire (kāma)](../obstacles/kama.md), [Hypocrisy of the unrealised (dambha)](../obstacles/dambha.md), [Pride, thinking highly of oneself (mānitva, māna)](../obstacles/manitva.md), [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 16.11 <a id="tea-bhagavad-gita-16-11"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [they are] given over to boundless care (cintā) that ends only with dissolution (pralaya), holding the enjoyment of desires as the highest, convinced that 'this is all' (etāvat) —
+
+> cintāmaparimeyāṃ ca pralayāntāmupāśritāḥ|kāmopabhogaparamā etāvaditi niśicatāḥ
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics_
+
+terms: [kāma](../terms/kama.md), [bhoga](../terms/bhoga.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md), [Desire (kāma)](../obstacles/kama.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 16.12 <a id="tea-bhagavad-gita-16-12"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [continuing 16.11] bound by hundreds of fetters of hope (āśā-pāśa), given over to desire and anger (kāma-krodha), they strive to amass wealth by unjust means (anyāyena) for the enjoyment of desires.
+
+> āśāpāśaśatairbaddhāḥ kāmakrodhaparāyaṇāḥ|īhante kāmabhogārthamanyāyenārthasañcayān
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics_
+
+terms: [kāma](../terms/kama.md), [krodha](../terms/krodha.md), [bhoga](../terms/bhoga.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md), [Desire (kāma)](../obstacles/kama.md), [Anger (krodha)](../obstacles/krodha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 16.13 <a id="tea-bhagavad-gita-16-13"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [they think:] 'This I have gained today; this wish (manoratha) I shall attain; this is mine, and this wealth too will be mine again (punar).'
+
+> idamadya mayā labdhamimaṃ prāpsye manoratham|idamastīdamapi me bhaviṣyati punardhanam
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics_
+
+concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md), [The sense of 'mine' (mamatva)](../obstacles/mamatva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 16.14 <a id="tea-bhagavad-gita-16-14"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [they think:] 'That enemy has been slain by me, and I shall slay others too. I am the lord (īśvara), I am the enjoyer (bhogin), I am accomplished (siddha), strong and happy.'
+
+> asau mayā hataḥ śatrurhaniṣye cāparānapi|īśvaro'hamahaṃ bhogī siddho'haṃ balavānsukhī
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics_
+
+terms: [īśvara](../terms/isvara.md), [bhoga](../terms/bhoga.md), [ahaṅkāra](../terms/ahankara.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md), [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 16.15 <a id="tea-bhagavad-gita-16-15"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [they think:] 'I am wealthy and of high birth; who else is like me? I shall sacrifice, I shall give, I shall rejoice' — so [think those] deluded by ignorance (ajñāna).
+
+> āḍhyo'bhijanavānasmi ko'nyo'sti sadṛśo mayā|yakṣye dāsyāmi modiṣya ityajñānavimohitāḥ
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics_
+
+terms: [ajñāna](../terms/ajnana.md), [yajña](../terms/yajna.md), [dāna](../terms/dana.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md), [Ignorance veiling knowledge (ajñāna)](../obstacles/ajnana.md), [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 16.16 <a id="tea-bhagavad-gita-16-16"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: led astray by many thoughts (aneka-citta), enveloped in the net of delusion (moha-jāla), attached to the enjoyment of desires, they fall into a foul hell (naraka).
+
+> anekacittavibhrāntā mohajālasamāvṛtāḥ|prasaktāḥ kāmabhogeṣu patanti narake'śucau
+
+_level: conventional · standpoint: causal · path: general · stage: all · types: ethics, karma-liberation_
+
+terms: [citta](../terms/citta.md), [moha](../terms/moha.md), [kāma](../terms/kama.md), [naraka](../terms/naraka.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md), [Hell (naraka)](../concepts/naraka.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md), [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 16.17 <a id="tea-bhagavad-gita-16-17"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: self-conceited (ātma-saṃbhāvita), stubborn (stabdha), filled with the pride and intoxication of wealth (dhana-māna-mada), they sacrifice with sacrifices in name only (nāma-yajña), with hypocrisy (dambha), not according to injunction (avidhi-pūrvakam).
+
+> ātmasambhāvitāḥ stabdhā dhanamānamadānvitāḥ|yajante nāmayajñaiste dambhenāvidhipūrvakam
+
+_level: conventional · standpoint: ritual · path: ritual · stage: all · types: ethics, practice_
+
+terms: [yajña](../terms/yajna.md), [mada](../terms/mada.md), [vidhi](../terms/vidhi.md), [dambha](../terms/dambha.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md), [Hypocrisy of the unrealised (dambha)](../obstacles/dambha.md), [Pride, thinking highly of oneself (mānitva, māna)](../obstacles/manitva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 16.18 <a id="tea-bhagavad-gita-16-18"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: resorting to the sense of 'I' (ahaṅkāra), force (bala), arrogance (darpa), desire and anger, these cavillers (abhyasūyaka) hate me in their own bodies and in those of others.
+
+> ahaṅkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ ca saṃśritāḥ|māmātmaparadeheṣu pradviṣanto'bhyasūyakāḥ
+
+_level: conventional · standpoint: divine · path: general · stage: all · types: ethics_
+
+terms: [ahaṅkāra](../terms/ahankara.md), [kāma](../terms/kama.md), [krodha](../terms/krodha.md), [asūyā](../terms/asuya.md), [darpa](../terms/darpa.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md), [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md), [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md), [Arrogance (darpa)](../obstacles/darpa.md), [Desire (kāma)](../obstacles/kama.md), [Anger (krodha)](../obstacles/krodha.md), [Cavilling (asūyā)](../obstacles/asuya.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 16.19 <a id="tea-bhagavad-gita-16-19"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: these hateful, cruel, inauspicious lowest of men I hurl again and again (ajasram), in the rounds of rebirth (saṃsāra), into demonic wombs (āsurī yoni).
+
+> tānahaṃ dviṣataḥ krūrānsaṃsāreṣu narādhamān|kṣipāmyajasramaśubhānāsurīṣveva yoniṣu
+
+_level: conventional · standpoint: divine · path: general · stage: all · types: karma-liberation, world-fate_
+
+terms: [saṃsāra](../terms/samsara.md), [asura](../terms/asura.md), [yoni](../terms/yoni.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md), [Rebirth](../concepts/rebirth.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 16.19-20 <a id="tea-bhagavad-gita-16-19-20"></a>
 `sourced` · confidence high
 
@@ -8645,6 +8841,30 @@ These cruel haters, the worst of men, I hurl again and again into demonic wombs 
 _level: conventional · standpoint: divine · path: general · stage: all · types: karma-liberation_
 
 terms: [saṃsāra](../terms/samsara.md)
+
+_Superseded by [16.19](bhagavad-gita.md#tea-bhagavad-gita-16-19)_
+
+### 16.20 <a id="tea-bhagavad-gita-16-20"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: having entered demonic wombs, deluded birth after birth, never reaching me, Kaunteya, they go from there to the lowest course (adhamā gati).
+
+> asurīṃ yonimāpannā mūḍhā janmani janmani|māmaprāpyaiva kaunteya tato yāntyadhamāṃ gatim
+
+_level: conventional · standpoint: causal · path: general · stage: all · types: karma-liberation, world-fate_
+
+terms: [moha](../terms/moha.md), [yoni](../terms/yoni.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md), [Rebirth](../concepts/rebirth.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md), [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 16.21 <a id="tea-bhagavad-gita-16-21"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: this gate of hell (naraka), ruinous to one's self (nāśanam ātmanaḥ), is threefold: desire (kāma), anger (krodha) and greed (lobha). Therefore one should abandon these three.
+
+> trividhaṃ narakasyedaṃ dvāraṃ nāśanamātmanaḥ|kāmaḥ krodhastathā lobhastasmādetattrayaṃ tyajet
+
+_level: conventional · standpoint: seeker · path: general · stage: all · types: ethics, karma-liberation_
+
+terms: [naraka](../terms/naraka.md), [kāma](../terms/kama.md), [krodha](../terms/krodha.md), [lobha](../terms/lobha.md), [ātman](../terms/atman.md) · concepts: [Hell (naraka)](../concepts/naraka.md), [Desire (and anger) as the enemy (BhG 3.36–43)](../concepts/kama-as-the-enemy.md) · practices: [Slaying desire, the enemy](../practices/conquering-desire.md) · obstacles: [The three gates of hell: desire, anger, greed](../obstacles/three-gates-of-hell.md), [Desire (kāma)](../obstacles/kama.md), [Anger (krodha)](../obstacles/krodha.md), [Greed (lobha)](../obstacles/lobha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 16.21-22 <a id="tea-bhagavad-gita-16-21-22"></a>
 `sourced` · confidence high
@@ -8657,6 +8877,30 @@ _level: conventional · standpoint: seeker · path: general · stage: all · typ
 
 terms: [kāma](../terms/kama.md), [krodha](../terms/krodha.md), [lobha](../terms/lobha.md) · obstacles: [The three gates of hell: desire, anger, greed](../obstacles/three-gates-of-hell.md)
 
+_Superseded by [16.21](bhagavad-gita.md#tea-bhagavad-gita-16-21)_
+
+### 16.22 <a id="tea-bhagavad-gita-16-22"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: a person freed from these three gates of darkness (tamas), Kaunteya, practises what is good for one's self (ātmanaḥ śreyas) and thereby goes to the highest goal (parā gati).
+
+> etairvimuktaḥ kaunteya tamodvāraistribhirnaraḥ|ācaratyātmanaḥ śreyastato yāti parāṃ gatim
+
+_level: conventional · standpoint: seeker · path: general · stage: all · types: ethics, karma-liberation_
+
+terms: [tamas](../terms/tamas.md), [śreyas](../terms/sreyas.md), [ātman](../terms/atman.md) · obstacles: [The three gates of hell: desire, anger, greed](../obstacles/three-gates-of-hell.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 16.23 <a id="tea-bhagavad-gita-16-23"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: one who casts aside the injunction of scripture (śāstra-vidhi) and acts as desire prompts (kāma-kāra) attains neither perfection (siddhi), nor happiness (sukha), nor the highest goal (parā gati).
+
+> yaḥ śāstravidhimutsṛjya vartate kāmakārataḥ|na sa siddhimavāpnoti na sukhaṃ na parāṃ gatim
+
+_level: conventional · standpoint: seeker · path: general · stage: all · types: ethics, karma-liberation_
+
+terms: [śāstra](../terms/sastra.md), [vidhi](../terms/vidhi.md), [kāma](../terms/kama.md), [siddhi](../terms/siddhi.md), [sukha](../terms/sukha.md) · concepts: [Scripture as the authority for what is to be done (śāstraṃ pramāṇam)](../concepts/sastra-as-pramana.md) · obstacles: [Desire (kāma)](../obstacles/kama.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
+
 ### 16.23-24 <a id="tea-bhagavad-gita-16-23-24"></a>
 `sourced` · confidence high
 
@@ -8668,52 +8912,107 @@ _level: conventional · standpoint: seeker · path: action, ritual · stage: all
 
 disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
 
+_Superseded by [16.23](bhagavad-gita.md#tea-bhagavad-gita-16-23)_
+
+### 16.24 <a id="tea-bhagavad-gita-16-24"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: therefore scripture (śāstra) is your authority (pramāṇa) in determining what is to be done and what is not to be done. Knowing what is declared by the injunctions of scripture, you should do action here.
+
+> tasmācchāstraṃ pramāṇaṃ te kāryākāryavyavasthitau|jñātvā śāstravidhānoktaṃ karma kartumihārhasi
+
+_level: conventional · standpoint: seeker · path: action · stage: all · types: ethics, practice_
+
+terms: [śāstra](../terms/sastra.md), [pramāṇa](../terms/pramana.md), [vidhi](../terms/vidhi.md), [karma](../terms/karma.md) · concepts: [Scripture as the authority for what is to be done (śāstraṃ pramāṇam)](../concepts/sastra-as-pramana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the status of the Veda: authorless and eternal (apauruṣeya), breathed out or composed by the omniscient Lord, or without authority?](../debates/status-of-veda.md)
+
 ### 17.1 <a id="tea-bhagavad-gita-17-1"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Arjuna asks: of those who set aside the injunctions of scripture but sacrifice full of faith, what is their standing — sattva, rajas or tamas?
+Arjuna: those who set aside the injunction of scripture (śāstra-vidhi) yet sacrifice (yajante) endowed with faith (śraddhā) — what is their standing (niṣṭhā), Kṛṣṇa: is it sattva, rajas or tamas?
 
-_level: conventional · standpoint: seeker · path: ritual · stage: all · types: practice_
+> arjuna uvācaye śāstravidhimutsṛjya yajante śraddhayā'nvitāḥ|teṣāṃ niṣṭhā tu kā kṛṣṇa sattvamāho rajastamaḥ
 
-terms: [śraddhā](../terms/sraddha.md)
+_level: conventional · standpoint: seeker · path: ritual · stage: all · types: practice, ethics_
+
+terms: [śāstra](../terms/sastra.md), [vidhi](../terms/vidhi.md), [śraddhā](../terms/sraddha.md), [niṣṭhā](../terms/nistha.md), [sattva](../terms/sattva.md), [rajas](../terms/rajas.md), [tamas](../terms/tamas.md) · concepts: [Śraddhā, faith](../concepts/sraddha-faith.md), [The three kinds of faith (śraddhā)](../concepts/three-kinds-of-faith.md), [The three guṇas](../concepts/three-gunas.md), [Scripture as the authority for what is to be done (śāstraṃ pramāṇam)](../concepts/sastra-as-pramana.md) · teachers: [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md)
 
 ### 17.2 <a id="tea-bhagavad-gita-17-2"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-The faith of the embodied, born of their own nature, is threefold — sāttvic, rājasic and tāmasic; hear of it.
+Kṛṣṇa: the faith (śraddhā) of embodied beings (dehin) is of three kinds, born of their own nature (svabhāva-ja): sāttvic, rājasic and tāmasic. Hear about it.
 
-_level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind_
+> śrī bhagavānuvācatrividhā bhavati śraddhā dehināṃ sā svabhāvajā|sāttvikī rājasī caiva tāmasī ceti tāṃ śrṛṇu
 
-terms: [śraddhā](../terms/sraddha.md) · concepts: [The three kinds of faith (śraddhā)](../concepts/three-kinds-of-faith.md)
+_level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind, ethics_
+
+terms: [śraddhā](../terms/sraddha.md), [dehin](../terms/dehin.md), [svabhāva](../terms/svabhava.md), [sattva](../terms/sattva.md), [rajas](../terms/rajas.md), [tamas](../terms/tamas.md), [guṇa](../terms/guna.md) · concepts: [The three kinds of faith (śraddhā)](../concepts/three-kinds-of-faith.md), [Śraddhā, faith](../concepts/sraddha-faith.md), [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 17.3 <a id="tea-bhagavad-gita-17-3"></a>
-`sourced` · confidence high
+`text-verified` · confidence moderate
 
-The faith of each accords with his inner being; a person is made of faith: as one's faith is, so is one.
+Kṛṣṇa: the faith of each accords with his being (sattva), Bhārata. This person (puruṣa) is made of faith (śraddhā-maya): whatever his faith is, that indeed he is.
 
-> sattvānurūpā sarvasya śraddhā bhavati bhārata śraddhāmayo 'yaṃ puruṣo yo yacchraddhaḥ sa eva saḥ
+> sattvānurūpā sarvasya śraddhā bhavati bhārata|śraddhāmayo'yaṃ puruṣo yo yacchraddhaḥ sa eva saḥ
 
-_level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind_
+_level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind, ethics_
 
-terms: [śraddhā](../terms/sraddha.md), [guṇa](../terms/guna.md) · concepts: [The three kinds of faith (śraddhā)](../concepts/three-kinds-of-faith.md)
+terms: [śraddhā](../terms/sraddha.md), [sattva](../terms/sattva.md), [puruṣa](../terms/purusa.md), [guṇa](../terms/guna.md) · concepts: [The three kinds of faith (śraddhā)](../concepts/three-kinds-of-faith.md), [Śraddhā, faith](../concepts/sraddha-faith.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 17.4 <a id="tea-bhagavad-gita-17-4"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Sāttvic people worship the gods, the rājasic the yakṣas and rākṣasas, and the others, the tāmasic, worship the departed and hosts of spirits.
+Kṛṣṇa: the sāttvic worship the gods (deva); the rājasic, yakṣas and rākṣasas; the others, tāmasic people, worship the departed (preta) and hosts of spirits (bhūta-gaṇa).
 
-_level: conventional · standpoint: analytic · path: ritual, devotion · stage: all · types: practice_
+> yajante sāttvikā devānyakṣarakṣāṃsi rājasāḥ|pretānbhūtagaṇāṃścānye yajante tāmasā janāḥ
 
-concepts: [The three kinds of faith (śraddhā)](../concepts/three-kinds-of-faith.md)
+_level: conventional · standpoint: ritual · path: ritual, devotion · stage: all · types: practice, ethics_
+
+terms: [deva](../terms/deva.md), [rakṣas](../terms/raksas.md), [preta](../terms/preta.md), [yajña](../terms/yajna.md), [guṇa](../terms/guna.md) · concepts: [The three kinds of faith (śraddhā)](../concepts/three-kinds-of-faith.md), [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 17.5 <a id="tea-bhagavad-gita-17-5"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: people who practise terrible (ghora) austerity (tapas) not enjoined by scripture, joined with hypocrisy (dambha) and the sense of 'I' (ahaṅkāra), possessed by desire, passion and force (kāma-rāga-bala) —
+
+> aśāstravihitaṃ ghoraṃ tapyante ye tapo janāḥ|dambhāhaṅkārasaṃyuktāḥ kāmarāgabalānvitāḥ
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: practice, ethics_
+
+terms: [tapas](../terms/tapas.md), [śāstra](../terms/sastra.md), [ahaṅkāra](../terms/ahankara.md), [kāma](../terms/kama.md), [rāga](../terms/raga.md), [dambha](../terms/dambha.md) · concepts: [The threefold austerity (tapas) of body, speech and mind](../concepts/threefold-austerity.md), [Scripture as the authority for what is to be done (śāstraṃ pramāṇam)](../concepts/sastra-as-pramana.md) · practices: [Austerity (tapas)](../practices/tapas.md) · obstacles: [Hypocrisy of the unrealised (dambha)](../obstacles/dambha.md), [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md), [Desire (kāma)](../obstacles/kama.md), [Attachment (rāga)](../obstacles/raga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 17.5-6 <a id="tea-bhagavad-gita-17-5-6"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Those who practise terrible austerities not enjoined by scripture, given to hypocrisy and egoism, impelled by desire, passion and force, senseless, tormenting the aggregate of elements in the body and me who dwell within the body — know them to be of demonic resolve.
+Kṛṣṇa: people who practise terrible (ghora) austerity (tapas) not enjoined by scripture (aśāstra-vihita), joined with hypocrisy (dambha) and the sense of 'I' (ahaṅkāra), possessed by desire, passion and force (kāma-rāga-bala), who without thought (acetas) torment the assemblage of elements in the body and me too who dwell within the body — know them to be of demonic resolve (āsura-niścaya).
 
-_level: conventional · standpoint: seeker · path: body-breath, general · stage: all · types: ethics, practice_
+> aśāstravihitaṃ ghoraṃ tapyante ye tapo janāḥ|dambhāhaṅkārasaṃyuktāḥ kāmarāgabalānvitāḥ
+karṣayantaḥ śarīrasthaṃ bhūtagrāmamacetasaḥ|māṃ caivāntaḥśarīrasthaṃ tānviddhyāsuraniścayān
 
-terms: [tapas](../terms/tapas.md) · concepts: [The threefold austerity (tapas) of body, speech and mind](../concepts/threefold-austerity.md)
+_level: conventional · standpoint: ethical-social · path: general, body-breath · stage: all · types: practice, ethics_
+
+terms: [tapas](../terms/tapas.md), [śāstra](../terms/sastra.md), [ahaṅkāra](../terms/ahankara.md), [kāma](../terms/kama.md), [rāga](../terms/raga.md), [dambha](../terms/dambha.md), [cetas](../terms/cetas.md), [bhūta](../terms/bhuta.md), [asura](../terms/asura.md) · concepts: [The threefold austerity (tapas) of body, speech and mind](../concepts/threefold-austerity.md), [Scripture as the authority for what is to be done (śāstraṃ pramāṇam)](../concepts/sastra-as-pramana.md), [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md), [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md) · practices: [Austerity (tapas)](../practices/tapas.md) · obstacles: [Hypocrisy of the unrealised (dambha)](../obstacles/dambha.md), [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md), [Desire (kāma)](../obstacles/kama.md), [Attachment (rāga)](../obstacles/raga.md), [The demonic endowment](../obstacles/asuri-sampad.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 17.6 <a id="tea-bhagavad-gita-17-6"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [continuing 17.5] without thought (acetas), tormenting the assemblage of elements (bhūta-grāma) that stands in the body, and me too who dwell within the body — know them to be of demonic resolve (āsura-niścaya).
+
+> karṣayantaḥ śarīrasthaṃ bhūtagrāmamacetasaḥ|māṃ caivāntaḥśarīrasthaṃ tānviddhyāsuraniścayān
+
+_level: conventional · standpoint: divine · path: general · stage: all · types: practice, ethics, body-layers_
+
+terms: [cetas](../terms/cetas.md), [bhūta](../terms/bhuta.md), [asura](../terms/asura.md), [tapas](../terms/tapas.md) · concepts: [The threefold austerity (tapas) of body, speech and mind](../concepts/threefold-austerity.md), [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md), [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 17.7 <a id="tea-bhagavad-gita-17-7"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the food (āhāra) dear to each is also threefold, and so are sacrifice, austerity and giving. Hear this distinction among them.
+
+> āhārastvapi sarvasya trividho bhavati priyaḥ|yajñastapastathā dānaṃ teṣāṃ bhedamimaṃ śrṛṇu
+
+_level: conventional · standpoint: analytic · path: general · stage: all · types: practice, body-layers, ethics_
+
+terms: [āhāra](../terms/ahara.md), [yajña](../terms/yajna.md), [tapas](../terms/tapas.md), [dāna](../terms/dana.md), [guṇa](../terms/guna.md) · concepts: [The three kinds of food (āhāra)](../concepts/three-kinds-of-food.md), [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 17.7-10 <a id="tea-bhagavad-gita-17-7-10"></a>
 `sourced` · confidence high
@@ -8724,6 +9023,52 @@ _level: conventional · standpoint: analytic · path: general · stage: all · t
 
 terms: [āhāra](../terms/ahara.md), [sattva](../terms/sattva.md), [rajas](../terms/rajas.md), [tamas](../terms/tamas.md) · concepts: [The three kinds of food (āhāra)](../concepts/three-kinds-of-food.md) · practices: [Sāttvic food](../practices/sattvic-diet.md)
 
+_Superseded by [17.7](bhagavad-gita.md#tea-bhagavad-gita-17-7)_
+
+### 17.8 <a id="tea-bhagavad-gita-17-8"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: foods that increase life, sattva, strength, health, happiness and delight, and that are savoury (rasya), oily (snigdha), substantial (sthira) and pleasing to the heart (hṛdya), are dear to the sāttvic.
+
+> āyuḥsattvabalārogyasukhaprītivivardhanāḥ|rasyāḥ snigdhāḥ sthirā hṛdyā āhārāḥ sāttvikapriyāḥ
+
+_level: conventional · standpoint: analytic · path: body-breath, general · stage: all · types: practice, body-layers, ethics_
+
+terms: [āhāra](../terms/ahara.md), [sattva](../terms/sattva.md), [sukha](../terms/sukha.md) · concepts: [The three kinds of food (āhāra)](../concepts/three-kinds-of-food.md), [The three guṇas](../concepts/three-gunas.md) · practices: [Sāttvic food](../practices/sattvic-diet.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 17.9 <a id="tea-bhagavad-gita-17-9"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: foods that are pungent (kaṭu), sour, salty, very hot, sharp, dry and burning are desired by the rājasic; they bring pain, grief and disease.
+
+> kaṭvamlalavaṇātyuṣṇatīkṣṇarūkṣavidāhinaḥ|āhārā rājasasyeṣṭā duḥkhaśokāmayapradāḥ
+
+_level: conventional · standpoint: analytic · path: body-breath, general · stage: all · types: practice, body-layers, ethics_
+
+terms: [āhāra](../terms/ahara.md), [rajas](../terms/rajas.md) · concepts: [The three kinds of food (āhāra)](../concepts/three-kinds-of-food.md), [The three guṇas](../concepts/three-gunas.md) · practices: [Sāttvic food](../practices/sattvic-diet.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 17.10 <a id="tea-bhagavad-gita-17-10"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: food that is stale (yāta-yāma, 'gone a watch'), tasteless, putrid, kept overnight (paryuṣita), leftover (ucchiṣṭa) and impure (amedhya) is dear to the tāmasic.
+
+> yātayāmaṃ gatarasaṃ pūti paryuṣitaṃ ca yat|ucchiṣṭamapi cāmedhyaṃ bhojanaṃ tāmasapriyam
+
+_level: conventional · standpoint: analytic · path: body-breath, general · stage: all · types: practice, body-layers, ethics_
+
+terms: [āhāra](../terms/ahara.md), [tamas](../terms/tamas.md) · concepts: [The three kinds of food (āhāra)](../concepts/three-kinds-of-food.md), [The three guṇas](../concepts/three-gunas.md) · practices: [Sāttvic food](../practices/sattvic-diet.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 17.11 <a id="tea-bhagavad-gita-17-11"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the sacrifice (yajña) that is offered according to injunction (vidhi) by those who do not desire its fruit, with the mind (manas) set on the thought 'it simply ought to be offered', is sāttvic.
+
+> aphalākāṅkṣibhiryajño vidhidṛṣṭo ya ijyate|yaṣṭavyameveti manaḥ samādhāya sa sāttvikaḥ
+
+_level: conventional · standpoint: ritual · path: ritual, action · stage: all · types: practice, ethics_
+
+terms: [yajña](../terms/yajna.md), [vidhi](../terms/vidhi.md), [manas](../terms/manas.md), [sattva](../terms/sattva.md) · concepts: [The three kinds of sacrifice (yajña)](../concepts/three-kinds-of-sacrifice.md), [The three guṇas](../concepts/three-gunas.md), [Action without attachment to its fruit](../concepts/niskama-karma.md) · practices: [Sacrifice and eating its remains (yajña, yajña-śiṣṭa)](../practices/yajna.md), [Relinquishing the fruit of all actions](../practices/karmaphala-tyaga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 17.11-13 <a id="tea-bhagavad-gita-17-11-13"></a>
 `sourced` · confidence high
 
@@ -8732,6 +9077,41 @@ Sacrifice offered according to injunction by those who do not desire its fruit, 
 _level: conventional · standpoint: ritual · path: ritual · stage: all · types: practice_
 
 terms: [yajña](../terms/yajna.md) · concepts: [Sacrifice reinterpreted (yajña)](../concepts/yajna-reinterpreted.md) · practices: [Sacrifice and eating its remains (yajña, yajña-śiṣṭa)](../practices/yajna.md)
+
+_Superseded by [17.11](bhagavad-gita.md#tea-bhagavad-gita-17-11)_
+
+### 17.12 <a id="tea-bhagavad-gita-17-12"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: but the sacrifice offered with an eye to its fruit, and also that offered for display (dambha), know it, best of Bharatas, to be rājasic.
+
+> abhisaṃdhāya tu phalaṃ dambhārthamapi caiva yat|ijyate bharataśreṣṭha taṃ yajñaṃ viddhi rājasam
+
+_level: conventional · standpoint: ritual · path: ritual · stage: all · types: practice, ethics_
+
+terms: [yajña](../terms/yajna.md), [rajas](../terms/rajas.md), [dambha](../terms/dambha.md) · concepts: [The three kinds of sacrifice (yajña)](../concepts/three-kinds-of-sacrifice.md), [The three guṇas](../concepts/three-gunas.md) · practices: [Sacrifice and eating its remains (yajña, yajña-śiṣṭa)](../practices/yajna.md) · obstacles: [Hypocrisy of the unrealised (dambha)](../obstacles/dambha.md), [Attachment to the fruits of action; making the fruit one's motive (karmaphala-hetu)](../obstacles/attachment-to-fruits.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 17.13 <a id="tea-bhagavad-gita-17-13"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: a sacrifice without injunction (vidhi), in which no food is distributed (asṛṣṭa-anna), without mantras, without the sacrificial fee (dakṣiṇā) and devoid of faith (śraddhā), they call tāmasic.
+
+> vidhihīnamasṛṣṭānnaṃ mantrahīnamadakṣiṇam|śraddhāvirahitaṃ yajñaṃ tāmasaṃ paricakṣate
+
+_level: conventional · standpoint: ritual · path: ritual · stage: all · types: practice, ethics_
+
+terms: [yajña](../terms/yajna.md), [vidhi](../terms/vidhi.md), [mantra](../terms/mantra.md), [dakṣiṇā](../terms/daksina.md), [śraddhā](../terms/sraddha.md), [tamas](../terms/tamas.md) · concepts: [The three kinds of sacrifice (yajña)](../concepts/three-kinds-of-sacrifice.md), [The three guṇas](../concepts/three-gunas.md) · practices: [Sacrifice and eating its remains (yajña, yajña-śiṣṭa)](../practices/yajna.md) · obstacles: [Lack of faith (aśraddhā)](../obstacles/asraddha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 17.14 <a id="tea-bhagavad-gita-17-14"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: worship of the gods, the twice-born (dvija), teachers (guru) and the wise; purity (śauca), straightforwardness (ārjava), celibacy (brahmacarya) and non-harming (ahiṃsā) are called austerity of the body.
+
+> devadvijaguruprājñapūjanaṃ śaucamārjavam|brahmacaryamahiṃsā ca śārīraṃ tapa ucyate
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: practice, ethics_
+
+terms: [tapas](../terms/tapas.md), [deva](../terms/deva.md), [dvija](../terms/dvija.md), [guru](../terms/guru.md), [śauca](../terms/sauca.md), [ārjava](../terms/arjava.md), [brahmacarya](../terms/brahmacarya.md), [ahiṃsā](../terms/ahimsa.md) · concepts: [The threefold austerity (tapas) of body, speech and mind](../concepts/threefold-austerity.md), [Austerity / creative heat (tapas)](../concepts/tapas.md) · practices: [Austerity of body, speech and mind](../practices/threefold-tapas.md), [Non-harming (ahiṃsā)](../practices/ahimsa.md), [Purity (śauca)](../practices/sauca.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 17.14-16 <a id="tea-bhagavad-gita-17-14-16"></a>
 `sourced` · confidence high
@@ -8742,6 +9122,41 @@ _level: conventional · standpoint: seeker · path: general · stage: all · typ
 
 terms: [tapas](../terms/tapas.md), [brahmacarya](../terms/brahmacarya.md), [ahiṃsā](../terms/ahimsa.md), [mauna](../terms/mauna.md) · concepts: [The threefold austerity (tapas) of body, speech and mind](../concepts/threefold-austerity.md) · practices: [Austerity of body, speech and mind](../practices/threefold-tapas.md)
 
+_Superseded by [17.14](bhagavad-gita.md#tea-bhagavad-gita-17-14)_
+
+### 17.15 <a id="tea-bhagavad-gita-17-15"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: speech that causes no agitation (anudvega-kara), that is true, pleasant and beneficial, and the practice of recitation (svādhyāya-abhyasana) are called austerity of speech.
+
+> anudvegakaraṃ vākyaṃ satyaṃ priyahitaṃ ca yat|svādhyāyābhyasanaṃ caiva vāṅmayaṃ tapa ucyate
+
+_level: conventional · standpoint: ethical-social · path: general, sound · stage: all · types: practice, ethics, sound-language_
+
+terms: [tapas](../terms/tapas.md), [satya](../terms/satya.md), [svādhyāya](../terms/svadhyaya.md) · concepts: [The threefold austerity (tapas) of body, speech and mind](../concepts/threefold-austerity.md) · practices: [Austerity of body, speech and mind](../practices/threefold-tapas.md), [Truthfulness (satya)](../practices/satya.md), [Self-study (svādhyāya)](../practices/svadhyaya.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 17.16 <a id="tea-bhagavad-gita-17-16"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: clarity of mind (manaḥ-prasāda), gentleness (saumyatva), silence (mauna), self-restraint (ātma-vinigraha) and purity of disposition (bhāva-saṃśuddhi) — this is called austerity of the mind.
+
+> manaḥprasādaḥ saumyatvaṃ maunamātmavinigrahaḥ|bhāvasaṃśuddhirityetattapo mānasamucyate
+
+_level: conventional · standpoint: ethical-social · path: meditation, general · stage: all · types: practice, consciousness-mind_
+
+terms: [tapas](../terms/tapas.md), [manas](../terms/manas.md), [prasāda](../terms/prasada.md), [mauna](../terms/mauna.md), [bhāva](../terms/bhava.md) · concepts: [The threefold austerity (tapas) of body, speech and mind](../concepts/threefold-austerity.md) · practices: [Austerity of body, speech and mind](../practices/threefold-tapas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 17.17 <a id="tea-bhagavad-gita-17-17"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: this threefold austerity, practised with supreme faith (śraddhā) by people who do not desire its fruit and are disciplined (yukta), they call sāttvic.
+
+> śraddhayā parayā taptaṃ tapastatitravidhaṃ naraiḥ|aphalākāṅkṣibhiryuktaiḥ sāttvikaṃ paricakṣate
+
+_level: conventional · standpoint: seeker · path: general · stage: all · types: practice, ethics_
+
+terms: [tapas](../terms/tapas.md), [śraddhā](../terms/sraddha.md), [sattva](../terms/sattva.md) · concepts: [The threefold austerity (tapas) of body, speech and mind](../concepts/threefold-austerity.md), [The three guṇas](../concepts/three-gunas.md), [Action without attachment to its fruit](../concepts/niskama-karma.md) · practices: [Austerity of body, speech and mind](../practices/threefold-tapas.md), [Relinquishing the fruit of all actions](../practices/karmaphala-tyaga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 17.17-19 <a id="tea-bhagavad-gita-17-17-19"></a>
 `sourced` · confidence high
 
@@ -8750,6 +9165,41 @@ This threefold austerity practised with supreme faith by yoked people who desire
 _level: conventional · standpoint: analytic · path: general · stage: all · types: practice, ethics_
 
 concepts: [The threefold austerity (tapas) of body, speech and mind](../concepts/threefold-austerity.md) · practices: [Austerity of body, speech and mind](../practices/threefold-tapas.md)
+
+_Superseded by [17.17](bhagavad-gita.md#tea-bhagavad-gita-17-17)_
+
+### 17.18 <a id="tea-bhagavad-gita-17-18"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: austerity performed to gain respect, honour and reverence (satkāra-māna-pūjā), and with hypocrisy (dambha), is called here rājasic, unstable and impermanent.
+
+> satkāramānapūjārthaṃ tapo dambhena caiva yat|kriyate tadiha proktaṃ rājasaṃ calamadhruvam
+
+_level: conventional · standpoint: seeker · path: general · stage: all · types: practice, ethics_
+
+terms: [tapas](../terms/tapas.md), [rajas](../terms/rajas.md), [dambha](../terms/dambha.md) · concepts: [The threefold austerity (tapas) of body, speech and mind](../concepts/threefold-austerity.md), [The three guṇas](../concepts/three-gunas.md) · obstacles: [Hypocrisy of the unrealised (dambha)](../obstacles/dambha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 17.19 <a id="tea-bhagavad-gita-17-19"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: austerity performed out of a deluded notion (mūḍha-grāha), with torment of oneself (ātmanaḥ pīḍā), or for the ruin of another, is declared tāmasic.
+
+> mūḍhagrāheṇātmano yatpīḍayā kriyate tapaḥ|parasyotsādanārthaṃ vā tattāmasamudāhṛtam
+
+_level: conventional · standpoint: seeker · path: general · stage: all · types: practice, ethics_
+
+terms: [tapas](../terms/tapas.md), [tamas](../terms/tamas.md), [moha](../terms/moha.md) · concepts: [The threefold austerity (tapas) of body, speech and mind](../concepts/threefold-austerity.md), [The three guṇas](../concepts/three-gunas.md) · obstacles: [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 17.20 <a id="tea-bhagavad-gita-17-20"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the gift (dāna) given with the thought 'it ought to be given', to one who does nothing in return (anupakārin), at the right place and time and to a worthy recipient (pātra), is held to be sāttvic.
+
+> dātavyamiti yaddānaṃ dīyate'nupakāriṇe|deśe kāle ca pātre ca taddānaṃ sāttvikaṃ smṛtam
+
+_level: conventional · standpoint: ethical-social · path: action · stage: all · types: practice, ethics_
+
+terms: [dāna](../terms/dana.md), [sattva](../terms/sattva.md) · concepts: [The three kinds of giving (dāna)](../concepts/three-kinds-of-giving.md), [The three guṇas](../concepts/three-gunas.md) · practices: [Giving (dāna)](../practices/dana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 17.20-22 <a id="tea-bhagavad-gita-17-20-22"></a>
 `sourced` · confidence high
@@ -8760,16 +9210,51 @@ _level: conventional · standpoint: ethical-social · path: action · stage: all
 
 terms: [dāna](../terms/dana.md) · concepts: [The three kinds of giving (dāna)](../concepts/three-kinds-of-giving.md) · practices: [Giving (dāna)](../practices/dana.md)
 
+_Superseded by [17.20](bhagavad-gita.md#tea-bhagavad-gita-17-20)_
+
+### 17.21 <a id="tea-bhagavad-gita-17-21"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: but the gift given for the sake of a return, or with a view to its fruit, or given grudgingly (parikliṣṭa), is held to be rājasic.
+
+> yattu pratyupakārārthaṃ phalamuddiśya vā punaḥ|dīyate ca parikliṣṭaṃ taddānaṃ rājasaṃ smṛtam
+
+_level: conventional · standpoint: ethical-social · path: action · stage: all · types: practice, ethics_
+
+terms: [dāna](../terms/dana.md), [rajas](../terms/rajas.md) · concepts: [The three kinds of giving (dāna)](../concepts/three-kinds-of-giving.md), [The three guṇas](../concepts/three-gunas.md) · practices: [Giving (dāna)](../practices/dana.md) · obstacles: [Attachment to the fruits of action; making the fruit one's motive (karmaphala-hetu)](../obstacles/attachment-to-fruits.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 17.22 <a id="tea-bhagavad-gita-17-22"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the gift given at the wrong place and time and to the unworthy, without respect (asatkṛta) and with contempt (avajñāta), is declared tāmasic.
+
+> adeśakāle yaddānamapātrebhyaśca dīyate|asatkṛtamavajñātaṃ tattāmasamudāhṛtam
+
+_level: conventional · standpoint: ethical-social · path: action · stage: all · types: practice, ethics_
+
+terms: [dāna](../terms/dana.md), [tamas](../terms/tamas.md) · concepts: [The three kinds of giving (dāna)](../concepts/three-kinds-of-giving.md), [The three guṇas](../concepts/three-gunas.md) · practices: [Giving (dāna)](../practices/dana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 17.23 <a id="tea-bhagavad-gita-17-23"></a>
-`sourced` · confidence high
+`text-verified` · confidence moderate
 
-'Oṃ tat sat' is recorded as the threefold designation of Brahman; by it the brāhmaṇas, the Vedas and the sacrifices were ordained of old.
+Kṛṣṇa: '[Oṃ] tat sat' is handed down (smṛta) as the threefold designation (nirdeśa) of brahman; by it the brāhmaṇas, the Vedas and the sacrifices were ordained of old.
 
-> oṃ tat sad iti nirdeśo brahmaṇas trividhaḥ smṛtaḥ brāhmaṇās tena vedāś ca yajñāś ca vihitāḥ purā
+> tatsaditi nirdeśo brahmaṇastrividhaḥ smṛtaḥ|brāhmaṇāstena vedāśca yajñāśca vihitāḥ purā
 
-_level: ultimate · standpoint: ritual · path: sound, ritual · stage: all · types: sound-language, ultimate_
+_level: unmarked · standpoint: ritual · path: sound, ritual · stage: all · types: sound-language, ultimate, world-fate_
 
-terms: [oṃ tat sat](../terms/om-tat-sat.md), [oṃ](../terms/om.md), [brahman](../terms/brahman.md) · concepts: [Oṃ](../concepts/om.md)
+terms: [oṃ tat sat](../terms/om-tat-sat.md), [oṃ](../terms/om.md), [sat](../terms/sat.md), [brahman](../terms/brahman.md), [brāhmaṇa](../terms/brahmana.md), [yajña](../terms/yajna.md) · concepts: [Oṃ](../concepts/om.md), [Brahman (the ultimate ground)](../concepts/brahman.md), [Oṃ tat sat, the threefold designation of brahman](../concepts/om-tat-sat.md) · practices: [Performing rites with 'oṃ tat sat'](../practices/om-tat-sat.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 17.24 <a id="tea-bhagavad-gita-17-24"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: therefore the acts of sacrifice, giving and austerity of those who expound brahman (brahma-vādin), enjoined by the rules (vidhāna), always begin with the utterance of 'oṃ'.
+
+> tasmādomityudāhṛtya yajñadānatapaḥkriyāḥ|pravartante vidhānoktāḥ satataṃ brahmavādinām
+
+_level: conventional · standpoint: ritual · path: ritual, sound · stage: all · types: practice, sound-language_
+
+terms: [oṃ](../terms/om.md), [yajña](../terms/yajna.md), [dāna](../terms/dana.md), [tapas](../terms/tapas.md), [vidhi](../terms/vidhi.md), [brahman](../terms/brahman.md) · concepts: [Oṃ](../concepts/om.md), [Oṃ tat sat, the threefold designation of brahman](../concepts/om-tat-sat.md) · practices: [Performing rites with 'oṃ tat sat'](../practices/om-tat-sat.md), [Sacrifice and eating its remains (yajña, yajña-śiṣṭa)](../practices/yajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 17.24-27 <a id="tea-bhagavad-gita-17-24-27"></a>
 `sourced` · confidence high
@@ -8780,43 +9265,99 @@ _level: conventional · standpoint: ritual · path: sound, ritual · stage: all 
 
 terms: [oṃ tat sat](../terms/om-tat-sat.md), [oṃ](../terms/om.md) · concepts: [Oṃ](../concepts/om.md) · practices: [Mantra repetition (japa)](../practices/japa.md)
 
+_Superseded by [17.24](bhagavad-gita.md#tea-bhagavad-gita-17-24)_
+
+### 17.25 <a id="tea-bhagavad-gita-17-25"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: with 'tat' ('That'), acts of sacrifice and austerity and various acts of giving are performed, without aiming at the fruit, by those who seek release (mokṣa).
+
+> tadityanabhisandhāya phalaṃ yajñatapaḥkriyāḥ|dānakriyāśca vividhāḥ kriyante mokṣakāṅkṣi
+
+_level: conventional · standpoint: ritual · path: ritual, sound, action · stage: all · types: practice, sound-language, karma-liberation_
+
+terms: [oṃ tat sat](../terms/om-tat-sat.md), [mokṣa](../terms/moksa.md), [yajña](../terms/yajna.md), [tapas](../terms/tapas.md), [dāna](../terms/dana.md) · concepts: [Oṃ tat sat, the threefold designation of brahman](../concepts/om-tat-sat.md), [Action without attachment to its fruit](../concepts/niskama-karma.md) · practices: [Performing rites with 'oṃ tat sat'](../practices/om-tat-sat.md), [Relinquishing the fruit of all actions](../practices/karmaphala-tyaga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 17.26 <a id="tea-bhagavad-gita-17-26"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: 'Sat' is used in the sense of being (sad-bhāva) and of goodness (sādhu-bhāva); likewise, Pārtha, the word 'sat' is applied to a praiseworthy act.
+
+> sadbhāve sādhubhāve ca sadityetatprayujyate|praśaste karmaṇi tathā sacchabdaḥ pārtha yujyate
+
+_level: conventional · standpoint: analytic · path: sound, ritual, general · stage: all · types: sound-language, ethics_
+
+terms: [sat](../terms/sat.md), [oṃ tat sat](../terms/om-tat-sat.md) · concepts: [Oṃ tat sat, the threefold designation of brahman](../concepts/om-tat-sat.md) · practices: [Performing rites with 'oṃ tat sat'](../practices/om-tat-sat.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 17.27 <a id="tea-bhagavad-gita-17-27"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: steadfastness (sthiti) in sacrifice, austerity and giving is also called 'sat', and action for that purpose (tad-arthīya) is likewise called 'sat'.
+
+> yajñe tapasi dāne ca sthitiḥ saditi cocyate|karma caiva tadarthīyaṃ sadityevābhidhīyate
+
+_level: conventional · standpoint: ritual · path: ritual, action, sound · stage: all · types: sound-language, practice_
+
+terms: [sat](../terms/sat.md), [oṃ tat sat](../terms/om-tat-sat.md), [yajña](../terms/yajna.md), [tapas](../terms/tapas.md), [dāna](../terms/dana.md), [karma](../terms/karma.md) · concepts: [Oṃ tat sat, the threefold designation of brahman](../concepts/om-tat-sat.md) · practices: [Performing rites with 'oṃ tat sat'](../practices/om-tat-sat.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 17.28 <a id="tea-bhagavad-gita-17-28"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Whatever is offered, given or done as austerity without faith is called 'asat'; it is of no worth here or hereafter.
+Kṛṣṇa: whatever is offered in the fire, given, practised as austerity or done without faith (aśraddhā) is called 'asat', Pārtha; it is of no account either after death (pretya) or here.
 
-_level: conventional · standpoint: ritual · path: general · stage: all · types: practice_
+> aśraddhayā hutaṃ dattaṃ tapastaptaṃ kṛtaṃ ca yat|asadityucyate pārtha na ca tatpretya no iha
 
-terms: [śraddhā](../terms/sraddha.md) · obstacles: [Lack of faith (aśraddhā)](../obstacles/asraddha.md)
+_level: conventional · standpoint: seeker · path: general, ritual · stage: all · types: practice, karma-liberation, ethics, sound-language_
+
+terms: [śraddhā](../terms/sraddha.md), [sat](../terms/sat.md), [yajña](../terms/yajna.md), [dāna](../terms/dana.md), [tapas](../terms/tapas.md), [asat](../terms/asat.md) · concepts: [Śraddhā, faith](../concepts/sraddha-faith.md), [Oṃ tat sat, the threefold designation of brahman](../concepts/om-tat-sat.md), [The three kinds of faith (śraddhā)](../concepts/three-kinds-of-faith.md) · obstacles: [Lack of faith (aśraddhā)](../obstacles/asraddha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 18.1 <a id="tea-bhagavad-gita-18-1"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Arjuna asks to know the truth of renunciation (saṃnyāsa) and of relinquishment (tyāga), and the difference between them.
+Arjuna: mighty-armed one, I wish to know the truth (tattva) of renunciation (saṃnyāsa), Hṛṣīkeśa, and of relinquishment (tyāga), each separately, slayer of Keśin.
 
-_level: conventional · standpoint: seeker · path: action · stage: all · types: practice_
+> saṃnyāsasya mahābāho tattvamicchāmi veditum|
+tyāgasya ca hṛṣīkeśa pṛthakkeśiniṣūdana
 
-terms: [saṃnyāsa](../terms/samnyasa.md), [tyāga](../terms/tyaga.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md)
+_level: conventional · standpoint: seeker · path: action, knowledge · stage: all · types: practice, karma-liberation_
+
+terms: [saṃnyāsa](../terms/samnyasa.md), [tyāga](../terms/tyaga.md), [tattva](../terms/tattva.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md) · teachers: [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md)
 
 ### 18.2 <a id="tea-bhagavad-gita-18-2"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-The wise understand renunciation (saṃnyāsa) as the laying aside of actions prompted by desire; the discerning declare the relinquishment of the fruit of all actions to be relinquishment (tyāga).
+Kṛṣṇa: the sages (kavi) know renunciation (saṃnyāsa) as the laying aside (nyāsa) of actions prompted by desire (kāmya karma); the discerning call relinquishment (tyāga) the giving up of the fruit of all actions (sarva-karma-phala-tyāga).
 
-> kāmyānāṃ karmaṇāṃ nyāsaṃ saṃnyāsaṃ kavayo viduḥ sarvakarmaphalatyāgaṃ prāhus tyāgaṃ vicakṣaṇāḥ
+> śrī bhagavānuvāca
+kāmyānāṃ karmaṇāṃ nyāsaṃ saṃnyāsaṃ kavayo viduḥ|
+sarvakarmaphalatyāgaṃ prāhustyāgaṃ vicakṣaṇāḥ
 
-_level: conventional · standpoint: analytic · path: action · stage: all · types: practice, ethics_
+_level: conventional · standpoint: analytic · path: action · stage: all · types: practice, karma-liberation, ethics_
 
-terms: [saṃnyāsa](../terms/samnyasa.md), [tyāga](../terms/tyaga.md), [karmaphala-tyāga](../terms/karmaphala-tyaga.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md)
+terms: [saṃnyāsa](../terms/samnyasa.md), [tyāga](../terms/tyaga.md), [kāmya-karma](../terms/kamya-karma.md), [karmaphala-tyāga](../terms/karmaphala-tyaga.md), [karma](../terms/karma.md), [kavi](../terms/kavi.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md) · practices: [Relinquishing the fruit of all actions](../practices/karmaphala-tyaga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md)
 
 ### 18.3 <a id="tea-bhagavad-gita-18-3"></a>
-`sourced` · confidence high
+`text-verified` · confidence moderate
 
-Some wise men say that action should be abandoned as an evil; others that acts of sacrifice, giving and austerity should not be abandoned.
+Kṛṣṇa: some thinkers (manīṣin) say that action is to be abandoned as faulty (doṣavat); others, that acts of sacrifice, giving and austerity are not to be abandoned.
 
-_level: conventional · standpoint: polemical · path: action, ritual · stage: all · types: dispute_
+> tyājyaṃ doṣavadityeke karma prāhurmanīṣiṇaḥ|
+yajñadānatapaḥkarma na tyājyamiti cāpare
 
-concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md)
+_level: conventional · standpoint: polemical · path: action, ritual · stage: all · types: dispute, practice, karma-liberation_
+
+terms: [karma](../terms/karma.md), [yajña](../terms/yajna.md), [dāna](../terms/dana.md), [tapas](../terms/tapas.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md)
+
+### 18.4 <a id="tea-bhagavad-gita-18-4"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: hear my conclusion (niścaya) about relinquishment (tyāga), best of Bhāratas; for relinquishment, tiger among men, is declared to be threefold.
+
+> niścayaṃ śrṛṇu me tatra tyāge bharatasattama|tyāgo hi puruṣavyāghra trividhaḥ saṃprakīrtitaḥ
+
+_level: conventional · standpoint: analytic · path: action · stage: all · types: practice, karma-liberation_
+
+terms: [tyāga](../terms/tyaga.md), [guṇa](../terms/guna.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md), [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md)
 
 ### 18.4-6 <a id="tea-bhagavad-gita-18-4-6"></a>
 `sourced` · confidence high
@@ -8827,6 +9368,41 @@ _level: conventional · standpoint: seeker · path: action, ritual · stage: all
 
 concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md), [Action without attachment to its fruit](../concepts/niskama-karma.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md)
 
+_Superseded by [18.4](bhagavad-gita.md#tea-bhagavad-gita-18-4)_
+
+### 18.5 <a id="tea-bhagavad-gita-18-5"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: acts of sacrifice, giving and austerity are not to be abandoned; they are indeed to be done. Sacrifice, giving and austerity are purifiers (pāvana) of the wise (manīṣin).
+
+> yajñadānatapaḥkarma na tyājyaṃ kāryameva tat|yajño dānaṃ tapaścaiva pāvanāni manīṣiṇām
+
+_level: conventional · standpoint: seeker · path: action, ritual · stage: all · types: practice, karma-liberation, ethics_
+
+terms: [yajña](../terms/yajna.md), [dāna](../terms/dana.md), [tapas](../terms/tapas.md), [karma](../terms/karma.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md) · practices: [Sacrifice and eating its remains (yajña, yajña-śiṣṭa)](../practices/yajna.md), [Giving (dāna)](../practices/dana.md), [Austerity (tapas)](../practices/tapas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md)
+
+### 18.6 <a id="tea-bhagavad-gita-18-6"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: but even these actions should be done giving up attachment (saṅga) and fruits: this, Pārtha, is my settled and highest view.
+
+> etānyapi tu karmāṇi saṅgaṃ tyaktvā phalāni ca|kartavyānīti me pārtha niśicataṃ matamuttamam
+
+_level: conventional · standpoint: seeker · path: action · stage: all · types: practice, karma-liberation_
+
+terms: [saṅga](../terms/sanga.md), [karmaphala-tyāga](../terms/karmaphala-tyaga.md), [karma](../terms/karma.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md), [Action without attachment to its fruit](../concepts/niskama-karma.md) · practices: [Relinquishing the fruit of all actions](../practices/karmaphala-tyaga.md), [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md) · obstacles: [Attachment (saṅga)](../obstacles/sanga.md), [Attachment to the fruits of action; making the fruit one's motive (karmaphala-hetu)](../obstacles/attachment-to-fruits.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md)
+
+### 18.7 <a id="tea-bhagavad-gita-18-7"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: renunciation (saṃnyāsa) of allotted action (niyata karma) is not proper; its abandonment out of delusion (moha) is declared tāmasic.
+
+> niyatasya tu saṃnyāsaḥ karmaṇo nopapadyate|mohāttasya parityāgastāmasaḥ parikīrtitaḥ
+
+_level: conventional · standpoint: seeker · path: action · stage: all · types: practice, ethics_
+
+terms: [saṃnyāsa](../terms/samnyasa.md), [niyata karman](../terms/niyata-karma.md), [moha](../terms/moha.md), [tamas](../terms/tamas.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md), [The three guṇas](../concepts/three-gunas.md) · obstacles: [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md)
+
 ### 18.7-9 <a id="tea-bhagavad-gita-18-7-9"></a>
 `sourced` · confidence high
 
@@ -8836,34 +9412,73 @@ _level: conventional · standpoint: analytic · path: action · stage: all · ty
 
 terms: [tyāga](../terms/tyaga.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md)
 
+_Superseded by [18.7](bhagavad-gita.md#tea-bhagavad-gita-18-7)_
+
+### 18.8 <a id="tea-bhagavad-gita-18-8"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: one who abandons an action merely because it is painful (duḥkha), out of fear of bodily hardship, makes a rājasic relinquishment and does not gain the fruit of relinquishment.
+
+> duḥkhamityeva yatkarma kāyakleśabhayāttyajet|sa kṛtvā rājasaṃ tyāgaṃ naiva tyāgaphalaṃ labhet
+
+_level: conventional · standpoint: seeker · path: action · stage: all · types: practice, ethics_
+
+terms: [tyāga](../terms/tyaga.md), [rajas](../terms/rajas.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md), [The three guṇas](../concepts/three-gunas.md) · obstacles: [Fear (bhaya)](../obstacles/bhaya.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md)
+
+### 18.9 <a id="tea-bhagavad-gita-18-9"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: when allotted action (niyata karma) is done simply because it is to be done (kāryam iti), Arjuna, giving up attachment (saṅga) and the fruit, that relinquishment is held to be sāttvic.
+
+> kāryamityeva yatkarma niyataṃ kriyate'rjuna|saṅgaṃ tyaktvā phalaṃ caiva sa tyāgaḥ sāttviko mataḥ
+
+_level: conventional · standpoint: seeker · path: action · stage: all · types: practice, karma-liberation_
+
+terms: [sāttvika-tyāga](../terms/sattvika-tyaga.md), [tyāga](../terms/tyaga.md), [niyata karman](../terms/niyata-karma.md), [saṅga](../terms/sanga.md), [sattva](../terms/sattva.md), [karmaphala-tyāga](../terms/karmaphala-tyaga.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md), [The three guṇas](../concepts/three-gunas.md), [Action without attachment to its fruit](../concepts/niskama-karma.md) · practices: [Relinquishing the fruit of all actions](../practices/karmaphala-tyaga.md), [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md) · obstacles: [Attachment (saṅga)](../obstacles/sanga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md)
+
 ### 18.10 <a id="tea-bhagavad-gita-18-10"></a>
-`sourced` · confidence high
+`text-verified` · confidence moderate
 
-The relinquisher pervaded by sattva, wise and with doubts cut, does not hate disagreeable action nor cling to agreeable action.
+Kṛṣṇa: the relinquisher (tyāgin), pervaded by sattva, intelligent, with doubts cut away (chinna-saṃśaya), does not hate disagreeable (akuśala) action nor cling to agreeable (kuśala) action.
 
-_level: conventional · standpoint: seeker · path: action · stage: advanced · types: practice_
+> na dveṣṭyakuśalaṃ karma kuśale nānuṣajjate|tyāgī sattvasamāviṣṭo medhāvī chinnasaṃśayaḥ
 
-concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md)
+_level: conventional · standpoint: seeker · path: action · stage: advanced · types: practice, ethics, karma-liberation_
+
+terms: [tyāga](../terms/tyaga.md), [sattva](../terms/sattva.md), [saṃśaya](../terms/samsaya.md), [dveṣa](../terms/dvesa.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md), [The three guṇas](../concepts/three-gunas.md), [Evenness of mind (samatva)](../concepts/equanimity.md) · obstacles: [Aversion (dveṣa)](../obstacles/dvesa.md), [Attachment (saṅga)](../obstacles/sanga.md), [Doubt (saṃśaya)](../obstacles/samsaya.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 18.11 <a id="tea-bhagavad-gita-18-11"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-It is not possible for an embodied being to give up actions entirely; but one who gives up the fruit of action is called a relinquisher.
+Kṛṣṇa: for one who bears a body (deha-bhṛt) cannot give up actions entirely; but one who relinquishes the fruit of action (karma-phala-tyāgin) is called a relinquisher (tyāgin).
 
-> na hi dehabhṛtā śakyaṃ tyaktuṃ karmāṇy aśeṣataḥ yas tu karmaphalatyāgī sa tyāgīty abhidhīyate
+> na hi dehabhṛtā śakyaṃ tyaktuṃ karmāṇyaśeṣataḥ|yastu karmaphalatyāgī sa tyāgītyabhidhīyate
 
-_level: conventional · standpoint: seeker · path: action · stage: all · types: practice_
+_level: conventional · standpoint: analytic · path: action · stage: all · types: practice, karma-liberation_
 
-terms: [tyāga](../terms/tyaga.md), [karmaphala-tyāga](../terms/karmaphala-tyaga.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md)
+terms: [tyāga](../terms/tyaga.md), [karmaphala-tyāga](../terms/karmaphala-tyaga.md), [karma](../terms/karma.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md), [No embodied being can remain without action](../concepts/inevitability-of-action.md) · practices: [Relinquishing the fruit of all actions](../practices/karmaphala-tyaga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md)
 
 ### 18.12 <a id="tea-bhagavad-gita-18-12"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-The threefold fruit of action — undesired, desired and mixed — accrues after death to those who have not relinquished, but never to renouncers.
+Kṛṣṇa: the threefold fruit of action — undesired, desired and mixed — comes after death (pretya) to those who have not relinquished (atyāgin), but never to renouncers (saṃnyāsin).
+
+> aniṣṭamiṣṭaṃ miśraṃ ca trividhaṃ karmaṇaḥ phalam|bhavatyatyāgināṃ pretya na tu saṃnyāsināṃ kvacit
 
 _level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, death-dying_
 
-terms: [karma](../terms/karma.md)
+terms: [karma](../terms/karma.md), [saṃnyāsin](../terms/samnyasin.md), [tyāga](../terms/tyaga.md), [karmaphala](../terms/karmaphala.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md), [Karma](../concepts/karma.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md)
+
+### 18.13 <a id="tea-bhagavad-gita-18-13"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: learn from me, mighty-armed one, these five causes (kāraṇa) for the accomplishment of all actions, declared in the sāṃkhya, the settled conclusion (sāṃkhye kṛtānte).
+
+> pañcaitāni mahābāho kāraṇāni nibodha me|sāṃkhye kṛtānte proktāni siddhaye sarvakarmaṇām
+
+_level: conventional · standpoint: analytic · path: knowledge, action · stage: all · types: karma-liberation, consciousness-mind_
+
+terms: [sāṃkhya](../terms/samkhya.md), [karma](../terms/karma.md) · concepts: [The five causes of action (BhG 18.13–15)](../concepts/five-causes-of-action.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 18.13-16 <a id="tea-bhagavad-gita-18-13-16"></a>
 `sourced` · confidence high
@@ -8874,16 +9489,62 @@ _level: bridging · standpoint: causal · path: knowledge, action · stage: all 
 
 terms: [daiva](../terms/daiva.md), [sāṃkhya](../terms/samkhya.md) · concepts: [Fate and human effort (daiva and puruṣakāra)](../concepts/fate-and-human-effort.md) · obstacles: [The sense of 'I am the doer' (kartṛtva-abhimāna)](../obstacles/sense-of-doership.md) · disputes: [What moves events — fate, time, nature, the Lord, karma, or human effort?](../debates/fate-or-effort.md)
 
+_Superseded by [18.13](bhagavad-gita.md#tea-bhagavad-gita-18-13)_
+
+### 18.14 <a id="tea-bhagavad-gita-18-14"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: [they are] the seat (adhiṣṭhāna), the agent (kartṛ), the various instruments (karaṇa), the many distinct activities (ceṣṭā), and the divine (daiva) as the fifth.
+
+> adhiṣṭhānaṃ tathā kartā karaṇaṃ ca pṛthagvidham|vividhāśca pṛthakceṣṭā daivaṃ caivātra pañcamam
+
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation, body-layers_
+
+terms: [kartṛ](../terms/kartr.md), [karaṇa](../terms/karana.md), [daiva](../terms/daiva.md) · concepts: [The five causes of action (BhG 18.13–15)](../concepts/five-causes-of-action.md), [Fate and human effort (daiva and puruṣakāra)](../concepts/fate-and-human-effort.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What moves events — fate, time, nature, the Lord, karma, or human effort?](../debates/fate-or-effort.md)
+
+### 18.15 <a id="tea-bhagavad-gita-18-15"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: whatever action a person undertakes with body, speech or mind, whether right (nyāyya) or the reverse, these five are its causes (hetu).
+
+> śarīravāṅmanobhiryatkarma prārabhate naraḥ|nyāyyaṃ vā viparītaṃ vā pañcaite tasya hetavaḥ
+
+_level: conventional · standpoint: causal · path: knowledge, action · stage: all · types: karma-liberation_
+
+terms: [karma](../terms/karma.md), [manas](../terms/manas.md) · concepts: [The five causes of action (BhG 18.13–15)](../concepts/five-causes-of-action.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.16 <a id="tea-bhagavad-gita-18-16"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: this being so, whoever, from an untrained understanding (akṛta-buddhitva), sees one's self (ātman) alone (kevala) as the agent (kartṛ) — that one of poor understanding (durmati) does not see.
+
+> tatraivaṃ sati kartāramātmānaṃ kevalaṃ tu yaḥ|paśyatyakṛtabuddhitvānna sa paśyati durmatiḥ
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
+
+terms: [ātman](../terms/atman.md), [kartṛ](../terms/kartr.md), [buddhi](../terms/buddhi.md) · concepts: [The five causes of action (BhG 18.13–15)](../concepts/five-causes-of-action.md), [The self is not the agent; the guṇas act](../concepts/non-agency-of-the-self.md) · obstacles: [The sense of 'I am the doer' (kartṛtva-abhimāna)](../obstacles/sense-of-doership.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 18.17 <a id="tea-bhagavad-gita-18-17"></a>
-`sourced` · confidence high
+`text-verified` · confidence moderate
 
-One who has no sense of 'I am the doer' and whose understanding is not tainted, even though he slays these people, does not slay and is not bound.
+Kṛṣṇa: one whose disposition (bhāva) is not shaped by the sense of 'I' (ahaṃkṛta) and whose understanding (buddhi) is not stained (lipyate) — even if he slays these people (lokān), he does not slay and is not bound.
 
-> yasya nāhaṃkṛto bhāvo buddhir yasya na lipyate hatvāpi sa imāṃl lokān na hanti na nibadhyate
+> yasya nāhaṃkṛto bhāvo buddhiryasya na lipyate|hatvāpi sa imā~llokānna hanti na nibadhyate
 
-_level: bridging · standpoint: absolute · path: knowledge, action · stage: realized · types: karma-liberation_
+_level: bridging · standpoint: absolute · path: knowledge, action · stage: advanced · types: karma-liberation, ethics_
 
-obstacles: [The sense of 'I am the doer' (kartṛtva-abhimāna)](../obstacles/sense-of-doership.md) · disputes: [May one kill in battle as one's own dharma — and what of non-violence as the highest dharma?](../debates/violence-and-svadharma.md)
+terms: [ahaṅkāra](../terms/ahankara.md), [buddhi](../terms/buddhi.md), [karma](../terms/karma.md) · concepts: [The self is not the agent; the guṇas act](../concepts/non-agency-of-the-self.md), [Bondage of action (karma-bandha)](../concepts/bondage-of-action.md), [The five causes of action (BhG 18.13–15)](../concepts/five-causes-of-action.md) · obstacles: [The sense of 'I am the doer' (kartṛtva-abhimāna)](../obstacles/sense-of-doership.md), [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [May one kill in battle as one's own dharma — and what of non-violence as the highest dharma?](../debates/violence-and-svadharma.md), [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
+
+### 18.18 <a id="tea-bhagavad-gita-18-18"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: knowledge (jñāna), the object of knowledge (jñeya) and the knower (parijñātṛ) are the threefold impulse to action (karma-codanā); the instrument (karaṇa), the action (karman) and the agent (kartṛ) are the threefold composition of action (karma-saṃgraha).
+
+> jñānaṃ jñeyaṃ parijñātā trividhā karmacodanā|karaṇaṃ karma karteti trividhaḥ karmasaṃgrahaḥ
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
+
+terms: [jñāna](../terms/jnana.md), [karaṇa](../terms/karana.md), [kartṛ](../terms/kartr.md), [karma](../terms/karma.md), [karma-codanā](../terms/karma-codana.md), [karma-saṃgraha](../terms/karma-samgraha.md) · concepts: [The threefold impulse and threefold composition of action (karma-codanā, karma-saṃgraha)](../concepts/karma-codana-and-karma-samgraha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 18.18-19 <a id="tea-bhagavad-gita-18-18-19"></a>
 `sourced` · confidence high
@@ -8893,6 +9554,30 @@ Knowledge, the object of knowledge and the knower are the threefold impulse to a
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: karma-liberation_
 
 concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md)
+
+_Superseded by [18.18](bhagavad-gita.md#tea-bhagavad-gita-18-18)_
+
+### 18.19 <a id="tea-bhagavad-gita-18-19"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: knowledge, action and agent are declared, in the enumeration of the guṇas (guṇa-saṃkhyāna), to be threefold by the distinction of the guṇas; hear of these too as they are.
+
+> jñānaṃ karma ca kartā ca tridhaiva guṇabhedataḥ|procyate guṇasaṃkhyāne yathāvacchṛṇu tānyapi
+
+_level: conventional · standpoint: analytic · path: general · stage: all · types: karma-liberation, consciousness-mind, ethics_
+
+terms: [guṇa](../terms/guna.md), [jñāna](../terms/jnana.md), [kartṛ](../terms/kartr.md), [karma](../terms/karma.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.20 <a id="tea-bhagavad-gita-18-20"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the knowledge by which one sees in all beings a single imperishable being (bhāva), undivided among the divided — know that knowledge to be sāttvic.
+
+> sarvabhūteṣu yenaikaṃ bhāvamavyayamīkṣate|avibhaktaṃ vibhakteṣu tajjñānaṃ viddhi sāttvikam
+
+_level: unmarked · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, ultimate_
+
+terms: [jñāna](../terms/jnana.md), [bhāva](../terms/bhava.md), [sattva](../terms/sattva.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 18.20-22 <a id="tea-bhagavad-gita-18-20-22"></a>
 `sourced` · confidence high
@@ -8905,6 +9590,41 @@ _level: conventional · standpoint: analytic · path: knowledge · stage: all ·
 
 concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md)
 
+_Superseded by [18.20](bhagavad-gita.md#tea-bhagavad-gita-18-20)_
+
+### 18.21 <a id="tea-bhagavad-gita-18-21"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: but the knowledge that, by separateness (pṛthaktva), knows in all beings many beings of distinct kinds, know that to be rājasic.
+
+> pṛthaktvena tu yajjñānaṃ nānābhāvānpṛthagvidhān|vetti sarveṣu bhūteṣu tajjñānaṃ viddhi rājasam
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
+
+terms: [jñāna](../terms/jnana.md), [bhāva](../terms/bhava.md), [rajas](../terms/rajas.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.22 <a id="tea-bhagavad-gita-18-22"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: but that which clings to a single thing (kārya) as if it were the whole, without reason (ahaituka), without grasp of the real (a-tattvārtha-vat) and petty, is declared tāmasic.
+
+> yattu kṛtsnavadekasminkārye saktamahaitukam|atattvārthavadalpaṃ ca tattāmasamudāhṛtam
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
+
+terms: [jñāna](../terms/jnana.md), [tattva](../terms/tattva.md), [tamas](../terms/tamas.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.23 <a id="tea-bhagavad-gita-18-23"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: action that is allotted (niyata), free of attachment, done without passion or aversion (rāga-dveṣa) by one who does not crave its fruit, is called sāttvic.
+
+> niyataṃ saṅgarahitamarāgadveṣataḥ kṛtam|aphalaprepsunā karma yattatsāttvikamucyate
+
+_level: conventional · standpoint: analytic · path: action · stage: all · types: practice, ethics_
+
+terms: [karma](../terms/karma.md), [niyata karman](../terms/niyata-karma.md), [saṅga](../terms/sanga.md), [rāga](../terms/raga.md), [dveṣa](../terms/dvesa.md), [sattva](../terms/sattva.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md), [Action without attachment to its fruit](../concepts/niskama-karma.md) · practices: [Relinquishing the fruit of all actions](../practices/karmaphala-tyaga.md), [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md) · obstacles: [Attachment (rāga)](../obstacles/raga.md), [Aversion (dveṣa)](../obstacles/dvesa.md), [Attachment (saṅga)](../obstacles/sanga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 18.23-25 <a id="tea-bhagavad-gita-18-23-25"></a>
 `sourced` · confidence high
 
@@ -8913,6 +9633,41 @@ Obligatory action done without attachment, without love or hate, by one who does
 _level: conventional · standpoint: analytic · path: action · stage: all · types: ethics, practice_
 
 concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [Action without attachment to its fruit](../concepts/niskama-karma.md)
+
+_Superseded by [18.23](bhagavad-gita.md#tea-bhagavad-gita-18-23)_
+
+### 18.24 <a id="tea-bhagavad-gita-18-24"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: but action done by one who seeks desires, or with the sense of 'I' (ahaṅkāra), with much strain, is declared rājasic.
+
+> yattu kāmepsunā karma sāhaṅkāreṇa vā punaḥ|kriyate bahulāyāsaṃ tadrājasamudāhṛtam
+
+_level: conventional · standpoint: analytic · path: action · stage: all · types: practice, ethics_
+
+terms: [karma](../terms/karma.md), [kāma](../terms/kama.md), [ahaṅkāra](../terms/ahankara.md), [rajas](../terms/rajas.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · obstacles: [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md), [Desire (kāma)](../obstacles/kama.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.25 <a id="tea-bhagavad-gita-18-25"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: action undertaken out of delusion (moha), without regard to consequence (anubandha), loss, harm (hiṃsā) and one's own capacity (pauruṣa), is called tāmasic.
+
+> anubandhaṃ kṣayaṃ hiṃsāmanapekṣya ca pauruṣam|mohādārabhyate karma yattattāmasamucyate
+
+_level: conventional · standpoint: analytic · path: action · stage: all · types: practice, ethics_
+
+terms: [karma](../terms/karma.md), [moha](../terms/moha.md), [hiṃsā](../terms/himsa.md), [pauruṣa](../terms/paurusa.md), [tamas](../terms/tamas.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · obstacles: [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.26 <a id="tea-bhagavad-gita-18-26"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the agent who is free of attachment, does not speak of 'I' (anahaṃvādin), is endowed with steadiness (dhṛti) and zeal (utsāha), and is unchanged in success and failure, is called sāttvic.
+
+> muktasaṅgo'nahaṃvādī dhṛtyutsāhasamanvitaḥ|siddhyasiddhyornirvikāraḥ kartā sāttvika ucyate
+
+_level: conventional · standpoint: analytic · path: action · stage: all · types: ethics, practice_
+
+terms: [kartṛ](../terms/kartr.md), [dhṛti](../terms/dhrti.md), [siddhi](../terms/siddhi.md), [saṅga](../terms/sanga.md), [samatva](../terms/samatva.md), [sattva](../terms/sattva.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md), [Evenness of mind (samatva)](../concepts/equanimity.md) · obstacles: [Attachment (saṅga)](../obstacles/sanga.md), [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 18.26-28 <a id="tea-bhagavad-gita-18-26-28"></a>
 `sourced` · confidence high
@@ -8923,6 +9678,41 @@ _level: conventional · standpoint: analytic · path: action · stage: all · ty
 
 concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md)
 
+_Superseded by [18.26](bhagavad-gita.md#tea-bhagavad-gita-18-26)_
+
+### 18.27 <a id="tea-bhagavad-gita-18-27"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the agent who is passionate (rāgin), craving the fruit of action, greedy, harmful by nature (hiṃsātmaka), impure and given to elation and grief (harṣa-śoka), is declared rājasic.
+
+> rāgī karmaphalaprepsurlubdho hiṃsātmako'śuciḥ|harṣaśokānvitaḥ kartā rājasaḥ parikīrtitaḥ
+
+_level: conventional · standpoint: analytic · path: action · stage: all · types: ethics, practice_
+
+terms: [kartṛ](../terms/kartr.md), [rāga](../terms/raga.md), [lobha](../terms/lobha.md), [hiṃsā](../terms/himsa.md), [soka](../terms/soka.md), [rajas](../terms/rajas.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · obstacles: [Attachment (rāga)](../obstacles/raga.md), [Greed (lobha)](../obstacles/lobha.md), [Elation (harṣa)](../obstacles/harsa.md), [Grief (śoka)](../obstacles/soka.md), [Attachment to the fruits of action; making the fruit one's motive (karmaphala-hetu)](../obstacles/attachment-to-fruits.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.28 <a id="tea-bhagavad-gita-18-28"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the agent who is undisciplined (ayukta), vulgar (prākṛta), stubborn (stabdha), deceitful (śaṭha), malicious (naiṣkṛtika), lazy (alasa), despondent (viṣādin) and procrastinating (dīrgha-sūtrin) is called tāmasic.
+
+> ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko'lasaḥ|viṣādī dīrghasūtrī ca kartā tāmasa ucyate
+
+_level: conventional · standpoint: analytic · path: action · stage: all · types: ethics, practice_
+
+terms: [kartṛ](../terms/kartr.md), [viṣāda](../terms/visada.md), [ālasya](../terms/alasya.md), [tamas](../terms/tamas.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · obstacles: [Laziness (ālasya)](../obstacles/alasya.md), [Despondency (viṣāda)](../obstacles/visada.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.29 <a id="tea-bhagavad-gita-18-29"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: hear now, Dhanañjaya, the threefold distinction of understanding (buddhi) and of steadiness (dhṛti) according to the guṇas, stated fully and separately.
+
+> buddherbhedaṃ dhṛteścaiva guṇatastrividhaṃ śrṛṇu|procyamānamaśeṣeṇa pṛthaktvena dhanañjaya
+
+_level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind_
+
+terms: [buddhi](../terms/buddhi.md), [dhṛti](../terms/dhrti.md), [guṇa](../terms/guna.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 18.29-32 <a id="tea-bhagavad-gita-18-29-32"></a>
 `sourced` · confidence high
 
@@ -8931,6 +9721,52 @@ The understanding that knows the way of action and of withdrawal, what is to be 
 _level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind_
 
 terms: [buddhi](../terms/buddhi.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md)
+
+_Superseded by [18.29](bhagavad-gita.md#tea-bhagavad-gita-18-29)_
+
+### 18.30 <a id="tea-bhagavad-gita-18-30"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the understanding (buddhi) that knows engagement and withdrawal (pravṛtti, nivṛtti), what is to be done and not done, what is to be feared and not feared, bondage and release (bandha, mokṣa) — that, Pārtha, is sāttvic.
+
+> pravṛttiṃ ca nivṛttiṃ ca kāryākārye bhayābhaye|bandhaṃ mokṣaṃ ca yā vetti buddhiḥ sā pārtha sāttvikī
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, karma-liberation_
+
+terms: [buddhi](../terms/buddhi.md), [pravṛtti](../terms/pravrtti.md), [nivṛtti](../terms/nivrtti.md), [mokṣa](../terms/moksa.md), [sattva](../terms/sattva.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.31 <a id="tea-bhagavad-gita-18-31"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the understanding by which one knows dharma and adharma, what is to be done and what is not to be done, incorrectly (ayathāvat), is rājasic, Pārtha.
+
+> yayā dharmamadharmaṃ ca kāryaṃ cākāryameva ca|ayathāvatprajānāti buddhiḥ sā pārtha rājasī
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, ethics_
+
+terms: [buddhi](../terms/buddhi.md), [dharma](../terms/dharma.md), [adharma](../terms/adharma.md), [rajas](../terms/rajas.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.32 <a id="tea-bhagavad-gita-18-32"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the understanding which, covered by darkness (tamas), thinks adharma to be dharma and sees all things inverted, is tāmasic, Pārtha.
+
+> adharmaṃ dharmamiti yā manyate tamasā''vṛtā|sarvārthānviparītāṃśca buddhiḥ sā pārtha tāmasī
+
+_level: conventional · standpoint: analytic · path: knowledge · stage: all · types: consciousness-mind, ethics_
+
+terms: [buddhi](../terms/buddhi.md), [dharma](../terms/dharma.md), [adharma](../terms/adharma.md), [tamas](../terms/tamas.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · obstacles: [Ignorance veiling knowledge (ajñāna)](../obstacles/ajnana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.33 <a id="tea-bhagavad-gita-18-33"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the steadiness (dhṛti), unwavering through yoga, by which one holds the activities of mind (manas), breath (prāṇa) and senses (indriya), is sāttvic, Pārtha.
+
+> dhṛtyā yayā dhārayate manaḥprāṇendriyakriyāḥ|yogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī
+
+_level: conventional · standpoint: analytic · path: meditation, general · stage: all · types: consciousness-mind, practice_
+
+terms: [dhṛti](../terms/dhrti.md), [yoga](../terms/yoga.md), [manas](../terms/manas.md), [prāṇa](../terms/prana.md), [indriya](../terms/indriya.md), [sattva](../terms/sattva.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 18.33-35 <a id="tea-bhagavad-gita-18-33-35"></a>
 `sourced` · confidence high
@@ -8941,6 +9777,41 @@ _level: conventional · standpoint: analytic · path: meditation, general · sta
 
 terms: [dhṛti](../terms/dhrti.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md)
 
+_Superseded by [18.33](bhagavad-gita.md#tea-bhagavad-gita-18-33)_
+
+### 18.34 <a id="tea-bhagavad-gita-18-34"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: but the steadiness by which one holds to dharma, desire (kāma) and wealth (artha), craving their fruit with attachment (prasaṅga), Arjuna, is rājasic, Pārtha.
+
+> yayā tu dharmakāmārthān dhṛtyā dhārayate'rjuna|prasaṅgena phalākāṅkṣī dhṛtiḥ sā pārtha rājasī
+
+_level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind, ethics_
+
+terms: [dhṛti](../terms/dhrti.md), [dharma](../terms/dharma.md), [kāma](../terms/kama.md), [artha](../terms/artha.md), [rajas](../terms/rajas.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md), [Dharma and the aims of life (trivarga, puruṣārtha)](../concepts/four-aims-of-life.md) · obstacles: [Attachment to the fruits of action; making the fruit one's motive (karmaphala-hetu)](../obstacles/attachment-to-fruits.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.35 <a id="tea-bhagavad-gita-18-35"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the steadiness by which a dull-witted person does not let go of sleep (svapna), fear, grief, despondency and arrogance (mada) is tāmasic, Pārtha.
+
+> yayā svapnaṃ bhayaṃ śokaṃ viṣādaṃ madameva ca|na vimuñcati durmedhā dhṛtiḥ sā pārtha tāmasī
+
+_level: conventional · standpoint: analytic · path: general · stage: all · types: consciousness-mind, ethics_
+
+terms: [dhṛti](../terms/dhrti.md), [soka](../terms/soka.md), [viṣāda](../terms/visada.md), [mada](../terms/mada.md), [tamas](../terms/tamas.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · obstacles: [Fear (bhaya)](../obstacles/bhaya.md), [Grief (śoka)](../obstacles/soka.md), [Despondency (viṣāda)](../obstacles/visada.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.36 <a id="tea-bhagavad-gita-18-36"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: now hear from me, bull of the Bharatas, the threefold happiness (sukha): that in which one comes to delight through practice (abhyāsa) and reaches the end of suffering —
+
+> sukhaṃ tvidānīṃ trividhaṃ śrṛṇu me bharatarṣabha|abhyāsādramate yatra duḥkhāntaṃ ca nigacchati
+
+_level: conventional · standpoint: experiential · path: general · stage: all · types: consciousness-mind, powers-experiences_
+
+terms: [sukha](../terms/sukha.md), [abhyāsa](../terms/abhyasa.md), [guṇa](../terms/guna.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 18.36-39 <a id="tea-bhagavad-gita-18-36-39"></a>
 `sourced` · confidence high
 
@@ -8950,14 +9821,62 @@ _level: conventional · standpoint: analytic · path: meditation, general · sta
 
 terms: [prasāda](../terms/prasada.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md)
 
+_Superseded by [18.36](bhagavad-gita.md#tea-bhagavad-gita-18-36)_
+
+### 18.37 <a id="tea-bhagavad-gita-18-37"></a>
+`text-verified` · confidence moderate
+
+Kṛṣṇa: [continuing 18.36] that which is like poison at first but like nectar (amṛta) in its outcome, born of the clarity (prasāda) of ātma-buddhi — one's own understanding, or the understanding of the self — that happiness is declared sāttvic.
+
+> yattadagre viṣamiva pariṇāme'mṛtopamam|tatsukhaṃ sāttvikaṃ proktamātmabuddhiprasādajam
+
+_level: conventional · standpoint: experiential · path: general, meditation · stage: all · types: consciousness-mind, powers-experiences_
+
+terms: [sukha](../terms/sukha.md), [amṛta](../terms/amrta.md), [prasāda](../terms/prasada.md), [buddhi](../terms/buddhi.md), [ātman](../terms/atman.md), [sattva](../terms/sattva.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.38 <a id="tea-bhagavad-gita-18-38"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: that which arises from the contact of the senses with their objects (viṣaya-indriya-saṃyoga), like nectar at first but like poison in its outcome — that happiness is held to be rājasic.
+
+> viṣayendriyasaṃyogādyattadagre'mṛtopamam|pariṇāme viṣamiva tatsukhaṃ rājasaṃ smṛtam
+
+_level: conventional · standpoint: experiential · path: general · stage: all · types: consciousness-mind, powers-experiences_
+
+terms: [sukha](../terms/sukha.md), [viṣaya](../terms/visaya.md), [indriya](../terms/indriya.md), [amṛta](../terms/amrta.md), [rajas](../terms/rajas.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · obstacles: [Enjoyments born of contact (saṃsparśaja bhoga)](../obstacles/samsparsaja-bhoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.39 <a id="tea-bhagavad-gita-18-39"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the happiness that deludes one's self (mohanam ātmanaḥ) both at first and in its sequel (anubandha), arising from sleep (nidrā), sloth (ālasya) and heedlessness (pramāda), is declared tāmasic.
+
+> yadagre cānubandhe ca sukhaṃ mohanamātmanaḥ|nidrālasyapramādotthaṃ tattāmasamudāhṛtam
+
+_level: conventional · standpoint: experiential · path: general · stage: all · types: consciousness-mind, powers-experiences_
+
+terms: [sukha](../terms/sukha.md), [nidrā](../terms/nidra.md), [ālasya](../terms/alasya.md), [pramāda](../terms/pramada.md), [ātman](../terms/atman.md), [tamas](../terms/tamas.md), [moha](../terms/moha.md) · concepts: [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The three guṇas](../concepts/three-gunas.md) · obstacles: [Laziness (ālasya)](../obstacles/alasya.md), [Heedlessness (pramāda)](../obstacles/pramada.md), [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 18.40 <a id="tea-bhagavad-gita-18-40"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-There is no being on earth, or again among the gods in heaven, that is free from these three guṇas born of prakṛti.
+Kṛṣṇa: there is no being (sattva) on earth, or again in heaven among the gods, that is free of these three guṇas born of prakṛti.
 
-_level: conventional · standpoint: cosmic · path: knowledge · stage: all · types: world-fate_
+> na tadasti pṛthivyāṃ vā divi deveṣu vā punaḥ|sattvaṃ prakṛtijairmuktaṃ yadebhiḥ syātitrabhirguṇaiḥ
 
-concepts: [The three guṇas](../concepts/three-gunas.md)
+_level: conventional · standpoint: cosmic · path: general, knowledge · stage: all · types: world-fate, consciousness-mind_
+
+terms: [guṇa](../terms/guna.md), [prakṛti](../terms/prakrti.md), [deva](../terms/deva.md) · concepts: [The three guṇas](../concepts/three-gunas.md), [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md) · obstacles: [Bondage by the three guṇas](../obstacles/guna-bondage.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.41 <a id="tea-bhagavad-gita-18-41"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: the actions (karma) of brāhmaṇas, kṣatriyas and vaiśyas, and of śūdras, scorcher of foes, are distributed according to the guṇas arising from their own nature (svabhāva).
+
+> brāhmaṇakṣatriyaviśāṃ śūdrāṇāṃ ca paraṃtapa|karmāṇi pravibhaktāni svabhāvaprabhavairguṇaiḥ
+
+_level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, world-fate_
+
+terms: [varṇa](../terms/varna.md), [brāhmaṇa](../terms/brahmana.md), [kṣatriya](../terms/ksatriya.md), [svabhāva](../terms/svabhava.md), [guṇa](../terms/guna.md), [karma](../terms/karma.md) · concepts: [The varṇas by guṇa and action](../concepts/varna-by-guna-and-karma.md), [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md), [The three guṇas](../concepts/three-gunas.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md)
 
 ### 18.41-48 <a id="tea-bhagavad-gita-18-41-48"></a>
 `sourced` · confidence high
@@ -8968,16 +9887,73 @@ _level: conventional · standpoint: ethical-social · path: action · stage: all
 
 terms: [svadharma](../terms/svadharma.md), [varṇa](../terms/varna.md), [svabhāva](../terms/svabhava.md), [cāturvarṇya](../terms/caturvarnya.md) · concepts: [One's own dharma (svadharma)](../concepts/svadharma.md), [The varṇas by guṇa and action](../concepts/varna-by-guna-and-karma.md) · disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md)
 
+_Superseded by [18.41](bhagavad-gita.md#tea-bhagavad-gita-18-41)_
+
+### 18.42 <a id="tea-bhagavad-gita-18-42"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: calm (śama), self-restraint (dama), austerity (tapas), purity (śauca), forbearance (kṣānti) and straightforwardness (ārjava), knowledge (jñāna), vijñāna and affirming faith (āstikya) are the work of the brāhmaṇa, born of his nature.
+
+> śamo damastapaḥ śaucaṃ kṣāntirārjavameva ca|jñānaṃ vijñānamāstikyaṃ brahmakarma svabhāvajam
+
+_level: conventional · standpoint: ethical-social · path: action, knowledge · stage: all · types: ethics_
+
+terms: [śama](../terms/sama.md), [dama](../terms/dama.md), [tapas](../terms/tapas.md), [śauca](../terms/sauca.md), [kṣānti](../terms/ksanti.md), [ārjava](../terms/arjava.md), [jñāna](../terms/jnana.md), [vijñāna](../terms/vijnana.md), [brāhmaṇa](../terms/brahmana.md), [svabhāva](../terms/svabhava.md), [āstikya](../terms/astikya.md) · concepts: [The varṇas by guṇa and action](../concepts/varna-by-guna-and-karma.md), [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md)
+
+### 18.43 <a id="tea-bhagavad-gita-18-43"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: heroism (śaurya), vigour (tejas), steadiness (dhṛti), skill, not fleeing in battle, generosity (dāna) and lordliness (īśvara-bhāva) are the work of the kṣatriya, born of his nature.
+
+> śauryaṃ tejo dhṛtirdākṣyaṃ yuddhe cāpyapalāyanam|dānamīśvarabhāvaśca kṣātraṃ karma svabhāvajam
+
+_level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
+
+terms: [kṣatriya](../terms/ksatriya.md), [kṣatriya-dharma](../terms/ksatriya-dharma.md), [tejas](../terms/tejas.md), [dhṛti](../terms/dhrti.md), [dāna](../terms/dana.md), [svabhāva](../terms/svabhava.md) · concepts: [The varṇas by guṇa and action](../concepts/varna-by-guna-and-karma.md), [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md), [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md)
+
+### 18.44 <a id="tea-bhagavad-gita-18-44"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: agriculture, cattle-keeping and trade are the work of the vaiśya, born of his nature; work consisting of service (paricaryā) is likewise the śūdra's, born of his nature.
+
+> kṛṣigaurakṣyavāṇijyaṃ vaiśyakarma svabhāvajam|paricaryātmakaṃ karma śūdrasyāpi svabhāvajam
+
+_level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
+
+terms: [varṇa](../terms/varna.md), [svabhāva](../terms/svabhava.md) · concepts: [The varṇas by guṇa and action](../concepts/varna-by-guna-and-karma.md), [Varṇa — the four classes, as the tradition states it](../concepts/varna-social-order.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md)
+
+### 18.45 <a id="tea-bhagavad-gita-18-45"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: devoted each to his own work (sva-karma), a person attains perfection (saṃsiddhi). Hear how one devoted to his own work finds perfection (siddhi).
+
+> sve sve karmaṇyabhirataḥ saṃsiddhiṃ labhate naraḥ|svakarmanirataḥ siddhiṃ yathā vindati tacchṛṇu
+
+_level: conventional · standpoint: seeker · path: action · stage: all · types: practice, karma-liberation_
+
+terms: [saṃsiddhi](../terms/samsiddhi.md), [siddhi](../terms/siddhi.md), [svadharma](../terms/svadharma.md), [karma](../terms/karma.md) · concepts: [One's own dharma (svadharma)](../concepts/svadharma.md) · practices: [Performing one's own dharma (svadharma)](../practices/svadharma-anusthana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 18.46 <a id="tea-bhagavad-gita-18-46"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-By worshipping with his own action him from whom beings arise and by whom all this is pervaded, a person attains perfection.
+Kṛṣṇa: by worshipping with his own work (sva-karma) him from whom beings have their origin (pravṛtti) and by whom all this is pervaded, a person finds perfection.
 
-> yataḥ pravṛttir bhūtānāṃ yena sarvam idaṃ tatam svakarmaṇā tam abhyarcya siddhiṃ vindati mānavaḥ
+> yataḥ pravṛttirbhūtānāṃ yena sarvamidaṃ tatam|svakarmaṇā tamabhyarcya siddhiṃ vindati mānavaḥ
 
-_level: conventional · standpoint: devotional · path: action, devotion · stage: all · types: practice_
+_level: conventional · standpoint: devotional · path: action, devotion · stage: all · types: practice, karma-liberation, ultimate_
 
-concepts: [One's own dharma (svadharma)](../concepts/svadharma.md), [Action without attachment to its fruit](../concepts/niskama-karma.md) · practices: [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](../practices/isvararpana.md), [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md)
+terms: [siddhi](../terms/siddhi.md), [pravṛtti](../terms/pravrtti.md), [karma](../terms/karma.md) · concepts: [One's own dharma (svadharma)](../concepts/svadharma.md), [Devotion (bhakti)](../concepts/bhakti.md), [Īśvara (the Lord)](../concepts/isvara.md), [Action without attachment to its fruit](../concepts/niskama-karma.md) · practices: [Performing one's own dharma (svadharma)](../practices/svadharma-anusthana.md), [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](../practices/isvararpana.md), [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
+
+### 18.47 <a id="tea-bhagavad-gita-18-47"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: better one's own dharma (svadharma), though deficient (viguṇa), than another's dharma (paradharma) well performed. Doing the action ordained by one's own nature (svabhāva-niyata), one incurs no fault (kilbiṣa).
+
+> śreyānsvadharmo viguṇaḥ paradharmātsvanuṣṭhitāt|svabhāvaniyataṃ karma kurvannāpnoti kilbiṣam
+
+_level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, karma-liberation_
+
+terms: [svadharma](../terms/svadharma.md), [paradharma](../terms/paradharma.md), [svabhāva](../terms/svabhava.md), [karma](../terms/karma.md), [dharma](../terms/dharma.md) · concepts: [One's own dharma (svadharma)](../concepts/svadharma.md), [The varṇas by guṇa and action](../concepts/varna-by-guna-and-karma.md) · practices: [Performing one's own dharma (svadharma)](../practices/svadharma-anusthana.md) · obstacles: [Stain, impurity, fault (kalmaṣa, kilbiṣa, pāpa)](../obstacles/kalmasa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md)
 
 ### 18.47-48 <a id="tea-bhagavad-gita-18-47-48"></a>
 `sourced` · confidence high
@@ -8988,14 +9964,40 @@ _level: conventional · standpoint: ethical-social · path: action · stage: all
 
 terms: [svadharma](../terms/svadharma.md), [paradharma](../terms/paradharma.md) · concepts: [One's own dharma (svadharma)](../concepts/svadharma.md)
 
+_Superseded by [18.47](bhagavad-gita.md#tea-bhagavad-gita-18-47)_
+
+### 18.48 <a id="tea-bhagavad-gita-18-48"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: one should not abandon the work that is born with one (sahaja karma), Kaunteya, even if it has a fault (doṣa); for all undertakings are covered by fault as fire by smoke.
+
+> sahajaṃ karma kaunteya sadoṣamapi na tyajet|sarvārambhā hi doṣeṇa dhūmenāgnirivāvṛtāḥ
+
+_level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics, karma-liberation_
+
+terms: [karma](../terms/karma.md), [svadharma](../terms/svadharma.md) · concepts: [One's own dharma (svadharma)](../concepts/svadharma.md) · practices: [Performing one's own dharma (svadharma)](../practices/svadharma-anusthana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is varṇa (and eligibility for austerity and teaching) fixed by birth, or made by conduct and qualities?](../debates/varna-by-birth-or-conduct-epic.md)
+
 ### 18.49 <a id="tea-bhagavad-gita-18-49"></a>
-`sourced` · confidence high
+`text-verified` · confidence moderate
 
-One whose understanding is unattached everywhere, who has conquered himself and is free from longing, attains through renunciation the supreme perfection of freedom from action (naiṣkarmya-siddhi).
+Kṛṣṇa: with understanding (buddhi) unattached everywhere, self-mastered (jitātman), free of longing, one attains through renunciation (saṃnyāsa) the supreme perfection of freedom from action (naiṣkarmya-siddhi).
 
-_level: bridging · standpoint: seeker · path: knowledge, action · stage: advanced · types: karma-liberation_
+> asaktabuddhiḥ sarvatra jitātmā vigataspṛhaḥ|naiṣkarmyasiddhiṃ paramāṃ saṃnyāsenādhigacchati
 
-terms: [naiṣkarmya](../terms/naiskarmya.md), [saṃnyāsa](../terms/samnyasa.md)
+_level: conventional · standpoint: seeker · path: action, knowledge · stage: advanced · types: karma-liberation, practice_
+
+terms: [naiṣkarmya](../terms/naiskarmya.md), [saṃnyāsa](../terms/samnyasa.md), [siddhi](../terms/siddhi.md), [buddhi](../terms/buddhi.md), [asakta](../terms/asakta.md) · concepts: [Actionlessness (naiṣkarmya)](../concepts/naiskarmya.md), [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md)
+
+### 18.50 <a id="tea-bhagavad-gita-18-50"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: learn from me in brief, Kaunteya, how one who has attained perfection (siddhi) attains brahman — which is the highest culmination (niṣṭhā) of knowledge.
+
+> siddhiṃ prāpto yathā brahma tathāpnoti nibodha me|samāsenaiva kaunteya niṣṭhā jñānasya yā parā
+
+_level: conventional · standpoint: seeker · path: knowledge · stage: advanced · types: karma-liberation, ultimate_
+
+terms: [siddhi](../terms/siddhi.md), [brahman](../terms/brahman.md), [niṣṭhā](../terms/nistha.md), [jñāna](../terms/jnana.md) · concepts: [Brahman (the ultimate ground)](../concepts/brahman.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 18.50-53 <a id="tea-bhagavad-gita-18-50-53"></a>
 `sourced` · confidence high
@@ -9006,36 +10008,97 @@ _level: conventional · standpoint: seeker · path: meditation, knowledge · sta
 
 terms: [dhyāna-yoga](../terms/dhyana-yoga.md), [vairāgya](../terms/vairagya.md), [brahmabhūta](../terms/brahmabhuta.md) · practices: [The Gītā's meditation (dhyāna-yoga, BhG 6.10–32)](../practices/dhyana-yoga-gita.md)
 
+_Superseded by [18.50](bhagavad-gita.md#tea-bhagavad-gita-18-50)_
+
+### 18.51 <a id="tea-bhagavad-gita-18-51"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: yoked with a purified understanding (buddhi), restraining oneself (ātman) with steadiness (dhṛti), relinquishing sound and the other sense-objects (viṣaya), casting off passion and aversion (rāga-dveṣa) —
+
+> buddhyā viśuddhayā yukto dhṛtyā''tmānaṃ niyamya ca|śabdādīn viṣayāṃstyaktvā rāgadveṣau vyudasya ca
+
+_level: conventional · standpoint: seeker · path: meditation, knowledge · stage: advanced · types: practice_
+
+terms: [buddhi](../terms/buddhi.md), [dhṛti](../terms/dhrti.md), [viṣaya](../terms/visaya.md), [rāga](../terms/raga.md), [dveṣa](../terms/dvesa.md), [ātman](../terms/atman.md) · practices: [The Gītā's meditation (dhyāna-yoga, BhG 6.10–32)](../practices/dhyana-yoga-gita.md), [Restraint and withdrawal of the senses (indriya-saṃyama)](../practices/indriya-samyama.md) · obstacles: [Attachment (rāga)](../obstacles/raga.md), [Aversion (dveṣa)](../obstacles/dvesa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.51-53 <a id="tea-bhagavad-gita-18-51-53"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: yoked with a purified understanding, restraining oneself (ātman) with steadiness, relinquishing sound and the other sense-objects and casting off passion and aversion; resorting to solitude, eating lightly, with speech, body and mind controlled, ever intent on the yoga of meditation (dhyāna-yoga) and taking refuge in dispassion; having let go of the sense of 'I', force, arrogance, desire, anger and possessions, without 'mine' and at peace — one becomes fit for becoming brahman (brahma-bhūya).
+
+> buddhyā viśuddhayā yukto dhṛtyā''tmānaṃ niyamya ca|śabdādīn viṣayāṃstyaktvā rāgadveṣau vyudasya ca
+viviktasevī laghvāśī yatavākkāyamānasaḥ|dhyānayogaparo nityaṃ vairāgyaṃ samupāśritaḥ
+ahaṅkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham|vimucya nirmamaḥ śānto brahmabhūyāya kalpate
+
+_level: conventional · standpoint: seeker · path: meditation, knowledge · stage: advanced · types: practice, karma-liberation_
+
+terms: [buddhi](../terms/buddhi.md), [dhṛti](../terms/dhrti.md), [viṣaya](../terms/visaya.md), [rāga](../terms/raga.md), [dveṣa](../terms/dvesa.md), [ātman](../terms/atman.md), [dhyāna-yoga](../terms/dhyana-yoga.md), [vairāgya](../terms/vairagya.md), [manas](../terms/manas.md), [ahaṅkāra](../terms/ahankara.md), [kāma](../terms/kama.md), [krodha](../terms/krodha.md) · practices: [The Gītā's meditation (dhyāna-yoga, BhG 6.10–32)](../practices/dhyana-yoga-gita.md), [Restraint and withdrawal of the senses (indriya-saṃyama)](../practices/indriya-samyama.md), [Dispassion (vairāgya)](../practices/vairagya.md), [Moderation in food, sleep, recreation and effort](../practices/moderation-in-food-and-sleep.md), [Non-possessiveness (aparigraha)](../practices/aparigraha.md) · obstacles: [Attachment (rāga)](../obstacles/raga.md), [Aversion (dveṣa)](../obstacles/dvesa.md), [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md), [Arrogance (darpa)](../obstacles/darpa.md), [Desire (kāma)](../obstacles/kama.md), [Anger (krodha)](../obstacles/krodha.md), [Possessiveness (parigraha)](../obstacles/parigraha.md), [The sense of 'mine' (mamatva)](../obstacles/mamatva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.52 <a id="tea-bhagavad-gita-18-52"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [continuing 18.51] resorting to solitude (vivikta-sevin), eating lightly (laghv-āśin), with speech, body and mind (mānasa) controlled, ever intent on the yoga of meditation (dhyāna-yoga), taking refuge in dispassion (vairāgya) —
+
+> viviktasevī laghvāśī yatavākkāyamānasaḥ|dhyānayogaparo nityaṃ vairāgyaṃ samupāśritaḥ
+
+_level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice_
+
+terms: [dhyāna-yoga](../terms/dhyana-yoga.md), [vairāgya](../terms/vairagya.md), [manas](../terms/manas.md) · practices: [The Gītā's meditation (dhyāna-yoga, BhG 6.10–32)](../practices/dhyana-yoga-gita.md), [Dispassion (vairāgya)](../practices/vairagya.md), [Moderation in food, sleep, recreation and effort](../practices/moderation-in-food-and-sleep.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.53 <a id="tea-bhagavad-gita-18-53"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: [continuing 18.52] having let go of the sense of 'I' (ahaṅkāra), force (bala), arrogance (darpa), desire, anger and possessions (parigraha), without 'mine' (nirmama) and at peace (śānta), one becomes fit for becoming brahman (brahma-bhūya).
+
+> ahaṅkāraṃ balaṃ darpaṃ kāmaṃ krodhaṃ parigraham|vimucya nirmamaḥ śānto brahmabhūyāya kalpate
+
+_level: conventional · standpoint: seeker · path: meditation, knowledge · stage: advanced · types: practice, karma-liberation_
+
+terms: [ahaṅkāra](../terms/ahankara.md), [kāma](../terms/kama.md), [krodha](../terms/krodha.md), [parigraha](../terms/parigraha.md), [nirmama](../terms/nirmama.md), [brahmabhūya](../terms/brahmabhuya.md), [śānti](../terms/santi.md), [darpa](../terms/darpa.md) · practices: [The Gītā's meditation (dhyāna-yoga, BhG 6.10–32)](../practices/dhyana-yoga-gita.md), [Non-possessiveness (aparigraha)](../practices/aparigraha.md) · obstacles: [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md), [Arrogance (darpa)](../obstacles/darpa.md), [Desire (kāma)](../obstacles/kama.md), [Anger (krodha)](../obstacles/krodha.md), [Possessiveness (parigraha)](../obstacles/parigraha.md), [The sense of 'mine' (mamatva)](../obstacles/mamatva.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 18.54 <a id="tea-bhagavad-gita-18-54"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Having become Brahman, serene in self, he neither grieves nor desires; the same toward all beings, he attains supreme devotion to me.
+Kṛṣṇa: having become brahman (brahma-bhūta), serene (prasanna-ātman), one neither grieves nor craves; the same toward all beings, one attains supreme devotion to me (mad-bhakti parā).
 
-> brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati samaḥ sarveṣu bhūteṣu madbhaktiṃ labhate parām
+> brahmabhūtaḥ prasannātmā na śocati na kāṅkṣati|samaḥ sarveṣu bhūteṣu madbhaktiṃ labhate parām
 
-_level: bridging · standpoint: devotional · path: knowledge, devotion · stage: realized · types: karma-liberation, consciousness-mind_
+_level: unmarked · standpoint: experiential · path: knowledge, devotion · stage: realized · types: karma-liberation, ultimate, powers-experiences, consciousness-mind_
 
-terms: [brahmabhūta](../terms/brahmabhuta.md), [bhakti](../terms/bhakti.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md), [Liberation while living](../concepts/liberation-while-living.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
+terms: [brahmabhūta](../terms/brahmabhuta.md), [bhakti](../terms/bhakti.md), [parā bhakti](../terms/para-bhakti.md), [samatva](../terms/samatva.md), [soka](../terms/soka.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md), [Evenness of mind (samatva)](../concepts/equanimity.md), [Liberation while living](../concepts/liberation-while-living.md) · obstacles: [Grief (śoka)](../obstacles/soka.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is knowledge the means of devotion, is devotion a means to knowledge, or is devotion its own fruit?](../debates/is-knowledge-the-means-of-bhakti.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
 
 ### 18.55 <a id="tea-bhagavad-gita-18-55"></a>
-`sourced` · confidence high
+`text-verified` · confidence moderate
 
-By devotion he knows me in truth — how great I am and who I am; then, having known me in truth, he enters me forthwith.
+Kṛṣṇa: by devotion (bhakti) he comes to know me — how great I am and who I am in truth (tattvataḥ); then, having known me in truth, he enters [me] immediately after (tad-anantaram).
 
-> bhaktyā mām abhijānāti yāvān yaś cāsmi tattvataḥ tato māṃ tattvato jñātvā viśate tadanantaram
+> bhaktyā māmabhijānāti yāvānyaścāsmi tattvataḥ|tato māṃ tattvato jñātvā viśate tadanantaram
 
-_level: ultimate · standpoint: devotional · path: devotion, knowledge · stage: realized · types: karma-liberation, ultimate_
+_level: unmarked · standpoint: devotional · path: devotion, knowledge · stage: realized · types: karma-liberation, ultimate_
 
-concepts: [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md), [Devotion (bhakti)](../concepts/bhakti.md) · disputes: [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
+terms: [bhakti](../terms/bhakti.md), [tattva](../terms/tattva.md), [jñāna](../terms/jnana.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md), [Liberation (mokṣa) in later Mīmāṃsā](../concepts/liberation.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Is knowledge the means of devotion, is devotion a means to knowledge, or is devotion its own fruit?](../debates/is-knowledge-the-means-of-bhakti.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Are the individual souls one with Brahman/God, eternally distinct from him and from one another, or both different and non-different?](../debates/souls-one-or-distinct.md)
 
 ### 18.56 <a id="tea-bhagavad-gita-18-56"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Even while always performing all actions, taking refuge in me, by my grace he attains the eternal, imperishable abode.
+Kṛṣṇa: even while always performing all actions, one who takes refuge in me (mad-vyapāśraya) attains by my grace (prasāda) the eternal, imperishable place (pada).
 
-_level: bridging · standpoint: divine · path: action, devotion · stage: all · types: karma-liberation_
+> sarvakarmāṇyapi sadā kurvāṇo madvyapāśrayaḥ|matprasādādavāpnoti śāśvataṃ padamavyayam
 
-terms: [prasāda](../terms/prasada.md) · concepts: [The Lord's grace (prasāda)](../concepts/divine-grace.md) · disputes: [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
+_level: conventional · standpoint: devotional · path: action, devotion · stage: all · types: karma-liberation, practice_
+
+terms: [prasāda](../terms/prasada.md), [karma](../terms/karma.md) · concepts: [The Lord's grace (prasāda)](../concepts/divine-grace.md), [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md) · practices: [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
+
+### 18.57 <a id="tea-bhagavad-gita-18-57"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: renouncing in thought (cetas) all actions in me, intent on me (mat-para), resorting to the yoga of understanding (buddhi-yoga), be constantly with your thought (citta) on me (mac-citta).
+
+> cetasā sarvakarmāṇi mayi saṃnyasya matparaḥ|buddhiyogamupāśritya maccittaḥ satataṃ bhava
+
+_level: conventional · standpoint: devotional · path: action, devotion · stage: all · types: practice_
+
+terms: [cetas](../terms/cetas.md), [citta](../terms/citta.md), [saṃnyāsa](../terms/samnyasa.md), [buddhiyoga](../terms/buddhi-yoga.md), [karma](../terms/karma.md) · practices: [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](../practices/isvararpana.md), [Buddhiyoga, the yoga of understanding (BhG 2.39–53)](../practices/buddhi-yoga.md), [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 18.57-58 <a id="tea-bhagavad-gita-18-57-58"></a>
 `sourced` · confidence high
@@ -9046,6 +10109,30 @@ _level: bridging · standpoint: devotional · path: devotion, action · stage: a
 
 concepts: [The Lord's grace (prasāda)](../concepts/divine-grace.md) · practices: [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](../practices/isvararpana.md), [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md)
 
+_Superseded by [18.57](bhagavad-gita.md#tea-bhagavad-gita-18-57)_
+
+### 18.58 <a id="tea-bhagavad-gita-18-58"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: with your thought (citta) on me you will cross all difficulties by my grace (prasāda); but if out of the sense of 'I' (ahaṅkāra) you will not listen, you will perish.
+
+> maccittaḥ sarvadurgāṇi matprasādāttariṣyasi|atha cettvamahaṅkārānna śroṣyasi vinaṅkṣyasi
+
+_level: conventional · standpoint: devotional · path: devotion · stage: all · types: karma-liberation, ethics_
+
+terms: [citta](../terms/citta.md), [prasāda](../terms/prasada.md), [ahaṅkāra](../terms/ahankara.md) · concepts: [The Lord's grace (prasāda)](../concepts/divine-grace.md) · obstacles: [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.59 <a id="tea-bhagavad-gita-18-59"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: if, resorting to the sense of 'I' (ahaṅkāra), you think 'I will not fight', vain is this resolve of yours: your nature (prakṛti) will compel you.
+
+> yadahaṅkāramāśritya na yotsya iti manyase|mithyaiṣa vyavasāyaste prakṛtistvāṃ niyokṣyati
+
+_level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, ethics_
+
+terms: [ahaṅkāra](../terms/ahankara.md), [prakṛti](../terms/prakrti.md), [svabhāva](../terms/svabhava.md) · concepts: [The guṇas as the doers of action](../concepts/gunas-as-agents.md), [No embodied being can remain without action](../concepts/inevitability-of-action.md) · obstacles: [The sense of 'I' (ahaṃkāra)](../obstacles/ahankara.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md), [What moves events — fate, time, nature, the Lord, karma, or human effort?](../debates/fate-or-effort.md)
+
 ### 18.59-60 <a id="tea-bhagavad-gita-18-59-60"></a>
 `sourced` · confidence high
 
@@ -9055,34 +10142,62 @@ _level: conventional · standpoint: causal · path: action · stage: all · type
 
 terms: [svabhāva](../terms/svabhava.md), [prakṛti](../terms/prakrti.md) · disputes: [What moves events — fate, time, nature, the Lord, karma, or human effort?](../debates/fate-or-effort.md)
 
+_Superseded by [18.59](bhagavad-gita.md#tea-bhagavad-gita-18-59)_
+
+### 18.60 <a id="tea-bhagavad-gita-18-60"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: bound, Kaunteya, by your own action (karma) born of your nature (svabhāva), what out of delusion (moha) you do not wish to do, you will do even against your will (avaśa).
+
+> svabhāvajena kaunteya nibaddhaḥ svena karmaṇā|kartuṃ necchasi yanmohātkariṣyasyavaśo'pi tat
+
+_level: conventional · standpoint: causal · path: action · stage: all · types: karma-liberation, ethics_
+
+terms: [svabhāva](../terms/svabhava.md), [karma](../terms/karma.md), [moha](../terms/moha.md) · concepts: [The guṇas as the doers of action](../concepts/gunas-as-agents.md), [No embodied being can remain without action](../concepts/inevitability-of-action.md) · obstacles: [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md), [What moves events — fate, time, nature, the Lord, karma, or human effort?](../debates/fate-or-effort.md)
+
 ### 18.61 <a id="tea-bhagavad-gita-18-61"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-The Lord dwells in the heart of all beings, Arjuna, causing all beings to revolve by his māyā, as if mounted on a machine.
+Kṛṣṇa: the Lord (īśvara) dwells in the region of the heart (hṛd-deśa) of all beings, Arjuna, causing all beings, as if mounted on a machine (yantra), to revolve by his māyā.
 
-> īśvaraḥ sarvabhūtānāṃ hṛddeśe 'rjuna tiṣṭhati bhrāmayan sarvabhūtāni yantrārūḍhāni māyayā
+> īśvaraḥ sarvabhūtānāṃ hṛddeśe'rjuna tiṣṭhati|bhrāmayansarvabhūtāni yantrārūḍhāni māyayā
 
-_level: ultimate · standpoint: divine · path: devotion · stage: all · types: ultimate, world-fate_
+_level: unmarked · standpoint: divine · path: general, devotion · stage: all · types: ultimate, world-fate_
 
-terms: [īśvara](../terms/isvara.md), [māyā](../terms/maya.md) · concepts: [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md) · disputes: [What moves events — fate, time, nature, the Lord, karma, or human effort?](../debates/fate-or-effort.md)
+terms: [īśvara](../terms/isvara.md), [māyā](../terms/maya.md), [hṛd](../terms/hrd.md) · concepts: [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md), [Īśvara (the Lord)](../concepts/isvara.md), [Māyā in the principal Upaniṣads](../concepts/maya.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What moves events — fate, time, nature, the Lord, karma, or human effort?](../debates/fate-or-effort.md)
 
 ### 18.62 <a id="tea-bhagavad-gita-18-62"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Take refuge in him alone with your whole being; by his grace you will attain supreme peace and the eternal abode.
+Kṛṣṇa: go to him alone for refuge (śaraṇa) with your whole being (sarva-bhāva), Bhārata; by his grace (prasāda) you will attain supreme peace (śānti) and the eternal abode (sthāna).
 
-_level: bridging · standpoint: devotional · path: devotion · stage: all · types: karma-liberation_
+> tameva śaraṇaṃ gaccha sarvabhāvena bhārata|tatprasādātparāṃ śāntiṃ sthānaṃ prāpsyasi śāśvatam
 
-terms: [prasāda](../terms/prasada.md), [śaraṇāgati](../terms/saranagati.md) · concepts: [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md)
+_level: conventional · standpoint: devotional · path: devotion · stage: all · types: practice, karma-liberation_
+
+terms: [śaraṇāgati](../terms/saranagati.md), [śaraṇa](../terms/sarana.md), [prasāda](../terms/prasada.md), [śānti](../terms/santi.md) · concepts: [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md) · practices: [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 18.63 <a id="tea-bhagavad-gita-18-63"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Thus I have declared to you knowledge more secret than all secrets; reflect on it fully, then do as you wish.
+Kṛṣṇa: thus I have declared to you knowledge (jñāna) more secret than the secret (guhya). Reflect on it fully (vimṛśya), then do as you wish.
 
-_level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission_
+> iti te jñānamākhyātaṃ guhyādguhyataraṃ mayā|vimṛśyaitadaśeṣeṇa yathecchasi tathā kuru
 
-terms: [guhya](../terms/guhya.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md)
+_level: conventional · standpoint: seeker · path: knowledge, general · stage: all · types: teacher-transmission_
+
+terms: [jñāna](../terms/jnana.md), [guhya](../terms/guhya.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md)
+
+### 18.64 <a id="tea-bhagavad-gita-18-64"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: hear again my supreme word, the most secret of all (sarva-guhyatama). You are dearly loved by me; therefore I shall tell you what is for your good (hita).
+
+> sarvaguhyatamaṃ bhūyaḥ śrṛṇu me paramaṃ vacaḥ|iṣṭo'si me dṛḍhamiti tato vakṣyāmi te hitam
+
+_level: conventional · standpoint: devotional · path: devotion · stage: all · types: teacher-transmission_
+
+terms: [guhya](../terms/guhya.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
 
 ### 18.64-65 <a id="tea-bhagavad-gita-18-64-65"></a>
 `sourced` · confidence high
@@ -9093,27 +10208,40 @@ _level: bridging · standpoint: devotional · path: devotion · stage: all · ty
 
 concepts: [Devotion (bhakti)](../concepts/bhakti.md)
 
+_Superseded by [18.64](bhagavad-gita.md#tea-bhagavad-gita-18-64)_
+
 ### 18.65 <a id="tea-bhagavad-gita-18-65"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Fix your mind on me, be my devotee, sacrifice to me, bow to me; you will come to me — truly I promise you, for you are dear to me.
+Kṛṣṇa: be one whose mind is on me (man-manāḥ), my devotee (mad-bhakta), one who sacrifices to me (mad-yājin); bow to me (namas-kuru). You will come to me alone — I promise you truly, for you are dear to me.
 
-> manmanā bhava madbhakto madyājī māṃ namaskuru mām evaiṣyasi satyaṃ te pratijāne priyo 'si me
+> manmanā bhava madbhakto madyājī māṃ namaskuru|māmevaiṣyasi satyaṃ te pratijāne priyo'si me
 
-_level: bridging · standpoint: devotional · path: devotion · stage: all · types: practice_
+_level: conventional · standpoint: devotional · path: devotion · stage: all · types: practice, karma-liberation_
 
-concepts: [Devotion (bhakti)](../concepts/bhakti.md)
+terms: [manas](../terms/manas.md), [bhakta](../terms/bhakta.md), [bhakti](../terms/bhakti.md), [namaskāra](../terms/namaskara.md) · concepts: [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Bowing to the Lord (namaskāra)](../practices/namaskara.md), [Constant remembrance of the Lord (smaraṇa)](../practices/smarana.md), [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md)
 
 ### 18.66 <a id="tea-bhagavad-gita-18-66"></a>
-`sourced` · confidence high
+`text-verified` · confidence moderate
 
-Abandoning all dharmas, take refuge in me alone; I will free you from all sins — do not grieve.
+Kṛṣṇa: abandoning all dharmas (sarva-dharmān parityajya), go to me alone for refuge (śaraṇaṃ vraja); I will release (mokṣayiṣyāmi) you from all sins (pāpa). Do not grieve (mā śucaḥ).
 
-> sarvadharmān parityajya mām ekaṃ śaraṇaṃ vraja ahaṃ tvā sarvapāpebhyo mokṣayiṣyāmi mā śucaḥ
+> sarvadharmānparityajya māmekaṃ śaraṇaṃ vraja|ahaṃ tvā sarvapāpebhyo mokṣayiṣyāmi mā śucaḥ
 
-_level: bridging · standpoint: divine · path: devotion · stage: all · types: karma-liberation, practice_
+_level: conventional · standpoint: devotional · path: devotion · stage: unmarked · types: practice, karma-liberation_
 
-terms: [śaraṇāgati](../terms/saranagati.md), [prapatti](../terms/prapatti.md), [dharma](../terms/dharma.md) · concepts: [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md) · practices: [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
+terms: [dharma](../terms/dharma.md), [śaraṇāgati](../terms/saranagati.md), [śaraṇa](../terms/sarana.md), [pāpa](../terms/papa.md), [mokṣa](../terms/moksa.md), [soka](../terms/soka.md), [prapatti](../terms/prapatti.md) · concepts: [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md) · practices: [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · obstacles: [Grief (śoka)](../obstacles/soka.md), [Stain, impurity, fault (kalmaṣa, kilbiṣa, pāpa)](../obstacles/kalmasa.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Is surrender (prapatti) a means (upāya) to liberation?](../debates/is-prapatti-an-upaya.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md)
+
+### 18.67 <a id="tea-bhagavad-gita-18-67"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: this is never to be spoken by you to one without austerity (a-tapaska), nor to one without devotion (a-bhakta), nor to one who does not wish to listen (a-śuśrūṣu), nor to one who cavils at me (abhyasūyati).
+
+> idaṃ te nātapaskāya nābhaktāya kadācana|na cāśuśrūṣave vācyaṃ na ca māṃ yo'bhyasūyati
+
+_level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission_
+
+terms: [tapas](../terms/tapas.md), [bhakta](../terms/bhakta.md), [asūyā](../terms/asuya.md), [bhakti](../terms/bhakti.md), [guhya](../terms/guhya.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · obstacles: [Cavilling (asūyā)](../obstacles/asuya.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 18.67-68 <a id="tea-bhagavad-gita-18-67-68"></a>
 `sourced` · confidence high
@@ -9126,6 +10254,30 @@ _level: conventional · standpoint: seeker · path: general · stage: all · typ
 
 terms: [guhya](../terms/guhya.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md)
 
+_Superseded by [18.67](bhagavad-gita.md#tea-bhagavad-gita-18-67)_
+
+### 18.68 <a id="tea-bhagavad-gita-18-68"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: whoever will declare this supreme secret (guhya) among my devotees, having shown supreme devotion to me, will come to me alone, without doubt.
+
+> ya imaṃ paramaṃ guhyaṃ madbhakteṣvabhidhāsyati|bhakitaṃ mayi parāṃ kṛtvā māmevaiṣyatyasaṃśayaḥ
+
+_level: conventional · standpoint: devotional · path: devotion · stage: all · types: teacher-transmission, karma-liberation_
+
+terms: [guhya](../terms/guhya.md), [bhakti](../terms/bhakti.md), [parā bhakti](../terms/para-bhakti.md), [bhakta](../terms/bhakta.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md), [Devotion (bhakti)](../concepts/bhakti.md) · practices: [Study and hearing of the Gītā](../practices/gita-study.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.69 <a id="tea-bhagavad-gita-18-69"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: no one among humans does me dearer service than he, and no other on earth will be dearer to me than he.
+
+> na ca tasmānmanuṣyeṣu kaśicanme priyakṛttamaḥ|bhavitā na ca me tasmādanyaḥ priyataro bhuvi
+
+_level: conventional · standpoint: devotional · path: devotion · stage: all · types: teacher-transmission_
+
+concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · practices: [Study and hearing of the Gītā](../practices/gita-study.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 18.69-71 <a id="tea-bhagavad-gita-18-69-71"></a>
 `sourced` · confidence high
 
@@ -9135,25 +10287,62 @@ _level: conventional · standpoint: devotional · path: knowledge, sound, devoti
 
 terms: [jñāna-yajña](../terms/jnana-yajna.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · practices: [Study and hearing of the Gītā](../practices/gita-study.md)
 
+_Superseded by [18.69](bhagavad-gita.md#tea-bhagavad-gita-18-69)_
+
+### 18.70 <a id="tea-bhagavad-gita-18-70"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: and whoever will study (adhyeṣyate) this dialogue of ours, which accords with dharma (dharmya), by him I would be worshipped with the sacrifice of knowledge (jñāna-yajña): such is my view.
+
+> adhyeṣyate ca ya imaṃ dharmyaṃ saṃvādamāvayoḥ|jñānayajñena tenāhamiṣṭaḥ syāmiti me matiḥ
+
+_level: conventional · standpoint: devotional · path: knowledge, sound, devotion · stage: all · types: teacher-transmission, practice_
+
+terms: [jñāna-yajña](../terms/jnana-yajna.md), [dharma](../terms/dharma.md), [svādhyāya](../terms/svadhyaya.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md), [Sacrifice reinterpreted (yajña)](../concepts/yajna-reinterpreted.md) · practices: [Study and hearing of the Gītā](../practices/gita-study.md), [The sacrifice of knowledge (jñāna-yajña)](../practices/jnana-yajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### 18.71 <a id="tea-bhagavad-gita-18-71"></a>
+`text-verified` · confidence high
+
+Kṛṣṇa: even the person who only hears it, with faith (śraddhā) and without cavilling (anasūya), he too, freed, would reach the auspicious worlds (loka) of those of meritorious deeds (puṇya-karman).
+
+> śraddhāvānanasūyaśca śrṛṇuyādapi yo naraḥ|so'pi muktaḥ śubhā~llokānprāpnuyātpuṇyakarmaṇām
+
+_level: conventional · standpoint: seeker · path: general · stage: beginner · types: teacher-transmission, karma-liberation_
+
+terms: [śraddhā](../terms/sraddha.md), [asūyā](../terms/asuya.md), [loka](../terms/loka.md), [puṇya](../terms/punya.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · practices: [Study and hearing of the Gītā](../practices/gita-study.md), [Hearing the scriptures (śravaṇa)](../practices/sravana.md) · obstacles: [Cavilling (asūyā)](../obstacles/asuya.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
 ### 18.72 <a id="tea-bhagavad-gita-18-72"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Kṛṣṇa asks whether Arjuna has heard this with a one-pointed mind and whether his delusion born of ignorance has been destroyed.
+Kṛṣṇa: has this been heard by you, Pārtha, with one-pointed thought (ekāgra cetas)? Has your delusion born of ignorance (ajñāna-saṃmoha) been destroyed, Dhanañjaya?
 
-_level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission_
+> kaccidetacchrutaṃ pārtha tvayaikāgreṇa cetasā|kaccidajñānasaṃmohaḥ pranaṣṭaste dhanañjaya
 
-concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md)
+_level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission, consciousness-mind_
+
+terms: [cetas](../terms/cetas.md), [ekāgra](../terms/ekagra.md), [ajñāna](../terms/ajnana.md), [moha](../terms/moha.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · obstacles: [Ignorance veiling knowledge (ajñāna)](../obstacles/ajnana.md), [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
 
 ### 18.73 <a id="tea-bhagavad-gita-18-73"></a>
-`sourced` · confidence high
+`text-verified` · confidence high
 
-Arjuna answers: my delusion is destroyed and I have regained memory by your grace; I stand firm with my doubts gone; I will do as you say.
+Arjuna: delusion (moha) is destroyed; I have regained memory (smṛti) through your grace (prasāda), Acyuta. I stand firm, my doubts gone; I will do your word.
 
-> naṣṭo mohaḥ smṛtir labdhā tvatprasādān mayācyuta sthito 'smi gatasaṃdehaḥ kariṣye vacanaṃ tava
+> arjuna uvācanaṣṭo mohaḥ smṛtirlabdhā tvatprasādānmayācyuta|sthito'smi gatasandehaḥ kariṣye vacanaṃ tava
 
-_level: bridging · standpoint: experiential · path: general · stage: all · types: karma-liberation, teacher-transmission_
+_level: conventional · standpoint: experiential · path: general, devotion · stage: unmarked · types: teacher-transmission, consciousness-mind, karma-liberation, powers-experiences_
 
-terms: [prasāda](../terms/prasada.md) · concepts: [The Lord's grace (prasāda)](../concepts/divine-grace.md) · obstacles: [Delusion (moha)](../obstacles/moha.md)
+terms: [moha](../terms/moha.md), [smṛti](../terms/smrti.md), [prasāda](../terms/prasada.md), [saṃśaya](../terms/samsaya.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md) · obstacles: [Delusion (moha)](../obstacles/moha.md), [Doubt (saṃśaya)](../obstacles/samsaya.md) · teachers: [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md)
+
+### 18.74 <a id="tea-bhagavad-gita-18-74"></a>
+`text-verified` · confidence high
+
+Sañjaya: thus I heard this wondrous (adbhuta), hair-raising (roma-harṣaṇa) dialogue between Vāsudeva and the great-souled (mahātman) Pārtha.
+
+> sañjaya uvācaityahaṃ vāsudevasya pārthasya ca mahātmanaḥ|saṃvādamimamaśrauṣamadbhutaṃ romaharṣaṇam
+
+_level: conventional · standpoint: experiential · path: general · stage: all · types: narrative, teacher-transmission, powers-experiences_
+
+terms: [Vāsudeva](../terms/vasudeva.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · teachers: [Sañjaya](../teachers/sanjaya.md), [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Dhṛtarāṣṭra](../teachers/dhrtarastra.md)
 
 ### 18.74-78 <a id="tea-bhagavad-gita-18-74-78"></a>
 `sourced` · confidence high
@@ -9163,6 +10352,54 @@ Sañjaya: thus I heard this wondrous dialogue of Vāsudeva and the great-souled 
 _level: conventional · standpoint: experiential · path: general · stage: all · types: teacher-transmission_
 
 concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md), [The divine eye (divya cakṣus)](../concepts/divine-eye.md) · teachers: [Sañjaya](../teachers/sanjaya.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md)
+
+_Superseded by [18.74](bhagavad-gita.md#tea-bhagavad-gita-18-74)_
+
+### 18.75 <a id="tea-bhagavad-gita-18-75"></a>
+`text-verified` · confidence high
+
+Sañjaya: by the grace of Vyāsa (vyāsa-prasāda) I heard this supreme secret (guhya), this yoga, directly (sākṣāt) from Kṛṣṇa, the lord of yoga (yogeśvara), as he himself was telling it.
+
+> vyāsaprasādācchrutavānetadguhyamahaṃ param|yogaṃ yogeśvarātkṛṣṇātsākṣātkathayataḥ svayam
+
+_level: conventional · standpoint: experiential · path: general · stage: all · types: teacher-transmission, narrative, powers-experiences_
+
+terms: [prasāda](../terms/prasada.md), [guhya](../terms/guhya.md), [yoga](../terms/yoga.md), [yogeśvara](../terms/yogesvara.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · teachers: [Sañjaya](../teachers/sanjaya.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md), [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Dhṛtarāṣṭra](../teachers/dhrtarastra.md)
+
+### 18.76 <a id="tea-bhagavad-gita-18-76"></a>
+`text-verified` · confidence high
+
+Sañjaya: O king, as I recall again and again this wondrous and holy (puṇya) dialogue of Keśava and Arjuna, I rejoice again and again.
+
+> rājansaṃsmṛtya saṃsmṛtya saṃvādamimamadbhutam|keśavārjunayoḥ puṇyaṃ hṛṣyāmi ca muhurmuhuḥ
+
+_level: conventional · standpoint: experiential · path: general · stage: all · types: narrative, powers-experiences_
+
+concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md) · teachers: [Sañjaya](../teachers/sanjaya.md), [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Dhṛtarāṣṭra](../teachers/dhrtarastra.md)
+
+### 18.77 <a id="tea-bhagavad-gita-18-77"></a>
+`text-verified` · confidence high
+
+Sañjaya: and as I recall again and again that most wondrous form (rūpa) of Hari, great is my amazement (vismaya), O king, and I rejoice again and again.
+
+> tacca saṃsmṛtya saṃsmṛtya rūpamatyadbhutaṃ hareḥ|
+vismayo me mahān rājan hṛṣyāmi ca punaḥ punaḥ
+
+_level: conventional · standpoint: experiential · path: devotion, general · stage: all · types: narrative, powers-experiences_
+
+terms: [viśvarūpa](../terms/visvarupa.md) · concepts: [The universal form (viśvarūpa)](../concepts/visvarupa.md) · teachers: [Sañjaya](../teachers/sanjaya.md), [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Dhṛtarāṣṭra](../teachers/dhrtarastra.md)
+
+### 18.78 <a id="tea-bhagavad-gita-18-78"></a>
+`text-verified` · confidence high
+
+Sañjaya: where Kṛṣṇa, the lord of yoga (yogeśvara), is, and where Pārtha the archer is, there are fortune (śrī), victory (vijaya), prosperity (bhūti) and firm right conduct (dhruvā nīti) — so I hold.
+
+> yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanurdharaḥ|
+tatra śrīrvijayo bhūtirdhruvā nītirmatirmama||18.78|
+
+_level: conventional · standpoint: devotional · path: general · stage: all · types: world-fate, narrative_
+
+terms: [yogeśvara](../terms/yogesvara.md) · teachers: [Sañjaya](../teachers/sanjaya.md), [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Dhṛtarāṣṭra](../teachers/dhrtarastra.md) · disputes: [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md)
 
 ### ch1 <a id="tea-bhagavad-gita-ch1"></a>
 `text-verified` · confidence high
@@ -9226,6 +10463,33 @@ Chapter 15 (20 verses) moves from the world-tree to the highest person. Movement
 _level: unmarked · standpoint: divine · path: knowledge, devotion · stage: all · types: ultimate, world-fate, karma-liberation, consciousness-mind_
 
 terms: [aśvattha](../terms/asvattha.md), [kṣara](../terms/ksara.md), [akṣara](../terms/aksara.md), [Puruṣottama](../terms/purusottama.md), [paramātman](../terms/paramatman.md), [jīva](../terms/jiva.md), [aṃśa](../terms/amsa.md), [paramaṃ dhāma](../terms/parama-dhama.md) · concepts: [The inverted aśvattha tree of saṃsāra](../concepts/asvattha-tree.md), [The perishable, the imperishable and the highest person](../concepts/three-purusas.md), [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md), [The self common to all men (vaiśvānara)](../concepts/vaisvanara.md), [The soul as a part (aṃśa) of Brahman](../concepts/jiva-as-part-of-brahman.md) · practices: [Cutting the aśvattha with the weapon of non-attachment (BhG 15.3–5)](../practices/asanga-sastra.md), [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [In what sense is the living being 'a portion of me' (mamaivāṃśo jīvaloke jīvabhūtaḥ sanātanaḥ, BhG 15.7)?](../debates/bhagavad-gita-jiva-as-amsa.md), [Who or what is the imperishable person (akṣara, called kūṭastha) of BhG 15.16, set beside the perishable (all beings) and below the highest person, and so what does it mean that the Lord is 'higher even than the imperishable' (15.18)?](../debates/bhagavad-gita-aksara-purusa.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md)
+
+### ch16 <a id="tea-bhagavad-gita-ch16"></a>
+`text-verified` · confidence high
+
+Chapter 16 (Kṛṣṇa to Arjuna; no question opens it). Structure: (1) 16.1–3 the divine endowment (daivī sampad), twenty-six qualities from fearlessness to absence of excessive pride; (2) 16.4 the demonic endowment (āsurī sampad): hypocrisy, arrogance, excessive pride, anger, harshness, ignorance; (3) 16.5 their results — release and bondage — and the assurance to Arjuna that he is born to the divine one ('do not grieve'); (4) 16.6–20 the two creations of beings and a long portrait of the demonic: their not knowing engagement and withdrawal (pravṛtti, nivṛtti) and their lack of purity, conduct and truth (16.7), their view that the world is without truth, foundation or Lord and caused by desire (16.8), their destructive deeds, insatiable desire, anxiety and unjust getting (16.9–12), their boasting inner speech (16.13–15), their fall into hell (16.16), their sacrifices in name only and hatred of the Lord in all bodies (16.17–18), and the Lord's casting them into demonic wombs birth after birth, down to the lowest state (16.19–20); (5) 16.21–22 desire, anger and greed as the threefold gate of hell, freedom from which leads to the highest goal; (6) 16.23–24 whoever sets aside the ordinance of scripture attains neither perfection, happiness nor the highest goal, so scripture is the authority for what is to be done. Purpose, as the chapter presents it: to distinguish the two endowments by their results, reassure Arjuna, and direct him to act by the authority of scripture.
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: ethics, karma-liberation_
+
+terms: [daivī sampad](../terms/daivi-sampad.md), [āsurī sampad](../terms/asuri-sampad.md), [kāma](../terms/kama.md), [krodha](../terms/krodha.md), [lobha](../terms/lobha.md), [śāstra](../terms/sastra.md), [pramāṇa](../terms/pramana.md) · concepts: [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md), [Scripture as the authority for what is to be done (śāstraṃ pramāṇam)](../concepts/sastra-as-pramana.md), [Hell (naraka)](../concepts/naraka.md) · obstacles: [The demonic endowment](../obstacles/asuri-sampad.md), [The three gates of hell: desire, anger, greed](../obstacles/three-gates-of-hell.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### ch17 <a id="tea-bhagavad-gita-ch17"></a>
+`text-verified` · confidence high
+
+Chapter 17 (Arjuna asks; Kṛṣṇa answers). Structure: (1) 17.1 Arjuna asks about those who sacrifice with faith but set aside the ordinance of scripture — is their standing sattva, rajas or tamas? (2) 17.2–6 faith is threefold, born of one's nature; the person is made of faith; the sāttvic worship the gods, the rājasic yakṣas and rākṣasas, the tāmasic the departed and spirits; those who practise terrible austerity outside scripture, tormenting the body and the Lord within it, are of demonic resolve; (3) 17.7–22 food, sacrifice, austerity and giving are each threefold: food (17.8–10); sacrifice (17.11–13); austerity of body, speech and mind (17.14–16) and its three kinds (17.17–19); giving (17.20–22); (4) 17.23–28 '[oṃ] tat sat' (this edition's 17.23 lacks oṃ) is the threefold designation of brahman: rites begin with oṃ, acts are done without aiming at fruit with 'tat' by seekers of release, 'sat' is said of being, goodness, praiseworthy acts and steadfastness in them; what is done without faith is 'asat' and worthless here and hereafter. Purpose, as the chapter presents it: to answer Arjuna's question by showing that faith and every act follow the guṇas, that the sāttvic form is done as duty without desire for fruit, and that faith is indispensable.
+
+_level: conventional · standpoint: analytic · path: ritual, general · stage: all · types: practice, ethics, sound-language_
+
+terms: [śraddhā](../terms/sraddha.md), [āhāra](../terms/ahara.md), [yajña](../terms/yajna.md), [tapas](../terms/tapas.md), [dāna](../terms/dana.md), [oṃ tat sat](../terms/om-tat-sat.md), [guṇa](../terms/guna.md) · concepts: [The three kinds of faith (śraddhā)](../concepts/three-kinds-of-faith.md), [The three kinds of food (āhāra)](../concepts/three-kinds-of-food.md), [The threefold austerity (tapas) of body, speech and mind](../concepts/threefold-austerity.md), [The three kinds of giving (dāna)](../concepts/three-kinds-of-giving.md), [The three kinds of sacrifice (yajña)](../concepts/three-kinds-of-sacrifice.md), [The three guṇas](../concepts/three-gunas.md), [Oṃ](../concepts/om.md), [Oṃ tat sat, the threefold designation of brahman](../concepts/om-tat-sat.md) · practices: [Austerity of body, speech and mind](../practices/threefold-tapas.md), [Performing rites with 'oṃ tat sat'](../practices/om-tat-sat.md), [Giving (dāna)](../practices/dana.md), [Sacrifice and eating its remains (yajña, yajña-śiṣṭa)](../practices/yajna.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md)
+
+### ch18 <a id="tea-bhagavad-gita-ch18"></a>
+`text-verified` · confidence high
+
+Chapter 18 (Arjuna asks; Kṛṣṇa teaches; Arjuna answers; Sañjaya closes). Structure: (1) 18.1 Arjuna asks the truth of renunciation (saṃnyāsa) and relinquishment (tyāga); (2) 18.2–12 two definitions reported from the wise, two opposed views on giving up action (18.3), and Kṛṣṇa's conclusion: sacrifice, giving and austerity are not to be given up but done without attachment and fruit; relinquishment is threefold; since the embodied cannot give up action entirely, the relinquisher is the one who gives up the fruit; (3) 18.13–17 the five causes of action (declared in the sāṃkhya) and the one whose disposition is not shaped by the sense of 'I', who does not slay and is not bound; (4) 18.18–40 the threefold impulse and composition of action and the guṇa-classification of knowledge, action, agent, understanding, steadfastness and happiness, closing with the statement that no being is free of the guṇas; (5) 18.41–48 the duties of the four classes from their own nature, perfection by worshipping with one's own work, the priority of one's own dharma; (6) 18.49–56 the sequence from unattached understanding and naiṣkarmya-siddhi through the discipline that makes one fit for becoming brahman, to supreme devotion, knowing and entering the Lord, and the eternal abode by grace for one who acts while taking refuge in him; (7) 18.57–66 direct commands to Arjuna: renounce all actions to me in thought, your nature will make you fight in any case, the Lord in the heart moves all beings, take refuge in him; then the most secret word: be one whose mind is on me, my devotee, one who sacrifices to me, bow to me (18.65); abandoning all dharmas, go to me alone for refuge; I will release you from all sins; do not grieve (18.66); (8) 18.67–71 who may and may not be told the teaching, and the fruit of teaching, studying and hearing it; (9) 18.72–73 Kṛṣṇa's question whether the delusion is gone and Arjuna's reply that it is, that memory is regained, and that he will do Kṛṣṇa's word; (10) 18.74–78 Sañjaya's close: the wondrous dialogue heard by Vyāsa's grace, his repeated joy, and his conviction that fortune and victory are where Kṛṣṇa and Arjuna are. Purpose, as the chapter presents it: the truth of saṃnyāsa and tyāga asked in 18.1 (answered in 18.2–12 and taken up again at 18.49 and 18.57), the word it calls 'the most secret of all' (18.64–66), and the removal of Arjuna's delusion, which the teacher checks and the disciple confirms (18.72–73).
+
+_level: conventional · standpoint: seeker · path: action, knowledge, meditation, devotion · stage: all · types: karma-liberation, practice, ethics, teacher-transmission_
+
+terms: [saṃnyāsa](../terms/samnyasa.md), [tyāga](../terms/tyaga.md), [guṇa](../terms/guna.md), [svadharma](../terms/svadharma.md), [brahmabhūta](../terms/brahmabhuta.md), [bhakti](../terms/bhakti.md), [śaraṇāgati](../terms/saranagati.md), [prasāda](../terms/prasada.md), [guhya](../terms/guhya.md), [parā bhakti](../terms/para-bhakti.md) · concepts: [Relinquishment and renunciation (tyāga and saṃnyāsa)](../concepts/tyaga-and-samnyasa.md), [The five causes of action (BhG 18.13–15)](../concepts/five-causes-of-action.md), [The guṇa-classification of knowledge, action, agent, intellect, steadfastness and happiness](../concepts/guna-typology-of-gita-18.md), [The varṇas by guṇa and action](../concepts/varna-by-guna-and-karma.md), [One's own dharma (svadharma)](../concepts/svadharma.md), [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md), [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md), [The Lord in the heart of all beings](../concepts/lord-in-the-heart.md), [The paths of the Gītā: action, knowledge, meditation and devotion](../concepts/four-yogas-of-the-gita.md) · practices: [Relinquishing the fruit of all actions](../practices/karmaphala-tyaga.md), [The Gītā's meditation (dhyāna-yoga, BhG 6.10–32)](../practices/dhyana-yoga-gita.md), [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md), [Study and hearing of the Gītā](../practices/gita-study.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Sañjaya](../teachers/sanjaya.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md), [Dhṛtarāṣṭra](../teachers/dhrtarastra.md) · disputes: [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md)
 
 ### ch2 <a id="tea-bhagavad-gita-ch2"></a>
 `text-verified` · confidence high
@@ -9299,6 +10563,15 @@ _level: unmarked · standpoint: devotional · path: devotion, knowledge, ritual 
 
 terms: [rājavidyā](../terms/rajavidya.md), [guhya](../terms/guhya.md), [ananya-bhakti](../terms/ananya-bhakti.md), [yogakṣema](../terms/yogaksema.md), [arpaṇa](../terms/arpana.md), [jñāna-yajña](../terms/jnana-yajna.md), [avyakta](../terms/avyakta.md), [prakṛti](../terms/prakrti.md) · concepts: [The Lord's lordly yoga (yogam aiśvaram): beings in him, he not in them](../concepts/aisvara-yoga.md), [Creation and dissolution of the world](../concepts/creation-and-dissolution.md), [Heaven (svarga)](../concepts/svarga.md), [The divine and demonic endowments (daivī and āsurī sampad)](../concepts/divine-and-demonic-endowments.md), [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md), [Sacrifice reinterpreted (yajña)](../concepts/yajna-reinterpreted.md), [The Lord's descent (avatāra / prādurbhāva)](../concepts/avatara.md), [Bondage of action (karma-bandha)](../concepts/bondage-of-action.md) · practices: [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md), [Devotional singing of the Lord's names and deeds (kīrtana, saṅkīrtana)](../practices/kirtana.md), [Bowing to the Lord (namaskāra)](../practices/namaskara.md), [Offering a leaf, flower, fruit or water with devotion](../practices/patram-puspam-offering.md), [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](../practices/isvararpana.md), [The sacrifice of knowledge (jñāna-yajña)](../practices/jnana-yajna.md), [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md) · obstacles: [Attachment to the rewards of ritual (vedavāda)](../obstacles/attachment-to-ritual-rewards.md), [Worship of other gods](../obstacles/anya-deva-worship.md), [Lack of faith (aśraddhā)](../obstacles/asraddha.md), [The demonic endowment](../obstacles/asuri-sampad.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md) · disputes: [Does birth (caste) determine a devotee's worth, eligibility and place — in the temple, in scripture, and among devotees?](../debates/devotee-birth-and-caste.md), [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Whom does the worship of other deities (anya-devatā) really reach, and what does it yield?](../debates/bhagavad-gita-other-deities.md), [Is the Lord who has come into manifestation in a human body only a manifest, human being?](../debates/bhagavad-gita-the-lords-embodiment.md), [Are the Vedic rites that hold out heaven, enjoyment and power all there is to seek ('there is nothing else')?](../debates/bhagavad-gita-vedavada.md)
 
+### thesis <a id="tea-bhagavad-gita-thesis"></a>
+`text-verified` · confidence moderate
+
+The thesis of the Bhagavad Gītā as its own six marks of purport (ṣaḍ-liṅga) show it, stated in the text's words; how the traditions construe these words is recorded in the notes and in dsp:gita-primary-teaching and is not decided here. (1) Opening and closing (upakrama–upasaṃhāra). The frame opens with Dhṛtarāṣṭra's question about the field of dharma (1.1) and closes with Sañjaya's verdict (18.74–78). The teaching opens on Arjuna's grief (śoka; 1.47, 2.8) and his request: his nature struck by the fault of pitiable weakness (kārpaṇya) and his thought (cetas) bewildered about dharma, he asks what is decisively better (śreyas … niścitam), as a disciple who has taken refuge (prapanna, 2.7), and says 'I will not fight' (2.9); Kṛṣṇa's first word is 'you grieve for those not to be grieved for' (2.11). The close answers it point by point: 'do not grieve' (mā śucaḥ, 18.66; also 16.5) answers 2.11; 'go to me alone for refuge' (18.66, after 'go to him alone for refuge', 18.62) answers 'prapanna' (2.7); 'abandoning all dharmas' (18.66) and the destroyed 'delusion born of ignorance' (18.72–73) answer the bewilderment about dharma (2.7); Kṛṣṇa quotes 'I will not fight' back (18.59), and Arjuna ends 'I will do your word' (18.73). (2) Repetition (abhyāsa): action without attachment to its fruit (2.47–48, 3.19, 4.20, 5.10–12, 6.1, 12.11–12, 17.11, 18.6, 18.9–11); the imperishable embodied one, who is not slain and is not the agent (2.12–30, 3.27, 5.8–9, 13.30, 14.19, 18.16–17); taking refuge in the Lord and devotion to 'me alone' (7.14, 8.14, 9.22, 9.34, 11.54, 12.2–8, 14.26, 15.19, 18.56, 18.62, 18.65–66; 18.65a repeats 9.34a); sameness toward pleasure and pain and toward all beings (2.48, 5.18–19, 6.29, 12.13–19, 14.24–25, 18.54); the guṇas as what acts and binds (3.27–29, 14.5–27, 17.2–22, 18.19–40). (3) Novelty (apūrvatā), as the text marks it: a lost yoga given again as 'the highest secret' (4.1–3), the 'royal secret' known directly (9.1–2), a form 'not seen before' (11.47–48), 'the most secret teaching' (15.20); at the close a graded mark — 'more secret than the secret' (18.63), then 'hear again my supreme word, the most secret of all' (18.64) — set on 18.65–66. (4) Stated result (phala): peace, the nirvāṇa of brahman and freedom from the bondage of action and of birth, coming to the Lord and the eternal place by his grace (2.39, 2.51, 2.71–72, 4.9, 5.24–26, 8.15–16, 9.34, 14.20, 18.56, 18.62, 18.65–66); and the result shown in the story itself: 'delusion is destroyed, memory regained through your grace; I stand firm, my doubts gone; I will do your word' (18.73). (5) Praise and blame (arthavāda): the teaching and its transmission are praised (9.2, 15.20, 18.68–71), Sañjaya praises the dialogue (18.74–78), and the demonic are blamed at length (16.7–20); as marks of purport these urge the teaching; whether particular verses are praise only (P7-arthavāda) is not decided here (see notes). (6) Reasoned demonstration (upapatti): from the nature of the embodied one (2.12–30); no one can remain without action (3.5, 18.11); the guṇas act and the self is not the agent (3.27–29, 13.30, 18.13–17); Arjuna's own nature will compel him (18.59–60); the Lord in the heart moves all beings, therefore go to him for refuge (18.61–62). By these marks the Gītā's purport is a teaching that removes Arjuna's grief and his delusion about dharma and brings him to act at Kṛṣṇa's word (2.7–11 → 18.66, 18.72–73), through knowledge of the embodied one who is not slain and does not act (2.19–21, 13.30, 13.32), action done as one's own dharma without attachment to its fruit and offered to the Lord (2.47, 3.30, 9.27–28, 18.46, 18.57), and knowing the Lord and taking refuge in him with devotion (7.14, 11.54, 18.55, 18.62, 18.66), by whose grace the eternal place is reached. The text itself once gives these an order — own work offered as worship, the perfection of freedom from action, the discipline that makes one fit for becoming brahman, supreme devotion, knowing and entering the Lord (18.45–55) — and says that the one who takes refuge in him reaches the eternal place even while acting (18.56); it closes on the word it marks as 'the most secret of all' (18.64): 'be one whose mind is on me, my devotee, one who sacrifices to me; bow to me … abandoning all dharmas, go to me alone for refuge; I will release you from all sins; do not grieve' (18.65–66). The marks do not settle what 'abandoning all dharmas' means, or which of these means is the final and direct one: there the traditions divide.
+
+_level: unmarked · standpoint: seeker · path: action, knowledge, meditation, devotion · stage: all · types: karma-liberation, practice, ultimate, ethics, teacher-transmission_
+
+terms: [soka](../terms/soka.md), [moha](../terms/moha.md), [dharma](../terms/dharma.md), [śreyas](../terms/sreyas.md), [śaraṇa](../terms/sarana.md), [śaraṇāgati](../terms/saranagati.md), [guhya](../terms/guhya.md), [prasāda](../terms/prasada.md), [karmaphala-tyāga](../terms/karmaphala-tyaga.md), [svadharma](../terms/svadharma.md), [bhakti](../terms/bhakti.md), [parā bhakti](../terms/para-bhakti.md) · concepts: [Teacher, transmission and secrecy in the Gītā and epic](../concepts/gita-transmission.md), [Action without attachment to its fruit](../concepts/niskama-karma.md), [The eternal, unslayable embodied one (dehin / śarīrin)](../concepts/imperishable-embodied-self.md), [The self is not the agent; the guṇas act](../concepts/non-agency-of-the-self.md), [One's own dharma (svadharma)](../concepts/svadharma.md), [Surrender to the Lord (śaraṇāgati / prapatti)](../concepts/surrender-to-the-lord.md), [The Lord's grace (prasāda)](../concepts/divine-grace.md), [Devotion (bhakti)](../concepts/bhakti.md), [The paths of the Gītā: action, knowledge, meditation and devotion](../concepts/four-yogas-of-the-gita.md), [The three guṇas](../concepts/three-gunas.md), [Evenness of mind (samatva)](../concepts/equanimity.md) · practices: [Karma-yoga: performing one's duty without attachment to the fruit](../practices/karma-yoga.md), [Relinquishing the fruit of all actions](../practices/karmaphala-tyaga.md), [Performing one's own dharma (svadharma)](../practices/svadharma-anusthana.md), [Resigning all actions to the Lord (mayi sarvāṇi karmāṇi saṃnyasya)](../practices/isvararpana.md), [Taking refuge in the Lord alone (śaraṇāgati)](../practices/saranagati.md), [Undivided devotion (ananya-bhakti)](../practices/ananya-bhakti.md) · obstacles: [Grief (śoka)](../obstacles/soka.md), [Delusion (moha)](../obstacles/moha.md) · teachers: [Kṛṣṇa (Vāsudeva)](../teachers/krsna.md), [Arjuna (Pārtha, Dhanaṃjaya)](../teachers/arjuna.md), [Sañjaya](../teachers/sanjaya.md), [Dhṛtarāṣṭra](../teachers/dhrtarastra.md) · disputes: [What is the Gītā's principal teaching — knowledge, action, devotion, or their combination?](../debates/gita-primary-teaching.md), [Is devotion or knowledge the higher and more direct means, and is oneness with the Lord to be desired?](../debates/bhakti-jnana-precedence.md), [Is knowledge the means of devotion, is devotion a means to knowledge, or is devotion its own fruit?](../debates/is-knowledge-the-means-of-bhakti.md), [Is the renunciation of action or the yoga of action better? (BhG 3.1–8, 5.1–6, 6.1–4, 18.1–12)](../debates/renunciation-or-action-gita.md), [Is liberation won by ritual works, by knowledge alone, by knowledge combined with works, by devotion, or by the Lord's grace — and does grace wait on the soul's surrender (the 'monkey') or carry it without cause (the 'cat')?](../debates/works-knowledge-grace.md), [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](../debates/bhagavad-gita-arjuna-should-fight.md)
+
 
 _Notes: Chapter titles are the traditional colophon titles (they vary slightly between editions; ch. 6 is also 'Ātmasaṃyama-yoga', ch. 18 'Mokṣa-saṃnyāsa-yoga' or 'Saṃnyāsa-yoga'). Verse counts per chapter checked against the local corpus; ch. 13's extra opening verse (Arjuna asking about prakṛti, puruṣa, kṣetra, kṣetrajña, jñāna and jñeya) is absent from the Critical Edition, and this unit uses the 700-verse numbering throughout._
 
@@ -9307,4 +10580,4 @@ _Notes: Chapter titles are the traditional colophon titles (they vary slightly b
 
 - 2026-09-29 text-locate: confirmed — catalog:GRETIL-dev:bhagavadgita, local:sources_raw/DharmicData/Mahabharata/mahabharata_book_6.json (BORI Critical Edition text) 6.23.1 dharmakṣetre ... ; 6.40.78 yatra yogeśvaraḥ ...; 6.22/6.41 are battle narrative, local:sources_raw/gita/data/verse.json (701 entries incl. extra 13.0 verse), https:/ — CE Bhīṣmaparvan 23–40 holds exactly 700 verses, starting at dharmakṣetre and ending at yatra yogeśvaraḥ; the local vulgate corpus has 701 with the extra verse heading ch. 13, as the entry says. Dating accounts kept as entered (scholarly range is within published estimates).
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._

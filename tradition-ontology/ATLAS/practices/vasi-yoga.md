@@ -6,10 +6,9 @@
 **Convergence:** 1 independent lineage(s): [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
 **Taught in:** [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md)
 
-Summary only: the Siddhars' mastery of the breath, imaged as binding the 'horse of twelve feet' (TM 722), placing the prāṇa in vāci after initiation (Caṭṭaimuṉi 4), so that the body becomes firm and long-lived and the breath is turned inward towards the root and crown. No counts, ratios or retention times are recorded.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Prerequisites:** initiation (tīṭcai) and a guru
-**Signs of progress:** the texts claim an undecaying body and long life (TM 722)
 **Sources:** 
   - [Tirumantiram](../texts/tirumantiram.md) — ref: 722; rests_on: ["tea:tirumantiram:722"]
   - [Caṭṭaimuṉi ñāṉam (the wisdom of Sattaimuni)](../texts/sattaimuni-nanam.md) — ref: 4; rests_on: ["tea:sattaimuni-nanam:4"]
@@ -25,4 +24,4 @@ Summary only: the Siddhars' mastery of the breath, imaged as binding the 'horse 
 _Notes: Restricted as a retention-based practice; the texts' claims are recorded as claims._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

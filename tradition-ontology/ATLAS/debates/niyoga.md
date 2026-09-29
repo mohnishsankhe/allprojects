@@ -28,4 +28,4 @@ _Notes: Commentarial details from memory (moderate)._
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/ebhAratI-sampat/dharmashAstram/smRtiH/manuH/kullUkabhaTTaH/manusmRtiH.md (eBhāratī, Kullūka o — MDh 9.59–63 (permission) and 9.64–68 (condemnation, Vena) were found. The reconciliation, which the entry marks 'from memory', is confirmed by Kullūka on MDh 9.68. Kullūka quotes Bṛhaspati: 'ukto niyogo muninā niṣiddhaḥ svayam eva tu | yugakramād aśakyo 'yaṃ kartum anyair vidhānataḥ …'. He calls the prohibition 'kaliyugaviṣayaḥ', i.e. the stage-reading of the entry's P4-stage principle. Medhātithi's alternative reading on 9.59 is on Wisdomlib.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

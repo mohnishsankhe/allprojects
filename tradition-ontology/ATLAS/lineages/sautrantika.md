@@ -57,4 +57,4 @@ _none recorded_
 _Notes: The relation between the earlier 'Dārṣṭāntikas' of the Mahāvibhāṣā and the later 'Sautrāntikas' is not settled; Tibetan doxography (grub mtha') systematizes Sautrāntika tenets differently from the Indian sources. Parent set to Sarvāstivāda (tradition: split from it)._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._

@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The four empties](four-empties.md) (death and meditation): The later synthesis identifies the death process with the stages of the completion stage; the Indian texts read state the parallel only implicitly. — rests on [5](../texts/saddharmopadesa-tilopa.md#tea-saddharmopadesa-tilopa-5), [2.4](../texts/pancakrama.md#tea-pancakrama-2-4)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._

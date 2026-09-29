@@ -12,4 +12,4 @@ The hands facing each other, the little fingers and the index fingers joined, th
   - [Śāradātilaka](../texts/saradatilaka.md) — ref: ch.4 (commentary)
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

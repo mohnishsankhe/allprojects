@@ -144,7 +144,7 @@ She is the universal one in waking, Taijasa in dream, Prājña in deep sleep, th
 
 _level: bridging · standpoint: analytic · path: knowledge, meditation · stage: all · types: consciousness-mind_
 
-terms: [Turīya](../terms/turiya.md), [turīyātīta](../terms/turiyatita.md) · concepts: [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md), [The fourth and beyond the fourth (turīya, turīyātīta)](../concepts/turiya-turiyatita.md)
+terms: [turīya](../terms/turiya.md), [turīyātīta](../terms/turiyatita.md) · concepts: [Waking, dream, deep sleep and the fourth](../concepts/four-states-and-turya.md), [The fourth and beyond the fourth (turīya, turīyātīta)](../concepts/turiya-turiyatita.md)
 
 ### 63-64 <a id="tea-lalita-sahasranama-63-64"></a>
 `skeleton` · confidence high
@@ -343,4 +343,4 @@ _level: conventional · standpoint: devotional · path: sound, devotion · stage
 _Notes: Stotra verse numbers used for teachings were checked against the local e-text (peterFreund stotram file)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._

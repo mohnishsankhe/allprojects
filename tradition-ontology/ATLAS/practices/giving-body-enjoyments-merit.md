@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Madhyamaka](../lineages/madhyamaka.md)
 **Taught in:** [Madhyamaka](../lineages/madhyamaka.md), [Prāsaṅgika-Madhyamaka](../lineages/prasangika.md)
 
-The bodhisattva mentally gives away his body, possessions and the merit of the three times to all beings, and then protects, purifies and increases them for beings' use; physical giving of the body is a matter only for those whose compassion is pure — summary only.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** all
 **Sources:** 
   - [Śikṣāsamuccaya](../texts/siksasamuccaya.md) — ref: k4-5; rests_on: ["tea:siksasamuccaya:k4"]
@@ -19,4 +19,4 @@ The bodhisattva mentally gives away his body, possessions and the merit of the t
 _Notes: Marked restricted because it touches on giving the body; only the texts' summary and warnings are recorded._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._

@@ -11,4 +11,4 @@
 Son of Nīlakaṇṭha Daivajña; author of the Pīyūṣadhārā commentary on the Muhūrtacintāmaṇi (1603).
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._

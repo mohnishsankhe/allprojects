@@ -15,4 +15,4 @@ Service of Śiva in the temple with the body: sweeping and smearing the floor, g
 **Sequences:** [The four pādas of Śaiva Siddhānta (caryā, kriyā, yoga, jñāna) and their fruits](../paths/saiva-siddhanta-four-padas.md)
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._

@@ -6,7 +6,7 @@
 **Convergence:** 2 independent lineage(s): [Bengali and Assamese Śākta tantra](../lineages/bengal-assam-sakta.md), [Kālīkula (the Kālī lineages)](../lineages/kalikula.md)
 **Taught in:** [Bengali and Assamese Śākta tantra](../lineages/bengal-assam-sakta.md), [Kālīkula (the Kālī lineages)](../lineages/kalikula.md)
 
-Rites of pacifying, subjugating, paralysing, dissension, driving away and killing, which the Mahāvidyās (especially Bagalāmukhī and Dhūmāvatī) are said to accomplish. Restricted: named only.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Bṛhaddharma Purāṇa](../texts/brhaddharma-purana.md) — ref: madhya 6.132-133; rests_on: ["tea:brhaddharma-purana:madhya.6.125-134"]
 
@@ -14,4 +14,4 @@ Rites of pacifying, subjugating, paralysing, dissension, driving away and killin
 - Worship without the proper rule is reckoned sorcery (abhicāra) and meets obstacles at every step. — [Mahānirvāṇa Tantra](../texts/mahanirvana-tantra.md) 5.23
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._

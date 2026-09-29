@@ -6,7 +6,7 @@
 **Convergence:** 2 independent lineage(s): [Kaula (the Kula tradition)](../lineages/kaula.md), [Śrīvidyā](../lineages/srividya.md)
 **Taught in:** [Kaula (the Kula tradition)](../lineages/kaula.md), [Kaula Śrīvidyā (the Vāmakeśvara–Yoginīhṛdaya exegetical line)](../lineages/kaula-srividya.md)
 
-In the Kaula mode, wine, meat, fish, grain or gesture, and union are used in secret worship as manifestations of the bliss that is Brahman's form (PKS 1.12); the right-hand and Samaya modes use substitutes or interior equivalents, and the Samaya school rejects the practice. No procedure is recorded here.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Prerequisites:** ['Kaula initiation (as the texts state)']
 **Sources:** 
@@ -18,4 +18,4 @@ In the Kaula mode, wine, meat, fish, grain or gesture, and union are used in sec
 - Rejected by the Samaya school as outside the Vedic path. — [Lakṣmīdharā (commentary on the Saundaryalaharī)](../texts/laksmidhara.md) 31, 41
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 23:14 IST._

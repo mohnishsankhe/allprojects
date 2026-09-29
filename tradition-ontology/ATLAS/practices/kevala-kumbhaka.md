@@ -6,9 +6,8 @@
 **Convergence:** 2 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
 **Taught in:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 
-RESTRICTED — summary only: the easy holding of the breath free of inhalation and exhalation, the fruit of sahita practice (HYP 2.72-73); it is said to arise spontaneously with mastery of siddhāsana (HYP 1.41). The Gheraṇḍa's kevalī is a retention measured against the count of the ajapā, with daily increments at set times (GS 5.92-99; counts not reproduced). When it is mastered nothing in the three worlds is unattainable; kuṇḍalinī awakens and the suṣumnā is freed (HYP 2.74-75; DYŚ 67-68).
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
-**Signs of progress:** ['nothing in the three worlds is hard to attain; the state of rājayoga (HYP 2.74-75)', 'awakening of kuṇḍalinī, unobstructed suṣumnā (HYP 2.75)', 'sweat, trembling, frog-like hopping, rising from the ground (DYŚ 69-76; ŚS 3.40-46)']
 **Sources:** 
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 1.41-43; rests_on: ["tea:hatha-yoga-pradipika:1.41-42", "tea:hatha-yoga-pradipika:1.43"]
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 2.72-75; rests_on: ["tea:hatha-yoga-pradipika:2.72-74", "tea:hatha-yoga-pradipika:2.75"]
@@ -36,4 +35,4 @@ RESTRICTED — summary only: the easy holding of the breath free of inhalation a
 
 - 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text. Restricted practice: the entry stays summary-only, as required, with no counts or procedures.
 
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 23:14 IST._

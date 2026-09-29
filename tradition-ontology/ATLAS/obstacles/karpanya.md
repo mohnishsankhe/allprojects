@@ -12,4 +12,4 @@ Bhagavad Gītā 1–3: Arjuna says his very nature is struck by the fault of kā
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 2.7; rests_on: ["tea:bhagavad-gita:2.7"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 23:14 IST._

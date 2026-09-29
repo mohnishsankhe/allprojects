@@ -16,4 +16,4 @@
 - same-as-under-standpoint → [Co-emergent union (lhan cig skyes sbyor)](co-emergent-union.md) (Kagyu): ordinary mind is the co-emergent mind recognized — rests on [three-coemergents](../texts/gampopa-collected-works.md#tea-gampopa-collected-works-three-coemergents)
 
 ---
-_Contributed by: skeleton:U42-chan-zen, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen, skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

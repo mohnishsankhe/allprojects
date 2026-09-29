@@ -24,11 +24,11 @@
 
 ## Equivalents (interpretation layer)
 - analogous: [saṃskāra](samskara.md) — Yoga Sūtra 4.8–9 and Yogācāra both speak of latent impressions (saṃskāra / vāsanā) that ripen; Yogācāra lodges them in the ālaya, Yoga in the citta of an unchanging puruṣa's world.
-**Related:** [bīja](bija.md), [vāsanākṣaya](vasana-ksaya.md), [dṛḍhabhāvanā](drdha-bhavana.md), [saṃskāra](samskara.md), [karmāśaya](karmasaya.md), [Taijasa](taijasa.md)
+**Related:** [bīja](bija.md), [vāsanākṣaya](vasana-ksaya.md), [dṛḍhabhāvanā](drdha-bhavana.md), [saṃskāra](samskara.md), [karmāśaya](karmasaya.md), [taijasa](taijasa.md)
 
 ---
 **Verification checks**
 
 - 2026-09-29 text: partially-confirmed — tea:yoga-sutra:3.18, tea:yoga-bhasya:3.18, tea:yoga-sutra:4.8, tea:yoga-bhasya:4.8, tea:yoga-sutra:4.9, tea:yoga-bhasya:4.9, tea:yoga-bhasya:4.9/2, tea:yoga-sutra:4.10, tea:yoga-bhasya:4.10, tea:yoga-bhasya:4.10/2, tea:yoga-sutra:4.11, tea:yoga-bhasya:4.11 — Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated.
 
-_Contributed by: extraction:yoga-sutra/p3-4, skeleton:U41-yogacara-pramana, skeleton:U06-other-gitas, skeleton:U10-yoga, skeleton:U28-hatha-texts, skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:yoga-sutra/p3-4, skeleton:U41-yogacara-pramana, skeleton:U06-other-gitas, skeleton:U10-yoga, skeleton:U28-hatha-texts, skeleton:U13-advaita, skeleton:U15-dvaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 23:14 IST._

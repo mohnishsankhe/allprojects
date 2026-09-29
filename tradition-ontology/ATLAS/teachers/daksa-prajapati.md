@@ -13,4 +13,4 @@ The Prajāpati who received Āyurveda from Brahmā and taught it to the Aśvins 
 _Notes: Caraka, Suśruta and Vāgbhaṭa say only 'Prajāpati'; Bhāvaprakāśa Pūrva 1.6 and the commentators say Dakṣa._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

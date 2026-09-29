@@ -20,4 +20,4 @@ A Sanskrit commentary on the Gaṇeśa Gītā reading it in the light of Vedānt
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:eBharati:gaNeshagItA, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/nIlakaNThaH/gaNeshagItA.md (Ānandāśrama 1906, "nīlakaṇṭhaviracitaṭīkāsametā"), https://en.wikipedia.org/wiki/Neelakantha_Chaturdhara — The commentary is extant (Ānandāśrama 1906 edition, local). Wikipedia dates Nīlakaṇṭha Caturdhara to c. 1650-1700, with the Gaṇeśa Gītā commentary written in 1693.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

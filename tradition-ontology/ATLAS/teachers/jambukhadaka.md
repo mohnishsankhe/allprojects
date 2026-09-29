@@ -8,4 +8,4 @@
 A wanderer, Sāriputta's nephew by commentarial account, who asked what nibbāna is (SN 38).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

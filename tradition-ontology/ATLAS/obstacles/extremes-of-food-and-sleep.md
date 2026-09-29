@@ -17,4 +17,4 @@ Yoga is not for one who eats too much, nor for one who does not eat at all, nor 
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.16 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 23:14 IST._

@@ -11,4 +11,4 @@ Reasoning that what persists when other things are absent (consciousness through
   - [Naiṣkarmyasiddhi](../texts/naiskarmyasiddhi.md) — ref: ch. 2; rests_on: ["tea:naiskarmyasiddhi:2"]
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

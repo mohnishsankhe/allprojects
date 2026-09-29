@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The stages of love from prema to mahābhāva](stages-of-prema.md): prema is then graded further in the Ujjvalanīlamaṇi — rests on [sthayibhava-prakarana](../texts/ujjvalanilamani.md#tea-ujjvalanilamani-sthayibhava-prakarana)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._

@@ -20,11 +20,13 @@ The guṇas bind the embodied one: sattva by attachment to happiness and knowled
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.8; rests_on: ["tea:bhagavad-gita:14.8"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.9; rests_on: ["tea:bhagavad-gita:14.9"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.20; rests_on: ["tea:bhagavad-gita:14.20"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.40; rests_on: ["tea:bhagavad-gita:18.40"]
 
 ---
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.13, tea:bhagavad-gita:7.14 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.22, tea:bhagavad-gita:14.5, tea:bhagavad-gita:14.6, tea:bhagavad-gita:14.7, tea:bhagavad-gita:14.8, tea:bhagavad-gita:14.9, tea:bhagavad-gita:14.20 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.40 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch13-15. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch07-09, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._

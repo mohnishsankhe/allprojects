@@ -12,4 +12,4 @@
 Drukpa master, disciple of Götsangpa, famous for his journey to Oḍḍiyāna and the 'approach and accomplishment of the three vajras' received there; teacher of the 3rd Karmapa, whom (by the tradition's account) he recognized as the rebirth of Karma Pakshi.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

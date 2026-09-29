@@ -23,4 +23,4 @@
 _Notes: The 'prabandha' gloss is recalled from GST ch. 18 (Uttaratantra); verse not checked._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U44-indian-vajrayana, skeleton:U45-nyingma-bon, skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U44-indian-vajrayana, skeleton:U45-nyingma-bon, skeleton:U49-cross-family. Generated 2026-09-29 23:14 IST._

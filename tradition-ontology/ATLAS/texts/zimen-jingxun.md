@@ -14,4 +14,4 @@ Anthology of exhortations to monks (including Guishan's Admonitions), later part
   - kind: original; name: CBETA XML P5, Taishō T48n2023 (T48n2023); local copy sources_raw/cbeta/T/T48/T48n2023.xml; licence: CBETA (CC BY-NC-SA 3.0 TW) — quotation with attribution
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

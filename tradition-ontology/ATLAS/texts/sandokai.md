@@ -58,4 +58,4 @@ concepts: [Principle and phenomena in Chan (li / shi, huihu)](../concepts/princi
 _Notes: Registry fixes the Japanese-derived id src:sandokai for Shitou's Cantongqi. Chanted daily in Sōtō monasteries._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

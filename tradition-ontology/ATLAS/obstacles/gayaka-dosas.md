@@ -12,4 +12,4 @@ Faults that make a singer censured — biting the teeth, shouting, hissing, fear
   - [Saṅgītaratnākara of Śārṅgadeva](../texts/sangita-ratnakara.md) — ref: 3.24-26; 1.2.140-144; rests_on: ["tea:sangita-ratnakara:3.24-26", "tea:sangita-ratnakara:1.2.140-144"]
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._

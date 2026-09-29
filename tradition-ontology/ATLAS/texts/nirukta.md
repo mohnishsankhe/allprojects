@@ -208,7 +208,7 @@ Which are the four quarters of speech (RV 1.164.45)? Oṃ and the three great ut
 
 _level: conventional · standpoint: analytic · path: sound, knowledge · stage: all · types: sound-language, dispute_
 
-terms: [vāc](../terms/vac.md), [Turīya](../terms/turiya.md), [oṃ](../terms/om.md), [vyāhṛti](../terms/vyahrti.md) · concepts: [The four quarters of speech](../concepts/four-quarters-of-speech.md) · teachers: [Yāska](../teachers/yaska.md)
+terms: [vāc](../terms/vac.md), [turīya](../terms/turiya.md), [oṃ](../terms/om.md), [vyāhṛti](../terms/vyahrti.md) · concepts: [The four quarters of speech](../concepts/four-quarters-of-speech.md) · teachers: [Yāska](../teachers/yaska.md)
 
 
 ---
@@ -216,4 +216,4 @@ terms: [vāc](../terms/vac.md), [Turīya](../terms/turiya.md), [oṃ](../terms/o
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:DCS:Nirukta, catalog:GRETIL-dev:yaska_nirukta, https://en.wikipedia.org/wiki/Nirukta, https://en.wikipedia.org/wiki/Y%C4%81ska — Extant; 12 + 2 pariśiṣṭa adhyāyas locally (GRETIL keys run to 14). Wikipedia: modern scholars place Yāska between the 7th and 5th c. BCE, before Pāṇini, which agrees with the entry's 600–400 BCE.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

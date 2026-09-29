@@ -10,4 +10,4 @@
 Sakya scholar of the Perfection of Wisdom and Madhyamaka; teacher of Rongtön.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

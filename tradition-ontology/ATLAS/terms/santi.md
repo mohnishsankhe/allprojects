@@ -12,6 +12,7 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: Supreme peace attained soon after gaining knowledge (4.39); lasting (naiṣṭhikī) peace for the yoked one who gives up the fruit (5.12); peace from knowing the Lord as enjoyer of sacrifices, lord of worlds and friend of all (5.29); peace culminating in nirvāṇa and abiding in the Lord (6.15).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: Peace, which follows immediately on relinquishing the fruit of actions (12.12).
 - [Jyotiṣa (the science of the lights)](../lineages/jyotisa.md): In jyotiṣa, the pacification of planets, portents and inauspicious births by worship, oblation and gifts (BS 45.3–7; BPHS 84–96; YājñSm 1.295–308).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: Peace: a mark of the divine endowment (16.2); one at peace (śānta) is fit for becoming Brahman (18.53); by the grace of the Lord taken as refuge one attains supreme peace (18.62).
 - [Kerala tantra (temple-tantra tradition of Kerala)](../lineages/kerala-tantra.md): Resident priests who perform the daily pūjās in a Kerala temple under the tantri's authority.
 
 ## Forms in other languages
@@ -25,5 +26,6 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.39, tea:bhagavad-gita:5.12, tea:bhagavad-gita:5.29, tea:bhagavad-gita:6.15 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.12 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:16.2, tea:bhagavad-gita:18.53, tea:bhagavad-gita:18.62 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U32-jyotisa, skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U32-jyotisa, extraction:bhagavad-gita/ch16-18, skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._

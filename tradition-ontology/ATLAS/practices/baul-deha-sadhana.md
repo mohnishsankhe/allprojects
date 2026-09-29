@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Bāul](../lineages/baul.md)
 **Taught in:** [Bāul](../lineages/baul.md)
 
-RESTRICTED. A secret, guru-given practice of the couple and of the body's substances and breath, aimed at reversing the downward current and 'catching' the Man of the Heart in the body; recorded here only as its aim and the tradition's warnings — no method is given.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Sources:** 
   - [Bāul gān (the corpus of Bāul songs of other masters)](../texts/baul-gan.md) — ref: songs of the uncatchable Man and the tide; rests_on: ["tea:baul-gan:adhar-manus-and-the-tide"]
@@ -16,4 +16,4 @@ RESTRICTED. A secret, guru-given practice of the couple and of the body's substa
 - The practice is secret and must not be revealed to the unqualified. — [Bāul gān (the corpus of Bāul songs of other masters)](../texts/baul-gan.md) 
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._

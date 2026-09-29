@@ -16,4 +16,4 @@ Friendliness towards all living beings, delight in those superior in virtue, com
 
 - 2026-09-29 text: confirmed — tea:tattvartha-sutra:7.11 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:tattvartha-sutra/karma-passions. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:tattvartha-sutra/karma-passions. Generated 2026-09-29 23:14 IST._

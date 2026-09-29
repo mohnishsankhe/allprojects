@@ -14,4 +14,4 @@
 The oldest surviving Kuṟaḷ commentary; the commentator's own affiliation is disputed (some consider him a Jain).
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._

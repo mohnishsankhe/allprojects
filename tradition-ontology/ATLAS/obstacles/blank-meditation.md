@@ -16,4 +16,4 @@ Resting in a thought-free blankness mistaken for realisation; Sakya Paṇḍita 
 - partial: [Mere non-thought mistaken for wisdom](mere-non-thought.md) — Kamalaśīla's critique of mere non-thought, on which both draw
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

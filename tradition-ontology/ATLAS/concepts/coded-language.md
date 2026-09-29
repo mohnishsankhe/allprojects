@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [Reversed speech (ulaṭbāṃsī)](ulatbamsi.md): The Sant upside-down song and the Bengali coded song share the device of paradox that hides and reveals. — rests on [ek-acambha-dekha-re-bhai](../texts/kabir-oral-corpus.md#tea-kabir-oral-corpus-ek-acambha-dekha-re-bhai), [adhar-manus-and-the-tide](../texts/baul-gan.md#tea-baul-gan-adhar-manus-and-the-tide)
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._

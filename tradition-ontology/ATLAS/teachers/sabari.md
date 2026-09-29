@@ -15,4 +15,4 @@ A forest woman of low birth, disciple of the sage Mataṅga, who waited for Rām
 - 2026-09-29 text-locate: confirmed — local:DharmicData Rāmāyaṇa (vulgate) 3.73.26 (śramaṇī śabarī), 3.74.31-35 — Located as described.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/vaiShNavam/adhyAtma-rAmAyaNam/goraxapura-pAThaH/raw/hindi.html (Gita Press) — AR 3.10.20-43. Her guru, the sage Mataṅga, is named in the Gita Press gloss on 3.10.13 (the verse itself says 'guru').
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._

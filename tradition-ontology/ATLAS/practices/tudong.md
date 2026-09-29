@@ -15,4 +15,4 @@ Wandering alone or in small groups through forests and mountains, dwelling under
 - partial: [The thirteen ascetic practices (dhutaṅga)](dhutanga.md) — the Thai forest form of the ascetic practices
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

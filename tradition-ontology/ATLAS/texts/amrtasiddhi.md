@@ -46,7 +46,7 @@ The central channel (madhyamā) is where sun and moon are to be united; when the
 
 _level: conventional · standpoint: analytic · path: body-breath · stage: all · types: body-layers_
 
-terms: [suṣumnā](../terms/susumna.md) · concepts: [Suṣumnā, the central channel](../concepts/susumna-central-channel.md)
+terms: [suṣumnā](../terms/susumna.md) · concepts: [Suṣumnā, the central channel (HYP)](../concepts/susumna-central-channel.md)
 
 ### topic.sun-moon <a id="tea-amrtasiddhi-topic-sun-moon"></a>
 `skeleton` · confidence moderate
@@ -70,4 +70,4 @@ concepts: [Bindu and its retention](../concepts/bindu-natha.md) · practices: [M
 _Notes: Chapter count and attribution recalled, not checked: low confidence on details. U49 documents the Buddhist→haṭha borrowing._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._

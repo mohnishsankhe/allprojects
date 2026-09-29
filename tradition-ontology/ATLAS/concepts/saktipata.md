@@ -17,4 +17,4 @@
 - causes → [Kinds of initiation](kinds-of-diksa.md): the Kiraṇa's śaktipāta chapter leads directly into its dīkṣā chapter — rests on [6.1-4](../texts/kirana-tantra.md#tea-kirana-tantra-6-1-4)
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U08-agama-catalogue, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._

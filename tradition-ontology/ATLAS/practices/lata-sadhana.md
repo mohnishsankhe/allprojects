@@ -6,7 +6,7 @@
 **Convergence:** 2 independent lineage(s): [Kālīkula (the Kālī lineages)](../lineages/kalikula.md), [Kaula (the Kula tradition)](../lineages/kaula.md)
 **Taught in:** [Kālīkula (the Kālī lineages)](../lineages/kalikula.md), [Kaula (the Kula tradition)](../lineages/kaula.md)
 
-The Kaula rite with a female partner (latā). Restricted: named only; the Mahānirvāṇa limits it to one's own wife in the Kali age.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 
 ## The texts' own warnings
 - In the Kali age only one's own wife. — [Mahānirvāṇa Tantra](../texts/mahanirvana-tantra.md) 6.14
@@ -14,4 +14,4 @@ The Kaula rite with a female partner (latā). Restricted: named only; the Mahān
 - Women are goddesses; never to be struck, reviled or deceived. — [Kaulāvalīnirṇaya](../texts/kaulavalinirnaya.md) 10.87-88
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._

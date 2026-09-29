@@ -17,4 +17,4 @@ Kāṇha's (Kṛṣṇavajra's) Treasury of Songs on the innate, with the Apabhr
 _Notes: Colophon read locally: by 'slob dpon nag po rdo rje', translated by Vairocanavajra._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._

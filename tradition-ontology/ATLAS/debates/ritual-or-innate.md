@@ -32,4 +32,4 @@ The same authors hold both sides (Saraha's Queen Dohā requires consecration and
 **The traditions' own objections:** Some songs reject contrived meditation even as a stage (People Dohā v25: 'do not spoil the pure mind with meditations').
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._

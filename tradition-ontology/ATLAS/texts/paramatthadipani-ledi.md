@@ -29,4 +29,4 @@ teachers: [Ledi Sayadaw](../teachers/ledi-sayadaw.md) · disputes: [Is the Abhid
 _Notes: Homonym of Dhammapāla's Khuddaka commentaries; disambiguated by '-ledi'. Year from memory (low)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

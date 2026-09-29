@@ -14,4 +14,4 @@
 Deśika's treatise on the categories of Viśiṣṭādvaita — insentient substance, soul, Lord, the eternal realm, cognition and non-substances.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._

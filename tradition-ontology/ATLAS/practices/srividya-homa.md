@@ -19,4 +19,4 @@ The fire rite: preparation of the fire and offerings to the Goddess and her reti
 _Notes: U49 contribution: cross-family equivalents only (other fields copied unchanged)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U49-cross-family. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U49-cross-family. Generated 2026-09-29 23:14 IST._

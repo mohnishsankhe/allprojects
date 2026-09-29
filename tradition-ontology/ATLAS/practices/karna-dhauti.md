@@ -13,4 +13,4 @@ The openings of the ears are cleaned with the tips of the index and ring fingers
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 1.33; rests_on: ["tea:gheranda-samhita:1.33"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

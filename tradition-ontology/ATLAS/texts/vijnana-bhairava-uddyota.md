@@ -16,4 +16,4 @@ Kṣemarāja's commentary on the Vijñāna Bhairava, which breaks off after v. 2
   - kind: original; name: Kashmir Series of Texts and Studies (KSTS), Srinagar 8 (1918)
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._

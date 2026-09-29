@@ -13,4 +13,4 @@ The disciple addressed by Avalokiteśvara in the Heart Sūtra (2.3, 2.4; s4, s6)
 
 - 2026-09-29 text: confirmed — src:prajnaparamita-hrdaya — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:prajnaparamita-hrdaya/all. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:prajnaparamita-hrdaya/all. Generated 2026-09-29 23:14 IST._

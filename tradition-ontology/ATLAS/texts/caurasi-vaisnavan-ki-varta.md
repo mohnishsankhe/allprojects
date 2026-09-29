@@ -14,4 +14,4 @@
 Braj Bhāṣā prose accounts of eighty-four disciples of Vallabha (including Sūrdās, Kumbhandās, Paramānanddās and Kṛṣṇadās), attributed to Gokulnāth, with Harirāy's commentary Bhāvaprakāś.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._

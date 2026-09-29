@@ -29,4 +29,4 @@ _Notes: Who may receive the Gāyatrī is part of dsp:women-caste-liberation._
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/yajnavalkya-smrti_plain_text.md (GRETIL) — MDh 2.76–78 (Oṃ, the vyāhṛtis and the Sāvitrī) and YS 1.22–25 were found. This rests on confirmed teaching checks: tea:manusmrti:2.76-78, tea:yajnavalkyasmrti:1.22-25.
 
-_Contributed by: skeleton:U31-sound-arts, skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U31-sound-arts, skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

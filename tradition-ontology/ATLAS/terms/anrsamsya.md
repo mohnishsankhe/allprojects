@@ -15,4 +15,4 @@
 **Related:** [ahiṃsā](ahimsa.md), [dharma](dharma.md)
 
 ---
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._

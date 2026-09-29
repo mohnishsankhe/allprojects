@@ -9,6 +9,7 @@
 ## Definitions by tradition
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Giving up the fruit of all actions — what the discerning call relinquishment (tyāga) (BhG 18.2, 18.11); the fourth and most accessible step of 12.11, praised above meditation in 12.12.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 4–6: expressed as abandoning attachment to the fruit of action (karmaphalāsaṅgaṃ tyaktvā, 4.20), giving up the fruit (karmaphalaṃ tyaktvā, 5.12, which brings lasting peace) and not depending on the fruit (anāśritaḥ karmaphalam, 6.1).
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: Giving up the fruit of all actions (sarva-karma-phala-tyāga) is what the discerning call tyāga (18.2); the one who relinquishes the fruit of action (karma-phala-tyāgin) is called the relinquisher, since the embodied cannot give up action entirely (18.11).
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 10–12: For one unable even to work for the Lord: resorting to his yoga, self-restrained, relinquish the fruit of all actions (12.11); it is ranked above meditation, and from relinquishment peace follows immediately (12.12).
 
 ## Forms in other languages
@@ -21,6 +22,7 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.20, tea:bhagavad-gita:5.12, tea:bhagavad-gita:6.1 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.2, tea:bhagavad-gita:18.11, tea:bhagavad-gita:18.12 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.11, tea:bhagavad-gita:12.12 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 23:14 IST._

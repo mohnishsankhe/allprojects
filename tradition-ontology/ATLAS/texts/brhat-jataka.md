@@ -219,4 +219,4 @@ concepts: [Teacher, pupil and the handing down of jyotiṣa](../concepts/jyotisa
 _Notes: Commentaries: Bhaṭṭotpala (Jagaccandrikā), Rudra (Vivaraṇa, Kerala), Govinda Bhaṭṭatiri (Daśādhyāyī on ch. 1–10)._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 23:14 IST._

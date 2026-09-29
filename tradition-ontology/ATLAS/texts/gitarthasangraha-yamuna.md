@@ -44,4 +44,4 @@ concepts: [The paths of the Gītā: action, knowledge, meditation and devotion](
 
 - 2026-09-29 catalog: confirmed — local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/3_phil/vedanta/yamuna_gitarthasangraha.md (32 verses), local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/bhagavadgItA/yamunAchAryaH/gItArthasangrahaH_vyAkhyAsahitaH.md — Extant and digitized; 32 verses, as the teacher entry says.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 23:14 IST._

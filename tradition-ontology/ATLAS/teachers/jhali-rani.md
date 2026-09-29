@@ -9,4 +9,4 @@
 Queen of Chittor who, in the Ravidāsī and Rāmānandī hagiographies, became Ravidās's disciple and invited him to her court.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._

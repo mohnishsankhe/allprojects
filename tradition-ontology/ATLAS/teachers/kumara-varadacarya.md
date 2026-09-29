@@ -12,4 +12,4 @@
 Son and disciple of Vedānta Deśika (Nayinārācārya), author of the Adhikaraṇacintāmaṇi and continuer of his father's line.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._

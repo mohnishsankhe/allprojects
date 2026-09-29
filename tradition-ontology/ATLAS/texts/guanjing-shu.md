@@ -106,4 +106,4 @@ concepts: [The parable of the two rivers and the white path](../concepts/parable
 _Notes: T37 not in the local corpus; teachings from it are recalled, no original quoted._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._

@@ -45,4 +45,4 @@ concepts: [Brahman's twofold mark (ubhaya-liṅga): free of all defect, full of 
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._

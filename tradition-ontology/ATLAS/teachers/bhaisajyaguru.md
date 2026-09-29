@@ -12,4 +12,4 @@ In Sowa Rigpa the teacher of the Four Tantras: seated in the medicine city Tanad
 **Realization — the tradition's account:** A buddha whose twelve vows (Bhaiṣajyaguru sūtra) include healing all beings.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime, skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime, skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._

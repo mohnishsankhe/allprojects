@@ -12,4 +12,4 @@ All three doṣas provoked together — the gravest imbalance, often incurable; 
   - [Suśruta Saṃhitā](../texts/susruta-samhita.md) — ref: Sū 15, 21; rests_on: ["tea:susruta-samhita:su.21.18-36", "tea:astanga-hrdaya:su.1.6-10"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

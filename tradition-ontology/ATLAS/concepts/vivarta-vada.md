@@ -11,7 +11,7 @@
 
 ## Relations (interpretation layer)
 - contrasts-with → [Pre-existence of the effect (satkāryavāda)](satkaryavada.md): Sāṃkhya's real transformation of prakṛti; Advaita accepts pariṇāma only for māyā — rests on [2.1.14](../texts/brahma-sutra.md#tea-brahma-sutra-2-1-14)
-- contrasts-with → [Non-origination (ajātivāda)](ajativada.md): vivarta speaks of appearance; ajāti denies any origination at the highest level — rests on [3.48](../texts/mandukya-karika.md#tea-mandukya-karika-3-48)
+- contrasts-with → [Ajātivāda (non-origination) — Kārikā 2.32](ajativada.md): vivarta speaks of appearance; ajāti denies any origination at the highest level — rests on [3.48](../texts/mandukya-karika.md#tea-mandukya-karika-3-48)
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

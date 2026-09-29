@@ -36,4 +36,4 @@
 _Notes: Not the cosmic ignorance of Advaita._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U15-dvaita, skeleton:U11-nyaya-vaisesika, skeleton:U40-madhyamaka, skeleton:U14-visistadvaita, skeleton:U24-kali-kaula, skeleton:U38-early-schools, skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U13-advaita, skeleton:U09-samkhya, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U15-dvaita, skeleton:U11-nyaya-vaisesika, skeleton:U40-madhyamaka, skeleton:U14-visistadvaita, skeleton:U24-kali-kaula, skeleton:U38-early-schools, skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._

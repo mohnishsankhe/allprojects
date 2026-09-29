@@ -11,4 +11,4 @@
 Drukpa hierarch recognized by one party as Pema Karpo's rebirth; after the succession dispute he went to Bhutan (1616), unified it, and founded the Southern Drukpa state tradition.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

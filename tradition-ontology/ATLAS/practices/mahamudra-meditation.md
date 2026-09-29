@@ -23,4 +23,4 @@ After the preliminaries and the guru's pointing-out, the meditator settles the m
 _Notes: Not the haṭha 'mahāmudrā' seal (prc:mahamudra), which is a different practice with the same name._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

@@ -18,4 +18,4 @@ The discipline of the one seeking release: continue the obligatory and occasiona
 **Sequences:** [Kumārila's way to release (Bhāṭṭa)](../paths/kumarila-moksa.md), [The Prābhākara way to release (Śālikanātha)](../paths/prabhakara-moksa.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 23:14 IST._

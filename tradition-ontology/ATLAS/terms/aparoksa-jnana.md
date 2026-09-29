@@ -17,4 +17,4 @@
 **Related:** [bimba](bimba.md), [dhyāna](dhyana.md)
 
 ---
-_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

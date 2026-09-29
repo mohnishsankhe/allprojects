@@ -18,11 +18,11 @@
 
 ## Relations (interpretation layer)
 - causes → [The reality of the world (jagat-satyatva)](jagat-satyatva.md): the witness establishes the world's reality — rests on [1.4.95-98](../texts/anuvyakhyana.md#tea-anuvyakhyana-1-4-95-98)
-- same-as-under-standpoint → [The three states and the fourth (avasthā-traya, turīya)](three-states-and-turiya.md): the witness of the three states is the fourth — rests on [1.10](../texts/mandukya-karika.md#tea-mandukya-karika-1-10), [1.3](../texts/pancadasi.md#tea-pancadasi-1-3)
+- same-as-under-standpoint → [The three states and the fourth (waking, dream, deep sleep, turīya)](three-states-and-turiya.md): the witness of the three states is the fourth — rests on [1.10](../texts/mandukya-karika.md#tea-mandukya-karika-1-10), [1.3](../texts/pancadasi.md#tea-pancadasi-1-3)
 
 ---
 **Verification checks**
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/kena-upanisad/segments.jsonl (Advaita-Śāradā mūla Kena_pada.md, Śaṅkara numbering), text:sources_raw/prepared/svetasvatara-upanisad/segments.jsonl  — The word 'sākṣī' is located at ŚU 6.11 ('sākṣī cetā kevalo nirguṇaś ca'). The other refs (BĀU 3.4.2, 2.4.14, 3.7.23, 3.8.11; Kena 1.2) are located. All 6 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 3.4.2; BĀU 2.4.14; BĀU 3.7.23; BĀU 3.8.11; Kena 1.2; ŚU 6.11). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U03-principal-upanisads, skeleton:U09-samkhya, skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U03-principal-upanisads, skeleton:U09-samkhya, skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

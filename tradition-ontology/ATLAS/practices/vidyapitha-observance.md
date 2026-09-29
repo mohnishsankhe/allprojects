@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
 **Taught in:** [Mantramārga (the Path of Mantras)](../lineages/mantramarga.md)
 
-The Vidyāpīṭha sādhaka, to master a goddess-mantra, lives in Kāpālika style — cremation ground, skull-bowl, offerings to yoginīs — for a fixed period. Recorded as summary only; no procedures.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Brahmayāmala (Picumata)](../texts/brahmayamala.md) — 
 
@@ -16,4 +16,4 @@ The Vidyāpīṭha sādhaka, to master a goddess-mantra, lives in Kāpālika sty
 _Notes: Sexual and impure-substance rites of the Yāmala tantras are not described (restricted)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._

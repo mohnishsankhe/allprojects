@@ -20,4 +20,4 @@
 - partial: [anugraha](anugraha.md) — aruḷ is also Śiva's power itself
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory, skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

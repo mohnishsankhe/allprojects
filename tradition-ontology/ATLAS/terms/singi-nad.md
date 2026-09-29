@@ -14,4 +14,4 @@
 **Related:** [selī (nād-janeū)](seli.md), [nāda](nada.md), [anāhata nāda](anahata-nada.md)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._

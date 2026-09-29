@@ -1,18 +1,23 @@
 # Vijñāna Bhairava dhāraṇā 9: The five voids like the eyes of a peacock's feather
 
-`prc:vbt-dharana-9` · `skeleton` · confidence moderate
+`prc:vbt-dharana-9` · `sourced` · confidence moderate
 
 **Category:** visualization-deity
 **Convergence:** 2 independent lineage(s): [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Trika ('the Triad')](../lineages/trika.md)
 **Taught in:** [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Trika ('the Triad')](../lineages/trika.md)
 
-For one who meditates on the five voids as [like] the variegated circles on a peacock's feathers, entry into the heart, the unsurpassed void, takes place.
-**Stage:** unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas
-**Prerequisites:** The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).
+The practitioner is asked to meditate on the five voids (śūnya-pañcaka) as if they were the variegated circles on a peacock's feathers.
+**Stage:** unmarked in the text
+**Prerequisites:** The text reserves the teaching for those devoted to the teacher's feet, of thought-free mind, heroes of lofty self (VBT 157-159).
+**Signs of progress:** The verse says that entry into the unsurpassed void (anuttara śūnya) takes place in the heart.
 **Sources:** 
   - [Vijñānabhairava](../texts/vijnana-bhairava-tantra.md) — ref: 32; rests_on: ["tea:vijnana-bhairava-tantra:32"]
 
-_Notes: Verses 32 (KSTS 8 / GRETIL numbering). The 'five voids' are read by commentators as the five sense-faculties or five elements (interpretation)._
+_Notes: Text-derived summary of GRETIL verse(s) 32; the skeleton entry's name and numbering are kept._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — sources_raw/prepared/vijnana-bhairava-tantra/segments.jsonl — Judge J: method summary, name, restricted flag and rests_on checked against the verse(s) 32; level not raised (entities stay sourced).
+
+_Contributed by: extraction:vijnana-bhairava-tantra/all, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._

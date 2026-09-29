@@ -21,4 +21,4 @@
 U51 owns pth:mahamudra-four-yogas (stage 7 expanded). Some teachers give the pointing-out before or together with vipaśyanā; the order is the manuals' usual one.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

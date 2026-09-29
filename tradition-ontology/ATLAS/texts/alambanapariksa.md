@@ -52,4 +52,4 @@ teachers: [Dignāga](../teachers/dignaga.md)
 _Notes: The Sanskrit in the local e-text is a modern restoration, not a manuscript text; do not quote it as original._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._

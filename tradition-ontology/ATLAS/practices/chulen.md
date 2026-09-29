@@ -6,7 +6,7 @@
 **Convergence:** 3 independent lineage(s): [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md), [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md), [Sowa Rigpa (gso ba rig pa), the Tibetan science of healing](../lineages/sowa-rigpa.md)
 **Taught in:** [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md), [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md), [Sowa Rigpa (gso ba rig pa), the Tibetan science of healing](../lineages/sowa-rigpa.md)
 
-Summary only (restricted where it restricts ordinary food). Rejuvenating regimens in which the practitioner, often in retreat, lives on or supplements food with prepared essences (of flowers, minerals and other substances) to restore vigour, prolong life and support meditation.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Sources:** 
   - [The Oral Instruction Tantra (man ngag rgyud) of the Four Tantras](../texts/gyushi-mengagyu.md) — ref: rejuvenation; rests_on: ["tea:gyushi-mengagyu:rejuvenation"]
@@ -19,4 +19,4 @@ Summary only (restricted where it restricts ordinary food). Rejuvenating regimen
 - analogous: [Hut-entering rejuvenation (kuṭīprāveśika)](kutipravesika-rasayana.md) — rejuvenation in seclusion
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._

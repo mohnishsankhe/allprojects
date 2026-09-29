@@ -14,4 +14,4 @@
 Śvetāmbara scholastic, author of the Viśeṣāvaśyakabhāṣya (with the Gaṇadharavāda) and, by tradition, the Dhyānaśataka; defender of the view that the omniscient's knowledge and perception occur in sequence.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

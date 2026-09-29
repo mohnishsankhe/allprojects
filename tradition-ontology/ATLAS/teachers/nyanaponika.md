@@ -13,4 +13,4 @@
 German-born Sri Lankan monk (1901–1994), co-founder of the Buddhist Publication Society, who trained in the Mahāsi method and presented satipaṭṭhāna as 'bare attention' in The Heart of Buddhist Meditation.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 23:14 IST._

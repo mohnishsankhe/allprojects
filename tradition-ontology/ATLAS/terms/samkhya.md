@@ -12,6 +12,7 @@
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 13.25: some see the self by the yoga of sāṃkhya (sāṃkhyena yogena), as others by meditation or by karma-yoga.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 1–3: The way in which the understanding of 2.11–38 was declared, contrasted with 'yoga' (2.39); the sāṃkhyas are those whose commitment is the yoga of knowledge (3.3). The chunk does not relate the term to a school.
 - [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 5.4–5: Sāṃkhya, which the childish, not the learned, call separate from Yoga; the place reached by the followers of Sāṃkhya is reached also by those of Yoga, and one who sees them as one sees. In context it stands with renunciation/knowledge.
+- [Epic teaching (the Mahābhārata's Sāṃkhya-Yoga and Mokṣadharma milieu)](../lineages/epic-teaching.md): Bhagavad Gītā 16–18: The five causes of action are 'declared in the sāṃkhya, in its conclusion' (18.13), and the threefold division of knowledge, action and agent 'in the enumeration of the guṇas' (guṇa-saṃkhyāna, 18.19); the verses do not identify the body of teaching further.
 
 ## Forms in other languages
 - Chinese: Shulun 數論 — exact — as used in Chinese Buddhist accounts of Sāṃkhya (Paramārtha, Kuiji); recalled, verify
@@ -27,5 +28,6 @@ _Notes: U05's definition (the epic usage); classical Sāṃkhya is defined by U0
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.25 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.4, tea:bhagavad-gita:5.5 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.13, tea:bhagavad-gita:18.19 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U09-samkhya, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U05-gita-epic, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch16-18. Generated 2026-09-29 23:14 IST._

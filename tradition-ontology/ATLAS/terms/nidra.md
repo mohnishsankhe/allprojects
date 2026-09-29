@@ -21,4 +21,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:14.8 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch13-15, skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch13-15, skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

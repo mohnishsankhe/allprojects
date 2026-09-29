@@ -21,4 +21,4 @@ Chieftain of Tiruvāli-Tirunakari in the Cōḻa country, from the Kaḷḷar co
 _Notes: Aṃśa of the bow Śārṅga in the tradition's list (moderate). The Nāgapaṭṭinam image story is the hagiographies' and is recorded here as such._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 23:14 IST._

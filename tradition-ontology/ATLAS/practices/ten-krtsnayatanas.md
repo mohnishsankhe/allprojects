@@ -12,7 +12,7 @@ Earth, water, fire, wind, blue, yellow, red, white, space and consciousness cont
   - [Abhidharmakośa (Abhidharmakośakārikā)](../texts/abhidharmakosa.md) — ref: 8.35-36; rests_on: ["tea:abhidharmakosa:8.35-36"]
 
 ## Equivalents (interpretation layer)
-- exact: [The earth kasiṇa (pathavī-kasiṇa)](kasina-earth.md) — Same totality in the Pali/Visuddhimagga list.
+- exact: [The earth kasiṇa (pathavī-kasiṇa), taking the learning sign (Vism IV p. 125)](kasina-earth.md) — Same totality in the Pali/Visuddhimagga list.
 - exact: [The water kasiṇa (āpo-kasiṇa)](kasina-water.md) — Same totality in the Pali/Visuddhimagga list.
 - exact: [The fire kasiṇa (tejo-kasiṇa)](kasina-fire.md) — Same totality in the Pali/Visuddhimagga list.
 - exact: [The air kasiṇa (vāyo-kasiṇa)](kasina-air.md) — Same totality in the Pali/Visuddhimagga list.
@@ -23,4 +23,4 @@ Earth, water, fire, wind, blue, yellow, red, white, space and consciousness cont
 - partial: [The space kasiṇa (paricchinnākāsa (limited space)-kasiṇa)](kasina-space.md) — Kośa: the formless totality of space; Visuddhimagga: the limited-space kasiṇa.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._

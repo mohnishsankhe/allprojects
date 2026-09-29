@@ -15,4 +15,4 @@
 - exact: [vājīkaraṇa](vajikarana.md) — the same branch of the eight
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 23:14 IST._

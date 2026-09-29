@@ -35,4 +35,4 @@ The Lord is the cause who makes human effort fruitful; results do not arise with
 _Notes: Nyāya Sūtra side from memory (U11 owns the text); no teaching id created here._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 23:14 IST._

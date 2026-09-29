@@ -41,4 +41,4 @@ concepts: [Discriminative vision (viveka-khyāti)](../concepts/viveka-khyati.md)
 
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 23:14 IST._

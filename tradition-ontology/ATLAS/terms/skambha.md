@@ -15,4 +15,4 @@
 - partial: [jyeṣṭha brahman](jyestha-brahman.md) — AVŚ 10.7.17 joins knowing Brahman in man, the highest Brahman and Skambha.
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:14 IST._

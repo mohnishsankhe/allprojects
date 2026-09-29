@@ -24,4 +24,4 @@ Taken in youth or middle age after purification, by the self-controlled, either 
 - same-under-standpoint: [Kāya kaṟpam (rejuvenation of the body)](kaya-kalpa.md) (rejuvenation) — Siddha rejuvenation regimens
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

@@ -1,18 +1,22 @@
 # Vijñāna Bhairava dhāraṇā 6: The power rising like lightning through the cakras
 
-`prc:vbt-dharana-6` · `skeleton` · confidence moderate
+`prc:vbt-dharana-6` · `sourced` · confidence moderate · _restricted: summary only_
 
 **Category:** energy
 **Convergence:** 2 independent lineage(s): [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Trika ('the Triad')](../lineages/trika.md)
 **Taught in:** [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Trika ('the Triad')](../lineages/trika.md)
 
-[Contemplate her] rising in the form of lightning, from wheel (cakra) to wheel, step by step, upward as far as three fists [above the head]; at the end there is the great arising.
-**Stage:** unmarked in the text; later commentators and translators assign the dhāraṇās to the four upāyas
-**Prerequisites:** The text reserves the teaching for those devoted to the teacher's feet, heroic and free of thought-constructs, and forbids giving it to another's disciple, the wicked or the cruel (VBT 157-159).
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
+**Stage:** unmarked in the text
+**Prerequisites:** The text reserves the teaching for those devoted to the teacher's feet, of thought-free mind, heroes of lofty self (VBT 157-159).
 **Sources:** 
   - [Vijñānabhairava](../texts/vijnana-bhairava-tantra.md) — ref: 29; rests_on: ["tea:vijnana-bhairava-tantra:29"]
 
-_Notes: Verses 29 (KSTS 8 / GRETIL numbering). Grammatically continues v. 28 (the accusative depends on 'cintayet'); Ānandabhaṭṭa: 'he shows this very thing with the sixth'._
+_Notes: Text-derived summary of GRETIL verse(s) 29; the skeleton entry's name and numbering are kept. Restricted: summary only; the text gives no caution of its own._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — sources_raw/prepared/vijnana-bhairava-tantra/segments.jsonl — Judge J: method summary, name, restricted flag and rests_on checked against the verse(s) 29; level not raised (entities stay sourced).
+
+_Contributed by: extraction:vijnana-bhairava-tantra/all, skeleton:U19-kashmir-saivism. Generated 2026-09-29 23:14 IST._

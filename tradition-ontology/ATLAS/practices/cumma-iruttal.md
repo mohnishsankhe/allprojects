@@ -18,4 +18,4 @@ The silent guru's instruction 'be still': resting without the mind's movement, w
 - partial: [Silence of the muni (mauna, mauneya)](mauna.md) — inner stillness beyond outer silence
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

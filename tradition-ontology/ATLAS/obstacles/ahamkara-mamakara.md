@@ -15,4 +15,4 @@ Grasping at 'I' and 'mine', which arises from grasping at the aggregates and bri
   - [Bodhicaryāvatāra](../texts/bodhicaryavatara.md) — ref: 9.78; rests_on: ["tea:bodhicaryavatara:9.78"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._

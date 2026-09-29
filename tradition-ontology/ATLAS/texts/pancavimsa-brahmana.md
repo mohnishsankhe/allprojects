@@ -41,4 +41,4 @@ _Notes: Commentary: Sāyaṇa._
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Pañcaviṃśabrāhmaṇa, catalog:GRETIL-dev:panchavimsabrahmana, https://en.wikipedia.org/wiki/Panchavimsha_Brahmana, https://en.wikipedia.org/wiki/Brahmana — Extant; 25 adhyāyas; the Vrātyastoma is at 17.1–4 and the Prajāpati–Speech passage at 20.14.2 (both text-located). The low-confidence date estimate is within the general Brāhmaṇa range (Wikipedia 'Brahmana').
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

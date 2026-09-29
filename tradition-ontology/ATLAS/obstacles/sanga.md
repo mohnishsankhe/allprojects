@@ -21,6 +21,10 @@ Bhagavad Gītā 1–3: Attachment arises from dwelling on objects and gives rise
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 14.7; rests_on: ["tea:bhagavad-gita:14.7"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 15.3; rests_on: ["tea:bhagavad-gita:15.3"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 15.5; rests_on: ["tea:bhagavad-gita:15.5"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.6; rests_on: ["tea:bhagavad-gita:18.6"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.9; rests_on: ["tea:bhagavad-gita:18.9"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.23; rests_on: ["tea:bhagavad-gita:18.23"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.26; rests_on: ["tea:bhagavad-gita:18.26"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 11.55; rests_on: ["tea:bhagavad-gita:11.55"]
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 12.18; rests_on: ["tea:bhagavad-gita:12.18"]
 
@@ -29,6 +33,7 @@ Bhagavad Gītā 1–3: Attachment arises from dwelling on objects and gives rise
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.23, tea:bhagavad-gita:5.10, tea:bhagavad-gita:5.11, tea:bhagavad-gita:5.21, tea:bhagavad-gita:6.4 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:13.10, tea:bhagavad-gita:13.22, tea:bhagavad-gita:14.6, tea:bhagavad-gita:14.7, tea:bhagavad-gita:15.3, tea:bhagavad-gita:15.5 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:18.6, tea:bhagavad-gita:18.9, tea:bhagavad-gita:18.23, tea:bhagavad-gita:18.26 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:11.55, tea:bhagavad-gita:12.18 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch13-15, extraction:bhagavad-gita/ch16-18, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 23:14 IST._

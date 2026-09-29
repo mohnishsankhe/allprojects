@@ -23,4 +23,4 @@
 _Notes: The same Tibetan word names different doctrines in Nyingma and Bön usage; do not merge the definitions._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U45-nyingma-bon, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 23:14 IST._

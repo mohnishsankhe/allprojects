@@ -11,4 +11,4 @@
 Disciple of Nāthamuni and teacher of Maṇakkāl Nambi; the tradition says he preferred the Lord's service to learning yoga.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._

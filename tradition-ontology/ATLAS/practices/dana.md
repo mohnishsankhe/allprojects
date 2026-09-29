@@ -11,6 +11,9 @@ Give because it ought to be given, to one who makes no return, at the right plac
 **Sources:** 
   - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 17.20–22; rests_on: ["tea:bhagavad-gita:17.20-22"]
   - [Mahābhārata](../texts/mahabharata.md) — ref: 14.92–93; rests_on: ["tea:mahabharata:14.92-93"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 17.20-22; rests_on: ["tea:bhagavad-gita:17.20", "tea:bhagavad-gita:17.21", "tea:bhagavad-gita:17.22"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 18.5-6; rests_on: ["tea:bhagavad-gita:18.5", "tea:bhagavad-gita:18.6"]
+  - [Bhagavad Gītā](../texts/bhagavad-gita.md) — ref: 17.20, 18.5; rests_on: ["tea:bhagavad-gita:17.20", "tea:bhagavad-gita:18.5"]
   - [Ṛgveda Saṃhitā](../texts/rgveda.md) — ref: 10.117; rests_on: ["tea:rgveda:10.117.1", "tea:rgveda:10.117.6"]
   - [Ṛgveda Saṃhitā](../texts/rgveda.md) — ref: 10.107; rests_on: ["tea:rgveda:10.107.2"]
   - [Kūṭadanta Sutta](../texts/kutadanta-sutta.md) — ref: 22-27; rests_on: ["tea:kutadanta-sutta:22-27"]
@@ -23,6 +26,8 @@ Give because it ought to be given, to one who makes no return, at the right plac
   - [Mārkaṇḍeya Purāṇa](../texts/markandeya-purana.md) — ref: 10.68; rests_on: ["tea:markandeya-purana:10.46-78"]
 
 ## The texts' own warnings
+- Giving for a return, for fruit or grudgingly is rājasic. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 17.21
+- Giving at the wrong place and time, to the unworthy, without respect and with contempt is tāmasic. — [Bhagavad Gītā](../texts/bhagavad-gita.md) 17.22
 - Who eats alone has only sin; the wealth of the non-giver finds no one to pity him. — [Ṛgveda Saṃhitā](../texts/rgveda.md) 10.117.1, 6
 
 _Notes: U05's contribution to a shared practice._
@@ -30,7 +35,8 @@ _Notes: U05's contribution to a shared practice._
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:bhagavad-gita:17.20, tea:bhagavad-gita:17.21, tea:bhagavad-gita:17.22, tea:bhagavad-gita:18.5, tea:bhagavad-gita:18.6 — Fidelity checker F (bhagavad-gita ch16-18): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/taittiriya-upanisad/segmen — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 5.2; TU 1.11.3; ChU 3.17.4; BĀU 5.2.1-3). It rests on 3 teaching(s) text-located in this sweep, and its wording matches those passages.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/mixed/peterFreund/purANam/matsya_purana.md (full, 291 chs.) chs. 274-289 — Matsya 274-289 (local peterFreund colophons), GP 2.5.123-126 and MkP 10.68 located. All teachings it rests on were located in the local e-texts (see their checks).
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U01-vedic-samhitas, skeleton:U36-pali-suttas, skeleton:U03-principal-upanisads, skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch16-18, skeleton:U01-vedic-samhitas, skeleton:U36-pali-suttas, skeleton:U03-principal-upanisads, skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._

@@ -24,10 +24,10 @@
 
 _level: conventional · standpoint: seeker · path: general, devotion · stage: all · types: teacher-transmission, practice_
 
-terms: [kalyāṇamittatā](../terms/kalyanamittata.md) · concepts: [Good friendship](../concepts/kalyanamittata.md) · practices: [Good friendship](../practices/kalyanamittata.md)
+terms: [kalyāṇamittatā](../terms/kalyanamittata.md) · concepts: [Good friendship](../concepts/kalyanamittata.md) · practices: [Good friendship (kalyāṇamittatā), the teacher who gives the subject](../practices/kalyanamittata.md)
 
 
 _Notes: SuttaCentral uid sn45.2; Mahāsaṅgīti title 'Upaḍḍhasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

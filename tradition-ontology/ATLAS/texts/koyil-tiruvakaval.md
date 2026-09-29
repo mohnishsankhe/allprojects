@@ -15,4 +15,4 @@ Three akaval poems to the Lord of the 'temple' (Chidambaram) on the misery of em
   - kind: original; name: Cittar pāṭalkaḷ tokuppu II: Paṭṭiṉattār pāṭalkaḷ (Project Madurai 1998–2000; GRETIL Devanāgarī transliteration)
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

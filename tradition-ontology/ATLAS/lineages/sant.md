@@ -56,4 +56,4 @@ The Sants are the poet-saints of North India, from Kabīr, Ravidās and Dādū o
 _Notes: Family 'vedic' is used here for the Hindu side of the ontology, as for other bhakti lineages; the Sants themselves reject the authority of both Veda and Kitāb (Qur'ān). The Sikh Gurus are counted among the Sants by many scholars and the Ādi Granth (1604) preserves Kabīr, Ravidās, Nāmdev and other bhagats; Sikh scripture is outside this ontology's scope and is noted as context only. Exchanges with Sufis are recorded as context only (Sufism is outside scope). The Maharashtrian Vārkarī saints are the 'southern Sants' (owned by U26)._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._

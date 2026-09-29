@@ -117,4 +117,4 @@ terms: [Śriyaḥpati / Śrīman Nārāyaṇa](../terms/sriyahpati.md), [saulabh
 
 - 2026-09-29 catalog: confirmed — catalog:GRETIL:rAmAnuja-bhagavadgItAbhASya, local:sources_raw/gita/data/commentary.json (Sri Ramanujacharya) — Extant and digitized; attribution accepted. Traditional 1017–1137 and scholarly 11th–12th c. ranges are the usual ones.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._

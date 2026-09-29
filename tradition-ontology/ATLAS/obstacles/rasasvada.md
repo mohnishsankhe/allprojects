@@ -1,13 +1,13 @@
-# Relishing the bliss (rasāsvāda)
+# Rasāsvāda (relishing the happiness of the state)
 
-`obs:rasasvada` · `skeleton` · confidence high
+`obs:rasasvada` · `sourced` · confidence moderate
 
 **Category:** meditation-fault
 **Convergence:** 2 independent lineage(s): [Advaita Vedānta](../lineages/advaita-vedanta.md), [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md)
 **Taught in:** [Advaita Vedānta](../lineages/advaita-vedanta.md), [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md)
 
-Enjoying the bliss of absorption (savikalpa) and resting there, which prevents going beyond; one should be unattached through discernment (GK 3.45).
-**Antidotes:** non-attachment through discernment (prajñā)
+In the Kārikā 3.45: one should not relish (āsvādayet) the happiness there; the word rasāsvāda for this fault is the commentators'.
+**Antidotes:** `The text's counsel: be unattached (niḥsaṅga) through discernment (prajñā) (3.45).`, non-attachment through discernment (prajñā)
 **Sources:** 
   - [Māṇḍūkya Kārikā (Gauḍapāda Kārikā, Āgamaśāstra)](../texts/mandukya-karika.md) — ref: 3.45; rests_on: ["tea:mandukya-karika:3.45"]
   - [Vedāntasāra](../texts/vedantasara.md) — ref: obstacles; rests_on: ["tea:vedantasara:obstacles"]
@@ -16,4 +16,8 @@ Enjoying the bliss of absorption (savikalpa) and resting there, which prevents g
 _Notes: Partial parallel: Vedāntasāra's rasāsvāda (there: relishing the bliss of savikalpa samādhi) — same word, different object (list of obstacles to nirvikalpa samādhi; U13). Viśvanātha adds apratipatti._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — tea:mandukya-karika:3.45 — Gauḍapāda referent confirmed: data obs:rasasvada cites GK 3.45; its 'bliss of absorption (savikalpa)' is Vedāntasāra's wording and 'rasāsvāda' is the commentators' name, as the shard contribution says. Level not raised (entities are not promoted by the spot-check).
+
+_Contributed by: extraction:mandukya-karika/all, skeleton:U13-advaita, skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._

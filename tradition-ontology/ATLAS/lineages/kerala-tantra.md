@@ -47,4 +47,4 @@ _none recorded_
 _Notes: family 'vedic' is the project's A/B classification (Brahmanical vs śramaṇa); it is not a claim that this tradition treats the Veda as its final authority. Tantri families named in REPORT.md (Cēnnās, Taraṇanallūr, Tāḻaman) are given with moderate/low confidence and not as separate lineages._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 23:14 IST._

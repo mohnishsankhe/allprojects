@@ -15,4 +15,4 @@ Commentator on the Baudhāyana Dharmasūtra.
 
 - 2026-09-28 catalog: confirmed — catalog:eBharati:bodhAyana-dharmasUtram (govinda-svAmI) — Low-confidence entry confirmed as the commentator on Baudhāyana. The date is uncertain, as the entry says.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

@@ -41,7 +41,7 @@ The gods ask Prajāpati about the Self as Oṃ; its four quarters are expounded 
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, consciousness-mind_
 
-concepts: [The fourth and beyond the fourth (turīya, turīyātīta)](../concepts/turiya-turiyatita.md), [The measures of Oṃ (mātrā)](../concepts/omkara-matras.md)
+concepts: [The fourth and beyond the fourth (turīya, turīyātīta)](../concepts/turiya-turiyatita.md), [The measures of Oṃ (a, u, m)](../concepts/omkara-matras.md)
 
 
 _Notes: A commentary on it is attributed to Śaṅkara (attribution questioned); the Muktikā counts Pūrva and Uttara as one. Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
@@ -55,4 +55,4 @@ _Notes: A commentary on it is attributed to Śaṅkara (attribution questioned);
 
 - editions: Located in the local 120-Upaniṣad e-text (heading at line 9539 (collection no. 28) and its uttara part at line 9949 (no. 29)). Its place in the Muktikā canon is confirmed from the Muktikā in the same e-text: no. 27 in 1.30-39, listed under the Atharvaveda in the prose Veda lists, with that Veda's peace-chant. Group 'Vaiṣṇava' matches the Wikipedia group list. CORRECTION to editions: the skeleton gave every text the same generator default, 'Adyar Library Upaniṣad series (Schrader … 1912; … with Upaniṣad Brahmayogin's commentary)'. Schrader's 1912 volume is a critical edition of twenty Saṃnyāsa texts with his own ṭippaṇī, not Brahmayogin's commentary. Brahmayogin's commentary on the Saṃnyāsa group appeared separately in 1929 (ed. T. R. Chintamani Dikshit; Muktabodha M00334 metadata; archive.org). The Adyar volume is therefore replaced with the one volume that holds this text (Vaiṣṇava). The years 1920, 1921, 1923 and 1925, and the editor A. Mahadeva Sastri, are confirmed on the web. The group-level scholarly dating statement is generic and was not checked text by text. The tradition account (śruti, authorless) is left as it is.
 
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 23:14 IST._

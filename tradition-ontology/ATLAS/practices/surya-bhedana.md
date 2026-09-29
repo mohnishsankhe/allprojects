@@ -6,14 +6,12 @@
 **Convergence:** 2 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
 **Taught in:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md)
 
-RESTRICTED (extreme retention) — summary only: breath drawn in slowly through the right (sun) channel, held with the locks, and released through the left (HYP 2.48-50; GS 5.59-69). The texts set the limit of the retention at an extreme point, which is not reproduced. The Gheraṇḍa sets the practice in the context of the ten breaths and their seats (GS 5.61-65).
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
-**Signs of progress:** ['cleanses the skull, destroys disorders of wind and of worms (HYP 2.50)', 'destroys old age and death, awakens kuṇḍalinī, increases the bodily fire (GS 5.68-69)']
 **Sources:** 
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 2.48-50; rests_on: ["tea:hatha-yoga-pradipika:2.48-50"]
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 5.59-69; rests_on: ["tea:gheranda-samhita:5.59-60", "tea:gheranda-samhita:5.61-65", "tea:gheranda-samhita:5.66-69"]
   - [Yogakuṇḍalī Upaniṣad](../texts/yogakundali-upanisad.md) — ref: 1.19-39 (summary); rests_on: ["tea:yogakundali-upanisad:1.19-39-summary"]
-**Sequences:** [Haṭhapradīpikā: the order of practice](../paths/hyp-practice-sequence.md)
 
 ## The texts' own warnings
 - As a lion, an elephant or a tiger is tamed only slowly, so the breath must be brought under control gradually; otherwise it kills the practitioner. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 2.15
@@ -22,4 +20,4 @@ RESTRICTED (extreme retention) — summary only: breath drawn in slowly through 
 - Breath-control is to be practised by the path the guru teaches, once posture is firm and the diet wholesome and moderate. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 2.1
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

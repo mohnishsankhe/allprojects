@@ -13,7 +13,7 @@ Lack of credibility; being caught in the particular time and place of oneself or
   - [Abhinavabhāratī (Nāṭyavedavivṛti) of Abhinavagupta](../texts/abhinavabharati.md) — ref: on NŚ 6; rests_on: ["tea:abhinavabharati:6.rasasutra.vighnas"]
 
 ## Equivalents (interpretation layer)
-- contested: [Relishing the bliss (rasāsvāda)](rasasvada.md) — in Advaita the relish of bliss is itself an obstacle to samādhi; in poetics the obstacles are what block relish
+- contested: [Rasāsvāda (relishing the happiness of the state)](rasasvada.md) — in Advaita the relish of bliss is itself an obstacle to samādhi; in poetics the obstacles are what block relish
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._

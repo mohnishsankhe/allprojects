@@ -15,4 +15,4 @@
 Daoxuan's practical commentary on the Four-Part Vinaya, the foundation of the Nanshan Vinaya school.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._

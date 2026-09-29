@@ -21,4 +21,4 @@
 **Related:** [paśu](pasu.md), [pāśa](pasa.md), [paśupati](pasupati.md), [karaṇa](karana.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U17-pasupata-kapalika, skeleton:U20-virasaiva, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U17-pasupata-kapalika, skeleton:U20-virasaiva, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._

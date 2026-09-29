@@ -23,4 +23,4 @@
 _Notes: Shared id (U38 contributes the early-school definition)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U41-yogacara-pramana, skeleton:U38-early-schools, skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U41-yogacara-pramana, skeleton:U38-early-schools, skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

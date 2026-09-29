@@ -11,4 +11,4 @@
 Lay scholar of Pengcheng who joined Huiyuan on Lushan and wrote the text of the vow of 402 made by 123 persons before the image of Amitābha (Gaoseng zhuan).
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._

@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The fivefold analysis (of self or Tathāgata)](fivefold-analysis.md): the same fivefold search applied to the Buddha — rests on [22.1](../texts/mulamadhyamakakarika.md#tea-mulamadhyamakakarika-22-1)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 23:14 IST._

@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Kaula (the Kula tradition)](../lineages/kaula.md)
 **Taught in:** [Yoginī Kaula (Yoginīkaula) of Matsyendra](../lineages/yogini-kaula.md)
 
-Kaula worship of the sixty-four yoginīs and the eight-by-eight circles in a secluded place with food, fish, meat and wine, with a Śakti partner; recorded only in summary.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md) — ref: 8.4-45; rests_on: ["tea:kaulajnananirnaya:8.4-10", "tea:kaulajnananirnaya:8.30-45"]
 
@@ -15,4 +15,4 @@ Kaula worship of the sixty-four yoginīs and the eight-by-eight circles in a sec
 - One fallen from the pledge (samaya) is a paśu; dualistic attitude in the rite is condemned. — [Kaulajñānanirṇaya](../texts/kaulajnananirnaya.md) 11.3-4
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 23:14 IST._

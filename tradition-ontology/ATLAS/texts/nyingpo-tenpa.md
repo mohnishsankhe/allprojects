@@ -15,4 +15,4 @@
 The Third Karmapa's short verse treatise on buddha-nature: the ground is mind's nature, luminous and empty, obscured by adventitious stains; purification is Mahāmudrā.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 23:14 IST._

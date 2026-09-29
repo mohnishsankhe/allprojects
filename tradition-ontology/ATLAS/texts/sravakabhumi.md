@@ -53,7 +53,7 @@ The objects that purify conduct are prescribed by temperament: the unattractive 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: beginner · types: practice_
 
-concepts: [The five temperaments (carita) and their remedies](../concepts/five-temperaments.md) · practices: [Meditation objects that purify temperament](../practices/carita-visodhana.md), [Contemplation of the unlovely (aśubhā-bhāvanā)](../practices/asubha-bhavana.md), [The four immeasurables (apramāṇa)](../practices/four-immeasurables.md), [Mindfulness of breathing (Śrāvakabhūmi)](../practices/anapanasmrti-sravakabhumi.md), [Analysis of the elements (dhātuprabheda)](../practices/dhatuprabheda.md) · teachers: [Asaṅga](../teachers/asanga.md)
+concepts: [The five temperaments (carita) and their remedies](../concepts/five-temperaments.md) · practices: [Meditation objects that purify temperament](../practices/carita-visodhana.md), [Contemplation of the foul (asubha-bhāvanā): summary only](../practices/asubha-bhavana.md), [The four immeasurables (apramāṇa)](../practices/four-immeasurables.md), [Mindfulness of breathing (Śrāvakabhūmi)](../practices/anapanasmrti-sravakabhumi.md), [Analysis of the elements (dhātuprabheda)](../practices/dhatuprabheda.md) · teachers: [Asaṅga](../teachers/asanga.md)
 
 ### 2.yathavad <a id="tea-sravakabhumi-2-yathavad"></a>
 `skeleton` · confidence high
@@ -106,4 +106,4 @@ practices: [The seven attentions (sapta manaskārāḥ)](../practices/seven-atte
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._

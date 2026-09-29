@@ -24,10 +24,10 @@ A man must carry a bowl brimful of oil between a crowd and the country's beauty 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-practices: [Mindfulness directed to the body (kāyagatāsati)](../practices/kayagatasati.md)
+practices: [Mindfulness directed to the body (kāyagatāsati): summary only](../practices/kayagatasati.md)
 
 
 _Notes: SuttaCentral uid sn47.20; Mahāsaṅgīti title 'Janapadakalyāṇīsutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

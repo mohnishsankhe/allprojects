@@ -1,12 +1,13 @@
 # jīva
 
-`trm:jiva` · `skeleton` · confidence high
+`trm:jiva` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** जीव
 **Literal:** living being
 
 ## Definitions by tradition
+- [Advaita Vedānta](../lineages/advaita-vedanta.md): In the Kārikā ch.1: the one asleep under beginningless māyā who awakens to the unborn non-dual (1.16). | In the Kārikā ch.3: like the pot-space of the self; not a modification or part of it; no jīva is born. | In 4.68–4.71: made of dream, of māyā or conjured, the jīvas are born and die, "exist and do not exist"; no jīva is born.
 - [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md): The living self: the 'living self' (jīva ātman) with which being enters the elements (ChU 6.3.2); life which does not die when the body dies (ChU 6.11.3); in ŚU 5.9 the jīva is a hundredth part of a hundredth of a hair's tip yet fit for infinity.
 - [Advaita Vedānta](../lineages/advaita-vedanta.md): The individual self: Brahman appearing as limited, reflected or semblanced through the adjunct of the inner organ (and ignorance); agent, enjoyer and transmigrant only through adjuncts; in truth Brahman.
 - [Vivaraṇa school (Vivaraṇa-prasthāna)](../lineages/vivarana.md): The reflection of Brahman in avidyā/the inner organ, real and identical with the prototype.
@@ -37,6 +38,7 @@
 ---
 **Verification checks**
 
+- 2026-09-29 text: confirmed — tea:mandukya-karika:1.16, tea:mandukya-karika:3.3, tea:mandukya-karika:3.7, tea:mandukya-karika:3.48, tea:mandukya-karika:4.68, tea:mandukya-karika:4.69, tea:mandukya-karika:4.70, tea:mandukya-karika:4.71 — Definition read by J against the cited verses: sense matches the text; linked ids resolve (by code); no modern, health or restricted-practice wording. Level not raised (entities are not promoted by the spot-check).
 - 2026-09-29 text: corrected — tea:bhagavad-gita:15.7, tea:bhagavad-gita:15.8, tea:bhagavad-gita:15.9, tea:bhagavad-gita:15.10 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U20-virasaiva, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic, skeleton:U14-visistadvaita, skeleton:U23-sakta-srividya, skeleton:U33-sramana, skeleton:U24-kali-kaula, skeleton:U35-jain-philosophy, skeleton:U15-dvaita, skeleton:U02-brahmana-vedanga, skeleton:U27-sant-baul, skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:mandukya-karika/all, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U20-virasaiva, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic, skeleton:U14-visistadvaita, skeleton:U23-sakta-srividya, skeleton:U33-sramana, skeleton:U24-kali-kaula, skeleton:U35-jain-philosophy, skeleton:U15-dvaita, skeleton:U02-brahmana-vedanga, skeleton:U27-sant-baul, skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._

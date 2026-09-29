@@ -24,4 +24,4 @@ _Notes: U05's contribution (the epic account)._
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 12.337.62, 3.40.2-60 (kirāta), 3.41.7-13 (pāśupata), 12.328.24, local:gita/gita BhG 10.23 — All cited references located.
 - 2026-09-29 text-locate: confirmed — local:sources_raw/raw_etexts/purANam/mAdhva-app/kUrma-purANam.md, local:sources_raw/raw_etexts/mixed/ebhAratI-sampat/gItAH/anyagItA/gItAsangrahaH.md (Gītāsaṅgraha, Poona 1915), local:sources_raw/raw_etexts/kAvyam/padyam/peterFreund/stotram/guru_gita.md (Ganeshpuri recension), local:sources_raw/raw_e — Speaker of the Īśvara Gītā (KP 2.1-11), Śiva Gītā, Guru Gītā and Rudra Gītā (BhP 4.24.33-79); verified in each local text.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U23-sakta-srividya, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch10-12, skeleton:U05-gita-epic, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U23-sakta-srividya, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch10-12, skeleton:U05-gita-epic, skeleton:U04-minor-upanisads. Generated 2026-09-29 23:14 IST._

@@ -12,7 +12,7 @@
 ## Forms in other languages
 
 ## Equivalents (interpretation layer)
-**Related:** [ahaṃkāra](ahamkara.md), [Taijasa](taijasa.md), [bhūtādi](bhutadi.md)
+**Related:** [ahaṃkāra](ahamkara.md), [taijasa](taijasa.md), [bhūtādi](bhutadi.md)
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 23:14 IST._

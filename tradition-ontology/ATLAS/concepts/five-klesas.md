@@ -20,4 +20,4 @@
 
 - 2026-09-29 text: partially-confirmed — tea:yoga-bhasya:1.5, tea:yoga-bhasya:1.8, tea:yoga-bhasya:1.11, tea:yoga-sutra:2.2, tea:yoga-bhasya:2.2, tea:yoga-sutra:2.3, tea:yoga-bhasya:2.3, tea:yoga-sutra:2.4, tea:yoga-bhasya:2.4, tea:yoga-sutra:2.5, tea:yoga-bhasya:2.5, tea:yoga-sutra:2.6 — Level not raised (entities are not promoted by the J spot-check). By code: every linked id, top-level and nested, resolves in data/ or the two yoga-sutra shards; J's wrong-sense link table found no occurrence in the entity files; wording scan for modern-psychology, medical and prediction terms run; quoted warnings verified verbatim against the segments. Sense checked by J only through the teachings listed in evidence, all of which J read against the Sanskrit; the entity text itself was not read line by line unless stated.
 
-_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga. Generated 2026-09-29 23:14 IST._

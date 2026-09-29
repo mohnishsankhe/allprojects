@@ -16,4 +16,4 @@
 Disciple of Huineng who at the Huatai assembly (732) and in Luoyang attacked the Northern school as collateral and gradual and proclaimed Huineng the true Sixth Patriarch; raised funds for the state by ordinations during the An Lushan rebellion; in 796 an imperial commission recognised him as seventh patriarch. In the Zongbao Platform Sūtra Huineng calls him a mere 'follower of intellectual understanding'.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

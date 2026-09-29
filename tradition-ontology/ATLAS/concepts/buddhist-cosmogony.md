@@ -13,4 +13,4 @@
 - contrasts-with → [The four varṇas in the Puruṣa Sūkta](varna-in-purusa-sukta.md) (polemical): the Vedic origin of the classes from the cosmic Person's body (RV 10.90), rejected in DN 27 — rests on [10-26](../texts/agganna-sutta.md#tea-agganna-sutta-10-26)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

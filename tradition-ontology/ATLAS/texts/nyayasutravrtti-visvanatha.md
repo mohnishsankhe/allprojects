@@ -15,4 +15,4 @@
 Viśvanātha Nyāyapañcānana's running commentary on the Nyāya Sūtra, in Navya-Nyāya idiom.
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 23:14 IST._

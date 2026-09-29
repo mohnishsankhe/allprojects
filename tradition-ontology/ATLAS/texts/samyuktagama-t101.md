@@ -13,4 +13,4 @@
 A small early collection of Saṃyukta-type sūtras.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 23:14 IST._

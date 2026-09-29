@@ -82,7 +82,7 @@ One should practise the six acts: dhauti, vasti, neti, laulikī, trāṭaka and 
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice_
 
-terms: [ṣaṭkarma](../terms/satkarma.md) · concepts: [The doctrine of the cleansing acts](../concepts/satkarma-doctrine.md) · practices: [Dhauti (washing) — the class of cleansing acts](../practices/dhauti.md), [Basti / jala-basti (the water enema)](../practices/basti.md), [Neti (the nasal thread)](../practices/neti.md), [Nauli / laulikī (churning the belly)](../practices/nauli.md), [Trāṭaka (the fixed gaze)](../practices/trataka.md), [Kapālabhāti / bhālabhāti (the skull-shining)](../practices/kapalabhati.md)
+terms: [ṣaṭkarma](../terms/satkarma.md) · concepts: [The six acts: the HYP's statement of when they are needed](../concepts/satkarma-doctrine.md) · practices: [Dhauti (washing) — the class of cleansing acts](../practices/dhauti.md), [Basti / jala-basti (the water enema)](../practices/basti.md), [Neti (the nasal thread)](../practices/neti.md), [Nauli / laulikī (churning the belly)](../practices/nauli.md), [Trāṭaka (the fixed gaze)](../practices/trataka.md), [Kapālabhāti / bhālabhāti (the skull-shining)](../practices/kapalabhati.md)
 
 ### 1.13-14 <a id="tea-gheranda-samhita-1-13-14"></a>
 `skeleton` · confidence high
@@ -297,7 +297,7 @@ There are as many postures as there are kinds of living beings; Śiva taught eig
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice_
 
-concepts: [The eighty-four postures](../concepts/eighty-four-asanas.md), [The thirty-two postures of the Gheraṇḍa Saṃhitā](../concepts/thirty-two-asanas-gheranda.md) · teachers: [Ādinātha](../teachers/adinatha.md)
+concepts: [The eighty-four postures taught by Śiva (HYP)](../concepts/eighty-four-asanas.md), [The thirty-two postures of the Gheraṇḍa Saṃhitā](../concepts/thirty-two-asanas-gheranda.md) · teachers: [Ādinātha](../teachers/adinatha.md)
 
 ### 2.3-6 <a id="tea-gheranda-samhita-2-3-6"></a>
 `skeleton` · confidence high
@@ -970,7 +970,7 @@ The eight retentions are sahita, sūryabheda, ujjāyī, śītalī, bhastrikā, b
 
 _level: conventional · standpoint: analytic · path: body-breath · stage: all · types: practice_
 
-terms: [kumbhaka](../terms/kumbhaka.md) · concepts: [The eight retentions](../concepts/eight-kumbhakas.md) · practices: [Sahita-kumbhaka (retention joined with inhalation and exhalation)](../practices/sahita-kumbhaka.md), [Kevala-kumbhaka (retention alone)](../practices/kevala-kumbhaka.md)
+terms: [kumbhaka](../terms/kumbhaka.md) · concepts: [The eight retentions named in HYP 2.44](../concepts/eight-kumbhakas.md) · practices: [Sahita-kumbhaka (retention joined with inhalation and exhalation)](../practices/sahita-kumbhaka.md), [Kevala-kumbhaka (retention alone)](../practices/kevala-kumbhaka.md)
 
 ### 5.49-52 <a id="tea-gheranda-samhita-5-49-52"></a>
 `skeleton` · confidence high
@@ -1121,7 +1121,7 @@ Another gross meditation: in the pericarp of the great thousand-petalled lotus i
 
 _level: conventional · standpoint: devotional · path: meditation, devotion · stage: intermediate · types: practice, teacher-transmission_
 
-concepts: [The guru in the haṭha texts](../concepts/guru-in-hatha.md), [The centres (cakra, ādhāra)](../concepts/cakras.md) · practices: [Gross, luminous and subtle meditation (Gheraṇḍa)](../practices/gheranda-three-dhyanas.md), [Meditation on the guru's form](../practices/guru-dhyana.md)
+concepts: [The guru in haṭha](../concepts/guru-in-hatha.md), [The centres (cakra, ādhāra)](../concepts/cakras.md) · practices: [Gross, luminous and subtle meditation (Gheraṇḍa)](../practices/gheranda-three-dhyanas.md), [Meditation on the guru's form](../practices/guru-dhyana.md)
 
 ### 6.15-18 <a id="tea-gheranda-samhita-6-15-18"></a>
 `skeleton` · confidence high
@@ -1166,7 +1166,7 @@ Samādhi is the supreme reality, obtained through great good fortune, through th
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: teacher-transmission, karma-liberation_
 
-concepts: [The guru in the haṭha texts](../concepts/guru-in-hatha.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
+concepts: [The guru in haṭha](../concepts/guru-in-hatha.md) · disputes: [Is kuṇḍalinī — and the absorption it leads to — awakened by the yogin's effortful practice or by grace: the guru's, or the Lord's descent of power (śaktipāta)?](../debates/kundalini-effort-grace.md)
 
 ### 7.2 <a id="tea-gheranda-samhita-7-2"></a>
 `skeleton` · confidence high
@@ -1272,4 +1272,4 @@ concepts: [Dissolution of breath and mind (laya)](../concepts/laya-natha.md) · 
 
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._

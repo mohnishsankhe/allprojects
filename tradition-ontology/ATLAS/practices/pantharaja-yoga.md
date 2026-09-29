@@ -6,7 +6,7 @@
 **Convergence:** 2 independent lineage(s): [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Vārkarī sampradāya](../lineages/varkari.md)
 **Taught in:** [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Vārkarī sampradāya](../lineages/varkari.md)
 
-Summary only: Jñāneśvar's commentary on the Gītā's seated meditation describes posture and bodily locks waking kuṇḍalinī, her rise through the centres and merging in the supreme at the crown. No steps, holds or durations are recorded here.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Prerequisites:** ["the Gītā's conditions for meditation: a clean, steady seat, a restrained mind and senses (BhG 6.10–14), which Jñāneśvar expands", "the guru's grace in the Nāth line (Jñāneśvarī 18)"]
 **Sources:** 
@@ -16,4 +16,4 @@ Summary only: Jñāneśvar's commentary on the Gītā's seated meditation descri
 - The text's own cautions are not recorded at this skeleton stage; to be extracted from Jñāneśvarī 6 (see REPORT gaps). — [Jñāneśvarī (Bhāvārthadīpikā)](../texts/jnanesvari.md) ch.6
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 23:14 IST._

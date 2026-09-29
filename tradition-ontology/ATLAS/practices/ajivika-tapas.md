@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Ājīvika](../lineages/ajivika.md)
 **Taught in:** [Ājīvika](../lineages/ajivika.md)
 
-Summary only (restricted: severe austerity). The Sthānāṅga lists fierce austerity, severe austerity, abstention from tasty food and restraint of the tongue as the Ājīvikas' austerity.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Sthānāṅga Sūtra](../texts/sthananga-sutra.md) — ref: 4; rests_on: ["tea:sthananga-sutra:4/2"]
 
@@ -14,4 +14,4 @@ Summary only (restricted: severe austerity). The Sthānāṅga lists fierce aust
 - Austerity without right knowledge is 'the fool's austerity'. — [Uttarādhyayana Sūtra](../texts/uttaradhyayana-sutra.md) 9.44
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._

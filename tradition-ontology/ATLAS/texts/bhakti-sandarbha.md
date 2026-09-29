@@ -33,4 +33,4 @@ concepts: [The guru in Gauḍīya teaching](../concepts/guru-in-gaudiya.md) · t
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._

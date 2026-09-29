@@ -30,4 +30,4 @@ teachers: [Heze Shenhui 荷澤神會](../teachers/shenhui.md), [Shenxiu 神秀 (
 _Notes: Dunhuang manuscripts (ed. Hu Shi); not held locally. The four-phrase characterisation of Northern practice (凝心入定，住心看淨，起心外照，攝心內證) is quoted from memory — moderate confidence._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

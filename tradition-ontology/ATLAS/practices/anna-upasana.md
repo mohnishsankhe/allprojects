@@ -16,4 +16,4 @@ Those who worship food as brahman obtain all food; those who worship breath as b
 
 - 2026-09-29 text: confirmed — tea:taittiriya-upanisad:2.2.1, tea:taittiriya-upanisad:2.3.1 — Entity read against the teachings it rests on and their segments: faithful; level not raised by J.
 
-_Contributed by: extraction:taittiriya-upanisad/kosa. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:taittiriya-upanisad/kosa. Generated 2026-09-29 23:14 IST._

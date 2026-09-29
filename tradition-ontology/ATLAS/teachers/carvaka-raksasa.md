@@ -10,4 +10,4 @@ In MBh 12.39 a rākṣasa, friend of Duryodhana, who in the guise of a mendicant
 _Notes: Listed under lin:carvaka only because the school's name coincides; the epic makes no link._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 23:14 IST._

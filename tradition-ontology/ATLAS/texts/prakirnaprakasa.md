@@ -15,4 +15,4 @@
 Helārāja's commentary on book 3 of the Vākyapadīya, reading the analysis of universals, substance, time and the other categories in the light of the Word-monism; Helārāja refers to his (lost) commentary Śabdaprabhā on the first books.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 23:14 IST._

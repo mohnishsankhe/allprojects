@@ -30,4 +30,4 @@ teachers: [Śaṅkara (Ādi Śaṅkarācārya)](../teachers/sankara.md) · dispu
 _Notes: Authenticity accepted by most scholars, though some have doubted it._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._

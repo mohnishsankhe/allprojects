@@ -15,4 +15,4 @@ A short metrical smṛti on the orders of life, the householder's daily routine,
 
 - 2026-09-28 catalog: confirmed — catalog:eBharati:daxasaMhitA, catalog:eBharati:aShTAdashasmRtayaH (… iti dakṣasmṛtiḥ) — Low-confidence entry confirmed as extant (Dakṣasmṛti in the Aṣṭādaśasmṛti collection and M. N. Dutt's Dharma Śāstra vol. I).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

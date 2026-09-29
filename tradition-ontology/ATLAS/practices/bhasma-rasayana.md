@@ -6,7 +6,7 @@
 **Convergence:** 2 independent lineage(s): [Āyurveda](../lineages/ayurveda.md), [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](../lineages/rasa-sastra.md)
 **Taught in:** [Āyurveda](../lineages/ayurveda.md), [Rasa Śāstra (the science of mercury) and the Raseśvara-darśana](../lineages/rasa-sastra.md)
 
-Later Āyurveda and the rasa texts use calcined metals, minerals and mercurial compounds as rejuvenatives and medicines. RESTRICTED: summary only; no preparations or doses.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Sources:** 
   - [Rasaratnākara](../texts/rasaratnakara.md) — ref: Rasāyana-khaṇḍa; rests_on: ["tea:rasaratnakara:rasa.1.3-6"]
@@ -18,4 +18,4 @@ Later Āyurveda and the rasa texts use calcined metals, minerals and mercurial c
 - Mercury is not to be used where a vital point is injured or in burns from caustic or fire. — [Rasaratnasamuccaya](../texts/rasaratnasamuccaya.md) 11.17
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 23:14 IST._

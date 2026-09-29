@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The nine successive abidings (anupubbavihāra): four jhānas, four formless attainments, cessation](../paths/jhana-formless-cessation.md) — rests on [7-20](../texts/potthapada-sutta.md#tea-potthapada-sutta-7-20), [15-17](../texts/ariyapariyesana-sutta.md#tea-ariyapariyesana-sutta-15-17)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

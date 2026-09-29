@@ -18,4 +18,4 @@ A Vaiṣṇava encyclopedia of cosmology, dharma, astronomy and the arts (the Ci
 
 - 2026-09-29 catalog+websearch: confirmed — catalog:GRETIL-dev:visnudharmottara-purana_adhy_3343-353, https://en.wikipedia.org/wiki/Vishnudharmottara_Purana, https://ignca.gov.in/PDF_data/Review_Citrasutra_Visnudharmottara_Purana.pdf — Extant; partial local e-texts (GRETIL-dev adhy. 2.127 and 3.343-353). Web: three khaṇḍas; Kashmiri provenance; Citrasūtra in khaṇḍa 3 (chs. 35-43). The entry's date (5th-8th c., low) was not specifically checked.
 
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 23:14 IST._

@@ -27,7 +27,7 @@ The cleansing acts are eight, not six: cakrī, nauli, dhauti, neti, basti, gajak
 
 _level: conventional · standpoint: polemical · path: body-breath · stage: beginner · types: practice, dispute_
 
-concepts: [The doctrine of the cleansing acts](../concepts/satkarma-doctrine.md) · practices: [Nauli / laulikī (churning the belly)](../practices/nauli.md), [Dhauti (washing) — the class of cleansing acts](../practices/dhauti.md), [Neti (the nasal thread)](../practices/neti.md), [Basti / jala-basti (the water enema)](../practices/basti.md), [Gajakaraṇī ('the elephant's act')](../practices/gajakarani.md), [Trāṭaka (the fixed gaze)](../practices/trataka.md), [Kapālabhāti / bhālabhāti (the skull-shining)](../practices/kapalabhati.md) · disputes: [Are the cleansing acts necessary before breath-control, and how many are there?](../debates/necessity-of-satkarma.md)
+concepts: [The six acts: the HYP's statement of when they are needed](../concepts/satkarma-doctrine.md) · practices: [Nauli / laulikī (churning the belly)](../practices/nauli.md), [Dhauti (washing) — the class of cleansing acts](../practices/dhauti.md), [Neti (the nasal thread)](../practices/neti.md), [Basti / jala-basti (the water enema)](../practices/basti.md), [Gajakaraṇī ('the elephant's act')](../practices/gajakarani.md), [Trāṭaka (the fixed gaze)](../practices/trataka.md), [Kapālabhāti / bhālabhāti (the skull-shining)](../practices/kapalabhati.md) · disputes: [Are the cleansing acts necessary before breath-control, and how many are there?](../debates/necessity-of-satkarma.md)
 
 ### 3.topic.84-asanas <a id="tea-hatharatnavali-3-topic-84-asanas"></a>
 `skeleton` · confidence moderate
@@ -36,7 +36,7 @@ concepts: [The doctrine of the cleansing acts](../concepts/satkarma-doctrine.md)
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice_
 
-concepts: [The eighty-four postures](../concepts/eighty-four-asanas.md) · teachers: [Ādinātha](../teachers/adinatha.md)
+concepts: [The eighty-four postures taught by Śiva (HYP)](../concepts/eighty-four-asanas.md) · teachers: [Ādinātha](../teachers/adinatha.md)
 
 ### topic.mahayoga <a id="tea-hatharatnavali-topic-mahayoga"></a>
 `skeleton` · confidence low
@@ -51,4 +51,4 @@ terms: [mahāyoga](../terms/mahayoga.md) · concepts: [The four yogas as one gre
 _Notes: Contents recalled in outline; the Andhra provenance is a low-confidence recollection._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._

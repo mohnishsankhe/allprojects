@@ -16,4 +16,4 @@ The great scholar of the Drukpa: author of works on Mahāmudrā, the Six Yogas, 
 _Notes: The dispute over his rebirth (Paksam Wangpo vs Zhabdrung Ngawang Namgyal) led to the Zhabdrung's flight to Bhutan (1616)._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

@@ -14,4 +14,4 @@
 - contrasts-with → [Revelation as the decisive means of knowledge, the Bhāgavata as supreme (Jīva)](sabda-pramana-bhagavata.md): Opposes reliance on scripture as a means of knowledge. — rests on [bartaman-and-anuman](../texts/baul-gan.md#tea-baul-gan-bartaman-and-anuman)
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 23:14 IST._

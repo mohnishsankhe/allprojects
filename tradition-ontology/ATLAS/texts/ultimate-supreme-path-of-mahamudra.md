@@ -37,4 +37,4 @@ terms: [dkar po chig thub (the self-sufficient white remedy)](../terms/karpo-chi
 _Notes: Title from memory; content summary at low confidence._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 23:14 IST._

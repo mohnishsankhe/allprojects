@@ -54,4 +54,4 @@ concepts: [Karma and rebirth in the Siddhar songs](../concepts/siddhar-karma-reb
 _Notes: Checked in the local e-text._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 23:14 IST._

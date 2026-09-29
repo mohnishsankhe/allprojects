@@ -9,4 +9,4 @@
 Digambara ācārya (1946–2024), initiator of a very large order of naked monks and of āryikās, poet in Hindi and Sanskrit (Mūkamāṭī).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 23:14 IST._

@@ -28,4 +28,4 @@ _Notes: Outside the Muktikā canon; also transmitted in the Persian Oupnek'hat (
 
 - editions: Existence confirmed. S. K. Belvalkar published 'Four Unpublished Upaniṣadic Texts (Bāṣkala, Chāgaleya, Ārṣeya and Śaunaka)' in 1925 (Google Books), from manuscripts described by F. O. Schrader's 1908 Adyar catalogue. Web sources confirm a short text of 25 verses in which Indra as a ram carries off Medhātithi Kāṇva and reveals himself, and that it is among the Persian (Oupnek'hat) Upaniṣads. The Ṛgveda/Bāṣkala-śākhā affiliation (by name) was not independently confirmed. It is not in the local catalogue. Corrected: the edition 'Sanskrit text with Śaṅkara's bhāṣya (Advaita-Śāradā e-text)' is wrong; there is no Śaṅkara commentary or Advaita-Śāradā file for this text.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 23:14 IST._

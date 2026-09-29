@@ -16,4 +16,4 @@ Co-founder of the Caodong house; heir of Yunyan; questioned the preaching of the
 **Realization — the tradition's account:** Crossing a stream he saw his reflection and awoke, composing 'Do not seek it from others… I now go on alone and meet it everywhere; it now is me, I now am not it' (Jingde chuandeng lu juan 15).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

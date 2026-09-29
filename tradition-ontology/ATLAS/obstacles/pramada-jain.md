@@ -15,4 +15,4 @@ Heedlessness in conduct — gossip, passions, indulgence of the senses, sleep, a
 - partial: [Heedlessness (pramāda)](pramada.md) — YS 1.30 pramāda is neglect of the means to samādhi.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

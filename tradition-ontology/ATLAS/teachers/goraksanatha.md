@@ -1,9 +1,9 @@
 # Gorakṣanātha
 
-`tch:goraksanatha` · `skeleton` · confidence high
+`tch:goraksanatha` · `sourced` · confidence moderate
 
 **Alternate names:** Gorakhnāth, Gorakṣa, Gorakh, Korakkar (Tamil), Gorakṣanātha Śiva-avatāra, Gorakṣanātha, g+ho ra kha (Tibetan)
-**Lineages:** [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md), [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
+**Lineages:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md), [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md), [Vajrayāna (Mantranaya) in India](../lineages/vajrayana.md)
 **Dates:** Tradition's account: immortal; appears in all four ages (tradition); Scholarly account: c. 11th–13th c.; (confidence moderate)
 **Places:** Gorakhpur, Gorakh Ṭillā (Tilla Jogian), Nepal (Gorkha; Mṛgasthalī), Girnar, Kadri
 **Historicity:** semi-legendary
@@ -26,10 +26,14 @@
   - [Yogabīja](../texts/yogabija.md) — attribution: traditional
   - [Amanaska (Amanaskayoga)](../texts/amanaska.md) — attribution: doubtful
 
-Disciple of Matsyendra and the great organiser of the Nāth order, to whom the Nāths trace their panths, insignia and yoga; the Gorakṣaśataka, Siddhasiddhāntapaddhati, Amaraughaprabodha, Amaraughaśāsana and the Hindi Gorakh Bānī are ascribed to him. The tradition holds him immortal, appearing in every age; he rescues Matsyendra from the Kadalī kingdom, initiates Gopīcand, Bharthari and Pūraṇ Bhagat (Cauraṅgī), and in Vīraśaiva accounts meets Allama Prabhu. The Gorakhnāth Maṭh at Gorakhpur is his principal seat; Gorkha and the Gurkhas take their name from him.
+Named in HYP 1.4 (with Matsyendra) as a knower of haṭha; quoted for a rule of conduct (1.61); called the teacher of nādopāsana (4.65); a posture is called gorakṣāsana by adept yogins (1.54).
 **Realization — the tradition's account:** Born by the power of Matsyendra's ash (vibhūti) — in the common north Indian and Marathi telling, the ash given to a childless woman was thrown on a dung-heap, and Matsyendra later called forth the boy from it; the Gorakṣaguṭikā gives a different origin. Perfected in body, deathless, master of all siddhis.
 
-_Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. Names Matsyendra (ma tsin+d+hi) explicitly — Tōh 2292 itself links Mīnapa/Matsyendra, Cauraṅgi and Gorakṣa. The word 'ba dzi' in the last line is not understood._
+_Notes: Contribution from the HYP text only (ref 1.4)._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._
+**Verification checks**
+
+- 2026-09-29 text: confirmed — Level not raised (entities are not promoted by the spot-check). By code: every rests_on teaching exists in final/. J read the entry against the teachings it rests on and the segments, and checked that any existing id it reuses carries the haṭha-yoga sense in data/ (homonyms use -hyp ids).
+
+_Contributed by: extraction:hatha-yoga-pradipika/all, skeleton:U21-natha-aghora, skeleton:U28-hatha-texts, skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._

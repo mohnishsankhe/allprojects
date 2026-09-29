@@ -33,4 +33,4 @@ obstacles: [Possessiveness (parigraha)](../obstacles/parigraha.md)
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/Critical Edition/MBh12.json (BORI critical edition), local:sources_raw/raw_etexts/purANam/vaiShNavam/mahAbhAratam/gp/epub_no_img/ (Gita Press vulgate, chapter colophons) — CE 12.170 (23 verses) confirmed; CE reads 'śamyākena' (12.170.23), the vulgate colophon 'śampākagītāyām' (12.176): Śampāka is the vulgate form of the name.
 
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 23:14 IST._

@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The twelve Kālīs of the Krama](twelve-kalis.md): Kashmirian Krama analysis of the same power — rests on [4.31-32](../texts/mahanirvana-tantra.md#tea-mahanirvana-tantra-4-31-32)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 23:14 IST._

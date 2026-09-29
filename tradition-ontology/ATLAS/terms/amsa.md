@@ -28,4 +28,4 @@ _Notes: Read as a real part or as an apparent part according to school (see dsp:
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.41, tea:bhagavad-gita:10.42 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:15.7 — Fidelity checker F (bhagavad-gita ch13-15): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic, skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch13-15, skeleton:U05-gita-epic, skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._

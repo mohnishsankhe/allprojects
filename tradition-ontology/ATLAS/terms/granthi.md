@@ -17,4 +17,4 @@
 **Related:** [brahmagranthi](brahma-granthi.md), [viṣṇugranthi](visnu-granthi.md), [rudragranthi](rudra-granthi.md)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-29 23:14 IST._

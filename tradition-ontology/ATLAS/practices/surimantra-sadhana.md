@@ -6,11 +6,11 @@
 **Convergence:** 1 independent lineage(s): [Śvetāmbara](../lineages/svetambara.md)
 **Taught in:** [Śvetāmbara](../lineages/svetambara.md)
 
-A Śvetāmbara ācārya, receiving the secret Sūrimantra from his teacher at installation, periodically practises it in its five sections with fasting, silence and worship of the presiding deities; the practice is transmitted orally.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Sources:** 
   - [Mantrarājarahasya](../texts/mantrarajarahasya.md) — 
 
 _Notes: Restricted and secret: summary only._
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 23:14 IST._

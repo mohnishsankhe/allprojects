@@ -26,4 +26,4 @@ Recitation is for those of lesser capacity, or a huatou; seeking a Buddha outsid
 **The traditions' own objections:** Shandao's line (and Jōdo-shū) warns that mixed practice fails; Chan purists deny the need.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._

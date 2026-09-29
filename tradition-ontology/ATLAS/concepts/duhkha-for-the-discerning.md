@@ -23,4 +23,4 @@
 
 - (text): tāpa rendered 'torment', as in the corrected YS 2.15
 
-_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga. Generated 2026-09-29 22:32 IST._
+_Contributed by: extraction:yoga-sutra/p1-2, skeleton:U10-yoga. Generated 2026-09-29 23:14 IST._

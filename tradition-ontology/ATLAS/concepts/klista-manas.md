@@ -14,4 +14,4 @@
 - causes → [The two selflessnesses](two-selflessnesses.md): its self-grasping is what the knowledge of selflessness removes
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 23:14 IST._

@@ -13,4 +13,4 @@
 Chinese Linji master of Wanfusi (Mount Huangbo) who came to Nagasaki in 1654 and founded Manpukuji at Uji (1661), establishing the Ōbaku school.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

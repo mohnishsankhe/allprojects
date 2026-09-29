@@ -13,4 +13,4 @@
 Son of a wealthy landholder of Saptagrāma who renounced home, served Caitanya at Purī under Svarūpa Dāmodara and later lived at Rādhākuṇḍa; poet of the Stavāvalī (Manaḥśikṣā, Vilāpakusumāñjali) and exemplar of renunciation and mañjarī-bhāva.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 23:14 IST._

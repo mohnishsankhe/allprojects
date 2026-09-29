@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A washerman who washed devotees' clothes; 
 **Realization — the tradition's account:** A washerman who washed devotees' clothes; Śiva as a poor ascetic left a garment that had to be dry by evening, rain fell, and he began to dash his head against the washing stone — Śiva's hand stopped him.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 23:14 IST._

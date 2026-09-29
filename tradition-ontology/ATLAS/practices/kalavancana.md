@@ -14,4 +14,4 @@ The texts' means of postponing or conquering death: breath held in the body (HYP
   - [Dattātreyayogaśāstra](../texts/dattatreyayogasastra.md) — ref: 100-110; rests_on: ["tea:dattatreyayogasastra:100-110"]
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 23:14 IST._

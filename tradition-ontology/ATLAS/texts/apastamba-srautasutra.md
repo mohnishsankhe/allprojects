@@ -30,4 +30,4 @@ terms: [brāhmaṇa (text)](../terms/brahmana-text.md), [mantra](../terms/mantra
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Āpastambaśrautasūtra, catalog:raw_etexts:apastamba_shrauta_sutra, https://hindupedia.com/en/Apastamba — Extant; praśnas 1–24 of the Kalpasūtra; the definition of the Veda at 24.1.31 is text-located.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 23:14 IST._

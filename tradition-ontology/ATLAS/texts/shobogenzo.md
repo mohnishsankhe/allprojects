@@ -19,4 +19,4 @@ Dōgen's Japanese-language essays (1231–1253) on the buddha-way: zazen as the 
 _Notes: Not held locally (T82 no. 2582). Fascicles are entered as separate sources with part_of src:shobogenzo._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 23:14 IST._

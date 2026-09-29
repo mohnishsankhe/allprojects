@@ -20,4 +20,4 @@ Advaita-leaning teacher of Kāñcīpuram under whom Rāmānuja first studied; ta
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Yadava_Prakasa, https://books.google.com/books?id=u43i4TKAIZ4C — Confirmed as Rāmānuja's first teacher in tradition, a Bhedābheda Vedāntin, and author of the Yatidharmasamuccaya (ed. Olivelle 1995). On the text's date (11th vs 12th c.) see the check of src:yatidharmasamuccaya.
 
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U04-minor-upanisads, skeleton:U14-visistadvaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U04-minor-upanisads, skeleton:U14-visistadvaita. Generated 2026-09-29 23:14 IST._

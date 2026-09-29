@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md)
 **Taught in:** [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md)
 
-Summary only: at the time of death consciousness is sent upward with deity and seed syllable into the heart of the deity and guru, or into another body (Tilopa, from Sukhasiddhi). No method details recorded.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Prerequisites:** ['consecration', "guru's oral instruction"]
 **Sources:** 
@@ -16,4 +16,4 @@ Summary only: at the time of death consciousness is sent upward with deity and s
 - Taught only as oral instruction within the six dharmas; the text itself gives it to one prepared by the preceding yogas. — [Ṣaḍdharmopadeśa of Tilopa](../texts/saddharmopadesa-tilopa.md) 6
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 23:14 IST._

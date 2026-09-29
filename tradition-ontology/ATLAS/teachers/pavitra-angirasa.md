@@ -16,4 +16,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 
 - 2026-09-28 text-locate: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_9.json (Anukramaṇī seer/deity/metre headers) — Headers: 9.83 'pavitra āṅgirasaḥ'; 9.67.22–32 'pavitra āṅgiraso vā vasiṣṭho vā ubhau vā'.
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 23:14 IST._

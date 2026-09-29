@@ -6,7 +6,7 @@
 **Convergence:** 1 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md)
 **Taught in:** [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md)
 
-RESTRICTED — summary only: described as filling the belly with air by kākī mudrā and holding it, then, standing in navel-deep water, drawing out and washing the 'śakti-nāḍī' (the lower bowel) and returning it (GS 1.22-25). Procedure and durations are not reproduced.
+Restricted practice: recorded as a summary only (name, sources and the texts' own warnings). No method, measure or sequence is kept, and it is never recommended.
 **Stage:** advanced
 **Sources:** 
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 1.22-25; rests_on: ["tea:gheranda-samhita:1.22-25"]
@@ -16,4 +16,4 @@ RESTRICTED — summary only: described as filling the belly with air by kākī m
 - The great bahiṣkṛta-dhauti does not arise until one can hold (the air) for a long period. — [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) 1.25
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 23:14 IST._

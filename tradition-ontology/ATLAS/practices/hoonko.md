@@ -11,4 +11,4 @@ The annual assembly of gratitude on the anniversary of Shinran's death, with the
   - [Biography of Shinran (Godenshō / Honganji Shōnin Shinran den'e)](../texts/godensho.md) — ref: whole
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 23:14 IST._

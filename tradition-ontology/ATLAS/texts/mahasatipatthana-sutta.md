@@ -187,7 +187,7 @@ Contemplation of dhammas, first section: the five hindrances (nīvaraṇa). A mo
 
 _level: conventional · standpoint: seeker · path: meditation · stage: unmarked · types: practice, consciousness-mind_
 
-terms: [dhammānupassanā](../terms/dhammanupassana.md), [nīvaraṇa](../terms/nivarana.md) · concepts: [The four establishments of mindfulness (cattāro satipaṭṭhānā)](../concepts/four-satipatthanas.md), [The five hindrances (pañca nīvaraṇāni)](../concepts/five-hindrances.md) · practices: [The four establishments of mindfulness (satipaṭṭhāna)](../practices/satipatthana.md), [Contemplation of dhammas (dhammānupassanā)](../practices/dhammanupassana.md) · obstacles: [The five hindrances (nīvaraṇa)](../obstacles/five-hindrances.md), [Sensual desire (kāmacchanda)](../obstacles/kamacchanda.md), [Ill will (byāpāda)](../obstacles/byapada.md), [Dullness and drowsiness (thinamiddha)](../obstacles/thina-middha.md), [Restlessness and remorse (uddhaccakukkucca)](../obstacles/uddhacca-kukkucca.md), [Doubt (vicikicchā)](../obstacles/vicikiccha.md)
+terms: [dhammānupassanā](../terms/dhammanupassana.md), [nīvaraṇa](../terms/nivarana.md) · concepts: [The four establishments of mindfulness (cattāro satipaṭṭhānā)](../concepts/four-satipatthanas.md), [The five hindrances (pañca nīvaraṇāni)](../concepts/five-hindrances.md) · practices: [The four establishments of mindfulness (satipaṭṭhāna)](../practices/satipatthana.md), [Contemplation of dhammas (dhammānupassanā)](../practices/dhammanupassana.md) · obstacles: [The five hindrances (nīvaraṇa)](../obstacles/five-hindrances.md), [Sensual desire (kāmacchanda)](../obstacles/kamacchanda.md), [Ill will (byāpāda)](../obstacles/byapada.md), [Sloth and torpor (thīnamiddha)](../obstacles/thina-middha.md), [Restlessness and remorse (uddhaccakukkucca)](../obstacles/uddhacca-kukkucca.md), [Doubt (vicikicchā)](../obstacles/vicikiccha.md)
 
 ### dn22:14 <a id="tea-mahasatipatthana-sutta-dn22-14"></a>
 `text-verified` · confidence high
@@ -301,4 +301,4 @@ concepts: [The four establishments of mindfulness (cattāro satipaṭṭhānā)]
 _Notes: SuttaCentral uid dn22; Mahāsaṅgīti title 'Mahāsatipaṭṭhānasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 23:14 IST._

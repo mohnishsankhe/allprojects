@@ -13,4 +13,4 @@ Knowledge arises in this life only if no obstruction is present (BS 3.4.51): pre
   - [Pañcadaśī](../texts/pancadasi.md) — ref: ch. 9; rests_on: ["tea:pancadasi:9/2"]
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 22:32 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 23:14 IST._
