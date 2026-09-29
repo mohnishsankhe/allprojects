@@ -45,4 +45,4 @@ _none recorded_
 [Did the original Jain scripture survive?](../debates/canon-survival-jain.md), [Does the omniscient (kevalin) take food?](../debates/kevalin-eats.md), [Is complete nudity required of the renunciant (and for liberation)?](../debates/monastic-nudity.md)
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._

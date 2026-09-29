@@ -3,7 +3,7 @@
 `obs:dead-sitting` · `skeleton` · confidence high
 
 **Category:** meditation-fault
-**Convergence:** 2 independent lineage(s): [Linji house](../lineages/linji.md), [Rinzai Zen](../lineages/rinzai.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [Rinzai Zen](../lineages/rinzai.md), [Yangqi branch (of the Linji house)](../lineages/yangqi.md)
 
 Quietist sitting without the life of doubt or insight — 'heretical silent-illumination Chan', 'making a living in the ghost cave' (Dahui; Wumen).
@@ -13,4 +13,4 @@ Quietist sitting without the life of doubt or insight — 'heretical silent-illu
   - [Gateless Barrier (Wumen guan)](../texts/wumenguan.md) — ref: zenzhen; rests_on: ["tea:wumenguan:zenzhen"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

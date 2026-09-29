@@ -19,5 +19,6 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.1, tea:bhagavad-gita:5.2, tea:bhagavad-gita:5.3, tea:bhagavad-gita:5.4, tea:bhagavad-gita:5.5, tea:bhagavad-gita:5.6, tea:bhagavad-gita:5.13, tea:bhagavad-gita:6.1, tea:bhagavad-gita:6.2 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering), text:sources_raw/prepared/mundaka-upa — All 5 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 3.5.1; BĀU 4.4.22; MuU 3.2.6; MuU 1.2.11; ŚU 6.21). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U04-minor-upanisads, extraction:bhagavad-gita/ch04-06. Generated 2026-09-29 17:45 IST._

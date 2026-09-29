@@ -14,4 +14,4 @@
 The lost work on poetics and drama of Abhinavagupta's teacher Bhaṭṭa Tauta, known from Abhinava's citations; it is credited with the view that the experience of the hero, the poet and the spectator is the same.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._

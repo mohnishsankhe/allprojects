@@ -20,6 +20,15 @@
 {"kind": "id-remap", "unit": "skeleton:U35-jain-philosophy", "id": "tea:tattvartha-sutra:9.11", "new_id": "tea:tattvartha-sutra:9.11", "table": "config/id_remap.json"}
 {"kind": "id-remap", "unit": "skeleton:U35-jain-philosophy", "id": "tea:sarvarthasiddhi:9.11", "new_id": "tea:sarvarthasiddhi:9.11", "table": "config/id_remap.json"}
 {"kind": "id-remap", "unit": "skeleton:U35-jain-philosophy", "id": "tea:adhyatmamatapariksa:structure", "new_id": "tea:adhyatmamatapariksa:structure", "table": "config/id_remap.json"}
+{"kind": "id-remap", "unit": "skeleton:U46-kagyu", "id": "brw:heshang-charge-against-mahamudra", "new_id": "brw:heshang-charge-against-mahamudra", "table": "config/id_remap.json"}
+{"kind": "id-remap", "unit": "skeleton:U46-kagyu", "id": "cpt:three-vows", "new_id": "cpt:three-vows", "table": "config/id_remap.json"}
+{"kind": "id-remap", "unit": "skeleton:U46-kagyu", "id": "cpt:white-panacea", "new_id": "cpt:white-panacea", "table": "config/id_remap.json"}
+{"kind": "id-remap", "unit": "skeleton:U46-kagyu", "id": "dsp:sutra-mahamudra", "new_id": "dsp:sutra-mahamudra", "table": "config/id_remap.json"}
+{"kind": "id-remap", "unit": "skeleton:U46-kagyu", "id": "dsp:three-vows-one-essence", "new_id": "dsp:three-vows-one-essence", "table": "config/id_remap.json"}
+{"kind": "id-remap", "unit": "skeleton:U46-kagyu", "id": "tch:marpa", "new_id": "tch:marpa", "table": "config/id_remap.json"}
+{"kind": "id-remap", "unit": "skeleton:U46-kagyu", "id": "tea:discrimination-of-the-three-vows:ch.3", "new_id": "tea:domsum-rabye:ch.3", "table": "config/id_remap.json"}
+{"kind": "id-remap", "unit": "skeleton:U46-kagyu", "id": "tea:discrimination-of-the-three-vows:ch.3/2", "new_id": "tea:domsum-rabye:ch.3/2", "table": "config/id_remap.json"}
+{"kind": "id-remap", "unit": "skeleton:U46-kagyu", "id": "trm:karpo-chiktub", "new_id": "trm:karpo-chiktub", "table": "config/id_remap.json"}
 {"kind": "scalar", "id": "src:naradiya-siksa", "field": "genre", "kept": "śikṣā (phonetics)", "other": "śikṣā"}
 {"kind": "scalar", "id": "src:kausika-sutra", "field": "genre", "kept": "gṛhya/kalpa sūtra", "other": "gṛhyasūtra"}
 {"kind": "scalar", "id": "src:sarvanukramani", "field": "genre", "kept": "anukramaṇī (index)", "other": "anukramaṇī"}
@@ -151,6 +160,7 @@
 {"kind": "scalar", "id": "src:gandharva-tantra", "field": "availability", "kept": "unknown", "other": "digitized-original"}
 {"kind": "scalar", "id": "src:sritattvacintamani", "field": "genre", "kept": "nibandha", "other": "tantric digest"}
 {"kind": "scalar", "id": "src:sritattvacintamani", "field": "availability", "kept": "digitized-original", "other": "unknown"}
+{"kind": "scalar", "id": "src:amrtasiddhimula", "field": "availability", "kept": "digitized-translation", "other": "unknown"}
 {"kind": "scalar", "id": "src:tattvasangraha", "field": "title", "kept": "Tattvasaṅgraha of Śāntarakṣita", "other": "Tattvasaṃgraha"}
 {"kind": "scalar", "id": "src:prameyakamalamartanda", "field": "genre", "kept": "ṭīkā", "other": "pramāṇa treatise"}
 {"kind": "scalar", "id": "src:prameyakamalamartanda", "field": "title", "kept": "Prameyakamalamārtaṇḍa", "other": "Prameyakamalamārtaṇḍa of Prabhācandra"}
@@ -1122,6 +1132,9 @@
 {"kind": "scalar", "id": "trm:pranava", "field": "term", "kept": "praṇava", "other": "praṇava (oṃ)"}
 {"kind": "scalar", "id": "trm:sadanga-yoga", "field": "term", "kept": "ṣaḍaṅga yoga", "other": "ṣaḍaṅgayoga"}
 {"kind": "scalar", "id": "trm:tarka", "field": "literal", "kept": "hypothetical reasoning", "other": "reasoning; inductive reasoning"}
+{"kind": "scalar", "id": "trm:tarka", "field": "term", "kept": "tarka", "other": "gtar ga"}
+{"kind": "scalar", "id": "trm:tarka", "field": "language", "kept": "Sanskrit", "other": "Tibetan"}
+{"kind": "scalar", "id": "trm:tarka", "field": "literal", "kept": "hypothetical reasoning", "other": "bloodletting"}
 {"kind": "scalar", "id": "trm:tarka", "field": "literal", "kept": "hypothetical reasoning", "other": "reasoning"}
 {"kind": "scalar", "id": "trm:samadhi", "field": "language", "kept": "Sanskrit", "other": "Pali"}
 {"kind": "scalar", "id": "trm:samadhi", "field": "literal", "kept": "composure, absorption", "other": "concentration, collectedness"}
@@ -2325,6 +2338,7 @@
 {"kind": "scalar", "id": "trm:prabhasvara", "field": "literal", "kept": "clear light, luminosity", "other": "clear light; luminosity (Tib. 'od gsal)"}
 {"kind": "scalar", "id": "trm:candali", "field": "literal", "kept": "fierce (outcaste) woman", "other": "fierce woman"}
 {"kind": "scalar", "id": "trm:rigpa", "field": "term", "kept": "rig pa", "other": "rig pa (awareness)"}
+{"kind": "scalar", "id": "trm:marigpa", "field": "literal", "kept": "non-awareness", "other": "ignorance"}
 {"kind": "scalar", "id": "trm:kunzhi", "field": "literal", "kept": "base of all", "other": "all-base; all-ground"}
 {"kind": "scalar", "id": "trm:rangdrol", "field": "term", "kept": "rang grol", "other": "rang grol (self-liberation)"}
 {"kind": "scalar", "id": "trm:rangdrol", "field": "literal", "kept": "self-liberation", "other": "self-freed"}
@@ -2346,6 +2360,9 @@
 {"kind": "scalar", "id": "trm:lodok-namzhi", "field": "term", "kept": "blo ldog rnam bzhi", "other": "blo ldog rnam bzhi (four thoughts that turn the mind)"}
 {"kind": "scalar", "id": "trm:lodok-namzhi", "field": "literal", "kept": "the four thoughts that turn the mind", "other": "four mind-turnings"}
 {"kind": "scalar", "id": "trm:shentong", "field": "term", "kept": "gzhan stong", "other": "gzhan stong (other-emptiness)"}
+{"kind": "scalar", "id": "trm:rangtong", "field": "term", "kept": "rang stong (rangtong)", "other": "rang stong"}
+{"kind": "scalar", "id": "trm:rangtong", "field": "native", "kept": "རང་སྟོང་", "other": "རང་སྟོང"}
+{"kind": "scalar", "id": "trm:rangtong", "field": "literal", "kept": "empty of self / of own-nature", "other": "empty of self"}
 {"kind": "scalar", "id": "trm:aprameya", "field": "literal", "kept": "immeasurable; not an object of the means of knowledge", "other": "immeasurable"}
 {"kind": "scalar", "id": "trm:matpara", "field": "literal", "kept": "having me as the highest; intent on me", "other": "having me as the highest"}
 {"kind": "scalar", "id": "trm:pandita", "field": "literal", "kept": "wise, learned", "other": "learned; wise"}
@@ -2574,8 +2591,10 @@
 {"kind": "scalar", "id": "cpt:decline-of-the-dharma", "field": "name", "kept": "The two aspects of the true Dharma and its decline", "other": "The decline of the dharma (sūtra layer)"}
 {"kind": "scalar", "id": "cpt:two-truths", "field": "name", "kept": "The two truths (satyadvaya)", "other": "The two truths"}
 {"kind": "scalar", "id": "cpt:two-truths", "field": "name", "kept": "The two truths (satyadvaya)", "other": "The two truths (sūtra layer)"}
+{"kind": "scalar", "id": "cpt:two-truths", "field": "name", "kept": "The two truths (satyadvaya)", "other": "The two truths"}
 {"kind": "scalar", "id": "cpt:three-turnings", "field": "name", "kept": "The three turnings of the dharma-wheel", "other": "The three turnings of the wheel"}
 {"kind": "scalar", "id": "cpt:eight-consciousnesses", "field": "name", "kept": "The eight consciousnesses", "other": "The eight consciousnesses (sūtra layer)"}
+{"kind": "scalar", "id": "cpt:three-natures", "field": "name", "kept": "The three natures (sūtra layer)", "other": "The three natures (trisvabhāva)"}
 {"kind": "scalar", "id": "cpt:three-natures", "field": "name", "kept": "The three natures (sūtra layer)", "other": "The three natures (trisvabhāva)"}
 {"kind": "scalar", "id": "cpt:self-as-dependent-designation", "field": "name", "kept": "The self as a dependent designation", "other": "The self as mere dependent designation"}
 {"kind": "scalar", "id": "cpt:samatha-vipasyana-union", "field": "name", "kept": "The union of calm abiding and insight", "other": "Union of calm and insight"}
@@ -2632,6 +2651,8 @@
 {"kind": "scalar", "id": "obs:sankalpa", "field": "name", "kept": "Intention (saṅkalpa) as bondage", "other": "Conceiving (saṅkalpa) as bondage"}
 {"kind": "scalar", "id": "obs:samaya-bhanga", "field": "name", "kept": "Breaking the samaya", "other": "Breaking the samaya pledges"}
 {"kind": "scalar", "id": "obs:samaya-bhanga", "field": "category", "kept": "karma-type", "other": "obstacle"}
+{"kind": "scalar", "id": "obs:samaya-bhanga", "field": "name", "kept": "Breaking the samaya", "other": "Breaking the samaya pledges"}
+{"kind": "scalar", "id": "obs:samaya-bhanga", "field": "category", "kept": "karma-type", "other": "obstacle"}
 {"kind": "scalar", "id": "obs:samaya-bhanga", "field": "name", "kept": "Breaking the samaya", "other": "Breach of initiatory observances (samaya-bhaṅga)"}
 {"kind": "scalar", "id": "obs:samaya-bhanga", "field": "category", "kept": "karma-type", "other": "other"}
 {"kind": "scalar", "id": "obs:raga", "field": "name", "kept": "Passion, attachment (rāga)", "other": "Passion (rāga)"}
@@ -2683,10 +2704,24 @@
 {"kind": "scalar", "id": "obs:four-viparyasas", "field": "category", "kept": "affliction", "other": "obstacle"}
 {"kind": "scalar", "id": "obs:nine-samyojanas", "field": "name", "kept": "The nine fetters (Abhidharma list)", "other": "The nine fetters"}
 {"kind": "scalar", "id": "obs:three-poisons", "field": "name", "kept": "The three poisons", "other": "The three roots of bad (greed, hatred, delusion)"}
+{"kind": "scalar", "id": "obs:three-poisons", "field": "name", "kept": "The three poisons", "other": "The three roots of bad (greed, hatred, delusion)"}
+{"kind": "scalar", "id": "obs:svabhava-graha", "field": "name", "kept": "Grasping at inherent existence (true-grasping)", "other": "Grasping at own-nature (inherent existence)"}
+{"kind": "scalar", "id": "obs:nihilistic-misreading-of-emptiness", "field": "name", "kept": "Misreading emptiness as nothingness", "other": "Wrongly viewing emptiness"}
+{"kind": "scalar", "id": "obs:nihilistic-misreading-of-emptiness", "field": "category", "kept": "other", "other": "obstacle"}
 {"kind": "scalar", "id": "obs:two-obscurations", "field": "name", "kept": "The obscurations of afflictions and of the knowable", "other": "The afflictive and cognitive obscurations"}
-{"kind": "scalar", "id": "obs:eight-worldly-concerns", "field": "category", "kept": "obstacle", "other": "other"}
+{"kind": "scalar", "id": "obs:two-obscurations", "field": "name", "kept": "The obscurations of afflictions and of the knowable", "other": "The two obscurations"}
+{"kind": "scalar", "id": "obs:two-obscurations", "field": "category", "kept": "obstacle", "other": "impurity"}
+{"kind": "scalar", "id": "obs:two-obscurations", "field": "name", "kept": "The obscurations of afflictions and of the knowable", "other": "The two obscurations (sgrib gnyis)"}
+{"kind": "scalar", "id": "obs:two-obscurations", "field": "category", "kept": "obstacle", "other": "impurity"}
+{"kind": "scalar", "id": "obs:self-cherishing", "field": "name", "kept": "Self-cherishing", "other": "Self-cherishing (desiring one's own happiness)"}
+{"kind": "scalar", "id": "obs:self-cherishing", "field": "category", "kept": "obstacle", "other": "passion"}
+{"kind": "scalar", "id": "obs:laxity-and-excitement", "field": "name", "kept": "Laxity and excitement, and the other faults of concentration", "other": "Laxity and excitement"}
+{"kind": "scalar", "id": "obs:laxity-and-excitement", "field": "name", "kept": "Laxity and excitement, and the other faults of concentration", "other": "Dullness and agitation (bying rgod)"}
+{"kind": "scalar", "id": "obs:eight-worldly-concerns", "field": "category", "kept": "bond", "other": "obstacle"}
+{"kind": "scalar", "id": "obs:eight-worldly-concerns", "field": "category", "kept": "bond", "other": "other"}
 {"kind": "scalar", "id": "obs:intellectual-understanding", "field": "name", "kept": "Intellectual understanding (zhijie)", "other": "Taking understanding or experience for realization"}
 {"kind": "scalar", "id": "obs:intellectual-understanding", "field": "category", "kept": "obstacle", "other": "meditation-fault"}
+{"kind": "scalar", "id": "obs:hope-and-fear", "field": "name", "kept": "Hope and fear", "other": "Hope and fear (re dogs)"}
 {"kind": "scalar", "id": "obs:hope-and-fear", "field": "name", "kept": "Hope and fear", "other": "Hope and fear (re dogs)"}
 {"kind": "scalar", "id": "prc:gayatri-japa", "field": "name", "kept": "Repetition of the Gāyatrī (Sāvitrī)", "other": "Recitation of the Sāvitrī (Gāyatrī)"}
 {"kind": "scalar", "id": "prc:sandhyavandana", "field": "name", "kept": "Sandhyā (twilight worship)", "other": "Twilight worship (sandhyāvandana)"}
@@ -2943,6 +2978,7 @@
 {"kind": "scalar", "id": "prc:devatanussati", "field": "name", "kept": "Recollection of the deities", "other": "Recollection of deities (devatānussati)"}
 {"kind": "scalar", "id": "prc:devatanussati", "field": "category", "kept": "meditation", "other": "devotion-service"}
 {"kind": "scalar", "id": "prc:saranagamana", "field": "name", "kept": "Going for refuge (Sarvāstivāda definition)", "other": "Going for refuge"}
+{"kind": "scalar", "id": "prc:saranagamana", "field": "name", "kept": "Going for refuge (Sarvāstivāda definition)", "other": "Going for refuge"}
 {"kind": "scalar", "id": "prc:upasampada", "field": "name", "kept": "Full ordination (upasaṃpadā)", "other": "Full ordination"}
 {"kind": "scalar", "id": "prc:pattidana", "field": "name", "kept": "Offering on behalf of the departed", "other": "Dedication of merit (pattidāna)"}
 {"kind": "scalar", "id": "prc:pattidana", "field": "category", "kept": "ritual", "other": "devotion-service"}
@@ -2954,12 +2990,41 @@
 {"kind": "scalar", "id": "prc:nirodha-samapatti", "field": "stage", "kept": "realized", "other": "advanced"}
 {"kind": "scalar", "id": "prc:four-immeasurables", "field": "name", "kept": "The four immeasurables (apramāṇa)", "other": "The four immeasurables"}
 {"kind": "scalar", "id": "prc:bodhisattva-vow", "field": "name", "kept": "Taking the bodhisattva vows (praṇidhāna)", "other": "Taking the bodhisattva vow"}
+{"kind": "scalar", "id": "prc:bodhisattva-vow", "field": "category", "kept": "ethics", "other": "ritual"}
+{"kind": "scalar", "id": "prc:bodhisattva-vow", "field": "name", "kept": "Taking the bodhisattva vows (praṇidhāna)", "other": "Taking the bodhisattva vow"}
 {"kind": "scalar", "id": "prc:dedication-of-merit", "field": "name", "kept": "Dedicating merit (pariṇāmanā)", "other": "Dedication of merit"}
+{"kind": "scalar", "id": "prc:analytical-meditation-on-emptiness", "field": "category", "kept": "inquiry", "other": "meditation"}
+{"kind": "scalar", "id": "prc:generating-bodhicitta", "field": "name", "kept": "Generating the awakening mind", "other": "Generating bodhicitta"}
 {"kind": "scalar", "id": "prc:generating-bodhicitta", "field": "category", "kept": "mind-training", "other": "devotion-service"}
-{"kind": "scalar", "id": "prc:dream-yoga", "field": "name", "kept": "Dream yoga", "other": "Dream yoga (rmi lam)"}
+{"kind": "scalar", "id": "prc:sevenfold-worship", "field": "name", "kept": "The seven-limb practice", "other": "The supreme worship (sevenfold service)"}
+{"kind": "scalar", "id": "prc:confession-of-faults", "field": "name", "kept": "Purification by the four opponent powers", "other": "Confession of faults"}
+{"kind": "scalar", "id": "prc:guarding-the-mind", "field": "name", "kept": "Guarding the mind with mindfulness and alertness", "other": "Guarding the mind with mindfulness and introspection"}
+{"kind": "scalar", "id": "prc:guarding-the-mind", "field": "category", "kept": "ethics", "other": "meditation"}
+{"kind": "scalar", "id": "prc:contemplating-death-and-impermanence", "field": "name", "kept": "Contemplating death", "other": "Contemplating death and impermanence"}
+{"kind": "scalar", "id": "prc:contemplating-death-and-impermanence", "field": "category", "kept": "meditation", "other": "sleep-dream-death"}
+{"kind": "scalar", "id": "prc:reliance-on-spiritual-friend", "field": "name", "kept": "Relying on the spiritual teacher", "other": "Reliance on the spiritual friend"}
+{"kind": "scalar", "id": "prc:nine-mental-abidings", "field": "name", "kept": "The nine stages of settling the mind (navākārā cittasthiti)", "other": "The nine mental abidings"}
+{"kind": "scalar", "id": "prc:eight-antidotal-formations", "field": "name", "kept": "The eight antidotal formations", "other": "The eight antidotes to the five faults"}
+{"kind": "scalar", "id": "prc:eight-antidotal-formations", "field": "category", "kept": "meditation", "other": "sense-withdrawal-concentration"}
+{"kind": "scalar", "id": "prc:ten-dharma-practices", "field": "name", "kept": "The ten practices of the Dharma (daśa dharmacaritāni)", "other": "The ten dharma practices"}
+{"kind": "scalar", "id": "prc:tshad-ma-debate", "field": "name", "kept": "Monastic debate on valid cognition (bsdus grwa / rtsod pa)", "other": "Monastic debate as practice"}
+{"kind": "scalar", "id": "prc:deity-yoga", "field": "name", "kept": "Deity yoga (generation-stage sādhana)", "other": "Deity yoga"}
+{"kind": "scalar", "id": "prc:candali", "field": "name", "kept": "Inner heat (caṇḍālī)", "other": "Inner heat (gtum mo)"}
+{"kind": "scalar", "id": "prc:dream-yoga", "field": "name", "kept": "Dream yoga (rmi lam)", "other": "Dream yoga"}
+{"kind": "scalar", "id": "prc:clear-light-yoga", "field": "name", "kept": "Clear-light yoga", "other": "Clear light yoga ('od gsal) and luminous sleep"}
+{"kind": "scalar", "id": "prc:bardo-yoga", "field": "name", "kept": "Intermediate-state yoga (bar do)", "other": "Intermediate-state yoga"}
+{"kind": "scalar", "id": "prc:karmamudra", "field": "name", "kept": "Karmamudrā (union with a consort)", "other": "Karmamudrā (consort practice)"}
+{"kind": "scalar", "id": "prc:karmamudra", "field": "name", "kept": "Karmamudrā (union with a consort)", "other": "Practice with an action-seal (consort)"}
+{"kind": "scalar", "id": "prc:vajrasattva-purification", "field": "name", "kept": "Vajrasattva meditation and recitation (the hundred-syllable mantra)", "other": "Vajrasattva purification"}
 {"kind": "scalar", "id": "prc:vajrasattva-purification", "field": "name", "kept": "Vajrasattva meditation and recitation (the hundred-syllable mantra)", "other": "Vajrasattva purification (the hundred-syllable mantra)"}
 {"kind": "scalar", "id": "prc:vajrasattva-purification", "field": "category", "kept": "visualization-deity", "other": "mantra-sound"}
 {"kind": "scalar", "id": "prc:vajrasattva-purification", "field": "stage", "kept": "beginner", "other": "all"}
+{"kind": "scalar", "id": "prc:four-thoughts-that-turn-the-mind", "field": "name", "kept": "The four thoughts that turn the mind (blo ldog rnam bzhi)", "other": "Contemplating the four thoughts that turn the mind"}
+{"kind": "scalar", "id": "prc:four-thoughts-that-turn-the-mind", "field": "name", "kept": "The four thoughts that turn the mind (blo ldog rnam bzhi)", "other": "Contemplating the four thoughts that turn the mind"}
+{"kind": "scalar", "id": "prc:four-thoughts-that-turn-the-mind", "field": "category", "kept": "mind-training", "other": "meditation"}
+{"kind": "scalar", "id": "prc:guru-yoga", "field": "name", "kept": "Guru yoga", "other": "Guru yoga (bla ma'i rnal 'byor)"}
+{"kind": "scalar", "id": "prc:guru-yoga", "field": "category", "kept": "devotion-service", "other": "visualization-deity"}
+{"kind": "scalar", "id": "prc:trulkhor", "field": "name", "kept": "Yantra exercises ('khrul 'khor)", "other": "Magical movement ('phrul 'khor)"}
 {"kind": "list-kept-primary", "id": "pth:gita-devotion-ladder", "field": "stages"}
 {"kind": "list-kept-primary", "id": "pth:gita-ascent-in-yoga", "field": "stages"}
 {"kind": "scalar", "id": "phn:visvarupa-vision", "field": "ref", "kept": "11.9–31", "other": "11.7–30"}
@@ -2995,6 +3060,7 @@
 {"kind": "scalar", "id": "dsp:kevalin-eats", "field": "question", "kept": "Does the omniscient (kevalin) take food?", "other": "Does the omniscient (kevalin) take food and undergo hunger and the other hardships?"}
 {"kind": "scalar", "id": "dsp:kevalin-eats", "field": "queue_ref", "kept": "RQ-U34-01", "other": "RQ-U35-kevali-bhukti"}
 {"kind": "scalar", "id": "dsp:mahayana-buddhavacana", "field": "coverage_ref", "kept": "G", "other": "B4"}
+{"kind": "scalar", "id": "dsp:sutra-mahamudra", "field": "question", "kept": "Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?", "other": "Is there a Mahāmudrā outside tantric empowerment (sūtra or 'white panacea' Mahāmudrā)?"}
 {"kind": "scalar", "id": "brw:pasupata-nyaya", "field": "what", "kept": "Personal affiliation of Naiyāyikas with the Pāśupatas and a shared account of the means of knowledge.", "other": "Religious affiliation of several Naiyāyikas (and Vaiśeṣikas) with Śaiva / Pāśupata traditions"}
 {"kind": "scalar", "id": "brw:pasupata-nyaya", "field": "direction", "kept": "mutual", "other": "disputed"}
 {"kind": "scalar", "id": "brw:pasupata-nyaya", "field": "era", "kept": "c. 6th–15th c.", "other": "6th–10th c. CE"}

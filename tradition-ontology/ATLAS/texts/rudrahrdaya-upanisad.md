@@ -1,6 +1,6 @@
 # Rudrahṛdaya Upaniṣad
 
-`src:rudrahrdaya-upanisad` · `skeleton` · confidence moderate
+`src:rudrahrdaya-upanisad` · `sourced` · confidence moderate
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,12 +13,12 @@
 Śuka asks Vyāsa: Rudra and Umā are the self of all gods; Rudra and Viṣṇu are one; honouring one honours the other; three selves; the higher and lower knowledge; realizing oneness with Rudra.
 **Editions / translations:** 
   - kind: original; name: Īśādiviṃśottaraśatopaniṣadaḥ (Nirṇayasāgara collection of 120 Upaniṣads), South Indian recension carrying Upaniṣad Brahmayogin's opening maṅgala verses; e-text github.com/sanskrit/raw_etexts vedaH/misc/upaniShat/mixedPF/108_Upanishads.md; licence: text public domain; e-text licence unstated; url: https://github.com/sanskrit/raw_etexts
-  - kind: original; name: Adyar Library Upaniṣad series (Schrader, Minor Upaniṣads vol. 1: Saṃnyāsa, 1912; A. Mahadeva Sastri: Yoga 1920, Sāmānya Vedānta 1921, Vaiṣṇava 1923, Śaiva 1925, Śākta 1925) with Upaniṣad Brahmayogin's commentary; licence: public domain (pre-1930 editions)
+  - kind: original; name: The Śaiva Upaniṣads with the commentary of Śrī Upaniṣad-Brahma-Yogin, ed. A. Mahadeva Sastri (Madras: Adyar Library, 1925; reprinted 1950); licence: public domain (pre-1930 edition); url: https://archive.org/details/wg206
 
-## Teachings (2: skeleton 2)
+## Teachings (2: sourced 2)
 
 ### 1-5 <a id="tea-rudrahrdaya-upanisad-1-5"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 Śuka asks Vyāsa which god is the self of all gods; Vyāsa: Rudra; Umā is Viṣṇu; one who bows to Govinda bows to Śaṅkara; one who hates Virūpākṣa hates Janārdana; the union of Umā and Śaṅkara is Viṣṇu.
 
@@ -27,7 +27,7 @@ _level: conventional · standpoint: divine · path: devotion · stage: all · ty
 concepts: [Identity of Śiva and Viṣṇu](../concepts/siva-visnu-identity.md) · teachers: [Śuka](../teachers/suka.md), [Vyāsa (Kṛṣṇa Dvaipāyana)](../teachers/vyasa.md) · disputes: [Which deity is the supreme Brahman — Śiva, Viṣṇu/Nārāyaṇa, or the Goddess?](../debates/which-deity-is-supreme.md)
 
 ### 6-12 <a id="tea-rudrahrdaya-upanisad-6-12"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 The self is threefold — inner self (Brahmā), supreme self (Maheśvara) and the eternal self of all beings (Viṣṇu); the higher and lower knowledge; realizing oneness with Rudra one is freed.
 
@@ -39,4 +39,12 @@ concepts: [Three selves](../concepts/three-selves.md)
 _Notes: Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: corrected — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md (line 23656), text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md (Muktikā 1.30-39 and prose Veda lists, IAST lines 27347-27400), text:sources_raw/raw_etexts/vedaH/mis — Located in the local 120-Upaniṣad e-text (heading at line 23656 (collection no. 88)). Its place in the Muktikā canon is confirmed from the Muktikā in the same e-text: no. 85 in 1.30-39, listed under the Kṛṣṇa Yajurveda in the prose Veda lists, with that Veda's peace-chant. Group 'Śaiva' matches the local group list. CORRECTION to editions: the skeleton gave every text the same generator default, 'Adyar Library Upaniṣad series (Schrader … 1912; … with Upaniṣad Brahmayogin's commentary)'. Schrader's 1912 volume is a critical edition of twenty Saṃnyāsa texts with his own ṭippaṇī, not Brahmayogin's commentary. Brahmayogin's commentary on the Saṃnyāsa group appeared separately in 1929 (ed. T. R. Chintamani Dikshit; Muktabodha M00334 metadata; archive.org). The Adyar volume is therefore replaced with the one volume that holds this text (Śaiva). The years 1920, 1921, 1923 and 1925, and the editor A. Mahadeva Sastri, are confirmed on the web. The group-level scholarly dating statement is generic and was not checked text by text. The tradition account (śruti, authorless) is left as it is.
+
+**Corrections**
+
+- editions: Located in the local 120-Upaniṣad e-text (heading at line 23656 (collection no. 88)). Its place in the Muktikā canon is confirmed from the Muktikā in the same e-text: no. 85 in 1.30-39, listed under the Kṛṣṇa Yajurveda in the prose Veda lists, with that Veda's peace-chant. Group 'Śaiva' matches the local group list. CORRECTION to editions: the skeleton gave every text the same generator default, 'Adyar Library Upaniṣad series (Schrader … 1912; … with Upaniṣad Brahmayogin's commentary)'. Schrader's 1912 volume is a critical edition of twenty Saṃnyāsa texts with his own ṭippaṇī, not Brahmayogin's commentary. Brahmayogin's commentary on the Saṃnyāsa group appeared separately in 1929 (ed. T. R. Chintamani Dikshit; Muktabodha M00334 metadata; archive.org). The Adyar volume is therefore replaced with the one volume that holds this text (Śaiva). The years 1920, 1921, 1923 and 1925, and the editor A. Mahadeva Sastri, are confirmed on the web. The group-level scholarly dating statement is generic and was not checked text by text. The tradition account (śruti, authorless) is left as it is.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

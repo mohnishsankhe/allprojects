@@ -14,4 +14,4 @@
 - contrasts-with → [Death and the attainment of cessation distinguished](death-and-cessation.md) — rests on [7-20](../texts/potthapada-sutta.md#tea-potthapada-sutta-7-20), [21-25](../texts/mahavedalla-sutta.md#tea-mahavedalla-sutta-21-25)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._

@@ -92,10 +92,10 @@ One who has no position — 'existent', 'non-existent' or 'both existent and non
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute_
 
-concepts: [Having no thesis](../concepts/no-thesis.md), [The four-cornered negation (catuṣkoṭi)](../concepts/catuskoti.md) · teachers: [Āryadeva](../teachers/aryadeva.md) · disputes: [May a debater refute without holding a thesis of his own (vitaṇḍā)?](../debates/debate-without-thesis.md), `dsp:prasangika-svatantrika`
+concepts: [Having no thesis](../concepts/no-thesis.md), [The four-cornered negation (catuṣkoṭi)](../concepts/catuskoti.md) · teachers: [Āryadeva](../teachers/aryadeva.md) · disputes: [May a debater refute without holding a thesis of his own (vitaṇḍā)?](../debates/debate-without-thesis.md), [Prāsaṅgika against Svātantrika](../debates/prasangika-svatantrika.md)
 
 
 _Notes: Titles of chs. 8, 9, 10, 13, 14, 16 confirmed from colophons in the local e-text; the others from memory._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

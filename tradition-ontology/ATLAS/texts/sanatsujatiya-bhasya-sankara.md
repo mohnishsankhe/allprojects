@@ -20,4 +20,4 @@ An Advaita commentary on the Sanatsujātīya transmitted under Śaṅkara's name
 
 - 2026-09-29 websearch: confirmed — https://link.springer.com/article/10.1007/s11407-025-09405-9, https://www.centreforbrahmavidya.org/acharyas/sri-shankara-bhagavatpada/vishnu-sahasranama---sanatsujatiya-bhasya.html — Exists and is transmitted under Śaṅkara's name; a 2025 stylometric study (IJHS) argues against Śaṅkara's authorship and for common authorship with the Viṣṇusahasranāma-bhāṣya — consistent with the entry's "disputed".
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._

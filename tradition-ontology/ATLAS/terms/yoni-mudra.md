@@ -15,4 +15,4 @@
 **Related:** [ṣaṇmukhī (mudrā)](sanmukhi.md), [mudrā](mudra.md)
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:45 IST._

@@ -16,4 +16,4 @@
 **Related:** [snang gsum](nang-sum.md), [kun gzhi rgyu rgyud](kunzhi-gyu-gyu.md)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

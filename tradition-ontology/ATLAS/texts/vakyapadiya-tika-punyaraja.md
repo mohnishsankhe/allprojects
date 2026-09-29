@@ -16,4 +16,4 @@
 A commentary on book 2 of the Vākyapadīya (and in some editions on book 1) transmitted under Puṇyarāja's name, the main guide to the Vākyakāṇḍa's theory of the sentence and pratibhā.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._

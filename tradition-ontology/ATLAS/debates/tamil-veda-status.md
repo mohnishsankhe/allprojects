@@ -30,4 +30,4 @@ As the objection is reported in Śrīvaiṣṇava works: only the authorless San
 _Notes: The opposing side is known here only as reported by Śrīvaiṣṇava authors (reported_by_opponent)._
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._

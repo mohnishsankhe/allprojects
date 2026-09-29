@@ -15,4 +15,4 @@ Fatigue, anxiety, distraction, agitation, confusion, delight in other things, pa
 - analogous: [The nine obstacles (antarāya), distractions of mind](nine-antarayas.md) — Both are lists of obstacles to yoga; the items differ.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._

@@ -22,8 +22,8 @@ At the end of guru yoga the practitioner receives the four empowerments: from th
 
 _level: conventional · standpoint: devotional · path: devotion, ritual, sound · stage: all · types: practice, teacher-transmission_
 
-concepts: [The four empowerments](../concepts/four-empowerments-nyingma.md) · practices: [Guru yoga (bla ma'i rnal 'byor)](../practices/guru-yoga.md) · teachers: [Jigme Lingpa (rig 'dzin 'jigs med gling pa)](../teachers/jigme-lingpa.md)
+concepts: [The four empowerments](../concepts/four-empowerments-nyingma.md) · practices: [Guru yoga](../practices/guru-yoga.md) · teachers: [Jigme Lingpa (rig 'dzin 'jigs med gling pa)](../teachers/jigme-lingpa.md)
 
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

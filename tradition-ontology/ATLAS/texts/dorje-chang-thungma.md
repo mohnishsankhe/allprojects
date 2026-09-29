@@ -24,7 +24,7 @@ Great Vajradhara, Tilo, Nāro, Marpa, Mila, and lord of Dharma Gampopa; Karmapa,
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: teacher-transmission_
 
-concepts: [The golden rosary (the Kagyu succession)](../concepts/golden-rosary.md) · practices: [Guru yoga (bla ma'i rnal 'byor)](../practices/guru-yoga.md)
+concepts: [The golden rosary (the Kagyu succession)](../concepts/golden-rosary.md) · practices: [Guru yoga](../practices/guru-yoga.md)
 
 ### 2 <a id="tea-dorje-chang-thungma-2"></a>
 `skeleton` · confidence high
@@ -42,7 +42,7 @@ Devotion is said to be the head of meditation: to this meditator who prays const
 
 _level: conventional · standpoint: devotional · path: devotion, meditation · stage: all · types: teacher-transmission, practice_
 
-terms: [mos gus (devotion)](../terms/mogu.md) · concepts: [The guru in the minor Upaniṣads](../concepts/guru.md) · practices: [Guru yoga (bla ma'i rnal 'byor)](../practices/guru-yoga.md)
+terms: [mos gus (devotion)](../terms/mogu.md) · concepts: [Guru devotion in the Kagyu](../concepts/guru-devotion.md) · practices: [Guru yoga](../practices/guru-yoga.md)
 
 ### 4 <a id="tea-dorje-chang-thungma-4"></a>
 `skeleton` · confidence high
@@ -51,7 +51,7 @@ Non-distraction is said to be the main body of meditation: to this meditator who
 
 _level: bridging · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-terms: [ma yengs pa (non-distraction)](../terms/yengme.md), [akṛtrima](../terms/akrtrima.md) · practices: `prc:resting-in-ordinary-mind` · obstacles: `obs:distraction`
+terms: [ma yengs pa (non-distraction)](../terms/yengme.md), [akṛtrima](../terms/akrtrima.md) · practices: [Resting uncontrived in ordinary mind](../practices/resting-in-ordinary-mind.md) · obstacles: [Distraction (g.yeng ba)](../obstacles/distraction.md)
 
 ### 5 <a id="tea-dorje-chang-thungma-5"></a>
 `skeleton` · confidence high
@@ -64,4 +64,4 @@ terms: [vikalpa](../terms/vikalpa.md), [dharmakāya](../terms/dharmakaya.md) · 
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

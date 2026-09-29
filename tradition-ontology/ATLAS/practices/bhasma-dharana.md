@@ -11,4 +11,4 @@ Smearing tirunīṟu (in three horizontal lines) and wearing rudrākṣa beads a
   - [Tēvāram](../texts/tevaram.md) — ref: 2.66.1; rests_on: ["tea:tevaram:2.66.1"]
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._

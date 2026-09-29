@@ -12,4 +12,4 @@
 Short Pāñcarātra text on surrender (nyāsa/prapatti), cited by Śrīvaiṣṇava authors.
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._

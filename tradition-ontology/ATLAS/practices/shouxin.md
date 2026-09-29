@@ -3,7 +3,7 @@
 `prc:shouxin` · `skeleton` · confidence moderate
 
 **Category:** meditation
-**Convergence:** 2 independent lineage(s): [East Mountain teaching](../lineages/east-mountain.md), [Northern school of Chan](../lineages/northern-chan.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [East Mountain teaching](../lineages/east-mountain.md), [Northern school of Chan](../lineages/northern-chan.md)
 
 Guarding the original true mind so that deluded thoughts do not arise and the sense of 'mine' ceases; with Daoxin's 'guarding the one without moving'.
@@ -15,4 +15,4 @@ Guarding the original true mind so that deluded thoughts do not arise and the se
 - The Platform Sūtra rejects 'viewing the mind' and 'viewing purity' as binding oneself with purity. — [Platform Sūtra of the Sixth Patriarch (Liuzu tanjing)](../texts/platform-sutra.md) 8.1
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

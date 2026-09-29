@@ -19,4 +19,4 @@ A short work classifying recollection of the Buddha into five expedient gates, f
 _Notes: Title and attribution from the local CBETA header; contents not read (low confidence on summary)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

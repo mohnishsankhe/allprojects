@@ -28,4 +28,4 @@ practices: [Daily home worship of the Lord (tiruvārādhanam)](../practices/tiru
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._

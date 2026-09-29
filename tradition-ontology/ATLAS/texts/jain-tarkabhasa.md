@@ -27,4 +27,4 @@ concepts: [Valid knowledge in Jain epistemology](../concepts/pramana-jain.md), [
 
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._

@@ -57,4 +57,4 @@ Not an institutional order but the textual tradition of the Bhakti Sūtras: the 
 _Notes: Created by U25 as a sub-lineage because the texts themselves name a 'bhakti-śāstra' (NBS 76) and a line of 'bhaktyācāryas' (NBS 83). Parent set to lin:bhagavata-early on the tradition's account (Nārada and Śāṇḍilya as Bhāgavata/Pāñcarātra sages — cf. the Pāñcarātra claim that Śāṇḍilya, not finding the highest good in the four Vedas, received this śāstra, quoted in Śaṅkara's BSBh 2.2.45); this is not a claim of historical continuity. Keeps convergence counts from treating the sūtras as an independent root._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:45 IST._

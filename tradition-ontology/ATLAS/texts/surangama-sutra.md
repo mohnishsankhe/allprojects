@@ -105,4 +105,4 @@ disputes: `dsp:sudden-or-gradual`
 _Notes: T945 (vol. 19) is not in the local CBETA subset; fascicle-level refs from memory. The Tibetan Toh 236 (a translation from Chinese of part of the last chapter) is attested in the local Derge catalogue._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

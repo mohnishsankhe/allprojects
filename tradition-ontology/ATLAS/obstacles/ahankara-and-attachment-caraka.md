@@ -13,4 +13,4 @@ Engagement rooted in delusion, desire, aversion and karma grows into ego-sense, 
   - [Caraka Saṃhitā](../texts/caraka-samhita.md) — ref: Śā 5.10; rests_on: ["tea:caraka-samhita:sa.5.10"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

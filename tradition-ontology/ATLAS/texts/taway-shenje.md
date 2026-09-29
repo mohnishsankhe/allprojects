@@ -26,7 +26,7 @@ Tsongkhapa's addition of the qualifier 'inherently' or 'truly' to the object of 
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: dispute_
 
-teachers: [Gorampa Sönam Senge](../teachers/gorampa.md) · disputes: `dsp:object-of-negation-madhyamaka`
+teachers: [Gorampa Sönam Senge](../teachers/gorampa.md) · disputes: [What does Madhyamaka reasoning negate: inherent existence only, or all four extremes including existence itself?](../debates/object-of-negation-madhyamaka.md)
 
 ### freedom-from-extremes <a id="tea-taway-shenje-freedom-from-extremes"></a>
 `skeleton` · confidence high
@@ -35,7 +35,7 @@ The ultimate is freedom from all elaborations — from the four extremes of exis
 
 _level: ultimate · standpoint: apophatic · path: knowledge, meditation · stage: advanced · types: ultimate_
 
-terms: [spros bral](../terms/tropdral.md), [catuṣkoṭi](../terms/catuskoti.md) · concepts: [Freedom from elaborations (spros bral)](../concepts/freedom-from-elaborations.md) · teachers: [Gorampa Sönam Senge](../teachers/gorampa.md) · disputes: `dsp:object-of-negation-madhyamaka`
+terms: [spros bral](../terms/tropdral.md), [catuṣkoṭi](../terms/catuskoti.md) · concepts: [Freedom from elaborations (spros bral)](../concepts/freedom-from-elaborations.md) · teachers: [Gorampa Sönam Senge](../teachers/gorampa.md) · disputes: [What does Madhyamaka reasoning negate: inherent existence only, or all four extremes including existence itself?](../debates/object-of-negation-madhyamaka.md)
 
 ### three-views <a id="tea-taway-shenje-three-views"></a>
 `skeleton` · confidence high
@@ -44,7 +44,7 @@ In Tibet three views are held to be Madhyamaka: the Madhyamaka of the eternalist
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate_
 
-concepts: `cpt:rangtong`, `cpt:zhentong` · teachers: [Gorampa Sönam Senge](../teachers/gorampa.md), [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md), [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: `dsp:object-of-negation-madhyamaka`, `dsp:rangtong-shentong`, `dsp:prasangika-svatantrika`
+concepts: [Self-emptiness (rang stong)](../concepts/rangtong.md), [Other-emptiness (gzhan stong)](../concepts/zhentong.md) · teachers: [Gorampa Sönam Senge](../teachers/gorampa.md), [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md), [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: [What does Madhyamaka reasoning negate: inherent existence only, or all four extremes including existence itself?](../debates/object-of-negation-madhyamaka.md), [Empty of self, or empty of other?](../debates/rangtong-shentong.md), [Prāsaṅgika against Svātantrika](../debates/prasangika-svatantrika.md)
 
 ### ultimate-not-object <a id="tea-taway-shenje-ultimate-not-object"></a>
 `skeleton` · confidence moderate
@@ -53,8 +53,8 @@ The ultimate truth is not an object of knowledge in the ordinary sense: it is be
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: realized · types: ultimate, dispute_
 
-teachers: [Gorampa Sönam Senge](../teachers/gorampa.md) · disputes: `dsp:is-the-ultimate-knowable`
+teachers: [Gorampa Sönam Senge](../teachers/gorampa.md) · disputes: [Is the ultimate truth an object of knowledge, and is emptiness realised by valid cognition (perception and inference)?](../debates/is-the-ultimate-knowable.md)
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

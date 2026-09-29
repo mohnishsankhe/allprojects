@@ -13,4 +13,4 @@ No. 35 of the eighty-four siddhas (Tōh 2292 order). A farmer with a goitre on h
 _Notes: Life from Abhayadatta's Caturaśītisiddhapravṛtti recalled from memory (not read locally); the song is read locally in Tōh 2292. The comparison 'like an elephant's eye' in the song is not understood._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._

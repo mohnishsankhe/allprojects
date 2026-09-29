@@ -10,4 +10,4 @@
 Disciple of Dolpopa and co-translator, with Jonang Lotsawa Lodrö Pal, of the Jonang revision of the Kālacakra tantra and Vimalaprabhā; also a commentator on the Kālacakra.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

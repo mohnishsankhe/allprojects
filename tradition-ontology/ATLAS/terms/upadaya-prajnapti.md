@@ -18,4 +18,4 @@
 **Related:** [prajñapti](prajnapti.md), [pratītyasamutpāda](pratityasamutpada.md), [prajñaptisat](prajnaptisat.md), [pudgala](pudgala.md)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

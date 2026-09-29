@@ -924,10 +924,26 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Āditya (the Sun as teacher)"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of trisikhibrahmana, aksi, mandalabrahmana, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -7059,7 +7075,9 @@
   "name": "Asaṅga",
   "lineages": [
    "lin:yogacara",
-   "lin:mahayana"
+   "lin:mahayana",
+   "lin:kadam",
+   "lin:gelug"
   ],
   "alt_names": [
    "Ārya Asaṅga",
@@ -7122,7 +7140,8 @@
   "gender": "male",
   "summary": "Founder, with his half-brother Vasubandhu, of the Yogācāra school: author of the Mahāyānasaṃgraha and Abhidharmasamuccaya and, for the Tibetans, compiler of the Yogācārabhūmi and receiver of the Maitreya texts; in Tibetan tradition the founder of the 'lineage of vast conduct'.",
   "coverage": [
-   "B4"
+   "B4",
+   "B6"
   ],
   "verification": {
    "level": "skeleton",
@@ -7130,9 +7149,13 @@
    "unverified": false,
    "checks": []
   },
+  "alt_summary": [
+   "Author of the Bodhisattvabhūmi, whose ethics chapter gives the rite of the bodhisattva vow cited by Atiśa and commented on by Tsongkhapa. (U41 owns; U47 adds the Kadam/Gelug link.)"
+  ],
   "provenance": {
    "units": [
-    "skeleton:U41-yogacara-pramana"
+    "skeleton:U41-yogacara-pramana",
+    "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
     "skeleton"
@@ -7715,6 +7738,21 @@
      "result": "confirmed",
      "note": "Confirmed: Śrautasūtra in 12 and Gṛhyasūtra in 4 adhyāyas, plus the fourth Āraṇyaka (SBE 1 introduction); pupil of Śaunaka (Wikipedia). No Dharma- or Śulbasūtra is known, as the entry says.",
      "by": "sourcing:U02-brahmana-vedanga"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Āśvalāyana"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of kaivalya, sarasvatirahasya, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -7936,6 +7974,21 @@
      "result": "confirmed",
      "note": "Located: MuU 1.1.1-2.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Atharvan"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of sandilya, atharvasikha, maha (Atharvan, no. 115), in the roles the summary gives. Located as a speaker in the Atharvan Mahā Upaniṣad (e-text no. 115), in the Śāṇḍilya and in the Atharvaśikhā. A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -8409,6 +8462,21 @@
      "result": "confirmed",
      "note": "Header 5.85 'bhaumo 'triḥ'; seer of 10.137.4. Book 5 = Ātreyas. Later tradition (husband of Anasūyā, father of Dattātreya) confirmed by web sources.",
      "by": "sourcing:U01-vedic-samhitas"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Atri"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of jabala, yajnavalkya, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -12012,6 +12080,21 @@
      "date": "2026-09-29",
      "method": "text-locate",
      "queries": [
+      "e-text name search: Bharadvāja"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of ramatapani (uttara), tarasara, rudraksajabala, bhiksuka, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
       "MBh 12.176-179"
      ],
      "evidence": [
@@ -13100,10 +13183,28 @@
   "gender": "male",
   "notes": "Initiatory name and guru's name checked in the Varivasyārahasya colophon and the Saubhāgyabhāskara opening. Places and exact dates are from memory (low).",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "catalog+websearch",
+     "queries": [
+      "Bhaskararaya commentaries Tripura Upanishad Bhavana Upanishad Kaula Upanishad"
+     ],
+     "evidence": [
+      "catalog:eBharati:kaula_anyopaniShat_cha_ekAdasho_bhAgaH",
+      "https://en.wikipedia.org/wiki/Bhaskararaya",
+      "https://en.wikipedia.org/wiki/Tripura_Upanishad",
+      "https://en.wikipedia.org/wiki/Bhavana_Upanishad"
+     ],
+     "result": "confirmed",
+     "note": "Confirmed: Bhāskararāya commented on the Kaula, Tripurā and Bhāvanā Upaniṣads (Wikipedia). The Kaula commentary is printed in Tantrik Texts XI (1922), which has a local eBhāratī copy.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "alt_summary": [
    "In this unit: author of the Guptavatī commentary on the Devī Māhātmya (his Śrīvidyā works belong to U23).",
@@ -14981,10 +15082,26 @@
   ],
   "summary": "The ancient crow living on a wish-fulfilling tree on a peak of Meru, who tells Vasiṣṭha how contemplation of the breath (prāṇa-cintā) made him outlive many world-ages (Mokṣopāya 6.14-27; Yoga Vāsiṣṭha Nirvāṇa, pūrvārdha). The Rāmcaritmānas's Kāk Bhuśuṇḍi is a related figure.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Bhusuṇḍa (Jābāla)"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of brhajjabala, bhasmajabala, rudraksajabala, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "coverage": [
    "A3",
@@ -15747,6 +15864,21 @@
      "result": "confirmed",
      "note": "Located: MuU 1.1.1 ('brahmā devānāṃ prathamaḥ sambabhūva … atharvāya jyeṣṭhaputrāya prāha'); ChU 3.11.4 and 8.15.1 ('brahmā prajāpataya uvāca'); KauU 1.5-7 (Brahmā on the couch Amitaujas questions the knower).",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Brahmā"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of kalisantarana, naradaparivrajaka, pasupatabrahma, sarabha, yogatattva, yogasikha, kaivalya, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -16288,6 +16420,21 @@
      "result": "confirmed",
      "note": "Low-confidence entry confirmed: the Mahābhāṣya's 'bṛhaspatir indrāya divyaṃ varṣasahasraṃ … śabdapārāyaṇaṃ provāca' (Paspaśā) is text-located; the Bṛhaspatismṛti is reconstructed from quotations (Aiyangar 1941).",
      "by": "sourcing:U02-brahmana-vedanga"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Bṛhaspati"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of jabala, ramatapani (uttara), tarasara, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     },
     {
      "phase": "C",
@@ -22883,10 +23030,26 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Sirr-i Akbar Dara Shikoh 1657 fifty Upanishads"
+     ],
+     "evidence": [
+      "https://en.wikipedia.org/wiki/Sirr-i-Akbar",
+      "https://prepp.in/question/which-mughal-prince-translated-the-upanishads-into-persian-in-1657-645d3073e8610180957f42b1"
+     ],
+     "result": "confirmed",
+     "note": "Confirmed: Mughal prince (1615-1659) who translated about fifty Upaniṣads into Persian (Sirr-i Akbar, 1657).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -23158,10 +23321,26 @@
   ],
   "summary": "Son of Atri and Anasūyā, counted the sixth avatāra in the Bhāgavata (1.3.11: he taught ānvīkṣikī to Alarka, Prahlāda and others); Yadu and the Haihayas gained yogic powers from him (2.7.4). The tradition identifies him with the unnamed avadhūta who teaches King Yadu his twenty-four teachers (Bhāgavata 11.7-9), and ascribes to him the Avadhūta Gītā and the Jīvanmukta Gītā. Revered as the ādiguru of the Datta tradition and in the Nāth lineages.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Dattātreya"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of darsana, avadhuta, jabala, bhiksuka, naradaparivrajaka, sandilya, dattatreya, in the roles the summary gives. Śāṇḍilya 3 (the e-text's ch. 3) gives the etymology: datta, and the son of Atri born of Anasūyā. A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "coverage": [
    "A3",
@@ -28961,10 +29140,26 @@
   ],
   "notes": "The three-sons account (Tryambaka, Āmardaka, Śrīnātha, plus Ardhatryambaka) is from memory of TĀ 36 and Jayaratha; TĀ 4.266 itself names the Śrī-, Tryambaka-, Ardha- and Āmarda- maṭhikās (confirmed).",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Durvāsas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of jabala, naradaparivrajaka, gopalatapani (uttara), in the roles the summary gives. Durvāsas and the gopīs is in the Gopālottaratāpinī (e-text no. 99). A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "alt_summary": [
    "U23 contribution: identified by the Śrīvidyā tradition with Krodhabhaṭṭāraka, the twelfth of the great worshippers of the vidyā; ascribed the Lalitāstavaratna (Āryādviśatī) and the Śaktimahimnastotra; Bhāskararāya quotes him.",
@@ -31943,10 +32138,26 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Gautama (questioner of the Haṃsa)"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of hamsa, brahmavidya, in the roles the summary gives. Also addressed as 'gautama' in Brahmavidyā 53 and Yogakuṇḍalī 1.3. The entry rightly declines to identify him with other Gautamas. A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -35923,6 +36134,21 @@
      "date": "2026-09-29",
      "method": "text-locate",
      "queries": [
+      "e-text name search: Hanumān"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of muktika, ramarahasya, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
       "MBh 3.147-150; 3.149.31"
      ],
      "evidence": [
@@ -36867,10 +37093,26 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Hārītaka"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of bhiksuka, yajnavalkya, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -40110,6 +40352,21 @@
      "date": "2026-09-29",
      "method": "text-locate",
      "queries": [
+      "e-text name search: Jābāli"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of jabali, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
       "Rām 2.108-110"
      ],
      "evidence": [
@@ -40198,10 +40455,26 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Jaḍabharata"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of jabala, bhiksuka, rudraksajabala, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -41715,6 +41988,21 @@
      "result": "confirmed",
      "note": "Located: BĀU 3.1.1 (the sacrifice with many gifts), 4.1.2-7 (the six teachers' views), 4.2.4 ('abhayaṃ vai janaka prāpto 'si') and 4.3–4.4.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Janaka of Videha"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of jabala, yajnavalkya, maha, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -46095,10 +46383,26 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Kālāgnirudra"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of kalagnirudra, brhajjabala, rudraksajabala, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -60371,10 +60675,26 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Maitreya"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of maitreya, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -63075,6 +63395,21 @@
      "date": "2026-09-29",
      "method": "text-locate",
      "queries": [
+      "e-text name search: Mārkaṇḍeya"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of daksinamurti, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
       "MBh 3.180-221; 3.186.81-91"
      ],
      "evidence": [
@@ -63149,7 +63484,7 @@
    "tch:naropa",
    "tch:maitripa",
    "tch:kukkuripa",
-   "tch:drogmi"
+   "tch:drokmi-lotsawa"
   ],
   "students": [
    "tch:milarepa",
@@ -69836,6 +70171,21 @@
      "date": "2026-09-29",
      "method": "text-locate",
      "queries": [
+      "e-text name search: Nārada"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of paramahamsa, kalisantarana, vasudeva, hayagriva, naradaparivrajaka, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
       "MBh 12.321-339; 12.267; 12.248-250; Rām 1.1; BhG 10.26"
      ],
      "evidence": [
@@ -70276,6 +70626,21 @@
      "date": "2026-09-29",
      "method": "text-locate",
      "queries": [
+      "e-text name search: Nārāyaṇa / Ādi-Nārāyaṇa (as teacher)"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of mandalabrahmana, paramahamsaparivrajaka, turiyatita, tripadvibhuti-mahanarayana, yogatattva, in the roles the summary gives. Checked: 'sa hovāca nārāyaṇaḥ' (Maṇḍalabrāhmaṇa 1); Ādi-Nārāyaṇa (Paramahaṃsaparivrājaka, Turīyātīta); Mahāviṣṇu (Tripādvibhūti); Hṛṣīkeśa (Yogatattva 4). A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
       "MBh 12.321-339; 12.332.19"
      ],
      "evidence": [
@@ -70421,10 +70786,26 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "catalog+websearch",
+     "queries": [
+      "Narayana Dipika Atharvana upanishads date Jacob"
+     ],
+     "evidence": [
+      "catalog:eBharati:atharvaNopaniShadaH",
+      "https://archive.org/stream/themahanarayana00jacouoft/themahanarayana00jacouoft_djvu.txt"
+     ],
+     "result": "partially-confirmed",
+     "note": "Existence and works are confirmed: Dīpikās on Atharvan and minor Upaniṣads, in Jacob's 1916 edition and Lubin's Nīlarudra. His dates are unknown, as the entry says; Jacob notes that next to nothing is known of him. He quotes Śaṅkarānanda (wisdomlib), so he is later than Śaṅkarānanda.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -71854,10 +72235,26 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Nidāgha"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of varaha, tejobindu, maha, annapurna, rudraksajabala, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "alt_summary": [
    "Son of Pulastya and disciple of Ṛbhu, who lived at Vīranagara on the Devikā; Ṛbhu returns twice in disguise to test and teach him (Viṣṇu Purāṇa 2.15-16); the recipient of the Ṛbhu Gītā.",
@@ -74344,10 +74741,26 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Paiṅgala"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of paingala, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -74416,10 +74829,26 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Paippalādi"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of jabali, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -78418,6 +78847,21 @@
      "result": "confirmed",
      "note": "Located: PrU 1.1-2 ('bhūya eva tapasā brahmacaryeṇa śraddhayā saṃvatsaraṃ saṃvatsyatha'). The link with the Paippalāda śākhā is stated as tradition (Wikipedia's Praśna article assigns the text to the Pippalāda school).",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Pippalāda"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of brahma, parabrahma, pancabrahma, sarabha, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -79194,6 +79638,21 @@
      "result": "confirmed",
      "note": "Located: BĀU 5.2.1-3 ('prajāpatau pitari brahmacaryam ūṣuḥ'); ChU 8.7-12 (101 years, 8.11.3); ChU 3.11.4 and 8.15.1 (teacher-line); MaiU 2.3 ('kratuṃ prajāpatim abruvan', the Vālakhilyas).",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Prajāpati"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of aruni, sita, katharudra, nrsimhatapani, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -82542,6 +83001,21 @@
      "result": "confirmed",
      "note": "Located: ChU 4.1.3-8 ('sayugvā raikvaḥ'; found 'adhastāc chakaṭasya pāmānaṃ kaṣamāṇam', 4.1.8), 4.2.3 (calls the king śūdra) and the saṃvarga teaching at 4.3.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Raikva"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of subala, in the roles the summary gives. Raikva is the questioner of Subāla khaṇḍas 9, 10, 11 and 15, and is also named in the transmission chain of khaṇḍa 7 (Ghora Āṅgirasa → Raikva → Rāma). A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -82572,10 +83046,26 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Raivataka"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of jabala, naradaparivrajaka, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -82979,6 +83469,21 @@
    "confidence": "high",
    "unverified": false,
    "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Rāma (as teacher)"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of muktika, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    },
     {
      "phase": "C",
      "date": "2026-09-29",
@@ -85229,10 +85734,26 @@
    "A4"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Ṛbhu"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of varaha, tejobindu, maha, annapurna, jabala, naradaparivrajaka, in the roles the summary gives. Varāha teaches Ṛbhu in chs. 1-3 and Ṛbhu teaches Nidāgha in ch. 4, as the skeleton report says. The e-text has 5 chapters, of which ch. 5 is yoga. A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "alt_summary": [
    "A mind-born son of Brahmā, knower of reality from birth, teacher of Nidāgha (Viṣṇu Purāṇa 2.15-16, verified); in the Śivarahasya he teaches Nidāgha the Ṛbhu Gītā received from Śiva.",
@@ -88358,6 +88879,21 @@
      "result": "confirmed",
      "note": "Located: MaiU 1.2 (comes to Bṛhadratha), 2.1-3 (relays the teaching of Maitri and Prajāpati to the Vālakhilyas) and 6.29-30.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Śākāyanya"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of maitreya, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -88506,6 +89042,43 @@
    "units": [
     "skeleton:U47-sakya-kadam-gelug",
     "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "tch:sakya-trizin-41",
+  "name": "Ngawang Kunga Tegchen Palbar, 41st Sakya Trizin",
+  "lineages": [
+   "lin:sakya"
+  ],
+  "summary": "Throne-holder of the Sakya from 1959 to 2017, teacher of the Lamdre in exile and worldwide.",
+  "dating": {
+   "scholarly": {
+    "text": "b. 1945 CE",
+    "from": 1945,
+    "to": null
+   },
+   "confidence": "high"
+  },
+  "historicity": "historical",
+  "gender": "male",
+  "recent": true,
+  "coverage": [
+   "B6",
+   "H"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
     "skeleton"
@@ -89511,10 +90084,26 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Saṃvartaka"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of jabala, bhiksuka, naradaparivrajaka, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -89825,6 +90414,21 @@
      "date": "2026-09-29",
      "method": "text-locate",
      "queries": [
+      "e-text name search: Sanatkumāra"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of kalagnirudra, atharvasikha, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
       "MBh 12.271"
      ],
      "evidence": [
@@ -89889,6 +90493,22 @@
    "confidence": "moderate",
    "unverified": false,
    "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text: sanatsujāta uvāca (Haṃsa)",
+      "Adyar Haṃsa: sanatkumāra uvāca"
+     ],
+     "evidence": [
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md (Haṃsa, line 6313)",
+      "catalog:Muktabodha:haMsopaniShad_with_chommentary__M00107"
+     ],
+     "result": "partially-confirmed",
+     "note": "This was on the skeleton's least-sure list. The local e-text of the Haṃsa reads 'sanatsujāta uvāca', which confirms the entry for this recension. The Adyar 1920 edition (Muktabodha M00107, with Brahmayogin's commentary) reads 'sanatkumāra uvāca', and Brahmayogin's commentary also names Sanatkumāra. The attribution to Sanatsujāta therefore holds only for the e-text recension. The entry hedges with 'in this recension', which is correct; a reviewer may wish to add the variant.",
+     "by": "sourcing:U04-minor-upanisads"
+    },
     {
      "phase": "C",
      "date": "2026-09-29",
@@ -90001,6 +90621,21 @@
      "result": "confirmed",
      "note": "Located: ChU 3.14.4 ('iti ha smāha śāṇḍilyaḥ'). The note's parallel ŚB 10.6.3 is confirmed in the GRETIL Mādhyandina ŚB: 10.6.3.1-2 has 'satyaṃ brahmety upāsīta … kratumayo 'yaṃ puruṣaḥ … manomayaṃ prāṇaśarīraṃ bhārūpam …'.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Śāṇḍilya"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of sandilya, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -90759,6 +91394,22 @@
     {
      "phase": "C",
      "date": "2026-09-29",
+     "method": "catalog+text-locate",
+     "queries": [
+      "GRETIL BSBh: brahmacaryād eva pravrajet"
+     ],
+     "evidence": [
+      "text:sources_raw/dcs/corpus/GRETIL/sa_bAdarAyaNa-brahmasUtra-comm.txt (BSBh 3.4.17 and 3.4.20)",
+      "catalog:eBharati:nRsiMhapUrvatApanIyopaniShadbhAShyam",
+      "catalog:eBharati:maThAmnAyopaniShat"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: BSBh 3.4.20 (GRETIL) cites the Jābāla ('brahmacaryaṃ parisamāpya gṛhī bhavet … pravrajet'), and BSBh 3.4.17 quotes 'brahmacaryād eva pravrajet'. A Nṛsiṃhapūrvatāpanīya-bhāṣya under Śaṅkara's name exists locally (eBhāratī). Its authenticity is questioned by scholars, as the entry says; that was not checked further.",
+     "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
      "method": "catalog+websearch",
      "queries": [
       "Sankara Bhagavadgitabhasya",
@@ -91038,10 +91689,26 @@
   "gender": "male",
   "summary": "14th-c. Advaitin saluted as guru in the opening verse of the Pañcadaśī; author of the Ātmapurāṇa and of Upaniṣad and Gītā commentaries.",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Shankarananda Advaita teacher of Vidyaranya Upanishad dipika commentary"
+     ],
+     "evidence": [
+      "https://www.wisdomlib.org/definition/shamkarananda",
+      "https://archive.org/details/Taittiriya.Upanishad.Bhasya"
+     ],
+     "result": "confirmed",
+     "note": "This was on the skeleton's least-sure list. Śaṅkarānanda, c. 13th-14th c., wrote Upaniṣad-dīpikās and the Ātmapurāṇa and was a pupil of Ānandātman. Sources call him the guru of Sāyaṇa and, in tradition, of Vidyāraṇya. The entry's 'c. 14th c.' is compatible.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "dating": {
    "scholarly": {
@@ -91177,10 +91844,26 @@
   "gender": "male",
   "summary": "U28 contribution: the sage who wanders the earth seeking yoga and receives it from Dattātreya in the Dattātreyayogaśāstra; at the end he attains all powers by Dattātreya's grace (DYŚ 148).",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Sāṅkṛti"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of darsana, avadhuta, aksi, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "coverage": [
    "A10",
@@ -93376,6 +94059,21 @@
      "result": "confirmed",
      "note": "Located: MuU 1.1.3 ('śaunako ha vai mahāśālo 'ṅgirasaṃ vidhivad upasannaḥ papraccha').",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Śaunaka Mahāśāla"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of brahma, parabrahma, daksinamurti, naradaparivrajaka, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -97040,6 +97738,21 @@
      "date": "2026-09-29",
      "method": "text-locate",
      "queries": [
+      "e-text name search: Śiva (as teacher)"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of yogasikha, yogakundali, tejobindu, maitreya, sukarahasya, hamsa, jabala, muktika, in the roles the summary gives. Speaker-roles checked: Hiraṇyagarbha asks Maheśvara (Yogaśikhā 1); padmaja asks Śaṅkara (Yogakuṇḍalī 3); Kumāra and Śiva (Tejobindu 2-4); Mahādeva teaches Maitreya (Maitreya 2); the tāraka given at Kāśī (Muktikā 1.19-21) and at Avimukta (Jābāla 1). A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
       "MBh 13.126-134; 12.337.62; 3.38-41; 13.14-17; 12.328.24; BhG 10.23"
      ],
      "evidence": [
@@ -97735,7 +98448,7 @@
   ],
   "summary": "Named by the Lord as his manifestation among generals (senānī) (BhG 10.24).",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
    "checks": [
@@ -97749,6 +98462,21 @@
      ],
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Skanda / Guha"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of aksamalika, skanda, jabali, in the roles the summary gives. The Jābāli transmission (Īśāna → Ṣaḍānana → Jābāli) is located in the e-text. A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -101169,6 +101897,21 @@
      "date": "2026-09-29",
      "method": "text-locate",
      "queries": [
+      "e-text name search: Śuka"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of sukarahasya, rudrahrdaya, varaha, bhiksuka, yajnavalkya, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
       "MBh 12.224-247; 12.312-313; 12.318-320"
      ],
      "evidence": [
@@ -102927,6 +103670,21 @@
      "result": "confirmed",
      "note": "Located: ChU 6.1.2 (goes to study at twelve and returns at twenty-four, 'mahāmanā anūcānamānī stabdhaḥ'); ChU 5.3.1 and BĀU 6.2.1 (the Pañcāla assembly); KauU 1.1 (sent to Citra).",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Śvetaketu"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of jabala, bhiksuka, naradaparivrajaka, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -106707,10 +107465,26 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Triśikhi"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of trisikhibrahmana, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -108311,6 +109085,21 @@
      "result": "confirmed",
      "note": "Located: BĀU 3.7.1 (studied in Madra), 6.3.7 (teaches Yājñavalkya); ChU 3.11.4 (taught by his father as eldest son), 5.11.2 (goes with the householders to Aśvapati), 6.1–6.16 (teaches Śvetaketu); KauU 1.1 (Āruṇi, called Gautama, goes to Citra). He is addressed as Gautama in BĀU 6.2.4 and ChU 5.3.6.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Uddālaka Āruṇi"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of aruni, jabala, bhiksuka, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -109416,10 +110205,27 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "catalog+websearch",
+     "queries": [
+      "Upanishad Brahmayogin Kanchipuram 18th century Ramachandrendra commentaries 108 Upanishads"
+     ],
+     "evidence": [
+      "https://en.wikipedia.org/wiki/Upanishad_Brahmayogin",
+      "https://shankarasampradayakosh.org/2022/10/26/upanishad-brahmendra-matha-1/",
+      "catalog:Muktabodha:vArAhopaniShad__M00298"
+     ],
+     "result": "confirmed",
+     "note": "This was on the skeleton's least-sure list; it is confirmed. The initiation name was Rāmacandrendra Sarasvatī, so the '(?)' in alt_names can be dropped; he was also called Upaniṣad-brahmendra and Upaniṣad-brahman. He was initiated by Vāsudevendra Sarasvatī at Kāñcīpuram and founded the Upaniṣad Brahmendra maṭha. He is dated to the mid-18th century, and his Muktikā commentary was completed in 1751, which fits '18th c.'. He commented on all 108 Muktikā Upaniṣads.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "alt_summary": [
    "18th-c. Advaitin of Kāñcī who wrote commentaries on all 108 Upaniṣads of the Muktikā canon."
@@ -111138,10 +111944,26 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Vaiśravaṇa (Vālakhilya)"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of pasupatabrahma, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -111950,6 +112772,21 @@
      "result": "confirmed",
      "note": "Located: BĀU 1.4.10 ('ṛṣir vāmadevaḥ pratipede 'haṃ manur abhavaṃ sūryaś ca', = RV 4.26.1) and AU 2.1.5 ('garbhe nu san … vāmadeva evam uvāca', = RV 4.27.1). Both RV verses were located in DCS.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Vāmadeva"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of varaha, bhiksuka, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -112544,10 +113381,26 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Varāha (the Boar avatāra)"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of varaha, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -113455,10 +114308,25 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Vāsudevāśrama Yatidharmaprakāśa Olivelle"
+     ],
+     "evidence": [
+      "https://www.amazon.com/Va%CC%84sudeva%CC%84s%CC%81rama-Yatidharmapraka%CC%84s%CC%81a-treatise-renunciation-Publications/dp/390027102X"
+     ],
+     "result": "confirmed",
+     "note": "Confirmed as the author of the Yatidharmaprakāśa (Olivelle 1976-77). The entry gives no dates.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -115317,6 +116185,21 @@
      "result": "confirmed",
      "note": "Low-confidence entry confirmed. Tradition identifies Mādhava (the author of the Parāśaramādhavīya and Kāla-mādhavīya, elder brother of Sāyaṇa) with Vidyāraṇya; some scholars contest this (Wikipedia). The entry states it as debated.",
      "by": "sourcing:U02-brahmana-vedanga"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Jivanmuktiviveka Vidyaranya vidvat sannyasa"
+     ],
+     "evidence": [
+      "https://www.wisdomlib.org/definition/jivanmuktiviveka",
+      "https://www.celextel.org/articles-and-summary/jivanmukti-viveka-summary/"
+     ],
+     "result": "confirmed",
+     "note": "Confirmed: the Jīvanmuktiviveka treats vividiṣā- and vidvat-saṃnyāsa, and vāsanākṣaya, manonāśa and tattvajñāna, drawing on the Saṃnyāsa Upaniṣads and the Yoga Vāsiṣṭha.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -118682,6 +119565,21 @@
      "date": "2026-09-29",
      "method": "text-locate",
      "queries": [
+      "e-text name search: Vyāsa"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of sukarahasya, rudrahrdaya, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
       "MBh 6.2; 12.224; 12.337.38-54; BhG 10.13, 10.37"
      ],
      "evidence": [
@@ -120160,10 +121058,26 @@
   },
   "gender": "male",
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "websearch",
+     "queries": [
+      "Olivelle Yatidharmasamuccaya Yadava Prakasa"
+     ],
+     "evidence": [
+      "https://en.wikipedia.org/wiki/Yadava_Prakasa",
+      "https://books.google.com/books?id=u43i4TKAIZ4C"
+     ],
+     "result": "confirmed",
+     "note": "Confirmed as Rāmānuja's first teacher in tradition, a Bhedābheda Vedāntin, and author of the Yatidharmasamuccaya (ed. Olivelle 1995). On the text's date (11th vs 12th c.) see the check of src:yatidharmasamuccaya.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "alt_summary": [
    "Bhedābheda Vedāntin, remembered in Śrīvaiṣṇava tradition as Rāmānuja's first teacher, later a tridaṇḍin renouncer; author of the Yatidharmasamuccaya on renouncers' rules.",
@@ -120368,6 +121282,21 @@
      "result": "confirmed",
      "note": "Located as the central teacher of BĀU 2.4, 3.1–3.9, 4.1–4.5. His pupil Sāmaśravas is at 3.1.2. BĀU 6.3.7 has 'uddālaka āruṇir vājasaneyāya yājñavalkyāyāntevāsina uktvā', and 6.5.3 has 'ādityānīmāni śuklāni yajūṃṣi vājasaneyena yājñavalkyenākhyāyante'. Historicity and the later works attributed to him are outside a text check.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text name search: Yājñavalkya"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Text-located: the name occurs in the e-text of jabala, yajnavalkya, mandalabrahmana, paingala, tarasara, bhiksuka, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.",
+     "by": "sourcing:U04-minor-upanisads"
     },
     {
      "phase": "C",

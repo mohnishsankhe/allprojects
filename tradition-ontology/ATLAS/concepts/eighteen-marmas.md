@@ -17,4 +17,4 @@
 _Notes: The list of the eighteen points and their distances is not entered as members because the unit could not verify it; check the Yoga Yājñavalkya (ch. 7) and the Triśikhibrāhmaṇa._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:45 IST._

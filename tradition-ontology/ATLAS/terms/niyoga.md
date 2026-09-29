@@ -16,4 +16,4 @@
 **Related:** [kārya](karya.md), [vidhi](vidhi.md)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._

@@ -11,4 +11,4 @@ Special funeral rites for initiates in which the guru ritually completes the sou
   - [Somaśambhupaddhati](../texts/somasambhupaddhati.md) — 
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._

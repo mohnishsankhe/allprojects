@@ -7,7 +7,7 @@
 **Dates:** Tradition's account: 1012–1097 (the usual Tibetan reckoning); Scholarly account: 11th c.; alternative reckonings (e.g. 1000–1081) exist; (confidence moderate)
 **Places:** Lhodrak (Drowolung), Phullahari / Puṣpahari (Nāropa's seat, Bihar), Nepal
 **Historicity:** historical
-**Teachers:** [Nāropa](naropa.md), [Maitrīpa (Advayavajra)](maitripa.md), [Kukkuripa](kukkuripa.md), `tch:drogmi`
+**Teachers:** [Nāropa](naropa.md), [Maitrīpa (Advayavajra)](maitripa.md), [Kukkuripa](kukkuripa.md), [Drokmi Lotsawa Shākya Yeshe](drokmi-lotsawa.md)
 **Students:** [Milarepa (Jetsün Mila Shepa Dorje)](milarepa.md), [Ngok Chöku Dorje](ngok-choku-dorje.md), [Tsurtön Wangi Dorje](tsurton-wangi-dorje.md), [Meton Chenpo (Meton Tsönpo)](meton-chenpo.md), [Darma Dode](darma-dode.md)
 **Works:** 
   - [Dṛṣṭisaṃkṣipta (Nāropa's 'View in Brief')](../texts/drstisamksipta.md) — attribution: accepted
@@ -21,4 +21,4 @@ Tibetan layman, farmer and translator of Lhodrak who travelled to India (three t
 _Notes: His translations appear with Nāropa as co-translator in the colophons of Tōh 2304, 2330, 2337, 2338 (read locally). Drogmi's role as his first teacher is from the Life (moderate)._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

@@ -12,4 +12,4 @@ The archetypal soma rite ('one desiring heaven should sacrifice with the Jyoti�
   - [Śābarabhāṣya](../texts/sabara-bhasya.md) — ref: 1.1.2; rests_on: ["tea:sabara-bhasya:1.1.2/2"]
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._

@@ -1,6 +1,6 @@
 # tripādvibhūti
 
-`trm:tripadvibhuti` · `skeleton` · confidence low
+`trm:tripadvibhuti` · `sourced` · confidence low
 
 **Language:** Sanskrit
 **Native script:** त्रिपाद्विभूति
@@ -14,4 +14,8 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Located as the title and theme of e-text no. 54; the colophon is 'ityātharvaṇīyatripādvibhūtimahānārāyaṇopaniṣat'. The definition fits the text's account of the three-quarters realm beyond māyā.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

@@ -22,7 +22,7 @@ Realization of Mahāmudrā depends on the blessing of the guru, which enters thr
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: teacher-transmission_
 
-terms: [adhiṣṭhāna](../terms/adhisthana.md), [mos gus (devotion)](../terms/mogu.md) · concepts: [The guru in the minor Upaniṣads](../concepts/guru.md) · teachers: [Lama Zhang (Zhang Yudrakpa Tsöndrü Drakpa)](../teachers/lama-zhang.md)
+terms: [adhiṣṭhāna](../terms/adhisthana.md), [mos gus (devotion)](../terms/mogu.md) · concepts: [Guru devotion in the Kagyu](../concepts/guru-devotion.md) · teachers: [Lama Zhang (Zhang Yudrakpa Tsöndrü Drakpa)](../teachers/lama-zhang.md)
 
 ### white-panacea <a id="tea-ultimate-supreme-path-of-mahamudra-white-panacea"></a>
 `skeleton` · confidence low
@@ -31,10 +31,10 @@ Recognizing the nature of mind is the single self-sufficient remedy (dkar po chi
 
 _level: ultimate · standpoint: seeker · path: meditation · stage: advanced · types: practice, dispute_
 
-terms: [dkar po chig thub (the self-sufficient white remedy)](../terms/karpo-chiktub.md) · concepts: [The 'white self-sufficient remedy' (dkar po chig thub)](../concepts/white-panacea.md) · teachers: [Lama Zhang (Zhang Yudrakpa Tsöndrü Drakpa)](../teachers/lama-zhang.md) · disputes: `dsp:sutra-mahamudra`
+terms: [dkar po chig thub (the self-sufficient white remedy)](../terms/karpo-chiktub.md) · concepts: [The 'white self-sufficient remedy' (dkar po chig thub)](../concepts/white-panacea.md) · teachers: [Lama Zhang (Zhang Yudrakpa Tsöndrü Drakpa)](../teachers/lama-zhang.md) · disputes: [Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?](../debates/sutra-mahamudra.md)
 
 
 _Notes: Title from memory; content summary at low confidence._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

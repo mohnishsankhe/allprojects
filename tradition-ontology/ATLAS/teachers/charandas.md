@@ -16,4 +16,4 @@ Delhi Sant, founder of the Caraṇdāsī sampradāya, who joined nirguṇa teach
 **Realization — the tradition's account:** As a boy he met the sage Śukadeva in the forest and received initiation; he then practised yoga and devotion for years before teaching.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._

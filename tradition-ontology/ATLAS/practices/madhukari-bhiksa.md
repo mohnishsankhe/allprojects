@@ -1,6 +1,6 @@
 # Bee-like alms (mādhukarī)
 
-`prc:madhukari-bhiksa` · `skeleton` · confidence high
+`prc:madhukari-bhiksa` · `sourced` · confidence high
 
 **Category:** ethics
 **Convergence:** 2 independent lineage(s): [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -15,4 +15,8 @@ The renunciant takes a little food from many houses without burdening any and st
   - [Sannyāsa Upaniṣad](../texts/sannyasa-upanisad.md) — ref: 2.65-71; rests_on: ["tea:sannyasa-upanisad:2.65-71"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U06-other-gitas, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

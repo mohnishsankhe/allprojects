@@ -63,4 +63,4 @@ _none recorded_
 _Notes: Historical metadata (scholarly account): the conversion of Takten Phuntsok Ling (renamed Ganden Phuntsok Ling) and the sealing of Jonang printing blocks are usually dated c. 1650–1658, after Tāranātha's death; the reasons given in the sources are both doctrinal and political (Tāranātha's patrons were the Tsang rulers defeated in 1642). Exact years: moderate confidence._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

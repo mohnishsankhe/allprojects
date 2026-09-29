@@ -18,4 +18,4 @@ A Sanskrit commentary on the Mokṣopāya by a Kashmiri Śaiva scholar, explaini
   - kind: original; name: GRETIL e-text (local: sa_bhAskarakaNTha-mokSopAyaTIkA.txt); licence: GRETIL terms
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._

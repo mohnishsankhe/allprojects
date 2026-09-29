@@ -14,4 +14,4 @@ Ojas is diminished by injury, wasting, anger, grief, worry, fatigue and hunger; 
   - [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) — ref: Sū 11.39-41; rests_on: ["tea:astanga-hrdaya:su.11.37-41"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

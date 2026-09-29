@@ -11,4 +11,4 @@
 Heir of Mazu; teacher of the Korean founders Doui, Hongcheok and Hyecheol.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

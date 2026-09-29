@@ -1,6 +1,6 @@
 # Moderate diet (mitāhāra) in the haṭha texts
 
-`prc:mitahara` · `skeleton` · confidence high
+`prc:mitahara` · `sourced` · confidence high
 
 **Category:** body-daily-rhythm
 **Convergence:** 3 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -32,4 +32,8 @@ Agreeable, sweet, unctuous food leaving a quarter of the stomach empty, offered 
 - Overeating is the first of the six things that destroy yoga. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 1.15
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 5 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

@@ -16,4 +16,4 @@
 Siddhasenagaṇi's large Śvetāmbara sub-commentary on the Tattvārthasūtra and its bhāṣya.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._

@@ -341,4 +341,4 @@ concepts: [The identity of the self and brahman](../concepts/atman-brahman-ident
 _Notes: Sub-commentaries: Padmapāda's Pañcapādikā (→ Prakāśātman's Vivaraṇa), Vācaspati's Bhāmatī (→ Amalānanda's Kalpataru → Appayya's Parimala), Ānandagiri's Nyāyanirṇaya, Govindānanda's Ratnaprabhā._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U33-sramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._

@@ -53,4 +53,4 @@ concepts: [The forty meditation subjects](../concepts/forty-kammatthanas.md)
 _Notes: Not in the local CBETA subset (only T08, T12, T47, T48 present). A Tibetan translation of its dhutaṅga section is reported (not checked). Chapter count from memory (moderate)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._

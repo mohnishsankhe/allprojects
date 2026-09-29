@@ -15,4 +15,4 @@ The Rasārṇava pairs mercury with breath: knowledge comes from holding the bre
 - partial: [Sahita-kumbhaka (retention joined with inhalation and exhalation)](sahita-kumbhaka.md) — haṭha breath retention
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

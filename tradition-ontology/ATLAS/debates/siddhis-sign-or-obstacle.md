@@ -1,6 +1,6 @@
 # Are the powers (siddhi) arising in yoga signs of attainment or obstacles?
 
-`dsp:siddhis-sign-or-obstacle` · `skeleton` · confidence moderate
+`dsp:siddhis-sign-or-obstacle` · `sourced` · confidence moderate
 
 **Coverage:** G
 
@@ -27,4 +27,8 @@ Warnings concern powers sought or displayed; the Yogaśikhā's praise concerns p
 **The traditions' own objections:** The Yogatattva makes no such distinction and treats all powers as obstacles.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

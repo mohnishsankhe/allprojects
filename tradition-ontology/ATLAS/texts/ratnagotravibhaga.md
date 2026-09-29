@@ -131,7 +131,7 @@ Nothing is to be removed from it and nothing added; the real should be seen as r
 
 _level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [āgantuka-kleśa](../terms/agantuka-klesa.md), [śūnyatā](../terms/sunyata.md) · concepts: [The garbha empty and not empty](../concepts/empty-and-not-empty-garbha.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), `dsp:rangtong-shentong`
+terms: [āgantuka-kleśa](../terms/agantuka-klesa.md), [śūnyatā](../terms/sunyata.md) · concepts: [The garbha empty and not empty](../concepts/empty-and-not-empty-garbha.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
 
 ### 1.156-157 <a id="tea-ratnagotravibhaga-1-156-157"></a>
 `skeleton` · confidence high
@@ -184,4 +184,4 @@ terms: [śraddhā](../terms/sraddha.md)
 _Notes: Chapter colophons and cited verses read in the local e-text (Johnston numbering; Takasaki's numbering differs slightly in chapter 1). Registry lists src:ratnagotravibhaga; U41 (five Maitreya texts) may also contribute._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

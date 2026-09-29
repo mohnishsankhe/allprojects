@@ -16,6 +16,7 @@
 - [The Mahāsiddhas (the eighty-four great adepts)](../lineages/mahasiddha.md): The dharma body: 'liberation in an instant is called dharmakāya' (Queen Dohā v8); appearances and sounds are primordially dharmakāya (Tōh 2292 no. 30).
 - [Madhyamaka](../lineages/madhyamaka.md): The truth body of the Buddhas, born from the collection of wisdom (RĀ 3.12–13).
 - [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md): chos sku: the emptiness of mind itself, unborn; 'the essence of thought is dharmakāya'; recognized at death as the clear light by those of highest faculties.
+- [Jonang (jo nang pa)](../lineages/jonang.md): The ultimate itself, permanent and the true self (perfection of self), not newly produced at awakening.
 
 ## Forms in other languages
 - Pali: dhammakāya  — partial
@@ -31,4 +32,4 @@
 **Related:** [rūpakāya](rupakaya.md), [sāṃbhogika-kāya](sambhogakaya.md), [nairmāṇika-kāya](nirmanakaya.md), [svābhāvika-kāya](svabhavikakaya.md)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U43-pure-land, skeleton:U45-nyingma-bon, skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka, skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U43-pure-land, skeleton:U45-nyingma-bon, skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka, skeleton:U46-kagyu, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

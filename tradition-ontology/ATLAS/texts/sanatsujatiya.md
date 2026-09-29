@@ -86,4 +86,4 @@ _Notes: A commentary is attributed to Śaṅkara (src:sanatsujatiya-bhasya-sanka
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_5.json (BORI Critical Edition text) 5.41.1ff Dhṛtarāṣṭra to Vidura; 5.41.5; 5.42.1 Sanatsujāta questioned; 5.46.1 the night passes (end) — Section located at CE 5.41-45 as entered; speakers and topic confirmed by keyword search. Dating = the whole-epic accounts, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._

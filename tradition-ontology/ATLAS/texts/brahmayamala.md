@@ -20,4 +20,4 @@ The chief early Yāmala tantra of the Vidyāpīṭha, teaching the cult of Kapā
 _Notes: Contains Kāpālika and sexual rites; summarised only._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._

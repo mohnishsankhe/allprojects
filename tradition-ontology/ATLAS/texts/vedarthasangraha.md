@@ -91,4 +91,4 @@ terms: [ghaṭaka-śruti](../terms/ghataka-sruti.md), [śarīra](../terms/sarira
 
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._

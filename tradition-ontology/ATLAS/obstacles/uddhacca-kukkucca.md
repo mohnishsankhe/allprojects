@@ -14,4 +14,4 @@ The fourth hindrance, fed by unsettledness of mind (SN 46.51).
   - [Bojjhaṅga Saṃyutta](../texts/bojjhanga-samyutta.md) — ref: 46.51; rests_on: ["tea:bojjhanga-samyutta:46.51"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._

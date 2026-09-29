@@ -43,4 +43,4 @@ _none recorded_
 _Notes: The maṭhas are paired (Palimaru–Adamaru, Krishnapura–Puttige, Shirur–Sode, Kaniyooru–Pejavara) — recorded from memory, moderate confidence. The two-monthly original rotation and the 1522 date should be checked._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._

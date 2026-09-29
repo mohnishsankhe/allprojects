@@ -3,7 +3,7 @@
 `prc:nianfo-chan` · `skeleton` · confidence moderate
 
 **Category:** mantra-sound
-**Convergence:** 3 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md), [Fayan house](../lineages/fayan.md), [Ōbaku Zen](../lineages/obaku.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [Chan (Chinese Meditation school)](../lineages/chan.md), [Fayan house](../lineages/fayan.md), [Ōbaku Zen](../lineages/obaku.md)
 
 Reciting Amitābha's name as a Chan practice, sometimes with the critical phrase 'who is it that recites the Buddha's name?'; advocated by Yongming Yanshou, Zhongfeng Mingben, Yunqi Zhuhong and the Ōbaku school; the Platform Sūtra holds that the awakened purify their own minds instead.
@@ -16,4 +16,4 @@ Reciting Amitābha's name as a Chan practice, sometimes with the critical phrase
 - The deluded recite the Buddha's name seeking birth in the West; the awakened purify their own minds (Platform Sūtra); joint practice was later debated (dsp:chan-and-nianfo). — [Platform Sūtra of the Sixth Patriarch (Liuzu tanjing)](../texts/platform-sutra.md) 6.8
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

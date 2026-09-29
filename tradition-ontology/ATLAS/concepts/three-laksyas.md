@@ -1,6 +1,6 @@
 # The three targets of meditation (lakṣya-traya)
 
-`cpt:three-laksyas` · `skeleton` · confidence high
+`cpt:three-laksyas` · `sourced` · confidence high
 
 **Category:** consciousness-states
 **Members:** antar-lakṣya, bahir-lakṣya, madhya-lakṣya
@@ -15,4 +15,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 5 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora, skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._

@@ -17,4 +17,4 @@
 Jñānaśrīmitra's pupil at Vikramaśīla, author of concise proofs of momentariness and exclusion and refutations of God and of other mind-streams.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._

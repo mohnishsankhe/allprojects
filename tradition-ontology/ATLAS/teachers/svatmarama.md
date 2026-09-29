@@ -16,4 +16,4 @@ Compiler of the Haṭhapradīpikā (c. 1450), who gathered verses from some twen
 _Notes: HYP 1.2 'praṇamya śrīguruṃ nātham' — whether 'Nātha' names a specific guru is not settled._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._

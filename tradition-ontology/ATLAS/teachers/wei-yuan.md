@@ -12,4 +12,4 @@ Qing scholar who compiled the Larger Sūtra into a conflated version and grouped
 _Notes: Contribution to the Pure Land canon recalled; low confidence._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

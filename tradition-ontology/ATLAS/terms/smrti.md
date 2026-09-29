@@ -34,4 +34,4 @@ _Notes: Homonym: the id trm:smrti is also used for 'remembered tradition'; this 
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.34 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch01-03, skeleton:U12-mimamsa, skeleton:U30-ayurveda-rasa, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch10-12, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy, skeleton:U46-kagyu, skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch01-03, skeleton:U12-mimamsa, skeleton:U30-ayurveda-rasa, skeleton:U02-brahmana-vedanga, extraction:bhagavad-gita/ch10-12, skeleton:U11-nyaya-vaisesika, skeleton:U35-jain-philosophy, skeleton:U46-kagyu, skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

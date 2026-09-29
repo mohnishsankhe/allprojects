@@ -15,4 +15,4 @@
 - partial: [ajñānavāda](ajnanavada.md) — the Pali eel-wrigglers and the Jain annāṇiyas both refuse to affirm; the Jain class (67 kinds) is wider
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._

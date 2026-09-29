@@ -3,7 +3,7 @@
 `prc:silent-illumination` · `skeleton` · confidence high
 
 **Category:** meditation
-**Convergence:** 2 independent lineage(s): [Caodong house](../lineages/caodong.md), [Sōtō Zen](../lineages/soto.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [Caodong house](../lineages/caodong.md), [Sōtō Zen](../lineages/soto.md)
 
 Sitting in silence in which words are forgotten while the mind's illumination remains clear, 'knowing without touching things, illumining without facing objects'; silence and illumination must be kept together.
@@ -17,4 +17,4 @@ Sitting in silence in which words are forgotten while the mind's illumination re
 - Dahui warns that 'silent illumination' taught as becoming cold ash and dead wood cuts off buddha-wisdom. — [Recorded Sayings of Dahui (Dahui Pujue chanshi yulu)](../texts/dahui-yulu.md) 884c25
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

@@ -20,4 +20,4 @@ Disciple of Daochuo who taught in Chang'an for some thirty years, copied the Ami
 **Realization — the tradition's account:** Each time he recited, a ray of light issued from his mouth (Fozu tongji 26); Jōdo-shū regards him as a manifestation of Amitābha, and Hōnen dreamt of meeting him with a half-golden body.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

@@ -11,4 +11,4 @@ When ill, seeing the illness as arising from clinging to 'I' and 'mine', removin
   - [Vimalakīrtinirdeśa](../texts/vimalakirtinirdesa.md) — ref: 4.12-15; rests_on: ["tea:vimalakirtinirdesa:4.12"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

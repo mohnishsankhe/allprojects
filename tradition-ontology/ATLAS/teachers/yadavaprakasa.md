@@ -1,6 +1,6 @@
 # Yādavaprakāśa
 
-`tch:yadavaprakasa` · `skeleton` · confidence moderate
+`tch:yadavaprakasa` · `sourced` · confidence moderate
 
 **Lineages:** [Bhedābheda Vedānta (Bhāskara's school and the early difference-and-non-difference Vedāntins)](../lineages/bhedabheda.md), [Viśiṣṭādvaita Vedānta (Śrīvaiṣṇava sampradāya)](../lineages/visistadvaita.md), [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md)
 **Dates:** Tradition's account: 11th c.; Scholarly account: 11th c. CE; (confidence moderate)
@@ -16,4 +16,8 @@ Advaita-leaning teacher of Kāñcīpuram under whom Rāmānuja first studied; ta
 **Realization — the tradition's account (Śrīvaiṣṇava):** Śrīvaiṣṇava hagiography (Guruparamparāprabhāva) says he disagreed with Rāmānuja's readings, plotted against him on a pilgrimage, and later became his disciple as the renouncer Govinda Jīyar.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U04-minor-upanisads, skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Yadava_Prakasa, https://books.google.com/books?id=u43i4TKAIZ4C — Confirmed as Rāmānuja's first teacher in tradition, a Bhedābheda Vedāntin, and author of the Yatidharmasamuccaya (ed. Olivelle 1995). On the text's date (11th vs 12th c.) see the check of src:yatidharmasamuccaya.
+
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U04-minor-upanisads, skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._

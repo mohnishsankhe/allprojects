@@ -13,4 +13,4 @@ The fourth impurity - the mind's slipping from Rudra; removed with its seed by c
   - [Gaṇakārikā](../texts/ganakarika.md) — ref: 4; rests_on: ["tea:ganakarika:4"]
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:45 IST._

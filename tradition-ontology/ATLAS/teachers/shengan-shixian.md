@@ -10,4 +10,4 @@
 Qing monk famed for his Exhortation to Arouse the Mind of Awakening (Quan fa putixin wen), which joins bodhicitta to recitation; eleventh patriarch in the later list.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

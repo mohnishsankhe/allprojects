@@ -15,4 +15,4 @@ The 'Verses on the Accumulation of Precious Qualities': some 300 verses in Buddh
   - kind: original; name: ed. A. Yuyama 1976 / E. Obermiller; licence: GRETIL (reference use); url: https://gretil.sub.uni-goettingen.de/gretil.html#Buddh
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

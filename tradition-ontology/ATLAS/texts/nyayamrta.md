@@ -58,4 +58,4 @@ concepts: [Liberation (mokṣa) in Dvaita](../concepts/moksa.md), [Graded bliss 
 _Notes: Four paricchedas, their opening sections and concluding sentences checked against the Devanāgarī e-text in sources_raw/raw_etexts/vedAntam/dvaitam (github.com/sanskrit/raw_etexts); numbering follows that copy and may differ in other editions._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._

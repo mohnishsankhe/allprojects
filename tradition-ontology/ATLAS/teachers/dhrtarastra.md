@@ -17,4 +17,4 @@ _Notes: Linked in BhG ch. 1–3 at 1.1, 1.19, 1.20._
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:ch11, tea:bhagavad-gita:11.9, tea:bhagavad-gita:11.26, tea:bhagavad-gita:11.35, tea:bhagavad-gita:11.50 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 5.33.1-9, 5.41.1, 5.42.1, 11.5.1, local:gita/gita BhG 1.1 — Located as hearer of Vidura, Sanatsujāta and Sañjaya.
 
-_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U05-gita-epic, extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 17:45 IST._

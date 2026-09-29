@@ -10,4 +10,4 @@
 King of Magadha at Rājagṛha, a hearer of Mahāvīra, who (because of his faith) will be the first Tīrthaṅkara, Padmanābha, of the next ascending half-cycle, though he first suffers in hell for past deeds.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._

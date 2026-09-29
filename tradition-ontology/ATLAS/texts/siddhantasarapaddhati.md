@@ -16,4 +16,4 @@ Ritual manual of the Siddhānta attributed to King Bhoja of Dhārā.
 _Notes: Existence and author as in the Muktabodha catalogue (sources_raw/raw_etexts/mixed/mukta/muktabodha_metadata.json (Muktabodha catalogue descriptions))._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._

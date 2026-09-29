@@ -18,4 +18,4 @@
 **Related:** [guṇavāda](gunavada.md), [anuvāda](anuvada.md), [bhūtārthavāda](bhutarthavada.md), [stuti](stuti.md), [nindā](ninda.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U02-brahmana-vedanga, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U02-brahmana-vedanga, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._

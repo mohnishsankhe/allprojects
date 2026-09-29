@@ -16,4 +16,4 @@
 _Notes: Homonym of dṛṣṭi 'view' (Jain/Buddhist); id disambiguated._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._

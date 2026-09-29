@@ -43,8 +43,12 @@ KEYED_LISTS = {
 NO_UNION = {"stages"}  # take from primary only (conflicts logged)
 UMBRELLAS = {"lin:vedanta", "lin:mahayana", "lin:sakta", "lin:jainism", "lin:sramana", "lin:mantramarga",
              "lin:atimarga", "lin:tantra-movement", "lin:early-buddhism", "lin:vajrayana", "lin:kashmir-saivism",
-             "lin:chan", "lin:zen", "lin:sant", "lin:pure-land", "lin:kagyu",
+             "lin:sant",
              "lin:regional-bhakti-poets", "lin:epic-teaching", "lin:sthavira"}  # classificatory groupings, not independent roots
+# Transmission lineages whose branches are NOT independent witnesses: lin:chan (with Seon/Zen), lin:pure-land and lin:kagyu
+# are real transmissions, so their branches collapse into them (DECISIONS 2026-09-29). A lineage listed here is its own root
+# whatever its parent says (a separate transmission filed under a family name).
+OWN_ROOTS = {"lin:shangpa-kagyu"}
 
 conflicts, ilog_new = [], []
 NOW = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=5, minutes=30))).strftime("%Y-%m-%d %H:%M IST")
@@ -287,7 +291,7 @@ def lineage_root(lid, lineages, cache={}):
     if lid in cache:
         return cache[lid]
     seen, cur = set(), lid
-    while True:
+    while cur not in OWN_ROOTS:
         seen.add(cur)
         par = (lineages.get(cur) or {}).get("parent")
         if not par or par in seen or par in UMBRELLAS or par not in lineages:

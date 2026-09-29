@@ -11,4 +11,4 @@ Wife of Maṇḍana Miśra who, in the tradition's account, judged the debate be
 _Notes: Known only from hagiography._
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U12-mimamsa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U13-advaita, skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._

@@ -12,4 +12,4 @@ Concentration on emptiness (aspects empty, non-self), on the wishless (the remai
   - [Abhidharmakośa (Abhidharmakośakārikā)](../texts/abhidharmakosa.md) — ref: 8.24-25; rests_on: ["tea:abhidharmakosa:8.24-25"]
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

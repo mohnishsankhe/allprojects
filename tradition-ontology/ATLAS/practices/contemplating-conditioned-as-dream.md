@@ -3,7 +3,7 @@
 `prc:contemplating-conditioned-as-dream` · `skeleton` · confidence high
 
 **Category:** meditation
-**Convergence:** 3 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md), [Mahāyāna](../lineages/mahayana.md), [Zen (Japanese Chan)](../lineages/zen.md)
+**Convergence:** 2 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md), [Mahāyāna](../lineages/mahayana.md)
 **Taught in:** [Chan (Chinese Meditation school)](../lineages/chan.md), [Mahāyāna](../lineages/mahayana.md), [Zen (Japanese Chan)](../lineages/zen.md)
 
 Contemplating all conditioned dharmas as stars, a fault of vision, a lamp, an illusion, dew, a bubble, a dream, lightning, a cloud.
@@ -11,4 +11,4 @@ Contemplating all conditioned dharmas as stars, a fault of vision, a lamp, an il
   - [Vajracchedikā Prajñāpāramitā](../texts/vajracchedika.md) — ref: §32; rests_on: ["tea:vajracchedika:32", "tea:vajracchedika:32/2"]
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

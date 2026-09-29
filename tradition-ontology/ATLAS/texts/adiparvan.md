@@ -24,4 +24,4 @@ The book of beginnings: the frame narratives (Ugraśravas at Naimiṣa; Janameja
 
 - 2026-09-29 text-locate: confirmed — local:sources_raw/DharmicData/Mahabharata/mahabharata_book_1.json (BORI Critical Edition text) book 1: 225 chapters — Book 1 has exactly 225 chapters in the local Critical Edition text, as entered.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._

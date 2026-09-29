@@ -27,5 +27,6 @@ _Notes: The Gītā develops the theme of the last moment at 8.5–13 (outside th
 **Verification checks**
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/isa-upanisad/segments.json — All 5 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 3.14.1; PrU 3.10; Īśa 17; PrU 5; ChU 3.17.6). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Yogaśikhā 1.31 is located: dehāvasānasamaye citte yad yad vibhāvayet | tat tad eva bhavej jīvaḥ. All 1 teachings it rests on exist and were located in the e-text.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U04-minor-upanisads, skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U03-principal-upanisads, skeleton:U07-puranas, skeleton:U04-minor-upanisads, skeleton:U16-bhedabheda, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._

@@ -11,4 +11,4 @@
 Kashmiri commentator on the third book of the Vākyapadīya (Prakīrṇaprakāśa), who read Bhartṛhari's categories as ways the one Word-Brahman appears; he mentions his own lost commentary Śabdaprabhā and a work Vārttikonmeṣa.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._

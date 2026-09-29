@@ -54,7 +54,7 @@ Whatever evil I, like a beast, have done or caused to be done in beginningless s
 
 _level: conventional · standpoint: devotional · path: devotion, ritual · stage: beginner · types: practice, ethics_
 
-practices: [Confession of faults](../practices/confession-of-faults.md) · teachers: [Śāntideva](../teachers/santideva.md)
+practices: [Purification by the four opponent powers](../practices/confession-of-faults.md) · teachers: [Śāntideva](../teachers/santideva.md)
 
 ### 2.48-49 <a id="tea-bodhicaryavatara-2-48-49"></a>
 `skeleton` · confidence high
@@ -65,7 +65,7 @@ Today I go for refuge to the Protectors of the world, of great power, striving t
 
 _level: conventional · standpoint: devotional · path: devotion, ritual · stage: beginner · types: practice_
 
-practices: [The supreme worship (sevenfold service)](../practices/sevenfold-worship.md) · teachers: [Śāntideva](../teachers/santideva.md)
+practices: [The seven-limb practice](../practices/sevenfold-worship.md) · teachers: [Śāntideva](../teachers/santideva.md)
 
 ### 2.62 <a id="tea-bodhicaryavatara-2-62"></a>
 `skeleton` · confidence high
@@ -87,7 +87,7 @@ Whatever evil I, foolish and deluded, have accumulated — what is blameworthy b
 
 _level: conventional · standpoint: devotional · path: devotion, ritual · stage: all · types: practice, ethics_
 
-practices: [Confession of faults](../practices/confession-of-faults.md) · teachers: [Śāntideva](../teachers/santideva.md)
+practices: [Purification by the four opponent powers](../practices/confession-of-faults.md) · teachers: [Śāntideva](../teachers/santideva.md)
 
 ### 3.22-23 <a id="tea-bodhicaryavatara-3-22-23"></a>
 `skeleton` · confidence high
@@ -131,7 +131,7 @@ One who wishes to guard the training must guard the mind with effort; the traini
 
 _level: conventional · standpoint: seeker · path: meditation, action · stage: all · types: practice_
 
-terms: [smṛti](../terms/smrti.md) · practices: [Guarding the mind with mindfulness and introspection](../practices/guarding-the-mind.md) · teachers: [Śāntideva](../teachers/santideva.md)
+terms: [smṛti](../terms/smrti.md) · practices: [Guarding the mind with mindfulness and alertness](../practices/guarding-the-mind.md) · teachers: [Śāntideva](../teachers/santideva.md)
 
 ### 5.86-87 <a id="tea-bodhicaryavatara-5-86-87"></a>
 `skeleton` · confidence high
@@ -153,7 +153,7 @@ In brief, this alone is the mark of introspection: to examine again and again th
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-terms: [saṃprajanya](../terms/samprajanya.md) · practices: [Guarding the mind with mindfulness and introspection](../practices/guarding-the-mind.md) · teachers: [Śāntideva](../teachers/santideva.md)
+terms: [saṃprajanya](../terms/samprajanya.md) · practices: [Guarding the mind with mindfulness and alertness](../practices/guarding-the-mind.md) · teachers: [Śāntideva](../teachers/santideva.md)
 
 ### 6.1-2 <a id="tea-bodhicaryavatara-6-1-2"></a>
 `skeleton` · confidence high
@@ -250,7 +250,7 @@ All who are unhappy in the world are so through desiring their own happiness; al
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: practice, ethics, karma-liberation_
 
-concepts: [Exchanging self and other](../concepts/exchanging-self-and-other.md) · obstacles: [Self-cherishing (desiring one's own happiness)](../obstacles/self-cherishing.md) · teachers: [Śāntideva](../teachers/santideva.md)
+concepts: [Exchanging self and other](../concepts/exchanging-self-and-other.md) · obstacles: [Self-cherishing](../obstacles/self-cherishing.md) · teachers: [Śāntideva](../teachers/santideva.md)
 
 ### 8.134-136 <a id="tea-bodhicaryavatara-8-134-136"></a>
 `skeleton` · confidence high
@@ -259,7 +259,7 @@ Whatever calamities, sufferings and fears there are in the world all come from g
 
 _level: conventional · standpoint: seeker · path: meditation, action · stage: advanced · types: practice, ethics_
 
-practices: [Exchanging self and other](../practices/exchanging-self-and-other.md) · obstacles: [Self-cherishing (desiring one's own happiness)](../obstacles/self-cherishing.md) · teachers: [Śāntideva](../teachers/santideva.md)
+practices: [Exchanging self and other](../practices/exchanging-self-and-other.md) · obstacles: [Self-cherishing](../obstacles/self-cherishing.md) · teachers: [Śāntideva](../teachers/santideva.md)
 
 ### 9.1 <a id="tea-bodhicaryavatara-9-1"></a>
 `skeleton` · confidence high
@@ -409,4 +409,4 @@ concepts: [The awakening mind (bodhicitta) in the Madhyamaka manuals](../concept
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

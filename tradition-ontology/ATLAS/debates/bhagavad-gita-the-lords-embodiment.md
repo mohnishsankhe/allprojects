@@ -23,4 +23,4 @@ _Notes: The commentators differ on exactly which view 7.24 rejects (that the Lor
 
 - 2026-09-29 text: corrected — tea:bhagavad-gita:7.24, tea:bhagavad-gita:9.11, tea:bhagavad-gita:7.25, tea:bhagavad-gita:7.26 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 17:45 IST._

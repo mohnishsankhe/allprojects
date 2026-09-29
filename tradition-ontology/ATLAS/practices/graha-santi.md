@@ -18,4 +18,4 @@ The nine planets are installed as images of their prescribed materials or drawn 
 - The one whom a planet afflicts at a given time should worship that planet with special care. — [Yājñavalkyasmṛti](../texts/yajnavalkyasmrti.md) 1.307
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._

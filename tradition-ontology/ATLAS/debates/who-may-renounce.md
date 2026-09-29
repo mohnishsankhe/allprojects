@@ -1,6 +1,6 @@
 # Who is eligible to renounce?
 
-`dsp:who-may-renounce` · `skeleton` · confidence moderate
+`dsp:who-may-renounce` · `sourced` · confidence moderate
 
 **Coverage:** G
 
@@ -27,4 +27,8 @@ Open: anyone dispassionate — with or without vows or fires — may renounce; e
 _Notes: Related registry dispute: dsp:women-caste-liberation. The texts assume male renouncers._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 5 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

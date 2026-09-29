@@ -85,4 +85,4 @@ concepts: [The guru-principle](../concepts/guru-principle.md) · teachers: [Śiv
 _Notes: Chanted daily in the Siddha Yoga tradition of Muktananda (recent) and widely in guru-centred circles._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._

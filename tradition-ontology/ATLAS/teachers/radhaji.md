@@ -9,4 +9,4 @@
 Soamiji's wife, revered in the Agra satsang; one account derives the name 'Radhasoami' from 'Radha' and 'Soami'.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._

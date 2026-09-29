@@ -10,4 +10,4 @@ Son of Drupada and Droṇa's intelligent disciple, who arrayed the Pāṇḍava 
 _Notes: Identified as the drupadaputra of 1.3 by the epic context. Linked in BhG ch. 1–3 at 1.3, 1.17._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:45 IST._

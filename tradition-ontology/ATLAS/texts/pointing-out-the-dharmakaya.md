@@ -24,8 +24,8 @@ The pointing-out is given in stages: mind in stillness and in movement is pointe
 
 _level: bridging · standpoint: seeker · path: meditation, devotion · stage: intermediate · types: practice, teacher-transmission_
 
-terms: [ngo sprod](../terms/ngotro.md), [rang grol](../terms/rangdrol.md) · concepts: [The pointing-out instruction](../concepts/pointing-out-instruction.md) · practices: `prc:pointing-out` · teachers: [Wangchuk Dorje, the ninth Karmapa](../teachers/wangchuk-dorje.md)
+terms: [ngo sprod](../terms/ngotro.md), [rang grol](../terms/rangdrol.md) · concepts: [The pointing-out instruction](../concepts/pointing-out-instruction.md) · practices: [Receiving the pointing-out instruction](../practices/pointing-out.md) · teachers: [Wangchuk Dorje, the ninth Karmapa](../teachers/wangchuk-dorje.md)
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

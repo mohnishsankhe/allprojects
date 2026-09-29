@@ -55,7 +55,7 @@ The nine mental states are achieved in order: placing the mind, continuous place
 
 _level: conventional · standpoint: analytic · path: meditation · stage: intermediate (sems gnas dgu) · types: practice, consciousness-mind_
 
-concepts: [The nine stages of settling the mind (Yogācāra sources)](../concepts/nine-stages-calm-yogacara.md), [The six powers for calm abiding](../concepts/six-powers-samatha.md), [The four attentions (mental engagements)](../concepts/four-attentions-samatha.md) · practices: [The nine stages of settling the mind (navākārā cittasthiti)](../practices/nine-mental-abidings.md), `prc:calm-abiding-lamrim` · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
+concepts: [The nine stages of settling the mind (Yogācāra sources)](../concepts/nine-stages-calm-yogacara.md), [The six powers for calm abiding](../concepts/six-powers-samatha.md), [The four attentions (mental engagements)](../concepts/four-attentions-samatha.md) · practices: [The nine stages of settling the mind (navākārā cittasthiti)](../practices/nine-mental-abidings.md), [Calm abiding according to the lamrim](../practices/calm-abiding-lamrim.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
 
 ### calm.prerequisites <a id="tea-lamrim-chenmo-calm-prerequisites"></a>
 `skeleton` · confidence high
@@ -73,7 +73,7 @@ Subtle laxity — where the mind stays on its object with some clarity but its i
 
 _level: conventional · standpoint: experiential · path: meditation · stage: intermediate · types: practice, consciousness-mind_
 
-obstacles: `obs:subtle-laxity`, [Laxity and excitement, and the other faults of concentration](../obstacles/laxity-and-excitement.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
+obstacles: [Subtle laxity (bying ba phra mo)](../obstacles/subtle-laxity.md), [Laxity and excitement, and the other faults of concentration](../obstacles/laxity-and-excitement.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
 
 ### conclusion.tantra <a id="tea-lamrim-chenmo-conclusion-tantra"></a>
 `skeleton` · confidence high
@@ -109,7 +109,7 @@ The training in equalizing and exchanging self and other, taught by Śāntideva:
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-concepts: [Equalizing self and other](../concepts/equalizing-self-and-other.md), [Exchanging self and other](../concepts/exchanging-self-and-other.md) · practices: [Equalizing self and other](../practices/equalizing-self-and-other.md), [Exchanging self and other](../practices/exchanging-self-and-other.md), `prc:tonglen` · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
+concepts: [Equalizing self and other](../concepts/equalizing-self-and-other.md), [Exchanging self and other](../concepts/exchanging-self-and-other.md) · practices: [Equalizing self and other](../practices/equalizing-self-and-other.md), [Exchanging self and other](../practices/exchanging-self-and-other.md), [Sending and taking (gtong len)](../practices/tonglen.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
 
 ### great.ritual <a id="tea-lamrim-chenmo-great-ritual"></a>
 `skeleton` · confidence moderate
@@ -127,7 +127,7 @@ The sevenfold instruction of cause and effect, from Atiśa's lineage: on the bas
 
 _level: conventional · standpoint: seeker · path: meditation, devotion · stage: intermediate · types: practice_
 
-concepts: [The sevenfold cause-and-effect instruction for bodhicitta](../concepts/seven-point-cause-and-effect.md) · practices: `prc:seven-point-cause-and-effect` · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
+concepts: [The sevenfold cause-and-effect instruction for bodhicitta](../concepts/seven-point-cause-and-effect.md) · practices: [The seven-point cause-and-effect meditation for bodhicitta](../practices/seven-point-cause-and-effect.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
 
 ### insight.conventional-existence <a id="tea-lamrim-chenmo-insight-conventional-existence"></a>
 `skeleton` · confidence high
@@ -154,7 +154,7 @@ Just as, to know that a person is absent, one must know the person who is absent
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, practice_
 
-terms: [dgag bya](../terms/gakja.md), [svabhāva](../terms/svabhava.md) · concepts: [The object of negation (dgag bya)](../concepts/object-of-negation.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: `dsp:object-of-negation-madhyamaka`
+terms: [dgag bya](../terms/gakja.md), [svabhāva](../terms/svabhava.md) · concepts: [The object of negation (dgag bya)](../concepts/object-of-negation.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: [What does Madhyamaka reasoning negate: inherent existence only, or all four extremes including existence itself?](../debates/object-of-negation-madhyamaka.md)
 
 ### insight.prasangika-svatantrika <a id="tea-lamrim-chenmo-insight-prasangika-svatantrika"></a>
 `skeleton` · confidence high
@@ -163,7 +163,7 @@ The Svātantrikas accept that things have an own-character (inherent nature) con
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-terms: [svatantra-anumāna](../terms/svatantra-anumana.md), [prasaṅga](../terms/prasanga.md) · concepts: [Autonomous inference in Madhyamaka](../concepts/svatantra-anumana.md), [The method of consequences](../concepts/prasanga-method.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: `dsp:prasangika-svatantrika`
+terms: [svatantra-anumāna](../terms/svatantra-anumana.md), [prasaṅga](../terms/prasanga.md) · concepts: [Autonomous inference in Madhyamaka](../concepts/svatantra-anumana.md), [The method of consequences](../concepts/prasanga-method.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: [Prāsaṅgika against Svātantrika](../debates/prasangika-svatantrika.md)
 
 ### insight.reliance <a id="tea-lamrim-chenmo-insight-reliance"></a>
 `skeleton` · confidence high
@@ -172,7 +172,7 @@ To find the view one must rely on the definitive scriptures and on Nāgārjuna's
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: advanced · types: teacher-transmission_
 
-concepts: [Provisional and definitive meaning in Madhyamaka](../concepts/neyartha-nitartha-madhyamaka.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md), [Buddhapālita](../teachers/buddhapalita.md), [Candrakīrti](../teachers/candrakirti.md) · disputes: `dsp:prasangika-svatantrika`
+concepts: [Provisional and definitive meaning in Madhyamaka](../concepts/neyartha-nitartha-madhyamaka.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md), [Buddhapālita](../teachers/buddhapalita.md), [Candrakīrti](../teachers/candrakirti.md) · disputes: [Prāsaṅgika against Svātantrika](../debates/prasangika-svatantrika.md)
 
 ### insight.selflessness-of-person <a id="tea-lamrim-chenmo-insight-selflessness-of-person"></a>
 `skeleton` · confidence high
@@ -190,7 +190,7 @@ Those who negate too much — holding that Madhyamaka reasoning refutes all exis
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-concepts: [The object of negation (dgag bya)](../concepts/object-of-negation.md) · obstacles: [Misreading emptiness as nothingness](../obstacles/nihilistic-misreading-of-emptiness.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: `dsp:object-of-negation-madhyamaka`
+concepts: [The object of negation (dgag bya)](../concepts/object-of-negation.md) · obstacles: [Misreading emptiness as nothingness](../obstacles/nihilistic-misreading-of-emptiness.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: [What does Madhyamaka reasoning negate: inherent existence only, or all four extremes including existence itself?](../debates/object-of-negation-madhyamaka.md)
 
 ### insight.too-narrow <a id="tea-lamrim-chenmo-insight-too-narrow"></a>
 `skeleton` · confidence high
@@ -199,7 +199,7 @@ Those who negate too little — refuting only a self or entity imagined by philo
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-concepts: [The object of negation (dgag bya)](../concepts/object-of-negation.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: `dsp:object-of-negation-madhyamaka`
+concepts: [The object of negation (dgag bya)](../concepts/object-of-negation.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: [What does Madhyamaka reasoning negate: inherent existence only, or all four extremes including existence itself?](../debates/object-of-negation-madhyamaka.md)
 
 ### insight.union <a id="tea-lamrim-chenmo-insight-union"></a>
 `skeleton` · confidence high
@@ -217,7 +217,7 @@ Some claim that all conceptual analysis obstructs meditation and that one should
 
 _level: conventional · standpoint: polemical · path: meditation, knowledge · stage: all · types: practice, dispute_
 
-concepts: [Analytical and placement meditation](../concepts/analytical-and-placement-meditation.md) · practices: `prc:analytical-meditation`, `prc:placement-meditation` · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: `dsp:role-of-analysis-in-meditation`
+concepts: [Analytical and placement meditation](../concepts/analytical-and-placement-meditation.md) · practices: [Analytical meditation (dpyad sgom)](../practices/analytical-meditation.md), [Placement meditation ('jog sgom)](../practices/placement-meditation.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: [Is conceptual analysis part of meditation, or must all thought be stopped?](../debates/role-of-analysis-in-meditation.md)
 
 ### intro.greatness-of-teaching <a id="tea-lamrim-chenmo-intro-greatness-of-teaching"></a>
 `skeleton` · confidence high
@@ -235,7 +235,7 @@ Contemplate the human life of leisure and endowment — free of the eight unfree
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice, karma-liberation_
 
-concepts: [The rarity of human birth](../concepts/rarity-of-human-birth.md), [The four thoughts that turn the mind (blo ldog rnam bzhi)](../concepts/four-thoughts-that-turn-the-mind.md) · practices: `prc:lamrim-meditation` · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
+concepts: [The rarity of human birth](../concepts/rarity-of-human-birth.md), [The four thoughts that turn the mind (blo ldog rnam bzhi)](../concepts/four-thoughts-that-turn-the-mind.md) · practices: [Meditation on the stages of the path](../practices/lamrim-meditation.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
 
 ### intro.meditation-sessions <a id="tea-lamrim-chenmo-intro-meditation-sessions"></a>
 `skeleton` · confidence moderate
@@ -244,7 +244,7 @@ How to conduct a meditation session: the six preparatory practices (cleaning the
 
 _level: conventional · standpoint: ritual · path: ritual, meditation · stage: beginner · types: practice_
 
-practices: `prc:six-preparatory-practices`, `prc:lamrim-meditation` · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
+practices: [The six preparatory practices of a lamrim session](../practices/six-preparatory-practices.md), [Meditation on the stages of the path](../practices/lamrim-meditation.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
 
 ### intro.reliance-on-teacher <a id="tea-lamrim-chenmo-intro-reliance-on-teacher"></a>
 `skeleton` · confidence high
@@ -253,7 +253,7 @@ The root of the path is proper reliance on the spiritual teacher in thought and 
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: teacher-transmission_
 
-concepts: [Proper reliance on the spiritual teacher](../concepts/reliance-on-teacher-lamrim.md), [The qualified teacher](../concepts/qualified-teacher-kadam.md) · practices: [Reliance on the spiritual friend](../practices/reliance-on-spiritual-friend.md), [Guru yoga (bla ma'i rnal 'byor)](../practices/guru-yoga.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
+concepts: [Proper reliance on the spiritual teacher](../concepts/reliance-on-teacher-lamrim.md), [The qualified teacher](../concepts/qualified-teacher-kadam.md) · practices: [Relying on the spiritual teacher](../practices/reliance-on-spiritual-friend.md), [Guru yoga](../practices/guru-yoga.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
 
 ### middle.origin <a id="tea-lamrim-chenmo-middle-origin"></a>
 `skeleton` · confidence high
@@ -280,7 +280,7 @@ The person of middling scope contemplates the sufferings of saṃsāra in genera
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: karma-liberation, world-fate_
 
-concepts: [The three kinds of suffering (Buddhist)](../concepts/three-sufferings.md), [The four noble truths](../concepts/four-noble-truths.md) · practices: `prc:lamrim-meditation` · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
+concepts: [The three kinds of suffering (Buddhist)](../concepts/three-sufferings.md), [The four noble truths](../concepts/four-noble-truths.md) · practices: [Meditation on the stages of the path](../practices/lamrim-meditation.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
 
 ### middle.three-trainings <a id="tea-lamrim-chenmo-middle-three-trainings"></a>
 `skeleton` · confidence high
@@ -298,7 +298,7 @@ Mindfulness of death: death is certain (nothing can stop the Lord of Death, life
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: practice, death-dying_
 
-concepts: [Mindfulness of death: three roots, nine reasons, three decisions](../concepts/three-roots-nine-reasons-death.md), [The four thoughts that turn the mind (blo ldog rnam bzhi)](../concepts/four-thoughts-that-turn-the-mind.md) · practices: [Contemplating death and impermanence](../practices/contemplating-death-and-impermanence.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
+concepts: [Mindfulness of death: three roots, nine reasons, three decisions](../concepts/three-roots-nine-reasons-death.md), [The four thoughts that turn the mind (blo ldog rnam bzhi)](../concepts/four-thoughts-that-turn-the-mind.md) · practices: [Contemplating death](../practices/contemplating-death-and-impermanence.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
 
 ### small.karma <a id="tea-lamrim-chenmo-small-karma"></a>
 `skeleton` · confidence high
@@ -307,7 +307,7 @@ Karma has four general characteristics: it is certain (virtue brings happiness, 
 
 _level: conventional · standpoint: causal · path: action · stage: beginner · types: karma-liberation, ethics_
 
-concepts: [The four general characteristics of karma](../concepts/four-characteristics-of-karma.md), [The ten virtuous paths of action](../concepts/ten-virtuous-paths.md), [The four powers of confession](../concepts/four-powers-of-confession.md) · practices: [Confession of faults](../practices/confession-of-faults.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
+concepts: [The four general characteristics of karma](../concepts/four-characteristics-of-karma.md), [The ten virtuous paths of action](../concepts/ten-virtuous-paths.md), [The four powers of confession](../concepts/four-powers-of-confession.md) · practices: [Purification by the four opponent powers](../practices/confession-of-faults.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md)
 
 ### small.lower-realms <a id="tea-lamrim-chenmo-small-lower-realms"></a>
 `skeleton` · confidence high
@@ -331,4 +331,4 @@ concepts: [The three refuges](../concepts/three-refuges.md) · practices: [Going
 _Notes: Not local. Refs in this unit are section names (scope/topic), not page or folio numbers._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

@@ -13,4 +13,4 @@
 The Perfection of Wisdom in few words, a very short prajñāpāramitā with a dhāraṇī.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

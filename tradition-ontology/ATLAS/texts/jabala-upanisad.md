@@ -1,6 +1,6 @@
 # Jābāla Upaniṣad
 
-`src:jabala-upanisad` · `skeleton` · confidence high
+`src:jabala-upanisad` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,12 +13,13 @@
 Yājñavalkya teaches Bṛhaspati, Atri and Janaka: Avimukta (Kāśī) is located between the brows, where Rudra gives the dying the tāraka; the Śatarudrīya confers immortality; one may renounce from any stage 'on the very day one becomes dispassionate'; describes the renunciation rite, the inner sacred thread, the paramahaṃsas of unmanifest marks, and (recorded summary-only) the renouncer's permitted modes of death.
 **Editions / translations:** 
   - kind: original; name: Īśādiviṃśottaraśatopaniṣadaḥ (Nirṇayasāgara collection of 120 Upaniṣads), South Indian recension carrying Upaniṣad Brahmayogin's opening maṅgala verses; e-text github.com/sanskrit/raw_etexts vedaH/misc/upaniShat/mixedPF/108_Upanishads.md; licence: text public domain; e-text licence unstated; url: https://github.com/sanskrit/raw_etexts
-  - kind: original; name: Adyar Library Upaniṣad series (Schrader, Minor Upaniṣads vol. 1: Saṃnyāsa, 1912; A. Mahadeva Sastri: Yoga 1920, Sāmānya Vedānta 1921, Vaiṣṇava 1923, Śaiva 1925, Śākta 1925) with Upaniṣad Brahmayogin's commentary; licence: public domain (pre-1930 editions)
+  - kind: original; name: The Saṃnyāsa Upaniṣads with the commentary of Śrī Upaniṣad-Brahma-Yogin, ed. T. R. Chintamani Dikshit (Madras: Adyar Library, 1929; reprinted 1966); licence: public domain (pre-1930 edition); url: https://archive.org/details/in.ernet.dli.2015.553699
+  - kind: original; name: F. Otto Schrader (ed.), The Minor Upaniṣads, critically edited for the Adyar Library, vol. 1: Saṃnyāsa-Upaniṣads (Madras: Adyar Library, 1912) — critical edition of twenty Saṃnyāsa texts with Schrader's own Sanskrit ṭippaṇī; without Upaniṣad Brahmayogin's commentary; licence: public domain (pre-1930 edition); url: https://archive.org/details/in.ernet.dli.2015.283511
 
-## Teachings (10: skeleton 10)
+## Teachings (10: sourced 10)
 
 ### 1 <a id="tea-jabala-upanisad-1"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Bṛhaspati asks Yājñavalkya about Kurukṣetra, the gods' place of sacrifice; it is Avimukta, the sacred place of Brahman; there Rudra teaches the tāraka to the departing life-breath, by which one becomes immortal. One should never leave Avimukta.
 
@@ -27,7 +28,7 @@ _level: conventional · standpoint: devotional · path: devotion, knowledge · s
 concepts: [Avimukta and the tāraka](../concepts/avimukta-taraka.md) · teachers: [Bṛhaspati](../teachers/brhaspati.md), [Yājñavalkya](../teachers/yajnavalkya.md)
 
 ### 2 <a id="tea-jabala-upanisad-2"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Atri asks where the infinite unmanifest Self is established: in Avimukta, which lies between Varaṇā and Nāsī — Varaṇā wards off the faults of the senses, Nāsī destroys them; it is the junction of the brows and nose, where the knowers of Brahman worship at the twilights.
 
@@ -36,7 +37,7 @@ _level: bridging · standpoint: seeker · path: knowledge · stage: advanced · 
 concepts: [Avimukta and the tāraka](../concepts/avimukta-taraka.md), [Inner tīrthas](../concepts/inner-tirthas.md) · teachers: [Atri](../teachers/atri.md)
 
 ### 3 <a id="tea-jabala-upanisad-3"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 By reciting the Śatarudrīya one gains immortality; these are the names of immortality.
 
@@ -45,7 +46,7 @@ _level: conventional · standpoint: ritual · path: sound, ritual · stage: all 
 practices: [Recitation of the Śatarudrīya](../practices/satarudriya-japa.md)
 
 ### 4 (rite) <a id="tea-jabala-upanisad-4-rite"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 Some perform the Prājāpatya sacrifice, but one should perform the Āgneyī; fire is prāṇa. One smells the fire with 'this is your proper womb…'; if there is no fire, one offers into water, for water is all the gods.
 
@@ -54,7 +55,7 @@ _level: conventional · standpoint: ritual · path: ritual · stage: advanced ·
 concepts: [The rite of renunciation](../concepts/sannyasa-rite.md) · practices: [The renunciation rite (saṃnyāsa-dīkṣā)](../practices/sannyasa-diksa.md)
 
 ### 4 (stages) <a id="tea-jabala-upanisad-4-stages"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Janaka asks about renunciation: having completed studentship one may become householder, then forest-dweller, then renounce; or else one may renounce directly from studentship, the household or the forest; whether under vows or not, with or without fires, 'on the very day one becomes dispassionate, on that day one should renounce'.
 
@@ -65,7 +66,7 @@ _level: conventional · standpoint: ethical-social · path: general · stage: al
 concepts: [Renunciation (saṃnyāsa) in the principal Upaniṣads](../concepts/sannyasa.md) · teachers: [Janaka of Videha](../teachers/janaka.md), [Yājñavalkya](../teachers/yajnavalkya.md) · disputes: [May one renounce directly, at any stage of life, or only after passing through the householder's duties?](../debates/when-to-renounce.md)
 
 ### 5 (modes of death) <a id="tea-jabala-upanisad-5-modes-of-death"></a>
-`skeleton` · confidence moderate · _restricted: summary only_
+`sourced` · confidence moderate · _restricted: summary only_
 
 The text allows the renouncer certain modes of ending life (the hero's path, abstaining from food, entering water or fire, the great journey). Recorded summary-only; no guidance is given here.
 
@@ -74,7 +75,7 @@ _level: conventional · standpoint: ritual · path: ritual · stage: advanced ·
 concepts: [The renouncer's permitted modes of death](../concepts/renouncer-permitted-deaths.md)
 
 ### 5 (the wanderer) <a id="tea-jabala-upanisad-5-the-wanderer"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The wanderer wears discoloured cloth, is shaven, without possessions, pure, harming none, living on alms, and becomes Brahman; if sick he renounces by mind and speech.
 
@@ -83,7 +84,7 @@ _level: conventional · standpoint: ethical-social · path: general · stage: ad
 concepts: [Emergency and regular renunciation](../concepts/atura-krama-sannyasa.md), [The renouncer's marks (liṅga)](../concepts/renunciant-marks.md)
 
 ### 5 (thread) <a id="tea-jabala-upanisad-5-thread"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Atri asks how one without the sacred thread can be a brāhmaṇa; Yājñavalkya: the Self is his sacred thread; he sips water — that is the rule for wandering ascetics.
 
@@ -92,7 +93,7 @@ _level: bridging · standpoint: seeker · path: knowledge · stage: advanced · 
 concepts: [The inner topknot and sacred thread](../concepts/inner-sikha-yajnopavita.md)
 
 ### 6 (abandoning marks) <a id="tea-jabala-upanisad-6-abandoning-marks"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Casting triple staff, water-pot, sling, bowl, strainer, topknot and thread into water with 'bhūḥ svāhā', naked, using the belly as bowl, he lives in empty houses, temples, grass huts, anthills, at tree-roots, in potters' sheds, fire-halls, sandbanks and caves, devoted to pure meditation, and abandons the body through renunciation.
 
@@ -101,7 +102,7 @@ _level: conventional · standpoint: ethical-social · path: general · stage: ad
 concepts: [The renouncer's marks (liṅga)](../concepts/renunciant-marks.md), [The avadhūta](../concepts/avadhuta.md) · practices: [Wandering (pārivrājya) and the rains retreat](../practices/parivrajya.md)
 
 ### 6 (paramahaṃsas) <a id="tea-jabala-upanisad-6-paramahamsas"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Paramahaṃsas such as Saṃvartaka, Āruṇi, Śvetaketu, Durvāsas, Ṛbhu, Nidāgha, Jaḍabharata, Dattātreya and Raivataka had unmanifest marks and unmanifest conduct; not mad, they behaved as if mad.
 
@@ -113,4 +114,12 @@ concepts: [The avadhūta](../concepts/avadhuta.md), [The renouncer's marks (li�
 _Notes: Cited by Śaṅkara (Brahmasūtrabhāṣya 3.4.20) for the rule on renouncing directly from studentship. The Nirṇayasāgara colophon assigns it to the Atharvaveda; the Muktikā list assigns it to the Śukla Yajurveda. Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: corrected — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md (line 6235), text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md (Muktikā 1.30-39 and prose Veda lists, IAST lines 27347-27400), text:sources_raw/raw_etexts/vedaH/misc — Located in the local 120-Upaniṣad e-text (heading at line 6235 (collection no. 14)). Its place in the Muktikā canon is confirmed from the Muktikā in the same e-text: no. 13 in 1.30-39, listed under the Śukla Yajurveda in the prose Veda lists, with that Veda's peace-chant. Group 'Sannyāsa' matches the local group list. The e-text colophon ('ityatharvavede jābālopaniṣat…') gives the Atharvaveda, against the Muktikā's Śukla Yajurveda; the entry keeps the Muktikā's Veda, as its field name says. CORRECTION to editions: the skeleton gave every text the same generator default, 'Adyar Library Upaniṣad series (Schrader … 1912; … with Upaniṣad Brahmayogin's commentary)'. Schrader's 1912 volume is a critical edition of twenty Saṃnyāsa texts with his own ṭippaṇī, not Brahmayogin's commentary. Brahmayogin's commentary on the Saṃnyāsa group appeared separately in 1929 (ed. T. R. Chintamani Dikshit; Muktabodha M00334 metadata; archive.org). The Adyar volume is therefore replaced with the one volume that holds this text (Sannyāsa). The years 1920, 1921, 1923 and 1925, and the editor A. Mahadeva Sastri, are confirmed on the web. The text is also among Schrader's twenty (per the archive.org full text), so his edition is kept as a separate entry. The Olivelle dating is confirmed at group level (Wikipedia, Sannyasa Upanishads). Seven older texts reach their final form between the last centuries BCE and c. 300 CE. The Āśrama is 3rd c. CE, the Nāradaparivrājaka and Śāṭyāyanīya c. 12th c., and about ten others 14th-15th c. The tradition account (śruti, authorless) is left as it is.
+
+**Corrections**
+
+- editions: Located in the local 120-Upaniṣad e-text (heading at line 6235 (collection no. 14)). Its place in the Muktikā canon is confirmed from the Muktikā in the same e-text: no. 13 in 1.30-39, listed under the Śukla Yajurveda in the prose Veda lists, with that Veda's peace-chant. Group 'Sannyāsa' matches the local group list. The e-text colophon ('ityatharvavede jābālopaniṣat…') gives the Atharvaveda, against the Muktikā's Śukla Yajurveda; the entry keeps the Muktikā's Veda, as its field name says. CORRECTION to editions: the skeleton gave every text the same generator default, 'Adyar Library Upaniṣad series (Schrader … 1912; … with Upaniṣad Brahmayogin's commentary)'. Schrader's 1912 volume is a critical edition of twenty Saṃnyāsa texts with his own ṭippaṇī, not Brahmayogin's commentary. Brahmayogin's commentary on the Saṃnyāsa group appeared separately in 1929 (ed. T. R. Chintamani Dikshit; Muktabodha M00334 metadata; archive.org). The Adyar volume is therefore replaced with the one volume that holds this text (Sannyāsa). The years 1920, 1921, 1923 and 1925, and the editor A. Mahadeva Sastri, are confirmed on the web. The text is also among Schrader's twenty (per the archive.org full text), so his edition is kept as a separate entry. The Olivelle dating is confirmed at group level (Wikipedia, Sannyasa Upanishads). Seven older texts reach their final form between the last centuries BCE and c. 300 CE. The Āśrama is 3rd c. CE, the Nāradaparivrājaka and Śāṭyāyanīya c. 12th c., and about ten others 14th-15th c. The tradition account (śruti, authorless) is left as it is.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

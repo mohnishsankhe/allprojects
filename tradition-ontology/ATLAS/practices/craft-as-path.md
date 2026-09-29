@@ -12,4 +12,4 @@ The guru turns the disciple's own trade or habit into the meditation: the weaver
   - [Caturaśītisiddhabodhihṛdaya (the realization songs of the eighty-four)](../texts/caturasiti-siddha-bodhihrdaya.md) — ref: 13, 14, 19, 45, 63, 69; rests_on: ["tea:caturasiti-siddha-bodhihrdaya:13", "tea:caturasiti-siddha-bodhihrdaya:14", "tea:caturasiti-siddha-bodhihrdaya:19", "tea:caturasiti-siddha-bodhihrdaya:45", "tea:caturasiti-siddha-bodhihrdaya:63", "tea:caturasiti-siddha-bodhihrdaya:69"]
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._

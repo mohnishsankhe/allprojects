@@ -3,7 +3,7 @@
 `prc:deathbed-rites` · `skeleton` · confidence high
 
 **Category:** sleep-dream-death
-**Convergence:** 3 independent lineage(s): [Jōdo-shū (the Pure Land school of Hōnen)](../lineages/jodo-shu.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tendai`
+**Convergence:** 2 independent lineage(s): [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tendai`
 **Taught in:** [Jōdo-shū (the Pure Land school of Hōnen)](../lineages/jodo-shu.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tendai`
 
 The dying person faces west (or is moved to a separate hall) before an image of Amitābha, holding a five-coloured cord tied to its hand; attendants burn incense, recite with him, ask what he sees and help him repent evil signs, so that he completes the ten recitations in right mindfulness; those who have taken wine, meat or pungent roots stay away.
@@ -21,4 +21,4 @@ The dying person faces west (or is moved to a separate hall) before an image of 
 _Notes: Shinshū does not rely on deathbed rites (Mattōshō 1)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

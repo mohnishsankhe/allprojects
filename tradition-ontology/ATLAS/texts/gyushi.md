@@ -25,4 +25,4 @@ The root text of Tibetan medicine, in four tantras and 156 chapters, framed as a
 _Notes: Chapter counts per tantra: high confidence for 6/31/92; the Subsequent Tantra counted as 27 (25+2) — moderate._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

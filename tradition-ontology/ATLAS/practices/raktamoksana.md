@@ -17,4 +17,4 @@ Removal of vitiated blood, counted among the purificatory measures by the surgic
 _Notes: Suśruta chapter refs recalled (Sū 13 leeches, Śā 8 venesection), not checked._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

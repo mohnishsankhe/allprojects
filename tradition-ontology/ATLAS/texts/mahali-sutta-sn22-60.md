@@ -25,4 +25,4 @@ terms: [ahetuvāda / ahetukavāda](../terms/ahetuvada.md) · concepts: [Destiny 
 _Notes: Section numbers follow SuttaCentral (bilara) segmentation; checked against the local e-text._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._

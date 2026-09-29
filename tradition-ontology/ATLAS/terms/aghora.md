@@ -17,4 +17,4 @@
 _Notes: The Aghora Brahma-mantra is in the Taittirīya Āraṇyaka's tenth book (chapter-level ref; not checked)._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._

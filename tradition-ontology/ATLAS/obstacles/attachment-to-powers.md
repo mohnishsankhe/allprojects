@@ -3,7 +3,7 @@
 `obs:attachment-to-powers` · `skeleton` · confidence moderate
 
 **Category:** obstacle
-**Convergence:** 2 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md), [Seon (Korean Chan)](../lineages/seon.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [Chan (Chinese Meditation school)](../lineages/chan.md), [Seon (Korean Chan)](../lineages/seon.md)
 
 Expecting or using powers as signs of awakening; Jinul calls them 'uncanny matters', the trivial edge of sainthood.
@@ -11,4 +11,4 @@ Expecting or using powers as signs of awakening; Jinul calls them 'uncanny matte
   - [Secrets on Cultivating the Mind (Susim kyol)](../texts/susim-kyol.md) — ref: 1006b28; rests_on: ["tea:susim-kyol:1006b28"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

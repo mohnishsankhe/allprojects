@@ -25,4 +25,4 @@ The Platform Sūtra: 'when the mind is level, what need to keep precepts?' — y
 **The traditions' own objections:** Eisai treats the Daruma-school position as wrong view, not as a difference of level.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

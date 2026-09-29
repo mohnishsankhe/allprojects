@@ -1,6 +1,6 @@
 # Recitation of the Śatarudrīya
 
-`prc:satarudriya-japa` · `skeleton` · confidence high
+`prc:satarudriya-japa` · `sourced` · confidence high
 
 **Category:** mantra-sound
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -12,4 +12,8 @@ Recitation of the Rudra hymn of the Yajurveda; 'these are the names of immortali
   - [Kaivalya Upaniṣad](../texts/kaivalya-upanisad.md) — ref: 2; rests_on: ["tea:kaivalya-upanisad:2"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

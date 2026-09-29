@@ -23,4 +23,4 @@
 **Related:** [dveṣa](dvesa.md), [kāma](kama.md), [vairāgya](vairagya.md), [lobha](lobha.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U36-pali-suttas, skeleton:U11-nyaya-vaisesika, skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U36-pali-suttas, skeleton:U11-nyaya-vaisesika, skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._

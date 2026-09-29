@@ -15,7 +15,19 @@
 
 Desi Sangye Gyatso's authoritative commentary on the Four Tantras, which weighed the Jangpa and Zurkharpa readings and fixed the classical interpretation; illustrated by the medical paintings.
 
+## Teachings (1: skeleton 1)
+
+### intent <a id="tea-blue-beryl-intent"></a>
+`skeleton` · confidence low
+
+The Four Tantras are the word of the Medicine Buddha; the commentary settles disputed readings by comparing the older commentaries of the Northern and Zur schools and the manuscripts, and explains each chapter in turn.
+
+_level: conventional · standpoint: polemical · path: general · stage: all · types: teacher-transmission, dispute_
+
+teachers: [Desi Sangye Gyatso (sde srid sangs rgyas rgya mtsho)](../teachers/desi-sangye-gyatso.md) · disputes: `dsp:gyushi-buddha-word`
+
+
 _Notes: Not found in the local catalogue under 'Blue Beryl' or 'bai durya sngon po'._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

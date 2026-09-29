@@ -12,4 +12,4 @@
 Reincarnation of Dudjom Lingpa, treasure revealer, historian of the Nyingma (Fundamentals and History), editor of the enlarged Kama, and the first head of the Nyingma school in exile.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

@@ -1,6 +1,6 @@
 # Sirr-i Akbar
 
-`src:sirr-i-akbar` · `skeleton` · confidence high
+`src:sirr-i-akbar` · `sourced` · confidence high
 
 **Alternate titles:** Sirr-i-Asrār, The Great Secret
 **Language:** Persian
@@ -14,4 +14,8 @@
 Dārā Shikoh's Persian translation (with pandits, completed 1657) of some fifty Upaniṣads, including many non-principal ones; the basis of Anquetil-Duperron's Latin Oupnek'hat.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Sirr-i-Akbar, https://whowaswho-indology.info/280/anquetil-duperron-abraham-hyacinthe/ — Dārā Shikoh's Persian translation of about fifty Upaniṣads, c. 1657, is confirmed.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

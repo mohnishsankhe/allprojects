@@ -13,4 +13,4 @@ One of the eleven gaṇadharas (chief disciples) of Mahāvīra, originally a lea
 _Notes: The doubts are those of the gaṇadharavāda in the Viśeṣāvaśyaka Bhāṣya (moderate confidence on the pairing of each doubt with each name)._
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._

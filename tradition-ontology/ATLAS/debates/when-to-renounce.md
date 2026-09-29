@@ -1,6 +1,6 @@
 # May one renounce directly, at any stage of life, or only after passing through the householder's duties?
 
-`dsp:when-to-renounce` · `skeleton` · confidence moderate
+`dsp:when-to-renounce` · `sourced` · confidence moderate
 
 **Coverage:** G
 
@@ -33,4 +33,8 @@ The Nāradaparivrājaka itself says that renouncing without dispassion causes a 
 **The traditions' own objections:** Ritualists (Mīmāṃsā) hold that lifelong Vedic duties cannot be set aside; the Jābāla's partisans hold that dispassion alone decides, whatever one's stage.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md, catalog:raw_etexts:manusmrti, text:sources_raw/dcs/corpus/GRETIL/sa_bAdarAyaNa-brahmasUtra-comm.txt — The external refs were checked locally: Manusmṛti 6.35-37 on the three debts (SARIT e-text), and Brahmasūtra 3.4.18-20 with Śaṅkara citing the Jābāla at 3.4.20 (GRETIL). All 5 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

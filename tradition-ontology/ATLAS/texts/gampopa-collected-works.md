@@ -22,7 +22,7 @@ Ordinary mind is one's own present awareness, uncontrived by anything, unspoiled
 
 _level: ultimate · standpoint: experiential · path: meditation · stage: advanced · types: ultimate, practice_
 
-terms: [tha mal gyi shes pa (ordinary mind)](../terms/thamal-gyi-shepa.md), [akṛtrima](../terms/akrtrima.md) · concepts: [Ordinary mind is the Way](../concepts/ordinary-mind.md) · practices: `prc:resting-in-ordinary-mind` · teachers: [Gampopa Sönam Rinchen (Dakpo Lhaje)](../teachers/gampopa.md)
+terms: [tha mal gyi shes pa (ordinary mind)](../terms/thamal-gyi-shepa.md), [akṛtrima](../terms/akrtrima.md) · concepts: [Ordinary mind is the Way](../concepts/ordinary-mind.md) · practices: [Resting uncontrived in ordinary mind](../practices/resting-in-ordinary-mind.md) · teachers: [Gampopa Sönam Rinchen (Dakpo Lhaje)](../teachers/gampopa.md)
 
 ### sutra-mahamudra <a id="tea-gampopa-collected-works-sutra-mahamudra"></a>
 `skeleton` · confidence low
@@ -31,7 +31,7 @@ Gampopa gave the Mahāmudrā pointing-out, grounded in devotion and the guru's b
 
 _level: conventional · standpoint: seeker · path: meditation, devotion · stage: all · types: teacher-transmission, dispute_
 
-concepts: [Sūtra, mantra and essence Mahāmudrā](../concepts/three-kinds-of-mahamudra.md) · teachers: [Gampopa Sönam Rinchen (Dakpo Lhaje)](../teachers/gampopa.md) · disputes: `dsp:sutra-mahamudra`
+concepts: [Sūtra, mantra and essence Mahāmudrā](../concepts/three-kinds-of-mahamudra.md) · teachers: [Gampopa Sönam Rinchen (Dakpo Lhaje)](../teachers/gampopa.md) · disputes: [Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?](../debates/sutra-mahamudra.md)
 
 ### three-coemergents <a id="tea-gampopa-collected-works-three-coemergents"></a>
 `skeleton` · confidence moderate
@@ -55,4 +55,4 @@ concepts: [The union of the Kadam and Mahāmudrā streams](../concepts/union-of-
 _Notes: Locators for passages cited from it are not known here; teachings use topic anchors._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

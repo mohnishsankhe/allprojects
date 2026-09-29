@@ -25,7 +25,7 @@ When Nāropa manifested the maṇḍala of Hevajra, Marpa prostrated to the deit
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: teacher-transmission_
 
-concepts: [The guru in the minor Upaniṣads](../concepts/guru.md), [The three roots (rtsa ba gsum)](../concepts/three-roots.md) · teachers: [Marpa Chökyi Lodrö (Marpa the Translator)](../teachers/marpa.md), [Nāropa](../teachers/naropa.md)
+concepts: [Guru devotion in the Kagyu](../concepts/guru-devotion.md), [The three roots (rtsa ba gsum)](../concepts/three-roots.md) · teachers: [Marpa Chökyi Lodrö (Marpa the Translator)](../teachers/marpa.md), [Nāropa](../teachers/naropa.md)
 
 ### three-journeys <a id="tea-marpa-namthar-three-journeys"></a>
 `skeleton` · confidence moderate
@@ -38,4 +38,4 @@ teachers: [Marpa Chökyi Lodrö (Marpa the Translator)](../teachers/marpa.md), [
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

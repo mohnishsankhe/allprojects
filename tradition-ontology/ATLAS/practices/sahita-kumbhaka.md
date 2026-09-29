@@ -1,6 +1,6 @@
 # Sahita-kumbhaka (retention joined with inhalation and exhalation)
 
-`prc:sahita-kumbhaka` · `skeleton` · confidence high · _restricted: summary only_
+`prc:sahita-kumbhaka` · `sourced` · confidence high · _restricted: summary only_
 
 **Category:** breath
 **Convergence:** 2 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -21,4 +21,8 @@ Retention accompanied by inhalation and exhalation, to be practised until kevala
 - Breath must be tamed gradually, like a lion, elephant or tiger; otherwise it kills the practitioner; improper practice causes hiccup, asthma, cough and pains of head, ears and eyes. — [Yogacūḍāmaṇi Upaniṣad](../texts/yogacudamani-upanisad.md) 116-118
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text. Restricted practice: the entry stays summary-only, as required, with no counts or procedures.
+
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

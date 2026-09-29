@@ -27,4 +27,4 @@ _Notes: Not the Sāṃkhya evolute; here a mistaken cognition._
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.13 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.4 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch07-09, skeleton:U13-advaita, skeleton:U11-nyaya-vaisesika, skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch10-12, extraction:bhagavad-gita/ch07-09, skeleton:U13-advaita, skeleton:U11-nyaya-vaisesika, skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._

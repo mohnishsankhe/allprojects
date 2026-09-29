@@ -15,4 +15,4 @@ Gazing with wide-open eyes in strong sunlight at one's own reflected image (shad
 _Notes: Related 'shadow-man' (chāyāpuruṣa) practices elsewhere are not recorded here._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._

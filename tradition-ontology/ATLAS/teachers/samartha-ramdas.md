@@ -19,4 +19,4 @@ Marathi saint (1608–1681/82), born Nārāyaṇ Ṭhosar at Jāmb, who fled his
 _Notes: The extent of his relation to Śivājī is debated by historians._
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._

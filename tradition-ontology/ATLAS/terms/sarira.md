@@ -18,4 +18,4 @@
 **Related:** [deha](deha.md), [śarīrin](saririn.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._

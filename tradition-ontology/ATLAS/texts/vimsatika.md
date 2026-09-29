@@ -139,4 +139,4 @@ terms: [vijñapti-mātratā](../terms/vijnaptimatrata.md), [buddha-gocara](../te
 _Notes: Verse 1 is not preserved in the Sanskrit manuscript and is reconstructed from the vṛtti. Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._

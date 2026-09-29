@@ -15,4 +15,4 @@ The avatāra-sage, son of Jamadagni and Reṇukā, who in the Śrīvidyā tradit
 _Notes: PKS colophon (10.85) names Paraśurāma, chief disciple of Mahādeva (checked)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._

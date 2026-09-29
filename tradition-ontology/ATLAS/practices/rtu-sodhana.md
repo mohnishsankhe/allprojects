@@ -16,4 +16,4 @@ Removal of the doṣas accumulated in a season at its proper time (e.g. kapha of
 - Doṣas that have accumulated too much, when provoked, can cut off life; doṣas merely subdued by fasting and digestives may flare again. — [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) Sū 4.25-26
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

@@ -1,6 +1,6 @@
 # The ninety-six principles
 
-`cpt:ninety-six-tattvas` · `skeleton` · confidence moderate
+`cpt:ninety-six-tattvas` · `sourced` · confidence moderate
 
 **Category:** matter-qualities
 **Members:** pūtam 5, poṟi 5, pulaṉ 5, kaṉmēntiriyam 5, kaṉma viṭayam 5, karaṇam 4, aṟivu 1, nāṭi 10, vāyu 10, ācayam 5, kōcam 5, ātāram 6, maṇṭalam 3, malam 3, tōṣam 3, ēṭaṇai 3, kuṇam 3, viṉai 2, irākam 8, avattai 5
@@ -19,4 +19,8 @@
 _Notes: The overall count is certain; the membership given is the one most often printed, recalled at low confidence — some lists include the nine openings (vācal 9) and differ elsewhere. The Varāha Upaniṣad has its own 96._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Varāha 1.6-15 is located: the four attitudes (muditā, karuṇā, maitrī, upekṣā) at v. 13 and the fourteen deities (dik … īśvara) at v. 14. All 1 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:45 IST._

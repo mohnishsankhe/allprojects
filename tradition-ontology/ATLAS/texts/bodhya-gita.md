@@ -33,4 +33,4 @@ concepts: [The avadhūta's twenty-four teachers](../concepts/twenty-four-teacher
 _Notes: The six are a subset of the avadhūta's twenty-four teachers in Bhāgavata Purāṇa 11.7-9._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._

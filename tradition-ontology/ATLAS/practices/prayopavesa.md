@@ -14,4 +14,4 @@ The vow of sitting without food until death with the mind fixed on the Lord, as 
 _Notes: Restricted (prolonged fasting): summary only. The Pretakalpa has a chapter on the destiny of those who die by fasting (2.36, title checked, content not read)._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

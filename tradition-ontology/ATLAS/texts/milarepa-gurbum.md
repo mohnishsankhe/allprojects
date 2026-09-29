@@ -39,7 +39,7 @@ In many songs Milarepa urges giving up the eight worldly concerns — gain and l
 
 _level: conventional · standpoint: ethical-social · path: general · stage: beginner · types: ethics_
 
-practices: `prc:mountain-retreat` · obstacles: [The eight worldly conditions](../obstacles/eight-lokadhamma.md)
+practices: [Solitary mountain retreat (ri chos)](../practices/mountain-retreat.md) · obstacles: [The eight worldly conditions](../obstacles/eight-lokadhamma.md)
 
 ### gampopa-meeting <a id="tea-milarepa-gurbum-gampopa-meeting"></a>
 `skeleton` · confidence moderate
@@ -48,7 +48,7 @@ Gampopa reported to Milarepa his meditative experiences — visions of deities a
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: powers-experiences, teacher-transmission_
 
-concepts: [Experience (nyams) and realization (rtogs pa)](../concepts/experience-and-realization.md) · obstacles: `obs:clinging-to-nyam` · teachers: [Milarepa (Jetsün Mila Shepa Dorje)](../teachers/milarepa.md), [Gampopa Sönam Rinchen (Dakpo Lhaje)](../teachers/gampopa.md)
+concepts: [Experience (nyams) and realization (rtogs pa)](../concepts/experience-and-realization.md) · obstacles: [Clinging to meditative experiences and visions](../obstacles/clinging-to-nyam.md) · teachers: [Milarepa (Jetsün Mila Shepa Dorje)](../teachers/milarepa.md), [Gampopa Sönam Rinchen (Dakpo Lhaje)](../teachers/gampopa.md)
 
 ### kailash <a id="tea-milarepa-gurbum-kailash"></a>
 `skeleton` · confidence moderate
@@ -66,7 +66,7 @@ Snowed in for months on Lachi (Drakar Taso region), Milarepa was thought dead; h
 
 _level: conventional · standpoint: experiential · path: body-breath · stage: advanced · types: powers-experiences_
 
-practices: `prc:tummo`
+practices: [Inner heat (gtum mo, caṇḍālī)](../practices/tummo.md)
 
 ### view-meditation-conduct <a id="tea-milarepa-gurbum-view-meditation-conduct"></a>
 `skeleton` · confidence low
@@ -88,4 +88,4 @@ teachers: [Milarepa (Jetsün Mila Shepa Dorje)](../teachers/milarepa.md), [Rechu
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

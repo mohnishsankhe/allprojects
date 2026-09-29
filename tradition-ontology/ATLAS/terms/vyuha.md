@@ -1,6 +1,6 @@
 # vyūha
 
-`trm:vyuha` · `skeleton` · confidence high
+`trm:vyuha` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Native script:** व्यूह
@@ -20,4 +20,8 @@
 _Notes: The word 'vyūha' for the fourfold form is the later Pāñcarātra term; the Nārāyaṇīya speaks of the Lord's four forms (mūrti)._
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U08-agama-catalogue, skeleton:U14-visistadvaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Located: Triśikhi 142-143 (Aniruddha, Nārāyaṇa, Pradyumna, Saṅkarṣaṇa, Vāsudeva in the element concentrations) and Mudgala 4 ('caturvyūho vibhāṣitaḥ … aniruddhasya vaibhavam'). The literal gloss 'emanation' is conventional.
+
+_Contributed by: skeleton:U05-gita-epic, skeleton:U08-agama-catalogue, skeleton:U14-visistadvaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

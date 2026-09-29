@@ -11,4 +11,4 @@ The scriptures of devotion are to be reflected upon and the acts that awaken dev
   - [Nārada Bhakti Sūtra](../texts/narada-bhakti-sutra.md) — ref: 74-77; rests_on: ["tea:narada-bhakti-sutra:76", "tea:narada-bhakti-sutra:77", "tea:narada-bhakti-sutra:74-75"]
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:45 IST._

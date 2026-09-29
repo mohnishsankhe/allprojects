@@ -14,4 +14,4 @@
 _Notes: Recalled; list to be checked against sources. Several panths claim founders among the nine Nāths._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._

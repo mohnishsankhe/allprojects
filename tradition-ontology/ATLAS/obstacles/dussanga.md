@@ -14,4 +14,4 @@ Association with the sensual and unrighteous, which destroys truth, purity and c
   - [Mokṣopāya](../texts/moksopaya.md) — ref: 2.11.56-61; rests_on: ["tea:moksopaya:2.11.56-61"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._

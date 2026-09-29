@@ -1,6 +1,6 @@
 # Bhāskararāya
 
-`tch:bhaskararaya` · `skeleton` · confidence high
+`tch:bhaskararaya` · `sourced` · confidence high
 
 **Alternate names:** Bhāsurānandanātha, Bhāskararāya Makhin, Bhāskara
 **Lineages:** [Śrīvidyā](../lineages/srividya.md), [Kaula Śrīvidyā (the Vāmakeśvara–Yoginīhṛdaya exegetical line)](../lineages/kaula-srividya.md), [Śākta traditions](../lineages/sakta.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Kaula (the Kula tradition)](../lineages/kaula.md)
@@ -24,4 +24,8 @@ The great 18th-c. systematizer of Śrīvidyā (initiatory name Bhāsurānandanā
 _Notes: Initiatory name and guru's name checked in the Varivasyārahasya colophon and the Saubhāgyabhāskara opening. Places and exact dates are from memory (low)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — catalog:eBharati:kaula_anyopaniShat_cha_ekAdasho_bhAgaH, https://en.wikipedia.org/wiki/Bhaskararaya, https://en.wikipedia.org/wiki/Tripura_Upanishad, https://en.wikipedia.org/wiki/Bhavana_Upanishad — Confirmed: Bhāskararāya commented on the Kaula, Tripurā and Bhāvanā Upaniṣads (Wikipedia). The Kaula commentary is printed in Tantrik Texts XI (1922), which has a local eBhāratī copy.
+
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

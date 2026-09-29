@@ -28,4 +28,4 @@ _Notes: Contribution from U08 (Pāñcarātra sense); Yoga's niyama sense is U10'
 
 - 2026-09-29 text: corrected — tea:bhagavad-gita:4.28 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 
-_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch04-06, skeleton:U10-yoga, skeleton:U12-mimamsa, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U35-jain-philosophy, skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._

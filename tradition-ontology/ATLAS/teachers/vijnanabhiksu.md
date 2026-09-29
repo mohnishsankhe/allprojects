@@ -17,4 +17,4 @@
 (Yoga unit contribution) Vedāntin of 'non-separation' (avibhāga) who commented on Yoga, Sāṃkhya and the Brahma Sūtra. In the Yogavārttika he reads Yoga theistically, calls the bhāṣya 'the essence of all the Veda', argues for the mutual reflection of consciousness and buddhi (YV 1.7), gives his own account of the samprajñāta samādhis (YV 1.17) and holds that knowledge of the Supreme Lord is the swift cause of liberation (YV 1.51).
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya, skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U09-samkhya, skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._

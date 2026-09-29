@@ -1,6 +1,6 @@
 # Improper breath-control
 
-`obs:improper-pranayama` · `skeleton` · confidence high
+`obs:improper-pranayama` · `sourced` · confidence high
 
 **Category:** dosa-imbalance
 **Convergence:** 2 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -15,4 +15,8 @@ Wrongly practised breath-control produces hiccup, asthma, cough and pains of hea
   - [Gorakṣaśataka](../texts/goraksasataka.md) — ref: 51; rests_on: ["tea:goraksasataka:51"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._

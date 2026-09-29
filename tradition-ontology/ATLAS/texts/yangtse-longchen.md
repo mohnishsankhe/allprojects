@@ -13,4 +13,4 @@ The treasure-based 'Dzogchen' cycle of Bön, the third of Bön's three Dzogchen 
 _Notes: Optional (Bön). Not local; from general knowledge._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

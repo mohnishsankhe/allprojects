@@ -164,4 +164,4 @@ terms: [parāmāsa](../terms/paramasa.md), [diṭṭhi](../terms/ditthi.md)
 _Notes: Division headings and the mātikā counts checked in the local bilara-data text (ds1.1–ds2.4.2)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._

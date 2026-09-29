@@ -18,4 +18,4 @@ _Notes: List reconstructed from memory (low)._
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering) — Confirmed despite the low confidence: both lists are at MaiU 3.5 (Cowell text). Tamas: saṃmoha, bhaya, viṣāda, nidrā, tandrī, pramāda, jarā, śoka, kṣut-pipāsā, kārpaṇya, krodha, nāstikya, ajñāna, mātsarya, naiṣkāruṇya, mūḍhatva, nirvrīḍatva …; rajas: antas-tṛṣṇā, sneha, rāga, lobha, hiṃsā, rati, dṛṣṭi, vyāvṛtatva, īrṣyā, kāma, asthiratva, calatva … The entry's items largely match; 'hatred, deceit' are loose renderings (for Phase D). The antidote ref MaiU 4.3 is located. All 2 Upaniṣad refs cited in the entry are located in the prepared segments (MaiU 3.5; MaiU 4.3). It rests on 1 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._

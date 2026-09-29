@@ -30,4 +30,4 @@ concepts: [Light and vision of forms](../concepts/obhasa-and-rupa.md) · obstacl
 _Notes: SuttaCentral uid mn128; Mahāsaṅgīti title 'Upakkilesasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._

@@ -16,4 +16,4 @@ The oldest surviving 'transmission of the lamp' history (952), compiled by the m
 _Notes: Not held locally._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

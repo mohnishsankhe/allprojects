@@ -23,4 +23,4 @@ Gazing at space seen through a hole in a wall or roof, the meditator repeats its
 _Notes: Device details from memory (Vism V not read locally)._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._

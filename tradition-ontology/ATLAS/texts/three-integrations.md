@@ -22,8 +22,8 @@ In all activity carry three onto the path: regard the guru as present, appearanc
 
 _level: conventional · standpoint: seeker · path: devotion, meditation · stage: all · types: practice_
 
-terms: [lam khyer (carrying onto the path)](../terms/lamkhyer.md) · concepts: [The three integrations (Shangpa)](../concepts/three-integrations.md) · practices: `prc:three-integrations`
+terms: [lam khyer (carrying onto the path)](../terms/lamkhyer.md) · concepts: [The three integrations (Shangpa)](../concepts/three-integrations.md) · practices: [The three integrations (Shangpa)](../practices/three-integrations.md)
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

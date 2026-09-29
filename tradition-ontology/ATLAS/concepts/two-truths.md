@@ -7,6 +7,7 @@
 
 ## Names
 - [Madhyamaka](../lineages/madhyamaka.md): satyadvaya
+- [Jonang (jo nang pa)](../lineages/jonang.md): bden pa gnyis (rang stong / gzhan stong)
 
 ## Definitions
 - [Madhyamaka](../lineages/madhyamaka.md): The Buddhas teach relying on two truths, the worldly conventional and the ultimate; without the conventional the ultimate cannot be taught, and without the ultimate nirvāṇa is not reached (MMK 24.8–10).
@@ -17,6 +18,7 @@
 - [Gelug](../lineages/gelug.md): Two natures of each phenomenon, one found by conventional and the other by ultimate valid cognition; mutually compatible, understood together when the analysis of the view is complete.
 - [Sakya](../lineages/sakya.md): For Gorampa the ultimate is beyond mind; the conventional is what appears to mind still affected by ignorance.
 - [Mahāyāna](../lineages/mahayana.md): The sūtras distinguish conventional designation from the ultimate that is inexpressible, neither the same as nor different from the formations (Saṃdhinirmocana ch. 2-3); the ultimate is beyond even the Buddha's words (Saṃvṛtiparamārthasatyanirdeśa).
+- [Jonang (jo nang pa)](../lineages/jonang.md): Conventional truth is empty of its own nature; ultimate truth is empty of other and not of itself. The two are not one entity, yet not different entities: they are different in the sense that their sameness is negated.
 - [Kagyu (the Kagyu transmissions: Marpa / Dakpo Kagyu, with the Shangpa grouped by name)](../lineages/kagyu.md): Nāropa's View in Brief: conventionally all phenomena are self-aware mind; ultimately that mind, examined, is beyond existence, non-existence, both and neither; their union is appearance-emptiness like a moon in water.
 
 ## Relations (interpretation layer)
@@ -27,4 +29,4 @@
 _Notes: The Madhyamaka systematization belongs to U40._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug, skeleton:U39-mahayana-sutras, skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U47-sakya-kadam-gelug, skeleton:U39-mahayana-sutras, skeleton:U48-jonang-chod-medicine-rime, skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

@@ -23,4 +23,4 @@
 **Related:** [iṣṭaliṅga](istalinga.md), [prāṇaliṅga](pranalinga.md), [bhāvaliṅga](bhavalinga.md), [aṅga](anga.md), [liṅga-śarīra](linga-sarira.md)
 
 ---
-_Contributed by: skeleton:U20-virasaiva, skeleton:U09-samkhya, skeleton:U07-puranas, skeleton:U11-nyaya-vaisesika, skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U20-virasaiva, skeleton:U09-samkhya, skeleton:U07-puranas, skeleton:U11-nyaya-vaisesika, skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._

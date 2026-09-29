@@ -15,4 +15,4 @@
 A Digambara Sanskrit treatise on meditation (dhyāna) as the means to both the conventional and ultimate path; its authorship is given as Nāgasena or Rāmasena.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._

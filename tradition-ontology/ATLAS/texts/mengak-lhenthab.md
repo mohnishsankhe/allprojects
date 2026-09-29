@@ -14,4 +14,4 @@
 Desi Sangye Gyatso's practical supplement to the Oral Instruction Tantra, adding formulas and procedures from later clinical experience.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

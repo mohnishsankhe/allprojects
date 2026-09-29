@@ -3,7 +3,7 @@
 `prc:shout-and-staff` · `skeleton` · confidence moderate
 
 **Category:** inquiry
-**Convergence:** 3 independent lineage(s): [Hongzhou school](../lineages/hongzhou.md), [Linji house](../lineages/linji.md), [Rinzai Zen](../lineages/rinzai.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [Hongzhou school](../lineages/hongzhou.md), [Linji house](../lineages/linji.md), [Rinzai Zen](../lineages/rinzai.md)
 
 The teacher's shout or strike used to cut off conceptual thinking and test the student in encounter; Linji's four kinds of shout.
@@ -15,4 +15,4 @@ The teacher's shout or strike used to cut off conceptual thinking and test the s
 - Dahui warns against imitating dramatic acts as 'wondrous function' without insight. — [Recorded Sayings of Dahui (Dahui Pujue chanshi yulu)](../texts/dahui-yulu.md) 891a02
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

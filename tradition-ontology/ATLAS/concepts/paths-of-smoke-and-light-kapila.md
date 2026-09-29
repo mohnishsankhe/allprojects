@@ -14,4 +14,4 @@
 _Notes: Parallels the Upaniṣadic pitṛyāna and devayāna (owned by U03)._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._

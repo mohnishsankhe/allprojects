@@ -1,6 +1,6 @@
 # Withdrawal through the eighteen vital points (marmasthāna)
 
-`prc:marmasthana-dharana` · `skeleton` · confidence moderate
+`prc:marmasthana-dharana` · `sourced` · confidence moderate
 
 **Category:** sense-withdrawal-concentration
 **Convergence:** 2 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -18,4 +18,8 @@ The breath and attention are drawn from one vital point (marma) to the next alon
 _Notes: The eighteen points and the distances between them are not listed here (not recalled reliably)._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

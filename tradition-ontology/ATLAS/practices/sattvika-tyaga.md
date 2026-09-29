@@ -12,4 +12,4 @@ Before any act, relinquishing the sense of agency, of ownership and desire for i
   - [Nyāsadaśaka](../texts/nyasa-dasaka.md) — ref: 1-2; rests_on: ["tea:nyasa-dasaka:1-2"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._

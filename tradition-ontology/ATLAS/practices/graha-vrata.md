@@ -12,4 +12,4 @@ Keeping a fast or restricted diet and worship on the weekday of an afflicting pl
 _Notes: Later practice; classical source not checked. Not a prolonged fast._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._

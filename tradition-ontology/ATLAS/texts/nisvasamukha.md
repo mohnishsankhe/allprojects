@@ -51,4 +51,4 @@ terms: [atyāśrama](../terms/atyasrama.md), [lokātīta](../terms/lokatita.md),
 _Notes: Not available in this run's local corpus; chapter-level references are from memory (low confidence)._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._

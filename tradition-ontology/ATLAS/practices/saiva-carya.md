@@ -15,4 +15,4 @@ Service of Śiva in the temple with the body: sweeping and smearing the floor, g
 **Sequences:** `pth:saiva-siddhanta-four-padas`
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._

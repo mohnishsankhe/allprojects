@@ -15,4 +15,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._

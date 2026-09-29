@@ -147,4 +147,4 @@ _level: conventional · standpoint: experiential · path: body-breath, meditatio
 _Notes: Vidyeśvara: śravaṇa-kīrtana-manana, liṅga worship, the name, bhasma, rudrākṣa; Koṭirudra: the twelve jyotirliṅgas and the Śivarātri hunter; Umā: hells and Yama's road (not checked); Kailāsa: praṇava and sannyāsa; Vāyavīya: Upamanyu's teaching to Kṛṣṇa - dīkṣā, pañcākṣara (7.2.12-13), yoga (7.2.37-39). verse number checked in the GRETIL e-text of the Śiva Purāṇa books 1 and 7 (Venkateshwara ed.)_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

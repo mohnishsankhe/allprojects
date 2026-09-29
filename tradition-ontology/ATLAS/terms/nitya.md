@@ -17,4 +17,4 @@
 **Related:** [avināśin](avinasin.md), [sanātana](sanatana.md), [anitya](anitya.md)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

@@ -13,4 +13,4 @@ A Krama work on the coded instructions (chummā) of the tradition, ascribed to N
 _Notes: Recalled from secondary literature; verify in Phase C. 'Chummā' as Kaula code-word is attested at TĀ 4.268._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._

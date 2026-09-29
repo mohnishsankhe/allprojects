@@ -24,4 +24,4 @@ _Notes: U06 contribution to a shared practice id (principal source: Bṛhadāra�
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā) — All 5 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 2.3.6; BĀU 3.9.26; BĀU 4.2.4; BĀU 4.4.22; BĀU 4.5.15). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U09-samkhya. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U09-samkhya. Generated 2026-09-29 17:45 IST._

@@ -162,4 +162,4 @@ _Notes: Commentaries: Viśvarūpa (Bālakrīḍā), Vijñāneśvara (Mitākṣar
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Yājñavalkyasmṛti, catalog:GRETIL-dev:yajnavalkya-smrti, https://en.wikipedia.org/wiki/Y%C4%81j%C3%B1avalkya_Sm%E1%B9%9Bti — Extant; 3 adhyāyas, 1,009 verses locally (c. 1,000). Dated 3rd–5th c. CE (Olivelle 4th–5th c.) per Wikipedia, matching the entry. The eleven teachings are text-located.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._

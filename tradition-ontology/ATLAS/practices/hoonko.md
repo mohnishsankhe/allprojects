@@ -3,7 +3,7 @@
 `prc:hoonko` · `skeleton` · confidence moderate
 
 **Category:** ritual
-**Convergence:** 1 independent lineage(s): [Jōdo Shinshū (the True Pure Land school of Shinran)](../lineages/jodo-shinshu.md)
+**Convergence:** 1 independent lineage(s): [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md)
 **Taught in:** [Jōdo Shinshū (the True Pure Land school of Shinran)](../lineages/jodo-shinshu.md)
 
 The annual assembly of gratitude on the anniversary of Shinran's death, with the reading of Kakunyo's Godenshō and sermons, the central event of the Shinshū year.
@@ -11,4 +11,4 @@ The annual assembly of gratitude on the anniversary of Shinran's death, with the
   - [Biography of Shinran (Godenshō / Honganji Shōnin Shinran den'e)](../texts/godensho.md) — ref: whole
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

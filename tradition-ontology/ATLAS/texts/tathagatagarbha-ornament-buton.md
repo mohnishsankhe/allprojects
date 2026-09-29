@@ -24,10 +24,10 @@ The teaching that beings possess a tathāgatagarbha endowed with the buddha-qual
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate_
 
-terms: [neyārtha](../terms/neyartha.md), [tathāgatagarbha](../terms/tathagatagarbha.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md), [Provisional and definitive meaning](../concepts/neyartha-nitartha.md) · teachers: [Butön Rinchen Drub](../teachers/buton.md) · disputes: `dsp:rangtong-shentong`, [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md)
+terms: [neyārtha](../terms/neyartha.md), [tathāgatagarbha](../terms/tathagatagarbha.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md), [Provisional and definitive meaning](../concepts/neyartha-nitartha.md) · teachers: [Butön Rinchen Drub](../teachers/buton.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md), [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md)
 
 
 _Notes: Butön is usually counted with the Shalu tradition (Zhalupa); lineage ids here are approximate._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

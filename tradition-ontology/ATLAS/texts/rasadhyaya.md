@@ -14,4 +14,4 @@
 A short rasa text attributed to Kaṅkālayogin, with a commentary by the Jain Merutuṅga. RESTRICTED: summary only.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

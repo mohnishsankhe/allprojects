@@ -20,4 +20,4 @@ The luminous citta is the knowing heart met in deep practice; its radiance itsel
 **Candidate readings:** P2-standpoint: analytic (Abhidhamma) versus experiential (forest teachers) description of the same passage
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._

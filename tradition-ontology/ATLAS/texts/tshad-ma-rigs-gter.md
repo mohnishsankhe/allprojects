@@ -26,10 +26,10 @@ Only particulars, which can perform functions, are ultimately (i.e. really) exis
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, consciousness-mind_
 
-terms: [apoha](../terms/apoha.md) · concepts: [Particular and universal (svalakṣaṇa / sāmānyalakṣaṇa)](../concepts/svalaksana-samanyalaksana.md), [Exclusion (apoha) as the meaning of words](../concepts/apoha.md) · teachers: [Sakya Paṇḍita Kunga Gyaltsen](../teachers/sakya-pandita.md) · disputes: `dsp:reality-of-universals-tibetan`
+terms: [apoha](../terms/apoha.md) · concepts: [Particular and universal (svalakṣaṇa / sāmānyalakṣaṇa)](../concepts/svalaksana-samanyalaksana.md), [Exclusion (apoha) as the meaning of words](../concepts/apoha.md) · teachers: [Sakya Paṇḍita Kunga Gyaltsen](../teachers/sakya-pandita.md) · disputes: [Are universals real entities (the Tibetan debate on Dharmakīrti)?](../debates/reality-of-universals-tibetan.md)
 
 
 _Notes: Shared id with U41 (their Wylie-based slug kept to avoid a duplicate)._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._

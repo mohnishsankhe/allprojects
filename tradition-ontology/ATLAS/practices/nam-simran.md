@@ -20,4 +20,4 @@ Inward, continuous remembrance of the Lord's Name (usually Rām or the name give
 - partial: [Repetition of the divine name on beads (nāma-japa)](nama-japa.md) — Name-repetition, but the Sants stress the inward, mind-held remembrance over counted recitation.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._

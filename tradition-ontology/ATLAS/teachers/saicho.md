@@ -14,4 +14,4 @@ Founder of Japanese Tendai (767-822), who defended the Lotus's one vehicle and u
 _Notes: Owned by U55 (Tendai); this entry contributes the debate with Tokuitsu._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

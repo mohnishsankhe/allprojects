@@ -13,4 +13,4 @@
 A partial Saṃyuktāgama of a school other than that of T99, sometimes attributed to the Kāśyapīya (scholarly hypothesis).
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

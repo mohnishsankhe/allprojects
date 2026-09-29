@@ -28,4 +28,4 @@ terms: [antarvyāpti](../terms/antarvyapti.md) · teachers: [Śāntipa (Ratnāka
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._

@@ -21,4 +21,4 @@ A compilation of citations on yoga from many works (Purāṇas, Yoga Sūtra, ha�
 _Notes: Distinct from a Yogacintāmaṇi ascribed to Godāvaramiśra. Structure and colophons checked in the local e-text._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._

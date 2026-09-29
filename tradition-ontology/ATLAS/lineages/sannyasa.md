@@ -1,6 +1,6 @@
 # Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads
 
-`lin:sannyasa` · `skeleton` · confidence moderate
+`lin:sannyasa` · `sourced` · confidence moderate
 
 **Family:** vedic
 **Alternate names:** Saṃnyāsa, Pārivrājya, Yatidharma, the fourth āśrama, the renunciate path
@@ -34,7 +34,7 @@ The ideal of the wandering renouncer (saṃnyāsin, parivrājaka, yati) as set o
   - `lin:datta-sampradaya` — what: the avadhūta ideal (Avadhūta, Jābāla 6)
 
 ## The ultimate in this lineage
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 **Names:** Brahman, Ātman (the Self), Nārāyaṇa / Viṣṇu, Śiva (the jīva is Śiva), turīya / turīyātīta, the praṇava beyond its measures
 **Descriptions:** The Self realized by the renouncer as 'so'ham' — 'I am He' (Maitreya 2.1; Nāradaparivrājaka 9).; The sixteenth measure of the praṇava and the state beyond the fourth (Nāradaparivrājaka 8; Paramahaṃsaparivrājaka).; That in which renunciation consists: the union of jīva and the supreme (Maitreya 2.17).
@@ -61,4 +61,8 @@ The ideal of the wandering renouncer (saṃnyāsin, parivrājaka, yati) as set o
 _Notes: Owned by U04. The Saṃnyāsa Upaniṣads are not a single school: most later ones are Advaitin, the Śāṭyāyanīya Vaiṣṇava._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — https://en.wikipedia.org/wiki/Sannyasa_Upanishads, https://doi.org/10.1093/oso/9780195070453.001.0001, catalog:raw_etexts:manusmrti, catalog:raw_etexts:108_Upanishads — The Saṃnyāsa Upaniṣads are confirmed as a recognized corpus and renunciation as a living institution (Olivelle 1992; Wikipedia). The dating fits Olivelle: the older texts are pre-300 CE and the later ones c. 12th-15th c., mostly in Advaita milieus. The distinctive positions were located in the e-text: Jābāla 4 (renounce the same day), Maitreya 2.17, Jābāla 5, Paramahaṃsa, Śāṭyāyanīya 6-11, Nāradaparivrājaka 5, Jābāla 6 and Avadhūta 2. The transmission to Daśanāmī and Śrīvaiṣṇava tridaṇḍins is the entry's own claim and is plausible; it was not checked further.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

@@ -20,4 +20,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/brhadaranyaka-upanisad/segments.jsonl (Advaita-Śāradā mūla Brha.md, Kāṇva adhyāya.brāhmaṇa.kaṇḍikā), text:sources_raw/prepared/mandukya-upanisad/segments.jsonl (GRETIL Devanāgarī mirror mandukya-upanisad.md), text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Adv — All 8 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 2.3.6; BĀU 3.9.26; BĀU 4.2.4; BĀU 4.4.22; BĀU 4.5.15; BĀU 3.8.8; MāU 7; TU 2.4). It rests on 8 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U09-samkhya, skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U09-samkhya, skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._

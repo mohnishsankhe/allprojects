@@ -63,4 +63,4 @@ The literature and learned tradition that set out dharma — ritual, moral, soci
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering), text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/parasara-smrti_plain_text.md (GRETIL), tex — The tradition account was found at MDh 1.58–60: Svayambhū taught the śāstra to Manu, Manu taught Marīci and the other sages, and 'this Bhṛgu will recite it to you'. ParSm 1.24 was also found (Manu in Kṛta, Gautama in Tretā, Śaṅkha-Likhita in Dvāpara, Parāśara in Kali). The distinctive positions rest on MDh 2.6, 2.12, 10.63, YS 1.7, 1.122, TS 6.3.10.5, ŚB 1.7.2.1, and ĀpDh 1.1.1.2 ('dharmajñasamayaḥ pramāṇam'). All of these were text-located. The scholarly span matches the dates in the checked source entries.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._

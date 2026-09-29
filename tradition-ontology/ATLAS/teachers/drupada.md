@@ -9,4 +9,4 @@ A great chariot-warrior on the Pāṇḍava side (1.4), father of the army's arr
 _Notes: Linked in BhG ch. 1–3 at 1.3, 1.4, 1.18._
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:45 IST._

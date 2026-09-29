@@ -16,7 +16,7 @@ A collection of mantras, prayers and teachings attached to the Taittirīya Āra�
 **Editions / translations:** 
   - kind: original; name: Īśādiviṃśottaraśatopaniṣadaḥ (Nirṇayasāgara collection of 120 Upaniṣads), South Indian recension carrying Upaniṣad Brahmayogin's opening maṅgala verses; e-text github.com/sanskrit/raw_etexts vedaH/misc/upaniShat/mixedPF/108_Upanishads.md; licence: text public domain; e-text licence unstated; url: https://github.com/sanskrit/raw_etexts
 
-## Teachings (2: sourced 1, skeleton 1)
+## Teachings (2: sourced 2)
 
 ### 69-70 <a id="tea-mahanarayana-upanisad-69-70"></a>
 `sourced` · confidence high
@@ -28,7 +28,7 @@ _level: conventional · standpoint: ritual · path: ritual, sound · stage: all 
 terms: [prāṇāgnihotra](../terms/pranagnihotra.md), [prāṇa](../terms/prana.md), [śraddhā](../terms/sraddha.md) · concepts: [Prāṇāgnihotra — the fire-offering into the breaths](../concepts/pranagnihotra.md), [The internalized sacrifice](../concepts/internalized-sacrifice.md) · practices: [Prāṇāgnihotra (offering food into the breaths)](../practices/pranagnihotra.md)
 
 ### nyāsa section (end) <a id="tea-mahanarayana-upanisad-nyasa-section-end"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 Renunciation (nyāsa) is Brahman; it surpasses all the austerities listed — truth, discipline, calm, charity, sacrifice.
 
@@ -43,5 +43,6 @@ _Notes: Not the Muktikā's 'Mahānārāyaṇa' (that is the Atharvan Tripādvibh
 **Verification checks**
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:raw_etexts:mahanarayana_upanishad, catalog:raw_etexts:AraNyakam_Andhrakam — Extant; it is TA prapāṭhaka 10 (Āndhra), and the food-offering into the breaths is at 10.69–70 (text-located).
+- 2026-09-29 catalog+websearch: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md (line 6532, collection no. 19), catalog:raw_etexts:mahanarayana_upanishad, catalog:eBharati:mahAnArAyaNopaniShat, https://en.wikipedia.org/wiki/Mahanarayana_Upanishad — The Mahānārāyaṇa (Taittirīya Āraṇyaka 10) is no. 19 of the e-text. Its closing praise of nyāsa is at e-text khaṇḍa 21.2 ('nyāsa iti brahmā … nyāsa evātyarecayat'). It is distinct from the Muktikā's Atharvan Mahānārāyaṇa (= Tripādvibhūti, e-text no. 54), which the Muktikā lists under the Atharvaveda. Scholarly dating (a later stratum of the TA) was not checked beyond Wikipedia.
 
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._

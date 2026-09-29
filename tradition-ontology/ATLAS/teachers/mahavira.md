@@ -16,4 +16,4 @@ The twenty-fourth and last Tīrthaṅkara of this era, emblem the lion. Born Var
 **Realization — the tradition's account:** In the thirteenth year of his ascetic life, on the tenth of the bright half of Vaiśākha, outside Jṛmbhikagrāma on the bank of the Ṛjupālikā, under a śāla tree, squatting in the milking posture in the heat of the sun after a two-and-a-half-day fast without water, in deep (pure) meditation, he attained the infinite, supreme, unobstructed, complete and full knowledge and perception called kevala; at Pāvā, in his seventy-second year, he passed to nirvāṇa, freed from all suffering.
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._

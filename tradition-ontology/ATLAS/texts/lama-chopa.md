@@ -25,7 +25,7 @@ Seeing that self-cherishing is the door to all unwanted suffering and that cheri
 
 _level: conventional · standpoint: devotional · path: devotion, meditation · stage: all · types: practice_
 
-concepts: [Exchanging self and other](../concepts/exchanging-self-and-other.md) · practices: [Exchanging self and other](../practices/exchanging-self-and-other.md), `prc:lojong` · obstacles: [Self-cherishing (desiring one's own happiness)](../obstacles/self-cherishing.md) · teachers: [Panchen Lobsang Chökyi Gyaltsen](../teachers/panchen-lobsang-chokyi-gyaltsen.md)
+concepts: [Exchanging self and other](../concepts/exchanging-self-and-other.md) · practices: [Exchanging self and other](../practices/exchanging-self-and-other.md), [Mind training (blo sbyong)](../practices/lojong.md) · obstacles: [Self-cherishing](../obstacles/self-cherishing.md) · teachers: [Panchen Lobsang Chökyi Gyaltsen](../teachers/panchen-lobsang-chokyi-gyaltsen.md)
 
 ### tonglen <a id="tea-lama-chopa-tonglen"></a>
 `skeleton` · confidence moderate
@@ -34,8 +34,8 @@ Therefore, compassionate venerable teachers, bless me that all the wrongdoing, o
 
 _level: conventional · standpoint: devotional · path: devotion, meditation · stage: all · types: practice_
 
-terms: [gtong len](../terms/tonglen.md) · concepts: [Exchanging self and other](../concepts/exchanging-self-and-other.md) · practices: `prc:tonglen`, `prc:lojong` · teachers: [Panchen Lobsang Chökyi Gyaltsen](../teachers/panchen-lobsang-chokyi-gyaltsen.md)
+terms: [gtong len](../terms/tonglen.md) · concepts: [Exchanging self and other](../concepts/exchanging-self-and-other.md) · practices: [Sending and taking (gtong len)](../practices/tonglen.md), [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Panchen Lobsang Chökyi Gyaltsen](../teachers/panchen-lobsang-chokyi-gyaltsen.md)
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

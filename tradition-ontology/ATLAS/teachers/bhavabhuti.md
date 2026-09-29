@@ -11,4 +11,4 @@
 Dramatist of the Uttararāmacarita, Mālatīmādhava and Mahāvīracarita; held that compassion (karuṇa) is the one rasa.
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._

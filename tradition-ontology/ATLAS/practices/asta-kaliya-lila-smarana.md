@@ -17,4 +17,4 @@ Meditative remembrance of Rādhā and Kṛṣṇa's pastimes through the eight p
 - The Gosvāmīs require eagerness born of grace and purification from offences; later teachers (Bhaktisiddhānta, recent) warned against premature imitation of this practice. — [Rāgavartmacandrikā](../texts/raga-vartma-candrika.md) 1
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._

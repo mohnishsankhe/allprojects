@@ -17,4 +17,4 @@ Summary only (restricted: severe fasting with exposure). In the Jain account Mah
 _Notes: No steps, quantities or durations are recorded, by design._
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._

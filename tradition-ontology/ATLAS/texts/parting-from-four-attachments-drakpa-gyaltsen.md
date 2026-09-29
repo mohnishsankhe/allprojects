@@ -25,7 +25,7 @@ Ethics, study, reflection and meditation practised for this life's sake are with
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: practice_
 
-concepts: [The four attachments to be parted from](../concepts/four-attachments.md) · obstacles: `obs:attachment-to-this-life` · teachers: [Jetsün Drakpa Gyaltsen](../teachers/drakpa-gyaltsen.md)
+concepts: [The four attachments to be parted from](../concepts/four-attachments.md) · obstacles: [Attachment to this life](../obstacles/attachment-to-this-life.md) · teachers: [Jetsün Drakpa Gyaltsen](../teachers/drakpa-gyaltsen.md)
 
 ### 2 <a id="tea-parting-from-four-attachments-drakpa-gyaltsen-2"></a>
 `skeleton` · confidence low
@@ -34,7 +34,7 @@ Reflecting on the sufferings of the three lower realms, of the gods and humans, 
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: practice_
 
-concepts: [The four attachments to be parted from](../concepts/four-attachments.md) · obstacles: `obs:attachment-to-samsara` · teachers: [Jetsün Drakpa Gyaltsen](../teachers/drakpa-gyaltsen.md)
+concepts: [The four attachments to be parted from](../concepts/four-attachments.md) · obstacles: [Attachment to saṃsāra (the three realms)](../obstacles/attachment-to-samsara.md) · teachers: [Jetsün Drakpa Gyaltsen](../teachers/drakpa-gyaltsen.md)
 
 ### 3 <a id="tea-parting-from-four-attachments-drakpa-gyaltsen-3"></a>
 `skeleton` · confidence low
@@ -43,7 +43,7 @@ Liberating only oneself is useless when all beings of the three realms have been
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: practice_
 
-concepts: [The four attachments to be parted from](../concepts/four-attachments.md) · obstacles: [Self-cherishing (desiring one's own happiness)](../obstacles/self-cherishing.md) · teachers: [Jetsün Drakpa Gyaltsen](../teachers/drakpa-gyaltsen.md)
+concepts: [The four attachments to be parted from](../concepts/four-attachments.md) · obstacles: [Self-cherishing](../obstacles/self-cherishing.md) · teachers: [Jetsün Drakpa Gyaltsen](../teachers/drakpa-gyaltsen.md)
 
 ### 4 <a id="tea-parting-from-four-attachments-drakpa-gyaltsen-4"></a>
 `skeleton` · confidence low
@@ -52,8 +52,8 @@ There is no liberation for one who clings to existence, no higher rebirth for on
 
 _level: ultimate · standpoint: seeker · path: knowledge · stage: all · types: practice, ultimate_
 
-concepts: [The four attachments to be parted from](../concepts/four-attachments.md) · obstacles: `obs:grasping-lojong` · teachers: [Jetsün Drakpa Gyaltsen](../teachers/drakpa-gyaltsen.md)
+concepts: [The four attachments to be parted from](../concepts/four-attachments.md) · obstacles: [Grasping at extremes](../obstacles/grasping-lojong.md) · teachers: [Jetsün Drakpa Gyaltsen](../teachers/drakpa-gyaltsen.md)
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

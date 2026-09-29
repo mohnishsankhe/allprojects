@@ -11,4 +11,4 @@
 Śrī Bhaṭṭa's hundred Braj Bhāṣā verses on the love-play of the divine couple (yugala) Rādhā and Kṛṣṇa; among the earliest Braj devotional texts.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._

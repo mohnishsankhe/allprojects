@@ -11,4 +11,4 @@ In the tradition's account the chief physician of King Trisong Detsen, who trave
 **Realization — the tradition's account:** An emanation of the Medicine Buddha; lived 125 years.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

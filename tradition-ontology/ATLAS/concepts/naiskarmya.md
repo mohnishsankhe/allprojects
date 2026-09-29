@@ -14,4 +14,4 @@
 - contrasts-with → [No embodied being can remain without action](inevitability-of-action.md): no one can in fact stay without action — rests on [3.4](../texts/bhagavad-gita.md#tea-bhagavad-gita-3-4), [3.5](../texts/bhagavad-gita.md#tea-bhagavad-gita-3-5)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03. Generated 2026-09-29 17:45 IST._

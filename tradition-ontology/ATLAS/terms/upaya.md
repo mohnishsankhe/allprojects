@@ -26,4 +26,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:6.36 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U14-visistadvaita, skeleton:U19-kashmir-saivism, extraction:bhagavad-gita/ch04-06, skeleton:U17-pasupata-kapalika, skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U14-visistadvaita, skeleton:U19-kashmir-saivism, extraction:bhagavad-gita/ch04-06, skeleton:U17-pasupata-kapalika, skeleton:U44-indian-vajrayana, skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

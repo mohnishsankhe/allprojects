@@ -12,4 +12,4 @@
 Principal early holder of Anuyoga and author of the Samten Migdrön; by tradition he protected the tantric community during Langdarma's persecution by displaying wrathful powers before the king.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

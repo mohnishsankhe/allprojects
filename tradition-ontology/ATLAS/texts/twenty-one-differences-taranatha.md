@@ -22,8 +22,8 @@ Self-emptiness and other-emptiness Madhyamaka agree that every conventional phen
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: dispute, ultimate_
 
-concepts: `cpt:zhentong`, `cpt:rangtong` · teachers: [Tāranātha (Jetsün Kunga Nyingpo, rje btsun kun dga' snying po)](../teachers/taranatha.md) · disputes: `dsp:rangtong-shentong`
+concepts: [Other-emptiness (gzhan stong)](../concepts/zhentong.md), [Self-emptiness (rang stong)](../concepts/rangtong.md) · teachers: [Tāranātha (Jetsün Kunga Nyingpo, rje btsun kun dga' snying po)](../teachers/taranatha.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

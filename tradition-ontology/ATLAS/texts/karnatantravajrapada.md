@@ -42,7 +42,7 @@ The supreme guru is adorned with the three trainings and has experience; the dis
 
 _level: conventional · standpoint: seeker · path: general · stage: beginner · types: teacher-transmission, ethics_
 
-terms: [guru](../terms/guru.md) · concepts: [Testing of guru and disciple](../concepts/testing-guru-and-disciple.md), [The guru in the minor Upaniṣads](../concepts/guru.md)
+terms: [guru](../terms/guru.md) · concepts: [Testing of guru and disciple](../concepts/testing-guru-and-disciple.md), [Guru devotion in the Kagyu](../concepts/guru-devotion.md)
 
 ### 303a.1/2 <a id="tea-karnatantravajrapada-303a-1-2"></a>
 `skeleton` · confidence high
@@ -53,16 +53,16 @@ First, relying on Cakrasaṃvara, the four empowerments of the sixty-two-deity m
 
 _level: conventional · standpoint: ritual · path: ritual · stage: intermediate · types: teacher-transmission, practice_
 
-terms: [abhiṣeka](../terms/abhiseka.md), [samaya](../terms/samaya.md), [bsre ba (blending)](../terms/sewa.md) · practices: `prc:cakrasamvara-sadhana`, `prc:vajravarahi-sadhana`
+terms: [abhiṣeka](../terms/abhiseka.md), [samaya](../terms/samaya.md), [bsre ba (blending)](../terms/sewa.md) · practices: [Cakrasaṃvara practice](../practices/cakrasamvara-sadhana.md), [Vajravārāhī practice](../practices/vajravarahi-sadhana.md)
 
 ### 303a.2 <a id="tea-karnatantravajrapada-303a-2"></a>
 `skeleton` · confidence high · _restricted: summary only_
 
-Inner heat (gtum mo) — self-blazing bliss-warmth — is the main trunk of the path. The verses name the key points: the seven-point bodily posture, the deity's body visualized as an empty shell, the central channel with the left and right channels and the four wheels, the syllables at navel and crown with blazing and dripping, and the practices of breath and wind; habituation to the four joys mixes channels, winds and drops; when wind and mind enter the central channel there is non-conceptuality, the afflictions subside by themselves, bliss and clarity are uninterrupted, and seeing the essence one abides in the dharmakāya.
+Inner heat (gtum mo) — self-blazing bliss-warmth — is the main trunk of the path. The verses name its key points — bodily posture, the deity's body visualized as an empty shell, the central, left and right channels and the four wheels, the seed-syllables, and the practices of breath and wind (not reproduced here); habituation to the four joys mixes channels, winds and drops; when wind and mind enter the central channel there is non-conceptuality, the afflictions subside by themselves, bliss and clarity are uninterrupted, and seeing the essence one abides in the dharmakāya.
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: advanced · types: practice, body-layers_
 
-terms: [caṇḍālī](../terms/candali.md), [nāḍī](../terms/nadi.md), [prāṇa](../terms/prana.md), [bindu](../terms/bindu.md), [avadhūtī](../terms/avadhuti.md), [dharmakāya](../terms/dharmakaya.md) · concepts: [The vajra body (channels, winds and drops) in the Kagyu](../concepts/vajra-body.md), [The Six Yogas (Six Dharmas) of Nāropa](../concepts/six-yogas-of-naropa.md) · practices: `prc:tummo`, `prc:seven-point-posture`
+terms: [caṇḍālī](../terms/candali.md), [nāḍī](../terms/nadi.md), [prāṇa](../terms/prana.md), [bindu](../terms/bindu.md), [avadhūtī](../terms/avadhuti.md), [dharmakāya](../terms/dharmakaya.md) · concepts: [The vajra body (channels, winds and drops) in the Kagyu](../concepts/vajra-body.md), [The Six Yogas (Six Dharmas) of Nāropa](../concepts/six-yogas-of-naropa.md) · practices: [Inner heat (gtum mo, caṇḍālī)](../practices/tummo.md), [The seven-point meditation posture](../practices/seven-point-posture.md)
 
 ### 303a.4 <a id="tea-karnatantravajrapada-303a-4"></a>
 `skeleton` · confidence high
@@ -73,7 +73,7 @@ Enhancement (comes through) the illusory body, in which the eight worldly concer
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: advanced · types: practice, ultimate_
 
-terms: [māyādeha](../terms/mayadeha.md), [dharmakāya](../terms/dharmakaya.md) · concepts: [The similes of illusion](../concepts/twelve-similes-of-illusion.md), [The unions: clarity-emptiness, appearance-emptiness, bliss-emptiness](../concepts/clarity-emptiness-union.md) · practices: `prc:illusory-body-yoga` · obstacles: [The eight worldly conditions](../obstacles/eight-lokadhamma.md), `obs:dualistic-grasping`
+terms: [māyādeha](../terms/mayadeha.md), [dharmakāya](../terms/dharmakaya.md) · concepts: [The similes of illusion](../concepts/twelve-similes-of-illusion.md), [The unions: clarity-emptiness, appearance-emptiness, bliss-emptiness](../concepts/clarity-emptiness-union.md) · practices: [Illusory body yoga (sgyu lus)](../practices/illusory-body-yoga.md) · obstacles: [The eight worldly conditions](../obstacles/eight-lokadhamma.md), [Dualistic grasping (gzung 'dzin)](../obstacles/dualistic-grasping.md)
 
 ### 303a.6 <a id="tea-karnatantravajrapada-303a-6"></a>
 `skeleton` · confidence high
@@ -84,7 +84,7 @@ At night the delusion of dreams clears by itself: with effort of the three doors
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice, powers-experiences_
 
-terms: [svapna](../terms/svapna.md), [smṛti](../terms/smrti.md) · practices: [Dream yoga](../practices/dream-yoga.md)
+terms: [svapna](../terms/svapna.md), [smṛti](../terms/smrti.md) · practices: [Dream yoga (rmi lam)](../practices/dream-yoga.md)
 
 ### 303a.7 <a id="tea-karnatantravajrapada-303a-7"></a>
 `skeleton` · confidence high
@@ -100,7 +100,7 @@ terms: [prabhāsvara](../terms/prabhasvara.md), [sahaja](../terms/sahaja.md), [m
 ### 303b.1 <a id="tea-karnatantravajrapada-303b-1"></a>
 `skeleton` · confidence high · _restricted: summary only_
 
-Transference ('pho ba), the alchemy that gives buddhahood without meditation: when the signs of death appear, rejoice and give up attachment. The verses summarize the method — the doors of the body closed, wind and mind drawn into the central channel with a seed-syllable, and consciousness sent out by the upper aperture into the pure land of the dharmakāya guru.
+Transference ('pho ba), the alchemy that gives buddhahood without meditation: when the signs of death appear, rejoice and give up attachment. The verses then summarize the method by which consciousness is sent out through the upper aperture into the pure land of the dharmakāya guru (method not reproduced here).
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: advanced · types: death-dying, practice_
 
@@ -113,7 +113,7 @@ Especially 'entering a town' (grong 'jug), casting off and taking up a body like
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: death-dying, powers-experiences_
 
-terms: [grong 'jug (entering another's body)](../terms/trongjuk.md) · practices: `prc:trongjuk`
+terms: [grong 'jug (entering another's body)](../terms/trongjuk.md) · practices: [Entering another's body (grong 'jug)](../practices/trongjuk.md)
 
 ### 303b.3 <a id="tea-karnatantravajrapada-303b-3"></a>
 `skeleton` · confidence high · _restricted: summary only_
@@ -144,7 +144,7 @@ Mahāmudrā, which illuminates wisdom: the three doors unmoving, the five sense-
 
 _level: ultimate · standpoint: experiential · path: meditation · stage: advanced · types: practice, ultimate_
 
-terms: [mahāmudrā](../terms/mahamudra.md), [akṛtrima](../terms/akrtrima.md), [tha mal gyi shes pa (ordinary mind)](../terms/thamal-gyi-shepa.md), [dharmakāya](../terms/dharmakaya.md) · concepts: [Mahāmudrā (the great seal) in the Kagyu](../concepts/mahamudra.md), [Ordinary mind is the Way](../concepts/ordinary-mind.md) · practices: `prc:mahamudra-meditation`, `prc:resting-in-ordinary-mind`
+terms: [mahāmudrā](../terms/mahamudra.md), [akṛtrima](../terms/akrtrima.md), [tha mal gyi shes pa (ordinary mind)](../terms/thamal-gyi-shepa.md), [dharmakāya](../terms/dharmakaya.md) · concepts: [Mahāmudrā (the great seal) in the Kagyu](../concepts/mahamudra.md), [Ordinary mind is the Way](../concepts/ordinary-mind.md) · practices: [Mahāmudrā meditation (Kagyu)](../practices/mahamudra-meditation.md), [Resting uncontrived in ordinary mind](../practices/resting-in-ordinary-mind.md)
 
 ### 304a.1 <a id="tea-karnatantravajrapada-304a-1"></a>
 `skeleton` · confidence high
@@ -166,7 +166,7 @@ Phyag ('hand/seal') is being seized by the face of non-dual wisdom; rgya ('seal'
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: all · types: ultimate, sound-language_
 
-terms: [mahāmudrā](../terms/mahamudra.md), [rang grol](../terms/rangdrol.md), [dharmakāya](../terms/dharmakaya.md) · concepts: [Mahāmudrā (the great seal) in the Kagyu](../concepts/mahamudra.md) · obstacles: [The obscurations of afflictions and of the knowable](../obstacles/two-obscurations.md), `obs:dualistic-grasping`
+terms: [mahāmudrā](../terms/mahamudra.md), [rang grol](../terms/rangdrol.md), [dharmakāya](../terms/dharmakaya.md) · concepts: [Mahāmudrā (the great seal) in the Kagyu](../concepts/mahamudra.md) · obstacles: [The obscurations of afflictions and of the knowable](../obstacles/two-obscurations.md), [Dualistic grasping (gzung 'dzin)](../obstacles/dualistic-grasping.md)
 
 ### 304a.3 <a id="tea-karnatantravajrapada-304a-3"></a>
 `skeleton` · confidence high
@@ -177,7 +177,7 @@ The introduction to the intermediate state: the three bardos — of birth-and-de
 
 _level: bridging · standpoint: seeker · path: meditation · stage: advanced · types: death-dying, karma-liberation_
 
-terms: [antarābhava](../terms/antarabhava.md), [prabhāsvara](../terms/prabhasvara.md), [dharmakāya](../terms/dharmakaya.md), [sāṃbhogika-kāya](../terms/sambhogakaya.md), [nairmāṇika-kāya](../terms/nirmanakaya.md) · concepts: [The three intermediate states (Nāropa system)](../concepts/three-bardos-naropa.md), [The process of dying](../concepts/dying-process.md), [Mother and child clear light](../concepts/mother-and-child-clear-light.md), [The three appearances (appearance, increase, attainment)](../concepts/three-appearances.md) · practices: [Intermediate-state yoga](../practices/bardo-yoga.md)
+terms: [antarābhava](../terms/antarabhava.md), [prabhāsvara](../terms/prabhasvara.md), [dharmakāya](../terms/dharmakaya.md), [sāṃbhogika-kāya](../terms/sambhogakaya.md), [nairmāṇika-kāya](../terms/nirmanakaya.md) · concepts: [The three intermediate states (Nāropa system)](../concepts/three-bardos-naropa.md), [The process of dying](../concepts/dying-process.md), [Mother and child clear light](../concepts/mother-and-child-clear-light.md), [The three appearances (appearance, increase, attainment)](../concepts/three-appearances.md) · practices: [Intermediate-state yoga (bar do)](../practices/bardo-yoga.md)
 
 ### 304a.7 <a id="tea-karnatantravajrapada-304a-7"></a>
 `skeleton` · confidence high · _restricted: summary only_
@@ -186,7 +186,7 @@ For removing obstacles in general and seizing the māras, the vajra body's yantr
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice, body-layers_
 
-terms: ['khrul 'khor (yantra exercises)](../terms/trulkhor.md) · practices: [Magical movement ('phrul 'khor)](../practices/trulkhor.md)
+terms: ['khrul 'khor (yantra exercises)](../terms/trulkhor.md) · practices: [Yantra exercises ('khrul 'khor)](../practices/trulkhor.md)
 
 ### 304b.1 <a id="tea-karnatantravajrapada-304b-1"></a>
 `skeleton` · confidence high
@@ -214,4 +214,4 @@ concepts: [The seal of secrecy (bka' rgya)](../concepts/seal-of-secrecy.md), [Th
 _Notes: Tōh 2338. Read in full locally. Passages on the consort practice and the yantra exercises are summarized only (restricted)._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

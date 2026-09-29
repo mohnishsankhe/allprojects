@@ -10,4 +10,4 @@
 Ācārya named in the colophon of the Sāṃkhya treatise Tattvamīmāṃsā (with his father's and grandfather's names; the e-text reading of the father's name is garbled).
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:45 IST._

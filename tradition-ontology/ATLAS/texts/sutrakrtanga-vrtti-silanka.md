@@ -30,4 +30,4 @@ terms: [kiriyavāda](../terms/kiriyavada.md), [akiriyavāda](../terms/akiriyavad
 _Notes: The derivation was checked as reproduced in the Abhidhāna-rājendra (which may also draw on Abhayadeva's commentary on the Sthānāṅga)._
 
 ---
-_Contributed by: skeleton:U33-sramana, skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U33-sramana, skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._

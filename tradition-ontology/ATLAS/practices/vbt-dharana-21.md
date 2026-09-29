@@ -15,4 +15,4 @@ Whoever contemplates simultaneously the void 'behind/above' (pṛṣṭha) and t
 _Notes: Verses 44-45 (KSTS 8 / GRETIL numbering). Grouped: the Kaumudī recension (KSTS 9) has one verse combining 44a and 45b._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._

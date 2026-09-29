@@ -31,7 +31,7 @@ For one who is a Mādhyamika it is not right to state an autonomous inference, b
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute_
 
-terms: [svatantra-anumāna](../terms/svatantra-anumana.md), [prasaṅga](../terms/prasanga.md) · concepts: [The method of consequences](../concepts/prasanga-method.md), [Having no thesis](../concepts/no-thesis.md) · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: `dsp:prasangika-svatantrika`
+terms: [svatantra-anumāna](../terms/svatantra-anumana.md), [prasaṅga](../terms/prasanga.md) · concepts: [The method of consequences](../concepts/prasanga-method.md), [Having no thesis](../concepts/no-thesis.md) · teachers: [Candrakīrti](../teachers/candrakirti.md) · disputes: [Prāsaṅgika against Svātantrika](../debates/prasangika-svatantrika.md)
 
 ### 13.8 <a id="tea-prasannapada-13-8"></a>
 `skeleton` · confidence moderate
@@ -93,4 +93,4 @@ concepts: [Emptiness (śūnyatā) in Madhyamaka](../concepts/sunyata.md), [Depen
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka, skeleton:U33-sramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka, skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._

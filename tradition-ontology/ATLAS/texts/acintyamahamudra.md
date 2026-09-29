@@ -50,7 +50,7 @@ In mind itself, as it is and uncontrived, abide undistracted without fabricating
 
 _level: ultimate · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-terms: [akṛtrima](../terms/akrtrima.md), [ma yengs pa (non-distraction)](../terms/yengme.md), [sems nyid (mind-as-such)](../terms/semnyi.md) · practices: `prc:resting-in-ordinary-mind`
+terms: [akṛtrima](../terms/akrtrima.md), [ma yengs pa (non-distraction)](../terms/yengme.md), [sems nyid (mind-as-such)](../terms/semnyi.md) · practices: [Resting uncontrived in ordinary mind](../practices/resting-in-ordinary-mind.md)
 
 ### 246a.7 <a id="tea-acintyamahamudra-246a-7"></a>
 `skeleton` · confidence high
@@ -78,4 +78,4 @@ terms: [prabhāsvara](../terms/prabhasvara.md), [rig pa](../terms/rigpa.md) · c
 _Notes: Tōh 2305. Only the first sections were read in detail._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

@@ -13,4 +13,4 @@ Loss of an attained state: for the Sarvāstivāda possible for five of the six k
   - [Abhidharmakośabhāṣya](../texts/abhidharmakosabhasya.md) — ref: 6.58; rests_on: ["tea:abhidharmakosabhasya:6.58"]
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

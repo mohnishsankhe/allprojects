@@ -15,4 +15,4 @@ The consecration before the soma rite: the sacrificer is shaved, bathed, clothed
 - The dietary restrictions of the consecration are ritual observances within the rite; they are not recorded here in detail. — [Taittirīya Saṃhitā](../texts/taittiriya-samhita.md) (dīkṣā sections)
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._

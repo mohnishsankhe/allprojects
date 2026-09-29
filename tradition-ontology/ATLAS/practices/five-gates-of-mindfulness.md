@@ -3,7 +3,7 @@
 `prc:five-gates-of-mindfulness` · `skeleton` · confidence high
 
 **Category:** devotion-service
-**Convergence:** 3 independent lineage(s): [Jōdo-shū (the Pure Land school of Hōnen)](../lineages/jodo-shu.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tendai`
+**Convergence:** 2 independent lineage(s): [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tendai`
 **Taught in:** [Jōdo-shū (the Pure Land school of Hōnen)](../lineages/jodo-shu.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tendai`
 
 Worship of Amitābha with the body; praise with the voice by calling his name; single-minded aspiration for birth as śamatha; contemplation of the 29 adornments as vipaśyanā; transfer of merit to all beings.
@@ -16,4 +16,4 @@ Worship of Amitābha with the body; praise with the voice by calling his name; s
 **Sequences:** [Vasubandhu's five gates of practice and five gates of merit](../paths/vasubandhu-five-gates.md)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

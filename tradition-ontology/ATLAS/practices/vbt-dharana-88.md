@@ -15,4 +15,4 @@ Hear, O Goddess, this traditional teaching (sampradāya), which I declare fully:
 _Notes: Verses 113-114 (KSTS 8 / GRETIL numbering). Grouped: v. 114 is absent from the Kaumudī recension's main text and is reported after the 'sampradāya' verse in one manuscript._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._

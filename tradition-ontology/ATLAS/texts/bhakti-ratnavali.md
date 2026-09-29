@@ -14,4 +14,4 @@
 Viṣṇupurī's Sanskrit anthology of Bhāgavata verses on devotion, arranged by the forms of devotion; the basis of Mādhavadeva's Assamese rendering.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._

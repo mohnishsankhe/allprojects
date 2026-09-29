@@ -31,4 +31,4 @@ concepts: [The Pure Land as mind only (weixin jingtu)](../concepts/mind-only-pur
 
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

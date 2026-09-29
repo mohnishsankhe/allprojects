@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The ten courses of action](ten-kammapatha.md): the same list in the Pali suttas — rests on [1.8-10](../texts/ratnavali.md#tea-ratnavali-1-8-10)
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

@@ -11,4 +11,4 @@
 Warrior of the Genpei war who became Hōnen's disciple as the monk Rensei; his vow to be born in the highest grade is recorded.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

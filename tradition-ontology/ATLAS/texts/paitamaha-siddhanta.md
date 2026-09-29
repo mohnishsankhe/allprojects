@@ -15,4 +15,4 @@ The siddhānta ascribed to Pitāmaha (Brahmā); its early form, close to the Ved
 _Notes: Known chiefly through Varāhamihira's Pañcasiddhāntikā._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._

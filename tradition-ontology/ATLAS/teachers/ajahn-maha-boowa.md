@@ -13,4 +13,4 @@
 Thai forest master (1913–2011) of Wat Pa Baan Taad, pupil and biographer of Ajahn Mun, who taught an energetic path of body contemplation and wisdom culminating in seeing through the radiant citta.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._

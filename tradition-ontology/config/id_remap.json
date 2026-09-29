@@ -20,5 +20,11 @@
  },
  "skeleton:U09-samkhya": {
   "src:tattvasangraha-santaraksita": "src:tattvasangraha"
+ },
+ "skeleton:U46-kagyu": {
+  "tch:drogmi": "tch:drokmi-lotsawa",
+  "src:discrimination-of-the-three-vows": "src:domsum-rabye",
+  "tea:discrimination-of-the-three-vows:ch.3": "tea:domsum-rabye:ch.3",
+  "tea:discrimination-of-the-three-vows:ch.3/2": "tea:domsum-rabye:ch.3/2"
  }
 }

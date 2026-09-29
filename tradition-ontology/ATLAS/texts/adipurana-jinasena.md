@@ -52,4 +52,4 @@ concepts: [The Jain denial of a creator](../concepts/no-creator-jain.md), [The u
 _Notes: Narrative text in U34's scope; the id is disambiguated from Pampa's Kannada Ādipurāṇa. Title present in the local catalogue (catalog:JainDB:आदिपुराण--जिनसेनाचार्य); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._

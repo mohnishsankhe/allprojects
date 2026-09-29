@@ -17,4 +17,4 @@
 - same-as-under-standpoint → [The four great elements](four-elements.md) (P2-standpoint): The Indian mahābhūtas (earth, water, fire, wind) as received in Chinese Buddhism. — rests on [459b12](../texts/sandokai.md#tea-sandokai-459b12)
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

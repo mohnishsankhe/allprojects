@@ -14,4 +14,4 @@ Thirst, from which with attachment rajas arises and binds by attachment to actio
   - [Kāma Gītā](../texts/kama-gita.md) — ref: 14.13; rests_on: ["tea:kama-gita:14.13"]
 
 ---
-_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._

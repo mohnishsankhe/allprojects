@@ -64,4 +64,4 @@ The non-dual Śaiva exegetical tradition of Kashmir (9th-11th c. classical perio
 _Notes: 'Kashmir Śaivism' is a modern umbrella name; the tradition itself speaks of Trika, Ṣaḍardha, Pratyabhijñā, Spanda, Krama, Kula. Parent set to the Mantramārga because its scriptures are Bhairava tantras of the Mantramārga; its Kaula side derives from the Kulamārga (lin:kaula)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._

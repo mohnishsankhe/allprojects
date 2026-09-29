@@ -23,8 +23,8 @@ Buddha-nature is the union of luminosity and emptiness: its emptiness keeps it f
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate_
 
-concepts: [The Nyingma view of buddha-nature (Mipham)](../concepts/sugatagarbha-nyingma.md) · teachers: [Mipham Jamyang Namgyal Gyatso ('ju mi pham)](../teachers/mipham.md) · disputes: `dsp:rangtong-shentong`
+concepts: [The Nyingma view of buddha-nature (Mipham)](../concepts/sugatagarbha-nyingma.md) · teachers: [Mipham Jamyang Namgyal Gyatso ('ju mi pham)](../teachers/mipham.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
 
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

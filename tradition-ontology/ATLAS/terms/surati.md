@@ -15,4 +15,4 @@
 - partial: [jīva](jiva.md) — Sant Mat's surat is the individual soul considered as a current of attention.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._

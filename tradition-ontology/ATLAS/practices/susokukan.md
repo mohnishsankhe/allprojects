@@ -3,7 +3,7 @@
 `prc:susokukan` · `skeleton` · confidence low
 
 **Category:** breath
-**Convergence:** 1 independent lineage(s): [Zen (Japanese Chan)](../lineages/zen.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [Zen (Japanese Chan)](../lineages/zen.md)
 
 Counting exhalations from one to ten as a beginner's method of settling in zazen.
@@ -12,4 +12,4 @@ Counting exhalations from one to ten as a beginner's method of settling in zazen
 _Notes: Common in modern Zen instruction; classical sources not identified in this pass._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

@@ -14,5 +14,17 @@
 
 Zurkhar Lodrö Gyalpo's extensive commentary on the Four Tantras (chiefly the Explanatory and Oral Instruction tantras), the principal work of the Zur school.
 
+## Teachings (1: skeleton 1)
+
+### authorship <a id="tea-mepo-zhallung-authorship"></a>
+`skeleton` · confidence low
+
+Zurkhar Lodrö Gyalpo sets out the arguments on whether the Four Tantras is the Buddha's word or a treatise composed in Tibet, weighing its tantra form and origin account against internal signs of Tibetan composition.
+
+_level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, teacher-transmission_
+
+teachers: [Zurkhar Lodrö Gyalpo (zur mkhar blo gros rgyal po)](../teachers/zurkhar-lodro-gyalpo.md) · disputes: `dsp:gyushi-buddha-word`
+
+
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

@@ -1,6 +1,6 @@
-# Texts (3689)
+# Texts (3695)
 
-skeleton: 3349 · sourced: 340
+skeleton: 3242 · sourced: 453
 
 - ['Jam dpal las bzhi 'khor lo gsang ba'i rgyud (Mañjuśrī: Secret Tantra of the Wheel of the Four Activities, Tōh 838)](jampal-lezhi-khorlo.md) — `skeleton`
 - ['Jig rten mchod bstod sgrub pa rtsa ba'i rgyud (Root Tantra of Worldly Offering and Praise, Tōh 844)](jigten-chotod.md) — `skeleton`
@@ -59,7 +59,7 @@ skeleton: 3349 · sourced: 340
 - [Adhvaramīmāṃsākutūhalavṛtti](adhvaramimamsa-kutuhalavrtti.md) — `skeleton`
 - [Adhyardhaśatikā Prajñāpāramitā](adhyardhasatika-prajnaparamita.md) — `skeleton`
 - [Adhyātma Rāmāyaṇa](adhyatma-ramayana.md) — `skeleton`
-- [Adhyātma Upaniṣad](adhyatma-upanisad.md) — `skeleton`
+- [Adhyātma Upaniṣad](adhyatma-upanisad.md) — `sourced`
 - [Adhyātmagītā (Devacandra)](adhyatma-gita-devacandra.md) — `skeleton`
 - [Adhyātmamataparīkṣā](adhyatmamatapariksa.md) — `skeleton`
 - [Adhyātmasāra](adhyatmasara.md) — `skeleton`
@@ -73,7 +73,7 @@ skeleton: 3349 · sourced: 340
 - [Advaitaratnarakṣaṇa](advaitaratnaraksana.md) — `skeleton`
 - [Advaitasiddhi](advaitasiddhi.md) — `skeleton`
 - [Advayasiddhi](advayasiddhi.md) — `skeleton`
-- [Advayatāraka Upaniṣad](advayataraka-upanisad.md) — `skeleton`
+- [Advayatāraka Upaniṣad](advayataraka-upanisad.md) — `sourced`
 - [Advayavajrasaṃgraha](advayavajrasamgraha.md) — `skeleton`
 - [Agastya Saṃhitā](agastya-samhita.md) — `skeleton`
 - [Aggañña Sutta](agganna-sutta.md) — `skeleton`
@@ -105,13 +105,13 @@ skeleton: 3349 · sourced: 340
 - [Akulavīratantra](akulavira-tantra.md) — `skeleton`
 - [Akutobhayā](akutobhaya.md) — `skeleton`
 - [Akṣa Sūkta (the gambler's hymn, Ṛgveda 10.34)](aksa-sukta.md) — `sourced`
-- [Akṣamālikā Upaniṣad](aksamalika-upanisad.md) — `skeleton`
+- [Akṣamālikā Upaniṣad](aksamalika-upanisad.md) — `sourced`
 - [Akṣayamatinirdeśa-sūtra](aksayamatinirdesa.md) — `skeleton`
-- [Akṣi Upaniṣad](aksi-upanisad.md) — `skeleton`
+- [Akṣi Upaniṣad](aksi-upanisad.md) — `sourced`
 - [Akṣobhyavyūha](aksobhyavyuha.md) — `skeleton`
 - [Alagaddūpama Sutta](alagaddupama-sutta.md) — `skeleton`
 - [Alaṅkārasarvasva of Ruyyaka](alankarasarvasva.md) — `skeleton`
-- [Allā Upaniṣad](allah-upanisad.md) — `skeleton`
+- [Allā Upaniṣad](allah-upanisad.md) — `sourced`
 - [Amala Basavarāja Cāritra (Siṅgirāja)](mala-basavaraja-caritre.md) — `skeleton`
 - [Amalaṉātipirāṉ](amalanatipiran.md) — `skeleton`
 - [Amanasikārādhāra](amanasikaradhara.md) — `skeleton`
@@ -122,8 +122,8 @@ skeleton: 3349 · sourced: 340
 - [Ambaṭṭha Sutta](ambattha-sutta.md) — `skeleton`
 - [Amitāyurdhyāna-sūtra (Guan wuliangshou jing)](amitayurdhyana-sutra.md) — `skeleton`
 - [Amritbāṇī Satguru Ravidās Mahārāj](amritbani-guru-ravidass.md) — `skeleton` _(recent)_
-- [Amṛtabindu Upaniṣad](amrtabindu-upanisad.md) — `skeleton`
-- [Amṛtanāda Upaniṣad](amrtanada-upanisad.md) — `skeleton`
+- [Amṛtabindu Upaniṣad](amrtabindu-upanisad.md) — `sourced`
+- [Amṛtanāda Upaniṣad](amrtanada-upanisad.md) — `sourced`
 - [Amṛtarasāvalī](amrtarasavali.md) — `skeleton`
 - [Amṛtaratnāvalī](amrtaratnavali.md) — `skeleton`
 - [Amṛtasiddhi](amrtasiddhi.md) — `skeleton`
@@ -138,7 +138,7 @@ skeleton: 3349 · sourced: 340
 - [Annadāmaṅgala (Bhāratcandra Rāy)](annadamangala.md) — `skeleton`
 - [Annals of the Transmission of the Dharma Treasure (Chuan fabao ji)](chuan-fabao-ji.md) — `skeleton`
 - [Annamācārya's saṅkīrtanas](annamacarya-sankirtanas.md) — `skeleton`
-- [Annapūrṇā Upaniṣad](annapurna-upanisad.md) — `skeleton`
+- [Annapūrṇā Upaniṣad](annapurna-upanisad.md) — `sourced`
 - [Annotation commentaries on the thirteen great texts (gzhung chen bcu gsum gyi mchan 'grel)](shenga-thirteen-great-texts.md) — `skeleton` _(recent)_
 - [Antakṛddaśā](antakrddasa.md) — `skeleton`
 - [Antarvyāptisamarthana](antarvyaptisamarthana.md) — `skeleton`
@@ -196,18 +196,18 @@ skeleton: 3349 · sourced: 340
 - [Atharvaveda Prātiśākhya (Śaunakīyā Caturādhyāyikā)](atharvaveda-pratisakhya.md) — `sourced`
 - [Atharvaveda Saṃhitā (Paippalāda)](atharvaveda-paippalada.md) — `sourced`
 - [Atharvaveda Saṃhitā (Śaunaka)](atharvaveda-saunaka.md) — `sourced`
-- [Atharvaśikhā Upaniṣad](atharvasikha-upanisad.md) — `skeleton`
-- [Atharvaśiras Upaniṣad](atharvasiras-upanisad.md) — `skeleton`
+- [Atharvaśikhā Upaniṣad](atharvasikha-upanisad.md) — `sourced`
+- [Atharvaśiras Upaniṣad](atharvasiras-upanisad.md) — `sourced`
 - [Atrismṛti](atrismrti.md) — `sourced`
 - [Attakārī Sutta](attakari-sutta.md) — `skeleton`
 - [Atthasālinī](atthasalini.md) — `skeleton`
 - [Aucityavicāracarcā of Kṣemendra](aucityavicaracarca.md) — `skeleton`
 - [Aupapātika Sūtra](aupapatika.md) — `skeleton`
 - [Avadhūta Gītā](avadhuta-gita.md) — `skeleton`
-- [Avadhūta Upaniṣad](avadhuta-upanisad.md) — `skeleton`
+- [Avadhūta Upaniṣad](avadhuta-upanisad.md) — `sourced`
 - [Avaloka of Dhanika on the Daśarūpaka](dasarupavaloka.md) — `skeleton`
 - [Avijjāpaccayā Sutta](avijjapaccaya-sutta.md) — `skeleton`
-- [Avyakta Upaniṣad](avyakta-upanisad.md) — `skeleton`
+- [Avyakta Upaniṣad](avyakta-upanisad.md) — `sourced`
 - [Ayodhyākāṇḍa](ayodhyakanda.md) — `sourced`
 - [Ayogavyavacchedikā](ayogavyavacchedika.md) — `skeleton`
 - [Aśokāvadāna](asokavadana.md) — `skeleton`
@@ -244,7 +244,7 @@ skeleton: 3349 · sourced: 340
 - [Aṭṭhakavagga](atthakavagga.md) — `skeleton`
 - [Bahiṇābāī's abhaṅgas (with the Ātmanivedana)](bahinabai-gatha.md) — `skeleton`
 - [Bahudhātuka Sutta](bahudhatuka-sutta.md) — `skeleton`
-- [Bahvṛca Upaniṣad](bahvrca-upanisad.md) — `skeleton`
+- [Bahvṛca Upaniṣad](bahvrca-upanisad.md) — `sourced`
 - [Bai lun 百論 (Śataśāstra)](satasastra.md) — `skeleton`
 - [Baifa mingmen lun (Treatise on the Gate of Understanding the Hundred Dharmas)](baifa-mingmen-lun.md) — `skeleton`
 - [Bajaur collection of Gāndhārī manuscripts](bajaur-collection.md) — `skeleton`
@@ -311,7 +311,7 @@ skeleton: 3349 · sourced: 340
 - [Bharadvāja Saṃhitā](bharadvaja-samhita.md) — `skeleton`
 - [Bharatabhāṣya (Sarasvatīhṛdayālaṅkāra) of Nānyadeva](bharatabhasya.md) — `skeleton`
 - [Bhartṛprapañca's commentary on the Bṛhadāraṇyaka Upaniṣad (lost)](brhadaranyaka-bhasya-bhartrprapanca.md) — `skeleton`
-- [Bhasmajābāla Upaniṣad](bhasmajabala-upanisad.md) — `skeleton`
+- [Bhasmajābāla Upaniṣad](bhasmajabala-upanisad.md) — `sourced`
 - [Bhavadāsa's vṛtti (lost)](bhavadasa-vrtti.md) — `skeleton`
 - [Bhavasaṅkrānti](bhavasankranti.md) — `skeleton`
 - [Bhaviṣya Purāṇa](bhavisya-purana.md) — `skeleton`
@@ -325,7 +325,7 @@ skeleton: 3349 · sourced: 340
 - [Bhikkhunīvibhaṅga](bhikkhunivibhanga.md) — `skeleton`
 - [Bhikṣu Granth Ratnākar (collected works of Ācārya Bhikṣu)](bhiksu-granth-ratnakar.md) — `skeleton`
 - [Bhikṣu Gītā](bhiksu-gita.md) — `skeleton`
-- [Bhikṣuka Upaniṣad](bhiksuka-upanisad.md) — `skeleton`
+- [Bhikṣuka Upaniṣad](bhiksuka-upanisad.md) — `sourced`
 - [Bhikṣuṇī-Vinaya of the Mahāsāṃghika-Lokottaravāda](bhiksuni-vinaya-lokottaravada.md) — `skeleton`
 - [Bhogakārikā](bhogakarika.md) — `skeleton`
 - [Bhramahara (Hevajrasādhana)](bhramahara-hevajrasadhana.md) — `skeleton`
@@ -346,7 +346,7 @@ skeleton: 3349 · sourced: 340
 - [Bhāskarī](bhaskari.md) — `skeleton`
 - [Bhāsvatī](bhasvati.md) — `skeleton` _(recent)_
 - [Bhāvanopaniṣad-bhāṣya (Bhāskararāya)](bhavana-upanisad-bhasya-bhaskararaya.md) — `skeleton`
-- [Bhāvanā Upaniṣad](bhavana-upanisad.md) — `skeleton`
+- [Bhāvanā Upaniṣad](bhavana-upanisad.md) — `sourced`
 - [Bhāvanākrama](bhavanakrama.md) — `skeleton`
 - [Bhāvanāviveka](bhavanaviveka.md) — `skeleton`
 - [Bhāvaprakāśa](bhavaprakasa.md) — `skeleton`
@@ -398,7 +398,7 @@ skeleton: 3349 · sourced: 340
 - [Brahma Purāṇa](brahma-purana.md) — `skeleton`
 - [Brahma Saṃhitā (fifth chapter)](brahma-samhita.md) — `skeleton`
 - [Brahma Sūtra](brahma-sutra.md) — `skeleton`
-- [Brahma Upaniṣad](brahma-upanisad.md) — `skeleton`
+- [Brahma Upaniṣad](brahma-upanisad.md) — `sourced`
 - [Brahmacārin Sūkta (Atharvaveda 11.5)](brahmacari-sukta.md) — `sourced`
 - [Brahmajñānāvalīmālā](brahmajnanavalimala.md) — `skeleton`
 - [Brahmajāla Sutta](brahmajala-sutta.md) — `skeleton`
@@ -410,7 +410,7 @@ skeleton: 3349 · sourced: 340
 - [Brahmasūtrabhāṣya of Śaṅkara (Śārīrakamīmāṃsābhāṣya)](brahma-sutra-bhasya-sankara.md) — `skeleton`
 - [Brahmasūtrabhāṣya of Śrīkaṇṭha (Śrīkaṇṭhabhāṣya)](srikantha-bhasya.md) — `skeleton`
 - [Brahmavaivarta Purāṇa](brahmavaivarta-purana.md) — `skeleton`
-- [Brahmavidyā Upaniṣad](brahmavidya-upanisad.md) — `skeleton`
+- [Brahmavidyā Upaniṣad](brahmavidya-upanisad.md) — `sourced`
 - [Brahmaviśeṣacintiparipṛcchā](brahmavisesacintipariprccha.md) — `skeleton`
 - [Brahmayāmala (Picumata)](brahmayamala.md) — `skeleton`
 - [Brahmāyācana Sutta](brahmayacana-sutta.md) — `skeleton`
@@ -419,6 +419,7 @@ skeleton: 3349 · sourced: 340
 - [Brāhmasphuṭasiddhānta](brahmasphuta-siddhanta.md) — `skeleton`
 - [Brāhmaṇa Gītā](brahmana-gita.md) — `skeleton`
 - [Bsdus grwa (Collected Topics)](bsdus-grwa.md) — `skeleton`
+- [Buddhacarita](buddhacarita.md) — `skeleton`
 - [Buddhadhamma](buddhadhamma-payutto.md) — `skeleton` _(recent)_
 - [Buddhaghosuppatti](buddhaghosuppatti.md) — `skeleton`
 - [Buddhaguhya's commentary on the Mahāvairocana](mahavairocana-vrtti-buddhaguhya.md) — `skeleton`
@@ -452,7 +453,7 @@ skeleton: 3349 · sourced: 340
 - [Bṛhadāraṇyakopaniṣad-bhāṣya (Madhva)](brhadaranyaka-upanisad-bhasya-madhva.md) — `skeleton`
 - [Bṛhadāraṇyakopaniṣadbhāṣya of Śaṅkara](brhadaranyaka-upanisad-bhasya-sankara.md) — `skeleton`
 - [Bṛhadāraṇyakopaniṣadbhāṣyavārttika](brhadaranyaka-bhasya-varttika.md) — `skeleton`
-- [Bṛhajjābāla Upaniṣad](brhajjabala-upanisad.md) — `skeleton`
+- [Bṛhajjābāla Upaniṣad](brhajjabala-upanisad.md) — `sourced`
 - [Bṛhajjātaka](brhat-jataka.md) — `skeleton`
 - [Bṛhajjātakavivaraṇa of Rudra](brhajjataka-vivarana-rudra.md) — `skeleton`
 - [Bṛhannāradīya Purāṇa](brhannaradiya-purana.md) — `skeleton`
@@ -472,7 +473,7 @@ skeleton: 3349 · sourced: 340
 - [Caitanya Caritāmṛta](caitanya-caritamrta.md) — `skeleton`
 - [Caitanya Maṅgala (of Jayānanda)](caitanya-mangala-jayananda.md) — `skeleton`
 - [Caitanya Maṅgala (of Locana Dāsa)](caitanya-mangala-locana.md) — `skeleton`
-- [Caitanya Upaniṣad](caitanya-upanisad.md) — `skeleton` _(recent)_
+- [Caitanya Upaniṣad](caitanya-upanisad.md) — `sourced` _(recent)_
 - [Caitanyacandrodaya](caitanya-candrodaya.md) — `skeleton`
 - [Cakkavatti-sīhanāda Sutta](cakkavattisihanada-sutta.md) — `skeleton`
 - [Cakradatta (Cikitsāsaṅgraha)](cakradatta.md) — `skeleton`
@@ -615,17 +616,17 @@ skeleton: 3349 · sourced: 340
 - [Dakṣasmṛti](daksasmrti.md) — `sourced`
 - [Dakṣiṇāmūrti Saṃhitā](daksinamurti-samhita.md) — `skeleton`
 - [Dakṣiṇāmūrti Stotram](daksinamurti-stotra.md) — `skeleton`
-- [Dakṣiṇāmūrti Upaniṣad](daksinamurti-upanisad.md) — `skeleton`
+- [Dakṣiṇāmūrti Upaniṣad](daksinamurti-upanisad.md) — `sourced`
 - [Dantabhūmi Sutta](dantabhumi-sutta.md) — `skeleton`
 - [Dariyā Sāgar](dariya-sagar.md) — `skeleton`
-- [Darśana Upaniṣad](darsana-upanisad.md) — `skeleton`
+- [Darśana Upaniṣad](darsana-upanisad.md) — `sourced`
 - [Darśanasāra of Devasena](darsanasara-devasena.md) — `skeleton`
 - [Dasheng fayuan yilin zhang](dasheng-fayuan-yilin-zhang.md) — `skeleton`
 - [Dasheng qixin lun (Awakening of Faith in the Mahāyāna)](dasheng-qixin-lun.md) — `skeleton`
 - [Dasheng zhongguan shilun 大乘中觀釋論](dasheng-zhongguan-shilun.md) — `skeleton`
 - [Dasuttara Sutta](dasuttara-sutta.md) — `skeleton`
 - [Dattilam](dattilam.md) — `skeleton`
-- [Dattātreya Upaniṣad](dattatreya-upanisad.md) — `skeleton`
+- [Dattātreya Upaniṣad](dattatreya-upanisad.md) — `sourced`
 - [Dattātreyayogaśāstra](dattatreyayogasastra.md) — `skeleton`
 - [Dayā Bodh](daya-bodh.md) — `skeleton`
 - [Dayāśataka](dayasataka.md) — `skeleton`
@@ -660,7 +661,7 @@ skeleton: 3349 · sourced: 340
 - [Devī Kavaca](devi-kavaca.md) — `skeleton`
 - [Devī Māhātmya](devi-mahatmya.md) — `skeleton`
 - [Devī Purāṇa](devi-purana.md) — `skeleton`
-- [Devī Upaniṣad](devi-upanisad.md) — `skeleton`
+- [Devī Upaniṣad](devi-upanisad.md) — `sourced`
 - [Devīkālottarāgama](devikalottara-agama.md) — `skeleton`
 - [Devīnāmavilāsa](devinamavilasa.md) — `skeleton`
 - [Deśika Prabandham](desika-prabandham.md) — `skeleton`
@@ -684,7 +685,7 @@ skeleton: 3349 · sourced: 340
 - [Dhavalā](dhavala.md) — `skeleton`
 - [Dhavaḷe (of Mahadaisā)](mahadaisa-dhavale.md) — `skeleton`
 - [Dhvanyāloka of Ānandavardhana](dhvanyaloka.md) — `skeleton`
-- [Dhyānabindu Upaniṣad](dhyanabindu-upanisad.md) — `skeleton`
+- [Dhyānabindu Upaniṣad](dhyanabindu-upanisad.md) — `sourced`
 - [Dhyānaśataka (Jhāṇajjhayaṇa)](dhyanasataka.md) — `skeleton`
 - [Dhāraṇīśvararāja-paripṛcchā (Tathāgatamahākaruṇānirdeśa)](dharanisvararaja-sutra.md) — `skeleton`
 - [Dhātukathā](dhatukatha.md) — `skeleton`
@@ -774,7 +775,7 @@ skeleton: 3349 · sourced: 340
 - [Eknāth's bhāruḍs](eknath-bharuds.md) — `skeleton`
 - [Eknāthī Bhāgavat](eknathi-bhagavata.md) — `skeleton`
 - [Ekottarikāgama (Chinese)](ekottarikagama.md) — `skeleton`
-- [Ekākṣara Upaniṣad](ekaksara-upanisad.md) — `skeleton`
+- [Ekākṣara Upaniṣad](ekaksara-upanisad.md) — `sourced`
 - [Ekākṣarī Prajñāpāramitā](ekaksari-prajnaparamita.md) — `skeleton`
 - [Elimination of Bad Views (lta ba ngan sel) — Gorampa's commentary on the Madhyamakāvatāra](taway-ngensel.md) — `skeleton`
 - [Embossed Tea Kettle (Orategama)](orategama.md) — `skeleton`
@@ -804,13 +805,15 @@ skeleton: 3349 · sourced: 340
 - [Food for the Heart](food-for-the-heart.md) — `skeleton` _(recent)_
 - [Foxing lun (Treatise on Buddha-Nature)](foxing-lun.md) — `skeleton`
 - [Fragrant Sayings (Ichigon hōdan)](ichigon-hodan.md) — `skeleton`
+- [Fruit Clusters of Siddhis (dngos grub kyi snye ma)](fruit-clusters-of-siddhis.md) — `skeleton`
+- [Fulfilling the Hopes of Disciples (bla ma lnga bcu pa'i rnam bshad slob ma'i re ba kun skong)](fulfilling-hopes-of-disciples.md) — `skeleton`
 - [Gacchācāra](gacchacara.md) — `skeleton`
 - [Gadanigraha](gadanigraha.md) — `skeleton`
 - [Gadyatraya](gadyatraya.md) — `skeleton`
 - [Gaganagañjaparipṛcchā](gaganaganjapariprccha.md) — `skeleton`
 - [Gandharva Tantra](gandharva-tantra.md) — `skeleton`
 - [Gandhavaṃsa](gandhavamsa.md) — `skeleton`
-- [Garbha Upaniṣad](garbha-upanisad.md) — `skeleton`
+- [Garbha Upaniṣad](garbha-upanisad.md) — `sourced`
 - [Garden of Matters of the Patriarchs' Hall (Zuting shiyuan)](zuting-shiyuan.md) — `skeleton`
 - [Garland of Birth Stories (Jātakamālā)](jatakamala.md) — `skeleton`
 - [Garuḍa Purāṇa](garuda-purana.md) — `skeleton`
@@ -824,12 +827,12 @@ skeleton: 3349 · sourced: 340
 - [Gaṇakamoggallāna Sutta](ganakamoggallana-sutta.md) — `skeleton`
 - [Gaṇakataraṅgiṇī](ganakatarangini.md) — `skeleton` _(recent)_
 - [Gaṇakārikā](ganakarika.md) — `skeleton`
-- [Gaṇapati Upaniṣad](ganapati-upanisad.md) — `skeleton`
+- [Gaṇapati Upaniṣad](ganapati-upanisad.md) — `sourced`
 - [Gaṇapāṭha](ganapatha.md) — `sourced`
 - [Gaṇeśa Gītā](ganesa-gita.md) — `skeleton`
 - [Gaṇeśa Purāṇa](ganesa-purana.md) — `skeleton`
 - [Gaṇeśagītā-ṭīkā of Nīlakaṇṭha](ganesa-gita-tika-nilakantha.md) — `skeleton`
-- [Gaṇeśatāpanī Upaniṣad](ganesatapani-upanisad.md) — `skeleton`
+- [Gaṇeśatāpanī Upaniṣad](ganesatapani-upanisad.md) — `sourced`
 - [Gaṇitasārasaṅgraha](ganitasarasangraha.md) — `skeleton`
 - [Gaṇividyā](ganividya.md) — `skeleton`
 - [Gaṇḍavyūha-sūtra](gandavyuha.md) — `skeleton`
@@ -854,11 +857,11 @@ skeleton: 3349 · sourced: 340
 - [Gomnyam Drukpa (sgom nyams drug pa, the Six Meditation Experiences)](gomnyam-drukpa.md) — `skeleton`
 - [Gopatha Brāhmaṇa](gopatha-brahmana.md) — `sourced`
 - [Gopālacampū](gopala-campu.md) — `skeleton`
-- [Gopālatāpanī Upaniṣad](gopalatapani-upanisad.md) — `skeleton`
+- [Gopālatāpanī Upaniṣad](gopalatapani-upanisad.md) — `sourced`
 - [Gopālikā of Parameśvara on the Sphoṭasiddhi](gopalika.md) — `skeleton`
 - [Gopī Gītā](gopi-gita.md) — `skeleton`
 - [Gopīcand and Bharthari sagas (oral)](gopicand-bharthari-gatha.md) — `skeleton`
-- [Gopīcandana Upaniṣad](gopicandana-upanisad.md) — `skeleton`
+- [Gopīcandana Upaniṣad](gopicandana-upanisad.md) — `sourced`
 - [Gopīcandrer Sannyās](gopicandrer-sannyas.md) — `skeleton`
 - [Gorakh Bānī](gorakhbani.md) — `skeleton`
 - [Gorakṣaguṭikā](goraksa-gutika.md) — `skeleton`
@@ -911,7 +914,7 @@ skeleton: 3349 · sourced: 340
 - [Gādādharī](gadadhari.md) — `skeleton`
 - [Gāndhārī Dharmapada (Khotan manuscript)](gandhari-dharmapada.md) — `skeleton`
 - [Gāndhārī Rhinoceros Sūtra](gandhari-rhinoceros-sutra.md) — `skeleton`
-- [Gāruḍa Upaniṣad](garuda-upanisad.md) — `skeleton`
+- [Gāruḍa Upaniṣad](garuda-upanisad.md) — `sourced`
 - [Gāthāsaptaśatī](gathasaptasati.md) — `skeleton`
 - [Gāyatrī (Sāvitrī) mantra (Ṛgveda 3.62.10)](gayatri-mantra.md) — `sourced`
 - [Gīta Govinda](gita-govinda.md) — `skeleton`
@@ -951,13 +954,13 @@ skeleton: 3349 · sourced: 340
 - [Hastavālaprakaraṇa](hastavalaprakarana.md) — `skeleton`
 - [Hastyāyurveda](hastyayurveda.md) — `skeleton`
 - [Hastāmalakīya (Hastāmalaka-stotra)](hastamalakiya.md) — `skeleton`
-- [Hayagrīva Upaniṣad](hayagriva-upanisad.md) — `skeleton`
+- [Hayagrīva Upaniṣad](hayagriva-upanisad.md) — `sourced`
 - [Hayagrīvastotra](hayagriva-stotra.md) — `skeleton`
 - [Hayaśīrṣa Pañcarātra](hayasirsa-pancaratra.md) — `skeleton`
 - [Haṃsa Gītā](hamsa-gita.md) — `sourced`
 - [Haṃsa Gītā (Bhāgavata)](hamsa-gita-bhagavata.md) — `skeleton`
 - [Haṃsa Gītā (Mahābhārata)](hamsa-gita-mahabharata.md) — `skeleton`
-- [Haṃsa Upaniṣad](hamsa-upanisad.md) — `skeleton`
+- [Haṃsa Upaniṣad](hamsa-upanisad.md) — `sourced`
 - [Haṃsadūta](hamsaduta.md) — `skeleton`
 - [Haṃsasandeśa](hamsasandesa.md) — `skeleton`
 - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](hatha-yoga-pradipika.md) — `skeleton`
@@ -1083,8 +1086,8 @@ skeleton: 3349 · sourced: 340
 - [Jñānārṇava](jnanarnava.md) — `skeleton`
 - [Jñānārṇava Tantra (Śākta)](jnanarnava-tantra.md) — `skeleton`
 - [Jñātādharmakathā](jnatadharmakatha.md) — `skeleton`
-- [Jābāla Upaniṣad](jabala-upanisad.md) — `skeleton`
-- [Jābāli Upaniṣad](jabali-upanisad.md) — `skeleton`
+- [Jābāla Upaniṣad](jabala-upanisad.md) — `sourced`
+- [Jābāli Upaniṣad](jabali-upanisad.md) — `sourced`
 - [Jāgadīśī](jagadisi.md) — `skeleton`
 - [Jānakī Maṅgal](janaki-mangal.md) — `skeleton`
 - [Jāpakopākhyāna (the story of the reciter)](japakopakhyana.md) — `sourced`
@@ -1096,7 +1099,7 @@ skeleton: 3349 · sourced: 340
 - [Jātakālaṅkāra](jatakalankara.md) — `skeleton`
 - [Jītakalpa Sūtra](jitakalpa-sutra.md) — `skeleton`
 - [Jīvanmukta Gītā](jivanmukta-gita.md) — `skeleton`
-- [Jīvanmuktiviveka](jivanmuktiviveka.md) — `skeleton`
+- [Jīvanmuktiviveka](jivanmuktiviveka.md) — `sourced`
 - [Jīvasūtra (sman 'tsho ba'i mdo)](jivasutra.md) — `skeleton`
 - [Jīvājīvābhigama](jivajivabhigama.md) — `skeleton`
 - [Kabīr Granthāvalī](kabir-granthavali.md) — `skeleton`
@@ -1109,13 +1112,13 @@ skeleton: 3349 · sourced: 340
 - [Kagye Sangwa Yongdzog (bka' brgyad gsang ba yongs rdzogs)](kagye-sangwa-yongdzog.md) — `skeleton`
 - [Kaivalya Navanītam](kaivalya-navanitam.md) — `skeleton`
 - [Kaivalya Paddhati (Nijaguṇa Śivayōgi)](kaivalya-paddhati.md) — `skeleton`
-- [Kaivalya Upaniṣad](kaivalya-upanisad.md) — `skeleton`
+- [Kaivalya Upaniṣad](kaivalya-upanisad.md) — `sourced`
 - [Kaivalyadīpikā](kaivalyadipika.md) — `skeleton`
 - [Kaivalyasāra (Toṇṭadārya)](kaivalyasara-tontadarya.md) — `skeleton`
 - [Kaiyadeva Nighaṇṭu](kaiyadeva-nighantu.md) — `skeleton`
 - [Kakacūpama Sutta](kakacupama-sutta.md) — `skeleton`
 - [Kakhasya Dohā](kakhasya-doha.md) — `skeleton`
-- [Kalisantaraṇa Upaniṣad](kalisantarana-upanisad.md) — `skeleton`
+- [Kalisantaraṇa Upaniṣad](kalisantarana-upanisad.md) — `sourced`
 - [Kalki Purāṇa](kalki-purana.md) — `skeleton`
 - [Kalpa Sūtra (Paryuṣaṇākalpa)](kalpa-sutra-jain.md) — `skeleton`
 - [Kalpanāmaṇḍitikā Dṛṣṭāntapaṅkti](kalpanamanditika.md) — `skeleton`
@@ -1161,7 +1164,7 @@ skeleton: 3349 · sourced: 340
 - [Kathālakṣaṇa-ṭīkā (Jayatīrtha)](kathalaksana-tika-jayatirtha.md) — `skeleton`
 - [Kathāvatthu](kathavatthu.md) — `skeleton`
 - [Kathāvatthu-aṭṭhakathā](kathavatthu-atthakatha.md) — `skeleton`
-- [Kaula Upaniṣad](kaula-upanisad.md) — `skeleton`
+- [Kaula Upaniṣad](kaula-upanisad.md) — `sourced`
 - [Kaulajñānanirṇaya](kaulajnananirnaya.md) — `skeleton`
 - [Kaulopaniṣad-bhāṣya (Bhāskararāya)](kaula-upanisad-bhasya-bhaskararaya.md) — `skeleton`
 - [Kaulāvalīnirṇaya](kaulavalinirnaya.md) — `skeleton`
@@ -1180,8 +1183,8 @@ skeleton: 3349 · sourced: 340
 - [Kaṣāyapāhuḍa](kasayapahuda.md) — `skeleton`
 - [Kaṣāyapāhuḍa-cūrṇisūtra](kasayapahuda-curni.md) — `skeleton`
 - [Kaṭha Āraṇyaka](katha-aranyaka.md) — `sourced`
-- [Kaṭharudra Upaniṣad](katharudra-upanisad.md) — `skeleton`
-- [Kaṭhaśruti Upaniṣad](kathasruti-upanisad.md) — `skeleton`
+- [Kaṭharudra Upaniṣad](katharudra-upanisad.md) — `sourced`
+- [Kaṭhaśruti Upaniṣad](kathasruti-upanisad.md) — `sourced`
 - [Kaṭhopaniṣadbhāṣya of Śaṅkara](katha-upanisad-bhasya-sankara.md) — `skeleton`
 - [Kaṭuveḷic cittar: Āṉantak kaḷippu (the Joy-song)](kaduveli-ananda-kalippu.md) — `skeleton`
 - [Keeping the Breath in Mind (Method 2)](keeping-the-breath-in-mind.md) — `skeleton` _(recent)_
@@ -1259,7 +1262,7 @@ skeleton: 3349 · sourced: 340
 - [Kuñcitāṅghristava](kuncitanghristava.md) — `skeleton`
 - [Kuḻikkāṭṭu Pacca](kulikkattu-pacca.md) — `skeleton`
 - [Kuṇapāṭam (Siddha materia medica)](kunapatam.md) — `skeleton` _(recent)_
-- [Kuṇḍikā Upaniṣad](kundika-upanisad.md) — `skeleton`
+- [Kuṇḍikā Upaniṣad](kundika-upanisad.md) — `sourced`
 - [Kākacaṇḍīśvarīmata](kakacandisvarimata.md) — `skeleton`
 - [Kāla Sūkta (Atharvaveda 19.53–54)](kala-sukta.md) — `sourced`
 - [Kālacakra Tantra (Laghukālacakra)](kalacakra-tantra.md) — `skeleton`
@@ -1267,10 +1270,10 @@ skeleton: 3349 · sourced: 340
 - [Kālanirṇaya of Mādhava](kalanirnaya-madhava.md) — `sourced`
 - [Kālasaṅkarṣiṇīmata](kalasankarsinimata.md) — `skeleton`
 - [Kālikā Purāṇa](kalika-purana.md) — `skeleton`
-- [Kālikā Upaniṣad](kalika-upanisad.md) — `skeleton`
+- [Kālikā Upaniṣad](kalika-upanisad.md) — `sourced`
 - [Kāliya-damana](kaliya-damana-nat.md) — `skeleton`
 - [Kālottara](kalottara.md) — `skeleton`
-- [Kālāgnirudra Upaniṣad](kalagnirudra-upanisad.md) — `skeleton`
+- [Kālāgnirudra Upaniṣad](kalagnirudra-upanisad.md) — `sourced`
 - [Kālāma Sutta](kalama-sutta.md) — `skeleton`
 - [Kālī Tantra](kali-tantra.md) — `skeleton`
 - [Kālīkulapañcaśataka (Devīpañcaśataka)](kalikulapancasataka.md) — `skeleton`
@@ -1324,7 +1327,7 @@ skeleton: 3349 · sourced: 340
 - [Kūṭadanta Sutta](kutadanta-sutta.md) — `skeleton`
 - [Kṛtyakalpataru](krtyakalpataru.md) — `sourced`
 - [Kṛṣṇa Gītāvalī](krsna-gitavali.md) — `skeleton`
-- [Kṛṣṇa Upaniṣad](krsna-upanisad.md) — `skeleton`
+- [Kṛṣṇa Upaniṣad](krsna-upanisad.md) — `sourced`
 - [Kṛṣṇabhāvanāmṛta](krsna-bhavanamrta.md) — `skeleton`
 - [Kṛṣṇagīti](krsnagiti.md) — `skeleton`
 - [Kṛṣṇakarṇāmṛta](krsnakarnamrta.md) — `skeleton`
@@ -1337,7 +1340,7 @@ skeleton: 3349 · sourced: 340
 - [Kṣaṇabhaṅgasiddhi (Dharmottara)](ksanabhangasiddhi-dharmottara.md) — `skeleton`
 - [Kṣaṇabhaṅgasiddhi (Ratnakīrti)](ksanabhangasiddhi-ratnakirti.md) — `skeleton`
 - [Kṣitigarbha Pūrvapraṇidhāna Sūtra (Dizang pusa benyuan jing)](ksitigarbha-pranidhana-sutra.md) — `skeleton`
-- [Kṣurikā Upaniṣad](ksurika-upanisad.md) — `skeleton`
+- [Kṣurikā Upaniṣad](ksurika-upanisad.md) — `sourced`
 - [Kṣārapāṇi Saṃhitā](ksarapani-samhita.md) — `skeleton`
 - [Kṣēttirat Tiruveṇpā](ksettirat-tiruvenpa.md) — `skeleton`
 - [Labdhisāra](labdhisara.md) — `skeleton`
@@ -1437,7 +1440,7 @@ skeleton: 3349 · sourced: 340
 - [Magom Sangye (ma bsgom sangs rgyas, Buddhahood Without Meditation)](magom-sangye.md) — `skeleton` _(recent)_
 - [Mahopadeśaviṃśatikā](mahopadesavimsatika.md) — `skeleton`
 - [Mahotsavavidhi (of Aghoraśiva)](mahotsavavidhi.md) — `skeleton`
-- [Mahā Upaniṣad](maha-upanisad.md) — `skeleton`
+- [Mahā Upaniṣad](maha-upanisad.md) — `sourced`
 - [Mahā-Assapura Sutta](maha-assapura-sutta.md) — `skeleton`
 - [Mahābandha (Mahādhavala)](mahabandha.md) — `skeleton`
 - [Mahābherīhārakaparivarta](mahabheriharaka-sutra.md) — `skeleton`
@@ -1500,7 +1503,7 @@ skeleton: 3349 · sourced: 340
 - [Mahāvaṃsa](mahavamsa.md) — `skeleton`
 - [Mahāvedalla Sutta](mahavedalla-sutta.md) — `skeleton`
 - [Mahāvibhaṅga (Bhikkhuvibhaṅga)](mahavibhanga.md) — `skeleton`
-- [Mahāvākya Upaniṣad](mahavakya-upanisad.md) — `skeleton`
+- [Mahāvākya Upaniṣad](mahavakya-upanisad.md) — `sourced`
 - [Mahāvāṇī](mahavani.md) — `skeleton`
 - [Mahāyāna Mahāparinirvāṇa-sūtra](mahaparinirvana-sutra-mahayana.md) — `skeleton`
 - [Mahāyānasaṃgraha](mahayanasamgraha.md) — `skeleton`
@@ -1511,12 +1514,13 @@ skeleton: 3349 · sourced: 340
 - [Mahāyānasūtrālaṃkāraṭīkā](mahayanasutralamkaratika.md) — `skeleton`
 - [Mahāyānaviṃśikā](mahayanavimsika.md) — `skeleton`
 - [Mahīśāsaka Vinaya (Five-Part Vinaya)](mahisasaka-vinaya.md) — `skeleton`
-- [Maitreya Upaniṣad](maitreya-upanisad.md) — `skeleton`
+- [Maitreya Upaniṣad](maitreya-upanisad.md) — `sourced`
 - [Maitreyavyākaraṇa](maitreyavyakarana.md) — `skeleton`
 - [Maitrāyaṇī Saṃhitā](maitrayani-samhita.md) — `sourced`
 - [Maitrāyaṇīya Śulbasūtra](maitrayaniya-sulbasutra.md) — `sourced`
 - [Maitrī Upaniṣad](maitri-upanisad.md) — `sourced`
 - [Majjhima Nikāya](majjhima-nikaya.md) — `skeleton`
+- [Majmaʿ al-Baḥrayn (The Mingling of the Two Oceans)](majma-ul-bahrain.md) — `skeleton`
 - [Maka hannya haramitsu (Mahāprajñāpāramitā)](makahannya-haramitsu.md) — `skeleton`
 - [Makuṭāgama](makuta-agama.md) — `skeleton`
 - [Makuṭāgama (Vīraśaiva recension)](makutagama-virasaiva.md) — `skeleton`
@@ -1532,7 +1536,7 @@ skeleton: 3349 · sourced: 340
 - [Mantramahodadhi of Mahīdhara](mantramahodadhi.md) — `skeleton`
 - [Mantramahārṇava](mantramaharnava.md) — `skeleton`
 - [Mantrarājarahasya](mantrarajarahasya.md) — `skeleton`
-- [Mantrikā Upaniṣad](mantrika-upanisad.md) — `skeleton`
+- [Mantrikā Upaniṣad](mantrika-upanisad.md) — `sourced`
 - [Mantrārthamañjarī](mantrarthamanjari.md) — `skeleton`
 - [Manual of Insight (Vipassanā Shunikyan)](manual-of-insight.md) — `skeleton` _(recent)_
 - [Manubhāṣya of Medhātithi](manubhasya-medhatithi.md) — `sourced`
@@ -1561,9 +1565,9 @@ skeleton: 3349 · sourced: 340
 - [Maṇikaṇa](manikana.md) — `skeleton`
 - [Maṇimañjarī](manimanjari.md) — `skeleton`
 - [Maṇimēkalai](manimekalai.md) — `skeleton`
-- [Maṇḍalabrāhmaṇa Upaniṣad](mandalabrahmana-upanisad.md) — `skeleton`
+- [Maṇḍalabrāhmaṇa Upaniṣad](mandalabrahmana-upanisad.md) — `sourced`
 - [Maṭhāmnāya (Mahānuśāsana, Maṭhāmnāya-setu)](mathamnaya.md) — `skeleton`
-- [Maṭhāmnāya Upaniṣad](mathamnaya-upanisad.md) — `skeleton`
+- [Maṭhāmnāya Upaniṣad](mathamnaya-upanisad.md) — `sourced`
 - [Meaningful to Behold: an instruction manual on the vajra-yoga (rdo rje rnal 'byor gyi khrid yig mthong ba don ldan)](thongwa-donden-taranatha.md) — `skeleton`
 - [Memorandum on the Eight Great Difficult Points of the Root Wisdom (dbu ma rtsa ba'i dka' gnas chen po brgyad kyi brjed byang)](eight-difficult-points-memorandum.md) — `skeleton`
 - [Mengak Dzöd (man ngag rin po che'i mdzod, the Treasury of Precious Instructions)](mengak-dzod.md) — `skeleton`
@@ -1593,12 +1597,12 @@ skeleton: 3349 · sourced: 340
 - [Mountain Doctrine: Ocean of Definitive Meaning (ri chos nges don rgya mtsho)](mountain-doctrine.md) — `skeleton`
 - [Mud and Water from Enzan (Enzan wadei gassui shū)](enzan-wadei-gassui-shu.md) — `skeleton`
 - [Mudgala Purāṇa](mudgala-purana.md) — `skeleton`
-- [Mudgala Upaniṣad](mudgala-upanisad.md) — `skeleton`
+- [Mudgala Upaniṣad](mudgala-upanisad.md) — `sourced`
 - [Mugdhabodha](mugdhabodha.md) — `sourced`
 - [Muhūrtacintāmaṇi](muhurta-cintamani.md) — `skeleton`
 - [Muhūrtamārtaṇḍa](muhurta-martanda.md) — `skeleton`
 - [Mukhabimbāgama](mukhabimba-agama.md) — `skeleton`
-- [Muktikā Upaniṣad](muktika-upanisad.md) — `skeleton`
+- [Muktikā Upaniṣad](muktika-upanisad.md) — `sourced`
 - [Muktivāda (Raghudeva)](muktivada-raghudeva.md) — `skeleton`
 - [Muktāphala](muktaphala.md) — `skeleton`
 - [Muktāvalī](muktavali.md) — `skeleton`
@@ -1725,9 +1729,9 @@ skeleton: 3349 · sourced: 340
 - [Nirukta-bhāṣya-ṭīkā of Skandasvāmin and Maheśvara](nirukta-bhasya-skandasvamin.md) — `sourced`
 - [Niruttara Tantra](niruttara-tantra.md) — `skeleton`
 - [Nirvāṇa Tantra](nirvana-tantra.md) — `skeleton`
-- [Nirvāṇa Upaniṣad](nirvana-upanisad.md) — `skeleton`
+- [Nirvāṇa Upaniṣad](nirvana-upanisad.md) — `sourced`
 - [Nirvāṇaṣaṭkam (Ātmaṣaṭkam)](nirvana-satkam.md) — `skeleton`
-- [Nirālamba Upaniṣad](niralamba-upanisad.md) — `skeleton`
+- [Nirālamba Upaniṣad](niralamba-upanisad.md) — `sourced`
 - [Nirṇayasindhu of Kamalākara Bhaṭṭa](nirnayasindhu.md) — `sourced`
 - [Nityagrantha](nityagrantha.md) — `skeleton`
 - [Nityotsava](nityotsava.md) — `skeleton`
@@ -1809,7 +1813,7 @@ skeleton: 3349 · sourced: 340
 - [Nyāyānusāra](nyayanusara.md) — `skeleton`
 - [Nyāyāvatāra](nyayavatara.md) — `skeleton`
 - [Nācciyār Tirumoḻi](nacciyar-tirumoli.md) — `skeleton`
-- [Nādabindu Upaniṣad](nadabindu-upanisad.md) — `skeleton`
+- [Nādabindu Upaniṣad](nadabindu-upanisad.md) — `sourced`
 - [Nādakārikā](nadakarika.md) — `skeleton`
 - [Nādānusandhāna](nadanusandhana.md) — `skeleton`
 - [Nāgārjunī cave inscriptions of Daśaratha](nagarjuni-cave-inscriptions.md) — `skeleton`
@@ -1824,12 +1828,12 @@ skeleton: 3349 · sourced: 340
 - [Nārada Bhakti Sūtra](narada-bhakti-sutra.md) — `skeleton`
 - [Nārada Purāṇa](narada-purana.md) — `skeleton`
 - [Nārada Saṃhitā (jyotiṣa)](narada-samhita-jyotisa.md) — `skeleton`
-- [Nāradaparivrājaka Upaniṣad](naradaparivrajaka-upanisad.md) — `skeleton`
+- [Nāradaparivrājaka Upaniṣad](naradaparivrajaka-upanisad.md) — `sourced`
 - [Nāradasmṛti](naradasmrti.md) — `sourced`
 - [Nāradīya Saṃhitā](naradiya-samhita.md) — `skeleton`
 - [Nāradīya Śikṣā](naradiya-siksa.md) — `sourced`
-- [Nārāyaṇa Upaniṣad](narayana-upanisad.md) — `skeleton`
-- [Nārāyaṇa's Dīpikās on the Upaniṣads](narayana-dipika.md) — `skeleton`
+- [Nārāyaṇa Upaniṣad](narayana-upanisad.md) — `sourced`
+- [Nārāyaṇa's Dīpikās on the Upaniṣads](narayana-dipika.md) — `sourced`
 - [Nārāyaṇīya](narayaniya.md) — `sourced`
 - [Nāsadīya Sūkta (the creation hymn, Ṛgveda 10.129)](nasadiya-sukta.md) — `sourced`
 - [Nāth Siddhoṁ kī Bāniyāṁ](nath-siddhon-ki-baniyan.md) — `skeleton`
@@ -1843,9 +1847,9 @@ skeleton: 3349 · sourced: 340
 - [Nīlakaṇṭha Dhāraṇī Sūtra (Great Compassion Dhāraṇī)](nilakantha-dharani-sutra.md) — `skeleton`
 - [Nīlakēci](nilakesi.md) — `skeleton`
 - [Nīlamata Purāṇa](nilamata-purana.md) — `skeleton`
-- [Nīlarudra Upaniṣad](nilarudra-upanisad.md) — `skeleton`
+- [Nīlarudra Upaniṣad](nilarudra-upanisad.md) — `sourced`
 - [Nōy nāṭal nōy mutal nāṭal tiraṭṭu (diagnosis and aetiology)](noy-natal-noy-mutal-natal-tirattu.md) — `skeleton` _(recent)_
-- [Nṛsiṃhatāpanī Upaniṣad](nrsimhatapani-upanisad.md) — `skeleton`
+- [Nṛsiṃhatāpanī Upaniṣad](nrsimhatapani-upanisad.md) — `sourced`
 - [Ocean of Reasoning (rtsa she ṭīk chen rigs pa'i rgya mtsho)](ocean-of-reasoning.md) — `skeleton`
 - [Offering to the Spiritual Master (bla ma mchod pa; Guru Pūjā)](lama-chopa.md) — `skeleton`
 - [Oghaniryukti](oghaniryukti.md) — `skeleton`
@@ -1855,7 +1859,7 @@ skeleton: 3349 · sourced: 340
 - [Opening the Jewel Casket (Ratnakaraṇḍodghāṭa; dbu ma'i man ngag rin po che'i za ma tog kha phye ba)](ratnakarandodghata.md) — `skeleton`
 - [Ornament of the Essence of Explanation (rnam bshad snying po'i rgyan)](namshe-nyingpo-gyen.md) — `skeleton`
 - [Ornament that Illuminates and Beautifies the Essence of the Sugatas (bde gshegs snying po gsal zhing mdzes par byed pa'i rgyan)](tathagatagarbha-ornament-buton.md) — `skeleton`
-- [Oupnek'hat](oupnekhat.md) — `skeleton` _(recent)_
+- [Oupnek'hat](oupnekhat.md) — `sourced` _(recent)_
 - [Outline of the Meaning of the Pure Land of Peace and Bliss](luelun-anle-jingtu-yi.md) — `skeleton`
 - [Oxherding Pictures of Puming](puming-oxherding-pictures.md) — `skeleton`
 - [Oṉpatiṉāyirappaṭi (the 'Nine Thousand')](onpatinayirappati.md) — `skeleton`
@@ -1874,14 +1878,14 @@ skeleton: 3349 · sourced: 340
 - [Padārthatattvanirūpaṇa](padarthatattvanirupana.md) — `skeleton`
 - [Padārthādarśa of Rāghavabhaṭṭa](padarthadarsa.md) — `skeleton`
 - [Paitāmaha Siddhānta](paitamaha-siddhanta.md) — `skeleton`
-- [Paiṅgala Upaniṣad](paingala-upanisad.md) — `skeleton`
+- [Paiṅgala Upaniṣad](paingala-upanisad.md) — `sourced`
 - [Paltū Sāhib kī Bānī](paltu-sahib-bani.md) — `skeleton`
 - [Papañcasūdanī](papancasudani.md) — `skeleton`
-- [Parabrahma Upaniṣad](parabrahma-upanisad.md) — `skeleton`
+- [Parabrahma Upaniṣad](parabrahma-upanisad.md) — `sourced`
 - [Paralokasiddhi (Dharmottara)](paralokasiddhi-dharmottara.md) — `skeleton`
 - [Parama Saṃhitā](parama-samhita.md) — `skeleton`
-- [Paramahaṃsa Upaniṣad](paramahamsa-upanisad.md) — `skeleton`
-- [Paramahaṃsaparivrājaka Upaniṣad](paramahamsaparivrajaka-upanisad.md) — `skeleton`
+- [Paramahaṃsa Upaniṣad](paramahamsa-upanisad.md) — `sourced`
+- [Paramahaṃsaparivrājaka Upaniṣad](paramahamsaparivrajaka-upanisad.md) — `sourced`
 - [Paramalaghumañjūṣā of Nāgeśa](paramalaghumanjusa.md) — `skeleton`
 - [Paramapadasopānam](paramapada-sopanam.md) — `skeleton`
 - [Paramatthadīpanī (Dhammapāla)](paramatthadipani-dhammapala.md) — `skeleton`
@@ -1936,7 +1940,7 @@ skeleton: 3349 · sourced: 340
 - [Pauṣkarabhāṣya](pauskarabhasya.md) — `skeleton`
 - [Pauṣkaravṛtti](pauskaravrtti.md) — `skeleton`
 - [Pauṣkarāgama](pauskara-agama.md) — `skeleton`
-- [Pañcabrahma Upaniṣad](pancabrahma-upanisad.md) — `skeleton`
+- [Pañcabrahma Upaniṣad](pancabrahma-upanisad.md) — `sourced`
 - [Pañcadaśī](pancadasi.md) — `skeleton`
 - [Pañcakalpa](pancakalpa.md) — `skeleton`
 - [Pañcakrama](pancakrama.md) — `skeleton`
@@ -1992,7 +1996,7 @@ skeleton: 3349 · sourced: 340
 - [Pitāputrasaṃvāda (dialogue of father and son)](pita-putra-samvada.md) — `sourced`
 - [Piṅgalā Gītā](pingala-gita.md) — `sourced`
 - [Piṅgalāmata](pingalamata.md) — `skeleton`
-- [Piṇḍa Upaniṣad](pinda-upanisad.md) — `skeleton`
+- [Piṇḍa Upaniṣad](pinda-upanisad.md) — `sourced`
 - [Piṇḍaniryukti](pindaniryukti.md) — `skeleton`
 - [Piṇḍīkṛtasādhana (Piṇḍīkrama)](pindikrama.md) — `skeleton`
 - [Platform Sūtra of the Sixth Patriarch (Liuzu tanjing)](platform-sutra.md) — `skeleton`
@@ -2128,7 +2132,7 @@ skeleton: 3349 · sourced: 340
 - [Pāyāsi Sutta](payasi-sutta.md) — `skeleton`
 - [Pāñcarātrarakṣā](pancaratraraksa.md) — `skeleton`
 - [Pāśupata Sūtra](pasupata-sutra.md) — `skeleton`
-- [Pāśupatabrahma Upaniṣad](pasupatabrahma-upanisad.md) — `skeleton`
+- [Pāśupatabrahma Upaniṣad](pasupatabrahma-upanisad.md) — `sourced`
 - [Pāṇinīya Śikṣā](paniniya-siksa.md) — `sourced`
 - [Pāṇḍava Gītā](pandava-gita.md) — `skeleton`
 - [Pāṇḍuraṅga-māhātmya](panduranga-mahatmya.md) — `skeleton`
@@ -2234,9 +2238,9 @@ skeleton: 3349 · sourced: 340
 - [Romaka Siddhānta](romaka-siddhanta.md) — `skeleton`
 - [Rta mchog rol pa'i rgyud chen po (the Great Tantra of the Supreme Horse's Play, Tōh 839)](tachok-rolpa.md) — `skeleton`
 - [Rudra Gītā](rudra-gita.md) — `skeleton`
-- [Rudrahṛdaya Upaniṣad](rudrahrdaya-upanisad.md) — `skeleton`
+- [Rudrahṛdaya Upaniṣad](rudrahrdaya-upanisad.md) — `sourced`
 - [Rudrayāmala (Uttaratantra)](rudrayamala.md) — `skeleton`
-- [Rudrākṣajābāla Upaniṣad](rudraksajabala-upanisad.md) — `skeleton`
+- [Rudrākṣajābāla Upaniṣad](rudraksajabala-upanisad.md) — `sourced`
 - [Rukmiṇī-haraṇa](rukmini-harana-nat.md) — `skeleton`
 - [Rukmiṇī-svayaṃvara (of Eknāth)](rukmini-svayamvara-eknath.md) — `skeleton`
 - [Rukmiṇī-svayaṃvara (of Narendra)](rukmini-svayamvara-narendra.md) — `skeleton`
@@ -2256,9 +2260,9 @@ skeleton: 3349 · sourced: 340
 - [Rāma Gītā (Tattvasārāyaṇa)](rama-gita-tattvasarayana.md) — `skeleton`
 - [Rāma-hṛdaya](rama-hrdaya.md) — `skeleton`
 - [Rāma-vijaya](rama-vijaya-nat.md) — `skeleton`
-- [Rāmarahasya Upaniṣad](ramarahasya-upanisad.md) — `skeleton`
+- [Rāmarahasya Upaniṣad](ramarahasya-upanisad.md) — `sourced`
 - [Rāmarudrī](ramarudri.md) — `skeleton`
-- [Rāmatāpanī Upaniṣad](ramatapani-upanisad.md) — `skeleton`
+- [Rāmatāpanī Upaniṣad](ramatapani-upanisad.md) — `sourced`
 - [Rāmcaritmānas](ramcaritmanas.md) — `skeleton`
 - [Rāmgītā (Kīnārām)](ramgita-kina-ram.md) — `skeleton`
 - [Rāmlalā Nahachū](ramlala-nahachu.md) — `skeleton`
@@ -2323,7 +2327,7 @@ skeleton: 3349 · sourced: 340
 - [Sandaka Sutta](sandaka-sutta.md) — `skeleton`
 - [Sandhivyākaraṇa](sandhivyakarana-tantra.md) — `skeleton`
 - [Sanmatitarka (Sammaisutta)](sanmati-tarka.md) — `skeleton`
-- [Sannyāsa Upaniṣad](sannyasa-upanisad.md) — `skeleton`
+- [Sannyāsa Upaniṣad](sannyasa-upanisad.md) — `sourced`
 - [Sannyāsanirṇaya](sannyasanirnaya.md) — `skeleton`
 - [Sannyāsapaddhati (attributed to Madhva)](sannyasapaddhati-madhva.md) — `skeleton`
 - [Sanskrit manuscripts from the Turfan finds](turfan-manuscripts.md) — `skeleton`
@@ -2337,7 +2341,7 @@ skeleton: 3349 · sourced: 340
 - [Saptaśatikā Prajñāpāramitā](saptasatika-prajnaparamita.md) — `skeleton`
 - [Sarasvatī Gītā](sarasvati-gita.md) — `skeleton`
 - [Sarasvatīkaṇṭhābharaṇa (on poetics) of Bhoja](sarasvatikanthabharana-alankara.md) — `skeleton`
-- [Sarasvatīrahasya Upaniṣad](sarasvatirahasya-upanisad.md) — `skeleton`
+- [Sarasvatīrahasya Upaniṣad](sarasvatirahasya-upanisad.md) — `sourced`
 - [Sarbaṅgī (Sarvāṅgī) of Rajjab](sarvangi-rajjab.md) — `skeleton`
 - [Sarvabuddhasamāyoga-ḍākinījālasaṃvara](sarvabuddhasamayoga.md) — `skeleton`
 - [Sarvadarśanasaṃgraha](sarvadarsanasangraha.md) — `skeleton`
@@ -2349,7 +2353,7 @@ skeleton: 3349 · sourced: 340
 - [Sarvajñānottaravṛtti](sarvajnanottaravrtti.md) — `skeleton`
 - [Sarvasaṃvādinī](sarvasamvadini.md) — `skeleton`
 - [Sarvasiddhāntasaṅgraha (Sarvadarśanasiddhāntasaṅgraha)](sarvasiddhantasangraha.md) — `skeleton`
-- [Sarvasāra Upaniṣad](sarvasara-upanisad.md) — `skeleton`
+- [Sarvasāra Upaniṣad](sarvasara-upanisad.md) — `sourced`
 - [Sarvatathāgatatattvasaṃgraha](sarvatathagatatattvasamgraha.md) — `skeleton`
 - [Sarvatobhadra of Rājānaka Rāmakaṇṭha](sarvatobhadra-ramakantha.md) — `sourced`
 - [Sarvavedāntasiddhāntasārasaṅgraha](sarva-vedanta-siddhanta-sara-sangraha.md) — `skeleton`
@@ -2372,7 +2376,7 @@ skeleton: 3349 · sourced: 340
 - [Satyadvayavibhaṅgapañjikā](satyadvayavibhanga-panjika.md) — `skeleton`
 - [Satyasiddhiśāstra](satyasiddhisastra.md) — `skeleton`
 - [Saubhāgyabhāskara](saubhagyabhaskara.md) — `skeleton`
-- [Saubhāgyalakṣmī Upaniṣad](saubhagyalaksmi-upanisad.md) — `skeleton`
+- [Saubhāgyalakṣmī Upaniṣad](saubhagyalaksmi-upanisad.md) — `sourced`
 - [Saubhāgyaratnākara](saubhagyaratnakara.md) — `skeleton`
 - [Saubhāgyasudhodaya](saubhagyasudhodaya.md) — `skeleton`
 - [Saubhāgyavardhinī](saubhagyavardhini.md) — `skeleton`
@@ -2466,11 +2470,11 @@ skeleton: 3349 · sourced: 340
 - [Sifen lü shanfan buque xingshi chao](sifen-lu-xingshi-chao.md) — `skeleton`
 - [Sigālovāda Sutta](sigalovada-sutta.md) — `skeleton`
 - [Sipai Dzöpuk (srid pa'i mdzod phug, the Treasury of Existence)](sipai-dzopuk.md) — `skeleton`
-- [Sirr-i Akbar](sirr-i-akbar.md) — `skeleton`
+- [Sirr-i Akbar](sirr-i-akbar.md) — `sourced`
 - [Siṃsapā Sutta](simsapa-sutta.md) — `skeleton`
 - [Skambha hymns (Atharvaveda 10.7–8)](skambha-sukta.md) — `sourced`
 - [Skanda Purāṇa](skanda-purana.md) — `skeleton`
-- [Skanda Upaniṣad](skanda-upanisad.md) — `skeleton`
+- [Skanda Upaniṣad](skanda-upanisad.md) — `sourced`
 - [Skandapurāṇa (early recension)](skandapurana-early.md) — `skeleton`
 - [Skandasvāmin's commentary on the Ṛgveda](rgveda-bhasya-skandasvamin.md) — `sourced`
 - [Smṛticandrikā of Devaṇṇabhaṭṭa](smrticandrika.md) — `sourced`
@@ -2518,7 +2522,7 @@ skeleton: 3349 · sourced: 340
 - [Subodhinī (Vallabha's commentary on the Bhāgavata Purāṇa)](subodhini-vallabha.md) — `skeleton`
 - [Subodhinī of Śrīdhara Svāmin](subodhini-sridhara.md) — `sourced`
 - [Subāhuparipṛcchā Tantra](subahupariprccha-tantra.md) — `skeleton`
-- [Subāla Upaniṣad](subala-upanisad.md) — `skeleton`
+- [Subāla Upaniṣad](subala-upanisad.md) — `sourced`
 - [Sugatamatavibhaṅga](sugatamatavibhanga.md) — `skeleton`
 - [Suhṛllekha](suhrllekha.md) — `skeleton`
 - [Sukhāvatīvyūha-sūtra (larger)](sukhavativyuha-larger.md) — `skeleton`
@@ -2587,7 +2591,7 @@ skeleton: 3349 · sourced: 340
 - [Sātvata Saṃhitā](satvata-samhita.md) — `skeleton`
 - [Sātvata Tantra](satvata-tantra.md) — `skeleton`
 - [Sāvatā Mālī's abhaṅgas](savata-mali-abhangas.md) — `skeleton`
-- [Sāvitrī Upaniṣad](savitri-upanisad.md) — `skeleton`
+- [Sāvitrī Upaniṣad](savitri-upanisad.md) — `sourced`
 - [Sāyaṇa's commentary on the Atharvaveda](atharvaveda-bhasya-sayana.md) — `sourced`
 - [Sāyaṇa's commentary on the Taittirīya Saṃhitā](taittiriya-samhita-bhasya-sayana.md) — `sourced`
 - [Sāyaṇa's commentary on the Ṛgveda (Vedārthaprakāśa)](rgveda-bhasya-sayana.md) — `sourced`
@@ -2608,14 +2612,14 @@ skeleton: 3349 · sourced: 340
 - [Sāṃkhyatattvapradīpikā](samkhyatattvapradipika.md) — `skeleton`
 - [Sāṃkhyatattvavivecana](samkhyatattvavivecana.md) — `skeleton`
 - [Sāṃkhyavṛtti (V2)](samkhya-vrtti.md) — `skeleton`
-- [Sītā Upaniṣad](sita-upanisad.md) — `skeleton`
+- [Sītā Upaniṣad](sita-upanisad.md) — `sourced`
 - [Sōmanātha Cāritra (Rāghavāṅka)](somanatha-caritre.md) — `skeleton`
 - [Sūkṣmāgama](suksma-agama.md) — `skeleton`
 - [Sūrimantrabṛhatkalpavivaraṇa](surimantra-kalpa-jinaprabha.md) — `skeleton`
 - [Sūrsāgar](sursagar.md) — `skeleton`
 - [Sūrya Gītā](surya-gita.md) — `skeleton`
 - [Sūrya Siddhānta](surya-siddhanta.md) — `skeleton`
-- [Sūrya Upaniṣad](surya-upanisad.md) — `skeleton`
+- [Sūrya Upaniṣad](surya-upanisad.md) — `sourced`
 - [Sūryaprajñapti](suryaprajnapti.md) — `skeleton`
 - [Sūryaprajñapti (Sūriyapaṇṇatti)](surya-prajnapti.md) — `skeleton`
 - [Sūta Gītā](suta-gita.md) — `skeleton`
@@ -2729,7 +2733,7 @@ skeleton: 3349 · sourced: 340
 - [Teaching on Going for Refuge (Śaraṇagamanadeśanā; skyabs su 'gro ba bstan pa)](saranagamanadesana.md) — `skeleton`
 - [Tegchen Tsuljug (theg chen tshul 'jug, Entering the Way of the Great Vehicle)](tegchen-tsuljug.md) — `skeleton`
 - [Tegchok Dzöd (theg mchog rin po che'i mdzod, the Treasury of the Supreme Vehicle)](tegchok-dzod.md) — `skeleton`
-- [Tejobindu Upaniṣad](tejobindu-upanisad.md) — `skeleton`
+- [Tejobindu Upaniṣad](tejobindu-upanisad.md) — `sourced`
 - [Ten Causes of Birth (Ōjō jūin)](ojo-juin.md) — `skeleton`
 - [Ten Doubts about the Pure Land (Jingtu shiyi lun)](jingtu-shiyi-lun.md) — `skeleton`
 - [Ten Essentials of the Pure Land (Jingtu shiyao)](jingtu-shiyao.md) — `skeleton`
@@ -2743,6 +2747,7 @@ skeleton: 3349 · sourced: 340
 - [Thams cad bdud rtsi lnga'i rang bzhin (The Nature of the Five Nectars, Tōh 841)](dutsi-nga.md) — `skeleton`
 - [The Art of Living: Vipassana Meditation as Taught by S. N. Goenka](art-of-living-hart.md) — `skeleton` _(recent)_
 - [The Aspiration Prayer of Mahāmudrā](aspiration-prayer-of-mahamudra.md) — `skeleton`
+- [The Basic Path to Awakening (byang chub gzhung lam)](basic-path-to-awakening.md) — `skeleton`
 - [The Benefit of Beings Pervading Space (Thangtong Gyalpo's Avalokiteśvara practice)](drodon-khakhyabma.md) — `skeleton`
 - [The Blue Annals](blue-annals.md) — `skeleton`
 - [The Blue Beryl: ornament of the Medicine Buddha's intent, the commentary on the Four Tantras (gso ba rig pa'i bstan bcos sman bla'i dgongs rgyan rgyud bzhi'i gsal byed bai DUr sngon po'i ma lli ka)](blue-beryl.md) — `skeleton`
@@ -2764,6 +2769,7 @@ skeleton: 3349 · sourced: 340
 - [The Deathless Body and Mind (Shangpa)](deathless-body-and-mind.md) — `skeleton`
 - [The Dhammakaya Case (Korani Thammakai)](dhammakaya-case-payutto.md) — `skeleton` _(recent)_
 - [The Dharma Gate of the Merits of the Samādhi of Contemplating the Ocean-like Marks of Amitābha](guannian-famen.md) — `skeleton`
+- [The dialogues of Bābā Lāl and Dārā Shikoh (Nādir al-nikāt / Mukālama)](dara-baba-lal-dialogues.md) — `skeleton`
 - [The Discourse Summaries (S. N. Goenka)](discourse-summaries-goenka.md) — `skeleton` _(recent)_
 - [The Easy Path (lam rim bde lam)](easy-path-lamrim.md) — `skeleton`
 - [The edicts of Aśoka](asokan-edicts.md) — `skeleton`
@@ -2932,16 +2938,16 @@ skeleton: 3349 · sourced: 340
 - [Trilokasāra](trilokasara.md) — `skeleton`
 - [Tripura Rahasya (Jñāna-khaṇḍa)](tripura-rahasya.md) — `skeleton`
 - [Tripuropaniṣad-bhāṣya (Bhāskararāya)](tripura-upanisad-bhasya-bhaskararaya.md) — `skeleton`
-- [Tripurā Upaniṣad](tripura-upanisad.md) — `skeleton`
+- [Tripurā Upaniṣad](tripura-upanisad.md) — `sourced`
 - [Tripurārṇava Tantra](tripurarnava-tantra.md) — `skeleton`
 - [Tripurāsārasamuccaya](tripurasarasamuccaya.md) — `skeleton`
-- [Tripurātāpinī Upaniṣad](tripuratapani-upanisad.md) — `skeleton`
-- [Tripādvibhūti-Mahānārāyaṇa Upaniṣad](tripadvibhuti-mahanarayana-upanisad.md) — `skeleton`
+- [Tripurātāpinī Upaniṣad](tripuratapani-upanisad.md) — `sourced`
+- [Tripādvibhūti-Mahānārāyaṇa Upaniṣad](tripadvibhuti-mahanarayana-upanisad.md) — `sourced`
 - [Tripādīnītinayana](tripadinitinayana.md) — `skeleton`
 - [Triskandhaka (Sūtra of the Three Heaps)](triskandhaka-sutra.md) — `skeleton`
 - [Trisvabhāvanirdeśa](trisvabhavanirdesa.md) — `skeleton`
 - [Triśatikāyāḥ Prajñāpāramitāyāḥ Kārikāsaptatiḥ](trisatikayah-prajnaparamitayah-karikasaptatih.md) — `skeleton`
-- [Triśikhibrāhmaṇa Upaniṣad](trisikhibrahmana-upanisad.md) — `skeleton`
+- [Triśikhibrāhmaṇa Upaniṣad](trisikhibrahmana-upanisad.md) — `sourced`
 - [Triśirobhairava](trisirobhairava.md) — `skeleton`
 - [Triṃśikā (Triṃśikāvijñaptikārikā)](trimsika.md) — `skeleton`
 - [Triṃśikāvijñaptibhāṣya](trimsikabhasya.md) — `skeleton`
@@ -2955,7 +2961,7 @@ skeleton: 3349 · sourced: 340
 - [Tukdrub Barche Künsel (thugs sgrub bar chad kun sel, the Heart Practice Dispelling All Obstacles)](tukdrub-barche-kunsel.md) — `skeleton` _(recent)_
 - [Tukārām Gāthā](tukaram-gatha.md) — `skeleton`
 - [Tulādhāra–Jājali Saṃvāda](tuladhara-jajali-samvada.md) — `sourced`
-- [Turīyātīta Upaniṣad](turiyatita-upanisad.md) — `skeleton`
+- [Turīyātīta Upaniṣad](turiyatita-upanisad.md) — `sourced`
 - [Twenty-one Differences regarding the Profound Meaning (zab don khyad par nyer gcig pa)](twenty-one-differences-taranatha.md) — `skeleton`
 - [Two Entrances and Four Practices (Erru sixing lun)](two-entrances-four-practices.md) — `skeleton`
 - [Two Gates of Resolving Doubts and of Practice and Vow for Birth in the Pure Land](wangsheng-jingtu-jueyi-xingyuan-ermen.md) — `skeleton`
@@ -2965,7 +2971,7 @@ skeleton: 3349 · sourced: 340
 - [Tājikanīlakaṇṭhī](tajika-nilakanthi.md) — `skeleton`
 - [Tājikaśāstra of Samarasiṃha](tajikasastra-samarasimha.md) — `skeleton`
 - [Tāranātha's History of Buddhism in India](gyagar-chojung-taranatha.md) — `skeleton`
-- [Tārasāra Upaniṣad](tarasara-upanisad.md) — `skeleton`
+- [Tārasāra Upaniṣad](tarasara-upanisad.md) — `sourced`
 - [Tārkikarakṣā](tarkikaraksa.md) — `skeleton`
 - [Tārā Tantra](tara-tantra.md) — `skeleton`
 - [Tārābhaktisudhārṇava](tarabhaktisudharnava.md) — `skeleton`
@@ -3005,7 +3011,7 @@ skeleton: 3349 · sourced: 340
 - [Upakkilesa Sutta](upakkilesa-sutta.md) — `skeleton`
 - [Upakramaparākrama](upakramaparakrama.md) — `skeleton`
 - [Upanisa Sutta](upanisa-sutta.md) — `skeleton`
-- [Upaniṣad Brahmayogin's commentaries on the 108 Upaniṣads](upanisad-brahmayogin-commentary.md) — `skeleton`
+- [Upaniṣad Brahmayogin's commentaries on the 108 Upaniṣads](upanisad-brahmayogin-commentary.md) — `sourced`
 - [Upaniṣat-prakāśikā](upanisad-prakasika.md) — `skeleton`
 - [Upaskāra](upaskara.md) — `skeleton`
 - [Upavarṣa's vṛtti (lost)](upavarsa-vrtti.md) — `skeleton`
@@ -3080,7 +3086,7 @@ skeleton: 3349 · sourced: 340
 - [Vajramālā](vajramala-tantra.md) — `skeleton`
 - [Vajrapāṇyabhiṣeka Mahātantra](vajrapani-abhiseka-tantra.md) — `skeleton`
 - [Vajrasamādhi-sūtra (Jingang sanmei jing)](vajrasamadhi-sutra.md) — `skeleton`
-- [Vajrasūci Upaniṣad](vajrasuci-upanisad.md) — `skeleton`
+- [Vajrasūci Upaniṣad](vajrasuci-upanisad.md) — `sourced`
 - [Vajraśekhara](vajrasekhara-sutra.md) — `skeleton`
 - [Vajraḍāka Tantra](vajradaka-tantra.md) — `skeleton`
 - [Vajrāvalī](vajravali.md) — `skeleton`
@@ -3090,7 +3096,7 @@ skeleton: 3349 · sourced: 340
 - [Varivasyārahasya](varivasya-rahasya.md) — `skeleton`
 - [Varuṇapaddhati](varunapaddhati.md) — `skeleton`
 - [Varāha Purāṇa](varaha-purana.md) — `skeleton`
-- [Varāha Upaniṣad](varaha-upanisad.md) — `skeleton`
+- [Varāha Upaniṣad](varaha-upanisad.md) — `sourced`
 - [Varṇaratnākara](varnaratnakara.md) — `skeleton`
 - [Vasantarāja Śākuna](vasantaraja-sakuna.md) — `skeleton`
 - [Vasantatilakā](vasantatilaka.md) — `skeleton`
@@ -3258,7 +3264,7 @@ skeleton: 3349 · sourced: 340
 - [Vāsiṣṭha Siddhānta](vasistha-siddhanta.md) — `skeleton`
 - [Vāsiṣṭhacandrikā](vasistha-candrika.md) — `skeleton`
 - [Vāsiṣṭharāmāyaṇa-tātparyaprakāśa](yoga-vasistha-tatparyaprakasa.md) — `skeleton`
-- [Vāsudeva Upaniṣad](vasudeva-upanisad.md) — `skeleton`
+- [Vāsudeva Upaniṣad](vasudeva-upanisad.md) — `sourced`
 - [Vātulottara (Vātulāgama tradition)](vatulottara-agama.md) — `skeleton`
 - [Vātulāgama](vatula-agama.md) — `skeleton`
 - [Vātūlanāthasūtra](vatulanatha-sutra.md) — `skeleton`
@@ -3306,8 +3312,8 @@ skeleton: 3349 · sourced: 340
 - [Yamakabhārata](yamakabharata.md) — `skeleton`
 - [Yamasmṛti](yamasmrti.md) — `sourced`
 - [Yamunāṣṭaka](yamunastaka-vallabha.md) — `skeleton`
-- [Yatidharmaprakāśa](yatidharmaprakasa.md) — `skeleton`
-- [Yatidharmasamuccaya](yatidharmasamuccaya.md) — `skeleton`
+- [Yatidharmaprakāśa](yatidharmaprakasa.md) — `sourced`
+- [Yatidharmasamuccaya](yatidharmasamuccaya.md) — `sourced`
 - [Yatipañcaka](yati-pancaka.md) — `skeleton`
 - [Yatipraṇavakalpa](yatipranavakalpa.md) — `skeleton`
 - [Yatirājaviṃśati](yatiraja-vimsati.md) — `skeleton`
@@ -3327,11 +3333,11 @@ skeleton: 3349 · sourced: 340
 - [Yogabindu](yogabindu.md) — `skeleton`
 - [Yogabīja](yogabija.md) — `skeleton`
 - [Yogacintāmaṇi (of Śivānanda Sarasvatī)](yogacintamani-sivananda.md) — `skeleton`
-- [Yogacūḍāmaṇi Upaniṣad](yogacudamani-upanisad.md) — `skeleton`
+- [Yogacūḍāmaṇi Upaniṣad](yogacudamani-upanisad.md) — `sourced`
 - [Yogadīpikā (Nārāyaṇa Paṇḍitācārya)](yogadipika-narayana-pandita.md) — `skeleton`
 - [Yogadṛṣṭisamuccaya](yogadrstisamuccaya.md) — `skeleton`
 - [Yogajāgama](yogaja-agama.md) — `skeleton`
-- [Yogakuṇḍalī Upaniṣad](yogakundali-upanisad.md) — `skeleton`
+- [Yogakuṇḍalī Upaniṣad](yogakundali-upanisad.md) — `sourced`
 - [Yogamaṇiprabhā](yogamaniprabha.md) — `skeleton`
 - [Yogamārtaṇḍa](yogamartanda.md) — `skeleton`
 - [Yogarahasya (of Nāthamuni)](yogarahasya-nathamuni.md) — `skeleton`
@@ -3344,7 +3350,7 @@ skeleton: 3349 · sourced: 340
 - [Yogasārasaṅgraha](yogasarasangraha.md) — `skeleton`
 - [Yogasūtradīpikā (Pradīpikā) of Bhāvāgaṇeśa](yogasutradipika-bhavaganesa.md) — `skeleton`
 - [Yogasūtravṛtti of Nāgeśa (Nāgojī) Bhaṭṭa](yogasutravrtti-nagesa.md) — `skeleton`
-- [Yogatattva Upaniṣad](yogatattva-upanisad.md) — `skeleton`
+- [Yogatattva Upaniṣad](yogatattva-upanisad.md) — `sourced`
 - [Yogatārāvalī](yogataravali.md) — `skeleton`
 - [Yogavallī](yogavalli.md) — `skeleton` _(recent)_
 - [Yogaviṃśikā](yogavimsika.md) — `skeleton`
@@ -3354,7 +3360,7 @@ skeleton: 3349 · sourced: 340
 - [Yogayātrā](yogayatra.md) — `skeleton`
 - [Yogaśataka (Haribhadra)](yogasataka-haribhadra.md) — `skeleton`
 - [Yogaśataka (sbyor ba brgya pa), the Hundred Prescriptions](yogasataka-nagarjuna.md) — `skeleton`
-- [Yogaśikhā Upaniṣad](yogasikha-upanisad.md) — `skeleton`
+- [Yogaśikhā Upaniṣad](yogasikha-upanisad.md) — `sourced`
 - [Yogaśāstra (Hemacandra)](yogasastra-hemacandra.md) — `skeleton`
 - [Yogaśāstra-svopajñavṛtti](yogasastra-svopajna-vrtti.md) — `skeleton`
 - [Yoginī Tantra](yogini-tantra.md) — `skeleton`
@@ -3382,7 +3388,7 @@ skeleton: 3349 · sourced: 340
 - [Yönten Dzöd (yon tan rin po che'i mdzod, the Treasury of Precious Qualities)](yonten-dzod.md) — `skeleton`
 - [Yādavaprakāśa's commentary on the Brahma Sūtras (lost)](brahma-sutra-bhasya-yadavaprakasa.md) — `skeleton`
 - [Yādavābhyudaya](yadavabhyudaya.md) — `skeleton`
-- [Yājñavalkya Upaniṣad](yajnavalkya-upanisad.md) — `skeleton`
+- [Yājñavalkya Upaniṣad](yajnavalkya-upanisad.md) — `sourced`
 - [Yājñavalkya Śikṣā](yajnavalkya-siksa.md) — `sourced`
 - [Yājñavalkyasmṛti](yajnavalkyasmrti.md) — `sourced`
 - [Yājñavalkya–Janaka Saṃvāda (in the Mokṣadharma)](yajnavalkya-janaka-samvada.md) — `sourced`
@@ -3453,7 +3459,7 @@ skeleton: 3349 · sourced: 340
 - [Āptaparīkṣā](aptapariksa.md) — `skeleton`
 - [Āraṇyageya-gāna (Araṇyegāna)](aranyageya-gana.md) — `sourced`
 - [Āraṇyakaparvan](aranyakaparvan.md) — `sourced`
-- [Āruṇi Upaniṣad](aruni-upanisad.md) — `skeleton`
+- [Āruṇi Upaniṣad](aruni-upanisad.md) — `sourced`
 - [Āryabhaṭasiddhānta (midnight system)](aryabhata-siddhanta.md) — `skeleton`
 - [Āryabhaṭīya](aryabhatiya.md) — `skeleton`
 - [Āryabhaṭīyabhāṣya of Bhāskara I](aryabhatiya-bhasya-bhaskara.md) — `skeleton`
@@ -3465,9 +3471,9 @@ skeleton: 3349 · sourced: 340
 - [Āsīvisopama Sutta](asivisopama-sutta.md) — `skeleton`
 - [Ātharvaṇa Jyotiṣa](atharva-jyotisa.md) — `sourced`
 - [Ātharvaṇopaniṣad-bhāṣya (Madhva)](mundaka-upanisad-bhasya-madhva.md) — `skeleton`
-- [Ātma Upaniṣad](atma-upanisad.md) — `skeleton`
+- [Ātma Upaniṣad](atma-upanisad.md) — `sourced`
 - [Ātmabodha](atma-bodha.md) — `skeleton`
-- [Ātmabodha Upaniṣad](atmabodha-upanisad.md) — `skeleton`
+- [Ātmabodha Upaniṣad](atmabodha-upanisad.md) — `sourced`
 - [Ātmakhyāti](atmakhyati.md) — `skeleton`
 - [Ātmaprakāśa](atmaprakasa.md) — `skeleton`
 - [Ātmapurāṇa](atmapurana.md) — `skeleton`
@@ -3485,7 +3491,7 @@ skeleton: 3349 · sourced: 340
 - [Āyurvedadīpikā](ayurveda-dipika.md) — `skeleton`
 - [Āyurvedaprakāśa](ayurveda-prakasa.md) — `skeleton`
 - [Āyurvedarasāyana](ayurveda-rasayana.md) — `skeleton`
-- [Āśrama Upaniṣad](asrama-upanisad.md) — `skeleton`
+- [Āśrama Upaniṣad](asrama-upanisad.md) — `sourced`
 - [Āśramavāsikaparvan](asramavasikaparvan.md) — `sourced`
 - [Āśvalāyana Gṛhyasūtra](asvalayana-grhyasutra.md) — `sourced`
 - [Āśvalāyana Śrautasūtra](asvalayana-srautasutra.md) — `sourced`
@@ -3517,7 +3523,7 @@ skeleton: 3349 · sourced: 340
 - [Śaktivāda](saktivada.md) — `skeleton`
 - [Śalyaparvan](salyaparvan.md) — `sourced`
 - [Śamyāka Gītā](samyaka-gita.md) — `skeleton`
-- [Śarabha Upaniṣad](sarabha-upanisad.md) — `skeleton`
+- [Śarabha Upaniṣad](sarabha-upanisad.md) — `sourced`
 - [Śaraṇāgati Gadya](saranagati-gadya.md) — `skeleton`
 - [Śarkarikā](sarkarika.md) — `skeleton`
 - [Śatadūṣaṇī](satadusani.md) — `skeleton`
@@ -3549,7 +3555,7 @@ skeleton: 3349 · sourced: 340
 - [Śivajñānabodha (Sanskrit)](sivajnanabodha.md) — `skeleton`
 - [Śivarahasya](siva-rahasya.md) — `skeleton`
 - [Śivasaṅkalpa Sūkta](sivasankalpa-sukta.md) — `sourced`
-- [Śivasaṅkalpa Upaniṣad](sivasankalpa-upanisad.md) — `skeleton`
+- [Śivasaṅkalpa Upaniṣad](sivasankalpa-upanisad.md) — `sourced`
 - [Śivasiddhāntacandrikā (Siddhanañjeśa Śivācārya)](sivasiddhanta-candrika.md) — `skeleton`
 - [Śivastotrāvalī](sivastotravali.md) — `skeleton`
 - [Śivastotrāvalīvivṛti](sivastotravali-vivrti.md) — `skeleton`
@@ -3608,7 +3614,7 @@ skeleton: 3349 · sourced: 340
 - [Śrīvidyārṇava Tantra](srividyarnava-tantra.md) — `skeleton`
 - [Śuddhādvaitamārtaṇḍa](suddhadvaita-martanda.md) — `skeleton`
 - [Śuka Saṃhitā (one of the five Śubhāgamas)](suka-samhita-subhagama.md) — `skeleton`
-- [Śukarahasya Upaniṣad](sukarahasya-upanisad.md) — `skeleton`
+- [Śukarahasya Upaniṣad](sukarahasya-upanisad.md) — `sourced`
 - [Śukānupraśna (Vyāsa's instruction to Śuka)](sukanuprasna.md) — `sourced`
 - [Śvetāmbara Āgamas (the Jain canon)](svetambara-agamas.md) — `skeleton`
 - [Śvetāśvatara Upaniṣad](svetasvatara-upanisad.md) — `sourced`
@@ -3624,7 +3630,7 @@ skeleton: 3349 · sourced: 340
 - [Śārdūlakarṇāvadāna](sardulakarnavadana.md) — `skeleton`
 - [Śāriputraparipṛcchā](sariputrapariprccha.md) — `skeleton`
 - [Śāriputrābhidharma](sariputrabhidharma.md) — `skeleton`
-- [Śārīraka Upaniṣad](sariraka-upanisad.md) — `skeleton`
+- [Śārīraka Upaniṣad](sariraka-upanisad.md) — `sourced`
 - [Śārṅgadhara Paddhati (yoga section)](sarngadhara-paddhati.md) — `skeleton`
 - [Śārṅgadhara Saṃhitā](sarngadhara-samhita.md) — `skeleton`
 - [Śāstradarpaṇa](sastradarpana.md) — `skeleton`
@@ -3634,10 +3640,10 @@ skeleton: 3349 · sourced: 340
 - [Śāṅkhāyana Gṛhyasūtra](sankhayana-grhyasutra.md) — `sourced`
 - [Śāṅkhāyana Śrautasūtra](sankhayana-srautasutra.md) — `sourced`
 - [Śāṇḍilya Bhakti Sūtra](sandilya-bhakti-sutra.md) — `skeleton`
-- [Śāṇḍilya Upaniṣad](sandilya-upanisad.md) — `skeleton`
+- [Śāṇḍilya Upaniṣad](sandilya-upanisad.md) — `sourced`
 - [Śāṇḍilyabhaktisūtrabhāṣya (of Svapneśvara)](sandilya-bhakti-sutra-bhasya.md) — `skeleton`
 - [Śāṭyāyana Brāhmaṇa (lost)](satyayana-brahmana.md) — `sourced`
-- [Śāṭyāyanīya Upaniṣad](satyayani-upanisad.md) — `skeleton`
+- [Śāṭyāyanīya Upaniṣad](satyayani-upanisad.md) — `sourced`
 - [Śūnyasampādane](sunyasampadane.md) — `skeleton`
 - [Śūnyasampādane — first redaction (Śivagaṇaprasādi Mahādēvayya)](sunyasampadane-sivaganaprasadi-mahadevayya.md) — `skeleton`
 - [Śūnyasampādane — redaction of Gummaḷāpurada Siddhaliṅgayati](sunyasampadane-gummalapura-siddhalingayati.md) — `skeleton`

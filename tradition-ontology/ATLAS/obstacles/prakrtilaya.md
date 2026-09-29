@@ -14,4 +14,4 @@ Dispassion without discrimination leads to absorption into prakṛti or its evol
   - [Kramadīpikā](../texts/kramadipika.md) — ref: 20; rests_on: ["tea:kramadipika:20"]
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:45 IST._

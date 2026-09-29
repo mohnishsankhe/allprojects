@@ -31,4 +31,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.22, tea:bhagavad-gita:6.17, tea:bhagavad-gita:6.22, tea:bhagavad-gita:6.23 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.4, tea:bhagavad-gita:12.13, tea:bhagavad-gita:12.5 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U17-pasupata-kapalika, skeleton:U40-madhyamaka, skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U10-yoga, extraction:bhagavad-gita/ch01-03, skeleton:U11-nyaya-vaisesika, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch10-12, skeleton:U17-pasupata-kapalika, skeleton:U40-madhyamaka, skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

@@ -17,4 +17,4 @@
 **Related:** [ālocana](alocana.md), [savikalpaka](savikalpaka.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._

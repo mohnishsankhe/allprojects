@@ -13,4 +13,4 @@ Indian (or Kashmiri) paṇḍita who came to Tibet and transmitted the complete 
 _Notes: Lineage position (after Avadhūtipa) recalled; dates low confidence._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

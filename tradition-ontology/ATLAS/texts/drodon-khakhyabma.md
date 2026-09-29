@@ -22,8 +22,8 @@ With refuge and bodhicitta, visualize Avalokiteśvara above the heads of oneself
 
 _level: conventional · standpoint: devotional · path: devotion, sound · stage: all · types: practice, sound-language_
 
-practices: `prc:drodon-khakhyabma`, [Recitation of oṃ maṇipadme hūṃ](../practices/om-mani-padme-hum.md) · teachers: [Thangtong Gyalpo](../teachers/thangtong-gyalpo.md)
+practices: [Thangtong Gyalpo's Avalokiteśvara practice](../practices/drodon-khakhyabma.md), [Recitation of oṃ maṇipadme hūṃ](../practices/om-mani-padme-hum.md) · teachers: [Thangtong Gyalpo](../teachers/thangtong-gyalpo.md)
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

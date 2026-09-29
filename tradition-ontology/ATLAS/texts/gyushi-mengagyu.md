@@ -14,5 +14,35 @@
 
 Ninety-two chapters on the treatment of particular diseases: disorders of the three nyepa, internal diseases, fevers, diseases of the upper body and organs, diseases of the private parts, miscellaneous and spreading diseases, children's and women's diseases, spirit (gdon) afflictions, wounds, poisons, and the rejuvenation (bcud len) and virility chapters.
 
+## Teachings (3: skeleton 3)
+
+### mental-disorders <a id="tea-gyushi-mengagyu-mental-disorders"></a>
+`skeleton` · confidence low
+
+Madness and loss of memory arise from disturbed nyepa, from grief and worry, from poison and from spirits; their treatment combines medicine, diet and behaviour with ritual where spirits are involved.
+
+_level: conventional · standpoint: causal · path: general, ritual · stage: all · types: consciousness-mind, body-layers_
+
+terms: [gdon (dön)](../terms/don-spirit.md) · obstacles: `obs:don-spirit-harm`
+
+### rejuvenation <a id="tea-gyushi-mengagyu-rejuvenation"></a>
+`skeleton` · confidence low
+
+The closing chapters teach rejuvenation (bcud len) — regimens and essences that restore vigour, lengthen life and sharpen the senses in the old — and the strengthening of virility and fertility. (Summary only; essence-extraction regimens that restrict ordinary food are restricted.)
+
+_level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice, body-layers_
+
+terms: [bcud len](../terms/chulen.md), [ro tsa](../terms/rotsa.md) · concepts: [Rejuvenation (rasāyana)](../concepts/rasayana.md) · practices: `prc:chulen`
+
+### rlung-disorders <a id="tea-gyushi-mengagyu-rlung-disorders"></a>
+`skeleton` · confidence low
+
+Rlung is the mount of the mind and the mover of the other nyepa; its disorders show in restlessness, sleeplessness, dizziness, sighing and wandering thoughts, and are treated with warm, nourishing food, rest, gentle surroundings and oil massage.
+
+_level: conventional · standpoint: analytic · path: body-breath · stage: all · types: body-layers, consciousness-mind_
+
+terms: [rlung](../terms/lung.md), [srog 'dzin (rlung)](../terms/sogdzin-lung.md) · concepts: [Rlung as the mount of the mind](../concepts/rlung-and-mind.md) · practices: `prc:kunye` · obstacles: `obs:rlung-disorder`
+
+
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

@@ -17,4 +17,4 @@
 Vāmadeva teaches the king righteous rule and self-restraint.
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._

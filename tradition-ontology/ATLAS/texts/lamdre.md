@@ -20,7 +20,7 @@ Virūpa's terse instruction on 'the Path together with its Result': the three vi
   - kind: original; name: Lamdre Lobshé and Tsokshé collections (Sakya)
 **Commentaries on this text:** [Nyakma: Sachen's commentary on the Vajra Verses for Nyak Wangyal](nyakma.md)
 
-## Teachings (13: skeleton 13)
+## Teachings (14: skeleton 14)
 
 ### 139a.6 <a id="tea-lamdre-139a-6"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -86,7 +86,7 @@ The obstacles on the path of the yogin who has fallen to the side of method are 
 
 _level: conventional · standpoint: seeker · path: meditation, ritual · stage: advanced · types: practice, powers-experiences_
 
-obstacles: `obs:obstacles-to-meditation-lamdre` · teachers: [Virūpa](../teachers/virupa.md)
+obstacles: [Obstacles on the method and wisdom sides (Lamdre)](../obstacles/obstacles-to-meditation-lamdre.md) · teachers: [Virūpa](../teachers/virupa.md)
 
 ### 140a.1 <a id="tea-lamdre-140a-1"></a>
 `skeleton` · confidence low · _restricted: summary only_ · [AI-translated]
@@ -97,7 +97,7 @@ For wisdom there are two outer demon-paths and the eight wrong views and tenets;
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: powers-experiences_
 
-obstacles: `obs:obstacles-to-meditation-lamdre` · teachers: [Virūpa](../teachers/virupa.md)
+obstacles: [Obstacles on the method and wisdom sides (Lamdre)](../obstacles/obstacles-to-meditation-lamdre.md) · teachers: [Virūpa](../teachers/virupa.md)
 
 ### 140a.5-6 <a id="tea-lamdre-140a-5-6"></a>
 `skeleton` · confidence moderate · [AI-translated]
@@ -119,7 +119,7 @@ The three sets of outer dependent arisings of undeviating meditation (reversal o
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: powers-experiences, practice_
 
-concepts: [Recognising signs, deviations and obstacles as the path](../concepts/signs-and-obstacles-as-path.md) · obstacles: `obs:hope-for-siddhis` · teachers: [Virūpa](../teachers/virupa.md)
+concepts: [Recognising signs, deviations and obstacles as the path](../concepts/signs-and-obstacles-as-path.md) · obstacles: [Hoping for attainments](../obstacles/hope-for-siddhis.md) · teachers: [Virūpa](../teachers/virupa.md)
 
 ### 141a.3-4 <a id="tea-lamdre-141a-3-4"></a>
 `skeleton` · confidence low · [AI-translated]
@@ -131,6 +131,17 @@ The path of the inner Buddhas reaches the peak of existence; the patience for th
 _level: conventional · standpoint: experiential · path: meditation, body-breath · stage: advanced · types: practice_
 
 teachers: [Virūpa](../teachers/virupa.md)
+
+### 141a.6 <a id="tea-lamdre-141a-6"></a>
+`skeleton` · confidence low · _restricted: summary only_ · [AI-translated]
+
+At the completion of the vase empowerment's path, the signs of reality are the seven limbs of awakening: the four precious palaces of the channels and the three principal (channels) — seeing the maṇḍala of the body, the coming and going of conceptual thought is reversed.
+
+> spyod pa'i rim pa'i lam nas lus dag par byed pa bum pa'i dbang mthar phyin/ de kho na nyid kyi rtags/ byang chub kyi yan lag bdun ni/ rtsa rin po che'i pho brang bzhi/ gtso bo gsum ste lus kyi dkyil 'khor mthong bas rtog pa'i 'gro ldog byed/
+
+_level: conventional · standpoint: experiential · path: body-breath · stage: advanced · types: body-layers, powers-experiences_
+
+concepts: [The vajra body in the Lamdre](../concepts/vajra-body-lamdre.md) · teachers: [Virūpa](../teachers/virupa.md)
 
 ### 141b.2 <a id="tea-lamdre-141b-2"></a>
 `skeleton` · confidence low · _restricted: summary only_ · [AI-translated]
@@ -169,4 +180,4 @@ terms: [abhiṣeka](../terms/abhiseka.md) · teachers: [Virūpa](../teachers/vir
 _Notes: Found locally: catalog:Derge-Tengyur:D2284 (title in the index begins 'bla ma dam pa'i zhabs pad la btud de/ /lam 'bras gsung mdo bri bar'). Teaching refs in this unit are Derge folio.line._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

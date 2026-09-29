@@ -17,4 +17,4 @@ The transformation of base metals by processed mercury, treated in the 'vāda' s
 - Mercury with its impurities, though nectar itself, is poison; a physician skilled in practice but ignorant of the science is death in human form. — [Rasaratnākara](../texts/rasaratnakara.md) Rasakhaṇḍa 1.26-30
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

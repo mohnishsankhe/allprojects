@@ -13,4 +13,4 @@ Summary only: the ascetic lives as a skull-bearer - skull as begging-bowl, skull
   - [Svacchandatantra (Svacchandabhairavatantra)](../texts/svacchanda-tantra.md) — ref: 11.184; rests_on: ["tea:svacchanda-tantra:11.182-185"]
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:45 IST._

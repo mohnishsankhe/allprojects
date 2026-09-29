@@ -3,7 +3,7 @@
 `prc:huiguang-fanzhao` · `skeleton` · confidence high
 
 **Category:** inquiry
-**Convergence:** 3 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md), [Linji house](../lineages/linji.md), [Seon (Korean Chan)](../lineages/seon.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [Chan (Chinese Meditation school)](../lineages/chan.md), [Linji house](../lineages/linji.md), [Seon (Korean Chan)](../lineages/seon.md)
 
 Turning awareness back from its objects to its source — asking who it is that sees, hears and asks, or listening back to the hearing-nature — so as to recognise the empty and calm numinous awareness.
@@ -14,4 +14,4 @@ Turning awareness back from its objects to its source — asking who it is that 
   - [Platform Sūtra of the Sixth Patriarch (Liuzu tanjing)](../texts/platform-sutra.md) — ref: 4.16; rests_on: ["tea:platform-sutra:4.16"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

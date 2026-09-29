@@ -19,4 +19,4 @@
 _Notes: U38 contribution to a shared concept._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

@@ -108,4 +108,4 @@ concepts: [Correct analysis precedes non-conceptuality](../concepts/bhutapratyav
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

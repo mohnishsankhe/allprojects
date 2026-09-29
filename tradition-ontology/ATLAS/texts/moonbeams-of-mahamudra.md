@@ -36,7 +36,7 @@ The preliminaries of Mahāmudrā: the common ones (the four thoughts), the uncom
 
 _level: conventional · standpoint: devotional · path: devotion, ritual · stage: beginner · types: practice, teacher-transmission_
 
-concepts: [The preliminaries (ngöndro)](../concepts/ngondro.md), [The four thoughts that turn the mind (blo ldog rnam bzhi)](../concepts/four-thoughts-that-turn-the-mind.md) · practices: `prc:ngondro`, [Guru yoga (bla ma'i rnal 'byor)](../practices/guru-yoga.md)
+concepts: [The preliminaries (ngöndro)](../concepts/ngondro.md), [The four thoughts that turn the mind (blo ldog rnam bzhi)](../concepts/four-thoughts-that-turn-the-mind.md) · practices: [The Kagyu preliminaries (ngöndro)](../practices/ngondro.md), [Guru yoga](../practices/guru-yoga.md)
 
 ### pt.2/2 <a id="tea-moonbeams-of-mahamudra-pt-2-2"></a>
 `skeleton` · confidence moderate
@@ -45,7 +45,7 @@ concepts: [The preliminaries (ngöndro)](../concepts/ngondro.md), [The four thou
 
 _level: conventional · standpoint: seeker · path: meditation · stage: beginner · types: practice_
 
-practices: `prc:mahamudra-samatha-with-support`, `prc:mahamudra-samatha-without-support` · obstacles: [Laxity and excitement, and the other faults of concentration](../obstacles/laxity-and-excitement.md)
+practices: [Mahāmudrā śamatha with support](../practices/mahamudra-samatha-with-support.md), [Mahāmudrā śamatha without support](../practices/mahamudra-samatha-without-support.md) · obstacles: [Laxity and excitement, and the other faults of concentration](../obstacles/laxity-and-excitement.md)
 
 ### pt.2/3 <a id="tea-moonbeams-of-mahamudra-pt-2-3"></a>
 `skeleton` · confidence low
@@ -61,7 +61,7 @@ Vipaśyanā: the meditator examines the mind at rest and in movement — its col
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: intermediate · types: practice, consciousness-mind_
 
-concepts: [Stillness, movement and awareness (gnas 'gyu rig gsum)](../concepts/stillness-movement-awareness.md) · practices: `prc:looking-at-the-mind`
+concepts: [Stillness, movement and awareness (gnas 'gyu rig gsum)](../concepts/stillness-movement-awareness.md) · practices: [Looking at the mind (Mahāmudrā vipaśyanā)](../practices/looking-at-the-mind.md)
 
 ### pt.2/5 <a id="tea-moonbeams-of-mahamudra-pt-2-5"></a>
 `skeleton` · confidence moderate
@@ -70,7 +70,7 @@ The four ways of deviating from emptiness — deviating from its essence, deviat
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice, powers-experiences_
 
-obstacles: `obs:four-deviations-mahamudra`, `obs:three-strayings-mahamudra`, `obs:clinging-to-nyam`
+obstacles: [The four deviations from emptiness (shor sa bzhi)](../obstacles/four-deviations-mahamudra.md), [The three strayings (gol sa gsum)](../obstacles/three-strayings-mahamudra.md), [Clinging to meditative experiences and visions](../obstacles/clinging-to-nyam.md)
 
 ### pt.2/6 <a id="tea-moonbeams-of-mahamudra-pt-2-6"></a>
 `skeleton` · confidence moderate
@@ -88,7 +88,7 @@ How the four yogas correspond to the five paths and ten grounds is set out with 
 
 _level: conventional · standpoint: analytic · path: meditation · stage: advanced · types: dispute_
 
-disputes: `dsp:four-yogas-and-the-grounds`
+disputes: [How do the four yogas of Mahāmudrā correspond to the five paths and ten grounds — in particular, at which yoga is the path of seeing (the first ground) reached?](../debates/four-yogas-and-the-grounds.md)
 
 ### pt.2/8 <a id="tea-moonbeams-of-mahamudra-pt-2-8"></a>
 `skeleton` · confidence moderate
@@ -106,8 +106,8 @@ Two ways of meditating are taught according to the person: the scholar's analyti
 
 _level: conventional · standpoint: seeker · path: meditation, knowledge · stage: intermediate · types: practice_
 
-concepts: [Gradual and simultaneous persons](../concepts/gradual-and-simultaneous-persons.md) · disputes: `dsp:sutra-mahamudra`
+concepts: [Gradual and simultaneous persons](../concepts/gradual-and-simultaneous-persons.md) · disputes: [Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?](../debates/sutra-mahamudra.md)
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

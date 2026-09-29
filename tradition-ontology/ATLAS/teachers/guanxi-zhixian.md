@@ -9,4 +9,4 @@
 Disciple of Linji who also served the nun Moshan Liaoran for three years.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

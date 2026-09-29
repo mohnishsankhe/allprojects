@@ -10,4 +10,4 @@ One of the sixty-three Nāyaṉmārs. A brahmin who, without having met Appar, n
 **Realization — the tradition's account:** A brahmin who, without having met Appar, named his sons, water-sheds and alms-houses after him; when Appar visited, a son died of snakebite and the parents hid it to feed their guest; Appar sang and the boy revived.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._

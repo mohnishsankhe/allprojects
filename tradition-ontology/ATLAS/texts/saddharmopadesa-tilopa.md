@@ -45,7 +45,7 @@ Dream, the instruction of Lavapa: knowing the dream as dream and continually med
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-practices: [Dream yoga](../practices/dream-yoga.md) · teachers: [Tilopa](../teachers/tilopa.md), [Kambala (Kambalapāda, Lvabapa)](../teachers/kambala.md)
+practices: [Dream yoga (rmi lam)](../practices/dream-yoga.md) · teachers: [Tilopa](../teachers/tilopa.md), [Kambala (Kambalapāda, Lvabapa)](../teachers/kambala.md)
 
 ### 4 <a id="tea-saddharmopadesa-tilopa-4"></a>
 `skeleton` · confidence high · _restricted: summary only_ · [AI-translated]
@@ -63,7 +63,7 @@ The intermediate state, the instruction of Sukhasiddhi: at the time of death the
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: death-dying, practice_
 
-concepts: [The dissolution at death](../concepts/dissolution-at-death.md), [Intermediate existence (antarābhava)](../concepts/antarabhava.md) · practices: [Intermediate-state yoga](../practices/bardo-yoga.md) · teachers: [Tilopa](../teachers/tilopa.md), [Sukhasiddhi](../teachers/sukhasiddhi.md)
+concepts: [The dissolution at death](../concepts/dissolution-at-death.md), [Intermediate existence (antarābhava)](../concepts/antarabhava.md) · practices: [Intermediate-state yoga (bar do)](../practices/bardo-yoga.md) · teachers: [Tilopa](../teachers/tilopa.md), [Sukhasiddhi](../teachers/sukhasiddhi.md)
 
 ### 6 <a id="tea-saddharmopadesa-tilopa-6"></a>
 `skeleton` · confidence high · _restricted: summary only_ · [AI-translated]
@@ -85,4 +85,4 @@ teachers: [Tilopa](../teachers/tilopa.md), [Nāropa](../teachers/naropa.md), [Ma
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._

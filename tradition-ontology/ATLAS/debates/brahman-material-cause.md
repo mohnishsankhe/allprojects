@@ -34,4 +34,4 @@ Only efficient: God arranges eternal atoms, which are the material cause.
 _Notes: Only the Viśiṣṭādvaita side is anchored in U14 teachings; the others are stated in outline for their owners (U13, U15, U11) to anchor._
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._

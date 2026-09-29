@@ -58,12 +58,12 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U43-pure-land | done | 77 src · 89 tch · 193 tea (93 originals verified: CBETA 89, GRETIL 4) · 14 dsp | REPORT.md; Japanese texts not local |
 | U44-indian-vajrayana | done | 100 src · 133 tch · 303 tea (244 originals read locally; 23 restricted) · 27 prc (9 restricted) · 6 dsp | REPORT.md; Hevajra/Saṃvara/Kālacakra Sanskrit not local |
 | U45-nyingma-bon | done | 125 src · 82 tch · 101 tea (23 read in Derge) · 43 prc (8 restricted) · 5 dsp | REPORT.md; Seventeen Tantras, Longchenpa, Bön not local |
-| U46-kagyu | running | | |
-| U47-sakya-kadam-gelug | running | | |
+| U46-kagyu | done | 52 src · 74 tch · 147 tea (59 from local Derge with Wylie originals) · 45 prc (restricted six-yoga methods summary-only) · 3 dsp | REPORT.md; Tibetan-authored works not local |
+| U47-sakya-kadam-gelug | done | 84 src · 84 tch · 251 tea (66 Wylie originals from Derge: Lamdre root Tōh 2284, Atiśa) · 12 dsp | REPORT.md; Tibetan-authored works recalled |
 | U48-jonang-chod-medicine-rime | running | | |
 | U49-cross-family | running | | |
 | U50-debates | running | | |
-| U51-path-maps | queued | | |
+| U51-path-maps | running | | |
 | U52-recent-teachers | queued | | |
 | U53-glossary-ultimate | queued | | |
 | U54-chinese-schools | queued | | |
@@ -81,10 +81,19 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U01-vedic-samhitas | done — 502 checked: 492 confirmed · 9 partial · 1 corrected (RV 10.88.15 srutī) · 0 not-found |
 | U02-brahmana-vedanga | done — 723 checked: 689 confirmed · 17 partial · 17 corrected · 0 not-found (157 terms not in scope) |
 | U03-principal-upanisads | done — 736 checked: 729 confirmed · 2 partial · 5 corrected (fabricated default edition strings) · 0 not-found |
-| U04-minor-upanisads | running |
+| U04-minor-upanisads | done — 915 checked: 772 confirmed · 20 partial · 123 corrected (95 default Adyar edition strings; overlong verse ranges) · 0 not-found |
 | U06-other-gitas | running |
 | U07-puranas | running |
+| U08-agama-catalogue | running |
 ### Sweep follow-ups (for Phase D / S5 / later sweeps)
+- C-U04:
+  - tea:yogatattva-upanisad:12-13 and obs:yogatattva-twenty-dosas: the text says the freed jīva is "kevala"; only Yogaśikhā 1.11 has "śiva ucyate".
+  - tea:amrtanada-upanisad:2-3: the seeker is "devoted to Rudra", not going to Rudra's world.
+  - ult:sannyasa: cites "Avadhūta 1" for "the jīva is Śiva"; the passage is at Maitreya 2.1 and Skanda 6-10.
+  - Missing editions: Kaṭhaśruti (Schrader 1912; eBhāratī) and Kālikā (Tantrik Texts XI).
+  - Āśrama Upaniṣad dating: Olivelle 3rd c. CE.
+  - Jīvanmuktiviveka: author Vidyāraṇya.
+  - Yatidharmasamuccaya dating: c. 11th–12th c.
 - C-U05: tea:moksadharma:12.289 — the arrow-maker simile is at 12.171.61, not 12.289 (12.289.31 has an archer); fix in extraction. tch:hanuman summary says "four sciences" but MBh 3.149.31 says three (tisro vidyāḥ) — shared by U04/U06/U05, fix in S5. U13 sweep: check tch:sankara's dating framing (788–820 CE is the older scholarly convention, not "most maṭha traditions"; Kāñcī gives 509–477 BCE). tea:vyadha-gita:3.197 has ref "3.196-197".
 
 - C-U01: tea:atharvaveda-saunaka:2.32 paraphrase imports 'visible and invisible' and 'with a stone' from AVŚ 2.31; trm:samana — no Saṃhitā occurrence found (BĀU 1.5.3 has it); src:jnanayajna 'c. 11th c.' and src:vedadipa 'c. 1589' unsupported; use GRETIL (not DharmicData) for RV verse text.
@@ -103,7 +112,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | bhagavad-gita | ch07-09 | done (95) | done (95) | done (97 tea, 449 disagreements; skeleton 40 up · 6 corr · 0 ret) | done: 68 passed · 29 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch10-12 | done (120) | done (120) | done (125 tea, 498 disagreements; skeleton 33 up · 3 corr · 0 ret) | done: 121 passed · 4 fixed · 0 failed → text-verified | |
 | bhagavad-gita | ch13-15 | done (85) | done (88) | running | | |
-| bhagavad-gita | ch16-18 | running | | | | |
+| bhagavad-gita | ch16-18 | running | running | | | |
 
 ### Gītā text-level gates (after ch16-18)
 - One consistency pass across all 18 chapters: citta/cetas → "thought (citta/cetas)" (ch. 6.18–23 still read "mind (citta)"), reflexive ātman, adhyātma gloss; one policy for the level tag 'bridging' vs 'unmarked'; resolve forward links to later chapters (13.x uses this edition's numbering); errata pass for the edition's glitches (DECISIONS 2026-09-28); then the quality gates (misreading hunter, hallucination hunter, reconciliation auditor, reviewer 5%) and the thesis entry by the ch16-18 merger.

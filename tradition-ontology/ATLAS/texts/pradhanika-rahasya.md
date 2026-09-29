@@ -28,4 +28,4 @@ concepts: [Mahākālī, Mahālakṣmī, Mahāsarasvatī](../concepts/three-forms
 _Notes: Recited as a limb (aṅga) of the Durgā Saptaśatī (Devī Māhātmya, U07); U23 records the Śākta liturgy._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

@@ -51,4 +51,4 @@ _none recorded_
 _Notes: Division names and the 'fifty-two disciples' are from the panth's tradition as commonly reported; moderate confidence._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._

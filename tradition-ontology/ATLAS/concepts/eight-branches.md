@@ -9,8 +9,9 @@
 
 ## Definitions
 - [Āyurveda](../lineages/ayurveda.md): Internal medicine, śālākya, surgery, toxicology, the science of spirits, children's medicine, rejuvenation and virilization (Ca Sū 30.28; Su Sū 1.7-8; AHS Sū 1.5).
+- [Sowa Rigpa (gso ba rig pa), the Tibetan science of healing](../lineages/sowa-rigpa.md): In the Four Tantras: body, children, women, spirits, wounds, poisons, old age and virility.
 
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

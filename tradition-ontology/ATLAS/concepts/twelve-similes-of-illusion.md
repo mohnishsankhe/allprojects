@@ -15,4 +15,4 @@
 _Notes: The texts say 'twelve similes'; only the ones named in the local texts are listed._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

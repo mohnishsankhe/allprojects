@@ -41,4 +41,4 @@ terms: [Ekādaśī (Hari-dina, Nārāyaṇa-dina)](../terms/ekadasi.md) · conce
 _Notes: Pūrvabhāga chs. 92-109: a summary-index (anukramaṇī) of all eighteen Purāṇas (the list there counts the Vāyu fourth); following chapters: tithi-vratas for the twelve months; Pūrva 3rd pāda: mantra-śāstra; Uttarabhāga: Ekādaśī/Dvādaśī-māhātmya with Rukmāṅgada and Mohinī, and tīrtha-māhātmyas. chapter checked in the GRETIL/Sansknet e-text of the Nārada Purāṇa_
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

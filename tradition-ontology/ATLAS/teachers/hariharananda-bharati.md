@@ -14,4 +14,4 @@ Bengali Kaula avadhūta and commentator of the Mahānirvāṇa Tantra; associate
 _Notes: Attribution of the Mahānirvāṇa's composition to him is a scholarly hypothesis only; recorded as 'disputed'._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:45 IST._

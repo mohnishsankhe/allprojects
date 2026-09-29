@@ -18,4 +18,4 @@ Earlier essay on the fox kōan, reading 'not falling' and 'not obscuring' as bot
 _Notes: Not held locally; paraphrases from memory, no original quoted._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

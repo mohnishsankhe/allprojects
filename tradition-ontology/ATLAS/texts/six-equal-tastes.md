@@ -23,10 +23,10 @@ Thoughts, afflictions, gods and demons, suffering, illness and death are each ca
 
 _level: bridging · standpoint: seeker · path: meditation · stage: advanced · types: practice, death-dying_
 
-terms: [ro snyoms (equal taste)](../terms/ronyom.md), [lam khyer (carrying onto the path)](../terms/lamkhyer.md) · practices: `prc:six-equal-tastes` · teachers: [Tsangpa Gyare Yeshe Dorje (the first Gyalwang Drukpa)](../teachers/tsangpa-gyare.md)
+terms: [ro snyoms (equal taste)](../terms/ronyom.md), [lam khyer (carrying onto the path)](../terms/lamkhyer.md) · practices: [The six equal tastes (Drukpa)](../practices/six-equal-tastes.md) · teachers: [Tsangpa Gyare Yeshe Dorje (the first Gyalwang Drukpa)](../teachers/tsangpa-gyare.md)
 
 
 _Notes: The list of six is from memory (low confidence)._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

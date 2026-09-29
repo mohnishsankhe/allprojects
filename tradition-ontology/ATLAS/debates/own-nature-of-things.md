@@ -26,4 +26,4 @@ Things lack own-nature because they arise dependently; emptiness is not nothingn
 _Notes: The link of NS 4.1.37–40 to Madhyamaka is a scholarly reading; the sūtra names no school._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._

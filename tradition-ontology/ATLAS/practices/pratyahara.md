@@ -35,4 +35,4 @@ The haṭha texts teach withdrawal in several ways: bringing the wandering mind 
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī E — All 4 Upaniṣad refs cited in the entry are located in the prepared segments (MaiU 6.18; ŚU 2.8; KU 2.1.1; ChU 8.15.1). It rests on 4 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U10-yoga, skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._

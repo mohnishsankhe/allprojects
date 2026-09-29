@@ -33,4 +33,4 @@ obstacles: [The eight worldly concerns](../obstacles/eight-worldly-concerns.md) 
 _Notes: Sanskrit lost. Commentary: Mahāmati's Vyaktapadā (D4190)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

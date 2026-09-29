@@ -15,4 +15,4 @@
 - opposes → [The four means of knowledge (Nyāya)](four-pramanas-nyaya.md): Dignāga's and Dharmakīrti's critique
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._

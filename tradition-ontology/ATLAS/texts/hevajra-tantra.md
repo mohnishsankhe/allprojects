@@ -125,4 +125,4 @@ concepts: [Beings are buddhas obscured by adventitious stains](../concepts/adven
 _Notes: Sanskrit not available locally (no GRETIL/DCS file found); teachings from it are skeleton, chapter-level._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._

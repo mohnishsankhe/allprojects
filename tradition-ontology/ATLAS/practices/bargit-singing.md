@@ -12,4 +12,4 @@ The rāga songs of Śaṅkaradeva and Mādhavadeva are sung, often at dawn and a
   - [Bargīt (Borgeet)](../texts/bargit.md) — ref: mana-meri-rama-caranahi; rests_on: ["tea:bargit:mana-meri-rama-caranahi"]
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._

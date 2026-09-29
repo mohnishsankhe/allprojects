@@ -29,4 +29,4 @@ Devotion: bhakti is the supreme dharma (1.2.6); devotees refuse the five liberat
 **Candidate readings:** P1-level: the devotional passages speak at the conventional level, the non-dual ones at the ultimate (the Advaita reading; rejected by Vaiṣṇavas).; P4-stage: knowledge is a stage within devotion, or devotion within knowledge (each school's own subordination).; The text's own synthesis: BhP 1.2.11 names one non-dual reality as Brahman, Paramātman and Bhagavān, and 11.2.42 has devotion, experience and detachment arise together.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

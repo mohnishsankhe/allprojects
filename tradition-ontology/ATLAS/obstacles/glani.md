@@ -11,4 +11,4 @@ Weariness, a 'robber in the body', arising from ignorance and removed by the ope
   - [Spandakārikā](../texts/spanda-karika.md) — ref: 3.8; rests_on: ["tea:spanda-karika:3.8"]
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._

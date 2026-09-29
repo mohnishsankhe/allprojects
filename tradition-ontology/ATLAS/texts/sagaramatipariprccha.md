@@ -13,4 +13,4 @@
 The Inquiry of Sāgaramati, part of the Mahāsaṃnipāta; the Ratnagotravibhāga draws on it for the bodhisattva's deliberate rebirth and the simile of the beryl stone in mud.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

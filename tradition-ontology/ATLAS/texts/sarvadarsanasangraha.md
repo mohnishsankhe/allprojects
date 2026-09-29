@@ -250,4 +250,4 @@ concepts: [The Raseśvara-darśana](../concepts/rasesvara-darsana.md)
 _Notes: U30 contribution only: the Raseśvara chapter (ch. 9). Authorship and dating as given by the owning units._
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U30-ayurveda-rasa, skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U33-sramana, skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika, skeleton:U30-ayurveda-rasa, skeleton:U15-dvaita, skeleton:U13-advaita, skeleton:U33-sramana, skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._

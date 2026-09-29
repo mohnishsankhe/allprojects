@@ -28,7 +28,7 @@ _none recorded_
 [Lingje Repa Pema Dorje](../teachers/lingje-repa.md), [Phagmodrupa Dorje Gyalpo](../teachers/phagmodrupa.md)
 
 ## Practices
-_none recorded_
+[The fivefold Mahāmudrā](../practices/fivefold-mahamudra.md)
 
 ## Path maps
 _none recorded_
@@ -39,4 +39,4 @@ _none recorded_
 _Notes: sub_lineages lists the eight schools descended from Phagmodrupa's disciples; their parent field points to the Kagyu umbrella so that each counts as its own root._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

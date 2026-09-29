@@ -23,4 +23,4 @@ _Notes: Scholarly metadata only (not used in interpretation): cognate of Avestan
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.2, tea:bhagavad-gita:10.14, tea:bhagavad-gita:11.15, tea:bhagavad-gita:11.52 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U01-vedic-samhitas, extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 17:45 IST._

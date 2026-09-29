@@ -24,4 +24,4 @@
 **Related:** [nātha](natha.md), [siddhi](siddhi.md)
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U22-tamil-siddha, skeleton:U28-hatha-texts, skeleton:U44-indian-vajrayana, skeleton:U35-jain-philosophy, skeleton:U26-regional-bhakti, skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U22-tamil-siddha, skeleton:U28-hatha-texts, skeleton:U44-indian-vajrayana, skeleton:U35-jain-philosophy, skeleton:U26-regional-bhakti, skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._

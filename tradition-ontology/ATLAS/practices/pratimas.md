@@ -15,4 +15,4 @@ The householder progresses through eleven stages of renunciation, each adding a 
 **Sequences:** [The eleven stages of the householder (pratimā)](../paths/jain-eleven-pratimas.md), [The eleven stages of the lay follower (Śvetāmbara canonical list)](../paths/upasaka-pratimas-svetambara.md), [From lay follower to naked monk (Digambara ladder)](../paths/digambara-pratimas-to-muni.md)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U35-jain-philosophy, skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._

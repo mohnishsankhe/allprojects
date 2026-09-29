@@ -64,7 +64,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -170,7 +170,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -223,7 +223,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -279,7 +279,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -328,7 +328,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -412,7 +412,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -464,7 +464,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -522,7 +522,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -591,7 +591,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -747,7 +747,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -809,7 +809,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -868,7 +868,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -931,7 +931,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -983,7 +983,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1117,7 +1117,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1172,7 +1172,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1232,7 +1232,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1288,7 +1288,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1348,7 +1348,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1423,7 +1423,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1473,7 +1473,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1529,7 +1529,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1587,7 +1587,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1638,14 +1638,14 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
   "id": "obs:amrtanada-faults",
   "name": "Faults the yogin must avoid (Amṛtanāda)",
   "category": "obstacle",
-  "description": "Fear, anger, sloth, too much sleep and waking, too much food and fasting (Amṛtanāda 27).",
+  "description": "Fear, anger, sloth, too much sleep and waking, too much food and fasting (Amṛtanāda 28).",
   "lineages": [
    "lin:upanisadic"
   ],
@@ -1672,11 +1672,37 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of obs:amrtanada-faults"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "corrected",
+     "note": "The verse listing these faults (bhayaṃ krodham athālasyam atisvapnātijāgaram | atyāhāram anāhāraṃ …) is Amṛtanāda 28 in the e-text; v. 27 names the doors. The ref in the description is corrected. All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:amrtanada-upanisad:27 (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
+  "correction_log": [
+   {
+    "field": "description",
+    "old": "Fear, anger, sloth, too much sleep and waking, too much food and fasting (Amṛtanāda 27).",
+    "new": "Fear, anger, sloth, too much sleep and waking, too much food and fasting (Amṛtanāda 28).",
+    "reason": "The verse listing these faults (bhayaṃ krodham athālasyam atisvapnātijāgaram | atyāhāram anāhāraṃ …) is Amṛtanāda 28 in the e-text; v. 27 names the doors. The ref in the description is corrected. All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:amrtanada-upanisad:27 (corrected).",
+    "date": "2026-09-29 17:45 IST",
+    "by": "sourcing:U04-minor-upanisads"
+   }
+  ],
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
@@ -1696,7 +1722,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1750,7 +1776,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1796,7 +1822,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1852,7 +1878,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1930,7 +1956,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1990,7 +2016,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2040,7 +2066,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2095,7 +2121,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2145,7 +2171,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2285,7 +2311,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2336,7 +2362,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2385,7 +2411,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2482,7 +2508,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2541,7 +2567,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2583,7 +2609,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2636,7 +2662,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2691,7 +2717,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2775,7 +2801,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2824,7 +2850,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2878,7 +2904,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2971,7 +2997,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3041,7 +3067,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3095,7 +3121,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3143,19 +3169,18 @@
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 1,
    "lineages": [
     "lin:jodo-shinshu",
     "lin:pure-land"
    ],
    "schools": [
-    "lin:jodo-shinshu",
     "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3229,7 +3254,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3283,7 +3308,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3334,7 +3359,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3386,7 +3411,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3471,7 +3496,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3524,7 +3549,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3580,7 +3605,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3631,7 +3656,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3692,7 +3717,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3734,7 +3759,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3777,7 +3802,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3826,7 +3851,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3872,10 +3897,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of obs:ascetic-hypocrisy"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -3896,7 +3937,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3955,7 +3996,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4062,7 +4103,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4151,7 +4192,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4205,7 +4246,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4300,7 +4341,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4354,7 +4395,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4414,7 +4455,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4489,7 +4530,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4602,7 +4643,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4667,7 +4708,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4722,7 +4763,60 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "obs:attachment-lojong",
+  "name": "Attachment (chags pa)",
+  "category": "passion",
+  "lineages": [
+   "lin:kadam"
+  ],
+  "description": "Attachment to anything, which prevents even a good rebirth and cuts the life of liberation.",
+  "antidotes": [
+   "seeing objects of attachment as illusions"
+  ],
+  "sources": [
+   {
+    "source": "src:bodhisattvamanyavali",
+    "ref": "v13",
+    "rests_on": [
+     "tea:bodhisattvamanyavali:v13",
+     "tea:bodhisattvamanyavali:v15-18"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:kadam"
+   ],
+   "schools": [
+    "lin:kadam"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4877,7 +4971,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4926,7 +5020,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4986,7 +5080,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5026,19 +5120,18 @@
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 1,
    "lineages": [
     "lin:chan",
     "lin:seon"
    ],
    "schools": [
-    "lin:chan",
-    "lin:seon"
+    "lin:chan"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5091,7 +5184,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5179,7 +5272,69 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "obs:attachment-to-samsara",
+  "name": "Attachment to saṃsāra (the three realms)",
+  "category": "bond",
+  "lineages": [
+   "lin:sakya",
+   "lin:gelug"
+  ],
+  "description": "Wishing for the happiness of any rebirth in saṃsāra, which prevents renunciation.",
+  "antidotes": [
+   "contemplating the sufferings of saṃsāra and karma"
+  ],
+  "sources": [
+   {
+    "source": "src:parting-from-four-attachments",
+    "ref": "2",
+    "rests_on": [
+     "tea:parting-from-four-attachments:2"
+    ]
+   },
+   {
+    "source": "src:three-principal-aspects",
+    "ref": "3",
+    "rests_on": [
+     "tea:three-principal-aspects:3"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:gelug",
+    "lin:sakya"
+   ],
+   "schools": [
+    "lin:gelug",
+    "lin:sakya"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5234,21 +5389,96 @@
    ]
   },
   "convergence": {
-   "count": 3,
+   "count": 1,
    "lineages": [
     "lin:chan",
     "lin:rinzai",
     "lin:seon"
    ],
    "schools": [
-    "lin:chan",
-    "lin:rinzai",
-    "lin:seon"
+    "lin:chan"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "obs:attachment-to-this-life",
+  "name": "Attachment to this life",
+  "category": "bond",
+  "lineages": [
+   "lin:sakya",
+   "lin:kadam",
+   "lin:gelug"
+  ],
+  "description": "Concern with the eight worldly concerns of this life, which makes even ethics, study and meditation non-dharma.",
+  "antidotes": [
+   "prc:contemplating-death-and-impermanence",
+   "prc:four-thoughts-that-turn-the-mind"
+  ],
+  "sources": [
+   {
+    "source": "src:parting-from-four-attachments",
+    "ref": "1",
+    "rests_on": [
+     "tea:parting-from-four-attachments:1"
+    ]
+   },
+   {
+    "source": "src:three-principal-aspects",
+    "ref": "4",
+    "rests_on": [
+     "tea:three-principal-aspects:4"
+    ]
+   }
+  ],
+  "equivalents": [
+   {
+    "target": "obs:eight-worldly-concerns",
+    "grade": "partial",
+    "note": "the eight concerns are its content",
+    "rests_on": [
+     "tea:parting-from-four-attachments:1",
+     "tea:eight-verses-mind-training:8"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 3,
+   "lineages": [
+    "lin:gelug",
+    "lin:kadam",
+    "lin:sakya"
+   ],
+   "schools": [
+    "lin:gelug",
+    "lin:kadam",
+    "lin:sakya"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5307,7 +5537,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5359,7 +5589,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5408,7 +5638,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5461,7 +5691,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5643,7 +5873,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5687,7 +5917,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5746,7 +5976,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5808,7 +6038,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5868,7 +6098,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5932,7 +6162,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5994,7 +6224,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6049,7 +6279,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6115,7 +6345,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6170,7 +6400,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6223,7 +6453,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6272,7 +6502,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6334,7 +6564,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6385,7 +6615,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6455,7 +6685,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6509,7 +6739,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6561,7 +6791,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6777,7 +7007,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6850,7 +7080,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6906,7 +7136,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6966,7 +7196,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7047,7 +7277,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7138,7 +7368,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7219,7 +7449,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7279,7 +7509,81 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "obs:blank-meditation",
+  "name": "Meditation as mere absence of thought",
+  "category": "meditation-fault",
+  "lineages": [
+   "lin:sakya",
+   "lin:gelug"
+  ],
+  "description": "Resting in a thought-free blankness mistaken for realisation; Sakya Paṇḍita says a fool's Mahāmudrā of this kind leads to animal rebirth, the formless realm or the śrāvaka cessation; the Gelug holds that without analysis it cannot become insight.",
+  "antidotes": [
+   "prc:analytical-meditation",
+   "the wisdom born of empowerment and the two stages (Sakya)"
+  ],
+  "sources": [
+   {
+    "source": "src:domsum-rabye",
+    "ref": "ch.3",
+    "rests_on": [
+     "tea:domsum-rabye:ch.3.karpo-chigtub"
+    ]
+   },
+   {
+    "source": "src:lamrim-chenmo",
+    "ref": "intro.analytical-and-placement",
+    "rests_on": [
+     "tea:lamrim-chenmo:intro.analytical-and-placement"
+    ]
+   }
+  ],
+  "equivalents": [
+   {
+    "target": "obs:mere-non-thought",
+    "grade": "partial",
+    "note": "Kamalaśīla's critique of mere non-thought, on which both draw",
+    "rests_on": [
+     "tea:bhavanakrama:3",
+     "tea:domsum-rabye:ch.3.karpo-chigtub"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:gelug",
+    "lin:sakya"
+   ],
+   "schools": [
+    "lin:gelug",
+    "lin:sakya"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7349,7 +7653,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7405,7 +7709,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7504,7 +7808,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7566,7 +7870,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7626,7 +7930,77 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "obs:clinging-to-nyam",
+  "name": "Clinging to meditative experiences and visions",
+  "category": "meditation-fault",
+  "lineages": [
+   "lin:kagyu",
+   "lin:karma-kagyu",
+   "lin:drukpa-kagyu"
+  ],
+  "description": "Taking experiences, visions or miracles (in dream or waking) as real or as signs of attainment; held as real they are obstacles, known as illusion they become path.",
+  "sources": [
+   {
+    "source": "src:bka-dpe-phyi-ma",
+    "ref": "276a.5",
+    "rests_on": [
+     "tea:bka-dpe-phyi-ma:276a.5"
+    ]
+   },
+   {
+    "source": "src:milarepa-gurbum",
+    "ref": "gampopa-meeting",
+    "rests_on": [
+     "tea:milarepa-gurbum:gampopa-meeting"
+    ]
+   }
+  ],
+  "equivalents": [
+   {
+    "target": "obs:siddhi-attachment",
+    "grade": "partial",
+    "note": "attachment to powers is one form of it",
+    "rests_on": [
+     "tea:bka-dpe-phyi-ma:276a.5"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:drukpa-kagyu",
+    "lin:kagyu",
+    "lin:karma-kagyu"
+   ],
+   "schools": [
+    "lin:kagyu"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7683,7 +8057,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7747,7 +8121,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7802,7 +8176,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7857,7 +8231,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7976,7 +8350,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8022,7 +8396,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8081,7 +8455,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8131,19 +8505,18 @@
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 1,
    "lineages": [
     "lin:rinzai",
     "lin:yangqi"
    ],
    "schools": [
-    "lin:linji",
-    "lin:rinzai"
+    "lin:chan"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8195,19 +8568,18 @@
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 1,
    "lineages": [
     "lin:jodo-shu",
     "lin:pure-land"
    ],
    "schools": [
-    "lin:jodo-shu",
     "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8259,7 +8631,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8308,7 +8680,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8357,7 +8729,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8426,7 +8798,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8500,7 +8872,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8552,7 +8924,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8623,7 +8995,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8687,7 +9059,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8736,7 +9108,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8797,7 +9169,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8857,7 +9229,69 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "obs:distraction",
+  "name": "Distraction (g.yeng ba)",
+  "category": "meditation-fault",
+  "lineages": [
+   "lin:kagyu",
+   "lin:karma-kagyu",
+   "lin:drukpa-kagyu",
+   "lin:drikung-kagyu"
+  ],
+  "description": "Losing the recognition by following thoughts; non-distraction is 'the main body of meditation'.",
+  "sources": [
+   {
+    "source": "src:dorje-chang-thungma",
+    "ref": "4",
+    "rests_on": [
+     "tea:dorje-chang-thungma:4"
+    ]
+   },
+   {
+    "source": "src:ganga-mahamudra",
+    "ref": "v17-19",
+    "rests_on": [
+     "tea:ganga-mahamudra:v17-19"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:drikung-kagyu",
+    "lin:drukpa-kagyu",
+    "lin:kagyu",
+    "lin:karma-kagyu"
+   ],
+   "schools": [
+    "lin:kagyu"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8913,7 +9347,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8983,7 +9417,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9039,7 +9473,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9105,7 +9539,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9184,19 +9618,18 @@
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 1,
    "lineages": [
     "lin:jodo-shinshu",
     "lin:pure-land"
    ],
    "schools": [
-    "lin:jodo-shinshu",
     "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9247,7 +9680,65 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "obs:dualistic-grasping",
+  "name": "Dualistic grasping (gzung 'dzin)",
+  "category": "affliction",
+  "lineages": [
+   "lin:kagyu",
+   "lin:karma-kagyu"
+  ],
+  "description": "Grasping at apprehended object and apprehending subject, the root of attachment and aversion; when it collapses the illusory body is realized (Karṇatantravajrapada).",
+  "sources": [
+   {
+    "source": "src:karnatantravajrapada",
+    "ref": "303a.4",
+    "rests_on": [
+     "tea:karnatantravajrapada:303a.4"
+    ]
+   },
+   {
+    "source": "src:drstisamksipta",
+    "ref": "245a.6",
+    "rests_on": [
+     "tea:drstisamksipta:245a.6"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:kagyu",
+    "lin:karma-kagyu"
+   ],
+   "schools": [
+    "lin:kagyu"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9299,7 +9790,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9364,7 +9855,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9415,7 +9906,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9481,7 +9972,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9552,7 +10043,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9601,7 +10092,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9744,7 +10235,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9908,7 +10399,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9960,7 +10451,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10035,7 +10526,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10092,7 +10583,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10140,7 +10631,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10190,7 +10681,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10200,7 +10691,10 @@
   "description": "Gain and loss, fame and disrepute, praise and blame, pleasure and pain, which turn the world (AN 8.6); a mind unshaken by them is a blessing (Snp 2.4).",
   "lineages": [
    "lin:early-buddhism",
-   "lin:theravada"
+   "lin:theravada",
+   "lin:kagyu",
+   "lin:karma-kagyu",
+   "lin:drukpa-kagyu"
   ],
   "sources": [
    {
@@ -10208,6 +10702,20 @@
     "ref": "1-9",
     "rests_on": [
      "tea:lokadhamma-sutta:1-9"
+    ]
+   },
+   {
+    "source": "src:milarepa-gurbum",
+    "ref": "eight-worldly-concerns",
+    "rests_on": [
+     "tea:milarepa-gurbum:eight-worldly-concerns"
+    ]
+   },
+   {
+    "source": "src:karnatantravajrapada",
+    "ref": "303a.4",
+    "rests_on": [
+     "tea:karnatantravajrapada:303a.4"
     ]
    }
   ],
@@ -10219,30 +10727,39 @@
   },
   "coverage": [
    "B3",
-   "D"
+   "D",
+   "B6"
+  ],
+  "alt_description": [
+   "Kagyu contribution: gain and loss, pleasure and pain, praise and blame, fame and disgrace — the 'eight worldly dharmas' Milarepa urges renouncing; self-liberated through the illusory body."
   ],
   "provenance": {
    "units": [
-    "skeleton:U36-pali-suttas"
+    "skeleton:U36-pali-suttas",
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 3,
    "lineages": [
+    "lin:drukpa-kagyu",
     "lin:early-buddhism",
+    "lin:kagyu",
+    "lin:karma-kagyu",
     "lin:theravada"
    ],
    "schools": [
     "lin:early-buddhism",
+    "lin:kagyu",
     "lin:theravada"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10308,7 +10825,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10384,19 +10901,36 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
   "id": "obs:eight-worldly-concerns",
   "name": "The eight worldly concerns",
-  "category": "obstacle",
+  "category": "bond",
   "lineages": [
+   "lin:kadam",
+   "lin:gelug",
+   "lin:sakya",
    "lin:nyingma",
    "lin:madhyamaka"
   ],
-  "description": "Gain and loss, pleasure and pain, praise and blame, fame and disgrace: the preliminaries turn the mind from them; they disqualify a disciple (Kunjed Gyalpo ch.83).",
+  "description": "Gain and loss, pleasure and pain, praise and blame, fame and disrepute: practice stained by them is not dharma (Eight Verses 8; Parting 1).",
   "sources": [
+   {
+    "source": "src:eight-verses-mind-training",
+    "ref": "8",
+    "rests_on": [
+     "tea:eight-verses-mind-training:8"
+    ]
+   },
+   {
+    "source": "src:bodhisattvamanyavali",
+    "ref": "v4",
+    "rests_on": [
+     "tea:bodhisattvamanyavali:v3-4"
+    ]
+   },
    {
     "source": "src:kunjed-gyalpo",
     "ref": "ch.83",
@@ -10412,10 +10946,14 @@
     ]
    }
   ],
-  "coverage": [
-   "B6",
-   "D"
+  "names": [
+   {
+    "lineage": "lin:kadam",
+    "name": "'jig rten chos brgyad",
+    "term": "trm:jigten-chogye"
+   }
   ],
+  "notes": "Contribution of U47.",
   "verification": {
    "level": "skeleton",
    "confidence": "high",
@@ -10423,7 +10961,12 @@
    "checks": []
   },
   "alt_description": [
+   "Gain and loss, pleasure and pain, praise and blame, fame and disgrace: the preliminaries turn the mind from them; they disqualify a disciple (Kunjed Gyalpo ch.83).",
    "Gain and loss, pleasure and pain, fame and disgrace, praise and blame, which the wise treat as equal."
+  ],
+  "coverage": [
+   "B6",
+   "D"
   ],
   "members": [
    "lābha",
@@ -10437,6 +10980,7 @@
   ],
   "provenance": {
    "units": [
+    "skeleton:U47-sakya-kadam-gelug",
     "skeleton:U45-nyingma-bon",
     "skeleton:U40-madhyamaka"
    ],
@@ -10445,19 +10989,25 @@
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 5,
    "lineages": [
+    "lin:gelug",
+    "lin:kadam",
     "lin:madhyamaka",
-    "lin:nyingma"
+    "lin:nyingma",
+    "lin:sakya"
    ],
    "schools": [
+    "lin:gelug",
+    "lin:kadam",
     "lin:madhyamaka",
-    "lin:nyingma"
+    "lin:nyingma",
+    "lin:sakya"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10527,7 +11077,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10598,7 +11148,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10670,7 +11220,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10750,7 +11300,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10813,7 +11363,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10886,7 +11436,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10940,7 +11490,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11006,7 +11556,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11061,7 +11611,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11106,7 +11656,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11173,7 +11723,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11247,7 +11797,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11303,7 +11853,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11369,7 +11919,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11413,7 +11963,7 @@
    ]
   },
   "convergence": {
-   "count": 3,
+   "count": 2,
    "lineages": [
     "lin:chan",
     "lin:mahayana",
@@ -11421,13 +11971,12 @@
    ],
    "schools": [
     "lin:chan",
-    "lin:mahayana",
-    "lin:seon"
+    "lin:mahayana"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11516,7 +12065,7 @@
    ]
   },
   "convergence": {
-   "count": 5,
+   "count": 4,
    "lineages": [
     "lin:early-buddhism",
     "lin:jodo-shinshu",
@@ -11527,7 +12076,6 @@
    ],
    "schools": [
     "lin:early-buddhism",
-    "lin:jodo-shinshu",
     "lin:pure-land",
     "lin:sarvastivada",
     "lin:theravada"
@@ -11535,7 +12083,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11591,7 +12139,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11649,7 +12197,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11658,7 +12206,8 @@
   "category": "meditation-fault",
   "lineages": [
    "lin:yogacara",
-   "lin:mahayana"
+   "lin:mahayana",
+   "lin:gelug"
   ],
   "description": "Laziness, forgetting the instruction, sinking and agitation, non-application (of the remedy) and over-application (applying it when not needed) — the obstacles to stability of mind.",
   "sources": [
@@ -11667,6 +12216,13 @@
     "ref": "4.4",
     "rests_on": [
      "tea:madhyantavibhaga:4.3-5"
+    ]
+   },
+   {
+    "source": "src:lamrim-chenmo",
+    "ref": "calm.faults-antidotes",
+    "rests_on": [
+     "tea:lamrim-chenmo:calm.faults-antidotes"
     ]
    }
   ],
@@ -11690,28 +12246,35 @@
    "unverified": false,
    "checks": []
   },
+  "alt_description": [
+   "Laziness, forgetting the instruction, laxity and excitement, non-application and over-application."
+  ],
+  "notes": "Contribution of U47.",
   "provenance": {
    "units": [
-    "skeleton:U41-yogacara-pramana"
+    "skeleton:U41-yogacara-pramana",
+    "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
     "skeleton"
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 3,
    "lineages": [
+    "lin:gelug",
     "lin:mahayana",
     "lin:yogacara"
    ],
    "schools": [
+    "lin:gelug",
     "lin:mahayana",
     "lin:yogacara"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11767,7 +12330,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11823,7 +12386,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11896,7 +12459,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12024,7 +12587,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12082,7 +12645,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12182,7 +12745,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12241,7 +12804,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12293,7 +12856,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12381,7 +12944,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12443,7 +13006,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12514,7 +13077,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12583,21 +13146,20 @@
    ]
   },
   "convergence": {
-   "count": 3,
+   "count": 2,
    "lineages": [
     "lin:jodo-shinshu",
     "lin:mahayana",
     "lin:pure-land"
    ],
    "schools": [
-    "lin:jodo-shinshu",
     "lin:mahayana",
     "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12659,7 +13221,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12717,7 +13279,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12773,7 +13335,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12828,7 +13390,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12880,7 +13442,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12990,7 +13552,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13045,7 +13607,70 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "obs:four-deviations-mahamudra",
+  "name": "The four deviations from emptiness (shor sa bzhi)",
+  "category": "meditation-fault",
+  "lineages": [
+   "lin:kagyu",
+   "lin:karma-kagyu",
+   "lin:drukpa-kagyu"
+  ],
+  "description": "Deviating from the essence of emptiness (not recognizing it), into 'sealing' (labelling things empty), into the antidote (using emptiness as a remedy), and into the path (treating emptiness as something to reach later).",
+  "sources": [
+   {
+    "source": "src:moonbeams-of-mahamudra",
+    "ref": "pt.2",
+    "rests_on": [
+     "tea:moonbeams-of-mahamudra:pt.2/5"
+    ]
+   }
+  ],
+  "antidotes": [
+   "prc:pointing-out",
+   "recognition of mind's nature"
+  ],
+  "members": [
+   "gshis la shor ba",
+   "rgyas 'debs su shor ba",
+   "gnyen por shor ba",
+   "lam du shor ba"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:drukpa-kagyu",
+    "lin:kagyu",
+    "lin:karma-kagyu"
+   ],
+   "schools": [
+    "lin:kagyu"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13102,7 +13727,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13187,7 +13812,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13197,12 +13822,20 @@
   "lineages": [
    "lin:mahayana",
    "lin:vajrayana",
-   "lin:nyingma"
+   "lin:nyingma",
+   "lin:kagyu"
   ],
   "description": "Māra as the aggregates, the defilements, death, and the divine son Māra.",
   "sources": [
    {
     "source": "src:surangama-sutra"
+   },
+   {
+    "source": "src:milarepa-gurbum",
+    "ref": "1",
+    "rests_on": [
+     "tea:milarepa-gurbum:1"
+    ]
    }
   ],
   "members": [
@@ -13224,7 +13857,8 @@
    "checks": []
   },
   "alt_description": [
-   "The demons of the aggregates, afflictions, death and the 'son of the gods' (distraction by pleasure), as obstacles to practice; cut by the kusāli offering and Chöd."
+   "The demons of the aggregates, afflictions, death and the 'son of the gods' (distraction by pleasure), as obstacles to practice; cut by the kusāli offering and Chöd.",
+   "Kagyu contribution: the demons Milarepa met at Red Rock Jewel Valley vanished when recognized as his own mind's projections."
   ],
   "antidotes": [
    "prc:kusali-offering"
@@ -13232,20 +13866,23 @@
   "provenance": {
    "units": [
     "skeleton:U39-mahayana-sutras",
-    "skeleton:U45-nyingma-bon"
+    "skeleton:U45-nyingma-bon",
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
    ]
   },
   "convergence": {
-   "count": 3,
+   "count": 4,
    "lineages": [
+    "lin:kagyu",
     "lin:mahayana",
     "lin:nyingma",
     "lin:vajrayana"
    ],
    "schools": [
+    "lin:kagyu",
     "lin:mahayana",
     "lin:nyingma",
     "lin:vajrayana"
@@ -13253,7 +13890,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13309,7 +13946,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13374,7 +14011,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13445,7 +14082,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13521,7 +14158,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13568,7 +14205,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13639,7 +14276,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13686,7 +14323,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13765,7 +14402,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13832,7 +14469,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13929,7 +14566,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13976,7 +14613,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14043,7 +14680,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14095,7 +14732,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14171,7 +14808,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14226,7 +14863,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14271,7 +14908,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14328,7 +14965,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14388,7 +15025,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14440,7 +15077,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14485,7 +15122,77 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "obs:grasping-lojong",
+  "name": "Grasping at extremes",
+  "category": "obstacle",
+  "lineages": [
+   "lin:sakya"
+  ],
+  "description": "Grasping at existence, non-existence, both or neither — even at emptiness — which is the absence of the view.",
+  "antidotes": [
+   "resting in the view free of extremes"
+  ],
+  "sources": [
+   {
+    "source": "src:parting-from-four-attachments",
+    "ref": "4",
+    "rests_on": [
+     "tea:parting-from-four-attachments:4"
+    ]
+   },
+   {
+    "source": "src:parting-from-four-attachments-drakpa-gyaltsen",
+    "ref": "4",
+    "rests_on": [
+     "tea:parting-from-four-attachments-drakpa-gyaltsen:4"
+    ]
+   }
+  ],
+  "equivalents": [
+   {
+    "target": "obs:sunyata-drsti",
+    "grade": "partial",
+    "note": "grasping emptiness as a view is one form of it",
+    "rests_on": [
+     "tea:parting-from-four-attachments:4",
+     "tea:mulamadhyamakakarika:13.8"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:sakya"
+   ],
+   "schools": [
+    "lin:sakya"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14531,7 +15238,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14580,7 +15287,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14674,7 +15381,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14726,7 +15433,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14783,7 +15490,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14835,7 +15542,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14881,7 +15588,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14939,7 +15646,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15005,7 +15712,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15050,12 +15757,12 @@
     "lin:jodo-shinshu"
    ],
    "schools": [
-    "lin:jodo-shinshu"
+    "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15112,7 +15819,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15122,6 +15829,8 @@
   "description": "The poison of hope and fear intoxicates the yogin's mind and binds the innate gnosis; the fruit manifests only without them.",
   "lineages": [
    "lin:mahasiddha",
+   "lin:kagyu",
+   "lin:karma-kagyu",
    "lin:dzogchen",
    "lin:nyingma"
   ],
@@ -15163,11 +15872,13 @@
    "B6"
   ],
   "alt_description": [
+   "Hoping for results and fearing failure in practice; 'without hope and fear the fruit is manifest'.",
    "Hoping for results and fearing failure in meditation, which keep the mind in dualistic grasping; the Kunjed Gyalpo counts seeking and accomplishing among the deviations."
   ],
   "provenance": {
    "units": [
     "skeleton:U44-indian-vajrayana",
+    "skeleton:U46-kagyu",
     "skeleton:U45-nyingma-bon"
    ],
    "phases": [
@@ -15175,20 +15886,72 @@
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 3,
    "lineages": [
     "lin:dzogchen",
+    "lin:kagyu",
+    "lin:karma-kagyu",
     "lin:mahasiddha",
     "lin:nyingma"
    ],
    "schools": [
+    "lin:kagyu",
     "lin:mahasiddha",
     "lin:nyingma"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "obs:hope-for-siddhis",
+  "name": "Hoping for attainments",
+  "category": "meditation-fault",
+  "lineages": [
+   "lin:sakya"
+  ],
+  "description": "The mind that hopes and asks for accomplishments, removed by knowing that they arise within oneself through dependent arising.",
+  "sources": [
+   {
+    "source": "src:lamdre",
+    "ref": "140b.5-6",
+    "rests_on": [
+     "tea:lamdre:140b.5-6"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:sakya"
+   ],
+   "schools": [
+    "lin:sakya"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15236,7 +15999,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15329,7 +16092,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15390,7 +16153,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15460,7 +16223,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15527,7 +16290,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15581,10 +16344,26 @@
    "A10"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of obs:improper-pranayama"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "alt_description": [
    "Breath forced or held unskilfully 'kills the practitioner' and causes hiccup, asthma, cough and pain in head, ears and eyes (HYP 2.15–17); breath must be drawn and released slowly, never held too long (GŚ 51)."
@@ -15611,7 +16390,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15664,7 +16443,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15727,7 +16506,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15781,7 +16560,7 @@
    ]
   },
   "convergence": {
-   "count": 3,
+   "count": 2,
    "lineages": [
     "lin:chan",
     "lin:dzogchen",
@@ -15790,13 +16569,12 @@
    ],
    "schools": [
     "lin:chan",
-    "lin:nyingma",
-    "lin:seon"
+    "lin:nyingma"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15852,7 +16630,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15942,7 +16720,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15992,7 +16770,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16041,7 +16819,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16173,7 +16951,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16218,12 +16996,12 @@
     "lin:jodo-shinshu"
    ],
    "schools": [
-    "lin:jodo-shinshu"
+    "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16272,7 +17050,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16321,7 +17099,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16370,7 +17148,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16434,7 +17212,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16494,7 +17272,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16536,7 +17314,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16592,7 +17370,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16648,7 +17426,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16704,7 +17482,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16838,7 +17616,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16894,7 +17672,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16950,7 +17728,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17219,7 +17997,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17271,7 +18049,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17330,7 +18108,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17386,7 +18164,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17442,7 +18220,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17506,7 +18284,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17558,7 +18336,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17616,7 +18394,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17673,7 +18451,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17731,7 +18509,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17793,7 +18571,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17847,7 +18625,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17900,7 +18678,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17964,7 +18742,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18028,7 +18806,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18092,7 +18870,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18144,7 +18922,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18196,7 +18974,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18274,7 +19052,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18320,7 +19098,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18386,7 +19164,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18442,7 +19220,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18506,7 +19284,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18562,7 +19340,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18673,7 +19451,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18741,7 +19519,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18797,7 +19575,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18855,7 +19633,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18903,7 +19681,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18952,7 +19730,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18996,7 +19774,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19056,7 +19834,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19107,7 +19885,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19178,7 +19956,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19228,7 +20006,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19238,7 +20016,11 @@
   "description": "The faults of concentration: laziness, forgetting the object, laxity and excitement, non-application and over-application, remedied by the eight factors.",
   "lineages": [
    "lin:yogacara-madhyamaka",
-   "lin:madhyamaka"
+   "lin:madhyamaka",
+   "lin:gelug",
+   "lin:kagyu",
+   "lin:karma-kagyu",
+   "lin:drukpa-kagyu"
   ],
   "sources": [
    {
@@ -19246,6 +20028,21 @@
     "ref": "I",
     "rests_on": [
      "tea:bhavanakrama:1/4"
+    ]
+   },
+   {
+    "source": "src:lamrim-chenmo",
+    "ref": "calm.faults-antidotes",
+    "rests_on": [
+     "tea:lamrim-chenmo:calm.faults-antidotes",
+     "tea:lamrim-chenmo:calm.subtle-laxity"
+    ]
+   },
+   {
+    "source": "src:moonbeams-of-mahamudra",
+    "ref": "pt.2",
+    "rests_on": [
+     "tea:moonbeams-of-mahamudra:pt.2/2"
     ]
    }
   ],
@@ -19265,27 +20062,59 @@
    "unverified": false,
    "checks": []
   },
+  "alt_description": [
+   "The two main obstacles to calm abiding; laxity slackens the hold or clarity, excitement scatters the mind toward desirable objects.",
+   "The two faults of śamatha: sinking/dullness and excitement/scattering; corrected by adjusting tightness and looseness."
+  ],
+  "notes": "Contribution of U47.",
+  "equivalents": [
+   {
+    "target": "obs:thina-middha",
+    "grade": "partial",
+    "note": "dullness corresponds to thīna-middha",
+    "rests_on": [
+     "tea:moonbeams-of-mahamudra:pt.2/2"
+    ]
+   },
+   {
+    "target": "obs:uddhacca",
+    "grade": "partial",
+    "note": "agitation corresponds to uddhacca"
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
   "provenance": {
    "units": [
-    "skeleton:U40-madhyamaka"
+    "skeleton:U40-madhyamaka",
+    "skeleton:U47-sakya-kadam-gelug",
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
    ]
   },
   "convergence": {
-   "count": 1,
+   "count": 3,
    "lineages": [
+    "lin:drukpa-kagyu",
+    "lin:gelug",
+    "lin:kagyu",
+    "lin:karma-kagyu",
     "lin:madhyamaka",
     "lin:yogacara-madhyamaka"
    ],
    "schools": [
+    "lin:gelug",
+    "lin:kagyu",
     "lin:madhyamaka"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19390,7 +20219,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19440,7 +20269,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19501,19 +20330,18 @@
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 1,
    "lineages": [
     "lin:jodo-shinshu",
     "lin:jodo-shu"
    ],
    "schools": [
-    "lin:jodo-shinshu",
-    "lin:jodo-shu"
+    "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19606,7 +20434,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19687,7 +20515,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19764,7 +20592,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19805,7 +20633,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19895,7 +20723,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19946,7 +20774,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19990,21 +20818,19 @@
    ]
   },
   "convergence": {
-   "count": 3,
+   "count": 1,
    "lineages": [
     "lin:rinzai",
     "lin:soto",
     "lin:zen"
    ],
    "schools": [
-    "lin:rinzai",
-    "lin:soto",
-    "lin:zen"
+    "lin:chan"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -20059,7 +20885,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -20105,7 +20931,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -20165,7 +20991,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -20216,7 +21042,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -20271,7 +21097,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -20338,7 +21164,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -20426,7 +21252,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -20498,7 +21324,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -20565,7 +21391,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -20621,7 +21447,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -20683,7 +21509,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -20741,7 +21567,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -20824,7 +21650,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -20856,10 +21682,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of obs:mandala-five-bodily-faults"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -20880,7 +21722,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -20983,7 +21825,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -21074,7 +21916,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -21128,7 +21970,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -21185,7 +22027,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -21237,7 +22079,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -21297,7 +22139,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -21368,7 +22210,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -21428,7 +22270,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -21476,7 +22318,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -21529,7 +22371,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -21591,7 +22433,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -21646,7 +22488,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -21727,7 +22569,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -21813,7 +22655,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -21871,19 +22713,18 @@
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 1,
    "lineages": [
     "lin:jodo-shu",
     "lin:pure-land"
    ],
    "schools": [
-    "lin:jodo-shu",
     "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -22186,7 +23027,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -22238,7 +23079,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -22280,7 +23121,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -22335,7 +23176,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -22404,7 +23245,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -22501,7 +23342,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -22551,7 +23392,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -22608,7 +23449,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -22664,7 +23505,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -22713,7 +23554,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -22723,7 +23564,9 @@
   "description": "Taking emptiness to mean that nothing exists, so that karma, the path and the Buddha are denied; wrongly seen emptiness destroys the slow-witted like a snake wrongly grasped.",
   "lineages": [
    "lin:madhyamaka",
-   "lin:prasangika"
+   "lin:prasangika",
+   "lin:kadam",
+   "lin:gelug"
   ],
   "sources": [
    {
@@ -22740,6 +23583,20 @@
      "tea:prasannapada:17.30",
      "tea:prasannapada:18.7"
     ]
+   },
+   {
+    "source": "src:satyadvayavatara",
+    "ref": "v17–20",
+    "rests_on": [
+     "tea:satyadvayavatara:v17-20"
+    ]
+   },
+   {
+    "source": "src:lamrim-chenmo",
+    "ref": "insight.too-broad",
+    "rests_on": [
+     "tea:lamrim-chenmo:insight.too-broad"
+    ]
    }
   ],
   "antidotes": [
@@ -22752,27 +23609,36 @@
    "unverified": false,
    "checks": []
   },
+  "alt_description": [
+   "Disparaging conventional cause and effect in the name of emptiness (Atiśa); negating too much so that nothing can be posited (Tsongkhapa)."
+  ],
+  "notes": "Contribution of U47.",
   "provenance": {
    "units": [
-    "skeleton:U40-madhyamaka"
+    "skeleton:U40-madhyamaka",
+    "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
     "skeleton"
    ]
   },
   "convergence": {
-   "count": 1,
+   "count": 3,
    "lineages": [
+    "lin:gelug",
+    "lin:kadam",
     "lin:madhyamaka",
     "lin:prasangika"
    ],
    "schools": [
+    "lin:gelug",
+    "lin:kadam",
     "lin:madhyamaka"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -22845,7 +23711,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -22905,7 +23771,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -22990,7 +23856,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -23075,7 +23941,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -23126,7 +23992,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -23176,7 +24042,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -23236,7 +24102,64 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "obs:obstacles-to-meditation-lamdre",
+  "name": "Obstacles on the method and wisdom sides (Lamdre)",
+  "category": "obstacle",
+  "lineages": [
+   "lin:sakya"
+  ],
+  "description": "The Vajra Verses list obstacles for the yogin of the method side (guarded against by faith, the protection wheel, mantra and the understanding of phenomena as mind's appearance) and of the wisdom side (outer and inner demon-paths, wrong views, failure to understand the signs, loss of the drop).",
+  "antidotes": [
+   "firm faith",
+   "protection wheel",
+   "mantra recitation and knots",
+   "not separating from the meaning of reality"
+  ],
+  "sources": [
+   {
+    "source": "src:lamdre",
+    "ref": "139b.7; 140a.1",
+    "rests_on": [
+     "tea:lamdre:139b.7",
+     "tea:lamdre:140a.1"
+    ]
+   }
+  ],
+  "restricted": true,
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:sakya"
+   ],
+   "schools": [
+    "lin:sakya"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -23288,7 +24211,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -23355,7 +24278,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -23422,7 +24345,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -23485,7 +24408,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -23528,7 +24451,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -23584,7 +24507,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -23640,7 +24563,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -23703,7 +24626,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -23782,7 +24705,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -23844,7 +24767,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -23903,7 +24826,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24007,7 +24930,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24071,7 +24994,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24141,7 +25064,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24204,7 +25127,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24280,7 +25203,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24332,7 +25255,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24397,7 +25320,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24451,7 +25374,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24500,7 +25423,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24560,7 +25483,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24605,7 +25528,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24667,7 +25590,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24725,7 +25648,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24797,7 +25720,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24852,7 +25775,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24902,7 +25825,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -24964,7 +25887,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -25030,7 +25953,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -25091,7 +26014,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -25159,7 +26082,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -25227,7 +26150,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -25411,7 +26334,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -25475,7 +26398,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -25514,7 +26437,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -25553,7 +26476,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -25612,7 +26535,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -25691,7 +26614,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -25739,7 +26662,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -25796,7 +26719,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -25845,7 +26768,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -25902,7 +26825,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -25968,7 +26891,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -26018,7 +26941,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -26080,7 +27003,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -26148,7 +27071,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -26204,7 +27127,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -26251,19 +27174,18 @@
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 1,
    "lineages": [
     "lin:chan",
     "lin:rinzai"
    ],
    "schools": [
-    "lin:chan",
-    "lin:rinzai"
+    "lin:chan"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -26323,7 +27245,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -26395,7 +27317,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -26449,7 +27371,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -26519,7 +27441,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -26662,7 +27584,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -26725,7 +27647,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -26776,7 +27698,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -26836,7 +27758,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -26888,7 +27810,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -26961,7 +27883,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -27035,7 +27957,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -27084,7 +28006,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -27155,7 +28077,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -27239,7 +28161,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -27302,7 +28224,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -27334,10 +28256,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of obs:renouncer-causes-of-fall"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -27358,7 +28296,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -27464,7 +28402,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -27526,7 +28464,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -27582,7 +28520,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -27634,7 +28572,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -27676,7 +28614,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -27737,7 +28675,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -27819,7 +28757,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -27873,7 +28811,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -27930,7 +28868,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -27996,7 +28934,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -28062,7 +29000,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -28110,7 +29048,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -28162,7 +29100,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -28227,7 +29165,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -28238,6 +29176,7 @@
    "lin:nyingma",
    "lin:kaula",
    "lin:kubjika",
+   "lin:kagyu",
    "lin:mantramarga",
    "lin:saiva-siddhanta"
   ],
@@ -28262,6 +29201,20 @@
     "ref": "12.3-9",
     "rests_on": [
      "tea:kubjikamata-tantra:12.3-9"
+    ]
+   },
+   {
+    "source": "src:bka-dpe-phyi-ma",
+    "ref": "273b.6",
+    "rests_on": [
+     "tea:bka-dpe-phyi-ma:273b.6"
+    ]
+   },
+   {
+    "source": "src:karnatantravajrapada",
+    "ref": "303b.5",
+    "rests_on": [
+     "tea:karnatantravajrapada:303b.5"
     ]
    },
    {
@@ -28290,12 +29243,14 @@
   },
   "alt_description": [
    "Without the samaya discipline there is no perfection and one falls from the Kula (Kulārṇava 5.96); disciples who do not honour the samayas become tāmasa (Kubjikāmata 12.3-9).",
+   "Kagyu contribution: giving the sealed instructions to unfit vessels, or heedless, craving practice of the method path, breaks the pledge and leads to hell or lower realms.",
    "Knowingly breaking the rules taken at initiation is a great fault; through ignorance it is no fault."
   ],
   "provenance": {
    "units": [
     "skeleton:U45-nyingma-bon",
     "skeleton:U24-kali-kaula",
+    "skeleton:U46-kagyu",
     "skeleton:U08-agama-catalogue"
    ],
    "phases": [
@@ -28303,8 +29258,9 @@
    ]
   },
   "convergence": {
-   "count": 4,
+   "count": 5,
    "lineages": [
+    "lin:kagyu",
     "lin:kaula",
     "lin:kubjika",
     "lin:mantramarga",
@@ -28312,6 +29268,7 @@
     "lin:saiva-siddhanta"
    ],
    "schools": [
+    "lin:kagyu",
     "lin:kaula",
     "lin:mantramarga",
     "lin:nyingma",
@@ -28321,7 +29278,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -28385,7 +29342,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -28443,7 +29400,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -28643,7 +29600,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -28711,7 +29668,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -28767,7 +29724,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -28921,7 +29878,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -28988,7 +29945,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -29048,7 +30005,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -29103,7 +30060,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -29208,7 +30165,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -29263,7 +30220,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -29325,7 +30282,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -29377,7 +30334,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -29435,7 +30392,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -29487,7 +30444,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -29535,7 +30492,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -29602,7 +30559,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -29654,33 +30611,48 @@
    ]
   },
   "convergence": {
-   "count": 3,
+   "count": 1,
    "lineages": [
     "lin:hongzhou",
     "lin:linji",
     "lin:seon"
    ],
    "schools": [
-    "lin:hongzhou",
-    "lin:linji",
-    "lin:seon"
+    "lin:chan"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
   "id": "obs:self-cherishing",
-  "name": "Self-cherishing (desiring one's own happiness)",
-  "category": "passion",
-  "description": "All who suffer in the world suffer from desiring their own happiness; all calamities and fears come from grasping at self.",
+  "name": "Self-cherishing",
+  "category": "obstacle",
   "lineages": [
+   "lin:kadam",
+   "lin:gelug",
+   "lin:sakya",
    "lin:prasangika",
    "lin:madhyamaka"
   ],
+  "description": "Holding oneself dearer than others; the one into which all blame is driven, the door to all misfortune.",
   "sources": [
+   {
+    "source": "src:seven-point-mind-training",
+    "ref": "3.2",
+    "rests_on": [
+     "tea:seven-point-mind-training:3.2"
+    ]
+   },
+   {
+    "source": "src:lama-chopa",
+    "ref": "exchange",
+    "rests_on": [
+     "tea:lama-chopa:exchange"
+    ]
+   },
    {
     "source": "src:bodhicaryavatara",
     "ref": "8.129-136",
@@ -29691,17 +30663,30 @@
    }
   ],
   "antidotes": [
-   "prc:equalizing-self-and-other",
-   "prc:exchanging-self-and-other"
+   "prc:exchanging-self-and-other",
+   "prc:tonglen",
+   "prc:equalizing-self-and-other"
   ],
+  "names": [
+   {
+    "lineage": "lin:kadam",
+    "name": "bdag gces 'dzin",
+    "term": "trm:dagche-dzinpa"
+   }
+  ],
+  "notes": "Contribution of U47.",
   "verification": {
    "level": "skeleton",
    "confidence": "high",
    "unverified": false,
    "checks": []
   },
+  "alt_description": [
+   "All who suffer in the world suffer from desiring their own happiness; all calamities and fears come from grasping at self."
+  ],
   "provenance": {
    "units": [
+    "skeleton:U47-sakya-kadam-gelug",
     "skeleton:U40-madhyamaka"
    ],
    "phases": [
@@ -29709,18 +30694,24 @@
    ]
   },
   "convergence": {
-   "count": 1,
+   "count": 4,
    "lineages": [
+    "lin:gelug",
+    "lin:kadam",
     "lin:madhyamaka",
-    "lin:prasangika"
+    "lin:prasangika",
+    "lin:sakya"
    ],
    "schools": [
-    "lin:madhyamaka"
+    "lin:gelug",
+    "lin:kadam",
+    "lin:madhyamaka",
+    "lin:sakya"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -29772,7 +30763,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -29827,12 +30818,12 @@
     "lin:jodo-shinshu"
    ],
    "schools": [
-    "lin:jodo-shinshu"
+    "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -29928,7 +30919,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -29968,7 +30959,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -30073,7 +31064,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -30145,7 +31136,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -30208,7 +31199,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -30263,7 +31254,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -30315,7 +31306,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -30388,7 +31379,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -30518,7 +31509,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -30563,7 +31554,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -30671,10 +31662,26 @@
    "A7"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of obs:siddhis-as-obstacles"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "alt_description": [
    "The powers of the ghaṭa stage are obstacles to the great accomplishment; displaying them draws disciples and distracts from practice (DYŚ 91–94).",
@@ -30715,7 +31722,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -30774,7 +31781,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -30833,7 +31840,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -30891,7 +31898,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -30953,7 +31960,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -30989,10 +31996,26 @@
    "A9"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of obs:six-enemies"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "alt_description": [
    "Desire, anger, greed, delusion, pride and envy, which the Bāul and Sahajiyā songs name as the enemies to be mastered before the Man can be held."
@@ -31023,7 +32046,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -31080,7 +32103,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -31153,7 +32176,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -31210,7 +32233,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -31267,7 +32290,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -31327,7 +32350,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -31384,7 +32407,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -31417,10 +32440,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of obs:six-urmis"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Varāha 1 is located, and the Vajrasūci's 'ṣaḍurmiṣaḍbhāva…' too. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -31441,7 +32480,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -31493,7 +32532,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -31643,7 +32682,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -31699,7 +32738,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -31756,7 +32795,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -31811,7 +32850,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -31871,7 +32910,70 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "obs:subtle-laxity",
+  "name": "Subtle laxity (bying ba phra mo)",
+  "category": "meditation-fault",
+  "lineages": [
+   "lin:gelug"
+  ],
+  "description": "Laxity in which the object remains with some clarity but the intensity of clarity has slackened; the most insidious obstacle to calm abiding because it is mistaken for good meditation.",
+  "antidotes": [
+   "prc:calm-abiding-lamrim",
+   "introspective alertness; uplifting the mind (e.g. by recalling the value of the human life)"
+  ],
+  "sources": [
+   {
+    "source": "src:lamrim-chenmo",
+    "ref": "calm.subtle-laxity",
+    "rests_on": [
+     "tea:lamrim-chenmo:calm.subtle-laxity"
+    ]
+   }
+  ],
+  "equivalents": [
+   {
+    "target": "obs:laya",
+    "grade": "partial",
+    "note": "the general Buddhist sinking; subtle laxity is its hardest-to-detect form",
+    "rests_on": [
+     "tea:lamrim-chenmo:calm.subtle-laxity"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:gelug"
+   ],
+   "schools": [
+    "lin:gelug"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -31963,7 +33065,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -32020,7 +33122,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -32085,20 +33187,35 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
   "id": "obs:svabhava-graha",
-  "name": "Grasping at own-nature (inherent existence)",
+  "name": "Grasping at inherent existence (true-grasping)",
   "category": "affliction",
-  "description": "Taking things born of causes and conditions as existing by their own nature; the root of views, disputes and afflictions and, as ignorance, of the twelve links.",
   "lineages": [
+   "lin:gelug",
    "lin:madhyamaka",
    "lin:prasangika",
    "lin:yogacara-madhyamaka"
   ],
+  "description": "The innate apprehension of persons and phenomena as inherently existent — the root of saṃsāra; for Prāsaṅgika even grasping at the self of phenomena is an affliction.",
   "sources": [
+   {
+    "source": "src:lamrim-chenmo",
+    "ref": "insight.need",
+    "rests_on": [
+     "tea:lamrim-chenmo:insight.need"
+    ]
+   },
+   {
+    "source": "src:eight-difficult-points-memorandum",
+    "ref": "",
+    "rests_on": [
+     "tea:eight-difficult-points-memorandum:list"
+    ]
+   },
    {
     "source": "src:yuktisastika",
     "ref": "46-48",
@@ -32121,19 +33238,31 @@
     ]
    }
   ],
+  "names": [
+   {
+    "lineage": "lin:gelug",
+    "name": "bden 'dzin / bdag 'dzin",
+    "term": "trm:dagdzin"
+   }
+  ],
+  "notes": "Contribution of U47.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "alt_description": [
+   "Taking things born of causes and conditions as existing by their own nature; the root of views, disputes and afflictions and, as ignorance, of the twelve links."
+  ],
   "antidotes": [
    "prc:analytical-meditation-on-emptiness",
    "prc:four-alternatives-reasoning",
    "prc:dependent-origination-reasoning"
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "moderate",
-   "unverified": false,
-   "checks": []
-  },
   "provenance": {
    "units": [
+    "skeleton:U47-sakya-kadam-gelug",
     "skeleton:U40-madhyamaka"
    ],
    "phases": [
@@ -32141,19 +33270,21 @@
    ]
   },
   "convergence": {
-   "count": 1,
+   "count": 2,
    "lineages": [
+    "lin:gelug",
     "lin:madhyamaka",
     "lin:prasangika",
     "lin:yogacara-madhyamaka"
    ],
    "schools": [
+    "lin:gelug",
     "lin:madhyamaka"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -32212,7 +33343,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -32263,7 +33394,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -32319,7 +33450,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -32387,7 +33518,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -32438,7 +33569,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -32506,7 +33637,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -32551,7 +33682,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -32612,7 +33743,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -32648,10 +33779,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of obs:tejobindu-samadhi-vighnas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -32672,7 +33819,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -32715,7 +33862,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -32725,7 +33872,8 @@
   "description": "Killing, stealing, sexual misconduct; false, divisive, harsh speech and idle chatter; covetousness, ill will and wrong view (MN 41; AN 10.176).",
   "lineages": [
    "lin:early-buddhism",
-   "lin:theravada"
+   "lin:theravada",
+   "lin:kagyu"
   ],
   "sources": [
    {
@@ -32741,6 +33889,13 @@
     "rests_on": [
      "tea:anguttara-nikaya:10.176"
     ]
+   },
+   {
+    "source": "src:jewel-ornament-of-liberation",
+    "ref": "ch.6",
+    "rests_on": [
+     "tea:jewel-ornament-of-liberation:ch.6"
+    ]
    }
   ],
   "verification": {
@@ -32751,30 +33906,37 @@
   },
   "coverage": [
    "B3",
-   "D"
+   "D",
+   "B6"
+  ],
+  "alt_description": [
+   "Kagyu contribution: the ten non-virtues and their results (Jewel Ornament ch.6)."
   ],
   "provenance": {
    "units": [
-    "skeleton:U36-pali-suttas"
+    "skeleton:U36-pali-suttas",
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 3,
    "lineages": [
     "lin:early-buddhism",
+    "lin:kagyu",
     "lin:theravada"
    ],
    "schools": [
     "lin:early-buddhism",
+    "lin:kagyu",
     "lin:theravada"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -32826,7 +33988,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -32886,19 +34048,18 @@
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 1,
    "lineages": [
     "lin:seon",
     "lin:yangqi"
    ],
    "schools": [
-    "lin:linji",
-    "lin:seon"
+    "lin:chan"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -33022,7 +34183,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -33098,7 +34259,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -33146,7 +34307,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -33219,7 +34380,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -33286,7 +34447,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -33364,7 +34525,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -33441,7 +34602,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -33498,7 +34659,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -33599,7 +34760,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -33653,7 +34814,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -33707,7 +34868,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -33777,7 +34938,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -33817,10 +34978,26 @@
    "A7"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of obs:three-esanas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "alt_description": [
    "Kaṭuveḷi: 'the three desires are evil' (5); in the Siddha list of ninety-six they are the desires for wife, children and wealth (list recalled at low confidence)."
@@ -33848,7 +35025,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -33906,7 +35083,61 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "obs:three-kinds-of-laziness",
+  "name": "The three kinds of laziness",
+  "category": "obstacle",
+  "lineages": [
+   "lin:kagyu"
+  ],
+  "description": "Idleness, discouragement (self-deprecation) and attachment to unworthy activities, overcome by diligence (Jewel Ornament ch.15).",
+  "sources": [
+   {
+    "source": "src:jewel-ornament-of-liberation",
+    "ref": "ch.15",
+    "rests_on": [
+     "tea:jewel-ornament-of-liberation:ch.15"
+    ]
+   }
+  ],
+  "members": [
+   "snyom las kyi le lo",
+   "sgyid lugs pa'i le lo",
+   "bya ba ngan zhen gyi le lo"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:kagyu"
+   ],
+   "schools": [
+    "lin:kagyu"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -33955,12 +35186,12 @@
     "lin:caodong"
    ],
    "schools": [
-    "lin:caodong"
+    "lin:chan"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -34097,7 +35328,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -34151,7 +35382,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -34200,19 +35431,18 @@
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 1,
    "lineages": [
     "lin:jodo-shinshu",
     "lin:pure-land"
    ],
    "schools": [
-    "lin:jodo-shinshu",
     "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -34256,7 +35486,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -34270,7 +35500,8 @@
    "lin:theravada",
    "lin:early-buddhism",
    "lin:mahasiddha",
-   "lin:vajrayana"
+   "lin:vajrayana",
+   "lin:kagyu"
   ],
   "description": "Desire, anger and ignorance, the roots of the three lower realms; in the nine-round purification breath they are expelled with the breath.",
   "antidotes": [
@@ -34293,7 +35524,8 @@
   },
   "alt_description": [
    "In the desire realm passion, aversion and delusion are the three bad roots (AK 5.20); the contemplation of the unlovely counters passion.",
-   "U44 contribution: desire, hatred and delusion — which the Vajrayāna transforms into the gnoses (the smith 'forges the three poisons into the dharmakāya'; the nature of anger is the nature of mind)."
+   "U44 contribution: desire, hatred and delusion — which the Vajrayāna transforms into the gnoses (the smith 'forges the three poisons into the dharmakāya'; the nature of anger is the nature of mind).",
+   "Kagyu contribution: in clear-light practice one looks without grasping at the three poisons; they are 'purified as body, speech and mind' (Tilopa)."
   ],
   "members": [
    "rāga/lobha",
@@ -34325,23 +35557,32 @@
     "rests_on": [
      "tea:dohakosa-saraha:v39"
     ]
+   },
+   {
+    "source": "src:karnatantravajrapada",
+    "ref": "303a.7",
+    "rests_on": [
+     "tea:karnatantravajrapada:303a.7"
+    ]
    }
   ],
   "provenance": {
    "units": [
     "skeleton:U45-nyingma-bon",
     "skeleton:U38-early-schools",
-    "skeleton:U44-indian-vajrayana"
+    "skeleton:U44-indian-vajrayana",
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
    ]
   },
   "convergence": {
-   "count": 7,
+   "count": 8,
    "lineages": [
     "lin:bon",
     "lin:early-buddhism",
+    "lin:kagyu",
     "lin:mahasiddha",
     "lin:nyingma",
     "lin:sarvastivada",
@@ -34351,6 +35592,7 @@
    "schools": [
     "lin:bon",
     "lin:early-buddhism",
+    "lin:kagyu",
     "lin:mahasiddha",
     "lin:nyingma",
     "lin:sarvastivada",
@@ -34361,7 +35603,7 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -34418,7 +35660,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -34472,7 +35714,75 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "obs:three-strayings-mahamudra",
+  "name": "The three strayings (gol sa gsum)",
+  "category": "meditation-fault",
+  "lineages": [
+   "lin:kagyu",
+   "lin:karma-kagyu",
+   "lin:drukpa-kagyu"
+  ],
+  "description": "Attachment to the meditative experiences of bliss, clarity and non-thought, which lead to rebirth in the desire, form and formless realms rather than to liberation.",
+  "sources": [
+   {
+    "source": "src:moonbeams-of-mahamudra",
+    "ref": "pt.2",
+    "rests_on": [
+     "tea:moonbeams-of-mahamudra:pt.2/5"
+    ]
+   }
+  ],
+  "equivalents": [
+   {
+    "target": "obs:attachment-to-meditative-taste",
+    "grade": "partial",
+    "note": "relishing meditative states is the common fault; the Kagyu maps each state to a realm",
+    "rests_on": [
+     "tea:moonbeams-of-mahamudra:pt.2/5"
+    ]
+   }
+  ],
+  "members": [
+   "bliss → desire realm",
+   "clarity → form realm",
+   "non-thought → formless realm"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:drukpa-kagyu",
+    "lin:kagyu",
+    "lin:karma-kagyu"
+   ],
+   "schools": [
+    "lin:kagyu"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -34510,10 +35820,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of obs:three-vasanas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "alt_description": [
    "Tendencies toward the world (reputation), toward scriptural learning (pedantry) and toward the body, which prevent right knowledge — 'iron fetters'."
@@ -34543,7 +35869,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -34606,7 +35932,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -34664,7 +35990,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -34737,21 +36063,19 @@
    ]
   },
   "convergence": {
-   "count": 3,
+   "count": 1,
    "lineages": [
     "lin:caodong",
     "lin:chan",
     "lin:seon"
    ],
    "schools": [
-    "lin:caodong",
-    "lin:chan",
-    "lin:seon"
+    "lin:chan"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -34804,7 +36128,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -34884,7 +36208,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -34971,7 +36295,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -35040,7 +36364,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -35098,7 +36422,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -35169,7 +36493,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -35228,7 +36552,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -35239,7 +36563,11 @@
   "lineages": [
    "lin:prasangika",
    "lin:yogacara-madhyamaka",
-   "lin:yogacara"
+   "lin:yogacara",
+   "lin:kadam",
+   "lin:gelug",
+   "lin:kagyu",
+   "lin:karma-kagyu"
   ],
   "sources": [
    {
@@ -35269,11 +36597,41 @@
     "rests_on": [
      "tea:trimsikabhasya:intro"
     ]
+   },
+   {
+    "source": "src:bodhipathapradipa",
+    "ref": "v42–44",
+    "rests_on": [
+     "tea:bodhipathapradipa:v42-44"
+    ]
+   },
+   {
+    "source": "src:satyadvayavatara",
+    "ref": "v9",
+    "rests_on": [
+     "tea:satyadvayavatara:v5-9"
+    ]
+   },
+   {
+    "source": "src:karnatantravajrapada",
+    "ref": "304a.2",
+    "rests_on": [
+     "tea:karnatantravajrapada:304a.2"
+    ]
+   },
+   {
+    "source": "src:drstisamksipta",
+    "ref": "244b.5",
+    "rests_on": [
+     "tea:drstisamksipta:244b.5"
+    ]
    }
   ],
   "members": [
    "kleśāvaraṇa",
-   "jñeyāvaraṇa"
+   "jñeyāvaraṇa",
+   "nyon mongs pa'i sgrib pa (kleśāvaraṇa)",
+   "shes bya'i sgrib pa (jñeyāvaraṇa)"
   ],
   "antidotes": [
    "prc:analytical-meditation-on-emptiness"
@@ -35285,36 +36643,59 @@
    "checks": []
   },
   "alt_description": [
-   "Yogācāra contribution: all obscurations are summed up as the afflictive obscuration (removed by the selflessness of persons) and the cognitive obscuration (removed by the selflessness of dharmas); liberation follows their exhaustion."
+   "Yogācāra contribution: all obscurations are summed up as the afflictive obscuration (removed by the selflessness of persons) and the cognitive obscuration (removed by the selflessness of dharmas); liberation follows their exhaustion.",
+   "Afflictive obscurations and obscurations to knowledge, exhausted only by the perfection of wisdom joined with method.",
+   "The obscuration of afflictions and the obscuration of the knowable, the 'adventitious stains' that cover mind's luminous nature; self-purified in Mahāmudrā (Karṇatantravajrapada)."
   ],
   "coverage": [
    "B4",
-   "D"
+   "D",
+   "B6"
+  ],
+  "notes": "Contribution of U47.",
+  "equivalents": [
+   {
+    "target": "obs:three-avaranas",
+    "grade": "partial",
+    "note": "the sūtra three obstructions include the two plus karma",
+    "rests_on": [
+     "tea:drstisamksipta:244b.5"
+    ]
+   }
   ],
   "provenance": {
    "units": [
     "skeleton:U40-madhyamaka",
-    "skeleton:U41-yogacara-pramana"
+    "skeleton:U41-yogacara-pramana",
+    "skeleton:U47-sakya-kadam-gelug",
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 5,
    "lineages": [
+    "lin:gelug",
+    "lin:kadam",
+    "lin:kagyu",
+    "lin:karma-kagyu",
     "lin:prasangika",
     "lin:yogacara",
     "lin:yogacara-madhyamaka"
    ],
    "schools": [
+    "lin:gelug",
+    "lin:kadam",
+    "lin:kagyu",
     "lin:madhyamaka",
     "lin:yogacara"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -35360,21 +36741,19 @@
    ]
   },
   "convergence": {
-   "count": 3,
+   "count": 1,
    "lineages": [
     "lin:jodo-shinshu",
     "lin:jodo-shu",
     "lin:pure-land"
    ],
    "schools": [
-    "lin:jodo-shinshu",
-    "lin:jodo-shu",
     "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -35433,7 +36812,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -35485,7 +36864,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -35555,7 +36934,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -35612,7 +36991,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -35666,7 +37045,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -35712,7 +37091,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -35791,7 +37170,7 @@
     "shared",
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -35840,7 +37219,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -35900,7 +37279,7 @@
      }
     ],
     "reason": "The upapātaka list is at MDh 11.59–66 in Kullūka numbering (Medhātithi 57–64). It begins 'govadho 'yājyasaṃyājyaṃ pāradāryātmavikrayaḥ | gurumātṛpitṛtyāgaḥ svādhyāyāgnyoḥ sutasya ca' (11.59) and ends '… strīśūdraviṭkṣatravadho nāstikyaṃ copapātakam' (11.66). 11.67 is the separate jātibhraṃśakara category. The description's first examples (cow-killing, neglect of Veda and fires, selling oneself, deserting parents or teacher, adultery) are all in 11.59, outside the cited 11.60–67. Correction: ref 11.59–66 in sources and in the description's parenthesis; no other wording changed.",
-    "date": "2026-09-29 17:34 IST",
+    "date": "2026-09-29 17:45 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    },
    {
@@ -35908,7 +37287,7 @@
     "old": "A long list of lesser offences — killing a cow, neglecting the fires or the Veda, selling oneself, usury, deserting parents or teacher, adultery, killing women, śūdras, vaiśyas or kṣatriyas, unbelief (nāstikya) and others (MDh 11.60–67).",
     "new": "A long list of lesser offences — killing a cow, neglecting the fires or the Veda, selling oneself, usury, deserting parents or teacher, adultery, killing women, śūdras, vaiśyas or kṣatriyas, unbelief (nāstikya) and others (MDh 11.59–66).",
     "reason": "The upapātaka list is at MDh 11.59–66 in Kullūka numbering (Medhātithi 57–64). It begins 'govadho 'yājyasaṃyājyaṃ pāradāryātmavikrayaḥ | gurumātṛpitṛtyāgaḥ svādhyāyāgnyoḥ sutasya ca' (11.59) and ends '… strīśūdraviṭkṣatravadho nāstikyaṃ copapātakam' (11.66). 11.67 is the separate jātibhraṃśakara category. The description's first examples (cow-killing, neglect of Veda and fires, selling oneself, deserting parents or teacher, adultery) are all in 11.59, outside the cited 11.60–67. Correction: ref 11.59–66 in sources and in the description's parenthesis; no other wording changed.",
-    "date": "2026-09-29 17:34 IST",
+    "date": "2026-09-29 17:45 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],
@@ -35931,7 +37310,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36006,7 +37385,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36066,7 +37445,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36126,7 +37505,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36178,7 +37557,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36241,7 +37620,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36310,7 +37689,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36365,7 +37744,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36428,7 +37807,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36488,7 +37867,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36539,7 +37918,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36595,7 +37974,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36653,7 +38032,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36702,7 +38081,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36765,7 +38144,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36813,7 +38192,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36879,7 +38258,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -36985,7 +38364,7 @@
     "ascetic",
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -37051,7 +38430,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -37099,7 +38478,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -37201,7 +38580,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -37254,7 +38633,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -37303,7 +38682,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -37386,7 +38765,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -37440,7 +38819,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -37513,7 +38892,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -37583,7 +38962,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -37643,7 +39022,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -37705,7 +39084,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -37765,7 +39144,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -37866,7 +39245,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -37932,7 +39311,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -37979,19 +39358,18 @@
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 1,
    "lineages": [
     "lin:chan",
     "lin:rinzai"
    ],
    "schools": [
-    "lin:chan",
-    "lin:rinzai"
+    "lin:chan"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -38042,7 +39420,77 @@
     "ascetic",
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "obs:wind-disorder-from-practice",
+  "name": "Wind disorder from improper practice (rlung nad)",
+  "category": "dosa-imbalance",
+  "lineages": [
+   "lin:kagyu",
+   "lin:karma-kagyu",
+   "lin:drukpa-kagyu",
+   "lin:shangpa-kagyu"
+  ],
+  "description": "Forcing the breath and wind practices without the proper application, or without the guru's instruction, is taught to turn qualities into faults and to cause wind disorders.",
+  "sources": [
+   {
+    "source": "src:bka-dpe-phyi-ma",
+    "ref": "273b.3",
+    "rests_on": [
+     "tea:bka-dpe-phyi-ma:273b.3"
+    ]
+   }
+  ],
+  "equivalents": [
+   {
+    "target": "obs:improper-pranayama",
+    "grade": "analogous",
+    "note": "the haṭha warning that faulty breath control causes illness",
+    "rests_on": [
+     "tea:bka-dpe-phyi-ma:273b.3"
+    ]
+   }
+  ],
+  "antidotes": [
+   "prc:trulkhor",
+   "correct instruction from the guru"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 2,
+   "lineages": [
+    "lin:drukpa-kagyu",
+    "lin:kagyu",
+    "lin:karma-kagyu",
+    "lin:shangpa-kagyu"
+   ],
+   "schools": [
+    "lin:kagyu",
+    "lin:shangpa-kagyu"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -38106,7 +39554,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -38159,7 +39607,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -38215,7 +39663,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -38270,7 +39718,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -38340,7 +39788,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -38387,10 +39835,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of obs:yogakundali-ten-vighnas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -38411,7 +39875,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -38458,10 +39922,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of obs:yogatattva-twenty-dosas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The list is located in Yogatattva 12-13 and Yogaśikhā 1.10-11. Yogaśikhā 1.11 says 'sa jīvaḥ śiva ucyate', but Yogatattva 13 says 'sa jīvaḥ kevalo mataḥ', so 'called Śiva' fits the Yogaśikhā only. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -38482,7 +39962,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -38514,10 +39994,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of obs:yogatattva-vighnas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -38538,7 +40034,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -38613,7 +40109,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -38661,12 +40157,12 @@
     "lin:rinzai"
    ],
    "schools": [
-    "lin:rinzai"
+    "lin:chan"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  }
 ]

@@ -39,4 +39,4 @@ One is a brahmin or an outcaste not by birth but by deeds; all four classes can 
 _Notes: Related to dsp:women-caste-liberation (U50)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._

@@ -87,4 +87,4 @@ terms: [camatkāra](../terms/camatkara.md) · disputes: [Is there one rasa under
 _Notes: Wording and locator checked in Phase B against a local e-text in sources_raw/; still a skeleton entry (not fidelity-checked). (GRETIL kārikā text, ed. Satyavrata Simha 1992)._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._

@@ -22,4 +22,4 @@
 **Related:** [tathatā](tathata.md), [dharmatā](dharmata.md), [śūnyatā](sunyata.md)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U45-nyingma-bon, skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U41-yogacara-pramana, skeleton:U45-nyingma-bon, skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

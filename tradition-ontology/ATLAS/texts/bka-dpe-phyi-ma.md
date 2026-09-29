@@ -30,7 +30,7 @@ The great guru Nāropa recited the secret mantra of Cakrasaṃvara one hundred t
 
 _level: unmarked · standpoint: seeker · path: sound, ritual · stage: all · types: teacher-transmission, powers-experiences_
 
-practices: `prc:cakrasamvara-sadhana` · teachers: [Nāropa](../teachers/naropa.md), [Tilopa](../teachers/tilopa.md)
+practices: [Cakrasaṃvara practice](../practices/cakrasamvara-sadhana.md) · teachers: [Nāropa](../teachers/naropa.md), [Tilopa](../teachers/tilopa.md)
 
 ### 273a.5 <a id="tea-bka-dpe-phyi-ma-273a-5"></a>
 `skeleton` · confidence high
@@ -52,7 +52,7 @@ The key point of the body: straighten (the spine) like a plantain stem; cross (t
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: all · types: practice, body-layers_
 
-practices: `prc:seven-point-posture`
+practices: [The seven-point meditation posture](../practices/seven-point-posture.md)
 
 ### 273b.1 <a id="tea-bka-dpe-phyi-ma-273b-1"></a>
 `skeleton` · confidence high
@@ -63,16 +63,16 @@ The key point of time: the times when the breath shifts right and left, and the 
 
 _level: conventional · standpoint: seeker · path: body-breath, meditation · stage: intermediate · types: practice, teacher-transmission_
 
-concepts: [The guru in the minor Upaniṣads](../concepts/guru.md)
+concepts: [Guru devotion in the Kagyu](../concepts/guru-devotion.md)
 
 ### 273b.1/2 <a id="tea-bka-dpe-phyi-ma-273b-1-2"></a>
 `skeleton` · confidence high · _restricted: summary only_
 
-The key point of wind is fourfold; by the joining of breath and effort fire is kindled at the navel, burns the four wheels and opens the channels; touching the syllable at the crown it fills the channels with bodhicitta; one holds to the meaning of bliss and emptiness inseparable.
+The text gives the fourfold key point of wind and the kindling of inner heat, by which the drops melt and fill the channels, so that one holds to the meaning of bliss and emptiness inseparable.
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice, body-layers_
 
-terms: [caṇḍālī](../terms/candali.md), [prāṇa](../terms/prana.md), [bodhicitta](../terms/bodhicitta.md) · practices: `prc:tummo`
+terms: [caṇḍālī](../terms/candali.md), [prāṇa](../terms/prana.md), [bodhicitta](../terms/bodhicitta.md) · practices: [Inner heat (gtum mo, caṇḍālī)](../practices/tummo.md)
 
 ### 273b.3 <a id="tea-bka-dpe-phyi-ma-273b-3"></a>
 `skeleton` · confidence high
@@ -83,7 +83,7 @@ If one does not know the fourfold application, there is danger that qualities tu
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: practice, ethics_
 
-practices: `prc:tummo` · obstacles: `obs:wind-disorder-from-practice`
+practices: [Inner heat (gtum mo, caṇḍālī)](../practices/tummo.md) · obstacles: [Wind disorder from improper practice (rlung nad)](../obstacles/wind-disorder-from-practice.md)
 
 ### 273b.4 <a id="tea-bka-dpe-phyi-ma-273b-4"></a>
 `skeleton` · confidence high
@@ -94,7 +94,7 @@ The fruits that arise from it: first something like warmth, second like smoke, t
 
 _level: conventional · standpoint: experiential · path: body-breath · stage: advanced · types: powers-experiences_
 
-terms: [caṇḍālī](../terms/candali.md) · practices: `prc:tummo`
+terms: [caṇḍālī](../terms/candali.md) · practices: [Inner heat (gtum mo, caṇḍālī)](../practices/tummo.md)
 
 ### 273b.6 <a id="tea-bka-dpe-phyi-ma-273b-6"></a>
 `skeleton` · confidence high
@@ -116,7 +116,7 @@ Taking the illusory body as path: this appearance and all beings are here explai
 
 _level: conventional · standpoint: seeker · path: meditation, knowledge · stage: advanced · types: practice, ultimate_
 
-terms: [māyādeha](../terms/mayadeha.md) · concepts: [The similes of illusion](../concepts/twelve-similes-of-illusion.md) · practices: `prc:illusory-body-yoga`
+terms: [māyādeha](../terms/mayadeha.md) · concepts: [The similes of illusion](../concepts/twelve-similes-of-illusion.md) · practices: [Illusory body yoga (sgyu lus)](../practices/illusory-body-yoga.md)
 
 ### 274a.5 <a id="tea-bka-dpe-phyi-ma-274a-5"></a>
 `skeleton` · confidence high
@@ -127,7 +127,7 @@ The instruction on carrying dream onto the path: phenomena are like dreams, unbo
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-terms: [svapna](../terms/svapna.md), [lam khyer (carrying onto the path)](../terms/lamkhyer.md) · practices: [Dream yoga](../practices/dream-yoga.md)
+terms: [svapna](../terms/svapna.md), [lam khyer (carrying onto the path)](../terms/lamkhyer.md) · practices: [Dream yoga (rmi lam)](../practices/dream-yoga.md)
 
 ### 274b.1 <a id="tea-bka-dpe-phyi-ma-274b-1"></a>
 `skeleton` · confidence high
@@ -169,7 +169,7 @@ Taking the intermediate state as path has four points: first, recognizing the cl
 
 _level: bridging · standpoint: seeker · path: meditation · stage: advanced · types: death-dying, practice_
 
-terms: [antarābhava](../terms/antarabhava.md), [prabhāsvara](../terms/prabhasvara.md), [māyādeha](../terms/mayadeha.md), [yuganaddha](../terms/yuganaddha.md) · concepts: [The three intermediate states (Nāropa system)](../concepts/three-bardos-naropa.md), [The three appearances (appearance, increase, attainment)](../concepts/three-appearances.md) · practices: [Intermediate-state yoga](../practices/bardo-yoga.md), `prc:tummo`, `prc:illusory-body-yoga`, [Dream yoga](../practices/dream-yoga.md)
+terms: [antarābhava](../terms/antarabhava.md), [prabhāsvara](../terms/prabhasvara.md), [māyādeha](../terms/mayadeha.md), [yuganaddha](../terms/yuganaddha.md) · concepts: [The three intermediate states (Nāropa system)](../concepts/three-bardos-naropa.md), [The three appearances (appearance, increase, attainment)](../concepts/three-appearances.md) · practices: [Intermediate-state yoga (bar do)](../practices/bardo-yoga.md), [Inner heat (gtum mo, caṇḍālī)](../practices/tummo.md), [Illusory body yoga (sgyu lus)](../practices/illusory-body-yoga.md), [Dream yoga (rmi lam)](../practices/dream-yoga.md)
 
 ### 275a.4 <a id="tea-bka-dpe-phyi-ma-275a-4"></a>
 `skeleton` · confidence high
@@ -191,7 +191,7 @@ Rising from that clear light, the union is to be identified: while the clear-lig
 
 _level: bridging · standpoint: seeker · path: meditation · stage: advanced · types: death-dying, karma-liberation_
 
-terms: [yuganaddha](../terms/yuganaddha.md), [dharmakāya](../terms/dharmakaya.md), [sāṃbhogika-kāya](../terms/sambhogakaya.md), [nairmāṇika-kāya](../terms/nirmanakaya.md) · concepts: [The learner's and the non-learner's union](../concepts/learner-and-non-learner-union.md), [The three and four kāyas in the Kagyu](../concepts/four-kayas.md) · practices: [Intermediate-state yoga](../practices/bardo-yoga.md)
+terms: [yuganaddha](../terms/yuganaddha.md), [dharmakāya](../terms/dharmakaya.md), [sāṃbhogika-kāya](../terms/sambhogakaya.md), [nairmāṇika-kāya](../terms/nirmanakaya.md) · concepts: [The learner's and the non-learner's union](../concepts/learner-and-non-learner-union.md), [The three and four kāyas in the Kagyu](../concepts/four-kayas.md) · practices: [Intermediate-state yoga (bar do)](../practices/bardo-yoga.md)
 
 ### 275b.4 <a id="tea-bka-dpe-phyi-ma-275b-4"></a>
 `skeleton` · confidence high · _restricted: summary only_
@@ -200,7 +200,7 @@ Transference into another's dwelling (grong 'jug) is a special form of the gener
 
 _level: conventional · standpoint: seeker · path: body-breath · stage: advanced · types: death-dying, powers-experiences_
 
-terms: [grong 'jug (entering another's body)](../terms/trongjuk.md) · practices: `prc:trongjuk`
+terms: [grong 'jug (entering another's body)](../terms/trongjuk.md) · practices: [Entering another's body (grong 'jug)](../practices/trongjuk.md)
 
 ### 276a.1 <a id="tea-bka-dpe-phyi-ma-276a-1"></a>
 `skeleton` · confidence high · _restricted: summary only_
@@ -220,7 +220,7 @@ If one practises the holy guru's instruction like the flow of a river, it is sai
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: powers-experiences, practice_
 
-terms: [samaya](../terms/samaya.md) · concepts: [Powers and signs in the Kagyu (and the warnings)](../concepts/siddhis-kagyu.md) · obstacles: `obs:clinging-to-nyam`
+terms: [samaya](../terms/samaya.md) · concepts: [Powers and signs in the Kagyu (and the warnings)](../concepts/siddhis-kagyu.md) · obstacles: [Clinging to meditative experiences and visions](../obstacles/clinging-to-nyam.md)
 
 ### 276a.6 <a id="tea-bka-dpe-phyi-ma-276a-6"></a>
 `skeleton` · confidence high
@@ -237,4 +237,4 @@ concepts: [The seal of secrecy (bka' rgya)](../concepts/seal-of-secrecy.md)
 _Notes: Tōh 2332. Title rendering tentative; the text calls itself sealed three times (bka' rgya lan gsum)._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

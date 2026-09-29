@@ -16,4 +16,4 @@ Learning one's own Vedic recension by recitation from a teacher, as enjoined by 
 **Sequences:** [The Vedic course of dharma (Mīmāṃsā account)](../paths/mimamsa-vedic-dharma-life.md)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._

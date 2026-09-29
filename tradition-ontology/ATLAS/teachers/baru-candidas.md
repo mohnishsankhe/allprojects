@@ -11,4 +11,4 @@
 Bengali poet of the Śrīkṛṣṇakīrtana; the name 'Caṇḍīdās' is shared by several poets whose lyrics Caitanya loved and the Sahajiyās later claimed.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._

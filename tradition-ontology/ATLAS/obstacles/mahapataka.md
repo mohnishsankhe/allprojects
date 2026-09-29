@@ -18,4 +18,4 @@ Killing a brāhmaṇa, drinking liquor, theft of a brāhmaṇa's gold, violating
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/4_dharma/smrti/manu-smrti_plain_text.md (GRETIL, Kullūka vulgate numbering; M = Medhātithi numbering) — MDh 11.54 (Kullūka; 52 in Medhātithi) has 'brahmahatyā surāpānaṃ steyaṃ gurvaṅganāgamaḥ | mahānti pātakāny āhuḥ saṃsargaś cāpi taiḥ saha'. The five members, including association (tatsaṃsarga), match. This rests on the confirmed teaching check tea:manusmrti:11.54.
 
-_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga, skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

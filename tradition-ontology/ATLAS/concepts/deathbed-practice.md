@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [The last thought and resolve at death](last-thought.md) (seeker): analogous emphasis on the state of mind at death (BhG 8.5-6 and the Purāṇas / the ten recitations); the Pure Land relies on the Buddha's welcome, not on the thought alone — rests on [24b21-c04](../texts/guannian-famen.md#tea-guannian-famen-24b21-c04), [11b19-29](../texts/anle-ji.md#tea-anle-ji-11b19-29)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

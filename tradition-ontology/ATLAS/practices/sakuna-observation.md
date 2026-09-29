@@ -13,4 +13,4 @@ Before and during an undertaking one observes the cries, movements and direction
   - [Vasantarāja Śākuna](../texts/vasantaraja-sakuna.md) — ref: passim
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._

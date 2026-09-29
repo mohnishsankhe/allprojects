@@ -10,4 +10,4 @@
 Poet of the Madurai academy in tradition; author of the Tirumurukāṟṟuppaṭai (Tirumuṟai 11). The Tiruviḷaiyāṭal story tells of his dispute with Śiva over a poem.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._

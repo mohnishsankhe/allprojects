@@ -12,4 +12,4 @@ Vāta increases by the repeated use of dry, light, cold, rough and clear things,
   - [Suśruta Saṃhitā](../texts/susruta-samhita.md) — ref: Sū 15, 21; rests_on: ["tea:caraka-samhita:su.12.8", "tea:susruta-samhita:su.21.18-36", "tea:susruta-samhita:su.15.3-4"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

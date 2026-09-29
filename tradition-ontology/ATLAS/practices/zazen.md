@@ -3,7 +3,7 @@
 `prc:zazen` · `skeleton` · confidence high
 
 **Category:** meditation
-**Convergence:** 6 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md), [Ōbaku Zen](../lineages/obaku.md), [Rinzai Zen](../lineages/rinzai.md), [Seon (Korean Chan)](../lineages/seon.md), [Sōtō Zen](../lineages/soto.md), [Zen (Japanese Chan)](../lineages/zen.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [Chan (Chinese Meditation school)](../lineages/chan.md), [Ōbaku Zen](../lineages/obaku.md), [Rinzai Zen](../lineages/rinzai.md), [Seon (Korean Chan)](../lineages/seon.md), [Sōtō Zen](../lineages/soto.md), [Zen (Japanese Chan)](../lineages/zen.md)
 
 Sitting upright in full or half lotus on a cushion, hands in the cosmic mudrā (left on right, thumbs touching), eyes half-open, breathing naturally through the nose, letting go of involvements; in the Platform Sūtra's redefinition, 'sitting' is thoughts not arising toward objects and 'meditation' is seeing the unmoving self-nature. In Sōtō it is just sitting; in Rinzai the seat of kōan work.
@@ -22,4 +22,4 @@ Sitting upright in full or half lotus on a cushion, hands in the cosmic mudrā (
 - partial: [Samādhi as the eighth limb](samadhi.md) — Chan redefines seated meditation so as not to be a pursuit of absorption states.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

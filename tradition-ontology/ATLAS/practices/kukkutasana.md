@@ -15,4 +15,4 @@ From padmāsana the hands are inserted between the knees and thighs, planted on 
   - [Triśikhibrāhmaṇa Upaniṣad](../texts/trisikhibrahmana-upanisad.md) — ref: 34-52; rests_on: ["tea:trisikhibrahmana-upanisad:34-52"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:45 IST._

@@ -21,4 +21,4 @@
 - is-a → [Liberation (mokṣa) in Dvaita](moksa.md): Sāṃkhya's account of liberation — rests on [68](../texts/samkhya-karika.md#tea-samkhya-karika-68)
 
 ---
-_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U14-visistadvaita, skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U09-samkhya, skeleton:U10-yoga, skeleton:U14-visistadvaita, skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._

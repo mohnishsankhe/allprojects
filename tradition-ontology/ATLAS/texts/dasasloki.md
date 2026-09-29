@@ -113,4 +113,4 @@ terms: [arthapañcaka](../terms/arthapancaka.md) · concepts: [The five things t
 
 
 ---
-_Contributed by: skeleton:U16-bhedabheda, skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U16-bhedabheda, skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._

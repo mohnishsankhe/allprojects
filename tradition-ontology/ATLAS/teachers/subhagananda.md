@@ -12,4 +12,4 @@
 Author of the Manoramā commentary on the Tantrarāja up to paṭala 22; styled in its colophons 'Prapañcasāra-siṃharāja-prakāśa'.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._

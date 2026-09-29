@@ -16,4 +16,4 @@
 _Notes: Id disambiguated from the Sāṃkhya school ('sāṃkhya' → samkhya)._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._

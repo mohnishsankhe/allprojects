@@ -31,4 +31,4 @@ concepts: [Seeing the Buddha (jianfo) in samādhi, dream or at death](../concept
 _Notes: T45 not local; recalled (moderate)._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

@@ -78,7 +78,7 @@ Mahāmati asks whether the tathāgatagarbha — described as luminous, pure, wit
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: all · types: ultimate, dispute_
 
-terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [ātman](../terms/atman.md), [nairātmya](../terms/nairatmya.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md), [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), `dsp:rangtong-shentong`, [Is there a self?](../debates/is-there-a-self.md)
+terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [ātman](../terms/atman.md), [nairātmya](../terms/nairatmya.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md), [Buddha-nature called 'self'](../concepts/tathagatagarbha-as-self.md) · teachers: [Mahāmati](../teachers/mahamati.md), [Gotama Buddha](../teachers/gotama-buddha.md) · disputes: [Is buddha-nature a true self (permanent, blissful, pure, not empty of qualities) or another name for emptiness?](../debates/buddha-nature-self-or-emptiness.md), [Empty of self, or empty of other?](../debates/rangtong-shentong.md), [Is there a self?](../debates/is-there-a-self.md)
 
 ### 2.p41 <a id="tea-lankavatara-sutra-2-p41"></a>
 `skeleton` · confidence high
@@ -157,4 +157,4 @@ concepts: [The four yogic stages (Laṅkāvatāra)](../concepts/four-yogic-stage
 _Notes: Locator: chapter.pPAGE (Vaidya's page). Chapter colophons and cited passages read in the local e-text._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

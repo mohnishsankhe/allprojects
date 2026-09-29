@@ -1,6 +1,6 @@
 # Ajapā-japa (the haṃsa / so'ham breath-mantra)
 
-`prc:ajapa-japa` · `skeleton` · confidence high
+`prc:ajapa-japa` · `sourced` · confidence high
 
 **Category:** mantra-sound
 **Convergence:** 8 independent lineage(s): [Dādū Panth](../lineages/dadu-panth.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Kashmir Śaivism (non-dual Śaiva tantra of Kashmir)](../lineages/kashmir-saivism.md), [Kaula (the Kula tradition)](../lineages/kaula.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Sant tradition (nirguṇa bhakti of North India)](../lineages/sant.md), [Trika ('the Triad')](../lineages/trika.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -25,4 +25,8 @@ Awareness of the breath's natural sound — 'ha' out, 'sa' in, 21,600 times a da
 _Notes: U04 files this under category 'mantra-sound'; it is both a breath and a sound practice. The number 21,600 is the texts' doctrinal count of daily breaths, not a practice count._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora, skeleton:U29-hatha-practices, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:3-hamsa-mantra (corrected); tea:mahavakya-upanisad:3-4 (corrected).
+
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora, skeleton:U29-hatha-practices, skeleton:U19-kashmir-saivism, skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._

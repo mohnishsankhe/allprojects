@@ -19,4 +19,4 @@ _Notes: Seer attributions follow the Sarvānukramaṇī as printed in the hymn h
 
 - 2026-09-28 text-locate+websearch: confirmed — text:sources_raw/DharmicData/Rigveda/rigveda_mandala_1.json (Anukramaṇī seer/deity/metre headers), https://en.wikipedia.org/wiki/Dirghatamas, https://www.wisdomlib.org/hinduism/book/brihaddevata-attributed-to-shaunaka/d/doc1621778.html — Headers: 'dīrghatamā aucathyaḥ' for 1.140–164. Born blind, son of Mamatā and Ucathya, father of Kakṣīvant — confirmed by web sources (Bṛhaddevatā story; Mahābhārata Ādi-parvan).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._

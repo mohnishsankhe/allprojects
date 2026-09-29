@@ -17,4 +17,4 @@ Author of the Tirukkuṟaḷ. His affiliation is contested (Jain, Śaiva, Vaiṣ
 _Notes: lineages records the traditions that have claimed him, not an established affiliation._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:45 IST._

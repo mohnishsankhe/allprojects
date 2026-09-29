@@ -14,4 +14,4 @@ Disciple of Gampopa (after studying Madhyamaka and logic with Kadam teachers), f
 **Realization — the tradition's account:** He attained realization at fifty; the ḍākinīs are said to have woven a crown from their hair and offered it to him — the origin of the Karmapa's black crown.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

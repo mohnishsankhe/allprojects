@@ -11,4 +11,4 @@
 Sakya scholar, founder of Nalendra monastery (1436), author of commentaries on the Maitreya texts and Madhyamaka; teacher of Gorampa and Shākya Chokden.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

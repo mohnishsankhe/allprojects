@@ -16,4 +16,4 @@ Kashmiri Naiyāyika, author of the Nyāyamañjarī, the Nyāyakalikā and the dr
 _Notes: His son is usually identified as the poet Abhinanda (moderate confidence)._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._

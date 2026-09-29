@@ -9,4 +9,4 @@
 A son (in some accounts a grandson) of Machig Labdrön, holder of the family lineage of Chöd.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

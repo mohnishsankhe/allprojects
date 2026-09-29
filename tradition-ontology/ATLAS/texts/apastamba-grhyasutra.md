@@ -18,4 +18,4 @@ The domestic-rite manual of the Āpastamba Taittirīyas (praśna 27 of the Kalpa
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Āpastambagṛhyasūtra, catalog:GRETIL-dev:apastamba-grhyasutra_with_2_chommentaries, https://hindupedia.com/en/Apastamba — Extant; praśna 27 of the Kalpasūtra (Hindupedia).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._

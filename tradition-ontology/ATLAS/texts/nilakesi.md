@@ -45,4 +45,4 @@ disputes: [Is there a self?](../debates/is-there-a-self.md), [Is release won by 
 _Notes: Vāmaṉa Muṉivar's commentary Samayadivākaram (14th c.) is the classic gloss._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._

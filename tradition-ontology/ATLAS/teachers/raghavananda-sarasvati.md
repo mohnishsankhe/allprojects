@@ -10,4 +10,4 @@
 Author of the Pātañjalarahasya, a gloss on Vācaspati's Tattvavaiśāradī.
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:45 IST._

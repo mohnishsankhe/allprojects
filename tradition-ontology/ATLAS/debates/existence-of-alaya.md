@@ -39,4 +39,4 @@ The ālaya was taught with an intention, for those who need it; it is not ultima
 **Candidate readings:** P5-neyartha: Prāsaṅgika reads the ālaya teaching as provisional; Yogācāra reads it as definitive — the disagreement is about which teaching is provisional.; P2-standpoint: the ālaya answers the question of continuity from the standpoint of the series (santāna); the Sautrāntika seed-in-series may describe the same continuity without reifying a separate consciousness.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._

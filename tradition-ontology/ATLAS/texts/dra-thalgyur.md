@@ -26,4 +26,4 @@ concepts: [Ground-appearances and how delusion arises](../concepts/ground-appear
 _Notes: Not local. Membership of the Seventeen from memory; content summary minimal._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

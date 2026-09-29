@@ -28,4 +28,4 @@ teachers: [Pema Karpo (the fourth Gyalwang Drukpa)](../teachers/pema-karpo.md)
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

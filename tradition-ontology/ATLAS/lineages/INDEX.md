@@ -1,6 +1,6 @@
-# Lineages (322)
+# Lineages (323)
 
-skeleton: 293 · sourced: 29
+skeleton: 293 · sourced: 30
 
 - [Abhayagiri fraternity (Abhayagiri-vāsins)](abhayagiri.md) — `skeleton`
 - [Adhyātma movement (Adhyātma-mata)](adhyatma-jain.md) — `skeleton`
@@ -215,7 +215,7 @@ skeleton: 293 · sourced: 29
 - [Satyākāravāda (True-Aspect Yogācāra)](satyakaravada.md) — `skeleton`
 - [Sautrāntika](sautrantika.md) — `skeleton`
 - [Saṃmitīya](sammitiya.md) — `skeleton`
-- [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](sannyasa.md) — `skeleton`
+- [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](sannyasa.md) — `sourced`
 - [Saṅgītaśāstra (the science of music: song, instrument and dance)](sangita.md) — `skeleton`
 - [Seon (Korean Chan)](seon.md) — `skeleton`
 - [Shangpa Kagyu](shangpa-kagyu.md) — `skeleton`
@@ -239,6 +239,7 @@ skeleton: 293 · sourced: 29
 - [Taklung Kagyu](taklung-kagyu.md) — `skeleton`
 - [Tamil Jain tradition](tamil-jain.md) — `skeleton`
 - [Tamil Śaiva Siddhānta (the Meykaṇṭa school)](tamil-saiva-siddhanta.md) — `skeleton`
+- [Tantra as a movement across the traditions (Tantraśāstra; the Mantramārga / Mantranaya current)](tantra-movement.md) — `skeleton`
 - [Tapā Gaccha](tapa-gaccha.md) — `skeleton`
 - [Tathāgatagarbha (Buddha-nature) tradition](tathagatagarbha.md) — `skeleton`
 - [Terāpantha (Digambara)](terapantha-digambara.md) — `skeleton`

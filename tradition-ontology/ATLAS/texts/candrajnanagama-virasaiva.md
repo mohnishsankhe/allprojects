@@ -15,4 +15,4 @@ The Vīraśaiva recension of the Candrajñāna Āgama (kriyā- and caryā-pāda)
 _Notes: Distinct from the Śaiva Siddhānta transmission of the Candrajñāna (U08)._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:45 IST._

@@ -16,4 +16,4 @@ Placing the mātṛkā letters on the limbs and repeating a mantra (DYŚ 11); th
 - Mantrayoga is the lowest yoga, for the dull; mantra-sādhana is listed among the obstacles at the start of practice. — [Dattātreyayogaśāstra](../texts/dattatreyayogasastra.md) 13; 47
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._

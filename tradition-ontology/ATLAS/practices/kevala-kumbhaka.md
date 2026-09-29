@@ -1,6 +1,6 @@
 # Kevala-kumbhaka (retention alone)
 
-`prc:kevala-kumbhaka` · `skeleton` · confidence high · _restricted: summary only_
+`prc:kevala-kumbhaka` · `sourced` · confidence high · _restricted: summary only_
 
 **Category:** breath
 **Convergence:** 2 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -32,4 +32,8 @@ RESTRICTED — summary only: the easy holding of the breath free of inhalation a
 - analogous: [The fourth prāṇāyāma (2.51)](caturtha-pranayama.md) — Both are a suspension of breath beyond the phases of inhalation and exhalation; the Yoga Sūtra's 'fourth' is defined by going beyond the outer and inner spheres, the haṭha kevala by the absence of inhalation and exhalation. The texts do not themselves identify them.
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text. Restricted practice: the entry stays summary-only, as required, with no counts or procedures.
+
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

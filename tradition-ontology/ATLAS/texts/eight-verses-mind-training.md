@@ -27,7 +27,7 @@ Determined to achieve the highest good for all beings, who surpass even a wish-f
 
 _level: conventional · standpoint: seeker · path: meditation, action · stage: all · types: practice, ethics_
 
-terms: [blo sbyong](../terms/lojong.md) · concepts: [The kindness of all beings](../concepts/kindness-of-beings.md) · practices: `prc:lojong` · teachers: [Langri Tangpa Dorje Senge](../teachers/langri-tangpa.md)
+terms: [blo sbyong](../terms/lojong.md) · concepts: [The kindness of all beings](../concepts/kindness-of-beings.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Langri Tangpa Dorje Senge](../teachers/langri-tangpa.md)
 
 ### 2 <a id="tea-eight-verses-mind-training-2"></a>
 `skeleton` · confidence high
@@ -36,7 +36,7 @@ Whenever I am with others, may I see myself as the lowest of all and from the de
 
 _level: conventional · standpoint: seeker · path: meditation, action · stage: all · types: practice, ethics_
 
-terms: [blo sbyong](../terms/lojong.md) · practices: `prc:lojong` · obstacles: [Self-cherishing (desiring one's own happiness)](../obstacles/self-cherishing.md) · teachers: [Langri Tangpa Dorje Senge](../teachers/langri-tangpa.md)
+terms: [blo sbyong](../terms/lojong.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · obstacles: [Self-cherishing](../obstacles/self-cherishing.md) · teachers: [Langri Tangpa Dorje Senge](../teachers/langri-tangpa.md)
 
 ### 3 <a id="tea-eight-verses-mind-training-3"></a>
 `skeleton` · confidence high
@@ -45,7 +45,7 @@ In all my actions may I examine my mind, and as soon as an affliction arises —
 
 _level: conventional · standpoint: seeker · path: meditation, action · stage: all · types: practice, ethics_
 
-terms: [blo sbyong](../terms/lojong.md) · concepts: [The precepts of mind training](../concepts/lojong-precepts.md) · practices: `prc:lojong` · teachers: [Langri Tangpa Dorje Senge](../teachers/langri-tangpa.md)
+terms: [blo sbyong](../terms/lojong.md) · concepts: [The precepts of mind training](../concepts/lojong-precepts.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Langri Tangpa Dorje Senge](../teachers/langri-tangpa.md)
 
 ### 4 <a id="tea-eight-verses-mind-training-4"></a>
 `skeleton` · confidence high
@@ -54,7 +54,7 @@ When I see beings of bad nature, oppressed by strong wrongdoing and suffering, m
 
 _level: conventional · standpoint: seeker · path: meditation, action · stage: all · types: practice, ethics_
 
-terms: [blo sbyong](../terms/lojong.md) · practices: `prc:lojong` · teachers: [Langri Tangpa Dorje Senge](../teachers/langri-tangpa.md)
+terms: [blo sbyong](../terms/lojong.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Langri Tangpa Dorje Senge](../teachers/langri-tangpa.md)
 
 ### 5 <a id="tea-eight-verses-mind-training-5"></a>
 `skeleton` · confidence high
@@ -63,7 +63,7 @@ When others out of envy treat me wrongly with abuse, slander and the like, may I
 
 _level: conventional · standpoint: seeker · path: meditation, action · stage: all · types: practice, ethics_
 
-terms: [blo sbyong](../terms/lojong.md) · concepts: [Taking adversity as the path](../concepts/taking-adversity-as-path.md) · practices: `prc:lojong` · obstacles: [Self-cherishing (desiring one's own happiness)](../obstacles/self-cherishing.md) · teachers: [Langri Tangpa Dorje Senge](../teachers/langri-tangpa.md)
+terms: [blo sbyong](../terms/lojong.md) · concepts: [Taking adversity as the path](../concepts/taking-adversity-as-path.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · obstacles: [Self-cherishing](../obstacles/self-cherishing.md) · teachers: [Langri Tangpa Dorje Senge](../teachers/langri-tangpa.md)
 
 ### 6 <a id="tea-eight-verses-mind-training-6"></a>
 `skeleton` · confidence high
@@ -72,7 +72,7 @@ When someone I have helped with great hope harms me very badly, may I see that p
 
 _level: conventional · standpoint: seeker · path: meditation, action · stage: all · types: practice, ethics_
 
-terms: [blo sbyong](../terms/lojong.md) · concepts: [Taking adversity as the path](../concepts/taking-adversity-as-path.md) · practices: `prc:lojong` · teachers: [Langri Tangpa Dorje Senge](../teachers/langri-tangpa.md)
+terms: [blo sbyong](../terms/lojong.md) · concepts: [Taking adversity as the path](../concepts/taking-adversity-as-path.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Langri Tangpa Dorje Senge](../teachers/langri-tangpa.md)
 
 ### 7 <a id="tea-eight-verses-mind-training-7"></a>
 `skeleton` · confidence high
@@ -81,7 +81,7 @@ In short, may I offer, directly and indirectly, all help and happiness to all my
 
 _level: conventional · standpoint: seeker · path: meditation, action · stage: all · types: practice, ethics_
 
-terms: [blo sbyong](../terms/lojong.md), [gtong len](../terms/tonglen.md) · concepts: [Exchanging self and other](../concepts/exchanging-self-and-other.md) · practices: `prc:lojong`, `prc:tonglen` · teachers: [Langri Tangpa Dorje Senge](../teachers/langri-tangpa.md)
+terms: [blo sbyong](../terms/lojong.md), [gtong len](../terms/tonglen.md) · concepts: [Exchanging self and other](../concepts/exchanging-self-and-other.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md), [Sending and taking (gtong len)](../practices/tonglen.md) · teachers: [Langri Tangpa Dorje Senge](../teachers/langri-tangpa.md)
 
 ### 8 <a id="tea-eight-verses-mind-training-8"></a>
 `skeleton` · confidence high
@@ -90,10 +90,10 @@ May all this remain undefiled by the stains of the eight worldly concerns, and, 
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: all · types: practice, ultimate_
 
-terms: [blo sbyong](../terms/lojong.md) · concepts: [The similes of illusion, dream and mirage](../concepts/illusion-similes.md) · practices: `prc:lojong` · obstacles: [The eight worldly concerns](../obstacles/eight-worldly-concerns.md) · teachers: [Langri Tangpa Dorje Senge](../teachers/langri-tangpa.md)
+terms: [blo sbyong](../terms/lojong.md) · concepts: [The similes of illusion, dream and mirage](../concepts/illusion-similes.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · obstacles: [The eight worldly concerns](../obstacles/eight-worldly-concerns.md) · teachers: [Langri Tangpa Dorje Senge](../teachers/langri-tangpa.md)
 
 
 _Notes: Not local; recalled._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

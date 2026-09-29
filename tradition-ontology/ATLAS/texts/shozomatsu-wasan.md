@@ -38,4 +38,4 @@ terms: [mofa](../terms/mofa.md), [zhengfa](../terms/zhengfa.md), [xiangfa](../te
 _Notes: The three are together called the Sanjō wasan._
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

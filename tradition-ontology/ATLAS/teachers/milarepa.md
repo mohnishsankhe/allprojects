@@ -18,4 +18,4 @@ The great yogin-poet of Tibet: after using sorcery to avenge his family he turne
 _Notes: Details of the life are from Tsangnyön Heruka's 1488 version; earlier lives differ in details._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

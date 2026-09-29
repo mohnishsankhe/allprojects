@@ -122,7 +122,7 @@ Guru yoga, the ultimate method for arousing wisdom: visualizing the guru as Padm
 
 _level: conventional · standpoint: devotional · path: devotion · stage: all · types: practice, teacher-transmission_
 
-concepts: [The four empowerments](../concepts/four-empowerments-nyingma.md) · practices: [Guru yoga (bla ma'i rnal 'byor)](../practices/guru-yoga.md), [The Vajra Guru mantra](../practices/vajra-guru-mantra.md) · teachers: [Patrul Rinpoche (dpal sprul o rgyan 'jigs med chos kyi dbang po)](../teachers/patrul-rinpoche.md), [Jigme Gyalwai Nyugu ('jigs med rgyal ba'i myu gu)](../teachers/jigme-gyalwai-nyugu.md)
+concepts: [The four empowerments](../concepts/four-empowerments-nyingma.md) · practices: [Guru yoga](../practices/guru-yoga.md), [The Vajra Guru mantra](../practices/vajra-guru-mantra.md) · teachers: [Patrul Rinpoche (dpal sprul o rgyan 'jigs med chos kyi dbang po)](../teachers/patrul-rinpoche.md), [Jigme Gyalwai Nyugu ('jigs med rgyal ba'i myu gu)](../teachers/jigme-gyalwai-nyugu.md)
 
 ### 3 <a id="tea-kunzang-lamai-shelung-3"></a>
 `skeleton` · confidence high · _recent (post-1800)_ · _restricted: summary only_
@@ -144,4 +144,4 @@ obstacles: [The three defects of the vessel (snod kyi skyon gsum)](../obstacles/
 
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

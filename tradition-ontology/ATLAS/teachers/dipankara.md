@@ -9,4 +9,4 @@
 The buddha of the distant past who predicted the future buddhahood of Śākyamuni (then the brahmin youth Sumedha / Megha); the Vajracchedikā says the Tathāgata received no dharma from him.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._

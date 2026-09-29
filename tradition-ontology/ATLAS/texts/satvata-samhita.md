@@ -20,4 +20,4 @@ One of the 'three gems' (ratnatraya) of the Pāñcarātra, regarded as among the
 _Notes: Do not confuse with src:satvata-tantra (a later text on Kṛṣṇa devotion). Chapter count and editions to be confirmed in Phase C._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._

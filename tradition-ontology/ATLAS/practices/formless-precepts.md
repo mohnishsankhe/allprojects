@@ -12,4 +12,4 @@ Huineng's ceremony at the Dafan temple: the formless repentance, the four great 
   - [Platform Sūtra of the Sixth Patriarch (Liuzu tanjing)](../texts/platform-sutra.md) — ref: 9.4; rests_on: ["tea:platform-sutra:9.4", "tea:platform-sutra:9.5"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

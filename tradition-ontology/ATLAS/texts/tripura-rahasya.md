@@ -47,4 +47,4 @@ concepts: [Marks of the jīvanmukta](../concepts/jivanmukta-marks.md) · teacher
 _Notes: Its non-dualism of self-aware consciousness is closer to Śākta/Pratyabhijñā thought than to Śaṅkara's; placed under Advaita by the registry and by modern Advaita use (e.g. Ramaṇa's circle)._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._

@@ -1,6 +1,6 @@
 # Śāmbhavī mudrā (Śambhu's seal)
 
-`prc:sambhavi-mudra` · `skeleton` · confidence high
+`prc:sambhavi-mudra` · `sourced` · confidence high
 
 **Category:** sense-withdrawal-concentration
 **Convergence:** 3 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -30,4 +30,8 @@ The inner target held while the gaze is outward and unblinking — looking yet n
 - exact: [Vaiṣṇavī mudrā](vaisnavi-mudra.md) — Śāṇḍilya Up. 1.31 defines vaiṣṇavī mudrā in the very terms by which HYP 4.36 defines śāmbhavī (inner target, outward unblinking gaze).
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._

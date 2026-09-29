@@ -43,4 +43,4 @@ terms: [sautrāntika](../terms/sautrantika.md), [vaibhāṣika](../terms/vaibhas
 
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

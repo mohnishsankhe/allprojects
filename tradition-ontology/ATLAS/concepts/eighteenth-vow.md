@@ -17,4 +17,4 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

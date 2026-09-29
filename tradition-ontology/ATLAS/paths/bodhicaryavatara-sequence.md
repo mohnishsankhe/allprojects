@@ -22,4 +22,4 @@
 A sequence of practice chapters rather than a staged map of attainment; the dedication chapter is left unbanded.
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

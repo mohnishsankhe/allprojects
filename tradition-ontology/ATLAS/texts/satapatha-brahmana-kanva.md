@@ -21,4 +21,4 @@ _Notes: Only partly edited in print for a long time; the Kāṇva BĀU is widely
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Shatapatha_Brahmana, https://en.wikipedia.org/wiki/Brahmana — Wikipedia confirms the Kāṇva recension of 17 books and 104 adhyāyas (6,806 kaṇḍikās), as the entry says. Śaṅkara's BĀU commentary follows the Kāṇva text (standard, not re-checked here).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._

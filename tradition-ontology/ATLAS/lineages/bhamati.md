@@ -50,4 +50,4 @@ _none recorded_
 [Is there one jīva or are there many?](../debates/eka-jiva-aneka-jiva.md), [How does the one Brahman appear as many jīvas (and as Īśvara): by limitation, reflection or semblance?](../debates/how-the-one-appears-as-many.md), [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](../debates/jnana-karma-samuccaya.md), [Where does ignorance (avidyā) reside — in the individual self (jīva) or in Brahman?](../debates/locus-of-avidya.md), [Does the hearing of the Upaniṣadic sentence itself produce immediate knowledge (so that hearing is the principal means), or does the mind perfected by contemplation produce it?](../debates/sravana-alone-liberates.md)
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._

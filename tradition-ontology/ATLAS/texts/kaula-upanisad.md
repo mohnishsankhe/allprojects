@@ -1,6 +1,6 @@
 # Kaula Upaniṣad
 
-`src:kaula-upanisad` · `skeleton` · confidence low
+`src:kaula-upanisad` · `sourced` · confidence low
 
 **Alternate titles:** Kaulopaniṣad
 **Language:** Sanskrit
@@ -57,4 +57,8 @@ concepts: [Liberation while living (jīvanmukti)](../concepts/jivanmukti.md)
 
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — catalog:eBharati:kaula_anyopaniShat_cha_ekAdasho_bhAgaH, catalog:eBharati:kaulopaniShat, catalog:Muktabodha:kaulopaniShad__M00028, https://archive.org/details/kaulaotherupanis11sitauoft — The edition is confirmed locally: eBhāratī's copy of Tantrik Texts vol. XI (1922, ed. Sītārāma Śāstrī; introduction signed Arthur Avalon, 23 July 1922) prints the Kaulopaniṣad with Bhāskararāya's commentary, and archive.org lists the same volume.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

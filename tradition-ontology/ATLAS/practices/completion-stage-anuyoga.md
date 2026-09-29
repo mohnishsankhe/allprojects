@@ -13,4 +13,4 @@ Work with the channels, winds and essences to bring the winds into the central c
 - Taught only after empowerment and under guidance; improper practice disturbs the winds.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

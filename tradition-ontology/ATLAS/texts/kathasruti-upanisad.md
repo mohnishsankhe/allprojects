@@ -1,6 +1,6 @@
 # Kaṭhaśruti Upaniṣad
 
-`src:kathasruti-upanisad` · `skeleton` · confidence moderate
+`src:kathasruti-upanisad` · `sourced` · confidence moderate
 
 **Alternate titles:** Kaṭhaśrutyupaniṣad
 **Language:** Sanskrit
@@ -15,4 +15,8 @@ An older Saṃnyāsa Upaniṣad of the northern lists, on the renunciation rite 
 _Notes: Not the Kaṭharudra (src:katharudra-upanisad), despite similar names in some lists._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: confirmed — catalog:eBharati:kaThashrutyupaniShat, https://en.wikipedia.org/wiki/Sannyasa_Upanishads, https://archive.org/details/in.ernet.dli.2015.283511 — An eBhāratī e-text exists locally. Wikipedia confirms that the first chapter of the (southern) Saṃnyāsa Upaniṣad is identical to the first chapter of the ancient Kaṭhaśruti, and that Olivelle counts it among the older Saṃnyāsa Upaniṣads. It is one of Schrader's twenty (1912), which could be added as an edition. It is not in the 120-Upaniṣad e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

@@ -1,6 +1,6 @@
 # Purification of the channels (nāḍī-śodhana, nāḍī-śuddhi)
 
-`prc:nadi-sodhana` · `skeleton` · confidence high
+`prc:nadi-sodhana` · `sourced` · confidence high
 
 **Category:** breath
 **Convergence:** 3 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -34,4 +34,8 @@ Alternate-nostril breathing with retention: inhaling through the moon (left) nos
 - Breath must be tamed gradually, like a lion, elephant or tiger; otherwise it kills the practitioner; improper practice causes hiccup, asthma, cough and pains of head, ears and eyes. — [Yogacūḍāmaṇi Upaniṣad](../texts/yogacudamani-upanisad.md) 116-118
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 6 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

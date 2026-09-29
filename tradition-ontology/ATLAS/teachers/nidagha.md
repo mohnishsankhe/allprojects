@@ -1,6 +1,6 @@
 # Nidāgha
 
-`tch:nidagha` · `skeleton` · confidence moderate
+`tch:nidagha` · `sourced` · confidence moderate
 
 **Lineages:** [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Advaita Vedānta](../lineages/advaita-vedanta.md), [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md), [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md)
 **Historicity:** legendary
@@ -9,4 +9,8 @@
 Disciple of Ṛbhu in the Varāha, Tejobindu, Mahā and Annapūrṇā Upaniṣads; asks about the seven stages (bhūmikā) and about yoga; named among the paramahaṃsas and among rudrākṣa-wearing sages.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Text-located: the name occurs in the e-text of varaha, tejobindu, maha, annapurna, rudraksajabala, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.
+
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

@@ -1,6 +1,6 @@
 # Jīvanmuktiviveka
 
-`src:jivanmuktiviveka` · `skeleton` · confidence high
+`src:jivanmuktiviveka` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -53,4 +53,8 @@ concepts: [The five purposes of jīvanmukti](../concepts/five-purposes-of-jivanm
 
 
 ---
-_Contributed by: skeleton:U13-advaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 websearch: confirmed — https://www.wisdomlib.org/definition/jivanmuktiviveka, https://www.celextel.org/articles-and-summary/jivanmukti-viveka-summary/ — Vidyāraṇya's Jīvanmuktiviveka is confirmed. Its five chapters treat vividiṣā- and vidvat-saṃnyāsa, and tattvajñāna, vāsanākṣaya and manonāśa as the means. The entry has no authors field; tch:vidyaranya could be added.
+
+_Contributed by: skeleton:U13-advaita, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

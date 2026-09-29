@@ -3,7 +3,7 @@
 `obs:deathbed-confusion` · `skeleton` · confidence high
 
 **Category:** obstacle
-**Convergence:** 2 independent lineage(s): [Jōdo-shū (the Pure Land school of Hōnen)](../lineages/jodo-shu.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md)
+**Convergence:** 1 independent lineage(s): [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md)
 **Taught in:** [Jōdo-shū (the Pure Land school of Hōnen)](../lineages/jodo-shu.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md)
 
 The pains of death ('the wind-knife') scatter the unpractised mind; the presence of those who have taken wine or meat brings loss of right mindfulness and deranged death.
@@ -13,4 +13,4 @@ The pains of death ('the wind-knife') scatter the unpractised mind; the presence
   - [The Dharma Gate of the Merits of the Samādhi of Contemplating the Ocean-like Marks of Amitābha](../texts/guannian-famen.md) — ref: 24b29-c02; rests_on: ["tea:guannian-famen:24b21-c04"]
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

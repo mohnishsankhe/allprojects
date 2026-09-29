@@ -34,4 +34,4 @@ _none recorded_
 _Notes: Names and number of the families, and their commentaries, not recorded here (uncertain); see REPORT gaps._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

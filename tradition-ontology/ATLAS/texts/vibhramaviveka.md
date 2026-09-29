@@ -14,4 +14,4 @@
 Maṇḍana Miśra's short treatise examining the rival accounts of perceptual error (the khyāti theories) and defending the view that error apprehends a thing as other than it is.
 
 ---
-_Contributed by: skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._

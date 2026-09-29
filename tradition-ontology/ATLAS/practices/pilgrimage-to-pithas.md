@@ -16,4 +16,4 @@ Walking to the twenty-four sites while reciting mantra (Jogipa, sent by Śavarip
 - I have seen no holy place equal to the body. — [Dohākoṣa of Saraha (the 'People Dohā')](../texts/dohakosa-saraha.md) v59
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._

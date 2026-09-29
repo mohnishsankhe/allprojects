@@ -15,4 +15,4 @@
 _Notes: Classical textual basis not located; recorded as current practice._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._

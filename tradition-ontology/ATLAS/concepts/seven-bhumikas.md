@@ -1,6 +1,6 @@
 # The seven stages of knowledge (jñāna-bhūmikā)
 
-`cpt:seven-bhumikas` · `skeleton` · confidence high
+`cpt:seven-bhumikas` · `sourced` · confidence high
 
 **Category:** stages-maps
 **Members:** śubhecchā, vicāraṇā, tanumānasī, sattvāpatti, asaṃsakti, padārthabhāvanā, turyagā
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 5 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:varaha-upanisad:4.2-3-pranava-mapping (corrected).
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

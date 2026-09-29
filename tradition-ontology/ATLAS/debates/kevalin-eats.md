@@ -70,4 +70,4 @@ No: eating presupposes desire and the working of delusion, which the omniscient 
 _Notes: The unit brief fixes this id; U35 references the same debate as dsp:kevali-bhukti (to be deduplicated at merge)._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._

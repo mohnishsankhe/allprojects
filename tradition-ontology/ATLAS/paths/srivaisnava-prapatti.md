@@ -22,4 +22,4 @@
 Assembled from Deśika's and Piḷḷai Lokācārya's works; the two schools differ on stage 5 (means or acceptance) and 6 (duties as command or as service). Band B5 for surrender is interpretive: the tradition treats it as the decisive, irreversible act after which liberation is certain.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._

@@ -17,4 +17,4 @@ Living without striving for food or comfort, accepting whatever comes and remain
 - The Bhāgavata frames this for the sage who has given up striving; the text does not prescribe a fast but acceptance of what comes (U06 note). — [Uddhava Gītā](../texts/uddhava-gita.md) 11.8.3
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._

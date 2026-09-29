@@ -16,4 +16,4 @@ A Tang collection of short biographies recording the signs — light, fragrance,
   - kind: original; name: Taishō T51n2070 (CBETA); licence: CBETA CC BY-NC-SA; url: https://cbetaonline.dila.edu.tw/T2070
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

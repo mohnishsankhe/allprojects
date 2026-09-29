@@ -20,4 +20,4 @@ The Sāmaveda Saṃhitā of the Jaiminīya (Talavakāra) school, with its own so
 
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Shakha, https://en.wikipedia.org/wiki/Jaiminiya_Upanishad_Brahmana — Jaiminīya/Talavakāra Sāmaveda confirmed as an extant recension (Nambūtiri and Tamil reciters). Caland's edition (Die Jaiminīya-Saṃhitā, 1907) is standard; not re-checked on the web. Not in the local catalogue (only the Jaiminīya Brāhmaṇa/Upaniṣad-Brāhmaṇa are).
 
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._

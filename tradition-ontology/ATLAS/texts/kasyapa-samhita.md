@@ -18,4 +18,4 @@
 The principal classical text of the branch of children's medicine (kaumārabhṛtya): care of infant and wet-nurse, children's diseases, the seizing spirits of children (the Revatī chapter), and preparations for infants.
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

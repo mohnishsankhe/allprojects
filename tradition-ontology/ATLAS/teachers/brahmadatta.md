@@ -8,4 +8,4 @@
 Pre-Śaṅkara (or early) Vedāntin reported to have held that the knowledge from the Upaniṣads must be meditated upon throughout life (knowledge as an injunction to meditation) and that the individual self is not eternal; known through reports by Sureśvara and Yāmuna.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._

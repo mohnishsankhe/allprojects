@@ -1,6 +1,6 @@
 # Tāraka and amanaska yoga
 
-`cpt:taraka-amanaska` · `skeleton` · confidence high
+`cpt:taraka-amanaska` · `sourced` · confidence high
 
 **Category:** consciousness-states
 **Members:** pūrva-tāraka, uttara-amanaska, mūrti-tāraka, amūrti-tāraka
@@ -15,4 +15,8 @@
 - leads-to → [Unmanī / manonmanī — the state beyond mind](unmani.md): Tāraka culminates in the mind-less (amanaska/unmanī) state. — rests on [1.3](../texts/mandalabrahmana-upanisad.md#tea-mandalabrahmana-upanisad-1-3), [3.1-2](../texts/mandalabrahmana-upanisad.md#tea-mandalabrahmana-upanisad-3-1-2)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._

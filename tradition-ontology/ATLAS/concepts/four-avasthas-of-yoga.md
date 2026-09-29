@@ -1,6 +1,6 @@
 # The four stages of yoga (ārambha, ghaṭa, paricaya, niṣpatti)
 
-`cpt:four-avasthas-of-yoga` · `skeleton` · confidence high
+`cpt:four-avasthas-of-yoga` · `sourced` · confidence high
 
 **Category:** stages-maps
 **Members:** ārambha, ghaṭa, paricaya, niṣpatti
@@ -15,4 +15,8 @@
 - corresponds-to-in-map → [The three knots (granthi)](three-granthis.md): in the HYP the first, second and fourth stages coincide with the piercing of the three knots — rests on [4.70-71](../texts/hatha-yoga-pradipika.md#tea-hatha-yoga-pradipika-4-70-71), [4.72-73](../texts/hatha-yoga-pradipika.md#tea-hatha-yoga-pradipika-4-72-73), [4.76-77](../texts/hatha-yoga-pradipika.md#tea-hatha-yoga-pradipika-4-76-77)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

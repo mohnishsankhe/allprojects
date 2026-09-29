@@ -16,4 +16,4 @@ Physician-Siddhar, disciple of Agastya, to whom many Siddha medical works are as
 _Notes: Frog story and works recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:45 IST._

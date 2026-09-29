@@ -15,4 +15,4 @@
 - part-of → [Action without attachment to its fruit](niskama-karma.md) — rests on [3.25](../texts/bhagavad-gita.md#tea-bhagavad-gita-3-25)
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._

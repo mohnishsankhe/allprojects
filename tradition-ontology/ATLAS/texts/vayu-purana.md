@@ -20,4 +20,4 @@ An early Śaiva-leaning Purāṇa of the classic type: creation, cosmography, ti
 _Notes: Contains Pāśupata-yoga chapters, the Gayā-māhātmya (appendix) and śrāddha-kalpa; exact chapter numbers not checked (no local e-text) - low confidence on locators._
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

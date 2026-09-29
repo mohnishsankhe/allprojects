@@ -15,4 +15,4 @@ One should contemplate space in all directions simultaneously in one's own body;
 _Notes: Verses 43 (KSTS 8 / GRETIL numbering). Kaumudī: 'now he states the twentieth (viṃśatitamī) dhāraṇā'._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._

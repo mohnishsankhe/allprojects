@@ -1,6 +1,6 @@
 # Bhāvanā Upaniṣad
 
-`src:bhavana-upanisad` · `skeleton` · confidence high
+`src:bhavana-upanisad` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,13 +13,13 @@
 U23 contribution: the inner worship of the Śrīcakra in the body — each enclosure and deity identified with a constituent of body and mind, the offerings as inner acts, and worship as the contemplation of the non-difference of knower, knowing and known; one so absorbed becomes liberated while living. It states that it teaches the bhāvanā according to both the Kādi and Hādi doctrines.
 **Editions / translations:** 
   - kind: original; name: Īśādiviṃśottaraśatopaniṣadaḥ (Nirṇayasāgara collection of 120 Upaniṣads), South Indian recension carrying Upaniṣad Brahmayogin's opening maṅgala verses; e-text github.com/sanskrit/raw_etexts vedaH/misc/upaniShat/mixedPF/108_Upanishads.md; licence: text public domain; e-text licence unstated; url: https://github.com/sanskrit/raw_etexts
-  - kind: original; name: Adyar Library Upaniṣad series (Schrader, Minor Upaniṣads vol. 1: Saṃnyāsa, 1912; A. Mahadeva Sastri: Yoga 1920, Sāmānya Vedānta 1921, Vaiṣṇava 1923, Śaiva 1925, Śākta 1925) with Upaniṣad Brahmayogin's commentary; licence: public domain (pre-1930 editions)
+  - kind: original; name: The Śākta Upaniṣads with the commentary of Śrī Upaniṣad-Brahma-Yogin, ed. A. Mahadeva Sastri (Madras: Adyar Library, 1925; reprinted 1950); licence: public domain (pre-1930 edition); url: https://archive.org/details/in.ernet.dli.2015.383591
 **Commentaries on this text:** [Bhāvanopaniṣad-bhāṣya (Bhāskararāya)](bhavana-upanisad-bhasya-bhaskararaya.md)
 
-## Teachings (5: skeleton 5)
+## Teachings (5: sourced 1, skeleton 4)
 
 ### 1-5 <a id="tea-bhavana-upanisad-1-5"></a>
-`skeleton` · confidence moderate
+`sourced` · confidence moderate
 
 The guru is the power (śakti); the body with its nine openings is the Śrīcakra; the channels are the powers of the cakra, the winds and elements its deities; the knower is the priest, knowledge the fire, the known the offering; worship is contemplation of non-difference.
 
@@ -69,4 +69,13 @@ concepts: [The body as the Śrīcakra](../concepts/body-as-sricakra.md), [Waking
 _Notes: Owned by U04; U23 adds Śrīvidyā key teachings. Text checked in sources_raw (vedaH/misc/upaniShat/shAktA; eBhāratī bhāvanopaniṣat)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: corrected — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md (line 23592), text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md (Muktikā 1.30-39 and prose Veda lists, IAST lines 27347-27400), https://en.wikipedia.org/wiki/Shakta_ — Located in the local 120-Upaniṣad e-text (heading at line 23592 (collection no. 87)). Its place in the Muktikā canon is confirmed from the Muktikā in the same e-text: no. 84 in 1.30-39, listed under the Atharvaveda in the prose Veda lists, with that Veda's peace-chant. Group 'Śākta' matches the Wikipedia group list. CORRECTION to editions: the skeleton gave every text the same generator default, 'Adyar Library Upaniṣad series (Schrader … 1912; … with Upaniṣad Brahmayogin's commentary)'. Schrader's 1912 volume is a critical edition of twenty Saṃnyāsa texts with his own ṭippaṇī, not Brahmayogin's commentary. Brahmayogin's commentary on the Saṃnyāsa group appeared separately in 1929 (ed. T. R. Chintamani Dikshit; Muktabodha M00334 metadata; archive.org). The Adyar volume is therefore replaced with the one volume that holds this text (Śākta). The years 1920, 1921, 1923 and 1925, and the editor A. Mahadeva Sastri, are confirmed on the web. Wikipedia (Shakta Upanishads) dates the group to the 12th-15th c. CE. That fits the entry's "medieval to early modern", though the entry gives no figures. The tradition account (śruti, authorless) is left as it is. The notes field is also corrected: this text does not follow the e-text numbering, as the default note had claimed.
+
+**Corrections**
+
+- editions: Located in the local 120-Upaniṣad e-text (heading at line 23592 (collection no. 87)). Its place in the Muktikā canon is confirmed from the Muktikā in the same e-text: no. 84 in 1.30-39, listed under the Atharvaveda in the prose Veda lists, with that Veda's peace-chant. Group 'Śākta' matches the Wikipedia group list. CORRECTION to editions: the skeleton gave every text the same generator default, 'Adyar Library Upaniṣad series (Schrader … 1912; … with Upaniṣad Brahmayogin's commentary)'. Schrader's 1912 volume is a critical edition of twenty Saṃnyāsa texts with his own ṭippaṇī, not Brahmayogin's commentary. Brahmayogin's commentary on the Saṃnyāsa group appeared separately in 1929 (ed. T. R. Chintamani Dikshit; Muktabodha M00334 metadata; archive.org). The Adyar volume is therefore replaced with the one volume that holds this text (Śākta). The years 1920, 1921, 1923 and 1925, and the editor A. Mahadeva Sastri, are confirmed on the web. Wikipedia (Shakta Upanishads) dates the group to the 12th-15th c. CE. That fits the entry's "medieval to early modern", though the entry gives no figures. The tradition account (śruti, authorless) is left as it is. The notes field is also corrected: this text does not follow the e-text numbering, as the default note had claimed.
+- notes: Located in the local 120-Upaniṣad e-text (heading at line 23592 (collection no. 87)). Its place in the Muktikā canon is confirmed from the Muktikā in the same e-text: no. 84 in 1.30-39, listed under the Atharvaveda in the prose Veda lists, with that Veda's peace-chant. Group 'Śākta' matches the Wikipedia group list. CORRECTION to editions: the skeleton gave every text the same generator default, 'Adyar Library Upaniṣad series (Schrader … 1912; … with Upaniṣad Brahmayogin's commentary)'. Schrader's 1912 volume is a critical edition of twenty Saṃnyāsa texts with his own ṭippaṇī, not Brahmayogin's commentary. Brahmayogin's commentary on the Saṃnyāsa group appeared separately in 1929 (ed. T. R. Chintamani Dikshit; Muktabodha M00334 metadata; archive.org). The Adyar volume is therefore replaced with the one volume that holds this text (Śākta). The years 1920, 1921, 1923 and 1925, and the editor A. Mahadeva Sastri, are confirmed on the web. Wikipedia (Shakta Upanishads) dates the group to the 12th-15th c. CE. That fits the entry's "medieval to early modern", though the entry gives no figures. The tradition account (śruti, authorless) is left as it is. The notes field is also corrected: this text does not follow the e-text numbering, as the default note had claimed.
+
+_Contributed by: skeleton:U23-sakta-srividya, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

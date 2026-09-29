@@ -26,4 +26,4 @@ _Notes: Chs. 7–9 contribution, combining extractor A's cpt:gita-transmission a
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.1, tea:bhagavad-gita:4.2, tea:bhagavad-gita:4.3, tea:bhagavad-gita:4.34 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text: corrected — tea:bhagavad-gita:9.1, tea:bhagavad-gita:9.2, tea:bhagavad-gita:9.3, tea:bhagavad-gita:7.2 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; corrections logged in interpretation_log.jsonl.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, extraction:bhagavad-gita/ch04-06, extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._

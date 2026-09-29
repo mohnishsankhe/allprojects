@@ -16,4 +16,4 @@
 _Notes: Bhāskararāya's statement read in the local Setubandha e-text; no teaching id created (U23)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._

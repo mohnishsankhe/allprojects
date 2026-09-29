@@ -47,7 +47,7 @@ When things are accepted as real, fierce attachment and aversion and the grip of
 
 _level: bridging · standpoint: causal · path: knowledge · stage: all · types: karma-liberation, consciousness-mind_
 
-terms: [dṛṣṭi](../terms/drsti.md) · obstacles: [Grasping at own-nature (inherent existence)](../obstacles/svabhava-graha.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [dṛṣṭi](../terms/drsti.md) · obstacles: [Grasping at inherent existence (true-grasping)](../obstacles/svabhava-graha.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 ### 50 <a id="tea-yuktisastika-50"></a>
 `skeleton` · confidence moderate
@@ -60,4 +60,4 @@ concepts: [Having no thesis](../concepts/no-thesis.md) · teachers: [Nāgārjuna
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

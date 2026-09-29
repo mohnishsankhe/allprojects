@@ -16,4 +16,4 @@ Upadhā is the supreme cause of suffering and its seats; craving taken up from o
 - partial: [Craving (tṛṣṇā)](trsna.md) — Buddhist craving as the origin of suffering
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa, skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._

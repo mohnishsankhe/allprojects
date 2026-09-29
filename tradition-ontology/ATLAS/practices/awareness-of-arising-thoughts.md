@@ -3,7 +3,7 @@
 `prc:awareness-of-arising-thoughts` · `skeleton` · confidence moderate
 
 **Category:** meditation
-**Convergence:** 3 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md), [Heze school](../lineages/heze.md), [Seon (Korean Chan)](../lineages/seon.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [Chan (Chinese Meditation school)](../lineages/chan.md), [Heze school](../lineages/heze.md), [Seon (Korean Chan)](../lineages/seon.md)
 
 'When a thought arises, be aware of it; when aware of it, it vanishes'; 'do not fear thoughts arising, only fear being slow to notice'.
@@ -16,4 +16,4 @@
 - Wumen lists 'being aware of thoughts as they arise' among Chan faults ('toying with spirits') when taken as an end. — [Gateless Barrier (Wumen guan)](../texts/wumenguan.md) zenzhen
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

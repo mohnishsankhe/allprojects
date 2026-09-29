@@ -16,4 +16,4 @@
 - contrasts-with → [Means of valid knowledge (pramāṇa)](pramana.md): Nyāya and Yoga call sense-perception pratyakṣa; the TS calls it parokṣa since it depends on senses. — rests on [1.11](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-1-11), [1.12](../texts/tattvartha-sutra.md#tea-tattvartha-sutra-1-12)
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._

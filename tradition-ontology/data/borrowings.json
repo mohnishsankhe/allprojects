@@ -817,10 +817,27 @@
    "I2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of brw:aparoksanubhuti-tejobindu"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md",
+      "catalog:eBharati:aparoxAnubhUti"
+     ],
+     "result": "confirmed",
+     "note": "The local eBhāratī Aparokṣānubhūti has the same fifteen limbs (mūlabandha, dehasāmya, dṛksthiti …) and the samādhi obstacles (… śūnyatā), which confirms the parallel with Tejobindu 1.15-41. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -862,6 +879,37 @@
   "provenance": {
    "units": [
     "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:arya-guhyasamaja-to-gelug",
+  "from": "lin:arya-guhyasamaja",
+  "to": "lin:gelug",
+  "what": "The Guhyasamāja of the Ārya tradition (Nāgārjuna's Five Stages, Candrakīrti's Pradīpoddyotana) as the central Gelug tantra.",
+  "direction": "from→to",
+  "era": "15th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Tsongkhapa's Lamp Illuminating the Five Stages.",
+    "refs": [
+     "tea:lamp-illuminating-five-stages:structure"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
     "skeleton"
@@ -2422,10 +2470,28 @@
    "I2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate+websearch",
+     "queries": [
+      "e-text refs of brw:buddhist-vajrasuci",
+      "Vajrasuci Asvaghosa Chinese translation Dharmakirti Taisho 1642"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md",
+      "https://en.wikipedia.org/wiki/Vajrasuchi_Upanishad"
+     ],
+     "result": "confirmed",
+     "note": "Low-confidence borrowing, checked on the web. The Buddhist Vajrasūcī is Taishō T1642 (金剛針論), ascribed in Chinese to Dharmakīrti (translated 973-981) and in Sanskrit to Aśvaghoṣa; scholars study the Vajrasūci Upaniṣad alongside it. The direction of borrowing remains a hypothesis, as the entry says. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "notes": "Buddhist lineage placement is uncertain (Aśvaghoṣa or Dharmakīrti); recorded under lin:early-buddhism pending the Buddhist units.",
   "provenance": {
@@ -3265,6 +3331,41 @@
   "provenance": {
    "units": [
     "skeleton:U16-bhedabheda"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:dzogchen-and-mahamudra",
+  "from": "lin:nyingma",
+  "to": "lin:karma-kagyu",
+  "what": "Dzogchen instructions within the Karma Kagyu (Rangjung Dorje's Karma Nyingthig; Karma Chagmé's union) and Kagyu Mahāmudrā in Nyingma circles",
+  "direction": "mutual",
+  "era": "14th–17th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Rangjung Dorje received the Vima Nyingthig from Kumārarāja; Karma Chagmé and Tselé join the two",
+    "refs": [
+     "tea:union-of-mahamudra-and-dzogchen:1"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -4112,15 +4213,68 @@
    "I2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of brw:hatha-to-yoga-upanisads"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md",
+      "catalog:DCS:Haṭhayogapradīpikā"
+     ],
+     "result": "confirmed",
+     "note": "Śāṇḍilya 1.23 ≈ Haṭhayogapradīpikā 2.15 was confirmed locally (DCS HYP 2, sentence 15: 'yathā siṃho gajo vyāghro bhaved vaśyaḥ śanaiḥ śanaiḥ'). The general thesis (southern recensions draw on Nātha and haṭha works) is confirmed by Bouy 1994, via reviews. The specific Khecarīvidyā and Gorakṣaśataka parallels were not checked here. All 3 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "notes": "Texts involved: src:hatha-yoga-pradipika, src:khecarividya, src:goraksasataka, src:dattatreyayogasastra.",
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:heshang-charge-against-mahamudra",
+  "from": "lin:chan",
+  "to": "lin:kagyu",
+  "what": "the claim (by Sakya Paṇḍita) that the Kagyu 'white self-sufficient remedy' revives the teaching of the Chinese Hashang Moheyan; denied by the Kagyu",
+  "direction": "disputed",
+  "era": "13th c. claim about 8th-c. teaching",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "an opponent's (Sakya Paṇḍita's) account, rejected by the Kagyu; recorded as a claim, not as established borrowing",
+    "refs": [
+     "tea:domsum-rabye:ch.3"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "C"
+  ],
+  "notes": "reported by an opponent; see dsp:sutra-mahamudra and dsp:sudden-or-gradual.",
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -4407,6 +4561,42 @@
   }
  },
  {
+  "id": "brw:jonang-and-karma-kagyu-shentong",
+  "from": "lin:jonang",
+  "to": "lin:karma-kagyu",
+  "what": "the other-emptiness reading of buddha-nature held by one strand of the Karma Kagyu (the 8th Situ, Jamgön Kongtrul)",
+  "direction": "disputed",
+  "era": "14th–19th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "accounts of contact between the 3rd Karmapa and Dolpopa; later Karma Kagyu shentong authors",
+    "refs": [
+     "tea:treatise-on-buddha-nature-rangjung-dorje:1"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "C"
+  ],
+  "notes": "Whether the 3rd Karmapa himself held shentong is contested within the tradition.",
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:jyotisa-dharmasastra-timing",
   "from": "lin:jyotisa",
   "to": "lin:dharmasastra",
@@ -4662,6 +4852,217 @@
   }
  },
  {
+  "id": "brw:kadam-to-dakpo-kagyu",
+  "from": "lin:kadam",
+  "to": "lin:kagyu",
+  "what": "the graded path, mind training and monastic discipline, joined with Mahāmudrā by Gampopa",
+  "direction": "from→to",
+  "era": "12th c.",
+  "evidence": [
+   {
+    "type": "textual-parallel",
+    "detail": "the Jewel Ornament's graded structure parallels Kadam lamrim texts",
+    "refs": [
+     "tea:jewel-ornament-of-liberation:intro"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Gampopa was a Kadampa monk before meeting Milarepa ('the two streams mixed')",
+    "refs": [
+     "tea:gampopa-collected-works:two-streams"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kadam-to-gelug",
+  "from": "lin:kadam",
+  "to": "lin:gelug",
+  "what": "The lamrim of three scopes, lojong, the four Kadam deities and six texts; the Gelug calls itself the New Kadam.",
+  "direction": "from→to",
+  "era": "15th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "The Lamrim Chenmo takes Atiśa's Lamp for the Path as its root text.",
+    "refs": [
+     "tea:bodhipathapradipa:v2-5",
+     "tea:lamrim-chenmo:intro.greatness-of-teaching"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Tsongkhapa received Kadam lamrim lineages (Lhodrak Namkha Gyaltsen) and the Gelug is called 'New Kadam'.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kadam-to-kagyu",
+  "from": "lin:kadam",
+  "to": "lin:kagyu",
+  "what": "Gampopa's union of the Kadam graded path with Mahāmudrā ('the two streams of Kadam and Mahāmudrā'); lojong in the Kagyu.",
+  "direction": "from→to",
+  "era": "12th c. CE",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Gampopa trained under Kadam geshes before meeting Milarepa; the Jewel Ornament follows a lamrim structure.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kadam-to-sakya",
+  "from": "lin:kadam",
+  "to": "lin:sakya",
+  "what": "Mind training and the bodhisattva ethic: Tokmé Zangpo's Thirty-Seven Practices and Seven Points commentary; lojong-style commentaries on Parting from the Four Attachments.",
+  "direction": "from→to",
+  "era": "12th–14th c. CE",
+  "evidence": [
+   {
+    "type": "shared-vocabulary",
+    "detail": "Exchanging self and other and taking adversity as the path appear in the Thirty-Seven Practices.",
+    "refs": [
+     "tea:thirty-seven-practices:11",
+     "tea:thirty-seven-practices:13"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kagyu-to-gelug",
+  "from": "lin:kagyu",
+  "to": "lin:gelug",
+  "what": "Nāropa's six yogas (Tsongkhapa's Three Inspirations) and the name 'Ganden Kagyu' of the Gelug Mahāmudrā lineage.",
+  "direction": "from→to",
+  "era": "15th–17th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Tsongkhapa's treatise on the six yogas of Nāropa.",
+    "refs": [
+     "tea:three-inspirations-naropa:warning"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "The First Panchen Lama's root text is called the Mahāmudrā of the Ganden Kagyu.",
+    "refs": [
+     "tea:gyalwai-shunglam:convergence"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:kagyu-to-gelug-mahamudra",
+  "from": "lin:kagyu",
+  "to": "lin:gelug",
+  "what": "the Six Yogas of Nāropa (commented on by Tsongkhapa) and a Mahāmudrā lineage (the Ganden oral lineage)",
+  "direction": "from→to",
+  "era": "14th–17th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Tsongkhapa's commentary on the six dharmas of Nāropa; the First Panchen Lama's Mahāmudrā root text",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:kalama-agama-parallel",
   "from": "lin:early-buddhism",
   "to": "lin:sarvastivada",
@@ -4809,10 +5210,26 @@
    "I2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of brw:kalisantarana-to-gaudiya"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The sixteen names are located in the Kalisantaraṇa, with the hare rāma half first. The Gauḍīya use as mahāmantra is well attested; the reversed order in Gauḍīya use is as the entry says. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -6207,6 +6624,86 @@
   }
  },
  {
+  "id": "brw:mahasiddha-to-kagyu",
+  "from": "lin:mahasiddha",
+  "to": "lin:kagyu",
+  "what": "Mahāmudrā instruction (dohās, non-mentation) and the six dharmas, carried by Marpa from Nāropa, Maitrīpa and others",
+  "direction": "from→to",
+  "era": "11th c.",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Tengyur colophons: translated by Nāropa and Marpa at Puṣpahari",
+    "refs": [
+     "tea:karnatantravajrapada:304b.3",
+     "tea:saddharmopadesa-tilopa:colophon"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "the Kagyu lineage prayers and lives",
+    "refs": [
+     "tea:dorje-chang-thungma:1"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mahasiddha-to-sakya",
+  "from": "lin:mahasiddha",
+  "to": "lin:sakya",
+  "what": "Virūpa's Path with its Result and the Hevajra cycle, transmitted by Gayadhara and Drokmi.",
+  "direction": "from→to",
+  "era": "11th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "The Vajra Verses (Tōh 2284) attributed to Virūpa are the Sakya root text.",
+    "refs": [
+     "tea:lamdre:139a.7",
+     "tea:lamdre:139b.1-3"
+    ]
+   },
+   {
+    "type": "tradition-account",
+    "detail": "Sakya lineage lists from Virūpa to Drokmi and Sachen.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:mahasiddha-to-vaisnava-sahajiya",
   "from": "lin:mahasiddha",
   "to": "lin:vaisnava-sahajiya",
@@ -6280,6 +6777,43 @@
   "provenance": {
    "units": [
     "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:mahayana-to-kadam",
+  "from": "lin:mahayana",
+  "to": "lin:kadam",
+  "what": "Mind training (exchanging self and other) from Serlingpa, Dharmarakṣita and Maitrīyogin; the six Kadam texts.",
+  "direction": "from→to",
+  "era": "11th c. CE",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Atiśa's twelve years with Serlingpa in Suvarṇadvīpa (Kadam account).",
+    "refs": []
+   },
+   {
+    "type": "explicit-citation",
+    "detail": "The Lamp cites the Gaṇḍavyūha, Vīradatta sūtra and Mañjuśrībuddhakṣetrālaṅkāra.",
+    "refs": [
+     "tea:bodhipathapradipa:v12-18",
+     "tea:bodhipathapradipa:v22-26"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
     "skeleton"
@@ -7793,6 +8327,41 @@
   }
  },
  {
+  "id": "brw:niguma-to-shangpa",
+  "from": "lin:mahasiddha",
+  "to": "lin:shangpa-kagyu",
+  "what": "Niguma's six dharmas and the Amulet Mahāmudrā; Sukhasiddhi's teachings",
+  "direction": "from→to",
+  "era": "11th–12th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Khyungpo Naljor's biography",
+    "refs": [
+     "tea:vajra-lines-of-niguma:1"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:nirvedhabhagiya-five-paths",
   "from": "lin:sarvastivada",
   "to": "lin:mahayana",
@@ -8082,6 +8651,35 @@
   }
  },
  {
+  "id": "brw:nyingma-to-sakya",
+  "from": "lin:nyingma",
+  "to": "lin:sakya",
+  "what": "The Khön family's inherited Vajrakīlaya practice, kept by the Sakya.",
+  "direction": "from→to",
+  "era": "11th c. CE onward",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Sakya family histories on the Khön clan's Nyingma past.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:other-rv-verses-in-upanisads",
   "from": "lin:vedic-srauta",
   "to": "lin:upanisadic",
@@ -8208,10 +8806,27 @@
    "I2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of brw:pancadasi-avadhuta"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md",
+      "text:sources_raw/raw_etexts/mixed/ebhAratI-sampat/darshanAni/advaitadarshanam/vidyAraNyamuniH/rAmakRShNaH/panchadashI_tRptidIpaprakaraNam.md"
+     ],
+     "result": "confirmed",
+     "note": "The 'dhanyo'haṃ dhanyo'haṃ' verses occur both in the Avadhūta (e-text vv. 27-32) and in the eBhāratī Pañcadaśī Tṛptidīpa-prakaraṇa (chapter 7), which confirms the parallel. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8453,10 +9068,26 @@
    "I2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of brw:pancaratra-vyuhas-in-upanisads"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Low-confidence borrowing, checked. The vyūha names are located at Triśikhi 142-143 and in Mudgala 4 (caturvyūha, Aniruddha). The Pāñcarātra origin is inferred from the shared vocabulary. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8862,6 +9493,37 @@
   }
  },
  {
+  "id": "brw:pramana-buddhist-to-sakya",
+  "from": "lin:pramana-buddhist",
+  "to": "lin:sakya",
+  "what": "Dharmakīrti's epistemology as restored in Sakya Paṇḍita's Treasury of Valid Reasoning, with Śākyaśrībhadra's teaching.",
+  "direction": "from→to",
+  "era": "13th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "The Treasury of Reasoning comments on Dharmakīrti's seven treatises.",
+    "refs": [
+     "tea:tshad-ma-rigs-gter:universals"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:pramana-buddhist-to-svatantrika",
   "from": "lin:pramana-buddhist",
   "to": "lin:svatantrika",
@@ -8985,6 +9647,38 @@
   "provenance": {
    "units": [
     "skeleton:U40-madhyamaka"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:prasangika-to-kadam",
+  "from": "lin:prasangika",
+  "to": "lin:kadam",
+  "what": "Atiśa's naming of Candrakīrti as the realiser of emptiness and his two-truths teaching in Nāgārjuna's system.",
+  "direction": "from→to",
+  "era": "11th c. CE",
+  "evidence": [
+   {
+    "type": "explicit-citation",
+    "detail": "Satyadvayāvatāra 15 and 20–22 cite Candrakīrti.",
+    "refs": [
+     "tea:satyadvayavatara:v15-17",
+     "tea:satyadvayavatara:v21-22"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
     "skeleton"
@@ -10192,6 +10886,68 @@
   }
  },
  {
+  "id": "brw:sakya-lamdre-to-phagdru",
+  "from": "lin:sakya",
+  "to": "lin:phagdru-kagyu",
+  "what": "the Path and Result studied by Phagmodrupa under Sachen Kunga Nyingpo before he met Gampopa",
+  "direction": "from→to",
+  "era": "12th c.",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Phagmodrupa's biography",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "C"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "brw:sakya-to-gelug",
+  "from": "lin:sakya",
+  "to": "lin:gelug",
+  "what": "Tsongkhapa's Madhyamaka and scholastic training under Rendawa; Gyaltsab Je's Sakya education; many tantric lineages.",
+  "direction": "from→to",
+  "era": "14th–15th c. CE",
+  "evidence": [
+   {
+    "type": "tradition-account",
+    "detail": "Rendawa as Tsongkhapa's principal teacher; the Migtsema story.",
+    "refs": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "brw:sallatha-agama-parallel",
   "from": "lin:early-buddhism",
   "to": "lin:mulasarvastivada",
@@ -11015,10 +11771,26 @@
    "I2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of brw:sannyasa-to-srivaisnava-tridandi"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -11051,10 +11823,26 @@
    "I2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of brw:sannyasa-upanisads-to-dasanami"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -11655,10 +12443,28 @@
    "I2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate+websearch",
+     "queries": [
+      "e-text refs of brw:srividya-and-sakta-upanisads"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md",
+      "https://en.wikipedia.org/wiki/Bhaskararaya",
+      "catalog:eBharati:kaula_anyopaniShat_cha_ekAdasho_bhAgaH"
+     ],
+     "result": "confirmed",
+     "note": "Bhāskararāya's commentaries on the Tripurā and Bhāvanā are confirmed (Wikipedia; Tantrik Texts XI). The Tripurā has the nine yonis and fifteen nityās (vv. 1-11), and the Bhāvanā makes the body the Śrīcakra. All 2 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:bhavana-upanisad:1-5 (partially-confirmed).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -14034,10 +14840,28 @@
    "I2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of brw:vivekacudamani-adhyatma"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md",
+      "catalog:GRETIL-dev:samkara_attrib_vivekachudamani",
+      "catalog:raw_etexts:adhyatma"
+     ],
+     "result": "confirmed",
+     "note": "Checked locally: 113 of 614 sampled 30-character windows of the raw_etexts Adhyātma recur verbatim in the GRETIL Vivekacūḍāmaṇi, so there are substantial shared verses. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -14579,10 +15403,26 @@
    "I2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of brw:yoga-vasistha-and-minor-upanisads"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -14785,10 +15625,28 @@
    "I2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of brw:yoga-yajnavalkya-darsana",
+      "Darshana Upanishad derived from Yoga Yajnavalkya"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md",
+      "https://en.wikipedia.org/wiki/Darshana_Upanishad"
+     ],
+     "result": "partially-confirmed",
+     "note": "The Darśana (Jābāladarśana) and its ten yamas and niyamas, channels, inner tīrthas and withdrawals are located. The claimed parallel with the Yoga-Yājñavalkya could not be checked: there is no local e-text of the Yoga-Yājñavalkya and the web search found no confirmation. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "notes": "Text: src:yoga-yajnavalkya.",
   "provenance": {

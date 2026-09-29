@@ -339,4 +339,4 @@ concepts: [The nine similes for the conditioned (Vajracchedikā 32)](../concepts
 _Notes: Local check: Sanskrit (Schøyen §§1-16c; Gilgit to the end) and T235 read in sources_raw; the prepared segments in sources_raw/prepared/vajracchedika (T235) were used for Taishō lines._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

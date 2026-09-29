@@ -15,4 +15,4 @@ The first Tīrthaṅkara of this era, emblem the bull, son of the last patriarch
 _Notes: The Śvetāmbara account makes Marudevī the first liberated soul of this era; Digambara accounts differ on her._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

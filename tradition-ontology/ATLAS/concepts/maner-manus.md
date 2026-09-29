@@ -17,4 +17,4 @@
 - same-as-under-standpoint → [The innate Man (sahaja mānuṣa)](sahaja-manusa.md): Bāul and Sahajiyā names of the same indwelling Man. — rests on [milan-habe-kata-dine](../texts/lalon-giti.md#tea-lalon-giti-milan-habe-kata-dine), [suna-he-manus-bhai](../texts/candidas-ragatmika-padas.md#tea-candidas-ragatmika-padas-suna-he-manus-bhai)
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._

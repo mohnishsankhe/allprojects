@@ -13,4 +13,4 @@
 Digambara ācārya of the Pañcastūpa lineage who wrote the Dhavalā on the Ṣaṭkhaṇḍāgama (816 CE) and began the Jayadhavalā; teacher of Jinasena.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._

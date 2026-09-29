@@ -13,4 +13,4 @@ Practising overfed, hungry, tired or agitated, in extreme cold, heat or wind, or
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 5.3-9; rests_on: ["tea:gheranda-samhita:5.3-4", "tea:gheranda-samhita:5.8-9"]
 
 ---
-_Contributed by: skeleton:U07-puranas, skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U07-puranas, skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._

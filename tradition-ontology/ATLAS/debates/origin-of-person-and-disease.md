@@ -57,4 +57,4 @@ The text itself stops the debate (Sū 25.26-29) rather than choosing a winner; t
 **The traditions' own objections:** None recorded within Āyurveda; each of the single-cause views, pressed as exclusive, is what Ātreya rejects ('by taking sides').
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

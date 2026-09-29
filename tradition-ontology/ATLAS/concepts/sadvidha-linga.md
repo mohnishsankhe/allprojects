@@ -16,4 +16,4 @@
 _Notes: Not set out in these terms in the SSM (whose liṅga-sthalas differ); sense and element correlations from memory of later manuals — low confidence._
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:45 IST._

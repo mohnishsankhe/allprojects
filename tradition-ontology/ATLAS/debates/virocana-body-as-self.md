@@ -29,4 +29,4 @@ Prajāpati's final teaching as received by Indra: the body is mortal, the base o
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse) — All 3 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 8.8.1-3; ChU 8.7-12; ChU 8.8.4). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._

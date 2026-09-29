@@ -15,4 +15,4 @@ An early tantra (considered a proto-yoginī tantra) of Vajrasattva/Heruka with �
   - kind: translation; name: Derge Kangyur, Tōh 366 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-kangyur
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._

@@ -11,4 +11,4 @@ Invoking Vācaspati and Medhā for the strength to retain the Veda — AVŚ 1.1 
   - [Atharvaveda Saṃhitā (Śaunaka)](../texts/atharvaveda-saunaka.md) — ref: 1.1; 6.108; rests_on: ["tea:atharvaveda-saunaka:1.1.1", "tea:atharvaveda-saunaka:6.108.1-2"]
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._

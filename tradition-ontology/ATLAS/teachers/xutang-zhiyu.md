@@ -12,4 +12,4 @@
 Yangqi master whose Japanese heir Nanpo Shōmyō began the Ōtōkan line.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

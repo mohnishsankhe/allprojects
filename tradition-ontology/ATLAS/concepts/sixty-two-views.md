@@ -18,4 +18,4 @@
 _Notes: U36 owns the Brahmajāla Sutta; this unit supplies the view entries._
 
 ---
-_Contributed by: skeleton:U33-sramana, skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U33-sramana, skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._

@@ -11,4 +11,4 @@
 Yogin of the Ganden oral lineage, said by the tradition to have attained buddhahood in one life; later counted in the line of Panchen Lamas.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

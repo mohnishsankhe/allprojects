@@ -13,4 +13,4 @@ Sexual intercourse, taking what is not given, killing a human being, falsely cla
   - [Abhidharmakośa (Abhidharmakośakārikā)](../texts/abhidharmakosa.md) — ref: 4.38-39; rests_on: ["tea:abhidharmakosa:4.38-39"]
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

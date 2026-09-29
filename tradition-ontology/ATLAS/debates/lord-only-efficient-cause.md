@@ -33,4 +33,4 @@ The Paśupati doctrine is contrary to the Veda and internally inconsistent; its 
 **Candidate readings:** P2-standpoint: the Pāśupata analyses the world as eternal effect under a ruler (causal standpoint); Vedānta speaks of Brahman as the substance of all (substance standpoint).; No reconciliation: Vedānta treats the non-material-cause view as contrary to śruti.
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:45 IST._

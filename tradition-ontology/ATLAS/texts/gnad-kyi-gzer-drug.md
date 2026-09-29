@@ -22,10 +22,10 @@ Do not recall (the past), do not imagine (the future), do not think (in the pres
 
 _level: ultimate · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-concepts: [Tilopa's six words of advice](../concepts/tilopa-six-words.md) · practices: `prc:resting-in-ordinary-mind` · teachers: [Tilopa](../teachers/tilopa.md)
+concepts: [Tilopa's six words of advice](../concepts/tilopa-six-words.md) · practices: [Resting uncontrived in ordinary mind](../practices/resting-in-ordinary-mind.md) · teachers: [Tilopa](../teachers/tilopa.md)
 
 
 _Notes: The instruction is widely quoted in the Kagyu; the source text and its exact Tibetan wording were not found locally. U44 (Tilopa) may hold a parallel entry._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

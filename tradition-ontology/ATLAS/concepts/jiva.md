@@ -21,4 +21,4 @@
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.5 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī Ebharati-9566, Cowell's Bibliotheca Indica recension and numbering), text:sources_raw/prepared/mundaka-upanisad/ — All 6 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 6.3.2; ChU 6.11.3; MuU 3.1.1-2; ŚU 4.6-7; ŚU 5.9; MaiU 3.1-2). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U03-principal-upanisads, skeleton:U14-visistadvaita, skeleton:U15-dvaita, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U03-principal-upanisads, skeleton:U14-visistadvaita, skeleton:U15-dvaita, extraction:bhagavad-gita/ch07-09. Generated 2026-09-29 17:45 IST._

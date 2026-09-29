@@ -22,8 +22,8 @@ The root verses exhort the practitioner in each intermediate state: in the bardo
 
 _level: conventional · standpoint: seeker · path: meditation · stage: all · types: death-dying, practice_
 
-concepts: [The six intermediate states (bar do drug)](../concepts/six-bardos.md) · practices: [Training for the bardos](../practices/bardo-practice.md), [Dream yoga](../practices/dream-yoga.md)
+concepts: [The six intermediate states (bar do drug)](../concepts/six-bardos.md) · practices: [Training for the bardos](../practices/bardo-practice.md), [Dream yoga (rmi lam)](../practices/dream-yoga.md)
 
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

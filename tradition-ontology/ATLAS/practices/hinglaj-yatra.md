@@ -9,4 +9,4 @@
 Pilgrimage to the Goddess at Hiṅglāj (Balochistan), made by Kīnārām according to tradition and honoured by Aghora and Nāth ascetics.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._

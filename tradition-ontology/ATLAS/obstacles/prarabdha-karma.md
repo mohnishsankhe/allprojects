@@ -15,4 +15,4 @@ Karma that has begun to bear fruit continues until the body falls; for this reas
 _Notes: The prārabdha doctrine is recorded from general Vedānta knowledge; only BSB 3.1.8 was checked._
 
 ---
-_Contributed by: skeleton:U14-visistadvaita, skeleton:U15-dvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U14-visistadvaita, skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._

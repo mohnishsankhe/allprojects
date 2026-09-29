@@ -39,4 +39,4 @@ terms: [prāṇa](../terms/prana.md) · concepts: [Prāṇa in Āyurveda](../con
 _Notes: Distinct text from the anthology src:sarngadhara-paddhati; identity of the two Śārṅgadharas is debated._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

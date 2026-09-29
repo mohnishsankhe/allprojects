@@ -14,5 +14,35 @@
 
 The last tantra: pulse diagnosis (ch. 1) and urine diagnosis (ch. 2), the pacifying medicines (decoctions, powders, pills, pastes, medicinal butters, calcined preparations, concentrates, medicinal wines, jewel medicines, herbal compounds), the evacuative therapies, the gentle and rough external therapies, and the concluding chapters on entrusting the teaching.
 
+## Teachings (3: skeleton 3)
+
+### 1 <a id="tea-gyushi-chimagyu-1"></a>
+`skeleton` · confidence moderate
+
+Pulse examination: after the patient has kept the prescribed restraints of diet and behaviour, the physician reads the radial pulse of both wrists with three fingers, each finger and side corresponding to particular organs; there are constitutional pulses (male, female and 'bodhisattva'), the seasonal pulses, the pulses of disease, the pulses indicating death, and the seven 'wondrous' pulses read for matters beyond illness.
+
+_level: conventional · standpoint: analytic · path: general · stage: all · types: body-layers_
+
+terms: [rtsa brtag](../terms/tsa-tak.md), [rtsa](../terms/tsa.md) · concepts: [Pulse diagnosis in Sowa Rigpa](../concepts/pulse-diagnosis-sowa-rigpa.md)
+
+### 2 <a id="tea-gyushi-chimagyu-2"></a>
+`skeleton` · confidence moderate
+
+Urine examination: urine is examined while warm, while cooling and when cold for colour, vapour, odour, bubbles, sediment and film, which show hot or cold disorders and which nyepa is disturbed; a divided grid laid over the urine is also read for spirit influences.
+
+_level: conventional · standpoint: analytic · path: general · stage: all · types: body-layers_
+
+terms: [chu brtag](../terms/chu-tak.md) · concepts: [Urine diagnosis in Sowa Rigpa](../concepts/urine-diagnosis-sowa-rigpa.md)
+
+### external-therapies <a id="tea-gyushi-chimagyu-external-therapies"></a>
+`skeleton` · confidence moderate
+
+The external therapies — bloodletting, moxibustion, hot and cold compresses, medicinal baths, oil massage and minor surgery — are 'rough' or 'gentle' and are used when medicines alone do not suffice. (Summary only.)
+
+_level: conventional · standpoint: seeker · path: body-breath · stage: all · types: practice_
+
+terms: [tarka](../terms/tarka.md), [me btsa'](../terms/metsa.md), [bsku mnye](../terms/kunye.md) · practices: `prc:sowa-rigpa-external-therapies`, `prc:kunye`
+
+
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

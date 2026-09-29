@@ -28,4 +28,4 @@ The 'six systems' as the Rasa texts report them: liberation is realized at or af
 _Notes: The non-Rasa positions are stated partly as reported by the Rasa texts (reported by an opponent). Owning units of Advaita and of the path maps may refine the second side._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

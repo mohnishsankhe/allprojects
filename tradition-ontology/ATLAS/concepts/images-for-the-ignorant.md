@@ -1,6 +1,6 @@
 # Images and forms for worshippers
 
-`cpt:images-for-the-ignorant` · `skeleton` · confidence high
+`cpt:images-for-the-ignorant` · `sourced` · confidence high
 
 **Category:** disputes
 
@@ -12,4 +12,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Darśana 4.59 is located: śivam ātmani paśyanti pratimāsu na yoginaḥ | ajñānāṃ bhāvanārthāya pratimāḥ parikalpitāḥ. All 3 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

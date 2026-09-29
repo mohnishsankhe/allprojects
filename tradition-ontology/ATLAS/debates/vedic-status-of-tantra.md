@@ -30,4 +30,4 @@ Texts not accepted by those who know the three Vedas — including the Pāśupat
 **Queue:** RQ-U23-vedic-status-of-tantra
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._

@@ -12,4 +12,4 @@ Sins committed after the attainment of knowledge or surrender: unintentional one
   - [Rahasyatrayasāra](../texts/rahasyatrayasara.md) — ref: Aparādhaparihāra; rests_on: ["tea:rahasyatrayasara:aparadha-parihara"]
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._

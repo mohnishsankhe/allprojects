@@ -18,4 +18,4 @@
 **Related:** [pauruṣa](paurusa.md), [puruṣakāra](purusakara.md), [kāla](kala.md), [svabhāva](svabhava.md)
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U30-ayurveda-rasa, skeleton:U05-gita-epic, skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._

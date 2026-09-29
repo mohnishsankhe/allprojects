@@ -17,4 +17,4 @@ Leaving household and family, shaving, taking the mendicant's life of alms and w
 - Going forth does not make a śramaṇa: 'not by shaving', but by equanimity. — [Uttarādhyayana Sūtra](../texts/uttaradhyayana-sutra.md) 25.31
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._

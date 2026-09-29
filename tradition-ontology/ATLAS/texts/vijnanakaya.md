@@ -30,4 +30,4 @@ disputes: [Do past and future dharmas exist?](../debates/existence-in-three-time
 _Notes: Yaśomitra's list (Sphuṭārthā on AK 1.3, checked locally): Jñānaprasthāna – Kātyāyanīputra; Prakaraṇapāda – Vasumitra; Vijñānakāya – Devaśarman; Dharmaskandha – Śāriputra; Prajñaptiśāstra – Maudgalyāyana; Dhātukāya – Pūrṇa; Saṅgītiparyāya – Mahākauṣṭhila. Chinese attributions differ._
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

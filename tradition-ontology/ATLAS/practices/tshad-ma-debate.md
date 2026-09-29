@@ -10,9 +10,12 @@ The Tibetan monastic training in epistemology through formal debate: a defender 
 **Sources:** 
   - [Bsdus grwa (Collected Topics)](../texts/bsdus-grwa.md) — 
   - [Vādanyāya](../texts/vadanyaya.md) — rests_on: ["tea:vadanyaya:1"]
+  - [Gateway to Learning (mkhas pa 'jug pa'i sgo)](../texts/khepa-jugpai-go.md) — rests_on: ["tea:khepa-jugpai-go:three-activities"]
 
 ## Equivalents (interpretation layer)
 - analogous: [Discussion for truth (vāda)](vada-debate.md) — the Nyāya practice of debate; both aim at truth and codify defeat
 
+_Notes: Contribution of U47 (Sakya/Kadam/Gelug presentation)._
+
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

@@ -19,6 +19,7 @@ The bodhisattva's path in full: the lineage (gotra) of bodhisattvas, the arising
 **Editions / translations:** 
   - kind: original; name: U. Wogihara 1930–36; N. Dutt 1966 — local GRETIL Devanāgarī e-text; licence: ancient text public domain; e-text for research use (DSBC / GRETIL terms)
   - kind: original; name: Tibetan: Derge D4037
+**Commentaries on this text:** [The Basic Path to Awakening (byang chub gzhung lam)](basic-path-to-awakening.md)
 
 ## Teachings (6: skeleton 6)
 
@@ -84,4 +85,4 @@ teachers: [Asaṅga](../teachers/asanga.md)
 
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._

@@ -17,4 +17,4 @@ Paramārtha's version of (or treatise on) the Thirty Verses, in which the path c
 _Notes: Relation to the Triṃśikā debated. Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._

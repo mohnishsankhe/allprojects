@@ -16,6 +16,7 @@
 **Editions / translations:** 
   - kind: original; name: Gurupañcāśikā, GRETIL/DSBC e-text; licence: GRETIL; url: local
   - kind: translation; name: Derge Tengyur, Tōh 3721 (confirmed in the local Derge catalogue); licence: public domain; url: local: sources_raw/derge-tengyur
+**Commentaries on this text:** [Fulfilling the Hopes of Disciples (bla ma lnga bcu pa'i rnam bshad slob ma'i re ba kun skong)](fulfilling-hopes-of-disciples.md)
 
 ## Teachings (6: skeleton 6)
 
@@ -87,4 +88,4 @@ concepts: [The fourteen root downfalls](../concepts/fourteen-root-downfalls.md),
 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._

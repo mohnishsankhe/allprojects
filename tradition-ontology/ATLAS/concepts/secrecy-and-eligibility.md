@@ -1,6 +1,6 @@
 # Secrecy and eligibility
 
-`cpt:secrecy-and-eligibility` · `skeleton` · confidence high
+`cpt:secrecy-and-eligibility` · `sourced` · confidence high
 
 **Category:** teacher-transmission
 
@@ -13,4 +13,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 7 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:mahavakya-upanisad:1-2 (corrected).
+
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._

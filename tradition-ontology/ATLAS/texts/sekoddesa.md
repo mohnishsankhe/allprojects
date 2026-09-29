@@ -146,4 +146,4 @@ concepts: [Empty form (śūnyatābimba)](../concepts/empty-form.md), [Immutable 
 _Notes: The GRETIL file is titled 'Naropa: Sekoddesa' because it derives from the edition accompanying Nāropa's commentary; the verses are the Sekoddeśa itself._
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._

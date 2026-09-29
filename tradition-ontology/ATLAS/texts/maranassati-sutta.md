@@ -31,4 +31,4 @@ terms: [maraṇassati](../terms/maranassati.md), [amata](../terms/amata.md) · p
 _Notes: SuttaCentral uid an6.19; Mahāsaṅgīti title 'Paṭhamamaraṇassatisutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._

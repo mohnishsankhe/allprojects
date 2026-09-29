@@ -116,7 +116,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -279,7 +279,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -367,10 +367,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:advayataraka-voids"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -391,7 +407,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -505,7 +521,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -626,7 +642,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -709,7 +725,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -781,10 +797,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:amrtanada-six-limbs"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -805,7 +837,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1002,7 +1034,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1177,7 +1209,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1280,7 +1312,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1391,7 +1423,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1495,7 +1527,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1598,7 +1630,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1724,7 +1756,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -1841,7 +1873,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2105,7 +2137,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2239,7 +2271,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2391,7 +2423,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2495,7 +2527,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2623,7 +2655,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2697,7 +2729,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2792,7 +2824,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2880,10 +2912,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:darsana-eight-limbs"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -2904,7 +2952,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -2987,7 +3035,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3096,7 +3144,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3175,7 +3223,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3247,10 +3295,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:dhyanabindu-six-limbs"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -3271,7 +3335,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3407,7 +3471,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3514,21 +3578,19 @@
    ]
   },
   "convergence": {
-   "count": 3,
+   "count": 1,
    "lineages": [
     "lin:caodong",
     "lin:rinzai",
     "lin:soto"
    ],
    "schools": [
-    "lin:caodong",
-    "lin:rinzai",
-    "lin:soto"
+    "lin:chan"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3610,19 +3672,18 @@
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 1,
    "lineages": [
     "lin:caodong",
     "lin:soto"
    ],
    "schools": [
-    "lin:caodong",
-    "lin:soto"
+    "lin:chan"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3729,7 +3790,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3882,7 +3943,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -3966,7 +4027,88 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "pth:fivefold-mahamudra",
+  "name": "The fivefold Mahāmudrā",
+  "lineage": "lin:drikung-kagyu",
+  "lineages": [
+   "lin:drikung-kagyu",
+   "lin:drukpa-kagyu",
+   "lin:phagdru-kagyu"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "byang chub kyi sems",
+    "gloss": "bodhicitta",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "yi dam lha sku",
+    "gloss": "the deity's body",
+    "band": "B2"
+   },
+   {
+    "order": 3,
+    "name": "bla ma mos gus",
+    "gloss": "devotion to the guru",
+    "band": "B2"
+   },
+   {
+    "order": 4,
+    "name": "phyag rgya chen po",
+    "gloss": "the Mahāmudrā view",
+    "band": "B5"
+   },
+   {
+    "order": 5,
+    "name": "bsngo ba smon lam",
+    "gloss": "dedication and aspiration",
+    "band": ""
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:gongchig"
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "F"
+  ],
+  "notes": "The five are practised together in each session, not as successive stages; the bands say what kind of practice each element is, not a sequence. Dedication is left unbanded.",
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:drikung-kagyu",
+    "lin:drukpa-kagyu",
+    "lin:phagdru-kagyu"
+   ],
+   "schools": [
+    "lin:kagyu"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4073,7 +4215,96 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "pth:four-dharmas-of-gampopa",
+  "name": "The four dharmas of Gampopa",
+  "lineage": "lin:kagyu",
+  "lineages": [
+   "lin:kagyu",
+   "lin:karma-kagyu",
+   "lin:drikung-kagyu",
+   "lin:drukpa-kagyu"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "blo chos su 'gro ba",
+    "gloss": "the mind turns to the Dharma",
+    "description": "renunciation through the four thoughts",
+    "ref": "line 1",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "chos lam du 'gro ba",
+    "gloss": "the Dharma becomes the path",
+    "description": "refuge, love, compassion and bodhicitta make practice a real path",
+    "ref": "line 2",
+    "band": "B1"
+   },
+   {
+    "order": 3,
+    "name": "lam 'khrul pa sel ba",
+    "gloss": "the path clarifies confusion",
+    "description": "meditation (śamatha–vipaśyanā) and insight into emptiness dispel confusion",
+    "ref": "line 3",
+    "band": "B5"
+   },
+   {
+    "order": 4,
+    "name": "'khrul pa ye shes su 'char ba",
+    "gloss": "confusion dawns as wisdom",
+    "description": "Mahāmudrā realization: confusion itself is recognized as wisdom",
+    "ref": "line 4",
+    "band": "B7"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:four-dharmas-of-gampopa",
+    "ref": "1-4",
+    "rests_on": [
+     "tea:four-dharmas-of-gampopa:1-4"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "F"
+  ],
+  "notes": "The glosses of each line follow the common Kagyu explanation (from memory); the four lines are a summary rather than a strict ladder.",
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:drikung-kagyu",
+    "lin:drukpa-kagyu",
+    "lin:kagyu",
+    "lin:karma-kagyu"
+   ],
+   "schools": [
+    "lin:kagyu"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4148,7 +4379,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4260,7 +4491,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4432,7 +4663,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4559,7 +4790,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4663,7 +4894,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4761,7 +4992,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -4967,7 +5198,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5060,7 +5291,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5193,12 +5424,12 @@
     "lin:rinzai"
    ],
    "schools": [
-    "lin:rinzai"
+    "lin:chan"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5301,10 +5532,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:hamsa-ten-nadas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-effects-of-the-sounds (corrected); tea:hamsa-upanisad:4-ten-sounds (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -5325,7 +5572,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5407,7 +5654,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5525,7 +5772,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5651,7 +5898,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5755,7 +6002,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -5893,7 +6140,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6038,7 +6285,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6126,7 +6373,146 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "pth:jewel-ornament-sequence",
+  "name": "The path of the Jewel Ornament of Liberation",
+  "lineage": "lin:kagyu",
+  "lineages": [
+   "lin:kagyu",
+   "lin:karma-kagyu",
+   "lin:drikung-kagyu",
+   "lin:drukpa-kagyu"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "buddha-nature (cause)",
+    "ref": "ch.1",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "precious human life (basis)",
+    "ref": "ch.2",
+    "band": "B0"
+   },
+   {
+    "order": 3,
+    "name": "relying on the spiritual friend (condition)",
+    "ref": "ch.3",
+    "band": "B0"
+   },
+   {
+    "order": 4,
+    "name": "impermanence, suffering, karma",
+    "ref": "ch.4–6",
+    "band": "B1"
+   },
+   {
+    "order": 5,
+    "name": "love and compassion",
+    "ref": "ch.7",
+    "band": "B1"
+   },
+   {
+    "order": 6,
+    "name": "refuge",
+    "ref": "ch.8",
+    "band": "B0"
+   },
+   {
+    "order": 7,
+    "name": "bodhicitta and its trainings",
+    "ref": "ch.9–11",
+    "band": "B1"
+   },
+   {
+    "order": 8,
+    "name": "the six perfections",
+    "ref": "ch.12–17",
+    "band": "B2"
+   },
+   {
+    "order": 9,
+    "name": "paths of accumulation and joining",
+    "ref": "ch.18",
+    "band": "B3"
+   },
+   {
+    "order": 10,
+    "name": "path of seeing (first ground)",
+    "ref": "ch.18–19",
+    "band": "B5"
+   },
+   {
+    "order": 11,
+    "name": "path of meditation (grounds 2–10)",
+    "ref": "ch.18–19",
+    "band": "B6"
+   },
+   {
+    "order": 12,
+    "name": "perfect buddhahood: the three kāyas",
+    "ref": "ch.20",
+    "band": "B7"
+   },
+   {
+    "order": 13,
+    "name": "buddha-activity",
+    "ref": "ch.21",
+    "band": "B8"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:jewel-ornament-of-liberation",
+    "ref": "intro",
+    "rests_on": [
+     "tea:jewel-ornament-of-liberation:intro",
+     "tea:jewel-ornament-of-liberation:ch.18",
+     "tea:jewel-ornament-of-liberation:ch.19",
+     "tea:jewel-ornament-of-liberation:ch.20",
+     "tea:jewel-ornament-of-liberation:ch.21"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "F"
+  ],
+  "notes": "Chapter numbers per the usual 21-chapter division (verify). Refuge (ch.8) follows the contemplations in the text though banded as entry. Stages 9–11 are the five paths (U51's pth:five-paths) as the Jewel Ornament presents them.",
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:drikung-kagyu",
+    "lin:drukpa-kagyu",
+    "lin:kagyu",
+    "lin:karma-kagyu"
+   ],
+   "schools": [
+    "lin:kagyu"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6221,12 +6607,12 @@
     "lin:jodo-shu-seizan"
    ],
    "schools": [
-    "lin:jodo-shu"
+    "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6332,7 +6718,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6438,7 +6824,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6538,7 +6924,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6640,7 +7026,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6741,7 +7127,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6851,7 +7237,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -6947,7 +7333,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7128,7 +7514,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7257,7 +7643,201 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "pth:lamdre-three-visions",
+  "name": "The three visions of the Lamdre",
+  "lineage": "lin:sakya",
+  "stages": [
+   {
+    "order": 1,
+    "name": "impure vision",
+    "gloss": "ma dag pa'i snang ba",
+    "description": "Appearances of beings under the afflictions; contemplated as the faults of saṃsāra, leisure and endowment, death and karma to turn the mind.",
+    "ref": "Vajra Verses 139a.7; Three Visions",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "experiential vision",
+    "gloss": "nyams kyi snang ba",
+    "description": "Appearances to the yogin in concentration; love, compassion, bodhicitta and the meditative experiences of the path.",
+    "ref": "Vajra Verses 139a.7",
+    "band": "B4"
+   },
+   {
+    "order": 3,
+    "name": "pure vision",
+    "gloss": "dag pa'i snang ba",
+    "description": "The inexhaustible ornamental wheel of the Sugatas' body, speech and mind.",
+    "ref": "Vajra Verses 139a.7",
+    "band": "B7"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:lamdre",
+    "ref": "139a.7",
+    "rests_on": [
+     "tea:lamdre:139a.7"
+    ]
+   },
+   {
+    "source": "src:three-visions-ngorchen",
+    "ref": "",
+    "rests_on": [
+     "tea:three-visions-ngorchen:structure"
+    ]
+   }
+  ],
+  "notes": "Bands: the three visions are also taught as simultaneous perspectives, not only successive stages; banding is approximate.",
+  "coverage": [
+   "B6",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:sakya"
+   ],
+   "schools": [
+    "lin:sakya"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "pth:lamdre-vajra-verses-grounds",
+  "name": "The path through the grounds in the Vajra Verses",
+  "lineage": "lin:sakya",
+  "stages": [
+   {
+    "order": 1,
+    "name": "path of accumulation",
+    "gloss": "tshogs lam",
+    "description": "Freed from the ordinary body, speech and mind by the four results; the elements gather.",
+    "ref": "140a.2",
+    "band": "B2"
+   },
+   {
+    "order": 2,
+    "name": "path of joining (heat, peak, patience, supreme dharma)",
+    "gloss": "sbyor lam",
+    "description": "The path of the inner buddhas reaching the peak of existence; patience of the unborn.",
+    "ref": "141a.3-4",
+    "band": "B4"
+   },
+   {
+    "order": 3,
+    "name": "first ground",
+    "gloss": "sa dang po",
+    "description": "Marked by inner and outer signs (one finger-width of wind ceasing; drop stabilised).",
+    "ref": "141b.2",
+    "band": "B5"
+   },
+   {
+    "order": 4,
+    "name": "second to sixth grounds",
+    "gloss": "sa gnyis pa – sa drug pa",
+    "description": "Emanation-body qualities increase; six finger-widths of wind cease.",
+    "ref": "141b.3-4",
+    "band": "B6"
+   },
+   {
+    "order": 5,
+    "name": "seventh to tenth grounds",
+    "gloss": "sa bdun pa – sa bcu pa",
+    "description": "Enjoyment-body qualities; mastery of speech and teaching; ten finger-widths of wind cease.",
+    "ref": "141b.4-142a.1",
+    "band": "B6"
+   },
+   {
+    "order": 6,
+    "name": "eleventh and twelfth grounds",
+    "gloss": "sa bcu gcig – bcu gnyis",
+    "description": "Dharmakāya qualities; twelve finger-widths of wind cease.",
+    "ref": "142a.1-5",
+    "band": "B6"
+   },
+   {
+    "order": 7,
+    "name": "twelve-and-a-half ground",
+    "gloss": "sa phyed dang bcu gsum",
+    "description": "The life-wind enters the avadhūtī; the eight qualities of mastery arise.",
+    "ref": "142a.5-142b.1",
+    "band": "B6"
+   },
+   {
+    "order": 8,
+    "name": "thirteenth ground, Vajradhara",
+    "gloss": "sa bcu gsum pa rdo rje 'dzin pa",
+    "description": "Omniscience; awakening with a retinue.",
+    "ref": "142b.5",
+    "band": "B7"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:lamdre",
+    "ref": "140a.2–142b.5",
+    "rests_on": [
+     "tea:lamdre:141a.3-4",
+     "tea:lamdre:141b.2",
+     "tea:lamdre:142b.5"
+    ]
+   }
+  ],
+  "restricted": true,
+  "notes": "Reconstructed from the terse Tibetan of Tōh 2284 (local); the signs belong to restricted completion-stage practice and are summarised only. Ground groupings follow markers in the root text ('sa drug', 'sa bcu', 'sa bcu gnyis', 'sa phyed dang bcu gsum', 'bcu gsum'); low confidence.",
+  "coverage": [
+   "B6",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:sakya"
+   ],
+   "schools": [
+    "lin:sakya"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7342,7 +7922,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7437,19 +8017,18 @@
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 1,
    "lineages": [
     "lin:jodo-shinshu",
     "lin:pure-land"
    ],
    "schools": [
-    "lin:jodo-shinshu",
     "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7578,7 +8157,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7703,7 +8282,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7778,7 +8357,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -7926,7 +8505,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8060,10 +8639,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:maha-fourteen-bhumikas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8084,7 +8679,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8180,7 +8775,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8255,7 +8850,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8340,7 +8935,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8469,7 +9064,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8544,7 +9139,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8634,7 +9229,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8749,7 +9344,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -8862,10 +9457,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:mandalabrahmana-eight-limbs"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8886,7 +9497,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9002,7 +9613,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9108,7 +9719,136 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "pth:moonbeams-mahamudra-stages",
+  "name": "The stages of Mahāmudrā meditation (Moonbeams; 9th Karmapa)",
+  "lineage": "lin:kagyu",
+  "lineages": [
+   "lin:kagyu",
+   "lin:karma-kagyu",
+   "lin:drukpa-kagyu"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "thun mong gi sngon 'gro",
+    "gloss": "common preliminaries",
+    "description": "the four thoughts",
+    "ref": "Moonbeams pt.2",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "thun mong ma yin pa'i sngon 'gro",
+    "gloss": "special preliminaries",
+    "description": "refuge and bodhicitta, Vajrasattva, maṇḍala, guru yoga",
+    "ref": "Moonbeams pt.2",
+    "band": "B1"
+   },
+   {
+    "order": 3,
+    "name": "rten bcas zhi gnas",
+    "gloss": "śamatha with support",
+    "description": "object, breath or deity",
+    "ref": "Moonbeams pt.2",
+    "band": "B3"
+   },
+   {
+    "order": 4,
+    "name": "rten med zhi gnas",
+    "gloss": "śamatha without support",
+    "description": "resting without object; thoughts subside in their own place",
+    "ref": "Moonbeams pt.2",
+    "band": "B4"
+   },
+   {
+    "order": 5,
+    "name": "lhag mthong",
+    "gloss": "vipaśyanā",
+    "description": "looking at the mind in stillness and movement",
+    "ref": "Moonbeams pt.2",
+    "band": "B5"
+   },
+   {
+    "order": 6,
+    "name": "ngo sprod",
+    "gloss": "pointing-out / recognition",
+    "description": "recognition of mind's nature",
+    "ref": "Pointing Out the Dharmakāya",
+    "band": "B5"
+   },
+   {
+    "order": 7,
+    "name": "rnal 'byor bzhi",
+    "gloss": "the four yogas",
+    "description": "sustaining and perfecting the recognition (see pth:mahamudra-four-yogas)",
+    "ref": "Moonbeams pt.2",
+    "band": "B6"
+   },
+   {
+    "order": 8,
+    "name": "'bras bu",
+    "gloss": "fruition",
+    "description": "the dharmakāya in non-meditation",
+    "ref": "Moonbeams pt.2",
+    "band": "B7"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:moonbeams-of-mahamudra",
+    "ref": "pt.2",
+    "rests_on": [
+     "tea:moonbeams-of-mahamudra:pt.2",
+     "tea:moonbeams-of-mahamudra:pt.2/2",
+     "tea:moonbeams-of-mahamudra:pt.2/4",
+     "tea:moonbeams-of-mahamudra:pt.2/8"
+    ]
+   },
+   {
+    "source": "src:ocean-of-definitive-meaning",
+    "ref": "structure",
+    "rests_on": [
+     "tea:ocean-of-definitive-meaning:structure"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "F"
+  ],
+  "notes": "U51 owns pth:mahamudra-four-yogas (stage 7 expanded). Some teachers give the pointing-out before or together with vipaśyanā; the order is the manuals' usual one.",
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:drukpa-kagyu",
+    "lin:kagyu",
+    "lin:karma-kagyu"
+   ],
+   "schools": [
+    "lin:kagyu"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9224,7 +9964,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9313,10 +10053,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:muktika-path"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -9337,7 +10093,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9402,10 +10158,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:nadabindu-nada-stages"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -9426,7 +10198,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9533,7 +10305,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9633,7 +10405,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9723,7 +10495,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -9842,7 +10614,7 @@
    ]
   },
   "convergence": {
-   "count": 4,
+   "count": 2,
    "lineages": [
     "lin:jodo-shinshu",
     "lin:jodo-shu",
@@ -9850,15 +10622,13 @@
     "lin:pure-land"
    ],
    "schools": [
-    "lin:jodo-shinshu",
-    "lin:jodo-shu",
     "lin:mahayana",
     "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10021,7 +10791,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10142,7 +10912,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10258,7 +11028,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10362,7 +11132,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10463,7 +11233,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10571,7 +11341,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10696,7 +11466,86 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "pth:parting-from-four-attachments",
+  "name": "Parting from the Four Attachments as a path",
+  "lineage": "lin:sakya",
+  "stages": [
+   {
+    "order": 1,
+    "name": "not attached to this life",
+    "gloss": "one becomes a dharma practitioner",
+    "ref": "line 1",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "not attached to saṃsāra",
+    "gloss": "renunciation",
+    "ref": "line 2",
+    "band": "B1"
+   },
+   {
+    "order": 3,
+    "name": "not attached to one's own purpose",
+    "gloss": "bodhicitta",
+    "ref": "line 3",
+    "band": "B2"
+   },
+   {
+    "order": 4,
+    "name": "no grasping",
+    "gloss": "the view",
+    "ref": "line 4",
+    "band": "B5"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:parting-from-four-attachments",
+    "ref": "1–4",
+    "rests_on": [
+     "tea:parting-from-four-attachments:1",
+     "tea:parting-from-four-attachments:2",
+     "tea:parting-from-four-attachments:3",
+     "tea:parting-from-four-attachments:4"
+    ]
+   }
+  ],
+  "notes": "Bands approximate (bodhicitta placed in preparatory discipline; the view at first seeing).",
+  "coverage": [
+   "B6",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:sakya"
+   ],
+   "schools": [
+    "lin:sakya"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10837,7 +11686,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -10925,7 +11774,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11047,19 +11896,18 @@
    ]
   },
   "convergence": {
-   "count": 2,
+   "count": 1,
    "lineages": [
     "lin:chan",
     "lin:zen"
    ],
    "schools": [
-    "lin:chan",
-    "lin:zen"
+    "lin:chan"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11139,7 +11987,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11255,7 +12103,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11374,7 +12222,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11521,7 +12369,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11648,7 +12496,7 @@
    "families": [
     "shared"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11732,7 +12580,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11845,7 +12693,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -11922,7 +12770,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12049,7 +12897,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12184,7 +13032,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12309,7 +13157,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12483,7 +13331,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12570,10 +13418,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:sandilya-eight-limbs"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -12594,7 +13458,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12691,10 +13555,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:sannyasa-rite-sequence"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -12715,7 +13595,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12789,10 +13669,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:sannyasa-six-renunciant-grades"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Low-confidence path, checked. Nāradaparivrājaka 5 gives the six kinds and grades them by the worlds reached (ātura/kuṭīcaka the earthly world, bahūdaka svarga, haṃsa tapoloka, paramahaṃsa satyaloka, turīyātīta and avadhūta kaivalya in the Self). The ordering is textual. All 5 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -12813,7 +13709,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -12942,7 +13838,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13110,7 +14006,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13228,7 +14124,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13318,7 +14214,281 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "pth:seven-point-cause-and-effect",
+  "name": "The seven-point cause-and-effect sequence for bodhicitta",
+  "lineage": "lin:gelug",
+  "stages": [
+   {
+    "order": 0,
+    "name": "equanimity",
+    "ref": "LRC great.seven-point",
+    "band": "B2"
+   },
+   {
+    "order": 1,
+    "name": "recognising all beings as mothers",
+    "band": "B2"
+   },
+   {
+    "order": 2,
+    "name": "remembering their kindness",
+    "band": "B2"
+   },
+   {
+    "order": 3,
+    "name": "wishing to repay their kindness",
+    "band": "B2"
+   },
+   {
+    "order": 4,
+    "name": "affectionate love",
+    "band": "B2"
+   },
+   {
+    "order": 5,
+    "name": "great compassion",
+    "band": "B2"
+   },
+   {
+    "order": 6,
+    "name": "extraordinary resolve",
+    "gloss": "lhag bsam",
+    "band": "B2"
+   },
+   {
+    "order": 7,
+    "name": "bodhicitta",
+    "description": "When uncontrived, it marks entry into the Mahāyāna path of accumulation.",
+    "band": "B2"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:lamrim-chenmo",
+    "ref": "great.seven-point",
+    "rests_on": [
+     "tea:lamrim-chenmo:great.seven-point"
+    ]
+   }
+  ],
+  "notes": "All stages fall within preparatory discipline on the general band scale.",
+  "coverage": [
+   "B6",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:gelug"
+   ],
+   "schools": [
+    "lin:gelug"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "pth:seven-points-mind-training",
+  "name": "The seven points of mind training",
+  "lineage": "lin:kadam",
+  "stages": [
+   {
+    "order": 1,
+    "name": "preliminaries",
+    "gloss": "the four thoughts",
+    "ref": "1.1",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "main practice: the two bodhicittas",
+    "gloss": "ultimate (dream-like phenomena, resting in the nature) and relative (sending and taking)",
+    "ref": "2.1–2.9",
+    "band": "B3"
+   },
+   {
+    "order": 3,
+    "name": "transforming adversity into the path",
+    "ref": "3.1–3.6",
+    "band": "B6"
+   },
+   {
+    "order": 4,
+    "name": "a lifetime's practice: the five powers",
+    "ref": "4.1–4.2",
+    "band": "B6"
+   },
+   {
+    "order": 5,
+    "name": "measure of training",
+    "gloss": "signs of a trained mind",
+    "ref": "5.1–5.4",
+    "band": "B6"
+   },
+   {
+    "order": 6,
+    "name": "commitments",
+    "ref": "6.1–6.16",
+    "band": "B1"
+   },
+   {
+    "order": 7,
+    "name": "precepts",
+    "ref": "7.1–7.21",
+    "band": "B1"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:seven-point-mind-training",
+    "ref": "1.1–7.21",
+    "rests_on": [
+     "tea:seven-point-mind-training:1.1",
+     "tea:seven-point-mind-training:2.6",
+     "tea:seven-point-mind-training:5.4"
+    ]
+   }
+  ],
+  "notes": "A curriculum rather than a strict sequence: points 6–7 run alongside the rest; bands approximate.",
+  "coverage": [
+   "B6",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:kadam"
+   ],
+   "schools": [
+    "lin:kadam"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "pth:shangpa-five-golden-dharmas",
+  "name": "The five golden dharmas of the Shangpa (the tree)",
+  "lineage": "lin:shangpa-kagyu",
+  "lineages": [
+   "lin:shangpa-kagyu"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "rtsa ba: ni gu chos drug",
+    "gloss": "root: Niguma's six dharmas",
+    "band": "B2"
+   },
+   {
+    "order": 2,
+    "name": "sdong po: phyag chen ga'u ma",
+    "gloss": "trunk: the Amulet Mahāmudrā",
+    "band": "B5"
+   },
+   {
+    "order": 3,
+    "name": "yal ga: lam khyer gsum",
+    "gloss": "branches: the three integrations",
+    "band": "B6"
+   },
+   {
+    "order": 4,
+    "name": "me tog: mkha' spyod dkar dmar",
+    "gloss": "flowers: white and red Khecarī",
+    "band": "B2"
+   },
+   {
+    "order": 5,
+    "name": "'bras bu: 'chi med lus sems",
+    "gloss": "fruit: deathless body and mind",
+    "band": "B7"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:vajra-lines-of-niguma",
+    "ref": "1",
+    "rests_on": [
+     "tea:vajra-lines-of-niguma:1"
+    ]
+   },
+   {
+    "source": "src:amulet-mahamudra",
+    "ref": "three-self-liberations",
+    "rests_on": [
+     "tea:amulet-mahamudra:three-self-liberations"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "F"
+  ],
+  "notes": "An image (a tree), not a ladder; the order is the image's, and the flowers are deity practices.",
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:shangpa-kagyu"
+   ],
+   "schools": [
+    "lin:shangpa-kagyu"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13404,12 +14574,12 @@
     "lin:shinshu-takada-ha"
    ],
    "schools": [
-    "lin:jodo-shinshu"
+    "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -13475,12 +14645,12 @@
     "lin:jodo-shinshu"
    ],
    "schools": [
-    "lin:jodo-shinshu"
+    "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14349,7 +15519,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14470,7 +15640,144 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "pth:six-yogas-of-naropa-sequence",
+  "name": "The order of the Six Yogas of Nāropa",
+  "lineage": "lin:kagyu",
+  "lineages": [
+   "lin:kagyu",
+   "lin:karma-kagyu",
+   "lin:drikung-kagyu",
+   "lin:drukpa-kagyu"
+  ],
+  "stages": [
+   {
+    "order": 1,
+    "name": "preliminaries and empowerment",
+    "gloss": "ripening",
+    "ref": "Karṇatantravajrapada 303a.1",
+    "band": "B0"
+   },
+   {
+    "order": 2,
+    "name": "generation stage",
+    "gloss": "deity yoga",
+    "ref": "Ājñāsamyakpramāṇa 271a.5",
+    "band": "B2"
+   },
+   {
+    "order": 3,
+    "name": "gtum mo",
+    "gloss": "inner heat — the main trunk",
+    "ref": "Karṇatantravajrapada 303a.2",
+    "band": "B4"
+   },
+   {
+    "order": 4,
+    "name": "sgyu lus",
+    "gloss": "illusory body",
+    "ref": "Karṇatantravajrapada 303a.4",
+    "band": "B5"
+   },
+   {
+    "order": 5,
+    "name": "rmi lam",
+    "gloss": "dream",
+    "ref": "Karṇatantravajrapada 303a.6",
+    "band": "B6"
+   },
+   {
+    "order": 6,
+    "name": "'od gsal",
+    "gloss": "clear light",
+    "ref": "Karṇatantravajrapada 303a.7",
+    "band": "B6"
+   },
+   {
+    "order": 7,
+    "name": "slob pa'i zung 'jug",
+    "gloss": "learner's union",
+    "ref": "bka' dpe phyi ma 275b.1",
+    "band": "B6"
+   },
+   {
+    "order": 8,
+    "name": "mi slob pa'i zung 'jug",
+    "gloss": "non-learner's union (the fruit)",
+    "ref": "bka' dpe phyi ma 275b.1",
+    "band": "B7"
+   },
+   {
+    "order": 9,
+    "name": "bar do and 'pho ba",
+    "gloss": "intermediate state and transference — the methods for those who have not reached union in life",
+    "ref": "Karṇatantravajrapada 303b.1, 304a.3",
+    "band": ""
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:karnatantravajrapada",
+    "ref": "303a.1–304b.3",
+    "rests_on": [
+     "tea:karnatantravajrapada:303a.2",
+     "tea:karnatantravajrapada:304b.1"
+    ]
+   },
+   {
+    "source": "src:bka-dpe-phyi-ma",
+    "ref": "275a.1",
+    "rests_on": [
+     "tea:bka-dpe-phyi-ma:275a.1",
+     "tea:bka-dpe-phyi-ma:275b.1"
+    ]
+   },
+   {
+    "source": "src:ajnasamyakpramana",
+    "ref": "271a.5",
+    "rests_on": [
+     "tea:ajnasamyakpramana:271a.5"
+    ]
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "F"
+  ],
+  "restricted": true,
+  "notes": "Order as in the Karṇatantravajrapada and bka' dpe phyi ma (inner heat → illusory body → dream → clear light → union), with bardo and transference as the fallbacks at death (unbanded). Restricted practices: the map records stages only.",
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:drikung-kagyu",
+    "lin:drukpa-kagyu",
+    "lin:kagyu",
+    "lin:karma-kagyu"
+   ],
+   "schools": [
+    "lin:kagyu"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14627,7 +15934,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14746,7 +16053,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14850,7 +16157,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -14991,7 +16298,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15128,7 +16435,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15266,7 +16573,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15380,7 +16687,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15511,7 +16818,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15654,10 +16961,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:tejobindu-fifteen-limbs"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -15678,7 +17001,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15759,7 +17082,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15844,7 +17167,82 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
+  }
+ },
+ {
+  "id": "pth:three-principal-aspects",
+  "name": "The three principal aspects as a path",
+  "lineage": "lin:gelug",
+  "stages": [
+   {
+    "order": 1,
+    "name": "renunciation",
+    "ref": "vv. 3–5",
+    "band": "B1"
+   },
+   {
+    "order": 2,
+    "name": "bodhicitta",
+    "ref": "vv. 6–8",
+    "band": "B2"
+   },
+   {
+    "order": 3,
+    "name": "the correct view",
+    "description": "Dependent arising and emptiness understood together, not alternately.",
+    "ref": "vv. 9–13",
+    "band": "B5"
+   },
+   {
+    "order": 4,
+    "name": "solitude and effort toward the final goal",
+    "ref": "v. 14",
+    "band": "B6"
+   }
+  ],
+  "sources": [
+   {
+    "source": "src:three-principal-aspects",
+    "ref": "3–14",
+    "rests_on": [
+     "tea:three-principal-aspects:3",
+     "tea:three-principal-aspects:6",
+     "tea:three-principal-aspects:12",
+     "tea:three-principal-aspects:14"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "F"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  },
+  "convergence": {
+   "count": 1,
+   "lineages": [
+    "lin:gelug"
+   ],
+   "schools": [
+    "lin:gelug"
+   ],
+   "families": [
+    "ascetic"
+   ],
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -15999,7 +17397,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16124,7 +17522,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16265,7 +17663,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16423,7 +17821,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16510,10 +17908,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:trisikhi-eight-limbs"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -16534,7 +17948,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16622,7 +18036,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16729,7 +18143,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16868,7 +18282,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -16953,7 +18367,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17084,7 +18498,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17198,7 +18612,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17289,7 +18703,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17376,10 +18790,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:varaha-eight-limbs"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -17400,7 +18830,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17480,10 +18910,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:varaha-seven-bhumikas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:varaha-upanisad:4.2-3-pranava-mapping (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -17504,7 +18950,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17637,21 +19083,19 @@
    ]
   },
   "convergence": {
-   "count": 3,
+   "count": 1,
    "lineages": [
     "lin:jodo-shinshu",
     "lin:jodo-shu",
     "lin:pure-land"
    ],
    "schools": [
-    "lin:jodo-shinshu",
-    "lin:jodo-shu",
     "lin:pure-land"
    ],
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17749,7 +19193,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -17864,7 +19308,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18005,7 +19449,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18128,7 +19572,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18224,7 +19668,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18309,7 +19753,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18416,7 +19860,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18516,7 +19960,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18630,7 +20074,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18738,7 +20182,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18856,7 +20300,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -18946,7 +20390,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19077,7 +20521,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19139,10 +20583,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:yogacudamani-twelvefold-ladder"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -19163,7 +20623,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19268,7 +20728,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19325,10 +20785,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:yogatattva-four-avasthas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -19349,7 +20825,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19404,10 +20880,26 @@
    "F"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of pth:yogatattva-four-yogas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Low-confidence path, checked. The sequence reading is supported by Yogaśikhā 1.129: 'mantro layo haṭho rājayogo'ntarbhūmikāḥ kramāt' ('inner stages, in order'). Yogatattva 19 lists the four. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -19428,7 +20920,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19519,7 +21011,7 @@
    "families": [
     "ascetic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  },
  {
@@ -19608,7 +21100,7 @@
    "families": [
     "vedic"
    ],
-   "computed": "2026-09-29 17:34 IST"
+   "computed": "2026-09-29 17:45 IST"
   }
  }
 ]

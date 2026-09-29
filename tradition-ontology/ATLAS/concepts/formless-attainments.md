@@ -14,4 +14,4 @@
 - corresponds-to-in-map → `pth:jhana-formless-cessation` — rests on [7-20](../texts/potthapada-sutta.md#tea-potthapada-sutta-7-20), [15-17](../texts/ariyapariyesana-sutta.md#tea-ariyapariyesana-sutta-15-17)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._

@@ -13,4 +13,4 @@ Obstacles to liberation in the form of enjoyment (learning, arts, wealth, family
   - [Śiva Saṃhitā](../texts/siva-samhita.md) — ref: 5.2-8; 3.47-48; rests_on: ["tea:siva-samhita:5.2-8", "tea:siva-samhita:3.47-48"]
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._

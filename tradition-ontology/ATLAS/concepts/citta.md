@@ -15,4 +15,4 @@
 - contrasts-with → [Puruṣa (the conscious self)](purusa.md) — rests on [3.35](../texts/yoga-sutra.md#tea-yoga-sutra-3-35), [4.18](../texts/yoga-sutra.md#tea-yoga-sutra-4-18)
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:45 IST._

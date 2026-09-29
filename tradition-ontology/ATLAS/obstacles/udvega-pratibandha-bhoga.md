@@ -12,4 +12,4 @@ Agitation of mind (udvega), external hindrance (pratibandha) and attachment to e
   - [Sevāphala](../texts/sevaphala.md) — ref: 1-3; rests_on: ["tea:sevaphala:1-3"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._

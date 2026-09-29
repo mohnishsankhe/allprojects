@@ -13,4 +13,4 @@ Summary only: a section of the Tirumantiram's third tantra, read in the Siddha t
 _Notes: Restricted (bodily-substance practice). Section title checked in the local TM e-text; interpretation low._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:45 IST._

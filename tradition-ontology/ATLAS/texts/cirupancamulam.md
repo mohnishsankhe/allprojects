@@ -13,4 +13,4 @@
 About a hundred verses each naming five things, like the five small roots of a remedy, by the Jain poet Kāriyācāṉ; one of the Eighteen Minor Classics.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._

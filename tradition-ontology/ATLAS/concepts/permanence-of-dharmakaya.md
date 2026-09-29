@@ -9,8 +9,9 @@
 ## Definitions
 - [Tathāgatagarbha (Buddha-nature) tradition](../lineages/tathagatagarbha.md): The dharmakāya is beginningless, uncreated, permanent, the cessation of suffering itself; whether or not buddhas appear, the garbha is unchanging.
 - [Mahāyāna](../lineages/mahayana.md): The Tathāgata's body is the dharmakāya and is not ill (Vimalakīrti 3.44).
+- [Jonang (jo nang pa)](../lineages/jonang.md): Taken literally: the dharmakāya is permanent, stable, peaceful and eternal, not merely 'permanent' as an unbroken continuum.
 
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

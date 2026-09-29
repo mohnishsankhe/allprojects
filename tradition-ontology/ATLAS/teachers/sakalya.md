@@ -16,4 +16,4 @@ The teacher credited with the Padapāṭha of the Ṛgveda and eponym of the Ś�
 - 2026-09-28 websearch: confirmed — https://en.wikipedia.org/wiki/Shakalya, https://hindupedia.com/en/%C5%9A%C4%81kalya — Confirmed: author of the Ṛgveda Padapāṭha, named by Yāska and Pāṇini; Vidagdha Śākalya questions Yājñavalkya in BĀU 3.9 — some sources identify the two, as the entry reports, with scholarly doubt.
 - 2026-09-28 text-locate: confirmed — text:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/6_sastra/1_gram/panini_astadhyayi.md (GRETIL), text:sources_raw/raw_etexts/vedaH/Rg/shakala/AraNyakam/3/2.md — Cited by Pāṇini (1.1.16 'sambuddhau śākalyasyetāv anārṣe'; 8.3.19 'lopaḥ śākalyasya') and in the Aitareya Āraṇyaka (3.2.1 'prāṇo vaṃśa iti sthaviraḥ śākalyaḥ'). The Padapāṭha authorship is standard (U01 checked the Padapāṭha).
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._

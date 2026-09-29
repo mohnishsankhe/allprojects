@@ -14,4 +14,4 @@ The seventeenth and last section of the Mūlasarvāstivāda Vinayavastu: a long 
   - kind: original; name: R. Gnoli (Rome 1977–78), GRETIL e-text
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

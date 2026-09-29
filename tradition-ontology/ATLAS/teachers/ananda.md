@@ -13,4 +13,4 @@ The Buddha's cousin and personal attendant for twenty-five years, foremost in le
 _Notes: AN 1 Etadaggavagga (the 'foremost' lists)_
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

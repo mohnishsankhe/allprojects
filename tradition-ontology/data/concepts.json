@@ -2507,10 +2507,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:ajapa-gayatri"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 5 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:3-hamsa-mantra (corrected); tea:hamsa-upanisad:3-hamsa-pervades-bodies (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -7822,10 +7838,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:ativarnasrami"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 5 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8254,10 +8286,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:atura-krama-sannyasa"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8532,10 +8580,26 @@
    "A7"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:avadhuta"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 6 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "members": [],
   "relations": [],
@@ -9066,10 +9130,26 @@
    "A9"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:avimukta-taraka"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -12294,10 +12374,26 @@
    "A2"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:bindu"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 6 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -12420,10 +12516,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:bird-and-ant-paths"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -13066,6 +13178,46 @@
   }
  },
  {
+  "id": "cpt:bodhisattva-commentaries",
+  "name": "The three bodhisattva commentaries (sems 'grel skor gsum)",
+  "category": "teacher-transmission",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:jonang",
+    "definition": "Three Indian commentaries held to be by tenth-level bodhisattvas — the Vimalaprabhā on the Kālacakra, Vajragarbha's commentary on the Hevajra, and Vajrapāṇi's commentary on the Cakrasaṃvara — which read the tantras in the definitive sense and are central authorities for the Jonang.",
+    "rests_on": [
+     "tea:mountain-doctrine:definitive",
+     "tea:vimalaprabha:1"
+    ]
+   }
+  ],
+  "members": [
+   "Vimalaprabhā (Puṇḍarīka)",
+   "Hevajrapiṇḍārthaṭīkā (Vajragarbha)",
+   "Laghutantraṭīkā (Vajrapāṇi)"
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:bodhisattva-illness",
   "name": "The bodhisattva's illness from compassion",
   "category": "ethics",
@@ -13585,10 +13737,26 @@
    "A9"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:body-as-temple"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:bhavana-upanisad:1-5 (partially-confirmed).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -15254,6 +15422,22 @@
     ]
    },
    {
+    "lineage": "lin:jonang",
+    "definition": "Buddha-nature is the ultimate itself, permanent, present in all beings complete with the buddha-qualities, empty only of adventitious stains.",
+    "rests_on": [
+     "tea:mountain-doctrine:ground/3",
+     "tea:mountain-doctrine:ground"
+    ]
+   },
+   {
+    "lineage": "lin:rime",
+    "definition": "Kongtrul reads it as the other-empty ground of the Great Madhyamaka; Mipham as the union of luminosity and emptiness, neither mere absence nor permanent entity.",
+    "rests_on": [
+     "tea:uttaratantra-commentary-kongtrul:view",
+     "tea:sugatagarbha-lions-roar-mipham:1"
+    ]
+   },
+   {
     "lineage": "lin:nyingma",
     "definition": "For the Nyingma (Mipham), the sugata-essence is the union of luminosity and emptiness with the qualities spontaneously present, neither a mere absence nor a self; the Guhyagarbha makes it the source from which beings' conceptual karma emanates the realms.",
     "rests_on": [
@@ -15296,6 +15480,11 @@
     "lineage": "lin:tathagatagarbha",
     "name": "buddhadhātu / foxing",
     "term": "trm:buddhadhatu"
+   },
+   {
+    "lineage": "lin:jonang",
+    "name": "bde gshegs snying po",
+    "term": "trm:tathagatagarbha"
    }
   ],
   "relations": [
@@ -15333,6 +15522,7 @@
   "provenance": {
    "units": [
     "skeleton:U39-mahayana-sutras",
+    "skeleton:U48-jonang-chod-medicine-rime",
     "skeleton:U45-nyingma-bon",
     "skeleton:U46-kagyu"
    ],
@@ -15833,6 +16023,20 @@
   "category": "body-energy",
   "definitions": [
    {
+    "lineage": "lin:upanisadic",
+    "definition": "Six centres (mūlādhāra, svādhiṣṭhāna, maṇipūra, anāhata, viśuddhi, ājñā) in most Yoga Upaniṣads, with the thousand-petalled lotus above; the Maṇḍalabrāhmaṇa (4.1) counts nine cakras and six ādhāras, while the Yogacūḍāmaṇi (3) speaks of six cakras and sixteen ādhāras; the Yogaśikhā adds four pīṭhas (Kāmarūpa, Pūrṇagiri, Jālandhara, Uḍyāna); counts and attributes differ between texts.",
+    "rests_on": [
+     "tea:hamsa-upanisad:3-ascent-through-the-centres",
+     "tea:dhyanabindu-upanisad:43-54",
+     "tea:yogacudamani-upanisad:2-3",
+     "tea:mandalabrahmana-upanisad:4.1",
+     "tea:yogakundali-upanisad:1.62-86",
+     "tea:yogakundali-upanisad:3.9-11",
+     "tea:varaha-upanisad:5.50-55",
+     "tea:yogasikha-upanisad:1.165-178"
+    ]
+   },
+   {
     "lineage": "lin:hatha-yoga",
     "definition": "The haṭha texts give different body-maps: six centres (ādhāra/mūlādhāra, svādhiṣṭhāna, maṇipūra, anāhata, viśuddha, ājñā) with the thousand-petalled lotus above (GŚ 10–15, 60–62, 78–85; ṢCN); the Nāth scheme of six (or nine) centres, sixteen supports, three targets and five voids (Vivekamārtaṇḍa; Siddhasiddhāntapaddhati); the Śiva Saṃhitā's centres with Kailāsa, the sahasrāra, 'outside the body called brahmāṇḍa' (5.151); the GS's twelve-petalled lotus within the thousand-petalled where the guru is meditated on. Numbers, petals, letters and deities differ between texts.",
     "rests_on": [
@@ -15854,20 +16058,6 @@
     ]
    },
    {
-    "lineage": "lin:upanisadic",
-    "definition": "Six centres (mūlādhāra, svādhiṣṭhāna, maṇipūra, anāhata, viśuddhi, ājñā) in most Yoga Upaniṣads, with the thousand-petalled lotus above; the Maṇḍalabrāhmaṇa counts nine cakras, sixteen ādhāras; the Yogaśikhā adds four pīṭhas (Kāmarūpa, Pūrṇagiri, Jālandhara, Uḍyāna); counts and attributes differ between texts.",
-    "rests_on": [
-     "tea:hamsa-upanisad:3-ascent-through-the-centres",
-     "tea:dhyanabindu-upanisad:43-54",
-     "tea:yogacudamani-upanisad:2-3",
-     "tea:mandalabrahmana-upanisad:4.1",
-     "tea:yogakundali-upanisad:1.62-86",
-     "tea:yogakundali-upanisad:3.9-11",
-     "tea:varaha-upanisad:5.50-55",
-     "tea:yogasikha-upanisad:1.165-178"
-    ]
-   },
-   {
     "lineage": "lin:srividya",
     "definition": "Six centres below the thousand-petalled lotus; the Saundaryalaharī places earth in the mūlādhāra, water in the maṇipūra, fire in the svādhiṣṭhāna, air in the heart, space in the throat and mind between the brows (SL 9), and worships a Śiva-Śakti pair in each (SL 36-41).",
     "rests_on": [
@@ -15886,28 +16076,84 @@
     ]
    }
   ],
-  "verification": {
-   "level": "skeleton",
-   "confidence": "high",
-   "unverified": false,
-   "checks": []
-  },
-  "coverage": [
-   "A10",
-   "D",
-   "A2",
-   "A8",
-   "A7"
-  ],
   "members": [
    "mūlādhāra",
    "svādhiṣṭhāna",
    "maṇipūra",
    "anāhata",
-   "viśuddha",
+   "viśuddhi",
    "ājñā",
    "sahasrāra",
-   "viśuddhi"
+   "viśuddha"
+  ],
+  "coverage": [
+   "A2",
+   "D",
+   "A10",
+   "A8",
+   "A7"
+  ],
+  "verification": {
+   "level": "sourced",
+   "confidence": "high",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:cakras"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "corrected",
+     "note": "Maṇḍalabrāhmaṇa 4.1 in the e-text reads 'navacakraṃ ṣaḍādhāraṃ trilakṣyaṃ vyomapañcakam', that is nine cakras and SIX ādhāras. The 'sixteen ādhāras' belong to Yogacūḍāmaṇi 3 ('ṣaṭcakraṃ ṣoḍaśādhāraṃ trilakṣyaṃ vyomapañcakam'). The definition is corrected accordingly. The Yogaśikhā's four pīṭhas are confirmed at 1.172-175. All 8 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:3-ascent-through-the-centres (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
+  },
+  "correction_log": [
+   {
+    "field": "definitions",
+    "old": [
+     {
+      "lineage": "lin:upanisadic",
+      "definition": "Six centres (mūlādhāra, svādhiṣṭhāna, maṇipūra, anāhata, viśuddhi, ājñā) in most Yoga Upaniṣads, with the thousand-petalled lotus above; the Maṇḍalabrāhmaṇa counts nine cakras, sixteen ādhāras; the Yogaśikhā adds four pīṭhas (Kāmarūpa, Pūrṇagiri, Jālandhara, Uḍyāna); counts and attributes differ between texts.",
+      "rests_on": [
+       "tea:hamsa-upanisad:3-ascent-through-the-centres",
+       "tea:dhyanabindu-upanisad:43-54",
+       "tea:yogacudamani-upanisad:2-3",
+       "tea:mandalabrahmana-upanisad:4.1",
+       "tea:yogakundali-upanisad:1.62-86",
+       "tea:yogakundali-upanisad:3.9-11",
+       "tea:varaha-upanisad:5.50-55",
+       "tea:yogasikha-upanisad:1.165-178"
+      ]
+     }
+    ],
+    "new": [
+     {
+      "lineage": "lin:upanisadic",
+      "definition": "Six centres (mūlādhāra, svādhiṣṭhāna, maṇipūra, anāhata, viśuddhi, ājñā) in most Yoga Upaniṣads, with the thousand-petalled lotus above; the Maṇḍalabrāhmaṇa (4.1) counts nine cakras and six ādhāras, while the Yogacūḍāmaṇi (3) speaks of six cakras and sixteen ādhāras; the Yogaśikhā adds four pīṭhas (Kāmarūpa, Pūrṇagiri, Jālandhara, Uḍyāna); counts and attributes differ between texts.",
+      "rests_on": [
+       "tea:hamsa-upanisad:3-ascent-through-the-centres",
+       "tea:dhyanabindu-upanisad:43-54",
+       "tea:yogacudamani-upanisad:2-3",
+       "tea:mandalabrahmana-upanisad:4.1",
+       "tea:yogakundali-upanisad:1.62-86",
+       "tea:yogakundali-upanisad:3.9-11",
+       "tea:varaha-upanisad:5.50-55",
+       "tea:yogasikha-upanisad:1.165-178"
+      ]
+     }
+    ],
+    "reason": "Maṇḍalabrāhmaṇa 4.1 in the e-text reads 'navacakraṃ ṣaḍādhāraṃ trilakṣyaṃ vyomapañcakam', that is nine cakras and SIX ādhāras. The 'sixteen ādhāras' belong to Yogacūḍāmaṇi 3 ('ṣaṭcakraṃ ṣoḍaśādhāraṃ trilakṣyaṃ vyomapañcakam'). The definition is corrected accordingly. The Yogaśikhā's four pīṭhas are confirmed at 1.172-175. All 8 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:3-ascent-through-the-centres (corrected).",
+    "date": "2026-09-29 17:45 IST",
+    "by": "sourcing:U04-minor-upanisads"
+   }
   ],
   "relations": [
    {
@@ -15921,8 +16167,8 @@
   ],
   "provenance": {
    "units": [
-    "skeleton:U28-hatha-texts",
     "skeleton:U04-minor-upanisads",
+    "skeleton:U28-hatha-texts",
     "skeleton:U23-sakta-srividya",
     "skeleton:U22-tamil-siddha"
    ],
@@ -17260,6 +17506,202 @@
   "provenance": {
    "units": [
     "skeleton:U37-abhidhamma-visuddhimagga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:chod-cutting-ego-clinging",
+  "name": "Chöd: cutting ego-clinging at the root",
+  "category": "self",
+  "names": [
+   {
+    "lineage": "lin:chod",
+    "name": "gcod yul",
+    "term": "trm:choyul"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:chod",
+    "definition": "What Chöd cuts is not an external enemy but self-clinging, the root of the mind's afflictions and of the four māras; the view of emptiness is applied as the blade.",
+    "rests_on": [
+     "tea:katsom-chenmo:view",
+     "tea:katsom-chenmo:root-of-mind",
+     "tea:phungpo-zenkyur-namshe:four-maras"
+    ]
+   }
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:chod-feasts",
+  "name": "The Chöd feasts (distributions)",
+  "category": "ethics",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:chod",
+    "definition": "The body-offering is visualized in several 'feasts' — white, red, multicoloured and black — differing in what the body becomes and to whom it is given (summary only; restricted).",
+    "rests_on": [
+     "tea:khandro-gegyang:whole"
+    ]
+   }
+  ],
+  "members": [
+   "white feast (dkar 'gyed)",
+   "red feast (dmar 'gyed)",
+   "multicoloured feast (khra 'gyed)",
+   "black feast (nag 'gyed)"
+  ],
+  "relations": [],
+  "notes": "Membership and meanings recalled with low confidence.",
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:chod-from-tibet-to-india",
+  "name": "Chöd as the Dharma that went from Tibet to India (the tradition's account)",
+  "category": "teacher-transmission",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:chod",
+    "definition": "Indian scholars tested Machig, accepted her teaching and carried it to India; the only Dharma said to have travelled in that direction.",
+    "rests_on": [
+     "tea:phungpo-zenkyur-namshe:tibet-to-india"
+    ]
+   }
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:chod-instruments",
+  "name": "The instruments of Chöd",
+  "category": "sound-language",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:chod",
+    "definition": "The large hand-drum, the bell and the thighbone trumpet accompany the sung Chöd liturgy; the melodies are transmitted with the practice.",
+    "rests_on": [
+     "tea:khandro-gegyang:whole"
+    ]
+   }
+  ],
+  "members": [
+   "ḍamaru (Chöd drum)",
+   "bell",
+   "rkang gling (thighbone trumpet)"
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:chod-lineages",
+  "name": "The lineages of Chöd",
+  "category": "teacher-transmission",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:chod",
+    "definition": "Chöd is traced in a 'father' strand from Padampa Sangye and a 'mother' strand from Machig Labdrön, and distinguished as sūtra-tradition and tantra-tradition Chöd (and their union).",
+    "rests_on": [
+     "tea:blue-annals:chod"
+    ]
+   }
+  ],
+  "members": [
+   "father lineage (pha rgyud)",
+   "mother lineage (ma rgyud)",
+   "sūtra tradition (mdo lugs)",
+   "tantra tradition (sngags lugs)"
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -20429,6 +20871,42 @@
   }
  },
  {
+  "id": "cpt:death-bardo-rebirth-as-three-bodies",
+  "name": "Taking death, bardo and rebirth as the three bodies",
+  "category": "death-dying",
+  "definitions": [
+   {
+    "lineage": "lin:gelug",
+    "definition": "In the Highest Yoga Tantra generation stage (Guhyasamāja and others), the practitioner rehearses the dissolution of death as the dharmakāya, the intermediate state as the sambhogakāya and rebirth as the nirmāṇakāya, preparing to transform the actual processes in the completion stage and at death.",
+    "rests_on": [
+     "tea:ngagrim-chenmo:two-stages"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "rel": "part-of",
+    "target": "cpt:signs-of-dissolution",
+    "note": "the eight dissolutions of dying are the first phase",
+    "rests_on": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:death-in-samkhya",
   "name": "Death and transmigration in Sāṃkhya",
   "category": "death-dying",
@@ -20608,10 +21086,26 @@
    "A13"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:death-omens"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -22006,10 +22500,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:destiny-by-matra-at-death"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -22249,10 +22759,26 @@
    "A8"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:devi-as-brahman"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 7 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:bahvrca-upanisad:1-3 (partially-confirmed); tea:bahvrca-upanisad:4-9 (partially-confirmed); tea:sita-upanisad:4-10 (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -25702,6 +26228,13 @@
      "tea:susruta-samhita:su.1.7-8",
      "tea:astanga-hrdaya:su.1.3-5"
     ]
+   },
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "In the Four Tantras: body, children, women, spirits, wounds, poisons, old age and virility.",
+    "rests_on": [
+     "tea:gyushi-tsagyu:2"
+    ]
    }
   ],
   "members": [
@@ -25717,7 +26250,8 @@
   "relations": [],
   "coverage": [
    "A11",
-   "D"
+   "D",
+   "B6"
   ],
   "verification": {
    "level": "skeleton",
@@ -25727,7 +26261,8 @@
   },
   "provenance": {
    "units": [
-    "skeleton:U30-ayurveda-rasa"
+    "skeleton:U30-ayurveda-rasa",
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -25815,6 +26350,58 @@
   "provenance": {
    "units": [
     "skeleton:U30-ayurveda-rasa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:eight-chariots",
+  "name": "The eight great chariots of practice lineages",
+  "category": "teacher-transmission",
+  "names": [
+   {
+    "lineage": "lin:rime",
+    "name": "sgrub brgyud shing rta chen po brgyad",
+    "term": "trm:drubgyu-shingta-gye"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:rime",
+    "definition": "Tibetan practice mapped as eight complete lineages of practice.",
+    "rests_on": [
+     "tea:sheja-kunkhyab:eight-lineages",
+     "tea:damngak-dzo:eight-chariots"
+    ]
+   }
+  ],
+  "members": [
+   "Nyingma",
+   "Kadam",
+   "Sakya Lamdre (Path and Result)",
+   "Marpa Kagyu",
+   "Shangpa Kagyu",
+   "Shije and Chöd",
+   "Kālacakra six-branch yoga (sbyor drug)",
+   "Orgyen Nyendrub (approach and accomplishment of the three vajras)"
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "F",
+   "H"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -26573,6 +27160,50 @@
   "provenance": {
    "units": [
     "skeleton:U17-pasupata-kapalika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:eight-potencies-sowa-rigpa",
+  "name": "The eight potencies and seventeen qualities",
+  "category": "matter-qualities",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Heavy, oily, cool, blunt, light, rough, hot and sharp potencies, with seventeen qualities of disorders and remedies and three post-digestive tastes.",
+    "rests_on": [
+     "tea:gyushi-shegyu:20"
+    ]
+   }
+  ],
+  "members": [
+   "heavy",
+   "oily",
+   "cool",
+   "blunt",
+   "light",
+   "rough",
+   "hot",
+   "sharp"
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -28568,6 +29199,66 @@
    "D"
   ],
   "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:embryology-garbha"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The Garbha content is located. The e-text section numbers differ from the skeleton's: the embryo's growth is §3; see the teaching checks. All 5 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:garbha-upanisad:2 (corrected); tea:garbha-upanisad:3 (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:embryology-sowa-rigpa",
+  "name": "Embryology in the Four Tantras",
+  "category": "body-energy",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Seed, blood and karma-driven consciousness with the five elements form the embryo, which passes through fish, tortoise and pig phases and is born after thirty-eight weeks.",
+    "rests_on": [
+     "tea:gyushi-shegyu:2"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "rel": "same-as-under-standpoint",
+    "target": "cpt:embryology-garbha",
+    "note": "both teach conception from seed, blood and a transmigrating consciousness; stages differ",
+    "rests_on": [
+     "tea:gyushi-shegyu:2"
+    ],
+    "standpoint": "embryology"
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
    "level": "skeleton",
    "confidence": "moderate",
    "unverified": false,
@@ -28575,7 +29266,7 @@
   },
   "provenance": {
    "units": [
-    "skeleton:U04-minor-upanisads"
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -28652,6 +29343,66 @@
   "provenance": {
    "units": [
     "skeleton:U36-pali-suttas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:emptiness-endowed-with-all-supreme-aspects",
+  "name": "The emptiness endowed with all supreme aspects",
+  "category": "ultimate",
+  "names": [
+   {
+    "lineage": "lin:jonang",
+    "name": "rnam kun mchog ldan gyi stong nyid",
+    "term": "trm:namkun-chokden"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:jonang",
+    "definition": "The Kālacakra's ultimate — empty form united with unchanging bliss — identified by Dolpopa with the other-empty dharmatā, as opposed to an emptiness of annihilation.",
+    "rests_on": [
+     "tea:mountain-doctrine:annihilatory-emptiness"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "rel": "same-as-under-standpoint",
+    "target": "cpt:zhentong",
+    "note": "Dolpopa's identification of the tantra's and the sūtras' ultimate",
+    "rests_on": [
+     "tea:mountain-doctrine:annihilatory-emptiness"
+    ],
+    "standpoint": "Jonang"
+   },
+   {
+    "rel": "same-as-under-standpoint",
+    "target": "cpt:aksara-sukha-kalacakra",
+    "note": "unchanging bliss is the bliss aspect of the same ultimate",
+    "rests_on": [
+     "tea:mountain-doctrine:annihilatory-emptiness",
+     "tea:kalacakra-tantra:5"
+    ],
+    "standpoint": "Kālacakra as read by the Jonang"
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -28877,6 +29628,14 @@
      "tea:ratnagotravibhaga:1.154-155",
      "tea:mahaparinirvana-sutra-mahayana:27"
     ]
+   },
+   {
+    "lineage": "lin:jonang",
+    "definition": "The locus classicus of other-emptiness: the element is empty of separable stains and not empty of inseparable qualities — read as definitive.",
+    "rests_on": [
+     "tea:ratnagotravibhaga:1.154-155",
+     "tea:mountain-doctrine:ground"
+    ]
    }
   ],
   "relations": [
@@ -28891,7 +29650,8 @@
   ],
   "coverage": [
    "B4",
-   "D"
+   "D",
+   "B6"
   ],
   "verification": {
    "level": "skeleton",
@@ -28899,9 +29659,11 @@
    "unverified": false,
    "checks": []
   },
+  "names": [],
   "provenance": {
    "units": [
-    "skeleton:U39-mahayana-sutras"
+    "skeleton:U39-mahayana-sutras",
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -30339,6 +31101,66 @@
   }
  },
  {
+  "id": "cpt:fifteen-nyepa",
+  "name": "The fifteen subdivisions of the nyepa",
+  "category": "body-energy",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Each nyepa has five kinds with their own seats and functions.",
+    "rests_on": [
+     "tea:gyushi-shegyu:5"
+    ]
+   }
+  ],
+  "members": [
+   "srog 'dzin",
+   "gyen rgyu",
+   "khyab byed",
+   "me mnyam",
+   "thur sel",
+   "'ju byed",
+   "sgrub byed",
+   "mdangs sgyur",
+   "mthong byed",
+   "mdog gsal",
+   "rten byed",
+   "myag byed",
+   "myong byed",
+   "tshim byed",
+   "'byor byed"
+  ],
+  "relations": [
+   {
+    "rel": "part-of",
+    "target": "cpt:three-nyepa",
+    "note": "",
+    "rests_on": [
+     "tea:gyushi-shegyu:5"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:fifty-one-mental-factors",
   "name": "The mental factors in Yogācāra (fifty-one)",
   "category": "mind",
@@ -31679,6 +32501,58 @@
   }
  },
  {
+  "id": "cpt:five-elements-sowa-rigpa",
+  "name": "The five elements in Sowa Rigpa",
+  "category": "matter-qualities",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Earth, water, fire, wind and space compose body, nyepa, food and medicine; tastes and potencies arise from them.",
+    "rests_on": [
+     "tea:gyushi-shegyu:19",
+     "tea:gyushi-shegyu:2"
+    ]
+   }
+  ],
+  "members": [
+   "earth",
+   "water",
+   "fire",
+   "wind",
+   "space"
+  ],
+  "relations": [
+   {
+    "rel": "same-as-under-standpoint",
+    "target": "cpt:five-elements",
+    "note": "",
+    "rests_on": [
+     "tea:gyushi-shegyu:19"
+    ],
+    "standpoint": "medicine"
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:five-eyes",
   "name": "The five eyes",
   "category": "signs-powers",
@@ -31801,6 +32675,42 @@
    "units": [
     "skeleton:U14-visistadvaita",
     "skeleton:U08-agama-catalogue"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:five-founding-masters",
+  "name": "The five founding masters of the Sakya (sa skya gong ma lnga)",
+  "category": "teacher-transmission",
+  "definitions": [
+   {
+    "lineage": "lin:sakya",
+    "definition": "Sachen Kunga Nyingpo, Sönam Tsemo, Drakpa Gyaltsen, Sakya Paṇḍita and Chögyal Phagpa — the first three called the 'three white ones' (lay), the last two the 'two red ones' (monastic), after their robes.",
+    "rests_on": [
+     "tea:parting-from-four-attachments:context"
+    ]
+   }
+  ],
+  "members": [
+   "tch:sachen-kunga-nyingpo",
+   "tch:sonam-tsemo",
+   "tch:drakpa-gyaltsen",
+   "tch:sakya-pandita",
+   "tch:chogyal-phagpa"
+  ],
+  "notes": "The white/red naming recalled with moderate confidence.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
     "skeleton"
@@ -32549,10 +33459,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:five-kinds-of-alms"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -34198,6 +35124,54 @@
   }
  },
  {
+  "id": "cpt:five-treasuries",
+  "name": "Jamgön Kongtrul's Five Treasuries",
+  "category": "teacher-transmission",
+  "names": [
+   {
+    "lineage": "lin:rime",
+    "name": "mdzod lnga",
+    "term": "trm:dzo-nga"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:rime",
+    "definition": "The five great collections that preserve the Tibetan traditions.",
+    "rests_on": [
+     "tea:damngak-dzo:eight-chariots"
+    ]
+   }
+  ],
+  "members": [
+   "Treasury of Knowledge (shes bya kun khyab mdzod)",
+   "Treasury of Kagyu Mantra (bka' brgyud sngags mdzod)",
+   "Treasury of Precious Treasures (rin chen gter mdzod)",
+   "Treasury of Instructions (gdams ngag mdzod)",
+   "Treasury of Extensive Teachings (rgya chen bka' mdzod)"
+  ],
+  "relations": [],
+  "notes": "Some lists add or substitute the Uncommon Treasury (thun mong ma yin pa'i mdzod).",
+  "coverage": [
+   "B6",
+   "H"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:five-vayus",
   "name": "The five vital winds (vāyu)",
   "category": "body-energy",
@@ -35224,6 +36198,46 @@
   }
  },
  {
+  "id": "cpt:four-ages-dolpopa",
+  "name": "The four ages of the doctrine (Dolpopa)",
+  "category": "cosmology-time",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:jonang",
+    "definition": "The doctrine declines through the four ages; the definitive teaching of the age of perfection (kṛtayuga) is restored by Dolpopa's 'fourth council'.",
+    "rests_on": [
+     "tea:fourth-council-dolpopa:four-ages"
+    ]
+   }
+  ],
+  "members": [
+   "kṛta (rdzogs ldan)",
+   "tretā (gsum ldan)",
+   "dvāpara (gnyis ldan)",
+   "kali (rtsod ldan)"
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:four-aharas",
   "name": "The four nutriments",
   "category": "mind",
@@ -35900,10 +36914,26 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:four-avasthas-of-yoga"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "coverage": [
    "A10",
@@ -36123,6 +37153,46 @@
   "provenance": {
    "units": [
     "skeleton:U44-indian-vajrayana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:four-channels-sowa-rigpa",
+  "name": "The four kinds of channels",
+  "category": "body-energy",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Channels of formation, of existence, of connection and of life.",
+    "rests_on": [
+     "tea:gyushi-shegyu:4"
+    ]
+   }
+  ],
+  "members": [
+   "formation ('khrungs pa'i rtsa)",
+   "existence (srid pa'i rtsa)",
+   "connection ('brel ba'i rtsa)",
+   "life (tshe gnas pa'i rtsa)"
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -36672,6 +37742,19 @@
      "tea:satipatthana-sutta:12-13",
      "tea:asivisopama-sutta:1-17"
     ]
+   },
+   {
+    "lineage": "lin:kagyu",
+    "definition": "In the Nāropa texts the elements are known through their dissolution: earth into water, water into fire, fire into wind, wind into consciousness at death and in yoga; inner heat does not progress unless the 'equal taste of the four elements' is known.",
+    "sources": [
+     "src:bka-dpe-phyi-ma",
+     "src:karnatantravajrapada"
+    ],
+    "rests_on": [
+     "tea:bka-dpe-phyi-ma:275a.4",
+     "tea:karnatantravajrapada:304a.3",
+     "tea:bka-dpe-phyi-ma:273b.3"
+    ]
    }
   ],
   "verification": {
@@ -36682,7 +37765,8 @@
   },
   "coverage": [
    "B3",
-   "D"
+   "D",
+   "B6"
   ],
   "members": [
    "pathavīdhātu",
@@ -36703,7 +37787,8 @@
   ],
   "provenance": {
    "units": [
-    "skeleton:U36-pali-suttas"
+    "skeleton:U36-pali-suttas",
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -37131,6 +38216,52 @@
   "provenance": {
    "units": [
     "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:four-guests",
+  "name": "The four guests of the Chöd offering",
+  "category": "ethics",
+  "names": [
+   {
+    "lineage": "lin:chod",
+    "name": "mgron po bzhi",
+    "term": "trm:dronpo-zhi"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:chod",
+    "definition": "The recipients of the visualized body-offering: the Three Jewels (devotion), the protectors (qualities), the six classes of beings (compassion), and harmful spirits and karmic creditors (repaying debts).",
+    "rests_on": [
+     "tea:phungpo-zenkyur-namshe:guests"
+    ]
+   }
+  ],
+  "members": [
+   "the Three Jewels and lineage",
+   "the protectors",
+   "the six classes of beings",
+   "harmful spirits and karmic creditors"
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -37896,10 +39027,26 @@
    "A9"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:four-kinds-of-mukti"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "relations": [
    {
@@ -38019,10 +39166,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:four-kinds-of-sannyasa"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -38296,6 +39459,46 @@
   "provenance": {
    "units": [
     "skeleton:U39-mahayana-sutras"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:four-methods-of-treatment",
+  "name": "The four methods of treatment",
+  "category": "body-energy",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Diet, behaviour, medicine and external therapy, from gentle to strong.",
+    "rests_on": [
+     "tea:gyushi-tsagyu:5"
+    ]
+   }
+  ],
+  "members": [
+   "diet (zas)",
+   "behaviour (spyod lam)",
+   "medicine (sman)",
+   "external therapy (dpyad)"
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -41298,10 +42501,26 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:four-yogas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 7 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "coverage": [
    "A10",
@@ -43159,6 +44378,47 @@
   }
  },
  {
+  "id": "cpt:gods-and-demons-as-mind",
+  "name": "Gods and demons as the mind's own display",
+  "category": "mind",
+  "names": [
+   {
+    "lineage": "lin:chod",
+    "name": "lha 'dre",
+    "term": "trm:lhadre"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:chod",
+    "definition": "Gods and demons have no existence apart from the mind; as long as there is ego-clinging there are demons, and when it is cut there are none; hope of gods and fear of demons are both cut.",
+    "rests_on": [
+     "tea:katsom-chenmo:root-of-mind",
+     "tea:katsom-chenmo:hope-and-fear"
+    ]
+   }
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:gods-as-names-of-the-one",
   "name": "The gods as names of the One",
   "category": "ultimate",
@@ -44267,6 +45527,55 @@
   }
  },
  {
+  "id": "cpt:great-madhyamaka",
+  "name": "The Great Madhyamaka (dbu ma chen po)",
+  "category": "ultimate",
+  "names": [
+   {
+    "lineage": "lin:jonang",
+    "name": "dbu ma chen po",
+    "term": "trm:uma-chenpo"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:jonang",
+    "definition": "The definitive Madhyamaka of the third wheel, the Maitreya texts, Nāgārjuna's hymns and the Kālacakra, beyond the extremes because conventional phenomena do not truly exist and the ultimate does not not exist.",
+    "rests_on": [
+     "tea:mountain-doctrine:definitive"
+    ]
+   },
+   {
+    "lineage": "lin:rime",
+    "definition": "Kongtrul's summit of the sūtra tenets: other-emptiness Madhyamaka.",
+    "rests_on": [
+     "tea:sheja-kunkhyab:tenets",
+     "tea:uttaratantra-commentary-kongtrul:view"
+    ]
+   }
+  ],
+  "relations": [],
+  "notes": "The Nyingma (Rongzom, Mipham) use 'Great Madhyamaka' for a Madhyamaka of the union of appearance and emptiness; that usage is not merged here.",
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:great-matter-birth-death",
   "name": "The great matter of birth and death",
   "category": "karma-rebirth",
@@ -44988,7 +46297,7 @@
    "A9"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
    "checks": [
@@ -45005,6 +46314,21 @@
      ],
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:guru"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 7 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -45571,10 +46895,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:hamsa"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 9 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:3-hamsa-as-bird (corrected); tea:hamsa-upanisad:3-hamsa-mantra (corrected); tea:hamsa-upanisad:3-hamsa-pervades-bodies (corrected); tea:mahavakya-upanisad:3-4 (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -45646,10 +46986,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:hare-krsna-mahamantra"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -46178,10 +47534,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:heart-lotus-petals"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:3-heart-lotus (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -46635,6 +48007,40 @@
   "provenance": {
    "units": [
     "skeleton:U32-jyotisa"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:hot-and-cold-disorders",
+  "name": "Hot and cold disorders",
+  "category": "matter-qualities",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "All disorders are finally hot or cold; mkhris pa and blood disorders are hot, rlung and bad kan cold.",
+    "rests_on": [
+     "tea:gyushi-shegyu:27"
+    ]
+   }
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -47169,10 +48575,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:images-for-the-ignorant"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Darśana 4.59 is located: śivam ātmani paśyanti pratimāsu na yoginaḥ | ajñānāṃ bhāvanārthāya pratimāḥ parikalpitāḥ. All 3 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -47554,10 +48976,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:inner-sacrifice"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 5 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -47643,10 +49081,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:inner-sikha-yajnopavita"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -47721,10 +49175,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:inner-time"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -47772,10 +49242,26 @@
    "A9"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:inner-tirthas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -50791,6 +52277,21 @@
      "result": "confirmed",
      "note": "All 6 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 4.4.7; KU 2.3.14; KU 2.3.15; MuU 2.2.8; MuU 3.1.4; Kena 2.5). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages. MuU 2.2.8 is cited in the common numbering (Advaita-Śāradā is one higher from 2.2.8), and the passage meant was checked under that numbering.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:jivanmukti"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -51042,10 +52543,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:jnana-limbs"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 5 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -55026,6 +56543,32 @@
   }
  },
  {
+  "id": "cpt:khon-hereditary-succession",
+  "name": "Hereditary succession of the Khön family",
+  "category": "teacher-transmission",
+  "definitions": [
+   {
+    "lineage": "lin:sakya",
+    "definition": "Leadership of the Sakya passes within the Khön family (in later centuries alternating between its two palaces, Phuntsok and Drolma), the throne-holder being the Sakya Trizin; the Ngor and Tshar abbacies follow their own lines.",
+    "rests_on": []
+   }
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:kiho-ittai",
   "name": "Oneness of person and Dharma (kihō ittai)",
   "category": "ultimate",
@@ -56680,10 +58223,26 @@
    "A9"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:kundalini"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -57471,6 +59030,21 @@
      "result": "confirmed",
      "note": "All 5 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 3.14.1; PrU 3.10; Īśa 17; PrU 5; ChU 3.17.6). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:last-thought"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Yogaśikhā 1.31 is located: dehāvasānasamaye citte yad yad vibhāvayet | tat tad eva bhavej jīvaḥ. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -57887,10 +59461,26 @@
    "A8"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:levels-of-speech"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:aksamalika-upanisad:1-3 (partially-confirmed).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -58376,10 +59966,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:limbs-of-yoga-in-upanisads"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -60546,6 +62152,21 @@
      "result": "confirmed",
      "note": "All four sayings are located: 'prajñānaṃ brahma' AU 3.1.3 (= AU 3.3); 'ahaṃ brahmāsmi' BĀU 1.4.10; 'tat tvam asi' ChU 6.8.7 and its refrain; 'ayam ātmā brahma' MāU 2 and BĀU 2.5.19. Their assignment to the four Vedas matches the texts' Veda affiliations checked above. That the word 'mahāvākya' is not in these Upaniṣads and the grouping is later Advaita usage is consistent with the texts searched. All 5 Upaniṣad refs cited in the entry are located in the prepared segments (AU 3.1.3; BĀU 1.4.10; ChU 6.8.7; MāU 2; BĀU 2.5.19). It rests on 5 teaching(s) text-located in this sweep, and its wording matches those passages. Refs given in another numbering: AU 3.3 = AU 3.1.3 in three-level numbering.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:mahavakyas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Located: Śukarahasya (the four sayings with seer and metre), Nāradaparivrājaka 4.38, the Maṭhāmnāya (eBhāratī: tattvamasi, ahaṃ brahmāsmi, ayam ātmā …) and Bahvṛca (prajñānaṃ brahma …). All 4 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:bahvrca-upanisad:4-9 (partially-confirmed).",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -63258,6 +64879,80 @@
   }
  },
  {
+  "id": "cpt:medicine-buddha-teaching-setting",
+  "name": "The Medicine Buddha's teaching in Tanaduk",
+  "category": "teacher-transmission",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "The Four Tantras are taught in the medicine city Tanaduk by the Medicine Buddha's emanation Rigpé Yeshe, at the request of Yilé Kyé, before four retinues.",
+    "rests_on": [
+     "tea:gyushi-tsagyu:1",
+     "tea:gyushi-tsagyu:2"
+    ]
+   }
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:medicine-tree",
+  "name": "The tree of healing (the three trees of the Root Tantra)",
+  "category": "stages-maps",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "The whole science summarized as three trees — the basis, diagnosis, treatment — with roots, nine trunks, forty-seven branches and two hundred and twenty-four leaves; flowers of health and long life; fruits of Dharma, wealth and happiness.",
+    "rests_on": [
+     "tea:gyushi-tsagyu:6"
+    ]
+   }
+  ],
+  "members": [
+   "root of the basis (health and disease)",
+   "root of diagnosis",
+   "root of treatment"
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:meditation-sickness",
   "name": "Meditation sickness (zenbyō) and its cure",
   "category": "obstacles",
@@ -63397,6 +65092,55 @@
   "provenance": {
    "units": [
     "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:mental-origin-of-disease",
+  "name": "The mental origin of disease: ignorance and the three poisons",
+  "category": "mind",
+  "names": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "name": "ma rig pa, dug gsum",
+    "term": "trm:marigpa"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "The distant cause of all disease is ignorance of selflessness, never parted from beings as a shadow from a bird; from it come desire, hatred and delusion, and from them rlung, mkhris pa and bad kan.",
+    "rests_on": [
+     "tea:gyushi-shegyu:8"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "rel": "causes",
+    "target": "cpt:three-nyepa",
+    "note": "",
+    "rests_on": [
+     "tea:gyushi-shegyu:8"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -63931,10 +65675,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:mind-cause-of-bondage-and-liberation"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -64248,10 +66008,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:minor-upanisad-groups"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Confirmed: the groups follow the Adyar volumes (Yoga 1920, Sāmānya Vedānta 1921, Vaiṣṇava 1923, Śaiva 1925, Śākta 1925, Saṃnyāsa 1929) and match the local group lists in raw_etexts. The Muktikā itself lists by Veda only. No teaching ids cited.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -64867,10 +66643,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:monkey-and-crow-paths"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -65068,10 +66860,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:muktika-canon"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Confirmed from the e-text Muktikā: the 108 names in 1.30-39, the Veda lists with peace-chants in the prose, the graded study Māṇḍūkya → 10 → 32 → 108 in 1.26-29, and one Upaniṣad per śākhā in 1.12-15. The group counts (10+24+20+17+15+8+14 = 108) match the local group lists and Wikipedia. All 4 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -65447,10 +67255,26 @@
    "A9"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:nada"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-ten-sounds (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "notes": "For the inner sounds of the Yoga Upaniṣads and haṭha texts see (owned by U04/U28/U29): tea:hamsa-upanisad:4-ten-sounds, tea:nadabindu-upanisad:33-35, tea:hatha-yoga-pradipika:4.65-66, tea:hatha-yoga-pradipika:4.69, pth:hyp-nada-four-stages, phn:hamsa-ten-sounds.",
   "provenance": {
@@ -65782,6 +67606,21 @@
      "result": "confirmed",
      "note": "Located: 101 channels (KU 2.3.16; ChU 8.6.6); 72,000 hitā channels (BĀU 2.1.19 'hitā nāma nāḍyo dvāsaptatiḥ sahasrāṇi'); 101 × 100 × 72,000 branch channels in which vyāna moves (PrU 3.6); coloured fluids and the sun's rays (ChU 8.6.1); suṣumṇā (MaiU 6.21). All 6 Upaniṣad refs cited in the entry are located in the prepared segments (KU 2.3.16; ChU 8.6.6; BĀU 2.1.19; PrU 3.6; ChU 8.6.1; MaiU 6.21). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:nadis"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 7 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -68920,10 +70759,26 @@
    "A7"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:ninety-six-tattvas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Varāha 1.6-15 is located: the four attitudes (muditā, karuṇā, maitrī, upekṣā) at v. 13 and the fourteen deities (dik … īśvara) at v. 14. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "members": [
    "pūtam 5",
@@ -71366,6 +73221,40 @@
   }
  },
  {
+  "id": "cpt:nyensa-haunted-places",
+  "name": "Fearsome places (gnyan sa) and charnel grounds",
+  "category": "cosmology-time",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:chod",
+    "definition": "Places inhabited by powerful spirits — charnel grounds, lonely springs, trees and passes — where Chöd is practised because fear arises there and exposes self-clinging.",
+    "rests_on": [
+     "tea:katsom-chenmo:frightening-places"
+    ]
+   }
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:obhasa-and-rupa",
   "name": "Light and vision of forms",
   "category": "signs-powers",
@@ -71787,10 +73676,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:omkara-matras"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -74676,7 +76581,7 @@
      }
     ],
     "reason": "Every example in the definition was text-located. ŚB 14.6.11.2 has 'indho vai nāmaiṣa … taṃ vā etam indhaṃ santam indra ity ācakṣate paro'kṣeṇaiva paro'kṣapriyā iva hi devāḥ pratyakṣadviṣaḥ'. AB 3.43 has 'tam agnistomaṃ santam agniṣṭoma ity ācakṣate parokṣeṇa parokṣapriyā iva hi devāḥ', and also 3.33 and 7.30. The svāpyaya → svapna pun, however, is ŚB 10.5.2.19, not 10.5.2.20, as the correction of tea:satapatha-brahmana:10.5.2.20 records. Correction: that locator becomes 10.5.2.19 in the definition; the wording is otherwise unchanged.",
-    "date": "2026-09-29 17:34 IST",
+    "date": "2026-09-29 17:45 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],
@@ -75039,10 +76944,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:pasu-pasupati"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:jabali-upanisad:1-2 (partially-confirmed); tea:jabali-upanisad:3-4 (partially-confirmed).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -76309,11 +78230,19 @@
     "rests_on": [
      "tea:vimalakirtinirdesa:3.44"
     ]
+   },
+   {
+    "lineage": "lin:jonang",
+    "definition": "Taken literally: the dharmakāya is permanent, stable, peaceful and eternal, not merely 'permanent' as an unbroken continuum.",
+    "rests_on": [
+     "tea:mountain-doctrine:ground/2"
+    ]
    }
   ],
   "coverage": [
    "B4",
-   "D"
+   "D",
+   "B6"
   ],
   "verification": {
    "level": "skeleton",
@@ -76321,9 +78250,12 @@
    "unverified": false,
    "checks": []
   },
+  "names": [],
+  "relations": [],
   "provenance": {
    "units": [
-    "skeleton:U39-mahayana-sutras"
+    "skeleton:U39-mahayana-sutras",
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -76413,6 +78345,48 @@
   }
  },
  {
+  "id": "cpt:physician-qualities-sowa-rigpa",
+  "name": "The qualities of the physician",
+  "category": "ethics",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Intelligence, altruistic intention (the four immeasurables towards patients), commitment, skill, diligence and knowledge of worldly conduct.",
+    "rests_on": [
+     "tea:gyushi-shegyu:31"
+    ]
+   }
+  ],
+  "members": [
+   "intelligence",
+   "altruistic intention",
+   "commitment",
+   "skill in body, speech and mind",
+   "diligence",
+   "worldly conduct"
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:pilupaka-pitharapaka",
   "name": "Heat-transformation: atoms or whole?",
   "category": "matter-qualities",
@@ -76465,10 +78439,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:pinda-afterdeath-body"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -78861,10 +80851,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:prarabdha-of-the-knower"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -80152,6 +82158,55 @@
   "provenance": {
    "units": [
     "skeleton:U38-early-schools"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:pulse-diagnosis-sowa-rigpa",
+  "name": "Pulse diagnosis in Sowa Rigpa",
+  "category": "body-energy",
+  "names": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "name": "rtsa brtag",
+    "term": "trm:tsa-tak"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Reading the radial pulse of both wrists with three fingers, each position linked to organs; constitutional, seasonal, disease and death pulses and the seven 'wondrous' pulses.",
+    "rests_on": [
+     "tea:gyushi-chimagyu:1"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "rel": "contrasts-with",
+    "target": "cpt:nadi-pariksa",
+    "note": "parallel diagnostic method in later Āyurveda; historical relation not established here",
+    "rests_on": [
+     "tea:gyushi-chimagyu:1"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -82294,6 +84349,72 @@
   }
  },
  {
+  "id": "cpt:rangtong",
+  "name": "Self-emptiness (rang stong)",
+  "category": "ultimate",
+  "names": [
+   {
+    "lineage": "lin:jonang",
+    "name": "rang stong",
+    "term": "trm:rangtong"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:jonang",
+    "definition": "Emptiness of own-nature; the Jonang accept it of every conventional phenomenon and deny it of the ultimate.",
+    "rests_on": [
+     "tea:mountain-doctrine:two-truths"
+    ]
+   },
+   {
+    "lineage": "lin:rime",
+    "definition": "In Kongtrul's tenet presentation, the Madhyamaka of Nāgārjuna's reasonings, valid for cutting elaborations.",
+    "rests_on": [
+     "tea:sheja-kunkhyab:tenets"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "rel": "contrasts-with",
+    "target": "cpt:zhentong",
+    "note": "not yet reconciled",
+    "rests_on": [
+     "tea:twenty-one-differences-taranatha:whole"
+    ]
+   },
+   {
+    "rel": "same-as-under-standpoint",
+    "target": "cpt:svabhava-and-nihsvabhavata",
+    "note": "the self-emptiness of the rangtong Madhyamaka is the Madhyamaka's absence of own-nature applied to all phenomena",
+    "rests_on": [
+     "tea:legs-bshad-snying-po:madhyamaka-ultimate"
+    ],
+    "standpoint": "rangtong Madhyamaka"
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:rarity-of-human-birth",
   "name": "The rarity of human birth",
   "category": "cosmology-time",
@@ -82740,6 +84861,13 @@
     "rests_on": [
      "tea:rasaratnakara:rasa.1.3-6"
     ]
+   },
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Rejuvenation (bcud len) is the seventh branch, taught in the closing chapters of the Oral Instruction Tantra, with virility.",
+    "rests_on": [
+     "tea:gyushi-mengagyu:rejuvenation"
+    ]
    }
   ],
   "members": [
@@ -82761,7 +84889,8 @@
   ],
   "coverage": [
    "A11",
-   "D"
+   "D",
+   "B6"
   ],
   "verification": {
    "level": "skeleton",
@@ -82771,7 +84900,8 @@
   },
   "provenance": {
    "units": [
-    "skeleton:U30-ayurveda-rasa"
+    "skeleton:U30-ayurveda-rasa",
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -83898,10 +86028,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:renouncer-permitted-deaths"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -83937,10 +86083,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:renunciant-marks"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -84249,6 +86411,49 @@
   }
  },
  {
+  "id": "cpt:rime-approach",
+  "name": "The Rimé (non-sectarian) approach",
+  "category": "teacher-transmission",
+  "names": [
+   {
+    "lineage": "lin:rime",
+    "name": "ris med",
+    "term": "trm:rime"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:rime",
+    "definition": "Every authentic lineage is to be respected, received, practised and preserved in its own terms without mixing; disparaging another tradition is abandoning the Dharma; rare transmissions are to be collected and printed.",
+    "rests_on": [
+     "tea:kongtrul-autobiography:impartial",
+     "tea:damngak-dzo:eight-chariots",
+     "tea:drubtab-kuntu:whole",
+     "tea:shenga-thirteen-great-texts:method"
+    ]
+   }
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "H"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:ripe-and-unripe-body",
   "name": "Ripe and unripe bodies (pakva, apakva)",
   "category": "body-energy",
@@ -84276,6 +86481,57 @@
    "A10"
   ],
   "verification": {
+   "level": "sourced",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:ripe-and-unripe-body"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U04-minor-upanisads",
+    "skeleton:U28-hatha-texts"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:rlung-and-mind",
+  "name": "Rlung as the mount of the mind",
+  "category": "body-energy",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Rlung carries the mind as a horse its rider; disturbances of rlung show as mental agitation, and mental disorders are treated largely as rlung disorders.",
+    "rests_on": [
+     "tea:gyushi-mengagyu:rlung-disorders"
+    ]
+   }
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
    "level": "skeleton",
    "confidence": "moderate",
    "unverified": false,
@@ -84283,8 +86539,7 @@
   },
   "provenance": {
    "units": [
-    "skeleton:U04-minor-upanisads",
-    "skeleton:U28-hatha-texts"
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -85385,10 +87640,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:sadhana-catustaya"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -86109,10 +88380,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:sakala-niskala"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "Śāṇḍilya ch. 3 (e-text) and Brahmavidyā 37-40 (sakala and niṣkala, e.g. flower and scent, tree and shade) are located. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -89184,6 +91471,21 @@
      "result": "confirmed",
      "note": "All 5 Upaniṣad refs cited in the entry are located in the prepared segments (BĀU 3.5.1; BĀU 4.4.22; MuU 3.2.6; MuU 1.2.11; ŚU 6.21). It rests on 6 teaching(s) text-located in this sweep, and its wording matches those passages.",
      "by": "sourcing:U03-principal-upanisads"
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:sannyasa"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -89254,10 +91556,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:sannyasa-rite"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -91425,10 +93743,26 @@
    "A8"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:secrecy-and-eligibility"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 7 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:mahavakya-upanisad:1-2 (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -92976,10 +95310,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:seven-ajnana-bhumikas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -93058,10 +95408,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:seven-bhumikas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 5 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:varaha-upanisad:4.2-3-pranava-mapping (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -93110,6 +95476,59 @@
   "provenance": {
    "units": [
     "skeleton:U33-sramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:seven-bodily-constituents",
+  "name": "The seven bodily constituents (lus zungs bdun)",
+  "category": "body-energy",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Nutritive essence, blood, flesh, fat, bone, marrow and regenerative fluid, each refined from the one before.",
+    "rests_on": [
+     "tea:gyushi-tsagyu:3"
+    ]
+   }
+  ],
+  "members": [
+   "dangs ma (nutritive essence)",
+   "khrag (blood)",
+   "sha (flesh)",
+   "tshil (fat)",
+   "rus pa (bone)",
+   "rkang (marrow)",
+   "khu ba (regenerative fluid)"
+  ],
+  "relations": [
+   {
+    "rel": "same-as-under-standpoint",
+    "target": "cpt:seven-dhatus",
+    "note": "the seven dhātus of Āyurveda",
+    "rests_on": [
+     "tea:gyushi-tsagyu:3"
+    ],
+    "standpoint": "medical physiology"
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -93173,6 +95592,50 @@
   "provenance": {
    "units": [
     "skeleton:U36-pali-suttas"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:seven-constitutions-sowa-rigpa",
+  "name": "The seven constitutions (rang bzhin bdun)",
+  "category": "body-energy",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "rlung, mkhris pa, bad kan, the three pairs and the combined type, each with its body and temperament.",
+    "rests_on": [
+     "tea:gyushi-shegyu:6"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "rel": "same-as-under-standpoint",
+    "target": "cpt:prakrti-constitution",
+    "note": "",
+    "rests_on": [
+     "tea:gyushi-shegyu:6"
+    ],
+    "standpoint": "medical typology"
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -94051,6 +96514,55 @@
   }
  },
  {
+  "id": "cpt:seven-transmissions",
+  "name": "The seven transmissions (bka' babs bdun) of Jamyang Khyentse Wangpo",
+  "category": "teacher-transmission",
+  "names": [
+   {
+    "lineage": "lin:rime",
+    "name": "bka' babs bdun",
+    "term": "trm:kabab-dun"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:rime",
+    "definition": "The seven modes by which Khyentse Wangpo held the teachings.",
+    "rests_on": [
+     "tea:khyentse-namthar-kongtrul:seven-transmissions"
+    ]
+   }
+  ],
+  "members": [
+   "long oral lineage (bka' ma)",
+   "earth treasure (sa gter)",
+   "rediscovered treasure (yang gter)",
+   "mind treasure (dgongs gter)",
+   "recollection (rjes dran)",
+   "pure vision (dag snang)",
+   "hearing lineage (snyan brgyud)"
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "H"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:seven-types-of-mind",
   "name": "The seven types of awareness (blo rig bdun)",
   "category": "mind",
@@ -94523,6 +97035,87 @@
   "provenance": {
    "units": [
     "skeleton:U13-advaita"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:shije-pacification",
+  "name": "Pacification of suffering (zhi byed)",
+  "category": "karma-rebirth",
+  "names": [
+   {
+    "lineage": "lin:shije",
+    "name": "zhi byed",
+    "term": "trm:zhije"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:shije",
+    "definition": "Suffering is pacified by the realization of the Perfection of Wisdom — the 'mantra that pacifies all suffering' — combined with instructions of sūtra and mantra given according to capacity.",
+    "rests_on": [
+     "tea:prajnaparamita-hrdaya:s9",
+     "tea:zhije-lamnga-tsele:five-paths",
+     "tea:dingri-gyatsa:mind"
+    ]
+   }
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:shije-three-transmissions",
+  "name": "The three transmissions of Pacification",
+  "category": "teacher-transmission",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:shije",
+    "definition": "Padampa Sangye's teaching was passed on in early, middle and later transmissions, the later through Dampa Kunga.",
+    "rests_on": [
+     "tea:blue-annals:shije"
+    ]
+   }
+  ],
+  "members": [
+   "early transmission (snga dar)",
+   "middle transmission (bar dar)",
+   "later transmission (phyi dar)"
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -95707,10 +98300,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:siddhis-in-yoga-upanisads"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:sandilya-upanisad:1.60-68 (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -96101,6 +98710,50 @@
   "provenance": {
    "units": [
     "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:signs-of-death-sowa-rigpa",
+  "name": "Signs of death in Sowa Rigpa",
+  "category": "death-dying",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Distant, near and uncertain signs by which the physician judges curability.",
+    "rests_on": [
+     "tea:gyushi-shegyu:7"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "rel": "same-as-under-standpoint",
+    "target": "cpt:signs-of-death-vajrayana",
+    "note": "medical and yogic omens of death overlap",
+    "rests_on": [
+     "tea:gyushi-shegyu:7"
+    ],
+    "standpoint": "omens of death"
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -96996,10 +99649,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:siva-visnu-identity"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -98196,10 +100865,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:six-kinds-of-renunciant"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -98928,6 +101613,58 @@
   }
  },
  {
+  "id": "cpt:six-tastes-sowa-rigpa",
+  "name": "The six tastes in Sowa Rigpa",
+  "category": "matter-qualities",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Sweet, sour, salty, bitter, hot and astringent, each from a pair of elements, each pacifying or aggravating particular nyepa.",
+    "rests_on": [
+     "tea:gyushi-shegyu:19"
+    ]
+   }
+  ],
+  "members": [
+   "sweet",
+   "sour",
+   "salty",
+   "bitter",
+   "hot",
+   "astringent"
+  ],
+  "relations": [
+   {
+    "rel": "same-as-under-standpoint",
+    "target": "cpt:six-tastes",
+    "note": "same six tastes; the element-pair assigned to bitter differs (Tibetan water+wind)",
+    "rests_on": [
+     "tea:gyushi-shegyu:19"
+    ],
+    "standpoint": "pharmacology"
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:six-teachers",
   "name": "The six rival teachers (cha satthāro)",
   "category": "teacher-transmission",
@@ -99395,10 +102132,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:sixteen-kinds-of-asrama"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -100138,10 +102891,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:sleep-and-samadhi"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -104474,10 +107243,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:svecchacara"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -105722,10 +108507,26 @@
    "A10"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:taraka-amanaska"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -107049,10 +109850,26 @@
    "A10"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:ten-inner-sounds"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-effects-of-the-sounds (corrected); tea:hamsa-upanisad:4-ten-sounds (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -107965,6 +110782,13 @@
     "rests_on": [
      "tea:sekoddesa:24-27"
     ]
+   },
+   {
+    "lineage": "lin:jonang",
+    "definition": "The empty forms that appear in the branch of withdrawal of the Jonang six-branch yoga: smoke, mirage, fireflies, lamp, blaze, moon, sun, darkness, lightning and drop.",
+    "rests_on": [
+     "tea:thongwa-donden-taranatha:ten-signs"
+    ]
    }
   ],
   "members": [
@@ -107998,11 +110822,14 @@
   },
   "coverage": [
    "B5",
-   "D"
+   "D",
+   "B6"
   ],
+  "names": [],
   "provenance": {
    "units": [
-    "skeleton:U44-indian-vajrayana"
+    "skeleton:U44-indian-vajrayana",
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -108158,10 +110985,26 @@
    "A7"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:ten-vayus"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -108300,10 +111143,26 @@
    "A10"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:ten-yamas-ten-niyamas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -109977,10 +112836,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:three-acaryas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -111442,6 +114317,45 @@
   }
  },
  {
+  "id": "cpt:three-excretions",
+  "name": "The three excretions (dri ma gsum)",
+  "category": "body-energy",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Faeces, urine and sweat, which with the nyepa and constituents make up the body's basis.",
+    "rests_on": [
+     "tea:gyushi-tsagyu:3"
+    ]
+   }
+  ],
+  "members": [
+   "faeces",
+   "urine",
+   "sweat"
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:three-forms-of-brahman-vallabha",
   "name": "The three forms of the ultimate in Śuddhādvaita",
   "category": "ultimate",
@@ -111662,10 +114576,26 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:three-granthis"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "coverage": [
    "A7",
@@ -111688,6 +114618,37 @@
     "skeleton:U23-sakta-srividya",
     "skeleton:U28-hatha-texts",
     "skeleton:U04-minor-upanisads"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:three-great-seats",
+  "name": "The three great seats of the Gelug (gdan sa gsum)",
+  "category": "teacher-transmission",
+  "definitions": [
+   {
+    "lineage": "lin:gelug",
+    "definition": "Ganden (1409, founded by Tsongkhapa), Drepung (1416, Jamyang Chöje) and Sera (1419, Jamchen Chöje), each with colleges using their own textbooks; with Tashi Lhunpo (1447) and the two tantric colleges they formed the Gelug educational system.",
+    "rests_on": []
+   }
+  ],
+  "members": [
+   "Ganden",
+   "Drepung",
+   "Sera"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
     "skeleton"
@@ -113249,10 +116210,26 @@
    "A10"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:three-laksyas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 5 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -113561,6 +116538,45 @@
   }
  },
  {
+  "id": "cpt:three-methods-of-diagnosis",
+  "name": "The three methods of diagnosis",
+  "category": "body-energy",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Looking (tongue, urine), touching (pulse) and questioning.",
+    "rests_on": [
+     "tea:gyushi-tsagyu:4"
+    ]
+   }
+  ],
+  "members": [
+   "looking (bltas pa)",
+   "touching (reg pa)",
+   "questioning (dri ba)"
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:three-minds-contemplation-sutra",
   "name": "The three minds of the Contemplation Sūtra",
   "category": "consciousness-states",
@@ -113751,6 +116767,13 @@
      "tea:mahayanasamgraha:2",
      "tea:samdhinirmocana-sutra:6"
     ]
+   },
+   {
+    "lineage": "lin:jonang",
+    "definition": "The imputational and the other-powered natures are conventional and self-empty; the thoroughly established nature is the ultimate, self-aware wisdom, empty of the other two (other-empty).",
+    "rests_on": [
+     "tea:zhentong-nyingpo-taranatha:three-natures"
+    ]
    }
   ],
   "members": [
@@ -113761,7 +116784,8 @@
   "notes": "Yogācāra systematization: U41.",
   "coverage": [
    "B4",
-   "D"
+   "D",
+   "B6"
   ],
   "verification": {
    "level": "skeleton",
@@ -113780,10 +116804,12 @@
     "note": "Madhyamaka reads the Prajñāpāramitā through two truths; Yogācāra through three natures"
    }
   ],
+  "names": [],
   "provenance": {
    "units": [
     "skeleton:U39-mahayana-sutras",
-    "skeleton:U41-yogacara-pramana"
+    "skeleton:U41-yogacara-pramana",
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -113823,6 +116849,72 @@
   "provenance": {
    "units": [
     "skeleton:U37-abhidhamma-visuddhimagga"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:three-nyepa",
+  "name": "The three nyepa (rlung, mkhris pa, bad kan)",
+  "category": "matter-qualities",
+  "names": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "name": "nyes pa gsum",
+    "term": "trm:nyepa"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Three principles that sustain the body in balance and cause disease when disturbed; they arise from desire, hatred and delusion and dwell chiefly in the lower, middle and upper body.",
+    "rests_on": [
+     "tea:gyushi-tsagyu:3",
+     "tea:gyushi-shegyu:8"
+    ]
+   }
+  ],
+  "members": [
+   "rlung (wind)",
+   "mkhris pa (bile)",
+   "bad kan (phlegm)"
+  ],
+  "relations": [
+   {
+    "rel": "same-as-under-standpoint",
+    "target": "cpt:three-dosas",
+    "note": "the same three doṣas in physiology; the Tibetan system derives them from the three poisons",
+    "rests_on": [
+     "tea:gyushi-tsagyu:3",
+     "tea:gyushi-shegyu:8"
+    ],
+    "standpoint": "medical physiology"
+   },
+   {
+    "rel": "causes",
+    "target": "cpt:hot-and-cold-disorders",
+    "note": "",
+    "rests_on": [
+     "tea:gyushi-shegyu:27"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "C",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -114979,10 +118071,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:three-selves"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -115408,6 +118516,13 @@
     "rests_on": [
      "tea:samdhinirmocana-sutra:7/2"
     ]
+   },
+   {
+    "lineage": "lin:jonang",
+    "definition": "The third turning (with the Kālacakra) is definitive, teaching the other-empty ultimate; the second teaches the self-emptiness of the conventional.",
+    "rests_on": [
+     "tea:mountain-doctrine:definitive"
+    ]
    }
   ],
   "members": [
@@ -115417,7 +118532,8 @@
   ],
   "coverage": [
    "B4",
-   "D"
+   "D",
+   "B6"
   ],
   "verification": {
    "level": "skeleton",
@@ -115426,10 +118542,13 @@
    "checks": []
   },
   "notes": "Shared id (U39).",
+  "names": [],
+  "relations": [],
   "provenance": {
    "units": [
     "skeleton:U39-mahayana-sutras",
-    "skeleton:U41-yogacara-pramana"
+    "skeleton:U41-yogacara-pramana",
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -115888,10 +119007,10 @@
     "lineage": "lin:sakya",
     "definition": "To be kept distinct, each with its own ritual and rules (Sakya Paṇḍita).",
     "sources": [
-     "src:discrimination-of-the-three-vows"
+     "src:domsum-rabye"
     ],
     "rests_on": [
-     "tea:discrimination-of-the-three-vows:ch.3/2"
+     "tea:domsum-rabye:ch.3/2"
     ]
    },
    {
@@ -117084,10 +120203,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "low",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:tripadvibhuti"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "This was on the least-sure list (low confidence). The Tripādvibhūti is located (e-text no. 54). Its source verse, Ṛgveda 10.90.3 ('pādo'sya viśvā bhūtāni tripād asyāmṛtaṃ divi'), is correctly cited. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -117573,6 +120708,39 @@
   }
  },
  {
+  "id": "cpt:tsotel",
+  "name": "Processed mercury (btso thal) and the precious pills",
+  "category": "matter-qualities",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Mercury, deemed poisonous, is detoxified and processed into an ash that becomes the base of the precious pills; the process is restricted to qualified masters. Restricted: no procedure recorded.",
+    "rests_on": []
+   }
+  ],
+  "relations": [],
+  "notes": "Restricted (metals/mercury).",
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:tulku-succession-gelug",
   "name": "Succession by recognised reincarnation (Dalai and Panchen Lamas)",
   "category": "teacher-transmission",
@@ -117793,10 +120961,26 @@
    "A8"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:turiya-turiyatita"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:3-heart-lotus (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -120352,6 +123536,67 @@
   }
  },
  {
+  "id": "cpt:two-alayas-jonang",
+  "name": "The two ālayas: ālaya-consciousness and ālaya-wisdom",
+  "category": "consciousness-states",
+  "names": [
+   {
+    "lineage": "lin:jonang",
+    "name": "kun gzhi gnyis",
+    "term": "trm:kunzhi-yeshe"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:jonang",
+    "definition": "The basis of all is twofold: the ālaya-consciousness (kun gzhi rnam shes), conventional ground of imprints, and the ālaya-wisdom (kun gzhi ye shes), the ultimate buddha-nature.",
+    "rests_on": [
+     "tea:mountain-doctrine:alaya"
+    ]
+   }
+  ],
+  "members": [
+   "ālaya-vijñāna (kun gzhi rnam shes)",
+   "ālaya-jñāna (kun gzhi ye shes)"
+  ],
+  "relations": [
+   {
+    "rel": "contrasts-with",
+    "target": "cpt:alaya-tathagatagarbha-identity",
+    "note": "the Laṅkāvatāra calls the tathāgatagarbha 'ālayavijñāna'; the Jonang reserve buddha-nature for the ālaya-wisdom",
+    "rests_on": [
+     "tea:mountain-doctrine:alaya"
+    ]
+   },
+   {
+    "rel": "contrasts-with",
+    "target": "cpt:alaya-vijnana",
+    "note": "the Yogācāra store-consciousness is only the conventional ālaya for the Jonang",
+    "rests_on": [
+     "tea:mountain-doctrine:alaya"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:two-arrows",
   "name": "The two arrows",
   "category": "consciousness-states",
@@ -121377,6 +124622,18 @@
     "lineage": "lin:prasangika",
     "definition": "Both are realized by śrāvakas and pratyekabuddhas as well as bodhisattvas (Candrakīrti, MAbh on 1.8).",
     "rests_on": []
+   },
+   {
+    "lineage": "lin:kagyu",
+    "definition": "The perfection of wisdom realizes the selflessness of persons and of phenomena (Jewel Ornament ch.17); Nāropa counts the tīrthikas' self and primordial nature among the views of those deluded about their own mind.",
+    "sources": [
+     "src:jewel-ornament-of-liberation",
+     "src:drstisamksipta"
+    ],
+    "rests_on": [
+     "tea:jewel-ornament-of-liberation:ch.17",
+     "tea:drstisamksipta:245a.6"
+    ]
    }
   ],
   "members": [
@@ -121385,7 +124642,8 @@
   ],
   "coverage": [
    "B4",
-   "D"
+   "D",
+   "B6"
   ],
   "verification": {
    "level": "skeleton",
@@ -121397,7 +124655,8 @@
    "units": [
     "skeleton:U39-mahayana-sutras",
     "skeleton:U41-yogacara-pramana",
-    "skeleton:U40-madhyamaka"
+    "skeleton:U40-madhyamaka",
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -121455,6 +124714,11 @@
     "lineage": "lin:madhyamaka",
     "name": "satyadvaya",
     "term": "trm:satyadvaya"
+   },
+   {
+    "lineage": "lin:jonang",
+    "name": "bden pa gnyis (rang stong / gzhan stong)",
+    "term": "trm:dondam-denpa"
    }
   ],
   "definitions": [
@@ -121528,6 +124792,13 @@
     ]
    },
    {
+    "lineage": "lin:jonang",
+    "definition": "Conventional truth is empty of its own nature; ultimate truth is empty of other and not of itself. The two are not one entity, yet not different entities: they are different in the sense that their sameness is negated.",
+    "rests_on": [
+     "tea:mountain-doctrine:two-truths"
+    ]
+   },
+   {
     "lineage": "lin:kagyu",
     "definition": "Nāropa's View in Brief: conventionally all phenomena are self-aware mind; ultimately that mind, examined, is beyond existence, non-existence, both and neither; their union is appearance-emptiness like a moon in water.",
     "sources": [
@@ -121589,6 +124860,7 @@
     "skeleton:U40-madhyamaka",
     "skeleton:U47-sakya-kadam-gelug",
     "skeleton:U39-mahayana-sutras",
+    "skeleton:U48-jonang-chod-medicine-rime",
     "skeleton:U46-kagyu"
    ],
    "phases": [
@@ -122815,10 +126087,26 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:unmani"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:3-heart-lotus (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "coverage": [
    "A10",
@@ -123398,6 +126686,40 @@
   "provenance": {
    "units": [
     "skeleton:U35-jain-philosophy"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:urine-diagnosis-sowa-rigpa",
+  "name": "Urine diagnosis in Sowa Rigpa",
+  "category": "body-energy",
+  "names": [],
+  "definitions": [
+   {
+    "lineage": "lin:sowa-rigpa",
+    "definition": "Examination of urine in three phases for colour, vapour, odour, bubbles, sediment and film, and the reading of spirit influences.",
+    "rests_on": [
+     "tea:gyushi-chimagyu:2"
+    ]
+   }
+  ],
+  "relations": [],
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"
@@ -124231,6 +127553,45 @@
   }
  },
  {
+  "id": "cpt:vajra-body-lamdre",
+  "name": "The vajra body in the Lamdre",
+  "category": "body-energy",
+  "definitions": [
+   {
+    "lineage": "lin:sakya",
+    "definition": "The body as the method continuum: channels (with the three principal channels and the four channel-wheels or 'precious palaces'), winds and drops; the elements 'gather' in successive stages, the channel-knots are loosened, winds cease by measured finger-widths and drops are stabilised at the places marking the grounds.",
+    "rests_on": [
+     "tea:lamdre:141a.6",
+     "tea:lamdre:141b.2",
+     "tea:lamdre:139b.1-3"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "rel": "is-a",
+    "target": "cpt:buddhist-subtle-body",
+    "note": "the Sakya/Hevajra presentation",
+    "rests_on": []
+   }
+  ],
+  "restricted": true,
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "cpt:vajra-deha",
   "name": "The adamantine body (vajra-deha)",
   "category": "karma-rebirth",
@@ -124993,10 +128354,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:vasana-ksaya-manonasa-tattvajnana"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 6 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -126396,10 +129773,26 @@
    "A5"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:videhamukti"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 5 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "names": [],
   "members": [],
@@ -126508,10 +129901,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:vidvat-vividisa-sannyasa"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -128630,10 +132039,26 @@
    "A10"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:vyoma-pancaka"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "relations": [
    {
@@ -128773,10 +132198,10 @@
     "lineage": "lin:sakya",
     "definition": "A revival of the Chinese Hashang's view, rejected by Sakya Paṇḍita.",
     "sources": [
-     "src:discrimination-of-the-three-vows"
+     "src:domsum-rabye"
     ],
     "rests_on": [
-     "tea:discrimination-of-the-three-vows:ch.3"
+     "tea:domsum-rabye:ch.3"
     ]
    }
   ],
@@ -128825,10 +132250,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:who-is-a-brahmana"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 6 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -128861,10 +132302,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:who-may-renounce"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 5 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -130263,10 +133720,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:yoga-jnana-samuccaya"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -130718,7 +134191,7 @@
    }
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "high",
    "unverified": false,
    "checks": [
@@ -130737,6 +134210,21 @@
      ],
      "result": "confirmed",
      "note": "Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed."
+    },
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of cpt:yogic-exit-at-death"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
     }
    ]
   },
@@ -131538,6 +135026,91 @@
   "provenance": {
    "units": [
     "skeleton:U42-chan-zen"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "cpt:zhentong",
+  "name": "Other-emptiness (gzhan stong)",
+  "category": "ultimate",
+  "names": [
+   {
+    "lineage": "lin:jonang",
+    "name": "gzhan stong",
+    "term": "trm:zhentong"
+   },
+   {
+    "lineage": "lin:rime",
+    "name": "gzhan stong dbu ma",
+    "term": "trm:zhentong"
+   }
+  ],
+  "definitions": [
+   {
+    "lineage": "lin:jonang",
+    "definition": "The ultimate — buddha-nature, dharmakāya, dharmatā — is empty of all adventitious conventional phenomena, which are other than it, and not empty of its own nature and qualities; it is permanent and not a dependent arising.",
+    "rests_on": [
+     "tea:mountain-doctrine:ground",
+     "tea:mountain-doctrine:ground/2",
+     "tea:mountain-doctrine:not-dependent-arising",
+     "tea:zhentong-nyingpo-taranatha:three-natures"
+    ]
+   },
+   {
+    "lineage": "lin:rime",
+    "definition": "In Kongtrul, the Great Madhyamaka view suited to meditative experience; in Mipham, acceptable in the sense that unconditioned wisdom is empty of the adventitious while not established by own-nature.",
+    "rests_on": [
+     "tea:sheja-kunkhyab:tenets",
+     "tea:zhentong-khelen-sengei-ngaro:whole"
+    ]
+   }
+  ],
+  "relations": [
+   {
+    "rel": "contrasts-with",
+    "target": "cpt:rangtong",
+    "note": "the two readings of how the ultimate is empty — not yet reconciled",
+    "rests_on": [
+     "tea:twenty-one-differences-taranatha:whole",
+     "tea:taway-shenje:three-views"
+    ]
+   },
+   {
+    "rel": "same-as-under-standpoint",
+    "target": "cpt:empty-and-not-empty-garbha",
+    "note": "the Jonang take RGV 1.154-155 literally as the doctrine of other-emptiness",
+    "rests_on": [
+     "tea:ratnagotravibhaga:1.154-155",
+     "tea:mountain-doctrine:ground"
+    ],
+    "standpoint": "Jonang reading of the Ratnagotravibhāga"
+   },
+   {
+    "rel": "part-of",
+    "target": "cpt:great-madhyamaka",
+    "note": "",
+    "rests_on": [
+     "tea:mountain-doctrine:definitive"
+    ]
+   }
+  ],
+  "coverage": [
+   "B6",
+   "D",
+   "G"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U48-jonang-chod-medicine-rime"
    ],
    "phases": [
     "skeleton"

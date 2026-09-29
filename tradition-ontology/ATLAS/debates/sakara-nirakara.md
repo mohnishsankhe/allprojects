@@ -26,4 +26,4 @@ False: the images are superimposed by beginningless imprints; only image-free lu
 **Candidate readings:** P1-level: the images may be real as cognition at the level of cognition-only, false at the level of the imageless.; P4-stage: Laṅkāvatāra 10.256–258 places passing beyond the 'imageless' as a further stage, which both sides read their way.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._

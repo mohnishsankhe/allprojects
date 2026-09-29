@@ -15,4 +15,4 @@ Disciple of Nammāḻvār and author of the eleven-verse Kaṇṇinuṇ Ciṟutt
 **Realization — the tradition's account:** A brāhmaṇa of Tirukkōḷūr who, while at Ayodhyā on pilgrimage, saw a light in the southern sky, followed it to Kurukūr and found the silent Nammāḻvār under the tamarind; tested him with a riddle, received his answer, and served him for the rest of his life.
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:45 IST._

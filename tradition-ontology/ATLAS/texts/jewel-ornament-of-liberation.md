@@ -46,7 +46,7 @@ Without a spiritual friend one cannot reach buddhahood, as a traveller needs a g
 
 _level: conventional · standpoint: seeker · path: devotion, general · stage: all · types: teacher-transmission_
 
-terms: [kalyāṇamitra](../terms/kalyanamitra.md) · concepts: [The four kinds of spiritual friend (Jewel Ornament)](../concepts/four-kinds-of-spiritual-friend.md), [The guru in the minor Upaniṣads](../concepts/guru.md)
+terms: [kalyāṇamitra](../terms/kalyanamitra.md) · concepts: [The four kinds of spiritual friend (Jewel Ornament)](../concepts/four-kinds-of-spiritual-friend.md), [Guru devotion in the Kagyu](../concepts/guru-devotion.md)
 
 ### ch.4 <a id="tea-jewel-ornament-of-liberation-ch-4"></a>
 `skeleton` · confidence moderate
@@ -91,7 +91,7 @@ Refuge in the Buddha, Dharma and Saṅgha is the foundation of all vows; its cau
 
 _level: conventional · standpoint: devotional · path: devotion · stage: beginner · types: practice, ethics_
 
-terms: [śaraṇagamana](../terms/saranagamana.md) · concepts: [The three refuges](../concepts/three-refuges.md) · practices: `prc:refuge-prostrations`
+terms: [śaraṇagamana](../terms/saranagamana.md) · concepts: [The three refuges](../concepts/three-refuges.md) · practices: [Refuge with prostrations](../practices/refuge-prostrations.md)
 
 ### ch.9 <a id="tea-jewel-ornament-of-liberation-ch-9"></a>
 `skeleton` · confidence moderate
@@ -118,7 +118,7 @@ The perfection of diligence overcomes three kinds of laziness: the laziness of i
 
 _level: conventional · standpoint: seeker · path: action · stage: intermediate · types: ethics, practice_
 
-terms: [vīrya](../terms/virya.md) · concepts: [The six perfections](../concepts/six-paramitas.md) · obstacles: `obs:three-kinds-of-laziness`
+terms: [vīrya](../terms/virya.md) · concepts: [The six perfections](../concepts/six-paramitas.md) · obstacles: [The three kinds of laziness](../obstacles/three-kinds-of-laziness.md)
 
 ### ch.17 <a id="tea-jewel-ornament-of-liberation-ch-17"></a>
 `skeleton` · confidence moderate
@@ -172,4 +172,4 @@ concepts: [The six topics of the Jewel Ornament](../concepts/jewel-ornament-six-
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

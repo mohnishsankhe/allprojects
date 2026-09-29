@@ -13,4 +13,4 @@
 - contrasts-with → [The transmission of the Purāṇa](puranic-transmission.md): the Purāṇa's eternal origin vs its human line of reciters — rests on [53.3-11](../texts/matsya-purana.md#tea-matsya-purana-53-3-11), [3.6.15-19](../texts/visnu-purana.md#tea-visnu-purana-3-6-15-19)
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

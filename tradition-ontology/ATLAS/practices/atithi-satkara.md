@@ -12,4 +12,4 @@ Receiving a guest with water, seat and food, which the Atharvaveda equates point
   - [Atharvaveda Saṃhitā (Śaunaka)](../texts/atharvaveda-saunaka.md) — ref: 15.10–13; rests_on: ["tea:atharvaveda-saunaka:15.10-13"]
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._

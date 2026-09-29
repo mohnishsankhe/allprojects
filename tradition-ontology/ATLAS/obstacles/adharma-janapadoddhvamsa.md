@@ -12,4 +12,4 @@ Unrighteous rule and conduct drive away the gods and disturb seasons, water, lan
   - [Caraka Saṃhitā](../texts/caraka-samhita.md) — ref: Vi 3.20-23; rests_on: ["tea:caraka-samhita:vi.3.20-23"]
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

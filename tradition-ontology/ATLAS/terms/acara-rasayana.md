@@ -16,4 +16,4 @@
 _Notes: The compound ācāra-rasāyana is the later name; the texts say 'nitya-rasāyana'._
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

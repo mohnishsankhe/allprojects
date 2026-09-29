@@ -19,4 +19,4 @@ _Notes: The meaning-glosses are generally held to be later additions._
 
 - 2026-09-28 websearch: confirmed — https://en.wiktionary.org/wiki/Appendix:Dhatupatha — Confirmed: the Pāṇinian list of roots in ten classes with meaning entries; the lists were added to and adapted over the centuries (Wiktionary Dhātupāṭha appendix). The meaning-glosses as later is a standard scholarly view.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._

@@ -19,3 +19,4 @@
 - 2026-09-29 17:28 IST  U45 skeleton done (REPORT saved; decisions logged). C-U06 sweep launched.
 - 2026-09-29 17:31 IST  U43, U44 skeletons done (REPORTs saved; decisions logged). CBETA completed (Taishō 1–55 + 85; catalogue 33,169 items). U50 skeleton and C-U07 sweep launched.
 - 2026-09-29 17:34 IST  Gītā ch10-12 F done (121 passed, 4 fixed → 125 text-verified). Merge + atlas: 511 text-verified teachings, 16,948 atlas pages. ch16-18 A launched.
+- 2026-09-29 17:45 IST  U46, U47 skeletons and C-U04 sweep done (REPORTs saved; decisions logged). Convergence: Chan/Zen, Pure Land and Kagyu branches now count once (Shangpa own root). U46→U47 id remaps. Launched ch16-18 B, U51, C-U08. Merge + atlas.

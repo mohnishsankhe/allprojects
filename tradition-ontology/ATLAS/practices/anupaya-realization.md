@@ -16,4 +16,4 @@ For one of the most intense grace, a single hearing of the teacher's word, or th
 _Notes: Abhinavagupta also calls it ānandopāya (low confidence on the alternative name)._
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._

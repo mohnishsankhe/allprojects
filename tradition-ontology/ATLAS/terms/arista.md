@@ -18,4 +18,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U07-puranas, skeleton:U32-jyotisa, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U30-ayurveda-rasa, skeleton:U07-puranas, skeleton:U32-jyotisa, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

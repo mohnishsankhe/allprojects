@@ -14,4 +14,4 @@
 - partial: [Tirumāl](tirumal.md) — Māyōṉ stresses darkness and wonder; same Lord
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:45 IST._

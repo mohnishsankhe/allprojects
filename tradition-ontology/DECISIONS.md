@@ -168,3 +168,32 @@ Conservative choices made without asking, with reasons. Newest last.
 - **U44 84-siddha list.** It is based on Tōh 2292, the siddhas' realization songs (src:caturasiti-siddha-bodhihrdaya), because Abhayadatta's lives are not in the Derge Tengyur. src:caturasiti-siddha-pravrtti is kept for the lives, which are from memory with low confidence.
 - **U44 Tibetan-based paraphrases.** These carry ai_translated and a translation_basis note. Wylie originals are sliced to the verse lines of the sense unit.
 - **CBETA completed.** All of Taishō 1–55 plus 85 and the selected Xuzangjing volumes are now local (825 MB), which makes several "not local" items in the U42 and U43 reports checkable: Shandao T1753, Ouyi T1762, Tanluan T1819, Jingying Huiyuan T1749, Wonhyo T1747, T1856 and T52. Taishō 56–84 (Japanese texts) are not distributed by CBETA.
+
+## 2026-09-29 17:42 IST — U46 (Kagyu) decisions (reported by the unit; recorded by the orchestrator)
+- **Kagyu schools as separate roots.** Every Kagyu school points directly to the lin:kagyu umbrella, so each counts as its own root for convergence; lin:kagyu is a classificatory umbrella. Descent from Phagmodrupa is recorded in transmissions_received. The Shangpa sits under lin:kagyu by name only, with a note.
+- **Shared Tengyur texts.** Six hearing-lineage texts were created by U46: Tōh 2304, 2305, 2331, 2332, 2337 and 2338. U44 references Tōh 2303 and 2330. If a later unit creates the same Tōh number under another id, remap it in config/id_remap.json.
+- **Mahāmudrā ids.** prc:mahamudra-meditation (Kagyu) stays separate from the haṭha prc:mahamudra. trm:mahamudra carries both senses, with the homonym noted.
+- **Political recognition.** The contested recognition of the 17th Karmapa is recorded as metadata on both teacher entries, not as a doctrinal dispute.
+- **Guessed ids.** src:discrimination-of-the-three-vows and tch:drogmi are to be remapped if U47 uses other ids; check this when U47 finishes.
+
+## 2026-09-29 17:44 IST — Convergence: branches of one transmission count once (revises the U46 note above)
+- The data model counts "distinct independent lineage roots", where sub-lineages of one root count once. lin:chan (with lin:seon and lin:zen beneath it), lin:pure-land and lin:kagyu had been in the UMBRELLAS set, so each of their branches counted as its own root: Linji, Caodong, Rinzai and Sōtō, or Karma, Drikung and Drukpa Kagyu. That inflates convergence, because these branches are one transmission and not independent witnesses.
+- Conservative fix in scripts/merge.py:
+  - The three are removed from UMBRELLAS, so their branches collapse into lin:chan, lin:pure-land and lin:kagyu.
+  - UMBRELLAS keeps only classificatory groupings that are not transmissions (Vedānta, Mahāyāna, Śramaṇa, the tantra movement, Sant, and so on).
+  - A new OWN_ROOTS set lists lineages filed under a family name but separately transmitted. It holds only lin:shangpa-kagyu (Khyungpo Naljor from Niguma and Sukhasiddhi, not from Marpa).
+- The U46 note "each Kagyu school counts as its own root" is superseded; the shards are unchanged.
+- Remaps for U46's guessed ids (config/id_remap.json): tch:drogmi → tch:drokmi-lotsawa; src:discrimination-of-the-three-vows → src:domsum-rabye, with its two teachings → tea:domsum-rabye:ch.3 and :ch.3/2.
+
+## 2026-09-29 17:44 IST — U47 (Sakya, Kadam, Gelug) decisions (reported by the unit; recorded by the orchestrator)
+- **New sub-lineages** (real named divisions): lin:ngor, lin:tshar, lin:dzongpa, lin:kadam-shungpa, lin:kadam-lamrimpa, lin:kadam-mengakpa, lin:ganden-oral-lineage.
+- **Wylie-slug source ids.** U47 reuses U41's Wylie ids (src:legs-bshad-snying-po, src:tshad-ma-rigs-gter, src:yid-dang-kun-gzhi, src:rnam-grel-thar-lam-gsal-byed, src:bsdus-grwa) instead of creating phonetic duplicates. The house style (Wylie or phonetic) is left for S5.
+- **Seven Points.** "Fifty-nine slogans" is the later (Kongtrul-era) arrangement. The skeleton's tea:seven-point-mind-training:P.S refs follow it and say so. The Phase D lojong unit reconstructs the root from the classical commentary's lemmata (see the lojong entry above) and maps each line to these ids.
+- **Sakya Paṇḍita's Mahāmudrā critique** is recorded as his claim about "present-day" teaching given without empowerment, not as a description of Kagyu teaching.
+- **Queued disputes** (dsp:object-of-negation-madhyamaka, dsp:eight-difficult-points, dsp:reality-of-universals-tibetan) reach RECONCILE_QUEUE.md through the merge. The unit's labels RQ-U47-n are not used.
+- **Duplicates for S5:** cpt:signs-of-dissolution vs cpt:dissolution-stages; the four-thoughts ids; obs:eight-worldly-concerns (U40, U45, U47); trm:kunzhi (Lamdre vs Nyingma senses).
+
+## 2026-09-29 17:44 IST — U04 hallucination sweep: generator-default editions
+- The same fabricated default found in U03 appears in U04: all 95 Muktikā sources carried one Adyar edition string. That string wrongly attached Brahmayogin's commentary to Schrader's 1912 critical edition. The sweep corrected each source to the Adyar volume for its own group, with Schrader 1912 added separately for the 16 texts in his volume.
+- Overlong verse ranges were also corrected to where the content is found: Sarasvatīrahasya, Pañcabrahma, Sītā, Kṛṣṇa, Sarvasāra, Haṃsa and Mahāvākya.
+- Sweeps of later units keep the explicit instruction to look for generator defaults.

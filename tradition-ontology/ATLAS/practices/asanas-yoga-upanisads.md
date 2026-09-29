@@ -1,6 +1,6 @@
 # Postures of the Yoga Upaniṣads
 
-`prc:asanas-yoga-upanisads` · `skeleton` · confidence high
+`prc:asanas-yoga-upanisads` · `sourced` · confidence high
 
 **Category:** posture
 **Convergence:** 2 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -15,4 +15,8 @@ Lists vary: four chief postures (siddha, padma, siṃha, bhadra — Yogatattva, 
   - [Darśana Upaniṣad](../texts/darsana-upanisad.md) — ref: 3.1-13; rests_on: ["tea:darsana-upanisad:3.1-13"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Counts confirmed in the e-text: Varāha 5.15-16 (eleven, 'ekādaśāsanāni'), Triśikhi 34-52 (seventeen), Darśana 3.1-2 (nine), Yogatattva 29 and Dhyānabindu 43 (four chief). All 5 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

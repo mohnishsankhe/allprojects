@@ -17,4 +17,4 @@
 - causes → [The authorless Veda (apauruṣeyatva)](apauruseyatva.md): intrinsic validity plus the absence of an author makes the Veda unassailable — rests on [codana.62](../texts/slokavarttika.md#tea-slokavarttika-codana-62)
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._

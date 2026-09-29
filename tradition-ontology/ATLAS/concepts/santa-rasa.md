@@ -15,4 +15,4 @@
 _Notes: Advaita (Gauḍapāda, MK 3.45) calls tasting the bliss of samādhi (rasāsvāda) an obstacle — see obs:rasasvada; the poeticians' valuation is the opposite._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._

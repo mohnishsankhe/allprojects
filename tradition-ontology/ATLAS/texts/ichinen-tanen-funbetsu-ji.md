@@ -13,4 +13,4 @@
 Ryūkan's short tract warning against both extremes in the dispute on one-calling and many-calling; Shinran annotated its scriptural passages in his Ichinen tanen mon'i.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

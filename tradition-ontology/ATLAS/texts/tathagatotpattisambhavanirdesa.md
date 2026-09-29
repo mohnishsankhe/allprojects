@@ -14,4 +14,4 @@
 The 'Arising of the Tathāgata' chapter of the Avataṃsaka (also circulated alone): the Tathāgata's wisdom is present in full in every being, like a cosmic silk scroll contained in a single atom, but beings do not know it because of their clinging; a text the Ratnagotravibhāga cites for the tathāgatagarbha.
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

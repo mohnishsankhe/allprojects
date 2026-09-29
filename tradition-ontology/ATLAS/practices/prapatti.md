@@ -13,4 +13,4 @@ Taking refuge in the Lord alone: resolving to do what pleases him, rejecting wha
   - [Haribhaktivilāsa](../texts/haribhaktivilasa.md) — ref: 11; rests_on: ["tea:haribhaktivilasa:11"]
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._

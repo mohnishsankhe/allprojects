@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Conventional and ultimate truth (sammuti- and paramattha-sacca)](two-truths-theravada.md) (level (P1)): a hermeneutic of levels of meaning, applied by Buddhadāsa beyond the commentarial use — rests on [dhamma-language](../texts/handbook-for-mankind.md#tea-handbook-for-mankind-dhamma-language)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._

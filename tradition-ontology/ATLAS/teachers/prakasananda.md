@@ -13,4 +13,4 @@ Author of the Vedāntasiddhāntamuktāvalī, the chief exponent of dṛṣṭi-s
 _Notes: Gauḍīya hagiography (Caitanya Caritāmṛta) tells of a Prakāśānanda Sarasvatī of Vārāṇasī won over by Caitanya; identity with this author is uncertain._
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._

@@ -35,7 +35,7 @@ Marpa made Milarepa build towers and tear them down again, beat and humiliated h
 
 _level: conventional · standpoint: seeker · path: devotion, action · stage: beginner · types: teacher-transmission, karma-liberation_
 
-concepts: [Testing of guru and disciple](../concepts/testing-guru-and-disciple.md), [The guru in the minor Upaniṣads](../concepts/guru.md) · practices: [Guru yoga (bla ma'i rnal 'byor)](../practices/guru-yoga.md) · teachers: [Marpa Chökyi Lodrö (Marpa the Translator)](../teachers/marpa.md), [Milarepa (Jetsün Mila Shepa Dorje)](../teachers/milarepa.md)
+concepts: [Testing of guru and disciple](../concepts/testing-guru-and-disciple.md), [Guru devotion in the Kagyu](../concepts/guru-devotion.md) · practices: [Guru yoga](../practices/guru-yoga.md) · teachers: [Marpa Chökyi Lodrö (Marpa the Translator)](../teachers/marpa.md), [Milarepa (Jetsün Mila Shepa Dorje)](../teachers/milarepa.md)
 
 ### pt.2/2 <a id="tea-milarepa-namthar-pt-2-2"></a>
 `skeleton` · confidence moderate
@@ -44,7 +44,7 @@ Dagmema, pitying Milarepa, sent him to Ngok Chöku Dorje with a forged letter; N
 
 _level: conventional · standpoint: seeker · path: devotion · stage: all · types: teacher-transmission_
 
-concepts: [The guru in the minor Upaniṣads](../concepts/guru.md) · teachers: [Dagmema](../teachers/dagmema.md), [Ngok Chöku Dorje](../teachers/ngok-choku-dorje.md), [Marpa Chökyi Lodrö (Marpa the Translator)](../teachers/marpa.md)
+concepts: [Guru devotion in the Kagyu](../concepts/guru-devotion.md) · teachers: [Dagmema](../teachers/dagmema.md), [Ngok Chöku Dorje](../teachers/ngok-choku-dorje.md), [Marpa Chökyi Lodrö (Marpa the Translator)](../teachers/marpa.md)
 
 ### pt.2/3 <a id="tea-milarepa-namthar-pt-2-3"></a>
 `skeleton` · confidence high
@@ -53,7 +53,7 @@ After empowerment Milarepa meditated alone in caves for years, wearing a single 
 
 _level: conventional · standpoint: experiential · path: meditation, body-breath · stage: advanced · types: practice, powers-experiences_
 
-practices: `prc:tummo`, `prc:mountain-retreat`, `prc:mahamudra-meditation` · teachers: [Milarepa (Jetsün Mila Shepa Dorje)](../teachers/milarepa.md)
+practices: [Inner heat (gtum mo, caṇḍālī)](../practices/tummo.md), [Solitary mountain retreat (ri chos)](../practices/mountain-retreat.md), [Mahāmudrā meditation (Kagyu)](../practices/mahamudra-meditation.md) · teachers: [Milarepa (Jetsün Mila Shepa Dorje)](../teachers/milarepa.md)
 
 ### pt.2/4 <a id="tea-milarepa-namthar-pt-2-4"></a>
 `skeleton` · confidence moderate
@@ -84,4 +84,4 @@ concepts: [Buddhahood in one life and one body](../concepts/buddhahood-in-one-li
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

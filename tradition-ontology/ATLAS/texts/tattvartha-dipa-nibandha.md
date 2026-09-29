@@ -22,4 +22,4 @@ _Notes: The Gītā-section's contents are recalled, not checked (low). A Puṣ�
 
 - 2026-09-29 websearch: confirmed — https://www.hindu-blog.com/2022/09/tatvarthdip-nibandh-of-shri-mahaprabhu.html, https://vallabh.org/docs/bhagavad-gita/introduction/ — Least-sure item: its first section, the Śāstrārtha-prakaraṇa, sets out Vallabha's reading of the Gītā (the other two are Sarvanirṇaya and Bhāgavatārtha). It is an independent treatise with a Gītā section, not a verse-by-verse commentary. Note for the gap hunter: the local gita/gita corpus carries a Gītā commentary under Vallabhācārya's name (and one by Puruṣottamajī), relevant to the REPORT's unentered Puṣṭimārga commentary.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._

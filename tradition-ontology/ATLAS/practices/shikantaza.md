@@ -3,7 +3,7 @@
 `prc:shikantaza` · `skeleton` · confidence high
 
 **Category:** meditation
-**Convergence:** 2 independent lineage(s): [Caodong house](../lineages/caodong.md), [Sōtō Zen](../lineages/soto.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [Caodong house](../lineages/caodong.md), [Sōtō Zen](../lineages/soto.md)
 
 Sitting wholeheartedly with no object, method or goal beyond the sitting itself — 'thinking of not-thinking: non-thinking'; understood as the enactment of original realization rather than a means to it.
@@ -17,4 +17,4 @@ Sitting wholeheartedly with no object, method or goal beyond the sitting itself 
 - Do not seek realization apart from practice (Bendōwa). — [Bendōwa (Talk on Wholehearted Practice)](../texts/bendowa.md) practice-realization
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

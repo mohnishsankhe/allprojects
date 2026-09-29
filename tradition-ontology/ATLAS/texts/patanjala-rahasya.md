@@ -17,4 +17,4 @@ A gloss on Vācaspati Miśra's Tattvavaiśāradī by Rāghavānanda Sarasvatī, 
 _Notes: Recalled, not checked; date unknown._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:45 IST._

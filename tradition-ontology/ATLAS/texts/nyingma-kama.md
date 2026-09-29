@@ -16,4 +16,4 @@
 The collection of the 'spoken word' lineage of the Nyingma: the three inner tantras with their commentaries, empowerment and sādhana texts transmitted without interruption from the first diffusion (as distinct from treasures). Edited at Mindroling by Terdak Lingpa and Lochen Dharmaśrī, and greatly expanded by Dudjom Rinpoche in the 20th c.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

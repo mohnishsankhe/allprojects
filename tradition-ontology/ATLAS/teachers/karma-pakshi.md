@@ -11,4 +11,4 @@
 Master of the Mongol courts (Möngke Khan; later persecuted under Kublai); by the tradition's account the first recognized reincarnation (tulku) in Tibet, the rebirth of Düsum Khyenpa.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

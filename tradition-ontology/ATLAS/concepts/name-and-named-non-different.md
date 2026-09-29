@@ -13,4 +13,4 @@
 - contrasts-with → [The semblance of the name (nāmābhāsa)](namabhasa.md) — rests on [3.3](../texts/caitanya-caritamrta.md#tea-caitanya-caritamrta-3-3)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._

@@ -3,7 +3,7 @@
 `prc:nianfo` · `skeleton` · confidence high
 
 **Category:** mantra-sound
-**Convergence:** 9 independent lineage(s): [The White Lotus school of Mao Ziyuan (Bailian zong)](../lineages/bailian-zong.md), [Chan (Chinese Meditation school)](../lineages/chan.md), [Ji-shū (the Time school of Ippen)](../lineages/ji-shu.md), [Jōdo Shinshū (the True Pure Land school of Shinran)](../lineages/jodo-shinshu.md), [Jōdo-shū (the Pure Land school of Hōnen)](../lineages/jodo-shu.md), [Mahāyāna](../lineages/mahayana.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tiantai`, [Yūzū Nenbutsu-shū (the interfusing nenbutsu of Ryōnin)](../lineages/yuzu-nenbutsu-shu.md)
+**Convergence:** 4 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md), [Mahāyāna](../lineages/mahayana.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tiantai`
 **Taught in:** [The White Lotus school of Mao Ziyuan (Bailian zong)](../lineages/bailian-zong.md), [Chan (Chinese Meditation school)](../lineages/chan.md), [Ji-shū (the Time school of Ippen)](../lineages/ji-shu.md), [Jōdo Shinshū (the True Pure Land school of Shinran)](../lineages/jodo-shinshu.md), [Jōdo-shū (the Pure Land school of Hōnen)](../lineages/jodo-shu.md), [Mahāyāna](../lineages/mahayana.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md), `lin:tiantai`, [Yūzū Nenbutsu-shū (the interfusing nenbutsu of Ryōnin)](../lineages/yuzu-nenbutsu-shu.md)
 
 Thinking of Amitābha and calling 'namo Amitābha Buddha' — ten times even at death (Contemplation Sūtra), holding the name one to seven days with undistracted mind (Smaller Sūtra), with faith in the eighteenth vow (Larger Sūtra).
@@ -33,4 +33,4 @@ Thinking of Amitābha and calling 'namo Amitābha Buddha' — ten times even at 
 _Notes: U43 adds the lineage-specific forms; the three Pure Land sūtras' basis is from U39._
 
 ---
-_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

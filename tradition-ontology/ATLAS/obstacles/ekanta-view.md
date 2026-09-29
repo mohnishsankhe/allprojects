@@ -16,4 +16,4 @@ Holding one aspect or standpoint as the whole truth — the root of rival doctri
   - [Jñānasāra](../texts/jnanasara.md) — ref: 16.2; rests_on: ["tea:jnanasara:16.2"]
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._

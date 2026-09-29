@@ -15,4 +15,4 @@
 A graded exposition of the whole path from the human birth and impermanence through the vehicles to the Great Perfection, in 22 chapters (moderate), with Longchenpa's autocommentary Padma dkar po.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

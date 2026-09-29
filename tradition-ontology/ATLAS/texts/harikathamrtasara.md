@@ -16,4 +16,4 @@ Jagannātha Dāsa's Kannada poem setting out Dvaita theology — Hari's supremac
 _Notes: Owned in substance by U56 (Karnataka Haridāsas); listed here for its Dvaita doctrine._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._

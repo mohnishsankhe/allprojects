@@ -15,9 +15,21 @@ Jamgön Kongtrul's autobiography, describing his training in many lineages, his 
   - kind: original; name: OpenPecha-Data P000238; url: https://github.com/OpenPecha-Data/P000238
   - kind: translation; name: R. Barron, The Autobiography of Jamgön Kongtrul (2003)
 
+## Teachings (1: skeleton 1)
+
+### impartial <a id="tea-kongtrul-autobiography-impartial"></a>
+`skeleton` · confidence low
+
+Kongtrul describes his life's aim as practising and preserving the teachings of every lineage without partiality or sectarian bias, regarding all authentic traditions as equally worthy and deploring the disparagement of any of them.
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: teacher-transmission, ethics_
+
+concepts: [The Rimé (non-sectarian) approach](../concepts/rime-approach.md) · obstacles: `obs:sectarian-bias` · teachers: [Jamgön Kongtrul Lodrö Thayé ('jam mgon kong sprul blo gros mtha' yas)](../teachers/jamgon-kongtrul.md)
+
+
 ---
 **Verification checks**
 
 - 2026-09-29 catalog: confirmed — catalog:OpenPecha:P000238 "phyogs med ris med kyi bstan pa la 'dun zhing dge sbyong gi gzugs brnyan 'chang ba blo gros mtha' yas pa'i sde'i byung ba brjod pa nor bu sna tshogs mdog can" — catalogue hit proves a digitized edition exists, not author or date
 
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

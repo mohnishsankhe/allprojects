@@ -1,6 +1,6 @@
 # Meditation with and without qualities
 
-`prc:saguna-nirguna-dhyana` · `skeleton` · confidence high
+`prc:saguna-nirguna-dhyana` · `sourced` · confidence high
 
 **Category:** meditation
 **Convergence:** 2 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -16,4 +16,8 @@ Meditation on a form (the Lord in the heart, Maheśvara as oneself) or on the Se
   - [Gorakṣaśataka](../texts/goraksasataka.md) — ref: 76-77; rests_on: ["tea:goraksasataka:76-77"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._

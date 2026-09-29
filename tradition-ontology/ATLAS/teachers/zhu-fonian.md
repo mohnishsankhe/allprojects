@@ -13,4 +13,4 @@
 Chinese translator who rendered into Chinese the texts recited by Buddhayaśas, Dharmanandi and others.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

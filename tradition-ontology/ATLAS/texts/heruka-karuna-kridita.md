@@ -16,4 +16,4 @@ A sādhana-section Heruka tantra of the Old Tantra section, associated with the 
 _Notes: Existence and title local (catalog:Derge-Kangyur:D840); the assignment to the Eight Herukas (bka' brgyad) is the unit's reading from memory of the Nyingma classification._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

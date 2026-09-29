@@ -29,4 +29,4 @@ _Notes: Chapter count of the critical text given from memory (low confidence)._
 
 - 2026-09-29 catalog: confirmed — catalog:DCS:Harivaṃśa, catalog:GRETIL:harivaMza-app1, local:sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/2_epic/mbh/ext/harivamsa_chonstituted_text_with_star_passages_plain_text_version.md (ends at Hv 118.51) — Extant and digitized. The locally held critical text ends at Hv 118.51, confirming the 118-chapter count that the entry gave from memory (its note can drop the low-confidence flag). Dates not independently checked beyond the entry's own "estimates vary".
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

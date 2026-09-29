@@ -10,4 +10,4 @@
 Śrīvaiṣṇava teacher to whom the Ārāyirappaṭi Guruparamparāprabhāvam, the chief hagiography of the Āḻvārs and ācāryas, is attributed.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._

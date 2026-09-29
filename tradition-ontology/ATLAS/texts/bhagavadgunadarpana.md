@@ -20,4 +20,4 @@ Parāśara Bhaṭṭar's Śrīvaiṣṇava commentary on the Viṣṇu Sahasran�
 
 - 2026-09-29 websearch: confirmed — https://en.wikipedia.org/wiki/Parasara_Bhattar, https://archive.org/details/vishnusahasranamawithbhashyaofparasarabhattarsanskritengprofasrinivasaraghavan1983 — Parāśara Bhaṭṭar's Sanskrit commentary on the Viṣṇu Sahasranāma; 12th c.
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._

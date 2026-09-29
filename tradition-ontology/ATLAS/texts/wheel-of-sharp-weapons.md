@@ -26,7 +26,7 @@ As peacocks roam the forest of poisonous plants and thrive on poison where other
 
 _level: bridging · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-practices: `prc:lojong`, `prc:taking-adversity-as-path` · teachers: [Dharmarakṣita (Atiśa's teacher)](../teachers/dharmaraksita-lojong.md)
+practices: [Mind training (blo sbyong)](../practices/lojong.md), [Taking adversity as the path](../practices/taking-adversity-as-path.md) · teachers: [Dharmarakṣita (Atiśa's teacher)](../teachers/dharmaraksita-lojong.md)
 
 ### wheel <a id="tea-wheel-of-sharp-weapons-wheel"></a>
 `skeleton` · confidence moderate
@@ -35,8 +35,8 @@ Whatever misfortune befalls one is the wheel of sharp weapons of one's own wrong
 
 _level: conventional · standpoint: causal · path: meditation, action · stage: all · types: practice, karma-liberation_
 
-concepts: [Adversity as the return of one's own deeds](../concepts/karma-lojong.md) · practices: `prc:lojong` · obstacles: [Self-cherishing (desiring one's own happiness)](../obstacles/self-cherishing.md) · teachers: [Dharmarakṣita (Atiśa's teacher)](../teachers/dharmaraksita-lojong.md)
+concepts: [Adversity as the return of one's own deeds](../concepts/karma-lojong.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · obstacles: [Self-cherishing](../obstacles/self-cherishing.md) · teachers: [Dharmarakṣita (Atiśa's teacher)](../teachers/dharmaraksita-lojong.md)
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

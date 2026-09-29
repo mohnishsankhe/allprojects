@@ -10,4 +10,4 @@
 One of Marpa's four principal disciples, holder of the Guhyasamāja transmission and (by one account) of transference.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

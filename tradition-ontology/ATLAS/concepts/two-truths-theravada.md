@@ -14,4 +14,4 @@
 - same-as-under-standpoint → [Convention and the ultimate sense](conventional-expression.md) (level of truth (P1)): the suttas' use of worldly expressions without misapprehension is systematized by the commentaries as the two truths — rests on [18/2](../texts/visuddhimagga.md#tea-visuddhimagga-18-2)
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._

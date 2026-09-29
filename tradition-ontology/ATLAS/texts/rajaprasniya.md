@@ -46,4 +46,4 @@ concepts: [Worship of Jina images](../concepts/jina-image-worship.md) · practic
 _Notes: The Paesi dialogue parallels the Pāyāsi Sutta (DN 23) of the Pali canon, where the Buddhist monk Kumāra Kassapa answers King Pāyāsi._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._

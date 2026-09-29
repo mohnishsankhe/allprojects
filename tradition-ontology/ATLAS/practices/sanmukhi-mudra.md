@@ -21,4 +21,4 @@ Closing the ears, eyes, nostrils and mouth with the fingers — in the Śivasa�
 _Notes: The name ṣaṇmukhī for HYP 4.68 comes from Brahmānanda's commentary (recalled). U04 filed the same practice as prc:shanmukhi-mudra (non-IAST slug); the two ids should be merged into this one._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:45 IST._

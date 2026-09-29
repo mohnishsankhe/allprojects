@@ -15,4 +15,4 @@
 - analogous: [puruṣa](purusa.md) — the cosmic Person whose limbs are the world (RV 10.90) — an analogy of form, not an identity the jyotiṣa texts assert
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._

@@ -12,4 +12,4 @@ Tamas, moha, mahāmoha, tāmisra and andhatāmisra - ignorance in five divisions
   - [Viṣṇu Purāṇa](../texts/visnu-purana.md) — ref: 1.5.5; rests_on: ["tea:visnu-purana:1.5.5"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

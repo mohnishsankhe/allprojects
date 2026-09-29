@@ -13,4 +13,4 @@ On the eighth, fourteenth and fifteenth of the fortnight lay followers keep the 
   - [Mahāvagga (Vinaya)](../texts/mahavagga-vinaya.md) — ref: 2.1-2.3; rests_on: ["tea:mahavagga-vinaya:2.1-2.3"]
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._

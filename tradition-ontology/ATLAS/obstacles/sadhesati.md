@@ -12,4 +12,4 @@ Saturn's transit through the 12th, 1st and 2nd signs from the natal Moon, a time
   - [Bṛhat Saṃhitā](../texts/brhat-samhita.md) — ref: 103.4; rests_on: ["tea:brhat-samhita:103.2-4"]
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._

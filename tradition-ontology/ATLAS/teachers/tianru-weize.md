@@ -14,4 +14,4 @@
 Yuan Linji master, disciple of Zhongfeng Mingben, whose Jingtu huowen persuades Chan practitioners to recite Amitābha's name.
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

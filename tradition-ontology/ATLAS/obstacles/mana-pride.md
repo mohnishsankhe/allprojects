@@ -13,4 +13,4 @@ Pride in being a brahmin and in the honour due to householders, and pride based 
   - [Pāśupata Sūtra](../texts/pasupata-sutra.md) — ref: 4.9; rests_on: ["tea:pasupata-sutra:4.9"]
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:45 IST._

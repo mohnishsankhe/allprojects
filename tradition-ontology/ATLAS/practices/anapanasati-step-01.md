@@ -13,4 +13,4 @@ Breathing in long, he knows 'I breathe in long'; breathing out long, he knows 'I
 **Sequences:** [The sixteen steps of mindfulness of breathing (MN 118)](../paths/anapanasati-sixteen-steps.md)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._

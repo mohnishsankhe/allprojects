@@ -11,4 +11,4 @@
 Heir of Mazu, author of the Dunwu rudao yaomen lun; 'I have no treasure — your own treasure house is complete'.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

@@ -3,7 +3,7 @@
 `obs:three-leaks` · `skeleton` · confidence moderate
 
 **Category:** obstacle
-**Convergence:** 1 independent lineage(s): [Caodong house](../lineages/caodong.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [Caodong house](../lineages/caodong.md)
 
 Leaks of view, feeling and words by which dry wisdom is tested.
@@ -12,4 +12,4 @@ Leaks of view, feeling and words by which dry wisdom is tested.
   - [Recorded Sayings of Dongshan (Dongshan yulu)](../texts/dongshan-yulu.md) — ref: 513c10; rests_on: ["tea:dongshan-yulu:513c10"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

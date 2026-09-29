@@ -23,4 +23,4 @@ Bhagavad Gītā 1–3: One whose self is deluded by the sense of 'I' thinks 'I a
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.13 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch10-12, skeleton:U14-visistadvaita, skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U06-other-gitas, extraction:bhagavad-gita/ch10-12, skeleton:U14-visistadvaita, skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._

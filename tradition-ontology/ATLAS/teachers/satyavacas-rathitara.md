@@ -12,4 +12,4 @@ Holds that truth (satya) is what matters (TU 1.9).
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/taittiriya-upanisad/segments.jsonl (Advaita-Śāradā mūla Taitiriya.md, vallī.anuvāka.verse) — Located: TU 1.9.1 ('satyam iti satyavacā rāthītaraḥ').
 
-_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U03-principal-upanisads. Generated 2026-09-29 17:45 IST._

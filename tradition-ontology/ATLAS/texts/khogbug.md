@@ -16,5 +16,17 @@ Desi Sangye Gyatso's history of medicine in India, China and Tibet: the Four Tan
 **Editions / translations:** 
   - kind: translation; name: G. Kilty, Mirror of Beryl (2010)
 
+## Teachings (1: skeleton 1)
+
+### origin <a id="tea-khogbug-origin"></a>
+`skeleton` · confidence low
+
+The history of medicine: the Medicine Buddha's teaching in Tanaduk; physicians invited to Tibet from India, China and the western lands under the early kings; Vairocana's translation of the Four Tantras and his teaching to Yuthok the Elder; the concealment of the text at Samye and its recovery in 1038; its revision by Yuthok the Younger; and the later schools.
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: teacher-transmission_
+
+teachers: [Desi Sangye Gyatso (sde srid sangs rgyas rgya mtsho)](../teachers/desi-sangye-gyatso.md), [Vairocana the translator (Pagor Vairocana)](../teachers/vairocana-translator.md), [Yuthok Yönten Gönpo the Elder (g.yu thog rnying ma yon tan mgon po)](../teachers/yuthok-yonten-gonpo-elder.md), [Drapa Ngönshé (grwa pa mngon shes)](../teachers/drapa-ngonshe.md), [Yuthok Yönten Gönpo the Younger (g.yu thog gsar ma yon tan mgon po)](../teachers/yuthok-yonten-gonpo-younger.md) · disputes: `dsp:gyushi-buddha-word`
+
+
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

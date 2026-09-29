@@ -1,6 +1,6 @@
 # Kalisantaraṇa Upaniṣad
 
-`src:kalisantarana-upanisad` · `skeleton` · confidence high
+`src:kalisantarana-upanisad` · `sourced` · confidence high
 
 **Language:** Sanskrit
 **Family:** vedic
@@ -13,12 +13,12 @@
 At the end of the Dvāpara age Nārada asks Brahmā how to cross Kali; the sixteen names beginning 'hare rāma' destroy Kali's evils; no rules bind their recitation; they grant the four kinds of liberation.
 **Editions / translations:** 
   - kind: original; name: Īśādiviṃśottaraśatopaniṣadaḥ (Nirṇayasāgara collection of 120 Upaniṣads), South Indian recension carrying Upaniṣad Brahmayogin's opening maṅgala verses; e-text github.com/sanskrit/raw_etexts vedaH/misc/upaniShat/mixedPF/108_Upanishads.md; licence: text public domain; e-text licence unstated; url: https://github.com/sanskrit/raw_etexts
-  - kind: original; name: Adyar Library Upaniṣad series (Schrader, Minor Upaniṣads vol. 1: Saṃnyāsa, 1912; A. Mahadeva Sastri: Yoga 1920, Sāmānya Vedānta 1921, Vaiṣṇava 1923, Śaiva 1925, Śākta 1925) with Upaniṣad Brahmayogin's commentary; licence: public domain (pre-1930 editions)
+  - kind: original; name: The Vaiṣṇava Upaniṣads with the commentary of Śrī Upaniṣad-Brahma-Yogin, ed. A. Mahadeva Sastri (Madras: Adyar Library, 1923); licence: public domain (pre-1930 edition); url: https://archive.org/details/in.gov.ignca.7940
 
-## Teachings (5: skeleton 5)
+## Teachings (5: sourced 4, skeleton 1)
 
 ### 2 <a id="tea-kalisantarana-upanisad-2"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 These sixteen names destroy the evils of Kali; no better means is seen in all the Vedas; they destroy the covering of the jīva of sixteen parts, and then the supreme Brahman shines like the sun's rays when clouds disperse.
 
@@ -27,7 +27,7 @@ _level: conventional · standpoint: devotional · path: devotion, sound · stage
 concepts: [The sixteen names (Hare Kṛṣṇa mantra)](../concepts/hare-krsna-mahamantra.md)
 
 ### 3 <a id="tea-kalisantarana-upanisad-3"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 Asked the rule, Brahmā says there is no rule: whoever recites it, pure or impure, attains the same world, nearness, form and union; by three and a half crore repetitions one is freed of the gravest sins and even of the sin of abandoning all dharmas.
 
@@ -36,7 +36,7 @@ _level: conventional · standpoint: devotional · path: devotion, sound · stage
 concepts: [Four kinds of liberation (sālokya, sārūpya, sāmīpya, sāyujya)](../concepts/four-kinds-of-mukti.md), [The sixteen names (Hare Kṛṣṇa mantra)](../concepts/hare-krsna-mahamantra.md) · practices: [Recitation of the sixteen names](../practices/hare-krsna-mahamantra-japa.md)
 
 ### 1 (frame) <a id="tea-kalisantarana-upanisad-1-frame"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 At the end of the Dvāpara age Nārada asks Brahmā how, wandering the earth, he may cross Kali; Brahmā: by merely uttering the name of the Lord, the primal Person Nārāyaṇa, one shakes off Kali.
 
@@ -45,7 +45,7 @@ _level: conventional · standpoint: devotional · path: devotion, sound · stage
 teachers: [Nārada](../teachers/narada.md), [Brahmā (as first teacher)](../teachers/brahma.md)
 
 ### 1 (the sixteen names) <a id="tea-kalisantarana-upanisad-1-the-sixteen-names"></a>
-`skeleton` · confidence high
+`sourced` · confidence high
 
 The name is: 'hare rāma hare rāma rāma rāma hare hare, hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare'.
 
@@ -68,4 +68,12 @@ terms: [mahāmantra](../terms/mahamantra.md) · practices: [The Hare Kṛṣṇa
 _Notes: Refs follow the chapter/verse numbering of the Nirṇayasāgara-type e-text used here; other editions (e.g. the Adyar series, Schrader's critical edition, northern recensions) number differently._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 catalog+websearch: corrected — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md (line 26278), text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md (Muktikā 1.30-39 and prose Veda lists, IAST lines 27347-27400), https://en.wikipedia.org/wiki/Vaishna — Located in the local 120-Upaniṣad e-text (heading at line 26278 (collection no. 107)). Its place in the Muktikā canon is confirmed from the Muktikā in the same e-text: no. 103 in 1.30-39, listed under the Kṛṣṇa Yajurveda in the prose Veda lists, with that Veda's peace-chant. Group 'Vaiṣṇava' matches the Wikipedia group list. CORRECTION to editions: the skeleton gave every text the same generator default, 'Adyar Library Upaniṣad series (Schrader … 1912; … with Upaniṣad Brahmayogin's commentary)'. Schrader's 1912 volume is a critical edition of twenty Saṃnyāsa texts with his own ṭippaṇī, not Brahmayogin's commentary. Brahmayogin's commentary on the Saṃnyāsa group appeared separately in 1929 (ed. T. R. Chintamani Dikshit; Muktabodha M00334 metadata; archive.org). The Adyar volume is therefore replaced with the one volume that holds this text (Vaiṣṇava). The years 1920, 1921, 1923 and 1925, and the editor A. Mahadeva Sastri, are confirmed on the web. The group-level scholarly dating statement is generic and was not checked text by text. The tradition account (śruti, authorless) is left as it is.
+
+**Corrections**
+
+- editions: Located in the local 120-Upaniṣad e-text (heading at line 26278 (collection no. 107)). Its place in the Muktikā canon is confirmed from the Muktikā in the same e-text: no. 103 in 1.30-39, listed under the Kṛṣṇa Yajurveda in the prose Veda lists, with that Veda's peace-chant. Group 'Vaiṣṇava' matches the Wikipedia group list. CORRECTION to editions: the skeleton gave every text the same generator default, 'Adyar Library Upaniṣad series (Schrader … 1912; … with Upaniṣad Brahmayogin's commentary)'. Schrader's 1912 volume is a critical edition of twenty Saṃnyāsa texts with his own ṭippaṇī, not Brahmayogin's commentary. Brahmayogin's commentary on the Saṃnyāsa group appeared separately in 1929 (ed. T. R. Chintamani Dikshit; Muktabodha M00334 metadata; archive.org). The Adyar volume is therefore replaced with the one volume that holds this text (Vaiṣṇava). The years 1920, 1921, 1923 and 1925, and the editor A. Mahadeva Sastri, are confirmed on the web. The group-level scholarly dating statement is generic and was not checked text by text. The tradition account (śruti, authorless) is left as it is.
+
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._

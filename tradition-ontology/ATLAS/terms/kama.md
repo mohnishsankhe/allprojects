@@ -31,4 +31,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.19, tea:bhagavad-gita:5.12, tea:bhagavad-gita:5.23, tea:bhagavad-gita:5.26, tea:bhagavad-gita:6.18, tea:bhagavad-gita:6.24 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U36-pali-suttas, skeleton:U45-nyingma-bon, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U01-vedic-samhitas, skeleton:U05-gita-epic, skeleton:U36-pali-suttas, skeleton:U45-nyingma-bon, extraction:bhagavad-gita/ch04-06, skeleton:U02-brahmana-vedanga, skeleton:U03-principal-upanisads, skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._

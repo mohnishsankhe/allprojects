@@ -30,4 +30,4 @@ terms: [māyā](../terms/maya.md), [tattva](../terms/tattva.md), [kañcuka](../t
 _Notes: Not to be confused with Śāntarakṣita's Buddhist Tattvasaṅgraha. Aghoraśiva's commentary is in the Aṣṭaprakaraṇa edition._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._

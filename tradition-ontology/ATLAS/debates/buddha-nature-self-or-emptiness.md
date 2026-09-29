@@ -36,4 +36,4 @@ Under P1 the 'self' of the garbha is the ultimate-level perfection of the dharma
 **The traditions' own objections:** The Jonang and many East Asian readers hold the self-language definitive, not skillful means; Gelug holds buddha-nature to be the mind's emptiness and rejects any non-empty absolute; Theravāda rejects any self at all (dsp:is-there-a-self).
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

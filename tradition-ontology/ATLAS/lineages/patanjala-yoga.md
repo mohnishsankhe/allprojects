@@ -67,4 +67,4 @@ The Yoga darśana of Patañjali's Yoga Sūtra (four pādas, 195 sūtras) and its
 _Notes: Status 'living': the classical commentarial school continued into the 18th–20th c. (Nāgeśa, Nārāyaṇatīrtha, Sadāśiva Brahmendra; Hariharānanda Āraṇya's Kāpil Maṭh, recent) and the Yoga Sūtra is widely taught in modern lineages._
 
 ---
-_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U10-yoga. Generated 2026-09-29 17:45 IST._

@@ -27,7 +27,7 @@ Abandoning all doubt, value striving in practice; abandon sleep, dullness and la
 
 _level: conventional · standpoint: seeker · path: meditation, action · stage: all · types: practice, ethics_
 
-terms: [smṛti](../terms/smrti.md), [saṃprajanya](../terms/samprajanya.md) · practices: [Guarding the mind with mindfulness and introspection](../practices/guarding-the-mind.md), `prc:kadam-self-examination` · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
+terms: [smṛti](../terms/smrti.md), [saṃprajanya](../terms/samprajanya.md) · practices: [Guarding the mind with mindfulness and alertness](../practices/guarding-the-mind.md), [Examining the mind day and night (Kadam self-watching)](../practices/kadam-self-examination.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
 
 ### v13 <a id="tea-bodhisattvamanyavali-v13"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -38,7 +38,7 @@ Abandon whatever you are attached to and live without attachment: through attach
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: karma-liberation_
 
-obstacles: `obs:attachment-lojong` · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
+obstacles: [Attachment (chags pa)](../obstacles/attachment-lojong.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
 
 ### v15-18 <a id="tea-bodhisattvamanyavali-v15-18"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -49,7 +49,7 @@ Always be averse to wrongdoing. When a conceited mind arises, crush pride and re
 
 _level: bridging · standpoint: seeker · path: meditation, knowledge · stage: all · types: practice_
 
-terms: [śūnyatā](../terms/sunyata.md) · concepts: [The similes of illusion, dream and mirage](../concepts/illusion-similes.md) · practices: `prc:taking-adversity-as-path` · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
+terms: [śūnyatā](../terms/sunyata.md) · concepts: [The similes of illusion, dream and mirage](../concepts/illusion-similes.md) · practices: [Taking adversity as the path](../practices/taking-adversity-as-path.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
 
 ### v25-28 <a id="tea-bodhisattvamanyavali-v25-28"></a>
 `skeleton` · confidence moderate · [AI-translated]
@@ -60,7 +60,7 @@ By way of the ten dharma practices strive day and night; in company examine your
 
 _level: conventional · standpoint: seeker · path: devotion, action · stage: all · types: practice, karma-liberation_
 
-concepts: [The two accumulations](../concepts/two-accumulations.md) · practices: [Dedicating merit (pariṇāmanā)](../practices/dedication-of-merit.md), [The supreme worship (sevenfold service)](../practices/sevenfold-worship.md) · obstacles: [The obscurations of afflictions and of the knowable](../obstacles/two-obscurations.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
+concepts: [The two accumulations](../concepts/two-accumulations.md) · practices: [Dedicating merit (pariṇāmanā)](../practices/dedication-of-merit.md), [The seven-limb practice](../practices/sevenfold-worship.md) · obstacles: [The obscurations of afflictions and of the knowable](../obstacles/two-obscurations.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
 
 ### v3-4 <a id="tea-bodhisattvamanyavali-v3-4"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -104,10 +104,10 @@ Always abandon busyness and stay in solitude; abandon idle talk and restrain spe
 
 _level: conventional · standpoint: ethical-social · path: action, devotion · stage: all · types: ethics, teacher-transmission_
 
-practices: [Reliance on the spiritual friend](../practices/reliance-on-spiritual-friend.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
+practices: [Relying on the spiritual teacher](../practices/reliance-on-spiritual-friend.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
 
 
 _Notes: Local: catalog:Derge-Tengyur:D3951._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

@@ -28,4 +28,4 @@ Vinaya recension: an elder enlarged and rearranged the Vinaya; the great communi
 **Queue:** RQ-U38-05
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

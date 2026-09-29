@@ -14,4 +14,4 @@
 Short work proclaiming exclusive devotion to Kṛṣṇa as superior to all other means and to the worship of other gods.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._

@@ -13,4 +13,4 @@
 Some nineteen scrolls from Bajaur (Pakistan), including a Prātimokṣa, karmavācanā material and an early Mahāyāna sūtra connected with the buddha Akṣobhya.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

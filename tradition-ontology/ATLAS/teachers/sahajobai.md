@@ -12,4 +12,4 @@
 Woman Sant, disciple of Caraṇdās, author of the Sahaj Prakāś, famous for placing the guru above Hari.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._

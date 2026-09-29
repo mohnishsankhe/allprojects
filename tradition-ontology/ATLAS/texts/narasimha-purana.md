@@ -17,4 +17,4 @@ A Vaiṣṇava Upapurāṇa devoted to Narasiṃha; its eighth chapter is a Yama
 _Notes: Minimal parent entry created by U06._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

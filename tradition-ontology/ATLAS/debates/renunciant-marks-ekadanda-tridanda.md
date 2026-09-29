@@ -1,6 +1,6 @@
 # Should the renouncer keep outer marks — triple staff, topknot, sacred thread — or abandon them (one staff, or none)?
 
-`dsp:renunciant-marks-ekadanda-tridanda` · `skeleton` · confidence moderate
+`dsp:renunciant-marks-ekadanda-tridanda` · `sourced` · confidence moderate
 
 **Coverage:** G
 
@@ -33,4 +33,8 @@ Nāradaparivrājaka 5 and the Bhikṣuka let kuṭīcaka and bahūdaka keep mark
 **The traditions' own objections:** The Śāṭyāyanīya calls abandoning the marks a fall; the Paramahaṃsa calls the wooden staff without knowledge the way to hell.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 9 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

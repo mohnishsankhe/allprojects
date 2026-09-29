@@ -37,4 +37,4 @@ concepts: [The nine vehicles (theg pa rim pa dgu)](../concepts/nine-vehicles.md)
 _Notes: Tōh 4726 lies beyond the range of the local Tengyur index (which stops at D4464); not checked._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

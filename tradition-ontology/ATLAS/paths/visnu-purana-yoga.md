@@ -21,4 +21,4 @@
 VP 6.7.33 also distinguishes the practiser (yuñjāna) from one of perfected samādhi (liberated in this birth).
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

@@ -15,4 +15,4 @@
 Devendragaṇi (Nemicandra)'s commentary on the Uttarādhyayana (1073 CE), prized for its Prakrit stories illustrating each chapter.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._

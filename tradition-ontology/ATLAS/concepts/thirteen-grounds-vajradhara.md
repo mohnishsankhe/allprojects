@@ -13,4 +13,4 @@
 - contrasts-with → [The qualities of the bodhisattva grounds](bhumi-qualities.md): the sūtra system counts ten grounds plus buddhahood
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

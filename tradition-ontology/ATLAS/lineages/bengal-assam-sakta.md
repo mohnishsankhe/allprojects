@@ -55,4 +55,4 @@ The Śākta tantric culture of Kāmarūpa (Assam) and Bengal: the Kālikā Purā
 [Should blood offerings (bali) be made to the Goddess?](../debates/blood-sacrifice.md), [Is this world a 'frame of illusion' to be seen through, or a 'mansion of mirth' to be enjoyed in the Lord?](../debates/world-illusion-or-mansion-of-mirth.md)
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:45 IST._

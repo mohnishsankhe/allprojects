@@ -14,4 +14,4 @@
 Muttusvāmi Dīkṣitar's cycle of songs to Kamalāmbā of Tiruvārūr, one for each enclosure of the Śrīcakra with its deities, plus invocation and closing songs.
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._

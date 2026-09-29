@@ -35,4 +35,4 @@ A Lord as twenty-sixth principle above the twenty-five (epic Sāṃkhya).
 _Notes: U50 owns dsp:isvara; this entry records the question within Sāṃkhya._
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:45 IST._

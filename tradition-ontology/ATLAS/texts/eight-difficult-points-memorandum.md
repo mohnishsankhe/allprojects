@@ -26,8 +26,8 @@ The eight difficult points of the Prāsaṅgika: (1) no store-consciousness dist
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-concepts: [Tsongkhapa's eight difficult points of Prāsaṅgika](../concepts/eight-difficult-points.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md), [Gyaltsab Je Darma Rinchen](../teachers/gyaltsab-je.md) · disputes: `dsp:eight-difficult-points`
+concepts: [Tsongkhapa's eight difficult points of Prāsaṅgika](../concepts/eight-difficult-points.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md), [Gyaltsab Je Darma Rinchen](../teachers/gyaltsab-je.md) · disputes: [Are Tsongkhapa's eight 'difficult points' genuinely Candrakīrti's Prāsaṅgika?](../debates/eight-difficult-points.md)
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

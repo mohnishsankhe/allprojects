@@ -28,4 +28,4 @@ concepts: [Dream](../concepts/dream-analogy.md), [Māyā in the principal Upani�
 
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._

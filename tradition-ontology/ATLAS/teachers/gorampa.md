@@ -16,4 +16,4 @@
 Sakya scholar, abbot of Ngor and founder of Thubten Namgyal monastery at Tanag; his Distinguishing the Views and Elimination of Bad Views defend the view 'free from extremes' against Tsongkhapa and Dolpopa; the tradition reports his works were banned by the Ganden Phodrang and later re-carved.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

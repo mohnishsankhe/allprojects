@@ -15,4 +15,4 @@ A Prakrit work on the three jewels, lay conduct and the duties of monks, attribu
   - kind: original; name: root text in the nikkyjain Jain database (catalog:JainDB:रयणसार--कुन्दकुंदाचार्य); licence: root text public domain; url: https://github.com/nikkyjain/nikkyjain.github.io
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._

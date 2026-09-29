@@ -3,7 +3,7 @@
 `prc:five-right-practices` · `skeleton` · confidence high
 
 **Category:** devotion-service
-**Convergence:** 2 independent lineage(s): [Jōdo-shū (the Pure Land school of Hōnen)](../lineages/jodo-shu.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md)
+**Convergence:** 1 independent lineage(s): [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md)
 **Taught in:** [Jōdo-shū (the Pure Land school of Hōnen)](../lineages/jodo-shu.md), [Pure Land (Jingtu / Jōdo): birth in Amitābha's land](../lineages/pure-land.md)
 
 Five practices all directed to Amitābha: reciting the Pure Land sūtras, contemplating his land and body, worshipping him, calling his name (the rightly determined act) and praising and making offerings; performed in the four modes.
@@ -13,4 +13,4 @@ Five practices all directed to Amitābha: reciting the Pure Land sūtras, contem
 **Sequences:** [Jōdo-shū: settled mind, practice undertaken, manner of practice](../paths/jodo-shu-anjin-kigyo-sagyo.md)
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

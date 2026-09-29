@@ -14,4 +14,4 @@ Nāth yogī regarded as founder of the Dharamnāthī panth; tradition says he pe
 _Notes: Parents, birthplaces and emblems follow the common Śvetāmbara lists (e.g. Hemacandra); Digambara lists agree in most points and differ in some emblems and names._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._

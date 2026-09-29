@@ -40,4 +40,4 @@ teachers: [Vikhanas](../teachers/vikhanas.md)
 _Notes: Checked in sources_raw/raw_etexts/mixed/gretil_devanAgarI/1_sanskr/4_rellit/vaisn/srinivasamakhi_vedantadesika_dasavidhahetunirupana.md (GRETIL, input by U. Hüsken)._
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._

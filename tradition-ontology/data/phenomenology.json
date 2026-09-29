@@ -212,10 +212,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:advayataraka-inner-lights"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -241,10 +257,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:advayataraka-voids"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -648,10 +680,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:amrtanada-month-signs"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -1626,6 +1674,36 @@
   "provenance": {
    "units": [
     "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:bardo-vision-of-parents",
+  "lineage": "lin:kagyu",
+  "source": "src:ajnasamyakpramana",
+  "ref": "273a.1",
+  "stage": "bardo",
+  "kind": "vision",
+  "description": "The being in the bardo of becoming, with the form of its former existence and karmic powers, sees its future parents in union; it is to regard them as the guru and recall the secret empowerment.",
+  "rests_on": [
+   "tea:ajnasamyakpramana:273a.1"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -3704,6 +3782,32 @@
   }
  },
  {
+  "id": "phn:calm-insight-union-gelug",
+  "lineage": "lin:gelug",
+  "kind": "state",
+  "description": "When analysis itself induces pliancy and stability, calm and insight are united — like a lamp both bright and unflickering.",
+  "source": "src:lamrim-chenmo",
+  "ref": "insight.union",
+  "rests_on": [
+   "tea:lamrim-chenmo:insight.union",
+   "tea:lamrim-chenmo:calm.need"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:campantar-milk-of-knowledge",
   "lineage": "lin:nayanmar",
   "source": "src:periya-puranam",
@@ -4261,6 +4365,37 @@
   }
  },
  {
+  "id": "phn:clear-light-signs-saddharmopadesa",
+  "lineage": "lin:kagyu",
+  "source": "src:saddharmopadesa-tilopa",
+  "ref": "4",
+  "stage": "clear light",
+  "kind": "light",
+  "description": "When the mind rests in the central channel and is steadied in the heart's drop: lights and rays, rainbows, dawn-light, sun- and moon-light, appearances of deities and bodies, and pure realms (Tilopa's Ṣaḍdharmopadeśa).",
+  "rests_on": [
+   "tea:saddharmopadesa-tilopa:4"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "notes": "Source owned by U44; recorded here as the Kagyu root of the clear-light signs.",
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:corruption-attachment",
   "lineage": "lin:theravada",
   "source": "src:visuddhimagga",
@@ -4442,6 +4577,35 @@
   }
  },
  {
+  "id": "phn:darma-dode-transference",
+  "lineage": "lin:kagyu",
+  "source": "src:milarepa-namthar",
+  "kind": "power",
+  "description": "Marpa's son Darma Dode, dying, transferred his consciousness into a pigeon and then into a dead brahmin boy in India, who revived as Tiphupa (the tradition's account).",
+  "rests_on": [
+   "tea:karnatantravajrapada:303b.2"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "restricted": true,
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:darsana-inner-sounds",
   "lineage": "lin:upanisadic",
   "source": "src:darsana-upanisad",
@@ -4456,10 +4620,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:darsana-inner-sounds"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -4898,6 +5078,36 @@
   }
  },
  {
+  "id": "phn:dissolution-karnatantravajrapada",
+  "lineage": "lin:kagyu",
+  "source": "src:karnatantravajrapada",
+  "ref": "304a.3",
+  "stage": "death",
+  "kind": "state",
+  "description": "Earth, water, fire and wind dissolve in sequence; the eighty conceptions cease and the three appearances pass; white, red and mind meet within the lotus; the clear light is recognized, mother and child mixing inseparably.",
+  "rests_on": [
+   "tea:karnatantravajrapada:304a.3"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:dissolution-seen",
   "lineage": "lin:theravada",
   "source": "src:visuddhimagga",
@@ -4950,6 +5160,36 @@
   "provenance": {
    "units": [
     "skeleton:U45-nyingma-bon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:dissolution-signs-bka-dpe-phyi-ma",
+  "lineage": "lin:kagyu",
+  "source": "src:bka-dpe-phyi-ma",
+  "ref": "275a.4",
+  "stage": "death / bardo",
+  "kind": "sign",
+  "description": "Signs of dissolution at death (and in practice): consciousness into appearance — outer sign like moonrise, inner like smoke; appearance into increase — like sunrise, knowledge like a lamp; increase into attainment — like darkness; attainment into clear light — like dawn, inner knowing like a cloudless sky.",
+  "rests_on": [
+   "tea:bka-dpe-phyi-ma:275a.4"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -5160,6 +5400,67 @@
   }
  },
  {
+  "id": "phn:dream-illusion-signs-ajnasamyakpramana",
+  "lineage": "lin:kagyu",
+  "source": "src:ajnasamyakpramana",
+  "ref": "272a.7",
+  "stage": "dream yoga",
+  "kind": "sign",
+  "description": "When dreams are known as illusion, dread and self-consciousness fall away and a light, carefree quality arises in dreams; with training, one can direct the mind to go where one wishes in dream.",
+  "rests_on": [
+   "tea:ajnasamyakpramana:272a.1"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "notes": "The Tibetan terms (ya mi nga, bag mi tsha, dam dum kam kem) are rendered tentatively.",
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:dream-mastery-karnatantravajrapada",
+  "lineage": "lin:kagyu",
+  "source": "src:karnatantravajrapada",
+  "ref": "303a.6",
+  "stage": "dream yoga",
+  "kind": "power",
+  "description": "In mastered dream yoga one increases, transforms and emanates dreams, rides the sun and moon and travels to all pure lands; whatever appears, good or bad, is seen as illusion and self-liberates.",
+  "rests_on": [
+   "tea:karnatantravajrapada:303a.6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:dreams-of-tirthankara-mother",
   "lineage": "lin:jainism",
   "source": "src:kalpa-sutra-jain",
@@ -5178,6 +5479,30 @@
   "provenance": {
    "units": [
     "skeleton:U34-jain-canon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:dusum-khyenpa-crown",
+  "lineage": "lin:karma-kagyu",
+  "kind": "vision",
+  "description": "At Düsum Khyenpa's realization ḍākinīs offered a crown woven from their hair, visible to those with pure perception — the origin of the black crown (the tradition's account).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -6015,6 +6340,36 @@
   }
  },
  {
+  "id": "phn:four-yogas-experience",
+  "lineage": "lin:kagyu",
+  "source": "src:moonbeams-of-mahamudra",
+  "ref": "pt.2",
+  "stage": "the four yogas",
+  "kind": "state",
+  "description": "One-pointedness: mind rests clear and still; simplicity: mind is seen as rootless, beyond arising and ceasing; one taste: appearances and mind, stillness and movement, are one taste; non-meditation: no meditator and nothing to meditate, the dharmakāya fully manifest.",
+  "rests_on": [
+   "tea:moonbeams-of-mahamudra:pt.2/6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:gajasukumala-coals",
   "lineage": "lin:jainism",
   "source": "src:antakrddasa",
@@ -6033,6 +6388,35 @@
   "provenance": {
    "units": [
     "skeleton:U34-jain-canon"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:gampopa-visions",
+  "lineage": "lin:kagyu",
+  "source": "src:milarepa-gurbum",
+  "ref": "gampopa-meeting",
+  "kind": "vision",
+  "description": "Gampopa reported visions of deities, lights and bliss in meditation; Milarepa told him they were neither good nor bad and to continue without attachment.",
+  "rests_on": [
+   "tea:milarepa-gurbum:gampopa-meeting"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -7216,7 +7600,7 @@
   "id": "phn:hamsa-sound-effects",
   "lineage": "lin:upanisadic",
   "source": "src:hamsa-upanisad",
-  "ref": "4",
+  "ref": "prose 2",
   "kind": "bodily",
   "description": "Effects accompanying the ten sounds: tingling, limbs 'breaking', fatigue, head shaking, dripping of the palate, drinking nectar, secret knowledge, supreme speech, invisibility and divine eye, becoming Brahman.",
   "rests_on": [
@@ -7227,11 +7611,37 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:hamsa-sound-effects"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "corrected",
+     "note": "The effects of the sounds close the second prose section of the e-text Haṃsa (Adyar §§18-21). All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-effects-of-the-sounds (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
+  "correction_log": [
+   {
+    "field": "ref",
+    "old": "4",
+    "new": "prose 2",
+    "reason": "The effects of the sounds close the second prose section of the e-text Haṃsa (Adyar §§18-21). All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-effects-of-the-sounds (corrected).",
+    "date": "2026-09-29 17:45 IST",
+    "by": "sourcing:U04-minor-upanisads"
+   }
+  ],
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
@@ -7245,7 +7655,7 @@
   "id": "phn:hamsa-ten-sounds",
   "lineage": "lin:upanisadic",
   "source": "src:hamsa-upanisad",
-  "ref": "4",
+  "ref": "prose 2",
   "kind": "sound",
   "description": "Ten inner sounds heard after long haṃsa-japa: ciṇī, ciñciṇī, bell, conch, lute, cymbal, flute, mṛdaṅga, bherī, thunder.",
   "rests_on": [
@@ -7256,11 +7666,37 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:hamsa-ten-sounds"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "corrected",
+     "note": "The ten sounds are in the second prose section of the e-text Haṃsa, which has vv. 1-3 and prose sections 1-2 but no '4' (Adyar §§15-17). All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-ten-sounds (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
+  "correction_log": [
+   {
+    "field": "ref",
+    "old": "4",
+    "new": "prose 2",
+    "reason": "The ten sounds are in the second prose section of the e-text Haṃsa, which has vv. 1-3 and prose sections 1-2 but no '4' (Adyar §§15-17). All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-ten-sounds (corrected).",
+    "date": "2026-09-29 17:45 IST",
+    "by": "sourcing:U04-minor-upanisads"
+   }
+  ],
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
@@ -7423,10 +7859,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:heart-lotus-moods"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:3-heart-lotus (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8283,10 +8735,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:improper-pranayama-illness"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8577,10 +9045,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:jivanmukta-marks"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -8950,6 +9434,30 @@
   "provenance": {
    "units": [
     "skeleton:U18-saiva-siddhanta"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:karmapa-prediction-letters",
+  "lineage": "lin:karma-kagyu",
+  "kind": "power",
+  "description": "Karmapas are said to leave letters foretelling the place and parents of their next birth, by which they are found (the tradition's account).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -9729,10 +10237,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:kundalini-ascent"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -9884,6 +10408,109 @@
   "provenance": {
    "units": [
     "skeleton:U19-kashmir-saivism"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:lamdre-dissolution-signs",
+  "lineage": "lin:sakya",
+  "kind": "sign",
+  "description": "When the elements gather in meditation: mirage (earth into water), smoke (water into fire), fireflies (fire into wind), a burning lamp (wind into consciousness), a cloudless sky (consciousness into clear light).",
+  "source": "src:lamdre",
+  "ref": "140a.5-6",
+  "rests_on": [
+   "tea:lamdre:140a.5-6"
+  ],
+  "stage": "method continuum (advanced)",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:lamdre-experiences-as-path",
+  "lineage": "lin:sakya",
+  "kind": "difficulty",
+  "description": "Meditative experiences with and without fault, deviations and māras are to be recognised as one's own path and dependent arising, not clung to or feared.",
+  "source": "src:lamdre",
+  "ref": "140b.5-6",
+  "rests_on": [
+   "tea:lamdre:140b.5-6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:lamdre-powers-of-grounds",
+  "lineage": "lin:sakya",
+  "kind": "power",
+  "description": "Powers accompanying the grounds: shaking and visiting hundreds, then thousands of emanation fields; giving, radiating light, teaching in beings' languages; unimpeded superknowledges and miracles.",
+  "source": "src:lamdre",
+  "ref": "141a.6-142a.5",
+  "rests_on": [
+   "tea:lamdre:141b.2"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:lamdre-signs-of-grounds",
+  "lineage": "lin:sakya",
+  "kind": "bodily",
+  "description": "Each ground is marked by the cessation of a measure of wind (one, six, ten, twelve finger-widths) and the stabilising of the drop at successive places; at the first ground bliss so intense that one faints and does not recognise self and other.",
+  "source": "src:lamdre",
+  "ref": "141b.2",
+  "rests_on": [
+   "tea:lamdre:141b.2"
+  ],
+  "restricted": true,
+  "notes": "Restricted completion-stage context; summary only.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
     "skeleton"
@@ -10115,6 +10742,33 @@
   }
  },
  {
+  "id": "phn:lojong-trained-mind",
+  "lineage": "lin:kadam",
+  "kind": "sign",
+  "description": "Signs of trained mind: self-grasping lessened; one's own mind as reliable witness; a constant joyful mind; practice continues even when distracted.",
+  "source": "src:seven-point-mind-training",
+  "ref": "5.1-5.4",
+  "rests_on": [
+   "tea:seven-point-mind-training:5.1",
+   "tea:seven-point-mind-training:5.3",
+   "tea:seven-point-mind-training:5.4"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:lotus-urna-light",
   "lineage": "lin:mahayana",
   "source": "src:saddharmapundarika",
@@ -10166,6 +10820,57 @@
   "provenance": {
    "units": [
     "skeleton:U39-mahayana-sutras"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:lrc-pliancy",
+  "lineage": "lin:gelug",
+  "kind": "bodily",
+  "description": "At the culmination of the nine states, mental pliancy arises, a sensation like a warm hand on the crown after shaving the head is described by commentators; then physical pliancy with bliss filling the body; the joy subsides into stable calm.",
+  "source": "src:lamrim-chenmo",
+  "ref": "calm.measure",
+  "rests_on": [
+   "tea:lamrim-chenmo:calm.measure"
+  ],
+  "notes": "The crown-sensation detail is recalled from Gelug commentary and may be imprecise.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:lrc-subtle-laxity-mistaken",
+  "lineage": "lin:gelug",
+  "kind": "difficulty",
+  "description": "A clear, calm but slack state easily taken for faultless meditation; prolonged, it dulls intelligence and memory.",
+  "source": "src:lamrim-chenmo",
+  "ref": "calm.subtle-laxity",
+  "rests_on": [
+   "tea:lamrim-chenmo:calm.subtle-laxity"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
     "skeleton"
@@ -10225,6 +10930,67 @@
   "provenance": {
    "units": [
     "skeleton:U17-pasupata-kapalika"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:mahamudra-siddhis-ganga",
+  "lineage": "lin:kagyu",
+  "source": "src:ganga-mahamudra",
+  "ref": "v28",
+  "stage": "method path",
+  "kind": "power",
+  "description": "The Gaṅgā Mahāmudrā lists results of the method practice: long life without white hair, waxing like the moon, radiant complexion, lion-like strength, quick common siddhis — while aiming at the supreme.",
+  "rests_on": [
+   "tea:ganga-mahamudra:v28"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "notes": "U44 owns the source.",
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:mahamudra-three-experiences",
+  "lineage": "lin:kagyu",
+  "source": "src:moonbeams-of-mahamudra",
+  "ref": "pt.2",
+  "stage": "one-pointedness",
+  "kind": "state",
+  "description": "In one-pointedness the meditator meets experiences of bliss, clarity and non-thought, which come and go and are not to be clung to.",
+  "rests_on": [
+   "tea:moonbeams-of-mahamudra:pt.2/5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -10608,10 +11374,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:mandala-five-voids"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -10637,10 +11419,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:mandala-sambhavi-signs"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -10666,10 +11464,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:mandala-westward-lights"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -11197,6 +12011,124 @@
   }
  },
  {
+  "id": "phn:milarepa-demons-as-mind",
+  "lineage": "lin:kagyu",
+  "source": "src:milarepa-gurbum",
+  "ref": "1",
+  "kind": "difficulty",
+  "description": "Demons in Milarepa's cave would not leave when driven out but vanished when he recognized them as his own mind's projections.",
+  "rests_on": [
+   "tea:milarepa-gurbum:1"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:milarepa-green-body",
+  "lineage": "lin:kagyu",
+  "source": "src:milarepa-namthar",
+  "ref": "pt.2/3",
+  "kind": "bodily",
+  "description": "Living for years on nettles alone in retreat, Milarepa's body turned green and emaciated (the tradition's account).",
+  "rests_on": [
+   "tea:milarepa-namthar:pt.2/3"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:milarepa-inner-heat",
+  "lineage": "lin:kagyu",
+  "source": "src:milarepa-gurbum",
+  "ref": "lachi-snow",
+  "kind": "bodily",
+  "description": "Wearing a single cotton cloth in the snows, Milarepa was kept warm by inner heat; snowbound on Lachi for months he was found alive (the tradition's account).",
+  "rests_on": [
+   "tea:milarepa-gurbum:lachi-snow",
+   "tea:milarepa-namthar:pt.2/3"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:milarepa-powers",
+  "lineage": "lin:kagyu",
+  "source": "src:milarepa-gurbum",
+  "ref": "yak-horn",
+  "kind": "power",
+  "description": "Milarepa flew through the sky, sheltered inside a yak horn, and contested Naro Bönchung at Kailash — displays told as teaching, not as goals (the tradition's account).",
+  "rests_on": [
+   "tea:milarepa-gurbum:yak-horn",
+   "tea:milarepa-gurbum:kailash"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:mimamsa-svarga-happiness",
   "lineage": "lin:mimamsa",
   "source": "src:sabara-bhasya",
@@ -11683,10 +12615,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:nadabindu-log-like-state"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "stage": "unmanī",
   "provenance": {
@@ -11713,10 +12661,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:nadabindu-sound-stages"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -11800,10 +12764,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:nadi-suddhi-signs"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -11985,6 +12965,35 @@
   }
  },
  {
+  "id": "phn:naropa-earthquake-prophecy",
+  "lineage": "lin:kagyu",
+  "source": "src:bka-dpe-phyi-ma",
+  "ref": "273a.4",
+  "kind": "sign",
+  "description": "When Nāropa had recited the Cakrasaṃvara mantra a hundred thousand times, the earth shook and he received a prophecy (bka' dpe phyi ma).",
+  "rests_on": [
+   "tea:bka-dpe-phyi-ma:273a.4"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:nathamuni-vision-of-nammalvar",
   "lineage": "lin:visistadvaita",
   "source": "src:guruparampara-prabhavam-arayirappati",
@@ -12132,6 +13141,30 @@
   "provenance": {
    "units": [
     "skeleton:U43-pure-land"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:niguma-apparition",
+  "lineage": "lin:shangpa-kagyu",
+  "kind": "vision",
+  "description": "Khyungpo Naljor met Niguma in a charnel ground, where she appeared in the sky, dark-skinned and ornamented with bone, and taught him in dream and waking (the tradition's account).",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -13100,10 +14133,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:pranayama-three-grades"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -13667,6 +14716,31 @@
   }
  },
  {
+  "id": "phn:renunciation-arisen",
+  "lineage": "lin:gelug",
+  "kind": "state",
+  "description": "Renunciation has arisen when not even a moment's wish for saṃsāra's splendours occurs and the mind seeks liberation day and night.",
+  "source": "src:three-principal-aspects",
+  "ref": "5",
+  "rests_on": [
+   "tea:three-principal-aspects:5"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:rsi-seeing-the-hymns",
   "lineage": "lin:nairukta",
   "source": "src:nirukta",
@@ -14207,6 +15281,31 @@
   }
  },
  {
+  "id": "phn:sachen-manjusri-vision",
+  "lineage": "lin:sakya",
+  "kind": "vision",
+  "description": "The tradition's account: at twelve, in retreat, Sachen saw Mañjuśrī, who spoke the four lines of Parting from the Four Attachments.",
+  "source": "src:parting-from-four-attachments",
+  "ref": "context",
+  "rests_on": [
+   "tea:parting-from-four-attachments:context"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:sahaj-open-eyes",
   "lineage": "lin:sant",
   "source": "src:kabir-granthavali",
@@ -14414,7 +15513,7 @@
   "id": "phn:sandilya-samyama-powers",
   "lineage": "lin:upanisadic",
   "source": "src:sandilya-upanisad",
-  "ref": "1.60-68",
+  "ref": "1.68-69 (prose closing khaṇḍa 7)",
   "kind": "power",
   "description": "Powers from concentrations: knowledge of the worlds, of past and future, of others' minds; freedom from hunger; steadiness; vision of siddhas; moving in space.",
   "rests_on": [
@@ -14425,11 +15524,37 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:sandilya-samyama-powers"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "corrected",
+     "note": "The list of saṃyamas and their powers is the prose after v. 1.68 that closes khaṇḍa 7. E-text 1.60-68 deal with curing diseases by breath. All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:sandilya-upanisad:1.60-68 (corrected).",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
+  "correction_log": [
+   {
+    "field": "ref",
+    "old": "1.60-68",
+    "new": "1.68-69 (prose closing khaṇḍa 7)",
+    "reason": "The list of saṃyamas and their powers is the prose after v. 1.68 that closes khaṇḍa 7. E-text 1.60-68 deal with curing diseases by breath. All 1 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:sandilya-upanisad:1.60-68 (corrected).",
+    "date": "2026-09-29 17:45 IST",
+    "by": "sourcing:U04-minor-upanisads"
+   }
+  ],
   "provenance": {
    "units": [
     "skeleton:U04-minor-upanisads"
@@ -15592,7 +16717,7 @@
     "old": "10.5.2.20",
     "new": "10.5.2.19-20",
     "reason": "The two halves of the description are in adjacent kaṇḍikās. The breaths going into the self in sleep is ŚB 10.5.2.19: 'sa yadā svapity athainam ete prāṇāḥ svā apiyanti tasmāt svāpyayaḥ … taṃ svapna ity ācakṣate'. Knowing nothing by mind, speech, smell, sight or hearing is 10.5.2.20: 'sa etaiḥ suptaḥ na kasya cana veda na manasā saṅkalpayati …'. Correction: ref 10.5.2.19-20, the same range fix as for tea:satapatha-brahmana:10.5.2.20.",
-    "date": "2026-09-29 17:34 IST",
+    "date": "2026-09-29 17:45 IST",
     "by": "sourcing:U02-brahmana-vedanga"
    }
   ],
@@ -16818,10 +17943,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:tejobindu-samadhi-disturbances"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -17115,6 +18256,33 @@
   }
  },
  {
+  "id": "phn:tilopa-vision-of-vajradhara",
+  "lineage": "lin:kagyu",
+  "kind": "vision",
+  "description": "Tilopa is said to have received the teachings directly from Vajradhara in vision, besides from the four human teachers (the tradition's account).",
+  "rests_on": [
+   "tea:karnatantravajrapada:302b.6"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:tirumankai-mantra-whispered",
   "lineage": "lin:alvar",
   "kind": "sound",
@@ -17341,10 +18509,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:trisikhi-death-omens"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -17375,6 +18559,31 @@
   "provenance": {
    "units": [
     "skeleton:U41-yogacara-pramana"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:tsongkhapa-realization",
+  "lineage": "lin:gelug",
+  "kind": "vision",
+  "description": "The tradition's account: after visions of Mañjuśrī and a dream of Nāgārjuna and his disciples, reading Buddhapālita's commentary brought Tsongkhapa complete certainty about the view; the Praise of Dependent Origination records his gratitude for coming to understand Nāgārjuna through Candrakīrti.",
+  "source": "src:praise-of-dependent-origination",
+  "ref": "colophon-verses",
+  "rests_on": [
+   "tea:praise-of-dependent-origination:colophon-verses"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
     "skeleton"
@@ -17442,6 +18651,36 @@
   }
  },
  {
+  "id": "phn:tukdam",
+  "lineage": "lin:kagyu",
+  "source": "src:bka-dpe-phyi-ma",
+  "ref": "275a.4",
+  "stage": "death",
+  "kind": "state",
+  "description": "After the breath stops, accomplished practitioners are said to remain in the clear light (thugs dam) for days, the body upright and without decay, the heart area warm (the tradition's account; many recent reports).",
+  "rests_on": [
+   "tea:bka-dpe-phyi-ma:275a.4"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "moderate",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
   "id": "phn:tulsi-rama-darsana",
   "lineage": "lin:ramanandi",
   "source": "src:bhaktirasabodhini",
@@ -17465,6 +18704,67 @@
   "provenance": {
    "units": [
     "skeleton:U26-regional-bhakti"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:tummo-results-karnatantravajrapada",
+  "lineage": "lin:kagyu",
+  "source": "src:karnatantravajrapada",
+  "ref": "303a.2",
+  "stage": "inner heat; completion",
+  "kind": "state",
+  "description": "When wind and mind enter the central channel there is non-conceptuality; the afflictions subside by themselves; bliss and clarity are uninterrupted; seeing the essence one abides in the dharmakāya; later the channel-knots release, the winds and afflictions cease into wisdom, and the faces of the nirmāṇa- and saṃbhogakāya are seen.",
+  "rests_on": [
+   "tea:karnatantravajrapada:303a.2",
+   "tea:karnatantravajrapada:304b.1"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:tummo-signs-bka-dpe-phyi-ma",
+  "lineage": "lin:kagyu",
+  "source": "src:bka-dpe-phyi-ma",
+  "ref": "273b.4",
+  "stage": "inner heat",
+  "kind": "sign",
+  "description": "Signs arising from inner heat, in order: something like warmth, like smoke, like fireflies, like a lamp, like the sky; then bliss arises and thoughts cease by force; mirage, fireflies and dawn; the elements dissolve into one another, caṇḍālī blazes, the white element descends; signs of heat and cold mixing; a state like a cloudless sky.",
+  "rests_on": [
+   "tea:bka-dpe-phyi-ma:273b.4"
+  ],
+  "verification": {
+   "level": "skeleton",
+   "confidence": "high",
+   "unverified": false,
+   "checks": []
+  },
+  "coverage": [
+   "B6",
+   "D"
+  ],
+  "provenance": {
+   "units": [
+    "skeleton:U46-kagyu"
    ],
    "phases": [
     "skeleton"
@@ -17905,10 +19205,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:varaha-world-in-the-stages"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -18323,6 +19639,29 @@
   "provenance": {
    "units": [
     "skeleton:U27-sant-baul"
+   ],
+   "phases": [
+    "skeleton"
+   ]
+  }
+ },
+ {
+  "id": "phn:virupa-nairatmya-vision",
+  "lineage": "lin:sakya",
+  "kind": "vision",
+  "description": "The tradition's account: Virūpa, despairing after long practice, was given the four empowerments by the goddess Nairātmyā in her maṇḍala in a dream and realised the grounds over the following days.",
+  "source": "src:lamdre",
+  "rests_on": [],
+  "notes": "Hagiographic account from Sakya histories; not in the root text.",
+  "verification": {
+   "level": "skeleton",
+   "confidence": "low",
+   "unverified": false,
+   "checks": []
+  },
+  "provenance": {
+   "units": [
+    "skeleton:U47-sakya-kadam-gelug"
    ],
    "phases": [
     "skeleton"
@@ -18858,10 +20197,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:yogacudamani-bell-sounds"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -18887,10 +20242,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:yogakundali-disease-obstacle"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -18916,10 +20287,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:yogasikha-dharana-powers"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -18945,10 +20332,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:yogasikha-subtle-body-signs"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -18974,10 +20377,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:yogasikha-ten-pratyayas"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -19003,10 +20422,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:yogasikha-trembling-dance"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -19032,10 +20467,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:yogatattva-attractiveness"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -19061,10 +20512,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:yogatattva-kevala-signs"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [
@@ -19090,10 +20557,26 @@
    "D"
   ],
   "verification": {
-   "level": "skeleton",
+   "level": "sourced",
    "confidence": "moderate",
    "unverified": false,
-   "checks": []
+   "checks": [
+    {
+     "phase": "C",
+     "date": "2026-09-29",
+     "method": "text-locate",
+     "queries": [
+      "e-text refs of phn:yogatattva-powers"
+     ],
+     "evidence": [
+      "catalog:raw_etexts:108_Upanishads",
+      "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+     ],
+     "result": "confirmed",
+     "note": "The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 1 teachings it rests on exist and were located in the e-text.",
+     "by": "sourcing:U04-minor-upanisads"
+    }
+   ]
   },
   "provenance": {
    "units": [

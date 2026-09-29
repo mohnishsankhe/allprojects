@@ -13,4 +13,4 @@
 Sakya (Ngor) master and student of Khyentse Wangpo who compiled the Compendium of Sādhanas and the Compendium of Tantras and published the Lamdre explanations.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

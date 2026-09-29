@@ -3,7 +3,7 @@
 `prc:huatou` · `skeleton` · confidence high
 
 **Category:** inquiry
-**Convergence:** 3 independent lineage(s): [Linji house](../lineages/linji.md), [Rinzai Zen](../lineages/rinzai.md), [Seon (Korean Chan)](../lineages/seon.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [Jogye order](../lineages/jogye.md), [Linji house](../lineages/linji.md), [Rinzai Zen](../lineages/rinzai.md), [Seon (Korean Chan)](../lineages/seon.md), [Yangqi branch (of the Linji house)](../lineages/yangqi.md)
 
 Pressing down all discriminating mind and holding the key word of a case (e.g. 'wu') with doubt at every moment and in every posture, without interpreting it, until the doubt shatters.
@@ -19,4 +19,4 @@ Pressing down all discriminating mind and holding the key word of a case (e.g. '
 - Do not wait for awakening: 'if you keep your mind on the breaking, it will never break' (Dahui). — [Recorded Sayings of Dahui (Dahui Pujue chanshi yulu)](../texts/dahui-yulu.md) 921c05
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

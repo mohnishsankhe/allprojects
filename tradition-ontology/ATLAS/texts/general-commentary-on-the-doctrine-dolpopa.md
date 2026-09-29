@@ -24,8 +24,8 @@ In the form of a supplication, the whole doctrine is summarized: the conventiona
 
 _level: bridging · standpoint: devotional · path: knowledge, devotion · stage: all · types: ultimate, practice_
 
-concepts: `cpt:zhentong` · teachers: [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md)
+concepts: [Other-emptiness (gzhan stong)](../concepts/zhentong.md) · teachers: [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md)
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

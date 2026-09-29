@@ -45,4 +45,4 @@
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:5.28, tea:bhagavad-gita:4.16, tea:bhagavad-gita:4.32 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U12-mimamsa, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U14-visistadvaita, skeleton:U02-brahmana-vedanga, skeleton:U19-kashmir-saivism, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka, skeleton:U32-jyotisa, skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U12-mimamsa, skeleton:U15-dvaita, skeleton:U09-samkhya, skeleton:U11-nyaya-vaisesika, skeleton:U30-ayurveda-rasa, extraction:bhagavad-gita/ch04-06, skeleton:U03-principal-upanisads, skeleton:U13-advaita, skeleton:U14-visistadvaita, skeleton:U02-brahmana-vedanga, skeleton:U19-kashmir-saivism, skeleton:U35-jain-philosophy, skeleton:U40-madhyamaka, skeleton:U32-jyotisa, skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._

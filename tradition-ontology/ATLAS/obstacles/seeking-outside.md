@@ -3,7 +3,7 @@
 `obs:seeking-outside` · `skeleton` · confidence high
 
 **Category:** obstacle
-**Convergence:** 3 independent lineage(s): [Hongzhou school](../lineages/hongzhou.md), [Linji house](../lineages/linji.md), [Seon (Korean Chan)](../lineages/seon.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [Hongzhou school](../lineages/hongzhou.md), [Linji house](../lineages/linji.md), [Seon (Korean Chan)](../lineages/seon.md)
 
 Seeking buddha, Dharma or liberation outside one's own mind — 'using the buddha to seek the buddha'; Linji: the sickness is not trusting oneself.
@@ -13,4 +13,4 @@ Seeking buddha, Dharma or liberation outside one's own mind — 'using the buddh
   - [Essentials of the Transmission of Mind (Chuanxin fayao)](../texts/chuanxin-fayao.md) — ref: 379c18; rests_on: ["tea:chuanxin-fayao:379c18"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

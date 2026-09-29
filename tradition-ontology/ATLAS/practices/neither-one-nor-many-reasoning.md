@@ -12,4 +12,4 @@ Examining whether a thing — a partless atom, a moment of consciousness, a whol
   - [Madhyamakālaṃkāra](../texts/madhyamakalamkara.md) — ref: 1; rests_on: ["tea:madhyamakalamkara:1"]
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

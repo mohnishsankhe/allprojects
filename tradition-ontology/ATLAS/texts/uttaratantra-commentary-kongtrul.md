@@ -15,5 +15,17 @@
 
 Jamgön Kongtrul's commentary on the Ratnagotravibhāga ('The Unassailable Lion's Roar'), presenting it as a text of the definitive third turning in a shentong-leaning reading.
 
+## Teachings (1: skeleton 1)
+
+### view <a id="tea-uttaratantra-commentary-kongtrul-view"></a>
+`skeleton` · confidence low
+
+Kongtrul explains the Uttaratantra as a treatise of the Great Madhyamaka of the final turning: the element, buddha-nature, is empty of the separable adventitious stains and not empty of the inseparable qualities; this is its definitive meaning.
+
+_level: ultimate · standpoint: absolute · path: knowledge · stage: advanced · types: ultimate, dispute_
+
+concepts: [The Great Madhyamaka (dbu ma chen po)](../concepts/great-madhyamaka.md), [The garbha empty and not empty](../concepts/empty-and-not-empty-garbha.md) · teachers: [Jamgön Kongtrul Lodrö Thayé ('jam mgon kong sprul blo gros mtha' yas)](../teachers/jamgon-kongtrul.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
+
+
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

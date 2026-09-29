@@ -22,8 +22,8 @@ Leave the mind uncontrived and it is self-liberated; whatever thoughts arise, lo
 
 _level: ultimate · standpoint: seeker · path: meditation · stage: advanced · types: practice, ultimate_
 
-terms: [rang grol](../terms/rangdrol.md) · concepts: [The Mahāmudrā of the amulet box](../concepts/amulet-mahamudra.md), [The three and four kāyas in the Kagyu](../concepts/four-kayas.md) · practices: `prc:amulet-mahamudra` · teachers: [Niguma](../teachers/niguma.md)
+terms: [rang grol](../terms/rangdrol.md) · concepts: [The Mahāmudrā of the amulet box](../concepts/amulet-mahamudra.md), [The three and four kāyas in the Kagyu](../concepts/four-kayas.md) · practices: [Amulet-box Mahāmudrā (Shangpa)](../practices/amulet-mahamudra.md) · teachers: [Niguma](../teachers/niguma.md)
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

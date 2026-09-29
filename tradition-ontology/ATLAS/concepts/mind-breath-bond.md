@@ -13,4 +13,4 @@
 - causes → [Dissolution of breath and mind (laya)](laya-natha.md) — rests on [4.21-25](../texts/hatha-yoga-pradipika.md#tea-hatha-yoga-pradipika-4-21-25)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._

@@ -16,4 +16,4 @@ Author of the Jñānayajña, commentary on the Taittirīya Saṃhitā, Brāhma�
 - 2026-09-28 websearch: partially-confirmed — https://catalog.hathitrust.org/Record/000816384, https://archive.org/details/in.ernet.dli.2015.312238 — Existence and work (Jñānayajña on the Taittirīya Saṃhitā, Brāhmaṇa, Āraṇyaka; pre-Sāyaṇa) confirmed; the date 'c. 11th century' not confirmed by the sources found.
 - 2026-09-28 websearch: confirmed — https://catalog.hathitrust.org/Record/000816384, https://www.worldcat.org/title/The-Taittiriya-Aranyaka-:-with-the-commentary-of-Bhatta-Bhaskara-Misra/oclc/638829086 — Low-confidence entry confirmed: the Jñānayajña bhāṣya covers the Taittirīya Saṃhitā, Brāhmaṇa and Āraṇyaka (editions; HathiTrust study). No date is asserted.
 
-_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U01-vedic-samhitas, skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._

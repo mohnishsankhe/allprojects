@@ -20,4 +20,4 @@ In the Haṭhapradīpikā, rapid inhalation with the sound of a male bee and ver
 - Draw the breath in slowly and release it slowly; do not hold it excessively nor release it quickly. — [Gorakṣaśataka](../texts/goraksasataka.md) 51
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:45 IST._

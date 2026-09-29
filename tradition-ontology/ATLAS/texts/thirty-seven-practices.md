@@ -26,7 +26,7 @@ Having gained this precious human life with its freedoms and endowments, so hard
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: practice_
 
-concepts: [The rarity of human birth](../concepts/rarity-of-human-birth.md) · practices: `prc:lojong` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+concepts: [The rarity of human birth](../concepts/rarity-of-human-birth.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 ### 2 <a id="tea-thirty-seven-practices-2"></a>
 `skeleton` · confidence moderate
@@ -35,7 +35,7 @@ In one's homeland attachment to friends surges like water, hatred of enemies bur
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: practice, ethics_
 
-practices: `prc:lojong` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 ### 4 <a id="tea-thirty-seven-practices-4"></a>
 `skeleton` · confidence moderate
@@ -44,7 +44,7 @@ Long-accompanying friends and relatives will separate, wealth gained with effort
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: practice, death-dying_
 
-concepts: [Death and impermanence in the Madhyamaka manuals](../concepts/death-and-impermanence-madhyamaka.md) · practices: `prc:lojong` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+concepts: [Death and impermanence in the Madhyamaka manuals](../concepts/death-and-impermanence-madhyamaka.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 ### 5 <a id="tea-thirty-seven-practices-5"></a>
 `skeleton` · confidence moderate
@@ -53,7 +53,7 @@ The companion with whom the three poisons grow, hearing, reflection and meditati
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: ethics_
 
-practices: `prc:lojong` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 ### 6 <a id="tea-thirty-seven-practices-6"></a>
 `skeleton` · confidence moderate
@@ -62,7 +62,7 @@ The spiritual friend through whom one's faults are exhausted and good qualities 
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: teacher-transmission_
 
-concepts: [Proper reliance on the spiritual teacher](../concepts/reliance-on-teacher-lamrim.md) · practices: `prc:lojong` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+concepts: [Proper reliance on the spiritual teacher](../concepts/reliance-on-teacher-lamrim.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 ### 7 <a id="tea-thirty-seven-practices-7"></a>
 `skeleton` · confidence high
@@ -71,7 +71,7 @@ Worldly gods, themselves bound in the prison of saṃsāra, whom can they protec
 
 _level: conventional · standpoint: seeker · path: general · stage: all · types: practice_
 
-concepts: [The three refuges](../concepts/three-refuges.md) · practices: `prc:lojong` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+concepts: [The three refuges](../concepts/three-refuges.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 ### 10 <a id="tea-thirty-seven-practices-10"></a>
 `skeleton` · confidence high
@@ -80,7 +80,7 @@ When the mothers who have loved one from beginningless time are suffering, what 
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: practice_
 
-concepts: [The awakening mind (bodhicitta) in the Madhyamaka manuals](../concepts/bodhicitta.md) · practices: `prc:lojong` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+concepts: [The awakening mind (bodhicitta) in the Madhyamaka manuals](../concepts/bodhicitta.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 ### 11 <a id="tea-thirty-seven-practices-11"></a>
 `skeleton` · confidence high
@@ -89,7 +89,7 @@ All suffering without exception comes from wanting happiness for oneself; the pe
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: practice_
 
-concepts: [Exchanging self and other](../concepts/exchanging-self-and-other.md) · practices: `prc:lojong`, `prc:tonglen` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+concepts: [Exchanging self and other](../concepts/exchanging-self-and-other.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md), [Sending and taking (gtong len)](../practices/tonglen.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 ### 13 <a id="tea-thirty-seven-practices-13"></a>
 `skeleton` · confidence moderate
@@ -98,7 +98,7 @@ Even if someone should cut off one's head though one has done no wrong, through 
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: practice, ethics_
 
-concepts: [Taking adversity as the path](../concepts/taking-adversity-as-path.md) · practices: `prc:lojong` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+concepts: [Taking adversity as the path](../concepts/taking-adversity-as-path.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 ### 20 <a id="tea-thirty-seven-practices-20"></a>
 `skeleton` · confidence moderate
@@ -107,7 +107,7 @@ If one does not subdue the enemy of one's own anger, the more outer enemies one 
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: practice, ethics_
 
-practices: `prc:lojong` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 ### 21 <a id="tea-thirty-seven-practices-21"></a>
 `skeleton` · confidence moderate
@@ -116,7 +116,7 @@ Sense pleasures are like salt water: the more one indulges, the more craving gro
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: practice_
 
-practices: `prc:lojong` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 ### 22 <a id="tea-thirty-seven-practices-22"></a>
 `skeleton` · confidence moderate
@@ -125,7 +125,7 @@ Whatever appears is one's own mind, and the nature of mind is from the beginning
 
 _level: ultimate · standpoint: seeker · path: action, meditation · stage: all · types: ultimate, consciousness-mind_
 
-concepts: [Ultimate bodhicitta in mind training](../concepts/ultimate-bodhicitta-lojong.md) · practices: `prc:lojong` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+concepts: [Ultimate bodhicitta in mind training](../concepts/ultimate-bodhicitta-lojong.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 ### 29 <a id="tea-thirty-seven-practices-29"></a>
 `skeleton` · confidence moderate
@@ -134,7 +134,7 @@ Knowing that insight joined with calm abiding completely destroys the affliction
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: practice_
 
-concepts: [The union of calm abiding and insight](../concepts/samatha-vipasyana-union.md) · practices: `prc:lojong` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+concepts: [The union of calm abiding and insight](../concepts/samatha-vipasyana-union.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 ### 30 <a id="tea-thirty-seven-practices-30"></a>
 `skeleton` · confidence moderate
@@ -143,7 +143,7 @@ Without wisdom the five perfections cannot bring perfect awakening; to cultivate
 
 _level: bridging · standpoint: seeker · path: action, meditation · stage: all · types: practice, ultimate_
 
-concepts: [The union of method and wisdom](../concepts/union-of-method-and-wisdom.md) · practices: `prc:lojong` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+concepts: [The union of method and wisdom](../concepts/union-of-method-and-wisdom.md) · practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 ### 35 <a id="tea-thirty-seven-practices-35"></a>
 `skeleton` · confidence moderate
@@ -152,7 +152,7 @@ When afflictions become habitual, antidotes are hard to apply; with the weapons 
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: practice_
 
-practices: `prc:lojong` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 ### 36 <a id="tea-thirty-seven-practices-36"></a>
 `skeleton` · confidence high
@@ -161,7 +161,7 @@ In short, wherever one is and whatever one does, examining the state of one's mi
 
 _level: conventional · standpoint: seeker · path: action, meditation · stage: all · types: practice_
 
-practices: `prc:lojong` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 ### 37 <a id="tea-thirty-seven-practices-37"></a>
 `skeleton` · confidence high
@@ -170,8 +170,8 @@ To dedicate the virtue produced by such effort to dispelling the suffering of li
 
 _level: bridging · standpoint: seeker · path: action, meditation · stage: all · types: practice_
 
-practices: `prc:lojong` · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
+practices: [Mind training (blo sbyong)](../practices/lojong.md) · teachers: [Gyalse Tokmé Zangpo](../teachers/tokme-zangpo.md)
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

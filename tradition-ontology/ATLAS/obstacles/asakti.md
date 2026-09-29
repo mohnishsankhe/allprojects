@@ -13,4 +13,4 @@ Injuries of the eleven organs (deafness, blindness, numbness, loss of taste and 
   - [Kramadīpikā](../texts/kramadipika.md) — ref: 13-15
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:45 IST._

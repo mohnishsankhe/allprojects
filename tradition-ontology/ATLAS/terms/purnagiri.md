@@ -18,4 +18,4 @@
 _Notes: Shared with the Kaula pīṭha lists (U24)._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula, skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U24-kali-kaula, skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._

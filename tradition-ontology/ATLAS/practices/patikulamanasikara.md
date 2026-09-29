@@ -18,4 +18,4 @@ Reviewing the body from the soles up and the hair down as full of impurities —
 - After the Buddha praised the meditation on foulness, monks at Vesālī practising it became disgusted with their bodies and some took their lives; he then taught mindfulness of breathing as peaceful and sublime. — [Ānāpāna Saṃyutta](../texts/anapana-samyutta.md) SN 54.9; Vin Pār 3
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._

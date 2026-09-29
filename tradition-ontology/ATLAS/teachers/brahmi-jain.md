@@ -9,4 +9,4 @@
 Daughter of Ṛṣabha, to whom he taught writing — the Brāhmī script is named after her; she became a nun and head of the nuns in his community.
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._

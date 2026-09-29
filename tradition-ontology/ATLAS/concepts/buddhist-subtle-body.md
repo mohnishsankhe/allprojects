@@ -15,4 +15,4 @@
 - corresponds-to-in-map → [The centres (cakra, ādhāra)](cakras.md) (cross-family anatomy): The Hindu haṭha six-cakra body and the Buddhist four-cakra body share the three channels (the Sekoddeśa itself equates lalanā/iḍā and rasanā/piṅgalā) but differ in the number and meaning of the centres. — rests on [46-50](../texts/sekoddesa.md#tea-sekoddesa-46-50)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._

@@ -11,4 +11,4 @@
 A garland of some 55 praise-verses on the Kuṟaḷ ascribed by tradition to the goddess of speech, a voice from the sky and the poets of the Madurai academy.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._

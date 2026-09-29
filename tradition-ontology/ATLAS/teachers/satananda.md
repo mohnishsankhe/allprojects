@@ -10,4 +10,4 @@
 Author of the Bhāsvatī (1099 CE), a Sūrya-Siddhānta-based handbook for calendars, traditionally of Puri.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._

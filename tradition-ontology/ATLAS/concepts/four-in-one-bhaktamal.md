@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [The four real things (cāri vastu)](cari-vastu.md) (devotional): the Bhaktamāl's four-in-one and the Ekaśaraṇa's four real things both place devotee, Lord and guru together with devotion or the name — rests on [1](../texts/bhaktamal.md#tea-bhaktamal-1), [name-guru-devotees](../texts/nam-ghosa.md#tea-nam-ghosa-name-guru-devotees)
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._

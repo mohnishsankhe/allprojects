@@ -1,6 +1,6 @@
 # Kuṇḍalinī
 
-`cpt:kundalini` · `skeleton` · confidence high
+`cpt:kundalini` · `sourced` · confidence high
 
 **Category:** body-energy
 
@@ -25,4 +25,8 @@
 - leads-to → [The innate (sahaja)](sahaja.md) — rests on [4.10-12](../texts/hatha-yoga-pradipika.md#tea-hatha-yoga-pradipika-4-10-12)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U23-sakta-srividya, skeleton:U22-tamil-siddha, skeleton:U26-regional-bhakti, skeleton:U24-kali-kaula, skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts, skeleton:U21-natha-aghora, skeleton:U23-sakta-srividya, skeleton:U22-tamil-siddha, skeleton:U26-regional-bhakti, skeleton:U24-kali-kaula, skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._

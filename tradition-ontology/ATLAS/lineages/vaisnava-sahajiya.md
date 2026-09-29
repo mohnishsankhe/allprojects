@@ -51,4 +51,4 @@ _none recorded_
 _Notes: Family 'vedic' (as a Vaiṣṇava movement), with the Buddhist Sahajiyā continuity recorded only as a scholarly hypothesis (brw:mahasiddha-to-vaisnava-sahajiya). Sexual-yogic practice: summary and warnings only._
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._

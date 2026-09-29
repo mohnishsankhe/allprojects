@@ -14,4 +14,4 @@ Pāñcarātra saṃhitā devoted to the construction and reconstruction of templ
   - kind: original; name: Ādikāṇḍa published; Muktabodha e-text M00401
 
 ---
-_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U08-agama-catalogue. Generated 2026-09-29 17:45 IST._

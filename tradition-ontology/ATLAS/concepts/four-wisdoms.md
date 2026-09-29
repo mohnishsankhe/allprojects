@@ -15,4 +15,4 @@
 - corresponds-to-in-map → [The eight consciousnesses](eight-consciousnesses.md): consciousness-to-wisdom mapping of the Cheng weishi lun — rests on [10](../texts/cheng-weishi-lun.md#tea-cheng-weishi-lun-10)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._

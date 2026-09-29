@@ -44,4 +44,4 @@ concepts: [Mind-to-mind transmission](../concepts/mind-to-mind-transmission.md),
 _Notes: Zongmi is owned by U54 (Huayan); this entry contributes the Chan side. One of the four texts of the Korean curriculum (Doseo)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

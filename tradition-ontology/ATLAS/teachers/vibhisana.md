@@ -13,4 +13,4 @@ Rāvaṇa's righteous brother who took refuge with Rāma; the Rāmcaritmānas's 
 
 - 2026-09-29 text-locate: confirmed — local:raw_etexts goraxapuram (Gita Press) 6.18.33-34, local:DharmicData Rāmāyaṇa (vulgate) 6.17.1, 6.18.1 (local 6.18 = GP 6.19) — Located as described.
 
-_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._

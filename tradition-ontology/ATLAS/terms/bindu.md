@@ -29,4 +29,4 @@
 _Notes: Contribution from U08; U31/U28 own bindu._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U21-natha-aghora, skeleton:U44-indian-vajrayana, skeleton:U31-sound-arts, skeleton:U04-minor-upanisads, skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism, skeleton:U45-nyingma-bon, skeleton:U46-kagyu, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U23-sakta-srividya, skeleton:U21-natha-aghora, skeleton:U44-indian-vajrayana, skeleton:U31-sound-arts, skeleton:U04-minor-upanisads, skeleton:U08-agama-catalogue, skeleton:U19-kashmir-saivism, skeleton:U45-nyingma-bon, skeleton:U46-kagyu, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._

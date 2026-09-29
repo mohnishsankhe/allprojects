@@ -16,4 +16,4 @@
 
 - 2026-09-29 text-locate: confirmed — AA 2.3.2 has the self increasingly manifest in plants, animals and man. Rests on teaching checks confirmed in this sweep: tea:aitareya-aranyaka:2.3.2.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._

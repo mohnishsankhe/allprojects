@@ -1,6 +1,6 @@
 # Tāraka-yoga
 
-`prc:taraka-yoga` · `skeleton` · confidence high
+`prc:taraka-yoga` · `sourced` · confidence high
 
 **Category:** meditation
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -14,4 +14,8 @@ Meditation on the 'crossing' light between the brows through the three targets a
 **Sequences:** [Advayatāraka: targets, voids and tāraka](../paths/advayataraka-voids.md)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

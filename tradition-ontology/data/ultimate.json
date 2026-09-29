@@ -3525,7 +3525,7 @@
     "tea:satyadvayavatara:v4",
     "tea:satyadvayavatara:v5-9",
     "tea:bodhipathapradipa:v48",
-    "tea:bodhipathapradipa:v50",
+    "tea:bodhipathapradipa:v49-51",
     "tea:satyadvayavatara:v21-22"
    ],
    "verification": {
@@ -7708,10 +7708,26 @@
     "D"
    ],
    "verification": {
-    "level": "skeleton",
+    "level": "sourced",
     "confidence": "moderate",
     "unverified": false,
-    "checks": []
+    "checks": [
+     {
+      "phase": "C",
+      "date": "2026-09-29",
+      "method": "text-locate",
+      "queries": [
+       "e-text: Maitreya 2.1, 2.14, 2.17; Nāradaparivrājaka 5, 8, 9"
+      ],
+      "evidence": [
+       "catalog:raw_etexts:108_Upanishads",
+       "text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md"
+      ],
+      "result": "confirmed",
+      "note": "The cited passages are located: Maitreya 2.1 (deho devālayaḥ … so'haṃbhāvena), 2.14 (the sun of consciousness), 2.17; Nāradaparivrājaka 8 (the sixteen-measured praṇava), 9 (brahmasvarūpa, neti neti) and 5 (not by staff or garb). 'Avadhūta 1' is cited for 'the jīva is Śiva', but Avadhūta 1 is the etymology of 'avadhūta'. The Śiva identity is in Maitreya 2.1 and Skanda 6-10.",
+      "by": "sourcing:U04-minor-upanisads"
+     }
+    ]
    },
    "provenance": {
     "units": [
@@ -9039,6 +9055,63 @@
    "provenance": {
     "units": [
      "skeleton:U22-tamil-siddha"
+    ],
+    "phases": [
+     "skeleton"
+    ]
+   }
+  },
+  {
+   "id": "ult:tantra-movement",
+   "lineage": "lin:tantra-movement",
+   "names": [
+    {
+     "name": "Śiva / Paramaśiva / Bhairava (Śaiva tantra)",
+     "term": "trm:bhairava"
+    },
+    {
+     "name": "Śakti as Tripurasundarī, Kālī, Kubjikā (Śākta tantra)",
+     "term": "trm:kula"
+    },
+    {
+     "name": "Vāsudeva with Lakṣmī (Pāñcarātra)"
+    },
+    {
+     "name": "Vajradhara; the innate (sahaja); great bliss (Buddhist tantra)",
+     "term": "trm:sahaja"
+    },
+    {
+     "name": "the Jina and the liberated soul (Jain mantraśāstra keeps the Jain goal)"
+    }
+   ],
+   "descriptions": [
+    "In the non-dual Śaiva and Śākta tantras the ultimate is consciousness that is both light and self-aware power, which appears as the world and as the practitioner.",
+    "In the Buddhist tantras the ultimate is the union of emptiness and bliss (or of wisdom and means), the innate nature of mind, realized in the deity's form and the channels of the body.",
+    "In the Pāñcarātra the ultimate is the personal Lord Vāsudeva with his Śakti Lakṣmī, manifest in the vyūhas.",
+    "In Jain mantra practice the Jina and the five supreme beings are worshipped; liberation remains the Jain liberation of the soul, and the tantric rites serve protection and worldly ends."
+   ],
+   "relation_to_self": "Varies by family: identity of self and Śiva/Śakti (Trika, Kaula, Śrīvidyā); souls equal to Śiva but distinct (Śaiva Siddhānta); the self as the Lord's part (Pāñcarātra); no self but the innate mind (Buddhist); the plurality of souls (Jain).",
+   "relation_to_world": "Varies by family: the world as the deity's manifestation or play (non-dual Śaiva/Śākta); as real and produced by māyā under Śiva's agency (Siddhānta); as appearance empty of own nature, yet the maṇḍala of the deity (Buddhist); as real substances (Jain).",
+   "personal_or_impersonal": "both",
+   "tradition_denies_single_ultimate": true,
+   "caveat": "The tantric movement is not one tradition and has no single view of the ultimate. The Buddhist and Jain tantric traditions reject a single creator or substrate; the Śaiva Siddhānta keeps souls distinct from Śiva; each family ranks the others' goal below its own (see dsp:saiva-buddhist-mutual-subordination). A one-truth reading belongs only to the interpretation layer and each family would object to it.",
+   "rests_on": [
+    "tea:pratyabhijnahrdaya:8",
+    "tea:guhyasamaja-tantra:2.3"
+   ],
+   "coverage": [
+    "C",
+    "D"
+   ],
+   "verification": {
+    "level": "skeleton",
+    "confidence": "moderate",
+    "unverified": false,
+    "checks": []
+   },
+   "provenance": {
+    "units": [
+     "skeleton:U49-cross-family"
     ],
     "phases": [
      "skeleton"

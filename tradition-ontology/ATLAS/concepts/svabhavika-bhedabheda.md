@@ -14,4 +14,4 @@
 - is-a → [Difference-and-non-difference (bhedābheda) of Brahman, souls and world](bhedabheda.md) — rests on [3.2.27](../texts/vedanta-parijata-saurabha.md#tea-vedanta-parijata-saurabha-3-2-27)
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._

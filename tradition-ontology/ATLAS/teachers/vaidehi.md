@@ -11,4 +11,4 @@ Queen of Magadha, mother of Ajātaśatru, whose plea for a land without sorrow o
 _Notes: U43 contribution: the sūtra calls her an ordinary being (fanfu) of feeble mind (T365 341c23); Shandao reads her as the model of the ordinary person for whom the sūtra was taught; at the end she attains the acceptance of non-arising (T365 346a27-b01)._
 
 ---
-_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

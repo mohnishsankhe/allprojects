@@ -13,4 +13,4 @@
 Disciple of Dāmodaradeva (1558–1638) whose Kathā-Bhāgavata and Kathā-Gītā are the foundation of Assamese prose.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._

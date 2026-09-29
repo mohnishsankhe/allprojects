@@ -10,4 +10,4 @@
 Holder of the Surmang Kagyu and Nyingma lineages who taught in the West (from 1970) and founded Shambhala; recent.
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

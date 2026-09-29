@@ -1,6 +1,6 @@
 # Which deity is the supreme Brahman — Śiva, Viṣṇu/Nārāyaṇa, or the Goddess?
 
-`dsp:which-deity-is-supreme` · `skeleton` · confidence moderate
+`dsp:which-deity-is-supreme` · `sourced` · confidence moderate
 
 **Coverage:** G
 
@@ -37,4 +37,8 @@ Skanda 8–9, Rudrahṛdaya 1–5 and Kaivalya 8–10 identify the gods; the cho
 **The traditions' own objections:** Sectarian theologians deny that their supremacy claims are mere praise; the Śarabha's subjugation of Nṛsiṃha is rejected by Vaiṣṇavas, and Śaiva authors reject the Mahā's account of Śiva's birth from Nārāyaṇa.
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 10 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:bahvrca-upanisad:1-3 (partially-confirmed).
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

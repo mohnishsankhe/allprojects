@@ -15,4 +15,4 @@ A very large Kubjikā tantra (with Kumārikākhaṇḍa and other sections) sett
 _Notes: Structure not recalled precisely; recorded at work level._
 
 ---
-_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U24-kali-kaula. Generated 2026-09-29 17:45 IST._

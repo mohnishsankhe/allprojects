@@ -12,4 +12,4 @@ A ritual exchange of riddles about the cosmos between priests (e.g. at the horse
   - [Ṛgveda Saṃhitā](../texts/rgveda.md) — ref: 1.164; rests_on: ["tea:rgveda:1.164.1"]
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._

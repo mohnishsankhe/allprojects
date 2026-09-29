@@ -27,7 +27,7 @@ At mealtime, thinking 'with this essenceless body I shall seek the essence', reg
 
 _level: conventional · standpoint: ritual · path: ritual, action · stage: all · types: practice, body-layers_
 
-practices: `prc:kadam-daily-conduct` · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
+practices: [Atiśa's daily conduct of a bodhisattva](../practices/kadam-daily-conduct.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
 
 ### v16 <a id="tea-caryasamgrahapradipa-v16"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -49,7 +49,7 @@ When the day's work is complete, in the first part of the night rest the mind, f
 
 _level: bridging · standpoint: seeker · path: meditation · stage: all · types: practice, consciousness-mind_
 
-practices: `prc:kadam-daily-conduct`, `prc:lion-posture-sleep` · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
+practices: [Atiśa's daily conduct of a bodhisattva](../practices/kadam-daily-conduct.md), [Sleeping in the lion posture](../practices/lion-posture-sleep.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
 
 ### v2-3 <a id="tea-caryasamgrahapradipa-v2-3"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -82,7 +82,7 @@ Preceded by generating the mind, take the bodhisattva vow; look at all the sūtr
 
 _level: conventional · standpoint: seeker · path: meditation, action · stage: all · types: practice, ethics_
 
-practices: `prc:kadam-daily-conduct` · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
+practices: [Atiśa's daily conduct of a bodhisattva](../practices/kadam-daily-conduct.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
 
 ### v9-10 <a id="tea-caryasamgrahapradipa-v9-10"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -93,10 +93,10 @@ If, distracted by signs, you cannot, rise and examine all appearing things as li
 
 _level: bridging · standpoint: seeker · path: meditation · stage: all · types: practice_
 
-concepts: [The similes of illusion, dream and mirage](../concepts/illusion-similes.md) · practices: `prc:kadam-daily-conduct` · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
+concepts: [The similes of illusion, dream and mirage](../concepts/illusion-similes.md) · practices: [Atiśa's daily conduct of a bodhisattva](../practices/kadam-daily-conduct.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
 
 
 _Notes: Local: catalog:Derge-Tengyur:D3960. Its closing line addresses a 'Sthavira' (elder); the colophon names the translator as the monk Tsultrim Gyalwa (Nagtso Lotsawa)._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

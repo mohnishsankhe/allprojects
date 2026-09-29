@@ -62,4 +62,4 @@ The school of Vedic exegesis founded on Jaimini's Mīmāṃsā Sūtra: it inquir
 _Notes: 'Vākyaśāstra' (science of the sentence) is the traditional name that pairs Mīmāṃsā with grammar (padaśāstra) and logic (pramāṇaśāstra); moderate confidence. Status 'living': Mīmāṃsā is still taught in traditional institutions._
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._

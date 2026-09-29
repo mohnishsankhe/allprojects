@@ -14,4 +14,4 @@
 Dharmakīrti's disciple and first commentator on the Pramāṇavārttika; Tibetan tradition says Dharmakīrti rejected his first two drafts and accepted the third, saying that the literal sense was grasped but not the intent.
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._

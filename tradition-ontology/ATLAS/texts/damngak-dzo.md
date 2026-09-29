@@ -16,7 +16,19 @@ Jamgön Kongtrul's collection of the essential instructions of the eight great p
 **Editions / translations:** 
   - kind: translation; name: The Treasury of Precious Instructions series (English, 2010s–)
 
+## Teachings (1: skeleton 1)
+
+### eight-chariots <a id="tea-damngak-dzo-eight-chariots"></a>
+`skeleton` · confidence moderate
+
+The Treasury of Instructions gathers the essential instructions of each of the eight great chariots so that none is lost; each lineage's instructions are kept in their own sequence and terms.
+
+_level: conventional · standpoint: ethical-social · path: general · stage: all · types: teacher-transmission_
+
+concepts: [The eight great chariots of practice lineages](../concepts/eight-chariots.md), [The Rimé (non-sectarian) approach](../concepts/rime-approach.md) · teachers: [Jamgön Kongtrul Lodrö Thayé ('jam mgon kong sprul blo gros mtha' yas)](../teachers/jamgon-kongtrul.md)
+
+
 _Notes: Volume counts differ by edition (commonly 12 or 18); not recorded._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

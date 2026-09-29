@@ -26,4 +26,4 @@ Brahmagupta (and Lalla and others): if the earth moved a minute of arc in a prā
 _Notes: An internal debate of the gaṇita branch; recorded without modern evaluation._
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._

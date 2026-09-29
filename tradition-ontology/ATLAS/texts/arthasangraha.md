@@ -158,4 +158,4 @@ terms: [sannipatyopakāraka](../terms/sannipatyopakaraka.md), [ārādupakāraka]
 
 
 ---
-_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._

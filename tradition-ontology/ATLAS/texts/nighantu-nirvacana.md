@@ -18,4 +18,4 @@ Devarāja Yajvan's commentary on the Nighaṇṭu.
 
 - 2026-09-28 catalog+websearch: confirmed — catalog:eBharati:niruktam_prathamobhAgaH (devarAjayagvaH), https://www.wisdomlib.org/definition/devaraja-yajvan — Low-confidence entry confirmed: Devarāja Yajvan's word-by-word commentary on the Nighaṇṭu (Wisdomlib: 12th c., or before the 14th c.).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._

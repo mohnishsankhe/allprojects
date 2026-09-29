@@ -16,4 +16,4 @@ Worship of the Lord in Vedic, tantric or mixed mode, in an image (of stone, wood
 - Worship in images while despising the Lord present in all beings is 'offering into ashes'. — [Kapila Gītā](../texts/kapila-gita.md) 3.29.21-25
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._

@@ -15,4 +15,4 @@ The domestic-rite manual of the Rāṇāyanīya (Drāhyāyaṇa) Sāmavedins, an
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Khādiragṛhyasūtra, catalog:eBharati:khAdiragRhyasUtram — Low-confidence entry confirmed as extant (DCS, eBhāratī).
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._

@@ -13,4 +13,4 @@
 - same-as-under-standpoint → [Health as balance of the dhātus](dhatu-samya.md): the same state described by its components — rests on [su.9.3-5](../texts/caraka-samhita.md#tea-caraka-samhita-su-9-3-5), [su.15.41](../texts/susruta-samhita.md#tea-susruta-samhita-su-15-41)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

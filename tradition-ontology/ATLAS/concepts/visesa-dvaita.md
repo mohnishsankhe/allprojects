@@ -14,4 +14,4 @@
 - contrasts-with → [Difference as the nature of things (bheda = svarūpa)](bheda-svarupa.md): viśeṣa accounts for distinctions where there is no real difference — rests on [10-12](../texts/tattvaviveka.md#tea-tattvaviveka-10-12)
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._

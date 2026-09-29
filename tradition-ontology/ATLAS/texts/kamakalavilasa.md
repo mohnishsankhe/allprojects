@@ -51,4 +51,4 @@ terms: [kāmakalā](../terms/kamakala.md), [bindu](../terms/bindu.md) · concept
 
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._

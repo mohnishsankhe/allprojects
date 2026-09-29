@@ -22,8 +22,8 @@ From the heart of the protector of the hundred deities of Tuṣita, on a cloud l
 
 _level: conventional · standpoint: devotional · path: devotion, ritual · stage: all · types: practice_
 
-practices: [Guru yoga (bla ma'i rnal 'byor)](../practices/guru-yoga.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md), [Gyaltsab Je Darma Rinchen](../teachers/gyaltsab-je.md), [Khedrup Je Gelek Pelzang](../teachers/khedrup-je.md)
+practices: [Guru yoga](../practices/guru-yoga.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md), [Gyaltsab Je Darma Rinchen](../teachers/gyaltsab-je.md), [Khedrup Je Gelek Pelzang](../teachers/khedrup-je.md)
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

@@ -12,4 +12,4 @@ Offering every act of daily life — speech, gesture, walking, eating, lying dow
   - [Saundaryalaharī](../texts/saundarya-lahari.md) — ref: 27; rests_on: ["tea:saundarya-lahari:27"]
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._

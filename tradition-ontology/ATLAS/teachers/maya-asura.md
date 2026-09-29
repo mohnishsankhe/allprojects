@@ -12,4 +12,4 @@
 The great asura who, when little of the Kṛta age remained, performed hard austerities to the Sun wishing to know the Vedāṅga of the lights, and received the Sūrya Siddhānta from a person born of the Sun's portion (SS 1.2–9; 12.1–11).
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._

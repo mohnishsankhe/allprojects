@@ -36,7 +36,7 @@ Resting on the mind itself, the meditator finds it to be mere clarity and awaren
 
 _level: bridging · standpoint: experiential · path: meditation · stage: advanced · types: consciousness-mind, practice_
 
-concepts: [Gelug Mahāmudrā (the Ganden oral lineage)](../concepts/gelug-mahamudra.md) · practices: `prc:gelug-mahamudra-meditation` · teachers: [Panchen Lobsang Chökyi Gyaltsen](../teachers/panchen-lobsang-chokyi-gyaltsen.md)
+concepts: [Gelug Mahāmudrā (the Ganden oral lineage)](../concepts/gelug-mahamudra.md) · practices: [Gelug Mahāmudrā meditation on the mind](../practices/gelug-mahamudra-meditation.md) · teachers: [Panchen Lobsang Chökyi Gyaltsen](../teachers/panchen-lobsang-chokyi-gyaltsen.md)
 
 ### two-approaches <a id="tea-gyalwai-shunglam-two-approaches"></a>
 `skeleton` · confidence moderate
@@ -49,4 +49,4 @@ terms: [mahāmudrā](../terms/mahamudra.md) · concepts: [Gelug Mahāmudrā (the
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

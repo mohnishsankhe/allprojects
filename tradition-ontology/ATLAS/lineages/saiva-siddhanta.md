@@ -59,4 +59,4 @@ The dualist (or 'realist') ritual Śaivism of the Mantramārga, grounded in the 
 _Notes: U18 created two sub-lineages so that the Sanskrit exegetes' and the Tamil school's positions can be recorded side by side: lin:tamil-saiva-siddhanta (the Meykaṇṭa school) and lin:nayanmar (the Tirumuṟai bhakti stream). Definitions under lin:saiva-siddhanta give the Sanskrit exegetes' view unless stated._
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._

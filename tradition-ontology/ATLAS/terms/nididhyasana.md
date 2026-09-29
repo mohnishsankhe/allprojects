@@ -14,4 +14,4 @@
 - contested: [upāsanā](upasana.md) — Advaita distinguishes nididhyāsana (dwelling on the known truth of the self) from upāsanā (meditation on a supported object, an act enjoined); Maṇḍana and the Bhāmatī bring them closer.
 
 ---
-_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U13-advaita. Generated 2026-09-29 17:45 IST._

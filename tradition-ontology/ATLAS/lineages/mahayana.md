@@ -63,4 +63,4 @@ The 'Great Vehicle': the body of sūtras and the movement, within the Buddhist m
 _Notes: parent set to lin:early-buddhism for lineage-root purposes (the Mahāyāna did not arise as a separate ordination lineage: its monastics were ordained in the Nikāya Vinayas). The tradition itself regards the Mahāyāna sūtras as the word of the Buddha; the scholarly account treats them as later compositions._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

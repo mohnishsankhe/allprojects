@@ -14,4 +14,4 @@ Immersion (samāveśa) that arises for one who thinks of nothing, awakened by th
 **Sequences:** `pth:kashmir-four-upayas`
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._

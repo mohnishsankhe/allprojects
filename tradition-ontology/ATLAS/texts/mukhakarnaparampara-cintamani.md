@@ -21,4 +21,4 @@ The ḍākinīs' secret words on the Cakrasaṃvara completion practices, 'arran
 _Notes: Tōh 2337. Only the opening and colophon were read._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

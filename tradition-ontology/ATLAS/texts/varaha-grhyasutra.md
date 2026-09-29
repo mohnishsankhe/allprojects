@@ -15,4 +15,4 @@ The domestic-rite manual of the Vārāha Maitrāyaṇīyas.
 
 - 2026-09-28 catalog: confirmed — catalog:DCS:Vārāhagṛhyasūtra, catalog:GRETIL-dev:varahagrhyasutra — Low-confidence entry confirmed as extant.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._

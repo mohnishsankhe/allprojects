@@ -25,4 +25,4 @@ Pressing the perineum with the heel and contracting the anus, the downward-movin
 - The one who gives the traditional instruction in the mudrās is the true guru, Īśvara himself; one practises devoted to his words. — [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) 3.128-130
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:45 IST._

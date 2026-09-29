@@ -14,4 +14,4 @@
 Rāmakaṇṭha's commentary on the Mokṣakārikā.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._

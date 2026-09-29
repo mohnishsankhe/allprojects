@@ -1,6 +1,6 @@
 # The body as temple
 
-`cpt:body-as-temple` · `skeleton` · confidence high
+`cpt:body-as-temple` · `sourced` · confidence high
 
 **Category:** body-energy
 
@@ -16,4 +16,8 @@
 ## Relations (interpretation layer)
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha, skeleton:U27-sant-baul, skeleton:U24-kali-kaula. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 4 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:bhavana-upanisad:1-5 (partially-confirmed).
+
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha, skeleton:U27-sant-baul, skeleton:U24-kali-kaula. Generated 2026-09-29 17:45 IST._

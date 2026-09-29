@@ -1,6 +1,6 @@
-# Debates (423)
+# Debates (437)
 
-skeleton: 395 · sourced: 28
+skeleton: 400 · sourced: 37
 
 - [After understanding the mahāvākya, is repeated meditative contemplation (prasaṅkhyāna) required for liberating knowledge?](prasankhyana.md) — `skeleton`
 - [Are all nouns derived from verbal roots?](do-all-nouns-derive-from-verbs.md) — `sourced`
@@ -34,7 +34,7 @@ skeleton: 395 · sourced: 28
 - [Are the Mahāyāna sūtras the word of the Buddha?](mahayana-buddhavacana.md) — `skeleton`
 - [Are the Old Tantras (rnying rgyud) authentic Indian scripture?](authenticity-of-nyingma-tantras.md) — `skeleton`
 - [Are the person and his diseases born of the same source — and what is it?](origin-of-person-and-disease.md) — `skeleton`
-- [Are the powers (siddhi) arising in yoga signs of attainment or obstacles?](siddhis-sign-or-obstacle.md) — `skeleton`
+- [Are the powers (siddhi) arising in yoga signs of attainment or obstacles?](siddhis-sign-or-obstacle.md) — `sourced`
 - [Are the puruṣas many, or is there one Puruṣa? (MBh 12.294–296, 12.338)](one-or-many-purusas-epic.md) — `skeleton`
 - [Are the rules of ritual purity and conventional conduct binding on the knower?](purity-impurity-kaula.md) — `skeleton`
 - [Are the scriptural passages Madhva quotes from works not otherwise known (e.g. 'Bhāllaveya śruti', 'Brahmatarka', 'Paramaśruti') authentic scripture?](madhva-sources-authenticity.md) — `skeleton`
@@ -44,6 +44,7 @@ skeleton: 395 · sourced: 28
 - [Are the Tamil hymns of the Āḻvārs (above all the Tiruvāymoḻi) Veda, equal in authority to the Sanskrit Upaniṣads?](tamil-veda-status.md) — `skeleton`
 - [Are the tantras the word of the Buddha and a legitimate Buddhist path?](legitimacy-of-tantra.md) — `skeleton`
 - [Are the ten practices of the Vajjian monks (including accepting gold and silver) allowable?](ten-points-vesali.md) — `skeleton`
+- [Are the three vows (individual liberation, bodhisattva, mantra) one in essence, or distinct systems to be kept separately?](three-vows-one-essence.md) — `skeleton`
 - [Are the transgressive statements and practices of the tantras to be taken literally or as intentional language?](literal-or-symbolic-tantric-conduct.md) — `skeleton`
 - [Are the unconditioned dharmas (space, the two cessations) real entities?](reality-of-the-unconditioned.md) — `skeleton`
 - [Are the Vedic gods embodied persons, or are they what the mantras name?](nature-of-vedic-deities.md) — `sourced`
@@ -56,7 +57,9 @@ skeleton: 395 · sourced: 28
 - [Are there only momentary cognitions without an enduring subject, or is there one conscious knower - the Lord - whose powers of cognition, memory and exclusion make experience possible?](pratyabhijna-vs-buddhist-logicians.md) — `skeleton`
 - [Are there three categories — soul, non-soul and 'no-soul'?](trairasika.md) — `skeleton`
 - [Are things established by their own nature (svabhāva), or is everything relative and empty?](own-nature-of-things.md) — `skeleton`
+- [Are Tsongkhapa's eight 'difficult points' genuinely Candrakīrti's Prāsaṅgika?](eight-difficult-points.md) — `skeleton`
 - [Are universals (jāti, sāmānya) real?](reality-of-universals.md) — `skeleton`
+- [Are universals real entities (the Tibetan debate on Dharmakīrti)?](reality-of-universals-tibetan.md) — `skeleton`
 - [At liberation, are the Lord's qualities transferred to, possessed by or produced in the soul - or is the soul's own Śiva-nature manifested?](liberated-soul-qualities.md) — `skeleton`
 - [By which method is the length of life to be computed?](ayurdaya-methods.md) — `skeleton`
 - [Can a householder be an arahant?](kv-lay-arahant.md) — `skeleton`
@@ -71,6 +74,7 @@ skeleton: 395 · sourced: 28
 - [Can every soul eventually be liberated, or are some souls by nature never to be liberated?](can-every-soul-be-liberated.md) — `skeleton`
 - [Can hymns in Tamil, composed by human poets — one of them born outside the brahmin class, one a woman — have the authority of the Veda?](tamil-prabandham-as-veda.md) — `skeleton`
 - [Can liberating knowledge be combined with ritual action (jñāna-karma-samuccaya), or does knowledge alone liberate?](jnana-karma-samuccaya.md) — `skeleton`
+- [Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?](sutra-mahamudra.md) — `skeleton`
 - [Can one be liberated while still living in the body (jīvanmukti)?](is-jivanmukti-possible.md) — `skeleton`
 - [Can one object be known by more than one means of knowledge?](pramana-samplava.md) — `skeleton`
 - [Can practices other than the nenbutsu bring birth in the Pure Land?](can-other-practices-lead-to-birth.md) — `skeleton`
@@ -107,6 +111,7 @@ skeleton: 395 · sourced: 28
 - [Do things possess a distinct causal power (śakti)?](sakti-causal-power.md) — `skeleton`
 - [Do śrāvakas and pratyekabuddhas realize the emptiness (selflessness) of phenomena?](sravaka-realization-of-emptiness.md) — `skeleton`
 - [Does a gift to the Buddha yield more merit than a gift to the Saṅgha?](merit-of-gifts-buddha-or-sangha.md) — `skeleton`
+- [Does a Prāsaṅgika assert any thesis of his own?](prasangika-theses.md) — `skeleton`
 - [Does a single, unconscious primal matter (pradhāna) exist as the material cause of the manifold world?](existence-of-pradhana.md) — `skeleton`
 - [Does a son own ancestral property from birth or only on the father's death?](inheritance-by-birth-or-death.md) — `sourced`
 - [Does a word denote the universal (jāti, ākṛti) or the individual (vyakti, dravya)?](jati-or-vyakti.md) — `skeleton`
@@ -143,9 +148,11 @@ skeleton: 395 · sourced: 28
 - [Does the statement 'all things are empty' refute itself?](can-emptiness-be-asserted.md) — `skeleton`
 - [Does the world exist only while perceived (dṛṣṭi-sṛṣṭi), or is it created by Īśvara before and apart from individual perception (sṛṣṭi-dṛṣṭi)?](drsti-srsti-vada.md) — `skeleton`
 - [Does Ṣaṭkhaṇḍāgama 1.1.93 allow human females the stages of full restraint?](samjada-controversy.md) — `skeleton` _(recent)_
+- [Empty of self, or empty of other?](rangtong-shentong.md) — `skeleton`
 - [How are the means of knowledge themselves established?](establishment-of-pramanas.md) — `skeleton`
 - [How are the Vedic deities and stories to be interpreted — as natural powers, as persons of old narratives, or through the rite?](nirukta-schools-of-interpretation.md) — `sourced`
 - [How did the Śvetāmbara–Digambara division arise?](svetambara-digambara-origin.md) — `skeleton`
+- [How do the four yogas of Mahāmudrā correspond to the five paths and ten grounds — in particular, at which yoga is the path of seeing (the first ground) reached?](four-yogas-and-the-grounds.md) — `skeleton`
 - [How does a sentence convey its meaning: by the connection of word-meanings already expressed (abhihitānvaya) or by words that express meanings already connected (anvitābhidhāna)?](sentence-meaning.md) — `skeleton`
 - [How does each tissue nourish the next?](how-dhatus-are-nourished.md) — `skeleton`
 - [How does rasa arise from the union of determinants, consequents and transient states, and where is it?](how-rasa-arises.md) — `skeleton`
@@ -187,6 +194,7 @@ skeleton: 395 · sourced: 28
 - [Is Chan a special transmission outside the scriptural teachings, or one with them?](chan-and-the-teachings.md) — `skeleton`
 - [Is cognition (the dependent nature) real, or is it empty of own-being like everything else? — Yogācāra and Madhyamaka](yogacara-madhyamaka.md) — `skeleton`
 - [Is complete nudity required of the renunciant (and for liberation)?](monastic-nudity.md) — `skeleton`
+- [Is conceptual analysis part of meditation, or must all thought be stopped?](role-of-analysis-in-meditation.md) — `skeleton`
 - [Is consciousness a product of the combined elements of the body?](consciousness-from-elements.md) — `skeleton`
 - [Is consciousness reflexively aware of itself (svasaṃvedana)?](svasamvedana.md) — `skeleton`
 - [Is consciousness ultimately real while external objects are not (mind-only), or is mind too empty?](madhyamaka-yogacara.md) — `skeleton`
@@ -205,7 +213,7 @@ skeleton: 395 · sourced: 28
 - [Is it the same consciousness that runs and wanders through the rounds of rebirth?](consciousness-transmigrates.md) — `skeleton`
 - [Is kaivalya (the soul's isolated enjoyment of itself) a permanent state?](permanence-of-kaivalya.md) — `skeleton`
 - [Is Kaula practice — the Kula worship with the five tattvas, the circle and the cremation ground — a legitimate path to liberation, or a departure from dharma?](legitimacy-of-kaula-practice.md) — `skeleton`
-- [Is knowledge alone sufficient for liberation, or must bodily yoga accompany it?](yoga-or-knowledge-for-liberation.md) — `skeleton`
+- [Is knowledge alone sufficient for liberation, or must bodily yoga accompany it?](yoga-or-knowledge-for-liberation.md) — `sourced`
 - [Is knowledge of the pure self by the ultimate standpoint the whole path, so that outward rites, worship and monastic authority are not needed?](adhyatma-niscaya-and-ritual.md) — `skeleton`
 - [Is knowledge the means of devotion, is devotion a means to knowledge, or is devotion its own fruit?](is-knowledge-the-means-of-bhakti.md) — `skeleton`
 - [Is Kṛṣṇa a form of Kālī, or is the Goddess a power of Kṛṣṇa?](krsna-and-kali.md) — `skeleton`
@@ -284,6 +292,8 @@ skeleton: 395 · sourced: 28
 - [Is the Tattvārthabhāṣya Umāsvāti's own commentary on the Tattvārthasūtra?](tattvartha-bhasya-authorship.md) — `skeleton`
 - [Is the ultimate an attributeless Brahman to be realised by 'that thou art', or the personal Bhagavān reached by devotion? (Caitanya against the Advaita renouncers)](gaudiya-critique-of-advaita.md) — `skeleton`
 - [Is the ultimate of the nature of speech (śabdādvaita), and is all cognition word-permeated?](is-the-ultimate-speech.md) — `skeleton`
+- [Is the ultimate one, or divisible (e.g. into a concordant/nominal and an actual ultimate)?](paryaya-paramartha-division.md) — `skeleton`
+- [Is the ultimate truth an object of knowledge, and is emptiness realised by valid cognition (perception and inference)?](is-the-ultimate-knowable.md) — `skeleton`
 - [Is the validity of a cognition intrinsic (svataḥ) or extrinsic (parataḥ)?](svatah-paratah-pramanya.md) — `skeleton`
 - [Is the Veda threefold (trayī), or is the Atharvaveda a Veda of equal (or higher) rank?](atharvaveda-status.md) — `sourced`
 - [Is the Vrātya an exalted cosmic figure or an outsider to be brought into the Vedic fold?](vratya-status.md) — `sourced`
@@ -321,35 +331,38 @@ skeleton: 395 · sourced: 28
 - [May (or should) a widow follow her husband onto the pyre?](widow-anvarohana.md) — `sourced`
 - [May a debater refute without holding a thesis of his own (vitaṇḍā)?](debate-without-thesis.md) — `skeleton`
 - [May Buddhists (monastics) eat meat?](is-meat-eating-permitted.md) — `skeleton`
+- [May celibate monastics receive (and practise) the secret and wisdom empowerments?](monastic-higher-initiations.md) — `skeleton`
 - [May celibate monastics receive the secret and wisdom consecrations?](higher-consecrations-for-monastics.md) — `skeleton`
 - [May fish be eaten with milk?](fish-with-milk.md) — `skeleton`
 - [May monks and renunciants practise astrology or live by it?](astrology-for-renunciants.md) — `skeleton`
 - [May monks reside permanently in temples and manage their property?](caityavasa.md) — `skeleton`
 - [May one kill in battle as one's own dharma — and what of non-violence as the highest dharma?](violence-and-svadharma.md) — `skeleton`
-- [May one renounce directly, at any stage of life, or only after passing through the householder's duties?](when-to-renounce.md) — `skeleton`
+- [May one renounce directly, at any stage of life, or only after passing through the householder's duties?](when-to-renounce.md) — `sourced`
 - [May people of low birth know and expound the meaning of scripture and approach God on equal terms?](caste-and-the-varkari-saints.md) — `skeleton`
 - [May the gods (devatās) be worshipped, and must caste and Vedic rites be kept, by one who seeks liberation?](mahanubhava-and-the-devatas.md) — `skeleton`
 - [May the nenbutsu be practised exclusively, setting aside all other practices and deities?](exclusive-nenbutsu-controversy.md) — `skeleton`
 - [Must jhāna precede insight, or can insight proceed on momentary concentration (dry insight)?](dry-insight-or-jhana-first.md) — `skeleton`
+- [Must one hold a prātimokṣa vow to take the bodhisattva vow?](bodhisattva-vow-prerequisite.md) — `skeleton`
 - [Must one petition Amida with body, speech and mind (sangō kimyō) to be saved?](sango-wakuran.md) — `skeleton` _(recent)_
 - [Must the body be perfected and made deathless (kāya-citti, kaṟpam) for liberation, or is knowledge alone enough, the body being a pot to be seen through?](kaya-siddhi-or-jnana.md) — `skeleton`
 - [Must the devotee of Kṛṣṇa abstain from worshipping other deities (and from animal sacrifice to them)?](ekasarana-and-other-deities.md) — `skeleton`
 - [Must the surrendered keep the scriptural duties, and are deliberate offences after surrender to be expiated?](duties-after-prapatti.md) — `skeleton`
 - [On what terms were women ordained, and can the Theravāda bhikkhunī order be restored?](bhikkhuni-order.md) — `skeleton` _(recent)_
+- [Prāsaṅgika against Svātantrika](prasangika-svatantrika.md) — `skeleton`
 - [Should a medical text be accepted because a sage composed it, and must the followers of Caraka and Suśruta exclude each other?](authority-of-the-samhitas.md) — `skeleton`
 - [Should Arjuna fight the battle in which his elders, teachers and kinsmen stand on the other side?](bhagavad-gita-arjuna-should-fight.md) — `skeleton`
 - [Should blood offerings (bali) be made to the Goddess?](blood-sacrifice.md) — `skeleton`
 - [Should Chan meditation and Pure Land recitation be practised together?](chan-pure-land-dual-practice.md) — `skeleton`
-- [Should consecrated images of the Jinas be worshipped?](image-worship-and-inner-worship.md) — `skeleton`
+- [Should consecrated images of the Jinas be worshipped?](image-worship-and-inner-worship.md) — `sourced`
 - [Should forest dwelling, alms-food, rag robes, tree-root dwelling and abstention from fish and meat be compulsory for life?](devadatta-five-points.md) — `skeleton`
 - [Should one aspire to Maitreya's Tuṣita or to Amitābha's Sukhāvatī?](tusita-or-sukhavati.md) — `skeleton`
 - [Should one refuse to affirm or deny anything about what lies beyond experience (the other world, fruit of deeds, the perfected one after death)?](suspension-of-judgment.md) — `skeleton`
 - [Should the devotee say 'I am He' (so'ham) or 'I am your servant' (dāsō'ham)?](dasoham-soham.md) — `skeleton`
 - [Should the Goddess be worshipped in the right-hand (dakṣiṇa) mode, or is the left-hand/Kaula (vāma) mode with the five tattvas higher?](daksina-vs-vama.md) — `skeleton`
-- [Should the liberated renouncer act for the world's good — teach, take disciples, follow scriptural conduct?](lokasangraha-for-the-renouncer.md) — `skeleton`
+- [Should the liberated renouncer act for the world's good — teach, take disciples, follow scriptural conduct?](lokasangraha-for-the-renouncer.md) — `sourced`
 - [Should the mind be restrained, or — once the truth is known — left unrestrained?](mind-restraint-or-release.md) — `skeleton`
 - [Should the questions about the eternity and extent of the world, soul and body, and the Tathāgata after death be answered?](avyakata.md) — `skeleton`
-- [Should the renouncer keep outer marks — triple staff, topknot, sacred thread — or abandon them (one staff, or none)?](renunciant-marks-ekadanda-tridanda.md) — `skeleton`
+- [Should the renouncer keep outer marks — triple staff, topknot, sacred thread — or abandon them (one staff, or none)?](renunciant-marks-ekadanda-tridanda.md) — `sourced`
 - [Should the zodiac be reckoned from the moving equinox (sāyana) or from the fixed stars (nirayana), and with which ayanāṃśa?](sayana-nirayana.md) — `skeleton`
 - [Should Yudhiṣṭhira renounce the kingdom for the forest, or rule? (MBh 12.7–36)](renounce-or-rule.md) — `skeleton`
 - [Should Śrīvidyā be practised only in the inner Samaya way, or also in the Kaula way with outer worship and Kaula conduct?](samaya-or-kaula.md) — `skeleton`
@@ -380,6 +393,7 @@ skeleton: 395 · sourced: 28
 - [What divides the northern (Vaṭakalai) and southern (Teṅkalai) schools of Śrīvaiṣṇavism — the 'eighteen differences' (aṣṭādaśa-bheda)?](vadakalai-tenkalai.md) — `skeleton`
 - [What does 'tat tvam asi' (Chāndogya Upaniṣad 6.8.7) teach — identity of soul and Brahman, or something else?](tat-tvam-asi.md) — `skeleton`
 - [What does a word mean: a real universal, or the exclusion of others (apoha)?](apoha.md) — `skeleton`
+- [What does Madhyamaka reasoning negate: inherent existence only, or all four extremes including existence itself?](object-of-negation-madhyamaka.md) — `skeleton`
 - [What does the injunctive form (liṅ etc.) convey, and what prompts a person to act?](meaning-of-injunction.md) — `skeleton`
 - [What does Ṛgveda 9.83.1 ('pavitraṃ te vitataṃ brahmaṇas pate… ataptatanūr na tad āmo aśnute') enjoin?](rv-9-83-1-pavitra.md) — `skeleton`
 - [What happens in erroneous cognition (khyāti)?](theory-of-error.md) — `skeleton`
@@ -393,7 +407,7 @@ skeleton: 395 · sourced: 28
 - [What is the relation of the individual self to Brahman, according to the teachers named in BS 1.4.20–22?](jiva-brahman-relation-brahma-sutra.md) — `skeleton`
 - [What is the self common to all men (vaiśvānara)?](vaisvanara-six-views.md) — `sourced`
 - [What is Śrī's rank: all-pervading and of the Lord's rank (Īśvara-koṭi), or atomic and of the rank of souls (jīva-koṭi)? Is she a means or only the mediator?](status-of-sri.md) — `skeleton`
-- [What makes one a brāhmaṇa — birth, body, learning, action, or realization of the Self?](who-is-a-brahmana.md) — `skeleton`
+- [What makes one a brāhmaṇa — birth, body, learning, action, or realization of the Self?](who-is-a-brahmana.md) — `sourced`
 - [What moves events — fate, time, nature, the Lord, karma, or human effort?](fate-or-effort.md) — `skeleton`
 - [What occasions the descent of power (śaktipāta): the equality of karma, the maturing of impurity, or the Lord's free will alone?](cause-of-saktipata.md) — `skeleton`
 - [What place, if any, has yogic discipline (haṭha, aṣṭāṅga, kuṇḍalinī) on the Sant path of the Name?](yoga-in-the-sant-path.md) — `skeleton`
@@ -405,7 +419,7 @@ skeleton: 395 · sourced: 28
 - [Where the Visuddhimagga departs from the Vimuttimagga (e.g. on the number of temperaments), which account holds?](vimuttimagga-visuddhimagga.md) — `skeleton`
 - [Which 'Bhāgavata' is the Mahāpurāṇa of the lists - the Śrīmad (Viṣṇu) Bhāgavata or the Devī Bhāgavata?](which-bhagavata-is-the-mahapurana.md) — `skeleton`
 - [Which aim of life is foremost — dharma, artha, kāma, their combination, or liberation?](which-purusartha-is-foremost.md) — `sourced`
-- [Which deity is the supreme Brahman — Śiva, Viṣṇu/Nārāyaṇa, or the Goddess?](which-deity-is-supreme.md) — `skeleton`
+- [Which deity is the supreme Brahman — Śiva, Viṣṇu/Nārāyaṇa, or the Goddess?](which-deity-is-supreme.md) — `sourced`
 - [Which part of the embryo forms first?](which-limb-forms-first.md) — `skeleton`
 - [Which system — the Vedic Vaikhānasa or the tantric Pāñcarātra — is the proper basis of Viṣṇu temple worship, and must a Vaiṣṇava receive the branding initiation?](vaikhanasa-pancaratra.md) — `skeleton`
 - [Which turning of the dharma-wheel is of definitive meaning (nītārtha): the teaching of emptiness (second) or the 'well-distinguished' teaching of the three natures and of buddha-nature (third)?](which-turning-is-definitive.md) — `skeleton`
@@ -413,7 +427,7 @@ skeleton: 395 · sourced: 28
 - [Who composed the Rādhā-sudhānidhi — Hita Harivaṃśa or Prabodhānanda Sarasvatī?](radha-sudhanidhi-authorship.md) — `skeleton`
 - [Who composed the Spandakārikā - Vasugupta or his disciple Kallaṭa?](spanda-karika-authorship.md) — `skeleton`
 - [Who is eligible for instruction in the inner perfected identity (siddha-praṇālī) and meditation on the eightfold play? (recent)](siddha-pranali-eligibility.md) — `skeleton` _(recent)_
-- [Who is eligible to renounce?](who-may-renounce.md) — `skeleton`
+- [Who is eligible to renounce?](who-may-renounce.md) — `sourced`
 - [Who is Matsyendranātha — a Śaiva siddha, a form of the bodhisattva Karuṇāmaya, or the Buddhist siddha Lūipa?](identity-of-matsyendra.md) — `skeleton`
 - [Who is supreme in the epic — Nārāyaṇa/Viṣṇu or Śiva?](siva-or-visnu-epic.md) — `skeleton`
 - [Who is the most learned in brahman? — the theological contest at Janaka's court (BAU 3)](janaka-court-brahmodya.md) — `sourced`

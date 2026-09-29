@@ -12,4 +12,4 @@
 Śvetāmbara monk-poet of the Kharatara Gaccha, author of philosophical Gujarati hymns (Covīsī), the Adhyātmagītā and the Nayacakrasāra.
 
 ---
-_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._

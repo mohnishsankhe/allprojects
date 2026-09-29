@@ -42,4 +42,4 @@ _none recorded_
 _Notes: The assignment of founders to the three lines differs between Tibetan histories; recalled, not checked._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

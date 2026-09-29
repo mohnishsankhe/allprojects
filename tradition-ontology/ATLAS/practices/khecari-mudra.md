@@ -1,6 +1,6 @@
 # Khecarī mudrā ('moving in space')
 
-`prc:khecari-mudra` · `skeleton` · confidence high · _restricted: summary only_
+`prc:khecari-mudra` · `sourced` · confidence high · _restricted: summary only_
 
 **Category:** lock-seal
 **Convergence:** 5 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Kaula (the Kula tradition)](../lineages/kaula.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [The Tamil Siddhars (cittar)](../lineages/tamil-siddha.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -44,4 +44,8 @@ RESTRICTED — summary only: the tongue, turned back, enters the cavity above th
 _Notes: U22 contribution to the shared entry; section title checked in the local TM e-text._
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 5 teachings it rests on exist and were located in the e-text. Restricted practice: the entry stays summary-only, as required, with no counts or procedures.
+
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U21-natha-aghora, skeleton:U04-minor-upanisads, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:45 IST._

@@ -13,4 +13,4 @@
 - part-of → [The Lord's infinite auspicious qualities](kalyana-gunas.md): Śrīvaiṣṇava theology lists both among the Lord's auspicious qualities — rests on [1.3.1](../texts/tiruvaymoli.md#tea-tiruvaymoli-1-3-1)
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:45 IST._

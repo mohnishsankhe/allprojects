@@ -10,4 +10,4 @@ Daughter of Svāyambhuva Manu, wife of the sage Kardama and mother of Kapila; th
 **Realization — the tradition's account:** Following her son's instruction she practised devotional yoga at Bindusaras, her body withered unnoticed, and she attained the Lord; the place became Siddhapada (Bhāgavata 3.33).
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

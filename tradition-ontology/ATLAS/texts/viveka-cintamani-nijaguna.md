@@ -15,4 +15,4 @@ Nijaguṇa Śivayōgi's Kannada encyclopaedia of Śaiva and Vīraśaiva lore —
   - kind: translation; name: Sanskrit Vivekacintāmaṇi, Vīraśaiva-liṅgi-brāhmaṇa-dharma-granthamālā no. 35 (print 1906; Muktabodha digital library e-text M00620), which states that the original was composed in Kannada by Nijaguṇa Śivayogin
 
 ---
-_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U20-virasaiva. Generated 2026-09-29 17:45 IST._

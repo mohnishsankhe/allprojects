@@ -14,4 +14,4 @@
 _Notes: Stated from the critic's side; Moheyan's own account is in the Dunhuang sources (see dsp:sudden-or-gradual)._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

@@ -17,4 +17,4 @@ Singing, hurrying, shaking the head, reading from a written text, not knowing th
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/raw_etexts/shixA/sAdhAraNI/paniniya_shiksha.md (60 verses) — PŚ 32 has 'gītī śīghrī śiraḥkampī tathā likhitapāṭhakaḥ | anarthajño 'lpakaṇṭhaś ca ṣaḍ ete pāṭhakādhamāḥ'; the six members match, within the cited 31–33. This rests on tea:paniniya-siksa:31-33.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._

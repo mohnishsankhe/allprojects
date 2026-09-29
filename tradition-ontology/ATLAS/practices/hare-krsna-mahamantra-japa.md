@@ -1,6 +1,6 @@
 # Recitation of the sixteen names
 
-`prc:hare-krsna-mahamantra-japa` · `skeleton` · confidence high
+`prc:hare-krsna-mahamantra-japa` · `sourced` · confidence high
 
 **Category:** mantra-sound
 **Convergence:** 2 independent lineage(s): [Gauḍīya Vaiṣṇavism (Caitanya Sampradāya; Acintya Bhedābheda)](../lineages/gaudiya-vaisnava.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -14,4 +14,8 @@ Repeating 'hare rāma hare rāma rāma rāma hare hare, hare kṛṣṇa hare k�
 _Notes: Gauḍīya practice recites it with the 'hare kṛṣṇa' half first; the Upaniṣad gives the 'hare rāma' half first._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

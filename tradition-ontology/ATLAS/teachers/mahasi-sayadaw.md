@@ -17,4 +17,4 @@
 Burmese scholar-meditator (U Sobhana, 1904–1982), pupil of Mingun Jetavana Sayadaw, head of the Sāsana Yeiktha from 1949 and questioner at the Sixth Council (1954–56); his noting method spread across Asia and to the West.
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._

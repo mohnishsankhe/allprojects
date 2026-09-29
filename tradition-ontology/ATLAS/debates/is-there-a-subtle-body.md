@@ -25,4 +25,4 @@ No: since the organs are all-pervading, birth is their functioning at the seed-p
 **Candidate readings:** P2-standpoint: whether the vehicle of rebirth is conceived as a body or as the functioning of pervasive organs.
 
 ---
-_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U09-samkhya. Generated 2026-09-29 17:45 IST._

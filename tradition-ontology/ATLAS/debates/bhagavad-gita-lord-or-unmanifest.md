@@ -26,4 +26,4 @@ _Notes: The text's own answer (12.2–7): those who fix the mind on the Lord and
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:12.1, tea:bhagavad-gita:12.2, tea:bhagavad-gita:12.3, tea:bhagavad-gita:12.4, tea:bhagavad-gita:12.5, tea:bhagavad-gita:12.12, tea:bhagavad-gita:12.13, tea:bhagavad-gita:12.6, tea:bhagavad-gita:12.7 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch10-12. Generated 2026-09-29 17:45 IST._

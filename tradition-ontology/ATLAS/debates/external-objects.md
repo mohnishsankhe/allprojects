@@ -63,4 +63,4 @@ No independent external object is established: cognition and its object are alwa
 _Notes: U41 contribution: Buddhist-internal sides. The Yogācāra side (Viṃśatikā) and the Nyāya/Mīmāṃsā sides are in U11's and U12's entries under the same id; the reconciliation block is theirs. See also dsp:object-independent-of-mind (U10)._
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U41-yogacara-pramana, skeleton:U12-mimamsa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika, skeleton:U41-yogacara-pramana, skeleton:U12-mimamsa. Generated 2026-09-29 17:45 IST._

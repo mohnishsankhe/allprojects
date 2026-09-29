@@ -44,7 +44,7 @@ No existents whatsoever are ever found anywhere that have arisen from themselves
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: unmarked · types: ultimate_
 
-terms: [anutpāda](../terms/anutpada.md), [catuṣkoṭi](../terms/catuskoti.md) · concepts: [Non-arising by the four alternatives](../concepts/non-arising-four-alternatives.md), [The four-cornered negation (catuṣkoṭi)](../concepts/catuskoti.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:causation`, `dsp:prasangika-svatantrika`
+terms: [anutpāda](../terms/anutpada.md), [catuṣkoṭi](../terms/catuskoti.md) · concepts: [Non-arising by the four alternatives](../concepts/non-arising-four-alternatives.md), [The four-cornered negation (catuṣkoṭi)](../concepts/catuskoti.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md) · disputes: `dsp:causation`, [Prāsaṅgika against Svātantrika](../debates/prasangika-svatantrika.md)
 
 ### 1.2 <a id="tea-mulamadhyamakakarika-1-2"></a>
 `skeleton` · confidence high
@@ -1183,4 +1183,4 @@ terms: [dṛṣṭi](../terms/drsti.md), [karuṇā](../terms/karuna.md) · conc
 _Notes: Chapter titles confirmed from the Prasannapadā colophons in the local Vaidya/Tripathi e-text (ch.12 colophon reads 'duḥkhaparīkṣā'). Chapter verse counts (GRETIL): 14,25,9,9,8,10,34,13,12,16,8,10,8,8,11,10,33,12,6,24,21,16,25,40,24,12,30._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

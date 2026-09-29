@@ -61,4 +61,4 @@ terms: [pañcākṣara](../terms/pancaksara.md) · practices: [Repetition of the
 
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:45 IST._

@@ -16,4 +16,4 @@ The First Panchen Lama's own commentary on 'Highway of the Conquerors'.
   - kind: original; name: Tibetan: collected works (gsung 'bum), several xylograph and modern editions
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

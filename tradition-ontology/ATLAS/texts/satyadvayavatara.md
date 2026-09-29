@@ -40,7 +40,7 @@ Buddhists accept two means of knowledge, perception and inference; to say that e
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-terms: [pramāṇa](../terms/pramana.md), [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md) · disputes: `dsp:is-emptiness-known-by-pramana`
+terms: [pramāṇa](../terms/pramana.md), [pratyakṣa](../terms/pratyaksa.md), [anumāna](../terms/anumana.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md) · disputes: [Is the ultimate truth an object of knowledge, and is emptiness realised by valid cognition (perception and inference)?](../debates/is-the-ultimate-knowable.md)
 
 ### v14 <a id="tea-satyadvayavatara-v14"></a>
 `skeleton` · confidence moderate · [AI-translated]
@@ -51,7 +51,7 @@ Scripture also says clearly that it is not realized by the two kinds of knowledg
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md) · disputes: `dsp:is-emptiness-known-by-pramana`
+teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md) · disputes: [Is the ultimate truth an object of knowledge, and is emptiness realised by valid cognition (perception and inference)?](../debates/is-the-ultimate-knowable.md)
 
 ### v15-17 <a id="tea-satyadvayavatara-v15-17"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -139,7 +139,7 @@ The ultimate is only one; others hold it to be of two kinds. How could dharmatā
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [paramārtha-satya](../terms/paramartha-satya.md), [dharmatā](../terms/dharmata.md) · concepts: [The two truths (satyadvaya)](../concepts/two-truths.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md) · disputes: `dsp:paryaya-paramartha-division`
+terms: [paramārtha-satya](../terms/paramartha-satya.md), [dharmatā](../terms/dharmata.md) · concepts: [The two truths (satyadvaya)](../concepts/two-truths.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md) · disputes: [Is the ultimate one, or divisible (e.g. into a concordant/nominal and an actual ultimate)?](../debates/paryaya-paramartha-division.md)
 
 ### v5-9 <a id="tea-satyadvayavatara-v5-9"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -156,4 +156,4 @@ terms: [śūnyatā](../terms/sunyata.md), [anutpāda](../terms/anutpada.md), [kl
 _Notes: Local: catalog:Derge-Tengyur:D3902. Shared id with U40._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

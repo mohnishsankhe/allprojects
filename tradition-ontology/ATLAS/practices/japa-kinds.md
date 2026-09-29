@@ -1,6 +1,6 @@
 # Three kinds of japa
 
-`prc:japa-kinds` · `skeleton` · confidence high
+`prc:japa-kinds` · `sourced` · confidence high
 
 **Category:** mantra-sound
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -12,4 +12,8 @@ Loud, whispered (upāṃśu) and mental recitation, each far superior to the pre
   - [Śāṇḍilya Upaniṣad](../texts/sandilya-upanisad.md) — ref: 1.2; rests_on: ["tea:sandilya-upanisad:1.2"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Śāṇḍilya 1.2 (vācika, upāṃśu, mānasa) and Darśana 2 are located. All 2 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

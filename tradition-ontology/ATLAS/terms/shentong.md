@@ -15,9 +15,9 @@
 - Tibetan: gzhan stong གཞན་སྟོང — exact
 
 ## Equivalents (interpretation layer)
-**Related:** [rang stong](rangtong.md)
+**Related:** [rang stong (rangtong)](rangtong.md)
 
 _Notes: U48 owns the Jonang definition; the id follows the registry's dsp:rangtong-shentong spelling._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

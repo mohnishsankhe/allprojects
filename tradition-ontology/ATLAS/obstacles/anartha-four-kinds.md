@@ -14,4 +14,4 @@ Unwanted tendencies arising from past sins, from pious acts (desire for their fr
 _Notes: A different fourfold list (svarūpa-bhrama, asat-tṛṣṇā, aparādha, hṛdaya-daurbalya) is given by Bhaktivinoda Ṭhākura (recent)._
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._

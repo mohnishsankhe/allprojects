@@ -28,7 +28,7 @@ Buddhapālita's argument is inadequate: it states no reason and example, it does
 
 _level: conventional · standpoint: polemical · path: knowledge · stage: unmarked · types: dispute_
 
-terms: [svatantra-anumāna](../terms/svatantra-anumana.md), [prasaṅga](../terms/prasanga.md) · concepts: [Autonomous inference in Madhyamaka](../concepts/svatantra-anumana.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: `dsp:prasangika-svatantrika`
+terms: [svatantra-anumāna](../terms/svatantra-anumana.md), [prasaṅga](../terms/prasanga.md) · concepts: [Autonomous inference in Madhyamaka](../concepts/svatantra-anumana.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: [Prāsaṅgika against Svātantrika](../debates/prasangika-svatantrika.md)
 
 ### 1.1/2 <a id="tea-prajnapradipa-1-1-2"></a>
 `skeleton` · confidence high
@@ -39,8 +39,8 @@ Ultimately the inner sense-bases do not arise from themselves, because they exis
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: unmarked · types: ultimate, dispute_
 
-terms: [svatantra-anumāna](../terms/svatantra-anumana.md), [paramārtha-satya](../terms/paramartha-satya.md) · concepts: [Autonomous inference in Madhyamaka](../concepts/svatantra-anumana.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: `dsp:prasangika-svatantrika`
+terms: [svatantra-anumāna](../terms/svatantra-anumana.md), [paramārtha-satya](../terms/paramartha-satya.md) · concepts: [Autonomous inference in Madhyamaka](../concepts/svatantra-anumana.md) · teachers: [Bhāviveka](../teachers/bhaviveka.md) · disputes: [Prāsaṅgika against Svātantrika](../debates/prasangika-svatantrika.md)
 
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

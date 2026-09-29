@@ -34,8 +34,8 @@ The sixteen drops (thig le bcu drug) of the Kadam: a guru-yoga meditation in whi
 
 _level: conventional · standpoint: ritual · path: meditation, devotion · stage: advanced · types: practice_
 
-practices: `prc:kadam-sixteen-drops` · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md), [Dromtönpa Gyalwai Jungne](../teachers/dromtonpa.md)
+practices: [The sixteen drops of the Kadam (bka' gdams thig le bcu drug)](../practices/kadam-sixteen-drops.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md), [Dromtönpa Gyalwai Jungne](../teachers/dromtonpa.md)
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

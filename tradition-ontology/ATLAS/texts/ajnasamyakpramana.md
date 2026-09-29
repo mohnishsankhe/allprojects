@@ -28,7 +28,7 @@ Homage to the great Vajradhara. By the difference of persons' minds there are th
 
 _level: bridging · standpoint: seeker · path: general · stage: all (rim gyis pa / cig car ba) · types: teacher-transmission, dispute_
 
-concepts: [Gradual and simultaneous persons](../concepts/gradual-and-simultaneous-persons.md) · disputes: `dsp:sudden-or-gradual`, `dsp:sutra-mahamudra`
+concepts: [Gradual and simultaneous persons](../concepts/gradual-and-simultaneous-persons.md) · disputes: `dsp:sudden-or-gradual`, [Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?](../debates/sutra-mahamudra.md)
 
 ### 271a.5 <a id="tea-ajnasamyakpramana-271a-5"></a>
 `skeleton` · confidence high
@@ -59,7 +59,7 @@ Dream too has five aspects: recollection, knowing (it) as illusion, training, ha
 
 _level: conventional · standpoint: seeker · path: meditation · stage: advanced · types: practice_
 
-terms: [svapna](../terms/svapna.md), [smṛti](../terms/smrti.md) · practices: [Dream yoga](../practices/dream-yoga.md)
+terms: [svapna](../terms/svapna.md), [smṛti](../terms/smrti.md) · practices: [Dream yoga (rmi lam)](../practices/dream-yoga.md)
 
 ### 272a.3 <a id="tea-ajnasamyakpramana-272a-3"></a>
 `skeleton` · confidence high
@@ -70,7 +70,7 @@ When mindfulness is stable, know (dreams) as illusion; even when not asleep, kno
 
 _level: conventional · standpoint: seeker · path: meditation, knowledge · stage: advanced · types: practice, death-dying_
 
-terms: [svapna](../terms/svapna.md), [antarābhava](../terms/antarabhava.md) · practices: [Dream yoga](../practices/dream-yoga.md), [Intermediate-state yoga](../practices/bardo-yoga.md)
+terms: [svapna](../terms/svapna.md), [antarābhava](../terms/antarabhava.md) · practices: [Dream yoga (rmi lam)](../practices/dream-yoga.md), [Intermediate-state yoga (bar do)](../practices/bardo-yoga.md)
 
 ### 272b.5 <a id="tea-ajnasamyakpramana-272b-5"></a>
 `skeleton` · confidence high
@@ -81,7 +81,7 @@ By habituating again and again, dream is blessed, and by that the bardo is bless
 
 _level: bridging · standpoint: seeker · path: meditation · stage: advanced · types: death-dying, practice_
 
-concepts: [The process of dying](../concepts/dying-process.md) · practices: [Dream yoga](../practices/dream-yoga.md), [Clear-light yoga](../practices/clear-light-yoga.md), [Intermediate-state yoga](../practices/bardo-yoga.md)
+concepts: [The process of dying](../concepts/dying-process.md) · practices: [Dream yoga (rmi lam)](../practices/dream-yoga.md), [Clear-light yoga](../practices/clear-light-yoga.md), [Intermediate-state yoga (bar do)](../practices/bardo-yoga.md)
 
 ### 272b.6 <a id="tea-ajnasamyakpramana-272b-6"></a>
 `skeleton` · confidence moderate
@@ -92,7 +92,7 @@ concepts: [The process of dying](../concepts/dying-process.md) · practices: [Dr
 
 _level: bridging · standpoint: experiential · path: meditation · stage: advanced · types: death-dying, karma-liberation_
 
-concepts: [The process of dying](../concepts/dying-process.md), [The learner's and the non-learner's union](../concepts/learner-and-non-learner-union.md) · practices: [Clear-light yoga](../practices/clear-light-yoga.md), [Intermediate-state yoga](../practices/bardo-yoga.md)
+concepts: [The process of dying](../concepts/dying-process.md), [The learner's and the non-learner's union](../concepts/learner-and-non-learner-union.md) · practices: [Clear-light yoga](../practices/clear-light-yoga.md), [Intermediate-state yoga (bar do)](../practices/bardo-yoga.md)
 
 ### 273a.1 <a id="tea-ajnasamyakpramana-273a-1"></a>
 `skeleton` · confidence high
@@ -103,10 +103,10 @@ The being of the intermediate state, with the form of its former existence and t
 
 _level: conventional · standpoint: seeker · path: meditation, devotion · stage: advanced · types: death-dying_
 
-terms: [antarābhava](../terms/antarabhava.md), [abhiṣeka](../terms/abhiseka.md) · concepts: [The three intermediate states (Nāropa system)](../concepts/three-bardos-naropa.md) · practices: [Intermediate-state yoga](../practices/bardo-yoga.md)
+terms: [antarābhava](../terms/antarabhava.md), [abhiṣeka](../terms/abhiseka.md) · concepts: [The three intermediate states (Nāropa system)](../concepts/three-bardos-naropa.md) · practices: [Intermediate-state yoga (bar do)](../practices/bardo-yoga.md)
 
 
 _Notes: Tōh 2331. The ascription to Tilopa is from memory of the catalogue and is not stated in the text read._
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

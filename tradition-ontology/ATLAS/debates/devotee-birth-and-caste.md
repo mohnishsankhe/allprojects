@@ -56,4 +56,4 @@ What is equal is the devotee's worth and eligibility for devotion and liberation
 _Notes: Feeds dsp:women-caste-liberation (U50). Āṇṭāḷ, a woman, and her Tiruppāvai are counted within the Tamil Veda, which bears on the women's side of G12._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:45 IST._

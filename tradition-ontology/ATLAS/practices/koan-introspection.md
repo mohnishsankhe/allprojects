@@ -3,7 +3,7 @@
 `prc:koan-introspection` · `skeleton` · confidence high
 
 **Category:** inquiry
-**Convergence:** 3 independent lineage(s): [Linji house](../lineages/linji.md), [Rinzai Zen](../lineages/rinzai.md), [Seon (Korean Chan)](../lineages/seon.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [Linji house](../lineages/linji.md), [Rinzai Zen](../lineages/rinzai.md), [Seon (Korean Chan)](../lineages/seon.md), [Yangqi branch (of the Linji house)](../lineages/yangqi.md)
 
 Working on an assigned kōan in zazen and daily activity, presenting one's understanding to the teacher in private interview; after the first barrier (e.g. 'wu', the sound of one hand), a graded series of cases, capping phrases and verses deepens and tests insight.
@@ -19,4 +19,4 @@ Working on an assigned kōan in zazen and daily activity, presenting one's under
 - Bankei held that manufacturing doubt trades the buddha-mind for a doubt. — [Sermons of Bankei (Bankei zenji seppō)](../texts/bankei-zenji-seppo.md) no-koan
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

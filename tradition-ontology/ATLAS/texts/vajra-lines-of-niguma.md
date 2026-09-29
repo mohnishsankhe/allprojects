@@ -24,8 +24,8 @@ By inner heat, bliss-warmth blazes by itself; by the illusory body, attachment a
 
 _level: conventional · standpoint: seeker · path: meditation, body-breath · stage: advanced · types: practice_
 
-concepts: [Niguma's six dharmas](../concepts/niguma-six-dharmas.md) · practices: `prc:niguma-six-dharmas` · teachers: [Niguma](../teachers/niguma.md)
+concepts: [Niguma's six dharmas](../concepts/niguma-six-dharmas.md) · practices: [Niguma's six dharmas](../practices/niguma-six-dharmas.md) · teachers: [Niguma](../teachers/niguma.md)
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

@@ -26,4 +26,4 @@ _Notes: Recalled, not checked; the identity of this Rāmakaṇṭha with the Sai
 
 - availability: Least-sure item: Rājānaka Rāmakaṇṭha's Sarvatobhadra on the Kashmirian Gītā exists (KSTS edition; Muktabodha e-text held locally). A disciple of Utpaladeva (c. 900–950) is the author, so c. 10th c. holds; one popular source's "c. 850" is not supported. Availability can be raised from "unknown".
 
-_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._

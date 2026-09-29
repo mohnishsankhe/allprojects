@@ -17,4 +17,4 @@ Daily anointing of the body with oil, especially head, ears and feet; it makes t
 - To be avoided by those afflicted with kapha, just after purificatory therapy, and with indigestion. — [Aṣṭāṅga Hṛdaya](../texts/astanga-hrdaya.md) Sū 2.9
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

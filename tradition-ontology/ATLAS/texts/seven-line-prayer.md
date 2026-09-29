@@ -21,10 +21,10 @@ Hūṃ. On the north-west border of the land of Oḍḍiyāna, on the pistil-ste
 
 _level: conventional · standpoint: devotional · path: devotion, sound · stage: all · types: practice, teacher-transmission_
 
-practices: [Recitation of the Seven-line prayer](../practices/seven-line-prayer.md), [Guru yoga (bla ma'i rnal 'byor)](../practices/guru-yoga.md) · teachers: [Padmasambhava (Guru Rinpoche)](../teachers/padmasambhava.md)
+practices: [Recitation of the Seven-line prayer](../practices/seven-line-prayer.md), [Guru yoga](../practices/guru-yoga.md) · teachers: [Padmasambhava (Guru Rinpoche)](../teachers/padmasambhava.md)
 
 
 _Notes: Its treasure attributions are several; not tied here to one revealer._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

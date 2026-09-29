@@ -20,4 +20,4 @@ Deśika's sub-commentary on Rāmānuja's Gītābhāṣya. (Id disambiguated from
   - kind: original; name: gita/gita JSON corpus (Sanskrit text, transliteration, several commentaries); licence: Unlicense; url: https://github.com/gita/gita
 
 ---
-_Contributed by: skeleton:U14-visistadvaita, skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U14-visistadvaita, skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._

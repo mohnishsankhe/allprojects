@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The three kinds of debate (kathā)](three-kinds-of-debate.md): shared vocabulary (vāda, jalpa, vitaṇḍā) with Nyāya Sūtra 1.2 — rests on [vi.8.27-28](../texts/caraka-samhita.md#tea-caraka-samhita-vi-8-27-28)
 
 ---
-_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U30-ayurveda-rasa. Generated 2026-09-29 17:45 IST._

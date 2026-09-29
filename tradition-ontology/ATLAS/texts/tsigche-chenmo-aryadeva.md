@@ -13,7 +13,19 @@
 
 A verse instruction on the Perfection of Wisdom attributed to Āryadeva the Brahmin, which the Chöd tradition treats as an Indian root of its view.
 
+## Teachings (1: skeleton 1)
+
+### whole <a id="tea-tsigche-chenmo-aryadeva-whole"></a>
+`skeleton` · confidence low
+
+Rest the mind in the Perfection of Wisdom beyond concepts; when obstacles and māras arise, recognize them as the mind's own display and let them dissolve into the unborn.
+
+_level: bridging · standpoint: seeker · path: meditation, knowledge · stage: intermediate · types: practice, ultimate_
+
+concepts: [Gods and demons as the mind's own display](../concepts/gods-and-demons-as-mind.md) · teachers: [Āryadeva the Brahmin (bram ze Ārya de ba)](../teachers/aryadeva-brahmin.md)
+
+
 _Notes: Attribution and date uncertain; the identity of 'Āryadeva the Brahmin' with other Āryadevas is not assumed._
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

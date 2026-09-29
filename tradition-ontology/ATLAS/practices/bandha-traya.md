@@ -1,6 +1,6 @@
 # The three locks together (bandha-traya)
 
-`prc:bandha-traya` · `skeleton` · confidence high
+`prc:bandha-traya` · `sourced` · confidence high
 
 **Category:** lock-seal
 **Convergence:** 2 independent lineage(s): [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -19,4 +19,8 @@ Mūla, uḍḍīyāna and jālandhara applied together: contracting the base, dr
   - [Yogakuṇḍalī Upaniṣad](../texts/yogakundali-upanisad.md) — ref: 1.40-52; rests_on: ["tea:yogakundali-upanisad:1.40-52"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 3 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U29-hatha-practices, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

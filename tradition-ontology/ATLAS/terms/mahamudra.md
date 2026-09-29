@@ -17,6 +17,7 @@
 - [Shangpa Kagyu](../lineages/shangpa-kagyu.md): The Mahāmudrā 'of the amulet box': ground, path and fruit enclosed together; the mind left uncontrived is self-liberated.
 - [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md): In the haṭha sense, the 'great seal', a posture-and-breath practice destroying sins (GŚ 32–33).
 - [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md): In Mahāyoga the third vidyādhara level (the mahāmudrā vidyādhara, body as the deity's form); the 'great seal' of the deity in generation-stage practice.
+- [Chöd (gcod), 'Cutting'](../lineages/chod.md): 'Mahāmudrā Chöd': Machig's Chöd understood as resting in the mind's nature once clinging is cut.
 
 ## Forms in other languages
 - Tibetan: phyag rgya chen po ཕྱག་རྒྱ་ཆེན་པོ — exact
@@ -27,4 +28,4 @@
 _Notes: Homonym: in haṭha yoga mahāmudrā is a seal-practice (see U28/U29 definitions of the same id)._
 
 ---
-_Contributed by: skeleton:U28-hatha-texts, skeleton:U47-sakya-kadam-gelug, skeleton:U44-indian-vajrayana, skeleton:U46-kagyu, skeleton:U21-natha-aghora, skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U28-hatha-texts, skeleton:U47-sakya-kadam-gelug, skeleton:U44-indian-vajrayana, skeleton:U46-kagyu, skeleton:U21-natha-aghora, skeleton:U45-nyingma-bon, skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

@@ -40,4 +40,4 @@ Through yoga the body is made adamantine and deathless (as Gorakṣa's position 
 _Notes: U21 adds the Nāth side from Nāth texts to the dispute first recorded by U20._
 
 ---
-_Contributed by: skeleton:U21-natha-aghora, skeleton:U20-virasaiva. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U21-natha-aghora, skeleton:U20-virasaiva. Generated 2026-09-29 17:45 IST._

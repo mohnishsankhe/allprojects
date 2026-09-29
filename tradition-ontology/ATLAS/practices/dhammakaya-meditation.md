@@ -12,4 +12,4 @@ The mind is brought down through a series of bases (nostril, eye-corner, centre 
 _Notes: From secondary knowledge; exact list of bases not verified._
 
 ---
-_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._

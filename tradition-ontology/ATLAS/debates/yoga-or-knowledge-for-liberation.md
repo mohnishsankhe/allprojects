@@ -1,6 +1,6 @@
 # Is knowledge alone sufficient for liberation, or must bodily yoga accompany it?
 
-`dsp:yoga-or-knowledge-for-liberation` · `skeleton` · confidence moderate
+`dsp:yoga-or-knowledge-for-liberation` · `sourced` · confidence moderate
 
 **Coverage:** G
 
@@ -32,4 +32,8 @@ Knowledge alone gives kaivalya; bodily yoga is for the unawakened; realization i
 _Notes: Related registry dispute: dsp:works-knowledge-grace._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 9 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:mahavakya-upanisad:5 (corrected).
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

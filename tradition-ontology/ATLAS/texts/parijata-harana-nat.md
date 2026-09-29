@@ -14,4 +14,4 @@
 Aṅkīyā nāṭ on Kṛṣṇa's bringing the pārijāta tree from heaven. Performed as bhāonā with a sūtradhāra who sings, dances and explains.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._

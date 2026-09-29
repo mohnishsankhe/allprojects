@@ -26,7 +26,7 @@ Tsongkhapa, explaining the Saṃdhinirmocana's three natures, rejects the readin
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate_
 
-concepts: `cpt:rangtong`, [The three natures (sūtra layer)](../concepts/three-natures.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md), [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md) · disputes: `dsp:rangtong-shentong`
+concepts: [Self-emptiness (rang stong)](../concepts/rangtong.md), [The three natures (sūtra layer)](../concepts/three-natures.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md), [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
 
 ### intro <a id="tea-legs-bshad-snying-po-intro"></a>
 `skeleton` · confidence high
@@ -44,7 +44,7 @@ The Svātantrika hold that phenomena are posited by appearing to a non-defective
 
 _level: ultimate · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-concepts: [The object of negation (dgag bya)](../concepts/object-of-negation.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: `dsp:prasangika-svatantrika`
+concepts: [The object of negation (dgag bya)](../concepts/object-of-negation.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: [Prāsaṅgika against Svātantrika](../debates/prasangika-svatantrika.md)
 
 ### madhyamaka-ultimate <a id="tea-legs-bshad-snying-po-madhyamaka-ultimate"></a>
 `skeleton` · confidence moderate
@@ -53,10 +53,10 @@ The ultimate truth is the mere absence of inherent existence — a non-affirming
 
 _level: ultimate · standpoint: apophatic · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-terms: [rang stong](../terms/rangtong.md), [prasajya-pratiṣedha](../terms/prasajya-pratisedha.md) · concepts: `cpt:rangtong`, [The emptiness of emptiness](../concepts/emptiness-of-emptiness.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: `dsp:rangtong-shentong`
+terms: [rang stong (rangtong)](../terms/rangtong.md), [prasajya-pratiṣedha](../terms/prasajya-pratisedha.md) · concepts: [Self-emptiness (rang stong)](../concepts/rangtong.md), [The emptiness of emptiness](../concepts/emptiness-of-emptiness.md) · teachers: [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
 
 
 _Notes: Shared id with U41 (its Wylie-based slug kept to avoid a duplicate)._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug, skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._

@@ -1,6 +1,6 @@
 # The guru in the minor Upaniṣads
 
-`cpt:guru` · `skeleton` · confidence high
+`cpt:guru` · `sourced` · confidence high
 
 **Category:** teacher-transmission
 
@@ -20,5 +20,6 @@
 **Verification checks**
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:4.34, tea:bhagavad-gita:4.1, tea:bhagavad-gita:4.2, tea:bhagavad-gita:4.3 — Fidelity checker F (bhagavad-gita ch04-06): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 7 teachings it rests on exist and were located in the e-text.
 
-_Contributed by: skeleton:U04-minor-upanisads, extraction:bhagavad-gita/ch04-06, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U04-minor-upanisads, extraction:bhagavad-gita/ch04-06, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._

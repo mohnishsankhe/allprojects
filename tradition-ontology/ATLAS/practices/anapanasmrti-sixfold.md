@@ -16,4 +16,4 @@ For one in whom discursive thought predominates: attention to the in- and out-br
 - partial: [Mindfulness of breathing (ānāpānasati)](anapanasati.md) — The Pali sixteen-step practice (MN 118) and the Kośa's six phases are different articulations of mindfulness of breathing.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

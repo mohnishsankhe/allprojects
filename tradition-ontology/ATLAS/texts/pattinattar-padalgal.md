@@ -50,4 +50,4 @@ concepts: [Karma and rebirth in the Siddhar songs](../concepts/siddhar-karma-reb
 _Notes: Section list checked in the local e-text. The mother's-cremation songs and the 'eyeless needle' verse are recalled from other editions (not in the local file)._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:45 IST._

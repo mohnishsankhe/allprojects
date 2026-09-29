@@ -28,4 +28,4 @@ _Notes: In yoga texts vibhūti also means yogic power; the Gītā's sense is the
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:10.7, tea:bhagavad-gita:10.16, tea:bhagavad-gita:10.19, tea:bhagavad-gita:10.40, tea:bhagavad-gita:10.41, tea:bhagavad-gita:10.18 — Fidelity checker F (bhagavad-gita ch10-12): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U20-virasaiva, skeleton:U10-yoga, extraction:bhagavad-gita/ch10-12, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U20-virasaiva, skeleton:U10-yoga, extraction:bhagavad-gita/ch10-12, skeleton:U04-minor-upanisads, skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._

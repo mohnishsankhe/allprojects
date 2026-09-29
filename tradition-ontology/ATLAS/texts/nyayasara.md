@@ -38,4 +38,4 @@ terms: [mokṣa](../terms/moksa.md), [sukha](../terms/sukha.md) · concepts: [Li
 
 
 ---
-_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U11-nyaya-vaisesika. Generated 2026-09-29 17:45 IST._

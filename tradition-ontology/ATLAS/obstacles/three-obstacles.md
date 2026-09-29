@@ -7,7 +7,7 @@
 **Taught in:** [Nyingma (the Ancient / Old Translation school)](../lineages/nyingma.md)
 
 Outer obstacles from the elements and hostile forces, inner from the channels and winds (illness), secret from dualistic mind; removed by Padmasambhava practices such as the Barche Künsel ('dispelling all obstacles').
-**Antidotes:** [Guru yoga (bla ma'i rnal 'byor)](../practices/guru-yoga.md), [Vajrakīla practice](../practices/vajrakilaya-practice.md)
+**Antidotes:** [Guru yoga](../practices/guru-yoga.md), [Vajrakīla practice](../practices/vajrakilaya-practice.md)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

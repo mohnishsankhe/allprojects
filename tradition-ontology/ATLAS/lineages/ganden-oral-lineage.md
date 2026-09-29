@@ -31,13 +31,13 @@ The oral 'hearing lineage' of Mahāmudrā and guru yoga that the Gelug traces fr
 [Baso Chökyi Gyaltsen](../teachers/baso-chokyi-gyaltsen.md), [Drubchen Chökyi Dorje](../teachers/drubchen-chokyi-dorje.md), [Gyalwa Ensapa Lobsang Döndrub](../teachers/gyalwa-ensapa.md), [Khedrup Sangye Yeshe](../teachers/khedrup-sangye-yeshe.md), [Panchen Lobsang Chökyi Gyaltsen](../teachers/panchen-lobsang-chokyi-gyaltsen.md), [Tokden Jampal Gyatso](../teachers/tokden-jampal-gyatso.md), [Tsongkhapa Lobsang Drakpa](../teachers/tsongkhapa.md), [Yongzin Yeshe Gyaltsen](../teachers/yongzin-yeshe-gyaltsen.md)
 
 ## Practices
-_none recorded_
+[Gelug Mahāmudrā meditation on the mind](../practices/gelug-mahamudra-meditation.md), [Guru yoga](../practices/guru-yoga.md)
 
 ## Path maps
 _none recorded_
 
 ## Debates
-_none recorded_
+[Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?](../debates/sutra-mahamudra.md)
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

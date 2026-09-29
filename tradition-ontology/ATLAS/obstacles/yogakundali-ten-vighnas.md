@@ -1,6 +1,6 @@
 # Ten obstacles (Yogakuṇḍalī)
 
-`obs:yogakundali-ten-vighnas` · `skeleton` · confidence moderate
+`obs:yogakundali-ten-vighnas` · `sourced` · confidence moderate
 
 **Category:** obstacle
 **Convergence:** 1 independent lineage(s): [Vedic Śrauta tradition (the Saṃhitā lineages)](../lineages/vedic-srauta.md)
@@ -14,4 +14,8 @@ Disease, doubt, heedlessness, sloth, sleep, withdrawal of interest, delusion and
   - [Yogakuṇḍalī Upaniṣad](../texts/yogakundali-upanisad.md) — ref: 1.59-61; rests_on: ["tea:yogakundali-upanisad:1.59-61"]
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 2 teachings it rests on exist and were located in the e-text.
+
+_Contributed by: skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

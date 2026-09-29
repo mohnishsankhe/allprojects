@@ -3,7 +3,7 @@
 `prc:samu` · `skeleton` · confidence high
 
 **Category:** body-daily-rhythm
-**Convergence:** 3 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md), [Seon (Korean Chan)](../lineages/seon.md), [Zen (Japanese Chan)](../lineages/zen.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [Chan (Chinese Meditation school)](../lineages/chan.md), [Seon (Korean Chan)](../lineages/seon.md), [Zen (Japanese Chan)](../lineages/zen.md)
 
 Manual labour shared by the whole community, high and low, as practice; 'a day without work, a day without food'; the cook's work done with joyful, nurturing and great mind.
@@ -14,4 +14,4 @@ Manual labour shared by the whole community, high and low, as practice; 'a day w
   - [Instructions for the Cook (Tenzo kyōkun)](../texts/tenzo-kyokun.md) — ref: three-minds; rests_on: ["tea:tenzo-kyokun:three-minds"]
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

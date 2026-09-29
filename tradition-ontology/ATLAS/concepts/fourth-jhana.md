@@ -13,4 +13,4 @@
 - part-of → [The four jhānas](four-jhanas.md) — rests on [75-82](../texts/samannaphala-sutta.md#tea-samannaphala-sutta-75-82), [31-33](../texts/mahasaccaka-sutta.md#tea-mahasaccaka-sutta-31-33)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._

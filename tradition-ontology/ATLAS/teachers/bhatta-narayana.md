@@ -11,4 +11,4 @@
 Author of the Stavacintāmaṇi, a hymn to Śiva quoted in Utpaladeva's commentary on the Śivadṛṣṭi as the work of a 'former teacher' (pūrvaguru).
 
 ---
-_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U19-kashmir-saivism. Generated 2026-09-29 17:45 IST._

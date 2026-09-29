@@ -11,4 +11,4 @@
 Second Jamyang Shepa of Labrang, author of the Precious Garland of Tenets.
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

@@ -13,4 +13,4 @@ Recitation of the deity's mantra — spoken, whispered or mental, counted in the
   - [Susiddhikara](../texts/susiddhikara-sutra.md) — 
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._

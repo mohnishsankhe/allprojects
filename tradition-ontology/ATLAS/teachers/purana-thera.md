@@ -8,4 +8,4 @@
 An elder who, after the First Council, said he would remember the Dhamma and discipline as he had heard them from the Buddha (Cv 11.1.11).
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._

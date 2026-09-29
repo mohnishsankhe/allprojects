@@ -52,4 +52,4 @@ The last major Indian tantric system (11th c.), the 'Wheel of Time', which corre
 [Was the newly arrived Kālacakra to be accepted as authoritative, and the other tantras read in its light?](../debates/acceptance-of-the-kalacakra.md), [May celibate monastics receive the secret and wisdom consecrations?](../debates/higher-consecrations-for-monastics.md)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._

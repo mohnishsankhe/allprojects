@@ -18,4 +18,4 @@
 Eknāth's long Marathi Rāmāyaṇa in ovīs, telling the story with devotional and inner meanings; left unfinished at his death and completed by his disciple Gāvbā.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._

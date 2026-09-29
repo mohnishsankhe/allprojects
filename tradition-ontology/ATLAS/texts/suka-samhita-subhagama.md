@@ -15,4 +15,4 @@ One of the five 'auspicious āgamas' which, according to Lakṣmīdhara, teach t
 _Notes: Not the haṭha Vasiṣṭha Saṃhitā (src:vasistha-samhita) nor Pāñcarātra saṃhitās of similar name. Named in Lakṣmīdhara on SL 31 (checked)._
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._

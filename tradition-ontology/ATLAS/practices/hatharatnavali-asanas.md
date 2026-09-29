@@ -12,4 +12,4 @@ The Haṭharatnāvalī (ch. 3) names eighty-four postures and describes a select
   - [Haṭharatnāvalī](../texts/hatharatnavali.md) — ref: ch.3
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:45 IST._

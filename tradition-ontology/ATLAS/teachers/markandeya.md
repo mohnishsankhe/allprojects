@@ -14,6 +14,7 @@ The long-lived sage who instructs the Pāṇḍavas in the forest (3.180–221):
 ---
 **Verification checks**
 
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Text-located: the name occurs in the e-text of daksinamurti, in the roles the summary gives.  A mythic or textual figure, so there is no historical dating to check.
 - 2026-09-29 text-locate: confirmed — local:DharmicData MBh CE 3.180.5, 3.186.81-91, 3.197.1 [mārka] — Located as described.
 
-_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U05-gita-epic, skeleton:U07-puranas, skeleton:U04-minor-upanisads. Generated 2026-09-29 17:45 IST._

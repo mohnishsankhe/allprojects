@@ -31,4 +31,4 @@ Bhagavad Gītā 7–9: at the time of the end, leave the body remembering the Lo
 
 - 2026-09-29 text: confirmed — tea:bhagavad-gita:7.30, tea:bhagavad-gita:8.5, tea:bhagavad-gita:8.6, tea:bhagavad-gita:8.7, tea:bhagavad-gita:8.9-10, tea:bhagavad-gita:8.10, tea:bhagavad-gita:8.12, tea:bhagavad-gita:8.12-13, tea:bhagavad-gita:8.13 — Fidelity checker F (bhagavad-gita ch07-09): this unit's contribution checked against the Sanskrit of the cited verses; no change needed.
 
-_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch07-09, skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._

@@ -3590,6 +3590,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:buddhacarita",
+  "label": "Buddhacarita",
+  "account": "scholarly",
+  "from": 50,
+  "to": 200,
+  "text": "c. 1st–2nd c. CE",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:asvaghosa",
   "label": "Aśvaghoṣa",
   "account": "scholarly",
@@ -5766,6 +5776,16 @@
   "from": 450,
   "to": 1450,
   "text": "attested in Karnataka inscriptions from about the 5th c. CE (Kadamba grants) to about the 14th–15th c. CE, after which it disappears",
+  "confidence": "moderate",
+  "level": "skeleton"
+ },
+ {
+  "entity": "lin:tantra-movement",
+  "label": "Tantra as a movement across the traditions (Tantraśāstra; the Mantramārga / Mantranaya current)",
+  "account": "scholarly",
+  "from": 450,
+  "to": 1700,
+  "text": "Earliest surviving Śaiva tantric scripture (Niśvāsa) c. 5th–7th c. CE; Buddhist Kriyā and Yoga tantras 6th–8th c.; Śaiva Vidyāpīṭha and Buddhist Yoginī tantras 8th–10th c.; Kālacakra early 11th c.; Jain mantra-kalpas 10th–11th c.; later Bengal and Kerala digests 14th–17th c.",
   "confidence": "moderate",
   "level": "skeleton"
  },
@@ -13647,7 +13667,7 @@
   "to": 1100,
   "text": "11th c. CE",
   "confidence": "moderate",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "tch:sivaditya",
@@ -29937,7 +29957,7 @@
   "to": 1659,
   "text": "1615–1659 CE",
   "confidence": "high",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "tch:sokuhi-nyoitsu",
@@ -30660,6 +30680,16 @@
   "level": "skeleton"
  },
  {
+  "entity": "src:dara-baba-lal-dialogues",
+  "label": "The dialogues of Bābā Lāl and Dārā Shikoh (Nādir al-nikāt / Mukālama)",
+  "account": "scholarly",
+  "from": 1653,
+  "to": 1660,
+  "text": "1653 CE (conversations); record soon after",
+  "confidence": "low",
+  "level": "skeleton"
+ },
+ {
   "entity": "tch:desi-sangye-gyatso",
   "label": "Desi Sangye Gyatso (sde srid sangs rgyas rgya mtsho)",
   "account": "scholarly",
@@ -30667,6 +30697,16 @@
   "to": 1705,
   "text": "1653–1705",
   "confidence": "high",
+  "level": "skeleton"
+ },
+ {
+  "entity": "src:majma-ul-bahrain",
+  "label": "Majmaʿ al-Baḥrayn (The Mingling of the Two Oceans)",
+  "account": "scholarly",
+  "from": 1654,
+  "to": 1655,
+  "text": "1654–1655 CE",
+  "confidence": "moderate",
   "level": "skeleton"
  },
  {
@@ -30697,7 +30737,7 @@
   "to": 1657,
   "text": "1657 CE",
   "confidence": "high",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "lin:satnami",
@@ -30877,7 +30917,7 @@
   "to": 1790,
   "text": "late 17th - 18th c. CE",
   "confidence": "low",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "tch:sahajobai",
@@ -32557,7 +32597,7 @@
   "to": 1802,
   "text": "1801–1802 CE",
   "confidence": "high",
-  "level": "skeleton"
+  "level": "sourced"
  },
  {
   "entity": "src:crystal-mirror-tenets",
@@ -34717,6 +34757,16 @@
   "to": 1945,
   "text": "1945",
   "confidence": "low",
+  "level": "skeleton"
+ },
+ {
+  "entity": "tch:sakya-trizin-41",
+  "label": "Ngawang Kunga Tegchen Palbar, 41st Sakya Trizin",
+  "account": "scholarly",
+  "from": 1945,
+  "to": null,
+  "text": "b. 1945 CE",
+  "confidence": "high",
   "level": "skeleton"
  },
  {

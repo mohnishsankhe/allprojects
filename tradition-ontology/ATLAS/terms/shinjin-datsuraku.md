@@ -17,4 +17,4 @@
 _Notes: Rujing's own record has 心塵脫落 (the dust of mind drops off), homophonous in Japanese (tea:rujing-yulu:130c19)._
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

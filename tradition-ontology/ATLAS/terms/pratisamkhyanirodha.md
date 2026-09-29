@@ -17,4 +17,4 @@
 - exact: [nirvāṇa](nirvana.md) (Sarvāstivāda Abhidharma) — The Kośa identifies nirvāṇa with this cessation.
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

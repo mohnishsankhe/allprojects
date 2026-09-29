@@ -1,6 +1,6 @@
 # Dattātreya
 
-`tch:dattatreya` · `skeleton` · confidence high
+`tch:dattatreya` · `sourced` · confidence high
 
 **Alternate names:** Datta, Avadhūta, Dattaguru, Dattātreya Avadhūta
 **Lineages:** `lin:datta-sampradaya`, [The Purāṇic tradition (paurāṇika)](../lineages/puranic.md), [Advaita Vedānta](../lineages/advaita-vedanta.md), [Nāth tradition (Nātha Siddhas; Nāth / Kānphaṭa Yogīs)](../lineages/natha.md), [Haṭha Yoga (the haṭha and rājayoga textual tradition)](../lineages/hatha-yoga.md), [Upaniṣadic tradition (the teaching of the early Upaniṣads)](../lineages/upanisadic.md), [Saṃnyāsa — the renunciate ideal of the Saṃnyāsa Upaniṣads](../lineages/sannyasa.md), [Śrīvidyā](../lineages/srividya.md), [Mahānubhāva panth](../lineages/mahanubhava.md), [Aghora (Aghor panth; Aghorī and Aughaṛ ascetics)](../lineages/aghora.md)
@@ -19,4 +19,8 @@ Son of Atri and Anasūyā, counted the sixth avatāra in the Bhāgavata (1.3.11:
 _Notes: U26 contribution (Mahānubhāva view) only._
 
 ---
-_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U23-sakta-srividya, skeleton:U26-regional-bhakti, skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — Text-located: the name occurs in the e-text of darsana, avadhuta, jabala, bhiksuka, naradaparivrajaka, sandilya, dattatreya, in the roles the summary gives. Śāṇḍilya 3 (the e-text's ch. 3) gives the etymology: datta, and the son of Atri born of Anasūyā. A mythic or textual figure, so there is no historical dating to check.
+
+_Contributed by: skeleton:U06-other-gitas, skeleton:U07-puranas, skeleton:U28-hatha-texts, skeleton:U04-minor-upanisads, skeleton:U23-sakta-srividya, skeleton:U26-regional-bhakti, skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._

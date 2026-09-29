@@ -37,4 +37,4 @@ concepts: [The seventeen stages of the Yogācārabhūmi](../concepts/seventeen-b
 _Notes: Sanskrit survives for large parts (Śrāvakabhūmi, Bodhisattvabhūmi, bhūmis 1–5 and others); the complete text is extant in Chinese (100 fascicles) and Tibetan. Taishō numbers are recalled, not checked locally (CBETA T30–31 not in sources_raw)._
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U41-yogacara-pramana. Generated 2026-09-29 17:45 IST._

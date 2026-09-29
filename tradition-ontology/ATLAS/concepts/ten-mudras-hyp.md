@@ -14,4 +14,4 @@
 - contrasts-with → [The twenty-five mudrās of the Gheraṇḍa Saṃhitā](twenty-five-mudras-gheranda.md) — rests on [3.6-7](../texts/hatha-yoga-pradipika.md#tea-hatha-yoga-pradipika-3-6-7), [3.1-3](../texts/gheranda-samhita.md#tea-gheranda-samhita-3-1-3)
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._

@@ -19,4 +19,4 @@
 **Related:** [uṣmagata](usmagata.md), [mūrdhan](murdhan.md), [kṣānti](ksanti.md), [laukikāgra-dharma](laukikagradharma.md)
 
 ---
-_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U41-yogacara-pramana, skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

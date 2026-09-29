@@ -16,4 +16,4 @@ Singing Jayadeva's twenty-four songs in their rāgas and tālas before the Lord 
 _Notes: Recorded details of temple use (the Purī order attributed to Gajapati Pratāparudra; Kerala temple practice) recalled with moderate confidence._
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:45 IST._

@@ -12,4 +12,4 @@ Offering rice-balls with sesame and water to the dead for the first ten days (wh
   - [Mārkaṇḍeya Purāṇa](../texts/markandeya-purana.md) — ref: 10.72-75; rests_on: ["tea:markandeya-purana:10.46-78"]
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

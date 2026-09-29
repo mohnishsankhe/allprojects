@@ -15,4 +15,4 @@
 **Related:** [śakti](sakti.md), [ambā / ambikā](amba.md)
 
 ---
-_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U23-sakta-srividya. Generated 2026-09-29 17:45 IST._

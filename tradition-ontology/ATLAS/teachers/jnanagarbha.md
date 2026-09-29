@@ -14,4 +14,4 @@
 Author of the Satyadvayavibhaṅga on the two truths; student of Śrīgupta and teacher of Śāntarakṣita in the Tibetan lineage.
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

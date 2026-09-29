@@ -23,4 +23,4 @@ Withdrawal (the senses resting in themselves), meditation (fivefold), breath con
 - analogous: [The six-limbed yoga of the Maitrī](sadanga-yoga-maitri.md) — The Maitrī Upaniṣad's six limbs (prāṇāyāma, pratyāhāra, dhyāna, dhāraṇā, tarka, samādhi) share most names but not the order or the Buddhist signs and goal.
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._

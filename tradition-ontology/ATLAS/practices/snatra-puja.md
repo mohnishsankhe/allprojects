@@ -12,4 +12,4 @@ A congregational re-enactment of Indra's bathing of the newborn Tīrthaṅkara o
   - [Kalpa Sūtra (Paryuṣaṇākalpa)](../texts/kalpa-sutra-jain.md) — ref: jinacaritra.mahavira
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._

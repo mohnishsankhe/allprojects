@@ -12,4 +12,4 @@ The tips of thumb and index finger joined and the other fingers extended, turned
   - [Śāradātilaka](../texts/saradatilaka.md) — ref: ch.6-7 (commentary)
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:45 IST._

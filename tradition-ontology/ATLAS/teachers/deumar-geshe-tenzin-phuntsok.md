@@ -11,4 +11,4 @@
 Eighteenth-century physician and author of the materia medica 'Crystal Mirror and Crystal Rosary'.
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

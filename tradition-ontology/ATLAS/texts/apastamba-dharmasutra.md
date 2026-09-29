@@ -145,4 +145,4 @@ _Notes: Commentary: Haradatta's Ujjvalā._
 
 - 2026-09-28 catalog+text-locate: confirmed — catalog:DCS:Āpastambadharmasūtra, catalog:GRETIL-dev:apastamba-dharmasutra, https://en.wikipedia.org/wiki/Apastamba_Dharmasutra, https://en.wikipedia.org/wiki/Gautama_Dharmasutra — Extant; praśnas 28–29. Thirteen passages are text-located. Dating: Olivelle treats it as the oldest extant Dharmasūtra (early 3rd c. BCE); Kane gave 450–350 BCE. This matches both halves of the entry.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._

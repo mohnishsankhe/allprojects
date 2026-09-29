@@ -13,4 +13,4 @@
 - corresponds-to-in-map → [The seats and fields of the Yoginīkaula](pithas-kjn.md) (shared sacred geography): The Buddhist and Śaiva/Śākta pīṭha lists share many names (Oḍḍiyāna, Jālandhara, Kāmarūpa, Pūrṇagiri); see brw:saiva-pithas-to-cakrasamvara. — rests on [pitha-list](../texts/cakrasamvara-tantra.md#tea-cakrasamvara-tantra-pitha-list)
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._

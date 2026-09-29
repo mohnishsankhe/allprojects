@@ -43,4 +43,4 @@ terms: [āryikā](../terms/aryika.md) · concepts: [Liberation of women (strī-m
 _Notes: Title present in the local catalogue (catalog:JainDB:मूलाचार--वट्टकेराचार्य); catalogue confirms extant digitized text, not author or date._
 
 ---
-_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon, skeleton:U35-jain-philosophy. Generated 2026-09-29 17:45 IST._

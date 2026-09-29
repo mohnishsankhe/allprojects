@@ -1,6 +1,6 @@
 # Nāda — the inner sound
 
-`cpt:nada` · `skeleton` · confidence high
+`cpt:nada` · `sourced` · confidence high
 
 **Category:** sound-language
 
@@ -21,4 +21,8 @@
 _Notes: For the inner sounds of the Yoga Upaniṣads and haṭha texts see (owned by U04/U28/U29): tea:hamsa-upanisad:4-ten-sounds, tea:nadabindu-upanisad:33-35, tea:hatha-yoga-pradipika:4.65-66, tea:hatha-yoga-pradipika:4.69, pth:hyp-nada-four-stages, phn:hamsa-ten-sounds._
 
 ---
-_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts, skeleton:U31-sound-arts, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._
+**Verification checks**
+
+- 2026-09-29 text-locate: confirmed — catalog:raw_etexts:108_Upanishads, text:sources_raw/raw_etexts/vedaH/misc/upaniShat/mixedPF/108_Upanishads.md — The inline refs and paraphrased content were checked against the e-text passages read for the teachings. All 8 teachings it rests on exist and were located in the e-text. Some rest on teachings whose ref was corrected or only partly confirmed; the content is located, only the numbering changes: tea:hamsa-upanisad:4-ten-sounds (corrected).
+
+_Contributed by: skeleton:U04-minor-upanisads, skeleton:U28-hatha-texts, skeleton:U31-sound-arts, skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._

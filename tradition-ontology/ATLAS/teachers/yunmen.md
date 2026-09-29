@@ -15,4 +15,4 @@ Founder of the Yunmen house in Guangdong; heir of Xuefeng; known for one-word an
 **Realization — the tradition's account:** When Muzhou slammed his gate on Yunmen's leg, breaking it, Yunmen awoke (tradition's account; Biyan lu case 6 commentary).
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

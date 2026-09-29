@@ -31,4 +31,4 @@ concepts: [The ten fetters](../concepts/ten-fetters.md), [Calm and insight](../c
 _Notes: SuttaCentral uid mn64; Mahāsaṅgīti title 'Mahāmālukyasutta' (checked locally)._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._

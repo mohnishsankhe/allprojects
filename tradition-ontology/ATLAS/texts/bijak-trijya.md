@@ -16,4 +16,4 @@
 A Kabīr Panth commentary on the Bījak that reads it as a manual of discernment (pārakh): the seeker tests every doctrine and deity, recognizing them as products of the mind, until only the discerning self remains.
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._

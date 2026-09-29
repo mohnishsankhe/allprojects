@@ -25,7 +25,7 @@ In the Dharma of the age of perfection the ultimate is taught as empty of other 
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-concepts: `cpt:zhentong`, `cpt:four-ages-dolpopa` · teachers: [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md) · disputes: `dsp:rangtong-shentong`
+concepts: [Other-emptiness (gzhan stong)](../concepts/zhentong.md), [The four ages of the doctrine (Dolpopa)](../concepts/four-ages-dolpopa.md) · teachers: [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
 
 ### whole <a id="tea-fourth-council-dolpopa-four-ages"></a>
 `skeleton` · confidence moderate
@@ -34,8 +34,8 @@ The doctrine is reckoned by the four ages — perfection (kṛta), the three-por
 
 _level: conventional · standpoint: cosmic · path: general · stage: all · types: world-fate, teacher-transmission, dispute_
 
-terms: `trm:kadu-zhipa`, [kṛta-yuga](../terms/krta-yuga.md), [kali-yuga](../terms/kali-yuga.md) · concepts: `cpt:four-ages-dolpopa` · teachers: [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md) · disputes: `dsp:rangtong-shentong`
+terms: [bka' bsdu bzhi pa](../terms/kadu-zhipa.md), [kṛta-yuga](../terms/krta-yuga.md), [kali-yuga](../terms/kali-yuga.md) · concepts: [The four ages of the doctrine (Dolpopa)](../concepts/four-ages-dolpopa.md) · teachers: [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
 
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

@@ -14,4 +14,4 @@ A seated twist: one foot at the root of the opposite thigh and the other wound o
   - [Gheraṇḍa Saṃhitā](../texts/gheranda-samhita.md) — ref: 2.22-23; rests_on: ["tea:gheranda-samhita:2.22-23"]
 
 ---
-_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U29-hatha-practices. Generated 2026-09-29 17:45 IST._

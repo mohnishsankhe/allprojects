@@ -42,4 +42,4 @@ terms: [bhūta-caitanya](../terms/bhuta-caitanya.md), [lokāyata](../terms/lokay
 
 
 ---
-_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U33-sramana. Generated 2026-09-29 17:45 IST._

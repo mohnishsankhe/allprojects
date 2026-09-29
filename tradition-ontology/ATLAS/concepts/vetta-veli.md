@@ -13,4 +13,4 @@
 - contrasts-with → [Emptiness (śūnyatā) in Madhyamaka](sunyata.md): not to be identified with Buddhist emptiness; verbal resemblance only
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U22-tamil-siddha. Generated 2026-09-29 17:45 IST._

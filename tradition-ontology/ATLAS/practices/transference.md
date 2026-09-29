@@ -16,4 +16,4 @@ Summary only: at the time of death consciousness is sent upward with deity and s
 - Taught only as oral instruction within the six dharmas; the text itself gives it to one prepared by the preceding yogas. — [Ṣaḍdharmopadeśa of Tilopa](../texts/saddharmopadesa-tilopa.md) 6
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._

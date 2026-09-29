@@ -25,7 +25,7 @@ Khedrup Je refutes the view that the ultimate is truly established, permanent an
 
 _level: bridging · standpoint: polemical · path: knowledge · stage: advanced · types: dispute, ultimate_
 
-concepts: `cpt:rangtong`, `cpt:zhentong` · teachers: [Khedrup Je Gelek Pelzang](../teachers/khedrup-je.md), [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md) · disputes: `dsp:rangtong-shentong`
+concepts: [Self-emptiness (rang stong)](../concepts/rangtong.md), [Other-emptiness (gzhan stong)](../concepts/zhentong.md) · teachers: [Khedrup Je Gelek Pelzang](../teachers/khedrup-je.md), [Dolpopa Sherab Gyaltsen (dol po pa shes rab rgyal mtshan)](../teachers/dolpopa.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
 
 ### view <a id="tea-tongthun-chenmo-view"></a>
 `skeleton` · confidence low
@@ -34,8 +34,8 @@ Khedrup Je argues that the object of negation must be precisely identified and t
 
 _level: ultimate · standpoint: polemical · path: knowledge · stage: advanced · types: ultimate, dispute_
 
-teachers: [Khedrup Je Gelek Pelzang](../teachers/khedrup-je.md) · disputes: `dsp:object-of-negation-madhyamaka`
+teachers: [Khedrup Je Gelek Pelzang](../teachers/khedrup-je.md) · disputes: [What does Madhyamaka reasoning negate: inherent existence only, or all four extremes including existence itself?](../debates/object-of-negation-madhyamaka.md)
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

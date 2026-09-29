@@ -37,10 +37,10 @@ The Teacher called ignorance the conceiving of things born from causes and condi
 
 _level: bridging · standpoint: causal · path: knowledge · stage: all · types: karma-liberation_
 
-terms: [avidyā](../terms/avidya.md) · concepts: [The twelve links in the Madhyamaka](../concepts/twelve-links-in-madhyamaka.md) · obstacles: [Grasping at own-nature (inherent existence)](../obstacles/svabhava-graha.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
+terms: [avidyā](../terms/avidya.md) · concepts: [The twelve links in the Madhyamaka](../concepts/twelve-links-in-madhyamaka.md) · obstacles: [Grasping at inherent existence (true-grasping)](../obstacles/svabhava-graha.md) · teachers: [Nāgārjuna](../teachers/nagarjuna.md)
 
 
 _Notes: Sanskrit lost apart from quotations._
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

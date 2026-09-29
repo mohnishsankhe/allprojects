@@ -13,4 +13,4 @@
 Elder brother and guru of Jñāneśvar, initiated in the Nāth line by Gahinīnāth; Jñāneśvar calls himself 'Nivṛtti's servant' (nivṛttidāsu) throughout the Jñāneśvarī. Abhaṅgas are ascribed to him.
 
 ---
-_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U21-natha-aghora. Generated 2026-09-29 17:45 IST._

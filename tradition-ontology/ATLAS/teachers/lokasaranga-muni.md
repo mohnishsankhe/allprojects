@@ -10,4 +10,4 @@ Priest of the Śrīraṅgam temple who, at the Lord's command, carried Tiruppā�
 **Realization — the tradition's account:** Having struck the bard who stood in his path, he saw blood on the Lord's image and was told to carry the devotee in himself.
 
 ---
-_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U25-alvar-bhakti-theory. Generated 2026-09-29 17:45 IST._

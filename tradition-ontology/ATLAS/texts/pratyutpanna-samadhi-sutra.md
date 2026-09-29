@@ -28,4 +28,4 @@ terms: [buddhānusmṛti](../terms/buddhanusmrti.md), [cittamātra](../terms/cit
 _Notes: T417/T418 (vol. 13) not local; chapter-level refs from memory._
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

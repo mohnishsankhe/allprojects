@@ -13,4 +13,4 @@ At the beginner's stage the Sahajiyā relies on the Name and the mantra received
 **Sequences:** [The three stages of the Sahajiyā path](../paths/sahajiya-three-stages.md)
 
 ---
-_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U27-sant-baul. Generated 2026-09-29 17:45 IST._

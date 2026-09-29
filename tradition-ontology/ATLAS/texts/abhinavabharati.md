@@ -83,4 +83,4 @@ terms: [śānta-rasa](../terms/santa-rasa.md), [tattvajñāna](../terms/tattvajn
 _Notes: Survives with gaps; printed in the Gaekwad's Oriental Series edition of the Nāṭyaśāstra._
 
 ---
-_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._

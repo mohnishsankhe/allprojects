@@ -11,4 +11,4 @@ One of the sixty-three Nāyaṉmārs. In a former birth a spider that wove a can
 **Realization — the tradition's account:** In a former birth a spider that wove a canopy over the liṅga at Tiruvāṉaikkā and fought an elephant that also worshipped there, both dying; reborn as a Cōḻa king, he built many 'elevated temples' (māṭakkōyil) that elephants cannot climb.
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._

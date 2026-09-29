@@ -14,4 +14,4 @@
 - contrasts-with → [The two truths (satyadvaya)](two-truths.md): the Mahāyoga 'superior' two truths add purity of appearance to the sūtra two truths — rests on [1](../texts/osel-nyingpo.md#tea-osel-nyingpo-1)
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

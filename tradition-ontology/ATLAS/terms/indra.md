@@ -16,4 +16,4 @@
 _Notes: Scholarly metadata only (not used in interpretation): an Indra appears among the demons of the Avesta._
 
 ---
-_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U01-vedic-samhitas. Generated 2026-09-29 17:45 IST._

@@ -15,4 +15,4 @@ Siddhar of Kar큰r; in the tradition a disciple of Bogar who helped R훮jar훮ja C�
 _Notes: U22 contribution. Counted in the popular list of the eighteen Siddhars (see cpt:eighteen-siddhars); the sam훮dhi place given follows that list and is recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U22-tamil-siddha, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U22-tamil-siddha, skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._

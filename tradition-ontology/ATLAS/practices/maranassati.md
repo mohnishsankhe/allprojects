@@ -23,4 +23,4 @@ Reflecting that death may come at any moment — 'may I live for the time of one
 _Notes: The warning about wrong attention recalled from memory._
 
 ---
-_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U36-pali-suttas, skeleton:U37-abhidhamma-visuddhimagga. Generated 2026-09-29 17:45 IST._

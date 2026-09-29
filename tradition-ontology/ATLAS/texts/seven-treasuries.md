@@ -15,4 +15,4 @@
 Longchenpa's seven great treatises systematizing the whole path and above all the Great Perfection: the Wish-Fulfilling, Instruction, Dharmadhātu, Philosophical Systems, Supreme Vehicle, Words and Meanings, and Natural State treasuries.
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

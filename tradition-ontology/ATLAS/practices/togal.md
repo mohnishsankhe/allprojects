@@ -21,4 +21,4 @@ The instruction-series practice of spontaneous presence: relying on key points o
 _Notes: RESTRICTED: no method recorded._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

@@ -43,7 +43,7 @@ The prayer ends its account of meditation with aspirations for the experiences a
 
 _level: bridging · standpoint: experiential · path: meditation · stage: advanced · types: practice_
 
-obstacles: `obs:three-strayings-mahamudra`
+obstacles: [The three strayings (gol sa gsum)](../obstacles/three-strayings-mahamudra.md)
 
 ### ground-path-fruit <a id="tea-aspiration-prayer-of-mahamudra-ground-path-fruit"></a>
 `skeleton` · confidence high
@@ -77,7 +77,7 @@ The waves of coarse and subtle thought subside in their own place and the river 
 
 _level: conventional · standpoint: experiential · path: meditation · stage: intermediate · types: practice_
 
-practices: `prc:mahamudra-samatha-without-support`, `prc:looking-at-the-mind` · obstacles: [Laxity and excitement, and the other faults of concentration](../obstacles/laxity-and-excitement.md)
+practices: [Mahāmudrā śamatha without support](../practices/mahamudra-samatha-without-support.md), [Looking at the mind (Mahāmudrā vipaśyanā)](../practices/looking-at-the-mind.md) · obstacles: [Laxity and excitement, and the other faults of concentration](../obstacles/laxity-and-excitement.md)
 
 ### view-meditation-conduct <a id="tea-aspiration-prayer-of-mahamudra-view-meditation-conduct"></a>
 `skeleton` · confidence moderate
@@ -90,4 +90,4 @@ concepts: [View, meditation, conduct and fruition](../concepts/view-meditation-c
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

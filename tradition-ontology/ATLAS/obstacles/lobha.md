@@ -14,4 +14,4 @@ Bhagavad Gītā 1–3: In Arjuna's argument, greed strikes down the minds of the
   - [Ādittapariyāya Sutta](../texts/adittapariyaya-sutta.md) — ref: 1.3-1.7; rests_on: ["tea:adittapariyaya-sutta:1.3-1.7"]
 
 ---
-_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._
+_Contributed by: extraction:bhagavad-gita/ch01-03, skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._

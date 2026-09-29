@@ -120,7 +120,7 @@ Only those who always keep one of the seven kinds of prātimokṣa vow have the 
 
 _level: conventional · standpoint: ethical-social · path: action · stage: all · types: ethics_
 
-terms: [prātimokṣa](../terms/pratimoksa.md) · concepts: [The three vows (sdom gsum)](../concepts/three-vows.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md) · disputes: `dsp:bodhisattva-vow-prerequisite`
+terms: [prātimokṣa](../terms/pratimoksa.md) · concepts: [The three vows (sdom gsum)](../concepts/three-vows.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md) · disputes: [Must one hold a prātimokṣa vow to take the bodhisattva vow?](../debates/bodhisattva-vow-prerequisite.md)
 
 ### v22-26 <a id="tea-bodhipathapradipa-v22-26"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -175,7 +175,7 @@ Without calm abiding the superknowledges will not arise; therefore strive again 
 
 _level: conventional · standpoint: seeker · path: meditation · stage: intermediate · types: practice_
 
-terms: [samatha](../terms/samatha.md) · concepts: [The prerequisites (limbs) of calm abiding](../concepts/prerequisites-of-calm-abiding.md) · practices: `prc:calm-abiding-lamrim` · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
+terms: [samatha](../terms/samatha.md) · concepts: [The prerequisites (limbs) of calm abiding](../concepts/prerequisites-of-calm-abiding.md) · practices: [Calm abiding according to the lamrim](../practices/calm-abiding-lamrim.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
 
 ### v42-44 <a id="tea-bodhipathapradipa-v42-44"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -279,7 +279,7 @@ terms: [bhūmi](../terms/bhumi.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna
 ### v62-65 <a id="tea-bodhipathapradipa-v62-65"></a>
 `skeleton` · confidence high · [AI-translated]
 
-If one wishes to complete the accumulations for awakening easily, through the activities of pacifying, increasing and the rest accomplished by the power of mantra, and through the power of the eight great accomplishments such as the good vase, and wishes to practise the secret mantra taught in the action, performance and other tantras, then, to receive the master's empowerment, one should please the holy teacher with service, gifts of jewels and the like, and by doing whatever he says. By pleasing the teacher and receiving the complete master's empowerment, one is purified of all wrongdoing and becomes fit to accomplish the siddhis.
+If one wishes to complete the accumulations for awakening easily, through the activities of pacifying, increasing and the rest accomplished by the power of mantra, and through the power of the eight great accomplishments such as the good vase, and wishes to practise the secret mantra taught in the action, performance and other tantras, then, to receive the master's empowerment, one should please the holy teacher with service, gifts of jewels and the like, and by every means including hardships undertaken. By pleasing the teacher and receiving the complete master's empowerment, one is purified of all wrongdoing and becomes fit to accomplish the siddhis.
 
 > sngags mthu nyid las grub pa yi/ / zhi dang rgyas sogs las rnams kyis/ / bum pa bzang grub la sogs pa/ / grub chen brgyad sogs stobs kyis kyang / / || bde ba yis ni byang chub tshogs/ / yongs su rdzogs par 'dod pa dang / / bya ba spyod sogs rgyud gsungs pa'i/ / gal te gsang sngags spyod 'dod na/ / || de tshe slob dpon dbang bskur phyir/ / bsnyen bkur rin chen sogs sbyin dang / / dka' sgrub la sogs thams cad kyis/ / bla ma dam pa mnyes par bya/ / || bla ma mnyes par gyur pa yis/ / yongs rdzogs slob dpon dbang bskur bas/ / sdig kun rnam dag bdag nyid ni/ / dngos grub sgrub pa'i skal ldan 'gyur/ /
 
@@ -296,7 +296,7 @@ Because it is strongly prohibited in the great tantra of the Ādibuddha, the sec
 
 _level: conventional · standpoint: ethical-social · path: ritual, action · stage: advanced · types: ethics, teacher-transmission_
 
-terms: [abhiṣeka](../terms/abhiseka.md), [prātimokṣa](../terms/pratimoksa.md) · concepts: [The three vows (sdom gsum)](../concepts/three-vows.md), [The four consecrations](../concepts/abhiseka-four.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md) · disputes: `dsp:monastic-higher-initiations`
+terms: [abhiṣeka](../terms/abhiseka.md), [prātimokṣa](../terms/pratimoksa.md) · concepts: [The three vows (sdom gsum)](../concepts/three-vows.md), [The four consecrations](../concepts/abhiseka-four.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md) · disputes: [May celibate monastics receive (and practise) the secret and wisdom empowerments?](../debates/monastic-higher-initiations.md)
 
 ### v69 <a id="tea-bodhipathapradipa-v69"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -307,7 +307,7 @@ Listening to and explaining all the tantras, performing fire offerings and offer
 
 _level: conventional · standpoint: ritual · path: ritual · stage: advanced · types: ethics, teacher-transmission_
 
-teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md) · disputes: `dsp:monastic-higher-initiations`
+teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md) · disputes: [May celibate monastics receive (and practise) the secret and wisdom empowerments?](../debates/monastic-higher-initiations.md)
 
 ### v7-9 <a id="tea-bodhipathapradipa-v7-9"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -318,7 +318,7 @@ Facing paintings and statues of the perfect Buddha and stūpas, make whatever of
 
 _level: conventional · standpoint: ritual · path: devotion, ritual · stage: beginner · types: practice_
 
-concepts: [The three refuges](../concepts/three-refuges.md) · practices: [The supreme worship (sevenfold service)](../practices/sevenfold-worship.md), [Going for refuge (Sarvāstivāda definition)](../practices/saranagamana.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
+concepts: [The three refuges](../concepts/three-refuges.md) · practices: [The seven-limb practice](../practices/sevenfold-worship.md), [Going for refuge (Sarvāstivāda definition)](../practices/saranagamana.md) · teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md)
 
 ### v70 <a id="tea-bodhipathapradipa-v70"></a>
 `skeleton` · confidence high · [AI-translated]
@@ -335,4 +335,4 @@ teachers: [Atiśa Dīpaṃkaraśrījñāna](../teachers/atisa.md), [Lha Lama Jan
 _Notes: Sanskrit original lost; the Tibetan translation (by Atiśa and the translator Gewai Lodrö, colophon) is the basis. Local: catalog:Derge-Tengyur:D3947._
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

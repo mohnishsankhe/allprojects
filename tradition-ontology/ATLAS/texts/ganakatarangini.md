@@ -14,4 +14,4 @@
 Sudhākara Dvivedī's Sanskrit account of the lives and works of Indian astronomers (gaṇakas).
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._

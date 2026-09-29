@@ -21,4 +21,4 @@
 
 - 2026-09-29 text-locate: confirmed — text:sources_raw/prepared/chandogya-upanisad/segments.jsonl (Advaita-Śāradā mūla Chandogya.md, prapāṭhaka.khaṇḍa.verse), text:sources_raw/prepared/katha-upanisad/segments.jsonl (Advaita-Śāradā mūla Kathaka.md, adhyāya.vallī.verse), text:sources_raw/prepared/maitri-upanisad/segments.jsonl (eBhāratī E — All 10 Upaniṣad refs cited in the entry are located in the prepared segments (ChU 1.1; ChU 2.23.3; TU 1.8; MāU 1; KU 1.2.15-17; MuU 2.2.4; PrU 5; MāU 8-12; ŚU 1.14; MaiU 6.22). It rests on 11 teaching(s) text-located in this sweep, and its wording matches those passages.
 
-_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U31-sound-arts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U03-principal-upanisads, skeleton:U31-sound-arts. Generated 2026-09-29 17:45 IST._

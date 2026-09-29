@@ -16,4 +16,4 @@
 Assembled from Madhva's Brahmasūtrabhāṣya 3–4; the order of stages follows the sūtras. Bands are interpretive; B8 for prārabdha-bhoga is a correspondence of position only — Dvaita does not treat the embodied knower as already liberated in the sense of final mokṣa.
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._

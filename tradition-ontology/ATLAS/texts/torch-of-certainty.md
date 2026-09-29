@@ -25,8 +25,8 @@ The preliminaries are the foundation of Mahāmudrā: the four thoughts turn the 
 
 _level: conventional · standpoint: seeker · path: devotion, ritual · stage: beginner · types: practice_
 
-concepts: [The preliminaries (ngöndro)](../concepts/ngondro.md) · practices: `prc:ngondro` · teachers: [Jamgön Kongtrul Lodrö Thayé ('jam mgon kong sprul blo gros mtha' yas)](../teachers/jamgon-kongtrul.md)
+concepts: [The preliminaries (ngöndro)](../concepts/ngondro.md) · practices: [The Kagyu preliminaries (ngöndro)](../practices/ngondro.md) · teachers: [Jamgön Kongtrul Lodrö Thayé ('jam mgon kong sprul blo gros mtha' yas)](../teachers/jamgon-kongtrul.md)
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

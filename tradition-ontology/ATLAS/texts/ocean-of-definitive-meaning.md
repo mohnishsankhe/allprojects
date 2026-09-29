@@ -24,7 +24,7 @@ In stillness look at what is still; in movement look at what moves; ask whether 
 
 _level: bridging · standpoint: seeker · path: meditation · stage: intermediate · types: practice, consciousness-mind_
 
-concepts: [Stillness, movement and awareness (gnas 'gyu rig gsum)](../concepts/stillness-movement-awareness.md) · practices: `prc:looking-at-the-mind`
+concepts: [Stillness, movement and awareness (gnas 'gyu rig gsum)](../concepts/stillness-movement-awareness.md) · practices: [Looking at the mind (Mahāmudrā vipaśyanā)](../practices/looking-at-the-mind.md)
 
 ### structure <a id="tea-ocean-of-definitive-meaning-structure"></a>
 `skeleton` · confidence moderate
@@ -37,4 +37,4 @@ teachers: [Wangchuk Dorje, the ninth Karmapa](../teachers/wangchuk-dorje.md)
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

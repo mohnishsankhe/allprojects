@@ -14,4 +14,4 @@
 - corresponds-to-in-map → [The decline of the dispensation](sasana-decline.md): Both describe the decline of the teaching; the Kośa's twofold āgama/adhigama frame. — rests on [8.39](../texts/abhidharmakosa.md#tea-abhidharmakosa-8-39)
 
 ---
-_Contributed by: skeleton:U38-early-schools, skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U38-early-schools, skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

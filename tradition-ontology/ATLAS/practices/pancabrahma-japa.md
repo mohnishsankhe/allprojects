@@ -13,4 +13,4 @@ Muttering of the Sadyojāta, Vāmadeva, Aghora, Tatpuruṣa and Īśāna mantras
 **Sequences:** [The five stages of the Pāśupata path (avasthā-pañcaka)](../paths/pasupata-five-stages.md)
 
 ---
-_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U17-pasupata-kapalika. Generated 2026-09-29 17:45 IST._

@@ -40,4 +40,4 @@ _Notes: Opening checked against the Devanāgarī e-text in sources_raw/raw_etext
 
 - 2026-09-29 catalog: confirmed — local:sources_raw/raw_etexts/vedAntam/dvaitam/mAdhvam/sarvamulam/gItAprasthAnam/geetatatparya.md, https://en.wikipedia.org/wiki/List_of_works_by_Madhvacharya — Extant and digitized (Gītātātparyanirṇaya of Ānandatīrtha, local).
 
-_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U15-dvaita, skeleton:U05-gita-epic. Generated 2026-09-29 17:45 IST._

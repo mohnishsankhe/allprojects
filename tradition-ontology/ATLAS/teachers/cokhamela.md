@@ -13,4 +13,4 @@
 Mahār saint of Maṅgaḷveḍhe (d. c. 1338), disciple of Nāmdev, kept outside the temple by caste but devoted to Viṭṭhala; his abhaṅgas voice both love and the pain of exclusion ('the sugarcane is crooked, its juice is not'). He died when a wall he was building collapsed; Nāmdev carried the bones, which murmured 'Viṭṭhala', to Paṇḍharpūr, where his samādhi stands before the temple's gate.
 
 ---
-_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U26-regional-bhakti. Generated 2026-09-29 17:45 IST._

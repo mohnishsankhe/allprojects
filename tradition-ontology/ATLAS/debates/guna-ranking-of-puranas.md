@@ -28,4 +28,4 @@ This does not settle which deity is supreme; see dsp:supremacy-visnu-or-siva.
 **The traditions' own objections:** Mādhva and Gauḍīya authors take the guṇa-ranking literally (sāttvika Purāṇas alone decide doctrine); Śaiva authors reject the Vaiṣṇava ranking.
 
 ---
-_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U07-puranas. Generated 2026-09-29 17:45 IST._

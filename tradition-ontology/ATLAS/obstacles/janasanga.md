@@ -11,4 +11,4 @@ Mixing with people; its abandonment is among the six promoters (HYP 1.15–16).
   - [Haṭha Yoga Pradīpikā (Haṭhapradīpikā)](../texts/hatha-yoga-pradipika.md) — ref: 1.15; rests_on: ["tea:hatha-yoga-pradipika:1.15"]
 
 ---
-_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U28-hatha-texts. Generated 2026-09-29 17:45 IST._

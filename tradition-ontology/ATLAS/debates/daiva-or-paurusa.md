@@ -34,4 +34,4 @@ Under P2 (causal standpoint) the epic 'both' position and the Yoga Vāsiṣṭha
 _Notes: The epic side's reference is recalled with low confidence; the Ājīvika side is owned by U33._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._

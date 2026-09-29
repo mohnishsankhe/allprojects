@@ -50,4 +50,4 @@ _none recorded_
 [Can the full ordination of nuns be introduced in the Mūlasarvāstivāda (Tibetan) tradition?](../debates/bhiksuni-ordination-revival.md), [Does a gift to the Buddha yield more merit than a gift to the Saṅgha?](../debates/merit-of-gifts-buddha-or-sangha.md)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

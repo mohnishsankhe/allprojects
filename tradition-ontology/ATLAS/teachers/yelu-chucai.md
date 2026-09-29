@@ -10,4 +10,4 @@
 Khitan statesman under Chinggis Khan and lay disciple of Wansong, who asked for the Congrong lu and wrote its preface.
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

@@ -11,4 +11,4 @@
 Sena king of Bengal who began the Adbhutasāgara, a digest of omens (1168), completed by his son Lakṣmaṇasena.
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._

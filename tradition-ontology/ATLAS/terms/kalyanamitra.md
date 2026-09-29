@@ -23,4 +23,4 @@
 ## Equivalents (interpretation layer)
 
 ---
-_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka, skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U39-mahayana-sutras, skeleton:U47-sakya-kadam-gelug, skeleton:U40-madhyamaka, skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

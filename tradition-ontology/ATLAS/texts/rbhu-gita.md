@@ -41,4 +41,4 @@ _level: conventional · standpoint: ritual · path: ritual, devotion · stage: b
 _Notes: The same teacher-disciple pair (Ṛbhu and Nidāgha) appears in Viṣṇu Purāṇa 2.15-16 (verified in the local e-text). Ramana Maharshi recommended the Ṛbhu Gītā and it was read in his presence (recent reception). Chapter structure and verse counts are not verified here._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._

@@ -34,8 +34,8 @@ The vows of individual liberation, of the bodhisattva and of the mantra are one 
 
 _level: bridging · standpoint: ethical-social · path: general · stage: all · types: ethics, dispute_
 
-concepts: [The three vows (sdom gsum)](../concepts/three-vows.md) · teachers: [Jigten Sumgön (Drikung Kyobpa Rinchen Pal)](../teachers/jigten-sumgon.md) · disputes: `dsp:three-vows-one-essence`
+concepts: [The three vows (sdom gsum)](../concepts/three-vows.md) · teachers: [Jigten Sumgön (Drikung Kyobpa Rinchen Pal)](../teachers/jigten-sumgon.md) · disputes: [Are the three vows (individual liberation, bodhisattva, mantra) one in essence, or distinct systems to be kept separately?](../debates/three-vows-one-essence.md)
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

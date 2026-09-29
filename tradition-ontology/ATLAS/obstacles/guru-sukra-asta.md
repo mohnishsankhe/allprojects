@@ -11,4 +11,4 @@ While Jupiter or Venus is set in the sun's rays, marriages, sacred-thread ceremo
   - [Muhūrtacintāmaṇi](../texts/muhurta-cintamani.md) — ref: 6
 
 ---
-_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U32-jyotisa. Generated 2026-09-29 17:45 IST._

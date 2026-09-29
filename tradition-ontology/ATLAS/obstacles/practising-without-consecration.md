@@ -12,4 +12,4 @@ Taking up tantric practice without the precious consecration: like a blind man s
   - [Dohākoṣa-upadeśagīti of Saraha (the 'Queen Dohā')](../texts/dohakosa-queen-saraha.md) — ref: v15-17; rests_on: ["tea:dohakosa-queen-saraha:v15-17"]
 
 ---
-_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U44-indian-vajrayana. Generated 2026-09-29 17:45 IST._

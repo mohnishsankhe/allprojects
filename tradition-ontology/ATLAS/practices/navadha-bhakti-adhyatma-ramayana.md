@@ -12,4 +12,4 @@ Practising the nine means taught to Śabarī, beginning with holy company and en
   - [Adhyātma Rāmāyaṇa](../texts/adhyatma-ramayana.md) — ref: 3.10.22-31; rests_on: ["tea:adhyatma-ramayana:3.10.22-27"]
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._

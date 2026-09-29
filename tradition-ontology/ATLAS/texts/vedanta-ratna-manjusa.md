@@ -12,4 +12,4 @@
 Puruṣottamācārya's commentary on the Daśaślokī, systematising the arthapañcaka and the means of attainment.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._

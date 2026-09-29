@@ -31,4 +31,4 @@ obstacles: [Hope, expectation (āśā)](../obstacles/asa.md)
 _Notes: Not to be confused with Ṛṣabhadeva's teaching to his sons in Bhāgavata Purāṇa 5.5._
 
 ---
-_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U06-other-gitas. Generated 2026-09-29 17:45 IST._

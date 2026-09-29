@@ -52,4 +52,4 @@ terms: [sākṣin](../terms/saksin.md), [pratyakṣa](../terms/pratyaksa.md), [m
 _Notes: Disambiguated with '-madhva' because other works share the title._
 
 ---
-_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U15-dvaita. Generated 2026-09-29 17:45 IST._

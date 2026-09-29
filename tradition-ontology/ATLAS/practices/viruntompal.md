@@ -11,4 +11,4 @@ Receiving and feeding guests as the purpose of the householder's life.
   - [Tirukkuṟaḷ](../texts/tirukkural.md) — ref: 81; rests_on: ["tea:tirukkural:81"]
 
 ---
-_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U18-saiva-siddhanta. Generated 2026-09-29 17:45 IST._

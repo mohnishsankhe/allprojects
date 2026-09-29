@@ -22,8 +22,8 @@ Opening from the scripture's verse that the beginningless element is the basis o
 
 _level: bridging · standpoint: analytic · path: knowledge · stage: advanced · types: ultimate_
 
-terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [sems nyid (mind-as-such)](../terms/semnyi.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md) · teachers: [Rangjung Dorje, the third Karmapa](../teachers/rangjung-dorje.md) · disputes: `dsp:rangtong-shentong`
+terms: [tathāgatagarbha](../terms/tathagatagarbha.md), [sems nyid (mind-as-such)](../terms/semnyi.md) · concepts: [Buddha-nature (tathāgatagarbha, buddhadhātu)](../concepts/buddha-nature.md) · teachers: [Rangjung Dorje, the third Karmapa](../teachers/rangjung-dorje.md) · disputes: [Empty of self, or empty of other?](../debates/rangtong-shentong.md)
 
 
 ---
-_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U46-kagyu. Generated 2026-09-29 17:45 IST._

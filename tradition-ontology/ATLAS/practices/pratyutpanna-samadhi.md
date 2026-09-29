@@ -19,4 +19,4 @@ Recollecting Amitābha single-mindedly (the sūtra: for seven days and nights) u
 _Notes: Huiyuan's Lushan practice; Shandao's walking hymns; Ennin's constantly-walking nenbutsu on Mt Hiei._
 
 ---
-_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land, skeleton:U39-mahayana-sutras. Generated 2026-09-29 17:45 IST._

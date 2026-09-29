@@ -22,4 +22,4 @@ The Dharmaguptaka bhikṣuṇī lineage, living in East Asia, can supply the nun
 **Queue:** RQ-U38-14
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

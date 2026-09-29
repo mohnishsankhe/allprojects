@@ -19,4 +19,4 @@ Author (re-teacher) of the Yoga Sūtra. The tradition regards him as Śeṣa inc
 _Notes: U22 contribution. The identification of the Chidambaram sage, the grammarian and the Yoga Sūtra author is the tradition's; scholars keep them apart. Counted in the popular list of the eighteen Siddhars (see cpt:eighteen-siddhars); the samādhi place given follows that list and is recalled at low confidence._
 
 ---
-_Contributed by: skeleton:U10-yoga, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U10-yoga, skeleton:U22-tamil-siddha. Generated 2026-09-29 17:45 IST._

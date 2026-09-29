@@ -17,4 +17,4 @@ A Madhyamaka manual ascribed to Bhāviveka presenting the two truths and the pat
   - kind: translation; name: Tibetan translation, Derge Tengyur D3854 (dbu ma rin po che'i sgron ma) — catalog:Derge-Tengyur:D3854
 
 ---
-_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U40-madhyamaka. Generated 2026-09-29 17:45 IST._

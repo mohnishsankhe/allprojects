@@ -3,7 +3,7 @@
 `obs:ten-defects-of-hwadu` · `skeleton` · confidence moderate
 
 **Category:** meditation-fault
-**Convergence:** 2 independent lineage(s): [Linji house](../lineages/linji.md), [Seon (Korean Chan)](../lineages/seon.md)
+**Convergence:** 1 independent lineage(s): [Chan (Chinese Meditation school)](../lineages/chan.md)
 **Taught in:** [Seon (Korean Chan)](../lineages/seon.md), [Yangqi branch (of the Linji house)](../lineages/yangqi.md)
 
 Ways of going wrong with 'wu': taking it as being or non-being, reasoning about it, deliberating with the mind, seeking it in gestures or words, sinking into no-concern, accepting it where it is raised, seeking proof in texts; Korean tradition lists ten, adding taking it as 'true non-existence' and waiting for awakening.
@@ -14,4 +14,4 @@ Ways of going wrong with 'wu': taking it as being or non-being, reasoning about 
   - [Mirror for Seon Students (Seon'ga gwigam)](../texts/seonga-gwigam.md) — 
 
 ---
-_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U42-chan-zen. Generated 2026-09-29 17:45 IST._

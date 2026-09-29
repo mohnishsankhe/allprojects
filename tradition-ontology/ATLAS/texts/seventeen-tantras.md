@@ -16,4 +16,4 @@ The canonical tantras of the innermost secret instruction series (snying thig), 
 _Notes: Members created as separate sources below (15); two further titles not recalled with confidence (gap)._
 
 ---
-_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U45-nyingma-bon. Generated 2026-09-29 17:45 IST._

@@ -16,4 +16,4 @@
 - contrasts-with → `cpt:no-self`: The Pudgalavādins held their person compatible with the Buddha's denial of a self; their opponents did not. — rests on [9.p461/3](../texts/abhidharmakosabhasya.md#tea-abhidharmakosabhasya-9-p461-3), [1.1](../texts/kathavatthu.md#tea-kathavatthu-1-1)
 
 ---
-_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U38-early-schools. Generated 2026-09-29 17:45 IST._

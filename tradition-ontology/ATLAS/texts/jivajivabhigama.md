@@ -14,4 +14,4 @@
 The third Upāṅga: an enumeration of living and non-living substances and of the kinds of beings, with a long description of the continents and oceans of the middle world (Jambūdvīpa and beyond).
 
 ---
-_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U34-jain-canon. Generated 2026-09-29 17:45 IST._

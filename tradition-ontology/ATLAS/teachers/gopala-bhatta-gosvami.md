@@ -14,4 +14,4 @@
 Son of Veṅkaṭa Bhaṭṭa of Śrīraṅgam, where Caitanya spent the rainy season (1511 per tradition); in Vṛndāvana served the Rādhāramaṇa deity (manifested from a śālagrāma); named compiler of the Haribhaktivilāsa and drafter of the Sandarbhas completed by Jīva.
 
 ---
-_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U16-bhedabheda. Generated 2026-09-29 17:45 IST._

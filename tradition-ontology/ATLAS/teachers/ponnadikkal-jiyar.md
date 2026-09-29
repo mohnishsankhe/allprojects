@@ -10,4 +10,4 @@
 Foremost disciple of Maṇavāḷa Māmuni, first head of the Vānamāmalai (Nāṅguneri) maṭha.
 
 ---
-_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U14-visistadvaita. Generated 2026-09-29 17:45 IST._

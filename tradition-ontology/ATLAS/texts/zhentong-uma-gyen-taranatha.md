@@ -13,4 +13,4 @@
 A work of Tāranātha setting out other-emptiness as the Great Madhyamaka and answering objections (content not recalled in detail).
 
 ---
-_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U48-jonang-chod-medicine-rime. Generated 2026-09-29 17:45 IST._

@@ -19,7 +19,25 @@ Sakya Paṇḍita's polemical verse treatise distinguishing the prātimokṣa, b
   - kind: translation; name: English: A Clear Differentiation of the Three Codes (Jared Rhoton, SUNY 2002)
 **Commentaries on this text:** [Golden Lancet (legs bshad gser gyi thur ma)](golden-lancet.md)
 
-## Teachings (4: skeleton 4)
+## Teachings (6: skeleton 6)
+
+### ch.3 <a id="tea-domsum-rabye-ch-3"></a>
+`skeleton` · confidence moderate
+
+Present-day Mahāmudrā and the Chinese Great Perfection are essentially the same; the 'white self-sufficient remedy' is the teaching of the Chinese Hashang; Mahāmudrā properly is the wisdom arising from empowerment and the practice of the two stages, not a meditation without them.
+
+_level: conventional · standpoint: polemical · path: knowledge · stage: all · types: dispute_
+
+concepts: [The 'white self-sufficient remedy' (dkar po chig thub)](../concepts/white-panacea.md) · teachers: [Sakya Paṇḍita Kunga Gyaltsen](../teachers/sakya-pandita.md) · disputes: [Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?](../debates/sutra-mahamudra.md), `dsp:sudden-or-gradual`
+
+### ch.3/2 <a id="tea-domsum-rabye-ch-3-2"></a>
+`skeleton` · confidence low
+
+Sakya Paṇḍita holds that the three vows (prātimokṣa, bodhisattva and mantra) must be kept distinct, each with its own rules of taking, keeping and restoring, and criticizes teachings that blur them.
+
+_level: conventional · standpoint: polemical · path: general · stage: all · types: dispute, ethics_
+
+concepts: [The three vows (sdom gsum)](../concepts/three-vows.md) · teachers: [Sakya Paṇḍita Kunga Gyaltsen](../teachers/sakya-pandita.md) · disputes: [Are the three vows (individual liberation, bodhisattva, mantra) one in essence, or distinct systems to be kept separately?](../debates/three-vows-one-essence.md)
 
 ### ch.3.chinese <a id="tea-domsum-rabye-ch-3-chinese"></a>
 `skeleton` · confidence moderate
@@ -28,7 +46,7 @@ The Mahāmudrā of the present day and the Great Perfection of the Chinese tradi
 
 _level: conventional · standpoint: polemical · path: meditation · stage: advanced · types: dispute_
 
-teachers: [Sakya Paṇḍita Kunga Gyaltsen](../teachers/sakya-pandita.md), [Moheyan 摩訶衍 (Hwashang Mahāyāna)](../teachers/moheyan.md) · disputes: `dsp:sutra-mahamudra`, `dsp:sudden-or-gradual`
+teachers: [Sakya Paṇḍita Kunga Gyaltsen](../teachers/sakya-pandita.md), [Moheyan 摩訶衍 (Hwashang Mahāyāna)](../teachers/moheyan.md) · disputes: [Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?](../debates/sutra-mahamudra.md), `dsp:sudden-or-gradual`
 
 ### ch.3.karpo-chigtub <a id="tea-domsum-rabye-ch-3-karpo-chigtub"></a>
 `skeleton` · confidence moderate
@@ -37,7 +55,7 @@ A fool's meditation on Mahāmudrā usually becomes a cause for rebirth as an ani
 
 _level: conventional · standpoint: polemical · path: meditation · stage: advanced · types: dispute, karma-liberation_
 
-obstacles: `obs:blank-meditation` · teachers: [Sakya Paṇḍita Kunga Gyaltsen](../teachers/sakya-pandita.md) · disputes: `dsp:sutra-mahamudra`
+obstacles: [Meditation as mere absence of thought](../obstacles/blank-meditation.md) · teachers: [Sakya Paṇḍita Kunga Gyaltsen](../teachers/sakya-pandita.md) · disputes: [Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?](../debates/sutra-mahamudra.md)
 
 ### ch.3.mahamudra <a id="tea-domsum-rabye-ch-3-mahamudra"></a>
 `skeleton` · confidence moderate
@@ -46,7 +64,7 @@ The Mahāmudrā taught by the Buddha is the wisdom born of empowerment and the m
 
 _level: conventional · standpoint: polemical · path: ritual, meditation · stage: advanced · types: dispute, practice_
 
-terms: [mahāmudrā](../terms/mahamudra.md) · teachers: [Sakya Paṇḍita Kunga Gyaltsen](../teachers/sakya-pandita.md) · disputes: `dsp:sutra-mahamudra`
+terms: [mahāmudrā](../terms/mahamudra.md) · teachers: [Sakya Paṇḍita Kunga Gyaltsen](../teachers/sakya-pandita.md) · disputes: [Can Mahāmudrā be introduced and realized apart from tantric empowerment — Gampopa's 'sūtra Mahāmudrā', the 'white self-sufficient remedy' — or is Mahāmudrā only the wisdom arising from empowerment and the two stages?](../debates/sutra-mahamudra.md)
 
 ### structure <a id="tea-domsum-rabye-structure"></a>
 `skeleton` · confidence moderate
@@ -59,4 +77,4 @@ concepts: [The three vows (sdom gsum)](../concepts/three-vows.md) · teachers: [
 
 
 ---
-_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U47-sakya-kadam-gelug. Generated 2026-09-29 17:45 IST._

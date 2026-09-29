@@ -16,4 +16,4 @@ Zunshi's Tiantai-style repentance liturgy in ten sections for practitioners aspi
   - kind: original; name: Taishō T47n1984 (CBETA); licence: CBETA CC BY-NC-SA; url: https://cbetaonline.dila.edu.tw/T1984
 
 ---
-_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U43-pure-land. Generated 2026-09-29 17:45 IST._

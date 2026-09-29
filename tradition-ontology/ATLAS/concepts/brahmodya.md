@@ -16,4 +16,4 @@
 
 - 2026-09-29 text-locate: confirmed — ŚB 11.6.3 is Janaka's brahmodya at which Yājñavalkya answers Śākalya. Rests on teaching checks confirmed in this sweep: tea:satapatha-brahmana:11.6.3.1-11.
 
-_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U02-brahmana-vedanga. Generated 2026-09-29 17:45 IST._

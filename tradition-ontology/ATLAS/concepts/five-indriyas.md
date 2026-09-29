@@ -15,4 +15,4 @@
 - same-as-under-standpoint → [The five means: faith, energy, mindfulness, samādhi, insight](sraddha-virya-smrti-samadhi-prajna.md): YS 1.20 lists śraddhā, vīrya, smṛti, samādhi, prajñā — rests on [48.10](../texts/indriya-samyutta.md#tea-indriya-samyutta-48-10)
 
 ---
-_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:34 IST._
+_Contributed by: skeleton:U36-pali-suttas. Generated 2026-09-29 17:45 IST._
