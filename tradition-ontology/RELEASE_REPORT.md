@@ -54,7 +54,7 @@ Legend:
   5. With `ONTO_ALLOW_RULES_ONLY=1` → 200, carrying the offline notice.
   6. `DELETE /api/me` → 200.
 
-  The commit and test count are given in the final summary of this release.
+  Verified on commit 2e794dc: 429 tests passed in the fresh clone.
 
 ## How each gate was scored
 - **Evaluation sets.** onto-analyst wrote them in P5, and builders never saw them:
