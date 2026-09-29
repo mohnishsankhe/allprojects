@@ -13,12 +13,12 @@ Budget: 12 working hours. Phase budgets: P0 0:00–0:30 · P1 0:30–3:30 · P2 
 |---|---|---|
 | P0 Audit | done (2026-09-29 18:39 IST) | AUDIT.md: ascetic lens has no user-facing entries yet; person-layer kleśa/hindrance/fetter/kaṣāya/vṛtti ids all skeleton; 20 spot-checks: 17 faithful, 3 partly; restricted-flag gaps listed |
 | P1 Ontology sufficiency | done (23:46 IST, inside budget) | ALL core texts text-verified and merged (2,833+ teachings): Gītā (all 736), YS + Vyāsa, Māṇḍūkya + Kārikā, VBT, Satipaṭṭhāna/Mahāsatipaṭṭhāna/Ānāpānasati, Heart Sūtra ×2, HYP, Dhammapada, Visuddhimagga selections, Tattvārtha (karma/passions; ch9–10), TaittU sheaths, KU chariot. Diagnosis 102/102 usable; practices 35 usable, 19 gentle; tables rebuilt (obstacle 16/16, one-truth 6/8, path-map 53/77). Restricted practices/teachings redacted to summary-only in merged data. Practice refresh: 84 entries, 69 usable, 38 gentle. Self-question: side by side, not yet reconciled. |
-| P2 Engine design | started early, in parallel (22:45 IST) | ENGINE_SPEC.md; mapping rules (onto-deep); intake.json; tone.md; synthesis_rules.json; content design running (onto-analyst) |
-| P3 Build | started early, in parallel | written: llm, store, safety, claims, specificity, ontology, report, engine, pathway, synthesizer, schemas, service, cli, content, gates, run_eval. Builders running: mapper; api + web + tests |
-| P4 Content engine | drafts done early (23:20 IST), rules engine | 50 posts (10 per bucket, 5 formats) in the review queue, all passing rules checks; 30-day calendar per bucket (content/calendars/); export content/queue.jsonl. Model-engine drafts and the Opus content check: not run (no API key). |
-| P5 Evaluation | runs done; judging (00:05–) | hidden sets 30/12/10 run offline (rules engine); judges: practice safety (PASS on re-run), content (re-judge running), person-map gates (re-judge running); onto-deep red team running. Model-engine gates: NOT RUN (no API key). |
-| P6 Fix loop | running (00:00–) | fixes: simile exception, referral phrase, contractions, injection patterns, practice-safety fixes, content pool v2 + templates, person-map synthesis/mapper/safety fixes |
-| P7 Release | queued | |
+| P2 Engine design | done (in parallel with P1, from 22:45 IST) | ENGINE_SPEC.md; mapping rules (onto-deep); intake.json; tone.md; synthesis_rules.json; content design (onto-analyst) |
+| P3 Build | done | llm, store, safety, claims, specificity, ontology, report, engine, pathway, synthesizer, schemas, service, cli, content, gates, run_eval, mapper, api + web; 378 tests |
+| P4 Content engine | done (rules drafts; 23:20 IST) | 50 posts (10 per bucket, 5 formats) in the review queue, all passing rules checks; 30-day calendar per bucket (content/calendars/); export content/queue.jsonl. Model-engine drafts and the Opus content check: not run (no API key). |
+| P5 Evaluation | done | hidden sets 30/12/10 run offline (rules engine); judges: practice safety PASS, content PASS 50/50, person map 8 of 9 offline gates PASS (swap test FAIL, n=2). Model-engine gates: NOT RUN (no API key). |
+| P6 Fix loop | done | 4 person-map, 4 content and 1 practice re-judges; red team first run, re-run and final check; fixes logged in DECISIONS.md |
+| P7 Release | running (02:35 IST) | RELEASE_REPORT.md: NOT READY (model gates and measured cost NOT RUN; swap test FAIL) |
 
 ---
 

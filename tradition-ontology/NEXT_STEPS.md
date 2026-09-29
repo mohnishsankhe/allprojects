@@ -18,8 +18,8 @@ RELEASE_REPORT.md has the gate status.
      - judge the packets in `eval/judge/model/`;
      - write measured costs into COSTS.md;
      - re-run the red team against the model engine.
-2. **Recall of the person map.** The offline rules engine maps only 2 of 30 hidden personas; both are genuine, and 28 get an honest "could not connect". Lexical cues do not generalise: 15/30 on the development set against 2/30 on the hidden set. The model engine's blind recheck is the designed path for paraphrase and must be measured, not assumed. Do not tune cues on the hidden set.
-3. **Gates that could not be judged meaningfully offline.** The swap test and citation integrity rest on 2 mapped readings. Re-judge them on model-engine output with at least 20 mapped readings.
+2. **Recall of the person map.** The offline rules engine maps only 2 of 30 hidden personas; both are genuine, and 28 get an honest "could not connect". Lexical cues do not generalise: 13/30 on the development set (after the last safety and synthesis fixes) against 2/30 on the hidden set. The model engine's blind recheck is the designed path for paraphrase and must be measured, not assumed. Do not tune cues on the hidden set.
+3. **Gates that could not be judged meaningfully offline.** The swap test (FAIL, 4/12) and citation integrity rest on 2–3 mapped readings. Re-judge them on model-engine output with at least 20 mapped readings.
 
 ## 2. Product
 - **Prompt caching.** Put the mappable-marker catalogue in a cached system block for candidate mapping (COSTS.md).

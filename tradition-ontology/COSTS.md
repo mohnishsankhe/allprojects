@@ -2,7 +2,8 @@
 
 ## Measured costs: NOT RUN
 This session had no Anthropic API key, so no model call was made, and there are **no measured costs**. The gate
-"measured cost (COSTS.md from real runs)" is therefore **not run**.
+"measured cost (COSTS.md from real runs)" is therefore **not run** (RELEASE_REPORT.md, gate 10). Cost per person map
+and per 10 posts must be measured, not estimated, before release.
 
 **Offline:** the rules engine makes no model calls and costs nothing per reading.
 
@@ -40,6 +41,7 @@ A reading that stops at the safety screen costs about 0.02. A daily check-in is 
 | Draft (voice guide, tone guide, format and teaching) | Sonnet 5.5, medium | 4,000 / 700 | 0.015 |
 | Check (faithfulness, claims, idea) | Opus 5.5, high | 1,500 / 800 | 0.022 |
 | **Per queued post** | | | **≈ 0.037** |
+| 10 posts (the gate's unit) | | | ≈ 0.37 |
 | 50 posts (10 per bucket) | | | ≈ 1.85 |
 
 ## Ways to cut cost (not done in v1)
