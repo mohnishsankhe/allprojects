@@ -47,7 +47,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U32-jyotisa | done | 5 lin · 92 src · 78 tch · 125 tea (116 spot-checked) · 164 trm · 83 cpt · 23 prc · 11 dsp | report saved |
 | U33-sramana | done | 4 lin · 66 src · 28 tch · 180 tea (opponents' reports flagged) · 106 trm · 66 cpt · 9 prc · 10 dsp | report saved |
 | U34-jain-canon | done | 24 lin · 141 src · 163 tch (all 24 Tīrthaṅkaras) · 168 tea · 105 trm · 75 cpt · 32 prc · 16 dsp | report saved |
-| U35-jain-philosophy | running | | |
+| U35-jain-philosophy | done | 1 lin · 128 src · 65 tch · 427 tea (256 Tattvārtha, sūtra wording local) · 406 trm · 97 cpt · 54 prc (7 restricted) · 7 dsp | report saved |
 | U36-pali-suttas | running | | |
 | U37-abhidhamma-visuddhimagga | done | 16 lin · 80 src · 53 tch · 222 tea (109 Pali originals read locally) · 190 trm · 58 cpt · 81 prc · 20 dsp | report saved |
 | U38-early-schools | done | 31 lin · 85 src · 47 tch · 197 tea (114 AK kārikās quoted) · 181 trm · 62 cpt · 25 prc · 18 dsp · 50 brw | report saved |
@@ -55,7 +55,7 @@ Resume point for "continue". Update after every lineage (unit) and every text.
 | U40-madhyamaka | running (resumed) | | |
 | U41-yogacara-pramana | running (resumed) | | |
 | U42-chan-zen | running | | |
-| U43-pure-land | queued | | |
+| U43-pure-land | running | | |
 | U44-indian-vajrayana | queued | | |
 | U45-nyingma-bon | queued | | |
 | U46-kagyu | queued | | |
